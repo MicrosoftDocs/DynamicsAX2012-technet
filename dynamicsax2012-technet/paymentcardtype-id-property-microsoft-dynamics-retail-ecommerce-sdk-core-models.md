@@ -1,0 +1,64 @@
+﻿---
+title: PaymentCardType.Id Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models)
+TOCTitle: Id Property
+ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.PaymentCardType.Id
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.paymentcardtype.id(v=AX.60)
+ms:contentKeyID: 65315655
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.PaymentCardType.Id
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# Id Property
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core (in Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataMemberAttribute> _
+Public Property Id As String
+    Get
+    Set
+'Usage
+Dim instance As PaymentCardType
+Dim value As String
+
+value = instance.Id
+
+instance.Id = value
+```
+
+``` csharp
+[DataMemberAttribute]
+public string Id { get; set; }
+```
+
+``` c++
+[DataMemberAttribute]
+public:
+property String^ Id {
+    String^ get ();
+    void set (String^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+
+## See Also
+
+#### Reference
+
+[PaymentCardType Class](paymentcardtype-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)
+
+[Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models Namespace](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)
+

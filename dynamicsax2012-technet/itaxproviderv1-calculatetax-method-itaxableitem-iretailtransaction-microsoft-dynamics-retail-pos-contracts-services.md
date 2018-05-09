@@ -1,0 +1,71 @@
+﻿---
+title: ITaxProviderV1.CalculateTax Method (ITaxableItem, IRetailTransaction) (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
+TOCTitle: CalculateTax Method (ITaxableItem, IRetailTransaction)
+ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ITaxProviderV1.CalculateTax(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ITaxableItem,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransaction)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.itaxproviderv1.calculatetax(v=AX.60)
+ms:contentKeyID: 47343918
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+dev_langs:
+- vb
+- csharp
+- c++
+---
+
+# CalculateTax Method (ITaxableItem, IRetailTransaction)
+
+Calculates tax for the given line item.
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Pos.Contracts (in Microsoft.Dynamics.Retail.Pos.Contracts.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Sub CalculateTax ( _
+    taxableItem As ITaxableItem, _
+    retailTransaction As IRetailTransaction _
+)
+'Usage
+Dim instance As ITaxProviderV1
+Dim taxableItem As ITaxableItem
+Dim retailTransaction As IRetailTransaction
+
+instance.CalculateTax(taxableItem, retailTransaction)
+```
+
+``` csharp
+void CalculateTax(
+    ITaxableItem taxableItem,
+    IRetailTransaction retailTransaction
+)
+```
+
+``` c++
+void CalculateTax(
+    ITaxableItem^ taxableItem, 
+    IRetailTransaction^ retailTransaction
+)
+```
+
+#### Parameters
+
+  - taxableItem  
+    Type: [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ITaxableItem](itaxableitem-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)  
+
+<!-- end list -->
+
+  - retailTransaction  
+    Type: [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransaction](iretailtransaction-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)  
+
+## See Also
+
+#### Reference
+
+[ITaxProviderV1 Interface](itaxproviderv1-interface-microsoft-dynamics-retail-pos-contracts-services.md)
+
+[CalculateTax Overload](itaxproviderv1-calculatetax-method-microsoft-dynamics-retail-pos-contracts-services.md)
+
+[Microsoft.Dynamics.Retail.Pos.Contracts.Services Namespace](microsoft-dynamics-retail-pos-contracts-services-namespace.md)
+

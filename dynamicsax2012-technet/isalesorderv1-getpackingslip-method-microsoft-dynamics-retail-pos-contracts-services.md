@@ -1,0 +1,90 @@
+﻿---
+title: ISalesOrderV1.GetPackingSlip Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
+TOCTitle: GetPackingSlip Method
+ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ISalesOrderV1.GetPackingSlip(System.Boolean@,System.String,System.String@,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransaction@)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.isalesorderv1.getpackingslip(v=AX.60)
+ms:contentKeyID: 47343841
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Pos.Contracts.Services.ISalesOrderV1.GetPackingSlip
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetPackingSlip Method
+
+Gets the packing slip for the order.
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Pos.Contracts (in Microsoft.Dynamics.Retail.Pos.Contracts.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Sub GetPackingSlip ( _
+    ByRef retValue As Boolean, _
+    orderId As String, _
+    <OutAttribute> ByRef comment As String, _
+    <OutAttribute> ByRef posTransaction As IRetailTransaction _
+)
+'Usage
+Dim instance As ISalesOrderV1
+Dim retValue As Boolean
+Dim orderId As String
+Dim comment As String
+Dim posTransaction As IRetailTransaction
+
+instance.GetPackingSlip(retValue, orderId, _
+    comment, posTransaction)
+```
+
+``` csharp
+void GetPackingSlip(
+    ref bool retValue,
+    string orderId,
+    out string comment,
+    out IRetailTransaction posTransaction
+)
+```
+
+``` c++
+void GetPackingSlip(
+    bool% retValue, 
+    String^ orderId, 
+    [OutAttribute] String^% comment, 
+    [OutAttribute] IRetailTransaction^% posTransaction
+)
+```
+
+#### Parameters
+
+  - retValue  
+    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+
+<!-- end list -->
+
+  - orderId  
+    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+
+<!-- end list -->
+
+  - comment  
+    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+
+<!-- end list -->
+
+  - posTransaction  
+    Type: [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransaction](iretailtransaction-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)  
+
+## See Also
+
+#### Reference
+
+[ISalesOrderV1 Interface](isalesorderv1-interface-microsoft-dynamics-retail-pos-contracts-services.md)
+
+[Microsoft.Dynamics.Retail.Pos.Contracts.Services Namespace](microsoft-dynamics-retail-pos-contracts-services-namespace.md)
+

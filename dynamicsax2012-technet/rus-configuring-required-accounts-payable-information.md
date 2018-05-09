@@ -1,0 +1,34 @@
+﻿---
+title: (RUS) Configuring required Accounts payable information
+TOCTitle: (RUS) Configuring required Accounts payable information
+ms:assetid: 7d9eb57c-0ec0-4d91-9cc9-3283299e04d5
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678397(v=AX.60)
+ms:contentKeyID: 49387627
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+---
+
+# (RUS) Configuring required Accounts payable information 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
+
+The following topics provide information about configuring Accounts payable.
+
+[(RUS) Set up accounts payable parameters for amount differences](rus-set-up-accounts-payable-parameters-for-amount-differences.md)
+
+[(RUS) Set up vendor posting profiles for dimensions control for settlements](rus-set-up-vendor-posting-profiles-for-dimensions-control-for-settlements.md)
+
+[(RUS) Set up accounts payable parameters for dimensions control for settlements](rus-set-up-accounts-payable-parameters-for-dimensions-control-for-settlements.md)
+
+[(RUS) Set up a charges code for customs payments](rus-set-up-a-charges-code-for-customs-payments.md)
+
+[(RUS) Set up a number sequence for the Acceptance report in storage (MX-1)](rus-set-up-a-number-sequence-for-the-acceptance-report-in-storage-mx-1.md)
+
+[(RUS) Set up the debt interval in Accounts payable](rus-set-up-the-debt-interval-in-accounts-payable.md)
+
+[(RUS) Set up parameters for incoming VAT processing](rus-set-up-parameters-for-incoming-vat-processing.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

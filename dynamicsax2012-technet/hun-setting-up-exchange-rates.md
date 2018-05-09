@@ -1,0 +1,26 @@
+﻿---
+title: (HUN) Setting up exchange rates
+TOCTitle: (HUN) Setting up exchange rates
+ms:assetid: d61992cc-01e2-4d35-9ec5-070f02c60c0f
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664384(v=AX.60)
+ms:contentKeyID: 49385472
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+---
+
+# (HUN) Setting up exchange rates 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
+
+The following topics provide information about setting up exchange rates.
+
+[(HUN) Set up exchange rates for calculating VAT](hun-set-up-exchange-rates-for-calculating-vat.md)
+
+[(HUN) Set up an average exchange rate calculation](hun-set-up-an-average-exchange-rate-calculation.md)
+
+[(HUN) Set up a ledger account for tax discrepancies](hun-set-up-a-ledger-account-for-tax-discrepancies.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

@@ -1,0 +1,109 @@
+﻿---
+title: ICachedPricingDataManager.PutPeriodicDiscounts Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
+TOCTitle: PutPeriodicDiscounts Method
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ICachedPricingDataManager.PutPeriodicDiscounts(System.Int64,System.Int64,System.Collections.Generic.IEnumerable{System.Int64},System.String,System.DateTimeOffset,System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.PeriodicDiscount})
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.icachedpricingdatamanager.putperiodicdiscounts(v=AX.60)
+ms:contentKeyID: 62211647
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Data.ICachedPricingDataManager.PutPeriodicDiscounts
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# PutPeriodicDiscounts Method
+
+Get all retail periodic discounts (offer, quantity discounts, and mix and match discount) configurations which match the given product and context.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataManagers (in Microsoft.Dynamics.Commerce.Runtime.DataManagers.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Sub PutPeriodicDiscounts ( _
+    productId As Long, _
+    variantId As Long, _
+    priceGroupIds As IEnumerable(Of Long), _
+    currencyCode As String, _
+    activeDate As DateTimeOffset, _
+    result As ReadOnlyCollection(Of PeriodicDiscount) _
+)
+'Usage
+Dim instance As ICachedPricingDataManager
+Dim productId As Long
+Dim variantId As Long
+Dim priceGroupIds As IEnumerable(Of Long)
+Dim currencyCode As String
+Dim activeDate As DateTimeOffset
+Dim result As ReadOnlyCollection(Of PeriodicDiscount)
+
+instance.PutPeriodicDiscounts(productId, _
+    variantId, priceGroupIds, currencyCode, _
+    activeDate, result)
+```
+
+``` csharp
+void PutPeriodicDiscounts(
+    long productId,
+    long variantId,
+    IEnumerable<long> priceGroupIds,
+    string currencyCode,
+    DateTimeOffset activeDate,
+    ReadOnlyCollection<PeriodicDiscount> result
+)
+```
+
+``` c++
+void PutPeriodicDiscounts(
+    long long productId, 
+    long long variantId, 
+    IEnumerable<long long>^ priceGroupIds, 
+    String^ currencyCode, 
+    DateTimeOffset activeDate, 
+    ReadOnlyCollection<PeriodicDiscount^>^ result
+)
+```
+
+#### Parameters
+
+  - productId  
+    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+
+<!-- end list -->
+
+  - variantId  
+    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+
+<!-- end list -->
+
+  - priceGroupIds  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+
+<!-- end list -->
+
+  - currencyCode  
+    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+
+<!-- end list -->
+
+  - activeDate  
+    Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
+
+<!-- end list -->
+
+  - result  
+    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[PeriodicDiscount](periodicdiscount-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+
+## See Also
+
+#### Reference
+
+[ICachedPricingDataManager Interface](icachedpricingdatamanager-interface-microsoft-dynamics-commerce-runtime-data.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Data Namespace](microsoft-dynamics-commerce-runtime-data-namespace.md)
+

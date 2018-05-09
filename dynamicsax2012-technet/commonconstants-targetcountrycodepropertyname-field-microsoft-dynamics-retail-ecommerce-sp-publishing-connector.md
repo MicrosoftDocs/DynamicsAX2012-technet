@@ -1,0 +1,49 @@
+﻿---
+title: CommonConstants.TargetCountryCodePropertyName Field (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
+TOCTitle: TargetCountryCodePropertyName Field
+ms:assetid: F:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CommonConstants.TargetCountryCodePropertyName
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.commonconstants.targetcountrycodepropertyname(v=AX.60)
+ms:contentKeyID: 65318555
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CommonConstants.TargetCountryCodePropertyName
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# TargetCountryCodePropertyName Field
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector](microsoft-dynamics-retail-ecommerce-sp-publishing-connector-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector (in Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Shared ReadOnly TargetCountryCodePropertyName As String
+'Usage
+Dim value As String
+
+value = CommonConstants.TargetCountryCodePropertyName
+```
+
+``` csharp
+public static readonly string TargetCountryCodePropertyName
+```
+
+``` c++
+public:
+static initonly String^ TargetCountryCodePropertyName
+```
+
+## See Also
+
+#### Reference
+
+[CommonConstants Class](commonconstants-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector.md)
+
+[Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector Namespace](microsoft-dynamics-retail-ecommerce-sp-publishing-connector-namespace.md)
+

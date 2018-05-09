@@ -1,0 +1,55 @@
+﻿---
+title: SaveCart.ISupportInitialize.EndInit Method  (Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities)
+TOCTitle: ISupportInitialize.EndInit Method
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.SaveCart.System#ComponentModel#ISupportInitialize#EndInit
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn998392(v=AX.60)
+ms:contentKeyID: 65315809
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- ISupportInitialize.EndInit
+- Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.SaveCart.ISupportInitialize.EndInit
+- SaveCart.ISupportInitialize.EndInit
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# ISupportInitialize.EndInit Method
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities](microsoft-dynamics-commerce-runtime-workflowfoundation-activities-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities (in Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Private Sub EndInit Implements ISupportInitialize.EndInit
+'Usage
+Dim instance As SaveCart
+
+CType(instance, ISupportInitialize).EndInit()
+```
+
+``` csharp
+void ISupportInitialize.EndInit()
+```
+
+``` c++
+private:
+virtual void EndInit() sealed = ISupportInitialize::EndInit
+```
+
+#### Implements
+
+[ISupportInitialize.EndInit()](https://technet.microsoft.com/en-us/library/fed297fz\(v=ax.60\))  
+
+## See Also
+
+#### Reference
+
+[SaveCart Class](savecart-class-microsoft-dynamics-commerce-runtime-workflowfoundation-activities.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities Namespace](microsoft-dynamics-commerce-runtime-workflowfoundation-activities-namespace.md)
+

@@ -1,0 +1,90 @@
+﻿---
+title: SaveCartLinesRequest Constructor (Cart, IEnumerable(CartLine), TransactionOperationType, Nullable(CalculationModes)) (Microsoft.Dynamics.Commerce.Runtime.Messages)
+TOCTitle: SaveCartLinesRequest Constructor (Cart, IEnumerable(CartLine), TransactionOperationType, Nullable(CalculationModes))
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveCartLinesRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine},Microsoft.Dynamics.Commerce.Runtime.DataModel.TransactionOperationType,System.Nullable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CalculationModes})
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.savecartlinesrequest.savecartlinesrequest(v=AX.60)
+ms:contentKeyID: 62213147
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+dev_langs:
+- vb
+- csharp
+- c++
+---
+
+# SaveCartLinesRequest Constructor (Cart, IEnumerable(CartLine), TransactionOperationType, Nullable(CalculationModes))
+
+Initializes a new instance of the [SaveCartLinesRequest](savecartlinesrequest-class-microsoft-dynamics-commerce-runtime-messages.md) class.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Messages (in Microsoft.Dynamics.Commerce.Runtime.Messages.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Sub New ( _
+    cart As Cart, _
+    cartLines As IEnumerable(Of CartLine), _
+    operationType As TransactionOperationType, _
+    calculationModes As Nullable(Of CalculationModes) _
+)
+'Usage
+Dim cart As Cart
+Dim cartLines As IEnumerable(Of CartLine)
+Dim operationType As TransactionOperationType
+Dim calculationModes As Nullable(Of CalculationModes)
+
+Dim instance As New SaveCartLinesRequest(cart, cartLines, _
+    operationType, calculationModes)
+```
+
+``` csharp
+public SaveCartLinesRequest(
+    Cart cart,
+    IEnumerable<CartLine> cartLines,
+    TransactionOperationType operationType,
+    Nullable<CalculationModes> calculationModes
+)
+```
+
+``` c++
+public:
+SaveCartLinesRequest(
+    Cart^ cart, 
+    IEnumerable<CartLine^>^ cartLines, 
+    TransactionOperationType operationType, 
+    Nullable<CalculationModes> calculationModes
+)
+```
+
+#### Parameters
+
+  - cart  
+    Type: [Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart](cart-class-microsoft-dynamics-commerce-runtime-datamodel.md)  
+
+<!-- end list -->
+
+  - cartLines  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[CartLine](cartline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+
+<!-- end list -->
+
+  - operationType  
+    Type: [Microsoft.Dynamics.Commerce.Runtime.DataModel.TransactionOperationType](transactionoperationtype-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)  
+
+<!-- end list -->
+
+  - calculationModes  
+    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[CalculationModes](calculationmodes-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+
+## See Also
+
+#### Reference
+
+[SaveCartLinesRequest Class](savecartlinesrequest-class-microsoft-dynamics-commerce-runtime-messages.md)
+
+[SaveCartLinesRequest Overload](savecartlinesrequest-constructor-microsoft-dynamics-commerce-runtime-messages.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Messages Namespace](microsoft-dynamics-commerce-runtime-messages-namespace.md)
+

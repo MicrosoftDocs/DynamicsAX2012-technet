@@ -1,0 +1,34 @@
+﻿---
+title: " category"
+TOCTitle: " category"
+ms:assetid: DynamicsAXGlossary.1599059
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1599059(v=AX.60)
+ms:contentKeyID: 45765372
+ms.date: 08/25/2014
+mtps_version: v=AX.60
+f1_keywords:
+- Glossary.category
+- DynamicsAXGlossary.1368061
+---
+
+# category
+
+  - A classifier, designation, or division of objects that share a common property.
+
+  - A classifier used to group parties, locations, products, and activities.
+
+## See also
+
+[activity](activity.md)
+
+[location](location.md)
+
+[party](https://technet.microsoft.com/en-us/library/hh208669\(v=ax.60\))
+
+[product](product.md)
+
+[Microsoft Dynamics AX glossary](microsoft-dynamics-ax-glossary.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

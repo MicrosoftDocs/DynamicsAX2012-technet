@@ -1,0 +1,64 @@
+﻿---
+title: SalesOrder.Items Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models)
+TOCTitle: Items Property
+ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.SalesOrder.Items
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.salesorder.items(v=AX.60)
+ms:contentKeyID: 65317082
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.SalesOrder.Items
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# Items Property
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core (in Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataMemberAttribute> _
+Public Property Items As Collection(Of TransactionItem)
+    Get
+    Set
+'Usage
+Dim instance As SalesOrder
+Dim value As Collection(Of TransactionItem)
+
+value = instance.Items
+
+instance.Items = value
+```
+
+``` csharp
+[DataMemberAttribute]
+public Collection<TransactionItem> Items { get; set; }
+```
+
+``` c++
+[DataMemberAttribute]
+public:
+property Collection<TransactionItem^>^ Items {
+    Collection<TransactionItem^>^ get ();
+    void set (Collection<TransactionItem^>^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[TransactionItem](transactionitem-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
+
+## See Also
+
+#### Reference
+
+[SalesOrder Class](salesorder-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)
+
+[Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models Namespace](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)
+

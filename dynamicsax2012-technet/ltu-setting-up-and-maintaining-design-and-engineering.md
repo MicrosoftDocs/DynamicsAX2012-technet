@@ -1,0 +1,22 @@
+﻿---
+title: (LTU) Setting up and maintaining design and engineering
+TOCTitle: (LTU) Setting up and maintaining design and engineering
+ms:assetid: aeb7b4d1-33f3-444d-9978-949383cb476a
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665164(v=AX.60)
+ms:contentKeyID: 49386745
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+---
+
+# (LTU) Setting up and maintaining design and engineering 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
+
+This section provides information about setting up design and engineering.
+
+[(LTU) Setting up and maintaining items](ltu-setting-up-and-maintaining-items.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

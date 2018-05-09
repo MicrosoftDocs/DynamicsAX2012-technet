@@ -1,0 +1,78 @@
+﻿---
+title: IChannelDataManager.GetChannelProductAttributeById Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
+TOCTitle: GetChannelProductAttributeById Method
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IChannelDataManager.GetChannelProductAttributeById(System.Int64,Microsoft.Dynamics.Commerce.Runtime.ColumnSet)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.ichanneldatamanager.getchannelproductattributebyid(v=AX.60)
+ms:contentKeyID: 62202860
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Data.IChannelDataManager.GetChannelProductAttributeById
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetChannelProductAttributeById Method
+
+Gets the product attribute of a given attribute identifier.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataManagers (in Microsoft.Dynamics.Commerce.Runtime.DataManagers.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Function GetChannelProductAttributeById ( _
+    attributeId As Long, _
+    columns As ColumnSet _
+) As AttributeProduct
+'Usage
+Dim instance As IChannelDataManager
+Dim attributeId As Long
+Dim columns As ColumnSet
+Dim returnValue As AttributeProduct
+
+returnValue = instance.GetChannelProductAttributeById(attributeId, _
+    columns)
+```
+
+``` csharp
+AttributeProduct GetChannelProductAttributeById(
+    long attributeId,
+    ColumnSet columns
+)
+```
+
+``` c++
+AttributeProduct^ GetChannelProductAttributeById(
+    long long attributeId, 
+    ColumnSet^ columns
+)
+```
+
+#### Parameters
+
+  - attributeId  
+    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+
+<!-- end list -->
+
+  - columns  
+    Type: [Microsoft.Dynamics.Commerce.Runtime.ColumnSet](columnset-class-microsoft-dynamics-commerce-runtime.md)  
+
+#### Return Value
+
+Type: [Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeProduct](attributeproduct-class-microsoft-dynamics-commerce-runtime-datamodel.md)  
+The product attribute.  
+
+## See Also
+
+#### Reference
+
+[IChannelDataManager Interface](ichanneldatamanager-interface-microsoft-dynamics-commerce-runtime-data.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Data Namespace](microsoft-dynamics-commerce-runtime-data-namespace.md)
+

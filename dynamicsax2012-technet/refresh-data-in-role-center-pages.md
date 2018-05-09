@@ -1,0 +1,38 @@
+﻿---
+title: Refresh data in Role center pages
+TOCTitle: Refresh data in Role center pages
+ms:assetid: f77e4a84-dd6d-446d-8884-0ad1b80ff5f6
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227550(v=AX.60)
+ms:contentKeyID: 36060035
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+---
+
+# Refresh data in Role center pages 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
+
+The data on your Role Center page is automatically updated every time that you open the page. If you make a change to your Role Center page, you can update the data by using any of the following options:
+
+  - Click **Home** on the top link bar.
+
+  - Press F5 on the keyboard.
+
+  - Click the **Refresh** icon in the Web browser.
+
+You can also specify a refresh rate in the Microsoft Dynamics AX client.
+
+1.  On the **File** menu, click **Tools**, and then click **Options**.
+
+2.  Under **Home pages settings**, specify the refresh rate.
+
+## See also
+
+[View Role centers (Enterprise Portal)](view-role-centers-enterprise-portal.md)
+
+[Modify Role center pages (Enterprise Portal)](modify-role-center-pages-enterprise-portal.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

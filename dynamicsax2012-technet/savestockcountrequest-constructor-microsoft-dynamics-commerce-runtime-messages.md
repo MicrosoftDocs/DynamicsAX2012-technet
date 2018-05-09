@@ -1,0 +1,53 @@
+﻿---
+title: SaveStockCountRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.Messages)
+TOCTitle: SaveStockCountRequest Constructor
+ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveStockCountRequest.#ctor
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.savestockcountrequest.savestockcountrequest(v=AX.60)
+ms:contentKeyID: 62202840
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Messages.SaveStockCountRequest.#ctor
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# SaveStockCountRequest Constructor
+
+## Overload List
+
+<table>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
+<td><a href="savestockcountrequest-constructor-microsoft-dynamics-commerce-runtime-messages_1.md">SaveStockCountRequest()</a></td>
+<td>Initializes a new instance of the <a href="savestockcountrequest-class-microsoft-dynamics-commerce-runtime-messages.md">SaveStockCountRequest</a> class.</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
+<td><a href="savestockcountrequest-constructor-string-ienumerable-stockcountjournaltransaction-boolean-microsoft-dynamics-commerce-runtime-messages.md">SaveStockCountRequest(String, IEnumerable&lt;StockCountJournalTransaction&gt;, Boolean)</a></td>
+<td>Initializes a new instance of the <a href="savestockcountrequest-class-microsoft-dynamics-commerce-runtime-messages.md">SaveStockCountRequest</a> class.</td>
+</tr>
+</tbody>
+</table>
+
+
+Top
+
+## See Also
+
+#### Reference
+
+[SaveStockCountRequest Class](savestockcountrequest-class-microsoft-dynamics-commerce-runtime-messages.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Messages Namespace](microsoft-dynamics-commerce-runtime-messages-namespace.md)
+

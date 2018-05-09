@@ -1,0 +1,70 @@
+﻿---
+title: TransferOrderLine.QuantityTransferred Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: QuantityTransferred Property
+ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TransferOrderLine.QuantityTransferred
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.transferorderline.quantitytransferred(v=AX.60)
+ms:contentKeyID: 62212603
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataModel.TransferOrderLine.QuantityTransferred
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# QuantityTransferred Property
+
+Gets or sets the total quantity transferred.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<ColumnAttribute("QUANTITYTRANSFERRED")> _
+<DataMemberAttribute> _
+Public Property QuantityTransferred As Decimal
+    Get
+    Set
+'Usage
+Dim instance As TransferOrderLine
+Dim value As Decimal
+
+value = instance.QuantityTransferred
+
+instance.QuantityTransferred = value
+```
+
+``` csharp
+[ColumnAttribute("QUANTITYTRANSFERRED")]
+[DataMemberAttribute]
+public decimal QuantityTransferred { get; set; }
+```
+
+``` c++
+[ColumnAttribute(L"QUANTITYTRANSFERRED")]
+[DataMemberAttribute]
+public:
+property Decimal QuantityTransferred {
+    Decimal get ();
+    void set (Decimal value);
+}
+```
+
+#### Property Value
+
+Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+Returns [Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[TransferOrderLine Class](transferorderline-class-microsoft-dynamics-commerce-runtime-datamodel.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)
+

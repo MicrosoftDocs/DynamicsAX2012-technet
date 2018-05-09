@@ -1,0 +1,64 @@
+﻿---
+title: KitComponentInfo.KitLineProductId Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models)
+TOCTitle: KitLineProductId Property
+ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.KitComponentInfo.KitLineProductId
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.kitcomponentinfo.kitlineproductid(v=AX.60)
+ms:contentKeyID: 65316449
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.KitComponentInfo.KitLineProductId
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# KitLineProductId Property
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core (in Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataMemberAttribute> _
+Public Property KitLineProductId As Long
+    Get
+    Set
+'Usage
+Dim instance As KitComponentInfo
+Dim value As Long
+
+value = instance.KitLineProductId
+
+instance.KitLineProductId = value
+```
+
+``` csharp
+[DataMemberAttribute]
+public long KitLineProductId { get; set; }
+```
+
+``` c++
+[DataMemberAttribute]
+public:
+property long long KitLineProductId {
+    long long get ();
+    void set (long long value);
+}
+```
+
+#### Property Value
+
+Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+
+## See Also
+
+#### Reference
+
+[KitComponentInfo Class](kitcomponentinfo-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)
+
+[Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models Namespace](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)
+

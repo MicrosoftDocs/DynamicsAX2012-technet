@@ -1,0 +1,68 @@
+﻿---
+title: IPricingDataManagerV2.GetRetailCategoryMembersForItems Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
+TOCTitle: GetRetailCategoryMembersForItems Method
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IPricingDataManagerV2.GetRetailCategoryMembersForItems(System.Collections.Generic.ISet{System.Int64})
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.ipricingdatamanagerv2.getretailcategorymembersforitems(v=AX.60)
+ms:contentKeyID: 62211458
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Data.IPricingDataManagerV2.GetRetailCategoryMembersForItems
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetRetailCategoryMembersForItems Method
+
+Get the category membership information for the product or variant identifiers passed in.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataManagers (in Microsoft.Dynamics.Commerce.Runtime.DataManagers.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Function GetRetailCategoryMembersForItems ( _
+    productOrVariantIds As ISet(Of Long) _
+) As ReadOnlyCollection(Of RetailCategoryMember)
+'Usage
+Dim instance As IPricingDataManagerV2
+Dim productOrVariantIds As ISet(Of Long)
+Dim returnValue As ReadOnlyCollection(Of RetailCategoryMember)
+
+returnValue = instance.GetRetailCategoryMembersForItems(productOrVariantIds)
+```
+
+``` csharp
+ReadOnlyCollection<RetailCategoryMember> GetRetailCategoryMembersForItems(
+    ISet<long> productOrVariantIds
+)
+```
+
+``` c++
+ReadOnlyCollection<RetailCategoryMember^>^ GetRetailCategoryMembersForItems(
+    ISet<long long>^ productOrVariantIds
+)
+```
+
+#### Parameters
+
+  - productOrVariantIds  
+    Type: [System.Collections.Generic.ISet](https://technet.microsoft.com/en-us/library/dd412081\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+
+#### Return Value
+
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[RetailCategoryMember](retailcategorymember-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+The collection of mappings between the product or variant identifier and the category identifier.  
+
+## See Also
+
+#### Reference
+
+[IPricingDataManagerV2 Interface](ipricingdatamanagerv2-interface-microsoft-dynamics-commerce-runtime-data.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Data Namespace](microsoft-dynamics-commerce-runtime-data-namespace.md)
+

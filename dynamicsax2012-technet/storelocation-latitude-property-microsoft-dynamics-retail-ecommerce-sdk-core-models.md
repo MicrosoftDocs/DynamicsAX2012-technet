@@ -1,0 +1,64 @@
+﻿---
+title: StoreLocation.Latitude Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models)
+TOCTitle: Latitude Property
+ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.StoreLocation.Latitude
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.storelocation.latitude(v=AX.60)
+ms:contentKeyID: 65316131
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.StoreLocation.Latitude
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# Latitude Property
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core (in Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataMemberAttribute> _
+Public Property Latitude As Decimal
+    Get
+    Set
+'Usage
+Dim instance As StoreLocation
+Dim value As Decimal
+
+value = instance.Latitude
+
+instance.Latitude = value
+```
+
+``` csharp
+[DataMemberAttribute]
+public decimal Latitude { get; set; }
+```
+
+``` c++
+[DataMemberAttribute]
+public:
+property Decimal Latitude {
+    Decimal get ();
+    void set (Decimal value);
+}
+```
+
+#### Property Value
+
+Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+
+## See Also
+
+#### Reference
+
+[StoreLocation Class](storelocation-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)
+
+[Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models Namespace](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)
+

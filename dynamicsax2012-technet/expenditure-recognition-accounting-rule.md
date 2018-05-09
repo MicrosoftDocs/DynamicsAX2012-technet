@@ -1,0 +1,31 @@
+﻿---
+title: " expenditure recognition accounting rule"
+TOCTitle: " expenditure recognition accounting rule"
+ms:assetid: DynamicsAXGlossary.1509008
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1509008(v=AX.60)
+ms:contentKeyID: 36057593
+ms.date: 08/25/2014
+mtps_version: v=AX.60
+f1_keywords:
+- Glossary.expenditure recognition accounting rule
+---
+
+# expenditure recognition accounting rule
+
+A recognition accounting rule that prescribes the recognition of expenditure in accounts and on financial statements.
+
+## See also
+
+[account](account.md)
+
+[financial statement](financial-statement.md)
+
+[recognition accounting rule](recognition-accounting-rule.md)
+
+[revenue recognition accounting rule](revenue-recognition-accounting-rule.md)
+
+[Microsoft Dynamics AX glossary](microsoft-dynamics-ax-glossary.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

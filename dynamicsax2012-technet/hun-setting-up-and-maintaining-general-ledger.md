@@ -1,0 +1,26 @@
+﻿---
+title: (HUN) Setting up and maintaining General ledger
+TOCTitle: (HUN) Setting up and maintaining General ledger
+ms:assetid: 3d82b98a-7e63-43a3-8580-c1974e8c37bc
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664265(v=AX.60)
+ms:contentKeyID: 49385354
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+---
+
+# (HUN) Setting up and maintaining General ledger 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
+
+The topics in this section provide information about setting up and maintaining General ledger.
+
+[(HUN) Setting up sales tax](hun-setting-up-sales-tax.md)
+
+[(HUN) Setting up exchange rates](hun-setting-up-exchange-rates.md)
+
+[(HUN) Setting up and maintaining journals](hun-setting-up-and-maintaining-journals.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

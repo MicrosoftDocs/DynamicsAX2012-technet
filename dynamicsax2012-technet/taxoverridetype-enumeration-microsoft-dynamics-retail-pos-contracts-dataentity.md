@@ -1,0 +1,71 @@
+﻿---
+title: TaxOverrideType Enumeration (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
+TOCTitle: TaxOverrideType Enumeration
+ms:assetid: T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.TaxOverrideType
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.taxoverridetype(v=AX.60)
+ms:contentKeyID: 47128066
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.TaxOverrideType.ItemSalesTaxGroup
+- Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.TaxOverrideType
+- Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.TaxOverrideType.SalesTaxGroup
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# TaxOverrideType Enumeration
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Pos.Contracts (in Microsoft.Dynamics.Retail.Pos.Contracts.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Enumeration TaxOverrideType
+'Usage
+Dim instance As TaxOverrideType
+```
+
+``` csharp
+public enum TaxOverrideType
+```
+
+``` c++
+public enum class TaxOverrideType
+```
+
+## Members
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th>Member name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>ItemSalesTaxGroup</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>SalesTaxGroup</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+## See Also
+
+#### Reference
+
+[Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity Namespace](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)
+

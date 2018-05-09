@@ -1,0 +1,68 @@
+﻿---
+title: OrgUnitsController.GetKey Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
+TOCTitle: GetKey Method
+ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.OrgUnitsController.GetKey(Microsoft.Dynamics.Commerce.Runtime.DataModel.OrgUnit)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.orgunitscontroller.getkey(v=AX.60)
+ms:contentKeyID: 62202460
+ms.date: 04/21/2014
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.OrgUnitsController.GetKey
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetKey Method
+
+Gets the key for organization.
+
+**Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.RetailServerLibrary (in Microsoft.Dynamics.Retail.RetailServerLibrary.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Protected Overrides Function GetKey ( _
+    entity As OrgUnit _
+) As String
+'Usage
+Dim entity As OrgUnit
+Dim returnValue As String
+
+returnValue = Me.GetKey(entity)
+```
+
+``` csharp
+protected override string GetKey(
+    OrgUnit entity
+)
+```
+
+``` c++
+protected:
+virtual String^ GetKey(
+    OrgUnit^ entity
+) override
+```
+
+#### Parameters
+
+  - entity  
+    Type: OrgUnit  
+
+#### Return Value
+
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+The [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)) key.  
+
+## See Also
+
+#### Reference
+
+[OrgUnitsController Class](orgunitscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md)
+
+[Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers Namespace](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)
+

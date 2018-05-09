@@ -1,0 +1,63 @@
+﻿---
+title: ICreditMemoTenderLineItemV1.SerialNumber Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
+TOCTitle: SerialNumber Property
+ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICreditMemoTenderLineItemV1.SerialNumber
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.icreditmemotenderlineitemv1.serialnumber(v=AX.60)
+ms:contentKeyID: 49849789
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICreditMemoTenderLineItemV1.SerialNumber
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# SerialNumber Property
+
+The serialnumber of the credit memo.
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Pos.Contracts (in Microsoft.Dynamics.Retail.Pos.Contracts.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Property SerialNumber As String
+    Get
+    Set
+'Usage
+Dim instance As ICreditMemoTenderLineItemV1
+Dim value As String
+
+value = instance.SerialNumber
+
+instance.SerialNumber = value
+```
+
+``` csharp
+string SerialNumber { get; set; }
+```
+
+``` c++
+property String^ SerialNumber {
+    String^ get ();
+    void set (String^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[ICreditMemoTenderLineItemV1 Interface](icreditmemotenderlineitemv1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)
+
+[Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity Namespace](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)
+

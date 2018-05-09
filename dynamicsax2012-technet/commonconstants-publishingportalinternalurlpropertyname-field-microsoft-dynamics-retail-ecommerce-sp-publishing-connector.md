@@ -1,0 +1,49 @@
+﻿---
+title: CommonConstants.PublishingPortalInternalUrlPropertyName Field (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
+TOCTitle: PublishingPortalInternalUrlPropertyName Field
+ms:assetid: F:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CommonConstants.PublishingPortalInternalUrlPropertyName
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.commonconstants.publishingportalinternalurlpropertyname(v=AX.60)
+ms:contentKeyID: 65318785
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CommonConstants.PublishingPortalInternalUrlPropertyName
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# PublishingPortalInternalUrlPropertyName Field
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector](microsoft-dynamics-retail-ecommerce-sp-publishing-connector-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector (in Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Shared ReadOnly PublishingPortalInternalUrlPropertyName As String
+'Usage
+Dim value As String
+
+value = CommonConstants.PublishingPortalInternalUrlPropertyName
+```
+
+``` csharp
+public static readonly string PublishingPortalInternalUrlPropertyName
+```
+
+``` c++
+public:
+static initonly String^ PublishingPortalInternalUrlPropertyName
+```
+
+## See Also
+
+#### Reference
+
+[CommonConstants Class](commonconstants-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector.md)
+
+[Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector Namespace](microsoft-dynamics-retail-ecommerce-sp-publishing-connector-namespace.md)
+

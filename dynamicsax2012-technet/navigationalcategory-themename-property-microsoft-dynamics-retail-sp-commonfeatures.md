@@ -1,0 +1,62 @@
+﻿---
+title: NavigationalCategory.ThemeName Property  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
+TOCTitle: ThemeName Property
+ms:assetid: P:Microsoft.Dynamics.Retail.SP.CommonFeatures.NavigationalCategory.ThemeName
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.navigationalcategory.themename(v=AX.60)
+ms:contentKeyID: 62206121
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.SP.CommonFeatures.NavigationalCategory.ThemeName
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# ThemeName Property
+
+Gets the name of the theme.
+
+**Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.SP.Web.Common (in Microsoft.Dynamics.Retail.SP.Web.Common.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Property ThemeName As String
+    Get
+    Private Set
+'Usage
+Dim instance As NavigationalCategory
+Dim value As String
+
+value = instance.ThemeName
+```
+
+``` csharp
+public string ThemeName { get; private set; }
+```
+
+``` c++
+public:
+property String^ ThemeName {
+    String^ get ();
+    private: void set (String^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+The name of the theme.  
+
+## See Also
+
+#### Reference
+
+[NavigationalCategory Class](navigationalcategory-class-microsoft-dynamics-retail-sp-commonfeatures.md)
+
+[Microsoft.Dynamics.Retail.SP.CommonFeatures Namespace](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)
+

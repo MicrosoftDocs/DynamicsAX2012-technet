@@ -1,0 +1,64 @@
+﻿---
+title: DatabaseQueryParts.Where Property  (Microsoft.Dynamics.Commerce.Runtime.Data)
+TOCTitle: Where Property
+ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseQueryParts.Where
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.databasequeryparts.where(v=AX.60)
+ms:contentKeyID: 65320290
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseQueryParts.Where
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# Where Property
+
+Gets or sets ANSI SQL for where clause (w/o WHERE keyword).
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Property Where As String
+    Get
+    Set
+'Usage
+Dim instance As DatabaseQueryParts
+Dim value As String
+
+value = instance.Where
+
+instance.Where = value
+```
+
+``` csharp
+public string Where { get; set; }
+```
+
+``` c++
+public:
+property String^ Where {
+    String^ get ();
+    void set (String^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[DatabaseQueryParts Class](databasequeryparts-class-microsoft-dynamics-commerce-runtime-data.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Data Namespace](microsoft-dynamics-commerce-runtime-data-namespace.md)
+

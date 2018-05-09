@@ -1,0 +1,71 @@
+﻿---
+title: AnsiDatabaseQueryBuilder.BuildColumnsPart Method  (Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces)
+TOCTitle: BuildColumnsPart Method
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces.AnsiDatabaseQueryBuilder.BuildColumnsPart(System.Text.StringBuilder,Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseQueryParts)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.framework.data.interfaces.ansidatabasequerybuilder.buildcolumnspart(v=AX.60)
+ms:contentKeyID: 65322604
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces.AnsiDatabaseQueryBuilder.BuildColumnsPart
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# BuildColumnsPart Method
+
+Adds column parts to a string builder.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces](microsoft-dynamics-commerce-runtime-framework-data-interfaces-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Protected Sub BuildColumnsPart ( _
+    builder As StringBuilder, _
+    parts As DatabaseQueryParts _
+)
+'Usage
+Dim builder As StringBuilder
+Dim parts As DatabaseQueryParts
+
+Me.BuildColumnsPart(builder, parts)
+```
+
+``` csharp
+protected void BuildColumnsPart(
+    StringBuilder builder,
+    DatabaseQueryParts parts
+)
+```
+
+``` c++
+protected:
+void BuildColumnsPart(
+    StringBuilder^ builder, 
+    DatabaseQueryParts^ parts
+)
+```
+
+#### Parameters
+
+  - builder  
+    Type: [System.Text.StringBuilder](https://technet.microsoft.com/en-us/library/y9sxk6fy\(v=ax.60\))  
+
+<!-- end list -->
+
+  - parts  
+    Type: [Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseQueryParts](databasequeryparts-class-microsoft-dynamics-commerce-runtime-data.md)  
+
+## See Also
+
+#### Reference
+
+[AnsiDatabaseQueryBuilder Class](ansidatabasequerybuilder-class-microsoft-dynamics-commerce-runtime-framework-data-interfaces.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces Namespace](microsoft-dynamics-commerce-runtime-framework-data-interfaces-namespace.md)
+

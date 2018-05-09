@@ -1,0 +1,63 @@
+﻿---
+title: NonSaleTenderServiceRequest Class (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
+TOCTitle: NonSaleTenderServiceRequest Class
+ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.NonSaleTenderServiceRequest
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.nonsaletenderservicerequest(v=AX.60)
+ms:contentKeyID: 62213670
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Services.Messages.NonSaleTenderServiceRequest
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# NonSaleTenderServiceRequest Class
+
+NonSaleTenderServiceRequest class for non sale tender service request.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Services.Messages (in Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataContractAttribute> _
+Public MustInherit Class NonSaleTenderServiceRequest _
+    Inherits ServiceRequest
+'Usage
+Dim instance As NonSaleTenderServiceRequest
+```
+
+``` csharp
+[DataContractAttribute]
+public abstract class NonSaleTenderServiceRequest : ServiceRequest
+```
+
+``` c++
+[DataContractAttribute]
+public ref class NonSaleTenderServiceRequest abstract : public ServiceRequest
+```
+
+## Inheritance Hierarchy
+
+[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+  [Microsoft.Dynamics.Commerce.Runtime.Messages.Request](request-class-microsoft-dynamics-commerce-runtime-messages.md)  
+    [Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ServiceRequest](servicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md)  
+      Microsoft.Dynamics.Commerce.Runtime.Services.Messages.NonSaleTenderServiceRequest  
+        [Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetNonSaleTenderServiceRequest](getnonsaletenderservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md)  
+        [Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SaveNonSaleTenderServiceRequest](savenonsaletenderservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md)  
+
+## Thread Safety
+
+Any public static (Shared in Visual Basic) members of this type are thread safe. Any instance members are not guaranteed to be thread safe.
+
+## See Also
+
+#### Reference
+
+[Microsoft.Dynamics.Commerce.Runtime.Services.Messages Namespace](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)
+

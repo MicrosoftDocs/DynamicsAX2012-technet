@@ -1,0 +1,64 @@
+﻿---
+title: CustomerOrderInfo.RequestedDeliveryDateString Property  (Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder)
+TOCTitle: RequestedDeliveryDateString Property
+ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder.CustomerOrderInfo.RequestedDeliveryDateString
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.customerorder.customerorderinfo.requesteddeliverydatestring(v=AX.60)
+ms:contentKeyID: 62203204
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder.CustomerOrderInfo.RequestedDeliveryDateString
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# RequestedDeliveryDateString Property
+
+Gets or sets the expiry Date in string format.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.TransactionService (in Microsoft.Dynamics.Commerce.Runtime.TransactionService.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Property RequestedDeliveryDateString As String
+    Get
+    Set
+'Usage
+Dim instance As CustomerOrderInfo
+Dim value As String
+
+value = instance.RequestedDeliveryDateString
+
+instance.RequestedDeliveryDateString = value
+```
+
+``` csharp
+public string RequestedDeliveryDateString { get; set; }
+```
+
+``` c++
+public:
+property String^ RequestedDeliveryDateString {
+    String^ get ();
+    void set (String^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[CustomerOrderInfo Class](customerorderinfo-class-microsoft-dynamics-commerce-runtime-services-customerorder.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder Namespace](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)
+

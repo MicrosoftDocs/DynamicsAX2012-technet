@@ -1,0 +1,48 @@
+﻿---
+title: GetProductDeliveryOptionsRequestHandler Constructor  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
+TOCTitle: GetProductDeliveryOptionsRequestHandler Constructor
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.GetProductDeliveryOptionsRequestHandler.#ctor
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.getproductdeliveryoptionsrequesthandler.getproductdeliveryoptionsrequesthandler(v=AX.60)
+ms:contentKeyID: 49855951
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Workflow.GetProductDeliveryOptionsRequestHandler.#ctor
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetProductDeliveryOptionsRequestHandler Constructor
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Workflow (in Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Sub New
+'Usage
+
+Dim instance As New GetProductDeliveryOptionsRequestHandler()
+```
+
+``` csharp
+public GetProductDeliveryOptionsRequestHandler()
+```
+
+``` c++
+public:
+GetProductDeliveryOptionsRequestHandler()
+```
+
+## See Also
+
+#### Reference
+
+[GetProductDeliveryOptionsRequestHandler Class](getproductdeliveryoptionsrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Workflow Namespace](microsoft-dynamics-commerce-runtime-workflow-namespace.md)
+

@@ -1,0 +1,51 @@
+﻿---
+title: RetailDiscount.DiscountPercentValueColumn Field (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: DiscountPercentValueColumn Field
+ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailDiscount.DiscountPercentValueColumn
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.retaildiscount.discountpercentvaluecolumn(v=AX.60)
+ms:contentKeyID: 62212028
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailDiscount.DiscountPercentValueColumn
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# DiscountPercentValueColumn Field
+
+Discount percent value column.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Shared ReadOnly DiscountPercentValueColumn As String
+'Usage
+Dim value As String
+
+value = RetailDiscount.DiscountPercentValueColumn
+```
+
+``` csharp
+public static readonly string DiscountPercentValueColumn
+```
+
+``` c++
+public:
+static initonly String^ DiscountPercentValueColumn
+```
+
+## See Also
+
+#### Reference
+
+[RetailDiscount Class](retaildiscount-class-microsoft-dynamics-commerce-runtime-datamodel.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)
+

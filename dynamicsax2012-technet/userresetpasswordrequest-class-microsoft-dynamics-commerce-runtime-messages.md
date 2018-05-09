@@ -1,0 +1,60 @@
+﻿---
+title: UserResetPasswordRequest Class (Microsoft.Dynamics.Commerce.Runtime.Messages)
+TOCTitle: UserResetPasswordRequest Class
+ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Messages.UserResetPasswordRequest
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.userresetpasswordrequest(v=AX.60)
+ms:contentKeyID: 62210204
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Messages.UserResetPasswordRequest
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# UserResetPasswordRequest Class
+
+Authenticate user request.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Messages (in Microsoft.Dynamics.Commerce.Runtime.Messages.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataContractAttribute> _
+Public Class UserResetPasswordRequest _
+    Inherits Request
+'Usage
+Dim instance As UserResetPasswordRequest
+```
+
+``` csharp
+[DataContractAttribute]
+public class UserResetPasswordRequest : Request
+```
+
+``` c++
+[DataContractAttribute]
+public ref class UserResetPasswordRequest : public Request
+```
+
+## Inheritance Hierarchy
+
+[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+  [Microsoft.Dynamics.Commerce.Runtime.Messages.Request](request-class-microsoft-dynamics-commerce-runtime-messages.md)  
+    Microsoft.Dynamics.Commerce.Runtime.Messages.UserResetPasswordRequest  
+
+## Thread Safety
+
+Any public static (Shared in Visual Basic) members of this type are thread safe. Any instance members are not guaranteed to be thread safe.
+
+## See Also
+
+#### Reference
+
+[Microsoft.Dynamics.Commerce.Runtime.Messages Namespace](microsoft-dynamics-commerce-runtime-messages-namespace.md)
+

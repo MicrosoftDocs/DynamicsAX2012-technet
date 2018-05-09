@@ -1,0 +1,68 @@
+﻿---
+title: ProductCatalog.PublishedOn Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: PublishedOn Property
+ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductCatalog.PublishedOn
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productcatalog.publishedon(v=AX.60)
+ms:contentKeyID: 62207443
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductCatalog.PublishedOn
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# PublishedOn Property
+
+Gets the date the catalog was published.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataMemberAttribute> _
+<ColumnAttribute("PUBLISHEDDATETIME")> _
+Public Property PublishedOn As DateTimeOffset
+    Get
+    Friend Set
+'Usage
+Dim instance As ProductCatalog
+Dim value As DateTimeOffset
+
+value = instance.PublishedOn
+```
+
+``` csharp
+[DataMemberAttribute]
+[ColumnAttribute("PUBLISHEDDATETIME")]
+public DateTimeOffset PublishedOn { get; internal set; }
+```
+
+``` c++
+[DataMemberAttribute]
+[ColumnAttribute(L"PUBLISHEDDATETIME")]
+public:
+property DateTimeOffset PublishedOn {
+    DateTimeOffset get ();
+    internal: void set (DateTimeOffset value);
+}
+```
+
+#### Property Value
+
+Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
+Returns [DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[ProductCatalog Class](productcatalog-class-microsoft-dynamics-commerce-runtime-datamodel.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)
+

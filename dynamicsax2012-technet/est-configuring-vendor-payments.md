@@ -1,0 +1,26 @@
+﻿---
+title: (EST) Configuring vendor payments
+TOCTitle: (EST) Configuring vendor payments
+ms:assetid: 6095c4fb-4eec-4d32-9357-e5d58a04031a
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710842(v=AX.60)
+ms:contentKeyID: 49385238
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+---
+
+# (EST) Configuring vendor payments 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
+
+The following topics provide information about configuring vendor payments.
+
+[(EST) Set up the export of telebank payments to vendors](est-set-up-the-export-of-telebank-payments-to-vendors.md)
+
+[(EST) Create a vendor balance notice](est-create-a-vendor-balance-notice.md)
+
+[(EST) Set up a vendor registration number](est-set-up-a-vendor-registration-number.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

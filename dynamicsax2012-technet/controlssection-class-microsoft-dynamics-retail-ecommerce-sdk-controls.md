@@ -1,0 +1,59 @@
+﻿---
+title: ControlsSection Class (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls)
+TOCTitle: ControlsSection Class
+ms:assetid: T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls.ControlsSection
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.controls.controlssection(v=AX.60)
+ms:contentKeyID: 65318582
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls.ControlsSection
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# ControlsSection Class
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls](microsoft-dynamics-retail-ecommerce-sdk-controls-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls (in Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<ComVisibleAttribute(False)> _
+Public NotInheritable Class ControlsSection _
+    Inherits ConfigurationSection
+'Usage
+Dim instance As ControlsSection
+```
+
+``` csharp
+[ComVisibleAttribute(false)]
+public sealed class ControlsSection : ConfigurationSection
+```
+
+``` c++
+[ComVisibleAttribute(false)]
+public ref class ControlsSection sealed : public ConfigurationSection
+```
+
+## Inheritance Hierarchy
+
+[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+  [System.Configuration.ConfigurationElement](https://technet.microsoft.com/en-us/library/kyx77cz3\(v=ax.60\))  
+    [System.Configuration.ConfigurationSection](https://technet.microsoft.com/en-us/library/x0kca287\(v=ax.60\))  
+      Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls.ControlsSection  
+
+## Thread Safety
+
+Any public static (Shared in Visual Basic) members of this type are thread safe. Any instance members are not guaranteed to be thread safe.
+
+## See Also
+
+#### Reference
+
+[Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls Namespace](microsoft-dynamics-retail-ecommerce-sdk-controls-namespace.md)
+

@@ -1,0 +1,68 @@
+﻿---
+title: IChargeDataManager.GetChargeConfigurations Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
+TOCTitle: GetChargeConfigurations Method
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IChargeDataManager.GetChargeConfigurations(Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.ichargedatamanager.getchargeconfigurations(v=AX.60)
+ms:contentKeyID: 65316374
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Data.IChargeDataManager.GetChargeConfigurations
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetChargeConfigurations Method
+
+Gets the auto-charge configurations.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataManagers (in Microsoft.Dynamics.Commerce.Runtime.DataManagers.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Function GetChargeConfigurations ( _
+    settings As QueryResultSettings _
+) As ReadOnlyCollection(Of ChargeConfiguration)
+'Usage
+Dim instance As IChargeDataManager
+Dim settings As QueryResultSettings
+Dim returnValue As ReadOnlyCollection(Of ChargeConfiguration)
+
+returnValue = instance.GetChargeConfigurations(settings)
+```
+
+``` csharp
+ReadOnlyCollection<ChargeConfiguration> GetChargeConfigurations(
+    QueryResultSettings settings
+)
+```
+
+``` c++
+ReadOnlyCollection<ChargeConfiguration^>^ GetChargeConfigurations(
+    QueryResultSettings^ settings
+)
+```
+
+#### Parameters
+
+  - settings  
+    Type: [Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings](queryresultsettings-class-microsoft-dynamics-commerce-runtime-datamodel.md)  
+
+#### Return Value
+
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[ChargeConfiguration](chargeconfiguration-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+The collection of auto-charge configurations.  
+
+## See Also
+
+#### Reference
+
+[IChargeDataManager Interface](ichargedatamanager-interface-microsoft-dynamics-commerce-runtime-data.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Data Namespace](microsoft-dynamics-commerce-runtime-data-namespace.md)
+

@@ -1,0 +1,68 @@
+﻿---
+title: KitComponent.KitLineProductMasterId Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: KitLineProductMasterId Property
+ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.KitComponent.KitLineProductMasterId
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.kitcomponent.kitlineproductmasterid(v=AX.60)
+ms:contentKeyID: 62213248
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataModel.KitComponent.KitLineProductMasterId
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# KitLineProductMasterId Property
+
+Gets the Master ProductId of the product used in a kit as a component or substitute.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<ColumnAttribute("KITLINEPRODUCTMASTERLISTING")> _
+<DataMemberAttribute> _
+Public Property KitLineProductMasterId As Long
+    Get
+    Friend Set
+'Usage
+Dim instance As KitComponent
+Dim value As Long
+
+value = instance.KitLineProductMasterId
+```
+
+``` csharp
+[ColumnAttribute("KITLINEPRODUCTMASTERLISTING")]
+[DataMemberAttribute]
+public long KitLineProductMasterId { get; internal set; }
+```
+
+``` c++
+[ColumnAttribute(L"KITLINEPRODUCTMASTERLISTING")]
+[DataMemberAttribute]
+public:
+property long long KitLineProductMasterId {
+    long long get ();
+    internal: void set (long long value);
+}
+```
+
+#### Property Value
+
+Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+Returns [Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[KitComponent Class](kitcomponent-class-microsoft-dynamics-commerce-runtime-datamodel.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)
+

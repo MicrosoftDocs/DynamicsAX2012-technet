@@ -1,0 +1,62 @@
+﻿---
+title: StoreProductAvailability.ProductAvailabilities Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models)
+TOCTitle: ProductAvailabilities Property
+ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.StoreProductAvailability.ProductAvailabilities
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.storeproductavailability.productavailabilities(v=AX.60)
+ms:contentKeyID: 65316368
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.StoreProductAvailability.ProductAvailabilities
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# ProductAvailabilities Property
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core (in Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataMemberAttribute> _
+Public Property ProductAvailabilities As Collection(Of StoreProductAvailabilityItem)
+    Get
+    Private Set
+'Usage
+Dim instance As StoreProductAvailability
+Dim value As Collection(Of StoreProductAvailabilityItem)
+
+value = instance.ProductAvailabilities
+```
+
+``` csharp
+[DataMemberAttribute]
+public Collection<StoreProductAvailabilityItem> ProductAvailabilities { get; private set; }
+```
+
+``` c++
+[DataMemberAttribute]
+public:
+property Collection<StoreProductAvailabilityItem^>^ ProductAvailabilities {
+    Collection<StoreProductAvailabilityItem^>^ get ();
+    private: void set (Collection<StoreProductAvailabilityItem^>^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[StoreProductAvailabilityItem](storeproductavailabilityitem-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
+
+## See Also
+
+#### Reference
+
+[StoreProductAvailability Class](storeproductavailability-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)
+
+[Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models Namespace](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)
+

@@ -1,0 +1,47 @@
+﻿---
+title: WorkflowRequestHandler(TRequest, TResponse) Properties (Microsoft.Dynamics.Commerce.Runtime.Workflow)
+TOCTitle: WorkflowRequestHandler(TRequest, TResponse) Properties
+ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.WorkflowRequestHandler`2
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ781789(v=AX.60)
+ms:contentKeyID: 49843525
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+---
+
+# WorkflowRequestHandler(TRequest, TResponse) Properties
+
+## Properties
+
+<table>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/Dn998430.protproperty(en-us,AX.60).gif" title="Protected property" alt="Protected property" /></td>
+<td><a href="workflowrequesthandler-trequest-tresponse-context-property-microsoft-dynamics-commerce-runtime-workflow.md">Context</a></td>
+<td>Overloaded.</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="workflowrequesthandler-trequest-tresponse-supportedrequesttypes-property-microsoft-dynamics-commerce-runtime-workflow.md">SupportedRequestTypes</a></td>
+<td>Overloaded.</td>
+</tr>
+</tbody>
+</table>
+
+
+Top
+
+## See Also
+
+#### Reference
+
+[WorkflowRequestHandler\<TRequest, TResponse\> Class](workflowrequesthandler-trequest-tresponse-class-microsoft-dynamics-commerce-runtime-workflow.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Workflow Namespace](microsoft-dynamics-commerce-runtime-workflow-namespace.md)
+

@@ -1,0 +1,85 @@
+﻿---
+title: PropertyInfoExtensions.AdjustToUniversalTimeZone Method  (Microsoft.Dynamics.Commerce.Runtime)
+TOCTitle: AdjustToUniversalTimeZone Method
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.PropertyInfoExtensions.AdjustToUniversalTimeZone(System.Reflection.PropertyInfo,System.Object,Microsoft.Dynamics.Commerce.Runtime.DataModel.TypeCache)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.propertyinfoextensions.adjusttouniversaltimezone(v=AX.60)
+ms:contentKeyID: 65321773
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.PropertyInfoExtensions.AdjustToUniversalTimeZone
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# AdjustToUniversalTimeZone Method
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<ExtensionAttribute> _
+Public Shared Sub AdjustToUniversalTimeZone ( _
+    property As PropertyInfo, _
+    value As Object, _
+    typeCache As TypeCache _
+)
+'Usage
+Dim property As PropertyInfo
+Dim value As Object
+Dim typeCache As TypeCache
+
+property.AdjustToUniversalTimeZone(value, _
+    typeCache)
+```
+
+``` csharp
+public static void AdjustToUniversalTimeZone(
+    this PropertyInfo property,
+    Object value,
+    TypeCache typeCache
+)
+```
+
+``` c++
+[ExtensionAttribute]
+public:
+static void AdjustToUniversalTimeZone(
+    PropertyInfo^ property, 
+    Object^ value, 
+    TypeCache^ typeCache
+)
+```
+
+#### Parameters
+
+  - property  
+    Type: [System.Reflection.PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\))  
+
+<!-- end list -->
+
+  - value  
+    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+
+<!-- end list -->
+
+  - typeCache  
+    Type: [Microsoft.Dynamics.Commerce.Runtime.DataModel.TypeCache](typecache-class-microsoft-dynamics-commerce-runtime-datamodel.md)  
+
+#### Usage Note
+
+In Visual Basic and C\#, you can call this method as an instance method on any object of type [PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\)). When you use instance method syntax to call this method, omit the first parameter. For more information, see b8020aae-374d-46a9-bcb7-8cc2390b93b6 or 175ce3ff-9bbf-4e64-8421-faeb81a0bb51.
+
+## See Also
+
+#### Reference
+
+[PropertyInfoExtensions Class](propertyinfoextensions-class-microsoft-dynamics-commerce-runtime.md)
+
+[Microsoft.Dynamics.Commerce.Runtime Namespace](microsoft-dynamics-commerce-runtime-namespace.md)
+

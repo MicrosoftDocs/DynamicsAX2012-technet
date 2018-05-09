@@ -1,0 +1,82 @@
+﻿---
+title: (IND) Calculate sales tax in an Accounts payable payment journal
+TOCTitle: (IND) Calculate sales tax in an Accounts payable payment journal
+ms:assetid: cfce51c1-929c-4203-b4ba-3bc72fb1feee
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664933(v=AX.60)
+ms:contentKeyID: 49386262
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+---
+
+# (IND) Calculate sales tax in an Accounts payable payment journal 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
+
+
+> [!NOTE]
+> <P>This topic has not been fully updated for Microsoft Dynamics AX 2012 R2.</P>
+
+
+
+1.  Click **Accounts payable** \> **Journals** \> **Payments** \> **Payment journal**.
+
+2.  Press CTRL+N on the **Overview** tab to create a new journal.
+    
+
+    > [!NOTE]
+    > <P>For more information, see "Journal header (form)" in the Applications and Business Processes Help.</P>
+
+
+
+3.  Click **Lines** to open the **Journal voucher** form.
+
+4.  Enter the required details on the **Overview** tab.
+    
+
+    > [!NOTE]
+    > <P>For more information, see "Vendor payment journal lines (form)" in the Applications and Business Processes Help.</P>
+
+
+
+5.  Click the **General** tab.
+
+6.  Select the account type as **Vendor** in the **Account type** field in the**Account selection** field group.
+
+7.  Select the sales tax group in the **Sales tax group** field.
+
+8.  Select the group of sales tax codes that is calculated for an item in the **Item sales tax group** field. View the amount in the journal line in one of the following fields, based on the taxable basis that is defined:
+    
+      - **Assessable value** – View or modify the net value of the journal line if the calculation of tax is based on the assessable value of the journal line.
+    
+      - **Max. retail price** – View or modify the value if the basis of calculation for sales tax is on the maximum retail price of the journal line.
+
+9.  Select the offset account type as **Ledger** in the **Offset account type** field.
+
+10. Enter the credit amount in given currency in the **Credit** field.
+
+11. Click the **Tax information** tab and select the address code in the **Name** field. The address of the company is displayed in the **Address** field and the registration number in the **Registration number** field.
+
+12. Select the India sales tax form type in the **Form type** field.
+
+13. Click **Sales tax** to open the **Temporary sales tax transactions** form. The details of the sales tax amount for the transaction are displayed on the **Overview** tab.
+
+14. Click the **Adjustment** tab to adjust the sales tax amount, if needed, and click **Apply**.
+
+15. Click **Formula designer** to open the **Formula designer** form. View the calculation expression that is defined for each tax code in the item sales tax sales group. The fields in this form cannot be modified.
+
+16. Close the **Formula designer** form and the **Temporary sales tax transactions** form to return to the **Payment journal** form.
+
+17. Post the journal.
+
+## See also
+
+[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/en-us/library/jj678053\(v=ax.60\))
+
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+
+[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

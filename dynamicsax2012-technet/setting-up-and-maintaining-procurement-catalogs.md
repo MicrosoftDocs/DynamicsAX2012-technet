@@ -1,0 +1,27 @@
+﻿---
+title: Setting up and maintaining procurement catalogs
+TOCTitle: Setting up and maintaining procurement catalogs
+ms:assetid: 4d6f51bf-335c-48eb-8172-8d66d47c838a
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208753(v=AX.60)
+ms:contentKeyID: 36057035
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+f1_keywords:
+- procurement catalog
+- procurement catalogs
+---
+
+# Setting up and maintaining procurement catalogs 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
+
+The topics in this section provide an overview of procurement catalogs and describe the prerequisite steps that must be completed before you can create procurement catalogs.
+
+[Procurement catalogs overview](procurement-catalogs-overview.md)
+
+[Set up product relationship types](set-up-product-relationship-types.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

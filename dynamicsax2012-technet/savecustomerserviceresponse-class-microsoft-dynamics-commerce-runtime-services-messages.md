@@ -1,0 +1,60 @@
+﻿---
+title: SaveCustomerServiceResponse Class (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
+TOCTitle: SaveCustomerServiceResponse Class
+ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SaveCustomerServiceResponse
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.savecustomerserviceresponse(v=AX.60)
+ms:contentKeyID: 49834820
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SaveCustomerServiceResponse
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# SaveCustomerServiceResponse Class
+
+Save Customer response.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Services.Messages (in Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataContractAttribute> _
+Public NotInheritable Class SaveCustomerServiceResponse _
+    Inherits Response
+'Usage
+Dim instance As SaveCustomerServiceResponse
+```
+
+``` csharp
+[DataContractAttribute]
+public sealed class SaveCustomerServiceResponse : Response
+```
+
+``` c++
+[DataContractAttribute]
+public ref class SaveCustomerServiceResponse sealed : public Response
+```
+
+## Inheritance Hierarchy
+
+[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+  [Microsoft.Dynamics.Commerce.Runtime.Messages.Response](response-class-microsoft-dynamics-commerce-runtime-messages.md)  
+    Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SaveCustomerServiceResponse  
+
+## Thread Safety
+
+Any public static (Shared in Visual Basic) members of this type are thread safe. Any instance members are not guaranteed to be thread safe.
+
+## See Also
+
+#### Reference
+
+[Microsoft.Dynamics.Commerce.Runtime.Services.Messages Namespace](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)
+

@@ -1,0 +1,62 @@
+﻿---
+title: GetProductBarcodeDataRequest.Barcode Property  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
+TOCTitle: Barcode Property
+ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetProductBarcodeDataRequest.Barcode
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getproductbarcodedatarequest.barcode(v=AX.60)
+ms:contentKeyID: 65317491
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetProductBarcodeDataRequest.Barcode
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# Barcode Property
+
+Gets the barcode to be used to retrieve refiners.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages (in Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Property Barcode As String
+    Get
+    Private Set
+'Usage
+Dim instance As GetProductBarcodeDataRequest
+Dim value As String
+
+value = instance.Barcode
+```
+
+``` csharp
+public string Barcode { get; private set; }
+```
+
+``` c++
+public:
+property String^ Barcode {
+    String^ get ();
+    private: void set (String^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[GetProductBarcodeDataRequest Class](getproductbarcodedatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages Namespace](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)
+

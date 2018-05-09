@@ -1,0 +1,22 @@
+﻿---
+title: Eventing (White paper)
+TOCTitle: Eventing
+ms:assetid: ad4e132f-eb51-4854-a117-05cc45d5691f
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272875(v=AX.60)
+ms:contentKeyID: 36584399
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+---
+
+# Eventing (White paper) 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
+
+This paper describes eventing and how it can be used in Microsoft Dynamics AX 2012.
+
+[Download the paper](http://go.microsoft.com/fwlink/?linkid=213111).
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

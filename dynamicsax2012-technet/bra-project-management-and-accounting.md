@@ -1,0 +1,26 @@
+﻿---
+title: (BRA) Project management and accounting
+TOCTitle: (BRA) Project management and accounting
+ms:assetid: e0d275bf-38d0-4210-8e4b-392707530c84
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663956(v=AX.60)
+ms:contentKeyID: 49384542
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+---
+
+# (BRA) Project management and accounting 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
+
+Use Project management and accounting to plan, create, manage, control and complete projects for your organization.
+
+The topics in this section provide information about Project management and accounting.
+
+[(BRA) Working with Project management and accounting](bra-working-with-project-management-and-accounting.md)
+
+[(BRA) Setting up and maintaining Project management and accounting](bra-setting-up-and-maintaining-project-management-and-accounting.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

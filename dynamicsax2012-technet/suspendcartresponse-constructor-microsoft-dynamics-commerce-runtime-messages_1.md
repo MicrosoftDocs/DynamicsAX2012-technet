@@ -1,0 +1,50 @@
+﻿---
+title: SuspendCartResponse Constructor  (Microsoft.Dynamics.Commerce.Runtime.Messages)
+TOCTitle: SuspendCartResponse Constructor
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SuspendCartResponse.#ctor
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.suspendcartresponse.suspendcartresponse(v=AX.60)
+ms:contentKeyID: 62209365
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+dev_langs:
+- vb
+- csharp
+- c++
+---
+
+# SuspendCartResponse Constructor
+
+Initializes a new instance of the [SuspendCartResponse](suspendcartresponse-class-microsoft-dynamics-commerce-runtime-messages.md) class.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Messages (in Microsoft.Dynamics.Commerce.Runtime.Messages.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Sub New
+'Usage
+
+Dim instance As New SuspendCartResponse()
+```
+
+``` csharp
+public SuspendCartResponse()
+```
+
+``` c++
+public:
+SuspendCartResponse()
+```
+
+## See Also
+
+#### Reference
+
+[SuspendCartResponse Class](suspendcartresponse-class-microsoft-dynamics-commerce-runtime-messages.md)
+
+[SuspendCartResponse Overload](suspendcartresponse-constructor-microsoft-dynamics-commerce-runtime-messages.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Messages Namespace](microsoft-dynamics-commerce-runtime-messages-namespace.md)
+

@@ -1,0 +1,69 @@
+﻿---
+title: SharePointTimerJobHelper.UnregisterSPService Method  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Job)
+TOCTitle: UnregisterSPService Method
+ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Job.SharePointTimerJobHelper.UnregisterSPService(Microsoft.SharePoint.Administration.SPFarm,System.String)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.job.sharepointtimerjobhelper.unregisterspservice(v=AX.60)
+ms:contentKeyID: 65315850
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Job.SharePointTimerJobHelper.UnregisterSPService
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# UnregisterSPService Method
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Job](microsoft-dynamics-retail-ecommerce-sp-publishing-job-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Job (in Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Job.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Shared Sub UnregisterSPService ( _
+    farm As SPFarm, _
+    serviceName As String _
+)
+'Usage
+Dim farm As SPFarm
+Dim serviceName As String
+
+SharePointTimerJobHelper.UnregisterSPService(farm, serviceName)
+```
+
+``` csharp
+public static void UnregisterSPService(
+    SPFarm farm,
+    string serviceName
+)
+```
+
+``` c++
+public:
+static void UnregisterSPService(
+    SPFarm^ farm, 
+    String^ serviceName
+)
+```
+
+#### Parameters
+
+  - farm  
+    Type: SPFarm  
+
+<!-- end list -->
+
+  - serviceName  
+    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+
+## See Also
+
+#### Reference
+
+[SharePointTimerJobHelper Class](sharepointtimerjobhelper-class-microsoft-dynamics-retail-ecommerce-sp-publishing-job.md)
+
+[Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Job Namespace](microsoft-dynamics-retail-ecommerce-sp-publishing-job-namespace.md)
+

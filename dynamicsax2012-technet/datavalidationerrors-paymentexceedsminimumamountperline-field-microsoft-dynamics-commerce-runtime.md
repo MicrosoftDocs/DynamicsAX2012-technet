@@ -1,0 +1,51 @@
+﻿---
+title: DataValidationErrors.PaymentExceedsMinimumAmountPerLine Field (Microsoft.Dynamics.Commerce.Runtime)
+TOCTitle: PaymentExceedsMinimumAmountPerLine Field
+ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataValidationErrors.PaymentExceedsMinimumAmountPerLine
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datavalidationerrors.paymentexceedsminimumamountperline(v=AX.60)
+ms:contentKeyID: 62205954
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataValidationErrors.PaymentExceedsMinimumAmountPerLine
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# PaymentExceedsMinimumAmountPerLine Field
+
+Indicates that payment amount exceeds minimum amount allowed per line.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Shared ReadOnly PaymentExceedsMinimumAmountPerLine As String
+'Usage
+Dim value As String
+
+value = DataValidationErrors.PaymentExceedsMinimumAmountPerLine
+```
+
+``` csharp
+public static readonly string PaymentExceedsMinimumAmountPerLine
+```
+
+``` c++
+public:
+static initonly String^ PaymentExceedsMinimumAmountPerLine
+```
+
+## See Also
+
+#### Reference
+
+[DataValidationErrors Class](datavalidationerrors-class-microsoft-dynamics-commerce-runtime.md)
+
+[Microsoft.Dynamics.Commerce.Runtime Namespace](microsoft-dynamics-commerce-runtime-namespace.md)
+

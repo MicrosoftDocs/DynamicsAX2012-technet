@@ -1,0 +1,62 @@
+﻿---
+title: GetRoundQuantityServiceResponse Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
+TOCTitle: GetRoundQuantityServiceResponse Constructor
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetRoundQuantityServiceResponse.#ctor(System.Decimal)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getroundquantityserviceresponse.getroundquantityserviceresponse(v=AX.60)
+ms:contentKeyID: 62214121
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetRoundQuantityServiceResponse.#ctor
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetRoundQuantityServiceResponse Constructor
+
+Initializes a new instance of the [GetRoundQuantityServiceResponse](getroundquantityserviceresponse-class-microsoft-dynamics-commerce-runtime-services-messages.md) class.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Services.Messages (in Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Sub New ( _
+    roundedValue As Decimal _
+)
+'Usage
+Dim roundedValue As Decimal
+
+Dim instance As New GetRoundQuantityServiceResponse(roundedValue)
+```
+
+``` csharp
+public GetRoundQuantityServiceResponse(
+    decimal roundedValue
+)
+```
+
+``` c++
+public:
+GetRoundQuantityServiceResponse(
+    Decimal roundedValue
+)
+```
+
+#### Parameters
+
+  - roundedValue  
+    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+
+## See Also
+
+#### Reference
+
+[GetRoundQuantityServiceResponse Class](getroundquantityserviceresponse-class-microsoft-dynamics-commerce-runtime-services-messages.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Services.Messages Namespace](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)
+

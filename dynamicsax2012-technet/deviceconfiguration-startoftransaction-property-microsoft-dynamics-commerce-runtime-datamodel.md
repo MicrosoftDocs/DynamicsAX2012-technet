@@ -1,0 +1,70 @@
+﻿---
+title: DeviceConfiguration.StartOfTransaction Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: StartOfTransaction Property
+ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.DeviceConfiguration.StartOfTransaction
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.deviceconfiguration.startoftransaction(v=AX.60)
+ms:contentKeyID: 62213389
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataModel.DeviceConfiguration.StartOfTransaction
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# StartOfTransaction Property
+
+Gets or sets the start of transaction reason code.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataMemberAttribute> _
+<ColumnAttribute("STARTOFTRANSACTION")> _
+Public Property StartOfTransaction As String
+    Get
+    Set
+'Usage
+Dim instance As DeviceConfiguration
+Dim value As String
+
+value = instance.StartOfTransaction
+
+instance.StartOfTransaction = value
+```
+
+``` csharp
+[DataMemberAttribute]
+[ColumnAttribute("STARTOFTRANSACTION")]
+public string StartOfTransaction { get; set; }
+```
+
+``` c++
+[DataMemberAttribute]
+[ColumnAttribute(L"STARTOFTRANSACTION")]
+public:
+property String^ StartOfTransaction {
+    String^ get ();
+    void set (String^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+The string containing the start of transaction reason code.  
+
+## See Also
+
+#### Reference
+
+[DeviceConfiguration Class](deviceconfiguration-class-microsoft-dynamics-commerce-runtime-datamodel.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)
+

@@ -1,0 +1,63 @@
+﻿---
+title: ILoyaltyCardDataV1.CustomerName Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
+TOCTitle: CustomerName Property
+ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ILoyaltyCardDataV1.CustomerName
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.iloyaltycarddatav1.customername(v=AX.60)
+ms:contentKeyID: 62204829
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ILoyaltyCardDataV1.CustomerName
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# CustomerName Property
+
+Gets or sets the loyalty card customer name.
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Pos.Contracts (in Microsoft.Dynamics.Retail.Pos.Contracts.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Property CustomerName As String
+    Get
+    Set
+'Usage
+Dim instance As ILoyaltyCardDataV1
+Dim value As String
+
+value = instance.CustomerName
+
+instance.CustomerName = value
+```
+
+``` csharp
+string CustomerName { get; set; }
+```
+
+``` c++
+property String^ CustomerName {
+    String^ get ();
+    void set (String^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[ILoyaltyCardDataV1 Interface](iloyaltycarddatav1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)
+
+[Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity Namespace](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)
+

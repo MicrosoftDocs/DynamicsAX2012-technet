@@ -1,0 +1,67 @@
+﻿---
+title: ShoppingCart.LastModifiedDate Property  (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel)
+TOCTitle: LastModifiedDate Property
+ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ShoppingCart.LastModifiedDate
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.shoppingcart.lastmodifieddate(v=AX.60)
+ms:contentKeyID: 62204805
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ShoppingCart.LastModifiedDate
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# LastModifiedDate Property
+
+Gets or sets the last modified date and time of the shopping cart
+
+**Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.SP.Web.Services (in Microsoft.Dynamics.Retail.SP.Web.Services.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataMemberAttribute> _
+Public Property LastModifiedDate As DateTime
+    Get
+    Set
+'Usage
+Dim instance As ShoppingCart
+Dim value As DateTime
+
+value = instance.LastModifiedDate
+
+instance.LastModifiedDate = value
+```
+
+``` csharp
+[DataMemberAttribute]
+public DateTime LastModifiedDate { get; set; }
+```
+
+``` c++
+[DataMemberAttribute]
+public:
+property DateTime LastModifiedDate {
+    DateTime get ();
+    void set (DateTime value);
+}
+```
+
+#### Property Value
+
+Type: [System.DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\))  
+Returns [DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[ShoppingCart Class](shoppingcart-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)
+
+[Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel Namespace](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)
+

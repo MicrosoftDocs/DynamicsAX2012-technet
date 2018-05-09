@@ -1,0 +1,67 @@
+﻿---
+title: CartLine.ReturnInventTransId Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: ReturnInventTransId Property
+ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine.ReturnInventTransId
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.cartline.returninventtransid(v=AX.60)
+ms:contentKeyID: 62210450
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine.ReturnInventTransId
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# ReturnInventTransId Property
+
+Gets or sets the inventory transaction identifier related to this return line (customer order).
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataMemberAttribute> _
+Public Property ReturnInventTransId As String
+    Get
+    Set
+'Usage
+Dim instance As CartLine
+Dim value As String
+
+value = instance.ReturnInventTransId
+
+instance.ReturnInventTransId = value
+```
+
+``` csharp
+[DataMemberAttribute]
+public string ReturnInventTransId { get; set; }
+```
+
+``` c++
+[DataMemberAttribute]
+public:
+property String^ ReturnInventTransId {
+    String^ get ();
+    void set (String^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[CartLine Class](cartline-class-microsoft-dynamics-commerce-runtime-datamodel.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)
+

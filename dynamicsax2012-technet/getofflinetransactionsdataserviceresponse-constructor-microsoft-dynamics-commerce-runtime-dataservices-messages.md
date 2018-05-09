@@ -1,0 +1,53 @@
+﻿---
+title: GetOfflineTransactionsDataServiceResponse Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
+TOCTitle: GetOfflineTransactionsDataServiceResponse Constructor
+ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetOfflineTransactionsDataServiceResponse.#ctor
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getofflinetransactionsdataserviceresponse.getofflinetransactionsdataserviceresponse(v=AX.60)
+ms:contentKeyID: 65318287
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetOfflineTransactionsDataServiceResponse.#ctor
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetOfflineTransactionsDataServiceResponse Constructor
+
+## Overload List
+
+<table>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
+<td><a href="getofflinetransactionsdataserviceresponse-constructor-microsoft-dynamics-commerce-runtime-dataservices-messages_1.md">GetOfflineTransactionsDataServiceResponse()</a></td>
+<td>Initializes a new instance of the <a href="getofflinetransactionsdataserviceresponse-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md">GetOfflineTransactionsDataServiceResponse</a> class.</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
+<td><a href="getofflinetransactionsdataserviceresponse-constructor-byte-microsoft-dynamics-commerce-runtime-dataservices-messages.md">GetOfflineTransactionsDataServiceResponse(Byte[])</a></td>
+<td>Initializes a new instance of the <a href="getofflinetransactionsdataserviceresponse-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md">GetOfflineTransactionsDataServiceResponse</a> class.</td>
+</tr>
+</tbody>
+</table>
+
+
+Top
+
+## See Also
+
+#### Reference
+
+[GetOfflineTransactionsDataServiceResponse Class](getofflinetransactionsdataserviceresponse-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages Namespace](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)
+

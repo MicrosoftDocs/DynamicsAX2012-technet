@@ -1,0 +1,94 @@
+﻿---
+title: SendEmailServiceRequest Properties (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
+TOCTitle: SendEmailServiceRequest Properties
+ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SendEmailServiceRequest
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.sendemailservicerequest_properties(v=AX.60)
+ms:contentKeyID: 49847024
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+---
+
+# SendEmailServiceRequest Properties
+
+The [SendEmailServiceRequest](sendemailservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
+
+## Properties
+
+<table>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="request-credential-property-microsoft-dynamics-commerce-runtime-messages.md">Credential</a></td>
+<td>(Inherited from <a href="request-class-microsoft-dynamics-commerce-runtime-messages.md">Request</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="sendemailservicerequest-emailaddress-property-microsoft-dynamics-commerce-runtime-services-messages.md">EmailAddress</a></td>
+<td>Gets the e-mail address.</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="sendemailservicerequest-emailid-property-microsoft-dynamics-commerce-runtime-services-messages.md">EmailId</a></td>
+<td>Gets the e-mail template identifier defined in AX.</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="sendemailservicerequest-language-property-microsoft-dynamics-commerce-runtime-services-messages.md">Language</a></td>
+<td>Gets the language to send the e-mail.</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="request-locale-property-microsoft-dynamics-commerce-runtime-messages.md">Locale</a></td>
+<td>Gets or sets the locale for the request. (Inherited from <a href="request-class-microsoft-dynamics-commerce-runtime-messages.md">Request</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="sendemailservicerequest-mappings-property-microsoft-dynamics-commerce-runtime-services-messages.md">Mappings</a></td>
+<td>Gets the collection of name/value pairs to be used in the the token replacement of the message.</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="request-needchannelidfromprincipal-property-microsoft-dynamics-commerce-runtime-messages.md">NeedChannelIdFromPrincipal</a></td>
+<td>Gets a value indicating whether the channel should be retrieved from principal for the specific request. (Inherited from <a href="request-class-microsoft-dynamics-commerce-runtime-messages.md">Request</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="request-parameters-property-microsoft-dynamics-commerce-runtime-messages.md">Parameters</a></td>
+<td>Gets the parameters in the reqeust. (Inherited from <a href="request-class-microsoft-dynamics-commerce-runtime-messages.md">Request</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="request-queryresultsettings-property-microsoft-dynamics-commerce-runtime-messages.md">QueryResultSettings</a></td>
+<td>Gets or sets the query result settings. (Inherited from <a href="request-class-microsoft-dynamics-commerce-runtime-messages.md">Request</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="request-requestcontext-property-microsoft-dynamics-commerce-runtime-messages.md">RequestContext</a></td>
+<td>(Inherited from <a href="request-class-microsoft-dynamics-commerce-runtime-messages.md">Request</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="sendemailservicerequest-xmldata-property-microsoft-dynamics-commerce-runtime-services-messages.md">XmlData</a></td>
+<td>Gets the XML data used in the XSLT transform of the message.</td>
+</tr>
+</tbody>
+</table>
+
+
+Top
+
+## See Also
+
+#### Reference
+
+[SendEmailServiceRequest Class](sendemailservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Services.Messages Namespace](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)
+

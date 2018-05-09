@@ -1,0 +1,104 @@
+﻿---
+title: LoyaltyController.GenerateLoyaltyCardId Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers)
+TOCTitle: GenerateLoyaltyCardId Method
+ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.LoyaltyController.GenerateLoyaltyCardId(System.String,System.String,Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.ShoppingCartDataLevel,Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.IProductValidator,Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.ISearchEngine)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.loyaltycontroller.generateloyaltycardid(v=AX.60)
+ms:contentKeyID: 65318384
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.LoyaltyController.GenerateLoyaltyCardId
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GenerateLoyaltyCardId Method
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers](microsoft-dynamics-retail-ecommerce-sdk-core-controllers-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core (in Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Overridable Function GenerateLoyaltyCardId ( _
+    shoppingCartId As String, _
+    customerId As String, _
+    dataLevel As ShoppingCartDataLevel, _
+    productValidator As IProductValidator, _
+    searchEngine As ISearchEngine _
+) As ShoppingCart
+'Usage
+Dim instance As LoyaltyController
+Dim shoppingCartId As String
+Dim customerId As String
+Dim dataLevel As ShoppingCartDataLevel
+Dim productValidator As IProductValidator
+Dim searchEngine As ISearchEngine
+Dim returnValue As ShoppingCart
+
+returnValue = instance.GenerateLoyaltyCardId(shoppingCartId, _
+    customerId, dataLevel, productValidator, _
+    searchEngine)
+```
+
+``` csharp
+public virtual ShoppingCart GenerateLoyaltyCardId(
+    string shoppingCartId,
+    string customerId,
+    ShoppingCartDataLevel dataLevel,
+    IProductValidator productValidator,
+    ISearchEngine searchEngine
+)
+```
+
+``` c++
+public:
+virtual ShoppingCart^ GenerateLoyaltyCardId(
+    String^ shoppingCartId, 
+    String^ customerId, 
+    ShoppingCartDataLevel dataLevel, 
+    IProductValidator^ productValidator, 
+    ISearchEngine^ searchEngine
+)
+```
+
+#### Parameters
+
+  - shoppingCartId  
+    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+
+<!-- end list -->
+
+  - customerId  
+    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+
+<!-- end list -->
+
+  - dataLevel  
+    Type: [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.ShoppingCartDataLevel](shoppingcartdatalevel-enumeration-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)  
+
+<!-- end list -->
+
+  - productValidator  
+    Type: [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.IProductValidator](iproductvalidator-interface-microsoft-dynamics-retail-ecommerce-sdk-core.md)  
+
+<!-- end list -->
+
+  - searchEngine  
+    Type: [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.ISearchEngine](isearchengine-interface-microsoft-dynamics-retail-ecommerce-sdk-core.md)  
+
+#### Return Value
+
+Type: [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.ShoppingCart](shoppingcart-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)  
+
+## See Also
+
+#### Reference
+
+[LoyaltyController Class](loyaltycontroller-class-microsoft-dynamics-retail-ecommerce-sdk-core-controllers.md)
+
+[Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers Namespace](microsoft-dynamics-retail-ecommerce-sdk-core-controllers-namespace.md)
+

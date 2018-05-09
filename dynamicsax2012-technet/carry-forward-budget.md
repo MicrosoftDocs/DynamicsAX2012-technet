@@ -1,0 +1,29 @@
+﻿---
+title: " carry-forward budget"
+TOCTitle: " carry-forward budget"
+ms:assetid: DynamicsAXGlossary.1370413
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1370413(v=AX.60)
+ms:contentKeyID: 36056831
+ms.date: 08/25/2014
+mtps_version: v=AX.60
+f1_keywords:
+- Glossary.carry-forward budget
+---
+
+# carry-forward budget
+
+The budget that is transferred from one fiscal year to the next and that is reserved for open purchase orders in the new fiscal year.
+
+## See also
+
+[budget](budget.md)
+
+[fiscal year](fiscal-year.md)
+
+[purchase order](purchase-order.md)
+
+[Microsoft Dynamics AX glossary](microsoft-dynamics-ax-glossary.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

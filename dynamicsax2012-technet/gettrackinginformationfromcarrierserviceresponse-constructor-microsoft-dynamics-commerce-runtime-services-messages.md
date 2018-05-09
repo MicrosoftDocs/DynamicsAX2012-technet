@@ -1,0 +1,62 @@
+﻿---
+title: GetTrackingInformationFromCarrierServiceResponse Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
+TOCTitle: GetTrackingInformationFromCarrierServiceResponse Constructor
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetTrackingInformationFromCarrierServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.TrackingInfo})
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.gettrackinginformationfromcarrierserviceresponse.gettrackinginformationfromcarrierserviceresponse(v=AX.60)
+ms:contentKeyID: 49838581
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetTrackingInformationFromCarrierServiceResponse.#ctor
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetTrackingInformationFromCarrierServiceResponse Constructor
+
+Initializes a new instance of the [GetTrackingInformationFromCarrierServiceResponse](gettrackinginformationfromcarrierserviceresponse-class-microsoft-dynamics-commerce-runtime-services-messages.md) class.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Services.Messages (in Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Sub New ( _
+    trackingDetails As IEnumerable(Of TrackingInfo) _
+)
+'Usage
+Dim trackingDetails As IEnumerable(Of TrackingInfo)
+
+Dim instance As New GetTrackingInformationFromCarrierServiceResponse(trackingDetails)
+```
+
+``` csharp
+public GetTrackingInformationFromCarrierServiceResponse(
+    IEnumerable<TrackingInfo> trackingDetails
+)
+```
+
+``` c++
+public:
+GetTrackingInformationFromCarrierServiceResponse(
+    IEnumerable<TrackingInfo^>^ trackingDetails
+)
+```
+
+#### Parameters
+
+  - trackingDetails  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[TrackingInfo](trackinginfo-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+
+## See Also
+
+#### Reference
+
+[GetTrackingInformationFromCarrierServiceResponse Class](gettrackinginformationfromcarrierserviceresponse-class-microsoft-dynamics-commerce-runtime-services-messages.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Services.Messages Namespace](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)
+

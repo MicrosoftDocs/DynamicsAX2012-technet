@@ -1,0 +1,61 @@
+﻿---
+title: GetButtonGridsByIdsServiceRequest Class (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
+TOCTitle: GetButtonGridsByIdsServiceRequest Class
+ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetButtonGridsByIdsServiceRequest
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getbuttongridsbyidsservicerequest(v=AX.60)
+ms:contentKeyID: 62205133
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetButtonGridsByIdsServiceRequest
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetButtonGridsByIdsServiceRequest Class
+
+ButtonGridServiceRequest class.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Services.Messages (in Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataContractAttribute> _
+Public NotInheritable Class GetButtonGridsByIdsServiceRequest _
+    Inherits ServiceRequest
+'Usage
+Dim instance As GetButtonGridsByIdsServiceRequest
+```
+
+``` csharp
+[DataContractAttribute]
+public sealed class GetButtonGridsByIdsServiceRequest : ServiceRequest
+```
+
+``` c++
+[DataContractAttribute]
+public ref class GetButtonGridsByIdsServiceRequest sealed : public ServiceRequest
+```
+
+## Inheritance Hierarchy
+
+[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+  [Microsoft.Dynamics.Commerce.Runtime.Messages.Request](request-class-microsoft-dynamics-commerce-runtime-messages.md)  
+    [Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ServiceRequest](servicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md)  
+      Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetButtonGridsByIdsServiceRequest  
+
+## Thread Safety
+
+Any public static (Shared in Visual Basic) members of this type are thread safe. Any instance members are not guaranteed to be thread safe.
+
+## See Also
+
+#### Reference
+
+[Microsoft.Dynamics.Commerce.Runtime.Services.Messages Namespace](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)
+

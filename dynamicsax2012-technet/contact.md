@@ -1,0 +1,25 @@
+﻿---
+title: " contact"
+TOCTitle: " contact"
+ms:assetid: DynamicsAXGlossary.38453
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.38453(v=AX.60)
+ms:contentKeyID: 36057912
+ms.date: 08/25/2014
+mtps_version: v=AX.60
+f1_keywords:
+- Glossary.contact
+---
+
+# contact
+
+A person, inside or outside your organization, for whom you have created an entry where you can save several types of information, such as street and e-mail addresses, telephone and fax numbers, and Web page URLs.
+
+## See also
+
+[organization](organization.md)
+
+[Microsoft Dynamics AX glossary](microsoft-dynamics-ax-glossary.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

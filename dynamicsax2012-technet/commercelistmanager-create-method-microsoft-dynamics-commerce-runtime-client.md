@@ -1,0 +1,68 @@
+﻿---
+title: CommerceListManager.Create Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
+TOCTitle: Create Method
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.CommerceListManager.Create(Microsoft.Dynamics.Commerce.Runtime.CommerceRuntime)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.commercelistmanager.create(v=AX.60)
+ms:contentKeyID: 62212457
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Client.CommerceListManager.Create
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# Create Method
+
+Creates a new instance of the commerce list manager.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Client (in Microsoft.Dynamics.Commerce.Runtime.Client.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Shared Function Create ( _
+    runtime As CommerceRuntime _
+) As CommerceListManager
+'Usage
+Dim runtime As CommerceRuntime
+Dim returnValue As CommerceListManager
+
+returnValue = CommerceListManager.Create(runtime)
+```
+
+``` csharp
+public static CommerceListManager Create(
+    CommerceRuntime runtime
+)
+```
+
+``` c++
+public:
+static CommerceListManager^ Create(
+    CommerceRuntime^ runtime
+)
+```
+
+#### Parameters
+
+  - runtime  
+    Type: [Microsoft.Dynamics.Commerce.Runtime.CommerceRuntime](commerceruntime-class-microsoft-dynamics-commerce-runtime.md)  
+
+#### Return Value
+
+Type: [Microsoft.Dynamics.Commerce.Runtime.Client.CommerceListManager](commercelistmanager-class-microsoft-dynamics-commerce-runtime-client.md)  
+A new instance of [CommerceListManager](commercelistmanager-class-microsoft-dynamics-commerce-runtime-client.md).  
+
+## See Also
+
+#### Reference
+
+[CommerceListManager Class](commercelistmanager-class-microsoft-dynamics-commerce-runtime-client.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Client Namespace](microsoft-dynamics-commerce-runtime-client-namespace.md)
+

@@ -1,0 +1,38 @@
+﻿---
+title: About question types
+TOCTitle: About question types
+ms:assetid: 2a853d6d-8386-440f-9f6a-b8cb41335a8d
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580595(v=AX.60)
+ms:contentKeyID: 39519080
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+---
+
+# About question types 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
+
+Question types are required. When you create a new question, you must assign a question type to it. For more information, see [Prerequisites for questionnaire](prerequisites-for-questionnaire.md).
+
+Use question types to categorize questions for reporting. Question types also make it easier to find questions to use by filtering in the **Questions** form.
+
+Examples of question types include the following:
+
+  - Human resource
+
+  - Managing business
+
+  - Course evaluation
+
+## Possible next steps
+
+The following links provide a logical progression to follow in the sequence. Depending on the questionnaire features that you are using, refer to the following information about the next steps:
+
+[Using answers and questions for questionnaire](using-answers-and-questions-for-questionnaire.md)
+
+[Setting up questionnaires](setting-up-questionnaires.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

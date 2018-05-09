@@ -1,0 +1,71 @@
+﻿---
+title: SalesOrderItemType Enumeration (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
+TOCTitle: SalesOrderItemType Enumeration
+ms:assetid: T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.SalesOrderItemType
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.salesorderitemtype(v=AX.60)
+ms:contentKeyID: 49828526
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.SalesOrderItemType
+- Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.SalesOrderItemType.FullPayment
+- Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.SalesOrderItemType.PrePayment
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# SalesOrderItemType Enumeration
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Pos.Contracts (in Microsoft.Dynamics.Retail.Pos.Contracts.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Enumeration SalesOrderItemType
+'Usage
+Dim instance As SalesOrderItemType
+```
+
+``` csharp
+public enum SalesOrderItemType
+```
+
+``` c++
+public enum class SalesOrderItemType
+```
+
+## Members
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th>Member name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>PrePayment</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>FullPayment</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+## See Also
+
+#### Reference
+
+[Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity Namespace](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)
+

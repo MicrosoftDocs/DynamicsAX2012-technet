@@ -1,0 +1,48 @@
+﻿---
+title: PublishingProcessor.ProcessRequiredSearchSchema Method  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
+TOCTitle: ProcessRequiredSearchSchema Method
+ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.PublishingProcessor.ProcessRequiredSearchSchema
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingprocessor.processrequiredsearchschema(v=AX.60)
+ms:contentKeyID: 65317982
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.PublishingProcessor.ProcessRequiredSearchSchema
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# ProcessRequiredSearchSchema Method
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector](microsoft-dynamics-retail-ecommerce-sp-publishing-connector-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector (in Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Shared Sub ProcessRequiredSearchSchema
+'Usage
+
+PublishingProcessor.ProcessRequiredSearchSchema()
+```
+
+``` csharp
+public static void ProcessRequiredSearchSchema()
+```
+
+``` c++
+public:
+static void ProcessRequiredSearchSchema()
+```
+
+## See Also
+
+#### Reference
+
+[PublishingProcessor Class](publishingprocessor-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector.md)
+
+[Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector Namespace](microsoft-dynamics-retail-ecommerce-sp-publishing-connector-namespace.md)
+

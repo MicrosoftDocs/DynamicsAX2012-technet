@@ -1,0 +1,59 @@
+﻿---
+title: ICacheControlElement.ForceMissedCacheLookups Property  (Microsoft.Dynamics.Commerce.Runtime.Configuration)
+TOCTitle: ForceMissedCacheLookups Property
+ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Configuration.ICacheControlElement.ForceMissedCacheLookups
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.configuration.icachecontrolelement.forcemissedcachelookups(v=AX.60)
+ms:contentKeyID: 65320660
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Configuration.ICacheControlElement.ForceMissedCacheLookups
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# ForceMissedCacheLookups Property
+
+Gets a value indicating whether cache lookups should always fail or not.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+ReadOnly Property ForceMissedCacheLookups As Boolean
+    Get
+'Usage
+Dim instance As ICacheControlElement
+Dim value As Boolean
+
+value = instance.ForceMissedCacheLookups
+```
+
+``` csharp
+bool ForceMissedCacheLookups { get; }
+```
+
+``` c++
+property bool ForceMissedCacheLookups {
+    bool get ();
+}
+```
+
+#### Property Value
+
+Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Returns [Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[ICacheControlElement Interface](icachecontrolelement-interface-microsoft-dynamics-commerce-runtime-configuration.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Configuration Namespace](microsoft-dynamics-commerce-runtime-configuration-namespace.md)
+

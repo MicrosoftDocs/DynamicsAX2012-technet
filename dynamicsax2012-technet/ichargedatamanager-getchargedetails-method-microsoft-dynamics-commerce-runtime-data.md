@@ -1,0 +1,87 @@
+﻿---
+title: IChargeDataManager.GetChargeDetails Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
+TOCTitle: GetChargeDetails Method
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IChargeDataManager.GetChargeDetails(System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.ChargeModule,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.ichargedatamanager.getchargedetails(v=AX.60)
+ms:contentKeyID: 65321486
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Data.IChargeDataManager.GetChargeDetails
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetChargeDetails Method
+
+Gets the charge details.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataManagers (in Microsoft.Dynamics.Commerce.Runtime.DataManagers.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Function GetChargeDetails ( _
+    chargeCode As String, _
+    chargeModule As ChargeModule, _
+    settings As QueryResultSettings _
+) As ChargeLine
+'Usage
+Dim instance As IChargeDataManager
+Dim chargeCode As String
+Dim chargeModule As ChargeModule
+Dim settings As QueryResultSettings
+Dim returnValue As ChargeLine
+
+returnValue = instance.GetChargeDetails(chargeCode, _
+    chargeModule, settings)
+```
+
+``` csharp
+ChargeLine GetChargeDetails(
+    string chargeCode,
+    ChargeModule chargeModule,
+    QueryResultSettings settings
+)
+```
+
+``` c++
+ChargeLine^ GetChargeDetails(
+    String^ chargeCode, 
+    ChargeModule chargeModule, 
+    QueryResultSettings^ settings
+)
+```
+
+#### Parameters
+
+  - chargeCode  
+    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+
+<!-- end list -->
+
+  - chargeModule  
+    Type: [Microsoft.Dynamics.Commerce.Runtime.DataModel.ChargeModule](chargemodule-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)  
+
+<!-- end list -->
+
+  - settings  
+    Type: [Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings](queryresultsettings-class-microsoft-dynamics-commerce-runtime-datamodel.md)  
+
+#### Return Value
+
+Type: [Microsoft.Dynamics.Commerce.Runtime.DataModel.ChargeLine](chargeline-class-microsoft-dynamics-commerce-runtime-datamodel.md)  
+Returns the charge line with charge details populated.  
+
+## See Also
+
+#### Reference
+
+[IChargeDataManager Interface](ichargedatamanager-interface-microsoft-dynamics-commerce-runtime-data.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Data Namespace](microsoft-dynamics-commerce-runtime-data-namespace.md)
+

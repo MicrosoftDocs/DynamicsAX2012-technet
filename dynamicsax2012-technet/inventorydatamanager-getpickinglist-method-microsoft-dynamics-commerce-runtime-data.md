@@ -1,0 +1,76 @@
+﻿---
+title: InventoryDataManager.GetPickingList Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
+TOCTitle: GetPickingList Method
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.InventoryDataManager.GetPickingList(System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.inventorydatamanager.getpickinglist(v=AX.60)
+ms:contentKeyID: 65322156
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Data.InventoryDataManager.GetPickingList
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetPickingList Method
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataManagers (in Microsoft.Dynamics.Commerce.Runtime.DataManagers.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Function GetPickingList ( _
+    orderId As String, _
+    settings As QueryResultSettings _
+) As ReadOnlyCollection(Of PickingListLine)
+'Usage
+Dim instance As InventoryDataManager
+Dim orderId As String
+Dim settings As QueryResultSettings
+Dim returnValue As ReadOnlyCollection(Of PickingListLine)
+
+returnValue = instance.GetPickingList(orderId, _
+    settings)
+```
+
+``` csharp
+public ReadOnlyCollection<PickingListLine> GetPickingList(
+    string orderId,
+    QueryResultSettings settings
+)
+```
+
+``` c++
+public:
+ReadOnlyCollection<PickingListLine^>^ GetPickingList(
+    String^ orderId, 
+    QueryResultSettings^ settings
+)
+```
+
+#### Parameters
+
+  - orderId  
+    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+
+<!-- end list -->
+
+  - settings  
+    Type: [Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings](queryresultsettings-class-microsoft-dynamics-commerce-runtime-datamodel.md)  
+
+#### Return Value
+
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[PickingListLine](pickinglistline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+
+## See Also
+
+#### Reference
+
+[InventoryDataManager Class](inventorydatamanager-class-microsoft-dynamics-commerce-runtime-data.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Data Namespace](microsoft-dynamics-commerce-runtime-data-namespace.md)
+

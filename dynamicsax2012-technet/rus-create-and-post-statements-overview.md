@@ -1,0 +1,22 @@
+﻿---
+title: (RUS) Create and post statements overview
+TOCTitle: (RUS) Create and post statements overview
+ms:assetid: 5187b16b-44bc-4141-90c2-c669086e88c8
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716017(v=AX.60)
+ms:contentKeyID: 62200262
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+---
+
+# (RUS) Create and post statements overview 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3_
+
+The topics in this section provide information about how to create, calculate, and post statements.
+
+[(RUS) Post a statement for return transactions that are processed during a different shift](rus-post-a-statement-for-return-transactions-that-are-processed-during-a-different-shift.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

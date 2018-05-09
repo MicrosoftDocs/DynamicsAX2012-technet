@@ -1,0 +1,61 @@
+﻿---
+title: GetShiftRequiredAmountsPerTenderDataRequest Class (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
+TOCTitle: GetShiftRequiredAmountsPerTenderDataRequest Class
+ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetShiftRequiredAmountsPerTenderDataRequest
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getshiftrequiredamountspertenderdatarequest(v=AX.60)
+ms:contentKeyID: 65319863
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetShiftRequiredAmountsPerTenderDataRequest
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetShiftRequiredAmountsPerTenderDataRequest Class
+
+The data request to get required shift tender amounts per tender type.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages (in Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataContractAttribute> _
+Public Class GetShiftRequiredAmountsPerTenderDataRequest _
+    Inherits DataRequest
+'Usage
+Dim instance As GetShiftRequiredAmountsPerTenderDataRequest
+```
+
+``` csharp
+[DataContractAttribute]
+public class GetShiftRequiredAmountsPerTenderDataRequest : DataRequest
+```
+
+``` c++
+[DataContractAttribute]
+public ref class GetShiftRequiredAmountsPerTenderDataRequest : public DataRequest
+```
+
+## Inheritance Hierarchy
+
+[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+  [Microsoft.Dynamics.Commerce.Runtime.Messages.Request](request-class-microsoft-dynamics-commerce-runtime-messages.md)  
+    [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.DataRequest](datarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md)  
+      Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetShiftRequiredAmountsPerTenderDataRequest  
+
+## Thread Safety
+
+Any public static (Shared in Visual Basic) members of this type are thread safe. Any instance members are not guaranteed to be thread safe.
+
+## See Also
+
+#### Reference
+
+[Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages Namespace](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)
+

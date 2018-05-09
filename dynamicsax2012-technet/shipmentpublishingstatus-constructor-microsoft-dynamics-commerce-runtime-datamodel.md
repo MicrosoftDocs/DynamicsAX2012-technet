@@ -1,0 +1,50 @@
+﻿---
+title: ShipmentPublishingStatus Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: ShipmentPublishingStatus Constructor
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ShipmentPublishingStatus.#ctor
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.shipmentpublishingstatus.shipmentpublishingstatus(v=AX.60)
+ms:contentKeyID: 62207468
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataModel.ShipmentPublishingStatus.#ctor
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# ShipmentPublishingStatus Constructor
+
+Initializes a new instance of the [ShipmentPublishingStatus](shipmentpublishingstatus-class-microsoft-dynamics-commerce-runtime-datamodel.md) class.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Sub New
+'Usage
+
+Dim instance As New ShipmentPublishingStatus()
+```
+
+``` csharp
+public ShipmentPublishingStatus()
+```
+
+``` c++
+public:
+ShipmentPublishingStatus()
+```
+
+## See Also
+
+#### Reference
+
+[ShipmentPublishingStatus Class](shipmentpublishingstatus-class-microsoft-dynamics-commerce-runtime-datamodel.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)
+

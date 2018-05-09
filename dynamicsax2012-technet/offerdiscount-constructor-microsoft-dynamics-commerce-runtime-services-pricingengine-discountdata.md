@@ -1,0 +1,48 @@
+﻿---
+title: OfferDiscount Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData)
+TOCTitle: OfferDiscount Constructor
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.OfferDiscount.#ctor
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.offerdiscount.offerdiscount(v=AX.60)
+ms:contentKeyID: 62214831
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.OfferDiscount.#ctor
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# OfferDiscount Constructor
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine (in Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Sub New
+'Usage
+
+Dim instance As New OfferDiscount()
+```
+
+``` csharp
+public OfferDiscount()
+```
+
+``` c++
+public:
+OfferDiscount()
+```
+
+## See Also
+
+#### Reference
+
+[OfferDiscount Class](offerdiscount-class-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData Namespace](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)
+

@@ -1,0 +1,86 @@
+﻿---
+title: HtmlControlExtensions.AddAttribute Method (HtmlControl, String, String) (Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls)
+TOCTitle: AddAttribute Method (HtmlControl, String, String)
+ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlControlExtensions.AddAttribute(System.Web.UI.HtmlControls.HtmlControl,System.String,System.String)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlcontrolextensions.addattribute(v=AX.60)
+ms:contentKeyID: 62207372
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+dev_langs:
+- vb
+- csharp
+- c++
+---
+
+# AddAttribute Method (HtmlControl, String, String)
+
+Adds the specified attribute to the element.
+
+**Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.SP.Web.Controls (in Microsoft.Dynamics.Retail.SP.Web.Controls.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<ExtensionAttribute> _
+Public Shared Sub AddAttribute ( _
+    control As HtmlControl, _
+    attribute As String, _
+    attributeValue As String _
+)
+'Usage
+Dim control As HtmlControl
+Dim attribute As String
+Dim attributeValue As String
+
+control.AddAttribute(attribute, attributeValue)
+```
+
+``` csharp
+public static void AddAttribute(
+    this HtmlControl control,
+    string attribute,
+    string attributeValue
+)
+```
+
+``` c++
+[ExtensionAttribute]
+public:
+static void AddAttribute(
+    HtmlControl^ control, 
+    String^ attribute, 
+    String^ attributeValue
+)
+```
+
+#### Parameters
+
+  - control  
+    Type: [System.Web.UI.HtmlControls.HtmlControl](https://technet.microsoft.com/en-us/library/khc6t495\(v=ax.60\))  
+
+<!-- end list -->
+
+  - attribute  
+    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+
+<!-- end list -->
+
+  - attributeValue  
+    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+
+#### Usage Note
+
+In Visual Basic and C\#, you can call this method as an instance method on any object of type [HtmlControl](https://technet.microsoft.com/en-us/library/khc6t495\(v=ax.60\)). When you use instance method syntax to call this method, omit the first parameter. For more information, see b8020aae-374d-46a9-bcb7-8cc2390b93b6 or 175ce3ff-9bbf-4e64-8421-faeb81a0bb51.
+
+## See Also
+
+#### Reference
+
+[HtmlControlExtensions Class](htmlcontrolextensions-class-microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols.md)
+
+[AddAttribute Overload](htmlcontrolextensions-addattribute-method-microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols.md)
+
+[Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls Namespace](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)
+

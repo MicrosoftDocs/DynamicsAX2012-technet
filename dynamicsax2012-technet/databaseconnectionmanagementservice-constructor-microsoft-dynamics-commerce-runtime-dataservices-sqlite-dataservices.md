@@ -1,0 +1,48 @@
+﻿---
+title: DatabaseConnectionManagementService Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.DataServices)
+TOCTitle: DatabaseConnectionManagementService Constructor
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.DataServices.DatabaseConnectionManagementService.#ctor
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.sqlite.dataservices.databaseconnectionmanagementservice.databaseconnectionmanagementservice(v=AX.60)
+ms:contentKeyID: 65318879
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.DataServices.DatabaseConnectionManagementService.#ctor
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# DatabaseConnectionManagementService Constructor
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.DataServices](microsoft-dynamics-commerce-runtime-dataservices-sqlite-dataservices-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite (in Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Sub New
+'Usage
+
+Dim instance As New DatabaseConnectionManagementService()
+```
+
+``` csharp
+public DatabaseConnectionManagementService()
+```
+
+``` c++
+public:
+DatabaseConnectionManagementService()
+```
+
+## See Also
+
+#### Reference
+
+[DatabaseConnectionManagementService Class](databaseconnectionmanagementservice-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite-dataservices.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.DataServices Namespace](microsoft-dynamics-commerce-runtime-dataservices-sqlite-dataservices-namespace.md)
+

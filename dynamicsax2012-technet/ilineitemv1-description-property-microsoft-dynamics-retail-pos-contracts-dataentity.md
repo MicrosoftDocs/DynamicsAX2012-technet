@@ -1,0 +1,63 @@
+﻿---
+title: ILineItemV1.Description Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
+TOCTitle: Description Property
+ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ILineItemV1.Description
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.ilineitemv1.description(v=AX.60)
+ms:contentKeyID: 49855606
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ILineItemV1.Description
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# Description Property
+
+A description of the line item
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Pos.Contracts (in Microsoft.Dynamics.Retail.Pos.Contracts.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Property Description As String
+    Get
+    Set
+'Usage
+Dim instance As ILineItemV1
+Dim value As String
+
+value = instance.Description
+
+instance.Description = value
+```
+
+``` csharp
+string Description { get; set; }
+```
+
+``` c++
+property String^ Description {
+    String^ get ();
+    void set (String^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[ILineItemV1 Interface](ilineitemv1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)
+
+[Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity Namespace](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)
+

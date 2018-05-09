@@ -1,0 +1,60 @@
+﻿---
+title: DataStorePolicy.AllowsNamedStores Property  (Microsoft.Dynamics.Commerce.Runtime.Data)
+TOCTitle: AllowsNamedStores Property
+ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.DataStorePolicy.AllowsNamedStores
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.datastorepolicy.allowsnamedstores(v=AX.60)
+ms:contentKeyID: 62209756
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Data.DataStorePolicy.AllowsNamedStores
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# AllowsNamedStores Property
+
+Gets a value indicating whether the data store supports named areas.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public ReadOnly Property AllowsNamedStores As Boolean
+    Get
+'Usage
+Dim instance As DataStorePolicy
+Dim value As Boolean
+
+value = instance.AllowsNamedStores
+```
+
+``` csharp
+public bool AllowsNamedStores { get; }
+```
+
+``` c++
+public:
+property bool AllowsNamedStores {
+    bool get ();
+}
+```
+
+#### Property Value
+
+Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Returns [Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[DataStorePolicy Class](datastorepolicy-class-microsoft-dynamics-commerce-runtime-data.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.Data Namespace](microsoft-dynamics-commerce-runtime-data-namespace.md)
+

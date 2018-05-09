@@ -1,0 +1,70 @@
+﻿---
+title: ProductVariant.Configuration Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: Configuration Property
+ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductVariant.Configuration
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productvariant.configuration(v=AX.60)
+ms:contentKeyID: 62204337
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductVariant.Configuration
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# Configuration Property
+
+Gets or sets the value for the configuration dimension.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<ColumnAttribute("CONFIG")> _
+<DataMemberAttribute> _
+Public Property Configuration As String
+    Get
+    Set
+'Usage
+Dim instance As ProductVariant
+Dim value As String
+
+value = instance.Configuration
+
+instance.Configuration = value
+```
+
+``` csharp
+[ColumnAttribute("CONFIG")]
+[DataMemberAttribute]
+public string Configuration { get; set; }
+```
+
+``` c++
+[ColumnAttribute(L"CONFIG")]
+[DataMemberAttribute]
+public:
+property String^ Configuration {
+    String^ get ();
+    void set (String^ value);
+}
+```
+
+#### Property Value
+
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[ProductVariant Class](productvariant-class-microsoft-dynamics-commerce-runtime-datamodel.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)
+

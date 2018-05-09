@@ -1,0 +1,239 @@
+﻿---
+title: ICardInfo Properties (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
+TOCTitle: ICardInfo Properties
+ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICardInfo
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.icardinfo_properties(v=AX.60)
+ms:contentKeyID: 47128857
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+---
+
+# ICardInfo Properties
+
+The [ICardInfo](icardinfo-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
+
+## Properties
+
+<table>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-additionalsecurityinformation-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">AdditionalSecurityInformation</a></td>
+<td>Additional card security information collected from a hardware device. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-address-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">Address</a></td>
+<td>The street address associated with the card. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-allowmanualinput-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">AllowManualInput</a></td>
+<td>Gets or sets whether manual input is allowed. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-amount-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">Amount</a></td>
+<td>The amount associated with the card authorization. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-authcode-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">AuthCode</a></td>
+<td>The manual authorization code associated with the card authorization. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-binfrom-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">BinFrom</a></td>
+<td>Gets or sets the bin series start value. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-binlength-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">BinLength</a></td>
+<td>Gets or sets the bin series length. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-binto-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">BinTo</a></td>
+<td>Gets or sets the bin series end value. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-cardentrytype-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">CardEntryType</a></td>
+<td>An enumerated constant that indicates the card entry types. How was the card number received: manually or by swiping the card? (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-cardfee-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">CardFee</a></td>
+<td>Gets or sets the card fee. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-cardname-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">CardName</a></td>
+<td>Gets or sets the card name. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-cardnumber-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">CardNumber</a></td>
+<td>The card number if the information was entered manually. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-cardnumberhidden-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">CardNumberHidden</a></td>
+<td>Indicates whether the card number is supposed to be hidden. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-cardready-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">CardReady</a></td>
+<td>All relevant card data that has been provided for the card. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-cardtype-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">CardType</a></td>
+<td>Gets or sets the types of cards that are supported by the system. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-cardtypeid-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">CardTypeId</a></td>
+<td>Gets or sets the card type identifier. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-cashback-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">CashBack</a></td>
+<td>The cash back amount associated with the transaction for a debit card. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-cashbacklimit-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">CashBackLimit</a></td>
+<td>Get or set the cash back limit for a debit card. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-checkdigits-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">CheckDigits</a></td>
+<td>Get or set the check digits. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-currencycode-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">CurrencyCode</a></td>
+<td>The currency code of the amount. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-encryptedpin-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">EncryptedPIN</a></td>
+<td>The encrypted card pin number that is collected from the hardware device. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-enterfleetinfo-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">EnterFleetInfo</a></td>
+<td>Gets or sets “enter fleet” information. Set to true if fleet information must be entered for the card. This should be true only for special fleet cards. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-expdate-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">ExpDate</a></td>
+<td>The expiration date if the information was entered manually. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-expdatecheck-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">ExpDateCheck</a></td>
+<td>Gets or sets the expiration date check value. Set to true if the expiration date for the card should be checked. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-isemv-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">IsEMV</a></td>
+<td>The standard IC card type is EMV (Europay, MasterCard, and Visa). (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-issuer-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">Issuer</a></td>
+<td>Gets or sets the name of the card issuer. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-istestmode-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">IsTestMode</a></td>
+<td>The test mode for card processing. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov2-istokenmode-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">IsTokenMode</a></td>
+<td>Need just credit card information to fetch a token (Inherited from <a href="icardinfov2-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV2</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-moduluscheck-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">ModulusCheck</a></td>
+<td>Gets or sets the modules check. Set to true if the card number should perform a modulus check. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-processlocally-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">ProcessLocally</a></td>
+<td>Gets or sets the authorization process locally. Set to true if the card authorization should be processed locally. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov2-processordata-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">ProcessorData</a></td>
+<td>Gets or sets the processor specific data. (Inherited from <a href="icardinfov2-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV2</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-restrictioncode-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">RestrictionCode</a></td>
+<td>Gets or sets the restriction code. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-securitycode-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">SecurityCode</a></td>
+<td>The security code associated with the card. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-tendertypeid-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">TenderTypeId</a></td>
+<td>Gets or sets the tender type ID. The ID of the tender type that the card is associated with. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-track1-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">Track1</a></td>
+<td>Gets or sets Track1 of the magnetic stripe of the card. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-track2-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">Track2</a></td>
+<td>Gets or sets Track2 of the magnetic stripe of the card. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-track2parts-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">Track2Parts</a></td>
+<td>TrackParts are the two parts of Track2 that are separated by the card separator character. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov2-track3-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">Track3</a></td>
+<td>Track3 of the magnetic stripe of the card - if the card was swept through a card reader. (Inherited from <a href="icardinfov2-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV2</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov2-track4-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">Track4</a></td>
+<td>Track4 of the magnetic stripe of the card - if the card was swept through a card reader. (Inherited from <a href="icardinfov2-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV2</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
+<td><a href="icardinfov1-zipcode-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">ZipCode</a></td>
+<td>The zip code associated with the card. (Inherited from <a href="icardinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ICardInfoV1</a>.)</td>
+</tr>
+</tbody>
+</table>
+
+
+Top
+
+## See Also
+
+#### Reference
+
+[ICardInfo Interface](icardinfo-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)
+
+[Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity Namespace](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)
+

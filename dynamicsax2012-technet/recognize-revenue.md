@@ -1,0 +1,27 @@
+﻿---
+title: Recognize revenue
+TOCTitle: Recognize revenue
+ms:assetid: d61ea347-32fd-4fba-89ff-5a20c64500e8
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500670(v=AX.60)
+ms:contentKeyID: 37822160
+ms.date: 10/06/2014
+mtps_version: v=AX.60
+f1_keywords:
+- recognize revenue
+- revenue recognition
+---
+
+# Recognize revenue 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
+
+The following topics provide information about recognizing revenue.
+
+[About methods for calculating the cost to complete a project](about-methods-for-calculating-the-cost-to-complete-a-project.md)
+
+[Examples: Cost to complete methods](examples-cost-to-complete-methods.md)
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

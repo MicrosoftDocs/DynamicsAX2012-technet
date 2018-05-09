@@ -1,0 +1,55 @@
+﻿---
+title: QueryStringNames Class (Microsoft.Dynamics.Retail.SharePoint.Web.Common)
+TOCTitle: QueryStringNames Class
+ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Common.QueryStringNames
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.common.querystringnames(v=AX.60)
+ms:contentKeyID: 62205437
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.SharePoint.Web.Common.QueryStringNames
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# QueryStringNames Class
+
+Class to represent names of query strings.
+
+**Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.SP.Web.Common (in Microsoft.Dynamics.Retail.SP.Web.Common.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public NotInheritable Class QueryStringNames
+'Usage
+You do not need to declare an instance of a static class in order to access its members.
+```
+
+``` csharp
+public static class QueryStringNames
+```
+
+``` c++
+public ref class QueryStringNames abstract sealed
+```
+
+## Inheritance Hierarchy
+
+[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+  Microsoft.Dynamics.Retail.SharePoint.Web.Common.QueryStringNames  
+
+## Thread Safety
+
+Any public static (Shared in Visual Basic) members of this type are thread safe. Any instance members are not guaranteed to be thread safe.
+
+## See Also
+
+#### Reference
+
+[Microsoft.Dynamics.Retail.SharePoint.Web.Common Namespace](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)
+

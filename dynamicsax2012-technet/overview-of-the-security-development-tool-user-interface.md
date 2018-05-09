@@ -1,0 +1,20 @@
+﻿---
+title: Overview of the Security Development Tool user interface
+TOCTitle: Overview of the Security Development Tool user interface
+ms:assetid: 3c56a532-347b-4d29-856f-f918f096144e
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh859728(v=AX.60)
+ms:contentKeyID: 45692867
+ms.date: 01/20/2016
+mtps_version: v=AX.60
+---
+
+# Overview of the Security Development Tool user interface 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
+
+This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/overview-of-the-security-development-tool-user-interface/) in the Dynamics AX Help wiki.
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

@@ -1,0 +1,48 @@
+﻿---
+title: KitConfigurationInformation Constructor  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models)
+TOCTitle: KitConfigurationInformation Constructor
+ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.KitConfigurationInformation.#ctor
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.kitconfigurationinformation.kitconfigurationinformation(v=AX.60)
+ms:contentKeyID: 65316524
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.KitConfigurationInformation.#ctor
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# KitConfigurationInformation Constructor
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core (in Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Sub New
+'Usage
+
+Dim instance As New KitConfigurationInformation()
+```
+
+``` csharp
+public KitConfigurationInformation()
+```
+
+``` c++
+public:
+KitConfigurationInformation()
+```
+
+## See Also
+
+#### Reference
+
+[KitConfigurationInformation Class](kitconfigurationinformation-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)
+
+[Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models Namespace](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)
+

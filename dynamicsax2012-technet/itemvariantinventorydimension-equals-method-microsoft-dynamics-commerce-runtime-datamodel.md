@@ -1,0 +1,53 @@
+﻿---
+title: ItemVariantInventoryDimension.Equals Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: Equals Method
+ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemVariantInventoryDimension.Equals
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.itemvariantinventorydimension.equals(v=AX.60)
+ms:contentKeyID: 49844895
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemVariantInventoryDimension.Equals
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# Equals Method
+
+## Overload List
+
+<table>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
+<td><a href="itemvariantinventorydimension-equals-method-object-microsoft-dynamics-commerce-runtime-datamodel.md">Equals(Object)</a></td>
+<td>Determines whether the specified <a href="https://technet.microsoft.com/en-us/library/e5kfa45b(v=ax.60)">Object</a> is equal to this instance. (Overrides <a href="https://technet.microsoft.com/en-us/library/bsc2ak47(v=ax.60)">Object.Equals(Object)</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
+<td><a href="itemvariantinventorydimension-equals-method-itemvariantinventorydimension-microsoft-dynamics-commerce-runtime-datamodel.md">Equals(ItemVariantInventoryDimension)</a></td>
+<td>Indicates whether the current object is equal to another object of the same type.</td>
+</tr>
+</tbody>
+</table>
+
+
+Top
+
+## See Also
+
+#### Reference
+
+[ItemVariantInventoryDimension Class](itemvariantinventorydimension-class-microsoft-dynamics-commerce-runtime-datamodel.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)
+

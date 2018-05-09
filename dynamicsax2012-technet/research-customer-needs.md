@@ -1,0 +1,20 @@
+﻿---
+title: Research customer needs
+TOCTitle: Research customer needs
+ms:assetid: c07108bd-9119-405a-8986-5a10fc918b45
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213629(v=AX.60)
+ms:contentKeyID: 36059264
+ms.date: 04/18/2014
+mtps_version: v=AX.60
+---
+
+# Research customer needs 
+
+
+_**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
+
+By researching the needs of your customers, you can help your organization create campaigns and sales processes that better serve your current and future customers.
+
+  
+**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+

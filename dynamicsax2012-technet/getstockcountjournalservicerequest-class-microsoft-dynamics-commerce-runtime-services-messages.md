@@ -1,0 +1,61 @@
+﻿---
+title: GetStockCountJournalServiceRequest Class (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
+TOCTitle: GetStockCountJournalServiceRequest Class
+ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetStockCountJournalServiceRequest
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getstockcountjournalservicerequest(v=AX.60)
+ms:contentKeyID: 62204160
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetStockCountJournalServiceRequest
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# GetStockCountJournalServiceRequest Class
+
+GetStockCountJournalRequest is the request class to GetStockcount journals.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Services.Messages (in Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataContractAttribute> _
+Public Class GetStockCountJournalServiceRequest _
+    Inherits ServiceRequest
+'Usage
+Dim instance As GetStockCountJournalServiceRequest
+```
+
+``` csharp
+[DataContractAttribute]
+public class GetStockCountJournalServiceRequest : ServiceRequest
+```
+
+``` c++
+[DataContractAttribute]
+public ref class GetStockCountJournalServiceRequest : public ServiceRequest
+```
+
+## Inheritance Hierarchy
+
+[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+  [Microsoft.Dynamics.Commerce.Runtime.Messages.Request](request-class-microsoft-dynamics-commerce-runtime-messages.md)  
+    [Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ServiceRequest](servicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md)  
+      Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetStockCountJournalServiceRequest  
+
+## Thread Safety
+
+Any public static (Shared in Visual Basic) members of this type are thread safe. Any instance members are not guaranteed to be thread safe.
+
+## See Also
+
+#### Reference
+
+[Microsoft.Dynamics.Commerce.Runtime.Services.Messages Namespace](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)
+

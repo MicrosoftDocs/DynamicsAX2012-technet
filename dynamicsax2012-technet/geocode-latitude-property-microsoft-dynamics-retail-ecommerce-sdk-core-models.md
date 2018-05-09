@@ -1,0 +1,61 @@
+﻿---
+title: GeoCode.Latitude Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models)
+TOCTitle: Latitude Property
+ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.GeoCode.Latitude
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.geocode.latitude(v=AX.60)
+ms:contentKeyID: 65316971
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.GeoCode.Latitude
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# Latitude Property
+
+**Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core (in Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+Public Property Latitude As Decimal
+    Get
+    Set
+'Usage
+Dim instance As GeoCode
+Dim value As Decimal
+
+value = instance.Latitude
+
+instance.Latitude = value
+```
+
+``` csharp
+public decimal Latitude { get; set; }
+```
+
+``` c++
+public:
+property Decimal Latitude {
+    Decimal get ();
+    void set (Decimal value);
+}
+```
+
+#### Property Value
+
+Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+
+## See Also
+
+#### Reference
+
+[GeoCode Class](geocode-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)
+
+[Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models Namespace](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)
+

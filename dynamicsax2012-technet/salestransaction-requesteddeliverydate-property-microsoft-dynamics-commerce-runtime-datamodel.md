@@ -1,0 +1,70 @@
+﻿---
+title: SalesTransaction.RequestedDeliveryDate Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: RequestedDeliveryDate Property
+ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction.RequestedDeliveryDate
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.salestransaction.requesteddeliverydate(v=AX.60)
+ms:contentKeyID: 49840419
+ms.date: 05/18/2015
+mtps_version: v=AX.60
+f1_keywords:
+- Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction.RequestedDeliveryDate
+dev_langs:
+- CSharp
+- C++
+- VB
+---
+
+# RequestedDeliveryDate Property
+
+Gets or sets the requested delivery date.
+
+**Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
+**Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
+
+## Syntax
+
+``` vb
+'Declaration
+<DataMemberAttribute> _
+<ColumnAttribute("REQUESTEDDELIVERYDATE")> _
+Public Property RequestedDeliveryDate As Nullable(Of DateTimeOffset)
+    Get
+    Set
+'Usage
+Dim instance As SalesTransaction
+Dim value As Nullable(Of DateTimeOffset)
+
+value = instance.RequestedDeliveryDate
+
+instance.RequestedDeliveryDate = value
+```
+
+``` csharp
+[DataMemberAttribute]
+[ColumnAttribute("REQUESTEDDELIVERYDATE")]
+public Nullable<DateTimeOffset> RequestedDeliveryDate { get; set; }
+```
+
+``` c++
+[DataMemberAttribute]
+[ColumnAttribute(L"REQUESTEDDELIVERYDATE")]
+public:
+property Nullable<DateTimeOffset> RequestedDeliveryDate {
+    Nullable<DateTimeOffset> get ();
+    void set (Nullable<DateTimeOffset> value);
+}
+```
+
+#### Property Value
+
+Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))\>  
+Returns [DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\)).  
+
+## See Also
+
+#### Reference
+
+[SalesTransaction Class](salestransaction-class-microsoft-dynamics-commerce-runtime-datamodel.md)
+
+[Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)
+
