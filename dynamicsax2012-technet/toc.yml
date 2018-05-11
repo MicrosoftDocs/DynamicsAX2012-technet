@@ -5176,7 +5176,7 @@
           href: extend-the-metadata.md
         - name: Use Web API and OData controllers together
           href: use-web-api-and-odata-controllers-together.md
-       - name: Retail Server reference
+        - name: Retail Server reference
           href: net-framework-classes-for-microsoft-dynamics-ax-retail-server.md
       - name: Retail Salt Utility
         href: retail-salt-utility.md
