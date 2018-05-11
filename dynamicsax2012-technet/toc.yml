@@ -4907,7 +4907,7 @@
         - name: Troubleshoot installation issues for a Retail online store
           href: troubleshoot-installation-issues-for-a-retail-online-store.md
         - name: Retail online sample store reference
-          href: net-framework-classes-for-microsoft-dynamics-ax-retail-online-sample-store.md          
+          href: retail-store-ref/-retail-online-sample-store.md          
       - name: Point of Sale
         href: point-of-sale.md
         items:
@@ -4980,7 +4980,7 @@
           - name: 'Walkthrough: Adding an Image to Product Search Results'
             href: walkthrough-adding-an-image-to-product-search-results.md
         - name: Point of Sale Reference
-          href: net-framework-classes-for-microsoft-dynamics-ax-point-of-sale.md
+          href: retail-pos-ref/net-framework-classes-for-microsoft-dynamics-ax-point-of-sale.md
       - name: Retail Modern Point of Sale
         href: retail-modern-point-of-sale.md
         items:
@@ -5153,7 +5153,7 @@
         - name: 'Walkthrough: Extending the CRT'
           href: walkthrough-extending-the-crt-to-add-customer-preference-data-for-retail-clients.md
         - name: Commerce Runtime Reference
-          href: net-framework-classes-for-microsoft-dynamics-ax-commerce-runtime.md
+          href: crt-ref/net-framework-classes-for-microsoft-dynamics-ax-commerce-runtime.md
       - name: Retail Hardware Station
         href: microsoft-dynamics-ax-retail-hardware-station.md
         items:
@@ -5177,7 +5177,7 @@
         - name: Use Web API and OData controllers together
           href: use-web-api-and-odata-controllers-together.md
         - name: Retail Server reference
-          href: net-framework-classes-for-microsoft-dynamics-ax-retail-server.md
+          href: retail-server-ref/net-framework-classes-for-microsoft-dynamics-ax-retail-server.md
       - name: Retail Salt Utility
         href: retail-salt-utility.md
       - name: Retail SDK
