@@ -1,0 +1,1482 @@
+        - name: Retail Server reference
+          href: net-framework-classes-for-microsoft-dynamics-ax-retail-server.md
+          items:
+          - name: Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace
+            href: microsoft-dynamics-commerce-runtime-datamodel-namespace.md
+            items:
+            - name: ReportDataSet Class
+              href: reportdataset-class-microsoft-dynamics-commerce-runtime-datamodel.md
+              items:
+              - name: 'ReportDataSet Constructor '
+                href: reportdataset-constructor-microsoft-dynamics-commerce-runtime-datamodel.md
+              - name: ReportDataSet Methods
+                href: reportdataset-methods-microsoft-dynamics-commerce-runtime-datamodel.md
+              - name: ReportDataSet Properties
+                href: reportdataset-properties-microsoft-dynamics-commerce-runtime-datamodel.md
+                items:
+                - name: 'Locale Property '
+                  href: reportdataset-locale-property-microsoft-dynamics-commerce-runtime-datamodel.md
+                - name: 'Output Property '
+                  href: reportdataset-output-property-microsoft-dynamics-commerce-runtime-datamodel.md
+                - name: 'Parameters Property '
+                  href: reportdataset-parameters-property-microsoft-dynamics-commerce-runtime-datamodel.md
+                - name: 'ReportId Property '
+                  href: reportdataset-reportid-property-microsoft-dynamics-commerce-runtime-datamodel.md
+            - name: ReportRow Class
+              href: reportrow-class-microsoft-dynamics-commerce-runtime-datamodel.md
+              items:
+              - name: 'ReportRow Constructor '
+                href: reportrow-constructor-microsoft-dynamics-commerce-runtime-datamodel.md
+              - name: ReportRow Methods
+                href: reportrow-methods-microsoft-dynamics-commerce-runtime-datamodel.md
+                items:
+                - name: 'SetRowData Method '
+                  href: reportrow-setrowdata-method-microsoft-dynamics-commerce-runtime-datamodel.md
+              - name: ReportRow Properties
+                href: reportrow-properties-microsoft-dynamics-commerce-runtime-datamodel.md
+                items:
+                - name: 'RowData Property '
+                  href: reportrow-rowdata-property-microsoft-dynamics-commerce-runtime-datamodel.md
+          - name: Microsoft.Dynamics.Retail.RetailServerLibrary Namespace
+            href: microsoft-dynamics-retail-retailserverlibrary-namespace.md
+            items:
+            - name: AuthenticationModule Class
+              href: authenticationmodule-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: 'AuthenticationModule Constructor '
+                href: authenticationmodule-constructor-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: AuthenticationModule Methods
+                href: authenticationmodule-methods-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'ApplicationPostAuthenticateRequest Method '
+                  href: authenticationmodule-applicationpostauthenticaterequest-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'Dispose Method '
+                  href: authenticationmodule-dispose-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'Init Method '
+                  href: authenticationmodule-init-method-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: BufferResponseContentAttribute Class
+              href: bufferresponsecontentattribute-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: 'BufferResponseContentAttribute Constructor '
+                href: bufferresponsecontentattribute-constructor-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: BufferResponseContentAttribute Methods
+                href: bufferresponsecontentattribute-methods-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'ExecuteActionFilterAsync Method '
+                  href: bufferresponsecontentattribute-executeactionfilterasync-method-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: BufferResponseContentAttribute Properties
+                href: bufferresponsecontentattribute-properties-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'AllowMultiple Property '
+                  href: bufferresponsecontentattribute-allowmultiple-property-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: CommerceActionParameterNames Class
+              href: commerceactionparameternames-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: CommerceActionParameterNames Fields
+                href: commerceactionparameternames-fields-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: AccountNumber Field
+                  href: commerceactionparameternames-accountnumber-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: Amount Field
+                  href: commerceactionparameternames-amount-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: AuthenticationProvider Field
+                  href: commerceactionparameternames-authenticationprovider-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: Barcode Field
+                  href: commerceactionparameternames-barcode-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: BarcodeId Field
+                  href: commerceactionparameternames-barcodeid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ButtonGridId Field
+                  href: commerceactionparameternames-buttongridid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: CardNumber Field
+                  href: commerceactionparameternames-cardnumber-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: CartLineId Field
+                  href: commerceactionparameternames-cartlineid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: CartLines Field
+                  href: commerceactionparameternames-cartlines-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: CartTenderLine Field
+                  href: commerceactionparameternames-carttenderline-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: CashDrawer Field
+                  href: commerceactionparameternames-cashdrawer-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: CategoryId Field
+                  href: commerceactionparameternames-categoryid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ChangePassword Field
+                  href: commerceactionparameternames-changepassword-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ChannelId Field
+                  href: commerceactionparameternames-channelid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ConfigId Field
+                  href: commerceactionparameternames-configid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ConnectionRequest Field
+                  href: commerceactionparameternames-connectionrequest-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: CreditMemoId Field
+                  href: commerceactionparameternames-creditmemoid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: CurrenciesAmount Field
+                  href: commerceactionparameternames-currenciesamount-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: CurrencyCode Field
+                  href: commerceactionparameternames-currencycode-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: CustomerId Field
+                  href: commerceactionparameternames-customerid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: DeviceNumber Field
+                  href: commerceactionparameternames-devicenumber-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: DeviceToken Field
+                  href: commerceactionparameternames-devicetoken-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: EmployeeActivitySearchCriteria Field
+                  href: commerceactionparameternames-employeeactivitysearchcriteria-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: EmployeeActivityType Field
+                  href: commerceactionparameternames-employeeactivitytype-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ForceClose Field
+                  href: commerceactionparameternames-forceclose-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: GetButtonGridsByIdsCriteria Field
+                  href: commerceactionparameternames-getbuttongridsbyidscriteria-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: GiftCardId Field
+                  href: commerceactionparameternames-giftcardid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: HardwareProfileId Field
+                  href: commerceactionparameternames-hardwareprofileid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: HardwareStationToken Field
+                  href: commerceactionparameternames-hardwarestationtoken-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: InventColorId Field
+                  href: commerceactionparameternames-inventcolorid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: InventSizeId Field
+                  href: commerceactionparameternames-inventsizeid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: InventStyleId Field
+                  href: commerceactionparameternames-inventstyleid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: InvoiceAccountNumber Field
+                  href: commerceactionparameternames-invoiceaccountnumber-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: InvoiceId Field
+                  href: commerceactionparameternames-invoiceid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ItemId Field
+                  href: commerceactionparameternames-itemid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: Keyword Field
+                  href: commerceactionparameternames-keyword-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: LanguageId Field
+                  href: commerceactionparameternames-languageid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: NewPassword Field
+                  href: commerceactionparameternames-newpassword-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: OldPassword Field
+                  href: commerceactionparameternames-oldpassword-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: OperationId Field
+                  href: commerceactionparameternames-operationid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: OrgUnitNumber Field
+                  href: commerceactionparameternames-orgunitnumber-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: Price Field
+                  href: commerceactionparameternames-price-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ReasonCodeGroupId Field
+                  href: commerceactionparameternames-reasoncodegroupid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ReasonCodeId Field
+                  href: commerceactionparameternames-reasoncodeid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ReasonCodeLines Field
+                  href: commerceactionparameternames-reasoncodelines-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ReceiptType Field
+                  href: commerceactionparameternames-receipttype-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ReportId Field
+                  href: commerceactionparameternames-reportid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: SalesId Field
+                  href: commerceactionparameternames-salesid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: ShiftId Field
+                  href: commerceactionparameternames-shiftid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: SignatureData Field
+                  href: commerceactionparameternames-signaturedata-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: StaffId Field
+                  href: commerceactionparameternames-staffid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: TargetUserId Field
+                  href: commerceactionparameternames-targetuserid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: TenderLineId Field
+                  href: commerceactionparameternames-tenderlineid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: TerminalId Field
+                  href: commerceactionparameternames-terminalid-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: UserToken Field
+                  href: commerceactionparameternames-usertoken-field-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: VariantId Field
+                  href: commerceactionparameternames-variantid-field-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: CommerceAuthorizationAttribute Class
+              href: commerceauthorizationattribute-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: 'CommerceAuthorizationAttribute Constructor '
+                href: commerceauthorizationattribute-constructor-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: CommerceAuthorizationAttribute Methods
+                href: commerceauthorizationattribute-methods-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'HandleUnauthorizedRequest Method '
+                  href: commerceauthorizationattribute-handleunauthorizedrequest-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'IsAuthorized Method '
+                  href: commerceauthorizationattribute-isauthorized-method-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: CommerceAuthorizationAttribute Properties
+                href: commerceauthorizationattribute-properties-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'AllowedRetailRoles Property '
+                  href: commerceauthorizationattribute-allowedretailroles-property-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'CheckRetailOperation Property '
+                  href: commerceauthorizationattribute-checkretailoperation-property-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'DeviceTokenRequired Property '
+                  href: commerceauthorizationattribute-devicetokenrequired-property-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'RetailOperationId Property '
+                  href: commerceauthorizationattribute-retailoperationid-property-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: CommerceModelFactory Class
+              href: commercemodelfactory-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: 'CommerceModelFactory Constructor '
+                href: commercemodelfactory-constructor-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: CommerceModelFactory Methods
+                href: commercemodelfactory-methods-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'BindAction Method '
+                  href: commercemodelfactory-bindaction-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'BindEntityAction(TEntity) Method '
+                  href: commercemodelfactory-bindentityaction-tentity-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'BindEntitySetAction(TEntity) Method '
+                  href: commercemodelfactory-bindentitysetaction-tentity-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'BuildActions Method '
+                  href: commercemodelfactory-buildactions-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'BuildComplexType(TComplexType) Method '
+                  href: commercemodelfactory-buildcomplextype-tcomplextype-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'BuildComplexTypes Method '
+                  href: commercemodelfactory-buildcomplextypes-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'BuildEntities Method '
+                  href: commercemodelfactory-buildentities-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'BuildEntity(TEntity) Method '
+                  href: commercemodelfactory-buildentity-tentity-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'BuildEntitySet(TEntity) Method '
+                  href: commercemodelfactory-buildentityset-tentity-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'BuildEntitySets Method '
+                  href: commercemodelfactory-buildentitysets-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'BuildException(TComplexType) Method '
+                  href: commercemodelfactory-buildexception-tcomplextype-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'BuildExceptionTypes Method '
+                  href: commercemodelfactory-buildexceptiontypes-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'BuildNonBindableActions Method '
+                  href: commercemodelfactory-buildnonbindableactions-method-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'CreateModel Method '
+                  href: commercemodelfactory-createmodel-method-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: CommerceRuntimeManager Class
+              href: commerceruntimemanager-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: CommerceRuntimeManager Methods
+                href: commerceruntimemanager-methods-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: CommerceRuntimeManager Properties
+                href: commerceruntimemanager-properties-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'Runtime Property '
+                  href: commerceruntimemanager-runtime-property-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: CorsSupport Class
+              href: corssupport-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: CorsSupport Methods
+                href: corssupport-methods-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'HandlePreflightRequest Method '
+                  href: corssupport-handlepreflightrequest-method-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: DefaultWebApiConfig Class
+              href: defaultwebapiconfig-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: 'DefaultWebApiConfig Constructor '
+                href: defaultwebapiconfig-constructor-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: DefaultWebApiConfig Methods
+                href: defaultwebapiconfig-methods-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'Register Method '
+                  href: defaultwebapiconfig-register-method-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: ExtendedControllerAttribute Class
+              href: extendedcontrollerattribute-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: 'ExtendedControllerAttribute Constructor '
+                href: extendedcontrollerattribute-constructor-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: ExtendedControllerAttribute Methods
+                href: extendedcontrollerattribute-methods-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: ExtendedControllerAttribute Properties
+                href: extendedcontrollerattribute-properties-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'ControllerName Property '
+                  href: extendedcontrollerattribute-controllername-property-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: ExtendedControllerSelector Class
+              href: extendedcontrollerselector-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: 'ExtendedControllerSelector Constructor '
+                href: extendedcontrollerselector-constructor-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: ExtendedControllerSelector Methods
+                href: extendedcontrollerselector-methods-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'SelectController Method '
+                  href: extendedcontrollerselector-selectcontroller-method-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: IEdmModelFactory Interface
+              href: iedmmodelfactory-interface-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: IEdmModelFactory Methods
+                href: iedmmodelfactory-methods-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'CreateModel Method '
+                  href: iedmmodelfactory-createmodel-method-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: IExtendedControllerMetadata Interface
+              href: iextendedcontrollermetadata-interface-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: IExtendedControllerMetadata Properties
+                href: iextendedcontrollermetadata-properties-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'ControllerName Property '
+                  href: iextendedcontrollermetadata-controllername-property-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: IWebApiConfig Interface
+              href: iwebapiconfig-interface-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: IWebApiConfig Methods
+                href: iwebapiconfig-methods-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'Register Method '
+                  href: iwebapiconfig-register-method-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: OutputCacheAttribute Class
+              href: outputcacheattribute-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: 'OutputCacheAttribute Constructor '
+                href: outputcacheattribute-constructor-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: OutputCacheAttribute Methods
+                href: outputcacheattribute-methods-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'OnActionExecuted Method '
+                  href: outputcacheattribute-onactionexecuted-method-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: OutputCacheAttribute Properties
+                href: outputcacheattribute-properties-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: RetailServerQueryableAttribute Class
+              href: retailserverqueryableattribute-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: 'RetailServerQueryableAttribute Constructor '
+                href: retailserverqueryableattribute-constructor-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: RetailServerQueryableAttribute Methods
+                href: retailserverqueryableattribute-methods-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'ApplyQuery Method '
+                  href: retailserverqueryableattribute-applyquery-method-microsoft-dynamics-retail-retailserverlibrary.md
+                  items:
+                  - name: ApplyQuery Method (IQueryable, )
+                    href: retailserverqueryableattribute-applyquery-method-iqueryable-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: RetailServerQueryableAttribute Properties
+                href: retailserverqueryableattribute-properties-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: Tracer Class
+              href: tracer-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: 'Tracer Constructor '
+                href: tracer-constructor-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: Tracer Methods
+                href: tracer-methods-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'Trace Method '
+                  href: tracer-trace-method-microsoft-dynamics-retail-retailserverlibrary.md
+            - name: WrongEndpointException Class
+              href: wrongendpointexception-class-microsoft-dynamics-retail-retailserverlibrary.md
+              items:
+              - name: 'WrongEndpointException Constructor '
+                href: wrongendpointexception-constructor-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'WrongEndpointException Constructor '
+                  href: wrongendpointexception-constructor-microsoft-dynamics-retail-retailserverlibrary_1.md
+                - name: WrongEndpointException Constructor (Uri)
+                  href: wrongendpointexception-constructor-uri-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: WrongEndpointException Methods
+                href: wrongendpointexception-methods-microsoft-dynamics-retail-retailserverlibrary.md
+              - name: WrongEndpointException Properties
+                href: wrongendpointexception-properties-microsoft-dynamics-retail-retailserverlibrary.md
+                items:
+                - name: 'Message Property '
+                  href: wrongendpointexception-message-property-microsoft-dynamics-retail-retailserverlibrary.md
+                - name: 'RedirectUri Property '
+                  href: wrongendpointexception-redirecturi-property-microsoft-dynamics-retail-retailserverlibrary.md
+          - name: Microsoft.Dynamics.Retail.RetailServerLibrary.Configuration Namespace
+            href: microsoft-dynamics-retail-retailserverlibrary-configuration-namespace.md
+            items:
+            - name: RetailServerConfiguration Class
+              href: retailserverconfiguration-class-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+              items:
+              - name: RetailServerConfiguration Methods
+                href: retailserverconfiguration-methods-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+                items:
+                - name: 'GetExtendedController Method '
+                  href: retailserverconfiguration-getextendedcontroller-method-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+              - name: RetailServerConfiguration Properties
+                href: retailserverconfiguration-properties-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+                items:
+                - name: 'EdmModelFactory Property '
+                  href: retailserverconfiguration-edmmodelfactory-property-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+                - name: 'Version Property '
+                  href: retailserverconfiguration-version-property-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+                - name: 'WebApiConfig Property '
+                  href: retailserverconfiguration-webapiconfig-property-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+            - name: VersionElement Class
+              href: versionelement-class-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+              items:
+              - name: 'VersionElement Constructor '
+                href: versionelement-constructor-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+              - name: VersionElement Methods
+                href: versionelement-methods-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+              - name: VersionElement Properties
+                href: versionelement-properties-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+                items:
+                - name: 'Item Property '
+                  href: versionelement-item-property-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+                - name: 'Value Property '
+                  href: versionelement-value-property-microsoft-dynamics-retail-retailserverlibrary-configuration.md
+          - name: Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers Namespace
+            href: microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md
+            items:
+            - name: CartsController Class
+              href: cartscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'CartsController Constructor '
+                href: cartscontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CartsController Methods
+                href: cartscontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'AddCartLines Method '
+                  href: cartscontroller-addcartlines-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'AddTenderLine Method '
+                  href: cartscontroller-addtenderline-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'BadRequest Method '
+                  href: cartscontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Checkout Method '
+                  href: cartscontroller-checkout-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: cartscontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: cartscontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: cartscontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreateEntity Method '
+                  href: cartscontroller-createentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: cartscontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: cartscontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: cartscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetEntityByKey Method '
+                  href: cartscontroller-getentitybykey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetKey Method '
+                  href: cartscontroller-getkey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetLineDeliveryOptions Method '
+                  href: cartscontroller-getlinedeliveryoptions-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetProductsInCart Method '
+                  href: cartscontroller-getproductsincart-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetSuspended Method '
+                  href: cartscontroller-getsuspended-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: cartscontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'IssueGiftCard Method '
+                  href: cartscontroller-issuegiftcard-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: cartscontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'OverrideCartLinePrice Method '
+                  href: cartscontroller-overridecartlineprice-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'PatchEntity Method '
+                  href: cartscontroller-patchentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RecalculateOrder Method '
+                  href: cartscontroller-recalculateorder-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RecallOrder Method '
+                  href: cartscontroller-recallorder-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RecallQuote Method '
+                  href: cartscontroller-recallquote-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RecallSalesInvoice Method '
+                  href: cartscontroller-recallsalesinvoice-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: cartscontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: cartscontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RefillGiftCard Method '
+                  href: cartscontroller-refillgiftcard-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Resume Method '
+                  href: cartscontroller-resume-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Suspend Method '
+                  href: cartscontroller-suspend-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: cartscontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'UpdateByCode Method '
+                  href: cartscontroller-updatebycode-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'UpdateCartLines Method '
+                  href: cartscontroller-updatecartlines-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'UpdateEntity Method '
+                  href: cartscontroller-updateentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'UpdateTenderLineSignature Method '
+                  href: cartscontroller-updatetenderlinesignature-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Void Method '
+                  href: cartscontroller-void-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'VoidCartLines Method '
+                  href: cartscontroller-voidcartlines-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'VoidTenderLine Method '
+                  href: cartscontroller-voidtenderline-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CartsController Properties
+                href: cartscontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: CatalogsController Class
+              href: catalogscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'CatalogsController Constructor '
+                href: catalogscontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CatalogsController Methods
+                href: catalogscontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: catalogscontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: catalogscontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: catalogscontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: catalogscontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: catalogscontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: catalogscontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: catalogscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                  items:
+                  - name: 'Get Method '
+                    href: catalogscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers_1.md
+                - name: 'GetCatalogs Method '
+                  href: catalogscontroller-getcatalogs-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetKey Method '
+                  href: catalogscontroller-getkey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: catalogscontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: catalogscontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: catalogscontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: catalogscontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: catalogscontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CatalogsController Properties
+                href: catalogscontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: CategoriesController Class
+              href: categoriescontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'CategoriesController Constructor '
+                href: categoriescontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CategoriesController Methods
+                href: categoriescontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: categoriescontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: categoriescontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: categoriescontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: categoriescontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: categoriescontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: categoriescontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: categoriescontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                  items:
+                  - name: 'Get Method '
+                    href: categoriescontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers_1.md
+                - name: 'GetCategories Method '
+                  href: categoriescontroller-getcategories-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetChildren Method '
+                  href: categoriescontroller-getchildren-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetKey Method '
+                  href: categoriescontroller-getkey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: categoriescontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: categoriescontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: categoriescontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: categoriescontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: categoriescontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CategoriesController Properties
+                href: categoriescontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: CommerceController(TEntity, TKey) Class
+              href: commercecontroller-tentity-tkey-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'CommerceController(TEntity, TKey) Constructor '
+                href: commercecontroller-tentity-tkey-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CommerceController(TEntity, TKey) Methods
+                href: commercecontroller-tentity-tkey-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: commercecontroller-tentity-tkey-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: commercecontroller-tentity-tkey-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: commercecontroller-tentity-tkey-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: commercecontroller-tentity-tkey-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: commercecontroller-tentity-tkey-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: commercecontroller-tentity-tkey-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: commercecontroller-tentity-tkey-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetDefaultSortColumns(T) Method '
+                  href: commercecontroller-tentity-tkey-getdefaultsortcolumns-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetQueryResultSettings Method '
+                  href: commercecontroller-tentity-tkey-getqueryresultsettings-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetQueryResultSettings(T) Method '
+                  href: commercecontroller-tentity-tkey-getqueryresultsettings-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: commercecontroller-tentity-tkey-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: commercecontroller-tentity-tkey-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'ProcessPagedResults(T) Method '
+                  href: commercecontroller-tentity-tkey-processpagedresults-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'ProcessPagedResults Method '
+                  href: commercecontroller-tentity-tkey-processpagedresults-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: commercecontroller-tentity-tkey-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: commercecontroller-tentity-tkey-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: commercecontroller-tentity-tkey-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CommerceController(TEntity, TKey) Properties
+                href: commercecontroller-tentity-tkey-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: CommerceEntityControllerHelper(T) Class
+              href: commerceentitycontrollerhelper-t-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: CommerceListsController Class
+              href: commercelistscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'CommerceListsController Constructor '
+                href: commercelistscontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CommerceListsController Methods
+                href: commercelistscontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: commercelistscontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: commercelistscontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: commercelistscontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: commercelistscontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: commercelistscontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: commercelistscontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: commercelistscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetByCustomer Method '
+                  href: commercelistscontroller-getbycustomer-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: commercelistscontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: commercelistscontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: commercelistscontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: commercelistscontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: commercelistscontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CommerceListsController Properties
+                href: commercelistscontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: CompositeKeyEntityController(TEntity) Class
+              href: compositekeyentitycontroller-tentity-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'CompositeKeyEntityController(TEntity) Constructor '
+                href: compositekeyentitycontroller-tentity-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CompositeKeyEntityController(TEntity) Methods
+                href: compositekeyentitycontroller-tentity-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: compositekeyentitycontroller-tentity-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: compositekeyentitycontroller-tentity-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: compositekeyentitycontroller-tentity-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: compositekeyentitycontroller-tentity-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: compositekeyentitycontroller-tentity-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetDefaultSortColumns(T) Method '
+                  href: compositekeyentitycontroller-tentity-getdefaultsortcolumns-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetQueryResultSettings Method '
+                  href: compositekeyentitycontroller-tentity-getqueryresultsettings-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetQueryResultSettings(T) Method '
+                  href: compositekeyentitycontroller-tentity-getqueryresultsettings-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: compositekeyentitycontroller-tentity-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: compositekeyentitycontroller-tentity-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'ProcessPagedResults(T) Method '
+                  href: compositekeyentitycontroller-tentity-processpagedresults-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'ProcessPagedResults Method '
+                  href: compositekeyentitycontroller-tentity-processpagedresults-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: compositekeyentitycontroller-tentity-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: compositekeyentitycontroller-tentity-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: compositekeyentitycontroller-tentity-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CompositeKeyEntityController(TEntity) Properties
+                href: compositekeyentitycontroller-tentity-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: ControllerAssemblyResolver Class
+              href: controllerassemblyresolver-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'ControllerAssemblyResolver Constructor '
+                href: controllerassemblyresolver-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: ControllerAssemblyResolver Methods
+                href: controllerassemblyresolver-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'GetAssemblies Method '
+                  href: controllerassemblyresolver-getassemblies-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: CustomersController Class
+              href: customerscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'CustomersController Constructor '
+                href: customerscontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CustomersController Methods
+                href: customerscontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: customerscontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: customerscontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: customerscontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: customerscontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreateEntity Method '
+                  href: customerscontroller-createentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: customerscontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: customerscontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: customerscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                  items:
+                  - name: 'Get Method '
+                    href: customerscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers_1.md
+                - name: 'GetEntityByKey Method '
+                  href: customerscontroller-getentitybykey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetKey Method '
+                  href: customerscontroller-getkey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: customerscontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: customerscontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'PatchEntity Method '
+                  href: customerscontroller-patchentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: customerscontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: customerscontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Search Method '
+                  href: customerscontroller-search-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: customerscontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'UpdateEntity Method '
+                  href: customerscontroller-updateentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: CustomersController Properties
+                href: customerscontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: EmployeesController Class
+              href: employeescontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'EmployeesController Constructor '
+                href: employeescontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: EmployeesController Methods
+                href: employeescontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: employeescontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: employeescontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: employeescontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: employeescontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: employeescontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: employeescontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: employeescontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                  items:
+                  - name: 'Get Method '
+                    href: employeescontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers_1.md
+                - name: 'GetAccessibleOrgUnits Method '
+                  href: employeescontroller-getaccessibleorgunits-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetActivities Method '
+                  href: employeescontroller-getactivities-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetEntityByKey Method '
+                  href: employeescontroller-getentitybykey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetKey Method '
+                  href: employeescontroller-getkey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetLatestActivity Method '
+                  href: employeescontroller-getlatestactivity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetManagerActivityView Method '
+                  href: employeescontroller-getmanageractivityview-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: employeescontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: employeescontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: employeescontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: employeescontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RegisterActivity Method '
+                  href: employeescontroller-registeractivity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: employeescontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: EmployeesController Properties
+                href: employeescontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: NonBindableActionController Class
+              href: nonbindableactioncontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'NonBindableActionController Constructor '
+                href: nonbindableactioncontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: NonBindableActionController Fields
+                href: nonbindableactioncontroller-fields-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: RetailServerUrlPropertyKey Field
+                  href: nonbindableactioncontroller-retailserverurlpropertykey-field-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: NonBindableActionController Methods
+                href: nonbindableactioncontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'ActivateDevice Method '
+                  href: nonbindableactioncontroller-activatedevice-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'BadRequest Method '
+                  href: nonbindableactioncontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CalculateTotalCurrencyAmount Method '
+                  href: nonbindableactioncontroller-calculatetotalcurrencyamount-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'ChangePassword Method '
+                  href: nonbindableactioncontroller-changepassword-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: nonbindableactioncontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: nonbindableactioncontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: nonbindableactioncontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreateDropAndDeclareTransaction Method '
+                  href: nonbindableactioncontroller-createdropanddeclaretransaction-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreateHardwareStationToken Method '
+                  href: nonbindableactioncontroller-createhardwarestationtoken-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreateNonSalesTransaction Method '
+                  href: nonbindableactioncontroller-createnonsalestransaction-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeactivateDevice Method '
+                  href: nonbindableactioncontroller-deactivatedevice-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DisassembleKitTransactions Method '
+                  href: nonbindableactioncontroller-disassemblekittransactions-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: nonbindableactioncontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'ElevateUser Method '
+                  href: nonbindableactioncontroller-elevateuser-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetAffiliations Method '
+                  href: nonbindableactioncontroller-getaffiliations-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetAllLocalizedStrings Method '
+                  href: nonbindableactioncontroller-getalllocalizedstrings-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetBarcodeById Method '
+                  href: nonbindableactioncontroller-getbarcodebyid-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetButtonGridById Method '
+                  href: nonbindableactioncontroller-getbuttongridbyid-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetButtonGrids Method '
+                  href: nonbindableactioncontroller-getbuttongrids-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetButtonGridsByIds Method '
+                  href: nonbindableactioncontroller-getbuttongridsbyids-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetCardTypes Method '
+                  href: nonbindableactioncontroller-getcardtypes-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetCashDeclarations Method '
+                  href: nonbindableactioncontroller-getcashdeclarations-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetCities Method '
+                  href: nonbindableactioncontroller-getcities-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetCounties Method '
+                  href: nonbindableactioncontroller-getcounties-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetCountryRegions Method '
+                  href: nonbindableactioncontroller-getcountryregions-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetCountryRegionsByLanguageId Method '
+                  href: nonbindableactioncontroller-getcountryregionsbylanguageid-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetCreditMemoById Method '
+                  href: nonbindableactioncontroller-getcreditmemobyid-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetCurrencies Method '
+                  href: nonbindableactioncontroller-getcurrencies-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetCurrenciesAmount Method '
+                  href: nonbindableactioncontroller-getcurrenciesamount-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetCustomerBalance Method '
+                  href: nonbindableactioncontroller-getcustomerbalance-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetCustomerGroups Method '
+                  href: nonbindableactioncontroller-getcustomergroups-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetDefaultSortColumns(T) Method '
+                  href: nonbindableactioncontroller-getdefaultsortcolumns-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetDeliveryOptions Method '
+                  href: nonbindableactioncontroller-getdeliveryoptions-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetDeviceConfiguration Method '
+                  href: nonbindableactioncontroller-getdeviceconfiguration-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetDiscountCode Method '
+                  href: nonbindableactioncontroller-getdiscountcode-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetDiscountCodes Method '
+                  href: nonbindableactioncontroller-getdiscountcodes-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetDiscountCodesByKeyword Method '
+                  href: nonbindableactioncontroller-getdiscountcodesbykeyword-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetDiscountCodesByOfferId Method '
+                  href: nonbindableactioncontroller-getdiscountcodesbyofferid-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetDistricts Method '
+                  href: nonbindableactioncontroller-getdistricts-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetGiftCard Method '
+                  href: nonbindableactioncontroller-getgiftcard-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetHardwareProfileById Method '
+                  href: nonbindableactioncontroller-gethardwareprofilebyid-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetIncomeExpenseAccounts Method '
+                  href: nonbindableactioncontroller-getincomeexpenseaccounts-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetLanguages Method '
+                  href: nonbindableactioncontroller-getlanguages-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetLocalizedStrings Method '
+                  href: nonbindableactioncontroller-getlocalizedstrings-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetLoyaltyCard Method '
+                  href: nonbindableactioncontroller-getloyaltycard-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetNonSalesTransactions Method '
+                  href: nonbindableactioncontroller-getnonsalestransactions-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetOperationPermissionById Method '
+                  href: nonbindableactioncontroller-getoperationpermissionbyid-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetOperationPermissions Method '
+                  href: nonbindableactioncontroller-getoperationpermissions-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetQueryResultSettings(T) Method '
+                  href: nonbindableactioncontroller-getqueryresultsettings-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetReasonCodes Method '
+                  href: nonbindableactioncontroller-getreasoncodes-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetReasonCodesByGroupOrSingleId Method '
+                  href: nonbindableactioncontroller-getreasoncodesbygrouporsingleid-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetReportDataSetById Method '
+                  href: nonbindableactioncontroller-getreportdatasetbyid-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetReturnReasonCodes Method '
+                  href: nonbindableactioncontroller-getreturnreasoncodes-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetSalesTaxGroups Method '
+                  href: nonbindableactioncontroller-getsalestaxgroups-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetStateProvinces Method '
+                  href: nonbindableactioncontroller-getstateprovinces-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetTaxOverrides Method '
+                  href: nonbindableactioncontroller-gettaxoverrides-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetTenderTypes Method '
+                  href: nonbindableactioncontroller-gettendertypes-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetUnitsOfMeasure Method '
+                  href: nonbindableactioncontroller-getunitsofmeasure-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetZipCodes Method '
+                  href: nonbindableactioncontroller-getzipcodes-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: nonbindableactioncontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'IssueLoyaltyCard Method '
+                  href: nonbindableactioncontroller-issueloyaltycard-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: nonbindableactioncontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'LogOff Method '
+                  href: nonbindableactioncontroller-logoff-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'LogOn Method '
+                  href: nonbindableactioncontroller-logon-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'ProcessPagedResults(T) Method '
+                  href: nonbindableactioncontroller-processpagedresults-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: nonbindableactioncontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: nonbindableactioncontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'ResetPassword Method '
+                  href: nonbindableactioncontroller-resetpassword-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RevertToSelf Method '
+                  href: nonbindableactioncontroller-reverttoself-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'SearchReportDataSet Method '
+                  href: nonbindableactioncontroller-searchreportdataset-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: nonbindableactioncontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'ValidateHardwareStationToken Method '
+                  href: nonbindableactioncontroller-validatehardwarestationtoken-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: NonBindableActionController Properties
+                href: nonbindableactioncontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: OrgUnitsController Class
+              href: orgunitscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'OrgUnitsController Constructor '
+                href: orgunitscontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: OrgUnitsController Methods
+                href: orgunitscontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: orgunitscontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: orgunitscontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: orgunitscontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: orgunitscontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: orgunitscontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: orgunitscontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: orgunitscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                  items:
+                  - name: 'Get Method '
+                    href: orgunitscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers_1.md
+                - name: 'GetAvailableInventory Method '
+                  href: orgunitscontroller-getavailableinventory-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetEntityByKey Method '
+                  href: orgunitscontroller-getentitybykey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetKey Method '
+                  href: orgunitscontroller-getkey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetOrgUnitConfiguration Method '
+                  href: orgunitscontroller-getorgunitconfiguration-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetOrgUnitLocations Method '
+                  href: orgunitscontroller-getorgunitlocations-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetOrgUnitLocationsByArea Method '
+                  href: orgunitscontroller-getorgunitlocationsbyarea-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetTillLayout Method '
+                  href: orgunitscontroller-gettilllayout-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: orgunitscontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: orgunitscontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: orgunitscontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: orgunitscontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Search Method '
+                  href: orgunitscontroller-search-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: orgunitscontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: OrgUnitsController Properties
+                href: orgunitscontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: PickingListsController Class
+              href: pickinglistscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'PickingListsController Constructor '
+                href: pickinglistscontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: PickingListsController Methods
+                href: pickinglistscontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: pickinglistscontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Commit Method '
+                  href: pickinglistscontroller-commit-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: pickinglistscontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: pickinglistscontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: pickinglistscontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: pickinglistscontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: pickinglistscontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: pickinglistscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                  items:
+                  - name: 'Get Method '
+                    href: pickinglistscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers_1.md
+                - name: 'GetEntityByKey Method '
+                  href: pickinglistscontroller-getentitybykey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetKey Method '
+                  href: pickinglistscontroller-getkey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: pickinglistscontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: pickinglistscontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'PatchEntity Method '
+                  href: pickinglistscontroller-patchentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: pickinglistscontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: pickinglistscontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: pickinglistscontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: PickingListsController Properties
+                href: pickinglistscontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: ProductsController Class
+              href: productscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'ProductsController Constructor '
+                href: productscontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: ProductsController Methods
+                href: productscontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: productscontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Changes Method '
+                  href: productscontroller-changes-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: productscontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: productscontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: productscontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: productscontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: productscontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: productscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                  items:
+                  - name: 'Get Method '
+                    href: productscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers_1.md
+                - name: 'GetKey Method '
+                  href: productscontroller-getkey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetPrices Method '
+                  href: productscontroller-getprices-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: productscontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: productscontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: productscontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: productscontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Search Method '
+                  href: productscontroller-search-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: productscontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: ProductsController Properties
+                href: productscontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: PurchaseOrdersController Class
+              href: purchaseorderscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'PurchaseOrdersController Constructor '
+                href: purchaseorderscontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: PurchaseOrdersController Methods
+                href: purchaseorderscontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: purchaseorderscontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Commit Method '
+                  href: purchaseorderscontroller-commit-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: purchaseorderscontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: purchaseorderscontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: purchaseorderscontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: purchaseorderscontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: purchaseorderscontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: purchaseorderscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                  items:
+                  - name: 'Get Method '
+                    href: purchaseorderscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers_1.md
+                - name: 'GetEntityByKey Method '
+                  href: purchaseorderscontroller-getentitybykey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetKey Method '
+                  href: purchaseorderscontroller-getkey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: purchaseorderscontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: purchaseorderscontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'PatchEntity Method '
+                  href: purchaseorderscontroller-patchentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: purchaseorderscontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: purchaseorderscontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: purchaseorderscontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: PurchaseOrdersController Properties
+                href: purchaseorderscontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: SalesOrdersController Class
+              href: salesorderscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'SalesOrdersController Constructor '
+                href: salesorderscontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: SalesOrdersController Methods
+                href: salesorderscontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: salesorderscontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: salesorderscontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: salesorderscontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: salesorderscontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreateEntity Method '
+                  href: salesorderscontroller-createentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatePackingSlip Method '
+                  href: salesorderscontroller-createpackingslip-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatePickingList Method '
+                  href: salesorderscontroller-createpickinglist-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: salesorderscontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: salesorderscontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: salesorderscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetByReceiptId Method '
+                  href: salesorderscontroller-getbyreceiptid-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetEntityByKey Method '
+                  href: salesorderscontroller-getentitybykey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetInvoicesBySalesId Method '
+                  href: salesorderscontroller-getinvoicesbysalesid-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetKey Method '
+                  href: salesorderscontroller-getkey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetReceipts Method '
+                  href: salesorderscontroller-getreceipts-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: salesorderscontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: salesorderscontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: salesorderscontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: salesorderscontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Search Method '
+                  href: salesorderscontroller-search-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: salesorderscontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: SalesOrdersController Properties
+                href: salesorderscontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: ShiftsController Class
+              href: shiftscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'ShiftsController Constructor '
+                href: shiftscontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: ShiftsController Methods
+                href: shiftscontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: shiftscontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'BlindClose Method '
+                  href: shiftscontroller-blindclose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Close Method '
+                  href: shiftscontroller-close-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: shiftscontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: shiftscontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: shiftscontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: shiftscontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetByStatus Method '
+                  href: shiftscontroller-getbystatus-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetXReport Method '
+                  href: shiftscontroller-getxreport-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetZReport Method '
+                  href: shiftscontroller-getzreport-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: shiftscontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: shiftscontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Open Method '
+                  href: shiftscontroller-open-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'PostShift Method '
+                  href: shiftscontroller-postshift-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: shiftscontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: shiftscontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Resume Method '
+                  href: shiftscontroller-resume-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Suspend Method '
+                  href: shiftscontroller-suspend-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: shiftscontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Use Method '
+                  href: shiftscontroller-use-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: ShiftsController Properties
+                href: shiftscontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: StockCountJournalsController Class
+              href: stockcountjournalscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'StockCountJournalsController Constructor '
+                href: stockcountjournalscontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: StockCountJournalsController Methods
+                href: stockcountjournalscontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: stockcountjournalscontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Commit Method '
+                  href: stockcountjournalscontroller-commit-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: stockcountjournalscontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: stockcountjournalscontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: stockcountjournalscontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreateEntity Method '
+                  href: stockcountjournalscontroller-createentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: stockcountjournalscontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: stockcountjournalscontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: stockcountjournalscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                  items:
+                  - name: 'Get Method '
+                    href: stockcountjournalscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers_1.md
+                - name: 'GetEntityByKey Method '
+                  href: stockcountjournalscontroller-getentitybykey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetKey Method '
+                  href: stockcountjournalscontroller-getkey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: stockcountjournalscontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: stockcountjournalscontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'PatchEntity Method '
+                  href: stockcountjournalscontroller-patchentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: stockcountjournalscontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: stockcountjournalscontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RemoveJournal Method '
+                  href: stockcountjournalscontroller-removejournal-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RemoveTransaction Method '
+                  href: stockcountjournalscontroller-removetransaction-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Sync Method '
+                  href: stockcountjournalscontroller-sync-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'SyncTransactions Method '
+                  href: stockcountjournalscontroller-synctransactions-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: stockcountjournalscontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'UpdateEntity Method '
+                  href: stockcountjournalscontroller-updateentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: StockCountJournalsController Properties
+                href: stockcountjournalscontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+            - name: TransferOrdersController Class
+              href: transferorderscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              items:
+              - name: 'TransferOrdersController Constructor '
+                href: transferorderscontroller-constructor-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: TransferOrdersController Methods
+                href: transferorderscontroller-methods-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                items:
+                - name: 'BadRequest Method '
+                  href: transferorderscontroller-badrequest-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Commit Method '
+                  href: transferorderscontroller-commit-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Content(T) Method '
+                  href: transferorderscontroller-content-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Created(TEntity) Method '
+                  href: transferorderscontroller-created-tentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'CreatedAtRoute(T) Method '
+                  href: transferorderscontroller-createdatroute-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'DeleteLink Method '
+                  href: transferorderscontroller-deletelink-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Dispose Method '
+                  href: transferorderscontroller-dispose-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Get Method '
+                  href: transferorderscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                  items:
+                  - name: 'Get Method '
+                    href: transferorderscontroller-get-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers_1.md
+                - name: 'GetEntityByKey Method '
+                  href: transferorderscontroller-getentitybykey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'GetKey Method '
+                  href: transferorderscontroller-getkey-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'InternalServerError Method '
+                  href: transferorderscontroller-internalservererror-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Json(T) Method '
+                  href: transferorderscontroller-json-t-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'PatchEntity Method '
+                  href: transferorderscontroller-patchentity-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Redirect Method '
+                  href: transferorderscontroller-redirect-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'RedirectToRoute Method '
+                  href: transferorderscontroller-redirecttoroute-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+                - name: 'Unauthorized Method '
+                  href: transferorderscontroller-unauthorized-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+              - name: TransferOrdersController Properties
+                href: transferorderscontroller-properties-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md
+          - name: Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions Namespace
+            href: microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md
+            items:
+            - name: CommerceErrorHelper Class
+              href: commerceerrorhelper-class-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              items:
+              - name: 'CommerceErrorHelper Constructor '
+                href: commerceerrorhelper-constructor-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              - name: CommerceErrorHelper Fields
+                href: commerceerrorhelper-fields-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                items:
+                - name: InternalServerErrorResourceId Field
+                  href: commerceerrorhelper-internalservererrorresourceid-field-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                - name: SerializedNotificationFullNamePropertyName Field
+                  href: commerceerrorhelper-serializednotificationfullnamepropertyname-field-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                - name: SerializedNotificationPropertyName Field
+                  href: commerceerrorhelper-serializednotificationpropertyname-field-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              - name: CommerceErrorHelper Methods
+                href: commerceerrorhelper-methods-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                items:
+                - name: 'CreateErrorMessage Method '
+                  href: commerceerrorhelper-createerrormessage-method-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                - name: 'GetHttpCode Method '
+                  href: commerceerrorhelper-gethttpcode-method-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                - name: 'IsExceptionSupported Method '
+                  href: commerceerrorhelper-isexceptionsupported-method-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+            - name: CommerceRuntimeExceptionFilterAttribute Class
+              href: commerceruntimeexceptionfilterattribute-class-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              items:
+              - name: 'CommerceRuntimeExceptionFilterAttribute Constructor '
+                href: commerceruntimeexceptionfilterattribute-constructor-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              - name: CommerceRuntimeExceptionFilterAttribute Methods
+                href: commerceruntimeexceptionfilterattribute-methods-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                items:
+                - name: 'OnException Method '
+                  href: commerceruntimeexceptionfilterattribute-onexception-method-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              - name: CommerceRuntimeExceptionFilterAttribute Properties
+                href: commerceruntimeexceptionfilterattribute-properties-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+            - name: CompositeKeyRouter Class
+              href: compositekeyrouter-class-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              items:
+              - name: 'CompositeKeyRouter Constructor '
+                href: compositekeyrouter-constructor-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              - name: CompositeKeyRouter Methods
+                href: compositekeyrouter-methods-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                items:
+                - name: 'SelectAction Method '
+                  href: compositekeyrouter-selectaction-method-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+            - name: MetadataFilterProvider Class
+              href: metadatafilterprovider-class-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              items:
+              - name: 'MetadataFilterProvider Constructor '
+                href: metadatafilterprovider-constructor-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              - name: MetadataFilterProvider Methods
+                href: metadatafilterprovider-methods-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                items:
+                - name: 'GetFilters Method '
+                  href: metadatafilterprovider-getfilters-method-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+            - name: ModelValidatorAttribute Class
+              href: modelvalidatorattribute-class-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              items:
+              - name: 'ModelValidatorAttribute Constructor '
+                href: modelvalidatorattribute-constructor-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              - name: ModelValidatorAttribute Methods
+                href: modelvalidatorattribute-methods-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                items:
+                - name: 'OnActionExecuting Method '
+                  href: modelvalidatorattribute-onactionexecuting-method-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              - name: ModelValidatorAttribute Properties
+                href: modelvalidatorattribute-properties-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+            - name: NonBindableActionRoutingConvention Class
+              href: nonbindableactionroutingconvention-class-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              items:
+              - name: 'NonBindableActionRoutingConvention Constructor '
+                href: nonbindableactionroutingconvention-constructor-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              - name: NonBindableActionRoutingConvention Methods
+                href: nonbindableactionroutingconvention-methods-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                items:
+                - name: 'SelectAction Method '
+                  href: nonbindableactionroutingconvention-selectaction-method-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                - name: 'SelectController Method '
+                  href: nonbindableactionroutingconvention-selectcontroller-method-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              - name: NonBindableActionRoutingConvention Properties
+                href: nonbindableactionroutingconvention-properties-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                items:
+                - name: 'ControllerName Property '
+                  href: nonbindableactionroutingconvention-controllername-property-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+            - name: SessionActionRoutingConvention Class
+              href: sessionactionroutingconvention-class-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              items:
+              - name: 'SessionActionRoutingConvention Constructor '
+                href: sessionactionroutingconvention-constructor-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              - name: SessionActionRoutingConvention Methods
+                href: sessionactionroutingconvention-methods-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+                items:
+                - name: 'SelectController Method '
+                  href: sessionactionroutingconvention-selectcontroller-method-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+              - name: SessionActionRoutingConvention Properties
+                href: sessionactionroutingconvention-properties-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md
+          - name: Microsoft.Dynamics.Retail.Tracing.RetailServer Namespace
+            href: microsoft-dynamics-retail-tracing-retailserver-namespace.md
+            items:
+            - name: RetailServerInstrumentationProvider Class
+              href: retailserverinstrumentationprovider-class-microsoft-dynamics-retail-tracing-retailserver.md
+              items:
+              - name: 'RetailServerInstrumentationProvider Constructor '
+                href: retailserverinstrumentationprovider-constructor-microsoft-dynamics-retail-tracing-retailserver.md
+              - name: RetailServerInstrumentationProvider Methods
+                href: retailserverinstrumentationprovider-methods-microsoft-dynamics-retail-tracing-retailserver.md
+                items:
+                - name: 'RequestBegin Method '
+                  href: retailserverinstrumentationprovider-requestbegin-method-microsoft-dynamics-retail-tracing-retailserver.md
+                - name: 'RequestEnd Method '
+                  href: retailserverinstrumentationprovider-requestend-method-microsoft-dynamics-retail-tracing-retailserver.md
