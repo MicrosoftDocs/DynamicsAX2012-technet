@@ -1,3 +1,91 @@
+- name: Microsoft Dynamics AX 2012
+  href: microsoft-dynamics-ax-2012-technical-library.md
+  items:
+  - name: New, Changed, and Deprecated Features for AX 2012
+    href: new-changed-and-deprecated-features-for-ax-2012.md
+    items:
+    - name: What's new in Microsoft Dynamics AX 2012
+      href: what-s-new-in-microsoft-dynamics-ax-2012.md
+    - name: "What's new: Companion apps for Microsoft Dynamics AX 2012"
+      href: what-s-new-companion-apps-for-microsoft-dynamics-ax-2012.md
+    - name: "What's new: Tools and services that support Microsoft Dynamics AX 2012"
+      href: what-s-new-tools-and-services-that-support-microsoft-dynamics-ax-2012.md
+    - name: Deprecated features
+      href: deprecated-features.md
+  - name: System administrators
+    href: system-administrators.md
+    - name: Retail
+      href: microsoft-dynamics-ax-retail-for-it-pros-and-developers.md
+      items:
+      - name: Deployment topologies for Retail
+        href: deployment-topologies-for-retail.md
+        items:
+        - name: Install Retail Headquarters
+          href: install-retail-headquarters.md
+        - name: Set up toolbox users
+          href: set-up-toolbox-users.md
+      - name: Online Store
+        href: online-store.md
+        items:
+        - name: Plan for an online store
+          href: plan-for-a-microsoft-dynamics-ax-retail-online-store.md
+        - name: Architecture of the online store
+          href: architecture-of-the-microsoft-dynamics-ax-retail-online-store.md
+        - name: Online store publishing architecture
+          href: retail-online-store-publishing-architecture.md
+        - name: Install an online store (e-commerce)
+          href: install-a-retail-online-store-e-commerce.md
+        - name: Install multiple online stores
+          href: install-multiple-microsoft-dynamics-ax-retail-online-stores.md
+        - name: Set up and configure an online store
+          href: set-up-and-configure-a-microsoft-dynamics-ax-retail-online-store.md
+        - name: Bulk edit attributes in Microsoft Excel
+          href: configure-clients-computers-to-bulk-edit-attributes-in-microsoft-excel.md
+        - name: Getting started with customizing the Retail online sample store
+          href: getting-started-with-customizing-the-retail-online-sample-store.md
+        - name: 'Quick Guide: How to customize an online store'
+          href: quick-guide-how-to-customize-a-microsoft-dynamics-ax-for-retail-online-store.md
+        - name: Set up and configure refiners
+          href: set-up-and-configure-refiners-for-a-retail-online-store.md
+        - name: Customize master pages
+          href: customize-master-pages.md
+        - name: Customize page layouts
+          href: customize-page-layouts.md
+        - name: Customize the appearance and behavior of site pages
+          href: customize-the-appearance-and-behavior-of-site-pages.md
+        - name: Cascading style sheet (CSS) files for Retail online store
+          href: cascading-style-sheet-css-files-for-retail-online-store.md
+        - name: Map a network drive to the SharePoint 2013 files for online stores
+          href: map-a-network-drive-to-the-sharepoint-2013-files-for-online-stores.md
+        - name: Customize the functionality of an online store
+          href: customize-the-functionality-of-an-online-store.md
+        - name: Customize display templates for an online store
+          href: customize-display-templates-for-an-online-store.md
+        - name: Debug X++ Code for Retail
+          href: debug-x-code-for-retail.md
+        - name: Debug code in a Retail online sample store
+          href: debug-code-in-a-retail-online-sample-store.md
+        - name: Update the Publishing Job Configuration
+          href: update-the-publishing-job-configuration.md
+        - name: Create a URL for search engine optimization (SEO) in a Retail online store
+          href: create-a-url-for-search-engine-optimization-seo-in-a-retail-online-store.md
+        - name: Components of the Retail online sample store
+          href: components-of-the-retail-online-sample-store.md
+          items:
+          - name: Wish list
+            href: wish-list.md
+          - name: Shopping Cart
+            href: shopping-cart.md
+        - name: Authenticating users in Retail online sample stores
+          href: authenticating-users-in-retail-online-sample-stores.md
+        - name: 'Walkthrough: Extending the database schema'
+          href: walkthrough-adding-a-table-for-customer-preferences-to-the-ax-2012-database.md
+        - name: 'Walkthrough: Extending the Retail online sample store'
+          href: walkthrough-adding-customer-preferences-to-the-retail-online-sample-store.md
+        - name: 'Walkthrough: Adding Properties to a Sales Order'
+          href: walkthrough-adding-properties-to-a-sales-order.md
+        - name: Troubleshoot installation issues for a Retail online store
+          href: troubleshoot-installation-issues-for-a-retail-online-store.md
         - name: Retail online sample store reference
           href: net-framework-classes-for-microsoft-dynamics-ax-retail-online-sample-store.md
           items:
@@ -9642,3 +9730,313 @@
                   href: ..\trustedidentityprovidersettingsfeatureeventreceiver-featureactivated-method-microsoft-dynamics-retail-sp-commonfeatures-features-trustedidentityprovi.md
                 - name: 'FeatureDeactivating Method '
                   href: ..\trustedidentityprovidersettingsfeatureeventreceiver-featuredeactivating-method-microsoft-dynamics-retail-sp-commonfeatures-features-trustedidentitypr.md
+      - name: Point of Sale
+        href: point-of-sale.md
+        items:
+        - name: Install Retail POS
+          href: install-retail-pos.md
+        - name: Configure database connections for a POS register
+          href: configure-database-connections-for-a-pos-register-by-using-the-retail-channel-configuration-utility.md
+        - name: Set up user accounts and the POS user group
+          href: set-up-user-accounts-and-the-pos-user-group.md
+        - name: Set up OPOS hardware devices
+          href: set-up-opos-hardware-devices.md
+        - name: Setting up Retail POS
+          href: setting-up-retail-pos.md
+          items:
+          - name: About setting up Retail POS
+            href: about-setting-up-retail-pos.md
+          - name: Set up registers
+            href: set-up-registers.md
+          - name: Setting up screen layouts
+            href: setting-up-screen-layouts.md
+            items:
+            - name: About setting up screen layouts
+              href: about-setting-up-screen-layouts.md
+            - name: Set up images
+              href: set-up-images.md
+            - name: Set up buttons
+              href: set-up-buttons.md
+            - name: Set up a button grid
+              href: set-up-a-button-grid.md
+            - name: Set up a screen layout
+              href: set-up-a-screen-layout.md
+            - name: Design a screen layout
+              href: design-a-screen-layout.md
+            - name: Assign a screen layout
+              href: assign-a-screen-layout.md
+          - name: Set up receipt formats
+            href: set-up-receipt-formats.md
+          - name: Set up receipt profiles
+            href: set-up-receipt-profiles.md
+          - name: Set up keyboard mapping groups
+            href: set-up-keyboard-mapping-groups.md
+          - name: Set up hardware profiles
+            href: set-up-hardware-profiles.md
+          - name: Set up visual profiles
+            href: set-up-visual-profiles.md
+          - name: Set up and assign functionality profiles
+            href: set-up-and-assign-functionality-profiles.md
+        - name: Use Retail POS in offline mode
+          href: use-retail-pos-in-offline-mode.md
+        - name: Retail Salt Utility
+          href: retail-salt-utility.md
+        - name: 'Scenario: Upgrade a Retail system'
+          href: scenario-upgrade-a-retail-system.md
+        - name: Extend Point of Sale
+          href: extend-point-of-sale.md
+          items:
+          - name: 'Tutorial: Extending Point of Sale'
+            href: tutorial-extending-point-of-sale.md
+            items:
+            - name: Use BlankOperations to implement custom features
+              href: use-blankoperations-to-implement-custom-features.md
+            - name: Modify a form
+              href: modify-a-form.md
+            - name: Create and implement a Retail POS skin
+              href: create-and-implement-a-retail-pos-skin.md
+            - name: Modify a trigger
+              href: modify-a-trigger.md
+            - name: Apply a custom control to the POS register
+              href: apply-a-custom-control-to-the-pos-register.md
+          - name: 'Walkthrough: Adding an Image to Product Search Results'
+            href: walkthrough-adding-an-image-to-product-search-results.md
+        - name: Point of Sale Reference
+          href: retail-pos-ref/net-framework-classes-for-microsoft-dynamics-ax-point-of-sale.md
+      - name: Retail Modern Point of Sale
+        href: retail-modern-point-of-sale.md
+        items:
+        - name: Retail Modern POS architecture
+          href: retail-modern-pos-architecture.md
+        - name: Manually install Retail Modern POS prerequisites
+          href: manually-install-retail-modern-pos-prerequisites.md
+        - name: Install Retail Modern POS
+          href: install-retail-modern-pos.md
+        - name: Configure Retail Modern POS for direct database connectivity
+          href: configure-retail-modern-pos-for-direct-database-connectivity.md
+        - name: Configure offline options for Retail Modern POS
+          href: configure-offline-options-for-retail-modern-pos.md
+        - name: Use Retail Modern POS in offline mode
+          href: use-retail-modern-pos-in-offline-mode.md
+        - name: Windows Phone Point of Sale
+          href: microsoft-dynamics-ax-retail-windows-phone-point-of-sale.md
+        - name: Troubleshoot connectivity problems for Retail Modern POS devices
+          href: troubleshoot-connectivity-problems-for-retail-modern-pos-devices.md
+      - name: Commerce Data Exchange
+        href: commerce-data-exchange.md
+        items:
+        - name: 'Commerce Data Exchange: Async Server'
+          href: commerce-data-exchange-async-server.md
+          items:
+          - name: 'Install Commerce Data Exchange: Async Server'
+            href: install-commerce-data-exchange-async-server.md
+          - name: Set up a profile for Async Server
+            href: set-up-a-profile-for-async-server.md
+        - name: 'Commerce Data Exchange: Async Client'
+          href: commerce-data-exchange-async-client.md
+          items:
+          - name: 'Install Commerce Data Exchange: Async Client'
+            href: install-commerce-data-exchange-async-client.md
+          - name: Configure settings for Async Client
+            href: configure-settings-for-async-client.md
+        - name: 'Commerce Data Exchange: Synch Service'
+          href: commerce-data-exchange-synch-service.md
+          items:
+          - name: 'Install Commerce Data Exchange: Synch Service (Retail Store Connect)'
+            href: install-commerce-data-exchange-synch-service-retail-store-connect.md
+          - name: Configure settings for Synch Service
+            href: configure-settings-for-synch-service.md
+          - name: Set up upload options for Synch Service messages
+            href: set-up-upload-options-for-synch-service-messages.md
+          - name: Set up a profile for Synch Service
+            href: set-up-a-profile-for-synch-service.md
+          - name: Configure or bypass IPsec for Synch Service
+            href: configure-or-bypass-ipsec-for-synch-service.md
+          - name: Run multiple instances of Synch Service
+            href: run-multiple-instances-of-synch-service.md
+        - name: 'Commerce Data Exchange: Real-time Service'
+          href: commerce-data-exchange-real-time-service.md
+          items:
+          - name: 'Install Commerce Data Exchange: Real-time Service (Retail Transaction Service)'
+            href: install-commerce-data-exchange-real-time-service-retail-transaction-service.md
+          - name: Set up a Real-time Service profile
+            href: set-up-a-real-time-service-profile.md
+          - name: Configure settings for Real-time Service
+            href: configure-settings-for-real-time-service.md
+          - name: 'Extend the Commerce Data Exchange: Real-time Service'
+            href: extend-the-commerce-data-exchange-real-time-service.md
+          - name: Retail Salt Utility
+            href: retail-salt-utility.md
+        - name: Channel databases and offline databases for Retail
+          href: channel-databases-and-offline-databases-for-retail.md
+          items:
+          - name: Configure SQL Server for the Retail databases
+            href: configure-sql-server-for-the-retail-databases.md
+          - name: Install a Retail channel database
+            href: install-a-retail-channel-database.md
+          - name: Install the Retail Channel Configuration Utility (Retail Store Database Utility)
+            href: install-the-retail-channel-configuration-utility-retail-store-database-utility.md
+          - name: Create a channel database or an offline database (AX 2012 R3)
+            href: create-a-channel-database-or-an-offline-database-ax-2012-r3.md
+          - name: Create a store database or an offline database (AX 2012 R2 and AX 2012 Feature Pack)
+            href: create-a-store-database-or-an-offline-database-ax-2012-r2-and-ax-2012-feature-pack.md
+          - name: Set up a channel database profile
+            href: set-up-a-channel-database-profile.md
+          - name: Create a channel data group
+            href: create-a-channel-data-group.md
+          - name: Set up a store database profile
+            href: set-up-a-store-database-profile.md
+          - name: Set up offline profiles
+            href: set-up-offline-profiles.md
+          - name: Configure a channel database for large data volumes
+            href: configure-a-channel-database-for-large-data-volumes.md
+          - name: Reduce the size of the channel database after synchronization
+            href: reduce-the-size-of-the-channel-database-after-synchronization.md
+        - name: Configure and schedule retail data distribution
+          href: configure-and-schedule-retail-data-distribution.md
+          items:
+          - name: Enter parameters for Retail Scheduler
+            href: enter-parameters-for-retail-scheduler.md
+          - name: Set up connection profiles
+            href: set-up-connection-profiles.md
+            items:
+            - name: Set up a Real-time Service profile
+              href: set-up-a-real-time-service-profile.md
+            - name: Set up a profile for Async Server
+              href: set-up-a-profile-for-async-server.md
+            - name: Set up a profile for Synch Service
+              href: set-up-a-profile-for-synch-service.md
+            - name: Set up a channel profile
+              href: set-up-a-channel-profile.md
+            - name: Set up a channel database profile
+              href: set-up-a-channel-database-profile.md
+            - name: Set up an AOS profile
+              href: set-up-an-aos-profile.md
+            - name: Set up a store database profile
+              href: set-up-a-store-database-profile.md
+          - name: Specify working folders for Commerce Data Exchange
+            href: specify-working-folders-for-commerce-data-exchange.md
+          - name: Configure table distribution settings for Retail data
+            href: configure-table-distribution-settings-for-retail-data.md
+            items:
+            - name: Create distribution locations for retail databases
+              href: create-distribution-locations-for-retail-databases.md
+            - name: Set up a distribution location list
+              href: set-up-a-distribution-location-list.md
+            - name: Set up action filters for Retail data
+              href: set-up-action-filters-for-retail-data.md
+            - name: Set up or modify table distributions
+              href: set-up-or-modify-table-distributions.md
+            - name: Set up table links
+              href: set-up-table-links.md
+          - name: Schedule Retail data distribution
+            href: schedule-retail-data-distribution.md
+            items:
+            - name: Configure jobs and subjobs in Retail Scheduler
+              href: configure-jobs-and-subjobs-in-retail-scheduler.md
+            - name: Schedule and run jobs in Retail Scheduler
+              href: schedule-and-run-jobs-in-retail-scheduler.md
+            - name: View or cancel retail data distribution sessions
+              href: view-or-cancel-retail-data-distribution-sessions.md
+            - name: View history for a distribution schedule
+              href: view-history-for-a-distribution-schedule.md
+          - name: Troubleshoot Retail data distribution issues
+            href: troubleshoot-retail-data-distribution-issues.md
+            items:
+            - name: Process status messages for data exchange
+              href: process-status-messages-for-data-exchange.md
+            - name: Troubleshoot a connection
+              href: troubleshoot-a-connection.md
+            - name: Troubleshoot issues in Async Server or Async Client
+              href: troubleshoot-issues-in-async-server-or-async-client.md
+            - name: Troubleshoot issues in Real-time Service
+              href: troubleshoot-issues-in-real-time-service.md
+            - name: Troubleshoot issues in Synch Service
+              href: troubleshoot-issues-in-synch-service.md
+            - name: Synch Service Pack Viewer
+              href: synch-service-pack-viewer.md
+          - name: Synchronize a new table or field with retail databases
+            href: synchronize-a-new-table-or-field-with-retail-databases.md
+        - name: 'Walkthrough: Extending retail data distribution'
+          href: walkthrough-extending-retail-data-distribution-infrastructure-for-customer-preferences.md
+      - name: Commerce Runtime
+        href: commerce-runtime.md
+        items:
+        - name: Services Overview
+          href: services-overview-for-commerce-runtime.md
+        - name: Customize the Data in a Commerce Entity
+          href: customize-the-data-in-a-commerce-entity.md
+        - name: Integrate a Service into the Commerce Runtime
+          href: integrate-a-service-into-the-commerce-runtime.md
+        - name: Create Commerce Runtime Workflows
+          href: create-commerce-runtime-workflows.md
+        - name: 'Walkthrough: Integrating a new Shipping Service'
+          href: walkthrough-integrating-a-new-shipping-service.md
+        - name: 'Walkthrough: Extending the CRT'
+          href: walkthrough-extending-the-crt-to-add-customer-preference-data-for-retail-clients.md
+        - name: Commerce Runtime Reference
+          href: crt-ref/net-framework-classes-for-microsoft-dynamics-ax-commerce-runtime.md
+      - name: Retail Hardware Station
+        href: microsoft-dynamics-ax-retail-hardware-station.md
+        items:
+        - name: Install Retail Hardware Station
+          href: install-retail-hardware-station.md
+      - name: Retail Server
+        href: microsoft-dynamics-ax-retail-server.md
+        items:
+        - name: Retail Server architecture
+          href: architecture-of-microsoft-dynamics-ax-retail-server.md
+        - name: Install Retail Server
+          href: install-retail-server.md
+        - name: Retail Salt Utility
+          href: retail-salt-utility.md
+        - name: Create a new Retail Server Controller
+          href: create-a-new-retail-server-controller.md
+        - name: Extend a Retail Server OData Controller
+          href: extend-a-retail-server-odata-controller.md
+        - name: Extend the metadata
+          href: extend-the-metadata.md
+        - name: Use Web API and OData controllers together
+          href: use-web-api-and-odata-controllers-together.md
+        - name: Retail Server reference
+          href: retail-server-ref/net-framework-classes-for-microsoft-dynamics-ax-retail-server.md
+      - name: Retail Salt Utility
+        href: retail-salt-utility.md
+      - name: Retail SDK
+        href: retail-sdk.md
+        items:
+        - name: Install Retail SDK (Retail POS Plug-ins)
+          href: install-retail-sdk-retail-pos-plug-ins.md
+        - name: Online channel tools
+          href: microsoft-dynamics-ax-for-retail-online-channel-tools.md
+      - name: Mass deploy retail components
+        href: mass-deploy-retail-components.md
+        items:
+        - name: Install the Retail mass deployment toolkit
+          href: install-the-retail-mass-deployment-toolkit.md
+        - name: Create a security file for Retail deployment
+          href: create-a-security-file-for-retail-deployment.md
+        - name: Set up a Retail topology to use with deployment tools
+          href: set-up-a-retail-topology-to-use-with-deployment-tools.md
+        - name: Set up a self-service Retail deployment
+          href: set-up-a-self-service-retail-deployment.md
+        - name: Mass deploy Retail components by using System Center Configuration Manager
+          href: mass-deploy-retail-components-by-using-system-center-configuration-manager.md
+        - name: Mass deploy retail updates and customizations by using System Center Configuration Manager
+          href: mass-deploy-retail-updates-and-customizations-by-using-system-center-configuration-manager.md
+    - name: Retail essentials (Retail essentials)
+      href: retail-essentials-retail-essentials.md
+    - name: .NET Business Connector
+      href: net-business-connector.md
+    - name: Security
+      href: security.md
+    - name: Operations
+      href: microsoft-dynamics-ax-operations.md
+  - name: Application users
+    href: application-users.md
+  - name: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
+    href: dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs
+  - name: Resources for Microsoft Dynamics AX 2012
+    href: resources-for-microsoft-dynamics-ax-2012.md
+  - name: Microsoft Dynamics AX glossary
+    href: microsoft-dynamics-ax-glossary.md
