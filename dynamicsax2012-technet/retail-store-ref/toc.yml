@@ -76,7 +76,7 @@
         - name: Troubleshoot installation issues for a Retail online store
           href: ..\troubleshoot-installation-issues-for-a-retail-online-store.md
         - name: Retail online sample store reference
-          href: ..\net-framework-classes-for-microsoft-dynamics-ax-retail-online-sample-store.md
+          href: net-framework-classes-for-microsoft-dynamics-ax-retail-online-sample-store.md
           items:
           - name: ( Default Namespace ) Namespace
             href: ..\default-namespace-namespace.md
