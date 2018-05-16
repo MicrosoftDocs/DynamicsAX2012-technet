@@ -4907,7 +4907,7 @@
         - name: Troubleshoot installation issues for a Retail online store
           href: troubleshoot-installation-issues-for-a-retail-online-store.md
         - name: Retail online sample store reference
-          href: retail-store-ref/-retail-online-sample-store.md          
+          href: retail-store-ref/net-framework-classes-for-microsoft-dynamics-ax-retail-online-sample-store.md          
       - name: Point of Sale
         href: point-of-sale.md
         items:
@@ -23295,7 +23295,7 @@
           - name: Remove-AXSecurityRole
             href: remove-axsecurityrole.md
   - name: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
-    href: dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs
+    href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs
   - name: Resources for Microsoft Dynamics AX 2012
     href: resources-for-microsoft-dynamics-ax-2012.md
     items:

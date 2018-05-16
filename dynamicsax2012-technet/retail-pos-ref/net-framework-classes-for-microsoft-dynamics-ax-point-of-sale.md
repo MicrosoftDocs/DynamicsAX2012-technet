@@ -23,7 +23,7 @@ This section contains reference documentation for the .NET Framework classes tha
 
 ## See also
 
-[Extend Point of Sale](extend-point-of-sale.md)
+[Extend Point of Sale](../extend-point-of-sale.md)
 
 [Reference](https://technet.microsoft.com/en-us/library/aa626373\(v=ax.60\))
 
