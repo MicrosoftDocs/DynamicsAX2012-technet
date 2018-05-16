@@ -42007,7 +42007,7 @@
                 href: ..\transactionserviceclient-properties-microsoft-dynamics-retail-transactionservices-clientproxy.md
               - name: TransactionServiceClient Events
                 href: ..\transactionserviceclient-events-microsoft-dynamics-retail-transactionservices-clientproxy.md
-     - name: Retail Hardware Station
+      - name: Retail Hardware Station
         href: microsoft-dynamics-ax-retail-hardware-station.md
         items:
         - name: Install Retail Hardware Station
