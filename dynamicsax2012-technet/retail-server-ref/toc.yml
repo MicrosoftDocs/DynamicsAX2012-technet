@@ -1,4 +1,4 @@
- name: Microsoft Dynamics AX 2012
+- name: Microsoft Dynamics AX 2012
   href: ..\microsoft-dynamics-ax-2012-technical-library.md
   items:
   - name: New, Changed, and Deprecated Features for AX 2012
