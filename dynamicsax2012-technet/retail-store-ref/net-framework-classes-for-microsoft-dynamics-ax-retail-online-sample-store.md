@@ -23,7 +23,7 @@ This section contains reference documentation for the .NET Framework classes tha
 
 ## See also
 
-[Online Store](online-store.md)
+[Online Store](../online-store.md)
 
   
 **Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).

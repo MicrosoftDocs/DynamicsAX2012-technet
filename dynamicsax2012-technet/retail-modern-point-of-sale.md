@@ -306,7 +306,7 @@ The Microsoft Dynamics AX Commerce runtime is wrapped in a Retail Server layer. 
 <tr class="odd">
 <td><p>Retail Server reference</p></td>
 <td><p>You can reference API documentation for the Microsoft.Dynamics.Retail.RetailServerLibrary assembly.</p></td>
-<td><p><a href="retail-server/net-framework-classes-for-microsoft-dynamics-ax-retail-server.md">.NET Framework Classes for Microsoft Dynamics AX Retail Server</a></p></td>
+<td><p><a href="retail-server-ref/net-framework-classes-for-microsoft-dynamics-ax-retail-server.md">.NET Framework Classes for Microsoft Dynamics AX Retail Server</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Incorporate your changes</p></td>

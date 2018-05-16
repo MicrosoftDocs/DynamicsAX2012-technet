@@ -76,7 +76,7 @@
         - name: Troubleshoot installation issues for a Retail online store
           href: ..\troubleshoot-installation-issues-for-a-retail-online-store.md
         - name: Retail online sample store reference
-          href: ..\retail-store-ref/-retail-online-sample-store.md          
+          href: ..\retail-store-ref\net-framework-classes-for-microsoft-dynamics-ax-retail-online-sample-store.md          
       - name: Point of Sale
         href: ..\point-of-sale.md
         items:
