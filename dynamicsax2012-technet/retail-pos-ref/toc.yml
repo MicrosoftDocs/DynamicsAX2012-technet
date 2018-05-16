@@ -1,29 +1,18 @@
-- name: Microsoft Dynamics AX 2012
-  href: microsoft-dynamics-ax-2012-technical-library.md
+ name: Microsoft Dynamics AX 2012
+  href: ..\microsoft-dynamics-ax-2012-technical-library.md
   items:
   - name: New, Changed, and Deprecated Features for AX 2012
-    href: new-changed-and-deprecated-features-for-ax-2012.md
-    items:
-    - name: What's new in Microsoft Dynamics AX 2012
-      href: what-s-new-in-microsoft-dynamics-ax-2012.md
-    - name: "What's new: Companion apps for Microsoft Dynamics AX 2012"
-      href: what-s-new-companion-apps-for-microsoft-dynamics-ax-2012.md
-    - name: "What's new: Tools and services that support Microsoft Dynamics AX 2012"
-      href: what-s-new-tools-and-services-that-support-microsoft-dynamics-ax-2012.md
-    - name: Deprecated features
-      href: deprecated-features.md
+    href: ..\new-changed-and-deprecated-features-for-ax-2012.md
+    items: []
   - name: System administrators
-    href: system-administrators.md
+    href: ..\system-administrators.md
+    items:
     - name: Retail
-      href: microsoft-dynamics-ax-retail-for-it-pros-and-developers.md
+      href: ..\microsoft-dynamics-ax-retail-for-it-pros-and-developers.md
       items:
       - name: Deployment topologies for Retail
-        href: deployment-topologies-for-retail.md
-        items:
-        - name: Install Retail Headquarters
-          href: install-retail-headquarters.md
-        - name: Set up toolbox users
-          href: set-up-toolbox-users.md
+        href: ..\deployment-topologies-for-retail.md
+        items: []
       - name: Online Store
         href: online-store.md
         items:
@@ -6784,18 +6773,26 @@
         - name: Mass deploy retail updates and customizations by using System Center Configuration Manager
           href: mass-deploy-retail-updates-and-customizations-by-using-system-center-configuration-manager.md
     - name: Retail essentials (Retail essentials)
-      href: retail-essentials-retail-essentials.md
+      href: ..\retail-essentials-retail-essentials.md
+      items: []
     - name: .NET Business Connector
-      href: net-business-connector.md
+      href: ..\net-business-connector.md
+      items: []
     - name: Security
-      href: security.md
+      href: ..\security.md
+      items: []
     - name: Operations
-      href: microsoft-dynamics-ax-operations.md
+      href: ..\microsoft-dynamics-ax-operations.md
+      items: []
   - name: Application users
-    href: application-users.md
+    href: ..\application-users.md
+    items: []
   - name: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
-    href: dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs
+    href: ..\dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs
+    items: []
   - name: Resources for Microsoft Dynamics AX 2012
-    href: resources-for-microsoft-dynamics-ax-2012.md
+    href: ..\resources-for-microsoft-dynamics-ax-2012.md
+    items: []
   - name: Microsoft Dynamics AX glossary
-    href: microsoft-dynamics-ax-glossary.md
+    href: ..\microsoft-dynamics-ax-glossary.md
+    items: []
