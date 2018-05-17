@@ -31,7 +31,7 @@ You can deploy Retail Server in a store or in a centralized environment such as 
 
 [Use Web API and OData controllers together](use-web-api-and-odata-controllers-together.md)
 
-[.NET Framework Classes for Microsoft Dynamics AX Retail Server](net-framework-classes-for-microsoft-dynamics-ax-retail-server.md)
+[.NET Framework Classes for Microsoft Dynamics AX Retail Server](retail-server-ref/net-framework-classes-for-microsoft-dynamics-ax-retail-server.md)
 
 ## See also
 

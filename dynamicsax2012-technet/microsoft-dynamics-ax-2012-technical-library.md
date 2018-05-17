@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Microsoft Dynamics AX 2012 Technical Library '
 TOCTitle: Microsoft Dynamics AX 2012
 ms:assetid: 89085fa3-cec3-4651-bee5-907470e2d4bd
