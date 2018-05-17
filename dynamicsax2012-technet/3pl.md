@@ -12,7 +12,7 @@ f1_keywords:
 
 # 3PL
 
-A party that provides logistics services to customers.
+A party that provides logistics services to customers. 
 
 ## See also
 
