@@ -23,7 +23,7 @@ This section contains reference documentation for the .NET Framework classes tha
 
 ## See also
 
-[Commerce Runtime](../commerce-runtime.md)
+[Commerce Runtime](commerce-runtime.md)
 
 [Reference](https://technet.microsoft.com/en-us/library/aa626373\(v=ax.60\))
 
