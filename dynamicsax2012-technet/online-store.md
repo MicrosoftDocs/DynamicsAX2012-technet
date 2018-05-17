@@ -307,7 +307,7 @@ The commerce runtime is a set of assemblies that enables your store to obtain in
 <tr class="even">
 <td><p>Use the API</p></td>
 <td><p>You can use the API for things like getting information about items, price calculation, shipping calculation, and placing orders. You can extend the API to fit your business processes.</p></td>
-<td><p><a href="crt-ref/net-framework-classes-for-microsoft-dynamics-ax-commerce-runtime.md">.NET Framework Classes for Microsoft Dynamics AX Commerce Runtime</a></p></td>
+<td><p><a href="net-framework-classes-for-microsoft-dynamics-ax-commerce-runtime.md">.NET Framework Classes for Microsoft Dynamics AX Commerce Runtime</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Deploy your commerce runtime customizations</p></td>
