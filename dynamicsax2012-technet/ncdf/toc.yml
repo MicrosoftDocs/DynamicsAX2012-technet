@@ -1,0 +1,547 @@
+- name: Microsoft Dynamics AX 2012
+  href: microsoft-dynamics-ax-2012-technical-library.md
+  items:
+  - name: New, Changed, and Deprecated Features for AX 2012
+    href: new-changed-and-deprecated-features-for-ax-2012.md
+    items:
+    - name: What's new in Microsoft Dynamics AX 2012
+      href: ..\what-s-new-in-microsoft-dynamics-ax-2012.md
+      items:
+      - name: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 12
+        href: ..\what-s-new-in-microsoft-dynamics-ax-2012-r3-cumulative-update-12.md
+      - name: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 11
+        href: ..\what-s-new-in-microsoft-dynamics-ax-2012-r3-cumulative-update-11.md
+      - name: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 10
+        href: ..\what-s-new-in-microsoft-dynamics-ax-2012-r3-cumulative-update-10.md
+      - name: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 9
+        href: ..\what-s-new-in-microsoft-dynamics-ax-2012-r3-cumulative-update-9.md
+      - name: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 8
+        href: ..\what-s-new-in-microsoft-dynamics-ax-2012-r3-cumulative-update-8.md
+      - name: What's new in Microsoft Dynamics AX 2012 R3
+        href: ..\what-s-new-in-microsoft-dynamics-ax-2012-r3.md
+      - name: What's new in Microsoft Dynamics AX 2012 R2 cumulative update 7
+        href: ..\what-s-new-in-microsoft-dynamics-ax-2012-r2-cumulative-update-7.md
+      - name: What's new in Microsoft Dynamics AX 2012 R2 cumulative update 6
+        href: ..\what-s-new-in-microsoft-dynamics-ax-2012-r2-cumulative-update-6.md
+      - name: What's new in Microsoft Dynamics AX 2012 R2
+        href: ..\what-s-new-in-microsoft-dynamics-ax-2012-r2.md
+      - name: What's new in Microsoft Dynamics AX 2012 Feature Pack
+        href: ..\what-s-new-in-microsoft-dynamics-ax-2012-feature-pack.md
+      - name: What's new for application users
+        href: ..\what-s-new-for-application-users.md
+      - name: What's new for developers
+        href: ..\what-s-new-for-developers.md
+      - name: What's new for system administrators
+        href: ..\what-s-new-for-system-administrators.md
+      - name: Country/region specific features
+        href: ..\what-s-new-country-region-specific-features.md
+        items:
+        - name: Country/Region Context
+          href: ..\what-s-new-country-region-context.md
+        - name: Country-specific features for Austria
+          href: ..\what-s-new-country-specific-features-for-austria-aut.md
+        - name: Country-specific features for Belgium
+          href: ..\what-s-new-country-specific-features-for-belgium-bel.md
+        - name: Country-specific features for Brazil
+          href: ..\what-s-new-country-specific-features-for-brazil-bra.md
+        - name: Country-specific features for China
+          href: ..\what-s-new-country-specific-features-for-china-chn.md
+        - name: Country-specific features for the Czech Republic
+          href: ..\what-s-new-country-specific-features-for-the-czech-republic-cze.md
+        - name: Country-specific features for Denmark
+          href: ..\what-s-new-country-specific-features-for-denmark-dnk.md
+        - name: Region-specific features for Eastern Europe
+          href: ..\what-s-new-region-specific-features-for-eastern-europe-eeur.md
+        - name: Region-specific features for Europe
+          href: ..\what-s-new-region-specific-features-for-europe.md
+        - name: Country-specific features for Finland
+          href: ..\what-s-new-country-specific-features-for-finland-fin.md
+        - name: Country-specific features for France
+          href: ..\what-s-new-country-specific-features-for-france-fra.md
+        - name: Country-specific features for Germany
+          href: ..\what-s-new-country-specific-features-for-germany-deu.md
+        - name: Country-specific features for Hungary
+          href: ..\what-s-new-country-specific-features-for-hungary-hun.md
+        - name: Country-specific features for India
+          href: ..\what-s-new-country-specific-features-for-india-ind.md
+        - name: Country-specific features for Italy
+          href: ..\what-s-new-country-specific-features-for-italy-ita.md
+        - name: Country-specific features for Japan
+          href: ..\what-s-new-country-specific-features-for-japan-jpn.md
+        - name: Country-specific features for Latvia
+          href: ..\what-s-new-country-specific-features-for-latvia-lva.md
+        - name: Country-specific features for Lithuania
+          href: ..\what-s-new-country-specific-features-for-lithuania-ltu.md
+        - name: Country-specific features for Mexico
+          href: ..\what-s-new-country-specific-features-for-mexico-mex.md
+        - name: Country-specific features for Netherlands
+          href: ..\what-s-new-country-specific-features-for-netherlands-nld.md
+        - name: Country-specific features for Norway
+          href: ..\what-s-new-country-specific-features-for-norway-nor.md
+        - name: Country-specific features for Poland
+          href: ..\what-s-new-country-specific-features-for-poland-pol.md
+        - name: Country-specific features for Russia
+          href: ..\what-s-new-country-specific-features-for-russia-rus.md
+        - name: Country-specific features for Spain
+          href: ..\what-s-new-country-specific-features-for-spain-esp.md
+        - name: Country-specific features for Switzerland
+          href: ..\what-s-new-country-specific-features-for-switzerland-che.md
+        - name: Country-specific features for Sweden
+          href: ..\what-s-new-country-specific-features-for-sweden-swe.md
+        - name: Country-specific features for Malaysia
+          href: ..\what-s-new-country-specific-features-for-malaysia-mys.md
+      - name: Address book
+        href: ..\what-s-new-address-book.md
+      - name: Accounts payable features
+        href: ..\what-s-new-accounts-payable-features.md
+      - name: Accounts receivable features
+        href: ..\what-s-new-accounts-receivable-features.md
+      - name: Analytics
+        href: ..\what-s-new-analytics.md
+      - name: AOS and Database for Developers
+        href: ..\what-s-new-aos-and-database-for-developers-in-microsoft-dynamics-ax-2012.md
+      - name: Azure deployments
+        href: ..\what-s-new-azure-deployments-of-microsoft-dynamics-ax-2012-r3.md
+      - name: Backup and recovery
+        href: ..\what-s-new-backup-and-recovery.md
+      - name: Best Practices for Developers
+        href: ..\what-s-new-best-practices-for-developers-in-microsoft-dynamics-ax-2012.md
+      - name: Budgeting features
+        href: ..\what-s-new-budgeting-features.md
+      - name: Call center features
+        href: ..\what-s-new-call-center-features.md
+      - name: Cash and bank management features
+        href: ..\what-s-new-cash-and-bank-management-features.md
+      - name: Client for Developers
+        href: ..\what-s-new-client-for-developers-in-microsoft-dynamics-ax-2012.md
+      - name: Company and organization framework
+        href: ..\what-s-new-company-and-organization-framework.md
+      - name: Compliance and internal controls features
+        href: ..\what-s-new-compliance-and-internal-controls-features.md
+      - name: Data import, export, and migration
+        href: ..\what-s-new-data-import-export-and-migration.md
+      - name: Data partitioning
+        href: ..\what-s-new-data-partitioning.md
+      - name: Database changes
+        href: ..\what-s-new-database-changes.md
+      - name: Employees
+        href: ..\what-s-new-employees.md
+      - name: Enterprise Portal and Role Centers
+        href: ..\what-s-new-enterprise-portal-and-role-centers.md
+      - name: Enterprise Search
+        href: ..\what-s-new-enterprise-search.md
+      - name: Financial dimensions framework
+        href: ..\what-s-new-financial-dimensions-framework.md
+      - name: Fixed assets features
+        href: ..\what-s-new-fixed-assets-features.md
+      - name: General ledger features
+        href: ..\what-s-new-general-ledger-features.md
+      - name: Help system
+        href: ..\what-s-new-help-system.md
+      - name: Human resources features
+        href: ..\what-s-new-human-resources-features.md
+      - name: Installation features
+        href: ..\what-s-new-installation.md
+      - name: Intercompany timesheet entry in projects
+        href: ..\what-s-new-intercompany-timesheet-entry-in-projects.md
+      - name: Inventory and warehouse management features
+        href: ..\what-s-new-inventory-and-warehouse-management-features.md
+      - name: Ledger and subledger lines and distributions
+        href: ..\what-s-new-ledger-and-subledger-lines-and-distributions.md
+      - name: Master data management
+        href: ..\what-s-new-master-data-management.md
+      - name: Master planning features
+        href: ..\what-s-new-master-planning-features.md
+      - name: Microsoft Dynamics ERP RapidStart Services
+        href: ..\what-s-new-in-microsoft-dynamics-erp-rapidstart-services.md
+      - name: Microsoft Office Add-in features
+        href: ..\what-s-new-microsoft-office-add-in-features.md
+      - name: MorphX features for developers
+        href: ..\what-s-new-morphx-features-for-developers.md
+      - name: Payment services for Microsoft Dynamics ERP - payment gateway
+        href: ..\what-s-new-payment-services-for-microsoft-dynamics-erp-payment-gateway.md
+      - name: Payroll features
+        href: ..\what-s-new-payroll-features.md
+      - name: Policy Framework
+        href: ..\what-s-new-policy-framework.md
+      - name: Process manufacturing production and logistics features
+        href: ..\what-s-new-process-manufacturing-production-and-logistics-features.md
+      - name: Procurement and sourcing features
+        href: ..\what-s-new-procurement-and-sourcing-features.md
+      - name: Product information management features
+        href: ..\what-s-new-product-information-management-features.md
+      - name: Production control features
+        href: ..\what-s-new-production-control-features.md
+      - name: Products
+        href: ..\what-s-new-products.md
+      - name: Project management and accounting features
+        href: ..\what-s-new-project-management-and-accounting-features.md
+      - name: Public sector features
+        href: ..\what-s-new-public-sector-features.md
+      - name: Reporting
+        href: ..\what-s-new-reporting.md
+      - name: Retail features
+        href: ..\what-s-new-retail-features.md
+      - name: Role-based security
+        href: ..\what-s-new-role-based-security.md
+      - name: Sales and marketing features
+        href: ..\what-s-new-sales-and-marketing-features.md
+      - name: Sales tax processing
+        href: ..\what-s-new-sales-tax-processing.md
+      - name: Services and Application Integration Framework
+        href: ..\what-s-new-services-and-application-integration-framework.md
+      - name: Sites Services for Microsoft Dynamics ERP
+        href: ..\what-s-new-sites-services-for-microsoft-dynamics-erp.md
+      - name: Trade allowance management features
+        href: ..\what-s-new-trade-allowance-management-features.md
+      - name: Transportation management features
+        href: ..\what-s-new-transportation-management-features.md
+      - name: Travel and expense features
+        href: ..\what-s-new-travel-and-expense-features.md
+      - name: Upgrade features
+        href: ..\what-s-new-upgrade-features.md
+      - name: Update installer
+        href: ..\what-s-new-update-installer.md
+      - name: User interface changes
+        href: ..\what-s-new-user-interface-changes.md
+      - name: Visual Studio Tools for Developers
+        href: ..\what-s-new-visual-studio-tools-for-developers-in-microsoft-dynamics-ax-2012.md
+      - name: Warehouse management features
+        href: ..\what-s-new-warehouse-management-features.md
+      - name: Workflow features
+        href: ..\what-s-new-workflow-features.md
+      - name: X++ for Developers
+        href: ..\what-s-new-x-for-developers-in-microsoft-dynamics-ax-2012.md
+    - name: "What's new: Companion apps for Microsoft Dynamics AX 2012"
+      href: ..\what-s-new-companion-apps-for-microsoft-dynamics-ax-2012.md
+      items:
+      - name: Microsoft Dynamics AX 2012 Mobile app
+        href: ..\what-s-new-microsoft-dynamics-ax-2012-mobile-app.md
+      - name: Microsoft Dynamics AX 2012 Expenses  Windows 8 App
+        href: ..\what-s-new-microsoft-dynamics-ax-2012-expenses-windows-8-app.md
+      - name: Microsoft Dynamics AX 2012 Timesheets Windows 8 App
+        href: ..\what-s-new-microsoft-dynamics-ax-2012-timesheets-windows-8-app.md
+      - name: Microsoft Dynamics AX 2012 Approvals Windows 8 App
+        href: ..\what-s-new-microsoft-dynamics-ax-2012-approvals-windows-8-app.md
+      - name: Microsoft Dynamics Business Analyzer Windows 8 App
+        href: ..\what-s-new-microsoft-dynamics-business-analyzer-windows-8-app.md
+      - name: Microsoft Dynamics Business Analyzer Windows Phone App
+        href: ..\what-s-new-microsoft-dynamics-business-analyzer-windows-phone-app.md
+      - name: Microsoft Dynamics AX 2012 Production Floor App
+        href: ..\microsoft-dynamics-ax-2012-production-floor-app.md
+    - name: "What's new: Tools and services that support Microsoft Dynamics AX 2012"
+      href: ..\what-s-new-tools-and-services-that-support-microsoft-dynamics-ax-2012.md
+      items:
+      - name: AxBuild.exe for faster X++ compiles on AOS
+        href: ..\what-s-new-axbuild-exe-for-faster-x-compiles-on-aos.md
+      - name: AxErd tool for discovery of table relationships
+        href: ..\what-s-new-axerd-tool-for-discovery-of-table-relationships.md
+      - name: Code Upgrade Service for Microsoft Dynamics AX
+        href: ..\what-s-new-code-upgrade-service-for-microsoft-dynamics-ax.md
+      - name: Combine XPO Tool for Microsoft Dynamics AX
+        href: ..\what-s-new-combine-xpo-tool-for-microsoft-dynamics-ax.md
+      - name: Data Import/Export Framework for Microsoft Dynamics AX 2012
+        href: ..\what-s-new-data-import-export-framework-for-microsoft-dynamics-ax-2012.md
+      - name: Microsoft Dynamics AX Intelligent Data Management Framework
+        href: ..\what-s-new-microsoft-dynamics-ax-intelligent-data-management-framework.md
+      - name: "What's new: Lifecycle Services for Microsoft Dynamics"
+        href: ..\what-s-new-lifecycle-services-for-microsoft-dynamics.md
+      - name: Management Packs for Microsoft Dynamics AX 2012
+        href: ..\what-s-new-system-center-operations-manager-management-packs-for-microsoft-dynamics-ax-2012.md
+      - name: Management Reporter for Microsoft Dynamics
+        href: ..\what-s-new-management-reporter-for-microsoft-dynamics.md
+      - name: Microsoft Dynamics ERP RapidStart Services
+        href: ..\what-s-new-in-microsoft-dynamics-erp-rapidstart-services.md
+      - name: Performance Benchmark Software Development Toolkit (SDK) for Microsoft Dynamics AX 2012
+        href: ..\what-s-new-performance-benchmark-software-development-toolkit-sdk-for-microsoft-dynamics-ax-2012.md
+      - name: Security Development Tool for Microsoft Dynamics AX
+        href: ..\what-s-new-security-development-tool-for-microsoft-dynamics-ax.md
+      - name: Security Upgrade Advisor Tool for Microsoft Dynamics AX
+        href: ..\what-s-new-security-upgrade-advisor-tool-for-microsoft-dynamics-ax.md
+      - name: Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012
+        href: ..\what-s-new-test-data-transfer-tool-beta-for-microsoft-dynamics-ax-2012.md
+      - name: WebSearchAX
+        href: ..\what-s-new-websearchax.md
+    - name: Deprecated features
+      href: ..\deprecated-features.md
+      items:
+      - name: Country/region-specific deprecated features
+        href: ..\country-region-specific-deprecated-features.md
+        items:
+        - name: Country/region configuration keys
+          href: ..\deprecated-country-region-configuration-keys.md
+        - name: (BEL) EU sales list transfer
+          href: ..\deprecated-bel-eu-sales-list-transfer.md
+        - name: (BRA) CNPJ or CPF validation by using categories
+          href: ..\deprecated-bra-cnpj-or-cpf-validation-by-using-categories.md
+        - name: (BRA) Complementary fiscal documents from free text invoices and purchase orders
+          href: ..\deprecated-bra-complementary-fiscal-documents-from-free-text-invoices-and-purchase-orders.md
+        - name: (BRA) Enable Brazilian features
+          href: ..\deprecated-bra-special-parameter-to-enable-brazilian-features.md
+        - name: (BRA) Enable NF-e (Federal)
+          href: ..\deprecated-bra-special-parameter-to-enable-nf-e-federal.md
+        - name: (BRA) Fiscal document type used for received fiscal documents
+          href: ..\deprecated-bra-fiscal-document-type-used-for-received-fiscal-documents.md
+        - name: (BRA) FiscalDocJour_BR and related tables
+          href: ..\deprecated-bra-fiscaldocjour-br-and-related-tables.md
+        - name: (BRA) Fuel code
+          href: ..\deprecated-bra-fuel-code.md
+        - name: (BRA) Generate the ICMS 1/48 fixed asset credit fiscal document from purchase orders
+          href: ..\deprecated-bra-generate-the-icms-1-48-fixed-asset-credit-fiscal-document-from-purchase-orders.md
+        - name: (BRA) Holiday calendar
+          href: ..\deprecated-bra-holiday-calendar.md
+        - name: (BRA) In-transit warehouse at operation type
+          href: ..\deprecated-bra-in-transit-warehouse-at-operation-type.md
+        - name: (BRA) Ledger post and Create remittance at operation type
+          href: ..\deprecated-bra-ledger-post-and-create-remittance-at-operation-type.md
+        - name: (BRA) Purchase and sales fiscal document manual entry
+          href: ..\deprecated-bra-purchase-and-sales-fiscal-document-manual-entry.md
+        - name: (BRA) Sales and receipt texts
+          href: ..\deprecated-bra-sales-and-receipt-texts.md
+        - name: (BRA) Sales and purchase operation types
+          href: ..\deprecated-bra-sales-and-purchase-operation-types.md
+        - name: (BRA) Taxes, taxation codes, and fiscal values on order lines
+          href: ..\deprecated-bra-taxes-taxation-codes-and-fiscal-values-on-order-lines.md
+        - name: (BRA) Type of establishment
+          href: ..\deprecated-bra-type-of-establishment.md
+        - name: (CHN) Accounting period name
+          href: ..\deprecated-chn-accounting-period-name.md
+        - name: (CHN) Bank reconciliation
+          href: ..\deprecated-chn-bank-reconciliation.md
+        - name: (CHN) Country-specific localization format for Contact name
+          href: ..\deprecated-chn-country-specific-localization-format-for-contact-name.md
+        - name: (CHN) GB/T19581 export accounting data standard
+          href: ..\deprecated-chn-gb-t19581-export-accounting-data-standard.md
+        - name: (DEU) Import account statements in the MT940 format
+          href: ..\deprecated-deu-import-account-statements-in-the-mt940-format.md
+        - name: (EEUR) Eastern European EU sales list reports
+          href: ..\deprecated-eeur-eastern-european-eu-sales-list-reports.md
+        - name: (EEUR) Eastern Europe Intrastat reports
+          href: ..\deprecated-eeur-eastern-europe-intrastat-reports.md
+        - name: (HUN) Import bank account statements in MT940
+          href: ..\deprecated-hun-import-bank-account-statements-in-mt940.md
+        - name: (IND) Deprecation of TDS certificates (Form 16A)
+          href: ..\deprecated-ind-deprecation-of-tds-certificates-form-16a.md
+        - name: (IND) Duty Entitlement Pass Book (DEPB)
+          href: ..\deprecated-ind-duty-entitlement-pass-book-depb.md
+        - name: (IND) Miscellaneous charge load on inventory percentage
+          href: ..\deprecated-ind-miscellaneous-charge-load-on-inventory-percentage.md
+        - name: (IND) Per invoice option in miscellaneous charges allocation
+          href: ..\deprecated-ind-per-invoice-option-in-miscellaneous-charges-allocation.md
+        - name: (IND) Percent exempt replaces load on inventory
+          href: ..\deprecated-ind-percent-exempt-replaces-load-on-inventory.md
+        - name: (IND) Removal of 'Exceed threshold limit'  from Direct Tax parameters
+          href: ..\deprecated-ind-removal-of-exceed-threshold-limit-from-direct-tax-parameters.md
+        - name: (IND) Tax adjustment for Direct Tax (TDS/TCS)
+          href: ..\deprecated-ind-tax-adjustment-for-direct-tax-tds-tcs.md
+        - name: (JPN) Bill of exchange
+          href: ..\deprecated-jpn-bill-of-exchange.md
+        - name: (JPN) Payment calendar
+          href: ..\deprecated-jpn-payment-calendar.md
+        - name: (JPN) T-account
+          href: ..\deprecated-jpn-t-account.md
+        - name: (LVA) Fixed asset tax report
+          href: ..\deprecated-lva-fixed-asset-tax-report.md
+        - name: (LVA) Latvian tax exempt numbers
+          href: ..\deprecated-lva-latvian-tax-exempt-numbers.md
+        - name: (LVA) State invoice numbering
+          href: ..\deprecated-lva-state-invoice-numbering.md
+        - name: (LVA) Verification of voucher numbers
+          href: ..\deprecated-lva-verification-of-voucher-numbers.md
+        - name: (NLD) Import account statements in the MT940 format
+          href: ..\deprecated-nld-import-account-statements-in-the-mt940-format.md
+        - name: (POL) Dates of holidays
+          href: ..\deprecated-pol-dates-of-holidays.md
+        - name: (POL) Polish bank transfer printout
+          href: ..\deprecated-pol-polish-bank-transfer-printout.md
+        - name: (POL) Polish coloration of chart of account lines
+          href: ..\deprecated-pol-polish-coloration-of-chart-of-account-lines.md
+        - name: (POL) Polish safe valuation rule
+          href: ..\deprecated-pol-polish-safe-valuation-rule.md
+        - name: (RUS) Balance turnover statements
+          href: ..\deprecated-rus-balance-turnover-statements.md
+        - name: (RUS) Contracts
+          href: ..\deprecated-rus-contracts.md
+        - name: (RUS) Cumulative discounts feature for Retail
+          href: ..\deprecated-rus-cumulative-discounts-feature-for-retail.md
+        - name: (RUS) Exchange rates import
+          href: ..\deprecated-rus-exchange-rates-import.md
+        - name: (RUS) Financial report validation report
+          href: ..\deprecated-rus-financial-report-validation-report.md
+        - name: (RUS) Inventory balance turnover report
+          href: ..\deprecated-rus-inventory-balance-turnover-report.md
+        - name: (RUS) Production journal lines, by-product report
+          href: ..\deprecated-rus-production-journal-lines-by-product-report.md
+        - name: (RUS) VAT reports
+          href: ..\deprecated-rus-vat-reports.md
+        - name: (THA) Manage realized and unrealized VAT
+          href: ..\deprecated-tha-manage-realized-and-unrealized-vat.md
+        - name: (THA) Sales tax payment features
+          href: ..\deprecated-tha-sales-tax-payment-features.md
+      - name: Add Service Reference in the MorphX AOT
+        href: ..\deprecated-add-service-reference-in-the-morphx-aot.md
+      - name: AIF endpoints
+        href: ..\deprecated-aif-endpoints.md
+      - name: AOD files
+        href: ..\deprecated-aod-files.md
+      - name: Application Analysis Tool
+        href: ..\deprecated-application-analysis-tool.md
+      - name: Application Hierarchy Tree (AHT)
+        href: ..\deprecated-application-hierarchy-tree-aht.md
+      - name: Approval and spending limits
+        href: ..\deprecated-approval-and-spending-limits.md
+      - name: BizTalk Adapter for Microsoft Dynamics AX
+        href: ..\deprecated-biztalk-adapter-for-microsoft-dynamics-ax.md
+      - name: Blanket orders
+        href: ..\deprecated-blanket-orders.md
+      - name: BOM item type BOM
+        href: ..\deprecated-support-for-bom-item-type-bom.md
+      - name: .chm Help files
+        href: ..\deprecated-chm-help-files.md
+      - name: Client-side batch framework
+        href: ..\deprecated-client-side-batch-framework.md
+      - name: Code Explorer Tool
+        href: ..\deprecated-code-explorer-tool.md
+      - name: 'Commerce Data Exchange: Synch Service'
+        href: ..\deprecated-commerce-data-exchange-synch-service.md
+      - name: Commerce Services
+        href: ..\deprecated-commerce-services.md
+      - name: Compare request for quote replies form
+        href: ..\deprecated-compare-request-for-quote-replies-form.md
+      - name: Configurable item check box
+        href: ..\deprecated-configurable-item-check-box.md
+      - name: CRM document handling
+        href: ..\deprecated-crm-document-handling.md
+      - name: Custom date-effective functionality for Human resources forms
+        href: ..\deprecated-custom-date-effective-functionality-for-human-resources-forms.md
+      - name: Data Crawler
+        href: ..\deprecated-data-crawler.md
+      - name: Default posting level attribute
+        href: ..\deprecated-default-posting-level-attribute.md
+      - name: Department hierarchy control
+        href: ..\deprecated-department-hierarchy-control.md
+      - name: Diagnostic Framework for Microsoft Dynamics AX
+        href: ..\deprecated-diagnostic-framework-for-microsoft-dynamics-ax.md
+      - name: Duplicate company feature
+        href: ..\deprecated-duplicate-company-feature.md
+      - name: DynamicsAXGeneralLedger class members
+        href: ..\deprecated-dynamicsaxgeneralledger-class-members.md
+      - name: Edit dimensions form
+        href: ..\deprecated-edit-dimensions-form.md
+      - name: Employees that have a type of Work Center
+        href: ..\deprecated-employees-that-have-a-type-of-work-center.md
+      - name: EPBookkeeperRoleCenter
+        href: ..\deprecated-epbookkeeperrolecenter.md
+      - name: ExchangeRates table and form
+        href: ..\deprecated-exchangerates-table-and-form.md
+      - name: Fill Utility
+        href: ..\deprecated-fill-utility.md
+      - name: Human resources tab in Enterprise Portal
+        href: ..\deprecated-human-resources-tab-in-enterprise-portal.md
+      - name: Item dimension group
+        href: ..\deprecated-item-dimension-group.md
+      - name: Ledger budget form and table
+        href: ..\deprecated-ledger-budget-form-and-table.md
+      - name: LedgerPeriod form and table
+        href: ..\deprecated-ledgerperiod-form-and-table.md
+      - name: LedgerTable form and table
+        href: ..\deprecated-ledgertable-form-and-table.md
+      - name: LedgerTrans table
+        href: ..\deprecated-ledgertrans-table.md
+      - name: Management Statistics
+        href: ..\deprecated-management-statistics.md
+      - name: Microsoft Business Solutions Perimeter Network Configuration Wizard
+        href: ..\deprecated-microsoft-business-solutions-perimeter-network-configuration-wizard.md
+      - name: Microsoft Dynamics AX 2009 benefits setup forms
+        href: ..\deprecated-microsoft-dynamics-ax-2009-benefits-setup-forms.md
+      - name: Microsoft Dynamics AX 2009 reports
+        href: ..\deprecated-microsoft-dynamics-ax-2009-reports.md
+      - name: Microsoft Dynamics AX domains
+        href: ..\deprecated-microsoft-dynamics-ax-domains.md
+      - name: Microsoft Dynamics AX Quarantine management
+        href: ..\deprecated-microsoft-dynamics-ax-quarantine-management.md
+      - name: Microsoft Dynamics AX Warehouse Management II
+        href: ..\deprecated-microsoft-dynamics-ax-warehouse-management-ii.md
+      - name: Multisite activation wizard
+        href: ..\deprecated-multisite-activation-wizard.md
+      - name: Oracle database support
+        href: ..\deprecated-oracle-database-support.md
+      - name: Payment services using Authorize.net
+        href: ..\deprecated-payment-services-using-authorize-net.md
+      - name: Print from AOT and Editor
+        href: ..\deprecated-print-from-aot-and-editor.md
+      - name: Product builder
+        href: ..\deprecated-product-builder.md
+      - name: Product group for procurement
+        href: ..\deprecated-product-group-for-procurement.md
+      - name: Project Server integration
+        href: ..\deprecated-project-server-integration.md
+      - name: Purchase order subscription
+        href: ..\deprecated-purchase-order-subscription.md
+      - name: Purchase requisition clean up
+        href: ..\deprecated-purchase-requisition-clean-up.md
+      - name: Purchase requisition parameters
+        href: ..\deprecated-purchase-requisition-parameters.md
+      - name: Record-level security
+        href: ..\deprecated-record-level-security.md
+      - name: Reporting Project
+        href: ..\deprecated-reporting-projects-for-modifying-moxl-files.md
+      - name: Reporting Tools and Microsoft Dynamics AX Enterprise Portal Tools
+        href: ..\deprecated-reporting-tools-and-microsoft-dynamics-ax-enterprise-portal-tools.md
+      - name: RunBase
+        href: ..\deprecated-support-for-runbase-framework.md
+      - name: Sales shipment
+        href: ..\deprecated-sales-shipment.md
+      - name: Security keys and related APIs
+        href: ..\deprecated-security-keys-and-related-apis.md
+      - name: Setup parameters
+        href: ..\deprecated-setup-parameters.md
+      - name: Shipping carrier interface
+        href: ..\deprecated-shipping-carrier-interface.md
+      - name: Split layer functionality in the AOT
+        href: ..\deprecated-split-layer-functionality-in-the-aot.md
+      - name: SQL Server Report Builder integration with Microsoft Dynamics AX report models
+        href: ..\deprecated-sql-server-report-builder-integration-with-microsoft-dynamics-ax-report-models.md
+      - name: Support for deleting personal information (employee and applicant)
+        href: ..\deprecated-support-for-deleting-personal-information-employee-and-applicant.md
+      - name: TAPI integration
+        href: ..\deprecated-tapi-integration.md
+      - name: Task groups
+        href: ..\deprecated-task-groups.md
+      - name: Team Server
+        href: ..\deprecated-team-server.md
+      - name: Telemarketing
+        href: ..\deprecated-telemarketing.md
+      - name: Traditional financial statements
+        href: ..\deprecated-traditional-financial-statements.md
+      - name: Transaction log
+        href: ..\deprecated-transaction-log.md
+      - name: Unsupported platforms for Microsoft Dynamics AX 2012
+        href: ..\deprecated-unsupported-platforms-for-microsoft-dynamics-ax-2012.md
+      - name: Visio Export for reporting relationships, locations, and organizational structure views
+        href: ..\deprecated-visio-export-for-reporting-relationships-locations-and-organizational-structure-views.md
+      - name: Visual SourceSafe
+        href: ..\deprecated-support-for-visual-sourcesafe.md
+      - name: X++ editor
+        href: ..\deprecated-x-editor.md
+      - name: X++ index hint clause
+        href: ..\deprecated-x-index-hint-clause.md
+      - name: X++ Reporting Framework
+        href: ..\deprecated-x-reporting-framework.md
+      - name: X++ Workflow API
+        href: ..\deprecated-x-workflow-api.md
+  - name: System administrators
+    href: ..\system-administrators.md
+    items: []
+  - name: Application users
+    href: ..\app-user\application-users.md
+    items: []
+  - name: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
+    href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs
+    items: []
+  - name: Resources for Microsoft Dynamics AX 2012
+    href: ..\resources-for-microsoft-dynamics-ax-2012.md
+    items: []
+  - name: Microsoft Dynamics AX glossary
+    href: ..\glossary\microsoft-dynamics-ax-glossary.md
+    items: []
