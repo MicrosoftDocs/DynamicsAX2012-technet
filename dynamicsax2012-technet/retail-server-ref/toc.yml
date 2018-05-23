@@ -2,7 +2,7 @@
   href: ..\microsoft-dynamics-ax-2012-technical-library.md
   items:
   - name: New, Changed, and Deprecated Features for AX 2012
-    href: ..\new-changed-and-deprecated-features-for-ax-2012.md
+    href: ..\ncdf\toc.yml
     items: []
   - name: System administrators
     href: ..\system-administrators.md
@@ -1864,7 +1864,7 @@
       href: ..\microsoft-dynamics-ax-operations.md
       items: []
   - name: Application users
-    href: ..\application-users.md
+    href: ..\app-user\toc.yml
     items: []
   - name: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
     href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs
@@ -1873,5 +1873,5 @@
     href: ..\resources-for-microsoft-dynamics-ax-2012.md
     items: []
   - name: Microsoft Dynamics AX glossary
-    href: ..\microsoft-dynamics-ax-glossary.md
+    href: ..\glossary\toc.yml
     items: []
