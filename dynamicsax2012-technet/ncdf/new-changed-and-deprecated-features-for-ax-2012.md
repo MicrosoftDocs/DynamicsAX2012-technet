@@ -21,19 +21,19 @@ You can download the [New, Changed, and Deprecated Features book](http://www.mic
 
 The information in the library is structured as follows:
 
-  - What’s new – Topics in the What’s new section describe new and changed features that are included in AX 2012, AX 2012 Feature Pack, AX 2012 R2, and AX 2012 R3 releases. Some What’s new topics are focused on all the features that have been added to a specific module. For example, the [What's new: Accounts payable features](what-s-new-accounts-payable-features.md) topic includes a list of new and changed features in the **Accounts payable** module in AX 2012 releases. Other topics provide detailed information about key features that are included in AX 2012 releases. For example, the [What's new: Role-based security](what-s-new-role-based-security.md) topic provides details about the new role-based security framework for AX 2012.
+  - What’s new – Topics in the What’s new section describe new and changed features that are included in AX 2012, AX 2012 Feature Pack, AX 2012 R2, and AX 2012 R3 releases. Some What’s new topics are focused on all the features that have been added to a specific module. For example, the [What's new: Accounts payable features](../what-s-new-accounts-payable-features.md) topic includes a list of new and changed features in the **Accounts payable** module in AX 2012 releases. Other topics provide detailed information about key features that are included in AX 2012 releases. For example, the [What's new: Role-based security](../what-s-new-role-based-security.md) topic provides details about the new role-based security framework for AX 2012.
 
   - Deprecated features – Topics in the deprecated features section provide details about the features that have been removed from the application in this version, or that are planned for removal in subsequent versions.
 
 You can also view a list of all relevant What’s new topics for a specific user audience by accessing the audience-specific What’s new landing pages:
 
-  - [What's new for system administrators](what-s-new-for-system-administrators.md)
+  - [What's new for system administrators](../what-s-new-for-system-administrators.md)
 
-  - [What's new for developers](what-s-new-for-developers.md)
+  - [What's new for developers](../what-s-new-for-developers.md)
 
-  - [What's new for application users](what-s-new-for-application-users.md)
+  - [What's new for application users](../what-s-new-for-application-users.md)
 
-Users who are interested in country/region-specific features that are introduced in AX 2012 R2 and AX 2012 R3can see the [What's new: Country/region specific features](what-s-new-country-region-specific-features.md) topic to view a list of country/region-specific What’s new topics.
+Users who are interested in country/region-specific features that are introduced in AX 2012 R2 and AX 2012 R3can see the [What's new: Country/region specific features](../what-s-new-country-region-specific-features.md) topic to view a list of country/region-specific What’s new topics.
 
 ## More information
 
