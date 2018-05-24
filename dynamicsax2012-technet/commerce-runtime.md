@@ -35,7 +35,7 @@ On top of the services layer is the workflow layer. A workflow is a collection o
 
 ### ![JJ916620.collapse\_all(en-us,AX.60).gif](images/Gg841655.collapse_all(en-us,AX.60).gif "JJ916620.collapse_all(en-us,AX.60).gif")Application Programming Interface (API)
 
-On top of the workflow layer is the API layer. You can use the API for things like getting information about items, price calculation, shipping calculation, and placing orders. You can extend the API to fit your business processes. For more information, see the [.NET Framework Classes for Microsoft Dynamics AX Commerce Runtime](crt-ref/net-framework-classes-for-microsoft-dynamics-ax-commerce-runtime.md) reference documentation.
+On top of the workflow layer is the API layer. You can use the API for things like getting information about items, price calculation, shipping calculation, and placing orders. You can extend the API to fit your business processes. For more information, see the [.NET Framework Classes for Microsoft Dynamics AX Commerce Runtime](net-framework-classes-for-microsoft-dynamics-ax-commerce-runtime.md) reference documentation.
 
 ## See also
 
