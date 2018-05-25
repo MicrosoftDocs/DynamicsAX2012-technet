@@ -47,7 +47,7 @@ To start working with Microsoft Dynamics AX 2012, review the following resources
 <tr class="odd">
 <td><p>1. Evaluate Microsoft Dynamics AX.</p></td>
 <td><ul>
-<li><p><a href="new-changed-and-deprecated-features-for-ax-2012.md">New, Changed, and Deprecated Features for AX 2012</a></p></li>
+<li><p><a href="../ncdf/new-changed-and-deprecated-features-for-ax-2012.md">New, Changed, and Deprecated Features for AX 2012</a></p></li>
 <li><p><a href="http://go.microsoft.com/fwlink/?linkid=165377">System requirements</a></p></li>
 </ul></td>
 </tr>

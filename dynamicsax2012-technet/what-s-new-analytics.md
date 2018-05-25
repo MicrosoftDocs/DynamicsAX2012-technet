@@ -28,7 +28,7 @@ This article describes the new features for online analytical processing (OLAP) 
 <p>New features in Microsoft Dynamics AX 2012 R2</p>
 <p>New features in Microsoft Dynamics AX 2012</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
-<p><a href="new-changed-and-deprecated-features-for-ax-2012.md">New, Changed, and Deprecated Features for AX 2012</a> (articles)</p>
+<p><a href="../ncdf/new-changed-and-deprecated-features-for-ax-2012.md">New, Changed, and Deprecated Features for AX 2012</a> (articles)</p>
 <p><a href="what-s-new-reporting.md">What's new: Reporting</a> (article)</p></td>
 </tr>
 </tbody>

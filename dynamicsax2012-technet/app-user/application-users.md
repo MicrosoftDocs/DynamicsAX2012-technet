@@ -19,7 +19,7 @@ Welcome to the Microsoft Dynamics AX 2012 Application User Library.
 
 To get started with Microsoft Dynamics AX, review the following resources in this library.
 
-[Introduction to Microsoft Dynamics AX 2012](../../introduction-to-microsoft-dynamics-ax-2012.md)
+[Introduction to Microsoft Dynamics AX 2012](../introduction-to-microsoft-dynamics-ax-2012.md)
 
 [About Help in Microsoft Dynamics AX](../about-help-in-microsoft-dynamics-ax.md)
 

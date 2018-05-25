@@ -14514,7 +14514,7 @@
     - name: Developer forms
       href: ..\microsoft-dynamics-ax-developer-forms.md
   - name: Technical reference
-    href: technical-reference.md
+    href: ..\technical-reference.md
     items:
     - name: Setup parameters reference
       href: ..\setup-parameters-reference.md
@@ -17341,7 +17341,7 @@
   - name: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
     href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs
   - name: Resources for Microsoft Dynamics AX 2012
-    href: resources-for-microsoft-dynamics-ax-2012.md
+    href: ..\resources-for-microsoft-dynamics-ax-2012.md
     items:
     - name: Find support
       href: ..\find-support-for-microsoft-dynamics-ax-and-microsoft-dynamics-lifecycle-services.md
