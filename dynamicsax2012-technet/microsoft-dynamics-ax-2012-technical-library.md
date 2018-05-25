@@ -86,7 +86,7 @@ To start working with Microsoft Dynamics AX 2012, review the following resources
 <tr class="odd">
 <td><p>5. Use Microsoft Dynamics AX.</p></td>
 <td><ul>
-<li><p><a href="application-users.md">Application users</a></p></li>
+<li><p><a href="app-user/application-users.md">Application users</a></p></li>
 </ul></td>
 </tr>
 <tr class="even">

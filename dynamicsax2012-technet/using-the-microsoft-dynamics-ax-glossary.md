@@ -19,7 +19,7 @@ The Microsoft Dynamics AX glossary defines key terms and concepts in the Microso
 
   - To view a glossary term entry, enter a search term in the **Search** field, or click CTRL+E. To limit your search and search results to only glossary entries, select **Glossary** in the **Options** drop-down list.
 
-  - To view the complete list of glossary term entries, click [Microsoft Dynamics AX glossary](microsoft-dynamics-ax-glossary.md).
+  - To view the complete list of glossary term entries, click [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md).
 
   
 **Announcements:** New book: "Inside Microsoft Dynamics AX 2012 R3" now available. Get your copy at the [MS Press Store](https://www.microsoftpressstore.com/store/inside-microsoft-dynamics-ax-2012-r3-9780735685109).
