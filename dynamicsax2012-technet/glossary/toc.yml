@@ -1,6 +1,5 @@
-  - name: Microsoft Dynamics AX glossary overview
-    href: microsoft-dynamics-ax-glossary.md
-    items:
+    - name: Microsoft Dynamics AX glossary overview
+      href: microsoft-dynamics-ax-glossary.md
     - name: Numbers and symbols
       href: ..\numbers-and-symbols.md
       items:
