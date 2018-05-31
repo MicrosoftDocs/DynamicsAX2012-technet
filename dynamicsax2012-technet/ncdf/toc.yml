@@ -1,6 +1,3 @@
-- name: Microsoft Dynamics AX 2012
-  href: ..\microsoft-dynamics-ax-2012-technical-library.md
-  items:
   - name: New, Changed, and Deprecated Features for AX 2012
     href: new-changed-and-deprecated-features-for-ax-2012.md
     items: 
@@ -530,18 +527,3 @@
         href: ..\deprecated-x-reporting-framework.md
       - name: X++ Workflow API
         href: ..\deprecated-x-workflow-api.md
-  - name: System administrators
-    href: ..\system-administrators.md
-    items: []
-  - name: Application users
-    href: ..\app-user\applications-users.md
-    items: []
-  - name: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
-    href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs
-    items: []
-  - name: Resources for Microsoft Dynamics AX 2012
-    href: ..\resources-for-microsoft-dynamics-ax-2012.md
-    items: []
-  - name: Microsoft Dynamics AX glossary
-    href: ..\glossary\microsoft-dynamics-ax-glossary.md
-    items: []
