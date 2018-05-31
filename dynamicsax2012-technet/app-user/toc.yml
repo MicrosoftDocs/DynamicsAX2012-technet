@@ -8,7 +8,8 @@
     href: ..\system-administrators.md
     items: []
   - name: Application users
-      href: application-users.md
+    href: application-users.md
+    items: 
     - name: Introduction to Microsoft Dynamics AX 2012
       href: ..\introduction-to-microsoft-dynamics-ax-2012.md
       items:
