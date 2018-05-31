@@ -7,7 +7,7 @@
   - name: System administrators
     href: ..\system-administrators.md
     items: []
-    - name: Application users
+  - name: Application users
     href: ..\app-user\toc.yml
     items: []
   - name: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
