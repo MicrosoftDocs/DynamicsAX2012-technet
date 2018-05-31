@@ -17,7 +17,8 @@
     href: ..\resources-for-microsoft-dynamics-ax-2012.md
     items: []  
   - name: Microsoft Dynamics AX glossary
-      href: microsoft-dynamics-ax-glossary.md
+    href: microsoft-dynamics-ax-glossary.md
+    items: 
     - name: Numbers and symbols
       href: ..\numbers-and-symbols.md
       items:
