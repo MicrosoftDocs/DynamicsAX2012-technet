@@ -2,7 +2,7 @@
   href: ..\microsoft-dynamics-ax-2012-technical-library.md
   items:
   - name: New, Changed, and Deprecated Features for AX 2012
-    href: ..\ncdf\toc.yml
+    href: ..\ncdf\new-changed-and-deprecated-features-for-ax-2012.md
     items: []
   - name: System administrators
     href: ..\system-administrators.md
