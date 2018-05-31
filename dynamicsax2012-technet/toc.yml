@@ -4453,7 +4453,7 @@
           - name: 'Walkthrough: Adding an Image to Product Search Results'
             href: walkthrough-adding-an-image-to-product-search-results.md
           - name: Point of Sale Reference
-            href: retail/pos-ref/toc.yml
+            href: retail-pos-ref/toc.yml
       - name: Retail Modern Point of Sale
         href: retail-modern-point-of-sale.md
         items:
