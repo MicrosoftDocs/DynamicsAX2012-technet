@@ -1,6 +1,5 @@
-  - name: New, Changed, and Deprecated Features for AX 2012
-    href: new-changed-and-deprecated-features-for-ax-2012.md
-    items: 
+    - name: Overview of the New, Changed, and Deprecated Features in AX 2012
+      href: new-changed-and-deprecated-features-for-ax-2012.md
     - name: What's new in Microsoft Dynamics AX 2012
       href: ..\what-s-new-in-microsoft-dynamics-ax-2012.md
       items:

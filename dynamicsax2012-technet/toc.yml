@@ -2,7 +2,7 @@
   href: microsoft-dynamics-ax-2012-technical-library.md
   items:
   - name: New, Changed, and Deprecated Features for AX 2012
-    href: ncdf/new-changed-and-deprecated-features-for-ax-2012.md
+    href: ncdf/toc.yml
   - name: System administrators
     href: system-administrators.md
     items:
@@ -4378,7 +4378,7 @@
         - name: 'Walkthrough: Adding Properties to a Sales Order'
           href: walkthrough-adding-properties-to-a-sales-order.md
         - name: Retail online sample store reference
-          href: retail-store-ref\toc.yml
+          href: retail-store-ref\net-framework-classes-for-microsoft-dynamics-ax-retail-online-sample-store.md
         - name: Troubleshoot installation issues for a Retail online store
           href: troubleshoot-installation-issues-for-a-retail-online-store.md
       - name: Point of Sale
@@ -4453,7 +4453,7 @@
           - name: 'Walkthrough: Adding an Image to Product Search Results'
             href: walkthrough-adding-an-image-to-product-search-results.md
           - name: Point of Sale Reference
-            href: retail-pos-ref/toc.yml
+            href: retail-pos-ref/net-framework-classes-for-microsoft-dynamics-ax-point-of-sale.md
       - name: Retail Modern Point of Sale
         href: retail-modern-point-of-sale.md
         items:
@@ -4626,7 +4626,7 @@
         - name: 'Walkthrough: Extending the CRT'
           href: walkthrough-extending-the-crt-to-add-customer-preference-data-for-retail-clients.md
         - name: Commerce Runtime Reference
-          href: crt-ref/toc.yml          
+          href: crt-ref/net-framework-classes-for-microsoft-dynamics-ax-commerce-runtime.md         
       - name: Retail Hardware Station
         href: microsoft-dynamics-ax-retail-hardware-station.md
         items:
@@ -4650,7 +4650,7 @@
         - name: Use Web API and OData controllers together
           href: use-web-api-and-odata-controllers-together.md
         - name: Retail Server reference
-          href: retail-server-ref/toc.yml
+          href: retail-server-ref/net-framework-classes-for-microsoft-dynamics-ax-retail-server.md
       - name: Retail Salt Utility
         href: retail-salt-utility.md
       - name: Retail SDK

@@ -1,18 +1,3 @@
-      - name: Commerce Runtime
-        href: ..\commerce-runtime.md
-        items:
-        - name: Services Overview
-          href: ..\services-overview-for-commerce-runtime.md
-        - name: Customize the Data in a Commerce Entity
-          href: ..\customize-the-data-in-a-commerce-entity.md
-        - name: Integrate a Service into the Commerce Runtime
-          href: ..\integrate-a-service-into-the-commerce-runtime.md
-        - name: Create Commerce Runtime Workflows
-          href: ..\create-commerce-runtime-workflows.md
-        - name: 'Walkthrough: Integrating a new Shipping Service'
-          href: ..\walkthrough-integrating-a-new-shipping-service.md
-        - name: 'Walkthrough: Extending the CRT'
-          href: ..\walkthrough-extending-the-crt-to-add-customer-preference-data-for-retail-clients.md
         - name: Commerce Runtime Reference
           href: net-framework-classes-for-microsoft-dynamics-ax-commerce-runtime.md
           items:
