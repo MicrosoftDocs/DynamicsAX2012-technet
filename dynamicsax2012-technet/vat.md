@@ -20,7 +20,7 @@ A tax on products at each stage of their production based on the value added dur
 
 [tax](tax.md)
 
-[Microsoft Dynamics AX glossary](microsoft-dynamics-ax-glossary.md)
+[Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
 **Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).

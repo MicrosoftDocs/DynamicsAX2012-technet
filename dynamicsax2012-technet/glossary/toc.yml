@@ -1,0 +1,1765 @@
+    - name: Microsoft Dynamics AX glossary
+      href: microsoft-dynamics-ax-glossary.md
+    - name: Numbers and symbols
+      href: ..\numbers-and-symbols.md
+      items:
+      - name: 3PL
+        href: ..\3pl.md
+    - name: A
+      href: ..\a.md
+      items:
+      - name: ABC classification
+        href: ..\abc-classification.md
+      - name: ABC code
+        href: ..\abc-code.md
+      - name: ABC code for carrying cost classification
+        href: ..\abc-code-for-carrying-cost-classification.md
+      - name: ABC code for contribution margin
+        href: ..\abc-code-for-contribution-margin.md
+      - name: ABC code for revenue
+        href: ..\abc-code-for-revenue.md
+      - name: abend
+        href: ..\abend.md
+      - name: account
+        href: ..\account.md
+      - name: account balance
+        href: ..\account-balance.md
+      - name: account entry
+        href: ..\account-entry.md
+      - name: account reconciliation
+        href: ..\account-reconciliation.md
+      - name: account rule
+        href: ..\account-rule.md
+      - name: account structure
+        href: ..\account-structure.md
+      - name: accounting
+        href: ..\accounting.md
+      - name: accounting category
+        href: ..\accounting-category.md
+      - name: accounting currency
+        href: ..\accounting-currency.md
+      - name: accounting currency unit
+        href: ..\accounting-currency-unit.md
+      - name: accounting cycle
+        href: ..\accounting-cycle.md
+      - name: accounting distribution
+        href: ..\accounting-distribution.md
+      - name: accounting distribution line
+        href: ..\accounting-distribution-line.md
+      - name: accounting entity
+        href: ..\accounting-entity.md
+      - name: accounting event
+        href: ..\accounting-event.md
+      - name: accounting event liquidity classification
+        href: ..\accounting-event-liquidity-classification.md
+      - name: accounting journal
+        href: ..\accounting-journal.md
+      - name: accounting journal entry
+        href: ..\accounting-journal-entry.md
+      - name: accounting policy
+        href: ..\accounting-policy.md
+      - name: accounting rule
+        href: ..\accounting-rule.md
+      - name: accounts payable
+        href: ..\accounts-payable_1.md
+      - name: accounts receivable
+        href: ..\accounts-receivable_1.md
+      - name: accrual accounting
+        href: ..\accrual-accounting.md
+      - name: accrued revenue
+        href: ..\accrued-revenue.md
+      - name: ACH
+        href: ..\ach.md
+      - name: acquisition date
+        href: ..\acquisition-date.md
+      - name: action
+        href: ..\action.md
+      - name: active ingredient
+        href: ..\active-ingredient.md
+      - name: activity
+        href: ..\activity.md
+      - name: activity log
+        href: ..\activity-log.md
+      - name: activity occurrence
+        href: ..\activity-occurrence.md
+      - name: actual cost
+        href: ..\actual-cost.md
+      - name: actual demand
+        href: ..\actual-demand.md
+      - name: actual quantity
+        href: ..\actual-quantity.md
+      - name: ad hoc report
+        href: ..\ad-hoc-report.md
+      - name: address book
+        href: ..\address-book.md
+      - name: address verification service
+        href: ..\address-verification-service.md
+      - name: advance ship notice
+        href: ..\advance-ship-notice.md
+      - name: age
+        href: ..\age.md
+      - name: aggregation
+        href: ..\aggregation.md
+      - name: aging
+        href: ..\aging.md
+      - name: aging period
+        href: ..\aging-period.md
+      - name: agreement
+        href: ..\agreement.md
+      - name: AIF
+        href: ..\aif.md
+      - name: alert
+        href: ..\alert.md
+      - name: allocate
+        href: ..\allocate.md
+      - name: allocation
+        href: ..\allocation.md
+      - name: alternate key
+        href: ..\alternate-key.md
+      - name: amount
+        href: ..\amount.md
+      - name: answer file
+        href: ..\answer-file.md
+      - name: AOT
+        href: ..\aot.md
+      - name: API
+        href: ..\api.md
+      - name: applicant
+        href: ..\applicant.md
+      - name: application
+        href: ..\application.md
+      - name: application basket
+        href: ..\application-basket.md
+      - name: Application Integration Framework
+        href: ..\application-integration-framework.md
+      - name: application layer
+        href: ..\application-layer.md
+      - name: application model
+        href: ..\application-model.md
+      - name: Application Object Tree
+        href: ..\application-object-tree.md
+      - name: application program interface
+        href: ..\application-program-interface.md
+      - name: appointment scheduling
+        href: ..\appointment-scheduling_1.md
+      - name: apportionment engine
+        href: ..\apportionment-engine.md
+      - name: approve
+        href: ..\approve.md
+      - name: approved vendor
+        href: ..\approved-vendor.md
+      - name: approximate taxes
+        href: ..\approximate-taxes.md
+      - name: ASN
+        href: ..\asn.md
+      - name: asset
+        href: ..\asset.md
+      - name: assign
+        href: ..\assign.md
+      - name: assignment
+        href: ..\assignment.md
+      - name: associate
+        href: ..\associate.md
+      - name: association
+        href: ..\association.md
+      - name: ATP
+        href: ..\atp.md
+      - name: authorize
+        href: ..\authorize.md
+      - name: Automated Clearing House
+        href: ..\automated-clearing-house.md
+      - name: automated task
+        href: ..\automated-task.md
+      - name: auto-report
+        href: ..\auto-report.md
+      - name: available to promise
+        href: ..\available-to-promise.md
+      - name: AVS
+        href: ..\avs.md
+    - name: B
+      href: ..\b.md
+      items:
+      - name: back payment
+        href: ..\back-payment.md
+      - name: backflush costing
+        href: ..\backflush-costing.md
+      - name: bailor
+        href: ..\bailor.md
+      - name: balance
+        href: ..\balance.md
+      - name: balance sheet
+        href: ..\balance-sheet.md
+      - name: balance sheet account
+        href: ..\balance-sheet-account.md
+      - name: balanced scorecard
+        href: ..\balanced-scorecard.md
+      - name: bank payment order
+        href: ..\bank-payment-order.md
+      - name: bank reconciliation
+        href: ..\bank-reconciliation.md
+      - name: bank statement
+        href: ..\bank-statement.md
+      - name: base
+        href: ..\base.md
+      - name: base class
+        href: ..\base-class.md
+      - name: base currency unit
+        href: ..\base-currency-unit.md
+      - name: base table
+        href: ..\base-table.md
+      - name: base unit
+        href: ..\base-unit.md
+      - name: batch
+        href: ..\batch.md
+      - name: batch attribute
+        href: ..\batch-attribute.md
+      - name: batch balancing
+        href: ..\batch-balancing.md
+      - name: batch job
+        href: ..\batch-job.md
+      - name: batch process
+        href: ..\batch-process.md
+      - name: beneficiary
+        href: ..\beneficiary.md
+      - name: benefit
+        href: ..\benefit.md
+      - name: best before date
+        href: ..\best-before-date.md
+      - name: best before period
+        href: ..\best-before-period.md
+      - name: best practice rule
+        href: ..\best-practice-rule.md
+      - name: bill of exchange
+        href: ..\bill-of-exchange.md
+      - name: bill of lading
+        href: ..\bill-of-lading.md
+      - name: bill of materials
+        href: ..\bill-of-materials.md
+      - name: bill of materials item
+        href: ..\bill-of-materials-item.md
+      - name: billing classification
+        href: ..\billing-classification.md
+      - name: bin
+        href: ..\bin.md
+      - name: blocking
+        href: ..\blocking.md
+      - name: BOF
+        href: ..\bof.md
+      - name: book value
+        href: ..\book-value.md
+      - name: budget
+        href: ..\budget.md
+      - name: budget control
+        href: ..\budget-control.md
+      - name: budget control dimension
+        href: ..\budget-control-dimension.md
+      - name: budget control rule
+        href: ..\budget-control-rule.md
+      - name: budget cycle time span
+        href: ..\budget-cycle-time-span.md
+      - name: budget group
+        href: ..\budget-group.md
+      - name: budget model
+        href: ..\budget-model.md
+      - name: budget plan
+        href: ..\budget-plan.md
+      - name: budget plan scenario
+        href: ..\budget-plan-scenario.md
+      - name: budget planning process
+        href: ..\budget-planning-process.md
+      - name: budget revision
+        href: ..\budget-revision.md
+      - name: budget schedule
+        href: ..\budget-schedule.md
+      - name: bulk item
+        href: ..\bulk-item.md
+      - name: bundle
+        href: ..\bundle.md
+      - name: business classification
+        href: ..\business-classification.md
+      - name: business document
+        href: ..\business-document.md
+      - name: business event
+        href: ..\business-event.md
+      - name: business operation
+        href: ..\business-operation.md
+      - name: Business Operation Framework
+        href: ..\business-operation-framework.md
+      - name: business unit
+        href: ..\business-unit.md
+      - name: buyer's push
+        href: ..\buyer-s-push.md
+      - name: by-product
+        href: ..\by-product.md
+    - name: C
+      href: ..\c.md
+      items:
+      - name: campaign
+        href: ..\campaign.md
+      - name: Canadian Payments Association Standard 005
+        href: ..\canadian-payments-association-standard-005.md
+      - name: cancel
+        href: ..\cancel.md
+      - name: capable to promise
+        href: ..\capable-to-promise.md
+      - name: capacity
+        href: ..\capacity.md
+      - name: capacity load
+        href: ..\capacity-load.md
+      - name: capacity planning
+        href: ..\capacity-planning.md
+      - name: carry forward
+        href: ..\carry-forward.md
+      - name: carry-forward budget
+        href: ..\carry-forward-budget.md
+      - name: cash
+        href: ..\cash.md
+      - name: cash discount
+        href: ..\cash-discount.md
+      - name: cash float
+        href: ..\cash-float.md
+      - name: cash on delivery
+        href: ..\cash-on-delivery.md
+      - name: cash receipt
+        href: ..\cash-receipt.md
+      - name: cash register
+        href: ..\cash-register.md
+      - name: cash-generating unit
+        href: ..\cash-generating-unit.md
+      - name: Catalog Maintenance Request file
+        href: ..\catalog-maintenance-request-file.md
+      - name: catch weight
+        href: ..\catch-weight.md
+      - name: category
+        href: ..\category.md
+      - name: category hierarchy
+        href: ..\category-hierarchy.md
+      - name: centralized processing
+        href: ..\centralized-processing.md
+      - name: CGU
+        href: ..\cgu.md
+      - name: charge
+        href: ..\charge.md
+      - name: charge variance
+        href: ..\charge-variance.md
+      - name: chart of accounts
+        href: ..\chart-of-accounts.md
+      - name: check
+        href: ..\check.md
+      - name: check digit calculator engine
+        href: ..\check-digit-calculator-engine.md
+      - name: child table
+        href: ..\child-table.md
+      - name: circulating card
+        href: ..\circulating-card.md
+      - name: circulating kanban card
+        href: ..\circulating-kanban-card.md
+      - name: class
+        href: ..\class.md
+      - name: classification
+        href: ..\classification.md
+      - name: client bank
+        href: ..\client-bank.md
+      - name: closed
+        href: ..\closed.md
+      - name: closed fiscal period
+        href: ..\closed-fiscal-period.md
+      - name: closing
+        href: ..\closing.md
+      - name: cloud
+        href: ..\cloud.md
+      - name: cluster
+        href: ..\cluster.md
+      - name: CMR file
+        href: ..\cmr-file.md
+      - name: COD
+        href: ..\cod.md
+      - name: Code 39
+        href: ..\code-39.md
+      - name: COGS
+        href: ..\cogs.md
+      - name: commitment
+        href: ..\commitment.md
+      - name: commitment accounting
+        href: ..\commitment-accounting.md
+      - name: committed cost
+        href: ..\committed-cost.md
+      - name: commodity
+        href: ..\commodity.md
+      - name: commodity code hierarchy
+        href: ..\commodity-code-hierarchy.md
+      - name: commodity pricing
+        href: ..\commodity-pricing.md
+      - name: compensating ingredient
+        href: ..\compensating-ingredient.md
+      - name: compensation
+        href: ..\compensation.md
+      - name: completed
+        href: ..\completed.md
+      - name: composition
+        href: ..\composition.md
+      - name: confirm
+        href: ..\confirm.md
+      - name: confirmation of receipt policy
+        href: ..\confirmation-of-receipt-policy.md
+      - name: confirmed ship date
+        href: ..\confirmed-ship-date.md
+      - name: conform
+        href: ..\conform.md
+      - name: conforming
+        href: ..\conforming.md
+      - name: consolidated invoice
+        href: ..\consolidated-invoice.md
+      - name: consolidated order
+        href: ..\consolidated-order.md
+      - name: consolidated source document
+        href: ..\consolidated-source-document.md
+      - name: consolidation account
+        href: ..\consolidation-account.md
+      - name: consolidation opportunity
+        href: ..\consolidation-opportunity.md
+      - name: Constraint-based configuration
+        href: ..\constraint-based-configuration.md
+      - name: contact
+        href: ..\contact.md
+      - name: container
+        href: ..\container.md
+      - name: contract
+        href: ..\contract.md
+      - name: contractor
+        href: ..\contractor.md
+      - name: conversion cycle
+        href: ..\conversion-cycle.md
+      - name: co-product
+        href: ..\co-product.md
+      - name: cost
+        href: ..\cost.md
+      - name: cost accumulation method
+        href: ..\cost-accumulation-method.md
+      - name: cost center
+        href: ..\cost-center.md
+      - name: cost of goods sold
+        href: ..\cost-of-goods-sold.md
+      - name: cost variance
+        href: ..\cost-variance.md
+      - name: costed
+        href: ..\costed.md
+      - name: costing
+        href: ..\costing.md
+      - name: credit card authorization
+        href: ..\credit-card-authorization.md
+      - name: credit card capture
+        href: ..\credit-card-capture.md
+      - name: cross-docking
+        href: ..\cross-docking.md
+      - name: CTP
+        href: ..\ctp.md
+      - name: cumulative threshold
+        href: ..\cumulative-threshold.md
+      - name: currency
+        href: ..\currency.md
+      - name: currency code
+        href: ..\currency-code.md
+      - name: currency unit
+        href: ..\currency-unit.md
+      - name: customer advance
+        href: ..\customer-advance.md
+      - name: customer invoice
+        href: ..\customer-invoice.md
+      - name: customer loyalty program
+        href: ..\customer-loyalty-program.md
+      - name: cycle counting
+        href: ..\cycle-counting_1.md
+      - name: cycle time
+        href: ..\cycle-time.md
+    - name: D
+      href: ..\d.md
+      items:
+      - name: data entity
+        href: ..\data-entity.md
+      - name: data event
+        href: ..\data-event.md
+      - name: dataset parameter
+        href: ..\dataset-parameter.md
+      - name: default report
+        href: ..\default-report.md
+      - name: deferred input VAT
+        href: ..\deferred-input-vat.md
+      - name: deferred output VAT
+        href: ..\deferred-output-vat.md
+      - name: delegate
+        href: ..\delegate.md
+      - name: delivery note
+        href: ..\delivery-note.md
+      - name: delivery schedule
+        href: ..\delivery-schedule.md
+      - name: demand during lead time
+        href: ..\demand-during-lead-time.md
+      - name: demand forecast
+        href: ..\demand-forecast.md
+      - name: demand forecasting
+        href: ..\demand-forecasting.md
+      - name: dependent
+        href: ..\dependent.md
+      - name: dependent party
+        href: ..\dependent-party.md
+      - name: dependent workflow
+        href: ..\dependent-workflow.md
+      - name: depreciation
+        href: ..\depreciation.md
+      - name: dereference
+        href: ..\dereference.md
+      - name: derivation rule
+        href: ..\derivation-rule.md
+      - name: derived class
+        href: ..\derived-class.md
+      - name: derived table
+        href: ..\derived-table.md
+      - name: destination company account
+        href: ..\destination-company-account.md
+      - name: destination inventory location
+        href: ..\destination-inventory-location.md
+      - name: destination-based sales tax
+        href: ..\destination-based-sales-tax.md
+      - name: dimension
+        href: ..\dimension.md
+      - name: dimension derivation rule
+        href: ..\dimension-derivation-rule.md
+      - name: Dimension-based configuration
+        href: ..\dimension-based-configuration.md
+      - name: dimensionless measurement
+        href: ..\dimensionless-measurement.md
+      - name: direct compensation
+        href: ..\direct-compensation.md
+      - name: disallowed vendor
+        href: ..\disallowed-vendor.md
+      - name: discount
+        href: ..\discount.md
+      - name: discount period
+        href: ..\discount-period.md
+      - name: discount variance
+        href: ..\discount-variance.md
+      - name: distinct product
+        href: ..\distinct-product.md
+      - name: dock management
+        href: ..\dock-management.md
+      - name: document blocking
+        href: ..\document-blocking.md
+      - name: document management system
+        href: ..\document-management-system.md
+      - name: document services
+        href: ..\document-services.md
+      - name: doing business as
+        href: ..\doing-business-as.md
+      - name: domain entity
+        href: ..\domain-entity.md
+      - name: domain event
+        href: ..\domain-event.md
+      - name: domain role
+        href: ..\domain-role.md
+      - name: downcast
+        href: ..\downcast.md
+      - name: duty
+        href: ..\duty.md
+      - name: dynamic filter
+        href: ..\dynamic-filter.md
+    - name: E
+      href: ..\e.md
+      items:
+      - name: EAN
+        href: ..\ean.md
+      - name: economic event
+        href: ..\economic-event.md
+      - name: economic resource
+        href: ..\economic-resource.md
+      - name: ecosphere
+        href: ..\ecosphere.md
+      - name: EFT
+        href: ..\eft.md
+      - name: electronic filing
+        href: ..\electronic-filing.md
+      - name: electronic funds transfer
+        href: ..\electronic-funds-transfer.md
+      - name: employee
+        href: ..\employee.md
+      - name: employee compensation
+        href: ..\employee-compensation.md
+      - name: encumbrance
+        href: ..\encumbrance.md
+      - name: engine
+        href: ..\engine.md
+      - name: enterprise portal
+        href: ..\enterprise-portal.md
+      - name: entity
+        href: ..\entity.md
+      - name: EPC
+        href: ..\epc.md
+      - name: EPE
+        href: ..\epe.md
+      - name: equity
+        href: ..\equity.md
+      - name: escalation path
+        href: ..\escalation-path.md
+      - name: estimated cost
+        href: ..\estimated-cost.md
+      - name: European Article Number
+        href: ..\european-article-number.md
+      - name: European Payment Council
+        href: ..\european-payment-council.md
+      - name: event
+        href: ..\event.md
+      - name: event handler
+        href: ..\event-handler.md
+      - name: Every Product Every
+        href: ..\every-product-every.md
+      - name: exceptional threshold
+        href: ..\exceptional-threshold.md
+      - name: exchange rate
+        href: ..\exchange-rate.md
+      - name: exchange rate adjustment
+        href: ..\exchange-rate-adjustment.md
+      - name: exchange rate type
+        href: ..\exchange-rate-type.md
+      - name: expenditure
+        href: ..\expenditure.md
+      - name: expenditure cycle
+        href: ..\expenditure-cycle.md
+      - name: expenditure recognition accounting rule
+        href: ..\expenditure-recognition-accounting-rule.md
+      - name: expense
+        href: ..\expense.md
+      - name: expense product
+        href: ..\expense-product.md
+      - name: expiration date
+        href: ..\expiration-date.md
+      - name: extended price
+        href: ..\extended-price.md
+    - name: F
+      href: ..\f.md
+      items:
+      - name: face value
+        href: ..\face-value.md
+      - name: feeder flow
+        href: ..\feeder-flow.md
+      - name: FIFO inventory valuation method
+        href: ..\fifo-inventory-valuation-method.md
+      - name: filler ingredient
+        href: ..\filler-ingredient.md
+      - name: filter
+        href: ..\filter.md
+      - name: financial dimension
+        href: ..\financial-dimension.md
+      - name: financial dimension value
+        href: ..\financial-dimension-value.md
+      - name: financial dimension value constraint
+        href: ..\financial-dimension-value-constraint.md
+      - name: financial statement
+        href: ..\financial-statement.md
+      - name: fiscal period
+        href: ..\fiscal-period.md
+      - name: fiscal year
+        href: ..\fiscal-year.md
+      - name: fixed asset
+        href: ..\fixed-asset.md
+      - name: fixed compensation
+        href: ..\fixed-compensation.md
+      - name: fixed cost
+        href: ..\fixed-cost.md
+      - name: fixed exchange rate
+        href: ..\fixed-exchange-rate.md
+      - name: fixed location
+        href: ..\fixed-location.md
+      - name: fixed quantity kanban
+        href: ..\fixed-quantity-kanban.md
+      - name: fixed-price project
+        href: ..\fixed-price-project.md
+      - name: fixed-price project estimate
+        href: ..\fixed-price-project-estimate.md
+      - name: flexible authentication
+        href: ..\flexible-authentication.md
+      - name: FOB
+        href: ..\fob.md
+      - name: forecast dimension
+        href: ..\forecast-dimension.md
+      - name: foreign currency revaluation
+        href: ..\foreign-currency-revaluation.md
+      - name: foreign currency translation
+        href: ..\foreign-currency-translation.md
+      - name: foreign currency unit
+        href: ..\foreign-currency-unit.md
+      - name: foreign key
+        href: ..\foreign-key.md
+      - name: formula
+        href: ..\formula.md
+      - name: formula item
+        href: ..\formula-item.md
+      - name: Free On Board
+        href: ..\free-on-board.md
+      - name: freight forwarder
+        href: ..\freight-forwarder.md
+      - name: freight terms
+        href: ..\freight-terms.md
+      - name: fully qualified account number
+        href: ..\fully-qualified-account-number.md
+      - name: functional currency unit
+        href: ..\functional-currency-unit.md
+    - name: G
+      href: ..\g.md
+      items:
+      - name: general budget reservation
+        href: ..\general-budget-reservation.md
+      - name: general ledger
+        href: ..\general-ledger_1.md
+      - name: generic engine
+        href: ..\generic-engine.md
+      - name: giro
+        href: ..\giro.md
+      - name: global address book
+        href: ..\global-address-book.md
+      - name: Goods and Services Tax
+        href: ..\goods-and-services-tax.md
+      - name: goods in transit
+        href: ..\goods-in-transit.md
+      - name: goodwill
+        href: ..\goodwill.md
+      - name: grace period
+        href: ..\grace-period.md
+      - name: gross amount
+        href: ..\gross-amount.md
+      - name: gross margin
+        href: ..\gross-margin.md
+      - name: group
+        href: ..\group.md
+      - name: GST
+        href: ..\gst.md
+    - name: H
+      href: ..\h.md
+      items:
+      - name: handling unit
+        href: ..\handling-unit.md
+      - name: hard booking
+        href: ..\hard-booking.md
+      - name: Harmonised Sales Tax
+        href: ..\harmonised-sales-tax.md
+      - name: heijunka
+        href: ..\heijunka.md
+      - name: hot-swap
+        href: ..\hot-swap.md
+      - name: hot-swapping
+        href: ..\hot-swapping.md
+      - name: HST
+        href: ..\hst.md
+      - name: human capital management cycle
+        href: ..\human-capital-management-cycle.md
+      - name: hybrid cloud
+        href: ..\hybrid-cloud.md
+    - name: I
+      href: ..\i.md
+      items:
+      - name: IaaS
+        href: ..\iaas.md
+      - name: IDE
+        href: ..\ide.md
+      - name: identification
+        href: ..\identification.md
+      - name: identifier
+        href: ..\identifier.md
+      - name: inbound port
+        href: ..\inbound-port.md
+      - name: indirect compensation
+        href: ..\indirect-compensation.md
+      - name: indirect cost
+        href: ..\indirect-cost.md
+      - name: infrastructure as a service
+        href: ..\infrastructure-as-a-service.md
+      - name: input VAT
+        href: ..\input-vat.md
+      - name: inspection item
+        href: ..\inspection-item.md
+      - name: instantiate
+        href: ..\instantiate.md
+      - name: integrated development environment
+        href: ..\integrated-development-environment.md
+      - name: IntelliSense
+        href: ..\intellisense.md
+      - name: intercompany
+        href: ..\intercompany.md
+      - name: intercompany customer invoice
+        href: ..\intercompany-customer-invoice.md
+      - name: intercompany economic transaction
+        href: ..\intercompany-economic-transaction.md
+      - name: intercompany master scheduling
+        href: ..\intercompany-master-scheduling.md
+      - name: intercompany purchase order
+        href: ..\intercompany-purchase-order.md
+      - name: intercompany sales order
+        href: ..\intercompany-sales-order.md
+      - name: intercompany vendor
+        href: ..\intercompany-vendor.md
+      - name: intercompany vendor invoice
+        href: ..\intercompany-vendor-invoice.md
+      - name: interest
+        href: ..\interest.md
+      - name: interest note
+        href: ..\interest-note.md
+      - name: international ACH transaction
+        href: ..\international-ach-transaction.md
+      - name: International Organization for Standardization
+        href: ..\international-organization-for-standardization.md
+      - name: International System of Units
+        href: ..\international-system-of-units.md
+      - name: interop
+        href: ..\interop.md
+      - name: interunit accounting
+        href: ..\interunit-accounting.md
+      - name: in-transit lead time
+        href: ..\in-transit-lead-time.md
+      - name: Intrastat
+        href: ..\intrastat.md
+      - name: inventory
+        href: ..\inventory.md
+      - name: inventory item
+        href: ..\inventory-item.md
+      - name: inventory location
+        href: ..\inventory-location.md
+      - name: inventory registration policy
+        href: ..\inventory-registration-policy.md
+      - name: invoice
+        href: ..\invoice.md
+      - name: invoice matching
+        href: ..\invoice-matching.md
+      - name: ISO
+        href: ..\iso.md
+      - name: ISO 14000
+        href: ..\iso-14000.md
+      - name: issue slip
+        href: ..\issue-slip.md
+      - name: item
+        href: ..\item.md
+      - name: item allocation key
+        href: ..\item-allocation-key.md
+      - name: item relation
+        href: ..\item-relation.md
+    - name: J
+      href: ..\j.md
+      items:
+      - name: job
+        href: ..\job.md
+      - name: job description
+        href: ..\job-description.md
+      - name: job function
+        href: ..\job-function.md
+      - name: job order costing
+        href: ..\job-order-costing.md
+      - name: journal
+        href: ..\journal.md
+      - name: journal entry
+        href: ..\journal-entry.md
+      - name: journalize
+        href: ..\journalize.md
+    - name: K
+      href: ..\k.md
+      items:
+      - name: kanban
+        href: ..\kanban.md
+      - name: kanban card
+        href: ..\kanban-card.md
+      - name: kanban job
+        href: ..\kanban-job.md
+      - name: kanban job consumption
+        href: ..\kanban-job-consumption.md
+      - name: kanban product quantity
+        href: ..\kanban-product-quantity.md
+      - name: kanban quantity
+        href: ..\kanban-quantity.md
+      - name: kanban rule
+        href: ..\kanban-rule.md
+      - name: knowledge article
+        href: ..\knowledge-article.md
+    - name: L
+      href: ..\l.md
+      items:
+      - name: ledger
+        href: ..\ledger.md
+      - name: ledger account
+        href: ..\ledger-account.md
+      - name: ledger dimension
+        href: ..\ledger-dimension.md
+      - name: ledger reconciliation
+        href: ..\ledger-reconciliation.md
+      - name: legal entity
+        href: ..\legal-entity.md
+      - name: liability
+        href: ..\liability.md
+      - name: license code
+        href: ..\license-code.md
+      - name: license plate number
+        href: ..\license-plate-number.md
+      - name: LIFO inventory valuation method
+        href: ..\lifo-inventory-valuation-method.md
+      - name: line item workflow
+        href: ..\line-item-workflow.md
+      - name: line item workflow work item
+        href: ..\line-item-workflow-work-item.md
+      - name: liquidity
+        href: ..\liquidity.md
+      - name: liquidity classification
+        href: ..\liquidity-classification.md
+      - name: liquidity ratio
+        href: ..\liquidity-ratio.md
+      - name: load
+        href: ..\load.md
+      - name: load planning
+        href: ..\load-planning.md
+      - name: location
+        href: ..\location.md
+      - name: lot
+        href: ..\lot.md
+      - name: lot inheritance
+        href: ..\lot-inheritance.md
+      - name: loyalty program
+        href: ..\loyalty-program.md
+    - name: M
+      href: ..\m.md
+      items:
+      - name: magnetic ink character recognition
+        href: ..\magnetic-ink-character-recognition.md
+      - name: magnetic stripe reader
+        href: ..\magnetic-stripe-reader.md
+      - name: magnitude
+        href: ..\magnitude.md
+      - name: main account
+        href: ..\main-account.md
+      - name: main account category
+        href: ..\main-account-category.md
+      - name: main account derivation rule
+        href: ..\main-account-derivation-rule.md
+      - name: mandate
+        href: ..\mandate.md
+      - name: marshal
+        href: ..\marshal.md
+      - name: master data
+        href: ..\master-data.md
+      - name: master scheduling
+        href: ..\master-scheduling_1.md
+      - name: matching policy
+        href: ..\matching-policy.md
+      - name: mathematical equation
+        href: ..\mathematical-equation.md
+      - name: mathematical expression
+        href: ..\mathematical-expression.md
+      - name: mathematical formula
+        href: ..\mathematical-formula.md
+      - name: mathematical statement
+        href: ..\mathematical-statement.md
+      - name: measure
+        href: ..\measure.md
+      - name: measure dimension
+        href: ..\measure-dimension.md
+      - name: measurement
+        href: ..\measurement.md
+      - name: MICR
+        href: ..\micr.md
+      - name: mileage engine
+        href: ..\mileage-engine.md
+      - name: milestone billing
+        href: ..\milestone-billing.md
+      - name: milk run
+        href: ..\milk-run.md
+      - name: mobile device
+        href: ..\mobile-device.md
+      - name: model
+        href: ..\model.md
+      - name: model store
+        href: ..\model-store.md
+      - name: monetary amount
+        href: ..\monetary-amount.md
+      - name: money
+        href: ..\money.md
+      - name: MorphX
+        href: ..\morphx.md
+      - name: MorphX report
+        href: ..\morphx-report.md
+      - name: MorphX Type Hierarchy Browser
+        href: ..\morphx-type-hierarchy-browser.md
+      - name: multidimensional measurement
+        href: ..\multidimensional-measurement.md
+    - name: N
+      href: ..\n.md
+      items:
+      - name: NACHA
+        href: ..\nacha.md
+      - name: National Automated Clearing House Association
+        href: ..\national-automated-clearing-house-association.md
+      - name: natural key
+        href: ..\natural-key.md
+      - name: net amount
+        href: ..\net-amount.md
+      - name: net book value
+        href: ..\net-book-value.md
+      - name: nominal account
+        href: ..\nominal-account.md
+      - name: non-negotiable check
+        href: ..\non-negotiable-check.md
+      - name: non-negotiable instrument
+        href: ..\non-negotiable-instrument.md
+      - name: nonoperating income
+        href: ..\nonoperating-income.md
+      - name: non-recoverable sales tax
+        href: ..\non-recoverable-sales-tax.md
+      - name: not sufficient funds
+        href: ..\not-sufficient-funds.md
+      - name: notification
+        href: ..\notification.md
+      - name: number
+        href: ..\number.md
+    - name: O
+      href: ..\o.md
+      items:
+      - name: object permission
+        href: ..\object-permission.md
+      - name: obligation
+        href: ..\obligation.md
+      - name: occupational illness
+        href: ..\occupational-illness.md
+      - name: occupational injury
+        href: ..\occupational-injury.md
+      - name: OCR
+        href: ..\ocr.md
+      - name: offset account
+        href: ..\offset-account.md
+      - name: on account
+        href: ..\on-account.md
+      - name: on hold
+        href: ..\on-hold.md
+      - name: on-account payment
+        href: ..\on-account-payment.md
+      - name: one-dimensional measurement
+        href: ..\one-dimensional-measurement.md
+      - name: on-hold fiscal period
+        href: ..\on-hold-fiscal-period.md
+      - name: open
+        href: ..\open.md
+      - name: open fiscal period
+        href: ..\open-fiscal-period.md
+      - name: opening balance
+        href: ..\opening-balance.md
+      - name: operating unit
+        href: ..\operating-unit.md
+      - name: operations journal entry
+        href: ..\operations-journal-entry.md
+      - name: operations register
+        href: ..\operations-register.md
+      - name: operations resource
+        href: ..\operations-resource.md
+      - name: opportunity
+        href: ..\opportunity.md
+      - name: opposite account
+        href: ..\opposite-account.md
+      - name: optical character recognition
+        href: ..\optical-character-recognition.md
+      - name: order discount
+        href: ..\order-discount.md
+      - name: order entry
+        href: ..\order-entry.md
+      - name: organization
+        href: ..\organization.md
+      - name: organization hierarchy
+        href: ..\organization-hierarchy.md
+      - name: organization model
+        href: ..\organization-model.md
+      - name: outbound port
+        href: ..\outbound-port.md
+      - name: output product
+        href: ..\output-product.md
+      - name: output VAT
+        href: ..\output-vat.md
+    - name: P
+      href: ..\p.md
+      items:
+      - name: PaaS
+        href: ..\paas.md
+      - name: packing slip
+        href: ..\packing-slip.md
+      - name: parent table
+        href: ..\parent-table.md
+      - name: partially qualified account number
+        href: ..\partially-qualified-account-number.md
+      - name: participant
+        href: ..\participant.md
+      - name: partition
+        href: ..\partition.md
+      - name: party
+        href: ..\party.md
+      - name: patch layer
+        href: ..\patch-layer.md
+      - name: payment
+        href: ..\payment.md
+      - name: payment amount
+        href: ..\payment-amount.md
+      - name: p-code
+        href: ..\p-code.md
+      - name: pegging
+        href: ..\pegging.md
+      - name: pegging event
+        href: ..\pegging-event.md
+      - name: pending closed
+        href: ..\pending-closed.md
+      - name: performance dimension
+        href: ..\performance-dimension.md
+      - name: permission
+        href: ..\permission.md
+      - name: phantom bill of materials item
+        href: ..\phantom-bill-of-materials-item.md
+      - name: phantom item
+        href: ..\phantom-item.md
+      - name: picking list
+        href: ..\picking-list.md
+      - name: plan
+        href: ..\plan.md
+      - name: planned intercompany demand
+        href: ..\planned-intercompany-demand.md
+      - name: planned production order
+        href: ..\planned-production-order.md
+      - name: planned purchase order
+        href: ..\planned-purchase-order.md
+      - name: platform as a service
+        href: ..\platform-as-a-service.md
+      - name: PO
+        href: ..\po.md
+      - name: point of sale
+        href: ..\point-of-sale_1.md
+      - name: point of sale terminal
+        href: ..\point-of-sale-terminal.md
+      - name: policy
+        href: ..\policy.md
+      - name: policy processing sequence
+        href: ..\policy-processing-sequence.md
+      - name: policy rule
+        href: ..\policy-rule.md
+      - name: port
+        href: ..\port.md
+      - name: POS
+        href: ..\pos.md
+      - name: POS terminal
+        href: ..\pos-terminal.md
+      - name: post
+        href: ..\post.md
+      - name: post-event
+        href: ..\post-event.md
+      - name: posting layer
+        href: ..\posting-layer.md
+      - name: potency
+        href: ..\potency.md
+      - name: potency management
+        href: ..\potency-management.md
+      - name: practice
+        href: ..\practice.md
+      - name: pre-encumbrance
+        href: ..\pre-encumbrance.md
+      - name: pre-event
+        href: ..\pre-event.md
+      - name: preparer
+        href: ..\preparer.md
+      - name: prepayment journal voucher
+        href: ..\prepayment-journal-voucher.md
+      - name: price
+        href: ..\price.md
+      - name: price adjustment
+        href: ..\price-adjustment.md
+      - name: price discount
+        href: ..\price-discount.md
+      - name: price variance
+        href: ..\price-variance.md
+      - name: primary key
+        href: ..\primary-key.md
+      - name: prior period adjustment
+        href: ..\prior-period-adjustment.md
+      - name: private cloud
+        href: ..\private-cloud.md
+      - name: privilege
+        href: ..\privilege.md
+      - name: pro forma invoice
+        href: ..\pro-forma-invoice.md
+      - name: procedure
+        href: ..\procedure.md
+      - name: process
+        href: ..\process.md
+      - name: process batch
+        href: ..\process-batch.md
+      - name: procurement catalog
+        href: ..\procurement-catalog.md
+      - name: procurement category hierarchy
+        href: ..\procurement-category-hierarchy.md
+      - name: product
+        href: ..\product.md
+      - name: product attribute
+        href: ..\product-attribute.md
+      - name: product component
+        href: ..\product-component.md
+      - name: product dimension
+        href: ..\product-dimension.md
+      - name: product family
+        href: ..\product-family.md
+      - name: product item
+        href: ..\product-item.md
+      - name: product master
+        href: ..\product-master.md
+      - name: product receipt
+        href: ..\product-receipt.md
+      - name: product sequencing
+        href: ..\product-sequencing.md
+      - name: product variant
+        href: ..\product-variant.md
+      - name: production flow
+        href: ..\production-flow.md
+      - name: production flow model
+        href: ..\production-flow-model.md
+      - name: production order
+        href: ..\production-order.md
+      - name: production planning period template
+        href: ..\production-planning-period-template.md
+      - name: production schedule
+        href: ..\production-schedule.md
+      - name: production signal
+        href: ..\production-signal.md
+      - name: profit
+        href: ..\profit.md
+      - name: profit margin
+        href: ..\profit-margin.md
+      - name: programming element attribute
+        href: ..\programming-element-attribute.md
+      - name: programming event
+        href: ..\programming-event.md
+      - name: progress billing
+        href: ..\progress-billing.md
+      - name: project
+        href: ..\project.md
+      - name: project budget revision
+        href: ..\project-budget-revision.md
+      - name: project funding rule
+        href: ..\project-funding-rule.md
+      - name: project quotation
+        href: ..\project-quotation.md
+      - name: projected available inventory
+        href: ..\projected-available-inventory.md
+      - name: promissory note
+        href: ..\promissory-note.md
+      - name: promotional allowance
+        href: ..\promotional-allowance.md
+      - name: prospect
+        href: ..\prospect.md
+      - name: prospective vendor
+        href: ..\prospective-vendor.md
+      - name: proxy
+        href: ..\proxy.md
+      - name: public cloud
+        href: ..\public-cloud.md
+      - name: purchase agreement
+        href: ..\purchase-agreement.md
+      - name: purchase agreement policy
+        href: ..\purchase-agreement-policy.md
+      - name: purchase item
+        href: ..\purchase-item.md
+      - name: purchase order
+        href: ..\purchase-order.md
+      - name: purchase order discount
+        href: ..\purchase-order-discount.md
+      - name: purchase order overdelivery percentage
+        href: ..\purchase-order-overdelivery-percentage.md
+      - name: purchase order policy
+        href: ..\purchase-order-policy.md
+      - name: purchase order underdelivery percentage
+        href: ..\purchase-order-underdelivery-percentage.md
+      - name: purchase price
+        href: ..\purchase-price.md
+      - name: purchase quotation
+        href: ..\purchase-quotation.md
+      - name: purchase request
+        href: ..\purchase-request.md
+      - name: purchase requisition
+        href: ..\purchase-requisition.md
+      - name: purchase unit
+        href: ..\purchase-unit.md
+      - name: purchase unit price
+        href: ..\purchase-unit-price.md
+      - name: purchase VAT
+        href: ..\purchase-vat.md
+    - name: Q
+      href: ..\q.md
+      items:
+      - name: quantity
+        href: ..\quantity.md
+      - name: quantity variance
+        href: ..\quantity-variance.md
+      - name: query-based report
+        href: ..\query-based-report.md
+      - name: queue workflow work item
+        href: ..\queue-workflow-work-item.md
+      - name: quotation
+        href: ..\quotation.md
+      - name: quotation currency unit
+        href: ..\quotation-currency-unit.md
+    - name: R
+      href: ..\r.md
+      items:
+      - name: radio frequency identification
+        href: ..\radio-frequency-identification.md
+      - name: rate engine
+        href: ..\rate-engine.md
+      - name: rate shopping
+        href: ..\rate-shopping.md
+      - name: real account
+        href: ..\real-account.md
+      - name: realized gain
+        href: ..\realized-gain.md
+      - name: realized loss
+        href: ..\realized-loss.md
+      - name: rebate
+        href: ..\rebate.md
+      - name: receipt advice
+        href: ..\receipt-advice.md
+      - name: receipt item
+        href: ..\receipt-item.md
+      - name: recognition accounting rule
+        href: ..\recognition-accounting-rule.md
+      - name: reconcile
+        href: ..\reconcile.md
+      - name: reconciliation
+        href: ..\reconciliation.md
+      - name: record
+        href: ..\record.md
+      - name: recoverable sales tax
+        href: ..\recoverable-sales-tax.md
+      - name: recruitment project
+        href: ..\recruitment-project.md
+      - name: reduction key
+        href: ..\reduction-key.md
+      - name: reference
+        href: ..\reference.md
+      - name: reference data
+        href: ..\reference-data.md
+      - name: refund
+        href: ..\refund.md
+      - name: register
+        href: ..\register.md
+      - name: regulated product
+        href: ..\regulated-product.md
+      - name: reinstate charge
+        href: ..\reinstate-charge.md
+      - name: relate
+        href: ..\relate.md
+      - name: relation
+        href: ..\relation.md
+      - name: relationship
+        href: ..\relationship.md
+      - name: replacement cost
+        href: ..\replacement-cost.md
+      - name: replenishment
+        href: ..\replenishment.md
+      - name: report
+        href: ..\report.md
+      - name: Report Data Provider-based report
+        href: ..\report-data-provider-based-report.md
+      - name: report definition
+        href: ..\report-definition.md
+      - name: reporting currency
+        href: ..\reporting-currency.md
+      - name: reporting currency unit
+        href: ..\reporting-currency-unit.md
+      - name: request for quotation
+        href: ..\request-for-quotation.md
+      - name: requested ship date
+        href: ..\requested-ship-date.md
+      - name: requester
+        href: ..\requester.md
+      - name: resource
+        href: ..\resource.md
+      - name: respondent
+        href: ..\respondent.md
+      - name: responsibility
+        href: ..\responsibility.md
+      - name: restricted product
+        href: ..\restricted-product.md
+      - name: return on equity
+        href: ..\return-on-equity.md
+      - name: revenue
+        href: ..\revenue.md
+      - name: revenue cycle
+        href: ..\revenue-cycle.md
+      - name: revenue recognition accounting rule
+        href: ..\revenue-recognition-accounting-rule.md
+      - name: reverse charge VAT
+        href: ..\reverse-charge-vat.md
+      - name: RFID
+        href: ..\rfid.md
+      - name: RFQ
+        href: ..\rfq.md
+      - name: right
+        href: ..\right.md
+      - name: role
+        href: ..\role.md
+      - name: rounding amount
+        href: ..\rounding-amount.md
+      - name: routing
+        href: ..\routing.md
+      - name: rule
+        href: ..\rule.md
+      - name: Rule-based configuration
+        href: ..\rule-based-configuration.md
+    - name: S
+      href: ..\s.md
+      items:
+      - name: SaaS
+        href: ..\saas.md
+      - name: sales agreement
+        href: ..\sales-agreement.md
+      - name: sales agreement policy
+        href: ..\sales-agreement-policy.md
+      - name: sales item
+        href: ..\sales-item.md
+      - name: sales order
+        href: ..\sales-order.md
+      - name: sales order discount
+        href: ..\sales-order-discount.md
+      - name: sales order policy
+        href: ..\sales-order-policy.md
+      - name: sales quotation
+        href: ..\sales-quotation.md
+      - name: sales tax
+        href: ..\sales-tax.md
+      - name: sales tax hierarchy
+        href: ..\sales-tax-hierarchy.md
+      - name: sales tax hierarchy node
+        href: ..\sales-tax-hierarchy-node.md
+      - name: sales tax hierarchy structure
+        href: ..\sales-tax-hierarchy-structure.md
+      - name: sales unit
+        href: ..\sales-unit.md
+      - name: sales unit price
+        href: ..\sales-unit-price.md
+      - name: sales VAT
+        href: ..\sales-vat.md
+      - name: sample item
+        href: ..\sample-item.md
+      - name: scale factor
+        href: ..\scale-factor.md
+      - name: schedule
+        href: ..\schedule.md
+      - name: scope of organization control
+        href: ..\scope-of-organization-control.md
+      - name: security model
+        href: ..\security-model.md
+      - name: security role
+        href: ..\security-role.md
+      - name: segregation of duties
+        href: ..\segregation-of-duties.md
+      - name: selling period
+        href: ..\selling-period.md
+      - name: SEPA
+        href: ..\sepa.md
+      - name: sequencing
+        href: ..\sequencing.md
+      - name: service
+        href: ..\service.md
+      - name: service group
+        href: ..\service-group.md
+      - name: service item
+        href: ..\service-item.md
+      - name: shared asset
+        href: ..\shared-asset.md
+      - name: shelf life
+        href: ..\shelf-life.md
+      - name: ship date
+        href: ..\ship-date.md
+      - name: shipment
+        href: ..\shipment.md
+      - name: shopping cart
+        href: ..\shopping-cart_1.md
+      - name: short-term debt
+        href: ..\short-term-debt.md
+      - name: SI
+        href: ..\si.md
+      - name: signal
+        href: ..\signal.md
+      - name: Single Euro Payments Area
+        href: ..\single-euro-payments-area.md
+      - name: single use kanban
+        href: ..\single-use-kanban.md
+      - name: site
+        href: ..\site.md
+      - name: SKU
+        href: ..\sku.md
+      - name: smart rounding
+        href: ..\smart-rounding.md
+      - name: soft booking
+        href: ..\soft-booking.md
+      - name: software as a service
+        href: ..\software-as-a-service.md
+      - name: source company account
+        href: ..\source-company-account.md
+      - name: source document
+        href: ..\source-document.md
+      - name: source document amount
+        href: ..\source-document-amount.md
+      - name: source inventory location
+        href: ..\source-inventory-location.md
+      - name: source requirement
+        href: ..\source-requirement.md
+      - name: special depreciation allowance
+        href: ..\special-depreciation-allowance.md
+      - name: spend
+        href: ..\spend.md
+      - name: split source document
+        href: ..\split-source-document.md
+      - name: state
+        href: ..\state.md
+      - name: statistical account
+        href: ..\statistical-account.md
+      - name: statistical baseline forecast
+        href: ..\statistical-baseline-forecast.md
+      - name: status
+        href: ..\status.md
+      - name: step
+        href: ..\step.md
+      - name: stock
+        href: ..\stock.md
+      - name: stock flow event
+        href: ..\stock-flow-event.md
+      - name: stock item
+        href: ..\stock-item.md
+      - name: stock keeping unit
+        href: ..\stock-keeping-unit.md
+      - name: stocked
+        href: ..\stocked.md
+      - name: storage dimension
+        href: ..\storage-dimension.md
+      - name: Storno accounting
+        href: ..\storno-accounting.md
+      - name: subcontracting
+        href: ..\subcontracting.md
+      - name: subledger journal account entry
+        href: ..\subledger-journal-account-entry.md
+      - name: subledger journal entry
+        href: ..\subledger-journal-entry.md
+      - name: subtotal
+        href: ..\subtotal.md
+      - name: supermarket
+        href: ..\supermarket.md
+      - name: supplied inventory location
+        href: ..\supplied-inventory-location.md
+      - name: surrogate key
+        href: ..\surrogate-key.md
+      - name: swipe
+        href: ..\swipe.md
+      - name: system currency unit
+        href: ..\system-currency-unit.md
+      - name: system language
+        href: ..\system-language.md
+      - name: system of units
+        href: ..\system-of-units.md
+      - name: system services
+        href: ..\system-services.md
+      - name: system-defined financial dimension type
+        href: ..\system-defined-financial-dimension-type.md
+    - name: T
+      href: ..\t.md
+      items:
+      - name: takt time
+        href: ..\takt-time.md
+      - name: task
+        href: ..\task.md
+      - name: tax
+        href: ..\tax.md
+      - name: tax branch
+        href: ..\tax-branch.md
+      - name: tax liability
+        href: ..\tax-liability.md
+      - name: tax variance
+        href: ..\tax-variance.md
+      - name: taxable amount
+        href: ..\taxable-amount.md
+      - name: taxable product
+        href: ..\taxable-product.md
+      - name: team
+        href: ..\team.md
+      - name: technosphere
+        href: ..\technosphere.md
+      - name: third-party logistics
+        href: ..\third-party-logistics.md
+      - name: three-way matching policy
+        href: ..\three-way-matching-policy.md
+      - name: till
+        href: ..\till.md
+      - name: total
+        href: ..\total.md
+      - name: tracking dimension
+        href: ..\tracking-dimension.md
+      - name: trade discount
+        href: ..\trade-discount.md
+      - name: trading relationship
+        href: ..\trading-relationship.md
+      - name: transaction
+        href: ..\transaction.md
+      - name: transaction currency unit
+        href: ..\transaction-currency-unit.md
+      - name: transaction data
+        href: ..\transaction-data.md
+      - name: transaction threshold
+        href: ..\transaction-threshold.md
+      - name: transfer batch
+        href: ..\transfer-batch.md
+      - name: transit engine
+        href: ..\transit-engine.md
+      - name: transportation demand
+        href: ..\transportation-demand.md
+      - name: trial balance
+        href: ..\trial-balance.md
+      - name: turnover threshold
+        href: ..\turnover-threshold.md
+      - name: two-way matching policy
+        href: ..\two-way-matching-policy.md
+      - name: type
+        href: ..\type.md
+    - name: U
+      href: ..\u.md
+      items:
+      - name: U.S. Customary System
+        href: ..\u-s-customary-system.md
+      - name: UBL
+        href: ..\ubl.md
+      - name: unit class
+        href: ..\unit-class.md
+      - name: unit contribution margin
+        href: ..\unit-contribution-margin.md
+      - name: unit of measure
+        href: ..\unit-of-measure.md
+      - name: unit of work
+        href: ..\unit-of-work.md
+      - name: Universal Business Language
+        href: ..\universal-business-language.md
+      - name: unrealized gain
+        href: ..\unrealized-gain.md
+      - name: unrealized loss
+        href: ..\unrealized-loss.md
+      - name: unrealized sales VAT
+        href: ..\unrealized-sales-vat.md
+      - name: unrealized VAT
+        href: ..\unrealized-vat.md
+      - name: unsolicited vendor
+        href: ..\unsolicited-vendor.md
+      - name: upcast
+        href: ..\upcast.md
+      - name: use tax
+        href: ..\use-tax.md
+      - name: user-defined financial dimension type
+        href: ..\user-defined-financial-dimension-type.md
+    - name: V
+      href: ..\v.md
+      items:
+      - name: valid time state table
+        href: ..\valid-time-state-table.md
+      - name: value stream
+        href: ..\value-stream.md
+      - name: value-added tax
+        href: ..\value-added-tax.md
+      - name: variable compensation
+        href: ..\variable-compensation.md
+      - name: variance
+        href: ..\variance.md
+      - name: variant configuration technology
+        href: ..\variant-configuration-technology.md
+      - name: VAT
+        href: ..\vat.md
+      - name: vendor
+        href: ..\vendor.md
+      - name: vendor analysis report
+        href: ..\vendor-analysis-report.md
+      - name: vendor catalog
+        href: ..\vendor-catalog.md
+      - name: vendor invoice
+        href: ..\vendor-invoice.md
+      - name: vendor prepayment
+        href: ..\vendor-prepayment.md
+      - name: version
+        href: ..\version.md
+      - name: void
+        href: ..\void.md
+    - name: W
+      href: ..\w.md
+      items:
+      - name: waive charge
+        href: ..\waive-charge.md
+      - name: wave
+        href: ..\wave.md
+      - name: weight engine
+        href: ..\weight-engine.md
+      - name: WIP
+        href: ..\wip.md
+      - name: withholding tax
+        href: ..\withholding-tax.md
+      - name: work
+        href: ..\work.md
+      - name: work breakdown structure
+        href: ..\work-breakdown-structure.md
+      - name: work cell
+        href: ..\work-cell.md
+      - name: work in process
+        href: ..\work-in-process.md
+      - name: work item queue
+        href: ..\work-item-queue.md
+      - name: work item queue assignment expression
+        href: ..\work-item-queue-assignment-expression.md
+      - name: worker
+        href: ..\worker.md
+      - name: workflow
+        href: ..\workflow.md
+      - name: workflow decision element
+        href: ..\workflow-decision-element.md
+      - name: workflow document
+        href: ..\workflow-document.md
+      - name: workflow element
+        href: ..\workflow-element.md
+      - name: workflow escalation action
+        href: ..\workflow-escalation-action.md
+      - name: workflow execution account
+        href: ..\workflow-execution-account.md
+      - name: workflow history
+        href: ..\workflow-history.md
+      - name: workflow host
+        href: ..\workflow-host.md
+      - name: workflow instance
+        href: ..\workflow-instance.md
+      - name: workflow list form
+        href: ..\workflow-list-form.md
+      - name: workflow participant
+        href: ..\workflow-participant.md
+      - name: workflow runtime
+        href: ..\workflow-runtime.md
+      - name: workflow scope
+        href: ..\workflow-scope.md
+      - name: workflow tracking data
+        href: ..\workflow-tracking-data.md
+      - name: workflow type
+        href: ..\workflow-type.md
+      - name: write off
+        href: ..\write-off.md
+    - name: X
+      href: ..\x.md
+      items:
+      - name: X++
+        href: ..\x_1.md
+      - name: x-report
+        href: ..\x-report.md
+    - name: Y
+      href: ..\y.md
+      items:
+      - name: year-end closing
+        href: ..\year-end-closing.md
+    - name: Z
+      href: ..\z.md
+      items:
+      - name: zero-rated
+        href: ..\zero-rated.md
+      - name: z-report
+        href: ..\z-report.md

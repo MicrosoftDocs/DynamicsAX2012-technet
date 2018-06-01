@@ -26,7 +26,7 @@ An accounting process that occurs at the end of the fiscal year and is used to t
 
 [fiscal year](fiscal-year.md)
 
-[Microsoft Dynamics AX glossary](microsoft-dynamics-ax-glossary.md)
+[Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
 **Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
