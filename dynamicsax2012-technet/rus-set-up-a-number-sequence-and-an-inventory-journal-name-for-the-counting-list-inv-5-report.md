@@ -13,13 +13,13 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-You can set up a number sequence and create a new inventory journal name for the **Counting list (INV-5)**report.
+You can set up a number sequence and create a new inventory journal name for the **Counting list (INV-5)** report.
 
 1.  Click **Inventory management** \> **Setup** \> **Inventory and warehouse management parameters**.
 
 2.  In the **Inventory and warehouse management parameters** form, in the left pane, click **Number sequences**.
 
-3.  In the **Number sequence code** field, select a number sequence for the **Counting list (INV-5)**reference.
+3.  In the **Number sequence code** field, select a number sequence for the **Counting list (INV-5)** reference.
 
 4.  Close the form.
 

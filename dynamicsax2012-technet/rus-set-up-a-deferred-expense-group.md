@@ -13,18 +13,16 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-1.  
-    
+1.
 
-    > [!NOTE]
-    > <P>This topic has not been fully updated for Microsoft Dynamics AX 2012 R2.</P>
-
+> [!NOTE]
+> <p>This topic has not been fully updated for Microsoft Dynamics AX 2012 R2.</P>
     
-    Click **General ledger** \> **Setup** \> **Deferrals** \> **Deferrals groups**.
+Click **General ledger** \> **Setup** \> **Deferrals** \> **Deferrals groups**.
     
-    –or–
+–or–
     
-    Click **General ledger** \> **Setup** \> **Deferrals** \> **Value models**.
+Click **General ledger** \> **Setup** \> **Deferrals** \> **Value models**.
 
 2.  In the **Model number** field, select the tax model that you want to set up the deferred expense group for.
 

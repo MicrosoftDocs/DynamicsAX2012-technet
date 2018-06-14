@@ -20,11 +20,8 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 This topic describes how to deploy an Enterprise Portal for Microsoft Dynamics AX site that uses the claims-mode authentication that is provided by SharePoint. In the context of Microsoft Dynamics AX, this kind of authentication is called flexible authentication. Flexible authentication enables businesses and organizations to authenticate Enterprise Portal users without having to store user accounts in Active Directory Domain Services. By using flexible authentication, you can configure a claims-aware Enterprise Portal site to authenticate users by using one of the following services: forms-based authentication or Microsoft Active Directory Federation Services (AD FS). This topic describes how to deploy an Enterprise Portal site that uses forms-based authentication. Forms-based authentication validates credentials that are entered in a logon form and stored in an ASP.NET database.
 
-
 > [!NOTE]
 > <P>Active Directory Domain Services (AD DS) is still required for Enterprise Portal administration tasks.</P>
-
-
 
 Before you create a forms-based Enterprise Portal site, we recommend that you learn about the concepts of claims-based authentication. The procedures in this topic assume that you are familiar with the concepts in the following documents.
 
@@ -88,13 +85,10 @@ Complete the following tasks before you install Enterprise Portal.
 <tr class="even">
 <td><p>Create a domain account</p></td>
 <td><p>Create a domain account for the Microsoft Dynamics AX .NET Business Connector proxy.</p>
-<div class="alert">
 
 > [!WARNING]
 > <P>The account should not be a member of the Microsoft Dynamics AX system administrator group or a member of the Windows administrator group on the Enterprise Portal server. The login should not be used for standard logon purposes. Only those individuals who are responsible for deploying and configuring Microsoft Dynamics AX should know the credentials for this login. If a malicious user gained access to the credentials for this login, that person could potentially impersonate any Microsoft Dynamics AX user.</P>
 
-
-</div>
 <p>Enter the account in the Microsoft Dynamics AX client on the <strong>System administration</strong> &gt; <strong>System</strong> &gt; <strong>System service accounts</strong> form.</p></td>
 </tr>
 <tr class="odd">
@@ -629,7 +623,7 @@ The New-AXUser cmdlet creates a new user in the System user role in Microsoft Dy
 
 If you are creating a claims user, specify the name of the claims provider in the *UserDomain* parameter. If you are using forms-based claims authentication, you can also create a new user in the provider.
 
-1.  Click **Start** \> **Administrative Tools**.
+1.  Click **Start**> **Administrative Tools**.
 
 2.  Click **Microsoft Dynamics Ax 2012 Management Shell**.
 
@@ -643,7 +637,7 @@ If you are creating a claims user, specify the name of the claims provider in th
 
 ## Logon to the site using forms-based authentication
 
-If you browse the Enterprise Portal site by using the following URL: https://*ServerName*:*PortNumber*/sites/DynamicsAx, the Sign In page prompts you to select a logon option from the drop-down list. If you select FormsAuth, you are redirected to the forms-based authentication logon site, such as https://*ServerName*.contoso.com:*PortNumber*/\_Layouts/Login.aspx. Verify that you can logon to the site using forms-based authentication.
+If you browse the Enterprise Portal site by using the following URL: https://ServerName:PortNumber/sites/DynamicsAx, the Sign In page prompts you to select a logon option from the drop-down list. If you select FormsAuth, you are redirected to the forms-based authentication logon site, such as https://ServerName.contoso.com:PortNumber/_Layouts/Login.aspx. Verify that you can logon to the site using forms-based authentication.
 
   
 **Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).

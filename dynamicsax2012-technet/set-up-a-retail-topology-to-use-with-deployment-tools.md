@@ -36,11 +36,8 @@ f1_keywords:
 
 Before you can use deployment tools to mass deploy retail components, you must enter information about the topology of the retail environment in Microsoft Dynamics AX. You’ll also specify settings for each component that will be deployed.
 
-
 > [!NOTE]
 > <P>The information in this topic applies only to Microsoft Dynamics AX 2012 R3.</P>
-
-
 
 This topic contains the following sections:
 
@@ -54,11 +51,8 @@ This topic contains the following sections:
 
 First, specify the computers to include in the deployment. You can use two methods to create the list of computers in Microsoft Dynamics AX. We recommend that you bulk import computer entities from Microsoft System Center Configuration Manager. If Configuration Manager isn’t available, you can manually enter information about individual computers in Microsoft Dynamics AX.
 
-
 > [!NOTE]
 > <P>Computer entities that you define in Microsoft Dynamics AX must already be discovered in Configuration Manager before you import the topology to Configuration Manager.</P>
-
-
 
 ## Bulk import computer entities from Configuration Manager (recommended)
 
@@ -157,14 +151,12 @@ For information about how to create and connect to a security file, see: [Create
 
 Use the following procedure to enter individual computer records in Microsoft Dynamics AX.
 
-1.  
-    
+1.      
 
-    > [!NOTE]
-    > <P>This step is only available on AX 2012 R3 CU8.</P>
+> [!NOTE]
+> <P>This step is only available on AX 2012 R3 CU8.</P>
 
-    
-    Under **Retail Mass-deployment** \> **Security** \> **Retail deployment log shares**, enter a location to store log files.
+Under **Retail Mass-deployment** \> **Security** \> **Retail deployment log shares**, enter a location to store log files.
 
 2.  Click **Retail** \> **Setup** \> **Retail mass-deployment** \> **Target computers** \> **Computers**.
 
@@ -194,9 +186,7 @@ After you have identified the computers to include in the deployment, you must s
 
 
 > [!TIP]
-> <P>Avoid the use of spaces in configuration parameters when completing forms.</P>
-
-
+> <p>Avoid the use of spaces in configuration parameters when completing forms.</p>
 
 ## Create a deployment profile for a channel database
 
@@ -323,13 +313,11 @@ Define a deployment profile for each computer cluster where you plan to deploy R
     <td><p><strong>Certificate thumbprint</strong></p>
     <p>This control is available only in versions of Microsoft Dynamics AX 2012 prior to AX 2012 R3 Cumulative Update 8.</p></td>
     <td><p>Enter the thumbprint for the SSL certificate that is used to help secure the website.</p>
-    <div class="alert">
-
+    
     > [!NOTE]
     > <P>The certificate must be installed on the target computer before you attempt to deploy this component.</P>
 
-
-    </div></td>
+    </td>
     </tr>
     </tbody>
     </table>
@@ -378,13 +366,11 @@ Define one or more deployment profiles for Async Client.
     <tr class="odd">
     <td><p><strong>Working folder</strong></p></td>
     <td><p>Enter the path of the working folder where data packages are stored and picked up by Async Client.</p>
-    <div class="alert">
-
+   
     > [!NOTE]
     > <P>We recommend that you use a folder on the computer where Async Client is being installed, instead of a remote shared location.</P>
 
-
-    </div></td>
+    </td>
     </tr>
     <tr class="even">
     <td><p><strong>Service Credential ID</strong></p>
@@ -507,13 +493,11 @@ Define a deployment profile for each computer cluster where you plan to deploy A
     <td><p><strong>Certificate thumbprint</strong></p>
     <p>This control is available only in versions of Microsoft Dynamics AX 2012 prior to AX 2012 R3 Cumulative Update 8.</p></td>
     <td><p>Enter the thumbprint for the certificate that is used to help secure the website.</p>
-    <div class="alert">
-
+    
     > [!NOTE]
     > <P>The certificate must be installed on the target computer before you attempt to deploy this component.</P>
 
-
-    </div></td>
+    </td>
     </tr>
     <tr class="even">
     <td><p><strong>Database server</strong></p>
@@ -566,13 +550,11 @@ Define a deployment profile for each device where you plan to deploy Retail POS.
     <td><p><strong>Database server instance</strong></p></td>
     <td><p>Enter the name of the SQL Server instance that will host the offline database.</p>
     <p>If you are using the default instance of SQL Server, you can leave this field blank.</p>
-    <div class="alert">
-
+    
     > [!NOTE]
     > <P>The Builtin\Administrators group must belong to the sysadmin server role on the SQL Server instance where the offline database is deployed.</P>
 
-
-    </div></td>
+    </td>
     </tr>
     <tr class="even">
     <td><p><strong>Database name</strong></p></td>
@@ -725,13 +707,11 @@ Define a deployment profile for each computer cluster where you plan to deploy R
     <td><p><strong>Certificate thumbprint</strong></p>
     <p>This control is available only in versions of Microsoft Dynamics AX 2012 prior to AX 2012 R3 Cumulative Update 8.</p></td>
     <td><p>Enter the thumbprint for the SSL certificate that is used to help secure the website.</p>
-    <div class="alert">
-
+    
     > [!NOTE]
     > <P>The certificate must be installed on the target computer before you attempt to deploy this component.</P>
 
-
-    </div></td>
+    </td>
     </tr>
     <tr class="even">
     <td><p><strong>Database server</strong></p>
@@ -740,7 +720,6 @@ Define a deployment profile for each computer cluster where you plan to deploy R
     </tr>
     </tbody>
     </table>
-
 
 ## Create a deployment profile for .NET Business Connector
 
