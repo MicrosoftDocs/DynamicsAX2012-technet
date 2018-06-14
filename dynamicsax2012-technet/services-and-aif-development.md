@@ -13,7 +13,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-For information about the new and enhanced developer features for Services and Application Integration Framework (AIF) that are available in Microsoft Dynamics AX 2012, see [What's New: Services and AIF for Developers in Microsoft Dynamics AX 2012](https://technet.microsoft.com/en-us/library/gg879708\(v=ax.60\)).
+For information about the new and enhanced developer features for Services and Application Integration Framework (AIF) that are available in Microsoft Dynamics AX 2012, see What's New: Services and AIF for Developers in Microsoft Dynamics AX 2012.
 
 The topics in this section provide information about development with Microsoft Dynamics AX 2012 services and Application Integration Framework (AIF).
 

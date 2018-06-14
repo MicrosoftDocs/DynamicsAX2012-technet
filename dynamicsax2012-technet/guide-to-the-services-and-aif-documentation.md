@@ -65,7 +65,7 @@ Implementing data transfers has changed significantly in Microsoft Dynamics AX 2
 
   - For information about What’s New in Microsoft Dynamics AX 2012 for system administrators, see [What's New: Services and AIF administration](https://technet.microsoft.com/en-us/library/gg751352\(v=ax.60\)).
 
-  - For information about what’s new in Microsoft Dynamics AX 2012 for developers, see [What's New: Services and AIF for Developers in Microsoft Dynamics AX 2012](https://technet.microsoft.com/en-us/library/gg879708\(v=ax.60\)).
+  - For information about what’s new in Microsoft Dynamics AX 2012 for developers, see What's New: Services and AIF for Developers in Microsoft Dynamics AX 2012.
 
   - For information about new and see comment features in Microsoft Dynamics AX 2012, see [New, changed, and deprecated features for Microsoft Dynamics AX 2012](http://go.microsoft.com/fwlink/?linkid=212966).
 
