@@ -312,7 +312,7 @@ The content in the baseline model store is overwritten during the update process
 
 ## What does the name of an update package mean?
 
-The following naming convention is used for packages that service Microsoft Dynamics AX: *\<ProductName\>*-KB*\<KBNumber\>*-*\<ServicePackLevel\>*.exe.
+The following naming convention is used for packages that service Microsoft Dynamics AX: *\<ProductName\>*-KB\<KBNumber\>*-*\<ServicePackLevel\>.exe.
 
 For example, a package might be named DynamicsAX2012-KB123456- SP2.exe. The following table explains the name segments that are used in package names.
 

@@ -25,7 +25,7 @@ A cube is defined by its measures and the dimensions it uses. You can specify me
 
 [How to: Create a Date Dimension for a Cube](how-to-create-a-date-dimension-for-a-cube.md)
 
-[How to: Include a Hierarchy in a Cube](https://technet.microsoft.com/en-us/library/ee910035\(v=ax.60\))
+How to: Include a Hierarchy in a Cube
 
 [How to: Upgrade Microsoft Dynamics AX cubes](how-to-upgrade-microsoft-dynamics-ax-cubes.md)
 
@@ -35,7 +35,7 @@ A cube is defined by its measures and the dimensions it uses. You can specify me
 
 [How to: Create an ODC file for a Business Overview Web Part](how-to-create-an-odc-file-for-a-business-overview-web-part.md)
 
-[How to: Expose a PowerPivot Model in a Business Overview Web Part](https://technet.microsoft.com/en-us/library/jj677279\(v=ax.60\))
+How to: Expose a PowerPivot Model in a Business Overview Web Part
 
 [How to: Create a Role Center](how-to-create-a-role-center.md)
 

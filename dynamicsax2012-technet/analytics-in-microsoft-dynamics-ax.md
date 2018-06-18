@@ -292,7 +292,7 @@ The Business Intelligence infrastructure enables you to generate Unified Dimensi
 <tr class="even">
 <td><p>Create a hierarchy</p></td>
 <td><p>You can define an organization hierarchy to establish a relationship between legal entities. You can use organization hierarchies in cubes to analyze data across virtual companies. If a change is made to the organizational hierarchy, the changes are reflected automatically when cubes are processed.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/ee910035(v=ax.60)">How to: Include a Hierarchy in a Cube</a></p></td>
+<td><p>How to: Include a Hierarchy in a Cube</p></td>
 </tr>
 </tbody>
 </table>
