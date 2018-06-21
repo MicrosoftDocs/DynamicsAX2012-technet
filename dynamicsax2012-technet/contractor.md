@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.contractor
 ---
 
-# contractor
+# contractor[AX 2012]
 
 A role assumed by a person who participates in a contractor-employer relationship with a legal entity.
 

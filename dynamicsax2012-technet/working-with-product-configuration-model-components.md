@@ -14,7 +14,7 @@ f1_keywords:
 - model components
 ---
 
-# Working with product configuration model components 
+# Working with product configuration model components [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

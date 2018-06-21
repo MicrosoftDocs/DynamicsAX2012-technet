@@ -12,7 +12,7 @@ f1_keywords:
 - Poland correction note
 ---
 
-# (POL) Create and print a correction note 
+# (POL) Create and print a correction note [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

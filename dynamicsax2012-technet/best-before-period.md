@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.best before period
 ---
 
-# best before period
+# best before period[AX 2012]
 
 The time period in which to obtain the optimum quality or characteristic of a product.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.open fiscal period
 ---
 
-# open fiscal period
+# open fiscal period[AX 2012]
 
 The state of a fiscal period that allows its use as a time period classifier for account entries.
 

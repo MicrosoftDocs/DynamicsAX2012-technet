@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Goods and Services Tax
 ---
 
-# Goods and Services Tax
+# Goods and Services Tax[AX 2012]
 
 A value-added tax levied in some countries/regions.
 

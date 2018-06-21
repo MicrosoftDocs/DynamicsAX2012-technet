@@ -8,7 +8,7 @@ ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
 
-# Deploy an Enterprise Portal site that uses AD FS authentication 
+# Deploy an Enterprise Portal site that uses AD FS authentication [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

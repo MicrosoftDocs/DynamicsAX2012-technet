@@ -10,7 +10,7 @@ f1_keywords:
 - MsDynAx060.Forms.PurchTableListPage
 ---
 
-# Working with purchase orders (Retail essentials) 
+# Working with purchase orders (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

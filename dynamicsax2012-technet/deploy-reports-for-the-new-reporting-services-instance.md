@@ -10,7 +10,7 @@ dev_langs:
 - powershell
 ---
 
-# Deploy reports for the new Reporting Services instance 
+# Deploy reports for the new Reporting Services instance [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

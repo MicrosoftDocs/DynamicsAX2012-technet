@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.SEPA
 ---
 
-# SEPA
+# SEPA[AX 2012]
 
 A European banking industry initiative that enables secure electronic payment transfers between bank accounts within and across euro areas.
 

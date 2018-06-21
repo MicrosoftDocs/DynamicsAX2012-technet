@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.vendor invoice
 ---
 
-# vendor invoice
+# vendor invoice[AX 2012]
 
 A source document that documents a vendor payment request. A vendor invoice can refer to one or more purchase orders. When the vendor invoice is authorized, a payment can be made to the vendor.
 

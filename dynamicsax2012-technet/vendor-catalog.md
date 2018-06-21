@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.vendor catalog
 ---
 
-# vendor catalog
+# vendor catalog[AX 2012]
 
 A listing of product offerings that are available for purchase from a vendor.
 

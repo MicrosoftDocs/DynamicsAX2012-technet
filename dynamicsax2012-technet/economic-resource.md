@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.economic resource
 ---
 
-# economic resource
+# economic resource[AX 2012]
 
 A resource that is consumed, produced, and used to add value to an organization’s product delivery activities.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.flexible authentication
 ---
 
-# flexible authentication
+# flexible authentication[AX 2012]
 
 An authentication process where users in a variety of identity management systems can be authenticated.
 

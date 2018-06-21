@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.aggregation
 ---
 
-# aggregation
+# aggregation[AX 2012]
 
 A collection of shared objects.
 

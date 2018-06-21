@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.CFOProfitabilityAnalysis
 ---
 
-# Chief financial officer profitability analysis report (CFOProfitabilityAnalysis) 
+# Chief financial officer profitability analysis report (CFOProfitabilityAnalysis) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -16,7 +16,7 @@ f1_keywords:
 - BR - 00019
 ---
 
-# (BRA) Page and book control for legal accounting reports 
+# (BRA) Page and book control for legal accounting reports [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

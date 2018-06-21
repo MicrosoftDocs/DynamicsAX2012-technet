@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.relationship
 ---
 
-# relationship
+# relationship[AX 2012]
 
 A connection between objects.
 

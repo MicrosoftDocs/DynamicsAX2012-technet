@@ -16,7 +16,7 @@ f1_keywords:
 - BR - 00045
 ---
 
-# (BRA) About the NF-e process 
+# (BRA) About the NF-e process [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

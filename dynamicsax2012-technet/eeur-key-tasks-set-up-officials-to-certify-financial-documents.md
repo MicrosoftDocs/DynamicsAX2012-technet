@@ -14,7 +14,7 @@ f1_keywords:
 - internal financial documents
 ---
 
-# (EEUR) Key tasks: Set up officials to certify financial documents 
+# (EEUR) Key tasks: Set up officials to certify financial documents [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

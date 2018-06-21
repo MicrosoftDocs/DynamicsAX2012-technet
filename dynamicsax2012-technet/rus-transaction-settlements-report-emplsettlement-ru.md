@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.EmplSettlement_RU
 ---
 
-# (RUS) Transaction settlements report (EmplSettlement\_RU) 
+# (RUS) Transaction settlements report (EmplSettlement\_RU) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

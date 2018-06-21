@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.work item queue assignment expression
 ---
 
-# work item queue assignment expression
+# work item queue assignment expression[AX 2012]
 
 A statement that conditionally assigns work items to specific work item queues.
 

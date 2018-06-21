@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.worker
 ---
 
-# worker
+# worker[AX 2012]
 
 A person who assumes the role of an employee or a contractor and is paid in exchange for services.
 

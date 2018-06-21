@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.gross margin
 ---
 
-# gross margin
+# gross margin[AX 2012]
 
 The difference between the sales and the direct costs of the products sold.
 

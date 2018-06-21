@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.heijunka
 ---
 
-# heijunka
+# heijunka[AX 2012]
 
 A method of production scheduling that levels the production flow and that places the production schedule in a visible location so that any production issues can be seen at an early stage.
 

@@ -23,7 +23,7 @@ f1_keywords:
 - quotation order
 ---
 
-# About purchase order types 
+# About purchase order types [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

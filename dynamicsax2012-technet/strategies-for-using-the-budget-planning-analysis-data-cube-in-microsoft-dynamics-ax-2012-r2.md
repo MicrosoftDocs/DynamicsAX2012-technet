@@ -11,7 +11,7 @@ f1_keywords:
 - Data cube for budget planning
 ---
 
-# Strategies for Using the Budget Planning Analysis Data Cube in Microsoft Dynamics AX 2012 R2 
+# Strategies for Using the Budget Planning Analysis Data Cube in Microsoft Dynamics AX 2012 R2 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

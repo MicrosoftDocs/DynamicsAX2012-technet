@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.budget revision
 ---
 
-# budget revision
+# budget revision[AX 2012]
 
 A change to a budget that affects the current and remaining available budget funds.
 

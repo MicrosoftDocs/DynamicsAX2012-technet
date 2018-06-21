@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RAssetLendingHistory
 ---
 
-# (RUS) History of lease report (RAssetLendingHistory) 
+# (RUS) History of lease report (RAssetLendingHistory) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

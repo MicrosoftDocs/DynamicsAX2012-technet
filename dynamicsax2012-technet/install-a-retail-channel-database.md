@@ -10,7 +10,7 @@ dev_langs:
 - powershell
 ---
 
-# Install a Retail channel database 
+# Install a Retail channel database [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

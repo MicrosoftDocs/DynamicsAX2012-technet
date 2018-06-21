@@ -10,7 +10,7 @@ f1_keywords:
 - BR - 00011
 ---
 
-# (BRA) About updates to fiscal document types 
+# (BRA) About updates to fiscal document types [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.currency unit
 ---
 
-# currency unit
+# currency unit[AX 2012]
 
 A discrete division of currency value.
 

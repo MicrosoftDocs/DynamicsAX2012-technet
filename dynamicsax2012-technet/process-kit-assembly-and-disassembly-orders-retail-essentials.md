@@ -8,7 +8,7 @@ ms.date: 01/14/2015
 mtps_version: v=AX.60
 ---
 
-# Process kit assembly and disassembly orders (Retail essentials) 
+# Process kit assembly and disassembly orders (Retail essentials) [AX 2012]
 
 
 This topic describes how to generate assembly orders for retail product kits. An assembly order tells warehouse workers how many kits to assemble. After an assembly order is created, a warehouse worker can use the order to assemble each configuration of the product kit.

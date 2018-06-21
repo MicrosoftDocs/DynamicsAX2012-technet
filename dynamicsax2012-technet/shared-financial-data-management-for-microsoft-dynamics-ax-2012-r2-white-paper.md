@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Shared Financial Data Management for Microsoft Dynamics AX 2012 R2 (White Paper) 
+# Shared Financial Data Management for Microsoft Dynamics AX 2012 R2 (White Paper) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

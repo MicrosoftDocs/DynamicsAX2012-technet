@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.balance sheet account
 ---
 
-# balance sheet account
+# balance sheet account[AX 2012]
 
 An account that describes the changes in value reported on a balance sheet.
 

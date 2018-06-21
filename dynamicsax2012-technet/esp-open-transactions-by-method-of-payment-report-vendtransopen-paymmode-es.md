@@ -14,7 +14,7 @@ f1_keywords:
 - VendTransOpen_PaymMode_ES
 ---
 
-# (ESP) Open transactions by method of payment report (VendTransOpen\_PaymMode\_ES) 
+# (ESP) Open transactions by method of payment report (VendTransOpen\_PaymMode\_ES) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

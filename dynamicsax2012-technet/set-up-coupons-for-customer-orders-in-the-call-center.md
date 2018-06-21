@@ -17,7 +17,7 @@ f1_keywords:
 - Forms.MCRPMCouponListPage
 ---
 
-# Set up coupons for customer orders in the call center 
+# Set up coupons for customer orders in the call center [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -8,7 +8,7 @@ ms.date: 08/30/2013
 mtps_version: v=AX.60
 ---
 
-# Configuring network load balancing for services 
+# Configuring network load balancing for services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

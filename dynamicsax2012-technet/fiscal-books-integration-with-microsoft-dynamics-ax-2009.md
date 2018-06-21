@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Fiscal books integration with Microsoft Dynamics AX 2009 
+# Fiscal books integration with Microsoft Dynamics AX 2009 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.ABC classification
 ---
 
-# ABC classification
+# ABC classification[AX 2012]
 
 A system for ranking discrete categories of items according to Pareto's 80/20 principle that states that a small percentage of items account for the largest fraction of significance.
 

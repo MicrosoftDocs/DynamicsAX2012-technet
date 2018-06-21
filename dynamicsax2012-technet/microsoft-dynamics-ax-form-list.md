@@ -11,7 +11,7 @@ f1_keywords:
 - form
 ---
 
-# Microsoft Dynamics AX form list 
+# Microsoft Dynamics AX form list [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

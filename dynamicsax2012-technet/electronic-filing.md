@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.electronic filing
 ---
 
-# electronic filing
+# electronic filing[AX 2012]
 
 The process of submitting documents to an authority using an electronic communications medium.
 

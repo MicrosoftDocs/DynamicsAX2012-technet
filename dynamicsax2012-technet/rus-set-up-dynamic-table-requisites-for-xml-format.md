@@ -14,7 +14,7 @@ f1_keywords:
 - table requisite
 ---
 
-# (RUS) Set up dynamic table requisites for XML format 
+# (RUS) Set up dynamic table requisites for XML format [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

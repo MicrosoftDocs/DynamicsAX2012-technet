@@ -30,7 +30,7 @@ f1_keywords:
 - register deposit
 ---
 
-# (RUS) Issue payments to workers 
+# (RUS) Issue payments to workers [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

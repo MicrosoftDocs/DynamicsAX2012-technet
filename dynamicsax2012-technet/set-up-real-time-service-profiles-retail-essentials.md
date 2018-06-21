@@ -13,7 +13,7 @@ f1_keywords:
 - MsDynAx060.aa670ee6-0d24-4ff5-a8db-e841fd75163c
 ---
 
-# Set up Real-time Service profiles (Retail essentials) 
+# Set up Real-time Service profiles (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

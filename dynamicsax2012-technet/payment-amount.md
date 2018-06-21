@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.payment amount
 ---
 
-# payment amount
+# payment amount[AX 2012]
 
 A quantity of currency that is offered or accepted to settle a past, present, or future obligation.
 

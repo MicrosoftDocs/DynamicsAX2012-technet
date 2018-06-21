@@ -12,7 +12,7 @@ f1_keywords:
 - RU – 00037
 ---
 
-# (EEUR) Set up for cash management for Retail POS 
+# (EEUR) Set up for cash management for Retail POS [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

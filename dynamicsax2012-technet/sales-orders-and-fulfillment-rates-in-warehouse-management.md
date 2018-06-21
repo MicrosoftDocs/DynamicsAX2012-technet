@@ -8,7 +8,7 @@ ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---
 
-# Sales orders and fulfillment rates in Warehouse management 
+# Sales orders and fulfillment rates in Warehouse management [AX 2012]
 
 
 

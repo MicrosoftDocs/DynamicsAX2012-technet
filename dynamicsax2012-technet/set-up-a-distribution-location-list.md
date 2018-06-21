@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailConnLocationList
 ---
 
-# Set up a distribution location list 
+# Set up a distribution location list [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_

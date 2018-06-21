@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.regulated product
 ---
 
-# regulated product
+# regulated product[AX 2012]
 
 A product that is regulated by a government authority that requires compliance and audit reporting.
 

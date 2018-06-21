@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RAssetDepreciation
 ---
 
-# (RUS) Sheet of FA and depreciation charges report (RAssetDepreciation) 
+# (RUS) Sheet of FA and depreciation charges report (RAssetDepreciation) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

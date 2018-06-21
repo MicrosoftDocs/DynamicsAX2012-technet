@@ -15,7 +15,7 @@ f1_keywords:
 - Forms.WHSRFMenu
 ---
 
-# Set up mobile device menus to display work or activities 
+# Set up mobile device menus to display work or activities [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

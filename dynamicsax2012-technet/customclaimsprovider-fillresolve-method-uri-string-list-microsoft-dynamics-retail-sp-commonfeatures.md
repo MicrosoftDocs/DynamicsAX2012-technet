@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# FillResolve Method (Uri, String , , List())
+# FillResolve Method (Uri, String , , List())[AX 2012]
 
 Fills the resolve.
 

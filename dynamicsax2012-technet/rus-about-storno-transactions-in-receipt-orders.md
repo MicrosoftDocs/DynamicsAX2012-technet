@@ -12,7 +12,7 @@ f1_keywords:
 - receipt order
 ---
 
-# (RUS) About storno transactions in receipt orders 
+# (RUS) About storno transactions in receipt orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

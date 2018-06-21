@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.shipment
 ---
 
-# shipment
+# shipment[AX 2012]
 
 A quantity of freight that is created against a source document such as a sales order, purchase order, or transfer order, and that is transported from an origin point to a destination point. You can consolidate inbound or outbound shipments that are going to the same destination point into a single load.
 

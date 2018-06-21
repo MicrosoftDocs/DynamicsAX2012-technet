@@ -8,7 +8,7 @@ ms.date: 02/22/2017
 mtps_version: v=AX.60
 ---
 
-# (JPN) Setting up and maintaining Accounts payable 
+# (JPN) Setting up and maintaining Accounts payable [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

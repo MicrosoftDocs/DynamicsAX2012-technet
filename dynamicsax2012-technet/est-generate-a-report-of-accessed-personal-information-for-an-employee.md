@@ -12,7 +12,7 @@ f1_keywords:
 - stored
 ---
 
-# (EST) Generate a report of accessed personal information for an employee 
+# (EST) Generate a report of accessed personal information for an employee [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

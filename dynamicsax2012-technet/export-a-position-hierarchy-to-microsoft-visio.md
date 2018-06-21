@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Export a position hierarchy to Microsoft Visio 
+# Export a position hierarchy to Microsoft Visio [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

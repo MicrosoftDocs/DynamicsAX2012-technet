@@ -8,7 +8,7 @@ ms.date: 04/29/2014
 mtps_version: v=AX.60
 ---
 
-# Setting up shipping for retail stores 
+# Setting up shipping for retail stores [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

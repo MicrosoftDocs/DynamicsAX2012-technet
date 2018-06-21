@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.approximate taxes
 ---
 
-# approximate taxes
+# approximate taxes[AX 2012]
 
 The estimated taxes from production and supply chain that apply to an item or service.
 

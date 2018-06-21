@@ -13,7 +13,7 @@ f1_keywords:
 - budget analysis
 ---
 
-# Budget analysis inquiries (Public sector) 
+# Budget analysis inquiries (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

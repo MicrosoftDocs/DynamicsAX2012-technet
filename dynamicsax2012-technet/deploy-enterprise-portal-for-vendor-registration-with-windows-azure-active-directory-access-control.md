@@ -8,7 +8,7 @@ ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
 
-# Deploy Enterprise Portal for vendor registration with Windows Azure Active Directory Access Control 
+# Deploy Enterprise Portal for vendor registration with Windows Azure Active Directory Access Control [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

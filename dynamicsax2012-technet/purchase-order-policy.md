@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.purchase order policy
 ---
 
-# purchase order policy
+# purchase order policy[AX 2012]
 
 A policy that authorizes parties to modify purchase order terms and to control order processing.
 

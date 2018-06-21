@@ -18,7 +18,7 @@ f1_keywords:
 - redeem gift card
 ---
 
-# Sell gift cards or add funds to them 
+# Sell gift cards or add funds to them [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.ledger
 ---
 
-# ledger
+# ledger[AX 2012]
 
 The part of an accounting system that is used for classifying the monetary value of economic transactions by using a chart of accounts, a fiscal calendar, and one or more currencies.
 

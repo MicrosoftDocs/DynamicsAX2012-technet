@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.bill of materials
 ---
 
-# bill of materials
+# bill of materials[AX 2012]
 
 A list of products and their quantities that are required to produce one product.
 

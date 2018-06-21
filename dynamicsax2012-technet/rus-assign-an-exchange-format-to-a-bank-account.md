@@ -10,7 +10,7 @@ f1_keywords:
 - exchange format
 ---
 
-# (RUS) Assign an exchange format to a bank account 
+# (RUS) Assign an exchange format to a bank account [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

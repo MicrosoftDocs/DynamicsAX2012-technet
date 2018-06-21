@@ -13,7 +13,7 @@ f1_keywords:
 - 1-T
 ---
 
-# (RUS) Create the bill of lading and print the 1-T bill of lading report 
+# (RUS) Create the bill of lading and print the 1-T bill of lading report [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

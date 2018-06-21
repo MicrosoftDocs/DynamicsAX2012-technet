@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.state
 ---
 
-# state
+# state[AX 2012]
 
 The condition of a system, process, or party.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.GST
 ---
 
-# GST
+# GST[AX 2012]
 
 A value-added tax levied in some countries/regions.
 

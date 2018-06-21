@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.approved vendor
 ---
 
-# approved vendor
+# approved vendor[AX 2012]
 
 A vendor that is authorized to supply products to one or more legal entities.
 

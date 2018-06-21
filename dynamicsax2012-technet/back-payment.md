@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.back payment
 ---
 
-# back payment
+# back payment[AX 2012]
 
 A payment made by a customer for a past due obligation.
 

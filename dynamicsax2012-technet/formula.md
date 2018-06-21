@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.formula
 ---
 
-# formula
+# formula[AX 2012]
 
 A numeric relationship among production process inputs and production process outputs.
 

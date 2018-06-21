@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.procurement catalog
 ---
 
-# procurement catalog
+# procurement catalog[AX 2012]
 
 A listing of product offerings that are grouped by procurement category. A procurement catalog is used to request products for internal use by an organization.
 

@@ -12,7 +12,7 @@ f1_keywords:
 - setting up product configuration models
 ---
 
-# Setting up and maintaining product configuration models 
+# Setting up and maintaining product configuration models [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

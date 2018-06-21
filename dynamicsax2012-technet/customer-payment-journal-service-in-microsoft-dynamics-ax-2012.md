@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Customer Payment Journal Service in Microsoft Dynamics AX 2012 
+# Customer Payment Journal Service in Microsoft Dynamics AX 2012 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

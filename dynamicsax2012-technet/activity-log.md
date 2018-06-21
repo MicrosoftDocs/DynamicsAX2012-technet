@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.activity log
 ---
 
-# activity log
+# activity log[AX 2012]
 
 A historic record of the state of a source document.
 

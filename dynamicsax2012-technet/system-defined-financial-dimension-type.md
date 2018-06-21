@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.system-defined financial dimension type
 ---
 
-# system-defined financial dimension type
+# system-defined financial dimension type[AX 2012]
 
 A financial dimension mapped to a table or view in the database that represents an entity type and whose values are in the domain of one attribute of that entity type.
 

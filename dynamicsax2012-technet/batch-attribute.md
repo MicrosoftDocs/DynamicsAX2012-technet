@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.batch attribute
 ---
 
-# batch attribute
+# batch attribute[AX 2012]
 
 A product attribute of a process batch or a transfer batch.
 

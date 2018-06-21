@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.lot
 ---
 
-# lot
+# lot[AX 2012]
 
 A quantity of one item or a number of items of the same kind.
 

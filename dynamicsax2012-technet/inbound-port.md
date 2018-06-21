@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.inbound port
 ---
 
-# inbound port
+# inbound port[AX 2012]
 
 A port for servicing inbound requests.
 

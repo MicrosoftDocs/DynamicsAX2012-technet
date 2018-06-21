@@ -12,7 +12,7 @@ f1_keywords:
 - MsDynAx060.Forms.TaxReport347Table
 ---
 
-# (ESP) Group cash payments by invoice year in Declaration 347 
+# (ESP) Group cash payments by invoice year in Declaration 347 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

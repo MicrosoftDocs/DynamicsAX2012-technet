@@ -12,7 +12,7 @@ f1_keywords:
 - MsDynAx060.a71c9229-3fa8-41b5-b1ed-9534426f81c2
 ---
 
-# Schedule and run jobs in Retail Scheduler (Retail essentials) 
+# Schedule and run jobs in Retail Scheduler (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

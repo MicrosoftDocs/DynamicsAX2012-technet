@@ -8,7 +8,7 @@ ms.date: 02/21/2017
 mtps_version: v=AX.60
 ---
 
-# SEPA (ISO 20022 XML) direct debit payments 
+# SEPA (ISO 20022 XML) direct debit payments [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

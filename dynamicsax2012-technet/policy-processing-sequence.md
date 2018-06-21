@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.policy processing sequence
 ---
 
-# policy processing sequence
+# policy processing sequence[AX 2012]
 
 The order in which conflicts between policy rules are resolved. Policy rules defined at a lower level of the sequence always override conflicting policy rules at higher levels of the sequence.
 

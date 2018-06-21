@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.pre-encumbrance
 ---
 
-# pre-encumbrance
+# pre-encumbrance[AX 2012]
 
 A commitment made by management to reserve budget funds for expenditure requests.
 

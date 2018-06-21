@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.report definition
 ---
 
-# report definition
+# report definition[AX 2012]
 
 The blueprint for a report before the report is processed or rendered. A report definition contains information about the query and layout for the report.
 

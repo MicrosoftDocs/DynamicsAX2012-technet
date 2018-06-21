@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sequencing
 ---
 
-# sequencing
+# sequencing[AX 2012]
 
 The order in which jobs are processed or operations are performed at a manufacturing facility to achieve objectives.
 

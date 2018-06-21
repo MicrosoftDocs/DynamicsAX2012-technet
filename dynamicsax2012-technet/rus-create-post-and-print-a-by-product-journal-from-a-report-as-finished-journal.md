@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (RUS) Create, post, and print a by-product journal from a report as finished journal 
+# (RUS) Create, post, and print a by-product journal from a report as finished journal [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

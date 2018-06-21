@@ -18,7 +18,7 @@ f1_keywords:
 - MsDynAx060.Forms.InventBatchJournalListPage
 ---
 
-# About batch merges in inventory 
+# About batch merges in inventory [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

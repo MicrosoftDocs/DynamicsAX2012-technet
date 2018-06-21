@@ -16,7 +16,7 @@ f1_keywords:
 - merge customers
 ---
 
-# Merge duplicate customer records 
+# Merge duplicate customer records [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.purchase request
 ---
 
-# purchase request
+# purchase request[AX 2012]
 
 An economic event that generates requirements for products.
 

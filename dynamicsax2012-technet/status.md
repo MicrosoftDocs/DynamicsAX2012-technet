@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.status
 ---
 
-# status
+# status[AX 2012]
 
 The condition of an object in a system or process.
 

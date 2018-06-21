@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.automated task
 ---
 
-# automated task
+# automated task[AX 2012]
 
 A workflow task that is completed by an automatic operation.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.tax liability
 ---
 
-# tax liability
+# tax liability[AX 2012]
 
 A government authority's legal claim to the assets of a legal entity.
 

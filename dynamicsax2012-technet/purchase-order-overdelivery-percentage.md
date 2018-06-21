@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.purchase order overdelivery percentage
 ---
 
-# purchase order overdelivery percentage
+# purchase order overdelivery percentage[AX 2012]
 
 The percentage by which product receipt quantities are allowed to exceed the purchase order quantity.
 

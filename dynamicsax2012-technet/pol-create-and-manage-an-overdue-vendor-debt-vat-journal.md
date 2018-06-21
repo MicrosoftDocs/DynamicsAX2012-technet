@@ -14,7 +14,7 @@ f1_keywords:
 - Forms.VendOverdueVATJournalTable_W
 ---
 
-# (POL) Create and manage an overdue vendor debt VAT journal 
+# (POL) Create and manage an overdue vendor debt VAT journal [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

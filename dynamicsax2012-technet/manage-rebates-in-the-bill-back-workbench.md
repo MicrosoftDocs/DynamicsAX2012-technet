@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.TAMBillBackListPage
 ---
 
-# Manage rebates in the bill back workbench 
+# Manage rebates in the bill back workbench [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

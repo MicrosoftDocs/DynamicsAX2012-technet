@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.marshal
 ---
 
-# marshal
+# marshal[AX 2012]
 
 To package and send interface method parameters across thread or process boundaries.
 

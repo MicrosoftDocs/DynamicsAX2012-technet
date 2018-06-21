@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.open
 ---
 
-# open
+# open[AX 2012]
 
 The state in a period in which activity can occur, the state of an operational process, or the status of a source document.
 

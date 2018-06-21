@@ -19,7 +19,7 @@ f1_keywords:
 - msDynAx060.Forms.WHSWorkTemplateTable
 ---
 
-# Create a work template 
+# Create a work template [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

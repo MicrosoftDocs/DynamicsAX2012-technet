@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.quantity
 ---
 
-# quantity
+# quantity[AX 2012]
 
 An exact measure of some countable operational or financial characteristic represented by a number.
 

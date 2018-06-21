@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.aging period
 ---
 
-# aging period
+# aging period[AX 2012]
 
 The number of days in a time period used to report an overdue customer payment balance.
 

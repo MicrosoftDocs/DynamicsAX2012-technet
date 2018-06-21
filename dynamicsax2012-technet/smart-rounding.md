@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.smart rounding
 ---
 
-# smart rounding
+# smart rounding[AX 2012]
 
 A marketing practice to use odd numbers that are marginally less than their nearest round number to set prices.
 

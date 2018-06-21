@@ -8,7 +8,7 @@ ms.date: 10/15/2014
 mtps_version: v=AX.60
 ---
 
-# Fix Element IDs (SQL patch script for AX 2012 R2 + CU6 upgrade scenarios) 
+# Fix Element IDs (SQL patch script for AX 2012 R2 + CU6 upgrade scenarios) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.conversion cycle
 ---
 
-# conversion cycle
+# conversion cycle[AX 2012]
 
 A recurring set of production and logistics activities performed by parties that manufacture or distribute items.
 

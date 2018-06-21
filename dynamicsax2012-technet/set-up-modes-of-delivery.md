@@ -8,7 +8,7 @@ ms.date: 04/29/2014
 mtps_version: v=AX.60
 ---
 
-# Set up modes of delivery 
+# Set up modes of delivery [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

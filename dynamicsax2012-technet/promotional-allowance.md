@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.promotional allowance
 ---
 
-# promotional allowance
+# promotional allowance[AX 2012]
 
 A payment offered to a customer by a vendor in exchange for promoting their products.
 

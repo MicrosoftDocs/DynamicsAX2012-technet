@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting journal
 ---
 
-# accounting journal
+# accounting journal[AX 2012]
 
 A journal that is used to record the financial consequences of accounting events in an accounting system.
 

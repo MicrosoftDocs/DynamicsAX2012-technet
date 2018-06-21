@@ -14,7 +14,7 @@ f1_keywords:
 - EXIM Export Promotion Capital Goods (EPCG) incentive scheme
 ---
 
-# (IND) About the EXIM Export Promotion Capital Goods (EPCG) incentive scheme 
+# (IND) About the EXIM Export Promotion Capital Goods (EPCG) incentive scheme [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

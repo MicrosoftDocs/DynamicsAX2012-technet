@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.approve
 ---
 
-# approve
+# approve[AX 2012]
 
 To manually or automatically authorize the occurrence of future events in a system.
 

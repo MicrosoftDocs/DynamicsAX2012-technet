@@ -10,7 +10,7 @@ f1_keywords:
 - forms.FBBookingPeriodListPage_BR
 ---
 
-# (BRA) Generate the GIA ST tax file 
+# (BRA) Generate the GIA ST tax file [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

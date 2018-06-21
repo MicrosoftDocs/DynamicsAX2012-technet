@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.address book
 ---
 
-# address book
+# address book[AX 2012]
 
 A list of party records.
 

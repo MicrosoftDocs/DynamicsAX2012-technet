@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.invoice
 ---
 
-# invoice
+# invoice[AX 2012]
 
 A source document that documents a payment request from another party.
 

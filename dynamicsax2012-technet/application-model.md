@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.application model
 ---
 
-# application model
+# application model[AX 2012]
 
 Within a single application layer, a model that includes a specific set of developer elements such as classes, tables, and forms.
 

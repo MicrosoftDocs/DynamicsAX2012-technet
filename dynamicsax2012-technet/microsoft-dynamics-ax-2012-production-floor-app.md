@@ -8,7 +8,7 @@ ms.date: 06/27/2014
 mtps_version: v=AX.60
 ---
 
-# Microsoft Dynamics AX 2012 Production Floor App 
+# Microsoft Dynamics AX 2012 Production Floor App [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

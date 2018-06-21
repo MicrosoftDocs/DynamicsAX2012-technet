@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales agreement
 ---
 
-# sales agreement
+# sales agreement[AX 2012]
 
 A source document that documents an agreement between two or more parties based on an understanding that a selling party will commit to selling a specific quantity or value of product over a period of time in exchange for favorable prices and discounts.
 

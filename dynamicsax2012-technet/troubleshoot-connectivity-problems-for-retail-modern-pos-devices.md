@@ -8,7 +8,7 @@ ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
 
-# Troubleshoot connectivity problems for Retail Modern POS devices 
+# Troubleshoot connectivity problems for Retail Modern POS devices [AX 2012]
 
 
 This topic explains how to troubleshoot and fix errors that occur when activating a modern point of sale (MPOS) device. To perform these tasks, a user must have access to Headquarters, must have IT Administrator rights on the computers that are running the Retail Server, Real-time Services, and the channel database, and must be assigned to a POS permission group that has device activation rights.

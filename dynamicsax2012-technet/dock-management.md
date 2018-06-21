@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.dock management
 ---
 
-# dock management
+# dock management[AX 2012]
 
 A warehouse process where you can control inventory items for multiple orders, shipments, loads, or waves at the docks when inbound items are received or outbound items are loaded.
 

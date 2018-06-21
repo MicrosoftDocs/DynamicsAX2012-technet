@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Find out which version of Microsoft Dynamics AX you are using 
+# Find out which version of Microsoft Dynamics AX you are using [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

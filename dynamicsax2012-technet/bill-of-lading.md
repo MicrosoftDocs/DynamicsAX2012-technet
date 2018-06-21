@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.bill of lading
 ---
 
-# bill of lading
+# bill of lading[AX 2012]
 
 A business document issued by a carrier to a shipper that serves as the document of title.
 

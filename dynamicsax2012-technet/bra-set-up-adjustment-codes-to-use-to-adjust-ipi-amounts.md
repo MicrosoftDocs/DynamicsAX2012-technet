@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.Forms.FBGeneralAdjustmentCodeIPI_BR
 ---
 
-# (BRA) Set up adjustment codes to use to adjust IPI amounts 
+# (BRA) Set up adjustment codes to use to adjust IPI amounts [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

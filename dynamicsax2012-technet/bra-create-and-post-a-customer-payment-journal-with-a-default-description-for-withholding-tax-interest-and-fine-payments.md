@@ -18,7 +18,7 @@ f1_keywords:
 - post a customer payment journal
 ---
 
-# (BRA) Create and post a customer payment journal with a default description for withholding tax, interest, and fine payments 
+# (BRA) Create and post a customer payment journal with a default description for withholding tax, interest, and fine payments [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

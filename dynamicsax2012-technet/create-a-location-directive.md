@@ -18,7 +18,7 @@ f1_keywords:
 - outbound transactions
 ---
 
-# Create a location directive 
+# Create a location directive [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

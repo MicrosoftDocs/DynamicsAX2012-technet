@@ -13,7 +13,7 @@ f1_keywords:
 - methods
 ---
 
-# Set up payment methods for an organization 
+# Set up payment methods for an organization [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_

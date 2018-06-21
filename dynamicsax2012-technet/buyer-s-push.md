@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.buyer's push
 ---
 
-# buyer's push
+# buyer's push[AX 2012]
 
 The process where products are purchased by a centralized purchasing department and then distributed to stores.
 

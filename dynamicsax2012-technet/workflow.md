@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.workflow
 ---
 
-# workflow
+# workflow[AX 2012]
 
 A workflow process that is executing.
 

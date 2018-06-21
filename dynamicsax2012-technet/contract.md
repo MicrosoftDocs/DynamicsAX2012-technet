@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.contract
 ---
 
-# contract
+# contract[AX 2012]
 
 A legally binding agreement between two or more parties.
 

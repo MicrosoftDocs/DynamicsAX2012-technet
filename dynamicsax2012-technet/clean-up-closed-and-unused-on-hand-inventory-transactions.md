@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.SysOperationTemplateForm
 ---
 
-# Clean up closed and unused on-hand inventory transactions 
+# Clean up closed and unused on-hand inventory transactions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

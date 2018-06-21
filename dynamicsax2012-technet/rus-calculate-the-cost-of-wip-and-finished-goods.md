@@ -12,7 +12,7 @@ f1_keywords:
 - work in progress
 ---
 
-# (RUS) Calculate the cost of WIP and finished goods 
+# (RUS) Calculate the cost of WIP and finished goods [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

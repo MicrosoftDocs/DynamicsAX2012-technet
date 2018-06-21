@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.posting layer
 ---
 
-# posting layer
+# posting layer[AX 2012]
 
 A current, tax, or operations ledger classification that is assigned to accounting journal entries.
 

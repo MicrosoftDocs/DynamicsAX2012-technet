@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.costed
 ---
 
-# costed
+# costed[AX 2012]
 
 To calculate, assign, and allocate the cost of economic resources acquired, produced, or delivered by an organization.
 

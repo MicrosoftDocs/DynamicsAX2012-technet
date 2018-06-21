@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.activity occurrence
 ---
 
-# activity occurrence
+# activity occurrence[AX 2012]
 
 An instance of an activity.
 

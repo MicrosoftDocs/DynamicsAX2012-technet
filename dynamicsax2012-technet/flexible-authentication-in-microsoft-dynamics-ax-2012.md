@@ -8,7 +8,7 @@ ms.date: 02/19/2014
 mtps_version: v=AX.60
 ---
 
-# Flexible Authentication in Microsoft Dynamics AX 2012 
+# Flexible Authentication in Microsoft Dynamics AX 2012 [AX 2012]
 
 
 Flexible authentication enables businesses and organizations to authenticate users of Enterprise Portal for Microsoft Dynamics AX without having to store user accounts in Active Directory Domain Services. Microsoft Dynamics AX 2012 R2 currently supports forms-based authentication and Active Directory Federation Services (ADFS) authentication. For information about how to deploy Enterprise Portal with flexible authentication, see [Deploy a claims-mode Enterprise Portal site](deploy-a-claims-mode-enterprise-portal-site.md).

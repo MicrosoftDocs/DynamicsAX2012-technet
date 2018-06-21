@@ -14,7 +14,7 @@ f1_keywords:
 - signup
 ---
 
-# Process a customer request 
+# Process a customer request [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

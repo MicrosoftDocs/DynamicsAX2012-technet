@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.product variant
 ---
 
-# product variant
+# product variant[AX 2012]
 
 A configuration of a product master.
 

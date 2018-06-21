@@ -12,7 +12,7 @@ f1_keywords:
 - VendRequestCategoryEmployInfo
 ---
 
-# Create or update a category extension request 
+# Create or update a category extension request [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

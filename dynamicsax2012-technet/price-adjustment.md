@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.price adjustment
 ---
 
-# price adjustment
+# price adjustment[AX 2012]
 
 A modification to a quoted price.
 

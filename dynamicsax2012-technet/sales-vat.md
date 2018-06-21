@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales VAT
 ---
 
-# sales VAT
+# sales VAT[AX 2012]
 
 The tax on an organization’s sales, which is levied on the sales price.
 

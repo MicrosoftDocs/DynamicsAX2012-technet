@@ -8,7 +8,7 @@ ms.date: 11/11/2013
 mtps_version: v=AX.60
 ---
 
-# How to: Create an ODC file for a Business Overview Web Part 
+# How to: Create an ODC file for a Business Overview Web Part [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

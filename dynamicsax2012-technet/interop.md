@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.interop
 ---
 
-# interop
+# interop[AX 2012]
 
 The technology that one software component uses to interoperate with another software component.
 

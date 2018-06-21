@@ -19,7 +19,7 @@ f1_keywords:
 - MsDynAx060.Forms.TaxIntgrExportDocument_CN
 ---
 
-# (CHN) Export VAT customer invoices or import invoice reference numbers 
+# (CHN) Export VAT customer invoices or import invoice reference numbers [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

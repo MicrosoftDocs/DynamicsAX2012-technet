@@ -16,7 +16,7 @@ f1_keywords:
 - resources assignment
 ---
 
-# Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012 
+# Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

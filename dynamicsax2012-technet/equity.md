@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.equity
 ---
 
-# equity
+# equity[AX 2012]
 
 The net worth of an organization after deducting liabilities from assets.
 

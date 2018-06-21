@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.pending closed
 ---
 
-# pending closed
+# pending closed[AX 2012]
 
 The state when the period or operational process can only transition to a closed state, or when a source document can only transition to a closed status.
 

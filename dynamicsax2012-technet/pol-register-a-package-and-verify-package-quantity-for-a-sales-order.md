@@ -12,7 +12,7 @@ f1_keywords:
 - Poland
 ---
 
-# (POL) Register a package and verify package quantity for a sales order 
+# (POL) Register a package and verify package quantity for a sales order [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

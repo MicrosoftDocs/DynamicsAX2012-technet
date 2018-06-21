@@ -11,7 +11,7 @@ f1_keywords:
 - equally divided depreciation method
 ---
 
-# (JPN) Equally divided depreciation method 
+# (JPN) Equally divided depreciation method [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -15,7 +15,7 @@ f1_keywords:
 - AA incentive scheme
 ---
 
-# (IND) Verify export transaction details for an Advance Authorization incentive scheme 
+# (IND) Verify export transaction details for an Advance Authorization incentive scheme [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

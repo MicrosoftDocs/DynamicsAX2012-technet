@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.production signal
 ---
 
-# production signal
+# production signal[AX 2012]
 
 A documented notification of a resource flow event that triggers a production or transfer activity.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.expenditure cycle
 ---
 
-# expenditure cycle
+# expenditure cycle[AX 2012]
 
 A recurring set of procurement, receipt, payment, and transfer activities controlled by one or more parties that participate in exchange and nonexchange transactions.
 

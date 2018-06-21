@@ -14,7 +14,7 @@ f1_keywords:
 - qualified life event
 ---
 
-# Key tasks: Determine benefit eligibility 
+# Key tasks: Determine benefit eligibility [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_

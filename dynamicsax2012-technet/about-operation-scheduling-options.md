@@ -12,7 +12,7 @@ f1_keywords:
 - scheduling
 ---
 
-# About operation scheduling options 
+# About operation scheduling options [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.procurement category hierarchy
 ---
 
-# procurement category hierarchy
+# procurement category hierarchy[AX 2012]
 
 A category hierarchy that orders categories that are created to group products that have similar procurement management and accounting characteristics.
 

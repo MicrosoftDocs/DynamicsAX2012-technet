@@ -11,7 +11,7 @@ f1_keywords:
 - Order items and services overview
 ---
 
-# (RUS) Order items and services overview 
+# (RUS) Order items and services overview [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

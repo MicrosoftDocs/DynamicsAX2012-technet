@@ -8,7 +8,7 @@ ms.date: 06/25/2014
 mtps_version: v=AX.60
 ---
 
-# Configure item filters and filter codes for warehouse transactions 
+# Configure item filters and filter codes for warehouse transactions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -12,7 +12,7 @@ f1_keywords:
 - check-out
 ---
 
-# Register driver check-in and check-out for an appointment 
+# Register driver check-in and check-out for an appointment [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

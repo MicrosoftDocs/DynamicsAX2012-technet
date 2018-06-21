@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.formula item
 ---
 
-# formula item
+# formula item[AX 2012]
 
 An output of a batch process controlled by a formula.
 

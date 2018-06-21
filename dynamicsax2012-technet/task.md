@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.task
 ---
 
-# task
+# task[AX 2012]
 
 An atomic activity assigned to one or more persons or pieces of equipment responsible for meeting the requirements of the activity.
 

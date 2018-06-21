@@ -39,7 +39,7 @@ f1_keywords:
 - salary statements
 ---
 
-# (RUS) Generate pay statements 
+# (RUS) Generate pay statements [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

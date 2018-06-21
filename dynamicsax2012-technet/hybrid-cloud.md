@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.hybrid cloud
 ---
 
-# hybrid cloud
+# hybrid cloud[AX 2012]
 
 The cloud infrastructure is a composition of two or more distinct cloud infrastructures (private, community, or public) that remain unique entities, but are bound together by standardized or proprietary technology that enables data and application portability (e.g., cloud bursting for load balancing between clouds).
 

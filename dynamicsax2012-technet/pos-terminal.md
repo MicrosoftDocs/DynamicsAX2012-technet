@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.POS terminal
 ---
 
-# POS terminal
+# POS terminal[AX 2012]
 
 A computer terminal at the point of sale that records and tracks the ownership and transfer of products from the seller to the buyer in exchange for payment.
 

@@ -12,7 +12,7 @@ f1_keywords:
 - payment remittance file
 ---
 
-# (ITA) Set up a method of payment for payment remittance files 
+# (ITA) Set up a method of payment for payment remittance files [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

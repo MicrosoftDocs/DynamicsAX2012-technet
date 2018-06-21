@@ -12,7 +12,7 @@ f1_keywords:
 - tax accounting
 ---
 
-# (RUS) Set up a register for amount differences in tax accounting 
+# (RUS) Set up a register for amount differences in tax accounting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

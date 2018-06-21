@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.single use kanban
 ---
 
-# single use kanban
+# single use kanban[AX 2012]
 
 A type of kanban that is used with a fixed quantity kanban rule to meet exceptionally high demand. A single use kanban does not trigger a new kanban when it is discarded.
 

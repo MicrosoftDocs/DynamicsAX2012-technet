@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.real account
 ---
 
-# real account
+# real account[AX 2012]
 
 An account balance that is carried forward into a subsequent fiscal period.
 

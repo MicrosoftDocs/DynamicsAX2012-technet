@@ -8,7 +8,7 @@ ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---
 
-# Configure and schedule data distribution for retail stores (Retail essentials) 
+# Configure and schedule data distribution for retail stores (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -11,7 +11,7 @@ f1_keywords:
 - Forms.TAMPromotionPeriod
 ---
 
-# Set up trade allowance funds 
+# Set up trade allowance funds [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

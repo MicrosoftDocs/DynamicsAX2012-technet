@@ -8,7 +8,7 @@ ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
 
-# Concurrency When Updating Data 
+# Concurrency When Updating Data [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -11,7 +11,7 @@ f1_keywords:
 - Source code configuration key
 ---
 
-# Source code configuration key (MCRSourceCode) 
+# Source code configuration key (MCRSourceCode) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

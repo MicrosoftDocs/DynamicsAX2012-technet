@@ -29,7 +29,7 @@ f1_keywords:
 - MsDynAx060.Forms.RPayTimeGroupTable
 ---
 
-# (RUS) Configure parameters for time management 
+# (RUS) Configure parameters for time management [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

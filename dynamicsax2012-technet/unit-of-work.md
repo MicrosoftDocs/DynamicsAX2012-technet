@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.unit of work
 ---
 
-# unit of work
+# unit of work[AX 2012]
 
 An object that uses referential integrity constraints to sequence database reading and writing operations in one atomic work process.
 

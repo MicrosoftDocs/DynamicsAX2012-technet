@@ -18,7 +18,7 @@ f1_keywords:
 - routing guide
 ---
 
-# Set up a route plan and routing guide for freight transportation 
+# Set up a route plan and routing guide for freight transportation [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

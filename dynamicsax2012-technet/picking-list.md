@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.picking list
 ---
 
-# picking list
+# picking list[AX 2012]
 
 A list of the items, along with their quantities and locations, that are required to fill a manufacturing order or shipping order.
 

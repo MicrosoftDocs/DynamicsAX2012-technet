@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.intercompany
 ---
 
-# intercompany
+# intercompany[AX 2012]
 
 Occurring between or relating two or more legal entities that are part the same organization that consolidates the accounts of all legal entities.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RDeferralsWritingOffFactor
 ---
 
-# (RUS) Factors for deferrals writing off report (RDeferralsWritingOffFactor) 
+# (RUS) Factors for deferrals writing off report (RDeferralsWritingOffFactor) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

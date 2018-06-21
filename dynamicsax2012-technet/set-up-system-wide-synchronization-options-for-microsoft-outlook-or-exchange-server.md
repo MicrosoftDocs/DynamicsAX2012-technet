@@ -8,7 +8,7 @@ ms.date: 12/19/2014
 mtps_version: v=AX.60
 ---
 
-# Set up system-wide synchronization options for Microsoft Outlook or Exchange Server 
+# Set up system-wide synchronization options for Microsoft Outlook or Exchange Server [AX 2012]
 
 
 This topic describes how to set up the contact and synchronization details mapping between Microsoft Dynamics AX and Microsoft Outlook or Exchange Server.

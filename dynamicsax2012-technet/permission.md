@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.permission
 ---
 
-# permission
+# permission[AX 2012]
 
 One or more securable object permissions that secure access to logical units of application data and functionality.
 

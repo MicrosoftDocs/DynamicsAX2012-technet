@@ -8,7 +8,7 @@ ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
 
-# Set up a retail hierarchy (Retail essentials) 
+# Set up a retail hierarchy (Retail essentials) [AX 2012]
 
 
 You can create a product hierarchy to organize the products that you sell through your retail channels. You can use product hierarchies to group products that are used to create product assortments. You can also use retail product hierarchies for customer loyalty programs, and to assign product attributes and properties.

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cost accumulation method
 ---
 
-# cost accumulation method
+# cost accumulation method[AX 2012]
 
 The method used to classify and allocate transformation costs.
 

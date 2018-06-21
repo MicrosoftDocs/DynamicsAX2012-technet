@@ -16,7 +16,7 @@ f1_keywords:
 - BR - 00016
 ---
 
-# (BRA) Create and post a free text invoice that has charges for a fixed asset line 
+# (BRA) Create and post a free text invoice that has charges for a fixed asset line [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.dimension
 ---
 
-# dimension
+# dimension[AX 2012]
 
 A classifier that characterizes the magnitude or extent of a quantifiable property of an object or activity.
 

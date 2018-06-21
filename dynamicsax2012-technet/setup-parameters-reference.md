@@ -8,7 +8,7 @@ ms.date: 04/14/2015
 mtps_version: v=AX.60
 ---
 
-# Setup parameters reference 
+# Setup parameters reference [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

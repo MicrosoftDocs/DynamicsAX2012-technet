@@ -8,7 +8,7 @@ ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---
 
-# Scenario: Help secure cube data so that managers see only the data for their own team 
+# Scenario: Help secure cube data so that managers see only the data for their own team [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

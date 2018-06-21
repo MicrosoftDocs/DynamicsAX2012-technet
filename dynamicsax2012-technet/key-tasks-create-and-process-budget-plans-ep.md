@@ -19,7 +19,7 @@ f1_keywords:
 - Create budget plans
 ---
 
-# Key tasks: Create and process budget plans (EP) 
+# Key tasks: Create and process budget plans (EP) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

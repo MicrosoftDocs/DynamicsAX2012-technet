@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting rule
 ---
 
-# accounting rule
+# accounting rule[AX 2012]
 
 A rule in an accounting system that controls the principles, methods, and procedures for classifying, recording, and reporting the financial consequences of accounting events.
 

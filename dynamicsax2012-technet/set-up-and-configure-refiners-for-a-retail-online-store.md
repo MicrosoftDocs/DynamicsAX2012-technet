@@ -8,7 +8,7 @@ ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
 
-# Set up and configure refiners for a Retail online store 
+# Set up and configure refiners for a Retail online store [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

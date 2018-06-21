@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.application program interface
 ---
 
-# application program interface
+# application program interface[AX 2012]
 
 A set of routines that an application uses to request and carry out lower-level services performed by a computer's operating system. These routines usually carry out maintenance tasks such as managing files and displaying information.
 

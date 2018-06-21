@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.source document amount
 ---
 
-# source document amount
+# source document amount[AX 2012]
 
 A monetary amount measurement that is documented on a source document.
 

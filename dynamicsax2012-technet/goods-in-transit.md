@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.goods in transit
 ---
 
-# goods in transit
+# goods in transit[AX 2012]
 
 Items that have been dispatched from the shipping location but have not yet arrived at the delivery location.
 

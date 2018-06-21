@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.right
 ---
 
-# right
+# right[AX 2012]
 
 An entitlement granted by contract or law.
 

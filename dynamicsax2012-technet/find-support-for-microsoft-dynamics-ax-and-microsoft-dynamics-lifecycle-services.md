@@ -8,7 +8,7 @@ ms.date: 10/08/2014
 mtps_version: v=AX.60
 ---
 
-# Find support for Microsoft Dynamics AX and Microsoft Dynamics Lifecycle Services 
+# Find support for Microsoft Dynamics AX and Microsoft Dynamics Lifecycle Services [AX 2012]
 
 
 This article explains how to get assistance with Microsoft Dynamics AX or Microsoft Dynamics Lifecycle Services.

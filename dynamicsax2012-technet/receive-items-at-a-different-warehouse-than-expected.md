@@ -8,7 +8,7 @@ ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---
 
-# Receive items at a different warehouse than expected 
+# Receive items at a different warehouse than expected [AX 2012]
 
 
 

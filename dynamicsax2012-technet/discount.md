@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.discount
 ---
 
-# discount
+# discount[AX 2012]
 
 A fixed amount or percentage deducted from a quoted price or price total.
 

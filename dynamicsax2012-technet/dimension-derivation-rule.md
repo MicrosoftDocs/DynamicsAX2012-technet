@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.dimension derivation rule
 ---
 
-# dimension derivation rule
+# dimension derivation rule[AX 2012]
 
 A rule to determine a ledger dimension for classifying the financial consequences of an accounting event.
 

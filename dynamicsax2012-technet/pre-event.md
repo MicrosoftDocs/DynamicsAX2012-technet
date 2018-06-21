@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.pre-event
 ---
 
-# pre-event
+# pre-event[AX 2012]
 
 A synchronous event whose handler runs completely before the action that raised the event starts.
 

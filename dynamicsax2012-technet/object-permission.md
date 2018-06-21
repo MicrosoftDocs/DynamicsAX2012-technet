@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.object permission
 ---
 
-# object permission
+# object permission[AX 2012]
 
 A permitted create, read, update, delete, or execute operation on a securable object.
 

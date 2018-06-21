@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.stock
 ---
 
-# stock
+# stock[AX 2012]
 
 An accumulation of items that are owned and controlled by organizations.
 

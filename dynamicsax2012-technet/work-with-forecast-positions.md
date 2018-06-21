@@ -25,7 +25,7 @@ f1_keywords:
 - forecast positions
 ---
 
-# Work with forecast positions 
+# Work with forecast positions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

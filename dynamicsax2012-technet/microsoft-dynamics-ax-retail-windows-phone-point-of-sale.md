@@ -8,7 +8,7 @@ ms.date: 10/26/2016
 mtps_version: v=AX.60
 ---
 
-# Microsoft Dynamics AX Retail Windows Phone Point of Sale 
+# Microsoft Dynamics AX Retail Windows Phone Point of Sale [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -21,7 +21,7 @@ f1_keywords:
 - sales order payment
 ---
 
-# Apply payments in sales orders 
+# Apply payments in sales orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

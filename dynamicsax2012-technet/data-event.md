@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.data event
 ---
 
-# data event
+# data event[AX 2012]
 
 The X++ event that is raised when a data value in a table changes.
 

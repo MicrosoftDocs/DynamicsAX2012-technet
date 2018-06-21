@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting entity
 ---
 
-# accounting entity
+# accounting entity[AX 2012]
 
 A real or conceptual economic unit that uses ledger accounts to record and report on its financial and management performance.
 

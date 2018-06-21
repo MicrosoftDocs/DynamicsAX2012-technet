@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.demand forecast
 ---
 
-# demand forecast
+# demand forecast[AX 2012]
 
 A prediction of future product demand.
 

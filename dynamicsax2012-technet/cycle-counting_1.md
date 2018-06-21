@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cycle counting
 ---
 
-# cycle counting
+# cycle counting[AX 2012]
 
 An inventory counting method where items that are stored in different warehouse locations are counted to verify the on-hand inventory levels and to facilitate inventory-level corrections.
 

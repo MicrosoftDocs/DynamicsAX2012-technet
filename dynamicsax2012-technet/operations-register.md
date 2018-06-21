@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.operations register
 ---
 
-# operations register
+# operations register[AX 2012]
 
 A register that is used to record the operational and legal consequences of resource flow events in an accounting system.
 

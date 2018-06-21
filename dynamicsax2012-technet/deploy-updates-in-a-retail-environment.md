@@ -8,7 +8,7 @@ ms.date: 03/09/2016
 mtps_version: v=AX.60
 ---
 
-# Deploy updates in a retail environment 
+# Deploy updates in a retail environment [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

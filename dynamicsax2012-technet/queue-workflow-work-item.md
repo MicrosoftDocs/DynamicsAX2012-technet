@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.queue workflow work item
 ---
 
-# queue workflow work item
+# queue workflow work item[AX 2012]
 
 A workflow work item that is assigned to a work item queue.
 

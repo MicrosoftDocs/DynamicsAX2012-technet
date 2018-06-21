@@ -8,7 +8,7 @@ ms.date: 03/15/2017
 mtps_version: v=AX.60
 ---
 
-# SQL Server topology recommendations for availability and performance 
+# SQL Server topology recommendations for availability and performance [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

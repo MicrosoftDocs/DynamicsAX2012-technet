@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.InventSettlementAdjSecCur_RU
 ---
 
-# (RUS) Adjustment (cur.) report (InventSettlementAdjSecCur\_RU) 
+# (RUS) Adjustment (cur.) report (InventSettlementAdjSecCur\_RU) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

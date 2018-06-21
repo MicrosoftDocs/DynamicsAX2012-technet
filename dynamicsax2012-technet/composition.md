@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.composition
 ---
 
-# composition
+# composition[AX 2012]
 
 A whole-part relationship in which the life cycle of the part object is dependent on the life cycle of the whole object.
 

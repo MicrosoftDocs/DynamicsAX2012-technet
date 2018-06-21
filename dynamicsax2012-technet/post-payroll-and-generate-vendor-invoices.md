@@ -18,7 +18,7 @@ f1_keywords:
 - payroll vendor invoices
 ---
 
-# Post payroll and generate vendor invoices 
+# Post payroll and generate vendor invoices [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

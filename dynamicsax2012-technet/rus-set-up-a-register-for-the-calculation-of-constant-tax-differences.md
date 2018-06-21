@@ -13,7 +13,7 @@ f1_keywords:
 - tax differences
 ---
 
-# (RUS) Set up a register for the calculation of constant tax differences 
+# (RUS) Set up a register for the calculation of constant tax differences [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

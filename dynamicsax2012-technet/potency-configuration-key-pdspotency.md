@@ -8,7 +8,7 @@ ms.date: 08/27/2014
 mtps_version: v=AX.60
 ---
 
-# Potency configuration key (PDSPotency) 
+# Potency configuration key (PDSPotency) [AX 2012]
 
 
 The **Potency** configuration key controls access to the fields and functions that are used to set up and work with the potency of active ingredients in items. For more information, see [About potency management](about-potency-management.md).

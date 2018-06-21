@@ -13,7 +13,7 @@ f1_keywords:
 - email addresses
 ---
 
-# (BRA) Set up email addresses for customers 
+# (BRA) Set up email addresses for customers [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

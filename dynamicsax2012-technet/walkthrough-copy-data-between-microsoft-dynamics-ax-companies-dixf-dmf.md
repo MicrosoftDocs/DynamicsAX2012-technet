@@ -8,7 +8,7 @@ ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---
 
-# Walkthrough: Copy data between Microsoft Dynamics AX companies (DIXF, DMF) 
+# Walkthrough: Copy data between Microsoft Dynamics AX companies (DIXF, DMF) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.inventory registration policy
 ---
 
-# inventory registration policy
+# inventory registration policy[AX 2012]
 
 A policy that controls when stock that is stored in a supermarket is registered as inventory.
 

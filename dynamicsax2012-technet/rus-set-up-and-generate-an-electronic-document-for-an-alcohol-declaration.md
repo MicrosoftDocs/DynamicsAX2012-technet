@@ -26,7 +26,7 @@ f1_keywords:
 - MsDynAx060.Forms.LedgerRRGEQueries_W
 ---
 
-# (RUS) Set up and generate an electronic document for an alcohol declaration 
+# (RUS) Set up and generate an electronic document for an alcohol declaration [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

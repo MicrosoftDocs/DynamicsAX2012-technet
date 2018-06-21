@@ -8,7 +8,7 @@ ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
 
-# Mass deploy retail components 
+# Mass deploy retail components [AX 2012]
 
 
 Starting in Microsoft Dynamics AX 2012 R3, tools are available to help you automate and centralize the deployment of the retail components of Microsoft Dynamics AX. These tools make it easier to install Microsoft Dynamics AX components on multiple computers in a retail environment.

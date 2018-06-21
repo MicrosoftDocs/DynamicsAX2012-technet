@@ -13,7 +13,7 @@ f1_keywords:
 - update use before date
 ---
 
-# Update best before dates for inventory batches 
+# Update best before dates for inventory batches [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

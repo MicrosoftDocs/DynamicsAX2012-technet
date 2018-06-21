@@ -13,7 +13,7 @@ f1_keywords:
 - project invoice
 ---
 
-# Create an invoice for a time and material project 
+# Create an invoice for a time and material project [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -11,7 +11,7 @@ f1_keywords:
 - row definitions
 ---
 
-# (JPN) Create row definitions for a Japanese financial statement 
+# (JPN) Create row definitions for a Japanese financial statement [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

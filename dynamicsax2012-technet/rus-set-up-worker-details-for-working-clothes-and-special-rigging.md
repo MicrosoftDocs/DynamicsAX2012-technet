@@ -14,7 +14,7 @@ f1_keywords:
 - working clothes
 ---
 
-# (RUS) Set up worker details for working clothes and special rigging 
+# (RUS) Set up worker details for working clothes and special rigging [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

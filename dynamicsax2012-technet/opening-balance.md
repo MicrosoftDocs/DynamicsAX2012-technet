@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.opening balance
 ---
 
-# opening balance
+# opening balance[AX 2012]
 
 The balance of an account at the beginning of a fiscal period.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.confirm
 ---
 
-# confirm
+# confirm[AX 2012]
 
 To affirm the past occurrence of an event in a system.
 

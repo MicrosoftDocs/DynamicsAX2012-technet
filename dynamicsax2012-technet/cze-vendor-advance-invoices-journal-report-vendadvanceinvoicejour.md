@@ -14,7 +14,7 @@ f1_keywords:
 - SSRS_Reports.Reports.VendAdvanceInvoiceJour
 ---
 
-# (CZE) Vendor advance invoices journal report (VendAdvanceInvoiceJour) 
+# (CZE) Vendor advance invoices journal report (VendAdvanceInvoiceJour) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

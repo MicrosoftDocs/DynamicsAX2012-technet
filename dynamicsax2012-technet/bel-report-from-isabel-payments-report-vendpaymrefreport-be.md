@@ -14,7 +14,7 @@ f1_keywords:
 - VendPaymRefReport_BE
 ---
 
-# (BEL) Report from Isabel payments report (VendPaymRefReport\_BE) 
+# (BEL) Report from Isabel payments report (VendPaymRefReport\_BE) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

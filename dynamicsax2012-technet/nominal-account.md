@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.nominal account
 ---
 
-# nominal account
+# nominal account[AX 2012]
 
 An account that is closed out each fiscal period and whose balance is transferred to retained earnings account.
 

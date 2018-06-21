@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.LedgerTransPreview_RU
 ---
 
-# (RUS) Print journal report (LedgerTransPreview\_RU) 
+# (RUS) Print journal report (LedgerTransPreview\_RU) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

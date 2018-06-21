@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.requester
 ---
 
-# requester
+# requester[AX 2012]
 
 The person who requests the economic resources.
 

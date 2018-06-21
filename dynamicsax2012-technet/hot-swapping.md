@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.hot-swapping
 ---
 
-# hot-swapping
+# hot-swapping[AX 2012]
 
 The replacement of an assembly file with a revised assembly file in a running system. In-progress sessions continue to access the original assembly from active memory.
 

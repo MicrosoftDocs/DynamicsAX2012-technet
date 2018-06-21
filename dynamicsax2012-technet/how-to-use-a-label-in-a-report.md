@@ -10,7 +10,7 @@ dev_langs:
 - csharp
 ---
 
-# How to: Use a Label in a Report 
+# How to: Use a Label in a Report [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

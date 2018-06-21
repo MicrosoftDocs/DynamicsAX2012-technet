@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.ProjForecastTransferFromWbs
 ---
 
-# Transfer work breakdown estimates to project forecasts 
+# Transfer work breakdown estimates to project forecasts [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

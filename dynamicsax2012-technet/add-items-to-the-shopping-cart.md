@@ -16,7 +16,7 @@ f1_keywords:
 - WebProductCatalogItem
 ---
 
-# Add items to the shopping cart 
+# Add items to the shopping cart [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

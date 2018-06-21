@@ -8,7 +8,7 @@ ms.date: 04/22/2014
 mtps_version: v=AX.60
 ---
 
-# Plan the base topology of Microsoft Dynamics AX 
+# Plan the base topology of Microsoft Dynamics AX [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

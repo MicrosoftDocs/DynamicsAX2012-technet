@@ -8,7 +8,7 @@ ms.date: 05/30/2014
 mtps_version: v=AX.60
 ---
 
-# Virtual company scenarios: Project management and accounting 
+# Virtual company scenarios: Project management and accounting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

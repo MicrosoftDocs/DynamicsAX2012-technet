@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.Forms.FBTaxAssessmentISSListPage_BR
 ---
 
-# (BRA) Assess, pay, declare, and adjust ISS taxes 
+# (BRA) Assess, pay, declare, and adjust ISS taxes [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

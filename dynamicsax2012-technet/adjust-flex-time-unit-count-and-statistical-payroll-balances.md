@@ -16,7 +16,7 @@ f1_keywords:
 - correct
 ---
 
-# Adjust flex time, unit count, and statistical payroll balances 
+# Adjust flex time, unit count, and statistical payroll balances [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

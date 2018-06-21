@@ -8,7 +8,7 @@ ms.date: 10/06/2014
 mtps_version: v=AX.60
 ---
 
-# Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012 R2 
+# Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012 R2 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

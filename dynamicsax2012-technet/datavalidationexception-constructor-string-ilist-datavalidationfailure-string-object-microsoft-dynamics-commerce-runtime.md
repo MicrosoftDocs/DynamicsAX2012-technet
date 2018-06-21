@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# DataValidationException Constructor (String, IList(DataValidationFailure), String, Object )
+# DataValidationException Constructor (String, IList(DataValidationFailure), String, Object )[AX 2012]
 
 Initializes a new instance of the [DataValidationException](datavalidationexception-class-microsoft-dynamics-commerce-runtime.md) class.
 

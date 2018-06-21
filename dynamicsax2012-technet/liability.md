@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.liability
 ---
 
-# liability
+# liability[AX 2012]
 
 A classifier used to classify the value of economic resources that are owned by creditors.
 

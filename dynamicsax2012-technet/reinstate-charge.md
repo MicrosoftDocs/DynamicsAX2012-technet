@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.reinstate charge
 ---
 
-# reinstate charge
+# reinstate charge[AX 2012]
 
 To reintroduce interest or fees that were originally waived for a party.
 

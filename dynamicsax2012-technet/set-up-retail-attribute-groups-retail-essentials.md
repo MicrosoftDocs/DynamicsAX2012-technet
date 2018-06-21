@@ -8,7 +8,7 @@ ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
 
-# Set up retail attribute groups (Retail essentials) 
+# Set up retail attribute groups (Retail essentials) [AX 2012]
 
 
 Use attributes and attribute groups to add descriptive characteristics to your retail products. Attributes could include size, weight, capacity, or other special characteristics. After you define attributes, you can group them into attribute groups. You can include an attribute in one or more attribute groups.

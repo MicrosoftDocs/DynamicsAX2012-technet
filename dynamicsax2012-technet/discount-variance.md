@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.discount variance
 ---
 
-# discount variance
+# discount variance[AX 2012]
 
 The difference between an expected discount and an actual discount.
 

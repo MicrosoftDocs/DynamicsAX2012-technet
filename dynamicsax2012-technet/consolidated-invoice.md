@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.consolidated invoice
 ---
 
-# consolidated invoice
+# consolidated invoice[AX 2012]
 
 A vendor invoice that documents a sum of product quantities and monetary amounts from more than one referenced vendor invoice.
 

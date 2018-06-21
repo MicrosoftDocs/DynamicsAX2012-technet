@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Scenario: Upgrade a Retail system 
+# Scenario: Upgrade a Retail system [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

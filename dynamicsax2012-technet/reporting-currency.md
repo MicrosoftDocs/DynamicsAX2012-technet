@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.reporting currency
 ---
 
-# reporting currency
+# reporting currency[AX 2012]
 
 The monetary unit of measure used to record the converted monetary value of economic transactions in ledger accounts for financial and management reporting purposes.
 

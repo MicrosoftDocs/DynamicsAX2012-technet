@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.potency
 ---
 
-# potency
+# potency[AX 2012]
 
 A relative measure of the strength characteristic of an item.
 

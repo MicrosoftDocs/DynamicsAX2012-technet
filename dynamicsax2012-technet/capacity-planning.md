@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.capacity planning
 ---
 
-# capacity planning
+# capacity planning[AX 2012]
 
 A procedure for determining the resource capacity requirements that meet the demand of future output during specific time periods.
 

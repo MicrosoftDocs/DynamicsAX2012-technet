@@ -11,7 +11,7 @@ f1_keywords:
 - intercompany order
 ---
 
-# About changing intercompany orders 
+# About changing intercompany orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

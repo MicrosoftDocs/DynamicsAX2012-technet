@@ -11,7 +11,7 @@ f1_keywords:
 - fixed-price contract
 ---
 
-# About using the Time and material project type for a fixed-price project 
+# About using the Time and material project type for a fixed-price project [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

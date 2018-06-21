@@ -13,7 +13,7 @@ f1_keywords:
 - Sales journals
 ---
 
-# (BEL) Sales journals report (LedgerSalesJournalReportBE) 
+# (BEL) Sales journals report (LedgerSalesJournalReportBE) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.ledger dimension
 ---
 
-# ledger dimension
+# ledger dimension[AX 2012]
 
 A classifier created from the combination of financial dimension values listed in a chart of accounts and used to classify the financial consequences of economic activity.
 

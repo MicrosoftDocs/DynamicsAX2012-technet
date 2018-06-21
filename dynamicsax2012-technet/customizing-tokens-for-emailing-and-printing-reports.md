@@ -8,7 +8,7 @@ ms.date: 01/08/2014
 mtps_version: v=AX.60
 ---
 
-# Customizing tokens for emailing and printing reports 
+# Customizing tokens for emailing and printing reports [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

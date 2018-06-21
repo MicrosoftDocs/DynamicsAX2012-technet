@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cluster
 ---
 
-# cluster
+# cluster[AX 2012]
 
 A group of warehouse-related work items of the same type, based on user-defined criteria (such as location and inventory number).
 

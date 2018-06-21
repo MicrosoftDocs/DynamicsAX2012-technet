@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.subtotal
 ---
 
-# subtotal
+# subtotal[AX 2012]
 
 An intermediate partial sum, quantity, or amount.
 

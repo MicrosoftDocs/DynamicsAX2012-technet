@@ -22,7 +22,7 @@ f1_keywords:
 - freight transportation vehicles
 ---
 
-# Set up appointment scheduling parameters 
+# Set up appointment scheduling parameters [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

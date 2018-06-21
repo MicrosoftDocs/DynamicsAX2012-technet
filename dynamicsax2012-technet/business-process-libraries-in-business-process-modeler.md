@@ -8,7 +8,7 @@ ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---
 
-# Business process libraries in Business process modeler 
+# Business process libraries in Business process modeler [AX 2012]
 
 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/business-process-libraries-in-business-process-modeler/) in the Dynamics AX Help wiki.

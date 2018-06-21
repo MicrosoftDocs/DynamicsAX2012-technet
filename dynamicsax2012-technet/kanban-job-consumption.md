@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.kanban job consumption
 ---
 
-# kanban job consumption
+# kanban job consumption[AX 2012]
 
 The withdrawal of product components from inventory in order to complete the kanban production jobs.
 

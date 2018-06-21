@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.commodity pricing
 ---
 
-# commodity pricing
+# commodity pricing[AX 2012]
 
 A pricing strategy for updating the price of sales items produced from commodities subject to frequent price changes.
 

@@ -21,7 +21,7 @@ f1_keywords:
 - India customs incentive scheme
 ---
 
-# (IND) Create an export order and apply the AA incentive scheme to the export order 
+# (IND) Create an export order and apply the AA incentive scheme to the export order [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

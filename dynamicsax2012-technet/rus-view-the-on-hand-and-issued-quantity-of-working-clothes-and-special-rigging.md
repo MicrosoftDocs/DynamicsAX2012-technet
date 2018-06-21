@@ -14,7 +14,7 @@ f1_keywords:
 - working clothes
 ---
 
-# (RUS) View the on-hand and issued quantity of working clothes and special rigging 
+# (RUS) View the on-hand and issued quantity of working clothes and special rigging [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

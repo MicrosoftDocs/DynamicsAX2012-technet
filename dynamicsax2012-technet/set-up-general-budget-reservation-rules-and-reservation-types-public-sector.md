@@ -26,7 +26,7 @@ f1_keywords:
 - reservation type setup
 ---
 
-# Set up general budget reservation rules and reservation types (Public sector) 
+# Set up general budget reservation rules and reservation types (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

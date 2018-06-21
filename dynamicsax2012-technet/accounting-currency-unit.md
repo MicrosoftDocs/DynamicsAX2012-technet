@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting currency unit
 ---
 
-# accounting currency unit
+# accounting currency unit[AX 2012]
 
 A currency unit used to quantify the financial consequences of accounting events.
 

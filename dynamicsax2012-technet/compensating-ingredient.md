@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.compensating ingredient
 ---
 
-# compensating ingredient
+# compensating ingredient[AX 2012]
 
 A type of ingredient in a formula whose quantities can be adjusted. This adjustment is based on the difference between the quantities of active ingredient that are estimated and the quantities of active ingredient inventory batches that are reserved based on the potency of active ingredient.
 

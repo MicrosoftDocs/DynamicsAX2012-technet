@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.catch weight
 ---
 
-# catch weight
+# catch weight[AX 2012]
 
 The actual or nominal weight of a sales item or inventory item.
 

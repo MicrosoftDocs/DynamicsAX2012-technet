@@ -11,7 +11,7 @@ f1_keywords:
 - Glossary.report
 ---
 
-# report
+# report[AX 2012]
 
   - To update the progression or output of work done outside of the application. The reporting action is taken by a person.
 

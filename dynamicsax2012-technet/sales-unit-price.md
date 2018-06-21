@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales unit price
 ---
 
-# sales unit price
+# sales unit price[AX 2012]
 
 The price of a sales unit.
 

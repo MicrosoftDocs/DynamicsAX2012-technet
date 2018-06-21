@@ -20,7 +20,7 @@ f1_keywords:
 - one-time vendors
 ---
 
-# Create a one-time vendor and invoice (Public sector) 
+# Create a one-time vendor and invoice (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

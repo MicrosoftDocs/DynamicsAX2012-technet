@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.derivation rule
 ---
 
-# derivation rule
+# derivation rule[AX 2012]
 
 A rule to determine a classifier for classifying the financial consequences of an accounting event.
 

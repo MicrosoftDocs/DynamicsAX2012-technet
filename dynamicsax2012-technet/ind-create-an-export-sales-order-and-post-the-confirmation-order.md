@@ -14,7 +14,7 @@ f1_keywords:
 - export sales order
 ---
 
-# (IND) Create an export sales order and post the confirmation order 
+# (IND) Create an export sales order and post the confirmation order [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

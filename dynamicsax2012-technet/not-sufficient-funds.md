@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.not sufficient funds
 ---
 
-# not sufficient funds
+# not sufficient funds[AX 2012]
 
 The lack of enough funds in an account to cover a payment or withdrawal.
 

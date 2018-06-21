@@ -12,7 +12,7 @@ f1_keywords:
 - depreciation coefficients
 ---
 
-# (LVA) Set up tax depreciation calculations 
+# (LVA) Set up tax depreciation calculations [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

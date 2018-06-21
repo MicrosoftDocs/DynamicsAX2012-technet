@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.actual cost
 ---
 
-# actual cost
+# actual cost[AX 2012]
 
 The definite cost incurred in the performance of an activity.
 

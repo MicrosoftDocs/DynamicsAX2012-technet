@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.consolidation opportunity
 ---
 
-# consolidation opportunity
+# consolidation opportunity[AX 2012]
 
 A potential cost-savings event obtained by grouping approved requisition line items in order to negotiate a more favorable price with vendors.
 

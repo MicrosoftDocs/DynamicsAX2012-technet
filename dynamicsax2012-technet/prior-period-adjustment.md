@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.prior period adjustment
 ---
 
-# prior period adjustment
+# prior period adjustment[AX 2012]
 
 An accounting journal entry entered in a current fiscal period that corrects an error in accounting for an economic event that occurred in a fiscal period that is currently closed.
 

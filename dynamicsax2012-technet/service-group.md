@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.service group
 ---
 
-# service group
+# service group[AX 2012]
 
 A logical combination of services that are maintained as one.
 

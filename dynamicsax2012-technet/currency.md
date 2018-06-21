@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.currency
 ---
 
-# currency
+# currency[AX 2012]
 
 A medium of exchange in circulation that is not limited to money.
 

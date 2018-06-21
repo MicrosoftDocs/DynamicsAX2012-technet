@@ -15,7 +15,7 @@ f1_keywords:
 - vendor extension
 ---
 
-# Key tasks: Set up vendor extension requests 
+# Key tasks: Set up vendor extension requests [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

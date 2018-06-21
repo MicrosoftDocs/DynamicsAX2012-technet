@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.schedule
 ---
 
-# schedule
+# schedule[AX 2012]
 
 A timetable of planned activities and economic resource allocations.
 

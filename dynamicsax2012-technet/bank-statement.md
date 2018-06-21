@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.bank statement
 ---
 
-# bank statement
+# bank statement[AX 2012]
 
 A statement that itemizes economic activity recorded in one or more accounts over a specified period of time.
 

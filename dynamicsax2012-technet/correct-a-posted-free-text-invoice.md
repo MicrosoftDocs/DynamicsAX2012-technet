@@ -14,7 +14,7 @@ f1_keywords:
 - invoice correction
 ---
 
-# Correct a posted free text invoice 
+# Correct a posted free text invoice [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

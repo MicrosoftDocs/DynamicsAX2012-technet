@@ -19,7 +19,7 @@ f1_keywords:
 - update excise register
 ---
 
-# (IND) Update excise registers in production control 
+# (IND) Update excise registers in production control [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

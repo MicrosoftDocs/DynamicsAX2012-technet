@@ -18,7 +18,7 @@ f1_keywords:
 - initialize number sequence
 ---
 
-# (SWE) Set up parameters for a control unit in Microsoft Dynamics AX for Retail POS 
+# (SWE) Set up parameters for a control unit in Microsoft Dynamics AX for Retail POS [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -17,7 +17,7 @@ f1_keywords:
 - subscrition price
 ---
 
-# Update and evaluate agreements 
+# Update and evaluate agreements [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

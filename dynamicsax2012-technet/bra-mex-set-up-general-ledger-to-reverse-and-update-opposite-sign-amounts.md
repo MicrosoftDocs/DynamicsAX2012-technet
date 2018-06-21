@@ -23,7 +23,7 @@ f1_keywords:
 - opposite amount
 ---
 
-# (BRA, MEX) Set up General ledger to reverse and update opposite sign amounts 
+# (BRA, MEX) Set up General ledger to reverse and update opposite sign amounts [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

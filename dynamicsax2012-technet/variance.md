@@ -11,7 +11,7 @@ f1_keywords:
 - DynamicsAXGlossary.1491672
 ---
 
-# variance
+# variance[AX 2012]
 
   - The difference between two values, such as the difference between estimated and actual expenses.
 

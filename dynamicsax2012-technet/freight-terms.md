@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.freight terms
 ---
 
-# freight terms
+# freight terms[AX 2012]
 
 The agreed-upon method for handling shipping costs. Freight terms identify the party responsible for the payment of freight charges.
 

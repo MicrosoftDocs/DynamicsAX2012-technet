@@ -24,7 +24,7 @@ f1_keywords:
 - NF-e email
 ---
 
-# (BRA) Generate emails for approved NF-e and attach DANFE PDF files and NF-e XML files to the emails 
+# (BRA) Generate emails for approved NF-e and attach DANFE PDF files and NF-e XML files to the emails [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

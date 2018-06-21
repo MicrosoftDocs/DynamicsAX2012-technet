@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.shelf life
 ---
 
-# shelf life
+# shelf life[AX 2012]
 
 The period of time between an item's manufacture date and its expiration date.
 

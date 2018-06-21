@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.Forms.SalesTableListPage
 ---
 
-# Create sales orders and customer invoices (Retail essentials) 
+# Create sales orders and customer invoices (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

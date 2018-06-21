@@ -13,7 +13,7 @@ f1_keywords:
 - MsDynAx060.Forms.LedgerJournalTransRDeferrals
 ---
 
-# (RUS) Prepayments in Retail for Russia 
+# (RUS) Prepayments in Retail for Russia [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

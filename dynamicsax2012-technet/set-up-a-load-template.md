@@ -12,7 +12,7 @@ f1_keywords:
 - load templates
 ---
 
-# Set up a load template 
+# Set up a load template [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

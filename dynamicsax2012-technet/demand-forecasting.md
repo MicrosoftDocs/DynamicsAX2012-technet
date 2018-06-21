@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.demand forecasting
 ---
 
-# demand forecasting
+# demand forecasting[AX 2012]
 
 A business process that estimates future demand and creates demand forecasts based on historical transaction data.
 

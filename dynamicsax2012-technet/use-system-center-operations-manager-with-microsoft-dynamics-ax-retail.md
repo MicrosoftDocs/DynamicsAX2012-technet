@@ -8,7 +8,7 @@ ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---
 
-# Use System Center Operations Manager with Microsoft Dynamics AX Retail 
+# Use System Center Operations Manager with Microsoft Dynamics AX Retail [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

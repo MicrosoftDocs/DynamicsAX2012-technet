@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.work breakdown structure
 ---
 
-# work breakdown structure
+# work breakdown structure[AX 2012]
 
 A deliverable-oriented grouping of project elements that organizes and defines the total work scope of the project. Each descending level represents an increasingly detailed definition of the project work.
 

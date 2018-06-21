@@ -13,7 +13,7 @@ f1_keywords:
 - Update facture
 ---
 
-# (RUS) Create and update a facture for a corrected free text invoice 
+# (RUS) Create and update a facture for a corrected free text invoice [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -8,7 +8,7 @@ ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---
 
-# Add an Entity to Master Data Management 
+# Add an Entity to Master Data Management [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

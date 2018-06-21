@@ -11,7 +11,7 @@ f1_keywords:
 - split planned orders
 ---
 
-# Split the planned order quantity 
+# Split the planned order quantity [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

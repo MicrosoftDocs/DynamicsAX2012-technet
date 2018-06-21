@@ -14,7 +14,7 @@ f1_keywords:
 - SION form
 ---
 
-# (IND) Copy a product group in the SION 
+# (IND) Copy a product group in the SION [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

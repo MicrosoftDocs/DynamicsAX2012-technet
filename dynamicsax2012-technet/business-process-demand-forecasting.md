@@ -15,7 +15,7 @@ f1_keywords:
 - demand planning
 ---
 
-# Business process: demand forecasting 
+# Business process: demand forecasting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

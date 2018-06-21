@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.RFQ
 ---
 
-# RFQ
+# RFQ[AX 2012]
 
 A source document that documents an invitation to bid on supplying a quantity of product for a specified price and by a specified date.
 

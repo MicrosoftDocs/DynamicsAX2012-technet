@@ -15,7 +15,7 @@ f1_keywords:
 - Transfer fiscal documents
 ---
 
-# (BRA) Receive an inbound transfer fiscal document 
+# (BRA) Receive an inbound transfer fiscal document [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

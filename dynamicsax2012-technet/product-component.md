@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.product component
 ---
 
-# product component
+# product component[AX 2012]
 
 A part of a product.
 

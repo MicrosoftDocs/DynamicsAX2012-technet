@@ -10,7 +10,7 @@ f1_keywords:
 - Data_Dictionary.Configuration_Keys.SysFillUtility
 ---
 
-# Fill utility configuration key (SysFillUtility) 
+# Fill utility configuration key (SysFillUtility) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

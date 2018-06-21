@@ -13,7 +13,7 @@ f1_keywords:
 - table requisites
 ---
 
-# (RUS) Set up dynamic table requisites for text formats 
+# (RUS) Set up dynamic table requisites for text formats [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

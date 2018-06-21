@@ -8,7 +8,7 @@ ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---
 
-# Walkthrough: Import demo data for AX 2012 R3 by using the Test Data Transfer Tool 
+# Walkthrough: Import demo data for AX 2012 R3 by using the Test Data Transfer Tool [AX 2012]
 
 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/walkthrough-import-demo-data-for-ax-2012-r3-by-using-the-test-data-transfer-tool/) in the Dynamics AX Help wiki.

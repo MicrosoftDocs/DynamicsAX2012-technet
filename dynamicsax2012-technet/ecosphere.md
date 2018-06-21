@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.ecosphere
 ---
 
-# ecosphere
+# ecosphere[AX 2012]
 
 The general environment, which is usually specified as being the air, water, or ground.
 

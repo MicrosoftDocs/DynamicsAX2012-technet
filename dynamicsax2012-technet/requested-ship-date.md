@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.requested ship date
 ---
 
-# requested ship date
+# requested ship date[AX 2012]
 
 The date that the selling party should ship items to meet the customer's or vendor's requested receipt date.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Intrastat
 ---
 
-# Intrastat
+# Intrastat[AX 2012]
 
 The system for collecting and generating statistics on the trade of items between countries/regions in the European Union.
 

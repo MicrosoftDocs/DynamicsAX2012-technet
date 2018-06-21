@@ -16,7 +16,7 @@ f1_keywords:
 - fine payments
 ---
 
-# (BRA) Create and post a vendor payment journal with a default description for withholding tax, interest, and fine payments 
+# (BRA) Create and post a vendor payment journal with a default description for withholding tax, interest, and fine payments [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

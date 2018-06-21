@@ -11,7 +11,7 @@ f1_keywords:
 - Chinese
 ---
 
-# (CHN) Set up the Chinese user interface 
+# (CHN) Set up the Chinese user interface [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

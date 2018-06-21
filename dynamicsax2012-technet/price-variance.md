@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.price variance
 ---
 
-# price variance
+# price variance[AX 2012]
 
 The difference between an expected price and an actual price.
 

@@ -8,7 +8,7 @@ ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
 
-# Product attributes 
+# Product attributes [AX 2012]
 
 
 The topics in this section provide information about setting up and working with product attributes, attribute types, and attribute groups.

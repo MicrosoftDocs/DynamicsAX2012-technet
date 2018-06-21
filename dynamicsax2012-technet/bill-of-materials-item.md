@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.bill of materials item
 ---
 
-# bill of materials item
+# bill of materials item[AX 2012]
 
 An itemized product defined by a bill of materials.
 

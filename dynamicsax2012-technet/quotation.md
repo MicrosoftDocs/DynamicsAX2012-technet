@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.quotation
 ---
 
-# quotation
+# quotation[AX 2012]
 
 A source document that documents an offer to supply a quantity of product for a specified price and by a specified date.
 

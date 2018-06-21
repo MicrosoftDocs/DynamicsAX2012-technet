@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sample item
 ---
 
-# sample item
+# sample item[AX 2012]
 
 An itemized product that is selected for inspection.
 

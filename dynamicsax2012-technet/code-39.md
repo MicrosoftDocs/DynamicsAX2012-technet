@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Code 39
 ---
 
-# Code 39
+# Code 39[AX 2012]
 
 A barcode symbology standard maintained by American National Standards Institute (ANSI).
 

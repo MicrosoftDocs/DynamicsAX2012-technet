@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.instantiate
 ---
 
-# instantiate
+# instantiate[AX 2012]
 
 To create an instance of an object in object-oriented programming.
 

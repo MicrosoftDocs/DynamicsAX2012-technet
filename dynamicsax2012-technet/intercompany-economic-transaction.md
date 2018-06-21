@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.intercompany economic transaction
 ---
 
-# intercompany economic transaction
+# intercompany economic transaction[AX 2012]
 
 An economic transaction between legal entities that are part of the same organization that consolidates the accounts of the legal entities.
 

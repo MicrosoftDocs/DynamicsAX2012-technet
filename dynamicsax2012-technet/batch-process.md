@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.batch process
 ---
 
-# batch process
+# batch process[AX 2012]
 
 A production process for producing items in batches.
 

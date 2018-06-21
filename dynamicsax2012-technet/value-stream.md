@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.value stream
 ---
 
-# value stream
+# value stream[AX 2012]
 
 An operating unit that controls one or more production flows.
 

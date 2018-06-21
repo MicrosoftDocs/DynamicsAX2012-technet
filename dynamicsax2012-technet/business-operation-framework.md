@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Business Operation Framework
 ---
 
-# Business Operation Framework
+# Business Operation Framework[AX 2012]
 
 The model-view-controller framework that synchronously or asynchronously controls the execution of immediate or batched business operation implementations.
 

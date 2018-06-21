@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.swipe
 ---
 
-# swipe
+# swipe[AX 2012]
 
 To slide a machine-readable card through a magnetic stripe reader.
 

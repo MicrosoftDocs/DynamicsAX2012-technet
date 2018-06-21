@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.receipt advice
 ---
 
-# receipt advice
+# receipt advice[AX 2012]
 
 A business document that documents a summary of the products a buyer receives from a vendor.
 

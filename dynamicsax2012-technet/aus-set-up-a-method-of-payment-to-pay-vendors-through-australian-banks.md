@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (AUS) Set up a method of payment to pay vendors through Australian banks 
+# (AUS) Set up a method of payment to pay vendors through Australian banks [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

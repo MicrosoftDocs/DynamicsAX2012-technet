@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounts receivable
 ---
 
-# accounts receivable
+# accounts receivable[AX 2012]
 
 A subclassification of an asset account classification that describes the changes in value owed by customers.
 

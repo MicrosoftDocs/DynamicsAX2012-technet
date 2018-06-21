@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.financial statement
 ---
 
-# financial statement
+# financial statement[AX 2012]
 
 A report that documents the financial information and financial position of an organization.
 

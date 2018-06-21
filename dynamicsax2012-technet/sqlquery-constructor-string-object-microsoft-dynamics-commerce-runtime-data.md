@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# SqlQuery Constructor (String, Object )
+# SqlQuery Constructor (String, Object )[AX 2012]
 
 Initializes a new instance of the [SqlQuery](sqlquery-class-microsoft-dynamics-commerce-runtime-data.md) class.
 

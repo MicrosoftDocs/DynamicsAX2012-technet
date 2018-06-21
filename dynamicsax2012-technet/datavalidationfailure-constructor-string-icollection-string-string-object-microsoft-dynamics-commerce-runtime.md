@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# DataValidationFailure Constructor (String, ICollection(String), String, Object )
+# DataValidationFailure Constructor (String, ICollection(String), String, Object )[AX 2012]
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)

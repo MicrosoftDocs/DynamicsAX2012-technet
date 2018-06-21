@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.occupational illness
 ---
 
-# occupational illness
+# occupational illness[AX 2012]
 
 An illness caused by exposure to environmental factors in the work environment.
 

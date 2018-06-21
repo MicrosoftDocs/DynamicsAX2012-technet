@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.stock flow event
 ---
 
-# stock flow event
+# stock flow event[AX 2012]
 
 The occurrence of an action that registers the input and output of stock in stores, buffers, queues, and accounts.
 

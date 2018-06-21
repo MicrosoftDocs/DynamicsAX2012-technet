@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.request for quotation
 ---
 
-# request for quotation
+# request for quotation[AX 2012]
 
 A source document that documents an invitation to bid on supplying a quantity of product for a specified price and by a specified date.
 

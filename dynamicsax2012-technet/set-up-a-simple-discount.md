@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Set up a simple discount 
+# Set up a simple discount [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

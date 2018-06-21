@@ -8,7 +8,7 @@ ms.date: 09/20/2017
 mtps_version: v=AX.60
 ---
 
-# Deploy Microsoft Dynamics AX 2012 R3 on Azure using Lifecycle Services 
+# Deploy Microsoft Dynamics AX 2012 R3 on Azure using Lifecycle Services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

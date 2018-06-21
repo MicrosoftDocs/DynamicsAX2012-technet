@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.BudgetBalancesActualsChart
 ---
 
-# Actual vs. budget report (BudgetBalancesActualsChart) 
+# Actual vs. budget report (BudgetBalancesActualsChart) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

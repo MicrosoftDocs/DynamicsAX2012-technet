@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.Forms.CustParameters
 ---
 
-# (JPN) Set up the parameter to add debit and credit fields in the Customer transactions form 
+# (JPN) Set up the parameter to add debit and credit fields in the Customer transactions form [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

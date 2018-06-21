@@ -25,7 +25,7 @@ f1_keywords:
 - Forms.AssetImpairmentReview_JP
 ---
 
-# (JPN) Identify impaired assets and post journals for impairment 
+# (JPN) Identify impaired assets and post journals for impairment [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

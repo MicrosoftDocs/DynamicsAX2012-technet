@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.z-report
 ---
 
-# z-report
+# z-report[AX 2012]
 
 A type of report that is generated to record current sales totals for a specific cash register and to close the current work shift.
 

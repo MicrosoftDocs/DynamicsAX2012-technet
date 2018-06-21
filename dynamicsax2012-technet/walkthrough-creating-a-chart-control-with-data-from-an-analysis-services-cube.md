@@ -17,7 +17,7 @@ f1_keywords:
 - user control
 ---
 
-# Walkthrough: Creating a Chart Control with Data from an Analysis Services Cube 
+# Walkthrough: Creating a Chart Control with Data from an Analysis Services Cube [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

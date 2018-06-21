@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.PO
 ---
 
-# PO
+# PO[AX 2012]
 
 A source document that documents the offer to buy products or the acceptance of an offer to sell products in exchange for payment.
 

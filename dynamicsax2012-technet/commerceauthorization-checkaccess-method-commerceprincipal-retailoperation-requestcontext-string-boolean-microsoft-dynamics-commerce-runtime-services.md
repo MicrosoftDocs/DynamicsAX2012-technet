@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# CheckAccess Method (CommercePrincipal, RetailOperation, RequestContext, String , Boolean)
+# CheckAccess Method (CommercePrincipal, RetailOperation, RequestContext, String , Boolean)[AX 2012]
 
 Checks if the principal has permission to do the operation.If not, throws UserAuthorizationException.
 

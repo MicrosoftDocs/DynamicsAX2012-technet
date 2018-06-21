@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.purchase agreement policy
 ---
 
-# purchase agreement policy
+# purchase agreement policy[AX 2012]
 
 A policy that authorizes parties to modify purchase agreement terms.
 

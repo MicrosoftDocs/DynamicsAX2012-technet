@@ -10,7 +10,7 @@ f1_keywords:
 - rapidstart default settings, load project, upload rapidstart data
 ---
 
-# Create and load a configuration project that uses default settings in RapidStart Services 
+# Create and load a configuration project that uses default settings in RapidStart Services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

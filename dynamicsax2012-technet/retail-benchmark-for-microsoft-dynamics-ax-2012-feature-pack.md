@@ -8,7 +8,7 @@ ms.date: 08/18/2014
 mtps_version: v=AX.60
 ---
 
-# Retail Benchmark for Microsoft Dynamics AX 2012 Feature Pack 
+# Retail Benchmark for Microsoft Dynamics AX 2012 Feature Pack [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

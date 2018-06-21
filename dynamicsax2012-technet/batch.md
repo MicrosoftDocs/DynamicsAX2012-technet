@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.batch
 ---
 
-# batch
+# batch[AX 2012]
 
 A quantity of one or more items produced in one operation.
 

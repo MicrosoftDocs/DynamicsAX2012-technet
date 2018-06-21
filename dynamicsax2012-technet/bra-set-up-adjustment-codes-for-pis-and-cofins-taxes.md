@@ -8,7 +8,7 @@ ms.date: 07/07/2015
 mtps_version: v=AX.60
 ---
 
-# (BRA) Set up adjustment codes for PIS and COFINS taxes 
+# (BRA) Set up adjustment codes for PIS and COFINS taxes [AX 2012]
 
 
 In a Sistema Publico de Escrituração Digital (SPED) Contributions the users are available to introduce specific adjustment transactions to adjust the credit or debit of PIS and COFINS amounts that are reported into the records M220, M225, M620, M625, M110, M115, M510 and M515. Before you can adjust PIS and COFINS taxes, you must specify the adjustment codes that are determined by the Brazilian government depending on the adjustment criteria and type of adjustment transaction. This topic explains how to set up adjustment codes to be applied PIS and COFINS taxes. You do this by using the PIS and COFINS adjustment codes table form. For information about how to enter PIS and COFINS tax adjustment transactions, see [(BRA) Enter and post fiscal books adjustments, benefits, and incentives](bra-enter-and-post-fiscal-books-adjustments-benefits-and-incentives.md).

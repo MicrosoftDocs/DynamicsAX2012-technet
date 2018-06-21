@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Universal Business Language
 ---
 
-# Universal Business Language
+# Universal Business Language[AX 2012]
 
 A language for defining XML business documents that is maintained by the Organization for the Advancement of Structured Information Standards (OASIS).
 

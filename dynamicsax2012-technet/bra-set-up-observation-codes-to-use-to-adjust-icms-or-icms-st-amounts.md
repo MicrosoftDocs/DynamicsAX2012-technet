@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.Forms.FBObservationCodeTable_BR
 ---
 
-# (BRA) Set up observation codes to use to adjust ICMS or ICMS-ST amounts 
+# (BRA) Set up observation codes to use to adjust ICMS or ICMS-ST amounts [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

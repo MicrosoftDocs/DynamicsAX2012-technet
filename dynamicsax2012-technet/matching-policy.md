@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.matching policy
 ---
 
-# matching policy
+# matching policy[AX 2012]
 
 A policy that controls the purchase order, product receipt, and vendor invoice matching requirements in the accounts payable process. The policy can mandate no matching requirement or a combination of unit price matching, extended price matching, quantity matching, line matching, or total matching requirements.
 

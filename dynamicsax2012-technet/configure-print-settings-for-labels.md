@@ -8,7 +8,7 @@ ms.date: 05/28/2014
 mtps_version: v=AX.60
 ---
 
-# Configure print settings for labels 
+# Configure print settings for labels [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

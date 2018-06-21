@@ -11,7 +11,7 @@ f1_keywords:
 - Forms.RetailLoyaltyCardListPage
 ---
 
-# Set up loyalty cards in AX 2012 R3 
+# Set up loyalty cards in AX 2012 R3 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

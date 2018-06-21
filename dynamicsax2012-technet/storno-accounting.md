@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Storno accounting
 ---
 
-# Storno accounting
+# Storno accounting[AX 2012]
 
 The practice of using negative numbers to reverse original journal account entries.
 

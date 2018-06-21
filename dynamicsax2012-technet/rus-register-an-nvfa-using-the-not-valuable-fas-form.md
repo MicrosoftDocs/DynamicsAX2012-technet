@@ -11,7 +11,7 @@ f1_keywords:
 - NVFA
 ---
 
-# (RUS) Register an NVFA using the Not valuable FAs form 
+# (RUS) Register an NVFA using the Not valuable FAs form [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

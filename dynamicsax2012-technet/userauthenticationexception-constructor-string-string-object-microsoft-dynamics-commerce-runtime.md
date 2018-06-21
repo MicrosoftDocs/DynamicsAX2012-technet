@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# UserAuthenticationException Constructor (String, String, Object )
+# UserAuthenticationException Constructor (String, String, Object )[AX 2012]
 
 Initializes a new instance of the [UserAuthenticationException](userauthenticationexception-class-microsoft-dynamics-commerce-runtime.md) class.
 

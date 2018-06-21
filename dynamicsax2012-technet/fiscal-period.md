@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.fiscal period
 ---
 
-# fiscal period
+# fiscal period[AX 2012]
 
 A time period division of a fiscal year.
 

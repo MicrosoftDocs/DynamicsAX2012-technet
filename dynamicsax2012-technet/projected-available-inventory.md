@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.projected available inventory
 ---
 
-# projected available inventory
+# projected available inventory[AX 2012]
 
 The inventory quantities that are expected to be available at a future point in time calculated by adding scheduled supply to on-hand inventory and subtracting scheduled demand.
 

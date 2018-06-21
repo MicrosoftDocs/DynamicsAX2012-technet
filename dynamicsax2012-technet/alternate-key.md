@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.alternate key
 ---
 
-# alternate key
+# alternate key[AX 2012]
 
 A candidate key that is not designated as the primary key and is used to uniquely identify records in a database table.
 

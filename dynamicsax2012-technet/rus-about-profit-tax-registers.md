@@ -12,7 +12,7 @@ f1_keywords:
 - tax registers
 ---
 
-# (RUS) About profit tax registers 
+# (RUS) About profit tax registers [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -12,7 +12,7 @@ f1_keywords:
 - complying
 ---
 
-# Working with product compliance 
+# Working with product compliance [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

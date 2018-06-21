@@ -16,7 +16,7 @@ f1_keywords:
 - RapidStart customer registration
 ---
 
-# Add a Customer administrator to a service in RapidStart Services 
+# Add a Customer administrator to a service in RapidStart Services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

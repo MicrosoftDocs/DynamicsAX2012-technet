@@ -10,7 +10,7 @@ f1_keywords:
 - JP - 00011
 ---
 
-# (JPN) Mark sales invoices for consolidation and calculate due dates 
+# (JPN) Mark sales invoices for consolidation and calculate due dates [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

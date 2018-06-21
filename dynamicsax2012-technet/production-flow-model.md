@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.production flow model
 ---
 
-# production flow model
+# production flow model[AX 2012]
 
 A representation of the production capacity provided by a group of work cells in a production flow process.
 

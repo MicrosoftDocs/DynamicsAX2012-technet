@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.class
 ---
 
-# class
+# class[AX 2012]
 
 A set of objects that share a common definitional property, that share common operations and behavior, or both.
 

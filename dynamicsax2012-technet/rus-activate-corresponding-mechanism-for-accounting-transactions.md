@@ -8,7 +8,7 @@ ms.date: 07/18/2014
 mtps_version: v=AX.60
 ---
 
-# (RUS) Activate corresponding mechanism for accounting transactions 
+# (RUS) Activate corresponding mechanism for accounting transactions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

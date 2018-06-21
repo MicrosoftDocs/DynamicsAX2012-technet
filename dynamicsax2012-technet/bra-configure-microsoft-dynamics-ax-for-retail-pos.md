@@ -18,7 +18,7 @@ f1_keywords:
 - Forms.TmpFiscalReference_BR
 ---
 
-# (BRA) Configure Microsoft Dynamics AX for Retail POS 
+# (BRA) Configure Microsoft Dynamics AX for Retail POS [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

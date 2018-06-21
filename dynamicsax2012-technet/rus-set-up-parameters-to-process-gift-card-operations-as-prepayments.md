@@ -19,7 +19,7 @@ f1_keywords:
 - set up parameters
 ---
 
-# (RUS) Set up parameters to process gift card operations as prepayments 
+# (RUS) Set up parameters to process gift card operations as prepayments [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_

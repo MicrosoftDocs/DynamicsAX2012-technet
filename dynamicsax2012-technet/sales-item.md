@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales item
 ---
 
-# sales item
+# sales item[AX 2012]
 
 An itemized product that participates in a sales process.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.service
 ---
 
-# service
+# service[AX 2012]
 
 A change in the state of a consuming party or a change in the state of an item belonging to a consuming party that is produced by an activity performed by a providing party.
 

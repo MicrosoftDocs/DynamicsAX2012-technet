@@ -14,7 +14,7 @@ f1_keywords:
 - multiple taxation transactions
 ---
 
-# (IND) Set up sales taxes for multiple taxation transactions 
+# (IND) Set up sales taxes for multiple taxation transactions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

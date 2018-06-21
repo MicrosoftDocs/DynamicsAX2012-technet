@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.process batch
 ---
 
-# process batch
+# process batch[AX 2012]
 
 The quantity of one or more items that is produced or that can be produced.
 

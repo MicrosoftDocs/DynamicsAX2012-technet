@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.product dimension
 ---
 
-# product dimension
+# product dimension[AX 2012]
 
 The size, color, or configuration product attributes that are used for dimension-based configuration.
 

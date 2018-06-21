@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.POS
 ---
 
-# POS
+# POS[AX 2012]
 
 The place at which the ownership of products is transferred from the seller to the buyer in exchange for payment.
 

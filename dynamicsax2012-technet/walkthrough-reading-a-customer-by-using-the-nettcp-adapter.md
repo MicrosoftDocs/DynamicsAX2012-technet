@@ -10,7 +10,7 @@ dev_langs:
 - csharp
 ---
 
-# Walkthrough: Reading a Customer by Using the NetTCP Adapter 
+# Walkthrough: Reading a Customer by Using the NetTCP Adapter [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

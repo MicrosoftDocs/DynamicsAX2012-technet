@@ -14,7 +14,7 @@ f1_keywords:
 - default description
 ---
 
-# (BRA) Set up a default description for a consolidated legal entity 
+# (BRA) Set up a default description for a consolidated legal entity [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

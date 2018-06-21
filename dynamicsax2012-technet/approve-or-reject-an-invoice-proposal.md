@@ -13,7 +13,7 @@ f1_keywords:
 - project parameters
 ---
 
-# Approve or reject an invoice proposal 
+# Approve or reject an invoice proposal [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

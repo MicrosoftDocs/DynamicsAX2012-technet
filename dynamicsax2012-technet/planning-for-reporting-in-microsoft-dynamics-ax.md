@@ -8,7 +8,7 @@ ms.date: 03/11/2015
 mtps_version: v=AX.60
 ---
 
-# Planning for reporting in Microsoft Dynamics AX 
+# Planning for reporting in Microsoft Dynamics AX [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

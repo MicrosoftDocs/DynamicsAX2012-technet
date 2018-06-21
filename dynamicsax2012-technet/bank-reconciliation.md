@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.bank reconciliation
 ---
 
-# bank reconciliation
+# bank reconciliation[AX 2012]
 
 A practice of reconciling a ledger account that represents a bank account by matching ledger account entries to bank statement entries.
 

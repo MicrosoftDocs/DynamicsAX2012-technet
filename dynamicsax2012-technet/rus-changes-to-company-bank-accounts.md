@@ -13,7 +13,7 @@ f1_keywords:
 - Russia
 ---
 
-# (RUS) Changes to company bank accounts 
+# (RUS) Changes to company bank accounts [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

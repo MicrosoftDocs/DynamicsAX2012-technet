@@ -8,7 +8,7 @@ ms.date: 09/17/2017
 mtps_version: v=AX.60
 ---
 
-# Deploy a Retail essentials demo environment on Azure 
+# Deploy a Retail essentials demo environment on Azure [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.SKU
 ---
 
-# SKU
+# SKU[AX 2012]
 
 An item and its assigned inventory dimensions.
 

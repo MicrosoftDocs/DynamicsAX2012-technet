@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.product family
 ---
 
-# product family
+# product family[AX 2012]
 
 A unique grouping of items, services, or rights that either participates in the same production or delivery activities or that are offered to the same market segments. In Microsoft Dynamics AX, the grouping is represented by using a forecast allocation key.
 

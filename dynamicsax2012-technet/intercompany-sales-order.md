@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.intercompany sales order
 ---
 
-# intercompany sales order
+# intercompany sales order[AX 2012]
 
 A sales order that one legal entity places with another legal entity that is part of the same organization that consolidates the accounts of both legal entities.
 

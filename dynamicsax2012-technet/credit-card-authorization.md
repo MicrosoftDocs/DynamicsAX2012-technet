@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.credit card authorization
 ---
 
-# credit card authorization
+# credit card authorization[AX 2012]
 
 The process of verifying the credit card holder's identification and credit worthiness before a sales order is processed and fulfilled.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.commitment accounting
 ---
 
-# commitment accounting
+# commitment accounting[AX 2012]
 
 A practice of recording the financial consequences of budget fund reservation accounting events in pre-encumbrance and encumbrance journal accounts for financial and management reporting and analysis.
 

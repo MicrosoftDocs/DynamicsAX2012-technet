@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.dependent party
 ---
 
-# dependent party
+# dependent party[AX 2012]
 
 A party who assumes a dependent role when it participates in a relationship with another party.
 

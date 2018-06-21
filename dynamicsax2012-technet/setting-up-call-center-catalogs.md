@@ -13,7 +13,7 @@ f1_keywords:
 - print catalogs
 ---
 
-# Setting up call center catalogs 
+# Setting up call center catalogs [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

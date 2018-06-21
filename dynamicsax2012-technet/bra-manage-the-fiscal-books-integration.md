@@ -13,7 +13,7 @@ f1_keywords:
 - MsDynAx060.Forms.FBFiscalDocument_BR
 ---
 
-# (BRA) Manage the fiscal books integration 
+# (BRA) Manage the fiscal books integration [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

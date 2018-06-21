@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.filter
 ---
 
-# filter
+# filter[AX 2012]
 
 A tool that you can use to categorize inventory items for quick searching. Filters also restrict the availability of items to customers, vendors, and warehouse processes.
 

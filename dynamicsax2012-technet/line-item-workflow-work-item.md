@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.line item workflow work item
 ---
 
-# line item workflow work item
+# line item workflow work item[AX 2012]
 
 A workflow work item that is created by a line item workflow instance.
 

@@ -8,7 +8,7 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: MorphX features for developers 
+# What's new: MorphX features for developers [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

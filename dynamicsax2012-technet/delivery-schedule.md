@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.delivery schedule
 ---
 
-# delivery schedule
+# delivery schedule[AX 2012]
 
 A schedule for the planned delivery of products.
 

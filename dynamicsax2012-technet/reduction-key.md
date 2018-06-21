@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.reduction key
 ---
 
-# reduction key
+# reduction key[AX 2012]
 
 A method that is used to increase or decrease forecast requirements in master planning, based on user defined percentages that are applied during specific periods.
 

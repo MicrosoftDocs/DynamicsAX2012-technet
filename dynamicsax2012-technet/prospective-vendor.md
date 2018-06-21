@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.prospective vendor
 ---
 
-# prospective vendor
+# prospective vendor[AX 2012]
 
 A vendor whose abilities or capabilities to supply products to one or more legal entities are under review before being granted an approved vendor status.
 

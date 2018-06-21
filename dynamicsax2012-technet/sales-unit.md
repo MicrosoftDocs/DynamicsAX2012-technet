@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales unit
 ---
 
-# sales unit
+# sales unit[AX 2012]
 
 A unit of measure for expressing quantities of sales product.
 

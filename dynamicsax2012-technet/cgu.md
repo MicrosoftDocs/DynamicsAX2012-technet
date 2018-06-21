@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.CGU
 ---
 
-# CGU
+# CGU[AX 2012]
 
 The smallest group of classifiable assets that generates cash independently of other assets within an organization. These groups of assets are used to measure impairment losses that will be incurred.
 

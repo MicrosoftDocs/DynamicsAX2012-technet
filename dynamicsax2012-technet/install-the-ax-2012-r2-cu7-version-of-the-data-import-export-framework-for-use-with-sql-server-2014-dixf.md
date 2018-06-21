@@ -8,7 +8,7 @@ ms.date: 03/26/2016
 mtps_version: v=AX.60
 ---
 
-# Install the AX 2012 R2 CU7 version of the Data import/export framework for use with SQL Server 2014 (DIXF) 
+# Install the AX 2012 R2 CU7 version of the Data import/export framework for use with SQL Server 2014 (DIXF) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

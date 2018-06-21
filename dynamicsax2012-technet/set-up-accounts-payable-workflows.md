@@ -18,7 +18,7 @@ f1_keywords:
 - journals
 ---
 
-# Set up Accounts payable workflows 
+# Set up Accounts payable workflows [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

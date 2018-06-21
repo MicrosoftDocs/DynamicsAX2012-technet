@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.measurement
 ---
 
-# measurement
+# measurement[AX 2012]
 
 The magnitude of the property of an object calibrated against one or more units of measure.
 

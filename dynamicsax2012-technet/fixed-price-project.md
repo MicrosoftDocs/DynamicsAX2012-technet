@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.fixed-price project
 ---
 
-# fixed-price project
+# fixed-price project[AX 2012]
 
 A type of project in which the customer pays a predetermined amount for the entire project.
 

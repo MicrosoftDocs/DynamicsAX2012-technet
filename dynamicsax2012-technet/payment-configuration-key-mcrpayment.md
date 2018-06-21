@@ -8,7 +8,7 @@ ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
 
-# Payment configuration key (MCRPayment) 
+# Payment configuration key (MCRPayment) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

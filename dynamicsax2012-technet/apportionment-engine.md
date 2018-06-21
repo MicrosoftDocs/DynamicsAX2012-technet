@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.apportionment engine
 ---
 
-# apportionment engine
+# apportionment engine[AX 2012]
 
 An engine that determines and processes the apportionment of freight charges, either by weight or by volume.
 

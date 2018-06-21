@@ -19,7 +19,7 @@ f1_keywords:
 - NO - 00009
 ---
 
-# (NOR) Configure EHF electronic invoicing 
+# (NOR) Configure EHF electronic invoicing [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_

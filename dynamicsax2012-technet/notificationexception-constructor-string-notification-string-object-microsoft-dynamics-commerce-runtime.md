@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# NotificationException Constructor (String, Notification, String, Object )
+# NotificationException Constructor (String, Notification, String, Object )[AX 2012]
 
 Initializes a new instance of the [NotificationException](notificationexception-class-microsoft-dynamics-commerce-runtime.md) class.
 

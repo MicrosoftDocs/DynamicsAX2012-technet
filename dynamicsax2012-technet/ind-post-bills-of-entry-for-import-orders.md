@@ -14,7 +14,7 @@ f1_keywords:
 - Post bills
 ---
 
-# (IND) Post bills of entry for import orders 
+# (IND) Post bills of entry for import orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

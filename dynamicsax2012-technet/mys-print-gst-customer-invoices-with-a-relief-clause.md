@@ -10,7 +10,7 @@ f1_keywords:
 - Menu_Items.Display.TaxGSTReliefCategory_MY
 ---
 
-# (MYS) Print GST customer invoices with a relief clause 
+# (MYS) Print GST customer invoices with a relief clause [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

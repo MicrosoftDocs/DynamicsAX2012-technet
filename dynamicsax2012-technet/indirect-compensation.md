@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.indirect compensation
 ---
 
-# indirect compensation
+# indirect compensation[AX 2012]
 
 The fixed compensation awarded to an employee in order to promote employee retention.
 

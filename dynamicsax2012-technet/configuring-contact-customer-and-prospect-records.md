@@ -15,7 +15,7 @@ f1_keywords:
 - business relations
 ---
 
-# Configuring contact, customer, and prospect records 
+# Configuring contact, customer, and prospect records [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

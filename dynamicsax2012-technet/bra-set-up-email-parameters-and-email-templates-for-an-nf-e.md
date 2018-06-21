@@ -25,7 +25,7 @@ f1_keywords:
 - MsDynAx060.Forms.SysEmailParameters
 ---
 
-# (BRA) Set up email parameters and email templates for an NF-e 
+# (BRA) Set up email parameters and email templates for an NF-e [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

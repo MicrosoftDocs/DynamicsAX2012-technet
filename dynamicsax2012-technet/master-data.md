@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.master data
 ---
 
-# master data
+# master data[AX 2012]
 
 Entities that describe the parties, locations, products, and activities that are referenced by entities that document and record economic, resource flow, and accounting events.
 

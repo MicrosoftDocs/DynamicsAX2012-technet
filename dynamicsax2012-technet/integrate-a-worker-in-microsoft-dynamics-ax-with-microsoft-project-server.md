@@ -12,7 +12,7 @@ f1_keywords:
 - integrate to project server
 ---
 
-# Integrate a worker in Microsoft Dynamics AX with Microsoft Project Server 
+# Integrate a worker in Microsoft Dynamics AX with Microsoft Project Server [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

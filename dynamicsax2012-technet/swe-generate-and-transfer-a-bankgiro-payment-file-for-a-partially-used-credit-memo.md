@@ -12,7 +12,7 @@ f1_keywords:
 - credit memo
 ---
 
-# (SWE) Generate and transfer a Bankgiro payment file for a partially used credit memo 
+# (SWE) Generate and transfer a Bankgiro payment file for a partially used credit memo [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

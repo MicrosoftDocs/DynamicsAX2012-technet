@@ -11,7 +11,7 @@ f1_keywords:
 - Menu_Items.Display.RetailKitListPage
 ---
 
-# Create retail product kits 
+# Create retail product kits [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -12,7 +12,7 @@ f1_keywords:
 - MsDynAx060.Forms.AssetParameters
 ---
 
-# (DEU) Set up the parameters to calculate depreciation for additional acquisitions 
+# (DEU) Set up the parameters to calculate depreciation for additional acquisitions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

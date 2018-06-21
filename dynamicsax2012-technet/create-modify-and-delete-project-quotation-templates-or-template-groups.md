@@ -13,7 +13,7 @@ f1_keywords:
 - sales quotation template
 ---
 
-# Create, modify, and delete project quotation templates or template groups 
+# Create, modify, and delete project quotation templates or template groups [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

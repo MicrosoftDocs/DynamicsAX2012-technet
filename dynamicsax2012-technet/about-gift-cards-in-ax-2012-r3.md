@@ -8,7 +8,7 @@ ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
 
-# About gift cards in AX 2012 R3 
+# About gift cards in AX 2012 R3 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

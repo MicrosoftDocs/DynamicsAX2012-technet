@@ -11,7 +11,7 @@ f1_keywords:
 - recurring journal
 ---
 
-# (EEUR) Create and post a periodic journal 
+# (EEUR) Create and post a periodic journal [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

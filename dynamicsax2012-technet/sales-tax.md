@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales tax
 ---
 
-# sales tax
+# sales tax[AX 2012]
 
 A tax levied on the sale of products.
 

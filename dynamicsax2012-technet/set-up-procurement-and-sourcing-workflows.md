@@ -15,7 +15,7 @@ f1_keywords:
 - procurement and sourcing
 ---
 
-# Set up Procurement and sourcing workflows 
+# Set up Procurement and sourcing workflows [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

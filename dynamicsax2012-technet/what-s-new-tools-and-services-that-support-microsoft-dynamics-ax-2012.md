@@ -8,7 +8,7 @@ ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Tools and services that support Microsoft Dynamics AX 2012 
+# What's new: Tools and services that support Microsoft Dynamics AX 2012 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

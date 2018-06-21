@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.TAMPromotionParameters
 ---
 
-# Set up a trade allowance agreement for a promotion 
+# Set up a trade allowance agreement for a promotion [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

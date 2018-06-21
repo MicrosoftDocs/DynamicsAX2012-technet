@@ -8,7 +8,7 @@ ms.date: 03/25/2016
 mtps_version: v=AX.60
 ---
 
-# Configure the version of SQL Server Integration Services used by the Data import/export framework in an environment with multiple versions (DIXF) 
+# Configure the version of SQL Server Integration Services used by the Data import/export framework in an environment with multiple versions (DIXF) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

@@ -11,7 +11,7 @@ f1_keywords:
 - vendor payment
 ---
 
-# Walkthrough: Configuring an outbound integration port for payments 
+# Walkthrough: Configuring an outbound integration port for payments [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

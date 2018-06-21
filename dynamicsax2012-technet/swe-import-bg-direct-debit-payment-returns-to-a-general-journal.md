@@ -13,7 +13,7 @@ f1_keywords:
 - BG
 ---
 
-# (SWE) Import BG direct debit payment returns to a general journal 
+# (SWE) Import BG direct debit payment returns to a general journal [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

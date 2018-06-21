@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.upcast
 ---
 
-# upcast
+# upcast[AX 2012]
 
 An expression that modifies an object type into the type of a base class.
 

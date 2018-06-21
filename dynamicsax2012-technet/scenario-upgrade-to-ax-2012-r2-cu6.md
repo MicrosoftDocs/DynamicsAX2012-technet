@@ -8,7 +8,7 @@ ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
 
-# Scenario: Upgrade to AX 2012 R2 + CU6 
+# Scenario: Upgrade to AX 2012 R2 + CU6 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

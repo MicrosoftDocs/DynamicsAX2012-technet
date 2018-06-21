@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.document blocking
 ---
 
-# document blocking
+# document blocking[AX 2012]
 
 A method of placing an operations process on hold while ordered items are in a quality assurance process.
 

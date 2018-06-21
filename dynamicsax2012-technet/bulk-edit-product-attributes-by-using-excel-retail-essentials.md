@@ -8,7 +8,7 @@ ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
 
-# Bulk edit product attributes by using Excel (Retail essentials) 
+# Bulk edit product attributes by using Excel (Retail essentials) [AX 2012]
 
 
 This topic explains how to use Microsoft Excel to update attributes such as size, color, and dimensions for products that you sell in your retail stores.

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.refund
 ---
 
-# refund
+# refund[AX 2012]
 
 The return of an amount paid.
 

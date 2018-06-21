@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.Hcmi9InspectionList
 ---
 
-# I-9 inspection list report (Hcmi9InspectionList) 
+# I-9 inspection list report (Hcmi9InspectionList) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

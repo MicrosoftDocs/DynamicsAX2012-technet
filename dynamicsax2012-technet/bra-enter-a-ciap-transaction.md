@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.forms.FBCIAPAssessment_BR
 ---
 
-# (BRA) Enter a CIAP transaction 
+# (BRA) Enter a CIAP transaction [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

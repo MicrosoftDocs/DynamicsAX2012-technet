@@ -13,7 +13,7 @@ f1_keywords:
 - post a packing slip
 ---
 
-# About generating packing slips for intercompany orders 
+# About generating packing slips for intercompany orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

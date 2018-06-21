@@ -15,7 +15,7 @@ f1_keywords:
 - project worker
 ---
 
-# Key tasks: Create a schedule based on a project in AX 2012 R3 or AX 2012 R2 CU7 
+# Key tasks: Create a schedule based on a project in AX 2012 R3 or AX 2012 R2 CU7 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

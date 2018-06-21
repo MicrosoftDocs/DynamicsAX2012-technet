@@ -14,7 +14,7 @@ f1_keywords:
 - RapidStart sign-up overview
 ---
 
-# Learn about the end-to-end provisioning process in RapidStart Services 
+# Learn about the end-to-end provisioning process in RapidStart Services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

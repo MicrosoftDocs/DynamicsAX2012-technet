@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RAssetInventorySheet
 ---
 
-# (RUS) Inventory FA list report (RAssetInventorySheet) 
+# (RUS) Inventory FA list report (RAssetInventorySheet) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.interest note
 ---
 
-# interest note
+# interest note[AX 2012]
 
 A source document that documents an interest payment obligation.
 

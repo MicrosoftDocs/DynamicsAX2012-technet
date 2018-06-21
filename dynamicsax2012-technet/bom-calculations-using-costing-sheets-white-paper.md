@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# BOM calculations using costing sheets (White paper) 
+# BOM calculations using costing sheets (White paper) [AX 2012]
 
 
 This white paper describes the setup of the costing sheet and the additional elements that are involved in the calculation of manufacturing overhead for a bill of materials (BOM). The processes for including direct and indirect costs in the calculation of manufacturing overhead for a BOM are described for both single-level and multilevel BOM calculations. The paper also provides an overview of how indirect cost calculations can be viewed from a production order and how to analyze production variances.

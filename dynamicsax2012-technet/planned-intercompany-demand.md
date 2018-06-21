@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.planned intercompany demand
 ---
 
-# planned intercompany demand
+# planned intercompany demand[AX 2012]
 
 Predicted demand for a product by a legal entity that assumes the role of a vendor. The planned demand is generated from planned demand for the product from a downstream legal entity.
 

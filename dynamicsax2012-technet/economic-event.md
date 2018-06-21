@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.economic event
 ---
 
-# economic event
+# economic event[AX 2012]
 
 The occurrence of an economic exchange action in an economic system.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.EmplTransList_RU
 ---
 
-# (RUS) Advance holder transactions report (EmplTransList\_RU) 
+# (RUS) Advance holder transactions report (EmplTransList\_RU) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

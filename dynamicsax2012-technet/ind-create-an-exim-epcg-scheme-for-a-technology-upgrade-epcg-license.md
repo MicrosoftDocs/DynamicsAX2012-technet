@@ -15,7 +15,7 @@ f1_keywords:
 - technology upgrade EPCG license
 ---
 
-# (IND) Create an EXIM EPCG scheme for a technology upgrade EPCG license 
+# (IND) Create an EXIM EPCG scheme for a technology upgrade EPCG license [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

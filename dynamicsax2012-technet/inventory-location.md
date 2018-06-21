@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.inventory location
 ---
 
-# inventory location
+# inventory location[AX 2012]
 
 A functional storage facility where the stock value is recorded in accounting journals using inventory account classifications.
 

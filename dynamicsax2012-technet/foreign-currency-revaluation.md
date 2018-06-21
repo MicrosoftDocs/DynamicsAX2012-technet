@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.foreign currency revaluation
 ---
 
-# foreign currency revaluation
+# foreign currency revaluation[AX 2012]
 
 A procedure for recording revalued assets and liabilities that account for differences in exchange rates between an original transaction currency unit and accounting currency unit conversion and a period end transaction currency and accounting currency conversion.
 

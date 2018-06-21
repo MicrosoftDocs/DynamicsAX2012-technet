@@ -18,7 +18,7 @@ f1_keywords:
 - MsDynAx060.Forms.RHRMLeaveScheduleTable
 ---
 
-# (RUS) Create and post a vacation resolution 
+# (RUS) Create and post a vacation resolution [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -8,7 +8,7 @@ ms.date: 07/25/2014
 mtps_version: v=AX.60
 ---
 
-# Add an address to a service order 
+# Add an address to a service order [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

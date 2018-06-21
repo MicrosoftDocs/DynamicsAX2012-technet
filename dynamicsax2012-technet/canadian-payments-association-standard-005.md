@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Canadian Payments Association Standard 005
 ---
 
-# Canadian Payments Association Standard 005
+# Canadian Payments Association Standard 005[AX 2012]
 
 A standard for the exchange of financial data on automatic funds transfer (AFT) records that is maintained by the Canadian Payments Association (CPA).
 

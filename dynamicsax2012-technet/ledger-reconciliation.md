@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.ledger reconciliation
 ---
 
-# ledger reconciliation
+# ledger reconciliation[AX 2012]
 
 The practice of reconciling general ledger accounts.
 

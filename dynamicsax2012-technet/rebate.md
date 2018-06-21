@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.rebate
 ---
 
-# rebate
+# rebate[AX 2012]
 
 A refund of an amount after the full amount has been paid.
 

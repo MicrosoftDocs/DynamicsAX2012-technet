@@ -13,7 +13,7 @@ f1_keywords:
 - FA number sequence
 ---
 
-# Set up number sequences for Fixed assets 
+# Set up number sequences for Fixed assets [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

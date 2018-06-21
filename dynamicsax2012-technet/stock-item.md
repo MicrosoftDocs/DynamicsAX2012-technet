@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.stock item
 ---
 
-# stock item
+# stock item[AX 2012]
 
 An itemized product item that participates in a stock tracking process.
 

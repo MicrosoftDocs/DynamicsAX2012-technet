@@ -10,7 +10,7 @@ f1_keywords:
 - MsDynAx060.9c603eb2-1a13-4ff1-b9c9-504f051034a8
 ---
 
-# Reset checklist status to set up another store (Retail essentials) 
+# Reset checklist status to set up another store (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

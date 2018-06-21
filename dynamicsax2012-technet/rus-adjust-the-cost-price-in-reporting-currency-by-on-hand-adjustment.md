@@ -13,7 +13,7 @@ f1_keywords:
 - Russia
 ---
 
-# (RUS) Adjust the cost price in reporting currency by on-hand adjustment 
+# (RUS) Adjust the cost price in reporting currency by on-hand adjustment [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

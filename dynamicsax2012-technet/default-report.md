@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.default report
 ---
 
-# default report
+# default report[AX 2012]
 
 A type of report that does not allow a user to modify the layout but that does allow a user to filter and sort the data in the report.
 

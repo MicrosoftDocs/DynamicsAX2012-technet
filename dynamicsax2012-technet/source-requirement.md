@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.source requirement
 ---
 
-# source requirement
+# source requirement[AX 2012]
 
 The product quantity documented on a source document line that creates a pegging requirement.
 

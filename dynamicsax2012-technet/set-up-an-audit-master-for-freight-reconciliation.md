@@ -15,7 +15,7 @@ f1_keywords:
 - audit tolerance level
 ---
 
-# Set up an audit master for freight reconciliation 
+# Set up an audit master for freight reconciliation [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

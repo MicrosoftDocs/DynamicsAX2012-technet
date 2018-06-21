@@ -11,7 +11,7 @@ f1_keywords:
 - job performance goal type
 ---
 
-# Create goal types 
+# Create goal types [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

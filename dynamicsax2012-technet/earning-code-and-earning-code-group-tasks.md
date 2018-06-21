@@ -17,7 +17,7 @@ f1_keywords:
 - Forms.PayrollEarningCodeGroup
 ---
 
-# Earning code and earning code group tasks 
+# Earning code and earning code group tasks [AX 2012]
 
 
 This topic describes the tasks that are required to set up earning codes and earning code groups.

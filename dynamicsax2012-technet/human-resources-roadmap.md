@@ -8,7 +8,7 @@ ms.date: 09/10/2014
 mtps_version: v=AX.60
 ---
 
-# Human resources roadmap 
+# Human resources roadmap [AX 2012]
 
 
 This topic is a roadmap to additional information about Human resources in Microsoft Dynamics AX 2012. It includes links to information about how to get started with, configure, use, and integrate with Human resources in AX 2012. You can use this information to help you plan a Human resources implementation, guide you through the implementation steps, and give you a comprehensive list of links to most of the tasks you need to complete.

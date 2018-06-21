@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.variant configuration technology
 ---
 
-# variant configuration technology
+# variant configuration technology[AX 2012]
 
 A method of modeling product masters and searching for product variant configurations.
 

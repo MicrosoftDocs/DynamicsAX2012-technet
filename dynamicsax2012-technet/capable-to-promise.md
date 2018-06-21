@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.capable to promise
 ---
 
-# capable to promise
+# capable to promise[AX 2012]
 
 The portion of product output from available operations resources and available input product required to fulfill a specific customer requirement.
 

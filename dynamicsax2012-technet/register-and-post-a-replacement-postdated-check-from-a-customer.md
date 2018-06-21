@@ -12,7 +12,7 @@ f1_keywords:
 - replacement
 ---
 
-# Register and post a replacement postdated check from a customer 
+# Register and post a replacement postdated check from a customer [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

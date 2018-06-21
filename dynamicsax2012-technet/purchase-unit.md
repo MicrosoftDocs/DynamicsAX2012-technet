@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.purchase unit
 ---
 
-# purchase unit
+# purchase unit[AX 2012]
 
 A unit of measure for expressing quantities of purchased product.
 

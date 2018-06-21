@@ -12,7 +12,7 @@ f1_keywords:
 - MsDynAx060.Forms.CustCollectionLetterNote
 ---
 
-# (NOR) Generate an EHF electronic document for a collection letter 
+# (NOR) Generate an EHF electronic document for a collection letter [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.interunit accounting
 ---
 
-# interunit accounting
+# interunit accounting[AX 2012]
 
 An accounting process where due-to and due-from account entries are automatically created to ensure that an accounting entry is balanced for one or more specified financial dimensions in a legal entity.
 

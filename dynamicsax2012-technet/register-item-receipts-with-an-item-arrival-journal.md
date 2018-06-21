@@ -13,7 +13,7 @@ f1_keywords:
 - register item receipts
 ---
 
-# Register item receipts with an item arrival journal 
+# Register item receipts with an item arrival journal [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

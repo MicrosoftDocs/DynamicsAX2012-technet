@@ -11,7 +11,7 @@ f1_keywords:
 - Glossary.role
 ---
 
-# role
+# role[AX 2012]
 
   - In the security model, a behavior pattern of a person playing an organization role, a functional role, and an application role.
 

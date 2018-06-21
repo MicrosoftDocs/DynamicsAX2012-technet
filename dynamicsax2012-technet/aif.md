@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.AIF
 ---
 
-# AIF
+# AIF[AX 2012]
 
 The framework that provides a collection of features, tools, and infrastructure that uses a services programming model to support application integration.
 

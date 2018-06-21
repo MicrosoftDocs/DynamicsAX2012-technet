@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.statistical account
 ---
 
-# statistical account
+# statistical account[AX 2012]
 
 A classifier of economic resource quantity used to classify debit or credit entries in an accounting system.
 

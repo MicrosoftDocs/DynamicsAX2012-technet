@@ -8,7 +8,7 @@ ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---
 
-# Financial controller security role (LedgerFinancialController) 
+# Financial controller security role (LedgerFinancialController) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

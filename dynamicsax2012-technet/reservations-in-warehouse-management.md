@@ -8,7 +8,7 @@ ms.date: 10/03/2014
 mtps_version: v=AX.60
 ---
 
-# Reservations in Warehouse management 
+# Reservations in Warehouse management [AX 2012]
 
 
 This white paper describes the new functionality for reservations in **Warehouse management**. Intended for IT pros and developers, the descriptions cover new features such as reservation hierarchies and reservation strategies, and provide a technical overview of how the features are implemented.

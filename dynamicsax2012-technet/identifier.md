@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.identifier
 ---
 
-# identifier
+# identifier[AX 2012]
 
 A distinguishing label assigned to data entities.
 

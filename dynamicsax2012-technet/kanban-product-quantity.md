@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.kanban product quantity
 ---
 
-# kanban product quantity
+# kanban product quantity[AX 2012]
 
 The number of item requirements that are carried on a kanban based on a kanban rule.
 

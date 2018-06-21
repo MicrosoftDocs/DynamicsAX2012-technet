@@ -17,7 +17,7 @@ f1_keywords:
 - import vendors
 ---
 
-# Import and create one-time vendors and invoices (Public sector) 
+# Import and create one-time vendors and invoices (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cash
 ---
 
-# cash
+# cash[AX 2012]
 
 A currency limited to money.
 

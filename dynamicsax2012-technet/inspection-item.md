@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.inspection item
 ---
 
-# inspection item
+# inspection item[AX 2012]
 
 An itemized product that participates in an inspection process.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cost center
 ---
 
-# cost center
+# cost center[AX 2012]
 
 An operating unit whose managers are accountable for budgeted and actual expenditures.
 

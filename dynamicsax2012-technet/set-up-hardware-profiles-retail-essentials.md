@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.8100e9d1-bf4a-4d4f-a07f-c4cf25ecad59
 ---
 
-# Set up hardware profiles (Retail Essentials) 
+# Set up hardware profiles (Retail Essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

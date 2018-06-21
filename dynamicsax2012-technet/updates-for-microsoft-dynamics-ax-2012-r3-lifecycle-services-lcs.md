@@ -8,7 +8,7 @@ ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---
 
-# Updates for Microsoft Dynamics AX 2012 R3 (Lifecycle Services, LCS) 
+# Updates for Microsoft Dynamics AX 2012 R3 (Lifecycle Services, LCS) [AX 2012]
 
 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/updates-for-microsoft-dynamics-ax-2012-r3-lifecycle-services-lcs/) in the Dynamics AX Help wiki.

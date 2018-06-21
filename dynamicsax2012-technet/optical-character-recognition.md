@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.optical character recognition
 ---
 
-# optical character recognition
+# optical character recognition[AX 2012]
 
 A method of translating images of printed text into machine-encoded text.
 

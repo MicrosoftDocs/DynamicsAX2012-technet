@@ -8,7 +8,7 @@ ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---
 
-# Scenario: Perform in-place upgrade to AX 2012 R3 + CU10 
+# Scenario: Perform in-place upgrade to AX 2012 R3 + CU10 [AX 2012]
 
 
 This topic provides instructions for repairing incorrect model element IDs when upgrading to Microsoft Dynamics AX 2012 R3 + CU10 or later from any previous version of Dynamics AX 2012 R2.

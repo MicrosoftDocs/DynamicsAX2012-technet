@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.TAMBillBackListPage
 ---
 
-# Set up rebates 
+# Set up rebates [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

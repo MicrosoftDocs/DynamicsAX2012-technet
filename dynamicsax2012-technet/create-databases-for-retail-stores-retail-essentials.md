@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.d57a3d13-28da-441e-8a72-7ad5c764b8af
 ---
 
-# Create databases for retail stores (Retail essentials) 
+# Create databases for retail stores (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

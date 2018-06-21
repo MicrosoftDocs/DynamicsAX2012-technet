@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.international ACH transaction
 ---
 
-# international ACH transaction
+# international ACH transaction[AX 2012]
 
 An Automated Clearing House (ACH) funds transfer between an originating party and a receiving party that involves at least one depository financial institution that is not located in the territorial jurisdiction of the United States.
 

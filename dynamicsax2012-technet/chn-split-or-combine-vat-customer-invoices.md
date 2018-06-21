@@ -19,7 +19,7 @@ f1_keywords:
 - MsDynAx060.Forms.TaxIntgrExportDocumentSplit_CN
 ---
 
-# (CHN) Split or combine VAT customer invoices 
+# (CHN) Split or combine VAT customer invoices [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

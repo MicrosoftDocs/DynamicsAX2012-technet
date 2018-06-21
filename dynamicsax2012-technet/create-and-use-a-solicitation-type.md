@@ -18,7 +18,7 @@ f1_keywords:
 - solicitations
 ---
 
-# Create and use a solicitation type 
+# Create and use a solicitation type [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

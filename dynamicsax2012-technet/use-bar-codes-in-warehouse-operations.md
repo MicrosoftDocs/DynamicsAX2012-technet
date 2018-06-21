@@ -8,7 +8,7 @@ ms.date: 05/06/2015
 mtps_version: v=AX.60
 ---
 
-# Use bar codes in warehouse operations 
+# Use bar codes in warehouse operations [AX 2012]
 
 
 

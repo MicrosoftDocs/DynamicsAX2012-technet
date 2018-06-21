@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.by-product
 ---
 
-# by-product
+# by-product[AX 2012]
 
 A item produced as a consequence of producing another item.
 

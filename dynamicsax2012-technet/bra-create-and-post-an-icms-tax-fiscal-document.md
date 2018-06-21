@@ -14,7 +14,7 @@ f1_keywords:
 - post and print
 ---
 
-# (BRA) Create and post an ICMS tax fiscal document 
+# (BRA) Create and post an ICMS tax fiscal document [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

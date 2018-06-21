@@ -13,7 +13,7 @@ dev_langs:
 - xml
 ---
 
-# Create a security file for Retail deployment 
+# Create a security file for Retail deployment [AX 2012]
 
 
 This topic describes how to create a security file that can be used by Retail mass deployment tools.

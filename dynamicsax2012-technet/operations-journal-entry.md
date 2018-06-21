@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.operations journal entry
 ---
 
-# operations journal entry
+# operations journal entry[AX 2012]
 
 A record of the operational and legal consequences of a resource flow event.
 

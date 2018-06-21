@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.compensation
 ---
 
-# compensation
+# compensation[AX 2012]
 
 Direct or indirect monetary and nonmonentary rewards in exchange for services rendered, or an award for damages sustained by an injury or by the violation of a contract.
 

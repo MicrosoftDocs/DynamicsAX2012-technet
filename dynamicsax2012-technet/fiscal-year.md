@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.fiscal year
 ---
 
-# fiscal year
+# fiscal year[AX 2012]
 
 An approximate 12-month fiscal period used by an organization that prepares annual financial statements.
 

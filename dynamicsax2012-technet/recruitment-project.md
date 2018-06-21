@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.recruitment project
 ---
 
-# recruitment project
+# recruitment project[AX 2012]
 
 A project to coordinate and track a program of recruiting activities and documentation.
 

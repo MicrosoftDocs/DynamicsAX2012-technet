@@ -10,7 +10,7 @@ f1_keywords:
 - JP - 00004
 ---
 
-# (JPN) Create a calculation worksheet and print the consumption tax reports 
+# (JPN) Create a calculation worksheet and print the consumption tax reports [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

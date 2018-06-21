@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.trading relationship
 ---
 
-# trading relationship
+# trading relationship[AX 2012]
 
 A relationship that is formed when a buying party and a selling party enter into an agreement.
 

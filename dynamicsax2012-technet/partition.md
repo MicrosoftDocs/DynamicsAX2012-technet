@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.partition
 ---
 
-# partition
+# partition[AX 2012]
 
 A division of an application’s processing into logical or functional parts.
 

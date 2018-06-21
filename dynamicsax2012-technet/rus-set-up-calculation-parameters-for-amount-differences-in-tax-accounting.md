@@ -13,7 +13,7 @@ f1_keywords:
 - set up calculation parameters
 ---
 
-# (RUS) Set up calculation parameters for amount differences in tax accounting 
+# (RUS) Set up calculation parameters for amount differences in tax accounting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

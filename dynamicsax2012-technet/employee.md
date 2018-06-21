@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.employee
 ---
 
-# employee
+# employee[AX 2012]
 
 A role assumed by a person who participates in an employee-employer relationship with a legal entity.
 

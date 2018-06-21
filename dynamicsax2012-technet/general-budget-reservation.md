@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.general budget reservation
 ---
 
-# general budget reservation
+# general budget reservation[AX 2012]
 
 A document that is often used by public sector entities to set aside or earmark budgeted funds so that those funds are not available for other purposes.
 

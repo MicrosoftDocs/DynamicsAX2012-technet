@@ -8,7 +8,7 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
 
-# Set up return locations for retail stores 
+# Set up return locations for retail stores [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

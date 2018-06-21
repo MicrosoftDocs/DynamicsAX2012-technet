@@ -16,7 +16,7 @@ f1_keywords:
 - BR - 00033
 ---
 
-# (BRA) About the identification of CFOP codes for transactions 
+# (BRA) About the identification of CFOP codes for transactions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

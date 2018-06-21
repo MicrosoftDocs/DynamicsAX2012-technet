@@ -13,7 +13,7 @@ f1_keywords:
 - tax matrix
 ---
 
-# (BRA) Set up a tax matrix 
+# (BRA) Set up a tax matrix [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Automated Clearing House
 ---
 
-# Automated Clearing House
+# Automated Clearing House[AX 2012]
 
 An electronic funds transfer system available in the United States that facilitates the transfer of funds between receiving party and originating party bank accounts.
 

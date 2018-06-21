@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.unsolicited vendor
 ---
 
-# unsolicited vendor
+# unsolicited vendor[AX 2012]
 
 A vendor that applies to supply products to one or more legal entities without responding to a formal or informal request.
 

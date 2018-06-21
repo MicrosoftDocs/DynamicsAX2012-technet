@@ -11,7 +11,7 @@ f1_keywords:
 - outgoing
 ---
 
-# (RUS) Create an outgoing or incoming payment 
+# (RUS) Create an outgoing or incoming payment [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

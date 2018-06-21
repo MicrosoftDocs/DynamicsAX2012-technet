@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.BudgetPlanListReport
 ---
 
-# Budget plan list report (BudgetPlanListReport) 
+# Budget plan list report (BudgetPlanListReport) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

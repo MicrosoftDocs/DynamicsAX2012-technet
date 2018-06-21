@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailCDXSchedulerInterval
 ---
 
-# Set up a profile for Async Server 
+# Set up a profile for Async Server [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

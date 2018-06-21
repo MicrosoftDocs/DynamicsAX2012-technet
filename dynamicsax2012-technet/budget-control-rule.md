@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.budget control rule
 ---
 
-# budget control rule
+# budget control rule[AX 2012]
 
 The encoding of a business decision to check committed and actual expenditure against available budget funds allocated for detailed or aggregate activities defined by valid budget control dimension value combinations.
 

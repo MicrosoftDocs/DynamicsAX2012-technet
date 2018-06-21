@@ -8,7 +8,7 @@ ms.date: 05/20/2015
 mtps_version: v=AX.60
 ---
 
-# About setting up loyalty programs in AX 2012 R3 
+# About setting up loyalty programs in AX 2012 R3 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

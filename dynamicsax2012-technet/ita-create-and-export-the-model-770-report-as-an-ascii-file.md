@@ -12,7 +12,7 @@ f1_keywords:
 - Modello 770
 ---
 
-# (ITA) Create and export the Model 770 report as an ASCII file 
+# (ITA) Create and export the Model 770 report as an ASCII file [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

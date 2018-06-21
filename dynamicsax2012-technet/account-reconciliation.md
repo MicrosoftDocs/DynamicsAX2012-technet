@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.account reconciliation
 ---
 
-# account reconciliation
+# account reconciliation[AX 2012]
 
 The practice of reconciling accounts.
 

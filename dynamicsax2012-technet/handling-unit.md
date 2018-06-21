@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.handling unit
 ---
 
-# handling unit
+# handling unit[AX 2012]
 
 A uniquely identifiable logistics unit of material that can be transferred, stored, received, and shipped.
 

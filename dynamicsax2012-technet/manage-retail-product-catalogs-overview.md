@@ -13,7 +13,7 @@ f1_keywords:
 - product catalogs
 ---
 
-# Manage retail product catalogs overview 
+# Manage retail product catalogs overview [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.dataset parameter
 ---
 
-# dataset parameter
+# dataset parameter[AX 2012]
 
 A type of parameter that is created by the reporting framework when a dataset is created based on the Query property and the Dynamic Filters property of the dataset.
 

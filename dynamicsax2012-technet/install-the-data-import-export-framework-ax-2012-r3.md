@@ -10,7 +10,7 @@ f1_keywords:
 - MsDynAx060.Forms.DMFParameters
 ---
 
-# Install the Data import/export framework (AX 2012 R3) 
+# Install the Data import/export framework (AX 2012 R3) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

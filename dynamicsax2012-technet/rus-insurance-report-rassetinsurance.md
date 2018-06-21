@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RAssetInsurance
 ---
 
-# (RUS) Insurance report (RAssetInsurance) 
+# (RUS) Insurance report (RAssetInsurance) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

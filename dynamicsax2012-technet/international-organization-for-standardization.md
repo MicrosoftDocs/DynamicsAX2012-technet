@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.International Organization for Standardization
 ---
 
-# International Organization for Standardization
+# International Organization for Standardization[AX 2012]
 
 An international association of 157 countries/regions, each of which is represented by its leading standard-setting organization-for example, ANSI (American National Standards Institute) for the United States. The ISO works to establish global standards for communications and information exchange. Primary among its accomplishments is the widely accepted ISO/OSI reference model, which defines standards for the interaction of computers connected by communications networks.
 

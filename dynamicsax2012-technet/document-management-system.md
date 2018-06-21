@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.document management system
 ---
 
-# document management system
+# document management system[AX 2012]
 
 An application service for storing and handling an organization's documents.
 

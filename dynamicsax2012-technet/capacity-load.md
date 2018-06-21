@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.capacity load
 ---
 
-# capacity load
+# capacity load[AX 2012]
 
 The maximum amount of scheduled work that a work center can perform at a required capacity level.
 

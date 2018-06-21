@@ -12,7 +12,7 @@ f1_keywords:
 - financial dimensions for budget
 ---
 
-# Define financial dimensions for Budgeting 
+# Define financial dimensions for Budgeting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

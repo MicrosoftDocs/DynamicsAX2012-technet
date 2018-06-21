@@ -8,7 +8,7 @@ ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
 
-# Human resources cube (HumanResourceCube) for Microsoft Dynamics AX 2012 R2 and R3 
+# Human resources cube (HumanResourceCube) for Microsoft Dynamics AX 2012 R2 and R3 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

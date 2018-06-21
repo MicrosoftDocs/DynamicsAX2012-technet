@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.RetailMCRChannelListPage
 ---
 
-# Add images and customer service scripts to item information 
+# Add images and customer service scripts to item information [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

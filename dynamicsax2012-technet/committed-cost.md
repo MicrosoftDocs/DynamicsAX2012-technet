@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.committed cost
 ---
 
-# committed cost
+# committed cost[AX 2012]
 
 A commitment made by a legal entity to incur a cost when a future obligation comes due.
 

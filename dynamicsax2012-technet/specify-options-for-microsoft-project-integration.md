@@ -8,7 +8,7 @@ ms.date: 04/23/2014
 mtps_version: v=AX.60
 ---
 
-# Specify options for Microsoft Project integration 
+# Specify options for Microsoft Project integration [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -13,7 +13,7 @@ f1_keywords:
 - payment schedule
 ---
 
-# Work with installment billing 
+# Work with installment billing [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
