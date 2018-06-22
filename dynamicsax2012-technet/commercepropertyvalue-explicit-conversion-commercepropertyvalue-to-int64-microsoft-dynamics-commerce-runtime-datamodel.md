@@ -1,4 +1,4 @@
-﻿---
+---
 title: CommercePropertyValue Explicit Conversion (CommercePropertyValue to Int64) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Explicit Conversion (CommercePropertyValue to Int64)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Explicit(Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue)~System.Int64
