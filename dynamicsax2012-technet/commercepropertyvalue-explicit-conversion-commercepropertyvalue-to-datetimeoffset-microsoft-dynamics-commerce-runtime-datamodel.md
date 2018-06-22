@@ -1,4 +1,4 @@
-﻿---
+---
 title: CommercePropertyValue Explicit Conversion (CommercePropertyValue to DateTimeOffset) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Explicit Conversion (CommercePropertyValue to DateTimeOffset)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Explicit(Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue)~System.DateTimeOffset
