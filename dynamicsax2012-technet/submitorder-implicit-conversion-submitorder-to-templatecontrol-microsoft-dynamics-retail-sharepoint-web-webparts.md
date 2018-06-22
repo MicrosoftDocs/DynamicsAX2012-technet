@@ -1,4 +1,4 @@
-﻿---
+---
 title: SubmitOrder Implicit Conversion (SubmitOrder to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (SubmitOrder to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.SubmitOrder.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.SubmitOrder)~System.Web.UI.TemplateControl
