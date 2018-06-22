@@ -1,4 +1,4 @@
-﻿---
+---
 title: Checkout Implicit Conversion (Checkout to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (Checkout to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Checkout.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Checkout)~System.Web.UI.TemplateControl
