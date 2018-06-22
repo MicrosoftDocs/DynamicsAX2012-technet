@@ -8287,7 +8287,7 @@
                 href: ..\address-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (Address to TemplateControl)
-                  href: ..\address implicit-conversion-address-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\address-implicit-conversion-address-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: Address Properties
                 href: ..\address-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
@@ -8328,7 +8328,7 @@
                 href: ..\addressdisplay-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (AddressDisplay to TemplateControl)
-                  href: ..\addressdisplay implicit-conversion-addressdisplay-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\addressdisplay-implicit-conversion-addressdisplay-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: AddressDisplay Properties
                 href: ..\addressdisplay-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
@@ -8369,7 +8369,7 @@
                 href: ..\addtocart-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (AddToCart to TemplateControl)
-                  href: ..\addtocart implicit-conversion-addtocart-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\addtocart-implicit-conversion-addtocart-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: AddToCart Properties
                 href: ..\addtocart-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
@@ -8416,7 +8416,7 @@
                 href: ..\authentication-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (Authentication to TemplateControl)
-                  href: ..\authentication implicit-conversion-authentication-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\authentication-implicit-conversion-authentication-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: Authentication Properties
                 href: ..\authentication-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
@@ -8464,7 +8464,7 @@
                 href: ..\categorylanding-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (CategoryLanding to TemplateControl)
-                  href: ..\categorylanding implicit-conversion-categorylanding-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\categorylanding-implicit-conversion-categorylanding-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: CategoryLanding Properties
                 href: ..\categorylanding-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: CategoryLanding Events
@@ -8502,7 +8502,7 @@
                 href: ..\checkout-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (Checkout to TemplateControl)
-                  href: ..\checkout implicit-conversion-checkout-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\checkout-implicit-conversion-checkout-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: Checkout Properties
                 href: ..\checkout-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
@@ -8547,7 +8547,7 @@
                 href: ..\customer-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (Customer to TemplateControl)
-                  href: ..\customer implicit-conversion-customer-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\customer-implicit-conversion-customer-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: Customer Properties
                 href: ..\customer-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: Customer Events
@@ -8585,7 +8585,7 @@
                 href: ..\customerdisplay-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (CustomerDisplay to TemplateControl)
-                  href: ..\customerdisplay implicit-conversion-customerdisplay-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\customerdisplay-implicit-conversion-customerdisplay-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: CustomerDisplay Properties
                 href: ..\customerdisplay-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: CustomerDisplay Events
@@ -8640,7 +8640,7 @@
                 href: ..\login-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (Login to TemplateControl)
-                  href: ..\login implicit-conversion-login-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\login-implicit-conversion-login-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: Login Properties
                 href: ..\login-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: Login Events
@@ -8678,7 +8678,7 @@
                 href: ..\minishoppingcart-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (MiniShoppingCart to TemplateControl)
-                  href: ..\minishoppingcart implicit-conversion-minishoppingcart-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\minishoppingcart-implicit-conversion-minishoppingcart-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: MiniShoppingCart Properties
                 href: ..\minishoppingcart-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
@@ -8749,7 +8749,7 @@
                 href: ..\promotioncode-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (PromotionCode to TemplateControl)
-                  href: ..\promotioncode implicit-conversion-promotioncode-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\promotioncode-implicit-conversion-promotioncode-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: PromotionCode Properties
                 href: ..\promotioncode-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
@@ -8799,7 +8799,7 @@
                 href: ..\register-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (Register to TemplateControl)
-                  href: ..\register implicit-conversion-register-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\register-implicit-conversion-register-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: Register Properties
                 href: ..\register-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: Register Events
@@ -8874,7 +8874,7 @@
                 href: ..\resultsperpage-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (ResultsPerPage to TemplateControl)
-                  href: ..\resultsperpage implicit-conversion-resultsperpage-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\resultsperpage-implicit-conversion-resultsperpage-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: ResultsPerPage Properties
                 href: ..\resultsperpage-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
@@ -8941,7 +8941,7 @@
                 href: ..\shoppingcart-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (ShoppingCart to TemplateControl)
-                  href: ..\shoppingcart implicit-conversion-shoppingcart-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\shoppingcart-implicit-conversion-shoppingcart-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: ShoppingCart Properties
                 href: ..\shoppingcart-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
@@ -9016,7 +9016,7 @@
                 href: ..\storeproductavailability-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (StoreProductAvailability to TemplateControl)
-                  href: ..\storeproductavailability implicit-conversion-storeproductavailability-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\storeproductavailabilityimplicit-conversion-storeproductavailability-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: StoreProductAvailability Properties
                 href: ..\storeproductavailability-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
@@ -9057,7 +9057,7 @@
                 href: ..\submitorder-type-conversions-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
                 - name: Implicit Conversion (SubmitOrder to TemplateControl)
-                  href: ..\submitorder implicit-conversion-submitorder-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
+                  href: ..\submitorder-implicit-conversion-submitorder-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md
               - name: SubmitOrder Properties
                 href: ..\submitorder-properties-microsoft-dynamics-retail-sharepoint-web-webparts.md
                 items:
