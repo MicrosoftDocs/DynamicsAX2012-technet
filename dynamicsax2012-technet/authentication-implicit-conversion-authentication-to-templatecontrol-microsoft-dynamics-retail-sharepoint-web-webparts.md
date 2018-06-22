@@ -1,4 +1,4 @@
-﻿---
+---
 title: Authentication Implicit Conversion (Authentication to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (Authentication to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Authentication.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Authentication)~System.Web.UI.TemplateControl
