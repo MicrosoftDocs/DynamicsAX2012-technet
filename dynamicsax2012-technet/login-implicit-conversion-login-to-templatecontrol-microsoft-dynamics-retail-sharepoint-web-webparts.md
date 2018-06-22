@@ -1,4 +1,4 @@
-﻿---
+---
 title: Login Implicit Conversion (Login to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (Login to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Login.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Login)~System.Web.UI.TemplateControl
