@@ -1,4 +1,4 @@
-﻿---
+---
 title: CommercePropertyValue Implicit Conversion Operators (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Implicit Conversion Operators
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Implicit
