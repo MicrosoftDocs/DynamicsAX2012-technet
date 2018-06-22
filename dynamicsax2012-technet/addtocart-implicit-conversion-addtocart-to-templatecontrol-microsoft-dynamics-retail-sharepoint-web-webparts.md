@@ -1,4 +1,4 @@
-﻿---
+---
 title: AddToCart Implicit Conversion (AddToCart to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (AddToCart to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddToCart.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddToCart)~System.Web.UI.TemplateControl
