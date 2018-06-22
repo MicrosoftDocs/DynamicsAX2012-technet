@@ -1,4 +1,4 @@
-﻿---
+---
 title: MiniShoppingCart Implicit Conversion (MiniShoppingCart to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (MiniShoppingCart to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.MiniShoppingCart.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.MiniShoppingCart)~System.Web.UI.TemplateControl
