@@ -1,4 +1,4 @@
-﻿---
+---
 title: ShoppingCart Implicit Conversion (ShoppingCart to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (ShoppingCart to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ShoppingCart.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ShoppingCart)~System.Web.UI.TemplateControl
