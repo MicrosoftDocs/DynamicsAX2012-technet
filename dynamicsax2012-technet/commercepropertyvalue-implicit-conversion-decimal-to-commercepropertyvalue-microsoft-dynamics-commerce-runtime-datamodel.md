@@ -1,4 +1,4 @@
-﻿---
+---
 title: CommercePropertyValue Implicit Conversion (Decimal to CommercePropertyValue) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Implicit Conversion (Decimal to CommercePropertyValue)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Implicit(System.Decimal)~Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue
