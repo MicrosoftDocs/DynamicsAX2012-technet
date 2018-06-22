@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register Implicit Conversion (Register to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (Register to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Register.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Register)~System.Web.UI.TemplateControl
