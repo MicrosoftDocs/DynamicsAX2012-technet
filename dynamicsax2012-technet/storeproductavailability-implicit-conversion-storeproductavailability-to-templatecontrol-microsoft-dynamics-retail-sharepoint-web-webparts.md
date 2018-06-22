@@ -1,4 +1,4 @@
-﻿---
+---
 title: StoreProductAvailability Implicit Conversion (StoreProductAvailability to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (StoreProductAvailability to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.StoreProductAvailability.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.StoreProductAvailability)~System.Web.UI.TemplateControl
