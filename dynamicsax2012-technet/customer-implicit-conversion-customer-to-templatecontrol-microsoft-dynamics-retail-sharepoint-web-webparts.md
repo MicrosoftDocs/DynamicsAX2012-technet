@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer Implicit Conversion (Customer to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (Customer to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Customer.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Customer)~System.Web.UI.TemplateControl
