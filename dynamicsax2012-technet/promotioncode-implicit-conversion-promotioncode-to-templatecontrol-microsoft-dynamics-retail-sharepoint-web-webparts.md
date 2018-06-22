@@ -1,4 +1,4 @@
-﻿---
+---
 title: PromotionCode Implicit Conversion (PromotionCode to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (PromotionCode to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.PromotionCode.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.PromotionCode)~System.Web.UI.TemplateControl
