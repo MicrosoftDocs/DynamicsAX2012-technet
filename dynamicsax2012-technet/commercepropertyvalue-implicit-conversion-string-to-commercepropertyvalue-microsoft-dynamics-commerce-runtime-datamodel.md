@@ -1,4 +1,4 @@
-﻿---
+---
 title: CommercePropertyValue Implicit Conversion (String to CommercePropertyValue) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Implicit Conversion (String to CommercePropertyValue)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Implicit(System.String)~Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue
