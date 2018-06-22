@@ -1,20 +1,20 @@
-﻿---
-title: AddToCart Implicit Conversion (AddToCart to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
-TOCTitle: Implicit Conversion (AddToCart to TemplateControl)
-ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddToCart.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddToCart)~System.Web.UI.TemplateControl
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.webparts.addtocart.op_implicit(v=AX.60)
-ms:contentKeyID: 62207198
+---
+title: Login Implicit Conversion (Login to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
+TOCTitle: Implicit Conversion (Login to TemplateControl)
+ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Login.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Login)~System.Web.UI.TemplateControl
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.webparts.login.op_implicit(v=AX.60)
+ms:contentKeyID: 62203571
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
-- Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddToCart.Implicit
+- Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Login.Implicit
 dev_langs:
 - CSharp
 - C++
 - VB
 ---
 
-# Implicit Conversion (AddToCart to TemplateControl)
+# Implicit Conversion (Login to TemplateControl)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.SP.Web.WebParts (in Microsoft.Dynamics.Retail.SP.Web.WebParts.dll)
@@ -24,10 +24,10 @@ dev_langs:
 ``` vb
 'Declaration
 Public Shared Widening Operator CType ( _
-    target As AddToCart _
+    target As Login _
 ) As TemplateControl
 'Usage
-Dim input As AddToCart
+Dim input As Login
 Dim output As TemplateControl
 
 output = CType(input, TemplateControl)
@@ -35,20 +35,20 @@ output = CType(input, TemplateControl)
 
 ``` csharp
 public static implicit operator TemplateControl (
-    AddToCart target
+    Login target
 )
 ```
 
 ``` c++
 static implicit operator TemplateControl^ (
-    AddToCart^ target
+    Login^ target
 )
 ```
 
 #### Parameters
 
   - target  
-    Type: [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddToCart](addtocart-class-microsoft-dynamics-retail-sharepoint-web-webparts.md)  
+    Type: [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Login](login-class-microsoft-dynamics-retail-sharepoint-web-webparts.md)  
 
 #### Return Value
 
@@ -59,7 +59,7 @@ Returns [TemplateControl](https://technet.microsoft.com/en-us/library/2174ac61\(
 
 #### Reference
 
-[AddToCart Class](addtocart-class-microsoft-dynamics-retail-sharepoint-web-webparts.md)
+[Login Class](login-class-microsoft-dynamics-retail-sharepoint-web-webparts.md)
 
 [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts Namespace](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)
 

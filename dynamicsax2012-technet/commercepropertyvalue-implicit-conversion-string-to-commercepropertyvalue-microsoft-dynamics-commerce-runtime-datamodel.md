@@ -1,9 +1,9 @@
-﻿---
-title: CommercePropertyValue Implicit Conversion (Decimal to CommercePropertyValue) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
-TOCTitle: Implicit Conversion (Decimal to CommercePropertyValue)
-ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Implicit(System.Decimal)~Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue
+---
+title: CommercePropertyValue Implicit Conversion (String to CommercePropertyValue) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: Implicit Conversion (String to CommercePropertyValue)
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Implicit(System.String)~Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.commercepropertyvalue.op_implicit(v=AX.60)
-ms:contentKeyID: 62212061
+ms:contentKeyID: 62215137
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -12,9 +12,9 @@ dev_langs:
 - c++
 ---
 
-# Implicit Conversion (Decimal to CommercePropertyValue)
+# Implicit Conversion (String to CommercePropertyValue)
 
-Defines implicit decimal-to-CommercePropertyValue conversion operator.
+Defines implicit string-to-CommercePropertyValue conversion operator.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
@@ -24,10 +24,10 @@ Defines implicit decimal-to-CommercePropertyValue conversion operator.
 ``` vb
 'Declaration
 Public Shared Widening Operator CType ( _
-    value As Decimal _
+    value As String _
 ) As CommercePropertyValue
 'Usage
-Dim input As Decimal
+Dim input As String
 Dim output As CommercePropertyValue
 
 output = CType(input, CommercePropertyValue)
@@ -35,20 +35,20 @@ output = CType(input, CommercePropertyValue)
 
 ``` csharp
 public static implicit operator CommercePropertyValue (
-    decimal value
+    string value
 )
 ```
 
 ``` c++
 static implicit operator CommercePropertyValue^ (
-    Decimal value
+    String^ value
 )
 ```
 
 #### Parameters
 
   - value  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 

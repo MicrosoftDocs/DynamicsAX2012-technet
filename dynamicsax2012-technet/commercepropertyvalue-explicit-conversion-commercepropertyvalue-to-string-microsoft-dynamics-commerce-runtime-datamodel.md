@@ -1,9 +1,9 @@
-﻿---
-title: CommercePropertyValue Explicit Conversion (CommercePropertyValue to Byte) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
-TOCTitle: Explicit Conversion (CommercePropertyValue to Byte)
-ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Explicit(Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue)~System.Byte
+---
+title: CommercePropertyValue Explicit Conversion (CommercePropertyValue to String) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: Explicit Conversion (CommercePropertyValue to String)
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Explicit(Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue)~System.String
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.commercepropertyvalue.op_explicit(v=AX.60)
-ms:contentKeyID: 62203271
+ms:contentKeyID: 62202310
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -12,9 +12,9 @@ dev_langs:
 - c++
 ---
 
-# Explicit Conversion (CommercePropertyValue to Byte)
+# Explicit Conversion (CommercePropertyValue to String)
 
-Defines explicit CommercePropertyValue-to-byte conversion operator.
+Defines explicit CommercePropertyValue-to-string conversion operator.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
@@ -25,22 +25,22 @@ Defines explicit CommercePropertyValue-to-byte conversion operator.
 'Declaration
 Public Shared Narrowing Operator CType ( _
     propertyValue As CommercePropertyValue _
-) As Byte
+) As String
 'Usage
 Dim input As CommercePropertyValue
-Dim output As Byte
+Dim output As String
 
-output = CType(input, Byte)
+output = CType(input, String)
 ```
 
 ``` csharp
-public static explicit operator byte (
+public static explicit operator string (
     CommercePropertyValue propertyValue
 )
 ```
 
 ``` c++
-static explicit operator unsigned char (
+static explicit operator String^ (
     CommercePropertyValue^ propertyValue
 )
 ```
@@ -52,8 +52,8 @@ static explicit operator unsigned char (
 
 #### Return Value
 
-Type: [System.Byte](https://technet.microsoft.com/en-us/library/yyb1w04y\(v=ax.60\))  
-The byte value.  
+Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+The string value.  
 
 ## See Also
 

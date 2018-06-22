@@ -1,9 +1,9 @@
-﻿---
-title: CommercePropertyValue Explicit Conversion (CommercePropertyValue to Decimal) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
-TOCTitle: Explicit Conversion (CommercePropertyValue to Decimal)
-ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Explicit(Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue)~System.Decimal
+---
+title: CommercePropertyValue Explicit Conversion (CommercePropertyValue to Int64) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: Explicit Conversion (CommercePropertyValue to Int64)
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Explicit(Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue)~System.Int64
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.commercepropertyvalue.op_explicit(v=AX.60)
-ms:contentKeyID: 62202890
+ms:contentKeyID: 62214716
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -12,9 +12,9 @@ dev_langs:
 - c++
 ---
 
-# Explicit Conversion (CommercePropertyValue to Decimal)
+# Explicit Conversion (CommercePropertyValue to Int64)
 
-Defines explicit CommercePropertyValue-to-decimal conversion operator.
+Defines explicit CommercePropertyValue-to-long conversion operator.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
@@ -25,22 +25,22 @@ Defines explicit CommercePropertyValue-to-decimal conversion operator.
 'Declaration
 Public Shared Narrowing Operator CType ( _
     propertyValue As CommercePropertyValue _
-) As Decimal
+) As Long
 'Usage
 Dim input As CommercePropertyValue
-Dim output As Decimal
+Dim output As Long
 
-output = CType(input, Decimal)
+output = CType(input, Long)
 ```
 
 ``` csharp
-public static explicit operator decimal (
+public static explicit operator long (
     CommercePropertyValue propertyValue
 )
 ```
 
 ``` c++
-static explicit operator Decimal (
+static explicit operator long long (
     CommercePropertyValue^ propertyValue
 )
 ```
@@ -52,8 +52,8 @@ static explicit operator Decimal (
 
 #### Return Value
 
-Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
-The decimal value.  
+Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+The long value.  
 
 ## See Also
 

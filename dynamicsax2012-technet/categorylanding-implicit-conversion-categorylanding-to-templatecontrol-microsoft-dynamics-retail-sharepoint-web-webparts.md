@@ -1,4 +1,4 @@
-﻿---
+---
 title: CategoryLanding Implicit Conversion (CategoryLanding to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (CategoryLanding to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.CategoryLanding.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.CategoryLanding)~System.Web.UI.TemplateControl

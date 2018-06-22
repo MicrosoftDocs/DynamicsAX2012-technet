@@ -1,9 +1,9 @@
-﻿---
-title: CommercePropertyValue Explicit Conversion (CommercePropertyValue to DateTimeOffset) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
-TOCTitle: Explicit Conversion (CommercePropertyValue to DateTimeOffset)
-ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Explicit(Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue)~System.DateTimeOffset
+---
+title: CommercePropertyValue Explicit Conversion (CommercePropertyValue to Decimal) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
+TOCTitle: Explicit Conversion (CommercePropertyValue to Decimal)
+ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Explicit(Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue)~System.Decimal
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.commercepropertyvalue.op_explicit(v=AX.60)
-ms:contentKeyID: 62208779
+ms:contentKeyID: 62202890
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -12,9 +12,9 @@ dev_langs:
 - c++
 ---
 
-# Explicit Conversion (CommercePropertyValue to DateTimeOffset)
+# Explicit Conversion (CommercePropertyValue to Decimal)
 
-Defines explicit CommercePropertyValue-to-DateTimeOffset conversion operator.
+Defines explicit CommercePropertyValue-to-decimal conversion operator.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
@@ -25,22 +25,22 @@ Defines explicit CommercePropertyValue-to-DateTimeOffset conversion operator.
 'Declaration
 Public Shared Narrowing Operator CType ( _
     propertyValue As CommercePropertyValue _
-) As DateTimeOffset
+) As Decimal
 'Usage
 Dim input As CommercePropertyValue
-Dim output As DateTimeOffset
+Dim output As Decimal
 
-output = CType(input, DateTimeOffset)
+output = CType(input, Decimal)
 ```
 
 ``` csharp
-public static explicit operator DateTimeOffset (
+public static explicit operator decimal (
     CommercePropertyValue propertyValue
 )
 ```
 
 ``` c++
-static explicit operator DateTimeOffset (
+static explicit operator Decimal (
     CommercePropertyValue^ propertyValue
 )
 ```
@@ -52,8 +52,8 @@ static explicit operator DateTimeOffset (
 
 #### Return Value
 
-Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
-The DateTimeOffset value.  
+Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+The decimal value.  
 
 ## See Also
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: ResultsPerPage Implicit Conversion (ResultsPerPage to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (ResultsPerPage to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ResultsPerPage.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ResultsPerPage)~System.Web.UI.TemplateControl

@@ -1,4 +1,4 @@
-﻿---
+---
 title: AddressDisplay Implicit Conversion (AddressDisplay to TemplateControl) (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Implicit Conversion (AddressDisplay to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddressDisplay.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddressDisplay)~System.Web.UI.TemplateControl
