@@ -19,7 +19,7 @@ f1_keywords:
 - sealed RFQs
 ---
 
-# About sealed bids 
+# About sealed bids [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

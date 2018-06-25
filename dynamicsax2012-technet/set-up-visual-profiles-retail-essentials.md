@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.a80bdcba-1d57-4578-b343-bf39eebc0f2d
 ---
 
-# Set up visual profiles (Retail essentials) 
+# Set up visual profiles (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

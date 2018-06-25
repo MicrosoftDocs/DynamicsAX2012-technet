@@ -20,7 +20,7 @@ f1_keywords:
 - use the shopping basket
 ---
 
-# Using the Customer self-service portal 
+# Using the Customer self-service portal [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

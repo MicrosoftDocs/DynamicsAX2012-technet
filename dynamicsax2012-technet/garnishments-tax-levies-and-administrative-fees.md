@@ -13,7 +13,7 @@ f1_keywords:
 - tax levies
 ---
 
-# Garnishments, tax levies, and administrative fees 
+# Garnishments, tax levies, and administrative fees [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

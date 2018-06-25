@@ -8,7 +8,7 @@ ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
 
-# Set up loyalty programs (Retail essentials) 
+# Set up loyalty programs (Retail essentials) [AX 2012]
 
 
 This topic describes how to set up the components of a loyalty program. Loyalty programs identify the various loyalty opportunities that you offer. You can set up very simple loyalty programs that all customers can participate in and that offer basic rewards. You can also set up more complex loyalty programs that have multiple levels, so that you can reward your customers based on their shopping habits.

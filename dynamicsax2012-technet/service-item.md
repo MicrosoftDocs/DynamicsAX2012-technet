@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.service item
 ---
 
-# service item
+# service item[AX 2012]
 
 An itemized service that participates in an operations process.
 

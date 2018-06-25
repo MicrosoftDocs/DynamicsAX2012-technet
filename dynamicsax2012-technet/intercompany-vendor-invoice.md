@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.intercompany vendor invoice
 ---
 
-# intercompany vendor invoice
+# intercompany vendor invoice[AX 2012]
 
 A vendor invoice that documents a vendor payment request from one legal entity to another legal entity that is part of the same organization that consolidates the accounts of both legal entities.
 

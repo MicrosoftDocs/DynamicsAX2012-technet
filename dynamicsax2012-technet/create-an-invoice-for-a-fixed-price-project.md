@@ -12,7 +12,7 @@ f1_keywords:
 - invoice proposal
 ---
 
-# Create an invoice for a fixed-price project 
+# Create an invoice for a fixed-price project [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

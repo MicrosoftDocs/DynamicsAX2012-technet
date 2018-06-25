@@ -21,7 +21,7 @@ f1_keywords:
 - submit W-2s
 ---
 
-# Electronic Form W-2 exported file (PRLW2File) 
+# Electronic Form W-2 exported file (PRLW2File) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

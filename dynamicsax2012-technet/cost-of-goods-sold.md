@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cost of goods sold
 ---
 
-# cost of goods sold
+# cost of goods sold[AX 2012]
 
 An accounting category used to sum the financial consequences of manufacturing products and carrying inventory.
 

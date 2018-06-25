@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.on hold
 ---
 
-# on hold
+# on hold[AX 2012]
 
 The state of an operational process that has been suspended or the status of a document and product that participate in a process that is suspended.
 

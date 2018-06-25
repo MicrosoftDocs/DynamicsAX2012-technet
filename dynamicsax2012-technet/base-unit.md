@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.base unit
 ---
 
-# base unit
+# base unit[AX 2012]
 
 A fundamental unit of measure in a system of measurement from which other units are derived.
 

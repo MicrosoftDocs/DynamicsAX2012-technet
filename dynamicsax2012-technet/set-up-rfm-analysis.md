@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.MCRRFMDefinition
 ---
 
-# Set up RFM analysis 
+# Set up RFM analysis [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

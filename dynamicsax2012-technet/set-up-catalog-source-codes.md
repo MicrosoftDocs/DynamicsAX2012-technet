@@ -24,7 +24,7 @@ f1_keywords:
 - catalog codes
 ---
 
-# Set up catalog source codes 
+# Set up catalog source codes [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

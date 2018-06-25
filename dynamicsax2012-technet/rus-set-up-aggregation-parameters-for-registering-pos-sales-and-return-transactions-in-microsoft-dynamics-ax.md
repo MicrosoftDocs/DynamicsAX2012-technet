@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailParameters
 ---
 
-# (RUS) Set up aggregation parameters for registering POS sales and return transactions in Microsoft Dynamics AX 
+# (RUS) Set up aggregation parameters for registering POS sales and return transactions in Microsoft Dynamics AX [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

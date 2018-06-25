@@ -20,7 +20,7 @@ f1_keywords:
 - bordereaux de titre
 ---
 
-# (FRA) Key tasks: Titres de recette and bordereaux de titre (Public sector) 
+# (FRA) Key tasks: Titres de recette and bordereaux de titre (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

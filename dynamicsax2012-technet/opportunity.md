@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.opportunity
 ---
 
-# opportunity
+# opportunity[AX 2012]
 
 A potential revenue-generating event, or sale to an account, that needs to be tracked through a sales process to completion.
 

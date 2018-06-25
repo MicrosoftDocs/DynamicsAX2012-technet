@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cycle time
 ---
 
-# cycle time
+# cycle time[AX 2012]
 
 The time taken to complete an activity.
 

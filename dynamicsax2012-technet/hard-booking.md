@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.hard booking
 ---
 
-# hard booking
+# hard booking[AX 2012]
 
 A project booking that commits a resource to a project or activity, usually for a specified period of time on a project schedule.
 

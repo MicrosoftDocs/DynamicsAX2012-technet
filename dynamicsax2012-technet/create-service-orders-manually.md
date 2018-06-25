@@ -13,7 +13,7 @@ f1_keywords:
 - service order
 ---
 
-# Create service orders manually 
+# Create service orders manually [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

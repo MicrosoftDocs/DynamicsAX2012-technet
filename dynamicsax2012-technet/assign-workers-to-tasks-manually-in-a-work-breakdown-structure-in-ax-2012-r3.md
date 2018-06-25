@@ -8,7 +8,7 @@ ms.date: 09/05/2014
 mtps_version: v=AX.60
 ---
 
-# Assign workers to tasks manually in a work breakdown structure in AX 2012 R3 
+# Assign workers to tasks manually in a work breakdown structure in AX 2012 R3 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

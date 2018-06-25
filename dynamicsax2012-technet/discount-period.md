@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.discount period
 ---
 
-# discount period
+# discount period[AX 2012]
 
 The time period within which a customer can discount their payment obligation.
 

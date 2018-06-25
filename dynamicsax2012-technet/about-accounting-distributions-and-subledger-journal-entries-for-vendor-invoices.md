@@ -18,7 +18,7 @@ f1_keywords:
 - subledger
 ---
 
-# About accounting distributions and subledger journal entries for vendor invoices 
+# About accounting distributions and subledger journal entries for vendor invoices [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

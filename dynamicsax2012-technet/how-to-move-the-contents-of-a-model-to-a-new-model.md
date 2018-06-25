@@ -10,7 +10,7 @@ dev_langs:
 - powershell
 ---
 
-# How to: Move the Contents of a Model to a New Model 
+# How to: Move the Contents of a Model to a New Model [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

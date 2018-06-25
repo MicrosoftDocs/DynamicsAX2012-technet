@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.return on equity
 ---
 
-# return on equity
+# return on equity[AX 2012]
 
 The ratio of profitability calculated by dividing net income by owners' equity.
 

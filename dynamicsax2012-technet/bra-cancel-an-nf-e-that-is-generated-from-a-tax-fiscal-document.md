@@ -14,7 +14,7 @@ f1_keywords:
 - Cancel electronic fiscal document
 ---
 
-# (BRA) Cancel an NF-e that is generated from a tax fiscal document 
+# (BRA) Cancel an NF-e that is generated from a tax fiscal document [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (BEL) Set up State 11 information 
+# (BEL) Set up State 11 information [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

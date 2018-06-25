@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.goodwill
 ---
 
-# goodwill
+# goodwill[AX 2012]
 
 The difference between the perceived value and the book value of an asset.
 

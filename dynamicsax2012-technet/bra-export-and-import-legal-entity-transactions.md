@@ -13,7 +13,7 @@ f1_keywords:
 - export and import
 ---
 
-# (BRA) Export and import legal entity transactions 
+# (BRA) Export and import legal entity transactions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

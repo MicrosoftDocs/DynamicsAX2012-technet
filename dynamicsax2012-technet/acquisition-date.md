@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.acquisition date
 ---
 
-# acquisition date
+# acquisition date[AX 2012]
 
 The date that an asset is acquired.
 

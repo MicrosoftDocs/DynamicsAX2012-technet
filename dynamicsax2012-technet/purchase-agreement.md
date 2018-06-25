@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.purchase agreement
 ---
 
-# purchase agreement
+# purchase agreement[AX 2012]
 
 A source document that documents an agreement between two or more parties based on an understanding that a buying party will commit to purchasing a specific quantity or value of product over a period of time in exchange for favorable prices and discounts.
 

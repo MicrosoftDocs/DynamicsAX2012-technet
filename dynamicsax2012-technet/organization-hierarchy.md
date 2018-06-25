@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.organization hierarchy
 ---
 
-# organization hierarchy
+# organization hierarchy[AX 2012]
 
 A structure that orders organizations using a superordinate-subordinate relationship.
 

@@ -11,7 +11,7 @@ f1_keywords:
 - receipt order
 ---
 
-# (RUS) Generate a storno transaction for a transfer order receipt with scrap quantity 
+# (RUS) Generate a storno transaction for a transfer order receipt with scrap quantity [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

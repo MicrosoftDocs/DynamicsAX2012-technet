@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.financial dimension value
 ---
 
-# financial dimension value
+# financial dimension value[AX 2012]
 
 A data element in the domain of a financial dimension.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.workflow escalation action
 ---
 
-# workflow escalation action
+# workflow escalation action[AX 2012]
 
 An automatic workflow action taken when a workflow work item is not completed by the current assignee.
 

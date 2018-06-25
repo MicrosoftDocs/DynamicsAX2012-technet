@@ -13,7 +13,7 @@ f1_keywords:
 - dimensions control for settlements
 ---
 
-# (RUS) Set up accounts payable parameters for dimensions control for settlements 
+# (RUS) Set up accounts payable parameters for dimensions control for settlements [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

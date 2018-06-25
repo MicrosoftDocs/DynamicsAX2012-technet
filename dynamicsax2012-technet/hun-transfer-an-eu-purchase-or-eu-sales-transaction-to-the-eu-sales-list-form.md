@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (HUN) Transfer an EU purchase or EU sales transaction to the EU sales list form 
+# (HUN) Transfer an EU purchase or EU sales transaction to the EU sales list form [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.EPE
 ---
 
-# EPE
+# EPE[AX 2012]
 
 A Lean concept that is used to establish a regular repeating production cycle.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.mileage engine
 ---
 
-# mileage engine
+# mileage engine[AX 2012]
 
 An engine that determines the mileage that freight will travel between its origin and destination points, and calculates the shipping rate for the freight accordingly.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.practice
 ---
 
-# practice
+# practice[AX 2012]
 
 A repeatable process that improves or maintains performance.
 

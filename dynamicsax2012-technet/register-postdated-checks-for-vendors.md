@@ -13,7 +13,7 @@ f1_keywords:
 - postdated check
 ---
 
-# Register postdated checks for vendors 
+# Register postdated checks for vendors [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

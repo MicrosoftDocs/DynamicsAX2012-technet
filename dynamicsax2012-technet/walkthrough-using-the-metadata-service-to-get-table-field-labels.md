@@ -10,7 +10,7 @@ dev_langs:
 - csharp
 ---
 
-# Walkthrough: Using the Metadata Service to Get Table Field Labels 
+# Walkthrough: Using the Metadata Service to Get Table Field Labels [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

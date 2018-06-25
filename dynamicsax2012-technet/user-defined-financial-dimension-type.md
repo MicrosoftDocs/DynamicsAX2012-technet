@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.user-defined financial dimension type
 ---
 
-# user-defined financial dimension type
+# user-defined financial dimension type[AX 2012]
 
 A financial dimension mapped to a user-defined list of values.
 

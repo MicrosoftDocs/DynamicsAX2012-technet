@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.balance sheet
 ---
 
-# balance sheet
+# balance sheet[AX 2012]
 
 A statement of the financial position of an organization that reports the state of assets, liabilities, and equity on a specified date.
 

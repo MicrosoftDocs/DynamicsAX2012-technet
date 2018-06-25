@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.reference data
 ---
 
-# reference data
+# reference data[AX 2012]
 
 Named entities that have no describing properties or numeric values.
 

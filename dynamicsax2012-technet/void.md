@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.void
 ---
 
-# void
+# void[AX 2012]
 
 To prohibit the use of a document as a contract.
 

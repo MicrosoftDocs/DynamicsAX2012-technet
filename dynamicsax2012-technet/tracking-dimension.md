@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.tracking dimension
 ---
 
-# tracking dimension
+# tracking dimension[AX 2012]
 
 The batch number and serial number attributes that are used to track an item.
 

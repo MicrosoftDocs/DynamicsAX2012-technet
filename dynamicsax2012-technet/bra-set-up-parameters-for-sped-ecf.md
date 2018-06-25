@@ -8,7 +8,7 @@ ms.date: 09/08/2015
 mtps_version: v=AX.60
 ---
 
-# (BRA) Set up parameters for SPED ECF 
+# (BRA) Set up parameters for SPED ECF [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

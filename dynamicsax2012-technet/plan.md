@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.plan
 ---
 
-# plan
+# plan[AX 2012]
 
 An anticipated progression of interrelated activities that do not have assigned start and end times or assigned resources.
 

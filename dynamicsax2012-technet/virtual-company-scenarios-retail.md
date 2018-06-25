@@ -8,7 +8,7 @@ ms.date: 05/09/2014
 mtps_version: v=AX.60
 ---
 
-# Virtual company scenarios: Retail 
+# Virtual company scenarios: Retail [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

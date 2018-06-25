@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.stock keeping unit
 ---
 
-# stock keeping unit
+# stock keeping unit[AX 2012]
 
 An item and its assigned inventory dimensions.
 

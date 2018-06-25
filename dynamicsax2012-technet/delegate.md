@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.delegate
 ---
 
-# delegate
+# delegate[AX 2012]
 
 A type that references a method. Once a delegate is assigned a method, it behaves exactly like that method. Delegates are roughly similar to function pointers in C++; however, they are type-safe and secure.
 

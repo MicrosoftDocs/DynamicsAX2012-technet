@@ -10,7 +10,7 @@ f1_keywords:
 - FR – 00018
 ---
 
-# (FRA) Apply a penalty when a customer payment is past due 
+# (FRA) Apply a penalty when a customer payment is past due [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_

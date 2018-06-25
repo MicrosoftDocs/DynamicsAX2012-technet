@@ -13,7 +13,7 @@ f1_keywords:
 - Invoice turnover report
 ---
 
-# (BEL) Invoice turnover report (CustInvoiceVolume\_BE) 
+# (BEL) Invoice turnover report (CustInvoiceVolume\_BE) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.EmplBalance_RU
 ---
 
-# (RUS) Advance holder balance report (EmplBalance\_RU) 
+# (RUS) Advance holder balance report (EmplBalance\_RU) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

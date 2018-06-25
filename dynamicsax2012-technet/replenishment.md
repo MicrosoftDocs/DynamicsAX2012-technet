@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.replenishment
 ---
 
-# replenishment
+# replenishment[AX 2012]
 
 An inventory management process in which a warehouse location is automatically or manually restocked based on predefined criteria to maintain the correct inventory levels at the location.
 

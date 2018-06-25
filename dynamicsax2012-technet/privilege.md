@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.privilege
 ---
 
-# privilege
+# privilege[AX 2012]
 
 One or more permissions a user requires to perform a task.
 

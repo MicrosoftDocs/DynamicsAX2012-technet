@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.BankLCMiscChargeReport_SA
 ---
 
-# (SAU) Letter of credit misc charges report (BankLCMiscChargeReport\_SA) 
+# (SAU) Letter of credit misc charges report (BankLCMiscChargeReport\_SA) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

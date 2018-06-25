@@ -13,7 +13,7 @@ f1_keywords:
 - packing slip
 ---
 
-# (LTU) Create a transfer packing slip for a fixed asset 
+# (LTU) Create a transfer packing slip for a fixed asset [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

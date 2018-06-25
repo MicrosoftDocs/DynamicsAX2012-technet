@@ -15,7 +15,7 @@ f1_keywords:
 - BR - 00031
 ---
 
-# (BRA) Create and post a return sales order 
+# (BRA) Create and post a return sales order [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

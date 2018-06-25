@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.batch job
 ---
 
-# batch job
+# batch job[AX 2012]
 
 A set of computer processes that can be run without user interaction.
 

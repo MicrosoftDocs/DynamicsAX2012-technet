@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.selling period
 ---
 
-# selling period
+# selling period[AX 2012]
 
 The period of time between an item or right receipt date and its expiration date.
 

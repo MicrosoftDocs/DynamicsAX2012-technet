@@ -42,7 +42,7 @@ f1_keywords:
 - MsDynAx060.Forms.RHRMVacationType
 ---
 
-# (RUS) Set up vacations, business trips, and incentives for the payroll process 
+# (RUS) Set up vacations, business trips, and incentives for the payroll process [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

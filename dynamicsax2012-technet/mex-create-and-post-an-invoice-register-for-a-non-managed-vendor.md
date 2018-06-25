@@ -12,7 +12,7 @@ f1_keywords:
 - non-managed vendor
 ---
 
-# (MEX) Create and post an invoice register for a non-managed vendor 
+# (MEX) Create and post an invoice register for a non-managed vendor [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

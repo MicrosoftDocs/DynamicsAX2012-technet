@@ -15,7 +15,7 @@ f1_keywords:
 - W-2
 ---
 
-# Form W-2 report (PayrollW2Report) 
+# Form W-2 report (PayrollW2Report) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

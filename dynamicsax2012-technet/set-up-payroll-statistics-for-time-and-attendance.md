@@ -11,7 +11,7 @@ f1_keywords:
 - statistics
 ---
 
-# Set up payroll statistics for time and attendance 
+# Set up payroll statistics for time and attendance [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

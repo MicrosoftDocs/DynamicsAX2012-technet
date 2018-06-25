@@ -11,7 +11,7 @@ f1_keywords:
 - cycles for budgets
 ---
 
-# Define budget cycles 
+# Define budget cycles [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

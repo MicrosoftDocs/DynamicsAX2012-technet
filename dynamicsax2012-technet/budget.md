@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.budget
 ---
 
-# budget
+# budget[AX 2012]
 
 A financial plan that control expenditures for planned activities.
 

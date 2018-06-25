@@ -15,7 +15,7 @@ f1_keywords:
 - lot inheritance
 ---
 
-# Working with lot inheritance 
+# Working with lot inheritance [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -14,7 +14,7 @@ f1_keywords:
 - sales complementary invoices
 ---
 
-# (BRA) About sales complementary fiscal documents 
+# (BRA) About sales complementary fiscal documents [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.exchange rate type
 ---
 
-# exchange rate type
+# exchange rate type[AX 2012]
 
 A classification that groups exchange rates.
 

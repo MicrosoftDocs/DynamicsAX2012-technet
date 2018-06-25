@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.promissory note
 ---
 
-# promissory note
+# promissory note[AX 2012]
 
 A source document that documents an agreement between two parties based on an understanding that one party will commit to paying the other party at a specified time or on demand.
 

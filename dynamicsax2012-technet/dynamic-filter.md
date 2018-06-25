@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.dynamic filter
 ---
 
-# dynamic filter
+# dynamic filter[AX 2012]
 
 A property on the dataset that determines how report filters are created for a report.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.UBL
 ---
 
-# UBL
+# UBL[AX 2012]
 
 A language for defining XML business documents that is maintained by the Organization for the Advancement of Structured Information Standards (OASIS).
 

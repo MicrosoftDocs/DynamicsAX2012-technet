@@ -18,7 +18,7 @@ f1_keywords:
 - employee/project
 ---
 
-# View project validation 
+# View project validation [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -12,7 +12,7 @@ f1_keywords:
 - order entry
 ---
 
-# Set up margin alerts 
+# Set up margin alerts [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

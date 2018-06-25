@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.quotation currency unit
 ---
 
-# quotation currency unit
+# quotation currency unit[AX 2012]
 
 The currency unit in an exchange rate calculation.
 

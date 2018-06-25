@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cancel
 ---
 
-# cancel
+# cancel[AX 2012]
 
 To terminate an event prior to processing.
 

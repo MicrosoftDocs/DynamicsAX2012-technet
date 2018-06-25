@@ -10,7 +10,7 @@ dev_langs:
 - powershell
 ---
 
-# Manually install Retail Modern POS prerequisites 
+# Manually install Retail Modern POS prerequisites [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

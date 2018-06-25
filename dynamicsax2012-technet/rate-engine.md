@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.rate engine
 ---
 
-# rate engine
+# rate engine[AX 2012]
 
 An engine that creates a rating structure and sets up an interface between rating services and carrier companies.
 

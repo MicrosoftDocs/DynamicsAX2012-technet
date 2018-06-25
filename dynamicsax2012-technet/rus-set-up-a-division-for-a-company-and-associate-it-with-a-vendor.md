@@ -12,7 +12,7 @@ f1_keywords:
 - separate division
 ---
 
-# (RUS) Set up a division for a company and associate it with a vendor 
+# (RUS) Set up a division for a company and associate it with a vendor [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

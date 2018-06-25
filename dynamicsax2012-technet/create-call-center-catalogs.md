@@ -20,7 +20,7 @@ f1_keywords:
 - print catalog
 ---
 
-# Create call center catalogs 
+# Create call center catalogs [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

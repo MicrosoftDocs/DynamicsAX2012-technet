@@ -12,7 +12,7 @@ f1_keywords:
 - MsDynAx060.Forms.TaxReportTable
 ---
 
-# (ESP) Generate Report 340 
+# (ESP) Generate Report 340 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

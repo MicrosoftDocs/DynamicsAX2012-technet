@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.fixed location
 ---
 
-# fixed location
+# fixed location[AX 2012]
 
 A permanent location that is assigned to an item in a warehouse. Multiple items can have the same fixed location, and a single item can have multiple fixed locations.
 

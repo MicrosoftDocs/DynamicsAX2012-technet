@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.reconcile
 ---
 
-# reconcile
+# reconcile[AX 2012]
 
 To compare and adjust two or more accounts or statements so that the figures agree.
 

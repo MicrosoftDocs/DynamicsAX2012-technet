@@ -15,7 +15,7 @@ f1_keywords:
 - staging location
 ---
 
-# Set up general warehouse parameters 
+# Set up general warehouse parameters [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

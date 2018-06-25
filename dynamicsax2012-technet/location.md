@@ -13,7 +13,7 @@ f1_keywords:
 - Glossary.location
 ---
 
-# location
+# location[AX 2012]
 
   - A geographic point or region.
 

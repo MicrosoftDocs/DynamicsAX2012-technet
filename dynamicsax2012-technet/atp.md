@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.ATP
 ---
 
-# ATP
+# ATP[AX 2012]
 
 The portion of inventory that is not allocated and which can be used to fulfill new orders and requirements.
 

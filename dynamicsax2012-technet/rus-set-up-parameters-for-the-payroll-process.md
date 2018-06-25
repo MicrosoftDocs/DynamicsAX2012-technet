@@ -41,7 +41,7 @@ f1_keywords:
 - MsDynAx060.Forms.RPayTitlePosting
 ---
 
-# (RUS) Set up parameters for the payroll process 
+# (RUS) Set up parameters for the payroll process [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

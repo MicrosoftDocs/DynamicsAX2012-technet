@@ -21,7 +21,7 @@ f1_keywords:
 - location type
 ---
 
-# Set up parameters to create a warehouse location 
+# Set up parameters to create a warehouse location [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -18,7 +18,7 @@ f1_keywords:
 - existing earnings
 ---
 
-# Work with existing earnings 
+# Work with existing earnings [AX 2012]
 
 
 This topic describes tasks, such as releasing or holding earnings, that you can complete after you generate an earnings statement. You must release earning statement lines before you generate pay statements.

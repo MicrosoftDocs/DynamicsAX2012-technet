@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.budget plan scenario
 ---
 
-# budget plan scenario
+# budget plan scenario[AX 2012]
 
 A classification of budget plan lines, such as Prior year or Department request, that describes the budget that you are working with or planning for.
 

@@ -13,7 +13,7 @@ f1_keywords:
 - delivery
 ---
 
-# (RUS) Assign a charges code to terms of delivery 
+# (RUS) Assign a charges code to terms of delivery [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

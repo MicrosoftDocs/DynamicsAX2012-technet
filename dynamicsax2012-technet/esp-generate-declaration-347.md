@@ -12,7 +12,7 @@ f1_keywords:
 - ES - 00003
 ---
 
-# (ESP) Generate Declaration 347 
+# (ESP) Generate Declaration 347 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

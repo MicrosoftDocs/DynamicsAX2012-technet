@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.actual quantity
 ---
 
-# actual quantity
+# actual quantity[AX 2012]
 
 The measured quantity that is input into or output from an activity.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Data_Dictionary.Configuration_Keys.JmgEPSFCEmployee
 ---
 
-# Time and attendance Enterprise Portal configuration key (JmgEPSFCEmployee) 
+# Time and attendance Enterprise Portal configuration key (JmgEPSFCEmployee) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (CAN) General Index of Financial Information (GIFI) codes for Canadian financial statements 
+# (CAN) General Index of Financial Information (GIFI) codes for Canadian financial statements [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

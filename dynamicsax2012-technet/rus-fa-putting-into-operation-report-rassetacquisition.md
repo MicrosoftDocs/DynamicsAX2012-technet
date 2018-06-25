@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RAssetAcquisition
 ---
 
-# (RUS) FA putting into operation report (RAssetAcquisition) 
+# (RUS) FA putting into operation report (RAssetAcquisition) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

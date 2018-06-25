@@ -8,7 +8,7 @@ ms.date: 02/27/2015
 mtps_version: v=AX.60
 ---
 
-# (BRA) Set up NFC-e parameters to issue an NFC-e for a POS sales transaction 
+# (BRA) Set up NFC-e parameters to issue an NFC-e for a POS sales transaction [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

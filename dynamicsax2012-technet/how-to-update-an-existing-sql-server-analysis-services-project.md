@@ -8,7 +8,7 @@ ms.date: 11/14/2012
 mtps_version: v=AX.60
 ---
 
-# How to: Update an Existing SQL Server Analysis Services Project 
+# How to: Update an Existing SQL Server Analysis Services Project [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.consolidated source document
 ---
 
-# consolidated source document
+# consolidated source document[AX 2012]
 
 A source document that documents a sum of product quantities and monetary amounts from more than one referenced source document of the same class.
 

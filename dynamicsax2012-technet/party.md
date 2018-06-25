@@ -11,7 +11,7 @@ f1_keywords:
 - DynamicsAXGlossary.1364980
 ---
 
-# party
+# party[AX 2012]
 
   - An entity that assumes a legally binding role when participating in contractual relationships.
 

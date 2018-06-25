@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (RUS) About NVFAs, working clothes, and special rigging accounting 
+# (RUS) About NVFAs, working clothes, and special rigging accounting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

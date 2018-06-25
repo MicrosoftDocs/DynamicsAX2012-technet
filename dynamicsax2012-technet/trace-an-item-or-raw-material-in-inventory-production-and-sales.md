@@ -15,7 +15,7 @@ f1_keywords:
 - MsDynAx060.Forms.InventTrackingDimTracing
 ---
 
-# Trace an item or raw material in inventory, production, and sales 
+# Trace an item or raw material in inventory, production, and sales [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

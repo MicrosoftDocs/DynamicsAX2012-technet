@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.infrastructure as a service
 ---
 
-# infrastructure as a service
+# infrastructure as a service[AX 2012]
 
 The capability provided to the consumer of provisioning processing, storage, networks, and other fundamental computing resources where the consumer is able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, and deployed application, and possibly has limited control of select networking components (e.g., host firewalls).
 

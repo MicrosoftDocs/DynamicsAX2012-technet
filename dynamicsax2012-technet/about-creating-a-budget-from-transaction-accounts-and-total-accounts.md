@@ -8,7 +8,7 @@ ms.date: 11/20/2015
 mtps_version: v=AX.60
 ---
 
-# About creating a budget from transaction accounts and total accounts 
+# About creating a budget from transaction accounts and total accounts [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

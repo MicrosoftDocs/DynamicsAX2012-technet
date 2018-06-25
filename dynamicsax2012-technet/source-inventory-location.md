@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.source inventory location
 ---
 
-# source inventory location
+# source inventory location[AX 2012]
 
 The inventory location where materials required by a kanban production activity or transfer activity are picked.
 

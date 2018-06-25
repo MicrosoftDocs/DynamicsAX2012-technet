@@ -10,7 +10,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailCreditVoucherTable
 ---
 
-# View credit memos (Retail essentials) 
+# View credit memos (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

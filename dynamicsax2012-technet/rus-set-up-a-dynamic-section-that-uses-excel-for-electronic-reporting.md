@@ -12,7 +12,7 @@ f1_keywords:
 - excel sheet
 ---
 
-# (RUS) Set up a dynamic section that uses Excel for electronic reporting 
+# (RUS) Set up a dynamic section that uses Excel for electronic reporting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

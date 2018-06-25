@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Advanced Ledger Entry Service in Microsoft Dynamics AX 2012 for Public Sector 
+# Advanced Ledger Entry Service in Microsoft Dynamics AX 2012 for Public Sector [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

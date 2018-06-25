@@ -12,7 +12,7 @@ f1_keywords:
 - customer requests
 ---
 
-# Configuring Enterprise Portal for customer requests 
+# Configuring Enterprise Portal for customer requests [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

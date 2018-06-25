@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.multidimensional measurement
 ---
 
-# multidimensional measurement
+# multidimensional measurement[AX 2012]
 
 A measurement with many characterizations of the magnitude or extent of the property of an object.
 

@@ -26,7 +26,7 @@ f1_keywords:
 - general budget reservation changes
 ---
 
-# View, modify, delete, or cancel a general budget reservation (Public sector) 
+# View, modify, delete, or cancel a general budget reservation (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -10,7 +10,7 @@ f1_keywords:
 - projects resources
 ---
 
-# Configuring periods and worker access for projects 
+# Configuring periods and worker access for projects [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

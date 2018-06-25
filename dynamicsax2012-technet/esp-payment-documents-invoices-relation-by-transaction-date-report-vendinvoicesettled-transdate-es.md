@@ -14,7 +14,7 @@ f1_keywords:
 - transaction date
 ---
 
-# (ESP) Payment documents-invoices relation by transaction date report (VendInvoiceSettled\_TransDate\_ES) 
+# (ESP) Payment documents-invoices relation by transaction date report (VendInvoiceSettled\_TransDate\_ES) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

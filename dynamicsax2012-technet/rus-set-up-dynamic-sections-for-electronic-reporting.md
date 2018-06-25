@@ -11,7 +11,7 @@ f1_keywords:
 - dynamic section
 ---
 
-# (RUS) Set up dynamic sections for electronic reporting 
+# (RUS) Set up dynamic sections for electronic reporting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -16,7 +16,7 @@ f1_keywords:
 - master data
 ---
 
-# Key tasks: Set up reference information for workers 
+# Key tasks: Set up reference information for workers [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

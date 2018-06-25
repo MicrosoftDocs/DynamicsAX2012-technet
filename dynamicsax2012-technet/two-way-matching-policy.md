@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.two-way matching policy
 ---
 
-# two-way matching policy
+# two-way matching policy[AX 2012]
 
 A matching policy that requires one or more vendor invoice prices to match with one or more purchase order prices.
 

@@ -13,7 +13,7 @@ f1_keywords:
 - MsDynAx060.Forms.VendEditInvoice
 ---
 
-# (BRA) Create and post a purchase order for a foreign vendor 
+# (BRA) Create and post a purchase order for a foreign vendor [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

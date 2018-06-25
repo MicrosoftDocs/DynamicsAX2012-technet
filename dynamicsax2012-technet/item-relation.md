@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.item relation
 ---
 
-# item relation
+# item relation[AX 2012]
 
 A reference to the item allocation group or the item and its product dimensions in a kanban rule.
 

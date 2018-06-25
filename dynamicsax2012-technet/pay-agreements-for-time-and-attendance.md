@@ -14,7 +14,7 @@ f1_keywords:
 - attendance
 ---
 
-# Pay agreements for time and attendance 
+# Pay agreements for time and attendance [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

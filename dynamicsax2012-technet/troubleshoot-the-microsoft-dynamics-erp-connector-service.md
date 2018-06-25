@@ -8,7 +8,7 @@ ms.date: 03/16/2013
 mtps_version: v=AX.60
 ---
 
-# Troubleshoot the Microsoft Dynamics ERP Connector service 
+# Troubleshoot the Microsoft Dynamics ERP Connector service [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

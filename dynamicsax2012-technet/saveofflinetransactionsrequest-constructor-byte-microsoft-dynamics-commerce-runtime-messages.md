@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# SaveOfflineTransactionsRequest Constructor (Byte )
+# SaveOfflineTransactionsRequest Constructor (Byte )[AX 2012]
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Messages (in Microsoft.Dynamics.Commerce.Runtime.Messages.dll)

@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.forms.FBTaxStatementSetupParameters_BR
 ---
 
-# (BRA) Set up parameters for Sintegra tax statements 
+# (BRA) Set up parameters for Sintegra tax statements [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

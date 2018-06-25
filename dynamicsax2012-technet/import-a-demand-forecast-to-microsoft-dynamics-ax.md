@@ -13,7 +13,7 @@ f1_keywords:
 - demand forecasting, demand forecast, demand forecasts, sales forecast, sales forecasts, baseline forecast, historical forecast, adjusted forecast
 ---
 
-# Import a demand forecast to Microsoft Dynamics AX 
+# Import a demand forecast to Microsoft Dynamics AX [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

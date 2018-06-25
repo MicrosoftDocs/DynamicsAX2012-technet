@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.confirmed ship date
 ---
 
-# confirmed ship date
+# confirmed ship date[AX 2012]
 
 The date that the selling party confirms that the items will ship to a customer or vendor.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Data_Dictionary.Configuration_Keys.ProjAdvEstimateFixedPrice
 ---
 
-# Fixed-price configuration key (ProjAdvEstimateFixedPrice) 
+# Fixed-price configuration key (ProjAdvEstimateFixedPrice) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

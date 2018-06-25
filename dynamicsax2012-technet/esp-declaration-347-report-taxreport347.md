@@ -12,7 +12,7 @@ f1_keywords:
 - SSRS_Reports.Reports.TaxReport347Report
 ---
 
-# (ESP) Declaration 347 report (TaxReport347) 
+# (ESP) Declaration 347 report (TaxReport347) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

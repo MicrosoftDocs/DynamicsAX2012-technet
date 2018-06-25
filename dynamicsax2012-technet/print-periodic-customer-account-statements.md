@@ -12,7 +12,7 @@ f1_keywords:
 - statement
 ---
 
-# Print periodic customer account statements 
+# Print periodic customer account statements [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

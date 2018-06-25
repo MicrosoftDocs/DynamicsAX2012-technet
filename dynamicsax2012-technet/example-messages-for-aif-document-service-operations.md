@@ -8,7 +8,7 @@ ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
 
-# Example Messages for AIF Document Service Operations 
+# Example Messages for AIF Document Service Operations [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

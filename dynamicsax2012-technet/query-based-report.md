@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.query-based report
 ---
 
-# query-based report
+# query-based report[AX 2012]
 
 A type of report generated from an Application Object Tree (AOT) query.
 

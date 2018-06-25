@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.purchase unit price
 ---
 
-# purchase unit price
+# purchase unit price[AX 2012]
 
 The price of a purchase unit.
 

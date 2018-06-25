@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.customer invoice
 ---
 
-# customer invoice
+# customer invoice[AX 2012]
 
 A source document that documents a customer payment request. When a payment is received, it can be matched to the invoice.
 

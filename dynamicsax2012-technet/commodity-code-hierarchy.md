@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.commodity code hierarchy
 ---
 
-# commodity code hierarchy
+# commodity code hierarchy[AX 2012]
 
 A category hierarchy that orders categories that are created from commodity codes.
 

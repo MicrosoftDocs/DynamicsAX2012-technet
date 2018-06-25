@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.rounding amount
 ---
 
-# rounding amount
+# rounding amount[AX 2012]
 
 An amount expressed as its nearest round number.
 

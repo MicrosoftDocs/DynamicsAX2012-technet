@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting distribution
 ---
 
-# accounting distribution
+# accounting distribution[AX 2012]
 
 A distribution of the financial consequence of an economic transaction to ledger accounts.
 

@@ -8,7 +8,7 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Intercompany timesheet entry in projects 
+# What's new: Intercompany timesheet entry in projects [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_

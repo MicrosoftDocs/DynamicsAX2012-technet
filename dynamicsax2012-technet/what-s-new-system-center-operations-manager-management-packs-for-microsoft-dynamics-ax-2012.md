@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: System Center Operations Manager Management Packs for Microsoft Dynamics AX 2012 
+# What's new: System Center Operations Manager Management Packs for Microsoft Dynamics AX 2012 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

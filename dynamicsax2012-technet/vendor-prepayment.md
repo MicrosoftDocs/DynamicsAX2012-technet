@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.vendor prepayment
 ---
 
-# vendor prepayment
+# vendor prepayment[AX 2012]
 
 A payment made to a vendor before any items are received or services are performed.
 

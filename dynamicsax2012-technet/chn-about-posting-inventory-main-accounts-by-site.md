@@ -10,7 +10,7 @@ f1_keywords:
 - CN - 00006
 ---
 
-# (CHN) About posting inventory main accounts by site 
+# (CHN) About posting inventory main accounts by site [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

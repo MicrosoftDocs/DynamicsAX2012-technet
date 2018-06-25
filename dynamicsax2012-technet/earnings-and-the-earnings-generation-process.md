@@ -16,7 +16,7 @@ f1_keywords:
 - payroll earnings
 ---
 
-# Earnings and the earnings generation process 
+# Earnings and the earnings generation process [AX 2012]
 
 
 This topic answers some questions you might have about earnings and generating earnings.

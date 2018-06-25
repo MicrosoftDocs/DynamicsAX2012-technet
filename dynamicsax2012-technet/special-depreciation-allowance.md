@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.special depreciation allowance
 ---
 
-# special depreciation allowance
+# special depreciation allowance[AX 2012]
 
 A deduction from the depreciable basis of qualifying fixed assets taken in the first year of service.
 

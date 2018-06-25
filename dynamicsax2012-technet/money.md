@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.money
 ---
 
-# money
+# money[AX 2012]
 
 A medium for exchanging ownership of the economic values represented by one or more currency units.
 

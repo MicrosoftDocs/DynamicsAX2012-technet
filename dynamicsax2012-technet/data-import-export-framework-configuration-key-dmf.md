@@ -8,7 +8,7 @@ ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
 
-# Data import export framework configuration key (DMF) 
+# Data import export framework configuration key (DMF) [AX 2012]
 
 
 The **Data import export framework** configuration key controls access to the Data import export framework.

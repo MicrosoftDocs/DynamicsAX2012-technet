@@ -13,7 +13,7 @@ f1_keywords:
 - RUS
 ---
 
-# (RUS) Working with Inventory and warehouse management 
+# (RUS) Working with Inventory and warehouse management [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

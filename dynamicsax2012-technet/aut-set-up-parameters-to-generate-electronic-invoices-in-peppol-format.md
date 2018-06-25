@@ -20,7 +20,7 @@ f1_keywords:
 - PEPPOL
 ---
 
-# (AUT) Set up parameters to generate electronic invoices in PEPPOL format 
+# (AUT) Set up parameters to generate electronic invoices in PEPPOL format [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

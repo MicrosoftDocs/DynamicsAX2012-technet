@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.CustTable
 ---
 
-# (RUS) Set up an affiliated customer 
+# (RUS) Set up an affiliated customer [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -13,7 +13,7 @@ f1_keywords:
 - Load configuration
 ---
 
-# Load configuration data from RapidStart Services into a Microsoft Dynamics AX 2012 implementation 
+# Load configuration data from RapidStart Services into a Microsoft Dynamics AX 2012 implementation [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

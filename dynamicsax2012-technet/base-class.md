@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.base class
 ---
 
-# base class
+# base class[AX 2012]
 
 A class that assumes a parent role when it participates in an inheritance relationship with another class.
 

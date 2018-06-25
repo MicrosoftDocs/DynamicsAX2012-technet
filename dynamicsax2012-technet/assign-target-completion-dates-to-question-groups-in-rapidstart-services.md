@@ -10,7 +10,7 @@ f1_keywords:
 - deadline, target dates, complete questions, answer questions
 ---
 
-# Assign target completion dates to question groups in RapidStart Services 
+# Assign target completion dates to question groups in RapidStart Services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

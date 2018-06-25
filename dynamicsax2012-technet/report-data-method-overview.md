@@ -8,7 +8,7 @@ ms.date: 05/28/2013
 mtps_version: v=AX.60
 ---
 
-# Report Data Method Overview 
+# Report Data Method Overview [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

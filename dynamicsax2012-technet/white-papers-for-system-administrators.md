@@ -8,7 +8,7 @@ ms.date: 11/29/2016
 mtps_version: v=AX.60
 ---
 
-# White papers for system administrators 
+# White papers for system administrators [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

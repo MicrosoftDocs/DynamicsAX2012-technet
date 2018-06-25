@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.kanban quantity
 ---
 
-# kanban quantity
+# kanban quantity[AX 2012]
 
 The numeric parameter in a kanban rule that controls the number of kanbans to create when the rules product requirement condition is met and the rule is evaluated.
 

@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Developing secure mobile apps for Microsoft Dynamics AX 2012 
+# Developing secure mobile apps for Microsoft Dynamics AX 2012 [AX 2012]
 
 
 This white paper describes how to develop mobile client apps to communicate with Microsoft Dynamics AX 2012 from phone or tablet platforms.

@@ -12,7 +12,7 @@ f1_keywords:
 - remittance
 ---
 
-# (ESP) Set up methods of payment for payment remittance files 
+# (ESP) Set up methods of payment for payment remittance files [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

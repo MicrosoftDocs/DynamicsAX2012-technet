@@ -8,7 +8,7 @@ ms.date: 11/19/2014
 mtps_version: v=AX.60
 ---
 
-# Set up total compensation statement sections 
+# Set up total compensation statement sections [AX 2012]
 
 
 This topic explains how to set up a total compensation statement. A total compensation statement is comprised of sections which contain compensation elements such as benefits, tax codes, and earning codes. To set up a total compensation statement, first create at least one total compensation statement section. Then add the compensation elements that you want to include on the statement into the sections. You can use the total compensation statement sections to organize the compensation elements into logical groups. Totals for each section will be included in the total compensation statement.

@@ -15,7 +15,7 @@ f1_keywords:
 - purchase complementary invoices
 ---
 
-# (BRA) Create and post a purchase complementary fiscal document 
+# (BRA) Create and post a purchase complementary fiscal document [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

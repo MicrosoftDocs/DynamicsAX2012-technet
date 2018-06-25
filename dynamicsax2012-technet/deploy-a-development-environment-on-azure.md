@@ -8,7 +8,7 @@ ms.date: 09/20/2017
 mtps_version: v=AX.60
 ---
 
-# Deploy a development environment on Azure 
+# Deploy a development environment on Azure [AX 2012]
 
 
 This content has been moved [here](https://go.microsoft.com/fwlink/?linkid=858572).

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.expiration date
 ---
 
-# expiration date
+# expiration date[AX 2012]
 
 The date on which something ceases to be effective.
 

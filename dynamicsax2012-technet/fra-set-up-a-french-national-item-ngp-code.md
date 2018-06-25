@@ -11,7 +11,7 @@ f1_keywords:
 - NGP code
 ---
 
-# (FRA) Set up a French national item (NGP) code 
+# (FRA) Set up a French national item (NGP) code [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

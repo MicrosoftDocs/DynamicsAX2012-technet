@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.client bank
 ---
 
-# client bank
+# client bank[AX 2012]
 
 A program that is used to make electronic payments to banks and to receive information from banks. This information includes acknowledgements of payments that were made, information about incoming payments, and bank account balances.
 

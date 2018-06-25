@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales order
 ---
 
-# sales order
+# sales order[AX 2012]
 
 A source document that documents the offer to sell products or the acceptance of an offer to buy products in exchange for payment.
 

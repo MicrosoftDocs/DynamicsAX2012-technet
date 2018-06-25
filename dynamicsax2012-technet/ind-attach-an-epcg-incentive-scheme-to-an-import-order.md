@@ -14,7 +14,7 @@ f1_keywords:
 - Attach EPCG incentive scheme
 ---
 
-# (IND) Attach an EPCG incentive scheme to an import order 
+# (IND) Attach an EPCG incentive scheme to an import order [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

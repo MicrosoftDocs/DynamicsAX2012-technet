@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales order discount
 ---
 
-# sales order discount
+# sales order discount[AX 2012]
 
 An amount deducted from the total net amount calculation on a sales order.
 

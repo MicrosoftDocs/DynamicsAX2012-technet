@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.phantom bill of materials item
 ---
 
-# phantom bill of materials item
+# phantom bill of materials item[AX 2012]
 
 A bill of materials item that is produced but not stocked.
 

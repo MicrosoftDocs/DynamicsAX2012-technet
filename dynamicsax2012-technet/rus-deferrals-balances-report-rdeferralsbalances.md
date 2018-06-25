@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RDeferralsBalances
 ---
 
-# (RUS) Deferrals balances report (RDeferralsBalances) 
+# (RUS) Deferrals balances report (RDeferralsBalances) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

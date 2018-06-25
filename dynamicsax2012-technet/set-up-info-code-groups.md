@@ -15,7 +15,7 @@ f1_keywords:
 - related infocode
 ---
 
-# Set up info code groups 
+# Set up info code groups [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

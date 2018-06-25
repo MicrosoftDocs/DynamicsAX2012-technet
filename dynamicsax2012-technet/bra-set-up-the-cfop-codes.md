@@ -15,7 +15,7 @@ f1_keywords:
 - BR - 00042
 ---
 
-# (BRA) Set up the CFOP codes 
+# (BRA) Set up the CFOP codes [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

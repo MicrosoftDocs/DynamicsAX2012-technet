@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.monetary amount
 ---
 
-# monetary amount
+# monetary amount[AX 2012]
 
 A class of measurement that represents a characteristic of the financial consequence of an economic, resource flow, or accounting event.
 

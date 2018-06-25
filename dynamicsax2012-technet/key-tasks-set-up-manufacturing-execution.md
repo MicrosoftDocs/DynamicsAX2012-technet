@@ -12,7 +12,7 @@ f1_keywords:
 - shop floor
 ---
 
-# Key tasks: Set up manufacturing execution 
+# Key tasks: Set up manufacturing execution [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

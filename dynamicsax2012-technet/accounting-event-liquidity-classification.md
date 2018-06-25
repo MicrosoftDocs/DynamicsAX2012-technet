@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting event liquidity classification
 ---
 
-# accounting event liquidity classification
+# accounting event liquidity classification[AX 2012]
 
 The liquidity classification of an accounting event.
 

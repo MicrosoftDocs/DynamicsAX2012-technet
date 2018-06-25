@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.trial balance
 ---
 
-# trial balance
+# trial balance[AX 2012]
 
 A report that lists the balances of ledger accounts for a specified time period.
 

@@ -13,7 +13,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailSmbAccountExportResults
 ---
 
-# Export accounting information (Retail essentials) 
+# Export accounting information (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

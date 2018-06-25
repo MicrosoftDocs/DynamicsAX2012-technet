@@ -13,7 +13,7 @@ f1_keywords:
 - Return transfer orders
 ---
 
-# (BRA) Return a transfer fiscal document 
+# (BRA) Return a transfer fiscal document [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

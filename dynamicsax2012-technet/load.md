@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.load
 ---
 
-# load
+# load[AX 2012]
 
 The maximum amount of activity that can be performed by a resource in a time period.
 

@@ -14,7 +14,7 @@ f1_keywords:
 - Documento Auxiliar da Nota Fiscal Eletrônica
 ---
 
-# (BRA) Print the DANFE in contingency mode 
+# (BRA) Print the DANFE in contingency mode [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

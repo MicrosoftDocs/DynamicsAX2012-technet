@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Retail Performance for Microsoft Dynamics AX 2012 
+# Retail Performance for Microsoft Dynamics AX 2012 [AX 2012]
 
 
 This paper provides an overview of a series of performance tests run by Microsoft to enable customers and partners to better size capacity for the infrastructure that they require for an implementation of the Microsoft Dynamics AX 2012 Retail module.

@@ -11,7 +11,7 @@ f1_keywords:
 - depreciation methods
 ---
 
-# (EEUR) Depreciation methods and conventions 
+# (EEUR) Depreciation methods and conventions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -14,7 +14,7 @@ f1_keywords:
 - Forms.TAMTradePromotionAnalysis
 ---
 
-# Setting up Trade allowance management 
+# Setting up Trade allowance management [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

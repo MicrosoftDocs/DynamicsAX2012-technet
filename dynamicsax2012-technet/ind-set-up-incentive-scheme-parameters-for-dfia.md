@@ -16,7 +16,7 @@ f1_keywords:
 - Duty Free Import Authorization
 ---
 
-# (IND) Set up incentive scheme parameters for DFIA 
+# (IND) Set up incentive scheme parameters for DFIA [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

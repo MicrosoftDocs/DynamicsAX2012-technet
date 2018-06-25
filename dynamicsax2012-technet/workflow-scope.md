@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.workflow scope
 ---
 
-# workflow scope
+# workflow scope[AX 2012]
 
 The extent of activity controlled by a workflow process.
 

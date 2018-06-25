@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.profit margin
 ---
 
-# profit margin
+# profit margin[AX 2012]
 
 A measure of profitability that is calculated by using the formula: profit margin = net income before tax and interest / revenue. It can be expressed as a percentage or a number.
 

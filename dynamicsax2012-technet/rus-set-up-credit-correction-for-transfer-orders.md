@@ -11,7 +11,7 @@ f1_keywords:
 - transfer order
 ---
 
-# (RUS) Set up credit correction for transfer orders 
+# (RUS) Set up credit correction for transfer orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

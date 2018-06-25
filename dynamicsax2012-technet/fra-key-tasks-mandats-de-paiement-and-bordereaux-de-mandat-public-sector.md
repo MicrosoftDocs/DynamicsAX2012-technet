@@ -21,7 +21,7 @@ f1_keywords:
 - bordereaux de mandat
 ---
 
-# (FRA) Key tasks: Mandats de paiement and bordereaux de mandat (Public sector) 
+# (FRA) Key tasks: Mandats de paiement and bordereaux de mandat (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

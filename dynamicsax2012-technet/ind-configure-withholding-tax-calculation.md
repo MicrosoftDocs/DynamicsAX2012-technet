@@ -12,7 +12,7 @@ f1_keywords:
 - Forms.VendTable
 ---
 
-# (IND) Configure withholding tax calculation 
+# (IND) Configure withholding tax calculation [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_

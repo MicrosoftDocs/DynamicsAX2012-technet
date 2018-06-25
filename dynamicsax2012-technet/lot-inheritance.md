@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.lot inheritance
 ---
 
-# lot inheritance
+# lot inheritance[AX 2012]
 
 The practice of configuring items so that their product characteristics and shelf life information can be updated based on their ingredients.
 

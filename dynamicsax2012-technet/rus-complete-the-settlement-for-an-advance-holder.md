@@ -11,7 +11,7 @@ f1_keywords:
 - Complete the settlement for an advance holder
 ---
 
-# (RUS) Complete the settlement for an advance holder 
+# (RUS) Complete the settlement for an advance holder [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.potency management
 ---
 
-# potency management
+# potency management[AX 2012]
 
 A method of classifying and managing active ingredients and items that contain a particular concentration of an active ingredient.
 

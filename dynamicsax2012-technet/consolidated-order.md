@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.consolidated order
 ---
 
-# consolidated order
+# consolidated order[AX 2012]
 
 A source document that documents more than one referenced order.
 

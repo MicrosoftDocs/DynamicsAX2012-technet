@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.child table
 ---
 
-# child table
+# child table[AX 2012]
 
 A table that assumes a child role when it participates in an integrity relationship with another table and whose foreign key attribute values are migrated from the table assuming the parent role in the relationship.
 

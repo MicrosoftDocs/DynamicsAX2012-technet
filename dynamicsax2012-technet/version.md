@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.version
 ---
 
-# version
+# version[AX 2012]
 
 The status of an entity participating in a release process.
 

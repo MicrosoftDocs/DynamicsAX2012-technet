@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.measure
 ---
 
-# measure
+# measure[AX 2012]
 
 A property of an object that can be quantified numerically.
 

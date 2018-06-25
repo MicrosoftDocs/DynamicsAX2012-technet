@@ -8,7 +8,7 @@ ms.date: 09/18/2013
 mtps_version: v=AX.60
 ---
 
-# Troubleshoot Issues with Printing and Emailing Reports 
+# Troubleshoot Issues with Printing and Emailing Reports [AX 2012]
 
 
 This topic provides guidance and workarounds for problems using the **Print ranges**, **Group totals**, and **Print grand totals** print options, formatting dates and numbers, and emailing archived reports. The way to implement these options is different in Microsoft Dynamics AX 2012 than in Microsoft Dynamics AX 2009.

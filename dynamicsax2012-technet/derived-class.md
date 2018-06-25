@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.derived class
 ---
 
-# derived class
+# derived class[AX 2012]
 
 A class that assumes a child role when it participates in an inheritance relationship with a parent (or base) class whose methods can be extended or redefined and whose member access can be restricted.
 

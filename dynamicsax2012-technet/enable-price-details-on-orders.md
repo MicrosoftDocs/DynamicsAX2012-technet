@@ -11,7 +11,7 @@ f1_keywords:
 - price details
 ---
 
-# Enable price details on orders 
+# Enable price details on orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

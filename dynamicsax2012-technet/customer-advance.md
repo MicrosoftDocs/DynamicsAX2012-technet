@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.customer advance
 ---
 
-# customer advance
+# customer advance[AX 2012]
 
 A payment received from a customer in anticipation of the delivery of items or of the performance of a service.
 

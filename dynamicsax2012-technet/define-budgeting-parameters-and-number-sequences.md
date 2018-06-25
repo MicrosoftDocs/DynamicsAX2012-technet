@@ -17,7 +17,7 @@ f1_keywords:
 - parameters for budgeting
 ---
 
-# Define Budgeting parameters and number sequences 
+# Define Budgeting parameters and number sequences [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

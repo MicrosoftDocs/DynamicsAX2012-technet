@@ -15,7 +15,7 @@ f1_keywords:
 - RCM
 ---
 
-# (RUS) Create a relationship between RCOAD and RCM codes 
+# (RUS) Create a relationship between RCOAD and RCM codes [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

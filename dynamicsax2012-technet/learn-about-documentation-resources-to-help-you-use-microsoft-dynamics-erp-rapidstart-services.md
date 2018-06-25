@@ -10,7 +10,7 @@ f1_keywords:
 - list of topics, rapidstart services, documentation roadmap, table of contents, TOC, index
 ---
 
-# Learn about documentation resources to help you use Microsoft Dynamics ERP RapidStart Services 
+# Learn about documentation resources to help you use Microsoft Dynamics ERP RapidStart Services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

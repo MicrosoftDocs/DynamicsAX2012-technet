@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.load planning
 ---
 
-# load planning
+# load planning[AX 2012]
 
 The process of scheduling, picking, packing, and consolidating one or more shipments of warehouse inventory items for transportation and delivery.
 

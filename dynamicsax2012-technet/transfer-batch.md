@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.transfer batch
 ---
 
-# transfer batch
+# transfer batch[AX 2012]
 
 The quantity of one or more items that is transferred or that can be transferred.
 

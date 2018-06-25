@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Deprecated: (BRA) CNPJ or CPF validation by using categories 
+# Deprecated: (BRA) CNPJ or CPF validation by using categories [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

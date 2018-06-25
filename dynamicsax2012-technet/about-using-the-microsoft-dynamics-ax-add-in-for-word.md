@@ -12,7 +12,7 @@ f1_keywords:
 - Office
 ---
 
-# About using the Microsoft Dynamics AX Add-in for Word 
+# About using the Microsoft Dynamics AX Add-in for Word [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

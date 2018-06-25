@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.wave
 ---
 
-# wave
+# wave[AX 2012]
 
 A logical grouping of warehouse work items that is created by means of a wave template configuration, processed either automatically or manually, and then released to pick the items for production or shipping.
 

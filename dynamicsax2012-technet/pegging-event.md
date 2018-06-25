@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.pegging event
 ---
 
-# pegging event
+# pegging event[AX 2012]
 
 A resource flow event that signals the demand for a product.
 

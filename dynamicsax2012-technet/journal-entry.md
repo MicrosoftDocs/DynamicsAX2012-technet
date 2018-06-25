@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.journal entry
 ---
 
-# journal entry
+# journal entry[AX 2012]
 
 A record of the financial consequence an accounting event.
 

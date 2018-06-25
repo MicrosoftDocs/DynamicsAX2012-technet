@@ -8,7 +8,7 @@ ms.date: 04/28/2014
 mtps_version: v=AX.60
 ---
 
-# What's New: Master data management 
+# What's New: Master data management [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

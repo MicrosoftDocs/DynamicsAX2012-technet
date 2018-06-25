@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.restricted product
 ---
 
-# restricted product
+# restricted product[AX 2012]
 
 A product whose distribution is limited or constrained by a government authority.
 

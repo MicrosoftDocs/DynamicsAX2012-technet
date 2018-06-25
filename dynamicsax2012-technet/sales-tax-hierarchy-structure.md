@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales tax hierarchy structure
 ---
 
-# sales tax hierarchy structure
+# sales tax hierarchy structure[AX 2012]
 
 A structure that contains multiple levels of sales tax reporting nodes and that does not contain data. This structure is used as a template to create a sales tax hierarchy.
 

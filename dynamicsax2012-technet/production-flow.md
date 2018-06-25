@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.production flow
 ---
 
-# production flow
+# production flow[AX 2012]
 
 A production process designed using Lean principles.
 

@@ -16,7 +16,7 @@ f1_keywords:
 - report as finished
 ---
 
-# About reporting production orders as finished 
+# About reporting production orders as finished [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Dimension-based configuration
 ---
 
-# Dimension-based configuration
+# Dimension-based configuration[AX 2012]
 
 A configuration technology used to create product variants by selecting values for product dimensions.
 

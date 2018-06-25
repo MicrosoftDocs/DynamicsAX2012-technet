@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.expenditure
 ---
 
-# expenditure
+# expenditure[AX 2012]
 
 A cost or expense that is expended during an accounting period.
 

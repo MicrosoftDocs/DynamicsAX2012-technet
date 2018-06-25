@@ -11,7 +11,7 @@ f1_keywords:
 - MCRCallCenter
 ---
 
-# Call center configuration key (MCRCallCenter) 
+# Call center configuration key (MCRCallCenter) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

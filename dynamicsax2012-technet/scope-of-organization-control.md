@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.scope of organization control
 ---
 
-# scope of organization control
+# scope of organization control[AX 2012]
 
 The direct or indirect amount of control that an operating unit has over the output of a process.
 

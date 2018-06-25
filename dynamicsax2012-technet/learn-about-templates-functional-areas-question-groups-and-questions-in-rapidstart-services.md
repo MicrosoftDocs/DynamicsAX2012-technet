@@ -14,7 +14,7 @@ f1_keywords:
 - question group
 ---
 
-# Learn about templates, functional areas, question groups, and questions in RapidStart Services 
+# Learn about templates, functional areas, question groups, and questions in RapidStart Services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

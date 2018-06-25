@@ -8,7 +8,7 @@ ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---
 
-# Configure Lifecycle Services security (LCS) 
+# Configure Lifecycle Services security (LCS) [AX 2012]
 
 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/configure-lifecycle-services-security-lcs/) in the Dynamics AX Help wiki.

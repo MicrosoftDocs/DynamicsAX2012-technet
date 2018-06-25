@@ -16,7 +16,7 @@ f1_keywords:
 - write-up adjustment
 ---
 
-# Create revaluation adjustments for fixed assets 
+# Create revaluation adjustments for fixed assets [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

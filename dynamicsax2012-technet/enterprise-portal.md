@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.enterprise portal
 ---
 
-# enterprise portal
+# enterprise portal[AX 2012]
 
 A Web site that provides a single point of entry for internal and external users of an organization to access a wide variety of business information.
 

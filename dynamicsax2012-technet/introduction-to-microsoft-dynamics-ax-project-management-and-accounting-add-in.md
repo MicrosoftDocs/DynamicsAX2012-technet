@@ -16,7 +16,7 @@ f1_keywords:
 - worker services
 ---
 
-# Introduction to Microsoft Dynamics AX Project Management and Accounting Add-in 
+# Introduction to Microsoft Dynamics AX Project Management and Accounting Add-in [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

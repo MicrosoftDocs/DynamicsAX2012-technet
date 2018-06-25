@@ -8,7 +8,7 @@ ms.date: 06/25/2014
 mtps_version: v=AX.60
 ---
 
-# Generate a freight invoice and perform freight reconciliation 
+# Generate a freight invoice and perform freight reconciliation [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

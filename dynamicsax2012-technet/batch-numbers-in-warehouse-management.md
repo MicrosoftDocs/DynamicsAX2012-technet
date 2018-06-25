@@ -8,7 +8,7 @@ ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---
 
-# Batch numbers in Warehouse management 
+# Batch numbers in Warehouse management [AX 2012]
 
 
 

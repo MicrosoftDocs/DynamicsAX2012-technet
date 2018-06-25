@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.private cloud
 ---
 
-# private cloud
+# private cloud[AX 2012]
 
 The cloud infrastructure provisioned for exclusive use by a single organization comprising multiple consumers (e.g., business units). It may be owned, managed, and operated by the organization, a third party, or some combination of them, and it may exist on or off premises.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - MsDynAx060.Forms.DMFEntity
 ---
 
-# Data import/export framework entities (DIXF, DMF) 
+# Data import/export framework entities (DIXF, DMF) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

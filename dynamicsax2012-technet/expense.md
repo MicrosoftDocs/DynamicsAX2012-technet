@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.expense
 ---
 
-# expense
+# expense[AX 2012]
 
 A cost that expires when the benefits that incurred the cost are received during an accounting period.
 

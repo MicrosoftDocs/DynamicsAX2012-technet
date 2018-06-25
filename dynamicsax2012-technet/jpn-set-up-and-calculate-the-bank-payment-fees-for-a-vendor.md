@@ -15,7 +15,7 @@ f1_keywords:
 - Forms.PaymFeeBankRule_JP
 ---
 
-# (JPN) Set up and calculate the bank payment fees for a vendor 
+# (JPN) Set up and calculate the bank payment fees for a vendor [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

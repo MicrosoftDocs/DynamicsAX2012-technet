@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.ABC code for carrying cost classification
 ---
 
-# ABC code for carrying cost classification
+# ABC code for carrying cost classification[AX 2012]
 
 A classifier that names categories in an ABC classification that ranks discrete categories of items according to their carrying cost.
 

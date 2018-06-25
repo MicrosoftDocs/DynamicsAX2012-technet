@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.taxable amount
 ---
 
-# taxable amount
+# taxable amount[AX 2012]
 
 An amount that is subject to tax.
 

@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Role-based Security Use Patterns for Developers 
+# Role-based Security Use Patterns for Developers [AX 2012]
 
 
 This white paper describes how the role-based security artifacts work together. It explains to Microsoft Dynamics AX developers how the security artifacts should be configured when they are applied to various programming objects in the AOT. The challenges of under-permissioning, over-permissioning, and practical ease of use guide this discussion.

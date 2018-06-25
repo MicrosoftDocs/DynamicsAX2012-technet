@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cross-docking
 ---
 
-# cross-docking
+# cross-docking[AX 2012]
 
 A distribution practice in which items flow from receiving to shipping, with limited or no storage required.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.ProjUpdateMilestoneStatus
 ---
 
-# Update the milestone status for on-account transactions for milestone billing rules 
+# Update the milestone status for on-account transactions for milestone billing rules [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

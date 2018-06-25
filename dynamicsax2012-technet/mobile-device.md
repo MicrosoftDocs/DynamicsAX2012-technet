@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.mobile device
 ---
 
-# mobile device
+# mobile device[AX 2012]
 
 A piece of handheld equipment such as a portable music or video player, PDA (personal digital assistant), mobile phone, or warehouse device that works on its own but can also be connected to a computer. Many of these devices can sync information with Windows. Warehouse mobile devices use barcode technology to process inventory operations.
 

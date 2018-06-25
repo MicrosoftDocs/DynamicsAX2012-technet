@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.costing
 ---
 
-# costing
+# costing[AX 2012]
 
 The process of calculating, assigning, and allocating the cost of economic resources acquired, produced, or delivered by an organization.
 

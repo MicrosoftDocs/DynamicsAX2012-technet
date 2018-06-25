@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.mathematical expression
 ---
 
-# mathematical expression
+# mathematical expression[AX 2012]
 
 A mathematical statement whose symbols comprise numbers, variables, and mathematical operations.
 

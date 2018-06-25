@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.CustPaymentJournal_NA
 ---
 
-# (CAN, USA) Customer payment journal report (CustPaymentJournal\_NA) 
+# (CAN, USA) Customer payment journal report (CustPaymentJournal\_NA) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ dev_langs:
 - powershell
 ---
 
-# Install Commerce Data Exchange: Real-time Service (Retail Transaction Service) 
+# Install Commerce Data Exchange: Real-time Service (Retail Transaction Service) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_

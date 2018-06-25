@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.application basket
 ---
 
-# application basket
+# application basket[AX 2012]
 
 A list of applications reviewed by human resource personnel.
 

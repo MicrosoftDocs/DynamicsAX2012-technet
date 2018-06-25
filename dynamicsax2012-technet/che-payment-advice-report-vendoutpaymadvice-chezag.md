@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.VendOutPaymAdvice_CHEZAG
 ---
 
-# (CHE) Payment advice report (VendOutPaymAdvice\_CHEZAG) 
+# (CHE) Payment advice report (VendOutPaymAdvice\_CHEZAG) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -15,7 +15,7 @@ f1_keywords:
 - import process
 ---
 
-# (BRA) Set up the export or import process for NF-e 
+# (BRA) Set up the export or import process for NF-e [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

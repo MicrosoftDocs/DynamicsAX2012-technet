@@ -22,7 +22,7 @@ f1_keywords:
 - witholding tax
 ---
 
-# (BRA) Set up a default description for withholding tax, interest, and fine payments 
+# (BRA) Set up a default description for withholding tax, interest, and fine payments [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -11,7 +11,7 @@ f1_keywords:
 - DynamicsAXGlossary.1368061
 ---
 
-# category
+# category[AX 2012]
 
   - A classifier, designation, or division of objects that share a common property.
 

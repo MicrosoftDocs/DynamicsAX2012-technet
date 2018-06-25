@@ -10,7 +10,7 @@ dev_langs:
 - csharp
 ---
 
-# Walkthrough: Using the Query Service to Query Tables in a Hierarchy 
+# Walkthrough: Using the Query Service to Query Tables in a Hierarchy [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

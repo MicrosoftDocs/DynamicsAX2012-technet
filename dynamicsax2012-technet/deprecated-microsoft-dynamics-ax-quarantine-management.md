@@ -8,7 +8,7 @@ ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---
 
-# Deprecated: Microsoft Dynamics AX Quarantine management 
+# Deprecated: Microsoft Dynamics AX Quarantine management [AX 2012]
 
 
 For the next major release after Microsoft Dynamics AX 2012 R3, the quarantine order functionality will be deprecated.

@@ -8,7 +8,7 @@ ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---
 
-# Install the Data import/export framework (DIXF, DMF) 
+# Install the Data import/export framework (DIXF, DMF) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

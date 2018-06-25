@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.supplied inventory location
 ---
 
-# supplied inventory location
+# supplied inventory location[AX 2012]
 
 The inventory location where an item is consumed and where the replenishment of the item is planned.
 

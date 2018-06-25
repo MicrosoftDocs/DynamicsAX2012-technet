@@ -16,7 +16,7 @@ f1_keywords:
 - Public Sector 1099G configuration key
 ---
 
-# Public sector 1099G configuration key (Tax1099G) 
+# Public sector 1099G configuration key (Tax1099G) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

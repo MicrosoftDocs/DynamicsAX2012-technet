@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.MorphX Type Hierarchy Browser
 ---
 
-# MorphX Type Hierarchy Browser
+# MorphX Type Hierarchy Browser[AX 2012]
 
 A view that displays the structure of the selected Application Object Tree (AOT) class node and its inheritance hierarchies.
 

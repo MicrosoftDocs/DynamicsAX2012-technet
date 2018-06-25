@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.InventIncomeOutlay_RU
 ---
 
-# (RUS) Pay-sheet of receipts and expenditure report (InventIncomeOutlay\_RU) 
+# (RUS) Pay-sheet of receipts and expenditure report (InventIncomeOutlay\_RU) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

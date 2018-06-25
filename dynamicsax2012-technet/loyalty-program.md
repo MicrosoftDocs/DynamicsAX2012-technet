@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.loyalty program
 ---
 
-# loyalty program
+# loyalty program[AX 2012]
 
 A structured program that rewards customers with incentives or other benefits for loyal buying behavior.
 

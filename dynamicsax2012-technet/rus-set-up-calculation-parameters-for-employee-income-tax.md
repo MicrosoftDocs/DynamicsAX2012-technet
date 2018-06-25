@@ -15,7 +15,7 @@ f1_keywords:
 - MsDynAx060.Forms.RPayTaxCountry
 ---
 
-# (RUS) Set up calculation parameters for employee income tax 
+# (RUS) Set up calculation parameters for employee income tax [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -8,7 +8,7 @@ ms.date: 06/24/2014
 mtps_version: v=AX.60
 ---
 
-# Performance data collection and analysis process 
+# Performance data collection and analysis process [AX 2012]
 
 
 This document outlines the core processes, techniques, and procedures that the Microsoft Dynamics AX product team uses during its fact-finding and analysis phase. It lists the expected results from each data collection phase and describes the process for bringing the data together to create actionable steps. It describes when to use each monitoring, tracing, and profiling tool, and provides pointers to additional documentation.

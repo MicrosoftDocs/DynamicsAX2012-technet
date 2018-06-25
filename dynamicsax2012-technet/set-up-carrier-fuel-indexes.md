@@ -14,7 +14,7 @@ f1_keywords:
 - fuel index
 ---
 
-# Set up carrier fuel indexes 
+# Set up carrier fuel indexes [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

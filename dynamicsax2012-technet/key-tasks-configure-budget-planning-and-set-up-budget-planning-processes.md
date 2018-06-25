@@ -13,7 +13,7 @@ f1_keywords:
 - plan budget
 ---
 
-# Key tasks: Configure budget planning and set up budget planning processes 
+# Key tasks: Configure budget planning and set up budget planning processes [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

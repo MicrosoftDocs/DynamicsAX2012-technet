@@ -16,7 +16,7 @@ f1_keywords:
 - transfer subsidiary company transactions
 ---
 
-# (BRA) Transfer subsidiary legal entity transactions to a consolidated legal entity 
+# (BRA) Transfer subsidiary legal entity transactions to a consolidated legal entity [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.workflow tracking data
 ---
 
-# workflow tracking data
+# workflow tracking data[AX 2012]
 
 The data that is logged during the execution of a workflow instance.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.price discount
 ---
 
-# price discount
+# price discount[AX 2012]
 
 A discount applied to a quoted price.
 

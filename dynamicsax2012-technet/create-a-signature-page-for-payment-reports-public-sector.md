@@ -15,7 +15,7 @@ f1_keywords:
 - signature
 ---
 
-# Create a signature page for payment reports (Public sector) 
+# Create a signature page for payment reports (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.Forms.FBParametersPerState_BR
 ---
 
-# (BRA) Set up fiscal books parameters per state 
+# (BRA) Set up fiscal books parameters per state [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

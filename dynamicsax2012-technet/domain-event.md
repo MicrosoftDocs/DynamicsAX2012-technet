@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.domain event
 ---
 
-# domain event
+# domain event[AX 2012]
 
 The occurrence of an activity in the organization resource management domain.
 

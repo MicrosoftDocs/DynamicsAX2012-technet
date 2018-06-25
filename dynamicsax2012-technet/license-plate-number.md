@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.license plate number
 ---
 
-# license plate number
+# license plate number[AX 2012]
 
 A unique number that is assigned to a warehouse entity such as a pallet, bin, cart, or individual item for tracking inventory. You can use this number to ascertain the item location, item quantity, product dimension, and tracking dimension of the entity.
 

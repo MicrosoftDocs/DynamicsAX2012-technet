@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (HUN) Set up parameters for closing and opening general ledger accounts 
+# (HUN) Set up parameters for closing and opening general ledger accounts [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

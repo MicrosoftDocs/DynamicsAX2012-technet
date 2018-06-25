@@ -8,7 +8,7 @@ ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---
 
-# Install multiple instances of Reporting Services on the same computer (for use with Microsoft Dynamics AX) 
+# Install multiple instances of Reporting Services on the same computer (for use with Microsoft Dynamics AX) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

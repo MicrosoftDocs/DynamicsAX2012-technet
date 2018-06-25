@@ -14,7 +14,7 @@ f1_keywords:
 - report name
 ---
 
-# (SAU) Set up a report name, item code, and asset group for Zakat reporting 
+# (SAU) Set up a report name, item code, and asset group for Zakat reporting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.foreign currency translation
 ---
 
-# foreign currency translation
+# foreign currency translation[AX 2012]
 
 A procedure for recording revalued functional currency account balances when restating account balances in a reporting currency.
 

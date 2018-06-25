@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.transaction currency unit
 ---
 
-# transaction currency unit
+# transaction currency unit[AX 2012]
 
 A currency unit that a party accepts for payment.
 

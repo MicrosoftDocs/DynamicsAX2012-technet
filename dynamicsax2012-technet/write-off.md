@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.write off
 ---
 
-# write off
+# write off[AX 2012]
 
 To remove a debt that will not be paid by a party.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.dereference
 ---
 
-# dereference
+# dereference[AX 2012]
 
 To programmatically access a memory address assigned to a pointer variable or reference variable.
 

@@ -11,7 +11,7 @@ f1_keywords:
 - Glossary.mandate
 ---
 
-# mandate
+# mandate[AX 2012]
 
   - The authorization given by a payer to a payee, or by the institution with which the payer's account is held, consenting to the debiting of the payer's account.
 

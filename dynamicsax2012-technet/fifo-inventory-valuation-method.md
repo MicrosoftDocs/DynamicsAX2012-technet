@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.FIFO inventory valuation method
 ---
 
-# FIFO inventory valuation method
+# FIFO inventory valuation method[AX 2012]
 
 A method of inventory valuation in which inventory is assumed for accounting purposes to move in the order it was received, regardless of its actual physical movement.
 

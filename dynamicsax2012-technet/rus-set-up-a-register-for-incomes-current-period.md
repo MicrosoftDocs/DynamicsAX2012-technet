@@ -14,7 +14,7 @@ f1_keywords:
 - income current period
 ---
 
-# (RUS) Set up a register for incomes - current period 
+# (RUS) Set up a register for incomes - current period [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

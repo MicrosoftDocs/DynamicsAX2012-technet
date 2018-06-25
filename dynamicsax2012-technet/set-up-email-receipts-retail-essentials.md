@@ -8,7 +8,7 @@ ms.date: 01/07/2015
 mtps_version: v=AX.60
 ---
 
-# Set up email receipts (Retail essentials) 
+# Set up email receipts (Retail essentials) [AX 2012]
 
 
 Email receipts are an environmentally friendly option for processing retail sales. The customer can decide whether to receive a printed receipt, an email receipt, or both. This topic explains how to set up email receipts.

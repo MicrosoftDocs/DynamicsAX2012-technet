@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.production schedule
 ---
 
-# production schedule
+# production schedule[AX 2012]
 
 A schedule to produce a specific item and item quantity at a specific time and by specific human and operational resources.
 

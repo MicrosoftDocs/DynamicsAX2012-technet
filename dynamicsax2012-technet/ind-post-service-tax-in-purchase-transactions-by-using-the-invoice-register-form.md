@@ -12,7 +12,7 @@ f1_keywords:
 - Forms.TaxTmpWorkTrans
 ---
 
-# (IND) Post service tax in purchase transactions by using the Invoice register form 
+# (IND) Post service tax in purchase transactions by using the Invoice register form [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_

@@ -21,7 +21,7 @@ f1_keywords:
 - loyalty points discount
 ---
 
-# (RUS) View the loyalty points discount amount for a retail store transaction 
+# (RUS) View the loyalty points discount amount for a retail store transaction [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

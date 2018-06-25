@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.system currency unit
 ---
 
-# system currency unit
+# system currency unit[AX 2012]
 
 A currency unit that is used as the default currency unit if no currency unit is specified when entering monetary amounts.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Constraint-based configuration
 ---
 
-# Constraint-based configuration
+# Constraint-based configuration[AX 2012]
 
 A configuration technology that uses constraints to develop product masters and to configure distinct products.
 

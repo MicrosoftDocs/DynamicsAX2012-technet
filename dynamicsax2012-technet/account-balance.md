@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.account balance
 ---
 
-# account balance
+# account balance[AX 2012]
 
 The difference between the sum of debit entries and the sum of credit entries entered into an account during a financial period.
 

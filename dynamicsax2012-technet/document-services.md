@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.document services
 ---
 
-# document services
+# document services[AX 2012]
 
 The application integration services that provide create, read, update, delete, and find operations for XML documents mapped using an Application Object Tree (AOT) query element.
 

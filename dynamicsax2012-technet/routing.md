@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.routing
 ---
 
-# routing
+# routing[AX 2012]
 
 The selection of carrier routes for transporting freight from origin points to destination points.
 

@@ -13,7 +13,7 @@ f1_keywords:
 - India
 ---
 
-# (IND) Verify posted tax information for approved AA and DFIA authorizations 
+# (IND) Verify posted tax information for approved AA and DFIA authorizations [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

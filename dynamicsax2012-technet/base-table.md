@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.base table
 ---
 
-# base table
+# base table[AX 2012]
 
 A table that assumes a parent role when it participates in an inheritance relationship with another table.
 

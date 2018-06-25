@@ -11,7 +11,7 @@ f1_keywords:
 - Forms.ServiceCodeTable_IN
 ---
 
-# (IND) Set up service codes for service goods 
+# (IND) Set up service codes for service goods [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.answer file
 ---
 
-# answer file
+# answer file[AX 2012]
 
 A text file that stores the information that a user provides through the Setup wizard, along with the command-line arguments for the actions performed by Setup. This file can be used later to run unattended installations with the same settings.
 

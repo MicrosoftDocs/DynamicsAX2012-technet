@@ -22,7 +22,7 @@ f1_keywords:
 - set up loyalty
 ---
 
-# (RUS) Set up Microsoft Dynamics AX to redeem and return loyalty points 
+# (RUS) Set up Microsoft Dynamics AX to redeem and return loyalty points [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

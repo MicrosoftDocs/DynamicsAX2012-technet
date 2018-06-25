@@ -17,7 +17,7 @@ f1_keywords:
 - Forms.ReqDemPlanOutlierQueryPreview
 ---
 
-# Remove outliers from historical transaction data when calculating a demand forecast 
+# Remove outliers from historical transaction data when calculating a demand forecast [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

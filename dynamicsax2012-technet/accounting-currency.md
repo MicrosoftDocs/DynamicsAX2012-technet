@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting currency
 ---
 
-# accounting currency
+# accounting currency[AX 2012]
 
 The customary monetary unit of measure that is used to record the monetary value of economic resources in ledger accounts.
 

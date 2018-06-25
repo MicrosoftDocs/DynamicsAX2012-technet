@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.transportation demand
 ---
 
-# transportation demand
+# transportation demand[AX 2012]
 
 A sales order, purchase order, or transfer order that is ready for transportation planning.
 

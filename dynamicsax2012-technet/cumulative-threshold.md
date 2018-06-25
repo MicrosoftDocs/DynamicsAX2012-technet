@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cumulative threshold
 ---
 
-# cumulative threshold
+# cumulative threshold[AX 2012]
 
 The maximum limit of a cumulative transaction value, up to which a tax on the transaction value is not calculated.
 

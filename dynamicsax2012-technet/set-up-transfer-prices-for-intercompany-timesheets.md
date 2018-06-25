@@ -13,7 +13,7 @@ f1_keywords:
 - loaned worker
 ---
 
-# Set up transfer prices for intercompany timesheets 
+# Set up transfer prices for intercompany timesheets [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_

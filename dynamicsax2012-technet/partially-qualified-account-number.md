@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.partially qualified account number
 ---
 
-# partially qualified account number
+# partially qualified account number[AX 2012]
 
 A ledger account number in which all segments of an account structure are not entered.
 

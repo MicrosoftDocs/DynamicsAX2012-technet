@@ -14,7 +14,7 @@ f1_keywords:
 - sales tax settlement
 ---
 
-# (IND) Sales tax hierarchies 
+# (IND) Sales tax hierarchies [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

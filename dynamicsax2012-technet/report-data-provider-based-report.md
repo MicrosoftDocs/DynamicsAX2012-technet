@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Report Data Provider-based report
 ---
 
-# Report Data Provider-based report
+# Report Data Provider-based report[AX 2012]
 
 A report where the data source is defined in a Report Data Provider (RDP) class.
 

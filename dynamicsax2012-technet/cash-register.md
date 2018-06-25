@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cash register
 ---
 
-# cash register
+# cash register[AX 2012]
 
 An electronic or mechanical device with a till that records sales, calculates totals, calculates change, and generates product receipts.
 

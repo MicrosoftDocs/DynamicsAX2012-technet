@@ -15,7 +15,7 @@ f1_keywords:
 - change case association
 ---
 
-# Change the case association of an entity record 
+# Change the case association of an entity record [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

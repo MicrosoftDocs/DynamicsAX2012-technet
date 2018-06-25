@@ -16,7 +16,7 @@ f1_keywords:
 - premium earnings
 ---
 
-# Setting up payroll: Advanced topics 
+# Setting up payroll: Advanced topics [AX 2012]
 
 
 Some elements of Payroll are more complicated to set up than others. This section contains information to help you set up the most complex elements.

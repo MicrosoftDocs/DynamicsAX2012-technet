@@ -8,7 +8,7 @@ ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
 
-# Using Business Logic in Report Data Methods to Access Report Data 
+# Using Business Logic in Report Data Methods to Access Report Data [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

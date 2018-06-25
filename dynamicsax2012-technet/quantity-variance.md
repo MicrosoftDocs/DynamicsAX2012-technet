@@ -11,7 +11,7 @@ f1_keywords:
 - Glossary.quantity variance
 ---
 
-# quantity variance
+# quantity variance[AX 2012]
 
   - The difference between an ordered product quantity and a delivered product quantity when no more deliveries are expected.
 

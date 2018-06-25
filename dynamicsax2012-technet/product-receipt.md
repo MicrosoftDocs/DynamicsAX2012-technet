@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.product receipt
 ---
 
-# product receipt
+# product receipt[AX 2012]
 
 A source document that documents the receipt of products ordered, the receipt of products returned, or the receipt of products received on consignment.
 

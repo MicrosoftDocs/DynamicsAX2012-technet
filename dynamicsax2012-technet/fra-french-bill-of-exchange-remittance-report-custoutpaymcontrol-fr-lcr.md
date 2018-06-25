@@ -13,7 +13,7 @@ f1_keywords:
 - (FRA)
 ---
 
-# (FRA) French bill of exchange remittance report (CustOutPaymControl\_FR\_LCR) 
+# (FRA) French bill of exchange remittance report (CustOutPaymControl\_FR\_LCR) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -17,7 +17,7 @@ f1_keywords:
 - MsDynAx060.Forms.TaxProfileTable_CN
 ---
 
-# (CHN) Configure tax integration 
+# (CHN) Configure tax integration [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

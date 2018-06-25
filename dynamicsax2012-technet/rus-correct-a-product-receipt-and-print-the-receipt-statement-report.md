@@ -14,7 +14,7 @@ f1_keywords:
 - receipt statement
 ---
 
-# (RUS) Correct a product receipt and print the receipt statement report 
+# (RUS) Correct a product receipt and print the receipt statement report [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

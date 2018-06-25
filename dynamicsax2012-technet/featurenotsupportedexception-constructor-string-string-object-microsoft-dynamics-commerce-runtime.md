@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# FeatureNotSupportedException Constructor (String, String, Object )
+# FeatureNotSupportedException Constructor (String, String, Object )[AX 2012]
 
 Initializes a new instance of the [FeatureNotSupportedException](featurenotsupportedexception-class-microsoft-dynamics-commerce-runtime.md) class.
 

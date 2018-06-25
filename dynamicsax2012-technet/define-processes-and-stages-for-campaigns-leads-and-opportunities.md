@@ -15,7 +15,7 @@ f1_keywords:
 - processes
 ---
 
-# Define processes and stages for campaigns, leads, and opportunities 
+# Define processes and stages for campaigns, leads, and opportunities [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

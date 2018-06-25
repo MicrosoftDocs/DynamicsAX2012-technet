@@ -8,7 +8,7 @@ ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
 
-# Set up attributes and attribute types (Retail essentials) 
+# Set up attributes and attribute types (Retail essentials) [AX 2012]
 
 
 Attributes identify the details that you want to maintain for your products. You can assign attributes to a product through the category that the product is assigned to.

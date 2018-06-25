@@ -17,7 +17,7 @@ f1_keywords:
 - general budget reservations
 ---
 
-# Carry forward general budget reservation information to a new fiscal year (Public sector) 
+# Carry forward general budget reservation information to a new fiscal year (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

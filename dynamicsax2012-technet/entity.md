@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.entity
 ---
 
-# entity
+# entity[AX 2012]
 
 An object that can be uniquely identified.
 

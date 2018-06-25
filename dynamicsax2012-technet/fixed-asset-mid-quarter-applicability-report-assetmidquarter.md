@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.AssetMidQuarter
 ---
 
-# Fixed asset mid-quarter applicability report (AssetMidQuarter) 
+# Fixed asset mid-quarter applicability report (AssetMidQuarter) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

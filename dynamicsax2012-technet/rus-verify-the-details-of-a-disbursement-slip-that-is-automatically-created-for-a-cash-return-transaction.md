@@ -13,7 +13,7 @@ f1_keywords:
 - Forms.RetailStatementJour
 ---
 
-# (RUS) Verify the details of a disbursement slip that is automatically created for a cash return transaction 
+# (RUS) Verify the details of a disbursement slip that is automatically created for a cash return transaction [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.value-added tax
 ---
 
-# value-added tax
+# value-added tax[AX 2012]
 
 A tax on products at each stage of their production based on the value added during that stage.
 

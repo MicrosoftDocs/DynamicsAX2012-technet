@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.depreciation
 ---
 
-# depreciation
+# depreciation[AX 2012]
 
 The expiration of a portion of the original cost of a fixed asset during a specific time period.
 

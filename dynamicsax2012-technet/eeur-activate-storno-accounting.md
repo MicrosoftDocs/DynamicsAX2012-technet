@@ -14,7 +14,7 @@ f1_keywords:
 - red storno
 ---
 
-# (EEUR) Activate storno accounting 
+# (EEUR) Activate storno accounting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.estimated cost
 ---
 
-# estimated cost
+# estimated cost[AX 2012]
 
 The approximate cost incurred in the performance of an activity.
 

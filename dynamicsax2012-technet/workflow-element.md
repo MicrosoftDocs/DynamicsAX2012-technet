@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.workflow element
 ---
 
-# workflow element
+# workflow element[AX 2012]
 
 A modeling element used to define workflow processes.
 

@@ -14,7 +14,7 @@ f1_keywords:
 - tax ledger posting group
 ---
 
-# (IND) Set up tax ledger posting groups 
+# (IND) Set up tax ledger posting groups [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -12,7 +12,7 @@ f1_keywords:
 - fixed asset book report
 ---
 
-# (ITA) Post extraordinary depreciation for a fixed asset and generate the Fixed asset book report 
+# (ITA) Post extraordinary depreciation for a fixed asset and generate the Fixed asset book report [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

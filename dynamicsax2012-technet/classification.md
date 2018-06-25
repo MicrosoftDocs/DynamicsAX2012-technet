@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.classification
 ---
 
-# classification
+# classification[AX 2012]
 
 A systematic organization of classes.
 

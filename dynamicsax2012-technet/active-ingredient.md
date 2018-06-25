@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.active ingredient
 ---
 
-# active ingredient
+# active ingredient[AX 2012]
 
 An ingredient in a formula that has a specified concentration and potency.
 

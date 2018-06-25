@@ -11,7 +11,7 @@ f1_keywords:
 - sales tax group
 ---
 
-# Create item sales tax groups 
+# Create item sales tax groups [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

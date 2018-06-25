@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.benefit
 ---
 
-# benefit
+# benefit[AX 2012]
 
 Indirect compensation or reward offered by an organization.
 

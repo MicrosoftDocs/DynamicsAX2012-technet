@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.pegging
 ---
 
-# pegging
+# pegging[AX 2012]
 
 The process of tracing the quantity of a required item to its source.
 

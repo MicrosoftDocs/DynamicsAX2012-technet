@@ -15,7 +15,7 @@ f1_keywords:
 - Cancel NF-e
 ---
 
-# (BRA) Cancel a customer NF-e 
+# (BRA) Cancel a customer NF-e [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

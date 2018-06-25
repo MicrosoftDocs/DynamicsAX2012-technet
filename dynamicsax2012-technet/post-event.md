@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.post-event
 ---
 
-# post-event
+# post-event[AX 2012]
 
 An asynchronous event whose handler runs only after the action that raised the event is complete.
 

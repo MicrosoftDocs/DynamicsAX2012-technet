@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.balance
 ---
 
-# balance
+# balance[AX 2012]
 
 The amount of economic resource required to bring opposite economic resource flows to a state of equilibrium.
 

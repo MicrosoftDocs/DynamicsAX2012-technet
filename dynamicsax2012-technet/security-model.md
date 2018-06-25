@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.security model
 ---
 
-# security model
+# security model[AX 2012]
 
 A structure that organizes application access control permissions by using privilege, duty, and business process classifiers and that grants permissions that are aggregated into duties to user role assignments.
 

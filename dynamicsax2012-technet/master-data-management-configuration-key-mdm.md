@@ -8,7 +8,7 @@ ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
 
-# Master data management configuration key (MDM) 
+# Master data management configuration key (MDM) [AX 2012]
 
 
 The **Master data management** configuration key controls access to electronic banking forms and functions.

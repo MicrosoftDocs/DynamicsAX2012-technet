@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.vendor
 ---
 
-# vendor
+# vendor[AX 2012]
 
 A party that supplies products to one or more legal entities in exchange for payment.
 

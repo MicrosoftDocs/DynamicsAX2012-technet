@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.destination inventory location
 ---
 
-# destination inventory location
+# destination inventory location[AX 2012]
 
 An inventory location where materials required by a final kanban production activity or transfer activity are received.
 

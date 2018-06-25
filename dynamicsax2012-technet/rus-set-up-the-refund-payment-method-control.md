@@ -19,7 +19,7 @@ f1_keywords:
 - Refund payments
 ---
 
-# (RUS) Set up the refund payment method control 
+# (RUS) Set up the refund payment method control [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

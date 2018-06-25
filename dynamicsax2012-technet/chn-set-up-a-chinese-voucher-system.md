@@ -10,7 +10,7 @@ f1_keywords:
 - CN - 00009
 ---
 
-# (CHN) Set up a Chinese voucher system 
+# (CHN) Set up a Chinese voucher system [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

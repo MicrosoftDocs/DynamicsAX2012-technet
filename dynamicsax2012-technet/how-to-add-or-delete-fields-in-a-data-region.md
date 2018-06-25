@@ -14,7 +14,7 @@ f1_keywords:
 - Microsoft.Dynamics.Framework.Design.Model.Reports.TableDetailDataDefinition
 ---
 
-# How to: Add or Delete Fields in a Data Region 
+# How to: Add or Delete Fields in a Data Region [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

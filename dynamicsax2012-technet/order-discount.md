@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.order discount
 ---
 
-# order discount
+# order discount[AX 2012]
 
 A fixed amount or percentage deducted that applies to an order total.
 

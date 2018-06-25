@@ -16,7 +16,7 @@ f1_keywords:
 - configuration key
 ---
 
-# Public sector configuration key (Public sector) 
+# Public sector configuration key (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

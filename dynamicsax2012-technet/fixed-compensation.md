@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.fixed compensation
 ---
 
-# fixed compensation
+# fixed compensation[AX 2012]
 
 Compensation, independent of performance, that is awarded to an employee by an organization.
 

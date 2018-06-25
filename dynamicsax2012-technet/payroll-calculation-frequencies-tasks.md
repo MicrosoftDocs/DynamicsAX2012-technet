@@ -14,7 +14,7 @@ f1_keywords:
 - MsDynAx060.Forms.PayrollCalculationFrequency
 ---
 
-# Payroll calculation frequencies tasks 
+# Payroll calculation frequencies tasks [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

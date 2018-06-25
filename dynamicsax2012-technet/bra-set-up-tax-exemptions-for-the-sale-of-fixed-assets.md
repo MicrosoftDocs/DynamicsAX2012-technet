@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (BRA) Set up tax exemptions for the sale of fixed assets 
+# (BRA) Set up tax exemptions for the sale of fixed assets [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

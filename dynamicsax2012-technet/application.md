@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.application
 ---
 
-# application
+# application[AX 2012]
 
 A document that records the profile of the applicant.
 

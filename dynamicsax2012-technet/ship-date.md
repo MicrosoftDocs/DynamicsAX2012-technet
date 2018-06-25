@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.ship date
 ---
 
-# ship date
+# ship date[AX 2012]
 
 The date that items are shipped from a shipping location.
 

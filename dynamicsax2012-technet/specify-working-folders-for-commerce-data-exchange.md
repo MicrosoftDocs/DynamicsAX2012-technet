@@ -13,7 +13,7 @@ f1_keywords:
 - MsDynAx060.7287752d-5b02-4f95-9ff2-1fb8a3f9685d
 ---
 
-# Specify working folders for Commerce Data Exchange 
+# Specify working folders for Commerce Data Exchange [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

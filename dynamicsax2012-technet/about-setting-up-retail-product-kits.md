@@ -8,7 +8,7 @@ ms.date: 10/27/2014
 mtps_version: v=AX.60
 ---
 
-# About setting up retail product kits 
+# About setting up retail product kits [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

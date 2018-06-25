@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accrued revenue
 ---
 
-# accrued revenue
+# accrued revenue[AX 2012]
 
 Revenue earned in one accounting period but received in a subsequent accounting period.
 

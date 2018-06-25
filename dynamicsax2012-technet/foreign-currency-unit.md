@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.foreign currency unit
 ---
 
-# foreign currency unit
+# foreign currency unit[AX 2012]
 
 A currency unit of a country/region that is not the functional currency unit of the primary legal entity.
 

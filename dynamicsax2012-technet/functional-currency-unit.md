@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.functional currency unit
 ---
 
-# functional currency unit
+# functional currency unit[AX 2012]
 
 A currency unit of a country/region in which a primary legal entity locates its business activities and in which it generates most of its revenue and expenses.
 

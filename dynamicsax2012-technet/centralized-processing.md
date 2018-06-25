@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.centralized processing
 ---
 
-# centralized processing
+# centralized processing[AX 2012]
 
 A shared service that pools resources for leveraging or cost reduction purposes.
 

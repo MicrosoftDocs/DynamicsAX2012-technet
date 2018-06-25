@@ -13,7 +13,7 @@ f1_keywords:
 - sign up for RapidStart Services
 ---
 
-# Sign up and add users for Microsoft Dynamics ERP RapidStart Services in Microsoft Dynamics Online 
+# Sign up and add users for Microsoft Dynamics ERP RapidStart Services in Microsoft Dynamics Online [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

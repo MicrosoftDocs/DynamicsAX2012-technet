@@ -15,7 +15,7 @@ f1_keywords:
 - BR - 00032
 ---
 
-# (BRA) About calculation of taxes 
+# (BRA) About calculation of taxes [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

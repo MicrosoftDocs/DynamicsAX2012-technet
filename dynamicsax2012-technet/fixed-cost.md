@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.fixed cost
 ---
 
-# fixed cost
+# fixed cost[AX 2012]
 
 A cost that does not vary with changes in product delivery throughput or output.
 

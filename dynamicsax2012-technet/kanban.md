@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.kanban
 ---
 
-# kanban
+# kanban[AX 2012]
 
 A signal that communicates a requirement for a quantity of product.
 

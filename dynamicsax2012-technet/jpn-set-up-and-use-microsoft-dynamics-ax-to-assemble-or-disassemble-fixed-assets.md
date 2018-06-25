@@ -16,7 +16,7 @@ f1_keywords:
 - disassemble fixed assets
 ---
 
-# (JPN) Set up and use Microsoft Dynamics AX to assemble or disassemble fixed assets 
+# (JPN) Set up and use Microsoft Dynamics AX to assemble or disassemble fixed assets [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.team
 ---
 
-# team
+# team[AX 2012]
 
 An organization whose members share a common responsibility, interest, or objective.
 

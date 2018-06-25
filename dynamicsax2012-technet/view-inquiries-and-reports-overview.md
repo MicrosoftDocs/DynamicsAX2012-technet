@@ -14,7 +14,7 @@ f1_keywords:
 - inquiries
 ---
 
-# View inquiries and reports overview 
+# View inquiries and reports overview [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_

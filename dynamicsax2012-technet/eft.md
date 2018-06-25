@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.EFT
 ---
 
-# EFT
+# EFT[AX 2012]
 
 A networked system for transferring funds from one bank account to another.
 

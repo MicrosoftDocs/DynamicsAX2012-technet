@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.relate
 ---
 
-# relate
+# relate[AX 2012]
 
 To collect objects in a set.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.master scheduling
 ---
 
-# master scheduling
+# master scheduling[AX 2012]
 
 The process for generating a timetable for matching supply with demand.
 

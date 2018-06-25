@@ -13,7 +13,7 @@ f1_keywords:
 - ICMS-ST
 ---
 
-# (BRA) Enter and post fiscal books adjustments, benefits, and incentives 
+# (BRA) Enter and post fiscal books adjustments, benefits, and incentives [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

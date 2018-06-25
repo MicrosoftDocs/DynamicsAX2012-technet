@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.three-way matching policy
 ---
 
-# three-way matching policy
+# three-way matching policy[AX 2012]
 
 A matching policy that requires one or more vendor invoice prices to match with one or more purchase order prices and that requires one or more vendor invoice quantities to match with one or more product receipt quantities.
 

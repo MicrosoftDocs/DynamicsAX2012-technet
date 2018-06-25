@@ -10,7 +10,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailTillLayoutDesigner
 ---
 
-# Setting up screen layouts (Retail essentials) 
+# Setting up screen layouts (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

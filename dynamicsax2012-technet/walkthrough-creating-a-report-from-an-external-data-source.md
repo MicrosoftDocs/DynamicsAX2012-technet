@@ -10,7 +10,7 @@ dev_langs:
 - sql
 ---
 
-# Walkthrough: Creating a Report from an External Data Source 
+# Walkthrough: Creating a Report from an External Data Source [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

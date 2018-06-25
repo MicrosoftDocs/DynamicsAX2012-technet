@@ -12,7 +12,7 @@ f1_keywords:
 - settle advance holder
 ---
 
-# (EEUR) Settle advance holder balances 
+# (EEUR) Settle advance holder balances [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

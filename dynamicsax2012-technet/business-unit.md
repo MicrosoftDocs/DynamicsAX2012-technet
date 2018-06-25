@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.business unit
 ---
 
-# business unit
+# business unit[AX 2012]
 
 A semi-autonomous operating unit that is created to meet strategic business objectives.
 

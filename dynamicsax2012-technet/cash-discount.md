@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cash discount
 ---
 
-# cash discount
+# cash discount[AX 2012]
 
 A discount that depends on prompt payment.
 

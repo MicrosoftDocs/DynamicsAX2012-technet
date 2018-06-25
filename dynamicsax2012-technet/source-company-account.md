@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.source company account
 ---
 
-# source company account
+# source company account[AX 2012]
 
 The legal entity that is the origin of a liability in an intercompany economic transaction.
 

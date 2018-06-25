@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.spend
 ---
 
-# spend
+# spend[AX 2012]
 
 An expenditure in the procurement domain.
 

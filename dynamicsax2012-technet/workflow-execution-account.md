@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.workflow execution account
 ---
 
-# workflow execution account
+# workflow execution account[AX 2012]
 
 A user account that is granted the rights for executing workflows.
 

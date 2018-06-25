@@ -8,7 +8,7 @@ ms.date: 05/14/2014
 mtps_version: v=AX.60
 ---
 
-# Setting up production processes in a warehouse 
+# Setting up production processes in a warehouse [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

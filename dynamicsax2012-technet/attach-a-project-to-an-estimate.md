@@ -12,7 +12,7 @@ f1_keywords:
 - estimate project ID
 ---
 
-# Attach a project to an estimate 
+# Attach a project to an estimate [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

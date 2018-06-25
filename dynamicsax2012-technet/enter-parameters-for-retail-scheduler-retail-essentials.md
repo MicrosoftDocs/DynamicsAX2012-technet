@@ -8,7 +8,7 @@ ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---
 
-# Enter parameters for Retail Scheduler (Retail essentials) 
+# Enter parameters for Retail Scheduler (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

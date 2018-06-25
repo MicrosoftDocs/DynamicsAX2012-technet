@@ -13,7 +13,7 @@ f1_keywords:
 - change a template
 ---
 
-# (RUS) Change a report template for electronic reporting 
+# (RUS) Change a report template for electronic reporting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

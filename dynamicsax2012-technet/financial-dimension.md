@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.financial dimension
 ---
 
-# financial dimension
+# financial dimension[AX 2012]
 
 A financial data classifier created from the parties, locations, products, and activities in an organization and used for management reporting.
 

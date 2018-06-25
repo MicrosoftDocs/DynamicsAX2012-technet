@@ -12,7 +12,7 @@ f1_keywords:
 - (BRA)
 ---
 
-# (BRA) Select and maintain suppliers overview 
+# (BRA) Select and maintain suppliers overview [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

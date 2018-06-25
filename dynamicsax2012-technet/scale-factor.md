@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.scale factor
 ---
 
-# scale factor
+# scale factor[AX 2012]
 
 A ratio to convert from one number precision to another.
 

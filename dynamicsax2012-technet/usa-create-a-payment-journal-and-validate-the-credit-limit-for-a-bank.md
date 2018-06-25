@@ -12,7 +12,7 @@ f1_keywords:
 - payment journal
 ---
 
-# (USA) Create a payment journal and validate the credit limit for a bank 
+# (USA) Create a payment journal and validate the credit limit for a bank [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

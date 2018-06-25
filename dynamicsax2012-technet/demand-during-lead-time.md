@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.demand during lead time
 ---
 
-# demand during lead time
+# demand during lead time[AX 2012]
 
 The average daily demand for a product multiplied by the average lead time.
 

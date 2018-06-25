@@ -13,7 +13,7 @@ f1_keywords:
 - product hierarchy
 ---
 
-# (RUS) Set up restrictions on item returns 
+# (RUS) Set up restrictions on item returns [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

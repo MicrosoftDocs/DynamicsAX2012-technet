@@ -8,7 +8,7 @@ ms.date: 01/28/2015
 mtps_version: v=AX.60
 ---
 
-# Install Retail essentials at the store or at the point of sale 
+# Install Retail essentials at the store or at the point of sale [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

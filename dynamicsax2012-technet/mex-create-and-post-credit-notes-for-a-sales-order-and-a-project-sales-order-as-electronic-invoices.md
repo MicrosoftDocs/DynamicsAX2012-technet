@@ -15,7 +15,7 @@ f1_keywords:
 - sales order
 ---
 
-# (MEX) Create and post credit notes for a sales order and a project sales order as electronic invoices 
+# (MEX) Create and post credit notes for a sales order and a project sales order as electronic invoices [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

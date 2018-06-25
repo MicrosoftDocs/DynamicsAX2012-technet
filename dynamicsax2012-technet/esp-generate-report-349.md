@@ -14,7 +14,7 @@ f1_keywords:
 - MsDynAx060.Forms.EUSalesListSelection
 ---
 
-# (ESP) Generate Report 349 
+# (ESP) Generate Report 349 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

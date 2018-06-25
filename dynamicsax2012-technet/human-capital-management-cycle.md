@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.human capital management cycle
 ---
 
-# human capital management cycle
+# human capital management cycle[AX 2012]
 
 A recurring set of recruitment, hiring, training, compensation, and performance evaluation activities performed by parties that compensate employees and contractors in exchange for services.
 

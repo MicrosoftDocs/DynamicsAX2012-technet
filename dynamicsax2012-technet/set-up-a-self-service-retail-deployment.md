@@ -8,7 +8,7 @@ ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
 
-# Set up a self-service Retail deployment 
+# Set up a self-service Retail deployment [AX 2012]
 
 
 This topic describes how the system administrator uses the Retail mass deployment toolkit to prepare a self-service installation of Retail components.

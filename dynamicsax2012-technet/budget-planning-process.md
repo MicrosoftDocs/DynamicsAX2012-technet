@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.budget planning process
 ---
 
-# budget planning process
+# budget planning process[AX 2012]
 
 A process that identifies the budget cycle and ledger for the budget planning period and defines how the budget plans will be routed, reviewed, and approved in an organization hierarchy.
 

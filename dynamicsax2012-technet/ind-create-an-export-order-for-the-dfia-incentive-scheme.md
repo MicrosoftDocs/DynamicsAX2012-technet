@@ -20,7 +20,7 @@ f1_keywords:
 - DFIA incentive scheme
 ---
 
-# (IND) Create an export order for the DFIA incentive scheme 
+# (IND) Create an export order for the DFIA incentive scheme [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

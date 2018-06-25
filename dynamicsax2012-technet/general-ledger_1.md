@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.general ledger
 ---
 
-# general ledger
+# general ledger[AX 2012]
 
 The register of debit and credit entries classified using accounts listed in a chart of accounts.
 

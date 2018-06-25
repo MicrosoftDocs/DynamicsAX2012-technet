@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.bin
 ---
 
-# bin
+# bin[AX 2012]
 
 A handling unit for storing and transferring items.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.trade discount
 ---
 
-# trade discount
+# trade discount[AX 2012]
 
 A discount that does not depend on prompt payment.
 

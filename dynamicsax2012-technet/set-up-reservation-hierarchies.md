@@ -13,7 +13,7 @@ f1_keywords:
 - reservation hierarchy
 ---
 
-# Set up reservation hierarchies 
+# Set up reservation hierarchies [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

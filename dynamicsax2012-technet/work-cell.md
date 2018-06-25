@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.work cell
 ---
 
-# work cell
+# work cell[AX 2012]
 
 A resource group that participates in a production flow activity.
 

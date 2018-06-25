@@ -15,7 +15,7 @@ f1_keywords:
 - process industry
 ---
 
-# Setting up and maintaining co-products and by-products 
+# Setting up and maintaining co-products and by-products [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -12,7 +12,7 @@ f1_keywords:
 - FRA
 ---
 
-# (FRA) Form FR report (IntrastatFormLetterFR) 
+# (FRA) Form FR report (IntrastatFormLetterFR) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

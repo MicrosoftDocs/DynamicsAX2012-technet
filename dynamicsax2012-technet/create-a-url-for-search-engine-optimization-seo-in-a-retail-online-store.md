@@ -8,7 +8,7 @@ ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
 
-# Create a URL for search engine optimization (SEO) in a Retail online store 
+# Create a URL for search engine optimization (SEO) in a Retail online store [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

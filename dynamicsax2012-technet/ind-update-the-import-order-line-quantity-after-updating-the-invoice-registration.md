@@ -15,7 +15,7 @@ f1_keywords:
 - Update the import order line
 ---
 
-# (IND) Update the import order line quantity after updating the invoice registration 
+# (IND) Update the import order line quantity after updating the invoice registration [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

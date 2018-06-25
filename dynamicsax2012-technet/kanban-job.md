@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.kanban job
 ---
 
-# kanban job
+# kanban job[AX 2012]
 
 A process or transfer activity in a production flow that is triggered by a kanban.
 

@@ -13,7 +13,7 @@ f1_keywords:
 - vendor payment journal
 ---
 
-# (USA) Post a vendor payment journal and generate a 1099 OID report 
+# (USA) Post a vendor payment journal and generate a 1099 OID report [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -12,7 +12,7 @@ f1_keywords:
 - requisites
 ---
 
-# (RUS) Set up composite cell type requisites 
+# (RUS) Set up composite cell type requisites [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

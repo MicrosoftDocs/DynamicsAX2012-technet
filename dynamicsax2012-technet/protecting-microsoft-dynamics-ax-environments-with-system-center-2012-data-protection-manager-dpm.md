@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Protecting Microsoft Dynamics AX environments with System Center 2012 Data Protection Manager (DPM) 
+# Protecting Microsoft Dynamics AX environments with System Center 2012 Data Protection Manager (DPM) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

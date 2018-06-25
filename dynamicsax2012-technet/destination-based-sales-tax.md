@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.destination-based sales tax
 ---
 
-# destination-based sales tax
+# destination-based sales tax[AX 2012]
 
 A sales tax levied in some states in the United States on a product based on the destination in which the buyer takes ownership or receives the product.
 

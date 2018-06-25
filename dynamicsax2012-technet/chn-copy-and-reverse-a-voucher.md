@@ -10,7 +10,7 @@ f1_keywords:
 - CN - 00011
 ---
 
-# (CHN) Copy and reverse a voucher 
+# (CHN) Copy and reverse a voucher [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

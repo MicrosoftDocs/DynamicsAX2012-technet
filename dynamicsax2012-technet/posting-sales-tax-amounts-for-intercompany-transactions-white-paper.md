@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Posting sales tax amounts for intercompany transactions (White paper) 
+# Posting sales tax amounts for intercompany transactions (White paper) [AX 2012]
 
 
 In Microsoft Dynamics AX 2012, you can create intercompany transactions, which are transactions between legal entities of the same organization. Those transactions are posted to general ledger accounts that are consolidated, or combined, into accounts for a single, consolidated legal entity.

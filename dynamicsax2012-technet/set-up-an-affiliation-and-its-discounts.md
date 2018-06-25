@@ -11,7 +11,7 @@ f1_keywords:
 - Forms.RetailAffiliationPriceGroup
 ---
 
-# Set up an affiliation and its discounts 
+# Set up an affiliation and its discounts [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

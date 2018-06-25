@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales agreement policy
 ---
 
-# sales agreement policy
+# sales agreement policy[AX 2012]
 
 A policy that authorizes parties to modify sales agreement terms.
 

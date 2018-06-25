@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.contact
 ---
 
-# contact
+# contact[AX 2012]
 
 A person, inside or outside your organization, for whom you have created an entry where you can save several types of information, such as street and e-mail addresses, telephone and fax numbers, and Web page URLs.
 

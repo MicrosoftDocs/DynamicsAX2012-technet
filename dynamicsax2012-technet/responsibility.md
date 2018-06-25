@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.responsibility
 ---
 
-# responsibility
+# responsibility[AX 2012]
 
 An obligation of a party to perform an assigned job and to be held accountable for the outcome of the results.
 

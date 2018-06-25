@@ -11,7 +11,7 @@ f1_keywords:
 - Templates for budget plans
 ---
 
-# Configuring Budget Plan Templates for Microsoft Dynamics AX 2012 R2 
+# Configuring Budget Plan Templates for Microsoft Dynamics AX 2012 R2 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting journal entry
 ---
 
-# accounting journal entry
+# accounting journal entry[AX 2012]
 
 A record of original entry in an accounting system that records a date, one or more accounts, and the monetary value to be debited or credited to each account.
 

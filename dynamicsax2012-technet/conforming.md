@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.conforming
 ---
 
-# conforming
+# conforming[AX 2012]
 
 In accordance with requirements, specifications, or explicit expectations.
 

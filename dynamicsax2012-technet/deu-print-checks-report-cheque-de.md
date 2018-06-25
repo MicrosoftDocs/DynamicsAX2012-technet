@@ -14,7 +14,7 @@ f1_keywords:
 - Print checks
 ---
 
-# (DEU) Print checks report (Cheque\_DE) 
+# (DEU) Print checks report (Cheque\_DE) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

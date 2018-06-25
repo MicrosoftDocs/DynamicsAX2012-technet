@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.HST
 ---
 
-# HST
+# HST[AX 2012]
 
 A value-added tax (VAT) levied in some Canadian provinces that combines the Goods and Services Tax (GST) and the provisional sales tax.
 

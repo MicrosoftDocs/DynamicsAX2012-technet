@@ -8,7 +8,7 @@ ms.date: 07/24/2015
 mtps_version: v=AX.60
 ---
 
-# Install Retail Modern POS 
+# Install Retail Modern POS [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

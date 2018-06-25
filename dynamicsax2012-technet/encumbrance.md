@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.encumbrance
 ---
 
-# encumbrance
+# encumbrance[AX 2012]
 
 A commitment made by legal entities to reserve budget funds for expenditure obligations.
 

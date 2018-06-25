@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.mathematical formula
 ---
 
-# mathematical formula
+# mathematical formula[AX 2012]
 
 A mathematical statement in a formal language that can be given a semantic meaning.
 

@@ -15,7 +15,7 @@ f1_keywords:
 - return disposition code
 ---
 
-# Create disposition codes 
+# Create disposition codes [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

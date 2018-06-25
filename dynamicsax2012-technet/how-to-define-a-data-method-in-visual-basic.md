@@ -10,7 +10,7 @@ dev_langs:
 - vb
 ---
 
-# How to: Define a Data Method in Visual Basic 
+# How to: Define a Data Method in Visual Basic [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

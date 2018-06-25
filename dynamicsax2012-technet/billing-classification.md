@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.billing classification
 ---
 
-# billing classification
+# billing classification[AX 2012]
 
 A payment request classifier documented on customer invoices that govern payment terms and conditions and the processing of the invoices.
 

@@ -14,7 +14,7 @@ f1_keywords:
 - NF-e file
 ---
 
-# (BRA) Import an electronic fiscal document for services file 
+# (BRA) Import an electronic fiscal document for services file [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

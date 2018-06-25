@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cost variance
 ---
 
-# cost variance
+# cost variance[AX 2012]
 
 The difference between an expected cost and an actual cost.
 

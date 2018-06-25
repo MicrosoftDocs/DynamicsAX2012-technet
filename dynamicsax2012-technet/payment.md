@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.payment
 ---
 
-# payment
+# payment[AX 2012]
 
 A past, present, or future settlement of an obligation.
 

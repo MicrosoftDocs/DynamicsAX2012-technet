@@ -8,7 +8,7 @@ ms.date: 10/06/2014
 mtps_version: v=AX.60
 ---
 
-# Create or update a project by using Microsoft Project 
+# Create or update a project by using Microsoft Project [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

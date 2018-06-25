@@ -13,7 +13,7 @@ f1_keywords:
 - potential conflicts
 ---
 
-# (IND) Potential conflicts - inventory and general ledger report (InventLedgerConflict) 
+# (IND) Potential conflicts - inventory and general ledger report (InventLedgerConflict) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

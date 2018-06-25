@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.WHSWorker
 ---
 
-# Set up mobile device user accounts for workers 
+# Set up mobile device user accounts for workers [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -17,7 +17,7 @@ f1_keywords:
 - generate an excise invoice
 ---
 
-# (IND) Generate and print an excise invoice for goods 
+# (IND) Generate and print an excise invoice for goods [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

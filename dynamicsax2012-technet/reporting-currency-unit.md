@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.reporting currency unit
 ---
 
-# reporting currency unit
+# reporting currency unit[AX 2012]
 
 A currency unit that is used to record the financial consequences of accounting events and to prepare and report ancillary financial statements.
 

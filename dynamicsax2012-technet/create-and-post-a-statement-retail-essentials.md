@@ -10,7 +10,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailStatementListPage
 ---
 
-# Create and post a statement (Retail essentials) 
+# Create and post a statement (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -21,7 +21,7 @@ f1_keywords:
 - set up fiscal years
 ---
 
-# (IND) Setting up fiscal calendars, fiscal years, and periods 
+# (IND) Setting up fiscal calendars, fiscal years, and periods [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

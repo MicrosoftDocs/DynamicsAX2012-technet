@@ -11,7 +11,7 @@ f1_keywords:
 - notification to the central bank
 ---
 
-# (LVA) Create and post a journal for foreign receipts and payments 
+# (LVA) Create and post a journal for foreign receipts and payments [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

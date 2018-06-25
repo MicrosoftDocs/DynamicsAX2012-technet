@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.reverse charge VAT
 ---
 
-# reverse charge VAT
+# reverse charge VAT[AX 2012]
 
 A value-added tax (VAT) on products that is owed by the customer that receives the product, not by the vendor that delivers the product.
 

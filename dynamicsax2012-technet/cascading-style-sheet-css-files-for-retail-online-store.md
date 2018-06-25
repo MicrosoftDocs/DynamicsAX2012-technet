@@ -8,7 +8,7 @@ ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
 
-# Cascading style sheet (CSS) files for Retail online store 
+# Cascading style sheet (CSS) files for Retail online store [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

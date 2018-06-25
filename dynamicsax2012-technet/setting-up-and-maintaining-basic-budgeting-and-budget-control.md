@@ -12,7 +12,7 @@ f1_keywords:
 - basic budget
 ---
 
-# Setting up and maintaining basic budgeting and budget control 
+# Setting up and maintaining basic budgeting and budget control [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

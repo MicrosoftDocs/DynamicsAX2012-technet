@@ -10,7 +10,7 @@ f1_keywords:
 - CN - 00010
 ---
 
-# (CHN) Create a ledger account 
+# (CHN) Create a ledger account [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

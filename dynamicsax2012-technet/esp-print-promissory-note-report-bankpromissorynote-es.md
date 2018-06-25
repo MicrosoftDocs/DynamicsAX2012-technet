@@ -13,7 +13,7 @@ f1_keywords:
 - Print promissory note
 ---
 
-# (ESP) Print promissory note report (BankPromissoryNote\_ES) 
+# (ESP) Print promissory note report (BankPromissoryNote\_ES) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

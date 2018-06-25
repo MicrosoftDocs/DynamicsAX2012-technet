@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.magnetic ink character recognition
 ---
 
-# magnetic ink character recognition
+# magnetic ink character recognition[AX 2012]
 
 A character recognition system for reading and processing data that uses special inks and characters.
 

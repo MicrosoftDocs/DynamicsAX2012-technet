@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.delivery note
 ---
 
-# delivery note
+# delivery note[AX 2012]
 
 A business document that documents the delivery of products between two parties.
 

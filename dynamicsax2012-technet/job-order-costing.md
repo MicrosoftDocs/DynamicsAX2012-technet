@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.job order costing
 ---
 
-# job order costing
+# job order costing[AX 2012]
 
 A costing method that uses production orders to assign incurred production costs to specific jobs.
 

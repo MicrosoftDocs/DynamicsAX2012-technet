@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cash float
 ---
 
-# cash float
+# cash float[AX 2012]
 
 An amount of cash provided for the purpose of giving change or exchanging cash.
 

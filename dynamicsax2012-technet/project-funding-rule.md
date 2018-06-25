@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.project funding rule
 ---
 
-# project funding rule
+# project funding rule[AX 2012]
 
 A rule in a project system that controls how project activities are funded by one or more funding sources based on project criteria and other conditions.
 

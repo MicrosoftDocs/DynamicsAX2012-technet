@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.net amount
 ---
 
-# net amount
+# net amount[AX 2012]
 
 The amount including all deductions, charges, and adjustments.
 

@@ -28,7 +28,7 @@ f1_keywords:
 - new general budget reservation
 ---
 
-# Create a general budget reservation (Public sector) 
+# Create a general budget reservation (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

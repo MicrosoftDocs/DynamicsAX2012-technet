@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.LIFO inventory valuation method
 ---
 
-# LIFO inventory valuation method
+# LIFO inventory valuation method[AX 2012]
 
 An inventory valuation method in which inventory that is received most recently is considered sold or used first for accounting purposes.
 

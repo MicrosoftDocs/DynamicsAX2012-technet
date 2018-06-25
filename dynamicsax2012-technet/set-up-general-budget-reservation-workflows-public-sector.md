@@ -18,7 +18,7 @@ f1_keywords:
 - general budget reservation workflow
 ---
 
-# Set up general budget reservation workflows (Public sector) 
+# Set up general budget reservation workflows (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.intercompany master scheduling
 ---
 
-# intercompany master scheduling
+# intercompany master scheduling[AX 2012]
 
 The process for generating a timetable for two or more legal entities that are part the same organization.
 

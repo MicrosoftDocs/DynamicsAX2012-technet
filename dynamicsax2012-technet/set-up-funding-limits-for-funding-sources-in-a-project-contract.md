@@ -14,7 +14,7 @@ f1_keywords:
 - rule type
 ---
 
-# Set up funding limits for funding sources in a project contract 
+# Set up funding limits for funding sources in a project contract [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -21,7 +21,7 @@ f1_keywords:
 - purchase order encumbrance
 ---
 
-# (FRA) Process purchase order encumbrances and commitments at year end (Public sector) 
+# (FRA) Process purchase order encumbrances and commitments at year end (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

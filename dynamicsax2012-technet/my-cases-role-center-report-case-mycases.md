@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.Case_MyCases
 ---
 
-# My cases Role Center report (Case\_MyCases) 
+# My cases Role Center report (Case\_MyCases) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

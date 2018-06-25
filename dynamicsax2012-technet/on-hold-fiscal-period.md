@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.on-hold fiscal period
 ---
 
-# on-hold fiscal period
+# on-hold fiscal period[AX 2012]
 
 The state of a fiscal period that can be reopened and that prevents its use as a time period classifier for account entries.
 

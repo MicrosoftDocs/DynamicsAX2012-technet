@@ -12,7 +12,7 @@ f1_keywords:
 - round off depreciation
 ---
 
-# (EEUR) About rounding off depreciation amounts 
+# (EEUR) About rounding off depreciation amounts [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

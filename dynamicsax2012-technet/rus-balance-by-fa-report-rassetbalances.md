@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RDeferralsBalances
 ---
 
-# (RUS) Balance by FA report (RAssetBalances) 
+# (RUS) Balance by FA report (RAssetBalances) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

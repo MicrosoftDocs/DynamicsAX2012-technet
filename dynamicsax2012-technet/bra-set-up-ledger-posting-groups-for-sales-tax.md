@@ -15,7 +15,7 @@ f1_keywords:
 - posting groups
 ---
 
-# (BRA) Set up ledger posting groups for sales tax 
+# (BRA) Set up ledger posting groups for sales tax [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

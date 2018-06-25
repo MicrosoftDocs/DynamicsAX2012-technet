@@ -14,7 +14,7 @@ f1_keywords:
 - variable groups
 ---
 
-# About variable groups of array type 
+# About variable groups of array type [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

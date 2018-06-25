@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.recognition accounting rule
 ---
 
-# recognition accounting rule
+# recognition accounting rule[AX 2012]
 
 An accounting rule that prescribes the recognition of revenue and expenditure in accounts and on financial statements.
 

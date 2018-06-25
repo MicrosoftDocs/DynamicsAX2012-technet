@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.relation
 ---
 
-# relation
+# relation[AX 2012]
 
 A set of objects.
 

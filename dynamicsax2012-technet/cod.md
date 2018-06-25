@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.COD
 ---
 
-# COD
+# COD[AX 2012]
 
 A payment policy that requires payment in full for product upon delivery.
 

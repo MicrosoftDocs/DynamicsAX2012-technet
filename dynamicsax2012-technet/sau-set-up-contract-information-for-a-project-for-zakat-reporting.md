@@ -13,7 +13,7 @@ f1_keywords:
 - contract information
 ---
 
-# (SAU) Set up contract information for a project for Zakat reporting 
+# (SAU) Set up contract information for a project for Zakat reporting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

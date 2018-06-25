@@ -15,7 +15,7 @@ f1_keywords:
 - Purchase authorization
 ---
 
-# (IND) Record the purchase of a DFIA or AA license 
+# (IND) Record the purchase of a DFIA or AA license [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

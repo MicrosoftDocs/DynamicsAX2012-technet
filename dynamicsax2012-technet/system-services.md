@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.system services
 ---
 
-# system services
+# system services[AX 2012]
 
 A group of integrated services that enables you to access information from and interact with your Microsoft Dynamics AX installation.
 

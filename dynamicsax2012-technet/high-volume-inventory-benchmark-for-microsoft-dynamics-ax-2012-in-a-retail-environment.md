@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# High Volume Inventory Benchmark for Microsoft Dynamics AX 2012 in a Retail Environment 
+# High Volume Inventory Benchmark for Microsoft Dynamics AX 2012 in a Retail Environment [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

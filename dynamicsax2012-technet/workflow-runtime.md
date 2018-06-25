@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.workflow runtime
 ---
 
-# workflow runtime
+# workflow runtime[AX 2012]
 
 A software component that activates and executes workflow instances using Microsoft Windows Workflow Foundation.
 

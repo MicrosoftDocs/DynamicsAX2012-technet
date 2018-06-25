@@ -10,7 +10,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailRMSMigrationParameters
 ---
 
-# Migrate data from Microsoft Dynamics Retail Management System (Retail essentials) 
+# Migrate data from Microsoft Dynamics Retail Management System (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

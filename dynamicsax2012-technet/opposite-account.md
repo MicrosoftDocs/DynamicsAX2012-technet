@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.opposite account
 ---
 
-# opposite account
+# opposite account[AX 2012]
 
 An account used to balance the gross amount in part or in whole of one or more referenced accounts in an accounting equation.
 

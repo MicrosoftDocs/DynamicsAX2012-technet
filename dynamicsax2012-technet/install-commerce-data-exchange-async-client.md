@@ -10,7 +10,7 @@ dev_langs:
 - powershell
 ---
 
-# Install Commerce Data Exchange: Async Client 
+# Install Commerce Data Exchange: Async Client [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

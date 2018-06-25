@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting event
 ---
 
-# accounting event
+# accounting event[AX 2012]
 
 The occurrence of an accounting action in an accounting system.
 

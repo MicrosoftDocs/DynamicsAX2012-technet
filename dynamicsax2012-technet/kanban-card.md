@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.kanban card
 ---
 
-# kanban card
+# kanban card[AX 2012]
 
 A printed document that represents a kanban on the shopfloor, on a physical kanban board or Heijunka board, in a shipment, or in inventory.
 

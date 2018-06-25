@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# CommerceRuntimeException Constructor (String, String, Object )
+# CommerceRuntimeException Constructor (String, String, Object )[AX 2012]
 
 Initializes a new instance of the [CommerceRuntimeException](commerceruntimeexception-class-microsoft-dynamics-commerce-runtime.md) class.
 

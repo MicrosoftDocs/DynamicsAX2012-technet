@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.operations resource
 ---
 
-# operations resource
+# operations resource[AX 2012]
 
 An economic resource provided by products that flow into or flow out of operations activities.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.currency code
 ---
 
-# currency code
+# currency code[AX 2012]
 
 An alphanumeric identifier that represents a currency unit.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.supermarket
 ---
 
-# supermarket
+# supermarket[AX 2012]
 
 A just-in-time inventory location that has finite capacity and is used to batch material near a point of consumption.
 

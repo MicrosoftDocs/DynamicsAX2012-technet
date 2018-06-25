@@ -13,7 +13,7 @@ f1_keywords:
 - purchases and sales
 ---
 
-# (BRA) Set up and calculate tax on sales and purchases 
+# (BRA) Set up and calculate tax on sales and purchases [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

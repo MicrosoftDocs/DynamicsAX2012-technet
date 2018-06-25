@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.workflow document
 ---
 
-# workflow document
+# workflow document[AX 2012]
 
 A view of data that is submitted to workflow for processing.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Data_Dictionary.Configuration_Keys.SMASubscription_Indexation
 ---
 
-# Subscription Indexation configuration key (SMASubscription\_Indexation) 
+# Subscription Indexation configuration key (SMASubscription\_Indexation) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

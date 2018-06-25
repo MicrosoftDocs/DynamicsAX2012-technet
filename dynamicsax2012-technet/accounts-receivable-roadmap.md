@@ -8,7 +8,7 @@ ms.date: 09/03/2014
 mtps_version: v=AX.60
 ---
 
-# Accounts receivable roadmap 
+# Accounts receivable roadmap [AX 2012]
 
 
 This topic is a roadmap to additional information about Accounts receivable in Microsoft Dynamics AX. It includes links to information about how to get started, configure, and use Accounts receivable and information on which modules integrate with Accounts receivable.

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.escalation path
 ---
 
-# escalation path
+# escalation path[AX 2012]
 
 A series of workflow escalation actions that can be taken to complete a workflow work item when it cannot be complete by the current assignee.
 

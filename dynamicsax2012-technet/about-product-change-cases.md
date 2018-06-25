@@ -19,7 +19,7 @@ f1_keywords:
 - product change case
 ---
 
-# About product change cases 
+# About product change cases [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

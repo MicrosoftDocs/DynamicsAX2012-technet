@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.mathematical equation
 ---
 
-# mathematical equation
+# mathematical equation[AX 2012]
 
 A mathematical statement that asserts the equality of two mathematical expressions.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.transit engine
 ---
 
-# transit engine
+# transit engine[AX 2012]
 
 An engine that calculates the number of days that it will take for shipped freight to get from its origin point to its destination point.
 

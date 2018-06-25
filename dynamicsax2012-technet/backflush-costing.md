@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.backflush costing
 ---
 
-# backflush costing
+# backflush costing[AX 2012]
 
 An accounting method that flows product and production costs to cost of goods sold accounts during an accounting period and that backflushes those costs to raw material and finished goods accounts for products not sold at the close of the accounting period.
 

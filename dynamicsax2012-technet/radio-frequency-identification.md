@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.radio frequency identification
 ---
 
-# radio frequency identification
+# radio frequency identification[AX 2012]
 
 A technology that uses radio frequencies to identify products. An RFID-capable product has an RFID tag that can transmit information, such as serial number, to an RF reader, which converts the information into digital data that can be sent to a computer.
 

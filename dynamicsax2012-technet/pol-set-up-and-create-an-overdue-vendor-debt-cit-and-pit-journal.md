@@ -32,7 +32,7 @@ f1_keywords:
 - MsDynAx060.Forms.VendOverdueCITPITJournalTableListPage_W
 ---
 
-# (POL) Set up and create an overdue vendor debt CIT and PIT journal 
+# (POL) Set up and create an overdue vendor debt CIT and PIT journal [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

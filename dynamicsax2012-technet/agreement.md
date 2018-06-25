@@ -11,7 +11,7 @@ f1_keywords:
 - DynamicsAXGlossary.1585470
 ---
 
-# agreement
+# agreement[AX 2012]
 
   - An arrangement between two or more parties based on a mutual understanding about their respective rights and obligations. A number of requirements must be satisfied for an agreement to be legally binding.
 

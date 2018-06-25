@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.split source document
 ---
 
-# split source document
+# split source document[AX 2012]
 
 A source document that documents partial product quantities and monetary amounts from one referenced document of the same class.
 

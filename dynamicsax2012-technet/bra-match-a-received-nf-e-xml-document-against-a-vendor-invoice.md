@@ -18,7 +18,7 @@ f1_keywords:
 - Match NF-e XML document
 ---
 
-# (BRA) Match a received NF-e XML document against a vendor invoice 
+# (BRA) Match a received NF-e XML document against a vendor invoice [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

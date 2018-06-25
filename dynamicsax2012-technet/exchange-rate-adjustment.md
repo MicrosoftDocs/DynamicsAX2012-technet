@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.exchange rate adjustment
 ---
 
-# exchange rate adjustment
+# exchange rate adjustment[AX 2012]
 
 A modification to a converted monetary amount when the exchange rate between the quotation unit and the base unit change.
 

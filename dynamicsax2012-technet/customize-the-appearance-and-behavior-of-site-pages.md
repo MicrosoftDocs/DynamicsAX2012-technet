@@ -8,7 +8,7 @@ ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
 
-# Customize the appearance and behavior of site pages 
+# Customize the appearance and behavior of site pages [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

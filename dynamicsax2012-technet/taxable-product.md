@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.taxable product
 ---
 
-# taxable product
+# taxable product[AX 2012]
 
 A product that is subject to taxation.
 

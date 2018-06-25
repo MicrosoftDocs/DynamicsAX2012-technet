@@ -13,7 +13,7 @@ f1_keywords:
 - electronic reporting
 ---
 
-# (RUS) Export an electronic reporting document 
+# (RUS) Export an electronic reporting document [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

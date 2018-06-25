@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.policy rule
 ---
 
-# policy rule
+# policy rule[AX 2012]
 
 A rule in a policy that controls the actions that can or must be taken when the requirements of the condition are met.
 

@@ -14,7 +14,7 @@ f1_keywords:
 - accessorials
 ---
 
-# Set up accessorial assignments 
+# Set up accessorial assignments [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

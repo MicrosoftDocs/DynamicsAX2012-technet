@@ -11,7 +11,7 @@ f1_keywords:
 - beginning balances
 ---
 
-# Payroll beginning balance tasks 
+# Payroll beginning balance tasks [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

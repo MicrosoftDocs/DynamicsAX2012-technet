@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.account
 ---
 
-# account
+# account[AX 2012]
 
 A chronological record that describes the changes in value classified as assets, liabilities, expenses, and revenue.
 

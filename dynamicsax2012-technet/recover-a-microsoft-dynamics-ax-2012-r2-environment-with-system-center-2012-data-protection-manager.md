@@ -8,7 +8,7 @@ ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
 
-# Recover a Microsoft Dynamics AX 2012 R2 environment with System Center 2012 Data Protection Manager 
+# Recover a Microsoft Dynamics AX 2012 R2 environment with System Center 2012 Data Protection Manager [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

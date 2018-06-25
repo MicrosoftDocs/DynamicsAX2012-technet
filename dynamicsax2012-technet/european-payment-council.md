@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.European Payment Council
 ---
 
-# European Payment Council
+# European Payment Council[AX 2012]
 
 An international non-profit association that supports and promotes the Single Euro Payments Area (SEPA) banking industry initiative.
 

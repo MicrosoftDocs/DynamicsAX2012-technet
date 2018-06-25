@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.bank payment order
 ---
 
-# bank payment order
+# bank payment order[AX 2012]
 
 A source document that documents a request for a bank to perform an electronic funds transfer service.
 

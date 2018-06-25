@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.kanban rule
 ---
 
-# kanban rule
+# kanban rule[AX 2012]
 
 A rule in a lean manufacturing system that realizes material planning and replenishment policies by controlling how process and transfer activities are coordinated in production flows.
 

@@ -13,7 +13,7 @@ f1_keywords:
 - fiscal documents
 ---
 
-# (BRA) Set up fiscal document types 
+# (BRA) Set up fiscal document types [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

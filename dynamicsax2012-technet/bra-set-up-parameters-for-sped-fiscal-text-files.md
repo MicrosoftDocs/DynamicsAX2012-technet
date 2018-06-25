@@ -10,7 +10,7 @@ f1_keywords:
 - forms.FBTaxStatementSetupParameters_BR
 ---
 
-# (BRA) Set up parameters for SPED fiscal text files 
+# (BRA) Set up parameters for SPED fiscal text files [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

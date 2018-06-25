@@ -30,7 +30,7 @@ f1_keywords:
 - MsDynAx060.Forms.AssetDepRate_JP
 ---
 
-# (JPN) Set up depreciation and depreciation methods 
+# (JPN) Set up depreciation and depreciation methods [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

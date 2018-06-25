@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.LedgerRowDefinitionPrint
 ---
 
-# Row definition structure report (LedgerRowDefinitionPrint) 
+# Row definition structure report (LedgerRowDefinitionPrint) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

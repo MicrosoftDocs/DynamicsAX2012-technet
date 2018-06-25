@@ -11,7 +11,7 @@ f1_keywords:
 - price groups
 ---
 
-# Setting up prices using price groups 
+# Setting up prices using price groups [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

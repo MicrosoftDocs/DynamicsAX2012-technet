@@ -20,7 +20,7 @@ f1_keywords:
 - general budget reservation workflow submittal
 ---
 
-# Submit a general budget reservation to workflow (Public sector) 
+# Submit a general budget reservation to workflow (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

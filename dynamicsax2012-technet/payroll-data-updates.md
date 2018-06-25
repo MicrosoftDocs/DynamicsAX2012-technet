@@ -27,7 +27,7 @@ f1_keywords:
 - vacation accrual
 ---
 
-# Payroll data updates 
+# Payroll data updates [AX 2012]
 
 
 This topic answers questions you might have about how to maintain payroll data.

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.participant
 ---
 
-# participant
+# participant[AX 2012]
 
 A party that contributes to a process or assumes a role in a relationship.
 

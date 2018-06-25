@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.purchase requisition
 ---
 
-# purchase requisition
+# purchase requisition[AX 2012]
 
 A source document that documents product requests so that they can be submitted for review and be used to authorize purchasing by a purchasing organization.
 

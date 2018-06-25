@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# ReadChangedProductsSession Constructor (Guid, Int32, Char )
+# ReadChangedProductsSession Constructor (Guid, Int32, Char )[AX 2012]
 
 Initializes a new instance of the [ReadChangedProductsSession](readchangedproductssession-class-microsoft-dynamics-commerce-runtime-datamodel.md) class.
 

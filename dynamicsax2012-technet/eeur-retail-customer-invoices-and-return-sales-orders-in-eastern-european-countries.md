@@ -14,7 +14,7 @@ f1_keywords:
 - LV - 00005
 ---
 
-# (EEUR) Retail customer invoices and return sales orders in Eastern European countries 
+# (EEUR) Retail customer invoices and return sales orders in Eastern European countries [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

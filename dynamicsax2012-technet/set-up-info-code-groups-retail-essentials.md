@@ -8,7 +8,7 @@ ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
 
-# Set up info code groups (Retail essentials) 
+# Set up info code groups (Retail essentials) [AX 2012]
 
 
 This topic describes how to set up info code groups. Info code groups let you group predefined info codes together so that you can easily reuse them. You can also specify the order in which info codes are displayed to the user, without manually creating dependencies between them.
