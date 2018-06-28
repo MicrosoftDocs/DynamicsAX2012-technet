@@ -8572,7 +8572,7 @@
                   - name: Explicit Conversion (CommercePropertyValue to Byte)
                     href: ..\commercepropertyvalue explicit-conversion-commercepropertyvalue-to-byte-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Explicit Conversion (CommercePropertyValue to DateTimeOffset)
-                    href: ..\commercepropertyvalue explicit-conversion-commercepropertyvalue-to-datetimeoffset-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalueexplicit-conversion-commercepropertyvalue-to-datetimeoffset-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Explicit Conversion (CommercePropertyValue to Decimal)
                     href: ..\commercepropertyvalue explicit-conversion-commercepropertyvalue-to-decimal-microsoft-dynamics-commerce-runtime-datamodel.md
                 - name: Implicit Conversion Operators
@@ -8583,7 +8583,7 @@
                   - name: Implicit Conversion (Byte to CommercePropertyValue)
                     href: ..\commercepropertyvalue implicit-conversion-byte-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Implicit Conversion (DateTimeOffset to CommercePropertyValue)
-                    href: ..\commercepropertyvalue implicit-conversion-datetimeoffset-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalueimplicit-conversion-datetimeoffset-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Implicit Conversion (Decimal to CommercePropertyValue)
                     href: ..\commercepropertyvalue implicit-conversion-decimal-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Implicit Conversion (Int32 to CommercePropertyValue)
