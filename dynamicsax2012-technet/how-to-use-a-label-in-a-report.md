@@ -31,7 +31,7 @@ To create a new label, you must create or update a label file. For more informat
 
 2.  Expand the **Dataset** node for the report, expand the **Fields** node, and then select a field.
 
-3.  In the Properties window, set the **Caption** property to the label ID that you want to use on the report. For example, **@SYS7149**. For information about how to look up a label, see [How to: Find a Label](https://technet.microsoft.com/en-us/library/cc624360\(v=ax.60\)).
+3.  In the Properties window, set the **Caption** property to the label ID that you want to use on the report. For example, <strong>@SYS7149</strong>. For information about how to look up a label, see [How to: Find a Label](https://technet.microsoft.com/en-us/library/cc624360\(v=ax.60\)).
 
 ### To reference precision design report labels
 
