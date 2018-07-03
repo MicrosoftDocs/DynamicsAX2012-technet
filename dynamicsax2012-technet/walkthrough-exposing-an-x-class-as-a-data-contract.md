@@ -46,7 +46,7 @@ To create the data contract, you must first create an X++ class. You will apply 
 2.  Expand the new class, right-click on the **classDeclaration** method, and then click **View Code** to open the **Editor** window.
     
     Replace the code in the **Editor** window with the following code and save your changes. This code renames the class to EmployeeTest, adds the DataContractAttribute attribute to the class, and defines some data members. These members are not automatically exposed as part of the data contract. You must create methods and use the DataMember attribute as illustrated in subsequent steps.
-    
+    ```X++
         [DataContractAttribute]
         public class EmployeeTest
         {
@@ -55,7 +55,7 @@ To create the data contract, you must first create an X++ class. You will apply 
             utcdatetime employeeBirthDate;
             
         }
-
+    ```
 3.  Right-click the **EmployeeTest** class and then click **Properties**.
 
 4.  Set the **RunOn** property to **Called From**.
@@ -63,36 +63,36 @@ To create the data contract, you must first create an X++ class. You will apply 
 5.  Right-click the **EmployeeTest** class, click **New**, and then click **Method**.
     
     Replace the code in the **Editor** window with the following code and save your changes. This creates a class member called name and applies the DataMemberAttribute attribute to it.
-    
+    ```X++
         [DataMemberAttribute]
         public str name(str _employeeName = employeeName)
         {
             employeeName = _employeeName;
             return employeeName;
         }
-
+    ```
 6.  Right-click the **EmployeeTest** class, click **New**, and then click **Method**.
     
     Replace the code in the **Editor** window with the following code and save your changes. This creates a class member called age and applies the DataMemberAttribute attribute to it.
-    
+    ```X++
         [DataMemberAttribute]
         public int age(int _employeeAge = employeeAge)
         {
             employeeAge = _employeeAge;
             return employeeAge;
         }
-
+    ```
 7.  Right-click the **EmployeeTest** class, click **New**, and then click **Method**.
     
     Replace the code in the **Editor** window with the following code and save your changes. This creates a class member called birthDate and applies the DataMemberAttribute attribute to it.
-    
+    ```X++
         [DataMemberAttribute]
         public utcdatetime birthDate(utcdatetime _employeeBirthDate = employeeBirthDate)
         {
             employeeBirthDate = _employeeBirthDate;
             return employeeBirthDate;
         }
-
+    ```
 ## Create the Service Contract
 
 After you have created a data contract, you must now create the service contract in the AOT. The service contract is implemented by the class that is exposed as a service by using the data contract you just created. It is also referred to as the service class. The methods in this class become the service operations.
@@ -112,7 +112,7 @@ To make the service available after you create the service contract, you must de
 5.  Right-click the **EmployeeServiceContractTestClass**, click **New**, and then click **Method**.
     
     Replace the code in the **Editor** window with the following code. This creates a class method called getEmployee which returns the data contract class EmployeeTest.
-    
+    ```X++
         [SysEntryPointAttribute(true)]
         public EmployeeTest getEmployee()
         {
@@ -129,7 +129,7 @@ To make the service available after you create the service contract, you must de
         
             return employee;
         }
-
+    ```
 ### To create the service contract
 
 1.  Open the AOT and expand the **Services** node.

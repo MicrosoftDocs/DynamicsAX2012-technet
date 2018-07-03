@@ -81,7 +81,7 @@ The following are additional characteristics of Ax \<Table\> classes:
 ## Default Field Values
 
 If default field values are not set by the initValue method, the Ax \<Table\> classes can set default field values that are not set by the calling code. If you must bypass default fields when you insert a record with the Ax \<Table\> class, the code that is calling an Ax \<Table\> class must explicitly set the defaulting procedures to false. Table fields can be defaulted in the Ax \<Table\> class by overriding the setTableFields method. The following code example is from the [AxSalesTable.setTableFields Method](https://technet.microsoft.com/en-us/library/gg937256\(v=ax.60\)).
-
+```X++
     protected void setTableFields()
     {
         SalesTableLinks     salesTableLinks;
@@ -111,9 +111,9 @@ If default field values are not set by the initValue method, the Ax \<Table\> c
         this.setEmail();
         // Code ommitted.
     }
-
+```
 The following example shows the accessor method parmCashDisc in AxSalesTable. This method sets the CashDisc field if the default is not set on the SalesTable.
-
+```X++
     public CustCashDiscCode parmCashDisc(CustCashDiscCode _cashDisc = '')
     {
         if (!prmisDefault(_cashDisc))
@@ -123,7 +123,7 @@ The following example shows the accessor method parmCashDisc in AxSalesTable. Th
     
         return salesTable.CashDisc;
     }
-
+```
 ## See also
 
 [Document Services Classes](document-services-classes.md)

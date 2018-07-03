@@ -120,7 +120,7 @@ The RDP class is a data provider that allows you to add business logic for the d
 3.  Expand **SrsRDPSampleClass**, right-click **classDeclaration**, and then click **View Code**.
 
 4.  In code editor, enter the following code in the class declaration to define the class.
-    
+    ```X++  
         [
             SRSReportQueryAttribute (querystr(Cust)),
             SRSReportParameterAttribute(classstr(SrsRDPContractSample))
@@ -129,7 +129,7 @@ The RDP class is a data provider that allows you to add business logic for the d
         {
             TmpCustTableSample tmpCust;
         }
-
+    ```
 ## Defining a Data Contract Class
 
 An RDP class must have a data contract if the report has one or more report parameters. This example defines three report parameters for account number, account statement, and whether to include tax. When you print the report, you can specify which data to print based on the report parameters. For example, you can specify to only print transactions for account number 4000.
@@ -145,7 +145,7 @@ A data contract is an X++ class with getters, setters, and the DataMemberAttribu
 3.  Expand **SrsRDPContractSample**, right-click **classDeclaration**, and then click **View Code**.
 
 4.  In code editor, enter the following code in the class declaration to define the class.
-    
+    ```X++  
         [DataContractAttribute]
         public class SrsRDPContractSample
         {
@@ -153,7 +153,7 @@ A data contract is an X++ class with getters, setters, and the DataMemberAttribu
             CustAccountStatement accountStmt;
             boolean inclTax;
         }
-
+    ```
 A data contract class has methods with the DataMemberAttribute attribute. The name that follows this attribute is the parameter name that displays in Visual Studio when you bind a report data set to the RDP class. In this section, add a method for each of the report parameters and name them parmAccountNum, parmAccountStmt, and parmInclTax.
 
 ### To define data contract methods
@@ -161,36 +161,36 @@ A data contract class has methods with the DataMemberAttribute attribute. The na
 1.  Right-click **SrsRDPContractSample**, point to **New**, and then click **Method**.
 
 2.  Edit the method so that it contains the following code.
-    
+    ```X++  
         [DataMemberAttribute("AccountNum")]
         public AccountNum parmAccountNum(AccountNum _accountNum = accountNum)
         {
             accountNum = _accountNum;
             return accountNum;
         }
-
+    ```
 3.  Right-click **SrsRDPContractSample**, point to **New**, and then click **Method**.
 
 4.  Edit the method so that it contains the following code.
-    
+    ```X++  
         [DataMemberAttribute("CustAccountStatement")]
         public CustAccountStatement parmAccountStmt(CustAccountStatement _accountStmt = accountStmt)
         {
             accountStmt = _accountStmt;
             return accountStmt;
         }
-
+    ```
 5.  Right-click **SrsRDPContractSample**, point to **New**, and then click **Method**.
 
 6.  Edit the method so that it contains the following code.
-    
+    ```X++  
         [DataMemberAttribute("InclTax")]
         public boolean parmInclTax(boolean _inclTax = inclTax)
         {
             inclTax = _inclTax;
             return inclTax;
         }
-
+    ```
 ## Defining a Method to Return Data to Reporting Services
 
 A method to return the processed data in the temporary table to Reporting Services is needed. In this section, add a method named **getTmpCustTable** and attach the SRSReportDataSetAttribute attribute to indicate the dataset for the report.
@@ -200,6 +200,7 @@ A method to return the processed data in the temporary table to Reporting Servic
 1.  Right-click **SrsRdpSampleClass**, point to **New**, and then click **Method**.
 
 2.  Edit the method so that it contains the following code.
+    ```X++  
     
         [SRSReportDataSetAttribute("TmpCust")]
         public TmpCustTableSample getTmpCustTable()
@@ -207,7 +208,7 @@ A method to return the processed data in the temporary table to Reporting Servic
             select * from tmpCust;
             return tmpCust;
         }
-
+    ```
 ## Adding Business Logic for the Report
 
 The business logic for this example prompts the end user for parameter values, processes business logic to generate data in a table, and then returns the table to render in the report.
@@ -219,7 +220,7 @@ The report business logic is provided in the processReport method. This method i
 1.  Right-click **SrsRdpSampleClass**, point to **Override method**, and then click **processReport**.
 
 2.  Edit the method so that it contains the following code.
-    
+    ```X++   
         public void processReport()
         {
             AccountNum              accountNumber;
@@ -304,7 +305,7 @@ The report business logic is provided in the processReport method. This method i
             }
             ttscommit;
         }
-
+    ```
 ## Creating a Reporting Project
 
 Next, create a reporting project in Microsoft Visual Studio. When you create a reporting project, you use the Report Model to create a Reporting Services report.

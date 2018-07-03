@@ -33,7 +33,7 @@ A data contract is an X++ class that has getters, setters and the DataContractAt
 
 The following example illustrates the code to declare a data contract class.
 
-
+```X++  
     [DataContractAttribute]
     public class SrsRDPContractSample
     {
@@ -41,46 +41,46 @@ The following example illustrates the code to declare a data contract class.
         CustAccountStatment accountStmt;
         boolean inclTax;
     }
-
+```
 A data contract class has methods with the DataMemberAttribute attribute. The name that follows the attribute is the parameter name that displays in Visual Studio when you bind a report data set to the RDP class. Add a method named parmAccountNum in code editor.
 
 The following example illustrates the code for the parmAccountNum method.
-
+```X++  
     [DataMemberAttribute("AccountNum")]
     public AccountNum parmAccountNum(AccountNum _accountNum = accountNum)
     {
         accountNum = _accountNum;
         return accountNum;
     }
-
+```
 Add a method named parmAccountStmt in code editor.
 
 The following example illustrates the code for the parmAccountStmt method.
-
+```X++  
     [DataMemberAttribute("CustAccountStatement")]
     public CustAccountStatement parmAccountStmt(CustAccountStatement _accountStmt = accountStmt)
     {
         accountStmt = _accountStmt;
         return accountStmt;
     }
-
+```
 Add a method named parmInclTax in code editor.
 
 The following example illustrates the code for the parmInclTax method.
-
+```X++  
     [DataMemberAttribute("InclTax")]
     public boolean parmInclTax(boolean _inclTax = inclTax)
     {
         inclTax = _inclTax;
         return inclTax;
     }
-
+```
 ### To define a report data provider class
 
 An RDP class extends the SRSReportDataProviderBase class. You set the SRSReportParameterAttribute attribute to the data contract you created for the RDP class. The data contract defines the parameters that the report uses. You set the SRSReportQueryAttribute attribute to the query specified in the parmQuery method in the RDP class.
 
 The following example illustrates an RDP class declaration that uses the SrsRDPContractSample data contract class and the Cust query.
-
+```X++  
     [
         SRSReportQueryAttribute('Cust'),
         SRSReportParameterAttribute(classstr(SrsRDPContractSample))
@@ -89,7 +89,7 @@ The following example illustrates an RDP class declaration that uses the SrsRDPC
     {
         TmpCustTableSample tmpCust;
     }
-
+```
 Your code will get parameters from the end user, process business logic to generate data in a table and then return the table to render in the report. You will define a method that returns a table of the data that you process in the RDP class.
 
 A table returned by a method can be a temporary table (InMemory or TempDB) or a regular table. When the data returned is used for reporting only, it is a best practice to use a temporary table.
@@ -107,18 +107,18 @@ You can have one or more methods return tables.
 
 
 The following example illustrates an RDP class method named getTmpCustTable.
-
+```X++  
     [SRSReportDataSetAttribute('TmpCust')]
     public TmpCustTableSample getTmpCustTable()
     {
         select * from tmpCust;
         return tmpCust;
     }
-
+```
 You will provide the report business logic in the processReport method. Override the processReport method to provide business logic for your report.
 
 The following example illustrates how the processReport method computes data and populates the data tables that will be returned to Reporting Services.
-
+```X++  
     public void processReport()
     {
         AccountNum              accntNum;
@@ -200,7 +200,7 @@ The following example illustrates how the processReport method computes data and
         }
         ttscommit;
     }
-
+```
  The next step is to create a report using the Visual Studio tools for Microsoft Dynamics AX. For more information, see [Creating Reports Overview](creating-reports-overview.md). For the complete steps to bind a report data provider class to a report, see [Walkthrough: Creating a Report Bound to a Report Data Provider Class (X++ Business Logic)](walkthrough-creating-a-report-bound-to-a-report-data-provider-class-x-business-logic.md).
 
 ## See also

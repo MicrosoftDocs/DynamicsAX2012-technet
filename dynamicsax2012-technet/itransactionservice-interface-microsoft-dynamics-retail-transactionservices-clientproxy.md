@@ -21,7 +21,7 @@ dev_langs:
 
 ## Syntax
 
-``` vb
+``` VB
 'Declaration
 <ServiceContractAttribute(Namespace := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService",  _
     ConfigurationName := "Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.ITransactionService")> _

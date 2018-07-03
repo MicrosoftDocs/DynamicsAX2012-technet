@@ -40,7 +40,7 @@ The following job creates a table hierarchy in the Application Object Tree (AOT)
   - A table that derives from the TestParty table named TestPerson.
 
 <!-- end list -->
-
+```X++  
     static void CreateHierarchicalTables(Args _args)
     {
     
@@ -132,11 +132,11 @@ The following job creates a table hierarchy in the Application Object Tree (AOT)
         tableNode.AOTcompile();
         tableNode.AOTrefresh();
     }
-
+```
 ### Add Data to the Hierarchical Tables
 
 The following job adds data to the test tables created in the previous step.
-
+```X++  
     static void AddHierarchicalTableData(Args _args)
     {
         // Add data to the TestOrganization table.
@@ -179,11 +179,11 @@ The following job adds data to the test tables created in the previous step.
         person.insert();
     
     }
-
+```
 ### Create the Hierarchical Query
 
 The following job creates a query that accesses the hierarchical tables.
-
+```X++  
     static void CreateHierarchicalQuery(Args _args)
     {
         TreeNode                treeNode;
@@ -210,7 +210,7 @@ The following job creates a query that accesses the hierarchical tables.
             query.AOTsave();
          }
     }
-
+```
 ## Date Effective Table and Data
 
 The following jobs create a table that implements date effective fields and populate the table with sample data. In this scenario, the table contains employees. Multiple records for a single employee can occur in the table, but each record must have different values for the ValidFrom and ValidTo fields, and there can be no overlap in the dates. For more information about date effective tables and fields, see [Valid Time State Tables and Date Effective Data](https://technet.microsoft.com/en-us/library/gg861781\(v=ax.60\)).
@@ -218,7 +218,7 @@ The following jobs create a table that implements date effective fields and popu
 ### Create the Date Effective Table
 
 The following job creates a table that contains date effective fields.
-
+```X++  
     static void AddDateEffectiveTable(Args _args)
     {
         #AOT
@@ -271,11 +271,11 @@ The following job creates a table that contains date effective fields.
     
         tableNode.AOTrefresh();
     }
-
+```
 ### Add Data to the Date Effective Table
 
 The following job adds data to the date effective table created in the previous step.
-
+```X++  
     static void AddDateEffectiveTableData(Args _args)
     {
         // Add data to the TestEmployee table.
@@ -306,7 +306,7 @@ The following job adds data to the date effective table created in the previous 
         
         ttscommit;
     }
-
+```
 ## See also
 
 [Walkthrough: Using the Query Service to Query Tables in a Hierarchy](walkthrough-using-the-query-service-to-query-tables-in-a-hierarchy.md)

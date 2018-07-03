@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 In Microsoft Dynamics AX 2009, the administrative tool named **Microsoft Dynamics AX Server Configuration Utility** offered an option that was labeled **Allow INDEX hints on queries**. Access to this configuration option is no longer available in the configuration utility for Microsoft Dynamics AX 2012, and the option is deprecated. In the system the option’s value is **False** by default.
 
 Any legacy X++ select statements that include the index hint clause still run fine in Microsoft Dynamics AX 2012. But due to the default value of **False**, the index hint clause is now *ignored*, such as in the following code example:
-
+```X++  
     static void Main(Args _args)    // X++
     {
         CustTable custTableBuffer;
@@ -58,7 +58,7 @@ Any legacy X++ select statements that include the index hint clause still run fi
           (MAINCONTACTWORKER=0)
         )
     *****/
-
+```
 ## Overview
 
 <table>

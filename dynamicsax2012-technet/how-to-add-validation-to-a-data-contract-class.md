@@ -50,7 +50,7 @@ For RDL data contracts, the [SrsReportRdlDataContract](https://technet.microsoft
 2.  Double-click the new class to open the **classDeclaration** in Code Editor.
 
 3.  An RDL data contract must extend the [SrsReportRdlDataContract](https://technet.microsoft.com/en-us/library/gg939600\(v=ax.60\)) class and implement the [SysOperationValidatable](https://technet.microsoft.com/en-us/library/gg963711\(v=ax.60\)) interface. The naming convention is \[ReportName\]RDLContract. The following code example illustrates the classDeclaration of the Hcmi9DocumentExpireListRdlContract data contract class that is used for the HCM i9 document expire list report. The FromDate and ToDate are examples using date effectivity.
-    
+    ```X++  
         /// <summary>
         /// The <c>Hcmi9DocumentExpireListRdlContract</c> class is the <c>RdlContract</c> class for the
         /// <c>Hcmi9DocumentExpireList</c> report.
@@ -64,11 +64,11 @@ For RDL data contracts, the [SrsReportRdlDataContract](https://technet.microsoft
             #define.parameterFromDate('FromDate')
             #define.parameterToDate('ToDate')
         } 
-
+    ```
 4.  In the AOT, right-click the new class you created, point to **New**, and then click **Method**.
 
 5.  In the Code Editor, provide validation logic for the parameters. The following example illustrates the validation logic for the Hcmi9DocumentExpireListRdlContract data contract class parameters.
-    
+    ```X++  
         /// <summary>
         /// Validates the parameters.
         /// </summary>
@@ -90,7 +90,7 @@ For RDL data contracts, the [SrsReportRdlDataContract](https://technet.microsoft
             }
             return isValid;
         }
-
+    ```
 ## Adding Validation to RDP Data Contracts
 
 For RDP data contracts, implement the validate method and return True or False to indicate whether the parameter is valid. It is required to attach the DataContractAttribute attribute. The SysOperationContractProcessingAttribute attribute is optional. Attach the SysOperationContractProcessingAttribute attribute to use a custom UI builder with the contract class. Otherwise, the framework UI builder will be used to render the UI for dealing with the parameters when the report is run. To report a validation error, use the error method and write to the infolog. The error messages in the infolog will be marshaled from the service to the client and then rendered. Do not throw an error.
@@ -102,7 +102,7 @@ For RDP data contracts, implement the validate method and return True or False t
 2.  Double-click the new class to open the **classDeclaration** in Code Editor.
 
 3.  An RDP data contract must implement the [SysOperationValidatable](https://technet.microsoft.com/en-us/library/gg963711\(v=ax.60\)) interface. The naming convention is \[ReportName\]Contract. The following code example illustrates the classDeclaration of the AssetDueReplacementContract data contract class that is used for the asset due replacement report.
-    
+    ```X++  
         /// <summary>
         /// The <c>AssetDueReplacementContract</c> class is used as the data contract for the <c>AssetDueReplacement</c> SSRS report.
         /// </summary>
@@ -118,11 +118,11 @@ For RDP data contracts, implement the validate method and return True or False t
             Name dimension;
             NoYes includeSubTotal;
         }
-
+    ```
 4.  In the AOT, right-click the new class you created, point to **New**, and then click **Method**.
 
 5.  In the Code Editor, provide validation logic for the parameters. The following example illustrates the validation logic for the AssetDueReplacementContract data contract class parameters.
-    
+    ```X++  
         /// Determines whether the parameters are valid.
         /// </summary>
         /// <returns>
@@ -145,6 +145,6 @@ For RDP data contracts, implement the validate method and return True or False t
             }
             return isValid;
         }
-
+    ```
 For more information and examples, see the [Report Programming Guide](http://go.microsoft.com/fwlink/?linkid=230569).
 

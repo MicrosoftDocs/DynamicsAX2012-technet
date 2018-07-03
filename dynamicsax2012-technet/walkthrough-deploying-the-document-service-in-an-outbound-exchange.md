@@ -211,7 +211,7 @@ The canXMLBeSent method makes sure that an integration port has been configured 
 2.  Right-click **Methods**, and then click **New method**.
 
 3.  In the code editor, copy the following code into the new method.
-    
+    ```X++  
         boolean canXMLBeSent()
         {
             boolean ret;
@@ -238,7 +238,7 @@ The canXMLBeSent method makes sure that an integration port has been configured 
             }
             return ret;
         }
-
+    ```
 The sendElectronically method gets the entity key for the selected journal, calls the method that retrieves the data, serializes that data into an XML message, and then sends the document to the gateway queue.
 
 ### To add code to the sendElectronically table method
@@ -246,7 +246,7 @@ The sendElectronically method gets the entity key for the selected journal, call
 1.  In the AOT, in the **LedgerJournalTable** table, right-click the **Methods** node, and then click **New method**.
 
 2.  In the code editor, copy the following code into the new method.
-    
+    ```X++  
         void sendElectronically(XMLDocPurpose _xMLDocPurpose, 
                                 AifSendMode _aifSendMode = AifSendMode::Async)
         {
@@ -275,7 +275,7 @@ The sendElectronically method gets the entity key for the selected journal, call
                 _aifSendMode,
                 axdSendContext.pack());
         }
-
+    ```
 
 > [!NOTE]
 > <P>Parallel processing distributes the processing of messages across one or more instances of Application Object Server (AOS). To enable parallel processing for outbound messages, you use two optional parameters, processingMode and conversationID, in the call to the <A href="https://technet.microsoft.com/en-us/library/gg742775(v=ax.60)">AifSendServicesubmitDefault()</A> method.</P>
@@ -301,7 +301,7 @@ In this section you will add code to the clicked events for the **SendXMLOrigina
 4.  Right-click the **Methods** node, click **Override Method**, and then select **clicked**.
 
 5.  In the code editor, enter the following code in the clicked event.
-    
+    ```X++  
         void clicked()
         {
             LedgerJournalTable  ledgerJournalTableLocal;
@@ -326,7 +326,7 @@ In this section you will add code to the clicked events for the **SendXMLOrigina
                 // warning (strfmt("@SYSnnnnn",ledgerJournalTableLocal.JournalNum));
             }
         }
-
+    ```
 6.  Repeat steps 1 through 3 for the **MenuItemButton:SendXMLDuplicate** control.
 
 7.  In the clicked event of the **MenutItemButton:SendXMLDuplicate** button control, change XMLDocPurpose::Original to XMLDocPurpose::Duplicate.

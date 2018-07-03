@@ -22,7 +22,7 @@ Follow these steps to generate a schema (.xsd) for a document:
 1.  In the AOT, navigate to the **Jobs** node, right-click, and select **New job**.
 
 2.  Enter the following code in the editor window, overwriting any existing code.
-    
+    ```X++
         static void GenerateXSDSchema_Customer(Args _args)
         {
             CustCustomer        customer;
@@ -45,7 +45,7 @@ Follow these steps to generate a schema (.xsd) for a document:
             xmlDocument.save(fileName);
             CodeAccessPermission::revertAssert();
         }
-
+    ```
 3.  Save your changes.
 
 4.  Right-click the **GenerateXSDSchema\_Customer** job, and then click **Open**. This creates the schema file XSDSchema\_Customer.xsd on the C: drive.

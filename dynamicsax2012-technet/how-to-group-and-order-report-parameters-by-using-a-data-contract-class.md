@@ -50,7 +50,7 @@ A data contract class defines the following properties of a group:
 3.  Expand **SrsRDPContractSample**, right-click **classDeclaration**, and then click **Code**.
 
 4.  Enter the following code in the class declaration to define the class.
-    
+    ```X++  
         [
             DataContractAttribute,
             SysOperationGroupAttribute("AccountsGroup", "@SYS313802", "1", FormArrangeMethod::Vertical),
@@ -62,7 +62,7 @@ A data contract class defines the following properties of a group:
             CustAccountStatement accountStmt;
             boolean inclTax;
         }
-
+    ```
 ## Defining the Order of Report Parameters in a Data Contract Method
 
 A data contract method defines a report parameter. Each report parameter requires a separate data contract method. You can use a data contract method to indicate that a report parameter belongs to a group. You can also specify the order in which the parameter is displayed relative to the other report parameters in the group.
@@ -82,7 +82,7 @@ This section describes how to create a data contract method and configure it in 
 1.  Right-click the **SrsRDPContractSample** class, point to **New**, and then click **Method**.
 
 2.  Edit the method so that it contains the following code.
-    
+    ```X++  
         [
             DataMemberAttribute("AccountNum"),
             SysOperationGroupMemberAttribute("AccountsGroup"),
@@ -93,7 +93,7 @@ This section describes how to create a data contract method and configure it in 
             accountNum = _accountNum;
             return accountNum;
         }
-
+    ```
 ## Next Steps
 
 To use the report parameter groups in the data contract class, define an RDP class. A data contract class defines the report parameters that an RDP class references. For the complete procedure, see [How to: Use a Report Data Provider Class in a Report](how-to-use-a-report-data-provider-class-in-a-report.md). You then use the Visual Studio Reporting Tools for Microsoft Dynamics AX to define a report that has a dataset that is bound to the RDP class. For information about how to bind an RDP class to a report, see [Walkthrough: Creating a Report Bound to a Report Data Provider Class (X++ Business Logic)](walkthrough-creating-a-report-bound-to-a-report-data-provider-class-x-business-logic.md).

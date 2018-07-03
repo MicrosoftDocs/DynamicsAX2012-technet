@@ -16,14 +16,14 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 When you use the AIF Document Service Wizard to create a service in Microsoft Dynamics AX, it adds the method type attribute to each service class method that is exposed as a service operation. The method type attribute corresponds to the action that the method performs: create, read, update, delete, find, getKeys, getChangedKeys, and findKeys.
 
 The following code shows the CustCustomerService.delete method decorated with the AifDocumentDeleteAttribute attribute.
-
+```X++  
     [AifDocumentDeleteAttribute, SysEntryPointAttribute(true)] 
     public void delete(AifEntityKeyList _entityKeyList)
     {
         CustCustomer custCustomer = new CustCustomer();
         this.deleteList(_entityKeyList, custCustomer);
     }
-
+```
 
 > [!NOTE]
 > <P>The <A href="https://technet.microsoft.com/en-us/library/gg958657(v=ax.60)">SysEntryPointAttribute</A> is required to be set for service operations. For more information, see <A href="setting-sysentrypointattribute-for-services.md">Setting SysEntryPointAttribute for Services</A>.</P>

@@ -2,7 +2,7 @@
 title: Document Schema Rules
 TOCTitle: Document Schema Rules
 ms:assetid: 38458b10-5803-4320-89cc-0db6076f0e41
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa636469(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/en-us/library/    
 ms:contentKeyID: 35242832
 ms.date: 11/07/2012
 mtps_version: v=AX.60
@@ -205,7 +205,7 @@ Some documents contain time zone elements. The schema time zone values correspon
 
 The valid time zone values are specified in the document schema as shown in the following XML.
 
-``` xml
+```XML  
 <xs:simpleType name="AxdEnum_Timezone">
     <xs:annotation>
         <xs:documentation xml:lang="EN-US">:</xs:documentation>

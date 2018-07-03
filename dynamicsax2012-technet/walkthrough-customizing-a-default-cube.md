@@ -52,7 +52,7 @@ You can modify an existing KPI to display custom information.
 3.  In the **KPI Organizer**, click the Sales KPI.
 
 4.  For the **Status expression** field, revise the expression so that it matches the following.
-    
+    ```VBScript  
         Case
           When 
             KpiValue("Sales") / KpiGoal("Sales") >= .80
@@ -64,7 +64,7 @@ You can modify an existing KPI to display custom information.
           Then 0
           Else-1
         End
-    
+    ``` 
     This expression provides a basis from which to evaluate progress toward meeting a goal. The status graphic that displays is based on the value the expression returns. The new expression will display the **Gauge** status indicator with the following characteristics:
     
       - The hand is in the green region if the KPI value is within 80 percent of reaching the sales goal
@@ -94,19 +94,19 @@ In the following procedure, you will create a KPI that reports the average reven
 5.  For the **Name** filed, type **Average Revenue per Sale**.
 
 6.  For the **Value Expression** field, type the following expression.
-    
+    ```VBScript  
         [Measures].[Invoice revenue]/[Measures].[Sales count]
-    
+    ```
     This expression divides the total invoice revenue by the number of sales.
 
 7.  For the **Goal Expression** field, type the following.
-    
+    ```VBScript  
         17000
-    
+    ```
     This number represents the goal for the average revenue per sale.
 
 8.  For the **Status expression** field, type the following expression.
-    
+    ```VBScript  
         Case
           When 
             KpiValue("Average Revenue per Sale") / KpiGoal("Average Revenue per Sale") >= 1
@@ -118,7 +118,7 @@ In the following procedure, you will create a KPI that reports the average reven
           Then 0
           Else-1
         End
-    
+    ```
     This expression provides a basis from which to evaluate progress toward meeting a goal. The status graphic that displays is based on the value the expression returns. The new expression will display the **Gauge** indicator with the following characteristics:
     
       - The hand is in the green region if the KPI value reaches the revenue per sale goal
@@ -130,7 +130,7 @@ In the following procedure, you will create a KPI that reports the average reven
 9.  For the **Trend indicator** field, select the **Standard arrow** from the drop-down list.
 
 10. For the **Trend expression** field, type the following expression.
-    
+    ```VBScript  
         Case
           When 
             KpiValue("Average Revenue per Sale") < (KpiValue("Average Revenue per Sale"),
@@ -143,7 +143,7 @@ In the following procedure, you will create a KPI that reports the average reven
           Then 1
           Else 0
         End
-    
+    ```
     This expression provides a basis to evaluate the trend toward achieving the goal. The graphic that displays for the trend of the KPI depends upon what value this expression evaluates to.
 
 11. On the **Build** menu, click **Deploy Dynamics AX**. Click **Yes** to overwrite the database. Deploying the project may take several minutes.

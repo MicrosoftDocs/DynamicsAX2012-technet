@@ -44,12 +44,12 @@ When adding a service operation, the first step is to add the method to the serv
 2.  Right-click the class, click **New**, and then click **Method**.
 
 3.  In the **Editor** window, enter the following code.
-    
+    ```X++
         public int addIntegers(int _int1, int _int2)
         {
             return _int1 + _int2;
         }
-
+    ```
 4.  Press F7 to compile and then press CTRL+S to save your changes.
 
 If you add a custom method to a document service that performs one of the create, read, delete, update, find, getKeys, getChangedKeys, or findKeys actions, you should add the appropriate method type attribute to the method. For more information, see [Method Type Attribute](method-type-attribute.md). You must also add the [SysEntryPointAttribute](https://technet.microsoft.com/en-us/library/gg958657\(v=ax.60\)) to any custom method. For more information, see [Setting SysEntryPointAttribute for Services](setting-sysentrypointattribute-for-services.md).

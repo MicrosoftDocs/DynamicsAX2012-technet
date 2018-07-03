@@ -192,7 +192,7 @@ A custom authentication component has two parts:
 The AifAuthenticationManagerInterface is used by the services framework to obtain information that is used to configure and deploy the custom authentication runtime component.
 
 The following code shows the interface. The interface methods are described in comments.
-
+```X++
     interface AifAuthenticationManager
     {
         AifAuthenticationManagerName getName(); // Returns the friendly name of the component that is displayed in the Windows Azure ServiceBus configuration form.
@@ -208,7 +208,7 @@ The following code shows the interface. The interface methods are described in c
         MenuItemNameDisplay getConfigurationDisplayMenuItem; //the name of the display menu item for the configuration form of this component. Returns the empty string if no configuration form is available.
     
     }
-
+```
 ## Create the .NET authentication component
 
 A .NET class that implements the following interfaces can perform custom authentication:
@@ -220,23 +220,23 @@ A .NET class that implements the following interfaces can perform custom authent
 The System.ServiceModel.ServiceAuthenticationManager interface contains the ReadOnlyCollection method that inspects the request message and headers, performs the custom authentication, and sets the authenticated principal on the message as a property.
 
 The following code shows the signature of the ReadOnlyCollection method.
-
+```X++
     ReadOnlyCollection<IAuthorizationPolicy> Authenticate(
         ReadOnlyCollection<IAuthorizationPolicy> authPolicy, 
         Uri listenUri, 
         ref Message message)
-
+```
 The System.IdentityModel.Policy.IAuthorizationPolicy interface contains the Evaluate method shown in the following example:
-
+```X++
     bool Evaluate(  
     EvaluationContext evaluationContext,
     ref Object state
     )
-
+```
 You implement the Evaluate method to set the authenticated principal and identity on the security context of the message.
 
 The following example shows an implementation of the .NET authentication components.
-
+```X++
     using System;
     using System.ServiceModel;
     using System.Collections.ObjectModel;
@@ -333,7 +333,7 @@ The following example shows an implementation of the .NET authentication compone
             }
         }
     }
-
+```
 ## Register the authentication component
 
 Before an authentication component can be used, it must be registered with the Services framework. The registerAuthenticationManager and unregisterAuthenticationManager methods on the AifAuthenticationHelper class must be used to register and unregister the authentication component. You create an X++ job that calls these X++ methods to register and unregister the authentication components. When a component is registered, the .NET assembly is uploaded to the database so that it can be accessed by all AOS instances. You must grant read permission to the AOS service account to the file path that contains the component so that the file can be uploaded to the database.
@@ -345,7 +345,7 @@ For more information about the AOS service account, see the following topics:
   - [Change the account used by AOS](change-the-account-used-by-aos.md)
 
 The following code shows the signature for the registerAuthenticationManager method:
-
+```X++
     static public void registerAuthenticationManager(
         AifAuthenticationManagerClass authenticationManagerClass, // Class ID of the X++ authentication manager class that implements the AifAuthenticationManager interface.
     
@@ -353,7 +353,7 @@ The following code shows the signature for the registerAuthenticationManager met
     
         boolean updateExisting = false //flag indicating that any existing assembly in the database should updated with the assembly in the folder. 
     )
-
+```
 The method unregisterAuthenticationManager takes one parameter authenticationManagerClass that is the class ID of the X++ authentication manager class.
 
 ## Create and configure encryption key containers

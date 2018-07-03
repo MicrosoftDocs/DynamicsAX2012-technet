@@ -30,14 +30,14 @@ A document service class is the top-level class that provides an external interf
 ## Document Service Classes
 
 The service class is the top-level class that is exposed as a service through the Application Object Tree (AOT). You can view service classes in the **Classes** node in the AOT. The service classes are exposed as services, which you can view in **Services** node in the AOT. Each service class is derived from the AifDocumentService class. The service methods delegate their operations to the AifDocumentService class. For example, the SalesSalesOrderService.read method calls the AifDocumentService.readList method as shown in the following code.
-
+```X++  
     public SalesSalesOrder read(AifEntityKeyList _entityKeyList)
     {
         SalesSalesOrder salesSalesOrder = new SalesSalesOrder();
         this.readList(_entityKeyList, salesSalesOrder);
         return salesSalesOrder;
     }
-
+```
 The service class implements the methods that are needed to perform operations on the data. These methods are exposed as service operations by the service. For more information, see [Document Class Service Operations](document-class-service-operations.md).
 
 ## Data Object Classes
