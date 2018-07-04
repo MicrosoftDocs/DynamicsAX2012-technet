@@ -51,7 +51,8 @@ A data contract class defines the following properties of a group:
 
 4.  Enter the following code in the class declaration to define the class.
     
-        [
+       ```X++
+       [
             DataContractAttribute,
             SysOperationGroupAttribute("AccountsGroup", "@SYS313802", "1", FormArrangeMethod::Vertical),
             SysOperationGroupAttribute("TaxGroup", "@SYS130006", "2")
@@ -62,6 +63,7 @@ A data contract class defines the following properties of a group:
             CustAccountStatement accountStmt;
             boolean inclTax;
         }
+       ```
 
 ## Defining the Order of Report Parameters in a Data Contract Method
 
@@ -83,7 +85,8 @@ This section describes how to create a data contract method and configure it in 
 
 2.  Edit the method so that it contains the following code.
     
-        [
+       ```X++
+       [
             DataMemberAttribute("AccountNum"),
             SysOperationGroupMemberAttribute("AccountsGroup"),
             SysOperationDisplayOrderAttribute("1")
@@ -93,6 +96,7 @@ This section describes how to create a data contract method and configure it in 
             accountNum = _accountNum;
             return accountNum;
         }
+       ```
 
 ## Next Steps
 

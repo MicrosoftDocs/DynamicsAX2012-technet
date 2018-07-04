@@ -45,10 +45,12 @@ When adding a service operation, the first step is to add the method to the serv
 
 3.  In the **Editor** window, enter the following code.
     
-        public int addIntegers(int _int1, int _int2)
+       ```X++
+       public int addIntegers(int _int1, int _int2)
         {
             return _int1 + _int2;
         }
+       ```
 
 4.  Press F7 to compile and then press CTRL+S to save your changes.
 

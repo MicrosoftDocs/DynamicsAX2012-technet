@@ -39,11 +39,13 @@ An RDP class must have a data contract if the report has one or more report para
 
 <!-- end list -->
 
-    [DataContractAttribute]
+   ```X++
+   [DataContractAttribute]
     public class SrsRDPNestedContractSample
     {
         boolean inclTax;
     }
+   ```
 
 A data contract class has methods with the DataMemberAttribute attribute. The name that follows the attribute is the parameter name that displays in Visual Studio when you bind a report data set to the RDP class. The following example illustrates a data contract method for the nested data contract example.
 
@@ -55,12 +57,14 @@ A data contract class has methods with the DataMemberAttribute attribute. The na
 
 <!-- end list -->
 
-    [DataMemberAttribute(“InclTax”)]
+   ```X++
+   [DataMemberAttribute(“InclTax”)]
     public boolean parmInclTax(boolean _inclTax = inclTax)
     {
         inclTax = _inclTax;
         return inclTax;
     }
+   ```
 
 ## Use the Nested Data Contract
 
@@ -77,13 +81,15 @@ Next, use the nested data contract that you defined. By using the nested data co
 4.  In code editor, enter the following code in the class declaration to define the class.
 
 
-    [DataContractAttribute]
+   ```X++
+   [DataContractAttribute]
     public class SrsRDPContractSample
     {
         AccountNum = accountNum;
         CustAccountStatment accountStmt;
         SrsRdpNestedContractSample nestedContract;
     }
+   ```
 
 A data contract class has methods with the DataMemberAttribute attribute. In this section, add a method for each report parameter and name them parmAccountNum, parmAccountStmt, and parmNestedContract. The following example illustrates a data contract method named parmAccountNum.
 
@@ -93,34 +99,40 @@ A data contract class has methods with the DataMemberAttribute attribute. In thi
 
 2.  Edit the method so that it contains the following code.
     
-        [DataMemberAttribute(“AccountNum”)]
+       ```X++
+       [DataMemberAttribute(“AccountNum”)]
         public AccountNum parmAccountNum(AccountNum _accountNum = accountNum)
         {
             accountNum = _accountNum;
             return accountNum;
         }
+       ```
 
 3.  Right-click **SrsRDPContractSample**, point to **New**, and then click **Method**.
 
 4.  Edit the method so that it contains the following code.
     
-        [DataMemberAttribute("CustAccountStatement")]
+       ```X++
+       [DataMemberAttribute("CustAccountStatement")]
         public CustAccountStatement parmAccountStmt(CustAccountStatement _accountStmt = accountStmt)
         {
             accountStmt = _accountStmt;
             return accountStmt;
         }
+       ```
 
 5.  Right-click **SrsRDPContractSample**, point to **New**, and then click **Method**.
 
 6.  Edit the method so that it contains the following code.
     
-        [DataMemberAttribute]
+       ```X++
+       [DataMemberAttribute]
         public SrsRdpNestedContractSample parmNestedContract(SrsRdpNestedContractSample _nestedContract = nestedContract)
         {
             nestedContract = _nestedContract;
             return nestedContract;
         }
+       ```
 
 ### Create a Temporary Table
 
@@ -188,7 +200,8 @@ In this section you define an RDP class that uses the nested data contract. The 
 
 4.  In code editor, enter the following code in the class declaration to define the class.
     
-        [
+       ```X++
+       [
             SRSReportQueryAttribute(querystr(Cust)),
             SRSReportParameterAttribute(classstr(SrsRDPContractSample))
         ]
@@ -196,6 +209,7 @@ In this section you define an RDP class that uses the nested data contract. The 
         {
             TmpCustTableSample tmpCust;
         }
+       ```
 
 Your code gets parameters from the end user, processes business logic to generate data in a table, and then returns the table to display in the report. You define a method that returns a table of the data that you process in the RDP class to Reporting Services. In this section, add a method named getTmpCustTable and attach the SRSReportDataSetAttribute attribute to indicate the dataset for the report.
 
@@ -207,12 +221,14 @@ Your code gets parameters from the end user, processes business logic to generat
 
 <!-- end list -->
 
-    [SRSReportDataSetAttribute(“TmpCust”)]
+   ```X++
+   [SRSReportDataSetAttribute(“TmpCust”)]
     public TmpCustTableSample getTmpCustTable()
     {
         select * from tmpCust;
         return tmpCust;
     }
+   ```
 
 You will provide the report business logic in the processReport method. The processReport method computes data and populates the data tables that are returned to Reporting Services. Override the processReport method to provide business logic for your report. The following example gets the value of the boolInclTax parameter from the nested data contract.
 
@@ -222,7 +238,8 @@ You will provide the report business logic in the processReport method. The proc
 
 <!-- end list -->
 
-    public void processReport()
+   ```X++
+   public void processReport()
     {
         AccountNum              accntNum;
         CustAccountStatement    custAcctStmt;
@@ -306,6 +323,7 @@ You will provide the report business logic in the processReport method. The proc
         }
         ttscommit;
     }
+   ```
 
  The next step is to create a report bound to the RDP class by using the Visual Studio tools for Microsoft Dynamics AX.
 
