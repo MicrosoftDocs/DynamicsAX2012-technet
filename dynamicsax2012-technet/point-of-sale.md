@@ -359,14 +359,10 @@ The following tables describe the configuration tasks that you must complete in 
 <td><p>Assign product assortments to the store</p></td>
 <td><p>The assortment that is assigned to a store contains a list of products that are available in the store.</p>
 <div class="alert">
-<div class="mtps-table">
-<div class="mtps-row">
-<img src="images/Dn527205.alert_note(AX.60).gif" title="Note" alt="Note" class="note" /><strong>Note</strong>
-</div>
-<div class="mtps-row">
-You can assign the retail store to an existing assortment or create a new assortment for the retail store.
-</div>
-</div>
+
+> [!NOTE]  
+> You can assign the retail store to an existing assortment or create a new assortment for the retail store.
+
 </div></td>
 <td><p><a href="set-up-an-assortment.md">Set up an assortment</a></p></td>
 </tr>

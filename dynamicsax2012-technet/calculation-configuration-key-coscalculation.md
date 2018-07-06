@@ -93,7 +93,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="allocation-configuration-key-cosallocation.md">Allocation configuration key (COSAllocation)</a></p>
 <p><a href="cost-distribution-configuration-key-coscostdistribution.md">Cost Distribution configuration key (COSCostDistribution)</a></p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

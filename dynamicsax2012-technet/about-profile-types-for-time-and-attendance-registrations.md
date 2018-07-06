@@ -70,7 +70,7 @@ The following table contains examples of profile types.
 <tr class="odd">
 <td><p><strong>Supplement pay or bonus</strong></p></td>
 <td><p>If some workers are qualified to receive supplemental pay or bonuses, specific profile types can be created for those purposes.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!TIP]
 > <P>You can create any number of profile types. To create a profile type that is not associated with a standard profile specification type, you can leave the <STRONG>Profile specification type</STRONG> field in the <STRONG>Profile types</STRONG> form blank.</P>

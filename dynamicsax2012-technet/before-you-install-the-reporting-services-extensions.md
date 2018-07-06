@@ -82,7 +82,7 @@ Use the following procedure to configure the Reporting Services instance.
     <li><p>If you installed the default configuration for native mode, no action is required. The service account is set to the account that you specified when you installed the Reporting Services instance.</p></li>
     <li><p>If you installed but did not configure the report server, select the Network Service built-in account.</p></li>
     </ul>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!NOTE]
     > <P>When you install the Reporting Services extensions, the Business Connector proxy account is automatically assigned as the service account for the Reporting Services instance.</P>
@@ -109,7 +109,7 @@ Use the following procedure to configure the Reporting Services instance.
     <tr class="odd">
     <td><p>Execution Account</p></td>
     <td><p>Take no action.</p>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!NOTE]
     > <P>When you install the Reporting Services extensions, the Business Connector proxy account is automatically assigned as the execution account for the Reporting Services instance.</P>
@@ -241,7 +241,7 @@ If you are using Reporting Services 2012 or 2014, follow these steps to configur
     <tr class="odd">
     <td><ul>
     <li><p><a href="http://technet.microsoft.com/en-us/library/gg492276.aspx">Install Reporting Services SharePoint Mode for SharePoint 2010</a></p>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!IMPORTANT]
     > <P>When installing Reporting Services 2012 in SharePoint integrated mode, be sure that you <STRONG>do not</STRONG> mark the <STRONG>Reporting Services – Native</STRONG> option on the <STRONG>Feature Selection</STRONG> page of the SQL Server Setup Wizard.</P>
@@ -253,7 +253,7 @@ If you are using Reporting Services 2012 or 2014, follow these steps to configur
     </ul></td>
     <td><ul>
     <li><p><a href="http://msdn.microsoft.com/en-in/library/jj219068.aspx">Install Reporting Services SharePoint Mode for SharePoint 2013</a></p>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!IMPORTANT]
     > <P>When installing Reporting Services 2012 in SharePoint integrated mode, be sure that you <STRONG>do not</STRONG> mark the <STRONG>Reporting Services – Native</STRONG> option on the <STRONG>Feature Selection</STRONG> page of the SQL Server Setup Wizard.</P>

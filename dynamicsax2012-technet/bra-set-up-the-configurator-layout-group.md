@@ -194,7 +194,7 @@ Use the **Configurator layout groups** form to set up a configurator layout grou
         <li><p>The second nnn indicates the number of decimal places after the separator.</p></li>
         </ul>
         <p>For example, 9(8)V9(5) is an eight-digit number that has five decimal places.</p>
-        <div class="alert">
+        <div class="alert"> 
 
         > [!NOTE]
         > <P>You can also use the format 9(nnn)9(nnn) when there is no separator between the integer and decimal values of the number.</P>

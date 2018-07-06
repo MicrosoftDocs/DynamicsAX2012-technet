@@ -175,7 +175,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain customer deductions information</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>

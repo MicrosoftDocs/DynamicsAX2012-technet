@@ -108,7 +108,7 @@ Click **Project management and accounting** \> **Setup** \> **Project management
 <tr class="even">
 <td><p><strong>Vendor contract language</strong></p></td>
 <td><p>Enter text to print on purchase orders for vendor retentions and pay-when-paid contract terms.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>

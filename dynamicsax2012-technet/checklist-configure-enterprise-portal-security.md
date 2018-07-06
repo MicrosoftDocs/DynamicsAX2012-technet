@@ -63,7 +63,7 @@ Table 2: Security tasks for extranet deployments
 <tbody>
 <tr class="odd">
 <td><p>Enhance Enterprise Portal security in extranet deployments by using two domain controllers and two firewalls. This deployment model is called a traditional perimeter network.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!TIP]
 > <P>If you prefer not to deploy Enterprise Portal with multiple domain controllers, you can authenticate Enterprise Portal users by using claims-mode authentication. For more information, see the next item in this checklist.</P>

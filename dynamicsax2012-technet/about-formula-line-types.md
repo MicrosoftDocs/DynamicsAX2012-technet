@@ -32,7 +32,7 @@ When you create a formula line, you use the line type to indicate how you want t
 <tr class="odd">
 <td><p><strong>Phantom</strong></p></td>
 <td><p>Select <strong>Phantom</strong> when you want to explode any lower-level formula items that are contained in formula lines. When you estimate the batch order and the formula items are exploded, the component items are listed as formula lines in the batch order. Also, the corresponding routes are added to the production route. Formula items are exploded using the current configuration. When you use the phantom line type, you can handle production and measurement configurations that occur at different formula levels.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>If you select <STRONG>Phantom</STRONG> for a product on the <STRONG>Engineer</STRONG> FastTab in the <STRONG>Released product details</STRONG> form and then use this product in a formula, the formula line type changes to <STRONG>Phantom</STRONG>. You cannot select <STRONG>Phantom</STRONG> for a catch weight item or for items where the production type is <STRONG>Co-product</STRONG>, <STRONG>By-product</STRONG>, or <STRONG>Planning item</STRONG>.</P>

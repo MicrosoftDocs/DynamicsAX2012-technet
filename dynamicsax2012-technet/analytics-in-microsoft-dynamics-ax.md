@@ -203,7 +203,7 @@ After you have deployed cubes, complete the tasks, listed in the following table
 <tbody>
 <tr class="odd">
 <td><p>Update the OLAP data source</p></td>
-<td><div class="alert">
+<td><div class="alert"> 
 
 > [!NOTE]
 > <P>If you are using Microsoft Dynamics AX 2012 R2 or later, this task does not apply to you.</P>

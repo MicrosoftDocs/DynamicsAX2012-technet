@@ -69,7 +69,7 @@ The following table describes the Windows PowerShell cmdlets and the equivalent 
 <td><p>Get-AXModel</p></td>
 <td><p>axutil view</p></td>
 <td><p>Return a list of the models in the model store, or a list of the elements in a specific model or model file.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>Get-AXModel –details and axutil view /verbose return slightly different information.</P>

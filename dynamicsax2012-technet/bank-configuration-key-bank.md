@@ -218,7 +218,7 @@ The following table provides information about how this configuration key relate
 <p><a href="negotiable-instrument-configuration-key-custvendnegotiableinstrument.md">Negotiable instrument configuration key (CustVendNegotiableInstrument)</a></p>
 <p><a href="prenotes-configuration-key-prenotes.md">Prenotes configuration key (Prenotes)</a></p>
 <p><a href="bank-document-configuration-key-bankdocument.md">Bank document configuration key (BankDocument)</a></p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

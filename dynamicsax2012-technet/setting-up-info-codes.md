@@ -18,28 +18,8 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 The topics in this section provide information about how to set up Retail info codes.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><img src="images/Gg732282.alert_caution(AX.60).gif" title="Caution note" alt="Caution note" /><strong>Caution</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><div class="alert">
-
-> [!NOTE]
+> [!Caution]  
 > <P>In versions of Microsoft Dynamics AX 2012 prior to AX 2012 R3, info codes in Retail were called reason codes. This topic refers to info codes, but the information also pertains to Retail reason codes in earlier versions of AX 2012, unless otherwise indicated.</P>
-
-
-</div></td>
-</tr>
-</tbody>
-</table>
-
 
 [About info codes (Retail)](about-info-codes-retail.md)
 

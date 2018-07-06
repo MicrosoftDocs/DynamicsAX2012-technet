@@ -92,14 +92,10 @@ If there are issues with data distribution, more information is available in the
 <p>To open the <strong>Upload sessions</strong> form: Click <strong>Retail</strong> &gt; <strong>Inquiries</strong> &gt; <strong>Commerce Data Exchange</strong> &gt; <strong>Upload sessions</strong>.</p>
 <p>For more information about how to use these forms, see <a href="view-or-cancel-retail-data-distribution-sessions.md">View or cancel retail data distribution sessions</a>.</p>
 <div class="alert">
-<div class="mtps-table">
-<div class="mtps-row">
-<img src="images/Dn527205.alert_note(AX.60).gif" title="Note" alt="Note" class="note" /><strong>Note</strong>
-</div>
-<div class="mtps-row">
-To display complete status information in these forms, you must run the batch job that processes status messages for Commerce Data Exchange. For more information, see <a href="process-status-messages-for-data-exchange.md">Process status messages for data exchange</a>.
-</div>
-</div>
+
+> [!NOTE]  
+> To display complete status information in these forms, you must run the batch job that processes status messages for Commerce Data Exchange. For more information, see <a href="process-status-messages-for-data-exchange.md">Process status messages for data exchange</a>.
+
 </div></td>
 </tr>
 <tr class="even">

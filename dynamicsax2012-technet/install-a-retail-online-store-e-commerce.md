@@ -88,14 +88,10 @@ You must complete the following tasks before you deploy the Microsoft Dynamics A
 <td><p>Verify that SharePoint application pools are running in IIS</p></td>
 <td><p>Verify that all SharePoint application pools are running in IIS Manager.</p>
 <div class="alert">
-<div class="mtps-table">
-<div class="mtps-row">
-<img src="images/Gg732282.alert_caution(AX.60).gif" title="Important" alt="Important" class="note" /><strong>Important</strong>
-</div>
-<div class="mtps-row">
-If the SharePoint Web Services Root application pool is stopped, you must start it.
-</div>
-</div>
+
+> [!NOTE]  
+> If the SharePoint Web Services Root application pool is stopped, you must start it.
+
 </div></td>
 </tr>
 <tr class="even">
@@ -353,16 +349,11 @@ This section describes how to configure settings in the oob-settings.xml file.
     <tr class="even">
     <td><p><strong>StoreFront_DeviceChannelsListName</strong></p></td>
     <td><p>This value is the name of a SharePoint Design Manager list that stores device channels. For more information about device channel lists, see <a href="http://go.microsoft.com/fwlink/?linkid=394743">SharePoint 2013 Design Manager device channels</a>. The name of this value varies based on locale. For example, if you are deploying the online store by using the en-US locale then the name should be Device Channels. If you are deploying for an online store for fr-FR (French) locale then this name should be Canaux des appareils.</p>
-    <div class="alert">
-    <div class="mtps-table">
-    <div class="mtps-row">
-    <img src="images/Dn527205.alert_note(AX.60).gif" title="Note" alt="Note" class="note" /><strong>Note</strong>
-    </div>
-    <div class="mtps-row">
-    The value of this property and the value of the previous property (StoreFront_DeviceChannelsListName) work together. For example, an en-US online store uses the 1033, Device Channels values and an fr-FR online store uses the 1036, Canaux des appareils values.
-    </div>
-    </div>
-    </div></td>
+    
+	> [!Note]  
+	> The value of this property and the value of the previous property (StoreFront_DeviceChannelsListName) work together. For example, an en-US online store uses the 1033, Device Channels values and an fr-FR online store uses the 1036, Canaux des appareils values.
+    
+	</td>
     <td><p>Device Channels</p></td>
     </tr>
     <tr class="odd">
@@ -475,14 +466,9 @@ This section describes how to configure settings in the oob-settings.xml file.
     <p></p>
     <p>Because this component uses Secure Sockets Layer (SSL) encryption, you must install a server certificate that was issued by a trusted certification authority. (For test environments, you can create a self-signed certificate in IIS.) You will need to paste the thumbprint for the certificate into the settings file. To view the thumbprint in IIS Manager, double-click the certificate and click the <strong>Details</strong> tab. We recommend that you paste the thumbprint into a text file and remove all spaces before you paste it into the settings file.</p>
     <div class="alert">
-    <div class="mtps-table">
-    <div class="mtps-row">
-    <img src="images/Gg732282.alert_caution(AX.60).gif" title="Caution note" alt="Caution note" class="note" /><strong>Caution</strong>
-    </div>
-    <div class="mtps-row">
-    A thumbprint can contain hidden characters at the beginning of the thumbprint value. You must delete these extra characters before you paste the thumbprint into the settings file.
-    </div>
-    </div>
+    > [!Caution]  
+    > A thumbprint can contain hidden characters at the beginning of the thumbprint value. You must delete these extra characters before you paste the thumbprint into the settings file.
+  
     </div></td>
     <td><p>None</p></td>
     </tr>
@@ -495,14 +481,9 @@ This section describes how to configure settings in the oob-settings.xml file.
     <td><p><strong>StoreFrontPublicSSLCertLocalDirectory</strong></p></td>
     <td><p>The destination folder where Microsoft Dynamics AX stores a local copy of the certificate. This location <strong>cannot</strong> be the same as the <strong>StoreFrontPublicSSLCertDirectory</strong> value.</p>
     <div class="alert">
-    <div class="mtps-table">
-    <div class="mtps-row">
-    <img src="images/Gg732282.alert_caution(AX.60).gif" title="Important" alt="Important" class="note" /><strong>Important</strong>
-    </div>
-    <div class="mtps-row">
-    This path cannot contain any special characters. If the path contains a special character deployment fails.
-    </div>
-    </div>
+    > [!Important]  
+    > This path cannot contain any special characters. If the path contains a special character deployment fails.
+  
     </div></td>
     <td><p>None</p></td>
     </tr>
@@ -742,14 +723,9 @@ The Retail online store can authenticate users who sign in to your site by using
     <p></p>
     <p>Because this component uses Secure Sockets Layer (SSL) encryption, you must install a server certificate that was issued by a trusted certification authority. (For test environments, you can create a self-signed certificate in IIS.) You will need to paste the thumbprint for the certificate into the settings file. To view the thumbprint in IIS Manager, double-click the certificate and click the <strong>Details</strong> tab. We recommend that you paste the thumbprint into a text file and remove all spaces before you paste it into the settings file.</p>
     <div class="alert">
-    <div class="mtps-table">
-    <div class="mtps-row">
-    <img src="images/Gg732282.alert_caution(AX.60).gif" title="Caution note" alt="Caution note" class="note" /><strong>Caution</strong>
-    </div>
-    <div class="mtps-row">
-    A thumbprint can contain hidden characters at the beginning of the thumbprint value. You must delete these extra characters before you paste the thumbprint into the settings file.
-    </div>
-    </div>
+    > [!Caution]  
+    > A thumbprint can contain hidden characters at the beginning of the thumbprint value. You must delete these extra characters before you paste the thumbprint into the settings file.
+  
     </div></td>
     </tr>
     <tr class="odd">
@@ -1072,14 +1048,10 @@ Use the following procedure to verify that the **Dynamics AX Publishing Connecto
 <td><p>Set up the online channel</p></td>
 <td><p>After you deploy the Microsoft Dynamics AX Retail online store, you must setup the online channel in Microsoft Dynamics AX. See the <strong>Online store setup checklist</strong>. The checklist is available in the Microsoft Dynamics AX client: <strong>Retail</strong> &gt; <strong>Setup</strong> &gt; <strong>Online store setup checklist</strong>.</p>
 <div class="alert">
-<div class="mtps-table">
-<div class="mtps-row">
-<img src="images/Dn527205.alert_note(AX.60).gif" title="Note" alt="Note" class="note" /><strong>Note</strong>
-</div>
-<div class="mtps-row">
-If the online channel has already been set up in Microsoft Dynamics AX then you only need to publish the channel and publish a catalog. For information, see <em>Publish an online store</em> in <a href="set-up-an-online-store.md">Set up an online store</a> and <em>Publish a catalog</em> in <a href="key-tasks-create-retail-product-catalogs.md">Key tasks: Create retail product catalogs</a>.
-</div>
-</div>
+
+> [!NOTE]  
+> If the online channel has already been set up in Microsoft Dynamics AX then you only need to publish the channel and publish a catalog. For information, see <em>Publish an online store</em> in <a href="set-up-an-online-store.md">Set up an online store</a> and <em>Publish a catalog</em> in <a href="key-tasks-create-retail-product-catalogs.md">Key tasks: Create retail product catalogs</a>.
+
 </div></td>
 </tr>
 <tr class="odd">

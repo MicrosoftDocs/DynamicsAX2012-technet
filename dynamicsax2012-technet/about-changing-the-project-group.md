@@ -298,7 +298,7 @@ In these tables, the first column indicates the type of transaction and other cr
 <tbody>
 <tr class="odd">
 <td><p>On-account</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>If deduction transactions are associated with the on-account transaction, the project group cannot be changed.</P>
@@ -314,7 +314,7 @@ In these tables, the first column indicates the type of transaction and other cr
 </tr>
 <tr class="even">
 <td><p>On-account</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>If deduction transactions are associated with the on-account transaction, the project group cannot be changed.</P>

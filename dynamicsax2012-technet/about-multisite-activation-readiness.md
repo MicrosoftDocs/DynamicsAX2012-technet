@@ -90,7 +90,7 @@ The following tables list and describe the conditions and requirements for multi
 <td><p>Deleted warehouses</p></td>
 <td><p>None</p></td>
 <td><p>Closed inventory transactions do not refer to a warehouse that has been deleted. <strong>InventDim</strong> records cannot refer to a deleted warehouse.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>If this check fails, the validation displays a list of any deleted warehouses.</P>
@@ -169,7 +169,7 @@ The following tables list and describe the conditions and requirements for multi
 <td><p>Inventory dimensions</p></td>
 <td><p>None</p></td>
 <td><p>Inventory dimension combinations do not include both the site dimension and the warehouse dimension.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>This check will fail when there is a defect in the application. To recover, you must manually clean up the <STRONG>Inventory Dimension</STRONG> table.</P>
@@ -201,7 +201,7 @@ The following table describes additional readiness checks that the validation pe
 <td><p>Site and production order relations</p></td>
 <td><p>None</p></td>
 <td><p>Open production orders do not span multiple sites.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>If this check fails, the validation displays a list of the production orders that span multiple sites.</P>
@@ -239,7 +239,7 @@ The following table describes additional readiness checks that the validation pe
 <td><p>Inventory transaction ID on the same site</p></td>
 <td><p>None</p></td>
 <td><p>All open inventory transactions with the same inventory transaction ID, or Lot ID, are associated with the same site.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>If this check fails, the validation displays a list of the lot IDs for which inventory transactions will be split across multiple sites.</P>

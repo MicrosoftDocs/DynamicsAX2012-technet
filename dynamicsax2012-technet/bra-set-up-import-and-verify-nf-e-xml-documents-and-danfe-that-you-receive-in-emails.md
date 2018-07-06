@@ -182,7 +182,7 @@ To import and verify the NF-e XML files and DANFE from emails, follow these step
     <tr class="even">
     <td><p><strong>Fiscal establishment</strong></p></td>
     <td><p>The fiscal establishment that the NF-e is issued for.</p>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!NOTE]
     > <P>Only the NF-e XML documents that are issued to the CNPJ of the fiscal establishments of the legal entity are imported from the emails.</P>
@@ -205,7 +205,7 @@ To import and verify the NF-e XML files and DANFE from emails, follow these step
     <tr class="even">
     <td><p><strong>Name</strong></p></td>
     <td><p>The name of the account that issued the NF-e.</p>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!NOTE]
     > <P>This field is left blank if an account that has the CNPJ of the NF-e issuer is not available in Microsoft Dynamics AX.</P>

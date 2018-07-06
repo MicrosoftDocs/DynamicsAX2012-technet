@@ -41,7 +41,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>(<strong>Project date</strong>)</p>
 <p><strong>From date</strong> /<strong>Break date</strong> /<strong>To date</strong></p></td>
 <td><p>Specify a starting date and an ending date to include on the report. The report displays category earnings posted to projects during the specified time period.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>When you select <STRONG>Sum</STRONG> in the <STRONG>Actual vs. budget</STRONG> field, the break date that you enter determines when the calculation of actual values ends and the calculation of budgeted values starts.</P>
@@ -53,7 +53,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>(<strong>Ledger date</strong>)</p>
 <p><strong>From date</strong> /<strong>Break date</strong> /<strong>To date</strong></p></td>
 <td><p>Specify a starting date and an ending date to include category earnings that are posted to the ledger in a specific date range.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>When you select <STRONG>Sum</STRONG> in the <STRONG>Actual vs. budget</STRONG> field, the break date that you enter determines when the calculation of actual values ends and the calculation of budgeted values starts.</P>
@@ -69,7 +69,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Forecast model</strong></p></td>
 <td><p>Select the forecast model that you want the report to use.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>If you are using project budget control, select the budget forecast model that is used by this project.</P>

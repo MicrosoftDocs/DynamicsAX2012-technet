@@ -39,14 +39,10 @@ In a self-service installation, the user at the store installs the Retail softwa
 <td><p>Install the toolkit</p></td>
 <td><p><a href="install-the-retail-mass-deployment-toolkit.md">Install the Retail mass deployment toolkit</a></p>
 <div class="alert">
-<div class="mtps-table">
-<div class="mtps-row">
-<img src="images/Dn527205.alert_note(AX.60).gif" title="Tip" alt="Tip" class="note" /><strong>Tip</strong>
-</div>
-<div class="mtps-row">
-To see the full list of commands that are available for the toolkit, open a Command Prompt window in the folder where RetailConfigMgrToolkit.exe is installed, and type <strong>RetailConfigMgrToolkit.exe</strong>. To see the parameters that are available for a command, run the command <strong>RetailConfigMgrToolkit.exe -o &lt;command&gt; -?</strong>.
-</div>
-</div>
+
+> [!NOTE]  
+> To see the full list of commands that are available for the toolkit, open a Command Prompt window in the folder where RetailConfigMgrToolkit.exe is installed, and type <strong>RetailConfigMgrToolkit.exe</strong>. To see the parameters that are available for a command, run the command <strong>RetailConfigMgrToolkit.exe -o &lt;command&gt; -?</strong>.
+
 </div></td>
 </tr>
 <tr class="even">

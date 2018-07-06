@@ -163,15 +163,10 @@ This topic describes how to use the Synch Service Settings wizard to manage Comm
     <tr class="odd">
     <td><p><strong>Disable IPsec</strong></p></td>
     <td><p>Select this option to bypass the IPsec requirements of Synch Service. For more information, see <a href="configure-or-bypass-ipsec-for-synch-service.md">Configure or bypass IPsec for Synch Service</a>.</p>
-    <div class="alert">
-    <div class="mtps-table">
-    <div class="mtps-row">
-    <img src="images/Dn527205.alert_note(AX.60).gif" title="Note" alt="Note" class="note" /><strong>Note</strong>
-    </div>
-    <div class="mtps-row">
-    If the <strong>Disable IPsec</strong> option is selected for a distribution location in Retail Scheduler, the <strong>Disable IPsec</strong> option in Synch Service Settings should be selected for all instances of Synch Service that communicate with that location.
-    </div>
-    </div>
+    <div class="alert"> 
+    > [!Note]  
+	> If the <strong>Disable IPsec</strong> option is selected for a distribution location in Retail Scheduler, the <strong>Disable IPsec</strong> option in Synch Service Settings should be selected for all instances of Synch Service that communicate with that location.
+
     </div></td>
     </tr>
     <tr class="even">
@@ -229,15 +224,10 @@ This topic describes how to use the Synch Service Settings wizard to manage Comm
     <li><p><strong>Detail</strong> – Very detailed information about operations in Synch Service is logged.</p></li>
     <li><p><strong>Functions</strong> – Highly detailed and technical information about operations in Synch Service is logged. This option is intended for use by developers only.</p></li>
     </ul>
-    <div class="alert">
-    <div class="mtps-table">
-    <div class="mtps-row">
-    <img src="images/Gg732282.alert_caution(AX.60).gif" title="Important" alt="Important" class="note" /><strong>Important</strong>
-    </div>
-    <div class="mtps-row">
-    The logging that is specified by the <strong>Log Level</strong> settings can occur only if the <strong>Log Mode</strong> option is selected.
-    </div>
-    </div>
+    <div class="alert"> 
+    > [!Important]  
+	> The logging that is specified by the <strong>Log Level</strong> settings can occur only if the <strong>Log Mode</strong> option is selected.
+
     </div></td>
     </tr>
     </tbody>

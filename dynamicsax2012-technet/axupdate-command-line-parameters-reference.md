@@ -124,7 +124,7 @@ The following command-line parameters can be used to install updates.
 <td><p>Specify where the log files for AXUpdate.exe are saved.</p>
 <p>By default, the following path is used:</p>
 <p>%ALLUSERSPROFILE%\Microsoft\Dynamics AX\Dynamics AX Setup Logs\</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>When log files are saved to the default location, they are arranged in dated folders to protect existing log files from being overwritten. If you override the default value for <STRONG>LogDir</STRONG>, the logs are saved to the exact folder that you specify. Any log files that are already located in that folder are overwritten.</P>

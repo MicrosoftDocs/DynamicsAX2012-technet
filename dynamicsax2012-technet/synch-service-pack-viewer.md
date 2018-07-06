@@ -117,14 +117,10 @@ For the Synch Service instance that connects to Microsoft Dynamics AX, the follo
 <td><p>I</p></td>
 <td><p>Data package sent to Microsoft Dynamics AX</p>
 <div class="alert">
-<div class="mtps-table">
-<div class="mtps-row">
-<img src="images/Dn527205.alert_note(AX.60).gif" title="Note" alt="Note" class="note" /><strong>Note</strong>
-</div>
-<div class="mtps-row">
-Both incoming and outgoing data packages for P jobs have the same suffix. In order to view content in an outgoing data package, you must change the suffix for the corresponding file to R. If you do not change the suffix, an error will be displayed when you attempt to view the package.
-</div>
-</div>
+
+> [!NOTE]  
+> Both incoming and outgoing data packages for P jobs have the same suffix. In order to view content in an outgoing data package, you must change the suffix for the corresponding file to R. If you do not change the suffix, an error will be displayed when you attempt to view the package.
+
 </div></td>
 </tr>
 </tbody>
@@ -163,14 +159,10 @@ For the Synch Service instance that connects to the retail channel database, the
 <td><p>I</p></td>
 <td><p>Data package sent to the channel database</p>
 <div class="alert">
-<div class="mtps-table">
-<div class="mtps-row">
-<img src="images/Dn527205.alert_note(AX.60).gif" title="Note" alt="Note" class="note" /><strong>Note</strong>
-</div>
-<div class="mtps-row">
-Both incoming and outgoing data packages for A and N jobs have the same suffix. In order to view content in an outgoing data package, you must change the suffix for the corresponding file to R. If you do not change the suffix, an error will be displayed when you attempt to view the package.
-</div>
-</div>
+
+> [!NOTE]  
+> Both incoming and outgoing data packages for A and N jobs have the same suffix. In order to view content in an outgoing data package, you must change the suffix for the corresponding file to R. If you do not change the suffix, an error will be displayed when you attempt to view the package.
+
 </div></td>
 </tr>
 <tr class="odd">

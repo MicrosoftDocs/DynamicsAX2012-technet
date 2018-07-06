@@ -217,7 +217,7 @@ The following table provides information about how this configuration key relate
 <p><a href="order-status-notification-configuration-key-mcrorderstatusnotification.md">Order status notification configuration key (MCROrderStatusNotification)</a></p>
 <p><a href="payment-configuration-key-mcrpayment.md">Payment configuration key (MCRPayment)</a></p>
 <p><a href="source-code-configuration-key-mcrsourcecode.md">Source code configuration key (MCRSourceCode)</a></p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

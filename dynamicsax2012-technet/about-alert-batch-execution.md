@@ -108,7 +108,7 @@ The batch processing window is set to 10 days.
 <tr class="even">
 <td><p>The batch job does not run on days 1 through 9, but only on day 10. In other words, the batch job runs in the 10-day window.</p></td>
 <td><p>You are alerted about every employee whose birthday was 2, 3, 4, 5, 6, 7, 8, 9, 10, or 11 days ago.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>All alerts are generated.</P>
@@ -119,7 +119,7 @@ The batch processing window is set to 10 days.
 <tr class="odd">
 <td><p>The batch job does not run on days 1 through 10, but only on day 11.</p></td>
 <td><p>You are alerted about every employee whose birthday was 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, or 12 days ago.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>Now you are not alerted about any employee whose birthday was 13 days ago.</P>
@@ -130,7 +130,7 @@ The batch processing window is set to 10 days.
 <tr class="even">
 <td><p>The batch job does not run on days 1 through 11, but only on day 12.</p></td>
 <td><p>You are alerted about every employee whose birthday was 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, or 13 days ago.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>Now you are not alerted about any employee whose birthday was 14 days ago.</P>

@@ -27,9 +27,7 @@ If a company that operates in Latvia receives payments from a foreign bank and d
 
 
 
-1.  
-    
-    Click **Cash and bank management** \> **Common** \> **Bank accounts**. Select the bank account to view the transactions for. On the **Action Pane**, click **Transactions**.
+1.  Click **Cash and bank management** \> **Common** \> **Bank accounts**. Select the bank account to view the transactions for. On the **Action Pane**, click **Transactions**.
 
 2.  Select the bank, and then click **Transactions** to open the **Bank transactions** form. Enter the required details.
 

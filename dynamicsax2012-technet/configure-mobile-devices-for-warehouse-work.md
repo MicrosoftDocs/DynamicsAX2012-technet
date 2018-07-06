@@ -125,7 +125,7 @@ To set up a menu item to perform general activities or inquiries, follow these s
     <tr class="odd">
     <td><p><strong>License plate build</strong></p></td>
     <td><p>Create a parent license plate by combining multiple license plates in the same location. This is useful if you move multiple license plates at the same time. After the parent license plate is moved, you must perform a license plate break before you can pick items from each license plate.</p>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!TIP]
     > <P>To move a parent license plate, you must use a mobile device that is configured to create work for movements.</P>
@@ -159,7 +159,7 @@ To set up a menu item to perform general activities or inquiries, follow these s
     <p>When you select this option, the <strong>Edit query</strong> and <strong>Field list</strong> menu items are enabled.</p>
     <p>The <strong>Edit query</strong> form enables you to set up criteria for what work to show on the list.</p>
     <p>The <strong>Field list</strong> form is used to select what fields to show in the work list. For example, you may want to reduce the number of fields that are visible to make it quicker for the user to select the most appropriate work item. You can also select how many work records per page should be shown in the <strong>Records per page</strong> field on the <strong>General</strong> FastTab. If the <strong>Allow users to filter work by transaction type</strong> checkbox is selected, the user will see an additional <strong>Filter work</strong> control on the work list which allows them to filter by transaction type.</p>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!NOTE]
     > <P>The user will only see work in the work list that they have permission to access. You need to make sure they have permission for one or more user-directed menu items that support the specific work class type(s) that they should be able to access. Permissions will also be verified when the user attempts to perform work from the list.</P>
@@ -285,7 +285,7 @@ To set up a menu item that will create work, follow these steps:
     <td> <p>
    
 	 Register the receipt of a quantity of an item, and create put away work for another worker.
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Dn553216.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div class="alert"> <table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Dn553216.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 Use this option only if the items were shipped from a warehouse that is not enabled for warehouse management processes.
   </p> </td></tr></table></div></td>
@@ -295,7 +295,7 @@ To set up a menu item that will create work, follow these steps:
     <td> <p>
    
 	 Register the receipt of a quantity of an item, and put the items away. The same worker will perform both actions.
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Dn553216.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div class="alert"> <table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Dn553216.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 Use this option only if the items were shipped from a warehouse that is not enabled for warehouse management processes. 
   </p> </td></tr></table></div></td>
@@ -376,7 +376,7 @@ To set up a menu item that will create work, follow these steps:
     <td> <p>
    
 	 Register that items have been transferred from one warehouse to another. This requires that the worker is allowed to perform work in both warehouses.
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Dn553216.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div class="alert"> <table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Dn553216.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 This menu item requires a default inventory transfer journal with the Voucher draw field set to Posting. 
   </p> </td></tr></table></div></td>
@@ -623,7 +623,7 @@ Additional menu items options are available in the **Mobile device menu items** 
 <li><p><strong>None</strong> – The worker can pick any batch in the location. No message is displayed.</p></li>
 <li><p><strong>Warn</strong> – The worker can pick any batch in the location, but a warning message is displayed if a batch is not the oldest.</p></li>
 <li><p><strong>Force</strong> – The worker must pick the oldest batch in the location. An error message is displayed if a batch is not the oldest.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>This is relevant only if <STRONG>Batch number</STRONG> is lower than <STRONG>Location</STRONG> in the reservation hierarchy that is assigned to the item. For more information, see <A href="set-up-reservation-hierarchies.md">Set up reservation hierarchies</A>.</P>
