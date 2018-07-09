@@ -78,9 +78,14 @@ The following table shows the conventions used by AIF when naming schema element
 <td><p>AxdUnion_</p></td>
 <td><p>Unions</p></td>
 <td><p>If the extended data type, for which a &lt;xsd:simpleType&gt; element is being created, is subject to value mapping, then the field element will reference an &lt;xsd:union&gt; between the data type of the field and the type representing the external values. This element is a union between the data type of the value mapped field and the type representing the external values, as shown in the following schema XML.</p>
-<pre class="sourceCode xml" id="cb1"><code class="sourceCode xml"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="kw">&lt;xsd:simpleType</span><span class="ot">  name=</span><span class="st">&quot;AxdUnion_AxdExtType_</span><span class="er">&lt;</span><span class="st">ExtendedDataTypeName&gt;_AxdType_ExtCodeValue&quot;</span><span class="kw">&gt;</span></a>
-<a class="sourceLine" id="cb1-2" data-line-number="2">    <span class="kw">&lt;xsd:union</span><span class="ot"> memberTypes=</span><span class="st">&quot;AxdExtType_</span><span class="er">&lt;</span><span class="st">ExtendedDataTypeName&gt;AxdType_ExtCodeValue&quot;</span> <span class="kw">/&gt;</span></a>
-<a class="sourceLine" id="cb1-3" data-line-number="3"><span class="kw">&lt;/xsd:simpleType&gt;</span></a></code></pre></td>
+
+```XML
+<xsd:simpleType  name="AxdUnion_AxdExtType_<ExtendedDataTypeName>_AxdType_ExtCodeValue">
+    <xsd:union memberTypes="AxdExtType_<ExtendedDataTypeName>AxdType_ExtCodeValue" />
+</xsd:simpleType>
+```
+
+</td>
 </tr>
 <tr class="odd">
 <td><p>AxdArray_</p></td>
