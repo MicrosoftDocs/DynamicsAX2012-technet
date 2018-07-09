@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.ASN
 ---
 
-# ASN
+# ASN[AX 2012]
 
 A business document that documents the notification of the shipment of product.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales tax hierarchy
 ---
 
-# sales tax hierarchy
+# sales tax hierarchy[AX 2012]
 
 A hierarchy that organizes multiple levels of sales tax reporting codes, such as tax types, tax components, excise record types, and service accounting codes.
 

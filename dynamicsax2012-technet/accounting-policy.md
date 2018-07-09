@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting policy
 ---
 
-# accounting policy
+# accounting policy[AX 2012]
 
 A policy that prescribes the general principles and procedures that an organization follows to prepare statements that report on its performance.
 

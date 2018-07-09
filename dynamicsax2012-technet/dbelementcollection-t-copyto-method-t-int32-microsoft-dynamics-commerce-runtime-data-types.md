@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# CopyTo Method (T , Int32)
+# CopyTo Method (T , Int32)[AX 2012]
 
 Copies the entire collection to a compatible one-dimensional array, starting at the beginning of the target array.
 

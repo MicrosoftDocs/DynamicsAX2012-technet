@@ -13,7 +13,7 @@ f1_keywords:
 - DFIA scheme
 ---
 
-# (IND) Verify the authorization details for an AA or DFIA incentive scheme license 
+# (IND) Verify the authorization details for an AA or DFIA incentive scheme license [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

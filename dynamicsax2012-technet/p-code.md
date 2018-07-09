@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.p-code
 ---
 
-# p-code
+# p-code[AX 2012]
 
 A machine language for a nonexistent processor (a pseudomachine). Such code is executed by a software interpreter.
 

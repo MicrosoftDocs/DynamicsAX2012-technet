@@ -17,7 +17,7 @@ f1_keywords:
 - Forms.InventTransferOrders
 ---
 
-# Set up and transfer the transfer order transactions for Intrastat reporting 
+# Set up and transfer the transfer order transactions for Intrastat reporting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_

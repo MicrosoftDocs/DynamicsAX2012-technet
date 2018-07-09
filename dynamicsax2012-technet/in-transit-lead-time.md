@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.in-transit lead time
 ---
 
-# in-transit lead time
+# in-transit lead time[AX 2012]
 
 The lead time required for an item to leave the shipping party and arrive at the receiving party.
 

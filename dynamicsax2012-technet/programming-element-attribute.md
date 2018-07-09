@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.programming element attribute
 ---
 
-# programming element attribute
+# programming element attribute[AX 2012]
 
 A descriptive declaration that can be applied to programming elements such as types, fields, methods, and properties.
 

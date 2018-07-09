@@ -8,7 +8,7 @@ ms.date: 06/02/2014
 mtps_version: v=AX.60
 ---
 
-# Create orders from item lists 
+# Create orders from item lists [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

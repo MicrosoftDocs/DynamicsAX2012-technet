@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.financial dimension value constraint
 ---
 
-# financial dimension value constraint
+# financial dimension value constraint[AX 2012]
 
 A hierarchical financial dimension relationship that restricts the set of all possible financial dimension value combinations to a set of valid financial dimension value combinations.
 

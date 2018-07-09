@@ -10,7 +10,7 @@ f1_keywords:
 - Budgeting
 ---
 
-# Using the Budgeting site 
+# Using the Budgeting site [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

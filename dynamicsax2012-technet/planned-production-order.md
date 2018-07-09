@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.planned production order
 ---
 
-# planned production order
+# planned production order[AX 2012]
 
 A source document that documents production requirements generated from a production plan.
 

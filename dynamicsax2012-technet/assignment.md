@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.assignment
 ---
 
-# assignment
+# assignment[AX 2012]
 
 A designation that forms an association among objects.
 

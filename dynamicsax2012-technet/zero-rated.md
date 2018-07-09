@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.zero-rated
 ---
 
-# zero-rated
+# zero-rated[AX 2012]
 
 Denotes products for which the buyer pays no value-added tax (VAT) and for which the seller can recover the cost of the input tax levied on the sale.
 

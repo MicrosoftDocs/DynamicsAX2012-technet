@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailCDXDataGroup
 ---
 
-# Create a channel data group 
+# Create a channel data group [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

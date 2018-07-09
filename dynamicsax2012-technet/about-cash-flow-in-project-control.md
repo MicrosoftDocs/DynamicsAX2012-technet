@@ -13,7 +13,7 @@ f1_keywords:
 - cash in flow forecasting
 ---
 
-# About cash flow in Project control 
+# About cash flow in Project control [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

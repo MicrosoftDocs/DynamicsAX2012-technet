@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.price
 ---
 
-# price
+# price[AX 2012]
 
 The market value or exchange value of a product.
 

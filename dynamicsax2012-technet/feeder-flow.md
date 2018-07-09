@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.feeder flow
 ---
 
-# feeder flow
+# feeder flow[AX 2012]
 
 A production flow that can supply other downstream production flows.
 

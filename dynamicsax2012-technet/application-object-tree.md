@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Application Object Tree
 ---
 
-# Application Object Tree
+# Application Object Tree[AX 2012]
 
 A navigable view of the element objects in an application model.
 

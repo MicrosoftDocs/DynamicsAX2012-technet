@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.SysAOTBrowser
 ---
 
-# Microsoft Dynamics AX Developer Forms 
+# Microsoft Dynamics AX Developer Forms [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

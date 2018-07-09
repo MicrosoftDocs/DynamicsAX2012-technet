@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.purchase order discount
 ---
 
-# purchase order discount
+# purchase order discount[AX 2012]
 
 An amount deducted from the total net amount calculation on a purchase order.
 

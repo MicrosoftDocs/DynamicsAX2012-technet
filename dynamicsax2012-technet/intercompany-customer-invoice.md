@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.intercompany customer invoice
 ---
 
-# intercompany customer invoice
+# intercompany customer invoice[AX 2012]
 
 A customer invoice that documents a customer payment request from one legal entity to another legal entity that is part of the same organization that consolidates the accounts of both legal entities.
 

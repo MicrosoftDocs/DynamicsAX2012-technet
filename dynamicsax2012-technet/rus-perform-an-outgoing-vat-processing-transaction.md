@@ -12,7 +12,7 @@ f1_keywords:
 - outgoing VAT transaction
 ---
 
-# (RUS) Perform an outgoing VAT processing transaction 
+# (RUS) Perform an outgoing VAT processing transaction [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

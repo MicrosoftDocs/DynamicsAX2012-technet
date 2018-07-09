@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (EEUR) Setting up and maintaining Retail 
+# (EEUR) Setting up and maintaining Retail [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

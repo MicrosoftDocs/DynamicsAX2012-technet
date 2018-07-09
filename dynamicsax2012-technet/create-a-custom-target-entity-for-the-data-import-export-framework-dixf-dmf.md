@@ -10,7 +10,7 @@ f1_keywords:
 - MsDynAx060.Forms.DMFCustomWizard
 ---
 
-# Create a custom target entity for the Data import/export framework (DIXF, DMF) 
+# Create a custom target entity for the Data import/export framework (DIXF, DMF) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

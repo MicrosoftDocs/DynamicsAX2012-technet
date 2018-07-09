@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.performance dimension
 ---
 
-# performance dimension
+# performance dimension[AX 2012]
 
 A dimension used to distinguish and categorize key performance activity against objectives.
 

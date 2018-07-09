@@ -8,7 +8,7 @@ ms.date: 02/13/2013
 mtps_version: v=AX.60
 ---
 
-# How to: Create a Role Center 
+# How to: Create a Role Center [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

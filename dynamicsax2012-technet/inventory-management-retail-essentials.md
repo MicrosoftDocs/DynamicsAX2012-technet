@@ -8,7 +8,7 @@ ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---
 
-# Inventory management (Retail essentials) 
+# Inventory management (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -31,7 +31,7 @@ f1_keywords:
 - MsDynAx060.Forms.Threshold_IN
 ---
 
-# (IND) Set up threshold limits 
+# (IND) Set up threshold limits [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.best practice rule
 ---
 
-# best practice rule
+# best practice rule[AX 2012]
 
 A rule that is optionally enforced after compilation in X++. The rules represent safe or consistent code design.
 

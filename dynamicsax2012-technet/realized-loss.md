@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.realized loss
 ---
 
-# realized loss
+# realized loss[AX 2012]
 
 The decrease in the value of an asset calculated as the difference in the value of the asset when two economic events occur and when the difference is recognized on the occurrence of the second event as a reduction in wealth.
 

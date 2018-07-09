@@ -11,7 +11,7 @@ f1_keywords:
 - Forms.LedgerJournalTable
 ---
 
-# (IND) Specify a service category for promissory notes 
+# (IND) Specify a service category for promissory notes [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_

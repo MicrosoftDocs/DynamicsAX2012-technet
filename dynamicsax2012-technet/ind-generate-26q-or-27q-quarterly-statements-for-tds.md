@@ -18,7 +18,7 @@ f1_keywords:
 - TDS
 ---
 
-# (IND) Generate 26Q or 27Q quarterly statements for TDS 
+# (IND) Generate 26Q or 27Q quarterly statements for TDS [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

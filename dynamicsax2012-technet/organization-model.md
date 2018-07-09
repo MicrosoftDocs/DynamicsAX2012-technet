@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.organization model
 ---
 
-# organization model
+# organization model[AX 2012]
 
 Internal control, data access, and performance reporting structures designed to divide responsibility for human and operations resources and work processes.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.employee compensation
 ---
 
-# employee compensation
+# employee compensation[AX 2012]
 
 Direct or indirect monetary and nonmonetary rewards offered to an employee by an organization.
 

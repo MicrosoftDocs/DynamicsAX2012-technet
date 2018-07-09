@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.domain role
 ---
 
-# domain role
+# domain role[AX 2012]
 
 A behavior pattern that is assumed by domain entities when participating in role relationships.
 

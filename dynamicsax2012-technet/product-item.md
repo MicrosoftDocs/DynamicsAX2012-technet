@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.product item
 ---
 
-# product item
+# product item[AX 2012]
 
 An item that is a type of product.
 

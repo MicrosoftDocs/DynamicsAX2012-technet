@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.account entry
 ---
 
-# account entry
+# account entry[AX 2012]
 
 A record of the increase or decrease in economic value classified by a ledger account.
 

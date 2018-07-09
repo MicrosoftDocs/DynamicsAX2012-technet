@@ -14,7 +14,7 @@ f1_keywords:
 - Set up fiscal document types
 ---
 
-# (BRA) Set up fiscal document types for electronic fiscal document for services 
+# (BRA) Set up fiscal document types for electronic fiscal document for services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

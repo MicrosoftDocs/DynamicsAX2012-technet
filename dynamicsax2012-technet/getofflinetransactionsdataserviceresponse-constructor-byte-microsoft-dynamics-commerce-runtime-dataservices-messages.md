@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# GetOfflineTransactionsDataServiceResponse Constructor (Byte )
+# GetOfflineTransactionsDataServiceResponse Constructor (Byte )[AX 2012]
 
 Initializes a new instance of the [GetOfflineTransactionsDataServiceResponse](getofflinetransactionsdataserviceresponse-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) class.
 

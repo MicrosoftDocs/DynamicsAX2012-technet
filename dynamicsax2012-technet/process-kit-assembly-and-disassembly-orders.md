@@ -12,7 +12,7 @@ f1_keywords:
 - Forms.RetailKitAssemblyOrderUpdateQty
 ---
 
-# Process kit assembly and disassembly orders 
+# Process kit assembly and disassembly orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

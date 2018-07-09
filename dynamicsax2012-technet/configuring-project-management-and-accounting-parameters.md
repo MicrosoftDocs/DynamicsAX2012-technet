@@ -13,7 +13,7 @@ f1_keywords:
 - project management
 ---
 
-# Configuring Project management and accounting parameters 
+# Configuring Project management and accounting parameters [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

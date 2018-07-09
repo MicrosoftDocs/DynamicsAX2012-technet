@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.ad hoc report
 ---
 
-# ad hoc report
+# ad hoc report[AX 2012]
 
 A type of report that requires users to select the data that they want to display on the report and to design the layout of the report.
 

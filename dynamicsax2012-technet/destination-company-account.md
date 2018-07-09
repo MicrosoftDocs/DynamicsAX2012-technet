@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.destination company account
 ---
 
-# destination company account
+# destination company account[AX 2012]
 
 The legal entity that is the recipient of a liability in an intercompany economic transaction.
 

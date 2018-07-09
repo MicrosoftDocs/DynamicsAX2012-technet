@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.IntelliSense
 ---
 
-# IntelliSense
+# IntelliSense[AX 2012]
 
 A feature of an integrated development environment (IDE) that provides logical code elements that the user can select from a drop-down menu while coding.
 

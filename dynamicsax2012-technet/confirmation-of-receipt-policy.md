@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.confirmation of receipt policy
 ---
 
-# confirmation of receipt policy
+# confirmation of receipt policy[AX 2012]
 
 A policy that prescribes the functional location where the physical acceptance of items takes place.
 

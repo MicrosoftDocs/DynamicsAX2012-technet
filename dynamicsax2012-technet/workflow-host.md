@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.workflow host
 ---
 
-# workflow host
+# workflow host[AX 2012]
 
 An environment in which the workflow runtime is started so that it can be accessed as a service.
 

@@ -18,7 +18,7 @@ f1_keywords:
 - import NF-e XML
 ---
 
-# (BRA) Import and verify NF-e XML documents and DANFE that you receive in emails 
+# (BRA) Import and verify NF-e XML documents and DANFE that you receive in emails [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

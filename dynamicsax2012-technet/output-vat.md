@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.output VAT
 ---
 
-# output VAT
+# output VAT[AX 2012]
 
 The tax on an organization’s sales, which is levied on the sales price.
 

@@ -11,7 +11,7 @@ f1_keywords:
 - returnable packages
 ---
 
-# (POL) Set up returnable packages for a customer 
+# (POL) Set up returnable packages for a customer [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

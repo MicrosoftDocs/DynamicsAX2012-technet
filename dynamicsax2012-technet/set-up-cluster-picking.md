@@ -15,7 +15,7 @@ f1_keywords:
 - cluster profile
 ---
 
-# Set up cluster picking 
+# Set up cluster picking [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

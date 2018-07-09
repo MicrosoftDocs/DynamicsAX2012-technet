@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.direct compensation
 ---
 
-# direct compensation
+# direct compensation[AX 2012]
 
 The fixed and variable compensation awarded to an employee in exchange for services rendered.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.non-negotiable check
 ---
 
-# non-negotiable check
+# non-negotiable check[AX 2012]
 
 A non-negotiable instrument ordering a drawee organization to pay a specified amount of money to the holder.
 

@@ -14,7 +14,7 @@ f1_keywords:
 - incentive scheme groups
 ---
 
-# (IND) Set up tax codes for incentive scheme groups 
+# (IND) Set up tax codes for incentive scheme groups [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -8,7 +8,7 @@ ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
 
-# Keep update objects 6.2 (SysDeletedObjects62) 
+# Keep update objects 6.2 (SysDeletedObjects62) [AX 2012]
 
 
 Some objects in Microsoft Dynamics AX 2012 might be removed during upgrade to Microsoft Dynamics AX 2012 R2. These objects are given a prefix of DEL\_ and are assigned to the **Keep update objects 6.2** configuration key. When you clear the check box for this configuration key in the **License configuration** form, the objects assigned to this configuration key are deleted.

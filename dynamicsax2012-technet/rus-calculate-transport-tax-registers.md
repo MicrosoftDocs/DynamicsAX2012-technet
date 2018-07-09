@@ -12,7 +12,7 @@ f1_keywords:
 - transport tax
 ---
 
-# (RUS) Calculate transport tax registers 
+# (RUS) Calculate transport tax registers [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

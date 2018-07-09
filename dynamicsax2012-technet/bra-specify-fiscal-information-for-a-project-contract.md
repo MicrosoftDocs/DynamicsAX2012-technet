@@ -12,7 +12,7 @@ f1_keywords:
 - Service codes
 ---
 
-# (BRA) Specify fiscal information for a project contract 
+# (BRA) Specify fiscal information for a project contract [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.proxy
 ---
 
-# proxy
+# proxy[AX 2012]
 
 A software component that intermediates requests from client software components and responses from service or server software components that respond to those requests.
 

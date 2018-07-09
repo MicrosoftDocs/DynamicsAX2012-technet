@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.MorphX report
 ---
 
-# MorphX report
+# MorphX report[AX 2012]
 
 A report that is developed using the MorphX integrated development model.
 

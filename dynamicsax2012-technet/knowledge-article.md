@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.knowledge article
 ---
 
-# knowledge article
+# knowledge article[AX 2012]
 
 A document that documents unique characteristics for a case.
 

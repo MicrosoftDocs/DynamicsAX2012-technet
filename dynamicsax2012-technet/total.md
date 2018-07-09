@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.total
 ---
 
-# total
+# total[AX 2012]
 
 The whole sum, quantity, amount, or aggregate.
 

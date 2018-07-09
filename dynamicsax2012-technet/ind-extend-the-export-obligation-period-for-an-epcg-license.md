@@ -15,7 +15,7 @@ f1_keywords:
 - extension of EPCG license
 ---
 
-# (IND) Extend the export obligation period for an EPCG license 
+# (IND) Extend the export obligation period for an EPCG license [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

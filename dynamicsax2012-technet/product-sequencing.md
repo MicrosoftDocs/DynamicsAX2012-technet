@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.product sequencing
 ---
 
-# product sequencing
+# product sequencing[AX 2012]
 
 The practice of classifying and managing characteristics of items so that products with similar characteristics can be scheduled to be produced together.
 

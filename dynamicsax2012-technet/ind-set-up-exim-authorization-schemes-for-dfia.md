@@ -15,7 +15,7 @@ f1_keywords:
 - Duty Free Import Authorization
 ---
 
-# (IND) Set up EXIM authorization schemes for DFIA 
+# (IND) Set up EXIM authorization schemes for DFIA [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

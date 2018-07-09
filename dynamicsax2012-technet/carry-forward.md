@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.carry forward
 ---
 
-# carry forward
+# carry forward[AX 2012]
 
 To transfer closing account balances from one accounting period to opening account balances in the subsequent accounting period.
 

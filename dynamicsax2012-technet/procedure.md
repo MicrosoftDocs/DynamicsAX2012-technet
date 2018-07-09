@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.procedure
 ---
 
-# procedure
+# procedure[AX 2012]
 
 A repeatable sequence of steps that are followed in a specific order to meet the requirements of a task.
 

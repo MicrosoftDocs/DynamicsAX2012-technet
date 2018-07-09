@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.gross amount
 ---
 
-# gross amount
+# gross amount[AX 2012]
 
 An amount excluding deductions, charges, and adjustments.
 

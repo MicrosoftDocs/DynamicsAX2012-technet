@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.measure dimension
 ---
 
-# measure dimension
+# measure dimension[AX 2012]
 
 A dimension used to characterize the magnitude of a measurement.
 

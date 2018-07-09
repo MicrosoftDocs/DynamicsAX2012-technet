@@ -11,7 +11,7 @@ f1_keywords:
 - Budgeting roadmap
 ---
 
-# Budgeting roadmap 
+# Budgeting roadmap [AX 2012]
 
 
 This topic is a roadmap to additional information about Budgeting in Microsoft Dynamics AX 2012. It includes links to information about how to get started, configure, and use Budgeting, and which modules integrate with Budgeting.

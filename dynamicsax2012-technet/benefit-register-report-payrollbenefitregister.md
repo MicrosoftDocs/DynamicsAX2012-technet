@@ -13,7 +13,7 @@ f1_keywords:
 - benefit
 ---
 
-# Benefit register report (PayrollBenefitRegister) 
+# Benefit register report (PayrollBenefitRegister) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

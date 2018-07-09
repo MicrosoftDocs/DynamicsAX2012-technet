@@ -11,7 +11,7 @@ f1_keywords:
 - migrate project
 ---
 
-# About migrating project data from other ERP systems 
+# About migrating project data from other ERP systems [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

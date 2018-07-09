@@ -14,7 +14,7 @@ f1_keywords:
 - Set up calendar
 ---
 
-# (IND) Set up a day-based calendar 
+# (IND) Set up a day-based calendar [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

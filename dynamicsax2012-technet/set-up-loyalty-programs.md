@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.RetailLoyaltyPrograms
 ---
 
-# Set up loyalty programs 
+# Set up loyalty programs [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -8,7 +8,7 @@ ms.date: 01/19/2016
 mtps_version: v=AX.60
 ---
 
-# Security Upgrade Advisor Tool User Guide 
+# Security Upgrade Advisor Tool User Guide [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

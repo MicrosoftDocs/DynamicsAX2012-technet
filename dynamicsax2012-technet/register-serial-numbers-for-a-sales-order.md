@@ -18,7 +18,7 @@ f1_keywords:
 - serial
 ---
 
-# Register serial numbers for a sales order 
+# Register serial numbers for a sales order [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

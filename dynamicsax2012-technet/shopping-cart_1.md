@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.shopping cart
 ---
 
-# shopping cart
+# shopping cart[AX 2012]
 
 A virtual container that stores products that have been selected for purchase from a procurement catalog or a vendor catalog.
 

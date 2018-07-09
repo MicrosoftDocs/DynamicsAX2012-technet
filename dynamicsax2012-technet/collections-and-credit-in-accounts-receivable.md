@@ -22,7 +22,7 @@ f1_keywords:
 - NSF
 ---
 
-# Collections and credit in Accounts receivable 
+# Collections and credit in Accounts receivable [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

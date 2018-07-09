@@ -12,7 +12,7 @@ f1_keywords:
 - matching principle
 ---
 
-# About the Production + profit matching principle 
+# About the Production + profit matching principle [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ f1_keywords:
 - MsDynAx060.Forms.HcmWorkerListPage
 ---
 
-# Set up workers (Retail essentials) 
+# Set up workers (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

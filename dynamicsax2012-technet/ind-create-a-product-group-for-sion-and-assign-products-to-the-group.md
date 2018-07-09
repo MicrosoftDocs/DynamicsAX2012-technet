@@ -14,7 +14,7 @@ f1_keywords:
 - product group
 ---
 
-# (IND) Create a product group for SION and assign products to the group 
+# (IND) Create a product group for SION and assign products to the group [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

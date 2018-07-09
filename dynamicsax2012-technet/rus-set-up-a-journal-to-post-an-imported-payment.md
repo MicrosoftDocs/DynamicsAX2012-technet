@@ -10,7 +10,7 @@ f1_keywords:
 - imported payment
 ---
 
-# (RUS) Set up a journal to post an imported payment 
+# (RUS) Set up a journal to post an imported payment [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

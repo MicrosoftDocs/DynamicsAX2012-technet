@@ -8,7 +8,7 @@ ms.date: 07/07/2015
 mtps_version: v=AX.60
 ---
 
-# (BRA) Assess, pay, declare and adjust PIS and COFINS taxes 
+# (BRA) Assess, pay, declare and adjust PIS and COFINS taxes [AX 2012]
 
 
 This topic explains how to determine the amount of PIS and COFINS tax to be paid per fiscal organization for a specific month. The difference between the PIS and COFINS tax amount collected on sales of goods and the PIS and COFINS tax amount paid on purchases of goods is calculated. If the net amount is results in a tax liability, you can enter a vendor invoice journal entry and pay the amount of PIS and COFINS tax that you owe to the tax authority.

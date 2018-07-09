@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.natural key
 ---
 
-# natural key
+# natural key[AX 2012]
 
 A primary key or alternate key whose values identify objects in the real world.
 

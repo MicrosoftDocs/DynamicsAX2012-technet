@@ -12,7 +12,7 @@ f1_keywords:
 - (JPN) Set up the consolidation date for a vendor
 ---
 
-# (JPN) Set up a consolidated invoice for a vendor 
+# (JPN) Set up a consolidated invoice for a vendor [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

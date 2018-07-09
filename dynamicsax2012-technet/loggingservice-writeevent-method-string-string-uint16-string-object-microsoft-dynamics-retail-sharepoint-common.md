@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# WriteEvent Method (String, String, , UInt16, String, Object )
+# WriteEvent Method (String, String, , UInt16, String, Object )[AX 2012]
 
 Writes an event to the event log
 

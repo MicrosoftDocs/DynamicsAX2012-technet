@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (RUS) Set up profit and loss accounts for posting rounded amounts at inventory closing 
+# (RUS) Set up profit and loss accounts for posting rounded amounts at inventory closing [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -11,7 +11,7 @@ f1_keywords:
 - receipt order
 ---
 
-# (RUS) Create a partial storno transaction for a transfer order receipt using negative receipt quantity 
+# (RUS) Create a partial storno transaction for a transfer order receipt using negative receipt quantity [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

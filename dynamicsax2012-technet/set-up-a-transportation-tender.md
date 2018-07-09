@@ -14,7 +14,7 @@ f1_keywords:
 - transportation tenders
 ---
 
-# Set up a transportation tender 
+# Set up a transportation tender [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

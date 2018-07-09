@@ -11,7 +11,7 @@ f1_keywords:
 - Poland
 ---
 
-# (POL) Set up customer posting profiles for deposits 
+# (POL) Set up customer posting profiles for deposits [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

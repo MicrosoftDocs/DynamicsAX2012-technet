@@ -13,7 +13,7 @@ f1_keywords:
 - set up requisites
 ---
 
-# (RUS) Set up conditional cell type requisites 
+# (RUS) Set up conditional cell type requisites [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

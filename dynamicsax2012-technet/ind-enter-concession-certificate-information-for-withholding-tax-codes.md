@@ -12,7 +12,7 @@ f1_keywords:
 - Concession number
 ---
 
-# (IND) Enter concession certificate information for withholding tax codes 
+# (IND) Enter concession certificate information for withholding tax codes [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

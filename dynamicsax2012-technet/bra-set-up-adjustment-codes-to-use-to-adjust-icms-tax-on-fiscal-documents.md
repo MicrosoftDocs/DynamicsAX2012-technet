@@ -12,7 +12,7 @@ f1_keywords:
 - MsDynAx060.Forms.FBFiscalDocumentAdjustmentCodeICMS_BR
 ---
 
-# (BRA) Set up adjustment codes to use to adjust ICMS tax on fiscal documents 
+# (BRA) Set up adjustment codes to use to adjust ICMS tax on fiscal documents [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

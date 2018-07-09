@@ -8,7 +8,7 @@ ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---
 
-# Upload custom business processes to Business process modeler from Task recorder 
+# Upload custom business processes to Business process modeler from Task recorder [AX 2012]
 
 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/upload-custom-business-processes-to-business-process-modeler-from-task-recorder/) in the Dynamics AX Help wiki.

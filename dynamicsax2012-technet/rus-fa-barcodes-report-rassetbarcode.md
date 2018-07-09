@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RAssetBarcode
 ---
 
-# (RUS) FA barcodes report (RAssetBarcode) 
+# (RUS) FA barcodes report (RAssetBarcode) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

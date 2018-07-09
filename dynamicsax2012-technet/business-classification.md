@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.business classification
 ---
 
-# business classification
+# business classification[AX 2012]
 
 A classifier that classifies organizations in an industry classification system.
 

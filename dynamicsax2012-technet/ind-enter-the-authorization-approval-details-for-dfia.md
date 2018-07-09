@@ -14,7 +14,7 @@ f1_keywords:
 - authorization approval
 ---
 
-# (IND) Enter the authorization approval details for DFIA 
+# (IND) Enter the authorization approval details for DFIA [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

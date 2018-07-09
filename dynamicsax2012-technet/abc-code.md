@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.ABC code
 ---
 
-# ABC code
+# ABC code[AX 2012]
 
 A classifier that names categories in an ABC classification.
 

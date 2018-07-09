@@ -19,7 +19,7 @@ f1_keywords:
 - reverse settlement
 ---
 
-# (RUS) Settle tax liabilities 
+# (RUS) Settle tax liabilities [AX 2012]
 
 
 Tax liability is the unpaid amount of tax the employees owe to the tax authority. This tax is paid by the legal entity on behalf of the employee. Use the **NDFL payment settlement** form to filter tax payments and tax liabilities, and to settle the tax liabilities. Tax liabilities can be settled for different kinds of pay-sheets using the **Deducted NDFL on interim pay-sheets** form. You can also reverse settlements that are made for tax liabilities.

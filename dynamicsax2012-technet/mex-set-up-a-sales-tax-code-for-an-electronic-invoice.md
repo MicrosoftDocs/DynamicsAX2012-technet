@@ -13,7 +13,7 @@ f1_keywords:
 - Set up
 ---
 
-# (MEX) Set up a sales tax code for an electronic invoice 
+# (MEX) Set up a sales tax code for an electronic invoice [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

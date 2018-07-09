@@ -18,7 +18,7 @@ f1_keywords:
 - Forms.TMSLoadBuildWorkbench
 ---
 
-# Automate the process of building loads 
+# Automate the process of building loads [AX 2012]
 
 
 

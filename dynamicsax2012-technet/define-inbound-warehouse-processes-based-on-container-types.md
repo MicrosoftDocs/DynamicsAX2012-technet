@@ -8,7 +8,7 @@ ms.date: 07/20/2016
 mtps_version: v=AX.60
 ---
 
-# Define inbound warehouse processes based on container types 
+# Define inbound warehouse processes based on container types [AX 2012]
 
 
 ## Create a container type

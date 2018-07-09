@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.associate
 ---
 
-# associate
+# associate[AX 2012]
 
 To connect peer objects.
 

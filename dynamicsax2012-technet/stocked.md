@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.stocked
 ---
 
-# stocked
+# stocked[AX 2012]
 
 A policy that controls whether products are tracked in stock.
 

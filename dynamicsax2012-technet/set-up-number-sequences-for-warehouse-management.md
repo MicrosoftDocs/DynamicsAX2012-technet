@@ -15,7 +15,7 @@ f1_keywords:
 - work transaction
 ---
 
-# Set up number sequences for warehouse management 
+# Set up number sequences for warehouse management [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

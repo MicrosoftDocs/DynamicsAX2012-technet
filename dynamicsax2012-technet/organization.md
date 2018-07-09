@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.organization
 ---
 
-# organization
+# organization[AX 2012]
 
 A work structure that divides the responsibility for economic resources and processes.
 

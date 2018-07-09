@@ -14,7 +14,7 @@ f1_keywords:
 - BR - 00041
 ---
 
-# (BRA) About the configurator 
+# (BRA) About the configurator [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

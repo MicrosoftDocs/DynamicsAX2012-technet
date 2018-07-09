@@ -13,7 +13,7 @@ f1_keywords:
 - worker table
 ---
 
-# (RUS) Set up a worker table number for an advance holder 
+# (RUS) Set up a worker table number for an advance holder [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

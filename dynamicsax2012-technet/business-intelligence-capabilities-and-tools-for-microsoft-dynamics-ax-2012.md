@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Business Intelligence Capabilities and Tools for Microsoft Dynamics AX 2012 
+# Business Intelligence Capabilities and Tools for Microsoft Dynamics AX 2012 [AX 2012]
 
 
 This document provides information about BI tools and capabilities, and provides a scenario-based framework for choosing the right BI tool for the needs of different categories of users in an organization.

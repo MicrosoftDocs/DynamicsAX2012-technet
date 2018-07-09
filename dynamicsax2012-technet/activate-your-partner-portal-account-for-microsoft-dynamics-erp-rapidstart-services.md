@@ -19,7 +19,7 @@ f1_keywords:
 - register RapidStart partner
 ---
 
-# Activate your Partner Portal account for Microsoft Dynamics ERP RapidStart Services 
+# Activate your Partner Portal account for Microsoft Dynamics ERP RapidStart Services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

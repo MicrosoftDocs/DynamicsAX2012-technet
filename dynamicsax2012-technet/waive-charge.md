@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.waive charge
 ---
 
-# waive charge
+# waive charge[AX 2012]
 
 To withdraw the interest or fees originally owed by a party.
 

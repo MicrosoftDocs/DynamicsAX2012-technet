@@ -8,7 +8,7 @@ ms.date: 08/25/2014
 mtps_version: v=AX.60
 ---
 
-# About redistributing manually assigned hours for a work breakdown structure in AX 2012 R3 
+# About redistributing manually assigned hours for a work breakdown structure in AX 2012 R3 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -31,7 +31,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailMachineTableListPage
 ---
 
-# Set up a Retail topology to use with deployment tools 
+# Set up a Retail topology to use with deployment tools [AX 2012]
 
 
 Before you can use deployment tools to mass deploy retail components, you must enter information about the topology of the retail environment in Microsoft Dynamics AX. You’ll also specify settings for each component that will be deployed.

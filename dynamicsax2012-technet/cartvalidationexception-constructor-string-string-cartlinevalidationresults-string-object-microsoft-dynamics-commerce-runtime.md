@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# CartValidationException Constructor (String, String, CartLineValidationResults, String, Object )
+# CartValidationException Constructor (String, String, CartLineValidationResults, String, Object )[AX 2012]
 
 Initializes a new instance of the [CartValidationException](cartvalidationexception-class-microsoft-dynamics-commerce-runtime.md) class.
 

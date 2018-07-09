@@ -8,7 +8,7 @@ ms.date: 07/19/2016
 mtps_version: v=AX.60
 ---
 
-# Technical diagram posters for Microsoft Dynamics AX 2012 
+# Technical diagram posters for Microsoft Dynamics AX 2012 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

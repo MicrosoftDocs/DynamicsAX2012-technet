@@ -13,7 +13,7 @@ f1_keywords:
 - SION items form
 ---
 
-# (IND) Set up the SION items 
+# (IND) Set up the SION items [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

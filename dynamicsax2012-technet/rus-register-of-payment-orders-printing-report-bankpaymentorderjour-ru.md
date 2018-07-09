@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.BankPaymentOrderJour_RU
 ---
 
-# (RUS) Register of payment orders printing report (BankPaymentOrderJour\_RU) 
+# (RUS) Register of payment orders printing report (BankPaymentOrderJour\_RU) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

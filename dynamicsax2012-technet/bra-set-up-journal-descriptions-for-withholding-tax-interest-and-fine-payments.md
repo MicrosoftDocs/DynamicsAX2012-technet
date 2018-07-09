@@ -15,7 +15,7 @@ f1_keywords:
 - withholding tax payment
 ---
 
-# (BRA) Set up journal descriptions for withholding tax, interest, and fine payments 
+# (BRA) Set up journal descriptions for withholding tax, interest, and fine payments [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

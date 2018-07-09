@@ -12,7 +12,7 @@ f1_keywords:
 - HST
 ---
 
-# (CAN) Set up GST/HST and post a purchase order with tax on acquisition details 
+# (CAN) Set up GST/HST and post a purchase order with tax on acquisition details [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

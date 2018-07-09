@@ -8,7 +8,7 @@ ms.date: 03/12/2014
 mtps_version: v=AX.60
 ---
 
-# Guidance when Upgrading Reports 
+# Guidance when Upgrading Reports [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

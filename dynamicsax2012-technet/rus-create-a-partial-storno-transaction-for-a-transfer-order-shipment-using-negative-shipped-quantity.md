@@ -11,7 +11,7 @@ f1_keywords:
 - transfer shipment order
 ---
 
-# (RUS) Create a partial storno transaction for a transfer order shipment using negative shipped quantity 
+# (RUS) Create a partial storno transaction for a transfer order shipment using negative shipped quantity [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

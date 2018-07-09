@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.outbound port
 ---
 
-# outbound port
+# outbound port[AX 2012]
 
 A port for servicing outbound requests.
 

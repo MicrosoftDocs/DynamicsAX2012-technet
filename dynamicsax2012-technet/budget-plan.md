@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.budget plan
 ---
 
-# budget plan
+# budget plan[AX 2012]
 
 A document that is used to develop estimates for amounts and units in budget plan scenarios.
 

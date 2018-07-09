@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.signal
 ---
 
-# signal
+# signal[AX 2012]
 
 A notification of an event that triggers an activity.
 

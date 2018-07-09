@@ -8,7 +8,7 @@ ms.date: 07/27/2015
 mtps_version: v=AX.60
 ---
 
-# (RUS) Cash flow management 
+# (RUS) Cash flow management [AX 2012]
 
 
 This article explains how you can use Cash flow management for Russia for Microsoft Dynamics AX. This functionality is available if you have installed hotfix 3072850 for Russia (RUS).

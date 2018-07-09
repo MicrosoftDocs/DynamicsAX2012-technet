@@ -17,7 +17,7 @@ f1_keywords:
 - Forms.RHRMVirtualNetworkRaisingSkill
 ---
 
-# (RUS) Record and maintain competency information for workers and employees 
+# (RUS) Record and maintain competency information for workers and employees [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

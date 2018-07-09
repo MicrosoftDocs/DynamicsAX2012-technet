@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.beneficiary
 ---
 
-# beneficiary
+# beneficiary[AX 2012]
 
 A person who is a member of an organization that provides benefits, or a party who is designated as the recipient a benefit.
 

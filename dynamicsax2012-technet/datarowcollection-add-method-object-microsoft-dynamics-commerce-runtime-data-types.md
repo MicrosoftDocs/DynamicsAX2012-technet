@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# Add Method (Object )
+# Add Method (Object )[AX 2012]
 
 Adds a new row based on it's data content.
 

@@ -11,7 +11,7 @@ f1_keywords:
 - Glossary.register
 ---
 
-# register
+# register[AX 2012]
 
   - A record that is used to record the operational, legal, and financial consequences of resource flow events in an accounting system.
 

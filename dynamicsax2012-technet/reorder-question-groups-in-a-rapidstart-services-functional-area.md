@@ -11,7 +11,7 @@ f1_keywords:
 - reorder
 ---
 
-# Reorder question groups in a RapidStart Services functional area 
+# Reorder question groups in a RapidStart Services functional area [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

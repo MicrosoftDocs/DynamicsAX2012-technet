@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.base currency unit
 ---
 
-# base currency unit
+# base currency unit[AX 2012]
 
 The computed currency unit in an exchange rate calculation.
 

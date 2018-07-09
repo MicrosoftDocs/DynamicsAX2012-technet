@@ -11,7 +11,7 @@ f1_keywords:
 - budget control and apportionments
 ---
 
-# View budget activities for apportionments (Public Sector) 
+# View budget activities for apportionments (Public Sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

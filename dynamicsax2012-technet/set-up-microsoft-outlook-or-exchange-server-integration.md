@@ -11,7 +11,7 @@ f1_keywords:
 - microsoft outlook
 ---
 
-# Set up Microsoft Outlook or Exchange Server integration 
+# Set up Microsoft Outlook or Exchange Server integration [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

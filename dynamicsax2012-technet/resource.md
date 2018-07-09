@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.resource
 ---
 
-# resource
+# resource[AX 2012]
 
 A stock of money, product, or people services used in the performance of an activity.
 

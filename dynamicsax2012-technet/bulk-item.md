@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.bulk item
 ---
 
-# bulk item
+# bulk item[AX 2012]
 
 A formula item input into a product delivery activity.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.unrealized gain
 ---
 
-# unrealized gain
+# unrealized gain[AX 2012]
 
 The anticipated increase in the value of an asset calculated as the difference in the value of the asset when two economic events occur and when the difference is recognized on the occurrence of the second event as an anticipated increase in wealth.
 

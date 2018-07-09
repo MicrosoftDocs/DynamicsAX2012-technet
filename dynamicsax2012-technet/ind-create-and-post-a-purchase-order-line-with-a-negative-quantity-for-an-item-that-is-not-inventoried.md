@@ -15,7 +15,7 @@ f1_keywords:
 - quanity
 ---
 
-# (IND) Create and post a purchase order line with a negative quantity for an item that is not inventoried 
+# (IND) Create and post a purchase order line with a negative quantity for an item that is not inventoried [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.expense product
 ---
 
-# expense product
+# expense product[AX 2012]
 
 A received product that is a current asset, not held for sale or consumed in production, and for which there is no stock control policy requiring quantity tracking or inventory control policy requiring stock value tracking, and for which there is an accounting policy requiring the recording of the cost as an expense.
 

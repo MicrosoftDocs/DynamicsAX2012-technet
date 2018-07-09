@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.main account category
 ---
 
-# main account category
+# main account category[AX 2012]
 
 A classifier of a main account.
 

@@ -8,7 +8,7 @@ ms.date: 06/24/2015
 mtps_version: v=AX.60
 ---
 
-# Set up permission groups and operations (Retail essentials) 
+# Set up permission groups and operations (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

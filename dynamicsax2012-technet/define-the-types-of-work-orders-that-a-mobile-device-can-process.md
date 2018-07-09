@@ -19,7 +19,7 @@ f1_keywords:
 - work class
 ---
 
-# Define the types of work orders that a mobile device can process 
+# Define the types of work orders that a mobile device can process [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

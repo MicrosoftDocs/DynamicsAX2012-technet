@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.magnitude
 ---
 
-# magnitude
+# magnitude[AX 2012]
 
 The numeric component of a measurement.
 

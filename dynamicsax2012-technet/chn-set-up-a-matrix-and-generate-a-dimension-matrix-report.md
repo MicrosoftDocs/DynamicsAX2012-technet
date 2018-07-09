@@ -14,7 +14,7 @@ f1_keywords:
 - subdimensions
 ---
 
-# (CHN) Set up a matrix and generate a dimension matrix report 
+# (CHN) Set up a matrix and generate a dimension matrix report [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

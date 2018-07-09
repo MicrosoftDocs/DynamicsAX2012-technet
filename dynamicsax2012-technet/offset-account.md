@@ -11,7 +11,7 @@ f1_keywords:
 - DynamicsAXGlossary.1496324
 ---
 
-# offset account
+# offset account[AX 2012]
 
   - In double-entry accounting, the account used to balance a transaction so that debits equal credits.
 

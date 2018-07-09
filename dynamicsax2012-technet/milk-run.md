@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.milk run
 ---
 
-# milk run
+# milk run[AX 2012]
 
 A freight delivery route that entails two or more stops, where the carrier delivers loads either from a single supplier to multiple buyers or from multiple suppliers to a single buyer.
 

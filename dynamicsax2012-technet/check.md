@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.check
 ---
 
-# check
+# check[AX 2012]
 
 A bill of exchange drawn on a bank.
 

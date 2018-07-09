@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.fully qualified account number
 ---
 
-# fully qualified account number
+# fully qualified account number[AX 2012]
 
 A ledger account number in which all segments of an account structure are entered and validated.
 

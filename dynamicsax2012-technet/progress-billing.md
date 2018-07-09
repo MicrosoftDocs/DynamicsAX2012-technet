@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.progress billing
 ---
 
-# progress billing
+# progress billing[AX 2012]
 
 A method of requesting payment when work progress objectives or rate targets are reached.
 

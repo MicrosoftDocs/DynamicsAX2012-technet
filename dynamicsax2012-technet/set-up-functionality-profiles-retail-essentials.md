@@ -10,7 +10,7 @@ f1_keywords:
 - 54dcb5e1-c519-4446-a883-faff1493436f
 ---
 
-# Set up functionality profiles (Retail essentials) 
+# Set up functionality profiles (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

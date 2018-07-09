@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.receipt item
 ---
 
-# receipt item
+# receipt item[AX 2012]
 
 An itemized product that is received in an operations process.
 

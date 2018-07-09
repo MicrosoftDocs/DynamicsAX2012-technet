@@ -12,7 +12,7 @@ f1_keywords:
 - Glossary.transaction
 ---
 
-# transaction
+# transaction[AX 2012]
 
   - A social economic exchange action.
 

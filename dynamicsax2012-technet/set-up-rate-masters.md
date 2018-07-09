@@ -12,7 +12,7 @@ f1_keywords:
 - rate masters
 ---
 
-# Set up rate masters 
+# Set up rate masters [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

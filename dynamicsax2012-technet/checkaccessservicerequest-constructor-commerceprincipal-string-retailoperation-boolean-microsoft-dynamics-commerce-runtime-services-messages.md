@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# CheckAccessServiceRequest Constructor (CommercePrincipal, String , RetailOperation, Boolean)
+# CheckAccessServiceRequest Constructor (CommercePrincipal, String , RetailOperation, Boolean)[AX 2012]
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Services.Messages (in Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll)

@@ -11,7 +11,7 @@ f1_keywords:
 - Classes.RetailLoyaltyCardTransferBalance
 ---
 
-# Adjust loyalty cards 
+# Adjust loyalty cards [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

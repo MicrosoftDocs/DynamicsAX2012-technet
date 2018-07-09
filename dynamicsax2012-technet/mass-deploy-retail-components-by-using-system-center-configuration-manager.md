@@ -8,7 +8,7 @@ ms.date: 10/28/2016
 mtps_version: v=AX.60
 ---
 
-# Mass deploy Retail components by using System Center Configuration Manager 
+# Mass deploy Retail components by using System Center Configuration Manager [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

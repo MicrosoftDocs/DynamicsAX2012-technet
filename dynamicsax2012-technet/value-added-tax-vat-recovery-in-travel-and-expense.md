@@ -12,7 +12,7 @@ f1_keywords:
 - travel
 ---
 
-# Value Added Tax (VAT) recovery in Travel and expense 
+# Value Added Tax (VAT) recovery in Travel and expense [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.container
 ---
 
-# container
+# container[AX 2012]
 
 A handling unit for shipping and receiving items.
 

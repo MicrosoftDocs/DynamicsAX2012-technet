@@ -8,7 +8,7 @@ ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---
 
-# Delete outdated sales orders for a call center 
+# Delete outdated sales orders for a call center [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

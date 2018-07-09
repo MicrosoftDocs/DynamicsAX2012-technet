@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.withholding tax
 ---
 
-# withholding tax
+# withholding tax[AX 2012]
 
 A tax levied by a government authority that is deducted from compensation.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.abend
 ---
 
-# abend
+# abend[AX 2012]
 
 The premature ending of a program because of a program error or system failure.
 

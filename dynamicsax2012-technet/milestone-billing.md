@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.milestone billing
 ---
 
-# milestone billing
+# milestone billing[AX 2012]
 
 A method of requesting payment when predefined milestones are reached.
 

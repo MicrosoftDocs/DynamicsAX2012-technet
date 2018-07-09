@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.legal entity
 ---
 
-# legal entity
+# legal entity[AX 2012]
 
 An organization with a registered or legislated legal structure that is granted the authority to enter into legal contracts and that is required to prepare statements that report on its performance.
 

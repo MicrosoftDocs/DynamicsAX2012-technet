@@ -8,7 +8,7 @@ ms.date: 06/07/2014
 mtps_version: v=AX.60
 ---
 
-# Create sales orders in the call center 
+# Create sales orders in the call center [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

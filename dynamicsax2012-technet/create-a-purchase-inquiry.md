@@ -12,7 +12,7 @@ f1_keywords:
 - Purchase inquiry
 ---
 
-# Create a purchase inquiry 
+# Create a purchase inquiry [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

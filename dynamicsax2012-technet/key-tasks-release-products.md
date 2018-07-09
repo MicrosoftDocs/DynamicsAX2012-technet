@@ -18,7 +18,7 @@ f1_keywords:
 - release items
 ---
 
-# Key tasks: Release products 
+# Key tasks: Release products [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

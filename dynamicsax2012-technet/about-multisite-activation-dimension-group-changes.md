@@ -13,7 +13,7 @@ f1_keywords:
 - warehouse dimension
 ---
 
-# About multisite activation - dimension group changes 
+# About multisite activation - dimension group changes [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

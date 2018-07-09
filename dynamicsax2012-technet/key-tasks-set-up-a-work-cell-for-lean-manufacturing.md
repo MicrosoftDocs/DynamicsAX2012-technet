@@ -21,7 +21,7 @@ f1_keywords:
 - resource group capacity
 ---
 
-# Key tasks: Set up a work cell for lean manufacturing 
+# Key tasks: Set up a work cell for lean manufacturing [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

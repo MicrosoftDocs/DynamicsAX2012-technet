@@ -8,7 +8,7 @@ ms.date: 08/26/2014
 mtps_version: v=AX.60
 ---
 
-# Enterprise Portal on Microsoft SharePoint 2013 
+# Enterprise Portal on Microsoft SharePoint 2013 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

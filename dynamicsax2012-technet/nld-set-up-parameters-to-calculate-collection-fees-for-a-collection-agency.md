@@ -19,7 +19,7 @@ f1_keywords:
 - Forms.CustCollectionAgencyGracePeriodSetup_W
 ---
 
-# (NLD) Set up parameters to calculate collection fees for a collection agency 
+# (NLD) Set up parameters to calculate collection fees for a collection agency [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

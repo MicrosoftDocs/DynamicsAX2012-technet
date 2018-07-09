@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.category hierarchy
 ---
 
-# category hierarchy
+# category hierarchy[AX 2012]
 
 A structure that orders categories using a superordinate-subordinate relationship.
 

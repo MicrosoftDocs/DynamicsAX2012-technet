@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting category
 ---
 
-# accounting category
+# accounting category[AX 2012]
 
 A classifier used to group journal account entries according to their economic characteristics.
 

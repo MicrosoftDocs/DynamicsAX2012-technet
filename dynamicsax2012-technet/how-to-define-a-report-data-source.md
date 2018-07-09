@@ -10,7 +10,7 @@ f1_keywords:
 - Microsoft.Dynamics.Framework.Design.Model.Reports.ExternalDataSourceDefinition
 ---
 
-# How to: Define a Report Data Source 
+# How to: Define a Report Data Source [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

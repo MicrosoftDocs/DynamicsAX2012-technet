@@ -13,7 +13,7 @@ f1_keywords:
 - MsDynAx060.Forms.TaxSetOffRule_IN
 ---
 
-# (IND) Create a tax setoff rule to settle an excise recoverable amount 
+# (IND) Create a tax setoff rule to settle an excise recoverable amount [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_

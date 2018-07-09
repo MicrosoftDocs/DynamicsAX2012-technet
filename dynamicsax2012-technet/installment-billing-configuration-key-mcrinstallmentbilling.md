@@ -8,7 +8,7 @@ ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
 
-# Installment billing configuration key (MCRInstallmentBilling) 
+# Installment billing configuration key (MCRInstallmentBilling) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

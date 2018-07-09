@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Intrastat in Microsoft Dynamics AX 2012 R2 
+# Intrastat in Microsoft Dynamics AX 2012 R2 [AX 2012]
 
 
 This white paper explains where information comes from for each box on the German Intrastat arrival and dispatch forms, how to set up Intrastat, and how to transfer transactions and generate Intrastat forms for arrivals and dispatches. Intrastat reporting is the system that is used to record information and generate statistics on the compulsory declaration of movements of goods to or from other member states of the European Union (EU).

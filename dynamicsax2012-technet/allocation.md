@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.allocation
 ---
 
-# allocation
+# allocation[AX 2012]
 
 An assignment of a portion of a resource for a particular use or purpose.
 

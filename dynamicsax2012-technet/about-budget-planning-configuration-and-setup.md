@@ -18,7 +18,7 @@ f1_keywords:
 - plan budget
 ---
 
-# About budget planning configuration and setup 
+# About budget planning configuration and setup [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

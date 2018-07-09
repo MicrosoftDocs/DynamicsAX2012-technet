@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.budget control dimension
 ---
 
-# budget control dimension
+# budget control dimension[AX 2012]
 
 A combination of active financial dimensions values used to allocate budget funds to pay for planned activities.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.phantom item
 ---
 
-# phantom item
+# phantom item[AX 2012]
 
 An item that is produced but not stocked.
 

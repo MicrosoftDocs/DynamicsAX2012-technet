@@ -11,7 +11,7 @@ f1_keywords:
 - DynamicsAXGlossary.1975571
 ---
 
-# chart of accounts
+# chart of accounts[AX 2012]
 
   - An account structure whose valid value combinations are constrained by integrity constraints and account rules.
 

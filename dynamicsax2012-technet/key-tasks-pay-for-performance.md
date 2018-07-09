@@ -8,7 +8,7 @@ ms.date: 09/02/2014
 mtps_version: v=AX.60
 ---
 
-# Key tasks: Pay for performance 
+# Key tasks: Pay for performance [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

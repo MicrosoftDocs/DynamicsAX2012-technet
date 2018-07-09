@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.magnetic stripe reader
 ---
 
-# magnetic stripe reader
+# magnetic stripe reader[AX 2012]
 
 A device used to interpret data that is encoded on a magnetic stripe card.
 

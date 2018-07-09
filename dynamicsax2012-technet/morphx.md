@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.MorphX
 ---
 
-# MorphX
+# MorphX[AX 2012]
 
 The Microsoft Dynamics AX integrated development environment (IDE).
 

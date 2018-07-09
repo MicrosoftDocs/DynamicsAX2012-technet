@@ -12,7 +12,7 @@ f1_keywords:
 - work pool
 ---
 
-# Set up a work pool 
+# Set up a work pool [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

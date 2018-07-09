@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.0bef7e59-9f5c-4c2f-98f5-aca5cb8c8b5c
 ---
 
-# Create a channel data group (Retail essentials) 
+# Create a channel data group (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

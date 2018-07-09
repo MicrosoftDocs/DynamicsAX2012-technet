@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.product
 ---
 
-# product
+# product[AX 2012]
 
 An item, service, or right that is output from an economic activity.
 

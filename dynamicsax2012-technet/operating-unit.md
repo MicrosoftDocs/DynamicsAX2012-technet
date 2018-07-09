@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.operating unit
 ---
 
-# operating unit
+# operating unit[AX 2012]
 
 An organization that divides the control of economic resources and operational processes among people who have a duty to maximize the use of scarce resources, to improve processes, and to account for their performance.
 

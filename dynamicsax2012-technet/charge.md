@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.charge
 ---
 
-# charge
+# charge[AX 2012]
 
 The incidental cost of product acquisition or product delivery.
 

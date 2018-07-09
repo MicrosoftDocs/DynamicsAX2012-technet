@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.product master
 ---
 
-# product master
+# product master[AX 2012]
 
 A standard or functional product representation that is the basis for configuring product variants.
 

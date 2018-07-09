@@ -18,7 +18,7 @@ f1_keywords:
 - continuity order
 ---
 
-# Set up continuity programs 
+# Set up continuity programs [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

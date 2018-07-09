@@ -24,7 +24,7 @@ f1_keywords:
 - raises
 ---
 
-# Configure personnel actions 
+# Configure personnel actions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

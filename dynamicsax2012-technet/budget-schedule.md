@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.budget schedule
 ---
 
-# budget schedule
+# budget schedule[AX 2012]
 
 A schedule for the planned expenditure of allocated financial resources.
 

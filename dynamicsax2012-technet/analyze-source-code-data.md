@@ -18,7 +18,7 @@ f1_keywords:
 - source codes
 ---
 
-# Analyze source code data 
+# Analyze source code data [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

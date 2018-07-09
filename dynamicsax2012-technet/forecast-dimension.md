@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.forecast dimension
 ---
 
-# forecast dimension
+# forecast dimension[AX 2012]
 
 A dimension that is used to characterize the level of detail for which a forecast is defined.
 

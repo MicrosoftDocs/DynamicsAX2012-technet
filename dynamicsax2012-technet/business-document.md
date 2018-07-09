@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.business document
 ---
 
-# business document
+# business document[AX 2012]
 
 A view of a source document that is issued by one party and received by one or more other parties.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.net book value
 ---
 
-# net book value
+# net book value[AX 2012]
 
 The value of a fixed asset calculated as the difference between the original cost of the fixed asset minus its accumulated depreciations.
 

@@ -20,7 +20,7 @@ f1_keywords:
 - without payment of duty
 ---
 
-# (IND) Update excise registers for finished goods and by-products 
+# (IND) Update excise registers for finished goods and by-products [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

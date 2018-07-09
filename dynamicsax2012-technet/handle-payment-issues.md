@@ -25,7 +25,7 @@ f1_keywords:
 - decline credit card
 ---
 
-# Handle payment issues 
+# Handle payment issues [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

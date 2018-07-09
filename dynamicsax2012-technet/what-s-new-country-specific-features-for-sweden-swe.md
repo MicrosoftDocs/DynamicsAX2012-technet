@@ -8,7 +8,7 @@ ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Sweden (SWE) 
+# What's new: Country-specific features for Sweden (SWE) [AX 2012]
 
 
 In Microsoft Dynamics AX 2012 R3, we changed and added country-specific functionality for Sweden. For more information, see the table that follows.

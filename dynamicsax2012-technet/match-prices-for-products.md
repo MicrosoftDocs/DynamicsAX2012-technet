@@ -13,7 +13,7 @@ f1_keywords:
 - match prices
 ---
 
-# Match prices for products 
+# Match prices for products [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

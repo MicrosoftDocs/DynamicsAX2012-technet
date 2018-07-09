@@ -24,7 +24,7 @@ f1_keywords:
 - Forms.MCRSalesStatsCustTable
 ---
 
-# Complete common tasks in the Call center by using the Customer service form 
+# Complete common tasks in the Call center by using the Customer service form [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.bailor
 ---
 
-# bailor
+# bailor[AX 2012]
 
 A person or an organization that transfers personal property or items, but not proprietary rights, to another person or organization for storage purposes.
 

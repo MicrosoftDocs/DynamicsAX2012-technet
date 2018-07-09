@@ -8,7 +8,7 @@ ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---
 
-# Specify inclusive or exclusive tax (Retail essentials) 
+# Specify inclusive or exclusive tax (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

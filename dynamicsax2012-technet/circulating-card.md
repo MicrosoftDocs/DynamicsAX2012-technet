@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.circulating card
 ---
 
-# circulating card
+# circulating card[AX 2012]
 
 A reusable card that signals process and transfer activities as it circulates between the material’s point of origin and point of consumption.
 

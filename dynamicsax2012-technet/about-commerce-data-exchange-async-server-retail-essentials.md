@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.0a4fbee9-18b6-4243-824e-a3433e38e0e3
 ---
 
-# About Commerce Data Exchange: Async Server (Retail essentials) 
+# About Commerce Data Exchange: Async Server (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

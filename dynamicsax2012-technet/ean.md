@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.EAN
 ---
 
-# EAN
+# EAN[AX 2012]
 
 A 13-digit international barcode standard maintained by GS1.
 

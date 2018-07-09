@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.batch balancing
 ---
 
-# batch balancing
+# batch balancing[AX 2012]
 
 A process that adjusts the required quantities of ingredients that are used in the production of a formula based on the level of potency of active ingredient of a specific inventory batch.
 

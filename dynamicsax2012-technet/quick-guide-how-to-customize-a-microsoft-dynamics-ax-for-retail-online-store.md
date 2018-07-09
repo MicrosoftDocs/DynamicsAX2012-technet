@@ -8,7 +8,7 @@ ms.date: 07/29/2015
 mtps_version: v=AX.60
 ---
 
-# Quick Guide: How to customize a Microsoft Dynamics AX for Retail online store 
+# Quick Guide: How to customize a Microsoft Dynamics AX for Retail online store [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

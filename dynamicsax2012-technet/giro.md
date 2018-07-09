@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.giro
 ---
 
-# giro
+# giro[AX 2012]
 
 An electronic funds transfer system available in the European Union that permits a payer to transfer funds from their bank account to a payee's bank account.
 

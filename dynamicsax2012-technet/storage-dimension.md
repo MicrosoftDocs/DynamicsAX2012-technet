@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.storage dimension
 ---
 
-# storage dimension
+# storage dimension[AX 2012]
 
 The site, warehouse, and inventory location attributes that are used to locate an item in storage.
 

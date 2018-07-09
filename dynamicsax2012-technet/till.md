@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.till
 ---
 
-# till
+# till[AX 2012]
 
 The removable tray in a cash register drawer.
 

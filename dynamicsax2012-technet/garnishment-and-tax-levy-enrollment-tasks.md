@@ -15,7 +15,7 @@ f1_keywords:
 - administrative fees
 ---
 
-# Garnishment and tax levy enrollment tasks 
+# Garnishment and tax levy enrollment tasks [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

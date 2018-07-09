@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.soft booking
 ---
 
-# soft booking
+# soft booking[AX 2012]
 
 A project booking that tentatively assigns a resource to a project or activity without committing it to the schedule.
 

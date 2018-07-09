@@ -11,7 +11,7 @@ f1_keywords:
 - Forms.RetailStatementJour
 ---
 
-# (RUS) Post a statement for return transactions that are processed during a different shift 
+# (RUS) Post a statement for return transactions that are processed during a different shift [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.workflow decision element
 ---
 
-# workflow decision element
+# workflow decision element[AX 2012]
 
 A guard condition that controls the logical branching of task sequences within a workflow process. A workflow decision can be made by a user or by an automation rule.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RAssetDisposal
 ---
 
-# (RUS) FA disposal report (RAssetDisposal) 
+# (RUS) FA disposal report (RAssetDisposal) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

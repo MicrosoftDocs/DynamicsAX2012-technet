@@ -15,7 +15,7 @@ f1_keywords:
 - NF-e city fiscal document
 ---
 
-# (BRA) Create and confirm a sales order for an electronic fiscal document for services 
+# (BRA) Create and confirm a sales order for an electronic fiscal document for services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.consolidation account
 ---
 
-# consolidation account
+# consolidation account[AX 2012]
 
 The main account in the parent legal entity that is used for ledger consolidation.
 

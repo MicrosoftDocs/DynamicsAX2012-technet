@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales order policy
 ---
 
-# sales order policy
+# sales order policy[AX 2012]
 
 A policy that authorizes parties to modify sales order terms and to control order processing and payment processes.
 

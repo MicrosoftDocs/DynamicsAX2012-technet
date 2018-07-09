@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales tax hierarchy node
 ---
 
-# sales tax hierarchy node
+# sales tax hierarchy node[AX 2012]
 
 A node in a sales tax hierarchy that represents sales tax information, such as the tax component or the excise record type.
 

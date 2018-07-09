@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.liquidity ratio
 ---
 
-# liquidity ratio
+# liquidity ratio[AX 2012]
 
 The proportion of a party's current assets that can be used to settle current liabilities.
 

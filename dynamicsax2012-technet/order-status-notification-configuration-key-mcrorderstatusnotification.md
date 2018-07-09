@@ -11,7 +11,7 @@ f1_keywords:
 - Order status notification configuration key
 ---
 
-# Order status notification configuration key (MCROrderStatusNotification) 
+# Order status notification configuration key (MCROrderStatusNotification) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

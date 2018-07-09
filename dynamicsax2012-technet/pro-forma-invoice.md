@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.pro forma invoice
 ---
 
-# pro forma invoice
+# pro forma invoice[AX 2012]
 
 A business document that is a view of a customer invoice or vendor invoice that documents a payment request but is not an offer or a demand for payment.
 

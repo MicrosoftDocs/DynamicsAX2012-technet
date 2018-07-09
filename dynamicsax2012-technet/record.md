@@ -12,7 +12,7 @@ f1_keywords:
 - Glossary.record
 ---
 
-# record
+# record[AX 2012]
 
   - The data that defines and describes the parties, products, locations, and activities that compose the economic transaction.
 

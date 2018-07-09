@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.ProjWIPCateg2Column
 ---
 
-# Category WIP (actual vs. budget) report (ProjWIPCateg2Column) 
+# Category WIP (actual vs. budget) report (ProjWIPCateg2Column) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

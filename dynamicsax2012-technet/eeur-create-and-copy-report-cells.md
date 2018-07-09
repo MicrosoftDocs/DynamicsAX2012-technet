@@ -11,7 +11,7 @@ f1_keywords:
 - create report cells
 ---
 
-# (EEUR) Create and copy report cells 
+# (EEUR) Create and copy report cells [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

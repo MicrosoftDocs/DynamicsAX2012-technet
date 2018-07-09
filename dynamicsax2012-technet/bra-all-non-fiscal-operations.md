@@ -12,7 +12,7 @@ f1_keywords:
 - SPED EFD
 ---
 
-# (BRA) All non fiscal operations 
+# (BRA) All non fiscal operations [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

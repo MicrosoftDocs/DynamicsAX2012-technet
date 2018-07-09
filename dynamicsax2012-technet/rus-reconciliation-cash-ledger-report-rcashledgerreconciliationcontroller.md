@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RCashLedgerReconciliation
 ---
 
-# (RUS) Reconciliation cash ledger report (RCashLedgerReconciliationController) 
+# (RUS) Reconciliation cash ledger report (RCashLedgerReconciliationController) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

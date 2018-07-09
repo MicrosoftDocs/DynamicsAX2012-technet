@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.ac9c49cc-6d3d-41a8-8bcb-a03cf2075da0
 ---
 
-# Set up a channel database profile (Retail essentials) 
+# Set up a channel database profile (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

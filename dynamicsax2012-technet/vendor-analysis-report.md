@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.vendor analysis report
 ---
 
-# vendor analysis report
+# vendor analysis report[AX 2012]
 
 A document that displays vendor invoice amounts summarized by one or more dimensions. A vendor analysis report is used to monitor and control expenditures assigned to parties, products, locations, activities, or one or more of their classifiers.
 

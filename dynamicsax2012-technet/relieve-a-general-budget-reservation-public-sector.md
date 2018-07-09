@@ -17,7 +17,7 @@ f1_keywords:
 - relief of budget reservations
 ---
 
-# Relieve a general budget reservation (Public sector) 
+# Relieve a general budget reservation (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

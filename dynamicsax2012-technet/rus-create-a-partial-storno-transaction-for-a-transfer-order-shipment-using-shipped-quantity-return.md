@@ -10,7 +10,7 @@ f1_keywords:
 - storno
 ---
 
-# (RUS) Create a partial storno transaction for a transfer order shipment using shipped quantity return 
+# (RUS) Create a partial storno transaction for a transfer order shipment using shipped quantity return [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.business event
 ---
 
-# business event
+# business event[AX 2012]
 
 The abstraction of an economic event and an accounting event.
 

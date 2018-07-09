@@ -11,7 +11,7 @@ f1_keywords:
 - on-account
 ---
 
-# Create an invoice for on-account transactions 
+# Create an invoice for on-account transactions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -8,7 +8,7 @@ ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---
 
-# What's new: Region-specific features for Europe 
+# What's new: Region-specific features for Europe [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

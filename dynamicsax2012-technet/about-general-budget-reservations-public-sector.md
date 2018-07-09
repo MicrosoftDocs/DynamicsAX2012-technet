@@ -15,7 +15,7 @@ f1_keywords:
 - general budget reservations
 ---
 
-# About general budget reservations (Public sector) 
+# About general budget reservations (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

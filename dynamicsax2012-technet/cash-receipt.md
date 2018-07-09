@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cash receipt
 ---
 
-# cash receipt
+# cash receipt[AX 2012]
 
 A source document that documents the receipt of cash or cash equivalents.
 

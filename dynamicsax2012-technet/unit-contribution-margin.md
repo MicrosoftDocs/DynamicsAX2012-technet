@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.unit contribution margin
 ---
 
-# unit contribution margin
+# unit contribution margin[AX 2012]
 
 The unit sales price minus the unit variable cost.
 

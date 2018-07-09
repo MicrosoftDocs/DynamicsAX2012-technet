@@ -12,7 +12,7 @@ f1_keywords:
 - German journal list report
 ---
 
-# (DEU) German journal list report (LedgerJournalizeReport\_DE) 
+# (DEU) German journal list report (LedgerJournalizeReport\_DE) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

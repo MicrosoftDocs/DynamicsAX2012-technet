@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.primary key
 ---
 
-# primary key
+# primary key[AX 2012]
 
 A candidate key that is selected to be the principle identifier for uniquely identifying records in a database table.
 

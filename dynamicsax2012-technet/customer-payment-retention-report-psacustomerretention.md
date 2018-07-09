@@ -18,7 +18,7 @@ f1_keywords:
 - payment retention reports
 ---
 
-# Customer payment retention report (PSACustomerRetention) 
+# Customer payment retention report (PSACustomerRetention) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

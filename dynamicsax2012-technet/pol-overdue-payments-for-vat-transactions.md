@@ -14,7 +14,7 @@ f1_keywords:
 - overdue vendor debt
 ---
 
-# (POL) Overdue payments for VAT transactions 
+# (POL) Overdue payments for VAT transactions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

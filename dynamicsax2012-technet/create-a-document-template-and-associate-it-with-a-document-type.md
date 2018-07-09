@@ -11,7 +11,7 @@ f1_keywords:
 - template integration
 ---
 
-# Create a document template and associate it with a document type 
+# Create a document template and associate it with a document type [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

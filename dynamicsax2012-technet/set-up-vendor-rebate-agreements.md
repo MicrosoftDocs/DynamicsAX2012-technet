@@ -21,7 +21,7 @@ f1_keywords:
 - vendor rebate
 ---
 
-# Set up vendor rebate agreements 
+# Set up vendor rebate agreements [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

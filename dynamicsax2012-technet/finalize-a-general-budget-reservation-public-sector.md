@@ -20,7 +20,7 @@ f1_keywords:
 - finalized general budget reservations
 ---
 
-# Finalize a general budget reservation (Public sector) 
+# Finalize a general budget reservation (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

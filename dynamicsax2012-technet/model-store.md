@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.model store
 ---
 
-# model store
+# model store[AX 2012]
 
 A Microsoft SQL Server database where all objects in the Application Object Tree (AOT) are stored.
 

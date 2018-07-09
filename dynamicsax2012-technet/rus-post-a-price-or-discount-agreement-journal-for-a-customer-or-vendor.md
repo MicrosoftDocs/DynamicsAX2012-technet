@@ -13,7 +13,7 @@ f1_keywords:
 - price journal
 ---
 
-# (RUS) Post a price or discount agreement journal for a customer or vendor 
+# (RUS) Post a price or discount agreement journal for a customer or vendor [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

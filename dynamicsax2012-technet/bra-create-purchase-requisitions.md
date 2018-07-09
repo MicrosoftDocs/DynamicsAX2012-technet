@@ -12,7 +12,7 @@ f1_keywords:
 - brazil
 ---
 
-# (BRA) Create purchase requisitions 
+# (BRA) Create purchase requisitions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

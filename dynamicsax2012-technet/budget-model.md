@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.budget model
 ---
 
-# budget model
+# budget model[AX 2012]
 
 A planning structure used to schedule budget fund allocations and expenditures.
 

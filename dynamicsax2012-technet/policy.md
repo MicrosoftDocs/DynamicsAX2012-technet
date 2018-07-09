@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.policy
 ---
 
-# policy
+# policy[AX 2012]
 
 One or more rules or procedures that operationalize internal controls.
 

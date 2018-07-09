@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.valid time state table
 ---
 
-# valid time state table
+# valid time state table[AX 2012]
 
 A table that tracks the state of an entity over time using a valid-from and a valid-to column.
 

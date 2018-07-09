@@ -10,7 +10,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailStatementJour
 ---
 
-# View posted statements (Retail essentials) 
+# View posted statements (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

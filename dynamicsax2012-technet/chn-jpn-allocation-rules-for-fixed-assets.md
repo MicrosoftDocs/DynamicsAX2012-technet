@@ -14,7 +14,7 @@ f1_keywords:
 - Depreciation expense
 ---
 
-# (CHN, JPN) Allocation rules for fixed assets 
+# (CHN, JPN) Allocation rules for fixed assets [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

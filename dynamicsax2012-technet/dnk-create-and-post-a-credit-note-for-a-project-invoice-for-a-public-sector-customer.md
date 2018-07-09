@@ -13,7 +13,7 @@ f1_keywords:
 - credit note
 ---
 
-# (DNK) Create and post a credit note for a project invoice for a public sector customer 
+# (DNK) Create and post a credit note for a project invoice for a public sector customer [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

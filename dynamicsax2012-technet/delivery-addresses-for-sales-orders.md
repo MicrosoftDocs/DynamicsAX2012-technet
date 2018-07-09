@@ -15,7 +15,7 @@ f1_keywords:
 - delivery addresses
 ---
 
-# Delivery addresses for sales orders 
+# Delivery addresses for sales orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

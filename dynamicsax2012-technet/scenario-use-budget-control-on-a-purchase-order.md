@@ -12,7 +12,7 @@ f1_keywords:
 - purchase orders and budget control
 ---
 
-# Scenario: Use budget control on a purchase order 
+# Scenario: Use budget control on a purchase order [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

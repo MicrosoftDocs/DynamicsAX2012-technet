@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.journal
 ---
 
-# journal
+# journal[AX 2012]
 
 A register of original accounting entries.
 

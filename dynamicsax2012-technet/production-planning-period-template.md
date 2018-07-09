@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.production planning period template
 ---
 
-# production planning period template
+# production planning period template[AX 2012]
 
 A user-defined timetable that is used to structure and display existing product requirements.
 

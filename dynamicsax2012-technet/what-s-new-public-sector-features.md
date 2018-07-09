@@ -14,7 +14,7 @@ f1_keywords:
 - Public sector features
 ---
 
-# What's new: Public sector features 
+# What's new: Public sector features [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -32,7 +32,7 @@ f1_keywords:
 - MsDynAx060.Forms.AssetTableListPage
 ---
 
-# (JPN) Set up impairment accounting for fixed assets 
+# (JPN) Set up impairment accounting for fixed assets [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

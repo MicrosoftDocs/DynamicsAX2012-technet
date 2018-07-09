@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.public cloud
 ---
 
-# public cloud
+# public cloud[AX 2012]
 
 The cloud infrastructure that is provisioned for open use by the general public. It may be owned, managed, and operated by a business, academic, or government organization, or some combination of them. It exists on the premises of the cloud provider.
 

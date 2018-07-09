@@ -12,7 +12,7 @@ f1_keywords:
 - demand planning
 ---
 
-# Create a baseline forecast 
+# Create a baseline forecast [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -10,7 +10,7 @@ f1_keywords:
 - Microsoft.Dynamics.Framework.Design.Model.Reports.ReportParametersDefinition
 ---
 
-# How to: Define a Report Parameter 
+# How to: Define a Report Parameter [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

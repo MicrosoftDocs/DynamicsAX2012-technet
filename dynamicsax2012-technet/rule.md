@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.rule
 ---
 
-# rule
+# rule[AX 2012]
 
 A condition-action pair that prescribes the action taken when the condition is met.
 

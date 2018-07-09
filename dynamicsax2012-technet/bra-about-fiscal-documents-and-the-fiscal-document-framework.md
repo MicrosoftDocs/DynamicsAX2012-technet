@@ -11,7 +11,7 @@ f1_keywords:
 - BR - 00010
 ---
 
-# (BRA) About fiscal documents and the fiscal document framework 
+# (BRA) About fiscal documents and the fiscal document framework [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

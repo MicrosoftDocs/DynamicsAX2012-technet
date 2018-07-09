@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.best before date
 ---
 
-# best before date
+# best before date[AX 2012]
 
 A recommended date for obtaining the optimum quality or characteristic of a product.
 

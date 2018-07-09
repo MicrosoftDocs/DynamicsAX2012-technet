@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RAssetLending
 ---
 
-# (RUS) Lease report (RAssetLending) 
+# (RUS) Lease report (RAssetLending) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

@@ -14,7 +14,7 @@ f1_keywords:
 - vendor terms of payment
 ---
 
-# (FRA) Set up vendor terms of payment (Public sector) 
+# (FRA) Set up vendor terms of payment (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

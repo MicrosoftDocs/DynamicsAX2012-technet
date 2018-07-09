@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.main account derivation rule
 ---
 
-# main account derivation rule
+# main account derivation rule[AX 2012]
 
 A rule to determine a main account dimension for classifying the financial consequences of an accounting event.
 

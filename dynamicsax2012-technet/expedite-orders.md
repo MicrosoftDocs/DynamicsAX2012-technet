@@ -15,7 +15,7 @@ f1_keywords:
 - expedited delivery
 ---
 
-# Expedite orders 
+# Expedite orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

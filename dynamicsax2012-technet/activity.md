@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.activity
 ---
 
-# activity
+# activity[AX 2012]
 
 A functional work structure in which one or more persons and pieces of equipment participate and in which resources are consumed, produced, and used. An activity can be decomposed into subactivities.
 

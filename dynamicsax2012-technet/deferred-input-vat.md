@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.deferred input VAT
 ---
 
-# deferred input VAT
+# deferred input VAT[AX 2012]
 
 The calculated value-added tax (VAT) amount that is not due until the invoice is paid. This amount is posted to an unrealized purchase VAT account and can be claimed only after the receipt of a receipt/tax invoice or a tax invoice.
 

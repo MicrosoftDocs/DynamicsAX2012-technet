@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.MCRCustCategoryHierarchy
 ---
 
-# Set up customer category hierarchies for trade allowance 
+# Set up customer category hierarchies for trade allowance [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

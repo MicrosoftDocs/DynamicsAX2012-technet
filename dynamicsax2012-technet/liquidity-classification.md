@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.liquidity classification
 ---
 
-# liquidity classification
+# liquidity classification[AX 2012]
 
 A systematic organization of time intervals that predict the liquidity of a party.
 

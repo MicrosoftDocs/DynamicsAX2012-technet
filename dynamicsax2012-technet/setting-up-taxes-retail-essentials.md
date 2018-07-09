@@ -8,7 +8,7 @@ ms.date: 12/01/2014
 mtps_version: v=AX.60
 ---
 
-# Setting up taxes (Retail essentials) 
+# Setting up taxes (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

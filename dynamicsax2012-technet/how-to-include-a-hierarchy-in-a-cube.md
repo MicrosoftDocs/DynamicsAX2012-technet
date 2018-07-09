@@ -8,7 +8,7 @@ ms.date: 10/05/2015
 mtps_version: v=AX.60
 ---
 
-# How to: Include a hierarchy in a cube 
+# How to: Include a hierarchy in a cube [AX 2012]
 
 
 Organizational hierarchies enable an organization to define various hierarchies among legal entities and operating units for reporting and operational purposes. You can define an organizational hierarchy to establish a relationship between legal entities or between operating units within a given legal entity. For examples, see [Example organizational hierarchies](example-organizational-hierarchies.md).

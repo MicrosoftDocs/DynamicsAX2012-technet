@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.prepayment journal voucher
 ---
 
-# prepayment journal voucher
+# prepayment journal voucher[AX 2012]
 
 An amount that is paid for items or services that have not been received.
 

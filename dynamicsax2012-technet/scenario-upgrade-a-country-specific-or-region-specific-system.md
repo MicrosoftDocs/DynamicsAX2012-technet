@@ -8,7 +8,7 @@ ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
 
-# Scenario: Upgrade a country-specific or region-specific system 
+# Scenario: Upgrade a country-specific or region-specific system [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

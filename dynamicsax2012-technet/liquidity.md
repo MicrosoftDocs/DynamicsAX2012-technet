@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.liquidity
 ---
 
-# liquidity
+# liquidity[AX 2012]
 
 The ability of a party to use current assets to settle current liabilities.
 

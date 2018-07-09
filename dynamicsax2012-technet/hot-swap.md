@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.hot-swap
 ---
 
-# hot-swap
+# hot-swap[AX 2012]
 
 To replace an assembly file with a revised assembly file in a running system. In-progress sessions continue to access the original assembly from active memory.
 

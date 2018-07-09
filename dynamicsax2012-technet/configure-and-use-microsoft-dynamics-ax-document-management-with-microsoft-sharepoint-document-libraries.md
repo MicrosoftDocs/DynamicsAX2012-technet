@@ -8,7 +8,7 @@ ms.date: 09/17/2014
 mtps_version: v=AX.60
 ---
 
-# Configure and use Microsoft Dynamics AX document management with Microsoft SharePoint document libraries 
+# Configure and use Microsoft Dynamics AX document management with Microsoft SharePoint document libraries [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

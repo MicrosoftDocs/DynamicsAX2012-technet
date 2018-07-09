@@ -8,7 +8,7 @@ ms.date: 06/25/2014
 mtps_version: v=AX.60
 ---
 
-# Assign a rate and route to a load 
+# Assign a rate and route to a load [AX 2012]
 
 
 This topic explains how to assign a rate and route to an inbound or outbound load.

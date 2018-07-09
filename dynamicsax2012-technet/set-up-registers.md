@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.2d92630e-c1e5-4d61-8bcb-59616186b88a
 ---
 
-# Set up registers 
+# Set up registers [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_

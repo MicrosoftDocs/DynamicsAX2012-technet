@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.auto-report
 ---
 
-# auto-report
+# auto-report[AX 2012]
 
 A type of report that is automatically generated from the data that is displayed on a form.
 

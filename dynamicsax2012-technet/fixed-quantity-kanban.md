@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.fixed quantity kanban
 ---
 
-# fixed quantity kanban
+# fixed quantity kanban[AX 2012]
 
 A type of kanban that is used when the number of kanbans that are assigned to a kanban rule is constant.
 

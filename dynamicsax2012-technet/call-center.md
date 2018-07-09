@@ -122,7 +122,7 @@ f1_keywords:
 - call center module
 ---
 
-# Call center 
+# Call center [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

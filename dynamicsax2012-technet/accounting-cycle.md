@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting cycle
 ---
 
-# accounting cycle
+# accounting cycle[AX 2012]
 
 A recurring set of documenting, journalizing, balancing, and statement preparation activities performed by parties that report on and analyze the financial position and performance of accounting entities.
 

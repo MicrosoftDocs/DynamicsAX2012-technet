@@ -11,7 +11,7 @@ f1_keywords:
 - IN - 00015
 ---
 
-# (IND) Design a screen layout 
+# (IND) Design a screen layout [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

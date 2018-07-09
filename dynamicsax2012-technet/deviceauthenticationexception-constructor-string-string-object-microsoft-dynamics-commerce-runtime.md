@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# DeviceAuthenticationException Constructor (String, String, Object )
+# DeviceAuthenticationException Constructor (String, String, Object )[AX 2012]
 
 Initializes a new instance of the [DeviceAuthenticationException](deviceauthenticationexception-class-microsoft-dynamics-commerce-runtime.md) class.
 

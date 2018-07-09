@@ -30,7 +30,7 @@ f1_keywords:
 - VAT correction
 ---
 
-# (CZE) Set up and create a tax corrective document 
+# (CZE) Set up and create a tax corrective document [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

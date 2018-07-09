@@ -8,7 +8,7 @@ ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
 
-# Configure Retail Modern POS for direct database connectivity 
+# Configure Retail Modern POS for direct database connectivity [AX 2012]
 
 
 This topic explains how to configure direct database connectivity for Retail Modern POS by using the Retail Channel Configuration Utility.

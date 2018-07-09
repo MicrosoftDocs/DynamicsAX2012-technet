@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.AOT
 ---
 
-# AOT
+# AOT[AX 2012]
 
 A navigable view of the element objects in an application model.
 

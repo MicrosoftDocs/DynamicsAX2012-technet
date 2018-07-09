@@ -8,7 +8,7 @@ ms.date: 07/17/2013
 mtps_version: v=AX.60
 ---
 
-# Walkthrough: Analyzing Cube Data in Microsoft SQL Server Management Studio 
+# Walkthrough: Analyzing Cube Data in Microsoft SQL Server Management Studio [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

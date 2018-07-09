@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.capacity
 ---
 
-# capacity
+# capacity[AX 2012]
 
 The actual or potential ability of a resource to perform an activity or to produce output in a specified time period.
 

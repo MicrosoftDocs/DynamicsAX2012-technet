@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.applicant
 ---
 
-# applicant
+# applicant[AX 2012]
 
 A person who makes a formal written or electronic request to work for or fill an open position in an organization.
 

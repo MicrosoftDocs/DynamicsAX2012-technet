@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.non-recoverable sales tax
 ---
 
-# non-recoverable sales tax
+# non-recoverable sales tax[AX 2012]
 
 A sales tax levied on purchased products that is not deducted from the sales tax levied on the sale of the purchased products when both sales taxes are paid by the same party.
 

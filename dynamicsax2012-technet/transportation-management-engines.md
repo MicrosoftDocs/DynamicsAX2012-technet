@@ -8,7 +8,7 @@ ms.date: 06/25/2014
 mtps_version: v=AX.60
 ---
 
-# Transportation management engines 
+# Transportation management engines [AX 2012]
 
 
 Transportation management engines define the logic that is used to generate and process transportation rates in **Transportation management**. A transportation management engine calculates tasks, such as the carrier’s transportation rate. The engine system lets you change calculation strategies at runtime, based on data in Microsoft Dynamics AX. A transportation management engine resembles a plug-in that is related to a particular carrier contract.

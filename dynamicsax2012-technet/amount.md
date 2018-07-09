@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.amount
 ---
 
-# amount
+# amount[AX 2012]
 
 A definite magnitude of currency, a quantity of currency, or an indefinite magnitude of an uncountable substance or quality.
 

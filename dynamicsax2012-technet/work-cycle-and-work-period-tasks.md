@@ -20,7 +20,7 @@ f1_keywords:
 - overtime premiums
 ---
 
-# Work cycle and work period tasks 
+# Work cycle and work period tasks [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

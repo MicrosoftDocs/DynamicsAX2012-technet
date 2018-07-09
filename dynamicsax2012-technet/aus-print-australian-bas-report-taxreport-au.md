@@ -16,7 +16,7 @@ f1_keywords:
 - Business activity statement
 ---
 
-# (AUS) Print Australian BAS report (TaxReport\_AU) 
+# (AUS) Print Australian BAS report (TaxReport\_AU) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -8,7 +8,7 @@ ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
 
-# How to: Add a Report Drill Through Action on a Report 
+# How to: Add a Report Drill Through Action on a Report [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

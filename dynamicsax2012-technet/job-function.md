@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.job function
 ---
 
-# job function
+# job function[AX 2012]
 
 One or more tasks, duties, and responsibilities that are assigned to a job.
 

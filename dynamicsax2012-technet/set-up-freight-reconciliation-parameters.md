@@ -21,7 +21,7 @@ f1_keywords:
 - unmatched freight bills
 ---
 
-# Set up freight reconciliation parameters 
+# Set up freight reconciliation parameters [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

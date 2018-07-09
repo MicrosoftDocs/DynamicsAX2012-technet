@@ -8,7 +8,7 @@ ms.date: 11/18/2016
 mtps_version: v=AX.60
 ---
 
-# What's new in Microsoft Dynamics AX 2012 R3 cumulative update 12 
+# What's new in Microsoft Dynamics AX 2012 R3 cumulative update 12 [AX 2012]
 
 
 This topic links to descriptions of the DCRs and regulatory features that are included in cumulative update 12. [What’s new in Microsoft Dynamics AX 2012 cumulative update 12](https://go.microsoft.com/fwlink/?linkid=834752)

@@ -24,7 +24,7 @@ f1_keywords:
 - vendor replies
 ---
 
-# About vendor bids 
+# About vendor bids [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

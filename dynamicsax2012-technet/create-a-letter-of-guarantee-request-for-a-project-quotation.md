@@ -11,7 +11,7 @@ f1_keywords:
 - Lletter of guarantee request for a quotation (Project)
 ---
 
-# Create a letter of guarantee request for a project quotation 
+# Create a letter of guarantee request for a project quotation [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

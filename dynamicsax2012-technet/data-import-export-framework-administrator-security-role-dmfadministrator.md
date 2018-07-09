@@ -8,7 +8,7 @@ ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---
 
-# Data import/export framework administrator security role (DMFAdministrator) 
+# Data import/export framework administrator security role (DMFAdministrator) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

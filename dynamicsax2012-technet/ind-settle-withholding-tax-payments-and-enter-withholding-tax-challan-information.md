@@ -15,7 +15,7 @@ f1_keywords:
 - TDS payments
 ---
 
-# (IND) Settle withholding tax payments and enter withholding tax challan information 
+# (IND) Settle withholding tax payments and enter withholding tax challan information [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

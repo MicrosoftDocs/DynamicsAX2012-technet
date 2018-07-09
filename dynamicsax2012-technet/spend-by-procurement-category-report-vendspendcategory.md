@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.VendSpendCategory
 ---
 
-# Spend by procurement category report (VendSpendCategory) 
+# Spend by procurement category report (VendSpendCategory) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

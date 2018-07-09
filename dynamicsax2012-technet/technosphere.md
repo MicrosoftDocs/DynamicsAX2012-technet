@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.technosphere
 ---
 
-# technosphere
+# technosphere[AX 2012]
 
 The entities that are outside the organization’s operational boundary. Materials that come from the technosphere are bought or sold, rather than acquired from the environment.
 

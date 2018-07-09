@@ -10,7 +10,7 @@ dev_langs:
 - vb
 ---
 
-# Security Considerations Creating a Report 
+# Security Considerations Creating a Report [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.budget control
 ---
 
-# budget control
+# budget control[AX 2012]
 
 A practice of authorizing expenditure only when budget funds can be reserved to meet future payment commitments.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.expenditure recognition accounting rule
 ---
 
-# expenditure recognition accounting rule
+# expenditure recognition accounting rule[AX 2012]
 
 A recognition accounting rule that prescribes the recognition of expenditure in accounts and on financial statements.
 

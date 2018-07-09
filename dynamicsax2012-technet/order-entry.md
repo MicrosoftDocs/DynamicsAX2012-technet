@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.order entry
 ---
 
-# order entry
+# order entry[AX 2012]
 
 A method of capturing sales orders and purchase orders using a software application.
 

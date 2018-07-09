@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.ProjEfficiencyUtilEmpl
 ---
 
-# Worker hour utilization - efficiency rate report (ProjEfficiencyUtilEmpl) 
+# Worker hour utilization - efficiency rate report (ProjEfficiencyUtilEmpl) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

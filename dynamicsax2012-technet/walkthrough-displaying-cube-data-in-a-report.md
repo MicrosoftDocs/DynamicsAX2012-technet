@@ -10,7 +10,7 @@ dev_langs:
 - sql
 ---
 
-# Walkthrough: Displaying Cube Data in a Report 
+# Walkthrough: Displaying Cube Data in a Report [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

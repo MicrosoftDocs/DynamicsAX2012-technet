@@ -28,7 +28,7 @@ f1_keywords:
 - purchases of alcoholic items
 ---
 
-# (RUS) Set up parameters for alcohol declarations and journals 
+# (RUS) Set up parameters for alcohol declarations and journals [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

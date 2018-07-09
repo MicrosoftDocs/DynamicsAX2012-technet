@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.TaxItemGroup
 ---
 
-# (IND) Set up a reverse charge percentage 
+# (IND) Set up a reverse charge percentage [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -12,7 +12,7 @@ f1_keywords:
 - purchase tax tranasctions
 ---
 
-# (BEL) Generate journal, sales tax, and purchase sales tax transaction reports 
+# (BEL) Generate journal, sales tax, and purchase sales tax transaction reports [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

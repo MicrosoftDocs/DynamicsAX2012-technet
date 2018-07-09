@@ -12,7 +12,7 @@ f1_keywords:
 - shelf life for inventory batch
 ---
 
-# Reset shelf life dates for an inventory batch 
+# Reset shelf life dates for an inventory batch [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

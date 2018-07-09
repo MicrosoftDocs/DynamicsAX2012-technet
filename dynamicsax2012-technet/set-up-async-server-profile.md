@@ -8,7 +8,7 @@ ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
 
-# Set up Async Server profile 
+# Set up Async Server profile [AX 2012]
 
 
 A profile for Async Server specifies how frequently Async Client checks for data packages to download and creates data packages to upload. You must configure data download and upload intervals for each instance of Async Client in the environment.

@@ -11,7 +11,7 @@ f1_keywords:
 - MCRFraud
 ---
 
-# Fraud configuration key (MCRFraud) 
+# Fraud configuration key (MCRFraud) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

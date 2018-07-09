@@ -16,7 +16,7 @@ f1_keywords:
 - reverse free text invoice
 ---
 
-# (EST) Create and post a credit note to reverse a free text invoice 
+# (EST) Create and post a credit note to reverse a free text invoice [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

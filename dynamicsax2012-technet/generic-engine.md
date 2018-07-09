@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.generic engine
 ---
 
-# generic engine
+# generic engine[AX 2012]
 
 An engine that determines the apportionment of freight charges by weight.
 

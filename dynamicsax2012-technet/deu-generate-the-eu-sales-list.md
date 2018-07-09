@@ -13,7 +13,7 @@ f1_keywords:
 - MsDynAx060.Forms.EUSalesList
 ---
 
-# (DEU) Generate the EU sales list 
+# (DEU) Generate the EU sales list [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_

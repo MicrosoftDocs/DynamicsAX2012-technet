@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Rule-based configuration
 ---
 
-# Rule-based configuration
+# Rule-based configuration[AX 2012]
 
 A configuration technology that uses rules to develop product masters and to configure distinct products.
 

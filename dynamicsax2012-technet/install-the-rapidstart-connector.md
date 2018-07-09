@@ -8,7 +8,7 @@ ms.date: 09/30/2015
 mtps_version: v=AX.60
 ---
 
-# Install the RapidStart Connector 
+# Install the RapidStart Connector [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_

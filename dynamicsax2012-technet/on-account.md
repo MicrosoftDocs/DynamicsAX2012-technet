@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.on account
 ---
 
-# on account
+# on account[AX 2012]
 
 The extension of credit for purchases.
 

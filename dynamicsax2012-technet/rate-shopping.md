@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.rate shopping
 ---
 
-# rate shopping
+# rate shopping[AX 2012]
 
 The process of locating and displaying all shipping rates that are available for a particular load.
 

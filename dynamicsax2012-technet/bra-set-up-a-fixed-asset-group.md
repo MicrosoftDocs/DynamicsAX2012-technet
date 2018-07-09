@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.Forms.AssetGroup
 ---
 
-# (BRA) Set up a fixed asset group 
+# (BRA) Set up a fixed asset group [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -8,7 +8,7 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
 
-# Set up parameters for the Journalized finalized product receipt batch job 
+# Set up parameters for the Journalized finalized product receipt batch job [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_

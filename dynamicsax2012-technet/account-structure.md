@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.account structure
 ---
 
-# account structure
+# account structure[AX 2012]
 
 A configuration of the main account financial dimension and other financial dimensions.
 

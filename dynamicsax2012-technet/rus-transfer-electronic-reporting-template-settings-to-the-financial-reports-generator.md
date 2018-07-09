@@ -12,7 +12,7 @@ f1_keywords:
 - transfer template
 ---
 
-# (RUS) Transfer electronic reporting template settings to the Financial reports generator 
+# (RUS) Transfer electronic reporting template settings to the Financial reports generator [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

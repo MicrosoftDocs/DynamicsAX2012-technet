@@ -8,7 +8,7 @@ ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---
 
-# What's new in Microsoft Dynamics AX 2012 R3 cumulative update 9 
+# What's new in Microsoft Dynamics AX 2012 R3 cumulative update 9 [AX 2012]
 
 
 This topic lists feature changes and updates by module and by country/region, and provides links to related topics.

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.purchase price
 ---
 
-# purchase price
+# purchase price[AX 2012]
 
 The price of product acquisition calculated as the extended price minus trade discounts.
 

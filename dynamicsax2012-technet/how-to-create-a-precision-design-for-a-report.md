@@ -10,7 +10,7 @@ f1_keywords:
 - Microsoft.Dynamics.Framework.Design.Model.Reports.PrecisionDesignDefinition
 ---
 
-# How to: Create a Precision Design for a Report 
+# How to: Create a Precision Design for a Report [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

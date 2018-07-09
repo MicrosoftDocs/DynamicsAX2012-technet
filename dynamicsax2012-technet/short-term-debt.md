@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.short-term debt
 ---
 
-# short-term debt
+# short-term debt[AX 2012]
 
 A current obligation that is payable within one year.
 

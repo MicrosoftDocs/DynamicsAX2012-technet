@@ -11,7 +11,7 @@ f1_keywords:
 - coupon configuration key
 ---
 
-# Coupon configuration key (MCRCoupon) 
+# Coupon configuration key (MCRCoupon) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

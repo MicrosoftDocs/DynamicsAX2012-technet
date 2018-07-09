@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.allocate
 ---
 
-# allocate
+# allocate[AX 2012]
 
 To assign a portion of a resource for a particular use or purpose.
 

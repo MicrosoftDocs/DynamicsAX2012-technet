@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accrual accounting
 ---
 
-# accrual accounting
+# accrual accounting[AX 2012]
 
 An accounting method that recognizes revenues when they are earned and expenses when they are incurred, regardless of when they are received or paid.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.distinct product
 ---
 
-# distinct product
+# distinct product[AX 2012]
 
 A uniquely identifiable product.
 

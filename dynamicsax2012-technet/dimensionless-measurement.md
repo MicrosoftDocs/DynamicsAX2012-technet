@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.dimensionless measurement
 ---
 
-# dimensionless measurement
+# dimensionless measurement[AX 2012]
 
 A measurement whose dimension is one and whose unit of measure is either a dimensionless unit of measure or the unit one.
 

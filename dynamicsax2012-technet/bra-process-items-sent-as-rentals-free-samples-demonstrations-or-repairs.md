@@ -16,7 +16,7 @@ f1_keywords:
 - repairs
 ---
 
-# (BRA) Process items sent as rentals, free samples, demonstrations, or repairs 
+# (BRA) Process items sent as rentals, free samples, demonstrations, or repairs [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

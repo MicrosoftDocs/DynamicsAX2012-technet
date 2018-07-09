@@ -13,7 +13,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailParameters
 ---
 
-# (EEUR) Set up retail parameters for cash operations 
+# (EEUR) Set up retail parameters for cash operations [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

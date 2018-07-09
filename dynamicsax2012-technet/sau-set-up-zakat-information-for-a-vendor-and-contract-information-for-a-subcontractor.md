@@ -11,7 +11,7 @@ f1_keywords:
 - Zakat information
 ---
 
-# (SAU) Set up Zakat information for a vendor and contract information for a subcontractor 
+# (SAU) Set up Zakat information for a vendor and contract information for a subcontractor [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

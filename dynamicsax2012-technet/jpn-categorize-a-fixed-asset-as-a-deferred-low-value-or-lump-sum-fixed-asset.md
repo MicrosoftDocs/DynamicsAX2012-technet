@@ -16,7 +16,7 @@ f1_keywords:
 - deferred
 ---
 
-# (JPN) Categorize a fixed asset as a deferred, low value, or lump sum fixed asset 
+# (JPN) Categorize a fixed asset as a deferred, low value, or lump sum fixed asset [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

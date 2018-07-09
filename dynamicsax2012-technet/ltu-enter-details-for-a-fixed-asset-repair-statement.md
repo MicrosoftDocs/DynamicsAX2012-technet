@@ -13,7 +13,7 @@ f1_keywords:
 - repair cost
 ---
 
-# (LTU) Enter details for a fixed asset repair statement 
+# (LTU) Enter details for a fixed asset repair statement [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

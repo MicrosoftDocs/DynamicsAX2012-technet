@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.variable compensation
 ---
 
-# variable compensation
+# variable compensation[AX 2012]
 
 Compensation, contingent on discretion, performance, or results, that is awarded to an employee by an organization.
 

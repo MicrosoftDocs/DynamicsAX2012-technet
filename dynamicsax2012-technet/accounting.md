@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting
 ---
 
-# accounting
+# accounting[AX 2012]
 
 The practice of recording, classifying, summarizing, and reporting the financial consequences of accounting events.
 

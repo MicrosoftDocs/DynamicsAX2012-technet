@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.budget cycle time span
 ---
 
-# budget cycle time span
+# budget cycle time span[AX 2012]
 
 A time period specified as a number of fiscal calendar periods. The budget period can be different from the accounting period.
 

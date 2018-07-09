@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.authorize
 ---
 
-# authorize
+# authorize[AX 2012]
 
 To sanction the future occurrence of an event in a system.
 

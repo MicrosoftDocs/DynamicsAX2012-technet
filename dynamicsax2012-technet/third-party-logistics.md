@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.third-party logistics
 ---
 
-# third-party logistics
+# third-party logistics[AX 2012]
 
 A party that provides logistics services to customers.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.address verification service
 ---
 
-# address verification service
+# address verification service[AX 2012]
 
 The service that is provided by a credit card processor that validates that the billing address provided by a card holder matches the information on file with the issuing bank.
 

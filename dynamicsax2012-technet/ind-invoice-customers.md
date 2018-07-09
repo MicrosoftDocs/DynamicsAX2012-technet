@@ -13,7 +13,7 @@ f1_keywords:
 - IND
 ---
 
-# (IND) Invoice customers 
+# (IND) Invoice customers [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

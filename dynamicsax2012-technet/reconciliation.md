@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.reconciliation
 ---
 
-# reconciliation
+# reconciliation[AX 2012]
 
 A practice of adjusting two or more accounts or statements so that the figures agree.
 

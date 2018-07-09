@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.filler ingredient
 ---
 
-# filler ingredient
+# filler ingredient[AX 2012]
 
 A type of ingredient in a formula that is used to increase the total quantity of a product. The filler ingredient has no chemical influence on any of the active ingredients in the formulation.
 

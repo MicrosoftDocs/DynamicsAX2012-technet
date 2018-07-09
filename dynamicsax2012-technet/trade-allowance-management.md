@@ -63,7 +63,7 @@ f1_keywords:
 - MsDynAx060.Forms.TAMPlanVsActualLiftGraph
 ---
 
-# Trade allowance management 
+# Trade allowance management [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

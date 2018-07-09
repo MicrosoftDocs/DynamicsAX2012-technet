@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.invoice matching
 ---
 
-# invoice matching
+# invoice matching[AX 2012]
 
 A practice of matching vendor invoice prices and product quantities to purchase orders and product receipts.
 

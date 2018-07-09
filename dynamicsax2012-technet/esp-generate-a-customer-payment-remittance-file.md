@@ -16,7 +16,7 @@ f1_keywords:
 - remittance journal
 ---
 
-# (ESP) Generate a customer payment remittance file 
+# (ESP) Generate a customer payment remittance file [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

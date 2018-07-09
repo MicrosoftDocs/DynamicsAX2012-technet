@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.indirect cost
 ---
 
-# indirect cost
+# indirect cost[AX 2012]
 
 A cost that is not directly attributed to the production of an item or the performance of a service.
 

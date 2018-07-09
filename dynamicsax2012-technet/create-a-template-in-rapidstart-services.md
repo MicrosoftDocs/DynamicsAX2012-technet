@@ -11,7 +11,7 @@ f1_keywords:
 - templates
 ---
 
-# Create a template in RapidStart Services 
+# Create a template in RapidStart Services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

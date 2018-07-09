@@ -15,7 +15,7 @@ f1_keywords:
 - merge AA
 ---
 
-# (IND) Merge Advance authorization (AA) licenses 
+# (IND) Merge Advance authorization (AA) licenses [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

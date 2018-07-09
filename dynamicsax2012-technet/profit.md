@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.profit
 ---
 
-# profit
+# profit[AX 2012]
 
 The difference between revenue obtained from sales and expense incurred in product delivery activities.
 

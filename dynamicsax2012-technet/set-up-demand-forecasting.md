@@ -19,7 +19,7 @@ f1_keywords:
 - demand forecasting, demand forecast, demand forecasts, sales forecast, sales forecasts, forecasting setup, baseline forecast, historical forecast, adjusted forecast, forecast dimension, forecast dimensions, item allocation key, item allocation keys, inter
 ---
 
-# Set up demand forecasting 
+# Set up demand forecasting [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

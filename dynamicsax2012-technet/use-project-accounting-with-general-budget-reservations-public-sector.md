@@ -16,7 +16,7 @@ f1_keywords:
 - project accounting
 ---
 
-# Use project accounting with general budget reservations (Public sector) 
+# Use project accounting with general budget reservations (Public sector) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -8,7 +8,7 @@ ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---
 
-# Set up transportation parameters 
+# Set up transportation parameters [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.business operation
 ---
 
-# business operation
+# business operation[AX 2012]
 
 A logical business action controlled by the business operation framework and implemented by a class that communicates with the framework using data contracts.
 

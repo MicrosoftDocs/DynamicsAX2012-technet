@@ -34,7 +34,7 @@ f1_keywords:
 - trade allowance rebates
 ---
 
-# Manage deductions in the deduction workbench 
+# Manage deductions in the deduction workbench [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

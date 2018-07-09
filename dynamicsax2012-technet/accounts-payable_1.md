@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounts payable
 ---
 
-# accounts payable
+# accounts payable[AX 2012]
 
 A subclassification of a liability account classification that describes the changes in value owed to vendors or creditors.
 

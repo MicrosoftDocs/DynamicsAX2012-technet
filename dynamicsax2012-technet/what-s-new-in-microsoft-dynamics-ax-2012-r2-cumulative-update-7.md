@@ -8,7 +8,7 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
 
-# What's new in Microsoft Dynamics AX 2012 R2 cumulative update 7 
+# What's new in Microsoft Dynamics AX 2012 R2 cumulative update 7 [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

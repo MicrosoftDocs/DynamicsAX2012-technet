@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.inventory item
 ---
 
-# inventory item
+# inventory item[AX 2012]
 
 An itemized product that participates in an inventory process.
 

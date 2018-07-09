@@ -16,7 +16,7 @@ f1_keywords:
 - JP - 00005
 ---
 
-# (JPN) Set up a T-account journal and T-accounts 
+# (JPN) Set up a T-account journal and T-accounts [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

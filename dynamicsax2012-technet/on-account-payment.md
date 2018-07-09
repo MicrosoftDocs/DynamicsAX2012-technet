@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.on-account payment
 ---
 
-# on-account payment
+# on-account payment[AX 2012]
 
 A fixed installment payment that is agreed to in a payment plan.
 

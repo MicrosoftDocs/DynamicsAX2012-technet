@@ -8,7 +8,7 @@ ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---
 
-# Cloud-powered support (Lifecycle Services, LCS) 
+# Cloud-powered support (Lifecycle Services, LCS) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

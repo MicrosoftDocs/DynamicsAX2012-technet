@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.tax
 ---
 
-# tax
+# tax[AX 2012]
 
 A charge levied by a governing authority.
 

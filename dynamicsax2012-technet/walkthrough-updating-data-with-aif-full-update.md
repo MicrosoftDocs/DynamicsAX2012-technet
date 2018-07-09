@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Walkthrough: Updating Data with AIF (Full Update) 
+# Walkthrough: Updating Data with AIF (Full Update) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

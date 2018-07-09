@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.advance ship notice
 ---
 
-# advance ship notice
+# advance ship notice[AX 2012]
 
 A business document that documents the notification of the shipment of product.
 

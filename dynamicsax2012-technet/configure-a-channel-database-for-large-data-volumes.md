@@ -8,7 +8,7 @@ ms.date: 04/04/2017
 mtps_version: v=AX.60
 ---
 
-# Configure a channel database for large data volumes 
+# Configure a channel database for large data volumes [AX 2012]
 
 
 If your organization has many channel databases that are frequently updated, consider asking Microsoft support if your organization is a candidate to configure your environment for large data volumes. Candidates for using this functionality typically have over 500,000 changes per hour in their databases.

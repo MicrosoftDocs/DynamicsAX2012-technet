@@ -8,7 +8,7 @@ ms.date: 11/26/2014
 mtps_version: v=AX.60
 ---
 
-# Fixed assets roadmap 
+# Fixed assets roadmap [AX 2012]
 
 
 This topic is a roadmap to additional information about Fixed assets in Microsoft Dynamics AX. It includes links to information about how to get started, configure, and use Fixed assets and information on which modules integrate with Fixed assets.

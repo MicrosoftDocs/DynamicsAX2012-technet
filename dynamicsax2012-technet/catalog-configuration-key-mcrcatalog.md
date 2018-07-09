@@ -11,7 +11,7 @@ f1_keywords:
 - MCRCatalog
 ---
 
-# Catalog configuration key (MCRCatalog) 
+# Catalog configuration key (MCRCatalog) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

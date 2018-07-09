@@ -21,7 +21,7 @@ f1_keywords:
 - transportation tender
 ---
 
-# Set up shipping carriers and carrier groups 
+# Set up shipping carriers and carrier groups [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

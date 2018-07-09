@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cost
 ---
 
-# cost
+# cost[AX 2012]
 
 The value of an economic resource that is quantified in monetary units and that is measured using an accounting valuation principle.
 

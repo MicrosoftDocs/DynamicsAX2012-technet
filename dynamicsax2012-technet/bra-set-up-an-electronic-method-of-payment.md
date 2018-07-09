@@ -12,7 +12,7 @@ f1_keywords:
 - Return layout group
 ---
 
-# (BRA) Set up an electronic method of payment 
+# (BRA) Set up an electronic method of payment [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

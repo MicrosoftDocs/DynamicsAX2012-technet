@@ -15,7 +15,7 @@ f1_keywords:
 - MsDynAx060.Forms.RPayVacationTable
 ---
 
-# (RUS) Register and calculate compensation for vacations and business trips 
+# (RUS) Register and calculate compensation for vacations and business trips [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

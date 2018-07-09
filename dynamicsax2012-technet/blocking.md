@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.blocking
 ---
 
-# blocking
+# blocking[AX 2012]
 
 The action of placing a document or product on hold.
 

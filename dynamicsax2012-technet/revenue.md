@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.revenue
 ---
 
-# revenue
+# revenue[AX 2012]
 
 An increase in an organization's assets or a decrease in an organization's liabilities during a reporting period.
 

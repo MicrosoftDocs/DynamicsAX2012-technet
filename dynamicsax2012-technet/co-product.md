@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.co-product
 ---
 
-# co-product
+# co-product[AX 2012]
 
 An item produced jointly with another item.
 

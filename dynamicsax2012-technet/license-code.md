@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.license code
 ---
 
-# license code
+# license code[AX 2012]
 
 An alphanumeric key that grants a party the right to use software or software components as prescribed in the terms of the license agreement, and that activates and inactivates software modules, software capabilities, and software functions.
 

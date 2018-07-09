@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.budget group
 ---
 
-# budget group
+# budget group[AX 2012]
 
 A set of financial dimension values in a budget dimension hierarchy that is used to calculate aggregate budget funds allocated to superordinate financial dimension values by summing budget funds allocated to subordinate financial dimension values.
 

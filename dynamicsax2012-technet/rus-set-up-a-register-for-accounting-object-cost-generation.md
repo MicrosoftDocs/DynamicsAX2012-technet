@@ -12,7 +12,7 @@ f1_keywords:
 - accounting object cost generation
 ---
 
-# (RUS) Set up a register for accounting object cost generation 
+# (RUS) Set up a register for accounting object cost generation [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

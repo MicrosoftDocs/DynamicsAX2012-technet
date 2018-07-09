@@ -14,7 +14,7 @@ f1_keywords:
 - packing profiles
 ---
 
-# Set up packing and container closing profiles for manual pack process 
+# Set up packing and container closing profiles for manual pack process [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

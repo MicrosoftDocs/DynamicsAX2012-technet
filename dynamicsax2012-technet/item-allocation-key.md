@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.item allocation key
 ---
 
-# item allocation key
+# item allocation key[AX 2012]
 
 A product family grouping that is used for forecast and demand scheduling.
 

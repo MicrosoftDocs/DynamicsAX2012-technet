@@ -8,7 +8,7 @@ ms.date: 03/03/2017
 mtps_version: v=AX.60
 ---
 
-# What's new: Microsoft Dynamics AX 2012 Expenses Windows 8 App 
+# What's new: Microsoft Dynamics AX 2012 Expenses Windows 8 App [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

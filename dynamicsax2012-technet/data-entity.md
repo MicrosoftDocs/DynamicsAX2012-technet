@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.data entity
 ---
 
-# data entity
+# data entity[AX 2012]
 
 An information structure that represents the data characteristic of an entity.
 

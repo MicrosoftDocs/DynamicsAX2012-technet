@@ -15,7 +15,7 @@ f1_keywords:
 - incentive scheme
 ---
 
-# (IND) Set up general ledger parameters for an EXIM AA incentive scheme 
+# (IND) Set up general ledger parameters for an EXIM AA incentive scheme [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

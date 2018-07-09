@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.engine
 ---
 
-# engine
+# engine[AX 2012]
 
 A system component that provides complex capability and performs operations on objects.
 

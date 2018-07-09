@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.system language
 ---
 
-# system language
+# system language[AX 2012]
 
 The default language that is used by the application text localization system.
 

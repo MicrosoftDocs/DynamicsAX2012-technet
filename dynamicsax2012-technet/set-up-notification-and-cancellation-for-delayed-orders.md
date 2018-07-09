@@ -15,7 +15,7 @@ f1_keywords:
 - automatic notification
 ---
 
-# Set up notification and cancellation for delayed orders 
+# Set up notification and cancellation for delayed orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

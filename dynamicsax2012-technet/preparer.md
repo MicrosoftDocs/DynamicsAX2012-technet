@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.preparer
 ---
 
-# preparer
+# preparer[AX 2012]
 
 The person who creates a source document to initiate a request for economic resources.
 

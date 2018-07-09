@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.production order
 ---
 
-# production order
+# production order[AX 2012]
 
 A source document that documents the requirements for producing items to meet a demand.
 

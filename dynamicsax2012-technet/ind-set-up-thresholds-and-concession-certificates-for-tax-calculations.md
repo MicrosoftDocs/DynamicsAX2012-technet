@@ -32,7 +32,7 @@ f1_keywords:
 - MsDynAx060.Forms.TaxWithholdTable
 ---
 
-# (IND) Set up thresholds and concession certificates for tax calculations 
+# (IND) Set up thresholds and concession certificates for tax calculations [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

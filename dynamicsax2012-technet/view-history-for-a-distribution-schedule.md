@@ -11,7 +11,7 @@ f1_keywords:
 - MsDynAx060.Forms.RetailCDXDownloadSession
 ---
 
-# View history for a distribution schedule 
+# View history for a distribution schedule [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

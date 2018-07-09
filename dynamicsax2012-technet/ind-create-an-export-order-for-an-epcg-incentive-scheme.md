@@ -15,7 +15,7 @@ f1_keywords:
 - apply EPCG incentive scheme
 ---
 
-# (IND) Create an export order for an EPCG incentive scheme 
+# (IND) Create an export order for an EPCG incentive scheme [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

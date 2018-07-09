@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.fixed asset
 ---
 
-# fixed asset
+# fixed asset[AX 2012]
 
 An accounting classifier used to classify any long-term asset whose cost expiration is recognized over more than one year.
 

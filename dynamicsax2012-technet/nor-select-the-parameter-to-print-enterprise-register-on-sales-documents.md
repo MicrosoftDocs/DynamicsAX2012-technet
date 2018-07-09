@@ -11,7 +11,7 @@ f1_keywords:
 - NO – 00011
 ---
 
-# (NOR) Select the parameter to print Enterprise register on sales documents 
+# (NOR) Select the parameter to print Enterprise register on sales documents [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_

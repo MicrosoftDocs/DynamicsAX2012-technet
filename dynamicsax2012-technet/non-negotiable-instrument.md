@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.non-negotiable instrument
 ---
 
-# non-negotiable instrument
+# non-negotiable instrument[AX 2012]
 
 A document of title or written order that cannot be bought, sold, exchanged, or transferred.
 

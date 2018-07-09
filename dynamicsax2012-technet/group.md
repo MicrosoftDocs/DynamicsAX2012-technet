@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.group
 ---
 
-# group
+# group[AX 2012]
 
 A set of objects that share a common relation.
 

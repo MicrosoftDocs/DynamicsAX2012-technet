@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.job description
 ---
 
-# job description
+# job description[AX 2012]
 
 A statement of the essential responsibilities, duties, job functions, and requirements of a job.
 

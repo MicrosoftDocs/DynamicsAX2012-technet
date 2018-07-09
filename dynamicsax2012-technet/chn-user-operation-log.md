@@ -8,7 +8,7 @@ ms.date: 11/18/2014
 mtps_version: v=AX.60
 ---
 
-# (CHN) User operation log 
+# (CHN) User operation log [AX 2012]
 
 
 The topic in this section provides information about generating a user operation log when you modify transactions and vouchers for a document such as a sales order.

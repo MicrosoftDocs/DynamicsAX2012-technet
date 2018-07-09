@@ -8,7 +8,7 @@ ms.date: 07/15/2016
 mtps_version: v=AX.60
 ---
 
-# Define a search for inbound put locations that is based on advanced shipping notices and mixed license plates 
+# Define a search for inbound put locations that is based on advanced shipping notices and mixed license plates [AX 2012]
 
 
 To help guarantee that all the content on a license plate is put into one location, and that the system does not suggest that you split the contents into several locations for “ASN – License plate receiving” and “Mixed license plate receiving” processes, you can use the **Locate by** field on the **Location directives** page for the **Purchase order** work order type.

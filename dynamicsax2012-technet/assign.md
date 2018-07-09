@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.assign
 ---
 
-# assign
+# assign[AX 2012]
 
 To designate an object for a particular use or purpose.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.bill of exchange
 ---
 
-# bill of exchange
+# bill of exchange[AX 2012]
 
 A source document that documents an unconditional request for a third-party to pay a second party on demand.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.surrogate key
 ---
 
-# surrogate key
+# surrogate key[AX 2012]
 
 A single attribute candidate key whose values are system-generated and that does not represent properties that identify objects in the real world.
 

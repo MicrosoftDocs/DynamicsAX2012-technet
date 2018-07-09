@@ -12,7 +12,7 @@ f1_keywords:
 - debit note
 ---
 
-# (BRA) Cancel a project debit note 
+# (BRA) Cancel a project debit note [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -16,7 +16,7 @@ f1_keywords:
 - MsDynAx060.Forms.PaymDueDateLimits_ES
 ---
 
-# (ESP) Calculate invoice due dates based on the payment schedule and the payment day 
+# (ESP) Calculate invoice due dates based on the payment schedule and the payment day [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

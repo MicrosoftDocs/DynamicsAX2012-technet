@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.one-dimensional measurement
 ---
 
-# one-dimensional measurement
+# one-dimensional measurement[AX 2012]
 
 A measurement with a single characterization of the magnitude or extent of the property of an object.
 

@@ -12,7 +12,7 @@ f1_keywords:
 - MsDynAx060.afcfe929-f933-41a9-b79f-5bffb5adaaec
 ---
 
-# Set up a retail store (Retail essentials) 
+# Set up a retail store (Retail essentials) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

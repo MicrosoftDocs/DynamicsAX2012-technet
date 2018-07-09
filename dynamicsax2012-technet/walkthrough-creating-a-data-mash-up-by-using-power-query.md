@@ -8,7 +8,7 @@ ms.date: 04/01/2015
 mtps_version: v=AX.60
 ---
 
-# Walkthrough: Creating a data mash-up by using Power Query 
+# Walkthrough: Creating a data mash-up by using Power Query [AX 2012]
 
 
 You can use Microsoft Office Excel to analyze data from Microsoft Dynamics AX. You can use tools that are included in Power BI for Office 365 to incorporate data from a variety of data sources from outside Microsoft Dynamics AX for deeper analysis.

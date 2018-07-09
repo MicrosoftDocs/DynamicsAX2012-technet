@@ -22,7 +22,7 @@ f1_keywords:
 - slip
 ---
 
-# Enter customer payments based on checks or bank reports 
+# Enter customer payments based on checks or bank reports [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

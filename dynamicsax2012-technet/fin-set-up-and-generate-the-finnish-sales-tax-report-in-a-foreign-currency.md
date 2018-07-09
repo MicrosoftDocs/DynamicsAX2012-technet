@@ -22,7 +22,7 @@ f1_keywords:
 - sales tax payments
 ---
 
-# (FIN) Set up and generate the Finnish sales tax report in a foreign currency 
+# (FIN) Set up and generate the Finnish sales tax report in a foreign currency [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

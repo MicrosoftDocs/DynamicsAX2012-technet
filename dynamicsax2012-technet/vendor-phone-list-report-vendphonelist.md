@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.VendPhoneList
 ---
 
-# Vendor phone list report (VendPhoneList) 
+# Vendor phone list report (VendPhoneList) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

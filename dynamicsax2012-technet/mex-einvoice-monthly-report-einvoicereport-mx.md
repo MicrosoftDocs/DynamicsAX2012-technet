@@ -13,7 +13,7 @@ f1_keywords:
 - monthly report
 ---
 
-# (MEX) Einvoice monthly report (EInvoiceReport\_MX) 
+# (MEX) Einvoice monthly report (EInvoiceReport\_MX) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

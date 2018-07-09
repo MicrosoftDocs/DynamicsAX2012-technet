@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.revenue cycle
 ---
 
-# revenue cycle
+# revenue cycle[AX 2012]
 
 A recurring set of sales, fulfillment, payment, and transfer activities controlled by one or more parties that participate in exchange and nonexchange transactions.
 

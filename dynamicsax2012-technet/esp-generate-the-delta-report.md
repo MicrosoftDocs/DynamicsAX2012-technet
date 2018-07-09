@@ -14,7 +14,7 @@ f1_keywords:
 - MsDynAx060.Forms.TaxReport347Table
 ---
 
-# (ESP) Generate the delta report 
+# (ESP) Generate the delta report [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012_

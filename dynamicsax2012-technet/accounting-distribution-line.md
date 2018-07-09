@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.accounting distribution line
 ---
 
-# accounting distribution line
+# accounting distribution line[AX 2012]
 
 The subline of a source document line documenting the financial consequence of an economic transaction that documents the distribution of an aliquot portion of the financial consequence to a ledger account.
 

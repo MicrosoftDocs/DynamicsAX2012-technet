@@ -12,7 +12,7 @@ f1_keywords:
 - temporary tax differences
 ---
 
-# (RUS) Set up a register for calculation of temporary tax differences 
+# (RUS) Set up a register for calculation of temporary tax differences [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.occupational injury
 ---
 
-# occupational injury
+# occupational injury[AX 2012]
 
 An injury resulting from an accident in the work environment.
 

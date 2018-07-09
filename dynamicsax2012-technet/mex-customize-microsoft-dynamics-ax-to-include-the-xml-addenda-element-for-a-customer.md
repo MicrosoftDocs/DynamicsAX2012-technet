@@ -15,7 +15,7 @@ f1_keywords:
 - XML addenda
 ---
 
-# (MEX) Customize Microsoft Dynamics AX to include the XML addenda element for a customer 
+# (MEX) Customize Microsoft Dynamics AX to include the XML addenda element for a customer [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

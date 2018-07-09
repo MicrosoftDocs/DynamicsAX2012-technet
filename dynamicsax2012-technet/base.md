@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.base
 ---
 
-# base
+# base[AX 2012]
 
 A mathematical object that is the basis for a derivation, system, or formulation.
 

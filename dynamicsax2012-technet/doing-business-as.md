@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.doing business as
 ---
 
-# doing business as
+# doing business as[AX 2012]
 
 The assumed, fictitious name under which an organization is registered in the United States.
 

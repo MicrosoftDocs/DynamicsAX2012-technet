@@ -11,7 +11,7 @@ f1_keywords:
 - on-account invoice
 ---
 
-# Create on-account invoices for all projects 
+# Create on-account invoices for all projects [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.workflow type
 ---
 
-# workflow type
+# workflow type[AX 2012]
 
 A set of metadata and event handlers in the Application Object Tree (AOT) that defines a workflow design template.
 

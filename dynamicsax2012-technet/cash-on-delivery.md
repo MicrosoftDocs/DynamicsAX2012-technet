@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.cash on delivery
 ---
 
-# cash on delivery
+# cash on delivery[AX 2012]
 
 A payment policy that requires payment in full for product upon delivery.
 

@@ -8,7 +8,7 @@ ms.date: 11/18/2014
 mtps_version: v=AX.60
 ---
 
-# (MYS) Print self-billed GST invoices 
+# (MYS) Print self-billed GST invoices [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

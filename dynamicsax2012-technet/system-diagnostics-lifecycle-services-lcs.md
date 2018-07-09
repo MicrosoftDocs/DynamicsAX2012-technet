@@ -8,7 +8,7 @@ ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---
 
-# System diagnostics (Lifecycle Services, LCS) 
+# System diagnostics (Lifecycle Services, LCS) [AX 2012]
 
 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/system-diagnostics-lifecycle-services-lcs/) in the Dynamics AX Help wiki.

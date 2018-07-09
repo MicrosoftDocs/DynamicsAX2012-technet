@@ -16,7 +16,7 @@ f1_keywords:
 - shipping bill
 ---
 
-# (IND) Post a shipping bill for an export sales order 
+# (IND) Post a shipping bill for an export sales order [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

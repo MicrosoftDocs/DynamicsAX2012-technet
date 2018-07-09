@@ -8,7 +8,7 @@ ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
 
-# Configure clients computers to bulk edit attributes in Microsoft Excel 
+# Configure clients computers to bulk edit attributes in Microsoft Excel [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

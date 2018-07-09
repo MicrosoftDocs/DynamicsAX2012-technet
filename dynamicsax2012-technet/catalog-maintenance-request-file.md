@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.Catalog Maintenance Request file
 ---
 
-# Catalog Maintenance Request file
+# Catalog Maintenance Request file[AX 2012]
 
 A data file of products, their descriptions and prices, and action codes that add, update, or delete product data in a vendor catalog.
 

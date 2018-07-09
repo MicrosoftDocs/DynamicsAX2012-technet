@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.purchase order underdelivery percentage
 ---
 
-# purchase order underdelivery percentage
+# purchase order underdelivery percentage[AX 2012]
 
 The percentage by which product receipt quantities are allowed to be less than the purchase order quantity.
 

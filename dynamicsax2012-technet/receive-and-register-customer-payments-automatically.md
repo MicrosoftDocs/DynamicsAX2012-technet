@@ -16,7 +16,7 @@ f1_keywords:
 - automatic payments
 ---
 
-# Receive and register customer payments automatically 
+# Receive and register customer payments automatically [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

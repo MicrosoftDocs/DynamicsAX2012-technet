@@ -11,7 +11,7 @@ f1_keywords:
 - transfer order
 ---
 
-# (RUS) Create a storno transaction for a transfer order shipment 
+# (RUS) Create a storno transaction for a transfer order shipment [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

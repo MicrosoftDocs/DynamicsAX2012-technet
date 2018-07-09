@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.domain entity
 ---
 
-# domain entity
+# domain entity[AX 2012]
 
 A conceptual structure that represents an independent entity that is capable of separate existence.
 

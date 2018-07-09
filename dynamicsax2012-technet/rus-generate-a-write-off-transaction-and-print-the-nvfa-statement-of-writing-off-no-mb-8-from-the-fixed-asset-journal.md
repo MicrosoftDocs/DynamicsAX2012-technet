@@ -14,7 +14,7 @@ f1_keywords:
 - Write-off
 ---
 
-# (RUS) Generate a write-off transaction and print the NVFA statement of writing off (No. MB-8) from the fixed asset journal 
+# (RUS) Generate a write-off transaction and print the NVFA statement of writing off (No. MB-8) from the fixed asset journal [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

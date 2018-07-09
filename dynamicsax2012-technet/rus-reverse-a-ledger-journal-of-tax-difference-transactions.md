@@ -13,7 +13,7 @@ f1_keywords:
 - reverse a ledger journal
 ---
 
-# (RUS) Reverse a ledger journal of tax difference transactions 
+# (RUS) Reverse a ledger journal of tax difference transactions [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

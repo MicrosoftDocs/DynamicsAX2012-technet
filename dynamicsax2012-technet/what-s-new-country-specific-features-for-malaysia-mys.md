@@ -8,7 +8,7 @@ ms.date: 11/20/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Malaysia (MYS) 
+# What's new: Country-specific features for Malaysia (MYS) [AX 2012]
 
 
 In Microsoft Dynamics AX 2012 R3, we changed and added country-specific functionality for Malaysia. For more information, see the table that follows.

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.3PL
 ---
 
-# 3PL
+# 3PL[AX 2012]
 
 A party that provides logistics services to customers. 
 

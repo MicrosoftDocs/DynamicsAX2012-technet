@@ -14,7 +14,7 @@ f1_keywords:
 - TIN
 ---
 
-# (IND) Define the TIN for a company address 
+# (IND) Define the TIN for a company address [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

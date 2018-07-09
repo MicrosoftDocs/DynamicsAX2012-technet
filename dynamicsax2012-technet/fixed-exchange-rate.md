@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.fixed exchange rate
 ---
 
-# fixed exchange rate
+# fixed exchange rate[AX 2012]
 
 An exchange rate that pegs one currency's value to another currency's value.
 

@@ -11,7 +11,7 @@ f1_keywords:
 - withholding tax
 ---
 
-# (THA) Set up withholding tax parameters 
+# (THA) Set up withholding tax parameters [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

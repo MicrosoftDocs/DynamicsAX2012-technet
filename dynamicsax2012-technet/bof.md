@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.BOF
 ---
 
-# BOF
+# BOF[AX 2012]
 
 The model-view-controller framework that synchronously or asynchronously controls the execution of immediate or batched business operation implementations.
 

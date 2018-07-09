@@ -11,7 +11,7 @@ f1_keywords:
 - EPDocuInfo
 ---
 
-# View or edit document properties 
+# View or edit document properties [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

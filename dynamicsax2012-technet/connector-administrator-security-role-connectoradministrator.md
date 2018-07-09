@@ -8,7 +8,7 @@ ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---
 
-# Connector administrator security role (ConnectorAdministrator) 
+# Connector administrator security role (ConnectorAdministrator) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

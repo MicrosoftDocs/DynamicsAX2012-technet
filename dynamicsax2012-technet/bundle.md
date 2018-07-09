@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.bundle
 ---
 
-# bundle
+# bundle[AX 2012]
 
 The combination of a number of products for sale as one unit.
 

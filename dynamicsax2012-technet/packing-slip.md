@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.packing slip
 ---
 
-# packing slip
+# packing slip[AX 2012]
 
 A source document that documents the item quantities in a shipment.
 

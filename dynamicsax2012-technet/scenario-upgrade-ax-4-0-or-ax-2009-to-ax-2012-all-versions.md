@@ -8,7 +8,7 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
 
-# Scenario: Upgrade AX 4.0 or AX 2009 to AX 2012 (all versions) 
+# Scenario: Upgrade AX 4.0 or AX 2009 to AX 2012 (all versions) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

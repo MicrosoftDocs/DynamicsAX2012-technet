@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.main account
 ---
 
-# main account
+# main account[AX 2012]
 
 A classifier of economic resource value based on the claims parties make on the economic resources owned by a legal entity and that is used to classify debit and credit entries in an accounting system.
 

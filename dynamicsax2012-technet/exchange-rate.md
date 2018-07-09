@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.exchange rate
 ---
 
-# exchange rate
+# exchange rate[AX 2012]
 
 The value of one exchange currency unit relative to another exchange currency unit.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.statistical baseline forecast
 ---
 
-# statistical baseline forecast
+# statistical baseline forecast[AX 2012]
 
 An estimate of future demand that is created by applying a forecasting algorithm to historical transaction data.
 

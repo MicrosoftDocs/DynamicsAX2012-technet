@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (LTU) Generate a vendor payment using the local payment transfer (LT) export format 
+# (LTU) Generate a vendor payment using the local payment transfer (LT) export format [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

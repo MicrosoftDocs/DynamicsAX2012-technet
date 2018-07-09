@@ -15,7 +15,7 @@ f1_keywords:
 - item constraint
 ---
 
-# Set up transportation constraints for routes 
+# Set up transportation constraints for routes [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

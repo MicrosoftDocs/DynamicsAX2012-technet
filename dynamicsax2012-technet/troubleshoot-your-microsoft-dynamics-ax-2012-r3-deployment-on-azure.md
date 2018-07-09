@@ -8,7 +8,7 @@ ms.date: 09/20/2017
 mtps_version: v=AX.60
 ---
 
-# Troubleshoot your Microsoft Dynamics AX 2012 R3 deployment on Azure 
+# Troubleshoot your Microsoft Dynamics AX 2012 R3 deployment on Azure [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

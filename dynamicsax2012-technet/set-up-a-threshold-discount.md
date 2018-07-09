@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.RetailPeriodicDiscount
 ---
 
-# Set up a threshold discount 
+# Set up a threshold discount [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

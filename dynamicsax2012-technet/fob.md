@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.FOB
 ---
 
-# FOB
+# FOB[AX 2012]
 
 A shipping method that establishes the point at which ownership of goods passes to the buyer. The FOB can establish ownership when an item is damaged in transit.
 

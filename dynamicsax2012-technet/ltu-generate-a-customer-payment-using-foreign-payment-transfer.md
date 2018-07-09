@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (LTU) Generate a customer payment using Foreign Payment Transfer 
+# (LTU) Generate a customer payment using Foreign Payment Transfer [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

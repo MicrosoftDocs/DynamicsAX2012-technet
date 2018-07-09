@@ -11,7 +11,7 @@ f1_keywords:
 - Glossary.duty
 ---
 
-# duty
+# duty[AX 2012]
 
   - A responsibility to perform one or more tasks or to provide services for a job.
 

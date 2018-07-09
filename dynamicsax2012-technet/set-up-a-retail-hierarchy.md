@@ -14,7 +14,7 @@ f1_keywords:
 - retail hierarchy
 ---
 
-# Set up a retail hierarchy 
+# Set up a retail hierarchy [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_

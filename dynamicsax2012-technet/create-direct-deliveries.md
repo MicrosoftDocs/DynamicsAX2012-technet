@@ -12,7 +12,7 @@ f1_keywords:
 - create a purchase order directly from a sales order
 ---
 
-# Create direct deliveries 
+# Create direct deliveries [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

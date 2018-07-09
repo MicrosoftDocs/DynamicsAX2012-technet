@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.asset
 ---
 
-# asset
+# asset[AX 2012]
 
 An accounting classifier used to classify the value of economic resources that are owned by a party.
 

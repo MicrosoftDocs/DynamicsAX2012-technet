@@ -20,7 +20,7 @@ f1_keywords:
 - start a production job - manufacturing execution
 ---
 
-# Key tasks: Work with production jobs in Manufacturing execution 
+# Key tasks: Work with production jobs in Manufacturing execution [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

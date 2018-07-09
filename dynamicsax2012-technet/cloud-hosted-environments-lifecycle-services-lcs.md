@@ -8,7 +8,7 @@ ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---
 
-# Cloud-hosted environments (Lifecycle Services, LCS) 
+# Cloud-hosted environments (Lifecycle Services, LCS) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

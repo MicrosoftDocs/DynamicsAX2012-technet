@@ -8,7 +8,7 @@ ms.date: 11/18/2014
 mtps_version: v=AX.60
 ---
 
-# (MYS) Print GST invoice for credit note or debit note 
+# (MYS) Print GST invoice for credit note or debit note [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

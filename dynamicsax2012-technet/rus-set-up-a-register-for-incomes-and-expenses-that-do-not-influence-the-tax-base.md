@@ -13,7 +13,7 @@ f1_keywords:
 - tax base
 ---
 
-# (RUS) Set up a register for incomes and expenses that do not influence the tax base 
+# (RUS) Set up a register for incomes and expenses that do not influence the tax base [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

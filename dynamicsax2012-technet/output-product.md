@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.output product
 ---
 
-# output product
+# output product[AX 2012]
 
 The physical products that result from an activity.
 

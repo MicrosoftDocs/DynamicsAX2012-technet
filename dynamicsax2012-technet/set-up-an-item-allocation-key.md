@@ -14,7 +14,7 @@ f1_keywords:
 - key, item allocation
 ---
 
-# Set up an item allocation key 
+# Set up an item allocation key [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

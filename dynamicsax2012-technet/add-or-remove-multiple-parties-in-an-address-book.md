@@ -15,7 +15,7 @@ f1_keywords:
 - remove record from address book
 ---
 
-# Add or remove multiple parties in an address book 
+# Add or remove multiple parties in an address book [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

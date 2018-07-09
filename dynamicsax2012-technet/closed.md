@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.closed
 ---
 
-# closed
+# closed[AX 2012]
 
 The state in a period in which an activity cannot occur, the state of an operational process, or the status of a source document.
 

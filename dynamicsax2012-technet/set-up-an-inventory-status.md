@@ -21,7 +21,7 @@ f1_keywords:
 - warehouses
 ---
 
-# Set up an inventory status 
+# Set up an inventory status [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.purchase item
 ---
 
-# purchase item
+# purchase item[AX 2012]
 
 An itemized product that participates in a procurement process.
 

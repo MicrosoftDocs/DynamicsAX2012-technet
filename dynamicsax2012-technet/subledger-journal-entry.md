@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.subledger journal entry
 ---
 
-# subledger journal entry
+# subledger journal entry[AX 2012]
 
 A journal entry in a subledger journal.
 

@@ -12,7 +12,7 @@ f1_keywords:
 - change management
 ---
 
-# Key tasks: Change management for purchase orders 
+# Key tasks: Change management for purchase orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

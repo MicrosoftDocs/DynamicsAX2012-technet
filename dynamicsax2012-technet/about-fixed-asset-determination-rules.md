@@ -13,7 +13,7 @@ f1_keywords:
 - fixed asset rule
 ---
 
-# About fixed asset determination rules 
+# About fixed asset determination rules [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

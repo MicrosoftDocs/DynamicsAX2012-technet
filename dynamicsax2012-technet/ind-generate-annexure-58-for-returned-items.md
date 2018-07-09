@@ -14,7 +14,7 @@ f1_keywords:
 - goods return
 ---
 
-# (IND) Generate annexure 58 for returned items 
+# (IND) Generate annexure 58 for returned items [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

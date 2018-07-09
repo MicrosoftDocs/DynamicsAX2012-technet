@@ -10,7 +10,7 @@ f1_keywords:
 - Forms.TAMTemplateListPage
 ---
 
-# Set up trade allowance templates 
+# Set up trade allowance templates [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

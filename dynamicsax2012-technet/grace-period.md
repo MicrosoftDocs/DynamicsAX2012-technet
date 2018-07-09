@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.grace period
 ---
 
-# grace period
+# grace period[AX 2012]
 
 The time period beyond a specified date during which an obligation can be fulfilled without penalty.
 

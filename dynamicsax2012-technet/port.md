@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.port
 ---
 
-# port
+# port[AX 2012]
 
 An inbound or outbound service endpoint that binds a communications protocol and data contract with a network address.
 

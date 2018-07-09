@@ -11,7 +11,7 @@ f1_keywords:
 - Forms.WHSLoadTableInvoicePost_BR
 ---
 
-# (BRA) Generate fiscal documents for a load 
+# (BRA) Generate fiscal documents for a load [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

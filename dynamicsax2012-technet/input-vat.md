@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.input VAT
 ---
 
-# input VAT
+# input VAT[AX 2012]
 
 The tax on an organization’s purchases or input supplies, which is levied on the purchase price.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.takt time
 ---
 
-# takt time
+# takt time[AX 2012]
 
 The time that it takes to produce one unit of a product.
 

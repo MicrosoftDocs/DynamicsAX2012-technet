@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.interest
 ---
 
-# interest
+# interest[AX 2012]
 
 An amount charged for the use of money or credit.
 

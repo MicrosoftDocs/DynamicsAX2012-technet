@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.journalize
 ---
 
-# journalize
+# journalize[AX 2012]
 
 To record the financial consequences of accounting events in the subledger journal.
 

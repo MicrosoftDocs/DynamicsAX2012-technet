@@ -22,7 +22,7 @@ f1_keywords:
 - MsDynAx060.Forms.AssetRetirementObligationExplorer_JP
 ---
 
-# (JPN) Set up asset retirement obligation for fixed assets 
+# (JPN) Set up asset retirement obligation for fixed assets [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

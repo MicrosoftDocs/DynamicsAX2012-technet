@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (ESP) Assign due date limits to item groups to calculate invoice due dates 
+# (ESP) Assign due date limits to item groups to calculate invoice due dates [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

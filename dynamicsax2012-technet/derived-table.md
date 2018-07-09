@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.derived table
 ---
 
-# derived table
+# derived table[AX 2012]
 
 A table that assumes a child role when it participates in an inheritance relationship with another table.
 

@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.foreign key
 ---
 
-# foreign key
+# foreign key[AX 2012]
 
 A set of fields whose values are migrated from a primary key or an alternate key from a parent table.
 

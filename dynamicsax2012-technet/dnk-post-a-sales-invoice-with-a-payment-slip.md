@@ -12,7 +12,7 @@ f1_keywords:
 - sales invoice
 ---
 
-# (DNK) Post a sales invoice with a payment slip 
+# (DNK) Post a sales invoice with a payment slip [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

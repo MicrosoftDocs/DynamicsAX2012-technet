@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.face value
 ---
 
-# face value
+# face value[AX 2012]
 
 The stated value that is displayed on the face of a monetary unit, such as a bill, coin, or gift card. For gift cards, the face value is the starting balance, which was paid when the gift card was issued.
 

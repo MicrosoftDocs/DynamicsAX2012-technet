@@ -10,7 +10,7 @@ f1_keywords:
 - SSRS_Reports.Reports.RDeferralsTransactionListing
 ---
 
-# (RUS) Deferrals transaction listing report (RDeferralsTransactionListing) 
+# (RUS) Deferrals transaction listing report (RDeferralsTransactionListing) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_

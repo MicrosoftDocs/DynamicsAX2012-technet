@@ -8,7 +8,7 @@ ms.date: 09/03/2014
 mtps_version: v=AX.60
 ---
 
-# Accounts payable roadmap 
+# Accounts payable roadmap [AX 2012]
 
 
 This topic is a roadmap to additional information about Accounts payable in Microsoft Dynamics AX. It includes links to information about how to get started, configure, and use Accounts payable and information on which modules integrate with Accounts payable.

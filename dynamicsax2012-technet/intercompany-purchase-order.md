@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.intercompany purchase order
 ---
 
-# intercompany purchase order
+# intercompany purchase order[AX 2012]
 
 A purchase order that one legal entity generates from a sales order sent by another legal entity that is part of the same organization that consolidates the accounts of both legal entities.
 

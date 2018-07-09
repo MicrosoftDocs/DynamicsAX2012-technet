@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.campaign
 ---
 
-# campaign
+# campaign[AX 2012]
 
 A planned set of activities developed by an organization to meet the objective of increasing market shared over a distinct time period.
 

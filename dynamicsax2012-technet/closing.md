@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.closing
 ---
 
-# closing
+# closing[AX 2012]
 
 An accounting procedure that transfers the balances of the temporary owners’ equity accounts to the permanent owners’ equity account, which leaves the temporary accounts with zero balances.
 

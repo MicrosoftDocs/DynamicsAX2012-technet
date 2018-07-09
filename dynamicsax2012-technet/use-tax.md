@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.use tax
 ---
 
-# use tax
+# use tax[AX 2012]
 
 An excise tax levied on products in the United States where a sales tax is not levied.
 

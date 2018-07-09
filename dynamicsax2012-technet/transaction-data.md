@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.transaction data
 ---
 
-# transaction data
+# transaction data[AX 2012]
 
 Entities that document economic, resource flow, and accounting events and record their financial, legal, and operational consequences.
 

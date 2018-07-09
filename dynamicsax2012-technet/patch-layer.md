@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.patch layer
 ---
 
-# patch layer
+# patch layer[AX 2012]
 
 An application layer that is paired above an application layer, and used only for hotfixes and service packs. The name of each patch layer ends with the letter 'P', and one pair is named SYS and SYP.
 

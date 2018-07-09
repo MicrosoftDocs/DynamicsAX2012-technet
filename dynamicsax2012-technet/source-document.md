@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.source document
 ---
 
-# source document
+# source document[AX 2012]
 
 An original record that evidences the occurrence of one or more economic, resource flow, and accounting events. A source document is entered into a system that records, classifies, tracks, and reports on the economic resources exchanged or committed at the time of the event.
 

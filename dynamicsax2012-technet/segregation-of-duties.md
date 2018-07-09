@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.segregation of duties
 ---
 
-# segregation of duties
+# segregation of duties[AX 2012]
 
 A design principle used to reduce the risk of fraud, irregularities, and errors that separates the recording, verification, authorization, custody of assets, and periodic review duties of people who participate in, document, or record the financial consequences of economic transactions.
 

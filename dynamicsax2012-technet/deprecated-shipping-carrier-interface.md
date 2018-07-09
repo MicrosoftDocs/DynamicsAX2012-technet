@@ -8,7 +8,7 @@ ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---
 
-# Deprecated: Shipping carrier interface 
+# Deprecated: Shipping carrier interface [AX 2012]
 
 
 For the next major release after Microsoft Dynamics AX 2012 R3, the shipping carrier interface will be deprecated.

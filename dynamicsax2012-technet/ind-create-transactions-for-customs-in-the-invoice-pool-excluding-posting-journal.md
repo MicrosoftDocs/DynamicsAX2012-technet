@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# (IND) Create transactions for customs in the Invoice pool excluding posting journal 
+# (IND) Create transactions for customs in the Invoice pool excluding posting journal [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

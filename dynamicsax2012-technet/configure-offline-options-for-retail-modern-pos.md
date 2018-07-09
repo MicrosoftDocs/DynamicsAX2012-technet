@@ -8,7 +8,7 @@ ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
 
-# Configure offline options for Retail Modern POS 
+# Configure offline options for Retail Modern POS [AX 2012]
 
 
 This topic explains how to create offline databases for the Retail Modern POS by using the Retail Channel Configuration Utility.

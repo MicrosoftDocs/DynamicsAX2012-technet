@@ -12,7 +12,7 @@ f1_keywords:
 - metatdata
 ---
 
-# Import metadata into Microsoft Dynamics ERP RapidStart Services from a Microsoft Dynamics ERP implementation 
+# Import metadata into Microsoft Dynamics ERP RapidStart Services from a Microsoft Dynamics ERP implementation [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

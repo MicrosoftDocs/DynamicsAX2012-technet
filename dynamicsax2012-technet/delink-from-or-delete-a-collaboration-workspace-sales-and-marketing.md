@@ -10,7 +10,7 @@ f1_keywords:
 - collaboration workspace
 ---
 
-# Delink from or delete a collaboration workspace (Sales and marketing) 
+# Delink from or delete a collaboration workspace (Sales and marketing) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

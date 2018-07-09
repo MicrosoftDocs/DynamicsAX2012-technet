@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Securing Data by Dimension Value by using Extensible Data Security (White paper) 
+# Securing Data by Dimension Value by using Extensible Data Security (White paper) [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_

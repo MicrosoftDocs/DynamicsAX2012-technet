@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.work in process
 ---
 
-# work in process
+# work in process[AX 2012]
 
 Material that is in some stage of the manufacturing process, from raw material issued to a production order to a manufactured product ready for acceptance into inventory.
 

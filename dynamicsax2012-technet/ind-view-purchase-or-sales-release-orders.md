@@ -13,7 +13,7 @@ f1_keywords:
 - sales release order
 ---
 
-# (IND) View purchase or sales release orders 
+# (IND) View purchase or sales release orders [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

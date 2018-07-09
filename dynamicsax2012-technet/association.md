@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.association
 ---
 
-# association
+# association[AX 2012]
 
 A relationship between peer objects.
 

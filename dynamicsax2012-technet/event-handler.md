@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.event handler
 ---
 
-# event handler
+# event handler[AX 2012]
 
 A software routine that executes in response to an event.
 

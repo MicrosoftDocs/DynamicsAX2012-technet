@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.sales quotation
 ---
 
-# sales quotation
+# sales quotation[AX 2012]
 
 A source document that documents an offer to supply a quantity of product for a specified price and by a specified date in response to a request for quotation in a sales process.
 

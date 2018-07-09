@@ -23,7 +23,7 @@ f1_keywords:
 - national items
 ---
 
-# (BRA) Set up approximate taxes for items and services 
+# (BRA) Set up approximate taxes for items and services [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

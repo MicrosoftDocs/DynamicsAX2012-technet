@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.replacement cost
 ---
 
-# replacement cost
+# replacement cost[AX 2012]
 
 The current cost of replacing an existing asset with a similar asset with equivalent operational capability.
 

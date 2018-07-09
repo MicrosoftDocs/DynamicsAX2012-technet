@@ -8,7 +8,7 @@ ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---
 
-# Deprecated: Sales shipment 
+# Deprecated: Sales shipment [AX 2012]
 
 
 For the next major release after Microsoft Dynamics AX 2012 R3, the sales shipment feature will be deprecated.

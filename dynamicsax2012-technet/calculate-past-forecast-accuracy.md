@@ -12,7 +12,7 @@ f1_keywords:
 - demand forecasting, demand forecast, demand forecasts, forecast accuracy, demand forecast accuracy, historical forecast
 ---
 
-# Calculate past forecast accuracy 
+# Calculate past forecast accuracy [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

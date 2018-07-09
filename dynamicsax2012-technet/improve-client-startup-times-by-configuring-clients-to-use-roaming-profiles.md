@@ -8,7 +8,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Improve client startup times by configuring clients to use roaming profiles 
+# Improve client startup times by configuring clients to use roaming profiles [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

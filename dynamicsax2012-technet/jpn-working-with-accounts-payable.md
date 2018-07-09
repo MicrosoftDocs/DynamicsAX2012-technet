@@ -8,7 +8,7 @@ ms.date: 01/27/2017
 mtps_version: v=AX.60
 ---
 
-# (JPN) Working with Accounts payable 
+# (JPN) Working with Accounts payable [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

@@ -14,7 +14,7 @@ f1_keywords:
 - day book
 ---
 
-# (BRA) Generate a day book report 
+# (BRA) Generate a day book report [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_

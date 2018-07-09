@@ -13,7 +13,7 @@ f1_keywords:
 - product translations
 ---
 
-# Translations of product-related information 
+# Translations of product-related information [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_

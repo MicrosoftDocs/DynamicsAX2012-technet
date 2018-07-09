@@ -10,7 +10,7 @@ f1_keywords:
 - Glossary.commodity
 ---
 
-# commodity
+# commodity[AX 2012]
 
 Interchangeable products with no physical differentiation that are supplied by multiple vendors.
 

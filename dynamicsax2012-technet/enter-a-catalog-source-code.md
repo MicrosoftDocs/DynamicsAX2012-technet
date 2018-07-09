@@ -13,7 +13,7 @@ f1_keywords:
 - MsDynAx060.Forms.MCRSourceIdTargetLookup
 ---
 
-# Enter a catalog source code 
+# Enter a catalog source code [AX 2012]
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
