@@ -362,8 +362,6 @@ Update the StorefrontResources.js file by replacing the English language (en-us)
 
 13. Edit the catalog, validate it, submit for approval, approve, publish, and then execute job 1150. For more information about approving and publishing a catalog, see [Key tasks: Create retail product catalogs](key-tasks-create-retail-product-catalogs.md).
 
-14. 
-
 29\. Wait until catalog is published and crawler finished its workNow we need to verify that the listing with French translation is available in French Publishing Portal30. By using Windows Auth Url navigate to the French Publishing Portal's product gallery31. Edit product gallery's CBS by editing its query by adding the line below into the text box "Ajouter des filtres supplémentaires"ProductCatalogLanguageTagOWSCHCS:frSave the page.32. In similar way as for \#8 - edit the CBS on Product Details page by editing value in the same combobox, there you need to replace ProductCatalogGroupNumberOWSTEXT:{UrlToken.2} ProductCatalogLanguageTagOWSCHCS:{CurrentDisplayLanguage}withProductCatalogGroupNumberOWSTEXT:{UrlToken.2} ProductCatalogLanguageTagOWSCHCS:fr　33. Go to Product Gallery page and make sure that items contains the French translation you specified in AX.34. Repeat the step 10 but this time apply it against the Product Details page.
 
 ## See also

@@ -115,8 +115,6 @@ The data on this report comes from the following sources:
 
   - ProjValProjectTmp table
 
-  - 
-
 
 > [!NOTE]
 > <P>To determine where the data in the temp tables comes from, view the cross-references for the ProjValProjCategoryDP.processReport class.</P>
