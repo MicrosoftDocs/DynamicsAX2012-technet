@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# ItemOutOfStockException Constructor (String, Object )
+# ItemOutOfStockException Constructor (String, Object[])
 
 Initializes an instance of the [DataValidationException](datavalidationexception-class-microsoft-dynamics-commerce-runtime.md) class.
 
