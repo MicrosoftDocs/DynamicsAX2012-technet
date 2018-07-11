@@ -8559,39 +8559,39 @@
                 href: ..\commercepropertyvalue-type-conversions-microsoft-dynamics-commerce-runtime-datamodel.md
                 items:
                 - name: Explicit Conversion Operators
-                  href: ..\commercepropertyvalue explicit-conversion-operators-microsoft-dynamics-commerce-runtime-datamodel.md
+                  href: ..\commercepropertyvalue-explicit-conversion-operators-microsoft-dynamics-commerce-runtime-datamodel.md
                   items:
                   - name: Explicit Conversion (CommercePropertyValue to Int32)
-                    href: ..\commercepropertyvalue explicit-conversion-commercepropertyvalue-to-int32-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-int32-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Explicit Conversion (CommercePropertyValue to Int64)
-                    href: ..\commercepropertyvalue explicit-conversion-commercepropertyvalue-to-int64-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-int64-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Explicit Conversion (CommercePropertyValue to String)
-                    href: ..\commercepropertyvalue explicit-conversion-commercepropertyvalue-to-string-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-string-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Explicit Conversion (CommercePropertyValue to Boolean)
-                    href: ..\commercepropertyvalue explicit-conversion-commercepropertyvalue-to-boolean-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-boolean-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Explicit Conversion (CommercePropertyValue to Byte)
-                    href: ..\commercepropertyvalue explicit-conversion-commercepropertyvalue-to-byte-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-byte-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Explicit Conversion (CommercePropertyValue to DateTimeOffset)
                     href: ..\commercepropertyvalueexplicit-conversion-commercepropertyvalue-to-datetimeoffset-microsoft-dynamics-commerce-runtime-datamodel.md
-                  - name: Explicit Conversion (CommercePropertyValue to Decimal)
-                    href: ..\commercepropertyvalue explicit-conversion-commercepropertyvalue-to-decimal-microsoft-dynamics-commerce-runtime-datamodel.md
+                  - name: Explicit Conversion-(CommercePropertyValue to Decimal)
+                    href: ..\commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-decimal-microsoft-dynamics-commerce-runtime-datamodel.md
                 - name: Implicit Conversion Operators
-                  href: ..\commercepropertyvalue implicit-conversion-operators-microsoft-dynamics-commerce-runtime-datamodel.md
+                  href: ..\commercepropertyvalue-implicit-conversion-operators-microsoft-dynamics-commerce-runtime-datamodel.md
                   items:
                   - name: Implicit Conversion (Boolean to CommercePropertyValue)
-                    href: ..\commercepropertyvalue implicit-conversion-boolean-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalue-implicit-conversion-boolean-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Implicit Conversion (Byte to CommercePropertyValue)
-                    href: ..\commercepropertyvalue implicit-conversion-byte-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalue-implicit-conversion-byte-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Implicit Conversion (DateTimeOffset to CommercePropertyValue)
                     href: ..\commercepropertyvalueimplicit-conversion-datetimeoffset-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Implicit Conversion (Decimal to CommercePropertyValue)
-                    href: ..\commercepropertyvalue implicit-conversion-decimal-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalue-implicit-conversion-decimal-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Implicit Conversion (Int32 to CommercePropertyValue)
-                    href: ..\commercepropertyvalue implicit-conversion-int32-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalue-implicit-conversion-int32-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Implicit Conversion (Int64 to CommercePropertyValue)
-                    href: ..\commercepropertyvalue implicit-conversion-int64-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalue-implicit-conversion-int64-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
                   - name: Implicit Conversion (String to CommercePropertyValue)
-                    href: ..\commercepropertyvalue implicit-conversion-string-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
+                    href: ..\commercepropertyvalue-implicit-conversion-string-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md
               - name: CommercePropertyValue Properties
                 href: ..\commercepropertyvalue-properties-microsoft-dynamics-commerce-runtime-datamodel.md
                 items:
