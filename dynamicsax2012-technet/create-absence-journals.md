@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create absence journals
 TOCTitle: Create absence journals
 ms:assetid: dcfad5d3-3006-49f1-9ed6-91b62bd73e02
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551264(v=AX.60)
 ms:contentKeyID: 36966742
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create absence journals 
@@ -34,5 +36,5 @@ When you create absence journals, the starting date immediately follows the endi
 [Transfer absence journals for approval](transfer-absence-journals-for-approval.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

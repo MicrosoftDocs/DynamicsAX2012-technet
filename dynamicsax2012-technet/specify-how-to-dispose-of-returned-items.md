@@ -1,4 +1,4 @@
-﻿---
+---
 title: Specify how to dispose of returned items
 TOCTitle: Specify how to dispose of returned items
 ms:assetid: 9c494e29-24b2-46b5-a50b-6487c8887f6e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213368(v=AX.60)
 ms:contentKeyID: 36058728
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Specify how to dispose of returned items 
@@ -166,5 +168,5 @@ For each disposition code that you define, you must select a disposition action.
 [Disposition codes (form)](https://technet.microsoft.com/en-us/library/hh597113\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

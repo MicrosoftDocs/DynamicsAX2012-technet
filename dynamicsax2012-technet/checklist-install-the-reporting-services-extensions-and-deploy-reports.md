@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Checklist: Install the Reporting Services extensions and deploy reports'
 TOCTitle: 'Checklist: Install the Reporting Services extensions and deploy reports'
 ms:assetid: d414bfd2-4ff1-487c-a4b6-ace0e7e1b73e
@@ -66,5 +66,5 @@ To install the Microsoft SQL Server Reporting Services extensions and deploy rep
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

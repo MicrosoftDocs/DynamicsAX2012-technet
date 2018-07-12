@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use buyer's push to distribute products (Retail essentials)
 TOCTitle: Use buyer's push to distribute products (Retail essentials)
 ms:assetid: a8573328-1448-46b9-8ece-d281529437ab
@@ -60,5 +60,5 @@ To create a buyer’s push, use the following steps:
 [Replenish inventory overview (Retail essentials)](replenish-inventory-overview-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About completing a questionnaire
 TOCTitle: About completing a questionnaire
 ms:assetid: ccaa21d5-71b2-4267-b360-a04d4524f734
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - questionnaires
 - questionnaire
+audience: Application User
+ms.search.region: Global
 ---
 
 # About completing a questionnaire 
@@ -33,5 +35,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [Complete a questionnaire](complete-a-questionnaire.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

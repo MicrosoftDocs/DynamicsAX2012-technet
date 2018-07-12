@@ -1,4 +1,4 @@
-﻿---
+---
 title: Schedule and run jobs in Retail Scheduler
 TOCTitle: Schedule and run jobs in Retail Scheduler
 ms:assetid: fd0e4d1a-26ec-4ad3-861c-c71b238b4387
@@ -111,5 +111,5 @@ Use the following procedure to run an individual scheduler job manually. The job
 In AX 2012 R3, you can view information about past runs of a distribution schedule. In the **Distribution schedule** form, select a distribution schedule and click **History**. For more information, see [View history for a distribution schedule](view-history-for-a-distribution-schedule.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

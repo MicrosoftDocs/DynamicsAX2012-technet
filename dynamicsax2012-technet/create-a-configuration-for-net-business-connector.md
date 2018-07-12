@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a configuration for .NET Business Connector
 TOCTitle: Create a configuration for .NET Business Connector
 ms:assetid: 91fd7a36-5a5f-4a2d-b85c-c7ecaec9c405
@@ -48,5 +48,5 @@ For more information about the fields and options in the Microsoft Dynamics AX 2
 [Manage a client configuration](manage-a-client-configuration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

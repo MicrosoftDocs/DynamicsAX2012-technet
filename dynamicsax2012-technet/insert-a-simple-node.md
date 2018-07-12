@@ -1,4 +1,4 @@
-﻿---
+---
 title: Insert a Simple node
 TOCTitle: Insert a Simple node
 ms:assetid: a753fc6b-62f6-41be-916f-184aa2d01246
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550305(v=AX.60)
 ms:contentKeyID: 36058877
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Insert a Simple node 
@@ -52,5 +54,5 @@ The Simple node is used to perform simple calculations in the modeling tree.
 [Product model (form)](https://technet.microsoft.com/en-us/library/aa574919\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

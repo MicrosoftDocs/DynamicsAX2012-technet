@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up connection profiles (Retail essentials)
 TOCTitle: Set up connection profiles (Retail essentials)
 ms:assetid: 4078f3ac-9573-4032-b27f-c0f479eece89
@@ -24,5 +24,5 @@ Connection profiles enable the components of Retail essentials to communicate wi
 [Set up Async Server profile](set-up-async-server-profile.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

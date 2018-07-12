@@ -1,4 +1,4 @@
-﻿---
+---
 title: Information technology manager security role (SysServerITManager)
 TOCTitle: Information technology manager security role (SysServerITManager)
 ms:assetid: 4eb3e209-f8a9-4ccc-a999-7565f3110b56
@@ -483,5 +483,5 @@ By default, this security role is assigned the following privileges in Microsoft
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

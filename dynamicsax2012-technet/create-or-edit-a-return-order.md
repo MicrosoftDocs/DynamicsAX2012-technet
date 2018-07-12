@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or edit a return order
 TOCTitle: Create or edit a return order
 ms:assetid: 73c827c7-4c09-435e-abf1-d25ef679629a
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPSalesReturnItemCreate
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or edit a return order 
@@ -64,5 +66,5 @@ You can use the **Edit return order** page to edit a return order. You can add l
 [View customer invoice information](view-customer-invoice-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

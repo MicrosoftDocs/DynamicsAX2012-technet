@@ -1,4 +1,4 @@
-﻿---
+---
 title: Introduction to Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Introduction to Microsoft Dynamics ERP RapidStart Services
 ms:assetid: 72471ac1-55e2-4b46-a0a0-13eb16360106
@@ -173,5 +173,5 @@ For more information, see [Try out Microsoft Dynamics ERP RapidStart Services](t
 [Design custom content for Microsoft Dynamics ERP RapidStart Services](design-custom-content-for-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

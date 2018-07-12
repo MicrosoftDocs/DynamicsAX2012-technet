@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Cancel a customer fiscal document
 TOCTitle: (BRA) Cancel a customer fiscal document
 ms:assetid: 7f583608-bba6-4a05-ad02-77acd8dfb491
@@ -15,6 +15,8 @@ f1_keywords:
 - cancel a customer fiscal document
 - customer fiscal document
 - BR-00044
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Cancel a customer fiscal document 
@@ -63,5 +65,5 @@ You can cancel an incorrect customer fiscal document by using the **Cancel fisca
 [(BRA) Cancel a vendor fiscal document](bra-cancel-a-vendor-fiscal-document.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

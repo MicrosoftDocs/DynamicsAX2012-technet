@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SGP) Calculate a sales tax payment and print the GST F5 report
 TOCTitle: (SGP) Calculate a sales tax payment and print the GST F5 report
 ms:assetid: b252ff1e-eee8-4585-a058-2b95308d2658
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232401(v=AX.60)
 ms:contentKeyID: 36059058
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Singapore
 ---
 
 # (SGP) Calculate a sales tax payment and print the GST F5 report 
@@ -30,5 +32,5 @@ Use the **Sales tax payment** form to calculate a sales tax payment and print th
 6.  Click **OK**. The sales tax payment is calculated, and the GST F5 Goods and Services Tax Return report is printed.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

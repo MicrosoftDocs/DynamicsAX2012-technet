@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Verify the approved EPCG scheme details
 TOCTitle: (IND) Verify the approved EPCG scheme details
 ms:assetid: 228e14be-7c05-45d8-a831-f8104be0be0a
@@ -12,6 +12,8 @@ f1_keywords:
 - approved EPCG schemes
 - EPCG
 - verify approved EPCG
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Verify the approved EPCG scheme details 
@@ -40,5 +42,5 @@ Use this procedure to view the amounts, effective dates, vendors, and other deta
 [(IND) Create a primary EPCG license](ind-create-a-primary-epcg-license.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

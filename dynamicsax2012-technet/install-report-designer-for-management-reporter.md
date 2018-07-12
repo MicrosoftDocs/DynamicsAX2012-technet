@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Report Designer for Management Reporter
 TOCTitle: Install Report Designer for Management Reporter
 ms:assetid: 654ea989-41a0-4e71-8dbb-f03865c2621b
@@ -59,5 +59,5 @@ For information about how to use Report Designer, see the [Management Reporter t
 [Install Management Reporter server components](install-management-reporter-server-components.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

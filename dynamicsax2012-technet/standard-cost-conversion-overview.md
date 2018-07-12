@@ -1,4 +1,4 @@
-﻿---
+---
 title: Standard cost conversion overview
 TOCTitle: Standard cost conversion overview
 ms:assetid: 2339941a-5a6c-4b3b-ae44-a16ac2f3b93f
@@ -13,6 +13,8 @@ f1_keywords:
 - standard cost
 - standard costs
 - cost conversion
+audience: Application User
+ms.search.region: Global
 ---
 
 # Standard cost conversion overview 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to convert standard cos
 [Set up and run a standard cost conversion](set-up-and-run-a-standard-cost-conversion.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

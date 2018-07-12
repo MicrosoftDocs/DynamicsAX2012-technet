@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) All non fiscal operations
 TOCTitle: (BRA) All non fiscal operations
 ms:assetid: 8ce32ee3-fe3c-4faf-b6a3-dd13443cd507
@@ -10,6 +10,8 @@ f1_keywords:
 - non fiscal
 - forms.FBNonFiscalOperation_BR
 - SPED EFD
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) All non fiscal operations 
@@ -202,5 +204,5 @@ To register non fiscal document operations, follow these steps:
 [(BRA) Generate the SPED fiscal export file for a month](bra-generate-the-sped-fiscal-export-file-for-a-month.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About sales order posting types
 TOCTitle: About sales order posting types
 ms:assetid: ad7875e1-45b2-4c48-9850-35490c808485
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498586(v=AX.60)
 ms:contentKeyID: 44081023
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About sales order posting types 
@@ -70,5 +72,5 @@ The sale of the item, excluding any taxes, such as sales tax, is credited to the
 [Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

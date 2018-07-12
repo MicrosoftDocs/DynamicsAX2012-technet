@@ -1,4 +1,4 @@
-﻿---
+---
 title: " foreign currency unit"
 TOCTitle: " foreign currency unit"
 ms:assetid: DynamicsAXGlossary.1509710
@@ -37,5 +37,5 @@ A currency unit of a country/region that is not the functional currency unit of 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

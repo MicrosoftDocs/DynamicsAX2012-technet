@@ -1,4 +1,4 @@
-﻿---
+---
 title: Apps for Microsoft Dynamics AX 2012
 TOCTitle: Apps for Microsoft Dynamics AX 2012
 ms:assetid: 955bce6c-d389-4bbf-8fa6-05fd3771da28
@@ -76,5 +76,5 @@ The following apps can be used with Microsoft Dynamics AX. Click on a link to le
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

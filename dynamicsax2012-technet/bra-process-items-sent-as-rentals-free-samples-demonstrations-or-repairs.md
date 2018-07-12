@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Process items sent as rentals, free samples, demonstrations, or repairs
 TOCTitle: (BRA) Process items sent as rentals, free samples, demonstrations, or repairs
 ms:assetid: 48983ca0-3f21-42a5-8130-0176b9a77efc
@@ -14,6 +14,8 @@ f1_keywords:
 - rental
 - free samples
 - repairs
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Process items sent as rentals, free samples, demonstrations, or repairs 
@@ -67,5 +69,5 @@ In some circumstances, taxes may not be involved when you send items as rentals 
 [(BRA) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj911252\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

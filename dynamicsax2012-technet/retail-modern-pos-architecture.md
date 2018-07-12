@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail Modern POS architecture
 TOCTitle: Retail Modern POS architecture
 ms:assetid: cb89a6b8-0c34-46d7-88dc-ce6c87898060
@@ -62,5 +62,5 @@ Figure 5 describes the architecture of Retail Modern POS offline.
 [Microsoft Dynamics AX Retail Hardware Station](microsoft-dynamics-ax-retail-hardware-station.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

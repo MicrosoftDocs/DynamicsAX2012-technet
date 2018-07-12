@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Create and post a sales order invoice with a specific VAT register date
 TOCTitle: (HUN) Create and post a sales order invoice with a specific VAT register date
 ms:assetid: f558e197-5836-4c0b-ad88-f431941311ec
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - customer invoice
 - VAT register date
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Create and post a sales order invoice with a specific VAT register date 
@@ -35,5 +37,5 @@ When you post a sale invoice, you can select the date on which to report value-a
 When you post an invoice that includes outgoing tax that will be posted on a future date, the amount of VAT is posted to a temporary account. Later, on the date that you selected, it is posted to the VAT account.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

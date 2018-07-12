@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a ledger journal of transport tax transactions
 TOCTitle: (RUS) Create a ledger journal of transport tax transactions
 ms:assetid: 6c5a48a8-435a-4639-88be-aafed325c837
@@ -11,6 +11,8 @@ f1_keywords:
 - tax
 - Russia
 - ledger journal
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a ledger journal of transport tax transactions 
@@ -49,5 +51,5 @@ For more information, see [(RUS) Set up the calculation of transport tax](rus-se
 [(RUS) Reverse a ledger journal of transport tax transactions](rus-reverse-a-ledger-journal-of-transport-tax-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

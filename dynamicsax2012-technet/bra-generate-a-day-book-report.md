@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Generate a day book report
 TOCTitle: (BRA) Generate a day book report
 ms:assetid: c149f63b-4bf0-4760-a824-3bf07745d5da
@@ -12,6 +12,8 @@ f1_keywords:
 - accounting books
 - generate accounting books
 - day book
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Generate a day book report 
@@ -36,5 +38,5 @@ Use the Day book report to generate a day book report that contains daily transa
 [(BRA) Page and book control for legal accounting reports](bra-page-and-book-control-for-legal-accounting-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

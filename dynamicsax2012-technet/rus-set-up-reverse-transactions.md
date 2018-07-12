@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up reverse transactions
 TOCTitle: (RUS) Set up reverse transactions
 ms:assetid: 92d5b927-3eb0-49c1-b770-2f883c15f39a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678490(v=AX.60)
 ms:contentKeyID: 49387719
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up reverse transactions 
@@ -43,5 +45,5 @@ A cancelation option is available for the following types of inventory journals:
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

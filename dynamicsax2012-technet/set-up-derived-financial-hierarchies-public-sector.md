@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up derived financial hierarchies (Public sector)
 TOCTitle: Set up derived financial hierarchies (Public sector)
 ms:assetid: cd855ad4-ddbb-4302-a038-acc3e66758f8
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - derived financial hierarchies
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Set up derived financial hierarchies (Public sector) 
@@ -84,5 +86,5 @@ To collect account numbers used in the posted transactions for employee programs
 [Associate derived financial hierarchies (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208604\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

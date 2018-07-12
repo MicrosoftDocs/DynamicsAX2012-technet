@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View transactions with sales tax
 TOCTitle: (IND) View transactions with sales tax
 ms:assetid: b1db96a7-bb10-4d71-b87f-8c754b86c65c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664806(v=AX.60)
 ms:contentKeyID: 49386136
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View transactions with sales tax 
@@ -74,5 +76,5 @@ You can use the **India sales tax inquiry** form to view all transactions for th
 [(IND) Totals - India sales tax (form)](https://technet.microsoft.com/en-us/library/jj664472\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a functional area in RapidStart Services
 TOCTitle: Create a functional area in RapidStart Services
 ms:assetid: b1e0bfae-cbf9-4689-96c4-b8cecaed0fbe
@@ -49,5 +49,5 @@ In Microsoft Dynamics ERP RapidStart Services, functional areas are used to coll
 [Publish a functional area in RapidStart Services](publish-a-functional-area-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

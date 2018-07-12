@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up general warehouse parameters
 TOCTitle: Set up general warehouse parameters
 ms:assetid: 5e70fa76-2aeb-4272-8861-eb9d8c313166
@@ -13,6 +13,8 @@ f1_keywords:
 - shipping location
 - warehouse parameters
 - staging location
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up general warehouse parameters 
@@ -187,5 +189,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

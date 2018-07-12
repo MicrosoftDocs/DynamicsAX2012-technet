@@ -1,4 +1,4 @@
-﻿---
+---
 title: Inventory recalculation
 TOCTitle: Inventory recalculation
 ms:assetid: 5f949627-d20a-45e9-a613-1d172350abb8
@@ -14,6 +14,8 @@ f1_keywords:
 - recalculate
 - inventory
 - inventory recalculation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Inventory recalculation 
@@ -40,5 +42,5 @@ The topics in this section provide information about the tasks that are associat
 [Setting up and maintaining inventory close and adjustments](setting-up-and-maintaining-inventory-close-and-adjustments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

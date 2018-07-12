@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Activate storno accounting
 TOCTitle: (EEUR) Activate storno accounting
 ms:assetid: ab3dab82-7f40-4315-95bf-f002e4d7d4d7
@@ -12,6 +12,8 @@ f1_keywords:
 - storno
 - Eastern Europe
 - red storno
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Activate storno accounting 
@@ -172,5 +174,5 @@ After you activate storno accounting in General ledger, you can set up parameter
 [(EEUR) Project management and accounting parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710688\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

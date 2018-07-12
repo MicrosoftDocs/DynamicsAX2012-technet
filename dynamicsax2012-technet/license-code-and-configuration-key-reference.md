@@ -1,4 +1,4 @@
-﻿---
+---
 title: License code and configuration key reference
 TOCTitle: License code and configuration key reference
 ms:assetid: 732b64a0-25bb-44ee-9254-dbecf10a63c9
@@ -196,5 +196,5 @@ The following license code topics are included:
 [Configure application functionality](configure-application-functionality.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

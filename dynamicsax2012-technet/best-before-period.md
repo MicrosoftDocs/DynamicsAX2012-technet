@@ -1,4 +1,4 @@
-﻿---
+---
 title: " best before period"
 TOCTitle: " best before period"
 ms:assetid: DynamicsAXGlossary.1500315
@@ -23,5 +23,5 @@ The time period in which to obtain the optimum quality or characteristic of a pr
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

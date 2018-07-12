@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Extend the export obligation period for an EPCG license
 TOCTitle: (IND) Extend the export obligation period for an EPCG license
 ms:assetid: 28b07b54-32ce-494e-8305-4a4c9654e172
@@ -13,6 +13,8 @@ f1_keywords:
 - EPCG license extension
 - export obligation
 - extension of EPCG license
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Extend the export obligation period for an EPCG license 
@@ -81,5 +83,5 @@ In the **EXIM EPCG Schemes** form, on the **Lines** FastTab, the license status 
 [(IND) Create an export order for an EPCG incentive scheme](ind-create-an-export-order-for-an-epcg-incentive-scheme.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

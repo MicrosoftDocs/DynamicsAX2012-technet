@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate a check on a ledger account or a bank account
 TOCTitle: Generate a check on a ledger account or a bank account
 ms:assetid: 96a46db3-d914-4a12-ba5a-ac757f99be47
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498426(v=AX.60)
 ms:contentKeyID: 36058638
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate a check on a ledger account or a bank account 
@@ -46,5 +48,5 @@ You can create checks and post the amounts to the ledger accounts without postin
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About template BOMs
 TOCTitle: About template BOMs
 ms:assetid: 4f9f830f-00ab-487c-98f2-fc8f31cd2a6b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - bill of materialsl
 - BOM template
+audience: Application User
+ms.search.region: Global
 ---
 
 # About template BOMs 
@@ -123,5 +125,5 @@ To use template BOMs, you must set up two number sequences. Set up one number se
 [Number sequences (list page)](https://technet.microsoft.com/en-us/library/aa600321\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

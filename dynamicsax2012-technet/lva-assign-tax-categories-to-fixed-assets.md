@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Assign tax categories to fixed assets
 TOCTitle: (LVA) Assign tax categories to fixed assets
 ms:assetid: a7ee3a33-a1af-4147-b5a0-14d10f61a295
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911008(v=AX.60)
 ms:contentKeyID: 52075322
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Assign tax categories to fixed assets 
@@ -40,5 +42,5 @@ Before you assign a value model to a fixed asset, you must set up a depreciation
 [(LVA) Fixed assets (modified form)](https://technet.microsoft.com/en-us/library/jj910994\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

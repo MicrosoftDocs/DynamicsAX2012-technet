@@ -1,4 +1,4 @@
-﻿---
+---
 title: About competencies
 TOCTitle: About competencies
 ms:assetid: a976253b-c0af-4da3-a255-e5300f875b30
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ874010(v=AX.60)
 ms:contentKeyID: 50619132
 ms.date: 11/14/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About competencies 
@@ -82,5 +84,5 @@ You can enter information about a contact person’s professional or personal in
 [Record competencies](record-competencies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

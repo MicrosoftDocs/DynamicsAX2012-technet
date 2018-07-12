@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) Sales and purchase operation types'
 TOCTitle: (BRA) Sales and purchase operation types
 ms:assetid: 29bcb2e6-d6c1-4980-bd2a-28c2f493f835
@@ -56,5 +56,5 @@ For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specifi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

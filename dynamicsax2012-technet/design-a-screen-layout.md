@@ -1,4 +1,4 @@
-﻿---
+---
 title: Design a screen layout
 TOCTitle: Design a screen layout
 ms:assetid: fd836a1e-ab35-4f05-b721-5d8e29d2d911
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597301(v=AX.60)
 ms:contentKeyID: 39519390
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Design a screen layout 
@@ -129,5 +131,5 @@ You can only use this feature if you have been granted special permissions to th
 [About setting up screen layouts](about-setting-up-screen-layouts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

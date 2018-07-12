@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Enter a personal ID code for a worker or employee
 TOCTitle: (EST) Enter a personal ID code for a worker or employee
 ms:assetid: 19e0db7e-f72c-4711-a5d7-f67f4a147c1a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710811(v=AX.60)
 ms:contentKeyID: 49385208
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Enter a personal ID code for a worker or employee 
@@ -32,5 +34,5 @@ Every Estonian citizen is assigned a personal ID code. This unique code helps av
 6.  In the **Number** field, enter the identification number that the government assigned to the worker or employee.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

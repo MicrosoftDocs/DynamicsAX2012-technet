@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up production
 TOCTitle: (RUS) Setting up production
 ms:assetid: e0d6b4c0-17aa-4cf2-a82e-30c20cd0a48e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711707(v=AX.60)
 ms:contentKeyID: 49388030
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up production 
@@ -24,5 +26,5 @@ The topics in this section provide information about setting up production contr
 [(RUS) Create a by-product journal name](rus-create-a-by-product-journal-name.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

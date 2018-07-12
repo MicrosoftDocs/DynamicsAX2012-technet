@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Role Center page components
 TOCTitle: About Role Center page components
 ms:assetid: 8daed645-4648-471d-83c4-25deb0f472bc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209358(v=AX.60)
 ms:contentKeyID: 36058506
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Role Center page components 
@@ -50,5 +52,5 @@ You can use business overview Web parts to display measures, or calculations, fr
 FactBoxes display information that is related to a selected record, or information that is displayed in a form or on a list page. For example, if you click a customer name on a list page, a FactBox for the selected customer appears in the right pane. You can customize FactBoxes on Enterprise Portal pages by expanding or closing FactBox parts.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

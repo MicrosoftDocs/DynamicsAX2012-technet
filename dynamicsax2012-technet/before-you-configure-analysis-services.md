@@ -1,4 +1,4 @@
-﻿---
+---
 title: Before you configure Analysis Services
 TOCTitle: Before you configure Analysis Services
 ms:assetid: 7c89294e-ba10-42a4-82c7-efe96d5bc1e3
@@ -44,5 +44,5 @@ On the computer where Analysis Services is installed, or where you plan to insta
 For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up tax codes
 TOCTitle: (BRA) Set up tax codes
 ms:assetid: c53c7ba6-9ce2-4aa2-b7f8-cbccbad8dff7
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - (BRA)
 - set up sales tax
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up tax codes 
@@ -142,5 +144,5 @@ You can set up item sales tax groups in the **Item sales tax groups** form. You 
 [(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj682105\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

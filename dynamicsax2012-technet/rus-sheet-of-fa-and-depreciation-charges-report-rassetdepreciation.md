@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Sheet of FA and depreciation charges report (RAssetDepreciation)
 TOCTitle: (RUS) Sheet of FA and depreciation charges report (RAssetDepreciation)
 ms:assetid: b711062f-d0a7-4438-9c48-2cda35933192
@@ -144,5 +144,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(RUS) Set up fixed asset value models](rus-set-up-fixed-asset-value-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

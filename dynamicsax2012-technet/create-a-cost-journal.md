@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a cost journal
 TOCTitle: Create a cost journal
 ms:assetid: 580e1fb6-30ff-494b-a799-61db6102c9c7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549066(v=AX.60)
 ms:contentKeyID: 36057339
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a cost journal 
@@ -42,5 +44,5 @@ A cost journal is used to create and post cost transactions. Before you enter an
 [About journal names](about-journal-names.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

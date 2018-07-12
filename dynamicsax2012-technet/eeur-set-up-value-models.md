@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Set up value models
 TOCTitle: (EEUR) Set up value models
 ms:assetid: d99a9909-d296-4bdb-8e86-6422ce16b492
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - value models
 - set up value models
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Set up value models 
@@ -43,5 +45,5 @@ Use the **Value models** form to set up value models for fixed assets.
 [(EEUR) About rounding off depreciation amounts](eeur-about-rounding-off-depreciation-amounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

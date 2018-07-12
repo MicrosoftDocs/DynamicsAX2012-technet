@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Identify impaired assets and post journals for impairment
 TOCTitle: (JPN) Identify impaired assets and post journals for impairment
 ms:assetid: 836d62b1-bc88-470a-b56a-70261da6626d
@@ -23,6 +23,8 @@ f1_keywords:
 - Impairment accounting
 - JP - 00014
 - Forms.AssetImpairmentReview_JP
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Identify impaired assets and post journals for impairment 
@@ -258,5 +260,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

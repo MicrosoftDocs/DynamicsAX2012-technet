@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a document content type
 TOCTitle: Create a document content type
 ms:assetid: 6f1a895d-3b2a-4301-af0f-a949bdcae325
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242642(v=AX.60)
 ms:contentKeyID: 36058042
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a document content type 
@@ -34,5 +36,5 @@ Document content types are used to describe the contents of unattached documents
 [Create a reference to an unattached document](create-a-reference-to-an-unattached-document.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

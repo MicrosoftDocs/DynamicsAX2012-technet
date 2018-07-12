@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create a sales credit note for an excise transaction
 TOCTitle: (IND) Create a sales credit note for an excise transaction
 ms:assetid: e1c31c80-c4af-4dc1-862e-578ab462e7d8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710898(v=AX.60)
 ms:contentKeyID: 49386313
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create a sales credit note for an excise transaction 
@@ -42,5 +44,5 @@ When a customer returns goods and you create a credit note for the order, the ca
 [(IND) Copy purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664580\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

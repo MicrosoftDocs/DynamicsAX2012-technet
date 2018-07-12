@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create and post a purchase order line with a negative quantity for an item that is not inventoried
 TOCTitle: (IND) Create and post a purchase order line with a negative quantity for an item that is not inventoried
 ms:assetid: ff303a59-2081-4bb3-894e-44d08a0b1535
@@ -13,6 +13,8 @@ f1_keywords:
 - IND
 - noninventoried
 - quanity
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create and post a purchase order line with a negative quantity for an item that is not inventoried 
@@ -42,5 +44,5 @@ The quantity fields in the purchase order form enable the calculation of the ord
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

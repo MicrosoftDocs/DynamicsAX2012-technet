@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a subcomponent for a component
 TOCTitle: Create a subcomponent for a component
 ms:assetid: 42427253-5e1f-4589-a02b-273ccddd9fa8
@@ -10,6 +10,8 @@ f1_keywords:
 - component
 - product configurator
 - subcomponent
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a subcomponent for a component 
@@ -46,5 +48,5 @@ You can create a hierarchy of components in a product configuration model by add
 [About product configuration models](about-product-configuration-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

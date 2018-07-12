@@ -1,4 +1,4 @@
-﻿---
+---
 title: About simulating cost changes by using a costing version for planned costs
 TOCTitle: About simulating cost changes by using a costing version for planned costs
 ms:assetid: 16ba839b-a321-4bbf-b494-925ee78a4c57
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230960(v=AX.60)
 ms:contentKeyID: 36056076
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About simulating cost changes by using a costing version for planned costs 
@@ -56,5 +58,5 @@ View the item cost records in the simulation costing version to analyze how the 
 [About BOM calculations](about-bom-calculations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up financial statements
 TOCTitle: (JPN) Set up financial statements
 ms:assetid: a4c9d3c7-1e88-42ce-8a32-e90ff830e73b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711211(v=AX.60)
 ms:contentKeyID: 49386522
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up financial statements 
@@ -28,5 +30,5 @@ You can set up balance sheets, profit and loss statements, and statements of cha
 [(JPN) Set up and generate a cash flow statement](jpn-set-up-and-generate-a-cash-flow-statement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

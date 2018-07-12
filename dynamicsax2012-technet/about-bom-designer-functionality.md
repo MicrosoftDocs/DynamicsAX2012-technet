@@ -1,4 +1,4 @@
-﻿---
+---
 title: About BOM designer functionality
 TOCTitle: About BOM designer functionality
 ms:assetid: d0ec2f9b-052e-472b-b9b4-c2cac8ac4187
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551020(v=AX.60)
 ms:contentKeyID: 36059492
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About BOM designer functionality 
@@ -248,5 +250,5 @@ Use the **Setup** tab to customize the information that is shown on the **Design
 [BOM designer (form)](https://technet.microsoft.com/en-us/library/aa583042\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

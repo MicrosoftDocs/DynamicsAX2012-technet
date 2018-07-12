@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Search security and protection
 TOCTitle: Enterprise Search security and protection
 ms:assetid: 53d56eec-e274-4ac1-b89f-35ef10326145
@@ -66,5 +66,5 @@ Tables in the AOT include a **FormRef** property. This property specifies the fo
 [Enterprise Search architecture](enterprise-search-architecture.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

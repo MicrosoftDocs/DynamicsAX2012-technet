@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a positive pay file for multiple legal entities and bank accounts
 TOCTitle: Create a positive pay file for multiple legal entities and bank accounts
 ms:assetid: 61a15898-7bf4-4f53-95ae-2475bf5c3c71
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.BankPositivePaySummary
 - MsDynAx060.Forms.BankPositivePaySummary
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a positive pay file for multiple legal entities and bank accounts 
@@ -176,5 +178,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

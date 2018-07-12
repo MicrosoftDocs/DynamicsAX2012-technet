@@ -1,4 +1,4 @@
-﻿---
+---
 title: About picking routes
 TOCTitle: About picking routes
 ms:assetid: 9b39cd82-aa56-49b1-ba61-5bee5222edea
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - physically pick items
 - picking routes
+audience: Application User
+ms.search.region: Global
 ---
 
 # About picking routes 
@@ -43,5 +45,5 @@ Activate picking routes from the **Shipments** form. Whole pallets will start a 
 [About shipments](about-shipments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

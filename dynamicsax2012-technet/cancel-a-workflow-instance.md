@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cancel a workflow instance
 TOCTitle: Cancel a workflow instance
 ms:assetid: c607697e-3ddd-4e1b-8110-3efd740a8dc4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362069(v=AX.60)
 ms:contentKeyID: 39508888
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Cancel a workflow instance 
@@ -30,5 +32,5 @@ Follow these steps to stop a workflow instance.
 5.  Enter a comment that explains why you are canceling the workflow instance. Click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

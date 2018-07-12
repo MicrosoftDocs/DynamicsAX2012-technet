@@ -1,4 +1,4 @@
-﻿---
+---
 title: Defining and maintaining rules for purchasing
 TOCTitle: Defining and maintaining rules for purchasing
 ms:assetid: 90708910-f495-4b3a-8a99-9daf3f60ac21
@@ -10,6 +10,8 @@ f1_keywords:
 - purchasing rule
 - purchasing rules
 - rules for purchasing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Defining and maintaining rules for purchasing 
@@ -46,5 +48,5 @@ The topics in this section help you set up the rules and parameters that govern 
 [Set up vendor rebate agreements](set-up-vendor-rebate-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

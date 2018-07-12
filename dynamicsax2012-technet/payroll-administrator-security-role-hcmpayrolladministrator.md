@@ -1,4 +1,4 @@
-﻿---
+---
 title: Payroll administrator security role (HcmPayrollAdministrator)
 TOCTitle: Payroll administrator security role (HcmPayrollAdministrator)
 ms:assetid: f3692225-d493-4ee8-b239-48f3ea6ac8e0
@@ -456,5 +456,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

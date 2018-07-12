@@ -1,4 +1,4 @@
-﻿---
+---
 title: Commerce Data Exchange
 TOCTitle: Commerce Data Exchange
 ms:assetid: 33ee0ecd-24f7-4b8a-8f01-c76c5f9710e0
@@ -74,5 +74,5 @@ The following illustration shows an overview of real-time data lookup through Co
 ![Flow of Real-time Service in R3](images/JJ679919.Retail_Real-timeService_R3(en-us,AX.60).gif "Flow of Real-time Service in R3")
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

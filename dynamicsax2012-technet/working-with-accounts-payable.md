@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Accounts payable
 TOCTitle: Working with Accounts payable
 ms:assetid: eec9e2aa-a306-4783-b0b2-3b3bde5dca8b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - AP
 - accounts payable
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Accounts payable 
@@ -29,5 +31,5 @@ This section provides overviews of the Accounts payable business process compone
 [Close Accounts payable overview](close-accounts-payable-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

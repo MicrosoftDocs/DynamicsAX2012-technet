@@ -1,4 +1,4 @@
-﻿---
+---
 title: About quotation delivery schedules
 TOCTitle: About quotation delivery schedules
 ms:assetid: 703dddf0-79f6-4a30-936c-b98d601b6c15
@@ -12,6 +12,8 @@ f1_keywords:
 - delivery schedule
 - quotation
 - delivery schedules
+audience: Application User
+ms.search.region: Global
 ---
 
 # About quotation delivery schedules 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to create and work with
 [Delete delivery schedules and delivery lines](delete-delivery-schedules-and-delivery-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

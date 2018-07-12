@@ -1,4 +1,4 @@
-﻿---
+---
 title: About centralized vendor payments
 TOCTitle: About centralized vendor payments
 ms:assetid: 1c171d11-5b5e-45dd-92d1-87d4a7391a2b
@@ -22,6 +22,8 @@ f1_keywords:
 - operating
 - payment legal entity
 - vendor payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # About centralized vendor payments 
@@ -1061,5 +1063,5 @@ Fabrikam West posting
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor portal administrator, public sector security role (VendVendorPortalAdministrator_PSN)
 TOCTitle: Vendor portal administrator, public sector security role (VendVendorPortalAdministrator_PSN)
 ms:assetid: 62800815-a417-4c09-a754-d2eb00bfbac5
@@ -58,5 +58,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

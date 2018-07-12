@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up sales tax codes for customer advance payment
 TOCTitle: (RUS) Set up sales tax codes for customer advance payment
 ms:assetid: 4cc66b56-774e-45e3-80fc-658fd28925ab
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665362(v=AX.60)
 ms:contentKeyID: 49387450
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up sales tax codes for customer advance payment 
@@ -112,5 +114,5 @@ The sales tax codes are grouped into sales tax groups (TG) and item sales tax gr
 [(RUS) Set up sales tax groups for customer advance payment](rus-set-up-sales-tax-groups-for-customer-advance-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

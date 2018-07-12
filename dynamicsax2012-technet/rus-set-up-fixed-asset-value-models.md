@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up fixed asset value models
 TOCTitle: (RUS) Set up fixed asset value models
 ms:assetid: 536b5ec5-ff98-4c24-ae43-75ef880796d1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911379(v=AX.60)
 ms:contentKeyID: 51784209
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up fixed asset value models 
@@ -58,5 +60,5 @@ Use this procedure to set up value models for fixed assets.
 [(RUS) Value models (modified form)](https://technet.microsoft.com/en-us/library/jj923586\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

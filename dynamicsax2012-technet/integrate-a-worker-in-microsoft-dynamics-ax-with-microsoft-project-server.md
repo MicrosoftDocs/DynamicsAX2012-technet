@@ -1,4 +1,4 @@
-﻿---
+---
 title: Integrate a worker in Microsoft Dynamics AX with Microsoft Project Server
 TOCTitle: Integrate a worker in Microsoft Dynamics AX with Microsoft Project Server
 ms:assetid: fc27d06e-2b16-4813-8fdd-71b94c77b25c
@@ -10,6 +10,8 @@ f1_keywords:
 - project server
 - integrate employees
 - integrate to project server
+audience: Application User
+ms.search.region: Global
 ---
 
 # Integrate a worker in Microsoft Dynamics AX with Microsoft Project Server 
@@ -42,5 +44,5 @@ After synchronization has been set up for Microsoft Dynamics AX and Microsoft Pr
 [Enable a project for synchronization with Microsoft Project Server](enable-a-project-for-synchronization-with-microsoft-project-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

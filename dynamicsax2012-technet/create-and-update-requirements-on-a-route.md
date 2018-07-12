@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and update requirements on a route
 TOCTitle: Create and update requirements on a route
 ms:assetid: fa560e4b-6970-4fb3-a415-ebbe431b2ca2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545539(v=AX.60)
 ms:contentKeyID: 37832552
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and update requirements on a route 
@@ -74,5 +76,5 @@ Follow these steps to delete a requirement from a route.
 4.  Select the requirement you want to delete, and click **Delete**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

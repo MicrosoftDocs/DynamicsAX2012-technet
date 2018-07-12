@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure print settings for labels
 TOCTitle: Configure print settings for labels
 ms:assetid: d2e530b9-638a-40d8-9b82-8cb5d105238b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553203(v=AX.60)
 ms:contentKeyID: 62200162
 ms.date: 05/28/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure print settings for labels 
@@ -259,5 +261,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

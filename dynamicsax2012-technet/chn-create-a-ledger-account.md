@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Create a ledger account
 TOCTitle: (CHN) Create a ledger account
 ms:assetid: 62430f12-dc04-489c-b71f-834472619e60
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - CN - 00010
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Create a ledger account 
@@ -102,5 +104,5 @@ The **Create a ledger account** form is available only when the account number f
 [(CHN) Set up the hierarchy structure for the main account](chn-set-up-the-hierarchy-structure-for-the-main-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

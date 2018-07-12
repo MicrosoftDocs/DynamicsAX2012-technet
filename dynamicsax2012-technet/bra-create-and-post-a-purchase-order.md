@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post a purchase order
 TOCTitle: (BRA) Create and post a purchase order
 ms:assetid: 51833cc7-1ec8-4aab-9646-6e6a93a70350
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - (BRA)
 - Create purchase order
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post a purchase order 
@@ -120,5 +122,5 @@ Use the **Vendor invoice** form to post a purchase order.
 [Summary update sales and purchase orders](https://technet.microsoft.com/en-us/library/aa553732\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

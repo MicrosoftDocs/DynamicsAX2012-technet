@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a work breakdown structure template for projects
 TOCTitle: Create a work breakdown structure template for projects
 ms:assetid: 769c21ef-9958-43c4-8724-5007d1cd6776
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn528661(v=AX.60)
 ms:contentKeyID: 59636746
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a work breakdown structure template for projects 
@@ -217,5 +219,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [About work breakdown structures](about-work-breakdown-structures.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Communicate with your vendors overview
 TOCTitle: Communicate with your vendors overview
 ms:assetid: 54582721-4f0f-4ee0-b095-258e59d20fb3
@@ -12,6 +12,8 @@ f1_keywords:
 - communication
 - supplier
 - suppliers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Communicate with your vendors overview 
@@ -24,5 +26,5 @@ The topics in this section provide information about how to communicate with you
 [Key tasks: Manage notifications to vendors](key-tasks-manage-notifications-to-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

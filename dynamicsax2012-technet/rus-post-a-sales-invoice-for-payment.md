@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post a sales invoice for payment
 TOCTitle: (RUS) Post a sales invoice for payment
 ms:assetid: 7b908cec-5340-4940-9bde-c81adce2b5ea
@@ -12,6 +12,8 @@ f1_keywords:
 - sales invoice
 - (RUS)
 - Russia
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post a sales invoice for payment 
@@ -60,5 +62,5 @@ Use the **Posting invoice for payment** form to post a sales invoice for payment
 [Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

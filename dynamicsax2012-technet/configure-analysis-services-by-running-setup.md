@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure Analysis Services by running Setup
 TOCTitle: Configure Analysis Services by running Setup
 ms:assetid: 300442b3-886e-450f-8f79-6285a26fb459
@@ -76,5 +76,5 @@ This procedure assumes that you are configuring Analysis Services on a dedicated
 18. The **Microsoft Dynamics AX 2012 Setup Summary Report** is displayed. This report lists additional procedures that you must complete to integrate Microsoft Dynamics AX and Analysis Services. For more information about the procedures, see [Complete the Analysis Services integration](complete-the-analysis-services-integration.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Approve check and credit card refunds
 TOCTitle: Approve check and credit card refunds
 ms:assetid: 7e68104c-210f-4171-831a-10d94d5ffaa1
@@ -16,6 +16,8 @@ f1_keywords:
 - MsDynAx060.Forms.MCRRefundCheckProcessing
 - check refund
 - credit card refund
+audience: Application User
+ms.search.region: Global
 ---
 
 # Approve check and credit card refunds 
@@ -128,5 +130,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Payment services using Authorize.net'
 TOCTitle: Payment services using Authorize.net
 ms:assetid: edde8971-717c-45f4-8719-01751afdefd7
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, we introduced integration with two payment servic
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

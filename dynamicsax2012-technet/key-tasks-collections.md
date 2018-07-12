@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Collections'
 TOCTitle: 'Key tasks: Collections'
 ms:assetid: 07ca5728-3521-47d2-9426-f2c34eb5c194
@@ -25,6 +25,8 @@ f1_keywords:
 - write off
 - writeoff
 - write-off
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Collections 
@@ -405,5 +407,5 @@ Back to top
 [Set up collections](set-up-collections.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

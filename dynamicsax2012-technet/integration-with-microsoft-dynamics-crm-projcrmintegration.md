@@ -1,4 +1,4 @@
-﻿---
+---
 title: Integration with Microsoft Dynamics CRM (ProjCRMIntegration)
 TOCTitle: Integration with Microsoft Dynamics CRM (ProjCRMIntegration)
 ms:assetid: 247d8d4b-0d8e-4a69-a678-9e0193565fa6
@@ -80,5 +80,5 @@ For more information about how license codes and configuration keys work togethe
 [Install Connector for Microsoft Dynamics](install-connector-for-microsoft-dynamics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

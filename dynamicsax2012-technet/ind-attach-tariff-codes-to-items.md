@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Attach tariff codes to items
 TOCTitle: (IND) Attach tariff codes to items
 ms:assetid: fe5526e7-b724-49e4-8abc-fcb00fe67bf3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710977(v=AX.60)
 ms:contentKeyID: 49386390
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Attach tariff codes to items 
@@ -41,5 +43,5 @@ You can use the **Released products** form to attach an item tax group and an ex
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

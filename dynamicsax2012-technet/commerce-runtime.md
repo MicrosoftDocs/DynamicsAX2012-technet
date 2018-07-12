@@ -1,4 +1,4 @@
-﻿---
+---
 title: Commerce Runtime
 TOCTitle: Commerce Runtime
 ms:assetid: 5133ee05-ea77-438b-bf4d-4c9dc18bc45b
@@ -44,5 +44,5 @@ On top of the workflow layer is the API layer. You can use the API for things li
 [Retail Modern Point of Sale](retail-modern-point-of-sale.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

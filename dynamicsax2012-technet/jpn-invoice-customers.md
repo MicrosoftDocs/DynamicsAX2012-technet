@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Invoice customers
 TOCTitle: (JPN) Invoice customers
 ms:assetid: 96633a06-b765-492a-81c9-1c31de7366cb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711099(v=AX.60)
 ms:contentKeyID: 49386510
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Invoice customers 
@@ -22,5 +24,5 @@ The following topics provide information about invoicing customers.
 [(JPN) Create statements](jpn-create-statements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

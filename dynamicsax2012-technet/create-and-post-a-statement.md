@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and post a statement
 TOCTitle: Create and post a statement
 ms:assetid: 1cbc6eea-2988-482c-8142-3c55a227b0cc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580579(v=AX.60)
 ms:contentKeyID: 39519059
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and post a statement 
@@ -124,5 +126,5 @@ To run the statement processes for your stores automatically, based on a schedul
 [Statements (form)](https://technet.microsoft.com/en-us/library/hh597288\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up item lists
 TOCTitle: Set up item lists
 ms:assetid: c18fea21-376d-4cdf-9de0-18ef88bb69ce
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn631660(v=AX.60)
 ms:contentKeyID: 62336122
 ms.date: 05/14/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up item lists 
@@ -54,5 +56,5 @@ Use this procedure to update the information in an item list.
 Create orders from item lists
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

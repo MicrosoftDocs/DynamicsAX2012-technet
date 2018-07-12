@@ -1,4 +1,4 @@
-﻿---
+---
 title: Restart the new Reporting Services instance
 TOCTitle: Restart the new Reporting Services instance
 ms:assetid: c8a0df21-b3b3-49e4-acb4-d11eb08dcb5e
@@ -20,5 +20,5 @@ Complete the following procedure to restart the new instance of Microsoft SQL Se
 2.  Right-click the **SQL Server Reporting Services (\[InstanceName\])** service, and then click **Restart**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

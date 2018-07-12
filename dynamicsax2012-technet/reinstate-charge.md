@@ -1,4 +1,4 @@
-﻿---
+---
 title: " reinstate charge"
 TOCTitle: " reinstate charge"
 ms:assetid: DynamicsAXGlossary.1370414
@@ -23,5 +23,5 @@ To reintroduce interest or fees that were originally waived for a party.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

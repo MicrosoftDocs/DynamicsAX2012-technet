@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add modeling variables to a product model
 TOCTitle: Add modeling variables to a product model
 ms:assetid: 1114ca01-2c4e-4138-acaa-59bfbd687254
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496564(v=AX.60)
 ms:contentKeyID: 36676368
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add modeling variables to a product model 
@@ -62,5 +64,5 @@ All modeling variables must belong to a variable group. You can add modeling var
 [About item modeling variables](about-item-modeling-variables.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

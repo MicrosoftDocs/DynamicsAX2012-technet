@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Enter physical requirements for job templates and jobs
 TOCTitle: (USA) Enter physical requirements for job templates and jobs
 ms:assetid: 6568deb0-beb7-47b4-b198-c1776f456e2b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231547(v=AX.60)
 ms:contentKeyID: 36057743
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Enter physical requirements for job templates and jobs 
@@ -86,5 +88,5 @@ The physical requirements information that you can enter includes:
 [ADA requirements (form)](https://technet.microsoft.com/en-us/library/hh802992\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

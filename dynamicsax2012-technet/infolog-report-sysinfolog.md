@@ -1,4 +1,4 @@
-﻿---
+---
 title: Infolog report (SysInfoLog)
 TOCTitle: Infolog report (SysInfoLog)
 ms:assetid: 61aad186-afb1-45f0-bfa4-4598d55039a4
@@ -78,5 +78,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Infolog (form)](https://technet.microsoft.com/en-us/library/aa673799\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

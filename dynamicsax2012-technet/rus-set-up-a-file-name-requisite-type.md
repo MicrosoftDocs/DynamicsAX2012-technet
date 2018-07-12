@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a file name requisite type
 TOCTitle: (RUS) Set up a file name requisite type
 ms:assetid: e0392116-ad0a-4d90-8d0e-b167ad66af58
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - requisite
 - file name
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a file name requisite type 
@@ -49,5 +51,5 @@ Use the **Fixed requisites** form to set up a file name requisite type for repor
 [(RUS) Set up a fixed requisite](rus-set-up-a-fixed-requisite.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

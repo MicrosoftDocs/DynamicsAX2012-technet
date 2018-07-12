@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a customs journal line
 TOCTitle: (RUS) Create a customs journal line
 ms:assetid: 980703d7-eb8b-4358-8462-d56b39abb013
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ917356(v=AX.60)
 ms:contentKeyID: 50952845
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a customs journal line 
@@ -52,5 +54,5 @@ The quantity of units that is selected for common items cannot exceed the quanti
 [(RUS) Create customs journal (form)](https://technet.microsoft.com/en-us/library/jj853226\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

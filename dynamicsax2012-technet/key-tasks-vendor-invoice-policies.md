@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Vendor invoice policies'
 TOCTitle: 'Key tasks: Vendor invoice policies'
 ms:assetid: cece6b77-79c6-43d1-9970-413da5f82465
@@ -13,6 +13,8 @@ f1_keywords:
 - vendors
 - policy
 - vendor invoice policy
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Vendor invoice policies 
@@ -213,5 +215,5 @@ Back to top
 [Handle policy rule violations](handle-policy-rule-violations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

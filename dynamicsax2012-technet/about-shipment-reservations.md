@@ -1,4 +1,4 @@
-﻿---
+---
 title: About shipment reservations
 TOCTitle: Shipment reservation
 ms:assetid: bde61f31-99d8-4e86-964f-f0f9b156a645
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213622(v=AX.60)
 ms:contentKeyID: 39519297
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About shipment reservations 
@@ -145,5 +147,5 @@ If all items have not been reserved, the shipment reservation process allows the
 [Shipment reservation (class form)](https://technet.microsoft.com/en-us/library/hh209536\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

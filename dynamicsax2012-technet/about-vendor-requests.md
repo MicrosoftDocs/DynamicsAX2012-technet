@@ -1,4 +1,4 @@
-﻿---
+---
 title: About vendor requests
 TOCTitle: About vendor requests
 ms:assetid: 6811855e-d23b-4396-9eaa-0a70230e30d9
@@ -8,6 +8,8 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
 - defaultEmployeeServicesVendorRequest
+audience: Application User
+ms.search.region: Global
 ---
 
 # About vendor requests 
@@ -74,5 +76,5 @@ Benjamin, a marketing manager at Contoso, wants to work with Fabrikam, a vendor 
 [Create or update a vendor status change request](create-or-update-a-vendor-status-change-request.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

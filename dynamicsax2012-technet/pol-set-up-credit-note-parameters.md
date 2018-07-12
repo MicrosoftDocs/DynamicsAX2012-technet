@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up credit note parameters
 TOCTitle: (POL) Set up credit note parameters
 ms:assetid: 7c818026-0a6b-44ea-8ea6-b55d5abd54e4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678253(v=AX.60)
 ms:contentKeyID: 49386975
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up credit note parameters 
@@ -48,5 +50,5 @@ A corrective invoice with a positive amount is treated as a credit note.
 [(POL) Reason (modified form)](https://technet.microsoft.com/en-us/library/jj678160\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

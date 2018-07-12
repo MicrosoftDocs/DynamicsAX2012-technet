@@ -1,4 +1,4 @@
-﻿---
+---
 title: Publish a template in RapidStart Services
 TOCTitle: Publish a template in RapidStart Services
 ms:assetid: 6b149821-aa9d-46ac-aa08-4e02fd5ac772
@@ -37,5 +37,5 @@ After you add functional areas to a template, you can publish the template. A pu
 [Unpublish a template in RapidStart Services](unpublish-a-template-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

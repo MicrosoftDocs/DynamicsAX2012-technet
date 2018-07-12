@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About fiscal books
 TOCTitle: (BRA) About fiscal books
 ms:assetid: aaa0cdc7-f73d-4c0e-9f71-f1d5e0c1d279
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305879(v=AX.60)
 ms:contentKeyID: 54912979
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About fiscal books 
@@ -50,5 +52,5 @@ Fiscal books include the following:
 [(BRA) Setting up fiscal books](bra-setting-up-fiscal-books.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

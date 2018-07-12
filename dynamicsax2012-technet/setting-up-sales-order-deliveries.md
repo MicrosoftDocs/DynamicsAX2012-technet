@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up sales order deliveries
 TOCTitle: Setting up sales order deliveries
 ms:assetid: 400badd1-c305-49e0-810b-a52f171eb0fd
@@ -18,6 +18,8 @@ f1_keywords:
 - transportation calendar
 - delivery
 - deliveries
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up sales order deliveries 
@@ -48,5 +50,5 @@ The topics in this section provide information about how to set up the deliverie
 [Set up boxing logic](set-up-boxing-logic.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

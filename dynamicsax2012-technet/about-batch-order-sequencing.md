@@ -1,4 +1,4 @@
-﻿---
+---
 title: About batch order sequencing
 TOCTitle: About batch order sequencing
 ms:assetid: df786d57-feb8-4fbb-8830-ff72f9b08fb8
@@ -12,6 +12,8 @@ f1_keywords:
 - batch order
 - process industries
 - sequencing
+audience: Application User
+ms.search.region: Global
 ---
 
 # About batch order sequencing 
@@ -64,5 +66,5 @@ You can perform the following tasks for batch order sequencing:
 [Operations (form)](https://technet.microsoft.com/en-us/library/aa548958\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Add retail online discounts to a campaign
 TOCTitle: (USA) Add retail online discounts to a campaign
 ms:assetid: 94915d55-bf34-4a35-963b-a3eca9ef27b7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh803012(v=AX.60)
 ms:contentKeyID: 44081013
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Add retail online discounts to a campaign 
@@ -32,5 +34,5 @@ The topics in this section provide information about how to add retail online di
 [(USA) Preview and publish discounts](usa-preview-and-publish-discounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

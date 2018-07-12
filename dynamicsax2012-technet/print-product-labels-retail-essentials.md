@@ -1,4 +1,4 @@
-﻿---
+---
 title: Print product labels (Retail essentials)
 TOCTitle: Print product labels (Retail essentials)
 ms:assetid: 4c1fec63-c68f-4e6a-881e-92bb074d065b
@@ -230,5 +230,5 @@ Enable label printing (Retail essentials)
 [Print shelf labels (Retail essentials)](print-shelf-labels-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

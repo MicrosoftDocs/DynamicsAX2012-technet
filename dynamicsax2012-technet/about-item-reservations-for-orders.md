@@ -1,4 +1,4 @@
-﻿---
+---
 title: About item reservations for orders
 TOCTitle: About item reservations for orders
 ms:assetid: 0f083678-98c4-4ff7-937b-de26d072cb9b
@@ -12,6 +12,8 @@ f1_keywords:
 - manual reservation
 - reserve inventory
 - reserve manually
+audience: Application User
+ms.search.region: Global
 ---
 
 # About item reservations for orders 
@@ -75,5 +77,5 @@ Manual item reservation is recommended in the following circumstances:
 [Item model groups (form)](https://technet.microsoft.com/en-us/library/aa577092\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About retail product catalogs
 TOCTitle: About retail product catalogs
 ms:assetid: 8e37d8c7-926a-4460-a2a5-6b7d2a086323
@@ -10,6 +10,8 @@ f1_keywords:
 - product catalog
 - retail
 - product catalogs
+audience: Application User
+ms.search.region: Global
 ---
 
 # About retail product catalogs 
@@ -105,5 +107,5 @@ You can publish a catalog manually or by using a batch process. The effective da
 [Set up an online store](set-up-an-online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

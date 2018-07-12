@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Visual Studio Tools
 TOCTitle: Install Visual Studio Tools
 ms:assetid: 03fbd4fd-0e0e-48d6-bf02-a0e600883a37
@@ -72,5 +72,5 @@ Use this procedure to install Visual Studio Tools. If you install other Microsof
 [Visual Studio Integration](https://technet.microsoft.com/en-us/library/gg889299\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

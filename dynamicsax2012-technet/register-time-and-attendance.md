@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register time and attendance
 TOCTitle: Register time and attendance
 ms:assetid: 128bec3a-7712-4763-92f1-8c9ba0eac578
@@ -12,6 +12,8 @@ f1_keywords:
 - register
 - attendance
 - timecard
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register time and attendance 
@@ -30,5 +32,5 @@ The following topics provide information about making registrations in the **Tim
 [About registrations in electronic timecards](about-registrations-in-electronic-timecards.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

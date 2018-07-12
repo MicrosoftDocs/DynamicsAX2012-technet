@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Retail Headquarters
 TOCTitle: Install Retail Headquarters
 ms:assetid: 1c05c344-96a3-4619-801f-a3f4038ad442
@@ -70,5 +70,5 @@ After you install the **Retail Headquarters** component on AOS computers and Mic
 6.  Restart the **Microsoft Dynamics AX Object Server** service.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

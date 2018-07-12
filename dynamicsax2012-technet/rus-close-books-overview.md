@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Close books overview
 TOCTitle: (RUS) Close books overview
 ms:assetid: 71e8a6db-4a19-4dd5-9ba3-2915b737145e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911531(v=AX.60)
 ms:contentKeyID: 52075392
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Close books overview 
@@ -28,5 +30,5 @@ The topics in this section provide information about the tasks that are related 
 [(RUS) Create a corrective document](rus-create-a-corrective-document.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

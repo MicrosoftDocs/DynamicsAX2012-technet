@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up the terms of payment and the cutoff day for a customer
 TOCTitle: (JPN) Set up the terms of payment and the cutoff day for a customer
 ms:assetid: b313025b-d484-4ba7-a3b7-11e105300cad
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711225(v=AX.60)
 ms:contentKeyID: 49386535
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up the terms of payment and the cutoff day for a customer 
@@ -34,5 +36,5 @@ You can set up a cutoff day in the **Terms of payment** form to calculate the du
 [(JPN) Set up a consolidated invoice for a customer](jpn-set-up-a-consolidated-invoice-for-a-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

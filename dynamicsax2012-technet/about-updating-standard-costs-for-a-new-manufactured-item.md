@@ -1,4 +1,4 @@
-﻿---
+---
 title: About updating standard costs for a new manufactured item
 TOCTitle: About updating standard costs for a new manufactured item
 ms:assetid: 60902a19-39a3-4568-973e-1aeaf2f80939
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231515(v=AX.60)
 ms:contentKeyID: 36057629
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About updating standard costs for a new manufactured item 
@@ -59,5 +61,5 @@ To add new manufacturing items throughout the frozen period, follow these steps:
 [Update standard costs in a manufacturing environment](update-standard-costs-in-a-manufacturing-environment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

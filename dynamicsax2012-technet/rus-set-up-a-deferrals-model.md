@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a deferrals model
 TOCTitle: (RUS) Set up a deferrals model
 ms:assetid: 165057d0-5921-4004-b0d0-7dd41af7157c
@@ -10,6 +10,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - deferrals
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a deferrals model 
@@ -48,5 +50,5 @@ You can specify the write-off amount for each interval for a deferrals model. Ea
 10. In the **Deferrals models** form, click the **Financial dimensions** tab, and then select the value of the financial dimensions.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

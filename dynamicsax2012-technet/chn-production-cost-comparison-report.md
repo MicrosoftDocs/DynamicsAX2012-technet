@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Production cost comparison (report)
 TOCTitle: (CHN) Production cost comparison (report)
 ms:assetid: 1c600a37-85da-45b9-acc6-3f38385bc2df
@@ -124,5 +124,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

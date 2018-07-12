@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Set up an account for a person or company to receive payments
 TOCTitle: (LVA) Set up an account for a person or company to receive payments
 ms:assetid: 9288a585-de17-4d1c-b1dc-901b74e28d52
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856156(v=AX.60)
 ms:contentKeyID: 50406996
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Set up an account for a person or company to receive payments 
@@ -60,5 +62,5 @@ Use this procedure to create counteragent or receiver records that are not enter
 [(LVA) Client (form)](https://technet.microsoft.com/en-us/library/jj721436\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Connect to source database
 TOCTitle: Connect to source database
 ms:assetid: d6eab5c1-31b3-4008-866e-73a7266d91cf
@@ -45,5 +45,5 @@ Complete the following steps:
 The upgrade framework searches the network for the server and database that you specified. When the computers connect successfully, the **Presynchronize** task becomes available in the **Data upgrade checklist**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

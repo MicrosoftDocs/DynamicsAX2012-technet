@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Export and import legal entity transactions
 TOCTitle: (BRA) Export and import legal entity transactions
 ms:assetid: f30c7592-8a49-4bd9-8bd8-85f3acfc05ec
@@ -11,6 +11,8 @@ f1_keywords:
 - Brazil
 - company transactions
 - export and import
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Export and import legal entity transactions 
@@ -79,5 +81,5 @@ You can export transactions of a subsidiary legal entity to a .txt file and impo
 [(BRA) Updates to consolidated legal entity transactions](bra-updates-to-consolidated-legal-entity-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Perform cycle counting in a warehouse location
 TOCTitle: Perform cycle counting in a warehouse location
 ms:assetid: 90301cce-3937-45b8-9690-ffe8abc0ab38
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn727123(v=AX.60)
 ms:contentKeyID: 62383464
 ms.date: 05/28/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Perform cycle counting in a warehouse location 
@@ -224,5 +226,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

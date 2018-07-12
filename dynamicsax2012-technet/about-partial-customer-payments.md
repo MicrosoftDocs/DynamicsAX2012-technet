@@ -1,4 +1,4 @@
-﻿---
+---
 title: About partial customer payments
 TOCTitle: About partial customer payments
 ms:assetid: b770f7d4-a82f-4182-b747-b457f65e5100
@@ -20,6 +20,8 @@ f1_keywords:
 - overpayments
 - underpayment
 - underpayments
+audience: Application User
+ms.search.region: Global
 ---
 
 # About partial customer payments 
@@ -88,5 +90,5 @@ For example, an invoice is posted for 1,000.00. If you receive a payment of 990.
 [Customer payment proposal - Edit (form)](https://technet.microsoft.com/en-us/library/aa554074\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

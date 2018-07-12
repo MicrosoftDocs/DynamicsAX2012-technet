@@ -1,4 +1,4 @@
-﻿---
+---
 title: View your sales orders
 TOCTitle: View your sales orders
 ms:assetid: ec260b1e-41ee-411d-8b44-2081ee06a3b0
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPSalesTableInfo
 - EPSalesTableEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # View your sales orders 
@@ -41,5 +43,5 @@ You can use the **All sales orders** list page to view a list of the orders that
 [View your return orders](view-your-return-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

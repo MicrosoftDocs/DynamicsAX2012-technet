@@ -1,4 +1,4 @@
-﻿---
+---
 title: Synch Service Pack Viewer
 TOCTitle: Synch Service Pack Viewer
 ms:assetid: 93002074-d4d3-4efe-9678-014f77e42f39
@@ -189,5 +189,5 @@ Both incoming and outgoing data packages for A and N jobs have the same suffix. 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

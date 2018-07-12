@@ -1,4 +1,4 @@
-﻿---
+---
 title: View reports
 TOCTitle: View reports
 ms:assetid: 9635d04a-eb7d-4724-895f-730b9340642d
@@ -14,6 +14,8 @@ f1_keywords:
 - RetailSalesByStaffReport
 - RetailYearToYearSalesCmpReport
 - RetailSalesByStoreReport
+audience: Application User
+ms.search.region: Global
 ---
 
 # View reports 
@@ -42,5 +44,5 @@ You can use reports to monitor sales trends, inventory, pricing, and employee pe
       - **Performance by retail category** – Select a **From date**, select a **To date**, and then click **View report**. To sort the report, select a column name in the **Sort by** list.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

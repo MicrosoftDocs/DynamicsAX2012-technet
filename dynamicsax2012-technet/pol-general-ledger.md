@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) General ledger
 TOCTitle: (POL) General ledger
 ms:assetid: 89bdc0b9-1f1d-423c-a3f8-cc1b44492912
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Poland general ledger
 - Polish general ledger
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) General ledger 
@@ -25,5 +27,5 @@ Use General ledger to define and manage the financial records for a legal entity
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

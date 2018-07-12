@@ -1,4 +1,4 @@
-﻿---
+---
 title: Employee security role (HCMEmployee)
 TOCTitle: Employee security role (HCMEmployee)
 ms:assetid: 65f140fb-ed4e-44e9-bba3-31a4a8c1be56
@@ -143,5 +143,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

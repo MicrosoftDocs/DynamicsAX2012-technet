@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Examples: Posting fixed-price projects'
 TOCTitle: 'Examples: Posting fixed-price projects'
 ms:assetid: 6b73cfa2-125b-455c-b46b-2480f7e6b419
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242614(v=AX.60)
 ms:contentKeyID: 36057990
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Examples: Posting fixed-price projects 
@@ -34,5 +36,5 @@ The following topics provide examples of how fixed-price projects are posted.
 [Posting example 8 - fixed-price project](posting-example-8-fixed-price-project.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

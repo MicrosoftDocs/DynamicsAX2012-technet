@@ -1,4 +1,4 @@
-﻿---
+---
 title: SQL Server topology recommendations for availability and performance
 TOCTitle: SQL Server topology recommendations for availability and performance
 ms:assetid: c526201c-e55b-4d39-94bf-4ac85a2ef60f
@@ -134,5 +134,5 @@ The performance of the database can significantly affect overall Microsoft Dynam
 To achieve the best performance, the SQL Server environment and storage subsystem must be correctly configured. For more information, see [Configure SQL Server and storage settings](configure-sql-server-and-storage-settings.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

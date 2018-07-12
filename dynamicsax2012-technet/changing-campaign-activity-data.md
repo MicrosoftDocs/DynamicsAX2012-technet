@@ -1,4 +1,4 @@
-﻿---
+---
 title: Changing campaign activity data
 TOCTitle: Changing campaign activity data
 ms:assetid: bf333012-fd4c-482c-a77a-17467aa504da
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498993(v=AX.60)
 ms:contentKeyID: 36059256
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Changing campaign activity data 
@@ -50,5 +52,5 @@ If you delete the person who is responsible for a campaign, the follow-up activi
 If there are no campaign targets, or if all campaign targets have been set to the **Response** stage, the follow-up activity for the campaign is closed.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

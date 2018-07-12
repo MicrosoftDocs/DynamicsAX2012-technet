@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Approve acceptance bill of exchange drafts
 TOCTitle: (FRA) Approve acceptance bill of exchange drafts
 ms:assetid: 88c27e95-38ea-4db8-beae-c8d33dd4a737
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242854(v=AX.60)
 ms:contentKeyID: 36058456
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Approve acceptance bill of exchange drafts 
@@ -40,5 +42,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [(FRA) Generate a bill of exchange remittance file](fra-generate-a-bill-of-exchange-remittance-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

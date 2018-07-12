@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upgrade to Microsoft Dynamics AX 2012
 TOCTitle: Upgrade to Microsoft Dynamics AX 2012
 ms:assetid: 948f7951-82d1-41e3-a648-ebb6128cc5d6
@@ -164,5 +164,5 @@ Use the following resources after you have upgraded to Microsoft Dynamics AX 201
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

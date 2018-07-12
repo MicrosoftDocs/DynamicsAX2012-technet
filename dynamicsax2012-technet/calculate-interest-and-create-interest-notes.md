@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calculate interest and create interest notes
 TOCTitle: Calculate interest and create interest notes
 ms:assetid: a6ffdfbe-c0b2-4c3e-8af0-952ed350c785
@@ -12,6 +12,8 @@ f1_keywords:
 - calculating
 - finance charges
 - finance charge
+audience: Application User
+ms.search.region: Global
 ---
 
 # Calculate interest and create interest notes 
@@ -202,5 +204,5 @@ You can print a payment slip to include the invoice number as the payment ID. To
 [(DNK) Set up a payment slip format for customers](dnk-set-up-a-payment-slip-format-for-customers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy Enterprise Search
 TOCTitle: Deploy Enterprise Search
 ms:assetid: a009bb2b-f8c2-40d6-aaea-458b5deade71
@@ -36,5 +36,5 @@ The topics in this section provide information about how to deploy Enterprise Se
 [Troubleshoot installation issues with Enterprise Search](troubleshoot-installation-issues-with-enterprise-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

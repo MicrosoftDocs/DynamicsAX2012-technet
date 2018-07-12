@@ -1,4 +1,4 @@
-﻿---
+---
 title: Migrate data from Microsoft Dynamics Retail Management System (Retail essentials)
 TOCTitle: Migrate data from Microsoft Dynamics Retail Management System (Retail essentials)
 ms:assetid: ab056d98-0ca0-49ea-a616-a24728431b5d
@@ -461,5 +461,5 @@ For information about how to create a Retail store for each store that is migrat
 [Retail essentials (Retail essentials)](retail-essentials-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

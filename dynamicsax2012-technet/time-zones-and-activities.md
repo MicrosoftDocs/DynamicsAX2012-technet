@@ -1,4 +1,4 @@
-﻿---
+---
 title: Time zones and activities
 TOCTitle: Time zones and activities
 ms:assetid: 6afb2837-cdc4-4521-90dd-229a0a5c1bf8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231782(v=AX.60)
 ms:contentKeyID: 36057985
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Time zones and activities 
@@ -36,5 +38,5 @@ You are located in Copenhagen, Denmark. You want to schedule an activity that in
 When you assign the activity to the attendee in Buffalo, New York, the date and time of the activity appear to the attendee as August 15 at 10:00. When you assign the activity to the attendee in New Delhi, India, the date and time appear to the attendee as August 16 at 20:00.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Close a case
 TOCTitle: Close a case
 ms:assetid: 98582959-b072-447e-857c-6844d76306ed
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209417(v=AX.60)
 ms:contentKeyID: 36058677
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Close a case 
@@ -24,5 +26,5 @@ When a case has been resolved, either internally with an employee or externally 
     When you close a case, the service level agreement (SLA) associated with the case is also closed. If a follow up activity is required for the case, an activity is created and you will receive a prompt to complete the activity.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

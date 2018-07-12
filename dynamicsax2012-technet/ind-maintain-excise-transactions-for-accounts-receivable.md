@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Maintain excise transactions for Accounts receivable
 TOCTitle: (IND) Maintain excise transactions for Accounts receivable
 ms:assetid: 33b2b229-f5ed-4628-a49c-69e88b417b48
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664604(v=AX.60)
 ms:contentKeyID: 49385681
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Maintain excise transactions for Accounts receivable 
@@ -22,5 +24,5 @@ The following topics provide information about posting excise tax transactions f
 [(IND) Post transactions that include excise duty from free text invoices](ind-post-transactions-that-include-excise-duty-from-free-text-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

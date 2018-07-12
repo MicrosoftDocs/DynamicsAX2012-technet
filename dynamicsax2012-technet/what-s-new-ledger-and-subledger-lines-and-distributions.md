@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Ledger and subledger lines and distributions"
 TOCTitle: Ledger and subledger lines and distributions
 ms:assetid: a7a697ad-25fc-4861-8830-fb756a92df96
@@ -220,5 +220,5 @@ For more information, see the following topics:
   - [About accounting distributions and subledger journal entries for free text invoices](about-accounting-distributions-and-subledger-journal-entries-for-free-text-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

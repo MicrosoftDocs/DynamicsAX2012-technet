@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Reverse fixed asset transactions
 TOCTitle: (IND) Reverse fixed asset transactions
 ms:assetid: db45e7ac-8388-4bb1-adc6-aea4baae9e44
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710876(v=AX.60)
 ms:contentKeyID: 49386289
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Reverse fixed asset transactions 
@@ -114,5 +116,5 @@ With reference to Example 1, if you revoke the reversal of fixed asset FA-002 us
   - The revoked transaction is updated back in the **Asset group balances** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Document management in sales and marketing
 TOCTitle: Document management in sales and marketing
 ms:assetid: 044161b1-d1ed-41db-b005-9c501c9429b8
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - document management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Document management in sales and marketing 
@@ -61,5 +63,5 @@ The following topics provide information about document management.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

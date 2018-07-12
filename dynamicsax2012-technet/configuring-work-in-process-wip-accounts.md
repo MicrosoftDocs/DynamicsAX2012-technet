@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring work in process (WIP) accounts
 TOCTitle: Configuring work in process (WIP) accounts
 ms:assetid: 7370a74a-3c1a-4a19-9328-abe3862dae7d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209228(v=AX.60)
 ms:contentKeyID: 36058144
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring work in process (WIP) accounts 
@@ -34,5 +36,5 @@ The following topics provide information about configuring work in process (WIP)
 [About WIP subscription accounts](about-wip-subscription-accounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

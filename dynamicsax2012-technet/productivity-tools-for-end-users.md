@@ -1,4 +1,4 @@
-﻿---
+---
 title: Productivity tools for end users
 TOCTitle: Productivity tools for end users
 ms:assetid: 29cfab0b-fcae-4a31-ba7d-f6140dc85f9c
@@ -27,6 +27,8 @@ f1_keywords:
 - tools for end users
 - task recorder
 - role centers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Productivity tools for end users 
@@ -67,5 +69,5 @@ Microsoft Dynamics AX includes several tools that can help you do your job more 
 [Use batch processing to improve performance when documents are posted or printed](use-batch-processing-to-improve-performance-when-documents-are-posted-or-printed.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

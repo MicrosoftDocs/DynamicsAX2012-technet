@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate assessed tax registers
 TOCTitle: (RUS) Calculate assessed tax registers
 ms:assetid: 4ded2990-bc43-4c87-a1dd-f3a7fe021987
@@ -10,6 +10,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - assessed tax
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate assessed tax registers 
@@ -74,5 +76,5 @@ When you create the journal for a year in the assessed tax register, the total o
 [(RUS) Set up the calculation of assessed tax](rus-set-up-the-calculation-of-assessed-tax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

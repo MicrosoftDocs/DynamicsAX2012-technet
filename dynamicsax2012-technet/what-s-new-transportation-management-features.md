@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Transportation management features"
 TOCTitle: Transportation management features
 ms:assetid: 3bdb9bed-b192-4d6d-9eaa-717f6075ce6e
@@ -144,5 +144,5 @@ Microsoft Dynamics AX 2012 R3 Cumulative Update 8 introduces a load building fea
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

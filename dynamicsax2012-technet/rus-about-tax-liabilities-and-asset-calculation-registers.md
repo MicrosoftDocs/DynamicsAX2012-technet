@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About tax liabilities and asset calculation registers
 TOCTitle: (RUS) About tax liabilities and asset calculation registers
 ms:assetid: 2980075e-9191-4075-a5a3-bcd2220e1aa6
@@ -10,6 +10,8 @@ f1_keywords:
 - register
 - asset calculation register
 - tax liabilities
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About tax liabilities and asset calculation registers 
@@ -44,5 +46,5 @@ The constant tax and temporary tax difference amounts are displayed in the accou
 [(RUS) Set up a register for the calculation of constant tax differences](rus-set-up-a-register-for-the-calculation-of-constant-tax-differences.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

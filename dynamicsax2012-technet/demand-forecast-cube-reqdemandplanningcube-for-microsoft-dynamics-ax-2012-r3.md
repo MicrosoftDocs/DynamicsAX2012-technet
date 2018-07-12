@@ -1,4 +1,4 @@
-﻿---
+---
 title: Demand forecast cube (ReqDemandPlanningCube) for Microsoft Dynamics AX 2012 R3
 TOCTitle: Demand forecast cube (ReqDemandPlanningCube
 ms:assetid: 2dedf602-3be7-4f0e-bcb9-83809f7b4001
@@ -349,5 +349,5 @@ The Demand forecast cube can be accessed by users assigned to the following Micr
   - Production manager
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

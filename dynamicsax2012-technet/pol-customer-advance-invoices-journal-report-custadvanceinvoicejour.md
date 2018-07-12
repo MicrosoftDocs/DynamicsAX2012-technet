@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Customer advance invoices journal report (CustAdvanceInvoiceJour)
 TOCTitle: (POL) Customer advance invoices journal report (CustAdvanceInvoiceJour)
 ms:assetid: 0670acd8-c20a-4c15-8873-06164fce5836
@@ -136,5 +136,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

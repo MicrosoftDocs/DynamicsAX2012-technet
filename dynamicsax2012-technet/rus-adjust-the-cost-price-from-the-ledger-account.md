@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Adjust the cost price from the ledger account
 TOCTitle: (RUS) Adjust the cost price from the ledger account
 ms:assetid: 0e1460c6-65c7-4801-a426-3da4836b28cd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711388(v=AX.60)
 ms:contentKeyID: 49387206
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Adjust the cost price from the ledger account 
@@ -80,5 +82,5 @@ You can use this wizard to create and run cost price adjustments for on-hand tra
 17. If necessary, click **Cancel** to cancel the adjustments made by the wizard.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

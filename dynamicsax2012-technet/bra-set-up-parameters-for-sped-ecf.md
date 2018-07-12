@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up parameters for SPED ECF
 TOCTitle: (BRA) Set up parameters for SPED ECF
 ms:assetid: 8768a598-9d53-4242-bce5-f9543b00fa00
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt504268(v=AX.60)
 ms:contentKeyID: 69938502
 ms.date: 09/08/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up parameters for SPED ECF 
@@ -236,5 +238,5 @@ To set up requirements for SPED ECF fiscal text files, follow these steps:
 54. Set up if fiscal organization has Free trade areas.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

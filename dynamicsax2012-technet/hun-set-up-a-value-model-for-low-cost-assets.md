@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up a value model for low-cost assets
 TOCTitle: (HUN) Set up a value model for low-cost assets
 ms:assetid: 8b3aa92e-8854-409f-8381-ae87d23e33f5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664326(v=AX.60)
 ms:contentKeyID: 49385415
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up a value model for low-cost assets 
@@ -32,5 +34,5 @@ A low-cost asset is an asset for which the acquisition cost does not exceed a pr
 [Value models (form)](https://technet.microsoft.com/en-us/library/aa590830\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

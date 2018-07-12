@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Configure reason code requirements for credit notes
 TOCTitle: (EEUR) Configure reason code requirements for credit notes
 ms:assetid: 46e58a1f-b285-4745-a22b-92048dddd8f4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853388(v=AX.60)
 ms:contentKeyID: 50396757
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Configure reason code requirements for credit notes 
@@ -42,5 +44,5 @@ Reasons can be used along with descriptions, and you can sort and analyze transa
 [Set up reason codes for financial modules](set-up-reason-codes-for-financial-modules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

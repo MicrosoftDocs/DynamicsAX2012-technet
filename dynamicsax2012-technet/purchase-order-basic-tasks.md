@@ -1,4 +1,4 @@
-﻿---
+---
 title: Purchase order basic tasks
 TOCTitle: Purchase order basic tasks
 ms:assetid: 9473fa90-d8c1-4587-9660-97ddfff7441e
@@ -24,6 +24,8 @@ f1_keywords:
 - finalize purchase order
 - PO
 - POs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Purchase order basic tasks 
@@ -56,5 +58,5 @@ The topics in this section provide information about how to perform basic tasks 
 [(SAU) Enter a contract number for a subcontractor in a purchase order](sau-enter-a-contract-number-for-a-subcontractor-in-a-purchase-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

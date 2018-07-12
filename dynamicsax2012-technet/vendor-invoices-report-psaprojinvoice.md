@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor invoices report (PSAProjInvoice)
 TOCTitle: Vendor invoices report (PSAProjInvoice)
 ms:assetid: 68916f4e-7045-466c-9b9c-76eb6308955b
@@ -146,5 +146,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Vendor invoices with pay when paid (form)](https://technet.microsoft.com/en-us/library/hh227358\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

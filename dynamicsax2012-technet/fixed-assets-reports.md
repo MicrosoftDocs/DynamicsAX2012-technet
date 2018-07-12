@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed assets reports
 TOCTitle: Fixed assets reports
 ms:assetid: 2bae31d7-a5db-46dd-a149-245728ef423b
@@ -100,5 +100,5 @@ The following reports are available in the **Fixed assets** module of Microsoft 
 [(IND) Depreciation schedule (report)](ind-depreciation-schedule-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

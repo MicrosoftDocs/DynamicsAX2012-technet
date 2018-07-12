@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a BOM production order based on an inventory profile
 TOCTitle: (RUS) Create a BOM production order based on an inventory profile
 ms:assetid: e25e80ef-eb2b-4eac-8f79-6c3154885c03
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711712(v=AX.60)
 ms:contentKeyID: 49388035
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a BOM production order based on an inventory profile 
@@ -38,5 +40,5 @@ When you create a new bill of materials (BOM) production order for an item, the 
 [(RUS) Specify an inventory profile in sales and purchase order lines when exploding a BOM](rus-specify-an-inventory-profile-in-sales-and-purchase-order-lines-when-exploding-a-bom.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

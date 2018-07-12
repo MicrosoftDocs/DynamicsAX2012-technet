@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Print an inventory statement
 TOCTitle: (LTU) Print an inventory statement
 ms:assetid: 046fbaa8-fcb7-4280-bbdf-61f41c72a349
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665004(v=AX.60)
 ms:contentKeyID: 49386586
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Print an inventory statement 
@@ -54,5 +56,5 @@ You can print an inventory statement based on the counting journals that you hav
 13. Click **OK** to print the inventory statement.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

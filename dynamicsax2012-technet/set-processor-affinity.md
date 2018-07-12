@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set processor affinity
 TOCTitle: Set processor affinity
 ms:assetid: 2931af93-352a-43c7-9e9b-67d8f6ed7201
@@ -34,5 +34,5 @@ If an instance of Application Object Server (AOS) has multiple processors, you c
 [Manage load balancing](manage-load-balancing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

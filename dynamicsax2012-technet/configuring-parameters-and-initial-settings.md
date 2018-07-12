@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring parameters and initial settings
 TOCTitle: Configuring parameters and initial settings
 ms:assetid: ed775e47-5183-400d-96fb-9ea453dd0adc
@@ -11,6 +11,8 @@ f1_keywords:
 - parameter
 - parameters
 - retail
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring parameters and initial settings 
@@ -29,5 +31,5 @@ The topics in this section provide information about how to set up parameters fo
 [Set up Commerce Services and Sites Services for Microsoft Dynamics ERP](set-up-commerce-services-and-sites-services-for-microsoft-dynamics-erp.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

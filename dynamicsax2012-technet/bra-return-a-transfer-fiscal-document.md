@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Return a transfer fiscal document
 TOCTitle: (BRA) Return a transfer fiscal document
 ms:assetid: e3d0201b-f676-4e19-baff-586eabbbae30
@@ -11,6 +11,8 @@ f1_keywords:
 - Brazil
 - Transfer fiscal documents
 - Return transfer orders
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Return a transfer fiscal document 
@@ -55,5 +57,5 @@ Use this procedure to return a transfer fiscal document.
 [(BRA) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj910973\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

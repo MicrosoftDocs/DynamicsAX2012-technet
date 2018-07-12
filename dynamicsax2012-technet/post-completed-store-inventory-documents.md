@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post completed store inventory documents
 TOCTitle: Post completed store inventory documents
 ms:assetid: f853e617-9de3-4aeb-9b1a-a06024755ad3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597296(v=AX.60)
 ms:contentKeyID: 39519381
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post completed store inventory documents 
@@ -62,5 +64,5 @@ After a purchase order or transfer order has been received, and a stock count ha
 [About working with store inventory](about-working-with-store-inventory.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer aging report (CustAgingReport)
 TOCTitle: Customer aging report (CustAgingReport)
 ms:assetid: 4502bde0-2241-49ec-8323-8e4fb914a243
@@ -208,5 +208,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Aging period definitions (form)](https://technet.microsoft.com/en-us/library/aa634713\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

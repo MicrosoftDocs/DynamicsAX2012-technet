@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Receive and enter vendor invoices
 TOCTitle: (RUS) Receive and enter vendor invoices
 ms:assetid: d69c0214-1626-4f6b-b5af-2dbfb97da857
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711665(v=AX.60)
 ms:contentKeyID: 49387989
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Receive and enter vendor invoices 
@@ -26,5 +28,5 @@ The following topics provide information about receiving and entering vendor inv
 [(RUS) Post taxes in a vendor invoice journal](rus-post-taxes-in-a-vendor-invoice-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

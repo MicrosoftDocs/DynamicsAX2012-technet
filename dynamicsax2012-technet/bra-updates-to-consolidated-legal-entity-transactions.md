@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Updates to consolidated legal entity transactions
 TOCTitle: (BRA) Updates to consolidated legal entity transactions
 ms:assetid: f84fe223-3494-4871-9ad8-d6955a708d5c
@@ -14,6 +14,8 @@ f1_keywords:
 - company account transactions
 - consolidated company account transactions
 - BR - 00019
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Updates to consolidated legal entity transactions 
@@ -40,5 +42,5 @@ Legal entities that have multiple subsidiaries can transfer transactions from ea
 [(BRA) Transfer subsidiary legal entity transactions to a consolidated legal entity](bra-transfer-subsidiary-legal-entity-transactions-to-a-consolidated-legal-entity.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

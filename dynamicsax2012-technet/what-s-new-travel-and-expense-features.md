@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Travel and expense features"
 TOCTitle: Travel and expense features
 ms:assetid: a882bda0-5a6f-4bd3-b2c9-3bbe98ca65a4
@@ -83,5 +83,5 @@ We have changed and added functionality in the [Travel and expense](travel-and-e
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

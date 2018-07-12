@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Reverse a fixed asset acquisition transaction
 TOCTitle: (RUS) Reverse a fixed asset acquisition transaction
 ms:assetid: bcaa74e4-cfb5-466b-8dab-cb0697828d66
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711556(v=AX.60)
 ms:contentKeyID: 49387879
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Reverse a fixed asset acquisition transaction  
@@ -37,5 +39,5 @@ When you create a reverse transaction, the information and amount of the origina
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Upgrade AX 4.0 or AX 2009  to AX 2012 (all versions)'
 TOCTitle: 'Scenario: Upgrade AX 4.0 or AX 2009  to AX 2012 (all versions)'
 ms:assetid: ccf303bb-5d58-4e22-b802-986e61720488
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 This upgrade scenario describes a source-to-target upgrade to any version of Microsoft Dynamics AX 2012.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

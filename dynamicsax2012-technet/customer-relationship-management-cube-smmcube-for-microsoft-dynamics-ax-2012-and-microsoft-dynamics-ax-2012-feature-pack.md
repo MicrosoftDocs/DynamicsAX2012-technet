@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer relationship management cube (smmCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Customer relationship management cube (smmCube)
 ms:assetid: c6373462-f3a4-4c66-b15f-51f3e7069639
@@ -1224,5 +1224,5 @@ The Customer relationship management cube can be accessed by users assigned to t
   - Sales representative
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

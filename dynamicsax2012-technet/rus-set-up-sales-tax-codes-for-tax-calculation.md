@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up sales tax codes for tax calculation
 TOCTitle: (RUS) Set up sales tax codes for tax calculation
 ms:assetid: 17b9e565-e65d-41db-b5ad-af9cea54065f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711432(v=AX.60)
 ms:contentKeyID: 49387250
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up sales tax codes for tax calculation 
@@ -108,5 +110,5 @@ The sales tax codes are grouped into sales tax groups (TG) and item sales tax gr
 [(RUS) Set up item sales tax groups for tax calculation](rus-set-up-item-sales-tax-groups-for-tax-calculation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service templates
 TOCTitle: About service templates
 ms:assetid: e5427f26-b808-4970-a86c-23ab40d85054
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573166(v=AX.60)
 ms:contentKeyID: 36059788
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service templates 
@@ -46,5 +48,5 @@ It is easier to determine the service-template lines that you want to copy if yo
 [Copy service templates lines](copy-service-templates-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

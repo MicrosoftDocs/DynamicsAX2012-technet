@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with batch attribute groups
 TOCTitle: Working with batch attribute groups
 ms:assetid: 4c08702a-1927-4ee9-91fd-192af534500b
@@ -12,6 +12,8 @@ f1_keywords:
 - process industries
 - attribute groups
 - batch attribute groups
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with batch attribute groups 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to work with batch attr
 [Delete a batch attribute group from an item for a customer](delete-a-batch-attribute-group-from-an-item-for-a-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

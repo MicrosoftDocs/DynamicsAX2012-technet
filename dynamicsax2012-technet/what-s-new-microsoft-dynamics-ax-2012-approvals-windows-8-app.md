@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's New: Microsoft Dynamics AX 2012 Approvals Windows 8 App"
 TOCTitle: Microsoft Dynamics AX 2012 Approvals Windows 8 App
 ms:assetid: 406fc826-7e38-42d3-9f79-32d90731b001
@@ -72,5 +72,5 @@ For information about how to set up AX 2012 R2 workflow so that users can view a
 For guidance and samples that can help you learn about the patterns and approaches that are used to develop mobile applications for AX 2012 R2, see the [Developing Mobile Apps for Microsoft Dynamics AX 2012](http://www.microsoft.com/en-us/download/details.aspx?id=38413) white paper.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

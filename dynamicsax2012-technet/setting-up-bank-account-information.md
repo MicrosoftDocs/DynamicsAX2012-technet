@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up bank account information
 TOCTitle: Setting up bank account information
 ms:assetid: 041cb41d-d978-4729-b5a5-5263000bd80d
@@ -11,6 +11,8 @@ f1_keywords:
 - accounts
 - bank accounts
 - bank information
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up bank account information 
@@ -35,5 +37,5 @@ The topics in this section provide information about setting up bank account inf
 [(SWE) Set up a bank account for BG direct debit payments](swe-set-up-a-bank-account-for-bg-direct-debit-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

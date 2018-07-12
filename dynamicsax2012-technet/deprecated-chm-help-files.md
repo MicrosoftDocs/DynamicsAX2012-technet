@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: .chm Help files'
 TOCTitle: .chm Help files
 ms:assetid: f7a3d1bb-86e5-4f3b-9a88-07903f7cdc54
@@ -60,5 +60,5 @@ In Microsoft Dynamics AX 2009 and earlier versions, Help content was available i
 [Install help server](install-help-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

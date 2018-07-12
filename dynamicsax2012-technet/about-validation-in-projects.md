@@ -1,4 +1,4 @@
-﻿---
+---
 title: About validation in projects
 TOCTitle: About validation in projects
 ms:assetid: 89c6fab9-56cb-4cfb-b803-bc3f2ee24830
@@ -14,6 +14,8 @@ f1_keywords:
 - project/employee
 - validation connections
 - validation groups
+audience: Application User
+ms.search.region: Global
 ---
 
 # About validation in projects 
@@ -66,5 +68,5 @@ In addition to the categories that are specified for the junior sales personnel 
 [Project validation category assignments (form)](https://technet.microsoft.com/en-us/library/hh209635\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

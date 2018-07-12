@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure a product model to use a distribution site
 TOCTitle: Configure a product model to use a distribution site
 ms:assetid: 85ee2eac-d6f3-4e5a-a8e5-5e3fe0975b3f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213179(v=AX.60)
 ms:contentKeyID: 36676396
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure a product model to use a distribution site 
@@ -96,5 +98,5 @@ Use the **Product models** form to configure the product model.
 [Overview of Product Builder and multisite](overview-of-product-builder-and-multisite.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

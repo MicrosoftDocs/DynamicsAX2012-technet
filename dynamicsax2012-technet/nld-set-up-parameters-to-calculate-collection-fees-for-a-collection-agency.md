@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NLD) Set up parameters to calculate collection fees for a collection agency
 TOCTitle: (NLD) Set up parameters to calculate collection fees for a collection agency
 ms:assetid: e6464942-79a6-42c2-a443-b9c920178c3c
@@ -17,6 +17,8 @@ f1_keywords:
 - Forms.CustCollectionAgencyFeeSetup_W
 - collect overdue payments
 - Forms.CustCollectionAgencyGracePeriodSetup_W
+audience: Application User
+ms.search.region: Netherlands
 ---
 
 # (NLD) Set up parameters to calculate collection fees for a collection agency 
@@ -175,5 +177,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

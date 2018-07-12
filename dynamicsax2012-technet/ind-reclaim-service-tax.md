@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Reclaim service tax
 TOCTitle: (IND) Reclaim service tax
 ms:assetid: 4e430b4f-631b-40f8-8d42-c25b6ccdb285
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664686(v=AX.60)
 ms:contentKeyID: 49385759
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Reclaim service tax 
@@ -54,5 +56,5 @@ You can view transactions where service tax is calculated in the **Point of taxa
 [(IND) Reverse service tax](ind-reverse-service-tax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

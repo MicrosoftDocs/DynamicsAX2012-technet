@@ -1,4 +1,4 @@
-﻿---
+---
 title: Start production orders
 TOCTitle: Start production orders
 ms:assetid: dc15f69c-9403-41f1-acd5-0db91cae9b52
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551259(v=AX.60)
 ms:contentKeyID: 36059673
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Start production orders 
@@ -42,5 +44,5 @@ Use this procedure to start production of the items in the selected production o
 [Production - Start (class form)](https://technet.microsoft.com/en-us/library/aa586028\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

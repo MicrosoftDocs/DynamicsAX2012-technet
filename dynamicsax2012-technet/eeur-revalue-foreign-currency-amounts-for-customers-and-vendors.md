@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Revalue foreign currency amounts for customers and vendors
 TOCTitle: (EEUR) Revalue foreign currency amounts for customers and vendors
 ms:assetid: fdf53fd8-2514-42a8-b897-f22b458f8c86
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911243(v=AX.60)
 ms:contentKeyID: 52075310
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Revalue foreign currency amounts for customers and vendors 
@@ -82,5 +84,5 @@ You can view the exchange rate adjustments with corrections for a customer in th
 [(EEUR) Vendor transactions (modified form)](https://technet.microsoft.com/en-us/library/jj730985\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

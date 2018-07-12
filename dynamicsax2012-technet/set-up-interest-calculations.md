@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up interest calculations
 TOCTitle: Set up interest calculations
 ms:assetid: 3085986c-3b19-4add-8df6-3de2e57f4683
@@ -13,6 +13,8 @@ f1_keywords:
 - interest
 - calculations
 - rates
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up interest calculations 
@@ -49,5 +51,5 @@ Use the following steps in Accounts receivable to set up interest calculations.
 [Calculate interest and create interest notes](calculate-interest-and-create-interest-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

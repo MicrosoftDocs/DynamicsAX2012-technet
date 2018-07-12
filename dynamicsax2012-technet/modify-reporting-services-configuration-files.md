@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify Reporting Services configuration files
 TOCTitle: Modify Reporting Services configuration files
 ms:assetid: 42ffe10a-7536-41e8-b8de-d45179b15fca
@@ -157,5 +157,5 @@ Complete the following procedure to modify the Web.config file that is used by t
         <hostingEnvironment shadowCopyBinAssemblies="true" />
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

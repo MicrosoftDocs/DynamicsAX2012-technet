@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure settings for adjustment transactions
 TOCTitle: Configure settings for adjustment transactions
 ms:assetid: 964b064e-9b96-4bca-9793-5145448847fb
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - transaction status
 - adjustment transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure settings for adjustment transactions 
@@ -41,5 +43,5 @@ Your selections here determine which types of transaction status can be searched
 [Create adjustment transactions (class form)](https://technet.microsoft.com/en-us/library/aa634561\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

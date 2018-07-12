@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select number sequences for the workflow system
 TOCTitle: Select number sequences for the workflow system
 ms:assetid: c7b874ee-13a9-43c6-958b-d5715a1ce4db
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731929(v=AX.60)
 ms:contentKeyID: 35132862
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select number sequences for the workflow system 
@@ -32,5 +34,5 @@ To specify which number sequences are used to generate workflow IDs and workflow
 4.  On the **Instance ID** row, in the **Number sequence code** field, select the number sequence to use to generate workflow instance IDs.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

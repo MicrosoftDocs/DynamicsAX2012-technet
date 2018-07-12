@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign and maintain worker periods
 TOCTitle: Assign and maintain worker periods
 ms:assetid: 572dff8b-1445-4d75-a7a5-9fb3912722d6
@@ -11,6 +11,8 @@ f1_keywords:
 - employee periods
 - generate periods
 - maintain periods
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign and maintain worker periods 
@@ -85,5 +87,5 @@ You can also open the **Period status** form in **Human resources**. Click **Hum
 [Generate timesheet periods](generate-timesheet-periods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

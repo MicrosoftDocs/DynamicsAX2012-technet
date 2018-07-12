@@ -1,4 +1,4 @@
-﻿---
+---
 title: View backorders by item
 TOCTitle: View backorders by item
 ms:assetid: 977b7a0e-e071-4217-a4f9-1c931a9f7fe6
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - backorder by item
+audience: Application User
+ms.search.region: Global
 ---
 
 # View backorders by item 
@@ -32,5 +34,5 @@ Use this procedure to view backorders for a specific item.
 [About backorders](about-backorders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Verify export transaction details for an Advance Authorization incentive scheme
 TOCTitle: (IND) Verify the export transaction details for the Advanced Authorization (AA) incentive scheme
 ms:assetid: d150599e-73a1-4d58-8205-d66f22431a64
@@ -13,6 +13,8 @@ f1_keywords:
 - AA
 - Advanced Authorization
 - AA incentive scheme
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Verify export transaction details for an Advance Authorization incentive scheme 
@@ -59,5 +61,5 @@ For more information about how to create an export order and attach an AA incent
 [(IND) Export transaction details (form)](https://technet.microsoft.com/en-us/library/jj664611\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

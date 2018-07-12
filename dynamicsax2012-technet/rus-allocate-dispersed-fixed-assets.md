@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Allocate dispersed fixed assets
 TOCTitle: (RUS) Allocate dispersed fixed assets
 ms:assetid: 0f8f3286-eb99-4c53-b3e7-148f5dd83e2c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711396(v=AX.60)
 ms:contentKeyID: 49387214
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Allocate dispersed fixed assets 
@@ -66,5 +68,5 @@ If a fixed asset is located in several geographic regions, or if your company ow
 [(RUS) Distribution (form)](https://technet.microsoft.com/en-us/library/jj678526\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

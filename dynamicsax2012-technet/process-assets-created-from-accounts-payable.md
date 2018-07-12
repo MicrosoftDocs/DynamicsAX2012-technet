@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process assets created from Accounts payable
 TOCTitle: Process assets created from Accounts payable
 ms:assetid: 6ffa9ac0-448b-4de3-ab66-576daca765b9
@@ -10,6 +10,8 @@ f1_keywords:
 - accounts payable assets
 - AP assets
 - assets Accounts payable
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process assets created from Accounts payable 
@@ -56,5 +58,5 @@ This information discusses how to post acquisition and acquisition adjustment tr
 [About assets acquired through procurement](about-assets-acquired-through-procurement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Compare data upgrade row counts
 TOCTitle: Compare data upgrade row counts
 ms:assetid: cc3a5b18-388e-45c0-8681-c057e18cae55
@@ -34,5 +34,5 @@ The **Compare data upgrade row counts** form displays related tables as records 
 Row count is strictly a check on *likely* success or failure of a table upgrade. When counts fail to match, you should investigate the table involved and the script that processed it. However, even a successful match does not guarantee that the upgrade was successful, and a failed match may not correspond to a problem. To be confident that the upgrade succeeded, you must perform validation tailored to your particular business data.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

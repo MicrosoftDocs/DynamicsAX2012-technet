@@ -1,4 +1,4 @@
-﻿---
+---
 title: Viewing an expense report from the General ledger
 TOCTitle: Viewing an expense report from the General ledger
 ms:assetid: 763f1080-8d4b-41b0-937a-2053a0bc7f17
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212972(v=AX.60)
 ms:contentKeyID: 36058184
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Viewing an expense report from the General ledger 
@@ -24,5 +26,5 @@ To drill down to the original expense report:
 When you view the individual transactions, you can also view any additional data that is attached to a transaction. For example, for an itemized hotel expense, you can view a detailed list of expenses such as Internet access, telephone calls, and room service.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

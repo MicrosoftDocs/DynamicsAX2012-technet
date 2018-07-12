@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Purchase order subscription'
 TOCTitle: Purchase order subscription
 ms:assetid: db7cf136-02de-449a-8f9c-0626bf2a2dac
@@ -54,5 +54,5 @@ Purchase order subscription is an order type that enables one purchase order to 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

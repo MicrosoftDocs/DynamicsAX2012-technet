@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Configuring required Accounts receivable information
 TOCTitle: (JPN) Configuring required Accounts receivable information
 ms:assetid: 509914ce-c972-4f60-9d4a-8ede066ed036
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711048(v=AX.60)
 ms:contentKeyID: 49386460
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Configuring required Accounts receivable information 
@@ -20,5 +22,5 @@ The topic in this section provides information about how to configure Accounts r
 [(JPN) Set up the parameter to add debit and credit fields in the Customer transactions form](jpn-set-up-the-parameter-to-add-debit-and-credit-fields-in-the-customer-transactions-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

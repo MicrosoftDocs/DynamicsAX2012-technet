@@ -1,4 +1,4 @@
-﻿---
+---
 title: About intercompany expenses
 TOCTitle: About intercompany expenses
 ms:assetid: 5b6f102c-1dc1-4380-a9bb-a62dfc710b64
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ729755(v=AX.60)
 ms:contentKeyID: 49564921
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About intercompany expenses 
@@ -22,5 +24,5 @@ Before a worker can create and submit expenses for work that is performed for a 
 2.  In the left pane, click **General**, and then select the **Allow intercompany expense lines** check box.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

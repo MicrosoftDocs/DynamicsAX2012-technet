@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up an electronic method of payment
 TOCTitle: (BRA) Set up an electronic method of payment
 ms:assetid: ec40f383-4e19-4288-8896-c9eb0c9e5152
@@ -10,6 +10,8 @@ f1_keywords:
 - Configurable layout file
 - Export layout group
 - Return layout group
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up an electronic method of payment 
@@ -86,5 +88,5 @@ Before you set up the electronic methods of payment for vendors or customers, yo
 [(BRA) Methods of payment - customers (modified form)](https://technet.microsoft.com/en-us/library/jj730974\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

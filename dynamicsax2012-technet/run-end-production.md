@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run end production
 TOCTitle: Run end production
 ms:assetid: 2a33886c-ee87-4e48-b755-35a87515d2ea
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496859(v=AX.60)
 ms:contentKeyID: 36056230
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Run end production 
@@ -32,5 +34,5 @@ The production order is assigned the **Ended** status and can no longer be updat
 [Production orders (form)](https://technet.microsoft.com/en-us/library/aa617966\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

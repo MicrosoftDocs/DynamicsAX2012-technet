@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Print promissory note report (BankPromissoryNote_FR)
 TOCTitle: (FRA) Print promissory note report (BankPromissoryNote_FR)
 ms:assetid: 5a94ae5b-9a0d-4c1c-b886-bd0bcb2161d5
@@ -93,5 +93,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

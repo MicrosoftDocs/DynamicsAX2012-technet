@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor security role (VendVendor)
 TOCTitle: Vendor security role (VendVendor)
 ms:assetid: 46e77196-0506-4c15-bd58-779d98665745
@@ -116,5 +116,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Maintain vendor settlements
 TOCTitle: (CZE) Maintain vendor settlements
 ms:assetid: bf716cb8-d7b9-4d21-bd3b-a6e8e264d8dd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677684(v=AX.60)
 ms:contentKeyID: 49384985
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Maintain vendor settlements 
@@ -24,5 +26,5 @@ The following topics provide information about managing vendor settlements.
 [(CZE) Generate vendor transaction reports](cze-generate-vendor-transaction-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

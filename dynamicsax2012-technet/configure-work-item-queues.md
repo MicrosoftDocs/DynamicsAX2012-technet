@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure work item queues
 TOCTitle: Configure work item queues
 ms:assetid: 98342b11-0178-4ce4-9d40-f9ab24e6cfa4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731875(v=AX.60)
 ms:contentKeyID: 35132775
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure work item queues 
@@ -22,5 +24,5 @@ A manual task can be assigned to a *work item queue*, which is a collection of d
 [View the work items in the queues that you administer](view-the-work-items-in-the-queues-that-you-administer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using favorites
 TOCTitle: Using favorites
 ms:assetid: 2de0ff35-3ded-405c-885a-77af6137b2d8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548439(v=AX.60)
 ms:contentKeyID: 36676379
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using favorites 
@@ -90,5 +92,5 @@ In the Navigation Pane, right-click the group to rename or delete and select one
 [Create/Rename favorite group or folder (form)](https://technet.microsoft.com/en-us/library/aa575852\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

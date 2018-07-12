@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate service tax by using the Free text invoice form
 TOCTitle: (IND) Calculate service tax by using the Free text invoice form
 ms:assetid: 1efe9daf-48df-45bf-9fe8-e7a864bf0a30
@@ -8,6 +8,8 @@ ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.CustFreeInvoice
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate service tax by using the Free text invoice form 
@@ -50,5 +52,5 @@ Use the **Free text invoice** form to create and post a free text invoice for wh
 [(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

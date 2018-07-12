@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up vendor prenotes
 TOCTitle: Set up vendor prenotes
 ms:assetid: 9c44938c-4b6c-4e2c-b782-70fdd26c2728
@@ -15,6 +15,8 @@ f1_keywords:
 - account number
 - automated clearing hourse
 - electronic payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up vendor prenotes 
@@ -89,5 +91,5 @@ Follow these steps to create a vendor account prenote for your organization’s 
 [Create prenotes (form)](https://technet.microsoft.com/en-us/library/hh209352\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

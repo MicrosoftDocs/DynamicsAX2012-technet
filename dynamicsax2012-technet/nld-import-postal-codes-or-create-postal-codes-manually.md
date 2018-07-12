@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NLD) Import postal codes or create postal codes manually
 TOCTitle: (NLD) Import postal codes or create postal codes manually
 ms:assetid: eebd1bde-b212-4189-a70b-444983b3806f
@@ -10,6 +10,8 @@ f1_keywords:
 - Netherlands
 - postal codes
 - zip codes
+audience: Application User
+ms.search.region: Netherlands
 ---
 
 # (NLD) Import postal codes or create postal codes manually 
@@ -64,5 +66,5 @@ The import process allows you to update the company Global Address Book (GAB) fo
 [Import ZIP/postal codes (form)](https://technet.microsoft.com/en-us/library/aa591460\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

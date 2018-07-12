@@ -1,4 +1,4 @@
-﻿---
+---
 title: About letter of guarantee
 TOCTitle: About letter of guarantee
 ms:assetid: c06f2330-b539-497b-8f5f-de6c10e8688e
@@ -10,6 +10,8 @@ f1_keywords:
 - letter of guarantee
 - guarantee letter
 - letters of guarantee
+audience: Application User
+ms.search.region: Global
 ---
 
 # About letter of guarantee 
@@ -90,5 +92,5 @@ You can take the following actions on a letter of guarantee.
 [Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up simple cell type requisites
 TOCTitle: (RUS) Set up simple cell type requisites
 ms:assetid: baff70cb-27ec-4a75-b1ea-ba4fa59f8c50
@@ -12,6 +12,8 @@ f1_keywords:
 - cell requisites
 - cell type
 - document templates
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up simple cell type requisites 
@@ -80,5 +82,5 @@ Use the **Requisites setup** form to set up **Cell** requisite types that are us
 [(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

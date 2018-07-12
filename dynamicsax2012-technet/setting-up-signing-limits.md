@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up signing limits
 TOCTitle: Setting up signing limits
 ms:assetid: 0012cb41-14a9-49a7-ad4b-e488517c324a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - signing limit
 - signing limits
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up signing limits 
@@ -25,5 +27,5 @@ The topics in this section explain how to configure and deploy spending limits a
 [Set up signing limit parameters](set-up-signing-limit-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

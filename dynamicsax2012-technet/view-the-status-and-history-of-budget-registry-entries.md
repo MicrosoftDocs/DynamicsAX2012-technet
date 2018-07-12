@@ -1,4 +1,4 @@
-﻿---
+---
 title: View the status and history of budget registry entries
 TOCTitle: View the status and history of budget registry entries
 ms:assetid: 5795c149-a2a0-4ff9-bba7-9e5c68615745
@@ -12,6 +12,8 @@ f1_keywords:
 - budget register entry status
 - statistics for budget control
 - status of budget register entries
+audience: Application User
+ms.search.region: Global
 ---
 
 # View the status and history of budget registry entries 
@@ -73,5 +75,5 @@ For more information, see [Ledger - Actual vs. budgeted inquiry (form)](https://
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

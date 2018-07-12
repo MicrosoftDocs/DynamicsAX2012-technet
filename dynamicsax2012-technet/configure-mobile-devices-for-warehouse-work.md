@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure mobile devices for warehouse work
 TOCTitle: Configure mobile devices for warehouse work
 ms:assetid: fd207796-b021-4e7e-804c-71a7bee7124d
@@ -14,6 +14,8 @@ f1_keywords:
 - Forms.WHSRFMenuItem
 - hand held
 - rf
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure mobile devices for warehouse work 
@@ -791,5 +793,5 @@ If you don't have access to the pages that are used to complete this task, conta
 About setting up mobile devices for warehouse workers
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

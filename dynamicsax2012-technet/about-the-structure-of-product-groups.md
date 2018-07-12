@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the structure of product groups
 TOCTitle: About the structure of product groups
 ms:assetid: d44c2759-7827-4962-8ada-1b0f590d77cc
@@ -10,6 +10,8 @@ f1_keywords:
 - product groups
 - product group
 - structure
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the structure of product groups 
@@ -64,5 +66,5 @@ You can attach presentations to product groups and items by clicking a **Present
 [Product groups (form)](https://technet.microsoft.com/en-us/library/aa572041\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

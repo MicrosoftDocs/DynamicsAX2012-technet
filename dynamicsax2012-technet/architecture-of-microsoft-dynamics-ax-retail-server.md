@@ -1,4 +1,4 @@
-﻿---
+---
 title: Architecture of Microsoft Dynamics AX Retail Server
 TOCTitle: Retail Server architecture
 ms:assetid: a3b1e382-24ec-4137-bc0f-08573bee0089
@@ -90,5 +90,5 @@ You can create your own entity type or complex type, extend an existing controll
 [Extend the metadata](extend-the-metadata.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Portal on Microsoft SharePoint 2013
 TOCTitle: Enterprise Portal on Microsoft SharePoint 2013
 ms:assetid: 5906047d-4a98-4e86-9f2d-f405e3d69b22
@@ -54,5 +54,5 @@ To resolve this issue, in **SharePoint Central Administration**, click **System 
 **Search Enterprise Portal Help**: SharePoint 2013 does not support search in Help content that is disk-based. The application only supports searching through Help content that is hosted online or on a web site. Users can still access Enterprise Portal Help by pressing F1 or by using the table of contents, but they cannot search the .cab-based system.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

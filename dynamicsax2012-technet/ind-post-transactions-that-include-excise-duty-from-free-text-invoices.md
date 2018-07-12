@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post transactions that include excise duty from free text invoices
 TOCTitle: (IND) Post transactions that include excise duty from free text invoices
 ms:assetid: 793fb239-8382-467d-bb60-47f965e1bb44
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677945(v=AX.60)
 ms:contentKeyID: 49385908
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post transactions that include excise duty from free text invoices 
@@ -96,5 +98,5 @@ The excise registers, RG23A (Part II), RG23C (Part II), and RG23D are updated wh
 [(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an activity
 TOCTitle: Create an activity
 ms:assetid: 072a33f3-acfc-4565-a218-bc45ab52d8a5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569722(v=AX.60)
 ms:contentKeyID: 36811393
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an activity 
@@ -48,5 +50,5 @@ You can add attendees to an appointment activity.
 The activity appears in the **My activities** list for the workers that you added to the activity.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

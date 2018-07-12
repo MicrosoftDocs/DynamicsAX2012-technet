@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up the configurator definition group
 TOCTitle: (BRA) Set up the configurator definition group
 ms:assetid: fa4f9d51-23b0-4667-bb82-21cebd5dd4b1
@@ -11,6 +11,8 @@ f1_keywords:
 - Definition Group Wizard
 - electronic remittance
 - electronic return
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up the configurator definition group 
@@ -85,5 +87,5 @@ You can create a configurator definition group, and then use the Definition Grou
 [(BRA) Configurator definition groups (form)](https://technet.microsoft.com/en-us/library/jj730968\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

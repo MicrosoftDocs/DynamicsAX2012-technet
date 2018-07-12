@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up parameters for tax reimbursement documents
 TOCTitle: (HUN) Set up parameters for tax reimbursement documents
 ms:assetid: e117a608-cf6a-4af8-a9a8-adebce1501d2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664392(v=AX.60)
 ms:contentKeyID: 49385480
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up parameters for tax reimbursement documents 
@@ -48,5 +50,5 @@ Use this procedure to set up a number sequence that is automatically assigned to
 [Setting up and maintaining Accounts receivable](setting-up-and-maintaining-accounts-receivable.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up the Internal controls site
 TOCTitle: Set up the Internal controls site
 ms:assetid: 37391592-8984-4a22-b21f-429d64f8cf69
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - ConfigureControlEnvironment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up the Internal controls site 
@@ -82,5 +84,5 @@ After the folders have been created, you can add compliance documents to the **I
 [Import internal controls to the Compliance site](import-internal-controls-to-the-compliance-site.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select company to upgrade - Retail
 TOCTitle: Select company to upgrade - Retail
 ms:assetid: 87bf8c28-bd47-44a7-91fb-6aae5e993e7f
@@ -34,5 +34,5 @@ To apply global Retail parameters, follow these steps.
 4.  Click **Ready for upgrade**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

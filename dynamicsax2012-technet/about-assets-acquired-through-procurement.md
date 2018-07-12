@@ -1,4 +1,4 @@
-﻿---
+---
 title: About assets acquired through procurement
 TOCTitle: About assets acquired through procurement
 ms:assetid: 6de2c783-2e12-4146-b837-b2ea25cd1c07
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231804(v=AX.60)
 ms:contentKeyID: 36058033
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About assets acquired through procurement 
@@ -184,5 +186,5 @@ The following are variations for this scenario:
 [Acquisition adjustment proposal (form)](https://technet.microsoft.com/en-us/library/hh209549\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Reverse a closed conditional sales tax transaction
 TOCTitle: (ITA) Reverse a closed conditional sales tax transaction
 ms:assetid: 61264c63-3c28-483f-b987-ccd4eeaa1fec
@@ -10,6 +10,8 @@ f1_keywords:
 - reverse
 - Italy
 - sales tax
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Reverse a closed conditional sales tax transaction 
@@ -96,5 +98,5 @@ You can reverse a closed conditional sales tax transaction if the fiscal month h
 [General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

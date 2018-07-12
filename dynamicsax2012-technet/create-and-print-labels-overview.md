@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and print labels overview
 TOCTitle: Create and print labels overview
 ms:assetid: 51cf2c21-b8b1-4311-bd5d-11d4a0231976
@@ -10,6 +10,8 @@ f1_keywords:
 - label
 - overview
 - labels
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and print labels overview 
@@ -170,5 +172,5 @@ The following table lists the additional forms that support the labels business 
 [Generate and print product labels](generate-and-print-product-labels.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

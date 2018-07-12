@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) About commitments (Public sector)
 TOCTitle: (FRA) About commitments (Public sector)
 ms:assetid: f3fe899a-93bd-40b9-bd81-c243d7f0f658
@@ -12,6 +12,8 @@ f1_keywords:
 - commitment
 - France
 - French
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) About commitments (Public sector) 
@@ -54,5 +56,5 @@ Commitments are valid from the date they are created through the end of the fisc
 [Budgeting](budgeting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

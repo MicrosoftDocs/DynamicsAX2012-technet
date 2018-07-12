@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up VAT report date codes
 TOCTitle: (POL) Set up VAT report date codes
 ms:assetid: 1d6386e8-8643-481f-ad56-baabd102a220
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678146(v=AX.60)
 ms:contentKeyID: 49386869
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up VAT report date codes 
@@ -58,5 +60,5 @@ The VAT date code can be selected in the **Customers** and **Vendors** forms. Wh
 [(POL) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj678144\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

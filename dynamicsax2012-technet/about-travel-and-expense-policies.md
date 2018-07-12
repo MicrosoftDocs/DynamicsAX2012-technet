@@ -1,4 +1,4 @@
-﻿---
+---
 title: About travel and expense policies
 TOCTitle: About travel and expense policies
 ms:assetid: 7112699b-aacf-41c0-9d17-8b8c61c95a86
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231832(v=AX.60)
 ms:contentKeyID: 36058064
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About travel and expense policies 
@@ -32,5 +34,5 @@ You can also set up a date range for which expense policies are in effect. For e
 [Create policies](create-policies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

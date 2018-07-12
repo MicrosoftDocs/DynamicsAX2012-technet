@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Withholding tax - certification report (TaxWithholdCertification_IT)
 TOCTitle: (ITA) Withholding tax - certification report (TaxWithholdCertification_IT)
 ms:assetid: eb8c01be-e35d-44a9-9278-50fa92ae7882
@@ -122,5 +122,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

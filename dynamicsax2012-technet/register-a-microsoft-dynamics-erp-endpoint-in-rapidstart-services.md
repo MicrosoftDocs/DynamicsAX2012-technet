@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register a Microsoft Dynamics ERP endpoint in RapidStart Services
 TOCTitle: Register a Microsoft Dynamics ERP endpoint in RapidStart Services
 ms:assetid: 134785ae-0d65-4641-a67d-6df2f5550d6b
@@ -44,5 +44,5 @@ To register an AOS endpoint, follow these steps:
 [The architecture of the Microsoft Dynamics ERP RapidStart Connector](the-architecture-of-the-microsoft-dynamics-erp-rapidstart-connector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

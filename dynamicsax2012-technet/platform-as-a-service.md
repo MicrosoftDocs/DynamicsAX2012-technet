@@ -1,4 +1,4 @@
-﻿---
+---
 title: " platform as a service"
 TOCTitle: " platform as a service"
 ms:assetid: DynamicsAXGlossary.1785150
@@ -19,5 +19,5 @@ The capability provided to the consumer of deploying onto the cloud infrastructu
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

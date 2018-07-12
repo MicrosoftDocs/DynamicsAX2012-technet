@@ -1,4 +1,4 @@
-﻿---
+---
 title: About job scheduling
 TOCTitle: About job scheduling
 ms:assetid: 5222e57e-0ee5-4c9a-8a3d-b1c03f3e3fbd
@@ -14,6 +14,8 @@ f1_keywords:
 - production
 - jobs
 - scheduling jobs
+audience: Application User
+ms.search.region: Global
 ---
 
 # About job scheduling 
@@ -112,5 +114,5 @@ Job scheduling considers the efficiency percentages that are specified for the r
 [Production - Job scheduling (class form)](https://technet.microsoft.com/en-us/library/aa584348\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Print a report of used invoice numbers
 TOCTitle: (LVA) Print a report of used invoice numbers
 ms:assetid: 74070ab2-128f-4409-bf70-dee6028b0100
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721454(v=AX.60)
 ms:contentKeyID: 49730232
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Print a report of used invoice numbers 
@@ -46,5 +48,5 @@ Latvian companies report used invoice numbers to the sales tax authorities on a 
 9.  Click **OK** to print the report.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

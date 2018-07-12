@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define sales prices for products
 TOCTitle: Define sales prices for products
 ms:assetid: 2d85dac8-5091-44c2-8b3f-a869390fb76d
@@ -10,6 +10,8 @@ f1_keywords:
 - purchase prices per product variant
 - sales prices per product variant
 - set up prices for items
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define sales prices for products 
@@ -83,5 +85,5 @@ A trade agreement can be set up for specific inventory dimensions. When you ente
 [Tracking dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209465\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

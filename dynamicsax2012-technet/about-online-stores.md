@@ -1,4 +1,4 @@
-﻿---
+---
 title: About online stores
 TOCTitle: About online stores
 ms:assetid: 9006ff23-01a0-4aea-a7f6-8543ee7db676
@@ -10,6 +10,8 @@ f1_keywords:
 - web store
 - online storefront
 - Webstore
+audience: Application User
+ms.search.region: Global
 ---
 
 # About online stores 
@@ -82,5 +84,5 @@ For more information about how to set up a retail product catalog, see [Key task
 [Set up an online store](set-up-an-online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

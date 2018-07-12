@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up validation groups
 TOCTitle: Set up validation groups
 ms:assetid: 5872fd9d-ccf9-4f42-9595-b7af66701f79
@@ -12,6 +12,8 @@ f1_keywords:
 - validation setup
 - category/worker
 - worker/project
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up validation groups 
@@ -52,5 +54,5 @@ Use validation in **Project management and accounting** for journal entry access
 [About validation in projects](about-validation-in-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

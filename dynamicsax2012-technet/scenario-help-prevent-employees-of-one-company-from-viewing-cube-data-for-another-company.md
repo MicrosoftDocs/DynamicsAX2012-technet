@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Help prevent employees of one company from viewing cube data for another company'
 TOCTitle: 'Scenario: Help prevent employees of one company from viewing cube data for another company'
 ms:assetid: c06c0fb0-d9ee-4bc5-9f40-470e42468bae
@@ -110,5 +110,5 @@ Follow these steps to create a new role that is named Accountant-Fabrikam. This 
 [Granting Custom Access to Dimension Data](http://technet.microsoft.com/en-us/library/ms175366.aspx)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

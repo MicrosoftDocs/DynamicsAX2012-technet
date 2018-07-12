@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate assessed tax and generate an assessed tax declaration
 TOCTitle: (RUS) Calculate assessed tax and generate an assessed tax declaration
 ms:assetid: eee43154-913e-4e38-8a4c-6061baf6b778
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678599(v=AX.60)
 ms:contentKeyID: 49388081
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate assessed tax and generate an assessed tax declaration 
@@ -50,5 +52,5 @@ Use the **Print assessed tax declaration** form to generate a declaration of ass
 [(RUS) Create an assessed tax declaration](rus-create-an-assessed-tax-declaration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

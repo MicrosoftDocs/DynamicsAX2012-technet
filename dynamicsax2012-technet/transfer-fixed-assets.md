@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transfer fixed assets
 TOCTitle: Transfer fixed assets
 ms:assetid: c3fcf60b-b1ad-42fb-b96b-ac623d9b7f4b
@@ -13,6 +13,8 @@ f1_keywords:
 - fixed asset transfer
 - assets
 - Menu_Items.Action.AssetTransferMass
+audience: Application User
+ms.search.region: Global
 ---
 
 # Transfer fixed assets 
@@ -185,5 +187,5 @@ For example, you select 1,000 assets for transfer, and the system divides the se
 [Financial dimensions (form)](https://technet.microsoft.com/en-us/library/hh209534\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

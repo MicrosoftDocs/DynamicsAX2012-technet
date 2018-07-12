@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up a bank account for electronic vendor payments
 TOCTitle: (POL) Set up a bank account for electronic vendor payments
 ms:assetid: daf4a257-5045-4501-9578-cf5ef1f41092
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711283(v=AX.60)
 ms:contentKeyID: 49387101
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up a bank account for electronic vendor payments 
@@ -60,5 +62,5 @@ You can set up a bank account for electronic vendor payments in the **Bank accou
 [(POL) Create an export file for a vendor](pol-create-an-export-file-for-a-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

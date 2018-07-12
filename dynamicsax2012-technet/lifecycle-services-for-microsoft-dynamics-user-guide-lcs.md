@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
 TOCTitle: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
 ms:assetid: 9ec52ef7-1787-4ce0-bb99-47114a2f8abb
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/lifecycle-services-for-microsoft-dynamics-user-guide-lcs/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

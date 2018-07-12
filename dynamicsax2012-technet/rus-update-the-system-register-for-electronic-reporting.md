@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Update the system register for electronic reporting
 TOCTitle: (RUS) Update the system register for electronic reporting
 ms:assetid: 398e591d-6bf4-438b-8ab2-a877abe15182
@@ -10,6 +10,8 @@ f1_keywords:
 - electronic reporting
 - dynamic section
 - excel sheet
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Update the system register for electronic reporting 
@@ -40,5 +42,5 @@ Use the following procedure to update the system register on a computer that is 
 [(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

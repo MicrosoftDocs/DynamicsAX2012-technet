@@ -1,4 +1,4 @@
-﻿---
+---
 title: About disposition codes and return reason codes
 TOCTitle: About disposition codes and return reason codes
 ms:assetid: 40f3ed28-3d2f-41bd-b5b3-e189dbe23b90
@@ -11,6 +11,8 @@ f1_keywords:
 - disposition
 - status code
 - item return
+audience: Application User
+ms.search.region: Global
 ---
 
 # About disposition codes and return reason codes 
@@ -51,5 +53,5 @@ Assign a disposition code when an item is received or during the physical inspec
 [Authorize customer returns](authorize-customer-returns.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

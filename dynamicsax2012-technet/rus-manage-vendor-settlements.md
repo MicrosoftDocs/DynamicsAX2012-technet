@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Manage vendor settlements
 TOCTitle: (RUS) Manage vendor settlements
 ms:assetid: 1a67fec6-30c7-4489-831b-36272d58a771
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711442(v=AX.60)
 ms:contentKeyID: 49387260
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Manage vendor settlements 
@@ -24,5 +26,5 @@ The following topics provide information about how to manage vendor settlements.
 [(RUS) Amortize an unrecoverable debt in Accounts payable](rus-amortize-an-unrecoverable-debt-in-accounts-payable.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

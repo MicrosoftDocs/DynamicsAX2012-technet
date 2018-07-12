@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About the transfer and maintenance of electronic documents
 TOCTitle: (RUS) About the transfer and maintenance of electronic documents
 ms:assetid: dd38e1c5-fecd-4906-adde-a2c6113eff02
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735281(v=AX.60)
 ms:contentKeyID: 49693282
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About the transfer and maintenance of electronic documents 
@@ -40,5 +42,5 @@ The following prerequisites must be met before you can export electronic documen
 [(RUS) Set up folders to save exported electronic documents to and store the statuses of reports](rus-set-up-folders-to-save-exported-electronic-documents-to-and-store-the-statuses-of-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

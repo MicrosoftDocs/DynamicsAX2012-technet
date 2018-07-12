@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain benefit expiration dates
 TOCTitle: Maintain benefit expiration dates
 ms:assetid: 7fdb9475-0e61-41a2-927e-20deba9b6034
@@ -26,6 +26,8 @@ f1_keywords:
 - coverage end date
 - coverage ending dates
 - coverage expiration dates
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain benefit expiration dates 
@@ -211,5 +213,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

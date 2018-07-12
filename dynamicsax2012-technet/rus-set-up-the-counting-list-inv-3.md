@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the counting list (INV-3)
 TOCTitle: (RUS) Set up the counting list (INV-3)
 ms:assetid: 2ad3f63a-0894-47c6-bb3b-eb7a8b1245d5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665231(v=AX.60)
 ms:contentKeyID: 49387320
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the counting list (INV-3) 
@@ -52,5 +54,5 @@ The counting list (INV-3) document is one of the primary documents used for inve
 9.  Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

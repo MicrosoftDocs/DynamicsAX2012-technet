@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain discussions
 TOCTitle: Add and maintain discussions
 ms:assetid: fba79d2f-82f2-421f-8448-174e6d85014a
@@ -13,6 +13,8 @@ f1_keywords:
 - HcmEPDiscussionInfo
 - HcmEPDiscussionList
 - hcmMyEmployeeDiscussionListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain discussions 
@@ -83,5 +85,5 @@ Use the **Discussions** page to view a list of discussions and to schedule, modi
 2.  Select the discussion to delete and then click **Delete**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

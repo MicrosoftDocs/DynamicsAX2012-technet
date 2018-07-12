@@ -1,4 +1,4 @@
-﻿---
+---
 title: View a process flow map
 TOCTitle: View a process flow map
 ms:assetid: 7c1f6e5e-db56-4b89-be58-1a32793bc3be
@@ -11,6 +11,8 @@ f1_keywords:
 - process flow map
 - process flow maps
 - process flows
+audience: Application User
+ms.search.region: Global
 ---
 
 # View a process flow map 
@@ -31,5 +33,5 @@ After you create a query for a process, substance, or substance category, you ca
 [Create and save process flow queries](create-and-save-process-flow-queries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a file format for a method of payment for vendors
 TOCTitle: Set up a file format for a method of payment for vendors
 ms:assetid: af7bef92-1c36-4b39-9fa0-b957e788971e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243106(v=AX.60)
 ms:contentKeyID: 36058954
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a file format for a method of payment for vendors 
@@ -38,5 +40,5 @@ If you and your bank agree to share information about vendor payments by using f
 [Set up an outbound payment format](set-up-an-outbound-payment-format.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

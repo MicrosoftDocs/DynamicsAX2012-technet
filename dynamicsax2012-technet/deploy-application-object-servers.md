@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy Application Object Servers
 TOCTitle: Deploy Application Object Servers
 ms:assetid: d7a675cc-602d-4baf-bc88-bb6f7b7ec744
@@ -22,5 +22,5 @@ The topics in this section provide information about how to deploy Application O
 [Troubleshoot installation issues with AOS](troubleshoot-installation-issues-with-aos.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

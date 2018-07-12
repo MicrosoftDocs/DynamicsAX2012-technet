@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up automatic sales tax group assignments
 TOCTitle: Set up automatic sales tax group assignments
 ms:assetid: c42be51c-6781-4145-8417-b10f1c19b879
@@ -13,6 +13,8 @@ f1_keywords:
 - Forms.MCRAutoTaxRules
 - default customer
 - default customer tax group
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up automatic sales tax group assignments 
@@ -73,5 +75,5 @@ Use this procedure to update an existing sales tax group by adding default sales
 [Set up and use a sales tax group](set-up-and-use-a-sales-tax-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

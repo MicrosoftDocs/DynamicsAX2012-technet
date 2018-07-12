@@ -1,4 +1,4 @@
-﻿---
+---
 title: Consolidate multiple shipments into a load
 TOCTitle: Consolidate multiple shipments into a load
 ms:assetid: 1efe844c-e55c-492b-bd6e-0ea0d88cf965
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn770230(v=AX.60)
 ms:contentKeyID: 62583045
 ms.date: 11/13/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Consolidate multiple shipments into a load 
@@ -142,5 +144,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

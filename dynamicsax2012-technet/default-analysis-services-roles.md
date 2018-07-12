@@ -1,4 +1,4 @@
-﻿---
+---
 title: Default Analysis Services roles
 TOCTitle: Default Analysis Services roles
 ms:assetid: 7a5d0d7d-d3fd-4379-a40f-0f89887aacd1
@@ -1299,5 +1299,5 @@ When you deploy the cubes that are included with the initial release of Microsof
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

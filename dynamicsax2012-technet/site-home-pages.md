@@ -1,4 +1,4 @@
-﻿---
+---
 title: Site home pages
 TOCTitle: Site home pages
 ms:assetid: 1d298508-35b3-4151-8b45-9438e9d11f70
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - default
 - EPSiteHomePage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Site home pages 
@@ -35,5 +37,5 @@ Site home pages are the point of entry to module sites. Each home page displays 
 [Using the Service management site](using-the-service-management-site.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

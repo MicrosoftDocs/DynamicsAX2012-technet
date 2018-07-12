@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Create and post a free text invoice as an electronic invoice
 TOCTitle: (MEX) Create and post a free text invoice as an electronic invoice
 ms:assetid: 7477c323-24e6-4a1a-9aca-ae13d5979e5d
@@ -10,6 +10,8 @@ f1_keywords:
 - create and post
 - electronic invoice
 - free text invoice
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Create and post a free text invoice as an electronic invoice 
@@ -54,5 +56,5 @@ Use the **Free text invoice** form to create and post a free text invoice for a 
 [(MEX) Set up a sales tax code for an electronic invoice](mex-set-up-a-sales-tax-code-for-an-electronic-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

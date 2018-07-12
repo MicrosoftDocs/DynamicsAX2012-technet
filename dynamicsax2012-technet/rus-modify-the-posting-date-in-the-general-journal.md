@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Modify the posting date in the general journal
 TOCTitle: (RUS) Modify the posting date in the general journal
 ms:assetid: 2d546d50-1b0c-4953-8480-d0ca0fcaf897
@@ -11,6 +11,8 @@ f1_keywords:
 - (RUS)
 - (RUS) Modify the posting date in the general journal
 - posting date
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Modify the posting date in the general journal 
@@ -70,5 +72,5 @@ Use this procedure to validate and modify the posting date before you post a gen
 14. Click **Post** \> **Post** to post the journal.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

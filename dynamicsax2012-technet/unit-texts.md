@@ -1,4 +1,4 @@
-﻿---
+---
 title: Unit texts
 TOCTitle: Unit texts
 ms:assetid: c26ff11e-ec41-47cd-b1cf-95736a790e7f
@@ -42,5 +42,5 @@ When you start preprocessing unit texts, all unit texts associated with each uni
 5.  Click **Set to ready for upgrade** when you have resolved all validation errors.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

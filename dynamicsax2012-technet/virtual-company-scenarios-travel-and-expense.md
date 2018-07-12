@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Virtual company scenarios: Travel and expense'
 TOCTitle: 'Virtual company scenarios: Travel and expense'
 ms:assetid: f68d496e-1ba1-4b58-b973-176e56f538f3
@@ -24,5 +24,5 @@ To share travel destinations among company accounts, create a **Travel destinati
 To share merchants for expense reports among company accounts, create a **Merchants** table collection to include in a virtual company. Include the TrvExpMerchant table in the table collection.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Component architecture
 TOCTitle: Component architecture
 ms:assetid: b54253be-c597-4cda-b5d0-51ecb5a44cee
@@ -34,5 +34,5 @@ The following topics are included in this section:
 [Application integration](application-integration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

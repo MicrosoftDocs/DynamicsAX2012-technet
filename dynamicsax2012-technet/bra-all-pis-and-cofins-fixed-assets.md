@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) All PIS and COFINS fixed assets
 TOCTitle: (BRA) All PIS and COFINS fixed assets
 ms:assetid: 1348fc19-862f-48e5-93cf-27faccb8a4a6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt297848(v=AX.60)
 ms:contentKeyID: 66271896
 ms.date: 07/08/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) All PIS and COFINS fixed assets 
@@ -203,5 +205,5 @@ The PIS and COFINS credit appropriation is calculated in the PIS and COFINS tax 
 [(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

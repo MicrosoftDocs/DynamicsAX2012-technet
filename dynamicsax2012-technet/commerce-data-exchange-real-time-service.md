@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Commerce Data Exchange: Real-time Service'
 TOCTitle: 'Commerce Data Exchange: Real-time Service'
 ms:assetid: 7dc09b26-47ba-403e-9b69-a61601d46bae
@@ -42,5 +42,5 @@ In AX 2012 R3 and AX 2012 R2, Real-time Service is a Windows Communication Found
 In AX 2012 Feature Pack, Real-time Service is a Windows service that is called Retail Transaction Service.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

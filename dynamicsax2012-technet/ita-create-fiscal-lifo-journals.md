@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Create fiscal LIFO journals
 TOCTitle: (ITA) Create fiscal LIFO journals
 ms:assetid: 9b79b279-cd27-4850-9bae-83a64577de85
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498461(v=AX.60)
 ms:contentKeyID: 36058718
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Create fiscal LIFO journals 
@@ -50,5 +52,5 @@ You calculate fiscal LIFO from the fiscal LIFO journals. Before you create the f
 [(ITA) About fiscal LIFO workflow](ita-about-fiscal-lifo-workflow.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

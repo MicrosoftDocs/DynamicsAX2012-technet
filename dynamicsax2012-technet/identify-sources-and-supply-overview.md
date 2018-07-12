@@ -1,4 +1,4 @@
-﻿---
+---
 title: Identify sources and supply overview
 TOCTitle: Identify sources and supply overview
 ms:assetid: eccb13fe-570e-4d61-a7c1-f6e89a29ba0a
@@ -10,6 +10,8 @@ f1_keywords:
 - sources
 - sourcing
 - supply
+audience: Application User
+ms.search.region: Global
 ---
 
 # Identify sources and supply overview 
@@ -88,5 +90,5 @@ The following table lists the forms that support the identify sources and supply
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

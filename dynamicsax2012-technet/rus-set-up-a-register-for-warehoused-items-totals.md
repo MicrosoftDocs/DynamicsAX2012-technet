@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for warehoused items (totals)
 TOCTitle: (RUS) Set up a register for warehoused items (totals)
 ms:assetid: 07d80067-9593-488b-91e3-1d1d8c00300c
@@ -11,6 +11,8 @@ f1_keywords:
 - totals
 - warehouse items
 - warehoused items totals
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for warehoused items (totals) 
@@ -53,5 +55,5 @@ The **Warehoused items (totals)** register displays the total amount of each typ
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

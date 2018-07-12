@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process engineering manager security role (RouteProcessEngineeringManager)
 TOCTitle: Process engineering manager security role (RouteProcessEngineeringManager)
 ms:assetid: 8c4c4045-2623-42d0-9137-d85db035ec5f
@@ -151,5 +151,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

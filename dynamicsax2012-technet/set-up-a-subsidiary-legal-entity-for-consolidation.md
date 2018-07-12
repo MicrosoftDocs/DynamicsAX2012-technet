@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a subsidiary legal entity for consolidation
 TOCTitle: Set up a subsidiary legal entity for consolidation
 ms:assetid: eb52ea60-8e12-4fbf-a875-b68702fe2103
@@ -12,6 +12,8 @@ f1_keywords:
 - legal entity
 - subsidiary
 - subsidiary legal entity
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a subsidiary legal entity for consolidation 
@@ -86,5 +88,5 @@ Regardless of whether you have mapped accounts, clear the **Use consolidation ac
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

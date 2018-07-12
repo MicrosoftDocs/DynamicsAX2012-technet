@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a vendor invoice to allocate charges
 TOCTitle: (RUS) Create and post a vendor invoice to allocate charges
 ms:assetid: 74e41753-4163-4de9-b6ad-d8be19bc6c0f
@@ -11,6 +11,8 @@ f1_keywords:
 - (RUS)
 - (RUS) Create and post a vendor invoice to allocate charges
 - Create and post a vendor invoice
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a vendor invoice to allocate charges 
@@ -47,5 +49,5 @@ Use this procedure to allocate charges to a vendor invoice that is not associate
 [Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Project Server 2010 Integration with Microsoft Dynamics AX 2012 (White Paper)
 TOCTitle: Microsoft Project Server 2010 Integration with Microsoft Dynamics AX 2012
 ms:assetid: 9e101a47-5756-46db-b591-78b3cef815bb
@@ -20,5 +20,5 @@ This document provides instructions for integrating data between the two program
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=215155).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

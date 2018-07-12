@@ -1,4 +1,4 @@
-﻿---
+---
 title: Request and issue the letter of guarantee
 TOCTitle: Request and issue the letter of guarantee
 ms:assetid: 81059259-109c-4340-a607-56a0a0b53829
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Extend letter of gurantee
 - Letter of gurantee
+audience: Application User
+ms.search.region: Global
 ---
 
 # Request and issue the letter of guarantee 
@@ -129,5 +131,5 @@ Click **Project management and accounting** \> **Common** \> **Projects** \> **A
 [Increase or decrease the letter of guarantee value](increase-or-decrease-the-letter-of-guarantee-value.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

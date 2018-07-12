@@ -1,4 +1,4 @@
-﻿---
+---
 title: About workflow for vendor requests
 TOCTitle: About workflow for vendor requests
 ms:assetid: de80fda2-4108-4d86-8f2b-2f21c1a463f4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227413(v=AX.60)
 ms:contentKeyID: 36059689
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About workflow for vendor requests 
@@ -64,5 +66,5 @@ An employee submits a request to change the hold status for a vendor. After the 
 [About vendor requests](about-vendor-requests.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

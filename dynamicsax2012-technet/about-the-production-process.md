@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the production process
 TOCTitle: About the production process
 ms:assetid: a3144f75-3c8f-4cb2-a495-f7a1eee87d9c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - production orders
 - production
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the production process 
@@ -47,5 +49,5 @@ The **Production control** module in Microsoft Dynamics AX is linked to other mo
 [About production order status](about-production-order-status.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

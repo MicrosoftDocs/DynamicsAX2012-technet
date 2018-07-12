@@ -1,4 +1,4 @@
-﻿---
+---
 title: About product dimensions
 TOCTitle: About product dimensions
 ms:assetid: d5f35982-32f0-40a9-a6e1-4d5505d79be2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - products
 - product dimension
+audience: Application User
+ms.search.region: Global
 ---
 
 # About product dimensions 
@@ -115,5 +117,5 @@ Not all sizes are available in all the three colors. If all combinations were av
 [Key tasks: Release products](key-tasks-release-products.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

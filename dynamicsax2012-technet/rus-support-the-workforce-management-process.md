@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Support the workforce management process
 TOCTitle: (RUS) Support the workforce management process
 ms:assetid: e699ac0d-728b-4e20-b785-d004911883cc
@@ -32,6 +32,8 @@ f1_keywords:
 - MsDynAx060.Forms.RHRMEmployee
 - MsDynAx060.Forms.RHRMPersonBankAccounts
 - MsDynAx060.Forms.RPayParmTable
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Support the workforce management process 
@@ -250,5 +252,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

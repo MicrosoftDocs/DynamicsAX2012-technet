@@ -1,4 +1,4 @@
-﻿---
+---
 title: ADA requirements report (HcmADARequirement)
 TOCTitle: ADA requirements report (HcmADARequirement)
 ms:assetid: bfe39a00-b7e4-44e8-90ac-ee28d55584fb
@@ -91,5 +91,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(USA) Enter physical requirements for job templates and jobs](usa-enter-physical-requirements-for-job-templates-and-jobs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Product receipt corrections
 TOCTitle: (RUS) Product receipt corrections
 ms:assetid: 85054d3c-a67f-44fc-afd5-f43b2efaa926
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733250(v=AX.60)
 ms:contentKeyID: 49685218
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Product receipt corrections 
@@ -22,5 +24,5 @@ The topics in this section provide information about how to correct product rece
 [(RUS) Post a product receipt for a purchase order](rus-post-a-product-receipt-for-a-purchase-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post and print a journal or journal lines
 TOCTitle: Post and print a journal or journal lines
 ms:assetid: 26c310cc-4dff-472a-81e7-b9f90ffe80b0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496825(v=AX.60)
 ms:contentKeyID: 36056203
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post and print a journal or journal lines 
@@ -78,5 +80,5 @@ Use the **Journal** form or the **Journal voucher** form to print journal lines.
 [Post multiple journals](post-multiple-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

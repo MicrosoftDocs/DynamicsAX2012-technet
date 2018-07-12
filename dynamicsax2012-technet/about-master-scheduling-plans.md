@@ -1,4 +1,4 @@
-﻿---
+---
 title: About master scheduling plans
 TOCTitle: About master scheduling plans
 ms:assetid: 8c30f003-4176-4f56-be45-a9b44621301a
@@ -14,6 +14,8 @@ f1_keywords:
 - planning strategies
 - planning strategy
 - static plan
+audience: Application User
+ms.search.region: Global
 ---
 
 # About master scheduling plans 
@@ -42,5 +44,5 @@ You can also set up the starting dynamic plan so that it is updated with the new
 [Run master scheduling](run-master-scheduling.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

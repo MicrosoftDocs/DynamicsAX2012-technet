@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Sales and marketing
 TOCTitle: Setting up and maintaining Sales and marketing
 ms:assetid: f8e0a779-8d8d-4ea9-9976-9a749fd4ed9c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - sales
 - marketing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Sales and marketing 
@@ -364,5 +366,5 @@ For more information about setup and maintenance tasks, see the System and Appli
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

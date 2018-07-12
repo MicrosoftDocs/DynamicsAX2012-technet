@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a shared directory for installation
 TOCTitle: Create a shared directory for installation
 ms:assetid: de9ff8fa-63ba-48d1-a76a-68e39c273eda
@@ -38,5 +38,5 @@ Before you install Microsoft Dynamics AX, follow these steps to create a shared 
 4.  Copy the installation files for cumulative updates and hotfixes to the directory. For more information about how to include updates, see [Include cumulative updates and hotfixes in a new installation (slipstreaming)](include-cumulative-updates-and-hotfixes-in-a-new-installation-slipstreaming.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

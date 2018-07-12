@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fix Element IDs (SQL patch script for AX 2012 R2 + CU6 upgrade scenarios)
 TOCTitle: Fix Element IDs (SQL patch script for AX 2012 R2 + CU6 upgrade scenarios)
 ms:assetid: 7206ce21-ece4-4ca1-9383-e2b07c0637e7
@@ -160,5 +160,5 @@ To upgrade from any of these configurations to Microsoft Dynamics AX 2012 R2 + C
     COMMIT TRAN
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

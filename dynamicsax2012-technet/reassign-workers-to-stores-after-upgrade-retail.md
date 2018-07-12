@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reassign workers to stores after upgrade (Retail)
 TOCTitle: Reassign workers to stores after upgrade (Retail)
 ms:assetid: f88a79ef-e69d-4ff7-887e-63ba97344ae5
@@ -52,5 +52,5 @@ Follow these steps to assign an existing worker to a store after an upgrade.
 10. Run N jobs or A jobs for Staff and Store to replicate the data.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

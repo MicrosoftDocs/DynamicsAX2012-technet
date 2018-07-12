@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project periods
 TOCTitle: About project periods
 ms:assetid: 862945c5-31b0-4e30-a2c6-d5f995b738e4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500665(v=AX.60)
 ms:contentKeyID: 37822150
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project periods 
@@ -70,5 +72,5 @@ Setting up periods consists of the following tasks:
 [Set up pay periods for time registration workers](set-up-pay-periods-for-time-registration-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

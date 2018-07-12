@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sample deployment scenarios
 TOCTitle: Sample deployment scenarios
 ms:assetid: 2c1fee73-a8e4-48a1-b456-223ba102a92c
@@ -32,5 +32,5 @@ The following topics are included in this section:
 [Getting started with associated technologies](getting-started-with-associated-technologies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

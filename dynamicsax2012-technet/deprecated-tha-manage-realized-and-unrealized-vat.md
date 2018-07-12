@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (THA) Manage realized and unrealized VAT'
 TOCTitle: (THA) Manage realized and unrealized VAT
 ms:assetid: 732f7e28-5164-40c2-8eab-bc5039d892f8
@@ -68,5 +68,5 @@ Microsoft Dynamics AX 2009 managed unrealized value-added tax (VAT) by using Tha
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

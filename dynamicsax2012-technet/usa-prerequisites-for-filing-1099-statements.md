@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Prerequisites for filing 1099 statements
 TOCTitle: (USA) Prerequisites for filing 1099 statements
 ms:assetid: 0c0771b8-82a0-412a-ada6-13233e0e3839
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569747(v=AX.60)
 ms:contentKeyID: 36055993
 ms.date: 07/08/2016
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Prerequisites for filing 1099 statements 
@@ -32,5 +34,5 @@ For more information about electronic or magnetic filing, see IRS publication 12
 [(USA) About year-end 1099 reporting](usa-about-year-end-1099-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Schedule Retail data distribution
 TOCTitle: Schedule Retail data distribution
 ms:assetid: 461c33c1-dbb4-401f-bebe-f2d97cb944c4
@@ -24,5 +24,5 @@ The topics in this section provide information about how to run and modify jobs 
 [View history for a distribution schedule](view-history-for-a-distribution-schedule.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

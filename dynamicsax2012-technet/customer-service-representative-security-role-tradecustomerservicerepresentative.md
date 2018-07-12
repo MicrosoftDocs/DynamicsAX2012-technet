@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer service representative security role (TradeCustomerServiceRepresentative)
 TOCTitle: Customer service representative security role (TradeCustomerServiceRepresentative)
 ms:assetid: e304fea7-a722-4d5d-b19c-64c1c3003ef9
@@ -252,5 +252,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

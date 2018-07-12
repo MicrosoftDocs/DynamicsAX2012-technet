@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up injury and illness information
 TOCTitle: Set up injury and illness information
 ms:assetid: a4a8717a-bc8e-4a18-ae0a-361e95182d81
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242679(v=AX.60)
 ms:contentKeyID: 36058860
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up injury and illness information 
@@ -33,5 +35,5 @@ Use the injury and illness form to set up the necessary information to report wo
 [Injury and illness (form)](https://technet.microsoft.com/en-us/library/hh208628\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

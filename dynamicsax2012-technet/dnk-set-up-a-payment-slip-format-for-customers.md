@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Set up a payment slip format for customers
 TOCTitle: (DNK) Set up a payment slip format for customers
 ms:assetid: a1223925-466c-4ef7-891c-6be505e1472e
@@ -10,6 +10,8 @@ f1_keywords:
 - format
 - Denmark
 - payment slip
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Set up a payment slip format for customers 
@@ -88,5 +90,5 @@ After you set up the payment slip attachment format for sales invoices, free tex
 [Form setup (form)](https://technet.microsoft.com/en-us/library/aa589956\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

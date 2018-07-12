@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a main account
 TOCTitle: Create a main account
 ms:assetid: cd0241ce-7191-4fe0-845a-3f92c4c8ba93
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - create a main account
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a main account 
@@ -56,5 +58,5 @@ Use the **Main accounts - chart of accounts: %1** form to create a main account.
 [Main account categories and analysis cubes](main-account-categories-and-analysis-cubes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

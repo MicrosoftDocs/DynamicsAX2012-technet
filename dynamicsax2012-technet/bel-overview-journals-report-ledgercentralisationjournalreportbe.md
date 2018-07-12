@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Overview journals report (LedgerCentralisationJournalReportBE)
 TOCTitle: (BEL) Overview journals report (LedgerCentralisationJournalReportBE)
 ms:assetid: 5637ba5e-c1c0-46e0-9da8-4d8b529a7271
@@ -130,5 +130,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(BEL) Generate journal, sales tax, and purchase sales tax transaction reports](bel-generate-journal-sales-tax-and-purchase-sales-tax-transaction-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

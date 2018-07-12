@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Generate the Yearly tax communication report
 TOCTitle: (ITA) Generate the Yearly tax communication report
 ms:assetid: fc8f7904-27cd-4e96-957b-d57963e2dc11
@@ -10,6 +10,8 @@ f1_keywords:
 - Italy
 - Generate the Yearly Tax Communication report
 - Yearly Tax Communication report
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Generate the Yearly tax communication report 
@@ -108,5 +110,5 @@ Use the **Yearly tax communication** form to generate the Yearly tax communicati
 [(ITA) Yearly tax communication details (form)](https://technet.microsoft.com/en-us/library/hh433551\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

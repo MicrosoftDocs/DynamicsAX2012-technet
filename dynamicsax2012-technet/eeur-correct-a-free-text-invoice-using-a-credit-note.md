@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Correct a free text invoice using a credit note
 TOCTitle: (EEUR) Correct a free text invoice using a credit note
 ms:assetid: a6b96e39-10d7-43c6-b8fb-bd3a5145835b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911005(v=AX.60)
 ms:contentKeyID: 52075303
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Correct a free text invoice using a credit note 
@@ -59,5 +61,5 @@ Before you can create a credit note, you must follow these steps.
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

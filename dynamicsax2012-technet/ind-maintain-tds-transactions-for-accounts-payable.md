@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Maintain TDS transactions for Accounts payable
 TOCTitle: (IND) Maintain TDS transactions for Accounts payable
 ms:assetid: a09d435f-c622-4f2b-b7c5-67458ea14b56
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664742(v=AX.60)
 ms:contentKeyID: 49386073
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Maintain TDS transactions for Accounts payable 
@@ -28,5 +30,5 @@ The following topics provide information about Tax Deducted at Source (TDS) tran
 [(IND) View TDS payments and transactions posted for a TDS settlement period](ind-view-tds-payments-and-transactions-posted-for-a-tds-settlement-period.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

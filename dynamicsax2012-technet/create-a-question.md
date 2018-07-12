@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a question
 TOCTitle: Create a question
 ms:assetid: ca2d4950-2425-4db6-8fec-2829b8f3a636
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499085(v=AX.60)
 ms:contentKeyID: 39519320
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a question 
@@ -60,5 +62,5 @@ Depending on your selection in the **Input type** list, you can create two kinds
 [Questions (form)](https://technet.microsoft.com/en-us/library/aa571301\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

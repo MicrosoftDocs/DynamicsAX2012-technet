@@ -1,4 +1,4 @@
-﻿---
+---
 title: View transaction adjustment history
 TOCTitle: View transaction adjustment history
 ms:assetid: aeff1bc8-ad8b-42a5-bbea-0bfb4394a7e4
@@ -10,6 +10,8 @@ f1_keywords:
 - adjustment trace
 - transaction adjustment history
 - transaction reversal
+audience: Application User
+ms.search.region: Global
 ---
 
 # View transaction adjustment history 
@@ -54,5 +56,5 @@ By using the adjustment trace feature, you can view the adjustment history of a 
 [On-account transactions (form)](https://technet.microsoft.com/en-us/library/aa557380\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

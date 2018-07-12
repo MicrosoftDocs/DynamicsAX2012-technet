@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Inventory journals
 TOCTitle: (RUS) Inventory journals
 ms:assetid: a14d2565-351d-4680-b702-df8922f5d2fa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678550(v=AX.60)
 ms:contentKeyID: 49387780
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Inventory journals 
@@ -40,5 +42,5 @@ The following topics provide information about inventory journals.
 [(RUS) Set up and generate an electronic document for an alcohol declaration](rus-set-up-and-generate-an-electronic-document-for-an-alcohol-declaration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

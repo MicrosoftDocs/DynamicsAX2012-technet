@@ -1,4 +1,4 @@
-﻿---
+---
 title: About receiving alerts
 TOCTitle: About receiving alerts
 ms:assetid: 38002242-eff8-4533-a749-ce0e04b707ea
@@ -13,6 +13,8 @@ f1_keywords:
 - notifications
 - notice
 - notices
+audience: Application User
+ms.search.region: Global
 ---
 
 # About receiving alerts 
@@ -59,5 +61,5 @@ If you have set up email alerts but do not receive them, verify the following se
   - The **E-mail** field in the **Options** form must contain the email address of the recipient.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add a batch order to a consolidated batch order
 TOCTitle: Add a batch order to a consolidated batch order
 ms:assetid: 2ce1add1-9c2e-4dc0-a92d-6069d9855846
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352192(v=AX.60)
 ms:contentKeyID: 36687825
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add a batch order to a consolidated batch order 
@@ -56,5 +58,5 @@ Use this procedure to add a batch order to a consolidated order. This procedure 
 [Consolidated batch orders (form)](https://technet.microsoft.com/en-us/library/hh328731\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

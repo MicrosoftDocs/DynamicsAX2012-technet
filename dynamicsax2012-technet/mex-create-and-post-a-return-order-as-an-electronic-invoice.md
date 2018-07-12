@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Create and post a return order as an electronic invoice
 TOCTitle: (MEX) Create and post a return order as an electronic invoice
 ms:assetid: 0beffe39-4e06-4ad1-8601-2b4c9a57846f
@@ -10,6 +10,8 @@ f1_keywords:
 - create and post
 - electronic invoice
 - return order
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Create and post a return order as an electronic invoice 
@@ -70,5 +72,5 @@ When you create the return order for an imported item, you must specify the pert
 [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

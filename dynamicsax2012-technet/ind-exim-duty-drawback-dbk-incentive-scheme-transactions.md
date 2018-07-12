@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) EXIM Duty Drawback (DBK) incentive scheme transactions
 TOCTitle: (IND) EXIM Duty Drawback (DBK) incentive scheme transactions
 ms:assetid: 91195c3c-9532-4a20-a8a9-1375070080c0
@@ -15,6 +15,8 @@ f1_keywords:
 - EXIM DBK transactions
 - EXIM Duty Drawback (DBK) incentive scheme
 - incentive scheme transactions
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) EXIM Duty Drawback (DBK) incentive scheme transactions 
@@ -29,5 +31,5 @@ The following topics provide information about EXIM Duty Drawback (DBK) incentiv
 [(IND) Verify and settle duty drawback voucher transactions](ind-verify-and-settle-duty-drawback-voucher-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Synchronization of intercompany information
 TOCTitle: Synchronization of intercompany information
 ms:assetid: aaf5fc9d-6699-46bc-852f-913e69c36ded
@@ -16,6 +16,8 @@ f1_keywords:
 - synchronize misc. charges
 - synchronise
 - synchronize prices
+audience: Application User
+ms.search.region: Global
 ---
 
 # Synchronization of intercompany information 
@@ -34,5 +36,5 @@ The topics in this section provide information about the synchronization of info
 [About synchronization of customer information](about-synchronization-of-customer-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

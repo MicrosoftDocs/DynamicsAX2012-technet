@@ -1,4 +1,4 @@
-﻿---
+---
 title: " ecosphere"
 TOCTitle: " ecosphere"
 ms:assetid: DynamicsAXGlossary.1364977
@@ -19,5 +19,5 @@ The general environment, which is usually specified as being the air, water, or 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

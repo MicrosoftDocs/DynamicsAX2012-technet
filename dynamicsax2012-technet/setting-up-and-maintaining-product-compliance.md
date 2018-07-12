@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining product compliance
 TOCTitle: Setting up and maintaining product compliance
 ms:assetid: 14aa747a-494d-4c03-9ea3-5a2bc1013b4c
@@ -12,6 +12,8 @@ f1_keywords:
 - process industries
 - comply
 - complying
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining product compliance 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to set up and maintain 
 [Create a material reporting list for a country or region](create-a-material-reporting-list-for-a-country-or-region.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

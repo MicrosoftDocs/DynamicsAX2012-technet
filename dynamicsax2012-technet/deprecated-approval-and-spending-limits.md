@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Approval and spending limits'
 TOCTitle: Approval and spending limits
 ms:assetid: 99202ccb-96d3-4d0e-b624-d5d915ef2b72
@@ -54,5 +54,5 @@ Microsoft Dynamics AX 2009 provides basic support for approval and spending limi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

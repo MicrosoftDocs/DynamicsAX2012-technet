@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Dynamics AX reports
 TOCTitle: Microsoft Dynamics AX reports
 ms:assetid: 5f2eba4f-3130-4df6-a9d9-75ede0b8f41b
@@ -803,6 +803,8 @@ f1_keywords:
 - SSRS_Reports.Reports.HcmOSHA300APrepReport
 - SSRS_Reports.Reports.HcmOSHA300LogPrepReport
 - SSRS_Reports.Reports.SourceDocumentPostedTrans
+audience: Application User
+ms.search.region: Global
 ---
 
 # Microsoft Dynamics AX reports 
@@ -849,5 +851,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click a report. Click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

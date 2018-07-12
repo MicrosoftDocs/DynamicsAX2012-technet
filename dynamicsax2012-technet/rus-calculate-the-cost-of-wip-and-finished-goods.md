@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the cost of WIP and finished goods
 TOCTitle: (RUS) Calculate the cost of WIP and finished goods
 ms:assetid: cbfa7c61-ffd4-4f93-96c1-333823a9241a
@@ -10,6 +10,8 @@ f1_keywords:
 - cost of work in progress
 - finished goods
 - work in progress
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the cost of WIP and finished goods 
@@ -38,5 +40,5 @@ Use the **End** form to calculate the cost of work in progress (WIP) and finishe
 [(RUS) End (modified form)](https://technet.microsoft.com/en-us/library/jj678573\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate a deferral using a periodic voucher
 TOCTitle: (RUS) Generate a deferral using a periodic voucher
 ms:assetid: 90ee0677-f96f-4ca8-ab0e-c13ba8998ab6
@@ -13,6 +13,8 @@ f1_keywords:
 - MsDynAx060.Forms.Dialog
 - MsDynAx060.Forms.RTax25StdSeq
 - MsDynAx060.Forms.RTax25StdExpressionTable
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate a deferral using a periodic voucher 
@@ -119,5 +121,5 @@ After you set up the calculation sequences and counters for a deferrals group, y
 [(RUS) Counter setup (form)](https://technet.microsoft.com/en-us/library/jj856173\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

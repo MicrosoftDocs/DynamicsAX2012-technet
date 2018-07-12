@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up benefits
 TOCTitle: Set up benefits
 ms:assetid: ec44f6f5-97f5-4b2f-be82-c6d079d4b238
@@ -19,6 +19,8 @@ f1_keywords:
 - create benefit
 - setup benefits
 - set up benefits
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up benefits 
@@ -89,5 +91,5 @@ Use the **Benefits** form to set up new benefits to assign to your workers.
 [Enroll and remove benefits for workers](enroll-and-remove-benefits-for-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

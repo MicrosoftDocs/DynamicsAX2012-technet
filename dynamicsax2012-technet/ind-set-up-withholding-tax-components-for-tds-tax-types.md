@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up withholding tax components for TDS tax types
 TOCTitle: (IND) Set up withholding tax components for TDS tax types
 ms:assetid: 8890a0fa-6987-4dbc-931c-5bcd4df0fab8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678021(v=AX.60)
 ms:contentKeyID: 49385982
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up withholding tax components for TDS tax types 
@@ -84,5 +86,5 @@ Use this procedure to copy the TDS components that are set up for a TDS componen
 [(IND) Withholding tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj677874\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

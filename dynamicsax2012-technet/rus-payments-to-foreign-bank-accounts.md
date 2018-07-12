@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Payments to foreign bank accounts
 TOCTitle: (RUS) Payments to foreign bank accounts
 ms:assetid: eba77033-3465-4489-be85-807d8814c44c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678587(v=AX.60)
 ms:contentKeyID: 49388069
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Payments to foreign bank accounts 
@@ -36,5 +38,5 @@ You must complete the following tasks if you want to generate a payment order fo
 [(RUS) Set up an intermediate bank account for a foreign vendor](rus-set-up-an-intermediate-bank-account-for-a-foreign-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

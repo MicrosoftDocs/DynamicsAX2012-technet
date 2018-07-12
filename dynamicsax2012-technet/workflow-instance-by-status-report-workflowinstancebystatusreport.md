@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow instance by status report (WorkflowInstanceByStatusReport)
 TOCTitle: Workflow instance by status report (WorkflowInstanceByStatusReport)
 ms:assetid: 47de15b1-081e-4c29-89b9-dfd4c2acbf9e
@@ -112,5 +112,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

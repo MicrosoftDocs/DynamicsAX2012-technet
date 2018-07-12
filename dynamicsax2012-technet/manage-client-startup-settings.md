@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage client startup settings
 TOCTitle: Manage client startup settings
 ms:assetid: 271854f7-ddfb-4b2f-a797-d322f8f6617f
@@ -24,5 +24,5 @@ The topics in this section provide information about how to manage and configure
 [Execute configuration commands](execute-configuration-commands.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

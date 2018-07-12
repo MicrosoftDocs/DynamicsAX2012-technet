@@ -1,4 +1,4 @@
-﻿---
+---
 title: RFM validation scores and history
 TOCTitle: RFM validation scores and history
 ms:assetid: 9138525c-01eb-49eb-a647-c81fa7696d34
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn631656(v=AX.60)
 ms:contentKeyID: 62504012
 ms.date: 06/11/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # RFM validation scores and history 
@@ -46,5 +48,5 @@ Use this procedure to view or clear the history of an RFM analysis record.
 [Set up RFM analysis](set-up-rfm-analysis.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

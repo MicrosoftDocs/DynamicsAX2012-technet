@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintaining standard costs in a manufacturing environment
 TOCTitle: Maintaining standard costs in a manufacturing environment
 ms:assetid: 06da8111-538a-491d-aaf7-6fe51fe5e5c0
@@ -13,6 +13,8 @@ f1_keywords:
 - costing
 - standard cost
 - standard costs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintaining standard costs in a manufacturing environment 
@@ -33,5 +35,5 @@ The topics in this section contain information about how to maintain standard co
 [About updating standard costs in a manufacturing environment](about-updating-standard-costs-in-a-manufacturing-environment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

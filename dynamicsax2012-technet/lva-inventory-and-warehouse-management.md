@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Inventory and warehouse management
 TOCTitle: (LVA) Inventory and warehouse management
 ms:assetid: 1a87c3ed-0316-4617-a534-f039a0c8c3d9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731008(v=AX.60)
 ms:contentKeyID: 49675248
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Inventory and warehouse management 
@@ -22,5 +24,5 @@ The topics in this section provide more information about Inventory and warehous
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

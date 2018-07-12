@@ -1,4 +1,4 @@
-﻿---
+---
 title: About creating intercompany purchase orders or sales orders in several companies
 TOCTitle: About creating intercompany purchase orders or sales orders in several companies
 ms:assetid: 221768ad-3fc7-4fe3-8fa9-991ac67f60cd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496795(v=AX.60)
 ms:contentKeyID: 36056171
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About creating intercompany purchase orders or sales orders in several companies 
@@ -33,5 +35,5 @@ Similarly, if you open the intercompany sales orders for the vendors, you see th
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

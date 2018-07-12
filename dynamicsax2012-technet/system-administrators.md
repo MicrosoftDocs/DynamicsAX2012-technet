@@ -1,4 +1,4 @@
-﻿---
+---
 title: System administrators
 TOCTitle: System administrators
 ms:assetid: 58b6c1a7-6e12-47c4-9ab6-d8c3182c5d59
@@ -16,8 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 This part of the Microsoft Dynamics AX 2012 Technical Library contains updated content for IT professionals who must deploy, configure, and administer Microsoft Dynamics AX 2012.
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
 
@@ -147,5 +146,5 @@ See the following blogs for more information about Microsoft Dynamics AX.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

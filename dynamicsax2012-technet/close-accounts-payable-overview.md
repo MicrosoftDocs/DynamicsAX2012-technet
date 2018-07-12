@@ -1,4 +1,4 @@
-﻿---
+---
 title: Close Accounts payable overview
 TOCTitle: Close Accounts payable overview
 ms:assetid: b6c082d2-785e-4d8a-99cf-6ae97a1756b2
@@ -10,6 +10,8 @@ f1_keywords:
 - accounts
 - AP
 - payable
+audience: Application User
+ms.search.region: Global
 ---
 
 # Close Accounts payable overview 
@@ -118,5 +120,5 @@ The following table lists the forms that support the close Accounts payable busi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure the workflow system
 TOCTitle: Configure the workflow system
 ms:assetid: b0ba6132-e0f9-435f-9e71-7f2519fcbf39
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - workflow
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure the workflow system 
@@ -30,5 +32,5 @@ The following topics describe the procedures that Microsoft Dynamics AX administ
 [Configure work item queues](configure-work-item-queues.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

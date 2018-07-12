@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View an excise register
 TOCTitle: (IND) View an excise register
 ms:assetid: 081ef3d2-f4ec-4db6-afbc-d7fb6cd89bab
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664455(v=AX.60)
 ms:contentKeyID: 49385534
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View an excise register 
@@ -68,5 +70,5 @@ Several types of inquiries are available for excise registers. Select the parame
 [(IND) Transactions (form)](https://technet.microsoft.com/en-us/library/jj664764\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

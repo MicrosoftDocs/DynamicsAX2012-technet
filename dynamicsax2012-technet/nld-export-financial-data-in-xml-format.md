@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NLD) Export financial data in XML format
 TOCTitle: (NLD) Export financial data in XML format
 ms:assetid: d897dca4-a9b4-46a5-8eb6-944c094a8037
@@ -10,6 +10,8 @@ f1_keywords:
 - Netherlands
 - XML
 - export
+audience: Application User
+ms.search.region: Netherlands
 ---
 
 # (NLD) Export financial data in XML format 
@@ -54,5 +56,5 @@ Manage folder and file permissions so that only users qualified to view the repo
 [(NLD) Path and file name for XBRL (form)](https://technet.microsoft.com/en-us/library/hh227568\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

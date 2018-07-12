@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Assess, pay, declare, and adjust IPI taxes
 TOCTitle: (BRA) Assess, pay, declare, and adjust IPI taxes
 ms:assetid: 6569c8c1-eae1-425d-9c7f-33dffcd73a6f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.FBTaxAssessmentIPIListPage_BR
 - MsDynAx060.Forms.FBTaxAssessmentIPIListPage_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Assess, pay, declare, and adjust IPI taxes 
@@ -69,5 +71,5 @@ This topic explains how to determine the amount of Imposto sobre Produtos Indust
 [(BRA) Assess, pay, declare, and adjust ICMS and ICMS-ST taxes](bra-assess-pay-declare-and-adjust-icms-and-icms-st-taxes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

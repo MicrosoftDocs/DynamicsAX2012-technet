@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About POS customization limitations and predefined blank operations
 TOCTitle: (BRA) About POS customization limitations and predefined blank operations
 ms:assetid: 7c8c2fe6-0128-40e5-9177-5e8f819924db
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497727(v=AX.60)
 ms:contentKeyID: 62200240
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About POS customization limitations and predefined blank operations 
@@ -69,5 +71,5 @@ The following table explains blank operations that are reserved for implementati
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

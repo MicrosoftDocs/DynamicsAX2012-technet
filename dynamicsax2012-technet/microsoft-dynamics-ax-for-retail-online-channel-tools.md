@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Dynamics AX for Retail online channel tools
 TOCTitle: Online channel tools
 ms:assetid: 0466aa89-0570-49bc-922f-7173c58621b0
@@ -255,5 +255,5 @@ You must run the configuration updater tool on the computer that has SharePoint 
 3.  Type ConfigurationUpdater.exe \<parameter1\> \<parameter2\>, where \<parameter1\> is the channel ID to update and \<parameter2\> is the channel operating unit number to update. If you don’t need both parameters, the parameter that isn't applicable to your deployment will be ignored.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

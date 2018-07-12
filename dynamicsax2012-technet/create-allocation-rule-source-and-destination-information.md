@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create allocation rule source and destination information
 TOCTitle: Create allocation rule source and destination information
 ms:assetid: 0c51afe5-e81b-4038-8d42-d258bbd95655
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230897(v=AX.60)
 ms:contentKeyID: 36676366
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create allocation rule source and destination information 
@@ -112,5 +114,5 @@ Use the **Ledger allocation rule destination** form to define the destination in
 [Ledger allocation basis (form)](https://technet.microsoft.com/en-us/library/ff395367\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

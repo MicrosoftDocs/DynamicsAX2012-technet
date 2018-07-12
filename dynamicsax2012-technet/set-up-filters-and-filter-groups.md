@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up filters and filter groups
 TOCTitle: Set up filters and filter groups
 ms:assetid: 88d46005-7eb7-485d-b0e4-0574cd588c88
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553176(v=AX.60)
 ms:contentKeyID: 62524889
 ms.date: 06/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up filters and filter groups 
@@ -63,5 +65,5 @@ You can configure filters in different ways to make items available to specific 
 After you have created filter codes and filter groups, you can configure the filters. For more information, see [Configure item filters and filter codes for warehouse transactions](configure-item-filters-and-filter-codes-for-warehouse-transactions.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

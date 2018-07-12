@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up competitors
 TOCTitle: Set up competitors
 ms:assetid: 85b7a305-682e-4419-949a-90ddfd40effc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597156(v=AX.60)
 ms:contentKeyID: 39519213
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up competitors 
@@ -52,5 +54,5 @@ Use this procedure to set up competitor prices for products that you want to tra
 [Competitor prices (form)](https://technet.microsoft.com/en-us/library/hh597334\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

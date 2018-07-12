@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up production flows and activities
 TOCTitle: Setting up production flows and activities
 ms:assetid: 3d7e52a8-bd1c-49a1-a218-1e55c585fe2c
@@ -24,6 +24,8 @@ f1_keywords:
 - takt time
 - set up production flows
 - set up production flow activities
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up production flows and activities 
@@ -38,5 +40,5 @@ The topics in this section provide conceptual and setup information about produc
 [Key tasks: Set up a production flow](key-tasks-set-up-a-production-flow.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

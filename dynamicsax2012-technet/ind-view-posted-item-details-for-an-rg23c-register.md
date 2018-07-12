@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View posted item details for an RG23C register
 TOCTitle: (IND) View posted item details for an RG23C register
 ms:assetid: fb361fb5-c846-4d35-a79d-5b057bf39800
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710983(v=AX.60)
 ms:contentKeyID: 49386395
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View posted item details for an RG23C register 
@@ -46,5 +48,5 @@ The item details for posted excise transactions are displayed in the **RG23C ite
 [(IND) RG23C item details (form)](https://technet.microsoft.com/en-us/library/jj677963\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

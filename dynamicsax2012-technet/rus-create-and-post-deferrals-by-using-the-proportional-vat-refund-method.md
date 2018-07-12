@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post deferrals by using the Proportional VAT refund method
 TOCTitle: (RUS) Create and post deferrals by using the Proportional VAT refund method
 ms:assetid: 58043f5c-74a6-497e-8fde-4e0a38b0b926
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665401(v=AX.60)
 ms:contentKeyID: 49387489
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post deferrals by using the Proportional VAT refund method 
@@ -101,5 +103,5 @@ You must create and post a journal for deferrals that are created using the peri
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

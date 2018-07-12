@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up excise taxes
 TOCTitle: (POL) Set up excise taxes
 ms:assetid: 2af7d491-dd89-4fbe-a9c0-fcc671576388
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678163(v=AX.60)
 ms:contentKeyID: 49386886
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up excise taxes 
@@ -94,5 +96,5 @@ When you enable excise tax posting, excise tax is posted to the ledger. If excis
 3.  Select the **Excise posting** check box.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

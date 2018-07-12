@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate deferrals by using the periodic process
 TOCTitle: (RUS) Generate deferrals by using the periodic process
 ms:assetid: aa438157-06cd-49d2-8107-b8a76371bf35
@@ -11,6 +11,8 @@ f1_keywords:
 - Russia
 - deferrals
 - periodic
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate deferrals by using the periodic process 
@@ -37,5 +39,5 @@ When you generate deferrals by using the periodic process for vendor invoices, d
 [(RUS) Set up calculation sequences and counters](rus-set-up-calculation-sequences-and-counters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

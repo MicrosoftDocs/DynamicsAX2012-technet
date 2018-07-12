@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Split purchase transactions based on delivery information
 TOCTitle: (IND) Split purchase transactions based on delivery information
 ms:assetid: 8f2bb2fb-b3f4-4e3d-992b-d322a8efd8df
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678049(v=AX.60)
 ms:contentKeyID: 49386012
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Split purchase transactions based on delivery information 
@@ -56,5 +58,5 @@ When each purchase order is split based on delivery addresses, the following inv
 [(IND) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664793\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

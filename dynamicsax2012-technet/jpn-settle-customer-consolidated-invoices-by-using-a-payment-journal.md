@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Settle customer consolidated invoices by using a payment journal
 TOCTitle: (JPN) Settle customer consolidated invoices by using a payment journal
 ms:assetid: 87e4ae3b-2c12-4b50-92d8-db202198b29e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711085(v=AX.60)
 ms:contentKeyID: 49386495
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Settle customer consolidated invoices by using a payment journal 
@@ -66,5 +68,5 @@ Use the **Settle open transactions** form to settle open transactions that are r
 [Export letter of credit/import collection (form)](https://technet.microsoft.com/en-us/library/hh208689\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

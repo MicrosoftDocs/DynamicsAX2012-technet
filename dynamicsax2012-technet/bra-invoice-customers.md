@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Invoice customers
 TOCTitle: (BRA) Invoice customers
 ms:assetid: 18c52d16-bc17-48d8-b83d-6d0800e9e7bc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710426(v=AX.60)
 ms:contentKeyID: 49384317
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Invoice customers 
@@ -60,5 +62,5 @@ The topics in this section provide information about how to invoice customers.
 [(BRA) Generate fiscal documents for a load](bra-generate-fiscal-documents-for-a-load.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

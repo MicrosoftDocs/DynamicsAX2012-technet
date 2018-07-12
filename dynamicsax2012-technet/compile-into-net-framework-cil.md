@@ -1,4 +1,4 @@
-﻿---
+---
 title: Compile into .NET Framework CIL
 TOCTitle: Compile into .NET Framework CIL
 ms:assetid: f680b5f3-5b33-408f-8faf-36bb1f766988
@@ -42,5 +42,5 @@ You may have to run the **Compile into .NET Framework CIL** task in the followin
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

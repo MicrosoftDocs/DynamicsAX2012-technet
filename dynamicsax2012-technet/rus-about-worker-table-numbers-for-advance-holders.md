@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About worker table numbers for advance holders
 TOCTitle: (RUS) About worker table numbers for advance holders
 ms:assetid: 355f9943-f1cc-4aa2-8732-b3b06bbc26df
@@ -10,6 +10,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - advance holders
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About worker table numbers for advance holders 
@@ -30,5 +32,5 @@ Transactions for these workers can be posted by using advance holder accounts. T
 [(RUS) Transaction settlements (form)](https://technet.microsoft.com/en-us/library/jj711614\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

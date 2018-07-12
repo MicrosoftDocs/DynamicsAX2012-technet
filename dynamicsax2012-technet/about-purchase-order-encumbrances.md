@@ -1,4 +1,4 @@
-﻿---
+---
 title: About purchase order encumbrances
 TOCTitle: About purchase order encumbrances
 ms:assetid: 80dd88b0-7397-42e6-aaa2-9b634a67c5c5
@@ -11,6 +11,8 @@ f1_keywords:
 - enable encumbrance process
 - pre-encumbrance
 - encumbrance
+audience: Application User
+ms.search.region: Global
 ---
 
 # About purchase order encumbrances 
@@ -49,5 +51,5 @@ The purchasing agent for your organization creates a purchase order for a 10,000
 [Encumber purchase orders](encumber-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

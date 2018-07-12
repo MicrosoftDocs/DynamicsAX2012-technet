@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate the Return report from storage (MX-3)
 TOCTitle: (RUS) Generate the Return report from storage (MX-3)
 ms:assetid: 795740f3-15fc-4f62-8328-2cd75438cd64
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733245(v=AX.60)
 ms:contentKeyID: 49685212
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate the Return report from storage (MX-3) 
@@ -48,5 +50,5 @@ The Return report from storage (MX-3) is generated in Microsoft Excel format.
 [(RUS) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj733272\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

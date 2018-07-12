@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up parameters for SPED ECD text files
 TOCTitle: (BRA) Set up parameters for SPED ECD text files
 ms:assetid: 639d0f43-b73e-4c0a-ae69-c753511012a3
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.FBTaxStatementSetupParameters_BR
 - MsDynAx060.Forms.FBTaxStatementSetupParameters_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up parameters for SPED ECD text files 
@@ -83,5 +85,5 @@ To set up requirements for SPED ECD fiscal text files, follow these steps:
 [(BRA) Generate the Sintegra tax statement](bra-generate-the-sintegra-tax-statement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

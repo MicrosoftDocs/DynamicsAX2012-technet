@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts payable payments clerk security role (PaymAccountsPayablePaymentsClerk)
 TOCTitle: Accounts payable payments clerk security role (PaymAccountsPayablePaymentsClerk)
 ms:assetid: e5e641ef-8b86-449a-bc1f-fd1029280fbf
@@ -174,5 +174,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

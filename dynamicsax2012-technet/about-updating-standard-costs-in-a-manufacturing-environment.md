@@ -1,4 +1,4 @@
-﻿---
+---
 title: About updating standard costs in a manufacturing environment
 TOCTitle: About updating standard costs in a manufacturing environment
 ms:assetid: 12e6158c-95f5-4381-84d3-7dc5127b7a0f
@@ -14,6 +14,8 @@ f1_keywords:
 - costing
 - standard cost
 - standard costs
+audience: Application User
+ms.search.region: Global
 ---
 
 # About updating standard costs in a manufacturing environment 
@@ -48,5 +50,5 @@ Each case requires careful consideration about how to update standard costs.
 [About updating standard costs for a new manufactured item](about-updating-standard-costs-for-a-new-manufactured-item.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

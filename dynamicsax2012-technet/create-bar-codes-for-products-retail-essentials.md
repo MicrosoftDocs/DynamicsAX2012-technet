@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create bar codes for products (Retail essentials)
 TOCTitle: Create bar codes for products (Retail essentials)
 ms:assetid: a32a03ce-2ee5-450b-a56f-3b8af8f30f04
@@ -50,5 +50,5 @@ To create bar codes for products, follow these steps:
 [Setting up bar codes (Retail essentials)](setting-up-bar-codes-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

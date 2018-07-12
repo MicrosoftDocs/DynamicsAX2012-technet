@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Post a payment with the check method of payment
 TOCTitle: (BRA) Post a payment with the check method of payment
 ms:assetid: a2421cd0-b20d-4656-b20e-903c74a9e20c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923201(v=AX.60)
 ms:contentKeyID: 53382672
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Post a payment with the check method of payment 
@@ -54,5 +56,5 @@ In the **Checks** form, you can view the list of vendor payments that are genera
 [Check (form)](https://technet.microsoft.com/en-us/library/aa588011\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up asset depreciation books
 TOCTitle: Set up asset depreciation books
 ms:assetid: ac87124b-d1ea-4a05-81e3-5c88735e4bfb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498561(v=AX.60)
 ms:contentKeyID: 36058917
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up asset depreciation books 
@@ -32,5 +34,5 @@ Use the **Depreciation books** form to set up depreciation books, which can be u
 [Depreciation book bonus depreciation (form)](https://technet.microsoft.com/en-us/library/aa584809\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

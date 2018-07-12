@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Cancel a shipment with delayed transfer of property
 TOCTitle: (RUS) Cancel a shipment with delayed transfer of property
 ms:assetid: 7499ec98-204c-40e1-a1d7-9c4ad8dc6b10
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911547(v=AX.60)
 ms:contentKeyID: 53382714
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Cancel a shipment with delayed transfer of property 
@@ -60,5 +62,5 @@ You can cancel a shipment for items for which the transfer of property is not re
 [(RUS) Shipment cancellation (form)](https://technet.microsoft.com/en-us/library/jj923572\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

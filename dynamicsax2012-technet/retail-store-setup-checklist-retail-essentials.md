@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail store setup checklist (Retail essentials)
 TOCTitle: Retail store setup checklist (Retail essentials)
 ms:assetid: 4fcb3011-0249-467c-ac13-d7e69bd8a0c7
@@ -26,5 +26,5 @@ The topics in this section provide information about how to use the **Retail sto
 [Reset checklist status to set up another store (Retail essentials)](reset-checklist-status-to-set-up-another-store-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

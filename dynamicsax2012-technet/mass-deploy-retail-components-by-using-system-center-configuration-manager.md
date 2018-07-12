@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mass deploy Retail components by using System Center Configuration Manager
 TOCTitle: Mass deploy Retail components by using System Center Configuration Manager
 ms:assetid: 15ded62a-f6d3-44a4-8fe6-93e7f19ea558
@@ -240,4 +240,3 @@ After computers and deployment information have been defined in Microsoft Dynami
     $configureOfflineExitCode = Invoke-CommandLineExpressionAndGetExitCode -commandLineExpression $configureOfflineCommand -logFile $logFile
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).

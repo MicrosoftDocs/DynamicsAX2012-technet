@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up shipping charges for retail stores (Retail essentials)
 TOCTitle: Set up shipping charges for retail stores (Retail essentials)
 ms:assetid: 85af0fe6-6dd4-43c7-a0cf-d72156166c47
@@ -87,5 +87,5 @@ This topic explains how to set up shipping charges for customer orders that are 
     For example, you add a line for a shipping charge that applies to purchases under $100 and another line for a charge that applies to purchases over $100.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

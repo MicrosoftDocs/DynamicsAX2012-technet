@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up units and unit conversions (Retail essentials)
 TOCTitle: Set up units and unit conversions (Retail essentials)
 ms:assetid: ee3b5eba-7b77-4d45-9523-731e21b696ac
@@ -80,5 +80,5 @@ Use the following steps to set up a conversion for units of measure.
 [Unit conversions (form)](https://technet.microsoft.com/en-us/library/hh209285\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

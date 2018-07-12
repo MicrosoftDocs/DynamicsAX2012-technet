@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor anonymous security role (VendVendorAnonymous)
 TOCTitle: Vendor anonymous security role (VendVendorAnonymous)
 ms:assetid: 3825519a-8064-4c64-8b2d-cd7131f69347
@@ -47,5 +47,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

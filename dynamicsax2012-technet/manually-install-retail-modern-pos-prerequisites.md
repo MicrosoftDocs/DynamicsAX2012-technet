@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manually install Retail Modern POS prerequisites
 TOCTitle: Manually install Retail Modern POS prerequisites
 ms:assetid: 661dc32b-0eae-470e-a21e-085d48e5b384
@@ -109,5 +109,5 @@ You can install Visual Studio Express 2013 to obtain the files, and then manuall
         ```
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

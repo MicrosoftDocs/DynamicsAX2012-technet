@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Accounts payable features"
 TOCTitle: Accounts payable features
 ms:assetid: aaa4e957-c34c-4f42-8b2f-3a1441aef71a
@@ -321,5 +321,5 @@ We have changed and added functionality in the [Accounts payable](accounts-payab
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

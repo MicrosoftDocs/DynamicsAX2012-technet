@@ -1,4 +1,4 @@
-﻿---
+---
 title: Recover a Microsoft Dynamics AX 2012 R2 environment with System Center 2012 Data Protection Manager
 TOCTitle: Recover an AX 2012 R2 environment with DPM
 ms:assetid: 6016640f-782d-489e-983b-9cb9b33badbe
@@ -56,5 +56,5 @@ This section describes issues that you might encounter and how you can recover f
 **Resolution:** Enable throttling for the DPM agent that experiences communication issues. For more information, see [Using Network Bandwidth Usage Throttling](http://technet.microsoft.com/en-us/library/hh758159.aspx). For backups, if you continue to receive this error, a consistency check usually transfers the last bits of data and produces a replica in the **OK** state. We use 3 Mbps as the throttling default. You might want to adjust throttling based on your network bandwidth.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

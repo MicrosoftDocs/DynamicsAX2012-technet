@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate service tax using a vendor payment journal
 TOCTitle: (IND) Calculate service tax using a vendor payment journal
 ms:assetid: 794e811a-1648-49d1-a997-05f97af1d254
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.LedgerJournalTransVendPaym
 - Forms.LedgerJournalTable
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate service tax using a vendor payment journal 
@@ -87,5 +89,5 @@ Use the **Payment journal** form to calculate the service tax for a vendor. You 
 [(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

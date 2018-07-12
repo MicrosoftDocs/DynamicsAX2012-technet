@@ -1,4 +1,4 @@
-﻿---
+---
 title: Explode a BOM from a purchase order line
 TOCTitle: Explode a BOM from a purchase order line
 ms:assetid: 5cb2dc78-685c-4a6f-ab73-67eaeaf58ea4
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - explode a BOM from a purchase order line
 - purchase order line
+audience: Application User
+ms.search.region: Global
 ---
 
 # Explode a BOM from a purchase order line 
@@ -41,5 +43,5 @@ To explode a BOM from a purchase order line, use the following procedure:
 [Explode BOM lines in purchase order (form)](https://technet.microsoft.com/en-us/library/aa500727\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a depreciation register (nonlinear method) for fixed assets
 TOCTitle: (RUS) Set up a depreciation register (nonlinear method) for fixed assets
 ms:assetid: d77c1b56-46b0-45b4-8e69-fce6a5d3a55b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711667(v=AX.60)
 ms:contentKeyID: 49387990
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a depreciation register (nonlinear method) for fixed assets 
@@ -64,5 +66,5 @@ The **FA depreciation (nonlinear method)** register displays the assets that are
 [(RUS) Calculate the fixed assets depreciation (nonlinear method) register](rus-calculate-the-fixed-assets-depreciation-nonlinear-method-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

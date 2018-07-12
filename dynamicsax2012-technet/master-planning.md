@@ -1,4 +1,4 @@
-﻿---
+---
 title: Master planning
 TOCTitle: Master planning
 ms:assetid: 4e2e1079-3a31-49f7-b5ae-240b256b0f32
@@ -17,6 +17,8 @@ f1_keywords:
 - futures messages
 - MRP
 - process planned orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Master planning 
@@ -105,5 +107,5 @@ Master planning can be integrated with the following modules and Microsoft produ
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

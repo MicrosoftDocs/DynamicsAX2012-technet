@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View excise register balances for stock transfer transactions
 TOCTitle: (IND) View excise register balances for stock transfer transactions
 ms:assetid: ebe1211b-be23-4041-980e-998129bfc4fd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710931(v=AX.60)
 ms:contentKeyID: 49386343
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View excise register balances for stock transfer transactions 
@@ -33,5 +35,5 @@ Use these steps to view excise register balances for stock transfer orders.
     The **Excise registers balance inquiry** form displays the excise register balances that were recorded when the most recent excise transaction was posted.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for outlay - realized
 TOCTitle: (RUS) Set up a register for outlay - realized
 ms:assetid: bbbc7c76-ec62-4450-88ce-0320d0b3dc3b
@@ -10,6 +10,8 @@ f1_keywords:
 - set up a register
 - outlay
 - realized outlay
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for outlay - realized 
@@ -70,5 +72,5 @@ The **Outlay - realized** register displays the amount of other expenses that ar
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Activate shipments
 TOCTitle: Activate shipments
 ms:assetid: 1654532a-ac16-460e-8c68-3b2986458ba1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569889(v=AX.60)
 ms:contentKeyID: 36056070
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Activate shipments 
@@ -34,5 +36,5 @@ This topic applies to features in the **Inventory management** module. It does n
 [Complete shipments](complete-shipments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

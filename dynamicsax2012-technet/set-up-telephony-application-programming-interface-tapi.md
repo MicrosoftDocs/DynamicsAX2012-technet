@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Telephony Application Programming Interface (TAPI)
 TOCTitle: Set up Telephony Application Programming Interface (TAPI)
 ms:assetid: b1b17484-bf62-4f26-9875-2c0d4424375f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232395(v=AX.60)
 ms:contentKeyID: 37072066
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up Telephony Application Programming Interface (TAPI) 
@@ -32,5 +34,5 @@ You can set up a Computer Telephony Integration (CTI) system in Microsoft Dynami
 6.  Close the form, and then restart the Microsoft Dynamics AX client.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

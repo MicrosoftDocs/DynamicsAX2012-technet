@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Extend the authorization period for a DFIA license
 TOCTitle: (IND) Extend the authorization period for a DFIA license
 ms:assetid: 6e368379-a1e3-4714-a388-bba4000da113
@@ -11,6 +11,8 @@ f1_keywords:
 - India
 - DFIA
 - authorization period
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Extend the authorization period for a DFIA license 
@@ -63,5 +65,5 @@ The validity period for the authorization is extended, and in the **EXIM Authori
 [(IND) Create extension (form)](https://technet.microsoft.com/en-us/library/jj664454\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

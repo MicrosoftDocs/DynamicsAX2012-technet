@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Microsoft Dynamics AX (upgrade)
 TOCTitle: Install Microsoft Dynamics AX (upgrade)
 ms:assetid: d23c61ae-c1f0-4c29-af2d-79994396d8cc
@@ -21,5 +21,5 @@ You must install Microsoft Dynamics AX 2012 on a new server computer before comp
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

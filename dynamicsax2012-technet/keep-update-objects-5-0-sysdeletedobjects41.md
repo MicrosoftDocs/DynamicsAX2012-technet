@@ -1,4 +1,4 @@
-﻿---
+---
 title: Keep update objects 5.0 (SysDeletedObjects41)
 TOCTitle: Keep update objects 5.0 (SysDeletedObjects41)
 ms:assetid: a43bee7c-1e48-4a50-996e-3113f33e063c
@@ -58,5 +58,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

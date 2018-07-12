@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create quotations
 TOCTitle: Create quotations
 ms:assetid: fa2a4c88-ab4c-40f7-8688-c5b10b7e3f19
@@ -15,6 +15,8 @@ f1_keywords:
 - create salesquotation
 - mass-create
 - quote
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create quotations 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to create quotations.
 [Mass create quotations from a campaign](mass-create-quotations-from-a-campaign.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

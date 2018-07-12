@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) View a customer settlement transaction
 TOCTitle: (LVA) View a customer settlement transaction
 ms:assetid: 70743010-b828-405c-a476-73466a0e17a1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838781(v=AX.60)
 ms:contentKeyID: 50120663
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) View a customer settlement transaction 
@@ -46,5 +48,5 @@ You can journalize and then view settlement transactions and prepayment reversal
 [(LVA) View a vendor settlement transaction](lva-view-a-vendor-settlement-transaction.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

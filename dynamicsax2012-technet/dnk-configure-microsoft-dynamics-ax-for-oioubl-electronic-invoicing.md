@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Configure Microsoft Dynamics AX for OIOUBL electronic invoicing
 TOCTitle: (DNK) Configure Microsoft Dynamics AX for OIOUBL electronic invoicing
 ms:assetid: 4706d9e1-0f3f-4019-a522-bb55a33065eb
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - electronic invoicing
 - OIOUBL
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Configure Microsoft Dynamics AX for OIOUBL electronic invoicing 
@@ -91,5 +93,5 @@ To set up the folders, follow these steps:
 [(DNK) Set up customer accounts for OIOUBL electronic invoicing](dnk-set-up-customer-accounts-for-oioubl-electronic-invoicing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

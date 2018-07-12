@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service subscriptions
 TOCTitle: About service subscriptions
 ms:assetid: 441b3cce-e8ef-43b4-ab56-d934dc51dc3a
@@ -12,6 +12,8 @@ f1_keywords:
 - service subscription
 - subscribing
 - subscription fee
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service subscriptions 
@@ -36,5 +38,5 @@ The period code is defined in the service subscription group. It is defined for 
 [Create service subscriptions from a subscription group](create-service-subscriptions-from-a-subscription-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up the CFOP codes
 TOCTitle: (BRA) Set up the CFOP codes
 ms:assetid: 9441235e-0f15-47bf-8bc9-36c8eb608805
@@ -13,6 +13,8 @@ f1_keywords:
 - CFOP codes
 - set up CFOP codes
 - BR - 00042
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up the CFOP codes 
@@ -157,5 +159,5 @@ Use the following procedure to create CFOP codes.
 [(BRA) Set up the CFOP matrix](bra-set-up-the-cfop-matrix.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

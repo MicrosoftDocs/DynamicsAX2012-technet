@@ -1,4 +1,4 @@
-﻿---
+---
 title: Connector administrator security role (ConnectorAdministrator)
 TOCTitle: Connector administrator security role (ConnectorAdministrator)
 ms:assetid: c956ffb3-22e5-474d-a4f0-771bfeb79804
@@ -48,5 +48,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

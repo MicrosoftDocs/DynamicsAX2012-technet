@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add images and colors to process flow maps
 TOCTitle: Add images and colors to process flow maps
 ms:assetid: c46c0067-989f-491b-b443-021e8aa037b3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597237(v=AX.60)
 ms:contentKeyID: 39519311
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add images and colors to process flow maps 
@@ -54,5 +56,5 @@ The following procedures explain how to add images to represent a process, and h
 3.  On the **Map color** tab, in the **Map color** field, select a color to represent the selected substance category in process flow maps.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up offline profiles (Retail essentials)
 TOCTitle: Set up offline profiles (Retail essentials)
 ms:assetid: d551e524-2b83-4dc2-a135-95a008406452
@@ -81,5 +81,5 @@ Use this procedure to set up the offline scope for an offline profile.
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

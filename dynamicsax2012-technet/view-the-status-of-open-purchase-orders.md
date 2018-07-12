@@ -1,4 +1,4 @@
-﻿---
+---
 title: View the status of open purchase orders
 TOCTitle: View the status of open purchase orders
 ms:assetid: 478d4248-a1db-44e6-9013-3ab88cfb88e7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496996(v=AX.60)
 ms:contentKeyID: 36056909
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View the status of open purchase orders 
@@ -20,5 +22,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 3.  Click the **Purchase order** tab to view vendor information and the order status of the selected purchase order line.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

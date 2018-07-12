@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up promissory notes
 TOCTitle: Set up promissory notes
 ms:assetid: 0309fe79-43fc-491b-b230-1d6ede75367c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569701(v=AX.60)
 ms:contentKeyID: 36055936
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up promissory notes 
@@ -260,5 +262,5 @@ For each vendor that you will pay by using a promissory note, you can set up a d
 [About payment types](about-payment-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

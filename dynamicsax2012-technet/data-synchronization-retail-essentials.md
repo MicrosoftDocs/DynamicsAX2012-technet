@@ -1,4 +1,4 @@
-﻿---
+---
 title: Data synchronization (Retail essentials)
 TOCTitle: Data synchronization (Retail essentials)
 ms:assetid: bd4aee58-0ea4-43c2-846f-34454e3cab6f
@@ -26,5 +26,5 @@ The topics in this section provide information about synchronizing data between 
 [Synchronize data by using batch jobs (Retail essentials)](synchronize-data-by-using-batch-jobs-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

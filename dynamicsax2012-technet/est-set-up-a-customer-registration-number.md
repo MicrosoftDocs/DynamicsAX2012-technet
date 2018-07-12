@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Set up a customer registration number
 TOCTitle: (EST) Set up a customer registration number
 ms:assetid: 48135b92-b8bf-4fb5-9415-2af65279d3a1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710833(v=AX.60)
 ms:contentKeyID: 49385228
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Set up a customer registration number 
@@ -34,5 +36,5 @@ Every Estonian citizen has a unique identification number, which is the personal
 [(EST) Enter a personal ID code for a worker or employee](est-enter-a-personal-id-code-for-a-worker-or-employee.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

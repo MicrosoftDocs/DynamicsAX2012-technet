@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Set up query parameters for cell operations
 TOCTitle: (EEUR) Set up query parameters for cell operations
 ms:assetid: ebaa42bf-63ae-4bca-ae6a-4369b8b29594
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911241(v=AX.60)
 ms:contentKeyID: 52075309
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Set up query parameters for cell operations 
@@ -70,5 +72,5 @@ Use the **Query wizard** form that is provided by the Russian financial reports 
 [(EEUR) Query wizard (form)](https://technet.microsoft.com/en-us/library/jj710772\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

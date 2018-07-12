@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create item sales tax groups
 TOCTitle: Create item sales tax groups
 ms:assetid: e2096e74-7959-4152-b473-af43deb6c91a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - item sales tax group
 - sales tax group
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create item sales tax groups 
@@ -37,5 +39,5 @@ Use the **Item sales tax groups** form to create an item sales tax group.
 [Set up and use sales tax codes](set-up-and-use-sales-tax-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

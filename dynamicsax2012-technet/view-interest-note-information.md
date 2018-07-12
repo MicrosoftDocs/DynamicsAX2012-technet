@@ -1,4 +1,4 @@
-﻿---
+---
 title: View interest note information
 TOCTitle: View interest note information
 ms:assetid: 1ca01337-61f7-4dba-a91e-e08a253ab321
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPCustInterestJournalInfo
 - EPCustInterestJournallist
+audience: Application User
+ms.search.region: Global
 ---
 
 # View interest note information 
@@ -43,5 +45,5 @@ You can use the **Interest notes** page to view a list of interest notes, and th
 [Enterprise Portal and Microsoft Excel](enterprise-portal-and-microsoft-excel.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

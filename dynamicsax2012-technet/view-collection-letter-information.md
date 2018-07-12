@@ -1,4 +1,4 @@
-﻿---
+---
 title: View collection letter information
 TOCTitle: View collection letter information
 ms:assetid: 6aed94fc-5446-401b-b9ea-b624be63edf2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPCustCollectionLettterInfo
 - EPCustCollectionLettterList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View collection letter information 
@@ -41,5 +43,5 @@ If a customer has an overdue balance, your organization might generate and send 
 [Enterprise Portal and Microsoft Excel](enterprise-portal-and-microsoft-excel.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

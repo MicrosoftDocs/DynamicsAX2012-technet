@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up the document type for fiscal document texts
 TOCTitle: (BRA) Set up the document type for fiscal document texts
 ms:assetid: 9f8a02ae-2fd9-4b21-a197-8df36cd4e931
@@ -12,6 +12,8 @@ f1_keywords:
 - fiscal document
 - fiscal document text
 - set up fiscal document text
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up the document type for fiscal document texts 
@@ -46,5 +48,5 @@ You must set up the document type for fiscal document texts before you attach th
 [(BRA) Brazilian parameters (form)](https://technet.microsoft.com/en-us/library/jj822920\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

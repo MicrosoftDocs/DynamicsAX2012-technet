@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: General ledger features"
 TOCTitle: General ledger features
 ms:assetid: 1162f17e-46b7-4b40-8fbe-7f6626e79634
@@ -394,5 +394,5 @@ We have changed and added functionality in the [General ledger](general-ledger.m
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

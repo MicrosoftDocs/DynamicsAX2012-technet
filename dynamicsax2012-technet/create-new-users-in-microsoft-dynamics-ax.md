@@ -1,4 +1,4 @@
-ï»¿---
+---
 title: Create new users in Microsoft Dynamics AX
 TOCTitle: Create new users in Microsoft Dynamics AX
 ms:assetid: 4b742341-9d6e-4629-bbe5-620086b7fee8
@@ -135,5 +135,5 @@ When you import users from AD DS, user IDs are generated automatically. You canâ
 [Assign users to security roles](assign-users-to-security-roles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

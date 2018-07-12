@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Create a statistics procedure
 TOCTitle: (CZE) Create a statistics procedure
 ms:assetid: 74a2ae9b-4ee1-4318-a1ac-b6e6fad6e641
@@ -11,6 +11,8 @@ f1_keywords:
 - commodity code
 - statistic
 - statistics procedure
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Create a statistics procedure 
@@ -31,5 +33,5 @@ You can use statistics procedures to track detailed information for commodity co
 4.  In the **Text 1** and **Text 2** fields, enter a description of the procedure and any other information that is related to the procedure.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Split sales documents
 TOCTitle: (IND) Split sales documents
 ms:assetid: 6e97d0fb-a7bf-4dd8-9559-30c0c9955842
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677904(v=AX.60)
 ms:contentKeyID: 49385880
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Split sales documents 
@@ -91,5 +93,5 @@ When you post the picking list, the site information is the same for the line it
 [(IND) Split purchase documents](ind-split-purchase-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

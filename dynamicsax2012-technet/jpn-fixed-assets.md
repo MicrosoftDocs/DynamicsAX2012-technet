@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Fixed assets
 TOCTitle: (JPN) Fixed assets
 ms:assetid: 35ede893-0ea7-4d47-9174-cba79927ff5b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn313052(v=AX.60)
 ms:contentKeyID: 54936299
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Fixed assets 
@@ -22,5 +24,5 @@ The topics in this section provide more information about Fixed assets.
 [(JPN) Working with fixed assets](jpn-working-with-fixed-assets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

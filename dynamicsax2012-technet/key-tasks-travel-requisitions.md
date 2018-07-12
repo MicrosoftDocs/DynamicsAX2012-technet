@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Travel requisitions'
 TOCTitle: 'Key tasks: Travel requisitions'
 ms:assetid: f8af6df0-7742-40a4-9921-cd439f3fd476
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - TrvRequisitionsWorkerListPage
 - TrvRequisition
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Travel requisitions 
@@ -91,5 +93,5 @@ Back to top
 Back to top
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

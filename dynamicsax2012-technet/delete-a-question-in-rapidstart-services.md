@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete a question in RapidStart Services
 TOCTitle: Delete a question in RapidStart Services
 ms:assetid: 66a7988c-40b8-4502-86cf-b7dff6b773ac
@@ -47,5 +47,5 @@ You can delete a question from a question group if that question is no longer re
 [Move a question in RapidStart Services](move-a-question-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

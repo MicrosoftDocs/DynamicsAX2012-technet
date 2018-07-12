@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: EPBookkeeperRoleCenter'
 TOCTitle: EPBookkeeperRoleCenter
 ms:assetid: a2aa3331-2f65-417d-aef1-50f98f298703
@@ -61,5 +61,5 @@ In Microsoft Dynamics AX, users are assigned to Role Centers based on user profi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

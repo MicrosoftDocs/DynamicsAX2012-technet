@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View posted transactions for a DSA register
 TOCTitle: (IND) View posted transactions for a DSA register
 ms:assetid: 198b00e3-fdde-4c2f-94b8-d03fa53c4332
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - DSA
 - posted transactions
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View posted transactions for a DSA register 
@@ -66,5 +68,5 @@ In Microsoft Dynamics AX 2012, items and products are referred to interchangeabl
 [(IND) Excise register inquiry (form)](https://technet.microsoft.com/en-us/library/jj710979\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

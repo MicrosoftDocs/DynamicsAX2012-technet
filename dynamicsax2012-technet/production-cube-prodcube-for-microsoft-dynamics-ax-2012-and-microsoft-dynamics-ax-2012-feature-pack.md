@@ -1,4 +1,4 @@
-﻿---
+---
 title: Production cube (ProdCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Production cube (ProdCube)
 ms:assetid: dfc15733-9d29-4250-9b13-36cccb718f9e
@@ -711,5 +711,5 @@ The Production cube can be accessed by users assigned to the following Microsoft
   - Production manager
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

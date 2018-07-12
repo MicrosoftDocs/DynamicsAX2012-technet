@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create, modify, or view a cash advance request
 TOCTitle: Create, modify, or view a cash advance request
 ms:assetid: 0edb92bf-21f2-411c-a641-918cce8d8b63
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - TrvRequestCashAdvance
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create, modify, or view a cash advance request 
@@ -54,5 +56,5 @@ You can modify a cash advance request if it has not been submitted for approval.
 2.  In the **Request number** column, click the link for the cash advance request that you want to view.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

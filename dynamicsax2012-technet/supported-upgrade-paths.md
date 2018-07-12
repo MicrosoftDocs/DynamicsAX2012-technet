@@ -1,4 +1,4 @@
-﻿---
+---
 title: Supported upgrade paths
 TOCTitle: Supported upgrade paths
 ms:assetid: db935f79-1199-4518-a588-9da4f4739cd1
@@ -368,5 +368,5 @@ You cannot use an Oracle database together with any version of AX 2012. If you a
 To migrate your data to a SQL Server database, use the Oracle to Microsoft SQL Server Data Migration Assistant for Microsoft Dynamics AX tool. You can download this tool and the *Oracle to Microsoft SQL Server Data Migration Assistant for Microsoft Dynamics AX Installation Guide* from [CustomerSource](https://mbs.microsoft.com/customersource/downloads/servicepacks/ax2009_oracletosql.htm).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

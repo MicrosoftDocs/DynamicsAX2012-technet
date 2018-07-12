@@ -1,4 +1,4 @@
-﻿---
+---
 title: Local and global validation rules
 TOCTitle: Local and global validation rules
 ms:assetid: 329f584b-a5b1-4d84-9891-33e97ba8e0bb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570065(v=AX.60)
 ms:contentKeyID: 36056536
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Local and global validation rules 
@@ -34,5 +36,5 @@ You can create validation rules for both modeling and calculation variables in t
 [About version validity](about-version-validity.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

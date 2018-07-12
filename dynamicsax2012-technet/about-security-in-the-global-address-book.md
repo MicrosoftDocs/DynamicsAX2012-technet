@@ -1,4 +1,4 @@
-﻿---
+---
 title: About security in the global address book
 TOCTitle: About security in the global address book
 ms:assetid: 8a7ce7ac-e482-48d9-892e-b16c08d50660
@@ -114,5 +114,5 @@ For more information about teams, see [Manage teams](manage-teams.md).
 [Create address books](create-address-books.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

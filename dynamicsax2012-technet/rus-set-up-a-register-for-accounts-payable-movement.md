@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for accounts payable movement
 TOCTitle: (RUS) Set up a register for accounts payable movement
 ms:assetid: 674bcaac-50ca-4bf1-9847-0fb359355377
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665463(v=AX.60)
 ms:contentKeyID: 49387550
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for accounts payable movement 
@@ -60,5 +62,5 @@ The register entries reflect all of the taxpayer's accounts payable transactions
 [(RUS) Calculate the accounts payable movement register](rus-calculate-the-accounts-payable-movement-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

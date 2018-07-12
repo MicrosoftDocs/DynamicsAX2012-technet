@@ -1,4 +1,4 @@
-﻿---
+---
 title: Consume item requirements in a project
 TOCTitle: Consume item requirements in a project
 ms:assetid: 861743df-4f43-4913-b14a-e214f1f2ad99
@@ -11,6 +11,8 @@ f1_keywords:
 - sales order
 - item journal
 - item requirements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Consume item requirements in a project 
@@ -55,5 +57,5 @@ If necessary, an item requirement can be partially consumed.
 [Setting up and maintaining sales orders](setting-up-and-maintaining-sales-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

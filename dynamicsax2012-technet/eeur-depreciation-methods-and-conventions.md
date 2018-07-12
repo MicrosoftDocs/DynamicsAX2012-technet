@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Depreciation methods and conventions
 TOCTitle: (EEUR) Depreciation methods and conventions
 ms:assetid: 07fdd3fc-3557-4e70-8eac-8478a41b6d30
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - depreciation
 - depreciation methods
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Depreciation methods and conventions 
@@ -27,5 +29,5 @@ The following topic provides conceptual information about rounding depreciation 
 [Depreciation methods and conventions](depreciation-methods-and-conventions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

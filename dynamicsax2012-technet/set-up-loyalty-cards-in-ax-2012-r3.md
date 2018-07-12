@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up loyalty cards in AX 2012 R3
 TOCTitle: Set up loyalty cards in AX 2012 R3
 ms:assetid: 87b01f2c-e502-4592-8f97-d72d57d0cd7e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailLoyaltyCard
 - Forms.RetailLoyaltyCardListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up loyalty cards in AX 2012 R3 
@@ -76,5 +78,5 @@ Loyalty customers can apply loyalty cards to their online transactions if they s
 [Set up loyalty programs](set-up-loyalty-programs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

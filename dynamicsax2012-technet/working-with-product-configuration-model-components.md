@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with product configuration model components
 TOCTitle: Working with product configuration model components
 ms:assetid: 4a43fa3c-a528-499c-8840-80f631a5c90b
@@ -12,6 +12,8 @@ f1_keywords:
 - product
 - configuration model
 - model components
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with product configuration model components 
@@ -46,5 +48,5 @@ This section provides an overview of product configuration model components.
 [Create calculations](create-calculations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

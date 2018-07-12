@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain your skills
 TOCTitle: Add and maintain your skills
 ms:assetid: 3e2b76c4-e8ce-4d54-8167-2fe082ce6ba6
@@ -10,6 +10,8 @@ f1_keywords:
 - HcmEPPersonSkillCreate
 - HcmEPPersonSkillEdit
 - HcmEPPersonSkillInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain your skills 
@@ -68,5 +70,5 @@ Use the **Competencies** page to add or maintain information about skills that y
 2.  On the **Skills** FastTab, select the skill to delete and then click **Remove**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

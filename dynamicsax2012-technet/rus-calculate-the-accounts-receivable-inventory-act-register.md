@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the accounts receivable inventory act register
 TOCTitle: (RUS) Calculate the accounts receivable inventory act register
 ms:assetid: eab0c3f6-7d40-49d5-8322-4e3bfdc36a6b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711725(v=AX.60)
 ms:contentKeyID: 49388048
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the accounts receivable inventory act register 
@@ -66,5 +68,5 @@ You must set up the **Accounts receivable inventory act** register in the **Tax 
 [(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

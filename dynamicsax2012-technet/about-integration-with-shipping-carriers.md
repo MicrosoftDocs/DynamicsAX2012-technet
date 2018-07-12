@@ -1,4 +1,4 @@
-﻿---
+---
 title: About integration with shipping carriers
 TOCTitle: About integration with shipping carriers
 ms:assetid: 71c6b9a6-b41a-40c0-9dc6-8199ffc2fd9e
@@ -16,6 +16,8 @@ f1_keywords:
 - freight
 - UPS
 - WorldShip
+audience: Application User
+ms.search.region: Global
 ---
 
 # About integration with shipping carriers 
@@ -44,5 +46,5 @@ For detailed information about the shipping carrier software, contact your autho
 [Set up shipping carriers](set-up-shipping-carriers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

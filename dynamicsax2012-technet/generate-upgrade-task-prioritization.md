@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate upgrade task prioritization
 TOCTitle: Generate upgrade task prioritization
 ms:assetid: 5e9bb5bd-cb79-4891-a6d2-e2a308b679b9
@@ -44,5 +44,5 @@ The **Prioritized upgrade scripts** form allows to you to add tables or scripts 
 3.  Enter a custom weight.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

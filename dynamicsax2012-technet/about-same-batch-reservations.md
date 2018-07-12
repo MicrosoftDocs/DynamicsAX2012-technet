@@ -1,4 +1,4 @@
-﻿---
+---
 title: About same batch reservations
 TOCTitle: About same batch reservations
 ms:assetid: ea7616bc-06b4-40c1-844c-df5de4417865
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227481(v=AX.60)
 ms:contentKeyID: 36059854
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About same batch reservations 
@@ -50,5 +52,5 @@ To determine the available quantity of physical inventory, **Process manufacturi
 [Tracking dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209465\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

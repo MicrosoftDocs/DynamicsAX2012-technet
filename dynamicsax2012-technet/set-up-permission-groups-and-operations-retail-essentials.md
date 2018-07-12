@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up permission groups and operations (Retail essentials)
 TOCTitle: Set up permission groups and operations (Retail essentials)
 ms:assetid: 8932d83c-74bf-4f60-ac88-14e8b82954c3
@@ -515,5 +515,5 @@ The following table lists the operations that a staff member can perform in Reta
 [Set up workers (Retail essentials)](set-up-workers-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

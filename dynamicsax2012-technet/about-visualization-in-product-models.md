@@ -1,4 +1,4 @@
-﻿---
+---
 title: About visualization in product models
 TOCTitle: About visualization in product models
 ms:assetid: 72fa34e7-366d-4f00-9ee5-987c8e26a9e2
@@ -11,6 +11,8 @@ f1_keywords:
 - product model
 - product models
 - visualization
+audience: Application User
+ms.search.region: Global
 ---
 
 # About visualization in product models 
@@ -50,5 +52,5 @@ This section contains information about graphics in the **Product information ma
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up functionality profiles
 TOCTitle: Setting up functionality profiles
 ms:assetid: 306cb614-2864-49a2-b3f6-5e19aa37221d
@@ -10,6 +10,8 @@ f1_keywords:
 - profile
 - profiles
 - functionality
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up functionality profiles 
@@ -22,5 +24,5 @@ The topics in this section provide information about how to set up functionality
 [Set up and assign functionality profiles](set-up-and-assign-functionality-profiles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

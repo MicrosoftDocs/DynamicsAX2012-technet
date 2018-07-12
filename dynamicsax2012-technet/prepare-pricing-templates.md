@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prepare pricing templates
 TOCTitle: Prepare pricing templates
 ms:assetid: 05ddf6ed-d9ca-44f8-92ea-46aae1cee6f4
@@ -34,5 +34,5 @@ When you start preprocessing commodity pricing template lines, the **Commodity p
 [About commodity pricing](about-commodity-pricing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Invoice matching configuration key (PurchInvoiceMatching)
 TOCTitle: Invoice matching configuration key (PurchInvoiceMatching)
 ms:assetid: 301ffc0c-ab4c-485b-b0e7-826e1f180112
@@ -154,5 +154,5 @@ For more information about how license codes and configuration keys work togethe
 [Charges configuration key (Markup)](charges-configuration-key-markup.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

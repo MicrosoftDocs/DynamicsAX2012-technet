@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post service tax in purchase transactions by using the Invoice approval journal form
 TOCTitle: (IND) Post service tax in purchase transactions by using the Invoice approval journal form
 ms:assetid: 0325e79f-eac0-46b1-975b-58f7c9a3f548
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.LedgerJournalTransApprove
 - Forms.LedgerJournalTable
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post service tax in purchase transactions by using the Invoice approval journal form 
@@ -75,5 +77,5 @@ Use the **Invoice approval journal** form to create and post a journal to post s
 [(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

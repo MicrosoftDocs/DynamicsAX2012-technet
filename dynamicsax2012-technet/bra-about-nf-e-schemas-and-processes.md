@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About NF-e schemas and processes
 TOCTitle: (BRA) About NF-e schemas and processes
 ms:assetid: f2cdd223-2f5c-4f7a-9892-4c42d8d87781
@@ -15,6 +15,8 @@ f1_keywords:
 - NF-e schema
 - BR - 00021
 - BR - 00007
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About NF-e schemas and processes 
@@ -51,5 +53,5 @@ During the NF-e process, the XML messages are generated depending on the status 
 [(BRA) About the NF-e process](bra-about-the-nf-e-process.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

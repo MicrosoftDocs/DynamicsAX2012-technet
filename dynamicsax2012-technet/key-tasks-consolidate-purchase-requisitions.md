@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Consolidate purchase requisitions'
 TOCTitle: 'Key tasks: Consolidate purchase requisitions'
 ms:assetid: 7d1c7a88-9a03-48fb-9949-6207a37de651
@@ -10,6 +10,8 @@ f1_keywords:
 - purchase requisition
 - purchase requisitions
 - consolidation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Consolidate purchase requisitions 
@@ -193,5 +195,5 @@ Back to top
 [Set up rules for demand consolidation and for creating purchase orders](set-up-rules-for-demand-consolidation-and-for-creating-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

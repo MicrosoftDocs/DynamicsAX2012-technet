@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a button grid (Retail essentials)
 TOCTitle: Set up a button grid (Retail essentials)
 ms:assetid: d0e4ab2f-0916-489c-8b98-03ce7532409a
@@ -66,5 +66,5 @@ To create a button grid, follow these steps:
 [Setting up screen layouts (Retail essentials)](setting-up-screen-layouts-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

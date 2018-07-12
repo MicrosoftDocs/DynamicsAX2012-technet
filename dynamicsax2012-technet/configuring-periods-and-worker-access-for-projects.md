@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring periods and worker access for projects
 TOCTitle: Configuring periods and worker access for projects
 ms:assetid: fc968bc2-f2e0-49d0-81d1-8fc7b30d0234
@@ -8,6 +8,8 @@ ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
 - projects resources
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring periods and worker access for projects 
@@ -28,5 +30,5 @@ The topics in this section provide information about configuring periods and wor
 [Place a period on hold](place-a-period-on-hold.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

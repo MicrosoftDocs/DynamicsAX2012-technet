@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up permissions and operations
 TOCTitle: Set up permissions and operations
 ms:assetid: 99d0bf8d-f3e8-479e-8120-3ecf9d07b085
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597187(v=AX.60)
 ms:contentKeyID: 39519252
 ms.date: 07/29/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up permissions and operations 
@@ -538,5 +540,5 @@ The following table lists the operations that a staff member can perform in Reta
 [About setting up staff](about-setting-up-staff.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

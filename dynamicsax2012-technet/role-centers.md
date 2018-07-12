@@ -1,4 +1,4 @@
-﻿---
+---
 title: Role centers
 TOCTitle: Role centers
 ms:assetid: 060c1fd8-074b-4ea3-ad77-485a9a41c6d9
@@ -11,6 +11,8 @@ f1_keywords:
 - change homepages
 - home pages
 - using EP
+audience: Application User
+ms.search.region: Global
 ---
 
 # Role centers 
@@ -29,5 +31,5 @@ Microsoft Dynamics AX 2012 includes more than two dozen predefined Role centers,
 [Using Role centers](using-role-centers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

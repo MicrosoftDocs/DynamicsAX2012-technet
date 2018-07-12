@@ -1,4 +1,4 @@
-﻿---
+---
 title: About planned answer sessions in questionnaire
 TOCTitle: About planned answer sessions in questionnaire
 ms:assetid: e517d07d-b10f-4265-aa59-49b8729d8794
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551420(v=AX.60)
 ms:contentKeyID: 41702395
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About planned answer sessions in questionnaire 
@@ -48,5 +50,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [Plan an answer session in questionnaire](plan-an-answer-session-in-questionnaire.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

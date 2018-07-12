@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate vendor payments for a currency conversion or transfer
 TOCTitle: (RUS) Generate vendor payments for a currency conversion or transfer
 ms:assetid: 17cf8dd5-d64a-44bb-b1a2-f9c4f7a910be
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923257(v=AX.60)
 ms:contentKeyID: 52075351
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate vendor payments for a currency conversion or transfer 
@@ -58,5 +60,5 @@ You can create a currency sale transaction, and you can calculate the exchange a
 [(RUS) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj733511\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

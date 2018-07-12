@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Payroll accounting reports
 TOCTitle: (RUS) Payroll accounting reports
 ms:assetid: 095e5f9d-2d90-40f0-b82a-61624597a6ca
@@ -21,6 +21,8 @@ f1_keywords:
 - payroll report
 - payslip
 - timesheet report
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Payroll accounting reports 
@@ -796,5 +798,5 @@ Generate and print a document that confirms that a particular stage of a civil c
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

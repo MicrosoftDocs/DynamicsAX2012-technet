@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up date-controlled reservations
 TOCTitle: About setting up date-controlled reservations
 ms:assetid: 698f47c1-7b49-43da-b23d-0cc0404d73a2
@@ -10,6 +10,8 @@ f1_keywords:
 - reservations
 - date-controlled reservations
 - reserve batches
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up date-controlled reservations 
@@ -91,5 +93,5 @@ A sales order that should be automatically reserved and delivered on April 4, 20
 [Set up manual or automatic inventory reservations](set-up-manual-or-automatic-inventory-reservations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

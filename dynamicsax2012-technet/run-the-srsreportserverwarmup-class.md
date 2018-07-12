@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run the SRSReportServerWarmup class
 TOCTitle: Run the SRSReportServerWarmup class
 ms:assetid: f0af28a2-b338-45f9-9b7a-acb85331bc42
@@ -116,5 +116,5 @@ Microsoft Dynamics AX provides sample code to help you create a new method. The 
     When the process is completed, you receive a message that states that the incremental CIL was generated.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About warehouse management journal names
 TOCTitle: About warehouse management journal names
 ms:assetid: 766118a6-b4db-4ce0-8b0f-428a796ae5ed
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550038(v=AX.60)
 ms:contentKeyID: 36058191
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About warehouse management journal names 
@@ -78,5 +80,5 @@ The **Default values** check boxes have three states:
 [Register item receipts with an item arrival journal](register-item-receipts-with-an-item-arrival-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

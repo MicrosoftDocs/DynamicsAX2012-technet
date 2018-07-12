@@ -1,4 +1,4 @@
-﻿---
+---
 title: Garnishment and tax levy enrollment tasks
 TOCTitle: Garnishment and tax levy enrollment tasks
 ms:assetid: 1aacc99e-b198-42fe-8da8-ee633c8076f4
@@ -13,6 +13,8 @@ f1_keywords:
 - tax levies
 - administrative fee
 - administrative fees
+audience: Application User
+ms.search.region: USA
 ---
 
 # Garnishment and tax levy enrollment tasks 
@@ -888,5 +890,5 @@ Back to top
 [Garnishment and tax levy setup tasks](garnishment-and-tax-levy-setup-tasks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

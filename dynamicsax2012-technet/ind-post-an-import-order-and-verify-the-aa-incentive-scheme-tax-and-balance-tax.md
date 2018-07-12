@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post an import order and verify the AA incentive scheme tax and balance tax
 TOCTitle: (IND) Post an import order and verify the AA incentive scheme tax and balance tax
 ms:assetid: 84a1eccd-0019-4b64-976e-1cb1b0b9980b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677981(v=AX.60)
 ms:contentKeyID: 49385944
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post an import order and verify the AA incentive scheme tax and balance tax 
@@ -78,5 +80,5 @@ After you post the invoice, you can view the details of the import order by usin
 [(IND) Tax transactions (form)](https://technet.microsoft.com/en-us/library/jj710906\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

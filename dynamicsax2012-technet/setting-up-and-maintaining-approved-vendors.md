@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining approved vendors
 TOCTitle: Setting up and maintaining approved vendors
 ms:assetid: e41d5a29-e749-4991-b2eb-448ef6d16d31
@@ -11,6 +11,8 @@ f1_keywords:
 - vendors
 - approved vendor
 - process industries
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining approved vendors 
@@ -25,5 +27,5 @@ The topics in this section provide information about how to set up and maintain 
 [Add an approved vendor to an item](add-an-approved-vendor-to-an-item.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

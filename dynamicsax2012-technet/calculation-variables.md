@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calculation variables
 TOCTitle: Calculation variables
 ms:assetid: 754d1008-5bb4-4b6b-addf-5ee3c9de33fc
@@ -10,6 +10,8 @@ f1_keywords:
 - product builder
 - calculation variable
 - calculation variables
+audience: Application User
+ms.search.region: Global
 ---
 
 # Calculation variables 
@@ -49,5 +51,5 @@ This section provides information about calculation variables, their types, and 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

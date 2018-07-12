@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) About titres de recette (Public sector)
 TOCTitle: (FRA) About titres de recette (Public sector)
 ms:assetid: 1550611c-ed0e-4d81-948e-31f52b74d127
@@ -14,6 +14,8 @@ f1_keywords:
 - titre de recette
 - titres
 - titres de recette
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) About titres de recette (Public sector) 
@@ -56,5 +58,5 @@ A group of related titres, together with all supporting documentation, are assig
 [(FRA) Key tasks: Titres de recette and bordereaux de titre (Public sector)](fra-key-tasks-titres-de-recette-and-bordereaux-de-titre-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

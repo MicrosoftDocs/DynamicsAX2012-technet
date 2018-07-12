@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a quantity discount (Retail essentials)
 TOCTitle: Set up a quantity discount (Retail essentials)
 ms:assetid: 4b88fa2c-a8f2-4296-a405-483714c4d24c
@@ -82,5 +82,5 @@ This topic explains how to set up a quantity discount. A quantity discount is a 
 Setting up price adjustments and discounts (Retail Essentials)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with budget planning
 TOCTitle: Working with budget planning
 ms:assetid: 4b4c56d2-7333-411e-a556-eaec63a9aedb
@@ -11,6 +11,8 @@ f1_keywords:
 - working with budget planning
 - budget planning
 - budget plans
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with budget planning 
@@ -25,5 +27,5 @@ The following topics provide information about working with budget planning:
 [Generate budget register entries from budget plans](generate-budget-register-entries-from-budget-plans.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

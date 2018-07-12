@@ -1,4 +1,4 @@
-﻿---
+---
 title: About commodity pricing
 TOCTitle: About commodity pricing
 ms:assetid: df52bf9a-ff1d-46e3-9897-13fcfb0fd526
@@ -13,6 +13,8 @@ f1_keywords:
 - commodity pricing
 - process industries
 - goods
+audience: Application User
+ms.search.region: Global
 ---
 
 # About commodity pricing 
@@ -39,5 +41,5 @@ Commodity pricing functionality lets you pass new costs, price break quantities,
 [Price margin update (form)](https://technet.microsoft.com/en-us/library/hh227659\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

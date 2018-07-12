@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a workflow
 TOCTitle: Create a workflow
 ms:assetid: 5e1cceef-ef9d-4b14-a7fa-9351529e6868
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - workflow
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a workflow 
@@ -78,5 +80,5 @@ When you are ready to save and activate the workflow, follow these steps.
       - If you do not want to activate this version, click **Do not activate the new version**. You can activate the workflow later. For more information, see [Activate a workflow](activate-a-workflow.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

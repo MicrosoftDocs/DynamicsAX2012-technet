@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a contact for an unsolicited vendor
 TOCTitle: Create a contact for an unsolicited vendor
 ms:assetid: c65ccd26-6d65-4b1f-9878-2b6c0348dba4
@@ -14,6 +14,8 @@ f1_keywords:
 - contacts
 - unsolicited vendor
 - vendor contact
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a contact for an unsolicited vendor 
@@ -46,5 +48,5 @@ Use the following steps to create a vendor contact from an existing record for a
 [Key tasks: Work with vendor search and search results](key-tasks-work-with-vendor-search-and-search-results.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 11
 TOCTitle: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 11
 ms:assetid: 622e51eb-f5b2-4414-b5ca-128c82fd802e
@@ -14,5 +14,5 @@ mtps_version: v=AX.60
 This topic links to descriptions of the DCRs and regulatory features that are included in cumulative update 11. [What’s new in Microsoft Dynamics AX 2012 cumulative update 11](http://go.microsoft.com/fwlink/?linkid=808037)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

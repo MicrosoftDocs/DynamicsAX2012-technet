@@ -1,4 +1,4 @@
-﻿---
+---
 title: (GBR) Print report report (TaxReport_UK)
 TOCTitle: (GBR) Print report report (TaxReport_UK)
 ms:assetid: 15a3f99e-b9ae-4d50-858b-58a60cd10815
@@ -114,5 +114,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

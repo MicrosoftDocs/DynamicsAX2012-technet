@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up aggregation parameters for registering POS sales and return transactions in Microsoft Dynamics AX
 TOCTitle: (RUS) Set up aggregation parameters for registering POS sales and return transactions in Microsoft Dynamics AX
 ms:assetid: 0130aa5a-d725-45a8-83f3-f0f11b82b98b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailParameters
 - MsDynAx060.Forms.RetailParameters
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up aggregation parameters for registering POS sales and return transactions in Microsoft Dynamics AX 
@@ -135,5 +137,5 @@ Use this procedure to set up the aggregation parameters that are used to aggrega
 [(RUS) Set up Microsoft Dynamics AX to process returns during a different shift](rus-set-up-microsoft-dynamics-ax-to-process-returns-during-a-different-shift.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

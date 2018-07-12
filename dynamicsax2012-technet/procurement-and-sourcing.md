@@ -1,4 +1,4 @@
-﻿---
+---
 title: Procurement and sourcing
 TOCTitle: Procurement and sourcing
 ms:assetid: 4eee201e-a5d3-4264-be15-c4134829ffec
@@ -23,6 +23,8 @@ f1_keywords:
 - vendor request
 - sourcing
 - purchasing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Procurement and sourcing 
@@ -117,5 +119,5 @@ The Procurement and sourcing module can be integrated with the following modules
 [Working with Procurement and sourcing](working-with-procurement-and-sourcing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

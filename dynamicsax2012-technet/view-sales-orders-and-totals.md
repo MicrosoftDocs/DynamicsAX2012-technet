@@ -1,4 +1,4 @@
-﻿---
+---
 title: View sales orders and totals
 TOCTitle: View sales orders and totals
 ms:assetid: 2ff9f12b-b86a-4ce3-ba6c-daed8236caee
@@ -10,6 +10,8 @@ f1_keywords:
 - EPSalesTableInfo
 - EPSalesTableList
 - EPSalesTotalsAll
+audience: Application User
+ms.search.region: Global
 ---
 
 # View sales orders and totals 
@@ -74,5 +76,5 @@ You can use the **View totals** page to view various totals for a specific sales
 [View customer invoice information](view-customer-invoice-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

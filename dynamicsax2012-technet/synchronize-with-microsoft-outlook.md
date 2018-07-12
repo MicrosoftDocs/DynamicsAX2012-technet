@@ -1,4 +1,4 @@
-﻿---
+---
 title: Synchronize with Microsoft Outlook
 TOCTitle: Synchronize with Microsoft Outlook
 ms:assetid: 0ac7de3b-0de4-4542-9023-fd7035a0e76c
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - microsoft outlook
+audience: Application User
+ms.search.region: Global
 ---
 
 # Synchronize with Microsoft Outlook 
@@ -51,5 +53,5 @@ You can synchronize your contacts, activities, and private and public tasks and 
 [Add and delete contacts for synchronization in Microsoft Dynamics AX and Microsoft Outlook](add-and-delete-contacts-for-synchronization-in-microsoft-dynamics-ax-and-microsoft-outlook.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

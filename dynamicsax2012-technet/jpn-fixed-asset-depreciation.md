@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Fixed asset depreciation
 TOCTitle: (JPN) Fixed asset depreciation
 ms:assetid: e350ea42-7c24-4f06-843b-8a2d04ca028d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn385849(v=AX.60)
 ms:contentKeyID: 56558353
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Fixed asset depreciation 
@@ -196,5 +198,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

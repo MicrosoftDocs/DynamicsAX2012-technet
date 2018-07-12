@@ -1,4 +1,4 @@
-﻿---
+---
 title: Learn about question groups and questions in RapidStart Services
 TOCTitle: Learn about question groups and questions in RapidStart Services
 ms:assetid: e4f51b2a-5c3f-4175-bdf6-7de7fef0f9ab
@@ -141,5 +141,5 @@ Each question type has specific groups of controls that you use to create the qu
 [Data Migration for Microsoft Dynamics AX 2012](https://informationsource.dynamics.com//rfpservicesonline/rfpservicesonline.aspx?docname=data+migration+dynamics+ax+2012%7cqj4jem76642v-8-857)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

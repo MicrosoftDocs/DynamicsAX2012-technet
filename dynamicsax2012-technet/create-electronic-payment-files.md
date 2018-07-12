@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create electronic payment files
 TOCTitle: Create electronic payment files
 ms:assetid: a99a62ee-ea73-416e-8631-1f89717d49eb
@@ -11,6 +11,8 @@ f1_keywords:
 - vendor payment
 - payment file
 - payment files
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create electronic payment files 
@@ -55,5 +57,5 @@ The following topics provide information about creating files that contain elect
 [(AUT, BEL, DEU, ESP, FIN, FRA, ITA, NLD) Create a country/region-specific SEPA credit transfer payment file](aut-bel-deu-esp-fin-fra-ita-nld-create-a-country-region-specific-sepa-credit-transfer-payment-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

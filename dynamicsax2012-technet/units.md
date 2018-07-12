@@ -1,4 +1,4 @@
-﻿---
+---
 title: Units
 TOCTitle: Units
 ms:assetid: 5ba464ef-65f9-4cc9-91bb-525524a94138
@@ -109,5 +109,5 @@ When you start preprocessing units of measure, the **Preprocess units** form lis
 [System parameters](system-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

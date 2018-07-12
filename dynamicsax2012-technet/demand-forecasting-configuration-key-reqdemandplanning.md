@@ -1,4 +1,4 @@
-﻿---
+---
 title: Demand forecasting configuration key (ReqDemandPlanning)
 TOCTitle: Demand forecasting configuration key (ReqDemandPlanning)
 ms:assetid: be0b6859-be00-4a28-a3f8-6bd3b7450026
@@ -141,5 +141,5 @@ For more information about how license codes and configuration keys work togethe
 [Business process: demand forecasting](business-process-demand-forecasting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

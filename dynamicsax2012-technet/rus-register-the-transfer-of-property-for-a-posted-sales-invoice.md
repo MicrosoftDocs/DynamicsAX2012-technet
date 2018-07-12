@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Register the transfer of property for a posted sales invoice
 TOCTitle: (RUS) Register the transfer of property for a posted sales invoice
 ms:assetid: 6d7617a2-3c10-46a4-86d9-c78c04de2489
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853192(v=AX.60)
 ms:contentKeyID: 50396473
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Register the transfer of property for a posted sales invoice 
@@ -48,5 +50,5 @@ Use the **Passing of property** form to register the transfer of property for a 
 [(RUS) Cancel a shipment with delayed transfer of property](rus-cancel-a-shipment-with-delayed-transfer-of-property.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up the SION
 TOCTitle: (IND) Set up the SION
 ms:assetid: 57aab86b-e72f-41a0-936b-227233b3b4f9
@@ -12,6 +12,8 @@ f1_keywords:
 - SION
 - SION form
 - set up sion
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up the SION 
@@ -58,5 +60,5 @@ Use this procedure to set up Standard Input Output Norms (SION), and to assign p
 [(IND) Set up the SION items](ind-set-up-the-sion-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

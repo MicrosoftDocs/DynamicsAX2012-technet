@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan for integration
 TOCTitle: Plan for integration
 ms:assetid: bf482893-ceeb-4430-b8ca-769645153ae3
@@ -99,5 +99,5 @@ Before document exchanges are configured, we recommend that the implementation t
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

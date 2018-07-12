@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Vendor self-service portal
 TOCTitle: Using the Vendor self-service portal
 ms:assetid: 9c7bceac-297f-4cf9-92b2-2e09bf2e0f9c
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - default_VendorPortal
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using the Vendor self-service portal 
@@ -44,5 +46,5 @@ This section contains the following topics:
 [Submit a vendor application](submit-a-vendor-application.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Set up the eGiro method of payment
 TOCTitle: (NOR) Set up the eGiro method of payment
 ms:assetid: 78329917-cc24-4137-b760-2d554d3072b5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213003(v=AX.60)
 ms:contentKeyID: 36058223
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Set up the eGiro method of payment 
@@ -30,5 +32,5 @@ eGiro is an electronic payment method that uses a structured file format to auto
 7.  Close the form to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

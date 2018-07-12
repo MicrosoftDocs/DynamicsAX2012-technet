@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Update an electronic reporting document
 TOCTitle: (RUS) Update an electronic reporting document
 ms:assetid: 4de79954-bf47-46b9-9160-ca327e13a1b7
@@ -10,6 +10,8 @@ f1_keywords:
 - document
 - update
 - electronic reporting
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Update an electronic reporting document 
@@ -50,5 +52,5 @@ Use the **Version** form to update an electronic reporting document after you im
 [(RUS) Version (form)](https://technet.microsoft.com/en-us/library/jj710759\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

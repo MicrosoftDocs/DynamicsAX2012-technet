@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for non-warehoused items
 TOCTitle: (RUS) Set up a register for non-warehoused items
 ms:assetid: 24360cc7-17c7-4032-8697-9d39742a515e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - register
 - non-warehoused items
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for non-warehoused items 
@@ -69,5 +71,5 @@ Use the **Tax registers** form to set up a register for non-warehoused items. Th
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

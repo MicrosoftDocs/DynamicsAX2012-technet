@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Receive an inbound transfer fiscal document
 TOCTitle: (BRA) Receive an inbound transfer fiscal document
 ms:assetid: 362fc005-9735-4134-aad5-fb0a0d08cc36
@@ -13,6 +13,8 @@ f1_keywords:
 - Inbound transfer fiscal documents
 - Receive transfer orders
 - Transfer fiscal documents
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Receive an inbound transfer fiscal document 
@@ -57,5 +59,5 @@ You can click **Inquiries** \> **Transfer order history** in the **Transfer orde
 [Receive (form)](https://technet.microsoft.com/en-us/library/aa552649\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

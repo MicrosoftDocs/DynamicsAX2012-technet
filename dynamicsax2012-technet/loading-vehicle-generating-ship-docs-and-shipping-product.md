@@ -1,4 +1,4 @@
-﻿---
+---
 title: Loading vehicle, generating ship docs and shipping product
 TOCTitle: Loading vehicle, generating ship docs and shipping product
 ms:assetid: bb5abfbb-afcd-441d-a443-92dbe6f0ac0c
@@ -13,6 +13,8 @@ f1_keywords:
 - loading
 - vehicle
 - ship docs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Loading vehicle, generating ship docs and shipping product 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to load vehicles, gener
 [Print packing material weights on invoices](print-packing-material-weights-on-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

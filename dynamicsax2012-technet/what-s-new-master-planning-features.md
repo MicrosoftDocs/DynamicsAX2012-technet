@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Master planning features"
 TOCTitle: Master planning features
 ms:assetid: b024fa61-fc2c-4a44-ad0b-abc93f1e2f4d
@@ -91,5 +91,5 @@ We have changed and added functionality in the [Master planning](master-planning
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

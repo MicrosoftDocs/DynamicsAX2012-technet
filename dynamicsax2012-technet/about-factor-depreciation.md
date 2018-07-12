@@ -1,4 +1,4 @@
-﻿---
+---
 title: About factor depreciation
 TOCTitle: About factor depreciation
 ms:assetid: b45d4fb3-6638-4ce3-8852-6039599ef125
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572027(v=AX.60)
 ms:contentKeyID: 36059075
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About factor depreciation 
@@ -168,5 +170,5 @@ In this case, the depreciation is the same in each period, and you should consid
 [Set up depreciation profiles](set-up-depreciation-profiles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

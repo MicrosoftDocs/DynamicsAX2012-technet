@@ -1,4 +1,4 @@
-﻿---
+---
 title: " year-end closing"
 TOCTitle: " year-end closing"
 ms:assetid: DynamicsAXGlossary.1491629
@@ -29,5 +29,5 @@ An accounting process that occurs at the end of the fiscal year and is used to t
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

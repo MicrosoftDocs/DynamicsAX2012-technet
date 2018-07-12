@@ -1,4 +1,4 @@
-﻿---
+---
 title: About product variants
 TOCTitle: About product variants
 ms:assetid: fef0de51-1a49-480b-8767-2f6bc352dadb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573452(v=AX.60)
 ms:contentKeyID: 39519394
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About product variants 
@@ -99,5 +101,5 @@ The product configuration technology that is associated with a product master co
 [Key tasks: Release products](key-tasks-release-products.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

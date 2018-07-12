@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) About correcting a sales order packing slip before posting an invoice
 TOCTitle: (IND) About correcting a sales order packing slip before posting an invoice
 ms:assetid: 89be5f86-d277-41b9-b333-8b69b0d45dce
@@ -13,6 +13,8 @@ f1_keywords:
 - India
 - IND
 - packing
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) About correcting a sales order packing slip before posting an invoice 
@@ -64,5 +66,5 @@ If the **DSA** check box is selected for the item line, the following changes ar
   - Another line is created in the **DSA** register to reflect the corrected quantity on the packing slip and the recalculated excise tax.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

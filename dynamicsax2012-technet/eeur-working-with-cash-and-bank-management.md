@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Working with Cash and bank management
 TOCTitle: (EEUR) Working with Cash and bank management
 ms:assetid: a507b820-c9e4-4d69-9137-ab12c14f1751
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710747(v=AX.60)
 ms:contentKeyID: 49385144
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Working with Cash and bank management 
@@ -20,5 +22,5 @@ This section provides information about working with the Cash and bank managemen
 [(EEUR) Transfer bank funds overview](eeur-transfer-bank-funds-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

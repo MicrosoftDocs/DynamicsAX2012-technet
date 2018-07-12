@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring Project management and accounting parameters
 TOCTitle: Configuring Project management and accounting parameters
 ms:assetid: bcccac7e-17a8-4494-9f30-e1728b92df62
@@ -11,6 +11,8 @@ f1_keywords:
 - accounting parameters
 - project management parameters
 - project management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring Project management and accounting parameters 
@@ -49,5 +51,5 @@ The following topics provide information about configuring default settings in P
 [Select preferences for collaboration workspaces](select-preferences-for-collaboration-workspaces.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Synchronize the job table
 TOCTitle: Synchronize the job table
 ms:assetid: f0cbf941-d0ed-4380-8439-2284b843ed8b
@@ -11,6 +11,8 @@ f1_keywords:
 - job
 - synchronise
 - synchronize
+audience: Application User
+ms.search.region: Global
 ---
 
 # Synchronize the job table 
@@ -63,5 +65,5 @@ The initial synchronization will update the job table.
 [Synchronize job table (class form)](https://technet.microsoft.com/en-us/library/aa575320\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

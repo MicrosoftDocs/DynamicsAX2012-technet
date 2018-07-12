@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ISL) Update vendor invoice declarations and generate the report
 TOCTitle: (ISL) Update vendor invoice declarations and generate the report
 ms:assetid: cccf1d59-5017-4986-ba85-69acac56f94f
@@ -11,6 +11,8 @@ f1_keywords:
 - declaration
 - Iceland
 - vendor invoice
+audience: Application User
+ms.search.region: Iceland
 ---
 
 # (ISL) Update vendor invoice declarations and generate the report 
@@ -175,5 +177,5 @@ In the **Vendor invoice declaration report** you can view the following informat
 [Vendor invoice pool excluding posting details (form)](https://technet.microsoft.com/en-us/library/bb314782\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up threshold limits
 TOCTitle: (IND) Set up threshold limits
 ms:assetid: 817d5e6c-bc8c-4232-b7c4-49cbef58ff9d
@@ -29,6 +29,8 @@ f1_keywords:
 - MsDynAx060.Forms.ThresholdReference_IN
 - MsDynAx060.Forms.ThresholdDesigner_IN
 - MsDynAx060.Forms.Threshold_IN
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up threshold limits 
@@ -252,5 +254,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upgrade reason codes
 TOCTitle: Upgrade reason codes
 ms:assetid: ffb6c577-5e92-4e2c-8a41-03e0c15ad088
@@ -60,5 +60,5 @@ You can modify the upgraded RFQ reason code IDs to remove the numeric digits. Th
 [About financial reason codes](about-financial-reason-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

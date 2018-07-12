@@ -1,4 +1,4 @@
-﻿---
+---
 title: About backorders
 TOCTitle: About backorders
 ms:assetid: 4cd568f0-9095-4b05-be70-92fd37376102
@@ -16,6 +16,8 @@ f1_keywords:
 - backorder by item
 - backorder by vendor
 - goods delayed
+audience: Application User
+ms.search.region: Global
 ---
 
 # About backorders 
@@ -60,5 +62,5 @@ The overview is also useful for prioritization when products arrive from vendors
 [Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

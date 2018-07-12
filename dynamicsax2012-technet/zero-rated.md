@@ -1,4 +1,4 @@
-﻿---
+---
 title: " zero-rated"
 TOCTitle: " zero-rated"
 ms:assetid: DynamicsAXGlossary.1509859
@@ -19,5 +19,5 @@ Denotes products for which the buyer pays no value-added tax (VAT) and for which
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

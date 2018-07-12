@@ -1,4 +1,4 @@
-﻿---
+---
 title: Block and unblock inventory items
 TOCTitle: Block and unblock inventory items
 ms:assetid: ca766554-5b65-4da5-8332-20279edf8125
@@ -11,6 +11,8 @@ f1_keywords:
 - block item
 - unblock items
 - manual blocking
+audience: Application User
+ms.search.region: Global
 ---
 
 # Block and unblock inventory items 
@@ -51,5 +53,5 @@ For information about how to block items through an inspection process, see [Abo
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

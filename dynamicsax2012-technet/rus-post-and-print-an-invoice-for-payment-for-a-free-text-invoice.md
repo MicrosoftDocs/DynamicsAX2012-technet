@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post and print an invoice for payment for a free text invoice
 TOCTitle: (RUS) Post and print an invoice for payment for a free text invoice
 ms:assetid: 012c9ca3-2098-4d05-90a0-8689878dd35c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711339(v=AX.60)
 ms:contentKeyID: 49387157
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post and print an invoice for payment for a free text invoice 
@@ -91,5 +93,5 @@ With the Invoice for payment for free text invoices function, you can use the **
 [(RUS) Journal of invoices for payment (form)](https://technet.microsoft.com/en-us/library/jj733219\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

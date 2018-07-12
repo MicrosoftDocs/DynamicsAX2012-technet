@@ -1,4 +1,4 @@
-﻿---
+---
 title: Initialization checklists
 TOCTitle: Initialization checklists
 ms:assetid: f7b239e1-2b59-4016-aa62-819fe54471da
@@ -128,5 +128,5 @@ If you are setting up Microsoft Dynamics AX 2012 or Microsoft Dynamics AX 2012 F
   - [Set up Application Integration Framework](set-up-application-integration-framework.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

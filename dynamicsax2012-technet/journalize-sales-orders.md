@@ -1,4 +1,4 @@
-﻿---
+---
 title: Journalize sales orders
 TOCTitle: Journalize sales orders
 ms:assetid: 84c9e4e7-c242-4d6a-ad07-26aee4db8350
@@ -10,6 +10,8 @@ f1_keywords:
 - sales orders
 - sales order
 - journal
+audience: Application User
+ms.search.region: Global
 ---
 
 # Journalize sales orders 
@@ -22,5 +24,5 @@ The topics in this section provide information about how to journalize sales ord
 [About sales order posting types](about-sales-order-posting-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

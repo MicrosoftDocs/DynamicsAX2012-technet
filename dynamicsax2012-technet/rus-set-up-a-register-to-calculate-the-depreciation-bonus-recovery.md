@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register to calculate the depreciation bonus recovery
 TOCTitle: (RUS) Set up a register to calculate the depreciation bonus recovery
 ms:assetid: 53afc360-d66e-40a5-a96c-50ffc9f7109d
@@ -10,6 +10,8 @@ f1_keywords:
 - Set up
 - (RUS)
 - depreciation bonus recovery
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register to calculate the depreciation bonus recovery 
@@ -44,5 +46,5 @@ Use this procedure to set up a register to calculate the depreciation bonus reco
 [(RUS) Calculate the depreciation bonus recovery register](rus-calculate-the-depreciation-bonus-recovery-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change the reservation on a single order
 TOCTitle: Change the reservation on a single order
 ms:assetid: 83629914-bf07-4d2f-bef2-c66d766ab7f5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571561(v=AX.60)
 ms:contentKeyID: 37832515
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change the reservation on a single order 
@@ -85,5 +87,5 @@ A customer calls with a request concerning a load of bricks that they have order
 [Reserve inventory quantities](reserve-inventory-quantities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

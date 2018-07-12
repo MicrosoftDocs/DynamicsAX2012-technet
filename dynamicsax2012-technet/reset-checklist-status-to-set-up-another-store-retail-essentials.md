@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reset checklist status to set up another store (Retail essentials)
 TOCTitle: Reset checklist status to set up another store (Retail essentials)
 ms:assetid: 9c603eb2-1a13-4ff1-b9c9-504f051034a8
@@ -32,5 +32,5 @@ For example, you schedule and run batch jobs to deploy stores A and B. You then 
     Setup data that was created by the previous checklist tasks is deleted.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

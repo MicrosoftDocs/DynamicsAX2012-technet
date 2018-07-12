@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining cost accounting
 TOCTitle: Setting up and maintaining cost accounting
 ms:assetid: 81f9c7bf-d7b4-49b1-a718-1a8f2d7a528c
@@ -13,6 +13,8 @@ f1_keywords:
 - costing
 - cost accounting
 - cost management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining cost accounting 
@@ -55,5 +57,5 @@ The following topics provide information about how to set up cost accounting.
 [Cost accounting](cost-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

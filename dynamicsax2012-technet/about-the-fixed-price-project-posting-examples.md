@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the fixed-price project posting examples
 TOCTitle: About the fixed-price project posting examples
 ms:assetid: d6a5c49d-baab-4c2f-aa5c-c98c4643e246
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - fixed-price
 - project posting
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the fixed-price project posting examples 
@@ -412,5 +414,5 @@ Click the links in the following table to see the various posting examples.
 [Configuring project groups](configuring-project-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

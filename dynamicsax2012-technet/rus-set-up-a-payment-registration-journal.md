@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a payment registration journal
 TOCTitle: (RUS) Set up a payment registration journal
 ms:assetid: cbb1be25-6e06-4db8-95f4-7934cf495b09
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711621(v=AX.60)
 ms:contentKeyID: 49387945
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a payment registration journal 
@@ -36,5 +38,5 @@ Journals are created to register payments. Create a vendor disbursement journal 
 7.  Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

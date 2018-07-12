@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Generate payments with JBA export format
 TOCTitle: (JPN) Generate payments with JBA export format
 ms:assetid: 8a654e80-4304-4ca7-a84c-88675a84a335
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - JP - 00009
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Generate payments with JBA export format 
@@ -46,5 +48,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(JPN) Define the JBA export format for a method of payment](jpn-define-the-jba-export-format-for-a-method-of-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create flex groups for time and attendance
 TOCTitle: Create flex groups for time and attendance
 ms:assetid: 8831b6b7-558c-4f94-a28d-5ac220e7c8a2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498224(v=AX.60)
 ms:contentKeyID: 36058442
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create flex groups for time and attendance 
@@ -42,5 +44,5 @@ If you select the **Based on pay types** check box, the flex balance is calculat
 [About time registration workers](about-time-registration-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

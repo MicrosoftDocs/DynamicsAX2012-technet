@@ -1,4 +1,4 @@
-﻿---
+---
 title: Administering Enterprise Portal
 TOCTitle: Administering Enterprise Portal
 ms:assetid: 178a6faa-1700-45a5-a29b-e411cfce4cfb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271459(v=AX.60)
 ms:contentKeyID: 36384091
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Administering Enterprise Portal 
@@ -30,5 +32,5 @@ Information about how to setup, configure, maintain, and troubleshoot Enterprise
 Information about how to create pages or customize Enterprise Portal is available in the [software development kit](http://go.microsoft.com/fwlink/?linkid=210740).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About traditional financial statements
 TOCTitle: About traditional financial statements
 ms:assetid: 7d79fdd6-ef67-4f35-976a-114530441643
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - financial statements
 - financial statement
+audience: Application User
+ms.search.region: Global
 ---
 
 # About traditional financial statements 
@@ -76,5 +78,5 @@ The following topics explain how to use traditional financial statements.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

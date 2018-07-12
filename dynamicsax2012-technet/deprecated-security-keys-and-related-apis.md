@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Security keys and related APIs'
 TOCTitle: Security keys and related APIs
 ms:assetid: 6532d48c-93b2-4725-acb4-fc36db6049b2
@@ -54,5 +54,5 @@ Security keys are the permissions that control access to functionality in the ap
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

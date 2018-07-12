@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a letter of guarantee request for a project quotation
 TOCTitle: Create a letter of guarantee request for a project quotation
 ms:assetid: f77cf344-7a9b-42ce-a5a9-179d96f927a2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Create the letter of guarantee request for a quotation (Project)
 - Lletter of guarantee request for a quotation (Project)
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a letter of guarantee request for a project quotation 
@@ -63,5 +65,5 @@ You can request a letter of guarantee for a customer using the **Project quotati
 [Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

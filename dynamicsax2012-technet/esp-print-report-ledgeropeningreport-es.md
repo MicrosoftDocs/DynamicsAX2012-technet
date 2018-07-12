@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Print report (LedgerOpeningReport_ES)
 TOCTitle: (ESP) Print report (LedgerOpeningReport_ES)
 ms:assetid: 035e472a-0a2c-435a-81ef-a10913f67321
@@ -128,5 +128,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Transfer opening balances to a new fiscal year](transfer-opening-balances-to-a-new-fiscal-year.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

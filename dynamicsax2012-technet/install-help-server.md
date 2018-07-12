@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install help server
 TOCTitle: Install help server
 ms:assetid: 705de82a-9883-4ff3-831a-1386457e0824
@@ -25,5 +25,5 @@ The following topics explain how to install the Microsoft Dynamics AX Help serve
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

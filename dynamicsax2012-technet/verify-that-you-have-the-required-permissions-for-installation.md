@@ -1,4 +1,4 @@
-﻿---
+---
 title: Verify that you have the required permissions for installation
 TOCTitle: Verify that you have the required permissions for installation
 ms:assetid: 23fa1a7e-5fb1-4c2b-b3ad-ac90b7b8cce8
@@ -222,5 +222,5 @@ In all cases, you must be a member of the **Administrators** group on the local 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

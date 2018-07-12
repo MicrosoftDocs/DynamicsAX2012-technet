@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Create and correct records in the EU sales list
 TOCTitle: (CZE) Create and correct records in the EU sales list
 ms:assetid: 81e7e6eb-2377-4f3a-94eb-e306c5aeea32
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677589(v=AX.60)
 ms:contentKeyID: 49384892
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Create and correct records in the EU sales list 
@@ -32,5 +34,5 @@ Before you create a sales list, you can correct the sales list records to reflec
 [(CZE) EU sales list (modified form)](https://technet.microsoft.com/en-us/library/jj677500\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

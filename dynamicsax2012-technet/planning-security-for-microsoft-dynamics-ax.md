@@ -1,4 +1,4 @@
-﻿---
+---
 title: Planning security for Microsoft Dynamics AX
 TOCTitle: Planning security for Microsoft Dynamics AX
 ms:assetid: 1d7f1bc2-0553-4695-8de7-b45aeb445930
@@ -227,5 +227,5 @@ For information about Microsoft Dynamics AX 2012 database security, see [Data se
 [\[NSA\] The 60 Minute Network Security Guide (First Steps Towards a Secure Network Environment)](http://www.nsa.gov/ia/_files/support/i33-011r-2006.pdf) (PDF)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

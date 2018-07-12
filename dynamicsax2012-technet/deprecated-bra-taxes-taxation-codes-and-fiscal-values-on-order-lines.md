@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) Taxes, taxation codes, and fiscal values on order lines'
 TOCTitle: (BRA) Taxes, taxation codes, and fiscal values on order lines
 ms:assetid: d93696f5-aee8-4a46-ac6f-58ae5c7ee4eb
@@ -55,5 +55,5 @@ For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specifi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

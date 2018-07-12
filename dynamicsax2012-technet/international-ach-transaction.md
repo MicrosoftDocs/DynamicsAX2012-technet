@@ -1,4 +1,4 @@
-﻿---
+---
 title: " international ACH transaction"
 TOCTitle: " international ACH transaction"
 ms:assetid: DynamicsAXGlossary.1509802
@@ -23,5 +23,5 @@ An Automated Clearing House (ACH) funds transfer between an originating party an
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Generate an EHF electronic document for a collection letter
 TOCTitle: (NOR) Generate an EHF electronic document for a collection letter
 ms:assetid: 1c94ddef-2a1c-454f-9806-708c8fbd0b5e
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.CustCollectionLetterNote
 - NO - 00010
 - MsDynAx060.Forms.CustCollectionLetterNote
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Generate an EHF electronic document for a collection letter 
@@ -106,5 +108,5 @@ To post a collection letter for a public sector organization, follow these steps
 [(NOR) EHF electronic documents](nor-ehf-electronic-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: The system architecture of Microsoft Dynamics ERP RapidStart Services
 TOCTitle: The system architecture of Microsoft Dynamics ERP RapidStart Services
 ms:assetid: f17f421f-c52b-4f94-8108-41cb6c9d956c
@@ -48,5 +48,5 @@ Microsoft Dynamics Certified Partners can register to try RapidStart Services be
 [The load architecture of Microsoft Dynamics ERP RapidStart Services](the-load-architecture-of-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

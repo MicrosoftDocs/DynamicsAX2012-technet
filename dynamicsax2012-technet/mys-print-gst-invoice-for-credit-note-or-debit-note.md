@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MYS) Print GST invoice for credit note or debit note
 TOCTitle: (MYS) Print GST invoice for credit note or debit note
 ms:assetid: d75a1a11-dff9-4a43-bd51-aba697a77d39
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn858083(v=AX.60)
 ms:contentKeyID: 63400915
 ms.date: 11/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Malaysia
 ---
 
 # (MYS) Print GST invoice for credit note or debit note 
@@ -129,5 +131,5 @@ To print a GST invoice for the credit note of a project invoice, follow these st
 5.  Click **Print** to print the posted project invoice with the GST invoice.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Update document model in fiscal document type
 TOCTitle: (BRA) Update document model in fiscal document type
 ms:assetid: 2e946677-71a3-412e-a3f1-f8ebce990b7f
@@ -28,5 +28,5 @@ Use the following procedure to upgrade fiscal document models in fiscal document
 [(BRA) Update document model in fiscal document type (form)](https://technet.microsoft.com/en-us/library/jj713624\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Inventory adjustments
 TOCTitle: Inventory adjustments
 ms:assetid: 18395fd3-f23e-453b-b79f-159795729c7a
@@ -13,6 +13,8 @@ f1_keywords:
 - stock
 - cost value
 - on hand
+audience: Application User
+ms.search.region: Global
 ---
 
 # Inventory adjustments 
@@ -29,5 +31,5 @@ The topics in this section provide information about the tasks that are associat
 [Setting up and maintaining inventory close and adjustments](setting-up-and-maintaining-inventory-close-and-adjustments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

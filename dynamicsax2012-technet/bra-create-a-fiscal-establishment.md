@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create a fiscal establishment
 TOCTitle: (BRA) Create a fiscal establishment
 ms:assetid: edce6412-e7ab-4214-8a27-4208ce18e1f1
@@ -10,6 +10,8 @@ f1_keywords:
 - BRA
 - brazil
 - fiscal establishment
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create a fiscal establishment 
@@ -48,5 +50,5 @@ Use this procedure to create one or more fiscal establishments for a legal entit
 [(BRA) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj710585\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

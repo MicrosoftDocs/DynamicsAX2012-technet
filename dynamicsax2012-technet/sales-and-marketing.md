@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sales and marketing
 TOCTitle: Sales and marketing
 ms:assetid: f3c9707a-0c2b-4bd8-9b04-9aace9f04ede
@@ -14,6 +14,8 @@ f1_keywords:
 - prospect
 - marketing
 - opportunity
+audience: Application User
+ms.search.region: Global
 ---
 
 # Sales and marketing 
@@ -115,5 +117,5 @@ Sales and marketing can be integrated with the following Microsoft products:
 [(USA) About Commerce Services](usa-about-commerce-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

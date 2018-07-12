@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budget control activity by project report (Public sector) (ProjAccountDetailHistory)
 TOCTitle: Budget control activity by project report (Public sector) (ProjAccountDetailHistory)
 ms:assetid: 7e8b844d-ad84-4565-9346-766a8c38576a
@@ -175,5 +175,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Budget control account detail history report (Public sector) (BudgetAccountDetailHistory)](budget-control-account-detail-history-report-public-sector-budgetaccountdetailhistory.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

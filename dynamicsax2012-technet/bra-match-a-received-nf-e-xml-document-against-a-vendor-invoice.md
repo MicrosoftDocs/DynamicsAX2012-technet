@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Match a received NF-e XML document against a vendor invoice
 TOCTitle: (BRA) Match a received NF-e XML document against a vendor invoice
 ms:assetid: 9e48008f-a3f7-4884-bd19-78edfebc48f9
@@ -16,6 +16,8 @@ f1_keywords:
 - Forms.VendInvoiceXmlMatch_BR
 - Forms.VendInvoiceXmlMatchApproval_BR
 - Match NF-e XML document
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Match a received NF-e XML document against a vendor invoice 
@@ -392,5 +394,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

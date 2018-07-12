@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor portal administrator security role (VendVendorPortalAdministrator)
 TOCTitle: Vendor portal administrator security role (VendVendorPortalAdministrator)
 ms:assetid: 0548f644-2d08-4a51-a869-e38b4e40e236
@@ -77,5 +77,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

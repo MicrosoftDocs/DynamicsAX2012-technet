@@ -1,4 +1,4 @@
-﻿---
+---
 title: About budgeting on transactions and total amounts
 TOCTitle: About budgeting on transactions and total amounts
 ms:assetid: 9f6459e7-4b11-4cb9-8dd5-571aca65d941
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571741(v=AX.60)
 ms:contentKeyID: 36058759
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About budgeting on transactions and total amounts 
@@ -65,5 +67,5 @@ The following table provides guidance for using the planning tabs in the **Plan 
 [Flexible budgets](flexible-budgets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

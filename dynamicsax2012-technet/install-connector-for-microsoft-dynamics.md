@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Connector for Microsoft Dynamics
 TOCTitle: Install Connector for Microsoft Dynamics
 ms:assetid: ac5e9a21-f216-4c75-953d-db6a8bddab63
@@ -75,5 +75,5 @@ Use this procedure to install Connector. If you install other Microsoft Dynamics
 After you have installed Connector, you must configure the adapter settings for Microsoft Dynamics CRM and Microsoft Dynamics AX. For more information about how to configure adapter settings for Microsoft Dynamics CRM, see the [Installation Guide](http://go.microsoft.com/fwlink/?linkid=325397) (PDF) for Connector. For more information about how to configure adapter settings for Microsoft Dynamics AX, see the [Configuration Guide](http://go.microsoft.com/fwlink/?linkid=325398) (PDF) for the Microsoft Dynamics AX adapter.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

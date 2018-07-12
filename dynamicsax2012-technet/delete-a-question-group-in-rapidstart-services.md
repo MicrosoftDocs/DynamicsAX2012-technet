@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete a question group in RapidStart Services
 TOCTitle: Delete a question group in RapidStart Services
 ms:assetid: 27136859-5e3c-4727-83c6-d951e40a69f5
@@ -51,5 +51,5 @@ You can delete a question group if it is no longer needed in Microsoft Dynamics 
 [Reorder question groups in a RapidStart Services functional area](reorder-question-groups-in-a-rapidstart-services-functional-area.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

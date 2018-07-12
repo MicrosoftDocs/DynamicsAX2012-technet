@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up terms of delivery (Retail essentials)
 TOCTitle: Set up terms of delivery (Retail essentials)
 ms:assetid: 0acebaa8-3467-4674-9159-6cf7a43b73b9
@@ -36,5 +36,5 @@ To set up terms of delivery, follow these steps:
 [Terms of delivery (form)](https://technet.microsoft.com/en-us/library/aa575567\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

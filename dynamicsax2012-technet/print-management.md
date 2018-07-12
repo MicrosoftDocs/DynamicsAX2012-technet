@@ -1,4 +1,4 @@
-﻿---
+---
 title: Print management
 TOCTitle: Print management
 ms:assetid: 171cc27d-d606-4fc9-b346-e20bf049f885
@@ -15,6 +15,8 @@ f1_keywords:
 - printing
 - source document
 - source documents
+audience: Application User
+ms.search.region: Global
 ---
 
 # Print management 
@@ -45,5 +47,5 @@ You use footer text to distinguish the original from the copies. For example, fo
 [Set up footer text for documents](set-up-footer-text-for-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

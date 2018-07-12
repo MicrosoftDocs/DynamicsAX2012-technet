@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage Role Center Web Parts
 TOCTitle: Manage Role Center Web Parts
 ms:assetid: 3741634d-c651-4ad6-9e0b-e4e23475a0aa
@@ -22,5 +22,5 @@ The topics in this section provide information about how to manage Web parts for
 [Manage reports on Role Center pages](manage-reports-on-role-center-pages.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

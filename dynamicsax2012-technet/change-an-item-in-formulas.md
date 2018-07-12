@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change an item in formulas
 TOCTitle: Change an item in formulas
 ms:assetid: 2de8ed70-6aad-4441-91c7-a115e2a3328d
@@ -13,6 +13,8 @@ f1_keywords:
 - edit formula line
 - replace a formula item
 - replace item in a formula
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change an item in formulas 
@@ -81,5 +83,5 @@ The item that you add as a replacement can replace:
 [Change formula item (form)](https://technet.microsoft.com/en-us/library/hh209311\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

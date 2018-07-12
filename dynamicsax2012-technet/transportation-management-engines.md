@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transportation management engines
 TOCTitle: Transportation management engines
 ms:assetid: c1e80525-3ccb-440f-824f-32108f74c53c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn770236(v=AX.60)
 ms:contentKeyID: 62524897
 ms.date: 06/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Transportation management engines 
@@ -242,5 +244,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [Set up transportation management engines](set-up-transportation-management-engines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

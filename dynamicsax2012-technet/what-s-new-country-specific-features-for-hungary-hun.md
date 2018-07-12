@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Hungary (HUN)"
 TOCTitle: Country-specific features for Hungary
 ms:assetid: 3f7618cb-c5fc-48c0-8ccb-5cee86c4063c
@@ -67,5 +67,5 @@ For more information about specific features for Hungary, see [TechNet Library f
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

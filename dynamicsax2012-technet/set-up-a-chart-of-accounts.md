@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a chart of accounts
 TOCTitle: Set up a chart of accounts
 ms:assetid: f397b95f-e662-4204-be6a-8f40792620ec
@@ -10,6 +10,8 @@ f1_keywords:
 - chart of accounts
 - set up a chart of accounts
 - shared chart of accounts
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a chart of accounts 
@@ -42,5 +44,5 @@ Use the **Chart of accounts** form to set up a chart of accounts. You can create
 [Chart of accounts (form)](https://technet.microsoft.com/en-us/library/aa618234\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

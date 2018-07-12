@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'How to: Include a hierarchy in a cube'
 TOCTitle: 'How to: Include a hierarchy in a cube'
 ms:assetid: 63b7a0f8-f779-44cc-9eb3-75d618a3b383
@@ -640,5 +640,5 @@ Edit the business intelligence project in Visual Studio BI. You’ll need to:
     5.  Browse the cube.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

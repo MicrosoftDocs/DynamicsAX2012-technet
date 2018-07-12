@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Enterprise Portal on a single server
 TOCTitle: Install Enterprise Portal on a single server
 ms:assetid: bd70dc6c-4a58-4097-a3cb-0e235528d60e
@@ -202,5 +202,5 @@ This section describes how to install Enterprise Portal by using Setup. If you a
 [Checklists for deploying Enterprise Portal sites](checklists-for-deploying-enterprise-portal-sites.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

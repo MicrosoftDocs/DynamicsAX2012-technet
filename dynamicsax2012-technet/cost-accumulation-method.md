@@ -1,4 +1,4 @@
-﻿---
+---
 title: " cost accumulation method"
 TOCTitle: " cost accumulation method"
 ms:assetid: DynamicsAXGlossary.1403839
@@ -21,5 +21,5 @@ The method used to classify and allocate transformation costs.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

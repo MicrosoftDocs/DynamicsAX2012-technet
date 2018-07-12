@@ -1,4 +1,4 @@
-﻿---
+---
 title: Database Log configuration key  (SysDatabaseLog)
 TOCTitle: Database Log configuration key  (SysDatabaseLog)
 ms:assetid: 2e6f3c1a-01c8-434f-8e76-22def2c2458e
@@ -49,5 +49,5 @@ The following forms are available when the configuration key is enabled.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

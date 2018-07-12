@@ -1,4 +1,4 @@
-﻿---
+---
 title: Travel and expense
 TOCTitle: Travel and expense
 ms:assetid: 1563e8b2-8a7f-4697-bef8-d96045f9729b
@@ -13,6 +13,8 @@ f1_keywords:
 - expense
 - expense reports
 - travel
+audience: Application User
+ms.search.region: Global
 ---
 
 # Travel and expense 
@@ -89,5 +91,5 @@ Travel and expense can be integrated with the following modules and Microsoft pr
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

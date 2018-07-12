@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a relationship between RCOAD and RCM codes
 TOCTitle: (RUS) Create a relationship between RCOAD and RCM codes
 ms:assetid: d7184331-e996-4c0f-9678-37f95c9542cf
@@ -13,6 +13,8 @@ f1_keywords:
 - RCOAD
 - RCM code
 - RCM
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a relationship between RCOAD and RCM codes 
@@ -127,5 +129,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

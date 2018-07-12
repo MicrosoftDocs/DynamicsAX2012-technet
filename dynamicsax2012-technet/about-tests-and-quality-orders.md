@@ -1,4 +1,4 @@
-﻿---
+---
 title: About tests and quality orders
 TOCTitle: About tests and quality orders
 ms:assetid: 4232dd41-7dc2-4695-9e32-931ef863e8de
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - perform test
 - test quantity
+audience: Application User
+ms.search.region: Global
 ---
 
 # About tests and quality orders 
@@ -49,5 +51,5 @@ Additional steps include the definition of sampling plans and the assignment of 
 [About nonconformance](about-nonconformance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

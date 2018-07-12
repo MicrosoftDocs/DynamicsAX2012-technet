@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Sales and marketing
 TOCTitle: Working with Sales and marketing
 ms:assetid: 22bcf5d8-675d-4caa-8ad3-57d63cd37a05
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - sales
 - marketing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Sales and marketing 
@@ -39,5 +41,5 @@ This section provides overviews of the Sales and marketing business process comp
 [(USA) Sell products online with Commerce Services](usa-sell-products-online-with-commerce-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

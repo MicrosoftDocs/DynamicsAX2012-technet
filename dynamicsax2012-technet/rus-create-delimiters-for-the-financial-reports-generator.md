@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create delimiters for the Financial reports generator
 TOCTitle: (RUS) Create delimiters for the Financial reports generator
 ms:assetid: 147e1658-63f6-4ab8-9fec-3d1f873bacfd
@@ -11,6 +11,8 @@ f1_keywords:
 - create delimiters
 - delimites
 - FRG
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create delimiters for the Financial reports generator 
@@ -31,5 +33,5 @@ You can export an electronic report into a text file. In the text file, you can 
 [(RUS) Delimiters (form)](https://technet.microsoft.com/en-us/library/jj911232\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

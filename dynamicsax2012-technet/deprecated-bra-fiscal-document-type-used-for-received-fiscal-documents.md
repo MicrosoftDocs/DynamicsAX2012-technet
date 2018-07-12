@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) Fiscal document type used for received fiscal documents'
 TOCTitle: (BRA) Fiscal document type used for received fiscal documents
 ms:assetid: e99cbf10-004f-46b7-bac3-d18e344c9e5f
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009 for Brazilian installations, a fiscal document typ
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

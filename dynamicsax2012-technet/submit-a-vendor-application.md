@@ -1,4 +1,4 @@
-﻿---
+---
 title: Submit a vendor application
 TOCTitle: Submit a vendor application
 ms:assetid: c74e4838-4e19-426b-b5f3-79597c12b0e1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - VendRequestCompanyRegistration
 - VendRequestCompanyRegistrationInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Submit a vendor application 
@@ -45,5 +47,5 @@ The reviewer evaluates the application that you submit and reviews any attached 
 At the end of the review process, you are notified whether your application has been approved or rejected. If your application is approved, you are authorized to do business in the approved procurement categories and legal entities. If your application is rejected, you can provide additional information and resubmit the application.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

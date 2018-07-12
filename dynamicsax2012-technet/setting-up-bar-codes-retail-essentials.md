@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up bar codes (Retail essentials)
 TOCTitle: Setting up bar codes (Retail essentials)
 ms:assetid: ba52bc9a-6f60-49b7-83f7-d3c791ab0ad8
@@ -32,5 +32,5 @@ The topics in this section provide information about how to set up bar codes for
 [Create bar codes for products (Retail essentials)](create-bar-codes-for-products-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

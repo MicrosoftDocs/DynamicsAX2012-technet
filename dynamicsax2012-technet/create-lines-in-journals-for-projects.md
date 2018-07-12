@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create lines in journals for projects
 TOCTitle: Create lines in journals for projects
 ms:assetid: d18c1c49-b607-438c-88aa-da8e86c74e77
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - fee journal
 - journal line
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create lines in journals for projects 
@@ -75,5 +77,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [Enter a journal description in hour and fee journals](enter-a-journal-description-in-hour-and-fee-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up bar codes
 TOCTitle: About setting up bar codes
 ms:assetid: 2745cf12-876b-482f-8a4c-444d7dd7fda3
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - bar code
 - bar codes
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up bar codes 
@@ -46,5 +48,5 @@ For information about how to print bar codes on labels, see [Generate and print 
 [Setting up retail products](setting-up-retail-products.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

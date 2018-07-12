@@ -1,4 +1,4 @@
-﻿---
+---
 title: About cost prices, sales prices, and transfer prices in projects
 TOCTitle: About cost prices, sales prices, and transfer prices in projects
 ms:assetid: 6c213e6c-b925-4211-a050-80770f99f85c
@@ -8,6 +8,8 @@ ms.date: 10/15/2014
 mtps_version: v=AX.60
 f1_keywords:
 - sales prices
+audience: Application User
+ms.search.region: Global
 ---
 
 # About cost prices, sales prices, and transfer prices in projects 
@@ -378,5 +380,5 @@ Transfer prices are set up for workers, products, projects, legal entities, and 
 [About subscription sales prices](about-subscription-sales-prices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

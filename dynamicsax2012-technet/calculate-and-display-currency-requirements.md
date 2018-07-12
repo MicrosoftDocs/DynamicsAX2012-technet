@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calculate and display currency requirements
 TOCTitle: Calculate and display currency requirements
 ms:assetid: 055834ac-1755-442c-812a-8279e0b6c512
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569713(v=AX.60)
 ms:contentKeyID: 36055952
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Calculate and display currency requirements 
@@ -32,5 +34,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [Set up liquidity accounts](set-up-liquidity-accounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

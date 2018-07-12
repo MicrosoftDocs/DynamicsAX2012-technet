@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a Retail topology to use with deployment tools
 TOCTitle: Set up a Retail topology to use with deployment tools
 ms:assetid: 5820dee2-ddaf-4a32-a891-94587706d3e3
@@ -870,5 +870,5 @@ The retail deployment visualizer shows the deployment profiles that have been se
 The retail topology is arranged in a hierarchy, with the organization at the top, and a branch for each type of retail component. To list the deployment profiles that have been set up for each component, click a component node and then click the **Search** button in the right pane. To add a new deployment profile, select the related component node and then click **Insert** \> **(Component)**. The deployment profile form for that component opens.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

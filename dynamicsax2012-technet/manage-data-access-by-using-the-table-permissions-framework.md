@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage data access by using the Table Permissions Framework
 TOCTitle: Manage data access by using the Table Permissions Framework
 ms:assetid: 101d7291-6637-4519-9859-1b357398939d
@@ -70,5 +70,5 @@ Use the following procedure to determine which roles require access to the table
 Use the **Override permissions** form to grant the role access to the TPF-protected table. For more information, see [Create or modify a security role](create-or-modify-a-security-role.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

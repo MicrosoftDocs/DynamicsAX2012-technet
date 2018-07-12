@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Perform a single translation
 TOCTitle: (RUS) Perform a single translation
 ms:assetid: fbd7b8f5-8fb3-4c02-b9f6-004953b2c58f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923615(v=AX.60)
 ms:contentKeyID: 52075457
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Perform a single translation 
@@ -54,5 +56,5 @@ You can initiate a translation session to save the information for a translation
 [(RUS) Translation wizard (form)](https://technet.microsoft.com/en-us/library/jj733514\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

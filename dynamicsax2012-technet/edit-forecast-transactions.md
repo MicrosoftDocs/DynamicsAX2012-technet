@@ -1,4 +1,4 @@
-﻿---
+---
 title: Edit forecast transactions
 TOCTitle: Edit forecast transactions
 ms:assetid: c7264bc5-a453-46c3-bff4-4dc09d454052
@@ -10,6 +10,8 @@ f1_keywords:
 - forecast transaction
 - change of period
 - modify transaction
+audience: Application User
+ms.search.region: Global
 ---
 
 # Edit forecast transactions 
@@ -58,5 +60,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [Enter forecast transactions](enter-forecast-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

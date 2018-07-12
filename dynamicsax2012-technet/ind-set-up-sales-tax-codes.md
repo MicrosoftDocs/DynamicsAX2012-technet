@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up sales tax codes
 TOCTitle: (IND) Set up sales tax codes
 ms:assetid: f938efdb-19e5-4731-8ba6-e07c4acafbe1
@@ -12,6 +12,8 @@ f1_keywords:
 - (IND)
 - India
 - Set up sales tax codes
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up sales tax codes 
@@ -68,5 +70,5 @@ You can define the sales tax codes for the **India sales tax**, **VAT**, **Excis
 [(IND) Values of sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664855\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

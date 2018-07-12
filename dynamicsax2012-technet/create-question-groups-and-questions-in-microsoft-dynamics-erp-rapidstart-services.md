@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create question groups and questions in Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Create question groups and questions in Microsoft Dynamics ERP RapidStart Services
 ms:assetid: 28f81185-0971-4f4d-9988-ba752479d754
@@ -42,5 +42,5 @@ The topics in this section provide information about creating question groups an
 [Delete a question in RapidStart Services](delete-a-question-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

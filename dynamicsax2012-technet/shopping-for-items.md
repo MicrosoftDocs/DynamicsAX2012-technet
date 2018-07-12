@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shopping for items
 TOCTitle: Shopping for items
 ms:assetid: 9d0577ea-bc54-4351-9520-f2acb0e2bf71
@@ -19,6 +19,8 @@ f1_keywords:
 - product catalog
 - shopping basket
 - shopping cart
+audience: Application User
+ms.search.region: Global
 ---
 
 # Shopping for items 
@@ -43,5 +45,5 @@ This section contains the following topics:
 [View the shopping cart](view-the-shopping-cart.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

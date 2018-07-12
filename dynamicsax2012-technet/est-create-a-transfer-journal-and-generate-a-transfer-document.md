@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Create a transfer journal and generate a transfer document
 TOCTitle: (EST) Create a transfer journal and generate a transfer document
 ms:assetid: d150493e-bc75-481d-9b4a-1cdf9174caea
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664199(v=AX.60)
 ms:contentKeyID: 49385289
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Create a transfer journal and generate a transfer document 
@@ -42,5 +44,5 @@ When a company transfers goods between warehouses, the person in charge of the t
 10. In the **Inventory journal** form, select the journal that was posted, and then click **Print** \> **Journal** to print the journal.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

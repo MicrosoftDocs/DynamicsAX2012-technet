@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for incomes - current period
 TOCTitle: (RUS) Set up a register for incomes - current period
 ms:assetid: 9e7c1660-95c1-47d5-9ff1-d529ee90e5b7
@@ -12,6 +12,8 @@ f1_keywords:
 - set up a register
 - current period income
 - income current period
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for incomes - current period 
@@ -72,5 +74,5 @@ The **Incomes - current period** register contains information about revenue vou
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

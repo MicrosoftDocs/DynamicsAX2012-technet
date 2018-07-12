@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage vendor requests overview
 TOCTitle: Manage vendor requests overview
 ms:assetid: ed3af57c-b639-44ae-8779-2d7fe9ebc7b6
@@ -11,6 +11,8 @@ f1_keywords:
 - vendors
 - vendor request
 - vendor requests
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage vendor requests overview 
@@ -173,5 +175,5 @@ The information in the following table outlines the tasks and statuses for a pro
 [Key tasks: Manage vendor status change requests](key-tasks-manage-vendor-status-change-requests.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

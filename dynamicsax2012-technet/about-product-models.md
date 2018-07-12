@@ -1,4 +1,4 @@
-﻿---
+---
 title: About product models
 TOCTitle: About product models
 ms:assetid: a88d03bf-435f-4030-962f-9fcaec530335
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550313(v=AX.60)
 ms:contentKeyID: 36676402
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About product models 
@@ -42,5 +44,5 @@ When you develop a product model in Product Builder, you extend the code base of
 [About product builder items](about-product-builder-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

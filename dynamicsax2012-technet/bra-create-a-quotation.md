@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create a quotation
 TOCTitle: (BRA) Create a quotation
 ms:assetid: 1f9fdcbf-1ddc-4619-aaa4-ae5efadf2ae6
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - create sales quotations
 - BR - 00030
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create a quotation 
@@ -56,5 +58,5 @@ When you create a quotation line, you can select a CFOP code in the **CFOP** fie
 When you receive an approval from the customer or prospective customer, you can confirm the quotation. For more information, see [Update a quotation](update-a-quotation.md). After you confirm the sales quotation, a sales order is created for the quotation in the **Sales order** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

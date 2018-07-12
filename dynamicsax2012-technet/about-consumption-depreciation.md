@@ -1,4 +1,4 @@
-﻿---
+---
 title: About consumption depreciation
 TOCTitle: About consumption depreciation
 ms:assetid: 4aa76bd0-811b-44b1-a1bb-0e27701553e3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497011(v=AX.60)
 ms:contentKeyID: 36676386
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About consumption depreciation 
@@ -98,5 +100,5 @@ Estimated quantity \* Percentage \* Unit depreciation
 [Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620341\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

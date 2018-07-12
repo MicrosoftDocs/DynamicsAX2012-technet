@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up product search options
 TOCTitle: Set up product search options
 ms:assetid: c61118c1-e2c0-4dbd-a3d3-f2da7e031364
@@ -14,6 +14,8 @@ f1_keywords:
 - product search
 - product availability
 - search for products
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up product search options 
@@ -113,5 +115,5 @@ If you don't have access to the pages that are used to complete this task, conta
 Create a sales order in Call center
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

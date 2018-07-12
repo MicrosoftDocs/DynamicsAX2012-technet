@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prerequisites for standard costs
 TOCTitle: Prerequisites for standard costs
 ms:assetid: 32d2dae5-53a6-4572-8d67-301680c12eb1
@@ -12,6 +12,8 @@ f1_keywords:
 - costing
 - standard cost
 - standard costs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Prerequisites for standard costs 
@@ -72,5 +74,5 @@ To set up standard costs, follow these steps:
 [About costing versions](about-costing-versions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

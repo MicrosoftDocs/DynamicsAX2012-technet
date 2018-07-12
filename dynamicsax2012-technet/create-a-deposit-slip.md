@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a deposit slip
 TOCTitle: Create a deposit slip
 ms:assetid: 05b7745d-61cb-492d-858f-f9b273e11077
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - deposit slip
 - generating deposit slip
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a deposit slip 
@@ -56,5 +58,5 @@ Use deposit slips to deposit payments that were made in a journal into bank acco
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

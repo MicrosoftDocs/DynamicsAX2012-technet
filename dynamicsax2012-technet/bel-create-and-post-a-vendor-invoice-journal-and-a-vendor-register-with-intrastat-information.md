@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Create and post a vendor invoice journal and a vendor register with Intrastat information
 TOCTitle: (BEL) Create and post a vendor invoice journal and a vendor register with Intrastat information
 ms:assetid: 25d8b505-2c4e-4e55-a395-082b8cd98c33
@@ -11,6 +11,8 @@ f1_keywords:
 - vendor invoice
 - Intrastat
 - vendor register
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Create and post a vendor invoice journal and a vendor register with Intrastat information 
@@ -67,5 +69,5 @@ Before you generate an Intrastat declaration, complete the following:
 [Compression of Intrastat (form)](https://technet.microsoft.com/en-us/library/aa584795\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining batch attributes
 TOCTitle: Setting up and maintaining batch attributes
 ms:assetid: 9f028992-c7be-4db8-8ccd-c09c43b0dc8f
@@ -10,6 +10,8 @@ f1_keywords:
 - attribute
 - batch
 - batch attributes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining batch attributes 
@@ -32,5 +34,5 @@ The topics in this section provide information about how to set up and maintain 
 [Add values to an enumerate type batch attribute](add-values-to-an-enumerate-type-batch-attribute.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

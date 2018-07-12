@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set effective dates and view inactive addresses for party record
 TOCTitle: Set effective dates and view inactive addresses for party record
 ms:assetid: 76e2e58d-f20f-4a92-92a3-e8ab15e44854
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545523(v=AX.60)
 ms:contentKeyID: 37832508
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set effective dates and view inactive addresses for party record 
@@ -58,5 +60,5 @@ You can view a party record’s addresses even if the addresses are not active. 
 3.  In the **Manage addresses** form, in the **View** filter, select the address type that you want to view. For example, select **Future** to view the new address of a customer whom you know will be moving to a new office very soon.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

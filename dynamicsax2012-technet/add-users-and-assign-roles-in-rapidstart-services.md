@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add users and assign roles in RapidStart Services
 TOCTitle: Add users and assign roles in RapidStart Services
 ms:assetid: 9b8f8491-022f-434d-a359-3a57ec392139
@@ -78,5 +78,5 @@ The user receives an email message that contains a link that they must click in 
 [Add a Customer administrator to a service in RapidStart Services](add-a-customer-administrator-to-a-service-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

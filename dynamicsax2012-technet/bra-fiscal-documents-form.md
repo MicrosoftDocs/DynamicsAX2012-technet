@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Fiscal documents (form)
 TOCTitle: (BRA) Fiscal documents (form)
 ms:assetid: b5b9fa62-9bbf-4285-a24e-5f5b277ea1ee
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.FBFiscalDocument_BR
 - MsDynAx060.Forms.FBFiscalDocument_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Fiscal documents (form) 
@@ -128,5 +130,5 @@ The following table provides descriptions for the controls in this form.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

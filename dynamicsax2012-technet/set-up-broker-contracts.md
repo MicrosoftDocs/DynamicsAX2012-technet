@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up broker contracts
 TOCTitle: Set up broker contracts
 ms:assetid: 8932fd35-1f4a-40f6-a953-97c848a9edd5
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.CustParameters
 - Forms.RetailMCRChannelListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up broker contracts 
@@ -96,5 +98,5 @@ Use this procedure to add items to a broker contract.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

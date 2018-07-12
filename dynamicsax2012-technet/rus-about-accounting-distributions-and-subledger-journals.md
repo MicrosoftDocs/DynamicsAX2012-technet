@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About accounting distributions and subledger journals
 TOCTitle: (RUS) About accounting distributions and subledger journals
 ms:assetid: 15a7b973-3e2a-4d32-9562-f3ba6256739d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - About accounting distributions and subledger journals
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About accounting distributions and subledger journals 
@@ -29,5 +31,5 @@ An advance report is used to report travel expenses that are incurred by an empl
 [About accounting distributions and subledger journal entries for purchase orders](about-accounting-distributions-and-subledger-journal-entries-for-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

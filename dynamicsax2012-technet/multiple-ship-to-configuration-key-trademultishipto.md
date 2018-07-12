@@ -1,4 +1,4 @@
-﻿---
+---
 title: Multiple ship-to configuration key (TradeMultiShipTo)
 TOCTitle: Multiple ship-to configuration key (TradeMultiShipTo)
 ms:assetid: 0ae56be3-f219-4d86-9d71-126ca9a2275a
@@ -54,5 +54,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add batch attribute actual values to a registered inventory batch
 TOCTitle: Add batch attribute actual values to a registered inventory batch
 ms:assetid: 2ae477ed-8a54-4a4a-bee0-68b29757ef9e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838728(v=AX.60)
 ms:contentKeyID: 50120611
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add batch attribute actual values to a registered inventory batch 
@@ -48,5 +50,5 @@ Use the following procedures to add the actual value of the base inventory batch
 [Report as finished-batch orders (form)](https://technet.microsoft.com/en-us/library/hh328602\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

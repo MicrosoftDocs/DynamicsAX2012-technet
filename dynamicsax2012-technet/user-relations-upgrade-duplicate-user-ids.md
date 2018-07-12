@@ -1,4 +1,4 @@
-﻿---
+---
 title: User relations upgrade duplicate user IDs
 TOCTitle: User relations upgrade duplicate user IDs
 ms:assetid: 3ed6cc30-ae77-4fba-9aa3-1f4af3a8a3b0
@@ -18,5 +18,5 @@ Users can be internal, such as employees, or external, such as vendors, customer
 Use this form to resolve conflicts when multiple user relations are mapped to a single Microsoft Dynamics AX user account. When each user relation has been assigned a unique Microsoft Dynamics AX user account, click **Set to ready for upgrade**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

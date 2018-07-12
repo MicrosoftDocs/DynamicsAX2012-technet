@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up replenishment
 TOCTitle: Set up replenishment
 ms:assetid: 17f53aca-b238-4838-a67f-781366c9e34e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.WHSReplenishmentTemplates
 - Forms.WHSRequestType
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up replenishment 
@@ -363,5 +365,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Run replenishment manually](run-replenishment-manually.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Create and print a free text invoice with bank account details
 TOCTitle: (LVA) Create and print a free text invoice with bank account details
 ms:assetid: 133d6519-eb99-45e5-989a-762093d726a3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721418(v=AX.60)
 ms:contentKeyID: 49729982
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Create and print a free text invoice with bank account details 
@@ -43,5 +45,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 8.  In the **Free text invoice** form, click **Inquiries** \> **Invoice** \> **Preview/Print** \> **Original preview** to view and print the free text invoice.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

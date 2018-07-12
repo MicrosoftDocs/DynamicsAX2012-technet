@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up types of issue and usage rates
 TOCTitle: (RUS) Set up types of issue and usage rates
 ms:assetid: c882934a-0ebb-45f9-a86c-5349fbdedb02
@@ -10,6 +10,8 @@ f1_keywords:
 - issue
 - Russia
 - usage rate
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up types of issue and usage rates 
@@ -42,5 +44,5 @@ Use the **Types of issue and usage rates** form to define the types of issue and
 [(RUS) Set up issue and usage rates for items](rus-set-up-issue-and-usage-rates-for-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

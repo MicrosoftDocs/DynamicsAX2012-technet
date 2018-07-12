@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Sales journals report (LedgerSalesJournalReportBE)
 TOCTitle: (BEL) Sales journals report (LedgerSalesJournalReportBE)
 ms:assetid: c9e95d37-c325-472f-858d-67f9885c46c6
@@ -171,5 +171,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(BEL) Generate journal, sales tax, and purchase sales tax transaction reports](bel-generate-journal-sales-tax-and-purchase-sales-tax-transaction-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

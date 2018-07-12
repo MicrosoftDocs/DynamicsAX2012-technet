@@ -1,4 +1,4 @@
-﻿---
+---
 title: Order status notification configuration key (MCROrderStatusNotification)
 TOCTitle: Order status notification configuration key (MCROrderStatusNotification)
 ms:assetid: 95e21493-dea4-441a-9124-9d8f9be0f1dd
@@ -85,5 +85,5 @@ For more information about how license codes and configuration keys work togethe
 [Call center](call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

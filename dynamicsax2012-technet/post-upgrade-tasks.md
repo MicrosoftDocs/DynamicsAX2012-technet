@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post-upgrade tasks
 TOCTitle: Post-upgrade tasks
 ms:assetid: c0706c3c-0fa0-4bf9-8dce-733aecd9e2b2
@@ -38,5 +38,5 @@ This section contains additional tasks that must be completed after the upgrade 
 [Delete obsolete application objects](delete-obsolete-application-objects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

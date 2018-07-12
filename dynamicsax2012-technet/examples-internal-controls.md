@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Examples: Internal controls'
 TOCTitle: 'Examples: Internal controls'
 ms:assetid: b3024402-11fb-4233-ad73-1f8f9dbf48d4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271625(v=AX.60)
 ms:contentKeyID: 36384257
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Examples: Internal controls 
@@ -332,5 +334,5 @@ An issue identifies a problem with a control. For example, if the **Segregation 
 [About internal controls reports](about-internal-controls-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

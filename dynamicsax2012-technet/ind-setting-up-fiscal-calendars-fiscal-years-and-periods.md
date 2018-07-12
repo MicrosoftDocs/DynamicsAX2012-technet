@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up fiscal calendars, fiscal years, and periods
 TOCTitle: (IND) Setting up fiscal calendars, fiscal years, and periods
 ms:assetid: 4b99859a-0682-4efb-b499-4cdb04dfd78b
@@ -19,6 +19,8 @@ f1_keywords:
 - set up fiscal calendar
 - set up fiscan periods
 - set up fiscal years
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up fiscal calendars, fiscal years, and periods 
@@ -31,5 +33,5 @@ The following topics provide information about setting up and using fiscal calen
 [(IND) Create a day-based fiscal calendar and fiscal year](ind-create-a-day-based-fiscal-calendar-and-fiscal-year.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

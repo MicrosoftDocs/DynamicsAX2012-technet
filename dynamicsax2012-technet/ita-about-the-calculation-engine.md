@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) About the calculation engine
 TOCTitle: (ITA) About the calculation engine
 ms:assetid: 8abe97a3-49ca-46f6-84d6-a7685b33bf70
@@ -10,6 +10,8 @@ f1_keywords:
 - calculate fiscal LIFO
 - fiscal LIFO
 - calculation engine for fiscal LIFO
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) About the calculation engine 
@@ -232,5 +234,5 @@ To control whether WIP items should be included in the calculation, you define t
 The status of a production line must be **Started** or **Reported as finished** to be included in the WIP calculation. You can check the status of a production line in the **Status** field in the **Production orders** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

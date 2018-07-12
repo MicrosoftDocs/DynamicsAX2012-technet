@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up identification types
 TOCTitle: Set up identification types
 ms:assetid: 4816e4a7-1e92-4194-b4b5-72d1150ba43f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - employee identification
 - types of ID
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up identification types 
@@ -57,5 +59,5 @@ You must set up identification types before you can enter identification informa
 [Identification (form)](https://technet.microsoft.com/en-us/library/hh242792\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

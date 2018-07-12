@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Create, confirm, reopen, and print a consolidated vendor invoice
 TOCTitle: (JPN) Create, confirm, reopen, and print a consolidated vendor invoice
 ms:assetid: 4e1feda3-0e27-41b8-802c-ecd587a1bfe4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711045(v=AX.60)
 ms:contentKeyID: 49386457
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Create, confirm, reopen, and print a consolidated vendor invoice 
@@ -51,5 +53,5 @@ When you create a new consolidated invoice, the status is updated to **Unconfirm
 [(JPN) Consolidated invoice (form)](https://technet.microsoft.com/en-us/library/jj711205\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

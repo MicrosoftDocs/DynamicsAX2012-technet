@@ -1,4 +1,4 @@
-﻿---
+---
 title: About statements
 TOCTitle: About statements
 ms:assetid: c83d5d89-d8b2-4624-9f88-1f20f7d67378
@@ -10,6 +10,8 @@ f1_keywords:
 - statement
 - retail statements
 - statements process
+audience: Application User
+ms.search.region: Global
 ---
 
 # About statements 
@@ -104,5 +106,5 @@ If the same store is configured with the **Post as business day** check box clea
 [Stores (form)](https://technet.microsoft.com/en-us/library/hh580646\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

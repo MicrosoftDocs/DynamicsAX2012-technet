@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Set up methods of payment for payment remittance files
 TOCTitle: (ESP) Set up methods of payment for payment remittance files
 ms:assetid: 71c08dcb-3c1d-4cba-8837-3dfa86097097
@@ -10,6 +10,8 @@ f1_keywords:
 - methods of payment
 - VendPaymMode
 - remittance
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Set up methods of payment for payment remittance files 
@@ -66,5 +68,5 @@ You can set up remittance formats, Single European Payment Area (SEPA) credit tr
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

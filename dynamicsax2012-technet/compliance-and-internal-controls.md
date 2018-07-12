@@ -1,4 +1,4 @@
-﻿---
+---
 title: Compliance and internal controls
 TOCTitle: Compliance and internal controls
 ms:assetid: c444c03b-1240-436f-8345-2862cc30134e
@@ -15,6 +15,8 @@ f1_keywords:
 - substance
 - environmental sustainability
 - footprint
+audience: Application User
+ms.search.region: Global
 ---
 
 # Compliance and internal controls 
@@ -95,5 +97,5 @@ In business, compliance generally refers to the requirement to follow certain ru
 The **Compliance** site provides a central location for users in your organization to manage the internal controls, business process content, and reporting for your organization's compliance program.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

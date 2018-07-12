@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rearrange items before loading
 TOCTitle: Rearrange items before loading
 ms:assetid: 2bb1f989-501d-468d-beab-8fd9a0162a67
@@ -10,6 +10,8 @@ f1_keywords:
 - item rearrangement
 - load items
 - move items
+audience: Application User
+ms.search.region: Global
 ---
 
 # Rearrange items before loading 
@@ -44,5 +46,5 @@ You can rearrange or move items that have been picked and delivered to the stagi
 [Unpick items before loading](unpick-items-before-loading.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

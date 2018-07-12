@@ -1,4 +1,4 @@
-﻿---
+---
 title: How to work with the reports that are provided by Microsoft Dynamics AX
 TOCTitle: How to work with the reports that are provided by Microsoft Dynamics AX
 ms:assetid: 6c9c9045-2431-4e1c-a209-0caab9ec8577
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - report
 - reports
+audience: Application User
+ms.search.region: Global
 ---
 
 # How to work with the reports that are provided by Microsoft Dynamics AX 
@@ -31,5 +33,5 @@ Microsoft Dynamics AX provides hundreds of preconfigured reports that you can us
 [Sort the data on a report](sort-the-data-on-a-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

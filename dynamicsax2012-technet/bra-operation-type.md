@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Operation type
 TOCTitle: (BRA) Operation type
 ms:assetid: 2f83aef2-18f5-4611-87ff-a714d1ba37ef
@@ -42,5 +42,5 @@ Use the following procedure to update the identification codes for the sales and
 [(BRA) Resolve purchase and sales operation type ID conflicts (form)](https://technet.microsoft.com/en-us/library/jj713626\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

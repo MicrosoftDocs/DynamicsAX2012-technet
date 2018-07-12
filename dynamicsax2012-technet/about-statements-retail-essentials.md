@@ -1,4 +1,4 @@
-﻿---
+---
 title: About statements (Retail essentials)
 TOCTitle: About statements (Retail essentials)
 ms:assetid: 7cb97e26-2cdb-43c1-ba3f-101df9e56636
@@ -85,5 +85,5 @@ If the same store is configured with the **Post as business day** check box clea
 [Stores (form)](https://technet.microsoft.com/en-us/library/hh580646\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create, copy, or delete a lead
 TOCTitle: Create, copy, or delete a lead
 ms:assetid: f6beb18a-106f-40e9-9195-75404c027f3c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - lead
 - leads
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create, copy, or delete a lead 
@@ -55,5 +57,5 @@ When you delete a lead, you can also delete all associated activities, documents
 [Lead management](lead-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

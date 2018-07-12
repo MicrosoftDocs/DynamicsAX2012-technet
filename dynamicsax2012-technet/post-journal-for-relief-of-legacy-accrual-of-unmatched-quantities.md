@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post journal for relief of legacy accrual of unmatched quantities
 TOCTitle: Post journal for relief of legacy accrual of unmatched quantities
 ms:assetid: 01d42503-362a-4a9b-88ca-3f3325714991
@@ -28,5 +28,5 @@ Use this procedure to post a journal that relieves any legacy accrual accounting
 5.  Click **OK** to post the journal or start the batch job.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

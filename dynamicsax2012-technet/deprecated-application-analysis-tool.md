@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Application Analysis Tool'
 TOCTitle: Application Analysis Tool
 ms:assetid: 1bf29039-7f88-4bc5-b50c-32e668cce657
@@ -43,5 +43,5 @@ The Application Analysis Tool for Microsoft Dynamics AX 2012 let developers easi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

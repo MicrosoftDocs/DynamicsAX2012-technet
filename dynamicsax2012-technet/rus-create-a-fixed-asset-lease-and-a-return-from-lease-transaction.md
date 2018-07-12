@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a fixed asset lease and a return from lease transaction
 TOCTitle: (RUS) Create a fixed asset lease and a return from lease transaction
 ms:assetid: 4ed19934-55ba-409c-8121-1f50dcf15ec1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665372(v=AX.60)
 ms:contentKeyID: 49387460
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a fixed asset lease and a return from lease transaction 
@@ -121,5 +123,5 @@ You can register the return of a leased fixed asset in the same way that you reg
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

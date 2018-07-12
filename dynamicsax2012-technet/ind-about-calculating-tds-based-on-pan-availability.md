@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) About calculating TDS based on PAN availability
 TOCTitle: (IND) About calculating TDS based on PAN availability
 ms:assetid: 88e88c5b-efea-4550-b438-b832bdb56429
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678001(v=AX.60)
 ms:contentKeyID: 49385961
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) About calculating TDS based on PAN availability 
@@ -40,5 +42,5 @@ You must also complete the following procedures to calculate and deduct TDS base
   - [(IND) Define withholding tax information for vendors](ind-define-withholding-tax-information-for-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

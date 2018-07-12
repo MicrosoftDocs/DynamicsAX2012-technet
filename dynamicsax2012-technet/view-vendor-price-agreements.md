@@ -1,4 +1,4 @@
-﻿---
+---
 title: View vendor price agreements
 TOCTitle: View vendor price agreements
 ms:assetid: 6e4fb773-9aba-49af-ad1c-f77dc77dfe4a
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPPriceDiscTableListPurch
+audience: Application User
+ms.search.region: Global
 ---
 
 # View vendor price agreements 
@@ -24,5 +26,5 @@ You can use the **Price agreements** page to view a list of prices and discounts
 3.  For each price agreement that you select, you can view more details in the preview pane.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

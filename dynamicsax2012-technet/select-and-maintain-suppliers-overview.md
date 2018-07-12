@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select and maintain suppliers overview
 TOCTitle: Select and maintain suppliers overview
 ms:assetid: 196a65e4-52f8-427c-8809-2756914cf770
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - supplier
 - suppliers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select and maintain suppliers overview 
@@ -137,5 +139,5 @@ The following table lists the forms that support the select and maintain supplie
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

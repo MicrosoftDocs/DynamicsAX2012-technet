@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Mexico (MEX)"
 TOCTitle: Country-specific features for Mexico
 ms:assetid: ded8ca28-8b3a-49ec-98f1-2e0795c6c9b4
@@ -105,5 +105,5 @@ You can set up and generate the general ledger XML files version 1.1 as required
   - Auxiliary account list
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About redistributing manually assigned hours for a work breakdown structure in AX 2012 R3
 TOCTitle: About redistributing manually assigned hours for a work breakdown structure in AX 2012 R3
 ms:assetid: 0b7cf6a6-d893-43ef-9481-7805848f3379
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn783114(v=AX.60)
 ms:contentKeyID: 62830461
 ms.date: 08/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About redistributing manually assigned hours for a work breakdown structure in AX 2012 R3 
@@ -152,5 +154,5 @@ Any time you remove workers from a WBS task assignment, it is a good practice to
 [Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with approved vendors
 TOCTitle: Working with approved vendors
 ms:assetid: 65ad66df-1115-4aa6-a20e-b10c75b1c257
@@ -11,6 +11,8 @@ f1_keywords:
 - vendors
 - process industries
 - approved vendors
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with approved vendors 
@@ -43,5 +45,5 @@ The topics in this section provide information about how to work with vendors in
 [Working with batch attributes](working-with-batch-attributes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

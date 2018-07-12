@@ -1,4 +1,4 @@
-﻿---
+---
 title: Category consumption (2 periods) report (ProjConsumCateg2Prd)
 TOCTitle: Category consumption (2 periods) report (ProjConsumCateg2Prd)
 ms:assetid: 6c2cee95-9986-4513-bfd4-86b78f6905f5
@@ -168,5 +168,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Submit a batch processing job from a form](submit-a-batch-processing-job-from-a-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

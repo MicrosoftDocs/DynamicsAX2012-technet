@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Mandat de paiement report (Public sector) (VendDirective_PSN)
 TOCTitle: (FRA) Mandat de paiement report (Public sector) (VendDirective_PSN)
 ms:assetid: b61b0d8d-d37f-44c4-bba7-1dde10b81590
@@ -182,5 +182,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(FRA) Bordereau de mandat report (Public sector) (VendRoutingSlipReport\_PSN)](fra-bordereau-de-mandat-report-public-sector-vendroutingslipreport-psn.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

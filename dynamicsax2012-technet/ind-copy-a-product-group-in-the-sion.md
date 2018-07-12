@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Copy a product group in the SION
 TOCTitle: (IND) Copy a product group in the SION
 ms:assetid: 55ddba81-eb2d-422a-9fe8-41ee889686db
@@ -12,6 +12,8 @@ f1_keywords:
 - product group
 - copy product group
 - SION form
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Copy a product group in the SION 
@@ -42,5 +44,5 @@ You can assign a product group to your organization’s Standard Input Output No
 [(IND) SION (form)](https://technet.microsoft.com/en-us/library/jj710966\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

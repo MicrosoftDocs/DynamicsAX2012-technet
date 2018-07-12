@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure and manage database logging
 TOCTitle: Configure and manage database logging
 ms:assetid: d87a39d4-7cb5-439a-995a-9bd30fb4ffa6
@@ -84,5 +84,5 @@ You can delete database logs. You can select all logs for a particular table, sp
 3.  Use the **Database log cleanup** tab to determine when to run the log cleanup task.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

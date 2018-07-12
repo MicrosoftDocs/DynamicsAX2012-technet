@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Install Commerce Data Exchange: Synch Service (Retail Store Connect)'
 TOCTitle: 'Install Commerce Data Exchange: Synch Service (Retail Store Connect)'
 ms:assetid: fe4c8504-6645-4952-a6bf-20f50fa984ea
@@ -81,5 +81,5 @@ Use this procedure to install Synch Service. If you install other Microsoft Dyna
 10. After the installation is completed, click **Finish** to close the wizard.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

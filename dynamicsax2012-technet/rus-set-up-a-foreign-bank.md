@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a foreign bank
 TOCTitle: (RUS) Set up a foreign bank
 ms:assetid: bf8c3678-d958-488b-89be-d1ed2de73610
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733279(v=AX.60)
 ms:contentKeyID: 49685246
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a foreign bank 
@@ -30,5 +32,5 @@ When you make payments to the foreign bank account of a vendor, the vendor must 
 [(RUS) Payments to foreign bank accounts](rus-payments-to-foreign-bank-accounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

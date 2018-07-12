@@ -1,4 +1,4 @@
-﻿---
+---
 title: Managing purchase information
 TOCTitle: Managing purchase information
 ms:assetid: 19b0930a-0b3d-4de8-a8a6-78afa592102e
@@ -16,6 +16,8 @@ f1_keywords:
 - purchase packing slip
 - purchase transactions
 - view orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Managing purchase information 
@@ -34,5 +36,5 @@ This section contains the following topics:
 [View product receipts](view-product-receipts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

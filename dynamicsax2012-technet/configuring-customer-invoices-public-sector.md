@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring customer invoices (Public sector)
 TOCTitle: Configuring customer invoices (Public sector)
 ms:assetid: 89e42d42-a718-40b0-8d53-82492bc3820a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - public sector
 - configure customer invoice
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Configuring customer invoices (Public sector) 
@@ -25,5 +27,5 @@ The topics in this section explain how to configure customer invoices for public
 [Set up billing code custom fields (Public sector)](set-up-billing-code-custom-fields-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

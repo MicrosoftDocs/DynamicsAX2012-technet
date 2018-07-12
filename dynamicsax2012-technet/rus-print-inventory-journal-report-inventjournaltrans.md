@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Print inventory journal report (InventJournalTrans)
 TOCTitle: (RUS) Print inventory journal report (InventJournalTrans)
 ms:assetid: 7a2d1480-5020-4f43-9287-150846b1f6e7
@@ -146,5 +146,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Inventory journal (form)](https://technet.microsoft.com/en-us/library/aa558607\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

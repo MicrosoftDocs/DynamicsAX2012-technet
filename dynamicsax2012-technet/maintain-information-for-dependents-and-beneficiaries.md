@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain information for dependents and beneficiaries
 TOCTitle: Maintain information for dependents and beneficiaries
 ms:assetid: 8e3466af-19a9-472b-a468-0b194fcd0e5f
@@ -23,6 +23,8 @@ f1_keywords:
 - contact information
 - maintain dependents
 - personal contacts
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain information for dependents and beneficiaries 
@@ -69,5 +71,5 @@ Use the **Personal contacts** form to maintain information about a worker’s co
 [Personal contacts (form)](https://technet.microsoft.com/en-us/library/hh242670\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

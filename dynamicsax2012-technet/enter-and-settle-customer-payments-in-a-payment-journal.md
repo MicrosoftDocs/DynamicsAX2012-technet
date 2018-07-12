@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter and settle customer payments in a payment journal
 TOCTitle: Enter and settle customer payments in a payment journal
 ms:assetid: 3d12ee34-e06d-425e-a64b-5f35fe49081d
@@ -18,6 +18,8 @@ f1_keywords:
 - journal
 - proposal
 - proposals
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enter and settle customer payments in a payment journal 
@@ -64,5 +66,5 @@ The following topics provide information about entering customer payments in a p
 [(USA) Create a payment journal and validate the credit limit for a bank](usa-create-a-payment-journal-and-validate-the-credit-limit-for-a-bank.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

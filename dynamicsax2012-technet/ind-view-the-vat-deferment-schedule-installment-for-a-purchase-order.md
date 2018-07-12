@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View the VAT deferment schedule installment for a purchase order
 TOCTitle: (IND) View the VAT deferment schedule installment for a purchase order
 ms:assetid: f28bcc76-ede0-467f-8a7d-ec05665d4934
@@ -11,6 +11,8 @@ f1_keywords:
 - Forms.VATDefermentDetails_IN
 - VAT deferment transactions
 - MsDynAx060.Forms.VATDefermentDetails_IN
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View the VAT deferment schedule installment for a purchase order 
@@ -53,5 +55,5 @@ VAT deferment installments are calculated based on the deferment schedule for th
 [(IND) View VAT deferment transactions](ind-view-vat-deferment-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

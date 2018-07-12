@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Process the sale of items to salespersons
 TOCTitle: (BRA) Process the sale of items to salespersons
 ms:assetid: d6e62d6c-d0a2-443c-84ef-b887f4f58046
@@ -10,6 +10,8 @@ f1_keywords:
 - BRA
 - Brazil
 - sale of goods
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Process the sale of items to salespersons 
@@ -69,5 +71,5 @@ You can record the items that are issued to a salesperson by using a sales order
 [(BRA) Sales posting (modified form)](https://technet.microsoft.com/en-us/library/jj853383\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Post and print a returned package report
 TOCTitle: (POL) Post and print a returned package report
 ms:assetid: 8bc3cd83-8cd7-4dd5-b4b1-7716e7d71a06
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Poland
 - returned package
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Post and print a returned package report 
@@ -65,5 +67,5 @@ You can use the **Packages at customers** report to verify the packages that are
 [(POL) Register a package and verify package quantity for a sales order](pol-register-a-package-and-verify-package-quantity-for-a-sales-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

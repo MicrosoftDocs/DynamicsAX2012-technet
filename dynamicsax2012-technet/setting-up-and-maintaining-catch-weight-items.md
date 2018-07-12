@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining catch weight items
 TOCTitle: Setting up and maintaining catch weight items
 ms:assetid: 370e19c9-a3af-46d4-8a95-f5678bf77044
@@ -11,6 +11,8 @@ f1_keywords:
 - items
 - catch weight
 - process industries
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining catch weight items 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to set up and maintain 
 [Create a catch weight item with full visibility](create-a-catch-weight-item-with-full-visibility.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

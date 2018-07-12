@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) About the EXIM Advance Authorization (AA) incentive scheme
 TOCTitle: (IND) About the EXIM Advance Authorization (AA) incentive scheme
 ms:assetid: 0a967ae7-38bc-4f99-a351-7c188509a92f
@@ -21,6 +21,8 @@ f1_keywords:
 - EXIM Advanced Authorization
 - incentive scheme
 - EXIM
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) About the EXIM Advance Authorization (AA) incentive scheme 
@@ -35,5 +37,5 @@ Advance Authorization (AA) is an export-import (EXIM) incentive scheme. For more
 [(IND) Setting up the EXIM Advance Authorization (AA) incentive scheme](ind-setting-up-the-exim-advance-authorization-aa-incentive-scheme.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

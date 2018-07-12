@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budget manager security role (BudgetBudgetManager)
 TOCTitle: Budget manager security role (BudgetBudgetManager)
 ms:assetid: 60833b73-f679-4777-b40f-e87de6f85c2c
@@ -298,5 +298,5 @@ By default, this security role is assigned the following privilege in Microsoft 
 No privileges are directly assigned to this role in Microsoft Dynamics AX 2012 R2 or Microsoft Dynamics AX 2012 R3.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

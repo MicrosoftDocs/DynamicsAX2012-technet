@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (POL) Polish coloration of chart of account lines'
 TOCTitle: (POL) Polish coloration of chart of account lines
 ms:assetid: 2bb078b5-d2b2-4d8f-a51c-319c9be66350
@@ -53,5 +53,5 @@ For Polish installations, Microsoft Dynamics AX 2009 provides an additional coun
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

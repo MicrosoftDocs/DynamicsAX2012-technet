@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete forecast model transactions
 TOCTitle: Delete forecast model transactions
 ms:assetid: 78e619e1-3bb2-4ee9-8101-6d8a97adf7b0
@@ -10,6 +10,8 @@ f1_keywords:
 - delete
 - budget
 - forecast
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete forecast model transactions 
@@ -38,5 +40,5 @@ To delete a forecast, you must delete forecast transactions from the forecast mo
 [Delete forecasts (class form)](https://technet.microsoft.com/en-us/library/aa615234\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

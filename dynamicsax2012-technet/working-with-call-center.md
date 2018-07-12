@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Call center
 TOCTitle: Working with Call center
 ms:assetid: 5b02bda6-b609-4685-963f-bed33fdee846
@@ -8,6 +8,8 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
 - call center
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Call center 
@@ -38,5 +40,5 @@ The topics in this section provide information about how to work with call cente
 [Setting up and maintaining Call center](setting-up-and-maintaining-call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

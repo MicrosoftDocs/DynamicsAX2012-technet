@@ -1,4 +1,4 @@
-﻿---
+---
 title: Activate your Partner Portal account for Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Activate your Partner Portal account for Microsoft Dynamics ERP RapidStart Services
 ms:assetid: e323e2c0-8b36-4bf3-91b4-f02c384eeec0
@@ -69,5 +69,5 @@ Use the following information to troubleshoot some common issues.
 [Add users and assign roles in RapidStart Services](add-users-and-assign-roles-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create budget register entries (Public sector)
 TOCTitle: Create budget register entries (Public sector)
 ms:assetid: aa1c0df9-9c97-4f1f-99d8-ec80838c9898
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - apportionment posting
 - posting apportionments
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Create budget register entries (Public sector) 
@@ -49,5 +51,5 @@ To distinguish between the original budget amount and the apportioned amount, cr
 For more information, see [Create budget register entries](create-budget-register-entries.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

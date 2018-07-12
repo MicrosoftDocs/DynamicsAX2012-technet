@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Letter of credit or import collection for the import of items'
 TOCTitle: 'Key tasks: Letter of credit or import collection for the import of items'
 ms:assetid: 022dec01-5141-4a3f-8936-43b12f7acef1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242097(v=AX.60)
 ms:contentKeyID: 36055925
 ms.date: 05/21/2016
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Letter of credit or import collection for the import of items 
@@ -351,5 +353,5 @@ Back to top
 [About letters of credit and import collections](about-letters-of-credit-and-import-collections.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

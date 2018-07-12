@@ -1,4 +1,4 @@
-﻿---
+---
 title: About workflow statuses for category extension requests
 TOCTitle: About workflow statuses for category extension requests
 ms:assetid: 07417cf6-b457-4c64-8734-278de30e7836
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242115(v=AX.60)
 ms:contentKeyID: 36055967
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About workflow statuses for category extension requests 
@@ -60,5 +62,5 @@ Vendor-submitted category requests have a request type of **Category** and any o
 [Vendor category request (form)](https://technet.microsoft.com/en-us/library/hh227509\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

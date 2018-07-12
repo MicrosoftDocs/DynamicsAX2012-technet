@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fraud configuration key (MCRFraud)
 TOCTitle: Fraud configuration key (MCRFraud)
 ms:assetid: ae15b7da-7761-4e13-bca8-705f6da74509
@@ -101,5 +101,5 @@ For more information about how license codes and configuration keys work togethe
 [Call center](call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

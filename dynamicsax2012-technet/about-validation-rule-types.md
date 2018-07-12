@@ -1,4 +1,4 @@
-﻿---
+---
 title: About validation rule types
 TOCTitle: About validation rule types
 ms:assetid: b80a355c-55ab-4e91-84da-c10497a60b4d
@@ -11,6 +11,8 @@ f1_keywords:
 - validation rule
 - validation rules
 - validation rule type
+audience: Application User
+ms.search.region: Global
 ---
 
 # About validation rule types 
@@ -54,5 +56,5 @@ This section provides information about three types of validation rules and how 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

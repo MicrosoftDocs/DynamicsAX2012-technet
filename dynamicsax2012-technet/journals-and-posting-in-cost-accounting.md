@@ -1,4 +1,4 @@
-﻿---
+---
 title: Journals and posting in cost accounting
 TOCTitle: Journals and posting in cost accounting
 ms:assetid: 4799c426-3676-4688-8653-a7313b272d4a
@@ -15,6 +15,8 @@ f1_keywords:
 - costing
 - cost accounting
 - cost management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Journals and posting in cost accounting 
@@ -35,5 +37,5 @@ The topics in this section provide information about how to use journals and pos
 [Create cost accounting accrual transactions](create-cost-accounting-accrual-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

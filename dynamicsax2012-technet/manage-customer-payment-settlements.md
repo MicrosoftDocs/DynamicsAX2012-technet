@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage customer payment settlements
 TOCTitle: Manage customer payment settlements
 ms:assetid: 92af4a92-aaed-48eb-b7de-8551c28315bd
@@ -23,6 +23,8 @@ f1_keywords:
 - adjustment
 - adjustments
 - exchange
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage customer payment settlements 
@@ -47,5 +49,5 @@ The following topics provide information about managing settlements for customer
 [(FRA) Configure and print a lump sum recovery text on a customer invoice](fra-configure-and-print-a-lump-sum-recovery-text-on-a-customer-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About cost accounting integration
 TOCTitle: About cost accounting integration
 ms:assetid: 75d4a648-2c4a-4d4e-8993-1479db5e876b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550032(v=AX.60)
 ms:contentKeyID: 36058179
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About cost accounting integration 
@@ -48,5 +50,5 @@ You can also integrate **Project** by setting up the **Service category** tab in
 [Setting up and maintaining cost accounting](setting-up-and-maintaining-cost-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

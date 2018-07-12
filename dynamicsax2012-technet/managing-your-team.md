@@ -1,4 +1,4 @@
-﻿---
+---
 title: Managing your team
 TOCTitle: Managing your team
 ms:assetid: 79509b34-fd4e-4d37-8beb-72f8cd010f59
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - HcmEPAnniversaries
 - HcmEPBirthdays
+audience: Application User
+ms.search.region: Global
 ---
 
 # Managing your team 
@@ -37,5 +39,5 @@ This section contains the following topics:
 [Approve an absence registration or request](approve-an-absence-registration-or-request.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

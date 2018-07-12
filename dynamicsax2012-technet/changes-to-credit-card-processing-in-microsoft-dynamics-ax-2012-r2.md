@@ -1,4 +1,4 @@
-﻿---
+---
 title: Changes to Credit Card Processing in Microsoft Dynamics AX 2012 R2
 TOCTitle: Changes to Credit Card Processing in Microsoft Dynamics AX 2012 R2
 ms:assetid: d73b7719-76ba-4a31-afa5-9227f423ec62
@@ -18,5 +18,5 @@ This white paper explains the changes to the implementation of Accounts Receivab
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=281964%26clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

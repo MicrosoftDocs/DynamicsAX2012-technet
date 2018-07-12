@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Configure the digital certificate in Microsoft Windows Server 2008
 TOCTitle: (MEX) Configure the digital certificate in Microsoft Windows Server 2008
 ms:assetid: bd3fadf8-3543-49a9-8707-e180adba8c55
@@ -12,6 +12,8 @@ f1_keywords:
 - "2008"
 - Microsoft windows server
 - digital certificate
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Configure the digital certificate in Microsoft Windows Server 2008 
@@ -48,5 +50,5 @@ To grant an AOS user access to the digital certificate private key in the Window
 [(MEX) Customize Microsoft Dynamics AX to include the XML addenda element for a customer](mex-customize-microsoft-dynamics-ax-to-include-the-xml-addenda-element-for-a-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

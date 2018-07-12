@@ -1,4 +1,4 @@
-﻿---
+---
 title: Task pages
 TOCTitle: Task pages
 ms:assetid: e5230810-c9b1-474a-ac36-12d173ded495
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPTaskPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Task pages 
@@ -20,5 +22,5 @@ You can use task pages to complete tasks in Enterprise Portal for Microsoft Dyna
 Task pages may include a toolbar, which you can use to complete related tasks or view related information. The options on the toolbar are specific to each page. Task pages can also include other elements, such as lists. For more information, see [Common page elements](common-page-elements.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

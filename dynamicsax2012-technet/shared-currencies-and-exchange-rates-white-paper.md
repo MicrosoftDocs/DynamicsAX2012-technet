@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shared Currencies and Exchange Rates (White paper)
 TOCTitle: Shared Currencies and Exchange Rates
 ms:assetid: 31395615-b0ba-49ba-aa3d-8b613371a169
@@ -20,5 +20,5 @@ This paper highlights the key concepts and APIs related to the calculation, disp
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=215091).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

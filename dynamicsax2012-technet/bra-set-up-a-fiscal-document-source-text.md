@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up a fiscal document source text
 TOCTitle: (BRA) Set up a fiscal document source text
 ms:assetid: d6994cef-0af1-419a-a8a5-cc5d0a6c02f5
@@ -13,6 +13,8 @@ f1_keywords:
 - fiscal document source text
 - source text
 - set up fiscal document source text
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up a fiscal document source text 
@@ -66,5 +68,5 @@ You must set up a fiscal document source text before you can attach it to a fisc
 [(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/en-us/library/jj663934\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

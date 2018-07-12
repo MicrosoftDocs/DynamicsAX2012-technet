@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for amount differences in tax accounting
 TOCTitle: (RUS) Set up a register for amount differences in tax accounting
 ms:assetid: 4d9004da-0d0e-4365-a7df-a30fbbe43393
@@ -10,6 +10,8 @@ f1_keywords:
 - set up a register
 - amount differences
 - tax accounting
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for amount differences in tax accounting 
@@ -54,5 +56,5 @@ The **Amount difference in tax accounting** register is used to calculate amount
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

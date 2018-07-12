@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import duplicate company data to use for testing
 TOCTitle: Import duplicate company data to use for testing
 ms:assetid: c3a0cd8d-8b02-4ae8-9670-eef2b366e19a
@@ -54,5 +54,5 @@ Follow these steps to use an existing legal entity as a template for other legal
 You can use the Microsoft Dynamics AX data import and export feature to import and modify transaction data. However, it can be difficult to create a duplicate environment for transaction data if the **SaveDataPerCompany** property of tables is set to **No**. Instead, we recommend that you use the backup and restore functionality in Microsoft SQL Server to build demo environments in which minor configuration changes can be made to illustrate specific Microsoft Dynamics AX features.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

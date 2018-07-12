@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set buffer days for sales payments
 TOCTitle: Set buffer days for sales payments
 ms:assetid: 0fe68c63-993c-4db5-86f9-3d7bae9b3cbc
@@ -11,6 +11,8 @@ f1_keywords:
 - general buffer days
 - invoice frequency
 - sales payments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set buffer days for sales payments 
@@ -51,5 +53,5 @@ The payment is due on April 4, 2010, which is March 31, 2010 + 4 days.
 [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Cash and bank management
 TOCTitle: (EEUR) Cash and bank management
 ms:assetid: a9796c35-dae6-4373-b84a-8bdb5e736094
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710752(v=AX.60)
 ms:contentKeyID: 49385149
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Cash and bank management 
@@ -24,5 +26,5 @@ The topics in this section provide more information about Cash and bank manageme
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

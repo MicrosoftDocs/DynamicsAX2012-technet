@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Export or import layout group data
 TOCTitle: (BRA) Export or import layout group data
 ms:assetid: b2f93a36-b3cb-437d-bbdc-348bb865868c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838776(v=AX.60)
 ms:contentKeyID: 50120659
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Export or import layout group data 
@@ -48,5 +50,5 @@ Use this procedure to import data from a configurator layout group.
 [(BRA) Configurator layout groups (form)](https://technet.microsoft.com/en-us/library/jj863736\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

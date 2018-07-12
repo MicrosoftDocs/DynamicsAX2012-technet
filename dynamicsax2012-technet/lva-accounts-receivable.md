@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Accounts receivable
 TOCTitle: (LVA) Accounts receivable
 ms:assetid: 7f0f38ae-0a7a-4fc7-8777-b576af4fd281
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731040(v=AX.60)
 ms:contentKeyID: 49675280
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Accounts receivable 
@@ -24,5 +26,5 @@ The topics in this section provide more information about Accounts receivable.
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

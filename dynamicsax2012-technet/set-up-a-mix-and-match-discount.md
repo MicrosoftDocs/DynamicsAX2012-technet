@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a mix-and-match discount
 TOCTitle: Set up a mix-and-match discount
 ms:assetid: fe8ca38a-2536-4e40-94d5-5cacc031c8af
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597304(v=AX.60)
 ms:contentKeyID: 39519393
 ms.date: 08/12/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a mix-and-match discount 
@@ -111,5 +113,5 @@ This topic describes how to set up mix-and-match discounts. A mix-and-match disc
 [Setting up loyalty programs](setting-up-loyalty-programs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up info codes
 TOCTitle: Setting up info codes
 ms:assetid: 2190d0e4-2471-4d5a-995f-7ef62111efa8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - reason codes
 - reason code
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up info codes 
@@ -32,5 +34,5 @@ The topics in this section provide information about how to set up Retail info c
 [Set up subcodes](set-up-subcodes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

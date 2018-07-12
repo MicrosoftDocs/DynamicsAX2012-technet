@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change the project stage
 TOCTitle: Change the project stage
 ms:assetid: c2fe23c6-5fed-4005-a3c4-13ed513edbe9
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPProjChangeStage
 - project stage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change the project stage 
@@ -47,5 +49,5 @@ Project stages can serve as a guide to the project life cycle. You can change th
 [View project details](view-project-details.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

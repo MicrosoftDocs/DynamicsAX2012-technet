@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate and submit vendor payments (Public sector)
 TOCTitle: Generate and submit vendor payments (Public sector)
 ms:assetid: d0c5fb22-a765-4cfb-8954-d2f13ebf2882
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208588(v=AX.60)
 ms:contentKeyID: 36056374
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Generate and submit vendor payments (Public sector) 
@@ -20,5 +22,5 @@ The following topics provide information about generating and submitting vendor 
 [(FRA) Place or release vendor invoice payment holds (Public sector)](fra-place-or-release-vendor-invoice-payment-holds-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

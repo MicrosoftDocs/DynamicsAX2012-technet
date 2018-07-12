@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Process electronic payment returns
 TOCTitle: (BRA) Process electronic payment returns
 ms:assetid: f081271e-fcd2-4ea0-9a71-d330ceb5cb35
@@ -10,6 +10,8 @@ f1_keywords:
 - approved payment
 - import a return file
 - BR - 00008
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Process electronic payment returns 
@@ -54,5 +56,5 @@ Use this procedure to import a return file into Microsoft Dynamics AX. When you 
 [(BRA) Set up an electronic payment](bra-set-up-an-electronic-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

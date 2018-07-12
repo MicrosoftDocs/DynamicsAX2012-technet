@@ -1,4 +1,4 @@
-﻿---
+---
 title: Compensation and benefits manager security role (HcmCompensationAndBenefitsManager)
 TOCTitle: Compensation and benefits manager security role (HcmCompensationAndBenefitsManager)
 ms:assetid: c2c14c33-3cf9-4e8f-a782-0a795819c80a
@@ -245,5 +245,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

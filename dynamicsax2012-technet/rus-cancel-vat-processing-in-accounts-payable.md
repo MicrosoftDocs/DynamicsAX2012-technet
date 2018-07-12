@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Cancel VAT processing in Accounts payable
 TOCTitle: (RUS) Cancel VAT processing in Accounts payable
 ms:assetid: fc1045ad-0fe0-4b17-9bc4-2926730d7210
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678646(v=AX.60)
 ms:contentKeyID: 49388128
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Cancel VAT processing in Accounts payable 
@@ -56,5 +58,5 @@ After processing VAT, you can cancel the processing results in part or in full. 
 [(RUS) VAT processing log (form)](https://technet.microsoft.com/en-us/library/jj923606\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

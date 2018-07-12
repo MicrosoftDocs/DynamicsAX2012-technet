@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up fixed asset parameters for vehicles and realty
 TOCTitle: (RUS) Set up fixed asset parameters for vehicles and realty
 ms:assetid: ed769d86-7cf4-4138-bb8d-a20284e0bf2e
@@ -10,6 +10,8 @@ f1_keywords:
 - set up
 - realty
 - vehicle
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up fixed asset parameters for vehicles and realty 
@@ -30,5 +32,5 @@ Use the **Fixed asset parameters** form to set up parameters for fixed assets of
       - **Date of the registration** – The registration date for the fixed asset.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

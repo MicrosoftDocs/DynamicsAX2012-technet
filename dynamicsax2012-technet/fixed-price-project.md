@@ -1,4 +1,4 @@
-﻿---
+---
 title: " fixed-price project"
 TOCTitle: " fixed-price project"
 ms:assetid: DynamicsAXGlossary.233117
@@ -23,5 +23,5 @@ A type of project in which the customer pays a predetermined amount for the enti
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

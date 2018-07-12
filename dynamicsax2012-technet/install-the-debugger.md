@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the debugger
 TOCTitle: Install the debugger
 ms:assetid: 8a34aa8c-9d94-4d5a-89c5-988c573e50dd
@@ -58,5 +58,5 @@ Use this procedure to install the debugger. If you install other Microsoft Dynam
 To use the debugger, users must belong to the **Microsoft Dynamics AX Debugging Users** local group on the computer. The person who installed the debugger is automatically added to this group.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

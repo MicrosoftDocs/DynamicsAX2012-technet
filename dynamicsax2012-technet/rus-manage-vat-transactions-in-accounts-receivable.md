@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Manage VAT transactions in Accounts receivable
 TOCTitle: (RUS) Manage VAT transactions in Accounts receivable
 ms:assetid: 6f68785f-c018-49c1-bcaf-c94e52341f42
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678348(v=AX.60)
 ms:contentKeyID: 49387578
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Manage VAT transactions in Accounts receivable 
@@ -30,5 +32,5 @@ The following topics provide information about how to manage value-added tax (VA
 [(RUS) Perform an outgoing VAT processing transaction](rus-perform-an-outgoing-vat-processing-transaction.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create Microsoft Word documents from Microsoft Dynamics AX
 TOCTitle: Create Microsoft Word documents from Microsoft Dynamics AX
 ms:assetid: 2fce99a8-6470-4568-bc92-60f0e650085c
@@ -10,6 +10,8 @@ f1_keywords:
 - Add-in
 - Office
 - Word document
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create Microsoft Word documents from Microsoft Dynamics AX 
@@ -44,5 +46,5 @@ Use the following procedure to create a Word document from a document in Microso
 [Key tasks: Create and use a Word template by using the Office Add-ins](key-tasks-create-and-use-a-word-template-by-using-the-office-add-ins.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

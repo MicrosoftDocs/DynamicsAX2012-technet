@@ -1,4 +1,4 @@
-﻿---
+---
 title: Distributing questionnaires
 TOCTitle: Distributing questionnaires
 ms:assetid: 44fae256-a564-4440-8e47-7543ffa6c3a6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - questionnaires
 - questionnaire
+audience: Application User
+ms.search.region: Global
 ---
 
 # Distributing questionnaires 
@@ -35,5 +37,5 @@ The following topics provide more information about specific tasks that are used
 [End a scheduled questionnaire](end-a-scheduled-questionnaire.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

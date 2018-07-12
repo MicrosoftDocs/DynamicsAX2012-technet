@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About project management and accounting enhancements
 TOCTitle: (BRA) About project management and accounting enhancements
 ms:assetid: d9656fcd-3a2f-457d-a2f6-7945518ed0f4
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - BR - 00025
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About project management and accounting enhancements 
@@ -34,5 +36,5 @@ You can perform the following tasks by using **Project management and accounting
 [(BRA) Set up project parameters](bra-set-up-project-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshooting reporting
 TOCTitle: Troubleshooting
 ms:assetid: b826a35f-bd7c-4c24-b85c-00900df45ae5
@@ -28,5 +28,5 @@ The following topics explain how to troubleshoot issues that you may encounter w
 [Troubleshoot Issues with Printing and Emailing Reports](troubleshoot-issues-with-printing-and-emailing-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

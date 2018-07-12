@@ -1,4 +1,4 @@
-﻿---
+---
 title: Apply updates to database, AOS, and clients
 TOCTitle: Apply updates to database, AOS, and clients
 ms:assetid: 5aa25046-422c-4bb7-8fae-5901b3bd426c
@@ -892,5 +892,5 @@ After the update has been tested, you must install the update in the production 
 [Include cumulative updates and hotfixes in a new installation (slipstreaming)](include-cumulative-updates-and-hotfixes-in-a-new-installation-slipstreaming.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

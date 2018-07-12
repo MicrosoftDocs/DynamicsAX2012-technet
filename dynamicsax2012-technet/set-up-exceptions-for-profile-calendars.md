@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up exceptions for profile calendars
 TOCTitle: Set up exceptions for profile calendars
 ms:assetid: d01e937c-b068-4de4-9844-5ed9e12c0dc6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550998(v=AX.60)
 ms:contentKeyID: 43976727
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up exceptions for profile calendars 
@@ -49,5 +51,5 @@ You can set up special days to manage exceptions to rules that are related to pa
 [About profile calendars for time and attendance registrations](about-profile-calendars-for-time-and-attendance-registrations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

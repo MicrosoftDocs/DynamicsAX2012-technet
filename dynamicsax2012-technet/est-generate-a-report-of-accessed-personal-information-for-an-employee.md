@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Generate a report of accessed personal information for an employee
 TOCTitle: (EST) Generate a report of accessed personal information for an employee
 ms:assetid: f19ec505-bb8f-431d-984c-03de573a0a86
@@ -10,6 +10,8 @@ f1_keywords:
 - personal information
 - report
 - stored
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Generate a report of accessed personal information for an employee 
@@ -28,5 +30,5 @@ In Estonia, any employee in your organization can request a report that shows th
 4.  In the **To date** field, select the last day to include in the report tracking, and then click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

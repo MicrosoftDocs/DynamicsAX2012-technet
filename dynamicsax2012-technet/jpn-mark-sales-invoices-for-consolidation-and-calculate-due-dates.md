@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Mark sales invoices for consolidation and calculate due dates
 TOCTitle: (JPN) Mark sales invoices for consolidation and calculate due dates
 ms:assetid: b7cf6ea2-e148-4ead-8bbd-7cc738341386
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - JP - 00011
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Mark sales invoices for consolidation and calculate due dates 
@@ -60,5 +62,5 @@ You can consolidate several sales invoices each month. You must mark the sales i
 [(JPN) Terms of payment (modified form)](https://technet.microsoft.com/en-us/library/jj711223\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

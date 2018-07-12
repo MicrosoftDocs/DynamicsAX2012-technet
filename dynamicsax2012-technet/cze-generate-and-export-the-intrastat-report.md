@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Generate and export the Intrastat report
 TOCTitle: (CZE) Generate and export the Intrastat report
 ms:assetid: 0cd2a6f8-431f-42d4-921b-50d2b626e6a1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664170(v=AX.60)
 ms:contentKeyID: 49384754
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Generate and export the Intrastat report 
@@ -80,5 +82,5 @@ Use the following procedure to generate the Intrastat report for a Czech legal e
 [(CZE) Set up a special movement code for Intrastat](cze-set-up-a-special-movement-code-for-intrastat.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

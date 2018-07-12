@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up course instructors
 TOCTitle: Set up course instructors
 ms:assetid: f13aad8d-7ffa-4961-9c25-2bddc89cb798
@@ -12,6 +12,8 @@ f1_keywords:
 - new teacher
 - new instructor
 - course teacher
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up course instructors 
@@ -44,5 +46,5 @@ Before you can assign an instructor to a course, you must set up a worker, appli
 [Course locations (form)](https://technet.microsoft.com/en-us/library/aa616795\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

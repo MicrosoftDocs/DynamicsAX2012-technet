@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run job scheduling
 TOCTitle: Run job scheduling
 ms:assetid: c44f11cd-4386-4868-806f-29c3370ad012
@@ -13,6 +13,8 @@ f1_keywords:
 - jobs
 - dates
 - times
+audience: Application User
+ms.search.region: Global
 ---
 
 # Run job scheduling 
@@ -53,5 +55,5 @@ If you specify resource groups, job scheduling uses the resource that has the sh
 [About job scheduling](about-job-scheduling.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

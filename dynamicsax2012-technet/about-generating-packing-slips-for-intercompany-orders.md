@@ -1,4 +1,4 @@
-﻿---
+---
 title: About generating packing slips for intercompany orders
 TOCTitle: About generating packing slips for intercompany orders
 ms:assetid: af60ec28-23c9-41d4-9a22-25324b1669cf
@@ -11,6 +11,8 @@ f1_keywords:
 - generate a packing slip
 - intercompany order
 - post a packing slip
+audience: Application User
+ms.search.region: Global
 ---
 
 # About generating packing slips for intercompany orders 
@@ -25,5 +27,5 @@ If you make any updates to the packing slip on the intercompany sales order, the
 If you do not work with direct delivery, you must manually generate the packing slip on the intercompany sales order, the intercompany purchase order, and the original sales order.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

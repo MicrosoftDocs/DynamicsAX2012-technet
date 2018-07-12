@@ -1,4 +1,4 @@
-﻿---
+---
 title: List of Reporting Projects
 TOCTitle: List of Reporting Projects
 ms:assetid: 99cb0ac5-4c8b-41c6-af2a-7936e03690cb
@@ -3290,5 +3290,5 @@ The following table provides the name of the project and the reports that it con
 [Report catalog for Microsoft Dynamics AX](report-catalog-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

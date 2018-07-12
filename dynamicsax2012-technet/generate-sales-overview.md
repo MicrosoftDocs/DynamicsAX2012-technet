@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate sales overview
 TOCTitle: Generate sales overview
 ms:assetid: 453476bb-9cb4-43f7-bc8d-5b6281b9d0ca
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - sales
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate sales overview 
@@ -140,5 +142,5 @@ The following table lists the forms that support the Generate sales business pro
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

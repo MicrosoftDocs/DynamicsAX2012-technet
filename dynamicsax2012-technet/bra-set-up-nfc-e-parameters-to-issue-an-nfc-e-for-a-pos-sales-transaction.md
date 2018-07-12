@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up NFC-e parameters to issue an NFC-e for a POS sales transaction
 TOCTitle: (BRA) Set up NFC-e parameters to issue an NFC-e for a POS sales transaction
 ms:assetid: ef4dd189-e5ec-41e4-bb0c-023efc30046d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876576(v=AX.60)
 ms:contentKeyID: 63378992
 ms.date: 02/27/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up NFC-e parameters to issue an NFC-e for a POS sales transaction 
@@ -175,5 +177,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

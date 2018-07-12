@@ -1,4 +1,4 @@
-﻿---
+---
 title: Servers in the Microsoft Dynamics AX environment
 TOCTitle: Servers in the Microsoft Dynamics AX environment
 ms:assetid: 1369d6c1-b19c-436b-b726-49a26c15867c
@@ -66,5 +66,5 @@ A domain controller in an Active Directory network manages user logons and acces
 A messaging server enables email messages and instant messages to be sent and received. Microsoft Dynamics AX can use email to send alerts to users. Microsoft Dynamics AX requires that the messaging server support SMTP.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

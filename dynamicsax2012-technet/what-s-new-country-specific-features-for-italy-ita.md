@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Italy (ITA)"
 TOCTitle: Country-specific features for Italy
 ms:assetid: 9d4e046e-1fb9-4997-b9cd-8206981a7531
@@ -138,5 +138,5 @@ In Microsoft Dynamics AX 2012 R2, we changed and added country-specific function
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

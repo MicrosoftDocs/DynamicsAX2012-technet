@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Update the DSA register for manufactured items
 TOCTitle: (IND) Update the DSA register for manufactured items
 ms:assetid: 1d16de20-34e7-44a2-bf59-4538b6b77efc
@@ -12,6 +12,8 @@ f1_keywords:
 - India
 - DSA register
 - Update DSA register
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Update the DSA register for manufactured items 
@@ -64,5 +66,5 @@ In Microsoft Dynamics AX 2012, items and products are referred to interchangeabl
 [(IND) DSA details (form)](https://technet.microsoft.com/en-us/library/jj664573\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project contract funding
 TOCTitle: About project contract funding
 ms:assetid: 23d5abea-c4b6-431e-853a-dd010d34c524
@@ -11,6 +11,8 @@ f1_keywords:
 - funding rules
 - funding source
 - shared funding
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project contract funding 
@@ -61,5 +63,5 @@ To determine which tax group to associate with a transaction, Microsoft Dynamics
 [Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

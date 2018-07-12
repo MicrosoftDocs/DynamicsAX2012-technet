@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define budget exchange rates
 TOCTitle: Define budget exchange rates
 ms:assetid: 3f123515-140d-4e33-9daf-e297613dea7c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - budget currency exchange rates
 - exchange rates for budget currencies
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define budget exchange rates 
@@ -29,5 +31,5 @@ You can define currency exchange rates between currency pairs for the **Budget**
 5.  Click **New** to enter another currency pair for the **Budget** exchange rate type.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

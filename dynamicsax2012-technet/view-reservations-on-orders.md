@@ -1,4 +1,4 @@
-﻿---
+---
 title: View reservations on orders
 TOCTitle: View reservations on orders
 ms:assetid: c9d04502-f7e2-4833-89eb-18589704b088
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - order reservation
+audience: Application User
+ms.search.region: Global
 ---
 
 # View reservations on orders 
@@ -26,5 +28,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 4.  Click **Inventory**, and select **Reservation** to view the total quantity to be or that has been reserved (both physical and ordered) for the order from on-hand inventory.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

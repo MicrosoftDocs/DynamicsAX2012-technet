@@ -1,4 +1,4 @@
-﻿---
+---
 title: Elimination rules for transactions
 TOCTitle: Elimination rules for transactions
 ms:assetid: 0e14c0d5-fa26-49fe-bad6-c4ec5b7101ab
@@ -11,6 +11,8 @@ f1_keywords:
 - elimination
 - elimination transactions
 - elimination rules
+audience: Application User
+ms.search.region: Global
 ---
 
 # Elimination rules for transactions 
@@ -156,5 +158,5 @@ All these transactions create intercompany transactions that are posted to due-t
 [Process elimination transactions using the Elimination proposal form](process-elimination-transactions-using-the-elimination-proposal-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

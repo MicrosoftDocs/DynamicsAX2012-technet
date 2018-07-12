@@ -1,4 +1,4 @@
-﻿---
+---
 title: Price simulation and discounts
 TOCTitle: Price simulation and discounts
 ms:assetid: 8a1c0dbf-5e00-449b-ac0c-4f5ef8128cce
@@ -10,6 +10,8 @@ f1_keywords:
 - discounts
 - discount
 - price simulation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Price simulation and discounts 
@@ -44,5 +46,5 @@ The four types of discounts in trade agreements are as follows:
 [Price simulation examples](price-simulation-examples.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

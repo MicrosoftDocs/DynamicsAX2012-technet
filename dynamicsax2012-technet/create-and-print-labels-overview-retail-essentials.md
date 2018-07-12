@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and print labels overview (Retail essentials)
 TOCTitle: Create and print labels overview (Retail essentials)
 ms:assetid: 211c46a0-8572-46c5-8cb0-d9f29ecc406e
@@ -135,5 +135,5 @@ Enable label printing (Retail essentials)
 [Print product labels (Retail essentials)](print-product-labels-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

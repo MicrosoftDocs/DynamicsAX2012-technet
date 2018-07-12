@@ -1,4 +1,4 @@
-﻿---
+---
 title: Authenticating users in Retail online sample stores
 TOCTitle: Authenticating users in Retail online sample stores
 ms:assetid: 2dbd6c13-9154-493a-bf28-011d70409c3e
@@ -106,5 +106,5 @@ You can configure Facebook as an external logon provider when you [install the R
 [Forms authentication in ASP.NET](http://go.microsoft.com/fwlink/?linkid=394082&clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

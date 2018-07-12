@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (RUS) Cumulative discounts feature for Retail'
 TOCTitle: (RUS) Cumulative discounts feature for Retail
 ms:assetid: f8904995-b45a-461b-a350-fa88c866222b
@@ -64,5 +64,5 @@ For Russian installations, Microsoft Dynamics AX 2012 R2 for Retail provides a c
 [What's new: Retail features](what-s-new-retail-features.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

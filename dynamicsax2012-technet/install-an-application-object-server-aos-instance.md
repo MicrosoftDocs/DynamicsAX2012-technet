@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install an Application Object Server (AOS) instance
 TOCTitle: Install an Application Object Server (AOS) instance
 ms:assetid: 8f75137a-fb46-4f22-849a-8153feb7ed8e
@@ -24,5 +24,5 @@ Use the following topics to install an AOS instance:
 [Troubleshoot installation issues with AOS](troubleshoot-installation-issues-with-aos.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up customer posting profiles
 TOCTitle: (POL) Set up customer posting profiles
 ms:assetid: 4b7469f5-0e3c-44e4-9b40-671f33f62ce2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678195(v=AX.60)
 ms:contentKeyID: 49386918
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up customer posting profiles 
@@ -66,5 +68,5 @@ You can set up the profiles that control the posting of customer transactions to
 [(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678183\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

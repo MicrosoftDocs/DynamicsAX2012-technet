@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure budget planning security
 TOCTitle: Configure budget planning security
 ms:assetid: c0ce741e-fc9a-49e7-a1d1-5356fc4abba0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn887225(v=AX.60)
 ms:contentKeyID: 63378893
 ms.date: 11/19/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure budget planning security 
@@ -93,5 +95,5 @@ In addition to the security model selected, you can grant access to budget plans
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

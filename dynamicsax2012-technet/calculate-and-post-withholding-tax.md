@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calculate and post withholding tax
 TOCTitle: Calculate and post withholding tax
 ms:assetid: c14fe151-bd4b-4e45-b0fa-db5daf534e0d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - calculate withholding tax
 - post withholding tax
+audience: Application User
+ms.search.region: Global
 ---
 
 # Calculate and post withholding tax 
@@ -59,5 +61,5 @@ In the **General journal** form, withholding tax is calculated automatically whe
 [(Global, AUS, ITA) Set up withholding tax for a vendor](global-aus-ita-set-up-withholding-tax-for-a-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

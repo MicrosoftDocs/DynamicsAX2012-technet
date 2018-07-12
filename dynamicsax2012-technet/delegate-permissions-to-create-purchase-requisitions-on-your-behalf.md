@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delegate permissions to create purchase requisitions on your behalf
 TOCTitle: Delegate permissions to create purchase requisitions on your behalf
 ms:assetid: 9b858a54-c0bb-49b6-a94a-01d7f6a92f0f
@@ -11,6 +11,8 @@ f1_keywords:
 - EPPurchReqOnBehalfPermissions
 - EPPurchReqOnBehalfPermissionsAdd
 - Buy on behalf of others
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delegate permissions to create purchase requisitions on your behalf 
@@ -45,5 +47,5 @@ If an administrator has granted permissions to another worker on your behalf, th
 [Create and maintain purchase requisitions](create-and-maintain-purchase-requisitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

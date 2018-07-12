@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deprecated:Team Server
 TOCTitle: Team Server
 ms:assetid: 35fabe47-aa58-4f73-9f53-c17942866af7
@@ -53,5 +53,5 @@ In Microsoft Dynamics AX 2009, the ID server, which is known as the Team Server,
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure the workflow notification options (Enterprise Portal)
 TOCTitle: Configure the workflow notification options
 ms:assetid: 9c66563d-c276-46be-98d6-bb407af35f32
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPWorkflowNotificationsOptions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure the workflow notification options (Enterprise Portal) 
@@ -32,5 +34,5 @@ Notification messages may be sent to you when workflow-related events occur. For
 5.  Click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

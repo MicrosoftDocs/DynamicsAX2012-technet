@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About sales order enhancements
 TOCTitle: (BRA) About sales order enhancements
 ms:assetid: d6adad62-6e64-4c6e-b02c-baf92c44d15b
@@ -12,6 +12,8 @@ f1_keywords:
 - sales posting
 - sales posting enhancements
 - BR - 00029
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About sales order enhancements 
@@ -30,5 +32,5 @@ The following enhancements have been made to sales orders in Brazil:
   - You can create delivery schedules for sales orders. The CFOP codes and tax information on the delivery lines are copied from the original sales line. For more information, see [(BRA) Create sales delivery schedules](bra-create-sales-delivery-schedules.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

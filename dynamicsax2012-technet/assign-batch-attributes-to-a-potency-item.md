@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign batch attributes to a potency item
 TOCTitle: Assign batch attributes to a potency item
 ms:assetid: 20930921-5b41-41ba-b7b8-6fdf6ddbe779
@@ -11,6 +11,8 @@ f1_keywords:
 - batch
 - batch attributes
 - potency
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign batch attributes to a potency item 
@@ -70,5 +72,5 @@ Use this procedure to set up a batch attribute to identify an item as a potency 
 [Product specific (form)](https://technet.microsoft.com/en-us/library/hh227369\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

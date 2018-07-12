@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the functions directory for electronic reporting
 TOCTitle: (RUS) Set up the functions directory for electronic reporting
 ms:assetid: a4ea6b5e-f7da-4a85-a21d-2477417fff98
@@ -11,6 +11,8 @@ f1_keywords:
 - functions
 - electronic reporting
 - functions directory
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the functions directory for electronic reporting 
@@ -213,5 +215,5 @@ After you create the lines, you can arrange them in the correct order. Select a 
 [(EEUR) Query wizard (form)](https://technet.microsoft.com/en-us/library/jj710772\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

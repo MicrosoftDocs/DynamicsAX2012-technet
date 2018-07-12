@@ -1,4 +1,4 @@
-﻿---
+---
 title: View open sales order lines and backorder lines
 TOCTitle: View open sales order lines and backorder lines
 ms:assetid: 26be14d8-1e28-401b-98e8-bb376e0f420c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPSalesLineBackOrder
 - EPSalesLinesOpenOrdre
+audience: Application User
+ms.search.region: Global
 ---
 
 # View open sales order lines and backorder lines 
@@ -53,5 +55,5 @@ You can use the **Backorder lines** page to view customer sales orders that incl
 [View customer invoice information](view-customer-invoice-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

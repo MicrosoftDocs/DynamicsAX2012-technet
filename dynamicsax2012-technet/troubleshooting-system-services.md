@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshooting System Services
 TOCTitle: Troubleshooting System Services
 ms:assetid: 8017c786-0b8d-420f-850d-2adbe2dbc79d
@@ -64,5 +64,5 @@ You may encounter the maximum number of items error when using Microsoft SQL Ser
 A call to the metadata service may result in an exception because the message size of the returned data exceeds the maximum size defined in the app.config. Therefore, you should increase the maxBufferSize and maxReceivedMessages settings in the app.config (2147483647 is the maximum). This setting should be updated in the app.config on both the server and the client. These settings are found in the \<System.ServiceModel\>\<Bindings\>\<%bindingType%\>\<binding\> element.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update-type events
 TOCTitle: Update-type events
 ms:assetid: b95b53e3-db9b-4f0b-8c49-55a5c88a3d39
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498848(v=AX.60)
 ms:contentKeyID: 46687566
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update-type events 
@@ -322,5 +324,5 @@ You are now alerted about all postponements, even if the dates that were adjuste
 [Create-type and delete-type events](create-type-and-delete-type-events.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

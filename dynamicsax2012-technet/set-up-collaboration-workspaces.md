@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up collaboration workspaces
 TOCTitle: Set up collaboration workspaces
 ms:assetid: 262f6093-75c8-49cb-a297-44542504a01f
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - collaboration workspace
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up collaboration workspaces 
@@ -22,5 +24,5 @@ The following topics provide information about setting up collaboration workspac
 [Delink from or delete a collaboration workspace (Project)](delink-from-or-delete-a-collaboration-workspace-project.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

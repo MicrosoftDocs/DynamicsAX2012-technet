@@ -1,4 +1,4 @@
-﻿---
+---
 title: " prospective vendor"
 TOCTitle: " prospective vendor"
 ms:assetid: DynamicsAXGlossary.1364963
@@ -33,5 +33,5 @@ A vendor whose abilities or capabilities to supply products to one or more legal
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

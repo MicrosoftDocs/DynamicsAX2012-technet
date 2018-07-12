@@ -1,4 +1,4 @@
-﻿---
+---
 title: " FIFO inventory valuation method"
 TOCTitle: " FIFO inventory valuation method"
 ms:assetid: DynamicsAXGlossary.235331
@@ -19,5 +19,5 @@ A method of inventory valuation in which inventory is assumed for accounting pur
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

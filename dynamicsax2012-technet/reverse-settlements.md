@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reverse settlements
 TOCTitle: Reverse settlements
 ms:assetid: 71fa746c-b524-4990-972c-e4cc6160922e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549970(v=AX.60)
 ms:contentKeyID: 36655933
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reverse settlements 
@@ -72,5 +74,5 @@ You can use the **Closed transaction editing in several currencies** form to rev
 [Specify the cross rate](specify-the-cross-rate.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

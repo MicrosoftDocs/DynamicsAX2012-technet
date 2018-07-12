@@ -1,4 +1,4 @@
-﻿---
+---
 title: Managing customer price information
 TOCTitle: Managing customer price information
 ms:assetid: 4c7f6371-2e44-4c9c-944b-083982efca2f
@@ -11,6 +11,8 @@ f1_keywords:
 - prices
 - price agreements
 - price information
+audience: Application User
+ms.search.region: Global
 ---
 
 # Managing customer price information 
@@ -25,5 +27,5 @@ This section contains the following topics:
 [Perform a price query](perform-a-price-query.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

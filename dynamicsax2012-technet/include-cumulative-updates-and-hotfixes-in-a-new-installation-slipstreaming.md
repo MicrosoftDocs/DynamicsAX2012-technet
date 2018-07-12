@@ -1,4 +1,4 @@
-﻿---
+---
 title: Include cumulative updates and hotfixes in a new installation (slipstreaming)
 TOCTitle: Include cumulative updates and hotfixes in a new installation (slipstreaming)
 ms:assetid: bda5bb5d-78a2-491d-b2e4-713f1ef08a20
@@ -72,5 +72,5 @@ The following is a high-level overview of the slipstreaming process:
     To install updates for Help content, you must select the **Help Server** component, and then select the updated content sets on the **Language and content selection** page.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

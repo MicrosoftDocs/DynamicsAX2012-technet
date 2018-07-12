@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Set up a method of payment to pay vendors through Nordea Bank
 TOCTitle: (DNK) Set up a method of payment to pay vendors through Nordea Bank
 ms:assetid: 3e236bff-8718-4cf7-9c57-59aa9beec100
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ928493(v=AX.60)
 ms:contentKeyID: 52075219
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Set up a method of payment to pay vendors through Nordea Bank 
@@ -42,5 +44,5 @@ Use the **Methods of payment - vendors** form to set up a method of payment that
 [Vendor payment specification (form)](https://technet.microsoft.com/en-us/library/aa554108\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Enterprise Portal profiles and users
 TOCTitle: Set up Enterprise Portal profiles and users
 ms:assetid: 0d8bb623-1d1f-4de1-9ca2-065d4a95a4f4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580566(v=AX.60)
 ms:contentKeyID: 39519044
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up Enterprise Portal profiles and users 
@@ -84,5 +86,5 @@ By assigning a store to a user, you allow the user to access information for tha
 [About setting up staff](about-setting-up-staff.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

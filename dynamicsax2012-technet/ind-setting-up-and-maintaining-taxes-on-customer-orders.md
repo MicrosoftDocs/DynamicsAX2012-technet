@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up and maintaining taxes on customer orders
 TOCTitle: (IND) Setting up and maintaining taxes on customer orders
 ms:assetid: 7a9c39f2-0efb-40ab-9eb7-ba02dfecf728
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - IN - 00015
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up and maintaining taxes on customer orders 
@@ -24,5 +26,5 @@ You must complete the following setup procedures before you can calculate and po
 [(IND) Set up receipt formats](ind-set-up-receipt-formats.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

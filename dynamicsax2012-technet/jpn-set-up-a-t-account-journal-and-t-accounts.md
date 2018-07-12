@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up a T-account journal and T-accounts
 TOCTitle: (JPN) Set up a T-account journal and T-accounts
 ms:assetid: 019f4fff-944b-41a4-b84e-4ffa40820a10
@@ -14,6 +14,8 @@ f1_keywords:
 - T-account
 - t-account journal
 - JP - 00005
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up a T-account journal and T-accounts 
@@ -76,5 +78,5 @@ You can enter transaction credit and debit amounts in a T-account journal. A deb
 [(JPN) Journal voucher - General journal (modified form)](https://technet.microsoft.com/en-us/library/jj711027\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

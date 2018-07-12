@@ -1,4 +1,4 @@
-﻿---
+---
 title: View expense reports
 TOCTitle: View expense reports
 ms:assetid: 4a1488d3-1d33-4404-aa81-5978d7d74ee1
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - TrvExpTableView
+audience: Application User
+ms.search.region: Global
 ---
 
 # View expense reports 
@@ -34,5 +36,5 @@ You can view an expense report that has been submitted for approval.
 [Key tasks: Modify expense reports](key-tasks-modify-expense-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

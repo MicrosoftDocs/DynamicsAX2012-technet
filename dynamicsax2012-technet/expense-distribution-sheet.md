@@ -1,4 +1,4 @@
-﻿---
+---
 title: Expense distribution sheet
 TOCTitle: Expense distribution sheet
 ms:assetid: d6221c53-86f2-4138-b0bc-b70e984c4b17
@@ -11,6 +11,8 @@ f1_keywords:
 - expense distributions
 - expense sheet
 - expense sheets
+audience: Application User
+ms.search.region: Global
 ---
 
 # Expense distribution sheet 
@@ -25,5 +27,5 @@ The following topics explain how to set up and use an expense distribution sheet
 [Run a report](run-a-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

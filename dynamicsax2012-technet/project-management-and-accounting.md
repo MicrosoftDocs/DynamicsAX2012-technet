@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project management and accounting
 TOCTitle: Project management and accounting
 ms:assetid: b5f7f21b-6376-47b4-a0bf-eb00c2887e9d
@@ -12,6 +12,8 @@ f1_keywords:
 - invoice proposal
 - project contract
 - Project management and accounting
+audience: Application User
+ms.search.region: Global
 ---
 
 # Project management and accounting 
@@ -151,5 +153,5 @@ Project management and accounting can be integrated with the following modules a
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

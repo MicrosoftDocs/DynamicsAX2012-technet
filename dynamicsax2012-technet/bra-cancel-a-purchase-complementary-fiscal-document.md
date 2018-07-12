@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Cancel a purchase complementary fiscal document
 TOCTitle: (BRA) Cancel a purchase complementary fiscal document
 ms:assetid: cdf7db1d-671f-47fb-8f00-f147acb4674e
@@ -16,6 +16,8 @@ f1_keywords:
 - Cancel complementary invoices
 - BR-00044
 - MsDynAx060.Forms.PurchComplementaryInvoiceListPage
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Cancel a purchase complementary fiscal document 
@@ -72,5 +74,5 @@ You can cancel an incorrect purchase complementary fiscal document and provide a
 [(BRA) Purchase complementary fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710577\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

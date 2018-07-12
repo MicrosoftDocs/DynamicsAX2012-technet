@@ -1,4 +1,4 @@
-﻿---
+---
 title: About sales order types
 TOCTitle: About sales order types
 ms:assetid: df092bab-93ce-41cb-b955-9f7a958f3c95
@@ -17,6 +17,8 @@ f1_keywords:
 - create sales orders
 - sales order journal
 - sales order types
+audience: Application User
+ms.search.region: Global
 ---
 
 # About sales order types 
@@ -75,5 +77,5 @@ When you create a sales order, you must indicate the type of order that it is. Y
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

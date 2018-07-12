@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a receipt transaction for the deferral
 TOCTitle: (RUS) Create a receipt transaction for the deferral
 ms:assetid: c6f4818d-f23b-4730-a31f-42c2ddbd8745
@@ -11,6 +11,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - deferral
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a receipt transaction for the deferral 
@@ -45,5 +47,5 @@ Use the **Journal voucher** form to create a receipt transaction for a deferral 
 [(RUS) Deferrals models (form)](https://technet.microsoft.com/en-us/library/jj678655\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

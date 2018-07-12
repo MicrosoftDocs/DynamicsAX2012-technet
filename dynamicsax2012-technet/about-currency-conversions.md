@@ -1,4 +1,4 @@
-﻿---
+---
 title: About currency conversions
 TOCTitle: About currency conversions
 ms:assetid: 278df97a-af65-4b98-8d24-d4b833f958f5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496831(v=AX.60)
 ms:contentKeyID: 36056211
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About currency conversions 
@@ -40,5 +42,5 @@ However, because the currency on the intercompany purchase order and the interco
   - **Multiline discount percentage**
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

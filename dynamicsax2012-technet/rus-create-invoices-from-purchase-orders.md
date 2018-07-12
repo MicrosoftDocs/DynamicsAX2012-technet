@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create invoices from purchase orders
 TOCTitle: (RUS) Create invoices from purchase orders
 ms:assetid: 774bbafa-f723-4a69-99dd-05f1f5de1d8a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678371(v=AX.60)
 ms:contentKeyID: 49387601
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create invoices from purchase orders 
@@ -42,5 +44,5 @@ The following topics provide information about creating invoices from purchase o
 [(RUS) About vendor invoices](rus-about-vendor-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

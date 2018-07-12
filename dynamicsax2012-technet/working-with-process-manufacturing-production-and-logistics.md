@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Process manufacturing production and logistics
 TOCTitle: Working with Process manufacturing production and logistics
 ms:assetid: 4fba793e-48b9-47bc-8a5b-c8b61fff0a72
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208907(v=AX.60)
 ms:contentKeyID: 36057232
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Process manufacturing production and logistics 
@@ -46,5 +48,5 @@ The topics in this section provide information about how to work with records in
 [Working with lot inheritance](working-with-lot-inheritance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

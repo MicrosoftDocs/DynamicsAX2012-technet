@@ -1,4 +1,4 @@
-﻿---
+---
 title: " subcontracting"
 TOCTitle: " subcontracting"
 ms:assetid: DynamicsAXGlossary.1496303
@@ -23,5 +23,5 @@ The practice of outsourcing service activities to vendors.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

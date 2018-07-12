@@ -1,4 +1,4 @@
-﻿---
+---
 title: Grant users access to reports
 TOCTitle: Grant users access to reports
 ms:assetid: 08d399b0-92b0-49b2-8e7b-9404ee227251
@@ -87,5 +87,5 @@ If you are running Reporting Services in SharePoint integrated mode, you must gr
 [Security settings for reports](security-settings-for-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

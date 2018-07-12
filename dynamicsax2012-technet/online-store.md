@@ -1,4 +1,4 @@
-﻿---
+---
 title: Online Store
 TOCTitle: Online Store
 ms:assetid: 56364854-9730-4afa-8cf7-ae337ce2257a
@@ -579,5 +579,5 @@ The topics listed in the following table help you configure Microsoft Dynamics A
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

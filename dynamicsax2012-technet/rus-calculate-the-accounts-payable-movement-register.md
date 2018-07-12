@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the accounts payable movement register
 TOCTitle: (RUS) Calculate the accounts payable movement register
 ms:assetid: f9ba7c5b-212d-4376-93f7-c0a5c2e8e912
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678651(v=AX.60)
 ms:contentKeyID: 49388133
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the accounts payable movement register 
@@ -72,5 +74,5 @@ You must set up the **Accounts payable movement** register in the **Tax register
 [(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

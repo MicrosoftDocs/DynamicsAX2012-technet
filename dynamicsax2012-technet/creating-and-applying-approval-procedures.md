@@ -1,4 +1,4 @@
-﻿---
+---
 title: Creating and applying approval procedures
 TOCTitle: Creating and applying approval procedures
 ms:assetid: 2b930f2d-dbaa-4b81-b93c-9d073dc21736
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - journal approval
 - approval procedure
+audience: Application User
+ms.search.region: Global
 ---
 
 # Creating and applying approval procedures 
@@ -25,5 +27,5 @@ The topics in this section provide information about journal approval procedures
 [Apply a journal approval procedure](apply-a-journal-approval-procedure.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

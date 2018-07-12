@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining inventory journals
 TOCTitle: Setting up and maintaining inventory journals
 ms:assetid: 60242a27-30d0-4938-af1d-b476003fc90d
@@ -10,6 +10,8 @@ f1_keywords:
 - warehouse
 - inventory journal
 - journal name
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining inventory journals 
@@ -26,5 +28,5 @@ The topics in this section provide information about how to set up and maintain 
 [Delete posted inventory journals](delete-posted-inventory-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

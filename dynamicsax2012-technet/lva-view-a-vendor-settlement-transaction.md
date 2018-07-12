@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) View a vendor settlement transaction
 TOCTitle: (LVA) View a vendor settlement transaction
 ms:assetid: 9bf4786e-d64d-4b5a-99e8-93600945d265
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721427(v=AX.60)
 ms:contentKeyID: 49729990
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) View a vendor settlement transaction 
@@ -44,5 +46,5 @@ You can journalize and then view settlement transactions and prepayment reversal
 [(EEUR) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj720358\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

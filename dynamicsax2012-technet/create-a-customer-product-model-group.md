@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a customer product model group
 TOCTitle: Create a customer product model group
 ms:assetid: 604f2e8c-9068-4d48-a92c-9af0b2c68547
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - product builder
 - create a customer product model group
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a customer product model group 
@@ -43,5 +45,5 @@ Before you can specify default values for a group of customers, you must create 
 3.  On the **Sales order** FastTab, in the **Product model** field, select the customer product model group.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

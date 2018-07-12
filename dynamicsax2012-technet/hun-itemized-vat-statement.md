@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Itemized VAT statement
 TOCTitle: (HUN) Itemized VAT statement
 ms:assetid: f97eeae0-40e2-4cd2-bdd5-f0fc943ce65b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn313051(v=AX.60)
 ms:contentKeyID: 54936298
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Itemized VAT statement 
@@ -48,5 +50,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [(HUN) Set up and generate an itemized VAT statement](hun-set-up-and-generate-an-itemized-vat-statement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

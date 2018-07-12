@@ -1,4 +1,4 @@
-﻿---
+---
 title: Before you install the help server
 TOCTitle: Before you install the help server
 ms:assetid: 61c3e00d-b4ce-47b5-b53a-55e9a5011109
@@ -60,5 +60,5 @@ Use the following steps to include help updates in the installation:
 5.  When you run Setup and select the Help Server component, the new content will be displayed as an option. Select the content sets that you want to install. Any content that was previously installed will be replaced. If you clear the check box for a content set that was previously installed, it will be removed.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

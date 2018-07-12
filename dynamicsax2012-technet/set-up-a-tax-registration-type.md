@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a tax registration type
 TOCTitle: Set up a tax registration type
 ms:assetid: 3950df8c-0674-4a6a-a1c6-e50051852487
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677335(v=AX.60)
 ms:contentKeyID: 49384109
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a tax registration type 
@@ -42,5 +44,5 @@ Before you can set up tax registration numbers, you must set up tax registration
 12. To add additional countries/regions, tax authorities, or validation rules to the tax registration type, click **Add**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

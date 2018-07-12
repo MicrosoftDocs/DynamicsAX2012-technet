@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pay expense/commission/salary overview
 TOCTitle: Pay expense/commission/salary overview
 ms:assetid: 54ebb5cc-e556-4767-853e-f30a0d03be8f
@@ -13,6 +13,8 @@ f1_keywords:
 - expense
 - salaries
 - commissions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Pay expense/commission/salary overview 
@@ -82,5 +84,5 @@ The following table lists the forms that support the pay expense/commission/sala
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

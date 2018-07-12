@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up receipts (Retail essentials)
 TOCTitle: Setting up receipts (Retail essentials)
 ms:assetid: 92991e45-9c8e-4eb9-a66e-cbbb873188a1
@@ -20,5 +20,5 @@ The topics in this section provide information about how to set up receipts in R
 [Set up receipt options (Retail essentials)](set-up-receipt-options-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

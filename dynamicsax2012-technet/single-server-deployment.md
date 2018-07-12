@@ -1,4 +1,4 @@
-﻿---
+---
 title: Single-server deployment
 TOCTitle: Single-server deployment
 ms:assetid: 6c755b0b-b348-44c8-9d90-6cded39ea2dc
@@ -24,5 +24,5 @@ You must make sure that the single-server deployment fits in with your overall s
 [Large-scale deployment](large-scale-deployment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

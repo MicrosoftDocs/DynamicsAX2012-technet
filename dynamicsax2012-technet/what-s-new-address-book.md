@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Address book"
 TOCTitle: Address book
 ms:assetid: 2e7fc997-9cd3-4cb0-94f7-f4a3d17702d6
@@ -187,5 +187,5 @@ The global address book has changed considerably since AX 2009. AX 2012 includes
 For more information about the address book framework, see the white paper [Implementing the address book framework for Microsoft Dynamics AX 2012 applications](http://go.microsoft.com/fwlink/?linkid=213127%26clcid=0x409).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

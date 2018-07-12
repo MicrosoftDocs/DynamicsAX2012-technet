@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) Sales and receipt texts'
 TOCTitle: (BRA) Sales and receipt texts
 ms:assetid: c78a1f27-4112-4463-9ea5-3d42999c6914
@@ -55,5 +55,5 @@ For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specifi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

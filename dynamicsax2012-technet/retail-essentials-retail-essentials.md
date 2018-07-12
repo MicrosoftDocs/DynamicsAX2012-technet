@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail essentials (Retail essentials)
 TOCTitle: Retail essentials (Retail essentials)
 ms:assetid: 8658fb94-40de-472c-8fae-06d2e75bb1a6
@@ -82,5 +82,5 @@ See the following topics for more information about Retail essentials.
 [Install Retail essentials at the store or at the point of sale](install-retail-essentials-at-the-store-or-at-the-point-of-sale.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

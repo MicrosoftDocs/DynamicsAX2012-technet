@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Manage vendor status change requests'
 TOCTitle: 'Key tasks: Manage vendor status change requests'
 ms:assetid: fb018b50-da3d-4254-ac4e-b58f80438fff
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735276(v=AX.60)
 ms:contentKeyID: 49693277
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Manage vendor status change requests 
@@ -136,5 +138,5 @@ Back to top
 [Set up vendor status change requests](set-up-vendor-status-change-requests.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

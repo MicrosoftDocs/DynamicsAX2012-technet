@@ -1,4 +1,4 @@
-﻿---
+---
 title: About invoicing fixed-price projects
 TOCTitle: About invoicing fixed-price projects
 ms:assetid: 11f3e924-c66e-4f58-8a04-9cb54dd6ac9e
@@ -10,6 +10,8 @@ f1_keywords:
 - fixed-price project
 - invoicing procedure
 - payment plan
+audience: Application User
+ms.search.region: Global
 ---
 
 # About invoicing fixed-price projects 
@@ -48,5 +50,5 @@ When the milestone payments are ready to be invoiced, you apply the procedure fo
 [About on-account invoicing](about-on-account-invoicing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

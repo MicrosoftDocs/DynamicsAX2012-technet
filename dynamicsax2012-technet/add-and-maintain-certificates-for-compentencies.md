@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain certificates for compentencies
 TOCTitle: Add and maintain certificates for compentencies
 ms:assetid: 9937eceb-bd27-44ee-986b-a28248fa085e
@@ -10,6 +10,8 @@ f1_keywords:
 - HcmEPPersonCertificateCreate
 - HcmEPPersonCertificateEdit
 - HcmEPPersonCertificateInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain certificates for compentencies 
@@ -58,5 +60,5 @@ Use the **Edit certificate** page to modify information for a specific certifica
 3.  Modify the necessary information and then click **Save and close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

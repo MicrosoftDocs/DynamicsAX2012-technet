@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Working with Procurement and sourcing
 TOCTitle: (RUS) Working with Procurement and sourcing
 ms:assetid: 581f636f-ff69-4a86-a055-29c89fea6f48
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - Working with Procurement and sourcing
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Working with Procurement and sourcing 
@@ -21,5 +23,5 @@ This section provides information about working with the Procurement and sourcin
 [(RUS) Order items and services overview](rus-order-items-and-services-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up an item allocation key
 TOCTitle: Set up an item allocation key
 ms:assetid: 34b605ec-f5aa-4a78-aed8-9704bd95910d
@@ -12,6 +12,8 @@ f1_keywords:
 - forecast, allocate
 - item allocation key
 - key, item allocation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up an item allocation key 
@@ -44,5 +46,5 @@ Use this procedure to create an item allocation key and to create item allocatio
 [Item allocation lines (form)](https://technet.microsoft.com/en-us/library/aa583062\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

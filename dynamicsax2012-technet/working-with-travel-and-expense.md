@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Travel and expense
 TOCTitle: Working with Travel and expense
 ms:assetid: 9afd5127-25b4-425d-a9d6-4ed125f52ce8
@@ -10,6 +10,8 @@ f1_keywords:
 - expenses
 - expense
 - travel
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Travel and expense 
@@ -34,5 +36,5 @@ This section provides overviews of the Travel and expense business process compo
 [Set up workflows for travel and expense](set-up-workflows-for-travel-and-expense.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

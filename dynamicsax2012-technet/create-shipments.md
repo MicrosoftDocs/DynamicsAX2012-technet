@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create shipments
 TOCTitle: Create shipments
 ms:assetid: 6be95629-b433-493e-9c7c-d9a11bd75197
@@ -10,6 +10,8 @@ f1_keywords:
 - create shipment
 - shipment
 - shipment creation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create shipments 
@@ -48,5 +50,5 @@ For more information, see [Shipments (form)](https://technet.microsoft.com/en-us
 [Post packing slips and update information for shipping carriers](post-packing-slips-and-update-information-for-shipping-carriers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

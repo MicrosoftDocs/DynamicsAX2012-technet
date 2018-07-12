@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Working with Procurement and sourcing
 TOCTitle: (BRA) Working with Procurement and sourcing
 ms:assetid: 15802b95-1aba-45b3-801b-2ed282f2e4b1
@@ -11,6 +11,8 @@ f1_keywords:
 - BRA
 - Brazil
 - sourcing
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Working with Procurement and sourcing 
@@ -25,5 +27,5 @@ This section provides information about working with the Procurement and sourcin
 [(BRA) Order items and services overview](bra-order-items-and-services-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

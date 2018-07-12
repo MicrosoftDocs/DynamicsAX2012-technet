@@ -1,4 +1,4 @@
-﻿---
+---
 title: Find records
 TOCTitle: Find records
 ms:assetid: 2ca4a3ff-438c-45af-ac58-18eeafa51058
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - record
 - records
+audience: Application User
+ms.search.region: Global
 ---
 
 # Find records 
@@ -25,5 +27,5 @@ Use one of the following methods to find data in Microsoft Dynamics AX:
   - Use Enterprise Search. For more information, see [Using search](using-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

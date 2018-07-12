@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up exchange rates for calculating VAT
 TOCTitle: (HUN) Set up exchange rates for calculating VAT
 ms:assetid: 96fa9d0c-2b3f-4a31-88d8-3e3de5bf765b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664336(v=AX.60)
 ms:contentKeyID: 49385424
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up exchange rates for calculating VAT 
@@ -50,5 +52,5 @@ Your organization can select the exchange rate to use to calculate value-added t
 5.  Click **Add** again to create another exchange rate record for the selected currency, or select another currency in the list, and then repeat steps 3 and 4.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

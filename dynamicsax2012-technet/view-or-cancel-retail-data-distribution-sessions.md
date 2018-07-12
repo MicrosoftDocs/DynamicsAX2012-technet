@@ -1,4 +1,4 @@
-﻿---
+---
 title: View or cancel retail data distribution sessions
 TOCTitle: View or cancel retail data distribution sessions
 ms:assetid: 7a8e08f3-2a2b-4a2c-a51d-e578504ca88e
@@ -204,5 +204,5 @@ Use the **Upload sessions** form to view information about jobs that transfer da
 [View history for a distribution schedule](view-history-for-a-distribution-schedule.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

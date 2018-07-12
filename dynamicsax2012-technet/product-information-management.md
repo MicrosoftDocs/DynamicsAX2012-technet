@@ -1,4 +1,4 @@
-﻿---
+---
 title: Product information management
 TOCTitle: Product information management
 ms:assetid: 405f75a5-2f08-4da7-9eb4-ce7ba0cf993d
@@ -14,6 +14,8 @@ f1_keywords:
 - Product Builder
 - Product configurator
 - product information management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Product information management 
@@ -83,5 +85,5 @@ Product information management can be integrated with the following Microsoft pr
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

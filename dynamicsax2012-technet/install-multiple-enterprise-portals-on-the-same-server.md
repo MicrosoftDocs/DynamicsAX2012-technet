@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install multiple Enterprise Portals on the same server
 TOCTitle: Install multiple Enterprise Portals on the same server
 ms:assetid: 56af673f-1fcb-4396-90d2-7480f0ba8b0a
@@ -87,5 +87,5 @@ After you create the portals you must configure security, user access, and porta
 [Checklist: Configure Role Centers](checklist-configure-role-centers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

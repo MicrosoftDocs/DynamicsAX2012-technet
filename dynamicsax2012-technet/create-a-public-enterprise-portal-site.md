@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a public Enterprise Portal site
 TOCTitle: Create a public Enterprise Portal site
 ms:assetid: 5fe392a4-5683-469e-bcfe-ecfaa6e24883
@@ -273,5 +273,5 @@ After you have enabled the guest-user account in Microsoft Dynamics AX and assig
 [Install multiple Enterprise Portals on the same server](install-multiple-enterprise-portals-on-the-same-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

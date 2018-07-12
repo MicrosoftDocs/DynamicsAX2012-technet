@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Set up sales tax reporting
 TOCTitle: (LTU) Set up sales tax reporting
 ms:assetid: 957a798a-8a83-48da-868b-cae9a7b837af
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn528957(v=AX.60)
 ms:contentKeyID: 59641346
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Set up sales tax reporting 
@@ -74,5 +76,5 @@ Create XML codes, which are also known as elements, that define the lines that y
 [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

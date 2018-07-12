@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure an approval step
 TOCTitle: Configure an approval step
 ms:assetid: 0f05c963-dd49-4e29-9e28-4854a6c46a2b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309592(v=AX.60)
 ms:contentKeyID: 35132545
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure an approval step 
@@ -358,5 +360,5 @@ If a user does not act on a document in the allotted time, the document is overd
 [Configure workflow elements](configure-workflow-elements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

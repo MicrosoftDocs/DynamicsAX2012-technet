@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) FiscalDocJour_BR and related tables'
 TOCTitle: (BRA) FiscalDocJour_BR and related tables
 ms:assetid: 4341c4d4-a9fd-4573-ad41-176f50fc79c1
@@ -54,5 +54,5 @@ Microsoft Dynamics AX 2009 provides country-specific functionality that is relat
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

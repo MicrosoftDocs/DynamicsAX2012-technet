@@ -1,4 +1,4 @@
-﻿---
+---
 title: Managing customer accounts
 TOCTitle: Managing customer accounts
 ms:assetid: 3863d73e-3a4d-44f0-a359-c0d98bbdc70c
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - customers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Managing customer accounts 
@@ -28,5 +30,5 @@ This section contains the following topics:
 [Create, update, or view a contact information record](create-update-or-view-a-contact-information-record.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

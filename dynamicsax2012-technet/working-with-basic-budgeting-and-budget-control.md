@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with basic budgeting and budget control
 TOCTitle: Working with basic budgeting and budget control
 ms:assetid: e6314f58-47e6-41b0-a674-53a9f0b02ee6
@@ -11,6 +11,8 @@ f1_keywords:
 - budget
 - basic budgeting
 - budget control
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with basic budgeting and budget control 
@@ -29,5 +31,5 @@ The following topics provide information about working with basic budgeting and 
 [Scenario: Use budget control on a purchase order](scenario-use-budget-control-on-a-purchase-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

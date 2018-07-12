@@ -1,4 +1,4 @@
-﻿---
+---
 title: About costing sheet setup
 TOCTitle: About costing sheet setup
 ms:assetid: 55bdaf4e-8a5f-4a4f-a387-ecd750df0da1
@@ -12,6 +12,8 @@ f1_keywords:
 - costing
 - costing sheet
 - costing sheets
+audience: Application User
+ms.search.region: Global
 ---
 
 # About costing sheet setup 
@@ -46,5 +48,5 @@ The costing sheet is displayed as part of the **Calculate item cost** form. The 
 [Example of a costing sheet setup](example-of-a-costing-sheet-setup.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

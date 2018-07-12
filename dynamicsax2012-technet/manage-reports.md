@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage reports
 TOCTitle: Manage reports
 ms:assetid: 5477de81-fdec-402b-92d4-24ee92337364
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208957(v=AX.60)
 ms:contentKeyID: 36057306
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage reports 
@@ -44,5 +46,5 @@ To configure the Report web part to display a report, follow these steps.
 7.  Click **OK** to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

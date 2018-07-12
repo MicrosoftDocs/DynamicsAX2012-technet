@@ -1,4 +1,4 @@
-﻿---
+---
 title: Wish list
 TOCTitle: Wish list
 ms:assetid: adc0a086-c90d-4163-a33d-2d71998fe2b2
@@ -142,5 +142,5 @@ In the Storefront.sln solution, the Share.PointWeb.Storefront project contains s
 [Creating WCF Services for ASP.NET AJAX](http://go.microsoft.com/fwlink/?linkid=396549&clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure SharePoint Services logging
 TOCTitle: Configure SharePoint Services logging
 ms:assetid: 4b492b9b-53bf-40c6-b2e7-9ca064d4d63d
@@ -42,5 +42,5 @@ Use the following procedure to specify limits for diagnostic logging.
 [SharePoint documentation: Configure diagnostic logging](http://go.microsoft.com/fwlink/?linkid=194152)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

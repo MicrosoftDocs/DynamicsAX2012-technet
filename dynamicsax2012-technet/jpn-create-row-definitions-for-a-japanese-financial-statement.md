@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Create row definitions for a Japanese financial statement
 TOCTitle: (JPN) Create row definitions for a Japanese financial statement
 ms:assetid: eaef2ea8-fecf-4d4e-a700-4c66185a1f87
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - financial statement
 - row definitions
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Create row definitions for a Japanese financial statement 
@@ -73,5 +75,5 @@ Use this procedure to create row definitions for a financial statement.
 [(JPN) Create a Japanese financial statement](jpn-create-a-japanese-financial-statement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

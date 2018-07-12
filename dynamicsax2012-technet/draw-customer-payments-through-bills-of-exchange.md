@@ -1,4 +1,4 @@
-﻿---
+---
 title: Draw customer payments through bills of exchange
 TOCTitle: Draw customer payments through bills of exchange
 ms:assetid: 11960b8c-af62-41e0-915c-59baea82acc1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - bill of exchange
 - bills of exchange
+audience: Application User
+ms.search.region: Global
 ---
 
 # Draw customer payments through bills of exchange 
@@ -41,5 +43,5 @@ The following topics provide information about drawing customer payments through
 [(FRA) Generate a bill of exchange remittance file](fra-generate-a-bill-of-exchange-remittance-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

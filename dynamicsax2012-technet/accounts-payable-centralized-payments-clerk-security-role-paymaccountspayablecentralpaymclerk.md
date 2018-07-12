@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts payable centralized payments clerk security role (PaymAccountsPayableCentralPaymClerk)
 TOCTitle: Accounts payable centralized payments clerk security role (PaymAccountsPayableCentralPaymClerk)
 ms:assetid: 00463961-ef0c-4246-a000-367614f2e531
@@ -84,5 +84,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

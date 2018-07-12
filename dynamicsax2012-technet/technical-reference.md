@@ -1,4 +1,4 @@
-﻿---
+---
 title: Technical reference
 TOCTitle: Technical reference
 ms:assetid: acd93373-ac48-4447-99d4-945c3d5af3fa
@@ -32,5 +32,5 @@ This section contains reference information for system administrators and applic
 [Windows PowerShell for Microsoft Dynamics AX](windows-powershell-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

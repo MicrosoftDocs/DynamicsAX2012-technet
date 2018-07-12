@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Examples: Cost to complete methods'
 TOCTitle: 'Examples: Cost to complete methods'
 ms:assetid: c40745f0-3290-4efc-9f38-8e9104b3ca0e
@@ -8,6 +8,8 @@ ms.date: 10/15/2014
 mtps_version: v=AX.60
 f1_keywords:
 - cost to complete
+audience: Application User
+ms.search.region: Global
 ---
 
 # Examples: Cost to complete methods 
@@ -506,5 +508,5 @@ This topic illustrates how each of the other four cost-to-complete methods affec
 [About estimates](about-estimates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

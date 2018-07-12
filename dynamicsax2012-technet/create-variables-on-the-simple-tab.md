@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create variables on the Simple tab
 TOCTitle: Create variables on the Simple tab
 ms:assetid: 51813a08-022d-455e-bde5-944592882b80
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548913(v=AX.60)
 ms:contentKeyID: 36057263
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create variables on the Simple tab 
@@ -44,5 +46,5 @@ Variables of this type are simple variables that are used in product model calcu
 [Product models (form)](https://technet.microsoft.com/en-us/library/aa572853\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

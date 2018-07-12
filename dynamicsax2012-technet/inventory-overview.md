@@ -1,4 +1,4 @@
-﻿---
+---
 title: Inventory overview
 TOCTitle: Inventory overview
 ms:assetid: b0cacf0b-dcc0-4e98-9e03-d273e6337add
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232391(v=AX.60)
 ms:contentKeyID: 36058966
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Inventory overview 
@@ -32,5 +34,5 @@ The topics in this section provide information about how to perform the followin
 [Inventory recalculation](inventory-recalculation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About registering picking lists
 TOCTitle: About registering picking lists
 ms:assetid: 80935187-7228-4eca-ab7a-4204242a297b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571548(v=AX.60)
 ms:contentKeyID: 36058347
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About registering picking lists 
@@ -20,5 +22,5 @@ Companies that use serial numbers or batch numbers to trace their items must als
   - If you select the **Serial number** field, the serial numbers are synchronized to the inventory transactions on the intercompany purchase order lines when you post the packing slip of the intercompany sales order.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

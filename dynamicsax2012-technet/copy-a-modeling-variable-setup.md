@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy a modeling variable setup
 TOCTitle: Copy a modeling variable setup
 ms:assetid: 5c6b962a-ee33-43c6-a72b-eeea75f3f17b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549096(v=AX.60)
 ms:contentKeyID: 36057570
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy a modeling variable setup 
@@ -32,5 +34,5 @@ Any user profiles or ranges that have already been defined for the receiving var
 4.  Click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

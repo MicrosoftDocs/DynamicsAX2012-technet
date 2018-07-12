@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up and configure a Microsoft Dynamics AX Retail online store
 TOCTitle: Set up and configure an online store
 ms:assetid: a3c147ed-ff1b-41ef-b204-ebc1d1c2f67d
@@ -20,5 +20,5 @@ If you deployed the online store, you are ready to set up the online channel in 
 [Install a Retail online store (e-commerce)](install-a-retail-online-store-e-commerce.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

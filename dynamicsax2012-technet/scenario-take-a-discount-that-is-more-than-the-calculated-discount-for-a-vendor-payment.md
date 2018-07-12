@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Take a discount that is more than the calculated discount for a vendor payment'
 TOCTitle: 'Scenario: Take a discount that is more than the calculated discount for a vendor payment'
 ms:assetid: 8ffae42a-e65c-4139-bb99-b58619e63468
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597172(v=AX.60)
 ms:contentKeyID: 39519232
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Take a discount that is more than the calculated discount for a vendor payment 
@@ -110,5 +112,5 @@ April posts the payment journal. The invoice is fully settled with a payment of 
 [Scenario: Settle a partial vendor payment that has discounts on vendor credit notes](scenario-settle-a-partial-vendor-payment-that-has-discounts-on-vendor-credit-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

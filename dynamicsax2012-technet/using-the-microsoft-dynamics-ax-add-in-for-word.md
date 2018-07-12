@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Microsoft Dynamics AX Add-in for Word
 TOCTitle: Using the Microsoft Dynamics AX Add-in for Word
 ms:assetid: 31c46de0-f695-4a66-bae0-6eb543818a50
@@ -10,6 +10,8 @@ f1_keywords:
 - add in
 - word
 - add-in
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using the Microsoft Dynamics AX Add-in for Word 
@@ -26,5 +28,5 @@ The topics in this section describe common tasks that are related to using the O
 [Key tasks: Create and use a Word template by using the Office Add-ins](key-tasks-create-and-use-a-word-template-by-using-the-office-add-ins.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

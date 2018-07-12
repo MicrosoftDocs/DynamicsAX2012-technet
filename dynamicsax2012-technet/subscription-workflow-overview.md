@@ -1,4 +1,4 @@
-﻿---
+---
 title: Subscription workflow overview
 TOCTitle: Subscription workflow overview
 ms:assetid: e865b03b-44c7-4850-8bef-87a7d494ab90
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573199(v=AX.60)
 ms:contentKeyID: 36059832
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Subscription workflow overview 
@@ -38,5 +40,5 @@ Two days later, your customer calls to say that the subscription should be invoi
 At the end of each month, one month's revenue can be accrued from the customer's subscription to the profit and loss account and the WIP accounts. For more information about how to accrue revenue for subscriptions, see [Accrue subscription revenue](accrue-subscription-revenue.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

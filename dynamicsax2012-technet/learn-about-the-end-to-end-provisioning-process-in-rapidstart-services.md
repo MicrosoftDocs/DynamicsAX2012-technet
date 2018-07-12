@@ -1,4 +1,4 @@
-﻿---
+---
 title: Learn about the end-to-end provisioning process in RapidStart Services
 TOCTitle: Learn about the end-to-end provisioning process in RapidStart Services
 ms:assetid: 24093995-4271-4a98-b659-c9056710e43b
@@ -60,5 +60,5 @@ The provisioning process can be summarized as follows:
 [Online services for Microsoft Dynamics ERP](http://go.microsoft.com/fwlink/p/?linkid=141031)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import metadata into Microsoft Dynamics ERP RapidStart Services from a Microsoft Dynamics ERP implementation
 TOCTitle: Import metadata into Microsoft Dynamics ERP RapidStart Services from a Microsoft Dynamics ERP implementation
 ms:assetid: 1e45e047-158d-4318-9cf4-f4395735a91c
@@ -42,5 +42,5 @@ The Designer can also create questions that are used to configure values in Micr
 [Learn about extending the capabilities of Microsoft Dynamics ERP RapidStart Services](learn-about-extending-the-capabilities-of-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

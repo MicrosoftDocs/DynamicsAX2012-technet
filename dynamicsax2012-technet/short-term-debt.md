@@ -1,4 +1,4 @@
-﻿---
+---
 title: " short-term debt"
 TOCTitle: " short-term debt"
 ms:assetid: DynamicsAXGlossary.228513
@@ -21,5 +21,5 @@ A current obligation that is payable within one year.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

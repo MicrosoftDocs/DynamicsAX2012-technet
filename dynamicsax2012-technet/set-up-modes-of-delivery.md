@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up modes of delivery
 TOCTitle: Set up modes of delivery
 ms:assetid: f7a4cf07-30f7-4755-b0b8-d9e4ea24b2bc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728719(v=AX.60)
 ms:contentKeyID: 49556624
 ms.date: 04/29/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up modes of delivery 
@@ -46,5 +48,5 @@ To set up the modes of delivery that you offer your customers, follow these step
 [Set up shipping charges for online stores](set-up-shipping-charges-for-online-stores.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

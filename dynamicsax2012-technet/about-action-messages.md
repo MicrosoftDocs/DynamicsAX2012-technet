@@ -1,4 +1,4 @@
-﻿---
+---
 title: About action messages
 TOCTitle: About action messages
 ms:assetid: 4f08ad7e-ac31-4e26-9651-172d4b274368
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - action messages
 - about action messages
+audience: Application User
+ms.search.region: Global
 ---
 
 # About action messages 
@@ -65,5 +67,5 @@ In the **Coverage groups** form, you can select the action messages that you wan
 [Maintain planned orders](maintain-planned-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

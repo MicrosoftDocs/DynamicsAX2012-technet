@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create facility agreements for the letter of guarantee
 TOCTitle: Create facility agreements for the letter of guarantee
 ms:assetid: b8e4fd9c-4f73-4461-a70a-e9528cea2ec1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Create facility agreements for the letter of guarantee
 - facility agreements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create facility agreements for the letter of guarantee 
@@ -85,5 +87,5 @@ Use this procedure to set up a bank facility agreement and enter letter of guara
 [Create a letter of guarantee request for a sales order](create-a-letter-of-guarantee-request-for-a-sales-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

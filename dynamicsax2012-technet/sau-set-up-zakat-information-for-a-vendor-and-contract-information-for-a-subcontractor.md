@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Set up Zakat information for a vendor and contract information for a subcontractor
 TOCTitle: (SAU) Set up Zakat information for a vendor and contract information for a subcontractor
 ms:assetid: 8083de75-ff8e-446e-b856-7aa9dea5e9fb
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Saudi Arabia
 - Zakat information
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) Set up Zakat information for a vendor and contract information for a subcontractor 
@@ -65,5 +67,5 @@ You can add Zakat information to your records for new and existing vendors. If a
 [(SAU) Set up company information for Zakat reporting](sau-set-up-company-information-for-zakat-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

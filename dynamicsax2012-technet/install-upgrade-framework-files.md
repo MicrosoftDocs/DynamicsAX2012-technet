@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install upgrade framework files
 TOCTitle: Install upgrade framework files
 ms:assetid: de8bf5a7-4ae0-498c-82cc-8423b67e045d
@@ -117,5 +117,5 @@ These other upgrade scripts include X++ code that maps data between the source a
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

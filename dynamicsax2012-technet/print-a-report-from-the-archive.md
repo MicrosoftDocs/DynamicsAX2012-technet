@@ -1,4 +1,4 @@
-﻿---
+---
 title: Print a report from the archive
 TOCTitle: Print a report from the archive
 ms:assetid: 8840afb3-5396-489e-b44b-c61f6c58a88b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724066(v=AX.60)
 ms:contentKeyID: 35133424
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Print a report from the archive 
@@ -34,5 +36,5 @@ If you saved a report to the print archive, you can use the following steps to p
 [Print or email a report](print-or-email-a-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

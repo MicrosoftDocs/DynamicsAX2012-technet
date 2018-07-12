@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deployment of the Help server
 TOCTitle: Deployment
 ms:assetid: 01bb175a-c5e3-4c92-92ba-96c46b462f61
@@ -22,5 +22,5 @@ The following topics explain how to install the Microsoft Dynamics AX Help serve
 [Install Help content at an alternative location](install-help-content-at-an-alternative-location.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

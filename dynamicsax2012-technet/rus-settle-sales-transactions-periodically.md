@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Settle sales transactions periodically
 TOCTitle: (RUS) Settle sales transactions periodically
 ms:assetid: a9c805d8-d2c0-4026-a1a5-a03da464d755
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711487(v=AX.60)
 ms:contentKeyID: 49387812
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Settle sales transactions periodically 
@@ -112,5 +114,5 @@ You can perform periodic settlement of counteragent transactions by using the **
 [(RUS) Adjust counteragent transactions in accounts receivable](rus-adjust-counteragent-transactions-in-accounts-receivable.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

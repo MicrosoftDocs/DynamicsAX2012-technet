@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using alerts
 TOCTitle: Using alerts
 ms:assetid: aa6abfe9-37f7-49dd-b7eb-cd6a7eb1a407
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - alert
 - alerts
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using alerts 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to use alerts. For exam
 [Delete alerts](delete-alerts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

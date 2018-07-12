@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run Setup in silent mode
 TOCTitle: Run Setup in silent mode
 ms:assetid: 3a6d1a25-d682-4056-8547-7b68b0f47523
@@ -77,5 +77,5 @@ Use the following procedure to run the installation by specifying a parameter fi
 4.  Press ENTER.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

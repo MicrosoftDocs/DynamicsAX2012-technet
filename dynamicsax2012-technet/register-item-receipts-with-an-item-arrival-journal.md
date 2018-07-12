@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register item receipts with an item arrival journal
 TOCTitle: Register item receipts with an item arrival journal
 ms:assetid: 625347b5-95b8-4e2f-924c-53dc4a288c04
@@ -11,6 +11,8 @@ f1_keywords:
 - manual registration of item receipts
 - registration via input transports
 - register item receipts
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register item receipts with an item arrival journal 
@@ -57,5 +59,5 @@ For more information, see [Arrival overview (form)](https://technet.microsoft.co
 [Complete pallet transports](complete-pallet-transports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

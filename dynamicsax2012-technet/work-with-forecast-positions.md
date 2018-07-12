@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work with forecast positions
 TOCTitle: Work with forecast positions
 ms:assetid: 13c1aad0-9829-49f8-b9e8-baa4d534c85e
@@ -23,6 +23,8 @@ f1_keywords:
 - MsDynAx060.Forms.hcmpositionmassupdate
 - forecast position
 - forecast positions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Work with forecast positions 
@@ -551,5 +553,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Budget plan account totals report (BudgetPlanDimensionFocusTotalReport)](budget-plan-account-totals-report-budgetplandimensionfocustotalreport.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

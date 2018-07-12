@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure or bypass IPsec for Synch Service
 TOCTitle: Configure or bypass IPsec for Synch Service
 ms:assetid: 645f73b8-684b-46cd-aa62-6d59342d22fb
@@ -102,5 +102,5 @@ If you use a method other than IPsec to help secure data transport, such as a VP
 5.  Select **Disable IPsec**, and then click **Close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import and create one-time vendors and invoices (Public sector)
 TOCTitle: Import and create one-time vendors and invoices (Public sector)
 ms:assetid: 5ed26477-32df-4a8d-9e37-aa851c8287df
@@ -15,6 +15,8 @@ f1_keywords:
 - one-time vendor
 - import invoices
 - import vendors
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Import and create one-time vendors and invoices (Public sector) 
@@ -343,5 +345,5 @@ Use the following steps to create multiple one-time vendors and invoices.
 [Key tasks: Vendor invoices](key-tasks-vendor-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

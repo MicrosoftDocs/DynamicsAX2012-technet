@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up bonus depreciation
 TOCTitle: (RUS) Set up bonus depreciation
 ms:assetid: 93a721c1-af4d-4f08-ab44-ea8f33619a80
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923561(v=AX.60)
 ms:contentKeyID: 52075407
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up bonus depreciation 
@@ -30,5 +32,5 @@ When major repair work is performed on a fixed asset, a bonus depreciation allow
 [(RUS) Depreciation bonus (form)](https://technet.microsoft.com/en-us/library/jj853230\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

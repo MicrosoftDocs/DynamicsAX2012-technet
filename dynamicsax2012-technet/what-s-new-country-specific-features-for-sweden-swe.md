@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Sweden (SWE)"
 TOCTitle: Country-specific features for Sweden
 ms:assetid: bf27ff0a-558f-4365-bf56-a5199c5b7736
@@ -42,5 +42,5 @@ In Microsoft Dynamics AX 2012 R3, we changed and added country-specific function
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

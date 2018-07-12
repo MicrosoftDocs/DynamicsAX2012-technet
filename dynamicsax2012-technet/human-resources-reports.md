@@ -1,4 +1,4 @@
-﻿---
+---
 title: Human resources reports
 TOCTitle: Human resources reports
 ms:assetid: a397de2d-9690-4915-bb13-e22f21b96905
@@ -74,5 +74,5 @@ The following reports are available in the **Human resources** module of Microso
 [Anniversaries report (HcmAnniversary)](anniversaries-report-hcmanniversary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

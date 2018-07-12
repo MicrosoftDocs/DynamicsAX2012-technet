@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy a functional area in RapidStart Services
 TOCTitle: Copy a functional area in RapidStart Services
 ms:assetid: c235eaaa-4429-435f-be61-028140a93925
@@ -45,5 +45,5 @@ You can now modify the copied functional area by adding or removing question gro
 [Unpublish a functional area in RapidStart Services](unpublish-a-functional-area-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

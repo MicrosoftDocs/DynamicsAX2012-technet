@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add a Customer administrator to a service in RapidStart Services
 TOCTitle: Add a Customer administrator to a service in RapidStart Services
 ms:assetid: 35b5581b-5557-4836-8439-635c4cf80af6
@@ -126,5 +126,5 @@ After the Customer administrator signs in, he or she reviews and agrees to the o
 [Add users and assign roles in RapidStart Services](add-users-and-assign-roles-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

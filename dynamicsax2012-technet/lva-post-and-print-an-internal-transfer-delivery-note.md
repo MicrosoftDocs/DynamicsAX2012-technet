@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Post and print an internal transfer delivery note
 TOCTitle: (LVA) Post and print an internal transfer delivery note
 ms:assetid: 5c20dc9b-f895-460d-a62e-34ba84c13156
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721455(v=AX.60)
 ms:contentKeyID: 49730233
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Post and print an internal transfer delivery note 
@@ -64,5 +66,5 @@ Use the **Transfer delivery note** form to print a transfer delivery note.
 [(LVA) Post and print an inventory movement](lva-post-and-print-an-inventory-movement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

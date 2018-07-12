@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate or reverse depreciation using the tax group non-linear depreciation method
 TOCTitle: (RUS) Calculate or reverse depreciation using the tax group non-linear depreciation method
 ms:assetid: 97d2003e-8b7f-4e3d-a49a-dda918ef3202
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863540(v=AX.60)
 ms:contentKeyID: 50395341
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate or reverse depreciation using the tax group non-linear depreciation method 
@@ -128,5 +130,5 @@ Use the **Depreciation bonus** form to calculate the depreciation bonus for fixe
 [(RUS) Depreciation bonus (form)](https://technet.microsoft.com/en-us/library/jj853230\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Item dimension group'
 TOCTitle: Item dimension group
 ms:assetid: 8c3ff3c0-abaf-4559-9bb5-9a29b729336c
@@ -60,5 +60,5 @@ In Microsoft Dynamics AX 2009, an item dimension encompasses all available item 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About importing data from Microsoft Excel
 TOCTitle: About importing data from Microsoft Excel
 ms:assetid: ffca14c1-ac63-42c9-a241-c46513c945f5
@@ -11,6 +11,8 @@ f1_keywords:
 - spreadsheet
 - import data
 - Office Add-in
+audience: Application User
+ms.search.region: Global
 ---
 
 # About importing data from Microsoft Excel 
@@ -33,5 +35,5 @@ You can also import data into Microsoft Dynamics AX by using Microsoft Excel. Us
 [Using the Microsoft Dynamics AX Add-in for Excel](using-the-microsoft-dynamics-ax-add-in-for-excel.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

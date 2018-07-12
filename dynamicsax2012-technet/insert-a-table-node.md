@@ -1,4 +1,4 @@
-﻿---
+---
 title: Insert a Table node
 TOCTitle: Insert a Table node
 ms:assetid: 74e8f411-9a75-4970-87cb-d5f7ce619780
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550024(v=AX.60)
 ms:contentKeyID: 36058159
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Insert a Table node 
@@ -50,5 +52,5 @@ Use the Table node to specify that one or more of the variables for a product mo
 13. Enter one line for each table field to transfer a value from. On each line, specify the names of the required table fields in the **Field name** field and of the variables that should receive each table field value in the **Variable** field.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

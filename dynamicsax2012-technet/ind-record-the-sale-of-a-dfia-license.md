@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Record the sale of a DFIA license
 TOCTitle: (IND) Record the sale of a DFIA license
 ms:assetid: b2f861bf-b296-426f-b517-72be9164acda
@@ -12,6 +12,8 @@ f1_keywords:
 - India
 - DFIA
 - Sell
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Record the sale of a DFIA license 
@@ -113,5 +115,5 @@ To view information about the license that was sold, follow these steps:
 [(IND) Import details - AA/DFIA (form)](https://technet.microsoft.com/en-us/library/jj664632\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

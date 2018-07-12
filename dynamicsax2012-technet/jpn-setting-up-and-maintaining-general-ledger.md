@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Setting up and maintaining General ledger
 TOCTitle: (JPN) Setting up and maintaining General ledger
 ms:assetid: c6ef8099-fda2-4eb8-b4fd-7670e11dc7d7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664965(v=AX.60)
 ms:contentKeyID: 49386549
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Setting up and maintaining General ledger 
@@ -22,5 +24,5 @@ The topics in this section provide information about setting up and maintaining 
 [(JPN) Setting up sales tax](jpn-setting-up-sales-tax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

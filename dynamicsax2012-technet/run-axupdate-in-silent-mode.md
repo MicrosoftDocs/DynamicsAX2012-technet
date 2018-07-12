@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run AXUpdate in silent mode
 TOCTitle: Run AXUpdate in silent mode
 ms:assetid: 285a5e3b-f38d-4ba6-9ac7-e4a6dcac3a13
@@ -77,5 +77,5 @@ Use the following procedure to run the installation by specifying a parameter fi
 5.  After the installation is completed, review the log files that are created by AXUpdate.exe to verify the results of the update installation. By default, log files are saved to a subfolder of the **%ALLUSERSPROFILE%\\Microsoft\\Dynamics AX\\Dynamics AX Setup Logs** folder.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

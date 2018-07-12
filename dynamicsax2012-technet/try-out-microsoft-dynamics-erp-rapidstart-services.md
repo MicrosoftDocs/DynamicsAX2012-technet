@@ -1,4 +1,4 @@
-﻿---
+---
 title: Try out Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Try out Microsoft Dynamics ERP RapidStart Services
 ms:assetid: f722c99e-2d52-43d8-9e8f-edaba44d93f1
@@ -64,5 +64,5 @@ To start your 90-day evaluation of RapidStart Services:
 [Add users and assign roles in RapidStart Services](add-users-and-assign-roles-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

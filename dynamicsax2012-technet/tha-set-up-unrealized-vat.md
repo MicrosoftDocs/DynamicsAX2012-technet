@@ -1,4 +1,4 @@
-﻿---
+---
 title: (THA) Set up unrealized VAT
 TOCTitle: (THA) Set up unrealized VAT
 ms:assetid: b63fc313-0769-46ee-8115-245c66704566
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232430(v=AX.60)
 ms:contentKeyID: 36059090
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Thailand
 ---
 
 # (THA) Set up unrealized VAT 
@@ -60,5 +62,5 @@ Use this procedure to set up a sales tax code, sales tax group, item sales tax g
 [(THA) Sales tax exchange rate adjustments (form)](https://technet.microsoft.com/en-us/library/hh227551\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

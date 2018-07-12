@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Configure fiscal printers to generate a fiscal receipt
 TOCTitle: (RUS) Configure fiscal printers to generate a fiscal receipt
 ms:assetid: 6bf3a747-fc4c-4bf4-9481-1286ac51ff07
@@ -15,6 +15,8 @@ f1_keywords:
 - fiscal printers
 - fiscal receipt
 - fiscal receipts
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Configure fiscal printers to generate a fiscal receipt 
@@ -132,5 +134,5 @@ Use the **Fiscal register configurations** form to export a fiscal printer confi
     </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

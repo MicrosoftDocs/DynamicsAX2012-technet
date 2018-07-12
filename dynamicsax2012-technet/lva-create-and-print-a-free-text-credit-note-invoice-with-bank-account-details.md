@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Create and print a free text credit note invoice with bank account details
 TOCTitle: (LVA) Create and print a free text credit note invoice with bank account details
 ms:assetid: 1bd97164-690a-4f09-8ce8-5ed296417799
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721449(v=AX.60)
 ms:contentKeyID: 49730228
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Create and print a free text credit note invoice with bank account details 
@@ -64,5 +66,5 @@ Use the **Free text invoice** form to create and print a free text credit note i
 15. Select a free text invoice that a credit note is posted for, and then on the **Action Pane**, click **View** \> **Original** to view and print the free text invoice.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

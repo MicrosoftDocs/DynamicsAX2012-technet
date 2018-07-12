@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Record the purchase of a DFIA or AA license
 TOCTitle: (IND) Record the purchase of a DFIA or AA license
 ms:assetid: ccf57c51-db58-4c64-922a-b7967f7019cc
@@ -13,6 +13,8 @@ f1_keywords:
 - AA
 - DFIA
 - Purchase authorization
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Record the purchase of a DFIA or AA license 
@@ -152,5 +154,5 @@ Use this procedure to record a Duty Free Import Authorization (DFIA) that was pu
 [(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

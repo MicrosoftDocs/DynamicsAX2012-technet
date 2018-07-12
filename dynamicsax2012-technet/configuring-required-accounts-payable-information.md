@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring required Accounts payable information
 TOCTitle: Configuring required Accounts payable information
 ms:assetid: 3bbc7303-e848-47e8-8b70-d823923eedb0
@@ -14,6 +14,8 @@ f1_keywords:
 - profiles
 - AP
 - payable
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring required Accounts payable information 
@@ -28,5 +30,5 @@ The following topics provide information about configuring required Accounts pay
 [About posting profiles](about-posting-profiles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

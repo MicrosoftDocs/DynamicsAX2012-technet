@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor currency revaluation simulation report (VendExchRateAdjSimulation)
 TOCTitle: Vendor currency revaluation simulation report (VendExchRateAdjSimulation)
 ms:assetid: f1ddea15-c9b2-4954-a8fd-c1e23007b628
@@ -136,5 +136,5 @@ If you are a developer, you can learn more about where the data on a report come
 [About foreign currency revaluations for open vendor transactions](about-foreign-currency-revaluations-for-open-vendor-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

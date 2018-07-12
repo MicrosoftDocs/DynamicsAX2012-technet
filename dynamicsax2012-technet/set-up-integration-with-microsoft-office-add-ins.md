@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up integration with Microsoft Office Add-ins
 TOCTitle: Set up integration with Microsoft Office Add-ins
 ms:assetid: c78ade1c-a85e-4519-893a-e56fab51c3b2
@@ -13,6 +13,8 @@ f1_keywords:
 - integration
 - microsoft office
 - add-in
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up integration with Microsoft Office Add-ins 
@@ -55,5 +57,5 @@ Use the following procedure to configure data sources for the Office Add-ins.
 [Using the Microsoft Dynamics AX Add-in for Word](using-the-microsoft-dynamics-ax-add-in-for-word.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: " three-way matching policy"
 TOCTitle: " three-way matching policy"
 ms:assetid: DynamicsAXGlossary.1368089
@@ -31,5 +31,5 @@ A matching policy that requires one or more vendor invoice prices to match with 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

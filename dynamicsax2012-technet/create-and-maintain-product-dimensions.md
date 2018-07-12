@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and maintain product dimensions
 TOCTitle: Create and maintain product dimensions
 ms:assetid: 4777254f-329d-421d-aaf5-c0d30265b242
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - create product dimension
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and maintain product dimensions 
@@ -68,5 +70,5 @@ In the following example, a product master for which you can create small, mediu
 [Rename product dimensions](rename-product-dimensions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

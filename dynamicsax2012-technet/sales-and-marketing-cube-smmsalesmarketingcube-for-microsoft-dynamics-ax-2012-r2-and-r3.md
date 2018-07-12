@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sales and marketing cube (smmSalesMarketingCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Sales and marketing cube (smmSalesMarketingCube)
 ms:assetid: 1e93656f-ee61-4b52-a0c5-c6000b73b1e7
@@ -1284,5 +1284,5 @@ The Sales and marketing cube can be accessed by users assigned to the following 
   - Sales representative
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

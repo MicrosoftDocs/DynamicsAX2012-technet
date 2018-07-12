@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Inventory and warehouse management reports
 TOCTitle: (CHN) Inventory and warehouse management reports
 ms:assetid: 803ae2be-b1ce-4a0d-85a9-297bd87ce848
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664072(v=AX.60)
 ms:contentKeyID: 49384656
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Inventory and warehouse management reports 
@@ -575,5 +577,5 @@ Generate and print a report that displays the details of the sales packing slip 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

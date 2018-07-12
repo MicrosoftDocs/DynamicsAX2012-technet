@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter a catalog source code
 TOCTitle: Enter a catalog source code
 ms:assetid: a3850d0c-0453-4fa3-ab26-ca8b8dcdd09d
@@ -11,6 +11,8 @@ f1_keywords:
 - catalog code
 - Forms.MCRSourceIdTargetLookup
 - MsDynAx060.Forms.MCRSourceIdTargetLookup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enter a catalog source code 
@@ -130,5 +132,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Configuring parameters and initial settings (Call center)](configuring-parameters-and-initial-settings-call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

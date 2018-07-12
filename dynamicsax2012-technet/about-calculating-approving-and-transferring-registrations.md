@@ -1,4 +1,4 @@
-﻿---
+---
 title: About calculating, approving and transferring registrations
 TOCTitle: About calculating, approving and transferring registrations
 ms:assetid: 42e201a0-94d5-460a-8474-d1fd2d0def87
@@ -17,6 +17,8 @@ f1_keywords:
 - clock in
 - approving
 - transferring
+audience: Application User
+ms.search.region: Global
 ---
 
 # About calculating, approving and transferring registrations 
@@ -127,5 +129,5 @@ When reversed, all registrations are withdrawn, and any transactions posted on p
 [Updating payroll data for time and attendance](updating-payroll-data-for-time-and-attendance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

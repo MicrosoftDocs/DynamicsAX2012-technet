@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security Development Tool User Guide
 TOCTitle: Security Development Tool User Guide
 ms:assetid: 98a9369e-8f9a-495a-b4c5-71b24574b5cd
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/security-development-tool-user-guide/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

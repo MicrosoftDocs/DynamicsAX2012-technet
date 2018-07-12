@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Define type of shift and industry for value models and attach to fixed asset
 TOCTitle: (IND) Define type of shift and industry for value models and attach to fixed asset
 ms:assetid: 5a76c5f3-1a6a-4811-8667-d03341338723
@@ -13,6 +13,8 @@ f1_keywords:
 - India
 - type of industry
 - type of shift
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Define type of shift and industry for value models and attach to fixed asset 
@@ -112,5 +114,5 @@ The calculation of depreciation is also based on the actual number of days in th
 [(IND) Fixed asset value model/shift depreciation (form)](https://technet.microsoft.com/en-us/library/jj678007\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

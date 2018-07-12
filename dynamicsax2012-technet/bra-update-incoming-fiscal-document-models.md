@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Update incoming fiscal document models
 TOCTitle: (BRA) Update incoming fiscal document models
 ms:assetid: d2380f84-5093-4ffb-97ce-276f7b3378c6
@@ -28,5 +28,5 @@ Use the following procedure to upgrade fiscal document models for incoming fisca
 [(BRA) Update incoming fiscal document models (form)](https://technet.microsoft.com/en-us/library/jj713628\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

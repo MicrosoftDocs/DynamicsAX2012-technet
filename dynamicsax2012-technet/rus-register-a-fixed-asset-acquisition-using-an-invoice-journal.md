@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Register a fixed asset acquisition using an invoice journal
 TOCTitle: (RUS) Register a fixed asset acquisition using an invoice journal
 ms:assetid: 34bbdc29-e838-45cf-bcda-2b590cf36e4a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665269(v=AX.60)
 ms:contentKeyID: 49387358
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Register a fixed asset acquisition using an invoice journal 
@@ -93,5 +95,5 @@ You can record the purchase of a fixed asset with the vendor invoice journal if 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

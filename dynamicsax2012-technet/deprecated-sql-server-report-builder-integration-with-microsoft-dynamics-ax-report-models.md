@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: SQL Server Report Builder integration with Microsoft Dynamics AX report models'
 TOCTitle: SQL Server Report Builder integration with Microsoft Dynamics AX report models
 ms:assetid: 8ef50b2a-132b-4f40-add6-ac6fb21d0ceb
@@ -54,5 +54,5 @@ Microsoft SQL Server Report Builder is a tool that is distributed with SQL Serve
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

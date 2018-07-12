@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fill utility configuration key (SysFillUtility)
 TOCTitle: Fill utility configuration key (SysFillUtility)
 ms:assetid: 33e98792-2f1b-4bed-881a-913b928cd45b
@@ -92,5 +92,5 @@ For more information about how license codes and configuration keys work togethe
 [License configuration (form)](https://technet.microsoft.com/en-us/library/aa499446\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

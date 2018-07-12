@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify a request for quotation
 TOCTitle: Modify a request for quotation
 ms:assetid: 77b0b7b8-4718-465c-9f25-ba5a60937b09
@@ -28,6 +28,8 @@ f1_keywords:
 - modification
 - edits
 - changes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Modify a request for quotation 
@@ -254,5 +256,5 @@ Use this procedure to request additional items or information from the vendor or
 [Request for quotation details (form)](https://technet.microsoft.com/en-us/library/hh209669\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'How to: Create a Date Dimension for a Cube'
 TOCTitle: 'How to: Create a Date Dimension for a Cube'
 ms:assetid: 81508890-2f55-40d4-9894-53118a598f1d
@@ -48,5 +48,5 @@ Microsoft Dynamics AX provides a default calendar definition called the Date dim
 You cannot remove a date dimension by using the **Analysis Services project wizard**. You must delete it by using Microsoft SQL Server Business Intelligence Development Studio (BIDS).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

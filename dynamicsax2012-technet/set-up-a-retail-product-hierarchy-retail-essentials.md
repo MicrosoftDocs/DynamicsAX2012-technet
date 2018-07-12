@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a retail product hierarchy (Retail essentials)
 TOCTitle: Set up a retail product hierarchy (Retail essentials)
 ms:assetid: ce122d50-a117-4d51-a218-a20f9255a5e7
@@ -92,5 +92,5 @@ To modify a supplemental retail hierarchy, follow these steps:
 [Retail hierarchy (Retail essentials)](retail-hierarchy-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

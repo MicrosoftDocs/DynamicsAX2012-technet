@@ -1,4 +1,4 @@
-﻿---
+---
 title: About batch orders
 TOCTitle: About batch orders
 ms:assetid: 54f9f5e5-fe5e-47d4-bb72-e2c2ad6557fa
@@ -14,6 +14,8 @@ f1_keywords:
 - process manufacturing
 - rework a batch order
 - split a batch order
+audience: Application User
+ms.search.region: Global
 ---
 
 # About batch orders 
@@ -50,5 +52,5 @@ You can use the following processes to split a batch order into two or more batc
 [Create batch (form)](https://technet.microsoft.com/en-us/library/hh328644\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Invoice turnover report (VendInvoiceVolume)
 TOCTitle: Invoice turnover report (VendInvoiceVolume)
 ms:assetid: b2b279fa-b16f-4ed4-af36-bec1faea2e5e
@@ -132,5 +132,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Processing batch jobs](processing-batch-jobs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

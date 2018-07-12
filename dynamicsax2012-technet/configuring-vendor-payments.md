@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring vendor payments
 TOCTitle: Configuring vendor payments
 ms:assetid: 5020198e-4d70-4e2e-b8a0-0d66d680ac56
@@ -19,6 +19,8 @@ f1_keywords:
 - methods
 - prenote
 - prenotes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring vendor payments 
@@ -43,5 +45,5 @@ The following topics provide information about configuring vendor payments.
 [Set up vendor rebate agreements](set-up-vendor-rebate-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About WIP sales value accounts
 TOCTitle: About WIP sales value accounts
 ms:assetid: 299a79c8-06ce-45bb-b1b1-372cd3583825
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - sales value account
 - WIP
+audience: Application User
+ms.search.region: Global
 ---
 
 # About WIP sales value accounts 
@@ -132,5 +134,5 @@ For fixed-price projects, in the **Project groups** form, on the **Estimate** Fa
 [Line properties (form)](https://technet.microsoft.com/en-us/library/aa590082\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

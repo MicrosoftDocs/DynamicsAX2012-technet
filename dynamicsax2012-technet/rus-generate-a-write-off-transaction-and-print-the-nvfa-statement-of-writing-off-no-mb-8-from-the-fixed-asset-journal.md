@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate a write-off transaction and print the NVFA statement of writing off (No. MB-8) from the fixed asset journal
 TOCTitle: (RUS) Generate a write-off transaction and print the NVFA statement of writing off (No. MB-8) from the fixed asset journal
 ms:assetid: ae3d8f22-9789-4a19-a58e-cdf3387f42cc
@@ -12,6 +12,8 @@ f1_keywords:
 - special rigging
 - working clothes
 - Write-off
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate a write-off transaction and print the NVFA statement of writing off (No. MB-8) from the fixed asset journal 
@@ -76,5 +78,5 @@ Use this procedure to print the not valuable fixed asset (NVFA) Statement of wri
 [(RUS) Not valuable FAs (form)](https://technet.microsoft.com/en-us/library/jj911484\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

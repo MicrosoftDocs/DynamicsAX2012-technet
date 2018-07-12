@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use the Data import/export framework to migrate data (Retail essentials)
 TOCTitle: Use the Data import/export framework to migrate data (Retail essentials)
 ms:assetid: f5d95348-6740-4578-90e0-98954e9848b7
@@ -144,5 +144,5 @@ You can change the sequence in which fields are processed. You can also enable a
 [Configure and schedule data distribution for retail stores (Retail essentials)](configure-and-schedule-data-distribution-for-retail-stores-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

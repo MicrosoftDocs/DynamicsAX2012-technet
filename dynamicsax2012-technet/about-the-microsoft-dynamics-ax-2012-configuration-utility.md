@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the Microsoft Dynamics AX 2012 Configuration utility
 TOCTitle: About the Microsoft Dynamics AX 2012 Configuration utility
 ms:assetid: 71ed1cd3-6473-4bbe-8f6d-ef792f0dfe6c
@@ -44,5 +44,5 @@ For large-scale deployments, we recommend that you deploy the utility on a netwo
 [Plan system topology](plan-system-topology.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

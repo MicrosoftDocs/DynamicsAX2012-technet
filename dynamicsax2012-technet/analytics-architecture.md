@@ -1,4 +1,4 @@
-﻿---
+---
 title: Analytics architecture
 TOCTitle: Analytics architecture
 ms:assetid: 5e94c4a3-c3d3-4655-a98e-6b91f8a0dc8f
@@ -30,5 +30,5 @@ The following components are used to access cubes or display cube data. The numb
 5.  **Report Builder** – Microsoft Report Builder is a component of Reporting Services that users can use to design and format reports and charts. For more information, see [Create a report by using SQL Server Report Builder to connect to a cube](create-a-report-by-using-sql-server-report-builder-to-connect-to-a-cube.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

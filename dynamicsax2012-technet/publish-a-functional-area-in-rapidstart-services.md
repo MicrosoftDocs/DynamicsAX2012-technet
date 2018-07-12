@@ -1,4 +1,4 @@
-﻿---
+---
 title: Publish a functional area in RapidStart Services
 TOCTitle: Publish a functional area in RapidStart Services
 ms:assetid: 4facdf8a-e935-4391-b36d-d8ecea5ea2ac
@@ -45,5 +45,5 @@ After you add question groups to a functional area in Microsoft Dynamics ERP Rap
 [Identify unpublished functional areas in RapidStart Services](identify-unpublished-functional-areas-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

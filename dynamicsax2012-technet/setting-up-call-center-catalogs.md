@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up call center catalogs
 TOCTitle: Setting up call center catalogs
 ms:assetid: a6d99d3d-ff33-4f49-85df-23d88b10474b
@@ -11,6 +11,8 @@ f1_keywords:
 - set up catalogs
 - call center catalogs
 - print catalogs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up call center catalogs 
@@ -35,5 +37,5 @@ You can also set up source codes to track the customer response to particular ca
 [Enter a catalog source code](enter-a-catalog-source-code.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

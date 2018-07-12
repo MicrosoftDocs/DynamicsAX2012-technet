@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Set up advance holders
 TOCTitle: (EEUR) Set up advance holders
 ms:assetid: 5c3b558d-9bd4-414c-8f5a-958d15a3a11f
@@ -10,6 +10,8 @@ f1_keywords:
 - advance holders
 - holders
 - set up advance holders
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Set up advance holders 
@@ -46,5 +48,5 @@ Use this procedure to set up advance holders from the directory of workers.
 [(EEUR) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj720358\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

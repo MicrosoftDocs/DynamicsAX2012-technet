@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mark orders
 TOCTitle: Mark orders
 ms:assetid: 6833362a-719d-4990-800a-e2964ab2ceb8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571161(v=AX.60)
 ms:contentKeyID: 44080991
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Mark orders 
@@ -58,5 +60,5 @@ For example, if the **Warehouse** dimension is tracked financially for a transac
 [Lot (form)](https://technet.microsoft.com/en-us/library/aa619125\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

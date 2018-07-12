@@ -1,4 +1,4 @@
-﻿---
+---
 title: Production control reports
 TOCTitle: Production control reports
 ms:assetid: 23f3ccdc-28c7-4e9f-9636-37f4f064b606
@@ -36,5 +36,5 @@ The following reports are available in the **Production control** module of Micr
 [(CHN) Production cost comparison (report)](chn-production-cost-comparison-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

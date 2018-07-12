@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Generate the purchase tax report
 TOCTitle: (MEX) Generate the purchase tax report
 ms:assetid: f6827860-c82d-4a73-8da3-32c042200020
@@ -10,6 +10,8 @@ f1_keywords:
 - Mexico
 - report
 - purchase tax
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Generate the purchase tax report 
@@ -46,5 +48,5 @@ You can generate purchase tax reports to prepare, verify, and reconcile VAT and 
 [(MEX) Generate the sales tax report](mex-generate-the-sales-tax-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

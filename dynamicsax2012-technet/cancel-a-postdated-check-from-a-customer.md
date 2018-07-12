@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cancel a postdated check from a customer
 TOCTitle: Cancel a postdated check from a customer
 ms:assetid: 1aca7e73-4e7d-4274-a2d8-6807dc36857d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - checks
 - postdated checks
+audience: Application User
+ms.search.region: Global
 ---
 
 # Cancel a postdated check from a customer 
@@ -37,5 +39,5 @@ Use the **Customer postdated checks** form to cancel a postdated check received 
 If the **Post journal entries for postdated checks** check box is selected in the **Cash and bank management parameters** form, the transaction for the check is reversed in the customer payment journal. If the **Post journal entries for postdated checks** check box is not selected, the customer payment journal for the check is deleted.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

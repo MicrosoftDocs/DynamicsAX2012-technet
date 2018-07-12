@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Process sales with future delivery
 TOCTitle: (BRA) Process sales with future delivery
 ms:assetid: eb69d0ea-2694-43dd-8bf8-c60d623d66b7
@@ -11,6 +11,8 @@ f1_keywords:
 - Brazil
 - future delivery
 - process sales
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Process sales with future delivery 
@@ -89,5 +91,5 @@ In Brazil, a sale of items that uses anticipated invoicing occurs in two phases.
 [(BRA) Sales posting (modified form)](https://technet.microsoft.com/en-us/library/jj853383\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

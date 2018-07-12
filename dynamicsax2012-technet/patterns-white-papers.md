@@ -1,4 +1,4 @@
-﻿---
+---
 title: Patterns white papers
 TOCTitle: Patterns white papers
 ms:assetid: 6f32fa82-2b8f-4260-91cf-142f8963d0c7
@@ -54,5 +54,5 @@ The papers in this section provide information about the recommended coding prac
 [Trade Agreement Evaluation Policies (White paper)](trade-agreement-evaluation-policies-white-paper.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

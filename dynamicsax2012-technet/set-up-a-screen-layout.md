@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a screen layout
 TOCTitle: Set up a screen layout
 ms:assetid: 8a835e7f-0fda-4abd-8124-08044cad2930
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597160(v=AX.60)
 ms:contentKeyID: 39519217
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a screen layout 
@@ -36,5 +38,5 @@ The screen layout specifies how the screen is displayed on the point of sale (PO
 [Screen layouts (form)](https://technet.microsoft.com/en-us/library/hh597310\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Reduction entry for fixed assets
 TOCTitle: (JPN) Reduction entry for fixed assets
 ms:assetid: 24566bcf-b8e7-433f-805e-02756f08d989
@@ -18,6 +18,8 @@ f1_keywords:
 - Reduction entry
 - subsidies
 - subsidy
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Reduction entry for fixed assets 
@@ -92,5 +94,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [(JPN) Apply reduction entry and depreciate fixed assets](jpn-apply-reduction-entry-and-depreciate-fixed-assets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

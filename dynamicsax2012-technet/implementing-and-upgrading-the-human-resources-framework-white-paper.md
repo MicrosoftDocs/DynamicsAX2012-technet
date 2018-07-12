@@ -1,4 +1,4 @@
-﻿---
+---
 title: Implementing and Upgrading the Human Resources Framework (White paper)
 TOCTitle: Implementing and Upgrading the Human Resources Framework
 ms:assetid: 8cc1d1c0-9e9e-44bb-a3a4-7eb140ffb285
@@ -20,5 +20,5 @@ This paper outlines the changes in Microsoft Dynamics AX 2012 and how to revise 
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213128).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Retail
 TOCTitle: Working with Retail
 ms:assetid: 25a0421c-913f-4b2c-a51c-dc65d412f861
@@ -8,6 +8,8 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
 - retail
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Retail 
@@ -34,5 +36,5 @@ The topics in this section provide information about working with retail operati
 [Manage store inventory overview](manage-store-inventory-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

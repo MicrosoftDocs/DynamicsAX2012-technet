@@ -1,4 +1,4 @@
-﻿---
+---
 title: (AUS) Transfer one asset to a low-value pool
 TOCTitle: (AUS) Transfer one asset to a low-value pool
 ms:assetid: 53a2f723-3751-4c0b-8010-5820f65fd950
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212796(v=AX.60)
 ms:contentKeyID: 36057300
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Australia
 ---
 
 # (AUS) Transfer one asset to a low-value pool 
@@ -48,5 +50,5 @@ Although you can transfer assets to a low-value pool from the **Value models** f
 [(AUS) Transfer one or more low value assets to a low value pool](aus-transfer-one-or-more-low-value-assets-to-a-low-value-pool.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

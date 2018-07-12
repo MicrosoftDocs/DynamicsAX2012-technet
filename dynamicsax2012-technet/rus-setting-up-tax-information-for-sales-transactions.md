@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up tax information for sales transactions
 TOCTitle: (RUS) Setting up tax information for sales transactions
 ms:assetid: f5ec528f-0de6-4543-9554-fc969f0a398d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678625(v=AX.60)
 ms:contentKeyID: 49388107
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up tax information for sales transactions 
@@ -20,5 +22,5 @@ The following topic provides information about setting up tax information for sa
 [(RUS) Set up parameters to create corrective and revised factures](rus-set-up-parameters-to-create-corrective-and-revised-factures.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

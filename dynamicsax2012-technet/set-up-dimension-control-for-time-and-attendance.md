@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up dimension control for time and attendance
 TOCTitle: Set up dimension control for time and attendance
 ms:assetid: d44960f4-e506-4eb0-a824-822ef8109809
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551087(v=AX.60)
 ms:contentKeyID: 36059519
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up dimension control for time and attendance 
@@ -46,5 +48,5 @@ You can configure dimension parameters for different types of jobs. Project acti
 [About dimension control for time and attendance](about-dimension-control-for-time-and-attendance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

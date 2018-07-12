@@ -1,4 +1,4 @@
-﻿---
+---
 title: Specifying overdelivery or underdelivery on transfer order lines
 TOCTitle: Specifying overdelivery or underdelivery on transfer order lines
 ms:assetid: 4b4dbe39-5db1-413e-9bc1-e6c0ac59b191
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352200(v=AX.60)
 ms:contentKeyID: 36687834
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Specifying overdelivery or underdelivery on transfer order lines 
@@ -48,5 +50,5 @@ The overdelivery and underdelivery percentage can be enabled directly on the pro
 [Set up transfer order lines](set-up-transfer-order-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

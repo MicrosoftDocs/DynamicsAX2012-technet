@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Create and post a credit note for a project invoice for a public sector customer
 TOCTitle: (DNK) Create and post a credit note for a project invoice for a public sector customer
 ms:assetid: e3c59ed3-565e-4980-a4c1-773ca3fbde59
@@ -11,6 +11,8 @@ f1_keywords:
 - OIOUBL
 - project invoice
 - credit note
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Create and post a credit note for a project invoice for a public sector customer 
@@ -67,5 +69,5 @@ When the batch job is processed, invoices for customers who have an EAN number a
 [Select for credit note (form)](https://technet.microsoft.com/en-us/library/aa550205\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

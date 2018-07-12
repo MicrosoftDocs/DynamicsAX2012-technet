@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (RUS) VAT reports'
 TOCTitle: (RUS) VAT reports
 ms:assetid: 46dea059-f813-463e-b023-a89721d777fe
@@ -59,5 +59,5 @@ Microsoft Dynamics AX 2009 includes country-specific value-added tax (VAT) repor
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

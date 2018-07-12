@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete an approved vendor from an item
 TOCTitle: Delete an approved vendor from an item
 ms:assetid: 3f47710c-43dc-40ac-a6c3-648f03361eb9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242253(v=AX.60)
 ms:contentKeyID: 36056703
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete an approved vendor from an item 
@@ -52,5 +54,5 @@ Use this procedure to delete an approved vendor from a product. To delete a vend
 [Released products (list page)](https://technet.microsoft.com/en-us/library/hh597154\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

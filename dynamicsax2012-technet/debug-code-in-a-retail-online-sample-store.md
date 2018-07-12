@@ -1,4 +1,4 @@
-﻿---
+---
 title: Debug code in a Retail online sample store
 TOCTitle: Debug code in a Retail online sample store
 ms:assetid: 3bc6eddc-6e74-46b6-bbe2-46318feb619b
@@ -32,5 +32,5 @@ You can debug test, and speed up your webpages by using the F12 developer tools.
 To step through code in the online store pages, you must attach the worker process w3wp.exe that runs ASP.NET applications within IIS. To find the worker process, open IIS Manager, select the server name and click **Worker Processes** in the **IIS** section of the **Features View** pane. Then find the worker process that matches the Application Pool for the site. You can use IIS to find the name of the Application Pool for the site, and determine the user that the Application Pool runs under.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Receive a purchase order or transfer order
 TOCTitle: Receive a purchase order or transfer order
 ms:assetid: 0cab3a42-089b-4c72-8933-c5dd967cee36
@@ -10,6 +10,8 @@ f1_keywords:
 - EPRetailReceivingDetails
 - EPRetailReceivingDetailsEdit
 - EPRetailReceivingListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Receive a purchase order or transfer order 
@@ -58,5 +60,5 @@ You can also receive inventory in Microsoft Dynamics AX for Retail POS. For more
 [Complete an outgoing transfer order](complete-an-outgoing-transfer-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

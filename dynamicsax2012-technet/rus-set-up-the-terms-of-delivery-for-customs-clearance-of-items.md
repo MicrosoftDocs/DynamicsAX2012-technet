@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the terms of delivery for customs clearance of items
 TOCTitle: (RUS) Set up the terms of delivery for customs clearance of items
 ms:assetid: 80b8355a-e6e5-457f-88c0-841cf58eb6ed
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733247(v=AX.60)
 ms:contentKeyID: 49685214
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the terms of delivery for customs clearance of items 
@@ -36,5 +38,5 @@ Use the **Terms of delivery** form to set up the terms of delivery for the custo
 [(RUS) Terms of delivery (modified form)](https://technet.microsoft.com/en-us/library/jj733176\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up accounts payable parameters for dimensions control for settlements
 TOCTitle: (RUS) Set up accounts payable parameters for dimensions control for settlements
 ms:assetid: 3c2d8393-90ca-4328-b315-a6fac004e7c2
@@ -11,6 +11,8 @@ f1_keywords:
 - (RUS)
 - accounts payable parameters
 - dimensions control for settlements
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up accounts payable parameters for dimensions control for settlements 
@@ -53,5 +55,5 @@ Use this procedure to set up accounts payable parameters for dimension control f
 [(RUS) Set up accounts receivable parameters for dimensions control for settlements](rus-set-up-accounts-receivable-parameters-for-dimensions-control-for-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

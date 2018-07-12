@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Search
 TOCTitle: Enterprise Search
 ms:assetid: 87c0bd59-3116-4035-9677-b4172ee85497
@@ -40,10 +40,9 @@ The topics in this section provide information about Enterprise Search.
 [Enterprise Search operations](enterprise-search-operations.md)
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

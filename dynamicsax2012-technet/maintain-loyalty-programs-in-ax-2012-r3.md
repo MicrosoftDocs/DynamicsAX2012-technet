@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain loyalty programs in AX 2012 R3
 TOCTitle: Maintain loyalty programs in AX 2012 R3
 ms:assetid: b4d7a5ce-8bda-4404-a3ed-d48e90bbd388
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497820(v=AX.60)
 ms:contentKeyID: 62231565
 ms.date: 04/29/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain loyalty programs in AX 2012 R3 
@@ -98,5 +100,5 @@ The following table lists the forms that support the loyalty program business pr
 [About setting up loyalty programs in AX 2012 R3](about-setting-up-loyalty-programs-in-ax-2012-r3.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

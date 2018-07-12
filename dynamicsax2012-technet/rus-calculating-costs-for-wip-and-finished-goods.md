@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculating costs for WIP and finished goods
 TOCTitle: (RUS) Calculating costs for WIP and finished goods
 ms:assetid: 16096e1e-99d7-4640-8a54-3fae9538d71e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711422(v=AX.60)
 ms:contentKeyID: 49387240
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculating costs for WIP and finished goods 
@@ -66,5 +68,5 @@ The cost of the finished goods generated during the period is calculated by usin
 Finished goods cost = Costs – WIP cost – Defective products – Fr
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

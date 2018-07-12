@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up letter of guarantee information
 TOCTitle: Setting up letter of guarantee information
 ms:assetid: e34d6094-a34f-41e0-891b-15773afa585c
@@ -10,6 +10,8 @@ f1_keywords:
 - letter
 - letter of guarantee
 - guarantee
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up letter of guarantee information 
@@ -24,5 +26,5 @@ The following topics provide information about activating the letter of guarante
 [Set up letter of guarantee cancellation reasons and purpose code types](set-up-letter-of-guarantee-cancellation-reasons-and-purpose-code-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

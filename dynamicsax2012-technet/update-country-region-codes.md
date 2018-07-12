@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update country/region codes
 TOCTitle: Update country/region codes
 ms:assetid: 368ea61f-7bab-4911-b0c9-71f3868b94ea
@@ -56,5 +56,5 @@ Use this form to view default country/region codes and the corresponding address
 4.  Click **Set to ready for upgrade**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

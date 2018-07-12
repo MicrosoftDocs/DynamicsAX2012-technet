@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a catch weight item with partial visibility
 TOCTitle: Create a catch weight item with partial visibility
 ms:assetid: c479528a-c743-44ed-850d-6f6575ef0478
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352345(v=AX.60)
 ms:contentKeyID: 36687976
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a catch weight item with partial visibility 
@@ -70,5 +72,5 @@ Use this procedure to create a catch weight item with partial visibility. For a 
 [Released products (list page)](https://technet.microsoft.com/en-us/library/hh597154\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

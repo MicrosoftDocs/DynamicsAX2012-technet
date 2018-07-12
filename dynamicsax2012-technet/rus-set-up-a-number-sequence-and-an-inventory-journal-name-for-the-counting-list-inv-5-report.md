@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a number sequence and an inventory journal name for the Counting list (INV-5) report
 TOCTitle: (RUS) Set up a number sequence and an inventory journal name for the Counting list (INV-5) report
 ms:assetid: 69f7ec53-a127-4e56-b516-bcd5469eedfa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678332(v=AX.60)
 ms:contentKeyID: 49387563
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a number sequence and an inventory journal name for the Counting list (INV-5) report 
@@ -44,5 +46,5 @@ You can set up a number sequence and create a new inventory journal name for the
 [(RUS) Generate the Counting list (INV-5) report](rus-generate-the-counting-list-inv-5-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

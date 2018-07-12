@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up site and warehouse hierarchies
 TOCTitle: Set up site and warehouse hierarchies
 ms:assetid: 5881b5d1-eba5-48c8-bc48-107d0a162631
@@ -13,6 +13,8 @@ f1_keywords:
 - warehouses at sites
 - site and warehouse structure
 - site infrastructure
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up site and warehouse hierarchies 
@@ -180,5 +182,5 @@ After you set up a hierarchy of sites and warehouses, the following rules apply 
 [Create sites](create-sites.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

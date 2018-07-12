@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Process electronic payment remittances
 TOCTitle: (BRA) Process electronic payment remittances
 ms:assetid: b6dfc0bc-f391-4dc7-beb8-d056bdb3da9d
@@ -10,6 +10,8 @@ f1_keywords:
 - remittance file
 - export file
 - BR - 00008
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Process electronic payment remittances 
@@ -80,5 +82,5 @@ You can use a simple or complex file structure to generate a remittance file. If
 [Key tasks: Vendor payments and settlements](key-tasks-vendor-payments-and-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

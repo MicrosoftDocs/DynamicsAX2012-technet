@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Print a Japanese financial statement
 TOCTitle: (JPN) Print a Japanese financial statement
 ms:assetid: 10877d0c-a18d-4c58-95e5-a9e52b9785b4
@@ -12,6 +12,8 @@ f1_keywords:
 - Japanese
 - (JPN)
 - Japan
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Print a Japanese financial statement 
@@ -60,5 +62,5 @@ You can export and print Japanese financial statements, such as balance sheets, 
 [Financial statement setup (form)](https://technet.microsoft.com/en-us/library/aa600912\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up proposed assets and proposed projects for budget plans
 TOCTitle: Set up proposed assets and proposed projects for budget plans
 ms:assetid: b8805e0b-da99-4587-91cd-497dd59b35c8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677356(v=AX.60)
 ms:contentKeyID: 49384131
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up proposed assets and proposed projects for budget plans 
@@ -36,5 +38,5 @@ Proposed assets are placeholders for fixed assets that are planned, but that hav
 [Key tasks: Create and process budget plans](key-tasks-create-and-process-budget-plans.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

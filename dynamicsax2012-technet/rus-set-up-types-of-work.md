@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up types of work
 TOCTitle: (RUS) Set up types of work
 ms:assetid: 750ff48e-e28e-4655-a524-db23897fc5cd
@@ -10,6 +10,8 @@ f1_keywords:
 - work
 - Russia
 - types of work
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up types of work 
@@ -30,5 +32,5 @@ Use the **Types of works** form to define the types of work that employees perfo
 [(RUS) Types of works (form)](https://technet.microsoft.com/en-us/library/jj853242\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

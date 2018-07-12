@@ -1,4 +1,4 @@
-﻿---
+---
 title: Activate user profiles for Role Centers
 TOCTitle: Activate user profiles for Role Centers
 ms:assetid: 98c4f1db-08d4-42bc-983c-632363db230a
@@ -28,5 +28,5 @@ After you import user profiles, you must do the following:
   - Configure Role Centers. For more information, see [Checklist: Configure Role Centers](checklist-configure-role-centers.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

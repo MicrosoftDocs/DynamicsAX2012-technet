@@ -1,4 +1,4 @@
-﻿---
+---
 title: Closing the month, period, and fiscal year
 TOCTitle: Closing the month, period, and fiscal year
 ms:assetid: a1a394b1-3bf5-4720-a0d0-b86fa15348fb
@@ -14,6 +14,8 @@ f1_keywords:
 - month closing
 - fiscal year closing
 - year closing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Closing the month, period, and fiscal year 
@@ -48,5 +50,5 @@ The topics in this section provide information about the tasks that are related 
 [(ITA) Generate the "Italian black list" report for taxable transactions](ita-generate-the-italian-black-list-report-for-taxable-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

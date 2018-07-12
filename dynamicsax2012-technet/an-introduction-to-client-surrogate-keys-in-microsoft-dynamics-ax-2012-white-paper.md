@@ -1,4 +1,4 @@
-﻿---
+---
 title: An Introduction to Client Surrogate Keys in Microsoft Dynamics AX 2012 (White paper)
 TOCTitle: An Introduction to Client Surrogate Keys in Microsoft Dynamics AX 2012
 ms:assetid: aa0ff132-d509-45cd-ba9d-e70db1addfa2
@@ -18,5 +18,5 @@ This paper defines surrogate keys in the context of Microsoft Dynamics AX 2012 a
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=268363).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

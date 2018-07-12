@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define how trade allowance works in your organization
 TOCTitle: Define how trade allowance works in your organization
 ms:assetid: ebce4810-14d9-4d8e-bd16-66a84807aa0c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn727066(v=AX.60)
 ms:contentKeyID: 62381663
 ms.date: 05/27/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define how trade allowance works in your organization 
@@ -79,5 +81,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

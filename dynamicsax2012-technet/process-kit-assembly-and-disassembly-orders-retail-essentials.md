@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process kit assembly and disassembly orders (Retail essentials)
 TOCTitle: Process kit assembly and disassembly orders (Retail essentials)
 ms:assetid: a222bcb6-f4d3-40f9-b5f5-e11cda3a50a0
@@ -148,5 +148,5 @@ For more information about how to complete the sales order form, see [Sales orde
 [Create retail product kits (Retail essentials)](create-retail-product-kits-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

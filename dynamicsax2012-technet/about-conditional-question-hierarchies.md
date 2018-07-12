@@ -1,4 +1,4 @@
-﻿---
+---
 title: About conditional question hierarchies
 TOCTitle: About conditional question hierarchies
 ms:assetid: 1bb461b8-240f-4284-9b46-7e8292004332
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569931(v=AX.60)
 ms:contentKeyID: 41702363
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About conditional question hierarchies 
@@ -38,5 +40,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [Distributing questionnaires](distributing-questionnaires.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

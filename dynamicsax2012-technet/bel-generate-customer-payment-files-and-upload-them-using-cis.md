@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Generate customer payment files and upload them using CIS
 TOCTitle: (BEL) Generate customer payment files and upload them using CIS
 ms:assetid: 2e496e17-5299-48cc-82b9-4329d7c7ab49
@@ -11,6 +11,8 @@ f1_keywords:
 - IBS
 - CIS
 - customer payment file
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Generate customer payment files and upload them using CIS 
@@ -91,5 +93,5 @@ After a payment file is successfully uploaded, the Isabel 6 transactions are upd
 [(BEL) Generate vendor payment files and upload them using CIS](bel-generate-vendor-payment-files-and-upload-them-using-cis.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

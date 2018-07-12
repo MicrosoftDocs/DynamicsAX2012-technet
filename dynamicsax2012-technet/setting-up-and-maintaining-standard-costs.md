@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining standard costs
 TOCTitle: Setting up and maintaining standard costs
 ms:assetid: d4b9ea1c-8f6c-4a55-8ade-40418adb6872
@@ -14,6 +14,8 @@ f1_keywords:
 - standard costs
 - cost accounting
 - cost management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining standard costs 
@@ -38,5 +40,5 @@ The topics in this section provide information about how to set up and maintain 
 [Maintaining standard costs in a manufacturing environment](maintaining-standard-costs-in-a-manufacturing-environment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

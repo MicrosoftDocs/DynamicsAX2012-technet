@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Configuring an outbound integration port for payments'
 TOCTitle: 'Walkthrough: Configuring an outbound integration port for payments'
 ms:assetid: b2a8b438-981d-49ec-ab1a-5dbbde686a57
@@ -296,5 +296,5 @@ A user can enter a vendor invoice, and then enter and settle a payment with the 
 [Recurrence (form)](https://technet.microsoft.com/en-us/library/aa616143\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

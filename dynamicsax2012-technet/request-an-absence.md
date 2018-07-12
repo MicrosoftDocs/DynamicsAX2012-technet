@@ -1,4 +1,4 @@
-﻿---
+---
 title: Request an absence
 TOCTitle: Request an absence
 ms:assetid: dac3ec87-b7ad-4c8c-92c1-19c4d75310a9
@@ -10,6 +10,8 @@ f1_keywords:
 - HcmEPAbsenceRequestCreate
 - HcmEPAbsenceRequestEdit
 - HcmEPAbsenceRequestList
+audience: Application User
+ms.search.region: Global
 ---
 
 # Request an absence 
@@ -74,5 +76,5 @@ If you request to be absent for multiple days, an absence request will be create
 [Register an absence (Enterprise Portal)](register-an-absence-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

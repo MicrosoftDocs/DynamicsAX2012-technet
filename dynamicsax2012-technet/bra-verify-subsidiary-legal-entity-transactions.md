@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Verify subsidiary legal entity transactions
 TOCTitle: (BRA) Verify subsidiary legal entity transactions
 ms:assetid: b5748c96-c59c-4a9e-b3ac-584824151d70
@@ -12,6 +12,8 @@ f1_keywords:
 - consolidated company
 - subsidiary company
 - verify transactions
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Verify subsidiary legal entity transactions 
@@ -48,5 +50,5 @@ Use the **Account number %1** form to view the original transactions of a subsid
 [(BRA) Posted sales tax (modified form)](https://technet.microsoft.com/en-us/library/jj710417\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

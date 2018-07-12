@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About fiscal document text placeholders
 TOCTitle: (BRA) About fiscal document text placeholders
 ms:assetid: 4506c98e-15a0-4a29-8d18-f571ccad4520
@@ -14,6 +14,8 @@ f1_keywords:
 - fiscal document placeholders
 - fiscal document text
 - BR - 00020
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About fiscal document text placeholders 
@@ -322,5 +324,5 @@ The following table contains the predefined tags for imports, and their values.
 [(BRA) Attach fiscal document texts to a fiscal document](bra-attach-fiscal-document-texts-to-a-fiscal-document.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

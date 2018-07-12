@@ -1,4 +1,4 @@
-﻿---
+---
 title: Financials (Retail essentials)
 TOCTitle: Financials (Retail essentials)
 ms:assetid: 0f8e91df-ea97-48ae-b424-c077bc848ad2
@@ -44,5 +44,5 @@ The topics in this section provide information about working with the financial 
 [Export accounting information (Retail essentials)](export-accounting-information-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

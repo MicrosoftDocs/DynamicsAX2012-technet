@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Microsoft Dynamics AX 2009 benefits setup forms'
 TOCTitle: Microsoft Dynamics AX 2009 benefits setup forms
 ms:assetid: abc9aa41-7e84-415b-b28d-940d154e9158
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, benefits were set up by using the benefits setup 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an XML payment file for customers
 TOCTitle: Create an XML payment file for customers
 ms:assetid: 8457d658-60cb-43ee-b9a8-66340c1c7ea1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh452631(v=AX.60)
 ms:contentKeyID: 36971929
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an XML payment file for customers 
@@ -50,5 +52,5 @@ The electronic payment files that you can create for customers can have many XML
 [Set up an outbound payment format](set-up-an-outbound-payment-format.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

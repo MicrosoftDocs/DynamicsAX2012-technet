@@ -1,4 +1,4 @@
-﻿---
+---
 title: Determine customer satisfaction level
 TOCTitle: Determine customer satisfaction level
 ms:assetid: 9b0857ca-4129-40e8-a6c3-0bc307ead719
@@ -10,6 +10,8 @@ f1_keywords:
 - service
 - repair
 - customer
+audience: Application User
+ms.search.region: Global
 ---
 
 # Determine customer satisfaction level 
@@ -22,5 +24,5 @@ The topics in this section provide information about how to determine the level 
 [View compliance with service level agreements](view-compliance-with-service-level-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

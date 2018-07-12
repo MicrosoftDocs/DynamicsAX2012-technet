@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Change a report template for electronic reporting
 TOCTitle: (RUS) Change a report template for electronic reporting
 ms:assetid: bf3b5a5b-a575-4920-b2f4-650499f1c496
@@ -11,6 +11,8 @@ f1_keywords:
 - template
 - electronic reporting
 - change a template
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Change a report template for electronic reporting 
@@ -53,5 +55,5 @@ Use the **Document templates** form to change a report template for electronic r
 [(RUS) Set up the periods of formats application directory](rus-set-up-the-periods-of-formats-application-directory.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

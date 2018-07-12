@@ -1,4 +1,4 @@
-﻿---
+---
 title: About electronic timecards
 TOCTitle: About electronic timecards
 ms:assetid: fce7d032-8895-441b-a582-89b3e335c06d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - TSTimesheetListPage
 - TSTimesheetAboutTimecard
+audience: Application User
+ms.search.region: Global
 ---
 
 # About electronic timecards 
@@ -31,5 +33,5 @@ When you have created all the registration lines on your electronic timecard for
 [Working with electronic timecards](working-with-electronic-timecards.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

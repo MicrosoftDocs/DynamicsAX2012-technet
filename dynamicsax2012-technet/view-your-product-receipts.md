@@ -1,4 +1,4 @@
-﻿---
+---
 title: View your product receipts
 TOCTitle: View your product receipts
 ms:assetid: e8942869-9f8d-44c5-8280-e4704828fba3
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPVendPackingSlipJournalListVSS
+audience: Application User
+ms.search.region: Global
 ---
 
 # View your product receipts 
@@ -36,5 +38,5 @@ Use the **Product receipts** page to view a list of product receipts that are ge
 [View your purchase order confirmations](view-your-purchase-order-confirmations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

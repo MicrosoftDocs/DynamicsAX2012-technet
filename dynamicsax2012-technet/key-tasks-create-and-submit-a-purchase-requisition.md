@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create and submit a purchase requisition'
 TOCTitle: 'Key tasks: Create and submit a purchase requisition'
 ms:assetid: 606c8fa1-45ba-40ed-8b66-32b4a9fd921b
@@ -21,6 +21,8 @@ f1_keywords:
 - key task
 - new purchase requisition
 - purchase requisition creation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create and submit a purchase requisition 
@@ -427,5 +429,5 @@ Back to top
 [Set up master plans to include requisitions](set-up-master-plans-to-include-requisitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot installation issues with AOS
 TOCTitle: Troubleshoot installation issues with AOS
 ms:assetid: e5b619c0-a99c-4841-bfc4-5d78ac5e1975
@@ -29,5 +29,5 @@ To work around this issue, you can rename the conflicting event log and attempt 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

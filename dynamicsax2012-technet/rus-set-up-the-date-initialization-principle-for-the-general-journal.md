@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the date initialization principle for the general journal
 TOCTitle: (RUS) Set up the date initialization principle for the general journal
 ms:assetid: a931a0b0-15c6-4ea7-96b0-74db158cf84f
@@ -11,6 +11,8 @@ f1_keywords:
 - general journal
 - (RUS)
 - date initialization principle
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the date initialization principle for the general journal 
@@ -41,5 +43,5 @@ Use the **Journal names** form to set up the **Principle of date initialization*
 5.  Select the **Posting date control** check box to indicate that all journal lines are to be posted on the same date.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

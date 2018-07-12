@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'How to: Specify a Chart Axis Start Value'
 TOCTitle: 'How to: Specify a Chart Axis Start Value'
 ms:assetid: 0075267a-5e53-420b-b04d-9677709fb005
@@ -88,5 +88,5 @@ The following table describes the properties related to axes.
 [Working with Data Regions](working-with-data-regions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Release product for delivery
 TOCTitle: Release product for delivery
 ms:assetid: 21eca770-d146-4dda-b646-a7b1b88062df
@@ -12,6 +12,8 @@ f1_keywords:
 - product
 - delivery
 - deliveries
+audience: Application User
+ms.search.region: Global
 ---
 
 # Release product for delivery 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to release a product fo
 [Report a BOM as finished](report-a-bom-as-finished.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Print vouchers from the General journal form
 TOCTitle: (CHN) Print vouchers from the General journal form
 ms:assetid: 669bf52c-474b-47cb-8e6e-11db1e4a18bf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664053(v=AX.60)
 ms:contentKeyID: 49384636
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Print vouchers from the General journal form 
@@ -40,5 +42,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(CHN) Print layout (form)](https://technet.microsoft.com/en-us/library/jj664037\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

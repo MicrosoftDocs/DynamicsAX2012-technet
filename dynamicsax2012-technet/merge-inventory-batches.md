@@ -1,4 +1,4 @@
-﻿---
+---
 title: Merge inventory batches
 TOCTitle: Merge inventory batches
 ms:assetid: aafee3e6-dcba-480e-83c4-f79aef7830dd
@@ -15,6 +15,8 @@ f1_keywords:
 - Forms.InventBatchJournalListPage
 - merges
 - MsDynAx060.Forms.InventBatchJournalListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Merge inventory batches 
@@ -198,5 +200,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [About batch merges in inventory](about-batch-merges-in-inventory.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

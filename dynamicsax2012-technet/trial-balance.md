@@ -1,4 +1,4 @@
-﻿---
+---
 title: " trial balance"
 TOCTitle: " trial balance"
 ms:assetid: DynamicsAXGlossary.228516
@@ -25,5 +25,5 @@ A report that lists the balances of ledger accounts for a specified time period.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

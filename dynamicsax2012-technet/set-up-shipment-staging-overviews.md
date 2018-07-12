@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up shipment staging overviews
 TOCTitle: Set up shipment staging overviews
 ms:assetid: 9892ef0f-0914-4fe6-8cda-078ff789615e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - staging
 - staging setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up shipment staging overviews 
@@ -39,5 +41,5 @@ Use shipment staging to gain an overview of the processes at the outbound dock b
 6.  Click **Update** to see all shipments that correspond to the query that you have specified.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

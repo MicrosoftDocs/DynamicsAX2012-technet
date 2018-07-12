@@ -1,4 +1,4 @@
-﻿---
+---
 title: Attach inventory items to service objects
 TOCTitle: Attach inventory items to service objects
 ms:assetid: b83c22c9-e3cb-4614-ac19-3d9669e35ab9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572250(v=AX.60)
 ms:contentKeyID: 62626032
 ms.date: 07/28/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Attach inventory items to service objects 
@@ -36,5 +38,5 @@ The item is now attached to the service object, and any inventory dimensions spe
 [Create service object relations](create-service-object-relations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

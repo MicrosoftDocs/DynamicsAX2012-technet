@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy a stored address to a project sales quotation
 TOCTitle: Copy a stored address to a project sales quotation
 ms:assetid: f1a00b9d-606d-467d-abd9-989c2c6e14b2
@@ -11,6 +11,8 @@ f1_keywords:
 - copy address
 - quotation line
 - stored address
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy a stored address to a project sales quotation 
@@ -51,5 +53,5 @@ Use this procedure to copy the address for a customer, vendor, warehouse, compan
 [Sales quotation (form)](https://technet.microsoft.com/en-us/library/aa557026\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

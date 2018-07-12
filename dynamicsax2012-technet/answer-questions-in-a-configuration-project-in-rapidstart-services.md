@@ -1,4 +1,4 @@
-﻿---
+---
 title: Answer questions in a configuration project in RapidStart Services
 TOCTitle: Answer questions in a configuration project in RapidStart Services
 ms:assetid: 6788d7e3-66c6-46ee-8247-73b2467edf91
@@ -118,5 +118,5 @@ When you have finished working on a page of questions, click **Save** at the top
 [Work with configuration projects in Microsoft Dynamics ERP RapidStart Services](work-with-configuration-projects-in-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

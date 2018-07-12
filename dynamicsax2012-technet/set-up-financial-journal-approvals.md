@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up financial journal approvals
 TOCTitle: Set up financial journal approvals
 ms:assetid: 02c774ac-db76-4709-98a4-c1a14db1948a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230652(v=AX.60)
 ms:contentKeyID: 36055934
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up financial journal approvals 
@@ -48,5 +50,5 @@ The user who is responsible for journal routines sets up the approval system for
 [Workflow concepts](workflow-concepts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

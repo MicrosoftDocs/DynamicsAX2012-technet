@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Enterprise Portal Help
 TOCTitle: About Enterprise Portal Help
 ms:assetid: 4b54f899-1db2-44ea-92c4-2d15b87ea03a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208727(v=AX.60)
 ms:contentKeyID: 36056996
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Enterprise Portal Help 
@@ -30,5 +32,5 @@ Many of the features that are included in Enterprise Portal, such as document li
 [About Enterprise Portal Browser requirements](about-enterprise-portal-browser-requirements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

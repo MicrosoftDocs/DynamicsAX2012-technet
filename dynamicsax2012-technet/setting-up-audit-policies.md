@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up audit policies
 TOCTitle: Setting up audit policies
 ms:assetid: e3edfb05-2b0a-40e9-805f-52ecffc8e663
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - audit policy
 - audit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up audit policies 
@@ -25,5 +27,5 @@ The topics in this section contain information about working with audit policies
 [Key tasks: Audit policies](key-tasks-audit-policies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

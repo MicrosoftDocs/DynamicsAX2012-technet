@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (CHN) Accounting period name'
 TOCTitle: (CHN) Accounting period name
 ms:assetid: 597ba234-6d62-49ad-ad99-aa22eb22e3a9
@@ -53,5 +53,5 @@ In the Microsoft Dynamics AX 2009 SP1 GLSCON release, the Accounting period tabl
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post service tax in purchase transactions by using the Invoice register form
 TOCTitle: (IND) Post service tax in purchase transactions by using the Invoice register form
 ms:assetid: a3082937-4e46-41a2-812a-27fac753f01b
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.LedgerJournalTransInvoiceRegister
 - Forms.LedgerJournalTable
 - Forms.TaxTmpWorkTrans
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post service tax in purchase transactions by using the Invoice register form 
@@ -192,5 +194,5 @@ The following table displays the journal entries.
 [(IND) Journal voucher - Invoice register (modified form)](https://technet.microsoft.com/en-us/library/jj664527\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up email addresses for customers
 TOCTitle: (BRA) Set up email addresses for customers
 ms:assetid: 39637923-ac88-4686-86dc-b8630921287c
@@ -11,6 +11,8 @@ f1_keywords:
 - BRA
 - Brazil
 - email addresses
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up email addresses for customers 
@@ -51,5 +53,5 @@ Before you set up an email address for a customer, you must select the **Contact
 [Edit contact information (form)](https://technet.microsoft.com/en-us/library/hh370700\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

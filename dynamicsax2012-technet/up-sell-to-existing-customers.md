@@ -1,4 +1,4 @@
-﻿---
+---
 title: Up sell to existing customers
 TOCTitle: Up sell to existing customers
 ms:assetid: b9980595-e6de-4ba5-89f4-024dd3f0f2f3
@@ -11,6 +11,8 @@ f1_keywords:
 - customers
 - up sell
 - upsell
+audience: Application User
+ms.search.region: Global
 ---
 
 # Up sell to existing customers 
@@ -29,5 +31,5 @@ The topics in this section provide information that can help you up sell to exis
 [Use price simulations](use-price-simulations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About variable groups of array type
 TOCTitle: About variable groups of array type
 ms:assetid: 6e4e69c0-a1c0-4951-a734-a8ff0b41379d
@@ -12,6 +12,8 @@ f1_keywords:
 - aray
 - varable group
 - variable groups
+audience: Application User
+ms.search.region: Global
 ---
 
 # About variable groups of array type 
@@ -51,5 +53,5 @@ This section provides information about variable groups of the array type and ho
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

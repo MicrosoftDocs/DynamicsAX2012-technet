@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Grant or deny an accommodation request
 TOCTitle: (USA) Grant or deny an accommodation request
 ms:assetid: ef9e369b-e91b-402a-b46e-41616183e61c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243268(v=AX.60)
 ms:contentKeyID: 36676417
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Grant or deny an accommodation request 
@@ -42,5 +44,5 @@ You can grant or deny accommodation requests that are entered by workers and app
 [Accommodation types (form)](https://technet.microsoft.com/en-us/library/hh208677\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

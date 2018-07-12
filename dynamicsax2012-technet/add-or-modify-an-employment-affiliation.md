@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add or modify an employment affiliation
 TOCTitle: Add or modify an employment affiliation
 ms:assetid: 4d3fe5e3-d93b-4dad-8cce-eb01a4efd4fe
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497026(v=AX.60)
 ms:contentKeyID: 36057027
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add or modify an employment affiliation 
@@ -64,5 +66,5 @@ You can add or modify a worker’s employment affiliation in the following ways:
 [Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create revaluation adjustments for fixed assets
 TOCTitle: Create revaluation adjustments for fixed assets
 ms:assetid: c46be314-bbdf-4391-82af-9eba64f832e4
@@ -14,6 +14,8 @@ f1_keywords:
 - write-down adjustment
 - write down adjustment
 - write-up adjustment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create revaluation adjustments for fixed assets 
@@ -66,5 +68,5 @@ Use the **Revaluation groups** form to set up revaluation for a fixed asset.
 [Set up fixed asset posting profiles](set-up-fixed-asset-posting-profiles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

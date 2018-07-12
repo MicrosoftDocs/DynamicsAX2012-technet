@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Setting up and maintaining Commerce Services for Microsoft Dynamics ERP
 TOCTitle: (USA) Setting up and maintaining Commerce Services for Microsoft Dynamics ERP
 ms:assetid: 54d73cc6-8b16-4cfe-b143-b68a41314814
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208958(v=AX.60)
 ms:contentKeyID: 36057309
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Setting up and maintaining Commerce Services for Microsoft Dynamics ERP 
@@ -42,5 +44,5 @@ The topics in this section provide information about Commerce Services for Micro
 [(USA) Setting up and maintaining Sites Services for Microsoft Dynamics ERP](usa-setting-up-and-maintaining-sites-services-for-microsoft-dynamics-erp.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

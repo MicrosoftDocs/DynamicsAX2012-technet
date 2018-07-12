@@ -1,4 +1,4 @@
-﻿---
+---
 title: About master scheduling - how the BOM version is determined
 TOCTitle: About master scheduling - how the BOM version is determined
 ms:assetid: 62874701-f17e-4129-a2e4-dc33816a7177
@@ -10,6 +10,8 @@ f1_keywords:
 - BOM
 - BOM version
 - Demand explosion
+audience: Application User
+ms.search.region: Global
 ---
 
 # About master scheduling - how the BOM version is determined 
@@ -42,5 +44,5 @@ A valid BOM version, whether site-specific or general, must meet the required cr
 [About master scheduling - site and warehouse coverage, warehouse not mandatory](about-master-scheduling-site-and-warehouse-coverage-warehouse-not-mandatory.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Retail Hardware Station
 TOCTitle: Install Retail Hardware Station
 ms:assetid: 43c7b127-15c6-4dcc-9eb2-9af2ae14af6d
@@ -259,5 +259,5 @@ For information about how to install Modern POS, see [Install Retail Modern POS]
 [Retail Modern Point of Sale](retail-modern-point-of-sale.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

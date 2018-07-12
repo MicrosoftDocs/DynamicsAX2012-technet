@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Staff administration overview
 TOCTitle: (RUS) Staff administration overview
 ms:assetid: adaf5215-6c07-4d81-a426-d898e6ae2e49
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn435956(v=AX.60)
 ms:contentKeyID: 56730927
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Staff administration overview 
@@ -38,5 +40,5 @@ This topic describes how to hire an employee, transfer an employee to a position
 This topic provides a list staff administrator reports that are specific to Russia. For more information, see (RUS) Staff administrator reports.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

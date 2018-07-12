@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up OPOS hardware devices
 TOCTitle: Set up OPOS hardware devices
 ms:assetid: dc8548b0-77d5-4926-9d58-d7dd6106ab71
@@ -42,5 +42,5 @@ For information about the devices that are supported by Retail POS, see the [sys
 6.  Associate the hardware with a hardware profile in Microsoft Dynamics AX. For more information, see [Set up hardware profiles](set-up-hardware-profiles.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

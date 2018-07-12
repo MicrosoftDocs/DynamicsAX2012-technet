@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Create a promissory note document by using a fixed promissory note number method
 TOCTitle: (ESP) Create a promissory note document by using a fixed promissory note number method
 ms:assetid: 34540475-0bcb-4c0c-beaa-cf51e8e2f8ca
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231089(v=AX.60)
 ms:contentKeyID: 36056549
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Create a promissory note document by using a fixed promissory note number method 
@@ -34,5 +36,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [(ESP) Generate a promissory note by using a free promissory note number method](esp-generate-a-promissory-note-by-using-a-free-promissory-note-number-method.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

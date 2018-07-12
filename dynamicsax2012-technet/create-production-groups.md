@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create production groups
 TOCTitle: Create production groups
 ms:assetid: df162f43-4262-4e4a-80dc-9c8f1e0717fa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551280(v=AX.60)
 ms:contentKeyID: 36059694
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create production groups 
@@ -30,5 +32,5 @@ Creating production groups is helpful when you create production orders. Product
 [Production groups (form)](https://technet.microsoft.com/en-us/library/aa548500\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

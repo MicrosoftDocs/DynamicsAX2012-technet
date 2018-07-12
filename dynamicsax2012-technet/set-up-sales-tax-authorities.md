@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up sales tax authorities
 TOCTitle: Set up sales tax authorities
 ms:assetid: 821bebd9-013d-4f3e-aa03-a107ec93e63f
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - sales tax authorities
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up sales tax authorities 
@@ -44,5 +46,5 @@ You can create as many sales tax authorities as you need, and each can have spec
 [Example: Rounding payments made to sales tax authorities](example-rounding-payments-made-to-sales-tax-authorities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

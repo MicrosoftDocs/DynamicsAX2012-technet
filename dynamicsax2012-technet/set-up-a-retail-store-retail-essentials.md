@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a retail store (Retail essentials)
 TOCTitle: Set up a retail store (Retail essentials)
 ms:assetid: afcfe929-f933-41a9-b79f-5bffb5adaaec
@@ -74,5 +74,5 @@ To set up a store in Retail essentials, follow these steps:
 [Working with organizations and organizational hierarchies (Retail essentials)](working-with-organizations-and-organizational-hierarchies-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

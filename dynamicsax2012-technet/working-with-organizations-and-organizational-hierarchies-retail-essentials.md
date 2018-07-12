@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with organizations and organizational hierarchies (Retail essentials)
 TOCTitle: Working with organizations and organizational hierarchies (Retail essentials)
 ms:assetid: 06da61a1-8155-4e70-a475-bd441b2c9ac9
@@ -163,5 +163,5 @@ The following table describes the Retail essentials scenarios where organization
 [Create or modify an organization hierarchy (Retail essentials)](create-or-modify-an-organization-hierarchy-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up address formats
 TOCTitle: (RUS) Setting up address formats
 ms:assetid: 06261fb9-603a-433d-adb9-ee03518ed0b1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711358(v=AX.60)
 ms:contentKeyID: 49387178
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up address formats 
@@ -24,5 +26,5 @@ The following topics provide information about setting up address formats.
 [(RUS) Set up address information for a party, customer, vendor, worker, or legal entity](rus-set-up-address-information-for-a-party-customer-vendor-worker-or-legal-entity.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

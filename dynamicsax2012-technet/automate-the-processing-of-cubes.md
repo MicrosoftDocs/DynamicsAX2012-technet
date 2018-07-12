@@ -1,4 +1,4 @@
-﻿---
+---
 title: Automate the processing of cubes
 TOCTitle: Automate the processing of cubes
 ms:assetid: 4b5e2423-fefd-490f-8561-a09eccedcc78
@@ -58,5 +58,5 @@ Processing settings let you control the objects that are processed and the metho
 For more information about the processing options and settings that are available, see [Processing Options and Settings](http://technet.microsoft.com/en-us/library/ms174774\(sql.105\).aspx).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

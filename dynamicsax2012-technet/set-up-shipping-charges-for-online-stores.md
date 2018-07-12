@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up shipping charges for online stores
 TOCTitle: Set up shipping charges for online stores
 ms:assetid: e2aa075c-89d0-414d-b967-1a92fded3560
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728714(v=AX.60)
 ms:contentKeyID: 49556619
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up shipping charges for online stores 
@@ -72,5 +74,5 @@ You can also define a shipping charge for a mode of delivery, a group of modes o
 [Set up shipping charges for retail stores](set-up-shipping-charges-for-retail-stores.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

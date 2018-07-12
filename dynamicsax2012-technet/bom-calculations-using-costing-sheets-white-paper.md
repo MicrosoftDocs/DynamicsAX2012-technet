@@ -1,4 +1,4 @@
-﻿---
+---
 title: BOM calculations using costing sheets (White paper)
 TOCTitle: BOM calculations using costing sheets (White paper)
 ms:assetid: 9a9ee0da-17f5-46f6-8718-a133784b2366
@@ -22,5 +22,5 @@ This white paper describes the setup of the costing sheet and the additional ele
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=252907)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up sales tax on prepayments
 TOCTitle: Set up sales tax on prepayments
 ms:assetid: 35de1531-7859-444c-9097-c48554abb27c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570122(v=AX.60)
 ms:contentKeyID: 36056569
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up sales tax on prepayments 
@@ -40,5 +42,5 @@ A tax authority can require that an organization must record sales taxes on prep
 When a sales invoice is created and the prepayment journal voucher is settled, an automatic transaction on the sales tax prepayments account offsets the first temporary sales tax transaction.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transportation management
 TOCTitle: Transportation management
 ms:assetid: d804a8e5-37fb-4ed1-b4ac-69464329dd37
@@ -8,6 +8,8 @@ ms.date: 08/22/2014
 mtps_version: v=AX.60
 f1_keywords:
 - transportation management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Transportation management 
@@ -37,8 +39,8 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
 <p>Search for blog posts about transportation and warehouse management on the Supply Chain Management blog - <a href="http://blogs.msdn.com/b/dynamicsaxscm/">Supply Chain Management in Microsoft Dynamics AX</a> (blog)</p>
 <p>Learn about how to implement and deploy transportation management engines – <a href="http://www.microsoft.com/en-us/download/details.aspx?id=43385">Implementing and Deploying Transportation Management Engines</a> (white paper)</p>
-<p>Search for information about <strong>Transportation management</strong> in the online Help - <a href="http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=transportation+management%26pesn=6%26savn=hide%26orgi=wsc1%26bngi=t">Transportation management help</a> (search)</p>
-<p>Search the Microsoft Dynamics AX community for information about <strong>Transportation management</strong> in Microsoft Dynamics AX - <a href="http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=transportation+management%26pesn=6%26sorh=14%26savn=hide%26orgi=wsc1%26bngi=t">Transportation management community</a> (search)</p></td>
+
+</td>
 </tr>
 </tbody>
 </table>
@@ -131,5 +133,5 @@ Here’s what you need to do to create and handle loads for inbound and outbound
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

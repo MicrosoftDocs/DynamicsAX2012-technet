@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create invoice proposals for projects with and without billing rules
 TOCTitle: Create invoice proposals for projects with and without billing rules
 ms:assetid: caddee24-9551-498e-aef7-1cbbfe9dfc74
@@ -13,6 +13,8 @@ f1_keywords:
 - project invoice
 - preliminary invoice
 - project transaction
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create invoice proposals for projects with and without billing rules 
@@ -103,5 +105,5 @@ You can create an invoice proposal for a specific project directly from the proj
 [Post invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa620017\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

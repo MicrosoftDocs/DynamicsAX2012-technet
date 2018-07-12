@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hyper-V Benchmark for Microsoft Dynamics AX 2012
 TOCTitle: Hyper-V Benchmark for Microsoft Dynamics AX 2012
 ms:assetid: 68c32c12-0738-44c4-a42b-b25882643016
@@ -34,5 +34,5 @@ We have published the following two papers about the Hyper-V benchmark:
   - [Hyper-V benchmark for Microsoft Dynamics AX 2012 (summary)](http://go.microsoft.com/fwlink/?linkid=245626) – This paper provides a summary of the Hyper-V benchmark results, and can be downloaded from CustomerSource and PartnerSource.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

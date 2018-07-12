@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up loyalty programs in AX 2012 R3
 TOCTitle: About setting up loyalty programs in AX 2012 R3
 ms:assetid: 41bb0f47-fe72-4e1d-9600-2f4a80d7796a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720457(v=AX.60)
 ms:contentKeyID: 62224165
 ms.date: 05/20/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up loyalty programs in AX 2012 R3 
@@ -181,5 +183,5 @@ The following table describes the processes that must be run to send the loyalty
 [Set up loyalty programs](set-up-loyalty-programs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process elimination transactions using the Elimination proposal form
 TOCTitle: Process elimination transactions using the Elimination proposal form
 ms:assetid: 6141747b-d279-459e-a82f-6d9abe0681c1
@@ -11,6 +11,8 @@ f1_keywords:
 - elimination
 - elimination transactions
 - elimination proposal
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process elimination transactions using the Elimination proposal form 
@@ -64,5 +66,5 @@ You must create an elimination rule before you create elimination transactions. 
 [Elimination proposal (form)](https://technet.microsoft.com/en-us/library/hh227620\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

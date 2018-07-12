@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Specify an inventory profile in sales and purchase order lines when exploding a BOM
 TOCTitle: (RUS) Specify an inventory profile in sales and purchase order lines when exploding a BOM
 ms:assetid: 9bfba623-6486-4ee4-a56d-82862b1d662d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678533(v=AX.60)
 ms:contentKeyID: 49387762
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Specify an inventory profile in sales and purchase order lines when exploding a BOM 
@@ -54,5 +56,5 @@ When you explode a bill of materials (BOM) on sales order lines or purchase orde
 [(RUS) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj733272\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

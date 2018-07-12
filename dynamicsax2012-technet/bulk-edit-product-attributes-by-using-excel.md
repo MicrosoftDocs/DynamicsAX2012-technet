@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bulk edit product attributes by using Excel
 TOCTitle: Bulk edit product attributes by using Excel
 ms:assetid: 2f912571-eb34-4d82-a207-36681e67b35c
@@ -11,6 +11,8 @@ f1_keywords:
 - attributes
 - export
 - product attributes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Bulk edit product attributes by using Excel 
@@ -222,5 +224,5 @@ To send the updated attribute data to the stores, follow these steps:
 [Set up attributes and attribute types](set-up-attributes-and-attribute-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

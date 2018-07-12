@@ -1,4 +1,4 @@
-﻿---
+---
 title: About formula designer functionality
 TOCTitle: About formula designer functionality
 ms:assetid: 57d9a4eb-56b4-4aa4-9b6a-2fa4c51b58c6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208971(v=AX.60)
 ms:contentKeyID: 36057335
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About formula designer functionality 
@@ -252,5 +254,5 @@ Use the **Setup** tab to customize the information that is shown on the **Design
 [Formula designer (form)](https://technet.microsoft.com/en-us/library/hh242746\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

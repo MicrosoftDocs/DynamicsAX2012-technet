@@ -1,4 +1,4 @@
-﻿---
+---
 title: About multisite activation - dimension group changes
 TOCTitle: About multisite activation - dimension group changes
 ms:assetid: b8f5cda9-4219-4a29-be71-758a3c949333
@@ -11,6 +11,8 @@ f1_keywords:
 - multisite activation
 - site dimension
 - warehouse dimension
+audience: Application User
+ms.search.region: Global
 ---
 
 # About multisite activation - dimension group changes 
@@ -106,5 +108,5 @@ The following table summarizes the changes that are made to the settings of the 
 [Multisite activation - dimension inconsistency clean up (class form)](https://technet.microsoft.com/en-us/library/dd309967\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

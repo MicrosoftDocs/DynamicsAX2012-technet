@@ -1,4 +1,4 @@
-﻿---
+---
 title: Managing sales information
 TOCTitle: Managing sales information
 ms:assetid: 8cf2205e-1404-4cda-a4e7-9780b2107f31
@@ -18,6 +18,8 @@ f1_keywords:
 - sales quotations
 - view sales lines
 - work with items
+audience: Application User
+ms.search.region: Global
 ---
 
 # Managing sales information 
@@ -50,5 +52,5 @@ This section contains the following topics:
 [View sales packing slips](view-sales-packing-slips.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

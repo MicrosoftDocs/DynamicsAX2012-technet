@@ -1,4 +1,4 @@
-﻿---
+---
 title: Recruitment projects
 TOCTitle: Recruitment projects
 ms:assetid: 1f18eab5-38b4-4705-9372-02d5bf3ff2e9
@@ -19,6 +19,8 @@ f1_keywords:
 - recruit
 - recruitment
 - recruiting
+audience: Application User
+ms.search.region: Global
 ---
 
 # Recruitment projects 
@@ -37,5 +39,5 @@ This section provides information about maintaining recruitment projects in Huma
 [Record developments](record-developments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

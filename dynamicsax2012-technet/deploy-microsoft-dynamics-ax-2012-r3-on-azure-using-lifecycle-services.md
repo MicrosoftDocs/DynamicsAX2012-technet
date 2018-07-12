@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy Microsoft Dynamics AX 2012 R3 on Azure using Lifecycle Services
 TOCTitle: Deploy Microsoft Dynamics AX 2012 R3 on Azure using Lifecycle Services
 ms:assetid: eb83e3af-05e9-49a3-894a-2986d74ba55c
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 This content has been moved [here](https://go.microsoft.com/fwlink/?linkid=858568).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

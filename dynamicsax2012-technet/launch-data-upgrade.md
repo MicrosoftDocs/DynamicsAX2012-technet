@@ -1,4 +1,4 @@
-﻿---
+---
 title: Launch data upgrade
 TOCTitle: Launch data upgrade
 ms:assetid: 0413b647-718a-4371-984f-84fbdf685a24
@@ -36,5 +36,5 @@ In the **Data upgrade cockpit (%1 -\> %2)**, click **Run** to perform the bulk c
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

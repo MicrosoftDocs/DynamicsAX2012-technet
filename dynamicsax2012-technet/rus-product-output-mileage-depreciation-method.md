@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Product output/mileage depreciation method
 TOCTitle: (RUS) Product output/mileage depreciation method
 ms:assetid: 8e711680-fd35-49c4-8e6f-ecca84423309
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678474(v=AX.60)
 ms:contentKeyID: 49387703
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Product output/mileage depreciation method 
@@ -32,5 +34,5 @@ The product output-mileage depreciation method is used to write off the value of
 [(RUS) Product output/mileage (form)](https://technet.microsoft.com/en-us/library/jj733513\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

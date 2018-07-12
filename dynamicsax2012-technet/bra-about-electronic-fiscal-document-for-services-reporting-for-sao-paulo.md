@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About electronic fiscal document for services reporting for Sao Paulo
 TOCTitle: (BRA) About electronic fiscal document for services reporting for Sao Paulo
 ms:assetid: 0673877d-eeed-4622-ae0c-dac0181498f1
@@ -16,6 +16,8 @@ f1_keywords:
 - BR - 00021
 - BR - 00022
 - BR - 00007
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About electronic fiscal document for services reporting for Sao Paulo 
@@ -38,5 +40,5 @@ You can perform the following tasks when the fiscal document is an electronic fi
 [(BRA) Set up fiscal document types for electronic fiscal document for services](bra-set-up-fiscal-document-types-for-electronic-fiscal-document-for-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

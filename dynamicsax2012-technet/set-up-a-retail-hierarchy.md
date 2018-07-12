@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a retail hierarchy
 TOCTitle: Set up a retail hierarchy
 ms:assetid: 2851f267-1356-414d-a333-2670885ae512
@@ -12,6 +12,8 @@ f1_keywords:
 - retail hierarchies
 - navigation hierarchy
 - retail hierarchy
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a retail hierarchy 
@@ -187,5 +189,5 @@ If you change a category in a navigation category hierarchy that is assigned to 
 [Set up an online store](set-up-an-online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

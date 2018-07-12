@@ -1,4 +1,4 @@
-﻿---
+---
 title: Expression constraints and table constraints
 TOCTitle: Expression constraints and table constraints
 ms:assetid: e1a7370d-890e-4ba5-bb62-5c4b01c0e40f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn283317(v=AX.60)
 ms:contentKeyID: 54916491
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Expression constraints and table constraints 
@@ -436,5 +438,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

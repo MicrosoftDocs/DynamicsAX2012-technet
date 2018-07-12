@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install multiple AOS instances
 TOCTitle: Install multiple AOS instances
 ms:assetid: 9522d7e0-7bac-492e-a8b3-63d97676ecfc
@@ -42,5 +42,5 @@ Install each AOS instance in the way that is described in [Install an AOS instan
 [Manage an AOS configuration](manage-an-aos-configuration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

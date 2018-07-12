@@ -1,4 +1,4 @@
-﻿---
+---
 title: About RFID
 TOCTitle: About RFID
 ms:assetid: a7de3288-1e68-4bc7-8357-1530f2b247fc
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - radio frequency identification
+audience: Application User
+ms.search.region: Global
 ---
 
 # About RFID 
@@ -34,5 +36,5 @@ The tag level in Microsoft Dynamics AX is item, case, or pallet.
 [About shipments](about-shipments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up bar code masks
 TOCTitle: Set up bar code masks
 ms:assetid: a15c1dc4-cb44-4a87-a2af-9582fe71d9f8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597190(v=AX.60)
 ms:contentKeyID: 39519257
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up bar code masks 
@@ -116,5 +118,5 @@ Bar code masks can be based on any of the following bar code standards:
 [About setting up bar codes](about-setting-up-bar-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

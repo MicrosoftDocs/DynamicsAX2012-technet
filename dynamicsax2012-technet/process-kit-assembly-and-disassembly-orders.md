@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process kit assembly and disassembly orders
 TOCTitle: Process kit assembly and disassembly orders
 ms:assetid: ea2dadfb-0916-46b8-899b-ea0924661703
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.RetailKitAssembleKit
 - Forms.RetailKitAssemblyListPage
 - Forms.RetailKitAssemblyOrderUpdateQty
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process kit assembly and disassembly orders 
@@ -68,5 +70,5 @@ Use this procedure to process disassembly orders.
 [Generate assembly and disassembly orders](generate-assembly-and-disassembly-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

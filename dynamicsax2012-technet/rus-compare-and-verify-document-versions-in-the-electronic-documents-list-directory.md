@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Compare and verify document versions in the Electronic documents list directory
 TOCTitle: (RUS) Compare and verify document versions in the Electronic documents list directory
 ms:assetid: ce7af2ff-1313-4c80-8413-0431003c9b39
@@ -10,6 +10,8 @@ f1_keywords:
 - compare
 - documents
 - electronic reporting
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Compare and verify document versions in the Electronic documents list directory 
@@ -50,5 +52,5 @@ Each document that is stored in the electronic documents list directory can have
 [(RUS) View, reverse, or print electronic reporting documents](rus-view-reverse-or-print-electronic-reporting-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

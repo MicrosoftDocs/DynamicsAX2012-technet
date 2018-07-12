@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Download orders from online marketplaces
 TOCTitle: (USA) Download orders from online marketplaces
 ms:assetid: bf465faa-2987-4cf8-96ca-c482becc69fa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242824(v=AX.60)
 ms:contentKeyID: 36059257
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Download orders from online marketplaces 
@@ -38,5 +40,5 @@ When customers purchase the products that you list for sale in online marketplac
 [(USA) Modify Commerce Services settings](usa-modify-commerce-services-settings.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure a manual decision
 TOCTitle: Configure a manual decision
 ms:assetid: c0479554-b42c-43d3-919b-8811ad0c7acf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731919(v=AX.60)
 ms:contentKeyID: 35132847
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure a manual decision 
@@ -470,5 +472,5 @@ Follow these steps if the decision must be made in a specific time.
 [Configure workflow elements](configure-workflow-elements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

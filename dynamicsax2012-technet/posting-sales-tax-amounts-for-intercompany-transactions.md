@@ -1,4 +1,4 @@
-﻿---
+---
 title: Posting sales tax amounts for intercompany transactions
 TOCTitle: Posting sales tax amounts for intercompany transactions
 ms:assetid: cd5a6892-a3e4-4b7c-bdf0-77af6202c5e6
@@ -13,6 +13,8 @@ f1_keywords:
 - intercompany transaction
 - sales tax posting
 - intercompany transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Posting sales tax amounts for intercompany transactions 
@@ -172,5 +174,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a ledger journal of tax difference transactions
 TOCTitle: (RUS) Create a ledger journal of tax difference transactions
 ms:assetid: 51bb9b74-3888-4ee5-880d-b78134c2e1fd
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - ledger journal
 - tax difference
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a ledger journal of tax difference transactions 
@@ -61,5 +63,5 @@ The following criteria must be met before you can create a journal for tax diffe
 [(RUS) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923603\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

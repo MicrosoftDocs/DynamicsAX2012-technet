@@ -1,4 +1,4 @@
-﻿---
+---
 title: About cost control
 TOCTitle: About cost control
 ms:assetid: b7e41738-0330-4cd1-a008-335a036cba20
@@ -16,6 +16,8 @@ f1_keywords:
 - total cost
 - deviation
 - monitor costs
+audience: Application User
+ms.search.region: Global
 ---
 
 # About cost control 
@@ -118,5 +120,5 @@ On the **Deviation** tab in the **Cost control** form, you can view the differen
 [General ledger preview (form)](https://technet.microsoft.com/en-us/library/aa587482\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

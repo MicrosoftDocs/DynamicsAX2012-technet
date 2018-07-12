@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Malaysia (MYS)"
 TOCTitle: Country-specific features for Malaysia
 ms:assetid: d6e046cf-e785-43fd-a57e-a3ae1a566579
@@ -39,5 +39,5 @@ In Microsoft Dynamics AX 2012 R3, we changed and added country-specific function
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

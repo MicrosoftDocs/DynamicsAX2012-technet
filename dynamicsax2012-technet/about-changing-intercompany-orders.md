@@ -1,4 +1,4 @@
-﻿---
+---
 title: About changing intercompany orders
 TOCTitle: About changing intercompany orders
 ms:assetid: 6587db24-8a8c-455e-bb53-74198326f812
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - intercompany orders
 - intercompany order
+audience: Application User
+ms.search.region: Global
 ---
 
 # About changing intercompany orders 
@@ -75,5 +77,5 @@ Additionally, the ordered quantities of an order line that is created on the int
 When an original sales order is part of the intercompany order chain, you can always control the intercompany orders and intercompany order lines from the original sales order.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

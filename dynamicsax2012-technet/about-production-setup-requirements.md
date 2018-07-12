@@ -1,4 +1,4 @@
-﻿---
+---
 title: About production setup requirements
 TOCTitle: About production setup requirements
 ms:assetid: f4909a96-bdd2-4fb5-be4d-c01ccaf8dace
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551641(v=AX.60)
 ms:contentKeyID: 37832550
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About production setup requirements 
@@ -88,5 +90,5 @@ If you are working with routes, operations must be defined for each production r
 3.  **Properties** – Define properties to create special attributes that you can assign to your resources to control the sequence of productions. These attributes are connected to the working time template. For more information, see [Set up properties for operations resources](set-up-properties-for-operations-resources.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

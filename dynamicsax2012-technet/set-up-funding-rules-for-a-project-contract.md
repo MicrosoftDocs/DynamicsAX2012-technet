@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up funding rules for a project contract
 TOCTitle: Set up funding rules for a project contract
 ms:assetid: b194fea3-9cfc-474e-860d-3fda41eceb5d
@@ -11,6 +11,8 @@ f1_keywords:
 - funding rules
 - project contract
 - funding rule allocation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up funding rules for a project contract 
@@ -85,5 +87,5 @@ After you create the funding rules, assign a percentage to each funding source i
 [Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

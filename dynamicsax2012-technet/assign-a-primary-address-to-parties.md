@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign a primary address to parties
 TOCTitle: Assign a primary address to parties
 ms:assetid: 807c1b85-092a-40b5-957e-bb5a91dea058
@@ -28,5 +28,5 @@ In Microsoft Dynamics AX 2012, if a party is associated with one or more address
 3.  Click the **Update addresses** button to designate the first address as the primary address for all the parties that are displayed in the list.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

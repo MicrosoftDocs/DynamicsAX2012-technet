@@ -1,4 +1,4 @@
-﻿---
+---
 title: About invoice control
 TOCTitle: About invoice control
 ms:assetid: a9101574-fe0c-4280-b318-3b3b2454e648
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - invoice control
 - invoice transaction
+audience: Application User
+ms.search.region: Global
 ---
 
 # About invoice control 
@@ -29,5 +31,5 @@ Use invoice control to track both invoiced and non-invoiced transactions, and to
 [Invoicing](invoicing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About product receipt corrections
 TOCTitle: (RUS) About product receipt corrections
 ms:assetid: bda4bee9-197b-4216-95ca-2070113ee02a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - About product receipt corrections
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About product receipt corrections 
@@ -27,5 +29,5 @@ The batch number, serial number, inventory owner, and customs cargo declaration 
 [(RUS) Correct a product receipt and print the receipt statement report](rus-correct-a-product-receipt-and-print-the-receipt-statement-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

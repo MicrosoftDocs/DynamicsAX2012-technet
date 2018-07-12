@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Set up balance sheet definitions
 TOCTitle: (CZE) Set up balance sheet definitions
 ms:assetid: ad3d41d5-dc4d-4796-985d-15e179960984
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677649(v=AX.60)
 ms:contentKeyID: 49384953
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Set up balance sheet definitions 
@@ -52,5 +54,5 @@ You can specify how asset and liability transaction amounts are displayed on the
 [(CZE) Balance sheet report (LedgerBalanceSheet)](cze-balance-sheet-report-ledgerbalancesheet.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

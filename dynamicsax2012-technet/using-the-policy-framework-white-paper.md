@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Policy Framework (White paper)
 TOCTitle: Using the Policy Framework
 ms:assetid: 732d890b-e01b-42e8-86e9-6af4ae44dc56
@@ -20,5 +20,5 @@ This document explains core concepts of the policy framework for developers and 
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213137).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

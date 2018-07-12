@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a work template
 TOCTitle: Create a work template
 ms:assetid: 99de92ca-0cdd-41f2-9b2a-9247525680e1
@@ -17,6 +17,8 @@ f1_keywords:
 - warehouse work
 - work instructions
 - msDynAx060.Forms.WHSWorkTemplateTable
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a work template 
@@ -260,5 +262,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Calculate the depreciation difference for fixed assets
 TOCTitle: (SAU) Calculate the depreciation difference for fixed assets
 ms:assetid: 82a2baf1-25a8-4055-839e-9d6bee6c3df4
@@ -10,6 +10,8 @@ f1_keywords:
 - depreciation
 - Saudi Arabia
 - fixed assets
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) Calculate the depreciation difference for fixed assets 
@@ -52,5 +54,5 @@ Use this procedure to calculate the depreciation according to the books value an
 [(SAU) Zakat assets and depreciation (form)](https://technet.microsoft.com/en-us/library/hh242233\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

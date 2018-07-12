@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up properties for operations resources
 TOCTitle: Set up properties for operations resources
 ms:assetid: 7a1fc3bc-4595-46e5-a908-f7356a970621
@@ -10,6 +10,8 @@ f1_keywords:
 - resource properties
 - resources
 - operations
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up properties for operations resources 
@@ -48,5 +50,5 @@ Operations resource properties are special attributes that you can assign to you
 [Properties (form)](https://technet.microsoft.com/en-us/library/aa634336\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

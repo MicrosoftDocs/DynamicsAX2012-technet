@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Bill-Invoice relation by transaction date report (CustInvoiceSettled_TransDate_ES)
 TOCTitle: (ESP) Bill-Invoice relation by transaction date report (CustInvoiceSettled_TransDate_ES)
 ms:assetid: d0d5ead9-f7c3-40fc-8f15-c9393de90684
@@ -179,5 +179,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

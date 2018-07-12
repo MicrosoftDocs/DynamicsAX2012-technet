@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Amount difference factures for sales and purchase orders
 TOCTitle: (RUS) Amount difference factures for sales and purchase orders
 ms:assetid: 65247235-0e3a-4b04-a306-c800069911d2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853188(v=AX.60)
 ms:contentKeyID: 50396469
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Amount difference factures for sales and purchase orders 
@@ -102,5 +104,5 @@ Similarly, for VAT at 10 percent, the value is:
 [(RUS) Set up accounts payable parameters for amount differences](rus-set-up-accounts-payable-parameters-for-amount-differences.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

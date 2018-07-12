@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) Ledger post and Create remittance at operation type'
 TOCTitle: (BRA) Ledger post and Create remittance at operation type
 ms:assetid: b65276d1-fe66-4290-aad8-a9b35357a7c8
@@ -54,5 +54,5 @@ For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specifi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

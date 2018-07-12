@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts receivable setup overview
 TOCTitle: Accounts receivable setup overview
 ms:assetid: 5d303bb8-606c-4a7a-a1be-fae498734b13
@@ -10,6 +10,8 @@ f1_keywords:
 - setup
 - AR
 - receivable
+audience: Application User
+ms.search.region: Global
 ---
 
 # Accounts receivable setup overview 
@@ -280,5 +282,5 @@ The additional setup forms are organized by functionality.
     For complete guidelines, see [Payment purpose codes (form)](https://technet.microsoft.com/en-us/library/aa587506\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

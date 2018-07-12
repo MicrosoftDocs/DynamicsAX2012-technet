@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Set up IAT ACH file parameters
 TOCTitle: (USA) Set up IAT ACH file parameters
 ms:assetid: 15d1aa39-0b7f-48ae-b44b-bbd42f32caf5
@@ -11,6 +11,8 @@ f1_keywords:
 - ACH
 - IAT
 - USA
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Set up IAT ACH file parameters 
@@ -63,5 +65,5 @@ Set up and assign a method of payment for a vendor or customer and select the **
 [(USA) Create a payment journal and generate the IAT transmission file](usa-create-a-payment-journal-and-generate-the-iat-transmission-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Configuring product-wide features for India
 TOCTitle: (IND) Configuring product-wide features for India
 ms:assetid: 6584ccd7-8953-4a2c-bf8c-3891aaa03fd8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677870(v=AX.60)
 ms:contentKeyID: 49385834
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Configuring product-wide features for India 
@@ -24,5 +26,5 @@ To configure most product-wide features, you must be a member of a role that gra
 [(IND) Setting up tax information for intercompany transactions](ind-setting-up-tax-information-for-intercompany-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

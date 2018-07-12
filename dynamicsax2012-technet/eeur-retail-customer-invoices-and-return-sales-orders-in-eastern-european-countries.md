@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Retail customer invoices and return sales orders in Eastern European countries
 TOCTitle: (EEUR) Retail customer invoices and return sales orders in Eastern European countries
 ms:assetid: 4585c22a-a557-45d0-9312-81f4df2c76e4
@@ -12,6 +12,8 @@ f1_keywords:
 - EastEU – 00008
 - LT – 00004
 - LV - 00005
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Retail customer invoices and return sales orders in Eastern European countries 
@@ -39,5 +41,5 @@ You can set up the following information for customer invoices and return sales 
   - Use the number range that is provided by the tax authorities to number Latvian and Lithuanian customer invoices and return sales orders. Click **Organization administration** \> **Common** \> **Number sequences** \> **Registers** \> **Invoice numbering setup**. Select the **Retail** check box for the number sequence line that is used to number the customer invoices.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

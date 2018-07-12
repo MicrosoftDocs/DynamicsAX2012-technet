@@ -1,4 +1,4 @@
-﻿---
+---
 title: About foreign currency revaluations for open vendor transactions
 TOCTitle: About foreign currency revaluations for open vendor transactions
 ms:assetid: 0e6d6a7d-d165-4df0-8086-e2350f1befdb
@@ -18,6 +18,8 @@ f1_keywords:
 - revaluations
 - vendor transaction
 - vendor transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # About foreign currency revaluations for open vendor transactions 
@@ -71,5 +73,5 @@ For more information about foreign currency revaluation, see the following topic
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

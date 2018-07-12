@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sales orders and bills of materials
 TOCTitle: Sales orders and bills of materials
 ms:assetid: cf4561be-e313-4055-afa1-bdff4b4ef7ed
@@ -12,6 +12,8 @@ f1_keywords:
 - sales order
 - bill of materials
 - bills of materials
+audience: Application User
+ms.search.region: Global
 ---
 
 # Sales orders and bills of materials 
@@ -30,5 +32,5 @@ The topics in this section provide information about sales orders and bills of m
 [Explode a sales order line](explode-a-sales-order-line.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

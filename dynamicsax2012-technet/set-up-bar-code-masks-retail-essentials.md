@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up bar code masks (Retail essentials)
 TOCTitle: Set up bar code masks (Retail essentials)
 ms:assetid: c194c1fd-c485-47b4-bc71-3313cd972cb2
@@ -116,5 +116,5 @@ To set up bar code masks for bar codes, follow these steps:
 [Setting up bar codes (Retail essentials)](setting-up-bar-codes-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

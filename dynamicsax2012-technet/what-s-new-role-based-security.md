@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Role-based security"
 TOCTitle: Role-based security
 ms:assetid: 5b14294e-bc25-4e06-9759-e75e876fba4c
@@ -245,5 +245,5 @@ For more detailed information about role-based security, see [Role-based securit
 For more information about Extensible Data Security (XDS), see the white paper [Developing Extensible Data Security Policies](http://go.microsoft.com/fwlink/?linkid=213139%26clcid=0x409).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

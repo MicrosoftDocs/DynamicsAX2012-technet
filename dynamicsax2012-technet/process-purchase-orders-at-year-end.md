@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process purchase orders at year end
 TOCTitle: Process purchase orders at year end
 ms:assetid: 8010f4a6-dcc1-40cb-b225-4bded6971d48
@@ -14,6 +14,8 @@ f1_keywords:
 - year-end
 - PO
 - end of the year
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process purchase orders at year end 
@@ -207,5 +209,5 @@ Select one of the following year-end processing options to close purchase order 
 [Finalize a general budget reservation (Public sector)](finalize-a-general-budget-reservation-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

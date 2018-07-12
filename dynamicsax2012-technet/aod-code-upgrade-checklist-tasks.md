@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'AOD code upgrade checklist: Tasks'
 TOCTitle: 'AOD code upgrade checklist: Tasks'
 ms:assetid: db73ab58-914b-4cee-85f7-a394bdb19505
@@ -115,5 +115,5 @@ Complete the checklist tasks listed below. Task names link to help explaining th
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up commodity pricing default parameters
 TOCTitle: Set up commodity pricing default parameters
 ms:assetid: 09ee35c8-ac06-40ca-87bb-57b9f05c0263
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242123(v=AX.60)
 ms:contentKeyID: 36055982
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up commodity pricing default parameters 
@@ -36,5 +38,5 @@ Use this procedure to set up the default parameters for commodity pricing.
 [Inventory and warehouse management parameters (form)](https://technet.microsoft.com/en-us/library/aa587658\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

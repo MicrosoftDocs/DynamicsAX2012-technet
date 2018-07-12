@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up a warehouse for an external inventory
 TOCTitle: (POL) Set up a warehouse for an external inventory
 ms:assetid: 12d1645f-474a-4536-b1ed-6a5443d45312
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678131(v=AX.60)
 ms:contentKeyID: 49386854
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up a warehouse for an external inventory 
@@ -38,5 +40,5 @@ You can use the **Warehouses** form to set up the warehouses that are used in th
 [(POL) Register external inventory availability](pol-register-external-inventory-availability.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

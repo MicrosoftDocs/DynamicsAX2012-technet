@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a file format for a method of payment for customers
 TOCTitle: Set up a file format for a method of payment for customers
 ms:assetid: 87f124b7-e685-4957-b971-d55e74c89315
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571588(v=AX.60)
 ms:contentKeyID: 36058435
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a file format for a method of payment for customers 
@@ -36,5 +38,5 @@ If you and your bank agree to share information about customer payments by using
 [Set up an outbound payment format](set-up-an-outbound-payment-format.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

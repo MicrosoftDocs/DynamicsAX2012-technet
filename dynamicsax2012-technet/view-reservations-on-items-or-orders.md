@@ -1,4 +1,4 @@
-﻿---
+---
 title: View reservations on items or orders
 TOCTitle: View reservations on items or orders
 ms:assetid: 9968fc38-d6df-45e7-8bc6-99eeb10a768d
@@ -10,6 +10,8 @@ f1_keywords:
 - inventory reservation
 - view available items
 - view delivery dates
+audience: Application User
+ms.search.region: Global
 ---
 
 # View reservations on items or orders 
@@ -26,5 +28,5 @@ There are several ways to view reservations on items or orders. You may want to 
 [View reservations on orders](view-reservations-on-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

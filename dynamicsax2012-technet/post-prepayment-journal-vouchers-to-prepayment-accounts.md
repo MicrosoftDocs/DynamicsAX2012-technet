@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post prepayment journal vouchers to prepayment accounts
 TOCTitle: Post prepayment journal vouchers to prepayment accounts
 ms:assetid: 90ea06d1-5fd5-4912-9a6d-5d8a483945df
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498371(v=AX.60)
 ms:contentKeyID: 36993124
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post prepayment journal vouchers to prepayment accounts 
@@ -138,5 +140,5 @@ The settlement of the invoice reverses the transactions in the summary account a
 [Process customer prepayment journal vouchers](process-customer-prepayment-journal-vouchers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

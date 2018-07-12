@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Production control
 TOCTitle: Working with Production control
 ms:assetid: ccb6cf71-64bc-4d89-b15b-2e1e02e90d3c
@@ -20,6 +20,8 @@ f1_keywords:
 - production scheduling
 - release product
 - subcontracting
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Production control 
@@ -46,5 +48,5 @@ This section provides overviews of the business process components in Production
 [Working with Process manufacturing production and logistics](working-with-process-manufacturing-production-and-logistics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

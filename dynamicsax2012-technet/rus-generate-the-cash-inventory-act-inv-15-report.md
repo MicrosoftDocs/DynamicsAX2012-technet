@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate the Cash Inventory Act (Inv-15) report
 TOCTitle: (RUS) Generate the Cash Inventory Act (Inv-15) report
 ms:assetid: 45e6e60b-b668-460d-b453-0702f4400e01
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665334(v=AX.60)
 ms:contentKeyID: 49387422
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate the Cash Inventory Act (Inv-15) report 
@@ -88,5 +90,5 @@ The total counted amount and the posted amount of all journals are displayed in 
 [(RUS) Cash counting statement (INV-15) (form)](https://technet.microsoft.com/en-us/library/jj711603\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

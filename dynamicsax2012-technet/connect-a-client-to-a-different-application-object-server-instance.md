@@ -1,4 +1,4 @@
-﻿---
+---
 title: Connect a client to a different Application Object Server instance
 TOCTitle: Connect a client to a different Application Object Server instance
 ms:assetid: d1489765-b203-4348-b884-34647443857a
@@ -54,5 +54,5 @@ You can connect a Microsoft Dynamics AX 32-bit client or a .NET Business Connect
 [Manage client startup settings](manage-client-startup-settings.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

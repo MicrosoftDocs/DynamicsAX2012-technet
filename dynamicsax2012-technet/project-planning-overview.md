@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project planning overview
 TOCTitle: Project planning overview
 ms:assetid: dbd9083f-a001-4224-a4e1-082dce969497
@@ -8,6 +8,8 @@ ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
 - project planning
+audience: Application User
+ms.search.region: Global
 ---
 
 # Project planning overview 
@@ -330,5 +332,5 @@ The following table lists the forms that support the project planning business p
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

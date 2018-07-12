@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budget clerk security role (BudgetBudgetClerk)
 TOCTitle: Budget clerk security role (BudgetBudgetClerk)
 ms:assetid: 440f10d6-e123-4305-aa16-c2c4b54e52fa
@@ -181,5 +181,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

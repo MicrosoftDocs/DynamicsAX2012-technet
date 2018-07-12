@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up permission groups to regulate the return of sold items
 TOCTitle: (RUS) Set up permission groups to regulate the return of sold items
 ms:assetid: 61010684-1800-46e5-9b23-73618850e86e
@@ -13,6 +13,8 @@ f1_keywords:
 - disallow return
 - permission group
 - nonreturnable item
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up permission groups to regulate the return of sold items 
@@ -95,5 +97,5 @@ The following table shows the prerequisites that must be in place before you sta
 [View retail sales](view-retail-sales.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

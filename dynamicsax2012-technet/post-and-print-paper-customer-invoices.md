@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post and print paper customer invoices
 TOCTitle: Post and print paper customer invoices
 ms:assetid: e6f3d6cd-50e1-4d40-a542-13668332aaa3
@@ -10,6 +10,8 @@ f1_keywords:
 - invoices
 - customer
 - invoice
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post and print paper customer invoices 
@@ -24,5 +26,5 @@ The following topics provide information about posting customer invoices and pri
 [Set up print management for a transaction](set-up-print-management-for-a-transaction.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View catalog and campaign items
 TOCTitle: View catalog and campaign items
 ms:assetid: b6cbc28b-ec13-43bd-b5a0-0c06eddb9351
@@ -14,6 +14,8 @@ f1_keywords:
 - EPCSSPromotionalItemGuest
 - WebProductCatalogGroup
 - WebProductCatalogItem
+audience: Application User
+ms.search.region: Global
 ---
 
 # View catalog and campaign items 
@@ -50,5 +52,5 @@ You can add both types of items to your shopping cart.
 [View the shopping cart](view-the-shopping-cart.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

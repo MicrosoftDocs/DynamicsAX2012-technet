@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Create and post credit notes for a sales order and a project sales order as electronic invoices
 TOCTitle: (MEX) Create and post credit notes for a sales order and a project sales order as electronic invoices
 ms:assetid: 0606f142-a86e-4aa9-92e7-fd2f80adef83
@@ -13,6 +13,8 @@ f1_keywords:
 - post
 - project sales order
 - sales order
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Create and post credit notes for a sales order and a project sales order as electronic invoices 
@@ -69,5 +71,5 @@ Use the **Create credit note** and **Posting invoice** forms to create and post 
 [(MEX) Create and post a sales order and a project sales order as electronic invoices](mex-create-and-post-a-sales-order-and-a-project-sales-order-as-electronic-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

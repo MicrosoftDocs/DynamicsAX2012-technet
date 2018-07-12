@@ -1,4 +1,4 @@
-﻿---
+---
 title: About alert rules
 TOCTitle: About alert rules
 ms:assetid: 8d3901d5-42de-44ff-a4df-19207e358afc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498338(v=AX.60)
 ms:contentKeyID: 46687555
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About alert rules 
@@ -78,5 +80,5 @@ In the **Other alerts** area of the **Create alert rule** form, you can specify 
 [Manage alert rules](manage-alert-rules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

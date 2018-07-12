@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage your Microsoft Dynamics AX 2012 R3 deployment on Azure
 TOCTitle: Manage your deployment
 ms:assetid: fdde3e44-fdc8-43e5-bb3c-52dc2c3e8713
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 This content has been moved [here](https://go.microsoft.com/fwlink/?linkid=858578).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

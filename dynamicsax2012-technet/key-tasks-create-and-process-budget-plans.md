@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create and process budget plans'
 TOCTitle: 'Key tasks: Create and process budget plans'
 ms:assetid: 8f829874-e5fd-44a0-beb4-c420726b8f5a
@@ -10,6 +10,8 @@ f1_keywords:
 - budget plan
 - budget planning
 - budget plans
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create and process budget plans 
@@ -275,5 +277,5 @@ Back to top
 [Generate budget plans from source information](generate-budget-plans-from-source-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

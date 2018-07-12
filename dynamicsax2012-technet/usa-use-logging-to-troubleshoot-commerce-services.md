@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Use logging to troubleshoot Commerce Services
 TOCTitle: (USA) Use logging to troubleshoot Commerce Services
 ms:assetid: 904a4e01-97ab-4c3c-ae6c-a13bf222d3f0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209368(v=AX.60)
 ms:contentKeyID: 36058531
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Use logging to troubleshoot Commerce Services 
@@ -40,5 +42,5 @@ You can turn on operation logging when you want to troubleshoot problems with Co
 [(USA) View and resolve exceptions for Commerce Services](usa-view-and-resolve-exceptions-for-commerce-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

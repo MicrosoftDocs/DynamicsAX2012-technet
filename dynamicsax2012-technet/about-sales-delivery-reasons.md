@@ -1,4 +1,4 @@
-﻿---
+---
 title: About sales delivery reasons
 TOCTitle: About sales delivery reasons
 ms:assetid: fef737b5-b096-4e0e-94ba-f2ac7a90e223
@@ -10,6 +10,8 @@ f1_keywords:
 - deliveries
 - reasons for delivery
 - sales delivery
+audience: Application User
+ms.search.region: Global
 ---
 
 # About sales delivery reasons 
@@ -34,5 +36,5 @@ You set up your reasons for delivery in the **Delivery reason** field in the **R
 [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

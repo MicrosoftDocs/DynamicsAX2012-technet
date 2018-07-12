@@ -1,4 +1,4 @@
-﻿---
+---
 title: Load configuration data from RapidStart Services into a Microsoft Dynamics AX 2012 implementation
 TOCTitle: Load configuration data from RapidStart Services into a Microsoft Dynamics AX 2012 implementation
 ms:assetid: 77a09159-b04e-4159-85db-9e10618a1d94
@@ -61,5 +61,5 @@ As the Customer administrator for a Microsoft Dynamics ERP RapidStart Services p
     The process summary includes information about any errors that occurred during the load process. This information can help you troubleshoot the issues that caused those errors.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

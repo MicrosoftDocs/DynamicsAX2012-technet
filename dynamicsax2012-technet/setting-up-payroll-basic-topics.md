@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Setting up payroll: Basic topics'
 TOCTitle: 'Setting up payroll: Basic topics'
 ms:assetid: c6e4e88a-6f34-4853-aecc-b2d3b4ed6dee
@@ -8,6 +8,8 @@ ms.date: 12/12/2014
 mtps_version: v=AX.60
 f1_keywords:
 - payroll
+audience: Application User
+ms.search.region: USA
 ---
 
 # Setting up payroll: Basic topics 
@@ -255,5 +257,5 @@ You might want to migrate or transfer beginning balances for earning codes, dedu
 [Generating payroll reports](generating-payroll-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

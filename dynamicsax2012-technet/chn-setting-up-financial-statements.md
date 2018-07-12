@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Setting up financial statements
 TOCTitle: (CHN) Setting up financial statements
 ms:assetid: 836cefe9-61f5-43de-a45d-2b2aca079431
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664074(v=AX.60)
 ms:contentKeyID: 49384658
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Setting up financial statements 
@@ -36,5 +38,5 @@ The topics in this section provide information about how to set up financial sta
 [(CHN) Set up the integration with a tax system](chn-set-up-the-integration-with-a-tax-system.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

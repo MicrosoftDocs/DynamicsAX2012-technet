@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up organization information for workers
 TOCTitle: Setting up organization information for workers
 ms:assetid: 358854ff-1ea4-44e5-9e04-df96d6634f54
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231095(v=AX.60)
 ms:contentKeyID: 36056565
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up organization information for workers 
@@ -32,5 +34,5 @@ Topics in this section contain information that you can use to set up the lower 
 For information about setting up the higher levels of your organization, such as legal entities and operating units, see [Organizations and organizational hierarchies](organizations-and-organizational-hierarchies.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

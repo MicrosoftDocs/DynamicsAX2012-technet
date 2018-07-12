@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Settle a partial vendor payment and settle the final payment in full before the discount date'
 TOCTitle: 'Scenario: Settle a partial vendor payment and settle the final payment in full before the discount date'
 ms:assetid: 99928c66-04f5-4534-9cfa-6b774668f031
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597186(v=AX.60)
 ms:contentKeyID: 39519251
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Settle a partial vendor payment and settle the final payment in full before the discount date 
@@ -579,5 +581,5 @@ April posts this journal and reviews the vendor transactions in the **Vendor tra
 [Scenario: Take a discount that is more than the calculated discount for a vendor payment](scenario-take-a-discount-that-is-more-than-the-calculated-discount-for-a-vendor-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

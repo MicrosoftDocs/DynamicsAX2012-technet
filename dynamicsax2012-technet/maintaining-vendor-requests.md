@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintaining vendor requests
 TOCTitle: Maintaining vendor requests
 ms:assetid: 83a2984b-4404-48d7-b628-571694da10e8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271584(v=AX.60)
 ms:contentKeyID: 36384215
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintaining vendor requests 
@@ -28,5 +30,5 @@ This section contains the following topics:
 [Create or update a vendor status change request](create-or-update-a-vendor-status-change-request.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

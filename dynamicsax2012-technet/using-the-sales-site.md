@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Sales site
 TOCTitle: Using the Sales site
 ms:assetid: 1d429a15-d741-4fb8-bc58-aa6a3037ea66
@@ -24,6 +24,8 @@ f1_keywords:
 - view potential customers
 - view prospects
 - view sales packing slips
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using the Sales site 
@@ -46,5 +48,5 @@ This section contains the following topics:
 [Managing cases](managing-cases.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

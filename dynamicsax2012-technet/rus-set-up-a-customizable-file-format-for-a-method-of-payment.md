@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a customizable file format for a method of payment
 TOCTitle: (RUS) Set up a customizable file format for a method of payment
 ms:assetid: 9e20f9e7-17fe-44d4-b490-2d2142143a0b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - file format
 - customizable
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a customizable file format for a method of payment 
@@ -39,5 +41,5 @@ Use the **Methods of payment - vendors** and **Methods of payment - customers** 
 [(RUS) Set up a journal to post an imported payment](rus-set-up-a-journal-to-post-an-imported-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

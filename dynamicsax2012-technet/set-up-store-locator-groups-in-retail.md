@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up store locator groups in Retail
 TOCTitle: Set up store locator groups in Retail
 ms:assetid: e3f49c05-3374-428b-87cd-dc5a2a8dd296
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728715(v=AX.60)
 ms:contentKeyID: 49556620
 ms.date: 08/15/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up store locator groups in Retail 
@@ -130,5 +132,5 @@ However, a customer who is shopping in online store B also searches for product 
 [Set up an online store](set-up-an-online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

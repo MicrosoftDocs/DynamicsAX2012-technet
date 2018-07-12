@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Settle a partial customer payment that has multiple discount periods'
 TOCTitle: 'Scenario: Settle a partial customer payment that has multiple discount periods'
 ms:assetid: e97ec73f-21aa-4e63-9e8e-75a8a20a5ab7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545536(v=AX.60)
 ms:contentKeyID: 37832546
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Settle a partial customer payment that has multiple discount periods 
@@ -358,5 +360,5 @@ The invoice balance is now 0.00. Arnie views the information in the **Customer t
 [Scenario: Settle a partial customer payment that has discounts on credit notes](scenario-settle-a-partial-customer-payment-that-has-discounts-on-credit-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

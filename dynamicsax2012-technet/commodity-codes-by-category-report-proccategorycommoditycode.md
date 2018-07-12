@@ -1,4 +1,4 @@
-﻿---
+---
 title: Commodity codes by category report (ProcCategoryCommodityCode)
 TOCTitle: Commodity codes by category report (ProcCategoryCommodityCode)
 ms:assetid: 23b8b3b7-13b2-4cab-8197-96748802296a
@@ -123,5 +123,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Submit a batch processing job from a form](submit-a-batch-processing-job-from-a-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

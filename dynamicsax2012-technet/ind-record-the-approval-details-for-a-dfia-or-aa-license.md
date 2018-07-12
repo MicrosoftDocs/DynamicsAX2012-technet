@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Record the approval details for a DFIA or AA license
 TOCTitle: (IND) Record the approval details for a DFIA or AA license
 ms:assetid: 2c4c458d-9daa-42d5-89b8-8b8b935278f5
@@ -22,6 +22,8 @@ f1_keywords:
 - Duty Free Import Authorization approval
 - approve Duty Free Import Authorization
 - authorization approval
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Record the approval details for a DFIA or AA license 
@@ -66,5 +68,5 @@ After you receive approval from the customs authority for an export-import (EXIM
 To view the details that you specified for the authorization, open the **EXIM Authorization schemes** form, and then, on the **Lines** FastTab, click **Tax information**. The **Posted tax information** form displays the information that you entered in the **Tax ledger posting group**, **IEC number**, **Transaction date**, and **Tax component** fields.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

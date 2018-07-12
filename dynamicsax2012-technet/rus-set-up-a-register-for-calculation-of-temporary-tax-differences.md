@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for calculation of temporary tax differences
 TOCTitle: (RUS) Set up a register for calculation of temporary tax differences
 ms:assetid: e382f500-b1b8-4a26-8363-f6eec55f2c18
@@ -10,6 +10,8 @@ f1_keywords:
 - set up a register
 - tax difference
 - temporary tax differences
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for calculation of temporary tax differences 
@@ -52,5 +54,5 @@ Temporary tax differences can occur if expenses or revenues generate a profit in
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

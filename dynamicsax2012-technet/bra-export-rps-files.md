@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Export RPS files
 TOCTitle: (BRA) Export RPS files
 ms:assetid: 7e0c8f94-564a-43e1-9478-3a5c78880036
@@ -12,6 +12,8 @@ f1_keywords:
 - (BRA)
 - RPS file
 - export file
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Export RPS files 
@@ -60,5 +62,5 @@ When you export an RPS file, a text file is generated based on the export file l
 [(BRA) About electronic fiscal document for services reporting for Sao Paulo](bra-about-electronic-fiscal-document-for-services-reporting-for-sao-paulo.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

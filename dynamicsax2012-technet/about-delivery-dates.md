@@ -1,4 +1,4 @@
-﻿---
+---
 title: About delivery dates
 TOCTitle: About delivery dates
 ms:assetid: b30785e5-c86e-4e40-bb7b-a7d3cfc7a2d6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571894(v=AX.60)
 ms:contentKeyID: 36059065
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About delivery dates 
@@ -24,5 +26,5 @@ The delivery date is determined by several factors. The earliest delivery date i
 [Set up the transport calendar](set-up-the-transport-calendar.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

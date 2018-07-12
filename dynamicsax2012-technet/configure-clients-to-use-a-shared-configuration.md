@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure clients to use a shared configuration
 TOCTitle: Configure clients to use a shared configuration
 ms:assetid: 6c2ef77d-c371-4dc3-ab5c-8a2dbedea98d
@@ -101,5 +101,5 @@ The following table lists three methods that you can use to set up clients to us
 [Client security and protection](client-security-and-protection.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a customer record
 TOCTitle: Create a customer record
 ms:assetid: cc18943e-c00c-49e6-8bd2-03be6481b6dd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572674(v=AX.60)
 ms:contentKeyID: 36811430
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a customer record 
@@ -48,5 +50,5 @@ After you save the record, it is added to the global address book.
 [Create a party record](create-a-party-record.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

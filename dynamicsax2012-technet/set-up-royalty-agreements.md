@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up royalty agreements
 TOCTitle: Set up royalty agreements
 ms:assetid: f1c78500-9640-4e23-b136-13513454d4a0
@@ -8,6 +8,8 @@ ms.date: 05/09/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.TAMPromotionParameters
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up royalty agreements 
@@ -103,5 +105,5 @@ A royalty agreement must be validated before it can be applied to a sales order.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create charges groups for customers or vendors
 TOCTitle: Create charges groups for customers or vendors
 ms:assetid: c5cacbcb-e3a3-4ec6-a2f3-1e2480cebffc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550758(v=AX.60)
 ms:contentKeyID: 36059304
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create charges groups for customers or vendors 
@@ -28,5 +30,5 @@ You can create charges groups for customers or vendors.
 4.  Close the form to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

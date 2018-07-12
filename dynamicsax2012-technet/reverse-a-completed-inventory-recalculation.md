@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reverse a completed inventory recalculation
 TOCTitle: Reverse a completed inventory recalculation
 ms:assetid: 6665163b-1c8c-4d85-a563-c6aec0492dbf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231554(v=AX.60)
 ms:contentKeyID: 36057753
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reverse a completed inventory recalculation 
@@ -28,5 +30,5 @@ In some cases, you may have to reverse a completed inventory recalculation. When
 [Cancellation - Initialize (form)](https://technet.microsoft.com/en-us/library/hh227515\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

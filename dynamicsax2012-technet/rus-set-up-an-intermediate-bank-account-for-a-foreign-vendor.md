@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an intermediate bank account for a foreign vendor
 TOCTitle: (RUS) Set up an intermediate bank account for a foreign vendor
 ms:assetid: 143d4fb6-888b-4506-9d64-949fc9e7ab2f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711410(v=AX.60)
 ms:contentKeyID: 49387228
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an intermediate bank account for a foreign vendor 
@@ -36,5 +38,5 @@ You can also set up an intermediate Russian bank account to link to the vendor p
 [(RUS) Set up a customer bank account for payment returns from a foreign vendor](rus-set-up-a-customer-bank-account-for-payment-returns-from-a-foreign-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

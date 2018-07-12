@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up centralized customer payments
 TOCTitle: Set up centralized customer payments
 ms:assetid: fe5e2c78-814b-4ffe-8256-c7d4b7895b5b
@@ -17,6 +17,8 @@ f1_keywords:
 - organizational
 - shared service
 - shared services
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up centralized customer payments 
@@ -165,5 +167,5 @@ You can define default descriptions for intercompany settlement vouchers. The de
 [Select invoices to settle with payments on behalf of multiple legal entities](select-invoices-to-settle-with-payments-on-behalf-of-multiple-legal-entities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

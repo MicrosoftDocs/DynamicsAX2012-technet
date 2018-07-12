@@ -1,4 +1,4 @@
-﻿---
+---
 title: General ledger reports
 TOCTitle: General ledger reports
 ms:assetid: 59c0da77-cff4-452d-a771-1f43b9975a05
@@ -378,5 +378,5 @@ The following reports are available in the **General ledger** module of Microsof
 [(ESP) Spanish payment due date compliance report (DueDateCompliance\_ES)](esp-spanish-payment-due-date-compliance-report-duedatecompliance-es.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

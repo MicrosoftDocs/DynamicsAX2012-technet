@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up total compensation statement sections
 TOCTitle: Set up total compensation statement sections
 ms:assetid: 293a3609-0729-4ce4-a58d-60968b3c2179
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn887952(v=AX.60)
 ms:contentKeyID: 63404229
 ms.date: 11/19/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up total compensation statement sections 
@@ -228,5 +230,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

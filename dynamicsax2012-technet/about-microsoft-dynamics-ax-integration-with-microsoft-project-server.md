@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Microsoft Dynamics AX integration with Microsoft Project Server
 TOCTitle: About Microsoft Dynamics AX integration with Microsoft Project Server
 ms:assetid: 788d2018-27f7-4962-9615-4a3e522b5e1e
@@ -10,6 +10,8 @@ f1_keywords:
 - integrate
 - office project
 - project server
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Microsoft Dynamics AX integration with Microsoft Project Server 
@@ -96,5 +98,5 @@ For detailed information about how to integrate Microsoft Dynamics AX and Projec
 [Integrate a worker in Microsoft Dynamics AX with Microsoft Project Server](integrate-a-worker-in-microsoft-dynamics-ax-with-microsoft-project-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

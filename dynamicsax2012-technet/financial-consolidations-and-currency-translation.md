@@ -1,4 +1,4 @@
-﻿---
+---
 title: Financial consolidations and currency translation
 TOCTitle: Financial consolidations and currency translation
 ms:assetid: e1962b70-c31b-4f2e-b128-d4a67948563e
@@ -18,5 +18,5 @@ This white paper shows how Management Reporter for Microsoft Dynamics ERP and Mi
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=389548)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

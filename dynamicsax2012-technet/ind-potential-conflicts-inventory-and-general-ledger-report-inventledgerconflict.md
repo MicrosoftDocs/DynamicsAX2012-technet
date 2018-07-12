@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Potential conflicts - inventory and general ledger report (InventLedgerConflict)
 TOCTitle: (IND) Potential conflicts - inventory and general ledger report (InventLedgerConflict)
 ms:assetid: 6810d44b-78f2-4164-b98f-df9e4d35a482
@@ -167,5 +167,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(IND) Post received orders for transactions](ind-post-received-orders-for-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

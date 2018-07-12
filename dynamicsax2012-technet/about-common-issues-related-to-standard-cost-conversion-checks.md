@@ -1,4 +1,4 @@
-﻿---
+---
 title: About common issues related to standard cost conversion checks
 TOCTitle: About common issues related to standard cost conversion checks
 ms:assetid: 9d130481-023d-4b9b-8c7a-eb8b29719380
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213370(v=AX.60)
 ms:contentKeyID: 36058741
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About common issues related to standard cost conversion checks 
@@ -54,5 +56,5 @@ Several issues are frequently identified by the **Standard cost conversion check
 [Set up and run a standard cost conversion](set-up-and-run-a-standard-cost-conversion.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

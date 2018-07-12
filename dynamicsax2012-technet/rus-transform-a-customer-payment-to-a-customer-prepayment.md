@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Transform a customer payment to a customer prepayment
 TOCTitle: (RUS) Transform a customer payment to a customer prepayment
 ms:assetid: a0ab41d3-02f4-4a6f-b6e1-03977762cfb2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.SalesBooksTable
 - MsDynAx060.Forms.SalesBooksTable
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Transform a customer payment to a customer prepayment 
@@ -51,5 +53,5 @@ If unsettled payment documents remain at the end of reporting period, the paymen
 [(RUS) Unsettled payments (form)](https://technet.microsoft.com/en-us/library/jj853162\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

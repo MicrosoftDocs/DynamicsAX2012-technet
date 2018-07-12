@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Commerce Data Exchange: Synch Service'
 TOCTitle: 'Commerce Data Exchange: Synch Service'
 ms:assetid: 792c1c8c-c7ef-4736-be56-1fab61bfed17
@@ -56,5 +56,5 @@ Synch Service runs as a Microsoft Windows service, DBServer.exe, that listens f
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

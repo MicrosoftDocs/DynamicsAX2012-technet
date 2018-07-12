@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define the look and feel of mobile device displays
 TOCTitle: Define the look and feel of mobile device displays
 ms:assetid: 837eb722-acda-423a-974c-4d3fac2bc002
@@ -15,6 +15,8 @@ f1_keywords:
 - Forms.WHSRFColor
 - Forms.WHSWorkUserDisplaySettings
 - mobile devices
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define the look and feel of mobile device displays 
@@ -192,5 +194,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

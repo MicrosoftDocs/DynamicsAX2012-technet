@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Setting up tax information
 TOCTitle: (POL) Setting up tax information
 ms:assetid: fa4bddf3-08f1-4792-9d96-85b6cf0e9460
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711335(v=AX.60)
 ms:contentKeyID: 49387152
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Setting up tax information 
@@ -34,5 +36,5 @@ The following topics provide information about setting up tax information.
 [(POL) Set up overdue debt VAT parameters for VAT journals](pol-set-up-overdue-debt-vat-parameters-for-vat-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

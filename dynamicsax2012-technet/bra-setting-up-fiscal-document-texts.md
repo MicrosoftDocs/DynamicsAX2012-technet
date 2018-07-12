@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Setting up fiscal document texts
 TOCTitle: (BRA) Setting up fiscal document texts
 ms:assetid: 8ae74b8a-d7f5-4833-80f5-1ebc4532adba
@@ -11,6 +11,8 @@ f1_keywords:
 - (BRA)
 - fiscal document text
 - Setting up fiscal document text
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Setting up fiscal document texts 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to set up fiscal docume
 [(BRA) Attach fiscal document texts to a free text invoice](bra-attach-fiscal-document-texts-to-a-free-text-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

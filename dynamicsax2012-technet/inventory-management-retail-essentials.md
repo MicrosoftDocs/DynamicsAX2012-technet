@@ -1,4 +1,4 @@
-﻿---
+---
 title: Inventory management (Retail essentials)
 TOCTitle: Inventory management (Retail essentials)
 ms:assetid: 734423f4-a7bc-4a80-b30a-33089ddbfd07
@@ -36,5 +36,5 @@ The topics in this section provide information about how to manage inventory.
 [Create and print labels overview (Retail essentials)](create-and-print-labels-overview-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

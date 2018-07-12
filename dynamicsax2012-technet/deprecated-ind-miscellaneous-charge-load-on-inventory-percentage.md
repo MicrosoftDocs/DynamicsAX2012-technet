@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (IND) Miscellaneous charge load on inventory percentage'
 TOCTitle: (IND) Miscellaneous charge load on inventory percentage
 ms:assetid: 319d14c2-8292-4e0b-98f7-1f9330d0192f
@@ -54,5 +54,5 @@ Microsoft Dynamics AX 2009 lets users post a specified percentage (partial amoun
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up funds (Public sector)
 TOCTitle: Setting up funds (Public sector)
 ms:assetid: 48dfffc4-1126-4ed6-a240-9b9342bdd34b
@@ -11,6 +11,8 @@ f1_keywords:
 - Public sector
 - set up funds
 - setting up funds
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Setting up funds (Public sector) 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to set up funds for pub
 [Set up funds (Public sector)](set-up-funds-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

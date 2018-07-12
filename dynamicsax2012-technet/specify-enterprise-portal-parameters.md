@@ -1,4 +1,4 @@
-﻿---
+---
 title: Specify Enterprise Portal parameters
 TOCTitle: Specify Enterprise Portal parameters
 ms:assetid: cc5082d0-0c89-4553-a21b-af076c9f830a
@@ -46,5 +46,5 @@ Parameters for Enterprise Portal for Microsoft Dynamics AX determine the followi
 [Configure user relations](configure-user-relations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a table constraint
 TOCTitle: Create a table constraint
 ms:assetid: f6409362-123c-4921-9dbf-44ea523405e9
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - product configurator
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a table constraint 
@@ -103,5 +105,5 @@ Before you can set up a user-defined table constraint, the attribute types to in
 [About system-defined and user-defined table constraints](about-system-defined-and-user-defined-table-constraints.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

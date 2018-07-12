@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Checklist: Configure Enterprise Portal security'
 TOCTitle: 'Checklist: Configure Enterprise Portal security'
 ms:assetid: fed77384-7e0c-446f-8f17-1fb3220a07c1
@@ -129,5 +129,5 @@ Table 3: Security tasks to enable user access
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

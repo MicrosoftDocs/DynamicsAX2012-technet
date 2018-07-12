@@ -1,4 +1,4 @@
-﻿---
+---
 title: Review the overall progress of a configuration project in RapidStart Services
 TOCTitle: Review the overall progress of a configuration project in RapidStart Services
 ms:assetid: d5818601-93c4-42b8-9f3c-5431a5408425
@@ -55,5 +55,5 @@ As the Customer administrator for a configuration project in Microsoft Dynamics 
 [Review the progress for a question group in RapidStart Services](review-the-progress-for-a-question-group-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

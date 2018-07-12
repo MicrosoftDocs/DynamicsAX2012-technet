@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter and post invoices for recurring expenses
 TOCTitle: Enter and post invoices for recurring expenses
 ms:assetid: 475d2720-eeaf-4d38-ad7a-44d3715c8e63
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231396(v=AX.60)
 ms:contentKeyID: 36966721
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enter and post invoices for recurring expenses 
@@ -70,5 +72,5 @@ When you create a voucher based on a **Percent** type voucher template, the perc
 [Voucher templates (form)](https://technet.microsoft.com/en-us/library/hh209570\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

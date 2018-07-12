@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a batch disposition code
 TOCTitle: Create a batch disposition code
 ms:assetid: f84c5118-eb9f-4db2-9995-4e9867a8b8b0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227557(v=AX.60)
 ms:contentKeyID: 36060047
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a batch disposition code 
@@ -34,5 +36,5 @@ Use this procedure to create a batch disposition code. You use batch disposition
 [Batch disposition master (form)](https://technet.microsoft.com/en-us/library/hh208612\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

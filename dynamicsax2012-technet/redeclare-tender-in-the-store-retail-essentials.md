@@ -1,4 +1,4 @@
-﻿---
+---
 title: Redeclare tender in the store (Retail essentials)
 TOCTitle: Redeclare tender in the store (Retail essentials)
 ms:assetid: 391282ff-ca81-4798-b1df-27f0bd0d8026
@@ -52,5 +52,5 @@ You can view the tender declaration transactions that are associated with the re
 [Create and post statements overview (Retail essentials)](create-and-post-statements-overview-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

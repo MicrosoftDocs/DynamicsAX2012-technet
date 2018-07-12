@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the sales value matching principle
 TOCTitle: About the sales value matching principle
 ms:assetid: 6cfbc581-b35f-4550-b1b8-6e6fb819cfe4
@@ -11,6 +11,8 @@ f1_keywords:
 - reverse accrued revenue
 - reverse estimate
 - sales value
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the sales value matching principle 
@@ -92,5 +94,5 @@ Profit and loss.
 [Estimate (form)](https://technet.microsoft.com/en-us/library/aa590971\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

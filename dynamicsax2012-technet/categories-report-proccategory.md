@@ -1,4 +1,4 @@
-﻿---
+---
 title: Categories report (ProcCategory)
 TOCTitle: Categories report (ProcCategory)
 ms:assetid: 508775c1-4c0f-4495-9269-aacf9fa55b05
@@ -131,5 +131,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Submit a batch processing job from a form](submit-a-batch-processing-job-from-a-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

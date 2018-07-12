@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up U.S. sales tax
 TOCTitle: Setting up U.S. sales tax
 ms:assetid: c5bd3365-7b9b-4461-bf11-0e8c953b3792
@@ -12,6 +12,8 @@ f1_keywords:
 - tax
 - tax setup
 - U.S. tax
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up U.S. sales tax 
@@ -32,5 +34,5 @@ The following topics provide information about setting up sales tax in the Unite
 [(USA) Applying U.S. sales tax and use tax rules](usa-applying-u-s-sales-tax-and-use-tax-rules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Client configuration commands
 TOCTitle: Client configuration commands
 ms:assetid: 8eceee52-a2d1-4487-80ca-27a95503c467
@@ -271,5 +271,5 @@ dbunicodeenabled,Text,1
 [Application Object Server (AOS) configuration commands](application-object-server-aos-configuration-commands.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

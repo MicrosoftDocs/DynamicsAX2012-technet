@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Use logging for troubleshooting Sites Services
 TOCTitle: (USA) Use logging for troubleshooting Sites Services
 ms:assetid: f51e1c05-7306-4a46-be3d-00ce8548cff1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227539(v=AX.60)
 ms:contentKeyID: 36059998
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Use logging for troubleshooting Sites Services 
@@ -34,5 +36,5 @@ You can turn on operation logging when you want to troubleshoot problems with Si
 [(USA) View and resolve exceptions for Sites Services](usa-view-and-resolve-exceptions-for-sites-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

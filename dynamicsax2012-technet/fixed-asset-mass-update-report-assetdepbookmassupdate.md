@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed asset mass update report (AssetDepBookMassUpdate)
 TOCTitle: Fixed asset mass update report (AssetDepBookMassUpdate)
 ms:assetid: 13ed60f4-bdd1-4806-a5ec-5dd745687084
@@ -130,5 +130,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Change depreciation conventions for multiple fixed assets](change-depreciation-conventions-for-multiple-fixed-assets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

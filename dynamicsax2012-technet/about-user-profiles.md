@@ -1,4 +1,4 @@
-﻿---
+---
 title: About user profiles
 TOCTitle: About user profiles
 ms:assetid: eae40f91-dfd5-45f2-85bc-2a304451d47f
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - product builder user profiles
+audience: Application User
+ms.search.region: Global
 ---
 
 # About user profiles 
@@ -32,5 +34,5 @@ A modeling variable that has no user profiles attached is available to users in 
 Before you can attach user profiles to a set of modeling variables, you must create the required profiles. Similarly, the user profiles that you create should be attached to employees and users.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

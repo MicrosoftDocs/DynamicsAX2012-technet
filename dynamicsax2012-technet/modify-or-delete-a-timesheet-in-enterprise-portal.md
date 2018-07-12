@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify or delete a timesheet in Enterprise Portal
 TOCTitle: Modify or delete a timesheet in Enterprise Portal
 ms:assetid: 4cb78bfa-93b3-49bc-9528-e90630155334
@@ -12,6 +12,8 @@ f1_keywords:
 - TSTimesheetEntryPage
 - edit timesheet
 - delete timesheet
+audience: Application User
+ms.search.region: Global
 ---
 
 # Modify or delete a timesheet in Enterprise Portal 
@@ -66,5 +68,5 @@ If a timesheet has not been submitted, you can modify or delete it.
 [Create and submit timesheets](create-and-submit-timesheets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

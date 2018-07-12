@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage training
 TOCTitle: Manage training
 ms:assetid: ff11a6e4-20f3-4238-bd75-97d871d2184b
@@ -12,6 +12,8 @@ f1_keywords:
 - course
 - training
 - train
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage training 
@@ -32,5 +34,5 @@ Topics in this section provide information about the tools in Human resources th
 [Key tasks: Courses](key-tasks-courses.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

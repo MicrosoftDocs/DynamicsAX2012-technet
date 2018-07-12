@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts receivable cube (CustCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Accounts receivable cube (CustCube)
 ms:assetid: 8243581b-7aea-4b7c-be3d-d86f94ab7e84
@@ -409,5 +409,5 @@ The Accounts receivable cube can be accessed by users assigned to the following 
   - Financial controller
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

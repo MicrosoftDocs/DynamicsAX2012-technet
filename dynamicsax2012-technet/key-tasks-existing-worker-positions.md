@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Existing worker positions'
 TOCTitle: 'Key tasks: Existing worker positions'
 ms:assetid: 9cc83f70-ea9f-49b0-ace7-84c9a0ae161b
@@ -14,6 +14,8 @@ f1_keywords:
 - existing employees
 - existing worker
 - existing workers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Existing worker positions 
@@ -236,5 +238,5 @@ Back to top
 [Worker and position payroll tasks](worker-and-position-payroll-tasks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

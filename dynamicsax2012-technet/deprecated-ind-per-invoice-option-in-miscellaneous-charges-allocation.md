@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (IND) Per invoice option in miscellaneous charges allocation'
 TOCTitle: (IND) Per invoice option in miscellaneous charges allocation
 ms:assetid: fef51b09-3ebc-4870-ae86-1a50bfbf7bff
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, the **Purchase order** and **Purchase invoice** h
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

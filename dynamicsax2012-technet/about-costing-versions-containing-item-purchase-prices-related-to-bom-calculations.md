@@ -1,4 +1,4 @@
-﻿---
+---
 title: About costing versions containing item purchase prices related to BOM calculations
 TOCTitle: About costing versions containing item purchase prices related to BOM calculations
 ms:assetid: ecb5f988-6e20-481c-b2b2-e69eb55cb875
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243256(v=AX.60)
 ms:contentKeyID: 36059896
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About costing versions containing item purchase prices related to BOM calculations 
@@ -22,5 +24,5 @@ An item's purchase price records are also used for reference information. By cha
 [About BOM calculation of a suggested sales price](about-bom-calculation-of-a-suggested-sales-price.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

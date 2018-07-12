@@ -1,4 +1,4 @@
-﻿---
+---
 title: Detect code upgrade conflicts
 TOCTitle: Detect code upgrade conflicts
 ms:assetid: fe368442-0046-4233-906a-74b405e3da4e
@@ -86,5 +86,5 @@ Projects that may be created include the following:
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

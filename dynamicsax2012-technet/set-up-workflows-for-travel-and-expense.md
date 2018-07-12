@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up workflows for travel and expense
 TOCTitle: Set up workflows for travel and expense
 ms:assetid: 2c7f5d0c-d2f9-4538-8fc3-e21f1a767363
@@ -10,6 +10,8 @@ f1_keywords:
 - expenses
 - expense
 - travel
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up workflows for travel and expense 
@@ -104,5 +106,5 @@ For more information about workflows in Microsoft Dynamics AX, see the following
   - [Configure workflows](configure-workflows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage a client configuration
 TOCTitle: Manage a client configuration
 ms:assetid: 813ed1c9-aec5-47f5-9c1f-94e934fda5d3
@@ -170,5 +170,5 @@ If you saved or exported a configuration file to a network share, use this proce
 [Connect a client to a different Application Object Server instance](connect-a-client-to-a-different-application-object-server-instance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

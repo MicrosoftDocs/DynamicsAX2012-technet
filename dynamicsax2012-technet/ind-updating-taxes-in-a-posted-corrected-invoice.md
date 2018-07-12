@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Updating taxes in a posted corrected invoice
 TOCTitle: (IND) Updating taxes in a posted corrected invoice
 ms:assetid: ca10206a-75af-43ea-bf70-7097ef8449b3
@@ -12,6 +12,8 @@ f1_keywords:
 - corrective invoice
 - posted corrective invoice
 - update taxes
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Updating taxes in a posted corrected invoice 
@@ -251,5 +253,5 @@ A **Correction** column is displayed on the **All free text invoices** list page
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

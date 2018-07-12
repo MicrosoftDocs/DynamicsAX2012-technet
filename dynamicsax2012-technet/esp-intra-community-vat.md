@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Intra-Community VAT
 TOCTitle: (ESP) Intra-Community VAT
 ms:assetid: 90bf53dc-d3d6-4301-ba3a-3f62a4d1cdad
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242895(v=AX.60)
 ms:contentKeyID: 36058541
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Intra-Community VAT 
@@ -18,5 +20,5 @@ Intra-Community VAT information can be calculated and posted automatically. When
 Select the **EU sales tax for Spanish invoices** check box in the **Accounts payable parameters** form to use the Intra-Community VAT feature.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

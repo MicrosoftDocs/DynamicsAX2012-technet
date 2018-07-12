@@ -1,4 +1,4 @@
-﻿---
+---
 title: AXUpdate command line parameters reference
 TOCTitle: AXUpdate command line parameters reference
 ms:assetid: 42f5ad71-2470-46c8-903a-53e6d34714d1
@@ -147,5 +147,5 @@ The following command-line parameters can be used to install updates.
 [Run AXUpdate in silent mode](run-axupdate-in-silent-mode.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

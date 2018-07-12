@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up rebates
 TOCTitle: Set up rebates
 ms:assetid: 05700e30-e843-4288-912d-f533e3b53a8d
@@ -8,6 +8,8 @@ ms.date: 06/10/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.TAMBillBackListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up rebates 
@@ -105,5 +107,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

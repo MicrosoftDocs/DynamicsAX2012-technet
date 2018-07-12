@@ -1,4 +1,4 @@
-﻿---
+---
 title: Return an item ordered from a sales agreement
 TOCTitle: Return an item ordered from a sales agreement
 ms:assetid: 27056300-0566-453e-9a7f-40c0aa439f52
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683225(v=AX.60)
 ms:contentKeyID: 49684847
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Return an item ordered from a sales agreement 
@@ -48,5 +50,5 @@ If you do not want to deduct the returned item quantity from the sales agreement
 [About intercompany orders and return orders](about-intercompany-orders-and-return-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

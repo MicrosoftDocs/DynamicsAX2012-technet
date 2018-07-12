@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Change the fixed asset group for a fixed asset
 TOCTitle: (LTU) Change the fixed asset group for a fixed asset
 ms:assetid: 6d31f49c-d20b-4792-b57f-a9f2cdbf7cc5
@@ -11,6 +11,8 @@ f1_keywords:
 - change fixed asset
 - change group
 - change the fixed asset group
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Change the fixed asset group for a fixed asset 
@@ -55,5 +57,5 @@ All fixed assets are assigned to a fixed asset group. In some situations, a fixe
 [(LTU) Create a transfer packing slip for a fixed asset](ltu-create-a-transfer-packing-slip-for-a-fixed-asset.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

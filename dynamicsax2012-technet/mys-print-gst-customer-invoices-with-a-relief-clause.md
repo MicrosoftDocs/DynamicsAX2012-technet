@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MYS) Print GST customer invoices with a relief clause
 TOCTitle: (MYS) Print GST customer invoices with a relief clause
 ms:assetid: ceb8c657-37c6-437c-9a3a-311e87665cfc
@@ -8,6 +8,8 @@ ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Menu_Items.Display.TaxGSTReliefCategory_MY
+audience: Application User
+ms.search.region: Malaysia
 ---
 
 # (MYS) Print GST customer invoices with a relief clause 
@@ -172,5 +174,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

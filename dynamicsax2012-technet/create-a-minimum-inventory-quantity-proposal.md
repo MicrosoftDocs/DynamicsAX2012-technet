@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a minimum inventory quantity proposal
 TOCTitle: Create a minimum inventory quantity proposal
 ms:assetid: 8785e152-d1f4-49fa-b510-a2b1120b82da
@@ -11,6 +11,8 @@ f1_keywords:
 - minimum inventory
 - lead time
 - safety stock
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a minimum inventory quantity proposal 
@@ -45,5 +47,5 @@ To create a minimum inventory quantity proposal, use the following procedure:
 [Item coverage journal lines (form)](https://technet.microsoft.com/en-us/library/aa583747\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

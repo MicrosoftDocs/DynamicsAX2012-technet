@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a load template
 TOCTitle: Set up a load template
 ms:assetid: 98200da2-092e-4539-91b6-ddad53c0ab78
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.WHSLoadTemplate
 - load template
 - load templates
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a load template 
@@ -85,5 +87,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: User relations upgrade - invalid company users
 TOCTitle: User relations upgrade - invalid company users
 ms:assetid: 9c83c299-55c8-47b6-847a-5d39ab64c9b8
@@ -34,5 +34,5 @@ Use the following procedure to delete user accounts for a company when the user 
 [User relations upgrade duplicate user IDs](user-relations-upgrade-duplicate-user-ids.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

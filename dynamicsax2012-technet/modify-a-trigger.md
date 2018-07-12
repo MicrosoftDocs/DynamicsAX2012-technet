@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify a trigger
 TOCTitle: Modify a trigger
 ms:assetid: 07325aca-5ae7-4179-8850-108c1d78c0ff
@@ -57,5 +57,5 @@ You use triggers to capture events that fire before and after Microsoft Dynamics
                 }
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

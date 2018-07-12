@@ -1,4 +1,4 @@
-﻿---
+---
 title: View payments made to a vendor
 TOCTitle: View payments made to a vendor
 ms:assetid: c5c31cbc-64cd-4764-96d9-27014dd4da3e
@@ -15,6 +15,8 @@ f1_keywords:
 - non-negotiable checks
 - recent payments
 - payment history
+audience: Application User
+ms.search.region: Global
 ---
 
 # View payments made to a vendor 
@@ -61,5 +63,5 @@ You can also search for a specific invoice number or purchase order number to vi
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure purchase requisition parameters
 TOCTitle: Configure purchase requisition parameters
 ms:assetid: 5eba02e2-e783-426c-aaa7-c46922c6d86b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - purchase requisition
 - purchase requistions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure purchase requisition parameters 
@@ -73,5 +75,5 @@ If you do not configure the purchase requisition control rule, the default param
 [Purchase requisition control rule (form)](https://technet.microsoft.com/en-us/library/hh208589\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Management Reporter components
 TOCTitle: Install Management Reporter components
 ms:assetid: 180649b5-cdf9-4084-856d-05c7cfd32c5a
@@ -28,5 +28,5 @@ The following topics explain how to install Management Reporter components by us
 [Install Report Designer for Management Reporter](install-report-designer-for-management-reporter.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

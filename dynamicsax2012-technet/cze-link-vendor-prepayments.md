@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Link vendor prepayments
 TOCTitle: (CZE) Link vendor prepayments
 ms:assetid: 8525f065-8af0-4141-b94a-978289771f43
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677593(v=AX.60)
 ms:contentKeyID: 49384896
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Link vendor prepayments 
@@ -50,5 +52,5 @@ You can link prepayments paid to vendors to advance invoices, either before or a
 [(CZE) Create a vendor advance invoice](cze-create-a-vendor-advance-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

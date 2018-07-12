@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create delivery charges groups
 TOCTitle: Create delivery charges groups
 ms:assetid: 6fc99264-0c07-4f90-be8f-ec0815b906c0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683227(v=AX.60)
 ms:contentKeyID: 49684850
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create delivery charges groups 
@@ -38,5 +40,5 @@ Use this topic to create a charges group for modes of delivery. A delivery charg
 [Modes of delivery (form)](https://technet.microsoft.com/en-us/library/aa619881\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

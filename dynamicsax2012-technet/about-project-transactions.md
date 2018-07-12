@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project transactions
 TOCTitle: About project transactions
 ms:assetid: b3ddd882-ed40-4c9f-814f-ca41cfc00cde
@@ -15,6 +15,8 @@ f1_keywords:
 - project transactions
 - subscription transaction
 - transaction type
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project transactions 
@@ -71,5 +73,5 @@ For fixed-price projects, on-account invoices are primarily used to define miles
 [Key tasks: Create expense reports](key-tasks-create-expense-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

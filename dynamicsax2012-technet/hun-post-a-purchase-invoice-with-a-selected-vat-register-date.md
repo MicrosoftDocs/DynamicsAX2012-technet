@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Post a purchase invoice with a selected VAT register date
 TOCTitle: (HUN) Post a purchase invoice with a selected VAT register date
 ms:assetid: a8b6f06b-6313-42da-8c0d-110414132ac4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664345(v=AX.60)
 ms:contentKeyID: 49385433
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Post a purchase invoice with a selected VAT register date 
@@ -54,5 +56,5 @@ You can select the date of the VAT register for VAT reporting when you post a pu
 [(HUN) Create and post a purchase order invoice with a specific VAT register date](hun-create-and-post-a-purchase-order-invoice-with-a-specific-vat-register-date.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

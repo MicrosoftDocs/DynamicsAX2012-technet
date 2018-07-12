@@ -1,4 +1,4 @@
-﻿---
+---
 title: Revalue currency amounts overview
 TOCTitle: Revalue currency amounts overview
 ms:assetid: be9b1009-460b-4ab0-ab7c-f7881aea4f09
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213624(v=AX.60)
 ms:contentKeyID: 36059250
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Revalue currency amounts overview 
@@ -65,5 +67,5 @@ The following table lists the forms that support the revalue currency amounts bu
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

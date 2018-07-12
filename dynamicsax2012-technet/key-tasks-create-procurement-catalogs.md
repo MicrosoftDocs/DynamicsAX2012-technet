@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create procurement catalogs'
 TOCTitle: 'Key tasks: Create procurement catalogs'
 ms:assetid: 9be99b02-2681-42a0-95d9-c5c558385118
@@ -13,6 +13,8 @@ f1_keywords:
 - procurement catalogs
 - catalog
 - purchasing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create procurement catalogs 
@@ -433,5 +435,5 @@ Back to top
 [Set up an external vendor catalog](set-up-an-external-vendor-catalog.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

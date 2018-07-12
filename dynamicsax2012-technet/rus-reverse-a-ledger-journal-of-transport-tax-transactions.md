@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Reverse a ledger journal of transport tax transactions
 TOCTitle: (RUS) Reverse a ledger journal of transport tax transactions
 ms:assetid: 5d56eece-cb36-450e-aebe-6318dec1f825
@@ -10,6 +10,8 @@ f1_keywords:
 - Russia
 - transport tax
 - ledger journal
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Reverse a ledger journal of transport tax transactions 
@@ -40,5 +42,5 @@ Use this procedure to reverse a ledger journal of transport tax transactions.
 [(RUS) Journal header (modified form)](https://technet.microsoft.com/en-us/library/jj911370\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

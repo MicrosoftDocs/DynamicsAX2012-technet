@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Configure fiscal printers
 TOCTitle: (BRA) Configure fiscal printers
 ms:assetid: 0312a2c8-a0a6-4135-a745-25c78f4f34c7
@@ -17,6 +17,8 @@ f1_keywords:
 - Fiscal printers
 - fiscal printer
 - MsDynAx060.Forms.RetailConfiguration_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Configure fiscal printers 
@@ -301,5 +303,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

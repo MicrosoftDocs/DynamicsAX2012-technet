@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create attribute types
 TOCTitle: Create attribute types
 ms:assetid: 230531f6-8a29-4b3b-af19-9257c9443752
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580585(v=AX.60)
 ms:contentKeyID: 39519067
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create attribute types 
@@ -76,5 +78,5 @@ Attribute types specify the set of data types for attributes that are used in a 
 [Add an attribute to a component](add-an-attribute-to-a-component.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

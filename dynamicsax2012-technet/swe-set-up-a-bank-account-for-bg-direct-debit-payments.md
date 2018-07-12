@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Set up a bank account for BG direct debit payments
 TOCTitle: (SWE) Set up a bank account for BG direct debit payments
 ms:assetid: e93f8835-583b-495e-ae93-6a3312ec96ff
@@ -11,6 +11,8 @@ f1_keywords:
 - Bankgirot
 - direct debit
 - BG
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Set up a bank account for BG direct debit payments 
@@ -45,5 +47,5 @@ Use the **Bank accounts** form to set up a bank account for Bank giro (BG) direc
 [(SWE) Import BG direct debit payment returns to a general journal](swe-import-bg-direct-debit-payment-returns-to-a-general-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

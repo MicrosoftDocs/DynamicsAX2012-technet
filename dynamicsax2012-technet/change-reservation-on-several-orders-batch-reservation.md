@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change reservation on several orders (batch reservation)
 TOCTitle: Change reservation on several orders (batch reservation)
 ms:assetid: 97e498ec-f046-441a-b72f-673050ac0840
@@ -10,6 +10,8 @@ f1_keywords:
 - reservation
 - batch reservation
 - reservation across locations
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change reservation on several orders (batch reservation) 
@@ -59,5 +61,5 @@ This procedure describes how to change reservations on several orders at the sam
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

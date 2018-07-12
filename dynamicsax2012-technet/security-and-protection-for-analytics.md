@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security and protection for analytics
 TOCTitle: Security and protection for analytics
 ms:assetid: f294dd72-5c49-455a-a37f-1a4f15094709
@@ -74,5 +74,5 @@ The documentation for SQL Server also provides the following topics that explain
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

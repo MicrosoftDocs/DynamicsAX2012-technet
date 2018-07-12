@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Settle a sales invoice with delayed transfer of property
 TOCTitle: (RUS) Settle a sales invoice with delayed transfer of property
 ms:assetid: 9a5b6068-ad63-4086-a9f2-80c0ca0cd3e1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853208(v=AX.60)
 ms:contentKeyID: 50396489
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Settle a sales invoice with delayed transfer of property 
@@ -28,5 +30,5 @@ Use the **Invoice journal** form to settle a sales invoice that is related to a 
 [(RUS) Allocate charges to a sales invoice](rus-allocate-charges-to-a-sales-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

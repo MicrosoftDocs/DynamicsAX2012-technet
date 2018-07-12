@@ -1,4 +1,4 @@
-﻿---
+---
 title: Analyze source code data
 TOCTitle: Analyze source code data
 ms:assetid: a0eb4e16-b1e7-460f-832a-246449720448
@@ -16,6 +16,8 @@ f1_keywords:
 - source code analysis
 - source code revenue
 - source codes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Analyze source code data 
@@ -122,5 +124,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Create call center catalogs](create-call-center-catalogs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

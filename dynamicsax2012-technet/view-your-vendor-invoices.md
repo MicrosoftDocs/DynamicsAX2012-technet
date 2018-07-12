@@ -1,4 +1,4 @@
-﻿---
+---
 title: View your vendor invoices
 TOCTitle: View your vendor invoices
 ms:assetid: ab22da0b-caf4-4482-9380-f224473a7821
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPVendInvoiceDetailVSS
 - EPVendInvoiceListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # View your vendor invoices 
@@ -33,5 +35,5 @@ Use the **Vendor invoices** page to view a list of invoices that you have issued
 [Enterprise Portal and Microsoft Excel](enterprise-portal-and-microsoft-excel.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

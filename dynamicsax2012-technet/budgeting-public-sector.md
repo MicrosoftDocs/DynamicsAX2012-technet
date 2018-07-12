@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budgeting (Public sector)
 TOCTitle: Budgeting (Public sector)
 ms:assetid: c26dcc62-e446-4a92-af40-dbe115a2bd9b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - budgeting public sector
 - public sector budgeting
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Budgeting (Public sector) 
@@ -25,5 +27,5 @@ The topics in this section provide information about Budgeting for public sector
 [Budget analysis inquiries (Public sector)](budget-analysis-inquiries-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

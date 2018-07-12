@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Post an NF-e from a project invoice
 TOCTitle: (BRA) Post an NF-e from a project invoice
 ms:assetid: 21d77e19-7018-4411-a904-607a2605bd44
@@ -11,6 +11,8 @@ f1_keywords:
 - Brazil
 - Post electronic fiscal document
 - Post NF-e
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Post an NF-e from a project invoice 
@@ -57,5 +59,5 @@ After the status of the NF-e is received from SEFAZ, you can perform the followi
 [(BRA) Cancel a vendor NF-e](bra-cancel-a-vendor-nf-e.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

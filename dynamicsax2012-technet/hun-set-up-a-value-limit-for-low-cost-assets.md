@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up a value limit for low-cost assets
 TOCTitle: (HUN) Set up a value limit for low-cost assets
 ms:assetid: 7bab4f63-b8ae-4e53-a9d8-31ea69f6de4f
@@ -13,6 +13,8 @@ f1_keywords:
 - low-cost asset value limit
 - value limit
 - value limit for low-cost asset
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up a value limit for low-cost assets 
@@ -39,5 +41,5 @@ Use this procedure to enable immediate depreciation by specifying the value limi
 [Fixed assets parameters (form)](https://technet.microsoft.com/en-us/library/hh242490\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

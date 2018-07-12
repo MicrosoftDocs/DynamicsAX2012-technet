@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update and evaluate agreements
 TOCTitle: Update and evaluate agreements
 ms:assetid: 955554ae-7174-43df-9424-7e58926c7786
@@ -15,6 +15,8 @@ f1_keywords:
 - subscription fee
 - evaluate agreement
 - subscrition price
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update and evaluate agreements 
@@ -37,5 +39,5 @@ The topics in this section provide information about how to update and evaluate 
 [Update and index subscription sales prices](update-and-index-subscription-sales-prices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

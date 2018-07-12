@@ -1,4 +1,4 @@
-﻿---
+---
 title: About viewing and evaluating results
 TOCTitle: About viewing and evaluating results
 ms:assetid: cb8de61c-071d-4325-8bf2-194266fe4a94
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - results
 - result
+audience: Application User
+ms.search.region: Global
 ---
 
 # About viewing and evaluating results 
@@ -88,5 +90,5 @@ Various reports can also be generated to view results sorted by person, answer s
 [Calculate statistics for a questionnaire](calculate-statistics-for-a-questionnaire.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

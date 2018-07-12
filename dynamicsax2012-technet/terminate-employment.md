@@ -1,4 +1,4 @@
-﻿---
+---
 title: Terminate employment
 TOCTitle: Terminate employment
 ms:assetid: 3571972e-5a4c-4192-b6e4-81e363929208
@@ -11,6 +11,8 @@ f1_keywords:
 - terminate employment form
 - termination
 - terminations
+audience: Application User
+ms.search.region: Global
 ---
 
 # Terminate employment 
@@ -79,5 +81,5 @@ This topic describes how to terminate employment for a worker. When you terminat
 [Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

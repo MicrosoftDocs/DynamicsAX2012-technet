@@ -1,4 +1,4 @@
-﻿---
+---
 title: Complete the invoice information
 TOCTitle: Complete the invoice information
 ms:assetid: e4ebb75d-3a2f-4344-90b9-079eaac729a5
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - invoice information
+audience: Application User
+ms.search.region: Global
 ---
 
 # Complete the invoice information 
@@ -22,5 +24,5 @@ The topics in this section provide information about how to complete invoice inf
 [Key tasks: Customer invoices](key-tasks-customer-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

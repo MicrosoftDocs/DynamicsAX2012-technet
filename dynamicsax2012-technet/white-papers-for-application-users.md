@@ -1,4 +1,4 @@
-﻿---
+---
 title: White papers for application users
 TOCTitle: White papers for application users
 ms:assetid: eb47559d-d038-4e15-8d81-4774bfad87c6
@@ -52,5 +52,5 @@ The white papers listed below describe the practices that we recommend for appli
 [Financial consolidations and currency translation](financial-consolidations-and-currency-translation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

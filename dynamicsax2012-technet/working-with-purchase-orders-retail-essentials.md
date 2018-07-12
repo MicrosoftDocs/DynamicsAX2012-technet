@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with purchase orders (Retail essentials)
 TOCTitle: Working with purchase orders (Retail essentials)
 ms:assetid: d52094cb-311e-48ce-a716-d87247443c39
@@ -95,5 +95,5 @@ Use this procedure to create a purchase order that is based on a sales order. Th
 [Working with vendors (Retail essentials)](working-with-vendors-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

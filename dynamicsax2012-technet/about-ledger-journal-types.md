@@ -1,4 +1,4 @@
-﻿---
+---
 title: About ledger journal types
 TOCTitle: About ledger journal types
 ms:assetid: 648ccf23-3a92-49c4-b471-03976fba293d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa585226(v=AX.60)
 ms:contentKeyID: 44080988
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About ledger journal types 
@@ -361,5 +363,5 @@ This topic describes the journal types that you can set up for financial journal
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

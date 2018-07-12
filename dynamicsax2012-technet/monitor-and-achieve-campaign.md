@@ -1,4 +1,4 @@
-﻿---
+---
 title: Monitor and achieve campaign
 TOCTitle: Monitor and achieve campaign
 ms:assetid: e38c2001-d736-4dbf-917a-ac8ec3970999
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - campaigns
 - campaign
+audience: Application User
+ms.search.region: Global
 ---
 
 # Monitor and achieve campaign 
@@ -29,5 +31,5 @@ The topics in this section provide information about how to monitor and achieve 
 [Change status on the call list](change-status-on-the-call-list.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

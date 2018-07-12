@@ -1,4 +1,4 @@
-﻿---
+---
 title: Data partitioning architecture
 TOCTitle: Data partitioning architecture
 ms:assetid: 27ba6c51-7ea7-4403-867a-46ccc1ee053a
@@ -66,5 +66,5 @@ It is important to understand that data partitions do not create separate instal
     User roles are assigned for each partition.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

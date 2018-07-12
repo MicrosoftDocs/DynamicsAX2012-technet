@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Generate the SPED fiscal export file for a month
 TOCTitle: (BRA) Generate the SPED fiscal export file for a month
 ms:assetid: 1430d618-43e1-46d5-8a90-f7a6716ee425
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.FBBookingPeriodListPage_BR
 - MsDynAx060.Forms.FBBookingPeriodListPage_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Generate the SPED fiscal export file for a month 
@@ -41,5 +43,5 @@ The Sistema Publico de Escrituração Digital (SPED) fiscal text file provides i
 7.  Click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hardening Microsoft Dynamics AX components against security threats
 TOCTitle: Hardening Microsoft Dynamics AX components against security threats
 ms:assetid: da8cc664-810f-4986-8ee5-705843744976
@@ -34,5 +34,5 @@ This section surveys the procedures and best practices required to secure indivi
 [Implementation guide for Retail PCI compliance](implementation-guide-for-retail-pci-compliance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

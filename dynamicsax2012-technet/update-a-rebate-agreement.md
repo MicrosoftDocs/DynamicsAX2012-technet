@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update a rebate agreement
 TOCTitle: Update a rebate agreement
 ms:assetid: 9f491076-a03a-41a7-8f79-daea19c8a77e
@@ -11,6 +11,8 @@ f1_keywords:
 - customer rebate
 - edit a rebate agreement
 - rebate agreement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update a rebate agreement 
@@ -61,5 +63,5 @@ Use this procedure to make changes to a rebate agreement for a customer.
 [Rebate agreements (form)](https://technet.microsoft.com/en-us/library/hh328681\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

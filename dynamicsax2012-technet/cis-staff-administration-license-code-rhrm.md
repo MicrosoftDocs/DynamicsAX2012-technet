@@ -1,4 +1,4 @@
-﻿---
+---
 title: CIS staff administration license code (RHRM)
 TOCTitle: CIS staff administration license code (RHRM)
 ms:assetid: c7c75c4c-e10d-43bf-a983-2d529214690c
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 The **CIS Staff administration** license code and all configuration keys for the license code have been deprecated in Microsoft Dynamics AX 2012.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Set up the financial reports generator
 TOCTitle: (EEUR) Set up the financial reports generator
 ms:assetid: 810045fe-1ff2-47e7-9017-ee9ba07fdd52
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910986(v=AX.60)
 ms:contentKeyID: 52075300
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Set up the financial reports generator 
@@ -70,5 +72,5 @@ You can use the Russian financial reports generator (FRG) to generate reports by
 [(EEUR) Copy the financial reports generator settings](eeur-copy-the-financial-reports-generator-settings.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

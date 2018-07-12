@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (POL) Dates of holidays'
 TOCTitle: (POL) Dates of holidays
 ms:assetid: d7c38c3f-b8c4-4fa1-a9d4-52e4473045a0
@@ -56,5 +56,5 @@ For Polish installations, Microsoft Dynamics AX 2009 provides country-specific f
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify a contact record
 TOCTitle: Create or modify a contact record
 ms:assetid: 61aa9a22-46ff-41bb-adec-9ccd93b34365
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPContactPersonEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify a contact record 
@@ -62,5 +64,5 @@ A contact is the person that you interact with in relation to prospect, lead, op
 [Create or modify a vendor account](create-or-modify-a-vendor-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

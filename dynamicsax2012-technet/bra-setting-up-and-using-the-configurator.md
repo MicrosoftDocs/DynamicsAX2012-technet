@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Setting up and using the configurator
 TOCTitle: (BRA) Setting up and using the configurator
 ms:assetid: 2bfecedb-1d9a-4bdd-8c72-f647fca45603
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710442(v=AX.60)
 ms:contentKeyID: 49384335
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Setting up and using the configurator 
@@ -28,5 +30,5 @@ The following topics provide information about setting up and using the configur
 [(BRA) About the configurator](bra-about-the-configurator.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sell gift cards or add funds to them
 TOCTitle: Sell gift cards or add funds to them
 ms:assetid: 945b56ae-58a5-4c41-b5fc-82b617d5eec2
@@ -16,6 +16,8 @@ f1_keywords:
 - MsDynAx060.Forms.MCRGiftCardPromptDialog
 - gift card balance
 - redeem gift card
+audience: Application User
+ms.search.region: Global
 ---
 
 # Sell gift cards or add funds to them 
@@ -136,5 +138,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [About gift cards in AX 2012 R3](about-gift-cards-in-ax-2012-r3.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

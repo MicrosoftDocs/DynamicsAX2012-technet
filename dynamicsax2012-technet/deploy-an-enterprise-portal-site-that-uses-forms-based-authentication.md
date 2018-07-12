@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy an Enterprise Portal site that uses forms-based authentication
 TOCTitle: Deploy an Enterprise Portal site that uses forms-based authentication
 ms:assetid: dca19036-df4f-41b0-b6af-5fcfa951c67e
@@ -640,5 +640,5 @@ If you are creating a claims user, specify the name of the claims provider in th
 If you browse the Enterprise Portal site by using the following URL: https://ServerName:PortNumber/sites/DynamicsAx, the Sign In page prompts you to select a logon option from the drop-down list. If you select FormsAuth, you are redirected to the forms-based authentication logon site, such as https://ServerName.contoso.com:PortNumber/_Layouts/Login.aspx. Verify that you can logon to the site using forms-based authentication.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Fixed assets
 TOCTitle: Working with Fixed assets
 ms:assetid: 4e108e9a-7666-4122-bd6a-0f0824480a08
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - fixed assets
 - working with fixed assets
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Fixed assets 
@@ -33,5 +35,5 @@ The topics in this section provide an overview of each component of the fixed as
 [Fixed asset records](fixed-asset-records.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

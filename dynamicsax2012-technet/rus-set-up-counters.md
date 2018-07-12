@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up counters
 TOCTitle: (RUS) Set up counters
 ms:assetid: fc564312-feb2-4447-aade-2ae83d53b441
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678659(v=AX.60)
 ms:contentKeyID: 49388141
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up counters 
@@ -74,5 +76,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(RUS) Set up calculation sequences, counters, and deferred expense write-off factors](rus-set-up-calculation-sequences-counters-and-deferred-expense-write-off-factors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

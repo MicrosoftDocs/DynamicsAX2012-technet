@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Microsoft Dynamics AX Intelligent Data Management Framework"
 TOCTitle: Microsoft Dynamics AX Intelligent Data Management Framework
 ms:assetid: 21050a63-2547-4fbe-bb1b-4d7624b3ad2b
@@ -34,5 +34,5 @@ In the July 2014 release of IDMF, the following features were changed:
 Read the documentation [Microsoft Dynamics AX Intelligent Data Management Framework (IDMF)](microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

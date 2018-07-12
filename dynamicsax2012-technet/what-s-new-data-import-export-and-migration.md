@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Data import, export, and migration"
 TOCTitle: Data import, export, and migration
 ms:assetid: e40e65fa-681a-4980-838a-96f0b856fb4d
@@ -22,5 +22,5 @@ As of cumulative update 7 for Microsoft Dynamics AX 2012 R2, the Data Import/Exp
 For detailed information about the Data Import/Export Framework, see the [Data import/export framework user guide (DIXF, DMF)](data-import-export-framework-user-guide-dixf-dmf.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

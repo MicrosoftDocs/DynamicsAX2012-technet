@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculation of the storage service amount for items
 TOCTitle: (RUS) Calculation of the storage service amount for items
 ms:assetid: 11f313eb-d4e0-47e0-ac7f-7abf734664f0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711401(v=AX.60)
 ms:contentKeyID: 49387221
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculation of the storage service amount for items 
@@ -216,5 +218,5 @@ From May 1, 2012, to May 4, 2012, the quantity of the storage item, pianos, is 1
 [(RUS) Set up an inventory unit and unit operator to calculate the storage service amount](rus-set-up-an-inventory-unit-and-unit-operator-to-calculate-the-storage-service-amount.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

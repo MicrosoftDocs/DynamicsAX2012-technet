@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Export financial information for auditors
 TOCTitle: (SWE) Export financial information for auditors
 ms:assetid: 30e4ed09-a7e1-4542-a93e-a16a33578497
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231030(v=AX.60)
 ms:contentKeyID: 36056322
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Export financial information for auditors 
@@ -50,5 +52,5 @@ You can export financial data using the formats specified by the Standard Import
 [Export of SIE file (form)](https://technet.microsoft.com/en-us/library/bb147523\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Settle a promissory note
 TOCTitle: Settle a promissory note
 ms:assetid: e0b507d0-f4c1-4880-b987-ea9f29ecafce
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551320(v=AX.60)
 ms:contentKeyID: 36059705
 ms.date: 06/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Settle a promissory note 
@@ -80,5 +82,5 @@ Use the **Remittance files for vendors** form to change the status of promissory
 [Specify when a vendor bank account is active](specify-when-a-vendor-bank-account-is-active.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

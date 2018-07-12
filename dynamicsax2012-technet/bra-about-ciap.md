@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About CIAP
 TOCTitle: (BRA) About CIAP
 ms:assetid: 618071b1-7487-4f9b-994f-fdb3c5a5d22c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305868(v=AX.60)
 ms:contentKeyID: 54912968
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About CIAP 
@@ -24,5 +26,5 @@ CIAP stands for “Controle de Crédito de ICMS do Ativo Permanente,” which is
 For more information, see “Working with fiscal books for fixed assets.”
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

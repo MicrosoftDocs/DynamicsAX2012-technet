@@ -1,4 +1,4 @@
-﻿---
+---
 title: Date Effective Patterns (White paper)
 TOCTitle: Date Effective Patterns
 ms:assetid: 1cef84a6-f3ad-4ceb-bcd6-391000af24e0
@@ -34,5 +34,5 @@ The paper also suggests design patterns for forms that use valid time state tabl
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=221069).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

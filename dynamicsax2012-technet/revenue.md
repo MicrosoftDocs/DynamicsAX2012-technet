@@ -1,4 +1,4 @@
-﻿---
+---
 title: " revenue"
 TOCTitle: " revenue"
 ms:assetid: DynamicsAXGlossary.178920
@@ -25,5 +25,5 @@ An increase in an organization's assets or a decrease in an organization's liabi
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

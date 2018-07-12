@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tax accountant security role (FBTaxAccountant_BR)
 TOCTitle: Tax accountant security role (FBTaxAccountant_BR)
 ms:assetid: 4528eae8-14bc-402f-a5b8-bc999de4c4fe
@@ -113,5 +113,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

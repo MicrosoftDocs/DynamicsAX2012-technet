@@ -1,4 +1,4 @@
-﻿---
+---
 title: Planning and architecture of the Help system
 TOCTitle: Planning and architecture
 ms:assetid: a65698f3-46e3-4da5-b7d8-ad497a0562ea
@@ -20,5 +20,5 @@ The Microsoft Dynamics AX 2012 Help system architecture has changed substantiall
 [Planning considerations for the Help system](planning-considerations-for-the-help-system.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

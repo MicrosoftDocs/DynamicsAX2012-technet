@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project management and accounting reports
 TOCTitle: Project management and accounting reports
 ms:assetid: e77df0d2-2523-4081-9682-f2c513361f73
@@ -190,5 +190,5 @@ The following reports are available in the **Project management and accounting**
 [Resource assignments report (PSAResourceAssignments)](resource-assignments-report-psaresourceassignments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

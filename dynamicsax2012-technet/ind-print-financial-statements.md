@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Print financial statements
 TOCTitle: (IND) Print financial statements
 ms:assetid: 161ab2e3-2ea9-4bd3-b137-86cbfabd1b39
@@ -12,6 +12,8 @@ f1_keywords:
 - (IND)
 - India
 - print statements
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Print financial statements 
@@ -44,5 +46,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(IND) Setting up and printing financial statements](ind-setting-up-and-printing-financial-statements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Worker/item forecast transactions report (ProjListBudgetID)
 TOCTitle: Worker/item forecast transactions report (ProjListBudgetID)
 ms:assetid: 5b6e6024-a1ff-4477-9dd6-38dc93176f98
@@ -212,5 +212,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

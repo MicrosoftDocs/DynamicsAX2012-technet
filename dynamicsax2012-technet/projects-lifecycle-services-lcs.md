@@ -1,4 +1,4 @@
-﻿---
+---
 title: Projects (Lifecycle Services, LCS)
 TOCTitle: Projects
 ms:assetid: 4113466a-62cd-42c1-91d3-f29bd05711c7
@@ -14,5 +14,5 @@ mtps_version: v=AX.60
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/projects-lifecycle-services-lcs/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

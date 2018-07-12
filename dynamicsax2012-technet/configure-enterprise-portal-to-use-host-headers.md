@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure Enterprise Portal to use host headers
 TOCTitle: Configure Enterprise Portal to use host headers
 ms:assetid: af2684b5-cd44-4254-8fdc-047906df1b4e
@@ -38,5 +38,5 @@ If you are creating a new Enterprise Portal web site in SharePoint, you can spec
 [Configure Enterprise Portal to use Secure Sockets Layer](configure-enterprise-portal-to-use-secure-sockets-layer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

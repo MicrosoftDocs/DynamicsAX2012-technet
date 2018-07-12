@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create service object relations
 TOCTitle: Create service object relations
 ms:assetid: 3b461ecc-971f-45cd-9271-ebeb06b1521e
@@ -12,6 +12,8 @@ f1_keywords:
 - item
 - service
 - relationship
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create service object relations 
@@ -56,5 +58,5 @@ Use the following steps to create a service object relation for a service order:
 [About service object relations](about-service-object-relations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

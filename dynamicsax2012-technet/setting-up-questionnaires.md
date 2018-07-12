@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up questionnaires
 TOCTitle: Setting up questionnaires
 ms:assetid: 7bbd14a2-9aa1-4ef6-b83e-748179f3b45f
@@ -11,6 +11,8 @@ f1_keywords:
 - set up
 - questionnaires
 - questionnaire
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up questionnaires 
@@ -101,5 +103,5 @@ In a questionnaire, you cannot delete:
 [Set up a conditional question hierarchy](set-up-a-conditional-question-hierarchy.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

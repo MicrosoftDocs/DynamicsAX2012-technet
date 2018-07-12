@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up taxes and funds for the payroll process
 TOCTitle: (RUS) Set up taxes and funds for the payroll process
 ms:assetid: 2eb6cb1d-69ae-4eb7-bee3-d48d778a5b09
@@ -40,6 +40,8 @@ f1_keywords:
 - MsDynAx060.Forms.RpayTaxParameters
 - MsDynAx060.Forms.RPayTaxTable
 - MsDynAx060.Forms.RPayTaxIncomeCode
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up taxes and funds for the payroll process 
@@ -640,5 +642,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

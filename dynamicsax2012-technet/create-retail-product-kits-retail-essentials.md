@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create retail product kits (Retail essentials)
 TOCTitle: Create retail product kits (Retail essentials)
 ms:assetid: 1def1161-4812-4416-bbf6-d0f50dbca7d5
@@ -183,5 +183,5 @@ If you define a price for the overall kit, the new price is distributed across a
 After you set up the kit and define your kit configuration, the next steps are to generate the assembly orders and assemble the orders. For more information, see [Generate assembly and disassembly orders (Retail essentials)](generate-assembly-and-disassembly-orders-retail-essentials.md) and [Process kit assembly and disassembly orders (Retail essentials)](process-kit-assembly-and-disassembly-orders-retail-essentials.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

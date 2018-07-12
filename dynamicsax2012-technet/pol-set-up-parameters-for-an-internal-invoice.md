@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up parameters for an internal invoice
 TOCTitle: (POL) Set up parameters for an internal invoice
 ms:assetid: 7572e085-64bd-4812-9c5e-dcfdee054273
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678242(v=AX.60)
 ms:contentKeyID: 49386964
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up parameters for an internal invoice 
@@ -84,5 +86,5 @@ The Polish Fiscal Act of Goods and Services requires that all companies generate
 [(POL) Post an internal invoice](pol-post-an-internal-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

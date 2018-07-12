@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reduce the days on subscription fees
 TOCTitle: Reduce the days on subscription fees
 ms:assetid: e4141215-b18e-4818-8be9-b260beb8611c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551390(v=AX.60)
 ms:contentKeyID: 36059730
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reduce the days on subscription fees 
@@ -36,5 +38,5 @@ Also, if the **From date** on the reduction period is January 21 (31 minus 10), 
 [Reduction days example](reduction-days-example.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

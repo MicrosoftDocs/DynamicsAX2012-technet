@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up India taxes in Retail
 TOCTitle: (IND) Set up India taxes in Retail
 ms:assetid: 2dc8eee8-20cf-49ab-84c3-70f0d434ab24
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.MarkupTable
 - IN - 00015
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up India taxes in Retail 
@@ -38,5 +40,5 @@ Use the **Charges code** form to enable the calculation of taxes for customer or
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

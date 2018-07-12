@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a depreciation register (nonlinear method) for intangible assets
 TOCTitle: (RUS) Set up a depreciation register (nonlinear method) for intangible assets
 ms:assetid: c03fb9e1-8d93-4783-860a-3f249e46ed38
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711572(v=AX.60)
 ms:contentKeyID: 49387896
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a depreciation register (nonlinear method) for intangible assets 
@@ -60,5 +62,5 @@ The **FA depreciation (nonlinear method)** register records information about in
 [(RUS) Calculate the intangible assets depreciation (nonlinear method) register](rus-calculate-the-intangible-assets-depreciation-nonlinear-method-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

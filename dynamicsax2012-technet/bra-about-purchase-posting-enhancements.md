@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About purchase posting enhancements
 TOCTitle: (BRA) About purchase posting enhancements
 ms:assetid: 2e6c8ac5-b40b-40d0-a280-1fa5de8fee34
@@ -12,6 +12,8 @@ f1_keywords:
 - purchase posting
 - purchase posting enhancements
 - BR - 00026
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About purchase posting enhancements 
@@ -40,5 +42,5 @@ The following enhancements have been made for purchase posting:
 [(BRA) Cancel a vendor fiscal document](bra-cancel-a-vendor-fiscal-document.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

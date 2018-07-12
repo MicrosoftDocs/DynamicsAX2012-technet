@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About posting and printing fiscal document texts
 TOCTitle: (BRA) About posting and printing fiscal document texts
 ms:assetid: 771ac3e6-c84e-4606-9d0b-0265e7f7bf96
@@ -12,6 +12,8 @@ f1_keywords:
 - legal texts
 - posted legal texts
 - BR - 00020
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About posting and printing fiscal document texts 
@@ -44,5 +46,5 @@ Follow these steps to post and print a fiscal document text on a fiscal document
 [(BRA) Attach fiscal document texts to a fiscal document](bra-attach-fiscal-document-texts-to-a-fiscal-document.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed assets roadmap
 TOCTitle: Fixed assets roadmap
 ms:assetid: 9bfd6a8e-d97b-43d6-99d2-bad8802be323
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn800885(v=AX.60)
 ms:contentKeyID: 62839683
 ms.date: 11/26/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Fixed assets roadmap 
@@ -208,5 +210,5 @@ Fixed assets can be integrated with the following modules and Microsoft products
   - Microsoft Excel
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

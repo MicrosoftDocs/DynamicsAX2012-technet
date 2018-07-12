@@ -1,4 +1,4 @@
-﻿---
+---
 title: " bill of exchange"
 TOCTitle: " bill of exchange"
 ms:assetid: DynamicsAXGlossary.228379
@@ -23,5 +23,5 @@ A source document that documents an unconditional request for a third-party to p
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

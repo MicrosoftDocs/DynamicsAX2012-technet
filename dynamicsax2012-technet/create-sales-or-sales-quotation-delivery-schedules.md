@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create sales or sales quotation delivery schedules
 TOCTitle: Create sales delivery schedules
 ms:assetid: 6533a61a-b0c7-4c19-b836-f370be7a91e7
@@ -10,6 +10,8 @@ f1_keywords:
 - sales
 - delivery schedule
 - delivery schedules
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create sales or sales quotation delivery schedules 
@@ -101,5 +103,5 @@ Use this procedure to create a delivery schedule that lets you split one order l
 [Delivery schedule - Sales quotation (form)](https://technet.microsoft.com/en-us/library/hh209450\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

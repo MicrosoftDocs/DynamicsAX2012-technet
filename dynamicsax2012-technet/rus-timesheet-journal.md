@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Timesheet journal
 TOCTitle: (RUS) Timesheet journal
 ms:assetid: a31b20e6-3fb9-49bb-b4a0-c67539441eca
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn435954(v=AX.60)
 ms:contentKeyID: 56730926
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Timesheet journal 
@@ -24,5 +26,5 @@ This topic describes how to create a list of time codes for working time, overti
 This topic describes how to create a timesheet for an employee in the current payroll period after the employee is hired. For more information, see [(RUS) Create a timesheet for an employee](rus-create-a-timesheet-for-an-employee.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

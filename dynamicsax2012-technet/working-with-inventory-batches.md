@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with inventory batches
 TOCTitle: Working with inventory batches
 ms:assetid: e7da5b79-5b2d-46d2-94f6-adf74c1904dd
@@ -12,6 +12,8 @@ f1_keywords:
 - inventory batches
 - process industries
 - batches
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with inventory batches 
@@ -34,5 +36,5 @@ The topics in this section provide information about how to work with inventory 
 [Update the expiration date for an inventory batch](update-the-expiration-date-for-an-inventory-batch.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

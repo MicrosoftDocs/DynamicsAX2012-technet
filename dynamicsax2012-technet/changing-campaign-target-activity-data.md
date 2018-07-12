@@ -1,4 +1,4 @@
-﻿---
+---
 title: Changing campaign target activity data
 TOCTitle: Changing campaign target activity data
 ms:assetid: 743d27a9-8d69-46ad-ad0a-1add1d1f8d95
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550019(v=AX.60)
 ms:contentKeyID: 36058155
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Changing campaign target activity data 
@@ -38,5 +40,5 @@ If you change the worker who is responsible for a campaign target, the activity 
 If you delete the worker who is responsible for a campaign target, the activity for the campaign target is deleted.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

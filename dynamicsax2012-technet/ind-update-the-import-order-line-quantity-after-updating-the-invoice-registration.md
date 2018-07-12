@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Update the import order line quantity after updating the invoice registration
 TOCTitle: (IND) Update the import order line quantity after updating the invoice registration
 ms:assetid: dcd78907-9c94-4c60-b51d-6367ea1b8c0c
@@ -13,6 +13,8 @@ f1_keywords:
 - invoice registration
 - order line quantity
 - Update the import order line
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Update the import order line quantity after updating the invoice registration 
@@ -59,5 +61,5 @@ Use the following procedure to update the quantity of an item on the purchase or
 [(IND) Set up a bill of entry number for import orders](ind-set-up-a-bill-of-entry-number-for-import-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

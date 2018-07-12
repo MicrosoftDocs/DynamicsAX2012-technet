@@ -1,4 +1,4 @@
-﻿---
+---
 title: About payment methods
 TOCTitle: About payment methods
 ms:assetid: f407860f-2097-46cd-9be6-bbe1de466ff0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597280(v=AX.60)
 ms:contentKeyID: 39519364
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About payment methods 
@@ -50,5 +52,5 @@ To set up payment methods in Retail, you must complete the following tasks:
     For more information about how to set up card types and card numbers, see [Set up card types and card numbers](set-up-card-types-and-card-numbers.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

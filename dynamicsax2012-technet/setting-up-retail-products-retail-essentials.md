@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up retail products (Retail essentials)
 TOCTitle: Setting up retail products (Retail essentials)
 ms:assetid: 4136e45d-0a54-47f8-af8f-ca7f59221600
@@ -22,5 +22,5 @@ The topics in this section provide information about how to set up retail produc
 [Setting up gift cards (Retail essentials)](setting-up-gift-cards-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

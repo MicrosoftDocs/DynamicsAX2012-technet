@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Update excise registers for finished goods and by-products
 TOCTitle: (IND) Update excise registers for finished goods and by-products
 ms:assetid: cd5753b1-df36-4348-9ee9-032b0fcfc417
@@ -18,6 +18,8 @@ f1_keywords:
 - DSA quantity
 - quantity of scrap
 - without payment of duty
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Update excise registers for finished goods and by-products 
@@ -220,5 +222,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

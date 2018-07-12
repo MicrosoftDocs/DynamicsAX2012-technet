@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process incoming leads
 TOCTitle: Process incoming leads
 ms:assetid: 031cbaac-a6ac-4fcf-a552-04e442a78489
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - incoming lead
 - incoming leads
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process incoming leads 
@@ -23,5 +25,5 @@ The topics in this section provide information about how to process information 
 [Create, copy, or delete a lead](create-copy-or-delete-a-lead.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

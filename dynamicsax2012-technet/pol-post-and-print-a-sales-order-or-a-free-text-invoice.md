@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Post and print a sales order or a free text invoice
 TOCTitle: (POL) Post and print a sales order or a free text invoice
 ms:assetid: c73f0a4d-e0e8-46ca-82c3-c66501ebc67a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711263(v=AX.60)
 ms:contentKeyID: 49387081
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Post and print a sales order or a free text invoice 
@@ -52,5 +54,5 @@ To post a business document, first generate an invoice, and then post it by usin
 [(POL) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj678144\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

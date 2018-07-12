@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up continuity programs
 TOCTitle: Set up continuity programs
 ms:assetid: 8dc715f2-862e-4c0b-8521-66b29b7a6d03
@@ -16,6 +16,8 @@ f1_keywords:
 - continuity program
 - recurring order
 - continuity order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up continuity programs 
@@ -322,5 +324,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Work with continuity programs](work-with-continuity-programs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

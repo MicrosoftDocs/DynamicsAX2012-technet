@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sales and marketing reports
 TOCTitle: Sales and marketing reports
 ms:assetid: a06501ab-2541-4f5a-b3ad-68133253b198
@@ -86,5 +86,5 @@ The following reports are available in the **Sales and marketing** module of Mic
 [(SWE) Customer/item statistics report (SalesOrderEntryStatistics)](swe-customer-item-statistics-report-salesorderentrystatistics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

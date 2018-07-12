@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer service manager security role (TradeCustomerServiceManager)
 TOCTitle: Customer service manager security role (TradeCustomerServiceManager)
 ms:assetid: d359fc6f-544a-4ec6-b9fb-f2497bd127f0
@@ -236,5 +236,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

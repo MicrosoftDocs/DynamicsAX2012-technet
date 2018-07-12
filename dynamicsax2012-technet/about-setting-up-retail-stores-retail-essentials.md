@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up retail stores (Retail essentials)
 TOCTitle: About setting up retail stores (Retail essentials)
 ms:assetid: 9e8fd99f-92a1-498b-a6e7-a294fe15d2db
@@ -181,5 +181,5 @@ For more information about how to configure Retail essentials, see [Setting up R
 [Working with organizations and organizational hierarchies (Retail essentials)](working-with-organizations-and-organizational-hierarchies-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

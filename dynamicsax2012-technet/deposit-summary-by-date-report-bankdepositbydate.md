@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deposit summary by date report (BankDepositByDate)
 TOCTitle: Deposit summary by date report (BankDepositByDate)
 ms:assetid: dc597d0e-9b6a-4e44-8f8f-43ac18fa4817
@@ -100,5 +100,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Add additional tables to advanced queries](add-additional-tables-to-advanced-queries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

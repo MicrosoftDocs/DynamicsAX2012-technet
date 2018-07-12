@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts payable clerk security role (VendInvoiceAccountsPayableClerk)
 TOCTitle: Accounts payable clerk security role (VendInvoiceAccountsPayableClerk)
 ms:assetid: 5a0d9bf5-1cb1-4a32-8bf6-e32ba1caedff
@@ -808,5 +808,5 @@ In Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack, no pr
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

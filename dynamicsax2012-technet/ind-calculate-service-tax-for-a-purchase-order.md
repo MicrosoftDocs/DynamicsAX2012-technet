@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate service tax for a purchase order
 TOCTitle: (IND) Calculate service tax for a purchase order
 ms:assetid: e83a922e-d0bc-4d60-87c6-d35d39f4e2b6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.PurchTable
 - MsDynAx060.Forms.PurchTable
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate service tax for a purchase order 
@@ -71,5 +73,5 @@ Use the **Purchase order** form to calculate the service tax for a vendor. You c
 [(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

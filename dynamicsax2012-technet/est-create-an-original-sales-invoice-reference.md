@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Create an original sales invoice reference
 TOCTitle: (EST) Create an original sales invoice reference
 ms:assetid: 91875330-b007-4cc1-a24a-adfd04522cf9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710865(v=AX.60)
 ms:contentKeyID: 49385261
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Create an original sales invoice reference 
@@ -38,5 +40,5 @@ You can create a sales invoice reference number for credit note transactions of 
 [(EST) Create and post a credit note to reverse a free text invoice](est-create-and-post-a-credit-note-to-reverse-a-free-text-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

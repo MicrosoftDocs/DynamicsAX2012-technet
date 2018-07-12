@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import a SQL Server Analysis Services Project into the AOT
 TOCTitle: Import a SQL Server Analysis Services Project into the AOT
 ms:assetid: ee6b90ca-d735-4670-9504-26f4b54466b9
@@ -49,5 +49,5 @@ If you have multiple partitions in Microsoft Dynamics AX, you may want to use Po
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

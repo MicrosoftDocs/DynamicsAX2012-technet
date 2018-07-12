@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Working with Fixed assets
 TOCTitle: (LVA) Working with Fixed assets
 ms:assetid: 1911b14d-92a6-4274-9318-e9f206ece50b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731007(v=AX.60)
 ms:contentKeyID: 49675247
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Working with Fixed assets 
@@ -20,5 +22,5 @@ This section provides information about working with the Fixed assets business p
 [(LVA) Depreciate/amortize assets overview](lva-depreciate-amortize-assets-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

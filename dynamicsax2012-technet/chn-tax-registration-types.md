@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Tax registration types
 TOCTitle: (CHN) Tax registration types
 ms:assetid: 6a74738b-443a-4c6e-9aa8-742f7018655c
@@ -40,5 +40,5 @@ Use this procedure to upgrade tax registration types for customers and legal ent
 11. When you have finished, click **Set to ready for upgrade** to close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

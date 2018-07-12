@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy forecast model transactions
 TOCTitle: Copy forecast model transactions
 ms:assetid: 12256b40-c7b8-4b48-af4d-643452688151
@@ -11,6 +11,8 @@ f1_keywords:
 - forecast
 - forecast model
 - forecast transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy forecast model transactions 
@@ -41,5 +43,5 @@ You can create a forecast model by copying an existing forecast. In doing so, yo
 [Create forecast models for project budgets](create-forecast-models-for-project-budgets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

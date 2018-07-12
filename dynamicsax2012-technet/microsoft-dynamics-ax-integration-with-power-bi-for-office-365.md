@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Dynamics AX integration with Power BI for Office 365
 TOCTitle: Microsoft Dynamics AX integration with Power BI for Office 365
 ms:assetid: c1efcf85-e9a3-4d2d-8d24-9709e58b3fc7
@@ -177,5 +177,5 @@ The following diagram shows how you can use the features of Power BI for Office 
       - To display a report in the Power BI app, see the “View your own reports in the Powe BI app” section of [Power BI Windows Store app help](http://office.microsoft.com/en-ca/office365-sharepoint-online-enterprise-help/power-bi-windows-store-app-help-ha104010871.aspx?ctt=5%26origin=ha104095851).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

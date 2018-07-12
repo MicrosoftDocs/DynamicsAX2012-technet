@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chief financial officer security role (CompanyChiefFinancialOfficer)
 TOCTitle: Chief financial officer security role (CompanyChiefFinancialOfficer)
 ms:assetid: 909f3d1e-ec39-4787-a8d8-00d2a10f1092
@@ -480,5 +480,5 @@ By default, this security role is assigned the following privileges in Microsoft
 By default, no privileges are directly assigned to this security role in Microsoft Dynamics AX 2012 R2.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

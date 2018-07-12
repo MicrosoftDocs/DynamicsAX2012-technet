@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring required Accounts receivable information (Public sector)
 TOCTitle: Configuring required Accounts receivable information (Public sector)
 ms:assetid: 13541904-ec20-4757-8cbb-81543d484263
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - public sector
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Configuring required Accounts receivable information (Public sector) 
@@ -24,5 +26,5 @@ The topics in this section explain how to configure Accounts receivable informat
 [Examples: Posting definitions (Public sector)](examples-posting-definitions-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

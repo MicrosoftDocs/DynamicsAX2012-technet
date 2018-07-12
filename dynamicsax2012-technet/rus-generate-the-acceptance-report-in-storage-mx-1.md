@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate the Acceptance report in storage (MX-1)
 TOCTitle: (RUS) Generate the Acceptance report in storage (MX-1)
 ms:assetid: ed72a9bc-d15e-4a89-aea1-f88d1b79b79c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856186(v=AX.60)
 ms:contentKeyID: 50407025
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate the Acceptance report in storage (MX-1) 
@@ -46,5 +48,5 @@ Use the **Vendor invoice** form to generate the **Acceptance report in storage (
 [(RUS) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj733265\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Filter a list page
 TOCTitle: Filter a list page
 ms:assetid: 0f53a58a-1b25-4f18-a7e2-ed47699f5700
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230916(v=AX.60)
 ms:contentKeyID: 36687337
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Filter a list page 
@@ -76,5 +78,5 @@ You can apply filters to multiple columns in the grid to display a subset of the
 [Use a list page](use-a-list-page.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

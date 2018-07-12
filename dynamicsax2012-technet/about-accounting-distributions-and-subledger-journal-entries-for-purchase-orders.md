@@ -1,4 +1,4 @@
-﻿---
+---
 title: About accounting distributions and subledger journal entries for purchase orders
 TOCTitle: About accounting distributions and subledger journal entries for purchase orders
 ms:assetid: 2d8ed8c6-78e9-46a3-9054-0798e30709b8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208518(v=AX.60)
 ms:contentKeyID: 36056262
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About accounting distributions and subledger journal entries for purchase orders 
@@ -241,5 +243,5 @@ Subledger journals are available on a purchase order only if encumbrances are en
 If the subledger journal entry is incorrect when you preview it before you confirm the purchase order, you cannot modify the subledger journal entry. Instead, you must modify the posting definition that is used by the purchase order. The ledger account from the accounting distribution is used in the posting definition, together with the amount and whether the amount is a debit or a credit. The posting definition compares that ledger account to the account in the **Match account number** field in the **Posting definitions** form. If the amounts match, the ledger accounts to create the subledger journal entry will be displayed in the **Generated entries** field group. If there is no match, the amount on the distribution is not encumbered.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

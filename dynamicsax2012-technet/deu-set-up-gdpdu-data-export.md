@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DEU) Set up GDPdU data export
 TOCTitle: (DEU) Set up GDPdU data export
 ms:assetid: 8e40fa72-5700-45cb-9ee1-f49dc07795d7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa616006(v=AX.60)
 ms:contentKeyID: 36058513
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Germany
 ---
 
 # (DEU) Set up GDPdU data export 
@@ -82,5 +84,5 @@ Use the **Data export definition groups** form to create definition groups for t
 [(DEU) Data export relations (form)](https://technet.microsoft.com/en-us/library/aa620743\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

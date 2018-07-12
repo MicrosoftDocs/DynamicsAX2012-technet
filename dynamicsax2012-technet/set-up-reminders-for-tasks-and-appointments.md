@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up reminders for tasks and appointments
 TOCTitle: Set up reminders for tasks and appointments
 ms:assetid: 89d5ed1c-42e5-4d12-b5bc-a0d5e967f822
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498235(v=AX.60)
 ms:contentKeyID: 37820241
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up reminders for tasks and appointments 
@@ -24,5 +26,5 @@ When you create an activity task or appointment in Microsoft Dynamics AX, you ca
 4.  If you are creating a new activity, enter the remaining information for the activity.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

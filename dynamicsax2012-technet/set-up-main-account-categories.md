@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up main account categories
 TOCTitle: Set up main account categories
 ms:assetid: cbcc15d1-bf00-4322-b94c-85abef2ae4c9
@@ -10,6 +10,8 @@ f1_keywords:
 - main accounts
 - account categories
 - main account categories
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up main account categories 
@@ -44,5 +46,5 @@ Main account categories are used for key performance indicators (KPIs) and calcu
 [Link main accounts (form)](https://technet.microsoft.com/en-us/library/hh209475\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up an electronic payment process for a complex file structure
 TOCTitle: (BRA) Set up an electronic payment process for a complex file structure
 ms:assetid: 19e803b1-7f74-4c42-8df8-268fb8ec7b87
@@ -11,6 +11,8 @@ f1_keywords:
 - Set up payment types
 - Set up payment ways
 - Set up segments
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up an electronic payment process for a complex file structure 
@@ -69,5 +71,5 @@ Use this procedure to create segments that a bank uses to generate the electroni
 [(BRA) Set up an electronic payment](bra-set-up-an-electronic-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

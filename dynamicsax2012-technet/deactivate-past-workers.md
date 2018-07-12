@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deactivate past workers
 TOCTitle: Deactivate past workers
 ms:assetid: 2c16432e-5688-49a6-9d26-3bdc825475d1
@@ -16,6 +16,8 @@ f1_keywords:
 - workers
 - Classes.JmgDeactivatePastWorkers
 - MsDynAx060.Forms.JmgDeactivatePastWorkers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Deactivate past workers 
@@ -40,5 +42,5 @@ To deactivate a worker, follow these steps:
 3.  Click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

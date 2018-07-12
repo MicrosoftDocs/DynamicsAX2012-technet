@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create and post shipment orders for transactions
 TOCTitle: (IND) Create and post shipment orders for transactions
 ms:assetid: 02900c5f-b2a0-4cf8-84df-51009dc71adf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664436(v=AX.60)
 ms:contentKeyID: 49385524
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create and post shipment orders for transactions 
@@ -156,5 +158,5 @@ Use the following procedures to create and post a stock transfer order.
 [(IND) Receive (modified form)](https://technet.microsoft.com/en-us/library/jj664949\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

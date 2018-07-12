@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post free text invoices as credit corrections
 TOCTitle: (RUS) Post free text invoices as credit corrections
 ms:assetid: 00827eed-188a-4543-b3bc-42ed5ad5f9e4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682108(v=AX.60)
 ms:contentKeyID: 49655690
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post free text invoices as credit corrections 
@@ -46,5 +48,5 @@ You can create and post free text invoices as credit corrections for return item
 [(RUS) Post vendor invoices as credit corrections](rus-post-vendor-invoices-as-credit-corrections.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Generate and print an excise invoice for goods
 TOCTitle: (IND) Generate and print an excise invoice for goods
 ms:assetid: aeb44b01-e5ca-4f1f-ac75-72e8cbef4133
@@ -15,6 +15,8 @@ f1_keywords:
 - Forms.TaxReportingCode_IN
 - print an excise invoice
 - generate an excise invoice
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Generate and print an excise invoice for goods 
@@ -179,5 +181,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

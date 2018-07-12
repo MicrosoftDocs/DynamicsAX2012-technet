@@ -1,4 +1,4 @@
-﻿---
+---
 title: View your work items (Enterprise Portal)
 TOCTitle: View your work items
 ms:assetid: 3d728788-4db5-4873-b4de-f8905e986ae2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271506(v=AX.60)
 ms:contentKeyID: 36384138
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View your work items (Enterprise Portal) 
@@ -34,5 +36,5 @@ The work items assigned to you may require that you:
 [Make a decision (Enterprise Portal)](make-a-decision-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

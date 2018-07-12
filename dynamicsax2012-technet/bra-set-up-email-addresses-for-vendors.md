@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up email addresses for vendors
 TOCTitle: (BRA) Set up email addresses for vendors
 ms:assetid: 6347f4ce-7fca-49b3-ad54-a06cf0b7963d
@@ -11,6 +11,8 @@ f1_keywords:
 - BRA
 - Brazil
 - email addresses
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up email addresses for vendors 
@@ -51,5 +53,5 @@ Before you set up an email address for a vendor, you must select the **Contact i
 [Edit contact information (form)](https://technet.microsoft.com/en-us/library/hh370700\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

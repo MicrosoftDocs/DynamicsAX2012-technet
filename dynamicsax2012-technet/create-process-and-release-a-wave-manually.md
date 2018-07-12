@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create, process, and release a wave manually
 TOCTitle: Create, process, and release a wave manually
 ms:assetid: 78826625-73dd-4ca9-b93d-b9924fecea43
@@ -13,6 +13,8 @@ f1_keywords:
 - MsDynAx060.Forms.InventLocation
 - MsDynAx060.Forms.WHSWaveTableCreateNew
 - MsDynAx060.Forms.WHSWaveTemplateTable
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create, process, and release a wave manually 
@@ -211,5 +213,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

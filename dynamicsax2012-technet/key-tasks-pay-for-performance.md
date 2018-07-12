@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Pay for performance'
 TOCTitle: 'Key tasks: Pay for performance'
 ms:assetid: d81f848d-a147-4e55-a498-07679c2dbebf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781103(v=AX.60)
 ms:contentKeyID: 43894520
 ms.date: 09/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Pay for performance 
@@ -134,5 +136,5 @@ Back to top
 [Key tasks: Compensation plans](key-tasks-compensation-plans.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

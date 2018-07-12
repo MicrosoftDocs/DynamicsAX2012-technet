@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register postdated checks for vendors
 TOCTitle: Register postdated checks for vendors
 ms:assetid: 90865a76-6546-4c7b-8b31-3f9935beb89b
@@ -11,6 +11,8 @@ f1_keywords:
 - vendors
 - postdated checks
 - postdated check
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register postdated checks for vendors 
@@ -29,5 +31,5 @@ The following topics provide information about registering and maintaining postd
 [Set up and create postdated check installments for a vendor](set-up-and-create-postdated-check-installments-for-a-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

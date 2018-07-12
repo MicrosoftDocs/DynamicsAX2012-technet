@@ -1,4 +1,4 @@
-﻿---
+---
 title: View or edit your customer account information
 TOCTitle: View or edit your customer account information
 ms:assetid: 1954fd7a-e29f-4671-b611-cec0bb200a01
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPCSSAccount
 - EPCSSAccountEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # View or edit your customer account information 
@@ -39,5 +41,5 @@ If you are a registered customer on Enterprise Portal, you can use the **View ac
 [View your return orders](view-your-return-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

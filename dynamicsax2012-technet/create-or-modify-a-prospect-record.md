@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify a prospect record
 TOCTitle: Create or modify a prospect record
 ms:assetid: 06bf8ae3-741b-4e11-b255-903774417f01
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - smmBusRelEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify a prospect record 
@@ -42,5 +44,5 @@ Prospects are the organizations and individuals with whom you will potentially i
 [View prospect records](view-prospect-records.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

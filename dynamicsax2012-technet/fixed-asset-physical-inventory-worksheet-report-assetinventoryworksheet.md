@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed asset physical inventory worksheet report (AssetInventoryWorkSheet)
 TOCTitle: Fixed asset physical inventory worksheet report (AssetInventoryWorkSheet)
 ms:assetid: 8cd62006-3393-44ad-ab41-43d5f84572b1
@@ -126,5 +126,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

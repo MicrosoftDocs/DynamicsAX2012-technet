@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan for data partitioning
 TOCTitle: Plan for data partitioning
 ms:assetid: bc872bc1-1575-4de7-b9f4-49c5296f0298
@@ -100,5 +100,5 @@ System administrators have access to all partitions in the system. If a user req
 [Data partitioning architecture](data-partitioning-architecture.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

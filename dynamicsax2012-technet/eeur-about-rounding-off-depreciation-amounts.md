@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) About rounding off depreciation amounts
 TOCTitle: (EEUR) About rounding off depreciation amounts
 ms:assetid: 5c00947d-c86b-460c-940d-9167f2471342
@@ -10,6 +10,8 @@ f1_keywords:
 - depreciation
 - round off
 - round off depreciation
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) About rounding off depreciation amounts 
@@ -131,5 +133,5 @@ The following table shows rounded up and rounded down depreciation amounts for v
 [(EEUR) Depreciation books setup (modified form)](https://technet.microsoft.com/en-us/library/jj710730\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

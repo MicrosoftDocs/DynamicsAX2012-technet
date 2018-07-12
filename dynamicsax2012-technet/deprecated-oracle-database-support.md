@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Oracle database support'
 TOCTitle: Oracle database support
 ms:assetid: 62952627-c269-400c-8299-53626b4728b8
@@ -64,5 +64,5 @@ Microsoft Dynamics AX 2009 provides support for the Oracle database platform. Mi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

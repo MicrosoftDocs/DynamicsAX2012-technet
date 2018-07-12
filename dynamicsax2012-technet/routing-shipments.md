@@ -1,4 +1,4 @@
-﻿---
+---
 title: Routing shipments
 TOCTitle: Routing shipments
 ms:assetid: d886a61b-ecaa-4e93-bc3c-c44122e52b6d
@@ -14,6 +14,8 @@ f1_keywords:
 - shipment
 - route
 - transporting
+audience: Application User
+ms.search.region: Global
 ---
 
 # Routing shipments 
@@ -42,5 +44,5 @@ The topics in this section provide information about how to route shipments.
 [Update shipments and received items](update-shipments-and-received-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

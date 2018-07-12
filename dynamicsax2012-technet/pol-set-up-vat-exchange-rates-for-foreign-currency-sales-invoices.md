@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up VAT exchange rates for foreign currency sales invoices
 TOCTitle: (POL) Set up VAT exchange rates for foreign currency sales invoices
 ms:assetid: a80c82d9-e2a3-4694-8537-4a7ec8cb699b
@@ -20,6 +20,8 @@ f1_keywords:
 - VAT exchange rate
 - VAT exchange rates
 - MsDynAx060.Forms.ExchangeRateCurrencyPairCalculationRules
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up VAT exchange rates for foreign currency sales invoices 
@@ -70,5 +72,5 @@ You can include additional lines that contain mismatched amounts on the sales VA
 [(POL) Post taxes on a VAT account](pol-post-taxes-on-a-vat-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Handle payment issues
 TOCTitle: Handle payment issues
 ms:assetid: 49610949-1930-4d35-ad0b-b51d56ef10a4
@@ -23,6 +23,8 @@ f1_keywords:
 - out-of-balance payment
 - out of balance payment
 - decline credit card
+audience: Application User
+ms.search.region: Global
 ---
 
 # Handle payment issues 
@@ -183,5 +185,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Credit limits for customers](credit-limits-for-customers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

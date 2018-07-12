@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor internal account statement report (VendAccountStatementInt)
 TOCTitle: Vendor internal account statement report (VendAccountStatementInt)
 ms:assetid: 909ee5c2-5cb0-4fe3-814d-7bb0aba187ba
@@ -156,5 +156,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Internal account statement report (CustAccountStatementInt)](https://technet.microsoft.com/en-us/library/aa550734\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Electronic signature overview
 TOCTitle: Electronic signature overview
 ms:assetid: a25c7619-e8fc-4e23-8aa5-9836f3e55e91
@@ -10,6 +10,8 @@ f1_keywords:
 - digital signature
 - compliance
 - e-signature
+audience: Application User
+ms.search.region: Global
 ---
 
 # Electronic signature overview 
@@ -40,5 +42,5 @@ Electronic signatures in Microsoft Dynamics AX have built-in digital signature f
 Microsoft Dynamics AX records electronic signature information in a log to provide an audit trail.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

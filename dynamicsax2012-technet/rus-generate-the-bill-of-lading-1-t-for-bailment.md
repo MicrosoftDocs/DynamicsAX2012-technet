@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate the Bill of lading (1-T) for bailment
 TOCTitle: (RUS) Generate the Bill of lading (1-T) for bailment
 ms:assetid: ac2e93b4-8a4c-46ea-97df-83917de0e8a2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733269(v=AX.60)
 ms:contentKeyID: 49685236
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate the Bill of lading (1-T) for bailment 
@@ -34,5 +36,5 @@ You can generate the 1-T report when you ship a transfer order for bailment. The
 [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

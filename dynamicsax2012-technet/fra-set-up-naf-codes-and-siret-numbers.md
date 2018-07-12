@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Set up NAF codes and siret numbers
 TOCTitle: (FRA) Set up NAF codes and siret numbers
 ms:assetid: 55e1d802-7493-4024-99a4-33a5549f982a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - France
 - NAF
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Set up NAF codes and siret numbers 
@@ -95,5 +97,5 @@ To perform this task, follow these steps:
 [(FRA) NAF codes and siret numbers](fra-naf-codes-and-siret-numbers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Connect Microsoft Dynamics AX to the new Reporting Services instance
 TOCTitle: Connect Microsoft Dynamics AX to the new Reporting Services instance
 ms:assetid: de984127-106d-4811-80ee-e4a1178f1541
@@ -95,5 +95,5 @@ Complete the following procedure to connect an instance of Microsoft Dynamics AX
 9.  Click **Validate settings** to verify that the information that you entered in this form is correct, and to verify that the report folder or document library has been created.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

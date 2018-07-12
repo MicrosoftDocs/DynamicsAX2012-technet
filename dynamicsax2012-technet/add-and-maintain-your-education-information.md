@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain your education information
 TOCTitle: Add and maintain your education information
 ms:assetid: de59d23f-1506-441e-81ed-20922ab12981
@@ -10,6 +10,8 @@ f1_keywords:
 - HcmEPPersonEducationCreate
 - HcmEPPersonEducationEdit
 - HcmEPPersonEducationInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain your education information 
@@ -108,5 +110,5 @@ Use the **New education** page to create a new education record.
 16. Click **Save and close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

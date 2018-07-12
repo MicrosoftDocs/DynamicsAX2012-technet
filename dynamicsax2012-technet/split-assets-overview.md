@@ -1,4 +1,4 @@
-﻿---
+---
 title: Split assets overview
 TOCTitle: Split assets overview
 ms:assetid: cff5aa7e-5111-4153-8da3-8afd3e50fe5f
@@ -13,6 +13,8 @@ f1_keywords:
 - assets split
 - fixed assets split
 - fixed asset split
+audience: Application User
+ms.search.region: Global
 ---
 
 # Split assets overview 
@@ -57,5 +59,5 @@ The following table lists the forms that support the Split assets business proce
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

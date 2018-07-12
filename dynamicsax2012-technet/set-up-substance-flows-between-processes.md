@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up substance flows between processes
 TOCTitle: Set up substance flows between processes
 ms:assetid: 37ca8d37-6aec-4582-bdef-666beea6762c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242204(v=AX.60)
 ms:contentKeyID: 36056611
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up substance flows between processes 
@@ -46,5 +48,5 @@ You can set up a substance flow between a source process and a destination proce
 [Set up environmental processes](set-up-environmental-processes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

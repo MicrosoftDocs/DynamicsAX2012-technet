@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up subcodes for info codes (Retail essentials)
 TOCTitle: Set up subcodes for info codes (Retail essentials)
 ms:assetid: 87c57731-9467-4746-9e1e-b3502f17512c
@@ -60,5 +60,5 @@ To set up subcodes for info codes, follow these steps:
 [Set up info codes (Retail essentials)](set-up-info-codes-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

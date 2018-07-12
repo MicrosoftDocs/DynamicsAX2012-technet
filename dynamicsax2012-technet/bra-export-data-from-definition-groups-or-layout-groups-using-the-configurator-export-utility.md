@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Export data from definition groups or layout groups using the Configurator export utility
 TOCTitle: (BRA) Export data from definition groups or layout groups using the Configurator export utility
 ms:assetid: 9b117d33-4314-41b6-a005-414265bb7913
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863729(v=AX.60)
 ms:contentKeyID: 50396414
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Export data from definition groups or layout groups using the Configurator export utility 
@@ -44,5 +46,5 @@ Use the **Configurator export utility** form to export data from the tables and 
 [(BRA) Set up the configurator layout group](bra-set-up-the-configurator-layout-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

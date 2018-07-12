@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Approve a journal
 TOCTitle: (CHN) Approve a journal
 ms:assetid: e90752bf-f0d0-4073-aa04-8e199b9fac5e
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - CN - 00002
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Approve a journal 
@@ -49,5 +51,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

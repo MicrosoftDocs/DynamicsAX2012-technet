@@ -1,4 +1,4 @@
-﻿---
+---
 title: Testing a user dialog box for a product model
 TOCTitle: Testing a user dialog box for a product model
 ms:assetid: e18e1fc1-6acc-4f23-91d5-d451f192ef44
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551347(v=AX.60)
 ms:contentKeyID: 36059709
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Testing a user dialog box for a product model 
@@ -28,5 +30,5 @@ Until nodes are added to the modeling tree, the product model cannot be used to 
 To test the **Product Builder configuration** form, click **Functions** \> **Test model** in the **Product model details** form, or click **Test model** in the **Product model** form. In both cases, the user dialog box for the product model will be displayed.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

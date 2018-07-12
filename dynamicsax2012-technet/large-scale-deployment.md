@@ -1,4 +1,4 @@
-﻿---
+---
 title: Large-scale deployment
 TOCTitle: Large-scale deployment
 ms:assetid: 745d6a4c-a973-4da5-a35f-571890d11336
@@ -83,5 +83,5 @@ The database and platform layer contains the following servers:
 [Small-scale deployment](small-scale-deployment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

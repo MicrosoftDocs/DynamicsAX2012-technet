@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up retail products
 TOCTitle: About setting up retail products
 ms:assetid: 997d514e-c9a7-4eb0-b522-bca615eb6965
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597185(v=AX.60)
 ms:contentKeyID: 39519250
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up retail products 
@@ -28,5 +30,5 @@ To set up the products that you sell by using retail channels, complete the foll
 4.  Add products to assortments. An assortment represents a collection of products that you offer in your retail channels. You can define one or more assortments, and each product can be assigned to one or more assortments. To assign products to retail channels, you assign the assortments to those retail channels. When you create an assortment, you can add products that have not yet been released to a legal entity. However, you must release the products to a legal entity before those products can be made available to the retail channels. For more information about how to set up an assortment, see [Set up an assortment](set-up-an-assortment.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

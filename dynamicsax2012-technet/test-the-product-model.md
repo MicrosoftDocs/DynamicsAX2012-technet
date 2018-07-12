@@ -1,4 +1,4 @@
-﻿---
+---
 title: Test the product model
 TOCTitle: Test the product model
 ms:assetid: ebea7c4b-7cf8-4daa-9519-51a758e94dd0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551514(v=AX.60)
 ms:contentKeyID: 36059890
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Test the product model 
@@ -46,5 +48,5 @@ When the modeling tree is completed and the product model contains all the featu
 4.  Verify that the bills of materials (BOMs) and routes that are created by the product model are correct and contain all required information.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

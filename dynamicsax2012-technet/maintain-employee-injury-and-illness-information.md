@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain employee injury and illness information
 TOCTitle: Maintain employee injury and illness information
 ms:assetid: c439a39e-f97d-42b0-9e9e-19a88ed27a21
@@ -13,6 +13,8 @@ f1_keywords:
 - ill
 - illness
 - injury
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain employee injury and illness information 
@@ -105,5 +107,5 @@ Your company can use the information about worker injuries and illnesses to deve
 [Set up injury and illness information](set-up-injury-and-illness-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Adjust transactions in projects
 TOCTitle: Adjust transactions in projects
 ms:assetid: c2add340-71ba-45d0-a7af-ffe34ad6c173
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - adjust transactions
 - transaction adjustments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Adjust transactions in projects 
@@ -31,5 +33,5 @@ The following topics provide information about adjusting transactions.
 [Configure the adjustment trace display](configure-the-adjustment-trace-display.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Default offset accounts for vendor invoice journals
 TOCTitle: Default offset accounts for vendor invoice journals
 ms:assetid: ca0941c2-b422-4cb4-b38d-252f11823adc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn454568(v=AX.60)
 ms:contentKeyID: 57085673
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Default offset accounts for vendor invoice journals 
@@ -109,5 +111,5 @@ Use the following table to help you decide where to assign default accounts and 
 [Vendor invoice pool excluding posting details (form)](https://technet.microsoft.com/en-us/library/bb314782\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

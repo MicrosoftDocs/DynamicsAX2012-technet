@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for incomes and expenses that do not influence the tax base
 TOCTitle: (RUS) Set up a register for incomes and expenses that do not influence the tax base
 ms:assetid: e4108a63-d764-4d0d-8323-ad028ee239fc
@@ -11,6 +11,8 @@ f1_keywords:
 - incomes and expenses
 - influence tax base
 - tax base
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for incomes and expenses that do not influence the tax base 
@@ -71,5 +73,5 @@ The **Incomes and expenses that do not influence the tax base** register contain
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

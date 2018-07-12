@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a project contract to invoice for milestones
 TOCTitle: Create a project contract to invoice for milestones
 ms:assetid: 7b8b3f7e-b779-4c5b-a709-c08c3d099102
@@ -14,6 +14,8 @@ f1_keywords:
 - milestone billing
 - prepayment journal
 - project milestone
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a project contract to invoice for milestones 
@@ -131,5 +133,5 @@ After you have created the contract and the associated project, use this procedu
 [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Creating an Analyze Data Button on a List Page'
 TOCTitle: 'Walkthrough: Creating an Analyze Data Button on a List Page'
 ms:assetid: f5ad431e-69e7-4c04-bd4a-7fef5aa9e09f
@@ -286,5 +286,5 @@ After you create a menu item, you can create a button that points to the menu it
 To view the button, right-click the form name in the AOT, and then click **Open**. The client displays the button in the list page action pane. To test the button action, click the button.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

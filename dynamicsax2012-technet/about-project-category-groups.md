@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project category groups
 TOCTitle: About project category groups
 ms:assetid: 9cc1bf63-a21f-4b81-9567-d740eef32d49
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - category group
 - project category group
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project category groups 
@@ -57,5 +59,5 @@ The benefit of dividing category groups and their corresponding categories into 
 [Category groups (form)](https://technet.microsoft.com/en-us/library/aa558210\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

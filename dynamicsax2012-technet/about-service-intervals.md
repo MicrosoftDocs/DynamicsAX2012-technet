@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service intervals
 TOCTitle: About service intervals
 ms:assetid: e565dc20-334b-40f2-b0b2-129a6fb6af96
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573169(v=AX.60)
 ms:contentKeyID: 36059790
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service intervals 
@@ -142,5 +144,5 @@ Three service-order lines have been created within the time frame that you speci
 [About automatically creating service orders](about-automatically-creating-service-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

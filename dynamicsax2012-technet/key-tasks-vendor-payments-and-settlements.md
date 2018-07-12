@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Vendor payments and settlements'
 TOCTitle: 'Key tasks: Vendor payments and settlements'
 ms:assetid: c5d99b1a-bb20-416a-8ea1-4b7b7d4bc8e3
@@ -19,6 +19,8 @@ f1_keywords:
 - vendor payments
 - vendor payment
 - paying
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Vendor payments and settlements 
@@ -151,5 +153,5 @@ Back to top
 [Settle transactions with payments](settle-transactions-with-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

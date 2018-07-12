@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use price simulations
 TOCTitle: Use price simulations
 ms:assetid: 143a2561-e91f-48f8-b3e5-3b61c75471b1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496607(v=AX.60)
 ms:contentKeyID: 36056053
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Use price simulations 
@@ -80,5 +82,5 @@ Use the following procedures to work with price simulations.
 [Price simulation](price-simulation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up graphic parameters
 TOCTitle: Set up graphic parameters
 ms:assetid: abba4893-a446-4cb1-a7ca-e3f21066ddc1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498552(v=AX.60)
 ms:contentKeyID: 36058914
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up graphic parameters 
@@ -56,5 +58,5 @@ Click **Product information management** \> **Common** \> **Product builder** \>
 11. In the **Value** field, specify the variable value that will be used to generate the file name
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

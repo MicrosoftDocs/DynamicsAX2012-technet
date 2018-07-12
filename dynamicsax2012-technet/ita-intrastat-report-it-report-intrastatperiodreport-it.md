@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Intrastat report IT report (IntrastatPeriodReport_IT)
 TOCTitle: (ITA) Intrastat report IT report (IntrastatPeriodReport_IT)
 ms:assetid: 449a2aa8-5138-4113-83fb-c68bf3d9aa30
@@ -137,5 +137,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

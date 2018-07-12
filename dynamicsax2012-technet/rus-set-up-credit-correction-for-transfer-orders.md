@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up credit correction for transfer orders
 TOCTitle: (RUS) Set up credit correction for transfer orders
 ms:assetid: 780c6785-8eb2-4160-aa1d-4c86aa4134ab
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - storno
 - transfer order
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up credit correction for transfer orders 
@@ -39,5 +41,5 @@ You can use the **Inventory and warehouse management parameters** form to activa
 [(RUS) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj733409\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

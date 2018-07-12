@@ -1,4 +1,4 @@
-﻿---
+---
 title: About partial vendor payments
 TOCTitle: About partial vendor payments
 ms:assetid: 8e28b76c-050f-457d-9058-36bbaf72dccb
@@ -20,6 +20,8 @@ f1_keywords:
 - overpayments
 - underpayment
 - underpayments
+audience: Application User
+ms.search.region: Global
 ---
 
 # About partial vendor payments 
@@ -90,5 +92,5 @@ For example, an invoice is posted for 1,000.00. If you make a payment of 990.00,
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

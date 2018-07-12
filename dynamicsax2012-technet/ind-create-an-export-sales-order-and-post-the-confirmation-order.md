@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create an export sales order and post the confirmation order
 TOCTitle: (IND) Create an export sales order and post the confirmation order
 ms:assetid: 55f3b2c8-c233-4612-a8d9-9704f9f6c058
@@ -12,6 +12,8 @@ f1_keywords:
 - India
 - confirmation order
 - export sales order
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create an export sales order and post the confirmation order 
@@ -78,5 +80,5 @@ Before you can apply for an Advance Authorization (AA) tax incentive, create and
 [(IND) Create EXIM authorization schemes for confirmed sales orders](ind-create-exim-authorization-schemes-for-confirmed-sales-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

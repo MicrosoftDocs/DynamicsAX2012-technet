@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Import a customer payment in a telebank format
 TOCTitle: (EST) Import a customer payment in a telebank format
 ms:assetid: bfbf4bf5-8873-4e97-a2ff-ee47cef44fc6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ713648(v=AX.60)
 ms:contentKeyID: 49643142
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Import a customer payment in a telebank format 
@@ -38,5 +40,5 @@ For more information, see [(EST) Set up the import of telebank payments from cus
 9.  Click **OK** to process the import.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

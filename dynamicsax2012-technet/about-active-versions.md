@@ -1,4 +1,4 @@
-﻿---
+---
 title: About active versions
 TOCTitle: About active versions
 ms:assetid: a75211a3-2726-434a-b951-5880d2fb7c61
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550304(v=AX.60)
 ms:contentKeyID: 36058876
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About active versions 
@@ -144,5 +146,5 @@ The following tables contain information about item FLL-2500, which is a lamp. A
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

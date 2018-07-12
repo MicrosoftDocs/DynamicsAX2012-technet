@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Modify Commerce Services settings
 TOCTitle: (USA) Modify Commerce Services settings
 ms:assetid: 08f3de81-ca83-437a-9d76-9013edc74a1d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242120(v=AX.60)
 ms:contentKeyID: 36055978
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Modify Commerce Services settings 
@@ -92,5 +94,5 @@ You can also specify or change settings in Commerce Services for Microsoft Dynam
 [(USA) Setting up and maintaining Commerce Services for Microsoft Dynamics ERP](usa-setting-up-and-maintaining-commerce-services-for-microsoft-dynamics-erp.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

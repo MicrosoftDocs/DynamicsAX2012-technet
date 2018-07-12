@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure project budget overrun settings
 TOCTitle: Configure project budget overrun settings
 ms:assetid: 11137a2f-8a8a-4cf9-a9be-26f783bb4808
@@ -19,6 +19,8 @@ f1_keywords:
 - project budget settings
 - project overrun
 - project budget overrun settings
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure project budget overrun settings 
@@ -103,5 +105,5 @@ If you define overrun options for specific user groups or projects in the **Proj
 [Project budget settings for user groups (form)](https://technet.microsoft.com/en-us/library/hh242598\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

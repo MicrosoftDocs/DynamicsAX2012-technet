@@ -1,4 +1,4 @@
-﻿---
+---
 title: " worker"
 TOCTitle: " worker"
 ms:assetid: DynamicsAXGlossary.1368032
@@ -27,5 +27,5 @@ A person who assumes the role of an employee or a contractor and is paid in exch
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

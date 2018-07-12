@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot common AOS problems
 TOCTitle: Troubleshoot common AOS problems
 ms:assetid: bb10d97d-e8b9-48bc-8a5c-963d87da5556
@@ -76,5 +76,5 @@ This is a known limitation of Microsoft Dynamics AX. If the primary database goe
 [Allow debugging](allow-debugging.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

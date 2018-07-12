@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up general ledger parameters for the duty drawback (DBK) incentive scheme
 TOCTitle: (IND) Set up general ledger parameters for the duty drawback (DBK) incentive scheme
 ms:assetid: 8ed1c678-3a6a-4446-b8c4-9d9b01b54a9e
@@ -13,6 +13,8 @@ f1_keywords:
 - india
 - incentive scheme
 - DBK incentive scheme
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up general ledger parameters for the duty drawback (DBK) incentive scheme 
@@ -59,5 +61,5 @@ Use the **General ledger parameters** form to activate the Export-Import (EXIM) 
 [(IND) Incentive scheme parameters (form)](https://technet.microsoft.com/en-us/library/jj677946\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

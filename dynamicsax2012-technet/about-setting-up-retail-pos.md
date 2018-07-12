@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up Retail POS
 TOCTitle: About setting up Retail POS
 ms:assetid: e0e916cf-6a57-4dee-aa84-fd8a502b1167
@@ -11,6 +11,8 @@ f1_keywords:
 - POS
 - point of sale
 - point-of-sale
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up Retail POS 
@@ -91,5 +93,5 @@ The following tasks are also related to register setup:
   - Set up Retail POS permissions and operations – Retail POS permissions and operations define the tasks that cashiers can perform at the register. For more information about how to set up Retail POS permissions and operations, see [Set up permissions and operations](set-up-permissions-and-operations.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

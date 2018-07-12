@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Create an invoice for the sale of a fixed asset
 TOCTitle: (EST) Create an invoice for the sale of a fixed asset
 ms:assetid: 8916fdaf-2083-4f0e-bf69-6210e5e2bd02
@@ -12,6 +12,8 @@ f1_keywords:
 - fixed asset invoice
 - sale of fixed asset
 - sell a fixed asset
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Create an invoice for the sale of a fixed asset 
@@ -48,5 +50,5 @@ You can record the sale of fixed assets by using the **Free text invoice** form.
 [(EST) Create and post a credit note to reverse a free text invoice](est-create-and-post-a-credit-note-to-reverse-a-free-text-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

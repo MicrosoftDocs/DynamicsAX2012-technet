@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Production control features"
 TOCTitle: Production control features
 ms:assetid: 91bc99f6-4530-4fa1-8617-96e767ad0e1d
@@ -375,5 +375,5 @@ We have changed and added functionality in the [Production control](production-c
 [Working with Process manufacturing production and logistics](working-with-process-manufacturing-production-and-logistics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

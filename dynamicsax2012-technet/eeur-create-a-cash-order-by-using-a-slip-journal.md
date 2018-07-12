@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Create a cash order by using a slip journal
 TOCTitle: (EEUR) Create a cash order by using a slip journal
 ms:assetid: 39bbd418-fbb5-4526-93ca-92cc900e6f0d
@@ -11,6 +11,8 @@ f1_keywords:
 - create slip journal
 - slip journal
 - voucher slip journal
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Create a cash order by using a slip journal 
@@ -43,5 +45,5 @@ Use a slip journal to create a cash order and register incoming and outgoing cas
 11. Click **OK** to print the cash report.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

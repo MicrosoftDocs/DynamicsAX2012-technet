@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Project management site
 TOCTitle: Using the Project management site
 ms:assetid: ec67213f-5057-4235-9c3c-bbd4b2b40fc8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Project
 - default_project
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using the Project management site 
@@ -25,5 +27,5 @@ This section contains the following topics:
 [Viewing project information](viewing-project-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

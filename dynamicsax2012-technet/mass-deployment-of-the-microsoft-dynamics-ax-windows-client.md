@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mass deployment of the Microsoft Dynamics AX Windows client
 TOCTitle: Mass deployment
 ms:assetid: 6fda1199-2236-4952-9f19-88ff3fdcc92a
@@ -28,5 +28,5 @@ The following topics are included in this section:
 [Plan system topology](plan-system-topology.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

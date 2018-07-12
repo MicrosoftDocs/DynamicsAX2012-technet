@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install developer tools
 TOCTitle: Install developer tools
 ms:assetid: b7b8f212-2d22-4171-b250-c966d733eb2a
@@ -28,5 +28,5 @@ The following topics are included in this section:
 [Troubleshoot installation issues with the developer tools](troubleshoot-installation-issues-with-the-developer-tools.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Lithuania (LTU)"
 TOCTitle: Country-specific features for Lithuania
 ms:assetid: 717321bd-40f5-4702-b99c-4ebb516f1154
@@ -61,5 +61,5 @@ For more information about specific features for Lithuania, see [TechNet Library
 The procedure for submitting Intrastat returns in Lithuania has changed due to adoption of euro currency. The invoice value and statistical value in the Intrastat declarations and modified declarations, submitted by VAT payers for the reference period since the adoption of euros (January 1, 2015) in the Republic of Lithuania must be selected in the Intrastat declarations in euro. The IDAIS system was updated so that euros are accepted on the Intrastat declarations and submitted by VAT payers in the XML files for the format which corresponds to the new instat.xml data structure. The update provides the ability to create Intrastat declarations in new the XML format.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

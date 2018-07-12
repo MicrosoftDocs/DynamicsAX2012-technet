@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Payment proposal from advance sales invoice
 TOCTitle: (CZE) Payment proposal from advance sales invoice
 ms:assetid: 85f80d51-541a-4e56-aa16-530cec9c7fff
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677594(v=AX.60)
 ms:contentKeyID: 49384897
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Payment proposal from advance sales invoice 
@@ -40,5 +42,5 @@ You can generate payment journal lines automatically based on an advance invoice
 [(CZE) Create a customer advance invoice](cze-create-a-customer-advance-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

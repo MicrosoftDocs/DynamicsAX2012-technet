@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mapping the LedgerTrans table to General Journal Tables (White paper)
 TOCTitle: Mapping the LedgerTrans table to General Journal Tables
 ms:assetid: c5f6fee2-39d3-4366-95d6-3812224428b0
@@ -18,5 +18,5 @@ In Microsoft Dynamics AX 2012, multiple general journal tables have replaced the
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=221037).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

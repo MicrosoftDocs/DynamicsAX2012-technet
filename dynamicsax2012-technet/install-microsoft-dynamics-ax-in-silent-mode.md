@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Microsoft Dynamics AX in silent mode
 TOCTitle: Install Microsoft Dynamics AX in silent mode
 ms:assetid: f47e24e7-a3d8-4af9-b2b4-6eb2ec728a91
@@ -41,5 +41,5 @@ Use the following topics to run Setup in silent mode.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

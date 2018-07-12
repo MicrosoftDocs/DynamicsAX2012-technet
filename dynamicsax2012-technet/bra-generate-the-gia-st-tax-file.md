@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Generate the GIA ST tax file
 TOCTitle: (BRA) Generate the GIA ST tax file
 ms:assetid: a842ff4e-0806-4c22-b3ad-c238b25f9cfc
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - forms.FBBookingPeriodListPage_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Generate the GIA ST tax file 
@@ -44,5 +46,5 @@ To generate text files for GIA ST, follow these steps:
 [(BRA) Set up parameters for GIA ST tax statements](bra-set-up-parameters-for-gia-st-tax-statements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

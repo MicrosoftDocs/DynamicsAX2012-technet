@@ -1,4 +1,4 @@
-﻿---
+---
 title: About production terminology
 TOCTitle: About production terminology
 ms:assetid: aaabc87c-bad3-4b59-bf8d-6f3278af3549
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550330(v=AX.60)
 ms:contentKeyID: 36058902
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About production terminology 
@@ -132,5 +134,5 @@ Work centers are the machine, persons, tools, or vendors used to perform the ope
 If costs are posted during the production cycle, they are posted to WIP accounts in the General ledger. When the production process is completed, the finished goods inventory account is posted with the total cost of the production and the WIP accounts offset. If you are not using WIP, costs are not posted until the production is completed. This also means that the raw materials' quantity-on-hand is not reduced until the production is complete.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

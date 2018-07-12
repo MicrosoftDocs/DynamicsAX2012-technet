@@ -1,4 +1,4 @@
-﻿---
+---
 title: Adjust flex time, unit count, and statistical payroll balances
 TOCTitle: Adjust flex time, unit count, and statistical payroll balances
 ms:assetid: 592d0181-361f-4672-95f8-1e9f0c063033
@@ -14,6 +14,8 @@ f1_keywords:
 - balance
 - adjust
 - correct
+audience: Application User
+ms.search.region: Global
 ---
 
 # Adjust flex time, unit count, and statistical payroll balances 
@@ -168,5 +170,5 @@ You can recalculate statistical payroll balances for a group of workers.
 [Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

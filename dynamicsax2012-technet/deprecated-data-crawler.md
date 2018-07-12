@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Data Crawler'
 TOCTitle: Data Crawler
 ms:assetid: 95505f5b-8b85-4af2-b1c6-607a27f4a9ff
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, the Data Crawler provided data search capabilitie
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

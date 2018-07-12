@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Tax 1099 print options report (Tax1099Report)
 TOCTitle: (USA) Tax 1099 print options report (Tax1099Report)
 ms:assetid: 386de0c0-cf81-456b-b286-ebffbbfafd80
@@ -130,5 +130,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(USA) About year-end 1099 reporting](usa-about-year-end-1099-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Create a customer account with an enterprise number
 TOCTitle: (BEL) Create a customer account with an enterprise number
 ms:assetid: a40bd09e-d781-47ec-8d13-4543f8d7bd3d
@@ -10,6 +10,8 @@ f1_keywords:
 - belgium
 - enterprise number
 - customer account
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Create a customer account with an enterprise number 
@@ -52,5 +54,5 @@ Use this procedure to create a customer account and specify the enterprise numbe
 [Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

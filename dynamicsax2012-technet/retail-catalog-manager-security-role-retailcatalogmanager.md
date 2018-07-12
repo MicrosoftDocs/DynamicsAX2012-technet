@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail catalog manager security role (RetailCatalogManager)
 TOCTitle: Retail catalog manager security role (RetailCatalogManager)
 ms:assetid: ec1f7b1a-9200-4eef-860b-d3936f2ffabb
@@ -148,5 +148,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

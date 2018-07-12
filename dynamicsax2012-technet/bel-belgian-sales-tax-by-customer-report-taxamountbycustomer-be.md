@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Belgian sales tax by customer report (TaxAmountByCustomer_BE)
 TOCTitle: (BEL) Belgian sales tax by customer report (TaxAmountByCustomer_BE)
 ms:assetid: 251ac803-ad91-4210-9ca5-7d922522fbde
@@ -122,5 +122,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

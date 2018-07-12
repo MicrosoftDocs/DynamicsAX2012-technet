@@ -1,4 +1,4 @@
-﻿---
+---
 title: About release sales order picking/release transfer order picking
 TOCTitle: About release sales order picking/release transfer order picking
 ms:assetid: dbf269f8-6acf-4b43-8b28-2fe2f8c4ce26
@@ -11,6 +11,8 @@ f1_keywords:
 - release orders
 - picking orders
 - release for picking
+audience: Application User
+ms.search.region: Global
 ---
 
 # About release sales order picking/release transfer order picking 
@@ -61,5 +63,5 @@ View the ordered item status of the selected line to see the picked, reserved, a
 View the on-hand–item status of the selected line to see the physical, reserved, and available quantity; the nonreserved picking list quantity; and the quantity that is available for activation.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reserve a specific worker for a project
 TOCTitle: Reserve a specific worker for a project
 ms:assetid: 5cf0c51f-50fc-466f-91ba-bf7eb695fcd8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.ProjResourcesListPageBookingDialog
 - MsDynAx060.Forms.ProjResourcesListPageBookingDialog
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reserve a specific worker for a project 
@@ -89,5 +91,5 @@ The method of reserving workers that is described in this topic is an alternativ
 [View booking details (form)](https://technet.microsoft.com/en-us/library/dn532267\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

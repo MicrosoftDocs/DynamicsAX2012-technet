@@ -1,4 +1,4 @@
-﻿---
+---
 title: Convert substance flows
 TOCTitle: Convert substance flows
 ms:assetid: 48164c81-a67c-4c59-bdcc-c55c62de1f82
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433537(v=AX.60)
 ms:contentKeyID: 36941327
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Convert substance flows 
@@ -38,5 +40,5 @@ After you define the settings for tracking transactions that affect the environm
 [Set up substance conversions](set-up-substance-conversions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

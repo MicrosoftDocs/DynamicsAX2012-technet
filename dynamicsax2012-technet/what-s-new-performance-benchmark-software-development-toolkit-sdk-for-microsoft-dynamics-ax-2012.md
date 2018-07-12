@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Performance Benchmark Software Development Toolkit (SDK) for Microsoft Dynamics AX 2012"
 TOCTitle: Performance Benchmark Software Development Toolkit (SDK) for Microsoft Dynamics AX 2012
 ms:assetid: c7cebb63-7af7-40c6-9e08-d795810a63f2
@@ -22,5 +22,5 @@ As of November, 2014, the Benchmark SDK has been moved. It is now available from
 Read the documentation: [Microsoft Dynamics AX 2012 Performance Benchmark SDK whitepaper](http://www.microsoft.com/en-us/download/details.aspx?id=39082)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

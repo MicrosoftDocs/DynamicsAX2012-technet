@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the standard expenses rate for deferred periods register
 TOCTitle: (RUS) Calculate the standard expenses rate for deferred periods register
 ms:assetid: a4d9bb05-b260-452c-b7aa-bd0d08bf0206
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678567(v=AX.60)
 ms:contentKeyID: 49387795
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the standard expenses rate for deferred periods register 
@@ -62,5 +64,5 @@ You must set up the **Standard expenses rate for deferred periods** register in 
 [(RUS) Recalculate registers](rus-recalculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Benefit setup tasks
 TOCTitle: Benefit setup tasks
 ms:assetid: c3c38da5-8889-4271-88c3-ad9acbc1fb7b
@@ -16,6 +16,8 @@ f1_keywords:
 - Forms.PayrollBenefitCalculationRateSetup
 - benefit setup
 - MsDynAx060.Forms.PayrollBenefitCalculationRateSetup
+audience: Application User
+ms.search.region: USA
 ---
 
 # Benefit setup tasks 
@@ -824,5 +826,5 @@ Back to top
 [Garnishment and tax levy setup tasks](garnishment-and-tax-levy-setup-tasks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

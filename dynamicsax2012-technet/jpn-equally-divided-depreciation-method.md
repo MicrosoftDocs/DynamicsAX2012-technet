@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Equally divided depreciation method
 TOCTitle: (JPN) Equally divided depreciation method
 ms:assetid: 9c3d1da8-41b6-4cd2-9bd0-8427b17b9358
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - depreciation method
 - equally divided depreciation method
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Equally divided depreciation method 
@@ -237,5 +239,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [(JPN) Fixed asset depreciation](jpn-fixed-asset-depreciation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

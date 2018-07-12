@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Titre de recette report (Public sector) (CustDirective_PSN)
 TOCTitle: (FRA) Titre de recette report (Public sector) (CustDirective_PSN)
 ms:assetid: 51044183-e425-4510-8516-7cfb4f69fa52
@@ -175,5 +175,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(FRA) Bordereau de titre report (Public sector) (CustRoutingSlipReport\_PSN)](fra-bordereau-de-titre-report-public-sector-custroutingslipreport-psn.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

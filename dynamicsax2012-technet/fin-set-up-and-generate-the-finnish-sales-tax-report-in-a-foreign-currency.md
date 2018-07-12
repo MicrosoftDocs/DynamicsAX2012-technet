@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FIN) Set up and generate the Finnish sales tax report in a foreign currency
 TOCTitle: (FIN) Set up and generate the Finnish sales tax report in a foreign currency
 ms:assetid: ae40ede6-a338-4a72-93ae-3af1360b5436
@@ -20,6 +20,8 @@ f1_keywords:
 - FI - 00012
 - payment reports
 - sales tax payments
+audience: Application User
+ms.search.region: Finland
 ---
 
 # (FIN) Set up and generate the Finnish sales tax report in a foreign currency 
@@ -194,5 +196,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

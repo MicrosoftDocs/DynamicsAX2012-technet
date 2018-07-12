@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up purchase and sales agreement classifications
 TOCTitle: (RUS) Set up purchase and sales agreement classifications
 ms:assetid: 56e5feaf-5a7f-43ee-8540-aa338d3f7c5a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - Set up purchase or sales agreement classifications
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up purchase and sales agreement classifications 
@@ -67,5 +69,5 @@ When you create a new purchase agreement or sales agreement, you must select the
 [(RUS) About Russian purchase and sales agreements](rus-about-russian-purchase-and-sales-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

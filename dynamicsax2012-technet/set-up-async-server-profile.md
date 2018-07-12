@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Async Server profile
 TOCTitle: Set up Async Server profile
 ms:assetid: 00faba1a-26cf-4bb6-b28d-b6361b30aa9b
@@ -26,5 +26,5 @@ Async Client is part of Commerce Data Exchange, the asynchronous system that sha
 5.  In the **Data upload interval in minutes** field, enter the interval at which Async Client creates and uploads data from the channel. Data packages are uploaded to the working folder for Commerce Data Exchange.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

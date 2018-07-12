@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up an affiliation and its discounts
 TOCTitle: Set up an affiliation and its discounts
 ms:assetid: f34e5dfc-eff4-43ef-b262-51d0241cadc0
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailAffiliations
 - Forms.RetailAffiliationPriceGroup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up an affiliation and its discounts 
@@ -59,5 +61,5 @@ To set up price affiliations and their discounts, follow these steps:
 [Setting up prices using price groups](setting-up-prices-using-price-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

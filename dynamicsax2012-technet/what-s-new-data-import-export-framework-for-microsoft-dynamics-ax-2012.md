@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Data Import/Export Framework for Microsoft Dynamics AX 2012"
 TOCTitle: Data Import/Export Framework for Microsoft Dynamics AX 2012
 ms:assetid: 3ebed1f3-2574-4cf7-a0f3-2f44056df723
@@ -108,5 +108,5 @@ This release includes the following features:
   - Support for multiple instances of Microsoft Dynamics AX Application Object Server (AOS).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (LVA) Fixed asset tax report'
 TOCTitle: (LVA) Fixed asset tax report
 ms:assetid: b131e116-3163-4d1d-92c2-169a297e7d4b
@@ -53,5 +53,5 @@ In Microsoft Dynamics AX 2009, you can create a depreciation profile by using th
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

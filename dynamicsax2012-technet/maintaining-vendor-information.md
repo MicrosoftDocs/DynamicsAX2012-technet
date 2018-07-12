@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintaining vendor information
 TOCTitle: Maintaining vendor information
 ms:assetid: d190ded9-cdef-4684-8fea-5785a2e41714
@@ -22,6 +22,8 @@ f1_keywords:
 - matching
 - electronic
 - information
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintaining vendor information 
@@ -58,5 +60,5 @@ The following topics provide information about maintaining vendor information.
 [(ITA) Set up information for Model 770 reporting](ita-set-up-information-for-model-770-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

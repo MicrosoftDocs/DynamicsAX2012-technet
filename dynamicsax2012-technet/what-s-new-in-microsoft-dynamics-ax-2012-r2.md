@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new in Microsoft Dynamics AX 2012 R2
 TOCTitle: What's new in Microsoft Dynamics AX 2012 R2
 ms:assetid: 44593f89-d305-49ad-875a-b1d4e484ad61
@@ -607,5 +607,5 @@ In AX 2012 R2, we added and changed several country/region-specific features.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

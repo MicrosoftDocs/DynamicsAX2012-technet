@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up payments, journals, and deductions for the payroll process
 TOCTitle: (RUS) Set up payments, journals, and deductions for the payroll process
 ms:assetid: 3fd4cc75-bbc8-4a26-83c3-051017598c77
@@ -33,6 +33,8 @@ f1_keywords:
 - MsDynAx060.Forms.RPayPaymentParameters
 - MsDynAx060.Forms.RPayStandardDeductionTable
 - MsDynAx060.Forms.RPayStandardDeductionParameters
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up payments, journals, and deductions for the payroll process 
@@ -311,5 +313,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run report as finished for a batch order
 TOCTitle: Run report as finished for a batch order
 ms:assetid: f3425a99-9517-41c0-85f7-5ce94d0cb0ff
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - report batch order as finished
 - run report as finished for batch order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Run report as finished for a batch order 
@@ -87,5 +89,5 @@ You can post route card and picking list journals when you report batch order pr
 [Batch order (form)](https://technet.microsoft.com/en-us/library/hh352323\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up payment methods for an organization
 TOCTitle: Set up payment methods for an organization
 ms:assetid: 9af04082-4ba5-4bbf-a5fb-940422b7655c
@@ -11,6 +11,8 @@ f1_keywords:
 - method
 - payment
 - methods
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up payment methods for an organization 
@@ -57,5 +59,5 @@ Your business might accept payment in forms other than cash. If you accept payme
 [Set up store payment methods](set-up-store-payment-methods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

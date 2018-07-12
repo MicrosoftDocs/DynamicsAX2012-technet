@@ -1,4 +1,4 @@
-﻿---
+---
 title: Call center
 TOCTitle: Call center
 ms:assetid: afdc4140-57de-405a-b6a9-b062a87ba13f
@@ -120,6 +120,8 @@ f1_keywords:
 - call center channel
 - Call center
 - call center module
+audience: Application User
+ms.search.region: Global
 ---
 
 # Call center 
@@ -314,5 +316,5 @@ The following table lists some of the tasks that can be performed in the **Call 
 [Retail for application users](retail-for-application-users.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

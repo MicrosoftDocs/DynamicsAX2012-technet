@@ -1,4 +1,4 @@
-﻿---
+---
 title: Print inventory transfer report (InventJournalTransTransfer)
 TOCTitle: Print inventory transfer report (InventJournalTransTransfer)
 ms:assetid: 69eac42d-5913-4d47-8f80-f2163f4f3e5e
@@ -149,5 +149,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Journal lines, Inventory transfer (form)](https://technet.microsoft.com/en-us/library/aa587291\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

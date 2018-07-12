@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shop supervisor security role (JmgShopSupervisor)
 TOCTitle: Shop supervisor security role (JmgShopSupervisor)
 ms:assetid: 38193eb8-7f4e-4817-af21-ceda559da4f4
@@ -115,5 +115,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

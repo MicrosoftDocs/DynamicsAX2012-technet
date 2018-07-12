@@ -1,4 +1,4 @@
-﻿---
+---
 title: Apply a journal approval procedure
 TOCTitle: Apply a journal approval procedure
 ms:assetid: 0ed8c6d3-b90a-4e40-a84f-e2b057b6fba7
@@ -11,6 +11,8 @@ f1_keywords:
 - journal approval
 - journal line
 - approval procedure
+audience: Application User
+ms.search.region: Global
 ---
 
 # Apply a journal approval procedure 
@@ -65,5 +67,5 @@ Applying a journal approval procedure involves attaching an approval procedure t
 [Journal names (form)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

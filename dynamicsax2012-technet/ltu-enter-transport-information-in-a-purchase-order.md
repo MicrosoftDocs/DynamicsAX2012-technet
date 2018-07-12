@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Enter transport information in a purchase order
 TOCTitle: (LTU) Enter transport information in a purchase order
 ms:assetid: f6baf30a-18bc-4833-ac29-a9d2c1eb84b8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678099(v=AX.60)
 ms:contentKeyID: 49386824
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Enter transport information in a purchase order 
@@ -64,5 +66,5 @@ Using the **Purchase order** form, you can enter transport information to be pri
 15. Click **Close** to post the invoice. The transport details will be printed in the invoice report.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

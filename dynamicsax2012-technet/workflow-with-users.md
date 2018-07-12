@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow with users
 TOCTitle: Workflow with users
 ms:assetid: 1bd40d3a-b077-4654-824b-b692cb6ab135
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751362(v=AX.60)
 ms:contentKeyID: 35132569
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Workflow with users 
@@ -22,5 +24,5 @@ To understand how a document moves through this workflow, assume that Sam has su
 Because the total amount is not more than USD 10,000, Ann does not have to approve the expense report. Therefore, after Sue approves the expense report, the workflow ends.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up number sequences for Human resources
 TOCTitle: Set up number sequences for Human resources
 ms:assetid: 8c083f02-3c79-401f-8835-7f2dab6c0588
@@ -18,6 +18,8 @@ f1_keywords:
 - Course ID numbers
 - Set up sequential numbers in HR
 - Human resources number sequences
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up number sequences for Human resources 
@@ -66,5 +68,5 @@ Some Human resources entities, such as applications, absence registrations, cour
 5.  Repeat this procedure for each legal entity.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

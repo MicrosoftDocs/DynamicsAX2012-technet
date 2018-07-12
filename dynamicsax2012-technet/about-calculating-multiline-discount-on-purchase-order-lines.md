@@ -1,4 +1,4 @@
-﻿---
+---
 title: About calculating multiline discount on purchase order lines
 TOCTitle: About calculating multiline discount on purchase order lines
 ms:assetid: d4f492a5-4bc1-4897-957b-aa27a90190d6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa557714(v=AX.60)
 ms:contentKeyID: 36931882
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About calculating multiline discount on purchase order lines 
@@ -24,5 +26,5 @@ You calculate the multiline discount on purchase order lines by activating the m
 [About synchronization of prices and discounts](about-synchronization-of-prices-and-discounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

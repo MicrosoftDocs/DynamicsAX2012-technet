@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up asset group depreciation book bonus
 TOCTitle: Set up asset group depreciation book bonus
 ms:assetid: 808b9448-ca01-440f-af45-7b41111f8ce0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571547(v=AX.60)
 ms:contentKeyID: 36058345
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up asset group depreciation book bonus 
@@ -32,5 +34,5 @@ Use the **Fixed asset group/depreciation book special depreciation allowance** f
 [Fixed asset group/depreciation book bonus (form)](https://technet.microsoft.com/en-us/library/aa573939\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

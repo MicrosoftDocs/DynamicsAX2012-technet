@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up impairment accounting for fixed assets
 TOCTitle: (JPN) Set up impairment accounting for fixed assets
 ms:assetid: c88ab5ee-6e1e-4813-95d8-812fcc4d444b
@@ -30,6 +30,8 @@ f1_keywords:
 - MsDynAx060.Forms.AssetTable
 - MsDynAx060.Forms.AssetImpairmentIndicator_JP
 - MsDynAx060.Forms.AssetTableListPage
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up impairment accounting for fixed assets 
@@ -203,5 +205,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

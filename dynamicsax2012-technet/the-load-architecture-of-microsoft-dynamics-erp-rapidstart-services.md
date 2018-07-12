@@ -1,4 +1,4 @@
-﻿---
+---
 title: The load architecture of Microsoft Dynamics ERP RapidStart Services
 TOCTitle: The load architecture of Microsoft Dynamics ERP RapidStart Services
 ms:assetid: 81b0ac15-a16f-4a93-aaf3-cd4b5098598c
@@ -98,5 +98,5 @@ Install the Data Import/Export Framework service
 [Load configuration data from RapidStart Services into a Microsoft Dynamics AX 2012 implementation](load-configuration-data-from-rapidstart-services-into-a-microsoft-dynamics-ax-2012-implementation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

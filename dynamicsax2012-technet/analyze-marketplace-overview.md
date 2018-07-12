@@ -1,4 +1,4 @@
-﻿---
+---
 title: Analyze marketplace overview
 TOCTitle: Analyze marketplace overview
 ms:assetid: 2a241d60-1abe-4b7b-9834-fbf1390e7113
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - market
 - marketplace
+audience: Application User
+ms.search.region: Global
 ---
 
 # Analyze marketplace overview 
@@ -89,5 +91,5 @@ The following table lists the forms that support the Analyze marketplace busines
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

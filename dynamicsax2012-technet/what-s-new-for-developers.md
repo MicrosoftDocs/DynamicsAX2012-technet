@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new for developers
 TOCTitle: What's new for developers
 ms:assetid: c70aeb77-8672-4165-94cf-43eec4d07efe
@@ -84,5 +84,5 @@ In Microsoft Dynamics AX 2012, we added and changed several features that affect
 [TechNet Library for System Administrators](http://go.microsoft.com/fwlink/?linkid=214390)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up prerequisites to report quality order results for a potency item
 TOCTitle: Set up prerequisites to report quality order results for a potency item
 ms:assetid: 7b7c956a-9722-433d-b894-da753bd3906e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838739(v=AX.60)
 ms:contentKeyID: 50120622
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up prerequisites to report quality order results for a potency item 
@@ -44,5 +46,5 @@ Use this procedure to set up prerequisites to report quality order results for a
 [(PM) Inventory and warehouse management parameters (form)](https://technet.microsoft.com/en-us/library/hh352320\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

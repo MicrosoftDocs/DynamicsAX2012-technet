@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with formulas
 TOCTitle: Working with formulas
 ms:assetid: ac7f7eee-48d6-434f-83fc-0a7be193ac4c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - formula
 - formulas
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with formulas 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to work with formulas.
 [View results of a formula calculation](view-results-of-a-formula-calculation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

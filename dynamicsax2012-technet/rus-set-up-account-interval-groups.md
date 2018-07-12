@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up account interval groups
 TOCTitle: (RUS) Set up account interval groups
 ms:assetid: b495ed93-29dd-4e93-aadc-d99b333cb1b7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923582(v=AX.60)
 ms:contentKeyID: 52075428
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up account interval groups 
@@ -40,5 +42,5 @@ You can use account interval groups instead of individual accounts in the setup 
 [(RUS) Synchronize the directory of expense and income codes](https://technet.microsoft.com/en-us/library/jj665243\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

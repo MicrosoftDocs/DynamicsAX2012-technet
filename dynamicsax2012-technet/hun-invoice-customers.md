@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Invoice customers
 TOCTitle: (HUN) Invoice customers
 ms:assetid: 59d2a4c6-4a39-4439-84f4-179c1495e6a8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664284(v=AX.60)
 ms:contentKeyID: 49385373
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Invoice customers 
@@ -26,5 +28,5 @@ The following topics provide information about invoicing customers.
 [(HUN) Change the bank account for a sales order](hun-change-the-bank-account-for-a-sales-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

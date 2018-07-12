@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Analytics"
 TOCTitle: Analytics
 ms:assetid: 1b492ede-79e7-442b-a7c6-a4536cca7254
@@ -428,5 +428,5 @@ To add date dimensions to your cubes, follow these steps.
 If you are upgrading from AX 2009 to AX 2012, you must create new cubes to display the information that your old cubes used to display. For more information, see [How to: Upgrade Microsoft Dynamics AX cubes](how-to-upgrade-microsoft-dynamics-ax-cubes.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

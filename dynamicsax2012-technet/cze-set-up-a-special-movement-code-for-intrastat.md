@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Set up a special movement code for Intrastat
 TOCTitle: (CZE) Set up a special movement code for Intrastat
 ms:assetid: 3fc192cd-ce01-4af5-9d32-21a4c855b3e4
@@ -12,6 +12,8 @@ f1_keywords:
 - commodity code
 - shipment
 - special movement
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Set up a special movement code for Intrastat 
@@ -32,5 +34,5 @@ Special movement codes are used to track the movement or shipment of items from 
 [(CZE) Special movement (form)](https://technet.microsoft.com/en-us/library/jj874419\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

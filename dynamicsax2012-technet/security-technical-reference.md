@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security technical reference
 TOCTitle: Security technical reference
 ms:assetid: 16807427-1f83-4a98-90ba-3c87e919bb4c
@@ -26,5 +26,5 @@ This section contains miscellaneous technical information that relates to securi
 [Security role reference](security-role-reference.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

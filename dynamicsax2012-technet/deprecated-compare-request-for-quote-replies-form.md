@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Compare request for quote replies form'
 TOCTitle: Compare request for quote replies form
 ms:assetid: cbf3c7e9-9f60-4531-85d1-66b748d36ecf
@@ -53,5 +53,5 @@ In Microsoft Dynamics AX 2009, the **Compare request for quote replies** form (P
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

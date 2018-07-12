@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (THA) Sales tax payment features'
 TOCTitle: (THA) Sales tax payment features
 ms:assetid: c8db125d-0af0-4f53-9a8a-c52ee5be6e2b
@@ -66,5 +66,5 @@ In Microsoft Dynamics AX 2009, some sales tax payment features are shared by Tha
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

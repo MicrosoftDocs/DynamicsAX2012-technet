@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change the disposition status of an inventory batch
 TOCTitle: Change the disposition status of an inventory batch
 ms:assetid: 95606b16-8c43-4c9c-b9bc-5566c86c0629
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209396(v=AX.60)
 ms:contentKeyID: 36058620
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change the disposition status of an inventory batch 
@@ -34,5 +36,5 @@ If a batch disposition code is set to **Unavailable**, the inventory is blocked 
 [(PM) Batches (form)](https://technet.microsoft.com/en-us/library/hh209252\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Recruiter security role (HcmRecruiter)
 TOCTitle: Recruiter security role (HcmRecruiter)
 ms:assetid: d09d6e24-aad7-4677-b6f0-1a310dd04707
@@ -160,5 +160,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

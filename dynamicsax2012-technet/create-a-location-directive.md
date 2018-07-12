@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a location directive
 TOCTitle: Create a location directive
 ms:assetid: fd0e708b-747e-4944-a5a8-f4174cabad6a
@@ -16,6 +16,8 @@ f1_keywords:
 - inbound transactions
 - location directive
 - outbound transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a location directive 
@@ -360,5 +362,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

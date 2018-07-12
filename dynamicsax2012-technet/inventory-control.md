@@ -1,4 +1,4 @@
-﻿---
+---
 title: Inventory control
 TOCTitle: Inventory control
 ms:assetid: 8a235595-6f34-4690-8abd-83d3a6f82ca6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242859(v=AX.60)
 ms:contentKeyID: 36058463
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Inventory control 
@@ -24,5 +26,5 @@ The topics in this section provide information about Inventory control and Itali
 [Setting up and maintaining inventory close and adjustments](setting-up-and-maintaining-inventory-close-and-adjustments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

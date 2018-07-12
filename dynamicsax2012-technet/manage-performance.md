@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage performance
 TOCTitle: Manage performance
 ms:assetid: ea8cc864-1055-4b4a-96c1-89136a143239
@@ -19,6 +19,8 @@ f1_keywords:
 - discussion
 - skill map
 - skill profile
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage performance 
@@ -37,5 +39,5 @@ Topics in this section provide information about the tools in Human resources th
 [Key tasks: Discussions](key-tasks-discussions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

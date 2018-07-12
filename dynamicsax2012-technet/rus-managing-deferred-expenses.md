@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Managing deferred expenses
 TOCTitle: (RUS) Managing deferred expenses
 ms:assetid: 7cd4d6c8-eb84-4d28-afd3-f262f3d782b6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678394(v=AX.60)
 ms:contentKeyID: 49387624
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Managing deferred expenses 
@@ -42,5 +44,5 @@ The following topics provide information about how to manage deferred expenses.
 [(RUS) Generate a deferrals write-off voucher for all deferrals](rus-generate-a-deferrals-write-off-voucher-for-all-deferrals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

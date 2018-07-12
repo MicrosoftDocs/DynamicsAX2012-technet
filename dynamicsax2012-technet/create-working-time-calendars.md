@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create working time calendars
 TOCTitle: Create working time calendars
 ms:assetid: b11e7433-30a7-407c-84b7-653ff9047368
@@ -16,6 +16,8 @@ f1_keywords:
 - calendars
 - work week
 - working times
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create working time calendars 
@@ -82,5 +84,5 @@ If you must create more than one working time calendar, it is useful to create a
 [Set up properties for operations resources](set-up-properties-for-operations-resources.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

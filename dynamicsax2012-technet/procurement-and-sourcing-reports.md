@@ -1,4 +1,4 @@
-﻿---
+---
 title: Procurement and sourcing reports
 TOCTitle: Procurement and sourcing reports
 ms:assetid: 92d1f6af-67fb-4153-b7af-296b73242939
@@ -72,5 +72,5 @@ The following reports are available in the **Procurement and sourcing** module o
 [(CAN, USA) Open purchase order lines report (VendPurchOpenLines\_NA)](can-usa-open-purchase-order-lines-report-vendpurchopenlines-na.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

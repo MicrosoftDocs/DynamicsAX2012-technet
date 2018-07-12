@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete an attachment
 TOCTitle: Delete an attachment
 ms:assetid: 952e8d6e-e1e2-4aac-870c-997cc2ea5729
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271600(v=AX.60)
 ms:contentKeyID: 36384232
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete an attachment 
@@ -34,5 +36,5 @@ Use the **Attachments** page to delete a document or note that is attached to a 
 [View attachments](view-attachments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

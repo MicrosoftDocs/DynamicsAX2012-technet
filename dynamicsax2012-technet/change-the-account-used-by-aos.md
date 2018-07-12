@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change the account used by AOS
 TOCTitle: Change the account used by AOS
 ms:assetid: 87aaf2fa-1190-4036-9d39-c1252c48da88
@@ -72,5 +72,5 @@ For more information, see the following topics:
 [Troubleshoot services and AIF](troubleshoot-services-and-aif.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

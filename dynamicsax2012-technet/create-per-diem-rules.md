@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create per diem rules
 TOCTitle: Create per diem rules
 ms:assetid: 3a6487ec-28fd-4c64-9195-93a6c583bb42
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231142(v=AX.60)
 ms:contentKeyID: 36811404
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create per diem rules 
@@ -38,5 +40,5 @@ A per diem is an allowance that the organization provides to a worker who is inc
 8.  Close the forms to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

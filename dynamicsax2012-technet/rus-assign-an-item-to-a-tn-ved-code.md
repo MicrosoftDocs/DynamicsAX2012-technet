@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Assign an item to a TN VED code
 TOCTitle: (RUS) Assign an item to a TN VED code
 ms:assetid: 312a2c30-49e3-43c0-8378-8ea4b906eea9
@@ -10,6 +10,8 @@ f1_keywords:
 - item
 - TN VED code
 - TNVED code
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Assign an item to a TN VED code 
@@ -48,5 +50,5 @@ Use the **Item relation with TN VED** form to assign an item to a Commodities Cl
 [(RUS) TN VED codes (form)](https://technet.microsoft.com/en-us/library/jj711428\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

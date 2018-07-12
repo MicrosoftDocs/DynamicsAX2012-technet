@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select target audience
 TOCTitle: Select target audience
 ms:assetid: a608707c-5215-47bc-8abc-85a1a0f860c6
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - target audience
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select target audience 
@@ -22,5 +24,5 @@ The topics in this section provide information about how to select a target audi
 [Create mail merge files](create-mail-merge-files.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

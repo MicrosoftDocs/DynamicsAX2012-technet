@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Configure staff administration information for workers
 TOCTitle: (RUS) Configure staff administration information for workers
 ms:assetid: 57d8f537-6c14-4a65-b737-81f825a1c57f
@@ -37,6 +37,8 @@ f1_keywords:
 - MsDynAx060.Forms.RHRMNationality
 - MsDynAx060.Forms.RHRMPersonnelCategory
 - MsDynAx060.Forms.RHRMTradeCategory
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Configure staff administration information for workers 
@@ -396,5 +398,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

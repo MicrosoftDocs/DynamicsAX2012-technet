@@ -1,4 +1,4 @@
-﻿---
+---
 title: Defining and maintaining procurement categories
 TOCTitle: Defining and maintaining procurement categories
 ms:assetid: 9c9837b7-57d6-4562-80a9-e5a75bed75ce
@@ -14,6 +14,8 @@ f1_keywords:
 - set up procurement categories
 - Procurement categories
 - create procurement categories
+audience: Application User
+ms.search.region: Global
 ---
 
 # Defining and maintaining procurement categories 
@@ -36,5 +38,5 @@ The following topics provide information about creating and maintaining procurem
 [Set up attributes and attribute types](set-up-attributes-and-attribute-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

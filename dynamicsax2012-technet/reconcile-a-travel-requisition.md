@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reconcile a travel requisition
 TOCTitle: Reconcile a travel requisition
 ms:assetid: ed5df89c-b4fb-49cf-ad4d-55f966908671
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299218(v=AX.60)
 ms:contentKeyID: 36384325
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reconcile a travel requisition 
@@ -48,5 +50,5 @@ If you submit a travel requisition for a business expense and the requisition is
 [Add delegates](add-delegates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

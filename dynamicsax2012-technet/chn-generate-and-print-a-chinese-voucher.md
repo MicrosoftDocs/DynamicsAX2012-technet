@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Generate and print a Chinese voucher
 TOCTitle: (CHN) Generate and print a Chinese voucher
 ms:assetid: 1ea04af5-e801-4a92-a56a-6451a2f6fc10
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Chinese
 - batch printing
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Generate and print a Chinese voucher 
@@ -125,5 +127,5 @@ You can configure Microsoft Dynamics AX to automatically batch print Chinese vou
 [(CHN) Print layout (form)](https://technet.microsoft.com/en-us/library/jj664037\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

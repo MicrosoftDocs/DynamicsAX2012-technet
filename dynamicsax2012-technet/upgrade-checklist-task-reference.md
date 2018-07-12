@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upgrade checklist task reference
 TOCTitle: Upgrade checklist task reference
 ms:assetid: 79dc2fcf-70a8-4a81-842a-d825e9c4cc7c
@@ -208,5 +208,5 @@ The task topics, many of which apply to more than one checklist, are arranged in
 [View and fix upgrade readiness issues](view-and-fix-upgrade-readiness-issues.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

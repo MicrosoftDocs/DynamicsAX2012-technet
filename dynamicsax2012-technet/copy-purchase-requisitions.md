@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy purchase requisitions
 TOCTitle: Copy purchase requisitions
 ms:assetid: df7efe77-35b3-454b-a08b-b6731d547b84
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335179(v=AX.60)
 ms:contentKeyID: 36687403
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy purchase requisitions 
@@ -66,5 +68,5 @@ If the requisition purpose is consumption and if you copy lines that reference a
 [Key tasks: Create and submit a purchase requisition](key-tasks-create-and-submit-a-purchase-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

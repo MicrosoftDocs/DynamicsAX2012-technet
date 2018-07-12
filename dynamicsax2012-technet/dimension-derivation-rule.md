@@ -1,4 +1,4 @@
-﻿---
+---
 title: " dimension derivation rule"
 TOCTitle: " dimension derivation rule"
 ms:assetid: DynamicsAXGlossary.1496388
@@ -25,5 +25,5 @@ A rule to determine a ledger dimension for classifying the financial consequence
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

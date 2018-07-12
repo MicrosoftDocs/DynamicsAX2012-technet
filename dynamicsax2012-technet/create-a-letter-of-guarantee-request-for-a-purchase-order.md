@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a letter of guarantee request for a purchase order
 TOCTitle: Create a letter of guarantee request for a purchase order
 ms:assetid: ef3bfdbe-a3a9-472b-90c0-41f5211304d1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Create the letter of guarantee request for a purchase order
 - Letter of guarantee request for purchase order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a letter of guarantee request for a purchase order 
@@ -57,5 +59,5 @@ You can request a letter of guarantee for a vendor using the **Purchase order** 
 [Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

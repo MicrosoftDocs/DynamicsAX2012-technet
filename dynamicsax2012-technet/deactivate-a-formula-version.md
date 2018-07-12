@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deactivate a formula version
 TOCTitle: Deactivate a formula version
 ms:assetid: 020d0dbf-a182-48c8-9e42-a751f9833b6f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352176(v=AX.60)
 ms:contentKeyID: 36687807
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Deactivate a formula version 
@@ -34,5 +36,5 @@ Use this procedure to remove activation status from a formula version.
 [Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

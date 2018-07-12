@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Create and post a free text invoice for a public sector customer
 TOCTitle: (DNK) Create and post a free text invoice for a public sector customer
 ms:assetid: 2f9683a9-0e33-4e1b-b3d1-146a013ddff4
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - free text invoices
 - post free text invoices
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Create and post a free text invoice for a public sector customer 
@@ -57,5 +59,5 @@ When the batch job for electronic sales invoices is processed, invoices for cust
 [(DNK) Set up customer accounts for OIOUBL electronic invoicing](dnk-set-up-customer-accounts-for-oioubl-electronic-invoicing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (AUT) Generate electronic invoices in PEPPOL format
 TOCTitle: (AUT) Generate electronic invoices in PEPPOL format
 ms:assetid: c5ec92b9-056d-4a02-845f-918a2188127a
@@ -18,6 +18,8 @@ f1_keywords:
 - Forms.SalesCopying
 - Forms.ProjInvoiceProposalListPage
 - PEPPOL
+audience: Application User
+ms.search.region: Austria
 ---
 
 # (AUT) Generate electronic invoices in PEPPOL format 
@@ -209,5 +211,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

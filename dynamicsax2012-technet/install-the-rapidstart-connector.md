@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the RapidStart Connector
 TOCTitle: Install the RapidStart Connector
 ms:assetid: 26262a76-5b5c-4308-be11-4dcdc722bebe
@@ -68,5 +68,5 @@ Additional configuration is required after you install the RapidStart Connector.
 For information about how to use RapidStart Services, see [Help for Microsoft Dynamics ERP RapidStart Services users](http://go.microsoft.com/fwlink/?linkid=225970).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

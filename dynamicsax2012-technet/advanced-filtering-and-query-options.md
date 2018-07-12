@@ -1,4 +1,4 @@
-﻿---
+---
 title: Advanced filtering and query options
 TOCTitle: Advanced filtering and query options
 ms:assetid: 1c6113f6-be13-462b-8df3-bef7d1424ae8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569937(v=AX.60)
 ms:contentKeyID: 36676372
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Advanced filtering and query options 
@@ -159,5 +161,5 @@ The following filtering and query options are available when you use embedded fi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

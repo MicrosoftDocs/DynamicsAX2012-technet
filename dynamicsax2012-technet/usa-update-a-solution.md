@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Update a solution
 TOCTitle: (USA) Update a solution
 ms:assetid: 2bef8861-205b-4aea-938d-29835ec9299e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208510(v=AX.60)
 ms:contentKeyID: 36056250
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Update a solution 
@@ -38,5 +40,5 @@ After you make changes to the structure of a solution, you can update the soluti
 [(USA) Synchronize a solution](usa-synchronize-a-solution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

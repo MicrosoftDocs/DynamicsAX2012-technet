@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post an opening balance in an excise register using inventory journal
 TOCTitle: (IND) Post an opening balance in an excise register using inventory journal
 ms:assetid: 959f3508-4bfb-4849-b007-def4ad27ae2f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664703(v=AX.60)
 ms:contentKeyID: 49386033
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post an opening balance in an excise register using inventory journal 
@@ -76,5 +78,5 @@ When the movement journal is posted, the RG23A Part I register is updated with t
 [(IND) Inquiries for RG23D registers](ind-inquiries-for-rg23d-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

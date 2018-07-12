@@ -1,4 +1,4 @@
-﻿---
+---
 title: View vendor invoices
 TOCTitle: View vendor invoices
 ms:assetid: 3bd4a8ff-7938-4962-9508-e9e8138c4887
@@ -10,6 +10,8 @@ f1_keywords:
 - EPVendInvoiceJournalDetail
 - EPVendInvoiceJournalInfo
 - EPVendInvoiceJournalList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View vendor invoices 
@@ -44,5 +46,5 @@ Use the **Vendor invoices** and **View vendor invoice** pages to view informatio
 [Enterprise Portal and Microsoft Excel](enterprise-portal-and-microsoft-excel.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

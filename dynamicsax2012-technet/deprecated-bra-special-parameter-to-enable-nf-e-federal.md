@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) Special parameter to enable NF-e (Federal)'
 TOCTitle: (BRA) Enable NF-e (Federal)
 ms:assetid: d4ae0baf-a82d-442b-9975-a2f16bd89bfc
@@ -54,5 +54,5 @@ For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specifi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

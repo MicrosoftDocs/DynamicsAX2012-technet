@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Set up business rules for fixed asset determination'
 TOCTitle: 'Key tasks: Set up business rules for fixed asset determination'
 ms:assetid: 1851814e-c357-43ad-a8cd-0a548e7d1f18
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208442(v=AX.60)
 ms:contentKeyID: 36056096
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Set up business rules for fixed asset determination 
@@ -202,5 +204,5 @@ Back to top
 [Business rules for fixed asset determination (form)](https://technet.microsoft.com/en-us/library/hh242884\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

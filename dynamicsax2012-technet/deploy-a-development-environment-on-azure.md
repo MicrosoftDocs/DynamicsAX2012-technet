@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy a development environment on Azure
 TOCTitle: Deploy a development environment
 ms:assetid: eaf415d8-f00e-4232-9c98-947964eda19f
@@ -14,5 +14,5 @@ mtps_version: v=AX.60
 This content has been moved [here](https://go.microsoft.com/fwlink/?linkid=858572).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

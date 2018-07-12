@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Set up document dates and VAT transaction dates for VAT reporting
 TOCTitle: (CZE) Set up document dates and VAT transaction dates for VAT reporting
 ms:assetid: 80948634-12ca-4199-b1df-8ad9ac5ee93f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677586(v=AX.60)
 ms:contentKeyID: 49384889
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Set up document dates and VAT transaction dates for VAT reporting 
@@ -30,5 +32,5 @@ For auditing purposes, you must set up the sales date and the document receipt d
 [(CZE) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj677580\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

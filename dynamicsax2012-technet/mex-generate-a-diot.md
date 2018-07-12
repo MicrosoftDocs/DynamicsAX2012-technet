@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Generate a DIOT
 TOCTitle: (MEX) Generate a DIOT
 ms:assetid: d067b7cf-435b-456f-8f34-3a2b18bbbfbf
@@ -11,6 +11,8 @@ f1_keywords:
 - generate
 - DIOT
 - SSRS_Reports.Reports.DIOTDeclaration_MX
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Generate a DIOT 
@@ -53,5 +55,5 @@ Use the **Generate DIOT declaration** form to generate a Declaración Informativ
 [(MEX) Generate the DIOT declaration report (DIOTDeclaration\_MX)](mex-generate-the-diot-declaration-report-diotdeclaration-mx.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

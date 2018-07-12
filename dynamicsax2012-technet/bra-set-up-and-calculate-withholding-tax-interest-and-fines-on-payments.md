@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up and calculate withholding tax, interest, and fines on payments
 TOCTitle: (BRA) Set up and calculate withholding tax, interest, and fines on payments
 ms:assetid: 752fc02b-5dce-443a-85ef-11d476dd3cc9
@@ -11,6 +11,8 @@ f1_keywords:
 - interest
 - delayed payments
 - fines
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up and calculate withholding tax, interest, and fines on payments 
@@ -55,5 +57,5 @@ Perform the following tasks to set up and post withholding tax, interest, and fi
 [(BRA) Setting up standard text in accounting transactions](bra-setting-up-standard-text-in-accounting-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

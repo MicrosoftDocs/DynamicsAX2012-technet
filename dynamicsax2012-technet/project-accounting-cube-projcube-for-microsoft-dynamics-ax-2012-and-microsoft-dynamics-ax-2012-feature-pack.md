@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project accounting cube (ProjCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Project accounting cube (ProjCube)
 ms:assetid: 2fb11049-e523-4b38-862e-29ecb5621867
@@ -2258,5 +2258,5 @@ The Project accounting cube can be accessed by users assigned to the following M
   - Project supervisor
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

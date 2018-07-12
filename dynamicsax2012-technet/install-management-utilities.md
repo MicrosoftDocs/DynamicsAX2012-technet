@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install management utilities
 TOCTitle: Install management utilities
 ms:assetid: 09d85a6e-911b-4067-a512-9176b3aee44d
@@ -60,5 +60,5 @@ Use this procedure to install the Microsoft Dynamics AX management utilities. If
 13. After the installation is complete, click **Finish** to close the wizard.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

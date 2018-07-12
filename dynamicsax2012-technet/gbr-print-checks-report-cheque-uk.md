@@ -1,4 +1,4 @@
-﻿---
+---
 title: (GBR) Print checks report (Cheque_UK)
 TOCTitle: (GBR) Print checks report (Cheque_UK)
 ms:assetid: fe000fb3-f470-4507-b00d-6ad1f7482a8a
@@ -94,5 +94,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

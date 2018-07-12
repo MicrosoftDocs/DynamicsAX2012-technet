@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cascading style sheet (CSS) files for Retail online store
 TOCTitle: Cascading style sheet (CSS) files for Retail online store
 ms:assetid: cc5bdcbe-9cde-40c2-bfe3-1a3cccf73dcd
@@ -126,5 +126,5 @@ The following table lists the cascading style sheets used in the online starter 
 [How to: Create a page layout in SharePoint 2013](http://go.microsoft.com/fwlink/?linkid=301730&clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

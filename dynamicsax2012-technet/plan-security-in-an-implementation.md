@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan security in an implementation
 TOCTitle: Plan security
 ms:assetid: 1ceed25f-cf71-400e-8602-2a6fd8f719b0
@@ -32,5 +32,5 @@ The following topics describe considerations in planning security in Microsoft D
 [Security](security.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

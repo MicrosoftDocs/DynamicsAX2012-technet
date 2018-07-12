@@ -1,4 +1,4 @@
-﻿---
+---
 title: Batch numbers in Warehouse management
 TOCTitle: Batch numbers in Warehouse management
 ms:assetid: 46bc4ac0-084f-4102-bc61-83143172b5ff
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn887221(v=AX.60)
 ms:contentKeyID: 63378890
 ms.date: 11/13/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Batch numbers in Warehouse management 
@@ -147,5 +149,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Set up production processes in a warehouse](set-up-production-processes-in-a-warehouse.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

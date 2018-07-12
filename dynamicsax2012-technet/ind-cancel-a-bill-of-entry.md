@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Cancel a bill of entry
 TOCTitle: (IND) Cancel a bill of entry
 ms:assetid: cd0c6f81-2a6a-4db0-a9f9-5e0a20e364cf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664885(v=AX.60)
 ms:contentKeyID: 49386214
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Cancel a bill of entry 
@@ -30,5 +32,5 @@ You can cancel a bill of entry and an invoice registration if the related purcha
 4.  You can create a new bill of entry for the selected purchase order in the **Bill of entry** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

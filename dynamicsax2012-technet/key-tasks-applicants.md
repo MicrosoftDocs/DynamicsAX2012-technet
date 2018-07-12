@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Applicants'
 TOCTitle: 'Key tasks: Applicants'
 ms:assetid: 9908ac96-9e7c-4e8a-83f5-db76ee498cbf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597184(v=AX.60)
 ms:contentKeyID: 39519249
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Applicants 
@@ -154,5 +156,5 @@ Companies typically receive many responses to job advertisements, which can make
 Back to top
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a self-service Retail deployment
 TOCTitle: Set up a self-service Retail deployment
 ms:assetid: fd6b63ac-0aa0-4fd3-80c5-48a01590df08
@@ -116,5 +116,5 @@ Send emails. Provide the following information to users:
 The user goes to each computer in the store and accesses the Enterprise Portal page. The page detects the local computer, and asks the user to resolve any conflicts with machine names. The user can reset the password if necessary. When the user clicks **Download**, an installation package is created for that computer. The user opens the .zip file and runs Setup.exe. They’ll see a progress bar, but won’t need to enter any additional information.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Set up a customer reference number
 TOCTitle: (EST) Set up a customer reference number
 ms:assetid: 776d0c0c-e6ea-4a24-bef8-d571bfbbe2c7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ713649(v=AX.60)
 ms:contentKeyID: 49643143
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Set up a customer reference number 
@@ -38,5 +40,5 @@ Then, you can enter a reference number for payments in the **Customers** form. Y
 [(EST) Set up the import of telebank payments from customers](est-set-up-the-import-of-telebank-payments-from-customers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

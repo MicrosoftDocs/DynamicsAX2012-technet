@@ -1,4 +1,4 @@
-﻿---
+---
 title: About print management originals, copies, and settings
 TOCTitle: About print management originals, copies, and settings
 ms:assetid: 80a79cb6-b535-4043-8b19-5155690b39d4
@@ -26,6 +26,8 @@ f1_keywords:
 - multipart
 - multiple part
 - multi-part
+audience: Application User
+ms.search.region: Global
 ---
 
 # About print management originals, copies, and settings 
@@ -87,5 +89,5 @@ While conditional settings and queries provide flexibility in your print managem
 [Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

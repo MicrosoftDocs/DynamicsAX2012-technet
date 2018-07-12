@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Execute final fiscal LIFO report
 TOCTitle: (ITA) Execute final fiscal LIFO report
 ms:assetid: a8bfd8ba-3127-4101-ac7d-6ac9468443f2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - calculate fiscal LIFO
 - fiscal LIFO
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Execute final fiscal LIFO report 
@@ -50,5 +52,5 @@ The report date of the final report is the day when the final calculation is run
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Controller profitability analysis report (ControllerProfitabilityAnalysis)
 TOCTitle: Controller profitability analysis report (ControllerProfitabilityAnalysis)
 ms:assetid: 1d6db11a-4cbe-4473-98f6-6a2f7155e803
@@ -80,5 +80,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

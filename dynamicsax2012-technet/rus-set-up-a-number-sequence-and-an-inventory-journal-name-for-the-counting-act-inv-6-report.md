@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a number sequence and an inventory journal name for the Counting act INV-6 report
 TOCTitle: (RUS) Set up a number sequence and an inventory journal name for the Counting act INV-6 report
 ms:assetid: a5783822-9b27-4662-abdb-cbe7bafb3775
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678566(v=AX.60)
 ms:contentKeyID: 49387794
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a number sequence and an inventory journal name for the Counting act INV-6 report 
@@ -48,5 +50,5 @@ You can use the **Journal names, inventory** form to create a new inventory jour
 [(RUS) Inventory profiles (form)](https://technet.microsoft.com/en-us/library/jj733188\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

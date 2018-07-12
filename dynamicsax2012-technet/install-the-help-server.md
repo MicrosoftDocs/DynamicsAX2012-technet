@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the help server
 TOCTitle: Install the help server
 ms:assetid: 03749eca-de34-4fa7-8077-9cd2365da6ab
@@ -86,5 +86,5 @@ After the Microsoft Dynamics AX Help files are installed, they must be indexed b
 [Set Help system parameters](set-help-system-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

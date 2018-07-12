@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define financial dimensions for Budgeting
 TOCTitle: Define financial dimensions for Budgeting
 ms:assetid: e4978c30-70a4-4ee4-83ab-73a57c2cba7a
@@ -10,6 +10,8 @@ f1_keywords:
 - budgeting financial dimensions
 - dimenions for budget
 - financial dimensions for budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define financial dimensions for Budgeting 
@@ -32,5 +34,5 @@ Some organizations might not define specific financial dimensions, including the
 [Budgeting dimensions (form)](https://technet.microsoft.com/en-us/library/hh209361\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

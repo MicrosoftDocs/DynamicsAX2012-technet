@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage project budgets
 TOCTitle: Manage project budgets
 ms:assetid: bec764e4-8b61-4bfb-8786-075e178ac111
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242821(v=AX.60)
 ms:contentKeyID: 36059251
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage project budgets 
@@ -36,5 +38,5 @@ The topics in this section provide an overview of the process for creating and u
 [Carry forward project budgets at year-end](carry-forward-project-budgets-at-year-end.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

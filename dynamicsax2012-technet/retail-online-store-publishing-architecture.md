@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail online store publishing architecture
 TOCTitle: Online store publishing architecture
 ms:assetid: 9067f24f-8665-4cfa-a5f5-c8abbd38e2db
@@ -102,5 +102,5 @@ Figure 4 Mapping of Microsoft Dynamics AX catalog features after they are publis
 [Microsoft Dynamics AX for Retail online channel tools](microsoft-dynamics-ax-for-retail-online-channel-tools.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

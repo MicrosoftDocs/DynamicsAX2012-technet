@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Inventory management
 TOCTitle: Setting up and maintaining Inventory management
 ms:assetid: a40333b4-7a68-414a-a6be-61717d1c5549
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209462(v=AX.60)
 ms:contentKeyID: 36058814
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Inventory management 
@@ -30,5 +32,5 @@ The topics in this section provide information about setting up and maintaining 
 [(BEL) Setting up and maintaining PRODCOM](bel-setting-up-and-maintaining-prodcom.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

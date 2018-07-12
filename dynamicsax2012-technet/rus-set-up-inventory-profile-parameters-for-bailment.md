@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up inventory profile parameters for bailment
 TOCTitle: (RUS) Set up inventory profile parameters for bailment
 ms:assetid: f232777f-9408-46df-96df-2863ef3f356a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733405(v=AX.60)
 ms:contentKeyID: 49685272
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up inventory profile parameters for bailment 
@@ -40,5 +42,5 @@ You can set up an inventory profile and parameters for an item that is stored in
 [(RUS) Inventory profiles (form)](https://technet.microsoft.com/en-us/library/jj733188\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

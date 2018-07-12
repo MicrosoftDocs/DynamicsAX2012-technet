@@ -1,4 +1,4 @@
-﻿---
+---
 title: Communicate plans
 TOCTitle: Communicate plans
 ms:assetid: e52e0935-c388-4d5c-93ab-13e5d46aee96
@@ -10,6 +10,8 @@ f1_keywords:
 - planned orders
 - process planned orders
 - work with planned orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Communicate plans 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to process planned orde
 [Firm planned orders](firm-planned-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

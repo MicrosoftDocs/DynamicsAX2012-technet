@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add co-products or by-products to a batch order
 TOCTitle: Add co-products or by-products to a batch order
 ms:assetid: 23d83378-020d-4c7a-827d-bb4f9221b2b1
@@ -13,6 +13,8 @@ f1_keywords:
 - add co-products to batch orders
 - by-products
 - co-products
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add co-products or by-products to a batch order 
@@ -73,5 +75,5 @@ When the status of a batch order is **Created**, you can add a new co-product or
 [Report as finished-batch orders (form)](https://technet.microsoft.com/en-us/library/hh328602\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

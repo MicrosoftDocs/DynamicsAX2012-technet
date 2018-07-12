@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up shipment management
 TOCTitle: Setting up shipment management
 ms:assetid: 72e85f01-6e94-445e-9537-60ad807bfb23
@@ -14,6 +14,8 @@ f1_keywords:
 - stage
 - outbound
 - transfering
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up shipment management 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to set up the managemen
 [Set up shipment staging overviews](set-up-shipment-staging-overviews.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

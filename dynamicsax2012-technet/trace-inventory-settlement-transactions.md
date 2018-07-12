@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trace inventory settlement transactions
 TOCTitle: Trace inventory settlement transactions
 ms:assetid: 68eed109-25e8-4893-99e5-148f577133f7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231574(v=AX.60)
 ms:contentKeyID: 36057960
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Trace inventory settlement transactions 
@@ -70,5 +72,5 @@ Assume that the FIFO inventory model was assigned to this item. When inventory c
 [Settlements in the transaction (form)](https://technet.microsoft.com/en-us/library/aa571469\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

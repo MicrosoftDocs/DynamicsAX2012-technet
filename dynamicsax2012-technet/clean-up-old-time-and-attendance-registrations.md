@@ -1,4 +1,4 @@
-﻿---
+---
 title: Clean up old time and attendance registrations
 TOCTitle: Clean up old time and attendance registrations
 ms:assetid: 97d174b1-d6c4-4d94-9091-be9628679b2d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498435(v=AX.60)
 ms:contentKeyID: 39519239
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Clean up old time and attendance registrations 
@@ -76,5 +78,5 @@ If you have transferred registrations to an archive table, you are still able to
 [About registration for manufacturing execution](about-registration-for-manufacturing-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

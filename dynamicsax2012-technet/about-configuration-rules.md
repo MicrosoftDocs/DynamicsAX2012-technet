@@ -1,4 +1,4 @@
-﻿---
+---
 title: About configuration rules
 TOCTitle: About configuration rules
 ms:assetid: 22a7bd30-7fc4-46d3-9e6d-47b2e403d966
@@ -10,6 +10,8 @@ f1_keywords:
 - configuration rules
 - configuration variants
 - define configurations
+audience: Application User
+ms.search.region: Global
 ---
 
 # About configuration rules 
@@ -40,5 +42,5 @@ You can use configuration rules to direct a configuration group and item number 
 [Product Builder configuration (form)](https://technet.microsoft.com/en-us/library/aa571726\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

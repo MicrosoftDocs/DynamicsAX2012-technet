@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Letter of credit misc charges report (BankLCMiscChargeReport_SA)
 TOCTitle: (SAU) Letter of credit misc charges report (BankLCMiscChargeReport_SA)
 ms:assetid: 40cb2567-31b7-4b5d-a647-e24de57ebdb4
@@ -120,5 +120,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

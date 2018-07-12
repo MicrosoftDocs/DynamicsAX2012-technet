@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up posting profiles for the letter of guarantee
 TOCTitle: Set up posting profiles for the letter of guarantee
 ms:assetid: b37d27cc-4be8-4bd5-94b6-7c7e613f9bf3
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Posting profiles for the letter of guarantee
 - Set up posting profiles for the letter of guarantee
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up posting profiles for the letter of guarantee 
@@ -49,5 +51,5 @@ You can use the **Bank documents posting profile** form to set up a posting prof
 [Set up letter of guarantee cancellation reasons and purpose code types](set-up-letter-of-guarantee-cancellation-reasons-and-purpose-code-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

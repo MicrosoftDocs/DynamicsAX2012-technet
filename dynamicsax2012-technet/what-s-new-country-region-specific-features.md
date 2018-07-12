@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country/region specific features"
 TOCTitle: Country/region specific features
 ms:assetid: 5485f39a-746a-4dfe-b0da-0d303b83ee27
@@ -66,5 +66,5 @@ The following topics provide information about new and changed features introduc
 [What's new: Country-specific features for Switzerland (CHE)](what-s-new-country-specific-features-for-switzerland-che.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

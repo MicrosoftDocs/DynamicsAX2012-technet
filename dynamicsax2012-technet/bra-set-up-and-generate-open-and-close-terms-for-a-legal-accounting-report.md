@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up and generate open and close terms for a legal accounting report
 TOCTitle: (BRA) Set up and generate open and close terms for a legal accounting report
 ms:assetid: ac85b0cb-b5f5-4989-bd8a-dbfa12adea83
@@ -14,6 +14,8 @@ f1_keywords:
 - legal accounting
 - legal accounting report
 - set up open and close terms
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up and generate open and close terms for a legal accounting report 
@@ -72,5 +74,5 @@ Use the following procedure to set up and generate open and close terms for a le
 [(BRA) Print open or close term report (LedgerOpenCloseTermReport\_BR)](https://technet.microsoft.com/en-us/library/jj710402\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

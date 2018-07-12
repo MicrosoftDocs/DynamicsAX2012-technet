@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fulfill service agreements overview
 TOCTitle: Fulfill service agreements overview
 ms:assetid: f6ab2a91-8d18-492f-8ff9-fc20afccf0f2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243290(v=AX.60)
 ms:contentKeyID: 36060014
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Fulfill service agreements overview 
@@ -94,5 +96,5 @@ The following table lists the forms that support the Fulfill service contracts b
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

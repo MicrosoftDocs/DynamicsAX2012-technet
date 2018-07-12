@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy reports for the new Reporting Services instance
 TOCTitle: Deploy reports for the new Reporting Services instance
 ms:assetid: 9860b790-71ac-4aa1-9c69-7ca986fd977e
@@ -120,5 +120,5 @@ After you have retrieved a list of reports, you can deploy the reports. The Publ
 [Piping and the Pipeline in Windows PowerShell](http://go.microsoft.com/fwlink/?linkid=187808)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

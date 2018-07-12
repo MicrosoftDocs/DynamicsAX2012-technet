@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Define corresponding relations for transactions manually
 TOCTitle: (RUS) Define corresponding relations for transactions manually
 ms:assetid: bdffab7d-3070-4835-b632-77e736d70c39
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711560(v=AX.60)
 ms:contentKeyID: 49387884
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Define corresponding relations for transactions manually 
@@ -70,5 +72,5 @@ Use the manual transaction correspondence function to define a relationship betw
 [(RUS) Manual correspondence (form)](https://technet.microsoft.com/en-us/library/jj733174\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

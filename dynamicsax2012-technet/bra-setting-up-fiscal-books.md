@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Setting up fiscal books
 TOCTitle: (BRA) Setting up fiscal books
 ms:assetid: 8ef68697-3f4c-4484-bab5-fadc54a413bd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305875(v=AX.60)
 ms:contentKeyID: 54912977
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Setting up fiscal books 
@@ -56,5 +58,5 @@ Before you can use Fiscal books, you must set it up.
 [(BRA) About CIAP](bra-about-ciap.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

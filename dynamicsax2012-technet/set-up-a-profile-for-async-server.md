@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a profile for Async Server
 TOCTitle: Set up a profile for Async Server
 ms:assetid: 008f91db-9179-48b7-8a2f-f23e10ed8c5a
@@ -41,5 +41,5 @@ Async Client is part of Commerce Data Exchange, the asynchronous system that sha
 [Specify working folders for Commerce Data Exchange](specify-working-folders-for-commerce-data-exchange.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

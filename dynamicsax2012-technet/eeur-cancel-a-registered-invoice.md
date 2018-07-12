@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Cancel a registered invoice
 TOCTitle: (EEUR) Cancel a registered invoice
 ms:assetid: a955b5bc-c8b0-48f2-9094-3bac5a7bb2cf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730996(v=AX.60)
 ms:contentKeyID: 49675238
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Cancel a registered invoice 
@@ -40,5 +42,5 @@ Use this procedure to cancel a registered invoice in Accounts payable. Registere
 [(POL) Journal voucher - Invoice approval journal (modified form)](https://technet.microsoft.com/en-us/library/jj678203\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

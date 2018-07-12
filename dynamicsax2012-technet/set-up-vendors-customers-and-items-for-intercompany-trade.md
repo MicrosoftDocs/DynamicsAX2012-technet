@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up vendors, customers, and items for intercompany trade
 TOCTitle: Set up vendors, customers, and items for intercompany trade
 ms:assetid: 0c6ea241-c899-4ea7-aae8-221a58d6bbfd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569754(v=AX.60)
 ms:contentKeyID: 43976702
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up vendors, customers, and items for intercompany trade 
@@ -56,5 +58,5 @@ To prepare your organization for intercompany trade, you must define the vendors
 [Set up intercompany trade](set-up-intercompany-trade.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

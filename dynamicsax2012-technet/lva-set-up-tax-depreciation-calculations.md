@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Set up tax depreciation calculations
 TOCTitle: (LVA) Set up tax depreciation calculations
 ms:assetid: b1955b4e-a716-44ce-8462-eee476820c98
@@ -10,6 +10,8 @@ f1_keywords:
 - tax depreciation
 - tax depreciation for Latvia
 - depreciation coefficients
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Set up tax depreciation calculations 
@@ -79,5 +81,5 @@ The following tasks must be set up to calculate fixed asset tax depreciation:
 [(LVA) Tax depreciation details (form)](https://technet.microsoft.com/en-us/library/jj911030\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

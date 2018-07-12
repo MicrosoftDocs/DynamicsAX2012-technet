@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain activities for goals
 TOCTitle: Maintain activities for goals
 ms:assetid: f71ade37-baec-4f97-b0b4-be30b4969d9a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - employee activities
 - goal activities
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain activities for goals 
@@ -49,5 +51,5 @@ After you create goals for workers, you can add activities to the goals. After a
 [Goal details (form)](https://technet.microsoft.com/en-us/library/hh227645\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

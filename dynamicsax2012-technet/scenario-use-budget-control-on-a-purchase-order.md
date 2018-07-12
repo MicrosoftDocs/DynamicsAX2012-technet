@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Use budget control on a purchase order'
 TOCTitle: 'Scenario: Use budget control on a purchase order'
 ms:assetid: add8a26f-13ed-4d4f-92e4-9a5d093cfb02
@@ -10,6 +10,8 @@ f1_keywords:
 - budget control statistics
 - budget control and purchase orders
 - purchase orders and budget control
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Use budget control on a purchase order 
@@ -58,5 +60,5 @@ A budget register entry was submitted to establish a budget amount for Departmen
     When the invoice is received and entered, the fields in the **Relieved amounts this period** grid in the **Budget reservations for encumbrances** form are updated with information from the invoice. A budget reservation for the actual expenditure is also created.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

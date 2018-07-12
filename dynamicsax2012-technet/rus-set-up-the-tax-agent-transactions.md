@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the tax agent transactions
 TOCTitle: (RUS) Set up the tax agent transactions
 ms:assetid: 9eb51a58-bfd5-4f16-8972-e9fe3d3b4c46
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678541(v=AX.60)
 ms:contentKeyID: 49387770
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the tax agent transactions 
@@ -126,5 +128,5 @@ You must set up the parameters for tax agent transactions in the general ledger 
 [(RUS) Create vendor tax agent transactions](rus-create-vendor-tax-agent-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

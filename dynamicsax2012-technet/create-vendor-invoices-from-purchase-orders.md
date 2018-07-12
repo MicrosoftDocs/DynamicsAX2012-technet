@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create vendor invoices from purchase orders
 TOCTitle: Create vendor invoices from purchase orders
 ms:assetid: 37fbcbde-e75d-4c9d-b4a8-5adcd61faccf
@@ -25,6 +25,8 @@ f1_keywords:
 - vendor invoices
 - PO
 - POs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create vendor invoices from purchase orders 
@@ -57,5 +59,5 @@ The following topics provide information about creating vendor invoices from pur
 [(MEX) Define tax registration numbers for a company and a vendor account](mex-define-tax-registration-numbers-for-a-company-and-a-vendor-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

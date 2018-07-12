@@ -1,4 +1,4 @@
-﻿---
+---
 title: About indirect activities for time and attendance
 TOCTitle: About indirect activities for time and attendance
 ms:assetid: 85ca7cf1-11fc-4666-a7b1-fa8c0a389b57
@@ -11,6 +11,8 @@ f1_keywords:
 - profile
 - indirect activities
 - switch code
+audience: Application User
+ms.search.region: Global
 ---
 
 # About indirect activities for time and attendance 
@@ -72,5 +74,5 @@ Indirect activities are grouped in categories that can only contain activities o
 [Set up indirect activities for time and attendance](set-up-indirect-activities-for-time-and-attendance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

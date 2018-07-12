@@ -1,4 +1,4 @@
-﻿---
+---
 title: Improve client startup times by configuring clients to use roaming profiles
 TOCTitle: Improve client startup times by configuring clients to use roaming profiles
 ms:assetid: 56f7b7b2-dbfc-4a08-b262-43f85fbd792f
@@ -74,5 +74,5 @@ Use the following procedure to create a roaming user profile client configuratio
 [Mass deployment of the Microsoft Dynamics AX Windows client](mass-deployment-of-the-microsoft-dynamics-ax-windows-client.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

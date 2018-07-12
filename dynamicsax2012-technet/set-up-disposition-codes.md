@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up disposition codes
 TOCTitle: Set up disposition codes
 ms:assetid: 00b04d16-132a-4780-a8e4-251189eec31e
@@ -14,6 +14,8 @@ f1_keywords:
 - status code
 - item disposal
 - status codes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up disposition codes 
@@ -46,5 +48,5 @@ You can also set up a reason code to help explain why an item was returned. For 
 [External codes (form)](https://technet.microsoft.com/en-us/library/aa583814\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

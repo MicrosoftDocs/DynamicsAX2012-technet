@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deployment of analytics
 TOCTitle: Deployment
 ms:assetid: 70c9976f-9d41-4c83-8581-fb45aecfc479
@@ -20,5 +20,5 @@ The following topics explain how to configure Microsoft SQL Server Analysis Serv
 [How to: Upgrade Microsoft Dynamics AX cubes](how-to-upgrade-microsoft-dynamics-ax-cubes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

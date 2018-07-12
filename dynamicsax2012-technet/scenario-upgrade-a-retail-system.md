@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Upgrade a Retail system'
 TOCTitle: 'Scenario: Upgrade a Retail system'
 ms:assetid: 82b5489f-750d-4bde-a5c7-ab1cc8798c57
@@ -574,5 +574,5 @@ Click the **Cleanup tasks** task to delete the setup data that was created by th
 Even though this task is labeled “Required,” you can postpone it until all batch jobs for the current store deployment are completed successfully.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

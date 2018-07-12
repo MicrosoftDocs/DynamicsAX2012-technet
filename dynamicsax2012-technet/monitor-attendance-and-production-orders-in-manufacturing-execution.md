@@ -1,4 +1,4 @@
-﻿---
+---
 title: Monitor attendance and production orders in Manufacturing execution
 TOCTitle: Monitor attendance and production orders in Manufacturing execution
 ms:assetid: 7724f74a-7fd9-4921-8833-d941163ebddf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209249(v=AX.60)
 ms:contentKeyID: 36058204
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Monitor attendance and production orders in Manufacturing execution 
@@ -80,5 +82,5 @@ Back to top
 [Key tasks: Process production jobs in Manufacturing execution](key-tasks-process-production-jobs-in-manufacturing-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

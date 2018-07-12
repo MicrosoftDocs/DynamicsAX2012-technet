@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Companion apps for Microsoft Dynamics AX 2012"
 TOCTitle: "What's new: Companion apps for Microsoft Dynamics AX 2012"
 ms:assetid: 93d32f6d-7ad5-4691-899c-60d545f464a1
@@ -44,5 +44,5 @@ These companion apps are available for Microsoft Dynamics AX 2012 R3 or cumulati
 [Dynamics AX Companion Apps blog](http://blogs.msdn.com/b/axcompapp/)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

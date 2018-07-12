@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up a ledger account for tax discrepancies
 TOCTitle: (HUN) Set up a ledger account for tax discrepancies
 ms:assetid: 60e558c3-bea0-45d2-b7b2-ff549b5d43f4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664290(v=AX.60)
 ms:contentKeyID: 49385379
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up a ledger account for tax discrepancies 
@@ -46,5 +48,5 @@ Companies are free to select the exchange rate used to calculate VAT for the VAT
 6.  Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

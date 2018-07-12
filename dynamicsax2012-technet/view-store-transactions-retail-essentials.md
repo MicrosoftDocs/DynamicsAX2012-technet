@@ -1,4 +1,4 @@
-﻿---
+---
 title: View store transactions (Retail essentials)
 TOCTitle: View store transactions (Retail essentials)
 ms:assetid: 34b9b950-9088-409d-9220-d575a21afaf8
@@ -38,5 +38,5 @@ This topic explains how to view a list of transactions for all statements for re
 [Schedule and run jobs in Retail Scheduler (Retail essentials)](schedule-and-run-jobs-in-retail-scheduler-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DEU) Set up the parameters to calculate depreciation for additional acquisitions
 TOCTitle: (DEU) Set up the parameters to calculate depreciation for additional acquisitions
 ms:assetid: 66920537-c036-44a1-a22d-24e8a5b66c60
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.AssetParameters
 - DE - 00002
 - MsDynAx060.Forms.AssetParameters
+audience: Application User
+ms.search.region: Germany
 ---
 
 # (DEU) Set up the parameters to calculate depreciation for additional acquisitions 
@@ -38,5 +40,5 @@ Use the **Fixed assets parameters** form to set up the parameters to calculate d
 [(DEU) About additional acquisition depreciation](deu-about-additional-acquisition-depreciation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

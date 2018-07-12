@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHE) Set up LSV+ information for a bank account
 TOCTitle: (CHE) Set up LSV+ information for a bank account
 ms:assetid: 8da14aa9-b013-4876-8cbd-bc1496892996
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242884(v=AX.60)
 ms:contentKeyID: 36058505
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Switzerland
 ---
 
 # (CHE) Set up LSV+ information for a bank account 
@@ -58,5 +60,5 @@ Use the **Bank accounts** form to set up Lastschriftenverfahren (LSV+) informati
 [(CHE) Create an LSV+ payment file](che-create-an-lsv-payment-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

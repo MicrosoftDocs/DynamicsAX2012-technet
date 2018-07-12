@@ -1,4 +1,4 @@
-﻿---
+---
 title: Procurement catalogs overview
 TOCTitle: Procurement catalogs overview
 ms:assetid: 00ab1ea0-9655-49c2-a5f1-dd9d1da57db7
@@ -11,6 +11,8 @@ f1_keywords:
 - procurement catalog
 - procurement catalogs
 - purchasing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Procurement catalogs overview 
@@ -186,5 +188,5 @@ The following table describes the tasks that must be completed to set up a catal
 [External vendor catalogs overview](external-vendor-catalogs-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

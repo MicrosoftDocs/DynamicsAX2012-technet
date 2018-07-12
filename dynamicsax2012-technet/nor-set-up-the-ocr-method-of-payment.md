@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Set up the OCR method of payment
 TOCTitle: (NOR) Set up the OCR method of payment
 ms:assetid: 5b0df91c-c259-4c43-9dcd-e8520e9f207e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242489(v=AX.60)
 ms:contentKeyID: 36057356
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Set up the OCR method of payment 
@@ -96,5 +98,5 @@ The method of payment that is attached to the customer is not the current method
 [(NOR) OCR payments](nor-ocr-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

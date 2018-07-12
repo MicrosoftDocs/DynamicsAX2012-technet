@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enable users to access Enterprise Portal
 TOCTitle: Enable users to access Enterprise Portal
 ms:assetid: 2adbf75e-a599-45ca-a849-765185bf7897
@@ -86,5 +86,5 @@ To grant users access to a public site, you must create the site and configure a
 [Checklist: Deploy a vendor registration portal](checklist-deploy-a-vendor-registration-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Compliance and internal controls reports
 TOCTitle: Compliance and internal controls reports
 ms:assetid: 428b485e-221e-4ded-96b2-242df0b3f287
@@ -30,5 +30,5 @@ The following reports are available in the **Compliance and internal controls** 
 [Substance entry report (EMSSubstanceEntry)](substance-entry-report-emssubstanceentry.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

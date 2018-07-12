@@ -1,4 +1,4 @@
-﻿---
+---
 title: Changing quotation activity data
 TOCTitle: Changing quotation activity data
 ms:assetid: 2c538513-73c0-4b3a-a790-a91035bf2f2c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496868(v=AX.60)
 ms:contentKeyID: 36056258
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Changing quotation activity data 
@@ -46,5 +48,5 @@ If you remove the contact, the follow-up activity is automatically updated, and 
 Changes to the data for the follow-up activity for a sales quotation do not affect the sales quotation on which the data is based.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

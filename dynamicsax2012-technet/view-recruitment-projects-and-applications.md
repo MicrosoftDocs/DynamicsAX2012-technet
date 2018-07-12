@@ -1,4 +1,4 @@
-﻿---
+---
 title: View recruitment projects and applications
 TOCTitle: View recruitment projects and applications
 ms:assetid: e79ed6c5-6b8f-45f8-b386-511955dac6d9
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - HcmEPApplicationListPage
 - HcmMyRecruitingListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # View recruitment projects and applications 
@@ -33,5 +35,5 @@ Use the **Recruitment projects** page to view a list of recruitment projects for
 3.  On the Action Pane, click **Applications**. The **Applications** page is displayed, where you can view a list of applications that were submitted for the selected recruitment project.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

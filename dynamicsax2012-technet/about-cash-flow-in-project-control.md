@@ -1,4 +1,4 @@
-﻿---
+---
 title: About cash flow in Project control
 TOCTitle: About cash flow in Project control
 ms:assetid: 097329d0-1a29-45b9-adb9-bc7f72f73deb
@@ -11,6 +11,8 @@ f1_keywords:
 - project control
 - cash in flow actuals
 - cash in flow forecasting
+audience: Application User
+ms.search.region: Global
 ---
 
 # About cash flow in Project control 
@@ -121,5 +123,5 @@ When all sales and vendor invoices are completed, you can view the relationship 
 [Project statements (form)](https://technet.microsoft.com/en-us/library/aa552521\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

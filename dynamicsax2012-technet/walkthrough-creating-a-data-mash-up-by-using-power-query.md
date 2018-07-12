@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Creating a data mash-up by using Power Query'
 TOCTitle: 'Walkthrough: Creating a data mash-up by using Power Query'
 ms:assetid: 31955256-2478-45f2-a48a-474c0a3fb7ff
@@ -330,5 +330,5 @@ Now that you’ve created the report, you can add it to your Power BI sites page
 Back to top
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

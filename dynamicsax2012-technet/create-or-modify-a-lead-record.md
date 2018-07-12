@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify a lead record
 TOCTitle: Create or modify a lead record
 ms:assetid: 19c5ad85-a343-4a39-a6f2-627efc688a36
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - smmEPLeadEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify a lead record 
@@ -62,5 +64,5 @@ You can disqualify, delete, or postpone a record if it appears that the lead wil
 [View lead records](view-lead-records.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

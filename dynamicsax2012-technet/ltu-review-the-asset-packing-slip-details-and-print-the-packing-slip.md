@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Review the asset packing slip details and print the packing slip
 TOCTitle: (LTU) Review the asset packing slip details and print the packing slip
 ms:assetid: 82c9f850-6d73-4445-9bd8-f6d6b55e7212
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665128(v=AX.60)
 ms:contentKeyID: 49386709
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Review the asset packing slip details and print the packing slip 
@@ -44,5 +46,5 @@ Use this procedure to review the details of a packing slip for a fixed asset tra
 [(LTU) Transportation details (form)](https://technet.microsoft.com/en-us/library/jj665040\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

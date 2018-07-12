@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) About deferred sales tax calculations
 TOCTitle: (HUN) About deferred sales tax calculations
 ms:assetid: 3a8788c1-3efd-4faf-86b3-8f0999492c43
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664263(v=AX.60)
 ms:contentKeyID: 49385353
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) About deferred sales tax calculations 
@@ -46,5 +48,5 @@ For free text invoices and purchase orders, if the document line amounts are dis
 [(HUN) Ledger posting groups (modified form)](https://technet.microsoft.com/en-us/library/jj664253\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

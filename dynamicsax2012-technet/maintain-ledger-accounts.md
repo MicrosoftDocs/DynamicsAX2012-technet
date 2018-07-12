@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain ledger accounts
 TOCTitle: Maintain ledger accounts
 ms:assetid: 8c0fe83f-b00d-4e9b-8322-c478f5d168b4
@@ -11,6 +11,8 @@ f1_keywords:
 - accounts
 - ledger accounts
 - ledger account
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain ledger accounts 
@@ -41,5 +43,5 @@ The topics in this section provide information about the tasks that are related 
 [(SAU) Adjust Zakat information for a voucher transaction](sau-adjust-zakat-information-for-a-voucher-transaction.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add comments to goals
 TOCTitle: Add comments to goals
 ms:assetid: 004b3cbc-9e4b-468f-9df7-0a4b43c0ad0d
@@ -10,6 +10,8 @@ f1_keywords:
 - employee comments
 - goal comments
 - manager comments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add comments to goals 
@@ -32,5 +34,5 @@ After a goal is started, you should not add or modify information about the goal
 [Set a goal](set-a-goal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

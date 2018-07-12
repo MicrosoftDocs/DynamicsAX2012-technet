@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sales clerk security role (TradeSalesClerk)
 TOCTitle: Sales clerk security role (TradeSalesClerk)
 ms:assetid: 41e4b132-0e6a-431e-a809-2d7632d92d59
@@ -751,5 +751,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

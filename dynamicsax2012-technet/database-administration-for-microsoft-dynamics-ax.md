@@ -1,4 +1,4 @@
-﻿---
+---
 title: Database administration for Microsoft Dynamics AX
 TOCTitle: Database administration
 ms:assetid: 218e6e57-3686-4d33-a8a5-b01a00d6d90b
@@ -24,5 +24,5 @@ The topics in this section describe common database administration tasks. This s
 [Troubleshooting database performance](troubleshooting-database-performance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

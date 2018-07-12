@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Dynamics AX glossary
 TOCTitle: Microsoft Dynamics AX glossary
 ms:assetid: bad19471-57d0-4da3-a604-7f450d0bc690
@@ -6434,5 +6434,5 @@ f1_keywords:
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

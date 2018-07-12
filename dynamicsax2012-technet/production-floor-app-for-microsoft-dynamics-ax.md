@@ -1,4 +1,4 @@
-﻿---
+---
 title: Production Floor app for Microsoft Dynamics AX
 TOCTitle: Production Floor app
 ms:assetid: d90c2d60-1353-40d8-bf80-4b0e4c30a7c5
@@ -201,5 +201,5 @@ Before you can integrate this app with Microsoft Dynamics AX, make sure that the
 9.  Select a company.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

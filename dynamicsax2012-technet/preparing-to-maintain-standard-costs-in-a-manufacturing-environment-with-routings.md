@@ -1,4 +1,4 @@
-﻿---
+---
 title: Preparing to maintain standard costs in a manufacturing environment with routings
 TOCTitle: Preparing to maintain standard costs in a manufacturing environment with routings
 ms:assetid: 068a31e5-c4ff-43d5-b458-905cfcfc9a91
@@ -15,6 +15,8 @@ f1_keywords:
 - standard cost
 - standard costs
 - routings
+audience: Application User
+ms.search.region: Global
 ---
 
 # Preparing to maintain standard costs in a manufacturing environment with routings 
@@ -33,5 +35,5 @@ The topics in this section contain information about how to prepare to maintain 
 [Example of a costing sheet setup](example-of-a-costing-sheet-setup.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

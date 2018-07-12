@@ -1,4 +1,4 @@
-﻿---
+---
 title: About consumption
 TOCTitle: About consumption
 ms:assetid: 08f29358-c1d0-4380-9cdc-50b13424b5d3
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - consumption
+audience: Application User
+ms.search.region: Global
 ---
 
 # About consumption 
@@ -28,5 +30,5 @@ Select whether consumption has a variable or a constant volume or quantity.
     Quantity = Consumption (constant)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Accounts payable
 TOCTitle: Setting up and maintaining Accounts payable
 ms:assetid: 191ae6a6-7bd7-4641-81c2-ca709d84efec
@@ -14,6 +14,8 @@ f1_keywords:
 - AP
 - payable
 - payables
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Accounts payable 
@@ -437,5 +439,5 @@ The following table lists the forms that support setting up and maintaining Acco
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

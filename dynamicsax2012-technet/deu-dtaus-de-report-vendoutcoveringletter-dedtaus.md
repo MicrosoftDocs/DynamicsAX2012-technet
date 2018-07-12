@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DEU) DTAUS (DE) report (VendOutCoveringLetter_DEDTAUS)
 TOCTitle: (DEU) DTAUS (DE) report (VendOutCoveringLetter_DEDTAUS)
 ms:assetid: 59b68ffb-1a56-4d36-b55a-971bfc00cb15
@@ -148,5 +148,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

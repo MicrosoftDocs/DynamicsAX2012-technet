@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up the purchase order process
 TOCTitle: Setting up the purchase order process
 ms:assetid: 84ce5738-7ba9-42cc-9a1f-fb5ab0860bd5
@@ -23,6 +23,8 @@ f1_keywords:
 - misc. items
 - PO
 - POs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up the purchase order process 
@@ -41,5 +43,5 @@ The topics in this section provide information about the process that the user m
 [Set up purchase or sales agreement functionality](set-up-purchase-or-sales-agreement-functionality.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

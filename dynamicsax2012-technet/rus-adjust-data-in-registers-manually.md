@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Adjust data in registers manually
 TOCTitle: (RUS) Adjust data in registers manually
 ms:assetid: 0637b76a-fcb7-4911-aeca-1e561dd6c417
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711357(v=AX.60)
 ms:contentKeyID: 49387175
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Adjust data in registers manually 
@@ -68,5 +70,5 @@ You can manually add, edit, or delete the calculated register lines.
 [(RUS) Create a tax register journal](rus-create-a-tax-register-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

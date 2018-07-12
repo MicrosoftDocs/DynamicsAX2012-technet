@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Support for BOM item type BOM'
 TOCTitle: BOM item type BOM
 ms:assetid: 718e3957-b77a-4779-bd6d-81460fe6066b
@@ -57,5 +57,5 @@ In Microsoft Dynamics AX 2009, a bill of materials (BOM) can be associated only 
 For more information about item-product management, see the white paper [Implementing the Item-Product data management framework for Microsoft Dynamics AX 2012 Applications](http://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_item-product_data_management_framework_for_microsoft_dynamics_ax_2012_applications_ax2012.pdf).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Set up VAT paid by the customer
 TOCTitle: (LTU) Set up VAT paid by the customer
 ms:assetid: 2db1ac22-3df1-4885-b9c2-4c9d020b0882
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665047(v=AX.60)
 ms:contentKeyID: 49386630
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Set up VAT paid by the customer 
@@ -98,5 +100,5 @@ When the sales and purchase orders are marked as **Not in invoice** in the **Sal
 19. Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

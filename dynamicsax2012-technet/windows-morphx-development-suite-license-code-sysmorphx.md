@@ -1,4 +1,4 @@
-﻿---
+---
 title: Windows MorphX Development Suite license code (SysMorphX)
 TOCTitle: Windows MorphX Development Suite license code (SysMorphX)
 ms:assetid: 188e89e5-2b3a-48dd-b93c-c380dbabd105
@@ -58,5 +58,5 @@ The following table provides more information about this license code:
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

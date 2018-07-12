@@ -1,4 +1,4 @@
-﻿---
+---
 title: About parameters for time and attendance
 TOCTitle: About parameters for time and attendance
 ms:assetid: 043f61f0-67f8-4f38-a1b7-d98e949ca0cf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569708(v=AX.60)
 ms:contentKeyID: 36055945
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About parameters for time and attendance 
@@ -74,5 +76,5 @@ The parameters are divided into the following categories:
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

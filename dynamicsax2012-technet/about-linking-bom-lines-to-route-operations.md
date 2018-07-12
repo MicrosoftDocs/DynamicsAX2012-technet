@@ -1,4 +1,4 @@
-﻿---
+---
 title: About linking BOM lines to route operations
 TOCTitle: About linking BOM lines to route operations
 ms:assetid: 699501c8-135d-4c6f-9f70-7c158f58767c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571171(v=AX.60)
 ms:contentKeyID: 36057970
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About linking BOM lines to route operations 
@@ -40,5 +42,5 @@ Right click the BOM line, and select whether you want to remove the link or dele
 [BOM designer (form)](https://technet.microsoft.com/en-us/library/aa583042\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

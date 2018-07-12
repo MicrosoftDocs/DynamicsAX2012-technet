@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts payable setup overview
 TOCTitle: Accounts payable setup overview
 ms:assetid: 6a9bdc61-b19e-4cea-8890-805a4ccba8b2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231776(v=AX.60)
 ms:contentKeyID: 36057980
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Accounts payable setup overview 
@@ -268,5 +270,5 @@ The additional setup forms are organized by functionality.
 [Manage vendor requests overview](manage-vendor-requests-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the depreciation bonus recovery register
 TOCTitle: (RUS) Calculate the depreciation bonus recovery register
 ms:assetid: a2adec1b-ad1e-4ce2-818d-62c00f510b0e
@@ -15,6 +15,8 @@ f1_keywords:
 - depreciation bonus recovery register
 - MsDynAx060.Forms.RTax25RegisterJournalTrans
 - MsDynAx060.Forms.RTax25RegisterJournalTable
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the depreciation bonus recovery register 
@@ -73,5 +75,5 @@ In the **Register journal lines** form, on the **Overview** tab, select the **Ap
 [(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

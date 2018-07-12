@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create service object groups
 TOCTitle: Create service object groups
 ms:assetid: ff5fdf02-aff0-467f-95e0-743d931baa73
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573455(v=AX.60)
 ms:contentKeyID: 62626034
 ms.date: 07/28/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create service object groups 
@@ -30,5 +32,5 @@ You can assign service objects to the group by using the **Service objects** for
 [About service object groups](about-service-object-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

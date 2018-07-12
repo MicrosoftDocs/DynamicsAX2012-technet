@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a purchase order based on an inventory profile
 TOCTitle: (RUS) Create and post a purchase order based on an inventory profile
 ms:assetid: 811201ea-f726-4080-bf1e-3c656233808b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733248(v=AX.60)
 ms:contentKeyID: 49685215
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a purchase order based on an inventory profile 
@@ -62,5 +64,5 @@ You can also post purchase indirect costs for purchase order lines that have an 
 [(RUS) Update factures and post invoices for open purchase orders](rus-update-factures-and-post-invoices-for-open-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with apportionments (Public sector)
 TOCTitle: Working with apportionments (Public sector)
 ms:assetid: 3547bafa-c213-468b-8d8c-9486bc6aaa12
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - apportionments
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Working with apportionments (Public sector) 
@@ -22,5 +24,5 @@ The topics in this section provide information about working with apportionment 
 [View budget activities for apportionments (Public Sector)](view-budget-activities-for-apportionments-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

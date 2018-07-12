@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up parameters to calculate invoice issue due dates
 TOCTitle: Set up parameters to calculate invoice issue due dates
 ms:assetid: cae7bc57-e3e9-41a4-bb45-699d64f3603d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.CustParameters
 - Forms.LedgerInvoiceIssueDueDateSetup_W
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up parameters to calculate invoice issue due dates 
@@ -468,5 +470,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

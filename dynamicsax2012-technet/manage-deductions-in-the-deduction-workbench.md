@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage deductions in the deduction workbench
 TOCTitle: Manage deductions in the deduction workbench
 ms:assetid: ef11d6e5-7dfc-4af8-bc71-1dffc538a47e
@@ -32,6 +32,8 @@ f1_keywords:
 - deduction workbench
 - payment deduction
 - trade allowance rebates
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage deductions in the deduction workbench 
@@ -267,5 +269,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Setting up and maintaining customer rebates](setting-up-and-maintaining-customer-rebates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add a BOM line to a component
 TOCTitle: Add a BOM line to a component
 ms:assetid: 1795d16b-aff4-4428-b66a-96b9f221b4b3
@@ -10,6 +10,8 @@ f1_keywords:
 - product configurator
 - BOM component
 - constraint based
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add a BOM line to a component 
@@ -38,5 +40,5 @@ The following steps describe how to add a bill of materials (BOM) line to a comp
 [Create components](create-components.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

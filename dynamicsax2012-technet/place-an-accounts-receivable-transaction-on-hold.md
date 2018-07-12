@@ -1,4 +1,4 @@
-﻿---
+---
 title: Place an Accounts receivable transaction on hold
 TOCTitle: Place an Accounts receivable transaction on hold
 ms:assetid: 6d432440-ea98-432f-b30c-85385eb33244
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231801(v=AX.60)
 ms:contentKeyID: 36058025
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Place an Accounts receivable transaction on hold 
@@ -60,5 +62,5 @@ For users in Seattle, which is three hours behind New York, the transaction was 
 [Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/en-us/library/aa553272\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

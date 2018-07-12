@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FIN) Form FI report (IntrastatFormLetterFI)
 TOCTitle: (FIN) Form FI report (IntrastatFormLetterFI)
 ms:assetid: 744f1ccf-98cc-4134-8811-4570232784f3
@@ -156,5 +156,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(FIN) Generate a Finnish Intrastat declaration](fin-generate-a-finnish-intrastat-declaration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Combine queries for campaign targets
 TOCTitle: Combine queries for campaign targets
 ms:assetid: d14ae429-f5bb-4eb9-819b-bf638774009e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551022(v=AX.60)
 ms:contentKeyID: 36059494
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Combine queries for campaign targets 
@@ -32,5 +34,5 @@ You can combine queries that you previously created, and then use the queries to
 7.  Click **Execute** to run the queries.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

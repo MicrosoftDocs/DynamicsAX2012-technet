@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hardware and software requirements
 TOCTitle: Hardware and software requirements
 ms:assetid: 9119f383-fc94-48c2-8e77-4eb83c656779
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 For up-to-date hardware and software requirements for Microsoft Dynamics AX, download the [system requirements document](http://go.microsoft.com/fwlink/?linkid=165377).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

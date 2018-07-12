@@ -1,4 +1,4 @@
-﻿---
+---
 title: Approve expense reports
 TOCTitle: Approve expense reports
 ms:assetid: 46941e16-425f-4be8-97b3-8595bc010ec5
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - TrvExpenseReportsApproveList
+audience: Application User
+ms.search.region: Global
 ---
 
 # Approve expense reports 
@@ -42,5 +44,5 @@ You also might want to view the history of the expense report, or assign the rep
       - **View history** – Open the **Workflow history details** page, where you can view the history and details of the expense report in the approval process. For more information, see [View the status and history of a document (Enterprise Portal)](view-the-status-and-history-of-a-document-enterprise-portal.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

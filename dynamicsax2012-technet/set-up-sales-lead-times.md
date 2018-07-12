@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up sales lead times
 TOCTitle: Set up sales lead times
 ms:assetid: e2b4149a-01ad-4ff8-9861-be9cc15849cc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243215(v=AX.60)
 ms:contentKeyID: 36688022
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up sales lead times 
@@ -54,5 +56,5 @@ Use the following procedures to set up sales order lead times.
 6.  Close the forms to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Merge EPCG licenses
 TOCTitle: (IND) Merge EPCG licenses
 ms:assetid: 14720789-b60e-49db-a263-d16ef2bba40d
@@ -12,6 +12,8 @@ f1_keywords:
 - india
 - EPCG licenses
 - Merge EPCG licenses
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Merge EPCG licenses 
@@ -60,5 +62,5 @@ In the **EXIM EPCG Schemes** form, the merged schemes are updated to include the
 [(IND) Verify the approved EPCG scheme details](ind-verify-the-approved-epcg-scheme-details.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

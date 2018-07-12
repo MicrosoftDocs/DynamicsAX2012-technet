@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring Enterprise Portal for customer requests
 TOCTitle: Configuring Enterprise Portal for customer requests
 ms:assetid: ae0712ad-9d48-452b-a3f6-a120b86a1f7a
@@ -10,6 +10,8 @@ f1_keywords:
 - enterprise portal
 - customer request
 - customer requests
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring Enterprise Portal for customer requests 
@@ -26,5 +28,5 @@ The following topics provide information about how to process customer requests 
 [Process a customer request](process-a-customer-request.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

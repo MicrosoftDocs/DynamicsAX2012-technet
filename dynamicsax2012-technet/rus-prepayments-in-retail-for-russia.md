@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Prepayments in Retail for Russia
 TOCTitle: (RUS) Prepayments in Retail for Russia
 ms:assetid: c5588433-d198-4a3f-9a12-3c79a4293f06
@@ -11,6 +11,8 @@ f1_keywords:
 - RU - 00037
 - RU – 00019
 - MsDynAx060.Forms.LedgerJournalTransRDeferrals
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Prepayments in Retail for Russia 
@@ -41,5 +43,5 @@ Microsoft Dynamics AX performs the following tasks to process a prepayment:
     When you return a customer order, a return order and a refund payment journal are created. When you post the return order, Microsoft Dynamics AX creates a customer payment journal or a cash journal. The type of journal that is created depends on the method of payment that is used by the customer for the original transaction.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

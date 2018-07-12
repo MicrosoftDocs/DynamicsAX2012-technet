@@ -1,4 +1,4 @@
-﻿---
+---
 title: Identify and resolve conflicts in segregation of duties
 TOCTitle: Identify and resolve conflicts in segregation of duties
 ms:assetid: 32a27e09-8db1-4dba-91ef-e5804360a66d
@@ -78,5 +78,5 @@ However, compliance is not verified when you create the rules for segregation of
 [Set up segregation of duties](set-up-segregation-of-duties.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

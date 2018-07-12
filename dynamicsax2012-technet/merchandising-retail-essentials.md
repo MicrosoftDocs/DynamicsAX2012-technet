@@ -1,4 +1,4 @@
-﻿---
+---
 title: Merchandising (Retail essentials)
 TOCTitle: Merchandising (Retail essentials)
 ms:assetid: fbfabb1c-90f0-4296-9a40-0244a7d658f0
@@ -30,5 +30,5 @@ The topics in this section provide information about merchandising in Retail ess
 [Product attributes](product-attributes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

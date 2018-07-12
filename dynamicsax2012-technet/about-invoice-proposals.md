@@ -1,4 +1,4 @@
-﻿---
+---
 title: About invoice proposals
 TOCTitle: About invoice proposals
 ms:assetid: a0f5cfd4-ff8a-47a9-9b9d-47010ba8178c
@@ -16,6 +16,8 @@ f1_keywords:
 - preliminary invoice
 - pro forma invoice
 - project transaction
+audience: Application User
+ms.search.region: Global
 ---
 
 # About invoice proposals 
@@ -74,5 +76,5 @@ You can add or delete transactions in an invoice proposal before you post it. Fo
 [Approve or reject an invoice proposal](approve-or-reject-an-invoice-proposal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

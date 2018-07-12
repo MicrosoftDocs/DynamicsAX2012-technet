@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Accounts receivable
 TOCTitle: Working with Accounts receivable
 ms:assetid: 16621d95-acd9-4861-bbcc-5bac99bb450c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - AR
 - accounts receivable
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Accounts receivable 
@@ -23,5 +25,5 @@ This section provides overviews of the Accounts receivable business process comp
 [Close Accounts receivable overview](close-accounts-receivable-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

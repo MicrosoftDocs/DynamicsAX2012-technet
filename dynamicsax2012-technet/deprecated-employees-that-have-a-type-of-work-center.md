@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Employees that have a type of Work Center'
 TOCTitle: Employees that have a type of Work Center
 ms:assetid: 88cb873e-3baa-459e-b392-eaa85c28b39c
@@ -55,5 +55,5 @@ In Microsoft Dynamics AX 2009, employees can be one of three types: **Employee**
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

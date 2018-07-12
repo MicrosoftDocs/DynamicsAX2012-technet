@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service orders
 TOCTitle: About service orders
 ms:assetid: ce4c151a-293e-4210-9f2a-abf90b93aeab
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - service order
 - service management
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service orders 
@@ -75,5 +77,5 @@ During the second half of the year, your customer decides that the service visit
 [Service orders (form)](https://technet.microsoft.com/en-us/library/aa554361\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up withholding tax
 TOCTitle: Setting up withholding tax
 ms:assetid: a592e265-3d92-4f62-928f-e728fa103eec
@@ -10,6 +10,8 @@ f1_keywords:
 - withholding tax
 - tax
 - tax setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up withholding tax 
@@ -48,5 +50,5 @@ The topics in this section provide information about how to set up withholding t
 [(SAU) Generate the withholding tax reports](sau-generate-the-withholding-tax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

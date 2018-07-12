@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add an alternate line to a request for quotation
 TOCTitle: Add an alternate line to a request for quotation
 ms:assetid: bc0544da-4729-44d1-821b-99a5ec07d1f1
@@ -23,6 +23,8 @@ f1_keywords:
 - substitute
 - quote, procurement
 - substitutes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add an alternate line to a request for quotation 
@@ -80,5 +82,5 @@ If the functionality for adding alternates has been enabled, use this procedure 
 [Compare bids and award a contract](compare-bids-and-award-a-contract.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

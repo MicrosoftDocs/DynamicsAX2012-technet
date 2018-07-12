@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tools used for analytics
 TOCTitle: Tools used for analytics
 ms:assetid: 499c97af-ab44-4815-8cb0-d4493e9c66ba
@@ -82,5 +82,5 @@ The following picture shows an ad hoc report in Report Builder.
 For step-by-step instructions about how to create an ad hoc report in Report Builder, see [Create a report by using SQL Server Report Builder to connect to a cube](create-a-report-by-using-sql-server-report-builder-to-connect-to-a-cube.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

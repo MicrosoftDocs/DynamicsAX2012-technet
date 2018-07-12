@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install multiple instances of Reporting Services on the same computer (for use with Microsoft Dynamics AX)
 TOCTitle: Install multiple instances of Reporting Services on the same computer (for use with Microsoft Dynamics AX)
 ms:assetid: 0aca4bf4-aac9-4acd-9323-7547a8583c9f
@@ -82,5 +82,5 @@ To set up an environment that has multiple Reporting Services instances on the s
 3.  Repeat step 2 for each additional instance of Reporting Services.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

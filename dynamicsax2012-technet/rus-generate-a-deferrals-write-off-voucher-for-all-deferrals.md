@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate a deferrals write-off voucher for all deferrals
 TOCTitle: (RUS) Generate a deferrals write-off voucher for all deferrals
 ms:assetid: b5cccceb-98f0-40bb-971e-7c13694c9753
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711540(v=AX.60)
 ms:contentKeyID: 49387864
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate a deferrals write-off voucher for all deferrals 
@@ -77,5 +79,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

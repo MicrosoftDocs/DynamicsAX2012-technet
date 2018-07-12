@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and use a solicitation type
 TOCTitle: Create and use a solicitation type
 ms:assetid: 010b066e-f9f1-4739-8479-8614fc2b671c
@@ -16,6 +16,8 @@ f1_keywords:
 - solicitation type
 - solicitation types
 - solicitations
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and use a solicitation type 
@@ -108,5 +110,5 @@ Use this procedure if you want to change the solicitation type of an existing RF
 [Create a request for quotation](create-a-request-for-quotation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Activate an inventory transaction combination by site
 TOCTitle: (CHN) Activate an inventory transaction combination by site
 ms:assetid: 853a55fe-3ab3-4cc4-9866-197782e294c3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664073(v=AX.60)
 ms:contentKeyID: 49384657
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Activate an inventory transaction combination by site 
@@ -44,5 +46,5 @@ After you have set up these options in the **Transaction combinations** form, yo
 [(CHN) About posting inventory main accounts by site](chn-about-posting-inventory-main-accounts-by-site.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

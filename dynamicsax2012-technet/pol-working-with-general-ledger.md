@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Working with General ledger
 TOCTitle: (POL) Working with General ledger
 ms:assetid: d1bb23be-7725-489a-b4b7-ffe76596eae6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711289(v=AX.60)
 ms:contentKeyID: 49387107
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Working with General ledger 
@@ -18,5 +20,5 @@ This section provides information about working with the General ledger business
 [(POL) Process closing transactions overview](pol-process-closing-transactions-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

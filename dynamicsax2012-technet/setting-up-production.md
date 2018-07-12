@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up production
 TOCTitle: Setting up production
 ms:assetid: bdc6981a-6e9d-4ed9-bcaf-fb2d4d398ce2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213620(v=AX.60)
 ms:contentKeyID: 36059160
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up production 
@@ -34,5 +36,5 @@ The topics in this section provide information about how to prepare for producti
 [Delete production journals](delete-production-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

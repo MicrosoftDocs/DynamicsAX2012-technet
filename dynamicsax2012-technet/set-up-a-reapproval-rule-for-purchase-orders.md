@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a reapproval rule for purchase orders
 TOCTitle: Set up a reapproval rule for purchase orders
 ms:assetid: 8b28192a-2525-417d-8611-350a0c2ba2fd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683229(v=AX.60)
 ms:contentKeyID: 49684852
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a reapproval rule for purchase orders 
@@ -80,5 +82,5 @@ For more information about how to set up workflows in Procurement and sourcing, 
 [About purchasing policies](about-purchasing-policies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

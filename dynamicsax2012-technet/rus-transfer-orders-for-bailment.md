@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Transfer orders for bailment
 TOCTitle: (RUS) Transfer orders for bailment
 ms:assetid: e92e59c2-5601-45ea-9e62-59f354b296bb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733299(v=AX.60)
 ms:contentKeyID: 49685266
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Transfer orders for bailment 
@@ -24,5 +26,5 @@ Complete the following procedures when you transfer items to a bailee for storag
 [(RUS) Create and ship a transfer order for bailment](rus-create-and-ship-a-transfer-order-for-bailment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

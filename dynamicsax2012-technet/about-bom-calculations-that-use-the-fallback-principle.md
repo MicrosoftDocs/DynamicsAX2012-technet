@@ -1,4 +1,4 @@
-﻿---
+---
 title: About BOM calculations that use the fallback principle
 TOCTitle: About BOM calculations that use the fallback principle
 ms:assetid: 9c127b08-9328-4fd3-acfd-4dc4c6a77d8d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213366(v=AX.60)
 ms:contentKeyID: 36058725
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About BOM calculations that use the fallback principle 
@@ -28,5 +30,5 @@ Bill of materials (BOM) calculations that use cost records in a single, specifie
 [About BOM calculations](about-bom-calculations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

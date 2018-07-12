@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure a multilevel BOM item requiring production in multiple sites
 TOCTitle: Configure a multilevel BOM item requiring production in multiple sites
 ms:assetid: 5afc2c06-a820-4234-8bba-42026a8ebf87
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242488(v=AX.60)
 ms:contentKeyID: 36057355
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure a multilevel BOM item requiring production in multiple sites 
@@ -96,5 +98,5 @@ Use the **Product models** form to configure a multilevel BOM that requires prod
 [Product models (form)](https://technet.microsoft.com/en-us/library/aa572853\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

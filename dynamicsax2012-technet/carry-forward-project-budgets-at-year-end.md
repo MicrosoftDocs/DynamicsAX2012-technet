@@ -1,4 +1,4 @@
-﻿---
+---
 title: Carry forward project budgets at year-end
 TOCTitle: Carry forward project budgets at year-end
 ms:assetid: 34b063c6-b816-486f-8aa0-c4a7a6836c8e
@@ -14,6 +14,8 @@ f1_keywords:
 - carry forward
 - carry-forward
 - year-end
+audience: Application User
+ms.search.region: Global
 ---
 
 # Carry forward project budgets at year-end 
@@ -154,5 +156,5 @@ When you process your remaining budget amounts, you can decide whether you want 
 [Project budget carry-forward process (form)](https://technet.microsoft.com/en-us/library/hh242217\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

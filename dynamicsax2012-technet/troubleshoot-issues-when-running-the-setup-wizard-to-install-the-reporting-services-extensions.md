@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot issues when running the Setup wizard to install the Reporting Services extensions
 TOCTitle: Troubleshoot issues when running the Setup wizard to install the Reporting Services extensions
 ms:assetid: df0437d7-d50e-4acf-9354-e6c8f68af661
@@ -62,5 +62,5 @@ When the above conditions are true, the following error is displayed in the Dyna
 To resolve this issue, create a record in the **Report servers** form. For more information about how to use this form, see [Report servers (form)](https://technet.microsoft.com/en-us/library/aa548504\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

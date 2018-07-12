@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up posting
 TOCTitle: Setting up posting
 ms:assetid: 1f71c8f4-cd3f-4c2e-81ee-cec87240160a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - posting
 - posting setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up posting 
@@ -33,5 +35,5 @@ The following topics provide information about setting up posting.
 [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

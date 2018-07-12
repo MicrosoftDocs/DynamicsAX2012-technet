@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accessibility products and services from Microsoft
 TOCTitle: Accessibility products and services from Microsoft
 ms:assetid: ebb94edc-dd8d-4590-b323-514fd70cdf6c
@@ -8,6 +8,8 @@ ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
 - accessibility
+audience: Application User
+ms.search.region: Global
 ---
 
 # Accessibility products and services from Microsoft 
@@ -80,5 +82,5 @@ For more information about how accessible technology for computers helps improve
 [Accessibility features of Help](accessibility-features-of-help.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

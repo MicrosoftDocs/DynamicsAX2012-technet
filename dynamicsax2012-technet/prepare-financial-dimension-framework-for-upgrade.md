@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prepare financial dimension framework for upgrade
 TOCTitle: Prepare financial dimension framework for upgrade
 ms:assetid: d5fd4c31-fc51-49ea-8118-8e782c4bad98
@@ -75,5 +75,5 @@ Use the **Prepare financial dimension framework for upgrade** form to select the
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

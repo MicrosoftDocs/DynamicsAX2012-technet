@@ -1,4 +1,4 @@
-﻿---
+---
 title: Develop and establish agreements
 TOCTitle: Develop and establish agreements
 ms:assetid: 26759323-ccf3-43b9-b4d6-d88cebdc6e70
@@ -10,6 +10,8 @@ f1_keywords:
 - service
 - customer
 - agreements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Develop and establish agreements 
@@ -32,5 +34,5 @@ The topics in this section provide information about how to develop and establis
 [Copy service templates lines](copy-service-templates-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

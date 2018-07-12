@@ -1,4 +1,4 @@
-﻿---
+---
 title: Payment advice report (BankPaymAdviceCheque)
 TOCTitle: Payment advice report (BankPaymAdviceCheque)
 ms:assetid: 9a09b812-818c-4ddd-853d-b5f7f404657f
@@ -91,5 +91,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Add additional tables to advanced queries](add-additional-tables-to-advanced-queries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

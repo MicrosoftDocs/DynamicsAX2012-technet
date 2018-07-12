@@ -1,4 +1,4 @@
-﻿---
+---
 title: Invoice specification report (VendInvoiceSpec)
 TOCTitle: Invoice specification report (VendInvoiceSpec)
 ms:assetid: e75d39de-1d39-4fb1-8c53-9407736e17c4
@@ -116,5 +116,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Processing batch jobs](processing-batch-jobs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

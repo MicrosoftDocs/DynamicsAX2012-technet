@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Create and post free text invoices with delivery dates
 TOCTitle: (ESP) Create and post free text invoices with delivery dates
 ms:assetid: 8f67a255-8ff1-48f9-8219-972860e3ea20
@@ -12,6 +12,8 @@ f1_keywords:
 - delivery dates
 - post invoice
 - post free text invoice
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Create and post free text invoices with delivery dates 
@@ -50,5 +52,5 @@ Use the following procedure to create and post free text invoices with delivery 
 [(ESP) Free text invoice (modified form)](https://technet.microsoft.com/en-us/library/jj916229\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

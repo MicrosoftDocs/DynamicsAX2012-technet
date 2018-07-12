@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add or maintain employee contact information
 TOCTitle: Add or maintain employee contact information
 ms:assetid: ed892241-a270-408b-bfde-bcc6461e3f8f
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - LogisticsManageAddress
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add or maintain employee contact information 
@@ -64,5 +66,5 @@ If you are a manager, you can use the **View employee** page to update the conta
 6.  Click **Close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

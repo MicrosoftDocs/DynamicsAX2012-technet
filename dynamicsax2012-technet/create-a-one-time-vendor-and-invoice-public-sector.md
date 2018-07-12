@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a one-time vendor and invoice (Public sector)
 TOCTitle: Create a one-time vendor and invoice (Public sector)
 ms:assetid: c0b7d933-3c25-4d48-922d-bb83d3b3f62b
@@ -18,6 +18,8 @@ f1_keywords:
 - Forms.VendOneTimeVendInvoice_PSN
 - create vendor
 - one-time vendors
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Create a one-time vendor and invoice (Public sector) 
@@ -62,5 +64,5 @@ Use this procedure to quickly create an invoice for a one-time-only vendor and a
 [Key tasks: Vendor invoices](key-tasks-vendor-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

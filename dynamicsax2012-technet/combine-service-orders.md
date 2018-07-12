@@ -1,4 +1,4 @@
-﻿---
+---
 title: Combine service orders
 TOCTitle: Combine service orders
 ms:assetid: 2df4f81f-fa86-435c-97be-9ab7b10482aa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa552570(v=AX.60)
 ms:contentKeyID: 36056269
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Combine service orders 
@@ -100,5 +102,5 @@ Additional grouping of service order lines into service orders occurs according 
 [About time windows](about-time-windows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

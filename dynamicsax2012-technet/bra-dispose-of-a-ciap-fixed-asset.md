@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Dispose of a CIAP fixed asset
 TOCTitle: (BRA) Dispose of a CIAP fixed asset
 ms:assetid: 5188bb97-5736-4fab-af5e-7a41dc5c8d0c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305867(v=AX.60)
 ms:contentKeyID: 54912967
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Dispose of a CIAP fixed asset 
@@ -80,5 +82,5 @@ The disposal transaction for an asset in a low-value pool reduces the net book v
 6.  During the booking period process, the fiscal document that contains the CIAP information will record the disposal of the CIAP fixed asset and set the **Status** to **Closed**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

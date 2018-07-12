@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Set up a customer bank account for bank payments transfer
 TOCTitle: (LTU) Set up a customer bank account for bank payments transfer
 ms:assetid: 15ed786f-11da-434c-b869-aa05680ee61c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665024(v=AX.60)
 ms:contentKeyID: 49386605
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Set up a customer bank account for bank payments transfer 
@@ -68,5 +70,5 @@ You can set up bank account details for a customer using the **Customer bank acc
 [(EEUR) Customer bank accounts (modified form)](https://technet.microsoft.com/en-us/library/jj710670\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

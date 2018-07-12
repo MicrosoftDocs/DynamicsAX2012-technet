@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (RUS) Inventory balance turnover report'
 TOCTitle: (RUS) Inventory balance turnover report
 ms:assetid: e0e108fa-2f6d-4833-b70d-fae73a402b2c
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, the country-specific **Inventory balance turnover
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

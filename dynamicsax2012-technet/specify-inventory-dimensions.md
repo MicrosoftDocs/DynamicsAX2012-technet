@@ -1,4 +1,4 @@
-﻿---
+---
 title: Specify inventory dimensions
 TOCTitle: Specify inventory dimensions
 ms:assetid: 75ae5074-4a45-4bb5-845b-a8c4ac8705a9
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Inventory dimensions
 - specify inventry dimensions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Specify inventory dimensions 
@@ -23,5 +25,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 3.  Select the **Save setup** check box to save the setup per user.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

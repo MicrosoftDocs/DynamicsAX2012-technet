@@ -1,4 +1,4 @@
-﻿---
+---
 title: Record entry points in Microsoft Dynamics AX Enterprise Portal
 TOCTitle: Record entry points in Microsoft Dynamics AX Enterprise Portal
 ms:assetid: 6a91e783-5c82-4f17-a929-e67f8221869b
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/record-entry-points-in-microsoft-dynamics-ax-enterprise-portal) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

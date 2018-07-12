@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: DynamicsAXGeneralLedger class members'
 TOCTitle: DynamicsAXGeneralLedger class members
 ms:assetid: 34c49e16-6144-4ab4-b289-e84564714cfe
@@ -59,5 +59,5 @@ If these members are not replaced and are called on a AX 2012 installation, they
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

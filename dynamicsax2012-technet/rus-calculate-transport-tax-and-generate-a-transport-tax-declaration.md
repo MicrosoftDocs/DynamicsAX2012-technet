@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate transport tax and generate a transport tax declaration
 TOCTitle: (RUS) Calculate transport tax and generate a transport tax declaration
 ms:assetid: 47080df1-cf5b-4c04-9673-e27cecb415d9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665340(v=AX.60)
 ms:contentKeyID: 49387428
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate transport tax and generate a transport tax declaration 
@@ -44,5 +46,5 @@ Use the **Print transport tax declaration** form to generate a declaration of tr
 [(RUS) Create a transport tax declaration](rus-create-a-transport-tax-declaration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

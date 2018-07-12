@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update alternative quotations
 TOCTitle: Update alternative quotations
 ms:assetid: 8a3247db-d11e-4a0c-9afd-98a9ee5967e7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498240(v=AX.60)
 ms:contentKeyID: 36058465
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update alternative quotations 
@@ -28,5 +30,5 @@ Click **Accounts receivable** \> **Common** \> **Customers** \> **All customers*
 Click **Sales and marketing** \> **Common** \> **Sales quotations** \> **All quotations**. On the **Action Pane**, on the **General** tab, click **Alternative quotations**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

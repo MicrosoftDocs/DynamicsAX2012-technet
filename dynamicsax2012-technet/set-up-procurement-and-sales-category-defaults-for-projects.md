@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up procurement and sales category defaults for projects
 TOCTitle: Set up procurement and sales category defaults for projects
 ms:assetid: 07e1964b-1850-433d-aecb-eca62c9a8b0c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781064(v=AX.60)
 ms:contentKeyID: 43894461
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up procurement and sales category defaults for projects 
@@ -62,5 +64,5 @@ Use the following procedure to set up a default project category for a sales hie
 [Configuring category groups, categories, and cost templates](configuring-category-groups-categories-and-cost-templates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

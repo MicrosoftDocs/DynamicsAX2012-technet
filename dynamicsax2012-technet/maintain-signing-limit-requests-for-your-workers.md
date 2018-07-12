@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain signing limit requests for your workers
 TOCTitle: Maintain signing limit requests for your workers
 ms:assetid: 7a9ec1b3-0ce5-4696-932c-50232d0f4a73
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - HRPEditMyReportsLimits
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain signing limit requests for your workers 
@@ -80,5 +82,5 @@ You can revoke signing limits that you have already approved.
 [Create and maintain signing limit requests](create-and-maintain-signing-limit-requests.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

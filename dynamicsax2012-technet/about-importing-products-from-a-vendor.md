@@ -1,4 +1,4 @@
-﻿---
+---
 title: About importing products from a vendor
 TOCTitle: About importing products from a vendor
 ms:assetid: 5a0bc98c-6e42-4138-a470-6d8f6768d68b
@@ -11,6 +11,8 @@ f1_keywords:
 - vendors
 - products
 - product
+audience: Application User
+ms.search.region: Global
 ---
 
 # About importing products from a vendor 
@@ -105,5 +107,5 @@ After a CMR file has been submitted and imported, you can review the details of 
 [Imported vendor catalogs overview](imported-vendor-catalogs-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

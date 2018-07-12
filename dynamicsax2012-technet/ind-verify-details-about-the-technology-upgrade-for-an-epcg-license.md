@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Verify details about the technology upgrade for an EPCG license
 TOCTitle: (IND) Verify details about the technology upgrade for an EPCG license
 ms:assetid: 673c69ab-9bfd-490b-bf6c-2b2b55757799
@@ -11,6 +11,8 @@ f1_keywords:
 - india
 - technology upgrade
 - Verify technology upgrade
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Verify details about the technology upgrade for an EPCG license 
@@ -43,5 +45,5 @@ You can view details about the technology upgrade for a selected Export Promotio
 [(IND) Verify the block extension details](ind-verify-the-block-extension-details.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

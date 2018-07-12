@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up tax components for VAT
 TOCTitle: (IND) Set up tax components for VAT
 ms:assetid: 67259b6a-661c-4048-b86d-76ccd8201743
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677878(v=AX.60)
 ms:contentKeyID: 49385842
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up tax components for VAT 
@@ -52,5 +54,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(IND) Tax setoff rule (form)](https://technet.microsoft.com/en-us/library/jj677818\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

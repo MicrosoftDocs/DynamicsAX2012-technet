@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Configure parameters for time management
 TOCTitle: (RUS) Configure parameters for time management
 ms:assetid: 2e0d0002-c1b5-465a-93c1-7363f452aafc
@@ -27,6 +27,8 @@ f1_keywords:
 - MsDynAx060.Forms.RPayTblParameters
 - MsDynAx060.Forms.RPayHolidays
 - MsDynAx060.Forms.RPayTimeGroupTable
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Configure parameters for time management 
@@ -408,5 +410,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

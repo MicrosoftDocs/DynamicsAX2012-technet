@@ -1,4 +1,4 @@
-﻿---
+---
 title: About delivery schedules
 TOCTitle: About delivery schedules
 ms:assetid: 707ed6e5-2f41-47ae-bf57-95d241cfc2e5
@@ -16,6 +16,8 @@ f1_keywords:
 - track deliveries
 - schedule deliveries
 - delivery schedules
+audience: Application User
+ms.search.region: Global
 ---
 
 # About delivery schedules 
@@ -81,5 +83,5 @@ When you confirm a sales quotation, the whole delivery schedule – including th
 [About quotation delivery schedules](about-quotation-delivery-schedules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Collections and credit in Accounts receivable
 TOCTitle: Collections and credit in Accounts receivable
 ms:assetid: 72ec4090-d516-4a47-b9ac-7f5ece30351c
@@ -20,6 +20,8 @@ f1_keywords:
 - debt
 - non-sufficient
 - NSF
+audience: Application User
+ms.search.region: Global
 ---
 
 # Collections and credit in Accounts receivable 
@@ -142,5 +144,5 @@ You can process NSF payments by clicking **NSF payment** in the **Collections** 
 For more information, see [Set up collections](set-up-collections.md), [Key tasks: Collections](key-tasks-collections.md), and [Collections (form)](https://technet.microsoft.com/en-us/library/hh209726\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up retail channels
 TOCTitle: Setting up retail channels
 ms:assetid: b5ba22ac-9d5e-44d9-887c-f9a810bdc120
@@ -10,6 +10,8 @@ f1_keywords:
 - channels
 - channel
 - retail
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up retail channels 
@@ -26,5 +28,5 @@ The topics in this section provide information about how to set up **Retail** ch
 [(USA) Setting up online marketplaces](usa-setting-up-online-marketplaces.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

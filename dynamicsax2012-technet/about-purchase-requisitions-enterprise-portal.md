@@ -1,4 +1,4 @@
-﻿---
+---
 title: About purchase requisitions (Enterprise Portal)
 TOCTitle: About purchase requisitions
 ms:assetid: 5a3aefec-f67b-4d13-8d79-92ea7b7c94b0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271540(v=AX.60)
 ms:contentKeyID: 36384172
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About purchase requisitions (Enterprise Portal) 
@@ -80,5 +82,5 @@ To use purchase requisitions that have a purpose of replenishment, Microsoft Dyn
 [Check out products and create a purchase requisition](check-out-products-and-create-a-purchase-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

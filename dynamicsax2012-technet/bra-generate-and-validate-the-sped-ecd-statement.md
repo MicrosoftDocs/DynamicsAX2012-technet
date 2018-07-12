@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Generate and validate the SPED ECD statement
 TOCTitle: (BRA) Generate and validate the SPED ECD statement
 ms:assetid: 8d84db97-4bf2-4e79-bef6-2c6c4b47c1d7
@@ -8,6 +8,8 @@ ms.date: 05/07/2014
 mtps_version: v=AX.60
 f1_keywords:
 - forms.SysOperationTemplateForm
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Generate and validate the SPED ECD statement 
@@ -88,5 +90,5 @@ To generate and validate the text file for the SPED ECD statement, follow these 
 14. Click **OK** to validate the SPED ECD file.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

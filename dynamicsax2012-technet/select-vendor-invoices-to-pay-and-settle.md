@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select vendor invoices to pay and settle
 TOCTitle: Select vendor invoices to pay and settle
 ms:assetid: 57474fe8-3e55-4eeb-865d-2eb22e180f65
@@ -17,6 +17,8 @@ f1_keywords:
 - proposal
 - proposals
 - vendor invoices
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select vendor invoices to pay and settle 
@@ -41,5 +43,5 @@ The following topics provide information about selecting vendor invoices to pay.
 [(NOR) Create a vendor payment proposal and transfer an electronic payment](nor-create-a-vendor-payment-proposal-and-transfer-an-electronic-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

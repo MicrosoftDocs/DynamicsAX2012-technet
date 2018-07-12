@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Real-time Service profiles (Retail essentials)
 TOCTitle: Set up Real-time Service profiles (Retail essentials)
 ms:assetid: 7daad3c2-0d6c-418a-a9d8-f811def67a56
@@ -83,5 +83,5 @@ For more information about how to set up a retail store, see [Set up a retail st
 [Set up registers (Retail essentials)](set-up-registers-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

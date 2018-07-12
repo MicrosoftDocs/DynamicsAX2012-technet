@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Retail POS
 TOCTitle: Install Retail POS
 ms:assetid: c95dfdc6-6136-48cc-9dc7-1c4f199f54d9
@@ -76,5 +76,5 @@ Use this procedure to install Retail POS. If you install other Microsoft Dynamic
 3.  Configure Retail POS for your business. For more information, see [Point of Sale](point-of-sale.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

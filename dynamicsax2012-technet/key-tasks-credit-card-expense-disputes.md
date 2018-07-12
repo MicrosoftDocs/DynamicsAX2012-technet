@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Credit card expense disputes'
 TOCTitle: 'Key tasks: Credit card expense disputes'
 ms:assetid: b3f1d573-bbc5-441a-ac27-1d431b9bd90b
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - TrvDisputesWorkerListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Credit card expense disputes 
@@ -119,5 +121,5 @@ You can modify the information in a credit card expense dispute or add additiona
 Back to top
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

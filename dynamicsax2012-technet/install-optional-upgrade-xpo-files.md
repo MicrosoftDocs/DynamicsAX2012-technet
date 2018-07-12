@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install optional upgrade XPO files
 TOCTitle: Install optional upgrade XPO files
 ms:assetid: 1f18c5d6-dddd-449b-8c11-f2cb8cf6fdfa
@@ -229,5 +229,5 @@ XPO files that are related to batch processing are included in the DatabaseUpgra
 These XPO files roll back any customizations that you have made to the batch processing class on your source Microsoft Dynamics AX system. To minimize downtime during data preprocessing, we recommend that you import the appropriate XPO file for your system.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

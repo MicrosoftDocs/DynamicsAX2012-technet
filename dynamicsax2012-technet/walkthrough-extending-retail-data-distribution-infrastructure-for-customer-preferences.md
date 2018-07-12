@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Extending retail data distribution infrastructure for customer preferences'
 TOCTitle: 'Walkthrough: Extending retail data distribution'
 ms:assetid: 9fac92a4-4ad9-47ca-aa25-ae0c95860495
@@ -161,5 +161,5 @@ Next, you create a subjob of the CustTable job to move data in the new table to 
 3.  Accept the defaults and then click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

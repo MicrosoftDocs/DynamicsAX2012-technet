@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Add media and discounts to a campaign
 TOCTitle: (USA) Add media and discounts to a campaign
 ms:assetid: 8fc7b9f0-f2e5-4b8c-93dc-eb7d2b1c9493
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh803009(v=AX.60)
 ms:contentKeyID: 44081007
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Add media and discounts to a campaign 
@@ -56,5 +58,5 @@ Before you can publish discounts to online media, such as Facebook and Twitter, 
 [(USA) About adding retail online discounts to a campaign](usa-about-adding-retail-online-discounts-to-a-campaign.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Implementing the Budget Control Framework (White paper)
 TOCTitle: Implementing the Budget Control Framework
 ms:assetid: 4c6c08e5-7303-4aba-b51d-baf0b9d9daf4
@@ -18,5 +18,5 @@ This paper describes the budget control framework that was added to Microsoft Dy
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213130).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About Correspondence
 TOCTitle: (RUS) About Correspondence
 ms:assetid: 9a9f73ab-4f91-4867-8cc2-e5e1b899e9ec
@@ -10,6 +10,8 @@ f1_keywords:
 - Russia
 - correspondence
 - corresponding accounts
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About Correspondence 
@@ -84,5 +86,5 @@ If non-corresponding accounts already exist before the account correspondence me
 [(RUS) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923603\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

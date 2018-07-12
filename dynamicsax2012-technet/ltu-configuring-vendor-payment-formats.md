@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Configuring vendor payment formats
 TOCTitle: (LTU) Configuring vendor payment formats
 ms:assetid: 5a6b79fb-f058-4b89-aa3b-ef726bcb6228
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665096(v=AX.60)
 ms:contentKeyID: 49386677
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Configuring vendor payment formats 
@@ -20,5 +22,5 @@ The following topics provide information about configuring vendor payment format
 [(LTU) Set up the export format for a foreign vendor payment transfer](ltu-set-up-the-export-format-for-a-foreign-vendor-payment-transfer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Creating a cube'
 TOCTitle: 'Walkthrough: Creating a cube'
 ms:assetid: dfe52292-1b9b-4374-a78c-27f89f49707c
@@ -38,7 +38,7 @@ In this walkthrough you will create an analysis cube called Sales analysis that 
 <p>Browse cube data</p></td>
 <td><img src="images/Cc617589.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
 <p><a href="http://www.youtube.com/watch?v=latzrx75_94%26list=uufgiuxwmd1za11nb8fgvwpw%26index=8">How to create a cube in Microsoft Dynamics AX 2012 (video)</a></p>
-<p><a href="http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=analytics+cube+analysis+services+olap%26dref=nonreference_onlynonrefs%26pesn=2%26sorh=30%26savn=hide%26orgi=wsc1%26bngi=t">Related articles (search)</a></p></td>
+</td>
 </tr>
 </tbody>
 </table>

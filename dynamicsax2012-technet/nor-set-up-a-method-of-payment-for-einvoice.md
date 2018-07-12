@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Set up a method of payment for eInvoice
 TOCTitle: (NOR) Set up a method of payment for eInvoice
 ms:assetid: 92218cf3-241e-452e-be59-7fc13e76c5a4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232177(v=AX.60)
 ms:contentKeyID: 36058569
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Set up a method of payment for eInvoice 
@@ -30,5 +32,5 @@ Only customers who have been approved by the company for the eInvoice service ca
 6.  Close the form to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

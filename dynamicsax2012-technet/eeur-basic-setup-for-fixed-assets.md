@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Basic setup for fixed assets
 TOCTitle: (EEUR) Basic setup for fixed assets
 ms:assetid: 66f47bc5-3a54-4380-ae12-ab2478200189
@@ -10,6 +10,8 @@ f1_keywords:
 - fixed assets
 - basic setup
 - basic setup for fixed assets
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Basic setup for fixed assets 
@@ -22,5 +24,5 @@ The topic in this section provides information about the basic setup for fixed a
 [(EEUR) Set up value models](eeur-set-up-value-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

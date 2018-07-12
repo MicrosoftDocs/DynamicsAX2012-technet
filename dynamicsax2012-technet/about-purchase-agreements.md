@@ -1,4 +1,4 @@
-﻿---
+---
 title: About purchase agreements
 TOCTitle: About purchase agreements
 ms:assetid: 647d630a-06bb-4116-b86f-a79b992e5df8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - purchase agreement
 - purchase agreements
+audience: Application User
+ms.search.region: Global
 ---
 
 # About purchase agreements 
@@ -184,5 +186,5 @@ You can copy financial dimensions to document headers or to individual lines of 
 [Print the status of a purchase agreement](print-the-status-of-a-purchase-agreement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

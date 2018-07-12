@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate TCS for returned item invoices or credit notes
 TOCTitle: (IND) Calculate TCS for returned item invoices or credit notes
 ms:assetid: 4ae20fbe-d383-4fb4-9df5-09204f8b708b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664675(v=AX.60)
 ms:contentKeyID: 49385748
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate TCS for returned item invoices or credit notes 
@@ -30,5 +32,5 @@ If the returned item invoice or credit note is posted for a partial quantity, th
 [(IND) Maintain TCS transactions for Accounts receivable](ind-maintain-tcs-transactions-for-accounts-receivable.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About shipping documents
 TOCTitle: About shipping documents
 ms:assetid: bff50ca7-853b-4909-8829-b0f1dbb17b90
@@ -10,6 +10,8 @@ f1_keywords:
 - transportation
 - bill of lading
 - receipt for goods
+audience: Application User
+ms.search.region: Global
 ---
 
 # About shipping documents 
@@ -40,5 +42,5 @@ Shipping documents for sales orders and transfer orders can be created in batch.
 [About shipments](about-shipments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

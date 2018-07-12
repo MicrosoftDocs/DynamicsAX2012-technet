@@ -1,4 +1,4 @@
-﻿---
+---
 title: Find support for Microsoft Dynamics AX and Microsoft Dynamics Lifecycle Services
 TOCTitle: Find support
 ms:assetid: f14f0ff8-d798-4cd0-a730-0a09957fdd25
@@ -124,5 +124,5 @@ To obtain support for Azure, use the resources listed in the following table.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

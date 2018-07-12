@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) CFOP code (upgrade)
 TOCTitle: (BRA) CFOP code (upgrade)
 ms:assetid: 81bb969d-d11d-4421-bec1-1581ad227339
@@ -106,5 +106,5 @@ Use the following procedure to select unique CFOP codes to upgrade when multiple
 [(BRA) CFOP code (upgrade) (form)](https://technet.microsoft.com/en-us/library/jj713620\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

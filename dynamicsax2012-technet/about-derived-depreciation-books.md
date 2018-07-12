@@ -1,4 +1,4 @@
-﻿---
+---
 title: About derived depreciation books
 TOCTitle: About derived depreciation books
 ms:assetid: 28f9a89b-f928-4ae2-9452-d390bea9eb10
@@ -11,6 +11,8 @@ f1_keywords:
 - derived depreciation
 - fixed asset depreciation
 - fixed asset derived depreciation
+audience: Application User
+ms.search.region: Global
 ---
 
 # About derived depreciation books 
@@ -37,5 +39,5 @@ When you prepare the transactions of the value model for posting in the fixed as
 [Set up asset depreciation books](set-up-asset-depreciation-books.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Insert a Switch node
 TOCTitle: Insert a Switch node
 ms:assetid: a227c9d5-6d6c-48f6-b8e4-ac3a54c30eb2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571824(v=AX.60)
 ms:contentKeyID: 36058794
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Insert a Switch node 
@@ -60,5 +62,5 @@ Insert a switch node as follows:
 13. Define the actions that will be performed by each node and subnode until your Switch node is complete.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Assign workers to projects based on availability'
 TOCTitle: 'Key tasks: Assign workers to projects based on availability'
 ms:assetid: 4e390353-cec1-4cd3-b1d1-de67f216adef
@@ -17,6 +17,8 @@ f1_keywords:
 - soft commitments
 - worker assignment
 - worker skills
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Assign workers to projects based on availability 
@@ -412,5 +414,5 @@ Back to top
 [Microsoft Dynamics AX 2012 R2 – Resource scheduling in Project management and accounting](http://go.microsoft.com/fwlink/?linkid=268038%26amp%3bclcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

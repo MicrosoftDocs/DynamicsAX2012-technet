@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a configuration project by copying another project in RapidStart Services
 TOCTitle: Create a configuration project by copying another project in RapidStart Services
 ms:assetid: 585003cb-c725-4261-b22c-52e1053d3ec8
@@ -74,5 +74,5 @@ After the new project has been created, you can access the project from the list
 [Load configuration data into a Microsoft Dynamics ERP implementation from Microsoft Dynamics ERP RapidStart Services](load-configuration-data-into-a-microsoft-dynamics-erp-implementation-from-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

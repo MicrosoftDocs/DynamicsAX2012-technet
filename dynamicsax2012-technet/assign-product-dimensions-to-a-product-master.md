@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign product dimensions to a product master
 TOCTitle: Assign product dimensions to a product master
 ms:assetid: fca8322c-a4e5-4f06-857f-8330aa319ad4
@@ -10,6 +10,8 @@ f1_keywords:
 - product dimension
 - assign product dimension groups
 - product dimension group
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign product dimensions to a product master 
@@ -52,5 +54,5 @@ Product dimensions are assigned to product masters. The product dimension group 
 [About inventory dimensions and dimension groups](about-inventory-dimensions-and-dimension-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

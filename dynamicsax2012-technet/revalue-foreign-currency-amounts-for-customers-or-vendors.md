@@ -1,4 +1,4 @@
-﻿---
+---
 title: Revalue foreign currency amounts for customers or vendors
 TOCTitle: Revalue foreign currency amounts for customers or vendors
 ms:assetid: 580d037b-650b-4c5f-84f6-a6193cc907bd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549065(v=AX.60)
 ms:contentKeyID: 36057338
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Revalue foreign currency amounts for customers or vendors 
@@ -70,5 +72,5 @@ Before you revalue foreign currency amounts, you must set up profit and loss led
 [Vendor foreign currency revaluation periodic job (class form)](https://technet.microsoft.com/en-us/library/aa554435\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

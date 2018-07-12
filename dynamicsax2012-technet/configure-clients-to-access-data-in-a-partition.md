@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure clients to access data in a partition
 TOCTitle: Configure clients to access data in a partition
 ms:assetid: 084c6e0f-d9e5-4b2c-872f-8e2b2c3867bb
@@ -64,5 +64,5 @@ You can also configure clients to access data in a specific partition by adding 
 5.  Repeat this procedure to create shortcuts to different partitions.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

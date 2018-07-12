@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up connection profiles
 TOCTitle: Set up connection profiles
 ms:assetid: 2f488c2d-8294-4869-ac78-5321b488419a
@@ -32,5 +32,5 @@ The following topics are included in this section:
 [Set up a store database profile](set-up-a-store-database-profile.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

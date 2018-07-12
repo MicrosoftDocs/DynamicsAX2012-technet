@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create, copy, or delete an opportunity
 TOCTitle: Create, copy, or delete an opportunity
 ms:assetid: e24c4bd8-d050-4aca-b2d4-cc0fc430b683
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243212(v=AX.60)
 ms:contentKeyID: 36059718
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create, copy, or delete an opportunity 
@@ -64,5 +66,5 @@ After you qualify a lead record, you can create an opportunity record that conta
 [Opportunity management](opportunity-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

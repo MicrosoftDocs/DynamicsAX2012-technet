@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country/Region Context"
 TOCTitle: Country/Region Context
 ms:assetid: bcee3a7e-d50a-4d34-8460-2f2d69665367
@@ -92,5 +92,5 @@ The way that country/region-specific features are enabled and displayed has chan
 For more information about the deprecation of the country/region configuration keys, see [Deprecated: Country/region configuration keys](deprecated-country-region-configuration-keys.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

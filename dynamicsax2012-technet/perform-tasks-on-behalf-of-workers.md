@@ -1,4 +1,4 @@
-﻿---
+---
 title: Perform tasks on behalf of workers
 TOCTitle: Perform tasks on behalf of workers
 ms:assetid: 0c61f606-463e-49b8-aa86-248e55de861a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569751(v=AX.60)
 ms:contentKeyID: 36055995
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Perform tasks on behalf of workers 
@@ -24,5 +26,5 @@ The following topics provide information about various tasks used to facilitate 
 [Second workers to another group](second-workers-to-another-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

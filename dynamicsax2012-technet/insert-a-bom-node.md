@@ -1,4 +1,4 @@
-﻿---
+---
 title: Insert a BOM node
 TOCTitle: Insert a BOM node
 ms:assetid: fe8135aa-3b35-4315-bbb6-a7ceb4cedc34
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573446(v=AX.60)
 ms:contentKeyID: 36060118
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Insert a BOM node 
@@ -42,5 +44,5 @@ The bill of materials (BOM) node is useful for adding individual BOM lines to a 
 8.  Complete the rest of the fields in the **BOM line** form. For their descriptions, see [BOM (form)](https://technet.microsoft.com/en-us/library/aa587282\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

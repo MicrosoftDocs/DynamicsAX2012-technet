@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a currency code
 TOCTitle: Create a currency code
 ms:assetid: a7092da3-b60a-40f4-ba8e-45e09c9bd377
@@ -11,6 +11,8 @@ f1_keywords:
 - currency
 - currency setup
 - set up a currency
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a currency code 
@@ -49,5 +51,5 @@ Many currency codes are already set up, based on the International Organization 
 13. Click the **External codes** button to define and maintain external codes for different fields that are used to send and receive documents electronically through Application Integration Framework (AIF).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

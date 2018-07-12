@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Commerce Services'
 TOCTitle: Commerce Services
 ms:assetid: a606564e-97e8-4b71-a86d-4af4a6194467
@@ -63,5 +63,5 @@ Commerce Services for Microsoft Dynamics ERP is an online service that lets you 
 [Architecture of the Microsoft Dynamics AX Retail online store](architecture-of-the-microsoft-dynamics-ax-retail-online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a request for quotation
 TOCTitle: Create a request for quotation
 ms:assetid: 904b96bd-f35c-4278-8fc3-1bd957c94f4a
@@ -24,6 +24,8 @@ f1_keywords:
 - MsDynAx060.Forms.PurchRFQCaseTable
 - MsDynAx060.Forms.PurchRFQReplyFields
 - MsDynAx060.Forms.PurchRFQCaseTableListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a request for quotation 
@@ -340,5 +342,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

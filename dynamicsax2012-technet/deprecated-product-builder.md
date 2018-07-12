@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Product builder'
 TOCTitle: Product builder
 ms:assetid: e30e2377-f85d-4703-9398-f382ebd87629
@@ -57,5 +57,5 @@ In Microsoft Dynamics AX 2009, users can use Product builder to create product m
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

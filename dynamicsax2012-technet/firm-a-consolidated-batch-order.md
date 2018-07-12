@@ -1,4 +1,4 @@
-﻿---
+---
 title: Firm a consolidated batch order
 TOCTitle: Firm a consolidated batch order
 ms:assetid: 52f2c77b-e9bc-46f0-b8ac-8da1a7518675
@@ -11,6 +11,8 @@ f1_keywords:
 - firm consolidated batch orders
 - firm planned batch orders
 - firm planned consolidated batch orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Firm a consolidated batch order 
@@ -51,5 +53,5 @@ Use this procedure to firm a consolidated batch order. A consolidated order is a
 [Planned orders (form)](https://technet.microsoft.com/en-us/library/aa620351\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

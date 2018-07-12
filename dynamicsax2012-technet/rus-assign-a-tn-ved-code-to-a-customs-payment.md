@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Assign a TN VED code to a customs payment
 TOCTitle: (RUS) Assign a TN VED code to a customs payment
 ms:assetid: a8aa6c88-c5f6-4231-b2da-6d9adaa184ae
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733266(v=AX.60)
 ms:contentKeyID: 49685233
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Assign a TN VED code to a customs payment 
@@ -42,5 +44,5 @@ Use the **TN VED code relation with customs payment** form to assign a Commoditi
 [(RUS) TN VED code relation with customs payment (form)](https://technet.microsoft.com/en-us/library/jj711418\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

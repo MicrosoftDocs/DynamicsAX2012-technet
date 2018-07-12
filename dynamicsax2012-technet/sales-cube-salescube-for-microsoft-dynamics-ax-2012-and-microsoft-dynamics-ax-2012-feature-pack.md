@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sales cube (SalesCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Sales cube (SalesCube)
 ms:assetid: 5dd56146-0d2a-4e94-a2a7-39495a7e4418
@@ -869,5 +869,5 @@ The Sales cube can be accessed by users assigned to the following Microsoft SQL 
   - Sales manager
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

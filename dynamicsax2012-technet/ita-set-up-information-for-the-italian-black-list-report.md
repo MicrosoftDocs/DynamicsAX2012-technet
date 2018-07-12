@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Set up information for the "Italian black list" report
 TOCTitle: (ITA) Set up information for the "Italian black list" report
 ms:assetid: 889bc090-e652-4bf7-8108-d8d604953641
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209341(v=AX.60)
 ms:contentKeyID: 36058452
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Set up information for the \"Italian black list\" report 
@@ -176,5 +178,5 @@ Use the **Sales tax codes** form to set up the type of tax to be calculated for 
 [Address setup (form)](https://technet.microsoft.com/en-us/library/hh209301\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

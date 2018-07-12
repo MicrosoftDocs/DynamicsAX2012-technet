@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage store inventory overview
 TOCTitle: Manage store inventory overview
 ms:assetid: 27d52a2d-6b4f-43ee-af00-b0d1ff3bc6e8
@@ -11,6 +11,8 @@ f1_keywords:
 - overview
 - store
 - inventory
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage store inventory overview 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to work with inventory 
 [Post completed store inventory documents](post-completed-store-inventory-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

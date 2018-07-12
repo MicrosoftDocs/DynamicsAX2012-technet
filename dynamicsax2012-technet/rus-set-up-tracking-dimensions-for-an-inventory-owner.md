@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up tracking dimensions for an inventory owner
 TOCTitle: (RUS) Set up tracking dimensions for an inventory owner
 ms:assetid: e8ad758a-6bee-402e-b0a4-9e1b28b587e5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733400(v=AX.60)
 ms:contentKeyID: 49685267
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up tracking dimensions for an inventory owner 
@@ -38,5 +40,5 @@ Use the **Tracking dimension groups** form to set up tracking dimensions for the
 [(RUS) Tracking dimension groups (modified form)](https://technet.microsoft.com/en-us/library/jj733232\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

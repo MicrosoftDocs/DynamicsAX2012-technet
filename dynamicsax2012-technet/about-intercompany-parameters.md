@@ -1,4 +1,4 @@
-﻿---
+---
 title: About intercompany parameters
 TOCTitle: About intercompany parameters
 ms:assetid: fec3c9a1-0cc0-430b-b3a1-69ba9db3e79f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573449(v=AX.60)
 ms:contentKeyID: 36060125
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About intercompany parameters 
@@ -200,5 +202,5 @@ In the **Intercompany sales order -\> Intercompany purchase order** field group,
 [Intercompany setup (form)](https://technet.microsoft.com/en-us/library/hh781085\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

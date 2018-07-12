@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure a manual task
 TOCTitle: Configure a manual task
 ms:assetid: 1798c3e0-9c83-49a1-b2dd-2a23fb77d88c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309606(v=AX.60)
 ms:contentKeyID: 35132560
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure a manual task 
@@ -492,5 +494,5 @@ Follow these steps to specify whether users can act on the manual task from the 
 3.  To prevent users from acting on the task from the **Work list** Web part in Enterprise Portal, clear the **Enable actions from the work list in Enterprise Portal** check box.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

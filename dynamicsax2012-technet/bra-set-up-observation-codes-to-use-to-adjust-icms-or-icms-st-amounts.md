@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up observation codes to use to adjust ICMS or ICMS-ST amounts
 TOCTitle: (BRA) Set up observation codes to use to adjust ICMS or ICMS-ST amounts
 ms:assetid: 1051f2b1-6b91-4a46-879d-f90daae07b9b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.FBObservationCodeTable_BR
 - MsDynAx060.Forms.FBObservationCodeTable_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up observation codes to use to adjust ICMS or ICMS-ST amounts 
@@ -35,5 +37,5 @@ When you adjust Imposto sobre Circulação de Mercadorias e Serviços (ICMS) or 
 4.  To enter another observation code, click **New**, and then repeat steps 2 and 3.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

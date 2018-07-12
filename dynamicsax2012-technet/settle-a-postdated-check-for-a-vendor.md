@@ -1,4 +1,4 @@
-﻿---
+---
 title: Settle a postdated check for a vendor
 TOCTitle: Settle a postdated check for a vendor
 ms:assetid: c720938a-31cb-426e-a309-bcabcee3b819
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - settle
 - postdated check
+audience: Application User
+ms.search.region: Global
 ---
 
 # Settle a postdated check for a vendor 
@@ -31,5 +33,5 @@ Use the **Vendor postdated checks** form to settle postdated checks received fro
 [Vendor postdated checks (form)](https://technet.microsoft.com/en-us/library/hh242868\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Export an Intrastat report in the XML format
 TOCTitle: (LTU) Export an Intrastat report in the XML format
 ms:assetid: 7d11cd47-69be-446a-8427-776ef0a1b504
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665127(v=AX.60)
 ms:contentKeyID: 49386708
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Export an Intrastat report in the XML format 
@@ -40,5 +42,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 5.  Enter the required details, and then click **OK** to generate the Intrastat report and close the **Intrastat report** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

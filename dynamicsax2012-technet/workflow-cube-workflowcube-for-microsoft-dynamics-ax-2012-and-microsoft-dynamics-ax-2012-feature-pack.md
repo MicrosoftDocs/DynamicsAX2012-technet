@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow cube (WorkflowCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Workflow cube (WorkflowCube)
 ms:assetid: 05464503-9af8-4593-b61f-5de15e57b35e
@@ -228,5 +228,5 @@ The Workflow cube can be accessed by users assigned to the following Microsoft S
   - Vendor account manager
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

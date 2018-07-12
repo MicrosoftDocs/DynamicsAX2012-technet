@@ -1,4 +1,4 @@
-﻿---
+---
 title: Services and Application Integration Framework (AIF)
 TOCTitle: Services and Application Integration Framework (AIF)
 ms:assetid: 5e350529-8fca-4faa-b820-4db3348233b0
@@ -18,8 +18,7 @@ Microsoft Dynamics AX Application Integration Framework (AIF) enables companies 
 This information is for IT staff and administrators who are responsible for installing, configuring, and troubleshooting AIF integrations with external systems. The topics in this section provide information about services and AIF.
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
 

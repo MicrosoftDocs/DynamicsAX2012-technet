@@ -1,4 +1,4 @@
-﻿---
+---
 title: About using tracing for master plans
 TOCTitle: About using tracing for master plans
 ms:assetid: e2858109-05cd-4818-b794-ec690165983a
@@ -10,6 +10,8 @@ f1_keywords:
 - log
 - plan
 - schedul
+audience: Application User
+ms.search.region: Global
 ---
 
 # About using tracing for master plans 
@@ -46,5 +48,5 @@ Event IDs 107 (ReqExplanation) and 108 (ReqExplanationDetails) are specific to t
 [About action messages](about-action-messages.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

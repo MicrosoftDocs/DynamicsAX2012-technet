@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: TAPI integration'
 TOCTitle: TAPI integration
 ms:assetid: 22a0d6b5-598c-4476-b2d4-4f2428f521e9
@@ -53,5 +53,5 @@ In Microsoft Dynamics AX, the **Sales and marketing** module, which is also know
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

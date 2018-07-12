@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Microsoft Business Solutions Perimeter Network Configuration Wizard'
 TOCTitle: Microsoft Business Solutions Perimeter Network Configuration Wizard
 ms:assetid: 5a060d70-5221-4b05-9b4d-f33f17754107
@@ -54,5 +54,5 @@ The Microsoft Dynamics AX 2009 installation CD includes the Microsoft Business S
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

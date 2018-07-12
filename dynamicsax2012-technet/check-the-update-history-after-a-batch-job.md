@@ -1,4 +1,4 @@
-﻿---
+---
 title: Check the update history after a batch job
 TOCTitle: Check the update history after a batch job
 ms:assetid: 4f3f20cd-0d84-45e9-b18d-88b3839c1181
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497127(v=AX.60)
 ms:contentKeyID: 36057212
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Check the update history after a batch job 
@@ -42,5 +44,5 @@ You can check the update history for sales orders after you have run a batch job
 [Delete the update history of purchase or sales orders](delete-the-update-history-of-purchase-or-sales-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

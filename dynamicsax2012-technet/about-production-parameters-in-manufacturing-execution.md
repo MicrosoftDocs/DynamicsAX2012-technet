@@ -1,4 +1,4 @@
-﻿---
+---
 title: About production parameters in Manufacturing execution
 TOCTitle: About production parameters in Manufacturing execution
 ms:assetid: 3a93e761-7fa5-47b3-8887-91a23e191eff
@@ -10,6 +10,8 @@ f1_keywords:
 - parameters
 - production
 - manufacturing execution
+audience: Application User
+ms.search.region: Global
 ---
 
 # About production parameters in Manufacturing execution 
@@ -346,5 +348,5 @@ The following settings can be used if materials should always be deducted from i
 [Create route groups](create-route-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

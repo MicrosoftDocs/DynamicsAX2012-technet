@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set a preferred time zone
 TOCTitle: Set a preferred time zone
 ms:assetid: f12c3cd8-192f-40a6-9177-bd7774c8beec
@@ -10,6 +10,8 @@ f1_keywords:
 - select a time zone
 - Timezone
 - Time Zone
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set a preferred time zone 
@@ -40,5 +42,5 @@ Your preferred time zone is used only when displaying dates and times. Date and 
 [About date/time data and time zones](about-date-time-data-and-time-zones.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 
