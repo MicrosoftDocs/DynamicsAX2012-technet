@@ -17,6 +17,7 @@ In Microsoft Dynamics AX 2009, the administrative tool named **Microsoft Dynamic
 
 Any legacy X++ select statements that include the index hint clause still run fine in Microsoft Dynamics AX 2012. But due to the default value of **False**, the index hint clause is now *ignored*, such as in the following code example:
 
+```X++
     static void Main(Args _args)    // X++
     {
         CustTable custTableBuffer;
@@ -36,7 +37,7 @@ Any legacy X++ select statements that include the index hint clause still run fi
     
         Global::info(CustTableBuffer.getSQLStatement());
     }
-    
+
     
     /*****
     The following is output pasted from the Infolog window, with
@@ -58,6 +59,7 @@ Any legacy X++ select statements that include the index hint clause still run fi
           (MAINCONTACTWORKER=0)
         )
     *****/
+```    
 
 ## Overview
 

@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# StorageException Constructor (String, String, Object )
+# StorageException Constructor (String, String, Object[])
 
 Initializes a new instance of the [StorageException](storageexception-class-microsoft-dynamics-commerce-runtime.md) class.
 

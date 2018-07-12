@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# TraceEvent Method (TraceEventCache, String, TraceEventType, Int32, String, Object )
+# TraceEvent Method (TraceEventCache, String, TraceEventType, Int32, String, Object[])
 
 Writes trace information, a message, and event information to the listener specific output.
 

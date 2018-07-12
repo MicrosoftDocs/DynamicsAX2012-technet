@@ -109,8 +109,10 @@ Document service operations may take one or more of the following objects as a p
 
 To see how service operations work, consider the CustCustomerService class. The following example shows the signature for the create method for the customer service,which is exposed as the create service operation:
 
-    [AifDocumentCreateAttribute, SysEntryPointAttribute(true)]
-    public AifEntityKeyList create(CustCustomer _custCustomer)
+   ```X++
+   [AifDocumentCreateAttribute, SysEntryPointAttribute(true)]
+   public AifEntityKeyList create(CustCustomer _custCustomer)
+   ```
 
 This method takes a CustCustomer parameter which is an object that contains the customer data. The return value is an AifEntityKeyList object that contains the IDs for the customers who were created. For more information, see [About Document Service Classes](about-document-service-classes.md).
 

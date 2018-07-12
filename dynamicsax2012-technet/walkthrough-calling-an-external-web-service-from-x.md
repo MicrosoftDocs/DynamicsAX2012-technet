@@ -201,13 +201,15 @@ By default, jobs run on the Microsoft Dynamics AX client. When you use a web ser
 ## Creating an Instance of a Service Client
 
 The following example code shows how to construct and configure a service client object for the Bing service. To use the web service, you must use this code in your Microsoft Dynamics AX program to enable the service reference to construct and configure an instance of a service client.
-
+```X++
     // Retrieve the X++ type for the Bing service client object. 
     clientType = CLRInterop::getType("BingSearch.ServiceReferences.BingV2ServiceReference.BingPortTypeClient"); 
     
     // Use the AifUtil class to create an instance of the service client object. 
     
     _client = AifUtil::CreateServiceClient(clientType);
+    
+```
 
 
 > [!IMPORTANT]

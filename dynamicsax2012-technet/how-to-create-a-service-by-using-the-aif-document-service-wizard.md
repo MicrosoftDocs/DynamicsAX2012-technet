@@ -87,7 +87,8 @@ After the query has been created, run the AIF Document Service Wizard to create 
 
 The service, Axd \<Document\> class, and the Ax\<Table\> classes have been created and are located in the AOT under the **Classes** node. The AIF Document Service Wizard adds a method to the document class for all the service operations (or actions) that are not exposed by the class, and the method will return an error. If you open one of the methods that you did not expose by the class, the generated code should resemble the following example.
 
-    public AifDocumentXml findList(AifQueryCriteria _queryCriteria,
+```X++
+public AifDocumentXml findList(AifQueryCriteria _queryCriteria,
                                    AifSchemaInfo _xsdInfo,
                                    AifConstraintListCollection
                                        _constraintListCollection,
@@ -95,6 +96,7 @@ The service, Axd \<Document\> class, and the Ax\<Table\> classes have been crea
     {
         throw error(strfmt("@SYS94920"));
     }
+```
 
 The wizard also adds "TODO" statements in the generated code; these are code blocks that may require some action by the developer.
 
