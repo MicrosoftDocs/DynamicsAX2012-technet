@@ -100,7 +100,7 @@ Additional configurable elements include scenario constraints, allocation schedu
     <td><p>Select this check box if you want to control access to specific budget plans by user group.</p>
     <p>If you select this check box, you’ll specify the user group that can access the budget plan for each budget plan in the <strong>Budget plan</strong> form.</p>
     <p>If you don’t select this option, all users who have access to the <strong>Budget plan</strong> form can access the budget plans based on the security model selection in the <strong>Budget planning configuration</strong> form.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The user must have access to the responsibility center in the budget planning hierarchy to be able to create a budget plan for this responsibility center. The user can view and edit budget plans if they are part of the user group assigned to the budget plan even if they don’t have access to the budgeting organization hierarchy responsibility center.</P>

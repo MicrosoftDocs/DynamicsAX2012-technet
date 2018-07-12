@@ -68,13 +68,11 @@ In the **Mass hire project** form, click **Open project** or **Close project** t
 <tr class="odd">
 <td><p><strong>Closed</strong></p></td>
 <td><p>You cannot add positions to the project. To add positions to the mass hire project, open the project again. This is the status for completed projects.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Before you can close a mass hire project, all positions in the project must have either the <STRONG>Created</STRONG> or <STRONG>Closed</STRONG> status.</P>
 
-
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>

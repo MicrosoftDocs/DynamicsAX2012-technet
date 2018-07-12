@@ -366,7 +366,7 @@ Now that you have created a reporting project, you are ready to define an auto d
     <tr class="even">
     <td><p><strong>Dynamic Filters</strong></p></td>
     <td><p><strong>True</strong></p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This setting is for dynamic parameters on the report. Setting the property to <STRONG>True</STRONG> allows you to filter the report by setting a range on any fields from the data source table.</P>
@@ -381,7 +381,7 @@ Now that you have created a reporting project, you are ready to define an auto d
     <tr class="even">
     <td><p><strong>Query</strong></p></td>
     <td><p>Click the ellipsis button (…). A dialog box displays where you can select an RDP class that is defined in the AOT and identify the fields that you want to use. Select the <strong>SrsRDPSampleClass</strong> class and click <strong>Next</strong>. In the <strong>Select Fields</strong> dialog box, keep all the checkboxes selected, and click <strong>OK</strong>.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>Based on what you select, the Query property value is updated. In this case, the query is <STRONG>SELECT * FROM SrsRDPSampleClass.TmpCust</STRONG>.</P>

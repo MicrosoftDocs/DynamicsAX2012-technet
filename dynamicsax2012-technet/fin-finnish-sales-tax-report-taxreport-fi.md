@@ -51,7 +51,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Tax currency</strong></p></td>
 <td><p>Select the currency that determines which transactions to include in the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is not available in versions of Microsoft Dynamics AX 2012 prior to cumulative update 7 for AX 2012 R2.</P>
@@ -63,7 +63,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>Reporting currency</strong></p></td>
 <td><p>Select the foreign currency in which the report is generated.</p>
 <p>If the reporting currency is different from the tax currency, and if you select the <strong>Currency rate on reporting date</strong> check box, the currency rate on the reporting date that you specify in the <strong>Reporting date</strong> field is used for all of the transactions in the report. Alternatively, if the reporting currency is different from the tax currency, and if you clear the <strong>Currency rate on reporting date</strong> check box, the currency rate on the transaction date is used for all of the transactions in the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is not available in versions of Microsoft Dynamics AX 2012 prior to cumulative update 7 for AX 2012 R2.</P>
@@ -74,7 +74,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Currency rate on reporting date</strong></p></td>
 <td><p>Select this check box to indicate that the currency rate on the reporting date is used for all of the transactions.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is not available in versions of Microsoft Dynamics AX 2012 prior to cumulative update 7 for AX 2012 R2.</P>
@@ -85,7 +85,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Reporting date</strong></p></td>
 <td><p>Select the date when the report is generated. This field is available only if you select the <strong>Currency rate on reporting date</strong> check box.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is not available in versions of Microsoft Dynamics AX 2012 prior to cumulative update 7 for AX 2012 R2.</P>

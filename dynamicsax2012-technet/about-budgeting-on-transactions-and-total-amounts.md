@@ -37,13 +37,11 @@ The following table provides guidance for using the planning tabs in the **Plan 
 <td><p><strong>Cost categories</strong> tab</p></td>
 <td><ul>
 <li><p>If you are planning on cost categories, first select a value in the <strong>Cost component</strong> field (either <strong>Fixed costs</strong>, <strong>Variable costs</strong>, or <strong>Full costs</strong>), and then enter plan values for the cost categories.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If there is a calculation setup for a proportional dependency on another cost line in the <STRONG>Budget model</STRONG> form, you cannot manually enter amounts for those cost categories.</P>
 
-
-</div></li>
+</li>
 <li><p>When you have finished entering plan values, click <strong>Calculate</strong>.</p></li>
 <li><p>To display cost balances, click <strong>Cost balance</strong>.</p></li>
 </ul></td>

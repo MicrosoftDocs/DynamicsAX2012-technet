@@ -84,7 +84,7 @@ The following table provides information about how this configuration key relate
 <p><a href="cash-flow-configuration-key-projadvcashflow.md">Cash flow configuration key (ProjAdvCashFlow)</a></p>
 <p><a href="estimate-projects-configuration-key-projadvestimate.md">Estimate projects configuration key (ProjAdvEstimate)</a></p>
 <p><a href="work-in-process-configuration-key-projadvworkinprogress.md">Work in process configuration key (ProjAdvWorkInProgress)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

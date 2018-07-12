@@ -35,7 +35,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 <tbody>
 <tr class="odd">
 <td><p>Maintain account export</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -67,7 +67,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Manage Commerce Data Exchange: Synch Service</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -79,7 +79,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain Retail Channel Reports</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -116,7 +116,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain Retail Deployment profiles</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -138,7 +138,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain retail gift cards</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -205,7 +205,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Generate retail open statement report</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -277,7 +277,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Generate Retail scheduler actions and distribution</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in versions prior to Microsoft Dynamics AX 2012 R3.</P>
@@ -294,7 +294,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain sites service solution in retail module</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -336,7 +336,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Setup store using retail store setup checklist</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -378,7 +378,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain retail transactions</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in versions prior to Microsoft Dynamics AX 2012 R3.</P>
@@ -395,7 +395,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>View retail transactions</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -417,7 +417,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire Retail Z reports</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>

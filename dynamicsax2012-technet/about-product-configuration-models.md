@@ -63,14 +63,12 @@ The following table describes the table constraint-based terms and concepts.
 <li><p><strong>Boolean</strong></p></li>
 </ul>
 <p>If the attribute type is <strong>Boolean</strong>, <strong>Integer</strong>, or <strong>Text</strong>, the set of values is available when a product configuration model is set up.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Solver Foundation recognizes only the following attribute types: Booleans, texts that have a fixed list, and integers that have a range. Therefore, only these attribute types can be used in expression constraints and conditions.</P>
-> <P>You can also use the <STRONG>Attribute types</STRONG> form to define attribute types for products and catalogs.</P>
+> <P>You can also use the <STRONG>Attribute types</STRONG> form to define attribute types for products and catalogs.</P>> 
 
-
-</div></td>
+</td>
 </tr>
 <tr class="odd">
 <td><p>Constraints</p></td>

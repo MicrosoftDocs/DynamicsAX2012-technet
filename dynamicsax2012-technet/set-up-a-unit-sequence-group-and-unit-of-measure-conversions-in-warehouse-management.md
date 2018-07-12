@@ -286,7 +286,7 @@ To use unit of measure conversions for a product, you must select the **Enable u
 <tr class="even">
 <td><p>All units for the product must be the same.</p></td>
 <td><p>The sales unit, purchase unit, inventory unit, and product unit must be the same for the product. This ensures that the conversions on all source documents are not affected by the variant unit of measure conversion.</p>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>Because the units must always be the same, the system will display an error if you try to change one of the units when the <STRONG>Enable unit of measure conversions</STRONG> check box is selected. To change a unit, you must clear the check box, change all of the units to the new unit, and then select the check box again. When you re-enable a product variant for unit of measure conversions, the same restrictions apply. For example, transactions must not exist, and conversion rules must not be defined for the product master.</P>

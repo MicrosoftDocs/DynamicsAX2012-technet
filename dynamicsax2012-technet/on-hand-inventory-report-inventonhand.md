@@ -45,7 +45,7 @@ When you generate this report, the following default parameters are displayed. Y
 <p><strong>Location</strong></p>
 <p><strong>Pallet ID</strong></p>
 <p><strong>Serial number</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>It is possible to add more criteria.</P>

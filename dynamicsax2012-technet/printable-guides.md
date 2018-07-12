@@ -67,7 +67,7 @@ The following Microsoft Dynamics AX 2012 guides are available in PDF format. The
 </tr>
 <tr class="odd">
 <td><p><a href="http://go.microsoft.com/fwlink/?linkid=231846">Retail Deployment Guide: Microsoft Dynamics AX 2012</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The information in this guide applies only to Microsoft Dynamics AX 2012 Feature Pack. For information about how to deploy Retail components with Microsoft Dynamics AX 2012 R2, see <A href="install-retail-components.md">Install retail components</A>.</P>
@@ -78,7 +78,7 @@ The following Microsoft Dynamics AX 2012 guides are available in PDF format. The
 </tr>
 <tr class="even">
 <td><p><a href="http://go.microsoft.com/fwlink/?linkid=231847">Retail Store Connect Technical Reference: Microsoft Dynamics AX 2012</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The information in this guide applies only to Microsoft Dynamics AX 2012 Feature Pack. For information about how to use Commerce Data Exchange: Synch Service (formerly called Retail Store Connect) with Microsoft Dynamics AX 2012 R2, see <A href="commerce-data-exchange-synch-service.md">Commerce Data Exchange: Synch Service</A>.</P>
@@ -89,7 +89,7 @@ The following Microsoft Dynamics AX 2012 guides are available in PDF format. The
 </tr>
 <tr class="odd">
 <td><p><a href="http://go.microsoft.com/fwlink/?linkid=231848">Retail Scheduler Technical Reference: Microsoft Dynamics AX 2012</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The information in this guide applies only to Microsoft Dynamics AX 2012 Feature Pack. For information about how to use Retail Scheduler with Microsoft Dynamics AX 2012 R2, see <A href="configure-and-schedule-retail-data-distribution.md">Configure and schedule retail data distribution</A>.</P>

@@ -44,7 +44,7 @@ The following forms are available when the configuration key is enabled.
 <tr class="odd">
 <td><p><strong>Resource assignment analysis - Department</strong></p></td>
 <td><p><a href="https://technet.microsoft.com/en-us/library/hh242796(v=ax.60)">Resource assignment analysis - Department (form)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This form is not available if Microsoft Dynamics AX 2012 R2 is installed.</P>
@@ -55,7 +55,7 @@ The following forms are available when the configuration key is enabled.
 <tr class="even">
 <td><p><strong>Resource assignment analysis - Financial dimension</strong></p></td>
 <td><p><a href="https://technet.microsoft.com/en-us/library/hh227471(v=ax.60)">Resource assignment analysis - Financial dimension (form)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This form is not available if Microsoft Dynamics AX 2012 R2 is installed.</P>

@@ -42,7 +42,7 @@ Microsoft Dynamics AX Enterprise Search uses the following services.
 <li><p>Microsoft SharePoint Foundation 2013 or Microsoft SharePoint Server 2013</p></li>
 </ul>
 <p>One of these products must be available in the computing environment before you can install Enterprise Search.</p>
-<div class="alert">
+<div>
 
 > [!WARNING]
 > <P>If you intend to deploy Microsoft Dynamics AX Enterprise Search on Microsoft Fast Search Server 2010 know that FAST Search Server requires additional configurations beyond what is described in this topic. For more information, see <A href="install-enterprise-search-on-fast-search-server.md">Install Enterprise Search on FAST Search Server</A>.</P>

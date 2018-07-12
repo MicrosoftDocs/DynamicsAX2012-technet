@@ -136,7 +136,7 @@ In the **Budget funds available** area, you can select check boxes to determine 
     <tr class="even">
     <td><p><strong>Preliminary budget</strong></p></td>
     <td><p>Preliminary budget register entries that have a document status of <strong>Completed</strong>. These are used to create a preliminary budget when the actual budget is being reviewed and approved.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
@@ -167,7 +167,7 @@ In the **Budget funds available** area, you can select check boxes to determine 
     <tr class="even">
     <td><p><strong>Budget apportionments</strong></p></td>
     <td><p>Budget register entries that have a document status of <strong>Completed</strong>. Apportionments are used in the public sector to show the difference between budgeted amounts and the amounts that are approved for spending. For example, a public sector organization might have an original budget of 10,000.00 for an account and use an apportionment to approve 5000 for spending. Only the amount that is apportioned can be spent.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
@@ -190,7 +190,7 @@ In the **Budget funds available** area, you can select check boxes to determine 
     <tr class="even">
     <td><p><strong>Budget reservations for unconfirmed encumbrances</strong></p></td>
     <td><p>Budget reservations that are created for unconfirmed purchase orders, general budget reservations, or travel requests, and budget register entries that have a document status of <strong>Draft</strong> use the <strong>Encumbrance</strong> budget type. These are manual budget reservations that are not yet included in the overall budget balance.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you do not select this check box, budget checks can still be performed on draft source documents, such as purchase orders, general budget reservations, and travel requests. However, the amount of the budget reservation is not included in the budget check for subsequent source documents. You can do this to perform a budget check on draft documents without creating a committed reservation.</P>
@@ -209,7 +209,7 @@ In the **Budget funds available** area, you can select check boxes to determine 
     <tr class="odd">
     <td><p><strong>Budget reservations for unconfirmed pre-encumbrances</strong></p></td>
     <td><p>Budget reservations that are created for unconfirmed and unapproved purchase requisitions, and budget register entries that have a status of <strong>Draft</strong> and use the <strong>Pre-encumbrance</strong> budget type. These manual budget reservations are created through budget register entries but are not included in the overall budget balance.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you do not select this check box, budget checks can still be performed on draft purchase requisitions. However, the amount of the budget reservation is not included in the budget check for subsequent source documents. You can do this to perform a budget check on draft documents without creating a committed reservation.</P>

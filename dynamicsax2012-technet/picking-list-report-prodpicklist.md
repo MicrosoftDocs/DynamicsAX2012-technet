@@ -46,7 +46,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>Select the consumption quantity that you want the report to use. The options are as follows:</p>
 <p><strong>Proposal</strong>—The estimated item consumption.</p>
 <p><strong>Consumption</strong>—The reported consumption.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This field is relevant when you select the <STRONG>Use delivery note layout</STRONG> field.</P>

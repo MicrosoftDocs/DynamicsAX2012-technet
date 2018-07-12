@@ -47,7 +47,7 @@ In Microsoft Dynamics AX 2009, Ledger budget is the name of the form and table w
 <li><p>Use the <strong>Budget versus actual</strong> inquiry and report.</p></li>
 <li><p>Create budget register entries by using Project, Demand, Supply, and Fixed asset budgets.</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>In AX 2009, a user could also transfer cost accounting budgets to Ledger budget. This is not supported in AX 2012, because the implementation of the new dimension framework in cost accounting does not enable data to flow outside of cost accounting.</P>

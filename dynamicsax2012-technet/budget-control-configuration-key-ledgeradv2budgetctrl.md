@@ -102,13 +102,11 @@ The following table provides information about how this configuration key relate
 <tr class="odd">
 <td><p>Child keys</p></td>
 <td><p><a href="encumbrance-process-configuration-key-ledgerencumbrance.md">Encumbrance process configuration key (LedgerEncumbrance)</a></p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>
 
-
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>

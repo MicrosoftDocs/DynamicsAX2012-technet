@@ -49,7 +49,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Considered date</strong></p></td>
 <td><p>Select the date when Microsoft Dynamics AX finds all transactions that have open (not settled) amounts on that date. Foreign currency revaluations are made by using the exchange rates that are entered in the <strong>Currency exchange rates</strong> form for the considered date.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The foreign currency revaluation simulation does not create any adjustment transactions.</P>

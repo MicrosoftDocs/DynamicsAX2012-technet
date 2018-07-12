@@ -69,7 +69,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>From date</strong>(<strong>Due date</strong>)</p></td>
 <td><p>Select the starting due date for the range of due dates that you want to include in the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This field is available only when you select <STRONG>Due date</STRONG> or <STRONG>Customer</STRONG> in the <STRONG>Grouping by</STRONG> field.</P>
@@ -80,7 +80,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>To date</strong>(<strong>Due date</strong>)</p></td>
 <td><p>Select the ending due date for the range of due dates that you want to include in the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This field is available only when you select <STRONG>Due date</STRONG> or <STRONG>Customer</STRONG> in the <STRONG>Grouping by</STRONG> field.</P>
@@ -91,7 +91,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>From date</strong>(<strong>Risk date</strong>)</p></td>
 <td><p>Select the starting date of the time limit period for banks to provide feedback about customer payments.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This field is available only when you select <STRONG>Due date</STRONG> or <STRONG>Customer</STRONG> in the <STRONG>Grouping by</STRONG> field.</P>
@@ -102,7 +102,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>To date</strong>(<strong>Risk date</strong>)</p></td>
 <td><p>Select the ending date of the time limit period for banks to provide feedback about customer payments.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This field is available only when you select <STRONG>Due date</STRONG> or <STRONG>Customer</STRONG> in the <STRONG>Grouping by</STRONG> field.</P>

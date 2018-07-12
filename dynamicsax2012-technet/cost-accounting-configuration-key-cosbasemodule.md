@@ -209,13 +209,11 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="budgeting-configuration-key-cosbudget.md">Budgeting configuration key (COSBudget)</a></p>
 <p><a href="calculation-configuration-key-coscalculation.md">Calculation configuration key (COSCalculation)</a></p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>
 
-
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>

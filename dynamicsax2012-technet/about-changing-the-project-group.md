@@ -298,13 +298,11 @@ In these tables, the first column indicates the type of transaction and other cr
 <tbody>
 <tr class="odd">
 <td><p>On-account</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If deduction transactions are associated with the on-account transaction, the project group cannot be changed.</P>
 
-
-</div></td>
+</td>
 <td><p>Yes, if the selection in the <strong>On-account invoicing</strong> field in the <strong>Project groups</strong> form is the same for both project groups.</p></td>
 <td><p>Yes, if the selection in the <strong>On-account invoicing</strong> field in the <strong>Project groups</strong> form is the same for both project groups.</p></td>
 <td><p>No</p></td>
@@ -314,13 +312,11 @@ In these tables, the first column indicates the type of transaction and other cr
 </tr>
 <tr class="even">
 <td><p>On-account</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If deduction transactions are associated with the on-account transaction, the project group cannot be changed.</P>
 
-
-</div></td>
+</td>
 <td><p>Yes, if the selection in the <strong>On-account invoicing</strong> field in the <strong>Project groups</strong> form is the same for both project groups.</p></td>
 <td><p>No</p></td>
 <td><p>No</p></td>

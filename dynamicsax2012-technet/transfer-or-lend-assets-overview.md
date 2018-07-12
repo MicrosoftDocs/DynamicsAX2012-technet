@@ -70,7 +70,7 @@ The following table lists the forms that support the transfer or lend asset busi
 <td><p>Transfer to a different financial dimension</p></td>
 <td><p><strong>Fixed asset transfer</strong></p></td>
 <td><p>Transfer a fixed asset.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This form is available only in versions of Microsoft Dynamics AX 2012 prior to cumulative update 7 for AX 2012 R2.</P>
@@ -88,7 +88,7 @@ The following table lists the forms that support the transfer or lend asset busi
 <td><p></p></td>
 <td><p><strong>Transfer fixed assets</strong></p></td>
 <td><p>Transfer up to 100 fixed assets at the same time.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Your system may have been configured to allow more or fewer than 100 assets to be transferred by using this form. If you need additional information about the system configuration, contact a system administrator.</P>

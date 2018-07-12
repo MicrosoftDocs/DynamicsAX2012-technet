@@ -106,7 +106,7 @@ The following table lists the processes that you can control by using policies. 
 <td><p>Benefits eligibility</p></td>
 <td><p>Define and exercise eligibility rules for each benefit that your organization offers to workers. You can use these rules to identify the specific benefits that a worker is eligible for.</p></td>
 <td><p><strong>Benefit eligibility control</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>
@@ -153,7 +153,7 @@ The following table describes the retail scenarios where organization hierarchie
 <td><p>Manage retail assortments</p></td>
 <td><p>Identify the products that are available in each retail channel, such as a brick and mortar store or an online store.</p></td>
 <td><p><strong>Retail assortment</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>
@@ -166,7 +166,7 @@ The following table describes the retail scenarios where organization hierarchie
 <td><p>Manage retail replenishment</p></td>
 <td><p>Group stores to replenish inventory based on replenishment rules.</p></td>
 <td><p><strong>Retail replenishment</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>
@@ -180,7 +180,7 @@ The following table describes the retail scenarios where organization hierarchie
 <td><p>Report data for stores</p></td>
 <td><p>Group stores for reporting.</p></td>
 <td><p><strong>Retail reporting</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>
@@ -193,7 +193,7 @@ The following table describes the retail scenarios where organization hierarchie
 <td><p>Post inventory, calculate statements, or post statements for a group of stores</p></td>
 <td><p>Create a group of stores that can be assigned to a batch job. When you define a batch job to post inventory, calculate statements, or post statements, you can specify which hierarchy the job applies to. When stores are added to or removed from the hierarchy, you don’t have to modify the batch job.</p></td>
 <td><p><strong>Retail POS posting</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>
@@ -238,7 +238,7 @@ The following table describes how organization hierarchies are used for budget p
 <tr class="odd">
 <td><p>Budget planning</p></td>
 <td><p>When the <strong>Budget planning</strong> purpose is assigned to an organization hierarchy, a hierarchical relationship can exist between parent and associated budget plans. You can also define different budgeting workflows by organizational unit in a budget planning process.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>
@@ -253,7 +253,7 @@ The following table describes how organization hierarchies are used for budget p
 <tr class="even">
 <td><p>Security model: Based on security organizations</p></td>
 <td><p>If <strong>Based on security organizations</strong> is the security model selected for budget planning, to use a hierarchy in this scenario, you must also assign the <strong>Security</strong> purpose to the budget planning organization hierarchy.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only in Microsoft Dynamics AX 2012 R3 Cumulative Update 8 and later.</P>

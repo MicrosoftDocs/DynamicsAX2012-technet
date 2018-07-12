@@ -331,7 +331,7 @@ The following table provides information about how this configuration key relate
 <td><p><a href="leads-configuration-key-smmlead.md">Leads configuration key (SmmLead)</a></p>
 <p><a href="sales-process-configuration-key-smmsmsalesprocess.md">Sales process configuration key (smmSMSalesProcess)</a></p>
 <p><a href="telephony-integration-configuration-key-smmphone.md">Telephony integration configuration key (smmPhone)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

@@ -35,7 +35,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 <tbody>
 <tr class="odd">
 <td><p>Inquire into inventory case progress</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -52,7 +52,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Inquire into product change cases</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -129,7 +129,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintains production scheduling</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -141,7 +141,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain calculation of accuracy of demand forecasts</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -153,7 +153,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain generation of baseline demand forecasts</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -165,7 +165,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain import of adjusted demand forecasts</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -177,7 +177,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain performance of demand forecasting process</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -189,7 +189,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain the master for demand forecasting parameters</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>

@@ -54,13 +54,11 @@ The following table lists the types of retail category hierarchies that are avai
 <tr class="even">
 <td><p><strong>Retail channel navigation hierarchy</strong></p></td>
 <td><p>Create a retail channel navigation category hierarchy to set up a category structure for products that you offer through an online store. You define the category hierarchy and assign products, product attribute groups, and attribute values to the categories. Then assign the category hierarchy to an online store.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>
 
-
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>

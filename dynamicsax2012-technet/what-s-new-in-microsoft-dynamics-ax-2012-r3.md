@@ -124,7 +124,7 @@ The following table outlines the features that were added in AX 2012 R3.
 <li><p>Customers can now include a questionnaire with the RFQ and require that you fill out the questionnaire as part of your bid.</p></li>
 <li><p>Customers can change the content of an RFQ after they send it. You can view the changes, and any attachments, on the <strong>Amendments</strong> FastTab in the RFQ.</p></li>
 <li><p>Public sector vendors that are not yet registered on the Vendor portal can access a public, non–claims-aware site as a &quot;guest,&quot; so that they can view publicly available documents, such as lists of open RFQs and purchase orders.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
@@ -132,7 +132,7 @@ The following table outlines the features that were added in AX 2012 R3.
 
 </div></li>
 <li><p>Public sector vendors can view all open and closed purchase orders, RFQs, and their details. These details include scoring and award notes on accepted bids.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
@@ -140,7 +140,7 @@ The following table outlines the features that were added in AX 2012 R3.
 
 </div></li>
 <li><p>Public sector vendors can request to reply to RFQs that have been published to the <strong>Open requests for quotations</strong> list page, even if they have not been included as a vendor in the RFQ.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>

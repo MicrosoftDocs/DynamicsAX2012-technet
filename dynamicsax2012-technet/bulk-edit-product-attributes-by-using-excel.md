@@ -71,13 +71,11 @@ Before you can use Excel to bulk edit product attributes in a retail catalog, co
 </tr>
 <tr class="odd">
 <td><p>Create a retail catalog.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If AX 2012 R3 is installed, you can update product attributes in a retail catalog that is assigned to a retail store, online store, or call center. You can also update product attributes outside of a retail catalog by using the <STRONG>Channel product attributes</STRONG> form.</P>
 
-
-</div></td>
+</td>
 <td><p><a href="key-tasks-create-retail-product-catalogs.md">Key tasks: Create retail product catalogs</a></p>
 <p><a href="add-and-update-product-attributes-for-retail-channels.md">Add and update product attributes for retail channels</a></p></td>
 </tr>

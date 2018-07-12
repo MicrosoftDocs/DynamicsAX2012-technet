@@ -37,7 +37,7 @@ Before you install Microsoft Dynamics AX, you must plan the implementation and c
 </tr>
 <tr class="odd">
 <td><p>3. Review the system requirements.</p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>If you plan to upgrade the operating system, you must perform the upgrade before you install Microsoft Dynamics AX. If you upgrade the operating system after Microsoft Dynamics AX has been installed, you may experience problems. For example, instances of Application Object Server (AOS) may not start, or registry entries may be deleted.</P>

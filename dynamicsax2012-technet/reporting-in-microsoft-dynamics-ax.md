@@ -145,7 +145,7 @@ Complete the tasks in the following table to integrate Microsoft Dynamics AX and
 </tr>
 <tr class="even">
 <td><p>Deploy reports</p></td>
-<td><div class="alert">
+<td><div>
 
 > [!NOTE]
 > <P>If you are using Microsoft Dynamics AX 2012 R2—and—Reporting Services is running in SharePoint integrated mode, then you must create a document library in SharePoint to store your reports. Complete this procedure before you deploy the default reports that are included with Microsoft Dynamics AX.</P>

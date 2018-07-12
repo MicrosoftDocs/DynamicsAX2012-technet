@@ -583,7 +583,7 @@ The following table provides information about how this configuration key relate
 <p><a href="shipping-carrier-configuration-key-shipcarrier.md">Shipping carrier configuration key (ShipCarrier)</a></p>
 <p><a href="transfer-orders-configuration-key-inventtransferorders.md">Transfer Orders configuration key (InventTransferOrders)</a></p>
 <p><a href="warehouse-and-transportation-management-configuration-key-whsandtms.md">Warehouse and Transportation management configuration key (WHSandTMS)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

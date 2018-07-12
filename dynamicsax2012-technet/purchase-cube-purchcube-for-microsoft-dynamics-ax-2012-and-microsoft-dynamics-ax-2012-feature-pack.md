@@ -272,7 +272,7 @@ This measure group is based on the VendInvoiceTransExpanded view and includes th
     <td> <p>
    
 	 Number of items that has been purchased, in an inventory unit of measure, where items appear as a positive value on the purchase order. 
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Hh781066.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Hh781066.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 The <strong xmlns="http://www.w3.org/1999/xhtml">Units</strong> dimension should not be used on this measure because it uses the purchase units and not inventory units.
   </p> </td></tr></table></div></td>
@@ -311,7 +311,7 @@ This measure group is based on the VendInvoiceTransExpanded view and includes th
     <td> <p>
    
 	 Number of items that has been returned to the vendor in an inventory unit of measure (or appears as a negative quantity on the invoiced purchase order). 
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Hh781066.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Hh781066.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 The <strong xmlns="http://www.w3.org/1999/xhtml">Units</strong> dimension should not be used on this measure because it uses the purchase units and not inventory units.
   </p> </td></tr></table></div></td>
@@ -474,7 +474,7 @@ This measure group is based on the VendPackingSlipTransExpanded view and include
   </p> <p>
    
 	 The expected date is the <strong xmlns="http://www.w3.org/1999/xhtml">Confirmed delivery date</strong> that is given on the purchase order line. 
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Hh781066.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Hh781066.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 If the <strong xmlns="http://www.w3.org/1999/xhtml">Confirmed delivery date</strong> on the purchase order line is blank, then the measure is calculated as if the date is January 1, 1900. 
   </p> </td></tr></table></div></td>
@@ -513,7 +513,7 @@ This measure group is based on the VendPackingSlipTransExpanded view and include
     <td> <p>
    
 	 Number of items received on a product receipt, in an inventory unit of measure.
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Hh781066.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Hh781066.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 The <strong xmlns="http://www.w3.org/1999/xhtml">Units</strong> dimension should not be used on this measure since it uses the purchase units and not inventory units.
   </p> </td></tr></table></div></td>
@@ -705,7 +705,7 @@ The Purchase cube contains the following calculated measures.
 <td><p>Average days late</p></td>
 <td><p>Average</p></td>
 <td><p>The <strong>Days late</strong> measure divided by the number of all product receipt lines.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>To view the average of the delayed days for delayed product receipts, slice by the <STRONG>Product receipt lines - delayed</STRONG> dimension and view the delayed product receipts.</P>

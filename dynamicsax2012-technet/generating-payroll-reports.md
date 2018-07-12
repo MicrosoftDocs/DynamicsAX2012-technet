@@ -99,7 +99,7 @@ The following table summarizes when and why you would use each report. For more 
 <td><p><strong>State quarterly wage and tax preparation</strong></p></td>
 <td><p></p></td>
 <td><p>Use the information in this report when you prepare the quarterly wage and tax forms for state unemployment taxes.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This report is available only if you have installed Microsoft Dynamics AX 2012 R3 or cumulative update 7 or later for AX 2012 R2.</P>
@@ -113,7 +113,7 @@ The following table summarizes when and why you would use each report. For more 
 <td><p><strong>Form 941 preparation</strong></p></td>
 <td><p></p></td>
 <td><p>Use the information in this form when you prepare the quarterly report of payroll taxes for the IRS.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This report is available only if you have installed Microsoft Dynamics AX 2012 R3 or cumulative update 7 or later for AX 2012 R2.</P>
@@ -128,7 +128,7 @@ The following table summarizes when and why you would use each report. For more 
 <td><p></p></td>
 <td><p></p></td>
 <td><p>Use the information in this report when you prepare the annual federal unemployment (FUTA) tax return.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This report is available only if you have installed Microsoft Dynamics AX 2012 R3 or cumulative update 7 or later for AX 2012 R2.</P>
@@ -199,7 +199,7 @@ For more information about how to create custom reports from the data in a cube,
 <li><p>The <strong>Pay statement number</strong> dimension attribute under the <strong>Pay statements</strong> dimension</p></li>
 <li><p>A filter for the pay period using the <strong>Pay period end date</strong> dimension attribute under the <strong>Pay period</strong> dimension</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>To see the combined gross pay for all pay statements in all pay periods, delete the <STRONG>Pay statement number</STRONG> dimension attribute and clear the filter.</P>
@@ -237,7 +237,7 @@ For more information about how to create custom reports from the data in a cube,
 <li><p>The <strong>Worker</strong>.<strong>Worker - Name</strong> dimension attribute under the <strong>Worker</strong> dimension</p></li>
 <li><p>(Optional) The <strong>Company</strong> dimension attribute under the <strong>Company</strong> dimension</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>A 1 for the worker means that the worker is paid by check. A 0 means that the worker is paid electronically.</P>
@@ -315,7 +315,7 @@ For more information about how to create custom reports from the data in a cube,
 <li><p>The <strong>Number of benefit enrollments</strong> measure in the <strong>Payroll worker enrolled benefits</strong> measure group</p></li>
 <li><p>A filter for the <strong>Benefit type</strong> dimension attribute under the <strong>Benefit type</strong> dimension where the attribute value is {Garnishment, Tax levy}</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>The total shows the number of enrollments in tax levies and garnishments, not the number of workers. To determine the number of workers, you can add the <STRONG>Worker</STRONG>.<STRONG>Worker - Name</STRONG> dimension attribute under the <STRONG>Worker</STRONG> dimension, which will allow you to find workers with multiple enrollments.</P>
@@ -329,7 +329,7 @@ For more information about how to create custom reports from the data in a cube,
 <li><p>The <strong>Sum of contribution amount</strong> measure in the <strong>Payroll worker enrolled benefits</strong> measure group</p></li>
 <li><p>A filter for the <strong>Benefit type</strong> dimension attribute under the <strong>Benefit type</strong> dimension where the attribute value is {Medical}</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>To see the amount that has been contributed for a specific plan, delete the <STRONG>Benefit type</STRONG> filter and add a filter using the <STRONG>Payroll benefit plan</STRONG> dimension attribute under the <STRONG>Payroll benefit plan</STRONG> dimension.</P>
@@ -344,7 +344,7 @@ For more information about how to create custom reports from the data in a cube,
 <li><p>A filter for the <strong>Benefit type</strong> dimension attribute under the <strong>Benefit type</strong> dimension where the attribute value is {Medical}</p></li>
 <li><p>(Optional) A filter for the <strong>Worker</strong>.<strong>Worker - Name</strong> dimension attribute under the <strong>Worker</strong> dimension where the attribute value is the worker’s name</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>To see the amount that has been deducted for a specific plan, delete the <STRONG>Benefit type</STRONG> filter and add a filter using the <STRONG>Payroll benefit plan</STRONG> dimension attribute under the <STRONG>Payroll benefit plan</STRONG> dimension.</P>

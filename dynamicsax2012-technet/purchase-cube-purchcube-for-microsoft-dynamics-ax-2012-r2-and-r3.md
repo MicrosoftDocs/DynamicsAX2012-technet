@@ -872,7 +872,7 @@ This measure group is based on the VendInvoiceTransExpanded view and includes th
     <td> <p>
    
 	 The number of items that has been purchased, in an inventory unit of measure, where items appear as a positive value on the purchase order. 
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/JJ710389.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/JJ710389.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 Use the Unit dimension to slice for inventory units.
   </p> </td></tr></table></div></td>
@@ -911,7 +911,7 @@ This measure group is based on the VendInvoiceTransExpanded view and includes th
     <td> <p>
    
 	 The number of items that has been returned to the vendor in an inventory unit of measure (or appears as a negative quantity on the invoiced purchase order). 
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/JJ710389.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/JJ710389.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 Use the Unit dimension to slice for inventory units.
   </p> </td></tr></table></div></td>

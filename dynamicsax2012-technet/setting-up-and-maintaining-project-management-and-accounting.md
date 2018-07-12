@@ -420,7 +420,7 @@ The following table lists the forms that are available for setting up and mainta
 <td><p>Create price groups</p></td>
 <td><p><strong>Price/discount groups</strong> - <strong>Customer</strong></p></td>
 <td><p>Create price groups to manage project costs.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The form is accessed in the <STRONG>Accounts receivable</STRONG> module.</P>
@@ -448,7 +448,7 @@ The following table lists the forms that are available for setting up and mainta
 <td><p>Enable integration</p></td>
 <td><p><strong>Microsoft Project Server integration settings</strong></p></td>
 <td><p>Install and enable additional integration components between Microsoft Dynamics AX and Microsoft Project Server.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>For detailed information about how to integrate Microsoft Dynamics AX and Microsoft Project Server 2010 so that you can use the features of both programs to manager your projects, see the white paper “<A href="http://go.microsoft.com/fwlink/?linkid=215155">Microsoft Project Server 2010 Integration with Microsoft Dynamics AX 2012</A>.”</P>

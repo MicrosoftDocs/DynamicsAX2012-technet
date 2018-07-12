@@ -54,7 +54,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>Aging period definition</strong></p></td>
 <td><p>Select an aging period definition. The <strong>Interval</strong> field is not used if you select an aging period definition.</p>
 <p>Aging period definitions that have more than six aging periods (columns) cannot be used on the printed report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>You can set up aging periods in the <STRONG>Aging period definitions</STRONG> form.</P>
@@ -69,7 +69,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Interval</strong></p></td>
 <td><p>Define the period to use by entering the number of the day or month units in each period. For example, you might enter 15 and select <strong>Day</strong> in the <strong>Day/Mth</strong> field to show aging information at intervals of 15 days on the report. Or, to show aging information by month, enter 1 in this field and select <strong>Month</strong> in the <strong>Day/Mth</strong> field.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The information that you enter in this field is used only if you have not selected an aging period definition.</P>

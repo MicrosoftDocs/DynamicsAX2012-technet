@@ -75,7 +75,7 @@ Complete the following tasks before you install Enterprise Portal.
 <tr class="even">
 <td><p>Create a domain account</p></td>
 <td><p>Create a domain account for the Microsoft Dynamics AX .NET Business Connector proxy.</p>
-<div class="alert">
+<div>
 
 > [!WARNING]
 > <P>The account should not be a member of the Microsoft Dynamics AX system administrator group or a member of the Windows administrator group on the Enterprise Portal server. The login should not be used for standard logon purposes. Only those individuals who are responsible for deploying and configuring Microsoft Dynamics AX should know the credentials for this login. If a malicious user gained access to the credentials for this login, that person could potentially impersonate any Microsoft Dynamics AX user.</P>

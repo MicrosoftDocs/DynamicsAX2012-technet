@@ -48,7 +48,7 @@ The following table provides information about how this configuration key relate
 <p><a href="centralized-customer-statements-configuration-key-custcentralizedcuststatement.md">Centralized customer statements configuration key (CustCentralizedCustStatement)</a></p>
 <p><a href="collections-configuration-key-collections.md">Collections configuration key (Collections)</a></p>
 <p><a href="generated-allocation-configuration-key-ledgerallocationrules.md">Generated allocation configuration key (LedgerAllocationRules)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

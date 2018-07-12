@@ -151,7 +151,7 @@ The following table shows the general parameters that are on the FastTabs in the
 <td><p><strong>Enable freight reconciliation</strong></p></td>
 <td><p><strong>Freight reconciliation</strong></p></td>
 <td><p>Select this checkbox to enable the use of freight reconciliation. Clear this box if you are not using freight reconciliation and do not want freight bills to be created.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This parameter is included in Microsoft Dynamics AX 2012 R3 Cumulative Update 9.</P>

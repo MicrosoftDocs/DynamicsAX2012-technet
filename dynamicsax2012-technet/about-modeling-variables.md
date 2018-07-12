@@ -66,13 +66,11 @@ The following table lists the different data types that are available for modeli
 <tr class="even">
 <td><p><strong>Boolean</strong></p></td>
 <td><p>Variables of this type are presented to the user as a check box.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>When using variables of this type in logical expressions, specify values for them by using 1 and 0.</P>
 
-
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>

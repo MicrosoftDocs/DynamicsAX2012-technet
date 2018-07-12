@@ -51,13 +51,11 @@ The following table lists the available category hierarchy types and the general
 <tr class="even">
 <td><p><strong>Derived financial hierarchy</strong></p></td>
 <td><p>Use for organizing financial categories that can be derived from financial dimensions.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
 
-
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>

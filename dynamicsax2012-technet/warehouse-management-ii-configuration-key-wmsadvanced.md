@@ -110,7 +110,7 @@ The following forms are available when the configuration key is enabled.
 <tr class="even">
 <td><p><strong>Update store areas</strong></p></td>
 <td><p><a href="https://technet.microsoft.com/en-us/library/aa550377(v=ax.60)">Store areas (form)</a></p>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>You can access the <STRONG>Update store areas</STRONG> wizard from this location:</P>
@@ -156,7 +156,7 @@ The following table provides information about how this configuration key relate
 <tr class="odd">
 <td><p>Child keys</p></td>
 <td><p><a href="pallets-configuration-key-wmspallet.md">Pallets configuration key (WMSPallet)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

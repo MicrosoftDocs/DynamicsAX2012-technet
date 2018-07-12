@@ -179,7 +179,7 @@ The following table describes the types of workflows that you can create in **Bu
 </tr>
 <tr class="odd">
 <td><p><strong>Budget plan workflows</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>

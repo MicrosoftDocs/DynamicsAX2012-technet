@@ -126,7 +126,7 @@ The following table lists the types of workflows that you can create in Accounts
 <tr class="odd">
 <td><p><strong>Purchase agreement approval</strong></p></td>
 <td><p>Create approval workflows for purchase agreements.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>

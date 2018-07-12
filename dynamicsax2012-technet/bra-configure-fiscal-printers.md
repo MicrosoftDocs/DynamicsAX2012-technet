@@ -141,7 +141,7 @@ To perform this task, follow these steps:
         <tr class="even">
         <td><p><strong>Gift card</strong></p></td>
         <td><p>Enter a non-fiscal totalizer value that is used to issue gift cards in the <strong>Configuration value</strong> field.</p>
-        <div class="alert"> 
+        <div> 
 
         > [!NOTE]
         > <P>This option is available only if you select <STRONG>Non-fiscal totalizer</STRONG> in the <STRONG>Configuration type</STRONG> field.</P>
@@ -152,7 +152,7 @@ To perform this task, follow these steps:
         <tr class="odd">
         <td><p><strong>Payment method</strong></p></td>
         <td><p>Enter a management report value that is used for the payment method report in the <strong>Configuration value</strong> field.</p>
-        <div class="alert"> 
+        <div> 
 
         > [!NOTE]
         > <P>This option is available only if you select <STRONG>Management report</STRONG> in the <STRONG>Configuration type</STRONG> field.</P>
@@ -163,7 +163,7 @@ To perform this task, follow these steps:
         <tr class="even">
         <td><p><strong>Configuration</strong></p></td>
         <td><p>Enter a management report value that is used for the Programa Aplicativo Fiscal - Emissor de Cupom Fiscal (PAF-ECF) configuration report in the <strong>Configuration value</strong> field.</p>
-        <div class="alert"> 
+        <div> 
 
         > [!NOTE]
         > <P>This option is available only if you select <STRONG>Management report</STRONG> in the <STRONG>Configuration type</STRONG> field.</P>
@@ -174,7 +174,7 @@ To perform this task, follow these steps:
         <tr class="odd">
         <td><p><strong>Identification</strong></p></td>
         <td><p>Enter a management report value that is used for the PAF-ECF identification report in the <strong>Configuration value</strong> field.</p>
-        <div class="alert"> 
+        <div> 
 
         > [!NOTE]
         > <P>This option is available only if you select <STRONG>Management report</STRONG> in the <STRONG>Configuration type</STRONG> field.</P>
@@ -185,7 +185,7 @@ To perform this task, follow these steps:
         <tr class="even">
         <td><p><strong>EFT</strong></p></td>
         <td><p>Enter a payment method value that is used for the Electronic Funds Transfer (EFT) payments in the <strong>Configuration value</strong> field.</p>
-        <div class="alert"> 
+        <div> 
 
         > [!NOTE]
         > <P>This option is available only if you select <STRONG>Payment method</STRONG> in the <STRONG>Configuration type</STRONG> field.</P>

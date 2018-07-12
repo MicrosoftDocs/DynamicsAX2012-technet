@@ -133,7 +133,7 @@ You must set up general warehouse parameters before you can perform inbound and 
     <tr class="even">
     <td><p><strong>Default warehouse transfer journal</strong></p></td>
     <td><p>Select the transfer journal that will be used for inventory movement transactions completed by using the mobile device.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you want to use the <STRONG>Warehouse transfer</STRONG> mobile device menu, the transfer journal selected should have the Voucher draw field set to Posting.</P>

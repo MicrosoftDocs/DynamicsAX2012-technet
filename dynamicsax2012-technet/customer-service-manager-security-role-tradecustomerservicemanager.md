@@ -85,85 +85,71 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Process catalog requests</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>MCRCatalogRequestMaintain</p></td>
 <td><p></p></td>
 </tr>
 <tr class="even">
 <td><p>Merge and unmerge customers</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>MCRCustMergeMaintain</p></td>
 <td><p>Merge and unmerge customer records</p></td>
 </tr>
 <tr class="odd">
 <td><p>Maintain customer service</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>MCRCustomerServiceMaintain</p></td>
 <td><p>Maintain customer service</p></td>
 </tr>
 <tr class="even">
 <td><p>Inquire into order events</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>MCREventInquire</p></td>
 <td><p>Respond to inquiries about order events</p></td>
 </tr>
 <tr class="odd">
 <td><p>Maintain sales return order</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>MCRReturnSalesReturnOrderMaintain</p></td>
 <td><p>Document and record sales return order</p></td>
 </tr>
 <tr class="even">
 <td><p>Maintain sales order holds</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>MCRSalesHoldMaintain</p></td>
 <td><p></p></td>
 </tr>
 <tr class="odd">
 <td><p>Maintain sales order</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>MCRSalesOrderMaintain</p></td>
 <td><p></p></td>
 </tr>

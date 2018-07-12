@@ -195,13 +195,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>View budget plans</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>BudgetPlanView</p></td>
 <td><p></p></td>
 </tr>

@@ -62,7 +62,7 @@ For more information about country/region-specific features, see [Additional cou
 <td><p>Upload and maintain European Union (EU) entry certificates for items or services.</p></td>
 <td><p>You can upload a signed EU entry certificate that you have received from an EU customer, or from a third party on behalf of your customer. You can then attach the certificate to the customer invoice that is associated with it. You can update and maintain the status of the EU entry certificates.</p>
 <p>You can generate the Control report to verify the status of EU entry certificates. You can correct an incorrect status for an EU entry certificate. If an EU entry certificate is associated with an incorrect invoice, you can remove the incorrect reference and then attach the EU entry certificate to the correct invoice.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This feature applies only if the primary address for the legal entity is in an EU member state.</P>

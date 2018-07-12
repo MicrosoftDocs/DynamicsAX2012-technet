@@ -55,7 +55,7 @@ Microsoft Dynamics AX includes hundreds of preconfigured reports that you can us
     <li><p>In the <strong>Page range</strong> area, specify the pages of the report to print.</p></li>
     <li><p>Click <strong>OK</strong> to close the <strong>Print destination settings</strong> form.</p></li>
     </ol>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>For the best viewing experience, we recommend that you set the text size on your computer to <STRONG>Smaller – 100% (default)</STRONG> in the Control Panel. If the text size is larger than 100%, you may not be able to view all the data on the report.</P>

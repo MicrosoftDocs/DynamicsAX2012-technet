@@ -233,13 +233,11 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="allow-cost-breakdown-activation-configuration-key-bomcostbreakdown.md">Allow cost breakdown activation configuration key (BOMCostBreakdown)</a></p>
 <p><a href="bom-versions-configuration-key-bomversion.md">BOM Versions configuration key (BOMVersion)</a></p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>
 
-
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>

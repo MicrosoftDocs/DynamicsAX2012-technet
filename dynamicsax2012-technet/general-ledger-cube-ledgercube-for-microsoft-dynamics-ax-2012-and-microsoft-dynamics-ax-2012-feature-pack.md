@@ -837,7 +837,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="odd">
 <td><p>Accounts payable turnover *</p></td>
 <td><p>[Cost of Goods Sold (Reference ID = 35) + (Ending Inventory (Reference ID = 5) for period - Beginning Inventory (Reference ID = 5) for period)] / [Beginning Accounts Payable (Reference ID = 15) + Ending Accounts Payable (Reference ID = 15) / 2]</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Only the Inventory and Accounts Payable parts of this KPI are accumulated.</P>
@@ -848,7 +848,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="even">
 <td><p>Accounts receivable turnover *</p></td>
 <td><p>[Sales (Reference ID = 33) *-1] - Sales Returns and Discounts (Reference ID = 34) / [Beginning Accounts Receivable (Reference ID = 4) + Ending Accounts Receivable (Reference ID = 4) / 2]</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Only the Accounts Receivable part of this KPI is accumulated.</P>
@@ -859,7 +859,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="odd">
 <td><p>Average days to pay *</p></td>
 <td><p>Ending Accounts Payable (Reference ID = 15) balance for the period / [Cost of Goods Sold (Reference ID = 35) + (Ending Inventory (Reference ID = 5) for the period - Beginning Inventory (Reference ID=5) for the period)] * Number of days in the period</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Only the Accounts Payable and Inventory parts of this KPI are accumulated.</P>
@@ -870,7 +870,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="even">
 <td><p>Average collection period *</p></td>
 <td><p>Accounts Receivable (Reference ID = 4) / Average Daily Sales (Average Daily Sales = Total Sales for the year to date (Reference ID = 33) *-1 / Number of days in fiscal year to date)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Only the Accounts Receivable part of this KPI is accumulated.</P>
@@ -881,7 +881,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="odd">
 <td><p>Cash position *</p></td>
 <td><p>Cash (Reference ID = 1) + Cash Equivalents (Reference ID = 2)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Accumulation applies to all calculations.</P>
@@ -892,7 +892,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="even">
 <td><p>Cash ratio *</p></td>
 <td><p>Cash Equivalents (Reference ID = 2) + Cash (Reference ID = 1) / (Accounts Payable (Reference ID = 15) + Notes Payable (Reference ID = 16) + Current Maturities on Long Term Debt (Reference ID = 17) + Taxes Payable (Reference ID = 18) + Interest Payable (Reference ID = 19) + Dividends Payable (Reference ID = 20) + Leases Payable (Current) (Reference ID = 21) + Sinking Fund Payable (Current) (Reference ID = 22) + Other Current Liabilities (Reference ID = 23))</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Accumulation applies to all calculations.</P>
@@ -907,7 +907,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="even">
 <td><p>Current ratio *</p></td>
 <td><p>[Cash (Reference ID = 1) + Cash Equivalents (Reference ID = 2) + Short Term Investments (Reference ID = 3) + Accounts Receivable (Reference ID = 4) + Inventory (Reference ID = 5) + Notes Receivables (Reference ID = 6) + Work in Process (Reference ID = 7) + Prepaid Expenses (Reference ID = 8) + Other Current Assets (Reference ID = 9) + Inventory (Reference ID = 5)] / [Accounts Payable (Reference ID = 15) + Notes Payable (Reference ID = 16) + Current Maturities on Long Term Debt (Reference ID = 17) + Taxes Payable (Reference ID = 18) + Interest Payable (Reference ID = 19) + Dividends Payable (Reference ID = 20) + Leases Payable (Current) (Reference ID = 21) + Sinking Fund Payable (Current) (Reference ID = 22) + Other Current Liabilities (Reference ID = 23)]</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Accumulation applies to all calculations.</P>
@@ -918,7 +918,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="odd">
 <td><p>Debt to equity *</p></td>
 <td><p>Accounts Payable (Reference ID = 15) + Notes Payable (Reference ID = 16) + Current Maturities on Long Term Debt (Reference ID = 17) + Taxes Payable (Reference ID = 18) + Interest Payable (Reference ID = 19) + Dividends Payable (Reference ID = 20) + Leases Payable (Current) (Reference ID = 21) + Sinking Fund Payable (Current) (Reference ID = 22) + Other Current Liabilities (Reference ID = 23) + Long Term Debt (Reference ID = 24) / Common Stock (Reference ID = 25) + Preferred Stock (Reference ID = 26) + Additional Paid in Capital: Common (Reference ID = 27) + Additional Paid in Capital: Preferred (Reference ID = 28) + Retained Earnings (Reference ID = 29) + Treasury Stock (Reference ID = 30)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Accumulation applies to all calculations.</P>
@@ -929,7 +929,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="even">
 <td><p>Debt to total assets *</p></td>
 <td><p>[Accounts Payable (Reference ID = 15) + Notes Payable (Reference ID = 16) + Current Maturities on Long Term Debt (Reference ID = 17) + Taxes Payable (Reference ID = 18) + Interest Payable (Reference ID = 19) + Dividends Payable (Reference ID = 20) + Leases Payable (Current) (Reference ID = 21) + Sinking Fund Payable (Current) (Reference ID = 22) + Other Current Liabilities (Reference ID = 23) + Long Term Debt (Reference ID = 24)] / [Cash (Reference ID = 1) + Cash Equivalents (Reference ID = 2) + Short Term Investments (Reference ID = 3) + Accounts Receivable (Reference ID = 4) + Inventory (Reference ID = 5) + Notes Receivables (Reference ID = 6) + Work in Process (Reference ID = 7) + Prepaid Expenses (Reference ID = 8) + Other Current Assets (Reference ID = 9) + Long Term Investments (Reference ID = 10) + Property Plant and Equipment (Reference ID = 11) + Accumulated Depreciation (Reference ID = 12) + Intangible Assets (Reference ID = 13) + Other Assets (Reference ID = 14)]</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Accumulation applies to all calculations.</P>
@@ -940,7 +940,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="odd">
 <td><p>Gross profit</p></td>
 <td><p>[Sales (Reference ID = 33) *-1] - Sales Returns and Discounts Reference ID = 34) - Cost of Goods Sold (Reference ID = 35)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The Sales account category is multiplied by -1 to reflect the sales amount as a positive value.</P>
@@ -955,7 +955,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="odd">
 <td><p>Inventory turnover *</p></td>
 <td><p>Cost of Goods Sold (Reference ID = 35) / [Beginning Inventory (Reference ID = 5) + Ending Inventory (Reference = 5) / 2]</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Only the Inventory part of this KPI is accumulated.</P>
@@ -972,7 +972,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="odd">
 <td><p>Quick ratio *</p></td>
 <td><p>[Cash (Reference ID =1) + Cash Equivalents (Reference ID = 2) + Short Term Investments (Reference ID = 3) + Accounts Receivable (Reference ID = 4) + Notes Receivables (Reference ID = 6)] / (Accounts Payable (Reference ID = 15) + Notes Payable (Reference ID = 16) + Current Maturities on Long Term Debt (Reference ID = 17) + Taxes Payable (Reference ID = 18) + Interest Payable (Reference ID=19) + Dividends Payable (Reference ID = 20) + Leases Payable (Current) (Reference ID=21) + Sinking Fund Payable (Current) (Reference ID = 22) + Other Current Liabilities (Reference ID = 23)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Accumulation applies to all calculations.</P>
@@ -983,7 +983,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="even">
 <td><p>Return on total assets *</p></td>
 <td><p>[Sales (Reference ID = 33) + Other Income (Reference ID = 48) + Gain or Loss on Asset Disposal (Reference ID = 51) *-1] - Sales Returns and Discounts (Reference ID = 34) - Cost of Goods Sold (Reference ID = 35) - Selling Expense (Reference ID = 36) - Administrative Expense (Reference ID = 37) - Manufacturing Expense (Reference ID = 38) - Travel and Entertainment Expenses (Reference ID = 39 ) - Project Operation Expense (Reference ID = 40) - Salaries Expense (Reference ID = 41) - Other Employee Expenses (Reference ID = 42) - Depreciation Expense (Reference ID = 45) - Other Expenses (Reference ID = 47) - Amortization of Intangible Assets (Reference ID = 52) / Cash (Reference ID = 1) + Cash Equivalents (Reference ID = 2) + Short Term Investments (Reference ID = 3) + Accounts Receivable (Reference ID = 4) + Inventory (Reference ID = 5) + Notes Receivables (Reference ID = 6) + Work in Process (Reference ID = 7) + Prepaid Expenses (Reference ID = 8) + Other Current Assets (Reference ID = 9) + Long Term Investments (Reference ID = 10) + Property Plant and Equipment (Reference ID = 11) + Accumulated Depreciation (Reference ID = 12) + Intangible Assets (Reference ID = 13) + Other Assets (Reference ID = 14)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Reference ID 51 is included only if the balance of the accounts in that account category is negative. Otherwise it is excluded. * Only the total assets (Reference ID 1 through 14) part of this KPI is accumulated.</P>
@@ -994,7 +994,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="odd">
 <td><p>Revenue budget variance</p></td>
 <td><p>Sum of budget amounts for the period selected for the accounts / Sum of actual balances for revenue accounts for the same time period = Variance. The result is displayed as a percentage. The following ledger account categories are included in the sum of the budget amounts and in the sum of the actual amounts: Sales (Reference ID = 33) + Other Income (Reference ID = 48) + Sales Returns and Discounts (Reference ID = 34) + Gain/Loss on Asset Disposal (Reference ID = 51)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If necessary, the amounts for each account category are summed by dimension combination to compare the budget versus actual amounts by department, cost center, and so on. Reference ID 51 is included only if the balance of the accounts in that account category is negative. Otherwise it is excluded.</P>
@@ -1005,7 +1005,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="even">
 <td><p>Times interest earned</p></td>
 <td><p>[Sales (Reference ID = 33) + Other Income (Reference ID = 48) + Gain/Loss on Asset Disposal (Reference ID = 51)) *-1] - Sales Returns and Discounts (Reference ID = 34) - Cost of Goods Sold (Reference ID = 35) - Selling Expense (Reference ID = 36) - Administrative Expense (Reference ID - 37) - Manufacturing Expense (Reference ID - 38) - Travel and Entertainment Expenses (Reference ID - 39 ) - Project Operation Expense (Reference ID = 40) - Salaries Expense (Reference ID = 41) - Other Employee Expenses (Reference ID - 42) - Depreciation Expense (Reference ID = 45) - Other Expenses (Reference ID = 47) - Amortization of Intangible Assets (Reference ID = 52) / Interest Expense (Reference ID = 43)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Reference ID 51 is included only if the balance of the accounts in that account category is negative. Otherwise it is excluded.</P>
@@ -1016,7 +1016,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="odd">
 <td><p>Total expenses</p></td>
 <td><p>Cost of Goods Sold (Reference ID = 35) + Selling Expense (Reference ID = 36) + Administrative Expense (Reference ID = 37) + Manufacturing Expense (Reference ID = 38) + Travel and Entertainment Expense (Reference ID = 39) + Project Operation Expenses (Reference ID = 40) + Salaries Expense (Reference ID = 41 ) + Other Employee Expense (Reference ID = 42) + Interest Expense (Reference ID = 43) + Tax Expense (Reference ID = 44) + Depreciation Expense (Reference ID = 45) + Income Tax Expense (Reference ID = 46) + Other Expenses (Reference ID = 47) + Amortization of Intangible Assets (Reference ID = 52) + Gain/Loss on Asset Disposal (Reference ID = 51)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Reference ID 51 is included only if the balance of the accounts in that account category is positive. Otherwise it is excluded.</P>
@@ -1027,7 +1027,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="even">
 <td><p>Total revenue</p></td>
 <td><p>[Sales (Reference ID = 33) + Other Income (Reference ID = 48) + Sales Returns and Discounts (Reference ID = 34) + Gain/Loss on Asset Disposal (Reference ID = 51)] *-1</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Reference ID 51 is included only if the balance of the accounts in that account category is negative. Otherwise it is excluded.</P>
@@ -1042,7 +1042,7 @@ You can use the information in the following table to help verify the informatio
 <tr class="even">
 <td><p>Expense budget variance</p></td>
 <td><p>Sum budget amounts for the period selected for the accounts that have the following AccountCategoryRef: Cost of Goods Sold (Reference ID = 35) + Selling Expense (Reference ID = 36) + Admin Expense (Reference ID = 37) + Manuf Expense (Reference ID = 38) + Travel and Enter Expense (Reference ID = 39) + Project Expense (Reference ID = 40) + Salaries Expense (Reference ID = 41 ) + Other Employee Expenses (Reference ID = 42) + Interest Expense (Reference ID = 43) + Tax Expense (Reference ID = 44) + Depr Expense (Reference ID = 45) + Income Tax Expene (Reference ID = 46) + Other Expenses (Reference ID = 47) + Amortization of Intangible Assets (Reference ID = 52) + Gain/Loss on Asset Disposal (Reference ID = 51) / Sum of actual balances for expense accounts for the same time period: Cost of Goods Sold (Reference ID = 35) + Selling Expense (Reference ID = 36) + Admin Expense (Reference ID = 37) + Manu Expense (Reference ID = 38) + Travel and Enter Expense (Reference ID = 39) + Project Expenses (Reference ID = 40) + Salaries Expense (Reference ID = 41 ) + Other Employee Expenses (Reference ID = 42) + Interest Expense (Reference ID = 43) + Tax Expense (Reference ID = 44) + Depr Expense (Reference ID = 45) + Income Tax Expense (Reference ID = 46) + Other Expenses (Reference ID = 47) + Amortization of Intangible Assets (Reference ID = 52) + Gain/Loss on Asset Disposal (Reference ID = 51)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Reference ID 51 is included only if the balance of the accounts in that account category is positive. Otherwise it is excluded.</P>
@@ -1101,14 +1101,14 @@ You can use the information in the following table to help verify the informatio
 <tr class="odd">
 <td><p>Net assets</p></td>
 <td><p>(Sales (Reference ID = 33) + Other Income (Reference ID = 48) + Sales Returns and Discounts (Reference ID = 34) + Gain/loss on asset disposal (Reference ID = 51)) *-1 — (COGS (Reference ID = 35) + Selling Expense (Reference ID = 36) + Admin Expense (Reference ID = 37) + Manuf Expense (Reference ID = 38) + T&amp;E Expense (Reference ID = 39) + Project and Operation Expense (Reference ID = 40) + Salaries Expense (Reference ID = 41) + Other Employee Expenses (Reference ID = 42) + Interest Expense (Reference ID = 43) + Tax Expense (Reference ID = 44) + Depreciation Expense (Reference ID = 45) + Income Tax Expense (Reference ID = 46) + Other Expenses (Reference ID = 47) + Amortization of intangible assets (Reference ID = 52) Gain/loss on asset disposal (Reference ID = 51))</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Reference ID 51 is included only if the balance of the accounts in that account category is negative. Otherwise it is excluded.</P>
 
 
 </div>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This KPI is available in Microsoft Dynamics AX 2012 Feature Pack.</P>

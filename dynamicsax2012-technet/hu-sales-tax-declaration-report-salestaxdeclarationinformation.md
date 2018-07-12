@@ -91,7 +91,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>Approve</strong></p></td>
 <td><p>Select this check box to approve the sales tax statement. You can select this check box when you create the report, or you can select this check box after you review the report details.</p>
 <p>To approve the report after the report has been generated, select the report in the lower grid in the form, click <strong>Print report</strong> to open the <strong>Sales tax declaration information</strong> form, and then select the <strong>Approve</strong> check box.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This field is displayed in the <STRONG>Sales tax declaration information</STRONG> form.</P>
@@ -102,7 +102,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Include use-tax</strong></p></td>
 <td><p>Select the check box to include use tax transactions on the settlement report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This field is displayed in the <STRONG>Sales tax declaration information</STRONG> form.</P>
@@ -118,7 +118,7 @@ When you generate this report, the following default parameters are displayed. Y
 <li><p><strong>Amounts in company currency for sales tax reporting</strong> – Print the values with the transaction sales tax exchange rate. This includes any lines that contain calculated sales tax discrepancies.</p></li>
 <li><p><strong>Amounts in original currency</strong> – Print the values in the currency in which the transaction was posted.</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This field is displayed in the <STRONG>Sales tax declaration information</STRONG> form.</P>
@@ -130,7 +130,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>Printer</strong></p></td>
 <td><p>The printer that is currently selected. To select a different printer, click <strong>Destinations ...</strong>.</p>
 <p>This field is blank if <strong>Screen</strong> is selected in the <strong>Print destination</strong> field.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This field is displayed in the <STRONG>Sales tax declaration information</STRONG> form.</P>
@@ -141,7 +141,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Print destination</strong></p></td>
 <td><p>The destination where the report is produced. Click <strong>Destinations ...</strong> to change the destination for the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This field is displayed in the <STRONG>Sales tax declaration information</STRONG> form.</P>

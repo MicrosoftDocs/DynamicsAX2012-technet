@@ -358,7 +358,7 @@ The following tables describe the configuration tasks that you must complete in 
 <tr class="even">
 <td><p>Assign product assortments to the store</p></td>
 <td><p>The assortment that is assigned to a store contains a list of products that are available in the store.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]  
 > You can assign the retail store to an existing assortment or create a new assortment for the retail store.

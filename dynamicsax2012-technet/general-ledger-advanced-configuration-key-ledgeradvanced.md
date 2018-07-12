@@ -93,7 +93,7 @@ The following table provides information about how this configuration key relate
 <p><a href="cash-flow-forecast-configuration-key-ledgeradvcashflowforecast.md">Cash flow forecast configuration key (LedgerAdvCashflowForecast)</a></p>
 <p><a href="consolidate-configuration-key-ledgeradvconsolidations.md">Consolidate configuration key (LedgerAdvConsolidations)</a></p>
 <p><a href="intercompany-accounting-configuration-key-ledgeradvintercompanyaccounting.md">Intercompany accounting configuration key (LedgerAdvIntercompanyAccounting)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

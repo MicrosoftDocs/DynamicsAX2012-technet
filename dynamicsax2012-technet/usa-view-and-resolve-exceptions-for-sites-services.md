@@ -47,7 +47,7 @@ You can view and resolve exceptions in Microsoft Dynamics AX that occur when you
     <li><p>Click <strong>Organization administration</strong> &gt; <strong>Setup</strong> &gt; <strong>Sites Services</strong> &gt; <strong>Available solutions</strong>.</p></li>
     <li><p>In the list of solutions on the left, select the solution, and then click <strong>Update</strong>.</p></li>
     </ol>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>When you update the structure of a solution, all of the pages in the solution are deleted. You must then create new pages for the solution.</P>

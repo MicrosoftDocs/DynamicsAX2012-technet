@@ -153,7 +153,7 @@ You must specify attributes for a warehouse location to determine how a warehous
     <tr class="even">
     <td><p><strong>Allow negative inventory</strong></p></td>
     <td><p>Select this check box to allow negative inventory of items at the specified location.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>Locations that use license plate tracking cannot have negative inventory for items.</P>
@@ -164,7 +164,7 @@ You must specify attributes for a warehouse location to determine how a warehous
     <tr class="odd">
     <td><p><strong>Allow mixed items</strong></p></td>
     <td><p>Select this check box to allow the storage of mixed items at the specified location.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you select this check box, you must select the <STRONG>Allow mixed inventory batches</STRONG> check box.</P>

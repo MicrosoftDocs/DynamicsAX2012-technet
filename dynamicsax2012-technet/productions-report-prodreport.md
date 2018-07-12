@@ -38,7 +38,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>Click <strong>Select</strong> to configure a list of production orders that is based on the following production criteria:</p>
 <p><strong>Production</strong></p>
 <p><strong>Status</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>It is possible to add more criteria.</P>

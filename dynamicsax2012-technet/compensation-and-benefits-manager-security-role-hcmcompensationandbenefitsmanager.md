@@ -105,13 +105,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Set up position budgeting</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>HcmForecastPositionBudgetMaintain</p></td>
 <td><p>Add, edit, and delete all setup information that is used for position budgeting</p></td>
 </tr>
@@ -132,37 +130,31 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Approve worker actions</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>HcmWorkerActionApprove</p></td>
 <td><p>Approve worker actions of any worker action type</p></td>
 </tr>
 <tr class="even">
 <td><p>Inquire into worker actions</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>HcmWorkerActionProcessInquire</p></td>
 <td><p>Respond to inquiries about worker actions</p></td>
 </tr>
 <tr class="odd">
 <td><p>Maintain worker actions</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>HcmWorkerActionProcessMaintain</p></td>
 <td><p>Create, edit, and delete worker actions</p></td>
 </tr>
@@ -183,61 +175,51 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Average earnings</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>RPayEarningInquire</p></td>
 <td><p></p></td>
 </tr>
 <tr class="even">
 <td><p>Reconcile pay statements</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>RPayPayStatementReconcile</p></td>
 <td><p></p></td>
 </tr>
 <tr class="odd">
 <td><p>Submit legislative reports to regulatory authorities</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>RPayReportsSubmit</p></td>
 <td><p></p></td>
 </tr>
 <tr class="even">
 <td><p>Set up time management master data</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>RPaySetupTimeMasterData</p></td>
 <td><p></p></td>
 </tr>
 <tr class="odd">
 <td><p>Inquire into payments to workers</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>RPayWorkerInquire</p></td>
 <td><p></p></td>
 </tr>

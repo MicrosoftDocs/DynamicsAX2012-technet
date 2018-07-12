@@ -140,7 +140,7 @@ The following forms are available when the configuration key is enabled.
   </tr>
   <tr>
     <td>  <strong>All general budget reservation forms</strong> 
-    <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Hh450729.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+    <div><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Hh450729.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 General budget reservations are available only if the <strong>Public Sector</strong> configuration key is selected and if Microsoft Dynamics AX 2012 R3 Cumulative Update 8 is installed with the following hotfix: KB3047235
   </p> </td></tr></table></div>  </td>
@@ -166,7 +166,7 @@ The following forms are available when the configuration key is enabled.
   </tr>
   <tr>
     <td> <p> <strong>Role Center</strong> </p> </td>
-    <td> <p> <a href="role-centers-enterprise-portal.md" runat="server" xmlns="http://www.w3.org/1999/xhtml">Role Centers (Enterprise Portal)</a> </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Hh450729.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+    <td> <p> <a href="role-centers-enterprise-portal.md" runat="server" xmlns="http://www.w3.org/1999/xhtml">Role Centers (Enterprise Portal)</a> </p> <div><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Hh450729.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 The <strong>Public sector</strong> configuration key adds the <strong xmlns="http://www.w3.org/1999/xhtml">Finance director</strong> Role Center, and modifies the <strong xmlns="http://www.w3.org/1999/xhtml">Accountant</strong>, <strong xmlns="http://www.w3.org/1999/xhtml">Accounting manager</strong>, <strong xmlns="http://www.w3.org/1999/xhtml">Controller</strong>, and <strong xmlns="http://www.w3.org/1999/xhtml">Accounts receivable administrator</strong> Role Centers for Public sector.
   </p> </td></tr></table></div></td>
@@ -354,7 +354,7 @@ The following table provides information about how this configuration key relate
 <td><p><a href="advanced-ledger-entry-configuration-key-advancedledgerentry.md">Advanced ledger entry configuration key (AdvancedLedgerEntry)</a></p>
 <p><a href="public-sector-1099g-configuration-key-tax1099g.md">Public sector 1099G configuration key (Tax1099G)</a></p>
 <p><a href="public-sector-1099s-configuration-key-tax1099s.md">Public sector 1099S configuration key (Tax1099S)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

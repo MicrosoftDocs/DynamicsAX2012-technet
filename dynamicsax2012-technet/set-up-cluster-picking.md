@@ -75,7 +75,7 @@ To set up a cluster profile, follow these steps:
     <tr class="odd">
     <td><p><strong>Generate cluster ID</strong></p></td>
     <td><p>Select this check box to automatically create identifiers for clusters. If you do not select this check box, you must scan the license plate ID to register the cluster.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you want to enable workers to pass a cluster to another worker, you must create a mobile device menu item that does not generate cluster IDs.</P>
@@ -87,7 +87,7 @@ To set up a cluster profile, follow these steps:
     <td><p><strong>Activate positions</strong></p></td>
     <td><p>Select this check box to automatically generate names for positions based on a numeric or alphabetic system. You select the naming system to use in the <strong>Position name</strong> field. The numeric naming system creates names as 1, 2, 3, and so on. The alphabetic system creates names as A, B, C, and so on.</p>
     <p>If this check box is cleared, the license plate ID for the position is used.</p>
-    <div class="alert">
+    <div>
 
     > [!TIP]
     > <P>Positions represent containers, such as cartons or plastic bins on a cart, and are assigned to work orders. You use positions to separate items for each order during picking.</P>

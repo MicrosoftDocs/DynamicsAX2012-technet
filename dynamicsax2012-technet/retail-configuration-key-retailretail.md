@@ -111,7 +111,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="retail-headquarters-configuration-key-retailheadquarters.md">Retail headquarters configuration key (RetailHeadquarters)</a></p>
 <p><a href="retail-scheduler-configuration-key-retailscheduler.md">Retail scheduler configuration key (RetailScheduler)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

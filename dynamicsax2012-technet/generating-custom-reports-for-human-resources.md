@@ -94,7 +94,7 @@ For more information about how to create custom reports from the data in a cube,
 </ul></li>
 <li><p>The <strong>Position description</strong> dimension attribute under the <strong>Positions</strong> dimension</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>To see all of the positions that a worker has had, see the <STRONG>Worker position assignments</STRONG> table later in this topic.</P>
@@ -146,7 +146,7 @@ For more information about how to create custom reports from the data in a cube,
 <li><p>(Optional) The <strong>Company</strong> dimension attribute under the <strong>Company</strong> dimension</p></li>
 <li><p>(Optional) A filter for the <strong>Employment end date</strong>.<strong>Year</strong> to equal a specific calendar year</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>Instead of using the employment start date, if you use the <STRONG>Employment end date</STRONG> dimension attributes with the <STRONG>Number of hired workers</STRONG> measure, the count displayed is the number of workers hired during the specified period.</P>
@@ -322,7 +322,7 @@ For more information about how to create custom reports from the data in a cube,
 <li><p>The <strong>Hiring manager</strong>.<strong>Worker</strong> dimension attribute under the <strong>Hiring manager</strong> dimension</p></li>
 <li><p>The <strong>Recruiter</strong>.<strong>Worker</strong> dimension attribute under the <strong>Recruiter</strong> dimension</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>The hiring manager is often the new hire’s manager. If hiring managers are specified, they appear in the <STRONG>Hiring manager</STRONG> field in the <STRONG>Recruitment project</STRONG> form.</P>
@@ -428,7 +428,7 @@ For more information about how to create custom reports from the data in a cube,
 <li><p><strong>Media type</strong></p></li>
 </ul></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>Both <STRONG>None</STRONG> and <STRONG>Unknown</STRONG> mean that there is no media or media type for that application.</P>
@@ -482,7 +482,7 @@ For more information about how to create custom reports from the data in a cube,
 </ul></li>
 </ul>
 <p>The value of the <strong>Is position worker assignment active</strong> dimension for a current position is <strong>Yes</strong>, and for a past position is <strong>No</strong>.</p>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>Under the <STRONG>Positions</STRONG> dimension, there are two dimension attributes for the position ID, <STRONG>Position</STRONG> and <STRONG>Positions</STRONG>. <STRONG>Position</STRONG> shows distinct values while <STRONG>Positions</STRONG> shows duplicates. When you create a report by using measures and dimensions, it doesn’t matter which one you use; both attributes produce the same results.</P>

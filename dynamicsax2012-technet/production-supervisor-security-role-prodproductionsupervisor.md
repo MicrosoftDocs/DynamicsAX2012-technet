@@ -55,7 +55,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Inquire into product change cases</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -182,7 +182,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintains production scheduling</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -204,7 +204,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain license plate master</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -216,7 +216,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain kanban wave transactions</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -228,7 +228,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain production waves</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>

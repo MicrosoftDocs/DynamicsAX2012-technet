@@ -101,7 +101,7 @@ To create a timesheet journal for a department, follow these steps:
     <tr class="odd">
     <td><p><strong>Department code</strong></p></td>
     <td><p>Select the department code.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The timesheet is generated for the employees in this department.</P>

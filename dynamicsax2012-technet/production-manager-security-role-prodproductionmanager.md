@@ -65,7 +65,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Approve and activate product changes</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -77,7 +77,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into product change cases</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -89,7 +89,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain product change cases</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -126,7 +126,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Approve inventory batch movements</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -138,7 +138,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into batch merges</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -150,7 +150,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Inquire into inventory status</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -192,7 +192,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain time and attendance profiles</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
@@ -274,7 +274,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Review performance of demand forecasting process</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -286,7 +286,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Enable the demand forecasting process</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -338,7 +338,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Inquire into kanban wave operations</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -350,7 +350,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into production</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>

@@ -101,7 +101,7 @@ The following table lists the parameters that control the general behavior of Se
 </ul>
 <p>If <em>HideUI</em>=1, <em>AcceptLicenseTerms</em> must be set to 1. If <em>AcceptLicenseTerms</em>=0, an error message is displayed, and installation can’t continue.</p>
 <p>If <em>HideUI</em>=0, the License Terms screen is displayed, regardless of the setting of <em>AcceptLicenseTerms</em>.</p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>Only models that are published by Microsoft are covered under the license terms for Microsoft Dynamics AX.</P>
@@ -115,7 +115,7 @@ The following table lists the parameters that control the general behavior of Se
 <td><p>Specify where the log files for the Setup, Setup Support, and Windows installers are saved.</p>
 <p>By default, the following path is used:</p>
 <p>%<em>&lt;Program Files&gt;</em>%\Microsoft Dynamics AX\60\Setup Logs\YYYY-MM-DD HH:MM-SS</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>When log files are saved to the default location, they are arranged in dated folders to protect existing log files from being overwritten. If you override the default <EM>LogDir</EM> value, the logs are saved to the exact folder that you specify. Any existing log file in that folder is overwritten.</P>
@@ -194,7 +194,7 @@ The following table lists the parameters that control the general behavior of Se
 <td><p>Specify the path of a file that contains other parameters.</p>
 <p>If you use this parameter, it must be the only parameter, and the parameter file must contain all the other parameters that you want to specify.</p>
 <p>In the parameter file, each parameter's <em>Name=Value</em> combination must be on a separate line. You can use ExampleParmFile.txt, which is available in the DVD\Support folder, as an example.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Don’t include double quotation marks in parameter files. Because line returns are used as delimiters in a parameter file, values that otherwise require double quotation marks don’t require them here.</P>
@@ -928,7 +928,7 @@ The following table lists the parameters that control how Setup installs and rem
 <td><p><em>ConnectorServerName</em></p></td>
 <td><p>None</p></td>
 <td><p>Specify the name of the database server that will host the Microsoft Dynamics Integration (MSDI) database.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The MSDI database isn’t required to be on the same computer as Connector for Microsoft Dynamics.</P>
@@ -1099,7 +1099,7 @@ The following table lists the parameters that control how Setup interacts with t
 <li><p>0 – Verify digital signatures for model files.</p></li>
 <li><p>1 – Don’t verify digital signatures for model files.</p></li>
 </ul>
-<div class="alert">
+<div>
 <table>
 <colgroup>
 <col style="width: 100%" />
@@ -1122,7 +1122,7 @@ The following table lists the parameters that control how Setup interacts with t
 <td><p><em>DbSqlModelStoreBaseline</em></p></td>
 <td><p>MicrosoftDynamicsAxBaseline</p></td>
 <td><p>Specify the name of the database that is used for the baseline model store.</p>
-<div class="alert">
+<div>
 
 > [!WARNING]
 > <P>Don’t use this parameter. We recommend that you install the baseline model store by using the Setup wizard.</P>
@@ -1141,7 +1141,7 @@ The following table lists the parameters that control how Setup interacts with t
 <td><p>Specify the optional models to install. To include multiple model files, separate the values by using a semicolon (;). If this parameter isn’t specified, no optional models are installed.</p>
 <p>If an optional model file isn’t located in the DVD\Models folder, you must specify the full path of the file.</p>
 <p>For example: <em>AdditionalModelFiles</em>=&lt;Drive&gt;:\&lt;FolderLocation&gt;\&lt;model&gt;.model</p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>Only models that are published by Microsoft are covered under the license terms for Microsoft Dynamics AX.</P>
@@ -1260,7 +1260,7 @@ The following table lists the parameters that control how Setup installs and rem
 <li><p>1 – Create a site.</p></li>
 <li><p>2 – Overwrite the existing site.</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you use this parameter when you install Enterprise Portal, you can use only one URL per website. If you want to use multiple URLs for a website, you must install Enterprise Portal by using the Setup wizard.</P>
@@ -1856,7 +1856,7 @@ The following table lists the parameters that control how Setup installs and rem
 <td><p><em>ReportingServicesInstance</em></p></td>
 <td><p>The first instance of Reporting Services</p></td>
 <td><p>Specify the instances of Reporting Services that are configured. This parameter is required if more than one instance of Reporting Services is installed on a computer.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you specify a named instance, you must type the name by using all uppercase letters.</P>
@@ -2594,7 +2594,7 @@ The following table lists the parameters that control how Setup installs and rem
 </ul>
 <p>Enter the value in the format <em>domain\account</em> or <em>account</em>. If you don’t specify a domain, the domain that the local computer belongs to is used. If you specify a local account, use the name of the local computer as the domain. For example, use <em>ComputerName\LocalAccount</em> or NT AUTHORITY\NETWORK SERVICE.</p>
 <p>To include multiple service accounts, separate the values by using a semicolon (;).</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The spelling of built-in accounts must match the spelling that is used by the language version of the operating system.</P>
@@ -3013,7 +3013,7 @@ The following table lists the parameters that control how Setup installs and rem
 <td><p>Specify the AOS service accounts that are added to the shared directory. If an AOS instance is already installed on this computer, the default account is the service account of the AOS instance that was most recently installed.</p>
 <p>Enter the value in the format <em>Domain\account</em> or <em>account</em>. If you don’t specify a domain, the domain that the local computer belongs to is used. If you specify a local account, use the name of the local computer as the domain. For example, use <em>ComputerName\LocalAccount</em> or NT AUTHORITY\NETWORK SERVICE.</p>
 <p>To include multiple service accounts, separate the values by using a semicolon (;).</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The spelling of built-in accounts must match the spelling that is used by the language version of the operating system.</P>

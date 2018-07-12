@@ -54,7 +54,7 @@ The following procedure explains how to specify a measure for a cube on a field 
     <tr class="odd">
     <td><p><strong>AnalysisDefaultTotal</strong></p></td>
     <td><p>An aggregate function that is used to aggregate the measure values.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>Count and DistinctCount are the only aggregate function settings allowed on String fields by Analysis Services. If you set the <STRONG>AnalysisDefaultTotal</STRONG> value to an unsupported value, the cube will not build.</P>

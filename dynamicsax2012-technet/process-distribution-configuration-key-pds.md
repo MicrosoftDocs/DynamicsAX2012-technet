@@ -55,7 +55,7 @@ The following table provides information about how this configuration key relate
 <p><a href="same-batch-lot-reservation-configuration-key-pdssamelot.md">Same batch lot reservation configuration key (PdsSameLot)</a></p>
 <p><a href="shelf-life-as-of-date-configuration-key-pdsshelf.md">Shelf life as of date configuration key (PdsShelf)</a></p>
 <p><a href="vendor-batch-configuration-key-pdsvendbatch.md">Vendor batch configuration key (PdsVendBatch)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

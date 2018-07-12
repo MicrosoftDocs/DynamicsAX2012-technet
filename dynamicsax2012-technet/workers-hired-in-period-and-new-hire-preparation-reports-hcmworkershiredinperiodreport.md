@@ -56,7 +56,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Print social security number</strong></p></td>
 <td><p>Select this check box to print the workers’ Social Security numbers on the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when you open the form from the <STRONG>New hire preparation</STRONG> link.</P>

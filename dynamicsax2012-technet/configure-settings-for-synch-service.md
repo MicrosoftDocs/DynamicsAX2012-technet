@@ -163,7 +163,7 @@ This topic describes how to use the Synch Service Settings wizard to manage Comm
     <tr class="odd">
     <td><p><strong>Disable IPsec</strong></p></td>
     <td><p>Select this option to bypass the IPsec requirements of Synch Service. For more information, see <a href="configure-or-bypass-ipsec-for-synch-service.md">Configure or bypass IPsec for Synch Service</a>.</p>
-    <div class="alert"> 
+    <div> 
     > [!Note]  
 	> If the <strong>Disable IPsec</strong> option is selected for a distribution location in Retail Scheduler, the <strong>Disable IPsec</strong> option in Synch Service Settings should be selected for all instances of Synch Service that communicate with that location.
 
@@ -224,7 +224,7 @@ This topic describes how to use the Synch Service Settings wizard to manage Comm
     <li><p><strong>Detail</strong> – Very detailed information about operations in Synch Service is logged.</p></li>
     <li><p><strong>Functions</strong> – Highly detailed and technical information about operations in Synch Service is logged. This option is intended for use by developers only.</p></li>
     </ul>
-    <div class="alert"> 
+    <div> 
     > [!Important]  
 	> The logging that is specified by the <strong>Log Level</strong> settings can occur only if the <strong>Log Mode</strong> option is selected.
 

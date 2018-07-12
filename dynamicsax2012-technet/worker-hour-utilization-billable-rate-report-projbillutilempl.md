@@ -36,7 +36,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Worker period</strong></p></td>
 <td><p>Select a worker period. Only workers associated with the selected period are displayed on the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Workers are associated with a period based on the pay and time reporting schedule that they follow.</P>
@@ -56,7 +56,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Forecast model</strong></p></td>
 <td><p>Select the forecast model that you want the report to use. This field is available only if you selected <strong>Budget</strong> in the <strong>Actual vs. budget</strong> field.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you are using project budget control, select the budget forecast model that is used by this project.</P>

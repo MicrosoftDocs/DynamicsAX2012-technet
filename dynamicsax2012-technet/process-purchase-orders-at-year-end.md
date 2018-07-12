@@ -113,7 +113,7 @@ Select one of the following year-end processing options to close purchase order 
 </tr>
 <tr class="even">
 <td><p><strong>Process and carry forward budget</strong></p></td>
-<td><div class="alert">
+<td><div>
 
 > [!NOTE]
 > <P>This option is available only if budget control has been enabled.</P>

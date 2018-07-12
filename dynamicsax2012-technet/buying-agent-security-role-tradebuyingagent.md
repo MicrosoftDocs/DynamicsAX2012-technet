@@ -155,13 +155,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>View fiscal document source texts</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2.</P>
 
-
-</div></td>
+</td>
 <td><p>FiscalDocumentSourceTextView_BR</p></td>
 <td><p></p></td>
 </tr>

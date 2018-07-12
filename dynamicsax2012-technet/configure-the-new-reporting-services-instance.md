@@ -44,7 +44,7 @@ Use the following procedure to configure the new Reporting Services instance.
     <tr class="even">
     <td><p>Service Account</p></td>
     <td><p>Enter the name and password of the account that is used as the Business Connector proxy.</p>
-    <div class="alert"> 
+    <div> 
 
     > [!NOTE]
     > <P>To view the account that is used as the Business Connector proxy, open Microsoft Dynamics AX and then click <STRONG>System administration</STRONG> &gt; <STRONG>Setup</STRONG> &gt; <STRONG>System</STRONG> &gt; <STRONG>System service accounts</STRONG>.</P>
@@ -115,13 +115,11 @@ After you have configured the Reporting Services instance for local administrati
 </tr>
 <tr class="even">
 <td><p>Report Manager</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If Reporting Services is running in SharePoint integrated mode, you do not have to verify that you can access this website. Report Manager is not used when Reporting Services is running in SharePoint integrated mode.</P>
 
-
-</div></td>
+</td>
 <td><p>http://[SSRSServerName]:80/Reports_[SSRSInstanceName]</p></td>
 </tr>
 </tbody>

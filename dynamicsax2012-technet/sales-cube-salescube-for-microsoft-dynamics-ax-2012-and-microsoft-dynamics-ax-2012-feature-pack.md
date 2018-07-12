@@ -806,7 +806,7 @@ The Sales cube contains the following calculated measures.
 <td><p>Average days late (requested ship date)</p></td>
 <td><p>Average</p></td>
 <td><p>The <strong>Days late requested ship date</strong> measure divided by the number of all packing slip lines.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>To view the average of the delayed days for only delayed packing slips, slice by the <STRONG>Customer packing slip lines.Delayed requested ship date</STRONG> dimension and view the delayed packing slips.</P>
@@ -818,7 +818,7 @@ The Sales cube contains the following calculated measures.
 <td><p>Average days late (confirmed ship date)</p></td>
 <td><p>Average</p></td>
 <td><p>The <strong>Days late confirmed ship date</strong> measure divided by the number of all packing slip lines.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>To view the average of the delayed days for only delayed packing slips, slice by the <STRONG>Customer packing slip lines.Delayed confirmed ship date</STRONG> dimension and view the delayed packing slips.</P>

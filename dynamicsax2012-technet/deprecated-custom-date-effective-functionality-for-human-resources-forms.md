@@ -49,7 +49,7 @@ In Microsoft Dynamics AX 2009, Employee/contractor, Job, Position, and Departmen
 <tr class="odd">
 <td><p>Changes to upgrade</p></td>
 <td><p>Existing date-effective records are upgraded to the new tables that store these records. The AX 2012 framework completes the processing of date-effective records.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The table structure has been normalized in <STRONG>Human resources</STRONG>. Therefore, one date-effective record might be split into multiple records, depending on the new table definitions in AX 2012.</P>

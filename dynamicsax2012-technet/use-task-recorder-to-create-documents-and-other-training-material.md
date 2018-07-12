@@ -75,7 +75,7 @@ The following table shows the requirements for using Task recorder in basic mode
 </ul></td>
 <td><ul>
 <li><p>All the programs that are required for basic mode.</p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>In advanced mode, Microsoft Dynamics AX and AOS must be installed on the same computer.</P>

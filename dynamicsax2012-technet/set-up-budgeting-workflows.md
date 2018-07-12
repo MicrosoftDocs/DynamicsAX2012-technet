@@ -62,7 +62,7 @@ You can use workflow approvals for the following Budgeting document types.
 <tbody>
 <tr class="odd">
 <td><p><strong>Budget plans</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>
@@ -93,7 +93,7 @@ You can use workflow approvals for the following Budgeting document types.
 </tr>
 <tr class="odd">
 <td><strong>General budget reservations</strong> 
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>General budget reservations are available only if the <STRONG>Public Sector</STRONG> configuration key is selected and if Microsoft Dynamics AX 2012 R3 Cumulative Update 8 is installed with the following hotfix: KB3047235</P>
@@ -130,7 +130,7 @@ The following table lists the types of workflows that you can create in Budgetin
 <tbody>
 <tr class="odd">
 <td><p><strong>Budget plan workflows</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>
@@ -190,7 +190,7 @@ The following table lists the types of workflows that you can create in Budgetin
 </tr>
 <tr class="odd">
 <td><strong>General budget reservations</strong> 
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>General budget reservations are available only if the <STRONG>Public Sector</STRONG> configuration key is selected and if Microsoft Dynamics AX 2012 R3 Cumulative Update 8 is installed with the following hotfix: KB3047235</P>
@@ -255,7 +255,7 @@ The following calculated fields and expressions are used with Budgeting workflow
 <td><p><strong>Transaction currency amount</strong></p></td>
 <td><p>The transaction amount, in the accounting currency.</p>
 <p>This field is available for <strong>Budget account entry workflow</strong> and <strong>Budget register entry workflow</strong> configurations.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>When <STRONG>Transaction currency amount</STRONG> is used for transfers, you must include a second condition to ignore any negative amounts. For example:</P>
@@ -294,7 +294,7 @@ You can assign a workflow element to the following groups of participants.
 </tr>
 <tr class="even">
 <td><p><strong>Budget organization participants</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>

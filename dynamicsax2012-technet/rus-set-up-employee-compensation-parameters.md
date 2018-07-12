@@ -117,7 +117,7 @@ To set up the types of work incapacities, follow these steps:
     <tr class="even">
     <td><p><strong>Excluded time group</strong></p></td>
     <td><p>Select the time group that contains the time codes that is to calculate the number of days that are excluded from the number of calendar days.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The excluded number of days is used to calculate the daily average earnings. The daily average earnings are used to calculate social fund contributions for specific kinds of incapacities related to child care.</P>
@@ -132,7 +132,7 @@ To set up the types of work incapacities, follow these steps:
     <tr class="even">
     <td><p><strong>Calendar</strong></p></td>
     <td><p>Select the calendar that is used to calculate the part time coefficient when the allowance is paid based on MROT.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>MROT is the minimum monthly wage for employees in Russia.</P>
@@ -265,7 +265,7 @@ Use the information in the following table to select the details for calculation
 <tr class="odd">
 <td><p><strong>Minimal child care monthly allowance from FSS</strong></p></td>
 <td><p>Select the rate code that defines the minimum monthly allowance from the FSS for child care.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>FSS is defined as the off-budget fund providing insured individuals with certain social benefits.</P>

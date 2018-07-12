@@ -184,7 +184,7 @@ Back to top
     <tr class="even">
     <td><p><strong>Dimension-based configuration</strong></p></td>
     <td><p>Variants are configured by using the <strong>Configuration</strong> dimension when the variants are added to transaction lines. The <strong>Configuration</strong> dimension must be active in the product dimension group that is associated with the product master.</p>
-    <div class="alert">
+    <div>
 
     > [!TIP]
     > <P>The <STRONG>Size</STRONG> and <STRONG>Color</STRONG> dimensions can also be used with this configuration technology.</P>

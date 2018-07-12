@@ -55,49 +55,41 @@ The project type that you choose depends on the purpose of the project. The foll
 <li><p>Investment projects can be set up with an optional maximum capitalization limit.</p></li>
 </ul>
 <p>As an investment project progresses, you record its costs in WIP accounts, where the costs are held until the project is completed. When the project is eliminated, you transfer the WIP value to a fixed asset, a ledger account, or a new project.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Transactions on investment projects are not reflected in the <STRONG>Post costs</STRONG> form, <STRONG>Accrue revenue</STRONG> form, or <STRONG>Create invoice proposals</STRONG> form.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p><strong>Cost project</strong></p></td>
 <td><p>Like Investment projects, Cost projects are typically used to track internal projects, and only hours, expenses, and items can be recorded for costs projects. Cost projects are usually of shorter duration than investment projects. Unlike Investment projects, Cost projects cannot be capitalized to balance sheet accounts. Instead, their project transactions are posted only to profit and loss accounts.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Transactions on cost projects are not reflected in the <STRONG>Post costs</STRONG> form, <STRONG>Accrue revenue</STRONG> form, or <STRONG>Create invoice proposals</STRONG> form.</P>
 
 
-</div>
 <p>Because Cost projects are typically used to track internal projects, they do not ordinarily have to be associated with a customer account. However, if your setup requires that item requirements be created for purchase orders, you do have to associate the Cost project with a customer. This is because item requirements are managed as sales order lines, and the system requires that a customer be specified. However, this setup will not result in item requirements being created automatically from a purchase order. For Cost projects, the <strong>Create item requirement</strong> setting is ignored.</p>
 <p>If you do need an item requirement in a Cost project, you can create one manually, so long as a customer is associated with the project. You can select the <strong>Create item requirement</strong> option in the <strong>General</strong> area in the <strong>Project management and accounting parameters</strong> form.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Internal</strong></p></td>
 <td><p>Internal projects are used to track costs on a project that is internal to your organization. This type of project can provide a planning tool to manage resource consumption.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Transactions on internal projects are not reflected in the <STRONG>Accrue revenue</STRONG> form or <STRONG>Create invoice proposals</STRONG> form.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p><strong>Time project</strong></p></td>
 <td><p>Time projects are used to track time that is associated with non-chargeable and non-productive activities, such as a project to track sick time for workers. Transactions in Time projects are not posted to the ledger. Instead, they are included in worker utilization reports.</p>
 <p>Only hour transactions can be recorded in Time projects. You use an hour journal or timesheet to register these hours to the project. After the hours are registered, they appear as project transactions, but without a corresponding voucher transaction.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Transactions on time projects are not reflected in the <STRONG>Post costs</STRONG> form, <STRONG>Accrue revenue</STRONG> form, or <STRONG>Create invoice proposals</STRONG> form.</P>
 
-
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>

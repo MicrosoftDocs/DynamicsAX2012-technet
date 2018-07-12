@@ -96,7 +96,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p>Version</p></td>
 <td><p>Microsoft Dynamics AX 2012 R3 or Microsoft Dynamics AX 2012 R2</p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>If you’re using AX 2012 R2, we strongly recommend that you install the garnishment enhancement hotfix.</P>
@@ -398,7 +398,7 @@ If you don't have access to the pages that are used to complete this task, conta
 <tr class="odd">
 <td><p><strong>Configuration keys</strong></p></td>
 <td><p><strong>Payroll - USA</strong></p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>When you use Payroll, we highly recommend that you turn off the <STRONG>Payroll information</STRONG> configuration key under the <STRONG>Human resource I</STRONG> configuration key. The forms and tables that are enabled by that configuration key are not used by Payroll. If Payroll is installed and the configuration key is enabled, it might be difficult to make sure that your data is entered and tracked correctly.</P>

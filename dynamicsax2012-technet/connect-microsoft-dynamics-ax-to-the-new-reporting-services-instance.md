@@ -52,7 +52,7 @@ Complete the following procedure to connect an instance of Microsoft Dynamics AX
     <td><ul>
     <li><p>If Reporting Services is running in native mode, enter the URL of the Report Manager website. The URL is typically http://[SSRSServerName]/Reports_[SSRSInstanceName].</p></li>
     <li><p>If Reporting Services is running in SharePoint integrated mode, leave this field empty.</p>
-    <div class="alert"> 
+    <div> 
 
     > [!NOTE]
     > <P>SharePoint integrated mode is supported if you are using Microsoft Dynamics AX 2012 R2 or later.</P>
@@ -68,7 +68,7 @@ Complete the following procedure to connect an instance of Microsoft Dynamics AX
     <tr class="odd">
     <td><p><strong>SharePoint integrated mode</strong></p></td>
     <td><p>Select this check box if Reporting Services is running in SharePoint integrated mode.</p>
-    <div class="alert"> 
+    <div> 
 
     > [!NOTE]
     > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>

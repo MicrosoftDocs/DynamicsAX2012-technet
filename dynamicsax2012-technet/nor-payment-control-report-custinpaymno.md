@@ -54,7 +54,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Summing of bank transactions</strong></p></td>
 <td><p>Select this check box to add up bank transactions.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>OCR+AG innlesning (NO)</STRONG> import format is selected as the method of payment.</P>
@@ -65,7 +65,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Error account customer</strong></p></td>
 <td><p>Select the details of the invalid customer account that are relevant to the import.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>BBS eFaktura, AG, OCR, DirRem (NO)</STRONG> or <STRONG>OCR+AG innlesning (NO)</STRONG> import format is selected as the method of payment.</P>
@@ -76,7 +76,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Amount control</strong></p></td>
 <td><p>Select this check box to control the customer payment amount that can be imported.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>BBS eFaktura, AG, OCR, DirRem (NO)</STRONG> or <STRONG>OCR+AG innlesning (NO)</STRONG> import format is selected as the method of payment.</P>
@@ -87,7 +87,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Approve underpayments</strong></p></td>
 <td><p>Select this check box to approve the underpayment transactions.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>OCR+AG innlesning (NO)</STRONG> import format is selected as the method of payment.</P>
@@ -98,7 +98,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Method of payment</strong></p></td>
 <td><p>Select the method of payment that corresponds to the new or modified AvtaleGiro agreements.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>OCR+AG innlesning (NO)</STRONG> import format is selected as the method of payment.</P>
@@ -109,7 +109,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Payment specification with warning</strong></p></td>
 <td><p>Enter the message to be displayed with a warning when an error occurs in the payment specification.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>OCR+AG innlesning (NO)</STRONG> import format is selected as the method of payment.</P>
@@ -120,7 +120,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Payment specification without warning</strong></p></td>
 <td><p>Enter the message to be displayed without a warning when an error occurs in the payment specification.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>OCR+AG innlesning (NO)</STRONG> import format is selected as the method of payment.</P>
@@ -131,7 +131,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Method of payment</strong></p></td>
 <td><p>Select the method of payment that corresponds to the deleted AvtaleGiro agreements.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>OCR+AG innlesning (NO)</STRONG> import format is selected as the method of payment.</P>
@@ -142,7 +142,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Payment specification</strong></p></td>
 <td><p>Enter the payment specification for deleted AvtaleGiro agreements.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>OCR+AG innlesning (NO)</STRONG> import format is selected as the method of payment.</P>
@@ -153,7 +153,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Sender ID</strong></p></td>
 <td><p>Enter the identification number of the sender.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>BBS eFaktura, AG, OCR, DirRem (NO)</STRONG> import format is selected as the method of payment.</P>
@@ -164,7 +164,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Delete empty journal</strong></p></td>
 <td><p>Select this check box to delete the empty journal so that validated payments can be renumbered.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>BBS eFaktura, AG, OCR, DirRem (NO)</STRONG> import format is selected as the method of payment.</P>
@@ -175,7 +175,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Direct debit</strong></p></td>
 <td><p>Select the direct debit that is related to the integration type.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>BBS eFaktura, AG, OCR, DirRem (NO)</STRONG> import format is selected as the method of payment.</P>
@@ -186,7 +186,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>e-invoice</strong></p></td>
 <td><p>Select the e-invoice that is related to the integration type.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only when the <STRONG>BBS eFaktura, AG, OCR, DirRem (NO)</STRONG> import format is selected as the method of payment.</P>

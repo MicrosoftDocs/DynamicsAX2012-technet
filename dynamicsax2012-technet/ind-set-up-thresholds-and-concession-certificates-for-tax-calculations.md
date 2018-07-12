@@ -84,7 +84,7 @@ The following table shows the prerequisites that must be in place before you sta
 <li><p>Set up tax information for a legal entity in India. Activate Tax Deducted at Source (TDS) and Tax Collected at Source (TCS) calculation for a legal entity. For more information, see <a href="ind-key-tasks-tax-information-for-legal-entities.md">(IND) Key tasks: Tax information for legal entities</a>.</p></li>
 <li><p>Set up withholding tax component groups for <strong>TDS</strong> and <strong>TCS</strong> tax types. For more information, see <a href="ind-set-up-withholding-tax-component-groups-for-tcs-tax-types.md">(IND) Set up withholding tax component groups for TCS tax types</a> and <a href="ind-set-up-withholding-tax-component-groups-for-tds-tax-types.md">(IND) Set up withholding tax component groups for TDS tax types</a>.</p></li>
 <li><p>Set up withholding tax components for <strong>TDS</strong> and <strong>TCS</strong> tax types.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Make sure that you do not define threshold values for the tax components.</P>
@@ -93,7 +93,7 @@ The following table shows the prerequisites that must be in place before you sta
 </div>
 <p>For more information, see <a href="ind-set-up-withholding-tax-components-for-tds-tax-types.md">(IND) Set up withholding tax components for TDS tax types</a> and <a href="ind-set-up-withholding-tax-components-for-tcs-tax-types.md">(IND) Set up withholding tax components for TCS tax types</a>.</p></li>
 <li><p>Set up withholding tax codes for <strong>TDS</strong> and <strong>TCS</strong> tax types.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Make sure that you do not specify values in the <STRONG>Value</STRONG> field in the <STRONG>Withholding tax values</STRONG> form for the withholding tax code.</P>
@@ -148,7 +148,7 @@ To assign threshold and threshold values to a withholding tax code, follow these
     <li><p><strong>Customer</strong> – Apply the threshold to a customer account, a customer group, or all customers.</p></li>
     <li><p><strong>Vendor</strong> – Apply the threshold to a vendor account, a vendor group, or all vendors.</p></li>
     <li><p><strong>All</strong> – Apply the threshold to all customers and all vendors.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you select this option, <STRONG>All</STRONG> is updated in the <STRONG>Account code</STRONG> field, and the <STRONG>Account code</STRONG> field is not available.</P>
@@ -170,7 +170,7 @@ To assign threshold and threshold values to a withholding tax code, follow these
     <tr class="odd">
     <td><p><strong>Account or group</strong></p></td>
     <td><p>Select the customer account, customer group, vendor account, or vendor group that the threshold applies to. This field is determined by the selections in the <strong>Account type</strong> and <strong>Account code</strong> fields.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if you select <STRONG>Table</STRONG> or <STRONG>Group</STRONG> in the <STRONG>Account code</STRONG> field.</P>

@@ -170,7 +170,7 @@ The following table provides guidance to help you determine the cause of your re
 <td><p>Users receive the following error when clicking on a drill-through link on a report in Enterprise Portal:</p>
 <p>[CompanyName] is not a valid company. Check the value and try again.</p></td>
 <td><p>This situation may occur when Reporting Services 2008 or Reporting Services 2008 R2 is running in SharePoint integrated mode. To resolve this issue, install Reporting Services 2008 R2 with Service Pack 2.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>SharePoint integrated mode is supported if you are using Microsoft Dynamics AX 2012 R2 or later.</P>

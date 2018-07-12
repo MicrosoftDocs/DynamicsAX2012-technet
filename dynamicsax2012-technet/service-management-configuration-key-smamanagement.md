@@ -325,7 +325,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="service-management-repair-configuration-key-smarepair.md">Service Management - Repair configuration key (SMARepair)</a></p>
 <p><a href="service-management-bom-configuration-key-smabom.md">Service Management - BOM configuration key (SMABom)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

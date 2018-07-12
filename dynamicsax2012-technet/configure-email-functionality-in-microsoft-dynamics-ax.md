@@ -313,7 +313,7 @@ Complete the following procedure to create an email template.
         <li><p>The <strong>Work item instructions</strong> field contains the following text. This field is located in the <strong>Properties</strong> form for the workflow approval step.</p>
         <p><strong>Purchase requisition %Purchase requisition.PurchReqId% has been assigned to you for approval.</strong></p>
         <p><strong>This purchase requisition totals %Purchase requisition.Approval amount%, and has been submitted by %Purchase requisition.Worker.createdBy%.</strong></p>
-        <div class="alert"> 
+        <div> 
 
         > [!NOTE]
         > <P>The text in between the <STRONG>%</STRONG> symbols are placeholders you can insert when you configure the workflow. In this example, the placeholders will be replaced with specific data related to purchase requisitions.</P>

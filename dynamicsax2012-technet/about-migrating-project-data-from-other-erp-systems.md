@@ -107,13 +107,11 @@ Additionally, the events that are described in the following table can occur, de
 <td><ul>
 <li><p>In addition to the beginning balance journal that is posted, an additional set of entries is recorded for transactions as of the migration date.</p></li>
 <li><p>Two beginning balance estimates are posted. One estimate is posted for the end of the previous fiscal year, and the other is posted for transactions occurring after the end of the year and up to the migration date. Both estimates are for WIP only.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>The two beginning balance estimates do not affect the General ledger, either at the end of the previous fiscal year or on the migration date.</P>
 
-
-</div></li>
+</li>
 </ul></td>
 </tr>
 </tbody>
@@ -197,13 +195,11 @@ The following table describes the rules for posting costs in beginning balance j
 <p>–or–</p>
 <p>Completed contract</p></td>
 <td><p>The transaction type is <strong>Hour</strong>, and the cost status for hours in the Project group ledger setting is <strong>Never ledger</strong>.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If the status is <STRONG>Never ledger</STRONG>, costs are posted only to the project's subledger, not to the General ledger.</P>
 
-
-</div></td>
+</td>
 <td><p>Never ledger</p></td>
 </tr>
 <tr class="even">

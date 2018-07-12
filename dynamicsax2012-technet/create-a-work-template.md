@@ -145,7 +145,7 @@ To create a work template, follow these steps:
     <tr class="odd">
     <td><p><strong>Maximum estimated pick time</strong></p></td>
     <td><p>Enter the maximum estimated pick time. The work header will be split when the total estimated time for the initial work pick line has reached the specified value.</p>
-    <div class="alert"> 
+    <div> 
 
     > [!NOTE]
     > <P>Labor standard lines with a Labor standards measurement type set to Work unit will not be accounted for when calculating the pick time.</P>
@@ -190,7 +190,7 @@ To create a work template, follow these steps:
     <tr class="odd">
     <td><p><strong>Work type</strong></p></td>
     <td><p>Select the work type to indicate whether the work is a pick action or a put action.</p>
-    <div class="alert"> 
+    <div> 
 
     > [!NOTE]
     > <P>The <STRONG>Valid</STRONG> check box on the <STRONG>Overview</STRONG> tab is selected if there is an even number of pick-put pairs for the selected work template.</P>

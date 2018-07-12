@@ -80,7 +80,7 @@ When you generate this report, the following default parameters are displayed. Y
 <li><p><strong>Invoiced</strong> – The bill of exchange has been invoiced.</p></li>
 <li><p><strong>Invoice remitted</strong> – The bill of exchange has been invoiced and remitted.</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>You must select the <STRONG>Enable status</STRONG> check box for each of the <STRONG>Status</STRONG> fields to include the bill of exchange with the selected statuses in the report.</P>

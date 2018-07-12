@@ -64,7 +64,7 @@ The following table explains where to find the report in the Application Object 
 <tr class="even">
 <td><p>Navigation to the report</p></td>
 <td><p>Click <strong>Accounts payable</strong> &gt; <strong>Common</strong> &gt; <strong>Purchase orders</strong> &gt; <strong>All purchase orders</strong>. Click <strong>Receive</strong> and then click <strong>Pro forma receipts list</strong>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>To enable Pro forma receipts list, you must first confirm the purchase order.</P>

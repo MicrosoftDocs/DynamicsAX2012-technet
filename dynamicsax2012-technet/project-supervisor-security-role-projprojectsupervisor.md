@@ -35,7 +35,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 <tbody>
 <tr class="odd">
 <td><p>Inquire into customer master</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -57,7 +57,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain invoice cancellation proposals</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
@@ -89,7 +89,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Inquire into project activity cost tracking master</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -101,7 +101,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into project activity effort tracking master</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>

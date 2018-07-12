@@ -117,21 +117,17 @@ This table describes the options you can use to manage how an AOS functions.
 <td><p>Code Access Security (CAS) is the mechanism in Microsoft Dynamics AX that is used to protect specific APIs.</p>
 <p>Enable, the default setting, activates CAS for all CAS-protected APIs. If a CAS-protected API is invoked without following the correct consumer steps, an error is generated.</p>
 <p>Trace is used to simulate CAS being enabled. An error is not generated if a CAS-protected API is invoked incorrectly. Instead, debug information is written to the Infolog. Use in development or test environments to determine the changes that need to be made to get the system working.</p>
-<div class="alert"> 
-
+  
 > [!IMPORTANT]
 > <P>Do not set the <STRONG>caslevel</STRONG> to Trace in production environments.</P>
 
 
-</div>
 <p>Disable disables CAS entirely.</p>
-<div class="alert"> 
-
+  
 > [!IMPORTANT]
 > <P>Do not set the <STRONG>caslevel</STRONG> to Disable in production environments.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p>MaxConcurrentUISessions,Text,&lt;value&gt;</p></td>

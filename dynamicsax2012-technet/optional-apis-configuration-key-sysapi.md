@@ -73,7 +73,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="dynamic-data-exchange-api-configuration-key-sysapidde.md">Dynamic Data Exchange API configuration key (SysAPIDDE)</a></p>
 <p><a href="pipe-client-api-configuration-key-sysapipipeclient.md">Pipe Client API configuration key (SysAPIPipeClient)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

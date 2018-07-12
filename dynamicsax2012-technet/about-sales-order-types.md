@@ -45,13 +45,11 @@ When you create a sales order, you must indicate the type of order that it is. Y
 <tr class="even">
 <td><p><strong>Subscription</strong></p></td>
 <td><p>Use for recurring orders. When the order is invoiced, the order status is set automatically to open order. Quantity delivered invoiced and remaining deliveries are updated.</p>
-<div class="alert"> 
-
+  
 > [!WARNING]
 > <P>You cannot use this sales order type if you are using the Warehouse management module.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="odd">
 <td><p><strong>Sales order</strong></p></td>

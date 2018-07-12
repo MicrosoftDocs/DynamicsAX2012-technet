@@ -42,13 +42,11 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Currency</strong></p></td>
 <td><p>Click <strong>Select</strong>. In the <strong>VendAdvanceInvoiceJour</strong> form, in the <strong>Criteria</strong> field, select a currency to include on the report. To select more than one currency, click <strong>Add</strong>, and then enter the criteria in the row just added.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If you do not select a currency, all currencies used by all vendors are included on the report.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p><strong>Invoice account</strong></p></td>

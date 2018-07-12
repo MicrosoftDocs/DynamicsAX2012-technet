@@ -67,7 +67,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Follow previous</strong></p></td>
 <td><p>Select the relevant check boxes to modify the <strong>Change to</strong> fields.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>These fields are available only when the <STRONG>All year</STRONG> check box is not selected.</P>

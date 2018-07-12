@@ -135,7 +135,7 @@ This measure group is based on the InventValueCube view and includes the followi
   </p> <p>
    
 	 Date (exchange rate date)
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/JJ710385.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/JJ710385.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 The Date (exchange rate date) dimension is associated with this measure only in Microsoft Dynamics AX 2012 R3.
   </p> </td></tr></table></div></td>

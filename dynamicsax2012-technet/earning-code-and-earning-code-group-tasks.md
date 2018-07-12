@@ -175,7 +175,7 @@ Each earning type should have a unique earning code. To create an earning code, 
     <p>Select a payment run type option for this earning code:</p>
     <ul>
     <li><p><strong>Primary</strong> – Include this earning code only in primary payment runs, such as weekly or biweekly. These runs are used for earnings such as regular pay, holiday pay, or vacation pay.</p>
-    <div class="alert">
+    <div>
 
     > [!TIP]
     > <P>An earning code with the <STRONG>Primary</STRONG> type can be used in only one payroll run in each pay period. That can create difficulties if, for example, you make a mistake that you have to correct in the same payment run.</P>
@@ -185,7 +185,7 @@ Each earning type should have a unique earning code. To create an earning code, 
     </div></li>
     <li><p><strong>Additional</strong> – Include this earning code only in additional payment runs, such as those used for bonuses or travel reimbursement.</p></li>
     <li><p><strong>Primary and additional</strong> – Include this earning code in both primary and additional payment runs.</p>
-    <div class="alert">
+    <div>
 
     > [!TIP]
     > <P>When you select this payment run type, the earning code is processed in the first payment run in the pay period that is either primary or additional. You can’t reserve or hold the earning code for a specific run type.</P>
@@ -198,7 +198,7 @@ Each earning type should have a unique earning code. To create an earning code, 
     <p>Gross up payment runs use earning codes with two different payment run types, <strong>Gross up</strong> and <strong>Automatic</strong>. The earning code with the <strong>Gross up</strong> payment run type is used for the earning, often an award or a reimbursement, that is to be grossed up. The earning code with the <strong>Automatic</strong> payment run type is used for the earnings that cover the taxes so that the amount of the gross up earning comes out right.</p>
     <p>Earning lines that use earning codes with the <strong>Automatic</strong> payment run type are generated automatically when gross up earning codes are processed.</p></li>
     </ul>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>When you select <STRONG>Gross up</STRONG> or <STRONG>Automatic</STRONG>, the <STRONG>Tax method</STRONG>, <STRONG>Base earnings component</STRONG>, <STRONG>Rate basis</STRONG>, and <STRONG>Unit of measure</STRONG> fields are set to predefined values and can’t be changed.</P>
@@ -258,7 +258,7 @@ Each earning type should have a unique earning code. To create an earning code, 
     <li><p>When the rate basis is <strong>Hourly</strong>, <strong>Pay period</strong>, <strong>Monthly</strong>, or <strong>Annually</strong>, this field is used together with the <strong>Rate basis</strong> field to determine the earnings amount. The rate basis method determines the appropriate compensation rate for workers. Workers who have different hourly rates can use the same hourly earning code because the correct hourly rate is calculated for each worker and position. For example, if the compensation rate is 24,000 per year and the worker’s pay cycle is monthly, select <strong>Pay period</strong> as the rate basis and enter a multiplier of 1. The generated earnings will be 2,000.</p></li>
     <li><p>For information about the value to use when the rate basis is <strong>Hours of earnings</strong>, <strong>Percent of earnings</strong>, or <strong>Regular rate of pay</strong>, see <a href="premium-earning-setup-tasks.md">Premium earning setup tasks</a>.</p></li>
     </ul>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is ignored when retroactive earning codes are calculated.</P>
@@ -282,7 +282,7 @@ Each earning type should have a unique earning code. To create an earning code, 
     <td><p><strong>Retroactive earning</strong></p></td>
     <td><p>If this check box is selected, this earning code is set up as a retroactive earning code. This field isn’t available if <strong>Gross up</strong> or <strong>Automatic</strong> is selected in the <strong>Include in payment run type</strong> field.</p>
     <p>When a retroactive earning code is created, the <strong>Rate basis</strong>, <strong>Productive</strong>, <strong>Unit of measure</strong>, and <strong>Amount or multiplier</strong> fields are set to predefined values and can’t be changed.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you select this check box and then clear it, the <STRONG>Rate basis</STRONG> field is set to <STRONG>Flat amount</STRONG>.</P>
@@ -309,7 +309,7 @@ Each earning type should have a unique earning code. To create an earning code, 
     <td><p><strong>Retroactive earning code</strong></p></td>
     <td><p>This field is used to associate a non-retroactive earning code with an earning code that will retroactively adjust the processed earning lines that use this code.</p>
     <p>To view an example of how you might set up a retroactive earning code, see <a href="earning-code-examples.md">Earning code examples</a>.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is optional. It is available only if the <STRONG>Retroactive earning</STRONG> box is cleared.</P>
@@ -326,7 +326,7 @@ Each earning type should have a unique earning code. To create an earning code, 
     <td><p><strong>Allow editing of earning statement rates</strong></p></td>
     <td><p>Select this check box to let users change the rate on earning statement lines that are generated by using this earning code.</p>
     <p>If you plan to enter beginning balances during the initial payroll setup, select this check box for all earning codes when you create them. After you enter the beginning balances, you can clear this check box if you want to prevent rates from being changed during typical payroll processing.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If a salary line is generated by using an automated process, the rate on that line can’t be changed, even if this check box is selected. If you add a salary line manually, you can change the rate on the line if this check box is selected.</P>
@@ -376,7 +376,7 @@ Each earning type should have a unique earning code. To create an earning code, 
     <tr class="even">
     <td><p><strong>Project category</strong></p></td>
     <td><p>The project category that the earnings are charged to, if applicable.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If the <STRONG>Unit of measure</STRONG> field is set to <STRONG>Hours</STRONG> for this earning code, this list is limited to project categories that bill hourly. Conversely, if the <STRONG>Unit of measure</STRONG> field is not set to <STRONG>Hours</STRONG>, the project category list contains only projects that are billed as expenses.</P>
@@ -387,7 +387,7 @@ Each earning type should have a unique earning code. To create an earning code, 
     <tr class="odd">
     <td><p><strong>Distribution template</strong></p></td>
     <td><p>The template that is used to determine the default dimension values and percentages for earning distributions. This information can be changed on individual earning lines.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you select a template in this field, this setting overrides the template that is assigned to the position when you create earnings statement lines.</P>
@@ -398,7 +398,7 @@ Each earning type should have a unique earning code. To create an earning code, 
     <tr class="even">
     <td><p><strong>Default financial dimensions</strong></p></td>
     <td><p>The default financial dimensions for the main account. When you select a financial dimension value, the <strong>Where the %1 dimension is used</strong> field group displays where the dimension is used in account structures and advanced rule structures.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The dimension values from the earning code and the position are added to the earning line and can be changed. When a value for the same dimension is specified for both the earning code and the position, the dimension value for the earning code is used.</P>
@@ -409,7 +409,7 @@ Each earning type should have a unique earning code. To create an earning code, 
     <tr class="odd">
     <td><p><strong>Posting rules</strong></p></td>
     <td><p>The accounting rules that are applied when earnings are posted that are generated for this earning code. The main account for distributions is based on the department, job, and worker selections for each posting rule.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The main account can’t be changed on the earning lines.</P>
@@ -550,7 +550,7 @@ If you don't have access to the pages that are used to complete this task, conta
 <tr class="odd">
 <td><p><strong>Configuration keys</strong></p></td>
 <td><p><strong>Payroll - USA</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>When you use Payroll, we highly recommend that you turn off the <STRONG>Payroll information</STRONG> configuration key under the <STRONG>Human resource I</STRONG> configuration key. The forms and tables that are enabled by that configuration key are not used by Payroll. If Payroll is installed and the configuration key is enabled, it might be difficult to make sure that your data is entered and tracked correctly.</P>

@@ -72,7 +72,7 @@ Occasionally, you may have to print an especially long report, such as a report 
     <p>You can save a report as a CSV, Microsoft Excel, HTML, image, MTHML, PDF, or XML file.</p></li>
     <li><p>If you want to save a copy of the report in the print archive, select the <strong>Save in print archive?</strong> check box.</p></li>
     <li><p>In the <strong>File name</strong> field, enter the path of the destination file. The path must be entered in the following format: <em>\\Server\Volume\Directory\File</em>.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The AOS service account for the Microsoft Dynamics AX batch server must have access to the destination file.</P>

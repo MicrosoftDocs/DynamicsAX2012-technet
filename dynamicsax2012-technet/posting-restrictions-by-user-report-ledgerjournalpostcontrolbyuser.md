@@ -40,7 +40,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Users to include</strong></p></td>
 <td><p>Select the type of user information to include.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The same user might appear on the report for some journal names but not others. For example, a user is restricted in the <STRONG>Vend_inv</STRONG> journal name for the <STRONG>AP</STRONG> user group, but is not restricted in the <STRONG>Vend_pay</STRONG> journal name for the <STRONG>AP</STRONG> user group. If you view the report when <STRONG>Users with no posting restrictions</STRONG> is selected, the <STRONG>Vend_pay</STRONG> journal name appears on the report for the user, but the <STRONG>Vend_inv</STRONG> journal name does not.</P>

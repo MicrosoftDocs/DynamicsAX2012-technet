@@ -62,7 +62,7 @@ To retrieve data for your reports, you can use the predefined *Dynamics AX* or *
     <tr class="even">
     <td><p><strong>Provider</strong></p></td>
     <td><p>The provider for the data source. There are two provider types that you can choose from: SQL and OLAP.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>Reports using a SQL provider for the data source are not supported to run in a batch, run on the server, or run from EP.</P>

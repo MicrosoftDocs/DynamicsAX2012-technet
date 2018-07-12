@@ -75,13 +75,11 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Associated payment attachment on interest note</strong></p></td>
 <td><p>Select the type of giro money transfer slip to print, or select <strong>None</strong>. If you are printing centralized statements, a giro money transfer slip is printed only if the currency code of all the transactions printed on the statement is the same as the accounting currency of the statement legal entity.</p>
-<div class="alert"> 
-
+  
 > [!TIP]
 > <P>To be able to select one type of giro money transfer slip at a time in the <STRONG>Criteria</STRONG> column, click the <STRONG>Select</STRONG> button, and on the <STRONG>Range</STRONG> tab, select <STRONG>Associated payment attachment on interest note</STRONG> in the <STRONG>Field</STRONG> column.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="odd">
 <td><p><strong>Giro with sum</strong></p></td>
@@ -99,13 +97,11 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Show credit limit</strong></p></td>
 <td><p>This check box is selected if a credit limit has been assigned to a customer.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>The credit limit is always in the accounting currency and is shown on a customer statement only if the customer currency is the same as the accounting currency.</P>
 
 
-</div>
 <p>The available credit for the customer, which is calculated after the closing balance, is also included on the report.</p></td>
 </tr>
 <tr class="odd">

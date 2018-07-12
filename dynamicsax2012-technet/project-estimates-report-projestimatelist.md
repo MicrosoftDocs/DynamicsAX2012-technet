@@ -40,7 +40,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Estimate date</strong></p></td>
 <td><p>Select a date for the estimate projects that you want to include on the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you do not select an actual start date that is applicable to the selected <STRONG>Period code</STRONG>, the report will be empty.</P>
@@ -57,7 +57,7 @@ When you generate this report, the following default parameters are displayed. Y
 <li><p><strong>Include warnings</strong>– A report is created and warnings are displayed.</p></li>
 <li><p><strong>Only warnings</strong> – A report is created, but only warnings are displayed.</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The following conditions are displayed as warnings on the report:</P>

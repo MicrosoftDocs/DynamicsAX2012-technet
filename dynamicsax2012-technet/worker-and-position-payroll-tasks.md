@@ -144,7 +144,7 @@ To add payroll details to a position, follow these steps:
     <td><p><strong>Work cycle</strong></p></td>
     <td><p>For non-exempt positions only, select the work cycle that specifies the work periods for the position. Some earnings, such as the regular-rate-of-pay premiums that are required by the Fair Labor Standards Act (FLSA), are based on work periods and not pay periods.</p>
     <p>For exempt positions, leave this field blank.</p>
-    <div class="alert">
+    <div>
 
     > [!WARNING]
     > <P>For workers who have more than one position, make sure that all positions that are assigned to the worker have the same work cycle.</P>
@@ -156,7 +156,7 @@ To add payroll details to a position, follow these steps:
     <td><p><strong>Paid by</strong></p></td>
     <td><p>Select the legal entity that is responsible for making the payroll payments for this position.</p>
     <p>The legal entity that is responsible for paying for the position must be assigned to the position before you can assign worker tax codes to workers.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>You can use the <STRONG>Worker</STRONG> form to assign default tax codes for each position. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209054(v=ax.60)">Worker (form)</A>.</P>
@@ -188,7 +188,7 @@ To add payroll details to a position, follow these steps:
     <ul>
     <li><p>A default earning code is required.</p></li>
     <li><p>The worker is paid the standard position salary amount for each pay period, and a single line is included in the earnings statement. The line will have the date of the last day in the pay period.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If earnings statement lines were entered manually before the earnings were generated, the salary could be split across more than one line. The total of the manually entered lines and the single generated line is always the standard salary amount.</P>
@@ -555,7 +555,7 @@ If you don't have access to the pages that are used to complete this task, conta
 <tr class="odd">
 <td><p><strong>Configuration keys</strong></p></td>
 <td><p><strong>Payroll - USA</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>When you use Payroll, we highly recommend that you turn off the <STRONG>Payroll information</STRONG> configuration key under the <STRONG>Human resource I</STRONG> configuration key. The forms and tables that are enabled by that configuration key are not used by Payroll. If Payroll is installed and the configuration key is enabled, it might be difficult to make sure that your data is entered and tracked correctly.</P>

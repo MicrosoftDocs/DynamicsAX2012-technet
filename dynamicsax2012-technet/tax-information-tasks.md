@@ -296,7 +296,7 @@ To set up tax codes, follow these steps:
         <td><p><strong>Rate</strong></p></td>
         <td><p>Enter the rate that the legal entity pays. For example, if the rate is 2.5 percent, enter 0.025.</p>
         <p>Unemployment taxes always have a specified rate. For other taxes, if the taxing authority has not specified a rate, leave this field blank.</p>
-        <div class="alert">
+        <div>
 
         > [!WARNING]
         > <P>Although base state unemployment taxes are supported, individual surcharges aren’t calculated independently. You must increase the defined base SUTA rate to cover the calculation of any SUTA surcharges and list the amounts manually when you file.</P>
@@ -330,7 +330,7 @@ To set up tax codes, follow these steps:
         <td><p><strong>Project category</strong></p></td>
         <td><p>If the tax code is used for employer tax transactions that are posted to a project instead of to the general ledger, select a project category.</p>
         <p>If a tax code must be posted to a project, you must specify a project category on the tax code line before you can generate a pay statement.</p>
-        <div class="alert">
+        <div>
 
         > [!NOTE]
         > <P>This field is never used for taxes that are paid by the worker.</P>
@@ -431,7 +431,7 @@ If you don't have access to the pages that are used to complete this task, conta
 <tr class="odd">
 <td><p><strong>Configuration keys</strong></p></td>
 <td><p><strong>Payroll - USA</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>When you use Payroll, we highly recommend that you turn off the <STRONG>Payroll information</STRONG> configuration key under the <STRONG>Human resource I</STRONG> configuration key. The forms and tables that are enabled by that configuration key are not used by Payroll. If Payroll is installed and the configuration key is enabled, it might be difficult to make sure that your data is entered and tracked correctly.</P>

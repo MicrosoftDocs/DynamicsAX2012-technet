@@ -61,7 +61,7 @@ All of these actions change an interest note, which is the business document tha
 <td><p>Reverse complete interest notes.</p>
 <p>–or–</p>
 <p>Reverse selected interest transactions that are part of interest notes.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>You cannot reverse a fee, but you can reverse a complete interest note that includes a fee.</P>

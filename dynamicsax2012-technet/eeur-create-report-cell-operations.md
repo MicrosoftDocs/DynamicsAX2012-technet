@@ -33,7 +33,7 @@ You can use the Russian Financial reports generator (FRG) to generate reports by
 <td><p><strong>Transactions</strong></p></td>
 <td><p>Ledger transactions</p></td>
 <td><p><strong>Balance</strong>, <strong>Credit balance</strong>, <strong>Debit balance</strong>, <strong>Turnover</strong>, <strong>Credit activity</strong>, <strong>Debit activity</strong>, <strong>Turnover in correspondence</strong>, <strong>Turnover in correspondence credit</strong>, <strong>Turnover in correspondence debit</strong>, <strong>Active balance (debit)</strong>, and <strong>Passive balance (credit)</strong></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The <STRONG>Turnover in correspondence</STRONG>, <STRONG>Turnover in correspondence credit</STRONG>, and <STRONG>Turnover in correspondence debit</STRONG> voucher types are available only to legal entities whose primary address is in Russia.</P>

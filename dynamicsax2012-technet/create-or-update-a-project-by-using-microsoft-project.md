@@ -73,14 +73,12 @@ The following table shows the prerequisites that must be in place before you sta
 <li><p>Microsoft Project Standard 2010</p></li>
 </ul>
 <p>Note that task lists can be synchronized with a project in SharePoint Online only if you are using Microsoft SharePoint 2013 Products.</p>
-<div class="alert"> 
-
+  
 > [!IMPORTANT]
 > <P>For best results, we recommend that you use the 32-bit version of Microsoft Project Professional 2013. For information about issues that you might encounter when you use Microsoft Project Professional 2010 or Microsoft Project Standard 2010, and steps that you can take to avoid these issues, see the <A href="create-or-update-a-project-by-using-microsoft-project.md">Create or update a project by using Microsoft Project</A> section later in this topic.</P>
-> <P></P>
+> <P></P>> 
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p>Microsoft SharePoint</p></td>

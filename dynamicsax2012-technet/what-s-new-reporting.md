@@ -239,7 +239,7 @@ The following changes that pertain to security have been made.
 <tbody>
 <tr class="odd">
 <td><p>Implement Microsoft Dynamics AX without having to configure Kerberos authentication</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you’re using Microsoft Dynamics AX 2012 R2, see the note about Kerberos authentication in Support for Power View</P>

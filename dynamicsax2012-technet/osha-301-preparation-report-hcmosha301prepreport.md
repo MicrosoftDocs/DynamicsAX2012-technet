@@ -48,7 +48,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Case number</strong></p></td>
 <td><p>Enter the case number or select a range of case numbers to include in the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you search by both date and case number, you will find only incidents that match both the date range and the case number range that you specify. If the case number exists, but it is not within the date range that you specify, it will not be found.</P>

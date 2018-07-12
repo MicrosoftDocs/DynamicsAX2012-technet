@@ -166,7 +166,7 @@ The following table provides information about how this configuration key relate
 <tr class="odd">
 <td><p>Child keys</p></td>
 <td><p><a href="retail-commerce-data-exchange-backward-compatibility-configuration-key-retailcdxbackwardcompatibility.md">Retail Commerce Data Exchange backward compatibility configuration key (RetailCDXBackwardCompatibility)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

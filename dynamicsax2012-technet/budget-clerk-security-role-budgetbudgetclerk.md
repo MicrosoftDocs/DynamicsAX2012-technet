@@ -35,13 +35,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 <tbody>
 <tr class="odd">
 <td><p>Approve budget plans</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>BudgetPlanApprove</p></td>
 <td><p></p></td>
 </tr>
@@ -52,25 +50,21 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Enable financial reports generator</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>RRGEnable</p></td>
 <td><p>Set up templates, report format, and other information to enable the financial reports generator</p></td>
 </tr>
 <tr class="even">
 <td><p>Inquire about accounting data</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>LedgerRRGGInquire</p></td>
 <td><p>Respond to inquiries about accounting data</p></td>
 </tr>
@@ -116,13 +110,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain budget plans</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>BudgetPlanMaintain</p></td>
 <td><p></p></td>
 </tr>
@@ -143,37 +135,31 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain forecast position master</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>HcmForecastMaintain</p></td>
 <td><p>Maintain forecast positions</p></td>
 </tr>
 <tr class="even">
 <td><p>Select forecast positions</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>BudgetPlanningSelectPositionMaintain</p></td>
 <td><p></p></td>
 </tr>
 <tr class="odd">
 <td><p>View budget planning configuration and processes</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>BudgetPlanningConfigProcessView</p></td>
 <td><p></p></td>
 </tr>

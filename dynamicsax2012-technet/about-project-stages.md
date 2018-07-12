@@ -51,24 +51,20 @@ There are five predefined project stages and three user-defined stages. The foll
 <tr class="even">
 <td><p><strong>In process</strong></p></td>
 <td><p>Manually started. This stage typically signifies start of the project.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This is the minimum stage required for recording transactions on the project.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="odd">
 <td><p><strong>Finished</strong></p></td>
 <td><p>Manually started.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If you select this stage, additional processes cannot be run on the project.</P>
 
-
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>

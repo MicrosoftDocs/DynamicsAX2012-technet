@@ -48,7 +48,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Crediting</strong></p></td>
 <td><p>The type of transactions that are included on the report. <strong>Yes</strong> is displayed for credit transactions. <strong>No</strong> is displayed for debit transactions.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If the <STRONG>Use corresponding mechanism</STRONG> check box is selected in the <STRONG>General ledger parameters</STRONG> form, <STRONG>No</STRONG> is displayed in this field by default.</P>

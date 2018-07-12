@@ -33,7 +33,7 @@ In Microsoft Dynamics AX 2009, some sales tax payment features are shared by Tha
 <td><p>Reason for deprecation</p></td>
 <td><p>In AX 2009, some features were shared by Thai and Mexican users. These features are now used only in Mexico. These features are no longer used in Thailand, because sales tax is now calculated in the Thai baht only. In AX 2009, the <strong>Sales tax exchange adjustment</strong> and <strong>Sales tax exchange rate adjustment</strong> forms are no longer available in Thai installations of Microsoft Dynamics AX.</p>
 <p>These changes were released in a hotfix in 2012. See <a href="https://mbs2.microsoft.com/knowledgebase/kbdisplay.aspx?scid=kb%3ben-us%3b2636555">KB article 2636555</a>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The code that corresponds to these features is still available but will be removed in a future release.</P>

@@ -54,7 +54,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>With transaction text</strong></p></td>
 <td><p>Select this check box to display a <strong>Description</strong> column on the report that identifies the document type and document ID.</p>
 <p>Clear this check box to omit the <strong>Description</strong> column and instead include columns for the method of payment and cash discount date.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The <STRONG>Method of payment</STRONG> and <STRONG>Cash discount date</STRONG> fields are displayed on the <STRONG>Payment</STRONG> tab of the <STRONG>Vendor transactions</STRONG> form. Payment methods are set up in the <STRONG>Methods of payment - vendors</STRONG> form.</P>

@@ -113,7 +113,7 @@ To set up parameters for payroll calculation, follow these steps:
     <tr class="even">
     <td><p><strong>Calculation date</strong></p></td>
     <td><p>Specify a calculation date for the payroll calculation period.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>You must select a date within the specified calculation period. For example, if the payroll is calculated monthly, select a date within the month or the ending date of the month.</P>
@@ -332,7 +332,7 @@ To set up rates and dependencies for payroll calculation, follow these steps:
     <tr class="odd">
     <td><p><strong>Criteria</strong></p></td>
     <td><p>Select <strong>Minimum</strong> or <strong>Maximum</strong> as the criteria in the <strong>Value</strong> field.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you select this option, select the <STRONG>Calculation</STRONG> check box to calculate the amount for which the rate is calculated, based on the criterion value that you specified in this field.</P>
@@ -479,7 +479,7 @@ To set up pay types, follow these steps:
     <tr class="even">
     <td><p><strong>Income code</strong></p></td>
     <td><p>Select the income code for the pay type. For more information about how to set up an income code that is used to calculate income taxes, see “3. Set up an income code for income tax calculations” in <a href="rus-set-up-taxes-and-funds-for-the-payroll-process.md">(RUS) Set up taxes and funds for the payroll process</a>.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if you select <STRONG>Income</STRONG> in the <STRONG>Category</STRONG> field.</P>
@@ -646,7 +646,7 @@ To set up a payroll posting profile, follow these steps:
     <tr class="even">
     <td><p><strong>Cost type/Base for calculation</strong></p></td>
     <td><p>Select the pay type or calculation base that the current posting profile line applies to. This field is determined by the selections in the <strong>Cost type relation</strong> field.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if you select <STRONG>Table</STRONG> or <STRONG>Group</STRONG> in the <STRONG>Cost type relation</STRONG> field.</P>
@@ -667,7 +667,7 @@ To set up a payroll posting profile, follow these steps:
     <tr class="even">
     <td><p><strong>Employee/Payroll group</strong></p></td>
     <td><p>Select the employee or payroll group that the current posting profile line applies to. This field is determined by the selections in the <strong>Employee relation</strong> field.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if you select <STRONG>Table</STRONG> or <STRONG>Group</STRONG> in the <STRONG>Employee relation</STRONG> field.</P>

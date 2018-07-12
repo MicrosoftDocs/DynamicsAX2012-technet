@@ -84,7 +84,7 @@ To create a business trip resolution, follow these steps:
     <tr class="odd">
     <td><p><strong>Name</strong></p></td>
     <td><p>Select the journal name.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The journal number is generated and displayed in the <STRONG>Journal</STRONG> field based on the number sequence code that you define for the journal in the <STRONG>Staff administration parameters</STRONG> form.</P>
@@ -95,7 +95,7 @@ To create a business trip resolution, follow these steps:
     <tr class="even">
     <td><p><strong>Resolution date</strong></p></td>
     <td><p>Select the resolution creation date.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The resolution number is generated and displayed in the <STRONG>Resolution number</STRONG> field based on the number sequence code that you define for the business trip resolution in the <STRONG>Staff administration parameters</STRONG> form.</P>
@@ -146,7 +146,7 @@ To create a business trip resolution, follow these steps:
     <tr class="even">
     <td><p><strong>End date</strong></p></td>
     <td><p>Select the ending date of the business trip.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The business trip duration displays automatically in the <STRONG>Period</STRONG> field based on the start date and the end date.</P>
@@ -157,7 +157,7 @@ To create a business trip resolution, follow these steps:
     <tr class="odd">
     <td><p><strong>Period</strong></p></td>
     <td><p>Select the duration of the business trip.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>When you modify the period in the <STRONG>Period</STRONG> field, the end date displays automatically in the <STRONG>End date</STRONG> field based on the start date.</P>

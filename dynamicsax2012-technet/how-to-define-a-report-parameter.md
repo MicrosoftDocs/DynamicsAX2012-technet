@@ -50,7 +50,7 @@ The following procedures explain how to manually define a report parameter and u
     <tr class="even">
     <td><p><strong>Data Type</strong></p></td>
     <td><p>The data type of the parameter, such as DateTime.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If a parameter is the DateTime Data Type, the Microsoft Dynamics AX client treats the parameter as coordinated universal time (UTC) and any default value from Reporting Services will be converted to the local user time zone. When you preview a report with a DateTime parameter, the time format displays as an Integer Data Type in Visual Studio preview. The report will render correctly as a DateTime Data Type in the Microsoft Dynamics AX client.</P>
@@ -69,7 +69,7 @@ The following procedures explain how to manually define a report parameter and u
     <li><p>The parameter is allowed to have multiple values.</p></li>
     <li><p>The parameter is static and represents a range on a query.</p></li>
     </ul>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The ‘;’ is not supported by the <STRONG>MSDAX</STRONG> client to mean <STRONG>Multi Value</STRONG>. If you set the <STRONG>Multi Value</STRONG> property to <STRONG>True</STRONG> and the end user of the report provides values like <STRONG>1;2;3</STRONG> then the client will only use <STRONG>1</STRONG> as the value.</P>
@@ -84,7 +84,7 @@ The following procedures explain how to manually define a report parameter and u
     <tr class="even">
     <td><p><strong>Nullable</strong></p></td>
     <td><p>Indicates whether the value of a parameter can be null. If the <strong>Nullable</strong> property is set to <strong>True</strong>, a null value indicator check box displays next to the control that is generated for the parameter.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The Reporting Framework does not provide support for indicating that an Integer, Float, or String parameter is a NULL value.</P>

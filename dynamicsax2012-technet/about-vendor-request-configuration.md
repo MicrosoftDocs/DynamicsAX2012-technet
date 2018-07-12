@@ -78,13 +78,11 @@ The following table defines the types of vendor requests that are available and 
 <td><p>An application that a vendor submits after the vendor is invited by the customer to expand their business opportunity with the organization.</p></td>
 <td><p>Vendor registration page</p></td>
 <td><p>Enterprise Portal</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Although the vendor is already approved to business in a different legal entity in the organization, they are not a vendor in the legal entity that is identified in the vendor extension request. Therefore, the request does not appear in the Vendor portal. Instead, it appears in Enterprise Portal.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="odd">
 <td><p>Vendor category request</p></td>

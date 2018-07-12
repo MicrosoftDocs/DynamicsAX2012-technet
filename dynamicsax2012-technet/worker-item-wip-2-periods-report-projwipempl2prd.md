@@ -59,7 +59,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Forecast model</strong></p></td>
 <td><p>Select the forecast model that you want the report to use.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you are using project budget control, select the budget forecast model that is used by this project.</P>

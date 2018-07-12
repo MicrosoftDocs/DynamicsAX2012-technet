@@ -92,7 +92,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="procurement-categories-configuration-key-proccategory.md">Procurement categories configuration key (ProcCategory)</a></p>
 <p><a href="purchase-requisition-consolidation-configuration-key-purchreqconsolidation.md">Purchase requisition consolidation configuration key (PurchReqConsolidation)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

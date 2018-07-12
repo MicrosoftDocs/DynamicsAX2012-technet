@@ -62,7 +62,7 @@ The **Dynamics Filter** property on the dataset determines how filters are creat
     <tr class="even">
     <td><p><strong>Value</strong></p></td>
     <td><p>A value for the expression. You can type a value or use the drop-down list. From the drop-down list, choose <strong>&lt;Expression…&gt;</strong> to open the <strong>Edit Expression</strong> dialog box where you can create a complex expression.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you type the character "10" for the <STRONG>Value</STRONG> property, by default, this evaluates to the string "10". To compare a numeric expression with the number 10, use the expression syntax which starts with an equal sign: =10. If a filter expression contains a data type mismatch, you will see a runtime error when you are previewing the report.</P>
