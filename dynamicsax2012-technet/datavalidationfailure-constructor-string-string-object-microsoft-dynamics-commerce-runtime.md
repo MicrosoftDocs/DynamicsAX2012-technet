@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# DataValidationFailure Constructor (String, String, Object )
+# DataValidationFailure Constructor (String, String, Object[])
 
 Initializes a new instance of the [DataValidationFailure](datavalidationfailure-class-microsoft-dynamics-commerce-runtime.md) class.
 
