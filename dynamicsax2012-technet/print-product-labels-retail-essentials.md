@@ -35,7 +35,7 @@ When you work with product labels in Retail essentials, you can complete the fol
 
 Before you can generate and print product labels, you must set up Microsoft Dynamics AX to enable label printing. The following tasks must be completed:
 
-  - Before you can set up printing for product labels, a system administrator must enable three menu items for Retail essentials. For more information, see [Enable label printing (Retail essentials)](https://technet.microsoft.com/en-us/library/dn774952\(v=ax.60\)).
+  - Before you can set up printing for product labels, a system administrator must enable three menu items for Retail essentials. For more information, see Enable label printing (Retail essentials).
 
   - Select options in the **Retail shared parameters** form to specify how labels should be generated for brick-and-mortar stores. For more information about the options in this form, see [Retail shared parameters (form)](https://technet.microsoft.com/en-us/library/hh580625\(v=ax.60\)).
 
@@ -225,7 +225,7 @@ To generate labels for products that are received from a transfer order, follow 
 
 ## See also
 
-[Enable label printing (Retail essentials)](https://technet.microsoft.com/en-us/library/dn774952\(v=ax.60\))
+Enable label printing (Retail essentials)
 
 [Print shelf labels (Retail essentials)](print-shelf-labels-retail-essentials.md)
 

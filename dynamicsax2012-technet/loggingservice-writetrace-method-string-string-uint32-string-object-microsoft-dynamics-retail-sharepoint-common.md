@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# WriteTrace Method (String, String, , UInt32, String, Object )
+# WriteTrace Method (String, String, , UInt32, String, Object[])
 
 Writes a trace.
 

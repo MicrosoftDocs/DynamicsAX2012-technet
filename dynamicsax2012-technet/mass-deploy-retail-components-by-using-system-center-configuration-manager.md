@@ -71,13 +71,11 @@ This topic includes the following information:
 <tr class="odd">
 <td><p>Install the toolkit</p></td>
 <td><p><a href="install-the-retail-mass-deployment-toolkit.md">Install the Retail mass deployment toolkit</a></p>
-<div class="alert">
 
 > [!TIP]
 > <P>To see the full list of commands that are available for the toolkit, open a Command Prompt window in the folder where RetailConfigMgrToolkit.exe is installed, and type <STRONG>RetailConfigMgrToolkit.exe</STRONG>. To see the parameters that are available for a command, run the command <STRONG>RetailConfigMgrToolkit.exe -o &lt;command&gt; -?</STRONG>.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p>Define the topology</p></td>
@@ -156,13 +154,9 @@ After computers and deployment information have been defined in Microsoft Dynami
 
 4.  Distribute content for the task sequences to the desired distribution point. The Retail installation files can be deployed only if they are copied to the distribution point.
 
-5.  
-    
-
-    > [!NOTE]
+5.  > [!NOTE]
     > <P>This step is required if you are running AX 2012 R3. It is not required if you are running AX 2012 R3 CU8</P>
 
-    
     Set up user accounts for Retail components. User names and passwords must be set up for the following components:
     
       - Real-time Service application pool
@@ -247,4 +241,3 @@ After computers and deployment information have been defined in Microsoft Dynami
 
   
 **Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
-

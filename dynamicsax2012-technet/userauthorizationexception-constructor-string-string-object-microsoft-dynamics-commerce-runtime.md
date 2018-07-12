@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# UserAuthorizationException Constructor (String, String, Object )
+# UserAuthorizationException Constructor (String, String, Object[])
 
 Initializes a new instance of the [UserAuthorizationException](userauthorizationexception-class-microsoft-dynamics-commerce-runtime.md) class.
 

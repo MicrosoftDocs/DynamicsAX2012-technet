@@ -154,10 +154,15 @@ Next, create a report to display data from the General ledger cube. This process
     </tr>
     <tr class="odd">
     <td><p><strong>Query</strong></p></td>
-    <td><pre class="sourceCode sql" id="cb1"><code class="sourceCode sql"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="kw">SELECT</span> {[Measures].[General ledger gross profit - accounting currency]} <span class="kw">ON</span> <span class="kw">COLUMNS</span>,</a>
-    <a class="sourceLine" id="cb1-2" data-line-number="2">{[<span class="kw">Transaction</span> <span class="dt">date</span>].[<span class="dt">Year</span>].&amp;[<span class="dv">2008-01</span>-01T00<span class="ch">:00:00</span>],[<span class="kw">Transaction</span> <span class="dt">date</span>].[<span class="dt">Year</span>].&amp;[<span class="dv">2009-01</span>-01T00<span class="ch">:00:00</span>],</a>
-    <a class="sourceLine" id="cb1-3" data-line-number="3">[<span class="kw">Transaction</span> <span class="dt">date</span>].[<span class="dt">Year</span>].&amp;[<span class="dv">2010-01</span>-01T00<span class="ch">:00:00</span>]} <span class="kw">ON</span> <span class="kw">ROWS</span></a>
-    <a class="sourceLine" id="cb1-4" data-line-number="4"><span class="kw">FROM</span> <span class="ot">&quot;General ledger cube&quot;</span></a></code></pre>
+    <td>
+    
+    ```SQL
+    SELECT {[Measures].[General ledger gross profit - accounting currency]} ON COLUMNS,
+    {[Transaction date].[Year].&[2008-01-01T00:00:00],[Transaction date].[Year].&[2009-01-01T00:00:00],
+    [Transaction date].[Year].&[2010-01-01T00:00:00]} ON ROWS
+    FROM "General ledger cube"
+    ```
+
     <div class="alert">
 
     > [!NOTE]

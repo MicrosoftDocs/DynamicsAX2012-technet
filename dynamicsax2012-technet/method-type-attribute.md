@@ -17,12 +17,14 @@ When you use the AIF Document Service Wizard to create a service in Microsoft Dy
 
 The following code shows the CustCustomerService.delete method decorated with the AifDocumentDeleteAttribute attribute.
 
-    [AifDocumentDeleteAttribute, SysEntryPointAttribute(true)] 
+   ```X++
+   [AifDocumentDeleteAttribute, SysEntryPointAttribute(true)] 
     public void delete(AifEntityKeyList _entityKeyList)
     {
         CustCustomer custCustomer = new CustCustomer();
         this.deleteList(_entityKeyList, custCustomer);
     }
+   ```
 
 
 > [!NOTE]

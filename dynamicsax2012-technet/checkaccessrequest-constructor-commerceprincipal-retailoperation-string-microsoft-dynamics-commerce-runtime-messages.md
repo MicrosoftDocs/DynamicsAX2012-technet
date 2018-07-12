@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# CheckAccessRequest Constructor (CommercePrincipal, RetailOperation, String )
+# CheckAccessRequest Constructor (CommercePrincipal, RetailOperation, String[])
 
 Initializes a new instance of the [CheckAccessRequest](checkaccessrequest-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 

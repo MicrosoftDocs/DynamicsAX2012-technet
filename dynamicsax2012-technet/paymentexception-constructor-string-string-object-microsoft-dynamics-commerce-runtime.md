@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# PaymentException Constructor (String, String, Object )
+# PaymentException Constructor (String, String, Object[])
 
 Initializes a new instance of the [PaymentException](paymentexception-class-microsoft-dynamics-commerce-runtime.md) class.
 

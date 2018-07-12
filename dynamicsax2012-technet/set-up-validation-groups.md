@@ -39,13 +39,12 @@ Use validation in **Project management and accounting** for journal entry access
     
     If you are the borrowing legal entity, you can add workers that are loaned from different legal entities to your validation groups when you are setting up validation options that are used with intercompany timesheets.
     
-    > [!Note]  
-	> The <strong>Legal entity</strong> field is available on the <strong>Worker/category validation groups</strong> form and <strong>Worker/project validation groups</strong> form.
-    
-    > [!NOTE]
-    > <P>This control is available only if Microsoft Dynamics AX 2012 Feature Pack is installed.</P>
-    
 
+    > [!NOTE]  
+    > The <strong>Legal entity</strong> field is available on the <strong>Worker/category validation groups</strong> form and <strong>Worker/project validation groups</strong> form.
+    
+    > [!NOTE]  
+    > <p>This control is available only if Microsoft Dynamics AX 2012 Feature Pack is installed.</p>
 
 5.  On the **Projects**, **Worker**, or **Categories** FastTabs, add the appropriate projects, workers, or categories.
 

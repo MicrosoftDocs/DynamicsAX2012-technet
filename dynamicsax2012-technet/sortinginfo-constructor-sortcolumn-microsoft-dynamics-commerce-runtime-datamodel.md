@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# SortingInfo Constructor (SortColumn )
+# SortingInfo Constructor (SortColumn[])
 
 Initializes a new instance of the [SortingInfo](sortinginfo-class-microsoft-dynamics-commerce-runtime-datamodel.md) class.
 

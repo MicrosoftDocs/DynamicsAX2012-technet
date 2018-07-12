@@ -19,6 +19,8 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 The topics in this section provide information about how to set up Retail info codes.
 
 > [!Caution]  
+
+> [!NOTE]
 > <P>In versions of Microsoft Dynamics AX 2012 prior to AX 2012 R3, info codes in Retail were called reason codes. This topic refers to info codes, but the information also pertains to Retail reason codes in earlier versions of AX 2012, unless otherwise indicated.</P>
 
 [About info codes (Retail)](about-info-codes-retail.md)

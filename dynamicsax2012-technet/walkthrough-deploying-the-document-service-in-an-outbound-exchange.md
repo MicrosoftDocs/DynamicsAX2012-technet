@@ -212,7 +212,8 @@ The canXMLBeSent method makes sure that an integration port has been configured 
 
 3.  In the code editor, copy the following code into the new method.
     
-        boolean canXMLBeSent()
+       ```X++
+       boolean canXMLBeSent()
         {
             boolean ret;
             AifActionId actionId;
@@ -238,6 +239,7 @@ The canXMLBeSent method makes sure that an integration port has been configured 
             }
             return ret;
         }
+       ```
 
 The sendElectronically method gets the entity key for the selected journal, calls the method that retrieves the data, serializes that data into an XML message, and then sends the document to the gateway queue.
 
@@ -247,7 +249,8 @@ The sendElectronically method gets the entity key for the selected journal, call
 
 2.  In the code editor, copy the following code into the new method.
     
-        void sendElectronically(XMLDocPurpose _xMLDocPurpose, 
+       ```X++
+       void sendElectronically(XMLDocPurpose _xMLDocPurpose, 
                                 AifSendMode _aifSendMode = AifSendMode::Async)
         {
             AxdSendContext axdSendContext = AxdSendContext::construct();
@@ -275,6 +278,7 @@ The sendElectronically method gets the entity key for the selected journal, call
                 _aifSendMode,
                 axdSendContext.pack());
         }
+       ```
 
 
 > [!NOTE]
@@ -302,7 +306,8 @@ In this section you will add code to the clicked events for the **SendXMLOrigina
 
 5.  In the code editor, enter the following code in the clicked event.
     
-        void clicked()
+       ```X++
+       void clicked()
         {
             LedgerJournalTable  ledgerJournalTableLocal;
             ;
@@ -326,6 +331,7 @@ In this section you will add code to the clicked events for the **SendXMLOrigina
                 // warning (strfmt("@SYSnnnnn",ledgerJournalTableLocal.JournalNum));
             }
         }
+       ```
 
 6.  Repeat steps 1 through 3 for the **MenuItemButton:SendXMLDuplicate** control.
 
