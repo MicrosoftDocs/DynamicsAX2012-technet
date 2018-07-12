@@ -5424,7 +5424,7 @@
       - name: Production Floor app
         href: production-floor-app-for-microsoft-dynamics-ax.md
   - name: Application users
-    href: app-user/toc.yml
+    href: application-users.md
   - name: Technical reference
     href: technical-reference.md
     items:
