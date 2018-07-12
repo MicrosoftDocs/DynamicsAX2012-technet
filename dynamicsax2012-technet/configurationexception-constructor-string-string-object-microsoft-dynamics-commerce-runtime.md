@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# ConfigurationException Constructor (String, String, Object )
+# ConfigurationException Constructor (String, String, Object[])
 
 Initializes a new instance of the [ConfigurationException](configurationexception-class-microsoft-dynamics-commerce-runtime.md) class.
 
