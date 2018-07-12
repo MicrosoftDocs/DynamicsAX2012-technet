@@ -19,73 +19,73 @@ Welcome to the Microsoft Dynamics AX 2012 Application User Library.
 
 To get started with Microsoft Dynamics AX, review the following resources in this library.
 
-[Introduction to Microsoft Dynamics AX 2012](../introduction-to-microsoft-dynamics-ax-2012.md)
+[Introduction to Microsoft Dynamics AX 2012](introduction-to-microsoft-dynamics-ax-2012)
 
-[About Help in Microsoft Dynamics AX](../about-help-in-microsoft-dynamics-ax.md)
+[About Help in Microsoft Dynamics AX](about-help-in-microsoft-dynamics-ax)
 
-[Configuring product-wide features](../configuring-product-wide-features.md)
+[Configuring product-wide features](configuring-product-wide-features)
 
-[Productivity tools for end users](../productivity-tools-for-end-users.md)
+[Productivity tools for end users](productivity-tools-for-end-users)
 
-[Accounts payable](../accounts-payable.md)
+[Accounts payable](accounts-payable)
 
-[Accounts receivable](../accounts-receivable.md)
+[Accounts receivable](accounts-receivable)
 
-[General ledger](../general-ledger.md)
+[General ledger](general-ledger)
 
-[Budgeting](../budgeting.md)
+[Budgeting](budgeting)
 
-[Cost accounting](../cost-accounting.md)
+[Cost accounting](cost-accounting)
 
-[Fixed assets](../fixed-assets.md)
+[Fixed assets](fixed-assets)
 
-[Cash and bank management](../cash-and-bank-management.md)
+[Cash and bank management](cash-and-bank-management)
 
-[Travel and expense](../travel-and-expense.md)
+[Travel and expense](travel-and-expense)
 
-[Compliance and internal controls](../compliance-and-internal-controls.md)
+[Compliance and internal controls](compliance-and-internal-controls)
 
-[Human resources](../human-resources.md)
+[Human resources](human-resources)
 
-[Payroll](../payroll.md)
+[Payroll](payroll)
 
-[Procurement and sourcing](../procurement-and-sourcing.md)
+[Procurement and sourcing](procurement-and-sourcing)
 
-[Product information management](../product-information-management.md)
+[Product information management](product-information-management)
 
-[Master planning](../master-planning.md)
+[Master planning](master-planning)
 
-[Production control](../production-control.md)
+[Production control](production-control)
 
-[Inventory management](../inventory-management.md)
+[Inventory management](inventory-management)
 
-[Warehouse management](../warehouse-management.md)
+[Warehouse management](warehouse-management)
 
-[Transportation management](../transportation-management.md)
+[Transportation management](transportation-management)
 
-[Sales and marketing](../sales-and-marketing.md)
+[Sales and marketing](sales-and-marketing)
 
-[Call center](../call-center.md)
+[Call center](call-center)
 
-[Retail for application users](../retail-for-application-users.md)
+[Retail for application users](retail-for-application-users)
 
-[Retail essentials](../retail-essentials-retail-essentials.md)
+[Retail essentials](retail-essentials-retail-essentials)
 
-[Trade allowance management](../trade-allowance-management.md)
+[Trade allowance management](trade-allowance-management)
 
-[Project management and accounting](../project-management-and-accounting.md)
+[Project management and accounting](project-management-and-accounting)
 
-[Service management](../service-management.md)
+[Service management](service-management)
 
-[Public sector](../public-sector.md)
+[Public sector](public-sector)
 
-[Additional country/region-specific information](../additional-country-region-specific-information.md)
+[Additional country/region-specific information](additional-country-region-specific-information)
 
-[Enterprise portal (TechNet)](../enterprise-portal-technet.md)
+[Enterprise portal (TechNet)](enterprise-portal-technet)
 
-[Feedback](../feedback.md)
+[Feedback](feedback)
 
-[Microsoft Dynamics AX Developer Forms](../microsoft-dynamics-ax-developer-forms.md)
+[Microsoft Dynamics AX Developer Forms](microsoft-dynamics-ax-developer-forms)
 
 ## Get connected
 
