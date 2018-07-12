@@ -23,12 +23,12 @@ mtps_version: v=AX.60
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0explicit-conversion-operators-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit</a></td>
+<td><a href="commercepropertyvalue-explicit-conversion-operators-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit</a></td>
 <td>Overloaded.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0implicit-conversion-operators-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit</a></td>
+<td><a href="commercepropertyvalue-implicit-conversion-operators-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit</a></td>
 <td>Overloaded.</td>
 </tr>
 </tbody>

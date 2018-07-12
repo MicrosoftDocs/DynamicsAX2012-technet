@@ -30,17 +30,17 @@ dev_langs:
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/Dn990315.pub(en-us,AX.60).gif" title="Dn989629.pub(en-us,AX.60).gif" alt="Dn989629.pub(en-us,AX.60).gif" /></td>
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Dn989629.pub(en-us,AX.60).gif" alt="Dn989629.pub(en-us,AX.60).gif" /></td>
 <td><a href="workflowrequesthandler-trequest-tresponse-supportedrequesttypes-property-microsoft-dynamics-commerce-runtime-workflow_1.md">SupportedRequestTypes</a></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><img src="images/Dn990315.pub(en-us,AX.60).gif" title="Dn989629.pub(en-us,AX.60).gif" alt="Dn989629.pub(en-us,AX.60).gif" /></td>
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Dn989629.pub(en-us,AX.60).gif" alt="Dn989629.pub(en-us,AX.60).gif" /></td>
 <td><a href="workflowrequesthandler-trequest-tresponse-supportedrequesttypes-property-microsoft-dynamics-commerce-runtime-workflow_1.md">SupportedRequestTypes</a></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><img src="images/Dn990315.pub(en-us,AX.60).gif" title="Dn989629.pub(en-us,AX.60).gif" alt="Dn989629.pub(en-us,AX.60).gif" /></td>
+<td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Dn989629.pub(en-us,AX.60).gif" alt="Dn989629.pub(en-us,AX.60).gif" /></td>
 <td><a href="workflowrequesthandler-trequest-tresponse-supportedrequesttypes-property-microsoft-dynamics-commerce-runtime-workflow_1.md">SupportedRequestTypes</a></td>
 <td></td>
 </tr>

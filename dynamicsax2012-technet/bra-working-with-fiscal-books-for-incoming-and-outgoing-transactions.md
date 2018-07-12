@@ -31,7 +31,7 @@ The topics in this section describe how to create and prepare tax assessments fo
 
 [(BRA) Generate and validate the SPED ECD statement](bra-generate-and-validate-the-sped-ecd-statement.md)
 
-[(BRA) Generate the GIA tax file for São Paulo](bra-generate-the-gia-tax-file-for-são-paulo.md)
+[(BRA) Generate the GIA tax file for São Paulo](bra-generate-the-gia-tax-file-for-sao-paulo.md)
 
 [(BRA) Generate the GIA ST tax file](bra-generate-the-gia-st-tax-file.md)
 

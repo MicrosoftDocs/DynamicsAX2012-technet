@@ -25,7 +25,7 @@ The [Authentication](authentication-class-microsoft-dynamics-retail-sharepoint-w
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="authentication%C2%A0implicit-conversion-authentication-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md">Implicit(Authentication to TemplateControl)</a></td>
+<td><a href="authentication-implicit-conversion-authentication-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md">Implicit(Authentication to TemplateControl)</a></td>
 <td></td>
 </tr>
 </tbody>
