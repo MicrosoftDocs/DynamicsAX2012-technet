@@ -58,10 +58,14 @@ For message sets, AIF uses the message-set schema. The namespace of the message-
     http://schemas.microsoft.com/Microsoft Dynamics/2009/06/documents/Batch
 
 AIF uses entity key schemas to contain name-value pairs, such as those used to query for a particular item during a read operation or when sending a response to a create operation. The namespaces for entity keys and entity key lists are:
-
-    http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey
-
-    http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList
+    
+```
+http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey
+```
+    
+```
+http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList
+```
 
 AIF aggregates common property types in the shared-types schema. The namespace for the shared-types schema is:
 

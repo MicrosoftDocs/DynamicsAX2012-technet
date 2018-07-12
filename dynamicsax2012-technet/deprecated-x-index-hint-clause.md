@@ -37,8 +37,6 @@ Any legacy X++ select statements that include the index hint clause still run fi
     
         Global::info(CustTableBuffer.getSQLStatement());
     }
-```
-    
 
     
     /*****
@@ -61,6 +59,7 @@ Any legacy X++ select statements that include the index hint clause still run fi
           (MAINCONTACTWORKER=0)
         )
     *****/
+```    
 
 ## Overview
 
