@@ -39,6 +39,7 @@ Some inbound documents can be inserted directly into a work table, which can pos
 
 In an outbound exchange, the initQueryFromEntityKey method in the document class is called. This method can be used to implement any business logic for the document that is being retrieved from the database before it is sent. For example, the following code in the AxdPurchaseRequisition document class checks to make sure that the purchase order being requested has a status of **Open order**. If the purchase requisition does not have that status, an error is returned and the document is not sent.
 
+```X++
     public void initQueryFromEntityKey(AifEntityKey 
         _aifEntityKey = null, boolean _validateEntityKey = false)
     {
@@ -69,6 +70,7 @@ In an outbound exchange, the initQueryFromEntityKey method in the document class
     
         this.disableDataSources();
     }
+```
 
 ## Ax \<Table\> Classes
 

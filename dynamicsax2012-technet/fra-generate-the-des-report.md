@@ -68,7 +68,7 @@ After you generate the EU sales list, you can use the **EU reporting** form to e
 
 ## See also
 
-[EU Reporting (report)](https://technet.microsoft.com/en-us/library/aa585352\(v=ax.60\))
+EU Reporting (report)
 
 [EU sales list (form)](https://technet.microsoft.com/en-us/library/aa596355\(v=ax.60\))
 

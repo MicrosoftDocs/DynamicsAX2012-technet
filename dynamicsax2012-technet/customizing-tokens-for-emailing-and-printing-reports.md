@@ -13,7 +13,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
-In cumulative update 7 or later for Microsoft Dynamics AX 2012 R2, you can email reports to specific people by using tokens in the **Print destination settings** form. Tokens are strings delimited with @ signs, such as **@\<Job Title\>@** or **@\<Purpose\>@**, that you can use instead of entering individual email addresses. Built-in functionality in cumulative update 7 or later for Microsoft Dynamics AX 2012 R2 lets you use tokens like **@Staffing Specialist@** or **@Billing@** to send a report to all workers with a particular job title or customer contacts with a particular purpose.
+In cumulative update 7 or later for Microsoft Dynamics AX 2012 R2, you can email reports to specific people by using tokens in the **Print destination settings** form. Tokens are strings delimited with @ signs, such as **@\<Job Title\>@** or **@\<Purpose\>@**, that you can use instead of entering individual email addresses. Built-in functionality in cumulative update 7 or later for Microsoft Dynamics AX 2012 R2 lets you use tokens like **@Staffing Specialist@** or <strong>@Billing@</strong> to send a report to all workers with a particular job title or customer contacts with a particular purpose.
 
 Reports that use print management that are intended for an external audience support both worker title tokens and customer/vendor purpose tokens. Reports that don’t use print management and are intended for an internal audience support only the worker title tokens.
 

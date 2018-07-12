@@ -31,7 +31,7 @@ In this walkthrough, you will use an OData feed to get Microsoft Dynamics AX dat
 <p>5. Create a calculated column</p>
 <p>6. Create a Power View chart</p>
 <p>7. Share the report in Power BI sites</p></td>
-<td><a href="analytics-in-microsoft-dynamics-ax.md" class="uri">analytics-in-microsoft-dynamics-ax.md</a>
+<td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
 <p><a href="analytics-in-microsoft-dynamics-ax.md">Analytics in Microsoft Dynamics AX</a></p>
 <p><a href="microsoft-dynamics-ax-integration-with-power-bi-for-office-365.md">Microsoft Dynamics AX integration with Power BI for Office 365</a></p></td>
 </tr>

@@ -25,7 +25,7 @@ The [Address](address-class-microsoft-dynamics-retail-sharepoint-web-webparts.md
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="address%C2%A0implicit-conversion-address-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md">Implicit(Address to TemplateControl)</a></td>
+<td><a href="address-implicit-conversion-address-to-templatecontrol-microsoft-dynamics-retail-sharepoint-web-webparts.md">Implicit(Address to TemplateControl)</a></td>
 <td></td>
 </tr>
 </tbody>

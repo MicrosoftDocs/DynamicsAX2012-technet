@@ -155,7 +155,7 @@ When you use these resources, you may find it useful to learn the following conc
 
   - [Get-Member](http://go.microsoft.com/fwlink/?linkid=171070)
 
-  - [Get-Help](\(http://go.microsoft.com/fwlink/?linkid=171068)
+  - [Get-Help](http://go.microsoft.com/fwlink/?linkid=171068)
 
   - [Aliasing](http://go.microsoft.com/fwlink/?linkid=113207)
 

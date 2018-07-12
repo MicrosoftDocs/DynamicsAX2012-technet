@@ -175,38 +175,27 @@ Back to top
 
 11. In the **Picking list** field, select the picking list journal to use for posting item consumption.
 
-12.  In the **Automatic BOM consumption** field, select how raw materials are deducted from stock. This parameter must also be set in the **Operations** and **Report as finished** areas of this form.
-    
+12.  In the **Automatic BOM consumption** field, select how raw materials are deducted from stock. This parameter must also be set in the **Operations** and **Report as finished** areas of this form.    
 
-    > [!IMPORTANT]
-    > <P>It is important to select the correct combination of parameters to avoid registering erroneous BOM consumption. For example, by selecting the correct combination, you avoid deducting materials two times from stock or not deducting them at all. For information about how different parameter combinations affect item consumption and inventory management, see <A href="about-production-parameters-in-manufacturing-execution.md">About production parameters in Manufacturing execution</A>.</P>
-
-
+> [!IMPORTANT]
+> <p>It is important to select the correct combination of parameters to avoid registering erroneous BOM consumption. For example, by selecting the correct combination, you avoid deducting materials two times from stock or not deducting them at all. For information about how different parameter combinations affect item consumption and inventory management, see <A href="about-production-parameters-in-manufacturing-execution.md">About production parameters in Manufacturing execution</A>.</P>
 
 13. Select the **Post picking list now** check box if you want to post automatically generated picking lists immediately.
 
-14. Select the **End-mark picking list** check box to create a picking list that contains end marking lines for the production order. If this check box is selected, no additional item consumption will be posted on the production order.
-    
+14. Select the **End-mark picking list** check box to create a picking list that contains end marking lines for the production order. If this check box is selected, no additional item consumption will be posted on the production order.    
 
     > [!NOTE]
-    > <P>This parameter must also be set in the <STRONG>Report as finished</STRONG> area of this form. The BOM consumption method that is selected in each area determines whether the system end-marks a picking list when you start a production order or when you report it as finished.</P>
+    > <p>This parameter must also be set in the <STRONG>Report as finished</STRONG> area of this form. The BOM consumption method that is selected in each area determines whether the system end-marks a picking list when you start a production order or when you report it as finished.</P>
 
-
-
-15. Select the **Physical reduction** check box to allow for reduction of items from stock down to what is actually available.
-    
+15. Select the **Physical reduction** check box to allow for reduction of items from stock down to what is actually available.    
 
     > [!NOTE]
     > <P>This field and the <STRONG>Pick negative</STRONG> field are mutually exclusive. If you select one check box, you must clear the other.</P>
 
-
-
-16. Select the **Pick negative** check box if you want to allow for negative item consumption. If this check box is selected, items that are not yet registered in Microsoft Dynamics AX can be picked from stock.
-    
+16. Select the **Pick negative** check box if you want to allow for negative item consumption. If this check box is selected, items that are not yet registered in Microsoft Dynamics AX can be picked from stock.    
 
     > [!NOTE]
     > <P>To use this option, the <STRONG>Physical negative inventory</STRONG> check box must be selected for the item model group. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa577092(v=ax.60)">Item model groups (form)</A>.</P>
-
 
 
 17. Select the **Complete picking list journal** check box if you want to update the status of all BOM items to **Finished picking**. This includes items that consumption has not been calculated for.
@@ -229,12 +218,10 @@ Back to top
     
       - **Job** – Use job scheduling of production orders.
     
-      - **Route** – Use operations scheduling of production orders. This means that planning is performed on dates only.
-        
+      - **Route** – Use operations scheduling of production orders. This means that planning is performed on dates only.        
 
         > [!NOTE]
         > <P>If you select <STRONG>Job</STRONG> in this field, ensure that <STRONG>Job scheduling</STRONG> is selected in the <STRONG>Scheduling method</STRONG> field in the <STRONG>Automatic update</STRONG> area of the <STRONG>Production control parameters</STRONG> form. If these settings are not the same, no jobs for registration appear in the <STRONG>Job registration</STRONG> form.</P>
-
 
 
 3.  In the **Route consumption journal** field, select a journal type. The journal type that you select depends on the option that is selected in the **Job level** field:
@@ -246,8 +233,6 @@ Back to top
 
     > [!IMPORTANT]
     > <P>If you change the setting in the <STRONG>Job level</STRONG> field, you must update this field to reflect the change. You must also update the <STRONG>Time journal</STRONG> field in the <STRONG>General</STRONG> area of the form.</P>
-
-
 
 4.  Select the **Post automatically** check box if you want to post the automatically generated route or job cards immediately.
 

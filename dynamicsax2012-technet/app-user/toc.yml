@@ -8520,7 +8520,7 @@
               - name: (BRA) Generate and validate the SPED ECD statement
                 href: ..\bra-generate-and-validate-the-sped-ecd-statement.md
               - name: (BRA) Generate the GIA tax file for São Paulo
-                href: ..\bra-generate-the-gia-tax-file-for-são-paulo.md
+                href: ..\bra-generate-the-gia-tax-file-for-sao-paulo.md
               - name: (BRA) Generate the GIA ST tax file
                 href: ..\bra-generate-the-gia-st-tax-file.md
               - name: (BRA) Assess, pay, declare, and adjust ISS taxes

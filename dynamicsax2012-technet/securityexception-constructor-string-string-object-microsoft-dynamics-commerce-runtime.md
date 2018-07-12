@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# SecurityException Constructor (String, String, Object )
+# SecurityException Constructor (String, String, Object[])
 
 Initializes a new instance of the [SecurityException](securityexception-class-microsoft-dynamics-commerce-runtime.md) class.
 

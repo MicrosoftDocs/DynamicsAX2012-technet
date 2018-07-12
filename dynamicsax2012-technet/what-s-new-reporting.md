@@ -346,7 +346,7 @@ The following improvements have been made to the report development process.
 <p>Services are strongly typed. Therefore issues are found at design time instead of run time.</p>
 <p>The reporting framework added a service that can consume an RDP class from an external application. Services let you quickly expose existing X++ business logic without additional coding.</p></td>
 <td><p><a href="services-and-application-integration-framework-aif.md">Services and Application Integration Framework (AIF)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh538452(v=ax.60)">How to: Reference a Service from a Data Method</a></p></td>
+<p>How to: Reference a Service from a Data Method</p></td>
 </tr>
 <tr class="odd">
 <td><p>Work with large datasets for a report.</p></td>

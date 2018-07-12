@@ -31,9 +31,9 @@ This topic includes the following sections.
 
 The procedures in this topic require that you map a WebDAV network drive for the Retail online store publishing portal and the product catalog. By default the URLs for the Contoso publishing portal and catalog are as follows:
 
-http://*ServerName*:40003/sites/RetailPublishingPortal
+http://ServerName:40003/sites/RetailPublishingPortal
 
-http://*ServerName*:40001/sites/RetailProductCatalog
+http://ServerName:40001/sites/RetailProductCatalog
 
 For the Fabrikam publishing portal and catalog, substitute 40003 and 40001 with 50003 and 50001. Use the procedure in the following topic to map a WebDAV network drive for each of these URLS: [Map a network drive to the SharePoint 2013 files for online stores](map-a-network-drive-to-the-sharepoint-2013-files-for-online-stores.md)
 

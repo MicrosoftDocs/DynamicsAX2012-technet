@@ -2046,7 +2046,7 @@
             - name: (CHE) Payment advice report (VendOutPaymAdvice_CHEZAG)
               href: che-payment-advice-report-vendoutpaymadvice-chezag.md
             - name: (CHE) Vergütungsauftrag report (VendOutPaymOrder_CHDTA)
-              href: che-vergütungsauftrag-report-vendoutpaymorder-chdta.md
+              href: che-vergutungsauftrag-report-vendoutpaymorder-chdta.md
             - name: (DEU) DTAUS report (VendOutAttendingNoteDE_DTAUS)
               href: deu-dtaus-report-vendoutattendingnotede-dtaus.md
             - name: (DEU) DTAUS (DE) report (VendOutCoveringLetter_DEDTAUS)
@@ -5517,7 +5517,7 @@
         - name: (CHE) Payment advice report (VendOutPaymAdvice_CHEZAG)
           href: che-payment-advice-report-vendoutpaymadvice-chezag.md
         - name: (CHE) Vergütungsauftrag report (VendOutPaymOrder_CHDTA)
-          href: che-vergütungsauftrag-report-vendoutpaymorder-chdta.md
+          href: che-vergutungsauftrag-report-vendoutpaymorder-chdta.md
         - name: (DEU) DTAUS report (VendOutAttendingNoteDE_DTAUS)
           href: deu-dtaus-report-vendoutattendingnotede-dtaus.md
         - name: (DEU) DTAUS (DE) report (VendOutCoveringLetter_DEDTAUS)

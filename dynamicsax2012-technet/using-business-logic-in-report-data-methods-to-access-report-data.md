@@ -27,7 +27,7 @@ This section provides an overview of reports bound to a report data method that 
 
 [How to: Use a Data Method in an Expression](how-to-use-a-data-method-in-an-expression.md)
 
-[How to: Reference a Service from a Data Method](https://technet.microsoft.com/en-us/library/hh538452\(v=ax.60\))
+How to: Reference a Service from a Data Method
 
 [Data Method Selector](data-method-selector.md)
 

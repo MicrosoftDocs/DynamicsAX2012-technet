@@ -17,7 +17,7 @@ The topics in this section provide information about the features of services an
 
 [What's New: Services and AIF administration](https://technet.microsoft.com/en-us/library/gg751352\(v=ax.60\))
 
-[What's New: Services and AIF for Developers in Microsoft Dynamics AX 2012](https://technet.microsoft.com/en-us/library/gg879708\(v=ax.60\))
+What's New: Services and AIF for Developers in Microsoft Dynamics AX 2012
 
 [Key concepts in AIF](key-concepts-in-aif.md)
 
