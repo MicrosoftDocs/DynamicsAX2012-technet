@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# DataValidationException Constructor (String, String, Object )
+# DataValidationException Constructor (String, String, Object[])
 
 Initializes a new instance of the [DataValidationException](datavalidationexception-class-microsoft-dynamics-commerce-runtime.md) class.
 
