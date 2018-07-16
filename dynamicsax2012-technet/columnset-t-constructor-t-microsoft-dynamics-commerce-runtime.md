@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# ColumnSet(T) Constructor (T )
+# ColumnSet(T) Constructor (T[])
 
 Initializes a new instance of the [ColumnSet\<T\>](columnset-t-class-microsoft-dynamics-commerce-runtime.md) class.
 
