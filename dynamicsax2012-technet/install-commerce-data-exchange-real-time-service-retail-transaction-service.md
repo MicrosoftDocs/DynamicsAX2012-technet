@@ -197,14 +197,9 @@ After you extract the installation files by using Setup, you must configure sett
     <td><p>The port on which Real-time Service receives secure HTTP requests. You can specify any available port. Verify that the port is open in Windows Firewall.</p>
     <p></p>
     <div class="alert">
-    <div class="mtps-table">
-    <div class="mtps-row">
-    <img src="images/Gg732282.alert_caution(AX.60).gif" title="Caution note" alt="Caution note" class="note" /><strong>Caution</strong>
-    </div>
-    <div class="mtps-row">
-    To avoid conflicts with the Default Web Site on the computer, we recommend that you do not use the default HTTPS port (443). A nonstandard port number also helps make the website more secure.
-    </div>
-    </div>
+    > [!Caution]  
+	> To avoid conflicts with the Default Web Site on the computer, we recommend that you do not use the default HTTPS port (443). A nonstandard port number also helps make the website more secure.
+
     </div></td>
     <td><p>None</p></td>
     </tr>

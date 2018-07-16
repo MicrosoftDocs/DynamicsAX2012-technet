@@ -65,7 +65,7 @@ When you enter a free text invoice, each amount will be distributed as follows.
 </tr>
 <tr class="even">
 <td><p>Free text invoice line for a fixed asset number and value model combination</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>The main account on the free text invoice line will be the fixed asset disposal account.</P>

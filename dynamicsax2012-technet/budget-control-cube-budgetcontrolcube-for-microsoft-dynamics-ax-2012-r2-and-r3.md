@@ -354,7 +354,7 @@ The Budget control cube contains the following calculated measures.
 </tr>
 <tr class="odd">
 <td><p>Carry-forward budget</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>This calculated measure is available only in Microsoft Dynamics AX 2012 R3.</P>

@@ -50,7 +50,7 @@ The following properties are in the **Properties** sheet when a table is selecte
 <li><p><strong>Yes</strong> - Indicates that attributes from the table are to be consolidated into the parent dimension (star schema).</p></li>
 <li><p><strong>No</strong> - Indicates that a separate dimension is to be generated for the table (snowflake schema).</p></li>
 </ul>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>If a perspective contains a table that has a surrogate foreign key and the <STRONG>IsLookup</STRONG> property is set to <STRONG>Yes</STRONG>, the dimension usage between the measure group and dimension will not get generated in the perspective. Instead, use a view to retain the relationship.</P>
@@ -145,7 +145,7 @@ The following properties display in the **Properties** sheet when a field from t
 <li><p><strong>None</strong> - No aggregate function is applied.</p></li>
 <li><p><strong>Auto</strong> - Applies to derived extended data types. The value of the <strong>AnalysisUsage</strong> property for the parent extended data type is to be used.</p></li>
 </ul>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>Count and DistinctCount are the only aggregate function settings allowed on String fields by Analysis Services. If you set the <STRONG>AnalysisDefaultTotal</STRONG> value to an unsupported value, the cube will not build.</P>
@@ -186,7 +186,7 @@ The following properties are in the **Properties** sheet when an extended data t
 <li><p><strong>Both</strong> - A field that references the extended data type is both a dimension attribute and a measure.</p></li>
 <li><p><strong>None</strong> - A field that references the extended data type is not a dimension attribute and not a measure.</p></li>
 <li><p><strong>Auto</strong> - Applies to derived extended data types. The value of the <strong>AnalysisUsage</strong> property for the parent extended data type is used.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>Extended data types that are based on enumerations cannot be measures.</P>

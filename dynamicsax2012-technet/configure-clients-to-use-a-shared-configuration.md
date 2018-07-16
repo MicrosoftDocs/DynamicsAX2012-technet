@@ -81,7 +81,7 @@ The following table lists three methods that you can use to set up clients to us
 <tr class="odd">
 <td><p>Use the ClientConfigFile setup parameter, and specify the path of the shared configuration file. This method can be used for client installations that are run in silent mode. The following example shows the format of the parameter.</p>
 <pre><code>ClientConfigFile=&quot;%Drive%:\&lt;name of configuration file&gt;.axc&quot;</code></pre>
-<div class="alert">
+<div class="alert"> 
 
 > [!TIP]
 > <P>If you want to install clients, but you do not want to install the Microsoft Dynamics AX 2012 Configuration utility, set the ClientConfig parameter to 0 (zero).</P>

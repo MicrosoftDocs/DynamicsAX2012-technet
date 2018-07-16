@@ -63,7 +63,7 @@ The following table describes the information that you must compile before you c
 <td><p>The departments, business units, and cost centers in the organization hierarchy.</p></td>
 <td><p>The budget manager must be assigned to a role that has permission to create and maintain organization hierarchies.</p>
 <p>For information about how to assign the <strong>Budget planning</strong> purpose to an organization hierarchy, see <a href="create-or-modify-an-organization-hierarchy.md">Create or modify an organization hierarchy</a>.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>Only one organization hierarchy can be assigned to a budget planning process.</P>

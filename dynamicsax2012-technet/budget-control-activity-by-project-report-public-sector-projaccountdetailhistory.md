@@ -44,7 +44,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>From date</strong> (<strong>Project dates</strong>)</p></td>
 <td><p>Select a starting date for the project entries to include in the report.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>You must select both <STRONG>Project dates</STRONG> and <STRONG>Ledger dates</STRONG> for this report.</P>
@@ -55,7 +55,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>To date</strong> (<strong>Project dates</strong>)</p></td>
 <td><p>Select an ending date for project entries to include in the report.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>You must select both <STRONG>Project dates</STRONG> and <STRONG>Ledger dates</STRONG> for this report.</P>
@@ -66,7 +66,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>From date</strong> (<strong>Ledger dates</strong>)</p></td>
 <td><p>Select a starting date for entries to include from the general ledger.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>You must select both <STRONG>Ledger dates</STRONG> and <STRONG>Project dates</STRONG> for this report.</P>
@@ -77,7 +77,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>To date</strong> (<strong>Ledger dates</strong>)</p></td>
 <td><p>Select an ending date for entries to include from the general ledger.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>You must select both <STRONG>Ledger dates</STRONG> and <STRONG>Project dates</STRONG> for this report.</P>
@@ -93,7 +93,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Project ID</strong></p></td>
 <td><p>Click <strong>Select</strong> to open an inquiry form to select one or more projects from the <strong>Project management and accounting</strong> module.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!TIP]
 > <P>You can leave this field blank to include all of the projects that match the other parameters that you selected.</P>

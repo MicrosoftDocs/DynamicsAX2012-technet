@@ -148,19 +148,17 @@ Next, you will create a report to display item data. You will start by creating 
 
 ### To create the report
 
-1.  
+1.  In Solution Explorer, right-click the **SampleExternalDataSourceReport** project, point to **Add**, and then click **Report**.
 
-2.  In Solution Explorer, right-click the **SampleExternalDataSourceReport** project, point to **Add**, and then click **Report**.
+2.  In Model Editor, right-click the **Report1** node, and then click **Rename**.
 
-3.  In Model Editor, right-click the **Report1** node, and then click **Rename**.
+3.  Type ItemListReport as the name.
 
-4.  Type ItemListReport as the name.
+4.  Right-click the **Datasets** node, and then click **Add Dataset**.
 
-5.  Right-click the **Datasets** node, and then click **Add Dataset**.
+5.  Select the node for the dataset.
 
-6.  Select the node for the dataset.
-
-7.  In the **Properties** window, specify the following values.
+6.  In the **Properties** window, specify the following values.
     
     <table>
     <colgroup>
@@ -198,31 +196,31 @@ Next, you will create a report to display item data. You will start by creating 
     </table>
 
 
-8.  In Model Editor, expand the **Fields** node for the **Item** dataset. Select the **Cost** node, and in the **Properties** window, set the **Format String** property to **Currency**.
+7.  In Model Editor, expand the **Fields** node for the **Item** dataset. Select the **Cost** node, and in the **Properties** window, set the **Format String** property to **Currency**.
 
-9.  Select the **SellingPrice** node, and in the **Properties** window, set the **Format String** property to **Currency**.
+8.  Select the **SellingPrice** node, and in the **Properties** window, set the **Format String** property to **Currency**.
 
-10. Drag the **Item** dataset onto the **Designs** node for the report. This creates an auto design for the report based on the data in the dataset.
+9. Drag the **Item** dataset onto the **Designs** node for the report. This creates an auto design for the report based on the data in the dataset.
 
-11. Expand the **AutoDesign1** node, expand the node for the table definition, and then expand the **Data** node.
+10. Expand the **AutoDesign1** node, expand the node for the table definition, and then expand the **Data** node.
 
-12. Select the **Status** node, and in the **Properties** window, click **\<Expression…\>** from the drop-down menu for the **Expression** property.
+11. Select the **Status** node, and in the **Properties** window, click **\<Expression…\>** from the drop-down menu for the **Expression** property.
     
     The **Edit Expression** dialog box is displayed. In this dialog box, you will enter an expression so that text displays for the item status.
 
-13. In the **Edit Expression** dialog box, type the following expression =Switch(Fields\!Status.Value = 0, "In Stock", Fields\!Status.Value = 1, "On Order", Fields\!Status.Value = 2, "Back Ordered"), and then click **OK**.
+12. In the **Edit Expression** dialog box, type the following expression =Switch(Fields\!Status.Value = 0, "In Stock", Fields\!Status.Value = 1, "On Order", Fields\!Status.Value = 2, "Back Ordered"), and then click **OK**.
 
-14. In Model Editor, select the **AutoDesign1** node.
+13. In Model Editor, select the **AutoDesign1** node.
 
-15. In the **Properties** window, set the **Layout Template** property to **ReportLayoutStyleTemplate**.
+14. In the **Properties** window, set the **Layout Template** property to **ReportLayoutStyleTemplate**.
 
-16. For the **Title** property, type Inventory items .
+15. For the **Title** property, type Inventory items .
 
-17. In Model Editor, expand the **AutoDesign1** node, and then select the table definition node.
+16. In Model Editor, expand the **AutoDesign1** node, and then select the table definition node.
 
-18. In the **Properties** window, set the **Style Template** property to **ListStyleTemplate**.
+17. In the **Properties** window, set the **Style Template** property to **ListStyleTemplate**.
 
-19. To preview the layout of the report, right-click the **AutoDesign1** node, and then click **Preview**.
+18. To preview the layout of the report, right-click the **AutoDesign1** node, and then click **Preview**.
 
 Next, you can [add a menu item to display the report](how-to-create-a-menu-item-for-a-report.md) in the Microsoft Dynamics AX client or [add additional interactive features](adding-interactive-features-to-reports.md) to the report.
 

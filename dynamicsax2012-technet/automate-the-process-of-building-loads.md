@@ -62,7 +62,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="even">
 <td><p><strong>Load template</strong></p></td>
 <td><p>You must create one or more load templates. When you generate proposed loads, load building strategies use the attributes defined on the load template to determine what to put in the loads. For more information, see <a href="set-up-a-load-template.md">Set up a load template</a>.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>A load building strategy named <STRONG>Volume-based load building strategy</STRONG> is provided in AX 2012 R3 CU8. If you have more than one load template, the volume based load template strategy uses only the first load template in the list.</P>

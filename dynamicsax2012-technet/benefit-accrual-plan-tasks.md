@@ -495,7 +495,7 @@ You enter these numbers into a table, as shown here, to make it easier to set up
     <tr class="odd">
     <td><p><strong>Months of service</strong></p></td>
     <td><p>The minimum number of months of service for the selected rule. The number of months of service is based on the employment start date, the seniority date, or a date that is specified for the worker in the <strong>Benefit accruals</strong> form.</p>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!NOTE]
     > <P>The employment start date is in the <STRONG>Employment history</STRONG> form, and the seniority date is in the <STRONG>Worker</STRONG> form.</P>
@@ -519,7 +519,7 @@ You enter these numbers into a table, as shown here, to make it easier to set up
     <tr class="even">
     <td><p><strong>Minimum balance</strong></p></td>
     <td><p>The number of hours that must be available in the plan before a worker can use hours from the plan. When the available balance is less than this number, the worker can’t use any hours from the plan until additional hours have accrued, or until the available balance has been adjusted.</p>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!TIP]
     > <P>To let workers take time off before they have accrued the hours, enter a negative number.</P>
@@ -573,7 +573,7 @@ You enter these numbers into a table, as shown here, to make it easier to set up
     <td><p><strong>Earning type</strong></p></td>
     <td><p>Select whether to enter an earning code or an earning code group.</p>
     <p>When you include both earning codes and earning code groups in a benefit accrual plan, an earning code can be included in the table multiple times. This occurs when an earning code appears in the table by itself and as part of an earning code group. Each earning code is processed only one time, regardless of how many times the code occurs in the table.</p>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!NOTE]
     > <P>This control is available only when the accrual rate basis for the plan is <STRONG>Hourly rate</STRONG>.</P>
@@ -585,7 +585,7 @@ You enter these numbers into a table, as shown here, to make it easier to set up
     <td><p><strong>Earning code group</strong></p></td>
     <td><p>The earning code groups that contain hourly earning codes.</p>
     <p>The hourly earning codes increase the plan balance when a pay statement line that includes the earning code is submitted for payment. Earning codes other than hourly earning codes are disregarded when the plan balance is calculated.</p>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!NOTE]
     > <P>This control is available only when the accrual rate basis for the plan is <STRONG>Hourly rate</STRONG>.</P>
@@ -604,7 +604,7 @@ You enter these numbers into a table, as shown here, to make it easier to set up
     <tr class="odd">
     <td><p><strong>Rate for compensatory time</strong></p></td>
     <td><p>The rate that is used to calculate the amount of compensatory time. For example, if the worker accrues one hour of compensatory time for each hour worked by using the selected earning code, enter 1. If the worker accrues 1.5 hours of compensatory time, enter 1.5.</p>
-    <div class="alert">
+    <div class="alert"> 
 
     > [!NOTE]
     > <P>This control is available only when the accrual rate basis for the plan is <STRONG>Hours of compensatory time</STRONG>.</P>
@@ -676,7 +676,7 @@ If you don't have access to the pages that are used to complete this task, conta
 <tr class="odd">
 <td><p><strong>Configuration keys</strong></p></td>
 <td><p><strong>Payroll - USA</strong></p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>When you use Payroll, we highly recommend that you turn off the <STRONG>Payroll information</STRONG> configuration key under the <STRONG>Human resource I</STRONG> configuration key. The forms and tables that are enabled by that configuration key are not used by Payroll. If Payroll is installed and the configuration key is enabled, it might be difficult to make sure that your data is entered and tracked correctly.</P>

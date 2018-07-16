@@ -66,7 +66,7 @@ Configuration commands use different syntax depending on where you execute the c
 <td><p>-<strong>startupCmd</strong>=&lt;command&gt;</p></td>
 <td><p><strong>Command to run at application startup</strong></p></td>
 <td><p>Enter a <strong>SysStartupCmd</strong> method to run when the client starts. To view <strong>SysStartupCmd</strong> methods, expand the <strong>Classes</strong> node in the AOT, expand <strong>SysStartupCmd</strong>, and double-click <strong>Construct</strong>. Available commands are listed in the <strong>Switch</strong> section.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>No syntax checking is performed before commands are passed to the client. Test any command before using it.</P>

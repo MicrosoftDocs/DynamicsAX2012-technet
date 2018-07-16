@@ -67,7 +67,7 @@ Create the accounts in the following table to run Microsoft Dynamics AX services
 <tr class="even">
 <td><p>Business Connector proxy account</p></td>
 <td><p>The account that the .NET Business Connector runs as. This account is used to connect to the AOS on behalf of a Microsoft Dynamics AX user, but without granting that user excessive privileges in the system.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>This account must not be a Microsoft Dynamics AX user.</P>
@@ -164,7 +164,7 @@ Create the accounts in the following table to run the services that are used in 
 <tbody>
 <tr class="odd">
 <td><p>Application pool identity for Commerce Data Exchange: Real-time Service</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>In Microsoft Dynamics AX 2012 Feature Pack, Commerce Data Exchange: Real-time Service is called Retail Transaction Service.</P>
@@ -172,7 +172,7 @@ Create the accounts in the following table to run the services that are used in 
 
 </div></td>
 <td><p>The account that is used to run the application pool for the web application for Real-time Service.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>In Microsoft Dynamics AX 2012 Feature Pack, Real-time Service is a Windows service, and this account is used as the service account.</P>
@@ -194,7 +194,7 @@ Create the accounts in the following table to run the services that are used in 
 </tr>
 <tr class="even">
 <td><p>Service accounts for Commerce Data Exchange: Synch Service</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>In Microsoft Dynamics AX 2012 Feature Pack, Commerce Data Exchange: Synch Service is called Retail Store Connect.</P>
@@ -275,7 +275,7 @@ Create the accounts in the following table to run SQL Server services.
 <td><p>Microsoft SQL Server Analysis Services account</p></td>
 <td><p>The account that the <strong>SQL Server Analysis Services (MSSQLSERVER)</strong> Windows service runs as.</p></td>
 <td><p>Select this account when you install Analysis Services.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!IMPORTANT]
 > <P>The account that you select must have read access to the online transaction processing (OLTP) database for Microsoft Dynamics AX.</P>

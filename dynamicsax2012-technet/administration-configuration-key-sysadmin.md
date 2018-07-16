@@ -294,7 +294,7 @@ The following table provides information about how this configuration key relate
 <p><a href="keep-update-objects-6-3-sysdeletedobjects63.md">Keep update objects 6.3 (SysDeletedObjects63)</a></p>
 <p><a href="presence-support-configuration-key-presence.md">Presence support configuration key (Presence)</a></p>
 <p><a href="user-log-configuration-key-sysuserlog.md">User Log configuration key (SysUserLog)</a></p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

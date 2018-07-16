@@ -47,7 +47,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="euro-configuration-key-currencyeuro.md">Euro configuration key (CurrencyEuro)</a></p>
 <p><a href="reporting-currency-configuration-key-currencysecondarycurrency.md">Reporting currency configuration key (CurrencySecondaryCurrency)</a></p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

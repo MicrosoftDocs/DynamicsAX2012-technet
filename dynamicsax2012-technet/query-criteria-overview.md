@@ -108,13 +108,11 @@ You can determine the correct XML tag name for any service that is specified in 
 
 4.  Click the left arrow button to move selected service operations to the **Selected service operations** list and close the form.
 
-5.  
+5.  Select **Customize documents** and then click **Data policies** to open the **Document data policies** form.
 
-6.  Select **Customize documents** and then click **Data policies** to open the **Document data policies** form.
+6.  Click the **View schema** button.
 
-7.  Click the **View schema** button.
-
-8.  In the **Schema** window that is displayed, the name attribute of the first element is the name that you must use for the first tag under \<Body\>\<MessageParts\> in your inbound message. The name of the first element in our example is Customer, as is shown in the following schema code.
+7.  In the **Schema** window that is displayed, the name attribute of the first element is the name that you must use for the first tag under \<Body\>\<MessageParts\> in your inbound message. The name of the first element in our example is Customer, as is shown in the following schema code.
     
     ``` xml
     <xs:element name="Customer" type="tns:AxdCustomer" />

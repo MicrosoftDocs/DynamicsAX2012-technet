@@ -21,7 +21,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 Use this procedure to create a purchase order that has all the information that you need to purchase specific products at a specific price or for a specific delivery date from a vendor.
 
 
-> [!NOTE]
+> [!NOTE]  
 > <P>This topic has been updated to include information about features that were added or changed in the following hotfix for Microsoft Dynamics AX 2012 R3 Cumulative Update 8: KB3047235</P>
 
 
@@ -43,7 +43,7 @@ Use this procedure to create a purchase order that has all the information that 
 4.  Optionally, enter or modify the rest of the information in the **Create purchase order** form, and then click **OK**. The new purchase order is displayed.
     
 
-    > [!NOTE]
+    > [!NOTE]  
     > <P>If a purchase agreement exists for the selected vendor, you can order against the purchase agreement. Purchase agreements are available in the <STRONG>Purchase agreement ID</STRONG> field. For more information, see <A href="create-a-purchase-release-order.md">Create a purchase release order</A>.</P>
 
 
@@ -58,26 +58,21 @@ Use this procedure to create a purchase order that has all the information that 
 
 9.  Click **Add line** or press Ctrl+N to create additional lines for the purchase order.
 
-> [!TIP]  
-> <ul>
-> <li><p>To create accounting distributions for a purchase order line, select the line. Then, on the <strong>Action Pane</strong>, on the <strong>Financials</strong> tab, click <strong>Distribute amounts</strong>. For more information, see <a href="create-accounting-distributions-for-purchase-orders.md">Create accounting distributions for purchase orders</a>.</p></li>
-> <li><p>To view subledger journal lines, select the line. Then, on the <strong>Action Pane</strong>, on the <strong>Financials</strong> tab, click <strong>Subledger journal</strong>. For more information, see <a href="view-subledger-journals-for-purchase-orders.md">View subledger journals for purchase orders</a>.</p></li>
-> <li><p>If you enable committed costs for purchase orders on the <strong>Cost control</strong> tab of the <strong>Project parameters</strong> form, and if you enable budget control for the project on the <strong>Setup</strong> tab of the <strong>Project details</strong> form, the purchase order is subject to budget control for the project. If workflow is implemented, the project budget is checked when each line is saved, but it is not reduced until the purchase order is approved.</p></li>
-> <li><p>If you turn on budget control, and you select <strong>Purchase orders</strong> and <strong>Enable budget control for line item on entry</strong> in the <strong>Select source documents</strong> area of the <strong>Budget control configuration</strong> form, the first column in the <strong>Purchase order lines</strong> grid in the <strong>Purchase order</strong> form displays a budget check icon. A red X indicates that the budget check failed, a yellow triangle indicates that the budget check passed with warnings, and a green check mark indicates that the budget check passed. This column is blank if budget checking is not performed. Budget check results can be affected by settings for project budget control, over-budget permissions, and other budget control parameters and settings. For more information, see <a href="about-budget-control.md">About budget control</a>.</p></li>
-> <li><p>To display inventory dimensions on the line in the <strong>Purchase order lines</strong> grid, click <strong>Purchase order line</strong> &gt; <strong>Dimensions</strong>.</p></li>
-> <li><p>To validate a purchase order with a vendor before the purchase order is confirmed, on the <strong>Action Pane</strong>, under <strong>Purchase</strong>, in the <strong>Generate</strong> group, click <strong>Purchase inquiry</strong>.</p></li>
-> <li><p>To reference reserved budget, on the <strong>Line details</strong> FastTab, under <strong>General budget reservations</strong>, provide document and line numbers for a general budget reservation. You can click <strong>Advanced selection options</strong> to search for more reservations.</p>
+> [!Tip]  
+> <p>To create accounting distributions for a purchase order line, select the line. Then, on the <strong>Action Pane</strong>, on the <strong>Financials</strong> tab, click <strong>Distribute amounts</strong>. For more information, see <a href="create-accounting-distributions-for-purchase-orders.md">Create accounting distributions for purchase orders</a>.</p>
+> <p>To view subledger journal lines, select the line. Then, on the <strong>Action Pane</strong>, on the <strong>Financials</strong> tab, click <strong>Subledger journal</strong>. For more information, see <a href="view-subledger-journals-for-purchase-orders.md">View subledger journals for purchase orders</a>.</p>
+> <p>If you enable committed costs for purchase orders on the <strong>Cost control</strong> tab of the <strong>Project parameters</strong> form, and if you enable budget control for the project on the <strong>Setup</strong> tab of the <strong>Project details</strong> form, the purchase order is subject to budget control for the project. If workflow is implemented, the project budget is checked when each line is saved, but it is not reduced until the purchase order is approved.</p>
+> <p>If you turn on budget control, and you select <strong>Purchase orders</strong> and <strong>Enable budget control for line item on entry</strong> in the <strong>Select source documents</strong> area of the <strong>Budget control configuration</strong> form, the first column in the <strong>Purchase order lines</strong> grid in the <strong>Purchase order</strong> form displays a budget check icon. A red X indicates that the budget check failed, a yellow triangle indicates that the budget check passed with warnings, and a green check mark indicates that the budget check passed. This column is blank if budget checking is not performed. Budget check results can be affected by settings for project budget control, over-budget permissions, and other budget control parameters and settings. For more information, see <a href="about-budget-control.md">About budget control</a>.</p>
+> <p>To display inventory dimensions on the line in the <strong>Purchase order lines</strong> grid, click <strong>Purchase order line</strong> &gt; <strong>Dimensions</strong>.</p>
+> <p>To validate a purchase order with a vendor before the purchase order is confirmed, on the <strong>Action Pane</strong>, under <strong>Purchase</strong>, in the <strong>Generate</strong> group, click <strong>Purchase inquiry</strong>.</p>
+> <p>To reference reserved budget, on the <strong>Line details</strong> FastTab, under <strong>General budget reservations</strong>, provide document and line numbers for a general budget reservation. You can click <strong>Advanced selection options</strong> to search for more reservations.</p>
 
 > [!NOTE]  
 > <P>General budget reservations are available only if the <STRONG>Public Sector</STRONG> configuration key is selected and if Microsoft Dynamics AX 2012 R3 Cumulative Update 8 is installed with the following hotfix: KB3047235</P>
 
 <p>For a project purchase order, the budget reservation line must reference a project. For a non-project purchase order, the budget reservation line cannot reference a project. For more information, see <a href="use-project-accounting-with-general-budget-reservations-public-sector.md">Use project accounting with general budget reservations (Public sector)</a>.</p>
 <p>Purchase order lines that reference a general budget reservation cannot be edited. This restriction exists to prevent potential accounting errors if changes are made to the purchase order accounting distributions. However, you can add new lines to the purchase order as a way to make changes.</p>
-<p>When you specify a general budget reservation on a purchase order line, all project details and project distributions are copied. Because of the budget reservation reference, some of the project details are not editable. For more information, see <a href="create-a-general-budget-reservation-public-sector.md">Create a general budget reservation (Public sector)</a>.</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+<p>When you specify a general budget reservation on a purchase order line, all project details and project distributions are copied. Because of the budget reservation reference, some of the project details are not editable. For more information, see <a href="create-a-general-budget-reservation-public-sector.md">Create a general budget reservation (Public sector)</a>.</p>
 
 
 ## See also

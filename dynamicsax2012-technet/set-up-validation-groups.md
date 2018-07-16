@@ -39,6 +39,7 @@ Use validation in **Project management and accounting** for journal entry access
     
     If you are the borrowing legal entity, you can add workers that are loaned from different legal entities to your validation groups when you are setting up validation options that are used with intercompany timesheets.
     
+
     > [!NOTE]  
     > The <strong>Legal entity</strong> field is available on the <strong>Worker/category validation groups</strong> form and <strong>Worker/project validation groups</strong> form.
     

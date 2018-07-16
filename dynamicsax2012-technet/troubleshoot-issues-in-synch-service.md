@@ -38,14 +38,10 @@ When a communication issue occurs, an error is returned by Commerce Data Exchang
 <td><p>View status and error messages for Synch Service in the <strong>Commerce Data Exchange: Synch Service messages</strong> form. (Click <strong>Retail</strong> &gt; <strong>Inquiries</strong> &gt; <strong>Commerce Data Exchange: Synch Service messages</strong>.)</p>
 <p>To trace the history of a message, select the message, and then click <strong>View message tree</strong> to open the <strong>Commerce Data Exchange: Synch Service message tree</strong> form. In this form, you can see the origin and routing of the message.</p>
 <div class="alert">
-<div class="mtps-table">
-<div class="mtps-row">
-<img src="images/Dn527205.alert_note(AX.60).gif" title="Note" alt="Note" class="note" /><strong>Note</strong>
-</div>
-<div class="mtps-row">
-You must configure an upload profile before messages are available in Microsoft Dynamics AX. Create upload profiles by using the <strong>Commerce Data Exchange: Synch Service upload options</strong> form. (Click <strong>Retail</strong> &gt; <strong>Setup</strong> &gt; <strong>Retail scheduler</strong> &gt; <strong>Channel integration</strong> &gt; <strong>Commerce Data Exchange: Synch Service upload options</strong>.)
-</div>
-</div>
+
+> [!NOTE]  
+> You must configure an upload profile before messages are available in Microsoft Dynamics AX. Create upload profiles by using the <strong>Commerce Data Exchange: Synch Service upload options</strong> form. (Click <strong>Retail</strong> &gt; <strong>Setup</strong> &gt; <strong>Retail scheduler</strong> &gt; <strong>Channel integration</strong> &gt; <strong>Commerce Data Exchange: Synch Service upload options</strong>.)
+
 </div>
 <p>Messages are stored in the Microsoft Dynamics AX database. To free disk space, you can periodically delete stored messages.</p>
 <p>For more information about one of these forms, open the form, and then press F1.</p></td>

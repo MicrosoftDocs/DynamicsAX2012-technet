@@ -54,7 +54,7 @@ The following table describes the statuses that are assigned to a purchase requi
 <td><p><strong>Draft</strong></p></td>
 <td><p>The purchase requisition and purchase requisition line have been created, but have not been submitted for review. The purchase requisition and requisition line can be modified when they have a status of <strong>Draft</strong>.</p>
 <p>A purchase requisition or purchase requisition line can also have a status of <strong>Draft</strong> if it has been recalled and it has not been resubmitted for review.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>You can submit or recall a purchase requisition at the document level. However, you cannot submit or recall a single purchase requisition line.</P>
@@ -74,7 +74,7 @@ The following table describes the statuses that are assigned to a purchase requi
 <li><p><strong>Rejected</strong> – A purchase requisition line has been rejected. The purchase requisition line can be modified and resubmitted.</p>
 <p>If you resubmit a purchase requisition line that has been rejected, the review process starts over for all lines in the purchase requisition that are still in review.</p></li>
 </ul>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>You can recall a purchase requisition that has already been submitted. When you recall a purchase requisition, all purchase requisition lines are also recalled. Purchase requisition lines that have been recalled can be deleted.</P>
@@ -99,7 +99,7 @@ The following table describes the statuses that are assigned to a purchase requi
 <li><p><strong>Approved</strong> – The review process for a purchase requisition line has been completed and the line is approved.</p></li>
 <li><p><strong>Cancelled</strong> – The purchase requisition line was approved, but has been canceled because it is no longer needed. Only purchase requisition lines that have been approved can be canceled.</p></li>
 <li><p><strong>Closed</strong> – The purchase requisition line has been approved and if the requisition purpose is consumption, a purchase order has been generated for the purchase requisition line. If the requisition purpose is replenishment, one or more fulfillment documents have been generated.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>Changes to the requisition fulfillment process have been introduced in Microsoft Dynamics AX 2012 R2. See “New or changed for Microsoft Dynamics AX 2012 R2,” later in this topic.</P>
@@ -112,7 +112,7 @@ The following table describes the statuses that are assigned to a purchase requi
 <td><p><strong>Cancelled</strong></p></td>
 <td><p><strong>Cancelled</strong></p></td>
 <td><p>The purchase requisition and all purchase requisition lines have been canceled.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>If you no longer need an item that is on a purchase requisition line, you must cancel the purchase requisition line if it has been approved. Only purchase requisition lines that have been approved can be canceled. If any purchase requisition lines are in review, the purchase requisition will also have a status of <STRONG>In review</STRONG>. You can recall the purchase requisition, and delete the purchase requisition line.</P>
@@ -128,7 +128,7 @@ The following table describes the statuses that are assigned to a purchase requi
 <li><p><strong>Cancelled</strong></p></li>
 </ul></td>
 <td><p>The purchase requisition is closed, and one or more fulfillment documents have been generated.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>Changes to the requisition fulfillment process have been introduced in Microsoft Dynamics AX 2012 R2. See the section “New or changed for Microsoft Dynamics AX 2012 R2,” later in this topic.</P>
@@ -139,7 +139,7 @@ The following table describes the statuses that are assigned to a purchase requi
 <li><p><strong>Closed</strong> – The purchase requisition line has been approved and if the requisition purpose is consumption, a purchase order has been generated for the purchase requisition line. If the requisition purpose is replenishment, one or more fulfillment documents have been generated.</p></li>
 <li><p><strong>Cancelled</strong> – The purchase requisition line was approved, but has been canceled because it is no longer needed. Only purchase requisition lines that have been approved can be canceled.</p></li>
 </ul>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>If you no longer need an item on a purchase requisition line that has been closed, you must cancel the line on the fulfillment document that was generated for the purchase requisition line.</P>

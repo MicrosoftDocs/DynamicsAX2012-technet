@@ -58,7 +58,7 @@ The following table shows requirements that must be completed before Intrastat t
 <li><p>Click the <strong>Transfer</strong> and <strong>Check setup</strong> FastTabs, and then select other specific criteria for transferring transactions to Intrastat.</p></li>
 <li><p>Click <strong>Number sequences</strong>, and then specify number sequences for foreign trade documents.</p></li>
 </ol>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>The country/region that you are sending goods to or receiving goods from must be in the EU.</P>

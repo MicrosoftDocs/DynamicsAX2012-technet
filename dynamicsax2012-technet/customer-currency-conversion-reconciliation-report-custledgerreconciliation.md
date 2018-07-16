@@ -57,7 +57,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>(<strong>From</strong>)</p>
 <p><strong>Posting profile</strong></p></td>
 <td><p>Enter the start of the customer posting profile interval to run the report for.</p>
-<div class="alert">
+<div class="alert"> 
 
 > [!NOTE]
 > <P>Information on the report uses the information that is found in the summary account for the posting profile that is used for the customer. It does not use the summary account from the general journal that is created for the document.</P>

@@ -20,7 +20,7 @@ This topic explains how to create a retail channel database by using Setup or Wi
 You can also use the Retail Channel Configuration Utility to create a channel database. For more information, see [Create a channel database or an offline database (AX 2012 R3)](create-a-channel-database-or-an-offline-database-ax-2012-r3.md).
 
 
-> [!NOTE]
+> [!NOTE]  
 > <P>Channel databases are used only with Microsoft Dynamics AX 2012 R3. In earlier versions of Microsoft Dynamics AX, the store database provided the functionality now provided by the channel database.</P>
 
 
@@ -34,7 +34,7 @@ To deploy channel databases from a central location, use the Retail mass deploym
     For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
     
 
-    > [!NOTE]
+    > [!NOTE]  
     > <P>Regardless of the version of Microsoft SQL Server that you are installing on, the prerequisite validation utility requires that you install the SQL Server 2008 R2 version of SQL Server Shared Management Objects (SMO). From the location that is provided in the prerequisite details, install the package that is appropriate for your architecture (either x86 or x64).</P>
 
 
@@ -66,7 +66,7 @@ Use this procedure to install a retail channel database by using the Setup wizar
     If you’re configuring a channel database, enter the name of the server on which to create the database and the name of the database.
     
 
-    > [!NOTE]
+    > [!NOTE]  
     > <P>If you’re using a named instance of SQL Server, enter the server name in the format <EM>ServerName</EM>\<EM>InstanceName</EM>.</P>
 
 
@@ -135,16 +135,11 @@ After you extract the installation files by using Setup, you must configure sett
     <tr class="even">
     <td><p><strong>ChannelDatabaseServerNamedInstanceName</strong></p></td>
     <td><p>The name of the SQL Server instance that hosts the channel database.</p>
-    <div class="alert">
-    <div class="mtps-table">
-    <div class="mtps-row">
-    <img src="images/Dn527205.alert_note(AX.60).gif" title="Note" alt="Note" class="note" /><strong>Note</strong>
-    </div>
-    <div class="mtps-row">
-    The format for a SQL Server instance name is either the server name or the full instance name. For example, valid names are <strong>localhost</strong>, <strong>localhost\instance2</strong>, <strong>server1</strong>, and <strong>server1\instance2</strong>.
-    </div>
-    </div>
-    </div></td>
+    	
+	> [!Note]  
+	> The format for a SQL Server instance name is either the server name or the full instance name. For example, valid names are <strong>localhost</strong>, <strong>localhost\instance2</strong>, <strong>server1</strong>, and <strong>server1\instance2</strong>.
+    
+    </td>
     <td><p>None</p></td>
     </tr>
     <tr class="odd">
@@ -163,7 +158,7 @@ After you extract the installation files by using Setup, you must configure sett
 After you configure the parameters in the channeldb-settings.xml file, you can run the Windows PowerShell scripts that configure a channel database.
 
 
-> [!NOTE]
+> [!NOTE]  
 > <P>Windows PowerShell includes a security setting called the execution policy that determines how scripts are run. By default, the execution policy is set to <STRONG>Restricted</STRONG>, which prevents any scripts from running. To run the installation scripts for Microsoft Dynamics AX components, we recommend that you set the execution policy to <STRONG>RemoteSigned</STRONG> by using Set-ExecutionPolicy cmdlet. This setting allows you to run scripts that you’ve written and scripts that have been signed by a trusted publisher.</P>
 
 
