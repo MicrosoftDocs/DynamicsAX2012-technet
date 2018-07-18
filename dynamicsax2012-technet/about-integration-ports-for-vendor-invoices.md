@@ -1,4 +1,4 @@
-﻿---
+---
 title: About integration ports for vendor invoices
 TOCTitle: About integration ports for vendor invoices
 ms:assetid: 45e4f53a-ccf3-4ddc-b739-66a53a7ab4e4
@@ -10,6 +10,8 @@ f1_keywords:
 - vendor invoice
 - OASIS
 - UBL
+audience: Application User
+ms.search.region: Global
 ---
 
 # About integration ports for vendor invoices 
@@ -24,5 +26,5 @@ In Microsoft Dynamics AX, you can view the invoices in the **Vendor invoice** fo
 An enhanced integration port is required for this feature. For information about how to configure the enhanced integration port, see [Managing integration ports](managing-integration-ports.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

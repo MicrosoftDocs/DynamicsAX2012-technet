@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Accounts receivable
 TOCTitle: Setting up and maintaining Accounts receivable
 ms:assetid: 8cdb6789-ddc9-444b-bd80-0d15c7d8118f
@@ -14,6 +14,8 @@ f1_keywords:
 - AR
 - receivable
 - receivables
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Accounts receivable 
@@ -368,5 +370,5 @@ The following table lists the forms that support setting up and maintaining Acco
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

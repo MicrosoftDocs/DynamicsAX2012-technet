@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reconcile bank accounts overview
 TOCTitle: Reconcile bank accounts overview
 ms:assetid: 0bf055c7-285c-404d-be78-3c8f293d13e6
@@ -12,6 +12,8 @@ f1_keywords:
 - reconciliation
 - bank accounts
 - bank reconciliation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reconcile bank accounts overview 
@@ -56,5 +58,5 @@ The following table lists the form that supports the Reconcile bank accounts bus
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

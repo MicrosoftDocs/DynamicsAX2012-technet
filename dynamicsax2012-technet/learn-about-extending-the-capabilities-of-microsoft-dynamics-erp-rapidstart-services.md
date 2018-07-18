@@ -1,4 +1,4 @@
-﻿---
+---
 title: Learn about extending the capabilities of Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Learn about extending the capabilities of Microsoft Dynamics ERP RapidStart Services
 ms:assetid: 99a69e27-abcb-46b8-a556-6501c5be474c
@@ -53,5 +53,5 @@ The topics in this section provide information to help you prepare to use the **
 [Design custom content for Microsoft Dynamics ERP RapidStart Services](design-custom-content-for-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

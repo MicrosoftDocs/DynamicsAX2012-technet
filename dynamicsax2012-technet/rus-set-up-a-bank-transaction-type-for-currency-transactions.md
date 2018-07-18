@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a bank transaction type for currency transactions
 TOCTitle: (RUS) Set up a bank transaction type for currency transactions
 ms:assetid: 86bff35b-b068-495c-bd43-86fcb72d6829
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856172(v=AX.60)
 ms:contentKeyID: 50407011
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a bank transaction type for currency transactions 
@@ -44,5 +46,5 @@ Use the **Bank transaction types** form to set up a bank transaction type for cu
 [(RUS) Set up a method of payment for currency transactions](rus-set-up-a-method-of-payment-for-currency-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

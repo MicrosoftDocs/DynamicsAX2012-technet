@@ -1,4 +1,4 @@
-﻿---
+---
 title: Recall a document (Enterprise Portal)
 TOCTitle: Recall a document
 ms:assetid: ea3ab400-25e5-40d9-8c66-ea706aaa356b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271684(v=AX.60)
 ms:contentKeyID: 36384317
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Recall a document (Enterprise Portal) 
@@ -46,5 +48,5 @@ The **Workflow history** page displays the status of documents that have been su
 [View the status and history of a document (Enterprise Portal)](view-the-status-and-history-of-a-document-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

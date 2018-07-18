@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Reconcile and post an unposted transaction to a bank account
 TOCTitle: (RUS) Reconcile and post an unposted transaction to a bank account
 ms:assetid: c51472eb-ab77-4f61-bc26-3e1d50ba508b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711585(v=AX.60)
 ms:contentKeyID: 49387909
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Reconcile and post an unposted transaction to a bank account 
@@ -102,5 +104,5 @@ After reconciliation, the date of the payment document and the date of the trans
 [(RUS) Bank account reconciliation (modified form)](https://technet.microsoft.com/en-us/library/jj711451\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

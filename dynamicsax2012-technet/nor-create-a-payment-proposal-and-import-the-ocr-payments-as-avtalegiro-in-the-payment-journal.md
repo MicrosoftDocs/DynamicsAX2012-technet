@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Create a payment proposal and import the OCR payments as Avtalegiro in the payment journal
 TOCTitle: (NOR) Create a payment proposal and import the OCR payments as Avtalegiro in the payment journal
 ms:assetid: 79dd6f82-2f68-489c-8959-b63b1ccfc46c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213019(v=AX.60)
 ms:contentKeyID: 36058243
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Create a payment proposal and import the OCR payments as Avtalegiro in the payment journal 
@@ -104,5 +106,5 @@ In the **Payment mode change** form, in the **Warning** field, select **Yes** to
 [(NOR) Bank account trap (form)](https://technet.microsoft.com/en-us/library/hh227378\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

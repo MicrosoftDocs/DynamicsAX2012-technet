@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Search architecture
 TOCTitle: Enterprise Search architecture
 ms:assetid: 1bc490b8-fa42-4910-b3b7-6728e05d1dc0
@@ -72,5 +72,5 @@ The following diagram provides a high-level overview of the Microsoft Dynamics A
 [Checklist: Deploy Microsoft Dynamics AX Enterprise Search](checklist-deploy-microsoft-dynamics-ax-enterprise-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

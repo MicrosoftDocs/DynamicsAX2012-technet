@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Advertise promotions online with Sites Services
 TOCTitle: (USA) Advertise promotions online with Sites Services
 ms:assetid: 823703e2-1d0e-42b1-a399-3b4a1f8d7028
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh696877(v=AX.60)
 ms:contentKeyID: 42517329
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Advertise promotions online with Sites Services 
@@ -105,5 +107,5 @@ For more information about campaigns, see [Conduct campaign overview](conduct-ca
 [(USA) Set up and maintain a Sites Services account](usa-set-up-and-maintain-a-sites-services-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

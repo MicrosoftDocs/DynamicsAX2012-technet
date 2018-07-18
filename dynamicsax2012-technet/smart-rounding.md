@@ -1,4 +1,4 @@
-﻿---
+---
 title: " smart rounding"
 TOCTitle: " smart rounding"
 ms:assetid: DynamicsAXGlossary.1475068
@@ -21,5 +21,5 @@ A marketing practice to use odd numbers that are marginally less than their near
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

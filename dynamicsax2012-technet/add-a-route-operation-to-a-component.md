@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add a route operation to a component
 TOCTitle: Add a route operation to a component
 ms:assetid: 314f278a-ca65-4c0b-8008-16e5ff1e3bc4
@@ -11,6 +11,8 @@ f1_keywords:
 - product configurator
 - route
 - add route
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add a route operation to a component 
@@ -39,5 +41,5 @@ The following procedure describes how to add a route operation to a component in
 [Create components](create-components.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

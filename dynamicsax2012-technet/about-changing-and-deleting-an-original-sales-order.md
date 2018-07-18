@@ -1,4 +1,4 @@
-﻿---
+---
 title: About changing and deleting an original sales order
 TOCTitle: About changing and deleting an original sales order
 ms:assetid: 1075b24d-db09-44ff-9806-fa305beed853
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496562(v=AX.60)
 ms:contentKeyID: 36056027
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About changing and deleting an original sales order 
@@ -56,5 +58,5 @@ The note is copied to the intercompany purchase order and the intercompany sales
 If you change or delete a note, the corresponding note on the intercompany purchase order and the intercompany sales order is changed or deleted accordingly.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

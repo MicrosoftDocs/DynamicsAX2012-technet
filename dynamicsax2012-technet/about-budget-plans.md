@@ -1,4 +1,4 @@
-﻿---
+---
 title: About budget plans
 TOCTitle: About budget plans
 ms:assetid: 1582e791-e5ab-4369-b016-4fd723946b36
@@ -18,6 +18,8 @@ f1_keywords:
 - Generating budget plans
 - Forecast positions and budget plans
 - Worksheets and justifications
+audience: Application User
+ms.search.region: Global
 ---
 
 # About budget plans 
@@ -128,5 +130,5 @@ For more information, see [Generate budget plans from source information](genera
 [Budget plan (form)](https://technet.microsoft.com/en-us/library/jj677376\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import AOD files into the baseline model store
 TOCTitle: Import AOD files into the baseline model store
 ms:assetid: 4ce6aaff-a58a-42a1-b13e-f69acd0d17f9
@@ -105,5 +105,5 @@ For developer documentation about code upgrade in Microsoft Dynamics AX 2012, se
 [Import AOD files into the new model store](import-aod-files-into-the-new-model-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

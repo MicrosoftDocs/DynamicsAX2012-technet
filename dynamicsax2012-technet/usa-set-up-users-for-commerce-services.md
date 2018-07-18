@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Set up users for Commerce Services
 TOCTitle: (USA) Set up users for Commerce Services
 ms:assetid: 485c3736-6783-401a-a78d-726ce8f7e9a2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242400(v=AX.60)
 ms:contentKeyID: 36056924
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Set up users for Commerce Services 
@@ -105,5 +107,5 @@ When you sign up for a new service, you are automatically added to the organizat
 [(USA) Activate or deactivate a solution](usa-activate-or-deactivate-a-solution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

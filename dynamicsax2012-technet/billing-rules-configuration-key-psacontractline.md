@@ -1,4 +1,4 @@
-﻿---
+---
 title: Billing rules configuration key (PSAContractLine)
 TOCTitle: Billing rules configuration key (PSAContractLine)
 ms:assetid: 2c055d74-4ffd-4627-9fbe-0d29c7e82a55
@@ -82,5 +82,5 @@ For more information about how license codes and configuration keys work togethe
 [Create billing rules](create-billing-rules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

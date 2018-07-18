@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up tax ledger posting groups
 TOCTitle: (IND) Set up tax ledger posting groups
 ms:assetid: 493b22e1-45ff-4013-a5d1-fe6eaddb158a
@@ -12,6 +12,8 @@ f1_keywords:
 - india
 - posting group
 - tax ledger posting group
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up tax ledger posting groups 
@@ -58,5 +60,5 @@ To track indirect taxes by incentive scheme, create a tax ledger posting group f
 [(IND) Create tax ledger posting groups and attach an STC number](ind-create-tax-ledger-posting-groups-and-attach-an-stc-number.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

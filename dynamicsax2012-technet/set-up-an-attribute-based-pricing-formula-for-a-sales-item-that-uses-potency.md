@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up an attribute-based pricing formula for a sales item that uses potency
 TOCTitle: Set up an attribute-based pricing formula for a sales item that uses potency
 ms:assetid: ee19405e-c09e-4e24-9f90-3a33f941f20d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527700(v=AX.60)
 ms:contentKeyID: 59626233
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up an attribute-based pricing formula for a sales item that uses potency 
@@ -58,5 +60,5 @@ To create a formula for attribute-based price calculations, follow these steps:
 [Create price calculations for sales order items that have a potency](create-price-calculations-for-sales-order-items-that-have-a-potency.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

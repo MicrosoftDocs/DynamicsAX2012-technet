@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Transfer electronic reporting template settings to the Financial reports generator
 TOCTitle: (RUS) Transfer electronic reporting template settings to the Financial reports generator
 ms:assetid: eb3d1c15-8a47-4e76-8c71-0f352260cded
@@ -10,6 +10,8 @@ f1_keywords:
 - FRG
 - electronic report
 - transfer template
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Transfer electronic reporting template settings to the Financial reports generator 
@@ -54,5 +56,5 @@ Use the following procedure to transfer the settings for the electronic report t
 [(RUS) Report (form)](https://technet.microsoft.com/en-us/library/jj853247\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

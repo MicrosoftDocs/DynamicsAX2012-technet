@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Excise registers inquiries
 TOCTitle: (IND) Excise registers inquiries
 ms:assetid: d643860f-4732-4a6f-89ce-39607cb9f9ce
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664951(v=AX.60)
 ms:contentKeyID: 49386280
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Excise registers inquiries 
@@ -28,5 +30,5 @@ The topics in this section provide information about Excise registers inquiries.
 [(IND) Inquiries for RG23 registers](ind-inquiries-for-rg23-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

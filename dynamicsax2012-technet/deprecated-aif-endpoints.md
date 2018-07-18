@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: AIF endpoints'
 TOCTitle: AIF endpoints
 ms:assetid: f403ed0e-af81-47be-a2e6-97f18a06ac8b
@@ -60,5 +60,5 @@ In Microsoft Dynamics AX 2009 and earlier releases, the concept of Microsoft Dyn
 [What's new: Services and Application Integration Framework](what-s-new-services-and-application-integration-framework.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

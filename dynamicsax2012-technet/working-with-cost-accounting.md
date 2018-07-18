@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with cost accounting
 TOCTitle: Working with cost accounting
 ms:assetid: bdf0210a-dd21-4559-8e52-5d0d943a32ed
@@ -13,6 +13,8 @@ f1_keywords:
 - costing
 - cost accounting
 - cost management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with cost accounting 
@@ -37,5 +39,5 @@ This section provides overviews of the main business process components in Cost 
 [Setting up and maintaining cost accounting](setting-up-and-maintaining-cost-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

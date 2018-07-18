@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up customer posting profiles for dimensions control for settlements
 TOCTitle: (RUS) Set up customer posting profiles for dimensions control for settlements
 ms:assetid: eb446466-ca2b-49ce-abca-b7d2ba4e0385
@@ -11,6 +11,8 @@ f1_keywords:
 - customer posting profiles
 - (RUS)
 - dimensions control for settlements
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up customer posting profiles for dimensions control for settlements 
@@ -59,5 +61,5 @@ Use this procedure to set up customer posting profiles for dimension control for
 [(RUS) Customer posting profiles (modified form)](https://technet.microsoft.com/en-us/library/jj678641\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

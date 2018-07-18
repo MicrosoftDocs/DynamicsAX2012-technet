@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: LedgerTrans table'
 TOCTitle: LedgerTrans table
 ms:assetid: 3c486a69-11b7-477e-80e2-1efee05dd55c
@@ -62,5 +62,5 @@ In Microsoft Dynamics AX 2009, the LedgerTrans table holds the posted general le
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

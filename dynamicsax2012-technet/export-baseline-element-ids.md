@@ -1,4 +1,4 @@
-﻿---
+---
 title: Export baseline element IDs
 TOCTitle: Export baseline element IDs
 ms:assetid: 58661815-619c-43a1-9c22-6fc0332b8a04
@@ -18,5 +18,5 @@ The **Export baseline element IDs** task generates a CSV file containing element
 The generated CSV file is automatically saved to C:\\Users\\\<username\>\\AppData\\Local\\Temp\\18\\SysUpgradeExportIdMap.csv. In the next task, **Preserve legacy element IDs**, you will use axutil to apply the element IDs in this file to the databases being upgraded.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

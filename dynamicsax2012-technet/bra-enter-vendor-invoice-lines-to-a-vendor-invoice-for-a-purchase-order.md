@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Enter vendor invoice lines to a vendor invoice for a purchase order
 TOCTitle: (BRA) Enter vendor invoice lines to a vendor invoice for a purchase order
 ms:assetid: 329a9814-ff09-4205-8521-523bfefeb0a6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910977(v=AX.60)
 ms:contentKeyID: 52075244
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Enter vendor invoice lines to a vendor invoice for a purchase order 
@@ -56,5 +58,5 @@ Use this procedure to add invoice lines to a vendor invoice that is associated w
 [(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

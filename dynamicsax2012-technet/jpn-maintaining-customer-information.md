@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Maintaining customer information
 TOCTitle: (JPN) Maintaining customer information
 ms:assetid: 3ae762af-571e-452f-b1e5-90c6a228cc25
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711034(v=AX.60)
 ms:contentKeyID: 49386444
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Maintaining customer information 
@@ -18,5 +20,5 @@ The following topics provide information about how to maintain customer informat
 [(JPN) Set up a consolidated invoice for a customer](jpn-set-up-a-consolidated-invoice-for-a-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

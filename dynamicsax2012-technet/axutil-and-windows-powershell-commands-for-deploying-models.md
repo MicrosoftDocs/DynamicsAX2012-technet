@@ -1,4 +1,4 @@
-﻿---
+---
 title: AxUtil and Windows PowerShell Commands for Deploying Models
 TOCTitle: AxUtil and Windows PowerShell Commands for Deploying Models
 ms:assetid: 403c0715-227d-421e-91b7-ab8c353cf02c
@@ -200,5 +200,5 @@ To view the Help for AXUtil, enter the command AXUtil /?.
 [Windows PowerShell for Microsoft Dynamics AX](windows-powershell-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

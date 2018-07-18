@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up containerization
 TOCTitle: Set up containerization
 ms:assetid: a8ece442-4456-45f1-972a-2e091f0c9240
@@ -20,6 +20,8 @@ f1_keywords:
 - container build template
 - container group
 - container type
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up containerization 
@@ -198,5 +200,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

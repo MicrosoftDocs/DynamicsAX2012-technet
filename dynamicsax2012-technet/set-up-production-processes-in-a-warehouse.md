@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up production processes in a warehouse
 TOCTitle: Set up production processes in a warehouse
 ms:assetid: b23d32c3-125c-4eab-b034-98f5359c9c0b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn745529(v=AX.60)
 ms:contentKeyID: 62336120
 ms.date: 06/08/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up production processes in a warehouse 
@@ -426,5 +428,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

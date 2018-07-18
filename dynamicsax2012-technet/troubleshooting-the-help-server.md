@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshooting the Help server
 TOCTitle: Troubleshooting the Help server
 ms:assetid: 101d572f-df9f-4bce-b3d0-aecc5d222fb3
@@ -100,5 +100,5 @@ Follow these steps to remove a user profile.
 The next time that the user logs on to Windows, the security prompt should occur one time and then never again.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

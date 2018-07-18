@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) View and manually change the status of the invoice document author for a purchase order
 TOCTitle: (LTU) View and manually change the status of the invoice document author for a purchase order
 ms:assetid: 9d0bb8d1-7f85-44c6-9480-bfe06ab0f614
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665147(v=AX.60)
 ms:contentKeyID: 49386728
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) View and manually change the status of the invoice document author for a purchase order 
@@ -44,5 +46,5 @@ A posted purchase invoice has an author, which is the company. When items are re
 [(LTU) Purchase invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj665048\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

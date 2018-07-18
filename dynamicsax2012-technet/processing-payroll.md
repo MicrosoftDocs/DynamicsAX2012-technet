@@ -1,4 +1,4 @@
-﻿---
+---
 title: Processing payroll
 TOCTitle: Processing payroll
 ms:assetid: d372d8bf-a2ec-41d1-9ed6-3731b84dea9a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - payroll
 - payroll processing
+audience: Application User
+ms.search.region: USA
 ---
 
 # Processing payroll 
@@ -73,5 +75,5 @@ After you post payroll, you will generate vendor invoices for the payables that 
 For more information, see [Post payroll and generate vendor invoices](post-payroll-and-generate-vendor-invoices.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up fund types (Public sector)
 TOCTitle: Set up fund types (Public sector)
 ms:assetid: 9537eac9-dd28-4f51-9f47-457b382280cf
@@ -11,6 +11,8 @@ f1_keywords:
 - fund type
 - GAAP
 - GASB
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Set up fund types (Public sector) 
@@ -45,5 +47,5 @@ The Governmental Accounting Standards Board (GASB) recommends a set of Generally
 [Fund types (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208583\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

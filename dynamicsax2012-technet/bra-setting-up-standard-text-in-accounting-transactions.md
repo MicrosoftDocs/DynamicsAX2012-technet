@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Setting up standard text in accounting transactions
 TOCTitle: (BRA) Setting up standard text in accounting transactions
 ms:assetid: 949b0824-4f46-4b11-b280-d325cff4e7a9
@@ -12,6 +12,8 @@ f1_keywords:
 - accounting transactions
 - set up standard text
 - standard text
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Setting up standard text in accounting transactions 
@@ -46,5 +48,5 @@ In vendor invoice transactions, the %7 variable is replaced with the vendor name
 [(BRA) Set up a default description for a consolidated legal entity](bra-set-up-a-default-description-for-a-consolidated-legal-entity.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

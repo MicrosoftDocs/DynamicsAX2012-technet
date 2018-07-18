@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change management and TFS integration for multi-developer projects  (white paper)
 TOCTitle: Change management and TFS integration for multi-developer projects
 ms:assetid: 330f46df-8fbd-40df-b466-5f93796e3bcb
@@ -23,5 +23,5 @@ Download the paper from InformationSource: [Change management and TFS integratio
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

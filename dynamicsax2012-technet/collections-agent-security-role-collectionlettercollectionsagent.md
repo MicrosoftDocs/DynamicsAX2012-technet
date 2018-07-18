@@ -1,4 +1,4 @@
-﻿---
+---
 title: Collections agent security role (CollectionLetterCollectionsAgent)
 TOCTitle: Collections agent security role (CollectionLetterCollectionsAgent)
 ms:assetid: 85efe94b-ac6b-489c-b4d7-1cad37d567f0
@@ -104,5 +104,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

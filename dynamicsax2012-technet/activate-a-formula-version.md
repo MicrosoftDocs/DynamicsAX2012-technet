@@ -1,4 +1,4 @@
-﻿---
+---
 title: Activate a formula version
 TOCTitle: Activate a formula version
 ms:assetid: 79d67504-b62e-4d3c-be5e-f6860ae0d4a9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352213(v=AX.60)
 ms:contentKeyID: 36687848
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Activate a formula version 
@@ -34,5 +36,5 @@ Use this procedure to activate a formula version.
 [Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (JPN) T-account'
 TOCTitle: (JPN) T-account
 ms:assetid: 6de014fb-4ac9-4697-97dd-9bb97e6742c1
@@ -54,5 +54,5 @@ For Japanese installations, Microsoft Dynamics AX 2009 includes a country-specif
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

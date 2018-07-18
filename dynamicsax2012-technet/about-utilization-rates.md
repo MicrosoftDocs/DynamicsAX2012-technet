@@ -1,4 +1,4 @@
-﻿---
+---
 title: About utilization rates
 TOCTitle: About utilization rates
 ms:assetid: 03398403-c17d-4c73-9be9-d768cec71c4e
@@ -10,6 +10,8 @@ f1_keywords:
 - billable rate
 - efficiency rate
 - utilization rate
+audience: Application User
+ms.search.region: Global
 ---
 
 # About utilization rates 
@@ -58,5 +60,5 @@ When you calculate the utilization rate for a worker, you can use norm hours or 
 [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

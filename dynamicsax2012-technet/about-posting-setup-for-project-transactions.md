@@ -1,4 +1,4 @@
-﻿---
+---
 title: About posting setup for project transactions
 TOCTitle: About posting setup for project transactions
 ms:assetid: 7820b0f9-9d28-4cb5-8ec4-aef7edc0956b
@@ -11,6 +11,8 @@ f1_keywords:
 - posting setup
 - project category
 - set up posting
+audience: Application User
+ms.search.region: Global
 ---
 
 # About posting setup for project transactions 
@@ -791,5 +793,5 @@ The following table outlines posting setup by project group or by category and i
 [Posting (form)](https://technet.microsoft.com/en-us/library/aa551718\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

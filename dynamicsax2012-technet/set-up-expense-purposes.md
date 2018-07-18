@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up expense purposes
 TOCTitle: Set up expense purposes
 ms:assetid: d4e925c6-beb7-4fee-9222-8bcfda1227ba
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213696(v=AX.60)
 ms:contentKeyID: 36059523
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up expense purposes 
@@ -24,5 +26,5 @@ You can set up expense purposes for workers to use when they create an expense r
 4.  Close the form to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounting manager operational efficiency report (AccountingManagerOperationalEfficiency)
 TOCTitle: Accounting manager operational efficiency report (AccountingManagerOperationalEfficiency)
 ms:assetid: d72fdd14-5b0d-4ffb-9df1-8cbcc5e632c4
@@ -78,5 +78,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

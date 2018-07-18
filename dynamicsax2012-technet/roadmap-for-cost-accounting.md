@@ -1,4 +1,4 @@
-﻿---
+---
 title: Roadmap for Cost Accounting
 TOCTitle: Roadmap for Cost Accounting
 ms:assetid: d6be4d60-f2a7-4050-b750-cb7eba75a04d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn781408(v=AX.60)
 ms:contentKeyID: 62807373
 ms.date: 08/20/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Roadmap for Cost Accounting 
@@ -30,7 +32,7 @@ Cost accounting is used to measure and report financial information that is rela
 <p>Maintain</p>
 <p>Perform</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
-<p>Use <a href="http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=costing%26sorh=14%26savn=hide%26orgi=wsc1%26bngi=t%26dxta=28">WebSearchAX</a> to search community content for “costing”. Also, search blogs and white papers for “costing”.</p>
+
 <p><a href="cost-accounting.md">Microsoft Dynamics AX 2012 R3 Cost Accounting Help</a> (article)</p>
 <p><a href="http://blogs.msdn.com/b/dynamicsaxscm/archive/2014/05/23/new-costing-features-in-dynamics-ax-2012-r3.aspx">Microsoft Dynamics AX 2012 R3 Supply Chain</a> (blog)</p>
 <p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=1041">Microsoft Dynamics AX 2009 White Paper: Cost Management</a> (white paper)</p>
@@ -357,5 +359,5 @@ Back to top
 Back to top
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

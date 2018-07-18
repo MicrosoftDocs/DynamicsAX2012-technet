@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up foreign trade
 TOCTitle: (POL) Set up foreign trade
 ms:assetid: 7dfc955e-a69e-4ff9-9f3a-3a68bf28474c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678254(v=AX.60)
 ms:contentKeyID: 49386976
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up foreign trade 
@@ -36,5 +38,5 @@ An Intrastat declaration is a compulsory declaration of movements of goods to or
 6.  Click **Organization administration** \> **Setup** \> **Foreign trade** \> **Statistics procedure**. In the **Statistics procedure** form, define the statistical procedures for Intrastat reporting. For more information, see [Statistics procedure (form)](https://technet.microsoft.com/en-us/library/aa550241\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

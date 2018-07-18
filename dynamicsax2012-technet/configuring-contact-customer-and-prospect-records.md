@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring contact, customer, and prospect records
 TOCTitle: Configuring contacts, customers, and business relations
 ms:assetid: 1a45b692-a1f3-47a8-91cb-cb52691cbe97
@@ -13,6 +13,8 @@ f1_keywords:
 - contacts
 - business relation
 - business relations
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring contact, customer, and prospect records 
@@ -35,5 +37,5 @@ The topics in this section provide information about how to configure file forma
 [(FRA) Set up NAF codes and siret numbers](fra-set-up-naf-codes-and-siret-numbers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

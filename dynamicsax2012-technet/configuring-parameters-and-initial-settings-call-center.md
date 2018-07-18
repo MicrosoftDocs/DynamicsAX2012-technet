@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring parameters and initial settings (Call center)
 TOCTitle: Configuring parameters and initial settings (Call center)
 ms:assetid: 480ea5dc-6662-499b-99c3-56bca66a6121
@@ -12,6 +12,8 @@ f1_keywords:
 - MsDynAx060.Forms.MCROrderParameters
 - Forms.MCRRefundMethodsTable
 - call center parameters
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring parameters and initial settings (Call center) 
@@ -253,5 +255,5 @@ You must set up number sequences that are used when numbered records are created
 [Working with Call center](working-with-call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

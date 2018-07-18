@@ -1,4 +1,4 @@
-﻿---
+---
 title: " dock management"
 TOCTitle: " dock management"
 ms:assetid: DynamicsAXGlossary.2014322
@@ -19,5 +19,5 @@ A warehouse process where you can control inventory items for multiple orders, s
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

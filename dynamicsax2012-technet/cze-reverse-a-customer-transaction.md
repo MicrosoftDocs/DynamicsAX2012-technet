@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Reverse a customer transaction
 TOCTitle: (CZE) Reverse a customer transaction
 ms:assetid: 37beda58-750c-43e2-9ca2-f625f45a9468
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677503(v=AX.60)
 ms:contentKeyID: 49384808
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Reverse a customer transaction 
@@ -58,5 +60,5 @@ Customer transactions that are reversed can be posted as correction transactions
 12. Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

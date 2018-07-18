@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Print journal report (LedgerTransPreview_RU)
 TOCTitle: (RUS) Print journal report (LedgerTransPreview_RU)
 ms:assetid: 694430fc-367f-4313-baaa-d33594eebb60
@@ -134,5 +134,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(RUS) Journal header (modified form)](https://technet.microsoft.com/en-us/library/jj911370\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shipping clerk security role (InventShippingClerk)
 TOCTitle: Shipping clerk security role (InventShippingClerk)
 ms:assetid: 9d6e722d-1da1-48b5-80c4-3857738a71ed
@@ -205,5 +205,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Record-level security'
 TOCTitle: Record-level security
 ms:assetid: a4f7a216-8650-46ab-a611-b77555c33b5d
@@ -54,5 +54,5 @@ Record-level security (RLS) builds on the restrictions that are enforced by user
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

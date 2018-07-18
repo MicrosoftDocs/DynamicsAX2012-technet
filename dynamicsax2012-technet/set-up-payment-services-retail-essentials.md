@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up payment services (Retail essentials)
 TOCTitle: Set up payment services (Retail essentials)
 ms:assetid: 29da1ae7-fb72-4dc9-894a-2ebb0b271fcb
@@ -168,5 +168,5 @@ After your merchant account is set up with the payment provider, the payment pro
 [Setting up payment methods (Retail essentials)](setting-up-payment-methods-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

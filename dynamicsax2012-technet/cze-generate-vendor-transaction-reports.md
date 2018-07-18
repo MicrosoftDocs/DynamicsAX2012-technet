@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Generate vendor transaction reports
 TOCTitle: (CZE) Generate vendor transaction reports
 ms:assetid: fbf3f9db-2ad6-4a57-b5f7-9330f189b2fb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710661(v=AX.60)
 ms:contentKeyID: 49385059
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Generate vendor transaction reports 
@@ -32,5 +34,5 @@ You can view the summary account that is set up for the vendor posting profile a
 5.  Click **OK** to print the report.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

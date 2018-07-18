@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Working with commitments (Public sector)
 TOCTitle: (FRA) Working with commitments (Public sector)
 ms:assetid: f485def0-209b-4c61-a529-39f961298876
@@ -11,6 +11,8 @@ f1_keywords:
 - commitment
 - France
 - French
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Working with commitments (Public sector) 
@@ -40,5 +42,5 @@ The topics in this section provide information about working with commitments fo
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

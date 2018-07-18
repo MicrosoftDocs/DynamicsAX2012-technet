@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Generate the payment due date compliance report
 TOCTitle: (ESP) Generate the payment due date compliance report
 ms:assetid: 082e55c1-10ce-4424-93f2-e47cf25af43d
@@ -12,6 +12,8 @@ f1_keywords:
 - ES - 00004
 - payment due date compliance
 - payments due date compliance
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Generate the payment due date compliance report 
@@ -46,5 +48,5 @@ Use the **Spanish payments due date compliance report** form to generate the Pay
 [(ESP) Spanish payment due date compliance report (DueDateCompliance\_ES)](esp-spanish-payment-due-date-compliance-report-duedatecompliance-es.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

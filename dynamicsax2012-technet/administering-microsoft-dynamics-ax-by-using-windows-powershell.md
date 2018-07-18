@@ -1,4 +1,4 @@
-﻿---
+---
 title: Administering Microsoft Dynamics AX by using Windows PowerShell
 TOCTitle: Administering Microsoft Dynamics AX by using Windows PowerShell
 ms:assetid: 96e9ae2f-447a-426e-b77f-95636ddb9f15
@@ -174,5 +174,5 @@ When you use these resources, you may find it useful to learn the following conc
 [AxUtil and Windows PowerShell Commands for Deploying Models](axutil-and-windows-powershell-commands-for-deploying-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

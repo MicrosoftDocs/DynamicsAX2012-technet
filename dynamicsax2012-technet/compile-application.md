@@ -1,4 +1,4 @@
-﻿---
+---
 title: Compile application
 TOCTitle: Compile application
 ms:assetid: 0e8bcd9c-b497-4fce-8ec5-1ea3253aca9b
@@ -57,5 +57,5 @@ Because there are several ways to compile, you should choose the most efficient 
     For more information, see [AxBuild.exe for Parallel Compile on AOS of X++ to p-code](https://technet.microsoft.com/en-us/library/dn528954\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

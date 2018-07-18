@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customize master pages
 TOCTitle: Customize master pages
 ms:assetid: 89b478b3-b920-4eb8-8100-5cc10168e03d
@@ -78,5 +78,5 @@ This topic shows you how to customize a master page by updating the Welcome page
 [How to: Apply a master page to a site in SharePoint Server 2013](http://msdn.microsoft.com/en-us/library/jj862339.aspx)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

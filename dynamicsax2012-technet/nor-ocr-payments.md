@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) OCR payments
 TOCTitle: (NOR) OCR payments
 ms:assetid: c85badb5-8497-4723-8911-86017040f421
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213649(v=AX.60)
 ms:contentKeyID: 36059318
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) OCR payments 
@@ -90,5 +92,5 @@ You must define the bank accounts for the company to use electronic payment tran
 [(NOR) Create a payment proposal and import the OCR payments as Avtalegiro in the payment journal](nor-create-a-payment-proposal-and-import-the-ocr-payments-as-avtalegiro-in-the-payment-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

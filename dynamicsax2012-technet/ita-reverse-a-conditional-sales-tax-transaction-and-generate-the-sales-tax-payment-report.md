@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Reverse a conditional sales tax transaction and generate the sales tax payment report
 TOCTitle: (ITA) Reverse a conditional sales tax transaction and generate the sales tax payment report
 ms:assetid: 8a982476-3c0c-4a11-bc52-83c140459514
@@ -11,6 +11,8 @@ f1_keywords:
 - Italy
 - conditional sales tax
 - sales tax payment report
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Reverse a conditional sales tax transaction and generate the sales tax payment report 
@@ -125,5 +127,5 @@ After you reverse the closed conditional sales tax transaction, you can generate
 [(ITA) Italian sales tax book sections (form)](https://technet.microsoft.com/en-us/library/aa600627\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

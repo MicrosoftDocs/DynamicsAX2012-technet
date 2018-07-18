@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Spain (ESP)"
 TOCTitle: Country-specific features for Spain
 ms:assetid: a6f5749d-440d-4cb0-9fb0-3777187c995b
@@ -83,5 +83,5 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we changed and added c
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up elimination rules for transactions
 TOCTitle: Set up elimination rules for transactions
 ms:assetid: 333f2971-d689-499f-9e9a-0a0844e48a09
@@ -11,6 +11,8 @@ f1_keywords:
 - elimination
 - elimination transactions
 - elimination rules
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up elimination rules for transactions 
@@ -140,5 +142,5 @@ You must specify an existing elimination legal entity in which the elimination j
 [Elimination rules for transactions](elimination-rules-for-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

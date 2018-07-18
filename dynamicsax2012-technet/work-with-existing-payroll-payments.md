@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work with existing payroll payments
 TOCTitle: Work with existing payroll payments
 ms:assetid: 1a79bd00-b070-497d-9aec-f3b5b9862899
@@ -14,6 +14,8 @@ f1_keywords:
 - payroll payment
 - payroll payments
 - worker payroll
+audience: Application User
+ms.search.region: USA
 ---
 
 # Work with existing payroll payments 
@@ -318,5 +320,5 @@ Back to top
 [Journal voucher - Payroll payment journal (form)](https://technet.microsoft.com/en-us/library/jj677395\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

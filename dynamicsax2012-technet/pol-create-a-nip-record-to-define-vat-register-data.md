@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Create a NIP record to define VAT register data
 TOCTitle: (POL) Create a NIP record to define VAT register data
 ms:assetid: 77cd2350-264e-4684-bdd4-57d66e7c26e7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678244(v=AX.60)
 ms:contentKeyID: 49386965
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Create a NIP record to define VAT register data 
@@ -32,5 +34,5 @@ You can use the **NIP table** form to create a NIP record to define the data tha
 [(POL) NIP table (form)](https://technet.microsoft.com/en-us/library/jj678287\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

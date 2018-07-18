@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create advanced account structures and rules for a chart of accounts
 TOCTitle: Create advanced account structures and rules for a chart of accounts
 ms:assetid: 020dc70a-9020-4cfe-82ad-861c74dc1e16
@@ -13,6 +13,8 @@ f1_keywords:
 - create advanced account strucctures
 - create advanced rules
 - create advanced structures
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create advanced account structures and rules for a chart of accounts 
@@ -79,5 +81,5 @@ Your legal entity wants to track license plates for the vehicles that it owns as
 4.  Activate the account structure in the **Configure account structures** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

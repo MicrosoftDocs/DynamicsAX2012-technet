@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Customer self-service portal
 TOCTitle: Using the Customer self-service portal
 ms:assetid: ec5b1bff-9895-4bf4-9403-3a2b162ce3a7
@@ -18,6 +18,8 @@ f1_keywords:
 - checkout products
 - shop for products
 - use the shopping basket
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using the Customer self-service portal 
@@ -42,5 +44,5 @@ This section contains the following topics:
 [Shopping for items](shopping-for-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

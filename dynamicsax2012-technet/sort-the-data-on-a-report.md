@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sort the data on a report
 TOCTitle: Sort the data on a report
 ms:assetid: fe8de4c1-14fa-4588-a9f9-1e850159d948
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751571(v=AX.60)
 ms:contentKeyID: 35133699
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Sort the data on a report 
@@ -56,5 +58,5 @@ You can sort the data that is displayed on a report. The following procedure sho
 [Print or email a report](print-or-email-a-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

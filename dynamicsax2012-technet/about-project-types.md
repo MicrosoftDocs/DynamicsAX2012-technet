@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project types
 TOCTitle: About project types
 ms:assetid: 13db418e-07e2-4f00-8f30-fa2a1f4611bd
@@ -15,6 +15,8 @@ f1_keywords:
 - project type
 - investment
 - invoicing setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project types 
@@ -108,5 +110,5 @@ The project type that you choose depends on the purpose of the project. The foll
 [About using the Time and material project type for a fixed-price project](about-using-the-time-and-material-project-type-for-a-fixed-price-project.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

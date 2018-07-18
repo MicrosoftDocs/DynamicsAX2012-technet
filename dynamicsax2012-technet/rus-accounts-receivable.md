@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Accounts receivable
 TOCTitle: (RUS) Accounts receivable
 ms:assetid: dc0decbc-3c6f-4fff-82f9-0ccff866a0ae
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711684(v=AX.60)
 ms:contentKeyID: 49388006
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Accounts receivable 
@@ -24,5 +26,5 @@ The topics in this section provide more information about Accounts receivable.
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

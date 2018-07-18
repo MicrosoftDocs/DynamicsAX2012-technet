@@ -1,4 +1,4 @@
-﻿---
+---
 title: About methods for calculating the cost to complete a project
 TOCTitle: About methods for calculating the cost to complete a project
 ms:assetid: e58923cd-4fc6-44c3-8600-4b66361709f2
@@ -10,6 +10,8 @@ f1_keywords:
 - cost to complete
 - estimate
 - forecasting
+audience: Application User
+ms.search.region: Global
 ---
 
 # About methods for calculating the cost to complete a project 
@@ -95,5 +97,5 @@ You can choose from six methods to calculate the cost to complete a project. You
 [Examples: Cost to complete methods](examples-cost-to-complete-methods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

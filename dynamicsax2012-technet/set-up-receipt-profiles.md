@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up receipt profiles
 TOCTitle: Set up receipt profiles
 ms:assetid: a34cedab-c208-4081-974d-f001b36dddf5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597197(v=AX.60)
 ms:contentKeyID: 39519266
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up receipt profiles 
@@ -58,5 +60,5 @@ The receipt profile that you select in a hardware profile assigns a set of recei
 [POS hardware profile (form)](https://technet.microsoft.com/en-us/library/hh580636\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

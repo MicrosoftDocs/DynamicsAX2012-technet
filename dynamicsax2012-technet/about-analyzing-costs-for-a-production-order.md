@@ -1,4 +1,4 @@
-﻿---
+---
 title: About analyzing costs for a production order
 TOCTitle: About analyzing costs for a production order
 ms:assetid: 312efafd-ccf3-431c-8542-0f1b861f474c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231031(v=AX.60)
 ms:contentKeyID: 36056332
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About analyzing costs for a production order 
@@ -22,5 +24,5 @@ You can access detailed transactions about reported consumption of material, rou
 [About analyzing variances for a completed production order](about-analyzing-variances-for-a-completed-production-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

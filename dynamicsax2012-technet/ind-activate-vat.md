@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Activate VAT
 TOCTitle: (IND) Activate VAT
 ms:assetid: f435ea8b-373a-44ba-9bdd-32a1e5649c11
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710929(v=AX.60)
 ms:contentKeyID: 49386341
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Activate VAT 
@@ -42,5 +44,5 @@ Use the **General ledger parameters** form to set up parameters to enable value-
 [(IND) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664864\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

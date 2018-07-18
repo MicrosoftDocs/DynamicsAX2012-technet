@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Define parameters to view excise register balances
 TOCTitle: (IND) Define parameters to view excise register balances
 ms:assetid: c06f0ae9-3e70-4619-9a91-bd1853223a57
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664862(v=AX.60)
 ms:contentKeyID: 49386192
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Define parameters to view excise register balances 
@@ -44,5 +46,5 @@ When you create a query to view the balances of excise registers, you must first
 [(IND) Excise balance (form)](https://technet.microsoft.com/en-us/library/jj664540\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

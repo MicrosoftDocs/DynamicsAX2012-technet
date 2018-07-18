@@ -1,4 +1,4 @@
-﻿---
+---
 title: Warehouse mobile device user security role (WHSMobileDeviceService)
 TOCTitle: Warehouse mobile device user security role (WHSMobileDeviceService)
 ms:assetid: 73031f45-17eb-44d9-bc58-894391e8b865
@@ -48,5 +48,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

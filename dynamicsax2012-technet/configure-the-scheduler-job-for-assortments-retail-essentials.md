@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure the scheduler job for assortments (Retail essentials)
 TOCTitle: Configure the scheduler job for assortments (Retail essentials)
 ms:assetid: 366220ae-1476-4bef-bd1f-7c46bda57d33
@@ -38,5 +38,5 @@ You should also set up the assortments scheduler to run periodically as a batch 
 [Assortments (Retail essentials)](assortments-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

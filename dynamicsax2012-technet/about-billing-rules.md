@@ -1,4 +1,4 @@
-﻿---
+---
 title: About billing rules
 TOCTitle: About billing rules
 ms:assetid: e90dbf41-0708-4ac4-a0cc-d8a41a1fb610
@@ -21,6 +21,8 @@ f1_keywords:
 - percentage of completion
 - percentage
 - unit price
+audience: Application User
+ms.search.region: Global
 ---
 
 # About billing rules 
@@ -157,5 +159,5 @@ During the first month, a total of 800 hours are recorded by the consultants on 
 [About project budgets and forecasts](about-project-budgets-and-forecasts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify registrations before or after approval
 TOCTitle: Modify registrations before or after approval
 ms:assetid: c72cde49-5e7b-4b19-be43-c00a4941d7cc
@@ -10,6 +10,8 @@ f1_keywords:
 - absence
 - pay agreement
 - override
+audience: Application User
+ms.search.region: Global
 ---
 
 # Modify registrations before or after approval 
@@ -98,5 +100,5 @@ Overtime can be allocated to the relevant jobs performed during the work day.
 [Approve time and attendance registrations](approve-time-and-attendance-registrations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

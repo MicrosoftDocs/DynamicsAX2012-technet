@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create, modify, and work with purchase order details
 TOCTitle: Create, modify, and work with purchase order details
 ms:assetid: b1805f63-987b-4518-91e1-bc7cf5159052
@@ -23,6 +23,8 @@ f1_keywords:
 - supplier delivery address
 - PO
 - POs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create, modify, and work with purchase order details 
@@ -45,5 +47,5 @@ The following topics provide information about how to create, modify, and how to
 [Purchase order distributions](purchase-order-distributions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

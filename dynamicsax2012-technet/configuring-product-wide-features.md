@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring product-wide features
 TOCTitle: Configuring product-wide features
 ms:assetid: 2ee243d6-f679-4675-b71e-ddcaa575b5a2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208532(v=AX.60)
 ms:contentKeyID: 36056281
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring product-wide features 
@@ -46,5 +48,5 @@ To configure most product-wide features, you must be a member of a role that gra
 [(USA) Setting up and maintaining online services for Microsoft Dynamics ERP](usa-setting-up-and-maintaining-online-services-for-microsoft-dynamics-erp.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upgrade Enterprise Portal
 TOCTitle: Upgrade Enterprise Portal
 ms:assetid: 9d80163e-7c4c-44bb-8240-b3e0e9505077
@@ -124,5 +124,5 @@ After the installation and upgrade are finished, follow these steps:
 [Troubleshoot installation issues with Enterprise Portal and Role Centers](troubleshoot-installation-issues-with-enterprise-portal-and-role-centers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

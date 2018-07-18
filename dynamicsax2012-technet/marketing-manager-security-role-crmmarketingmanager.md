@@ -1,4 +1,4 @@
-﻿---
+---
 title: Marketing manager security role (CRMMarketingManager)
 TOCTitle: Marketing manager security role (CRMMarketingManager)
 ms:assetid: b6f8e6a9-3c5f-44c0-b14d-7916ae4b53f6
@@ -244,5 +244,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View project transactions (EP)
 TOCTitle: View project transactions
 ms:assetid: 971b2758-9de5-4e98-9664-d79dcc6bd46a
@@ -23,6 +23,8 @@ f1_keywords:
 - hour transactions
 - fee transactions
 - item transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # View project transactions (EP) 
@@ -97,5 +99,5 @@ Hour, expense, or fee transactions for projects can be associated with specific 
 [View project details](view-project-details.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

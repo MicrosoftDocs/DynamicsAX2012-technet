@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy a test environment on Azure
 TOCTitle: Deploy a test environment
 ms:assetid: df06dbb5-f5dc-4bda-bc1b-676d3231501e
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 This content has been moved [here](https://go.microsoft.com/fwlink/?linkid=858573).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

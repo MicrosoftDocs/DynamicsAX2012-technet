@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage project forecasts
 TOCTitle: Manage project forecasts
 ms:assetid: 63fb5f53-f2af-4522-a7b8-e2933d287a3c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209217(v=AX.60)
 ms:contentKeyID: 36057705
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage project forecasts 
@@ -32,5 +34,5 @@ The topics in this section provide an overview of the process for creating and u
 [Copy a forecast item](copy-a-forecast-item.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

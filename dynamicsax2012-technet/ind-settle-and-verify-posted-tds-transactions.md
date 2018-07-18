@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Settle and verify posted TDS transactions
 TOCTitle: (IND) Settle and verify posted TDS transactions
 ms:assetid: b481955f-afff-42fd-8f97-5c01df9d3f22
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664796(v=AX.60)
 ms:contentKeyID: 49386126
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Settle and verify posted TDS transactions 
@@ -26,5 +28,5 @@ You can run the settlement process only for posted TDS transactions. You can ver
 [(IND) Verify adjusted TDS transactions with correct or reversed TDS rates](ind-verify-adjusted-tds-transactions-with-correct-or-reversed-tds-rates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

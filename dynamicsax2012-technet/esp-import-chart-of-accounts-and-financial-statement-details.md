@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Import chart of accounts and financial statement details
 TOCTitle: (ESP) Import chart of accounts and financial statement details
 ms:assetid: 976e181c-b069-49c9-84c8-3b965c717b11
@@ -11,6 +11,8 @@ f1_keywords:
 - Spain
 - chart of account
 - financial statement
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Import chart of accounts and financial statement details 
@@ -108,5 +110,5 @@ To import these new and updated reports:
 [(ESP) Import financial statement definition (form)](https://technet.microsoft.com/en-us/library/hh209564\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

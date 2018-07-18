@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Create and post a periodic journal
 TOCTitle: (EEUR) Create and post a periodic journal
 ms:assetid: d50f0cae-9495-4e4f-b5c5-aae6e2233608
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - periodic journal
 - recurring journal
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Create and post a periodic journal 
@@ -103,5 +105,5 @@ After you create a periodic journal, use this procedure to post it. The procedur
 [Save journal as periodic journal (form)](https://technet.microsoft.com/en-us/library/aa585700\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

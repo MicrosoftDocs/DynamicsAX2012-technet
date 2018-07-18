@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Apply reduction entry and depreciate fixed assets
 TOCTitle: (JPN) Apply reduction entry and depreciate fixed assets
 ms:assetid: 3785b26c-222e-4f76-b0e0-625f01e3bb92
@@ -27,6 +27,8 @@ f1_keywords:
 - Reduction entries
 - SSRS_Reports.Reports.AssetReductionEntryTransactionSummary_JP
 - MsDynAx060.Forms.AssetBookTable
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Apply reduction entry and depreciate fixed assets 
@@ -282,5 +284,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

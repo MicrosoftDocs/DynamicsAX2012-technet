@@ -1,4 +1,4 @@
-﻿---
+---
 title: Getting started with Enterprise Portal and Role Centers
 TOCTitle: Getting started with Enterprise Portal and Role Centers
 ms:assetid: 7a193fe8-8ee3-483c-acc9-6ec426ec4806
@@ -22,5 +22,5 @@ The topics in this section provide information about the features of Enterprise 
 [Enterprise Portal on Microsoft SharePoint 2013](enterprise-portal-on-microsoft-sharepoint-2013.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

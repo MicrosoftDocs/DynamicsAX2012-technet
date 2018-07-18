@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up gift cards
 TOCTitle: Set up gift cards
 ms:assetid: 915538c7-f0a5-4fa3-ae11-71a740566290
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597173(v=AX.60)
 ms:contentKeyID: 39519233
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up gift cards 
@@ -92,5 +94,5 @@ To set up gift card parameters in AX 2012 R3, follow these steps:
 [Retail parameters (form)](https://technet.microsoft.com/en-us/library/hh597194\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

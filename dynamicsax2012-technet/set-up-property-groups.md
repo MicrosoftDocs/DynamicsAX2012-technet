@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up property groups
 TOCTitle: Set up property groups
 ms:assetid: 7d9286b3-f532-4302-8192-4b47997c069c
@@ -10,6 +10,8 @@ f1_keywords:
 - fixed asset
 - property group
 - set up property group
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up property groups 
@@ -44,5 +46,5 @@ Property groups are often used together with other fixed asset codes, such as fi
 [Fixed asset groups (form)](https://technet.microsoft.com/en-us/library/aa573347\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

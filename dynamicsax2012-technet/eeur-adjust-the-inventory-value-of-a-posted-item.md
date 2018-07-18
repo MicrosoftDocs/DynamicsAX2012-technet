@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Adjust the inventory value of a posted item
 TOCTitle: (EEUR) Adjust the inventory value of a posted item
 ms:assetid: 91ffca54-94e3-4cd6-8f3a-de4ff8b222c3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678297(v=AX.60)
 ms:contentKeyID: 49387019
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Adjust the inventory value of a posted item 
@@ -60,5 +62,5 @@ Use this procedure to adjust the financial value of the selected receipt transac
 [(EEUR) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710787\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Import data from the Financial reports generator report
 TOCTitle: (RUS) Import data from the Financial reports generator report
 ms:assetid: 62641a57-ad64-4f6d-8762-03364c460c78
@@ -10,6 +10,8 @@ f1_keywords:
 - import
 - import data
 - FRG
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Import data from the Financial reports generator report 
@@ -74,5 +76,5 @@ You can import report data from a file, from the Financial reports generator (FR
 [(RUS) Load version (form)](https://technet.microsoft.com/en-us/library/jj710716\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

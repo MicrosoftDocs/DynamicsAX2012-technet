@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Retail Server
 TOCTitle: Install Retail Server
 ms:assetid: 15458480-7197-4909-bdab-0999b2fb5b43
@@ -285,5 +285,5 @@ After Retail Server is deployed and configured, you can deploy Microsoft Dynamic
 [Install Retail Hardware Station](install-retail-hardware-station.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define sales processes
 TOCTitle: Define sales processes
 ms:assetid: 166dc7e3-4346-4224-9d36-3b42b38c7702
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - sales process
 - sales processes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define sales processes 
@@ -27,5 +29,5 @@ The topics in this section provide information that can help you to define the s
 [Create and save a query](create-and-save-a-query.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

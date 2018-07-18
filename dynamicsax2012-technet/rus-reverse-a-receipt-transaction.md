@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Reverse a receipt transaction
 TOCTitle: (RUS) Reverse a receipt transaction
 ms:assetid: 3129b911-eac3-40da-87e0-38577f18c051
@@ -11,6 +11,8 @@ f1_keywords:
 - receipt
 - (RUS)
 - Russia
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Reverse a receipt transaction 
@@ -43,5 +45,5 @@ Deferrals that are created after the fixed asset is disposed of are reversed whe
 [(RUS) Deferrals transactions (form)](https://technet.microsoft.com/en-us/library/jj678472\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

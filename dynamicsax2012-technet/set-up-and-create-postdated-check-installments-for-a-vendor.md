@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up and create postdated check installments for a vendor
 TOCTitle: Set up and create postdated check installments for a vendor
 ms:assetid: 17953331-c42a-442d-beab-831f2a1e42c6
@@ -12,6 +12,8 @@ f1_keywords:
 - check
 - postdated
 - checks
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up and create postdated check installments for a vendor 
@@ -80,5 +82,5 @@ You can pay a vendor in multiple installments using postdated checks. Set up an 
 14. Close the forms to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

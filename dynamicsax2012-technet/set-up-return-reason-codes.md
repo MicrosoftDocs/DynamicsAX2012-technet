@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up return reason codes
 TOCTitle: Set up return reason codes
 ms:assetid: 890e1fd1-6442-4a80-aedf-1f6e6608b619
@@ -10,6 +10,8 @@ f1_keywords:
 - reasons for returns
 - return reasons
 - return codes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up return reason codes 
@@ -38,5 +40,5 @@ This procedure helps you set up return reason codes that you can use to indicate
 [Return reason code groups (form)](https://technet.microsoft.com/en-us/library/hh209604\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

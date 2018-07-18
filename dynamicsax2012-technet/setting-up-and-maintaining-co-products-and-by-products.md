@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining co-products and by-products
 TOCTitle: Setting up and maintaining co-products and by-products
 ms:assetid: 70b84dec-02e8-42f9-8efe-7a032d37d62a
@@ -13,6 +13,8 @@ f1_keywords:
 - byproduct
 - co-product
 - process industry
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining co-products and by-products 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to set up and maintain 
 [Create a co-product](create-a-co-product.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

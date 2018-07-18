@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Code Upgrade Service for Microsoft Dynamics AX"
 TOCTitle: Code Upgrade Service for Microsoft Dynamics AX
 ms:assetid: d4c683ab-8843-4f51-8554-bb7ea0e9e3fc
@@ -22,5 +22,5 @@ As of November, 2014, the Code Upgrade Tool has been moved. It is now available 
 Read the documentation: [Code Upgrade Tool User Guide](code-upgrade-tool-user-guide.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

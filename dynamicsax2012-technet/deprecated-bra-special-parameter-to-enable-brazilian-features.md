@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) Special parameter to enable Brazilian features'
 TOCTitle: (BRA) Enable Brazilian features
 ms:assetid: c8d22b9d-17d0-4176-96bf-2d09d207fe63
@@ -54,5 +54,5 @@ For Brazilian installations, Microsoft Dynamics AX 2009 provides a country-speci
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

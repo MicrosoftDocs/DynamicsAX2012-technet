@@ -1,4 +1,4 @@
-﻿---
+---
 title: Document management
 TOCTitle: Document management
 ms:assetid: 75db94e4-f2b8-4760-8dd8-a779ac74dbb5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn606151(v=AX.60)
 ms:contentKeyID: 61180074
 ms.date: 09/17/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Document management 
@@ -100,5 +102,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [Key tasks: Create and share an Excel template by using the Office Add-ins](key-tasks-create-and-share-an-excel-template-by-using-the-office-add-ins.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

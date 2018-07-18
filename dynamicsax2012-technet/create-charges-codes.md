@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create charges codes
 TOCTitle: Create charges codes
 ms:assetid: a68a5c6b-5aeb-4544-9eef-01e6c5af6d3b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550275(v=AX.60)
 ms:contentKeyID: 44081022
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create charges codes 
@@ -104,5 +106,5 @@ To add the unit charge to the item cost, you set up the following posting inform
 [Charges totals details/Compare charges values (form)](https://technet.microsoft.com/en-us/library/hh242731\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage store inventory overview (Retail essentials)
 TOCTitle: Manage store inventory overview (Retail essentials)
 ms:assetid: 357769dc-709a-47ba-8612-b51ed3a07e83
@@ -38,5 +38,5 @@ Stock counts can be either scheduled or unscheduled. Scheduled stock counts are 
 When a stock count of either type is completed, it is committed and sent to the head office. At the head office, the count is validated and posted.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Merge party IDs for vendor accounts across multiple legal entities
 TOCTitle: Merge party IDs for vendor accounts across multiple legal entities
 ms:assetid: cae044de-d4c4-4b36-aeb8-425a332585c5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213660(v=AX.60)
 ms:contentKeyID: 36059336
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Merge party IDs for vendor accounts across multiple legal entities 
@@ -38,5 +40,5 @@ If multiple legal entities in your organization do business with the same vendor
 [Merge global address book records](merge-global-address-book-records.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About shopping for items
 TOCTitle: About shopping for items
 ms:assetid: 354850d3-13b2-411d-809b-aa1fd52278d3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271494(v=AX.60)
 ms:contentKeyID: 36384126
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About shopping for items 
@@ -22,5 +24,5 @@ You can use the **Shopping cart** page to view the item order lines that are add
 To place your order, click the **Checkout** button on the **Shopping cart** page to confirm or edit your delivery address, and place the order. When the order has been confirmed, a sales order is created, and the order number is displayed for your reference. If you do not place an order for the items in your cart, you can view them at any time using the **Shopping cart** page. For more information, see [Place your order](place-your-order.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

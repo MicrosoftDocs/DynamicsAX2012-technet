@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed asset reserve transactions report (AssetReserveTransactions)
 TOCTitle: Fixed asset reserve transactions report (AssetReserveTransactions)
 ms:assetid: de8b08c5-a93b-4ce9-ad7e-39967588f3f8
@@ -94,5 +94,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Fixed asset posting profiles (form)](https://technet.microsoft.com/en-us/library/aa571467\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

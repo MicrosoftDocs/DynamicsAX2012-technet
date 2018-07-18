@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate earnings
 TOCTitle: Generate earnings
 ms:assetid: 8fc44d1e-5a29-4ba8-ac48-15fe1477496c
@@ -20,6 +20,8 @@ f1_keywords:
 - Forms.PayrollEarningStatementRetroactiveLines
 - payroll premiums
 - premium earnings
+audience: Application User
+ms.search.region: USA
 ---
 
 # Generate earnings 
@@ -383,5 +385,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Work with existing payroll payments](work-with-existing-payroll-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

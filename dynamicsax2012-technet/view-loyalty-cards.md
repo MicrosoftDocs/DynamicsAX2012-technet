@@ -1,4 +1,4 @@
-﻿---
+---
 title: View loyalty cards
 TOCTitle: View loyalty cards
 ms:assetid: 84ee9a55-8fa9-40d5-9961-ca377090d570
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597149(v=AX.60)
 ms:contentKeyID: 39519205
 ms.date: 04/29/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View loyalty cards 
@@ -36,5 +38,5 @@ To view information about loyalty cards, follow these steps:
 [Loyalty cards (form)](https://technet.microsoft.com/en-us/library/hh597314\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About expense-related cost price fields
 TOCTitle: About expense-related cost price fields
 ms:assetid: cf35c85b-0700-4781-af80-0b3c9f480624
@@ -10,6 +10,8 @@ f1_keywords:
 - Expense
 - cost price
 - expense transaction
+audience: Application User
+ms.search.region: Global
 ---
 
 # About expense-related cost price fields 
@@ -102,5 +104,5 @@ The following assumptions apply to the example:
 [Cost price - expense (form)](https://technet.microsoft.com/en-us/library/aa571745\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the product modeling tree
 TOCTitle: About the product modeling tree
 ms:assetid: ba5f77ae-b327-45f6-8bc7-a9361ed56ffc
@@ -11,6 +11,8 @@ f1_keywords:
 - product model
 - product models
 - model tree
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the product modeling tree 
@@ -54,5 +56,5 @@ This section provides information about a product model's modeling tree, the dif
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

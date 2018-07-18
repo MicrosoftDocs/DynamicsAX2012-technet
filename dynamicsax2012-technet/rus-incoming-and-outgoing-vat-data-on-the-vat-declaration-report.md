@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Incoming and outgoing VAT data on the VAT declaration report
 TOCTitle: (RUS) Incoming and outgoing VAT data on the VAT declaration report
 ms:assetid: 5cb94f05-7185-4907-bce7-1ab9acdce4c8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665424(v=AX.60)
 ms:contentKeyID: 49387512
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Incoming and outgoing VAT data on the VAT declaration report 
@@ -36,5 +38,5 @@ You must use the **Financial reports generator** report to generate the incoming
 [(RUS) Create report cells (form)](https://technet.microsoft.com/en-us/library/jj678529\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

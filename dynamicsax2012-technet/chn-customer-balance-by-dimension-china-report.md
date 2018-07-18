@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Customer balance by dimension (China) (report)
 TOCTitle: (CHN) Customer balance by dimension (China) (report)
 ms:assetid: 07e1761b-c10f-41e7-9308-9e7341f7661a
@@ -112,5 +112,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

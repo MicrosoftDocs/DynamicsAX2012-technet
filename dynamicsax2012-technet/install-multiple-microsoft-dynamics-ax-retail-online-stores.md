@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install multiple Microsoft Dynamics AX Retail online stores
 TOCTitle: Install multiple online stores
 ms:assetid: eaaf0114-934b-4644-8d77-16e39cace6d2
@@ -369,5 +369,5 @@ Update the StorefrontResources.js file by replacing the English language (en-us)
 [Online Store](online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

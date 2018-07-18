@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a reference to an unattached document
 TOCTitle: Create a reference to an unattached document
 ms:assetid: ae13a411-29a9-43dd-9bf8-a85412ba567e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242704(v=AX.60)
 ms:contentKeyID: 36058937
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a reference to an unattached document 
@@ -42,5 +44,5 @@ Unattached documents are documents that are stored in an external location inste
 [Create a document content type](create-a-document-content-type.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

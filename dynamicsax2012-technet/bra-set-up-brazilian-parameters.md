@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up Brazilian parameters
 TOCTitle: (BRA) Set up Brazilian parameters
 ms:assetid: 8d8fb2f6-6a27-4abe-8585-78391de8bf2e
@@ -11,6 +11,8 @@ f1_keywords:
 - BRA
 - Brazil
 - Brazilian parameters
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up Brazilian parameters 
@@ -171,5 +173,5 @@ Use the following procedure to set up parameters for Brazilian features.
 [(BRA) Brazilian parameters (form)](https://technet.microsoft.com/en-us/library/jj822920\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

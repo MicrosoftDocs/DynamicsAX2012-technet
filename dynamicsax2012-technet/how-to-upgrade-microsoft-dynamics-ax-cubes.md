@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'How to: Upgrade Microsoft Dynamics AX cubes'
 TOCTitle: 'How to: Upgrade cubes'
 ms:assetid: 4cd62ae4-dc8c-4de0-8a1f-4ee49e6e6a8b
@@ -74,5 +74,5 @@ Custom cubes are cubes that you create from scratch. If you upgrade from Microso
 [Working with Analysis Services Projects](working-with-analysis-services-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

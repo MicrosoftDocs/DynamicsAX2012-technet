@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with purchase requisitions
 TOCTitle: Working with purchase requisitions
 ms:assetid: c0a11be6-6801-4366-b6c4-f7a4cab9eb63
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271639(v=AX.60)
 ms:contentKeyID: 36384271
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with purchase requisitions 
@@ -32,5 +34,5 @@ This section contains the following topics:
 [View workflow history for a purchase requisition](view-workflow-history-for-a-purchase-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

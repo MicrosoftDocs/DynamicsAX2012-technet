@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work with RFID for inbound items
 TOCTitle: Work with RFID for inbound items
 ms:assetid: 39a9cc18-26b3-447d-93ae-23c881fa71d8
@@ -10,6 +10,8 @@ f1_keywords:
 - radio frequency identification
 - RFID
 - inbound items
+audience: Application User
+ms.search.region: Global
 ---
 
 # Work with RFID for inbound items 
@@ -80,5 +82,5 @@ You must:
 [Ship outbound items with RFID](ship-outbound-items-with-rfid.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

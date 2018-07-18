@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up automatically allocated charges for a charges code, vendor, and item combination in transactions
 TOCTitle: (IND) Set up automatically allocated charges for a charges code, vendor, and item combination in transactions
 ms:assetid: b85f064a-2c11-4c12-bed1-7f6a0dc6d25f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664835(v=AX.60)
 ms:contentKeyID: 49386165
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up automatically allocated charges for a charges code, vendor, and item combination in transactions 
@@ -66,5 +68,5 @@ You can define automatically allocated charges for a specific vendor, a specific
 [(IND) Create a purchase order and post charges](ind-create-a-purchase-order-and-post-charges.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor account manager security role (VendVendorAccountManager)
 TOCTitle: Vendor account manager security role (VendVendorAccountManager)
 ms:assetid: d00d7e89-f1de-4700-9ccb-ff6e8d0c259e
@@ -141,5 +141,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

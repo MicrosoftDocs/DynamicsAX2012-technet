@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project quotations
 TOCTitle: About project quotations
 ms:assetid: 003f3477-4913-4d26-b479-cf83d39ca12e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - project quotation
 - quote
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project quotations 
@@ -43,5 +45,5 @@ For information about how to create a project quotation, see [Create a project q
 [About setting up a project budget](about-setting-up-a-project-budget.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

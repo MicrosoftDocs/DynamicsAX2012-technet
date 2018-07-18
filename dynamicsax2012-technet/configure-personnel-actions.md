@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure personnel actions
 TOCTitle: Configure personnel actions
 ms:assetid: 5722ce62-09ce-48e6-8100-5eaba0aeb9d1
@@ -22,6 +22,8 @@ f1_keywords:
 - MsDynAx060.Forms.HcmActionTypeSetup
 - personnel action
 - raises
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure personnel actions 
@@ -383,5 +385,5 @@ If you don't have access to the pages that are used to complete this task, conta
 Set up Human resources workflows
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

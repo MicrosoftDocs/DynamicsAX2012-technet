@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for standard expenses rate for deferred periods
 TOCTitle: (RUS) Set up a register for standard expenses rate for deferred periods
 ms:assetid: 735ba5b7-8fc5-44a9-ac16-a0f577f0aa6b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678362(v=AX.60)
 ms:contentKeyID: 49387592
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for standard expenses rate for deferred periods 
@@ -64,5 +66,5 @@ This register contains the results of norm calculations for the future period. T
 [(RUS) Calculate the standard expenses rate for deferred periods register](rus-calculate-the-standard-expenses-rate-for-deferred-periods-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Inventory blocking
 TOCTitle: Inventory blocking
 ms:assetid: dff45b5c-3e3d-412b-988f-371370027fba
@@ -10,6 +10,8 @@ f1_keywords:
 - block item
 - inventory blocking
 - block items
+audience: Application User
+ms.search.region: Global
 ---
 
 # Inventory blocking 
@@ -26,5 +28,5 @@ The following list of topics provides information about inventory blocking. To o
 [About inventory blocking](about-inventory-blocking.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

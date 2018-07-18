@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify an outbound load
 TOCTitle: Create or modify an outbound load
 ms:assetid: be0ee355-8a38-42a6-9c1f-09067393b20b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn770235(v=AX.60)
 ms:contentKeyID: 62583048
 ms.date: 11/13/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify an outbound load 
@@ -183,5 +185,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

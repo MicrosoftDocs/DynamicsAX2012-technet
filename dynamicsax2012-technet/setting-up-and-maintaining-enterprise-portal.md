@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Enterprise Portal
 TOCTitle: Setting up and maintaining Enterprise Portal
 ms:assetid: e3881a9b-834d-4b25-9b43-76ad8eab94ab
@@ -26,5 +26,5 @@ The topics in this section provide information that helps system administrators 
 [Maintaining Enterprise Portal](maintaining-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

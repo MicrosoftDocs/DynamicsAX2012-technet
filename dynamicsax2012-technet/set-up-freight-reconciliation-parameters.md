@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up freight reconciliation parameters
 TOCTitle: Set up freight reconciliation parameters
 ms:assetid: c1345cb5-f568-4810-92d8-b651edfecdde
@@ -19,6 +19,8 @@ f1_keywords:
 - freight reconciliation
 - reconciliation reason
 - unmatched freight bills
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up freight reconciliation parameters 
@@ -148,5 +150,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

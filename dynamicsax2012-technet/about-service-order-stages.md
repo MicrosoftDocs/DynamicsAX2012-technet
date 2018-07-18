@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service order stages
 TOCTitle: About service order stages
 ms:assetid: 78a8cb66-5faa-4c17-86a0-62836e9c953c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550052(v=AX.60)
 ms:contentKeyID: 62629947
 ms.date: 07/28/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service order stages 
@@ -28,5 +30,5 @@ When you set up a service stage, you can create multiple options, or branches, t
 [Change the service order stage](change-the-service-order-stage.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

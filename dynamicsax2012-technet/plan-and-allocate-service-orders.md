@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan and allocate service orders
 TOCTitle: Plan and allocate service orders
 ms:assetid: 2948460b-050a-4d8f-8e60-382cbc6ba46d
@@ -14,6 +14,8 @@ f1_keywords:
 - agreement
 - service order
 - requirement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Plan and allocate service orders 
@@ -48,5 +50,5 @@ The topics in this section provide information about how to plan and allocate se
 [Create service subscriptions from a project](create-service-subscriptions-from-a-project.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

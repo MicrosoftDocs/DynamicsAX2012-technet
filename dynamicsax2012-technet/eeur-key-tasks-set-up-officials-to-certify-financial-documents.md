@@ -1,4 +1,4 @@
-﻿---
+---
 title: '(EEUR) Key tasks: Set up officials to certify financial documents'
 TOCTitle: '(EEUR) Key tasks: Set up officials to certify financial documents'
 ms:assetid: e493419a-1835-4be6-a565-e8e814d9959d
@@ -12,6 +12,8 @@ f1_keywords:
 - officials
 - counterpart officials
 - internal financial documents
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Key tasks: Set up officials to certify financial documents 
@@ -158,5 +160,5 @@ Back to top
 [(EEUR) Officials (form)](https://technet.microsoft.com/en-us/library/jj710672\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

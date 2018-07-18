@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a simple discount
 TOCTitle: Set up a simple discount
 ms:assetid: 3d5f92e9-4445-499b-8f38-3ce947f8fb86
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497740(v=AX.60)
 ms:contentKeyID: 62200056
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a simple discount 
@@ -95,5 +97,5 @@ This topic explains how to set up a simple discount for products. A simple disco
 [Setting up loyalty programs](setting-up-loyalty-programs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

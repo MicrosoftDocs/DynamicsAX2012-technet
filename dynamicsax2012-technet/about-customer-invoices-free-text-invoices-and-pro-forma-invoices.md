@@ -1,4 +1,4 @@
-﻿---
+---
 title: About customer invoices, free text invoices, and pro forma invoices
 TOCTitle: About customer invoices, free text invoices, and pro forma invoices
 ms:assetid: 7d47c9d2-222d-4b11-8e6a-64d13894c918
@@ -11,6 +11,8 @@ f1_keywords:
 - customer invoices
 - free text invoices
 - pro forma invoices
+audience: Application User
+ms.search.region: Global
 ---
 
 # About customer invoices, free text invoices, and pro forma invoices 
@@ -41,5 +43,5 @@ A pro forma invoice is an invoice that is prepared as an estimate of the actual 
 [Subledger journal (form)](https://technet.microsoft.com/en-us/library/hh208685\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

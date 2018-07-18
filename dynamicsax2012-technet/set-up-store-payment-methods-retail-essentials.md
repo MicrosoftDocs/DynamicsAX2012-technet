@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up store payment methods (Retail Essentials)
 TOCTitle: Set up store payment methods (Retail Essentials)
 ms:assetid: 7af0c7c8-0e4f-482b-a53f-a3e7ca6d9b82
@@ -102,5 +102,5 @@ For information about the fields in the **Payment method** form, see [Payment me
 [Setting up payment methods (Retail essentials)](setting-up-payment-methods-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

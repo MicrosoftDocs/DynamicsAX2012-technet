@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up VAT deduction parameters for deferrals
 TOCTitle: (RUS) Set up VAT deduction parameters for deferrals
 ms:assetid: 65e0d79e-3782-49ff-8b86-334e593a61a4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665459(v=AX.60)
 ms:contentKeyID: 49387546
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up VAT deduction parameters for deferrals 
@@ -118,5 +120,5 @@ Use the **Counter setup** form to set the calculation sequence for deferrals to 
 [(RUS) Create and post deferrals by using the Proportional VAT refund method](rus-create-and-post-deferrals-by-using-the-proportional-vat-refund-method.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

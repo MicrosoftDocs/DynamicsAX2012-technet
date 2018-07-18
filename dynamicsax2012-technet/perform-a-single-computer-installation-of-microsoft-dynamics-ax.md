@@ -1,4 +1,4 @@
-﻿---
+---
 title: Perform a single-computer installation of Microsoft Dynamics AX
 TOCTitle: Perform a single-computer installation of Microsoft Dynamics AX
 ms:assetid: 7f91b4a4-8c21-4daf-9439-4bc810354217
@@ -24,5 +24,5 @@ The topics in this section provide information about how to install Microsoft Dy
 [Considerations for installing multiple instances on a computer](considerations-for-installing-multiple-instances-on-a-computer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

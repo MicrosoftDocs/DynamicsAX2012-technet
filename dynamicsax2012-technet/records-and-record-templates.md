@@ -1,4 +1,4 @@
-﻿---
+---
 title: Records and record templates
 TOCTitle: Records and record templates
 ms:assetid: d5a00219-d227-421b-9007-bc881cb2b8b5
@@ -11,6 +11,8 @@ f1_keywords:
 - record
 - records
 - record template
+audience: Application User
+ms.search.region: Global
 ---
 
 # Records and record templates 
@@ -27,5 +29,5 @@ The topics in this section describe common tasks that are related to working wit
 [Finding, filtering, and sorting records](finding-filtering-and-sorting-records.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

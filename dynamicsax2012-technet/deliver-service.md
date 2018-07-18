@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deliver service
 TOCTitle: Deliver service
 ms:assetid: dcdbb60c-aeac-4054-926e-75c3943b31a5
@@ -10,6 +10,8 @@ f1_keywords:
 - service
 - customer
 - agreement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Deliver service 
@@ -34,5 +36,5 @@ The topics in this section provide information about how to deliver a service.
 [Accrue subscription revenue](accrue-subscription-revenue.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

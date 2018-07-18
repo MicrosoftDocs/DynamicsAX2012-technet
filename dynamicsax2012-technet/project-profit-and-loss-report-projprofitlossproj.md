@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project profit and loss report (ProjProfitLossProj)
 TOCTitle: Project profit and loss report (ProjProfitLossProj)
 ms:assetid: 2c60843b-6b17-493a-8d1e-5e7b1282727a
@@ -183,5 +183,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

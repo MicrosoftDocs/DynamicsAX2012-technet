@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add AOT queries to the Search configuration
 TOCTitle: Add AOT queries to the Search configuration
 ms:assetid: 1d4707eb-72d0-4d91-8432-eb5e5a4bbfb9
@@ -48,5 +48,5 @@ The queries that you configured for Search are now ready to be published to the 
 [Import Search configurations to an AOS](import-search-configurations-to-an-aos.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

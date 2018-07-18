@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Create a single vendor payment transfer
 TOCTitle: (HUN) Create a single vendor payment transfer
 ms:assetid: 9fe36acb-6575-4f98-a3bb-cb46275ceb1c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664341(v=AX.60)
 ms:contentKeyID: 49385430
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Create a single vendor payment transfer 
@@ -74,5 +76,5 @@ The MultiCash system includes a bank-Giro format to transfer domestic payments i
 [(EEUR) Invoice register journal lines (modified form)](https://technet.microsoft.com/en-us/library/jj730992\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

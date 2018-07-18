@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create a purchase order and assign a TDS group to it
 TOCTitle: (IND) Create a purchase order with TDS
 ms:assetid: 7faa8321-b7bd-44be-8a18-ea107190b9cc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677984(v=AX.60)
 ms:contentKeyID: 49385948
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create a purchase order and assign a TDS group to it 
@@ -52,5 +54,5 @@ After the purchase order is posted, you can view the following details:
 [(IND) Adjust a TDS or TCS value](https://technet.microsoft.com/en-us/library/jj664585\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

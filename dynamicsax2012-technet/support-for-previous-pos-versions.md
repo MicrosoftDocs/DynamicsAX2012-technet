@@ -1,4 +1,4 @@
-﻿---
+---
 title: Support for Previous POS Versions
 TOCTitle: Support for Previous POS Versions
 ms:assetid: 22b69bd2-790c-4327-a00e-a5217f9f5c39
@@ -16,5 +16,5 @@ This white paper describes how to enable previous versions of Retail Point of Sa
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=259822).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

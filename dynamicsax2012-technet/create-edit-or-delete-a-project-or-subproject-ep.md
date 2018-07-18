@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create, edit, or delete a project or subproject (EP)
 TOCTitle: Create, edit, or delete a project or subproject
 ms:assetid: 76df807e-3c12-46e8-b1ab-37a8de86f17f
@@ -12,6 +12,8 @@ f1_keywords:
 - EPProjTableAdd
 - EPProjTableEdit
 - edit project
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create, edit, or delete a project or subproject (EP) 
@@ -100,5 +102,5 @@ Before you can create a subproject from an existing project, the project must be
 [View project validation](view-project-validation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

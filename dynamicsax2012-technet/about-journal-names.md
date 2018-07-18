@@ -1,4 +1,4 @@
-﻿---
+---
 title: About journal names
 TOCTitle: About journal names
 ms:assetid: 043ebe89-392c-479d-b8ed-83674933a6ba
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569707(v=AX.60)
 ms:contentKeyID: 36055944
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About journal names 
@@ -32,5 +34,5 @@ In addition to selecting the journal type, you must enter other information when
 [Create a service journal](create-a-service-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

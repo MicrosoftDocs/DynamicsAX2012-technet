@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up an assortment (Retail essentials)
 TOCTitle: Set up an assortment (Retail essentials)
 ms:assetid: 5a059bf3-f3d9-4d3c-b5c7-94af0cca4193
@@ -91,5 +91,5 @@ Before you can assign an assortment to a retail channel, you must create the sto
 [View assortment products (Retail essentials)](view-assortment-products-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

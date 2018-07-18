@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create vendor tax agent transactions
 TOCTitle: (RUS) Create vendor tax agent transactions
 ms:assetid: 159d0cd6-7ff7-4890-a139-6b60d29b63c8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711416(v=AX.60)
 ms:contentKeyID: 49387234
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create vendor tax agent transactions 
@@ -58,5 +60,5 @@ You can define a vendor as a tax agent in the **Vendors** form and perform trans
 [(RUS) Create and print factures for VAT deductions](rus-create-and-print-factures-for-vat-deductions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

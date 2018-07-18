@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Checklist: Deploy Microsoft Dynamics AX Enterprise Search'
 TOCTitle: 'Checklist: Deploy Enterprise Search'
 ms:assetid: 5e416444-e326-4097-b95b-9e378acbd1cc
@@ -75,5 +75,5 @@ The following checklist can help you deploy Enterprise Search.
 [Troubleshoot installation issues with Enterprise Search](troubleshoot-installation-issues-with-enterprise-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

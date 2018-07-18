@@ -1,4 +1,4 @@
-﻿---
+---
 title: Application Object Server security and protection
 TOCTitle: Application Object Server security and protection
 ms:assetid: ec82b5b9-8fa0-4d9e-9ac2-6ffa985be9c5
@@ -118,5 +118,5 @@ For more information, see [Microsoft Security Baseline Analyzer](http://go.micro
 [Set up user security in Microsoft Dynamics AX](set-up-user-security-in-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CAN, USA) About customer payment journal reports
 TOCTitle: (CAN, USA) About customer payment journal reports
 ms:assetid: 03aa8e3a-bbf9-4ea8-b809-848f346c3077
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569704(v=AX.60)
 ms:contentKeyID: 36966678
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Canada
 ---
 
 # (CAN, USA) About customer payment journal reports 
@@ -38,5 +40,5 @@ When you create a **Customer posted payment journal** report, the report does no
 [(CAN, USA) Customer posted payment journal report (CustPostPaymJournal\_NA)](can-usa-customer-posted-payment-journal-report-custpostpaymjournal-na.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

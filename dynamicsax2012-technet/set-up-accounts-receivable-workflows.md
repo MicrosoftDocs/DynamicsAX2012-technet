@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Accounts receivable workflows
 TOCTitle: Set up Accounts receivable workflows
 ms:assetid: d48a1492-47d1-4c69-a736-8e4dcf8529cc
@@ -15,6 +15,8 @@ f1_keywords:
 - journal
 - journals
 - free-text
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up Accounts receivable workflows 
@@ -213,5 +215,5 @@ The following calculated fields and expressions are used with Accounts receivabl
 [About free text invoice workflows](about-free-text-invoice-workflows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

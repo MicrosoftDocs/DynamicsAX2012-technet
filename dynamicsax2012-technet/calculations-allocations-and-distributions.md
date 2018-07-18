@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calculations, allocations, and distributions
 TOCTitle: Calculations, allocations, and distributions
 ms:assetid: b69eb5ed-47f0-4e76-af3e-5152d97e00dc
@@ -13,6 +13,8 @@ f1_keywords:
 - distributions
 - calculations
 - allocations
+audience: Application User
+ms.search.region: Global
 ---
 
 # Calculations, allocations, and distributions 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to use calculations, al
 [Define a surcharge allocation](define-a-surcharge-allocation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up a check or Bordero method of payment for a vendor
 TOCTitle: (BRA) Set up a check or Bordero method of payment for a vendor
 ms:assetid: 4730fee7-3d4d-46c7-8814-5c3097a5bb00
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910985(v=AX.60)
 ms:contentKeyID: 53382663
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up a check or Bordero method of payment for a vendor 
@@ -92,5 +94,5 @@ You can set up a check or Bordero method of payment to make payments to vendors.
 [(BRA) Post a payment with the check method of payment](bra-post-a-payment-with-the-check-method-of-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) View and manually change the status of invoice document author for a sales order
 TOCTitle: (LTU) View and manually change the status of invoice document author for a sales order
 ms:assetid: db93620d-c881-4fdc-9eb6-2073d5abc7ab
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665208(v=AX.60)
 ms:contentKeyID: 49386789
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) View and manually change the status of invoice document author for a sales order 
@@ -44,5 +46,5 @@ A posted sales invoice has an author, which is the company. When items are retur
 [(LTU) Customer payment journal lines (modified form)](https://technet.microsoft.com/en-us/library/jj665039\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

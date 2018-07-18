@@ -1,4 +1,4 @@
-﻿---
+---
 title: Analytics in Microsoft Dynamics AX
 TOCTitle: Analytics
 ms:assetid: 8f284ccb-628f-4e84-b82c-3e0c032ad80f
@@ -35,9 +35,9 @@ Microsoft Dynamics AX includes default cubes that you can use in your Microsoft 
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
 <p><a href="http://blogs.msdn.com/b/dynamicsaxbi/">Microsoft Dynamics AX Business Intelligence (blog)</a></p>
 <p><a href="http://www.youtube.com/user/dynamicsaxbi">Microsoft Dynamics AX BI videos channel (videos)</a></p>
-<p><a href="http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=analysis+services+ssas+analytics+cube%26pesn=6%26savn=hide%26orgi=wsc1%26bngi=t">Analytics help (search)</a></p>
-<p><a href="http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=analysis+services+ssas+analytics+cube%26pesn=6%26sorh=14%26savn=hide%26orgi=wsc1%26bngi=t">Analytics community (search)</a></p>
-<p><a href="http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=analysis+services+cube%26pesn=6%26sorh=16%26savn=hide%26orgi=wsc1%26bngi=t">Analytics white papers (search)</a></p></td>
+
+
+</td>
 </tr>
 </tbody>
 </table>
@@ -557,5 +557,5 @@ The following table provides links to technical reference information for cubes.
 Back to top
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

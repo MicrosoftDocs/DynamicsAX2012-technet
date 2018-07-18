@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure rules for code upgrade
 TOCTitle: Configure rules for code upgrade
 ms:assetid: 6bfc6138-20a0-4c58-b47d-5e235203f03f
@@ -56,5 +56,5 @@ If you now open the **Manage code upgrade rules** form, you can view a hierarchy
 A similar procedure can be used to import other rule sets that you create yourself and organize into your own categories. For developer documentation about code upgrade, see the [code upgrade white papers](http://go.microsoft.com/fwlink/?linkid=215083%26clcid=0x409).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

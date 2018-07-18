@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Calculate tax depreciation on fixed assets
 TOCTitle: (LVA) Calculate tax depreciation on fixed assets
 ms:assetid: 1ba4adbc-8b6c-4d3b-869a-82325c8ecdc7
@@ -11,6 +11,8 @@ f1_keywords:
 - calculate depreciation
 - calculate tax depreciation
 - tax depreciation
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Calculate tax depreciation on fixed assets 
@@ -61,5 +63,5 @@ You must prepare and submit tax depreciation reports with your annual corporate 
 [(LVA) Set up a value model for tax depreciation](lva-set-up-a-value-model-for-tax-depreciation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

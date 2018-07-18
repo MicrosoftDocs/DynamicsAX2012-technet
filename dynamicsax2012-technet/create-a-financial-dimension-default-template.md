@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a financial dimension default template
 TOCTitle: Create a financial dimension default template
 ms:assetid: 94b52d87-6425-4c8b-99db-968e98b1f8db
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - default template
 - financial dimension
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a financial dimension default template 
@@ -39,5 +41,5 @@ Use the **Financial dimension default templates** form to create a template to d
 [Create a financial dimension](create-a-financial-dimension.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

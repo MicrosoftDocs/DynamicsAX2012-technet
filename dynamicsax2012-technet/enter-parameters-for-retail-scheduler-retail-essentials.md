@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter parameters for Retail Scheduler (Retail essentials)
 TOCTitle: Enter parameters for Retail Scheduler (Retail essentials)
 ms:assetid: ffff4a64-5ca8-4cfe-8906-b0146984ca70
@@ -52,5 +52,5 @@ Use the following procedure to set up parameters for Retail scheduler.
 5.  Click **Close** to close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

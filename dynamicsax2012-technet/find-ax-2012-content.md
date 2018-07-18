@@ -1,4 +1,4 @@
-﻿---
+---
 title: Find AX 2012 content
 TOCTitle: Find AX 2012 content
 ms:assetid: b69945d9-e766-4a15-9513-a5a847c953ce
@@ -34,7 +34,7 @@ The following are useful Microsoft Dynamics AX-related sites.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://aka.ms/websearchax">WebSearchAX</a></p></td>
+<td></td>
 <td><p>Microsoft Dynamics AX site-specific filtered Bing search page.</p></td>
 </tr>
 <tr class="even">
@@ -253,5 +253,5 @@ Our websites are organized to support the customer lifecycle. Each phase is supp
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate land tax registers
 TOCTitle: (RUS) Calculate land tax registers
 ms:assetid: 30800d8e-f1db-479c-9830-7874ba3a69f1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665251(v=AX.60)
 ms:contentKeyID: 49387340
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate land tax registers 
@@ -64,5 +66,5 @@ To create a land tax declaration, these registers must be calculated and approve
 [(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

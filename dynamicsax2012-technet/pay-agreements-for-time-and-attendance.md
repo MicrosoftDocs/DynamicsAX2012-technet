@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pay agreements for time and attendance
 TOCTitle: Pay agreements for time and attendance
 ms:assetid: b90956c0-8dfb-4c12-a3d0-03f14babcfe1
@@ -12,6 +12,8 @@ f1_keywords:
 - salary
 - agreeents
 - attendance
+audience: Application User
+ms.search.region: Global
 ---
 
 # Pay agreements for time and attendance 
@@ -28,5 +30,5 @@ The topics in this node provide information about how to set up pay agreements, 
 [Example of a count unit for time and attendance](example-of-a-count-unit-for-time-and-attendance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

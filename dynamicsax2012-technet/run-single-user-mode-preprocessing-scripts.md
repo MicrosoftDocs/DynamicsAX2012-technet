@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run single-user mode preprocessing scripts
 TOCTitle: Run single-user mode preprocessing scripts
 ms:assetid: 70619580-7926-45af-92c9-d91bd3c26b6d
@@ -48,5 +48,5 @@ Complete the following steps to run the single-user mode preprocessing scripts a
 [Upgrade preprocessing scripts (form)](https://technet.microsoft.com/en-us/library/hh202100\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

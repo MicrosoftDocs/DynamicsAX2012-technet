@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up recycled products in formulas
 TOCTitle: Set up recycled products in formulas
 ms:assetid: 6f96ebde-62bd-4151-bdbf-1df86c174f8e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn762134(v=AX.60)
 ms:contentKeyID: 63378891
 ms.date: 11/13/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up recycled products in formulas 
@@ -130,5 +132,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Setting up and maintaining standard costs](setting-up-and-maintaining-standard-costs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

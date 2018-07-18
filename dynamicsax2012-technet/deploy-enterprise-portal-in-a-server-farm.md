@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy Enterprise Portal in a server farm
 TOCTitle: Deploy Enterprise Portal in a server farm
 ms:assetid: c374b4f0-eb2e-419d-90c8-924aec326db7
@@ -20,5 +20,5 @@ The topics in this section provide information about how to install Enterprise P
 [Install Enterprise Portal in a Web farm](install-enterprise-portal-in-a-web-farm.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure globally unique staff identifiers
 TOCTitle: Configure globally unique staff identifiers
 ms:assetid: c64f1acc-bff8-4e69-a27f-6d76e1b4b68e
@@ -36,5 +36,5 @@ Use the following procedure to map old staff identifiers to new identifiers.
 5.  Click **Ready for upgrade**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

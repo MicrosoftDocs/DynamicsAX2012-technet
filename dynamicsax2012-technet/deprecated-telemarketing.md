@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Telemarketing'
 TOCTitle: Telemarketing
 ms:assetid: 50069021-e088-4ac1-9956-01c358494b39
@@ -53,5 +53,5 @@ In Microsoft Dynamics AX 2009, users can use the Telemarketing feature to create
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

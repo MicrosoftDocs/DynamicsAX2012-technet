@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sales agreements and sales release orders
 TOCTitle: Sales agreements and sales release orders
 ms:assetid: 4f848768-dd23-4f65-b9d3-260935ad4acc
@@ -13,6 +13,8 @@ f1_keywords:
 - sales release order
 - sales agreements
 - sales release orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Sales agreements and sales release orders 
@@ -37,5 +39,5 @@ The following topics provide information about:
 [Validate and post trade agreement journal lines](validate-and-post-trade-agreement-journal-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

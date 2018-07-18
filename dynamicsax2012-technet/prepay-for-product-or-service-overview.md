@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prepay for product or service overview
 TOCTitle: Prepay for product or service overview
 ms:assetid: 794f8d31-ce11-4b99-8e84-8fb63d6c1bf7
@@ -11,6 +11,8 @@ f1_keywords:
 - services
 - products
 - product
+audience: Application User
+ms.search.region: Global
 ---
 
 # Prepay for product or service overview 
@@ -109,5 +111,5 @@ The following table lists the forms that support the prepay for product or servi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

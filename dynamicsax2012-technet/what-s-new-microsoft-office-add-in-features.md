@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Microsoft Office Add-in features"
 TOCTitle: Microsoft Office Add-in features
 ms:assetid: 30d87b6c-448c-4523-b020-63614776816d
@@ -115,5 +115,5 @@ For more information, see [Integrating Microsoft Dynamics AX with Microsoft Offi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up a withholding tax settlement period
 TOCTitle: (BRA) Set up a withholding tax settlement period
 ms:assetid: 1e487a44-1541-47f3-bb99-a5ae35fed615
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126101(v=AX.60)
 ms:contentKeyID: 52075239
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up a withholding tax settlement period 
@@ -58,5 +60,5 @@ When you collect withholding taxes, you must settle and pay taxes at regular int
 [(BRA) Calculate withholding tax for the purchase of services](bra-calculate-withholding-tax-for-the-purchase-of-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage reports on Role Center pages
 TOCTitle: Manage reports on Role Center pages
 ms:assetid: 9aaf4dcf-67ad-4797-a1bf-f9f63000dcf0
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 Users can view reports and other business intelligence information about their Role Center pages after you have set up Microsoft Dynamics AX to work with Microsoft SQL Server Reporting Services and Microsoft SQL Server Analysis Services. For more information, see [Reporting in Microsoft Dynamics AX](reporting-in-microsoft-dynamics-ax.md) and [Analytics in Microsoft Dynamics AX](analytics-in-microsoft-dynamics-ax.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

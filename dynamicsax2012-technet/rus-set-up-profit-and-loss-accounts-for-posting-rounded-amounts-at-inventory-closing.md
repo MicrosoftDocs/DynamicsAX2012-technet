@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up profit and loss accounts for posting rounded amounts at inventory closing
 TOCTitle: (RUS) Set up profit and loss accounts for posting rounded amounts at inventory closing
 ms:assetid: eaa3f967-104e-41eb-9abc-e8353d9ecab5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126131(v=AX.60)
 ms:contentKeyID: 52075454
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up profit and loss accounts for posting rounded amounts at inventory closing 
@@ -80,5 +82,5 @@ You can set up a ledger account to post rounding differences that occur during i
 [(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733200\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

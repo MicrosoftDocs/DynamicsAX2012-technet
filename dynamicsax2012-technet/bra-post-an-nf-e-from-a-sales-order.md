@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Post an NF-e from a sales order
 TOCTitle: (BRA) Post an NF-e from a sales order
 ms:assetid: ec08de0b-5b9d-4f9a-bbfb-692a98b29248
@@ -11,6 +11,8 @@ f1_keywords:
 - Brazil
 - Post electronic fiscal document
 - Post NF-e
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Post an NF-e from a sales order 
@@ -83,5 +85,5 @@ Use the following procedure to post an NF-e from a sales order.
 [(BRA) About NF-e schemas and processes](bra-about-nf-e-schemas-and-processes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

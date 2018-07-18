@@ -1,4 +1,4 @@
-﻿---
+---
 title: View budget activities for apportionments (Public Sector)
 TOCTitle: View budget activities for apportionments (Public Sector)
 ms:assetid: 50383c7d-bfe9-4a67-a6f6-77fb9534aa99
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - apportionments and budget control
 - budget control and apportionments
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # View budget activities for apportionments (Public Sector) 
@@ -45,5 +47,5 @@ You can track and audit budget activities for apportionments by viewing budget r
 For more information, see [View the status and history of budget registry entries](view-the-status-and-history-of-budget-registry-entries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

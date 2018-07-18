@@ -1,4 +1,4 @@
-﻿---
+---
 title: Compliance management license code (ComplianceMgmt)
 TOCTitle: Compliance management license code (ComplianceMgmt)
 ms:assetid: df24c50c-fd00-4500-b352-0f576857115b
@@ -58,5 +58,5 @@ The following table provides more information about this license code:
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

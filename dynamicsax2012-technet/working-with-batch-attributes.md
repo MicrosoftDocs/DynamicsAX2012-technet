@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with batch attributes
 TOCTitle: Working with batch attributes
 ms:assetid: 3e4b461f-148a-4859-90b6-f81e3770a5bf
@@ -13,6 +13,8 @@ f1_keywords:
 - batch attribute
 - process industries
 - batches
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with batch attributes 
@@ -41,5 +43,5 @@ The topics in this section provide information about how to work with batch attr
 [Update inventory batch attributes from a quality order](update-inventory-batch-attributes-from-a-quality-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

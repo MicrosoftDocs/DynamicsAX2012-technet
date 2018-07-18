@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Customer payments and settlements'
 TOCTitle: 'Key tasks: Customer payments and settlements'
 ms:assetid: 18919f74-3ef6-4911-952b-549b206ae7ea
@@ -12,6 +12,8 @@ f1_keywords:
 - payment
 - accounts receivable
 - pay
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Customer payments and settlements 
@@ -168,5 +170,5 @@ Back to top
 [Settle transactions with payments](settle-transactions-with-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

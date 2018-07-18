@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Ledger statement report (LedgerStatement)
 TOCTitle: (CZE) Ledger statement report (LedgerStatement)
 ms:assetid: a07e7b0a-4dc8-436d-8ff7-de27287ef895
@@ -10,6 +10,8 @@ f1_keywords:
 - ledger statement
 - ledger statement report
 - SSRS_Reports.Reports.LedgerStatement
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Ledger statement report (LedgerStatement) 
@@ -133,5 +135,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(CZE) Generate the ledger statement report](cze-generate-the-ledger-statement-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

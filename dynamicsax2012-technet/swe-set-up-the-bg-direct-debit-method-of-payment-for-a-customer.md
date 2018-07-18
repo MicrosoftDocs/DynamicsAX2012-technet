@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Set up the BG direct debit method of payment for a customer
 TOCTitle: (SWE) Set up the BG direct debit method of payment for a customer
 ms:assetid: 8c2dbb45-dc52-4dd3-a5f6-3b31fa8e8036
@@ -10,6 +10,8 @@ f1_keywords:
 - Sweden
 - Bankgirot
 - direct debit
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Set up the BG direct debit method of payment for a customer 
@@ -44,5 +46,5 @@ Use the **Customers** form to set up a Bank giro (BG) direct debit method of pay
 [(SWE) Set up the method of payment for BG direct debit payments](swe-set-up-the-method-of-payment-for-bg-direct-debit-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

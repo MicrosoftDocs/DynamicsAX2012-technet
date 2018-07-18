@@ -1,4 +1,4 @@
-﻿---
+---
 title: Implementing and Extending the Organization Model (White paper)
 TOCTitle: Implementing and Extending the Organization Model
 ms:assetid: b6b170f2-0463-4764-9135-2cf6db64fe27
@@ -18,5 +18,5 @@ Microsoft Dynamics AX 2012 introduces new types of organizations, such as legal 
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213125).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up online stores
 TOCTitle: Setting up online stores
 ms:assetid: 12956443-ba00-497d-bc56-d73fef957dd5
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - online store
 - online stores
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up online stores 
@@ -23,5 +25,5 @@ The topics in this section provide information about how to set up retail online
 [Set up an online store](set-up-an-online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

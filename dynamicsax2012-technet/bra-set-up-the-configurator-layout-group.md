@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up the configurator layout group
 TOCTitle: (BRA) Set up the configurator layout group
 ms:assetid: 4184d0b2-aa20-4b85-8be0-1c6b7158f8be
@@ -13,6 +13,8 @@ f1_keywords:
 - layout group
 - Set up configurator
 - Set up layout group
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up the configurator layout group 
@@ -269,5 +271,5 @@ Use the **Configurator layout groups** form to set up a configurator layout grou
 [(BRA) Edit layout (form)](https://technet.microsoft.com/en-us/library/jj853382\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a worker
 TOCTitle: (RUS) Create a worker
 ms:assetid: d9222dce-5d8c-41d4-81b4-87e964fde960
@@ -24,6 +24,8 @@ f1_keywords:
 - MsDynAx060.Forms.GlobalAddressBookListPage
 - MsDynAx060.Forms.RHRMWorkerListPage
 - MsDynAx060.Forms.RHRMWorkerNewWorker
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a worker 
@@ -230,5 +232,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

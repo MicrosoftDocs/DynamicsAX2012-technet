@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) About EPCG incentive schemes for export orders
 TOCTitle: (IND) About EPCG incentive schemes for export orders
 ms:assetid: 9ec1afac-ac2f-411c-802e-ac172332c0b2
@@ -12,6 +12,8 @@ f1_keywords:
 - export order
 - EPCG incentive scheme
 - Apply EPCG incentive scheme
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) About EPCG incentive schemes for export orders 
@@ -42,5 +44,5 @@ Before you can create an export sales order for an EPCG incentive scheme, you mu
 [(IND) Create an export order for an EPCG incentive scheme](ind-create-an-export-order-for-an-epcg-incentive-scheme.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

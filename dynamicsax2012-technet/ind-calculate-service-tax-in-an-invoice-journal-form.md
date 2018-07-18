@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate service tax in an Invoice journal form
 TOCTitle: (IND) Calculate service tax in an Invoice journal form
 ms:assetid: e8a6a871-4911-43e9-8be6-31641204d914
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.LedgerJournalTransVendInvoice
 - Forms.LedgerJournalTable
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate service tax in an Invoice journal form 
@@ -89,5 +91,5 @@ Use the **Invoice journal** form to calculate service tax for vendors. You can s
 [(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Create electronic documents
 TOCTitle: (JPN) Create electronic documents
 ms:assetid: 8d64ceb9-b204-47b7-899a-d03086baf478
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711089(v=AX.60)
 ms:contentKeyID: 49386498
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Create electronic documents 
@@ -20,5 +22,5 @@ The following topics provide information about creating electronic documents.
 [(JPN) Create a calculation worksheet and print the consumption tax reports](jpn-create-a-calculation-worksheet-and-print-the-consumption-tax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

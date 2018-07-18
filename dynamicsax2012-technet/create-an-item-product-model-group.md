@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an Item product model group
 TOCTitle: Create an Item product model group
 ms:assetid: 178c3fa5-6e08-4d77-8040-272515b8958f
@@ -10,6 +10,8 @@ f1_keywords:
 - item group creation
 - item groups
 - item product model group
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an Item product model group 
@@ -44,5 +46,5 @@ You must create an item product model group and add items to it before you can s
 [Default values (form)](https://technet.microsoft.com/en-us/library/aa583319\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

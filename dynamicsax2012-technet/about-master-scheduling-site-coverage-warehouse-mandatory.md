@@ -1,4 +1,4 @@
-﻿---
+---
 title: About master scheduling - site coverage, warehouse mandatory
 TOCTitle: About master scheduling - site coverage, warehouse mandatory
 ms:assetid: 884c2ca2-39ea-43f2-8b8b-8fd899407c56
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242847(v=AX.60)
 ms:contentKeyID: 36997729
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About master scheduling - site coverage, warehouse mandatory 
@@ -50,5 +52,5 @@ The following graphic illustrates how the master scheduling proceeds. The parame
 [About master scheduling - site and warehouse coverage, warehouse not mandatory](about-master-scheduling-site-and-warehouse-coverage-warehouse-not-mandatory.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

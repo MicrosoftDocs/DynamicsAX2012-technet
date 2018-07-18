@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About referenced processes
 TOCTitle: (BRA) About referenced processes
 ms:assetid: f663ca76-8cba-4937-831d-8a2a43e1ff01
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - BR - 00020
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About referenced processes 
@@ -32,5 +34,5 @@ You can perform the following tasks to set up and include referenced process inf
 [(BRA) Fiscal document texts (form)](https://technet.microsoft.com/en-us/library/jj923164\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

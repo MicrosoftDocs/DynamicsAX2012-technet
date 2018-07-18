@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up reservation hierarchies
 TOCTitle: Set up reservation hierarchies
 ms:assetid: b731eb87-e7d5-4c7d-a83d-dd7522d0a8af
@@ -11,6 +11,8 @@ f1_keywords:
 - Forms.WHSReservationHierarchy
 - reservation hierarchies
 - reservation hierarchy
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up reservation hierarchies 
@@ -224,5 +226,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

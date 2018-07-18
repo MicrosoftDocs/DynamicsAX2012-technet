@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up issue and usage rates for items
 TOCTitle: (RUS) Set up issue and usage rates for items
 ms:assetid: ea9cf8fb-dfc8-4f93-ae15-47c16bfe43f9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853243(v=AX.60)
 ms:contentKeyID: 50396523
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up issue and usage rates for items 
@@ -56,5 +58,5 @@ Use the **Issue and usage rates** form to define the types of issue and usage ra
 [(RUS) Issue and usage rates (form)](https://technet.microsoft.com/en-us/library/jj853215\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

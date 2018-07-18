@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transfer bank funds overview
 TOCTitle: Transfer bank funds overview
 ms:assetid: 4b43dde5-ef69-4883-bd60-cefd54ed1232
@@ -12,6 +12,8 @@ f1_keywords:
 - bank fund transfer
 - bank funds
 - bank transfer
+audience: Application User
+ms.search.region: Global
 ---
 
 # Transfer bank funds overview 
@@ -114,5 +116,5 @@ The following table lists the forms that support the transfer bank funds busines
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

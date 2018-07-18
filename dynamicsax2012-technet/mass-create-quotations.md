@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mass create quotations
 TOCTitle: Mass create quotations
 ms:assetid: e764fc5e-3529-49d6-b336-d23db4c6e897
@@ -13,6 +13,8 @@ f1_keywords:
 - quotation
 - quote
 - mass
+audience: Application User
+ms.search.region: Global
 ---
 
 # Mass create quotations 
@@ -53,5 +55,5 @@ All mass created quotations are based on your customer or prospect contacts.
 [Create template groups](create-template-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

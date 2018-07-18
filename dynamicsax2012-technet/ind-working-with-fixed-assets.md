@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Working with Fixed assets
 TOCTitle: (IND) Working with Fixed assets
 ms:assetid: d2200f97-5db5-4001-8881-f982e4b2cb69
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664904(v=AX.60)
 ms:contentKeyID: 49386232
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Working with Fixed assets 
@@ -22,5 +24,5 @@ This section provides information about working with the Fixed assets business p
 [(IND) Capitalize assets overview](ind-capitalize-assets-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

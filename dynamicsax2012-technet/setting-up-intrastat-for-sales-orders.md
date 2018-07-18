@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up Intrastat for sales orders
 TOCTitle: Setting up Intrastat for sales orders
 ms:assetid: b67e6faf-d6c4-4245-84c6-470ec2d53f16
@@ -12,6 +12,8 @@ f1_keywords:
 - set up
 - sales order
 - Intrastat
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up Intrastat for sales orders 
@@ -45,5 +47,5 @@ This section contains information about Intrastat (trade between European Union 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

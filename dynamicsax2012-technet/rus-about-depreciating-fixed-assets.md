@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About depreciating fixed assets
 TOCTitle: (RUS) About depreciating fixed assets
 ms:assetid: 42811470-b9c6-42de-8ab8-c7b8a9c2f7ea
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923410(v=AX.60)
 ms:contentKeyID: 52075369
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About depreciating fixed assets 
@@ -28,5 +30,5 @@ Depreciation is not calculated during major repairs or temporary deactivation. D
 [(RUS) Calculate a bonus depreciation](rus-calculate-a-bonus-depreciation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

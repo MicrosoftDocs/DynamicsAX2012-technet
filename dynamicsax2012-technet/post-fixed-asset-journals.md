@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post fixed asset journals
 TOCTitle: Post fixed asset journals
 ms:assetid: 900944e4-0335-4af6-97aa-a01b392002bc
@@ -15,6 +15,8 @@ f1_keywords:
 - assets
 - asset journal
 - asset journals
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post fixed asset journals 
@@ -150,5 +152,5 @@ Create journal lines for the disposal of scrap assets (assets that are no longer
 [About financial reason codes](about-financial-reason-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

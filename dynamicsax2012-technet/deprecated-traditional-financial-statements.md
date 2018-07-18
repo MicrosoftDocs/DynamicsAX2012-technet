@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Traditional financial statements'
 TOCTitle: Traditional financial statements
 ms:assetid: 47c7513a-2410-4b9b-9539-c473c5435885
@@ -58,5 +58,5 @@ Overview
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

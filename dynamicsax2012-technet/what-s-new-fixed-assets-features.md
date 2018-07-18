@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Fixed assets features"
 TOCTitle: Fixed assets features
 ms:assetid: 74ee3d99-ba02-4483-b50f-fe5c109e0f69
@@ -89,5 +89,5 @@ We have changed and added functionality in the [Fixed assets](fixed-assets.md) a
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

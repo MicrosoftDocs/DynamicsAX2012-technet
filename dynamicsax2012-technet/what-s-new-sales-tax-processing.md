@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Sales tax processing"
 TOCTitle: Sales tax processing
 ms:assetid: d25a2392-a067-4109-a6c8-c9b286f50c09
@@ -287,5 +287,5 @@ Taxes have changed considerably since AX 2009. AX 2012 includes changes to the f
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

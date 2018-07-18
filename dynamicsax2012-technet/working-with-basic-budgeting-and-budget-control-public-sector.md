@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with basic budgeting and budget control (Public sector)
 TOCTitle: Working with basic budgeting and budget control (Public sector)
 ms:assetid: e888c6fa-e753-4645-a3a1-87d80945adef
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208598(v=AX.60)
 ms:contentKeyID: 36056385
 ms.date: 03/25/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Working with basic budgeting and budget control (Public sector) 
@@ -24,5 +26,5 @@ The following topics provide information about working with basic budgeting and 
 [Working with general budget reservations (Public sector)](working-with-general-budget-reservations-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

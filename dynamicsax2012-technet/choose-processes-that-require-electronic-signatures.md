@@ -1,4 +1,4 @@
-﻿---
+---
 title: Choose processes that require electronic signatures
 TOCTitle: Choose processes that require electronic signatures
 ms:assetid: 3b807a83-69db-49d6-bff1-2ac6715be360
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - compliance
 - e-signatures
+audience: Application User
+ms.search.region: Global
 ---
 
 # Choose processes that require electronic signatures 
@@ -160,5 +162,5 @@ Use this procedure to create a requirement for electronic signatures for a proce
 10. Restart any Microsoft Dynamics AX clients that were open when the new requirement was set up. If a client has not been restarted, and the user attempts to change a field that now requires a signature, the user will get an error.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

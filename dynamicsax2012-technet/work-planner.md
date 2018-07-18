@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work planner
 TOCTitle: Work planner
 ms:assetid: 24de2968-0555-4bff-9363-ba117a2fee0c
@@ -12,6 +12,8 @@ f1_keywords:
 - planning
 - work planner
 - time profile
+audience: Application User
+ms.search.region: Global
 ---
 
 # Work planner 
@@ -26,5 +28,5 @@ The topics in this section provide information about how to use the work planner
 [Apply profiles using work planner](apply-profiles-using-work-planner.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

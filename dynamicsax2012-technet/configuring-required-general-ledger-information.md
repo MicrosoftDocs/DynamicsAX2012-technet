@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring required General ledger information
 TOCTitle: Configuring required General ledger information
 ms:assetid: 254efdfd-aa0d-4b0b-bb08-7411130e1c8d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - configuration
 - general ledger
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring required General ledger information 
@@ -27,5 +29,5 @@ The following topics provide information about configuring required General ledg
 [Example: Balanced accounting entry for interunit accounting](example-balanced-accounting-entry-for-interunit-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

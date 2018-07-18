@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up a number sequence for purchase product receipts by warehouse
 TOCTitle: (POL) Set up a number sequence for purchase product receipts by warehouse
 ms:assetid: e866955a-5e01-4631-b0f2-1ee88954ea0c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711321(v=AX.60)
 ms:contentKeyID: 49387140
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up a number sequence for purchase product receipts by warehouse 
@@ -50,5 +52,5 @@ You can set up a number sequence for purchase product receipts by warehouse in t
 [Purchase posting (form)](https://technet.microsoft.com/en-us/library/aa587152\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

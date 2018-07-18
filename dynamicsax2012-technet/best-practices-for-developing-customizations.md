@@ -1,4 +1,4 @@
-﻿---
+---
 title: Best practices for developing customizations
 TOCTitle: Best practices for developing customizations
 ms:assetid: ea31307a-c107-432a-8bc3-f28b2f934547
@@ -23,5 +23,5 @@ Download the paper from InformationSource: [Best practices for developing custom
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

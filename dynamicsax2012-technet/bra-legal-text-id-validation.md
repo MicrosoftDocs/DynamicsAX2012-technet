@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Legal text ID validation
 TOCTitle: (BRA) Legal text ID validation
 ms:assetid: ea46f1fc-61df-4e29-921c-6fd7c3f78488
@@ -42,5 +42,5 @@ Use the following procedure to upgrade legal texts to Microsoft Dynamics AX 2012
 [(BRA) Legal text ID validation (form)](https://technet.microsoft.com/en-us/library/jj713622\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

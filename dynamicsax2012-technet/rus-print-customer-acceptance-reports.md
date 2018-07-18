@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Print customer acceptance reports
 TOCTitle: (RUS) Print customer acceptance reports
 ms:assetid: 13d2705e-4134-4cc3-bddd-7b1daa20aaed
@@ -11,6 +11,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - customer acceptance
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Print customer acceptance reports 
@@ -53,5 +55,5 @@ Use this procedure to print customer acceptance reports.
 [Print customer invoice (form)](https://technet.microsoft.com/en-us/library/hh242517\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

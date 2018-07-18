@@ -1,4 +1,4 @@
-﻿---
+---
 title: " product receipt"
 TOCTitle: " product receipt"
 ms:assetid: DynamicsAXGlossary.1354395
@@ -25,5 +25,5 @@ A source document that documents the receipt of products ordered, the receipt of
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

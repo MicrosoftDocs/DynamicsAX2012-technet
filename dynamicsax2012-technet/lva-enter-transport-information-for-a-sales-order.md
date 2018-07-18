@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Enter transport information for a sales order
 TOCTitle: (LVA) Enter transport information for a sales order
 ms:assetid: a7f9f113-d41a-4b9a-b1f0-9c51e8d1b4c2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731047(v=AX.60)
 ms:contentKeyID: 49675288
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Enter transport information for a sales order 
@@ -60,5 +62,5 @@ In the **Sales order** form, you can enter additional information about the tran
 [(LVA) Transportation details (form)](https://technet.microsoft.com/en-us/library/jj731070\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

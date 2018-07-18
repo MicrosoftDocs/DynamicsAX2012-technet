@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up kanban rules
 TOCTitle: Setting up kanban rules
 ms:assetid: ab24d1b2-f666-4595-aa54-f419a3a61fbc
@@ -13,6 +13,8 @@ f1_keywords:
 - kanban rules
 - configure kanban rules
 - replenishment strategies
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up kanban rules 
@@ -27,5 +29,5 @@ The topics in this section provide conceptual and procedural information about k
 [Attach production instructions to kanban rules](attach-production-instructions-to-kanban-rules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

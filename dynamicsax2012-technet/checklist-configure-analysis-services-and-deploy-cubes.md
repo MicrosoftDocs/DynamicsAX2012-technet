@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Checklist: Configure Analysis Services and deploy cubes'
 TOCTitle: 'Checklist: Configure Analysis Services and deploy cubes'
 ms:assetid: adec63f7-107a-478d-96a6-3beeab12af58
@@ -75,5 +75,5 @@ To configure Microsoft SQL Server Analysis Services for use with Microsoft Dynam
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

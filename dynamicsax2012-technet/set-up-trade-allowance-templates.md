@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up trade allowance templates
 TOCTitle: Set up trade allowance templates
 ms:assetid: 454dbaa0-4cc1-4898-b6a7-e1f1283daa05
@@ -8,6 +8,8 @@ ms.date: 06/10/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.TAMTemplateListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up trade allowance templates 
@@ -102,5 +104,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Set up trade allowance funds](set-up-trade-allowance-funds.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

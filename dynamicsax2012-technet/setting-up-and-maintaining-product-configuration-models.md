@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining product configuration models
 TOCTitle: Setting up and maintaining product configuration models
 ms:assetid: c5971350-4212-4193-a91f-883a735d97f9
@@ -10,6 +10,8 @@ f1_keywords:
 - product configurator
 - constraint-based
 - setting up product configuration models
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining product configuration models 
@@ -100,5 +102,5 @@ This topic contains information about setting up and maintaining product configu
 [Constraint-based product configuration model details (form)](https://technet.microsoft.com/en-us/library/hh209626\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: RFP responses (Lifecycle Services, LCS)
 TOCTitle: RFP responses
 ms:assetid: 54408791-afbd-4fb7-9597-bce51b110d18
@@ -14,5 +14,5 @@ mtps_version: v=AX.60
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/rfp-responses-lifecycle-services-lcs/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

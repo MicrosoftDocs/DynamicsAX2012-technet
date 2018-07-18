@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Set up fiscal LIFO reporting groups
 TOCTitle: (ITA) Set up fiscal LIFO reporting groups
 ms:assetid: f5845043-bb55-4575-b3a9-518dd0da12df
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551647(v=AX.60)
 ms:contentKeyID: 36060001
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Set up fiscal LIFO reporting groups 
@@ -88,5 +90,5 @@ The fiscal LIFO calculation can be run for each item or for each group of items.
 [(ITA) About fiscal LIFO workflow](ita-about-fiscal-lifo-workflow.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

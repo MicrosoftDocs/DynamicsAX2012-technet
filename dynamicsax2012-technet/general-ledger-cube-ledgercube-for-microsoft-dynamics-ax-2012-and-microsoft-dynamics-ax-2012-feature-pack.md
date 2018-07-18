@@ -1,4 +1,4 @@
-﻿---
+---
 title: General ledger cube (LedgerCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: General ledger cube (LedgerCube)
 ms:assetid: 6f4656d7-84fe-49de-9234-e50ef10c7775
@@ -1406,5 +1406,5 @@ The General ledger cube can be accessed by users assigned to the following Micro
   - Treasurer
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

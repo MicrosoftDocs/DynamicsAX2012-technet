@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete a functional area in RapidStart Services
 TOCTitle: Delete a functional area in RapidStart Services
 ms:assetid: 1d6195cc-cfc5-45cf-af9d-7db7ad1bb834
@@ -43,5 +43,5 @@ If you no longer need a particular functional area for your configuration setup,
 [Copy a functional area in RapidStart Services](copy-a-functional-area-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

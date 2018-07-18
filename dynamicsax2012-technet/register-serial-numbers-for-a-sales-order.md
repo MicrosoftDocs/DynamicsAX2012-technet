@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register serial numbers for a sales order
 TOCTitle: Register serial numbers for a sales order
 ms:assetid: 282f5705-b1d3-43fd-a86a-58f030937448
@@ -16,6 +16,8 @@ f1_keywords:
 - sale
 - serial number
 - serial
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register serial numbers for a sales order 
@@ -183,5 +185,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [About registering serial numbers in the sales process](about-registering-serial-numbers-in-the-sales-process.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Resolve price totals invoice matching discrepancies
 TOCTitle: Resolve price totals invoice matching discrepancies
 ms:assetid: 53f18e61-f50d-4557-b121-5553e79e78b2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh292597(v=AX.60)
 ms:contentKeyID: 36655928
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Resolve price totals invoice matching discrepancies 
@@ -92,5 +94,5 @@ A price variance exists if the invoice price total differs from the purchase ord
 [Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

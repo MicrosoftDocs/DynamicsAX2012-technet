@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) VAT operation types for export transactions
 TOCTitle: (RUS) VAT operation types for export transactions
 ms:assetid: 81b10659-c750-420a-b795-8b77bd891234
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - VAT
 - operation type
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) VAT operation types for export transactions 
@@ -80,5 +82,5 @@ The following table describes the operation types.
 [(RUS) Create an export facture](rus-create-an-export-facture.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

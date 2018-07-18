@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key task: Set up absence information'
 TOCTitle: 'Key task: Set up absence information'
 ms:assetid: 2ad57f5f-78c0-41d3-88c4-1f6a55ddbb4f
@@ -12,6 +12,8 @@ f1_keywords:
 - employee
 - worker
 - implementing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key task: Set up absence information 
@@ -228,5 +230,5 @@ Back to top
 [Register absences](register-absences.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

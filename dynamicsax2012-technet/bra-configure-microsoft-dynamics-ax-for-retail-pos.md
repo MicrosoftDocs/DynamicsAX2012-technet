@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Configure Microsoft Dynamics AX for Retail POS
 TOCTitle: (BRA) Configure Microsoft Dynamics AX for Retail POS
 ms:assetid: 313ab46d-9208-4032-b674-01fb37d8305d
@@ -16,6 +16,8 @@ f1_keywords:
 - Forms.RetailTillLayout
 - Forms.RetailStoreTable
 - Forms.TmpFiscalReference_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Configure Microsoft Dynamics AX for Retail POS 
@@ -268,5 +270,5 @@ The fiscal receipt can be replaced by a fiscal document or an electronic fiscal 
 6.  In the **Fiscal printer number** field, enter the terminal number that is assigned to the printer.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

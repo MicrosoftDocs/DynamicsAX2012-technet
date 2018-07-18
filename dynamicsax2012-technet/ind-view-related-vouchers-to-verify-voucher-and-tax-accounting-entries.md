@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View related vouchers to verify voucher and tax accounting entries
 TOCTitle: (IND) View related vouchers to verify voucher and tax accounting entries
 ms:assetid: 503615c4-4040-40a8-8475-2dec3ba1f409
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664697(v=AX.60)
 ms:contentKeyID: 49385778
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View related vouchers to verify voucher and tax accounting entries 
@@ -68,5 +70,5 @@ You can process payments, receipts, and centralized payments for vendors and cus
 [(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

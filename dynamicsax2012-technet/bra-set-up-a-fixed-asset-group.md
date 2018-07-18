@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up a fixed asset group
 TOCTitle: (BRA) Set up a fixed asset group
 ms:assetid: b9d05a78-a854-4a7d-8f1c-718ba990f63c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.AssetGroup
 - MsDynAx060.Forms.AssetGroup
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up a fixed asset group 
@@ -122,5 +124,5 @@ Click **Fixed assets** \> **Setup** \> **Fixed asset groups**.
 [(BRA) Enter and post fiscal books adjustments, benefits, and incentives](bra-enter-and-post-fiscal-books-adjustments-benefits-and-incentives.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

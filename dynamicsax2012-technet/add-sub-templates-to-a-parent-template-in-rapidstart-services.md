@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add sub-templates to a parent template in RapidStart Services
 TOCTitle: Add sub-templates to a parent template in RapidStart Services
 ms:assetid: b64f5d25-8e7e-4476-b102-832abbd10218
@@ -51,5 +51,5 @@ You can now add functional areas or sub-templates at an additional child level t
 [Add a functional area to a template in RapidStart Services](add-a-functional-area-to-a-template-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

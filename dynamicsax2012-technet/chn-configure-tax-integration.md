@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Configure tax integration
 TOCTitle: (CHN) Configure tax integration
 ms:assetid: 76f2f5f7-741b-477c-b5fe-1532001ffec1
@@ -15,6 +15,8 @@ f1_keywords:
 - Golden tax system
 - tax integration
 - MsDynAx060.Forms.TaxProfileTable_CN
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Configure tax integration 
@@ -127,5 +129,5 @@ To set up a tax integration profile, follow these steps:
 [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

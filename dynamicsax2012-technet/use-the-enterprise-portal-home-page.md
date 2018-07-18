@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use the Enterprise Portal Home page
 TOCTitle: Use the Enterprise Portal Home page
 ms:assetid: 8ce2c83a-2151-4835-8542-0f6d414c34d7
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - defaultRetail
+audience: Application User
+ms.search.region: Global
 ---
 
 # Use the Enterprise Portal Home page 
@@ -90,5 +92,5 @@ You can use reports to monitor sales trends, inventory, pricing, and employee pe
       - **Performance by retail category** – Select **Today**, **Week to date**, **Month to date**, or **Year to date**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

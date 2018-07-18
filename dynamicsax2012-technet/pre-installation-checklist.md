@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pre-installation checklist
 TOCTitle: Pre-installation checklist
 ms:assetid: 48cb5292-37da-4b47-b91a-0bf7d5c9037a
@@ -70,5 +70,5 @@ Before you install Microsoft Dynamics AX, you must plan the implementation and c
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

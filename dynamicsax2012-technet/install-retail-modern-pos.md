@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Retail Modern POS
 TOCTitle: Install Retail Modern POS
 ms:assetid: d1f8a90d-30c8-4f58-81b5-9ff958f68fe5
@@ -118,5 +118,5 @@ You can uninstall Retail Modern POS either by running AxSetup.exe and selecting 
 [Retail Modern Point of Sale](retail-modern-point-of-sale.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

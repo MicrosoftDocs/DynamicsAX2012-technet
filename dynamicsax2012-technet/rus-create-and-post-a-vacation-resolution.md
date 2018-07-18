@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a vacation resolution
 TOCTitle: (RUS) Create and post a vacation resolution
 ms:assetid: c5d1ac7f-f56e-4393-a40e-50ba40486ec0
@@ -16,6 +16,8 @@ f1_keywords:
 - MsDynAx060.Forms.RHRMOrderTable
 - MsDynAx060.Forms.RHRMOrderTrans
 - MsDynAx060.Forms.RHRMLeaveScheduleTable
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a vacation resolution 
@@ -398,5 +400,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up replenishment hierarchies
 TOCTitle: Set up replenishment hierarchies
 ms:assetid: c05fa76f-daa4-4128-9708-6eb7871a9cf0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597231(v=AX.60)
 ms:contentKeyID: 39519304
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up replenishment hierarchies 
@@ -48,5 +50,5 @@ You can set up replenishment hierarchies to group the stores that are replenishe
 [Replenish inventory overview](replenish-inventory-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Manage excise transactions for General ledger
 TOCTitle: (IND) Manage excise transactions for General ledger
 ms:assetid: a333e956-c70c-4804-98ae-cb70da4293a8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664753(v=AX.60)
 ms:contentKeyID: 49386084
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Manage excise transactions for General ledger 
@@ -28,5 +30,5 @@ The following topics provide information about central excise duty in General le
 [(IND) View transactions with excise tax](ind-view-transactions-with-excise-tax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

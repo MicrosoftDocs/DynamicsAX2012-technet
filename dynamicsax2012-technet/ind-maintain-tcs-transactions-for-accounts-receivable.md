@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Maintain TCS transactions for Accounts receivable
 TOCTitle: (IND) Maintain TCS transactions for Accounts receivable
 ms:assetid: 8dbb6d88-cafe-44c0-a2fe-030e2bb4e009
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678016(v=AX.60)
 ms:contentKeyID: 49385977
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Maintain TCS transactions for Accounts receivable 
@@ -30,5 +32,5 @@ The following topics provide information about calculating Tax Collected at Sour
 [(IND) Calculate TCS on invoices using the Free text invoice form](ind-calculate-tcs-on-invoices-using-the-free-text-invoice-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

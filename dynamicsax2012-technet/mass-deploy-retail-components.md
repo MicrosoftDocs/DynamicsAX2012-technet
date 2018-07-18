@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mass deploy retail components
 TOCTitle: Mass deploy retail components
 ms:assetid: da80e707-ad6b-44c8-b383-d8fafc73a512
@@ -26,5 +26,5 @@ The following deployment options are available:
 [Install retail components](install-retail-components.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

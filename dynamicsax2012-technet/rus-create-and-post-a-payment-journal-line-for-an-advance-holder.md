@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a payment journal line for an advance holder
 TOCTitle: (RUS) Create and post a payment journal line for an advance holder
 ms:assetid: a75dfb35-2aca-453d-b518-037f5d6abbb9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853214(v=AX.60)
 ms:contentKeyID: 50396495
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a payment journal line for an advance holder 
@@ -66,5 +68,5 @@ Use this procedure to create and post a payment journal for an advance holder.
 [(RUS) Set up advance adjustment parameters for advance holders](rus-set-up-advance-adjustment-parameters-for-advance-holders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

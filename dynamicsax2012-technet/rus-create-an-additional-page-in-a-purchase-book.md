@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create an additional page in a purchase book
 TOCTitle: (RUS) Create an additional page in a purchase book
 ms:assetid: 3fe92961-9f5e-4b18-a8dd-ed00ac87fff6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665315(v=AX.60)
 ms:contentKeyID: 49387404
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create an additional page in a purchase book 
@@ -103,5 +105,5 @@ The additional page contains information about purchase book totals at the end o
 [(RUS) Facture journal (form)](https://technet.microsoft.com/en-us/library/jj923567\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

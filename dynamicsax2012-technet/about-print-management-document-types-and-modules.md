@@ -1,4 +1,4 @@
-﻿---
+---
 title: About print management document types and modules
 TOCTitle: About print management document types and modules
 ms:assetid: 89c961e8-6e82-49d2-8b9e-2b89ccb1e076
@@ -13,6 +13,8 @@ f1_keywords:
 - management
 - printer
 - printers
+audience: Application User
+ms.search.region: Global
 ---
 
 # About print management document types and modules 
@@ -151,5 +153,5 @@ Print management support for documents in the **Print management setup** form is
 [Set up print management for a transaction](set-up-print-management-for-a-transaction.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

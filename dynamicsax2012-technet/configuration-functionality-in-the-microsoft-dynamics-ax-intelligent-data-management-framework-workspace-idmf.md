@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuration functionality in the Microsoft Dynamics AX Intelligent Data Management Framework workspace (IDMF)
 TOCTitle: Configuration functionality in the IDMF workspace
 ms:assetid: 4b14f8d0-7c9e-430b-9e4d-2fd392338b0d
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/configuration-functionality-in-the-microsoft-dynamics-ax-intelligent-data-management-framework-workspace-idmf/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

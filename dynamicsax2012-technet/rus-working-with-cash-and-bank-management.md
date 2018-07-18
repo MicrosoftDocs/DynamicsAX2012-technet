@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Working with Cash and bank management
 TOCTitle: (RUS) Working with Cash and bank management
 ms:assetid: 0a320479-3744-4293-8fc3-9230e46c34c3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711373(v=AX.60)
 ms:contentKeyID: 49387191
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Working with Cash and bank management 
@@ -22,5 +24,5 @@ This section provides information about working with the Cash and bank managemen
 [(RUS) Close bank overview](rus-close-bank-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

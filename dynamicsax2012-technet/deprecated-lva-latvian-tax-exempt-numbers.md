@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (LVA) Latvian tax exempt numbers'
 TOCTitle: (LVA) Latvian tax exempt numbers
 ms:assetid: 68ba77fe-1436-48c3-89d2-5ba9d35119ab
@@ -54,5 +54,5 @@ For Latvian installations, Microsoft Dynamics AX 2009 SP1 includes country-speci
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

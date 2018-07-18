@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate timesheet periods
 TOCTitle: Generate timesheet periods
 ms:assetid: 49a3aa2e-6d08-42bf-b299-67c28ccbdbcf
@@ -12,6 +12,8 @@ f1_keywords:
 - generate periods
 - period type
 - split period
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate timesheet periods 
@@ -72,5 +74,5 @@ Timesheet periods in Microsoft Dynamics AX are generated for each period type. W
 [Assign and maintain worker periods](assign-and-maintain-worker-periods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

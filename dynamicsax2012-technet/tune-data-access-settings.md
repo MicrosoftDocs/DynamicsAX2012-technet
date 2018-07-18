@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tune data access settings
 TOCTitle: Tune data access settings
 ms:assetid: f799430e-56b0-4b77-abdc-517820390dd2
@@ -180,5 +180,5 @@ For more information, see the following topics:
   - [Table Properties](https://technet.microsoft.com/en-us/library/aa871620\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

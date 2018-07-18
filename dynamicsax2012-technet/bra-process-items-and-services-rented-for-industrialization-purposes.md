@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Process items and services rented for industrialization purposes
 TOCTitle: (BRA) Process items and services rented for industrialization purposes
 ms:assetid: b17a1d53-a7ac-46f5-870a-59e9da4b29a3
@@ -12,6 +12,8 @@ f1_keywords:
 - process goods
 - hiring basis
 - industrialization
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Process items and services rented for industrialization purposes 
@@ -59,5 +61,5 @@ You can create a sales order to record the items that are rented for industriali
 [(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj663981\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

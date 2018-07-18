@@ -1,4 +1,4 @@
-﻿---
+---
 title: Point of Sale
 TOCTitle: Point of Sale
 ms:assetid: 2051b6fa-b8a1-4254-a115-a3480ad31143
@@ -443,5 +443,5 @@ The following tables describe the configuration tasks that you must complete in 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

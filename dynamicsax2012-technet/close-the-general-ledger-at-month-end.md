@@ -1,4 +1,4 @@
-﻿---
+---
 title: Close the general ledger at month end
 TOCTitle: Close the general ledger at month end
 ms:assetid: 7fa71a7e-5538-45bd-901e-bdb3f8680613
@@ -12,6 +12,8 @@ f1_keywords:
 - month-end
 - period closing
 - monthly closing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Close the general ledger at month end 
@@ -56,5 +58,5 @@ You can also complete the following procedures, and might legally be required to
 [Ledger calendar (form)](https://technet.microsoft.com/en-us/library/hh242506\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

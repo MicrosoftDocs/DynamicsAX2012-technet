@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up dispatch teams
 TOCTitle: Set up dispatch teams
 ms:assetid: 33123bdf-22f1-4805-ac25-a46a87462163
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231039(v=AX.60)
 ms:contentKeyID: 62629945
 ms.date: 07/29/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up dispatch teams 
@@ -42,5 +44,5 @@ This topic describes how to create a dispatch team. After you create a dispatch 
 [Key tasks: Workers](key-tasks-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

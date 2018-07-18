@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the ledger accounts to post receipt deferral transactions
 TOCTitle: (RUS) Set up the ledger accounts to post receipt deferral transactions
 ms:assetid: 35fe84db-8843-4c50-a4e2-fcece0a517bc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665276(v=AX.60)
 ms:contentKeyID: 49387366
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the ledger accounts to post receipt deferral transactions 
@@ -36,5 +38,5 @@ When you post receipt transactions for deferrals in the **Journal voucher** form
 [(RUS) Create a receipt transaction for the deferral](rus-create-a-receipt-transaction-for-the-deferral.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

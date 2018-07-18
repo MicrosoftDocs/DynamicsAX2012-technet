@@ -1,4 +1,4 @@
-﻿---
+---
 title: " item relation"
 TOCTitle: " item relation"
 ms:assetid: DynamicsAXGlossary.1370631
@@ -27,5 +27,5 @@ A reference to the item allocation group or the item and its product dimensions 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

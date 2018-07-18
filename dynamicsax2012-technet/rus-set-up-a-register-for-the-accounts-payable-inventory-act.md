@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for the accounts payable inventory act
 TOCTitle: (RUS) Set up a register for the accounts payable inventory act
 ms:assetid: e8d62bf4-e7e0-4a52-8a14-970b475679aa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711732(v=AX.60)
 ms:contentKeyID: 49388055
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for the accounts payable inventory act 
@@ -66,5 +68,5 @@ The register entries reflect all of the taxpayer's accounts payable transactions
 [(RUS) Calculate the accounts payable movement register](rus-calculate-the-accounts-payable-movement-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

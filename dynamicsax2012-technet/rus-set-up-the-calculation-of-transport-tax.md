@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the calculation of transport tax
 TOCTitle: (RUS) Set up the calculation of transport tax
 ms:assetid: 3e62ebbe-9a62-4d17-903d-e54062b68568
@@ -10,6 +10,8 @@ f1_keywords:
 - calculation
 - Russia
 - transport tax
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the calculation of transport tax 
@@ -128,5 +130,5 @@ You must set up the transport tax parameters in **General ledger** and **Fixed a
 [(RUS) Tax value depending on the FA life-time (form)](https://technet.microsoft.com/en-us/library/jj839679\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

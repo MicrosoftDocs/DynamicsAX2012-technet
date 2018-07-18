@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post a customer invoice for a sales order
 TOCTitle: (RUS) Post a customer invoice for a sales order
 ms:assetid: 2aa35754-3433-4923-be6c-52ee16efbd8e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853163(v=AX.60)
 ms:contentKeyID: 50396444
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post a customer invoice for a sales order 
@@ -38,5 +40,5 @@ You can generate and post a customer invoice for a sales order by using the **Po
 [(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733289\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

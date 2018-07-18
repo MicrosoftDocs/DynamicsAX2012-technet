@@ -1,4 +1,4 @@
-﻿---
+---
 title: Managing vendor price information
 TOCTitle: Managing vendor price information
 ms:assetid: 2f955849-ec99-4f60-8609-d4d7a9524abb
@@ -12,6 +12,8 @@ f1_keywords:
 - purchase price agreement
 - purchase prices
 - vendor agreements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Managing vendor price information 
@@ -24,5 +26,5 @@ This section contains the following topics:
 [View vendor price agreements](view-vendor-price-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

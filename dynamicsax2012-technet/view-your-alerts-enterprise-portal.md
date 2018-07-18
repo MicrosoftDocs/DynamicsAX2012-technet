@@ -1,4 +1,4 @@
-﻿---
+---
 title: View your alerts (Enterprise Portal)
 TOCTitle: View your alerts
 ms:assetid: dd863e3d-775c-438d-b7a4-829ff1ba4331
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPEventAlertInfo
 - EPEventAlertList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View your alerts (Enterprise Portal) 
@@ -29,5 +31,5 @@ Alerts are displayed in the **Work list** Web part in Enterprise Portal. Select 
 [Manage and use work lists (Enterprise Portal)](manage-and-use-work-lists-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

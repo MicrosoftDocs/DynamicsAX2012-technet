@@ -1,4 +1,4 @@
-﻿---
+---
 title: The architecture of the Microsoft Dynamics ERP RapidStart Connector
 TOCTitle: The architecture of the Microsoft Dynamics ERP RapidStart Connector
 ms:assetid: 64656e31-00e5-4d3e-a6d0-32d3f796ec69
@@ -83,5 +83,5 @@ If you have installed Microsoft Dynamics AX 2012 Feature Pack and Microsoft Dyna
 Optional: You can load the configuration data from Microsoft Dynamics ERP RapidStart Services into Microsoft Dynamics AX 2012 by using the Data Import/Export Framework. The Data Import/Export Framework is available from Microsoft Dynamics AX InformationSource. You can access InformationSource by using the same credentials that you use for PartnerSource and CustomerSource.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

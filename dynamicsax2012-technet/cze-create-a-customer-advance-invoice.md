@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Create a customer advance invoice
 TOCTitle: (CZE) Create a customer advance invoice
 ms:assetid: 223099c3-0e43-4c1c-9583-794b464111fe
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677482(v=AX.60)
 ms:contentKeyID: 49384784
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Create a customer advance invoice 
@@ -48,5 +50,5 @@ According to Czech legislation, companies must record value-added tax (VAT) on p
 [(CZE) Payment proposal from advance sales invoice](cze-payment-proposal-from-advance-sales-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

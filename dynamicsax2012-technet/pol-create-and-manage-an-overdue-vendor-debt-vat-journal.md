@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Create and manage an overdue vendor debt VAT journal
 TOCTitle: (POL) Create and manage an overdue vendor debt VAT journal
 ms:assetid: 70e804fd-cf9d-4823-8e45-c7174116c79f
@@ -12,6 +12,8 @@ f1_keywords:
 - Overdue payments
 - overdue vendor debt
 - Forms.VendOverdueVATJournalTable_W
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Create and manage an overdue vendor debt VAT journal 
@@ -207,5 +209,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

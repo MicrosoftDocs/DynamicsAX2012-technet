@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up store locator groups (Retail essentials)
 TOCTitle: Set up store locator groups (Retail essentials)
 ms:assetid: f3f710cf-d996-4d16-b647-fb79b26eefb9
@@ -87,5 +87,5 @@ If an employee in store 1 searches to see whether a product is available at a lo
 [Set up a retail store (Retail essentials)](set-up-a-retail-store-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

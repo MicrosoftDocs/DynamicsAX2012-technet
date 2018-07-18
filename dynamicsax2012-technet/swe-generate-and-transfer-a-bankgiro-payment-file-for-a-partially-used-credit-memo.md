@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Generate and transfer a Bankgiro payment file for a partially used credit memo
 TOCTitle: (SWE) Generate and transfer a Bankgiro payment file for a partially used credit memo
 ms:assetid: 69a4c2e3-151d-4178-99df-122d829a55d7
@@ -10,6 +10,8 @@ f1_keywords:
 - Sweden
 - Bankgirot
 - credit memo
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Generate and transfer a Bankgiro payment file for a partially used credit memo 
@@ -74,5 +76,5 @@ Use this procedure to generate and transfer a bank giro payment file.
 [(SWE) Import and post a payment return file for a partially used credit memo](swe-import-and-post-a-payment-return-file-for-a-partially-used-credit-memo.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

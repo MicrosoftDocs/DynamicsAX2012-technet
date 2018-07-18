@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NLD) Set up electronic tax error messages
 TOCTitle: (NLD) Set up electronic tax error messages
 ms:assetid: ab8d020a-2375-4924-b4aa-010100a56255
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243093(v=AX.60)
 ms:contentKeyID: 36058912
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Netherlands
 ---
 
 # (NLD) Set up electronic tax error messages 
@@ -30,5 +32,5 @@ Use the **Electronic tax error messages** form to set up the possible error mess
 [(NLD) Electronic tax error messages (form)](https://technet.microsoft.com/en-us/library/aa556527\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Draw customer payments by using SEPA direct debits
 TOCTitle: Draw customer payments by using SEPA direct debits
 ms:assetid: 16f51872-9f85-41b9-b263-89207c5bd088
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268412(v=AX.60)
 ms:contentKeyID: 54916950
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Draw customer payments by using SEPA direct debits 
@@ -30,5 +32,5 @@ The topics in this section explain how to set up and work with Single Euro Payme
 [Create payments for customers who have direct debit mandates](create-payments-for-customers-who-have-direct-debit-mandates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up billing rules for project contracts
 TOCTitle: Set up billing rules for project contracts
 ms:assetid: ea36ddc5-14e7-4e3a-8055-47fb04aa1394
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497845(v=AX.60)
 ms:contentKeyID: 62200179
 ms.date: 07/28/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up billing rules for project contracts 
@@ -34,5 +36,5 @@ The following topics provide information about setting up billing rules for proj
 [Create a project contract to invoice for progress billings](create-a-project-contract-to-invoice-for-progress-billings.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About pay adjustments and count units
 TOCTitle: About pay adjustments and count units
 ms:assetid: 5ee429f8-d026-41a3-a6b4-d6619ef6d233
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549109(v=AX.60)
 ms:contentKeyID: 36057584
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About pay adjustments and count units 
@@ -266,5 +268,5 @@ When the work week is calculated, the worker receives a total of two hours of ov
 [Example of a pay adjustment for time and attendance](example-of-a-pay-adjustment-for-time-and-attendance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

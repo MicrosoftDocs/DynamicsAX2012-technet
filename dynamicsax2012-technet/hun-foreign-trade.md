@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Foreign trade
 TOCTitle: (HUN) Foreign trade
 ms:assetid: 24ca28d2-f3be-4017-96cb-99c88ae45dfc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664238(v=AX.60)
 ms:contentKeyID: 49385327
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Foreign trade 
@@ -24,5 +26,5 @@ The topics in this section provide information about foreign trade.
 [(HUN) Set up charges codes for Intrastat](hun-set-up-charges-codes-for-intrastat.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

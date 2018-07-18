@@ -1,4 +1,4 @@
-﻿---
+---
 title: Implementing InventTrans Refactoring (White paper)
 TOCTitle: Implementing InventTrans Refactoring
 ms:assetid: 2abacf1a-dd32-4d2b-9743-c1fe7b21f900
@@ -18,5 +18,5 @@ This paper describes the refactoring of the InventTrans table and common design 
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213131).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

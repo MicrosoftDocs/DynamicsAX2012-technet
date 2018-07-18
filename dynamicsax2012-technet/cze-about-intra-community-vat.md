@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) About intra-community VAT
 TOCTitle: (CZE) About intra-community VAT
 ms:assetid: b5cb2ace-21e4-4540-8111-6ebe2e77fab3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677668(v=AX.60)
 ms:contentKeyID: 49384968
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) About intra-community VAT 
@@ -26,5 +28,5 @@ To enable intra-community VAT, do the following:
 [(CZE) About posting a purchase transaction that includes intra-community VAT](cze-about-posting-a-purchase-transaction-that-includes-intra-community-vat.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

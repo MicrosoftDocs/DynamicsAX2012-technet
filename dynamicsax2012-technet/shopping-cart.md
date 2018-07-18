@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shopping Cart
 TOCTitle: Shopping Cart
 ms:assetid: fec141ac-eee3-4068-bc22-7ad202da776f
@@ -237,5 +237,5 @@ In the Storefront.sln solution, the Share.PointWeb.Storefront project contains s
 [Creating WCF Services for ASP.NET AJAX](http://go.microsoft.com/fwlink/?linkid=396549&clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

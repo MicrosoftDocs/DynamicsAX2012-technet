@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create service accounts
 TOCTitle: Create service accounts
 ms:assetid: bab0792d-6a4f-4035-b8b4-422f3d0dc2c8
@@ -287,5 +287,5 @@ Create the accounts in the following table to run SQL Server services.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

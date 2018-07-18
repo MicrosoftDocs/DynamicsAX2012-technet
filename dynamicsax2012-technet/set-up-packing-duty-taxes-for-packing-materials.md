@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up packing duty taxes for packing materials
 TOCTitle: Set up packing duty taxes for packing materials
 ms:assetid: cdb60297-cf78-441f-8531-9ad66d90542a
@@ -10,6 +10,8 @@ f1_keywords:
 - duty tax
 - packing tax
 - packing duty
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up packing duty taxes for packing materials 
@@ -110,5 +112,5 @@ After you create packing groups, packing material codes, packing units, and pack
 18. On the **Manage inventory** FastTab, in the **Packing group** field, select a packing group.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

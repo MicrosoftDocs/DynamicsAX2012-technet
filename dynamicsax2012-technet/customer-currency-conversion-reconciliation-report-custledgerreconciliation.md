@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer currency conversion reconciliation report (CustLedgerReconciliation)
 TOCTitle: Customer currency conversion reconciliation report (CustLedgerReconciliation)
 ms:assetid: f24fbb18-fe41-45bb-816a-3eb1fb9e5270
@@ -163,5 +163,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Close the general ledger at month end](close-the-general-ledger-at-month-end.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

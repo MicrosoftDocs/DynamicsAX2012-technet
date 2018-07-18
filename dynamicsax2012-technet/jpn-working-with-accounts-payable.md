@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Working with Accounts payable
 TOCTitle: (JPN) Working with Accounts payable
 ms:assetid: 26fdcfc3-394a-4985-a8d6-150c7249af32
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711022(v=AX.60)
 ms:contentKeyID: 49386433
 ms.date: 01/27/2017
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Working with Accounts payable 
@@ -34,5 +36,5 @@ This section provides information about working with the Accounts payable busine
 [(JPN) Generate payments with JBA export format](jpn-generate-payments-with-jba-export-format.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up address formats
 TOCTitle: (BRA) Set up address formats
 ms:assetid: b5b16507-1c9d-4bd9-8e4a-32b67b0a4069
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - BR - 00002
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up address formats 
@@ -36,5 +38,5 @@ You can specify the Banco Central do Brazil (BACEN) code that is used to identif
 [(BRA) Address setup (modified form)](https://technet.microsoft.com/en-us/library/jj710525\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

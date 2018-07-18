@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Generate the Sintegra tax statement
 TOCTitle: (BRA) Generate the Sintegra tax statement
 ms:assetid: 5c0d1297-5624-4523-83e8-ef9f6f24e939
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - forms.FBBookingPeriodListPage_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Generate the Sintegra tax statement 
@@ -62,5 +64,5 @@ To generate the Sintegra tax statement in a text file, follow these steps:
 [(BRA) Set up parameters for Sintegra tax statements](bra-set-up-parameters-for-sintegra-tax-statements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a channel database profile (Retail essentials)
 TOCTitle: Set up a channel database profile (Retail essentials)
 ms:assetid: ac9c49cc-6d3d-41a8-8bcb-a03cf2075da0
@@ -53,5 +53,5 @@ A channel database profile provides the information that enables Retail essentia
 [Create a channel data group (Retail essentials)](create-a-channel-data-group-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

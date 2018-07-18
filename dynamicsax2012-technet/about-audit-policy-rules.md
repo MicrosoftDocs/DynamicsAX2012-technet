@@ -1,4 +1,4 @@
-﻿---
+---
 title: About audit policy rules
 TOCTitle: About audit policy rules
 ms:assetid: 27b4fb10-283b-4dcb-8a72-5085826fbe1c
@@ -11,6 +11,8 @@ f1_keywords:
 - audit policy rules
 - policy rules
 - audits
+audience: Application User
+ms.search.region: Global
 ---
 
 # About audit policy rules 
@@ -122,5 +124,5 @@ All of the policy rules for a particular audit policy share the same batch param
 [Case grouping criteria (form)](https://technet.microsoft.com/en-us/library/hh209729\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

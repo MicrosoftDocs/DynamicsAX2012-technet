@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new for system administrators
 TOCTitle: What's new for system administrators
 ms:assetid: 196a501a-d451-44f9-af01-dbfa3bb0df82
@@ -56,7 +56,7 @@ In Microsoft Dynamics AX 2012, we added and changed several features that affect
 <td><p><a href="what-s-new-data-import-export-framework-for-microsoft-dynamics-ax-2012.md">What's new: Data Import/Export Framework for Microsoft Dynamics AX 2012</a></p>
 <p><a href="what-s-new-microsoft-dynamics-ax-intelligent-data-management-framework.md">What's new: Intelligent Data Management Framework for Microsoft Dynamics AX</a></p>
 <p><a href="what-s-new-lifecycle-services-for-microsoft-dynamics.md">What's new: Lifecycle Services for Microsoft Dynamics</a></p>
-<p>What's new: WebSearchAx tool for advance search functionality</p>
+
 <p><a href="what-s-new-system-center-operations-manager-management-packs-for-microsoft-dynamics-ax-2012.md">What's new: System Center Operations Manager Management Packs for Microsoft Dynamics AX 2012</a></p></td>
 </tr>
 </tbody>
@@ -76,5 +76,5 @@ In Microsoft Dynamics AX 2012, we added and changed several features that affect
 [AX Developer Center on MSDN](http://go.microsoft.com/fwlink/?linkid=110356)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

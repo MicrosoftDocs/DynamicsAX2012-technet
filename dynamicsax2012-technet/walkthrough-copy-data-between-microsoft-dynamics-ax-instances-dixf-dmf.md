@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Copy data between Microsoft Dynamics AX instances (DIXF, DMF)'
 TOCTitle: 'Walkthrough: Copy data between Microsoft Dynamics AX instances (DIXF, DMF)'
 ms:assetid: 10c0a510-b770-4710-aac2-14b26a9f2065
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/walkthrough-copy-data-between-microsoft-dynamics-ax-instances-dixf-ax-2012/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

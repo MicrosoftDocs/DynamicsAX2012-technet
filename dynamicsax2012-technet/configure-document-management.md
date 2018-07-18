@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure document management
 TOCTitle: Configure document management
 ms:assetid: 9fbb5573-9df5-4edd-925f-6b4ba6cbfcb1
@@ -13,6 +13,8 @@ f1_keywords:
 - document handling
 - document managament
 - MsDynAx060.Forms.DocuType
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure document management 
@@ -326,5 +328,5 @@ Optionally, if you set up the integration with Office Add-ins, you can create Wo
 [Document management in sales and marketing](document-management-in-sales-and-marketing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

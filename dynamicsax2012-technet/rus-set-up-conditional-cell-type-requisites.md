@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up conditional cell type requisites
 TOCTitle: (RUS) Set up conditional cell type requisites
 ms:assetid: 743e537a-be2b-44b7-83c7-56b1f2f7b2d9
@@ -11,6 +11,8 @@ f1_keywords:
 - conditional requisites
 - requisite setup
 - set up requisites
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up conditional cell type requisites 
@@ -73,5 +75,5 @@ Use the **Requisites setup** form to set up **Cell** requisite types that use th
 [(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Manage category requests from employees'
 TOCTitle: 'Key tasks: Manage category requests from employees'
 ms:assetid: e304e9ef-0efa-4e21-b86b-6a5b3a364dd5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735275(v=AX.60)
 ms:contentKeyID: 49693276
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Manage category requests from employees 
@@ -166,5 +168,5 @@ Back to top
 [Key tasks: Manage category requests from vendors](key-tasks-manage-category-requests-from-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

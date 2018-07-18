@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up return locations for retail stores (Retail essentials)
 TOCTitle: Set up return locations for retail stores (Retail essentials)
 ms:assetid: ef0ec03c-ebbc-434f-ba68-cd69dc20e2b2
@@ -76,5 +76,5 @@ To set up return locations, follow these steps.
       - Select the **Block inventory** check box to take returned products out of inventory and prevent them from being sold.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

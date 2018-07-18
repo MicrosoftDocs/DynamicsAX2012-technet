@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create questions and question actions in RapidStart Services
 TOCTitle: Create questions and question actions in RapidStart Services
 ms:assetid: 5cace1d2-2369-4399-a64d-b37c4d360621
@@ -66,5 +66,5 @@ Use the following procedure to help you create questions for RapidStart Services
 [Delete a question in RapidStart Services](delete-a-question-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

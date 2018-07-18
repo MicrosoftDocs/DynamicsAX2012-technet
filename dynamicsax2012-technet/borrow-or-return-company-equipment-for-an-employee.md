@@ -1,4 +1,4 @@
-﻿---
+---
 title: Borrow or return company equipment for an employee
 TOCTitle: Borrow or return company equipment for an employee
 ms:assetid: c3039dc1-c100-456f-b030-4efe11aa7bcd
@@ -13,6 +13,8 @@ f1_keywords:
 - HcmEPPersonLoanList
 - HcmLoanListPage
 - HcmMyEmployeeLoanListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Borrow or return company equipment for an employee 
@@ -75,5 +77,5 @@ Use this page to indicate that you have borrowed or returned company-owned equip
 6.  Click **Save and close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

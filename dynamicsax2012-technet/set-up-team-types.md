@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up team types
 TOCTitle: Set up team types
 ms:assetid: 6d934849-3fe2-40a1-a5f7-f3b806a39ef1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781093(v=AX.60)
 ms:contentKeyID: 43894503
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up team types 
@@ -36,5 +38,5 @@ Team types help categorize teams and restrict membership to specific groups of p
 [Manage teams (form)](https://technet.microsoft.com/en-us/library/hh209425\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

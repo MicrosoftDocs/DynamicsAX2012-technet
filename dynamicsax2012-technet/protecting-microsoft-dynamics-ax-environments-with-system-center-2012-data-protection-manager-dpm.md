@@ -1,4 +1,4 @@
-﻿---
+---
 title: Protecting Microsoft Dynamics AX environments with System Center 2012 Data Protection Manager (DPM)
 TOCTitle: Protecting Microsoft Dynamics AX environments with DPM
 ms:assetid: 0c68fed3-93b5-4738-b45c-2c249ea99ce6
@@ -124,5 +124,5 @@ The following list describes some of the limitations of the AX VSS writer:
 [Recover a Microsoft Dynamics AX 2012 R2 environment with System Center 2012 Data Protection Manager](recover-a-microsoft-dynamics-ax-2012-r2-environment-with-system-center-2012-data-protection-manager.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

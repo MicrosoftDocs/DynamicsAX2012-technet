@@ -1,4 +1,4 @@
-﻿---
+---
 title: View and record transactions
 TOCTitle: View and record transactions
 ms:assetid: 79e8a3c5-645d-42e1-8dc9-4ba9e7f14aa8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - record transactions
 - transaction status
+audience: Application User
+ms.search.region: Global
 ---
 
 # View and record transactions 
@@ -43,5 +45,5 @@ The following topics provide information about several aspects of project transa
 [Create and maintain timesheets](create-and-maintain-timesheets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

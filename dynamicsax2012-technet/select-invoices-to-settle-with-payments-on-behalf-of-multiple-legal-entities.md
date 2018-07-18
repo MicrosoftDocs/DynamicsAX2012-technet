@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select invoices to settle with payments on behalf of multiple legal entities
 TOCTitle: Select invoices to settle with payments on behalf of multiple legal entities
 ms:assetid: 462738d8-b17f-4529-9d49-274862f9d4eb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231384(v=AX.60)
 ms:contentKeyID: 36056901
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select invoices to settle with payments on behalf of multiple legal entities 
@@ -62,5 +64,5 @@ In organizations that use centralized payment processing, each operating legal e
 [Customer payment proposal (class form)](https://technet.microsoft.com/en-us/library/aa550814\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

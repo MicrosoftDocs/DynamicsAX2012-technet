@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budget plan scenarios report (BudgetPlanScenariosReport)
 TOCTitle: Budget plan scenarios report (BudgetPlanScenariosReport)
 ms:assetid: ec19b7f5-9819-41aa-9125-b918f6586c39
@@ -145,5 +145,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Preparing to maintain standard costs in a manufacturing environment
 TOCTitle: Preparing to maintain standard costs in a manufacturing environment
 ms:assetid: 001ab793-a3b3-4946-aa91-bf9302d6bb86
@@ -13,6 +13,8 @@ f1_keywords:
 - costing
 - standard cost
 - standard costs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Preparing to maintain standard costs in a manufacturing environment 
@@ -35,5 +37,5 @@ A manufacturing environment that uses routing information requires additional pr
 [About manufacturing overheads based on material](about-manufacturing-overheads-based-on-material.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

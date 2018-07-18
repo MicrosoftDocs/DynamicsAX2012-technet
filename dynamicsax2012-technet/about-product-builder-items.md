@@ -1,4 +1,4 @@
-﻿---
+---
 title: About product builder items
 TOCTitle: About product builder items
 ms:assetid: a4bd3a07-98fe-4021-b75b-d992409424e5
@@ -10,6 +10,8 @@ f1_keywords:
 - product builder
 - modeling enabled items
 - modeling items
+audience: Application User
+ms.search.region: Global
 ---
 
 # About product builder items 
@@ -32,5 +34,5 @@ The items that a production company would typically want to make configurable wi
 Each configurable item must be created in the **Released products** form as a type of item and with the **Modeling enabled** check box selected. Any other items that should be part of the bill of materials (BOM) must also be created in the **Released products** form, exactly as one would do for a standard BOM to which other items will be connected by way of the BOM lines.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

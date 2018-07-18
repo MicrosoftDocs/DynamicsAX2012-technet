@@ -1,4 +1,4 @@
-﻿---
+---
 title: Public sector reports
 TOCTitle: Public sector reports
 ms:assetid: 3e5a1d10-ce86-4424-8609-2a9c8d144fc0
@@ -30,5 +30,5 @@ The following reports are available in the **Public sector** module of Microsoft
 [(FRA) Titre de recette report (Public sector) (CustDirective\_PSN)](fra-titre-de-recette-report-public-sector-custdirective-psn.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

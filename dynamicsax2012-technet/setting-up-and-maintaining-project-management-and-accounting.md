@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Project management and accounting
 TOCTitle: Setting up and maintaining Project management and accounting
 ms:assetid: 717f2c33-c2d5-4315-bc99-41766d0a81c7
@@ -8,6 +8,8 @@ ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Project
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Project management and accounting 
@@ -495,5 +497,5 @@ The following table lists the forms that are available for setting up and mainta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

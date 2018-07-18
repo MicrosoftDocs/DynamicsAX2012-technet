@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Enable customs and EXIM incentive schemes
 TOCTitle: (IND) Enable customs and EXIM incentive schemes
 ms:assetid: 92fcbbf0-c466-4f28-951f-78e1c955c3b5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678061(v=AX.60)
 ms:contentKeyID: 49386022
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Enable customs and EXIM incentive schemes 
@@ -38,5 +40,5 @@ The **Incentive schemes** button is now available on the **General** FastTab.
 [(IND) Set up general ledger parameters for the EPCG incentive scheme](ind-set-up-general-ledger-parameters-for-the-epcg-incentive-scheme.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

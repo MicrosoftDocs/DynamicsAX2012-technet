@@ -1,4 +1,4 @@
-﻿---
+---
 title: " contact"
 TOCTitle: " contact"
 ms:assetid: DynamicsAXGlossary.38453
@@ -21,5 +21,5 @@ A person, inside or outside your organization, for whom you have created an entr
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

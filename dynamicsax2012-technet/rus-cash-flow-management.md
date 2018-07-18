@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Cash flow management
 TOCTitle: (RUS) Cash flow management
 ms:assetid: ef8cce87-635c-477b-b744-e29c16745f39
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt282498(v=AX.60)
 ms:contentKeyID: 67234753
 ms.date: 07/27/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Cash flow management 
@@ -203,5 +205,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

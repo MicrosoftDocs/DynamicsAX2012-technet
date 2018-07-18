@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post the import order and verify the DFIA incentive scheme tax and balance tax
 TOCTitle: (IND) Post the import order and verify the DFIA incentive scheme tax and balance tax
 ms:assetid: 95a39f52-22c4-4b58-99c6-a4ecd59ae991
@@ -14,6 +14,8 @@ f1_keywords:
 - import order
 - incentive
 - scheme tax
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post the import order and verify the DFIA incentive scheme tax and balance tax 
@@ -72,5 +74,5 @@ After you post the invoice, you can view the details of the import order by usin
 [(IND) Create an importer invoice number for import orders](ind-create-an-importer-invoice-number-for-import-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

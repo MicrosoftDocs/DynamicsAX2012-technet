@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Correct a sales order packing slip before posting an invoice
 TOCTitle: (IND) Correct a sales order packing slip before posting an invoice
 ms:assetid: 43463b6e-d1c5-4b55-be78-909385d32838
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664657(v=AX.60)
 ms:contentKeyID: 49385731
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Correct a sales order packing slip before posting an invoice 
@@ -38,5 +40,5 @@ You can correct a sales order packing slip without having to create a new packin
       - The corrected quantity and tax amount
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

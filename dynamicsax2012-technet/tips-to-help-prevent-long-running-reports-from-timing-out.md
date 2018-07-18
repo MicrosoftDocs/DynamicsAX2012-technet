@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tips to help prevent long-running reports from timing out
 TOCTitle: Tips to help prevent long-running reports from timing out
 ms:assetid: 6f9481a2-9b56-4726-9eba-209e6d964ba9
@@ -173,5 +173,5 @@ To improve performance when you print statements or reports that include large a
 Many tasks in Microsoft Dynamics AX can be run as part of batch jobs. For more information, see [Batch processing overview](batch-processing-overview.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

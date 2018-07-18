@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) View gift card payment journals
 TOCTitle: (RUS) View gift card payment journals
 ms:assetid: b0a95621-a61b-4133-b4f2-4ac6a7c8e2a1
@@ -16,6 +16,8 @@ f1_keywords:
 - gift card payment journal
 - payment journals
 - gift card payment journals
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) View gift card payment journals 
@@ -47,5 +49,5 @@ Use this procedure to view the customer payment journals that are associated wit
 [(RUS) Set up parameters to process gift card operations as prepayments](rus-set-up-parameters-to-process-gift-card-operations-as-prepayments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

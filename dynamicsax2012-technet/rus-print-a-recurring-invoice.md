@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Print a recurring invoice
 TOCTitle: (RUS) Print a recurring invoice
 ms:assetid: 260017fe-14f1-4df0-b51b-7294ca0ee634
@@ -12,6 +12,8 @@ f1_keywords:
 - recurring
 - (RUS)
 - Russia
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Print a recurring invoice 
@@ -114,5 +116,5 @@ After recurring invoices have been posted, use the **Print customer invoice** fo
 [Customer recurring invoice (form)](https://technet.microsoft.com/en-us/library/hh209471\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

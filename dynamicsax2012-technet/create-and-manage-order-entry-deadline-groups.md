@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and manage order entry deadline groups
 TOCTitle: Create and manage order entry deadline groups
 ms:assetid: 1c7713e5-ac17-4da2-9572-37f103ed19e9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230975(v=AX.60)
 ms:contentKeyID: 36056135
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and manage order entry deadline groups 
@@ -46,5 +48,5 @@ Use the following procedures to define order entry deadlines for sites or groups
 [About order entry deadlines](about-order-entry-deadlines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and maintain purchase orders
 TOCTitle: Create and maintain purchase orders
 ms:assetid: 2db6f5a8-edf9-4849-8f13-fddfcd337862
@@ -11,6 +11,8 @@ f1_keywords:
 - purchase orders
 - PO
 - POs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and maintain purchase orders 
@@ -25,5 +27,5 @@ The following topics provide information about maintaining purchase orders.
 [Maintain intercompany purchase orders](maintain-intercompany-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

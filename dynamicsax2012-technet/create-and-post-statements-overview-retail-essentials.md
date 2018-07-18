@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and post statements overview (Retail essentials)
 TOCTitle: Create and post statements overview (Retail essentials)
 ms:assetid: 3e6fde65-e541-4205-b2ff-e201c8bba804
@@ -24,5 +24,5 @@ The topics in this section provide information about how to create, calculate, a
 [View posted statements (Retail essentials)](view-posted-statements-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

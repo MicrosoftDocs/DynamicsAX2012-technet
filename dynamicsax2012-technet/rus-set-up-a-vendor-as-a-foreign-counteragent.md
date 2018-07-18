@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a vendor as a foreign counteragent
 TOCTitle: (RUS) Set up a vendor as a foreign counteragent
 ms:assetid: 2b17e5c0-e3e2-40df-b9ad-c54da8f1b072
@@ -10,6 +10,8 @@ f1_keywords:
 - customs broker
 - foreign counteragent
 - vendor broker
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a vendor as a foreign counteragent 
@@ -30,5 +32,5 @@ Use the **Vendors** form to set up a vendor as a foreign counteragent, so that t
 [Create a vendor account](create-a-vendor-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

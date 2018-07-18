@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an inventory owner for bailment
 TOCTitle: (RUS) Set up an inventory owner for bailment
 ms:assetid: 8c2551e1-0edd-4ca4-af55-f3558e435ac1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733255(v=AX.60)
 ms:contentKeyID: 49685222
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an inventory owner for bailment 
@@ -52,5 +54,5 @@ Use the **Inventory owner** form to set up an inventory owner, or bailor, for th
 [(RUS) Inventory owner (form)](https://technet.microsoft.com/en-us/library/jj678549\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

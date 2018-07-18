@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define and maintain the disallowed vendors list
 TOCTitle: Define and maintain the disallowed vendors list
 ms:assetid: 3ba21984-54eb-474a-8b21-e90729fed06b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433533(v=AX.60)
 ms:contentKeyID: 36941322
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define and maintain the disallowed vendors list 
@@ -64,5 +66,5 @@ If a match is found, the vendor request is flagged to indicate to the reviewer t
 [Configuring Enterprise Portal for vendor requests](configuring-enterprise-portal-for-vendor-requests.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

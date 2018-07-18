@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create locations
 TOCTitle: Create locations
 ms:assetid: 6ef04b6d-0cb5-4bf6-b93d-cb3f090946d0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571218(v=AX.60)
 ms:contentKeyID: 36058039
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create locations 
@@ -42,5 +44,5 @@ Microsoft Dynamics AX verifies that setup is complete for the selected warehouse
 [About locations](about-locations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

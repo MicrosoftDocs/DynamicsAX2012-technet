@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (EEUR) Eastern Europe Intrastat reports'
 TOCTitle: (EEUR) Eastern Europe Intrastat reports
 ms:assetid: 7c25af41-ef90-49e7-af22-55e42251dd2b
@@ -54,5 +54,5 @@ For Eastern European installations, Microsoft Dynamics AX 2009 includes country/
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Set up DIOT parameters
 TOCTitle: (MEX) Set up DIOT parameters
 ms:assetid: 4cc166e4-fe89-49d3-bda1-fff84bdf7244
@@ -10,6 +10,8 @@ f1_keywords:
 - Mexico
 - parameters
 - DIOT
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Set up DIOT parameters 
@@ -48,5 +50,5 @@ Before you generate a DIOT, set up the necessary parameters, such as the field c
 [(MEX) Set up DIOT declaration (form)](https://technet.microsoft.com/en-us/library/hh242543\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

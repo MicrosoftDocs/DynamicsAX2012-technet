@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shortcut keys
 TOCTitle: Shortcut keys
 ms:assetid: 6f5200b7-e852-4c83-b5a2-924652233553
@@ -13,6 +13,8 @@ f1_keywords:
 - keyboard shortcut
 - quick key
 - shorcut key
+audience: Application User
+ms.search.region: Global
 ---
 
 # Shortcut keys 
@@ -619,5 +621,5 @@ The following keyboard shortcuts apply across Microsoft Dynamics AX.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

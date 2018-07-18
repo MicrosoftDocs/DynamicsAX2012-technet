@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an aging snapshot
 TOCTitle: Create an aging snapshot
 ms:assetid: b85e770b-7548-499e-8728-c0512f6eae0f
@@ -17,6 +17,8 @@ f1_keywords:
 - customer balance
 - past due
 - trial
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an aging snapshot 
@@ -49,5 +51,5 @@ Create aging snapshot records for all customers or for the customers in a custom
 8.  Click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Departments'
 TOCTitle: 'Key tasks: Departments'
 ms:assetid: 1ff7cc45-70e5-4c87-a148-e214aaea95ee
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208468(v=AX.60)
 ms:contentKeyID: 36056157
 ms.date: 09/03/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Departments 
@@ -174,5 +176,5 @@ Back to top
 [Key tasks: New worker positions](key-tasks-new-worker-positions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

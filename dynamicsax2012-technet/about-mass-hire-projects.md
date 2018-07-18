@@ -1,4 +1,4 @@
-﻿---
+---
 title: About mass hire projects
 TOCTitle: About mass hire projects
 ms:assetid: 15d6e996-fdb1-405d-abbd-72bca67e6dc3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569885(v=AX.60)
 ms:contentKeyID: 36676370
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About mass hire projects 
@@ -87,5 +89,5 @@ In the **Mass hire project** form, click **Open project** or **Close project** t
 [Mass hire projects (form)](https://technet.microsoft.com/en-us/library/aa591824\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Report 340
 TOCTitle: (ESP) Report 340
 ms:assetid: f421811a-1bf3-4746-96de-7db41f21ceaa
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.TaxReportTable
 - ES - 00002
 - MsDynAx060.Forms.TaxReportTable
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Report 340 
@@ -48,5 +50,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

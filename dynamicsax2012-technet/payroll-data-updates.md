@@ -1,4 +1,4 @@
-﻿---
+---
 title: Payroll data updates
 TOCTitle: Payroll data updates
 ms:assetid: 1581d895-9315-4028-8d97-0d52260660d5
@@ -25,6 +25,8 @@ f1_keywords:
 - benefit plan year
 - PTO accrual
 - vacation accrual
+audience: Application User
+ms.search.region: USA
 ---
 
 # Payroll data updates 
@@ -227,5 +229,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

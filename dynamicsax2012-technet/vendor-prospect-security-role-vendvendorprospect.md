@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor prospect security role (VendVendorProspect)
 TOCTitle: Vendor prospect security role (VendVendorProspect)
 ms:assetid: 368033ee-7dfb-4740-8ab9-c1cc892d6714
@@ -42,5 +42,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

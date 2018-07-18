@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for the Czech Republic (CZE)"
 TOCTitle: Country-specific features for the Czech Republic
 ms:assetid: 393c1121-39d4-4690-ae8e-ceff75b5af77
@@ -82,5 +82,5 @@ For more information about specific features for the Czech Republic, see [TechNe
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

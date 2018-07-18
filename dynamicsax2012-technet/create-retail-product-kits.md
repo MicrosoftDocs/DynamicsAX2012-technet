@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create retail product kits
 TOCTitle: Create retail product kits
 ms:assetid: ff4778ea-a16d-49b9-836e-7b8c4640d1eb
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Menu_Items.Display.EcoResKitsPerCompanyListPage
 - Menu_Items.Display.RetailKitListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create retail product kits 
@@ -223,5 +225,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project Server integration architecture
 TOCTitle: Project Server integration architecture
 ms:assetid: 1552d914-bf33-4597-9950-a848e6ef9f76
@@ -22,5 +22,5 @@ For more information about how to set up integration with Project Server, see th
 [System architecture](system-architecture.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

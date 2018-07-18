@@ -1,4 +1,4 @@
-﻿---
+---
 title: About inventory blocking
 TOCTitle: About inventory blocking
 ms:assetid: 5be5811c-d90b-475c-a733-61f53b826ab9
@@ -11,6 +11,8 @@ f1_keywords:
 - block item
 - inventory blocking
 - unblock items
+audience: Application User
+ms.search.region: Global
 ---
 
 # About inventory blocking 
@@ -116,5 +118,5 @@ When working with inventory blocking you must consider the following setup optio
 [Block and unblock inventory items](block-and-unblock-inventory-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

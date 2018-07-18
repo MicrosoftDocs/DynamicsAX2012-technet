@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create customer invoices for sales orders
 TOCTitle: Create customer invoices for sales orders
 ms:assetid: 3c5f711f-700a-4cfb-ba1e-552d1a26fb82
@@ -17,6 +17,8 @@ f1_keywords:
 - free-text
 - pro forma
 - recurring
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create customer invoices for sales orders 
@@ -49,5 +51,5 @@ The following topics provide information about creating customer invoices.
 [(ESP) Calculate invoice due dates based on the payment schedule and the payment day](esp-calculate-invoice-due-dates-based-on-the-payment-schedule-and-the-payment-day.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

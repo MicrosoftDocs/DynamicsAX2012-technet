@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up print management for a customer or vendor
 TOCTitle: Set up print management for a customer or vendor
 ms:assetid: fb5cedee-5b96-475a-a038-d61fcf01f42c
@@ -15,6 +15,8 @@ f1_keywords:
 - printing
 - printer
 - printers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up print management for a customer or vendor 
@@ -91,5 +93,5 @@ If you will be emailing the documents to a group of email addresses that have th
 [Set up print management for a transaction](set-up-print-management-for-a-transaction.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (RUS) Financial report validation report'
 TOCTitle: (RUS) Financial report validation report
 ms:assetid: 42362ba3-7a9d-4eec-a026-13868e1f741d
@@ -53,5 +53,5 @@ In Microsoft Dynamics AX 2009, the **Financial report validation** report displa
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

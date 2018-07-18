@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (POL) Polish safe valuation rule'
 TOCTitle: (POL) Polish safe valuation rule
 ms:assetid: 0e8c8c15-d053-450c-8234-d243a433fdb9
@@ -55,5 +55,5 @@ For Polish installations, Microsoft Dynamics AX 2009 and earlier versions provid
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

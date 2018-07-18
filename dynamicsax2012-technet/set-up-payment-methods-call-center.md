@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up payment methods (Call center)
 TOCTitle: Set up payment methods (Call center)
 ms:assetid: 24bcd52c-c82c-4f73-8d1e-bfbf8ff85345
@@ -14,6 +14,8 @@ f1_keywords:
 - credit card payment
 - call center payment method
 - gift card payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up payment methods (Call center) 
@@ -273,5 +275,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Handle payment issues](handle-payment-issues.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

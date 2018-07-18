@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts payable cube (VendCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Accounts payable cube (VendCube)
 ms:assetid: 7164f3e2-1d2b-4637-94df-ea90495059f9
@@ -415,5 +415,5 @@ The Accounts payable cube can be accessed by users assigned to the following Mic
   - Treasurer
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

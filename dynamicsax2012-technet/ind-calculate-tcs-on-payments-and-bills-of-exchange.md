@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate TCS on payments and bills of exchange
 TOCTitle: (IND) Calculate TCS on payments and bills of exchange
 ms:assetid: f78917d5-ca32-4d3e-b0ff-f8f1aea36bca
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710945(v=AX.60)
 ms:contentKeyID: 49386357
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate TCS on payments and bills of exchange 
@@ -108,5 +110,5 @@ For payments made against an invoice, the following conditions apply:
 [(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

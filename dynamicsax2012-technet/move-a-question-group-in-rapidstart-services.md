@@ -1,4 +1,4 @@
-﻿---
+---
 title: Move a question group in RapidStart Services
 TOCTitle: Move a question group in RapidStart Services
 ms:assetid: ed5e2b78-9057-402e-ae45-5507adf8c0b1
@@ -53,5 +53,5 @@ In Microsoft Dynamics ERP RapidStart Services, you can move a question group fro
 [Delete a question group in RapidStart Services](delete-a-question-group-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

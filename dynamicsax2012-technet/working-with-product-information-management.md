@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Product information management
 TOCTitle: Working with Product information management
 ms:assetid: bee84c0e-ef80-43f5-bd60-93b2ff5c186e
@@ -12,6 +12,8 @@ f1_keywords:
 - product information management
 - PIM
 - product management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Product information management 
@@ -30,5 +32,5 @@ The topics in this section provide information about the main business processes
 [Translations of product-related information](translations-of-product-related-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

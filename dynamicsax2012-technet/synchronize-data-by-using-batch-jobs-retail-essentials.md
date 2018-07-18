@@ -1,4 +1,4 @@
-﻿---
+---
 title: Synchronize data by using batch jobs (Retail essentials)
 TOCTitle: Synchronize data by using batch jobs (Retail essentials)
 ms:assetid: 786752f6-9942-4732-a070-9f9c6b593c05
@@ -93,5 +93,5 @@ The following table describes the different batch jobs that you can run in Retai
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

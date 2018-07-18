@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a sales tax authority as a vendor
 TOCTitle: Set up a sales tax authority as a vendor
 ms:assetid: f061cfdc-8a10-4e72-b1f4-cba75f1b8a39
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551581(v=AX.60)
 ms:contentKeyID: 36059923
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a sales tax authority as a vendor 
@@ -38,5 +40,5 @@ To generate payments to a tax authority when tax payments are due as part of the
 [Key tasks: Vendor payments and settlements](key-tasks-vendor-payments-and-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

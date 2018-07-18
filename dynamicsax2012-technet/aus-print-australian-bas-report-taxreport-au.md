@@ -1,4 +1,4 @@
-﻿---
+---
 title: (AUS) Print Australian BAS report (TaxReport_AU)
 TOCTitle: (AUS) Print Australian BAS report (TaxReport_AU)
 ms:assetid: e6e0a718-6bfa-4291-807a-995a088270c3
@@ -106,5 +106,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Sales tax payment (class form)](https://technet.microsoft.com/en-us/library/aa598539\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

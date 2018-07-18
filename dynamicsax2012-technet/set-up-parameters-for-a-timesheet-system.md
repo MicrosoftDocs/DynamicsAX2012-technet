@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up parameters for a timesheet system
 TOCTitle: Set up parameters for a timesheet system
 ms:assetid: ee53b57f-990b-43de-a502-580a2d04f867
@@ -10,6 +10,8 @@ f1_keywords:
 - timesheet management
 - timesheet setup
 - configure timesheets
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up parameters for a timesheet system 
@@ -123,5 +125,5 @@ You can set up audit trails on all timesheets that are submitted in your organiz
 [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

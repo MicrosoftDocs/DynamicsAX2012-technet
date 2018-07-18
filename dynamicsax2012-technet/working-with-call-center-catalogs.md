@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with call center catalogs
 TOCTitle: Working with call center catalogs
 ms:assetid: 66c3c47a-1baa-4cf4-a511-837de7ea91e8
@@ -12,6 +12,8 @@ f1_keywords:
 - catalog revenue
 - catalog code
 - catalog sales
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with call center catalogs 
@@ -32,5 +34,5 @@ The topics in this section provide information about how to work with call cente
 [Enter a catalog source code](enter-a-catalog-source-code.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

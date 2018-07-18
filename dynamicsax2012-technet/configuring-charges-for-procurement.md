@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring charges for procurement
 TOCTitle: Configuring charges for procurement
 ms:assetid: 692a4a81-c86b-449a-b320-3182bf3cdd33
@@ -16,6 +16,8 @@ f1_keywords:
 - miscellaneous
 - misc.
 - charges
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring charges for procurement 
@@ -36,5 +38,5 @@ The following topics provide information about configuring charges for procureme
 [Define auto charges](define-auto-charges.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

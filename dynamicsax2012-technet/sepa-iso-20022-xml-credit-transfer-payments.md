@@ -1,4 +1,4 @@
-﻿---
+---
 title: SEPA (ISO 20022 XML) credit transfer payments
 TOCTitle: SEPA (ISO 20022 XML) credit transfer payments
 ms:assetid: 8de7fabb-f144-4dd4-8b68-0d31c96cb9da
@@ -22,5 +22,5 @@ This white paper describes the functionality in Microsoft Dynamics AX that suppo
 [Walkthrough: Configuring an outbound integration port for payments](walkthrough-configuring-an-outbound-integration-port-for-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

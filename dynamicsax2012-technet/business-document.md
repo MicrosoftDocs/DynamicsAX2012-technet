@@ -1,4 +1,4 @@
-﻿---
+---
 title: " business document"
 TOCTitle: " business document"
 ms:assetid: DynamicsAXGlossary.1465556
@@ -23,5 +23,5 @@ A view of a source document that is issued by one party and received by one or m
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

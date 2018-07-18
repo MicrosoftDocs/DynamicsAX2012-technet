@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Correct a product receipt and print the receipt statement report
 TOCTitle: (RUS) Correct a product receipt and print the receipt statement report
 ms:assetid: 7095a360-4178-41f1-8cae-70723a9fdbf2
@@ -12,6 +12,8 @@ f1_keywords:
 - Correct a product receipt
 - print receipt statement
 - receipt statement
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Correct a product receipt and print the receipt statement report 
@@ -83,5 +85,5 @@ Use the **Product receipt correction** form to correct and post a product receip
 [(RUS) Product receipt correction (modified form)](https://technet.microsoft.com/en-us/library/jj733510\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

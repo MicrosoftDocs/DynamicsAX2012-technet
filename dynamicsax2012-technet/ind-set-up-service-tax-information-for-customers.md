@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up service tax information for customers
 TOCTitle: (IND) Set up service tax information for customers
 ms:assetid: 778f8a56-50c8-4483-a06a-629d20ec7dcd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677939(v=AX.60)
 ms:contentKeyID: 49385902
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up service tax information for customers 
@@ -40,5 +42,5 @@ Specify the Service tax registration (STC) number for the address of the custome
 [(IND) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj678004\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

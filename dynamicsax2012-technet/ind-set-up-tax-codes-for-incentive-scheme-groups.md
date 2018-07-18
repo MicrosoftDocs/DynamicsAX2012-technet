@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up tax codes for incentive scheme groups
 TOCTitle: (IND) Set up tax codes for incentive scheme groups
 ms:assetid: ac5ef9bd-e53a-4d82-9ee9-e387f800208e
@@ -12,6 +12,8 @@ f1_keywords:
 - india
 - create incentive scheme groups
 - incentive scheme groups
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up tax codes for incentive scheme groups 
@@ -50,5 +52,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(IND) Incentive scheme groups (form)](https://technet.microsoft.com/en-us/library/jj664715\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reuse configuration functionality
 TOCTitle: Reuse configuration functionality
 ms:assetid: 44bd6fc9-15a2-4753-9a52-04d69f54a1a1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496977(v=AX.60)
 ms:contentKeyID: 36056887
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reuse configuration functionality 
@@ -21,5 +23,5 @@ Bills of materials (BOMs) and routes that the system has previously generated ca
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

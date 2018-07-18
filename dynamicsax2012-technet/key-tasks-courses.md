@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Courses'
 TOCTitle: 'Key tasks: Courses'
 ms:assetid: 8f5d3c5d-c3b6-4742-8de6-716c3defc6c6
@@ -12,6 +12,8 @@ f1_keywords:
 - training courses
 - employee classes
 - employee courses
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Courses 
@@ -284,5 +286,5 @@ Back to top
 [Set up course instructors](set-up-course-instructors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

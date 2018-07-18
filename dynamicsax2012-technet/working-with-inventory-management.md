@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Inventory management
 TOCTitle: Working with Inventory management
 ms:assetid: e86048c8-cf62-4498-8803-0f8b7361d801
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227468(v=AX.60)
 ms:contentKeyID: 36059830
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Inventory management 
@@ -26,5 +28,5 @@ This section provides overviews of the business process components in Inventory 
 [Shipping overview](shipping-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

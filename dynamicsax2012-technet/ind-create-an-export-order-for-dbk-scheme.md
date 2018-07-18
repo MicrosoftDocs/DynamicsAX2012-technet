@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create an export order for DBK scheme
 TOCTitle: (IND) Create an export order for DBK scheme
 ms:assetid: a2161eae-0252-471d-a87a-1d6c125f587c
@@ -11,6 +11,8 @@ f1_keywords:
 - india
 - DBK scheme
 - export order
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create an export order for DBK scheme 
@@ -86,5 +88,5 @@ Update the duty drawback details on the **Line details** FastTab in the **Tax in
 [(IND) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj677998\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

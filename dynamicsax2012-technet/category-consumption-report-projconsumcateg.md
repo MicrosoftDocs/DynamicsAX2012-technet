@@ -1,4 +1,4 @@
-﻿---
+---
 title: Category consumption report (ProjConsumCateg)
 TOCTitle: Category consumption report (ProjConsumCateg)
 ms:assetid: ee558570-368c-4b56-9d01-dd23230fa81c
@@ -168,5 +168,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Submit a batch processing job from a form](submit-a-batch-processing-job-from-a-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for France (FRA)"
 TOCTitle: Country-specific features for France
 ms:assetid: f7d70f5b-2c50-4964-9c68-e836b2c55d8a
@@ -112,5 +112,5 @@ In Microsoft Dynamics AX 2012, we changed and added country-specific functionali
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

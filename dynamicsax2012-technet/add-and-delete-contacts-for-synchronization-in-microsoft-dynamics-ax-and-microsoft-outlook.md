@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and delete contacts for synchronization in Microsoft Dynamics AX and Microsoft Outlook
 TOCTitle: Add and delete contacts for synchronization in Microsoft Dynamics AX and Microsoft Outlook
 ms:assetid: 1d919165-60de-4d9c-a4ee-774a987173ee
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496773(v=AX.60)
 ms:contentKeyID: 37820198
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and delete contacts for synchronization in Microsoft Dynamics AX and Microsoft Outlook 
@@ -57,5 +59,5 @@ You can synchronize the list of contacts that you have stored in Microsoft Dynam
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

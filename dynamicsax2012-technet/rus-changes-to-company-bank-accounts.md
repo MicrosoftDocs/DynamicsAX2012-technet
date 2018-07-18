@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Changes to company bank accounts
 TOCTitle: (RUS) Changes to company bank accounts
 ms:assetid: 12d801f0-f8af-4b77-92fd-2a88b155edc5
@@ -11,6 +11,8 @@ f1_keywords:
 - bank accounts
 - (RUS)
 - Russia
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Changes to company bank accounts 
@@ -23,5 +25,5 @@ The status of the bank account for an organization determines the account reconc
 You cannot change the bank account status to inactive if the account has any vendor transactions that are open. You also cannot use the **Transit account** function to change the date of a posted transaction when you reconcile a bank account that is inactive.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

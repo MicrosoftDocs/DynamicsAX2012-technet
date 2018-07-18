@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Prepare pre-closing reports overview
 TOCTitle: (LVA) Prepare pre-closing reports overview
 ms:assetid: 103bc829-547c-48c1-8d20-b73d38b98bd3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731003(v=AX.60)
 ms:contentKeyID: 49675243
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Prepare pre-closing reports overview 
@@ -36,5 +38,5 @@ The following topics provide information about tasks that are related to prepari
 [(LVA) Generate the VAT declaration as an XML file](lva-generate-the-vat-declaration-as-an-xml-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

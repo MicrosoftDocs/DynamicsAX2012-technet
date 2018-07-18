@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Group cash payments by invoice year in Declaration 347
 TOCTitle: (ESP) Group cash payments by invoice year in Declaration 347
 ms:assetid: 2f90be1f-3819-4446-8903-9ab4af4eaa79
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.TaxReport347Table
 - ES - 00003
 - MsDynAx060.Forms.TaxReport347Table
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Group cash payments by invoice year in Declaration 347 
@@ -34,5 +36,5 @@ Complete the following tasks before you generate the Declaration 347 report:
 3.  Set up the sales tax group that is excluded from the Declaration 347 report. For more information, see [(ESP) 347 validation lists (form)](https://technet.microsoft.com/en-us/library/hh209436\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

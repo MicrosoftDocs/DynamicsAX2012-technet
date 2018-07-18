@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Create a credit note for correction
 TOCTitle: (EEUR) Create a credit note for correction
 ms:assetid: 77404e22-50ea-461f-afc4-9ef8dec8f047
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678243(v=AX.60)
 ms:contentKeyID: 49386966
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Create a credit note for correction 
@@ -102,5 +104,5 @@ Before you can complete the procedure in this topic, you must follow these steps
 [(POL) Set up credit note parameters](pol-set-up-credit-note-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Generate a cash reimbursement slip
 TOCTitle: (LTU) Generate a cash reimbursement slip
 ms:assetid: f17db486-1cd1-457b-91cd-16e0e212e282
@@ -12,6 +12,8 @@ f1_keywords:
 - cash reimbursement slip
 - cash transactions
 - receipt of cash
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Generate a cash reimbursement slip 
@@ -52,5 +54,5 @@ You can generate a cash reimbursement slip to confirm the receipt of cash by you
 [(EEUR) Key tasks: Set up officials to certify financial documents](eeur-key-tasks-set-up-officials-to-certify-financial-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

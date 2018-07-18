@@ -1,4 +1,4 @@
-﻿---
+---
 title: View your return orders
 TOCTitle: View your return orders
 ms:assetid: f20ca2a0-1d09-47f6-b8be-7a37821a7ea8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPSalesTableInfo
 - EPSalesReturnItemList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View your return orders 
@@ -33,5 +35,5 @@ You can use the **All return orders** list page to view a list of return orders 
 [Return an item](return-an-item.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

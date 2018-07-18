@@ -1,4 +1,4 @@
-﻿---
+---
 title: About packing materials and packing material fees
 TOCTitle: About packing materials and packing material fees
 ms:assetid: 58c2025e-426a-4e49-aaf6-ff0cc37cabdd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549072(v=AX.60)
 ms:contentKeyID: 39519149
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About packing materials and packing material fees 
@@ -60,5 +62,5 @@ Packing material transactions for a purchase order line are not created by the s
 [Create packing material codes](create-packing-material-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

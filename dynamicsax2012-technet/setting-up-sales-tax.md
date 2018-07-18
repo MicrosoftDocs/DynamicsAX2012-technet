@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up sales tax
 TOCTitle: Setting up sales tax
 ms:assetid: ec62927b-e742-4333-89c3-750a33f88e4b
@@ -11,6 +11,8 @@ f1_keywords:
 - setting up sales tax
 - tax
 - tax setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up sales tax 
@@ -65,5 +67,5 @@ The following topics provide information about setting up sales tax.
 [(CHE) Company identification numbers for tax exemption](che-company-identification-numbers-for-tax-exemption.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

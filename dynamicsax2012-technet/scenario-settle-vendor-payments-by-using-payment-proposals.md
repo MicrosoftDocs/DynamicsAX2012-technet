@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Settle vendor payments by using payment proposals'
 TOCTitle: 'Scenario: Settle vendor payments by using payment proposals'
 ms:assetid: 2569c66a-2f90-4686-9d2f-71b9309542c8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580587(v=AX.60)
 ms:contentKeyID: 39519070
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Settle vendor payments by using payment proposals 
@@ -140,5 +142,5 @@ April selects **Due date and cash discount** as the proposal type. For the range
 [Scenario: Take a discount that is more than the calculated discount for a vendor payment](scenario-take-a-discount-that-is-more-than-the-calculated-discount-for-a-vendor-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

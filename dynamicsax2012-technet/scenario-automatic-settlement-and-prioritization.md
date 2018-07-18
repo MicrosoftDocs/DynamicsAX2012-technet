@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Automatic settlement and prioritization'
 TOCTitle: 'Scenario: Automatic settlement and prioritization'
 ms:assetid: a0c9cfe3-e3e9-42fa-991a-64795efa6352
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692489(v=AX.60)
 ms:contentKeyID: 41702387
 ms.date: 06/13/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Automatic settlement and prioritization 
@@ -252,5 +254,5 @@ If there is no user-defined settlement priority, transactions are automatically 
 [Scenario: Settle a partial customer payment that has discounts on credit notes](scenario-settle-a-partial-customer-payment-that-has-discounts-on-credit-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

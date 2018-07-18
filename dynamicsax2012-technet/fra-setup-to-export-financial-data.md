@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Setup to export financial data
 TOCTitle: (FRA) Setup to export financial data
 ms:assetid: 55498ff6-6eac-45f0-8d7f-137161b8d07e
@@ -13,6 +13,8 @@ f1_keywords:
 - export data
 - export financial data
 - setup export
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Setup to export financial data 
@@ -203,5 +205,5 @@ Use the **Data export fields** form to create data export fields and assign the 
 [(DEU, FRA) Data export tables (form)](https://technet.microsoft.com/en-us/library/aa571461\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Windows PowerShell for Microsoft Dynamics AX
 TOCTitle: Windows PowerShell for Microsoft Dynamics AX
 ms:assetid: c9852f5b-0fee-4b80-8317-62f014187549
@@ -28,5 +28,5 @@ The topics in this section provide information about how to use Windows PowerShe
 [User and role-based security cmdlets](http://technet.microsoft.com/en-us/library/hh580554.aspx)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

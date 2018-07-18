@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Electronic fiscal document for services reporting
 TOCTitle: (BRA) Electronic fiscal document for services reporting
 ms:assetid: d549b62c-7733-405f-be82-61eaee487c38
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663940(v=AX.60)
 ms:contentKeyID: 49384525
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Electronic fiscal document for services reporting 
@@ -26,5 +28,5 @@ The topics in this section provide information about electronic fiscal document 
 [(BRA) Import an electronic fiscal document for services file](bra-import-an-electronic-fiscal-document-for-services-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

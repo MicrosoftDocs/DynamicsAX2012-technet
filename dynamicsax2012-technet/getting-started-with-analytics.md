@@ -1,4 +1,4 @@
-﻿---
+---
 title: Getting started with analytics
 TOCTitle: Getting started
 ms:assetid: 81dd6125-7737-42d2-b356-5c3542f2d5b8
@@ -22,5 +22,5 @@ The following topics introduce the concept of online analytical processing (OLAP
 [Microsoft Dynamics AX integration with Power BI for Office 365](microsoft-dynamics-ax-integration-with-power-bi-for-office-365.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

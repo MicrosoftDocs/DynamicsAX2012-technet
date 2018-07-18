@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Maintaining vendor information
 TOCTitle: (LTU) Maintaining vendor information
 ms:assetid: f6eec906-badd-4e6a-bf80-90c48676b93a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678102(v=AX.60)
 ms:contentKeyID: 49386826
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Maintaining vendor information 
@@ -20,5 +22,5 @@ The following topics provide information about managing vendor information.
 [(LTU) Set up United VAT invoice for vendors](ltu-set-up-united-vat-invoice-for-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Contractor security role (HcmContractor)
 TOCTitle: Contractor security role (HcmContractor)
 ms:assetid: 09693372-fb05-480c-8190-2269dea29f41
@@ -74,5 +74,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

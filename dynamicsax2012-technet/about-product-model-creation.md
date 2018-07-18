@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Product model creation
 TOCTitle: About Product model creation
 ms:assetid: 173ba3b7-414e-45e9-9fbe-523e2632688e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - product builder
 - product builder models
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Product model creation 
@@ -68,5 +70,5 @@ This section contains information about product models and how they are created.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

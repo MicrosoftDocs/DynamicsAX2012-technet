@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run a calculation
 TOCTitle: Run a calculation
 ms:assetid: 7af2c19e-7974-45f0-b2df-b34cfb0a85ca
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550075(v=AX.60)
 ms:contentKeyID: 36058252
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Run a calculation 
@@ -28,5 +30,5 @@ The concept resembles the period calculation that is used for actual and budget 
 Before you run a calculation, you must create distributions, allocations, or cost rate calculations by using the calculation version that is set up specifically for the flexible budget. The calculations are based on the plan calculations.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

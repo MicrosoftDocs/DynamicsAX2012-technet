@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import and set up XBRL taxonomies
 TOCTitle: Import and set up XBRL taxonomies
 ms:assetid: 0282381a-d979-41d4-8373-1185bd8e47a1
@@ -10,6 +10,8 @@ f1_keywords:
 - taxonomies
 - XBRL
 - XBRL taxonomy
+audience: Application User
+ms.search.region: Global
 ---
 
 # Import and set up XBRL taxonomies 
@@ -52,5 +54,5 @@ You must download the taxonomy files that you need before you import them.
 [Taxonomy details (form)](https://technet.microsoft.com/en-us/library/aa618475\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

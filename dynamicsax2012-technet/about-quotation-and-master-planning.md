@@ -1,4 +1,4 @@
-﻿---
+---
 title: About quotation and master planning
 TOCTitle: About quotation and master planning
 ms:assetid: f20d31bd-2e1b-4c5c-8ed8-cfaf1acf596c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551620(v=AX.60)
 ms:contentKeyID: 36688044
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About quotation and master planning 
@@ -24,5 +26,5 @@ You may find it useful to include only quotations that have a high probability o
 [Master plans (form)](https://technet.microsoft.com/en-us/library/aa591284\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

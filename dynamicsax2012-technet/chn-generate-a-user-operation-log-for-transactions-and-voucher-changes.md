@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Generate a user operation log for transactions and voucher changes
 TOCTitle: (CHN) Generate a user operation log for transactions and voucher changes
 ms:assetid: adc4b036-601e-4434-9000-563f934b5471
@@ -14,6 +14,8 @@ f1_keywords:
 - operation date
 - user name
 - user operation log
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Generate a user operation log for transactions and voucher changes 
@@ -99,5 +101,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

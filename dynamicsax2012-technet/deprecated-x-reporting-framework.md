@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: X++ Reporting Framework'
 TOCTitle: X++ Reporting Framework
 ms:assetid: 95a34245-f7ce-4854-978d-aa71c4be0d3c
@@ -60,5 +60,5 @@ Microsoft Dynamics AX 2009 and earlier versions supported the X++ reporting fram
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

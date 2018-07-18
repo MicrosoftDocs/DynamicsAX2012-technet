@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the exchange rate difference for a bank account
 TOCTitle: (RUS) Calculate the exchange rate difference for a bank account
 ms:assetid: 13fa7838-ac2a-4a8b-855c-b53b7cc79c46
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711407(v=AX.60)
 ms:contentKeyID: 49387224
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the exchange rate difference for a bank account 
@@ -58,5 +60,5 @@ At the end of each financial reporting period, you must revalue the remaining ca
 [(RUS) Bank transactions (modified form)](https://technet.microsoft.com/en-us/library/jj678344\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

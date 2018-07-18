@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up collections
 TOCTitle: Set up collections
 ms:assetid: c3c9dcda-9cca-4a80-bab2-032615dbc36e
@@ -30,6 +30,8 @@ f1_keywords:
 - teams
 - team
 - reimbursement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up collections 
@@ -426,5 +428,5 @@ Set up email addresses for salespeople if you want to send email messages to sal
 [Control posting and printing of collection letters](control-posting-and-printing-of-collection-letters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

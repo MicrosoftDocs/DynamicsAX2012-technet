@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Trade allowance management features"
 TOCTitle: Trade allowance management features
 ms:assetid: 82714c4a-bd8d-496b-9515-77cc2f87882e
@@ -84,5 +84,5 @@ We have added a new **Trade allowance management** module for Microsoft Dynamics
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

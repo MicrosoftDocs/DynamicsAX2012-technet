@@ -1,4 +1,4 @@
-﻿---
+---
 title: Request for quotation vendor/item report (PurchRFQVendItem)
 TOCTitle: Request for quotation vendor/item report (PurchRFQVendItem)
 ms:assetid: d85811b6-d1f1-46eb-84b3-b3c066ec5893
@@ -142,5 +142,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Request for quotation item/vendor report (PurchRFQItemVend)](request-for-quotation-item-vendor-report-purchrfqitemvend.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

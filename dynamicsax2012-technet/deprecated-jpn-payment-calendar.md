@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (JPN) Payment calendar'
 TOCTitle: (JPN) Payment calendar
 ms:assetid: f148f2b1-3b80-48e4-992f-b13b06317d50
@@ -55,5 +55,5 @@ For Japanese installations, Microsoft Dynamics AX 2009 provides a country-specif
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

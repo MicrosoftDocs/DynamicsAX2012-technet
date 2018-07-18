@@ -1,4 +1,4 @@
-﻿---
+---
 title: Service integration architecture with Windows Azure Service Bus Relay
 TOCTitle: Service integration architecture with Windows Azure Service Bus Relay
 ms:assetid: f7b102b5-b8c4-4e96-92ad-f287bf81fc8f
@@ -74,5 +74,5 @@ The following steps describe the authentication process and the service call and
 [How to Authenticate Web Users with Azure Active Directory Access Control](http://www.windowsazure.com/en-us/develop/net/how-to-guides/access-control/)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

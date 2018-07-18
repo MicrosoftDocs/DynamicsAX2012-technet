@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an item requirement
 TOCTitle: Create an item requirement
 ms:assetid: 629262ef-dff7-4290-9c5d-9d788146056a
@@ -10,6 +10,8 @@ f1_keywords:
 - project
 - sales order
 - item requirement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an item requirement 
@@ -56,5 +58,5 @@ For information about the consumption of item requirements, see [Consume item re
 [Item requirements (form)](https://technet.microsoft.com/en-us/library/aa552021\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

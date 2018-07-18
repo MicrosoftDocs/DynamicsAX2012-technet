@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create route groups
 TOCTitle: Create route groups
 ms:assetid: f299f567-8a1b-4ed1-b2eb-c19c223ba7ee
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551628(v=AX.60)
 ms:contentKeyID: 37832549
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create route groups 
@@ -68,5 +70,5 @@ Create routing groups to define parameters for a group of routes. You can specif
 [Create and update production routes](create-and-update-production-routes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Configure a digital certificate for an NF-e
 TOCTitle: (BRA) Configure a digital certificate for an NF-e
 ms:assetid: aaaf0d4c-5bc0-4eee-80bb-f237c59f2322
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - NF-e
 - electronic fiscal document
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Configure a digital certificate for an NF-e 
@@ -54,5 +56,5 @@ Use the following procedure to grant an AOS user access to the digital certifica
 [(BRA) About the NF-e process](bra-about-the-nf-e-process.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

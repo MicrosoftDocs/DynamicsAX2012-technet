@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up depreciation groups
 TOCTitle: (RUS) Set up depreciation groups
 ms:assetid: dc2feb13-c1da-4931-840d-67504e07bbd2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711670(v=AX.60)
 ms:contentKeyID: 49387992
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up depreciation groups 
@@ -66,5 +68,5 @@ Depreciation groups are defined for the value model for a fixed asset. Depreciat
 [(RUS) Fixed asset disposal](rus-fixed-asset-disposal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

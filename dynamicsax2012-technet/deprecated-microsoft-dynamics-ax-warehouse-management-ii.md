@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Microsoft Dynamics AX Warehouse Management II'
 TOCTitle: Microsoft Dynamics AX Warehouse Management II
 ms:assetid: 01be456f-1531-4f3c-893d-e96cd5cd3b15
@@ -53,5 +53,5 @@ Microsoft Dynamics AX 2012 provides several warehouse management processes in Wa
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

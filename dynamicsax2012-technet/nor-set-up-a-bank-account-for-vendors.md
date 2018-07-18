@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Set up a bank account for vendors
 TOCTitle: (NOR) Set up a bank account for vendors
 ms:assetid: b1b96094-92af-42ce-8a99-394f7fd7bcbb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232397(v=AX.60)
 ms:contentKeyID: 36058983
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Set up a bank account for vendors 
@@ -56,5 +58,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 19. Close the form to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

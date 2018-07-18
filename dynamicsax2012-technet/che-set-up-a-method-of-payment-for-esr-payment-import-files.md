@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHE) Set up a method of payment for ESR payment import files
 TOCTitle: (CHE) Set up a method of payment for ESR payment import files
 ms:assetid: 3f5db37c-6d60-4b17-ae27-10db89a4f8ce
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231173(v=AX.60)
 ms:contentKeyID: 36056705
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Switzerland
 ---
 
 # (CHE) Set up a method of payment for ESR payment import files 
@@ -48,5 +50,5 @@ Use the **Methods of payment** form to set up a method of payment for Enzahlungs
 [(CHE) Swiss LSV+ electronic payment format](che-swiss-lsv-electronic-payment-format.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

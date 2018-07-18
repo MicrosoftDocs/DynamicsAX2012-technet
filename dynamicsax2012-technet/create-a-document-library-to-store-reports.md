@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a document library to store reports
 TOCTitle: Create a document library to store reports
 ms:assetid: e04173fd-30fb-438c-bcd5-057e87d6544d
@@ -71,5 +71,5 @@ After you have created the document library, complete the following procedure to
 7.  On the **Application Object Server information** tab, select the name of the AOS instance.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

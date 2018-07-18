@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Specify fiscal information for a project contract
 TOCTitle: (BRA) Specify fiscal information for a project contract
 ms:assetid: 9c43c25d-e744-451f-8b50-f4b4e60f16a6
@@ -10,6 +10,8 @@ f1_keywords:
 - fiscal information
 - IBGE codes
 - Service codes
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Specify fiscal information for a project contract 
@@ -32,5 +34,5 @@ Use this procedure to specify fiscal information for a project contract. You can
 [(BRA) Project contracts (modified form)](https://technet.microsoft.com/en-us/library/jj937993\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

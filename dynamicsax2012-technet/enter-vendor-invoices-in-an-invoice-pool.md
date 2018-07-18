@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter vendor invoices in an invoice pool
 TOCTitle: Enter vendor invoices in an invoice pool
 ms:assetid: ae5c8ccc-d8bb-4a91-a896-e4e35853683f
@@ -15,6 +15,8 @@ f1_keywords:
 - enter
 - excl.
 - excluding
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enter vendor invoices in an invoice pool 
@@ -49,5 +51,5 @@ Use this procedure to enter vendor invoices. Another user will approve and post 
 [Vendor invoice pool excluding posting details (form)](https://technet.microsoft.com/en-us/library/bb314782\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prioritize service orders
 TOCTitle: Prioritize service orders
 ms:assetid: 4f268c1d-a664-4fcd-bfe3-abed114b1e3f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212753(v=AX.60)
 ms:contentKeyID: 36057210
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Prioritize service orders 
@@ -34,5 +36,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [View the status of service orders](view-the-status-of-service-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

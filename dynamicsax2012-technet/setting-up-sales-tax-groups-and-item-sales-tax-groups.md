@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up sales tax groups and item sales tax groups
 TOCTitle: Setting up sales tax groups and item sales tax groups
 ms:assetid: 60a16f00-2e21-4414-beeb-15b4109b4821
@@ -11,6 +11,8 @@ f1_keywords:
 - tax
 - tax setup
 - item tax
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up sales tax groups and item sales tax groups 
@@ -41,5 +43,5 @@ The topics in this section provide information about how to set up sales tax gro
 [(SGP) Set up tax groups for GST reporting](sgp-set-up-tax-groups-for-gst-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

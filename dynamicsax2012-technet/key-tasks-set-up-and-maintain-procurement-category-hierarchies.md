@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Set up and maintain procurement category hierarchies'
 TOCTitle: 'Key tasks: Set up and maintain procurement category hierarchies'
 ms:assetid: 590d8f83-2345-473d-bc3b-92eeacdee69e
@@ -22,6 +22,8 @@ f1_keywords:
 - questionnaire
 - procurement categories
 - category hierarchies
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Set up and maintain procurement category hierarchies 
@@ -206,5 +208,5 @@ Back to top
 [Set up policies for category hierarchies](set-up-policies-for-category-hierarchies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

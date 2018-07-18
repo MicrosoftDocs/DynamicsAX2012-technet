@@ -1,4 +1,4 @@
-﻿---
+---
 title: " Business Operation Framework"
 TOCTitle: " Business Operation Framework"
 ms:assetid: DynamicsAXGlossary.1364952
@@ -19,5 +19,5 @@ The model-view-controller framework that synchronously or asynchronously control
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

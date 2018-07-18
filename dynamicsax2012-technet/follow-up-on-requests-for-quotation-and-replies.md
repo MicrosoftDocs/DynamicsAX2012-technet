@@ -1,4 +1,4 @@
-﻿---
+---
 title: Follow up on requests for quotation and replies
 TOCTitle: Follow up on requests for quotation and replies
 ms:assetid: 9401acc2-9084-4cd8-b033-da9fa88116b6
@@ -22,6 +22,8 @@ f1_keywords:
 - follow up
 - followups
 - follow-ups
+audience: Application User
+ms.search.region: Global
 ---
 
 # Follow up on requests for quotation and replies 
@@ -50,5 +52,5 @@ Use this procedure to follow up on request for quotations (RFQs) and RFQ replies
 [Request for quotation follow-up (form)](https://technet.microsoft.com/en-us/library/hh227392\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

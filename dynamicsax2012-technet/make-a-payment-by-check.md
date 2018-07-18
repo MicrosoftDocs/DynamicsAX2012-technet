@@ -1,4 +1,4 @@
-﻿---
+---
 title: Make a payment by check
 TOCTitle: Make a payment by check
 ms:assetid: 31baab1e-a686-4627-8714-21be0cc2016c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570052(v=AX.60)
 ms:contentKeyID: 36056344
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Make a payment by check 
@@ -52,5 +54,5 @@ To make a payment by check, you must first set up the layout of checks in the **
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

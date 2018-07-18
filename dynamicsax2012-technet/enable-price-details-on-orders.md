@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enable price details on orders
 TOCTitle: Enable price details on orders
 ms:assetid: 886db97e-d55e-480d-9140-eada9a1858cc
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.MCRPriceHistory
 - price details
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enable price details on orders 
@@ -90,5 +92,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

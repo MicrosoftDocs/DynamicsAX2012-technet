@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure and schedule retail data distribution
 TOCTitle: Configure and schedule retail data distribution
 ms:assetid: 65b29a72-c7a7-453e-8f97-8281548df0a6
@@ -60,5 +60,5 @@ The following illustration shows the relationships between jobs, subjobs, distri
 ![How Retail Scheduler works](images/JJ679920.RetailScheduler(en-us,AX.60).gif "How Retail Scheduler works")
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

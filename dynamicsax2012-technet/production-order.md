@@ -1,4 +1,4 @@
-﻿---
+---
 title: " production order"
 TOCTitle: " production order"
 ms:assetid: DynamicsAXGlossary.232535
@@ -23,5 +23,5 @@ A source document that documents the requirements for producing items to meet a 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

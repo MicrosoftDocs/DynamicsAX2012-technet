@@ -1,4 +1,4 @@
-﻿---
+---
 title: Strategies for Using the Budget Planning Analysis Data Cube in Microsoft Dynamics AX 2012 R2
 TOCTitle: Strategies for Using the Budget Planning Analysis Data Cube in Microsoft Dynamics AX 2012 R2
 ms:assetid: 23044046-992b-4a1d-af13-3485088d550f
@@ -23,5 +23,5 @@ This white paper covers the budget planning analysis data cube and consideration
 [Download the paper.](http://go.microsoft.com/fwlink/?linkid=272948%26clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

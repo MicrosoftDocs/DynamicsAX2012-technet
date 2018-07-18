@@ -1,4 +1,4 @@
-﻿---
+---
 title: About prerequisites for nonconformances
 TOCTitle: About prerequisites for nonconformances
 ms:assetid: 7bb85741-fc4a-49e0-9892-563cd47cf1dc
@@ -12,6 +12,8 @@ f1_keywords:
 - nonconformance setup
 - instance of nonconformance
 - non-conformance
+audience: Application User
+ms.search.region: Global
 ---
 
 # About prerequisites for nonconformances 
@@ -62,5 +64,5 @@ To set up and use nonconformances, follow these steps:
 [Corrections (form)](https://technet.microsoft.com/en-us/library/hh416712\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

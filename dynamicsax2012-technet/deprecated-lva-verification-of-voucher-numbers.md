@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (LVA) Verification of voucher numbers'
 TOCTitle: (LVA) Verification of voucher numbers
 ms:assetid: 627b934a-e6d7-4d1f-ad06-949a27e1dc04
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, Eastern European countries have a country/region-
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

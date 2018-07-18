@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for deferrals
 TOCTitle: (RUS) Set up a register for deferrals
 ms:assetid: aae2467b-eef8-4f93-adc0-03c4525212c7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711502(v=AX.60)
 ms:contentKeyID: 49387827
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for deferrals 
@@ -46,5 +48,5 @@ Deferred expense registers are created at actual recognition of losses incurred 
 [(RUS) Calculate the deferrals register](rus-calculate-the-deferrals-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

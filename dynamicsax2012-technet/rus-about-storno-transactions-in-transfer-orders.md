@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About storno transactions in transfer orders
 TOCTitle: (RUS) About storno transactions in transfer orders
 ms:assetid: cc0acb26-e121-4ba9-9d64-e21d1183b381
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711623(v=AX.60)
 ms:contentKeyID: 49387948
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About storno transactions in transfer orders 
@@ -32,5 +34,5 @@ If items that were shipped from a warehouse are later returned, or if errors wer
 [(RUS) Create a partial storno transaction for a transfer order shipment using shipped quantity return](rus-create-a-partial-storno-transaction-for-a-transfer-order-shipment-using-shipped-quantity-return.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

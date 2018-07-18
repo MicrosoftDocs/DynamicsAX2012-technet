@@ -1,4 +1,4 @@
-﻿---
+---
 title: Follow up on customer cases
 TOCTitle: Follow up on customer cases
 ms:assetid: 03c9f296-e84d-41b1-969f-6fca66d47ee9
@@ -17,6 +17,8 @@ f1_keywords:
 - stage reason code
 - time recording
 - customer cases
+audience: Application User
+ms.search.region: Global
 ---
 
 # Follow up on customer cases 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to follow up on custome
 [View stage reason codes](view-stage-reason-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

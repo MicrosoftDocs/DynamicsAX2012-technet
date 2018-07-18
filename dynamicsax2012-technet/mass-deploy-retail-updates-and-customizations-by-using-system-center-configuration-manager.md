@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mass deploy retail updates and customizations by using System Center Configuration Manager
 TOCTitle: Mass deploy retail updates and customizations by using System Center Configuration Manager
 ms:assetid: 188cd18c-6dbf-4ed4-b359-af5386e1a370
@@ -169,5 +169,5 @@ Use the following procedure to deploy customizations to Retail components. Mass 
 15. From System Center Configuration Manager, deploy the update package to a target collection. If you customized the Retail Channel Configuration Utility, run the **Configure Retail Channel database** task sequence to run the utility after it has been patched.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

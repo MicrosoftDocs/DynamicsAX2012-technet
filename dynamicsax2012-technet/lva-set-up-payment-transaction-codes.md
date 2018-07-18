@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Set up payment transaction codes
 TOCTitle: (LVA) Set up payment transaction codes
 ms:assetid: b514dcdb-6e68-479f-bb22-2afd3e78214b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720365(v=AX.60)
 ms:contentKeyID: 49721161
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Set up payment transaction codes 
@@ -32,5 +34,5 @@ The payment transaction code indicates the type of the payment transaction, such
 [(LVA) Transaction code (form)](https://technet.microsoft.com/en-us/library/jj684600\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

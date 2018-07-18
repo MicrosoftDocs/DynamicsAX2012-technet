@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Set up sales order entry statistics
 TOCTitle: (SWE) Set up sales order entry statistics
 ms:assetid: 3e00a762-de7f-4d77-9e46-700d8d0ff4f6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231167(v=AX.60)
 ms:contentKeyID: 36056685
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Set up sales order entry statistics 
@@ -30,5 +32,5 @@ You can set up reports that show changes that are made to sales order entry line
 [(SWE) Print order entry statistics](swe-print-order-entry-statistics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

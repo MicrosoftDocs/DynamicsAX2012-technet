@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Specify fiscal information for a purchase requisition
 TOCTitle: (BRA) Specify fiscal information for a purchase requisition
 ms:assetid: 20b5b793-2c1a-43cd-9733-76809119e3e3
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - fiscal information
 - purchase requistion form
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Specify fiscal information for a purchase requisition 
@@ -50,5 +52,5 @@ You can specify the fiscal information for a purchase requisition by using the *
 [(BRA) Purchase requisitions - lines (modified form)](https://technet.microsoft.com/en-us/library/jj923406\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Virtual company accounts in Microsoft Dynamics AX
 TOCTitle: Virtual company accounts in Microsoft Dynamics AX
 ms:assetid: 8b4f6374-8ef5-49aa-942a-50d354a192d7
@@ -142,5 +142,5 @@ The system administrator can grant permission to create virtual company accounts
 When you delete a virtual company, the shared data that is associated with the virtual company is not deleted automatically. This data remains available in cross-company queries. To delete a virtual company, you must remove the associated data from the tables that were shared via the virtual company.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

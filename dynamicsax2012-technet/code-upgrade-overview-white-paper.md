@@ -1,4 +1,4 @@
-﻿---
+---
 title: Code Upgrade Overview (White paper)
 TOCTitle: Code Upgrade Overview
 ms:assetid: a71d4797-0ac9-462b-8960-2c634fffacee
@@ -18,5 +18,5 @@ The upgrade to Microsoft Dynamics AX is a multiple-stage process. This paper pro
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213108).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

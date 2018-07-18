@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update product data by using the mass update worksheet
 TOCTitle: Update product data by using the mass update worksheet
 ms:assetid: 334d85f2-9e00-4fe2-afea-bd18a82973d3
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - BR - 00038
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update product data by using the mass update worksheet 
@@ -51,5 +53,5 @@ You can update the properties of multiple products at the same time by using the
 [Apply formula (form)](https://technet.microsoft.com/en-us/library/jj728731\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

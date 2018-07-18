@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy Message Queuing for AIF
 TOCTitle: Deploy Message Queuing for AIF
 ms:assetid: 1e5a2329-3f18-40cc-ad10-3d2f1530f6c7
@@ -136,5 +136,5 @@ To enable prioritization of messages when using Message Queuing:
 [Configure addresses for enhanced integration ports](configure-addresses-for-enhanced-integration-ports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

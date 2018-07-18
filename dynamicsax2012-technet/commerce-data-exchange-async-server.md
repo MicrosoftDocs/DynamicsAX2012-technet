@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Commerce Data Exchange: Async Server'
 TOCTitle: 'Commerce Data Exchange: Async Server'
 ms:assetid: 8f802c2f-37bc-4a5c-805e-bece3640245f
@@ -38,5 +38,5 @@ Each instance of Async Server can refer to only one message database. However, a
 [Commerce Data Exchange](commerce-data-exchange.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

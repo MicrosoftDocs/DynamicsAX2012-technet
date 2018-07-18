@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring SQL Server Reporting Services scale-out deployment in a Network Load Balancing cluster (White paper)
 TOCTitle: Configuring SQL Server Reporting Services scale-out deployment in a Network Load Balancing cluster (White paper)
 ms:assetid: 4f84dee3-b607-4b27-9172-039ec55de16d
@@ -20,5 +20,5 @@ A Reporting Services scale-out deployment includes two or more report server ins
 [Download the paper.](http://go.microsoft.com/fwlink/?linkid=248235)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter an addition to a fixed asset
 TOCTitle: Enter an addition to a fixed asset
 ms:assetid: f0f33b41-e82e-4e8d-9f88-6939867ad47c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243273(v=AX.60)
 ms:contentKeyID: 36059927
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enter an addition to a fixed asset 
@@ -46,5 +48,5 @@ An addition to a fixed asset is maintenance to or an add-on item for a fixed ass
 [Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620341\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up depreciation profiles
 TOCTitle: Set up depreciation profiles
 ms:assetid: e6c35e67-b127-4f23-a3d7-89dc8e9114a4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573188(v=AX.60)
 ms:contentKeyID: 36059808
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up depreciation profiles 
@@ -56,5 +58,5 @@ You can create an unlimited number of depreciation profiles. You also can create
 [Depreciation profiles (form)](https://technet.microsoft.com/en-us/library/aa549887\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

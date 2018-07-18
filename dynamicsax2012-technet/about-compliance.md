@@ -1,4 +1,4 @@
-﻿---
+---
 title: About compliance
 TOCTitle: About compliance
 ms:assetid: 72714ad3-a947-431b-b841-0f4834483161
@@ -24,6 +24,8 @@ f1_keywords:
 - SOP
 - SOPs
 - standards
+audience: Application User
+ms.search.region: Global
 ---
 
 # About compliance 
@@ -208,5 +210,5 @@ If errors appear in a KRI Web Part, the required Microsoft SQL Server Analysis S
 [Audit activities and reporting](audit-activities-and-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

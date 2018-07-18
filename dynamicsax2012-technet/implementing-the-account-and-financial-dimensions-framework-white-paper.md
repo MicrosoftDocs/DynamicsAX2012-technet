@@ -1,4 +1,4 @@
-﻿---
+---
 title: Implementing the Account and Financial Dimensions Framework (White paper)
 TOCTitle: Implementing the Account and Financial Dimensions Framework
 ms:assetid: 1cd4e613-d7f6-47d5-a38c-48bccdaa674a
@@ -18,5 +18,5 @@ This white paper describes the new patterns that are used to represent accounts 
 [Download the white paper](http://go.microsoft.com/fwlink/?linkid=213133).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

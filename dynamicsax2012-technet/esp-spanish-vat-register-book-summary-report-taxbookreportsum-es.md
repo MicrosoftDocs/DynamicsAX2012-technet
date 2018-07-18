@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Spanish VAT register book summary report (TaxBookReportSum_ES)
 TOCTitle: (ESP) Spanish VAT register book summary report (TaxBookReportSum_ES)
 ms:assetid: f39ed576-2e40-40c4-ab99-ce875e0d9d00
@@ -92,5 +92,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(ESP) Spanish VAT reports (form)](https://technet.microsoft.com/en-us/library/aa554510\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

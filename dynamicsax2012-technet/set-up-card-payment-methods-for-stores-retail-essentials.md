@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up card payment methods for stores (Retail essentials)
 TOCTitle: Set up card payment methods for stores (Retail essentials)
 ms:assetid: cbb6ffa9-d700-419d-8e7b-3bb267784b4c
@@ -48,5 +48,5 @@ To set up specific credit cards, debit cards, and other card payments for a stor
 [Set up payment card types and card numbers (Retail essentials)](set-up-payment-card-types-and-card-numbers-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

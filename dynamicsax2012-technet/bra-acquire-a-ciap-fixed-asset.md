@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Acquire a CIAP fixed asset
 TOCTitle: (BRA) Acquire a CIAP fixed asset
 ms:assetid: 7b22d295-1ce0-4286-a452-20d84839a316
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - forms.FBCIAPAssetTable_BR
 - MsDynAx060.forms.FBCIAPAssetTable_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Acquire a CIAP fixed asset 
@@ -49,5 +51,5 @@ To generate fixed asset tax credit, the legal entity must retain acquisition inf
 8.  To view CIAP fixed assets, click **Fiscal books** \> **Common** \> **All CIAP fixed assets**. Click **CIAP fixed asset** in the group on the **Action Pane**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

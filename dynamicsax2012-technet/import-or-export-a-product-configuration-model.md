@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import or export a product configuration model
 TOCTitle: Import or export a product configuration model
 ms:assetid: 9e004a3a-e6b7-46a7-b6d8-7d289770cab3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597189(v=AX.60)
 ms:contentKeyID: 39519256
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Import or export a product configuration model 
@@ -48,5 +50,5 @@ You can import and export a product configuration model as an XML file. This is 
 [Import product configuration model (form)](https://technet.microsoft.com/en-us/library/hh597292\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

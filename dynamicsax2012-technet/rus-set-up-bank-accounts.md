@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up bank accounts
 TOCTitle: (RUS) Set up bank accounts
 ms:assetid: 77e70933-5225-4533-a1ad-bf894ae458d5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678375(v=AX.60)
 ms:contentKeyID: 49387605
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up bank accounts 
@@ -56,5 +58,5 @@ You must register the bank accounts for the company.
 14. Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

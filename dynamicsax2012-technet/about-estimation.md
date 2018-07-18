@@ -1,4 +1,4 @@
-﻿---
+---
 title: About estimation
 TOCTitle: About estimation
 ms:assetid: 345ec0fc-b528-4c68-9e48-1e52580b0221
@@ -12,6 +12,8 @@ f1_keywords:
 - estimate
 - costing
 - estination
+audience: Application User
+ms.search.region: Global
 ---
 
 # About estimation 
@@ -54,5 +56,5 @@ A cost estimate also provides:
 [Production - Price calculation (form)](https://technet.microsoft.com/en-us/library/aa572054\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

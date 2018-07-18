@@ -1,4 +1,4 @@
-﻿---
+---
 title: " accounting distribution line"
 TOCTitle: " accounting distribution line"
 ms:assetid: DynamicsAXGlossary.1370442
@@ -27,5 +27,5 @@ The subline of a source document line documenting the financial consequence of a
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

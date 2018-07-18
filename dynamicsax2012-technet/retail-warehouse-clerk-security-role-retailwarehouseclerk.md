@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail warehouse clerk security role (RetailWarehouseClerk)
 TOCTitle: Retail warehouse clerk security role (RetailWarehouseClerk)
 ms:assetid: 3076c7bc-e88d-4081-8aef-35a2da9abef4
@@ -113,5 +113,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

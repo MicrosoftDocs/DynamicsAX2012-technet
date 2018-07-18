@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Customize Microsoft Dynamics AX to include the XML addenda element for a customer
 TOCTitle: (MEX) Customize Microsoft Dynamics AX to include the XML addenda element for a customer
 ms:assetid: 00649794-1532-4f2a-9362-a77f23d7d46b
@@ -13,6 +13,8 @@ f1_keywords:
 - customer
 - Microsoft Dynamics
 - XML addenda
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Customize Microsoft Dynamics AX to include the XML addenda element for a customer 
@@ -144,5 +146,5 @@ After you customize Microsoft Dynamics AX, you can generate the following .xml f
     </Comprobante>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

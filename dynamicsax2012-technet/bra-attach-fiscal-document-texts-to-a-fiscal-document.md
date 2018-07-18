@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Attach fiscal document texts to a fiscal document
 TOCTitle: (BRA) Attach fiscal document texts to a fiscal document
 ms:assetid: a3cee143-2f9b-43cc-b218-da5825832c40
@@ -12,6 +12,8 @@ f1_keywords:
 - fiscal document
 - fiscal document text
 - Attach fiscal document text
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Attach fiscal document texts to a fiscal document 
@@ -106,5 +108,5 @@ You must set up fiscal document source texts and document types for fiscal docum
 [(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/en-us/library/jj663934\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

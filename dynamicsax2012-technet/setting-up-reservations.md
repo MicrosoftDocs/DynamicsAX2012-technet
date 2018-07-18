@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up reservations
 TOCTitle: Setting up reservations
 ms:assetid: 96e152a9-7195-4175-b6f7-05507f99d574
@@ -11,6 +11,8 @@ f1_keywords:
 - orders
 - reservation
 - inventory
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up reservations 
@@ -41,5 +43,5 @@ The topics in this section provide information about how to set up reservations.
 [Set up items to reserve](set-up-items-to-reserve.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

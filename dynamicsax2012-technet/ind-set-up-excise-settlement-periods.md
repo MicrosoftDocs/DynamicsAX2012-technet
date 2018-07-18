@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up excise settlement periods
 TOCTitle: (IND) Set up excise settlement periods
 ms:assetid: 3741f80c-0b84-4f92-aa52-cb4ca6dbc647
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664622(v=AX.60)
 ms:contentKeyID: 49385699
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up excise settlement periods 
@@ -44,5 +46,5 @@ Excise duty is paid at the end of a predefined period. Each period has the same 
 [(IND) Setting up Value Added Tax (VAT)](ind-setting-up-value-added-tax-vat.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up retail product catalogs
 TOCTitle: Setting up retail product catalogs
 ms:assetid: 413dbca6-1d4d-48f7-a28e-200ef1232ed8
@@ -11,6 +11,8 @@ f1_keywords:
 - product
 - retail
 - catalog
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up retail product catalogs 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to set up product catal
 [Set up workflow for retail catalogs](set-up-workflow-for-retail-catalogs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

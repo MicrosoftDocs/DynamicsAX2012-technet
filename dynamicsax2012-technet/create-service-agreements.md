@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create service agreements
 TOCTitle: Create service agreements
 ms:assetid: a834770c-18d3-4f24-a012-2c0589fb1243
@@ -10,6 +10,8 @@ f1_keywords:
 - service
 - agreement
 - contract
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create service agreements 
@@ -50,5 +52,5 @@ This topic describes how to use features in the **Service management** and the *
 [Create service-agreement lines manually](create-service-agreement-lines-manually.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

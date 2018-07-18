@@ -1,4 +1,4 @@
-﻿---
+---
 title: Grant users access to cubes
 TOCTitle: Grant users access to cubes
 ms:assetid: dd6bba5a-22d8-4bf0-9355-bee63b45818b
@@ -78,5 +78,5 @@ Complete the following procedure to specify which cubes a database role has acce
 6.  Click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

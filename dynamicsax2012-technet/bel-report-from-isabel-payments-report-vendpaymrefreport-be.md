@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Report from Isabel payments report (VendPaymRefReport_BE)
 TOCTitle: (BEL) Report from Isabel payments report (VendPaymRefReport_BE)
 ms:assetid: 7cdc0e85-af38-4665-8451-2e6cc58e31a4
@@ -126,5 +126,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Key tasks: Vendor payments and settlements](key-tasks-vendor-payments-and-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

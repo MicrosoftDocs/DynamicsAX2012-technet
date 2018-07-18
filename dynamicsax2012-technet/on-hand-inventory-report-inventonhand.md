@@ -1,4 +1,4 @@
-﻿---
+---
 title: On-hand inventory report (InventOnhand)
 TOCTitle: On-hand inventory report (InventOnhand)
 ms:assetid: 87bcf61f-33ff-4e30-a099-445721df8f32
@@ -139,5 +139,5 @@ If you are a developer, you can learn more about where the data on a report come
 [On-hand inventory (form)](https://technet.microsoft.com/en-us/library/aa616522\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

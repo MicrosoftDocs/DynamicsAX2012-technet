@@ -1,4 +1,4 @@
-﻿---
+---
 title: Compile the product model
 TOCTitle: Compile the product model
 ms:assetid: d9e70ffc-ca78-4ad5-9d56-7390e2150bdd
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - product builder
 - compile the product model
+audience: Application User
+ms.search.region: Global
 ---
 
 # Compile the product model 
@@ -41,5 +43,5 @@ Click **Product information management** \> **Common** \> **Product builder** \>
 2.  Select a product model line, and on the **Develop** tab, click **Compile product model**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

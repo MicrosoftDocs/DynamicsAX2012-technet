@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run operations scheduling
 TOCTitle: Schedule operations
 ms:assetid: 3a7850db-88fe-4a10-95ca-0b33b649cd7d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570151(v=AX.60)
 ms:contentKeyID: 43976711
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Run operations scheduling 
@@ -84,5 +86,5 @@ You can use the buttons in the **Operations scheduling** form to do the followin
 [Production - Operations scheduling (class form)](https://technet.microsoft.com/en-us/library/aa571353\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

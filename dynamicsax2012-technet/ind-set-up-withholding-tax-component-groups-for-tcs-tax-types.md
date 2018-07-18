@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up withholding tax component groups for TCS tax types
 TOCTitle: (IND) Set up withholding tax component groups for TCS tax types
 ms:assetid: 252126d2-d858-48ea-a1ae-abfa9be5d86e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664562(v=AX.60)
 ms:contentKeyID: 49385642
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up withholding tax component groups for TCS tax types 
@@ -116,5 +118,5 @@ You can create or cancel TCS certificates for the TCS withholding tax component 
 [(IND) Delete certificates (form)](https://technet.microsoft.com/en-us/library/jj664659\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

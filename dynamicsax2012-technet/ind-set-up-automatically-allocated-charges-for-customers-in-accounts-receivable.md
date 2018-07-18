@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up automatically allocated charges for customers in Accounts receivable
 TOCTitle: (IND) Set up automatically allocated charges for customers in Accounts receivable
 ms:assetid: c37889bf-244b-499a-a7ed-1a2966a65bb8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664884(v=AX.60)
 ms:contentKeyID: 49386217
 ms.date: 09/19/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up automatically allocated charges for customers in Accounts receivable 
@@ -73,5 +75,5 @@ You can define automatically allocated charges for a specific customer or charge
 [(IND) Auto charges (modified form)](https://technet.microsoft.com/en-us/library/jj664811\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

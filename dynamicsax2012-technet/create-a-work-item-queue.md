@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a work item queue
 TOCTitle: Create a work item queue
 ms:assetid: 4b91b3a6-7a21-453b-ae61-75497a3db801
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731789(v=AX.60)
 ms:contentKeyID: 35132627
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a work item queue 
@@ -240,5 +242,5 @@ Complete the following procedure to create an assignment rule.
 7.  To specify when this rule is evaluated, select the **Move up** or **Move down** buttons.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

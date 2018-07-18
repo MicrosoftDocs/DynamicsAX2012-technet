@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up retail attribute groups
 TOCTitle: Set up retail attribute groups
 ms:assetid: e3c85ed0-4930-4e50-9ab2-5b3fe9932b70
@@ -11,6 +11,8 @@ f1_keywords:
 - catalog
 - product attributes, channel attributes
 - retail catalogs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up retail attribute groups 
@@ -47,5 +49,5 @@ You must define attributes before you can add them to an attribute group. For in
 [Set up attributes and attribute types](set-up-attributes-and-attribute-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

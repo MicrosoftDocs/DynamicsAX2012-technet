@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up replenishment rules (Retail essentials)
 TOCTitle: Set up replenishment rules (Retail essentials)
 ms:assetid: 4836c22e-741c-4284-badd-1e41f53bc498
@@ -53,5 +53,5 @@ To set up replenishment rules for a store or a replenishment hierarchy, follow t
 [Replenish inventory overview (Retail essentials)](replenish-inventory-overview-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

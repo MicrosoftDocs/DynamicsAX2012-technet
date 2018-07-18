@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with General ledger
 TOCTitle: Working with General ledger
 ms:assetid: d514d7a0-a9c9-4685-ae2b-d486830e728f
@@ -10,6 +10,8 @@ f1_keywords:
 - gl
 - ledger
 - general ledger
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with General ledger 
@@ -30,5 +32,5 @@ This section provides overviews of the General ledger business process component
 [Close books overview](close-books-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

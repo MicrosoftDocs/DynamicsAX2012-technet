@@ -1,4 +1,4 @@
-﻿---
+---
 title: Approve or reject an invoice proposal
 TOCTitle: Approve or reject an invoice proposal
 ms:assetid: 99ca5d37-b0eb-4cbd-9d1a-83ccc963717d
@@ -11,6 +11,8 @@ f1_keywords:
 - approve invoice proposal
 - revoke invoice proposal
 - project parameters
+audience: Application User
+ms.search.region: Global
 ---
 
 # Approve or reject an invoice proposal 
@@ -57,5 +59,5 @@ You can approve or reject an invoice proposal only if the following conditions a
 [Create an invoice for a time and material project](create-an-invoice-for-a-time-and-material-project.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

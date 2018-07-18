@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow (Enterprise Portal)
 TOCTitle: Workflow
 ms:assetid: 6c92b74b-5e9d-4bce-b3f4-5e3cd0668ca0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271554(v=AX.60)
 ms:contentKeyID: 36384186
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Workflow (Enterprise Portal) 
@@ -28,5 +30,5 @@ This section contains the following topics:
 [Respond to work items (Enterprise Portals)](respond-to-work-items-enterprise-portals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

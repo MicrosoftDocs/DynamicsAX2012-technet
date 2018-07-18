@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Cancel a project debit note
 TOCTitle: (BRA) Cancel a project debit note
 ms:assetid: 5d78316a-01a2-45dc-b639-286fda27ba16
@@ -10,6 +10,8 @@ f1_keywords:
 - project debit note
 - cancel a debit note
 - debit note
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Cancel a project debit note 
@@ -50,5 +52,5 @@ Use the **Debit note journals** form to cancel debit notes for a project.
 [(BRA) Post debit note proposal (form)](https://technet.microsoft.com/en-us/library/jj923396\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Overview of adjustable and nonadjustable fields
 TOCTitle: Overview of adjustable and nonadjustable fields
 ms:assetid: 7d033834-373a-4657-b307-deeaf19d42c7
@@ -10,6 +10,8 @@ f1_keywords:
 - adjustable
 - nonadjustable
 - project transaction types
+audience: Application User
+ms.search.region: Global
 ---
 
 # Overview of adjustable and nonadjustable fields 
@@ -172,5 +174,5 @@ The following table provides an overview of which field values in projects can b
 [Create adjustment transactions (class form)](https://technet.microsoft.com/en-us/library/aa634561\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

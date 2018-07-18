@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create, modify, and work with purchase order details
 TOCTitle: (RUS) Create, modify, and work with purchase order details
 ms:assetid: 78764d95-4021-420f-a577-80d7ccadcc52
@@ -10,6 +10,8 @@ f1_keywords:
 - create purchase order
 - create modify purchase orders
 - modify purchase order
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create, modify, and work with purchase order details 
@@ -22,5 +24,5 @@ The topic in this section provides information about product receipt corrections
 [(RUS) Product receipt corrections](rus-product-receipt-corrections.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

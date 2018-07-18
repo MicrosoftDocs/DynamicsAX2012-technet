@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) CFOP matrix (upgrade)
 TOCTitle: (BRA) CFOP matrix (upgrade)
 ms:assetid: af069531-d83a-40e2-9071-70a5c4b59601
@@ -30,5 +30,5 @@ Use this procedure to upgrade the CFOP matrix to use in free text invoices in Mi
 [(BRA) CFOP matrix (upgrade) (form)](https://technet.microsoft.com/en-us/library/jj713623\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

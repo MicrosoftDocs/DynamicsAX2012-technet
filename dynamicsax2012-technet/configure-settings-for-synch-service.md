@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure settings for Synch Service
 TOCTitle: Configure settings for Synch Service
 ms:assetid: 06302927-ef14-4fd3-8d54-3825679137ce
@@ -240,5 +240,5 @@ This topic describes how to use the Synch Service Settings wizard to manage Comm
 8.  On a Microsoft Dynamics AX client computer, modify the Application Object Server (AOS) profile so that it uses this instance of Synch Service. For more information, see [Set up an AOS profile](set-up-an-aos-profile.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

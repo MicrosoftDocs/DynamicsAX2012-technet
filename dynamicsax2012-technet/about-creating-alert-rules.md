@@ -1,4 +1,4 @@
-﻿---
+---
 title: About creating alert rules
 TOCTitle: About creating alert rules
 ms:assetid: 8daa1191-386b-4392-b194-21742698f73b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834415(v=AX.60)
 ms:contentKeyID: 46687554
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About creating alert rules 
@@ -54,5 +56,5 @@ If a user must be deleted, but you want to preserve an alert rule that the user 
 [About alert rules](about-alert-rules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

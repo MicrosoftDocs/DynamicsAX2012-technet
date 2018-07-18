@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring customer invoices
 TOCTitle: Configuring customer invoices
 ms:assetid: 065fbdc9-dcb4-46ad-bc78-b3f4473a49d3
@@ -15,6 +15,8 @@ f1_keywords:
 - invoice
 - print management
 - shipping
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring customer invoices 
@@ -55,5 +57,5 @@ The following topics provide information about configuring customer invoices.
 [(NOR) Select the parameter to print Enterprise register on sales documents](nor-select-the-parameter-to-print-enterprise-register-on-sales-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

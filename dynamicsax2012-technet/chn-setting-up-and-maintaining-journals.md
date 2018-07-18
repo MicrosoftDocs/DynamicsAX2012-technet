@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Setting up and maintaining journals
 TOCTitle: (CHN) Setting up and maintaining journals
 ms:assetid: eb598d71-8d7a-4faa-ab3b-515ad481417f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664146(v=AX.60)
 ms:contentKeyID: 49384729
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Setting up and maintaining journals 
@@ -32,5 +34,5 @@ The topics in this section provide information about how to set up and maintain 
 [(CHN) Create a voucher type](chn-create-a-voucher-type.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

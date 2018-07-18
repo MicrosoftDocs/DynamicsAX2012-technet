@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register an absence (Enterprise Portal)
 TOCTitle: Register an absence (Enterprise Portal)
 ms:assetid: 4109eb13-51bd-4529-9139-66b0af78e6a4
@@ -11,6 +11,8 @@ f1_keywords:
 - HcmEPAbsenceRegistrationEdit
 - HcmEPAbsenceRegistrationList
 - HcmEPAbsenceRegistrationTransfer
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register an absence (Enterprise Portal) 
@@ -89,5 +91,5 @@ Click **Time and attendance** on the top link bar, and then click **Absence regi
 [Request an absence](request-an-absence.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

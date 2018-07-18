@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project budgets and forecasts
 TOCTitle: About project budgets and forecasts
 ms:assetid: dae2dcbe-edd8-495f-a710-078cc6d2f115
@@ -12,6 +12,8 @@ f1_keywords:
 - project budget
 - budget control
 - forecast reduction
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project budgets and forecasts 
@@ -118,5 +120,5 @@ Project budgets must be associated with an original budget forecast model and a 
 [Project budget (form)](https://technet.microsoft.com/en-us/library/hh227438\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

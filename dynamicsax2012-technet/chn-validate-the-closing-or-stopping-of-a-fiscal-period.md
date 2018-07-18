@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Validate the closing or stopping of a fiscal period
 TOCTitle: (CHN) Validate the closing or stopping of a fiscal period
 ms:assetid: be9959cf-7804-4349-b7be-264c08df7743
@@ -12,6 +12,8 @@ f1_keywords:
 - Validity check
 - Validity check to end or close an accounting period
 - CN - 00013
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Validate the closing or stopping of a fiscal period 
@@ -78,5 +80,5 @@ Only a stopped fiscal period can be opened. You cannot reopen a fiscal period th
 [Key tasks: Fiscal calendars, fiscal years, and periods](key-tasks-fiscal-calendars-fiscal-years-and-periods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

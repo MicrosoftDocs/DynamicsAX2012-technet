@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tax codes, tax groups, and posting definitions
 TOCTitle: Tax codes, tax groups, and posting definitions
 ms:assetid: 57b01627-e821-491d-b460-c4225b4dfc68
@@ -19,6 +19,8 @@ f1_keywords:
 - tax group
 - payroll tax group
 - payroll tax groups
+audience: Application User
+ms.search.region: USA
 ---
 
 # Tax codes, tax groups, and posting definitions 
@@ -178,5 +180,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up hardware profiles (Retail Essentials)
 TOCTitle: Set up hardware profiles (Retail Essentials)
 ms:assetid: 8100e9d1-bf4a-4d4f-a07f-c4cf25ecad59
@@ -86,5 +86,5 @@ Retail essentials supports hardware that complies with Object Linking and Embedd
 [Setting up profiles (Retail essentials)](setting-up-profiles-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

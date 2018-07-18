@@ -1,4 +1,4 @@
-﻿---
+---
 title: Validate and approve imported catalogs
 TOCTitle: Validate and approve imported catalogs
 ms:assetid: 3d5c278c-5176-4462-832a-79e0b313192d
@@ -10,6 +10,8 @@ f1_keywords:
 - approve vendor catalogs
 - catalog import
 - vendor catalogs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Validate and approve imported catalogs 
@@ -78,5 +80,5 @@ Use this procedure to review the product details for products that are included 
 [Event log (form)](https://technet.microsoft.com/en-us/library/hh227443\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

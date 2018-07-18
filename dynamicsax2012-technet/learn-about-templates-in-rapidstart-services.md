@@ -1,4 +1,4 @@
-﻿---
+---
 title: Learn about templates in RapidStart Services
 TOCTitle: Learn about templates in RapidStart Services
 ms:assetid: 6264ab73-3dd0-42b8-b6c2-32d2f0001f20
@@ -72,5 +72,5 @@ When an administrator creates a new configuration project in the **Configure** a
 [Unpublish a template in RapidStart Services](unpublish-a-template-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure jobs and subjobs in Retail Scheduler
 TOCTitle: Configure jobs and subjobs in Retail Scheduler
 ms:assetid: ac7af386-fd6c-4f03-bea6-306db0537b87
@@ -134,5 +134,5 @@ Each scheduler job consists of one or more subjobs. Jobs should contain subjobs 
 7.  Enter other information in the form, if more information is required. For help with fields that are not described in this topic, see [Scheduler job (form)](https://technet.microsoft.com/en-us/library/hh672166\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

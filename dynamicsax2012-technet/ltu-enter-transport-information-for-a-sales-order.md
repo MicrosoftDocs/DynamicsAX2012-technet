@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Enter transport information for a sales order
 TOCTitle: (LTU) Enter transport information for a sales order
 ms:assetid: 31cabc00-c590-4f2c-a7a8-ac5956d67e54
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665052(v=AX.60)
 ms:contentKeyID: 49386634
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Enter transport information for a sales order 
@@ -60,5 +62,5 @@ In the **Sales order** form, you can enter additional information about the tran
 [(LTU) Transportation details (form)](https://technet.microsoft.com/en-us/library/jj665040\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Benefit accrual plan tasks
 TOCTitle: Benefit accrual plan tasks
 ms:assetid: 020cfd57-205e-44a8-81b1-e07de7fb2474
@@ -31,6 +31,8 @@ f1_keywords:
 - accrual plans
 - benefit accrual plans
 - PTO plans
+audience: Application User
+ms.search.region: USA
 ---
 
 # Benefit accrual plan tasks 
@@ -717,5 +719,5 @@ Back to top
 [Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

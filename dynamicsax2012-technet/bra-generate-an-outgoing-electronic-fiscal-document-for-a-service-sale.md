@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Generate an outgoing electronic fiscal document for a service sale
 TOCTitle: (BRA) Generate an outgoing electronic fiscal document for a service sale
 ms:assetid: 86f4346c-cae9-4cb0-8c34-a810ee7ec47a
@@ -13,6 +13,8 @@ f1_keywords:
 - NF-e
 - NF-e document
 - service sale
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Generate an outgoing electronic fiscal document for a service sale 
@@ -47,5 +49,5 @@ You can view the posted customer invoice in the **Invoice journal** form. For mo
 [(BRA) About electronic fiscal document for services reporting for Sao Paulo](bra-about-electronic-fiscal-document-for-services-reporting-for-sao-paulo.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

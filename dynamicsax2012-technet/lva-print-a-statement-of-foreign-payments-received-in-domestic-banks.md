@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Print a statement of foreign payments received in domestic banks
 TOCTitle: (LVA) Print a statement of foreign payments received in domestic banks
 ms:assetid: fc22a7dc-bc8b-4420-96b3-9f8e6775da88
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911244(v=AX.60)
 ms:contentKeyID: 52075327
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Print a statement of foreign payments received in domestic banks 
@@ -74,5 +76,5 @@ If your company receives payments from a foreign bank and deposits the payments 
 [(LVA) Bank transactions (modified form)](https://technet.microsoft.com/en-us/library/jj839644\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

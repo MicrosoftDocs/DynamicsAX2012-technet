@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create calculations
 TOCTitle: Create calculations
 ms:assetid: ac6cccdc-4759-4e63-b735-0e4a50b43e30
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn283315(v=AX.60)
 ms:contentKeyID: 54916492
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create calculations 
@@ -104,5 +106,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [About product configuration models](about-product-configuration-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

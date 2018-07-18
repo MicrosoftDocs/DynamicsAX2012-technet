@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Register an NVFA using the Not valuable FAs form
 TOCTitle: (RUS) Register an NVFA using the Not valuable FAs form
 ms:assetid: 8b0e66ce-da4e-4d6a-b1e9-3a84ffad4d77
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Russia
 - NVFA
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Register an NVFA using the Not valuable FAs form 
@@ -47,5 +49,5 @@ Use this procedure to register a not valuable fixed asset (NVFA) by using the **
 [(RUS) Not valuable FAs (form)](https://technet.microsoft.com/en-us/library/jj911484\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

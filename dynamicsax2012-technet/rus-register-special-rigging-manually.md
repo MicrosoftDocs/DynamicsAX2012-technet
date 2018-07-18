@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Register special rigging manually
 TOCTitle: (RUS) Register special rigging manually
 ms:assetid: a29f6e1c-3053-45d7-b28d-3195abb43dde
@@ -11,6 +11,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - special rigging
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Register special rigging manually 
@@ -49,5 +51,5 @@ Use this procedure to manually register and manage special rigging items.
 [(RUS) Special rigging (form)](https://technet.microsoft.com/en-us/library/jj923264\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

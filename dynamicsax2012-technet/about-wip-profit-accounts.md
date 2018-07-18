@@ -1,4 +1,4 @@
-﻿---
+---
 title: About WIP profit accounts
 TOCTitle: About WIP profit accounts
 ms:assetid: b4dd35af-1c4b-4fb3-b4ff-61a475ba181c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - WIP
 - profit account
+audience: Application User
+ms.search.region: Global
 ---
 
 # About WIP profit accounts 
@@ -114,5 +116,5 @@ For fixed-price projects, in the **Project groups** form, on the **Estimate** Fa
 [Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Open another company
 TOCTitle: Open another company
 ms:assetid: 6ba2e376-432e-4f2b-9318-9ccf649b9a96
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571190(v=AX.60)
 ms:contentKeyID: 37832506
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Open another company 
@@ -40,5 +42,5 @@ Use one of the following two methods to open a different legal entity.
 [Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

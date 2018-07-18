@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create purge objects (IDMF)
 TOCTitle: Create purge objects
 ms:assetid: 21829c60-8e2d-411a-ba7f-c7021dca0289
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/create-purge-objects-idmf/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

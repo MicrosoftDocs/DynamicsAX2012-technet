@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the Microsoft Dynamics AX databases
 TOCTitle: Install the Microsoft Dynamics AX databases
 ms:assetid: bccedbf4-d5fe-4f2b-9767-31bb82c4f037
@@ -359,5 +359,5 @@ If you want to create databases manually for Microsoft Dynamics AX, you must fir
     3.  Grant the user execute rights on the createserversessions and createusersessions stored procedures.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

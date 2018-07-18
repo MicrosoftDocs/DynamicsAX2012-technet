@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up return locations for retail stores
 TOCTitle: Set up return locations for retail stores
 ms:assetid: 7d718787-8ed7-4d22-9af1-68511a1b413b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720765(v=AX.60)
 ms:contentKeyID: 62231563
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up return locations for retail stores 
@@ -96,5 +98,5 @@ To set up return locations, follow these steps:
 [Set up return reason codes](set-up-return-reason-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

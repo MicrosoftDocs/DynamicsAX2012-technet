@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transfer actual costs in a flexible budget
 TOCTitle: Transfer actual costs in a flexible budget
 ms:assetid: 29743a81-8bf3-41d3-a1b7-037a24172027
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496847(v=AX.60)
 ms:contentKeyID: 36056220
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Transfer actual costs in a flexible budget 
@@ -32,5 +34,5 @@ Enter the following information on the **General** tab before you run the transf
   - **Create settings automatically** – Define whether to create flexible budget settings automatically and to transfer balances for cost categories, service categories, and dimensions defined in the flexible budget model setup.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

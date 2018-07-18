@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DEU) Create and submit a VAT report
 TOCTitle: (DEU) Create and submit a VAT report
 ms:assetid: 4609b89f-0e8d-49d0-8d30-ec877b658132
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Germany
 - VAT report
+audience: Application User
+ms.search.region: Germany
 ---
 
 # (DEU) Create and submit a VAT report 
@@ -107,5 +109,5 @@ Complete the following setup procedures to generate the electronic tax declarati
 [(DEU) Electronic tax declaration log (form)](https://technet.microsoft.com/en-us/library/aa620200\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About 125 percent reducing balance depreciation
 TOCTitle: About 125 percent reducing balance depreciation
 ms:assetid: b6b60b09-7f83-4b32-ba55-aa5db52f451c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550598(v=AX.60)
 ms:contentKeyID: 36676405
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About 125 percent reducing balance depreciation 
@@ -135,5 +137,5 @@ The 125% reducing balance method will divide 125% by the service life years. Tha
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

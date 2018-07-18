@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) TDS and TCS electronic file formats
 TOCTitle: (IND) TDS and TCS electronic file formats
 ms:assetid: 11a5e4ab-fcf7-4628-9f61-3e305996da7f
@@ -15,6 +15,8 @@ f1_keywords:
 - file formats
 - TCS electronic file formats
 - TDS electronic file formats
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) TDS and TCS electronic file formats 
@@ -35,5 +37,5 @@ To generate an electronic file for these statements, you must select the **Gener
 [(IND) Setting up TCS and TDS in Accounts payable](ind-setting-up-tcs-and-tds-in-accounts-payable.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

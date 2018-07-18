@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow system architecture
 TOCTitle: Workflow system architecture
 ms:assetid: 36794bf3-0d67-4221-8fa1-d6e8549f79e3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309641(v=AX.60)
 ms:contentKeyID: 35132602
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Workflow system architecture 
@@ -89,5 +91,5 @@ The following table describes the workflow steps that occur when a user submits 
 The workflow architecture helps to provide a reliable and durable messaging system and helps to ensure that the state of the workflow is always synchronized with the state of the application. In the event of an unexpected hardware or software failure, the workflow instance state is returned to its last known saved point and the message stays in the queue. Therefore, from an architecture perspective, the recovery model is to fix the problem and resume the workflow.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

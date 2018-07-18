@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a budget journal for a fixed asset acquisition
 TOCTitle: (RUS) Create and post a budget journal for a fixed asset acquisition
 ms:assetid: e1039dc7-40d9-427c-90f5-2541b2abff96
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711710(v=AX.60)
 ms:contentKeyID: 49388033
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a budget journal for a fixed asset acquisition 
@@ -94,5 +96,5 @@ Financial plans and current budgets can be created in the Fixed assets module us
 24. Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

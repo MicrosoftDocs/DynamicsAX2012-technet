@@ -1,4 +1,4 @@
-﻿---
+---
 title: Attach user profiles to modeling variables
 TOCTitle: Attach user profiles to modeling variables
 ms:assetid: b748766f-3519-4ec2-97e6-d5faa367533c
@@ -10,6 +10,8 @@ f1_keywords:
 - modeling variables
 - attach user profiles to modeling variables
 - user profiles
+audience: Application User
+ms.search.region: Global
 ---
 
 # Attach user profiles to modeling variables 
@@ -40,5 +42,5 @@ You can attach a set of user profiles to each modeling variable. If user profile
 [User profiles](user-profiles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View your customer invoices
 TOCTitle: View your customer invoices
 ms:assetid: 1ea67bc3-4ee9-4c6d-9f5a-4bb56cb180f8
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPCustInvoiceJournalList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View your customer invoices 
@@ -32,5 +34,5 @@ For information about returning an item that you have ordered, see [Return an it
 [View your return orders](view-your-return-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

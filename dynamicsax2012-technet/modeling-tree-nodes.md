@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modeling tree nodes
 TOCTitle: Modeling tree nodes
 ms:assetid: 778b947e-42ed-40b3-b87a-08e7a0eb3043
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550044(v=AX.60)
 ms:contentKeyID: 36058210
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Modeling tree nodes 
@@ -99,5 +101,5 @@ Several, but not all, of these principal node types can have subnodes attached t
   - Under such branch nodes, and also under the **Case node**, you can attach nodes to each principal type, as listed in the **Node types** table.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

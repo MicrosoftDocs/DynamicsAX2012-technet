@@ -1,4 +1,4 @@
-﻿---
+---
 title: Footer text for customer invoices in projects
 TOCTitle: Footer text for customer invoices in projects
 ms:assetid: b2a9cf70-a4f0-47d1-ab69-47a9e6b3525b
@@ -10,6 +10,8 @@ f1_keywords:
 - customer invoice
 - footer text
 - print management setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Footer text for customer invoices in projects 
@@ -48,5 +50,5 @@ Footer text is printed on all pages of a document. If no footer text is entered,
 [Set up footer text for documents](set-up-footer-text-for-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a sales book
 TOCTitle: (RUS) Create a sales book
 ms:assetid: 2ec1b8bf-2e8d-4002-89d6-71574192bf8b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665245(v=AX.60)
 ms:contentKeyID: 49387334
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a sales book 
@@ -79,5 +81,5 @@ VAT debt accrual is generated according to sales book entries. All factures for 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

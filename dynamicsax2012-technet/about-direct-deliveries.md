@@ -1,4 +1,4 @@
-﻿---
+---
 title: About direct deliveries
 TOCTitle: About direct deliveries
 ms:assetid: 9b9d23eb-8a9c-4beb-bd06-e1427352436b
@@ -13,6 +13,8 @@ f1_keywords:
 - BR - 00005
 - direct deliveries
 - drop shipping
+audience: Application User
+ms.search.region: Global
 ---
 
 # About direct deliveries 
@@ -53,5 +55,5 @@ When you create a direct delivery, the items that you sell never physically arri
 [Create direct deliveries](create-direct-deliveries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

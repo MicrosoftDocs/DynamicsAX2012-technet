@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up traditional financial statements
 TOCTitle: Setting up traditional financial statements
 ms:assetid: bcaa0900-8eca-4299-9386-5436d5af906d
@@ -12,6 +12,8 @@ f1_keywords:
 - setting up financial statements
 - financial statement setup
 - traditional financial statements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up traditional financial statements 
@@ -58,5 +60,5 @@ The following topics provide information about setting up traditional financial 
 [(ESP) Import chart of accounts and financial statement details](esp-import-chart-of-accounts-and-financial-statement-details.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

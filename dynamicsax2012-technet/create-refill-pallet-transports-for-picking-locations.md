@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create refill pallet transports for picking locations
 TOCTitle: Create a refill pallet transport for a picking location
 ms:assetid: 14332878-e240-4b11-9e49-78046cd59631
@@ -11,6 +11,8 @@ f1_keywords:
 - pallet transport for picking
 - refill pallet transport
 - refill pallet transport creation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create refill pallet transports for picking locations 
@@ -51,5 +53,5 @@ You can create a refill pallet transport with a full or partial refill from the 
 [About pallet transports](about-pallet-transports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

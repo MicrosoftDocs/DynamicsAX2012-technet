@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up customer category hierarchies for trade allowance
 TOCTitle: Set up customer category hierarchies for trade allowance
 ms:assetid: 633b9605-eb89-444a-96eb-60fc2f37b99c
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.MCRCustCategoryHierarchy
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up customer category hierarchies for trade allowance 
@@ -89,5 +91,5 @@ Set up trade allowance agreements
 [Working with trade allowance](working-with-trade-allowance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

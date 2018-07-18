@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with product compliance
 TOCTitle: Working with product compliance
 ms:assetid: 4c9ec625-2d82-4a03-b1cd-9119ba9e301f
@@ -10,6 +10,8 @@ f1_keywords:
 - product compliance
 - comply
 - complying
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with product compliance 
@@ -28,5 +30,5 @@ The topics in this section provide information about how to work with product co
 [Remove restricted items from a restricted products regional list](remove-restricted-items-from-a-restricted-products-regional-list.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

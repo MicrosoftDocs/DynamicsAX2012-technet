@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Microsoft Dynamics AX 2009 reports'
 TOCTitle: Microsoft Dynamics AX 2009 reports
 ms:assetid: 3a8142e4-e727-4bf3-87f2-2380b72a0d1c
@@ -1092,5 +1092,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
   </p> </td><td> <p></p> </td><td> <p></p> </td></tr> </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

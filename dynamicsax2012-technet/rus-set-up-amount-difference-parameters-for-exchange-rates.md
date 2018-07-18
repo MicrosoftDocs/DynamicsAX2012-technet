@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up amount difference parameters for exchange rates
 TOCTitle: (RUS) Set up amount difference parameters for exchange rates
 ms:assetid: 3cd7c3b1-5557-420d-ba94-3a9292194c6e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853174(v=AX.60)
 ms:contentKeyID: 50396455
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up amount difference parameters for exchange rates 
@@ -92,5 +94,5 @@ Use this procedure to set up parameters for amount difference for exchange rates
 [(RUS) Currency revaluation accounts (modified form)](https://technet.microsoft.com/en-us/library/jj852149\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

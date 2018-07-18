@@ -1,4 +1,4 @@
-﻿---
+---
 title: View posted statements (Retail essentials)
 TOCTitle: View posted statements (Retail essentials)
 ms:assetid: 596decea-f49f-4450-ad14-b05e3700308c
@@ -34,5 +34,5 @@ To open the **Statement journal** form, do the following:
 [About statements (Retail essentials)](about-statements-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

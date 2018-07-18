@@ -1,4 +1,4 @@
-﻿---
+---
 title: Receiving products
 TOCTitle: Receiving products
 ms:assetid: b5cb41c8-8e85-4957-8489-8afe420ccff8
@@ -13,6 +13,8 @@ f1_keywords:
 - arrival
 - arrive
 - receiving products
+audience: Application User
+ms.search.region: Global
 ---
 
 # Receiving products 
@@ -31,5 +33,5 @@ The topics in this section provide information about the receiving of products.
 [Setting up and maintaining item arrival](setting-up-and-maintaining-item-arrival.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About multisite - BOM validations
 TOCTitle: About multisite - BOM validations
 ms:assetid: b7e053e6-d829-4a11-9de5-186b19fa7e17
@@ -12,6 +12,8 @@ f1_keywords:
 - multiple production sites
 - select BOM version
 - validate BOM version
+audience: Application User
+ms.search.region: Global
 ---
 
 # About multisite - BOM validations 
@@ -60,5 +62,5 @@ These are the rules that apply for BOM versions and BOM lines in the **Lines** f
 [About multisite - route validations](about-multisite-route-validations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

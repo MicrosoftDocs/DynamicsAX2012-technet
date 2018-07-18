@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a team
 TOCTitle: Create a team
 ms:assetid: 5a230f8b-4afe-414e-ac65-3c917f684829
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781092(v=AX.60)
 ms:contentKeyID: 43894501
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a team 
@@ -38,5 +40,5 @@ You can create teams to associate groups of people who might not otherwise work 
 [Add team members (form)](https://technet.microsoft.com/en-us/library/hh208765\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

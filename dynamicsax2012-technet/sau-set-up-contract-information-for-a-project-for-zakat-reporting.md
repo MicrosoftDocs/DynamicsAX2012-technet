@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Set up contract information for a project for Zakat reporting
 TOCTitle: (SAU) Set up contract information for a project for Zakat reporting
 ms:assetid: d8ace83d-1c17-4c75-b3b9-b8387e7bf28a
@@ -11,6 +11,8 @@ f1_keywords:
 - Saudi Arabia
 - Zakat reporting
 - contract information
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) Set up contract information for a project for Zakat reporting 
@@ -43,5 +45,5 @@ Use the **Projects** form to add and manage Zakat information for your projects.
 [(SAU) Enter Zakat information for journal transactions](sau-enter-zakat-information-for-journal-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

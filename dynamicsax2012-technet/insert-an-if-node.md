@@ -1,4 +1,4 @@
-﻿---
+---
 title: Insert an IF node
 TOCTitle: Insert an IF node
 ms:assetid: 024803ed-0196-456d-8726-b07cd85901f6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569692(v=AX.60)
 ms:contentKeyID: 36055926
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Insert an IF node 
@@ -46,5 +48,5 @@ The **IF node** is useful when a decision must be based on a single logical cond
 10. Under the THEN node and ELSE node, add subnodes that represent the parts of the item configuration that depend on the value of the condition for the IF node.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Accounts payable invoice matching
 TOCTitle: About Accounts payable invoice matching
 ms:assetid: caaf1767-e6d6-4fbf-9bd7-3e4f0bd3b6d9
@@ -26,6 +26,8 @@ f1_keywords:
 - purchase order invoice matching
 - two-way
 - vendor invoice matching
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Accounts payable invoice matching 
@@ -688,5 +690,5 @@ Vendor invoices are often based on product receipts that represent actual shipme
 [Charges totals details/Compare charges values (form)](https://technet.microsoft.com/en-us/library/hh242731\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

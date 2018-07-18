@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service agreements and service orders
 TOCTitle: About service agreements and service orders
 ms:assetid: 3120ff8e-86c3-40ed-9393-51c5d63ba3b8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271492(v=AX.60)
 ms:contentKeyID: 36384124
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service agreements and service orders 
@@ -44,5 +46,5 @@ For more information about how to create service orders, see [Create or modify s
 [View service orders](view-service-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

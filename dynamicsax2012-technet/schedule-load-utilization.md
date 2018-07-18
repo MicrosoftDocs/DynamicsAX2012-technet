@@ -1,4 +1,4 @@
-﻿---
+---
 title: Schedule load utilization
 TOCTitle: Schedule load utilization
 ms:assetid: e912969d-548a-46e9-b735-999e21d9ca49
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728718(v=AX.60)
 ms:contentKeyID: 49556623
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Schedule load utilization 
@@ -104,5 +106,5 @@ The space utilization can be projected by using the **Warehouse load utilization
 [Space utilization (form)](https://technet.microsoft.com/en-us/library/jj677438\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

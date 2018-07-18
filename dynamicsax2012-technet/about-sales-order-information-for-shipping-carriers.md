@@ -1,4 +1,4 @@
-﻿---
+---
 title: About sales order information for shipping carriers
 TOCTitle: About sales order information for shipping carriers
 ms:assetid: cd76ebc5-eae4-4b09-9015-892f2e72a4ef
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213673(v=AX.60)
 ms:contentKeyID: 36931881
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About sales order information for shipping carriers 
@@ -42,5 +44,5 @@ If you are using warehouse management and the Kewill ClipperShip software interf
 [Post packing slips and update information for shipping carriers](post-packing-slips-and-update-information-for-shipping-carriers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

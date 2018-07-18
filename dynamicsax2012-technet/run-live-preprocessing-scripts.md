@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run live preprocessing scripts
 TOCTitle: Run live preprocessing scripts
 ms:assetid: 84af1a02-486c-482e-8ef0-b3797bef292f
@@ -66,5 +66,5 @@ Complete the following steps to resume a paused script.
 [Upgrade preprocessing scripts (form)](https://technet.microsoft.com/en-us/library/hh202100\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

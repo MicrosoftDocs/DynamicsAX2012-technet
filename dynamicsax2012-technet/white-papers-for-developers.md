@@ -1,4 +1,4 @@
-﻿---
+---
 title: White papers for developers
 TOCTitle: White papers for developers
 ms:assetid: ea254a84-0ce1-40c4-910e-ed5eed349f3f
@@ -22,5 +22,5 @@ The papers in this section provide information about recommended practices for d
 [Patterns white papers](patterns-white-papers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or update route operations
 TOCTitle: Create or update route operations
 ms:assetid: 438c4750-7263-473d-bef5-3d7253e84b9a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496965(v=AX.60)
 ms:contentKeyID: 36056879
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or update route operations 
@@ -48,5 +50,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [About working with routes in production](about-working-with-routes-in-production.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

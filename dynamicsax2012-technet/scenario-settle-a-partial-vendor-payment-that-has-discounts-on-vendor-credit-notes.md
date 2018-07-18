@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Settle a partial vendor payment that has discounts on vendor credit notes'
 TOCTitle: 'Scenario: Settle a partial vendor payment that has discounts on vendor credit notes'
 ms:assetid: 28083a6a-d77c-43f0-a5b6-c8a219d94f00
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580592(v=AX.60)
 ms:contentKeyID: 39519076
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Settle a partial vendor payment that has discounts on vendor credit notes 
@@ -284,5 +286,5 @@ April can review the vendor transactions in the **Vendor transactions** form. (C
 [Scenario: Take a discount that is more than the calculated discount for a vendor payment](scenario-take-a-discount-that-is-more-than-the-calculated-discount-for-a-vendor-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

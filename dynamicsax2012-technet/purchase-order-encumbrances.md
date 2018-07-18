@@ -1,4 +1,4 @@
-﻿---
+---
 title: Purchase order encumbrances
 TOCTitle: Purchase order encumbrances
 ms:assetid: ce933361-bdf1-4cd8-be71-1b903bdc1758
@@ -18,6 +18,8 @@ f1_keywords:
 - encumbrances
 - PO
 - POs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Purchase order encumbrances 
@@ -34,5 +36,5 @@ The topics in this section provide information about how to encumber purchase or
 [Process purchase orders at year end](process-purchase-orders-at-year-end.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

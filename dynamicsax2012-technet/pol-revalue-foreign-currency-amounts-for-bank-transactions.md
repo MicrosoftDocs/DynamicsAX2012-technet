@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Revalue foreign currency amounts for bank transactions
 TOCTitle: (POL) Revalue foreign currency amounts for bank transactions
 ms:assetid: e4ee8a37-2cfd-4de2-8d09-53d83b3a0c59
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711314(v=AX.60)
 ms:contentKeyID: 49387132
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Revalue foreign currency amounts for bank transactions 
@@ -40,5 +42,5 @@ You can revalue foreign currency amounts for bank transactions, and you can crea
 3.  Click **OK** to generate the report.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

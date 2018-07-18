@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy a Retail mobility dev/test environment on Azure
 TOCTitle: Deploy a Retail mobility dev/test environment
 ms:assetid: ef24e9dc-9f0e-4058-b37a-a42b00c2133f
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 This content has been moved [here](https://go.microsoft.com/fwlink/?linkid=858576).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the item relation to working clothes and special rigging
 TOCTitle: (RUS) Set up the item relation to working clothes and special rigging
 ms:assetid: cd3a8ace-27ca-4c56-8946-d0629eeb74ed
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853225(v=AX.60)
 ms:contentKeyID: 50396505
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the item relation to working clothes and special rigging 
@@ -66,5 +68,5 @@ Use this procedure to relate an item or an item group to a fixed asset (FA) grou
 [(RUS) About NVFAs, working clothes, and special rigging accounting](rus-about-nvfas-working-clothes-and-special-rigging-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

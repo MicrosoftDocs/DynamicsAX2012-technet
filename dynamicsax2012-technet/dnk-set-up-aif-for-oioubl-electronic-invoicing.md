@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Set up AIF for OIOUBL electronic invoicing
 TOCTitle: (DNK) Set up AIF for OIOUBL electronic invoicing
 ms:assetid: df365dc0-d048-49d0-a6fe-88d31f65cafb
@@ -13,6 +13,8 @@ f1_keywords:
 - Forms.AifOutboundPort
 - NO - 00009
 - MsDynAx060.Forms.AifOutboundPort
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Set up AIF for OIOUBL electronic invoicing 
@@ -67,5 +69,5 @@ For information about how to configure the enhanced integration port, go to [Man
 [AIF outbound ports (form)](https://technet.microsoft.com/en-us/library/hh227495\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

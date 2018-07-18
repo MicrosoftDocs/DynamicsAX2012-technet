@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up an assessable value for customs
 TOCTitle: (IND) Set up an assessable value for customs
 ms:assetid: ce0376ea-77f6-4282-b1c5-6f8d96d59215
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664923(v=AX.60)
 ms:contentKeyID: 49386252
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up an assessable value for customs 
@@ -66,5 +68,5 @@ The **Assessable value** form is available only for import orders. For an order 
 [(IND) Assessable value (form)](https://technet.microsoft.com/en-us/library/jj664952\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

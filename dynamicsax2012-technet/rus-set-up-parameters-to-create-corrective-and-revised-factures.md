@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up parameters to create corrective and revised factures
 TOCTitle: (RUS) Set up parameters to create corrective and revised factures
 ms:assetid: dda1a7d4-a86e-486e-b108-6ac33a588faa
@@ -10,6 +10,8 @@ f1_keywords:
 - Russia
 - corrective
 - revised facture
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up parameters to create corrective and revised factures 
@@ -102,5 +104,5 @@ Use the following procedures to set up parameters to create corrective and revis
 [(RUS) Vendors (modified form)](https://technet.microsoft.com/en-us/library/dn126122\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

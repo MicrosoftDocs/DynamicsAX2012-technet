@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow participants performance report (WorkflowParticipantPerformanceReport)
 TOCTitle: Workflow participants performance report (WorkflowParticipantPerformanceReport)
 ms:assetid: f4e765e0-6125-416d-88f7-0ea152fb943c
@@ -132,5 +132,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

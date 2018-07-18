@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import a product file from a vendor
 TOCTitle: Import a product file from a vendor
 ms:assetid: c3ea6a29-24e0-43d3-90dd-80d5bd4271bd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597236(v=AX.60)
 ms:contentKeyID: 39519310
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Import a product file from a vendor 
@@ -99,5 +101,5 @@ For more information about how to review and approve imported product data by us
 [Catalog approval page (form) (Retail)](https://technet.microsoft.com/en-us/library/hh597317\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

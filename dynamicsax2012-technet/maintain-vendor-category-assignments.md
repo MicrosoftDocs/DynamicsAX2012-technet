@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain vendor category assignments
 TOCTitle: Maintain vendor category assignments
 ms:assetid: 791970d0-f288-4459-85e1-a1ef5450ba48
@@ -11,6 +11,8 @@ f1_keywords:
 - vendors
 - vendor categories
 - vendor category
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain vendor category assignments 
@@ -29,5 +31,5 @@ The topics in this section provide information about how to assign vendors to pr
 [Key tasks: Manage category requests from vendors](key-tasks-manage-category-requests-from-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

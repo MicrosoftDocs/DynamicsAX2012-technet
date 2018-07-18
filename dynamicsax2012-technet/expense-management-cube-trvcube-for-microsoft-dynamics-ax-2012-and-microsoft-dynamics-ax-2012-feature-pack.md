@@ -1,4 +1,4 @@
-﻿---
+---
 title: Expense management cube (TrvCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Expense management cube (TrvCube)
 ms:assetid: fd98eeae-a782-4a2f-bc33-7b19bcaf3876
@@ -794,5 +794,5 @@ The Expense management cube can be accessed by users assigned to the following M
   - Project manager
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring vendor payment settlements
 TOCTitle: Configuring vendor payment settlements
 ms:assetid: 6f630c56-6ab5-4337-b1de-aabb79ab30ef
@@ -13,6 +13,8 @@ f1_keywords:
 - payment
 - settlement
 - settlements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring vendor payment settlements 
@@ -31,5 +33,5 @@ The following topics provide information about configuring options for settlemen
 [Vendor payment settlement scenarios](vendor-payment-settlement-scenarios.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

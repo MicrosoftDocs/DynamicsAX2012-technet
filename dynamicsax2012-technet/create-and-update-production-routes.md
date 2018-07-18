@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and update production routes
 TOCTitle: Create and update production routes
 ms:assetid: 81608fc1-e252-4156-acf8-6c7fb568cc49
@@ -12,6 +12,8 @@ f1_keywords:
 - production
 - operations
 - route
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and update production routes 
@@ -88,5 +90,5 @@ You can set up route versions to accommodate variations in the production of an 
 [Routes (form)](https://technet.microsoft.com/en-us/library/aa548486\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

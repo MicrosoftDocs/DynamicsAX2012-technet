@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up the SION items
 TOCTitle: (IND) Set up the SION items
 ms:assetid: 7aaaaad3-d2cc-473d-9d3c-893db81850e7
@@ -11,6 +11,8 @@ f1_keywords:
 - india
 - set up SION
 - SION items form
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up the SION items 
@@ -95,5 +97,5 @@ Use this procedure to select the input goods that are used for a finished produc
 [(IND) Related items (form)](https://technet.microsoft.com/en-us/library/jj664922\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

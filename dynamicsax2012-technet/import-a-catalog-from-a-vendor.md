@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import a catalog from a vendor
 TOCTitle: Import a catalog from a vendor
 ms:assetid: b94877f5-d2da-4ada-b641-9850f3d30dfd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242762(v=AX.60)
 ms:contentKeyID: 36059115
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Import a catalog from a vendor 
@@ -176,5 +178,5 @@ After the products in the CMR file are reviewed and approved, you can release th
 [Event log (form)](https://technet.microsoft.com/en-us/library/hh227443\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

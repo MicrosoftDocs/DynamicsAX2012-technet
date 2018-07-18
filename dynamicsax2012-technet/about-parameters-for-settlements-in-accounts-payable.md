@@ -1,4 +1,4 @@
-﻿---
+---
 title: About parameters for settlements in Accounts payable
 TOCTitle: About parameters for settlements in Accounts payable
 ms:assetid: 34134883-af4d-4827-92b7-7515be394069
@@ -12,6 +12,8 @@ f1_keywords:
 - settlements
 - AP
 - payable
+audience: Application User
+ms.search.region: Global
 ---
 
 # About parameters for settlements in Accounts payable 
@@ -89,5 +91,5 @@ For information about these parameters, see [Accounts payable parameters (form)]
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

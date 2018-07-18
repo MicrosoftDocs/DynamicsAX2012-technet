@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Depreciate fixed assets
 TOCTitle: (RUS) Depreciate fixed assets
 ms:assetid: 95829e28-716a-451c-9ade-744eaccdb112
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678494(v=AX.60)
 ms:contentKeyID: 49387724
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Depreciate fixed assets 
@@ -36,5 +38,5 @@ The following sections provide information about depreciating fixed assets:
 [(RUS) About depreciating fixed assets](rus-about-depreciating-fixed-assets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate sales tax settlements
 TOCTitle: (IND) Calculate sales tax settlements
 ms:assetid: 20095e8f-ea77-4b78-9ff4-c387ffb5af49
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664545(v=AX.60)
 ms:contentKeyID: 49385624
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate sales tax settlements 
@@ -111,5 +113,5 @@ Before you submit a tax settlement to the tax authorities for a financial year, 
 [(IND) Sales tax payment (modified form)](https://technet.microsoft.com/en-us/library/jj664427\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

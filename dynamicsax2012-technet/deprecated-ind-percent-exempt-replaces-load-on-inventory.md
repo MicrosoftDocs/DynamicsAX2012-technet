@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (IND) Percent exempt replaces load on inventory'
 TOCTitle: (IND) Percent exempt replaces load on inventory
 ms:assetid: 05c16505-7cf1-47e8-a81d-a759dfb698e9
@@ -54,5 +54,5 @@ For Indian installations, Microsoft Dynamics AX 2009 provides a country-specific
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

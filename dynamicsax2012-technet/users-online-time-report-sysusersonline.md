@@ -1,4 +1,4 @@
-﻿---
+---
 title: Users online time report (SysUsersOnline)
 TOCTitle: Users online time report (SysUsersOnline)
 ms:assetid: bcfaf9cf-3758-4192-bc78-7635fb30f650
@@ -114,5 +114,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

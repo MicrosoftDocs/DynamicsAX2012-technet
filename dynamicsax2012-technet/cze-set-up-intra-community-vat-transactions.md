@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Set up intra-community VAT transactions
 TOCTitle: (CZE) Set up intra-community VAT transactions
 ms:assetid: 0ba60c7e-a81f-4480-8e0d-d4385dd002a9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664169(v=AX.60)
 ms:contentKeyID: 49384752
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Set up intra-community VAT transactions 
@@ -32,5 +34,5 @@ When you purchase products from countries/regions in the European Union, the pay
 [(CZE) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710667\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

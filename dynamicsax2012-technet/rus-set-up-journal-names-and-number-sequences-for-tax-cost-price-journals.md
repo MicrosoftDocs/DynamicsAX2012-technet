@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up journal names and number sequences for tax cost price journals
 TOCTitle: (RUS) Set up journal names and number sequences for tax cost price journals
 ms:assetid: 7a559d15-0aa4-477c-b923-6e0e5aa8a7f2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923546(v=AX.60)
 ms:contentKeyID: 52075393
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up journal names and number sequences for tax cost price journals 
@@ -42,5 +44,5 @@ Use the **Number sequences** form to set up number sequences.
 [(RUS) Journal names setup (modified form)](https://technet.microsoft.com/en-us/library/jj923260\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

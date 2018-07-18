@@ -1,4 +1,4 @@
-﻿---
+---
 title: Standard Document Services
 TOCTitle: Standard Document Services
 ms:assetid: b69ffe36-7920-493d-b8f0-8e16f981d433
@@ -902,5 +902,5 @@ In an inbound message, the XML cannot contain data for fields that are non-edita
 [About Axd\<Document\> Classes](about-axd-document-classes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

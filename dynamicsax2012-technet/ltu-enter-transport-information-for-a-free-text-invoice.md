@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Enter transport information for a free text invoice
 TOCTitle: (LTU) Enter transport information for a free text invoice
 ms:assetid: b9ea2891-8d35-4bfb-b08a-d598027d23c5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665171(v=AX.60)
 ms:contentKeyID: 49386752
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Enter transport information for a free text invoice 
@@ -56,5 +58,5 @@ In the **Free text invoice** form, you can enter additional information about th
 18. Click **OK** to post the invoice. The transportation details and address details are printed on the packing slip report.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

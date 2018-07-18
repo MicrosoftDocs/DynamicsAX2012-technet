@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project validation report (ProjValProject)
 TOCTitle: Project validation report (ProjValProject)
 ms:assetid: 3749bf6d-564c-4a89-9c39-d9af7bc5649f
@@ -130,5 +130,5 @@ If you are a developer, you can learn more about where the data on a report come
 [About validation in projects](about-validation-in-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

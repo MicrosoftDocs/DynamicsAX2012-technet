@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for China (CHN)"
 TOCTitle: Country-specific features for China
 ms:assetid: 3bf77a0d-698d-4bcc-af87-335fce37d147
@@ -453,5 +453,5 @@ To learn more about additional country-specific features that we added for China
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

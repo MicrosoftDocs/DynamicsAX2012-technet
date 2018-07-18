@@ -1,4 +1,4 @@
-﻿---
+---
 title: About monitoring the progress of a project
 TOCTitle: About monitoring the progress of a project
 ms:assetid: 0de1451a-2414-4bad-b029-fadc28000dea
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - monitor
 - project progress
+audience: Application User
+ms.search.region: Global
 ---
 
 # About monitoring the progress of a project 
@@ -83,5 +85,5 @@ For more information, see [Create a work breakdown structure of tasks for a proj
 [About cash flow in Project control](about-cash-flow-in-project-control.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

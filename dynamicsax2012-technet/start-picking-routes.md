@@ -1,4 +1,4 @@
-﻿---
+---
 title: Start picking routes
 TOCTitle: Start picking routes
 ms:assetid: ec54d28c-0c97-4fbf-9796-947750955a96
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551526(v=AX.60)
 ms:contentKeyID: 36688040
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Start picking routes 
@@ -34,5 +36,5 @@ This topic applies to features in the **Inventory management** module. It does n
 [About picking routes](about-picking-routes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

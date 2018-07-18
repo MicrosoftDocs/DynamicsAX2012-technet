@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Enter a CIAP transaction
 TOCTitle: (BRA) Enter a CIAP transaction
 ms:assetid: c8893ed2-5986-45e6-b51a-21244d9ac810
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - forms.FBCIAPAssessment_BR
 - MsDynAx060.forms.FBCIAPAssessment_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Enter a CIAP transaction 
@@ -57,5 +59,5 @@ Use the **CIAP assessment** form to enter transactions for CIAP fixed assets.
 7.  Click the **Line details** FastTab, to enter information about fiscal documents and other credits.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

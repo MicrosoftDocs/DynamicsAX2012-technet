@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: AOD files'
 TOCTitle: AOD files
 ms:assetid: 78a4ae5b-acc2-466f-b4b3-48485b985260
@@ -55,5 +55,5 @@ The layer-based application object files (AOD files) have been replaced by a ded
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

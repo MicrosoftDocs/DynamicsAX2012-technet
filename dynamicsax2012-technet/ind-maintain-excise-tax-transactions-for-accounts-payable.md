@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Maintain excise tax transactions for Accounts payable
 TOCTitle: (IND) Maintain excise tax transactions for Accounts payable
 ms:assetid: b46b868d-184d-4bae-9d90-fd0309af7d98
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664817(v=AX.60)
 ms:contentKeyID: 49386151
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Maintain excise tax transactions for Accounts payable 
@@ -34,5 +36,5 @@ The following topics provide information about paying excise duty, posting invoi
 [(IND) Post invoice transactions for excisable goods using a purchase journal form](ind-post-invoice-transactions-for-excisable-goods-using-a-purchase-journal-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

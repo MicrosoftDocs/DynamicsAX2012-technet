@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up catalog source codes
 TOCTitle: Set up catalog source codes
 ms:assetid: f8bcf272-fa88-47c0-a018-5fc9138c74f1
@@ -22,6 +22,8 @@ f1_keywords:
 - source codes
 - catalog campaigns
 - catalog codes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up catalog source codes 
@@ -188,5 +190,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Perform a catalog area analysis](perform-a-catalog-area-analysis.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

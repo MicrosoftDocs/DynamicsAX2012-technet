@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Estimate remaining work in process and finished products for direct expenses
 TOCTitle: (RUS) Estimate remaining work in process and finished products for direct expenses
 ms:assetid: 6c861d5e-3897-4d78-b786-84cc81024c8a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911505(v=AX.60)
 ms:contentKeyID: 52075391
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Estimate remaining work in process and finished products for direct expenses 
@@ -60,5 +62,5 @@ The other sections of the WIP and FP estimation in the tax accounting register a
 [(RUS) Set up parameters to estimate WIP and FP in a tax accounting register](rus-set-up-parameters-to-estimate-wip-and-fp-in-a-tax-accounting-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create a tax setoff rule to settle an excise recoverable amount
 TOCTitle: (IND) Create a tax setoff rule to settle an excise recoverable amount
 ms:assetid: 16a357bd-7ebf-43df-b956-5bf56b7cff7b
@@ -11,6 +11,8 @@ f1_keywords:
 - Forms.TaxSetOffRule_IN
 - MsDynAx060.Forms.TaxComponentTable_IN
 - MsDynAx060.Forms.TaxSetOffRule_IN
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create a tax setoff rule to settle an excise recoverable amount 
@@ -63,5 +65,5 @@ Use the **Tax setoff rule** form to create a tax setoff rule to settle excise re
 [(IND) Define a service tax component and the tax setoff](ind-define-a-service-tax-component-and-the-tax-setoff.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

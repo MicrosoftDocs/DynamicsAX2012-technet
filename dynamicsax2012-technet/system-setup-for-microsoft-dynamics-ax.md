@@ -1,4 +1,4 @@
-﻿---
+---
 title: System setup for Microsoft Dynamics AX
 TOCTitle: System setup for Microsoft Dynamics AX
 ms:assetid: e9256fe4-888c-413e-aa35-53e1a6de5806
@@ -32,10 +32,9 @@ This section provides information about how to set up the Microsoft Dynamics AX 
 [Integrating with Microsoft Outlook and Microsoft Exchange Server](integrating-with-microsoft-outlook-and-microsoft-exchange-server.md)
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

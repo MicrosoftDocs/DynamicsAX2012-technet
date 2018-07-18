@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Import the eGiro payment file and view the eGiro segments file
 TOCTitle: (NOR) Import the eGiro payment file and view the eGiro segments file
 ms:assetid: 275fe80a-2c7c-4529-ab85-1110e226bc1d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231002(v=AX.60)
 ms:contentKeyID: 36056210
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Import the eGiro payment file and view the eGiro segments file 
@@ -54,5 +56,5 @@ Use the **eGiro import** form to import the eGiro payment file to match payment 
 [(NOR) Set up the eGiro method of payment](nor-set-up-the-egiro-method-of-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

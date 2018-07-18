@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain your competencies
 TOCTitle: Add and maintain your competencies
 ms:assetid: d56f8281-02f2-4628-bc5d-ec9f12c31df2
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - HcmEPCompetencies
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain your competencies 
@@ -82,5 +84,5 @@ On the **Competencies** page, click a link in one of the lists to view more info
 [Add and maintain your courses](add-and-maintain-your-courses.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (AUT) Cross-border services report (LedgerXBorderActivityAT)
 TOCTitle: (AUT) Cross-border services report (LedgerXBorderActivityAT)
 ms:assetid: 2bb2b807-99fd-419a-af81-c06557164019
@@ -128,5 +128,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

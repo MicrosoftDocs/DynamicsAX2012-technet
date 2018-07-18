@@ -1,4 +1,4 @@
-﻿---
+---
 title: Merge party IDs for customer accounts across multiple legal entities
 TOCTitle: Merge party IDs for customer accounts across multiple legal entities
 ms:assetid: e8b62f58-9306-40c0-b403-7e9b8cd43216
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243240(v=AX.60)
 ms:contentKeyID: 36059838
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Merge party IDs for customer accounts across multiple legal entities 
@@ -38,5 +40,5 @@ If multiple legal entities in your organization do business with the same custom
 [Merge global address book records](merge-global-address-book-records.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up parameters for SPED EFD - Contributions
 TOCTitle: (BRA) Set up parameters for SPED EFD - Contributions
 ms:assetid: 5b8642fb-4265-41b0-b9b9-1dad33b8bf6c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - forms.FBSpedContribFileParameters_BR
 - MsDynAx060.forms.FBFiscalOrganization_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up parameters for SPED EFD - Contributions 
@@ -132,5 +134,5 @@ The record is generated based on the tax transactions with the following criteri
 [(BRA) Set up Brazilian parameters](bra-set-up-brazilian-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

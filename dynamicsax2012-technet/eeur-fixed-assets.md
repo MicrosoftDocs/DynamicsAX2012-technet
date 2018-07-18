@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Fixed assets
 TOCTitle: (EEUR) Fixed assets
 ms:assetid: d56caa0f-7447-4a34-98cb-c38630062923
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710769(v=AX.60)
 ms:contentKeyID: 49385166
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Fixed assets 
@@ -24,5 +26,5 @@ The topics in this section provide more information about Fixed assets.
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

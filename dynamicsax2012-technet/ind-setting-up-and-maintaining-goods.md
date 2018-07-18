@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up and maintaining goods
 TOCTitle: (IND) Setting up and maintaining goods
 ms:assetid: ef7258bd-cf31-4374-beaa-a2849206017e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710916(v=AX.60)
 ms:contentKeyID: 49386328
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up and maintaining goods 
@@ -26,5 +28,5 @@ The following topics provide information about setting up and maintaining goods.
 [(IND) Set up service codes for service goods](ind-set-up-service-codes-for-service-goods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

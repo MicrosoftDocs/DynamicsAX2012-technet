@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Portal administration with Windows PowerShell and AXUpdatePortal
 TOCTitle: Enterprise Portal administration with Windows PowerShell and AXUpdatePortal
 ms:assetid: b34adf60-46d0-4b8f-8561-b07b5ff41bf4
@@ -40,5 +40,5 @@ This cmdlet returns the web components associated with an Enterprise Portal site
 [Administering Microsoft Dynamics AX by using Windows PowerShell](administering-microsoft-dynamics-ax-by-using-windows-powershell.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

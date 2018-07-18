@@ -1,4 +1,4 @@
-﻿---
+---
 title: Explode a sales order line
 TOCTitle: Explode a sales order line
 ms:assetid: 87122f1e-e9ff-45e1-bb50-aea2a79a0a56
@@ -10,6 +10,8 @@ f1_keywords:
 - master planning explosion
 - sales order explosion
 - sales order line explosion
+audience: Application User
+ms.search.region: Global
 ---
 
 # Explode a sales order line 
@@ -46,5 +48,5 @@ To explode a sales order line, follow this procedure:
 [Explosion (form)](https://technet.microsoft.com/en-us/library/aa573004\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

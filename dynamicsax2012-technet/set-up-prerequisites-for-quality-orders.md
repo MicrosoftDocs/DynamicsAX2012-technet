@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up prerequisites for quality orders
 TOCTitle: Set up prerequisites for quality orders
 ms:assetid: 4056385d-8703-49d5-b72d-f1292f2fb8a6
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - set up quality orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up prerequisites for quality orders 
@@ -112,5 +114,5 @@ To set up and use quality orders, follow these steps.
 [About nonconformance](about-nonconformance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

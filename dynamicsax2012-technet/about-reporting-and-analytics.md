@@ -1,4 +1,4 @@
-﻿---
+---
 title: About reporting and analytics
 TOCTitle: About reporting and analytics
 ms:assetid: 069e7c48-84a5-46bb-84ff-6f616664aa9f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271445(v=AX.60)
 ms:contentKeyID: 36384077
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About reporting and analytics 
@@ -36,5 +38,5 @@ Analytical reports are displayed in the Enterprise Portal business overview Web 
 If you have the appropriate permissions, you can add the business overview Web part to Enterprise Portal pages and display analytical information. For more information, see [Manage business overview information](manage-business-overview-information.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

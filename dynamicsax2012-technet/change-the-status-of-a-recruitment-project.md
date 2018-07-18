@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change the status of a recruitment project
 TOCTitle: Change the status of a recruitment project
 ms:assetid: 297ba8a2-6d6b-4067-b66a-eb503fee97ce
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - recruitment project status
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change the status of a recruitment project 
@@ -64,5 +66,5 @@ Recruitment projects can have the following statuses:
 [Create a recruitment project](create-a-recruitment-project.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

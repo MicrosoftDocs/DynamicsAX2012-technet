@@ -1,4 +1,4 @@
-﻿---
+---
 title: About registrations with future timestamps
 TOCTitle: About registrations with future timestamps
 ms:assetid: 25e387e5-8ffb-4246-bce0-46cd550c35e4
@@ -11,6 +11,8 @@ f1_keywords:
 - JmgTermReg
 - missing clock-out
 - archive
+audience: Application User
+ms.search.region: Global
 ---
 
 # About registrations with future timestamps 
@@ -51,5 +53,5 @@ To prevent the problems that these types of registrations can cause, you can rem
 [About registration for manufacturing execution](about-registration-for-manufacturing-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

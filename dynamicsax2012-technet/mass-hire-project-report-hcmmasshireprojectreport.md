@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mass hire project report (HcmMassHireProjectReport)
 TOCTitle: Mass hire project report (HcmMassHireProjectReport)
 ms:assetid: 55a2cb38-b481-4671-a2eb-d2d7f74417ae
@@ -88,5 +88,5 @@ If you are a developer, you can learn more about where the data on a report come
 [About mass hire projects](about-mass-hire-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

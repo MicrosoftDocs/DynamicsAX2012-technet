@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a purchase order
 TOCTitle: Create a purchase order
 ms:assetid: 713c05bd-fdcb-4d37-80ba-cdc09f7c782e
@@ -11,6 +11,8 @@ f1_keywords:
 - purchase orders
 - procurement
 - purchase order creation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a purchase order 
@@ -88,5 +90,5 @@ Use this procedure to create a purchase order that has all the information that 
 [Create a purchase inquiry](create-a-purchase-inquiry.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

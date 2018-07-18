@@ -1,4 +1,4 @@
-﻿---
+---
 title: " item allocation key"
 TOCTitle: " item allocation key"
 ms:assetid: DynamicsAXGlossary.1370629
@@ -19,5 +19,5 @@ A product family grouping that is used for forecast and demand scheduling.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

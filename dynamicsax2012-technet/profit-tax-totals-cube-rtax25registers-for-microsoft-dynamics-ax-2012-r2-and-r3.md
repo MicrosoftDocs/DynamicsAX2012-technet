@@ -1,4 +1,4 @@
-﻿---
+---
 title: Profit tax totals cube (RTax25Registers) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Profit tax totals cube (RTax25Registers)
 ms:assetid: 46f413df-d652-46cc-a865-c1c8136d5770
@@ -138,5 +138,5 @@ The Profit tax totals cube can be accessed by users assigned to the following Mi
   - Accounting supervisor
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

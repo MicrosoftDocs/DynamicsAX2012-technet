@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project price groups report (ProjPriceGroupList)
 TOCTitle: Project price groups report (ProjPriceGroupList)
 ms:assetid: 33302668-f6c9-40e1-b423-b0db62b81425
@@ -126,5 +126,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Assign a price group to a project, project contract, or customer](assign-a-price-group-to-a-project-project-contract-or-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

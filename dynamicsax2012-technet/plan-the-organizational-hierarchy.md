@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan the organizational hierarchy
 TOCTitle: Plan the organizational hierarchy
 ms:assetid: cc19ddcb-68ca-43cf-ab64-1ab556e283d5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242899(v=AX.60)
 ms:contentKeyID: 36059446
 ms.date: 05/16/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Plan the organizational hierarchy 
@@ -227,5 +229,5 @@ Consider the following best practices when you implement an organization hierarc
 [Example organizational hierarchies](example-organizational-hierarchies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

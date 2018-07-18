@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy an Enterprise Portal site that uses AD FS authentication
 TOCTitle: Deploy an Enterprise Portal site that uses AD FS authentication
 ms:assetid: 2de9bc47-e66f-49d6-ab97-b09b83422f94
@@ -591,5 +591,5 @@ You can select which flexible authentication provider is available in the **Sign
 [Deploy an Enterprise Portal site that uses forms-based authentication](deploy-an-enterprise-portal-site-that-uses-forms-based-authentication.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

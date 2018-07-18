@@ -1,4 +1,4 @@
-﻿---
+---
 title: Automatically merge enums
 TOCTitle: Automatically merge enums
 ms:assetid: b2d20f9b-a81d-46f9-9649-14ff6de2c472
@@ -103,5 +103,5 @@ When you click **Automatically merge enums**, a progress indicator shows that me
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

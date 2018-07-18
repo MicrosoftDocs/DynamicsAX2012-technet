@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate a lead or opportunity record from a campaign or call list target
 TOCTitle: Generate a lead or opportunity record from a campaign or call list target
 ms:assetid: 20d9ebbe-3a89-4b49-b389-f1e8f89b1d5e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677330(v=AX.60)
 ms:contentKeyID: 49384105
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate a lead or opportunity record from a campaign or call list target 
@@ -36,5 +38,5 @@ After your organization runs a campaign, you will receive responses from the cam
 [Create, copy, or delete an opportunity](create-copy-or-delete-an-opportunity.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

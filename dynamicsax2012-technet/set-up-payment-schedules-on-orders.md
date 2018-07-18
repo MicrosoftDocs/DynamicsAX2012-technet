@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up payment schedules on orders
 TOCTitle: Set up payment schedules on orders
 ms:assetid: 52c7d5b7-a86f-41bb-8f8c-a3159f2ac601
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548920(v=AX.60)
 ms:contentKeyID: 43976716
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up payment schedules on orders 
@@ -48,5 +50,5 @@ When an invoice that has a payment schedule is posted, a separate invoice line t
 [Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

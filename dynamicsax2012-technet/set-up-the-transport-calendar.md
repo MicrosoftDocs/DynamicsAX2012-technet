@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up the transport calendar
 TOCTitle: Set up the transport calendar
 ms:assetid: a120acec-5f6a-4a41-bda8-0a06a544442d
@@ -10,6 +10,8 @@ f1_keywords:
 - calendar for transport
 - set up calendar
 - transportation time
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up the transport calendar 
@@ -42,5 +44,5 @@ This procedure can be used to specify available pick-up and transport days for t
 [Set up delivery date control](set-up-delivery-date-control.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

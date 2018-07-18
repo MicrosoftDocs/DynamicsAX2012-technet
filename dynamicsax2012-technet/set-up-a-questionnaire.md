@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a questionnaire
 TOCTitle: Set up a questionnaire
 ms:assetid: 79dae5c2-07fe-4696-ba42-556ab86364c3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550062(v=AX.60)
 ms:contentKeyID: 37822147
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a questionnaire 
@@ -44,5 +46,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [Attach a question to a questionnaire with result groups](attach-a-question-to-a-questionnaire-with-result-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

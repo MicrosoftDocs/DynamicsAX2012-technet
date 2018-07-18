@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Perform in-place upgrade to AX 2012 R3 + CU10'
 TOCTitle: 'Scenario: Perform in-place upgrade to AX 2012 R3 + CU10'
 ms:assetid: 32c1b95e-5b84-4520-a4d9-68850716b61a
@@ -44,5 +44,5 @@ It requires the Model Store Upgrader tool that is available for download in KB 3
 10. Proceed with the upgrade process as described in [Scenario: Perform in-place upgrade to AX 2012 R2 or AX 2012 R3](scenario-perform-in-place-upgrade-to-ax-2012-r2-or-ax-2012-r3.md), beginning at the section “Back up the test system model store”.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Planning and architecture of analytics
 TOCTitle: Planning and architecture
 ms:assetid: 86a1ec46-1770-4c2b-9f44-f5bc1ee340a7
@@ -20,5 +20,5 @@ Planning is required to successfully implement the analytical features of Micros
 [Planning considerations for analytics](planning-considerations-for-analytics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

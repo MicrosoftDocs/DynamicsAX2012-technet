@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) About EXIM duty drawback (DBK) incentive schemes
 TOCTitle: (IND) About EXIM duty drawback (DBK) incentive schemes
 ms:assetid: 8c0c6201-6e45-47aa-a3b1-0c3bdd543b22
@@ -13,6 +13,8 @@ f1_keywords:
 - EXIM
 - DBK
 - EXIM DBK incentive scheme
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) About EXIM duty drawback (DBK) incentive schemes 
@@ -143,5 +145,5 @@ Allowed drawback = 0 (zero)
 [(IND) Total Duty Drawback amount (form)](https://technet.microsoft.com/en-us/library/jj678025\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Process production jobs in Manufacturing execution'
 TOCTitle: 'Key tasks: Process production jobs in Manufacturing execution'
 ms:assetid: 7fbe1c7f-d6eb-4faa-aa28-9f12c158b91a
@@ -12,6 +12,8 @@ f1_keywords:
 - jobs
 - manufacturing execution
 - shop floor
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Process production jobs in Manufacturing execution 
@@ -420,5 +422,5 @@ Back to top
 [Create a reference to an existing document](create-a-reference-to-an-existing-document.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

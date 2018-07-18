@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register and post a postdated check from a customer
 TOCTitle: Register and post a postdated check from a customer
 ms:assetid: 539c21ed-e0ca-4a51-aac5-1ad4145efa6e
@@ -11,6 +11,8 @@ f1_keywords:
 - postdated checks
 - post postdated checks for a customer
 - register postdated checks for a customer
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register and post a postdated check from a customer 
@@ -69,5 +71,5 @@ You can view the posted postdated checks in the **Customer postdated checks** fo
 [Customer postdated checks (form)](https://technet.microsoft.com/en-us/library/hh227493\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

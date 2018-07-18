@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) FA movement report (RAssetMoveSum)
 TOCTitle: (RUS) FA movement report (RAssetMoveSum)
 ms:assetid: f3fecdd2-5dd3-4f3c-b82e-b772199e2cac
@@ -124,5 +124,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(RUS) Factors for deferrals writing off (form)](https://technet.microsoft.com/en-us/library/jj853189\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

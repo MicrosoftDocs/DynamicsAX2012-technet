@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Portal Development Cookbook (White paper)
 TOCTitle: Enterprise Portal Development Cookbook
 ms:assetid: 4c610667-ff88-44e3-8d44-bbbea3bdab0b
@@ -18,5 +18,5 @@ Enterprise Portal for Microsoft Dynamics AX provides a web-based application fra
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=221035).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

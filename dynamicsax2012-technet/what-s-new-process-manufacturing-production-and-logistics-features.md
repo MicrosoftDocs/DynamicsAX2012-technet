@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Process manufacturing production and logistics features"
 TOCTitle: Process manufacturing production and logistics features
 ms:assetid: a2089acd-4b87-46c8-9e51-41bf16296fd4
@@ -178,5 +178,5 @@ Support has been added for using recycled products in formulas. Recycled product
 For more information, see [Working with Process manufacturing production and logistics](working-with-process-manufacturing-production-and-logistics.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy the client by using Group Policy
 TOCTitle: Deploy the client by using Group Policy
 ms:assetid: ea4a6465-9c70-49a6-866e-1ab3d1e46ac2
@@ -179,5 +179,5 @@ Typically, after you modify group policy settings, you must wait a default updat
 For more information about how to use the Gpupdate utility, see [Gpupdate](http://technet.microsoft.com/en-us/library/bb490983.aspx) on TechNet.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

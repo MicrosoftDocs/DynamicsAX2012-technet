@@ -1,4 +1,4 @@
-﻿---
+---
 title: Inventory and warehouse management reports
 TOCTitle: Inventory and warehouse management reports
 ms:assetid: 8fcadcb2-6a37-42f8-88a8-ad17d51d5d15
@@ -76,5 +76,5 @@ The following reports are available in the **Inventory and warehouse management*
 [(CHN) Sales VAT details (report)](chn-sales-vat-details-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

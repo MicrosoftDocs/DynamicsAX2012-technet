@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new in Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Microsoft Dynamics ERP RapidStart Services
 ms:assetid: c4708286-3e39-4140-a7a0-7381307f5136
@@ -24,5 +24,5 @@ For more information, see [Microsoft Dynamics ERP RapidStart Services](microsoft
 In the March 2014 release of Lifecycle Services, support for creating and opening RapidStart Services projects for Microsoft Dynamics AX was added to the Lifecycle Services project page. You no longer have to use the Online services for Microsoft Dynamics ERP website.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

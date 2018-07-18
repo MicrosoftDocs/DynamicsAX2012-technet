@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up centralized vendor payments
 TOCTitle: Set up centralized vendor payments
 ms:assetid: 22f95748-f55d-40b7-afda-f4cc29ea4b38
@@ -19,6 +19,8 @@ f1_keywords:
 - shared service
 - shared services
 - central
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up centralized vendor payments 
@@ -167,5 +169,5 @@ You can define default descriptions for intercompany settlement vouchers. The de
 [Select invoices to pay on behalf of multiple legal entities](select-invoices-to-pay-on-behalf-of-multiple-legal-entities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

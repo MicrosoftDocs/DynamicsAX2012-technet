@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Create a payment order by using a vendor payment journal
 TOCTitle: (LVA) Create a payment order by using a vendor payment journal
 ms:assetid: f2ab85dc-488a-44fb-b019-fc92e42a18d9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720371(v=AX.60)
 ms:contentKeyID: 49721167
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Create a payment order by using a vendor payment journal 
@@ -58,5 +60,5 @@ You must also create a payment specification code for the method of payment that
 [(LVA) Approval of bank information (form)](https://technet.microsoft.com/en-us/library/jj720366\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

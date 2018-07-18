@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a charges code for customs payments
 TOCTitle: (RUS) Set up a charges code for customs payments
 ms:assetid: 449ec1b8-ecf9-4e6e-909a-1ab3a55c04e4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733212(v=AX.60)
 ms:contentKeyID: 49685180
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a charges code for customs payments 
@@ -26,5 +28,5 @@ Use the **Charges code** form to set up a charges code that is used to calculate
 [(RUS) Assign a charges code to terms of delivery](rus-assign-a-charges-code-to-terms-of-delivery.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

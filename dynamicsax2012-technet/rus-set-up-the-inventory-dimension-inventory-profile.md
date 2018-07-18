@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the inventory dimension inventory profile
 TOCTitle: (RUS) Set up the inventory dimension inventory profile
 ms:assetid: 47b3904e-a02e-4fd7-9dd6-add42371e2a9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665344(v=AX.60)
 ms:contentKeyID: 49387432
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the inventory dimension inventory profile 
@@ -34,5 +36,5 @@ Use the **Tracking dimension groups** form to set up the new inventory profile f
 [(RUS) Tracking dimension groups (modified form)](https://technet.microsoft.com/en-us/library/jj733232\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

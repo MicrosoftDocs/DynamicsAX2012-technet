@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a dynamic section that uses Excel for electronic reporting
 TOCTitle: (RUS) Set up a dynamic section that uses Excel for electronic reporting
 ms:assetid: 20b80b34-8a39-4061-9cd9-f40eb1528430
@@ -10,6 +10,8 @@ f1_keywords:
 - section
 - dynamic section
 - excel sheet
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a dynamic section that uses Excel for electronic reporting 
@@ -90,5 +92,5 @@ You must configure a document template for every report that is submitted electr
 [(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

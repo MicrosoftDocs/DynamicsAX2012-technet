@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create language texts
 TOCTitle: Create language texts
 ms:assetid: eaca641b-5860-4e1e-9549-a9e5fa8dc35c
@@ -10,6 +10,8 @@ f1_keywords:
 - language texts
 - language text
 - translations
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create language texts 
@@ -56,5 +58,5 @@ Your company is located in an English-speaking country, and you want to create G
 The reason for delivery text will be printed in German on the packing slip for the selected sales order.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

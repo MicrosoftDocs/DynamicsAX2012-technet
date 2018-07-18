@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Register of payment orders printing report (BankPaymentOrderJour_RU)
 TOCTitle: (RUS) Register of payment orders printing report (BankPaymentOrderJour_RU)
 ms:assetid: f42cd9ea-7e8f-4851-a3f0-d556f40b9fe2
@@ -135,5 +135,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(RUS) Registry of payment orders](rus-registry-of-payment-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

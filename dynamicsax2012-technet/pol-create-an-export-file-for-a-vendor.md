@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Create an export file for a vendor
 TOCTitle: (POL) Create an export file for a vendor
 ms:assetid: 8ab04081-3dde-4545-9064-14074fbd0e0b
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - export format
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Create an export file for a vendor 
@@ -40,5 +42,5 @@ An export file is an electronic file that is used to transfer payments between y
     The status of the export file is displayed in the **Payment status** field in the **Journal voucher** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

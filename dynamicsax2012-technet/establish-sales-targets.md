@@ -1,4 +1,4 @@
-﻿---
+---
 title: Establish sales targets
 TOCTitle: Establish sales targets
 ms:assetid: 4eaa19d3-24f0-4752-847e-0feb886efb52
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - sales targets
 - sales target
+audience: Application User
+ms.search.region: Global
 ---
 
 # Establish sales targets 
@@ -27,5 +29,5 @@ The topics in this section provide information that can help you to establish sa
 [Create, copy, or delete an opportunity](create-copy-or-delete-an-opportunity.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

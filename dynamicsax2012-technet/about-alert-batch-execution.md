@@ -1,4 +1,4 @@
-﻿---
+---
 title: About alert batch execution
 TOCTitle: About alert batch execution
 ms:assetid: fb6df49f-fa76-4e80-a6e7-a8cd284dffb8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570106(v=AX.60)
 ms:contentKeyID: 46687574
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About alert batch execution 
@@ -163,5 +165,5 @@ If you decide that the events in the event queue are obsolete and should not be 
 [Set up alert batch execution](set-up-alert-batch-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

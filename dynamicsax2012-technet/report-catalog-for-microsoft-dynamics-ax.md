@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report catalog for Microsoft Dynamics AX
 TOCTitle: Report catalog
 ms:assetid: 30152008-c5e1-4b30-a6f8-c1aab8b9c018
@@ -64,5 +64,5 @@ The reports in this catalog are organized according to the module they are inclu
 [Reporting in Microsoft Dynamics AX](reporting-in-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

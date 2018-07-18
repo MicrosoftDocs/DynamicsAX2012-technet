@@ -1,4 +1,4 @@
-﻿---
+---
 title: About ATP calculations
 TOCTitle: About ATP calculations
 ms:assetid: 55503035-663c-47e2-96d5-4f10037d1c67
@@ -12,6 +12,8 @@ f1_keywords:
 - ATP
 - available to promise
 - available-to-promise
+audience: Application User
+ms.search.region: Global
 ---
 
 # About ATP calculations 
@@ -54,5 +56,5 @@ A customer calls and wants to order 150 pieces of the same product. When you ver
 [ATP information (form)](https://technet.microsoft.com/en-us/library/hh209482\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

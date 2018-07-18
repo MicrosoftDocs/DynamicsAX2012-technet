@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up TCS and TDS in Accounts payable
 TOCTitle: (IND) Setting up TCS and TDS in Accounts payable
 ms:assetid: 98ff30ce-1baa-46a5-b4bb-faa0fd82b764
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664712(v=AX.60)
 ms:contentKeyID: 49386043
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up TCS and TDS in Accounts payable 
@@ -24,5 +26,5 @@ The following topics provide information about setting up Tax Collected at Sourc
 [(IND) Set up payment schedules with TDS allocation](ind-set-up-payment-schedules-with-tds-allocation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

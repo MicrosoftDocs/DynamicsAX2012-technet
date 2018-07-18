@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer security role (TradeCustomer)
 TOCTitle: Customer security role (TradeCustomer)
 ms:assetid: a9d10eda-6682-4eb6-8464-0a315f6f9b9f
@@ -85,5 +85,5 @@ In Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack, no pr
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

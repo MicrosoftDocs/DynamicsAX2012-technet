@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Increase string size of extended data types
 TOCTitle: (RUS) Increase string size of extended data types
 ms:assetid: a2a257cb-1b2a-4891-87ed-f5fb5a839b16
@@ -72,5 +72,5 @@ To detect the affected data types and to create a project to modify them, comple
 [(RUS) Increasing of the extended data types (form)](https://technet.microsoft.com/en-us/library/jj730941\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

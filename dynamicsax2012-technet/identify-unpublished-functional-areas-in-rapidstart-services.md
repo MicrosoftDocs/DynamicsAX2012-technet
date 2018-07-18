@@ -1,4 +1,4 @@
-﻿---
+---
 title: Identify unpublished functional areas in RapidStart Services
 TOCTitle: Identify unpublished functional areas in RapidStart Services
 ms:assetid: b713b495-b5c8-43b0-b020-9cf480742d75
@@ -42,5 +42,5 @@ In Microsoft Dynamics ERP RapidStart Services, before a functional area can be u
 [Add a functional area to a template in RapidStart Services](add-a-functional-area-to-a-template-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Checklist: Deploy a vendor registration portal'
 TOCTitle: 'Checklist: Deploy a vendor registration portal'
 ms:assetid: ed9c97a7-40aa-439d-9c95-f7ba8c06582d
@@ -90,5 +90,5 @@ After you finished preparing the Enterprise Portal environment for vendor access
 [Checklist: Deploy an employee self-service portal](checklist-deploy-an-employee-self-service-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up and maintaining warehouse operations
 TOCTitle: (RUS) Setting up and maintaining warehouse operations
 ms:assetid: ef81ac4a-9d80-419f-b52d-e720d34374f6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - Setting up and maintaining warehouse operations
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up and maintaining warehouse operations 
@@ -23,5 +25,5 @@ The topics in this section provide information about warehouse operations.
 [(RUS) Setting up and maintaining inventory journals](rus-setting-up-and-maintaining-inventory-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

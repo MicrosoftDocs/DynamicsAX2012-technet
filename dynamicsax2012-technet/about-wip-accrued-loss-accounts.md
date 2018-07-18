@@ -1,4 +1,4 @@
-﻿---
+---
 title: About WIP accrued loss accounts
 TOCTitle: About WIP accrued loss accounts
 ms:assetid: e3aebc21-dbb7-4d3e-9ad6-666ce4d83b7c
@@ -10,6 +10,8 @@ f1_keywords:
 - WIP
 - accrued loss
 - foreseeable loss
+audience: Application User
+ms.search.region: Global
 ---
 
 # About WIP accrued loss accounts 
@@ -121,5 +123,5 @@ In the **Project groups** form, on the **Estimate** FastTab, select the **Forese
 [Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

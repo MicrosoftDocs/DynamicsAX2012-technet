@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure Enterprise Search by using the Search Configuration wizard
 TOCTitle: Configure Enterprise Search by using the Search Configuration wizard
 ms:assetid: e52f66f3-7ed0-4ad7-8fe3-f8db8b75c779
@@ -60,5 +60,5 @@ After the queries are published to the BCS, you can view the list of queries and
 [Enterprise Search operations](enterprise-search-operations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create expense categories
 TOCTitle: Create expense categories
 ms:assetid: ec2de76d-d50b-4608-a7ee-9d85de2d8721
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243253(v=AX.60)
 ms:contentKeyID: 36059892
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create expense categories 
@@ -124,5 +126,5 @@ Employees must assign their expenses to predefined categories when they are work
 [About integrating Travel and expense categories with Project management and accounting](about-integrating-travel-and-expense-categories-with-project-management-and-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

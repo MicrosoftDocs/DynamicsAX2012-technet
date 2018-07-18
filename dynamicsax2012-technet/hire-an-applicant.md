@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hire an applicant
 TOCTitle: Hire an applicant
 ms:assetid: ebfc5320-1c4f-40ee-a232-4b67e956549f
@@ -11,6 +11,8 @@ f1_keywords:
 - Hire
 - hire an employee
 - hire applicant
+audience: Application User
+ms.search.region: Global
 ---
 
 # Hire an applicant 
@@ -52,5 +54,5 @@ You can use the **Applications** list page to hire an applicant who submitted an
 [Applicant (form)](https://technet.microsoft.com/en-us/library/aa589409\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

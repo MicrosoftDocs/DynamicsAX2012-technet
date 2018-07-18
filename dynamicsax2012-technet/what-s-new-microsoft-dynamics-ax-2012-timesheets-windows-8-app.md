@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Microsoft Dynamics AX 2012 Timesheets Windows 8 App"
 TOCTitle: Microsoft Dynamics AX 2012 Timesheets Windows 8 App
 ms:assetid: 6cfeb097-c293-4c99-988b-275e19ddce4e
@@ -66,5 +66,5 @@ For more information about all the companion applications that are supported for
 For guidance and samples that can help you learn about the patterns and approaches that are used to develop mobile applications for AX 2012 R2, see the [Developing Mobile Apps for Microsoft Dynamics AX 2012](http://www.microsoft.com/en-us/download/details.aspx?id=38413) white paper.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Configure requisite code formats
 TOCTitle: (RUS) Configure requisite code formats
 ms:assetid: e43bcf9b-d8c0-4280-8f5e-57dbad4434ac
@@ -11,6 +11,8 @@ f1_keywords:
 - requisite
 - requisite code format
 - text format
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Configure requisite code formats 
@@ -73,5 +75,5 @@ Use the following procedure to configure requisite code formats.
 [(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the dispatch board
 TOCTitle: About the dispatch board
 ms:assetid: c17962a4-7ea1-4c2e-82db-69e84b8a534a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213633(v=AX.60)
 ms:contentKeyID: 36059274
 ms.date: 07/28/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the dispatch board 
@@ -42,5 +44,5 @@ For information about how to perform specific tasks in a dispatch board, see the
 [View the status of service orders](view-the-status-of-service-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

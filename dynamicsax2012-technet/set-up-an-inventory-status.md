@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up an inventory status
 TOCTitle: Set up an inventory status
 ms:assetid: f01e485d-1fa0-422d-b3b7-b5bed97db353
@@ -19,6 +19,8 @@ f1_keywords:
 - warehouse management parameter
 - MsDynAx060.Forms.WHSInventStatus
 - warehouses
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up an inventory status 
@@ -180,5 +182,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

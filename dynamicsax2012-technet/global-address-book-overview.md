@@ -1,4 +1,4 @@
-﻿---
+---
 title: Global address book overview
 TOCTitle: Global address book overview
 ms:assetid: 63e7cc64-2204-4bbe-9396-391e670d12b7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231541(v=AX.60)
 ms:contentKeyID: 36057700
 ms.date: 10/06/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Global address book overview 
@@ -28,5 +30,5 @@ A party is a person or organization that is either internal or external to your 
 [Create a party record](create-a-party-record.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

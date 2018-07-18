@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure settings for Async Client
 TOCTitle: Configure settings for Async Client
 ms:assetid: 3356c7a4-6c49-4a4d-932d-1954dfe413d6
@@ -88,5 +88,5 @@ Use the Async Client Configuration Tool to test connections between Async Client
       - The **Channel database** section specifies the server and database name for the channel database. Click **Test connection** to verify that the connection to the channel database is configured correctly.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

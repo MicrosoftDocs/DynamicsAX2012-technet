@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer transaction reversal configuration key (TransactionReversal_Cust)
 TOCTitle: Customer transaction reversal configuration key (TransactionReversal_Cust)
 ms:assetid: 98297a90-d1fb-4004-9d7c-4631fa4424ed
@@ -82,5 +82,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

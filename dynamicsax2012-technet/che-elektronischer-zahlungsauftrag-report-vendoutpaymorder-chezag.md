@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHE) Elektronischer Zahlungsauftrag report (VendOutPaymOrder_CHEZAG)
 TOCTitle: (CHE) Elektronischer Zahlungsauftrag report (VendOutPaymOrder_CHEZAG)
 ms:assetid: b6c027cf-6d0b-4fac-88ac-def33b06c8a5
@@ -88,5 +88,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

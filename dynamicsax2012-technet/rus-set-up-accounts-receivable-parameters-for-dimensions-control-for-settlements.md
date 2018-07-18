@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up accounts receivable parameters for dimensions control for settlements
 TOCTitle: (RUS) Set up accounts receivable parameters for dimensions control for settlements
 ms:assetid: 4943489a-8958-4ef5-95e7-c07d53850fb7
@@ -11,6 +11,8 @@ f1_keywords:
 - (RUS)
 - dimensions control for settlements
 - accounts receivable parameters
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up accounts receivable parameters for dimensions control for settlements 
@@ -41,5 +43,5 @@ Use this procedure to set up accounts receivable parameters for dimensions contr
 [(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733289\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

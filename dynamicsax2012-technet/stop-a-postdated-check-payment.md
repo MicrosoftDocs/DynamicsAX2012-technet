@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stop a postdated check payment
 TOCTitle: Stop a postdated check payment
 ms:assetid: 056ee5b4-22d2-490f-bfcf-4c90e549a97c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242108(v=AX.60)
 ms:contentKeyID: 36055953
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Stop a postdated check payment 
@@ -32,5 +34,5 @@ You can stop payment on a postdated check issued to a vendor for reasons such as
 [Register and post a postdated check for a vendor](register-and-post-a-postdated-check-for-a-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

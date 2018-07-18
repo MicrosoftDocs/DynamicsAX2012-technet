@@ -1,4 +1,4 @@
-﻿---
+---
 title: General ledger (Public sector)
 TOCTitle: General ledger (Public sector)
 ms:assetid: 3e1871aa-a49e-4cbb-beb3-97cef0d7b9c6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - general ledger public sector
 - public sector general ledger
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # General ledger (Public sector) 
@@ -23,5 +25,5 @@ The topics in this section provide information about General ledger for public s
 [Working with General ledger (Public sector)](working-with-general-ledger-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

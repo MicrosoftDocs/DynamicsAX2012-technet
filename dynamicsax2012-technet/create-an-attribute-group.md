@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an attribute group
 TOCTitle: Create an attribute group
 ms:assetid: 15136db4-3fb4-411f-9f51-b9580c194768
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580574(v=AX.60)
 ms:contentKeyID: 39519053
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an attribute group 
@@ -40,5 +42,5 @@ An attribute group is used to group the attributes for a component or subcompone
 [About product configurator processes](about-product-configurator-processes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

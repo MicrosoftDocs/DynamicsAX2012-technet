@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with customer rebate records
 TOCTitle: Working with customer rebate records
 ms:assetid: a408c2eb-f4b4-4795-9b2c-aec14fe1fd0a
@@ -14,6 +14,8 @@ f1_keywords:
 - price
 - customer rebate
 - rebates
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with customer rebate records 
@@ -36,5 +38,5 @@ The topics in this section provide information about how to work with customer r
 [Update an item rebate group](update-an-item-rebate-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up methods for depreciation profiles
 TOCTitle: (HUN) Set up methods for depreciation profiles
 ms:assetid: d7a3d0a5-3a54-4bdb-a558-085dc13b639e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728743(v=AX.60)
 ms:contentKeyID: 49556653
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up methods for depreciation profiles 
@@ -47,5 +49,5 @@ You set up depreciation methods for the depreciation profiles that you use to al
 [About depreciation](about-depreciation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

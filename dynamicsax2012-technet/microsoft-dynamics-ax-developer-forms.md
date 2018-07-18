@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Dynamics AX Developer Forms
 TOCTitle: Developer Forms
 ms:assetid: 7243ed09-984f-4c31-b471-3cecf1b7d200
@@ -18,8 +18,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 The following topics describe how to use the tools in the MorphX IDE.
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
 

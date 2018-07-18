@@ -1,4 +1,4 @@
-﻿---
+---
 title: " segregation of duties"
 TOCTitle: " segregation of duties"
 ms:assetid: DynamicsAXGlossary.1365501
@@ -27,5 +27,5 @@ A design principle used to reduce the risk of fraud, irregularities, and errors 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

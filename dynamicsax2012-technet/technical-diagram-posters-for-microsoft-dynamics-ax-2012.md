@@ -1,4 +1,4 @@
-﻿---
+---
 title: Technical diagram posters for Microsoft Dynamics AX 2012
 TOCTitle: Technical diagram posters for Microsoft Dynamics AX 2012
 ms:assetid: 5af8b750-b9be-4b49-becf-63fdff4d9786
@@ -116,5 +116,5 @@ If you have a plotter, you can print these posters at full size. If you don't ha
 6.  On the **File** menu, click **Print**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

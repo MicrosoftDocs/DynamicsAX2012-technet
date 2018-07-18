@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain your personal information
 TOCTitle: Maintain your personal information
 ms:assetid: e3217168-2611-43c2-95dd-067fe374d213
@@ -10,6 +10,8 @@ f1_keywords:
 - default_EmployeeServices_PersonalInfo
 - defaultEmployeeServicesPersonalInfo
 - HcmEPWorkerInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain your personal information 
@@ -84,5 +86,5 @@ You can delete personal information from each list on this page only if a **Remo
 3.  Click **Remove** for the specific list. The personal information is deleted from the list.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

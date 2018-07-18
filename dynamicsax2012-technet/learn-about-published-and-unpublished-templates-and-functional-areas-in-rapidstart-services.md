@@ -1,4 +1,4 @@
-﻿---
+---
 title: Learn about published and unpublished templates and functional areas in RapidStart Services
 TOCTitle: Learn about published and unpublished templates and functional areas in RapidStart Services
 ms:assetid: 0fbf4011-a065-477d-af0d-3d2318a15745
@@ -61,5 +61,5 @@ For information about how to see which functional are not currently published, s
 [Create question groups and questions in Microsoft Dynamics ERP RapidStart Services](create-question-groups-and-questions-in-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

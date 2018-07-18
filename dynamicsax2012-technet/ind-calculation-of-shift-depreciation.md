@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculation of shift depreciation
 TOCTitle: (IND) Calculation of shift depreciation
 ms:assetid: 4065068b-a73b-4f1f-ba7a-569fe2586249
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664641(v=AX.60)
 ms:contentKeyID: 49385718
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculation of shift depreciation 
@@ -129,5 +131,5 @@ Refer to the following table for different formulas that are used to calculate t
 Full depreciation is calculated if the value of an asset is less than or equal to the value that is specified in the **Max. acquisition value to avail full depreciation** Click **Fixed assets** \> **Common** \> **Fixed assets** \> **Fixed assets**. In this case, the days that are specified in the **Min. working days for seasonal industries** field or the **Min. working days for non-seasonal industries** field are not considered for calculation of depreciation.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

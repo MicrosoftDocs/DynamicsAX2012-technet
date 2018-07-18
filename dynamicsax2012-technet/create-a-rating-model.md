@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a rating model
 TOCTitle: Create a rating model
 ms:assetid: 81eca856-f7ac-4406-9635-3a3d64cceb9f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - rating model
 - Set up an employee rating system
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a rating model 
@@ -86,5 +88,5 @@ For example, a rating model titled “Typing” might include the following leve
 [Rating models (form)](https://technet.microsoft.com/en-us/library/jj856599\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

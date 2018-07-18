@@ -1,4 +1,4 @@
-﻿---
+---
 title: About customer payment retention for projects
 TOCTitle: About customer payment retention for projects
 ms:assetid: 88863106-9cb8-49ff-9031-e99f319b8f5a
@@ -13,6 +13,8 @@ f1_keywords:
 - retention terms
 - retention amount
 - customer retention
+audience: Application User
+ms.search.region: Global
 ---
 
 # About customer payment retention for projects 
@@ -83,5 +85,5 @@ After you determine that the project is 50 percent completed, you discuss the st
 [Invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa615408\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

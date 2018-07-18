@@ -1,4 +1,4 @@
-﻿---
+---
 title: Clean up your data
 TOCTitle: Clean up your data
 ms:assetid: 1eac2c3b-61b6-45aa-a0c1-07c2c62fda14
@@ -18,5 +18,5 @@ Before you start your upgrade, we recommend that you run the Intelligent Data Ma
 For information about how to download, install, and use the IDMF, see the TechNet topic [Intelligent Data Management Framework for Microsoft Dynamics AX \[AX 2012\]](http://go.microsoft.com/fwlink/?linkid=230455).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

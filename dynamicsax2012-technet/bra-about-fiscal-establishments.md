@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About fiscal establishments
 TOCTitle: (BRA) About fiscal establishments
 ms:assetid: 85a9cf3b-2849-42fb-a82a-3226158aa54a
@@ -11,6 +11,8 @@ f1_keywords:
 - Brazil
 - fiscal establishments
 - BR - 00012
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About fiscal establishments 
@@ -65,5 +67,5 @@ You can perform the following tasks:
 [(BRA) Taxes matrix (form)](https://technet.microsoft.com/en-us/library/jj923368\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

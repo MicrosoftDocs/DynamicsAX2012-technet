@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan the base topology of Microsoft Dynamics AX
 TOCTitle: Plan the base topology of Microsoft Dynamics AX
 ms:assetid: a1ae0849-4b85-4a65-9b93-04d14a71f016
@@ -26,5 +26,5 @@ The following topics are included in this section:
 [SQL Server topology recommendations for availability and performance](sql-server-topology-recommendations-for-availability-and-performance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define Budgeting parameters and number sequences
 TOCTitle: Define Budgeting parameters and number sequences
 ms:assetid: ff5559b1-295e-4cc0-b034-2eb61f286890
@@ -15,6 +15,8 @@ f1_keywords:
 - use rules for budget transfers
 - revenue budget options
 - parameters for budgeting
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define Budgeting parameters and number sequences 
@@ -150,5 +152,5 @@ Use the following steps to define budgeting parameters and number sequences.
     You can also create new number sequences by using the **Number sequences** form. For more information about number sequences, see [Number sequences (form)](https://technet.microsoft.com/en-us/library/hh209531\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

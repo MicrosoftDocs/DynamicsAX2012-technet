@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan hardware and software infrastructure
 TOCTitle: Plan hardware and software infrastructure
 ms:assetid: d8904c23-7d93-41d0-bac5-13181dbdad37
@@ -56,5 +56,5 @@ The following topics are included in this section:
 [Getting started with associated technologies](getting-started-with-associated-technologies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

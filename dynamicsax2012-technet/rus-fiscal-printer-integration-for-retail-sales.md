@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Fiscal printer integration for retail sales
 TOCTitle: (RUS) Fiscal printer integration for retail sales
 ms:assetid: 54cd21aa-a998-4eb9-aea0-bcf3bf3f1634
@@ -13,6 +13,8 @@ f1_keywords:
 - fiscal printers
 - fiscal receipt
 - fiscal receipts
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Fiscal printer integration for retail sales 
@@ -75,5 +77,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [Integrating Microsoft Dynamics AX for Retail POS with fiscal printers for Russia – White paper](https://mbs.microsoft.com/customersource/global/ax/support/support-news/integratingmsdynaxforposprintersrussia)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

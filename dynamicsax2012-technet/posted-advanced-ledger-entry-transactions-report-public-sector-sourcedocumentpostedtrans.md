@@ -1,4 +1,4 @@
-﻿---
+---
 title: Posted advanced ledger entry transactions report (Public sector) (SourceDocumentPostedTrans)
 TOCTitle: Posted advanced ledger entry transactions report (Public sector) (SourceDocumentPostedTrans)
 ms:assetid: 2eff9b60-66fe-4d6c-8802-a028d6b8c2af
@@ -154,5 +154,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

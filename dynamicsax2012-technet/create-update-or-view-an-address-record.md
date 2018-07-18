@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create, update, or view an address record
 TOCTitle: Create, update, or view an address record
 ms:assetid: 7a6d913f-d7af-49b7-8000-acb5d14e4054
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - LogisticsManageAddress
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create, update, or view an address record 
@@ -68,5 +70,5 @@ In the **Employee services** portal, under **Personal information**, click **Per
 2.  On the **Address** FastTab, select the record that you want to view, and then click **Details**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor category requests overview
 TOCTitle: Vendor category requests overview
 ms:assetid: 40d71b3f-8c56-402c-a63e-b200607686eb
@@ -13,6 +13,8 @@ f1_keywords:
 - category requests
 - vendor categories
 - vendor category
+audience: Application User
+ms.search.region: Global
 ---
 
 # Vendor category requests overview 
@@ -166,5 +168,5 @@ Fabrikam is a vendor that provides office supply materials and is authorized to 
 [Key tasks: Manage category requests from vendors](key-tasks-manage-category-requests-from-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

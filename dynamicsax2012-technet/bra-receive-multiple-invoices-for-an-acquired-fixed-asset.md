@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Receive multiple invoices for an acquired fixed asset
 TOCTitle: (BRA) Receive multiple invoices for an acquired fixed asset
 ms:assetid: 0941fc9a-4f4f-43da-822c-21795c6ec545
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305859(v=AX.60)
 ms:contentKeyID: 54912959
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Receive multiple invoices for an acquired fixed asset 
@@ -38,5 +40,5 @@ When an additional invoice is received for an acquired fixed asset, the fixed as
 5.  To view CIAP fixed assets, click **Fiscal books** \> **Common** \> **All CIAP fixed assets**. Click **CIAP fixed asset** in the group on the **Action Pane**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

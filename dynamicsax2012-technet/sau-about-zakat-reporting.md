@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) About Zakat reporting
 TOCTitle: (SAU) About Zakat reporting
 ms:assetid: 926c33a1-564a-467a-be03-2dc498ed6540
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Saudi Arabia
 - Zakat reporting
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) About Zakat reporting 
@@ -57,5 +59,5 @@ Microsoft Dynamics AX 2012 allows you to generate the required Zakat reports:
 [(SAU) Set up a report name, item code, and asset group for Zakat reporting](sau-set-up-a-report-name-item-code-and-asset-group-for-zakat-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

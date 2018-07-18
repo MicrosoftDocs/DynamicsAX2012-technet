@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Microsoft Dynamics AX Intelligent Data Management Framework (IDMF)
 TOCTitle: Using IDMF
 ms:assetid: 9890d7dc-2714-41c3-8148-7d9ced16cb7f
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/overview-of-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

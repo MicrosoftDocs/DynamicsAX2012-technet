@@ -1,4 +1,4 @@
-﻿---
+---
 title: About amortizing constant costs for a manufactured item
 TOCTitle: About amortizing constant costs for a manufactured item
 ms:assetid: c9921d7a-7d46-45b8-94fc-ae09a4bbaabb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213653(v=AX.60)
 ms:contentKeyID: 36059326
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About amortizing constant costs for a manufactured item 
@@ -32,5 +34,5 @@ The calculated amount of a manufactured item’s amortized constant costs is ter
 [About displaying charges for a manufactured item](about-displaying-charges-for-a-manufactured-item.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

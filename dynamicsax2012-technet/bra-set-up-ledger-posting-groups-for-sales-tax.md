@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up ledger posting groups for sales tax
 TOCTitle: (BRA) Set up ledger posting groups for sales tax
 ms:assetid: e8058800-3745-4d48-8313-0450ee390023
@@ -13,6 +13,8 @@ f1_keywords:
 - Brazil
 - ledger posting groups for sales tax
 - posting groups
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up ledger posting groups for sales tax 
@@ -35,5 +37,5 @@ You can set up ledger accounts in the ledger posting groups that are used to pos
 [(BRA) Ledger posting groups (modified form)](https://technet.microsoft.com/en-us/library/jj710565\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

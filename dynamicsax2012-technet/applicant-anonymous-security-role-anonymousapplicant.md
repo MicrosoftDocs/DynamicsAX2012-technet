@@ -1,4 +1,4 @@
-﻿---
+---
 title: Applicant anonymous security role (AnonymousApplicant)
 TOCTitle: Applicant anonymous security role (AnonymousApplicant)
 ms:assetid: a0cb7e2e-af2f-469e-b8b4-c1c769b11b9c
@@ -47,5 +47,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

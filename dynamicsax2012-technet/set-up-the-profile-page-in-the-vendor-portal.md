@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up the Profile page in the Vendor portal
 TOCTitle: Set up the Profile page in the Vendor portal
 ms:assetid: a4a5862f-4811-4927-961b-5765d96d216d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242678(v=AX.60)
 ms:contentKeyID: 36058859
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up the Profile page in the Vendor portal 
@@ -50,5 +52,5 @@ You can define one or more vendor profile configurations. This lets you configur
 [Vendor request configurations (form)](https://technet.microsoft.com/en-us/library/hh209430\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

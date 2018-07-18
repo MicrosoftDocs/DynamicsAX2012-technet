@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up item returns
 TOCTitle: (RUS) Setting up item returns
 ms:assetid: 6abbadb8-7253-4b21-bfec-d96f07aa958f
@@ -11,6 +11,8 @@ f1_keywords:
 - Returned items
 - permission groups
 - Item returns
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up item returns 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to set up and regulate 
 [(RUS) Set up Microsoft Dynamics AX to process returns during a different shift](rus-set-up-microsoft-dynamics-ax-to-process-returns-during-a-different-shift.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

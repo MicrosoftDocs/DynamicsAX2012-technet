@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Accounts receivable
 TOCTitle: (LTU) Accounts receivable
 ms:assetid: dce09ef7-0f2c-489e-8202-d1b583a6e55f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665207(v=AX.60)
 ms:contentKeyID: 49386788
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Accounts receivable 
@@ -24,5 +26,5 @@ The topics in this section provide more information about Accounts receivable.
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

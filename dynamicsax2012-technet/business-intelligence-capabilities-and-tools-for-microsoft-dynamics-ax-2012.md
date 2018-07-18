@@ -1,4 +1,4 @@
-﻿---
+---
 title: Business Intelligence Capabilities and Tools for Microsoft Dynamics AX 2012
 TOCTitle: Business Intelligence Capabilities and Tools for Microsoft Dynamics AX 2012
 ms:assetid: af4cf4bc-9a4b-4bcd-a9dc-03263ed95034
@@ -16,5 +16,5 @@ This document provides information about BI tools and capabilities, and provides
 [Download the paper](http://www.microsoft.com/en-us/download/details.aspx?id=38410)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

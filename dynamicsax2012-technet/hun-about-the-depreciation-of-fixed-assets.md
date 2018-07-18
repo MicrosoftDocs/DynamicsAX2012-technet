@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) About the depreciation of fixed assets
 TOCTitle: (HUN) About the depreciation of fixed assets
 ms:assetid: edfa420a-c8d7-4c95-a27d-eaa66db59959
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664406(v=AX.60)
 ms:contentKeyID: 49385494
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) About the depreciation of fixed assets 
@@ -28,5 +30,5 @@ The following depreciation methods are available in Hungary:
 For more information about depreciation methods, see [Depreciation methods and conventions](depreciation-methods-and-conventions.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

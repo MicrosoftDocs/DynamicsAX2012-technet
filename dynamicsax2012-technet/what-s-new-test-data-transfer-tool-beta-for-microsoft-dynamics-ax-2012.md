@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012"
 TOCTitle: Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012
 ms:assetid: 483a5aa2-2716-4d12-8410-a8d99b9936a3
@@ -20,5 +20,5 @@ The Microsoft Dynamics AX 2012 Test Data Transfer Tool (beta) (DP.exe) is a comm
 Read the documentation: [Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012](test-data-transfer-tool-beta-for-microsoft-dynamics-ax-2012.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

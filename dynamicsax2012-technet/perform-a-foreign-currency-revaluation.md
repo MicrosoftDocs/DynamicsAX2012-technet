@@ -1,4 +1,4 @@
-﻿---
+---
 title: Perform a foreign currency revaluation
 TOCTitle: Perform a foreign currency revaluation
 ms:assetid: f98eeac2-160b-4bcc-938b-5cbbad1a137a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - foreign currency revaluation
 - currency revaluation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Perform a foreign currency revaluation 
@@ -69,5 +71,5 @@ Use the **Foreign currency revaluation** form to complete a foreign currency rev
 [Ledger foreign currency revaluation (form)](https://technet.microsoft.com/en-us/library/aa573388\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

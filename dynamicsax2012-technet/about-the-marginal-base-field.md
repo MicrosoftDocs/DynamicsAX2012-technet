@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the Marginal base field
 TOCTitle: About the Marginal base field
 ms:assetid: 57ba4f23-6fea-41dc-a0b9-9affd1873fb2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549061(v=AX.60)
 ms:contentKeyID: 36057334
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the Marginal base field 
@@ -391,5 +393,5 @@ Total invoice amount = 200.00 + 39.00 + 40.00 = 279.00
 [About the Whole amount and Interval options for sales tax codes](about-the-whole-amount-and-interval-options-for-sales-tax-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sales targets report (smmSalesTarget)
 TOCTitle: Sales targets report (smmSalesTarget)
 ms:assetid: cb154c3b-2371-4406-8966-b83c79fb12dc
@@ -108,5 +108,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

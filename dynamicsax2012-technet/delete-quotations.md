@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete quotations
 TOCTitle: Delete quotations
 ms:assetid: f899aa5d-84f7-434d-a74a-665717249d01
@@ -12,6 +12,8 @@ f1_keywords:
 - delete many quotations
 - delete multiple quotations
 - quote
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete quotations 
@@ -24,5 +26,5 @@ The topics in this section provide information about how to delete quotations.
 [Mass delete quotations](mass-delete-quotations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

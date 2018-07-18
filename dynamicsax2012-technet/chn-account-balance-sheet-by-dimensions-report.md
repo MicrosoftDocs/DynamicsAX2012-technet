@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Account balance sheet by dimensions (report)
 TOCTitle: (CHN) Account balance sheet by dimensions (report)
 ms:assetid: 2e781fe8-6758-4dc0-a99c-b04632a29b7c
@@ -128,5 +128,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

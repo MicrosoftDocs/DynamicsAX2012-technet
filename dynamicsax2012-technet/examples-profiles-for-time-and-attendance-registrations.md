@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Examples: Profiles for time and attendance registrations'
 TOCTitle: 'Examples: Profiles for time and attendance registrations'
 ms:assetid: 9719e42a-cf11-497e-a65c-92cadf5f0fd7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498430(v=AX.60)
 ms:contentKeyID: 36058667
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Examples: Profiles for time and attendance registrations 
@@ -863,5 +865,5 @@ You can set up parameters to insert an absence code automatically in a flex prof
 [About profile types for time and attendance registrations](about-profile-types-for-time-and-attendance-registrations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

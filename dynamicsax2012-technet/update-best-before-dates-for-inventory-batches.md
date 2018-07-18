@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update best before dates for inventory batches
 TOCTitle: Update best before dates for inventory batches
 ms:assetid: e77a9b79-2c5e-4c56-ab65-a5684ccc2e13
@@ -11,6 +11,8 @@ f1_keywords:
 - change the use before date
 - update the best before date
 - update use before date
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update best before dates for inventory batches 
@@ -53,5 +55,5 @@ Use this procedure to update the best before date that is applied to a single in
 [Update best before dates (form)](https://technet.microsoft.com/en-us/library/hh209458\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

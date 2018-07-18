@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About calculation of taxes
 TOCTitle: (BRA) About calculation of taxes
 ms:assetid: 8f5b0f9e-b0da-48d3-8a21-ae0ac49ef9b1
@@ -13,6 +13,8 @@ f1_keywords:
 - IPI
 - BR - 00017
 - BR - 00032
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About calculation of taxes 
@@ -155,5 +157,5 @@ For purchase transactions with taxation codes that have a **1. with credit/debit
 [(BRA) Set up and calculate tax on sales and purchases](bra-set-up-and-calculate-tax-on-sales-and-purchases.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

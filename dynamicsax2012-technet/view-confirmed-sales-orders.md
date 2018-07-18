@@ -1,4 +1,4 @@
-﻿---
+---
 title: View confirmed sales orders
 TOCTitle: View confirmed sales orders
 ms:assetid: fdb37937-f0aa-4009-8fc8-3d6026482fc1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPCustConfirmationJournalInfo
 - EPCustConfirmationJournalList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View confirmed sales orders 
@@ -45,5 +47,5 @@ To access either of these pages follow these instructions:
 [View customer records](view-customer-records.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

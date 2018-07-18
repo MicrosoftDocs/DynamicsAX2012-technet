@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create store inventory documents
 TOCTitle: Create store inventory documents
 ms:assetid: 8facce8e-64e8-4fb9-9f68-2f32ce336056
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597171(v=AX.60)
 ms:contentKeyID: 39519231
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create store inventory documents 
@@ -76,5 +78,5 @@ Unscheduled stock counts can be created at a store. For more information, see Re
 [About working with store inventory](about-working-with-store-inventory.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Set up a policy rule for spending thresholds by category (Public sector)
 TOCTitle: (FRA) Set up a policy rule for spending thresholds by category (Public sector)
 ms:assetid: 82d072c5-f44d-461e-9e67-19fe1f2954cf
@@ -20,6 +20,8 @@ f1_keywords:
 - category policy rule
 - category policy rules
 - spending thresholds
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Set up a policy rule for spending thresholds by category (Public sector) 
@@ -106,5 +108,5 @@ To set up a policy rule for spending thresholds by category, use the following s
 [(FRA) Spending thresholds by category policy rule (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208581\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install a Retail channel database
 TOCTitle: Install a Retail channel database
 ms:assetid: 6c7f96f3-1fc2-4cc5-9c48-2d3876e91856
@@ -190,5 +190,5 @@ After you install a channel database, you must complete the following tasks.
   - Optional: Add the database to a data group. For more information, see [Create a channel data group](create-a-channel-data-group.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

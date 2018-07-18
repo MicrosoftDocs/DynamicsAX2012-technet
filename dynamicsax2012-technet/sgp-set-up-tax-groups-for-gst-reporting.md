@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SGP) Set up tax groups for GST reporting
 TOCTitle: (SGP) Set up tax groups for GST reporting
 ms:assetid: a13bbcb0-d21c-44a7-bca7-8b6466ca1cc3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213387(v=AX.60)
 ms:contentKeyID: 36058781
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Singapore
 ---
 
 # (SGP) Set up tax groups for GST reporting 
@@ -42,5 +44,5 @@ Use the **Sales tax groups** form to set up sales tax groups. The sales tax grou
 [(SGP) Set up tax codes for GST reporting](sgp-set-up-tax-codes-for-gst-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create sales targets
 TOCTitle: Create sales targets
 ms:assetid: 029af4be-eac6-49c4-8d27-6489ba20c1d2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - sales targets
 - sales target
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create sales targets 
@@ -31,5 +33,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
     You can modify the quarterly or monthly amounts directly. Manually enter the values in the fields. The program automatically calculates the yearly total.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

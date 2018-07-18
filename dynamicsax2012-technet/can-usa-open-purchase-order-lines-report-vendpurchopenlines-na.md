@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CAN, USA) Open purchase order lines report (VendPurchOpenLines_NA)
 TOCTitle: (CAN, USA) Open purchase order lines report (VendPurchOpenLines_NA)
 ms:assetid: 1cc11d20-6589-46da-89d4-5a2403980d17
@@ -138,5 +138,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

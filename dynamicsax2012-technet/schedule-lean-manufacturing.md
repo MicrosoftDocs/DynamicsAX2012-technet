@@ -1,4 +1,4 @@
-﻿---
+---
 title: Schedule lean manufacturing
 TOCTitle: Schedule lean manufacturing
 ms:assetid: c8543f1e-92cc-4d20-8956-3d36cea4d2ae
@@ -16,6 +16,8 @@ f1_keywords:
 - kanban scheduling
 - plan kanbans
 - schedule kanbans
+audience: Application User
+ms.search.region: Global
 ---
 
 # Schedule lean manufacturing 
@@ -28,5 +30,5 @@ The topics in this section provide information about the kanban boards and how t
 [Key tasks: Schedule kanban jobs for a work cell](key-tasks-schedule-kanban-jobs-for-a-work-cell.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

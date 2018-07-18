@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (HUN) Import bank account statements in MT940'
 TOCTitle: (HUN) Import bank account statements in MT940
 ms:assetid: 84b6f1cc-137c-4fc4-a75d-9038b0512d56
@@ -54,5 +54,5 @@ For Hungarian installations, Microsoft Dynamics AX 2009 provides country-specifi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

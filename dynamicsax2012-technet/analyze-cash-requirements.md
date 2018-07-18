@@ -1,4 +1,4 @@
-﻿---
+---
 title: Analyze cash requirements
 TOCTitle: Analyze cash requirements
 ms:assetid: 35fb6e8d-89d5-4327-be37-238380ec6ad2
@@ -14,6 +14,8 @@ f1_keywords:
 - requirement
 - cash requirement
 - cash requirements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Analyze cash requirements 
@@ -26,5 +28,5 @@ The following topics provide information about analyzing cash requirements for v
 [(CAN, USA) About vendor payment journal reports](can-usa-about-vendor-payment-journal-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

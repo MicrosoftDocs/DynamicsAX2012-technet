@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with address books (Retail essentials)
 TOCTitle: Working with address books (Retail essentials)
 ms:assetid: c139e300-1176-4bb5-aedb-7318685bfb00
@@ -38,5 +38,5 @@ To create address books, follow these steps:
 [Working with organizations and organizational hierarchies (Retail essentials)](working-with-organizations-and-organizational-hierarchies-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create free text invoices
 TOCTitle: Create free text invoices
 ms:assetid: d2142085-c738-49cc-ad7b-dc1d0cff1fa4
@@ -13,6 +13,8 @@ f1_keywords:
 - free-text invoice
 - free-text invoicing
 - free-text invoices
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create free text invoices 
@@ -47,5 +49,5 @@ The following topics provide information about creating free text invoices.
 [(ESP) Create and post free text invoices with delivery dates](esp-create-and-post-free-text-invoices-with-delivery-dates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

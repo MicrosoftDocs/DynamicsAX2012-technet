@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up sales taxes for multiple taxation transactions
 TOCTitle: (IND) Set up sales taxes for multiple taxation transactions
 ms:assetid: 8dcb33c1-89b4-4b86-99f3-e86bd2e08a68
@@ -12,6 +12,8 @@ f1_keywords:
 - India
 - multiple tax
 - multiple taxation transactions
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up sales taxes for multiple taxation transactions 
@@ -166,5 +168,5 @@ Therefore, the total tax is 1,425.60.
 [(IND) Manage tax information (form)](https://technet.microsoft.com/en-us/library/jj664802\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

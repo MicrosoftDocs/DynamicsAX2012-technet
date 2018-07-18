@@ -1,4 +1,4 @@
-﻿---
+---
 title: Business Intelligence Properties
 TOCTitle: Business Intelligence Properties
 ms:assetid: 08629d9b-f7c0-4091-8a8a-b5dd23fb1349
@@ -296,5 +296,5 @@ The view properties are the same as the table properties, except for the **IsLoo
 [Properties of AOT Elements](https://technet.microsoft.com/en-us/library/gg731856\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

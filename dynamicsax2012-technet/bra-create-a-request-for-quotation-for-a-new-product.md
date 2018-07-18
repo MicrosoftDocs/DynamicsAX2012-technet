@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create a request for quotation for a new product
 TOCTitle: (BRA) Create a request for quotation for a new product
 ms:assetid: a96c4118-c42a-4ca8-ab29-239d664916f6
@@ -11,6 +11,8 @@ f1_keywords:
 - BRA
 - Brazil
 - create a request
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create a request for quotation for a new product 
@@ -61,5 +63,5 @@ Use this procedure to create and send a request for quotation (RFQ) for a new pr
 [Request for quotation details (form)](https://technet.microsoft.com/en-us/library/hh209669\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

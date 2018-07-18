@@ -1,4 +1,4 @@
-﻿---
+---
 title: About intercompany master scheduling
 TOCTitle: About intercompany master scheduling
 ms:assetid: 908786da-80d5-4abc-b367-53ce45f82e00
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - intercompany
 - master scheduling
+audience: Application User
+ms.search.region: Global
 ---
 
 # About intercompany master scheduling 
@@ -35,5 +37,5 @@ Because the master scheduling in the companies is controlled by the intercompany
 In the **Intercompany master scheduling** form, you can start a sequence of master scheduling, which executes a master scheduling the first time with the principle for updating the requirement calculation that you have selected for the first iteration for all the intercompany companies. Subsequent iterations use the secondary principle that you select for the next iteration, and this principle is applied until the number of iterations that you have specified is reached.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

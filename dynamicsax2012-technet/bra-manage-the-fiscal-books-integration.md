@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Manage the fiscal books integration
 TOCTitle: (BRA) Manage the fiscal books integration
 ms:assetid: b6d06caa-5dbb-4060-97ab-4a3cc90a9b9e
@@ -11,6 +11,8 @@ f1_keywords:
 - Forms.FBFiscalDocument_BR
 - MsDynAx060.Forms.FBBookingPeriodListPage_BR
 - MsDynAx060.Forms.FBFiscalDocument_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Manage the fiscal books integration 
@@ -89,5 +91,5 @@ The integration process also transfers the Z reports that are generated in the R
 [Fiscal books integration](http://go.microsoft.com/fwlink/?linkid=306013)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (THA, SAU, GBR, IRL) Set up a ledger account for withholding tax
 TOCTitle: (THA, SAU, GBR, IRL) Set up a ledger account for withholding tax
 ms:assetid: b5f787eb-468c-46f5-9bfa-e6e9f1c72fac
@@ -10,6 +10,8 @@ f1_keywords:
 - Thailand
 - withholding tax
 - ledger accounts
+audience: Application User
+ms.search.region: Ireland, Saudi Arabia,Thailand, United Kingdom
 ---
 
 # (THA, SAU, GBR, IRL) Set up a ledger account for withholding tax 
@@ -38,5 +40,5 @@ You can assign a posting type to a main account, and then post withholding tax e
 [Chart of accounts (form)](https://technet.microsoft.com/en-us/library/aa618234\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

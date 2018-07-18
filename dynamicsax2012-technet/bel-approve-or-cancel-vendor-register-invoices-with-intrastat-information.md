@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Approve or cancel vendor register invoices with Intrastat information
 TOCTitle: (BEL) Approve or cancel vendor register invoices with Intrastat information
 ms:assetid: 48539928-e604-40fe-99be-2a417461e4c2
@@ -10,6 +10,8 @@ f1_keywords:
 - Belgium
 - approve
 - vendor invoice
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Approve or cancel vendor register invoices with Intrastat information 
@@ -50,5 +52,5 @@ You can approve or cancel a vendor invoice that contains Intrastat information a
 [(BEL) Transfer vendor invoice transactions and generate an Intrastat declaration](bel-transfer-vendor-invoice-transactions-and-generate-an-intrastat-declaration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

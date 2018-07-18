@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up and transfer the transfer order transactions for Intrastat reporting
 TOCTitle: Set up and transfer the transfer order transactions for Intrastat reporting
 ms:assetid: 3756a936-6228-442f-9a84-7593cef76784
@@ -15,6 +15,8 @@ f1_keywords:
 - Forms.IntrastatParameters
 - Forms.InventTransferParmReceive
 - Forms.InventTransferOrders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up and transfer the transfer order transactions for Intrastat reporting 
@@ -389,5 +391,5 @@ To include transfer order transactions on the Intrastat report, follow these ste
 [About transfer orders](about-transfer-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

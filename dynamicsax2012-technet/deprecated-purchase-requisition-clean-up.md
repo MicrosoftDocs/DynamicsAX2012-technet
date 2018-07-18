@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Purchase requisition clean up'
 TOCTitle: Purchase requisition clean up
 ms:assetid: 40845b00-b123-477e-9e9c-ca489a865576
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, the Delete purchase requisitions tool is availabl
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

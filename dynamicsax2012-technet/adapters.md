@@ -1,4 +1,4 @@
-﻿---
+---
 title: Adapters
 TOCTitle: Adapters
 ms:assetid: 0bfad6cb-37b8-42c8-994e-f7433a9d656c
@@ -44,5 +44,5 @@ For more information about integration ports, see [Integration ports](integratio
 Addresses depend on the type of adapter being used. An address consists of a Uniform Resource Identifier (URI) that is associated with a particular adapter. A URI provides the location of the source or destination that the adapter can use, for example a file folder path or an HTTP URL.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

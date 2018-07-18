@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Create a vendor account with an enterprise number
 TOCTitle: (BEL) Create a vendor account with an enterprise number
 ms:assetid: 2a4a15db-6576-4947-8f5f-00fc1cba7f0b
@@ -10,6 +10,8 @@ f1_keywords:
 - belgium
 - enterprise number
 - vendor account
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Create a vendor account with an enterprise number 
@@ -52,5 +54,5 @@ Use this procedure to create a vendor account and specify the enterprise number 
 [(BEL) Create a customer account with an enterprise number](bel-create-a-customer-account-with-an-enterprise-number.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

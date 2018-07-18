@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security Considerations Creating a Report
 TOCTitle: Security Considerations Creating a Report
 ms:assetid: 3561ba22-d9af-4333-9b95-2c066e903397
@@ -68,5 +68,5 @@ The extensible data security framework enables you to secure data in shared tabl
   - Entries in the security policy file will not be created for any assemblies referenced by business logic assemblies.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

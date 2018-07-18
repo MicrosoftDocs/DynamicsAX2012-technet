@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Custom date-effective functionality for Human resources forms'
 TOCTitle: Custom date-effective functionality for Human resources forms
 ms:assetid: fc517f7d-a2f2-4c3e-bee4-c4e29a435662
@@ -61,5 +61,5 @@ In Microsoft Dynamics AX 2009, Employee/contractor, Job, Position, and Departmen
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

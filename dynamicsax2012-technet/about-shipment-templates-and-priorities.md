@@ -1,4 +1,4 @@
-﻿---
+---
 title: About shipment templates and priorities
 TOCTitle: About shipment templates and priorities
 ms:assetid: d9ecb9a1-e63d-451c-9940-c656fd19299b
@@ -10,6 +10,8 @@ f1_keywords:
 - create new shipment
 - default shipment settings
 - shipment template
+audience: Application User
+ms.search.region: Global
 ---
 
 # About shipment templates and priorities 
@@ -40,5 +42,5 @@ If no template is found, you can create a shipment manually in the **Shipments**
 [Shipment templates (form)](https://technet.microsoft.com/en-us/library/aa634909\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

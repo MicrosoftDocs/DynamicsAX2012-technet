@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Revalue assets overview
 TOCTitle: (IND) Revalue assets overview
 ms:assetid: c66b2426-c3c6-4c91-9bd9-a53b706192bf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664867(v=AX.60)
 ms:contentKeyID: 49386197
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Revalue assets overview 
@@ -24,5 +26,5 @@ The following topics provide information about revaluing fixed assets.
 [(IND) View fixed asset group balances and profiles for depreciation books](ind-view-fixed-asset-group-balances-and-profiles-for-depreciation-books.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

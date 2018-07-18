@@ -1,4 +1,4 @@
-﻿---
+---
 title: About list filters
 TOCTitle: About list filters
 ms:assetid: 2f2de025-9ba5-4cd8-84ff-559fdf9e21bc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271487(v=AX.60)
 ms:contentKeyID: 36384119
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About list filters 
@@ -36,5 +38,5 @@ In the Microsoft Dynamics AX client, you can use the Advanced Filter to save a f
 [Use list filters](use-list-filters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

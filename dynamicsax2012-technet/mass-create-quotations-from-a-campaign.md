@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mass create quotations from a campaign
 TOCTitle: Mass create quotations from a campaign
 ms:assetid: 8e4f3c5a-81f1-43d4-a7b8-7328475a59ee
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498358(v=AX.60)
 ms:contentKeyID: 36058516
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Mass create quotations from a campaign 
@@ -42,5 +44,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [Mass create quotations](mass-create-quotations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

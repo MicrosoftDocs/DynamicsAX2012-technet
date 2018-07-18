@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using answers and questions for questionnaire
 TOCTitle: Using answers and questions for questionnaire
 ms:assetid: 1ddbed0a-35f3-4c1a-9fb8-2f1b6f04a926
@@ -13,6 +13,8 @@ f1_keywords:
 - questions
 - question
 - answers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using answers and questions for questionnaire 
@@ -43,5 +45,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [Create a question](create-a-question.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

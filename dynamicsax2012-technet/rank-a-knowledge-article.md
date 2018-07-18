@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rank a knowledge article
 TOCTitle: Rank a knowledge article
 ms:assetid: 5fa1dcb2-b627-4ea9-b514-7a1914d534b2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209135(v=AX.60)
 ms:contentKeyID: 36057596
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Rank a knowledge article 
@@ -26,5 +28,5 @@ You can rank a knowledge article to indicate whether it was helpful on a case wi
 5.  Select the **Success** check box if you succeeded in using the information in the article to help resolve the case.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

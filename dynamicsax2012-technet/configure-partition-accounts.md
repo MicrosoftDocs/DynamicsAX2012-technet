@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure partition accounts
 TOCTitle: Configure partition accounts
 ms:assetid: 69ab0db8-6290-4513-bbbe-9e6f72e264cb
@@ -26,5 +26,5 @@ The Workflow execution account is used to run application business logic and acc
 For more information about the requirements for this account, see [Specify the workflow execution account](specify-the-workflow-execution-account.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View and reply to a request for quotation
 TOCTitle: View and reply to a request for quotation
 ms:assetid: 2ca952d7-8748-48a5-8f70-025171e2fbad
@@ -22,6 +22,8 @@ f1_keywords:
 - request for quotations
 - bid
 - bids
+audience: Application User
+ms.search.region: Global
 ---
 
 # View and reply to a request for quotation 
@@ -111,5 +113,5 @@ Use this procedure to recall a bid. You can do this if the RFQ has not expired a
 4.  In the confirmation dialog box, click **Yes**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

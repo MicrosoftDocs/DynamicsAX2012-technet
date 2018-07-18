@@ -1,4 +1,4 @@
-﻿---
+---
 title: About BOM calculation of a suggested sales price
 TOCTitle: About BOM calculation of a suggested sales price
 ms:assetid: 67d59744-b8b9-4753-a470-a49bb8e29a69
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231564(v=AX.60)
 ms:contentKeyID: 36057943
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About BOM calculation of a suggested sales price 
@@ -32,5 +34,5 @@ The context of the BOM calculation determines how the results of a calculated sa
 [About order-specific BOM calculations](about-order-specific-bom-calculations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

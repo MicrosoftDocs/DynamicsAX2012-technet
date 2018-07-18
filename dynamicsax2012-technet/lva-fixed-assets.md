@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Fixed assets
 TOCTitle: (LVA) Fixed assets
 ms:assetid: ddb7048b-b308-482d-bd68-5a2c960e9a88
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731068(v=AX.60)
 ms:contentKeyID: 49675308
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Fixed assets 
@@ -22,5 +24,5 @@ The topics in this section provide more information about Fixed assets.
 [(LVA) Working with Fixed assets](lva-working-with-fixed-assets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

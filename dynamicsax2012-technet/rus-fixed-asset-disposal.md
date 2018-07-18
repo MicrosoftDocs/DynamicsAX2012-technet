@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Fixed asset disposal
 TOCTitle: (RUS) Fixed asset disposal
 ms:assetid: 3b264589-94c1-409e-aa54-e41131a507ca
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665298(v=AX.60)
 ms:contentKeyID: 49387387
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Fixed asset disposal 
@@ -45,5 +47,5 @@ There are three ways to create a disposal transaction:
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

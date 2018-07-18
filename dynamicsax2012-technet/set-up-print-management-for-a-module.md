@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up print management for a module
 TOCTitle: Set up print management for a module
 ms:assetid: 4522e64a-8235-4a6b-bb1b-30d9ed6e035b
@@ -13,6 +13,8 @@ f1_keywords:
 - printer
 - printers
 - modules
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up print management for a module 
@@ -153,5 +155,5 @@ You assign worker titles in the **Worker** form, in the **Title** field. Click *
 [Advanced filtering and query options](advanced-filtering-and-query-options.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

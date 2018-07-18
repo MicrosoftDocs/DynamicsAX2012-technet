@@ -1,4 +1,4 @@
-﻿---
+---
 title: Close Accounts receivable overview
 TOCTitle: Close Accounts receivable overview
 ms:assetid: d19a5918-0003-4860-a6e7-ba165695e66f
@@ -11,6 +11,8 @@ f1_keywords:
 - closing
 - Accounts receivable close
 - AR close
+audience: Application User
+ms.search.region: Global
 ---
 
 # Close Accounts receivable overview 
@@ -120,5 +122,5 @@ The following table lists the forms that support the close Accounts receivable b
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

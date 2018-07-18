@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About storno transactions in receipt orders
 TOCTitle: (RUS) About storno transactions in receipt orders
 ms:assetid: 203f1090-06d1-4863-a417-306eccfd5d1d
@@ -10,6 +10,8 @@ f1_keywords:
 - shipment
 - transfer order
 - receipt order
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About storno transactions in receipt orders 
@@ -38,5 +40,5 @@ If items that were shipped from a warehouse are later returned, or if errors wer
 [(RUS) Generate a storno transaction for a transfer order receipt with scrap quantity](rus-generate-a-storno-transaction-for-a-transfer-order-receipt-with-scrap-quantity.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Enter a type of by-product
 TOCTitle: (RUS) Enter a type of by-product
 ms:assetid: 0a389e30-50ec-4321-a573-973aa46eb7e8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711376(v=AX.60)
 ms:contentKeyID: 49387194
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Enter a type of by-product 
@@ -52,5 +54,5 @@ Use the **Kinds of by-product** form to enter a type of by-product. You also spe
 [(RUS) Kinds of by-product (form)](https://technet.microsoft.com/en-us/library/jj711686\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

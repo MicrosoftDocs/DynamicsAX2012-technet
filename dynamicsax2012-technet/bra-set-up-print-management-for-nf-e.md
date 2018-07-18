@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up print management for NF-e
 TOCTitle: (BRA) Set up print management for NF-e
 ms:assetid: e68ab728-85de-4753-b6bb-9ce06bb9361e
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - NF-e
 - electronic fiscal document
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up print management for NF-e 
@@ -192,5 +194,5 @@ You can also set up the **Fiscal establishment ID** field in the **Field** field
 [Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

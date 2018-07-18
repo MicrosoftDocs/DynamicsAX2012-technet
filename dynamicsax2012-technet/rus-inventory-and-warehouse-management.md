@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Inventory and warehouse management
 TOCTitle: (RUS) Inventory and warehouse management
 ms:assetid: 11c1c044-9add-4656-94d9-77e36273f99a
@@ -12,6 +12,8 @@ f1_keywords:
 - warehouse
 - Russia
 - RUS
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Inventory and warehouse management 
@@ -30,5 +32,5 @@ The topics in this section provide more information about Inventory and warehous
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

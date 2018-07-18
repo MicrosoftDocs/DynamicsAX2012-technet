@@ -1,4 +1,4 @@
-﻿---
+---
 title: View category guidelines
 TOCTitle: View category guidelines
 ms:assetid: 7b3e6930-5958-499e-9fe9-2f87e87627b7
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - category guidelines
+audience: Application User
+ms.search.region: Global
 ---
 
 # View category guidelines 
@@ -48,5 +50,5 @@ The following are additional examples of procurement category guidelines:
 [Category guidelines (form)](https://technet.microsoft.com/en-us/library/hh208977\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

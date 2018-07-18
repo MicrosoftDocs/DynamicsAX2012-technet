@@ -1,4 +1,4 @@
-﻿---
+---
 title: Service management
 TOCTitle: Service management
 ms:assetid: 2bcad1c0-6eaf-435e-a414-cdc1321f422c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208509(v=AX.60)
 ms:contentKeyID: 36056249
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Service management 
@@ -84,5 +86,5 @@ Service management can be integrated with the following modules in Microsoft Dyn
   - [Human resources](human-resources.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

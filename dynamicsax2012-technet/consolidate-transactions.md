@@ -1,4 +1,4 @@
-﻿---
+---
 title: Consolidate transactions
 TOCTitle: Consolidate transactions
 ms:assetid: 6f01d266-900a-4b0f-9e23-66b342fbe0d4
@@ -10,6 +10,8 @@ f1_keywords:
 - consolidate
 - consolidate transactions
 - consolidation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Consolidate transactions 
@@ -45,5 +47,5 @@ The topics in this section provide information about the tasks that are related 
 [View and delete consolidation transactions](view-and-delete-consolidation-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

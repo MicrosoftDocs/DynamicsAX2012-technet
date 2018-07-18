@@ -1,4 +1,4 @@
-﻿---
+---
 title: Review the progress for a question group in RapidStart Services
 TOCTitle: Review the progress for a question group in RapidStart Services
 ms:assetid: 0b821976-d87b-4d41-b39f-a9e4d7ac97b8
@@ -82,5 +82,5 @@ You can use this information to determine which business experts you want to fol
 [Review the progress for a functional area in RapidStart Services](review-the-progress-for-a-functional-area-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

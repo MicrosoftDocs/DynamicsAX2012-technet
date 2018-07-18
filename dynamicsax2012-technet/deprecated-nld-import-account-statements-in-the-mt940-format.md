@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (NLD) Import account statements in the MT940 format'
 TOCTitle: (NLD) Import account statements in the MT940 format
 ms:assetid: cf9315af-eeba-456a-91f6-6aa7eb8dd839
@@ -57,5 +57,5 @@ In AX 2012 R2, you can use the bank statement and reconciliation feature to impo
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

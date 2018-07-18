@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a project contract to invoice for units of delivery
 TOCTitle: Create a project contract to invoice for units of delivery
 ms:assetid: 52131642-440e-4d30-8027-39452079e575
@@ -13,6 +13,8 @@ f1_keywords:
 - unit of delivery
 - unit of measure
 - UOM
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a project contract to invoice for units of delivery 
@@ -136,5 +138,5 @@ After you have created the contract and the associated project, use this procedu
 [Units (form)](https://technet.microsoft.com/en-us/library/hh209233\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

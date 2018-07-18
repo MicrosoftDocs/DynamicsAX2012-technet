@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a transport tax declaration
 TOCTitle: (RUS) Create a transport tax declaration
 ms:assetid: d57c2f41-966e-4c76-98dc-6e1445e9e010
@@ -10,6 +10,8 @@ f1_keywords:
 - declaration
 - Russia
 - transport tax
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a transport tax declaration 
@@ -80,5 +82,5 @@ Use this procedure to create a transport tax declaration. You must calculate and
 [(RUS) Create a ledger journal of transport tax transactions](rus-create-a-ledger-journal-of-transport-tax-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

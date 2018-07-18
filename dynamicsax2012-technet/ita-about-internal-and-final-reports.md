@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) About internal and final reports
 TOCTitle: (ITA) About internal and final reports
 ms:assetid: 92de7ea6-3a05-432d-a329-3d9563761f36
@@ -11,6 +11,8 @@ f1_keywords:
 - fiscal LIFO reports
 - reporting fiscal LIFO
 - internal fiscal LIFO report
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) About internal and final reports 
@@ -45,5 +47,5 @@ In the final report journal, the calculation covers the whole fiscal year.
 [(ITA) Calculate fiscal LIFO journal lines](ita-calculate-fiscal-lifo-journal-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up posting definitions
 TOCTitle: Set up posting definitions
 ms:assetid: d0a60e04-9d31-4284-bfc9-f890b41c1708
@@ -11,6 +11,8 @@ f1_keywords:
 - post definition prerequisites
 - posting defintions
 - set up posting definitions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up posting definitions 
@@ -109,5 +111,5 @@ After you create posting definitions, you need to assign them to transaction typ
 [Set up general budget reservation rules and reservation types (Public sector)](set-up-general-budget-reservation-rules-and-reservation-types-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

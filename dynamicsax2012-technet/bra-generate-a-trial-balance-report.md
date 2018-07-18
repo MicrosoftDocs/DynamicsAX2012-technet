@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Generate a trial balance report
 TOCTitle: (BRA) Generate a trial balance report
 ms:assetid: 4c24b07d-8d4b-420c-abc8-1f24f34c4361
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - accounting books
 - generate accounting books
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Generate a trial balance report 
@@ -58,5 +60,5 @@ Use the Trial balance summary report to generate a trial balance report that lis
 [(BRA) Trial balance summary report (LedgerTrialBalance\_BR)](https://technet.microsoft.com/en-us/library/jj710466\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or update a category extension request
 TOCTitle: Create or update a category extension request
 ms:assetid: 6e7fda7a-e095-409e-9270-a14b43a79f4f
@@ -10,6 +10,8 @@ f1_keywords:
 - VendRequestCategoryEmployAdd
 - VendRequestCategoryEmployEdit
 - VendRequestCategoryEmployInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or update a category extension request 
@@ -124,5 +126,5 @@ You can view the workflow history for any category extension request that has be
 [About workflow for vendor requests](about-workflow-for-vendor-requests.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

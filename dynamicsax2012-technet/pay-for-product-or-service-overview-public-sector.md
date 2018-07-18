@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pay for product or service overview (Public sector)
 TOCTitle: Pay for product or service overview (Public sector)
 ms:assetid: ddece806-64a7-4acc-bd8e-fc48d9ad4edd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208592(v=AX.60)
 ms:contentKeyID: 36056379
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Pay for product or service overview (Public sector) 
@@ -24,5 +26,5 @@ The following topics provide information about paying for a product or service. 
 [Generate and submit vendor payments (Public sector)](generate-and-submit-vendor-payments-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Create an INTERVAT declaration file
 TOCTitle: (BEL) Create an INTERVAT declaration file
 ms:assetid: 6b552fb8-6844-4f07-9382-eece9aa62cbe
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - declaration
 - INTERVAT
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Create an INTERVAT declaration file 
@@ -71,5 +73,5 @@ After you create the INTERVAT declaration file, you can upload the file by using
 [Create item sales tax groups](create-item-sales-tax-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

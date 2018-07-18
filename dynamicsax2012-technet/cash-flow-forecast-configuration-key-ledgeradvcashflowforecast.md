@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cash flow forecast configuration key (LedgerAdvCashflowForecast)
 TOCTitle: Cash flow forecast configuration key (LedgerAdvCashflowForecast)
 ms:assetid: ffae5ccf-8ce9-4fb3-ae4e-f289ea47579a
@@ -102,5 +102,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

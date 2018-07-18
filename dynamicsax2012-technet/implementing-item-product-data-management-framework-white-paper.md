@@ -1,4 +1,4 @@
-﻿---
+---
 title: Implementing Item-Product Data Management Framework (White paper)
 TOCTitle: Implementing Item-Product Data Management Framework
 ms:assetid: b71ad9bc-9f65-4dbc-b818-03bb3ed4a891
@@ -20,5 +20,5 @@ This paper explains the changes to the data model and how a developer should app
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213132).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

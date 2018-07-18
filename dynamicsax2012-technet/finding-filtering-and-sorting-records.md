@@ -1,4 +1,4 @@
-﻿---
+---
 title: Finding, filtering, and sorting records
 TOCTitle: Finding, filtering, and sorting records
 ms:assetid: 4284d9f0-f3a4-4656-bbc7-15e2219b3e67
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - record
 - records
+audience: Application User
+ms.search.region: Global
 ---
 
 # Finding, filtering, and sorting records 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to find the information
 [Sort records](sort-records.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

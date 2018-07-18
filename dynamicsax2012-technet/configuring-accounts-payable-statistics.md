@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring Accounts payable statistics
 TOCTitle: Configuring Accounts payable statistics
 ms:assetid: 85776f03-4ac3-459d-a56c-272a071ca287
@@ -12,6 +12,8 @@ f1_keywords:
 - AP
 - payable
 - statistic
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring Accounts payable statistics 
@@ -24,5 +26,5 @@ The following topics provide information about configuring Accounts payable stat
 [Set up aging period definitions](set-up-aging-period-definitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

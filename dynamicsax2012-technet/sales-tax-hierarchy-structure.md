@@ -1,4 +1,4 @@
-﻿---
+---
 title: " sales tax hierarchy structure"
 TOCTitle: " sales tax hierarchy structure"
 ms:assetid: DynamicsAXGlossary.2026539
@@ -19,5 +19,5 @@ A structure that contains multiple levels of sales tax reporting nodes and that 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

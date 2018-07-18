@@ -1,4 +1,4 @@
-﻿---
+---
 title: About packing slip updates for returns
 TOCTitle: About packing slip updates for returns
 ms:assetid: 2fe7c589-4bbf-41eb-a4d4-dcb1f89d046b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231026(v=AX.60)
 ms:contentKeyID: 36056302
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About packing slip updates for returns 
@@ -32,5 +34,5 @@ In Microsoft Dynamics AX 2012 R2, when you update a packing slip for a returned 
 [Perform invoice updates for returns](perform-invoice-updates-for-returns.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

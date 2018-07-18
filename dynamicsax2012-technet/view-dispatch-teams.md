@@ -1,4 +1,4 @@
-﻿---
+---
 title: View dispatch teams
 TOCTitle: View dispatch teams
 ms:assetid: de1a6f1b-606c-4fb2-9266-0aaa30ba5ad7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243199(v=AX.60)
 ms:contentKeyID: 36059686
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View dispatch teams 
@@ -34,5 +36,5 @@ For information about how to assign a worker to a team, see [Set up a preferred 
 [Dispatch board (form)](https://technet.microsoft.com/en-us/library/hh242789\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

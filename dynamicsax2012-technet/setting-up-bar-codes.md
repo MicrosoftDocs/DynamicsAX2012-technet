@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up bar codes
 TOCTitle: Setting up bar codes
 ms:assetid: 066bc6e9-412d-4a2c-87df-23cb34e04c0d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - bar code
 - bar codes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up bar codes 
@@ -29,5 +31,5 @@ The topics in this section provide information about how to set up bar codes for
 [Create bar codes for products](create-bar-codes-for-products.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

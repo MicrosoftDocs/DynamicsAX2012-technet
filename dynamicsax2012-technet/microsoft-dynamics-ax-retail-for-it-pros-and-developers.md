@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Dynamics AX Retail for IT pros and developers
 TOCTitle: Retail
 ms:assetid: fb782d05-4648-4155-8185-4c587dff6352
@@ -113,5 +113,5 @@ This sections includes the following topics.
 [Mass deploy retail components](mass-deploy-retail-components.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

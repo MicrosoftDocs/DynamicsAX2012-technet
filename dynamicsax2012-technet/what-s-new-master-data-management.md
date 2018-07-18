@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's New: Master data management"
 TOCTitle: Master data management
 ms:assetid: 0f263eba-0631-4ca2-aff9-869d7c8f54c5
@@ -18,5 +18,5 @@ Master Data Management (MDM) is a new feature in Microsoft Dynamics AX 2012 R3 t
 To use MDM, you must also install the Microsoft Dynamics AX 2012 Data Import/Export Framework and SQL Server Master Data Services. For more information on Master Data Management, see [Master Data Management in Microsoft Dynamics AX](master-data-management-in-microsoft-dynamics-ax.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

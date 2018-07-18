@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining products
 TOCTitle: Setting up and maintaining products
 ms:assetid: 28f60dfa-98c6-4d7d-92c0-8dd2e06893a3
@@ -11,6 +11,8 @@ f1_keywords:
 - product maintenance
 - product setup
 - set up products
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining products 
@@ -31,5 +33,5 @@ The topics in this section provide information about the setting up and the main
 [Modify product numbers](modify-product-numbers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

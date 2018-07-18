@@ -1,4 +1,4 @@
-﻿---
+---
 title: History by vendor transaction report (VendLedgerTrans)
 TOCTitle: History by vendor transaction report (VendLedgerTrans)
 ms:assetid: 87f1185e-31bb-4d0f-af66-4365d8c55322
@@ -114,5 +114,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

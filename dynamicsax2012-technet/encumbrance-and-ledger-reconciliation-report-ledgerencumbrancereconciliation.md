@@ -1,4 +1,4 @@
-﻿---
+---
 title: Encumbrance and ledger reconciliation report (LedgerEncumbranceReconciliation)
 TOCTitle: Encumbrance and ledger reconciliation report (LedgerEncumbranceReconciliation)
 ms:assetid: 2a2ba138-ac5d-4911-8fe1-63820970f3f4
@@ -234,5 +234,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Encumber purchase orders](encumber-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

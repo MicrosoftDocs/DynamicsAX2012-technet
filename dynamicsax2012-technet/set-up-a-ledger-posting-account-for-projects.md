@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a ledger posting account for projects
 TOCTitle: Set up a ledger posting account for projects
 ms:assetid: 34f7545b-edcb-4285-bddb-c7c037c126a5
@@ -13,6 +13,8 @@ f1_keywords:
 - ledger posting
 - ledger
 - post project
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a ledger posting account for projects 
@@ -69,5 +71,5 @@ Complete the following procedure to set up a posting account:
 [Set up ledger posting groups for sales tax](set-up-ledger-posting-groups-for-sales-tax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

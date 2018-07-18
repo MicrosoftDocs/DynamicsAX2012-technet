@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install a Retail online store (e-commerce)
 TOCTitle: Install an online store (e-commerce)
 ms:assetid: fc2c4afa-99e3-4333-9c46-e06b80f6aa37
@@ -1144,5 +1144,5 @@ Use the following procedure if you installed with a settings file, but no longer
 [Online Store](online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

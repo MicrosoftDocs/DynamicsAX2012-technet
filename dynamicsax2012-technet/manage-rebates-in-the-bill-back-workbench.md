@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage rebates in the bill back workbench
 TOCTitle: Manage rebates in the bill back workbench
 ms:assetid: 16a4407d-b566-4587-bfc6-3d6cdba13900
@@ -8,6 +8,8 @@ ms.date: 06/10/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.TAMBillBackListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage rebates in the bill back workbench 
@@ -90,5 +92,5 @@ At some point, you will need to remove outdated rebate information from Microsof
 [Set up rebates](set-up-rebates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update the Publishing Job Configuration
 TOCTitle: Update the Publishing Job Configuration
 ms:assetid: 14539c45-0e22-4d10-9940-809e3748affb
@@ -96,5 +96,5 @@ The following code demonstrates how to read, modify, and save the configuration 
 The configuration file that contains the jobSettings section also contains a section called connectionStrings. The connectionStrings section contains a connection string called CommerceRuntimeConnectionString that points to the CRT database. You can use the same procedure of reading, modifying, and saving the configuration to update the connection string.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

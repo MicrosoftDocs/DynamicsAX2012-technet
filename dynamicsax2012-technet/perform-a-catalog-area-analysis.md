@@ -1,4 +1,4 @@
-﻿---
+---
 title: Perform a catalog area analysis
 TOCTitle: Perform a catalog area analysis
 ms:assetid: 64af9179-b487-4f09-8ebe-23c1a859c8c6
@@ -21,6 +21,8 @@ f1_keywords:
 - page area
 - page layout
 - square inch analysis
+audience: Application User
+ms.search.region: Global
 ---
 
 # Perform a catalog area analysis 
@@ -175,5 +177,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

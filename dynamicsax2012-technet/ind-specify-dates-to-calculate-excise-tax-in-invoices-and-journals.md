@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Specify dates to calculate excise tax in invoices and journals
 TOCTitle: (IND) Specify dates to calculate excise tax in invoices and journals
 ms:assetid: 8e46cf53-d4b3-4dd9-b5d7-c6cd639d8a30
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678045(v=AX.60)
 ms:contentKeyID: 49386006
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Specify dates to calculate excise tax in invoices and journals 
@@ -44,5 +46,5 @@ You can specify the date that must be used to calculate excise tax in invoices a
 [(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

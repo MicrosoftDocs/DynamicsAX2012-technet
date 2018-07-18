@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work with pay statements
 TOCTitle: Work with pay statements
 ms:assetid: 1d338991-a441-4556-9538-82f94393a181
@@ -11,6 +11,8 @@ f1_keywords:
 - Classes.PayrollPayStatementGeneration
 - pay statement
 - pay statements
+audience: Application User
+ms.search.region: USA
 ---
 
 # Work with pay statements 
@@ -328,5 +330,5 @@ Back to top
 [Work with existing payroll payments](work-with-existing-payroll-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

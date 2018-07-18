@@ -1,4 +1,4 @@
-﻿---
+---
 title: " valid time state table"
 TOCTitle: " valid time state table"
 ms:assetid: DynamicsAXGlossary.1365375
@@ -19,5 +19,5 @@ A table that tracks the state of an entity over time using a valid-from and a va
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

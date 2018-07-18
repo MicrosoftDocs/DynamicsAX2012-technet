@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prepare to maintain standard costs for manufactured items
 TOCTitle: Prepare to maintain standard costs for manufactured items
 ms:assetid: 157e0b55-5075-4f1c-85a1-e99e4473b1e8
@@ -12,6 +12,8 @@ f1_keywords:
 - costs
 - costing
 - standard cost
+audience: Application User
+ms.search.region: Global
 ---
 
 # Prepare to maintain standard costs for manufactured items 
@@ -62,5 +64,5 @@ The use of routing information for costing purposes will require additional prep
 [About displaying charges for a manufactured item](about-displaying-charges-for-a-manufactured-item.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

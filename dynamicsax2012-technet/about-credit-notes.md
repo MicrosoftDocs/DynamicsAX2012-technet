@@ -1,4 +1,4 @@
-﻿---
+---
 title: About credit notes
 TOCTitle: About credit notes
 ms:assetid: b16addba-6caa-485d-ac39-012d3837d06c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242718(v=AX.60)
 ms:contentKeyID: 36058976
 ms.date: 10/06/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About credit notes 
@@ -58,5 +60,5 @@ The procedure for crediting sales orders is different than the procedure for cre
 [Select for credit note (form)](https://technet.microsoft.com/en-us/library/aa550205\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

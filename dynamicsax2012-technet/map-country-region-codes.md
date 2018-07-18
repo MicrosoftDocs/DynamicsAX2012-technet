@@ -1,4 +1,4 @@
-﻿---
+---
 title: Map country/region codes
 TOCTitle: Map country/region codes
 ms:assetid: 759aa0cb-bdba-4f3f-abf9-f859baa24a5c
@@ -36,5 +36,5 @@ If you are upgrading to Microsoft Dynamics AX 2012 R2 or AX 2012 R3, you must id
 4.  After you map all the country/region codes from the earlier version of Microsoft Dynamics AX to the country/region codes in Microsoft Dynamics AX 2012, click **Set to ready for upgrade**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

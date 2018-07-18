@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Dynamics AX components
 TOCTitle: Microsoft Dynamics AX components
 ms:assetid: edf3904f-2c2d-412a-8afa-47dcdbf2396e
@@ -491,5 +491,5 @@ The Microsoft Dynamics AX 2012 Data Import/Export Framework is an extension tha
 For more information about how to install the Data Import/Export Framework, see [Install the Data import/export framework (DIXF, DMF)](install-the-data-import-export-framework-dixf-dmf.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

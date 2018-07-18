@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Payroll features"
 TOCTitle: Payroll features
 ms:assetid: f7d33a7c-61c3-4313-871c-9756b62f74d1
@@ -618,5 +618,5 @@ For more information, see [Payroll](payroll.md).
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

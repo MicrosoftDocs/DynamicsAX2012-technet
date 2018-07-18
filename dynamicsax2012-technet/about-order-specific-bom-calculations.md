@@ -1,4 +1,4 @@
-﻿---
+---
 title: About order-specific BOM calculations
 TOCTitle: About order-specific BOM calculations
 ms:assetid: 9a87c706-3c3c-4abe-9e76-cbfd48942092
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232253(v=AX.60)
 ms:contentKeyID: 36687936
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About order-specific BOM calculations 
@@ -22,5 +24,5 @@ An order-specific BOM calculation differs from a BOM calculation for a manufactu
 [About BOM calculations](about-bom-calculations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure client performance options
 TOCTitle: Configure client performance options
 ms:assetid: a3fc921c-f132-413c-802a-89e3eea409d8
@@ -76,5 +76,5 @@ You can turn off preloading by using the following methods:
       - Set the **Form.AllowPreLoading** metadata property to **No**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

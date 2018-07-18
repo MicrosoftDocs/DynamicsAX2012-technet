@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up vacations, business trips, and incentives for the payroll process
 TOCTitle: (RUS) Set up vacations, business trips, and incentives for the payroll process
 ms:assetid: 9469075a-52ae-42dc-bfd0-a31388d2fa55
@@ -40,6 +40,8 @@ f1_keywords:
 - MsDynAx060.Forms.RPayVacationParameters
 - MsDynAx060.Forms.RPayBusinessTripParameters
 - MsDynAx060.Forms.RHRMVacationType
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up vacations, business trips, and incentives for the payroll process 
@@ -566,5 +568,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with customer service
 TOCTitle: Working with customer service
 ms:assetid: ad4a4ad5-7661-4856-96d5-830218ea8e5c
@@ -11,6 +11,8 @@ f1_keywords:
 - repair
 - order
 - agreements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with customer service 
@@ -41,5 +43,5 @@ The topics in this section provide an overview of the Customer service business 
 [Deliver service overview](deliver-service-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

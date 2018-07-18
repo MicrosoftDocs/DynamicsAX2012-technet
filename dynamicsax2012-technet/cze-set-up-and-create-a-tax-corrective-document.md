@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Set up and create a tax corrective document
 TOCTitle: (CZE) Set up and create a tax corrective document
 ms:assetid: f4303358-404d-4996-b198-c6559c392b49
@@ -28,6 +28,8 @@ f1_keywords:
 - sales return
 - tax corrective document
 - VAT correction
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Set up and create a tax corrective document 
@@ -428,5 +430,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [(CZE) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj838779\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

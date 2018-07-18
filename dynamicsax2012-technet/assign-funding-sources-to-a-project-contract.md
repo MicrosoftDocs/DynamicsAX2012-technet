@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign funding sources to a project contract
 TOCTitle: Assign funding sources to a project contract
 ms:assetid: 568fecf3-c135-4ba5-a11e-c94130af6c1f
@@ -11,6 +11,8 @@ f1_keywords:
 - funding source
 - project contract
 - funding type
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign funding sources to a project contract 
@@ -61,5 +63,5 @@ After you designate a customer, grant, or internal organization as a funding sou
 [Create a project contract](create-a-project-contract.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

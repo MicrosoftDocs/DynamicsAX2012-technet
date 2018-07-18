@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About transportation invoices and job tickets that are based on bills of lading
 TOCTitle: (RUS) About transportation invoices and job tickets that are based on bills of lading
 ms:assetid: bf499453-f221-4050-a88a-99dcb6d3f2fa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711575(v=AX.60)
 ms:contentKeyID: 49387899
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About transportation invoices and job tickets that are based on bills of lading 
@@ -40,5 +42,5 @@ You must complete the following setup procedures before you can generate and pri
 [(RUS) Print a transportation invoice and a job ticket for a warehouse shipment](rus-print-a-transportation-invoice-and-a-job-ticket-for-a-warehouse-shipment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

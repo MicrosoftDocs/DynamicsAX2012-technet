@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post invoices in the Invoice approval journal form
 TOCTitle: Post invoices in the Invoice approval journal form
 ms:assetid: f79de90e-a2f4-4bf0-be6d-e6733dcd6574
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499801(v=AX.60)
 ms:contentKeyID: 36060037
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post invoices in the Invoice approval journal form 
@@ -58,5 +60,5 @@ The posted invoices can now be settled in the **Payment journal** form. If you c
 [About fixed assets integration](about-fixed-assets-integration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

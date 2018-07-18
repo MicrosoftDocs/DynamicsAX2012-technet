@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up attributes and attribute types (Retail essentials)
 TOCTitle: Set up attributes and attribute types (Retail essentials)
 ms:assetid: 2ca305fa-53ef-4393-8af2-489a4b08a7e9
@@ -70,5 +70,5 @@ When you define attributes, you must first define the attribute type. You can th
 [Bulk edit product attributes by using Excel (Retail essentials)](bulk-edit-product-attributes-by-using-excel-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

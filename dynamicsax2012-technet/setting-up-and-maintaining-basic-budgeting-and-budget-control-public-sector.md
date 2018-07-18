@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining basic budgeting and budget control (Public sector)
 TOCTitle: Setting up and maintaining basic budgeting and budget control (Public sector)
 ms:assetid: 054a0258-59e1-4247-97c6-04a531677b0e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208498(v=AX.60)
 ms:contentKeyID: 36056235
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Setting up and maintaining basic budgeting and budget control (Public sector) 
@@ -20,5 +22,5 @@ The following topics provide information about setting up and maintaining basic 
 [Set up budgeting and budget control for a preliminary budget (Public sector)](set-up-budgeting-and-budget-control-for-a-preliminary-budget-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

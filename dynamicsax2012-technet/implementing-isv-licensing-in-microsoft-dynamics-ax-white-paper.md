@@ -1,4 +1,4 @@
-﻿---
+---
 title: Implementing ISV licensing in Microsoft Dynamics AX (White paper)
 TOCTitle: Implementing ISV licensing in Microsoft Dynamics AX
 ms:assetid: 9268d961-85f8-44ea-8471-d6336e1e1ba2
@@ -18,5 +18,5 @@ Microsoft Dynamics AX 2012 supports the ISV licensing feature, which lets indepe
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=228157).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

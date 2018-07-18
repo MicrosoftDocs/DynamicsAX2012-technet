@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Microsoft Dynamics AX client
 TOCTitle: The Microsoft Dynamics AX client
 ms:assetid: e07eb6a2-41c1-4928-a98c-497073972513
@@ -16,8 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 The topics in this section provide information about how to configure and help secure clients for Microsoft Dynamics AX by using the client configuration tool. To start the tool on Windows Server, click **Start** \> **Administrative Tools** \> **Microsoft Dynamics AX 2012 Configuration**. On Windows client computers, click **Start** \> **Control Panel** \> **Administrative Tools** \> **Microsoft Dynamics AX 2012 Configuration**.
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
 
@@ -30,5 +29,5 @@ The topics in this section provide information about how to configure and help s
 [Client operations](client-operations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

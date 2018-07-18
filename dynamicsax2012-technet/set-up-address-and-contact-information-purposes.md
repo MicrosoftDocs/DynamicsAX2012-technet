@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up address and contact information purposes
 TOCTitle: Set up address and contact information purposes
 ms:assetid: d2cc4e3f-cb49-45e9-9135-2b06c0590067
@@ -137,5 +137,5 @@ Microsoft Dynamics AX includes several predefined purposes. You can also create 
 3.  To add a new purpose, click **New**, and then enter the name of the purpose and a brief description. Then select the **Postal address** or **Contact information** check box to specify whether the purpose is used for address records or contact information records.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generating payroll reports
 TOCTitle: Generating payroll reports
 ms:assetid: 59e9512a-8ec9-4f4f-b2c8-2fde6b57c281
@@ -28,6 +28,8 @@ f1_keywords:
 - custom payroll report
 - custom payroll reports
 - form w-2 reconciliation report
+audience: Application User
+ms.search.region: USA
 ---
 
 # Generating payroll reports 
@@ -427,5 +429,5 @@ For more information about how to create custom reports from the data in a cube,
   - As you work with dimensions, sometimes you see an **IsNotApplicable** dimension attribute. This attribute is added to every dimension because one row always is retained for records that are not applicable. If a measure contains any values that are not in the dimension, the measure is designated as **IsNotApplicable**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

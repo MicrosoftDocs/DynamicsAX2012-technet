@@ -1,4 +1,4 @@
-﻿---
+---
 title: Guest security role (Guest)
 TOCTitle: Guest security role (Guest)
 ms:assetid: 5ecee914-83e2-476f-ad41-ee3e5258aaac
@@ -47,5 +47,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

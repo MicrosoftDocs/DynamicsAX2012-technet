@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Use the "Date to use to calculate discounts" field to control discount calculations for vendor payments'
 TOCTitle: 'Scenario: Use the "Date to use to calculate discounts" field to control discount calculations for vendor payments'
 ms:assetid: 8d2245f5-495c-491b-b70a-602d2fb5cbb1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597164(v=AX.60)
 ms:contentKeyID: 39519221
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Use the \"Date to use to calculate discounts\" field to control discount calculations for vendor payments 
@@ -312,5 +314,5 @@ Discount information is shown at the bottom of the **Settle open transactions** 
 [Scenario: Take a discount that is more than the calculated discount for a vendor payment](scenario-take-a-discount-that-is-more-than-the-calculated-discount-for-a-vendor-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

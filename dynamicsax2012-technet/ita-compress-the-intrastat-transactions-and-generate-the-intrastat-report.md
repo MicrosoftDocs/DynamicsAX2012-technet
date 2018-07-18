@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Compress the Intrastat transactions and generate the Intrastat report
 TOCTitle: (ITA) Compress the Intrastat transactions and generate the Intrastat report
 ms:assetid: e629e4da-db15-4a01-8611-6d2c286a20b5
@@ -10,6 +10,8 @@ f1_keywords:
 - Italy
 - compress
 - Intrastat transactions
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Compress the Intrastat transactions and generate the Intrastat report 
@@ -72,5 +74,5 @@ You can generate the Intrastat report that contains the compressed transactions 
 [(ITA) Make diskette for Intrastat in Italian layout (class form)](https://technet.microsoft.com/en-us/library/aa587754\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Initialize preprocessing
 TOCTitle: Initialize preprocessing
 ms:assetid: 592a6c93-0ce6-4958-890b-c619bb8410d9
@@ -33,5 +33,5 @@ The upgrade framework creates the shadow and dictionary tables that are not crea
 After you finish the **Initialize preprocessing** task, you can connect to the source database from the Microsoft Dynamics AX 2012 target system and begin preparing the target database for upgrade. This allows you to save time by carrying out upgrade tasks concurrently on both systems.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

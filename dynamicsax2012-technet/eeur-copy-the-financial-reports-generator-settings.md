@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Copy the financial reports generator settings
 TOCTitle: (EEUR) Copy the financial reports generator settings
 ms:assetid: e9e3ee49-ab8a-4e23-a746-fd13a92eeffd
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - copy settings
 - report settings
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Copy the financial reports generator settings 
@@ -45,5 +47,5 @@ Use the **Copy report settings into a new report** form to copy the report setti
 [(EEUR) Report (form)](https://technet.microsoft.com/en-us/library/jj911237\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

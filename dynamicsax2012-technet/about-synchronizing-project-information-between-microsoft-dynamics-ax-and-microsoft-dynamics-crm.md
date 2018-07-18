@@ -1,4 +1,4 @@
-﻿---
+---
 title: About synchronizing project information between Microsoft Dynamics AX and Microsoft Dynamics CRM
 TOCTitle: About synchronizing project information between Microsoft Dynamics AX and Microsoft Dynamics CRM
 ms:assetid: 7e809461-8779-490c-87b9-d783ecff3202
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn269117(v=AX.60)
 ms:contentKeyID: 54920069
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About synchronizing project information between Microsoft Dynamics AX and Microsoft Dynamics CRM 
@@ -110,5 +112,5 @@ After your organization has won the project quotation, use the **Transfer to pro
 3.  In Microsoft Dynamics CRM, the salesperson can view information about the new project.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About budget planning configuration and setup
 TOCTitle: About budget planning configuration and setup
 ms:assetid: 55f65750-dffd-4217-bba2-ab452aa2ed7f
@@ -16,6 +16,8 @@ f1_keywords:
 - Budget planning stage rules and scenario constraints
 - budget planning
 - plan budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # About budget planning configuration and setup 
@@ -324,5 +326,5 @@ Back to top
 [Budget planning process (form)](https://technet.microsoft.com/en-us/library/jj677441\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

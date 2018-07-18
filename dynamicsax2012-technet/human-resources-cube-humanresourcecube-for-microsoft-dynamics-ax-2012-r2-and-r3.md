@@ -1,4 +1,4 @@
-﻿---
+---
 title: Human resources cube (HumanResourceCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Human resources cube (HumanResourceCube)
 ms:assetid: 8c46617d-cb6a-4700-ac0b-1e9c170cdad6
@@ -1989,5 +1989,5 @@ The Human resources cube can be accessed by users assigned to the following Micr
   - Training manager
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

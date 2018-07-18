@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up a fiscal organization
 TOCTitle: (BRA) Set up a fiscal organization
 ms:assetid: 31f180fc-09c4-4f1e-b0a3-88ea29185b22
@@ -8,6 +8,8 @@ ms.date: 05/15/2015
 mtps_version: v=AX.60
 f1_keywords:
 - forms.FiscalOrganization_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up a fiscal organization 
@@ -77,5 +79,5 @@ To set up a fiscal organization, follow these steps:
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

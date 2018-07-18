@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Merge Advance authorization (AA) licenses
 TOCTitle: (IND) Merge Advance authorization (AA) licenses
 ms:assetid: 489e95b5-79e5-4db7-b04b-32d5800e462c
@@ -13,6 +13,8 @@ f1_keywords:
 - AA
 - Advanced Authorization
 - merge AA
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Merge Advance authorization (AA) licenses 
@@ -77,5 +79,5 @@ When multiple authorizations are merged, the following actions occur:
 [(IND) Create an import order and apply the AA incentive scheme to the import order](ind-create-an-import-order-and-apply-the-aa-incentive-scheme-to-the-import-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

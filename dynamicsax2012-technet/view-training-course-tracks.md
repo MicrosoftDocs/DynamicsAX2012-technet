@@ -1,4 +1,4 @@
-﻿---
+---
 title: View training course tracks
 TOCTitle: View training course tracks
 ms:assetid: 67079523-67db-4dea-9b44-da7699cec4b3
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - HcmEPCourseTrack
+audience: Application User
+ms.search.region: Global
 ---
 
 # View training course tracks 
@@ -46,5 +48,5 @@ Use the **View tracks** page to view information about the tracks in the trainin
 [View training course sessions](view-training-course-sessions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

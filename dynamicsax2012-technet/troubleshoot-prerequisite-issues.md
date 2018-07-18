@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot prerequisite issues
 TOCTitle: Troubleshoot prerequisite issues
 ms:assetid: e3771aed-bde7-4610-bff2-aa64212a8352
@@ -64,5 +64,5 @@ If multiple instances of SQL Server are installed, the prerequisite check for th
 There is a workaround for this issue. For the instance of SQL Server where you are installing Microsoft Dynamics AX components, make sure that the startup type for the SQL Server Full-text Daemon Launcher service is set to **Automatic**. If the startup type is set correctly, you can ignore the prerequisite warning and continue with the installation.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

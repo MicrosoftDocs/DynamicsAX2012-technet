@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up products for cross-selling and up-selling
 TOCTitle: Set up cross-sell and up-sell
 ms:assetid: 13969b82-785b-4bfe-977f-5fe43751cf1f
@@ -8,6 +8,8 @@ ms.date: 05/07/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.EcoResProductPerCompanyListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up products for cross-selling and up-selling 
@@ -132,5 +134,5 @@ If you don't have access to the pages that are used to complete this task, conta
 Create a sales order in call center
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

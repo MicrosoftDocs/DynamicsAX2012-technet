@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budget planning overview
 TOCTitle: Budget planning overview
 ms:assetid: 1ba682ec-6ab9-4929-9b03-f4eb1c6cec20
@@ -12,6 +12,8 @@ f1_keywords:
 - budget plan
 - budget planning
 - plan budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # Budget planning overview 
@@ -144,5 +146,5 @@ The following table describes the information that you must compile before you c
 [Key tasks: Create and process budget plans](key-tasks-create-and-process-budget-plans.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

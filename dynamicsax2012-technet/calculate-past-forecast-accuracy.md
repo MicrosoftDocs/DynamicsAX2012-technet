@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calculate past forecast accuracy
 TOCTitle: Calculate past forecast accuracy
 ms:assetid: da3a953f-77b2-4f2d-a08f-fc7cc8dcaa89
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.SysOperationTemplateForm
 - demand planning
 - demand forecasting, demand forecast, demand forecasts, forecast accuracy, demand forecast accuracy, historical forecast
+audience: Application User
+ms.search.region: Global
 ---
 
 # Calculate past forecast accuracy 
@@ -160,5 +162,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Business process: demand forecasting](business-process-demand-forecasting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Validate and post trade agreement journal lines
 TOCTitle: Validate and post trade agreement journal lines
 ms:assetid: 396abf77-0fa8-484c-b6e5-446d5a932daf
@@ -10,6 +10,8 @@ f1_keywords:
 - journal
 - agreement
 - trade
+audience: Application User
+ms.search.region: Global
 ---
 
 # Validate and post trade agreement journal lines 
@@ -123,5 +125,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Journal lines, price/discount agreement (form)](https://technet.microsoft.com/en-us/library/aa553463\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

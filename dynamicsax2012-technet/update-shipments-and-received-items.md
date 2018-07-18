@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update shipments and received items
 TOCTitle: Update shipments and received items
 ms:assetid: 6b793682-4c33-4049-a442-2ce6f6df40b3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571185(v=AX.60)
 ms:contentKeyID: 36057991
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update shipments and received items 
@@ -64,5 +66,5 @@ Use the **Transfer orders** form to update shipments and received items. For mor
 [Complete shipments](complete-shipments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

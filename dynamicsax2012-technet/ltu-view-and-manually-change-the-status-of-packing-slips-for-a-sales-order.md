@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) View and manually change the status of packing slips for a sales order
 TOCTitle: (LTU) View and manually change the status of packing slips for a sales order
 ms:assetid: ba70ea08-160c-4bd2-bb5b-30798f38fc15
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665173(v=AX.60)
 ms:contentKeyID: 49386754
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) View and manually change the status of packing slips for a sales order 
@@ -42,5 +44,5 @@ You can change the status of a packing slip indirectly while posting a correctio
 [(LTU) Sales packing slip journal (modified form)](https://technet.microsoft.com/en-us/library/jj665063\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install SQL Server Shared Management Objects
 TOCTitle: Install SQL Server Shared Management Objects
 ms:assetid: 7da728c6-9079-48fd-8dcb-1ce64759a412
@@ -28,5 +28,5 @@ Download the Shared Management Objects for the version of SQL Server that you ar
   - [SQL Server 2012 Feature Pack page](http://www.microsoft.com/en-us/download/details.aspx?id=29065)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

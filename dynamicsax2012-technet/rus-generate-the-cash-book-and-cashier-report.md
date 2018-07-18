@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate the cash book and cashier report
 TOCTitle: (RUS) Generate the cash book and cashier report
 ms:assetid: e3146f22-72d1-44bf-a28a-9541486e8334
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711699(v=AX.60)
 ms:contentKeyID: 49388022
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate the cash book and cashier report 
@@ -42,5 +44,5 @@ After you receive or disburse a cash voucher for reimbursement or disbursement o
 [(RUS) Cash accounts (form)](https://technet.microsoft.com/en-us/library/jj665230\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

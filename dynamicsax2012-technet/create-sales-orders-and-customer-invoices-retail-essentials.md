@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create sales orders and customer invoices (Retail essentials)
 TOCTitle: Create sales orders and customer invoices (Retail essentials)
 ms:assetid: 59ee8135-b77b-4754-bfdd-a3a95d2cd7d9
@@ -67,5 +67,5 @@ To create an invoice for products in a sales order that have been delivered to a
 [Key tasks: Customer invoices](key-tasks-customer-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Help in Microsoft Dynamics AX
 TOCTitle: About Help in Microsoft Dynamics AX
 ms:assetid: 4c40c45d-0292-42c1-872f-3280415d91c1
@@ -11,6 +11,8 @@ f1_keywords:
 - manual
 - guide
 - user assistance
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Help in Microsoft Dynamics AX 
@@ -35,5 +37,5 @@ The topics in this section provide general information about how to find and use
 [Find out which version of Microsoft Dynamics AX you are using](find-out-which-version-of-microsoft-dynamics-ax-you-are-using.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Encumber purchase orders
 TOCTitle: Encumber purchase orders
 ms:assetid: 79668209-8a70-4966-b4f5-eb98548b99eb
@@ -12,6 +12,8 @@ f1_keywords:
 - encumbrances
 - PO
 - purchase order encumbrances
+audience: Application User
+ms.search.region: Global
 ---
 
 # Encumber purchase orders 
@@ -87,5 +89,5 @@ Budget control is often enabled when the encumbrance process is enabled. This is
 [Process purchase orders at year end](process-purchase-orders-at-year-end.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

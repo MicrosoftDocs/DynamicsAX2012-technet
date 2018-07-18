@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Verify the block extension details
 TOCTitle: (IND) Verify the block extension details
 ms:assetid: ec4128d7-6fc8-4429-bdac-df21c64fa992
@@ -11,6 +11,8 @@ f1_keywords:
 - india
 - block extension
 - Verify block extension
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Verify the block extension details 
@@ -37,5 +39,5 @@ Use the **Block extension details** form to view details that pertain to the ext
 [(IND) Verify import information for an EPCG license](ind-verify-import-information-for-an-epcg-license.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

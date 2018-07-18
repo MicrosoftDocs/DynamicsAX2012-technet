@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View posted tax details for an RG23C register
 TOCTitle: (IND) View posted tax details for an RG23C register
 ms:assetid: faf759f5-2f0e-45ff-9243-96c38633244e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710982(v=AX.60)
 ms:contentKeyID: 49386394
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View posted tax details for an RG23C register 
@@ -44,5 +46,5 @@ The tax details for the posted excise transactions and for posted sales order wi
 [(IND) RG23A item details (form)](https://technet.microsoft.com/en-us/library/jj664747\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View workflow performance reports
 TOCTitle: View workflow performance reports
 ms:assetid: 770bbcd9-42e3-45b1-841f-a11ed339e988
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538454(v=AX.60)
 ms:contentKeyID: 39508879
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View workflow performance reports 
@@ -34,5 +36,5 @@ Microsoft Dynamics AX includes reports that can help you track the history and c
       - [Workflow tracking report (WorkflowTrackingReport)](workflow-tracking-report-workflowtrackingreport.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

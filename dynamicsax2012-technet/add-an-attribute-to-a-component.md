@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add an attribute to a component
 TOCTitle: Add an attribute to a component
 ms:assetid: d3f0819a-9c58-464a-a936-a71725552457
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597254(v=AX.60)
 ms:contentKeyID: 39519332
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add an attribute to a component 
@@ -60,5 +62,5 @@ Attributes are the values that you can select for a component when you configure
 [Components (form)](https://technet.microsoft.com/en-us/library/hh227490\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

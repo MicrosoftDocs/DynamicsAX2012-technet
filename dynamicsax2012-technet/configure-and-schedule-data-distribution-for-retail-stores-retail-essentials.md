@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure and schedule data distribution for retail stores (Retail essentials)
 TOCTitle: Configure and schedule data distribution for retail stores (Retail essentials)
 ms:assetid: e1724759-d67a-446a-a693-c5273187e0de
@@ -40,5 +40,5 @@ The following illustration shows the relationships between jobs, channel data gr
 ![How Retail Scheduler works](images/JJ679920.RetailScheduler(en-us,AX.60).gif "How Retail Scheduler works")
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

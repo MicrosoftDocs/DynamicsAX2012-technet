@@ -1,4 +1,4 @@
-﻿---
+---
 title: About physical and financial updates
 TOCTitle: About physical and financial updates
 ms:assetid: c8b100a0-6f4d-4a77-8eb6-44ab9e0dbfe2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213650(v=AX.60)
 ms:contentKeyID: 36059321
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About physical and financial updates 
@@ -86,5 +88,5 @@ Transactions that decrease quantity are posted at the running average cost price
 [Track running average cost per inventory dimension](track-running-average-cost-per-inventory-dimension.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

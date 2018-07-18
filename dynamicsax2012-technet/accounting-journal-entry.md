@@ -1,4 +1,4 @@
-﻿---
+---
 title: " accounting journal entry"
 TOCTitle: " accounting journal entry"
 ms:assetid: DynamicsAXGlossary.1465553
@@ -27,5 +27,5 @@ A record of original entry in an accounting system that records a date, one or m
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

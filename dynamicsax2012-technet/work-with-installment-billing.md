@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work with installment billing
 TOCTitle: Work with installment billing
 ms:assetid: 38775079-c8da-4a98-98e6-057d01e6cef7
@@ -11,6 +11,8 @@ f1_keywords:
 - installment billing
 - installment plan
 - payment schedule
+audience: Application User
+ms.search.region: Global
 ---
 
 # Work with installment billing 
@@ -265,5 +267,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Payment schedules (form)](https://technet.microsoft.com/en-us/library/aa572068\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

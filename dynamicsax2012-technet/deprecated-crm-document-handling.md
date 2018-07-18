@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: CRM document handling'
 TOCTitle: CRM document handling
 ms:assetid: bf090681-c57a-4a11-b5ee-42b52ed73071
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, CRM (customer relationship management) document h
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Client security and protection
 TOCTitle: Client security and protection
 ms:assetid: 60c8d10d-9c97-43c0-b99c-9bda66c8376f
@@ -226,5 +226,5 @@ The following table describes the best practices that apply to all deployments o
 [TechNet Security Center](http://go.microsoft.com/fwlink/?linkid=118293)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

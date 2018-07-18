@@ -1,4 +1,4 @@
-﻿---
+---
 title: Extend Point of Sale
 TOCTitle: Extend Point of Sale
 ms:assetid: 971317d1-61cc-4336-ba94-32cb5d345996
@@ -100,5 +100,5 @@ Retail POS can make real-time calls to Microsoft Dynamics AX 2012 using the Comm
 Retail POS uses real-time service calls to invoke Retail POS functionality, such as **Issue Gift Card** or **Create Customer**. You can create custom, real-time service functionality in Retail Headquarters and call it from Retail POS.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

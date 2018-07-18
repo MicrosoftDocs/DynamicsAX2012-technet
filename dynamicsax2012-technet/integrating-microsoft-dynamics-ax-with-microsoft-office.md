@@ -1,4 +1,4 @@
-﻿---
+---
 title: Integrating Microsoft Dynamics AX with Microsoft Office
 TOCTitle: Integrating Microsoft Dynamics AX with Microsoft Office
 ms:assetid: 6f34c60c-87cc-4f2a-a808-ca4e6b9b2804
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - microsoft dynamics ax
 - microsoft office
+audience: Application User
+ms.search.region: Global
 ---
 
 # Integrating Microsoft Dynamics AX with Microsoft Office 
@@ -27,5 +29,5 @@ The topics in this section describe common tasks that are related to using the O
 [Key tasks: Create and share an Excel template by using the Office Add-ins](key-tasks-create-and-share-an-excel-template-by-using-the-office-add-ins.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

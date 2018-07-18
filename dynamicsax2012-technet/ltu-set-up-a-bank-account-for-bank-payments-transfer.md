@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Set up a bank account for bank payments transfer
 TOCTitle: (LTU) Set up a bank account for bank payments transfer
 ms:assetid: 89478d32-1eae-4153-8d08-2f739cd591e0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665134(v=AX.60)
 ms:contentKeyID: 49386714
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Set up a bank account for bank payments transfer 
@@ -48,5 +50,5 @@ You can set up the company bank account details using the **Bank accounts** form
 [(LTU) Bank accounts (modified form)](https://technet.microsoft.com/en-us/library/jj665064\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

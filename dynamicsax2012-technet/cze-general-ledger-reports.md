@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) General ledger reports
 TOCTitle: (CZE) General ledger reports
 ms:assetid: dbf0f768-0b32-4798-bdec-93d73bfca208
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710622(v=AX.60)
 ms:contentKeyID: 49385018
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) General ledger reports 
@@ -51,5 +53,5 @@ The following table lists the General ledger reports.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

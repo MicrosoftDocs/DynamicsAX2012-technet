@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create an import order and apply the AA incentive scheme to the import order
 TOCTitle: (IND) Create an import order and apply the AA incentive scheme to the import order
 ms:assetid: 3a08c5de-f850-4690-bcb1-c8f611abc00b
@@ -14,6 +14,8 @@ f1_keywords:
 - incentive scheme
 - AA incentive scheme
 - import order
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create an import order and apply the AA incentive scheme to the import order 
@@ -52,5 +54,5 @@ You can use the **Purchase order** form to create an import purchase order. For 
 [(IND) Create import purchase orders](ind-create-import-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

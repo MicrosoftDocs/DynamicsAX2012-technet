@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts payable reports
 TOCTitle: Accounts payable reports
 ms:assetid: a3437a3a-7889-4788-9242-c402ad4019df
@@ -214,5 +214,5 @@ The following reports are available in the **Accounts payable** module of Micros
 [(RUS) Print journal report (LedgerTransPreview\_RU)](rus-print-journal-report-ledgertranspreview-ru.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

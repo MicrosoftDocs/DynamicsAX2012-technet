@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update a quotation
 TOCTitle: Update a quotation
 ms:assetid: dfad19c2-8518-4ae8-be4a-5d69e49ccc9d
@@ -15,6 +15,8 @@ f1_keywords:
 - Cancel quotation
 - lose quotation
 - quote
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update a quotation 
@@ -83,5 +85,5 @@ Any quotation with the status of **Sent** can be canceled.
 5.  Click **OK** to accept the update and change the quotation status to **Canceled**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

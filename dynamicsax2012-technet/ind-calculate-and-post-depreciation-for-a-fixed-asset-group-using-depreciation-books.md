@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate and post depreciation for a fixed asset group using depreciation books
 TOCTitle: (IND) Calculate and post depreciation for a fixed asset group using depreciation books
 ms:assetid: 0cdee331-7c29-473e-8e05-f4e5bdd0207d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664481(v=AX.60)
 ms:contentKeyID: 49385560
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate and post depreciation for a fixed asset group using depreciation books 
@@ -124,5 +126,5 @@ If the positive or negative amount is entered in the **Debit** field of a journa
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

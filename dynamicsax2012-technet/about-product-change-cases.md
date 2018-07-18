@@ -1,4 +1,4 @@
-﻿---
+---
 title: About product change cases
 TOCTitle: About product change cases
 ms:assetid: d49636d7-048f-461d-93db-1399bc298b5e
@@ -17,6 +17,8 @@ f1_keywords:
 - case management
 - product change
 - product change case
+audience: Application User
+ms.search.region: Global
 ---
 
 # About product change cases 
@@ -157,5 +159,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [Create a product change case](create-a-product-change-case.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure the workflow notification options
 TOCTitle: Configure the workflow notification options
 ms:assetid: 320b48c4-2507-4c2d-8b3d-ac55bb2ee375
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202047(v=AX.60)
 ms:contentKeyID: 35949280
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure the workflow notification options 
@@ -34,5 +36,5 @@ Notifications may be sent to you when workflow-related events occur. For example
 6.  To receive notifications as email, select the **Send notifications in email** check box.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

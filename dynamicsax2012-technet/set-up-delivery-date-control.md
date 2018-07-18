@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up delivery date control
 TOCTitle: Set up delivery date control
 ms:assetid: ab9a588b-f524-4544-ab4b-51ada91a0a08
@@ -13,6 +13,8 @@ f1_keywords:
 - delivery dates
 - receiving point
 - set up delivery dates
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up delivery date control 
@@ -58,5 +60,5 @@ This procedure helps you set up delivery date control for sales order delivery d
 [Set up the transport calendar](set-up-the-transport-calendar.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

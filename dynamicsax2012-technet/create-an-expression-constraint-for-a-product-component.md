@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an expression constraint for a product component
 TOCTitle: Create an expression constraint for a product component
 ms:assetid: db0d0243-b5a7-41fc-9e9c-0690d713b29b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - product configurator
 - expression constraint
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an expression constraint for a product component 
@@ -176,5 +178,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Expression constraints and table constraints](expression-constraints-and-table-constraints.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

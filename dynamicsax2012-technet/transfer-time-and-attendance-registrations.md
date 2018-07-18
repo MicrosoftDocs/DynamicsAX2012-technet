@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transfer time and attendance registrations
 TOCTitle: Transfer time and attendance registrations
 ms:assetid: 06eb0bfb-b85b-49bf-8be9-b6f2330faf64
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - reversal
 - transfer
+audience: Application User
+ms.search.region: Global
 ---
 
 # Transfer time and attendance registrations 
@@ -91,5 +93,5 @@ You can reverse transferred registrations for a worker before payroll informatio
 [Approve time and attendance registrations](approve-time-and-attendance-registrations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

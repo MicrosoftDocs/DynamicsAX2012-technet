@@ -1,4 +1,4 @@
-﻿---
+---
 title: Schedule production activities
 TOCTitle: Schedule production activities
 ms:assetid: 15396fb2-ed9c-4901-8551-41b023df3caf
@@ -11,6 +11,8 @@ f1_keywords:
 - activities
 - production
 - manufacturing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Schedule production activities 
@@ -35,5 +37,5 @@ The topics in this section provide information about how to schedule production 
 [Schedule lean manufacturing](schedule-lean-manufacturing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

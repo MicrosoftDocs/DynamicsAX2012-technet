@@ -1,4 +1,4 @@
-﻿---
+---
 title: Best practices white papers
 TOCTitle: Best practices white papers
 ms:assetid: 30f81953-709e-42b5-9b6b-c3e28eaf52e0
@@ -44,5 +44,5 @@ The papers in this section provide information about recommended best practices 
 [Windows Event Tracing in Microsoft Dynamics AX (White paper)](windows-event-tracing-in-microsoft-dynamics-ax-white-paper.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

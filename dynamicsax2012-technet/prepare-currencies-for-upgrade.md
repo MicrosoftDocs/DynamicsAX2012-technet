@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prepare currencies for upgrade
 TOCTitle: Prepare currencies for upgrade
 ms:assetid: 8e1a9fea-938d-4aec-af59-7f116d5a17a5
@@ -46,5 +46,5 @@ If you are upgrading to Microsoft Dynamics AX 2012 R2 or AX 2012 R3, you must id
 9.  Click **Set to ready for upgrade** to select this checklist item as ready for upgrade.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

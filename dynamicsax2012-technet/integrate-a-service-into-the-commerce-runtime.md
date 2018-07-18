@@ -1,4 +1,4 @@
-﻿---
+---
 title: Integrate a Service into the Commerce Runtime
 TOCTitle: Integrate a Service into the Commerce Runtime
 ms:assetid: abd7fca1-a4d8-42bf-8a50-a974e8f2828b
@@ -84,5 +84,5 @@ Services are enumerated as types in the the commerce runtime config file. The co
 [Retail Modern Point of Sale](retail-modern-point-of-sale.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

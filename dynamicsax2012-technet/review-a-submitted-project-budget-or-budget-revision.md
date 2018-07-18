@@ -1,4 +1,4 @@
-﻿---
+---
 title: Review a submitted project budget or budget revision
 TOCTitle: Review a submitted project budget or budget revision
 ms:assetid: 992bf02f-d37d-4564-aa74-abc2939c31b6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - project budget
 - budget revision
+audience: Application User
+ms.search.region: Global
 ---
 
 # Review a submitted project budget or budget revision 
@@ -77,5 +79,5 @@ In Project management and accounting, you must be assigned as an approver to app
 [Revise and submit a project budget](revise-and-submit-a-project-budget.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

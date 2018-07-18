@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up service intervals
 TOCTitle: Set up service intervals
 ms:assetid: 86479fcb-eca3-4436-b979-917fccbd8ed1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571579(v=AX.60)
 ms:contentKeyID: 36058412
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up service intervals 
@@ -50,5 +52,5 @@ You want to create a service interval of 10 days.
 [About service agreements](about-service-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

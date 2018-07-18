@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate service tax for a sales order
 TOCTitle: (IND) Calculate service tax for a sales order
 ms:assetid: 3aba304d-3068-47e5-8e3a-9b565e547df2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.SalesTable
 - Forms.TaxTmpWorkTrans
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate service tax for a sales order 
@@ -53,5 +55,5 @@ Use the **Sales order** form to create and post a sales order for which service 
 [(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

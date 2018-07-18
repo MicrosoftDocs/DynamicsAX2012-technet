@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up final user sales tax calculation
 TOCTitle: (BRA) Set up final user sales tax calculation
 ms:assetid: 45780bd5-cb52-4d4b-b433-58d6a8e29a8a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710484(v=AX.60)
 ms:contentKeyID: 49384375
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up final user sales tax calculation 
@@ -54,5 +56,5 @@ Suppose that the sale price is R$200, ICMS tax is 5 percent, IPI is 10 percent, 
 [(BRA) Sales quotation (modified form)](https://technet.microsoft.com/en-us/library/jj923173\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

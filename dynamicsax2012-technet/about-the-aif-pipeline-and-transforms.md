@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the AIF Pipeline and Transforms
 TOCTitle: About the AIF Pipeline and Transforms
 ms:assetid: 6be5dc9c-154d-487f-8037-0a2b1c55ff6e
@@ -102,5 +102,5 @@ For more information about the XSLT elements, including the [xsl:output element]
 [Importing Updated .NET Assembly Transforms](importing-updated-net-assembly-transforms.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

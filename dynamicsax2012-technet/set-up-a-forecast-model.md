@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a forecast model
 TOCTitle: Set up a forecast model
 ms:assetid: b3aed959-6ce8-4f5a-b781-e4e6697d95d4
@@ -11,6 +11,8 @@ f1_keywords:
 - aggregate forecast
 - create forecast model
 - create forecast submodel
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a forecast model 
@@ -57,5 +59,5 @@ To set up a forecast model structure where the top-level forecast model, named T
 [Forecast models (form)](https://technet.microsoft.com/en-us/library/aa620573\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

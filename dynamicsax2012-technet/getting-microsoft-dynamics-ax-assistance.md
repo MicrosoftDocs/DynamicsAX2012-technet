@@ -1,4 +1,4 @@
-﻿---
+---
 title: Getting Microsoft Dynamics AX assistance
 TOCTitle: Getting Microsoft Dynamics AX assistance
 ms:assetid: 7adf5dc4-d6e2-40d0-b6c9-513d1b959337
@@ -65,5 +65,5 @@ The following table lists Microsoft websites that provide additional online reso
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

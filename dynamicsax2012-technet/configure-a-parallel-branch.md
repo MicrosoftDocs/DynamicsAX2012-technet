@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure a parallel branch
 TOCTitle: Configure a parallel branch
 ms:assetid: 92f32ded-7b00-4bec-ba37-da0f3b76ef8a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731871(v=AX.60)
 ms:contentKeyID: 35132766
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure a parallel branch 
@@ -48,5 +50,5 @@ A parallel branch is essentially a workflow that runs in the context of a parent
 [Configure workflow elements](configure-workflow-elements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

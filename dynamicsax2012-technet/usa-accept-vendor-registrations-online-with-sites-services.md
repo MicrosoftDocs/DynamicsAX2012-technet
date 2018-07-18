@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Accept vendor registrations online with Sites Services
 TOCTitle: (USA) Accept vendor registrations online with Sites Services
 ms:assetid: 2e6229d0-c72d-4baf-a22f-070bd667ec1b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208529(v=AX.60)
 ms:contentKeyID: 36056277
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Accept vendor registrations online with Sites Services 
@@ -86,5 +88,5 @@ After you publish the vendor registration web site, you can periodically view an
 [(USA) Set up and maintain a Sites Services account](usa-set-up-and-maintain-a-sites-services-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

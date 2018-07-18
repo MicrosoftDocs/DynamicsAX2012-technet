@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage organization information for workers overview
 TOCTitle: Manage organization information for workers overview
 ms:assetid: a40b53fd-4520-439b-b436-5ce2258af627
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213407(v=AX.60)
 ms:contentKeyID: 44431619
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage organization information for workers overview 
@@ -133,5 +135,5 @@ The following table lists the forms that support the manage organization busines
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

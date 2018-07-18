@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Specify a service category for promissory notes
 TOCTitle: (IND) Specify a service category for promissory notes
 ms:assetid: db234d26-9558-445a-84b9-9b8c769fa296
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.LedgerJournalTransVendPromissoryNote
 - Forms.LedgerJournalTable
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Specify a service category for promissory notes 
@@ -53,5 +55,5 @@ Use this procedure to specify the service category for promissory notes.
 [Draw vendor payments through promissory notes](draw-vendor-payments-through-promissory-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

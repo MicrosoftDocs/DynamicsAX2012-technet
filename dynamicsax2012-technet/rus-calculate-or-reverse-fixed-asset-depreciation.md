@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate or reverse fixed asset depreciation
 TOCTitle: (RUS) Calculate or reverse fixed asset depreciation
 ms:assetid: e8a7f904-27d8-4973-92f7-6d4d5f03e9b3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711730(v=AX.60)
 ms:contentKeyID: 49388053
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate or reverse fixed asset depreciation 
@@ -84,5 +86,5 @@ Use the following procedures to calculate or reverse a fixed asset depreciation.
 11. Click **Post** \> **Post** to post the journal. The fixed asset depreciation transaction is reversed and the ledger transaction is updated accordingly.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

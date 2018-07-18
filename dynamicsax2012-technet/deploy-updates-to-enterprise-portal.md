@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy updates to Enterprise Portal
 TOCTitle: Deploy updates to Enterprise Portal
 ms:assetid: d64915fb-0fe3-46c0-8ee9-15ee5368b62e
@@ -50,5 +50,5 @@ You must complete this procedure from a computer that is running a Microsoft Dyn
 6.  When you are asked whether you want to overwrite a time period, click **No to all**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

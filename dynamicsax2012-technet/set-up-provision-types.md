@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up provision types
 TOCTitle: Set up provision types
 ms:assetid: 942dba37-0831-4f41-bdbf-55f46c8b9ff2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498395(v=AX.60)
 ms:contentKeyID: 36058593
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up provision types 
@@ -260,5 +262,5 @@ Use the **Fixed assets provision types** form to enter the legal requirements in
 [About fixed asset reserves](about-fixed-asset-reserves.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

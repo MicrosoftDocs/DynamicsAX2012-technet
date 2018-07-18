@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fiscal books integration with Microsoft Dynamics AX 2009
 TOCTitle: Fiscal books integration with Microsoft Dynamics AX 2009
 ms:assetid: 6a8ab8f5-1759-4078-92a8-6de2e1563cd9
@@ -22,5 +22,5 @@ This white paper describes how to configure and use the Fiscal books integration
 [(BRA) Fiscal books](bra-fiscal-books.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

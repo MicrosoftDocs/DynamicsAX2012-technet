@@ -1,4 +1,4 @@
-﻿---
+---
 title: About payment calendars
 TOCTitle: About payment calendars
 ms:assetid: b295a699-94fd-452a-b7f4-b709d35c6bff
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677355(v=AX.60)
 ms:contentKeyID: 49384130
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About payment calendars 
@@ -60,5 +62,5 @@ You can also assign payment calendars to interest codes. If you define a payment
 [Payment calendar configuration - vendors and customers (form)](https://technet.microsoft.com/en-us/library/jj677400\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

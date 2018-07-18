@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and update a facture for a corrected free text invoice
 TOCTitle: (RUS) Create and update a facture for a corrected free text invoice
 ms:assetid: e3f84a24-f897-4e48-a8f0-3551ffcf17da
@@ -11,6 +11,8 @@ f1_keywords:
 - Russia
 - corrected invoice
 - Update facture
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and update a facture for a corrected free text invoice 
@@ -103,5 +105,5 @@ Use this procedure to create and update a facture for a corrected free text invo
 [(RUS) Create and update facture for a corrected sales order invoice or sales credit note](rus-create-and-update-facture-for-a-corrected-sales-order-invoice-or-sales-credit-note.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

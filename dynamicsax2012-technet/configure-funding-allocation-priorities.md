@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure funding allocation priorities
 TOCTitle: Configure funding allocation priorities
 ms:assetid: 0e80d919-6f09-4ad9-a294-84a1f205169b
@@ -11,6 +11,8 @@ f1_keywords:
 - funding allocation order
 - funding allocation priority
 - lock allocation settings
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure funding allocation priorities 
@@ -53,5 +55,5 @@ For information about setting up funding rules for a project contract, including
 [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Performance Monitor counters
 TOCTitle: Set up Performance Monitor counters
 ms:assetid: 909bc83a-c26b-4fc9-ae44-38a9cb20db3e
@@ -394,5 +394,5 @@ The following table lists the counters that are typically monitored for SQL Serv
 12. On the **Schedule** tab, set the start and stop schedule for the alert scan.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Generate an account matrix report
 TOCTitle: (CHN) Generate an account matrix report
 ms:assetid: 0b3a44d3-02b5-4921-bfdb-26b6ed13eaf8
@@ -12,6 +12,8 @@ f1_keywords:
 - matrix
 - (CHN)
 - China
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Generate an account matrix report 
@@ -94,5 +96,5 @@ You can generate the matrix report with dimension details to view the transactio
 [(CHN) Matrix account report (form)](https://technet.microsoft.com/en-us/library/jj664131\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

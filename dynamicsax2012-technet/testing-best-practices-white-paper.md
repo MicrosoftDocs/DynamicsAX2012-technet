@@ -1,4 +1,4 @@
-﻿---
+---
 title: Testing best practices (White paper)
 TOCTitle: Testing best practices
 ms:assetid: 36a45353-06a9-434f-8202-bdf25854fcac
@@ -18,5 +18,5 @@ This paper outlines testing best practices that are provided by the Microsoft Dy
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=229385)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

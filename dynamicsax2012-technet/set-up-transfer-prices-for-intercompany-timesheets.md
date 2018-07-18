@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up transfer prices for intercompany timesheets
 TOCTitle: Set up transfer prices for intercompany timesheets
 ms:assetid: 68954b6b-2f28-47b2-bd33-0dcbae8ed6c9
@@ -11,6 +11,8 @@ f1_keywords:
 - intercompany timesheets
 - transfer price
 - loaned worker
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up transfer prices for intercompany timesheets 
@@ -33,5 +35,5 @@ For information about how to use the **Transfer price - hour** form, see [Transf
 [About cost prices, sales prices, and transfer prices in projects](about-cost-prices-sales-prices-and-transfer-prices-in-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

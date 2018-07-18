@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan for performance optimization and testing
 TOCTitle: Plan for performance optimization and testing
 ms:assetid: 23349355-77a5-4790-80e6-ccaf54cf3bf4
@@ -106,5 +106,5 @@ Good performance requires good and continuous monitoring. If you find problemati
 [Plan for data](plan-for-data.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

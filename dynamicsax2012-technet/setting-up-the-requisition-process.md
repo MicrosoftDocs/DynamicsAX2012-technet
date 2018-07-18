@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up the requisition process
 TOCTitle: Setting up the requisition process
 ms:assetid: 7b51b2f5-e443-4299-8275-496d130d91b7
@@ -11,6 +11,8 @@ f1_keywords:
 - purchase requisitions
 - requisitions
 - requisition process
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up the requisition process 
@@ -35,5 +37,5 @@ The topics in this section provide information about how to set up the purchase 
 [Set up master plans to include requisitions](set-up-master-plans-to-include-requisitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Edit document templates
 TOCTitle: Edit document templates
 ms:assetid: 6c6248f7-a8e8-4b3e-b5dc-fbc181e2bbb4
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EditDocumentTemplates
+audience: Application User
+ms.search.region: Global
 ---
 
 # Edit document templates 
@@ -56,5 +58,5 @@ A document template defines the properties and workflow steps for documents, the
 [Manage internal controls](manage-internal-controls.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

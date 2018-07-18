@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Human resources features"
 TOCTitle: Human resources features
 ms:assetid: 8977e864-f121-4031-9a75-a9af53fbe074
@@ -349,5 +349,5 @@ We have changed and added functionality in the [Human resources](human-resources
 New functionality has been added to Dynamics AX 2012 R2 and R3 to assist employers who need to track information that will be reported on form 1095-C under the Affordable Care Act (ACA) starting in 2016. Note this new functionality is only enabled for US Legal Entities. For more information about how Microsoft Dynamics AX supports these new reporting requirements, see <https://community.dynamics.com/ax/b/axhcmnewslearningshighlights/archive/2015/05/28/affordable-care-act-support-for-reporting-requirements>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

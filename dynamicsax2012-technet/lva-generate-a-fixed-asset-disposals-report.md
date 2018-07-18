@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Generate a fixed asset disposals report
 TOCTitle: (LVA) Generate a fixed asset disposals report
 ms:assetid: 28d4d6c5-3225-4d10-ba5e-07d72c98d47d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853406(v=AX.60)
 ms:contentKeyID: 50396776
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Generate a fixed asset disposals report 
@@ -64,5 +66,5 @@ The fixed asset disposals report is an itemization of fixed assets that have bee
 [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

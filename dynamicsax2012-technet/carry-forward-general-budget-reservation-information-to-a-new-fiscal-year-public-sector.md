@@ -1,4 +1,4 @@
-﻿---
+---
 title: Carry forward general budget reservation information to a new fiscal year (Public sector)
 TOCTitle: Carry forward general budget reservation information to a new fiscal year (Public sector)
 ms:assetid: 571e4b1e-3063-445c-843d-49e0047328a0
@@ -15,6 +15,8 @@ f1_keywords:
 - budget reservations
 - general budget reservation
 - general budget reservations
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Carry forward general budget reservation information to a new fiscal year (Public sector) 
@@ -63,5 +65,5 @@ If you have enabled budget control, you can reduce carry-forward budget for any 
 [About general budget reservations (Public sector)](about-general-budget-reservations-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

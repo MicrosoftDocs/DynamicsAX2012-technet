@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Process items received as rentals, free samples, demonstrations, or repairs
 TOCTitle: (BRA) Process items received as rentals, free samples, demonstrations, or repairs
 ms:assetid: 31803499-55d1-4d66-b241-5505e98125ea
@@ -14,6 +14,8 @@ f1_keywords:
 - free sample
 - process goods
 - rental
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Process items received as rentals, free samples, demonstrations, or repairs 
@@ -63,5 +65,5 @@ In some circumstances, taxes may not be involved when you receive items as renta
 [(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

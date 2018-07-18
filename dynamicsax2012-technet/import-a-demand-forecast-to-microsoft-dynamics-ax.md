@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import a demand forecast to Microsoft Dynamics AX
 TOCTitle: Import a demand forecast to Microsoft Dynamics AX
 ms:assetid: f8dd92bc-41ec-414d-bf41-ae505f71f0cc
@@ -11,6 +11,8 @@ f1_keywords:
 - MsDynAx060.Forms.ReqDemPlanImportForecastDialog
 - demand planning
 - demand forecasting, demand forecast, demand forecasts, sales forecast, sales forecasts, baseline forecast, historical forecast, adjusted forecast
+audience: Application User
+ms.search.region: Global
 ---
 
 # Import a demand forecast to Microsoft Dynamics AX 
@@ -135,5 +137,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Business process: demand forecasting](business-process-demand-forecasting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

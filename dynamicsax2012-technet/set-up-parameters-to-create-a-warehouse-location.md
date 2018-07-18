@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up parameters to create a warehouse location
 TOCTitle: Set up parameters to create a warehouse location
 ms:assetid: 2f7d39ba-6e15-4d3f-a181-23d0e8f559ad
@@ -19,6 +19,8 @@ f1_keywords:
 - dock management profile
 - location formats
 - location type
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up parameters to create a warehouse location 
@@ -331,5 +333,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

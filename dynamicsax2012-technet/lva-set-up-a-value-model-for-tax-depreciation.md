@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Set up a value model for tax depreciation
 TOCTitle: (LVA) Set up a value model for tax depreciation
 ms:assetid: 2b8694d9-403f-42f2-8910-72a0e453b780
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - value model
 - tax depreciation for Latvia
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Set up a value model for tax depreciation 
@@ -49,5 +51,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(LVA) Assign tax categories to fixed assets](lva-assign-tax-categories-to-fixed-assets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

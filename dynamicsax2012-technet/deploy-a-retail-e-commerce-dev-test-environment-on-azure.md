@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy a Retail e-commerce dev/test environment on Azure
 TOCTitle: Deploy a Retail e-commerce dev/test environment
 ms:assetid: 6e246773-82e0-4d49-a7ee-cdf0c6a83bf2
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 This content has been moved [here](https://go.microsoft.com/fwlink/?linkid=858575).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

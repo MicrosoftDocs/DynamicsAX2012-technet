@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Register a package and verify package quantity for a sales order
 TOCTitle: (POL) Register a package and verify package quantity for a sales order
 ms:assetid: a3394526-79c3-4788-9ad6-f7623b52dfcd
@@ -10,6 +10,8 @@ f1_keywords:
 - package
 - register
 - Poland
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Register a package and verify package quantity for a sales order 
@@ -74,5 +76,5 @@ You can register packages for sales orders and sales order lines. You can then p
 [(POL) Packing units (modified form)](https://technet.microsoft.com/en-us/library/jj681858\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

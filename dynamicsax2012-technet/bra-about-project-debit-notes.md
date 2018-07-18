@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About project debit notes
 TOCTitle: (BRA) About project debit notes
 ms:assetid: ac518118-9c26-424a-b278-dfd4cd11c00f
@@ -10,6 +10,8 @@ f1_keywords:
 - project debit note
 - debit note
 - BR - 00025
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About project debit notes 
@@ -28,5 +30,5 @@ You can cancel a debit note only when the period that the debit note is posted i
 [(BRA) Set up a line property](bra-set-up-a-line-property.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

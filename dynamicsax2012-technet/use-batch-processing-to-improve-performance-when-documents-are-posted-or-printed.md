@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use batch processing to improve performance when documents are posted or printed
 TOCTitle: Use batch processing to improve performance when documents are posted or printed
 ms:assetid: a0c773eb-6ca2-4005-b958-e04b0b483c20
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933494(v=AX.60)
 ms:contentKeyID: 50935108
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Use batch processing to improve performance when documents are posted or printed 
@@ -18,5 +20,5 @@ To improve performance when you post source documents or print statements that i
 Many tasks in Microsoft Dynamics AX can be run as part of batch jobs. For more information, see [Batch processing overview](batch-processing-overview.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

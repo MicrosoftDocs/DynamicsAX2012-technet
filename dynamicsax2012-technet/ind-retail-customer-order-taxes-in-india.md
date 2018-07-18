@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Retail customer order taxes in India
 TOCTitle: (IND) Retail customer order taxes in India
 ms:assetid: fb74332b-3cbc-424f-bc76-78209900f2cb
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.SalesTable
 - IN - 00015
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Retail customer order taxes in India 
@@ -33,5 +35,5 @@ You can perform the following tasks to calculate taxes on customer orders in Ret
   - Calculate the service tax on the cancellation charges that apply when you cancel a customer order.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

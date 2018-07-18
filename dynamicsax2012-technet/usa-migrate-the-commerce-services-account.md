@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Migrate the Commerce Services account
 TOCTitle: (USA) Migrate the Commerce Services account
 ms:assetid: 88105522-af80-419f-b76c-8856dfbdb25f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh696878(v=AX.60)
 ms:contentKeyID: 42517330
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Migrate the Commerce Services account 
@@ -46,5 +48,5 @@ For information about the other steps, see “Related topics” at the end of th
 [(USA) Migrate the Commerce Services data](usa-migrate-the-commerce-services-data.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

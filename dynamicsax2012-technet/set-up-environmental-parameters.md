@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up environmental parameters
 TOCTitle: Set up environmental parameters
 ms:assetid: 3a2dae82-e6ac-4ac9-9f2f-d62b24349592
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242212(v=AX.60)
 ms:contentKeyID: 36056637
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up environmental parameters 
@@ -30,5 +32,5 @@ In the **Parameters** form, you determine the point at which the environmental i
 [Set up substance categories](set-up-substance-categories.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

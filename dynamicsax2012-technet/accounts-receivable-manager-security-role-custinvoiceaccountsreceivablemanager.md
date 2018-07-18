@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts receivable manager security role (CustInvoiceAccountsReceivableManager)
 TOCTitle: Accounts receivable manager security role (CustInvoiceAccountsReceivableManager)
 ms:assetid: 76627691-99ac-4403-ae1b-65a38c38cc48
@@ -559,5 +559,5 @@ By default, this security role is assigned the following privileges in Microsoft
 By default, no privileges are directly assigned to this security role in Microsoft Dynamics AX 2012 R2 or Microsoft Dynamics AX 2012 R3.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

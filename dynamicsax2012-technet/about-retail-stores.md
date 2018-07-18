@@ -1,4 +1,4 @@
-﻿---
+---
 title: About retail stores
 TOCTitle: About retail stores
 ms:assetid: 0e9db194-7de8-44aa-aaad-82d6bb03bf50
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580567(v=AX.60)
 ms:contentKeyID: 39519045
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About retail stores 
@@ -239,5 +241,5 @@ For more information about how to set up an organization hierarchy, see [Create 
 [About organizations and organizational hierarchies](about-organizations-and-organizational-hierarchies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

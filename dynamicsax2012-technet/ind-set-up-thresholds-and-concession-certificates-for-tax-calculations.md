@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up thresholds and concession certificates for tax calculations
 TOCTitle: (IND) Set up thresholds and concession certificates for tax calculations
 ms:assetid: 36b6d073-903e-41fc-90fd-5a0882bf72b5
@@ -30,6 +30,8 @@ f1_keywords:
 - MsDynAx060.Forms.ThresholdReference_IN
 - MsDynAx060.Forms.ThresholdDesigner_IN
 - MsDynAx060.Forms.TaxWithholdTable
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up thresholds and concession certificates for tax calculations 
@@ -395,5 +397,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

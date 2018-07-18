@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring ledger posting for projects
 TOCTitle: Configuring ledger posting for projects
 ms:assetid: d36929fb-4b54-4862-8605-ee64d83dd196
@@ -8,6 +8,8 @@ ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
 - ledger posting
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring ledger posting for projects 
@@ -28,5 +30,5 @@ The following topics provide information about when and where to post all transa
 [Configuring work in process (WIP) accounts](configuring-work-in-process-wip-accounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

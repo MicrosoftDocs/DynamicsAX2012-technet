@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up accessorial charges for a shipping carrier
 TOCTitle: Set up accessorial charges for a shipping carrier
 ms:assetid: 7252004c-5ce2-4e10-a366-1f6c30326dd8
@@ -11,6 +11,8 @@ f1_keywords:
 - accessorial charges
 - Carrier accessorial charges
 - fuel charges
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up accessorial charges for a shipping carrier 
@@ -125,5 +127,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Set up carrier fuel indexes](set-up-carrier-fuel-indexes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

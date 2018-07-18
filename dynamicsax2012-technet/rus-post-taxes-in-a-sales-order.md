@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post taxes in a sales order
 TOCTitle: (RUS) Post taxes in a sales order
 ms:assetid: 5ca7f69f-a180-46cb-af4d-e7f77f035afc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665422(v=AX.60)
 ms:contentKeyID: 49387510
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post taxes in a sales order 
@@ -70,5 +72,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(RUS) Set up item sales tax groups for tax calculation](rus-set-up-item-sales-tax-groups-for-tax-calculation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

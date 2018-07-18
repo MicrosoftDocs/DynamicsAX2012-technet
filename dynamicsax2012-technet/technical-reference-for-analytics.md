@@ -1,4 +1,4 @@
-﻿---
+---
 title: Technical reference for analytics
 TOCTitle: Technical reference
 ms:assetid: dda9cc57-d7f4-4a7b-857a-4df2d69d46d7
@@ -18,5 +18,5 @@ The following topics describe the default cubes that are included with Microsoft
 [Cube and KPI reference for Microsoft Dynamics AX](cube-and-kpi-reference-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

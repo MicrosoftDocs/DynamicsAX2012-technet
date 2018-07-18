@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up transportation parameters
 TOCTitle: Set up transportation parameters
 ms:assetid: 528afd63-fbe2-4076-8b80-22b6aef65520
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553163(v=AX.60)
 ms:contentKeyID: 62524895
 ms.date: 06/08/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up transportation parameters 
@@ -218,5 +220,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Generate a freight invoice and perform freight reconciliation](generate-a-freight-invoice-and-perform-freight-reconciliation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up working time calendars
 TOCTitle: Setting up working time calendars
 ms:assetid: 0e373431-51cf-40ab-ba56-dbf8e673f5dc
@@ -14,6 +14,8 @@ f1_keywords:
 - work week
 - working time calendars
 - working times
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up working time calendars 
@@ -28,5 +30,5 @@ The topics in this section provide information about how to create working time 
 [Create working time calendars](create-working-time-calendars.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

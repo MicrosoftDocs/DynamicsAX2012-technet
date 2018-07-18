@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Procurement and sourcing
 TOCTitle: Setting up and maintaining Procurement and sourcing
 ms:assetid: 22f9cf1b-2833-456b-af0d-6526e1c6ff13
@@ -10,6 +10,8 @@ f1_keywords:
 - procurement
 - sourcing
 - purchasing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Procurement and sourcing 
@@ -309,5 +311,5 @@ The following table lists the forms that support setting up and maintaining Proc
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

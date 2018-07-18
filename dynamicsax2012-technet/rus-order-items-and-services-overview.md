@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Order items and services overview
 TOCTitle: (RUS) Order items and services overview
 ms:assetid: d677e9ed-843b-44bd-ba9a-80b5a4498a5a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - Order items and services overview
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Order items and services overview 
@@ -21,5 +23,5 @@ The following topic provides information about ordering items and services.
 [(RUS) Create and maintain purchase orders](rus-create-and-maintain-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

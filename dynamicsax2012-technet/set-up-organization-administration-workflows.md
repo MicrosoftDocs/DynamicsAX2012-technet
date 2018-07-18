@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Organization administration workflows
 TOCTitle: Set up Organization administration workflows
 ms:assetid: d3eecb10-1cc8-46cb-aad7-6a91a519f399
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242927(v=AX.60)
 ms:contentKeyID: 36059517
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up Organization administration workflows 
@@ -111,5 +113,5 @@ You can assign an approval step to the following groups of participants.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up billing codes (Public sector)
 TOCTitle: Set up billing codes (Public sector)
 ms:assetid: 3db65013-1f98-4653-b222-6fdc19f71b63
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - billing code setup
 - setup billing code
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Set up billing codes (Public sector) 
@@ -116,5 +118,5 @@ You can create multiple versions of a billing code if a small amount of billing 
 [Set up billing code custom fields (Public sector)](set-up-billing-code-custom-fields-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

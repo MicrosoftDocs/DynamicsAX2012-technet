@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Calculate withholding tax for the purchase of services
 TOCTitle: (BRA) Calculate withholding tax for the purchase of services
 ms:assetid: a54b72ad-618c-4411-bbb5-59598fe9e77a
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - BR - 00034
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Calculate withholding tax for the purchase of services 
@@ -88,5 +90,5 @@ Use the following procedures to calculate the withholding tax transactions when 
 [(BRA) Reverse a check or Bordero payment](bra-reverse-a-check-or-bordero-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

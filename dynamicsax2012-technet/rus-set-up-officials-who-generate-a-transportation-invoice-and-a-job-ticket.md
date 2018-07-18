@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up officials who generate a transportation invoice and a job ticket
 TOCTitle: (RUS) Set up officials who generate a transportation invoice and a job ticket
 ms:assetid: 7a26496d-2d00-4266-ba86-0ff1639c0ec7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678380(v=AX.60)
 ms:contentKeyID: 49387610
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up officials who generate a transportation invoice and a job ticket 
@@ -57,5 +59,5 @@ You must set up records for the officials who are responsible for transportation
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

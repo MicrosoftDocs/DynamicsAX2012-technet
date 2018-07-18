@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a service journal
 TOCTitle: Create a service journal
 ms:assetid: cddff115-3f8d-42ff-8973-ada0ade11728
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572688(v=AX.60)
 ms:contentKeyID: 37008249
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a service journal 
@@ -44,5 +46,5 @@ The service journal is used to create and post service transactions. Before you 
 [Service transactions (form)](https://technet.microsoft.com/en-us/library/aa589675\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

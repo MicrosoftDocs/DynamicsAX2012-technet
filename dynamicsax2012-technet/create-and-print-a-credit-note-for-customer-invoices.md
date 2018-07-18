@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and print a credit note for customer invoices
 TOCTitle: Create and print a credit note for customer invoices
 ms:assetid: 110d56b9-c3b7-45e5-af5f-4132259b3511
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn818480(v=AX.60)
 ms:contentKeyID: 63172365
 ms.date: 10/15/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and print a credit note for customer invoices 
@@ -296,5 +298,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

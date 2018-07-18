@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Discussions'
 TOCTitle: 'Key tasks: Discussions'
 ms:assetid: c410613b-4a1f-4989-b98e-0006a32fdbfb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ966246(v=AX.60)
 ms:contentKeyID: 51439431
 ms.date: 09/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Discussions 
@@ -102,5 +104,5 @@ Back to top
 [Mass create discussions (form)](https://technet.microsoft.com/en-us/library/hh242807\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

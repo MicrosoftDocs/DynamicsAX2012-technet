@@ -1,4 +1,4 @@
-﻿---
+---
 title: About configuring parameters
 TOCTitle: About configuring parameters
 ms:assetid: 98b20826-9bcb-473c-9d4f-a5cb09c73402
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597182(v=AX.60)
 ms:contentKeyID: 39519247
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About configuring parameters 
@@ -21,5 +23,5 @@ You must set parameters for Retail. Depending on the needs of your organization,
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

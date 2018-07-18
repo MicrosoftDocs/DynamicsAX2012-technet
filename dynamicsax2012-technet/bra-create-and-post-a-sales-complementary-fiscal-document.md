@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post a sales complementary fiscal document
 TOCTitle: (BRA) Create and post a sales complementary fiscal document
 ms:assetid: 555f5e54-127c-49d9-b1dc-46ef6c956ece
@@ -13,6 +13,8 @@ f1_keywords:
 - complementary invoices
 - Create complementary invoices
 - sales complementary invoices
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post a sales complementary fiscal document 
@@ -73,5 +75,5 @@ Use the following procedure to create and post a sales complementary fiscal docu
 [(BRA) All sales complementary fiscal documents (list page)](https://technet.microsoft.com/en-us/library/jj710595\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

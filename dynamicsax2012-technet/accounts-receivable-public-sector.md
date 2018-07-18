@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts receivable (Public sector)
 TOCTitle: Accounts receivable (Public sector)
 ms:assetid: 07463534-18bf-4f7f-9aaa-d8025c690bab
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - accounts receivable public sector
 - public sector accounts receivable
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Accounts receivable (Public sector) 
@@ -23,5 +25,5 @@ The topics in this section provide information about Accounts receivable for pub
 [Working with Accounts receivable (Public sector)](working-with-accounts-receivable-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

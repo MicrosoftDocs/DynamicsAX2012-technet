@@ -1,4 +1,4 @@
-﻿---
+---
 title: " turnover threshold"
 TOCTitle: " turnover threshold"
 ms:assetid: DynamicsAXGlossary.2014271
@@ -19,5 +19,5 @@ The maximum limit of a cumulative transaction value, up to which a tax on the tr
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

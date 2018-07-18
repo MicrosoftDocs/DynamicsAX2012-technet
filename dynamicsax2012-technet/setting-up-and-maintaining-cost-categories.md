@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining cost categories
 TOCTitle: Setting up and maintaining cost categories
 ms:assetid: 988031b5-c53d-439d-9cd9-6604ea855eb7
@@ -14,6 +14,8 @@ f1_keywords:
 - cost accounting
 - cost management
 - cost category
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining cost categories 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to set up and maintain 
 [Create cost categories (CA)](create-cost-categories-ca.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

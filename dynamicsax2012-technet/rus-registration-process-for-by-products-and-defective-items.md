@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Registration process for by-products and defective items
 TOCTitle: (RUS) Registration process for by-products and defective items
 ms:assetid: 38c9fd8f-7817-41c5-8713-7235e6bdd7fe
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665289(v=AX.60)
 ms:contentKeyID: 49387378
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Registration process for by-products and defective items 
@@ -34,5 +36,5 @@ The by-product journal allows a negative quantity for the defective or returned 
 The costs of by-products and defective products are calculated when the cost of the production order is calculated. For more information, see [(RUS) Calculate the cost of WIP and finished goods](rus-calculate-the-cost-of-wip-and-finished-goods.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

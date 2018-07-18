@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and validate journals and journal lines
 TOCTitle: Create and validate journals and journal lines
 ms:assetid: f251e5ca-2419-4a39-bc42-cb11a2d87da5
@@ -13,6 +13,8 @@ f1_keywords:
 - journal lines
 - journal voucher
 - general journals
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and validate journals and journal lines 
@@ -75,5 +77,5 @@ Use journal forms to create and validate journals and journal lines. You can the
 [Create a project beginning balance](create-a-project-beginning-balance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

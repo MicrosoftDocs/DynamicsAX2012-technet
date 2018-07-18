@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an RCOAD code for a vendor
 TOCTitle: (RUS) Set up an RCOAD code for a vendor
 ms:assetid: 2d548693-6736-498b-9cfd-d01ab467897c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665238(v=AX.60)
 ms:contentKeyID: 49387327
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an RCOAD code for a vendor 
@@ -36,5 +38,5 @@ Use the **Vendors** form to set up a Russian Classification of Objects of Admini
 [(RUS) Tax registration types (modified form)](https://technet.microsoft.com/en-us/library/jj678400\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

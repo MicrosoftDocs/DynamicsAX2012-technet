@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Generate Report 340
 TOCTitle: (ESP) Generate Report 340
 ms:assetid: 3690afc3-6ab8-49c5-b1a1-fa8f9db1c41e
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.TaxReportTable
 - ES - 00002
 - MsDynAx060.Forms.TaxReportTable
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Generate Report 340 
@@ -161,5 +163,5 @@ To verify the VAT report lines and generate Report 340, follow these steps:
 9.  Click **OK** to generate Report 340 as an ASCII file.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

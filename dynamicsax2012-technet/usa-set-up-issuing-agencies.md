@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Set up issuing agencies
 TOCTitle: (USA) Set up issuing agencies
 ms:assetid: df1dccb6-6444-43e1-9e90-05acab901feb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781105(v=AX.60)
 ms:contentKeyID: 43894522
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Set up issuing agencies 
@@ -36,5 +38,5 @@ Issuing agencies are government entities that are authorized to issue documents 
 [I-9 document (form)](https://technet.microsoft.com/en-us/library/hh227380\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

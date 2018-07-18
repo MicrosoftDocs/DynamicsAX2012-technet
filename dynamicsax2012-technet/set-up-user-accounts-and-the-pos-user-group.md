@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up user accounts and the POS user group
 TOCTitle: Set up user accounts and the POS user group
 ms:assetid: a129368a-5cf6-4f07-a041-92f45962030d
@@ -52,5 +52,5 @@ For more information about how to create local Windows user accounts, see [Creat
 Before a worker can perform job duties in a retail store, you must set up the worker in Microsoft Dynamics AX. You must also assign the worker appropriate privileges, so that the worker can log on and perform tasks by using the Retail POS system. For more information, see [Setting up staff](setting-up-staff.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

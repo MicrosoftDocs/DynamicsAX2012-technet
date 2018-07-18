@@ -1,4 +1,4 @@
-﻿---
+---
 title: About creating a budget from transaction accounts and total accounts
 TOCTitle: About creating a budget from transaction accounts and total accounts
 ms:assetid: 4e893d3b-7226-4c78-9912-63fc9310ac69
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497123(v=AX.60)
 ms:contentKeyID: 39519134
 ms.date: 11/20/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About creating a budget from transaction accounts and total accounts 
@@ -50,5 +52,5 @@ You can also create a budget from either transaction accounts or total accounts.
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

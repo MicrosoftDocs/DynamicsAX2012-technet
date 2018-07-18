@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure system accounts
 TOCTitle: Configure system accounts
 ms:assetid: 56e3522e-38a8-41ba-b95e-3ad3c7d53178
@@ -60,5 +60,5 @@ You can find the Bing Maps account name and password on [CustomerSource](https:/
 By selecting the check box and entering the information, you agree to be bound by the Microsoft Bing Maps and MapPoint Web Service [End User Terms of Use](http://go.microsoft.com/fwlink/?linkid=21969).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

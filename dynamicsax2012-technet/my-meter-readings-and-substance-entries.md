@@ -1,4 +1,4 @@
-﻿---
+---
 title: My meter readings and substance entries
 TOCTitle: My meter readings and substance entries
 ms:assetid: 682b8edb-2f48-4b6f-9d24-161957d33116
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EMSMeterReadingEntry
 - EMSSubstanceEntry
+audience: Application User
+ms.search.region: Global
 ---
 
 # My meter readings and substance entries 
@@ -39,5 +41,5 @@ Use the **My meter readings** page to enter new meter readings or to view previo
 3.  Select the check boxes for the meter reading entries that you want to save, and then click **Save settings**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

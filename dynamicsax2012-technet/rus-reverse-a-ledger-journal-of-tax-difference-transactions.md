@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Reverse a ledger journal of tax difference transactions
 TOCTitle: (RUS) Reverse a ledger journal of tax difference transactions
 ms:assetid: c280bfc2-d447-4e61-a2bd-f5d85f408f22
@@ -11,6 +11,8 @@ f1_keywords:
 - tax difference
 - reverse a journal
 - reverse a ledger journal
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Reverse a ledger journal of tax difference transactions 
@@ -39,5 +41,5 @@ Use the **Journals** form to reverse a ledger journal of tax difference transact
 [(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

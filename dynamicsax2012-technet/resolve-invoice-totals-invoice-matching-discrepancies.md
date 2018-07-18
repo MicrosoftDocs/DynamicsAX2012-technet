@@ -1,4 +1,4 @@
-﻿---
+---
 title: Resolve invoice totals invoice matching discrepancies
 TOCTitle: Resolve invoice totals invoice matching discrepancies
 ms:assetid: 812b85c2-b2b9-462f-a16a-5bb699ab840f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh292599(v=AX.60)
 ms:contentKeyID: 36655936
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Resolve invoice totals invoice matching discrepancies 
@@ -72,5 +74,5 @@ After you have identified the discrepancy, you might have to contact the vendor 
 [Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create a schedule based on a project in AX 2012 R3 or AX 2012 R2 CU7'
 TOCTitle: 'Key tasks: Create a schedule based on a project in AX 2012 R3 or AX 2012 R2 CU7'
 ms:assetid: e55b39f0-f7ed-423b-beb2-0694660f556b
@@ -13,6 +13,8 @@ f1_keywords:
 - Menu_Items.Display.ProjResources
 - project tasks
 - project worker
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create a schedule based on a project in AX 2012 R3 or AX 2012 R2 CU7 
@@ -255,5 +257,5 @@ Back to top
 [View booking details (form)](https://technet.microsoft.com/en-us/library/dn532267\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

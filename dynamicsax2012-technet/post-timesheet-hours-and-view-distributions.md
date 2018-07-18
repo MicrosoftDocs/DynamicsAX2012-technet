@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post timesheet hours and view distributions
 TOCTitle: Post timesheet hours and view distributions
 ms:assetid: 5bd42802-2ff2-4b8b-b162-74ecafceaa97
@@ -10,6 +10,8 @@ f1_keywords:
 - post timesheets
 - timesheet distributions
 - unposted timesheets
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post timesheet hours and view distributions 
@@ -36,5 +38,5 @@ Use the **Unposted timesheets** list page to preview the distributions for a tim
 [Unposted timesheets (list page)](https://technet.microsoft.com/en-us/library/hh597166\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

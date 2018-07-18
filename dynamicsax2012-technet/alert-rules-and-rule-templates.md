@@ -1,4 +1,4 @@
-﻿---
+---
 title: Alert rules and rule templates
 TOCTitle: Alert rules and rule templates
 ms:assetid: 534b3b7c-d26e-440a-84ef-0b5038c186b1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834359(v=AX.60)
 ms:contentKeyID: 46687544
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Alert rules and rule templates 
@@ -39,5 +41,5 @@ The following topics provide information about alert rules and alert rule templa
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

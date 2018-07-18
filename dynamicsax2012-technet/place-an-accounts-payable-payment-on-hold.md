@@ -1,4 +1,4 @@
-﻿---
+---
 title: Place an Accounts payable payment on hold
 TOCTitle: Place an Accounts payable payment on hold
 ms:assetid: 19d282bb-4276-4e77-926d-3a6fc446b36a
@@ -14,6 +14,8 @@ f1_keywords:
 - accounts payable
 - hold
 - release date
+audience: Application User
+ms.search.region: Global
 ---
 
 # Place an Accounts payable payment on hold 
@@ -54,5 +56,5 @@ You can put Accounts payable payments on hold until a specified date, or indefin
 [Key tasks: Vendor invoices](key-tasks-vendor-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

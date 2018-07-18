@@ -1,4 +1,4 @@
-﻿---
+---
 title: About requests for quotation
 TOCTitle: About requests for quotation
 ms:assetid: 773eee02-844c-4421-b265-b3b91a8ff33e
@@ -26,6 +26,8 @@ f1_keywords:
 - invitation to bid
 - invitation for bids
 - ITBs
+audience: Application User
+ms.search.region: Global
 ---
 
 # About requests for quotation 
@@ -102,5 +104,5 @@ For more information, see the following topics:
 When supplies are calculated in a master plan, the calculations can include RFQ lines that have inventory transactions with a status of **Quotation receipt**. If no inventory transactions exist for an RFQ line, the RFQ line is not considered a supply.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CAN, USA) Set up a bank parameter to reuse check numbers
 TOCTitle: (CAN, USA) Set up a bank parameter to reuse check numbers
 ms:assetid: 1ab0e327-2f40-44fc-8a1f-e778dda159a5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230972(v=AX.60)
 ms:contentKeyID: 36056126
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Canada
 ---
 
 # (CAN, USA) Set up a bank parameter to reuse check numbers 
@@ -28,5 +30,5 @@ You can set up bank parameters to reuse check numbers. For example, if a check i
 [Cash and bank management parameters (form)](https://technet.microsoft.com/en-us/library/aa591289\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

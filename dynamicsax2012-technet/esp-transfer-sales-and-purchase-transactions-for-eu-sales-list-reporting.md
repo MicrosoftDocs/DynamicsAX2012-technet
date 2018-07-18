@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Transfer sales and purchase transactions for EU sales list reporting
 TOCTitle: (ESP) Transfer sales and purchase transactions for EU sales list reporting
 ms:assetid: a5859c8c-6cc8-43c2-9200-f08bad1c766b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Spain
 - EU sales list
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Transfer sales and purchase transactions for EU sales list reporting 
@@ -171,5 +173,5 @@ You can export the EU sales list in an ASCII file.
 [EU sales list (form)](https://technet.microsoft.com/en-us/library/aa596355\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

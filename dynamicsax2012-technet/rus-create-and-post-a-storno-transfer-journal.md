@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a storno transfer journal
 TOCTitle: (RUS) Create and post a storno transfer journal
 ms:assetid: 76775a97-fb14-41d6-a470-4229559b74c4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678369(v=AX.60)
 ms:contentKeyID: 49387599
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a storno transfer journal 
@@ -68,5 +70,5 @@ You can use storno to reverse a journal transaction that is posted incorrectly.
 [(RUS) Inventory transactions (modified form)](https://technet.microsoft.com/en-us/library/jj733410\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

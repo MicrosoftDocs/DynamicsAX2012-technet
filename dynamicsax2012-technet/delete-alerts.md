@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete alerts
 TOCTitle: Delete alerts
 ms:assetid: 1df1dd48-58c6-4771-8cad-2c39221a63ed
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496775(v=AX.60)
 ms:contentKeyID: 46687531
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete alerts 
@@ -38,5 +40,5 @@ Additionally, you can delete alert rules. When you delete an alert rule, you are
 [Manage alert rules](manage-alert-rules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

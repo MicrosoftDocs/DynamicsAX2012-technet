@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add or remove multiple parties in an address book
 TOCTitle: Add or remove multiple parties in an address book
 ms:assetid: 982586d0-81da-4a09-8c31-04730ef925b4
@@ -13,6 +13,8 @@ f1_keywords:
 - dynamics ax address book
 - remove from address book
 - remove record from address book
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add or remove multiple parties in an address book 
@@ -51,5 +53,5 @@ Use the following procedures to add or remove multiple party records in an addre
 [Global address book overview](global-address-book-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

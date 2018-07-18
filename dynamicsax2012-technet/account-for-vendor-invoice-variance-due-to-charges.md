@@ -1,4 +1,4 @@
-﻿---
+---
 title: Account for vendor invoice variance due to charges
 TOCTitle: Account for vendor invoice variance due to charges
 ms:assetid: dc6d1f4a-14bb-4077-bcc5-102411f7069f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243192(v=AX.60)
 ms:contentKeyID: 36655949
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Account for vendor invoice variance due to charges 
@@ -112,5 +114,5 @@ For example, assume that a charge for freight was expected to be 20.00 and was a
 [Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

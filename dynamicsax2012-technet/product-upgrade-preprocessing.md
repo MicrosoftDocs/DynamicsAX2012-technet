@@ -1,4 +1,4 @@
-﻿---
+---
 title: Product upgrade (preprocessing)
 TOCTitle: Product upgrade (preprocessing)
 ms:assetid: 7e2e587a-bb29-4197-8ca8-fb22f6381d03
@@ -252,5 +252,5 @@ Use the **Product preview** form to view products, and to perform tasks on all p
 [Inventory dimension group upgrade](inventory-dimension-group-upgrade.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

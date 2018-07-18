@@ -1,4 +1,4 @@
-﻿---
+---
 title: '(IND) Key tasks: Tax information for legal entities'
 TOCTitle: '(IND) Key tasks: Tax information for legal entities'
 ms:assetid: b89741a5-f117-442c-8c5a-21038822e9f5
@@ -12,6 +12,8 @@ f1_keywords:
 - Forms.LedgerParameters
 - Forms.LogisticsPostalAddress
 - Forms.TaxInfoManagementIN
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Key tasks: Tax information for legal entities 
@@ -230,5 +232,5 @@ Back to top
 [(IND) Set up tax registration numbers](ind-set-up-tax-registration-numbers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

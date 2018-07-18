@@ -1,4 +1,4 @@
-﻿---
+---
 title: Product Builder Route nodes upgrade
 TOCTitle: Product Builder Route nodes upgrade
 ms:assetid: 075b3510-a835-4609-82e7-2c4155470865
@@ -44,5 +44,5 @@ If you are upgrading to Microsoft Dynamics AX 2012 R2 or AX 2012 R3, you must id
 [Product Builder - Route Operation nodes with variable allocations to resource fields (form)](https://technet.microsoft.com/en-us/library/hh202130\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

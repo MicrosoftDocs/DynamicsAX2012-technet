@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up phonetic names for vendors, employees, customers, contact persons, and business relations
 TOCTitle: (JPN) Set up phonetic names for vendors, employees, customers, contact persons, and business relations
 ms:assetid: 62e52eab-c0f8-42c0-8463-648f34f03093
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - JP - 00010
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up phonetic names for vendors, employees, customers, contact persons, and business relations 
@@ -80,5 +82,5 @@ Use the following procedures to set up phonetic names, or Kana names, for vendor
 [Competitors (form)](https://technet.microsoft.com/en-us/library/hh597346\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

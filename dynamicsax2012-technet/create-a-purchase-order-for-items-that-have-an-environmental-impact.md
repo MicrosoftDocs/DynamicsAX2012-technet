@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a purchase order for items that have an environmental impact
 TOCTitle: Create a purchase order for items that have an environmental impact
 ms:assetid: 9db17996-8dc9-4a39-8149-05c3c277db58
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433546(v=AX.60)
 ms:contentKeyID: 36941351
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a purchase order for items that have an environmental impact 
@@ -40,5 +42,5 @@ This topic describes the information that must be entered on the **Environment**
 [Set up substance categories](set-up-substance-categories.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

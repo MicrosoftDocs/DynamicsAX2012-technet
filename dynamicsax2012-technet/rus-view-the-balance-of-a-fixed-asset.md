@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) View the balance of a fixed asset
 TOCTitle: (RUS) View the balance of a fixed asset
 ms:assetid: 28fc24bf-17cf-4670-add9-a33226766b65
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665221(v=AX.60)
 ms:contentKeyID: 49387311
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) View the balance of a fixed asset 
@@ -32,5 +34,5 @@ You can view the fixed asset balance for a specific date.
 5.  Click the **Graphics** tab to view a graphical presentation of the asset's characteristics, such as types of cost, scrap or leaving sales, and profit or loss.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Settle a postdated check from a customer
 TOCTitle: Settle a postdated check from a customer
 ms:assetid: 4909425f-9585-435e-94e2-a67012a25159
@@ -10,6 +10,8 @@ f1_keywords:
 - postdated
 - checks
 - postdated checks
+audience: Application User
+ms.search.region: Global
 ---
 
 # Settle a postdated check from a customer 
@@ -32,5 +34,5 @@ Use the **Customer postdated checks** form to settle postdated checks received f
 [Customer postdated checks (form)](https://technet.microsoft.com/en-us/library/hh227493\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

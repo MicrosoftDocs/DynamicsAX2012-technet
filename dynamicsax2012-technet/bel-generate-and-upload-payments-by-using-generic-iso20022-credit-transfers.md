@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Generate and upload payments by using Generic ISO20022 credit transfers
 TOCTitle: (BEL) Generate and upload payments by using Generic ISO20022 credit transfers
 ms:assetid: c01357bc-32c3-436e-97c7-367a88e8ed56
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500669(v=AX.60)
 ms:contentKeyID: 37822158
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Generate and upload payments by using Generic ISO20022 credit transfers 
@@ -92,5 +94,5 @@ Single Euro Payment Area (SEPA) is an initiative that provides a common electron
 [(BEL) Generate customer payment files and upload them using CIS](bel-generate-customer-payment-files-and-upload-them-using-cis.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

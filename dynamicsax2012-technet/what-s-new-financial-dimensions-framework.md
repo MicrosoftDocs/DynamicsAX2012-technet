@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Financial dimensions framework"
 TOCTitle: Financial dimensions framework
 ms:assetid: 9fe71c7a-f872-41dd-bd98-93ea26946c51
@@ -298,5 +298,5 @@ Financial dimensions have changed considerably since AX 2009. The dimensions fra
 For more information about financial dimensions, see the white paper [Implementing the Account and Financial Dimensions Framework for Microsoft Dynamics AX 2012 Applications](http://go.microsoft.com/fwlink/?linkid=213133%26clcid=0x409).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

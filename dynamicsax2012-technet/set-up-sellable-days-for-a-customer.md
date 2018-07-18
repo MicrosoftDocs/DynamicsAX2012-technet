@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up sellable days for a customer
 TOCTitle: Set up sellable days for a customer
 ms:assetid: 3d520b80-d319-44ab-a1d1-c94d0c4deb5c
@@ -11,6 +11,8 @@ f1_keywords:
 - sellable days
 - sellable period
 - set up sellable days
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up sellable days for a customer 
@@ -45,5 +47,5 @@ Use this procedure to set up the number of days that a customer defines as the s
 [Sellable days by customer (form)](https://technet.microsoft.com/en-us/library/hh328638\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

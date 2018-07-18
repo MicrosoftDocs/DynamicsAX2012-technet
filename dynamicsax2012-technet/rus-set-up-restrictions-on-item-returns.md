@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up restrictions on item returns
 TOCTitle: (RUS) Set up restrictions on item returns
 ms:assetid: 129de8fa-74d3-4287-8085-48df3ce6ad07
@@ -11,6 +11,8 @@ f1_keywords:
 - Forms.RetailPosPermissionGroup
 - nonreturnable items
 - product hierarchy
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up restrictions on item returns 
@@ -121,5 +123,5 @@ The following table shows the prerequisites that must be in place before you sta
 [POS position permissions (form)](https://technet.microsoft.com/en-us/library/hh597327\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

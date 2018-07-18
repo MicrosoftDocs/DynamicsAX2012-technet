@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (RUS) Balance turnover statements'
 TOCTitle: (RUS) Balance turnover statements
 ms:assetid: 80495bfd-3420-4e1c-bc00-2fae4bbbc4aa
@@ -69,5 +69,5 @@ Microsoft Dynamics AX 2009 provides several Russian balance turnover statements.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

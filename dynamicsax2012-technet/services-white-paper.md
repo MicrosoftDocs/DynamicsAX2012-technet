@@ -1,4 +1,4 @@
-﻿---
+---
 title: Services (White paper)
 TOCTitle: Services
 ms:assetid: dbc25907-b64d-4938-973a-a3bc626dde63
@@ -18,5 +18,5 @@ This paper provides an overview of the various types of services available in Mi
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213141).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

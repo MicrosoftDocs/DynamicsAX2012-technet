@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update the batch disposition status for an inventory batch
 TOCTitle: Update the batch disposition status for an inventory batch
 ms:assetid: 7aaa78f3-c2c6-4541-931e-715bcba8eece
@@ -12,6 +12,8 @@ f1_keywords:
 - inventory batch status
 - update disposition status for an inventory batch
 - update inventory batch status
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update the batch disposition status for an inventory batch 
@@ -36,5 +38,5 @@ Use this procedure to update the disposition status for one or multiple inventor
 [Update batch disposition status (form)](https://technet.microsoft.com/en-us/library/hh242875\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

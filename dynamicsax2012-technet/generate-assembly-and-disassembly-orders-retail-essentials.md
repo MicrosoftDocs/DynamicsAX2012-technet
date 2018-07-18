@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate assembly and disassembly orders (Retail essentials)
 TOCTitle: Generate assembly and disassembly orders (Retail essentials)
 ms:assetid: 253b0348-9fbf-4a6e-9ded-f8b1896d151b
@@ -152,5 +152,5 @@ For more information about how to complete the sales order form, see [Sales orde
 [Retail product kits (Retail essentials)](retail-product-kits-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

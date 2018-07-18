@@ -1,4 +1,4 @@
-﻿---
+---
 title: View the status of service orders
 TOCTitle: View the status of service orders
 ms:assetid: d9179472-ee32-46df-ba96-5e36ca2a83c2
@@ -11,6 +11,8 @@ f1_keywords:
 - order
 - important
 - urgent
+audience: Application User
+ms.search.region: Global
 ---
 
 # View the status of service orders 
@@ -41,5 +43,5 @@ In order to help you quickly gauge the urgency of a service order, the Gantt cha
 [Dispatch board (form)](https://technet.microsoft.com/en-us/library/hh242789\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

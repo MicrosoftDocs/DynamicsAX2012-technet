@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Setting up fixed asset disposal
 TOCTitle: (POL) Setting up fixed asset disposal
 ms:assetid: ac02a300-5f49-4357-b96d-e558f7160478
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730412(v=AX.60)
 ms:contentKeyID: 49636331
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Setting up fixed asset disposal 
@@ -74,5 +76,5 @@ The following path describes how to open the template: Click **Fixed assets** \>
 [(POL) Disposal parameters (modified form)](https://technet.microsoft.com/en-us/library/jj730407\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

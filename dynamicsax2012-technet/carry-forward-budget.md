@@ -1,4 +1,4 @@
-﻿---
+---
 title: " carry-forward budget"
 TOCTitle: " carry-forward budget"
 ms:assetid: DynamicsAXGlossary.1370413
@@ -25,5 +25,5 @@ The budget that is transferred from one fiscal year to the next and that is rese
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

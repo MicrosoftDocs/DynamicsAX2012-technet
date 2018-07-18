@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete a template or subtemplate in RapidStart Services
 TOCTitle: Delete a template or subtemplate in RapidStart Services
 ms:assetid: 05de83ff-aef3-47ae-b8ef-d253f992d527
@@ -46,5 +46,5 @@ If you no longer need a particular template or subtemplate for your configuratio
 [Unpublish a template in RapidStart Services](unpublish-a-template-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Service management site
 TOCTitle: Using the Service management site
 ms:assetid: 7a8c4714-6434-43b7-8913-d774a90004b4
@@ -12,6 +12,8 @@ f1_keywords:
 - orders
 - agreements
 - epserviceorderlist
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using the Service management site 
@@ -38,5 +40,5 @@ This section contains the following topics:
 [View service subscriptions](view-service-subscriptions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

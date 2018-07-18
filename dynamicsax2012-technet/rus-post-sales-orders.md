@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post sales orders
 TOCTitle: (RUS) Post sales orders
 ms:assetid: ce04bbf1-a63d-4ab9-97a9-9c2e9fb3e116
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711618(v=AX.60)
 ms:contentKeyID: 49387942
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post sales orders 
@@ -28,5 +30,5 @@ The following topics provide information about posting sales orders.
 [(RUS) Post a price or discount agreement journal for a customer or vendor](rus-post-a-price-or-discount-agreement-journal-for-a-customer-or-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

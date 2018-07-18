@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reserve inventory quantities
 TOCTitle: Reserve inventory quantities
 ms:assetid: 715c0737-fcab-43dc-b5fd-549105d708a8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549962(v=AX.60)
 ms:contentKeyID: 36058067
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reserve inventory quantities 
@@ -42,5 +44,5 @@ If a larger quantity is reserved than what the on-hand inventory contains, a war
 [Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

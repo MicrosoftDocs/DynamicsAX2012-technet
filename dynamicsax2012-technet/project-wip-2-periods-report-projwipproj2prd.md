@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project WIP (2 periods) report (ProjWIPProj2Prd)
 TOCTitle: Project WIP (2 periods) report (ProjWIPProj2Prd)
 ms:assetid: 826c63c3-62e5-46d2-a5c5-b053ef6a5856
@@ -188,5 +188,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

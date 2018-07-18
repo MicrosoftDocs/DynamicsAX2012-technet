@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage compensation
 TOCTitle: Manage compensation
 ms:assetid: e829c9a4-e171-4188-9074-92a50e6a0999
@@ -13,6 +13,8 @@ f1_keywords:
 - wage
 - salaries
 - compensation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage compensation 
@@ -29,5 +31,5 @@ Topics in this section provide information about the tools in Human resources th
 [Key tasks: Pay for performance](key-tasks-pay-for-performance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

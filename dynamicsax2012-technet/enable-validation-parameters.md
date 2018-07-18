@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enable validation parameters
 TOCTitle: Enable validation parameters
 ms:assetid: ef66623d-1e13-4e0a-bfb5-d4fba8bed126
@@ -10,6 +10,8 @@ f1_keywords:
 - project
 - worker
 - validation parameters
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enable validation parameters 
@@ -76,5 +78,5 @@ Select one of the following options:
 [Define validation connections](define-validation-connections.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

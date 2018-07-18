@@ -1,4 +1,4 @@
-﻿---
+---
 title: Warehouse worker security role (WMSWarehouseWorker)
 TOCTitle: Warehouse worker security role (WMSWarehouseWorker)
 ms:assetid: 23fdff2b-e57e-45d2-96da-5736c484d467
@@ -255,5 +255,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

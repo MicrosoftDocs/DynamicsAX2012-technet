@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Create a Chinese financial report
 TOCTitle: (CHN) Create a Chinese financial report
 ms:assetid: ff8479f3-5325-4221-a1c6-b95add56d1f6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664150(v=AX.60)
 ms:contentKeyID: 49384733
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Create a Chinese financial report 
@@ -58,5 +60,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 10. Click the **Setup** tab and select the date interval code that must be used to generate the financial report. For more information, see [Date intervals (form)](https://technet.microsoft.com/en-us/library/aa558459\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

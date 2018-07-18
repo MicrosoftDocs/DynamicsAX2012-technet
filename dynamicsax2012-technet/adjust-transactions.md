@@ -1,4 +1,4 @@
-﻿---
+---
 title: Adjust transactions
 TOCTitle: Adjust transactions
 ms:assetid: 1aa36eb3-725d-4ede-8fef-4a881ef2f049
@@ -11,6 +11,8 @@ f1_keywords:
 - adjustment history
 - adjustment transaction
 - transaction adjustment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Adjust transactions 
@@ -87,5 +89,5 @@ First, split the transaction into two adjustment lines, one for 15 hours and the
 [View transaction adjustment history](view-transaction-adjustment-history.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Cancel a sales complementary fiscal document
 TOCTitle: (BRA) Cancel a sales complementary fiscal document
 ms:assetid: 5fa173b2-e5ca-4509-bd8e-557181f8e7e4
@@ -16,6 +16,8 @@ f1_keywords:
 - Forms.SalesComplementaryInvoiceListPage
 - BR-00044
 - MsDynAx060.Forms.SalesComplementaryInvoiceListPage
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Cancel a sales complementary fiscal document 
@@ -72,5 +74,5 @@ You can cancel an incorrect sales complementary fiscal document and provide a re
 [(BRA) Sales complementary fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710523\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

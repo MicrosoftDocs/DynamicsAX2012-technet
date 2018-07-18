@@ -1,4 +1,4 @@
-﻿---
+---
 title: Design custom content for Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Design custom content for Microsoft Dynamics ERP RapidStart Services
 ms:assetid: a24f027a-05a2-4224-a7e2-6c4cb0271d30
@@ -30,5 +30,5 @@ The topics in this section provide information about how to extend the scope of 
 [Create question groups and questions in Microsoft Dynamics ERP RapidStart Services](create-question-groups-and-questions-in-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

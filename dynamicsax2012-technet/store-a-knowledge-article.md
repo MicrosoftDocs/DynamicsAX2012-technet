@@ -1,4 +1,4 @@
-﻿---
+---
 title: Store a knowledge article
 TOCTitle: Store a knowledge article
 ms:assetid: 1e4803d8-6278-47f2-8518-2caa7d15df49
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208461(v=AX.60)
 ms:contentKeyID: 36056145
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Store a knowledge article 
@@ -58,5 +60,5 @@ The **Knowledge article** form is a common repository of information that your w
 6.  In the **Document** field, enter or locate the path for the file that you want to create.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up date-controlled reservations
 TOCTitle: Set up date-controlled reservations
 ms:assetid: cb00af6e-d132-4c81-933d-b569a9b95168
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572665(v=AX.60)
 ms:contentKeyID: 36059338
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up date-controlled reservations 
@@ -30,5 +32,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [Item model groups (form)](https://technet.microsoft.com/en-us/library/aa577092\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

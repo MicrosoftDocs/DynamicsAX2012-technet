@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up retail attribute groups (Retail essentials)
 TOCTitle: Set up retail attribute groups (Retail essentials)
 ms:assetid: 05921c5f-60e0-479a-8298-805302a4010a
@@ -38,5 +38,5 @@ You must define attributes before you can add them to an attribute group. For in
 [Set up attributes and attribute types (Retail essentials)](set-up-attributes-and-attribute-types-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

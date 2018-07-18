@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a bank account for a customer account
 TOCTitle: Set up a bank account for a customer account
 ms:assetid: 95cdec0a-db76-4df3-ba4a-6c806e8de73a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232215(v=AX.60)
 ms:contentKeyID: 36058623
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a bank account for a customer account 
@@ -26,5 +28,5 @@ Use this procedure to enter bank account information for a customer. You can use
 [Customer bank accounts (form)](https://technet.microsoft.com/en-us/library/aa575695\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

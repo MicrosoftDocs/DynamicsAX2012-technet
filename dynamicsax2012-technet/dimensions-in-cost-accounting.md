@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dimensions in cost accounting
 TOCTitle: Dimensions in cost accounting
 ms:assetid: a9ba4ba2-89d6-486d-a393-06bc293e62fe
@@ -14,6 +14,8 @@ f1_keywords:
 - costing
 - cost accounting
 - cost management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Dimensions in cost accounting 
@@ -48,5 +50,5 @@ The following topics provide information about dimensions in cost accounting.
 [Cost accounting](cost-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up vendor posting profiles
 TOCTitle: (BRA) Set up vendor posting profiles
 ms:assetid: 8b3906c5-b101-4c2b-9941-073c4f8d041d
@@ -12,6 +12,8 @@ f1_keywords:
 - BRA
 - Brazil
 - vendor posting profiles
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up vendor posting profiles 
@@ -52,5 +54,5 @@ Use the **Vendor posting profiles** form to specify an account to credit the Imp
 [(BRA) Vendor posting profiles (modified form)](https://technet.microsoft.com/en-us/library/jj710579\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

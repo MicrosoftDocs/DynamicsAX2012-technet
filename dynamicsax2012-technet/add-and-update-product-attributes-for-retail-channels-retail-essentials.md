@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and update product attributes for retail channels (Retail essentials)
 TOCTitle: Add and update product attributes for retail channels (Retail essentials)
 ms:assetid: 7fed2812-d8ff-40e0-8a1c-eb19b277cf31
@@ -89,5 +89,5 @@ To run scheduler jobs, follow these steps:
 [Set up retail attribute groups (Retail essentials)](set-up-retail-attribute-groups-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

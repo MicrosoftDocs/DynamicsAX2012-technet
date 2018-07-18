@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up depreciation of fixed assets
 TOCTitle: (POL) Set up depreciation of fixed assets
 ms:assetid: cb07c316-d716-4576-a470-6c8e162f32c8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730413(v=AX.60)
 ms:contentKeyID: 49636332
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up depreciation of fixed assets 
@@ -34,5 +36,5 @@ In Poland, fixed asset depreciation methods differ from the standard depreciatio
 [(POL) Set up depreciation of fixed assets](pol-set-up-depreciation-of-fixed-assets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

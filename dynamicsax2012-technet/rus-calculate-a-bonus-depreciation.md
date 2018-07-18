@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate a bonus depreciation
 TOCTitle: (RUS) Calculate a bonus depreciation
 ms:assetid: cda89f12-01d8-46d2-9463-6a672cc6327a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923591(v=AX.60)
 ms:contentKeyID: 52075436
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate a bonus depreciation 
@@ -44,5 +46,5 @@ The depreciation bonus is an additional depreciation amount that is assessed dur
 [(RUS) Calculate or reverse fixed asset depreciation](rus-calculate-or-reverse-fixed-asset-depreciation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

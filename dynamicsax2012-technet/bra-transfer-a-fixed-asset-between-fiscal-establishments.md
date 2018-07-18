@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Transfer a fixed asset between fiscal establishments
 TOCTitle: (BRA) Transfer a fixed asset between fiscal establishments
 ms:assetid: c5507b2b-5d30-4839-9879-a0142cdafa40
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305883(v=AX.60)
 ms:contentKeyID: 54912980
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Transfer a fixed asset between fiscal establishments 
@@ -98,5 +100,5 @@ To transfer a fixed asset between fiscal establishments, a free text invoice mus
 10. Click **Post** \> **Post** to post the invoice.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

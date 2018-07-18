@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining customer rebates
 TOCTitle: Setting up and maintaining customer rebates
 ms:assetid: c316fc10-09f2-407d-ad31-be3d3673b427
@@ -14,6 +14,8 @@ f1_keywords:
 - price
 - rebates
 - discounting
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining customer rebates 
@@ -38,5 +40,5 @@ The topics in this section provide information about how to set up and maintain 
 [Create a customer TMA group](create-a-customer-tma-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

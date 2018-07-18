@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calculating standard costs for manufactured items
 TOCTitle: Calculating standard costs for manufactured items
 ms:assetid: 33a2ca88-be7f-476b-987d-bf5570c2a424
@@ -13,6 +13,8 @@ f1_keywords:
 - costing
 - standard cost
 - standard costs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Calculating standard costs for manufactured items 
@@ -39,5 +41,5 @@ The topics in this section contain information about how to set up calculations 
 [About order-specific BOM calculations](about-order-specific-bom-calculations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

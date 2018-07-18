@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up notification and cancellation for delayed orders
 TOCTitle: Set up notification and cancellation for delayed orders
 ms:assetid: fce7d023-2dc0-47d7-9ff3-bbefc76df123
@@ -13,6 +13,8 @@ f1_keywords:
 - automatic cancelation
 - automatic cancellation
 - automatic notification
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up notification and cancellation for delayed orders 
@@ -180,5 +182,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

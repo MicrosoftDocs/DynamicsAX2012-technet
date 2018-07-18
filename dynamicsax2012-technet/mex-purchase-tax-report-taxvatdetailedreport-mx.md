@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Purchase tax report (TaxVATDetailedReport_MX)
 TOCTitle: (MEX) Purchase tax report (TaxVATDetailedReport_MX)
 ms:assetid: b62e4aba-6e09-48a2-99b2-3b37a0fd82d4
@@ -145,5 +145,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(MEX) Generate the purchase tax report](mex-generate-the-purchase-tax-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

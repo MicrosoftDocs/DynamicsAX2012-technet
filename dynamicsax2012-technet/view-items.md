@@ -1,4 +1,4 @@
-﻿---
+---
 title: View items
 TOCTitle: View items
 ms:assetid: dc6f58d0-6781-496f-85c3-8a7f1d7e2bfb
@@ -11,6 +11,8 @@ f1_keywords:
 - EPInventTableInfo
 - EPInventOnhand
 - EPInventOnhandInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # View items 
@@ -69,5 +71,5 @@ You can use the **On-hand inventory** page to view which products are on hand.
 [Attach documents, notes, or URLs to records](attach-documents-notes-or-urls-to-records.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

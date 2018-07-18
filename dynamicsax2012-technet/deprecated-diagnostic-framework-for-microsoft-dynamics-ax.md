@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Diagnostic Framework for Microsoft Dynamics AX'
 TOCTitle: Diagnostic Framework for Microsoft Dynamics AX
 ms:assetid: 9ded9622-fa63-4aec-a4e4-0823a9a28b86
@@ -43,5 +43,5 @@ The Diagnostics Framework was available from the [InformationSource services dow
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

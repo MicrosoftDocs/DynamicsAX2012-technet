@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up transfer order parameters
 TOCTitle: Set up transfer order parameters
 ms:assetid: 384333bb-782e-45c8-ae69-3a28a9b7981b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570138(v=AX.60)
 ms:contentKeyID: 44080968
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up transfer order parameters 
@@ -60,5 +62,5 @@ Before you can use the **Transfer orders** form, you must set up the parameters 
 [Inventory and warehouse management parameters (form)](https://technet.microsoft.com/en-us/library/aa587658\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

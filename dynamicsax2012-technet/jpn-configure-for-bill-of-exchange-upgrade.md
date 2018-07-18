@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Configure for bill of exchange upgrade
 TOCTitle: (JPN) Configure for bill of exchange upgrade
 ms:assetid: 4cb380d8-be1e-4c21-8838-da0d6feaf934
@@ -56,5 +56,5 @@ Click the **Configure for bill of exchange upgrade** task to open the **Configur
 [(JPN) Configure for bill of exchange upgrade (form)](https://technet.microsoft.com/en-us/library/jj713625\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

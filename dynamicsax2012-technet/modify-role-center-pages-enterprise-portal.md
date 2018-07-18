@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify Role center pages (Enterprise Portal)
 TOCTitle: Modify Role center pages
 ms:assetid: f2911de2-e533-47c5-bdbd-71766ba0fcf6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227524(v=AX.60)
 ms:contentKeyID: 36059968
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Modify Role center pages (Enterprise Portal) 
@@ -82,5 +84,5 @@ When you have finished making changes to the page, click **Stop Editing** on the
 [Role Centers (Enterprise Portal)](role-centers-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

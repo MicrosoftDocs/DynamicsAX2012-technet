@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post invoices in an invoice journal
 TOCTitle: Post invoices in an invoice journal
 ms:assetid: a2c339a3-0ce4-483a-b21b-8ec10067f7f9
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - invoices
 - invoice journal
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post invoices in an invoice journal 
@@ -79,5 +81,5 @@ Use this procedure to post invoices that are entered in an invoice journal.
 [(USA) Post a vendor payment journal and generate a 1099 OID report](usa-post-a-vendor-payment-journal-and-generate-a-1099-oid-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Earning code examples
 TOCTitle: Earning code examples
 ms:assetid: 826c594e-8d18-4264-99c4-082bdffcc180
@@ -20,6 +20,8 @@ f1_keywords:
 - regular rate of pay earning codes
 - retroactive earning code
 - retroactive earning codes
+audience: Application User
+ms.search.region: USA
 ---
 
 # Earning code examples 
@@ -416,5 +418,5 @@ Back to top
 [Earning code and earning code group tasks](earning-code-and-earning-code-group-tasks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

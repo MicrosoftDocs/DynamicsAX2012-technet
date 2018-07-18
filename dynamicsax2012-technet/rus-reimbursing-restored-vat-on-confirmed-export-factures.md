@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Reimbursing restored VAT on confirmed export factures
 TOCTitle: (RUS) Reimbursing restored VAT on confirmed export factures
 ms:assetid: 3b9dbee6-214d-4fcd-b90f-85554ea53d9f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839660(v=AX.60)
 ms:contentKeyID: 50396807
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Reimbursing restored VAT on confirmed export factures 
@@ -44,5 +46,5 @@ You must calculate restored value-added tax (VAT) for confirmed export factures 
   - Close the sales book and purchase book. You can close the sales book and purchase book only after approving the restored VAT amount for the period. All incoming and outgoing VAT for factures must be processed before you close the book. For more information, see [(RUS) Create a sales book](rus-create-a-sales-book.md) and [(RUS) Create a purchase book](rus-create-a-purchase-book.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

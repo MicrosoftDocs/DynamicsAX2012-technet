@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring business forms for purchasing
 TOCTitle: Configuring business forms for purchasing
 ms:assetid: 1cf6d342-2c07-4e01-a6dc-0a0d8e59515b
@@ -18,6 +18,8 @@ f1_keywords:
 - purchasing
 - business form
 - business forms
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring business forms for purchasing 
@@ -36,5 +38,5 @@ The following topics provide information about configuring business forms for pu
 [Set up footer text for documents](set-up-footer-text-for-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

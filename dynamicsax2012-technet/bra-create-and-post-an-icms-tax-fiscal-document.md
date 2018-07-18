@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post an ICMS tax fiscal document
 TOCTitle: (BRA) Create and post an ICMS tax fiscal document
 ms:assetid: 392994f5-3e38-459c-b4dd-58450f16a8f4
@@ -12,6 +12,8 @@ f1_keywords:
 - ICMS tax document
 - tax document
 - post and print
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post an ICMS tax fiscal document 
@@ -173,5 +175,5 @@ You can create only one ICMS fiscal document line for each ICMS tax fiscal docum
 [(BRA) Set up ledger posting groups for sales tax](bra-set-up-ledger-posting-groups-for-sales-tax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

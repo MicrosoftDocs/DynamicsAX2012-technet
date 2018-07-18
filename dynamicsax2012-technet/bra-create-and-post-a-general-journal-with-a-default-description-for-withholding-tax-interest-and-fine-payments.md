@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post a general journal with a default description for withholding tax, interest, and fine payments
 TOCTitle: (BRA) Create and post a general journal with a default description for withholding tax, interest, and fine payments
 ms:assetid: ddf2a07f-642b-44f9-b707-9a0b2cfdc48a
@@ -15,6 +15,8 @@ f1_keywords:
 - default description
 - create and post a general journal
 - fine payments
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post a general journal with a default description for withholding tax, interest, and fine payments 
@@ -55,5 +57,5 @@ You must specify a journal description before you post a journal. When you post 
 [(BRA) Analytical ledger report (LedgerJournalAnalytReasonReport\_BR)](https://technet.microsoft.com/en-us/library/jj710455\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Receiving clerk security role (InventReceivingClerk)
 TOCTitle: Receiving clerk security role (InventReceivingClerk)
 ms:assetid: 21b409d9-648a-42c1-8003-e7535523f6e6
@@ -150,5 +150,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

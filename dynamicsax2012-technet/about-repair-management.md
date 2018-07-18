@@ -1,4 +1,4 @@
-﻿---
+---
 title: About repair management
 TOCTitle: About repair management
 ms:assetid: cb02f4ea-3ffb-49ca-a4cc-bf105b45ed27
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572667(v=AX.60)
 ms:contentKeyID: 36059339
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About repair management 
@@ -94,5 +96,5 @@ When a repair issue is resolved, you can close the repair line. Set the repair s
 3.  In the **Repair stage** field, select a stage with the **Finished** property enabled.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

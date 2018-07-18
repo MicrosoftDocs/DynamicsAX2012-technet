@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up warehouses for transfer orders
 TOCTitle: Set up warehouses for transfer orders
 ms:assetid: fccc4095-ab94-4e3f-8370-5d3e79aab5c1
@@ -13,6 +13,8 @@ f1_keywords:
 - transfer orders between warehouses
 - transfer orders
 - transfer requirement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up warehouses for transfer orders 
@@ -49,5 +51,5 @@ You can use warehouse levels to create a hierarchy that supports transfer orders
 [Warehouses (form)](https://technet.microsoft.com/en-us/library/aa620570\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

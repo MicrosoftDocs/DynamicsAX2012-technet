@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a product model
 TOCTitle: Create a product model
 ms:assetid: fd88012a-4cf3-4d43-a420-7d8475750fd2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - product builder
 - create a product model
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a product model 
@@ -69,5 +71,5 @@ Product models are created in almost the same manner as standard bills of materi
 [Product model (form)](https://technet.microsoft.com/en-us/library/aa574919\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

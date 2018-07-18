@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure an Existing SQL Server Analysis Services Project
 TOCTitle: Configure an Existing SQL Server Analysis Services Project
 ms:assetid: ee0aa94f-28f9-4427-82c6-51a18e0939be
@@ -94,5 +94,5 @@ Information is logged in the global log file path that is specified in the [Anal
 [Configure application functionality](configure-application-functionality.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

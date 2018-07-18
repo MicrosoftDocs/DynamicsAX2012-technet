@@ -1,4 +1,4 @@
-﻿---
+---
 title: Receive and register vendor invoices automatically
 TOCTitle: Receive and register vendor invoices automatically
 ms:assetid: dc39f22e-a481-459d-86ec-8f79e30214ef
@@ -13,6 +13,8 @@ f1_keywords:
 - invoice
 - vendor invoice
 - vendor invoices
+audience: Application User
+ms.search.region: Global
 ---
 
 # Receive and register vendor invoices automatically 
@@ -25,5 +27,5 @@ The following topics provide information about receiving and registering vendor 
 [Register payments automatically for intercompany customer invoices](register-payments-automatically-for-intercompany-customer-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

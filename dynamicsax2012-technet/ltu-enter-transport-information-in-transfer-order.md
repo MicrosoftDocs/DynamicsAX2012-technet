@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Enter transport information in transfer order
 TOCTitle: (LTU) Enter transport information in transfer order
 ms:assetid: 3aec34a7-4c27-47b0-b949-2815bce1ae96
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665060(v=AX.60)
 ms:contentKeyID: 49386643
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Enter transport information in transfer order 
@@ -90,5 +92,5 @@ You can enter transportation information in a transfer order and reprint the pac
 2.  Click **Print** \> **Packing Slip** to reprint the packing slip.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

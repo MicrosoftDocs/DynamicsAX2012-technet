@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create distribution locations for retail databases
 TOCTitle: Create distribution locations for retail databases
 ms:assetid: dc601bbe-d24d-4dc3-aea0-3b9859ebfb1f
@@ -76,5 +76,5 @@ In general, you must have a distribution location for each store location that h
 [Configure and schedule retail data distribution](configure-and-schedule-retail-data-distribution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

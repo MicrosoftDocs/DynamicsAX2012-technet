@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) Holiday calendar'
 TOCTitle: (BRA) Holiday calendar
 ms:assetid: 3d8dcf35-c327-4668-acdd-af8d5c602b32
@@ -55,5 +55,5 @@ Microsoft Dynamics AX 2009 includes the Holiday calendar, which is a country-spe
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

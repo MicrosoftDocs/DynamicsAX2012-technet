@@ -1,4 +1,4 @@
-﻿---
+---
 title: About production order status
 TOCTitle: About production order status
 ms:assetid: 5fd1dffe-02d4-478a-89e1-d89a68d08d17
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571100(v=AX.60)
 ms:contentKeyID: 36057602
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About production order status 
@@ -46,5 +48,5 @@ You can monitor the activities in each step of the production and move the produ
 [About the production process](about-the-production-process.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run a report
 TOCTitle: Run a report
 ms:assetid: 71b1bc63-c175-4ca8-babe-75a318d0280b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549967(v=AX.60)
 ms:contentKeyID: 36058069
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Run a report 
@@ -54,5 +56,5 @@ When you run a cost statement for hierarchies, select a hierarchy, if you have n
 [Create an expense distribution sheet](create-an-expense-distribution-sheet.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

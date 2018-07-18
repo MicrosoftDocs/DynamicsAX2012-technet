@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post a vendor invoice that is not for a purchase order
 TOCTitle: (BRA) Create and post a vendor invoice that is not for a purchase order
 ms:assetid: c0c38c6b-ca94-4440-98a0-045a490226a2
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - BR - 00023
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post a vendor invoice that is not for a purchase order 
@@ -44,5 +46,5 @@ Use this procedure to create and post a vendor invoice that is not associated wi
 [(BRA) Enter vendor invoice lines to a vendor invoice for a purchase order](bra-enter-vendor-invoice-lines-to-a-vendor-invoice-for-a-purchase-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

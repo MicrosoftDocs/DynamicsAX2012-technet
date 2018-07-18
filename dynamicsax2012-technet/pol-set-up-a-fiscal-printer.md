@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up a fiscal printer
 TOCTitle: (POL) Set up a fiscal printer
 ms:assetid: fdf5e248-ddab-4632-868e-ea97fa667372
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711338(v=AX.60)
 ms:contentKeyID: 49387155
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up a fiscal printer 
@@ -54,5 +56,5 @@ A fiscal printer is a specific printer that must be certified for retail sales b
 [(POL) Fiscal printers (form)](https://technet.microsoft.com/en-us/library/jj711251\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

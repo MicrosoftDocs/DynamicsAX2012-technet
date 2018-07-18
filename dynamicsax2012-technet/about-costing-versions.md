@@ -1,4 +1,4 @@
-﻿---
+---
 title: About costing versions
 TOCTitle: About costing versions
 ms:assetid: 3f27786f-9a91-4699-88a1-2776e437c18b
@@ -12,6 +12,8 @@ f1_keywords:
 - costing version
 - costing
 - costing versions
+audience: Application User
+ms.search.region: Global
 ---
 
 # About costing versions 
@@ -48,5 +50,5 @@ A costing version can also contain data about item sales prices or purchase pric
 [About costing versions containing item purchase prices related to BOM calculations](about-costing-versions-containing-item-purchase-prices-related-to-bom-calculations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

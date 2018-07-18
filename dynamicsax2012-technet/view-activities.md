@@ -1,4 +1,4 @@
-﻿---
+---
 title: View activities
 TOCTitle: View activities
 ms:assetid: 3fb67eba-6479-4aa2-a642-c3c6ae178706
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - activities
 - ActivityInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # View activities 
@@ -43,5 +45,5 @@ To view a subset of activities, click a link on the Quick Launch under **Activit
 [Create or modify an activity](create-or-modify-an-activity.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

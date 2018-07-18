@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Enterprise Portal Search
 TOCTitle: Set up Enterprise Portal Search
 ms:assetid: 175c6575-6aeb-43d0-a154-b4eea4045f0c
@@ -34,5 +34,5 @@ Before users can perform searches from Enterprise Portal for Microsoft Dynamics 
 [Checklist: Deploy Microsoft Dynamics AX Enterprise Search](checklist-deploy-microsoft-dynamics-ax-enterprise-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

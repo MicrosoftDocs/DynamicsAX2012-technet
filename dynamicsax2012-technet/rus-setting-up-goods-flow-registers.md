@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up goods flow registers
 TOCTitle: (RUS) Setting up goods flow registers
 ms:assetid: 6cdd2e3b-f055-456e-b215-50f623999553
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839673(v=AX.60)
 ms:contentKeyID: 50396819
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up goods flow registers 
@@ -26,5 +28,5 @@ The topics in this section provide information about how to set up goods flow re
 [(RUS) Set up a register for warehoused items](rus-set-up-a-register-for-warehoused-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

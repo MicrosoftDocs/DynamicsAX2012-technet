@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upgrade scenarios
 TOCTitle: Upgrade scenarios
 ms:assetid: eb9708d9-4886-425b-b25b-f4f450367e26
@@ -30,5 +30,5 @@ This section describes the supported scenarios for Microsoft Dynamics AX upgrade
 [Technical diagrams for upgrade scenarios](technical-diagrams-for-upgrade-scenarios.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Resource scheduling configuration key (PSAABS)
 TOCTitle: Resource scheduling configuration key (PSAABS)
 ms:assetid: 789a4146-b406-49d4-b89c-46af402c5442
@@ -120,5 +120,5 @@ For more information about how license codes and configuration keys work togethe
 [Key tasks: Assign workers to projects based on availability](key-tasks-assign-workers-to-projects-based-on-availability.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

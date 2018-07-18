@@ -1,4 +1,4 @@
-﻿---
+---
 title: Place a period on hold
 TOCTitle: Place a period on hold
 ms:assetid: d6e49106-40ff-47df-8659-61efc91dd744
@@ -11,6 +11,8 @@ f1_keywords:
 - period status
 - On hold
 - project period
+audience: Application User
+ms.search.region: Global
 ---
 
 # Place a period on hold 
@@ -79,5 +81,5 @@ You can temporarily block postings to a period by changing its module level acce
 [Key tasks: Fiscal calendars, fiscal years, and periods](key-tasks-fiscal-calendars-fiscal-years-and-periods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

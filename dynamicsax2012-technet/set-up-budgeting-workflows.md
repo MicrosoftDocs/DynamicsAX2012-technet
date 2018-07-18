@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Budgeting workflows
 TOCTitle: Set up Budgeting workflows
 ms:assetid: 062e69fc-cd63-4c59-a249-b41bef7f6d26
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - budget transaction workflows
 - workflows for budget transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up Budgeting workflows 
@@ -330,5 +332,5 @@ You can assign a workflow element to the following groups of participants.
 [Set up general budget reservation workflows (Public sector)](set-up-general-budget-reservation-workflows-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

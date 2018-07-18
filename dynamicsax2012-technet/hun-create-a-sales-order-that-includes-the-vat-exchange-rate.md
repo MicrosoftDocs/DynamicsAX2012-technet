@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Create a sales order that includes the VAT exchange rate
 TOCTitle: (HUN) Create a sales order that includes the VAT exchange rate
 ms:assetid: b6daee02-d1fa-441d-94dc-96613b0e549c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664358(v=AX.60)
 ms:contentKeyID: 49385446
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Create a sales order that includes the VAT exchange rate 
@@ -72,5 +74,5 @@ When you create and post the sales invoice, any differences in amounts that are 
 [(HUN) Set up exchange rates for calculating VAT](hun-set-up-exchange-rates-for-calculating-vat.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

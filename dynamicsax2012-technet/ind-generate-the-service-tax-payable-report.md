@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Generate the service tax payable report
 TOCTitle: (IND) Generate the service tax payable report
 ms:assetid: 17a2f107-b438-4994-bc97-33c10e88e358
@@ -15,6 +15,8 @@ f1_keywords:
 - MsDynAx060.Forms.ServiceTaxPayableDetailed_IN
 - MsDynAx060.Forms.ServiceTaxTransactions_IN
 - MsDynAx060.Forms.TaxServiceTaxPayable_IN
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Generate the service tax payable report 
@@ -149,5 +151,5 @@ Use the **Sales tax payments** form to generate the service tax payable report. 
 [(IND) Set up service codes for service goods](ind-set-up-service-codes-for-service-goods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

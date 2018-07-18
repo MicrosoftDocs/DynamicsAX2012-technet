@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reimburse for an expense report
 TOCTitle: Reimburse for an expense report
 ms:assetid: a658136f-8379-46f5-a2f2-14ebd6b35bfb
@@ -11,6 +11,8 @@ f1_keywords:
 - reimbursement
 - reimbursements
 - expense
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reimburse for an expense report 
@@ -97,5 +99,5 @@ You can reimburse an employee for an expense report by using the **Vendor detail
 If you want to pay the employee electronically, see [Create an electronic payment file for vendors](create-an-electronic-payment-file-for-vendors.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

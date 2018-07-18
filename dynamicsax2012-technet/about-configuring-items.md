@@ -1,4 +1,4 @@
-﻿---
+---
 title: About configuring items
 TOCTitle: About configuring items
 ms:assetid: 849ae3cc-e72d-4bb1-a850-f01b4d015bd3
@@ -14,6 +14,8 @@ f1_keywords:
 - EP configuration
 - configure item
 - confuguration
+audience: Application User
+ms.search.region: Global
 ---
 
 # About configuring items 
@@ -53,5 +55,5 @@ This section provides information about how to configure items and approve confi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

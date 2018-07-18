@@ -1,4 +1,4 @@
-﻿---
+---
 title: About expense reports and multiple approvers
 TOCTitle: About expense reports and multiple approvers
 ms:assetid: 12f35be2-a3d2-430f-b9df-ff83c1a9a300
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580573(v=AX.60)
 ms:contentKeyID: 39519052
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About expense reports and multiple approvers 
@@ -40,5 +42,5 @@ If you decide to require multiple expense report approvers, you can add the work
 [Configure workflows](configure-workflows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

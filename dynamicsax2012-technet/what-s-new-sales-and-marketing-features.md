@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Sales and marketing features"
 TOCTitle: Sales and marketing features
 ms:assetid: 2725b7ec-718a-49cb-bb68-0fe8fd6dd271
@@ -263,5 +263,5 @@ The following list illustrates some of the scenarios that this new feature is in
   - Tracing the history of orders that include serialized items.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

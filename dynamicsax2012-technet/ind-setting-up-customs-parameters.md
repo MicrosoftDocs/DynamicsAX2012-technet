@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up customs parameters
 TOCTitle: (IND) Setting up customs parameters
 ms:assetid: b5d6c3df-da8c-48a8-a410-359f4184f528
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664823(v=AX.60)
 ms:contentKeyID: 49386153
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up customs parameters 
@@ -46,5 +48,5 @@ The following topics provide information about setting up customs parameters.
 [(IND) Create tax codes for customs](ind-create-tax-codes-for-customs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

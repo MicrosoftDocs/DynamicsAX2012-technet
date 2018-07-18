@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up SION in Inventory management
 TOCTitle: (IND) Setting up SION in Inventory management
 ms:assetid: 9b4781f6-ff9e-432a-a825-015958b1ca96
@@ -11,6 +11,8 @@ f1_keywords:
 - india
 - SION
 - inventory management
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up SION in Inventory management 
@@ -41,5 +43,5 @@ The topics in this section provide information about setup tasks for the SION.
 [(IND) Copy a product group in the SION](ind-copy-a-product-group-in-the-sion.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

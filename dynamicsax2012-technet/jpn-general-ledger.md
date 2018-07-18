@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) General ledger
 TOCTitle: (JPN) General ledger
 ms:assetid: 69ad120d-8fe8-4e1b-8d04-5f3024a1101d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711070(v=AX.60)
 ms:contentKeyID: 49386480
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) General ledger 
@@ -24,5 +26,5 @@ The topics in this section provide more information about General ledger.
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

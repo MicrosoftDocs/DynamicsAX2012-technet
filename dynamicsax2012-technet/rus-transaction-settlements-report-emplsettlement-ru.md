@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Transaction settlements report (EmplSettlement_RU)
 TOCTitle: (RUS) Transaction settlements report (EmplSettlement_RU)
 ms:assetid: fd9f3ccf-cc48-482a-b2bf-990dd315be26
@@ -124,5 +124,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(EEUR) Settle advance holder balances](eeur-settle-advance-holder-balances.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

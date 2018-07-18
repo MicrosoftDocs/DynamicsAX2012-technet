@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) NAF codes and siret numbers
 TOCTitle: (FRA) NAF codes and siret numbers
 ms:assetid: 6abe4388-baee-4a81-bc06-b4e379f438e4
@@ -11,6 +11,8 @@ f1_keywords:
 - Forms.CompanyNAFCode
 - siret
 - MsDynAx060.Forms.CompanyNAFCode
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) NAF codes and siret numbers 
@@ -47,5 +49,5 @@ You can set up siret numbers for customers, vendors, and prospects. The siret is
 [Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

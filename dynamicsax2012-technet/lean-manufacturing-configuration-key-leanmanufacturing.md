@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lean manufacturing configuration key (LeanManufacturing)
 TOCTitle: Lean manufacturing configuration key (LeanManufacturing)
 ms:assetid: 8b4de806-056e-4a44-8537-c13574828f3c
@@ -258,5 +258,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

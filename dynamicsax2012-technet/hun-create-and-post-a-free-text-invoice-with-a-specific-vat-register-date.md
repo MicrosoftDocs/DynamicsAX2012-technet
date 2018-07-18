@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Create and post a free text invoice with a specific VAT register date
 TOCTitle: (HUN) Create and post a free text invoice with a specific VAT register date
 ms:assetid: 3e2a886b-d272-4770-a876-30a4953b5ec1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - free text invoice
 - VAT register date
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Create and post a free text invoice with a specific VAT register date 
@@ -37,5 +39,5 @@ When you post an invoice that includes outgoing tax that will be posted on a fut
 [(HUN) Create a free text invoice that includes the VAT exchange rate](hun-create-a-free-text-invoice-that-includes-the-vat-exchange-rate.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

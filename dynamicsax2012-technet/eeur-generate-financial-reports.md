@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Generate financial reports
 TOCTitle: (EEUR) Generate financial reports
 ms:assetid: 13c03b3d-4462-47c1-a1ee-274f80a6d3cf
@@ -10,6 +10,8 @@ f1_keywords:
 - reports
 - financial reports
 - generate reports
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Generate financial reports 
@@ -34,5 +36,5 @@ When the report is generated, cell values are calculated for the selected period
 [(EEUR) Base date (form)](https://technet.microsoft.com/en-us/library/jj910978\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

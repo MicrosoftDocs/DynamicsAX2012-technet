@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Generate a cash reimbursement and disbursement slip
 TOCTitle: (EEUR) Generate a cash reimbursement and disbursement slip
 ms:assetid: a7ca0cd1-8093-415b-b44d-1fc7436d4988
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677641(v=AX.60)
 ms:contentKeyID: 49384944
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Generate a cash reimbursement and disbursement slip 
@@ -50,5 +52,5 @@ You can print cash reimbursement and cash disbursement slips to confirm cash ope
 [(EEUR) Set up parameters for cash management](eeur-set-up-parameters-for-cash-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

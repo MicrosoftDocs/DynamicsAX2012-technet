@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set current time zone
 TOCTitle: Set current time zone
 ms:assetid: cf2df842-ba73-4da9-820d-9dcf0ba5f64f
@@ -29,5 +29,5 @@ The preferred method of storing date and time data in Microsoft Dynamics AX is C
 If custom date or time fields have been added to Microsoft Dynamics AX, you must decide whether those fields should be merged into new utcDateTime fields during upgrade. For more information, see [Walkthrough: upgrading date and time table field pairs into UtcDateTime](https://technet.microsoft.com/en-us/library/dd362070\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

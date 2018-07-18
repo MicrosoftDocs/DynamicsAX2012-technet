@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cube and KPI reference for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Cube and KPI reference for Microsoft Dynamics AX 2012 R2 and R3
 ms:assetid: 007c8ac5-f179-40c9-8d87-f9f469ff410d
@@ -66,5 +66,5 @@ The topics in this section provide information about the default online analytic
 [Development Tasks for Analytics](development-tasks-for-analytics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

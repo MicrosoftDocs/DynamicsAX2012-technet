@@ -1,4 +1,4 @@
-﻿---
+---
 title: Managing alerts
 TOCTitle: Managing alerts
 ms:assetid: 87417b00-bc30-4ae9-9f78-cf3a26db40d3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834407(v=AX.60)
 ms:contentKeyID: 46687552
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Managing alerts 
@@ -47,5 +49,5 @@ The guidelines in the following topics apply to administrators who have to set u
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Import and verify NF-e XML documents and DANFE that you receive in emails
 TOCTitle: (BRA) Import and verify NF-e XML documents and DANFE that you receive in emails
 ms:assetid: 40e55405-0d7f-4026-8f58-46cd618c1d80
@@ -16,6 +16,8 @@ f1_keywords:
 - import XML
 - import DANFE
 - import NF-e XML
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Import and verify NF-e XML documents and DANFE that you receive in emails 
@@ -92,5 +94,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

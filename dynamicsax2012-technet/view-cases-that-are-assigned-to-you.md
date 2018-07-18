@@ -1,4 +1,4 @@
-﻿---
+---
 title: View cases that are assigned to you
 TOCTitle: View cases that are assigned to you
 ms:assetid: c5097089-67ce-494c-ac72-4d8344ebf2af
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - CaseListPageAllMyCases
+audience: Application User
+ms.search.region: Global
 ---
 
 # View cases that are assigned to you 
@@ -27,5 +29,5 @@ You can view the list of cases that you created or that are assigned to you, inc
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot the Microsoft Dynamics AX Intelligent Data Management Framework (IDMF)
 TOCTitle: Troubleshoot IDMF
 ms:assetid: 9f836125-8100-4137-a8fb-61e380af575b
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/troubleshoot-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

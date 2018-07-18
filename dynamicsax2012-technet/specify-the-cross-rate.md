@@ -1,4 +1,4 @@
-﻿---
+---
 title: Specify the cross rate
 TOCTitle: Specify the cross rate
 ms:assetid: dff2dc6c-3826-4cac-9dac-b1279ed55ac8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551296(v=AX.60)
 ms:contentKeyID: 37822163
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Specify the cross rate 
@@ -54,5 +56,5 @@ When you select an invoice and a primary payment, you can enter a cross rate for
 [Reverse settlements](reverse-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

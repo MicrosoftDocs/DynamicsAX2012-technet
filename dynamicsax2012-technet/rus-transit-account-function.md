@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Transit account function
 TOCTitle: (RUS) Transit account function
 ms:assetid: beabcd43-5b5c-4a98-b488-83dda5ee8e5e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733280(v=AX.60)
 ms:contentKeyID: 49685247
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Transit account function 
@@ -22,5 +24,5 @@ You cannot post incoming or outgoing payments if the selected bank account is in
 [(RUS) Set up the bank operation type](rus-set-up-the-bank-operation-type.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

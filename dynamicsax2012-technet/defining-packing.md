@@ -1,4 +1,4 @@
-﻿---
+---
 title: Defining packing
 TOCTitle: Defining packing
 ms:assetid: 4f7ad77e-47f1-44a9-8b6b-6281c4204496
@@ -12,6 +12,8 @@ f1_keywords:
 - packing groups
 - packing
 - packing material
+audience: Application User
+ms.search.region: Global
 ---
 
 # Defining packing 
@@ -36,5 +38,5 @@ The topics in this section provide information about how to define packing.
 [Define packing units and materials](define-packing-units-and-materials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

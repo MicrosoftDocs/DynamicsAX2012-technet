@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up Master planning
 TOCTitle: Setting up Master planning
 ms:assetid: 40d58e5e-9ca1-498d-a627-427f3678b431
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - master planning
 - master scheduling
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up Master planning 
@@ -37,5 +39,5 @@ The topics in this section provide information about how to prepare for master p
 [Set up master plans to include requisitions](set-up-master-plans-to-include-requisitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

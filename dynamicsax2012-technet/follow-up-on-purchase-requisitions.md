@@ -1,4 +1,4 @@
-﻿---
+---
 title: Follow up on purchase requisitions
 TOCTitle: Follow up on purchase requisitions
 ms:assetid: a9331013-3fbe-4351-915e-4ae54988a8ae
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243068(v=AX.60)
 ms:contentKeyID: 36687398
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Follow up on purchase requisitions 
@@ -80,5 +82,5 @@ For more information about how to act on purchase requisition work items that ar
 [Key tasks: Create and submit a purchase requisition](key-tasks-create-and-submit-a-purchase-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

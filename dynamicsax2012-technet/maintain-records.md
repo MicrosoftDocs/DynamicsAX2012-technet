@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain records
 TOCTitle: Maintain records
 ms:assetid: bd3112dd-a214-4837-bac6-c7492a2abed4
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - record
 - records
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain records 
@@ -47,5 +49,5 @@ When information that is associated with records is date effective, it means tha
 [Date Effective Patterns (White paper)](date-effective-patterns-white-paper.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

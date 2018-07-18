@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up descriptions for fixed asset transactions
 TOCTitle: Set up descriptions for fixed asset transactions
 ms:assetid: 053f9c70-cda6-4d8a-b9c2-58df7f6a95a7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569711(v=AX.60)
 ms:contentKeyID: 36055950
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up descriptions for fixed asset transactions 
@@ -96,5 +98,5 @@ You also use journal descriptions for fixed asset transactions and depreciation 
 To create journal descriptions, use the **Journal descriptions** form. (Click **General ledger** \> **Setup** \> **Journals** \> **Journal descriptions**.)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Office Add-ins
 TOCTitle: Install Office Add-ins
 ms:assetid: 7e6aaf42-8ba7-4a4d-af53-06395c0d8730
@@ -81,5 +81,5 @@ For information about how to configure Office Add-ins in Microsoft Dynamics AX, 
 [Integrating Microsoft Dynamics AX with Microsoft Office](integrating-microsoft-dynamics-ax-with-microsoft-office.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

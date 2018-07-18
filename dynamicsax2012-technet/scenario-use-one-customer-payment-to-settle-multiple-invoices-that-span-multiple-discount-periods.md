@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Use one customer payment to settle multiple invoices that span multiple discount periods'
 TOCTitle: 'Scenario: Use one customer payment to settle multiple invoices that span multiple discount periods'
 ms:assetid: 2c04c15c-6355-4f4b-b7fb-9a73c547b232
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545517(v=AX.60)
 ms:contentKeyID: 37832497
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Use one customer payment to settle multiple invoices that span multiple discount periods 
@@ -485,5 +487,5 @@ If Arnie wants the payment amount to be only 1,485.00, he clicks **No**, and the
 [Scenario: Settle a partial customer payment that has discounts on credit notes](scenario-settle-a-partial-customer-payment-that-has-discounts-on-credit-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

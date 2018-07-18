@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reverse a completed inventory close
 TOCTitle: Reverse a completed inventory close
 ms:assetid: 9282e2a5-a0e3-46b4-8bee-01053dcc28f3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232180(v=AX.60)
 ms:contentKeyID: 36058575
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reverse a completed inventory close 
@@ -40,5 +42,5 @@ After you finish making adjustments, you can run inventory close again for the p
 [Cancellation - Initialize (form)](https://technet.microsoft.com/en-us/library/hh227515\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate the Counting list (INV-5) report
 TOCTitle: (RUS) Generate the Counting list (INV-5) report
 ms:assetid: 564044ca-8f6d-4131-b939-29144364de66
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853181(v=AX.60)
 ms:contentKeyID: 50396462
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate the Counting list (INV-5) report 
@@ -52,5 +54,5 @@ The Counting list (INV-5) report is generated in Microsoft Excel format.
 [(RUS) Inventory journal report table (form)](https://technet.microsoft.com/en-us/library/jj839654\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

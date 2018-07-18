@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot installation issues with client components
 TOCTitle: Troubleshoot installation issues with client components
 ms:assetid: 8318ff7c-8f7b-4372-b417-483dc81bda1e
@@ -32,5 +32,5 @@ This error can indicate that the **Microsoft Dynamics AX Object Server** service
 If you specified a shared configuration file when you installed the client, you might receive this error the first time that you start the client. To resolve this issue, click **OK** to close the client, and then restart the client.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

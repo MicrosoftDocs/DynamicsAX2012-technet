@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Multisite activation wizard'
 TOCTitle: Multisite activation wizard
 ms:assetid: 45884d5a-06ad-4598-8b05-c9760e3f5020
@@ -53,5 +53,5 @@ In Microsoft Dynamics AX 2009, multisite functionality must be activated by usin
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) Purchase and sales fiscal document manual entry'
 TOCTitle: (BRA) Purchase and sales fiscal document manual entry
 ms:assetid: fb311f75-e8b6-4094-9572-f1f8e5dcbea4
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, manual entries for purchase and sales fiscal docu
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

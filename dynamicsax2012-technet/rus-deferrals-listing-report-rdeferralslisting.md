@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Deferrals listing report (RDeferralsListing)
 TOCTitle: (RUS) Deferrals listing report (RDeferralsListing)
 ms:assetid: adfbc353-63df-4a4d-99c5-8a68821ae4b3
@@ -132,5 +132,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(RUS) Deferrals models (form)](https://technet.microsoft.com/en-us/library/jj678655\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

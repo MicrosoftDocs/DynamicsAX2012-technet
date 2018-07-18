@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter customer payments based on checks or bank reports
 TOCTitle: Enter customer payments based on checks or bank reports
 ms:assetid: b6553ad5-ccb3-4c35-bcad-63de9cd588b5
@@ -20,6 +20,8 @@ f1_keywords:
 - deposit
 - slips
 - slip
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enter customer payments based on checks or bank reports 
@@ -32,5 +34,5 @@ The following topics provide information about entering customer payments based 
 [(MYS) Postdated checks](mys-postdated-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reverse changes in a dispatch board
 TOCTitle: Reverse changes in a dispatch board
 ms:assetid: 382a13d1-53c4-41c1-942b-ce659eec9c42
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231124(v=AX.60)
 ms:contentKeyID: 62629944
 ms.date: 07/28/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reverse changes in a dispatch board 
@@ -34,5 +36,5 @@ Use the following steps to reverse unsaved changes in a dispatch board:
 [Dispatching service order activities](dispatching-service-order-activities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

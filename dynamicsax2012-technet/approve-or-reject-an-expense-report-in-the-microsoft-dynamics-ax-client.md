@@ -1,4 +1,4 @@
-﻿---
+---
 title: Approve or reject an expense report in the Microsoft Dynamics AX client
 TOCTitle: Approve or reject an expense report in the Microsoft Dynamics AX client
 ms:assetid: 082e0121-f8b2-4365-a71d-ebfec31e8e2e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230690(v=AX.60)
 ms:contentKeyID: 39519041
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Approve or reject an expense report in the Microsoft Dynamics AX client 
@@ -42,5 +44,5 @@ Use the following procedure to approve or reject an expense report or an expense
 [Viewing an expense report from the General ledger](viewing-an-expense-report-from-the-general-ledger.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

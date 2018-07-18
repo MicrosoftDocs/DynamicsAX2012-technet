@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (DEU) Import account statements in the MT940 format'
 TOCTitle: (DEU) Import account statements in the MT940 format
 ms:assetid: 6b48496e-7f74-44c0-b6ab-0bf6f3d6ee64
@@ -57,5 +57,5 @@ In AX 2012 R2, you can use the bank statement and reconciliation feature to impo
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

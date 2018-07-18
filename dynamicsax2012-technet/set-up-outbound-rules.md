@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up outbound rules
 TOCTitle: Set up outbound rules
 ms:assetid: 96f519f6-a496-420a-b4a8-926314e87854
@@ -12,6 +12,8 @@ f1_keywords:
 - rules for shipment process
 - outbound rules
 - outbound process
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up outbound rules 
@@ -50,5 +52,5 @@ You can set up outbound rules to determine how you want the program to handle th
 [About shipments](about-shipments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

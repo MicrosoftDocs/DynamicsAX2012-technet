@@ -1,4 +1,4 @@
-﻿---
+---
 title: About accounting distributions and subledger journal entries for vendor invoices
 TOCTitle: About accounting distributions and subledger journal entries for vendor invoices
 ms:assetid: b8b6b4c1-5d41-458d-9824-405b872d5a71
@@ -16,6 +16,8 @@ f1_keywords:
 - journal entries
 - journal entry
 - subledger
+audience: Application User
+ms.search.region: Global
 ---
 
 # About accounting distributions and subledger journal entries for vendor invoices 
@@ -256,5 +258,5 @@ Before you post a vendor invoice, you can view the full accounting entry of the 
 If the subledger journal entry is incorrect when you preview it before you journalize the vendor invoice, you cannot modify the subledger journal entry. Instead, you must modify the accounting distributions or the posting profile. The accounting distributions are used to define one side of the accounting entry, the debit or the credit. The offsetting subledger journal account entry is created by using the posting profiles, such as from the vendor account or tax.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) About working with Commerce Services
 TOCTitle: (USA) About working with Commerce Services
 ms:assetid: 027e5a4e-eb54-4abc-b7fb-81db05aa6832
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242101(v=AX.60)
 ms:contentKeyID: 36055930
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) About working with Commerce Services 
@@ -46,5 +48,5 @@ You can also specify some settings for Commerce Services, in both Microsoft Dyna
 [(USA) Select online marketplaces](usa-select-online-marketplaces.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

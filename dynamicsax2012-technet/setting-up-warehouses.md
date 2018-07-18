@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up warehouses
 TOCTitle: Setting up warehouses
 ms:assetid: e3d901fb-0aaa-46a4-8ec3-ee32d0bbb9ca
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553207(v=AX.60)
 ms:contentKeyID: 62200174
 ms.date: 04/23/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up warehouses 
@@ -40,5 +42,5 @@ The topics in this section provide information about setting up and maintaining 
 [Create a location directive](create-a-location-directive.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

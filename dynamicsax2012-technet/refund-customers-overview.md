@@ -1,4 +1,4 @@
-﻿---
+---
 title: Refund customers overview
 TOCTitle: Refund customers overview
 ms:assetid: d3986176-ed65-42d9-901f-2057bdd8f913
@@ -10,6 +10,8 @@ f1_keywords:
 - customer
 - customers
 - refund
+audience: Application User
+ms.search.region: Global
 ---
 
 # Refund customers overview 
@@ -69,5 +71,5 @@ The following table lists the forms that support the refund customers business p
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

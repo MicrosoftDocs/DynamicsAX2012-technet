@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a partial storno transaction for a transfer order shipment using negative shipped quantity
 TOCTitle: (RUS) Create a partial storno transaction for a transfer order shipment using negative shipped quantity
 ms:assetid: 9f024815-25fc-4f11-afa5-7f071696f179
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - storno
 - transfer shipment order
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a partial storno transaction for a transfer order shipment using negative shipped quantity 
@@ -81,5 +83,5 @@ You can create a partial storno transaction by specifying part of the shipped qu
 [(RUS) Inventory transactions (modified form)](https://technet.microsoft.com/en-us/library/jj733410\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

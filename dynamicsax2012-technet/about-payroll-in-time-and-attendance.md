@@ -1,4 +1,4 @@
-﻿---
+---
 title: About payroll in Time and attendance
 TOCTitle: About payroll in Time and attendance
 ms:assetid: fc0eb584-b49c-4cc4-88f0-8709d072d5ce
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499883(v=AX.60)
 ms:contentKeyID: 44081063
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About payroll in Time and attendance 
@@ -76,5 +78,5 @@ You can add manual premiums, such as mileage, to a worker’s registrations when
 [Create pay types in time and attendance](create-pay-types-in-time-and-attendance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

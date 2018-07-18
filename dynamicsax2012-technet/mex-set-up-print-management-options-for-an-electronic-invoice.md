@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Set up print management options for an electronic invoice
 TOCTitle: (MEX) Set up print management options for an electronic invoice
 ms:assetid: 8cb8f8ff-6ea3-48f2-be97-6860e9e206fd
@@ -11,6 +11,8 @@ f1_keywords:
 - set up
 - print management
 - electronic invoice
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Set up print management options for an electronic invoice 
@@ -45,5 +47,5 @@ Use the **Print management setup** and **Print destination settings** forms to s
 [About print management processing](about-print-management-processing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create, modify, or delete a case
 TOCTitle: Create, modify, or delete a case
 ms:assetid: 49f96407-517b-41ab-a51f-a5eeddde7439
@@ -10,6 +10,8 @@ f1_keywords:
 - AuditPolicyCaseAddEdit
 - CaseAddEdit
 - CaseOverview
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create, modify, or delete a case 
@@ -71,5 +73,5 @@ When a customer, vendor, or employee contacts you with a problem, you can create
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

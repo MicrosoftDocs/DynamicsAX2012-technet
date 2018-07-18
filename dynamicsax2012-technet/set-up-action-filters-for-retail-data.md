@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up action filters for Retail data
 TOCTitle: Set up action filters for Retail data
 ms:assetid: 0fe96a60-7051-47ea-8834-ca70884ef218
@@ -62,5 +62,5 @@ When modifications are made in tables for which you have set up action filters, 
   - To view a list of actions: Click **Retail** \> **Periodic** \> **Data distribution** \> **Actions**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

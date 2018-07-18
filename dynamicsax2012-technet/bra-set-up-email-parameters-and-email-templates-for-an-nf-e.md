@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up email parameters and email templates for an NF-e
 TOCTitle: (BRA) Set up email parameters and email templates for an NF-e
 ms:assetid: 1d49cdc0-e714-4024-9e92-6c2150e9ee03
@@ -23,6 +23,8 @@ f1_keywords:
 - MsDynAx060.Forms.FiscalEstablishment_BR
 - MsDynAx060.Forms.SysEmailTable
 - MsDynAx060.Forms.SysEmailParameters
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up email parameters and email templates for an NF-e 
@@ -91,5 +93,5 @@ Use the following procedure to set up email parameters to send a Nota Fiscal ele
 [(BRA) Generate emails for approved NF-e and attach DANFE PDF files and NF-e XML files to the emails](bra-generate-emails-for-approved-nf-e-and-attach-danfe-pdf-files-and-nf-e-xml-files-to-the-emails.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

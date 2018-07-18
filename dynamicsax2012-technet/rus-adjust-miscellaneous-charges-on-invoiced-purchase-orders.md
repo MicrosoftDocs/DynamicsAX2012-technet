@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Adjust miscellaneous charges on invoiced purchase orders
 TOCTitle: (RUS) Adjust miscellaneous charges on invoiced purchase orders
 ms:assetid: 2e68db2e-2c41-4ef9-a1c9-c4b363555d5e
@@ -13,6 +13,8 @@ f1_keywords:
 - invoiced
 - Russia
 - RUS
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Adjust miscellaneous charges on invoiced purchase orders 
@@ -49,5 +51,5 @@ Use this procedure to adjust charges on an invoiced purchase order and allocate 
 [(RUS) Allocate charges - Invoice (modified form)](https://technet.microsoft.com/en-us/library/jj665349\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

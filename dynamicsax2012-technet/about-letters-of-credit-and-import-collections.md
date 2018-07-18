@@ -1,4 +1,4 @@
-﻿---
+---
 title: About letters of credit and import collections
 TOCTitle: About letters of credit and import collections
 ms:assetid: 54049327-2d82-4ef7-99b4-20498d454872
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208954(v=AX.60)
 ms:contentKeyID: 36057302
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About letters of credit and import collections 
@@ -50,5 +52,5 @@ An import collection ensures payment to the seller when the buyer collects the s
 [Letter of credit / import collection (form)](https://technet.microsoft.com/en-us/library/hh209538\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

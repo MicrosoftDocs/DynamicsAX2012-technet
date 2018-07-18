@@ -1,4 +1,4 @@
-﻿---
+---
 title: Attach a question to a questionnaire without result groups
 TOCTitle: Attach a question to a questionnaire without result groups
 ms:assetid: c539a999-456b-47d0-ab32-5229aecf5208
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550742(v=AX.60)
 ms:contentKeyID: 37832530
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Attach a question to a questionnaire without result groups 
@@ -52,5 +54,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [Distributing questionnaires](distributing-questionnaires.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Queries
 TOCTitle: Queries
 ms:assetid: 402865ee-7d2e-4f9e-ad06-1fd3507b3975
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - queries
 - query
+audience: Application User
+ms.search.region: Global
 ---
 
 # Queries 
@@ -41,5 +43,5 @@ In the **Allowed fields** form, you can select the fields that can be plotted on
 Note - Fields that are plotted on the x-axis must be a form of data such as dates, customers and vendors, or employee names. Methods, such as revenue and quotations that have been won, can be plotted only on the y-axis.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

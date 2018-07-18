@@ -1,4 +1,4 @@
-﻿---
+---
 title: About multisite activation readiness
 TOCTitle: About multisite activation readiness
 ms:assetid: ad01439b-d81f-439f-9c8c-2e0acae556e5
@@ -277,5 +277,5 @@ The following table describes additional readiness checks that the validation pe
 [Configure site structure (form)](https://technet.microsoft.com/en-us/library/hh202081\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

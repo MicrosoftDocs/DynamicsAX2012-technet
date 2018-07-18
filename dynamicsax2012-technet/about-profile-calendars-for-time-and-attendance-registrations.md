@@ -1,4 +1,4 @@
-﻿---
+---
 title: About profile calendars for time and attendance registrations
 TOCTitle: About profile calendars for time and attendance registrations
 ms:assetid: eddb263d-134b-4781-85d1-343028f2d440
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551543(v=AX.60)
 ms:contentKeyID: 39519358
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About profile calendars for time and attendance registrations 
@@ -26,5 +28,5 @@ You can use this functionality in situations where you must make a temporary cha
 [Create profile calendar entries](create-profile-calendar-entries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

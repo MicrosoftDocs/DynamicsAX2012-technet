@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Create a customer payment transfer
 TOCTitle: (HUN) Create a customer payment transfer
 ms:assetid: 7169d037-c9f0-4be1-8d0a-1a593dbbb515
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664307(v=AX.60)
 ms:contentKeyID: 49385396
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Create a customer payment transfer 
@@ -62,5 +64,5 @@ You can define an export file format when you set up a payment method. When you 
 [(HUN) Create a single vendor payment transfer](hun-create-a-single-vendor-payment-transfer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

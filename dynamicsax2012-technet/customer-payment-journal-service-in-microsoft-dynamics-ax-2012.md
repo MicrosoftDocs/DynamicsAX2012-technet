@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer Payment Journal Service in Microsoft Dynamics AX 2012
 TOCTitle: Customer Payment Journal Service in Microsoft Dynamics AX 2012
 ms:assetid: 355aa550-10ea-4663-882d-bfedfe375e6b
@@ -18,5 +18,5 @@ This white paper provides an overview of operations that are exposed in the Cust
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=282346).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

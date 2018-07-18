@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up customer posting profiles for deposits
 TOCTitle: (POL) Set up customer posting profiles for deposits
 ms:assetid: 48ad9fff-cb9e-42e3-9476-3007d2d76c10
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - customer posting profiles
 - Poland
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up customer posting profiles for deposits 
@@ -45,5 +47,5 @@ Use the **Customer posting profiles** form to set up a main account number for t
 [(POL) Set up returnable packages for a customer](pol-set-up-returnable-packages-for-a-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up tax components for customs
 TOCTitle: (IND) Set up tax components for customs
 ms:assetid: 428e1355-9978-44d1-9fb8-d93f1b983e01
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664653(v=AX.60)
 ms:contentKeyID: 49385771
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up tax components for customs 
@@ -86,5 +88,5 @@ You can offset the amounts in the excise payable account with the amounts in the
 [(IND) Tax setoff rule (form)](https://technet.microsoft.com/en-us/library/jj677818\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

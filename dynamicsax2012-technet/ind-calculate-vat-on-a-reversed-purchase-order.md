@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate VAT on a reversed purchase order
 TOCTitle: (IND) Calculate VAT on a reversed purchase order
 ms:assetid: 21ea2fb0-f422-491d-999a-3953e35dcd0e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664551(v=AX.60)
 ms:contentKeyID: 49385630
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate VAT on a reversed purchase order 
@@ -41,5 +43,5 @@ If capital goods are returned after the transfer of the VAT deferment installmen
 [(IND) Copy purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664580\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

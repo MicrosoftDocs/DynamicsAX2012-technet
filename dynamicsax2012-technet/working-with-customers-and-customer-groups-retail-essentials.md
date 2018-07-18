@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with customers and customer groups (Retail essentials)
 TOCTitle: Working with customers and customer groups (Retail essentials)
 ms:assetid: 5bd24cb8-bf7b-463f-b91b-a0369336753d
@@ -69,5 +69,5 @@ Use this procedure to create one or more customer groups.
 [Create or modify quotations (Retail essentials)](create-or-modify-quotations-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

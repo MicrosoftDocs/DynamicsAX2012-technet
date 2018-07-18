@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deprecated features
 TOCTitle: Deprecated features
 ms:assetid: 56e18a52-7614-40dc-ba9a-ce5d1505ec8f
@@ -170,5 +170,5 @@ The topics in this section describe features that have been removed from the app
 [Deprecated: X++ Workflow API](deprecated-x-workflow-api.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

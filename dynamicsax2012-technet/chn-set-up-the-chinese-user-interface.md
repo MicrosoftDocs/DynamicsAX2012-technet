@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Set up the Chinese user interface
 TOCTitle: (CHN) Set up the Chinese user interface
 ms:assetid: 022a82d8-1c1d-413e-b4b0-f0b73a48253b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - user interface
 - Chinese
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Set up the Chinese user interface 
@@ -101,5 +103,5 @@ The address format determines how addresses are displayed when you print them. I
 [(CHN) Import ZIP/postal codes](chn-import-zip-postal-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

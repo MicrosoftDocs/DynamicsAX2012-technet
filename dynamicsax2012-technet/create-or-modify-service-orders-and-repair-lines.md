@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify service orders and repair lines
 TOCTitle: Create or modify service orders and repair lines
 ms:assetid: aa86b1ec-ebeb-473b-8dd2-d5cee0906b66
@@ -13,6 +13,8 @@ f1_keywords:
 - EPServiceOrderLineCreate
 - EPServiceRepairLineCreate
 - EPServiceRepairLineEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify service orders and repair lines 
@@ -211,5 +213,5 @@ Each service order contains one or more service order lines. These lines provide
 [View service orders](view-service-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

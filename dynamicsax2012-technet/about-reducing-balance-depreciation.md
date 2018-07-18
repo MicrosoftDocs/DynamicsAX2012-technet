@@ -1,4 +1,4 @@
-﻿---
+---
 title: About reducing balance depreciation
 TOCTitle: About reducing balance depreciation
 ms:assetid: dd47c83e-b38a-4acc-8066-5bfd498a49a6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551268(v=AX.60)
 ms:contentKeyID: 36931884
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About reducing balance depreciation 
@@ -121,5 +123,5 @@ If triple the depreciation rate of the straight line method is greater than the 
 [Key tasks: Fiscal calendars, fiscal years, and periods](key-tasks-fiscal-calendars-fiscal-years-and-periods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

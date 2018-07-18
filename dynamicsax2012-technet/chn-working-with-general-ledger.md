@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Working with General ledger
 TOCTitle: (CHN) Working with General ledger
 ms:assetid: c555a949-d94a-4605-ac8f-ac978708b19c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664110(v=AX.60)
 ms:contentKeyID: 49384694
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Working with General ledger 
@@ -22,5 +24,5 @@ This section provides information about working with the General ledger business
 [(CHN) Financial ledger account inquiries](chn-financial-ledger-account-inquiries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

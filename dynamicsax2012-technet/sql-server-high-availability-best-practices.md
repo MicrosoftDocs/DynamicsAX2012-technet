@@ -1,4 +1,4 @@
-﻿---
+---
 title: SQL Server High Availability best practices
 TOCTitle: SQL Server High Availability best practices
 ms:assetid: d175810d-6d0d-49a3-a889-0bd545c325a2
@@ -22,5 +22,5 @@ If Microsoft SQL Server high availability services such as failover clustering, 
 For detailed recommendations on how to set up a Microsoft Dynamics AX system for high availability, see [SQL Server topology recommendations for availability and performance](sql-server-topology-recommendations-for-availability-and-performance.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

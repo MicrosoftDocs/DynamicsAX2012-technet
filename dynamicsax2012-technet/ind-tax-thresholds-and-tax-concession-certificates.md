@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Tax thresholds and tax concession certificates
 TOCTitle: (IND) Tax thresholds and tax concession certificates
 ms:assetid: 7264e8f3-69ce-420e-aa4d-936aa1f4527d
@@ -20,6 +20,8 @@ f1_keywords:
 - threshold values
 - threshold limit
 - Tax threshold
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Tax thresholds and tax concession certificates 
@@ -154,5 +156,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [(IND) Withholding tax values (modified form)](https://technet.microsoft.com/en-us/library/jj710990\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

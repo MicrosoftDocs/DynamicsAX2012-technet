@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sign up for an account
 TOCTitle: Sign up for an account
 ms:assetid: ddf30acd-2d27-45dc-8fe2-a23a3088c29a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPCSSCustSignUpGuest
 - EPCSSCustSignUpUserActivation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Sign up for an account 
@@ -35,5 +37,5 @@ You can use the Customer self-service portal on Enterprise Portal for Microsoft 
 [About shopping for items](about-shopping-for-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

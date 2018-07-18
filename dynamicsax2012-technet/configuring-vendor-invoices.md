@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring vendor invoices
 TOCTitle: Configuring vendor invoices
 ms:assetid: 647ed4b3-d7b9-4ac2-bb34-76da59c0f4e6
@@ -17,6 +17,8 @@ f1_keywords:
 - footers
 - management
 - matching
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring vendor invoices 
@@ -45,5 +47,5 @@ The following topics provide information about configuring vendor invoices.
 [Set up vendor invoice workflows](set-up-vendor-invoice-workflows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

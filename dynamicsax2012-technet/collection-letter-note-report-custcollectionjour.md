@@ -1,4 +1,4 @@
-﻿---
+---
 title: Collection letter note report (CustCollectionJour)
 TOCTitle: Collection letter note report (CustCollectionJour)
 ms:assetid: bc53edd7-6de0-4d81-a6b9-ad810736e3cc
@@ -138,5 +138,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Collection letter overview report (CustCollectionLetterOverview)](collection-letter-overview-report-custcollectionletteroverview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

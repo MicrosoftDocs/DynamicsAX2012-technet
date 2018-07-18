@@ -1,4 +1,4 @@
-﻿---
+---
 title: User relations upgrade missing contact person
 TOCTitle: User relations upgrade missing contact person
 ms:assetid: d780e943-8ef3-436e-8d69-4fac44961a31
@@ -28,5 +28,5 @@ Use this form to resolve issues when a user relation is not assigned a contact r
 4.  Use the **Contact** person drop-down list to select a contact representative in your business or organization.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

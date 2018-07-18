@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a tax register journal
 TOCTitle: (RUS) Create and post a tax register journal
 ms:assetid: 1c7005cc-05f0-48ab-b7b4-7669ec068c78
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856110(v=AX.60)
 ms:contentKeyID: 50406409
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a tax register journal 
@@ -50,5 +52,5 @@ Use this procedure to create and post a tax register journal. After you create a
 [(RUS) Create and post a payment journal line for an advance holder](rus-create-and-post-a-payment-journal-line-for-an-advance-holder.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Associate contact information with a contact
 TOCTitle: Associate contact information with a contact
 ms:assetid: 0e66c9de-17e8-4e72-b41a-36437899c1cf
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - SmmContactPersonSelectEA
+audience: Application User
+ms.search.region: Global
 ---
 
 # Associate contact information with a contact 
@@ -28,5 +30,5 @@ You can associate existing contact information for a person or organization part
 5.  Click **Associate**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

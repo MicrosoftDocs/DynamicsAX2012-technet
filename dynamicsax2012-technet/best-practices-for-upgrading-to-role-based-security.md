@@ -1,4 +1,4 @@
-﻿---
+---
 title: Best practices for upgrading to role-based security
 TOCTitle: Best practices for upgrading to role-based security
 ms:assetid: 148d7aad-9092-4cec-8b57-52223ebf3730
@@ -74,5 +74,5 @@ The concept of security keys no longer applies in Microsoft Dynamics AX 2012. In
 [Upgrade domains](upgrade-domains.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

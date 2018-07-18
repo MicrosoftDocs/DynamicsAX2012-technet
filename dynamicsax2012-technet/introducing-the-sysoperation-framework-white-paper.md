@@ -1,4 +1,4 @@
-﻿---
+---
 title: Introducing the SysOperation Framework (White paper)
 TOCTitle: Introducing the SysOperation Framework
 ms:assetid: 203592c6-041d-4429-bfaf-71838ef170f7
@@ -18,5 +18,5 @@ This paper provides a comparison of the new SysOperation framework that was intr
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=246316).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

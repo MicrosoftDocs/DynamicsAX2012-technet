@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Process the return of purchased items
 TOCTitle: (BRA) Process the return of purchased items
 ms:assetid: 893bbcbb-8cc9-4482-b9ef-cad21185bcb4
@@ -11,6 +11,8 @@ f1_keywords:
 - Brazil
 - purchased goods
 - return of purchased goods
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Process the return of purchased items 
@@ -54,5 +56,5 @@ Legal entities can record the return of items that they purchased from a vendor.
 [(BRA) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj911252\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

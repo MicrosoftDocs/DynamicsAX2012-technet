@@ -1,4 +1,4 @@
-﻿---
+---
 title: Access alerts
 TOCTitle: Access alerts
 ms:assetid: 159563f5-adb4-46b0-bd9f-decfb679c78d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569882(v=AX.60)
 ms:contentKeyID: 46687538
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Access alerts 
@@ -28,5 +30,5 @@ You can access the **Alerts** function from various locations and by using vario
 [About alerts](about-alerts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

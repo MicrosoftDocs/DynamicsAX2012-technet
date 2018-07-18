@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up trade allowance funds
 TOCTitle: Set up trade allowance funds
 ms:assetid: daad2d1f-d1c6-4fc7-ae42-d04fbbb7c8a4
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.TAMPromotionParameters
 - Forms.TAMPromotionPeriod
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up trade allowance funds 
@@ -86,5 +88,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

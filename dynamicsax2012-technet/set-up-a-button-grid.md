@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a button grid
 TOCTitle: Set up a button grid
 ms:assetid: 83a6931a-99de-42b2-8db1-6dc477614f84
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597148(v=AX.60)
 ms:contentKeyID: 39519204
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a button grid 
@@ -56,5 +58,5 @@ The button grid retains information about its appearance on the register, such a
 [About setting up screen layouts](about-setting-up-screen-layouts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

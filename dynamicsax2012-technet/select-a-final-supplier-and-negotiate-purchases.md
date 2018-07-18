@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select a final supplier and negotiate purchases
 TOCTitle: Select a final supplier and negotiate purchases
 ms:assetid: df44fdff-f8d3-4d46-a18f-e2db4e990441
@@ -15,6 +15,8 @@ f1_keywords:
 - final suppliers
 - negotiation
 - vendor selection
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select a final supplier and negotiate purchases 
@@ -61,5 +63,5 @@ The topics in this section provide information about how to select a final suppl
 [Create a contact for an unsolicited vendor](create-a-contact-for-an-unsolicited-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

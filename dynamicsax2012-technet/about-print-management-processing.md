@@ -1,4 +1,4 @@
-﻿---
+---
 title: About print management processing
 TOCTitle: About print management processing
 ms:assetid: 1cffff79-b864-4ba6-a622-5c0128745c1e
@@ -33,6 +33,8 @@ f1_keywords:
 - printer
 - printers
 - setting
+audience: Application User
+ms.search.region: Global
 ---
 
 # About print management processing 
@@ -143,5 +145,5 @@ You might use a custom report format for specific accounts. For example, you mig
 [Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Microsoft Dynamics Business Analyzer Windows 8 App"
 TOCTitle: Microsoft Dynamics Business Analyzer Windows 8 App
 ms:assetid: 7b9ca5fd-c547-4d6f-8f9c-7112b8b44ae0
@@ -73,5 +73,5 @@ For more information about Business Analyzer, see [Microsoft Dynamics Business A
 To configure your Microsoft Dynamics AX environment to use Business Analyzer, see [Configure the Microsoft Dynamics AX environment for companion apps](http://go.microsoft.com/fwlink/?linkid=281929%26clcid=0x409).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

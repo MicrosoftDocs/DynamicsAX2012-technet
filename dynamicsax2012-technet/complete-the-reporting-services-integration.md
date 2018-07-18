@@ -1,4 +1,4 @@
-﻿---
+---
 title: Complete the Reporting Services integration
 TOCTitle: Complete the Reporting Services integration
 ms:assetid: 5e06a140-b990-4ff9-ac9a-7f3f5f0af694
@@ -36,5 +36,5 @@ If you are running Reporting Services in SharePoint integrated mode, complete th
 3.  [Grant users access to reports](grant-users-access-to-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

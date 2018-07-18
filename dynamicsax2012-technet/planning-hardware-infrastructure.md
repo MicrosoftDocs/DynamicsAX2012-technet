@@ -1,4 +1,4 @@
-﻿---
+---
 title: Planning hardware infrastructure
 TOCTitle: Planning hardware infrastructure
 ms:assetid: e10f80b4-7816-492f-976a-4cb45c66ed65
@@ -112,5 +112,5 @@ For example, if users access Microsoft Dynamics AX over a WAN by using the Windo
 [Plan system topology](plan-system-topology.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

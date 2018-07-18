@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain your courses
 TOCTitle: Add and maintain your courses
 ms:assetid: c38f0348-b43c-4ccc-b6f4-dd80d3781b3a
@@ -10,6 +10,8 @@ f1_keywords:
 - HcmEPPersonCourseCreate
 - HcmEPPersonCourseEdit
 - HcmEPPersonCourseInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain your courses 
@@ -78,5 +80,5 @@ Use the **Competencies** page to add or maintain information about courses that 
 [Add and maintain your positions of trust](add-and-maintain-your-positions-of-trust.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

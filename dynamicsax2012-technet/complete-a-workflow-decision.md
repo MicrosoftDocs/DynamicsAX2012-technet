@@ -1,4 +1,4 @@
-﻿---
+---
 title: Complete a workflow decision
 TOCTitle: Complete a workflow decision
 ms:assetid: 75060c5c-7887-4502-ab7f-5e33820d4a9c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202072(v=AX.60)
 ms:contentKeyID: 35949316
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Complete a workflow decision 
@@ -63,5 +65,5 @@ Follow these steps to make a decision.
     </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

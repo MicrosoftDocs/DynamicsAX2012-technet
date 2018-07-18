@@ -1,4 +1,4 @@
-﻿---
+---
 title: Monitor sales progress
 TOCTitle: Monitor sales progress
 ms:assetid: 21490bf3-c183-4968-8563-5d975bda3dd6
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - sales progress
+audience: Application User
+ms.search.region: Global
 ---
 
 # Monitor sales progress 
@@ -20,5 +22,5 @@ The topics in this section provide information that can help you monitor the pro
 [Opportunity management](opportunity-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

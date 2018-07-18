@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 8
 TOCTitle: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 8
 ms:assetid: 85464aba-1f03-4f65-ad45-c125cd0e7b7c
@@ -221,5 +221,5 @@ In Microsoft Dynamics AX 2012 R3 Cumulative Update 8, we added and changed sever
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

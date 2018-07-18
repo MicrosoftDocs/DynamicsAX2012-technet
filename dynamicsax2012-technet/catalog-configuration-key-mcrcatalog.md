@@ -1,4 +1,4 @@
-﻿---
+---
 title: Catalog configuration key (MCRCatalog)
 TOCTitle: Catalog configuration key (MCRCatalog)
 ms:assetid: 7b62b46a-038e-4ae8-8266-5016a4abc1a8
@@ -61,5 +61,5 @@ For more information about how license codes and configuration keys work togethe
 Process a catalog request
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

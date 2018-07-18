@@ -1,4 +1,4 @@
-﻿---
+---
 title: About calculation variables
 TOCTitle: About calculation variables
 ms:assetid: cfab19ea-bd7e-433e-90be-32d3e63fcd5e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - product builder
 - Calculation variables
+audience: Application User
+ms.search.region: Global
 ---
 
 # About calculation variables 
@@ -84,5 +86,5 @@ Except for modeling variables, **Simple** and **Data type** variables are the mo
 **Table** and **Class** variables are intended for users who have some programming experience. Their purpose is to allow the nodes for the product model, in the modeling tree, to handle Microsoft Dynamics AX tables and classes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

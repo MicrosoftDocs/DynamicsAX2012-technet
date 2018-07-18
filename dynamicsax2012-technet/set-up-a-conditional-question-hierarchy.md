@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a conditional question hierarchy
 TOCTitle: Set up a conditional question hierarchy
 ms:assetid: 8815c623-b3fd-4471-a1a0-920beac14327
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498221(v=AX.60)
 ms:contentKeyID: 42117763
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a conditional question hierarchy 
@@ -58,5 +60,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [Distributing questionnaires](distributing-questionnaires.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

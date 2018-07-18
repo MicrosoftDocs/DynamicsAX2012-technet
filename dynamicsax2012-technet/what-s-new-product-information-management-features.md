@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Product information management features"
 TOCTitle: Product information management features
 ms:assetid: 44620561-2b42-4a4d-99f6-c952b74de93d
@@ -154,5 +154,5 @@ We have changed and added functionality in the [Product information management](
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

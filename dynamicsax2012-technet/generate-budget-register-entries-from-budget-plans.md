@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate budget register entries from budget plans
 TOCTitle: Generate budget register entries from budget plans
 ms:assetid: 0a60643e-df9a-4126-a7e1-4c900b574aac
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677321(v=AX.60)
 ms:contentKeyID: 49384094
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate budget register entries from budget plans 
@@ -164,5 +166,5 @@ The following table shows two budget plan lines and the budget register entry li
 [Generate budget register entry (form)](https://technet.microsoft.com/en-us/library/jj710365\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

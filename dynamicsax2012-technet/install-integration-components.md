@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install integration components
 TOCTitle: Install integration components
 ms:assetid: d6985ee9-064b-4bee-b18f-d745f93fa8f6
@@ -28,5 +28,5 @@ The following topics are included in this section:
 [Install the synchronization service for Microsoft Project Server](install-the-synchronization-service-for-microsoft-project-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

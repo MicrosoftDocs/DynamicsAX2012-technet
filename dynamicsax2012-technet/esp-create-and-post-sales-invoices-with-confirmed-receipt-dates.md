@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Create and post sales invoices with confirmed receipt dates
 TOCTitle: (ESP) Create and post sales invoices with confirmed receipt dates
 ms:assetid: 736b2be2-7fb5-4ea9-9a1a-0b3807a85027
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923604(v=AX.60)
 ms:contentKeyID: 52075221
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Create and post sales invoices with confirmed receipt dates 
@@ -40,5 +42,5 @@ Use the **Sales order** and **Posting invoice** forms to create and post sales i
 [(ESP) Terms of payment (modified form)](https://technet.microsoft.com/en-us/library/jj910987\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

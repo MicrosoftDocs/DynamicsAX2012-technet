@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Create a credit correction for packing slip ledger postings during sales invoice posting
 TOCTitle: (POL) Create a credit correction for packing slip ledger postings during sales invoice posting
 ms:assetid: 3f2ac0a7-75c5-4c78-860f-c542dea3001e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678180(v=AX.60)
 ms:contentKeyID: 49386904
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Create a credit correction for packing slip ledger postings during sales invoice posting 
@@ -36,5 +38,5 @@ For a sales order, you can post a packing slip for credit correction in the **Po
 5.  Click **OK** to post the invoice.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a consolidated batch order
 TOCTitle: Create a consolidated batch order
 ms:assetid: d3e7ab59-5703-4c04-b9d7-c7af3571c2bc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh328581(v=AX.60)
 ms:contentKeyID: 36688003
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a consolidated batch order 
@@ -53,5 +55,5 @@ Use this procedure to create, maintain, and view a consolidated order, which is 
 [Consolidated batch orders (form)](https://technet.microsoft.com/en-us/library/hh328731\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

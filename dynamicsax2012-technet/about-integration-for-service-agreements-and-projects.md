@@ -1,4 +1,4 @@
-﻿---
+---
 title: About integration for service agreements and projects
 TOCTitle: About integration for service agreements and projects
 ms:assetid: dbd8a31d-5686-4640-b043-850d7ec427b0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551252(v=AX.60)
 ms:contentKeyID: 36059670
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About integration for service agreements and projects 
@@ -70,5 +72,5 @@ Also, you can enable the **Start time** and **End time** fields on the **Project
 For more information about journal names for projects, see [About journal names](about-journal-names.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

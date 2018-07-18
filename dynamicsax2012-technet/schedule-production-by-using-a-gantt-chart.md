@@ -1,4 +1,4 @@
-﻿---
+---
 title: Schedule production by using a Gantt chart
 TOCTitle: Schedule production by using a Gantt chart
 ms:assetid: e0d08111-a65a-4ba5-9398-b20b2a8bf61b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243208(v=AX.60)
 ms:contentKeyID: 44081054
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Schedule production by using a Gantt chart 
@@ -80,5 +82,5 @@ You can simulate various scheduling scenarios and then cancel changes that do no
 [Gantt chart views (form)](https://technet.microsoft.com/en-us/library/hh803013\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

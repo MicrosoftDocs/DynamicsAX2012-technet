@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot issues in Synch Service
 TOCTitle: Troubleshoot issues in Synch Service
 ms:assetid: 60b6ee43-5e95-4eca-9736-b4d53b7d38d6
@@ -316,5 +316,5 @@ Use the information in the following table to troubleshoot issues with data pack
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

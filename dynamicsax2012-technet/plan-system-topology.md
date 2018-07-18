@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan system topology
 TOCTitle: Plan system topology
 ms:assetid: 7b58645f-6f07-4033-b533-96efdd54b343
@@ -44,5 +44,5 @@ Plan your system topology carefully before deploying Microsoft Dynamics AX. Envi
 [Hardware and software requirements](hardware-and-software-requirements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

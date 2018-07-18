@@ -1,4 +1,4 @@
-﻿---
+---
 title: About WIP subscription accounts
 TOCTitle: About WIP subscription accounts
 ms:assetid: 5a19469d-e7ac-43c6-b84c-2a6f037e7623
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - WIP
 - subscription account
+audience: Application User
+ms.search.region: Global
 ---
 
 # About WIP subscription accounts 
@@ -111,5 +113,5 @@ Subscription group - Accrued revenue for subscriptions can only be posted if the
 [Line properties (form)](https://technet.microsoft.com/en-us/library/aa590082\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new for application users
 TOCTitle: What's new for application users
 ms:assetid: d44a42eb-3ce0-48dc-9ed3-be670d1cda2d
@@ -173,5 +173,5 @@ Use the following links to go to topics on TechNet that are important for applic
 [AX Developer Center on MSDN](http://go.microsoft.com/fwlink/?linkid=110356)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Call center features"
 TOCTitle: Call center features
 ms:assetid: 8b176114-3f7b-425d-8ff7-ab3b721dfbe4
@@ -230,5 +230,5 @@ We have added the call center as a new type of retail channel in Microsoft Dynam
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up number sequences for Fixed assets
 TOCTitle: Set up number sequences for Fixed assets
 ms:assetid: fd319d2b-901e-4d82-b12d-5aa23546d146
@@ -11,6 +11,8 @@ f1_keywords:
 - number sequence
 - asset number sequence
 - FA number sequence
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up number sequences for Fixed assets 
@@ -63,5 +65,5 @@ You can set up separate number sequences for bar codes for fixed assets. For mor
 You must create number sequences for the journals that you will use to post fixed asset transactions and also enter a number sequence in the journal before you create fixed asset transactions. The journals that are usually used for fixed asset transactions are **Fixed assets**, **Inventory to fixed assets**, **General journal**, and **Fixed asset budget**. Depreciation book journals use the same number sequence that is defined for the **Journal batch number** reference in the **General ledger parameters** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

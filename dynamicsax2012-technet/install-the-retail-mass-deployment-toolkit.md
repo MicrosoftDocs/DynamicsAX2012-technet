@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the Retail mass deployment toolkit
 TOCTitle: Install the Retail mass deployment toolkit
 ms:assetid: ece974c0-634d-4b2e-8744-e2f96ff35fa2
@@ -75,5 +75,5 @@ Follow these steps to initialize the toolkit.
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

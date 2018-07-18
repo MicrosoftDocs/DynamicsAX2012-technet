@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an electronic exchange format for a client bank
 TOCTitle: (RUS) Set up an electronic exchange format for a client bank
 ms:assetid: 895b66cb-e2c7-44f4-88a7-e8a442a51521
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839677(v=AX.60)
 ms:contentKeyID: 50396823
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an electronic exchange format for a client bank 
@@ -88,5 +90,5 @@ Use the **Exchange formats of client-bank** form to set up an electronic exchang
 [(RUS) Exchange formats of client-bank (form)](https://technet.microsoft.com/en-us/library/jj733242\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an advance holder group
 TOCTitle: (RUS) Set up an advance holder group
 ms:assetid: d2f856d6-10cc-4912-9b2b-c922af277ead
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711649(v=AX.60)
 ms:contentKeyID: 49387973
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an advance holder group 
@@ -34,5 +36,5 @@ You must create an advance holder group in order to group advance holders. For e
 6.  Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

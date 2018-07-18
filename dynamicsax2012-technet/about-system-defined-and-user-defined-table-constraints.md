@@ -1,4 +1,4 @@
-﻿---
+---
 title: About system-defined and user-defined table constraints
 TOCTitle: About system-defined and user-defined table constraints
 ms:assetid: c0cca2bf-bb1d-4468-b2a0-cf5b8303e188
@@ -10,6 +10,8 @@ f1_keywords:
 - product configurator
 - table constraint
 - user-defined
+audience: Application User
+ms.search.region: Global
 ---
 
 # About system-defined and user-defined table constraints 
@@ -82,5 +84,5 @@ When you create a system-defined table constraint, you select a table, define th
 [About product configuration models](about-product-configuration-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

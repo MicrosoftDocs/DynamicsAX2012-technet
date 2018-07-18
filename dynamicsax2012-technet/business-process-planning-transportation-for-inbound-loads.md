@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Business process: Planning transportation for inbound loads'
 TOCTitle: 'Business process: Planning transportation for inbound loads'
 ms:assetid: f11ea3bf-c58c-49c6-924c-fe505f4f7f06
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn770238(v=AX.60)
 ms:contentKeyID: 62524898
 ms.date: 06/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Business process: Planning transportation for inbound loads 
@@ -66,5 +68,5 @@ Use the information in the following table to learn how to plan transportation f
 [Business process: Planning and processing outbound loads for shipping](business-process-planning-and-processing-outbound-loads-for-shipping.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

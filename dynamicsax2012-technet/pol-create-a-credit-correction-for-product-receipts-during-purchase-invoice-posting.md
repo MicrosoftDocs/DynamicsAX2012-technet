@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Create a credit correction for product receipts during purchase invoice posting
 TOCTitle: (POL) Create a credit correction for product receipts during purchase invoice posting
 ms:assetid: 96c763b7-d0cf-4abf-a337-13c4f239b110
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678303(v=AX.60)
 ms:contentKeyID: 49387025
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Create a credit correction for product receipts during purchase invoice posting 
@@ -57,5 +59,5 @@ By using the **Posting product receipt** form, you can post a product receipt fo
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

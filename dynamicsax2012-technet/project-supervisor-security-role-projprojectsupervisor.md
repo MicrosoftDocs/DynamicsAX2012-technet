@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project supervisor security role (ProjProjectSupervisor)
 TOCTitle: Project supervisor security role (ProjProjectSupervisor)
 ms:assetid: 5dfc2c06-5efa-40bf-90c0-9bf98668b7df
@@ -240,5 +240,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

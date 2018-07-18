@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Create a free text invoice that includes the VAT exchange rate
 TOCTitle: (HUN) Create a free text invoice that includes the VAT exchange rate
 ms:assetid: d0415283-110a-41d3-a3a7-d4123dd74d60
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664377(v=AX.60)
 ms:contentKeyID: 49385465
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Create a free text invoice that includes the VAT exchange rate 
@@ -51,5 +53,5 @@ Organizations are not required to calculate value-added tax (VAT) amounts based 
 [(HUN) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664221\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

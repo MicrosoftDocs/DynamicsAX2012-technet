@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up lines for a cost template
 TOCTitle: Set up lines for a cost template
 ms:assetid: 50e95c3e-8664-4e7e-832e-534a9cc9274d
@@ -11,6 +11,8 @@ f1_keywords:
 - cost template
 - cost estimates
 - cost line
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up lines for a cost template 
@@ -44,5 +46,5 @@ You can modify this setup by adding cost lines in the **Estimate template** form
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

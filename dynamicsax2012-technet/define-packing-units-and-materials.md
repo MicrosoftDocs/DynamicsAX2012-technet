@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define packing units and materials
 TOCTitle: Define packing units and materials
 ms:assetid: 59e0253f-3245-4367-860c-b5824a61b762
@@ -10,6 +10,8 @@ f1_keywords:
 - materials
 - packing materials
 - packing units
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define packing units and materials 
@@ -44,5 +46,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [About product dimensions](about-product-dimensions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

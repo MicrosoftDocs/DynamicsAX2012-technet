@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Balance list with group total accounts report (LedgerAccountSum_FR)
 TOCTitle: (FRA) Balance list with group total accounts report (LedgerAccountSum_FR)
 ms:assetid: 9550508b-2b78-4f8b-95c0-7a14fab1ab77
@@ -163,5 +163,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

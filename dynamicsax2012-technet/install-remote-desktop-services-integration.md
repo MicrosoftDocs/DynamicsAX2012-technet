@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Remote Desktop Services integration
 TOCTitle: Install Remote Desktop Services integration
 ms:assetid: 59891698-40b9-4d94-b75a-14e0c1e2231b
@@ -44,5 +44,5 @@ Use this procedure to install the Remote Desktop Services integration components
 9.  After the installation is completed, click **Finish** to close the wizard.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

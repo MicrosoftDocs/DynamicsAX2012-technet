@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Close books overview
 TOCTitle: (BRA) Close books overview
 ms:assetid: b2e7e3bf-a5c2-46a5-83ea-51e5810bc16f
@@ -10,6 +10,8 @@ f1_keywords:
 - BRA
 - Brazil
 - close books
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Close books overview 
@@ -30,5 +32,5 @@ The following topic provides information about closing books.
 [(BRA) Generate a trial balance report](bra-generate-a-trial-balance-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

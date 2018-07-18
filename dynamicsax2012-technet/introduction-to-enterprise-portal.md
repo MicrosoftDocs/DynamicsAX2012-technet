@@ -1,4 +1,4 @@
-﻿---
+---
 title: Introduction to Enterprise Portal
 TOCTitle: Introduction to Enterprise Portal
 ms:assetid: 881b4af1-3f03-476f-9ec4-47f241a21561
@@ -12,6 +12,8 @@ f1_keywords:
 - web
 - enterprise portal
 - self service
+audience: Application User
+ms.search.region: Global
 ---
 
 # Introduction to Enterprise Portal 
@@ -40,5 +42,5 @@ The topics in this section include information about Enterprise Portal.
 [About Enterprise Portal Browser requirements](about-enterprise-portal-browser-requirements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

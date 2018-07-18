@@ -1,4 +1,4 @@
-﻿---
+---
 title: " cost"
 TOCTitle: " cost"
 ms:assetid: DynamicsAXGlossary.1468795
@@ -21,5 +21,5 @@ The value of an economic resource that is quantified in monetary units and that 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

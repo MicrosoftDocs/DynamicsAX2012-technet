@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a channel data group (Retail essentials)
 TOCTitle: Create a channel data group (Retail essentials)
 ms:assetid: 0bef7e59-9f5c-4c2f-98f5-aca5cb8c8b5c
@@ -41,5 +41,5 @@ To create a channel data group, follow these steps:
 [Set up connection profiles (Retail essentials)](set-up-connection-profiles-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

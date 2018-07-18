@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cost accountant security role (InventCostAccountant)
 TOCTitle: Cost accountant security role (InventCostAccountant)
 ms:assetid: 859b19f6-8921-46e4-9971-f6b5f340c350
@@ -200,5 +200,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

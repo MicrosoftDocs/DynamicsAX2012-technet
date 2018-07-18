@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post and print a reverse transaction for a purchase order credit note
 TOCTitle: (RUS) Post and print a reverse transaction for a purchase order credit note
 ms:assetid: f07df8df-ebc3-46e9-82da-725dad573364
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678592(v=AX.60)
 ms:contentKeyID: 49388074
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post and print a reverse transaction for a purchase order credit note 
@@ -91,5 +93,5 @@ You can post a purchase order credit note transaction as a reverse transaction b
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

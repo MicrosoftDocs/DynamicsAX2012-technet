@@ -1,4 +1,4 @@
-﻿---
+---
 title: Approve vendor invoices
 TOCTitle: Approve vendor invoices
 ms:assetid: 2a7faf20-2268-4852-872b-ac3bcbfa69ef
@@ -11,6 +11,8 @@ f1_keywords:
 - vendors
 - vendor invoice
 - vendor invoices
+audience: Application User
+ms.search.region: Global
 ---
 
 # Approve vendor invoices 
@@ -23,5 +25,5 @@ The following topics provide information about approving vendor invoices.
 [Post invoices in the Invoice approval journal form](post-invoices-in-the-invoice-approval-journal-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

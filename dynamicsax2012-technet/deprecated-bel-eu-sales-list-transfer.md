@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BEL) EU sales list transfer'
 TOCTitle: (BEL) EU sales list transfer
 ms:assetid: 7a0cba9c-35a6-46d7-96ff-2372d4a044f2
@@ -55,5 +55,5 @@ In Microsoft Dynamics AX 2009, there are two European Union (EU) sales list tran
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

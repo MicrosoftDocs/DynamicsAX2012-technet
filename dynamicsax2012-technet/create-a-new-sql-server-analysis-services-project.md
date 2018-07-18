@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a New SQL Server Analysis Services Project
 TOCTitle: Create a New SQL Server Analysis Services Project
 ms:assetid: 134366bb-2430-4ebf-bacf-3aa2ee4ea0b9
@@ -75,5 +75,5 @@ Analysis Services projects are not supported for Microsoft Dynamics AX TFS sourc
 [Analytics in Microsoft Dynamics AX](analytics-in-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

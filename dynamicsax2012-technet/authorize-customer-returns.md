@@ -1,4 +1,4 @@
-﻿---
+---
 title: Authorize customer returns
 TOCTitle: Authorize customer returns
 ms:assetid: 0ffb706d-ebd4-4bef-9eff-ae6661fce900
@@ -18,6 +18,8 @@ f1_keywords:
 - return item
 - return reasone codes
 - return product
+audience: Application User
+ms.search.region: Global
 ---
 
 # Authorize customer returns 
@@ -56,5 +58,5 @@ The topics in this section provide information about how to authorize customers 
 [(MEX) Create and post a return order as an electronic invoice](mex-create-and-post-a-return-order-as-an-electronic-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

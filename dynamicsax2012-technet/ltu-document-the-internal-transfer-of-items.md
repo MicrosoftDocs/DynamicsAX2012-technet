@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Document the internal transfer of items
 TOCTitle: (LTU) Document the internal transfer of items
 ms:assetid: 559be693-158d-4923-a93b-dc752bc5216e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665087(v=AX.60)
 ms:contentKeyID: 49386669
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Document the internal transfer of items 
@@ -90,5 +92,5 @@ This topic explains how to document the internal transfer of items from one loca
 [Transfer orders (form)](https://technet.microsoft.com/en-us/library/aa634530\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

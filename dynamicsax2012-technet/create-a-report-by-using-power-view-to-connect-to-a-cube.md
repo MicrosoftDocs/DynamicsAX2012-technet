@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a report by using Power View to connect to a cube
 TOCTitle: Create a report by using Power View to connect to a cube
 ms:assetid: 09cc9238-9944-4085-a5de-64d907b70cf3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933492(v=AX.60)
 ms:contentKeyID: 50935106
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a report by using Power View to connect to a cube 
@@ -303,5 +305,5 @@ If you’d rather display a link to the report in the Quick Links web part on a 
     4.  Click **OK** to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

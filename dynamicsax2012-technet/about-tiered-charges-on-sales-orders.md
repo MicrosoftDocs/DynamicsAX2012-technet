@@ -1,4 +1,4 @@
-﻿---
+---
 title: About tiered charges on sales orders
 TOCTitle: About tiered charges on sales orders
 ms:assetid: ddd5b0f9-a958-4ed5-9c39-257291827cd3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683231(v=AX.60)
 ms:contentKeyID: 49684855
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About tiered charges on sales orders 
@@ -59,5 +61,5 @@ You can use the **From amount** and **To amount** fields in the **Auto charges**
 [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

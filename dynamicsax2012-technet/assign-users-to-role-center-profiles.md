@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign users to Role Center profiles
 TOCTitle: Assign users to Role Center profiles
 ms:assetid: dd7c7722-b2e2-4b7a-a268-a07ab5c7f4bb
@@ -76,5 +76,5 @@ A user profile corresponds to a specific role in an organization, such as the co
 [Checklist: Configure Role Centers](checklist-configure-role-centers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

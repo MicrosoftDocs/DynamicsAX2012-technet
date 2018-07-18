@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining General ledger (Public sector)
 TOCTitle: Setting up and maintaining General ledger (Public sector)
 ms:assetid: 9068ef3e-38c0-4755-b03a-7683db36cc65
@@ -11,6 +11,8 @@ f1_keywords:
 - year end close
 - General ledger
 - year end
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Setting up and maintaining General ledger (Public sector) 
@@ -73,5 +75,5 @@ The following table lists the forms that explain how to set up and maintain Gene
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify an activity
 TOCTitle: Create or modify an activity
 ms:assetid: 72e123fb-f90c-4fd8-ae2b-fb91b3da1576
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - ActivityEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify an activity 
@@ -66,5 +68,5 @@ You can create and schedule several types of activities in Enterprise Portal for
 [View activities](view-activities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

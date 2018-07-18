@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Modify expense reports'
 TOCTitle: 'Key tasks: Modify expense reports'
 ms:assetid: 7e9026d4-36b7-4762-b3e8-af7840a3c8ea
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - TrvExpTableEdit
 - TrvExpTrans
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Modify expense reports 
@@ -241,5 +243,5 @@ Back to top
 [Reconcile a travel requisition](reconcile-a-travel-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: " committed cost"
 TOCTitle: " committed cost"
 ms:assetid: DynamicsAXGlossary.232497
@@ -27,5 +27,5 @@ A commitment made by a legal entity to incur a cost when a future obligation com
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

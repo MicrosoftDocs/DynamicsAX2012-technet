@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Import Japanese ZIP/postal codes
 TOCTitle: (JPN) Import Japanese ZIP/postal codes
 ms:assetid: 4cb1d376-196a-477b-97bb-38dc46c2ce6e
@@ -12,6 +12,8 @@ f1_keywords:
 - Japan
 - ZIP/Postal Codes
 - JP - 00002
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Import Japanese ZIP/postal codes 
@@ -34,5 +36,5 @@ Use this procedure to import Japanese ZIP Codes and postal codes when you set up
 [(JPN) Import ZIP/postal codes (modified form)](https://technet.microsoft.com/en-us/library/jj664985\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About advanced ledger entry workflows (Public sector)
 TOCTitle: About advanced ledger entry workflows (Public sector)
 ms:assetid: 0941a884-764c-4e4c-832a-af33a47622ca
@@ -10,6 +10,8 @@ f1_keywords:
 - workflows
 - advanced ledger entry workflows
 - workflows advanced ledger entry
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # About advanced ledger entry workflows (Public sector) 
@@ -78,5 +80,5 @@ A workflow configuration is based on a workflow type. You can create multiple wo
 [Workflow for Microsoft Dynamics AX](workflow-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

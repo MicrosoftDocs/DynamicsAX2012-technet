@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create and maintain indirect costs'
 TOCTitle: 'Key tasks: Create and maintain indirect costs'
 ms:assetid: d9649c64-1c6e-4912-b361-3919675f9646
@@ -13,6 +13,8 @@ f1_keywords:
 - cost components
 - indirect cost compounding rules
 - indirect cost component groups
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create and maintain indirect costs 
@@ -233,5 +235,5 @@ Back to top
 [Indirect cost component group assignment rules (form)](https://technet.microsoft.com/en-us/library/hh227451\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

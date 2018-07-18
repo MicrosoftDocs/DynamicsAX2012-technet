@@ -1,4 +1,4 @@
-﻿---
+---
 title: " Canadian Payments Association Standard 005"
 TOCTitle: " Canadian Payments Association Standard 005"
 ms:assetid: DynamicsAXGlossary.1509559
@@ -19,5 +19,5 @@ A standard for the exchange of financial data on automatic funds transfer (AFT) 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

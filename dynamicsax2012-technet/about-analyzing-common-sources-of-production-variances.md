@@ -1,4 +1,4 @@
-﻿---
+---
 title: About analyzing common sources of production variances
 TOCTitle: About analyzing common sources of production variances
 ms:assetid: c9cda8e9-49eb-4224-99bc-35b5e7bb3ff1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213654(v=AX.60)
 ms:contentKeyID: 36059327
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About analyzing common sources of production variances 
@@ -54,5 +56,5 @@ The common sources for a production-substitution variance include the following:
   - Select a different route version when you are creating the production order, where the route version differs from the one that is used in the standard cost calculation.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

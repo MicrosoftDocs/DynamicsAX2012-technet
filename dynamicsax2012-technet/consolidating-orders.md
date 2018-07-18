@@ -1,4 +1,4 @@
-﻿---
+---
 title: Consolidating orders
 TOCTitle: Consolidating orders
 ms:assetid: e4131846-7bd0-4182-9c62-0bd21f8eda6d
@@ -11,6 +11,8 @@ f1_keywords:
 - transfer
 - consolidate orders
 - consolidating
+audience: Application User
+ms.search.region: Global
 ---
 
 # Consolidating orders 
@@ -23,5 +25,5 @@ The topics in this section provide information about how to consolidate orders.
 [Mark orders](mark-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

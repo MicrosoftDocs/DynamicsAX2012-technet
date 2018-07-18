@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail Performance for Microsoft Dynamics AX 2012
 TOCTitle: Retail Performance for Microsoft Dynamics AX 2012
 ms:assetid: 6abc2af8-95db-477b-b47a-01f5754e220d
@@ -16,5 +16,5 @@ This paper provides an overview of a series of performance tests run by Microsof
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=298965)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

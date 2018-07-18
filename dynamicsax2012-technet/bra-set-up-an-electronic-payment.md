@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up an electronic payment
 TOCTitle: (BRA) Set up an electronic payment
 ms:assetid: c2810a11-a6c5-4906-a93a-4eda0ef3cab4
@@ -12,6 +12,8 @@ f1_keywords:
 - Set up instruction codes
 - Set up the remittance occurrence codes
 - Set up the return occurrence codes
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up an electronic payment 
@@ -176,5 +178,5 @@ Use this procedure to define a relationship between the return occurrence codes 
 [(BRA) Process electronic payment returns](bra-process-electronic-payment-returns.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

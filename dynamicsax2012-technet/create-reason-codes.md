@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create reason codes
 TOCTitle: Create reason codes
 ms:assetid: 44b208ef-8622-4294-b1b1-20491cd0e9fb
@@ -11,6 +11,8 @@ f1_keywords:
 - reason code
 - stage
 - stage reason code
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create reason codes 
@@ -27,5 +29,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 When you are prompted for a reason code to explain why you are updating a stage of the service order, you can select any of the reason codes that you create here.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

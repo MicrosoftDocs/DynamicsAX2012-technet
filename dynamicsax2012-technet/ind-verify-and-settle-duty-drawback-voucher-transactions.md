@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Verify and settle duty drawback voucher transactions
 TOCTitle: (IND) Verify and settle duty drawback voucher transactions
 ms:assetid: a8231b44-1000-47d1-8fc4-388ed52acc0c
@@ -11,6 +11,8 @@ f1_keywords:
 - india
 - DBK voucher transactions
 - Verify DBK
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Verify and settle duty drawback voucher transactions 
@@ -89,5 +91,5 @@ For more information about how to generate duty drawback lines and apply for dut
 [(IND) Apply for duty drawback (DBK) for an export order](ind-apply-for-duty-drawback-dbk-for-an-export-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up business justification codes
 TOCTitle: Set up business justification codes
 ms:assetid: a7652367-097e-4fa6-8ad8-ec2d0fc765d9
@@ -11,6 +11,8 @@ f1_keywords:
 - purchase requisition
 - business justification
 - purchase requisition reason codes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up business justification codes 
@@ -37,5 +39,5 @@ You can define business justification reason codes to classify and track certain
 [Key tasks: Create and submit a purchase requisition](key-tasks-create-and-submit-a-purchase-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

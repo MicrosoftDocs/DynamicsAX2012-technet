@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage absence in Human resources
 TOCTitle: Manage absence in Human resources
 ms:assetid: e7a70ca1-bd30-4594-82b2-c32430d644a8
@@ -13,6 +13,8 @@ f1_keywords:
 - absence journal
 - absence, day off
 - days off
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage absence in Human resources 
@@ -37,5 +39,5 @@ Topics in this section provide information about the tools in Human Resources th
 [Delete absence journals](delete-absence-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

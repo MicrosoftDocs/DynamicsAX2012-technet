@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN, JPN) Fixed asset location transfer history
 TOCTitle: (CHN, JPN) Fixed asset location transfer history
 ms:assetid: ed3d3f1e-a6f0-48b8-bec8-5ac5666e8cbf
@@ -11,6 +11,8 @@ f1_keywords:
 - Track location
 - Fixed asset location
 - Location transfer
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN, JPN) Fixed asset location transfer history 
@@ -41,5 +43,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [(CHN) Transfer fixed assets to a new location](chn-transfer-fixed-assets-to-a-new-location.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

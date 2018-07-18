@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the cash flow statement
 TOCTitle: About the cash flow statement
 ms:assetid: b60ac48e-be2c-4882-a146-384c1223d88a
@@ -13,6 +13,8 @@ f1_keywords:
 - cash flow
 - cashflow
 - casflows
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the cash flow statement 
@@ -51,5 +53,5 @@ For a better perspective on what is causing the movement of cash in the company,
 [About traditional financial statements](about-traditional-financial-statements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

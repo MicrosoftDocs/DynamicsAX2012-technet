@@ -1,4 +1,4 @@
-﻿---
+---
 title: Multiple countries/regions configuration key (CRSEMultiple)
 TOCTitle: Multiple countries/regions configuration key (CRSEMultiple)
 ms:assetid: 5da48a62-a93a-411f-9a77-1dbe0e4c2993
@@ -30,5 +30,5 @@ Country/region configuration keys have been deprecated in Microsoft Dynamics AX 
 For more information, see [Country/Regional specific features configuration key (CRSECountry)](country-regional-specific-features-configuration-key-crsecountry.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

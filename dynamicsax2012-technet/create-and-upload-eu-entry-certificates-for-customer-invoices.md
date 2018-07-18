@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and upload EU entry certificates for customer invoices
 TOCTitle: Create and upload EU entry certificates for customer invoices
 ms:assetid: 851192e2-e34c-45a2-98c5-f18c088c3cef
@@ -15,6 +15,8 @@ f1_keywords:
 - entry certificate
 - EU entry certificate
 - Forms.CustEntryCertificateJour_W
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and upload EU entry certificates for customer invoices 
@@ -231,5 +233,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

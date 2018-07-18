@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up a number sequence for Bordero payments
 TOCTitle: (BRA) Set up a number sequence for Bordero payments
 ms:assetid: 9e84ca08-6b79-4ebc-8fc1-25a75945c5d8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911311(v=AX.60)
 ms:contentKeyID: 52075261
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up a number sequence for Bordero payments 
@@ -38,5 +40,5 @@ Use this procedure to set up a continuous number sequence for Bordero payments.
 [Number sequences (form)](https://technet.microsoft.com/en-us/library/hh209531\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

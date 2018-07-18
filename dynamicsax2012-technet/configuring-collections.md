@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring collections
 TOCTitle: Configuring collections
 ms:assetid: 09af7b95-4b55-4208-a488-33099cb03627
@@ -20,6 +20,8 @@ f1_keywords:
 - periods
 - pool
 - pools
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring collections 
@@ -46,5 +48,5 @@ The following topics provide information about configuring Accounts receivable c
 [Control posting and printing of collection letters](control-posting-and-printing-of-collection-letters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

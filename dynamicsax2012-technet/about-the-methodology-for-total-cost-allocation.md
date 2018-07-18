@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the methodology for total cost allocation
 TOCTitle: About the methodology for total cost allocation
 ms:assetid: 05a97501-8a5e-4cc3-b57b-f63bfbae21f1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352179(v=AX.60)
 ms:contentKeyID: 36687810
 ms.date: 04/10/2017
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the methodology for total cost allocation 
@@ -74,5 +76,5 @@ The **Burden** field in the **Co-products** form is an enumerator field and is o
 [Co-product cost allocation (form)](https://technet.microsoft.com/en-us/library/hh328679\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

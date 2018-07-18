@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reduce the size of the channel database after synchronization
 TOCTitle: Reduce the size of the channel database after synchronization
 ms:assetid: cac181bb-1a67-4f31-a56c-5f02f514d0ff
@@ -32,5 +32,5 @@ To use this feature, you must download 3208173 from Dynamics Lifecycle Services 
 You can customize which data is removed by modifying the **crt.STRIPMASTERDATA** stored procedure in the channel database.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

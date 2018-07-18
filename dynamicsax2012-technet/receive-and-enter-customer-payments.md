@@ -1,4 +1,4 @@
-﻿---
+---
 title: Receive and enter customer payments
 TOCTitle: Receive and enter customer payments
 ms:assetid: ca18f661-799e-4c48-a1aa-3309b595b940
@@ -18,6 +18,8 @@ f1_keywords:
 - bill of exchange
 - bills of exchange
 - BOE
+audience: Application User
+ms.search.region: Global
 ---
 
 # Receive and enter customer payments 
@@ -40,5 +42,5 @@ The following topics provide information about receiving and entering customer p
 [Manage customer payment settlements](manage-customer-payment-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

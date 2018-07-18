@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Generate a vendor payment remittance file
 TOCTitle: (ESP) Generate a vendor payment remittance file
 ms:assetid: 94e7bb9e-774a-4768-a518-a2ac908bee79
@@ -13,6 +13,8 @@ f1_keywords:
 - LedgerJournalTable_VendPaymRemittance
 - remittance file format
 - vendor bank remittance
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Generate a vendor payment remittance file 
@@ -119,5 +121,5 @@ To generate a remittance file for posted vendor invoices, follow these steps:
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

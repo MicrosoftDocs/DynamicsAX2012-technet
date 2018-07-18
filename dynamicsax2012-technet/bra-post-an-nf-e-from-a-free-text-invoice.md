@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Post an NF-e from a free text invoice
 TOCTitle: (BRA) Post an NF-e from a free text invoice
 ms:assetid: 37f3d890-d463-4702-84af-965196bc9832
@@ -11,6 +11,8 @@ f1_keywords:
 - Brazil
 - Post electronic fiscal document
 - Post NF-e
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Post an NF-e from a free text invoice 
@@ -71,5 +73,5 @@ Use the following procedure to post an NF-e from a free text invoice.
 [(BRA) Fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710551\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View assortment products (Retail essentials)
 TOCTitle: View assortment products (Retail essentials)
 ms:assetid: 3e2dc6b8-91b1-417a-b053-ab1e2579f59b
@@ -48,5 +48,5 @@ This topic explains how to view the assortments and products that are assigned t
 [Set up an assortment (Retail essentials)](set-up-an-assortment-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

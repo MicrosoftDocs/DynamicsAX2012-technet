@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Generate and print financial statements
 TOCTitle: (BRA) Generate and print financial statements
 ms:assetid: 1a7226ec-f34d-414e-9cf3-494a35138139
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - open and close terms
 - print financial statements
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Generate and print financial statements 
@@ -36,5 +38,5 @@ Before you can generate and print the report, you must set up the profit and los
 [Generate, print, and export a traditional financial statement](generate-print-and-export-a-traditional-financial-statement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

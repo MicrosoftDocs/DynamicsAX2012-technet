@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import and reconcile using advance bank reconciliation
 TOCTitle: Import and reconcile using advance bank reconciliation
 ms:assetid: 5615a135-0cbb-45de-a2e0-07ddcc4ebd4e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ729753(v=AX.60)
 ms:contentKeyID: 49564919
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Import and reconcile using advance bank reconciliation 
@@ -118,5 +120,5 @@ After an electronic bank statement has been imported and validated in the **Bank
 11. When you have finished matching up bank documents lines and bank statement lines, click **Reconcile** to post the bank reconciliation.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

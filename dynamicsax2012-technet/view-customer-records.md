@@ -1,4 +1,4 @@
-﻿---
+---
 title: View customer records
 TOCTitle: View customer accounts
 ms:assetid: d7da609c-ff2e-43ad-963a-624dab11b646
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPCustomerInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # View customer records 
@@ -28,5 +30,5 @@ On the **Customers** page, you can view a list of the customers that your organi
 [Create, update, or view an address record](create-update-or-view-an-address-record.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

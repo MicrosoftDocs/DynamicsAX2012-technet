@@ -1,4 +1,4 @@
-﻿---
+---
 title: Worker skills by skill type report (HcmSkillBySkillType)
 TOCTitle: Worker skills by skill type report (HcmSkillBySkillType)
 ms:assetid: 812ba257-5a21-442b-9541-d8ad36c9a20a
@@ -116,5 +116,5 @@ If you are a developer, you can learn more about where the data on a report come
 [About skills](about-skills.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

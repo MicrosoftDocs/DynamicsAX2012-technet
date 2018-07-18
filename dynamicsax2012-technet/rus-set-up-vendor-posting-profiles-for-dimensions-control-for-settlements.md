@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up vendor posting profiles for dimensions control for settlements
 TOCTitle: (RUS) Set up vendor posting profiles for dimensions control for settlements
 ms:assetid: 5700540f-f6cc-4cce-b8ab-ff55de75cb42
@@ -11,6 +11,8 @@ f1_keywords:
 - vendor posting profiles
 - (RUS)
 - dimensions control for settlements
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up vendor posting profiles for dimensions control for settlements 
@@ -51,5 +53,5 @@ Use this procedure to set up vendor posting profiles for dimension control for s
 [(RUS) Set up a dimension set for dimensions control for settlements](rus-set-up-a-dimension-set-for-dimensions-control-for-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

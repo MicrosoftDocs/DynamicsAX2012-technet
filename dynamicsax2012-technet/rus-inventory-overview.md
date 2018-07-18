@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Inventory overview
 TOCTitle: (RUS) Inventory overview
 ms:assetid: d306c04e-87ce-4582-8bda-775de10f89c2
@@ -10,6 +10,8 @@ f1_keywords:
 - Inventory
 - overview
 - (RUS)
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Inventory overview 
@@ -32,5 +34,5 @@ The topics in this section provide information about inventory.
 [(RUS) Generate the M-17 inventory item card](rus-generate-the-m-17-inventory-item-card.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

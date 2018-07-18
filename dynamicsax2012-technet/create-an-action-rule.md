@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an Action rule
 TOCTitle: Create an Action rule
 ms:assetid: 755f2f22-7c5a-42d7-ae6f-3cc3a74323f4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550028(v=AX.60)
 ms:contentKeyID: 36058170
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an Action rule 
@@ -58,5 +60,5 @@ If rules are of the **Action** type, the **Actions** tab page is available, wher
 [Product models (form)](https://technet.microsoft.com/en-us/library/aa572853\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

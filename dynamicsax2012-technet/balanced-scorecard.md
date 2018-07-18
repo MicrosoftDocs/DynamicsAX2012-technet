@@ -1,4 +1,4 @@
-﻿---
+---
 title: " balanced scorecard"
 TOCTitle: " balanced scorecard"
 ms:assetid: DynamicsAXGlossary.1499657
@@ -23,5 +23,5 @@ A strategic performance management report that aligns, tracks, and measures key 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

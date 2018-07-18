@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure globally unique store identifiers
 TOCTitle: Configure globally unique store identifiers
 ms:assetid: e9027a3d-3e45-4320-abde-7881d7b1400d
@@ -34,5 +34,5 @@ Use the following procedure to map old store identifiers to new identifiers.
 4.  Click **Ready for upgrade**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

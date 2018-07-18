@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter on-account invoice transactions
 TOCTitle: Enter on-account invoice transactions
 ms:assetid: c0ac38ea-e927-4f01-81ef-078d358fc77a
@@ -10,6 +10,8 @@ f1_keywords:
 - on-account
 - invoice setup
 - offset transaction
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enter on-account invoice transactions 
@@ -50,5 +52,5 @@ In Microsoft Dynamics AX 2012 R3, you can create on-account transaction invoices
 [On-account transactions (form)](https://technet.microsoft.com/en-us/library/aa557380\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

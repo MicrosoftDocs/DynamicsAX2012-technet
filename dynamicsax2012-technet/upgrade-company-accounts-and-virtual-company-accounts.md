@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upgrade company accounts and virtual company accounts
 TOCTitle: Upgrade company accounts and virtual company accounts
 ms:assetid: 2e36c456-16f8-49c3-9ec4-24ed66e5ccc9
@@ -82,5 +82,5 @@ The following table provides an overview of how domains, companies, and virtual 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

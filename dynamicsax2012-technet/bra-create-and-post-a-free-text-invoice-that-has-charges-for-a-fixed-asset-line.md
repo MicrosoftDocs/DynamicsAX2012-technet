@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post a free text invoice that has charges for a fixed asset line
 TOCTitle: (BRA) Create and post a free text invoice that has charges for a fixed asset line
 ms:assetid: 6c0c4dde-193a-4672-b88c-955912b813a2
@@ -14,6 +14,8 @@ f1_keywords:
 - Create free text invoice
 - post free text invoice
 - BR - 00016
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post a free text invoice that has charges for a fixed asset line 
@@ -82,5 +84,5 @@ You must set up charges before you can create and post a free text invoice with 
 [Charges transactions (form)](https://technet.microsoft.com/en-us/library/aa633876\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

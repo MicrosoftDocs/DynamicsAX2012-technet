@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post indirect activities costs
 TOCTitle: Post indirect activities costs
 ms:assetid: 8a8efdeb-0938-4534-aa0e-06d69f332db6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - indirect activities
 - indirect activities costs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post indirect activities costs 
@@ -45,5 +47,5 @@ Indirect activities costs can be posted periodically to update all costs that ar
 [Post indirect activities costs (class form)](https://technet.microsoft.com/en-us/library/bb220735\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

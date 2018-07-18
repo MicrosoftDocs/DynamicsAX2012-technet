@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Security Development Tool for Microsoft Dynamics AX"
 TOCTitle: Security Development Tool for Microsoft Dynamics AX
 ms:assetid: 8f8e97f0-e0ca-45ca-b08f-bee43dd908f6
@@ -32,5 +32,5 @@ In November 2014, in an effort to streamline the number of sites that partners a
     All content on CustomerSource is now indexed by Bing and other external search engines, so you can find content just by searching. You will still be required to log in to access the content.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Cancel a free text invoice
 TOCTitle: (BRA) Cancel a free text invoice
 ms:assetid: 8671d464-5e1b-4afa-8e97-9251dfeb54e6
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - (BRA)
 - Cancel free text invoice
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Cancel a free text invoice 
@@ -46,5 +48,5 @@ You can cancel a posted free text invoice that is incorrect. When you cancel a f
 9.  Click **OK** to cancel the free text invoice and reverse all the ledger and financial transactions.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

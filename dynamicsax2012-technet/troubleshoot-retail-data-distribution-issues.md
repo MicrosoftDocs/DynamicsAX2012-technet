@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot Retail data distribution issues
 TOCTitle: Troubleshoot Retail data distribution issues
 ms:assetid: bf240e99-fffc-43ab-b34b-085925c97214
@@ -28,5 +28,5 @@ The topics in this section provide information about troubleshooting data distri
 [Synch Service Pack Viewer](synch-service-pack-viewer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

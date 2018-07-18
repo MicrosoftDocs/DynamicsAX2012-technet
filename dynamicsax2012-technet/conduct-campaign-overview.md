@@ -1,4 +1,4 @@
-﻿---
+---
 title: Conduct campaign overview
 TOCTitle: Conduct campaign overview
 ms:assetid: 9a0337ae-6df1-42df-9e49-ce48bdfc1abe
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - campaign
 - marketing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Conduct campaign overview 
@@ -164,5 +166,5 @@ The following table lists the forms that support the Conduct campaign business p
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

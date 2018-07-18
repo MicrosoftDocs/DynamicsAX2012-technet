@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) Fuel code'
 TOCTitle: (BRA) Fuel code
 ms:assetid: 5b0d874f-d49c-4a81-9ed8-03ad0d7110f0
@@ -55,5 +55,5 @@ For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specifi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

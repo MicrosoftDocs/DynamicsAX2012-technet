@@ -1,4 +1,4 @@
-﻿---
+---
 title: Before you install the Reporting Services extensions
 TOCTitle: Before you install the Reporting Services extensions
 ms:assetid: 11952a63-2f66-44fa-ae1a-fa0510a94dfe
@@ -304,5 +304,5 @@ If you are using Reporting Services 2012 or 2014, follow these steps to configur
     For more information about how to verify that the integration is configured correctly, see [Verify a Reporting Services Installation](http://technet.microsoft.com/en-us/library/ms143773.aspx) in the SQL Server documentation.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

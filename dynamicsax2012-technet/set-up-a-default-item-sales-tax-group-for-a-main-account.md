@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a default item sales tax group for a main account
 TOCTitle: Set up a default item sales tax group for a main account
 ms:assetid: b0552b6b-5391-417d-bb85-0339c6efac05
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498640(v=AX.60)
 ms:contentKeyID: 44081027
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a default item sales tax group for a main account 
@@ -51,5 +53,5 @@ To make sure that sales tax is calculated on all journal transactions that are p
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

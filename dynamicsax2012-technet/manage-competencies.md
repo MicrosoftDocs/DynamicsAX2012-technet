@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage competencies
 TOCTitle: Manage competencies
 ms:assetid: 96fbd925-1832-40e6-a31b-f68a896992ef
@@ -12,6 +12,8 @@ f1_keywords:
 - competency
 - competence
 - gap
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage competencies 
@@ -28,5 +30,5 @@ Topics in this section contain information about the Human resources tools that 
 [About skills](about-skills.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

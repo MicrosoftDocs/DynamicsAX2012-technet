@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Import an electronic fiscal document for services file
 TOCTitle: (BRA) Import an electronic fiscal document for services file
 ms:assetid: d16b8abf-7074-46ce-9a06-0c3ae6555613
@@ -12,6 +12,8 @@ f1_keywords:
 - Import file
 - Import NF-e file
 - NF-e file
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Import an electronic fiscal document for services file 
@@ -44,5 +46,5 @@ When you import an electronic fiscal document for services, information about th
 [(BRA) About electronic fiscal document for services reporting for Sao Paulo](bra-about-electronic-fiscal-document-for-services-reporting-for-sao-paulo.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

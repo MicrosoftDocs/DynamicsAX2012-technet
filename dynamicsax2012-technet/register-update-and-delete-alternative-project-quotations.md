@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register, update, and delete alternative project quotations
 TOCTitle: Register, update, and delete alternative project quotations
 ms:assetid: 7d874dbb-a9ef-4436-8580-e59e77ea4c8a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - alternative quotations
 - linked quotation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register, update, and delete alternative project quotations 
@@ -73,5 +75,5 @@ When you delete a link to the current quotation, the quotation itself will not b
 [Delete quotations (form)](https://technet.microsoft.com/en-us/library/aa556468\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

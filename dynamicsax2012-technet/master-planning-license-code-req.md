@@ -1,4 +1,4 @@
-﻿---
+---
 title: Master planning license code (Req)
 TOCTitle: Master planning license code (Req)
 ms:assetid: d44d6c44-50bd-49ea-b5ef-432d78be6b0f
@@ -46,5 +46,5 @@ The following table provides more information about this license code:
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

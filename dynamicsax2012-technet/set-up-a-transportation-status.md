@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a transportation status
 TOCTitle: Set up a transportation status
 ms:assetid: 76836936-7a2a-47e3-8f84-a15c5fe9f1b8
@@ -11,6 +11,8 @@ f1_keywords:
 - Forms.TMSTransportationStatusMaster
 - transportation status
 - transportation statuses
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a transportation status 
@@ -82,5 +84,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

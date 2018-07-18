@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MYS) Print self-billed GST invoices
 TOCTitle: (MYS) Print self-billed GST invoices
 ms:assetid: 74839207-2f46-41d7-aa00-1d5b6465903f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn858081(v=AX.60)
 ms:contentKeyID: 63400913
 ms.date: 11/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Malaysia
 ---
 
 # (MYS) Print self-billed GST invoices 
@@ -137,5 +139,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

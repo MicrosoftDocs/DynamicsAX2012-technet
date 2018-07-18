@@ -1,4 +1,4 @@
-﻿---
+---
 title: Revalue foreign currency amounts for customers
 TOCTitle: Revalue foreign currency amounts for customers
 ms:assetid: 0d1236ed-0891-49bc-84ed-203635743390
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - foreign currency revaluation
 - currency revaluation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Revalue foreign currency amounts for customers 
@@ -27,5 +29,5 @@ The following topics provide information about revaluing foreign currency amount
 [View the transactions of a foreign currency revaluation](view-the-transactions-of-a-foreign-currency-revaluation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

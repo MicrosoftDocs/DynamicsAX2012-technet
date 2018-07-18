@@ -1,4 +1,4 @@
-﻿---
+---
 title: Complete pallet transports
 TOCTitle: Complete pallet transports
 ms:assetid: f6bb9599-fee5-4cca-8af3-9dce1ce8cdc7
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - complete pallet transport
 - end pallet transport
+audience: Application User
+ms.search.region: Global
 ---
 
 # Complete pallet transports 
@@ -29,5 +31,5 @@ This topic applies to features in the **Inventory management** module. It does n
 [Start pallet transports](start-pallet-transports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

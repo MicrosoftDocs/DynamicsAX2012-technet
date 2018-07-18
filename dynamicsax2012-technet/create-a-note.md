@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a note
 TOCTitle: Create a note
 ms:assetid: fb05f094-5e7d-47bf-af05-0dccaa4f21b7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499872(v=AX.60)
 ms:contentKeyID: 37822169
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a note 
@@ -34,5 +36,5 @@ In any form that has a document handling icon or an **Attachments** button, you 
 [Using document management](using-document-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a customer TMA group
 TOCTitle: Create a customer TMA group
 ms:assetid: c75fd9d5-3fa5-46ed-a7f3-b53e87834692
@@ -11,6 +11,8 @@ f1_keywords:
 - create a TMA group
 - TMA
 - trade and merchandising allowance
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a customer TMA group 
@@ -35,5 +37,5 @@ Use this procedure to create a customer TMA (Trade and Merchandising Allowance) 
 [Customer TMA groups (form)](https://technet.microsoft.com/en-us/library/hh328723\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

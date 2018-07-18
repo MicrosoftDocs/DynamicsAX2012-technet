@@ -1,4 +1,4 @@
-﻿---
+---
 title: Complete an outgoing transfer order
 TOCTitle: Complete an outgoing transfer order
 ms:assetid: a42660bf-08d7-486c-9525-b63189daf2bb
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPRetailPickingDetails
 - EPRetailPickingListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Complete an outgoing transfer order 
@@ -53,5 +55,5 @@ You can also pick merchandise and complete outgoing transfer orders in Microsoft
 [Receive a purchase order or transfer order](receive-a-purchase-order-or-transfer-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

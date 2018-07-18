@@ -1,4 +1,4 @@
-﻿---
+---
 title: " operations resource"
 TOCTitle: " operations resource"
 ms:assetid: DynamicsAXGlossary.1368012
@@ -25,5 +25,5 @@ An economic resource provided by products that flow into or flow out of operatio
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

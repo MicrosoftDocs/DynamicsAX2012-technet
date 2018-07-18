@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign posting definitions to transaction posting types
 TOCTitle: Assign posting definitions to transaction posting types
 ms:assetid: 7ec3a6a1-c082-4ff8-851a-ddc835db2e6b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - posting definitions
 - transaction posting
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign posting definitions to transaction posting types 
@@ -37,5 +39,5 @@ After you create posting definitions, follow these steps to assign the posting d
 [About posting profiles](about-posting-profiles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

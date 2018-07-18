@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot connectivity problems for Retail Modern POS devices
 TOCTitle: Troubleshoot connectivity problems for Retail Modern POS devices
 ms:assetid: 79c4e750-85ba-4450-9143-87659aa387ae
@@ -177,5 +177,5 @@ You must be a local administrator on the computers that host the AOS, Real-time 
 [Start or Stop an Application Pool](http://technet.microsoft.com/en-us/library/cc732742.aspx)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

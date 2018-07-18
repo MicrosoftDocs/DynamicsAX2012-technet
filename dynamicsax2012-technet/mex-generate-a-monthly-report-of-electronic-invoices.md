@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Generate a monthly report of electronic invoices
 TOCTitle: (MEX) Generate a monthly report of electronic invoices
 ms:assetid: a7351dab-53de-4240-a42a-fcfcb5347acd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242685(v=AX.60)
 ms:contentKeyID: 36058875
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Generate a monthly report of electronic invoices 
@@ -48,5 +50,5 @@ The monthly report file name consists of the XML schema number that is used to g
 [(MEX) Einvoice monthly report (EInvoiceReport\_MX)](mex-einvoice-monthly-report-einvoicereport-mx.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

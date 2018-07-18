@@ -1,4 +1,4 @@
-﻿---
+---
 title: Print or email a report
 TOCTitle: Print or email a report
 ms:assetid: 614c67f4-a516-474d-adb8-2c50fd239547
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - report
 - reports
+audience: Application User
+ms.search.region: Global
 ---
 
 # Print or email a report 
@@ -114,5 +116,5 @@ Microsoft Dynamics AX includes hundreds of preconfigured reports that you can us
 6.  Click **OK** to print the report to the selected destination.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

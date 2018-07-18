@@ -1,4 +1,4 @@
-﻿---
+---
 title: View inquiries and reports overview
 TOCTitle: View inquiries and reports overview
 ms:assetid: 94e4728a-0d80-4b5f-b6bc-5892031df07b
@@ -12,6 +12,8 @@ f1_keywords:
 - reports
 - overview
 - inquiries
+audience: Application User
+ms.search.region: Global
 ---
 
 # View inquiries and reports overview 
@@ -229,5 +231,5 @@ The following table lists the forms that support the Inquiries and reports busin
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View customer invoice information
 TOCTitle: View customer invoice information
 ms:assetid: 8c7f717b-915a-453c-8523-5cf9df740333
@@ -11,6 +11,8 @@ f1_keywords:
 - EPCustInvoicedItems
 - EPCustInvoiceJournalInfo
 - EPCustInvoiceList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View customer invoice information 
@@ -79,5 +81,5 @@ Use the **Unpaid invoices** page to view a list of invoices for which payment ha
 [Enterprise Portal and Microsoft Excel](enterprise-portal-and-microsoft-excel.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

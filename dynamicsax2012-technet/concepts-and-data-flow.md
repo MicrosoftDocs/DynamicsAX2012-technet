@@ -1,4 +1,4 @@
-﻿---
+---
 title: Concepts and data flow
 TOCTitle: Concepts and data flow
 ms:assetid: f5de7da1-9d91-4b8c-af69-ac7c57dfc359
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551650(v=AX.60)
 ms:contentKeyID: 36931887
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Concepts and data flow 
@@ -46,5 +48,5 @@ Before you use the **Product Builder**, you should understand the concepts imple
 [About default values](about-default-values.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up postdated checks
 TOCTitle: Set up postdated checks
 ms:assetid: 755e7cdc-9c15-403a-b565-af8552de0778
@@ -12,6 +12,8 @@ f1_keywords:
 - checks
 - postdated checks
 - Saudi Arabia
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up postdated checks 
@@ -78,5 +80,5 @@ Use the **Methods of payment - vendors** and **Methods of payment - customers** 
 [Register and post a postdated check for a vendor](register-and-post-a-postdated-check-for-a-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

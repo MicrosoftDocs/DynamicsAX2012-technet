@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up file formats for the export of a traditional financial statement
 TOCTitle: Set up file formats for the export of a traditional financial statement
 ms:assetid: f638ac56-8d99-4353-8e0e-6fc5f49c2e3e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551679(v=AX.60)
 ms:contentKeyID: 36060010
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up file formats for the export of a traditional financial statement 
@@ -42,5 +44,5 @@ The **Financial statement** form is available only when the **Financial statemen
 [Generate, print, and export a traditional financial statement](generate-print-and-export-a-traditional-financial-statement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

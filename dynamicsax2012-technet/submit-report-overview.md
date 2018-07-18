@@ -1,4 +1,4 @@
-﻿---
+---
 title: Submit report overview
 TOCTitle: Submit report overview
 ms:assetid: 4b0dc7cb-ce5f-46fa-9c36-bb7bec9db848
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - expenses
 - expense
+audience: Application User
+ms.search.region: Global
 ---
 
 # Submit report overview 
@@ -59,5 +61,5 @@ The following table lists the forms that support the Submit report business proc
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

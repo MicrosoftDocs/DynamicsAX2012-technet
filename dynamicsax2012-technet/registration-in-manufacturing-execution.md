@@ -1,4 +1,4 @@
-﻿---
+---
 title: Registration in Manufacturing execution
 TOCTitle: Registration in Manufacturing execution
 ms:assetid: 1e853a12-ab2b-481c-8cfb-276f5d8c1ae5
@@ -15,6 +15,8 @@ f1_keywords:
 - hours
 - attendance
 - manufacturing execution
+audience: Application User
+ms.search.region: Global
 ---
 
 # Registration in Manufacturing execution 
@@ -37,5 +39,5 @@ The following topics provide information about activities and tasks related to r
 [Monitor attendance and production orders in Manufacturing execution](monitor-attendance-and-production-orders-in-manufacturing-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

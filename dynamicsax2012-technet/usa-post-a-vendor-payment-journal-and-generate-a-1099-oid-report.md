@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Post a vendor payment journal and generate a 1099 OID report
 TOCTitle: (USA) Post a vendor payment journal and generate a 1099 OID report
 ms:assetid: 63832dbc-c0d2-4ffe-ba89-fe2f8d4e24eb
@@ -11,6 +11,8 @@ f1_keywords:
 - USA
 - OID report
 - vendor payment journal
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Post a vendor payment journal and generate a 1099 OID report 
@@ -61,5 +63,5 @@ Use the **Journal voucher** form to pay the vendors of debt instruments, such as
 [(USA) Vendor settlement for 1099s (form)](https://technet.microsoft.com/en-us/library/aa582697\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

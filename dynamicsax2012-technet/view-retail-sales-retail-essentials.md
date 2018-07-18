@@ -1,4 +1,4 @@
-﻿---
+---
 title: View retail sales (Retail essentials)
 TOCTitle: View retail sales (Retail essentials)
 ms:assetid: c8aeed6f-1572-44ca-bbcd-69420dd07cc3
@@ -34,5 +34,5 @@ To view sales transactions, follow these steps:
 5.  To view the transactions for an inventory lot, select an item, and then click **Lot**. Lots are generated when you create orders that produce a receipt or an issue in inventory.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

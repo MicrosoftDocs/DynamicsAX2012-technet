@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NLD) Create, send, and import the ICP tax declaration electronically
 TOCTitle: (NLD) Create, send, and import the ICP tax declaration electronically
 ms:assetid: 0e03c8ea-ff12-4d38-a90f-636f49088caf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230908(v=AX.60)
 ms:contentKeyID: 36056006
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Netherlands
 ---
 
 # (NLD) Create, send, and import the ICP tax declaration electronically 
@@ -52,5 +54,5 @@ Use the **Electronic ICP declaration** form to create and submit an electronic t
 [(NLD) Set up electronic tax declaration](nld-set-up-electronic-tax-declaration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

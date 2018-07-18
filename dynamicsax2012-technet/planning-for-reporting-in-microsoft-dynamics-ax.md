@@ -1,4 +1,4 @@
-﻿---
+---
 title: Planning for reporting in Microsoft Dynamics AX
 TOCTitle: Planning for reporting
 ms:assetid: 05dd329c-ba8a-41e6-a2d5-1d534c34b10a
@@ -363,5 +363,5 @@ Management Reporter for Microsoft Dynamics ERP is the recommended financial repo
 [Install Reporting Services extensions for Microsoft Dynamics AX](install-reporting-services-extensions-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

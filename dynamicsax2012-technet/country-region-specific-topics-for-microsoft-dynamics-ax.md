@@ -1,4 +1,4 @@
-﻿---
+---
 title: Country/region-specific topics for Microsoft Dynamics AX
 TOCTitle: Country/region-specific topics for Microsoft Dynamics AX
 ms:assetid: d4332e46-a6bd-4c82-adf5-fc236485bfb3
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - gls, gdl, regulatory, RegF
+audience: Application User
+ms.search.region: Global
 ---
 
 # Country/region-specific topics for Microsoft Dynamics AX 
@@ -27,5 +29,5 @@ Microsoft Dynamics AX is updated as country/region-specific requirements change.
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

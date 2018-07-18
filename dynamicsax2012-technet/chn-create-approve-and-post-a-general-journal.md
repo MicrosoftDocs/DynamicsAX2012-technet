@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Create, approve, and post a general journal
 TOCTitle: (CHN) Create, approve, and post a general journal
 ms:assetid: 0b6cf5af-a5a3-4f22-83f7-544ad3003492
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663991(v=AX.60)
 ms:contentKeyID: 49384577
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Create, approve, and post a general journal 
@@ -60,5 +62,5 @@ To create voucher transactions, you must select the **Chinese voucher system** c
 [(CHN) Run a batch job to check the continuity of voucher numbers](chn-run-a-batch-job-to-check-the-continuity-of-voucher-numbers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

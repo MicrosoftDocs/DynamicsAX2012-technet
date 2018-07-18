@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an item rebate group
 TOCTitle: Create an item rebate group
 ms:assetid: 38706bdd-ad0d-4cc7-855e-24589e7154f6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242205(v=AX.60)
 ms:contentKeyID: 36056621
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an item rebate group 
@@ -30,5 +32,5 @@ Use this procedure to create an item rebate group. You can apply the item rebate
 [Item rebate groups (form)](https://technet.microsoft.com/en-us/library/hh328770\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

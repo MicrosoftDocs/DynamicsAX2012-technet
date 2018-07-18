@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Manage prospective vendor requests'
 TOCTitle: 'Key tasks: Manage prospective vendor requests'
 ms:assetid: e67d7faa-338f-42c5-ac29-c0ff5039cc6f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227458(v=AX.60)
 ms:contentKeyID: 36059803
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Manage prospective vendor requests 
@@ -160,5 +162,5 @@ Back to top
 [Key tasks: Manually set up user access to the Vendor portal](key-tasks-manually-set-up-user-access-to-the-vendor-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

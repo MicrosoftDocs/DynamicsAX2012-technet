@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up dynamic sections for electronic reporting
 TOCTitle: (RUS) Set up dynamic sections for electronic reporting
 ms:assetid: 03dd6e59-4f02-4fc6-b8bb-84d80f8ea369
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - electronic reporting
 - dynamic section
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up dynamic sections for electronic reporting 
@@ -93,5 +95,5 @@ You must set up a parent section before you can set up a child dynamic section f
 [(RUS) Set up composite cell type requisites](rus-set-up-composite-cell-type-requisites.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

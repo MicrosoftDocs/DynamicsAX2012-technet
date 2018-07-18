@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up tax ledger posting groups for DFIA
 TOCTitle: (IND) Set up tax ledger posting groups for DFIA
 ms:assetid: 22c31006-b87e-4f5f-85b3-40c7bd70e31d
@@ -13,6 +13,8 @@ f1_keywords:
 - DFIA
 - posting group
 - tax ledger posting
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up tax ledger posting groups for DFIA 
@@ -45,5 +47,5 @@ Use the **Tax ledger posting groups** form to set up the ledger posting groups t
 [(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan data import, export, and migration
 TOCTitle: Plan data import, export, and migration
 ms:assetid: a05289fb-0f8f-4563-be3c-7c840bfea7e1
@@ -619,5 +619,5 @@ When you export or import Microsoft Dynamics AX tables, store them in a folder t
 [Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012](test-data-transfer-tool-beta-for-microsoft-dynamics-ax-2012.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

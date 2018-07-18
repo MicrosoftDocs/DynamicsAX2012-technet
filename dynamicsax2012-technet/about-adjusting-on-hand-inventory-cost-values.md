@@ -1,4 +1,4 @@
-﻿---
+---
 title: About adjusting on-hand inventory cost values
 TOCTitle: About adjusting on-hand inventory cost values
 ms:assetid: eeb40d83-97b7-43de-b89e-e2002023cc91
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243266(v=AX.60)
 ms:contentKeyID: 36059913
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About adjusting on-hand inventory cost values 
@@ -52,5 +54,5 @@ To set the cost of these two items to USD 15.00, use the on-hand adjustment opti
 [Adjustment of on-hand inventory (form)](https://technet.microsoft.com/en-us/library/aa553861\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

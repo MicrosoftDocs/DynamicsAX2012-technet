@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create profit or loss transactions for a currency conversion or transfer and exchange adjustment
 TOCTitle: (RUS) Create profit or loss transactions for a currency conversion or transfer and exchange adjustment
 ms:assetid: 9a302a8e-29c6-49f0-bb32-bfc1b078e839
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923565(v=AX.60)
 ms:contentKeyID: 52075412
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create profit or loss transactions for a currency conversion or transfer and exchange adjustment 
@@ -59,5 +61,5 @@ Use this procedure to create a profit or loss transaction for a currency convers
 [(RUS) Banks (form)](https://technet.microsoft.com/en-us/library/jj856183\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

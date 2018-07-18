@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update a rebate program type
 TOCTitle: Update a rebate program type
 ms:assetid: 55dd2674-8b80-4c96-a727-fcf79f2a64ac
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352206(v=AX.60)
 ms:contentKeyID: 36687840
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update a rebate program type 
@@ -42,5 +44,5 @@ Use this procedure to update information for a rebate program type.
 [Rebate program types (form)](https://technet.microsoft.com/en-us/library/hh352270\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

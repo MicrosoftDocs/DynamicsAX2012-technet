@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up, delete, or deactivate a meter
 TOCTitle: Set up, delete, or deactivate a meter
 ms:assetid: 2d62a8e8-651b-4bfa-af19-48a0bc7b255b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208516(v=AX.60)
 ms:contentKeyID: 36056260
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up, delete, or deactivate a meter 
@@ -72,5 +74,5 @@ You can lose data when a meter is reset, if it exceeds its maximum value, or if 
 [Set up substance flows between processes](set-up-substance-flows-between-processes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

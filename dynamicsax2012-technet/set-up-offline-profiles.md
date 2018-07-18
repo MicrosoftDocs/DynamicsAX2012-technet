@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up offline profiles
 TOCTitle: Set up offline profiles
 ms:assetid: 80d2f7ca-acbb-4b53-b9bd-607ffa52cde9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597147(v=AX.60)
 ms:contentKeyID: 39519203
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up offline profiles 
@@ -102,5 +104,5 @@ The configuration options in the following table are not currently implemented.
 6.  Repeat steps 3 through 6 for each offline scope that you want to set up.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

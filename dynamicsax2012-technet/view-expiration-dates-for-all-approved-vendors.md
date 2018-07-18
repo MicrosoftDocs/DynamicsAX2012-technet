@@ -1,4 +1,4 @@
-﻿---
+---
 title: View expiration dates for all approved vendors
 TOCTitle: View expiration dates for all approved vendors
 ms:assetid: bd68bff7-6497-4561-bf63-9423b19b7da0
@@ -11,6 +11,8 @@ f1_keywords:
 - vendor list expiration date
 - view expiration dates for vendors
 - view vendor expiration date
+audience: Application User
+ms.search.region: Global
 ---
 
 # View expiration dates for all approved vendors 
@@ -37,5 +39,5 @@ Use this procedure to view the expiration dates for all approved vendors.
 [Approved vendor list expiration (form)](https://technet.microsoft.com/en-us/library/hh328678\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

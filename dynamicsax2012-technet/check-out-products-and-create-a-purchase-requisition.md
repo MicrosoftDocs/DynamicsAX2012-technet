@@ -1,4 +1,4 @@
-﻿---
+---
 title: Check out products and create a purchase requisition
 TOCTitle: Check out products and create a purchase requisition
 ms:assetid: b8fc0992-bb8d-4c5f-8c22-914ae7b6922b
@@ -11,6 +11,8 @@ f1_keywords:
 - PurchReqNewDialog
 - PurchReqWizard
 - PurchReqWizardConfirmation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Check out products and create a purchase requisition 
@@ -193,5 +195,5 @@ For more information about how to create and submit a purchase requisition in En
 [About purchase requisitions (Enterprise Portal)](about-purchase-requisitions-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

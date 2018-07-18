@@ -1,4 +1,4 @@
-﻿---
+---
 title: Unit conversions
 TOCTitle: Unit conversions
 ms:assetid: 2615f7b2-4cd5-4e18-865f-192aac23fbdf
@@ -68,5 +68,5 @@ When you start preprocessing unit conversions, all conversions for each shared u
 [Units](units.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

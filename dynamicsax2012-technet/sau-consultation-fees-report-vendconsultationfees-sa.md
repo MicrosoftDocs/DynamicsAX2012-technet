@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Consultation fees report (VendConsultationFees_SA)
 TOCTitle: (SAU) Consultation fees report (VendConsultationFees_SA)
 ms:assetid: 59cd60b3-a3a9-4f47-804a-f95e6e06d1e9
@@ -123,5 +123,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

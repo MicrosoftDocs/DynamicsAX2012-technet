@@ -1,4 +1,4 @@
-﻿---
+---
 title: Absence journal missing report (HcmAbsenceJournalMissingReport)
 TOCTitle: Absence journal missing report (HcmAbsenceJournalMissingReport)
 ms:assetid: a9b64804-cddf-4e4b-b595-4ea0a9a08372
@@ -92,5 +92,5 @@ If you are a developer, you can learn more about where the data on a report come
 [About absence administration](about-absence-administration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

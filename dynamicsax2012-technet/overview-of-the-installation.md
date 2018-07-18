@@ -1,4 +1,4 @@
-﻿---
+---
 title: Overview of the installation
 TOCTitle: Overview of the installation
 ms:assetid: a24c5924-a984-4878-888f-1f125e0fded3
@@ -24,5 +24,5 @@ This section provides an overview of the components that you can install by usin
 For information about new installation features in Microsoft Dynamics AX 2012, see [What's new: Installation](what-s-new-installation.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

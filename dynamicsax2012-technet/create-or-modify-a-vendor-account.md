@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify a vendor account
 TOCTitle: Create or edit a vendor account
 ms:assetid: 554b8343-2d1c-4fb4-aae4-9a6e96588839
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPVendTableCreate
 - EPVendTableEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify a vendor account 
@@ -99,5 +101,5 @@ As a purchasing agent for your organization, you can create new vendors in Enter
 [View vendor accounts](view-vendor-accounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Debug X++ Code for Retail
 TOCTitle: Debug X++ Code for Retail
 ms:assetid: b0b29edb-d132-4876-8b6d-551bb4929976
@@ -88,5 +88,5 @@ Then you can set breakpoints in your X++ code and begin debugging.
 [How to: Debug X++ Code Running in .NET Business Connector](https://technet.microsoft.com/en-us/library/bb190066\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

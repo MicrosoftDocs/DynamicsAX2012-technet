@@ -1,4 +1,4 @@
-﻿---
+---
 title: Close books overview
 TOCTitle: Close books overview
 ms:assetid: feb89170-e62f-4760-b16b-b51745b4db04
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243314(v=AX.60)
 ms:contentKeyID: 36060123
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Close books overview 
@@ -55,5 +57,5 @@ The following table lists the forms that support the Close books business proces
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

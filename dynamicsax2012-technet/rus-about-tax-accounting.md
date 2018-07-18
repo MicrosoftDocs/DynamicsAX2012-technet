@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About tax accounting
 TOCTitle: (RUS) About tax accounting
 ms:assetid: 2fb4f71e-3963-46d1-aeca-f7e4a946f748
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126120(v=AX.60)
 ms:contentKeyID: 52075362
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About tax accounting 
@@ -56,5 +58,5 @@ You must specify whether a transaction is an expense or revenue in the original 
 [(RUS) Create a register using the wizard](rus-create-a-register-using-the-wizard.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

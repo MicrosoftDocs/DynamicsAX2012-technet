@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define budget cycles
 TOCTitle: Define budget cycles
 ms:assetid: 0367b6cb-7c9f-4733-b5f9-c337babdd09a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - budget cycles
 - cycles for budgets
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define budget cycles 
@@ -43,5 +45,5 @@ Like fiscal calendars, budget cycles can be shared across legal entities.
 [Budget cycle time spans (form)](https://technet.microsoft.com/en-us/library/hh227604\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

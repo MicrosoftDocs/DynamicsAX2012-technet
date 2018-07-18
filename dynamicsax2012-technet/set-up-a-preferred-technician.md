@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a preferred technician
 TOCTitle: Set up a preferred technician
 ms:assetid: a82af202-0eb0-480b-bd56-d81facd98e67
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243058(v=AX.60)
 ms:contentKeyID: 36058884
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a preferred technician 
@@ -50,5 +52,5 @@ You can select any worker as a preferred technician for a service agreement or s
 [Create service orders manually](create-service-orders-manually.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: " liquidity ratio"
 TOCTitle: " liquidity ratio"
 ms:assetid: DynamicsAXGlossary.228498
@@ -27,5 +27,5 @@ The proportion of a party's current assets that can be used to settle current li
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

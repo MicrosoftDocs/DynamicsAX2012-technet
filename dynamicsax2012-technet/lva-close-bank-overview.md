@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Close bank overview
 TOCTitle: (LVA) Close bank overview
 ms:assetid: 7b690780-d994-456c-a822-57cc06b0d5d7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731032(v=AX.60)
 ms:contentKeyID: 49675270
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Close bank overview 
@@ -24,5 +26,5 @@ The following topics provide information about closing Bank.
 [(LVA) Print a statement of foreign payments received in domestic banks](lva-print-a-statement-of-foreign-payments-received-in-domestic-banks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Developing Extensible Data Security Policies (White paper)
 TOCTitle: Developing Extensible Data Security Policies
 ms:assetid: 3eff3026-9bd1-4158-a162-fe4f9162d755
@@ -18,5 +18,5 @@ The extensible data security framework is a new feature in Microsoft Dynamics AX
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213139).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

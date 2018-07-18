@@ -1,4 +1,4 @@
-﻿---
+---
 title: About using the Time and material project type for a fixed-price project
 TOCTitle: About using the Time and material project type for a fixed-price project
 ms:assetid: 5189cabd-f780-4aaf-8e49-b5e6596decda
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - project type
 - fixed-price contract
+audience: Application User
+ms.search.region: Global
 ---
 
 # About using the Time and material project type for a fixed-price project 
@@ -27,5 +29,5 @@ However, if you are managing projects that have fixed prices and smaller contrac
 [About project types](about-project-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

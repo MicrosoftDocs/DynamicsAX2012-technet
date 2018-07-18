@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the .NET Business Connector
 TOCTitle: Install the .NET Business Connector
 ms:assetid: c67944e8-73c5-4434-94d6-84484c810333
@@ -82,5 +82,5 @@ Use this procedure to install .NET Business Connector. If you install other Micr
 14. After the installation is completed, click **Finish** to close the wizard.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

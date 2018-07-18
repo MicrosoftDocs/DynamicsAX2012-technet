@@ -1,4 +1,4 @@
-﻿---
+---
 title: Data Upgrade Best Practices (White paper)
 TOCTitle: Data Upgrade Best Practices
 ms:assetid: 31a628bf-43ea-4909-afc5-ece5824c6d6d
@@ -18,5 +18,5 @@ This white paper describes the additional practices that Microsoft recommends th
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=238709).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

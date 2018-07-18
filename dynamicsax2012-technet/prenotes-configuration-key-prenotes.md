@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prenotes configuration key (Prenotes)
 TOCTitle: Prenotes configuration key (Prenotes)
 ms:assetid: b55de83c-9152-404f-bb45-4796a7b56f18
@@ -52,5 +52,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

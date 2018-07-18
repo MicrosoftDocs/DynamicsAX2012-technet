@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up item details for NVFAs
 TOCTitle: (RUS) Set up item details for NVFAs
 ms:assetid: 47833ca5-5bdc-44d9-a2ae-bd37548f04a6
@@ -10,6 +10,8 @@ f1_keywords:
 - item details
 - Russia
 - NVFA
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up item details for NVFAs 
@@ -36,5 +38,5 @@ Use this procedure to set up items as not valuable fixed assets (NVFAs).
 [(RUS) Item relation with FA group (form)](https://technet.microsoft.com/en-us/library/jj923557\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

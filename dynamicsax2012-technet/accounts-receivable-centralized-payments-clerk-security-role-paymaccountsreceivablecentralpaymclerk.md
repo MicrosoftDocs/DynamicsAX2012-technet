@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts receivable centralized payments clerk security role (PaymAccountsReceivableCentralPaymClerk)
 TOCTitle: Accounts receivable centralized payments clerk security role (PaymAccountsReceivableCentralPaymClerk)
 ms:assetid: a80f213d-6aff-4658-a4c8-1fe6c9f4bd3d
@@ -116,5 +116,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

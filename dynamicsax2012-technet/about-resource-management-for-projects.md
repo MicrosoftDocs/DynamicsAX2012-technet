@@ -1,4 +1,4 @@
-﻿---
+---
 title: About resource management for projects
 TOCTitle: About resource management for projects
 ms:assetid: 324a63e4-855e-4a62-bd0c-1300fa223f9b
@@ -14,6 +14,8 @@ f1_keywords:
 - resource-based scheduling
 - worker attributes
 - worker availability
+audience: Application User
+ms.search.region: Global
 ---
 
 # About resource management for projects 
@@ -119,5 +121,5 @@ The following prerequisites must be completed before workers can be assigned to 
 [Resource assignment analysis - worker (form)](https://technet.microsoft.com/en-us/library/hh227569\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

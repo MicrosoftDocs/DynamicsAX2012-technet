@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining sales orders
 TOCTitle: Setting up and maintaining sales orders
 ms:assetid: edf89e3f-f3b4-4810-ae8b-c23c7f0a8eac
@@ -21,6 +21,8 @@ f1_keywords:
 - sales order set-up
 - sales order setup
 - set up non-inventory items
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining sales orders 
@@ -45,5 +47,5 @@ The topics in this section provide information about the setting up and the main
 [Setting up not stocked trade](setting-up-not-stocked-trade.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

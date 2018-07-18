@@ -1,4 +1,4 @@
-﻿---
+---
 title: Master scheduling
 TOCTitle: Master scheduling
 ms:assetid: 90c8a2e4-e16f-46ce-9c7a-3923211ab117
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - master planning
+audience: Application User
+ms.search.region: Global
 ---
 
 # Master scheduling 
@@ -36,5 +38,5 @@ The topics in this section provide information about master planning.
 [About using tracing for master plans](about-using-tracing-for-master-plans.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

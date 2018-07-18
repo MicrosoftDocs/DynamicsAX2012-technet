@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create sales orders in the call center
 TOCTitle: Create sales orders in the call center
 ms:assetid: f82432c3-df07-4130-8865-a49b6c1be630
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn631664(v=AX.60)
 ms:contentKeyID: 62490078
 ms.date: 06/07/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create sales orders in the call center 
@@ -116,5 +118,5 @@ To add a note to a sales order line, follow these steps:
 [Complete common tasks in the Call center by using the Customer service form](complete-common-tasks-in-the-call-center-by-using-the-customer-service-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

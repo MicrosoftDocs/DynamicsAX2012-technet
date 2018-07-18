@@ -1,4 +1,4 @@
-﻿---
+---
 title: About evidence
 TOCTitle: About evidence
 ms:assetid: 3029e174-33c8-416d-8d58-93e1d44ecf24
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271490(v=AX.60)
 ms:contentKeyID: 36384122
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About evidence 
@@ -99,5 +101,5 @@ Deleting an evidence attachment removes the link to the attachment, but does not
 [About process documentation](about-process-documentation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

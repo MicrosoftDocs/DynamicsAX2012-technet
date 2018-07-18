@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process customer prepayment journal vouchers
 TOCTitle: Process customer prepayments
 ms:assetid: fec772c8-7812-458d-93ef-07cc89638d4f
@@ -10,6 +10,8 @@ f1_keywords:
 - customer prepayment
 - customer prepayment processing
 - customer prepayments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process customer prepayment journal vouchers 
@@ -24,5 +26,5 @@ The following topics provide information about processing customer prepayment jo
 [(SWE) Import BG direct debit payment returns to a general journal](swe-import-bg-direct-debit-payment-returns-to-a-general-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Preview the ledger transactions
 TOCTitle: (EEUR) Preview the ledger transactions
 ms:assetid: dcafaa2f-af99-40fa-b9e9-7c2f2253ab96
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710626(v=AX.60)
 ms:contentKeyID: 49385023
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Preview the ledger transactions 
@@ -56,5 +58,5 @@ You can preview the ledger transactions before posting the ledger journal.
 [(LTU) Vendor payment journal lines (modified form)](https://technet.microsoft.com/en-us/library/jj665107\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

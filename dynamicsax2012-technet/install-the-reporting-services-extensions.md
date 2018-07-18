@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the Reporting Services extensions
 TOCTitle: Install the Reporting Services extensions
 ms:assetid: d876745a-a2e7-4ce8-b608-beca6f8548dd
@@ -105,5 +105,5 @@ This procedure assumes that you are installing the Reporting Services extensions
 16. The **Microsoft Dynamics AX 2012 Setup Summary Report** is displayed. This report lists additional procedures that you must complete to integrate Microsoft Dynamics AX and Reporting Services. For more information about the procedures, see [Complete the Reporting Services integration](complete-the-reporting-services-integration.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

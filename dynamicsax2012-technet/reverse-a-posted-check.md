@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reverse a posted check
 TOCTitle: Reverse a posted check
 ms:assetid: e3727e47-80cf-493a-add4-4c5d8e912ea6
@@ -13,6 +13,8 @@ f1_keywords:
 - check reversal
 - check reversals
 - reversals
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reverse a posted check 
@@ -155,5 +157,5 @@ If the check that was reversed was issued for a customer payment, the following 
 [Void unposted checks](void-unposted-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

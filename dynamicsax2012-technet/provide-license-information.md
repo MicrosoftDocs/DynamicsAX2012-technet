@@ -1,4 +1,4 @@
-﻿---
+---
 title: Provide license information
 TOCTitle: Provide license information
 ms:assetid: 16e3bec8-88c8-4602-84dd-c2b0a9915a76
@@ -80,5 +80,5 @@ If your license includes specific languages, you must restart the AOS after impo
 If you enter license information that is not valid for your default language, you will not be able to start the Microsoft Dynamics AX client. If this occurs, a system administrator must change your default language. Alternatively, you can start the client through the command line and use the -language parameter. (For example, ax32.exe -language=ES.) For more information about how to use this parameter, see [Client configuration commands](client-configuration-commands.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

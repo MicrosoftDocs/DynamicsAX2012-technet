@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the amount difference in the tax accounting register
 TOCTitle: (RUS) Calculate the amount difference in the tax accounting register
 ms:assetid: 9b3321ae-05f1-457f-8dd1-c3cd1aa468fd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678521(v=AX.60)
 ms:contentKeyID: 49387750
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the amount difference in the tax accounting register 
@@ -60,5 +62,5 @@ You can use the **Tax register journal** form to set up a register that is used 
 [(RUS) Approve the register](rus-approve-the-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

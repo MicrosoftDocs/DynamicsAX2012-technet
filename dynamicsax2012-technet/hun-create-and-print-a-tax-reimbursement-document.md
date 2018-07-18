@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Create and print a tax reimbursement document
 TOCTitle: (HUN) Create and print a tax reimbursement document
 ms:assetid: 95573223-4fbe-4ee2-ba23-0a287510d3a5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664334(v=AX.60)
 ms:contentKeyID: 49385422
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Create and print a tax reimbursement document 
@@ -70,5 +72,5 @@ The **Vat settled** check box is selected for the invoice and the invoice lines.
 [(HUN) Customer invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj733167\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

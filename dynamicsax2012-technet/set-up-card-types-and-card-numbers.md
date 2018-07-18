@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up card types and card numbers
 TOCTitle: Set up card types and card numbers
 ms:assetid: 8ba5b506-d984-4d70-93d9-93e33f6e43e4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597162(v=AX.60)
 ms:contentKeyID: 39519219
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up card types and card numbers 
@@ -50,5 +52,5 @@ You can also enter a range of values to identify a specific card type. For examp
 [Set up card payment methods for stores](set-up-card-payment-methods-for-stores.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

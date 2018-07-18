@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate items and dimensions
 TOCTitle: Generate items and dimensions
 ms:assetid: d0cbd4c1-1628-4f7b-969e-3ba6356d0c85
@@ -10,6 +10,8 @@ f1_keywords:
 - product builder
 - product builder dimensions
 - product builder items
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate items and dimensions 
@@ -49,5 +51,5 @@ For some types of production, it might be convenient to save each configured ite
 [Product models (form)](https://technet.microsoft.com/en-us/library/aa572853\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Generate annexure 58 for returned items
 TOCTitle: (IND) Generate annexure 58 for returned items
 ms:assetid: f848a56d-09ad-4880-baea-2de0f4b592f5
@@ -12,6 +12,8 @@ f1_keywords:
 - Annexure 58
 - Forms.ExciseAnnexure58Inquiry_IN
 - goods return
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Generate annexure 58 for returned items 
@@ -129,5 +131,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

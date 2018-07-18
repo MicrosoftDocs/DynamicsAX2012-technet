@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up an average exchange rate calculation
 TOCTitle: (HUN) Set up an average exchange rate calculation
 ms:assetid: 2579c3e3-aa06-4214-8231-44e91475e215
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664239(v=AX.60)
 ms:contentKeyID: 49385328
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up an average exchange rate calculation 
@@ -36,5 +38,5 @@ You can set up the calculation of exchange rates for journal lines. For cash and
 10. Click **OK** to close the form. The exchange rate calculation is used by slip journals and by general journals that have petty cash lines.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

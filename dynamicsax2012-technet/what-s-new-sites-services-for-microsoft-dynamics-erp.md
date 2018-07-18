@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Sites Services for Microsoft Dynamics ERP"
 TOCTitle: Sites Services for Microsoft Dynamics ERP
 ms:assetid: 5d12b777-fbbc-40e5-9e79-4985ecb69e87
@@ -98,5 +98,5 @@ AX 2012 has changes that support the integration of Sites Services and Microsoft
 For more information, see [(USA) Setting up and maintaining Sites Services for Microsoft Dynamics ERP](usa-setting-up-and-maintaining-sites-services-for-microsoft-dynamics-erp.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

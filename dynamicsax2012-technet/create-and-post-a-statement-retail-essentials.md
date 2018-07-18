@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and post a statement (Retail essentials)
 TOCTitle: Create and post a statement (Retail essentials)
 ms:assetid: 737de1cf-38a8-4dc2-9d91-469a514b46b1
@@ -130,5 +130,5 @@ To run the statement processes for your stores automatically, based on a schedul
 12. Click **OK**. Inventory will be updated according to the frequency that you specified.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reporting and analytics
 TOCTitle: Reporting and analytics
 ms:assetid: d0049e36-5566-4031-8423-ade435d8bc33
@@ -21,6 +21,8 @@ f1_keywords:
 - olap
 - ssas
 - ssrs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reporting and analytics 
@@ -35,5 +37,5 @@ Microsoft Dynamics AX provides hundreds of preconfigured reports that you can us
 [How to create a custom report](how-to-create-a-custom-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

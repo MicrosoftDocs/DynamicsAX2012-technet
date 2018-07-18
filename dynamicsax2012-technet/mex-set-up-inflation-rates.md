@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Set up inflation rates
 TOCTitle: (MEX) Set up inflation rates
 ms:assetid: 6d1104d2-e8b8-49a3-a27a-e2f59be22e32
@@ -10,6 +10,8 @@ f1_keywords:
 - Mexico
 - inflation
 - rates
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Set up inflation rates 
@@ -38,5 +40,5 @@ The inflation adjustment process allows you to view inflation adjustment data in
 [(MEX) Inflation Adjustment B-10 (form)](https://technet.microsoft.com/en-us/library/hh209670\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

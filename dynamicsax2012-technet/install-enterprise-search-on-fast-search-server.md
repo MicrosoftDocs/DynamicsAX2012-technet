@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Enterprise Search on FAST Search Server
 TOCTitle: Install Enterprise Search on FAST Search Server
 ms:assetid: 50945280-0565-4786-b0c9-f26d0f947f27
@@ -169,5 +169,5 @@ FAST Search Server 2010 creates properties for crawled data. Microsoft Dynamics 
 [Checklist: Deploy Microsoft Dynamics AX Enterprise Search](checklist-deploy-microsoft-dynamics-ax-enterprise-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

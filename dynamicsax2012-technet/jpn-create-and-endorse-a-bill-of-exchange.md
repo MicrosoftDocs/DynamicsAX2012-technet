@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Create and endorse a bill of exchange
 TOCTitle: (JPN) Create and endorse a bill of exchange
 ms:assetid: c1c22cfc-9812-4f64-af12-b905eb9df72a
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - JP - 00008
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Create and endorse a bill of exchange 
@@ -92,5 +94,5 @@ You can accept a bill of exchange (BOE) by drawing a bill of exchange, and you c
 [(JPN) Endorse bill of exchange (list page)](https://technet.microsoft.com/en-us/library/jj911067\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

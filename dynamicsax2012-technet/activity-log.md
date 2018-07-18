@@ -1,4 +1,4 @@
-﻿---
+---
 title: " activity log"
 TOCTitle: " activity log"
 ms:assetid: DynamicsAXGlossary.1496321
@@ -23,5 +23,5 @@ A historic record of the state of a source document.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

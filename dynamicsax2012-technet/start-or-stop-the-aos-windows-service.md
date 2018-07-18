@@ -1,4 +1,4 @@
-﻿---
+---
 title: Start or stop the AOS Windows service
 TOCTitle: Start or stop the AOS Windows service
 ms:assetid: f398772e-dc8a-4b5e-875b-29230b469b79
@@ -28,5 +28,5 @@ You can start, stop, or restart the Application Object Server (AOS) service by u
 [Troubleshooting Application Object Servers](troubleshooting-application-object-servers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

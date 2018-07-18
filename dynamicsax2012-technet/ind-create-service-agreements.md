@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create service agreements
 TOCTitle: (IND) Create service agreements
 ms:assetid: 6b6c9caf-3c3c-4149-a693-d2f2a13dfd15
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677894(v=AX.60)
 ms:contentKeyID: 49385857
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create service agreements 
@@ -58,5 +60,5 @@ Before you create a service agreement, you might want to create service objects,
 [About service agreements](about-service-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

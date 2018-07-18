@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up the accounts receivable parameters to calculate interest
 TOCTitle: (POL) Set up the accounts receivable parameters to calculate interest
 ms:assetid: 9a412380-af50-4b06-9a74-5cf1fdb2109e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678309(v=AX.60)
 ms:contentKeyID: 49387031
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up the accounts receivable parameters to calculate interest 
@@ -62,5 +64,5 @@ You can define the parameters for interest calculation in **Accounts receivable 
 [(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678183\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

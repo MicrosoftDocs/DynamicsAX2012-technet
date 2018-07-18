@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate a storno transaction for a transfer order receipt with scrap quantity
 TOCTitle: (RUS) Generate a storno transaction for a transfer order receipt with scrap quantity
 ms:assetid: 38bac527-3c16-44ef-aef3-854dccb236a2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - storno
 - receipt order
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate a storno transaction for a transfer order receipt with scrap quantity 
@@ -79,5 +81,5 @@ You can write off the scrap quantity of an item when you receive the item after 
 [(RUS) Inventory transactions (modified form)](https://technet.microsoft.com/en-us/library/jj733410\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

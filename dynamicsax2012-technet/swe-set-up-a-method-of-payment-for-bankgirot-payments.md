@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Set up a method of payment for Bankgirot payments
 TOCTitle: (SWE) Set up a method of payment for Bankgirot payments
 ms:assetid: 7e1c7d7e-0577-444f-a1b9-11dbbed20471
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213144(v=AX.60)
 ms:contentKeyID: 36058315
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Set up a method of payment for Bankgirot payments 
@@ -40,5 +42,5 @@ In Sweden, vendor payment files are sent to Bankgirot, which is a payment cleari
 [Bankgirot (SE) (form)](https://technet.microsoft.com/en-us/library/hh209643\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy a claims-mode Enterprise Portal site
 TOCTitle: Deploy a claims-mode Enterprise Portal site
 ms:assetid: d188e9bc-1bbb-49d9-b40f-fdc5b6322e60
@@ -20,5 +20,5 @@ The topics in this section provide information about how to install Enterprise P
 [Deploy an Enterprise Portal site that uses AD FS authentication](deploy-an-enterprise-portal-site-that-uses-ad-fs-authentication.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Receive products
 TOCTitle: (IND) Receive products
 ms:assetid: 24397e3c-8fe1-4996-b56c-8259ab9cb66f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664564(v=AX.60)
 ms:contentKeyID: 49385641
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Receive products 
@@ -22,5 +24,5 @@ The following topics provide information about receiving products.
 [(IND) Post received orders for transactions](ind-post-received-orders-for-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

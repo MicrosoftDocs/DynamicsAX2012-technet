@@ -1,4 +1,4 @@
-﻿---
+---
 title: Activate the letter of guarantee
 TOCTitle: Activate the letter of guarantee
 ms:assetid: 6f89746d-d160-4d59-a033-22b8524dfbf9
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Activate the letter of guarantee
 - Letter of guarantee
+audience: Application User
+ms.search.region: Global
 ---
 
 # Activate the letter of guarantee 
@@ -43,5 +45,5 @@ Before you use the **Cash and bank management parameters** form to activate the 
 [Set up posting profiles for the letter of guarantee](set-up-posting-profiles-for-the-letter-of-guarantee.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

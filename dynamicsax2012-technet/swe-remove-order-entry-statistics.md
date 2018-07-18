@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Remove order entry statistics
 TOCTitle: (SWE) Remove order entry statistics
 ms:assetid: a937d09f-c8b3-4b75-a6dc-0944b6e15bcd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243070(v=AX.60)
 ms:contentKeyID: 36058893
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Remove order entry statistics 
@@ -26,5 +28,5 @@ When you track sales order entry statistics, the amount of space that is require
 [Order entry statistics clean up (class form)](https://technet.microsoft.com/en-us/library/aa500466\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

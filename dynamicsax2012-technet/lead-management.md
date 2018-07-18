@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lead management
 TOCTitle: Lead management
 ms:assetid: 7989d576-8708-4473-90fa-324846b68776
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213017(v=AX.60)
 ms:contentKeyID: 36058240
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Lead management 
@@ -22,5 +24,5 @@ As you manage a lead record, you can update the status to indicate where it is i
 You can disqualify, delete, or postpone a record if it seems that the lead will not become an opportunity or customer for your organization. When you delete a lead record, you can also delete any associated activities, responsibilities, campaigns, and contacts. If you postpone a lead record, you can reactivate or disqualify the lead later.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

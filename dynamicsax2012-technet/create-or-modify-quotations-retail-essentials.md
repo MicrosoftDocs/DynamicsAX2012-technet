@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify quotations (Retail essentials)
 TOCTitle: Create or modify quotations (Retail essentials)
 ms:assetid: 801a514d-3d5d-40e3-971d-3bb65dee6ec9
@@ -83,5 +83,5 @@ This topic explains how to create and modify a sales quotation, and how to conve
 [Create sales orders and customer invoices (Retail essentials)](create-sales-orders-and-customer-invoices-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

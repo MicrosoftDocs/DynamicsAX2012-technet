@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain postdated checks for vendors
 TOCTitle: Maintain postdated checks for vendors
 ms:assetid: 449c4496-1f15-4e47-84f1-1400ce43ee3a
@@ -11,6 +11,8 @@ f1_keywords:
 - vendors
 - postdated checks
 - postdated check
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain postdated checks for vendors 
@@ -29,5 +31,5 @@ The following topics provide information about maintaining postdated checks for 
 [Stop a postdated check payment](stop-a-postdated-check-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

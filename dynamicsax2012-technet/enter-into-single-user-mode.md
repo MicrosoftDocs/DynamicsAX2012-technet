@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter into single-user mode
 TOCTitle: Enter into single-user mode
 ms:assetid: b417a37d-18ed-48fb-84df-136820c4dc66
@@ -140,5 +140,5 @@ Before you begin final preprocessing on the source system, set the source system
 5.  Click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

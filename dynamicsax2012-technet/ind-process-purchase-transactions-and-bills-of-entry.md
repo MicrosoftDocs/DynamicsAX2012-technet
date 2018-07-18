@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Process purchase transactions and bills of entry
 TOCTitle: (IND) Process purchase transactions and bills of entry
 ms:assetid: 7ab50fa7-423a-43a5-8b61-1418c926c9bb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677930(v=AX.60)
 ms:contentKeyID: 49385892
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Process purchase transactions and bills of entry 
@@ -40,5 +42,5 @@ The following topics provide information about processing purchase transactions 
 [(IND) View related vouchers to verify voucher and tax accounting entries](ind-view-related-vouchers-to-verify-voucher-and-tax-accounting-entries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

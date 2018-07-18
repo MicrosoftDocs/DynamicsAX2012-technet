@@ -1,4 +1,4 @@
-﻿---
+---
 title: Find withholding tax transactions for a vendor by using transaction descriptions
 TOCTitle: Find withholding tax transactions for a vendor by using transaction descriptions
 ms:assetid: da891955-4626-46f3-a8f4-cbc1f1567653
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213717(v=AX.60)
 ms:contentKeyID: 37822161
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Find withholding tax transactions for a vendor by using transaction descriptions 
@@ -30,5 +32,5 @@ When a payment is posted for a vendor who is subject to withholding tax, the des
 [Enter a vendor payment that is subject to withholding tax](enter-a-vendor-payment-that-is-subject-to-withholding-tax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

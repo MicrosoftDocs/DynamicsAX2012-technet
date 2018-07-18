@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run the Install-AXReportInstanceExtensions command
 TOCTitle: Run the Install-AXReportInstanceExtensions command
 ms:assetid: 8d7114ff-43d6-4661-906c-5434837bfb64
@@ -189,5 +189,5 @@ After you run the Install-AXReportInstanceExtensions command, you must complete 
 [Install multiple instances of Reporting Services on the same computer (for use with Microsoft Dynamics AX)](install-multiple-instances-of-reporting-services-on-the-same-computer-for-use-with-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

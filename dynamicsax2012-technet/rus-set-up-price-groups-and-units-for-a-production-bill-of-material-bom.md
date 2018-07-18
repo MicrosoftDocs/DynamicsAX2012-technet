@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up price groups and units for a production bill of material (BOM)
 TOCTitle: (RUS) Set up price groups and units for a production bill of material (BOM)
 ms:assetid: 4d212b16-73c2-4560-9aea-a3aff0ba27fe
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665364(v=AX.60)
 ms:contentKeyID: 49387453
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up price groups and units for a production bill of material (BOM) 
@@ -50,5 +52,5 @@ Use the **BOM** form to set up the unit price for a production bill of materials
 8.  In the **Amount** field, enter the amount for the production BOM line.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

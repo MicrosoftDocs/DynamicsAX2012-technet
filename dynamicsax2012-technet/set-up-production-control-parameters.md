@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up production control parameters
 TOCTitle: Set up production control parameters
 ms:assetid: fd58436b-b540-4149-9843-121e702fb35b
@@ -12,6 +12,8 @@ f1_keywords:
 - production
 - production control
 - production order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up production control parameters 
@@ -264,5 +266,5 @@ To set up number sequences for production, follow this step:
 [About inventory dimensions and dimension groups](about-inventory-dimensions-and-dimension-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

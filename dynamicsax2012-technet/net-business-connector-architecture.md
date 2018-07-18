@@ -1,4 +1,4 @@
-﻿---
+---
 title: .NET Business Connector architecture
 TOCTitle: .NET Business Connector architecture
 ms:assetid: 492d0d1c-5697-482a-9893-54a06756a4a2
@@ -32,5 +32,5 @@ The following diagram shows the Business Connector architecture.
 [Services and AIF architecture](services-and-aif-architecture.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

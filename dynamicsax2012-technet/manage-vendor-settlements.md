@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage vendor settlements
 TOCTitle: Manage vendor settlements
 ms:assetid: 0d5fd538-e8ae-4c8f-89b0-b956c698407b
@@ -17,6 +17,8 @@ f1_keywords:
 - settle
 - vendor settlement
 - vendor settlements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage vendor settlements 
@@ -39,5 +41,5 @@ The following topics provide information about managing vendor settlements.
 [(USA) Post a vendor payment journal and generate a 1099 OID report](usa-post-a-vendor-payment-journal-and-generate-a-1099-oid-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

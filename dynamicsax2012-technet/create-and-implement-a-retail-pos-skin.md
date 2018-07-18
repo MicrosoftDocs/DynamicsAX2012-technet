@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and implement a Retail POS skin
 TOCTitle: Create and implement a Retail POS skin
 ms:assetid: 9084b4f5-9cbe-4d83-bdb1-00608f307336
@@ -205,5 +205,5 @@ You also need to make Retail POS aware of your new skin.
     ![NewPOSSkin](images/JJ937979.NewSkin(en-us,AX.60).png "NewPOSSkin")
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

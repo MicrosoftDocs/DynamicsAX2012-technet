@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Import a BAI2 statement and manually reconcile the accounts
 TOCTitle: (USA) Import a BAI2 statement and manually reconcile the accounts
 ms:assetid: 46c32624-ed17-4f2e-a7fe-569778f102ac
@@ -11,6 +11,8 @@ f1_keywords:
 - USA
 - BAI2
 - reconcile
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Import a BAI2 statement and manually reconcile the accounts 
@@ -171,5 +173,5 @@ Use the **Journal voucher** form to import the BAI2 statement and manually recon
 [Journal voucher - General journal (form)](https://technet.microsoft.com/en-us/library/aa591466\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

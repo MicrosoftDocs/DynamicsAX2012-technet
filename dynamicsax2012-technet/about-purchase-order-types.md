@@ -1,4 +1,4 @@
-﻿---
+---
 title: About purchase order types
 TOCTitle: About purchase order types
 ms:assetid: 543642da-aef3-40e7-b3d2-78ffa9a1cc84
@@ -21,6 +21,8 @@ f1_keywords:
 - purchase products
 - recurring orders
 - quotation order
+audience: Application User
+ms.search.region: Global
 ---
 
 # About purchase order types 
@@ -69,5 +71,5 @@ When you create a purchase order, you must indicate which type of an order it is
 [About purchase agreements](about-purchase-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Master planning and multisite functionality
 TOCTitle: Master planning and multisite functionality
 ms:assetid: 327813a9-4541-4b02-bfdb-133f8fa08f79
@@ -10,6 +10,8 @@ f1_keywords:
 - demand explosion scenarios
 - multisite planning
 - warehouse storage dimension
+audience: Application User
+ms.search.region: Global
 ---
 
 # Master planning and multisite functionality 
@@ -44,5 +46,5 @@ The following scenarios describe how the planning engine works, when different s
 [About master scheduling - how the BOM version is determined](about-master-scheduling-how-the-bom-version-is-determined.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

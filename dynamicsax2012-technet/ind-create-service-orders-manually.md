@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create service orders manually
 TOCTitle: (IND) Create service orders manually
 ms:assetid: e8cd47e7-ce2e-4939-9d6c-5351e51e9fad
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710921(v=AX.60)
 ms:contentKeyID: 49386333
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create service orders manually 
@@ -64,5 +66,5 @@ You can also use automated processes to create service orders. For more informat
 [Create service orders automatically](create-service-orders-automatically.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

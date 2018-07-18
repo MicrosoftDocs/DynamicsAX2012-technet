@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Audit policies'
 TOCTitle: 'Key tasks: Audit policies'
 ms:assetid: 6f34aced-dcd8-43ab-9d0f-763f8c5e2b7a
@@ -12,6 +12,8 @@ f1_keywords:
 - audit
 - audits
 - auditing policy
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Audit policies 
@@ -251,5 +253,5 @@ Back to top
 [Set up policy parameters](set-up-policy-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

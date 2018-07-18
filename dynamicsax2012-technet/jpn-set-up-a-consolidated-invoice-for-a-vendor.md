@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up a consolidated invoice for a vendor
 TOCTitle: (JPN) Set up a consolidated invoice for a vendor
 ms:assetid: 491e16a5-2d73-46b9-b87d-438548bc5c87
@@ -10,6 +10,8 @@ f1_keywords:
 - consolidation
 - JPN
 - (JPN) Set up the consolidation date for a vendor
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up a consolidated invoice for a vendor 
@@ -68,5 +70,5 @@ You can consolidate multiple purchase orders into one invoice, based on a consol
 [(JPN) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710993\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

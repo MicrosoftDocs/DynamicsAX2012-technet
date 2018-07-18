@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a general budget reservation (Public sector)
 TOCTitle: Create a general budget reservation (Public sector)
 ms:assetid: 375d1e32-5bbb-4738-ae3d-015a5a59c643
@@ -26,6 +26,8 @@ f1_keywords:
 - general budget reservations
 - new budget reservation
 - new general budget reservation
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Create a general budget reservation (Public sector) 
@@ -149,5 +151,5 @@ Use the following steps to reference a general budget reservation on a purchase 
 [Relieve a general budget reservation (Public sector)](relieve-a-general-budget-reservation-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Purchase requisition statistics report (PurchReqStatistics)
 TOCTitle: Purchase requisition statistics report (PurchReqStatistics)
 ms:assetid: 9d9518c5-e754-447e-8709-21fc4df4f891
@@ -154,5 +154,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Submit a batch processing job from a form](submit-a-batch-processing-job-from-a-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

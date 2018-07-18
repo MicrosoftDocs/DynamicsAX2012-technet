@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post an inventory journal for bailment
 TOCTitle: (RUS) Create and post an inventory journal for bailment
 ms:assetid: fdbe4172-ba0e-475d-88a9-50c431467c3a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853246(v=AX.60)
 ms:contentKeyID: 50396526
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post an inventory journal for bailment 
@@ -48,5 +50,5 @@ Use the **Counting** form to create and post an inventory counting journal for a
 [(RUS) Generate the Counting list (INV-5) report](rus-generate-the-counting-list-inv-5-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

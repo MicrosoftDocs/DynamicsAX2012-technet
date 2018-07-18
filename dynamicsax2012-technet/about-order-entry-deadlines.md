@@ -1,4 +1,4 @@
-﻿---
+---
 title: About order entry deadlines
 TOCTitle: About order entry deadlines
 ms:assetid: 69192fde-5223-46e6-832f-bbf0fed1e73b
@@ -11,6 +11,8 @@ f1_keywords:
 - sales order
 - deadline
 - deadlines
+audience: Application User
+ms.search.region: Global
 ---
 
 # About order entry deadlines 
@@ -269,5 +271,5 @@ The following table shows the order-entry deadlines for sites A and B, converted
 [Set up the transport calendar](set-up-the-transport-calendar.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

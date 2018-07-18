@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transfer order transactions for Intrastat reporting
 TOCTitle: Transfer order transactions for Intrastat reporting
 ms:assetid: 4d730f63-f684-47db-b8a9-ebf9df151610
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304976(v=AX.60)
 ms:contentKeyID: 54899962
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Transfer order transactions for Intrastat reporting 
@@ -106,5 +108,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [About Intrastat](about-intrastat.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

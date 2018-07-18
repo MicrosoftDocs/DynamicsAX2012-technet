@@ -1,4 +1,4 @@
-﻿---
+---
 title: Publishing a service by using the Windows Azure Service Bus adapter
 TOCTitle: Publishing a service by using the Windows Azure Service Bus adapter
 ms:assetid: 16b6d55c-3d9f-4aaf-b319-982cc75e10f8
@@ -48,5 +48,5 @@ To read complete walkthroughs of a scenario that uses the Service Bus adapter to
 [Service Bus Overview](http://go.microsoft.com/fwlink/?linkid=302333%26clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

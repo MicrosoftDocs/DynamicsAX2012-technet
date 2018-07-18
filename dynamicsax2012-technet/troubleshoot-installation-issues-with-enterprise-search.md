@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot installation issues with Enterprise Search
 TOCTitle: Troubleshoot installation issues with Enterprise Search
 ms:assetid: 7d38c40f-3ae5-4a10-b159-9519c6ed9150
@@ -80,5 +80,5 @@ The Business Connector (BC) proxy account and the account that is used for the S
 [Install Microsoft Dynamics AX Enterprise Search](install-microsoft-dynamics-ax-enterprise-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About sum recalculations and posting of rounding differences
 TOCTitle: About sum recalculations and posting of rounding differences
 ms:assetid: 7d43c68a-3a5b-4df9-b96a-21c340754809
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571526(v=AX.60)
 ms:contentKeyID: 36058295
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About sum recalculations and posting of rounding differences 
@@ -48,5 +50,5 @@ If you convert to a new ledger accounting currency, and an error has occurred du
 You must close Microsoft Dynamics AX and restart it when the conversion date in the **Ledger accounting currency conversion** form is changed.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

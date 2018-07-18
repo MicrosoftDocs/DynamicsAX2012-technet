@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a reply to a request for quotation
 TOCTitle: Create a reply to a request for quotation
 ms:assetid: 52ec2199-7177-4bea-92c1-386ee9ccd10f
@@ -24,6 +24,8 @@ f1_keywords:
 - MsDynAx060.Forms.PurchRFQReplyTable
 - MsDynAx060.Forms.PurchRFQReplyTableListPage
 - request for quotation reply
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a reply to a request for quotation 
@@ -102,5 +104,5 @@ When you save the RFQ reply, you can then accept or reject lines in the reply. Y
 [Modify a request for quotation](modify-a-request-for-quotation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

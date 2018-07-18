@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Determine benefit eligibility'
 TOCTitle: 'Key tasks: Determine benefit eligibility'
 ms:assetid: 22762fd9-a19d-4899-a01e-3fa1dc4b0245
@@ -12,6 +12,8 @@ f1_keywords:
 - open enrollment
 - eligible workers
 - qualified life event
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Determine benefit eligibility 
@@ -237,5 +239,5 @@ Back to top
 [Enroll multiple workers in a benefit at the same time](enroll-multiple-workers-in-a-benefit-at-the-same-time.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

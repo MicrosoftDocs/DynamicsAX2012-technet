@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Japan (JPN)"
 TOCTitle: Country-specific features for Japan
 ms:assetid: 796b30fa-7878-4365-b12f-2156067a1f6a
@@ -590,5 +590,5 @@ For more information about additional country-specific features that we added fo
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

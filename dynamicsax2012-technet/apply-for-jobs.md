@@ -1,4 +1,4 @@
-﻿---
+---
 title: Apply for jobs
 TOCTitle: Apply for jobs
 ms:assetid: 4f76df9c-c2fb-403a-9824-cba1c9a03f51
@@ -12,6 +12,8 @@ f1_keywords:
 - HcmEPOpenJobsApply
 - HcmEpOpenJobsApplyConfirm
 - HcmEPOpenJobsListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Apply for jobs 
@@ -50,5 +52,5 @@ To apply for a job, you can either respond to a job ad or submit an unsolicited 
 [View recruitment projects and applications](view-recruitment-projects-and-applications.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

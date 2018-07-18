@@ -1,4 +1,4 @@
-﻿---
+---
 title: Insert a Document handling node
 TOCTitle: Insert a Document handling node
 ms:assetid: 46d62539-886b-430d-a1d7-72e6f9205920
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496991(v=AX.60)
 ms:contentKeyID: 36056906
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Insert a Document handling node 
@@ -48,5 +50,5 @@ The **Document handling** nodes are useful for attaching documents, files, or no
 9.  In the **Restriction** field, specify the restriction type for the document.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

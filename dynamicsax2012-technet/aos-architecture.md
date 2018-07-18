@@ -1,4 +1,4 @@
-﻿---
+---
 title: AOS architecture
 TOCTitle: AOS architecture
 ms:assetid: 0f8174e4-1f5f-41eb-843a-7c7faf133cc3
@@ -40,5 +40,5 @@ The following diagram shows the AOS architecture.
 [Application integration](application-integration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

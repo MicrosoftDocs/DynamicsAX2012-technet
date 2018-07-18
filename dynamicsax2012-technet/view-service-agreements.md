@@ -1,4 +1,4 @@
-﻿---
+---
 title: View service agreements
 TOCTitle: View service agreements
 ms:assetid: 65ad05fb-2217-4e67-aeb8-5ac11e1bd437
@@ -10,6 +10,8 @@ f1_keywords:
 - EPServiceAgreementInfo
 - EPServiceAgreementLineInfo
 - EPServiceAgreementList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View service agreements 
@@ -54,5 +56,5 @@ You can use the **Service agreements** page to view a list of service agreements
 [View service task relations](view-service-task-relations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

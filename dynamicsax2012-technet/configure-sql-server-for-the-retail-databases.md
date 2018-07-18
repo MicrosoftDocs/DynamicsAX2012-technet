@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure SQL Server for the Retail databases
 TOCTitle: Configure SQL Server for the Retail databases
 ms:assetid: 826d3038-b41d-425d-83e7-f439846a4f90
@@ -149,5 +149,5 @@ On the computer where the channel database is installed, use SQL Server Manageme
 Any instance of SQL Server that must be accessed from a remote computer must be set up to accept remote connections. For example, any store database server and any computer on which a Synch Service message database is installed without an instance of Synch Service must accept remote connections. Make sure that the TCP/IP protocol is also enabled for SQL Server instances that are accessed remotely.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

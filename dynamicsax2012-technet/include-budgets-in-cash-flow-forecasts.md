@@ -1,4 +1,4 @@
-﻿---
+---
 title: Include budgets in cash flow forecasts
 TOCTitle: Include budgets in cash flow forecasts
 ms:assetid: 8b199556-def2-42e0-80a4-7670bf9b9990
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498248(v=AX.60)
 ms:contentKeyID: 36941345
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Include budgets in cash flow forecasts 
@@ -77,5 +79,5 @@ You can include budgets that are created from budget models in cash flow forecas
       - Click **Inventory management** \> **Periodic** \> **Forecast** \> **Update** \> **Purchase budget to ledger**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

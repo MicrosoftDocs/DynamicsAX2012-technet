@@ -1,4 +1,4 @@
-﻿---
+---
 title: About return cost price and return lot ID
 TOCTitle: About return cost price and return lot ID
 ms:assetid: 5036e8a9-6722-425d-a462-fa86df7a5016
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa582550(v=AX.60)
 ms:contentKeyID: 43976715
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About return cost price and return lot ID 
@@ -96,5 +98,5 @@ When you use the **Return lot ID** field on a return order line to specify the r
 [Authorize customer returns](authorize-customer-returns.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) About Sites Services
 TOCTitle: (USA) About Sites Services
 ms:assetid: d7e97c33-1fa3-40e4-bda9-35a9877eef4c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227394(v=AX.60)
 ms:contentKeyID: 36059640
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) About Sites Services 
@@ -52,5 +54,5 @@ Microsoft Dynamics AX includes a new Sites Services solution, **Advertise retail
 [(USA) About Commerce Services](usa-about-commerce-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

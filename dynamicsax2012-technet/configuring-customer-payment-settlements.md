@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring customer payment settlements
 TOCTitle: Configuring customer payment settlements
 ms:assetid: 1a94cc7e-c2c0-4729-958f-a8c070302913
@@ -13,6 +13,8 @@ f1_keywords:
 - customer payment settlements
 - payment settlements
 - payment settlement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring customer payment settlements 
@@ -35,5 +37,5 @@ The following topics provide information about configuring options for settlemen
 [(FRA) Apply a penalty when a customer payment is past due](fra-apply-a-penalty-when-a-customer-payment-is-past-due.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

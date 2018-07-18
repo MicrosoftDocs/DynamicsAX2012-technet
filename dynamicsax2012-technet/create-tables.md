@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create tables
 TOCTitle: Create tables
 ms:assetid: c7f84356-e67a-4eea-95fa-5824b05315d0
@@ -75,5 +75,5 @@ Create the target database schema as follows:
     Address any errors or warnings before you continue with the data upgrade. Unresolved table errors will cause the data upgrade to fail. After you verify that there are no errors or warnings, click **Continue** on the **Synchronize database** form. The upgrade framework creates the tables in the target database.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

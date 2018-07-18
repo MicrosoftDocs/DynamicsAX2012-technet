@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Create a Japanese financial statement
 TOCTitle: (JPN) Create a Japanese financial statement
 ms:assetid: db18e463-a44a-49da-a617-c77d81fdbd90
@@ -10,6 +10,8 @@ f1_keywords:
 - financial statement
 - Japanese
 - JP - 00003
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Create a Japanese financial statement 
@@ -58,5 +60,5 @@ You can design a financial statement, and then produce financial statements for 
 [(JPN) Print a Japanese financial statement](jpn-print-a-japanese-financial-statement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

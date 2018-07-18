@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up electronic banking
 TOCTitle: Setting up electronic banking
 ms:assetid: 2a350afa-ffa8-4574-b5b9-72897b4aaf8c
@@ -11,6 +11,8 @@ f1_keywords:
 - electronic banking
 - setting up electronic banking
 - bank setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up electronic banking 
@@ -33,5 +35,5 @@ The topics in this section provide information about how to set up electronic ba
 [Set up bank reconciliation matching rules](set-up-bank-reconciliation-matching-rules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

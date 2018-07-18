@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain intercompany purchase orders
 TOCTitle: Maintain intercompany purchase orders
 ms:assetid: 604264be-7985-4894-bb5c-cec66e4a0401
@@ -18,6 +18,8 @@ f1_keywords:
 - PO
 - POs
 - intercompany purchase orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain intercompany purchase orders 
@@ -34,5 +36,5 @@ The following topics provide information about how to create, change, and check 
 [Synchronization](synchronization-of-intercompany-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

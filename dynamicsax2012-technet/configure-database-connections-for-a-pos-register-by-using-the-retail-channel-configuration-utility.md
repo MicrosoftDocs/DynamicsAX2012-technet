@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure database connections for a POS register by using the Retail Channel Configuration Utility
 TOCTitle: Configure database connections for a POS register
 ms:assetid: ab65600e-155a-4d63-971f-84e71d1aea79
@@ -92,5 +92,5 @@ You can install Retail components on a single computer for development. In this 
 [Create a channel database or an offline database (AX 2012 R3)](create-a-channel-database-or-an-offline-database-ax-2012-r3.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About check payments and Bordero payments
 TOCTitle: (BRA) About check payments and Bordero payments
 ms:assetid: b9ce70c8-69d6-4fc7-a520-400faeb530f2
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - BR - 00003
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About check payments and Bordero payments 
@@ -46,5 +48,5 @@ You can perform the following tasks:
 [(BRA) Bordero (form)](https://technet.microsoft.com/en-us/library/jj923356\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

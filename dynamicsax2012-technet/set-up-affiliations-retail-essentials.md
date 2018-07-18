@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up affiliations (Retail essentials)
 TOCTitle: Set up affiliations (Retail essentials)
 ms:assetid: e5fc333c-7654-4afa-a3e7-cc23c17227aa
@@ -76,5 +76,5 @@ After you have set up affiliations and price discounts, use this procedure to ad
 Set up price point groups
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

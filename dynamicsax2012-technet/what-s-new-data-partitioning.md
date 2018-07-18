@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Data partitioning"
 TOCTitle: Data partitioning
 ms:assetid: 2117ee49-3a6b-4f79-b43d-6440455a4cb7
@@ -58,5 +58,5 @@ AX 2009 enabled data isolation by using companies. In Microsoft Dynamics AX 2012
 [Plan for data partitioning](plan-for-data-partitioning.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

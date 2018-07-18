@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up accountant information for fiscal books
 TOCTitle: (BRA) Set up accountant information for fiscal books
 ms:assetid: 9598aab9-49da-4d13-91b6-e801a5cd1445
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305877(v=AX.60)
 ms:contentKeyID: 54912976
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up accountant information for fiscal books 
@@ -38,5 +40,5 @@ Before you can generate a monthly Sistema Publico de Escrituração Digital (SPE
 7.  To add another accountant, click **New** and then repeat steps 2 through 6.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

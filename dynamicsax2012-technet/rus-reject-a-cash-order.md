@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Reject a cash order
 TOCTitle: (RUS) Reject a cash order
 ms:assetid: c5462f16-388d-4781-bca3-95a95e335b9d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711600(v=AX.60)
 ms:contentKeyID: 49387924
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Reject a cash order 
@@ -58,5 +60,5 @@ You can reject (void) an open cash journal and any cash journals that require co
 [(RUS) Set up a cash journal for cash disbursement and reimbursement](rus-set-up-a-cash-journal-for-cash-disbursement-and-reimbursement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

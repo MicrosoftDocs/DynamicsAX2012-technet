@@ -1,4 +1,4 @@
-﻿---
+---
 title: Creating Exchange Rate Providers for Microsoft Dynamics AX 2012
 TOCTitle: Creating Exchange Rate Providers for Microsoft Dynamics AX 2012
 ms:assetid: 82282ef4-8d7f-456b-8b58-7ab154af2d6e
@@ -18,5 +18,5 @@ This document provides code examples to help developers create exchange rate pro
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=272897%26clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

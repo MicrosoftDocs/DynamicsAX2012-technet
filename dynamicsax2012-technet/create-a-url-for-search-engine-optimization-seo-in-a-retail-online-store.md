@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a URL for search engine optimization (SEO) in a Retail online store
 TOCTitle: Create a URL for search engine optimization (SEO) in a Retail online store
 ms:assetid: ed13dd2d-014a-41ab-bddb-4010b78d7e87
@@ -76,5 +76,5 @@ If you want to add other fields to the **Available Fields** list, you can create
 [White Paper: Optimizing SharePoint Server 2013 websites for Internet search engines](http://go.microsoft.com/fwlink/?linkid=389181)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

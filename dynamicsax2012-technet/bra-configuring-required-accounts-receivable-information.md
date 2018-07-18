@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Configuring required Accounts receivable information
 TOCTitle: (BRA) Configuring required Accounts receivable information
 ms:assetid: 0014bb35-1113-459a-b0c2-fbd3b7f3ede4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710399(v=AX.60)
 ms:contentKeyID: 49384292
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Configuring required Accounts receivable information 
@@ -26,5 +28,5 @@ The topics in this section provide information about how to configure Accounts r
 [(BRA) Set up email addresses for customers](bra-set-up-email-addresses-for-customers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

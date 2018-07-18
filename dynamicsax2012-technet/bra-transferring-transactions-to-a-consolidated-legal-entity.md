@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Transferring transactions to a consolidated legal entity
 TOCTitle: (BRA) Transferring transactions to a consolidated legal entity
 ms:assetid: 9f3367dd-2827-43bc-b029-5b7f39b2d97d
@@ -13,6 +13,8 @@ f1_keywords:
 - Brazil
 - consolidated company account
 - BR - 00019
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Transferring transactions to a consolidated legal entity 
@@ -33,5 +35,5 @@ You can transfer all of the transactions from a selected subsidiary legal entity
 [(BRA) Transfer subsidiary legal entity transactions to a consolidated legal entity](bra-transfer-subsidiary-legal-entity-transactions-to-a-consolidated-legal-entity.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

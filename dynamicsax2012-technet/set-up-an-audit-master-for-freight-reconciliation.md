@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up an audit master for freight reconciliation
 TOCTitle: Set up an audit master for freight reconciliation
 ms:assetid: e25f40ef-03d0-44d4-80bb-0f6ff52ceb22
@@ -13,6 +13,8 @@ f1_keywords:
 - MsDynAx060.Forms.TMSAuditMaster
 - freight reconciliation
 - audit tolerance level
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up an audit master for freight reconciliation 
@@ -70,5 +72,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

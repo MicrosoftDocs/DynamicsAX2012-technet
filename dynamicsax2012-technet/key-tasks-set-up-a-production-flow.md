@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Set up a production flow'
 TOCTitle: 'Key tasks: Set up a production flow'
 ms:assetid: b2a13b52-ed32-42b9-b5ec-6c9ec57d3c71
@@ -19,6 +19,8 @@ f1_keywords:
 - create production flow
 - production flow activity
 - relate activities
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Set up a production flow 
@@ -256,5 +258,5 @@ Back to top
 [Key tasks: Set up a work cell for lean manufacturing](key-tasks-set-up-a-work-cell-for-lean-manufacturing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

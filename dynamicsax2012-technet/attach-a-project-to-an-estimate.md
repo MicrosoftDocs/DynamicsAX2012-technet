@@ -1,4 +1,4 @@
-﻿---
+---
 title: Attach a project to an estimate
 TOCTitle: Attach a project to an estimate
 ms:assetid: c837b747-71fb-4447-aaa3-558c6b4d6cf5
@@ -10,6 +10,8 @@ f1_keywords:
 - project
 - estimate
 - estimate project ID
+audience: Application User
+ms.search.region: Global
 ---
 
 # Attach a project to an estimate 
@@ -78,5 +80,5 @@ An Estimate project is used as a container to group together various control par
 [Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Portal architecture
 TOCTitle: Enterprise Portal architecture
 ms:assetid: 967d873d-5a15-4a6c-990c-2831938731fb
@@ -103,5 +103,5 @@ The following diagram provides a high-level overview of the Enterprise Portal ar
 [Install Enterprise Portal on a single server](install-enterprise-portal-on-a-single-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

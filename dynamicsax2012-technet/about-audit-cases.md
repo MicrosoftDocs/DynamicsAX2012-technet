@@ -1,4 +1,4 @@
-﻿---
+---
 title: About audit cases
 TOCTitle: About audit cases
 ms:assetid: 9fd6aac1-f9d9-4025-a4d2-6c273d5684a7
@@ -13,6 +13,8 @@ f1_keywords:
 - audit policy violation
 - audit violation
 - violation
+audience: Application User
+ms.search.region: Global
 ---
 
 # About audit cases 
@@ -49,5 +51,5 @@ If no audit cases are displayed, either no audit violations have occurred or aud
 [Enterprise Portal and Microsoft Excel](enterprise-portal-and-microsoft-excel.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

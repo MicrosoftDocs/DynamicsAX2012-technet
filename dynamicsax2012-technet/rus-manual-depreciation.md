@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Manual depreciation
 TOCTitle: (RUS) Manual depreciation
 ms:assetid: a63b11a8-51e8-492a-a96a-cb79f70ed51e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678576(v=AX.60)
 ms:contentKeyID: 49387803
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Manual depreciation 
@@ -28,5 +30,5 @@ This method is based on a manual definition of the depreciation percentage level
 [(RUS) Set up depreciation methods](rus-set-up-depreciation-methods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

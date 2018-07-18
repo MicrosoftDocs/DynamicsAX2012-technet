@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure jobs and subjobs in Retail Scheduler (Retail essentials)
 TOCTitle: Configure jobs and subjobs in Retail Scheduler (Retail essentials)
 ms:assetid: 0fa0b1db-53b2-4808-9f84-9f0eede40a4f
@@ -100,5 +100,5 @@ To create or modify a job, follow these steps:
 [Schedule and run jobs in Retail Scheduler (Retail essentials)](schedule-and-run-jobs-in-retail-scheduler-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

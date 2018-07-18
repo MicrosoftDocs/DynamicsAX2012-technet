@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the storage service amount for an item and generate a storage report
 TOCTitle: (RUS) Calculate the storage service amount for an item and generate a storage report
 ms:assetid: bbcd4309-9cb4-406e-9fa6-59e8ef0ca5f9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853219(v=AX.60)
 ms:contentKeyID: 50396500
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the storage service amount for an item and generate a storage report 
@@ -42,5 +44,5 @@ Use the **Storage calculation operations** form to calculate the storage service
 [(RUS) Storage calculation operations (form)](https://technet.microsoft.com/en-us/library/jj678512\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

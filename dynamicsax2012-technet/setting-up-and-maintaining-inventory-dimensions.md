@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining inventory dimensions
 TOCTitle: Setting up and maintaining inventory dimensions
 ms:assetid: 7112e960-b5c4-437d-b3d2-39fa51ea327a
@@ -13,6 +13,8 @@ f1_keywords:
 - variant
 - inventory
 - dimension group
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining inventory dimensions 
@@ -35,5 +37,5 @@ The topics in this section provide information about the setup of inventory dime
 [Set up dimensions display](set-up-dimensions-display.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

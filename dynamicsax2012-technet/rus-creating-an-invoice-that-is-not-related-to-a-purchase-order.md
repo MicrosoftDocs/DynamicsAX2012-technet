@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Creating an invoice that is not related to a purchase order
 TOCTitle: (RUS) Creating an invoice that is not related to a purchase order
 ms:assetid: 589b5f73-1a02-4dbc-aeab-8e7f381389c9
@@ -12,6 +12,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - related
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Creating an invoice that is not related to a purchase order 
@@ -34,5 +36,5 @@ The following are examples of vendor invoices that are not related to a purchase
 [(RUS) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj733265\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

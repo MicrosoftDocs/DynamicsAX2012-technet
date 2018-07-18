@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Install Commerce Data Exchange: Async Client'
 TOCTitle: 'Install Commerce Data Exchange: Async Client'
 ms:assetid: b92197bb-6406-4e58-ad94-8ed453eae4c4
@@ -269,5 +269,5 @@ After you configure the parameters in the sc-settings.xml file, you can run the 
 2.  After you have determined that all connections are working, run the distribution schedule that sends data to each channel database. Click **Retail** \> **Setup** \> **Retail scheduler** \> **Channel integration** \> **Channel database**. Click **Full data sync**, and then select the **Full sync** distribution schedule.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

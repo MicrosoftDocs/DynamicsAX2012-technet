@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Create a transfer packing slip for a fixed asset
 TOCTitle: (LTU) Create a transfer packing slip for a fixed asset
 ms:assetid: caa254fa-81e8-4d77-aa72-695d15ef9667
@@ -11,6 +11,8 @@ f1_keywords:
 - transfer
 - fixed assets
 - packing slip
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Create a transfer packing slip for a fixed asset 
@@ -43,5 +45,5 @@ If your organization must move a fixed asset from one department to another and 
 [Transfer fixed assets](transfer-fixed-assets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

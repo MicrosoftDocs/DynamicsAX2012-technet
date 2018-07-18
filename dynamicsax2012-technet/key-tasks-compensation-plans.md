@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Compensation plans'
 TOCTitle: 'Key tasks: Compensation plans'
 ms:assetid: 8136620d-1758-4068-9348-2fd62273fc60
@@ -13,6 +13,8 @@ f1_keywords:
 - salaries
 - compensation
 - remuneration
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Compensation plans 
@@ -555,5 +557,5 @@ Back to top
 [Key tasks: Pay for performance](key-tasks-pay-for-performance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

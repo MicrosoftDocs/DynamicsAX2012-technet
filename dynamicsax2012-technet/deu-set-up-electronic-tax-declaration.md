@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DEU) Set up electronic tax declaration
 TOCTitle: (DEU) Set up electronic tax declaration
 ms:assetid: 411dea33-8b5d-4d05-a6a7-03f1244c2def
@@ -14,6 +14,8 @@ f1_keywords:
 - MsDynAx060.Forms.TaxElectronicCertificates
 - MsDynAx060.Forms.TaxElectronicDeclarationSetup
 - MsDynAx060.Forms.TaxElectronicHTTPServer
+audience: Application User
+ms.search.region: Germany
 ---
 
 # (DEU) Set up electronic tax declaration 
@@ -68,5 +70,5 @@ In AX 2012 R3 and cumulative update 6 or later for AX 2012 R2: The default tax s
 [(DEU) Electronic tax declaration setup (form)](https://technet.microsoft.com/en-us/library/aa598009\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

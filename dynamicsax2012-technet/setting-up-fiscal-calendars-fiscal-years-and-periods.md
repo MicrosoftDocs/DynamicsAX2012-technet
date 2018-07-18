@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up fiscal calendars, fiscal years, and periods
 TOCTitle: Setting up fiscal calendars, fiscal years, and periods
 ms:assetid: 343eca45-0587-4224-a8e8-7325e48bdec1
@@ -11,6 +11,8 @@ f1_keywords:
 - period
 - fiscal year
 - ledger calendar
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up fiscal calendars, fiscal years, and periods 
@@ -29,5 +31,5 @@ The following topics provide information about setting up and using fiscal calen
 [Specify which users can post to a period](specify-which-users-can-post-to-a-period.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

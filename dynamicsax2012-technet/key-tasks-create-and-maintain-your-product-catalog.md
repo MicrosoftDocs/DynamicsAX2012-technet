@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create and maintain your product catalog'
 TOCTitle: 'Key tasks: Create and maintain your product catalog'
 ms:assetid: 133c3ace-840e-41ec-a57d-3384040d246a
@@ -14,6 +14,8 @@ f1_keywords:
 - CatVendorCatalogSchemaDownload
 - catalog maintenance request
 - catalog template
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create and maintain your product catalog 
@@ -162,5 +164,5 @@ Back to top
 [Upload a catalog maintenance request](upload-a-catalog-maintenance-request.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

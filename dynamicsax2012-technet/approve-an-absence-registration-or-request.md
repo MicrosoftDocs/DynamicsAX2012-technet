@@ -1,4 +1,4 @@
-﻿---
+---
 title: Approve an absence registration or request
 TOCTitle: Approve an absence registration or request
 ms:assetid: 4d9dfc01-94da-4fcf-9744-04909965d0a7
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - HcmAbsenceApprovalList
 - HcmAbsenceRequestApprovalList
+audience: Application User
+ms.search.region: Global
 ---
 
 # Approve an absence registration or request 
@@ -63,5 +65,5 @@ Use the **Absence registrations** and the **Absence requests** pages to approve 
 [Register an absence (Enterprise Portal)](register-an-absence-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

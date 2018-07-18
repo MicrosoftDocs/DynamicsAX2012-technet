@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NLD) Create, send, and import the OB tax declaration electronically
 TOCTitle: (NLD) Create, send, and import the OB tax declaration electronically
 ms:assetid: ce2aad41-1b45-4265-960a-45c1e179b6f5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213675(v=AX.60)
 ms:contentKeyID: 36059466
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Netherlands
 ---
 
 # (NLD) Create, send, and import the OB tax declaration electronically 
@@ -42,5 +44,5 @@ Use the **Electronic OB declaration** form to create an electronic tax declarati
 [(NLD) Set up electronic tax declaration](nld-set-up-electronic-tax-declaration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

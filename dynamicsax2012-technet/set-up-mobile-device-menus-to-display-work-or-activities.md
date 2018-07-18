@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up mobile device menus to display work or activities
 TOCTitle: Set up mobile device menus to display work or activities
 ms:assetid: a5c41be6-43c9-4e9c-8b98-12384e04191b
@@ -13,6 +13,8 @@ f1_keywords:
 - menu item
 - mobile device
 - Forms.WHSRFMenu
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up mobile device menus to display work or activities 
@@ -70,5 +72,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

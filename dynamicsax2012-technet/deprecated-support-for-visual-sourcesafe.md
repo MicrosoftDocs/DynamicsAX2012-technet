@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Support for Visual SourceSafe'
 TOCTitle: Visual SourceSafe
 ms:assetid: 23787dde-01de-4d7f-b06c-82869609049d
@@ -53,5 +53,5 @@ Microsoft Dynamics AX 2009 and earlier versions support Microsoft Visual SourceS
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

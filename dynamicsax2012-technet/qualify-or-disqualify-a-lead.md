@@ -1,4 +1,4 @@
-﻿---
+---
 title: Qualify or disqualify a lead
 TOCTitle: Qualify or disqualify a lead
 ms:assetid: d5b75ddc-af66-4e2b-9d2c-6469ade1744f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - lead
 - leads
+audience: Application User
+ms.search.region: Global
 ---
 
 # Qualify or disqualify a lead 
@@ -53,5 +55,5 @@ You can set up Lead management to automatically create an opportunity or custome
 [Create an opportunity or customer from a lead](create-an-opportunity-or-customer-from-a-lead.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

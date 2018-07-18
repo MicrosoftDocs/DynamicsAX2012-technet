@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up tax correspondence with expense codes
 TOCTitle: (RUS) Set up tax correspondence with expense codes
 ms:assetid: 1b7bc0a3-80b4-4628-8354-2dc871010687
@@ -10,6 +10,8 @@ f1_keywords:
 - sales taxes
 - expense codes
 - tax correspondence
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up tax correspondence with expense codes 
@@ -56,5 +58,5 @@ Use the **Sales tax relations** form to set up the correspondence between sales 
 [(RUS) Sales tax relations (form)](https://technet.microsoft.com/en-us/library/jj856164\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

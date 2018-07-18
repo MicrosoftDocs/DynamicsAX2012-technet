@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calculate production costs
 TOCTitle: Calculate production costs
 ms:assetid: 72f62b3d-e9a9-4840-80fb-228549b9422e
@@ -11,6 +11,8 @@ f1_keywords:
 - calculate
 - costing
 - production cost
+audience: Application User
+ms.search.region: Global
 ---
 
 # Calculate production costs 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to calculate production
 [Run end production](run-end-production.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

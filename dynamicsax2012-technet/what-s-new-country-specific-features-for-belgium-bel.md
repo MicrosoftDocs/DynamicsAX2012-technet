@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Belgium (BEL)"
 TOCTitle: Country-specific features for Belgium
 ms:assetid: 370a8a5c-dae7-4fbb-9da5-3c20ec928765
@@ -65,5 +65,5 @@ In Microsoft Dynamics AX 2012 R2, we changed and added country-specific function
 As of January 1, 2015, the procedure for submitting Intrastat returns to the National Bank of Belgium (NBB) has changed. Intrastat returns can now be submitted only by using OneGate. This online program enables you to enter the data manually or to import data files in CSV or XML format. The changes are applicable for all Belgian companies and allow you to create Intrastat reports in XML format.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Cash and bank management
 TOCTitle: (CZE) Cash and bank management
 ms:assetid: 4028642d-6e2c-4b2d-8734-e5a38bc9174a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677510(v=AX.60)
 ms:contentKeyID: 49384814
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Cash and bank management 
@@ -24,5 +26,5 @@ The topics in this section provide more information about Cash and bank manageme
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

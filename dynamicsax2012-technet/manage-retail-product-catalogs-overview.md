@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage retail product catalogs overview
 TOCTitle: Manage retail product catalogs overview
 ms:assetid: 047500ac-4c6d-4afb-a16f-f9825748a3f5
@@ -11,6 +11,8 @@ f1_keywords:
 - product catalog
 - retail
 - product catalogs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage retail product catalogs overview 
@@ -74,5 +76,5 @@ The following table lists the forms that support the retail product catalogs bus
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

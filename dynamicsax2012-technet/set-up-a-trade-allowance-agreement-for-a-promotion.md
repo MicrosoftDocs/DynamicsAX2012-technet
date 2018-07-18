@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a trade allowance agreement for a promotion
 TOCTitle: Set up a trade allowance agreement for a promotion
 ms:assetid: 4d796809-0473-48cd-bc76-88fd37e37573
@@ -8,6 +8,8 @@ ms.date: 06/24/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.TAMPromotionParameters
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a trade allowance agreement for a promotion 
@@ -130,5 +132,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Set up information for trade allowance agreements](set-up-information-for-trade-allowance-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

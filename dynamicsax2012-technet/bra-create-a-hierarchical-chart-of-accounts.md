@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create a hierarchical chart of accounts
 TOCTitle: (BRA) Create a hierarchical chart of accounts
 ms:assetid: a378a6b4-897e-4feb-9870-19cecb8b837e
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - parent ledger
 - parent ledger with children
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create a hierarchical chart of accounts 
@@ -110,5 +112,5 @@ Use the **Main accounts - chart of accounts: %1** form to create a hierarchy of 
 [(BRA) Main accounts - chart of accounts (modified form)](https://technet.microsoft.com/en-us/library/jj710470\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

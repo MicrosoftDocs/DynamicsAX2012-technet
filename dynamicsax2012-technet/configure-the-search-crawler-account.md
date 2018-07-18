@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure the Search Crawler account
 TOCTitle: Configure the Search Crawler account
 ms:assetid: ae8848a8-308d-4158-bb29-356ed00dd9e2
@@ -28,5 +28,5 @@ This topic describes how to configure the Enterprise Search crawler account so t
 [Install Microsoft Dynamics AX Enterprise Search](install-microsoft-dynamics-ax-enterprise-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

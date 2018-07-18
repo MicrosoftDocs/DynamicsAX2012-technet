@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshooting analytics
 TOCTitle: Troubleshooting
 ms:assetid: a075cb3e-c73d-4a92-9d80-672c23f96157
@@ -20,5 +20,5 @@ The following topics explain how to troubleshoot issues that you may encounter w
 [Troubleshoot issues with cubes and key performance indicators (KPIs)](troubleshoot-issues-with-cubes-and-key-performance-indicators-kpis.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

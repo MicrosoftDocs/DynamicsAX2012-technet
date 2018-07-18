@@ -1,4 +1,4 @@
-﻿---
+---
 title: Organizing an intercompany setup
 TOCTitle: Organizing an intercompany setup
 ms:assetid: cd2440d2-edab-4e84-a8ec-be21f9a550e3
@@ -14,6 +14,8 @@ f1_keywords:
 - set up intercompany order chain
 - inter-company setup
 - intercompany setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Organizing an intercompany setup 
@@ -30,5 +32,5 @@ The following topics provide information about how to organize an intercompany s
 [Set up vendors, customers, and items for intercompany trade](set-up-vendors-customers-and-items-for-intercompany-trade.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

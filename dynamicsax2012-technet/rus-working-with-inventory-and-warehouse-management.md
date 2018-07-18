@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Working with Inventory and warehouse management
 TOCTitle: (RUS) Working with Inventory and warehouse management
 ms:assetid: 82ecce51-7e85-4ff6-bbb1-3d3a26caf126
@@ -11,6 +11,8 @@ f1_keywords:
 - warehouse
 - Russia
 - RUS
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Working with Inventory and warehouse management 
@@ -29,5 +31,5 @@ This section provides information about working with the Inventory and warehouse
 [(RUS) Shipping overview](rus-shipping-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

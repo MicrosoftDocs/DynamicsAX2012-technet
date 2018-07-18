@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up fallback warehouses for sites
 TOCTitle: Set up fallback warehouses for sites
 ms:assetid: 92c33447-6d4b-4d49-8cbe-5871d82393e1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232185(v=AX.60)
 ms:contentKeyID: 44081012
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up fallback warehouses for sites 
@@ -32,5 +34,5 @@ An enhanced integration port is required for this feature. For information about
 [Fallback warehouse for site (form)](https://technet.microsoft.com/en-us/library/hh209725\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

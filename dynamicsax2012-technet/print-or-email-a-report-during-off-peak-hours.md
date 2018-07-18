@@ -1,4 +1,4 @@
-﻿---
+---
 title: Print or email a report during off-peak hours
 TOCTitle: Print or email a report during off-peak hours
 ms:assetid: 2b3f8c73-b99c-47db-b615-6859dd13a998
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731911(v=AX.60)
 ms:contentKeyID: 35132834
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Print or email a report during off-peak hours 
@@ -138,5 +140,5 @@ Occasionally, you may have to print an especially long report, such as a report 
 14. Click **OK** to print the report to the selected destination on a recurring basis.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

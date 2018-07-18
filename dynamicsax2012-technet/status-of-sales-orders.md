@@ -1,4 +1,4 @@
-﻿---
+---
 title: Status of sales orders
 TOCTitle: Status of sales orders
 ms:assetid: b37e0e8d-2859-47d8-bf67-7b13406bf516
@@ -17,6 +17,8 @@ f1_keywords:
 - totals for sales orders
 - turn over
 - update history
+audience: Application User
+ms.search.region: Global
 ---
 
 # Status of sales orders 
@@ -35,5 +37,5 @@ The topics in this section provide information about the status of sales orders.
 [Print the status of a sales agreement](print-the-status-of-a-sales-agreement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

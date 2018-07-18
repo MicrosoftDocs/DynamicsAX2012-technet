@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Configure for tax integration upgrade
 TOCTitle: (CHN) Configure for tax integration upgrade
 ms:assetid: ba1c5dd4-56df-4dce-9a4e-482133758048
@@ -56,5 +56,5 @@ Click the **Configure for tax integration upgrade** task to open the **Set up fo
 [(CHN) Configure for tax integration upgrade (form)](https://technet.microsoft.com/en-us/library/jj713619\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

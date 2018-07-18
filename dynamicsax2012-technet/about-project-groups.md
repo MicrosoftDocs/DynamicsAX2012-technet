@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project groups
 TOCTitle: About project groups
 ms:assetid: a144781b-de98-43ce-9bbb-4c889ed33cfb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh450757(v=AX.60)
 ms:contentKeyID: 36966736
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project groups 
@@ -52,5 +54,5 @@ After a project is assigned to a project group, the options that have been defin
 [Project categories (form)](https://technet.microsoft.com/en-us/library/aa582118\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up and maintaining Retail
 TOCTitle: (IND) Setting up and maintaining Retail
 ms:assetid: 3397f309-bd7a-4651-bd5c-31b046672080
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - IN - 00015
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up and maintaining Retail 
@@ -20,5 +22,5 @@ The topics in this section provide information about setting up and maintaining 
 [(IND) Retail customer order taxes in India](ind-retail-customer-order-taxes-in-india.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

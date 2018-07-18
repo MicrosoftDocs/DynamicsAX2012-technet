@@ -1,4 +1,4 @@
-﻿---
+---
 title: (AUT) Austrian annual sales tax report (TaxReportYearly_AT)
 TOCTitle: (AUT) Austrian annual sales tax report (TaxReportYearly_AT)
 ms:assetid: 73036b06-c146-4623-ae8d-0e1f4c2f3cbf
@@ -97,5 +97,5 @@ The following table explains where to find the report in the Application Object 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining inventory close and adjustments
 TOCTitle: Setting up and maintaining inventory close and adjustments
 ms:assetid: da5320f6-2598-450a-ae56-df099ceadf43
@@ -15,6 +15,8 @@ f1_keywords:
 - FIFO
 - LIFO
 - weighted average
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining inventory close and adjustments 
@@ -69,5 +71,5 @@ The following topics provide more information:
 [Inventory control](inventory-control.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

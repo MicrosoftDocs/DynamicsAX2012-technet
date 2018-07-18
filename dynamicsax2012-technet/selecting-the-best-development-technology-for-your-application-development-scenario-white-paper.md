@@ -1,4 +1,4 @@
-﻿---
+---
 title: Selecting the Best Development Technology for Your Application Development Scenario (White paper)
 TOCTitle: Selecting the Best Development Technology for Your Application Development Scenario
 ms:assetid: 0c197a2d-700a-4974-89af-fe620cbc8930
@@ -18,5 +18,5 @@ This paper provides an overview of the common development patterns, programming 
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213138).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

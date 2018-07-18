@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain your contacts
 TOCTitle: Maintain your contacts
 ms:assetid: 407646b6-47f8-4103-b378-e055594a7fb8
@@ -11,6 +11,8 @@ f1_keywords:
 - VendRequestContactCreate
 - VendRequestContactEdit
 - VendRequestContactInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain your contacts 
@@ -105,5 +107,5 @@ On the Vendor portal, you can view, add, modify, or delete contact information a
 [About the Vendor portal](about-the-vendor-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

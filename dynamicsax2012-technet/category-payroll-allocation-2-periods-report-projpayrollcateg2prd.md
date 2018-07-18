@@ -1,4 +1,4 @@
-﻿---
+---
 title: Category payroll allocation (2 periods) report (ProjPayrollCateg2Prd)
 TOCTitle: Category payroll allocation (2 periods) report (ProjPayrollCateg2Prd)
 ms:assetid: e0dc7866-ed36-4cf0-a7ec-7572bd67b400
@@ -164,5 +164,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Submit a batch processing job from a form](submit-a-batch-processing-job-from-a-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

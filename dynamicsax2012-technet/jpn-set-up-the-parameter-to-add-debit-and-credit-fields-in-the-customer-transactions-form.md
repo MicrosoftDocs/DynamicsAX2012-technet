@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up the parameter to add debit and credit fields in the Customer transactions form
 TOCTitle: (JPN) Set up the parameter to add debit and credit fields in the Customer transactions form
 ms:assetid: 95c330ab-ca49-4323-a15e-9dbfdb1b0a0f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.CustParameters
 - MsDynAx060.Forms.CustParameters
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up the parameter to add debit and credit fields in the Customer transactions form 
@@ -51,5 +53,5 @@ For more information about how to use EDTs to create debit and credit columns, g
 [Best Practices for Extended Data Type Properties](http://msdn.microsoft.com/en-us/library/aa621435\(v=ax.50\).aspx)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

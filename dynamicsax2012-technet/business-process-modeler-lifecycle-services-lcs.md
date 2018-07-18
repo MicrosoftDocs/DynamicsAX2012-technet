@@ -1,4 +1,4 @@
-﻿---
+---
 title: Business process modeler (Lifecycle Services, LCS)
 TOCTitle: Business process modeler
 ms:assetid: ba1e4b73-dc6f-4a16-8527-7c2440aed0f9
@@ -14,5 +14,5 @@ mtps_version: v=AX.60
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/business-process-modeler-lifecycle-services-lcs/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

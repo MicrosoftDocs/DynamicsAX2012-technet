@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain employee information
 TOCTitle: Maintain employee information
 ms:assetid: fbb11656-8006-4e81-bf75-65a3e0af3581
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - HcmEPMyEmployeeInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain employee information 
@@ -40,5 +42,5 @@ To view this page, click **Team** \> **My employees**, and then select the name 
   - Performance goals – For more information, refer to [Create, modify, and delete employee goals](create-modify-and-delete-employee-goals.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

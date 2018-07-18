@@ -1,4 +1,4 @@
-﻿---
+---
 title: About configuring cost accounting
 TOCTitle: About configuring cost accounting
 ms:assetid: 36770159-1cdc-4301-93bd-0b6fed7835f0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570124(v=AX.60)
 ms:contentKeyID: 36056581
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About configuring cost accounting 
@@ -30,5 +32,5 @@ To simplify the configuration process, the process has been divided among the fo
 [About cost accounting integration](about-cost-accounting-integration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

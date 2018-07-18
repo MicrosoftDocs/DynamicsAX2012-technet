@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create call center catalogs
 TOCTitle: Create call center catalogs
 ms:assetid: bf42fea1-696e-4183-be39-05b1e67b69c0
@@ -18,6 +18,8 @@ f1_keywords:
 - set up catalog
 - create catalog
 - print catalog
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create call center catalogs 
@@ -295,5 +297,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Setting up prices using price groups](setting-up-prices-using-price-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

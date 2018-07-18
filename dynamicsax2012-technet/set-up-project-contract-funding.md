@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up project contract funding
 TOCTitle: Set up project contract funding
 ms:assetid: ded445d0-3564-4360-b428-90a145816aab
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - advanced funding
 - funding source
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up project contract funding 
@@ -29,5 +31,5 @@ The following topics provide information about project contract funding.
 [Set up funding rules for a project contract](set-up-funding-rules-for-a-project-contract.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up the purchase of items with anticipated invoicing
 TOCTitle: (BRA) Set up the purchase of items with anticipated invoicing
 ms:assetid: ee94f988-3e8c-4db2-bec1-173092cd670a
@@ -11,6 +11,8 @@ f1_keywords:
 - Brazil
 - anticipated invoicing
 - purchase of goods
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up the purchase of items with anticipated invoicing 
@@ -87,5 +89,5 @@ In Brazil, a purchase of items that uses anticipated invoicing occurs in two pha
 [(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure the new Reporting Services instance
 TOCTitle: Configure the new Reporting Services instance
 ms:assetid: 480a18d8-edd6-4f9a-bdc2-ba2a7a842916
@@ -128,5 +128,5 @@ After you have configured the Reporting Services instance for local administrati
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About unsent alerts
 TOCTitle: About unsent alerts
 ms:assetid: bfef101a-5ada-4ceb-8c29-9c3b082629a7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834432(v=AX.60)
 ms:contentKeyID: 46687567
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About unsent alerts 
@@ -54,5 +56,5 @@ If security settings change, a user may no longer have permission to access the 
 [Set up alert batch execution](set-up-alert-batch-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

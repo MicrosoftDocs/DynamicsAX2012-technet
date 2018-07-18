@@ -1,4 +1,4 @@
-﻿---
+---
 title: " budget plan"
 TOCTitle: " budget plan"
 ms:assetid: DynamicsAXGlossary.1954169
@@ -19,5 +19,5 @@ A document that is used to develop estimates for amounts and units in budget pla
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

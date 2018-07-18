@@ -1,4 +1,4 @@
-﻿---
+---
 title: Production planner security role (ReqProductionPlanner)
 TOCTitle: Production planner security role (ReqProductionPlanner)
 ms:assetid: 92417a0c-f66d-4375-950e-f30863da0921
@@ -228,5 +228,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

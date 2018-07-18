@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up retail product kits
 TOCTitle: About setting up retail product kits
 ms:assetid: eb6760b0-b239-4b92-8dba-28650a5d64d0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497848(v=AX.60)
 ms:contentKeyID: 62200180
 ms.date: 10/27/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up retail product kits 
@@ -66,5 +68,5 @@ For more information about how to view and maintain assembly orders for product 
 [Process kit assembly and disassembly orders](process-kit-assembly-and-disassembly-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Transfer/lend assets overview
 TOCTitle: (RUS) Transfer/lend assets overview
 ms:assetid: 99eb0b90-b366-4f49-9439-6e2ca0ab0e9b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678515(v=AX.60)
 ms:contentKeyID: 49387744
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Transfer/lend assets overview 
@@ -36,5 +38,5 @@ The topics in this section provide information about how to transfer or lend fix
 [(RUS) Generate a write-off transaction and print the NVFA statement of writing off (No. MB-8) from the fixed asset journal](rus-generate-a-write-off-transaction-and-print-the-nvfa-statement-of-writing-off-no-mb-8-from-the-fixed-asset-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Set up email parameters for an electronic invoice
 TOCTitle: (MEX) Set up email parameters for an electronic invoice
 ms:assetid: fcb13b86-7c2f-4657-a151-5017dddf2dcc
@@ -11,6 +11,8 @@ f1_keywords:
 - electronic invoice
 - Set up
 - email parameters
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Set up email parameters for an electronic invoice 
@@ -33,5 +35,5 @@ Set up the following email parameters to send an electronic invoice:
   - Send email messages by using a batch process. Use the **E-mail distributor batch** form to send email to customers by using the batch process. For more information, see [E-mail distributor batch (form)](https://technet.microsoft.com/en-us/library/bb147537\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

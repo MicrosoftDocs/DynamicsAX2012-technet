@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up positive pay
 TOCTitle: Set up positive pay
 ms:assetid: c01ab305-6666-4857-8ee0-622a6c538d5d
@@ -8,6 +8,8 @@ ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
 - MenuItems.BankPositivePayFormat
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up positive pay 
@@ -412,5 +414,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

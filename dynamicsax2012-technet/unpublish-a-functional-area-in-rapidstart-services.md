@@ -1,4 +1,4 @@
-﻿---
+---
 title: Unpublish a functional area in RapidStart Services
 TOCTitle: Unpublish a functional area in RapidStart Services
 ms:assetid: e6fc1df2-0dbf-494c-bbfe-7eba9c09af8d
@@ -39,5 +39,5 @@ To modify a functional area that has already been published in Microsoft Dynamic
 [Add a functional area to a template in RapidStart Services](add-a-functional-area-to-a-template-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

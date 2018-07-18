@@ -1,4 +1,4 @@
-﻿---
+---
 title: About multiple delivery addresses for sales orders
 TOCTitle: About multiple delivery addresses for sales orders
 ms:assetid: ac81a468-0a90-4524-84b3-84cfa2e5260f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498559(v=AX.60)
 ms:contentKeyID: 36058916
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About multiple delivery addresses for sales orders 
@@ -30,5 +32,5 @@ If you clear one of the check boxes, when the item is posted, the delivery addre
 If you select one of the check boxes, the delivery address used is the one that is specified for each sales order line. By default, this is the customer address, unless you have chosen an alternative address by clicking the **Sales order header** tab, and then clicking **Other address** in the **Sales order** form. Items are produced for each delivery address. The relevant sales order lines are listed on each item.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

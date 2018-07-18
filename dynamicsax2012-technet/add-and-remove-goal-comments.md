@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and remove goal comments
 TOCTitle: Add and remove goal comments
 ms:assetid: 3dbdee2b-f053-4779-bfbb-844e84cc38fa
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - HcmEPGoalCommentCreate
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and remove goal comments 
@@ -52,5 +54,5 @@ Depending on your permissions, you might be able to maintain only your goal comm
 [Add, modify, and remove goal activities](add-modify-and-remove-goal-activities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: " general budget reservation"
 TOCTitle: " general budget reservation"
 ms:assetid: DynamicsAXGlossary.2105244
@@ -19,5 +19,5 @@ A document that is often used by public sector entities to set aside or earmark 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

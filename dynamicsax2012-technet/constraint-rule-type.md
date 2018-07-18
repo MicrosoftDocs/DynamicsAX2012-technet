@@ -1,4 +1,4 @@
-﻿---
+---
 title: Constraint rule type
 TOCTitle: Constraint rule type
 ms:assetid: 3ba6a3f7-4fed-436a-992c-0df32a391d9a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - product builder
 - constraint rule type
+audience: Application User
+ms.search.region: Global
 ---
 
 # Constraint rule type 
@@ -56,5 +58,5 @@ The following table contains information about three types of constraint validat
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

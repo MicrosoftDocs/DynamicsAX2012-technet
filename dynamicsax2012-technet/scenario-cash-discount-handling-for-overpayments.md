@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Cash discount handling for overpayments'
 TOCTitle: 'Scenario: Cash discount handling for overpayments'
 ms:assetid: 15ca32c1-9e68-43a0-8c0d-09cfbd53d2e2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545514(v=AX.60)
 ms:contentKeyID: 37832491
 ms.date: 11/14/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Cash discount handling for overpayments 
@@ -450,5 +452,5 @@ The cash discount amount is reduced from 10.50 to 10.00. The payment and invoice
 [Scenario: Settle a partial customer payment that has discounts on credit notes](scenario-settle-a-partial-customer-payment-that-has-discounts-on-credit-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

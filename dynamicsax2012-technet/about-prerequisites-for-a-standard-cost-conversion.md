@@ -1,4 +1,4 @@
-﻿---
+---
 title: About prerequisites for a standard cost conversion
 TOCTitle: About prerequisites for a standard cost conversion
 ms:assetid: ed2c01b0-3cab-40bc-b750-caf90a7b10ee
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243259(v=AX.60)
 ms:contentKeyID: 36059902
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About prerequisites for a standard cost conversion 
@@ -72,5 +74,5 @@ Before you run a standard cost conversion, follow these steps.
 [Set up and run a standard cost conversion](set-up-and-run-a-standard-cost-conversion.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Model store architecture
 TOCTitle: Model store architecture
 ms:assetid: a1a5dbe2-04cc-45d4-94c9-5c81be5a84be
@@ -48,5 +48,5 @@ The following diagram provides an overview of the model store architecture.
 [Application Object Layers](http://go.microsoft.com/fwlink/?linkid=192797)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

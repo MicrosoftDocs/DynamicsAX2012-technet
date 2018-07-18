@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot issues in Async Server or Async Client
 TOCTitle: Troubleshoot issues in Async Server or Async Client
 ms:assetid: 0405aece-8e58-47c4-a460-47dfc0563092
@@ -114,5 +114,5 @@ If there are issues with data distribution, more information is available in the
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

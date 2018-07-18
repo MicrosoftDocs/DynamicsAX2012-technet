@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up parameters for a Single Administrative Document (SAD)
 TOCTitle: (POL) Set up parameters for a Single Administrative Document (SAD)
 ms:assetid: 69116d7a-b62c-48c7-ac5e-5431207d07fa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731081(v=AX.60)
 ms:contentKeyID: 49675321
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up parameters for a Single Administrative Document (SAD) 
@@ -98,5 +100,5 @@ To calculate sales tax on the SAD transactions, you must create a sales tax grou
 [(POL) Post a Single Administrative Document (SAD) from the SAD](pol-post-a-single-administrative-document-sad-from-the-sad.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Import BG Max payments to a payment journal
 TOCTitle: (SWE) Import BG Max payments to a payment journal
 ms:assetid: 0887d0e1-7094-46c8-94ec-63abc57eec8c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230692(v=AX.60)
 ms:contentKeyID: 36055973
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Import BG Max payments to a payment journal 
@@ -60,5 +62,5 @@ Use the **Payment journal** form to import BG Max payment information to a payme
 [(SWE) Set up a method of payment for BG Max payments](swe-set-up-a-method-of-payment-for-bg-max-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

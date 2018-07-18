@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure Enterprise Portal to use Secure Sockets Layer
 TOCTitle: Configure Enterprise Portal to use Secure Sockets Layer
 ms:assetid: 531ec2a4-ded7-4366-a3ec-0ff2a9aaf30c
@@ -29,5 +29,5 @@ To implement SSL, you must install a certificate and a private encryption key on
 [Checklists for deploying Enterprise Portal sites](checklists-for-deploying-enterprise-portal-sites.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

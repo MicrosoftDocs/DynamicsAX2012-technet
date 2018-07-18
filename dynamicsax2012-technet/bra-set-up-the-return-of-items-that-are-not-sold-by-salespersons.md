@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up the return of items that are not sold by salespersons
 TOCTitle: (BRA) Set up the return of items that are not sold by salespersons
 ms:assetid: 7d496306-8149-4af9-9540-25750b1e92c5
@@ -12,6 +12,8 @@ f1_keywords:
 - not sold by salesperson
 - return of goods
 - salespersons
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up the return of items that are not sold by salespersons 
@@ -61,5 +63,5 @@ Items that are not sold by a salesperson are returned. In this case, the remitta
 [(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/en-us/library/jj663934\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

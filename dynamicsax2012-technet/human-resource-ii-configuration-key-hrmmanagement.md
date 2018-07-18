@@ -1,4 +1,4 @@
-﻿---
+---
 title: Human resource II configuration key (HRMManagement)
 TOCTitle: Human resource II configuration key (HRMManagement)
 ms:assetid: cc144fb6-2c76-4cff-a2c5-7b2884f36283
@@ -104,5 +104,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

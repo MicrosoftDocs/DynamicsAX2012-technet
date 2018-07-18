@@ -1,4 +1,4 @@
-﻿---
+---
 title: Specify the invoice frequency for an existing project contract
 TOCTitle: Specify the invoice frequency for an existing project contract
 ms:assetid: f28f066c-2128-4be0-b6dd-077e402d3366
@@ -10,6 +10,8 @@ f1_keywords:
 - buffer
 - invoice frequency
 - project contract
+audience: Application User
+ms.search.region: Global
 ---
 
 # Specify the invoice frequency for an existing project contract 
@@ -58,5 +60,5 @@ The invoice frequency plus the number of buffer days determine when a sales paym
 [Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

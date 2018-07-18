@@ -1,4 +1,4 @@
-﻿---
+---
 title: Provide payment services information
 TOCTitle: Provide payment services information
 ms:assetid: 1bb6cdb7-76f9-484c-8fe8-bafca56fd12d
@@ -41,5 +41,5 @@ If you are upgrading to Microsoft Dynamics AX 2012 R2 or AX 2012 R3, you must id
 8.  After you finish entering the information for each company account, click **Set to ready for upgrade** to complete this step and close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

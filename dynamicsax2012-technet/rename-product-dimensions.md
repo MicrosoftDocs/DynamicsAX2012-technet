@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rename product dimensions
 TOCTitle: Rename product dimensions
 ms:assetid: 1d09964b-89e0-4420-9624-9ffba68fb7a4
@@ -10,6 +10,8 @@ f1_keywords:
 - change dimension name
 - dimension language
 - rename dimensions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Rename product dimensions 
@@ -37,5 +39,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
     Renamed text will be lost when you upgrade to a new version of Microsoft Dynamics AX.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

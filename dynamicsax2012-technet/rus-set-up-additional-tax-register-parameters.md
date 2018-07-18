@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up additional tax register parameters
 TOCTitle: (RUS) Set up additional tax register parameters
 ms:assetid: 46766658-a7c2-40bf-b050-6296bb659a81
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665338(v=AX.60)
 ms:contentKeyID: 49387426
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up additional tax register parameters 
@@ -34,5 +36,5 @@ You can set up additional parameters for tax registers if you want to calculate 
 [(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/en-us/library/jj853198\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

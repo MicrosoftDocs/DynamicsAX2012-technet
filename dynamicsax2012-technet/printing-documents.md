@@ -1,4 +1,4 @@
-﻿---
+---
 title: Printing documents
 TOCTitle: Printing documents
 ms:assetid: 880656a2-d4af-4716-81c8-d1bfd95157fd
@@ -10,6 +10,8 @@ f1_keywords:
 - print
 - document
 - documents
+audience: Application User
+ms.search.region: Global
 ---
 
 # Printing documents 
@@ -22,5 +24,5 @@ The topics in this section provide information about how to print documents.
 [Print management](print-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

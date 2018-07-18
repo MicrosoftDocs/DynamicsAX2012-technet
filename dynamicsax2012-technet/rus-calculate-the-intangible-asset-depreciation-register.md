@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the intangible asset depreciation register
 TOCTitle: (RUS) Calculate the intangible asset depreciation register
 ms:assetid: 7ca690ed-74d1-4966-9f5d-0fdc80bb5c31
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678391(v=AX.60)
 ms:contentKeyID: 49387620
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the intangible asset depreciation register 
@@ -50,5 +52,5 @@ You must set up the **IA depreciation** register in the **Tax registers** form a
 [(RUS) Recalculate registers](rus-recalculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

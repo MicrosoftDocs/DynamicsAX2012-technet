@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update standard costs in a nonmanufacturing environment
 TOCTitle: Update standard costs in a nonmanufacturing environment
 ms:assetid: ca474ba1-416f-4eb2-a6a2-3b10d008fc64
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213658(v=AX.60)
 ms:contentKeyID: 36059332
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update standard costs in a nonmanufacturing environment 
@@ -46,5 +48,5 @@ To correct, adjust, or update standard costs for new items, follow these steps:
 [Set up initial standard costs in a nonmanufacturing environment](set-up-initial-standard-costs-in-a-nonmanufacturing-environment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

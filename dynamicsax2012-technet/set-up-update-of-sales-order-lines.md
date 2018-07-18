@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up update of sales order lines
 TOCTitle: Set up update of sales order lines
 ms:assetid: 52f49ffa-2a7f-4273-bd07-930339161daa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548923(v=AX.60)
 ms:contentKeyID: 36057292
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up update of sales order lines 
@@ -24,5 +26,5 @@ You can set up your parameters to make sure that sales order lines are updated w
 4.  Click **OK** to save your changes and close the **Accounts receivable parameters** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

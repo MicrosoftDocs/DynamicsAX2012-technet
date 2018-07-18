@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Adjust counteragent transactions in accounts receivable
 TOCTitle: (RUS) Adjust counteragent transactions in accounts receivable
 ms:assetid: 4355c1a1-d8d2-4d60-8172-1ada2ba2c929
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665322(v=AX.60)
 ms:contentKeyID: 49387411
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Adjust counteragent transactions in accounts receivable 
@@ -92,5 +94,5 @@ Click **Accounts receivable** \> **Inquiries** \> **Act of adjustment**. Use the
 [(RUS) Act of adjustment (customers) (form)](https://technet.microsoft.com/en-us/library/jj711728\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

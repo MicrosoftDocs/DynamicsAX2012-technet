@@ -1,4 +1,4 @@
-﻿---
+---
 title: System architecture
 TOCTitle: System architecture
 ms:assetid: e4cbce28-2f87-4c12-8ea6-6e54d9570ce7
@@ -148,5 +148,5 @@ Enterprise Portal requires content and configuration databases for SharePoint 20
 [Architecture and planning](architecture-and-planning.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

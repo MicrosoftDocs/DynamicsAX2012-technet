@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring cost prices, sales prices, and transfer prices
 TOCTitle: Configuring cost prices, sales prices, and transfer prices
 ms:assetid: bc998823-1256-48c9-852b-f0d57fef5fff
@@ -11,6 +11,8 @@ f1_keywords:
 - cost price
 - transfer price
 - price setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring cost prices, sales prices, and transfer prices 
@@ -31,5 +33,5 @@ The following topics provide information about setting up cost prices, sales pri
 [Set up transfer prices for intercompany timesheets](set-up-transfer-prices-for-intercompany-timesheets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

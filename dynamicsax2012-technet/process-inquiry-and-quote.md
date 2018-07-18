@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process inquiry and quote
 TOCTitle: Process inquiry and quote
 ms:assetid: f5df6261-0bb8-4f43-a7ef-95cf583d8a92
@@ -13,6 +13,8 @@ f1_keywords:
 - quotation
 - inquiries
 - quote
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process inquiry and quote 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to process inquiries an
 [Maintaining quotations](maintaining-quotations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

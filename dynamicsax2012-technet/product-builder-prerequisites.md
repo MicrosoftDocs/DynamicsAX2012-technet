@@ -1,4 +1,4 @@
-﻿---
+---
 title: Product builder prerequisites
 TOCTitle: Product builder prerequisites
 ms:assetid: 3ce05411-6915-4db2-9593-61e54bf12360
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Product builder
 - Product builder prerequisites
+audience: Application User
+ms.search.region: Global
 ---
 
 # Product builder prerequisites 
@@ -43,5 +45,5 @@ At minimum, the following areas must be set up before you can use **Product Buil
   - **Enterprise Portal** **for Microsoft Dynamics AX**
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

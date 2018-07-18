@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work cycle and work period tasks
 TOCTitle: Work cycle and work period tasks
 ms:assetid: 168f59ee-d724-4f28-b74a-1497f4f25ca4
@@ -18,6 +18,8 @@ f1_keywords:
 - work periods
 - work period
 - overtime premiums
+audience: Application User
+ms.search.region: USA
 ---
 
 # Work cycle and work period tasks 
@@ -223,5 +225,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Map a network drive to the SharePoint 2013 files for online stores
 TOCTitle: Map a network drive to the SharePoint 2013 files for online stores
 ms:assetid: 9c9a0a16-3545-4cdb-912b-ab8818d8a231
@@ -83,5 +83,5 @@ These procedures work for Windows Server operating systems. For information abou
 [How-tos for SharePoint 2013](http://msdn.microsoft.com/en-us/library/jj901636.aspx)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

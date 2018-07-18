@@ -1,4 +1,4 @@
-﻿---
+---
 title: Technical reference for reporting
 TOCTitle: Technical reference
 ms:assetid: 4a056eb9-02e7-4fc6-bb10-3e6e5cd4130a
@@ -18,5 +18,5 @@ The following topics describe the default reports that are included with Microso
 [Report catalog for Microsoft Dynamics AX](report-catalog-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Set up parameters and authorization codes for an electronic invoice
 TOCTitle: (MEX) Set up parameters and authorization codes for an electronic invoice
 ms:assetid: a05f20e5-456e-4191-af93-93c44bde83e6
@@ -12,6 +12,8 @@ f1_keywords:
 - set up
 - electronic invoice
 - authorization code
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Set up parameters and authorization codes for an electronic invoice 
@@ -142,5 +144,5 @@ If you enabled the CFDI parameters, use this procedure to set up the PAC web ser
 [Number sequences (form)](https://technet.microsoft.com/en-us/library/hh209531\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

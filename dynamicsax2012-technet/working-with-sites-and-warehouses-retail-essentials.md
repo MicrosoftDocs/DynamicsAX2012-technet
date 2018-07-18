@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with sites and warehouses (Retail essentials)
 TOCTitle: Working with sites and warehouses (Retail essentials)
 ms:assetid: d5bc4e89-8568-4c02-8863-fca16fdacabd
@@ -70,5 +70,5 @@ To create a warehouse and then assign it to a site, follow these steps:
 [Set up site and warehouse hierarchies](set-up-site-and-warehouse-hierarchies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

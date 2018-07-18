@@ -1,4 +1,4 @@
-﻿---
+---
 title: About modeling variables
 TOCTitle: About modeling variables
 ms:assetid: cc21b59e-b09d-4876-9fcf-c7f8e3d47c0e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572675(v=AX.60)
 ms:contentKeyID: 36931880
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About modeling variables 
@@ -83,5 +85,5 @@ The following table lists the different data types that are available for modeli
 [Modeling variables (form)](https://technet.microsoft.com/en-us/library/aa592160\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

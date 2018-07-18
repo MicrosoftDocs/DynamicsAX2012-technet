@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Manually reverse or reclaim service tax
 TOCTitle: (IND) Manually reverse or reclaim service tax
 ms:assetid: 1233e7ed-5064-4aef-82ee-651cf6808d10
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664496(v=AX.60)
 ms:contentKeyID: 49385576
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Manually reverse or reclaim service tax 
@@ -70,5 +72,5 @@ Before you can reverse or reclaim service tax, service tax must be enabled. Clic
 5.  Click **Reclaim service tax**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

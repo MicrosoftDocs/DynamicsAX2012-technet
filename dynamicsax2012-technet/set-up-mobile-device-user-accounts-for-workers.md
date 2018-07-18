@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up mobile device user accounts for workers
 TOCTitle: Set up mobile device user accounts for workers
 ms:assetid: 9e3d85c0-cda2-4b65-a360-132e88312c9e
@@ -8,6 +8,8 @@ ms.date: 01/08/2016
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.WHSWorker
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up mobile device user accounts for workers 
@@ -146,5 +148,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

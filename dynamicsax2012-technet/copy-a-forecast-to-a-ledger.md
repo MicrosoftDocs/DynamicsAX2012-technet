@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy a forecast to a ledger
 TOCTitle: Copy a forecast to a ledger
 ms:assetid: 7bb86535-b053-4338-ba9e-434d9f66f251
@@ -11,6 +11,8 @@ f1_keywords:
 - project budget
 - transfer budget to ledger
 - transfer forecast
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy a forecast to a ledger 
@@ -43,5 +45,5 @@ When you copy a project forecast to a General ledger budget, the selected foreca
 [Create forecast models for project budgets](create-forecast-models-for-project-budgets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

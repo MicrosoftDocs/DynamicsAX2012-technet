@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up letter of guarantee cancellation reasons and purpose code types
 TOCTitle: Set up letter of guarantee cancellation reasons and purpose code types
 ms:assetid: 9ce4ecf5-be59-4615-8c21-d4e17144ee41
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Lletter of guarantee cancellation reasons and purpose code types
 - Set up letter of guarantee cancellation reasons and purpose code types
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up letter of guarantee cancellation reasons and purpose code types 
@@ -71,5 +73,5 @@ You can set up a payment purpose or reason code to specify the objective of a le
 [Request and issue the letter of guarantee](request-and-issue-the-letter-of-guarantee.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

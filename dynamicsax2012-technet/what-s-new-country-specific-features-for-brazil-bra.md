@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Brazil (BRA)"
 TOCTitle: Country-specific features for Brazil
 ms:assetid: a7489a4d-65f6-4600-9e82-b4a6daf0657f
@@ -670,5 +670,5 @@ For more information about additional country-specific features that we added fo
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

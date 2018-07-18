@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a formula in Formula designer
 TOCTitle: Create a formula in Formula designer
 ms:assetid: bbacd6d2-ff06-4b66-9716-dca2328bd6e4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352342(v=AX.60)
 ms:contentKeyID: 36687973
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a formula in Formula designer 
@@ -56,5 +58,5 @@ Use Formula designer to create a formula and a formula version.
 [Formula designer (form)](https://technet.microsoft.com/en-us/library/hh242746\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

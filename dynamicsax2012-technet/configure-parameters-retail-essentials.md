@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure parameters (Retail essentials)
 TOCTitle: Configure parameters (Retail essentials)
 ms:assetid: 68753c90-16ce-422d-862b-c62577d1aa08
@@ -89,5 +89,5 @@ This topic explains how to specify default settings for Retail essentials. You u
 3.  Click **Monitoring**, and then, in the **Retention period in days** field, enter the number of days to retain upload session history, download session history, and data packages in the working folders.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

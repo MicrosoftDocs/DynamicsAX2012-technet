@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Working with Accounts payable
 TOCTitle: (HUN) Working with Accounts payable
 ms:assetid: 699284ea-b317-4f19-aee9-40c9f97324a8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664299(v=AX.60)
 ms:contentKeyID: 49385387
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Working with Accounts payable 
@@ -26,5 +28,5 @@ This section provides information about working with the Accounts payable busine
 [(HUN) Create and post a purchase order invoice with a specific VAT register date](hun-create-and-post-a-purchase-order-invoice-with-a-specific-vat-register-date.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

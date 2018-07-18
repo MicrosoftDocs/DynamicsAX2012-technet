@@ -1,4 +1,4 @@
-﻿---
+---
 title: About line property setup
 TOCTitle: About line property setup
 ms:assetid: 1c2df840-ed06-47e4-8f81-b57f29ad9c64
@@ -10,6 +10,8 @@ f1_keywords:
 - line property
 - search direction
 - search priority
+audience: Application User
+ms.search.region: Global
 ---
 
 # About line property setup 
@@ -56,5 +58,5 @@ To see how the default line property is set up, run the **Line property setup** 
 [Line properties (form)](https://technet.microsoft.com/en-us/library/aa590082\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Create a voucher type
 TOCTitle: (CHN) Create a voucher type
 ms:assetid: e0750f01-5b9c-4c61-bac7-f6afb08be9f7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664122(v=AX.60)
 ms:contentKeyID: 49384704
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Create a voucher type 
@@ -66,5 +68,5 @@ Use the **Voucher type setup** form to set up voucher types. You can set up rule
 [(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664137\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

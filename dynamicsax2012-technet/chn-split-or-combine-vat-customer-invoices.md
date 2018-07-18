@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Split or combine VAT customer invoices
 TOCTitle: (CHN) Split or combine VAT customer invoices
 ms:assetid: c65960eb-0b18-445a-8128-7b4dc0502e67
@@ -17,6 +17,8 @@ f1_keywords:
 - merge invoices
 - MsDynAx060.Forms.TaxIntgrExportDocument_CN
 - MsDynAx060.Forms.TaxIntgrExportDocumentSplit_CN
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Split or combine VAT customer invoices 
@@ -135,5 +137,5 @@ To merge VAT customer invoices automatically, follow these steps:
 [(CHN) Chinese tax integration for VAT customer invoices](chn-chinese-tax-integration-for-vat-customer-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Allocate charges to a sales invoice
 TOCTitle: (RUS) Allocate charges to a sales invoice
 ms:assetid: 78c99643-4a16-47be-a05a-b432622facef
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853194(v=AX.60)
 ms:contentKeyID: 50396479
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Allocate charges to a sales invoice 
@@ -36,5 +38,5 @@ Use the **Allocate charges** form to allocate charges to a sales invoice that wa
 [(RUS) Allocate charges (modified form)](https://technet.microsoft.com/en-us/library/jj665432\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

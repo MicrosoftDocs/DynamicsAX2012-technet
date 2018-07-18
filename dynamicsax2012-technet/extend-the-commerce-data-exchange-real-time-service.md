@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Extend the Commerce Data Exchange: Real-time Service'
 TOCTitle: 'Extend the Commerce Data Exchange: Real-time Service'
 ms:assetid: 79f7d449-f804-4ded-b7f2-92d86b6713d9
@@ -102,5 +102,5 @@ The following example demonstrates calling the new method from the commerce runt
 Note that the response comments have been abstracted. If the request fails, the service client will throw a communication exception. Only the additional response data is returned.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

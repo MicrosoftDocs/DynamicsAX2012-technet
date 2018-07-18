@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Generate the "Italian black list" report for taxable transactions
 TOCTitle: (ITA) Generate the "Italian black list" report for taxable transactions
 ms:assetid: f44f0b48-3d9b-4278-bb40-8517aa1f0860
@@ -12,6 +12,8 @@ f1_keywords:
 - black list
 - black list report
 - Italian black list report
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Generate the \"Italian black list\" report for taxable transactions 
@@ -267,5 +269,5 @@ Use the following procedure to generate a monthly or quarterly “Italian black 
 [General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

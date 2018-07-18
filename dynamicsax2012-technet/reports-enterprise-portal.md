@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reports (Enterprise Portal)
 TOCTitle: Reports
 ms:assetid: 76601ad9-1168-4e86-b31b-93f728a4de85
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271568(v=AX.60)
 ms:contentKeyID: 36384199
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reports (Enterprise Portal) 
@@ -18,5 +20,5 @@ This section contains the following topics:
 [About reporting and analytics](about-reporting-and-analytics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

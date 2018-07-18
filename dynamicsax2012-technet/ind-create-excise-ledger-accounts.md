@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create excise ledger accounts
 TOCTitle: (IND) Create excise ledger accounts
 ms:assetid: ab2dee26-3033-42a5-beea-ce1085552203
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664780(v=AX.60)
 ms:contentKeyID: 49386097
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create excise ledger accounts 
@@ -46,5 +48,5 @@ You must maintain excise recoverable accounts and excise payable accounts separa
 5.  Repeat steps 3 and 4 for each ledger account.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

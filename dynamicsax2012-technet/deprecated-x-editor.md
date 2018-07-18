@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: X++ editor'
 TOCTitle: X++ editor
 ms:assetid: f5619251-ae6d-4d03-b015-f222b200e67f
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, the X++ editor is used to write X++ code in Morph
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

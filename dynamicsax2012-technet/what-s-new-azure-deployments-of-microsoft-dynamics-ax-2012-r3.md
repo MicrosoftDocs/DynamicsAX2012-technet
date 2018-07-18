@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Azure deployments of Microsoft Dynamics AX 2012 R3"
 TOCTitle: Azure deployments
 ms:assetid: 321083de-d3b6-4835-b90c-0f3594ccf3c1
@@ -93,5 +93,5 @@ For detailed instructions about how to deploy Microsoft Dynamics AX environments
 [Deploy Microsoft Dynamics AX 2012 R3 on Azure using Lifecycle Services](deploy-microsoft-dynamics-ax-2012-r3-on-azure-using-lifecycle-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring Budget Plan Templates for Microsoft Dynamics AX 2012 R2
 TOCTitle: Configuring Budget Plan Templates for Microsoft Dynamics AX 2012 R2
 ms:assetid: f624d626-386d-42a9-a32f-0f2033f794d0
@@ -23,5 +23,5 @@ This white paper explains how to configure budget plan templates.
 [Download the paper.](http://go.microsoft.com/fwlink/?linkid=272873%26clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

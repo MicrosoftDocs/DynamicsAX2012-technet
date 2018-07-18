@@ -1,4 +1,4 @@
-﻿---
+---
 title: Propose fixed asset acquisitions
 TOCTitle: Propose fixed asset acquisitions
 ms:assetid: 0fba6545-ca29-4666-a26c-eb97706806b6
@@ -10,6 +10,8 @@ f1_keywords:
 - acquisition
 - propose
 - propose acquisition
+audience: Application User
+ms.search.region: Global
 ---
 
 # Propose fixed asset acquisitions 
@@ -76,5 +78,5 @@ To create and later post acquisition transactions for fixed assets, follow these
 8.  Review the asset book entries that were created. Click **Fixed assets** \> **Journals** \> **Fixed assets**. Select the journal that was created in the previous step, and then click **Lines**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

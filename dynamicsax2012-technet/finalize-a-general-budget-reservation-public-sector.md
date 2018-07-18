@@ -1,4 +1,4 @@
-﻿---
+---
 title: Finalize a general budget reservation (Public sector)
 TOCTitle: Finalize a general budget reservation (Public sector)
 ms:assetid: 41bae344-b447-45cb-b07e-5301236929d3
@@ -18,6 +18,8 @@ f1_keywords:
 - general budget reservations
 - finalized budget reservations
 - finalized general budget reservations
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Finalize a general budget reservation (Public sector) 
@@ -74,5 +76,5 @@ To override the default year-end process for general budget reservations, use th
 [About general budget reservations (Public sector)](about-general-budget-reservations-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

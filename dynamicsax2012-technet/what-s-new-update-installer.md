@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Update installer"
 TOCTitle: Update installer
 ms:assetid: 3226a0b2-7273-4a98-8ca3-faf9865385ee
@@ -98,5 +98,5 @@ Advanced mode supports the following features
   - Conflict details provide further information about potential conflicts.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

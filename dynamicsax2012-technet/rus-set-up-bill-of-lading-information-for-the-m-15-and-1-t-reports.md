@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up bill of lading information for the M-15 and 1-T reports
 TOCTitle: (RUS) Set up bill of lading information for the M-15 and 1-T reports
 ms:assetid: 596dc400-73f1-4634-991f-16e22984019c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733230(v=AX.60)
 ms:contentKeyID: 49685197
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up bill of lading information for the M-15 and 1-T reports 
@@ -62,5 +64,5 @@ You can enter bill of lading information for the M-15 and 1-T reports that are g
 [About transfer orders](about-transfer-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

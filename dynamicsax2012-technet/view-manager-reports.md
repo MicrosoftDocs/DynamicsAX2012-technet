@@ -1,4 +1,4 @@
-﻿---
+---
 title: View manager reports
 TOCTitle: View manager reports
 ms:assetid: 337be28b-4868-4832-b1e4-66b4c4b47b18
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - HcmEPManagerReportList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View manager reports 
@@ -28,5 +30,5 @@ Use the **Manage reports** page to view a list of reports that are available to 
 [About reporting and analytics](about-reporting-and-analytics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

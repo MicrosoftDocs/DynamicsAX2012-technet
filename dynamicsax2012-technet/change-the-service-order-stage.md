@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change the service order stage
 TOCTitle: Change the service order stage
 ms:assetid: 5620b397-8f41-4d9f-8ad9-b4b1e2e3cd76
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549052(v=AX.60)
 ms:contentKeyID: 42517323
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change the service order stage 
@@ -28,5 +30,5 @@ Follow these steps to move a service order to the next stage in the service work
 [Change service stage (form)](https://technet.microsoft.com/en-us/library/aa556458\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

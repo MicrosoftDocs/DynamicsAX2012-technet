@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run inventory recalculation
 TOCTitle: Run inventory recalculation
 ms:assetid: 27c08fd7-f997-4ebb-93e8-04c93f84f1f2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231004(v=AX.60)
 ms:contentKeyID: 36056214
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Run inventory recalculation 
@@ -48,5 +50,5 @@ To recalculate the inventory and match item issues with receipts in order to det
 [Resume inventory recalculation](resume-inventory-recalculation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

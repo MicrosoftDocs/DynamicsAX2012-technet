@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up documents for viewing in Enterprise Portal
 TOCTitle: Set up documents for viewing in Enterprise Portal
 ms:assetid: 3df198cd-7d4a-4214-a4ef-3ef9cc995f8c
@@ -62,5 +62,5 @@ Enterprise Portal has the following document requirements and restrictions:
 [Configuring Enterprise Portal](configuring-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

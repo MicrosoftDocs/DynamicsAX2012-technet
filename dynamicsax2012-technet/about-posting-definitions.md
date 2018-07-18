@@ -1,4 +1,4 @@
-﻿---
+---
 title: About posting definitions
 TOCTitle: About posting definitions
 ms:assetid: a4f2e83d-2b87-40ec-b80a-522b953d424e
@@ -12,6 +12,8 @@ f1_keywords:
 - enable budget appropriations
 - transaction posting defintions
 - posting profiles
+audience: Application User
+ms.search.region: Global
 ---
 
 # About posting definitions 
@@ -95,5 +97,5 @@ For examples of posting definitions, see [Examples: Posting definitions](example
 [Encumber purchase orders](encumber-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

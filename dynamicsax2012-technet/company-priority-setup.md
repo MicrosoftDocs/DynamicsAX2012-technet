@@ -1,4 +1,4 @@
-﻿---
+---
 title: Company priority setup
 TOCTitle: Company priority setup
 ms:assetid: fa580295-4ca8-44d7-a9e0-a0eae4a9d83b
@@ -164,5 +164,5 @@ The following table shows this setup.
 [Product upgrade (preprocessing)](product-upgrade-preprocessing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

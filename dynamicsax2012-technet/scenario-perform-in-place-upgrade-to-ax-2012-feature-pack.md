@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Perform in-place upgrade to AX 2012 Feature Pack'
 TOCTitle: 'Scenario: Perform in-place upgrade to AX 2012 Feature Pack'
 ms:assetid: eadfc86d-fcc0-4c96-aa96-1a58a6e82590
@@ -104,5 +104,5 @@ Use this procedure to synchronize the Microsoft Dynamics AX databases that have 
 To install Retail components on your upgraded Microsoft Dynamics AX 2012 Feature Pack system, follow the instructions in [Install Microsoft Dynamics AX 2012](install-microsoft-dynamics-ax-2012.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

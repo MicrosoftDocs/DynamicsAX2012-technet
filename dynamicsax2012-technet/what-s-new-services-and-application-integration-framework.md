@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Services and Application Integration Framework"
 TOCTitle: Services and Application Integration Framework
 ms:assetid: de2a9f9a-b1b4-4042-819d-10295b972079
@@ -604,5 +604,5 @@ For more detailed information about services, see the white papers [Services in 
 For more information about how to use the services programming model together with AX 2012, see [Selecting the Best Development Technology for Your Application Development Scenario (White paper)](selecting-the-best-development-technology-for-your-application-development-scenario-white-paper.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up time registration for workers
 TOCTitle: Setting up time registration for workers
 ms:assetid: c7a240b1-e305-4802-9a01-dd41423202b4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550861(v=AX.60)
 ms:contentKeyID: 36059314
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up time registration for workers 
@@ -41,5 +43,5 @@ Time and attendance can be used to make registrations such as clock-in and clock
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

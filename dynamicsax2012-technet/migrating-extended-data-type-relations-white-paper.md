@@ -1,4 +1,4 @@
-﻿---
+---
 title: Migrating Extended Data Type Relations (White paper)
 TOCTitle: Migrating Extended Data Type Relations
 ms:assetid: 87af83b7-02b3-4c74-a1fe-01f4e9b58f40
@@ -20,5 +20,5 @@ The migration is required wherever the data model for table relationships has be
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213126).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

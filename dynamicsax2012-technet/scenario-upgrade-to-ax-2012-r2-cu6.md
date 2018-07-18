@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Upgrade to AX 2012 R2 + CU6'
 TOCTitle: 'Scenario: Upgrade to AX 2012 R2 + CU6'
 ms:assetid: bf50d3ce-709d-4495-848a-c615910607b6
@@ -98,5 +98,5 @@ Two solutions are available:
 For additional troubleshooting information, see [(CHN) Chinese tax integration for VAT customer invoices](chn-chinese-tax-integration-for-vat-customer-invoices.md) and [(CHN) Configure tax integration](chn-configure-tax-integration.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Integrating a new Shipping Service'
 TOCTitle: 'Walkthrough: Integrating a new Shipping Service'
 ms:assetid: d807c6ed-f6d9-4b84-a06a-3cf9bb48766b
@@ -712,5 +712,5 @@ Use the [Modes of delivery](https://technet.microsoft.com/en-us/library/aa619881
 [Retail Modern Point of Sale](retail-modern-point-of-sale.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

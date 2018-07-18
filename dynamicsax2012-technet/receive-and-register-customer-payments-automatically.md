@@ -1,4 +1,4 @@
-﻿---
+---
 title: Receive and register customer payments automatically
 TOCTitle: Receive and register customer payments automatically
 ms:assetid: f2ddf99e-a514-4317-bfcb-74c8ba9e735c
@@ -14,6 +14,8 @@ f1_keywords:
 - automatic customer payment
 - automatic customer payments
 - automatic payments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Receive and register customer payments automatically 
@@ -26,5 +28,5 @@ The following topics provide information about receiving and registering custome
 [Register payments automatically for intercompany customer invoices](register-payments-automatically-for-intercompany-customer-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

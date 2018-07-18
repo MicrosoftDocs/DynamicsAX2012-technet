@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up sales tax groups for jurisdictions
 TOCTitle: Set up sales tax groups for jurisdictions
 ms:assetid: d15ceae1-662d-4336-b70d-c94cfb43a22f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - sales tax groups
 - sales tax jurisdictions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up sales tax groups for jurisdictions 
@@ -49,5 +51,5 @@ When a journal line, purchase order line, or sales order line is created, the sa
 [Set up sales tax for the United States](set-up-sales-tax-for-the-united-states.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

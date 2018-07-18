@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Attach fiscal document texts to a free text invoice
 TOCTitle: (BRA) Attach fiscal document texts to a free text invoice
 ms:assetid: d30da180-41d5-464d-9770-1e49ead4ed02
@@ -11,6 +11,8 @@ f1_keywords:
 - BRA
 - Brazil
 - legal text
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Attach fiscal document texts to a free text invoice 
@@ -45,5 +47,5 @@ The fiscal document text is attached to the free text invoice. The fiscal docume
 [(BRA) Set up a fiscal document source text](bra-set-up-a-fiscal-document-source-text.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

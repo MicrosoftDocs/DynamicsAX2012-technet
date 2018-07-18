@@ -1,4 +1,4 @@
-﻿---
+---
 title: About viewing project control transactions in Microsoft Excel
 TOCTitle: About viewing project control transactions in Microsoft Excel
 ms:assetid: 8683d3d3-a005-4041-9189-5675c0ddb21f
@@ -15,6 +15,8 @@ f1_keywords:
 - hour utilization
 - project control
 - project statement
+audience: Application User
+ms.search.region: Global
 ---
 
 # About viewing project control transactions in Microsoft Excel 
@@ -73,5 +75,5 @@ The following options are available:
 [Cash flow (form)](https://technet.microsoft.com/en-us/library/hh242606\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install retail components
 TOCTitle: Install retail components
 ms:assetid: 92192174-9c68-4cb7-9bc7-3b9fad20851d
@@ -86,5 +86,5 @@ Retail essentials is a retail-centric configuration option for Microsoft Dynamic
   - [Install Retail essentials at the store or at the point of sale](install-retail-essentials-at-the-store-or-at-the-point-of-sale.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

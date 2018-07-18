@@ -1,4 +1,4 @@
-﻿---
+---
 title: Develop marketing plan overview
 TOCTitle: Develop marketing plan overview
 ms:assetid: 5caa51e4-77b3-48c2-aee0-9e45225f42ff
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - marketing plan
+audience: Application User
+ms.search.region: Global
 ---
 
 # Develop marketing plan overview 
@@ -110,5 +112,5 @@ The following table lists the forms that support the business process component 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot issues in Real-time Service
 TOCTitle: Troubleshoot issues in Real-time Service
 ms:assetid: cbf66b4f-3ecb-41d2-9cee-a639f8518c66
@@ -51,5 +51,5 @@ For the latest information about how to troubleshoot Real-time Service, see the 
 [AX for Retail 2012 R2: Troubleshooting the Real-time Service](http://blogs.msdn.com/b/axsupport/archive/2012/12/31/ax-for-retail-2012-r2-troubleshooting-the-real-time-service.aspx)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

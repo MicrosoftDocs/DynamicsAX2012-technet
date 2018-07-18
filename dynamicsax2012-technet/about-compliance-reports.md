@@ -1,4 +1,4 @@
-﻿---
+---
 title: About compliance reports
 TOCTitle: About compliance reports
 ms:assetid: 90a58c4b-1498-441e-b39b-d1010ff61ee6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271594(v=AX.60)
 ms:contentKeyID: 36384225
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About compliance reports 
@@ -56,5 +58,5 @@ If a report server has not been configured for Microsoft Dynamics AX, the compli
 [About internal controls reports](about-internal-controls-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

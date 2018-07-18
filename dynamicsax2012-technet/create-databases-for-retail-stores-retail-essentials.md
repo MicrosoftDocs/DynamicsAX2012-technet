@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create databases for retail stores (Retail essentials)
 TOCTitle: Create databases for retail stores (Retail essentials)
 ms:assetid: d57a3d13-28da-441e-8a72-7ad5c764b8af
@@ -243,5 +243,5 @@ When the store database becomes available again, you must use the **Database con
 [Setting up retail stores (Retail essentials)](setting-up-retail-stores-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

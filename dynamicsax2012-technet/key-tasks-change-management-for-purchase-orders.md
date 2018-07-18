@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Change management for purchase orders'
 TOCTitle: 'Key tasks: Change management for purchase orders'
 ms:assetid: 1f149219-fb27-4386-997b-139f053588c3
@@ -10,6 +10,8 @@ f1_keywords:
 - purchase order
 - purchase orders
 - change management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Change management for purchase orders 
@@ -212,5 +214,5 @@ Back to top
 [Journalize purchase orders](journalize-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up table requisites
 TOCTitle: (RUS) Set up table requisites
 ms:assetid: 9cca460d-82e7-4fa2-ba11-baa866b1ddb8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - requisite
 - table requisites
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up table requisites 
@@ -77,5 +79,5 @@ Every report template contains several tables that have requisites in the table 
 [(RUS) Set up dynamic table requisites for XML format](rus-set-up-dynamic-table-requisites-for-xml-format.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

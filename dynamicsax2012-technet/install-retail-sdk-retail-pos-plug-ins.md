@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Retail SDK (Retail POS Plug-ins)
 TOCTitle: Install Retail SDK (Retail POS Plug-ins)
 ms:assetid: 818a6bc0-cbce-4709-9f46-af065eeec275
@@ -52,5 +52,5 @@ Use this procedure to install Retail SDK. If you install other Microsoft Dynamic
     The Retail SDK is installed in the documents folder of the user who ran the installation.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

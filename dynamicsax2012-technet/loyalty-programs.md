@@ -1,4 +1,4 @@
-﻿---
+---
 title: Loyalty programs
 TOCTitle: Loyalty programs
 ms:assetid: 86ba1cec-4b39-42bb-a971-45b5f2ae37dd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn804648(v=AX.60)
 ms:contentKeyID: 62959180
 ms.date: 05/20/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Loyalty programs 
@@ -367,5 +369,5 @@ The following table describes the task in Microsoft Dynamics AX that you perform
 Back to top
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 
