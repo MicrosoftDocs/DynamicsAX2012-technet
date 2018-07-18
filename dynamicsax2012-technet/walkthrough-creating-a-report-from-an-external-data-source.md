@@ -122,7 +122,7 @@ A data source contains information about a connection to a database. This includ
     <tr class="odd">
     <td><p><strong>Connection String</strong></p></td>
     <td><p>Server=[YourServerName];Database=AXSampleData;Integrated Security=SSPI</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>Insert the name of your SQL server for <STRONG>[YourServerName]</STRONG>. It must be the name of the SQL server that contains the database that you created in the previous procedure. In this statement, Security Support Provider Interface (SSPI) is using Microsoft Windows user credentials for authentication. You may need to use a different authentication mode depending upon how you have set up your SQL Server instance.</P>

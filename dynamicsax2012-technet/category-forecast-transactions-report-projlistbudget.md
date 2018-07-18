@@ -58,13 +58,11 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Forecast model</strong></p></td>
 <td><p>Select the <strong>Forecast model</strong> that you want the report to use.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If you are using project budget control, select the budget forecast model that is used by this project.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="odd">
 <td><p><strong>Layout - rows</strong></p>
@@ -106,13 +104,11 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Specify budget updates</strong></p></td>
 <td><p>Select whether to include ledger updates in the transactions on the report.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>You must also select the <STRONG>Specify transactions</STRONG> check box to view ledger updates on the report.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p><strong>Project ID</strong></p></td>

@@ -183,7 +183,7 @@ Repeat these steps to set up additional benefit types. When you have finished, y
     <td><p>Select one of these options:</p>
     <ul>
     <li><p><strong>None</strong> – No amounts are contributed by the employer or deducted from the worker’s pay. When this is selected, the FastTabs aren’t available in this form.</p>
-    <div class="alert"> 
+    <div> 
 
     > [!NOTE]
     > <P>When the payroll category for the benefit type is <STRONG>None</STRONG>, the payroll impact is also <STRONG>None</STRONG>.</P>
@@ -291,7 +291,7 @@ Repeat these steps to set up additional benefit types. When you have finished, y
     <td><p><strong>Deduction priority</strong></p></td>
     <td><p>Assign a number to designate the default order that deductions for a benefit are made in, relative to other deductions.</p>
     <p>Amounts are deducted from pay statements starting with the benefit that has the lowest deduction priority number. When multiple benefits have the same number, the deductions for those benefits are made in alphabetical order.</p>
-    <div class="alert"> 
+    <div> 
 
     > [!WARNING]
     > <P>Certain benefits are considered mandatory deductions in some states. Those benefit plans should have the highest deduction priority, which means, the lowest deduction priority number. The lowest possible deduction priority number is 0 (zero).</P>
@@ -565,7 +565,7 @@ Use the data in your own table to set up the contribution calculation rate table
     <li><p><strong>Fixed percent</strong> - The employer contribution is calculated by multiplying the employer contribution rate by the employee earnings. For example, if the rate for the worker deduction is .03 and the rate for the employer contribution is .02, the amount of the employer contribution is .02, or 2 percent of the employee earnings. For this option, the worker deduction amount and the employer contribution amount are calculated separately.</p></li>
     <li><p><strong>Percent of employee</strong> - The employer contribution is calculated by multiplying the employer contribution rate by the worker deduction rate. For example, if the worker deduction rate is .03 and the employer contribution rate is .5, the amount of the employer contribution is .03 x .5 = .015, or 1.5 percent of the employee earnings.</p></li>
     </ul>
-    <div class="alert"> 
+    <div> 
 
     > [!NOTE]
     > <P>The worker deduction and employer contribution rates are determined by the rate table that is defined in the <STRONG>Contribution calculation rates</STRONG> form and then assigned to the benefit in the <STRONG>Benefits</STRONG> form.</P>
@@ -762,13 +762,11 @@ If you don't have access to the pages that are used to complete this task, conta
 <tr class="odd">
 <td><p><strong>Configuration keys</strong></p></td>
 <td><p><strong>Payroll - USA</strong></p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>When you use Payroll, we highly recommend that you turn off the <STRONG>Payroll information</STRONG> configuration key under the <STRONG>Human resource I</STRONG> configuration key. The forms and tables that are enabled by that configuration key are not used by Payroll. If Payroll is installed and the configuration key is enabled, it might be difficult to make sure that your data is entered and tracked correctly.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p><strong>Security roles and duties</strong></p></td>

@@ -64,7 +64,7 @@ On the **User dialog box** link, the following parameters can be set:
 <tr class="odd">
 <td><p><strong>Generate graphic documents of type</strong></p></td>
 <td><p>Select the document type that will be generated for graphics and available for printing from the order and quotation lines.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>To use Inbox and Outbox document types, Microsoft Dynamics AX must be synchronized with Microsoft Outlook.</P>
@@ -133,7 +133,7 @@ On the **Approval** link, the following parameters can be set:
 <td><p>In this field, you can select from the following options:</p>
 <ul>
 <li><p><strong>Always</strong> – The system will search for similar, previously configured BOMs and routes whenever an item configuration is performed. If an existing configuration is found, it will be reused for the item that is being configured.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The first found configuration will be reused.</P>

@@ -108,13 +108,11 @@ The following table shows which cost price accounts are applied by the input fro
 </tr>
 <tr class="even">
 <td><p>Intercompany cost</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Projects for which timesheets are entered cannot have a ledger setting of <STRONG>No ledger</STRONG> or <STRONG>Never ledger</STRONG>.</P>
 
-
-</div></td>
+</td>
 <td><p>x</p></td>
 <td><p></p></td>
 <td><p></p></td>
@@ -216,13 +214,11 @@ The following table shows what accounts are applied by the input from the projec
 </tr>
 <tr class="even">
 <td><p>Intercompany cost</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Projects for which timesheets are entered cannot have a ledger setting of <STRONG>No ledger</STRONG> or <STRONG>Never ledger</STRONG>.</P>
 
-
-</div></td>
+</td>
 <td><p>x</p></td>
 <td><p>x</p></td>
 <td><p>x</p></td>
@@ -360,13 +356,11 @@ The following table shows which sales price accounts are applied by the input fr
 </tr>
 <tr class="odd">
 <td><p>Intercompany revenue</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Projects for which timesheets are entered cannot have a ledger setting of <STRONG>No ledger</STRONG> or <STRONG>Never ledger</STRONG>.</P>
 
-
-</div></td>
+</td>
 <td><p>x</p></td>
 <td><p></p></td>
 <td><p></p></td>
@@ -513,13 +507,11 @@ The following table shows which sales price accounts are applied by the input fr
 </tr>
 <tr class="odd">
 <td><p>Intercompany revenue</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Projects for which timesheets are entered cannot have a ledger setting of <STRONG>No ledger</STRONG> or <STRONG>Never ledger</STRONG>.</P>
 
-
-</div></td>
+</td>
 <td><p>x</p></td>
 <td><p>x</p></td>
 <td><p>x</p></td>

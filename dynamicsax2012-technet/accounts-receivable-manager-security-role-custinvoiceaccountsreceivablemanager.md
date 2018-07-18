@@ -85,13 +85,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain Configurator definitions and processes</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>ConfiguratorMaintain_BR</p></td>
 <td><p>Access to the Definition group, Layout group, Export/import of groups, and Configurator export utility tool</p></td>
 </tr>
@@ -132,25 +130,21 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain the Accountant acceptance status</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>CustDirectiveAccountantMaintain_PSN</p></td>
 <td><p>Maintain the Accountant acceptance status</p></td>
 </tr>
 <tr class="even">
 <td><p>View titre</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>CustDirectiveInquire_PSN</p></td>
 <td><p>View titre tabs, titre reports, and the titre maintenance form</p></td>
 </tr>
@@ -191,13 +185,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire about customer overdue debt VAT journals</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>CustOverdueVATJournalInquire_W</p></td>
 <td><p></p></td>
 </tr>
@@ -213,49 +205,41 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain correction letters</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>EFDocCorrectionLetterMaintain_BR</p></td>
 <td><p></p></td>
 </tr>
 <tr class="even">
 <td><p>View electronic fiscal document information</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>EFDocumentMaintain_BR</p></td>
 <td><p></p></td>
 </tr>
 <tr class="odd">
 <td><p>Configure electronic fiscal document</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>EFDocumentSetup_BR</p></td>
 <td><p></p></td>
 </tr>
 <tr class="even">
 <td><p>NF-e issued in contingency mode</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>EFiscalDocContingencyMode_BR</p></td>
 <td><p>NF-e issued in contingency mode</p></td>
 </tr>
@@ -271,37 +255,31 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>View fiscal document</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>FiscalDocumentInquire_BR</p></td>
 <td><p></p></td>
 </tr>
 <tr class="even">
 <td><p>View fiscal document source texts</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>FiscalDocumentSourceTextView_BR</p></td>
 <td><p></p></td>
 </tr>
 <tr class="odd">
 <td><p>Inquire into imported content and FCI</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>ImportedContentPerItemInquire_BR</p></td>
 <td><p></p></td>
 </tr>
@@ -337,61 +315,51 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into customer positive payments</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>PaymCustPositivePayInquire</p></td>
 <td><p></p></td>
 </tr>
 <tr class="odd">
 <td><p>Maintain positive payments</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>PaymPositivePayMaintain</p></td>
 <td><p></p></td>
 </tr>
 <tr class="even">
 <td><p>Approves generated customer rebates</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>PdsRebateApprove</p></td>
 <td><p></p></td>
 </tr>
 <tr class="odd">
 <td><p>Maintain rebate payments</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>PdsRebatePaymentMaintain</p></td>
 <td><p></p></td>
 </tr>
 <tr class="even">
 <td><p>Processes customer rebates</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>PdsRebateProcess</p></td>
 <td><p></p></td>
 </tr>
@@ -412,25 +380,21 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>RPS file export and import for Electronic fiscal document city</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>RPSMaintain_BR</p></td>
 <td><p></p></td>
 </tr>
 <tr class="odd">
 <td><p>Maintain sales fiscal document</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>SalesFiscalDocumentMaintain_BR</p></td>
 <td><p></p></td>
 </tr>
@@ -451,37 +415,31 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Review average VAT</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>TaxAverageVATReview</p></td>
 <td><p>Review average VAT details via the average VAT report</p></td>
 </tr>
 <tr class="even">
 <td><p>View tax branches</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>TaxBranchView</p></td>
 <td><p>Set up tax branch details</p></td>
 </tr>
 <tr class="odd">
 <td><p>View tax fiscal documents</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>TaxFiscalDocumentInquire_BR</p></td>
 <td><p>View tax fiscal documents</p></td>
 </tr>
@@ -502,25 +460,21 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Inquire into withholding tax transactions</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>TaxWithholdTransactionInquire</p></td>
 <td><p>Inquire the withholding tax transactions details.</p></td>
 </tr>
 <tr class="even">
 <td><p>Maintain withholding tax transactions</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>TaxWithholdTransactionMaintain</p></td>
 <td><p>Maintain the withholding tax transactions details.</p></td>
 </tr>

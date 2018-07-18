@@ -139,7 +139,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="price-discount-configuration-key-pricedisc.md">Price/discount configuration key (PriceDisc)</a></p>
 <p><a href="supplementary-item-configuration-key-suppitem.md">Supplementary item configuration key (SuppItem)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

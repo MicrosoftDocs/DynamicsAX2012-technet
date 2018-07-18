@@ -89,7 +89,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="absence-configuration-key-hrmmanagementabsence.md">Absence configuration key (HRMManagementAbsence)</a></p>
 <p><a href="recruiting-configuration-key-hrmmanagementrecruiting.md">Recruiting configuration key (HRMManagementRecruiting)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

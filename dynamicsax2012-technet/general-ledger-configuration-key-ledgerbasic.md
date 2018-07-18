@@ -73,7 +73,7 @@ The forms that are enabled by this configuration key are located in the followin
 </tr>
 <tr class="even">
 <td><p><strong>Contracts</strong></p></td>
-<td><div class="alert">
+<td><div>
 
 > [!NOTE]
 > <P>(SAU) This form is available only to legal entities whose primary address is in Saudi Arabia.</P>

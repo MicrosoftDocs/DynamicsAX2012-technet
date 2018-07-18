@@ -110,7 +110,7 @@ To perform this task, follow these steps:
     <tr class="even">
     <td><p><strong>Redemption type</strong></p></td>
     <td><p>Select <strong>Loyalty points discount</strong> as the redemption type for the redemption rule.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>When you select <STRONG>Loyalty points discount</STRONG> in this field, you can only update the <STRONG>Program tier</STRONG>, <STRONG>Reward point ID</STRONG>, <STRONG>Reward points</STRONG>, <STRONG>Amount or quantity</STRONG>, <STRONG>Currency</STRONG>, <STRONG>Start date</STRONG>, and <STRONG>End date</STRONG> fields on the <STRONG>Redemption rules</STRONG> FastTab.</P>

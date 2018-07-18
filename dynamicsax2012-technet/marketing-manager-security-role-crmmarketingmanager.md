@@ -45,7 +45,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Inquire into broker commissions</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -57,7 +57,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain broker information</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -69,7 +69,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain rental list</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -81,7 +81,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain source code and catalog offers</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -218,7 +218,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain trade allowance inquiries</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -230,7 +230,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain trade allowances</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>

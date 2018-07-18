@@ -71,6 +71,10 @@ This topic includes the following information:
 <tr class="odd">
 <td><p>Install the toolkit</p></td>
 <td><p><a href="install-the-retail-mass-deployment-toolkit.md">Install the Retail mass deployment toolkit</a></p>
+<<<<<<< HEAD
+<div>
+=======
+>>>>>>> e531b8d10248fafd43a1d63c76deb5911fa94209
 
 > [!TIP]
 > <P>To see the full list of commands that are available for the toolkit, open a Command Prompt window in the folder where RetailConfigMgrToolkit.exe is installed, and type <STRONG>RetailConfigMgrToolkit.exe</STRONG>. To see the parameters that are available for a command, run the command <STRONG>RetailConfigMgrToolkit.exe -o &lt;command&gt; -?</STRONG>.</P>

@@ -142,7 +142,7 @@ To perform this task, follow these steps:
     <tr class="even">
     <td><p><strong>Reserved quantity</strong></p></td>
     <td><p>Enter the quantity of the on-hand inventory item that is used as the fixed asset component.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you select <STRONG>Automatic</STRONG> in the <STRONG>Reservation type</STRONG> field in the <STRONG>Fixed assets parameters</STRONG> form, the quantity of the component that you specify is reserved automatically in the <STRONG>Physical reserved</STRONG> field in the <STRONG>On-hand</STRONG> form. If the quantity that you specify exceeds the quantity that is available for reservation, the <STRONG>Autoreservation</STRONG> form is displayed, where you can view the on-hand inventory transactions for the item and adjust the quantity. Click <STRONG>OK</STRONG>. For more information about reservations, see <A href="reserve-inventory-quantities.md">Reserve inventory quantities</A>, <A href="about-setting-up-inventory-reservations.md">About setting up inventory reservations</A>, and <A href="set-up-items-to-reserve.md">Set up items to reserve</A>.</P>

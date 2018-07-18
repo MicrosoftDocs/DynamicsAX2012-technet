@@ -365,7 +365,7 @@ The following table lists the required setup. For each step, the key is the **Wo
 <tr class="odd">
 <td><p><strong>Location directives</strong></p></td>
 <td><p>Set up a location directive for each work order type. For more information, see <a href="create-a-location-directive.md">Create a location directive</a>.</p>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>You can set up the query on the <STRONG>Location directives</STRONG> FastTab to put away finished goods, co-products, and by-products in specific locations. When you select a work order type, the query is optimized for the selected type. Use the criteria to direct the put away work to a location.</P>

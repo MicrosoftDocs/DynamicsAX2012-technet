@@ -63,7 +63,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Forecast model</strong></p></td>
 <td><p>Select the forecast model that you want the report to use.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you are using project budget control, select the budget forecast model that is used by this project.</P>
@@ -83,7 +83,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>(<strong>Expected sales payment date</strong>)</p>
 <p><strong>Add days to due payment</strong> / <strong>Minimum payment date</strong></p></td>
 <td><p>Enter the number of days from today to include in the calculation of unpaid customer invoices, or enter a future date. The number of days is automatically calculated from today's date to the date that you select.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if you select the <STRONG>Include expected payment</STRONG> check box.</P>
@@ -95,7 +95,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>(<strong>Expected cost payment dates</strong>)</p>
 <p><strong>Add days to due payment</strong> / <strong>Expected cost payment dates</strong></p></td>
 <td><p>Select the number of days from today to include in the calculation of pending payments to vendors, or enter a future date. The number of days is automatically calculated from today's date to the date that you select.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if you select the <STRONG>Include expected payment</STRONG> check box.</P>

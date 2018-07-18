@@ -37,7 +37,7 @@ When you open a report, the following methods are called in the order that they 
 <li><p>Dynamic changes to the design</p></li>
 </ul>
 <p>If your changes require access to the objects of the report, add your code after the super() call.</p>
-<div class="alert">
+<div>
 
 > [!WARNING]
 > <P>Do not delete the super() call from this method. The super() call initializes all the objects of the report.</P>
@@ -62,7 +62,7 @@ When you open a report, the following methods are called in the order that they 
 <td><p>Prompts the user to select a print medium and other information.</p>
 <p>Available mediums include paper, the screen, a print archive, .rtf, HTML, ASCII, .pdf, and text (UTF-8).</p>
 <p>To disable the print medium selection, override the method, and then remove the call to super().</p>
-<div class="alert">
+<div>
 
 > [!WARNING]
 > <P>Do not mistake this method for the method of the same name on a query.</P>

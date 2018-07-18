@@ -72,7 +72,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Sales tax payment</strong></p></td>
 <td><p>Select this check box to print the sales tax payment for the period.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The sales tax payment can only be printed if the <STRONG>Sales tax book type</STRONG>, <STRONG>From sales tax book</STRONG>, and <STRONG>To sales tax book</STRONG> fields are empty.</P>

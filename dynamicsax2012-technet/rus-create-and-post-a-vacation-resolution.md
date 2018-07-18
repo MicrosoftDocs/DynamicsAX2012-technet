@@ -128,7 +128,7 @@ To create a vacation resolution manually, follow these steps:
     <tr class="even">
     <td><p><strong>End of period</strong></p></td>
     <td><p>Select the default ending date of the working period.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The vacation is earned by the employee for this working period. You can also print the vacation balance of an employee in the <STRONG>Balance of vacation days</STRONG> report. For more information, see <A href="rus-vacation-business-trip-and-sick-list-reports.md">(RUS) Vacation, business trip, and sick list reports</A>.</P>
@@ -143,7 +143,7 @@ To create a vacation resolution manually, follow these steps:
     <tr class="even">
     <td><p><strong>Quantity of days</strong></p></td>
     <td><p>The number of vacation days.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The end date of the vacation is automatically displayed in the <STRONG>End date</STRONG> field.</P>
@@ -154,7 +154,7 @@ To create a vacation resolution manually, follow these steps:
     <tr class="odd">
     <td><p><strong>End date</strong></p></td>
     <td><p>Select the ending date of the vacation.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The number of the vacation days is automatically displayed in the <STRONG>Quantity of days</STRONG> field.</P>
@@ -169,7 +169,7 @@ To create a vacation resolution manually, follow these steps:
     <tr class="odd">
     <td><p><strong>Document date</strong></p></td>
     <td><p>The date of the original document that grants the vacation.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The document argument details are displayed from the <STRONG>Document-arguments</STRONG> form, where the employee request for vacation is registered. The vacation schedule details are displayed from the <STRONG>Vacation schedule</STRONG> form when the vacation resolution is created from it.</P>
@@ -266,7 +266,7 @@ To create a vacation schedule, follow these steps:
     <tr class="even">
     <td><p><strong>Quantity of days</strong></p></td>
     <td><p>The number of vacation days.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The ending date of the vacation is displayed in the <STRONG>Finish date</STRONG> field based on the starting date and the number of vacation days.</P>

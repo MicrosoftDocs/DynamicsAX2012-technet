@@ -84,7 +84,7 @@ A data source contains information about a connection to a database. This includ
     <tr class="odd">
     <td><p><strong>Connection String</strong></p></td>
     <td><p>Data Source=[YourServerName];Initial Catalog=Dynamics AX;Integrated Security=SSPI</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>Insert the name of your server for <STRONG>[YourServerName]</STRONG>. It must be the name of the server that contains the Analysis Services database that has the General ledger cube. The Initial Catalog attribute specifies the name of the Analysis Services database to connect to. <STRONG>Dynamics AX</STRONG> is the default name of the Analysis Services database. The Integrated Security attribute specifies that Support Provider Interface (SSPI) is using Microsoft&nbsp;Windows user credentials for authentication.</P>
@@ -154,6 +154,13 @@ Next, create a report to display data from the General ledger cube. This process
     </tr>
     <tr class="odd">
     <td><p><strong>Query</strong></p></td>
+<<<<<<< HEAD
+    <td><pre class="sourceCode sql" id="cb1"><code class="sourceCode sql"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="kw">SELECT</span> {[Measures].[General ledger gross profit - accounting currency]} <span class="kw">ON</span> <span class="kw">COLUMNS</span>,</a>
+    <a class="sourceLine" id="cb1-2" data-line-number="2">{[<span class="kw">Transaction</span> <span class="dt">date</span>].[<span class="dt">Year</span>].&amp;[<span class="dv">2008-01</span>-01T00<span class="ch">:00:00</span>],[<span class="kw">Transaction</span> <span class="dt">date</span>].[<span class="dt">Year</span>].&amp;[<span class="dv">2009-01</span>-01T00<span class="ch">:00:00</span>],</a>
+    <a class="sourceLine" id="cb1-3" data-line-number="3">[<span class="kw">Transaction</span> <span class="dt">date</span>].[<span class="dt">Year</span>].&amp;[<span class="dv">2010-01</span>-01T00<span class="ch">:00:00</span>]} <span class="kw">ON</span> <span class="kw">ROWS</span></a>
+    <a class="sourceLine" id="cb1-4" data-line-number="4"><span class="kw">FROM</span> <span class="ot">&quot;General ledger cube&quot;</span></a></code></pre>
+    <div>
+=======
     <td>
     
     ```SQL
@@ -164,6 +171,7 @@ Next, create a report to display data from the General ledger cube. This process
     ```
 
     <div class="alert">
+>>>>>>> e531b8d10248fafd43a1d63c76deb5911fa94209
 
     > [!NOTE]
     > <P>You may have to modify the MDX query depending on the data that is available in your cube. For example, you may not have data for all the years listed in the query. This query retrieves the profit for 2008, 2009, and 2012. You can use SQL Server Management Studio to help you create an MDX query. In Object Explorer, right-click the database, point to <STRONG>New Query</STRONG>, and then click <STRONG>MDX</STRONG>. You can use the metadata and functions to help you write the query.</P>

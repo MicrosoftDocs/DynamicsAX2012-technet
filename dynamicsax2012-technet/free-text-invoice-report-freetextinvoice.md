@@ -38,7 +38,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Billing classification</strong></p></td>
 <td><p>Select one or more billing classifications to include on the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
@@ -49,7 +49,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Posting</strong></p></td>
 <td><p>If this check box is selected, the free text invoices that are selected will be posted when you click <strong>OK</strong>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>To print a pro forma invoice, clear this check box and select the <STRONG>Print invoice</STRONG> check box.</P>
@@ -64,7 +64,7 @@ When you generate this report, the following default parameters are displayed. Y
 <li><p><strong>Current</strong> – Print each invoice as it is updated.</p></li>
 <li><p><strong>After</strong> – Print after all the invoices have been updated.</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>To print an invoice, you must select the <STRONG>Print invoice</STRONG> check box.</P>
@@ -84,7 +84,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Send e-mail</strong></p></td>
 <td><p>Select this check box to send the PDF and XML files of the free text invoice as email attachments to a customer after the invoice is posted. This check box is available only if you select the <strong>Enable CFD (electronic invoices)</strong> check box in the <strong>Electronic invoice parameters</strong> form.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(MEX) This control is available only to legal entities whose primary address is in Mexico.</P>
@@ -95,7 +95,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Credit correction</strong></p></td>
 <td><p>Select this check box to display a credit correction, such as a credit note, as a debit in the voucher transactions. The negative credit (debit) corrects the previous, incorrect transaction.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This method of correcting entries is known as Storno.</P>
@@ -112,7 +112,7 @@ When you generate this report, the following default parameters are displayed. Y
 <li><p><strong>Balance + packing slip or product receipt</strong> – The customer balance and deliveries are checked against the credit limit.</p></li>
 <li><p><strong>Balance+All</strong> – The customer balance, deliveries, and open orders are checked against the credit limit.</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you select <STRONG>None</STRONG> and the <STRONG>Mandatory credit limit</STRONG> check box is selected for the customer in the <STRONG>Customers</STRONG> form, the customer balance is checked against the credit limit.</P>

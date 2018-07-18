@@ -91,7 +91,7 @@ If there are issues with data distribution, more information is available in the
 <p>To open the <strong>Download sessions</strong> form: Click <strong>Retail</strong> &gt; <strong>Inquiries</strong> &gt; <strong>Commerce Data Exchange</strong> &gt; <strong>Download sessions</strong>.</p>
 <p>To open the <strong>Upload sessions</strong> form: Click <strong>Retail</strong> &gt; <strong>Inquiries</strong> &gt; <strong>Commerce Data Exchange</strong> &gt; <strong>Upload sessions</strong>.</p>
 <p>For more information about how to use these forms, see <a href="view-or-cancel-retail-data-distribution-sessions.md">View or cancel retail data distribution sessions</a>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]  
 > To display complete status information in these forms, you must run the batch job that processes status messages for Commerce Data Exchange. For more information, see <a href="process-status-messages-for-data-exchange.md">Process status messages for data exchange</a>.

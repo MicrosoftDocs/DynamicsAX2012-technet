@@ -76,13 +76,11 @@ The following table shows the tasks that you must complete before you can set up
 </tr>
 <tr class="odd">
 <td><p>Set up staff members.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>You must also assign appropriate permissions to the workers so that they can log on and perform tasks by using the Microsoft Dynamics AX for Retail POS system.</P>
 
-
-</div></td>
+</td>
 <td><p><a href="set-up-workers-retail-essentials.md">Set up workers (Retail essentials)</a></p></td>
 </tr>
 <tr class="even">
@@ -155,13 +153,11 @@ For more information about how to configure Retail essentials, see [Setting up R
 </tr>
 <tr class="even">
 <td><p>Assign product assortments to the store.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>You can assign the retail store to an existing assortment or create a new assortment for the retail store.</P>
 
-
-</div></td>
+</td>
 <td><p><a href="set-up-an-assortment-retail-essentials.md">Set up an assortment (Retail essentials)</a></p></td>
 </tr>
 <tr class="odd">

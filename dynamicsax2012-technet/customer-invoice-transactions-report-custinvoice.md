@@ -36,24 +36,20 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Billing classification</strong></p></td>
 <td><p>Select one or more billing classifications to include on the report.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p><strong>Include transactions without a billing classification</strong></p></td>
 <td><p>If this check box is selected, all transactions that do not have a billing classification assigned to them will appear on the report.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="odd">
 <td><p><strong>Dimension set</strong></p></td>

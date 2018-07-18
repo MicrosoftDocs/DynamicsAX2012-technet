@@ -71,7 +71,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Posting layer</strong></p></td>
 <td><p>Select a posting layer that has transactions to be included in the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is not available in versions of Microsoft Dynamics AX 2012 prior to cumulative update 7 for AX 2012 R2.</P>

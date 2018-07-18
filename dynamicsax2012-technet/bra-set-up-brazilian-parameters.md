@@ -92,7 +92,7 @@ Use the following procedure to set up parameters for Brazilian features.
     <tr class="even">
     <td><p><strong>Document type</strong></p></td>
     <td><p>Select the identification code for the default document type for fiscal document texts. You can select a document type that is not assigned to the fiscal document text that is attached to a fiscal document.</p>
-    <div class="alert"> 
+    <div> 
 
     > [!NOTE]
     > <P>You cannot modify the document type if a fiscal document text is attached to a fiscal document.</P>

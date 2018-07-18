@@ -245,7 +245,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="cash-advance-configuration-key-trvadvance.md">Cash advance configuration key (TRVAdvance)</a></p>
 <p><a href="credit-card-import-configuration-key-trvelectronicpayment.md">Credit card import configuration key (TrvElectronicPayment)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

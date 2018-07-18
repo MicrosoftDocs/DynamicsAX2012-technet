@@ -64,7 +64,7 @@ The following table provides information about how this configuration key relate
 <p><a href="resource-scheduling-configuration-key-psaabs.md">Resource scheduling configuration key (PSAABS)</a></p>
 <p><a href="standard-configuration-key-psastandard.md">Standard configuration key (PSAStandard)</a></p>
 <p><a href="vendor-retention-configuration-key-psaapretainage.md">Vendor retention configuration key (PSAAPRetainage)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

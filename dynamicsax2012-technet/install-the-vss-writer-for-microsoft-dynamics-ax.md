@@ -98,7 +98,7 @@ Use this procedure to install the AX VSS writer. If you install other Microsoft 
     <p>The name of the AX VSS writer service account</p>
     <p>The password for the AX VSS writer service account</p>
     <p>The temporary file location that is used to temporarily hold copies of protected media.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This location can contain important data. We strongly recommend that you limit access to this location to the AX VSS writer service account, and that you use the location only to store temporary VSS files.</P>

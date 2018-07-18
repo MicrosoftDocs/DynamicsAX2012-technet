@@ -131,7 +131,7 @@ The following table explains where to find the report in the Application Object 
 <li><p>Click <strong>Inventory management</strong> &gt; <strong>Journals</strong> &gt; <strong>Item counting</strong> &gt; <strong>Counting</strong>.</p></li>
 </ul>
 <p>Select <strong>Print</strong> and then click <strong>Journal</strong>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>To enable the Print option, you must create a new line by clicking <STRONG>New</STRONG>.</P>

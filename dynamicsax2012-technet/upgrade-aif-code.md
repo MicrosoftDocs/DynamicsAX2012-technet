@@ -108,7 +108,7 @@ The following table describes how key concepts and configuration settings change
 <td><p>Endpoint data and action policies</p></td>
 <td><p>The schema and operation constraints are applied to the integration ports.</p></td>
 <td><p>Information about data and action policies is not copied. In Microsoft Dynamics AX 2009, data and action policies were applied at the action level. In Microsoft Dynamics AX 2012, data and action policies are applied at the level of the integration port. Therefore, you must use the forms for inbound and outbound integration ports to define your data and action policies after the upgrade.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>In earlier versions of Microsoft Dynamics AX, you were required to assign data policies to each endpoint action policy. In Microsoft Dynamics AX 2012, the configuration of data policies is optional.</P>
@@ -136,7 +136,7 @@ The following table describes how key concepts and configuration settings change
 <td><p>Service code attributes</p></td>
 <td><p>Microsoft Dynamics AX 2012 services framework</p></td>
 <td><p>During the upgrade process, the service code is marked with the appropriate attributes, such as create, read, or find. This step enables the auto-inference feature in Microsoft Dynamics AX 2012 to work with the upgraded code.</p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>You must configure each upgraded service to assign appropriate attributes. For more information, see the next row.</P>

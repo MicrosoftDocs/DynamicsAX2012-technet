@@ -81,7 +81,7 @@ Use this procedure to create the basic structure for the online store. The detai
     <tr class="odd">
     <td><p><strong>Warehouse</strong></p></td>
     <td><p>Select the warehouse that products are shipped or sourced from. This warehouse is used by default.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>In AX 2012 R3, you can only configure a Microsoft Dynamics AX Retail store to use a warehouse that is managed in <STRONG>Inventory management</STRONG>. You can’t configure a Retail store to use a warehouse that is managed in <STRONG>Warehouse management</STRONG>.</P>
@@ -96,7 +96,7 @@ Use this procedure to create the basic structure for the online store. The detai
     <tr class="odd">
     <td><p><strong>Category hierarchy</strong></p></td>
     <td><p>Select the navigation category hierarchy for the online store. Online stores must be assigned to a category hierarchy that is assigned to the <strong>Retail channel navigation hierarchy</strong> category hierarchy type.</p>
-    <div class="alert">
+    <div>
 
     > [!IMPORTANT]
     > <P>In AX 2012 R3, this field is located in the <STRONG>Channel product attributes</STRONG> form, on the <STRONG>General</STRONG> FastTab. To open the <STRONG>Channel product attributes</STRONG> form, in the <STRONG>Online store</STRONG> form, on the <STRONG>Set up</STRONG> tab, click <STRONG>Store product attributes</STRONG>.</P>

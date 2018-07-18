@@ -44,7 +44,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><p>Select the <strong>Activate TDS</strong>, <strong>Invoice</strong>, <strong>Payment</strong>, and <strong>Service tax</strong> check boxes in the <strong>General ledger parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The <STRONG>Exclude tax for TDS or TCS calculation</STRONG> and the <STRONG>Exclude charges for TDS or TCS calculation</STRONG> fields are available in the <STRONG>Withholding tax groups</STRONG> form only if you clear the <STRONG>Activate TDS</STRONG> check box, and then select it again.</P>

@@ -408,7 +408,7 @@ The following table provides information about how this configuration key relate
 <p><a href="project-grant-management-configuration-key-projgrant.md">Project grant management configuration key (ProjGrant)</a></p>
 <p><a href="time-and-material-configuration-key-projbasictimematerial.md">Time and material configuration key (ProjBasicTimeMaterial)</a></p>
 <p><a href="timesheet-configuration-key-projtimesheet.md">Timesheet configuration key (ProjTimesheet)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

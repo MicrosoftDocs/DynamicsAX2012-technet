@@ -91,7 +91,7 @@ To create a new budget cost element, follow these steps:
     <tr class="odd">
     <td><p><strong>Budget cost element</strong></p></td>
     <td><p>The name of the budget cost element, such as Overtime or Dental plan A. You can’t change the name of the budget cost element after you save it. Therefore, consider all naming conventions before you save your changes to make sure that the name is unique and the budget cost element can be identified easily.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>All organizations should have at least one “Base pay” budget cost element. In addition, most have 401(k) elements, life insurance elements, car insurance elements, and many others.</P>
@@ -141,7 +141,7 @@ To create a new budget cost element, follow these steps:
     <tr class="even">
     <td><p><strong>Legal entity</strong></p></td>
     <td><p>You must create at least one line for each legal entity that offers the cost element. If you do not create a line for a legal entity, the cost element is not available to forecast positions that are assigned to a budget planning process that uses the ledger for the legal entity.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>Each budget cost element can have multiple lines for the same legal entity, if the dates that are assigned to the lines do not overlap. For example, if you are creating a budget cost element for a 500.00 monthly car allowance that will increase to 550.00 next year for a particular legal entity, you would create two lines for the legal entity. One line would have an annual amount of 6,000.00 for one year and the other would have an annual amount of 6,600.00 for the following year.</P>
@@ -162,7 +162,7 @@ To create a new budget cost element, follow these steps:
     <td><p><strong>Percent</strong></p></td>
     <td><p>If the cost element is percentage-based, enter the percentage, such as 3. You can create multiple lines for different percentages if you know that they will change. For example, if the PERS percentage will increase from 3 percent to 4 percent of base pay next year, enter 3 in the <strong>Percent</strong> field and set the expiration date to the end of the year. Then create a second line and enter 4 in the <strong>Percent</strong> field and set the effective date to the first day of the following year.</p>
     <p>You must assign a budget cost element as the calculation basis so the value can be determined. For more information, see step 5.</p>
-    <div class="alert">
+    <div>
 
     > [!IMPORTANT]
     > <P>If you upgraded your data from Microsoft Dynamics AX 2012 R2, all budget purpose types that were calculated by using a percentage of the annual gross compensation are converted to fixed amounts. You must reconfigure these after the data upgrade is complete so that the amounts are calculated correctly.</P>

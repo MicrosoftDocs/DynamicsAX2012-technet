@@ -36,7 +36,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Worker period</strong></p></td>
 <td><p>Select a worker period. Only workers associated with the selected period are displayed on the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Workers are associated with a period based on the pay and time reporting schedule that they follow.</P>

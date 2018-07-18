@@ -64,7 +64,7 @@ The following table provides an overview of how domains, companies, and virtual 
 <td><p>A virtual company account is a collection of tables that is shared among a group of companies. When users save information in one of the tables, the data becomes available to the other company accounts in the group.</p>
 <p>In Microsoft Dynamics AX 2012, most master data entities, such as charts of accounts, parties, and products, are shared among organizations. Before you upgrade, we recommend that you determine whether the data that you want to share is already shared organization-wide in Microsoft Dynamics AX 2012. Review the tables that are in the table collection of each virtual company. If any tables have been converted to shared data tables, their presence in the table collection of a virtual company is redundant. Therefore, we recommend that you remove these tables from the table collection.</p>
 <p>Some master data entities, such as customer accounts and vendor accounts, are still defined per company. To share data from master data entities that are not shared by default, you may want to continue to use virtual companies. When you upgrade, you must create the necessary table collections and virtual companies on the target system during the data upgrade. For more information about how to create virtual companies and table collections, see <a href="virtual-company-accounts-in-microsoft-dynamics-ax.md">Virtual company accounts in Microsoft Dynamics AX</a>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>When you use virtual companies, you must share all attributes of a relationship. Therefore, you may want to use a shared data entity such as a party to share data for customers and vendors.</P>

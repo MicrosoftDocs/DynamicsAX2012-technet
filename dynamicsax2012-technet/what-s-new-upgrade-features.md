@@ -88,7 +88,7 @@ Previous releases of Microsoft Dynamics AX implemented upgrades on a single comp
 <tr class="odd">
 <td><p><strong>Software update checklist</strong></p></td>
 <td><p>Used for in-place upgrade from Microsoft Dynamics AX 2012 to Microsoft Dynamics AX 2012 Feature Pack. In Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3, the upgrade framework replaces this checklist with the <strong>Code upgrade checklist for in-place upgrade</strong> and the <strong>Data upgrade checklist for in-place upgrade</strong>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The <STRONG>Software update checklist</STRONG> is still used for hotfixes and updates.</P>
@@ -99,7 +99,7 @@ Previous releases of Microsoft Dynamics AX implemented upgrades on a single comp
 <tr class="even">
 <td><p><strong>Retail POS redeployment checklist</strong></p></td>
 <td><p>Tasks that are involved in redeploying point-of-sale (POS) terminals after the head-office system has been upgraded to Microsoft Dynamics AX 2012 R2 and up-to-date POS software has been installed in the stores</p>
-<div class="alert">
+<div>
 
 > [!WARNING]
 > <P>This checklist is removed in Microsoft Dynamics AX 2012 R3.</P>

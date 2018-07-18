@@ -62,7 +62,7 @@ When you bind a dataset to a query, you can select one or more field groups that
     <tr class="even">
     <td><p><strong>Query</strong></p></td>
     <td><p>Click the ellipsis button (…). A dialog box displays with the queries that are defined in the AOT. Select a query and then click <strong>Next</strong>. Expand the field nodes and select fields, field groups, and display methods that you want to use on the report.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The field groups you select in this step will be the field groups you can add to the report design.</P>

@@ -128,7 +128,7 @@ The following table lists the forms that support setting up and maintaining Cash
 <td><p></p></td>
 <td><p><strong>File archive</strong></p></td>
 <td><p>View and analyze archived files.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(NOR) This form is available only to legal entities whose primary address is in Norway.</P>
@@ -140,7 +140,7 @@ The following table lists the forms that support setting up and maintaining Cash
 <td><p></p></td>
 <td><p><strong>File types</strong></p></td>
 <td><p>Set up the types of files to archive.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(NOR) This form is available only to legal entities whose primary address is in Norway.</P>
@@ -152,7 +152,7 @@ The following table lists the forms that support setting up and maintaining Cash
 <td><p></p></td>
 <td><p><strong>IBS parameters</strong></p></td>
 <td><p>Set up parameters to integrate Microsoft Dynamics AX with Isabel electronic banking software.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(BEL) This form is available only to legal entities whose primary address is in Belgium.</P>
@@ -169,7 +169,7 @@ The following table lists the forms that support setting up and maintaining Cash
 <td><p>Setting up bank reports</p></td>
 <td><p><strong>BLWI parameters</strong></p></td>
 <td><p>Set up Belgian Luxembourg Exchange Institute (BLWI) parameters.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(BEL) This form is available only to legal entities whose primary address is in Belgium.</P>
@@ -181,7 +181,7 @@ The following table lists the forms that support setting up and maintaining Cash
 <td><p></p></td>
 <td><p><strong>State 11</strong></p></td>
 <td><p>Set up State 11 information.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(BEL) This form is available only to legal entities whose primary address is in Belgium.</P>

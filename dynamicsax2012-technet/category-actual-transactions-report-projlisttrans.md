@@ -36,24 +36,20 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Include project types</strong></p></td>
 <td><p>Select the type of project that you want to include on the report. You can select more than one type.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If you do not select a project type, all project types are displayed on the report.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p><strong>Include transaction types</strong></p></td>
 <td><p>Select the transaction types that you want to include on the report. You can select more than one transaction type.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If you do not select a transaction type, all transaction types are displayed on the report.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="odd">
 <td><p>(<strong>Project date</strong>)</p>
@@ -108,13 +104,11 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Specify ledger updates</strong></p></td>
 <td><p>Select whether to include ledger updates in the transactions on the report.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>You must also select the <STRONG>Specify transactions</STRONG> check box to view ledger updates on the report.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="odd">
 <td><p><strong>Project ID</strong></p></td>

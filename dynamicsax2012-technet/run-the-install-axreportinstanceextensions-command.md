@@ -56,7 +56,7 @@ Before you can complete the procedures in this topic, you must make sure that th
     <td> <p>
    
 	 You must be a member of the Administrators group on the server that runs Reporting Services.
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Dn527682.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Dn527682.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 If your Windows domain account is assigned to a group that is a member of the Administrators group, it may take some time to validate that you are a member of the Administrators group. If you experience a delay when you run the Install-AXReportInstanceExtensions command, consider adding your Windows domain account directly to the Administrators group.
   </p> </td></tr></table></div></td>

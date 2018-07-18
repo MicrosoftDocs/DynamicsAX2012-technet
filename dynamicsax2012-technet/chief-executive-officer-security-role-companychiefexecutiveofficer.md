@@ -120,13 +120,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into organizational process</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>HcmOrganizationalProcessInquire</p></td>
 <td><p>Respond to inquiries about organizational reference data</p></td>
 </tr>
@@ -157,13 +155,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into workers</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>HcmWorkerInquire</p></td>
 <td><p>Respond to inquiries about employee and contractor data</p></td>
 </tr>
@@ -234,37 +230,31 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into customer positive payments</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>PaymCustPositivePayInquire</p></td>
 <td><p></p></td>
 </tr>
 <tr class="odd">
 <td><p>Maintain positive payments</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>PaymPositivePayMaintain</p></td>
 <td><p></p></td>
 </tr>
 <tr class="even">
 <td><p>Inquire into vendor positive payments</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>PaymVendPositivePayInquire</p></td>
 <td><p></p></td>
 </tr>
@@ -345,13 +335,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into time management process</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>RPayTimeProcessInquire</p></td>
 <td><p></p></td>
 </tr>

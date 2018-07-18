@@ -40,7 +40,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Estimate date</strong></p></td>
 <td><p>Click the calendar icon next to the <strong>Estimate date</strong> field. The applicable estimate dates are displayed for the selected <strong>Period code</strong>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you do not select an estimate date that is applicable to the selected <STRONG>Period code</STRONG>, the report will be empty.</P>

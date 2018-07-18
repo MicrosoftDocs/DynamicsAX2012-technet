@@ -35,13 +35,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 <tbody>
 <tr class="odd">
 <td><p>Enable financial reports generator</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>RRGEnable</p></td>
 <td><p>Set up templates, report format, and other information to enable the financial reports generator</p></td>
 </tr>
@@ -52,25 +50,21 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Inquire about accounting data</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>LedgerRRGGInquire</p></td>
 <td><p>Respond to inquiries about accounting data</p></td>
 </tr>
 <tr class="even">
 <td><p>Inquire into Absorption Costs</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>ACOInquire_BR</p></td>
 <td><p></p></td>
 </tr>
@@ -101,13 +95,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into inventory valuation policies (cur.)</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>InvStdCostInvValuatPoliciesSecInquire_RU</p></td>
 <td><p>Respond to inquiries about the policies governing the inventory valuation in the second currency</p></td>
 </tr>
@@ -123,25 +115,21 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Inquire into related inventory status</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>InventRelatedInventoryStatusInquire</p></td>
 <td><p>Respond to inquiries about the status of the related inventory</p></td>
 </tr>
 <tr class="even">
 <td><p>Maintain Absorption Costs</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>ACOMaintain_BR</p></td>
 <td><p></p></td>
 </tr>
@@ -162,37 +150,31 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain inventory valuation (cur.)</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>InvClosingInventValuatSecCurMaintain_RU</p></td>
 <td><p>Document and record inventory valuation in the second currency</p></td>
 </tr>
 <tr class="odd">
 <td><p>Review inventory valuation process performance (cur.)</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>InvValueInvValuatProcPerfSecCurReview_RU</p></td>
 <td><p>Monitor inventory valuation in the second currency</p></td>
 </tr>
 <tr class="even">
 <td><p>Inquire into BOM calculations</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>BOMBillsOfMaterialsCalcStatusInquire</p></td>
 <td><p>Inquire into BOM calculations</p></td>
 </tr>

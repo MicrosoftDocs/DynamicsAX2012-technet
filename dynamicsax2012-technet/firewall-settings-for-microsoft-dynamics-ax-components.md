@@ -55,7 +55,7 @@ If you use Windows Firewall to help protect your computers, Microsoft Dynamics A
 <p>Setup automatically creates the inbound rule &quot;Dynamics AX 6.0 –MicrosoftDynamicsAX (NetTCP)&quot; for the services endpoint port.</p></li>
 </ul></td>
 <td><p>Windows Firewall must be enabled on the computer. Each AOS instance must use a different port number.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>By default, every time that you install an additional AOS instance on a computer, the TCP/IP port number and the services endpoint port numbers are incremented by 1. For example, by default, the second AOS instance on a computer is assigned to TCP/IP port 2713.</P>

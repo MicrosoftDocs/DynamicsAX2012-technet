@@ -36,7 +36,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Include project types</strong></p></td>
 <td><p>Select the corresponding check boxes to include each project type in the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you do not select a project type, all project types are displayed on the report.</P>
@@ -66,7 +66,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Forecast model</strong></p></td>
 <td><p>Select the forecast model that you want the report to use.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you are using project budget control, select the budget forecast model that is used by this project.</P>

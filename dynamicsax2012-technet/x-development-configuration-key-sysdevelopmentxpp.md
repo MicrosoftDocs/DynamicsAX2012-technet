@@ -142,7 +142,7 @@ The following table provides information about how this configuration key relate
 <tr class="odd">
 <td><p>Child keys</p></td>
 <td><p><a href="test-framework-configuration-key-systest.md">Test Framework configuration key (SysTest)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

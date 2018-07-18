@@ -400,7 +400,7 @@ The following table provides information about how this configuration key relate
 <p><a href="compensation-configuration-key-hrmadministrationcompensation.md">Compensation configuration key (HRMAdministrationCompensation)</a></p>
 <p><a href="payroll-information-configuration-key-hrmadministrationpayrollinfo.md">Payroll information configuration key (HRMAdministrationPayrollInfo)</a></p>
 <p><a href="personnel-actions-configuration-key-hcmpersonnelactions.md">Personnel actions configuration key (HcmPersonnelActions)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

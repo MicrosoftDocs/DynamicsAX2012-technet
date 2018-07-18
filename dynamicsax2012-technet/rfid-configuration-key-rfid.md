@@ -105,7 +105,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="rfid-business-processing-configuration-key-rfidbusinessprocessing.md">RFID business processing configuration key (RFIDBusinessProcessing)</a></p>
 <p><a href="rfid-tagging-configuration-key-rfidtagging.md">RFID tagging configuration key (RFIDTagging)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

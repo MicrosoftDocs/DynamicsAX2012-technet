@@ -116,8 +116,14 @@ For the Synch Service instance that connects to Microsoft Dynamics AX, the follo
 <td><p>Outgoing</p></td>
 <td><p>I</p></td>
 <td><p>Data package sent to Microsoft Dynamics AX</p>
+<<<<<<< HEAD
+<div>
+
+> [!NOTE]  
+=======
   
 > [!Note]  
+>>>>>>> e531b8d10248fafd43a1d63c76deb5911fa94209
 > Both incoming and outgoing data packages for P jobs have the same suffix. In order to view content in an outgoing data package, you must change the suffix for the corresponding file to R. If you do not change the suffix, an error will be displayed when you attempt to view the package.
  
 </td>
@@ -157,6 +163,10 @@ For the Synch Service instance that connects to the retail channel database, the
 <td><p>Outgoing</p></td>
 <td><p>I</p></td>
 <td><p>Data package sent to the channel database</p>
+<<<<<<< HEAD
+<div>
+=======
+>>>>>>> e531b8d10248fafd43a1d63c76deb5911fa94209
 
 > [!Note]  
 > Both incoming and outgoing data packages for A and N jobs have the same suffix. In order to view content in an outgoing data package, you must change the suffix for the corresponding file to R. If you do not change the suffix, an error will be displayed when you attempt to view the package.

@@ -178,7 +178,7 @@ If you are installing AX 2012 Feature Pack, the following models are available i
 <li><p>Project Management – Allows you to invoice customers for various billing scenarios, such as billing per unit of delivery and billing when a milestone is completed. You can also create customer and vendor retentions, and manage workers on projects.</p></li>
 <li><p>Retail - Provides mid-market and large retailers a complete head office and point of sale (POS) solution.</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>This model is required when you install AX 2012 Feature Pack. If the model includes functionality that you do not plan to use, turn off the appropriate license codes and configuration keys. Do not uninstall this model to remove unwanted functionality. Uninstalling models that are released by Microsoft will put the system in an unsupported state. If you have uninstalled this model, you must reinstall it using the instructions found in <A href="how-to-export-and-import-a-model.md">How to: Export and Import a Model</A>.</P>

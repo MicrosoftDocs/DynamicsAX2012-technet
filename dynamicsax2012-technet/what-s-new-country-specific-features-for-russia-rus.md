@@ -399,7 +399,7 @@ For more information about additional country-specific features that we added fo
 <li><p>Transfer to authorized capital.</p></li>
 <li><p>The cost of goods, such as work or services, can be calculated by including or excluding VAT, depending on the revenue calculation method for the VAT amount restoration.</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The amount that is specified during realization on export transactions excludes VAT.</P>

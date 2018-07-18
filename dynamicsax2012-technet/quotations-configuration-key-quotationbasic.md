@@ -141,7 +141,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="sales-quotation-configuration-key-salesquotation.md">Sales quotation configuration key (SalesQuotation)</a></p>
 <p><a href="project-quotation-configuration-key-projquotation.md">Project quotation configuration key (ProjQuotation)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

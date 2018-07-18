@@ -141,7 +141,7 @@ To create and post a payroll journal, follow these steps:
     <ul>
     <li><p><strong>Employee</strong> – Create the journal line for an employee.</p></li>
     <li><p><strong>Group</strong> – Create the journal line for a payroll group.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you select this option and create a payroll journal line, then the same payroll line, pay type, and amount are created for all of the employees in the group when you post the journal.</P>
@@ -157,7 +157,7 @@ To create and post a payroll journal, follow these steps:
     <tr class="even">
     <td><p><strong>Pay type</strong></p></td>
     <td><p>Select a pay type for which an accrual or deduction is to be entered. The <strong>Description</strong> field is updated with the description of the pay type. You can modify the description.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The <STRONG>Qty</STRONG>, <STRONG>Rate</STRONG>, <STRONG>Percent</STRONG>, and <STRONG>Amount</STRONG> fields are available based on the information that you set up for the pay type in the <STRONG>Pay type setup</STRONG> form. For more information, see “6. Set up pay types” in <A href="rus-set-up-parameters-for-the-payroll-process.md">(RUS) Set up parameters for the payroll process</A>.</P>
@@ -180,7 +180,7 @@ To create and post a payroll journal, follow these steps:
     <tr class="even">
     <td><p><strong>Amount</strong></p></td>
     <td><p>Enter the accrual or deduction amount for the journal line.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If the <STRONG>Qty</STRONG> and <STRONG>Rate</STRONG> fields are updated, the amount is automatically calculated and updated in the <STRONG>Amount</STRONG> field.</P>
@@ -278,7 +278,7 @@ To calculate the average wages that are earned by a worker, follow these steps:
     <tr class="odd">
     <td><p><strong>Calculation type</strong></p></td>
     <td><p>Select <strong>By days</strong> or <strong>By hours</strong> to calculate average daily or hourly earnings.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you select <STRONG>Calendar</STRONG> in the <STRONG>Calculation method of short month</STRONG> field, you must select <STRONG>By days</STRONG> in this field.</P>
@@ -293,7 +293,7 @@ To calculate the average wages that are earned by a worker, follow these steps:
     <tr class="odd">
     <td><p><strong>Average earnings base</strong></p></td>
     <td><p>Select the identification code for the average earnings calculation base. The base includes pay types that are used in the average earnings calculation.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The average earnings base is applied for the average earnings calculation instead of base of calculation when there are no accruals available for previous calculation periods that are included in the base of calculation.</P>
@@ -312,7 +312,7 @@ To calculate the average wages that are earned by a worker, follow these steps:
     <tr class="even">
     <td><p><strong>Actually worked</strong></p></td>
     <td><p>Select a time group that defines the time that was actually worked.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if you select <STRONG>By coefficient</STRONG> in the <STRONG>Calculation method of short month</STRONG> field.</P>
@@ -323,7 +323,7 @@ To calculate the average wages that are earned by a worker, follow these steps:
     <tr class="odd">
     <td><p><strong>Absences from work</strong></p></td>
     <td><p>Select a time group that defines an acceptable reason for an absence from work.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if you select <STRONG>Summary</STRONG> or <STRONG>Calendar</STRONG> in the <STRONG>Calculation method of short month</STRONG> field.</P>
@@ -349,7 +349,7 @@ To calculate the average wages that are earned by a worker, follow these steps:
     <li><p><strong>First</strong> – The applicable number of bonuses that are accrued first are used for the calculation</p></li>
     <li><p><strong>Last</strong> – The applicable number of bonuses that are accrued last are used for calculation.</p></li>
     </ul>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If the number of bonuses for a single reason exceeds the number that is allowed for the average earnings calculation, a single bonus is selected for the period, depending on the selected criteria. One twelfth of the bonus for the year prior to the event is included in each month that is entered in the average earnings calculation.</P>
@@ -528,7 +528,7 @@ To verify worker payments and deductions, follow these steps:
     <tr class="odd">
     <td><p><strong>Paid</strong></p></td>
     <td><p>The difference between the total amount of accruals and the total amount of deductions.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>When you generate the pay sheet for payroll, the value in this field is transferred to the line.</P>

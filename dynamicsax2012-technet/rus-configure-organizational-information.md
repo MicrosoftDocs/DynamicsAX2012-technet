@@ -188,7 +188,7 @@ To reserve a position for a department, follow these steps:
     <tr class="odd">
     <td><p><strong>Department code</strong></p></td>
     <td><p>Select the department code.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The position is displayed automatically for the selected department.</P>
@@ -207,7 +207,7 @@ To reserve a position for a department, follow these steps:
     <tr class="even">
     <td><p><strong>Maximum salary</strong></p></td>
     <td><p>The maximum salary for the position.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>On the <STRONG>General</STRONG> tab, in the <STRONG>Scale of charges</STRONG> field group, you can select the minimum and maximum wage grade codes for the approved pay scale that is selected in the <STRONG>Code</STRONG> field. The values in the <STRONG>Minimum salary</STRONG> and <STRONG>Maximum salary</STRONG> fields are automatically updated according to the selected wage grades.</P>

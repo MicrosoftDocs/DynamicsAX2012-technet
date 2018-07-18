@@ -54,7 +54,7 @@ When you generate this report, the following default parameters are displayed. Y
 <li><p><strong>Open</strong> – Include transactions that have not been settled. In other words, transactions that have a current balance that is not equal to zero.</p></li>
 <li><p><strong>Closed</strong> – Include transactions that have been settled. In other words, transactions that have a current balance that is equal to zero.</p></li>
 <li><p><strong>All</strong> – Include all transactions.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is not available in versions of Microsoft Dynamics AX 2012 prior to cumulative update 6 for AX 2012 R2.</P>

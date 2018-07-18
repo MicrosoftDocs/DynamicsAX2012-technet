@@ -45,7 +45,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="bill-of-exchange-configuration-key-custbillofexchange.md">Bill of exchange configuration key (CustBillOfExchange)</a></p>
 <p><a href="promissory-note-configuration-key-vendpromissorynote.md">Promissory note configuration key (VendPromissoryNote)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

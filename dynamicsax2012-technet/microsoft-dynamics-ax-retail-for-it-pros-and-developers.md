@@ -35,7 +35,7 @@ The following table briefly describes each component.
 <td><p>Retail headquarters</p></td>
 <td><p>Retail headquarters for Microsoft Dynamics AX can be used to manage a chain of stores as one enterprise. It controls daily operations and tracks sales information for every store in the chain. Retail Scheduler coordinates communication between Microsoft Dynamics AX and the stores.</p>
 <p>Retail headquarters can be used with any POS or online store system that can receive and transmit the necessary data.</p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>Building a custom POS or online store solution for Microsoft Dynamics AX is a complex task that requires extensive planning, development, and testing.</P>

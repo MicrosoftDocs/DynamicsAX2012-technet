@@ -34,13 +34,11 @@ The following table shows the prerequisites that must be in place before you sta
 <td><ol>
 <li><p>Select a number sequence code for the corrective invoice reference in the <strong>Accounts receivable parameters</strong> form.</p></li>
 <li><p>(DEU) Select the <strong>Print corrective invoice on sales credit memo</strong> check box, and specify the date from which the corrective invoices are printed instead of credit notes in the <strong>Legal entities</strong> form.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This control is available only for legal entities whose primary address is Germany.</P>
 
-
-</div></li>
+</li>
 <li><p>Create and post a sales order invoice. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa585863(v=ax.60)">Sales orders (form)</a>.</p></li>
 </ol></td>
 </tr>

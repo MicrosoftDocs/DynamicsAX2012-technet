@@ -148,7 +148,7 @@ The following table provides information about how this configuration key relate
 <tr class="odd">
 <td><p>Child keys</p></td>
 <td><p><a href="campaign-process-configuration-key-smmmacampaignprocess.md">Campaign process configuration key (smmMACampaignProcess)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

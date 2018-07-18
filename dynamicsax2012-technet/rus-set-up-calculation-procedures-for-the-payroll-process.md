@@ -272,7 +272,7 @@ To set up counters for calculation sequences, follow these steps:
     <tr class="odd">
     <td><p><strong>Line type</strong></p></td>
     <td><p>Select the line type to apply the counter to. The options that you can select in the <strong>From</strong> and <strong>To</strong> fields depend on the line type that you select. Some of the line types are available for system procedures, such as days and hours from the employee working schedule and values of rates and counters. Some of the line types are specific to a general procedure and are available only for the general procedure, such as days and hours for a timesheet procedure and income and deduction values for a tax procedure.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>After you select a line type and set up the values in the <STRONG>From</STRONG> and <STRONG>To</STRONG> fields, you can set up the additional criteria to calculate the values for the entities that correspond with the line type that you specify. The values that are returned for all of the entities that are specified for the corresponding line types are aggregated, and all of the future mathematical operations are calculated using this total.</P>
@@ -331,7 +331,7 @@ To set up counters for calculation sequences, follow these steps:
     <tr class="even">
     <td><p><strong>Operator</strong></p></td>
     <td><p>Select <strong>+</strong>, <strong>-</strong>, <strong>*</strong>, or <strong>/</strong> as the mathematical operator for the expression.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you do not specify an operator, the value of the current line is used as a parameter for the next line.</P>
@@ -342,7 +342,7 @@ To set up counters for calculation sequences, follow these steps:
     <tr class="odd">
     <td><p><strong>Sequence number</strong></p></td>
     <td><p>The sequence number of the counter line defines the order in which to run the calculation. You can modify the sequence number for the counter line.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>When you enter values in the <STRONG>From</STRONG> and <STRONG>Next line</STRONG> fields for the counter lines of line type <STRONG>Calculation line</STRONG> and <STRONG>Line total</STRONG>, the sequence number is used to determine the current counter line.</P>
@@ -454,7 +454,7 @@ To set up an average earnings calculation method for all workers, follow these s
     <tr class="odd">
     <td><p><strong>Average earnings base</strong></p></td>
     <td><p>Select the identification code for the average earnings calculation base. The base includes pay types that are used in the average earnings calculation.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The average earnings base is applied for the average earnings calculation instead of the <STRONG>Base of calculation</STRONG> when there are no accruals available for previous calculation periods that are included in the base of calculation.</P>
@@ -473,7 +473,7 @@ To set up an average earnings calculation method for all workers, follow these s
     <tr class="even">
     <td><p><strong>Actually worked</strong></p></td>
     <td><p>Select a time group that defines the time that was actually worked.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if you select <STRONG>By coefficient</STRONG> in the <STRONG>Calculation method of short month</STRONG> field.</P>
@@ -484,7 +484,7 @@ To set up an average earnings calculation method for all workers, follow these s
     <tr class="odd">
     <td><p><strong>Absences from work</strong></p></td>
     <td><p>Select a time group that defines an acceptable reason for an absence from work.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if you select <STRONG>Summary</STRONG> or <STRONG>Calendar</STRONG> in the <STRONG>Calculation method of short month</STRONG> field.</P>
@@ -510,7 +510,7 @@ To set up an average earnings calculation method for all workers, follow these s
     <li><p><strong>First</strong> – The applicable number of bonuses that are accrued first are used for the calculation</p></li>
     <li><p><strong>Last</strong> – The applicable number of bonuses that are accrued last are used for calculation.</p></li>
     </ul>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If the number of bonuses for a single reason exceeds the number that is allowed for the average earnings calculation, a single bonus is selected for the period, depending on the selected criteria. One twelfth of the bonus for the year prior to the event is included in each month that is entered in the average earnings calculation.</P>

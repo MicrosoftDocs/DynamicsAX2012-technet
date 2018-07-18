@@ -45,7 +45,7 @@ Be sure to review the following information before you upgrade to Microsoft Dyna
 </tr>
 <tr class="even">
 <td><p><a href="http://go.microsoft.com/fwlink/?linkid=215590">Release notes</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This is secure content that is available on the <A href="http://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
@@ -136,7 +136,7 @@ Use the following resources after you have upgraded to Microsoft Dynamics AX 201
 </tr>
 <tr class="odd">
 <td><p><a href="https://mbs.microsoft.com/customersource/support/selfsupport/hottopics/">Hot topics</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This is secure content that is available on the <A href="http://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
@@ -147,7 +147,7 @@ Use the following resources after you have upgraded to Microsoft Dynamics AX 201
 </tr>
 <tr class="even">
 <td><p><a href="https://mbs.microsoft.com/customersource/downloads/servicepacks">Service packs and product releases</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This is secure content that is available on the <A href="http://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>

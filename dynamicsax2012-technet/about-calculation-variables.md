@@ -50,13 +50,11 @@ Unlike the modeling variables, calculation variables are invisible in the user d
 </ul>
 <p><strong>System variable</strong> of the <strong>Lot ID</strong>, <strong>Item number</strong>, <strong>Configuration</strong>, and <strong>Quantity</strong> types are useful for transferring information from the order line or the quotation line to the current item configuration.</p>
 <p>All system variables can be used to transfer values between parent and child product models.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Create only one system variable of each type, except for <STRONG>Transfer variable</STRONG>.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p><strong>Simple</strong></p></td>

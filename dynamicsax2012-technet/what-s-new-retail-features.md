@@ -44,7 +44,7 @@ This topic describes new and changed Retail features since the release of Micros
 <tr class="odd">
 <td><p>Seamless offline processing mode now available in supported Modern Point of Sale (POS) clients</p></td>
 <td><p>Modern POS clients for Microsoft Dynamics AX Retail are now provisioned with a local database and a local instance of the Commerce Runtime (CRT). In the event that a Modern POS client cannot communicate with a Retail Server (either a local or centrally-hosted Retail Server) for normal CRT processing, the Modern POS client seamlessly shifts to offline processing mode. In offline processing mode, the local instance of the CRT and the local database perform operations such as processing transactions. When the connection to the Retail Server is restored, the Modern POS client automatically shifts processing back to the Retail Server and the channel database for normal operations.  </p>
-<div class="alert">
+<div>
 
 > [!WARNING]
 > <P>Due to the database and CRT footprint on the Modern POS device, offline processing includes a subset of normal processing with a subset of data.</P>
@@ -683,7 +683,7 @@ To migrate data from a third-party retail system, you must create entity mapping
 <li><p>Auto-publish a catalog, based on the effective date of the catalog.</p></li>
 </ul>
 <p>For more information, see <a href="about-retail-product-catalogs.md">About retail product catalogs</a>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Before you can publish retail product catalogs, a catalog publishing job must be scheduled via the Microsoft Dynamics AX batch job framework.</P>

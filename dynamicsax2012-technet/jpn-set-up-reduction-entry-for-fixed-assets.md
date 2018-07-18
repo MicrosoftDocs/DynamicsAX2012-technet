@@ -126,7 +126,7 @@ To set up a reduction entry document, follow these steps:
     <li><p><strong>None</strong> – The reduction entry is allocated in the same month as the month during which the government grant is claimed.</p></li>
     <li><p><strong>Full month</strong> – The reduction entry is allocated in the next month after the month during which the government grant is claimed.</p></li>
     </ul>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if you select <STRONG>Reserve</STRONG> in the <STRONG>Reduction entry type</STRONG> field.</P>

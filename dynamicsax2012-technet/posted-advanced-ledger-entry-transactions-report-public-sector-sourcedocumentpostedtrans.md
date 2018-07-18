@@ -50,7 +50,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>From account</strong></p>
 <p><strong>To account</strong></p></td>
 <td><p>Select the first and last account in the range of accounts to select transactions from.</p>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>If you specify a range of accounts, a transaction must be included in both the range of dates and the range of accounts to be included on the report.</P>

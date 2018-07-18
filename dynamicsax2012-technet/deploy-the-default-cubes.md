@@ -224,7 +224,7 @@ To complete this procedure, you must be assigned to the System Administrator rol
     <li><p>Enter the name of the server that is running Analysis Services.</p></li>
     <li><p>Click <strong>Create new database</strong>.</p>
     <p>By default, the database is named <strong>Dynamics AX</strong>. If you want the database to have a different name, enter a new name.</p>
-    <div class="alert">
+    <div>
 
     > [!IMPORTANT]
     > <P>If you enter a new name for the database, you must modify the DynamicsAXOLAP data source. For more information, see <A href="update-the-olap-data-source.md">Update the OLAP data source</A>.</P>

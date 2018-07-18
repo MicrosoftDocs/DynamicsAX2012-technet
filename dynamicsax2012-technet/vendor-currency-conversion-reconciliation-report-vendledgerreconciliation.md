@@ -56,7 +56,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>From</strong> <strong>Posting profile</strong></p></td>
 <td><p>Enter the start of the vendor posting profile interval to run the report for.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The information on the report uses the information that is found in the summary account for the posting profile that is used for the vendor. It does not use information directly from main accounts.</P>

@@ -231,7 +231,7 @@ The following procedures explain how to set BI properties on the views and table
     <td><p>Measure</p></td>
     <td><p>Sum</p></td>
     <td><p>TransDate</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The AmountMST value is in the accounting currency of the company. Microsoft Dynamics AX converts that amount to the analysis currency using Microsoft Dynamics AX exchange rates.</P>

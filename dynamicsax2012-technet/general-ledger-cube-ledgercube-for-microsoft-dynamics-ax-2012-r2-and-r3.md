@@ -1274,7 +1274,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Accounts payable turnover*</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>[Cost of Goods Sold (Reference ID = 35) + (Ending Inventory (Reference ID = 5) for period - Beginning Inventory (Reference ID = 5) for period)] / [Beginning Accounts Payable (Reference ID = 15) + Ending Accounts Payable (Reference ID = 15) / 2]</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Only the Inventory and Accounts Payable parts of this KPI are accumulated.</P>
@@ -1286,7 +1286,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Accounts receivable turnover*</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>[Sales (Reference ID = 33) *-1] - Sales Returns and Discounts (Reference ID = 34) / [Beginning Accounts Receivable (Reference ID = 4) + Ending Accounts Receivable (Reference ID = 4) / 2]</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Only the Accounts Receivable part of this KPI is accumulated.</P>
@@ -1298,7 +1298,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Average days to pay*</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>Ending Accounts Payable (Reference ID = 15) balance for the period / [Cost of Goods Sold (Reference ID = 35) + (Ending Inventory (Reference ID = 5) for the period - Beginning Inventory (Reference ID=5) for the period)] * Number of days in the period</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Only the Accounts Payable and Inventory parts of this KPI are accumulated.</P>
@@ -1315,7 +1315,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Cash position*</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>Cash (Reference ID = 1) + Cash Equivalents (Reference ID = 2)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Accumulation applies to all calculations.</P>
@@ -1327,7 +1327,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Cash ratio*</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>Cash Equivalents (Reference ID = 2) + Cash (Reference ID = 1) / (Accounts Payable (Reference ID = 15) + Notes Payable (Reference ID = 16) + Current Maturities on Long Term Debt (Reference ID = 17) + Taxes Payable (Reference ID = 18) + Interest Payable (Reference ID = 19) + Dividends Payable (Reference ID = 20) + Leases Payable (Current) (Reference ID = 21) + Sinking Fund Payable (Current) (Reference ID = 22) + Other Current Liabilities (Reference ID = 23))</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Accumulation applies to all calculations.</P>
@@ -1344,7 +1344,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Current ratio*</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>[Cash (Reference ID = 1) + Cash Equivalents (Reference ID = 2) + Short Term Investments (Reference ID = 3) + Accounts Receivable (Reference ID = 4) + Inventory (Reference ID = 5) + Notes Receivables (Reference ID = 6) + Work in Process (Reference ID = 7) + Prepaid Expenses (Reference ID = 8) + Other Current Assets (Reference ID = 9) + Inventory (Reference ID = 5)] / [Accounts Payable (Reference ID = 15) + Notes Payable (Reference ID = 16) + Current Maturities on Long Term Debt (Reference ID = 17) + Taxes Payable (Reference ID = 18) + Interest Payable (Reference ID = 19) + Dividends Payable (Reference ID = 20) + Leases Payable (Current) (Reference ID = 21) + Sinking Fund Payable (Current) (Reference ID = 22) + Other Current Liabilities (Reference ID = 23)]</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Accumulation applies to all calculations.</P>
@@ -1356,7 +1356,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Debt to equity*</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>Accounts Payable (Reference ID = 15) + Notes Payable (Reference ID = 16) + Current Maturities on Long Term Debt (Reference ID=17) + Taxes Payable (Reference ID = 18) + Interest Payable (Reference ID = 19) + Dividends Payable (Reference ID = 20) + Leases Payable (Current) (Reference ID = 21) + Sinking Fund Payable (Current) (Reference ID = 22) + Other Current Liabilities (Reference ID = 23) + Long Term Debt (Reference ID = 24) / Common Stock (Reference ID = 25) + Preferred Stock (Reference ID = 26) + Additional Paid in Capital: Common (Reference ID= 27) + Additional Paid in Capital: Preferred (Reference ID = 28) + Retained Earnings (Reference ID = 29) + Treasury Stock (Reference ID = 30) + Common Dividends (Reference ID=31) + Preferred Dividends (Reference ID=32) + Encumbrance (Reference ID = 54) + Pre-encumbrance (Reference ID=55)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Accumulation applies to all calculations.</P>
@@ -1368,7 +1368,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Debt to total assets*</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>[Accounts Payable (Reference ID = 15) + Notes Payable (Reference ID = 16) + Current Maturities on Long Term Debt (Reference ID = 17) + Taxes Payable (Reference ID = 18) + Interest Payable (Reference ID = 19) + Dividends Payable (Reference ID = 20) + Leases Payable (Current) (Reference ID = 21) + Sinking Fund Payable (Current) (Reference ID = 22) + Other Current Liabilities (Reference ID = 23) + Long Term Debt (Reference ID = 24)] / [Cash (Reference ID = 1) + Cash Equivalents (Reference ID = 2) + Short Term Investments (Reference ID = 3) + Accounts Receivable (Reference ID = 4) + Inventory (Reference ID = 5) + Notes Receivables (Reference ID = 6) + Work in Process (Reference ID = 7) + Prepaid Expenses (Reference ID = 8) + Other Current Assets (Reference ID = 9) + Long Term Investments (Reference ID = 10) + Property Plant and Equipment (Reference ID = 11) + Accumulated Depreciation (Reference ID = 12) + Intangible Assets (Reference ID = 13) + Other Assets (Reference ID = 14)]</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Accumulation applies to all calculations.</P>
@@ -1390,7 +1390,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Inventory turnover*</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>Cost of Goods Sold (Reference ID = 35) / [Beginning Inventory (Reference ID = 5) + Ending Inventory (Reference = 5) / 2]</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Only the Inventory part of this KPI is accumulated.</P>
@@ -1409,7 +1409,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Quick ratio*</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>[Cash (Reference ID =1) + Cash Equivalents (Reference ID = 2) + Short Term Investments (Reference ID = 3) + Accounts Receivable (Reference ID = 4) + Notes Receivables (Reference ID = 6)] / (Accounts Payable (Reference ID = 15) + Notes Payable (Reference ID = 16) + Current Maturities on Long Term Debt (Reference ID = 17) + Taxes Payable (Reference ID = 18) + Interest Payable (Reference ID=19) + Dividends Payable (Reference ID = 20) + Leases Payable (Current) (Reference ID=21) + Sinking Fund Payable (Current) (Reference ID = 22) + Other Current Liabilities (Reference ID = 23)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>* Accumulation applies to all calculations.</P>
@@ -1428,7 +1428,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Revenue budget variance</p></td>
 <td><p>Ledger budgets</p></td>
 <td><p>Sum of budget amounts for the period selected for the accounts / Sum of actual balances for revenue accounts for the same time period = Variance. The result is displayed as a percentage. The following ledger account categories are included in the sum of the budget amounts and in the sum of the actual amounts: Sales (Reference ID = 33) + Other Income (Reference ID = 48) + Revenues not producing working capital (Reference ID =50) + Sales Returns and discounts (Reference ID = 34) + Gain/Loss on Asset Disposal (Reference ID = 51)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If necessary, the amounts for each account category are summed by dimension combination to compare the budget versus actual amounts by department, cost center, and so on. Reference ID 51 is included only if the balance of the accounts in that account category is negative. Otherwise it is excluded.</P>
@@ -1446,7 +1446,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Total expenses</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>Cost of Goods Sold (Reference ID = 35) + Selling Expense (Reference ID = 36) + Administrative Expense (Reference ID = 37) + Manufacturing Expense (Reference ID = 38) + Travel and Entertainment Expense (Reference ID = 39) + Project Operation Expenses (Reference ID = 40) + Salaries Expense (Reference ID = 41 ) + Other Employee Expense (Reference ID = 42) + Interest Expense (Reference ID = 43) + Tax Expense (Reference ID = 44) + Depreciation Expense (Reference ID = 45) + Income Tax Expense (Reference ID = 46) + Other Expenses (Reference ID = 47) + Charges not using working capital (Reference ID =49) + Amortization of Intangible Assets (Reference ID = 52) + Gain/Loss on Asset Disposal (Reference ID = 51)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Reference ID 51 is included only if the balance of the accounts in that account category is positive. Otherwise it is excluded.</P>
@@ -1458,7 +1458,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Total revenue</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>[Sales (Reference ID = 33) + Other Income (Reference ID = 48) + Revenues not producing working capital (Reference ID =50) +Sales Returns and Discounts (Reference ID = 34) + Gain/Loss on Asset Disposal (Reference ID = 51)] *-1</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Reference ID 51 is included only if the balance of the accounts in that account category is negative. Otherwise it is excluded.</P>
@@ -1475,7 +1475,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Expense budget variance</p></td>
 <td><p>Ledger budgets</p></td>
 <td><p>Sum budget amounts for the: Cost of Goods Sold (refid = 35)+Selling expense (ref id = 36) + Admin exp (refid = 37) + Manu exp (ref id = 38) + Travel and Enter exp (ref id = 39) + Project expenses (ref id = 40) + Salaries exp (ref id = 41 ) + Other emp exp (ref id = 42) + Interest exp (ref id = 43) + Tax exp (ref id = 44) + Depr exp (ref id = 45) + Income tax exp (ref id = 46) + Other expenses (ref id = 47) + Charges not using working capital (Reference ID = 49) + Amortization of intangible assets (ref id = 52) + Gain/loss on asset disposal (refid = 51) / Sum of actual balances for expense accounts for the same time period : Cost of Goods Sold (refid = 35)+Selling expense (ref id = 36) + Admin exp (refid = 37) + Manu exp (ref id = 38) + Travel and Enter exp (ref id = 39) + Project expenses (ref id = 40) + Salaries exp (ref id = 41 ) + Other emp exp (ref id = 42) + Interest exp (ref id = 43) + Tax exp (ref id = 44) + Depr exp (ref id = 45) + Income tax exp (ref id = 46) + Other expenses (ref id = 47) + Charges not using working capital (Reference ID = 49) +Amortization of intangible assets (ref id = 52) + Gain/loss on asset disposal (refid = 51) Note: If necessary, the amounts for each account category are summed by dimension combinationto compare the budget versus actual amounts by department, cost center, and so on. Reference ID51 is included only if the balance of the accounts in that account category is positive. Otherwise it isexcluded.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Reference ID 51 is included only if the balance of the accounts in that account category is positive. Otherwise it is excluded.</P>
@@ -1547,7 +1547,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Days cash on hand</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>Cash (Reference ID =1) + Cash Equivalents (Reference ID = 2)/[Operating expense - Depreciation expense (Reference ID = 45)/Number of days in period]</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The KPI needs to calculate from the start of the fiscal year through the last completed fiscal time span.</P>
@@ -1559,7 +1559,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Days working capital</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>[Working capital X number of days in period]/[(Sales (Reference ID = 33) * -1) - Sales Returns and Discounts (Reference ID = 34)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The KPI needs to calculate from the start of the fiscal year through the last completed fiscal time span.</P>
@@ -1571,14 +1571,14 @@ You can use the information in the following table to help verify the informatio
 <td><p>Days inventory on hand</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>Number of days in period/Inventory turnover</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The KPI needs to calculate from the start of the fiscal year through the last completed fiscal time span.</P>
 
 
 </div>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Inventory turnover is defined as: Cost of Goods Sold (Reference ID = 35) / [Beginning Inventory (Reference ID = 5) + Ending Inventory (Reference = 5) / 2]. Inventory turnover needs to likewise calculate from the start of FY thru last completed fiscal time span.</P>
@@ -1590,7 +1590,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>Fixed asset turnover</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>[Sales (Reference ID = 33) *-1) - Sales Returns and Discounts (Reference ID = 34)/Property Plant and Equipment (Reference ID = 11) +Accumulated Depreciation (Reference ID = 12)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The KPI needs to calculate from the start of the fiscal year through the last completed fiscal time span.</P>
@@ -1602,7 +1602,7 @@ You can use the information in the following table to help verify the informatio
 <td><p>EBITDA margin</p></td>
 <td><p>Ledger transactions</p></td>
 <td><p>(EBITDA/[(Sales (Reference ID = 33) *-1) - Sales Returns and Discounts (Reference ID = 34))*100</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>EBITDA is defined as Net income - Interest Expense(Reference ID = 43) - Tax Expense (Reference ID = 44) -Depreciation Expense (Reference ID = 45) - Income TaxExpense (Reference ID = 46) -Amortization of Intangible Assets (Reference ID = 52)</P>

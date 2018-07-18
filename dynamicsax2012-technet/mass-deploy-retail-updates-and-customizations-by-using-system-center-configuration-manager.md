@@ -50,7 +50,7 @@ This topic includes the following information:
 <tr class="odd">
 <td><p>Install the toolkit</p></td>
 <td><p><a href="install-the-retail-mass-deployment-toolkit.md">Install the Retail mass deployment toolkit</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]  
 > To see the full list of commands that are available for the Update generator, open a Command Prompt window in the folder where UpdateGenerator.exe is installed, and type <strong>UpdateGenerator.exe -?</strong>. To see the parameters that are available for a command, run the command <strong>UpdateGenerator.exe -? -o &lt;command&gt; -?</strong>.

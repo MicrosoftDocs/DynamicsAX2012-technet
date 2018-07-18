@@ -45,7 +45,7 @@ The following table provides information about how this configuration key relate
 <p><a href="unsolicited-vendor-registration-configuration-key-vendunsolicitedregistration.md">Unsolicited vendor registration configuration key (VendUnsolicitedRegistration)</a></p>
 <p><a href="vendor-portal-configuration-key-vss.md">Vendor portal configuration key (VSS)</a></p>
 <p><a href="vendor-requests-configuration-key-vendrequest.md">Vendor requests configuration key (VendRequest)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

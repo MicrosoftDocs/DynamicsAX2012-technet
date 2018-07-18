@@ -97,7 +97,7 @@ To register sick lists, follow these steps:
     <tr class="even">
     <td><p><strong>Average earnings base</strong></p></td>
     <td><p>Select the identification code for the average earnings calculation base. The base includes pay types that are used in the average earnings calculation.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The average earnings base is applied for the average earnings calculation instead of base of calculation when there are no accruals available for previous calculation periods that are included in the base of calculation.</P>
@@ -116,7 +116,7 @@ To register sick lists, follow these steps:
     <tr class="odd">
     <td><p><strong>Actually worked</strong></p></td>
     <td><p>Select a time group that defines the time that was actually worked.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if you select <STRONG>By coefficient</STRONG> in the <STRONG>Calculation method of short month</STRONG> field.</P>
@@ -127,7 +127,7 @@ To register sick lists, follow these steps:
     <tr class="even">
     <td><p><strong>Absences from work</strong></p></td>
     <td><p>Select a time group that defines an acceptable reason for an absence from work.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if you select <STRONG>Summary</STRONG> or <STRONG>Calendar</STRONG> in the <STRONG>Calculation method of short month</STRONG> field.</P>
@@ -153,7 +153,7 @@ To register sick lists, follow these steps:
     <li><p><strong>First</strong> – The applicable number of bonuses that are accrued first are used for the calculation</p></li>
     <li><p><strong>Last</strong> – The applicable number of bonuses that are accrued last are used for calculation.</p></li>
     </ul>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If the number of bonuses for a single reason exceeds the number that is allowed for the average earnings calculation, a single bonus is selected for the period, depending on the selected criteria. One twelfth of the bonus for the year prior to the event is included in each month that is entered in the average earnings calculation.</P>
@@ -210,7 +210,7 @@ To register sick lists, follow these steps:
     <tr class="even">
     <td><p><strong>Calculation via funds</strong></p></td>
     <td><p>Select the rate code that specifies the number of years to calculate the average earnings. This allows you to retrieve earnings and exclude day details for the average earnings calculation.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If the displayed value is blank or zero, previous average earnings calculations (via prior months’ earnings) will be applied for this sick list.</P>
@@ -230,7 +230,7 @@ To register sick lists, follow these steps:
     <li><p><strong>By salary rate</strong></p></li>
     <li><p><strong>By actual salary</strong></p></li>
     </ul>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The default value in this field is displayed from the <STRONG>Sick list calculation settings</STRONG> or <STRONG>Employee average earnings calculation method</STRONG> form for the employee.</P>
@@ -245,7 +245,7 @@ To register sick lists, follow these steps:
     <tr class="even">
     <td><p><strong>Change years for calculation by application</strong></p></td>
     <td><p>Select this check box to use the previous year to obtain the highest average earnings value when the employee submits the application.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>It is applicable only when the average earnings calculation for <STRONG>Calculation via funds</STRONG> is selected.</P>
@@ -264,7 +264,7 @@ To register sick lists, follow these steps:
     <tr class="odd">
     <td><p><strong>Treatment violation start date</strong></p></td>
     <td><p>Select the treatment violation starting date for the selected sick list. This is the starting date from which the employee’s payment will be reduced to the minimum salary. For example, the treatment violation can happen due to employee’s violation of the medical treatment regime.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if the <STRONG>Reduced to MROT</STRONG> check box is cleared.</P>
@@ -275,7 +275,7 @@ To register sick lists, follow these steps:
     <tr class="even">
     <td><p><strong>Treatment violation end date</strong></p></td>
     <td><p>Select the treatment violation ending date for the selected sick list.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>This field is available only if the <STRONG>Reduced to MROT</STRONG> check box is cleared.</P>
@@ -292,7 +292,7 @@ To register sick lists, follow these steps:
     <li><p><strong>Child care (hospitalization)</strong></p></li>
     <li><p><strong>Child care for child with disability</strong></p></li>
     </ul>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>Based on the birth date of the child, the end date for child rearing leave is calculated.</P>

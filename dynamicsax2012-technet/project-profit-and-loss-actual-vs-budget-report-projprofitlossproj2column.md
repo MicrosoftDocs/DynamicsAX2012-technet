@@ -45,7 +45,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>(<strong>Project date</strong>)</p>
 <p><strong>From date</strong> / <strong>Break date</strong> / <strong>To date</strong></p></td>
 <td><p>Select a starting date and an ending date to include transactions that are posted to projects.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>When you select <STRONG>Sum</STRONG> in the <STRONG>Actual vs. budget</STRONG> field, the break date that you enter determines where the calculation of Actual ends and the calculation of Budget starts.</P>
@@ -57,7 +57,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>(<strong>Ledger date</strong>)</p>
 <p><strong>From date</strong> / <strong>Break date</strong> / <strong>To date</strong></p></td>
 <td><p>Select a starting date and an ending date to include transactions that are posted to the ledger.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>When you select <STRONG>Sum</STRONG> in the <STRONG>Actual vs. budget</STRONG> field, the break date that you enter determines where the calculation of Actual ends and the calculation of Budget starts.</P>
@@ -76,7 +76,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Forecast model</strong></p></td>
 <td><p>Select the forecast model that you want the report to use.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you are using project budget control, select the budget forecast model that is used by this project.</P>
@@ -91,7 +91,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Project level</strong></p></td>
 <td><p>Specify the number of subproject levels. Select <strong>0</strong> to display all projects that are summarized in one line. Select <strong>1</strong> to display only parent projects. Select <strong>2</strong> to display subprojects.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The subprojects below the parent project level are summarized on one line, and an asterisk (*) indicates that the summarized number includes subprojects below the first subproject level.</P>

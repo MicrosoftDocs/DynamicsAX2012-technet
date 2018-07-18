@@ -35,7 +35,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 <tbody>
 <tr class="odd">
 <td><p>Maintain retail channels</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in versions prior to Microsoft Dynamics AX 2012 R3.</P>
@@ -62,7 +62,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain kit assembly orders</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -84,7 +84,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Maintain retail price adjustments</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2.</P>

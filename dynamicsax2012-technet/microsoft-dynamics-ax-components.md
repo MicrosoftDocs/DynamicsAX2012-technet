@@ -243,7 +243,7 @@ Integration components enable integration between Microsoft Dynamics AX and exte
 <td><p>.NET Business Connector</p></td>
 <td><p>The .NET Business Connector enables applications to interact with instances of Application Object Server (AOS).</p></td>
 <td><p><a href="install-the-net-business-connector.md">Install the .NET Business Connector</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>.NET Business Connector is installed automatically when Microsoft Dynamics AX components that require it are installed.</P>
@@ -300,7 +300,7 @@ For information about how to install one of the retail components, click the cor
 <tr class="odd">
 <td><p>Retail Modern POS</p></td>
 <td><p>Modern POS (point of sale) provides the services that enable Windows 8.1 clients to interface with Retail.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Modern POS is available only in AX 2012 R3.</P>
@@ -312,7 +312,7 @@ For information about how to install one of the retail components, click the cor
 <tr class="even">
 <td><p>Retail channel database</p></td>
 <td><p>Channel databases hold Retail data for one or more retail channels, such as online stores or brick-and-mortar stores.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Retail channel database is available only in AX 2012 R3.</P>
@@ -324,7 +324,7 @@ For information about how to install one of the retail components, click the cor
 <tr class="odd">
 <td><p>Commerce Data Exchange: Synch Service (Retail Store Connect)</p></td>
 <td><p>Synch Service shares data among the head office, stores, and individual point of sale (POS) terminals.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>In AX 2012 R3, deploy this component only if you need to support previous versions of Retail POS while you upgrade (N-1).</P>
@@ -341,7 +341,7 @@ For information about how to install one of the retail components, click the cor
 <tr class="odd">
 <td><p>Commerce Data Exchange: Async Server</p></td>
 <td><p>Async Server is part of the asynchronous system that shares data between the Microsoft Dynamics AX database and channel databases. Async Server is installed at headquarters and communicates with the Microsoft Dynamics AX database.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Async Server is available only in AX 2012 R3.</P>
@@ -353,7 +353,7 @@ For information about how to install one of the retail components, click the cor
 <tr class="even">
 <td><p>Commerce Data Exchange: Async Client</p></td>
 <td><p>Async Client is part of the asynchronous system that shares data between the Microsoft Dynamics AX database and channel databases. Async Client is installed at the channel and communicates with the channel database.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Async Client is available only in AX 2012 R3.</P>
@@ -370,7 +370,7 @@ For information about how to install one of the retail components, click the cor
 <tr class="even">
 <td><p>Retail Server</p></td>
 <td><p>Retail Server provides services and business logic for Modern POS (point of sale) clients.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Retail Server is available only in AX 2012 R3.</P>
@@ -382,7 +382,7 @@ For information about how to install one of the retail components, click the cor
 <tr class="odd">
 <td><p>Retail hardware station</p></td>
 <td><p>Retail Hardware Station provides services for Modern POS (point of sale) clients and peripherals such as printers, cash drawers, or payment devices that enable these devices to communicate with Retail Server.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Hardware station is available only in AX 2012 R3.</P>
@@ -394,7 +394,7 @@ For information about how to install one of the retail components, click the cor
 <tr class="even">
 <td><p>Retail Online Channel</p></td>
 <td><p>Retail Online Channel includes components that are needed to provision an online sales channel using SharePoint. This component allows you to integrate data from Microsoft Dynamics AX into the SharePoint site.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Retail Online Channel is available only in AX 2012 R3 and AX 2012 R2.</P>
@@ -406,7 +406,7 @@ For information about how to install one of the retail components, click the cor
 <tr class="odd">
 <td><p>Retail mass deployment toolkit</p></td>
 <td><p>The Retail mass deployment toolkit enables you to use System Center Configuration Manager (SCCM) to deploy retail components.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Retail mass deployment toolkit is available only in AX 2012 R3.</P>

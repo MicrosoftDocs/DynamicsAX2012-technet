@@ -50,13 +50,11 @@ The following table describes the update scenarios that are included in this top
 <tr class="odd">
 <td><p>Apply a group of updates to AX 2012 R3</p>
 <p></p>
-<div class="alert"> 
-
+  
 > [!IMPORTANT]
 > <P>A downloadable guide for installing AX 2012 R3 CU8 is available here: <A href="http://go.microsoft.com/fwlink/?linkid=519005">Cumulative 8 for Microsoft Dynamics AX 2012 R3 Installation Guide</A>.</P>
 
-
-</div></td>
+</td>
 <td><p>Prepare the environment for updates</p>
 <p>Get ready to install an AX 2012 R3 update package</p>
 <p>Find, analyze, save and install an update package (R3)</p>
@@ -813,7 +811,7 @@ The typical process for using this feature is:
     <td><p><strong>Merge code automatically</strong></p>
     <p>This control is not available in versions of Microsoft Dynamics AX 2012 prior to cumulative update 7 for AX 2012 R2.</p>
     <p>This option resolves conflicts with existing code automatically where possible, and creates a merge project that you can review.</p>
-    <div class="alert"> 
+    <div> 
 
     > [!NOTE]
     > <P>For CU7, This option will not function until you have compiled the application the first time after installing hotfix <STRONG>KB 2894100</STRONG>.</P>

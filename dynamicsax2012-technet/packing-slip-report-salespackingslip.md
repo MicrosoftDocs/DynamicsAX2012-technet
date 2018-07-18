@@ -66,7 +66,7 @@ The following table explains where to find the report in the Application Object 
 <tr class="even">
 <td><p>Navigation to the report</p></td>
 <td><p>Click <strong>Accounts receivable</strong> &gt; <strong>Common</strong> &gt; <strong>Sales orders</strong> &gt; <strong>All sales orders</strong>. Click <strong>Pick and pack</strong> and then click <strong>Packing slip</strong>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>To enable Packing slip, you must confirm the sales order.</P>

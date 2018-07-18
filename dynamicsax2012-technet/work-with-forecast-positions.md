@@ -106,7 +106,7 @@ Forecast positions are independent from Human resources positions so that they d
     <li><p>Select the budget planning process to assign the positions to. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677441(v=ax.60)">Budget planning process (form)</a>.</p></li>
     <li><p>Select the budget plan scenario to assign the position to. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677418(v=ax.60)">Budget planning configuration (form)</a>.</p></li>
     <li><p>Optional: Select the <strong>Earnings budget cost element</strong> to use. If the worker does not have a fixed compensation plan assigned to them. This value is determined by the default annual amount from the budget cost setup.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>Only earning budget cost elements for the selected budget planning process are displayed.</P>
@@ -114,7 +114,7 @@ Forecast positions are independent from Human resources positions so that they d
 
     </div></li>
     <li><p>Optional: Click <strong>Assign anniversary date</strong> to select how to mark the position’s anniversary date, for example to schedule wage increases.</p>
-    <div class="alert">
+    <div>
 
     > [!WARNING]
     > <P>This control is available only if you have installed Microsoft Dynamics AX 2012 R3 with the following hotfix: KB3043775</P>
@@ -123,7 +123,7 @@ Forecast positions are independent from Human resources positions so that they d
     </div></li>
     <li><p>Select the positions to add.</p></li>
     <li><p>Click <strong>OK</strong>. A message is displayed that confirms the positions were successfully added to the forecast.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The <STRONG>Forecast state</STRONG> field is set to <STRONG>Existing</STRONG> for positions that are created by using this method.</P>
@@ -235,7 +235,7 @@ To change an existing forecast position, follow these steps:
     <td><p><strong>Activation</strong></p>
     <p><strong>Retirement</strong></p></td>
     <td><p>If you change the <strong>Activation</strong> or <strong>Retirement</strong> date and the change affects the starting or ending date of one or more budget cost element lines, you are prompted to recalculate the costs. For example, the start date of the budget cost element is April 1, 2014. If you change the position activation date from January 1, 2014, to July 1, 2014, the budget cost element start date changes to July 1, 2014. This change affects the budgeted amount.</p>
-    <div class="alert">
+    <div>
 
     > [!WARNING]
     > <P>If changing the activation or retirement date causes the starting or ending date of a budget cost element to occur outside of the position date range, the budget cost element line is removed. For example, if a budget cost line isn’t in effect until July 1, 2014, and you change the end date of the position from December 31, 2014, to June 30, 2014, the line is removed.</P>
@@ -264,7 +264,7 @@ To change an existing forecast position, follow these steps:
     <tr class="odd">
     <td><p><strong>Compensation group</strong></p></td>
     <td><p>Optional: The compensation group determines the base earning cost element (rate), the date of the next scheduled increase, and the set of default budget cost elements that are added to the position.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you change the compensation group, the assigned budget cost elements are removed and are replaced by those that are assigned to the updated compensation group. All the line values are recalculated, based on the new base earnings amount.</P>
@@ -275,7 +275,7 @@ To change an existing forecast position, follow these steps:
     <tr class="even">
     <td><p><strong>Compensation level</strong></p></td>
     <td><p>Optional: The <strong>Compensation level</strong> determines the level and reference point that are used to determine the current compensation rate. This field is available only if a compensation group is selected.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you change the compensation level, you are prompted to update the base earnings.</P>
@@ -326,7 +326,7 @@ To change an existing forecast position, follow these steps:
     <tr class="odd">
     <td><p><strong>Add</strong> (button)</p></td>
     <td><p>Click this button to manually add budget cost element lines to the position. The system uses the durations of the position, the budget cost element, the budget cycle of the budget planning process, and the FTE equivalent to calculate the budget amount values.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>When you select a compensation group, the default budget cost element lines are added for the time period of the duration of the position within the budget cycle. You can change these lines as needed.</P>
@@ -346,14 +346,14 @@ To change an existing forecast position, follow these steps:
     <td><p><strong>Start date</strong></p>
     <p><strong>End date</strong></p></td>
     <td><p>When you change the starting or ending date of a cost element, you are prompted to recalculate the budget cost elements. The annual amount is prorated on daily basis using a factor of 365 days in a year to determine the new cost values.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The starting and ending dates must fall within the effective and expiration dates of the cost element and the activation and retirement dates of the position. If there are duplicate budget cost lines, the date ranges can’t overlap.</P>
 
 
     </div>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>By default in Microsoft Dynamics AX 2012 R3 Cumulative Update 8, the Start date for the forecast position cost element becomes the Effective date of the budget plan line when the line is generated.</P>
@@ -385,7 +385,7 @@ To change an existing forecast position, follow these steps:
     <li><p><strong>Original assignment</strong> – Compensation increases were applied using this line as the basis.</p></li>
     <li><p><strong>Rate change</strong> – This line was created when compensation increases were generated that included a rate change.</p></li>
     <li><p><strong>Step increase</strong> – This line was created when compensation increases were generated that included a change to the step value.</p>
-    <div class="alert">
+    <div>
 
     > [!TIP]
     > <P>For more information about generating compensation increases, see “5. If required: Periodically update forecast positions with compensation increases” later in this topic.</P>

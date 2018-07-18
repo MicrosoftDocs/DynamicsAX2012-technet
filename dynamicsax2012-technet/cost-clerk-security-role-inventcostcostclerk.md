@@ -35,25 +35,21 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 <tbody>
 <tr class="odd">
 <td><p>Enable financial reports generator</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>RRGEnable</p></td>
 <td><p>Set up templates, report format, and other information to enable the financial reports generator</p></td>
 </tr>
 <tr class="even">
 <td><p>Inquire about accounting data</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>LedgerRRGGInquire</p></td>
 <td><p>Respond to inquiries about accounting data</p></td>
 </tr>
@@ -79,13 +75,11 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Inquire into inventory valuation status</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
 
-
-</div></td>
+</td>
 <td><p>InvValueInvValuatStatusSecCurInquire_RU</p></td>
 <td><p>Respond to inquiries about the performance of the inventory valuation process</p></td>
 </tr>

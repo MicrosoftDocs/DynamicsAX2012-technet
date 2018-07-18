@@ -58,7 +58,7 @@ The following table lists the CallContext properties and their values. All of th
 <td><p>This is the Microsoft Dynamics AX user who performs the service operation. It uses the submitting user (calling user) in the format “domain\user.”</p>
 <p>If LogonAsUser is not specified then the user who makes the service operation call is used. The default user depends on the adapter that is selected. For example, when you use the file system adapter the default user is the owner of the folder where the file resides.</p>
 <p></p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>This user must have sufficient permissions in Microsoft Dynamics AX to perform the requested operation. There are significant security considerations for this parameter. For more information, see <A href="services-and-aif-security-and-protection.md">Services and AIF security and protection</A>.</P>

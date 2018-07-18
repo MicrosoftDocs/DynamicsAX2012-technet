@@ -48,13 +48,11 @@ To configure Microsoft SQL Server Analysis Services for use with Microsoft Dynam
 <li><p>Verify that information about exchange rates has been entered.</p></li>
 <li><p>Deploy the default cubes that are included with Microsoft Dynamics AX.</p></li>
 <li><p>Update the data source for online analytical processing (OLAP) if your Analysis Services database is not named <em>Dynamics AX</em>.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If you are using Microsoft Dynamics AX 2012 R2 or later, this step does not apply to you.</P>
 
-
-</div></li>
+</li>
 <li><p>Configure the cubes, based on the changes that you have made to the Microsoft Dynamics AX configuration or license keys.</p></li>
 <li><p>Grant users access to the cubes.</p></li>
 <li><p>Automate the processing of cubes.</p></li>

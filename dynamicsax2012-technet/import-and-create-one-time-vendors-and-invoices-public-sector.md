@@ -121,7 +121,7 @@ The following tables show the fields that the import file must contain.
 <tr class="even">
 <td><p><strong>Tax ID type</strong></p></td>
 <td><p>(U.S.-only) Values can be <strong>Unknown</strong>, <strong>Employer Identification Number</strong>, <strong>Social Security Number</strong>, <strong>Individual Taxpayer Identification Number</strong>, or <strong>Adopted Tax Payer Identification Number</strong>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If no <STRONG>Federal tax ID</STRONG> is provided, the Tax ID type should have a value of <STRONG>Unknown</STRONG>.</P>
@@ -196,7 +196,7 @@ The following tables show the fields that the import file must contain.
 <tr class="even">
 <td><p><strong>Item number</strong> (Optional)</p></td>
 <td><p>20-character limit</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you provide no item number, you must provide values in the <STRONG>Procurement category</STRONG> and <STRONG>Procurement category hierarchy</STRONG> fields. If no procurement category and procurement category hierarchy values are provided, you must provide an item number.</P>
@@ -210,7 +210,7 @@ The following tables show the fields that the import file must contain.
 </tr>
 <tr class="even">
 <td><p><strong>Procurement category hierarchy</strong> (Optional)</p></td>
-<td><div class="alert">
+<td><div>
 
 > [!NOTE]
 > <P>If you provide a value for this field, the <STRONG>Procurement category</STRONG> field is also required.</P>
@@ -220,7 +220,7 @@ The following tables show the fields that the import file must contain.
 </tr>
 <tr class="odd">
 <td><p><strong>Procurement category</strong> (Optional)</p></td>
-<td><div class="alert">
+<td><div>
 
 > [!NOTE]
 > <P>If you provide a value for this field, the <STRONG>Procurement category hierarchy</STRONG> field is also required.</P>
@@ -246,14 +246,14 @@ The following tables show the fields that the import file must contain.
 </tr>
 <tr class="even">
 <td><p><strong>Reservation line</strong> (Optional)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If the file you import has a <STRONG>Unit price</STRONG> column but you have not enabled general budget reservations, an error message will appear, stating that the number of columns is not valid. You’ll then need to either enable general budget reservations or remove the column from the file.</P>
 
 
 </div></td>
-<td><div class="alert">
+<td><div>
 
 > [!NOTE]
 > <P>General budget reservations are available only if the <STRONG>Public Sector</STRONG> configuration key is selected and if Microsoft Dynamics AX 2012 R3 Cumulative Update 8 is installed with the following hotfix: KB3047235</P>

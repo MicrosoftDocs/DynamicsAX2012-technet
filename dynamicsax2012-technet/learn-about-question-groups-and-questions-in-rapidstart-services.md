@@ -73,7 +73,7 @@ Each question type has specific groups of controls that you use to create the qu
 <tr class="odd">
 <td><p><strong>Basic information</strong></p></td>
 <td><p>Enter data such as the name, text, description, and question type of a question. In this group, you can also specify whether a question is required, and whether it is visible in the <strong>Configure</strong> area.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>In some cases, you might want to configure a parameter in a Microsoft Dynamics ERP implementation by using specific values, but without displaying the question to the person who is working in the <STRONG>Configure</STRONG> area. In these cases, you can choose not to display the question, and then specify the values that are loaded into the Microsoft Dynamics ERP implementation.</P>

@@ -67,7 +67,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p>Version</p></td>
 <td><p>Microsoft Dynamics AX 2012 R3 or Microsoft Dynamics AX 2012 R2</p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>If you’re using AX 2012 R2, we strongly recommend that you install the garnishment enhancement hotfix.</P>
@@ -139,7 +139,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
     <td><p>The order that deductions for the garnishment are calculated in, relative to other benefits. The deductions and contributions for the benefit that have the lowest calculation priority number are calculated first, starting with 0 (zero). When multiple benefits have the same number, the calculations for those benefits are completed in alphabetical order.</p>
     <p>The calculation order is important when the result of the calculation for one benefit is used in the calculation for another benefit. For example, in some states, the deductions for union dues and health plans reduce disposable income. To make sure that the garnishment is calculated correctly, you must make sure that union dues and health plans have a lower calculation priority number than the garnishment does.</p>
     <p>For tax levies, voluntary benefit enrollments that were in place before the tax levy typically have a higher priority than the tax levy. Those benefits must therefore have a lower calculation priority number than the tax levy.</p>
-    <div class="alert">
+    <div>
 
     > [!IMPORTANT]
     > <P>Your legal advisors should help you determine the correct calculation priority for all benefits.</P>
@@ -153,7 +153,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
     <p>The deduction for the benefit that has the lowest deduction priority number is made first, starting with 0 (zero). When multiple benefits have the same number, the deductions for those benefits are made in alphabetical order.</p>
     <p>Garnishments often must be deducted from pay before other voluntary benefits, although some states require specific deductions to take precedence, such as union dues or term life deductions.</p>
     <p>The default value for this field is set in the <strong>Benefit elements</strong> form. For more information about this field, see <a href="https://technet.microsoft.com/en-us/library/hh209498(v=ax.60)">Benefit elements (form)</a>.</p>
-    <div class="alert">
+    <div>
 
     > [!IMPORTANT]
     > <P>Your legal advisors should help you determine the correct deduction priority for all benefits.</P>
@@ -240,7 +240,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
     <td><p><strong>Administrative fee</strong></p></td>
     <td><p>The amount to reduce the deduction for the garnishment by when the deduction for the garnishment plus the deduction for the administrative fee exceeds the worker’s disposable income limit.</p>
     <p>This field does not cause the administrative fee to be deducted; it just sets the amount by which to reduce the garnishment deduction. To deduct the administrative fee, you must create a benefit for the administrative fee, and assign that benefit to the worker.</p>
-    <div class="alert">
+    <div>
 
     > [!WARNING]
     > <P>The amount in this field must be the same as the amount in the <STRONG>Amount or rate</STRONG> field for the administrative fee benefit that you assign to the worker.</P>
@@ -257,7 +257,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
     <li><p><strong>Equal</strong> – The deduction is divided so that each garnishment receives an equal amount.</p></li>
     <li><p><strong>First in</strong> – The garnishments are satisfied in the order that the worker enrolled in them. This option is typically used for tax levies.</p></li>
     </ul>
-    <div class="alert">
+    <div>
 
     > [!IMPORTANT]
     > <P>If the court order does not specify which method to use, check with your legal advisors for clarification. Typically, if the orders have the same type but are from different states, the laws in the state where the worker works apply.</P>
@@ -307,7 +307,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
     <td><p>When the garnishment type is <strong>Support order</strong>, if the deduction for the garnishment plus the deduction for the administrative fee exceeds the worker’s disposable income limit, the deduction for the garnishment is reduced by this amount. This guarantees that the total deduction does not exceed the worker’s disposable income limit for support orders.</p>
     <p>For all other garnishment and tax levy types, this field is for your information only.</p>
     <p>This field does not cause the administrative fee to be deducted. To deduct the administrative fee, you must create a benefit for the administrative fee, and assign that benefit to the worker.</p>
-    <div class="alert">
+    <div>
 
     > [!WARNING]
     > <P>The sum of all administrative fees that should be charged to the worker should equal the sum of the deductions for all administrative fee benefits that the worker is enrolled in. If the amounts differ, the amount that is deducted from the worker’s pay for administrative fees might be incorrect.</P>
@@ -342,7 +342,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
     <tr class="odd">
     <td><p><strong>Type</strong></p></td>
     <td><p>The garnishment type.</p>
-    <div class="alert">
+    <div>
 
     > [!IMPORTANT]
     > <P>When a worker is enrolled in more than one type of garnishment, you must add the <STRONG>Combined garnishments</STRONG> type in addition to the types that the worker is enrolled in. The <STRONG>Combined garnishments</STRONG> type is used to make sure that the garnishment amounts are adjusted correctly, based on the selected disposable income definition and any rules that might apply across garnishment types.</P>
@@ -387,7 +387,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
     <li><p><strong>Equal</strong> – The deduction is divided so that each garnishment receives an equal amount.</p></li>
     <li><p><strong>First in</strong> – The garnishments are satisfied in the order that the worker enrolled in them. This option is typically used for tax levies.</p></li>
     </ul>
-    <div class="alert">
+    <div>
 
     > [!IMPORTANT]
     > <P>If the court order does not specify which method to use, check with your legal advisors for clarification. Typically, if the orders have the same type but are from different states, the laws in the state where the worker works apply.</P>
@@ -481,7 +481,7 @@ The steps to enroll a worker in an administrative fee vary, depending on whether
     <tr class="even">
     <td><p><strong>Calculation priority</strong></p></td>
     <td><p>The calculation priority for the administrative fee, which is the same as the calculation priority for the garnishment or tax levy that the fee is charged for.</p>
-    <div class="alert">
+    <div>
 
     > [!IMPORTANT]
     > <P>Your legal advisors should help you determine the correct calculation priority for all benefits.</P>
@@ -492,7 +492,7 @@ The steps to enroll a worker in an administrative fee vary, depending on whether
     <tr class="odd">
     <td><p><strong>Deduction priority</strong></p></td>
     <td><p>The deduction priority for the administrative fee, which is the same as the deduction priority for the garnishment or tax levy that the fee is charged for.</p>
-    <div class="alert">
+    <div>
 
     > [!IMPORTANT]
     > <P>Your legal advisors should help you determine the correct deduction priority for all benefits.</P>
@@ -504,7 +504,7 @@ The steps to enroll a worker in an administrative fee vary, depending on whether
     <td><p><strong>Rate source</strong></p></td>
     <td><p>Select <strong>Benefit</strong>. This lets you use the automated process to update the <strong>Deduction</strong> field for each worker who is enrolled in the administrative fee benefit when you change the <strong>Amount or rate</strong> field in the <strong>Benefit</strong> form. For more information, see <a href="worker-and-position-payroll-tasks.md">Worker and position payroll tasks</a>.</p>
     <p>If you select <strong>Custom</strong>, you must manually maintain the value in the <strong>Deduction</strong> field for each worker.</p>
-    <div class="alert">
+    <div>
 
     > [!WARNING]
     > <P>After you change the amount of the deduction, regardless of whether you change it manually or automatically, you must manually change the amount of the administrative fee on the garnishment or tax levy benefit that the fee is charged for. The two amounts must be the same.</P>
@@ -520,7 +520,7 @@ The steps to enroll a worker in an administrative fee vary, depending on whether
     <tr class="even">
     <td><p><strong>Deduction</strong></p></td>
     <td><p>Enter the amount of the administrative fee.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The amount in this field must match the amount in the <STRONG>Administrative fee</STRONG> field on the <STRONG>Garnishment details</STRONG> FastTab or the <STRONG>Tax levy details</STRONG> FastTab of the garnishment or tax levy benefit that the fee is charged for.</P>
@@ -596,7 +596,7 @@ The steps to enroll a worker in an administrative fee vary, depending on whether
     <tr class="even">
     <td><p><strong>Deduction</strong></p></td>
     <td><p>Enter the total amount of all administrative fees that are charged to this worker for garnishments and tax levies.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>You might have to adjust this amount in pay periods when some of the worker’s garnishments or tax levies can’t be taken.</P>
@@ -795,7 +795,7 @@ If the combined amount exceeds the maximum deduction limit, set the following fi
 <tr class="even">
 <td><p><strong>Alternative limit</strong></p></td>
 <td><p>Enter the amount to deduct for this garnishment on each paycheck, based on the calculated disposable income, type of garnishment, and deduction priority. Your legal advisors should provide this amount.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>When there are multiple garnishments and tax levies, the deduction amount for one or more of the garnishments or tax levies can be 0 (zero).</P>
@@ -832,7 +832,7 @@ If you don't have access to the pages that are used to complete this task, conta
 <tr class="odd">
 <td><p><strong>Configuration keys</strong></p></td>
 <td><p><strong>Payroll - USA</strong></p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>When you use Payroll, we highly recommend that you turn off the <STRONG>Payroll information</STRONG> configuration key under the <STRONG>Human resource I</STRONG> configuration key. The forms and tables that are enabled by that configuration key are not used by Payroll. If Payroll is installed and the configuration key is enabled, it might be difficult to make sure that your data is entered and tracked correctly.</P>

@@ -45,7 +45,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Forecast model</strong></p></td>
 <td><p>Select the forecast model that you want the report to use. This field is available only if you selected <strong>Budget</strong> in the <strong>Actual vs. budget</strong> field.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you are using project budget control, select the budget forecast model that is used by this project.</P>
@@ -65,7 +65,7 @@ When you generate this report, the following default parameters are displayed. Y
 <li><p>Select <strong>1</strong> to display only parent projects.</p></li>
 <li><p>Select <strong>2</strong> to display subprojects.</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The subprojects below the parent project level are summarized on one line, and an asterisk (*) indicates that the summarized number includes subprojects below the first subproject level.</P>

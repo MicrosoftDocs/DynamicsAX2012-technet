@@ -288,7 +288,7 @@ We have changed and added functionality in the [Procurement and sourcing](procur
 <li><p>The number of vendors that are female-owned businesses</p></li>
 </ul>
 <p>For more information, see <a href="procurement-and-sourcing-reports.md">Procurement and sourcing reports</a>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>All reports for spend analytics contain the word ”Spend” in the internal report name. For example, the <STRONG>Spend by procurement category and vendor invoice classification</STRONG> report has the internal name <STRONG>VendSpendCategoryInvoice</STRONG>.</P>
@@ -351,7 +351,7 @@ We have changed and added functionality in the [Procurement and sourcing](procur
 <td><p>Spend analytics for Purchasing.</p></td>
 <td><p>Several preconfigured reports have been added that purchasing agents and purchasing managers can use to analyze spending trends for their organization, based on dimensions such as vendor, procurement category, and location.</p>
 <p>For more information, see <a href="procurement-and-sourcing-reports.md">Procurement and sourcing reports</a>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>All reports for spend analytics contain the word ”Spend” as part of the internal report name. For example, the <STRONG>Spend by procurement category and vendor invoice classification</STRONG> report has the internal name <STRONG>VendSpendCategoryInvoice</STRONG>.</P>
@@ -726,7 +726,7 @@ Enterprise Portal updates for Microsoft Dynamics AX 2012 R3 include the followin
 <td><p>Viewing RFQs as an unsolicited vendor or guest.</p></td>
 <td><p>Public sector vendors not yet registered on the Vendor portal can access a public, non–claims-aware site as a &quot;guest&quot; so they can view publicly available documents, such as lists of open requests for quotation or purchase orders.</p>
 <p>For more information, see <a href="bid-on-a-request-for-quotation.md">Bid on a request for quotation</a>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
@@ -738,7 +738,7 @@ Enterprise Portal updates for Microsoft Dynamics AX 2012 R3 include the followin
 <td><p>Viewing details of closed RFQs.</p></td>
 <td><p>Public sector vendors can view all open and closed purchase orders, RFQs, and their details, including scoring and award notes on accepted bids.</p>
 <p>For more information, see <a href="bid-on-a-request-for-quotation.md">Bid on a request for quotation</a>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
@@ -750,7 +750,7 @@ Enterprise Portal updates for Microsoft Dynamics AX 2012 R3 include the followin
 <td><p>Requesting to reply to (bid on) an RFQ that has not specifically been sent.</p></td>
 <td><p>Public sector vendors can request to reply to RFQs that have been published to the <strong>Open requests for quotations</strong> list page even if the vendors have not been included as a vendor on the RFQ.</p>
 <p>For more information, see <a href="bid-on-a-request-for-quotation.md">Bid on a request for quotation</a>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>

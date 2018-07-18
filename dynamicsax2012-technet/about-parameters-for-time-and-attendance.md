@@ -56,13 +56,11 @@ The parameters are divided into the following categories:
 <tr class="odd">
 <td><p><strong>Number sequences</strong></p></td>
 <td><p>Set up basic number sequences used in time and attendance.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If you use job scheduling in production, the number sequence code for job identification in time and attendance must be the same as the job identification number sequence code in the <STRONG>Number sequences</STRONG> form. (Click <STRONG>Organization administration</STRONG> &gt; <STRONG>Common</STRONG> &gt; <STRONG>Number sequences</STRONG> &gt; <STRONG>Number sequences</STRONG>.)</P>
 
-
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>

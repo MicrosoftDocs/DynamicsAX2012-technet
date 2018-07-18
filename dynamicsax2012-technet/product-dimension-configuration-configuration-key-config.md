@@ -62,7 +62,7 @@ The following forms are available when the configuration key is enabled.
 <tr class="even">
 <td><p><strong>Maintain configurations</strong></p></td>
 <td><p>Set up configurations for dimension-based product variants.</p>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>This form can be accessed from the <STRONG>Released product details</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa615563(v=ax.60)">Released product details (form)</A>.</P>
@@ -91,7 +91,7 @@ The following forms are available when the configuration key is enabled.
 <tr class="odd">
 <td><p><strong>Maintain configurations</strong></p></td>
 <td><p>Set up configurations for dimension-based product variants.</p>
-<div class="alert">
+<div>
 
 > [!TIP]
 > <P>This form can be accessed from the <STRONG>Released product details</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa615563(v=ax.60)">Released product details (form)</A>.</P>

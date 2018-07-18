@@ -55,7 +55,7 @@ The following table explains when and how language-specific versions of reports 
 </tr>
 <tr class="even">
 <td><p>While you are completing the Initialization Checklist or the Partition Initialization Checklist, you set up system parameters in the <strong>System parameters</strong> form.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you are using Microsoft Dynamics AX 2012 or Microsoft Dynamics AX 2012 Feature Pack, you set up system parameters when you are completing the <EM>Initialization Checklist</EM>. If you are using Microsoft Dynamics AX 2012 R2 or later, you set up system parameters when you are completing the <EM>Partition Initialization Checklist</EM>.</P>

@@ -73,7 +73,7 @@ You can create a grant by entering all of the details into a new record, or you 
     <li><p><strong>Add project contract</strong> – Add or update project contract information. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa586038(v=ax.60)">Project contracts (form)</a>.</p></li>
     <li><p><strong>Add project</strong> – Add or update project details. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa585245(v=ax.60)">Projects (form)</a>.</p></li>
     </ul>
-    <div class="alert"> 
+    <div> 
 
     > [!NOTE]
     > <P>You can enter information on this FastTab only if the <STRONG>Grant status</STRONG> field on the <STRONG>General</STRONG> FastTab is set to <STRONG>Active</STRONG> or <STRONG>Awarded</STRONG>.</P>

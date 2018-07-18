@@ -103,7 +103,7 @@ The following table describes the tasks that must be completed before a purchasi
 <td><p>Configure access to external vendor catalog sites</p></td>
 <td><p>Purchasing manager</p></td>
 <td><p>You can set up access to external vendor catalogs so that your users can order products directly from a vendor's catalog site. You configure access to the vendor’s external vendor's catalog site based on data that the vendor provides. You validate the configurations and activate the catalog configurations in Microsoft Dynamics AX.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Before you can configure access to an external vendor's catalog site, the vendor must be registered in Microsoft Dynamics AX.</P>

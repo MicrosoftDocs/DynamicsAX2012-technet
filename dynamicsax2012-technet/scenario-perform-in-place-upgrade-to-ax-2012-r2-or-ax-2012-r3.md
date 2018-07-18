@@ -716,7 +716,7 @@ The **Data upgrade checklist for in-place upgrade** contains the following tasks
 <tr class="odd">
 <td><p><strong>Disable SQL Server change tracking</strong></p></td>
 <td><p>Turn off change tracking in SQL Server. Database synchronization cannot be completed without errors unless change tracking is disabled.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If the customer requires that change tracking be enabled, you can manually re-enable SQL Server change tracking after data upgrade is completed.</P>
@@ -760,7 +760,7 @@ The **Data upgrade checklist for in-place upgrade** contains the following tasks
 <tr class="odd">
 <td><p><strong>Synchronize database</strong></p></td>
 <td><p>For information, see <a href="synchronize-the-database.md">Synchronize the database</a>.</p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>Because of a known issue, this checklist task might already appear to be checked as completed. Regardless of its apparent status, the task must be run at this point.</P>

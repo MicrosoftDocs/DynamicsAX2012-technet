@@ -50,7 +50,7 @@ For flexibility of use, the consolidated picking method can be set up in a hiera
 <td><p><strong>Warehouses</strong></p></td>
 <td><p>Click <strong>Inventory management</strong> &gt; <strong>Setup</strong> &gt; <strong>Inventory breakdown</strong> &gt; <strong>Warehouses</strong>.</p></td>
 <td><p>Use the <strong>Use consolidated picking method</strong> field on the <strong>Warehouse management</strong> FastTab to define whether to adhere to the setting in the <strong>Item model groups</strong> form.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The setting in this form overrides the setting in the <STRONG>Item model groups</STRONG> form.</P>
@@ -63,7 +63,7 @@ For flexibility of use, the consolidated picking method can be set up in a hiera
 <td><p><strong>Warehouse items</strong></p></td>
 <td><p>Click <strong>Product information management</strong> &gt; <strong>Common</strong> &gt; <strong>Released products</strong>. On the <strong>Action Pane</strong>, click the <strong>Manage inventory</strong> tab, and then click <strong>Warehouse items</strong> in the <strong>Warehouse</strong> group.</p></td>
 <td><p>Use the <strong>Use consolidated picking method</strong> list on the <strong>Locations</strong> tab to define whether to adhere to the setting in the <strong>Warehouses</strong> form.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The setting in this form overrides the setting in the <STRONG>Warehouses</STRONG> form.</P>

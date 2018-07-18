@@ -54,13 +54,11 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>Layout - rows</strong></p>
 <p><strong>Level 1</strong> / <strong>Level 2</strong> / <strong>Level 3</strong></p></td>
 <td><p>Select how you want to group the information on the report. Transactions are listed by <strong>Level 1</strong>, then by <strong>Level 2</strong>, and then by <strong>Level 3</strong>. For each level, you can select <strong>Project</strong>, <strong>Category</strong>, <strong>Worker/item</strong>, <strong>Order</strong> or <strong>Vendor</strong>.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>You must select a value for <STRONG>Level 1</STRONG>.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p><strong>Show amount</strong></p></td>

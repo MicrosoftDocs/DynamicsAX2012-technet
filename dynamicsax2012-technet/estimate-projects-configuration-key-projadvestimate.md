@@ -125,7 +125,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="fixed-price-configuration-key-projadvestimatefixedprice.md">Fixed-price configuration key (ProjAdvEstimateFixedPrice)</a></p>
 <p><a href="investment-configuration-key-projadvestimateinvestment.md">Investment configuration key (ProjAdvEstimateInvestment)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

@@ -57,7 +57,7 @@ The following table describes the workflow steps that occur when a user submits 
 <td><p>1</p></td>
 <td><p>X++ workflow runtime</p></td>
 <td><p>A user submits an expense report by clicking the <strong>Submit</strong> button on one of the workflow controls. This causes X++ code to activate a workflow instance by calling the workflow runtime API. The workflow runtime API posts a message to the message queue. The messaging batch job reads the message and sends a workflow activation request to the managed workflow runtime.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The messaging batch job processes the message queue at one-minute intervals.</P>

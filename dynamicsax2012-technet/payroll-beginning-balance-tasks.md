@@ -255,7 +255,7 @@ To generate an earnings statement and a pay statement that have beginning balanc
     <tr class="odd">
     <td><p><strong>Disable accounting</strong></p></td>
     <td><p>Select this check box.</p>
-    <div class="alert">
+    <div>
 
     > [!IMPORTANT]
     > <P>Your payroll transactions were likely recorded in the general ledger of the previous payroll system. To prevent recording these transactions again in Microsoft Dynamics AX, you must select the <STRONG>Disable accounting</STRONG> check box for each pay statement.</P>
@@ -342,7 +342,7 @@ If you don't have access to the pages that are used to complete this task, conta
 <tr class="odd">
 <td><p><strong>Configuration keys</strong></p></td>
 <td><p><strong>Payroll - USA</strong></p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>When you use Payroll, we highly recommend that you turn off the <STRONG>Payroll information</STRONG> configuration key under the <STRONG>Human resource I</STRONG> configuration key. The forms and tables that are enabled by that configuration key are not used by Payroll. If Payroll is installed and the configuration key is enabled, it might be difficult to make sure that your data is entered and tracked correctly.</P>

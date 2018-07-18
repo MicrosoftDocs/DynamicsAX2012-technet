@@ -142,7 +142,7 @@ Some functionality in Microsoft Dynamics AX works differently depending on wheth
 <td><p>Statutory reporting for a country/region</p></td>
 <td><p>For countries/regions that are supported by Microsoft Dynamics AX, most statutory reports can be created.</p>
 <p>For information about which reports are available for each country/region, see the <a href="https://mbs.microsoft.com/customersource/global/ax/support/support-news/gfmlocalizationportalmc">Microsoft Dynamics Localization Portal</a> for Microsoft Dynamics AX. (A CustomerSource logon is required.)</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>In Microsoft Dynamics AX, a posting layer in the general ledger allows you to make adjusting entries to a parent company that uses a different accounting standard than the child company. For example, for a company that uses generally accepted accounting practices in the United Kingdom (UK GAAP), you can make adjusting entries in the posting layer. These entries can be consolidated into a parent company that uses generally accepted accounting principles (GAAP) in the United States. The adjusting entries do not affect UK GAAP reporting. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa575927(v=ax.60)">Posting layer</A>.</P>
@@ -176,7 +176,7 @@ Some functionality in Microsoft Dynamics AX works differently depending on wheth
 <tr class="even">
 <td><p>Products</p></td>
 <td><p>Product definitions are shared, and they must be released to individual legal entities before they can be included in transactions. Each legal entity has its own set of released products that can be included in transaction documents. If your internal organizations must use different sets of products, you must model the organizations as legal entities.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Even though product definitions are shared, in each legal entity where a product has been released, you can specify different sales, purchase, and stocking parameters for the item at each inventory site. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa615563(v=ax.60)">Released product details (form)</A>.</P>

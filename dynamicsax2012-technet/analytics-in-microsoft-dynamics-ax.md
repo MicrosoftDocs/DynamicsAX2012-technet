@@ -203,13 +203,11 @@ After you have deployed cubes, complete the tasks, listed in the following table
 <tbody>
 <tr class="odd">
 <td><p>Update the OLAP data source</p></td>
-<td><div class="alert"> 
-
+<td>  
 > [!NOTE]
 > <P>If you are using Microsoft Dynamics AX 2012 R2 or later, this task does not apply to you.</P>
 
 
-</div>
 <p>By default, the cubes that are provided with Microsoft Dynamics AX are stored in an Analysis Services database named <em>Dynamics AX</em>. If you entered a custom name for this database when you deployed the cubes, you must update the data source that is used to connect to that database.</p></td>
 <td><p><a href="update-the-olap-data-source.md">Update the OLAP data source</a></p></td>
 </tr>

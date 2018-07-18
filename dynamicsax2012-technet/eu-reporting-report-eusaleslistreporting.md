@@ -56,7 +56,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Change in periodicity</strong></p></td>
 <td>Select this check box if the reporting period for the current EU sales list is different from that of the previously generated EU sales list.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(ESP) This control is available only to legal entities whose primary address is in Spain.</P>
@@ -75,7 +75,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Filing date</strong></p></td>
 <td>Enter the date that the report for the reporting period specified under <strong>Date</strong> will be filed with the tax authority.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(LAV) This control is available only to legal entities whose primary address is in Latvia.</P>
@@ -86,7 +86,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Company manager</strong></p></td>
 <td>Select the manager who is responsible for filing the report.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(LAV) This control is available only to legal entities whose primary address is in Latvia.</P>
@@ -97,7 +97,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Position</strong></p></td>
 <td>Select the title of the person who is responsible for filing the report.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(LAV) This control is available only to legal entities whose primary address is in Latvia.</P>
@@ -108,7 +108,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Contact information</strong></p></td>
 <td>Enter the email address or telephone number of the person who is responsible for the report.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(LTH) This control is available only to legal entities whose primary address is in Lithuania.</P>
@@ -119,7 +119,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Report type</strong></p></td>
 <td>Select the type of report that is being created, such as <strong>Primary</strong> or <strong>Corrected</strong>.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(LTH) This control is available only to legal entities whose primary address is in Lithuania.</P>
@@ -130,7 +130,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Phone number</strong></p></td>
 <td>Enter the telephone number of the person who is responsible for filing the report.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(LAV) This control is available only to legal entities whose primary address is in Latvia.</P>
@@ -141,7 +141,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Customer information</strong></p></td>
 <td>Enter additional customer information to be included in the report file.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(AUT) This control is available only to legal entities whose primary address is in Austria.</P>
@@ -152,7 +152,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Authority</strong></p></td>
 <td>Select the account number of the sales tax authority.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(AUT) This control is available only to legal entities whose primary address is in Austria.</P>
@@ -163,7 +163,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Document number of the declaration</strong></p></td>
 <td>Enter the document number of the declaration.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(ESP) This control is available only to legal entities whose primary address is in Spain.</P>
@@ -174,7 +174,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Contact ID</strong></p></td>
 <td>Select the contact identification number of the auditor.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(ESP) This control is available only to legal entities whose primary address is in Spain.</P>
@@ -189,7 +189,7 @@ When you generate this report, the following default parameters are displayed. Y
 <li><p><strong>Telematic</strong> – Submit the EU sales list to the tax authorities over the Internet.</p></li>
 <li><p><strong>DVD</strong> – Submit the EU sales list to the tax authorities by using a DVD.</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(ESP) This control is available only to legal entities whose primary address is in Spain.</P>
@@ -208,7 +208,7 @@ When you generate this report, the following default parameters are displayed. Y
 <li><p><strong>Complementary</strong> – Specify that the current EU sales list is a correction.</p></li>
 <li><p><strong>Replacement</strong> – Specify that the current EU sales list is a replacement of a previously-declared EU sales list.</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(ESP) This control is available only to legal entities whose primary address is in Spain.</P>
@@ -219,7 +219,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Corrected declaration</strong></p></td>
 <td>The declaration number of the declaration to be corrected.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(ESP) This control is available only to legal entities whose primary address is in Spain.</P>
@@ -230,7 +230,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Official declaration</strong></p></td>
 <td><p>Select this check box to create an export file that contains the details of the EU sales list.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(BEL, DEU) This control is available only to legal entities whose primary address is in Belgium or Germany.</P>
@@ -241,7 +241,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Worker</strong></p></td>
 <td>Select the name of the worker who generates the EU sales list.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(GBR) This control is available only to legal entities whose primary address is in the United Kingdom.</P>
@@ -252,7 +252,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Send electronically</strong></p></td>
 <td>Select this check box to send the report to the tax authorities in an electronic format.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(NLD) This control is available only to legal entities whose primary address is in the Netherlands.</P>
@@ -276,7 +276,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>ID</strong></p></td>
 <td>The identification of the electronic Intracommunautaire Prestaties (ICP) declaration.
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(NLD) This control is available only to legal entities whose primary address is in the Netherlands.</P>

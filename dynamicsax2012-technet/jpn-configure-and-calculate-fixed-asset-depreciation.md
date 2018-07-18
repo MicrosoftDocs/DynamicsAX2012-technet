@@ -259,7 +259,7 @@ For more information about the fields on the **Change fixed asset depreciation p
 <tr class="even">
 <td><p><strong>Net book value</strong></p></td>
 <td><p>The net book value of the fixed asset as of the depreciation profile switch date.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>When this field was stored, it does not change automatically any more. Under unusual use cases when a transaction is posted on a date before the <STRONG>Start date</STRONG>, this field will still not change. The workaround is to calculate the new correct net book value and update the field manually. For this scenario, regardless of whether the user has updated this field on the form, future calculations will always consider the newly posted transaction.</P>

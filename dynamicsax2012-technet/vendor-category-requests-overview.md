@@ -63,7 +63,7 @@ The information in the following table outlines the tasks and workflow statuses 
 <tr class="even">
 <td><p>Worker</p></td>
 <td><p>Review and submit the category request.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Before a vendor category request can be submitted to workflow, the category justification request and the category application workflows must be set up. For more information, see <A href="set-up-procurement-and-sourcing-workflows.md">Set up Procurement and sourcing workflows</A>.</P>
@@ -135,7 +135,7 @@ The information in the following table outlines the tasks and workflow statuses 
 <tr class="even">
 <td><p>Vendor</p></td>
 <td><p>Review and submit the category request.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Before a vendor category request can be submitted to workflow, the category justification request and the category application workflows must be set up. For more information, see <A href="set-up-procurement-and-sourcing-workflows.md">Set up Procurement and sourcing workflows</A>.</P>

@@ -157,7 +157,7 @@ All these files are located in the DatabaseUpgrade\\XPO folder on the installati
 <td><p>AX 4.0 SP2 + JP GLS</p></td>
 <td><p><strong>Provided in AX 2012 R2 and AX 2012 R3:</strong></p>
 <p>UpgradeAX4_GJP.xpo</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This package corresponds to the Japan functionality contained in UpgradeAX5_GLS_Cons.xpo, below.</P>
@@ -182,7 +182,7 @@ All these files are located in the DatabaseUpgrade\\XPO folder on the installati
 <p></p></td>
 <td><p><strong>Provided in AX 2012 R2 and AX 2012 R3:</strong></p>
 <p>UpgradeAX5_GLS_Cons.xpo</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>Functionality for Japan delivered in this package corresponds to UpgradeAX4_GJP.xpo, above.</P>
@@ -206,7 +206,7 @@ All these files are located in the DatabaseUpgrade\\XPO folder on the installati
 <ul>
 <li><p>Payroll support</p></li>
 </ul>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>Before installing the XPO for this feature, install either UpgradeAX4_GLS_EE.xpo or UpgradeAX5_GLS_EE.xpo as appropriate.</P>

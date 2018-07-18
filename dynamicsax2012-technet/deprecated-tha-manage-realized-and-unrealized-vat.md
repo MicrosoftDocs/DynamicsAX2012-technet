@@ -33,7 +33,7 @@ Microsoft Dynamics AX 2009 managed unrealized value-added tax (VAT) by using Tha
 <td><p>Reason for deprecation</p></td>
 <td><p>In AX 2012, the Thailand-specific features were moved from the GLS layer to the SYS layer. This consolidation gave us the opportunity to use the standard conditional sales tax functionality that is provided in the SYS layer of Microsoft Dynamics AX. A hotfix was released, and we are deprecating the Thailand-specific Unrealized VAT features. Instead, we will use the standard Conditional sales tax features that are provided in AX 2012.</p>
 <p>These changes were released in a hotfix in 2012. See <a href="https://mbs2.microsoft.com/knowledgebase/kbdisplay.aspx?scid=kb%3ben-us%3b2636555">KB article 2636555</a>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The code that corresponds to these features is still available but will be removed in a future release.</P>

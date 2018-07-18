@@ -106,7 +106,7 @@ The following table lists the types of workflows that you can create in General 
 <tr class="even">
 <td><p><strong>Advanced ledger entry workflow</strong></p></td>
 <td><p>Create approval workflows for advanced ledger entries.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>

@@ -118,7 +118,7 @@ To create employee categories, follow these steps:
     <tr class="odd">
     <td><p><strong>Up to</strong></p></td>
     <td><p>Enter the number of divisions by rank, category, or class.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The <STRONG>Up to</STRONG> field is available only if the <STRONG>Differentiation on categories</STRONG> check box is selected.</P>
@@ -129,7 +129,7 @@ To create employee categories, follow these steps:
     <tr class="even">
     <td><p><strong>Category type</strong></p></td>
     <td><p>Select <strong>rank</strong>, <strong>category</strong>, or <strong>class</strong> as the category type.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>The <STRONG>Category type</STRONG> field is available only if the <STRONG>Differentiation on categories</STRONG> check box is selected.</P>
@@ -234,7 +234,7 @@ To create document arguments, follow these steps:
     <tr class="odd">
     <td><p><strong>Document code</strong></p></td>
     <td><p>Retain or modify the code for the document argument.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>A document code is automatically displayed according to the number series that is assigned to the document code in the <STRONG>Parameters</STRONG> form.</P>

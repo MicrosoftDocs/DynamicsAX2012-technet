@@ -220,7 +220,7 @@ For more information about additional country-specific features that we added fo
 <li><p><strong>ICMS-DIF</strong> – This tax type determines whether a purchase has a differential rate in an interstate purchase of ICMS.</p></li>
 </ul>
 <p>For ICMS-ST Tax types, you can select a tributary substitution method of either <strong>Markup</strong> or <strong>Simplified</strong> to calculate the tributary substitution. Tax substitution is the collection of sales tax at the first point of sale, where the markup tax rate is estimated by the fiscal authorities. This is done to expedite the collection of taxes.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>You can no longer change the taxation code or fiscal value on sales order and purchase order lines.</P>

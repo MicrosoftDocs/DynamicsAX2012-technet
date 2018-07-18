@@ -213,7 +213,7 @@ The following keyboard shortcuts apply across Microsoft Dynamics AX.
 <tr class="even">
 <td><p>Display key tips for groups in an Action Pane tab.</p></td>
 <td><p>ALT+Key for the tab, and then ALT</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If the same key is used for multiple controls, press the key again until the focus is on the control that you want, and then press ENTER.</P>
@@ -224,7 +224,7 @@ The following keyboard shortcuts apply across Microsoft Dynamics AX.
 <tr class="odd">
 <td><p>Display key tips for actions within groups in an Action Pane tab.</p></td>
 <td><p>ALT+Key for the tab, and then ALT+Key for the group</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If the same key is used for multiple controls, press the key again until the focus is on the control that you want and then press ENTER.</P>

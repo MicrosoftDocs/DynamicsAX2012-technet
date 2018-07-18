@@ -57,7 +57,7 @@ To specify text colors for the system messages, follow these steps:
     <tr class="odd">
     <td><p>Default</p></td>
     <td><p>Use the default color settings for all messages.</p>
-    <div class="alert">
+    <div>
 
     > [!TIP]
     > <P>The default colors are specified by the cascading style sheet for the Windows Mobile Device Portal (WMDP). This is described in the next section in this topic.</P>

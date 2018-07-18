@@ -46,7 +46,7 @@ The following table provides information about how this configuration key relate
 <p><a href="vendor-catalog-import-configuration-key-vendcatalogimport.md">Vendor catalog import configuration key (VendCatalogImport)</a></p>
 <p><a href="vendor-ratings-configuration-key-vendreview.md">Vendor ratings configuration key (VendReview)</a></p>
 <p><a href="vendor-spend-analysis-configuration-key-vendspendanalysis.md">Vendor spend analysis configuration key (VendSpendAnalysis)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

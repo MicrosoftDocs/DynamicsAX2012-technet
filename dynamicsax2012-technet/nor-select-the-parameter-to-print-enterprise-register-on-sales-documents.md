@@ -32,7 +32,7 @@ Select the **Print Foretaksregisteret on sales documents** check box in the **Le
 
 ## See also
 
-[(NOR) Print the term “Enterprise register” on sales documents](nor-print-the-term-“enterprise-register”-on-sales-documents.md)
+[(NOR) Print the term Enterprise register on sales documents](nor-print-the-term-enterprise-register-on-sales-documents.md)
 
   
 **Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).

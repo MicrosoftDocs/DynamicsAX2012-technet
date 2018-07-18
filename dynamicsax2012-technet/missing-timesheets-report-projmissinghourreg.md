@@ -40,7 +40,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Start date</strong></p></td>
 <td><p>Click the calendar icon next to the <strong>Start date</strong> field. The <strong>Start date</strong> and <strong>End date</strong> are displayed for the selected <strong>Period code</strong>. Select a starting date for the date range that you want to view in the report.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you do not select a start date that is applicable to the selected <STRONG>Period code</STRONG>, the report will be empty.</P>

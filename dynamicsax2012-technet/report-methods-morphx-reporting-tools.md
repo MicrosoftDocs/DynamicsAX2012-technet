@@ -98,7 +98,7 @@ The following table describes the report methods that you can override.
 <li><p>Dynamic changes to the design</p></li>
 </ul>
 <p>If your changes require access to the objects of the report, add your code after the super() call.</p>
-<div class="alert">
+<div>
 
 > [!WARNING]
 > <P>Do not delete the super() call from this method. The super() call initializes all the objects of the report.</P>
@@ -138,7 +138,7 @@ The following table describes the report methods that you can override.
 <td><p>Prompts the user to select a print medium and other information.</p>
 <p>Available mediums include paper, the screen, a print archive, .rtf, HTML, ASCII, .pdf, and text (UTF-8).</p>
 <p>To disable the print medium selection, override the method, and then remove the call to super().</p>
-<div class="alert">
+<div>
 
 > [!WARNING]
 > <P>Do not mistake this method for the method of the same name on a query.</P>

@@ -40,7 +40,7 @@ The following table shows the prerequisites that must be in place before you sta
 <td><p>Related setup tasks</p></td>
 <td><p><a href="set-up-catalog-source-codes.md">Set up catalog source codes</a></p>
 <p><a href="set-up-a-call-center.md">Set up a call center</a></p>
-<div class="alert">
+<div>
 
 > [!IMPORTANT]
 > <P>During call center setup, you must do the following to enable source code functionality:</P>

@@ -465,7 +465,7 @@ You can generate a schema for each document by creating an enhanced inbound inte
 <tr class="odd">
 <td><p>Document handling</p></td>
 <td><p>DocumentHandlingService</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The corresponding query is called <STRONG>DocumentHandling</STRONG>.</P>
@@ -683,7 +683,7 @@ You can generate a schema for each document by creating an enhanced inbound inte
 <td><p>BankStmtService</p></td>
 <td><p>AX 2012 R2</p></td>
 <td><p>Enables import of bank statements.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>You must select the <STRONG>Advanced bank reconciliation</STRONG> option on the <STRONG>Bank account</STRONG> form to import bank statements.</P>
@@ -746,7 +746,7 @@ You can generate a schema for each document by creating an enhanced inbound inte
 <td><p>VendInvoiceService</p></td>
 <td><p>AX 2012 R2</p></td>
 <td><p>Creates a new Vendor invoice.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>You must provide the InventTransId value for the desired Purchase Order line on VendInvoiceInfoLine if receiving against Purchase Order.</P>

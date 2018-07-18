@@ -42,13 +42,11 @@ To install the Microsoft SQL Server Reporting Services extensions and deploy rep
 </tr>
 <tr class="odd">
 <td><p>Complete the Reporting Services integration. The directions vary, depending on whether you are running Reporting Services in native mode or SharePoint integrated mode.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>SharePoint integrated mode is supported if you are using Microsoft Dynamics AX 2012 R2 or later.</P>
 
 
-</div>
 <p>If you are running Reporting Services in native mode, complete the following procedures:</p>
 <ol>
 <li><p>Deploy the default reports that are included with Microsoft Dynamics AX, if you did not already deploy the reports when you installed the Reporting Services extensions.</p></li>

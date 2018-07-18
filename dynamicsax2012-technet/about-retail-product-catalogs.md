@@ -63,13 +63,11 @@ The following diagram illustrates the components that are included in a retail p
 <tr class="even">
 <td><p>Retail channel</p></td>
 <td><p>Retail channels include brick-and-mortar stores, online stores, and online marketplaces. Retail product catalogs can be published only to online stores. Select the online stores where the products in the catalog are offered.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>Before you can publish the product catalog, you must publish the online store. For more information about how to publish an online store, see <A href="set-up-an-online-store.md">Set up an online store</A>.</P>
 
-
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>

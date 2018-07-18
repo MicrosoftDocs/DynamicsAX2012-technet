@@ -204,7 +204,7 @@ To set up standard deduction parameters that are used as default values for the 
     <tr class="odd">
     <td><p><strong>Amount control</strong></p></td>
     <td><p>Select this check box to validate the deduction amount.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you select this check box, the calculated deduction amount for the selected deduction code for an employee cannot be greater than the amount that is calculated using the following formula:</P>

@@ -41,13 +41,11 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Invoice account</strong></p></td>
 <td><p>Click <strong>Select</strong>. In the <strong>CustAdvanceInvoiceJour</strong> form, in the <strong>Criteria</strong> field, select a customer account to include on the report. To select more than one account, click <strong>Add</strong>, and then enter the criteria in the row just added.</p>
-<div class="alert"> 
-
+  
 > [!NOTE]
 > <P>If you do not select a customer account, all accounts are displayed on the report.</P>
 
-
-</div></td>
+</td>
 </tr>
 <tr class="even">
 <td><p><strong>Date</strong></p></td>

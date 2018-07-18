@@ -42,7 +42,7 @@ A report dataset identifies data that is displayed in a report. You can use a qu
     <tr class="odd">
     <td><p><strong>Data Source</strong></p></td>
     <td><p>The data source for the dataset. To access data from the Microsoft Dynamics AX database, select <strong>Dynamics AX</strong>.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>If you plan to use a data source other than the predefined Microsoft Dynamics AX data source, you must first define the data source in Model Editor before defining the dataset. For more information, see <A href="how-to-define-a-report-data-source.md">How to: Define a Report Data Source</A>.</P>
@@ -75,7 +75,7 @@ A report dataset identifies data that is displayed in a report. You can use a qu
     <td><p><strong>Dynamic Filters</strong></p></td>
     <td><p>Set the <strong>Dynamic Filters</strong> property to True to create dynamic filters on your report. When this value is True, a dataset parameter and report parameter will be created. Both of which will have the same name. Dynamic filters allow the end user of the report to add filters based on any of the fields on the report.</p>
     <p>When the value is False, the dataset parameter and report parameter for the default ranges are created. The end user of the report cannot add additional filters. For more information about creating dynamic filters, see <a href="adding-interactive-features-to-reports.md">Adding Interactive Features to Reports</a>.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>When the <STRONG>Dynamic Filter</STRONG> property is set to <STRONG>False</STRONG>, the SrsReportDataContract object will not contain the query contract.</P>

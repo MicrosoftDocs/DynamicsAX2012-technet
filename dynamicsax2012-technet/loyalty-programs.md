@@ -88,7 +88,7 @@ To offer a loyalty program to your customers and to issue and apply loyalty poin
 <tr class="odd">
 <td><p>Set up discounts</p></td>
 <td><p>Loyalty reward offers often consist of discounts that you offer your customers. To determine which discounts you want to include in a loyalty program, you must set up the discount and then assign it to a price group. The price group is then either assigned to a loyalty program or a reward level (tier) within a loyalty program.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>If you set up your loyalty programs to offer only loyalty points, setting up discounts and price groups for loyalty programs is optional.</P>

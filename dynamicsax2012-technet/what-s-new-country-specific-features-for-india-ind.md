@@ -331,7 +331,7 @@ For more information about additional country-specific features that we added fo
 <tr class="odd">
 <td><p>The message about thresholds that are exceeded was removed from India direct tax.</p></td>
 <td><p>In earlier versions, error and warning messages about threshold validations can be set up to notify users when the cumulative transaction amount exceeds the threshold for direct tax (TDS/TCS). In AX 2012 R2, this functionality has been deprecated.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The threshold functionality is not deprecated. Only the error and warning messages have been removed.</P>
@@ -658,7 +658,7 @@ For more information about additional country-specific features that we added fo
 <p>You can view tax calculations that are specific to each transaction line from the <strong>Invoice proposal</strong> form before you bill the customer.</p>
 <p>You can enable an option to split invoice proposals based on the tax registration numbers that are included in them and print the project invoice that is specific to each legal entity.</p>
 <p>In inquiry forms, you can now filter by project and category. Therefore, it is easier to create some reports that are more frequently required in Indian business scenarios.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This feature extends the support for India tax regulations that was introduced in AX 2009 to AX 2012.</P>

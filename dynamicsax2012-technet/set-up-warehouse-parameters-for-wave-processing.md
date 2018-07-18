@@ -58,7 +58,7 @@ To set up warehouse parameters for wave processing, follow these steps:
     <tr class="even">
     <td><p><strong>Process waves in batch</strong></p></td>
     <td><p>Select this check box to enable waves to be automatically processed by a batch job. You set up the batch job in the <strong>Process waves</strong> form.</p>
-    <div class="alert">
+    <div>
 
     > [!NOTE]
     > <P>On the wave template that is used to process the wave, you can specify the settings that automate wave processing. If you set up a schedule for the batch job, you should coordinate the timing with the settings for automation in the wave template. For more information, see <A href="create-a-wave-template.md">Create a wave template</A>.</P>

@@ -116,7 +116,7 @@ The following table explains where to find the report in the Application Object 
 <tr class="even">
 <td><p>Navigation to the report</p></td>
 <td><p>Click <strong>Inventory management</strong> &gt; <strong>Journals</strong> &gt; <strong>Item transactions</strong> &gt; <strong>Transfer</strong>. Select <strong>Print</strong> and then click <strong>Journal</strong>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>To enable the Print option, you must create a new line. To create a new line, click <STRONG>New</STRONG>.</P>

@@ -196,7 +196,7 @@ After you extract the installation files by using Setup, you must configure sett
     <td><p><strong>WebSiteHttpsPort</strong></p></td>
     <td><p>The port on which Real-time Service receives secure HTTP requests. You can specify any available port. Verify that the port is open in Windows Firewall.</p>
     <p></p>
-    <div class="alert">
+    <div>
     > [!Caution]  
 	> To avoid conflicts with the Default Web Site on the computer, we recommend that you do not use the default HTTPS port (443). A nonstandard port number also helps make the website more secure.
 

@@ -87,7 +87,7 @@ You must complete the following tasks before you deploy the Microsoft Dynamics A
 <tr class="odd">
 <td><p>Verify that SharePoint application pools are running in IIS</p></td>
 <td><p>Verify that all SharePoint application pools are running in IIS Manager.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]  
 > If the SharePoint Web Services Root application pool is stopped, you must start it.
@@ -465,7 +465,7 @@ This section describes how to configure settings in the oob-settings.xml file.
     <td><p>The thumbprint for your Secure Sockets Layer (SSL) encryption certificate. You must obtain a valid, registered certificate from a provider.</p>
     <p></p>
     <p>Because this component uses Secure Sockets Layer (SSL) encryption, you must install a server certificate that was issued by a trusted certification authority. (For test environments, you can create a self-signed certificate in IIS.) You will need to paste the thumbprint for the certificate into the settings file. To view the thumbprint in IIS Manager, double-click the certificate and click the <strong>Details</strong> tab. We recommend that you paste the thumbprint into a text file and remove all spaces before you paste it into the settings file.</p>
-    <div class="alert">
+    <div>
     > [!Caution]  
     > A thumbprint can contain hidden characters at the beginning of the thumbprint value. You must delete these extra characters before you paste the thumbprint into the settings file.
   
@@ -480,7 +480,7 @@ This section describes how to configure settings in the oob-settings.xml file.
     <tr class="odd">
     <td><p><strong>StoreFrontPublicSSLCertLocalDirectory</strong></p></td>
     <td><p>The destination folder where Microsoft Dynamics AX stores a local copy of the certificate. This location <strong>cannot</strong> be the same as the <strong>StoreFrontPublicSSLCertDirectory</strong> value.</p>
-    <div class="alert">
+    <div>
     > [!Important]  
     > This path cannot contain any special characters. If the path contains a special character deployment fails.
   
@@ -722,7 +722,7 @@ The Retail online store can authenticate users who sign in to your site by using
     <td><p>The thumbprint for your Secure Sockets Layer (SSL) encryption certificate. You must obtain a valid, registered certificate from a provider.</p>
     <p></p>
     <p>Because this component uses Secure Sockets Layer (SSL) encryption, you must install a server certificate that was issued by a trusted certification authority. (For test environments, you can create a self-signed certificate in IIS.) You will need to paste the thumbprint for the certificate into the settings file. To view the thumbprint in IIS Manager, double-click the certificate and click the <strong>Details</strong> tab. We recommend that you paste the thumbprint into a text file and remove all spaces before you paste it into the settings file.</p>
-    <div class="alert">
+    <div>
     > [!Caution]  
     > A thumbprint can contain hidden characters at the beginning of the thumbprint value. You must delete these extra characters before you paste the thumbprint into the settings file.
   
@@ -1047,7 +1047,7 @@ Use the following procedure to verify that the **Dynamics AX Publishing Connecto
 <tr class="even">
 <td><p>Set up the online channel</p></td>
 <td><p>After you deploy the Microsoft Dynamics AX Retail online store, you must setup the online channel in Microsoft Dynamics AX. See the <strong>Online store setup checklist</strong>. The checklist is available in the Microsoft Dynamics AX client: <strong>Retail</strong> &gt; <strong>Setup</strong> &gt; <strong>Online store setup checklist</strong>.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]  
 > If the online channel has already been set up in Microsoft Dynamics AX then you only need to publish the channel and publish a catalog. For information, see <em>Publish an online store</em> in <a href="set-up-an-online-store.md">Set up an online store</a> and <em>Publish a catalog</em> in <a href="key-tasks-create-retail-product-catalogs.md">Key tasks: Create retail product catalogs</a>.

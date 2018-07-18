@@ -141,7 +141,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="retail-concession-configuration-key-retailconcession.md">Retail concession configuration key (RetailConcession)</a></p>
 <p><a href="retail-gift-card-configuration-key-retailgiftcard.md">Retail gift card configuration key (RetailGiftCard)</a></p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>

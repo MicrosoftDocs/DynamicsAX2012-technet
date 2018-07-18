@@ -90,7 +90,7 @@ The following table shows the supported and unsupported DPI and resolution setti
 <td><p>100</p></td>
 <td><p>1024 x 768</p></td>
 <td><p>Supported</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This resolution is not supported on Chinese operating systems.</P>
@@ -172,7 +172,7 @@ The following table shows the supported and unsupported DPI and resolution setti
 <td><p>96</p></td>
 <td><p>1024 x 768</p></td>
 <td><p>Supported</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This resolution is not supported on Chinese operating systems.</P>
@@ -184,7 +184,7 @@ The following table shows the supported and unsupported DPI and resolution setti
 <td><p>120</p></td>
 <td><p>1024 x 768</p></td>
 <td><p>Supported</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>This resolution is not supported on Chinese operating systems.</P>

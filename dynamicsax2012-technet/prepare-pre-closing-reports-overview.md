@@ -73,7 +73,7 @@ The following table lists the forms that support the prepare pre-closing reports
 <td><p>Create electronic documents</p></td>
 <td><p><strong>Data export</strong></p></td>
 <td><p><strong>(DEU) Data export wizard</strong> – Export data in formats that are supported for France and Germany.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(DEU, FRA) This control is available only to legal entities whose primary address is in Germany or France.</P>
@@ -85,7 +85,7 @@ The following table lists the forms that support the prepare pre-closing reports
 <td><p></p></td>
 <td><p><strong>Electronic ICP declaration</strong></p></td>
 <td><p><strong>(NLD) Electronic ICP declaration</strong> – Verify the ICP information that will be submitted to the tax authorities.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(NLD) This form is available only to legal entities whose primary address is in the Netherlands.</P>
@@ -97,7 +97,7 @@ The following table lists the forms that support the prepare pre-closing reports
 <td><p></p></td>
 <td><p><strong>Electronic OB declaration</strong></p></td>
 <td><p><strong>(NLD) Electronic OB declaration</strong> – Verify the OB (VAT declaration) information that will be submitted to the tax authorities.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(NLD) This form is available only to legal entities whose primary address is in the Netherlands.</P>
@@ -109,7 +109,7 @@ The following table lists the forms that support the prepare pre-closing reports
 <td><p></p></td>
 <td><p><strong>Electronic tax declaration log</strong></p></td>
 <td><p><strong>(DEU) Electronic tax declaration log</strong> – View log entries for each existing electronic tax document.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(DEU) This form is available only to legal entities whose primary address is in Germany.</P>
@@ -121,7 +121,7 @@ The following table lists the forms that support the prepare pre-closing reports
 <td><p></p></td>
 <td><p><strong>Electronic tax declaration parameters</strong></p></td>
 <td><p><strong>(NLD) Electronic tax declaration parameters</strong> – Set up the parameters that define an electronic tax declaration in the Netherlands.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(NLD) This form is available only to legal entities whose primary address is in the Netherlands.</P>
@@ -133,7 +133,7 @@ The following table lists the forms that support the prepare pre-closing reports
 <td><p></p></td>
 <td><p><strong>Electronic tax declaration setup</strong></p></td>
 <td><p><strong>(DEU) Electronic tax declaration setup</strong> – Set up information about authentication and the use of a proxy server for the electronic tax declaration.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(DEU) This form is available only to legal entities whose primary address is in Germany.</P>
@@ -145,7 +145,7 @@ The following table lists the forms that support the prepare pre-closing reports
 <td><p></p></td>
 <td><p><strong>INTERVAT tax declaration</strong></p></td>
 <td><p><strong>(BEL) INTERVAT tax declaration</strong> – Create elements for INTERVAT.</p>
-<div class="alert">
+<div>
 
 > [!NOTE]
 > <P>(BEL) This form is available only to legal entities whose primary address is in Belgium.</P>
