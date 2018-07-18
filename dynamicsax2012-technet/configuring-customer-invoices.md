@@ -50,7 +50,7 @@ The following topics provide information about configuring customer invoices.
 
 [(ESP) Assign due date limits to terms of payment to calculate invoice due dates](esp-assign-due-date-limits-to-terms-of-payment-to-calculate-invoice-due-dates.md)
 
-[(NOR) Print the term “Enterprise register” on sales documents](nor-print-the-term-“enterprise-register”-on-sales-documents.md)
+[(NOR) Print the term “Enterprise register” on sales documents](nor-print-the-term-enterprise-register-on-sales-documents.md)
 
 [(NOR) Select the parameter to print Enterprise register on sales documents](nor-select-the-parameter-to-print-enterprise-register-on-sales-documents.md)
 
