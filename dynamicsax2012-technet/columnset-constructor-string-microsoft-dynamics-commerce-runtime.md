@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# ColumnSet Constructor (String )
+# ColumnSet Constructor (String[])
 
 Initializes a new instance of the [ColumnSet](columnset-class-microsoft-dynamics-commerce-runtime.md) class.
 

@@ -23,7 +23,8 @@ Follow these steps to generate a schema (.xsd) for a document:
 
 2.  Enter the following code in the editor window, overwriting any existing code.
     
-        static void GenerateXSDSchema_Customer(Args _args)
+       ```X++
+       static void GenerateXSDSchema_Customer(Args _args)
         {
             CustCustomer        customer;
             XML                 xml;
@@ -45,6 +46,7 @@ Follow these steps to generate a schema (.xsd) for a document:
             xmlDocument.save(fileName);
             CodeAccessPermission::revertAssert();
         }
+       ```
 
 3.  Save your changes.
 

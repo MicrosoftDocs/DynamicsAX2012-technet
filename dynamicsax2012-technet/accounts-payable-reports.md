@@ -93,7 +93,7 @@ The following reports are available in the **Accounts payable** module of Micros
 
 [(CHE) Payment advice report (VendOutPaymAdvice\_CHEZAG)](che-payment-advice-report-vendoutpaymadvice-chezag.md)
 
-[(CHE) Vergütungsauftrag report (VendOutPaymOrder\_CHDTA)](che-vergütungsauftrag-report-vendoutpaymorder-chdta.md)
+[(CHE) Vergütungsauftrag report (VendOutPaymOrder\_CHDTA)](che-vergutungsauftrag-report-vendoutpaymorder-chdta.md)
 
 [(DEU) DTAUS report (VendOutAttendingNoteDE\_DTAUS)](deu-dtaus-report-vendoutattendingnotede-dtaus.md)
 

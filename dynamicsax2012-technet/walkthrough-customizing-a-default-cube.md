@@ -53,7 +53,8 @@ You can modify an existing KPI to display custom information.
 
 4.  For the **Status expression** field, revise the expression so that it matches the following.
     
-        Case
+       ```VBScript
+       Case
           When 
             KpiValue("Sales") / KpiGoal("Sales") >= .80
           Then 1
@@ -64,6 +65,7 @@ You can modify an existing KPI to display custom information.
           Then 0
           Else-1
         End
+       ```
     
     This expression provides a basis from which to evaluate progress toward meeting a goal. The status graphic that displays is based on the value the expression returns. The new expression will display the **Gauge** status indicator with the following characteristics:
     
@@ -95,19 +97,24 @@ In the following procedure, you will create a KPI that reports the average reven
 
 6.  For the **Value Expression** field, type the following expression.
     
-        [Measures].[Invoice revenue]/[Measures].[Sales count]
+      ```VBScript
+       [Measures].[Invoice revenue]/[Measures].[Sales count]
+      ```
     
     This expression divides the total invoice revenue by the number of sales.
 
 7.  For the **Goal Expression** field, type the following.
     
-        17000
+       ```VBScript
+       17000
+       ```
     
     This number represents the goal for the average revenue per sale.
 
 8.  For the **Status expression** field, type the following expression.
     
-        Case
+       ```VBScript
+       Case
           When 
             KpiValue("Average Revenue per Sale") / KpiGoal("Average Revenue per Sale") >= 1
           Then 1
@@ -118,6 +125,7 @@ In the following procedure, you will create a KPI that reports the average reven
           Then 0
           Else-1
         End
+       ```
     
     This expression provides a basis from which to evaluate progress toward meeting a goal. The status graphic that displays is based on the value the expression returns. The new expression will display the **Gauge** indicator with the following characteristics:
     
@@ -131,7 +139,8 @@ In the following procedure, you will create a KPI that reports the average reven
 
 10. For the **Trend expression** field, type the following expression.
     
-        Case
+       ```VBScript
+       Case
           When 
             KpiValue("Average Revenue per Sale") < (KpiValue("Average Revenue per Sale"),
             [Date].[Year - Quarter - Month - Week - Date].PREVMEMBER)
@@ -143,6 +152,7 @@ In the following procedure, you will create a KPI that reports the average reven
           Then 1
           Else 0
         End
+       ```
     
     This expression provides a basis to evaluate the trend toward achieving the goal. The graphic that displays for the trend of the KPI depends upon what value this expression evaluates to.
 

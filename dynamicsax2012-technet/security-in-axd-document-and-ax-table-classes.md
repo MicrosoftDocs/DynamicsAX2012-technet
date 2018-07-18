@@ -27,7 +27,8 @@ By default, RLS is enabled for all Axd \<Document\> classes that are included w
 
 In these document classes, RLS is bypassed in the unpackPropertyBag method as shown in the following code.
 
-    protected void unpackPropertyBag(AifPropertyBag _aifPropertyBag)
+```X++
+protected void unpackPropertyBag(AifPropertyBag _aifPropertyBag)
     {
         AxdSendContext  axdSendContext = 
             AxdSendContext::create(_aifPropertyBag);
@@ -37,11 +38,14 @@ In these document classes, RLS is bypassed in the unpackPropertyBag method as sh
         // Bypass RLS.
         this.security(axdSendContext.parmSecurity());
     }
+```
 
 When reading data that will be sent, the AxdBase class passes the request to the AxdBaseRead class. The AxdBaseRead.serializeQuery method checks whether the document implements RLS and passes that information to the query in the following code.
 
+```X++
     query.allowCheck(this.parmAxdBase().security());
     query.recordLevelSecurity(this.parmAxdBase().security());
+```
 
 RLS does not apply when the AIF deserializes data from XML and writes to the database. This is the case for inbound documents that create data in Microsoft Dynamics AX.
 

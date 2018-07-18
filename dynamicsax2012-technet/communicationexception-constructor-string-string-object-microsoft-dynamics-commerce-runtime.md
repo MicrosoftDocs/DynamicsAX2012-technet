@@ -12,7 +12,7 @@ dev_langs:
 - c++
 ---
 
-# CommunicationException Constructor (String, String, Object )
+# CommunicationException Constructor (String, String, Object[])
 
 Initializes a new instance of the [CommunicationException](communicationexception-class-microsoft-dynamics-commerce-runtime.md) class.
 

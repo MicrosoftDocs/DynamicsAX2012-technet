@@ -122,7 +122,7 @@ The following table lists the forms that support the labels business process com
 
 The topics in this section provide information about creating and printing labels.
 
-[Enable label printing (Retail essentials)](https://technet.microsoft.com/en-us/library/dn774952\(v=ax.60\))
+Enable label printing (Retail essentials)
 
 [Print shelf labels (Retail essentials)](print-shelf-labels-retail-essentials.md)
 

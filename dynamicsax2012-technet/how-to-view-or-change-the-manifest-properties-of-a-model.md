@@ -79,10 +79,14 @@ This topic describes how to view and change the properties of a model. You can u
 
 3.  At the command prompt, type one of the following commands, and then press ENTER.
     
-        axutil manifest /model:<modelname> /xml
-    
-        axutil manifest /file:<filename>
-    
+  ```
+      axutil manifest /model:<modelname> /xml
+  ```
+  
+  ```
+      axutil manifest /file:<filename>
+  ```
+
     The first command returns the properties of a model. When the /XML parameter is added, this command also generates an XML version of a model manifest.
     
     The following example shows the output of the first command.

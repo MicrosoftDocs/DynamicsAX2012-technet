@@ -23,7 +23,7 @@ You can generate shelf labels for all products or only for released products; fo
 
 The following tasks must be completed before you can generate and print shelf labels:
 
-  - Before you can set up printing for shelf labels, a system administrator must enable menu items for Retail essentials. For more information, see [Enable label printing (Retail essentials)](https://technet.microsoft.com/en-us/library/dn774952\(v=ax.60\)).
+  - Before you can set up printing for shelf labels, a system administrator must enable menu items for Retail essentials. For more information, see Enable label printing (Retail essentials).
 
   - Select options in the **Retail shared parameters** form to specify how labels should be generated for brick-and-mortar stores. (On the area page, under **Channels**, click **Setup** \> **Retail shared parameters**.) For more information about the options in this form, see [Retail shared parameters (form)](https://technet.microsoft.com/en-us/library/hh580625\(v=ax.60\)).
 
@@ -211,7 +211,7 @@ For information about how to create a transfer order, see [Set up transfer order
 
 ## See also
 
-[Enable label printing (Retail essentials)](https://technet.microsoft.com/en-us/library/dn774952\(v=ax.60\))
+Enable label printing (Retail essentials)
 
 [Print product labels (Retail essentials)](print-product-labels-retail-essentials.md)
 
