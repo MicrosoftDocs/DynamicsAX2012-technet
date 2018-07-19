@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a transit tax group to redraw miscellaneous charges to third parties
 TOCTitle: (RUS) Set up a transit tax group to redraw miscellaneous charges to third parties
 ms:assetid: 4cd4d69d-f81e-4537-b0e7-ed08eb043205
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733217(v=AX.60)
 ms:contentKeyID: 49685185
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a transit tax group to redraw miscellaneous charges to third parties 
@@ -36,5 +38,5 @@ Use this procedure to set up a transit tax group so that you can redraw charges 
 [(RUS) Set up a transit account to redraw miscellaneous charges to third parties](rus-set-up-a-transit-account-to-redraw-miscellaneous-charges-to-third-parties.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

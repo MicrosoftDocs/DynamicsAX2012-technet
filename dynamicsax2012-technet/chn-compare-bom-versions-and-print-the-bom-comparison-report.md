@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Compare BOM versions and print the BOM comparison report
 TOCTitle: (CHN) Compare BOM versions and print the BOM comparison report
 ms:assetid: 5ee58cb2-e8e7-40f8-abe7-48ce4f63eb43
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - BOM version
 - BOM comparison
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Compare BOM versions and print the BOM comparison report 
@@ -57,5 +59,5 @@ You can run automatic BOM comparisons from the **BOM comparison** form. You can 
 [(CHN) About BOM comparison](chn-about-bom-comparison.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

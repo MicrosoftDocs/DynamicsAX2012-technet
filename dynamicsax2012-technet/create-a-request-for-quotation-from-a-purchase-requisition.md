@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a request for quotation from a purchase requisition
 TOCTitle: Create a request for quotation from a purchase requisition
 ms:assetid: 9691cc43-d2a7-481a-adc7-7623a8342c5d
@@ -27,6 +27,8 @@ f1_keywords:
 - request for quotations
 - requests for quotation
 - RFQs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a request for quotation from a purchase requisition 
@@ -79,5 +81,5 @@ Use this procedure to create a request for quotation (RFQ) from a purchase requi
 [About requests for quotation](about-requests-for-quotation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

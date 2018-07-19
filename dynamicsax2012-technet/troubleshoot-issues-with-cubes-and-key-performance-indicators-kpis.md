@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot issues with cubes and key performance indicators (KPIs)
 TOCTitle: Troubleshoot issues with cubes and key performance indicators (KPIs)
 ms:assetid: aaadaba3-f3c5-4ebd-b867-95f146347d51
@@ -141,5 +141,5 @@ You can handle these errors in the following ways:
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

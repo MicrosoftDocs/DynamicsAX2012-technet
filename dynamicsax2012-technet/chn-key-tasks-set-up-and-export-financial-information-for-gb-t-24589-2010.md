@@ -1,4 +1,4 @@
-﻿---
+---
 title: '(CHN) Key tasks: Set up and export financial information for GB/T 24589-2010'
 TOCTitle: '(CHN) Key tasks: Set up and export financial information for GB/T 24589-2010'
 ms:assetid: e9cea1b1-7aae-4944-865b-cfd3ba129843
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - CN - 00003
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Key tasks: Set up and export financial information for GB/T 24589-2010 
@@ -84,5 +86,5 @@ Back to top
 Back to top
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

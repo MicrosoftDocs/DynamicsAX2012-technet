@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About ICMS tax fiscal documents
 TOCTitle: (BRA) About ICMS tax fiscal documents
 ms:assetid: 3f09ca91-b028-4de1-8c74-6001cda08b96
@@ -12,6 +12,8 @@ f1_keywords:
 - ICMS tax documents
 - tax documents
 - BR - 00017
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About ICMS tax fiscal documents 
@@ -42,5 +44,5 @@ You can do the following:
 [(BRA) Cancel an ICMS tax fiscal document](bra-cancel-an-icms-tax-fiscal-document.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

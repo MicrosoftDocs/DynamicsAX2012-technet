@@ -1,4 +1,4 @@
-﻿---
+---
 title: View projected forecast transactions
 TOCTitle: View projected forecast transactions
 ms:assetid: c47c1132-8f7f-494c-be4f-acf3743351d7
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - forecast
 - forecast transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # View projected forecast transactions 
@@ -33,5 +35,5 @@ You can view projected inventory transactions that originated from a forecast. Y
 [Supply forecast (form)](https://technet.microsoft.com/en-us/library/aa557710\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

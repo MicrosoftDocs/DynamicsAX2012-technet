@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up advanced bank reconciliation import
 TOCTitle: Set up advanced bank reconciliation import
 ms:assetid: 1950939d-c357-45c0-8b31-b02f6f4310bd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ729751(v=AX.60)
 ms:contentKeyID: 49564917
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up advanced bank reconciliation import 
@@ -98,5 +100,5 @@ In Microsoft Dynamics AX 2012 R2, you can import electronic banks statements and
     For more information, see [AIF inbound ports (form)](https://technet.microsoft.com/en-us/library/hh208821\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

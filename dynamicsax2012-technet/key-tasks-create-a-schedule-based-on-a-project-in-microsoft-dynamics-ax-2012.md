@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012'
 TOCTitle: 'Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012'
 ms:assetid: dd3cb698-22af-4b4f-9264-f68f307344b3
@@ -14,6 +14,8 @@ f1_keywords:
 - soft commitments
 - worker skills
 - resources assignment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012 
@@ -176,5 +178,5 @@ Back to top
 [Key tasks: Assign workers to projects based on availability](key-tasks-assign-workers-to-projects-based-on-availability.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

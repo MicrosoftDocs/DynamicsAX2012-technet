@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post bills of entry for import orders
 TOCTitle: (IND) Post bills of entry for import orders
 ms:assetid: cc4613d7-fd2a-4f94-8f4d-8fe26f91d78d
@@ -12,6 +12,8 @@ f1_keywords:
 - import order
 - bills of entry
 - Post bills
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post bills of entry for import orders 
@@ -66,5 +68,5 @@ You can use the **Bill of entry** form to post a bill of entry and attach the bi
 [(IND) Import invoice number (form)](https://technet.microsoft.com/en-us/library/jj677885\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

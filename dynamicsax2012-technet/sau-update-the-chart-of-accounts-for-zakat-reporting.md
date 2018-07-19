@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Update the chart of accounts for Zakat reporting
 TOCTitle: (SAU) Update the chart of accounts for Zakat reporting
 ms:assetid: 34cb529b-bbf7-4769-8c1c-b24eebdc651f
@@ -10,6 +10,8 @@ f1_keywords:
 - chart of accounts
 - Saudi Arabia
 - Zakat reporting
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) Update the chart of accounts for Zakat reporting 
@@ -46,5 +48,5 @@ Use the **Chart of accounts** form to create, manage, and view your company’s 
 [Chart of accounts (form)](https://technet.microsoft.com/en-us/library/aa618234\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

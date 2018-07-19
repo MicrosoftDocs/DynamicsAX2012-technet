@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Set up the export format for a foreign vendor payment transfer
 TOCTitle: (LTU) Set up the export format for a foreign vendor payment transfer
 ms:assetid: 31feac1c-e42d-408c-bba0-b9ded6ff7655
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665054(v=AX.60)
 ms:contentKeyID: 49386636
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Set up the export format for a foreign vendor payment transfer 
@@ -44,5 +46,5 @@ Users in Lithuania can use the LITAS system to export foreign vendor payments fr
 [(LTU) Vendor methods of payment (modified form)](https://technet.microsoft.com/en-us/library/jj665023\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

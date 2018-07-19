@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Tools and services that support Microsoft Dynamics AX 2012"
 TOCTitle: "What's new: Tools and services that support Microsoft Dynamics AX 2012"
 ms:assetid: c9681f60-8cd3-4b4d-9c43-41f9cfe84e7e
@@ -165,19 +165,9 @@ There are a number of tools and services that support Microsoft Dynamics AX 2012
 <li><p><a href="test-data-transfer-tool-beta-for-microsoft-dynamics-ax-2012.md">Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012</a></p></li>
 </ul></td>
 </tr>
-<tr class="odd">
-<td><p>WebSearchAX</p></td>
-<td><p>Microsoft.com</p></td>
-<td><p>The <a href="http://go.microsoft.com/fwlink/?linkid=194311">WebSearchAX</a> page is available to provide advanced search capabilities for a variety of information about Microsoft Dynamics AX. WebSearchAx searches for Help topics on TechNet and MSDN. WebSearchAx can also search the web for white papers, code samples, and blog entries about Microsoft Dynamics AX.</p>
-<p>For more information, see:</p>
-<ul>
-<li><p><a href="what-s-new-websearchax.md">What's new: WebSearchAX</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh538476(v=ax.60)">Searching for Documentation with WebSearchAx</a></p></li>
-</ul></td>
-</tr>
 </tbody>
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

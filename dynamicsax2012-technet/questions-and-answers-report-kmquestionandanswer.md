@@ -1,4 +1,4 @@
-﻿---
+---
 title: Questions and answers report (KMQuestionandAnswer)
 TOCTitle: Questions and answers report (KMQuestionandAnswer)
 ms:assetid: 92b5e127-3e30-4d06-a7a3-b352c3ef4154
@@ -80,5 +80,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

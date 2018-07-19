@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Set up a method of payment for French checks
 TOCTitle: (FRA) Set up a method of payment for French checks
 ms:assetid: eac726c5-f65f-48de-be3c-3519f1402b6a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243247(v=AX.60)
 ms:contentKeyID: 36059856
 ms.date: 04/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Set up a method of payment for French checks 
@@ -58,5 +60,5 @@ You can click **Print test** in the **Check layout** form to open the **Check la
 [Check layout (form)](https://technet.microsoft.com/en-us/library/aa576973\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

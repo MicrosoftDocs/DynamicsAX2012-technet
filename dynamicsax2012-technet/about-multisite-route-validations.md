@@ -1,4 +1,4 @@
-﻿---
+---
 title: About multisite - route validations
 TOCTitle: About multisite - route validations
 ms:assetid: 6a75211a-3326-4588-b409-315c9db9d1e7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231586(v=AX.60)
 ms:contentKeyID: 36931873
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About multisite - route validations 
@@ -34,5 +36,5 @@ These are the rules that apply for sites on route versions and route lines:
 [About multisite - BOM validations](about-multisite-bom-validations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a custom configuration project and specify base information in RapidStart Services
 TOCTitle: Create a custom configuration project and specify base information in RapidStart Services
 ms:assetid: 0f3ea23e-056c-4045-b230-2a854bcf03a9
@@ -183,5 +183,5 @@ After you provide this base information, you can continue with other tasks that 
 [Create a configuration project by copying another project in RapidStart Services](create-a-configuration-project-by-copying-another-project-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

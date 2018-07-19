@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register and post a replacement postdated check from a customer
 TOCTitle: Register and post a replacement postdated check from a customer
 ms:assetid: 20f182b8-3fb4-47a9-96b3-3b4bc7e3ae5c
@@ -10,6 +10,8 @@ f1_keywords:
 - register
 - post dated checks
 - replacement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register and post a replacement postdated check from a customer 
@@ -76,5 +78,5 @@ You can view the posted postdated checks in the **Customer postdated checks** fo
 [Customer postdated checks (form)](https://technet.microsoft.com/en-us/library/hh227493\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Example: Create a Report with a Group Check Box'
 TOCTitle: 'Example: Create a Report with a Group Check Box'
 ms:assetid: 3acb567c-4933-4584-a6db-bcd092bb556a
@@ -70,5 +70,5 @@ The following code illustrates the contract for the BOMPartOf report.
     ...
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

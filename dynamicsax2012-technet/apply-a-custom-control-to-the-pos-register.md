@@ -1,4 +1,4 @@
-﻿---
+---
 title: Apply a custom control to the POS register
 TOCTitle: Apply a custom control to the POS register
 ms:assetid: ab80594f-e86e-48b5-b325-923ce081aee6
@@ -252,5 +252,5 @@ When you create a custom control on the Retail POS register, you must do the fol
     ![Custom field on POS form](images/Dn741453.POSCustomField_End(en-us,AX.60).png "Custom field on POS form")
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

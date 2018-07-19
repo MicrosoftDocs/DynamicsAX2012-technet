@@ -1,4 +1,4 @@
-﻿---
+---
 title: View training course sessions
 TOCTitle: View training course sessions
 ms:assetid: f822334c-2073-48d1-9a02-99f377450b3f
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - HcmEPCourseSession
+audience: Application User
+ms.search.region: Global
 ---
 
 # View training course sessions 
@@ -50,5 +52,5 @@ Use the **View sessions** page to view the sessions that are associated with a s
 [View hotels associated with a training course](view-hotels-associated-with-a-training-course.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

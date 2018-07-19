@@ -1,4 +1,4 @@
-﻿---
+---
 title: The architecture of Microsoft Dynamics ERP RapidStart Services
 TOCTitle: The architecture of Microsoft Dynamics ERP RapidStart Services
 ms:assetid: f3f885e5-dcd1-4f71-a7d5-28dc462ef74d
@@ -36,5 +36,5 @@ The topics in this section provide an overview of the structure of RapidStart Se
 [The architecture of the Microsoft Dynamics ERP RapidStart Connector](the-architecture-of-the-microsoft-dynamics-erp-rapidstart-connector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

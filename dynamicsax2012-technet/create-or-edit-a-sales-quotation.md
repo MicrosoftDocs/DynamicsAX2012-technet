@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or edit a sales quotation
 TOCTitle: Create or edit a sales quotation
 ms:assetid: da771230-9a09-444f-847e-52dc23291cc0
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPSalesQuotationTableCreate
 - EPSalesQuotationTableEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or edit a sales quotation 
@@ -101,5 +103,5 @@ You can create a sales quotation from either the **Sales quotations** or **Custo
 [Perform a price query](perform-a-price-query.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

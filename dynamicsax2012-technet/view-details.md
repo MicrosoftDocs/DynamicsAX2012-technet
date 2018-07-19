@@ -1,4 +1,4 @@
-﻿---
+---
 title: View details
 TOCTitle: View details
 ms:assetid: 7148e2a2-3cad-4ddf-b2e7-2993ddc59be7
@@ -10,6 +10,8 @@ f1_keywords:
 - Go to main
 - Go to main table
 - Source form
+audience: Application User
+ms.search.region: Global
 ---
 
 # View details 
@@ -32,5 +34,5 @@ Right-click a field in a form, and then click **View details**.
 With your cursor in a field, press CTRL+ALT+F4.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

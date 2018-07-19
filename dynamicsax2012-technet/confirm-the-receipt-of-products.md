@@ -1,4 +1,4 @@
-﻿---
+---
 title: Confirm the receipt of products
 TOCTitle: Confirm the receipt of products
 ms:assetid: 25fdcf0e-6fde-4653-bef3-0a08cf9c6c74
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPPurchCORList
 - EPPurchCORReceive
+audience: Application User
+ms.search.region: Global
 ---
 
 # Confirm the receipt of products 
@@ -43,5 +45,5 @@ When you order a product such as a new office desk, and the purchase is then con
 [Change delivery date for the receipt of products](change-delivery-date-for-the-receipt-of-products.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

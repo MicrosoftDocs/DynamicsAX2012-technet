@@ -1,4 +1,4 @@
-﻿---
+---
 title: About billing code rate scripts (Public sector)
 TOCTitle: About billing code rate scripts (Public sector)
 ms:assetid: f9b1b4e5-e8dd-4fe7-8364-13dcaad266b1
@@ -12,6 +12,8 @@ f1_keywords:
 - calculate rates
 - public sector billing code rate scripts
 - rate scripts
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # About billing code rate scripts (Public sector) 
@@ -124,5 +126,5 @@ A billing code is a set of default values and billing rates that are applied aut
 [Set up billing codes (Public sector)](set-up-billing-codes-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

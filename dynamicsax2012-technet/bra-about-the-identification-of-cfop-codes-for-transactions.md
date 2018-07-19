@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About the identification of CFOP codes for transactions
 TOCTitle: (BRA) About the identification of CFOP codes for transactions
 ms:assetid: da494277-889f-474a-9269-5912f7f1e2a5
@@ -14,6 +14,8 @@ f1_keywords:
 - identification of CFOP codes
 - identify CFOP
 - BR - 00033
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About the identification of CFOP codes for transactions 
@@ -98,5 +100,5 @@ The identification of CFOP codes for a tax fiscal document is based on the direc
 [(BRA) Tax fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710428\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

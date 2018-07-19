@@ -1,4 +1,4 @@
-﻿---
+---
 title: About dimension control for time and attendance
 TOCTitle: About dimension control for time and attendance
 ms:assetid: 549dfaa2-908e-4886-aa1e-c07e70ef85d1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549038(v=AX.60)
 ms:contentKeyID: 36057308
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About dimension control for time and attendance 
@@ -32,5 +34,5 @@ The dimension values are defined either for the worker, or for the selected job.
 [Time and attendance parameters (form)](https://technet.microsoft.com/en-us/library/aa634266\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up performance information
 TOCTitle: Setting up performance information
 ms:assetid: 18696a61-b24c-4112-8f91-da04881df55d
@@ -13,6 +13,8 @@ f1_keywords:
 - Forms.HcmGoalListPage
 - discussion
 - review
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up performance information 
@@ -31,5 +33,5 @@ The topics in this section provide information about performance management in H
 [Create a rating model](create-a-rating-model.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

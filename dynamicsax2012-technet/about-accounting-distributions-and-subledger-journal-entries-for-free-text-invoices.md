@@ -1,4 +1,4 @@
-﻿---
+---
 title: About accounting distributions and subledger journal entries for free text invoices
 TOCTitle: About accounting distributions and subledger journal entries for free text invoices
 ms:assetid: d090ccbc-e6a9-4101-9985-347410f74de0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242919(v=AX.60)
 ms:contentKeyID: 36059489
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About accounting distributions and subledger journal entries for free text invoices 
@@ -65,7 +67,7 @@ When you enter a free text invoice, each amount will be distributed as follows.
 </tr>
 <tr class="even">
 <td><p>Free text invoice line for a fixed asset number and value model combination</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>The main account on the free text invoice line will be the fixed asset disposal account.</P>
@@ -130,5 +132,5 @@ Before you post a free text invoice, you can view the full accounting entry of t
 If the subledger journal entry is incorrect when you preview it before you journalize the free text invoice, you cannot modify the subledger journal entry. Instead, you must modify the accounting distributions or the posting profile. The accounting distributions are used to define one side of the accounting entry, the debit or the credit. The offsetting subledger journal account entry is created from the posting profiles, such as from the customer account or the tax.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

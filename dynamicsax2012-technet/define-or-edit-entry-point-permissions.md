@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define or edit entry point permissions
 TOCTitle: Define or edit entry point permissions
 ms:assetid: 1e558445-467e-41ba-9a2e-54668c9d7ed1
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/define-or-edit-entry-point-permissions/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

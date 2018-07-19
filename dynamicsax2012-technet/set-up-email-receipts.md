@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up email receipts
 TOCTitle: Set up email receipts
 ms:assetid: 68aa9c96-368d-4c1c-b8d0-80063dd8f3fc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597117(v=AX.60)
 ms:contentKeyID: 39519166
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up email receipts 
@@ -82,5 +84,5 @@ Set up default customer receipt options that can be used for customers who are n
 [Customers (form) (Retail)](https://technet.microsoft.com/en-us/library/hh597207\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

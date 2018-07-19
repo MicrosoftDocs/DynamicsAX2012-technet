@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an electronic payment file for customers
 TOCTitle: Create an electronic payment file for customers
 ms:assetid: dffcf26c-fcbc-4047-84ab-c03511f6ce26
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243204(v=AX.60)
 ms:contentKeyID: 36971934
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an electronic payment file for customers 
@@ -54,5 +56,5 @@ The electronic payment files that you can create for customers can have many dif
 [(CAN) Set up IAT ACH file parameters](can-set-up-iat-ach-file-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

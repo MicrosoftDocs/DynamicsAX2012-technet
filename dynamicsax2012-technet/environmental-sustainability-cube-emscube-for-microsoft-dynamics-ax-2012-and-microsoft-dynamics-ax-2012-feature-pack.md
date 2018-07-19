@@ -1,4 +1,4 @@
-﻿---
+---
 title: Environmental sustainability cube (EMSCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Environmental sustainability cube (EMSCube)
 ms:assetid: 7ef4d649-36f0-4267-a9b9-442299c01931
@@ -404,5 +404,5 @@ The Environmental sustainability cube can be accessed by users assigned to the f
   - Environmental manager
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

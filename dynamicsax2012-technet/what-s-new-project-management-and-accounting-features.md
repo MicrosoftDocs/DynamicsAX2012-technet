@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Project management and accounting features"
 TOCTitle: Project management and accounting features
 ms:assetid: 7f974cb1-fe38-4a96-a931-568cc0676ce3
@@ -487,5 +487,5 @@ We have changed and added functionality in the [Project management and accountin
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

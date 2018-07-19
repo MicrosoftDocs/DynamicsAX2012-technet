@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up table links
 TOCTitle: Set up table links
 ms:assetid: b803b6aa-4485-4da0-9cc5-eaf8bf5ec741
@@ -64,5 +64,5 @@ Complete the following procedure to set up table links.
 [Set up action filters for Retail data](set-up-action-filters-for-retail-data.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About NVFAs, working clothes, and special rigging accounting
 TOCTitle: (RUS) About NVFAs, working clothes, and special rigging accounting
 ms:assetid: 153f7a97-f807-4a9f-a246-0b07efa43ab8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853158(v=AX.60)
 ms:contentKeyID: 50396438
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About NVFAs, working clothes, and special rigging accounting 
@@ -42,5 +44,5 @@ After you purchase and register the NVFAs, you can perform the following tasks:
 [(RUS) Generate the NVFA statement of writing-off (No. MB-8) from the Working clothes, Special rigging, or Not valuable FAs forms](rus-generate-the-nvfa-statement-of-writing-off-no-mb-8-from-the-working-clothes-special-rigging-or-not-valuable-fas-forms.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

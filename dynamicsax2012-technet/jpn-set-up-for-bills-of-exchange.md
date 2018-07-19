@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up for bills of exchange
 TOCTitle: (JPN) Set up for bills of exchange
 ms:assetid: 6de3e247-e629-4043-8a70-d615b7558867
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711072(v=AX.60)
 ms:contentKeyID: 49386485
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up for bills of exchange 
@@ -68,5 +70,5 @@ You can use the **Customer posting profiles** form to add a new posting profile,
 [Draw a bill of exchange](draw-a-bill-of-exchange.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Import the Russian address classifier KLADR
 TOCTitle: (RUS) Import the Russian address classifier KLADR
 ms:assetid: 41723630-f8e3-4e10-b644-86eadc76effd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839661(v=AX.60)
 ms:contentKeyID: 50396808
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Import the Russian address classifier KLADR 
@@ -38,5 +40,5 @@ You can import the Russian address classifier (KLADR) together with the address 
 [(RUS) Import of data (form)](https://technet.microsoft.com/en-us/library/jj711541\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

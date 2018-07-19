@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign a screen layout
 TOCTitle: Assign a screen layout
 ms:assetid: 85bf4eda-e70b-4731-a66e-0d5208f8317b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597157(v=AX.60)
 ms:contentKeyID: 39519214
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign a screen layout 
@@ -60,5 +62,5 @@ When Microsoft Dynamics AX for Retail POS starts, it determines which screen lay
 [Design a screen layout](design-a-screen-layout.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

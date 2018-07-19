@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upgrade overview and preparation
 TOCTitle: Upgrade overview and preparation
 ms:assetid: aa0429df-9cf7-4804-b55c-56a52432c5b9
@@ -28,5 +28,5 @@ The following topics are included here.
 [Activate multisite functionality](activate-multisite-functionality.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a price adjustment or discount (Retail essentials)
 TOCTitle: Set up a price adjustment or discount (Retail essentials)
 ms:assetid: dceb8286-54fc-4e1a-9d1e-e29c18520c3e
@@ -96,5 +96,5 @@ To set up price adjustments and discounts, follow these steps:
 Setting up price adjustments and discounts (Retail Essentials)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

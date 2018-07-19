@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create an export order and apply the AA incentive scheme to the export order
 TOCTitle: (IND) Create an export order and apply the AA incentive scheme to the export order
 ms:assetid: d034e62b-2b5e-4826-8ae9-08f5f68e6ee8
@@ -19,6 +19,8 @@ f1_keywords:
 - AA incentive scheme
 - EXIM export order
 - India customs incentive scheme
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create an export order and apply the AA incentive scheme to the export order 
@@ -65,5 +67,5 @@ After you create and post the export sales order, create and post the shipping b
 [(IND) Post a shipping bill for an export sales order](ind-post-a-shipping-bill-for-an-export-sales-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

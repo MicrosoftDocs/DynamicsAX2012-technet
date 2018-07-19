@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up payment methods for an organization (Retail essentials)
 TOCTitle: Set up payment methods for an organization (Retail essentials)
 ms:assetid: 59d4410e-602e-4d9b-91ec-17941c0a4933
@@ -52,5 +52,5 @@ This topic explains how to set up the payment methods that your organization acc
 [Setting up payment methods (Retail essentials)](setting-up-payment-methods-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

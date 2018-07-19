@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with commodity pricing
 TOCTitle: Working with commodity pricing
 ms:assetid: 2f20aad2-fb78-4d43-abda-176b4602249d
@@ -12,6 +12,8 @@ f1_keywords:
 - process industries
 - commodities
 - commodity
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with commodity pricing 
@@ -28,5 +30,5 @@ The topics in this section provide information about how to work with commodity 
 [View results of a commodity pricing batch job](view-results-of-a-commodity-pricing-batch-job.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

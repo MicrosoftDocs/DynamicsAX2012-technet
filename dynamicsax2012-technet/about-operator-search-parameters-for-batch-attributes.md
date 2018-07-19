@@ -1,4 +1,4 @@
-﻿---
+---
 title: About operator search parameters for batch attributes
 TOCTitle: About operator search parameters for batch attributes
 ms:assetid: 60848c41-2214-4697-89f4-3ab8000de06c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209153(v=AX.60)
 ms:contentKeyID: 36057626
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About operator search parameters for batch attributes 
@@ -58,5 +60,5 @@ The following table describes the search parameter operator values:
 [Batch attribute search (form)](https://technet.microsoft.com/en-us/library/hh242819\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

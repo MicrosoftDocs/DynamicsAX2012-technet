@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add, modify, or delete a general budget reservation type (Public sector)
 TOCTitle: Add, modify, or delete a general budget reservation type (Public sector)
 ms:assetid: 27c09e0b-d5aa-4ae9-a0f2-ff1234e4c0a8
@@ -17,6 +17,8 @@ f1_keywords:
 - general budget reservation types
 - reservation type
 - reservation types
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Add, modify, or delete a general budget reservation type (Public sector) 
@@ -81,5 +83,5 @@ To delete to a reservation type, as long as it is not being used by an active ge
 [Set up general budget reservation rules and reservation types (Public sector)](set-up-general-budget-reservation-rules-and-reservation-types-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

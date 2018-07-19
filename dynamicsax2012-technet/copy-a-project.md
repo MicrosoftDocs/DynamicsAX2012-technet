@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy a project
 TOCTitle: Copy a project
 ms:assetid: 00873109-02a3-4921-804d-318aa1c56ca5
@@ -10,6 +10,8 @@ f1_keywords:
 - ProjTableWizard
 - copy project
 - project copy
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy a project 
@@ -50,5 +52,5 @@ Use the **Project Copy Wizard** to copy a project or a project tree hierarchy.
 [View project details](view-project-details.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

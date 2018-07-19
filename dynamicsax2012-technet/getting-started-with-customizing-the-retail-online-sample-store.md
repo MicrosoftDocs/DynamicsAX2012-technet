@@ -1,4 +1,4 @@
-﻿---
+---
 title: Getting started with customizing the Retail online sample store
 TOCTitle: Getting started with customizing the Retail online sample store
 ms:assetid: 78860e27-5f80-4b97-a529-460403e021d6
@@ -141,5 +141,5 @@ For more information about each component and the data elements that are include
 [Retail SDK](retail-sdk.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

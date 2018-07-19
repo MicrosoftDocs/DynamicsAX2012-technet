@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up keyboard mapping and mapping groups (Retail essentials)
 TOCTitle: Set up keyboard mapping and mapping groups (Retail essentials)
 ms:assetid: 1282a565-7b4b-4059-b15b-f3925ac3512f
@@ -58,5 +58,5 @@ After you set up a keyboard mapping group, you can assign it to a point-of-sale 
 [Setting up Retail POS (Retail essentials)](setting-up-retail-pos-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

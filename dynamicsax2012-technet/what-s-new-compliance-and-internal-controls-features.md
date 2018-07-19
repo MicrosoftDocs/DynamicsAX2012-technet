@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Compliance and internal controls features"
 TOCTitle: Compliance and internal controls features
 ms:assetid: dff297c8-2d29-405f-af69-c4a43a69c697
@@ -126,5 +126,5 @@ We have changed and added functionality in the [Compliance and internal controls
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

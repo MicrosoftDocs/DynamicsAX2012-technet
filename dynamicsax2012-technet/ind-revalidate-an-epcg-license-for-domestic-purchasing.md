@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Revalidate an EPCG license for domestic purchasing
 TOCTitle: (IND) Revalidate an EPCG license for domestic purchasing
 ms:assetid: 4f063203-c9e1-40b1-97dd-809c61cf8c4e
@@ -11,6 +11,8 @@ f1_keywords:
 - EPCG license
 - revalidate
 - Revalidate EPCG license
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Revalidate an EPCG license for domestic purchasing 
@@ -63,5 +65,5 @@ In the **EXIM EPCG Schemes** form, on the **Lines** FastTab, the status for the 
 [(IND) Revalidation details (form)](https://technet.microsoft.com/en-us/library/jj710940\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

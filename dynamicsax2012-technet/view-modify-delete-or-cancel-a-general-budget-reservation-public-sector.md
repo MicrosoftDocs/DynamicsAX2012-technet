@@ -1,4 +1,4 @@
-﻿---
+---
 title: View, modify, delete, or cancel a general budget reservation (Public sector)
 TOCTitle: View, modify, delete, or cancel a general budget reservation (Public sector)
 ms:assetid: aa9220f9-5e69-4cd4-a3f1-2bd98cf480ea
@@ -24,6 +24,8 @@ f1_keywords:
 - general budget reservation cancellation
 - general budget reservation deletion
 - general budget reservation changes
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # View, modify, delete, or cancel a general budget reservation (Public sector) 
@@ -132,5 +134,5 @@ Use this procedure to cancel a general budget reservation that has been posted. 
 [Create a general budget reservation (Public sector)](create-a-general-budget-reservation-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

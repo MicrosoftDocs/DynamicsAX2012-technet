@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a Real-time Service profile
 TOCTitle: Set up a Real-time Service profile
 ms:assetid: 4abdd0b8-813d-4216-8bae-0b66de66e5d3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580631(v=AX.60)
 ms:contentKeyID: 39519122
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a Real-time Service profile 
@@ -140,5 +142,5 @@ For more information about how to set up a POS register, see [Set up registers](
 [POS registers (form)](https://technet.microsoft.com/en-us/library/hh597141\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

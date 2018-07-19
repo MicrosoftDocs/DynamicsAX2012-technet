@@ -1,4 +1,4 @@
-﻿---
+---
 title: About synchronization of customer information
 TOCTitle: About synchronization of customer information
 ms:assetid: c58145ef-e77d-4e56-b974-fa91bc747d2b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550753(v=AX.60)
 ms:contentKeyID: 36059300
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About synchronization of customer information 
@@ -27,5 +29,5 @@ You can always change the value in these synchronization fields. However, you ca
 The best practice is to enable the **Customer information** field on the intercompany purchase order. This enables synchronization between the original sales order and the intercompany purchase order and from the intercompany purchase order to the intercompany sales order.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

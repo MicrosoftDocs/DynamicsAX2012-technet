@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Payment slip report (Giro)
 TOCTitle: (SWE) Payment slip report (Giro)
 ms:assetid: faf80324-1c14-4df5-aeef-ef25595ec428
@@ -112,5 +112,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(SWE) Bankgirot OCR (SE) report (CustInPaymSE)](swe-bankgirot-ocr-se-report-custinpaymse.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

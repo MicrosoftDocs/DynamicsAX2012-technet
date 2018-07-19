@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) About RB/SL depreciation
 TOCTitle: (FRA) About RB/SL depreciation
 ms:assetid: 821e4927-89f8-46c4-8d11-82e8f8ffcd77
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571558(v=AX.60)
 ms:contentKeyID: 36058364
 ms.date: 04/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) About RB/SL depreciation 
@@ -99,5 +101,5 @@ For example, a fixed asset with an acquisition price is placed into service on F
 [Create a depreciation profile](create-a-depreciation-profile.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

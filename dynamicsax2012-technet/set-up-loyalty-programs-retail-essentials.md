@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up loyalty programs (Retail essentials)
 TOCTitle: Set up loyalty programs (Retail essentials)
 ms:assetid: 3b12a1b8-6ae6-4736-81c5-54e83937404f
@@ -223,5 +223,5 @@ To set up loyalty programs, follow these steps.
 13. To view all transactions for loyalty cards that are assigned to this loyalty program, at the top of the form, click **Loyalty card transactions.**
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

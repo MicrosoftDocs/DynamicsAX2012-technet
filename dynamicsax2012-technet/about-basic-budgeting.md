@@ -1,4 +1,4 @@
-﻿---
+---
 title: About basic budgeting
 TOCTitle: About basic budgeting
 ms:assetid: 57dea2ae-d1f4-42d2-8276-2ab28dee4781
@@ -13,6 +13,8 @@ f1_keywords:
 - budgeting workflows
 - financial dimensions for budgeting
 - basic budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # About basic budgeting 
@@ -81,5 +83,5 @@ Before you use basic budgeting, complete the steps that are described in the fol
   - Optional: [Set up budget allocation terms](set-up-budget-allocation-terms.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

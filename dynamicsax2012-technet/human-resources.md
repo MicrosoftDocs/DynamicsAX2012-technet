@@ -1,4 +1,4 @@
-﻿---
+---
 title: Human resources
 TOCTitle: Human resources
 ms:assetid: 04f7dd62-a26e-437e-8d99-a85b3dbeec1b
@@ -12,6 +12,8 @@ f1_keywords:
 - human capital
 - human capital management
 - human resources
+audience: Application User
+ms.search.region: Global
 ---
 
 # Human resources 
@@ -20,8 +22,7 @@ f1_keywords:
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
 
@@ -125,5 +126,5 @@ Human resources can be integrated with the following modules and Microsoft progr
 [Set up number sequences for Human resources](set-up-number-sequences-for-human-resources.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

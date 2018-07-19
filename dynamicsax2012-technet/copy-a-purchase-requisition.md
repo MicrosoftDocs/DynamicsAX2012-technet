@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy a purchase requisition
 TOCTitle: Copy a purchase requisition
 ms:assetid: 464e2460-bb9f-4bf3-a993-c1331472949b
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - PurchReqCopyLines
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy a purchase requisition 
@@ -50,5 +52,5 @@ If the requisition purpose is consumption and if you copy lines that reference a
 [View workflow history for a purchase requisition](view-workflow-history-for-a-purchase-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

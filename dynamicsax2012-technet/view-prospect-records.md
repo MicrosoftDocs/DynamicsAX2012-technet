@@ -1,4 +1,4 @@
-﻿---
+---
 title: View prospect records
 TOCTitle: View prospect records
 ms:assetid: 95db2122-c989-4e2f-9b10-7bcb866e42c1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - smmBusRel
 - smmBusRelOverview
+audience: Application User
+ms.search.region: Global
 ---
 
 # View prospect records 
@@ -27,5 +29,5 @@ Use the **Prospects** page to view a list of prospective customers. You can also
 [Create or modify a prospect record](create-or-modify-a-prospect-record.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

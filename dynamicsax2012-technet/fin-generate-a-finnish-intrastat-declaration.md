@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FIN) Generate a Finnish Intrastat declaration
 TOCTitle: (FIN) Generate a Finnish Intrastat declaration
 ms:assetid: 984fe965-37bc-4c34-9812-8c6d2c8a2c4c
@@ -10,6 +10,8 @@ f1_keywords:
 - declaration
 - Intrastat
 - Finland
+audience: Application User
+ms.search.region: Finland
 ---
 
 # (FIN) Generate a Finnish Intrastat declaration 
@@ -88,5 +90,5 @@ Use this procedure to generate the Intrastat declaration. If you selected the **
 [(FIN) Make diskette for Intrastat in Finnish layout (class form)](https://technet.microsoft.com/en-us/library/hh209641\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

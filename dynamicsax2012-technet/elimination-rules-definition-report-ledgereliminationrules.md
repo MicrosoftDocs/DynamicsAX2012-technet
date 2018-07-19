@@ -1,4 +1,4 @@
-﻿---
+---
 title: Elimination rules definition report (LedgerEliminationRules)
 TOCTitle: Elimination rules definition report (LedgerEliminationRules)
 ms:assetid: 3e212dde-92ea-446e-93d9-4526d462e634
@@ -96,5 +96,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Elimination rules for transactions](elimination-rules-for-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

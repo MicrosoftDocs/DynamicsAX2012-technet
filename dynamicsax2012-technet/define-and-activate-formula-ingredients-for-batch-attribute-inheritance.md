@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define and activate formula ingredients for batch attribute inheritance
 TOCTitle: Define and activate formula ingredients for batch attribute inheritance
 ms:assetid: a92bb607-fccb-403a-9d40-625467f77d05
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838745(v=AX.60)
 ms:contentKeyID: 50120628
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define and activate formula ingredients for batch attribute inheritance 
@@ -114,5 +116,5 @@ You can review the formula ingredients and batch attributes that are associated 
 [(PM) Batch attribute selection (form)](https://technet.microsoft.com/en-us/library/jj838761\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

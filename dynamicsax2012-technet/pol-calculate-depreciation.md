@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Calculate depreciation
 TOCTitle: (POL) Calculate depreciation
 ms:assetid: 96d8ce8c-9d33-42ca-b19a-7e523e55577f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730409(v=AX.60)
 ms:contentKeyID: 49636328
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Calculate depreciation 
@@ -50,5 +52,5 @@ Depreciation for all fixed assets can be calculated and posted in one single ope
 [(POL) Set up depreciation of fixed assets](pol-set-up-depreciation-of-fixed-assets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

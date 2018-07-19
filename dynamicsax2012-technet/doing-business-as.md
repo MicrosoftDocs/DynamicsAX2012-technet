@@ -1,4 +1,4 @@
-﻿---
+---
 title: " doing business as"
 TOCTitle: " doing business as"
 ms:assetid: DynamicsAXGlossary.1499672
@@ -21,5 +21,5 @@ The assumed, fictitious name under which an organization is registered in the Un
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

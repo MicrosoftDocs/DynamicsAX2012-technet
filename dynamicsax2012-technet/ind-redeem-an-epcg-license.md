@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Redeem an EPCG license
 TOCTitle: (IND) Redeem an EPCG license
 ms:assetid: 9c1b5acc-5657-469f-ba28-38540d72d100
@@ -12,6 +12,8 @@ f1_keywords:
 - EPCG license
 - redeem
 - Redeem EPCG license
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Redeem an EPCG license 
@@ -46,5 +48,5 @@ In the **EXIM EPCG Schemes** list, the status of the EPCG license is **Redeemed*
 [(IND) EXIM EPCG schemes (form)](https://technet.microsoft.com/en-us/library/jj677817\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

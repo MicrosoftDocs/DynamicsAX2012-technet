@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set prices in a catalog
 TOCTitle: Set prices in a catalog
 ms:assetid: 7aa79e99-7ad7-4bad-9be9-6577bdde0c61
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497791(v=AX.60)
 ms:contentKeyID: 62200102
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set prices in a catalog 
@@ -110,5 +112,5 @@ To set prices in a catalog, complete the following tasks in this order:
 [About setting prices by using price groups](about-setting-prices-by-using-price-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set company to open on startup
 TOCTitle: Set company to open on startup
 ms:assetid: e337c278-2e1b-4587-ab24-230662c0e65d
@@ -29,5 +29,5 @@ You can configure one or more Microsoft Dynamics AX clients to open in a specifi
 [Manage a client configuration](manage-a-client-configuration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

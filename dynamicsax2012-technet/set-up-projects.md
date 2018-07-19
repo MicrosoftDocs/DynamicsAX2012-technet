@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up projects
 TOCTitle: Set up projects
 ms:assetid: 8d15d031-d548-4fb3-9598-87712f35be27
@@ -8,6 +8,8 @@ ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
 - project setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up projects 
@@ -32,5 +34,5 @@ The following topics provide information about setting up projects.
 [Identify and assign qualified workers to projects](identify-and-assign-qualified-workers-to-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up miscellaneous charges for sales orders
 TOCTitle: (IND) Set up miscellaneous charges for sales orders
 ms:assetid: b7fb2e01-f04e-4f0d-b6de-2d211968e4db
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664832(v=AX.60)
 ms:contentKeyID: 49386162
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up miscellaneous charges for sales orders 
@@ -60,5 +62,5 @@ The following procedure shows how to set up miscellaneous charges for sales orde
 [(IND) Auto charges (modified form)](https://technet.microsoft.com/en-us/library/jj664811\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

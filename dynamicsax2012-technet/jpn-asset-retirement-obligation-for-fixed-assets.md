@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Asset retirement obligation for fixed assets
 TOCTitle: (JPN) Asset retirement obligation for fixed assets
 ms:assetid: 6c8a91fb-481a-442a-b18e-e1b288ffc8f4
@@ -15,6 +15,8 @@ f1_keywords:
 - Asset retirement obligation
 - Retirement
 - MsDynAx060.Forms.AssetRetirementObligation_JP
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Asset retirement obligation for fixed assets 
@@ -79,5 +81,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [(JPN) Fixed asset depreciation](jpn-fixed-asset-depreciation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

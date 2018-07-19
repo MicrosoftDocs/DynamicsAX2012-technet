@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up budgeting and budget control for apportionments (Public sector)
 TOCTitle: Set up budgeting and budget control for apportionments (Public sector)
 ms:assetid: 2ace20d3-6775-4120-9132-50af75c8e57c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - apportionment budget transactions
 - transactions for budget apportionments
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Set up budgeting and budget control for apportionments (Public sector) 
@@ -61,5 +63,5 @@ For more information, see [Define budget codes](define-budget-codes.md).
 After you define budget codes for basic budgeting and configure budget control for apportionments, you can create budget register entries for the original budget and apportionment budget types. For more information, see [Create budget register entries (Public sector)](create-budget-register-entries-public-sector.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

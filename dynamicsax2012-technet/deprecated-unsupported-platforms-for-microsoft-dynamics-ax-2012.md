@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Unsupported platforms for Microsoft Dynamics AX 2012'
 TOCTitle: Unsupported platforms for Microsoft Dynamics AX 2012
 ms:assetid: e14258a1-fc96-424f-af18-92d82fadfeab
@@ -156,5 +156,5 @@ The Visual Studio Tools for Microsoft Dynamics AX combine all the developer tool
 [Microsoft Dynamics AX 2012 System Requirements](http://www.microsoft.com/en-us/download/details.aspx?id=11094)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

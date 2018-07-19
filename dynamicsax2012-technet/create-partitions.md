@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create partitions
 TOCTitle: Create partitions
 ms:assetid: eec691f3-ebc8-4420-9fb9-c011f1d56837
@@ -40,5 +40,5 @@ Data partitions enable isolation of data. By default, an installation of Microso
 [Plan for data partitioning](plan-for-data-partitioning.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

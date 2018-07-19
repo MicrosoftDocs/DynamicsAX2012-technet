@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: LedgerTable form and table'
 TOCTitle: LedgerTable form and table
 ms:assetid: 94a06d39-815a-4359-97a4-992222eac13a
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009 and earlier versions, the LedgerTable form and tab
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up discount periods
 TOCTitle: Set up discount periods
 ms:assetid: 49db3819-d47f-4a60-a494-8616ee224a5d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580630(v=AX.60)
 ms:contentKeyID: 39519121
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up discount periods 
@@ -52,5 +54,5 @@ A discount period defines the period during which a price adjustment or discount
 [About price adjustments and discounts](about-price-adjustments-and-discounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

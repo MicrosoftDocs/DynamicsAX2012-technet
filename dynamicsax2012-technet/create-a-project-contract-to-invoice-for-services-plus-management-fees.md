@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a project contract to invoice for services plus management fees
 TOCTitle: Create a project contract to invoice for services plus management fees
 ms:assetid: 17ca1dee-54e5-4f11-b864-26c978027029
@@ -14,6 +14,8 @@ f1_keywords:
 - services plus a management fee
 - time & material
 - time and material
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a project contract to invoice for services plus management fees 
@@ -141,5 +143,5 @@ After you have created the contract and the associated project, use this procedu
 [About project groups](about-project-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create service task relations
 TOCTitle: Create service task relations
 ms:assetid: 587dc0d0-a7a3-44ed-89c0-efc69cac6811
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549069(v=AX.60)
 ms:contentKeyID: 36057342
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create service task relations 
@@ -58,5 +60,5 @@ Service task relations that are created on a service order are available on the 
 [Create service tasks](create-service-tasks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Reverse TDS payments and post the payment journal
 TOCTitle: (IND) Reverse TDS payments and post the payment journal
 ms:assetid: 11449c7d-d5a6-412d-8e5f-7000f7d94b5d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664492(v=AX.60)
 ms:contentKeyID: 49385571
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Reverse TDS payments and post the payment journal 
@@ -72,5 +74,5 @@ A payment journal is automatically created in the **Deposit slip payment cancell
 [(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

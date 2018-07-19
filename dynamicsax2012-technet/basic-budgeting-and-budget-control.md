@@ -1,4 +1,4 @@
-﻿---
+---
 title: Basic budgeting and budget control
 TOCTitle: Basic budgeting and budget control
 ms:assetid: 17762183-292d-4320-aacf-2958d992ff4b
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - setting up and maintain budgeting
+audience: Application User
+ms.search.region: Global
 ---
 
 # Basic budgeting and budget control 
@@ -26,5 +28,5 @@ The following topics provide information about basic budgeting and budget contro
 [Working with basic budgeting and budget control](working-with-basic-budgeting-and-budget-control.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

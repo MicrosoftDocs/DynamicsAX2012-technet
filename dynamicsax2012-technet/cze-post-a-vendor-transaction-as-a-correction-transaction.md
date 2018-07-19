@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Post a vendor transaction as a correction transaction
 TOCTitle: (CZE) Post a vendor transaction as a correction transaction
 ms:assetid: 4a993df8-b5b5-4496-a5dc-6db07c7e1612
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677520(v=AX.60)
 ms:contentKeyID: 49384825
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Post a vendor transaction as a correction transaction 
@@ -85,5 +87,5 @@ You can create ledger transactions for a summary account and an arrival account 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up human resources parameters
 TOCTitle: Set up human resources parameters
 ms:assetid: 12c9e324-d565-41f8-b4eb-6633e1db3c86
@@ -12,6 +12,8 @@ f1_keywords:
 - compensation parameters
 - Interview number sequences
 - Recruitment parameters
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up human resources parameters 
@@ -84,5 +86,5 @@ Use the **Human resources parameters** form to set up parameters that are specif
 [Number sequences (list page)](https://technet.microsoft.com/en-us/library/aa600321\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

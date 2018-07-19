@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Checklist: Configure Analysis Services and deploy cubes'
 TOCTitle: 'Checklist: Configure Analysis Services and deploy cubes'
 ms:assetid: adec63f7-107a-478d-96a6-3beeab12af58
@@ -48,7 +48,7 @@ To configure Microsoft SQL Server Analysis Services for use with Microsoft Dynam
 <li><p>Verify that information about exchange rates has been entered.</p></li>
 <li><p>Deploy the default cubes that are included with Microsoft Dynamics AX.</p></li>
 <li><p>Update the data source for online analytical processing (OLAP) if your Analysis Services database is not named <em>Dynamics AX</em>.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If you are using Microsoft Dynamics AX 2012 R2 or later, this step does not apply to you.</P>
@@ -75,5 +75,5 @@ To configure Microsoft SQL Server Analysis Services for use with Microsoft Dynam
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import Search configurations to an AOS
 TOCTitle: Import Search configurations to an AOS
 ms:assetid: e44a9235-9a03-446b-9bee-494abf6631ff
@@ -46,5 +46,5 @@ The AOS instance in the production environment is now configured for Search. To 
 [Checklist: Deploy Microsoft Dynamics AX Enterprise Search](checklist-deploy-microsoft-dynamics-ax-enterprise-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

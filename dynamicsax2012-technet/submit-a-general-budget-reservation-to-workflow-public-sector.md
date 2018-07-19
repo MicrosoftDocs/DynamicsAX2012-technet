@@ -1,4 +1,4 @@
-﻿---
+---
 title: Submit a general budget reservation to workflow (Public sector)
 TOCTitle: Submit a general budget reservation to workflow (Public sector)
 ms:assetid: 9bff8da6-86ef-4ac4-82d0-5665f77ac139
@@ -18,6 +18,8 @@ f1_keywords:
 - general budget reservation workflow
 - budget reservation workflow submittal
 - general budget reservation workflow submittal
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Submit a general budget reservation to workflow (Public sector) 
@@ -64,5 +66,5 @@ To submit a general budget reservation to workflow, follow these steps.
 [Create a general budget reservation (Public sector)](create-a-general-budget-reservation-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

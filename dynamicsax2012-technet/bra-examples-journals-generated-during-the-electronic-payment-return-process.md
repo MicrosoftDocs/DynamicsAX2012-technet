@@ -1,4 +1,4 @@
-﻿---
+---
 title: '(BRA) Examples: Journals generated during the electronic payment return process'
 TOCTitle: '(BRA) Examples: Journals generated during the electronic payment return process'
 ms:assetid: 1498434d-1540-4e1b-bcbd-d1319f8af656
@@ -10,6 +10,8 @@ f1_keywords:
 - payment journal
 - electronic payment
 - return file
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Examples: Journals generated during the electronic payment return process 
@@ -240,5 +242,5 @@ When you post the approved payment lines, the three payment lines are posted to 
 [(BRA) Return occurrence codes (form)](https://technet.microsoft.com/en-us/library/jj730966\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

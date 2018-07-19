@@ -1,4 +1,4 @@
-﻿---
+---
 title: Role Center pages
 TOCTitle: Role Center pages
 ms:assetid: 9b478386-029c-4934-8890-068af7c4c130
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPRoleCenterPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Role Center pages 
@@ -28,5 +30,5 @@ For more information about how to use and personalize Role Centers, see [Role Ce
 [Site home pages](site-home-pages.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

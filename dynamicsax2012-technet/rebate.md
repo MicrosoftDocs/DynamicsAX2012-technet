@@ -1,4 +1,4 @@
-﻿---
+---
 title: " rebate"
 TOCTitle: " rebate"
 ms:assetid: DynamicsAXGlossary.1499677
@@ -23,5 +23,5 @@ A refund of an amount after the full amount has been paid.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

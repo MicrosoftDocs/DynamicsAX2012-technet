@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Enterprise Portal sites and navigation
 TOCTitle: About Enterprise Portal sites and navigation
 ms:assetid: 422c7df7-76fe-4cc5-b491-e93bafa316bc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242375(v=AX.60)
 ms:contentKeyID: 36056869
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Enterprise Portal sites and navigation 
@@ -66,5 +68,5 @@ If you have access to multiple companies that are set up in Microsoft Dynamics A
 You can use the **\<User name\>** menu in the upper-right corner of the page to access user-specific options. You can also use the **Personalize this Page** option to change your personal view of a page. For more information about these options, see the SharePoint documentation.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

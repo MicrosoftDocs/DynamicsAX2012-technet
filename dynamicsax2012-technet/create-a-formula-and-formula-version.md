@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a formula and formula version
 TOCTitle: Create a formula and formula version
 ms:assetid: 2c2e3b3d-f087-453e-a74b-413fdbcb2f2f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352191(v=AX.60)
 ms:contentKeyID: 36687824
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a formula and formula version 
@@ -72,5 +74,5 @@ When you create a new formula, it can have one or many versions. Each formula ve
 [Formula line (form)](https://technet.microsoft.com/en-us/library/hh352331\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

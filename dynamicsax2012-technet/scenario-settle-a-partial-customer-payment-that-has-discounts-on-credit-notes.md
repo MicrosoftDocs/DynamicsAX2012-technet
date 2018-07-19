@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Settle a partial customer payment that has discounts on credit notes'
 TOCTitle: 'Scenario: Settle a partial customer payment that has discounts on credit notes'
 ms:assetid: 3de1a679-f764-4f7d-abdc-31c03d9b5195
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545518(v=AX.60)
 ms:contentKeyID: 37832498
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Settle a partial customer payment that has discounts on credit notes 
@@ -182,5 +184,5 @@ The settlement will be 100.00, and will include a payment of 99.00 and a discoun
 [Scenario: Use one customer payment to settle multiple invoices that span multiple discount periods](scenario-use-one-customer-payment-to-settle-multiple-invoices-that-span-multiple-discount-periods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

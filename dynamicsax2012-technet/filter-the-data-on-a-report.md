@@ -1,4 +1,4 @@
-﻿---
+---
 title: Filter the data on a report
 TOCTitle: Filter the data on a report
 ms:assetid: bac81e73-3299-495c-981f-fe159323b91b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724098(v=AX.60)
 ms:contentKeyID: 35133457
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Filter the data on a report 
@@ -54,5 +56,5 @@ By filtering the data that is displayed on a report, you can view only the data 
 [Print or email a report](print-or-email-a-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Specify Role Center web site
 TOCTitle: Specify Role Center web site
 ms:assetid: 0b1fa8d4-f7f4-4306-b100-1ac9751cb5a1
@@ -34,5 +34,5 @@ Use this information to specify which web site will host the Role Centers.
 [Administration of web sites (form)](https://technet.microsoft.com/en-us/library/aa500124\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

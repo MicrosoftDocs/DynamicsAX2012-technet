@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Virtual company scenarios: Retail'
 TOCTitle: 'Virtual company scenarios: Retail'
 ms:assetid: 6643c91f-47e3-43e7-8074-abb169f29da6
@@ -60,5 +60,5 @@ Include the following tables in a table collection to support sharing loyalty sc
   - RetailLoyaltySchemesTable
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

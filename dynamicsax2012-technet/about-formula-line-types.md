@@ -1,4 +1,4 @@
-﻿---
+---
 title: About formula line types
 TOCTitle: About formula line types
 ms:assetid: 6fda4eea-d452-4b8d-8cf0-d4394a5a5502
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352209(v=AX.60)
 ms:contentKeyID: 36687843
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About formula line types 
@@ -32,7 +34,7 @@ When you create a formula line, you use the line type to indicate how you want t
 <tr class="odd">
 <td><p><strong>Phantom</strong></p></td>
 <td><p>Select <strong>Phantom</strong> when you want to explode any lower-level formula items that are contained in formula lines. When you estimate the batch order and the formula items are exploded, the component items are listed as formula lines in the batch order. Also, the corresponding routes are added to the production route. Formula items are exploded using the current configuration. When you use the phantom line type, you can handle production and measurement configurations that occur at different formula levels.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If you select <STRONG>Phantom</STRONG> for a product on the <STRONG>Engineer</STRONG> FastTab in the <STRONG>Released product details</STRONG> form and then use this product in a formula, the formula line type changes to <STRONG>Phantom</STRONG>. You cannot select <STRONG>Phantom</STRONG> for a catch weight item or for items where the production type is <STRONG>Co-product</STRONG>, <STRONG>By-product</STRONG>, or <STRONG>Planning item</STRONG>.</P>
@@ -63,5 +65,5 @@ When you create a formula line, you use the line type to indicate how you want t
 [(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

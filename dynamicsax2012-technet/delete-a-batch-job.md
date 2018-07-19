@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete a batch job
 TOCTitle: Delete a batch job
 ms:assetid: 52acf8ba-d0b7-4677-8bab-12b0e2913cdb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548919(v=AX.60)
 ms:contentKeyID: 36057289
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete a batch job 
@@ -38,5 +40,5 @@ This article describes how to delete batch jobs that you no longer want to run.
     For example, to delete all jobs that have ended, for **Field** select **Status**, for **Criteria**, select **Ended**, and then click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

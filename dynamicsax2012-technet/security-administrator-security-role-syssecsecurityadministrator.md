@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security administrator security role (SysSecSecurityAdministrator)
 TOCTitle: Security administrator security role (SysSecSecurityAdministrator)
 ms:assetid: 68292c92-ad3d-4e94-9885-e189054e9b71
@@ -42,5 +42,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

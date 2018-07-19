@@ -1,4 +1,4 @@
-﻿---
+---
 title: About straight line service life depreciation
 TOCTitle: About straight line service life depreciation
 ms:assetid: fe3a0dc6-c74d-4303-b886-9d924c31a6b2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573443(v=AX.60)
 ms:contentKeyID: 36060113
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About straight line service life depreciation 
@@ -210,5 +212,5 @@ The service life of the acquisition adjustment is the same as that of the fixed 
 [Key tasks: Fiscal calendars, fiscal years, and periods](key-tasks-fiscal-calendars-fiscal-years-and-periods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

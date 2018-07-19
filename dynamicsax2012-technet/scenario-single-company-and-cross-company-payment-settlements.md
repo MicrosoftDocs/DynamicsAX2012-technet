@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Single-company and cross-company payment settlements'
 TOCTitle: 'Scenario: Single-company and cross-company payment settlements'
 ms:assetid: 6effec68-65ad-4fba-b682-dc930b45ef26
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231813(v=AX.60)
 ms:contentKeyID: 36655931
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Single-company and cross-company payment settlements 
@@ -146,5 +148,5 @@ You must set up intercompany accounting posting accounts between the legal entit
 [About cross-company payment settlements](about-cross-company-payment-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

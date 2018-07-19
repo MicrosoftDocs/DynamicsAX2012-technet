@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up staff
 TOCTitle: Setting up staff
 ms:assetid: eb9a663f-3d04-4625-8349-6d88a3301e33
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - staff
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up staff 
@@ -26,5 +28,5 @@ The topics in this section provide information about how to set up retail worker
 [Set up Enterprise Portal profiles and users](set-up-enterprise-portal-profiles-and-users.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

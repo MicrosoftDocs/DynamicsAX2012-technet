@@ -1,4 +1,4 @@
-﻿---
+---
 title: Example of a costing sheet setup
 TOCTitle: Example of a costing sheet setup
 ms:assetid: b960f3c5-4789-41a5-b380-d69c42b92d2a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213582(v=AX.60)
 ms:contentKeyID: 36059117
 ms.date: 08/15/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Example of a costing sheet setup 
@@ -24,5 +26,5 @@ This white paper describes the setup of the costing sheet and the additional ele
 [About cost groups](about-cost-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

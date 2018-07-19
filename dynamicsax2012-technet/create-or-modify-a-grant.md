@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify a grant
 TOCTitle: Create or modify a grant
 ms:assetid: 6d72a050-52d3-43f8-a6df-aeed35a4914b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242638(v=AX.60)
 ms:contentKeyID: 36058029
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify a grant 
@@ -73,7 +75,7 @@ You can create a grant by entering all of the details into a new record, or you 
     <li><p><strong>Add project contract</strong> – Add or update project contract information. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa586038(v=ax.60)">Project contracts (form)</a>.</p></li>
     <li><p><strong>Add project</strong> – Add or update project details. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa585245(v=ax.60)">Projects (form)</a>.</p></li>
     </ul>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>You can enter information on this FastTab only if the <STRONG>Grant status</STRONG> field on the <STRONG>General</STRONG> FastTab is set to <STRONG>Active</STRONG> or <STRONG>Awarded</STRONG>.</P>
@@ -138,5 +140,5 @@ You can create a grant by entering all of the details into a new record, or you 
 [Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

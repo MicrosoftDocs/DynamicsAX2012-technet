@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use alerts to monitor Microsoft Dynamics AX
 TOCTitle: Use alerts
 ms:assetid: f2cb2bc9-a909-4b3d-afe9-3fb1442cca95
@@ -54,5 +54,5 @@ Several alert systems are available to help you monitor Microsoft Dynamics AX an
 [Plan maintenance of Microsoft Dynamics AX](plan-maintenance-of-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

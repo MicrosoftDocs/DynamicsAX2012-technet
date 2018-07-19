@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Set up asset depreciation books
 TOCTitle: (EEUR) Set up asset depreciation books
 ms:assetid: 091aa6e5-3d5e-431a-b0fd-3187fb67946e
@@ -11,6 +11,8 @@ f1_keywords:
 - asset depreciation
 - depreciation books
 - set up depreciation
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Set up asset depreciation books 
@@ -43,5 +45,5 @@ Use the **Depreciation books** form to set up depreciation books, which are used
 [(EEUR) About rounding off depreciation amounts](eeur-about-rounding-off-depreciation-amounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts receivable reports
 TOCTitle: Accounts receivable reports
 ms:assetid: 6b077790-65af-4468-9264-0a228167a8d4
@@ -196,5 +196,5 @@ The following reports are available in the **Accounts receivable** module of Mic
 [(POL) Customer advance invoices journal report (CustAdvanceInvoiceJour)](pol-customer-advance-invoices-journal-report-custadvanceinvoicejour.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Opportunity management
 TOCTitle: Opportunity management
 ms:assetid: 161d463c-4722-4553-8578-dadbbc72b172
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230953(v=AX.60)
 ms:contentKeyID: 36056067
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Opportunity management 
@@ -22,5 +24,5 @@ When you manage your opportunities, you can also assign probability percentages 
 As soon as you provide quotations and the contact at the opportunity makes a decision, you can track whether you won the opportunity and why you won it. If you lose the opportunity, you can track why you lost it and to whom you lost it. This information can be useful later.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

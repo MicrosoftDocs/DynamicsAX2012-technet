@@ -1,4 +1,4 @@
-﻿---
+---
 title: About configurable items
 TOCTitle: About configurable items
 ms:assetid: 2ef8ef20-5ba5-4ba4-8c09-473cb0531042
@@ -10,6 +10,8 @@ f1_keywords:
 - product builder
 - configure items
 - configurable
+audience: Application User
+ms.search.region: Global
 ---
 
 # About configurable items 
@@ -53,5 +55,5 @@ This section provides information about items that can be configured in the **Pr
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

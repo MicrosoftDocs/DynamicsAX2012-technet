@@ -1,4 +1,4 @@
-﻿---
+---
 title: Web-based timecard
 TOCTitle: Web-based timecard
 ms:assetid: 931dd617-6ae2-45ed-9ed0-1bfdb066c5de
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498386(v=AX.60)
 ms:contentKeyID: 36384228
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Web-based timecard 
@@ -32,5 +34,5 @@ Fill out electronic timecard
 [About time registration workers](about-time-registration-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

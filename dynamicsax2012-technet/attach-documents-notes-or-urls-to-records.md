@@ -1,4 +1,4 @@
-﻿---
+---
 title: Attach documents, notes, or URLs  to records
 TOCTitle: Attach documents, notes, or URLs  to records
 ms:assetid: 95ba8a38-aea4-4192-aa4b-23e4f0ef9a20
@@ -13,6 +13,8 @@ f1_keywords:
 - EPDocuNoteAdd
 - EPDocuURLAdd
 - EPSendDocument
+audience: Application User
+ms.search.region: Global
 ---
 
 # Attach documents, notes, or URLs to records 
@@ -59,5 +61,5 @@ If you receive an error, the document type may not be defined in the Microsoft D
 [About attachments](about-attachments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

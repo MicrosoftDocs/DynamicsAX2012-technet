@@ -1,4 +1,4 @@
-﻿---
+---
 title: " IntelliSense"
 TOCTitle: " IntelliSense"
 ms:assetid: DynamicsAXGlossary.583814
@@ -21,5 +21,5 @@ A feature of an integrated development environment (IDE) that provides logical c
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

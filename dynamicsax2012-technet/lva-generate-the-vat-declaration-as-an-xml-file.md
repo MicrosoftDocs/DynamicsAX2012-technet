@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Generate the VAT declaration as an XML file
 TOCTitle: (LVA) Generate the VAT declaration as an XML file
 ms:assetid: a75a6b16-5cf3-4017-b4c0-531bedaf92bc
@@ -14,6 +14,8 @@ f1_keywords:
 - Forms.Dialog
 - sales tax payments
 - VAT declaration
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Generate the VAT declaration as an XML file 
@@ -167,5 +169,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Vendor balance by vendor group (China) (report)
 TOCTitle: (CHN) Vendor balance by vendor group (China) (report)
 ms:assetid: f693d052-5dbe-453a-91e5-45d2d4532500
@@ -112,5 +112,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

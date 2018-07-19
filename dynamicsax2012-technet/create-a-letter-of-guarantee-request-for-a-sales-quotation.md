@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a letter of guarantee request for a sales quotation
 TOCTitle: Create a letter of guarantee request for a sales quotation
 ms:assetid: 218e1615-c3c7-4b7d-bd55-8547868c1221
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Create the letter of guarantee request for a sales quotation
 - Letter of guarantee request for a sales quotation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a letter of guarantee request for a sales quotation 
@@ -55,5 +57,5 @@ You can request a letter of guarantee for a customer using the **Sales quotation
 [Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

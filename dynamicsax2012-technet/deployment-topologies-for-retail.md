@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deployment topologies for Retail
 TOCTitle: Deployment topologies for Retail
 ms:assetid: eda17d27-a0e0-4117-92a9-6a7e52f1b917
@@ -262,5 +262,5 @@ Figure 5 Shared hosting of online store components
 [Create a store database or an offline database (AX 2012 R2 and AX 2012 Feature Pack)](create-a-store-database-or-an-offline-database-ax-2012-r2-and-ax-2012-feature-pack.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

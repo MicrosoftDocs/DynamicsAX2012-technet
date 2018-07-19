@@ -1,4 +1,4 @@
-﻿---
+---
 title: (AUS) Set up a method of payment to pay vendors through Australian banks
 TOCTitle: (AUS) Set up a method of payment to pay vendors through Australian banks
 ms:assetid: ff6b1e28-f0d5-4a92-95d4-ac3a1e31a6d1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ944963(v=AX.60)
 ms:contentKeyID: 51412457
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Australia
 ---
 
 # (AUS) Set up a method of payment to pay vendors through Australian banks 
@@ -85,5 +87,5 @@ Use the **Methods of payment - vendors** form to set up a method of payment that
 [Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure an AOS instance as a batch server
 TOCTitle: Configure an AOS instance as a batch server
 ms:assetid: 74687f8d-fd55-4a99-bea9-835655905fb4
@@ -50,5 +50,5 @@ When you set up a batch server, you can specify the times that the server is ava
 [Batch server overview](batch-server-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

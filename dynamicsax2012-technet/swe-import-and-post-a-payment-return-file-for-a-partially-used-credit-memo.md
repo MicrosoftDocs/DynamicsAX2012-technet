@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Import and post a payment return file for a partially used credit memo
 TOCTitle: (SWE) Import and post a payment return file for a partially used credit memo
 ms:assetid: 8589284e-6bbd-4f2a-aed9-927994372bcb
@@ -11,6 +11,8 @@ f1_keywords:
 - Bankgirot
 - credit memo
 - payment return
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Import and post a payment return file for a partially used credit memo 
@@ -45,5 +47,5 @@ You can settle partially-used credit memos that have a remaining balance that is
 [(SWE) Generate and transfer a Bankgiro payment file for a partially used credit memo](swe-generate-and-transfer-a-bankgiro-payment-file-for-a-partially-used-credit-memo.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

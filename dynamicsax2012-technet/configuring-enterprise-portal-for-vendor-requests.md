@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring Enterprise Portal for vendor requests
 TOCTitle: Configuring Enterprise Portal for vendor requests
 ms:assetid: fd6b06a0-6bb7-49f5-9717-ae40a1f7d327
@@ -10,6 +10,8 @@ f1_keywords:
 - vendor request
 - enterprise portal
 - vendor requests
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring Enterprise Portal for vendor requests 
@@ -42,5 +44,5 @@ The following topics provide information about how to configure vendor requests 
 [Define and maintain the disallowed vendors list](define-and-maintain-the-disallowed-vendors-list.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

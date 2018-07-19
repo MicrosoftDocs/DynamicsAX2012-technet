@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up profit calculation
 TOCTitle: About setting up profit calculation
 ms:assetid: 462757ec-3704-4c77-977d-7236745f01f3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416703(v=AX.60)
 ms:contentKeyID: 36931870
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up profit calculation 
@@ -42,5 +44,5 @@ If you choose to calculate profit based on the gross margin ratio in the **Proje
 [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

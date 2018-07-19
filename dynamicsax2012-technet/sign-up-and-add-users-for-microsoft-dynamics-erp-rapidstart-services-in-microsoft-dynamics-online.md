@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sign up and add users for Microsoft Dynamics ERP RapidStart Services in Microsoft Dynamics Online
 TOCTitle: Sign up and add users for Microsoft Dynamics ERP RapidStart Services in Microsoft Dynamics Online
 ms:assetid: 35388bdf-754a-4649-90c9-70f602bdfa6e
@@ -39,5 +39,5 @@ The following topics help you activate your partner account in online services, 
 [Add users and assign roles in RapidStart Services](add-users-and-assign-roles-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

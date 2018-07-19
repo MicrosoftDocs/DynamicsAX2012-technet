@@ -1,4 +1,4 @@
-﻿---
+---
 title: On-account invoice schedule report (ProjOnAccountInvoicePlan)
 TOCTitle: On-account invoice schedule report (ProjOnAccountInvoicePlan)
 ms:assetid: 98fb1054-9eba-40f2-a9b8-a470f4ad38b7
@@ -148,5 +148,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

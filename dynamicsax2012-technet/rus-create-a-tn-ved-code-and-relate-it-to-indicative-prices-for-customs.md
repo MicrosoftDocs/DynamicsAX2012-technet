@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a TN VED code and relate it to indicative prices for customs
 TOCTitle: (RUS) Create a TN VED code and relate it to indicative prices for customs
 ms:assetid: 994f5b96-865c-4be8-825c-7e7cd4228c88
@@ -11,6 +11,8 @@ f1_keywords:
 - customs duty
 - indicative prices
 - TNVED code
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a TN VED code and relate it to indicative prices for customs 
@@ -63,5 +65,5 @@ Use the **TN VED codes** form to create a Commodities Classification Code of the
 [(RUS) Indicative prices of TN VED (form)](https://technet.microsoft.com/en-us/library/jj711361\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Specify default settings for arrival overview
 TOCTitle: Specify default settings for arrival overview
 ms:assetid: bf1616c4-9756-40de-9838-80119c24d2d6
@@ -11,6 +11,8 @@ f1_keywords:
 - arrival overview setup
 - set up arrival overview
 - arrival overview defaults
+audience: Application User
+ms.search.region: Global
 ---
 
 # Specify default settings for arrival overview 
@@ -45,5 +47,5 @@ Settings in **Setup** tab and **Range** settings on the **Overview** tab are sav
 [Using inventory journals](using-inventory-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

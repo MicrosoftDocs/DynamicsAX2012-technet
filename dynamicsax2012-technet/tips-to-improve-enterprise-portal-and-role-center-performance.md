@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tips to improve Enterprise Portal and Role Center performance
 TOCTitle: Tips to improve Enterprise Portal and Role Center performance
 ms:assetid: 9706f027-2356-4f1e-817d-030421234f3d
@@ -108,5 +108,5 @@ If Role Center pages take a long time to load, you might be able to improve perf
 [Optimize performance](optimize-performance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

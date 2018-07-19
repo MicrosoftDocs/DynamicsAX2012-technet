@@ -1,4 +1,4 @@
-﻿---
+---
 title: About hour registration
 TOCTitle: About hour registration
 ms:assetid: 3183d12a-88a8-4e85-9da1-ff65e0ae4dbf
@@ -11,6 +11,8 @@ f1_keywords:
 - journal approval
 - journal setup
 - register hours
+audience: Application User
+ms.search.region: Global
 ---
 
 # About hour registration 
@@ -63,5 +65,5 @@ The following parameters must be defined in the **Journals** area in the **Proje
 [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

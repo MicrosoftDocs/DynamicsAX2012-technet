@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work schedule and leave tasks
 TOCTitle: Work schedule and leave tasks
 ms:assetid: 4e4b241d-04fc-4e73-bdc0-b18442fac70a
@@ -21,6 +21,8 @@ f1_keywords:
 - medical leave
 - work calendars
 - work schedules
+audience: Application User
+ms.search.region: USA
 ---
 
 # Work schedule and leave tasks 
@@ -336,5 +338,5 @@ Back to top
 [Worker and position payroll tasks](worker-and-position-payroll-tasks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

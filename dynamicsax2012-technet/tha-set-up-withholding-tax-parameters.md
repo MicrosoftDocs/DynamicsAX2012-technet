@@ -1,4 +1,4 @@
-﻿---
+---
 title: (THA) Set up withholding tax parameters
 TOCTitle: (THA) Set up withholding tax parameters
 ms:assetid: 6826cff0-fd92-4d12-b9a6-364eeef77beb
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Thailand
 - withholding tax
+audience: Application User
+ms.search.region: Thailand
 ---
 
 # (THA) Set up withholding tax parameters 
@@ -39,5 +41,5 @@ All businesses in Thailand are required to calculate withholding taxes for servi
 [General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

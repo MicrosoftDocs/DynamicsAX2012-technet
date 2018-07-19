@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Accounts payable reports
 TOCTitle: (CHN) Accounts payable reports
 ms:assetid: d75717e0-c0f4-447b-a3f5-288ed0b489ca
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664125(v=AX.60)
 ms:contentKeyID: 49384710
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Accounts payable reports 
@@ -629,5 +631,5 @@ If the **Display foreign currency** check box is selected, the report displays f
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

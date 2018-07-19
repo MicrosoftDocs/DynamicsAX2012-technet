@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select inventory batches for an active ingredient in a batch order
 TOCTitle: Select inventory batches for an active ingredient in a batch order
 ms:assetid: 14b055b1-6f66-41ec-b6c7-a7d4033c572d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838723(v=AX.60)
 ms:contentKeyID: 50120606
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select inventory batches for an active ingredient in a batch order 
@@ -42,5 +44,5 @@ Use this procedure to select inventory batches for the active ingredients in a b
 [Define an active ingredient in a formula line](define-an-active-ingredient-in-a-formula-line.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

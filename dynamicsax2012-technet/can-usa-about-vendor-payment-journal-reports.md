@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CAN, USA) About vendor payment journal reports
 TOCTitle: (CAN, USA) About vendor payment journal reports
 ms:assetid: 53e2b3b0-1017-43cb-9363-ad4d1638142f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548929(v=AX.60)
 ms:contentKeyID: 36057301
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Canada
 ---
 
 # (CAN, USA) About vendor payment journal reports 
@@ -40,5 +42,5 @@ When you print a **Vendor posted payment journal** report, it does not include a
 [About prepayments and prepayment journal vouchers](about-prepayments-and-prepayment-journal-vouchers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

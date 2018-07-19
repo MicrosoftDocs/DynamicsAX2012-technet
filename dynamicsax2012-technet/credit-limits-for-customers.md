@@ -1,4 +1,4 @@
-﻿---
+---
 title: Credit limits for customers
 TOCTitle: Credit limits for customers
 ms:assetid: 51bf672e-e965-4dad-b5cf-46395d685aa9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ155667(v=AX.60)
 ms:contentKeyID: 47574347
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Credit limits for customers 
@@ -211,5 +213,5 @@ Sometimes, you might have to manually check a customer’s credit limit. For exa
 [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

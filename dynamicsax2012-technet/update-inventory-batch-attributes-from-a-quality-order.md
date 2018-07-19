@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update inventory batch attributes from a quality order
 TOCTitle: Update inventory batch attributes from a quality order
 ms:assetid: 45e656e4-0574-491e-9902-fcd79b3389d7
@@ -11,6 +11,8 @@ f1_keywords:
 - quality orders
 - update batch attributes
 - update inventory batch attributes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update inventory batch attributes from a quality order 
@@ -45,5 +47,5 @@ Use this procedure to update one or multiple inventory batch attributes. The upd
 [Quality orders (form)](https://technet.microsoft.com/en-us/library/hh209521\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Specify when a bank account is active or inactive
 TOCTitle: Specify when a bank account is active or inactive
 ms:assetid: 13009da8-c44c-4c9c-9e5f-cada126b1ea7
@@ -12,6 +12,8 @@ f1_keywords:
 - deactivate
 - inactivate
 - inactive
+audience: Application User
+ms.search.region: Global
 ---
 
 # Specify when a bank account is active or inactive 
@@ -60,5 +62,5 @@ Follow these steps to inactivate a bank account for all or only new transactions
 [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

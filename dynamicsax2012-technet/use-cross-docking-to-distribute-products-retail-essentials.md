@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use cross docking to distribute products (Retail essentials)
 TOCTitle: Use cross docking to distribute products (Retail essentials)
 ms:assetid: b495a47d-7f05-4509-ab1f-3a627a5af34a
@@ -52,5 +52,5 @@ To distribute products by using cross-docking, follow these steps:
 [Set up replenishment rules (Retail essentials)](set-up-replenishment-rules-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

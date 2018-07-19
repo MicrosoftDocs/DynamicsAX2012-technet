@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage KPIs
 TOCTitle: Manage KPIs
 ms:assetid: 9a0eb18c-9639-4b5a-ab91-deac75a283ce
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677301(v=AX.60)
 ms:contentKeyID: 49384072
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage KPIs 
@@ -102,5 +104,5 @@ To modify a KPI that is displayed in a KPI List web part, follow these steps.
 3.  To modify the KPI, follow steps 2 through 10 of the previous procedure.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

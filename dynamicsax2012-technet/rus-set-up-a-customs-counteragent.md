@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a customs counteragent
 TOCTitle: (RUS) Set up a customs counteragent
 ms:assetid: a196d3af-4564-440e-a7ea-5e753f6a4e51
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733263(v=AX.60)
 ms:contentKeyID: 49685230
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a customs counteragent 
@@ -54,5 +56,5 @@ In the **Acquit method** field, you can specify an acquit method. The acquit met
 [(RUS) Customs counteragents (form)](https://technet.microsoft.com/en-us/library/jj733233\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

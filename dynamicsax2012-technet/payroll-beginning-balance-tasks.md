@@ -1,4 +1,4 @@
-﻿---
+---
 title: Payroll beginning balance tasks
 TOCTitle: Payroll beginning balance tasks
 ms:assetid: 858d1dbf-9e4e-4787-9036-c9e1c6a8c289
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - payroll
 - beginning balances
+audience: Application User
+ms.search.region: USA
 ---
 
 # Payroll beginning balance tasks 
@@ -398,5 +400,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Set up item posting by site
 TOCTitle: (CHN) Set up item posting by site
 ms:assetid: 046d2892-3a9c-409a-94f0-f6fd883656e8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663989(v=AX.60)
 ms:contentKeyID: 49384576
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Set up item posting by site 
@@ -124,5 +126,5 @@ Use this procedure to set up a ledger account number to post site-specific produ
 [(CHN) Item posting (modified form)](https://technet.microsoft.com/en-us/library/jj664026\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

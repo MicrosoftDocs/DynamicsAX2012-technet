@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up buttons
 TOCTitle: Set up buttons
 ms:assetid: 10010c45-370c-4ed4-99b0-365265018aae
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580570(v=AX.60)
 ms:contentKeyID: 39519048
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up buttons 
@@ -72,5 +74,5 @@ You can customize various properties of individual buttons, such as the text, co
 [About setting up screen layouts](about-setting-up-screen-layouts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

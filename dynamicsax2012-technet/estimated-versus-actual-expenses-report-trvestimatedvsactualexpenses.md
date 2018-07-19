@@ -1,4 +1,4 @@
-﻿---
+---
 title: Estimated versus actual expenses report (TrvEstimatedVsActualExpenses)
 TOCTitle: Estimated versus actual expenses report (TrvEstimatedVsActualExpenses)
 ms:assetid: 22011d2b-8bb8-465d-b9f4-3338ac7a1eb5
@@ -110,5 +110,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

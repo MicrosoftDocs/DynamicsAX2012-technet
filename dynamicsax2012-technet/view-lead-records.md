@@ -1,4 +1,4 @@
-﻿---
+---
 title: View lead records
 TOCTitle: View lead records
 ms:assetid: f5d3f36f-5fa9-4525-b04e-bcb24f9d2f68
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - smmEPLeadInfo
 - smmLeads
+audience: Application User
+ms.search.region: Global
 ---
 
 # View lead records 
@@ -27,5 +29,5 @@ You can use the **Leads** pages to view a list of lead records and see details a
 [Create or modify a lead record](create-or-modify-a-lead-record.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

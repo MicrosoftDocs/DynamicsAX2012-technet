@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up receipt profiles (Retail essentials)
 TOCTitle: Set up receipt profiles (Retail essentials)
 ms:assetid: 78cb4bd5-e0fb-4e40-8d34-79b01770421c
@@ -58,5 +58,5 @@ The receipt profile that you select in a hardware profile assigns a set of recei
 [Setting up Retail POS (Retail essentials)](setting-up-retail-pos-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

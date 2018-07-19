@@ -1,4 +1,4 @@
-﻿---
+---
 title: Procurement categories configuration key (ProcCategory)
 TOCTitle: Procurement categories configuration key (ProcCategory)
 ms:assetid: 8cd7b6fd-b1fb-4e59-ab20-10adda5dc3b2
@@ -101,5 +101,5 @@ For more information about how license codes and configuration keys work togethe
 [Category hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh227389\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

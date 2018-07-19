@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customize page layouts
 TOCTitle: Customize page layouts
 ms:assetid: aa55e648-cb03-41e7-a961-0748cbd726bf
@@ -88,5 +88,5 @@ This topic shows you how to customize a page layout by updating the starter stor
 [How to: Create a page layout in SharePoint Server 2013](http://msdn.microsoft.com/en-us/library/jj822368.aspx)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

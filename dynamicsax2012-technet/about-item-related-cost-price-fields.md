@@ -1,4 +1,4 @@
-﻿---
+---
 title: About item-related cost price fields
 TOCTitle: About item-related cost price fields
 ms:assetid: 3b04590f-433a-4872-a1e2-eb90872b78fb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh694708(v=AX.60)
 ms:contentKeyID: 42117753
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About item-related cost price fields 
@@ -74,5 +76,5 @@ The following table explains how the amounts in the item-related cost price fiel
 [Configuring cost prices, sales prices, and transfer prices](configuring-cost-prices-sales-prices-and-transfer-prices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

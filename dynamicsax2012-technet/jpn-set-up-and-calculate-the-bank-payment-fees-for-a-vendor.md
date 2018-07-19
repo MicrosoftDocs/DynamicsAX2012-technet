@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up and calculate the bank payment fees for a vendor
 TOCTitle: (JPN) Set up and calculate the bank payment fees for a vendor
 ms:assetid: a1c51150-2032-4083-877f-30b30ae02ea0
@@ -13,6 +13,8 @@ f1_keywords:
 - Forms.LedgerJournalTable
 - Forms.VendTable
 - Forms.PaymFeeBankRule_JP
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up and calculate the bank payment fees for a vendor 
@@ -199,5 +201,5 @@ To create a payment journal, follow these steps:
 [(JPN) Bank payment fees for vendors](jpn-bank-payment-fees-for-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

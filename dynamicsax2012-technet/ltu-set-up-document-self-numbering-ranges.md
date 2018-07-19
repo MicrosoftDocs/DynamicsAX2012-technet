@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Set up document self-numbering ranges
 TOCTitle: (LTU) Set up document self-numbering ranges
 ms:assetid: bc3767a6-b98c-4679-976d-74fec54200c5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665174(v=AX.60)
 ms:contentKeyID: 49386755
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Set up document self-numbering ranges 
@@ -54,5 +56,5 @@ You can also number invoices and packing slips manually. When you enter document
 9.  Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

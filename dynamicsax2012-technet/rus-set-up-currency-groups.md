@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up currency groups
 TOCTitle: (RUS) Set up currency groups
 ms:assetid: 89a30540-9326-49f6-91c9-5eabfc6a14d1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.RTSLCurrencyRuleGroup
 - MsDynAx060.Forms.RTSLCurrencyRuleGroup
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up currency groups 
@@ -77,5 +79,5 @@ Set up currency groups to specify rules to convert currency from the source comp
 [(RUS) Currency groups (form)](https://technet.microsoft.com/en-us/library/jj665220\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

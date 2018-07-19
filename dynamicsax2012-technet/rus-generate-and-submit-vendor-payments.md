@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate and submit vendor payments
 TOCTitle: (RUS) Generate and submit vendor payments
 ms:assetid: 324352dd-210f-4fe9-91b4-f53964ad3bca
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665256(v=AX.60)
 ms:contentKeyID: 49387345
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate and submit vendor payments 
@@ -28,5 +30,5 @@ The following topics provide information about generating and submitting vendor 
 [(RUS) Generate vendor payments for a currency conversion or transfer](rus-generate-vendor-payments-for-a-currency-conversion-or-transfer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

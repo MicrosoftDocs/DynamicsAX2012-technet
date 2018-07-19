@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up adjustment codes to use to adjust IPI amounts
 TOCTitle: (BRA) Set up adjustment codes to use to adjust IPI amounts
 ms:assetid: 08fa2ce2-f90b-4e31-89a9-4fd4c04a54a8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.FBGeneralAdjustmentCodeIPI_BR
 - MsDynAx060.Forms.FBGeneralAdjustmentCodeIPI_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up adjustment codes to use to adjust IPI amounts 
@@ -39,5 +41,5 @@ In a Sistema Publico de Escrituração Digital (SPED) fiscal text file, record E
 6.  To create another adjustment code, click **New**, and then repeat steps 2 through 5.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

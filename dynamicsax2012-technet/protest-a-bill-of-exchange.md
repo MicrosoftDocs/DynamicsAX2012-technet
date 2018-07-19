@@ -1,4 +1,4 @@
-﻿---
+---
 title: Protest a bill of exchange
 TOCTitle: Protest a bill of exchange
 ms:assetid: b983dd16-a00d-427a-a40f-0c1c4045b8f6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498849(v=AX.60)
 ms:contentKeyID: 37822157
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Protest a bill of exchange 
@@ -98,5 +100,5 @@ A bill of exchange that has been closed cannot be protested.
 [Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/en-us/library/aa553272\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

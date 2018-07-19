@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a cash due announcement transaction
 TOCTitle: (RUS) Create a cash due announcement transaction
 ms:assetid: c9c8afe9-954b-4262-871f-503cda54ef30
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711596(v=AX.60)
 ms:contentKeyID: 49387920
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a cash due announcement transaction 
@@ -60,5 +62,5 @@ The cash due announcement allows you to export the cash due announcement report 
 [(RUS) Set up a cash due announcement](rus-set-up-a-cash-due-announcement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

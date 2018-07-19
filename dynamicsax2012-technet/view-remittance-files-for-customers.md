@@ -1,4 +1,4 @@
-﻿---
+---
 title: View remittance files for customers
 TOCTitle: View remittance files for customers
 ms:assetid: 6a90c4a1-872b-4439-8ffb-e59d04549cef
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231774(v=AX.60)
 ms:contentKeyID: 37822145
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View remittance files for customers 
@@ -28,5 +30,5 @@ You can view remittance files that were created by using a bill of exchange remi
 [Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/en-us/library/aa553272\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

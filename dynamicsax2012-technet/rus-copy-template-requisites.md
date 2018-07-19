@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Copy template requisites
 TOCTitle: (RUS) Copy template requisites
 ms:assetid: c20c80b7-a138-4e90-a625-58d93776b42a
@@ -11,6 +11,8 @@ f1_keywords:
 - template
 - copy requisites
 - template requisites
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Copy template requisites 
@@ -41,5 +43,5 @@ Use the **Copy from template** form to copy document template settings from an e
 [(RUS) Set up templates for electronic reporting](rus-set-up-templates-for-electronic-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

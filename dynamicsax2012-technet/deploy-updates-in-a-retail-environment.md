@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy updates in a retail environment
 TOCTitle: Deploy updates in a retail environment
 ms:assetid: eaecf1b3-93dd-4211-97e3-6552441ef014
@@ -384,5 +384,5 @@ Install Retail Modern POS by slipstreaming AX 2012 R3 CU8 with AxSetup.exe. For 
 [Synchronize a new table or field with retail databases](synchronize-a-new-table-or-field-with-retail-databases.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

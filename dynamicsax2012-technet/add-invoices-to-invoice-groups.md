@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add invoices to invoice groups
 TOCTitle: Add invoices to invoice groups
 ms:assetid: bd9b8868-b6e0-4792-b7f1-134c3eda27c4
@@ -11,6 +11,8 @@ f1_keywords:
 - public sector
 - invoice
 - invoice groups
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add invoices to invoice groups 
@@ -55,5 +57,5 @@ You can add invoices to an invoice group so that you can find and update invoice
 [Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

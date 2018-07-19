@@ -1,4 +1,4 @@
-﻿---
+---
 title: View service repair lines
 TOCTitle: View service repair lines
 ms:assetid: 6d8bebf5-1a64-4262-8913-dd8c867a3659
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPServiceRepairLineInfo
 - EPServiceRepairLineList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View service repair lines 
@@ -35,5 +37,5 @@ Service repair lines record the repair process for the service objects that are 
 [View service orders](view-service-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

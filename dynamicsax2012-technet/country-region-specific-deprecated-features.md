@@ -1,4 +1,4 @@
-﻿---
+---
 title: Country/region-specific deprecated features
 TOCTitle: Country/region-specific deprecated features
 ms:assetid: 9b96f855-c664-4ccc-af93-eb0fa0e6cb8f
@@ -126,5 +126,5 @@ The topics in this section describe country/region-specific features that have b
 [Deprecated: (THA) Sales tax payment features](deprecated-tha-sales-tax-payment-features.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

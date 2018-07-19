@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Generate a cash disbursement slip
 TOCTitle: (LTU) Generate a cash disbursement slip
 ms:assetid: fa149ca1-211b-469b-aec5-7b9094527027
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678103(v=AX.60)
 ms:contentKeyID: 49386827
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Generate a cash disbursement slip 
@@ -58,5 +60,5 @@ The cash book is used to track all company cash transactions. The book can be pr
 18. Click the **Print** \> **Cash order** menu item to print the cash document, and then click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

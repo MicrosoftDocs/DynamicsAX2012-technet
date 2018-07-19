@@ -1,4 +1,4 @@
-﻿---
+---
 title: Creating credit notes
 TOCTitle: Creating credit notes
 ms:assetid: cb032267-97fa-484c-8855-788ec5d73cbc
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - credit note
+audience: Application User
+ms.search.region: Global
 ---
 
 # Creating credit notes 
@@ -22,5 +24,5 @@ The following topics provide information about creating credit notes.
 [Credit invoiced amounts in projects](credit-invoiced-amounts-in-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

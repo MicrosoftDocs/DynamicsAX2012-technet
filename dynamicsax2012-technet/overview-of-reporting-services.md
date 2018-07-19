@@ -1,4 +1,4 @@
-﻿---
+---
 title: Overview of Reporting Services
 TOCTitle: Overview of Reporting Services
 ms:assetid: 38f68dc5-b863-44bf-b913-a640bb3a9cfd
@@ -85,5 +85,5 @@ The following picture shows Report Builder in design mode.
 ![Report Builder](images/Gg731920.BI_ReportBuilderUsingCube(AX.60).png "Report Builder")
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

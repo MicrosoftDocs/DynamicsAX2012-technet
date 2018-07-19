@@ -1,4 +1,4 @@
-﻿---
+---
 title: S
 TOCTitle: S
 ms:assetid: DynamicsAXGlossary.S
@@ -163,5 +163,5 @@ mtps_version: v=AX.60
 [system-defined financial dimension type](system-defined-financial-dimension-type.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

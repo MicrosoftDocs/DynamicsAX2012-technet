@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an expression requisite type
 TOCTitle: (RUS) Set up an expression requisite type
 ms:assetid: c642f32e-7d8e-487c-be91-fa82094b62a1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - requisite
 - expression
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an expression requisite type 
@@ -53,5 +55,5 @@ Use the **Queries** and **Fixed requisites** forms to set up a requisite for the
 [(RUS) Set up a fixed requisite](rus-set-up-a-fixed-requisite.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Help content at an alternative location
 TOCTitle: Install Help content at an alternative location
 ms:assetid: 51d9dc28-1b6d-4949-adbc-055d0d6db756
@@ -48,5 +48,5 @@ The Microsoft Dynamics AX setup utility installs Help server files at C:\\inetpu
 11. To trigger indexing of the new folder, click **Start** \> **Administrative Tools** \> **Services**, and then restart the Windows Search Service. The Help system should work correctly after indexing is completed.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

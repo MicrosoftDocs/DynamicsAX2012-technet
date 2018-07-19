@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Working with Inventory and warehouse management
 TOCTitle: (LTU) Working with Inventory and warehouse management
 ms:assetid: ba40991d-e830-43a3-8d41-5ab89dbd0a0b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665172(v=AX.60)
 ms:contentKeyID: 49386753
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Working with Inventory and warehouse management 
@@ -22,5 +24,5 @@ This section provides information about working with the Inventory and warehouse
 [(LTU) Warehouse operations overview](ltu-warehouse-operations-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

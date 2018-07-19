@@ -1,4 +1,4 @@
-﻿---
+---
 title: About signing limits
 TOCTitle: About signing limits
 ms:assetid: 9f3d1376-d969-45a9-a958-0cfe33d36cf9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271613(v=AX.60)
 ms:contentKeyID: 36384245
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About signing limits 
@@ -82,5 +84,5 @@ The **Open agreement** period that is defined for Prakash’s spending limit is 
 [Maintain signing limit requests for your workers](maintain-signing-limit-requests-for-your-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About category hierarchies
 TOCTitle: About category hierarchies
 ms:assetid: 986653ff-6db6-4eaf-9eb6-b907015a4890
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - category hierarchy
 - procurement category
+audience: Application User
+ms.search.region: Global
 ---
 
 # About category hierarchies 
@@ -51,7 +53,7 @@ The following table lists the available category hierarchy types and the general
 <tr class="even">
 <td><p><strong>Derived financial hierarchy</strong></p></td>
 <td><p>Use for organizing financial categories that can be derived from financial dimensions.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
@@ -178,5 +180,5 @@ Refer to the following table to help you decide whether to use category hierarch
 [Procurement categories (form)](https://technet.microsoft.com/en-us/library/hh227365\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

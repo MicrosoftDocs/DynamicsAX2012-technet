@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select campaign targets
 TOCTitle: Select campaign targets
 ms:assetid: 9a5cdd84-6f0d-49f6-ad7f-b8bababa463f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498455(v=AX.60)
 ms:contentKeyID: 36058705
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select campaign targets 
@@ -36,5 +38,5 @@ You select recipients by creating queries that filter for the combination of con
 [Combine queries for campaign targets](combine-queries-for-campaign-targets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

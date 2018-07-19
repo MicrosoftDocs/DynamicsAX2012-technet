@@ -1,4 +1,4 @@
-﻿---
+---
 title: View released products
 TOCTitle: View released products
 ms:assetid: 0625a4ef-f2d6-45e1-abb7-f766e6530f01
@@ -8,6 +8,8 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPInventTableList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View released products 
@@ -52,5 +54,5 @@ From the **Released products** page you can move to view more details about sele
 [About attachments](about-attachments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Run a batch job to check the continuity of voucher numbers
 TOCTitle: (CHN) Run a batch job to check the continuity of voucher numbers
 ms:assetid: 965d45f1-b80b-4cd5-9681-3dd5cd8ff013
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664081(v=AX.60)
 ms:contentKeyID: 49384665
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Run a batch job to check the continuity of voucher numbers 
@@ -32,5 +34,5 @@ You can use the **Chinese voucher continuity check** form to run a batch job tha
 5.  Click **OK** to renumber the Chinese vouchers for continuity.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

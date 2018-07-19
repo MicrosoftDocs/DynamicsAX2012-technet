@@ -1,4 +1,4 @@
-﻿---
+---
 title: Euro configuration key (CurrencyEuro)
 TOCTitle: Euro configuration key (CurrencyEuro)
 ms:assetid: 38451361-e364-4a5d-805f-103c07e2275f
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 This configuration key is obsolete and exists only for backward compatibility.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

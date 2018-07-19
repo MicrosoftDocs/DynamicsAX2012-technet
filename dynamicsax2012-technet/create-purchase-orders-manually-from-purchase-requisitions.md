@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create purchase orders manually from purchase requisitions
 TOCTitle: Create purchase orders manually from purchase requisitions
 ms:assetid: 95726644-14a6-4088-ad3a-e2054fe96046
@@ -10,6 +10,8 @@ f1_keywords:
 - purchase orders
 - purchase
 - purchase requisitions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create purchase orders manually from purchase requisitions 
@@ -134,5 +136,5 @@ All information on the purchase requisition lines is copied to the purchase orde
 [Relieve a general budget reservation (Public sector)](relieve-a-general-budget-reservation-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

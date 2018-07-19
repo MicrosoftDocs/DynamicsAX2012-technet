@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot the installation
 TOCTitle: Troubleshoot the installation
 ms:assetid: f950cc1e-d3fb-4792-a2f8-cf9fe48ff752
@@ -34,5 +34,5 @@ The following topics can help you find solutions for issues that may occur when 
   - [Troubleshoot installation issues with the developer tools](troubleshoot-installation-issues-with-the-developer-tools.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

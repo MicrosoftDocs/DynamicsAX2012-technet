@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Correct a packing slip
 TOCTitle: (LTU) Correct a packing slip
 ms:assetid: 6ee9bdf3-40aa-40ce-8d5a-1faa969a47bc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665110(v=AX.60)
 ms:contentKeyID: 49386692
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Correct a packing slip 
@@ -80,5 +82,5 @@ If a packing slip document is incorrect, you must create a reverse transfer orde
 17. Click **OK** to change the dependence to the packing slip register.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

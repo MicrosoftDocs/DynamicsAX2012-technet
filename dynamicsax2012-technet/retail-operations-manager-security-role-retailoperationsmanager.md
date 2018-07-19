@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail operations manager security role (RetailOperationsManager)
 TOCTitle: Retail operations manager security role (RetailOperationsManager)
 ms:assetid: 8ae51ae6-3bc1-4a38-ad6c-940f5b626469
@@ -431,5 +431,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

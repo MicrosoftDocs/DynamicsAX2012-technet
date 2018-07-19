@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a work breakdown structure of tasks for a project
 TOCTitle: Create a work breakdown structure of tasks for a project
 ms:assetid: 0edfa121-3126-4dbd-84fa-81e096df838b
@@ -11,6 +11,8 @@ f1_keywords:
 - project activities
 - work breakdown structure
 - WBS
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a work breakdown structure of tasks for a project 
@@ -407,5 +409,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Transfer work breakdown estimates to project forecasts](transfer-work-breakdown-estimates-to-project-forecasts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

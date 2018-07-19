@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Checklist: Deploy an unsolicited vendor portal'
 TOCTitle: 'Checklist: Deploy an unsolicited vendor portal'
 ms:assetid: 2d8fab1b-be13-4594-a37e-56550f03bb4b
@@ -66,5 +66,5 @@ The following table describes tasks that you must complete to set up and configu
 [Checklist: Deploy a vendor registration portal](checklist-deploy-a-vendor-registration-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

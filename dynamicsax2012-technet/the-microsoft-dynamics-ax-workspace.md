@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Microsoft Dynamics AX workspace
 TOCTitle: The Microsoft Dynamics AX workspace
 ms:assetid: 1a6cad45-a2a9-4726-82ae-2a7ca3e52c61
@@ -14,6 +14,8 @@ f1_keywords:
 - Navigation pane
 - Role center
 - Status bar
+audience: Application User
+ms.search.region: Global
 ---
 
 # The Microsoft Dynamics AX workspace 
@@ -157,5 +159,5 @@ Some forms, such as the **Worker** form, have additional buttons on the status b
 [Options (class form)](https://technet.microsoft.com/en-us/library/aa618202\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

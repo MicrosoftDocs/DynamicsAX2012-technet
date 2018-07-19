@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reorder functional areas in a RapidStart Services template
 TOCTitle: Reorder functional areas in a RapidStart Services template
 ms:assetid: 421b689f-a9e4-4c81-bbf4-b5d7837520e8
@@ -47,5 +47,5 @@ You can use the **Design** area in Microsoft Dynamics ERP RapidStart Services to
 [Delete a functional area in RapidStart Services](delete-a-functional-area-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

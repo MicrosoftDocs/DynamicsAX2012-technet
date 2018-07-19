@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Managing tax on fixed assets
 TOCTitle: (RUS) Managing tax on fixed assets
 ms:assetid: 52dbb09a-55ce-4f25-bbda-d5451aa0ffc2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665388(v=AX.60)
 ms:contentKeyID: 49387476
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Managing tax on fixed assets 
@@ -46,5 +48,5 @@ The following topics provide information about managing tax on fixed assets.
 [(RUS) Create a ledger journal of assessed tax transactions](rus-create-a-ledger-journal-of-assessed-tax-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

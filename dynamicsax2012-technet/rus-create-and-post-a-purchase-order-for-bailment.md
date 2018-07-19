@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a purchase order for bailment
 TOCTitle: (RUS) Create and post a purchase order for bailment
 ms:assetid: c2812f01-09db-43f7-bea6-b002988d2c51
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711574(v=AX.60)
 ms:contentKeyID: 49387898
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a purchase order for bailment 
@@ -54,5 +56,5 @@ You can create and post a purchase order to receive items for storage. Taxes are
 [(RUS) Create and post a sales order for bailment](rus-create-and-post-a-sales-order-for-bailment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

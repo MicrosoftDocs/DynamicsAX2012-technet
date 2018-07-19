@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Create and post a project invoice for a public sector customer
 TOCTitle: (DNK) Create and post a project invoice for a public sector customer
 ms:assetid: 7cc09542-a13f-4607-87b7-306fb3c377f5
@@ -10,6 +10,8 @@ f1_keywords:
 - electronic invoices
 - EAN
 - public sector customer
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Create and post a project invoice for a public sector customer 
@@ -86,5 +88,5 @@ When the batch job is processed, invoices for customers who have an EAN number a
 [Invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa615408\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

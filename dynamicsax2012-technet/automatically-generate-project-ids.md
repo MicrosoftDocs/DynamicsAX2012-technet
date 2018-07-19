@@ -1,4 +1,4 @@
-﻿---
+---
 title: Automatically generate project IDs
 TOCTitle: Automatically generate project IDs
 ms:assetid: 7525fd84-e234-4efa-bb04-7b25ab311918
@@ -10,6 +10,8 @@ f1_keywords:
 - number sequences
 - project numbers
 - subproject
+audience: Application User
+ms.search.region: Global
 ---
 
 # Automatically generate project IDs 
@@ -46,5 +48,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [Create a project](create-a-project.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

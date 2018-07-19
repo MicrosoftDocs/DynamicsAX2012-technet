@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up retail stores (Retail essentials)
 TOCTitle: About setting up retail stores (Retail essentials)
 ms:assetid: 9e8fd99f-92a1-498b-a6e7-a294fe15d2db
@@ -76,7 +76,7 @@ The following table shows the tasks that you must complete before you can set up
 </tr>
 <tr class="odd">
 <td><p>Set up staff members.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>You must also assign appropriate permissions to the workers so that they can log on and perform tasks by using the Microsoft Dynamics AX for Retail POS system.</P>
@@ -155,7 +155,7 @@ For more information about how to configure Retail essentials, see [Setting up R
 </tr>
 <tr class="even">
 <td><p>Assign product assortments to the store.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>You can assign the retail store to an existing assortment or create a new assortment for the retail store.</P>
@@ -181,5 +181,5 @@ For more information about how to configure Retail essentials, see [Setting up R
 [Working with organizations and organizational hierarchies (Retail essentials)](working-with-organizations-and-organizational-hierarchies-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

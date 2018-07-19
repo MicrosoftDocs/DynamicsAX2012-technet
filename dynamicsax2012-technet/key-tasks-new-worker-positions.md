@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: New worker positions'
 TOCTitle: 'Key tasks: New worker positions'
 ms:assetid: cf6ffc13-11af-4402-b6dd-8781408db244
@@ -19,6 +19,8 @@ f1_keywords:
 - new workers
 - new worker positions
 - new worker position
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: New worker positions 
@@ -419,5 +421,5 @@ Back to top
 [Key tasks: Jobs](key-tasks-jobs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

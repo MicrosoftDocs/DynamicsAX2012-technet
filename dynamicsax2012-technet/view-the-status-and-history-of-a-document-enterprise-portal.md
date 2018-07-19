@@ -1,4 +1,4 @@
-﻿---
+---
 title: View the status and history of a document (Enterprise Portal)
 TOCTitle: View the status and history of a document
 ms:assetid: 5bf2e73b-6af6-4465-ad60-129761bb6d0b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - WorkflowHistoryList
 - WorkflowHistoryDetails
+audience: Application User
+ms.search.region: Global
 ---
 
 # View the status and history of a document (Enterprise Portal) 
@@ -27,5 +29,5 @@ You can use the **Workflow history details** page to view the history of a docum
 [View your work items (Enterprise Portal)](view-your-work-items-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View and respond to questionnaires
 TOCTitle: View and respond to questionnaires
 ms:assetid: cf79517e-ae09-4205-b73a-b193715ce4b7
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - VendProfileQuestionnaireListPage
 - VendRequestQuestionnaireAnswerDetails
+audience: Application User
+ms.search.region: Global
 ---
 
 # View and respond to questionnaires 
@@ -59,5 +61,5 @@ If you request to provide products in additional procurement categories, there m
 [Manage your category assignments](manage-your-category-assignments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

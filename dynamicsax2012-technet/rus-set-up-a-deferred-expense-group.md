@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a deferred expense group
 TOCTitle: (RUS) Set up a deferred expense group
 ms:assetid: 88b1bb4b-79a6-49b2-9359-4dcde29a6cb5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678451(v=AX.60)
 ms:contentKeyID: 49387680
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a deferred expense group 
@@ -43,5 +45,5 @@ Click **General ledger** \> **Setup** \> **Deferrals** \> **Value models**.
 [(RUS) Deferrals groups (form)](https://technet.microsoft.com/en-us/library/jj839665\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

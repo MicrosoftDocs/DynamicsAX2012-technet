@@ -1,4 +1,4 @@
-﻿---
+---
 title: Synchronize a new table or field with retail databases
 TOCTitle: Synchronize a new table or field with retail databases
 ms:assetid: 690885db-8cb6-43e2-aed6-fcaa72d5735d
@@ -180,5 +180,5 @@ Complete the following procedures to set up data distribution for the new table.
 3.  Add the new table to an existing subjob or create a new subjob. If you create a new subjob, add the subjob to the appropriate A job. For more information, see [Configure jobs and subjobs in Retail Scheduler](configure-jobs-and-subjobs-in-retail-scheduler.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

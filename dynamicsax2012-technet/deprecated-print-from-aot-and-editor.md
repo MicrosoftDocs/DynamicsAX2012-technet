@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Print from AOT and Editor'
 TOCTitle: Print from AOT and Editor
 ms:assetid: 20293ee1-70c9-425f-a296-0041d674f143
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, users can print nodes in the Microsoft Dynamics A
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

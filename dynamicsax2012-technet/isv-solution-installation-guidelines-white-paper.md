@@ -1,4 +1,4 @@
-﻿---
+---
 title: ISV solution installation guidelines (White paper)
 TOCTitle: ISV solution installation guidelines
 ms:assetid: f038f2f5-3553-4554-8b71-910ec8e86ba3
@@ -24,5 +24,5 @@ This document discusses one of the methodologies that independent software vendo
 You must have a PartnerSource account to download this paper. [Download the paper](http://go.microsoft.com/fwlink/?linkid=266252).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

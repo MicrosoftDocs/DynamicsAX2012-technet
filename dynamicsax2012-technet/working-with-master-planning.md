@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Master planning
 TOCTitle: Working with Master planning
 ms:assetid: 2609df70-6bf1-4b1e-8cf9-ee5e5a491ec6
@@ -13,6 +13,8 @@ f1_keywords:
 - communicate plans
 - identify and aggregate requirements
 - material requirements planning
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Master planning 
@@ -33,5 +35,5 @@ This section provides overviews of the main business process components in Maste
 [Setting up and maintaining Master planning](setting-up-and-maintaining-master-planning.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

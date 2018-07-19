@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up and maintaining Accounts payable
 TOCTitle: (RUS) Setting up and maintaining Accounts payable
 ms:assetid: afd90706-298a-4f55-8036-f80900b0fc26
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711525(v=AX.60)
 ms:contentKeyID: 49387850
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up and maintaining Accounts payable 
@@ -30,5 +32,5 @@ The following topics provide information about setting up and maintaining Accoun
 [(RUS) Setting up tax accounting documents for purchases](rus-setting-up-tax-accounting-documents-for-purchases.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

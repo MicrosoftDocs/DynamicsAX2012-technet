@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bid on a request for quotation
 TOCTitle: Bid on a request for quotation
 ms:assetid: 26733b99-b082-421a-bb85-8255da608a81
@@ -17,6 +17,8 @@ f1_keywords:
 - request for quotations
 - bid
 - bids
+audience: Application User
+ms.search.region: Global
 ---
 
 # Bid on a request for quotation 
@@ -127,5 +129,5 @@ Use this procedure to recall a bid. You can do this if the RFQ has not expired a
 3.  In the confirmation dialog box, click **Yes**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

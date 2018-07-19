@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calculate time and attendance for workers
 TOCTitle: Calculate time and attendance for workers
 ms:assetid: eb4d224c-e5b9-476d-b10e-d2f1bba488b5
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - absence
 - calculate
+audience: Application User
+ms.search.region: Global
 ---
 
 # Calculate time and attendance for workers 
@@ -121,5 +123,5 @@ You can reverse the registrations that have been calculated for a worker. Howeve
 [Approve time and attendance registrations](approve-time-and-attendance-registrations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Propose depreciation for fixed assets
 TOCTitle: Propose depreciation for fixed assets
 ms:assetid: a05a6286-41e5-41b6-b42b-19631ac5f938
@@ -10,6 +10,8 @@ f1_keywords:
 - depreciation
 - propose
 - propose depreciation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Propose depreciation for fixed assets 
@@ -73,5 +75,5 @@ To propose and later post transactions for the periodic depreciation of eligible
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

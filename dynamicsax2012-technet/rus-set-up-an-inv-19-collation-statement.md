@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an Inv-19 collation statement
 TOCTitle: (RUS) Set up an Inv-19 collation statement
 ms:assetid: 87ee9cfe-607f-4f24-bff8-3878f544c5f2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678450(v=AX.60)
 ms:contentKeyID: 49387679
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an Inv-19 collation statement 
@@ -45,5 +47,5 @@ The **Inv-19 Collation Statement** form is the primary document that shows the r
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

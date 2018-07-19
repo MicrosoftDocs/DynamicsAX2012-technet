@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a price adjustment
 TOCTitle: Set up a price adjustment
 ms:assetid: a65ebb2b-352c-4875-a997-718595ca3864
@@ -11,6 +11,8 @@ f1_keywords:
 - discount
 - price adjustment
 - price adjustments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a price adjustment 
@@ -96,5 +98,5 @@ This topic describes how to use price adjustments to reduce the price of one or 
 [Setting up loyalty programs](setting-up-loyalty-programs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

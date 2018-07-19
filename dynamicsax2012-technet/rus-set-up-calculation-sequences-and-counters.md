@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up calculation sequences and counters
 TOCTitle: (RUS) Set up calculation sequences and counters
 ms:assetid: 36be22ba-236f-4b14-99f3-b9bc4c92bad8
@@ -12,6 +12,8 @@ f1_keywords:
 - sequences
 - (RUS)
 - Russia
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up calculation sequences and counters 
@@ -44,5 +46,5 @@ In the **Counter setup** form, you must select an expense code. When you generat
 [(RUS) Set up a deferrals model](rus-set-up-a-deferrals-model.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

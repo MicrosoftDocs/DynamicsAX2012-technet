@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (RUS) Production journal lines, by-product report'
 TOCTitle: (RUS) Production journal lines, by-product report
 ms:assetid: 5501b661-ca7a-457a-a161-93df59a196ff
@@ -53,5 +53,5 @@ In Microsoft Dynamics AX 2009, the **Production journal lines, by-product** repo
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import credit card transactions
 TOCTitle: Import credit card transactions
 ms:assetid: 124fcf5e-85ce-4ea9-ab14-401e0f17d263
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230932(v=AX.60)
 ms:contentKeyID: 36811395
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Import credit card transactions 
@@ -50,5 +52,5 @@ You can set up credit card transactions to be imported automatically on a recurr
 3.  Click **Exception help** to see more information about the exception.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service categories
 TOCTitle: About service categories
 ms:assetid: e8d2e18f-9912-420d-8169-8513a5c07538
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573398(v=AX.60)
 ms:contentKeyID: 36059841
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service categories 
@@ -28,5 +30,5 @@ Both types of service categories can be linked to production or to a project.
 [Setting up and maintaining cost categories](setting-up-and-maintaining-cost-categories.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

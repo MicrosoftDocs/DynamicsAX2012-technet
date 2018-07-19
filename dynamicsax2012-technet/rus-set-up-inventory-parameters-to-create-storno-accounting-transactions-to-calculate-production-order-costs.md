@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up inventory parameters to create storno accounting transactions to calculate production order costs
 TOCTitle: (RUS) Set up inventory parameters to create storno accounting transactions to calculate production order costs
 ms:assetid: 0ed1049d-b8a8-4d85-8ea8-7b215103f26c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711393(v=AX.60)
 ms:contentKeyID: 49387211
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up inventory parameters to create storno accounting transactions to calculate production order costs 
@@ -26,5 +28,5 @@ Use the **Inventory and warehouse management parameters** form to set up storno 
 [(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733200\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

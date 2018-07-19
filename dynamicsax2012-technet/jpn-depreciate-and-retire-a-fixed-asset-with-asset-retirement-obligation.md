@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Depreciate and retire a fixed asset with asset retirement obligation
 TOCTitle: (JPN) Depreciate and retire a fixed asset with asset retirement obligation
 ms:assetid: 0b24253e-e4d6-4563-931e-8d5fb76da572
@@ -22,6 +22,8 @@ f1_keywords:
 - retire
 - MsDynAx060.Forms.AssetBookTable
 - MsDynAx060.Forms.LedgerJournalTransAsset
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Depreciate and retire a fixed asset with asset retirement obligation 
@@ -178,5 +180,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

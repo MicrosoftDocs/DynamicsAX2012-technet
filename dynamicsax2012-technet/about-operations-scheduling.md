@@ -1,4 +1,4 @@
-﻿---
+---
 title: About operations scheduling
 TOCTitle: About operations scheduling
 ms:assetid: 12c8e85f-d0f2-4b26-8137-e0d503e73151
@@ -16,6 +16,8 @@ f1_keywords:
 - operations
 - manufacturing
 - scheduling
+audience: Application User
+ms.search.region: Global
 ---
 
 # About operations scheduling 
@@ -102,5 +104,5 @@ If you are working with finite materials, scheduling also depends on the availab
 [Released product details (form)](https://technet.microsoft.com/en-us/library/aa615563\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

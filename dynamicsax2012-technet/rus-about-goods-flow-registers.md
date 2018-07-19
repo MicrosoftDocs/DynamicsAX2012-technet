@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About goods flow registers
 TOCTitle: (RUS) About goods flow registers
 ms:assetid: 647c475c-5210-4d2d-8777-cbc72921ea44
@@ -10,6 +10,8 @@ f1_keywords:
 - registers
 - goods
 - goods flow registers
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About goods flow registers 
@@ -40,5 +42,5 @@ You can set up and use goods flow registers to calculate the expenses that are i
 [(RUS) Set up a register for warehoused items (totals)](rus-set-up-a-register-for-warehoused-items-totals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

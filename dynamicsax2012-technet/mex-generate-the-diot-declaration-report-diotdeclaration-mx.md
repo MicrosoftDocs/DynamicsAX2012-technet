@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Generate the DIOT declaration report (DIOTDeclaration_MX)
 TOCTitle: (MEX) Generate the DIOT declaration report (DIOTDeclaration_MX)
 ms:assetid: 0c8a571c-2452-4d8c-8532-df96ec37feab
@@ -158,5 +158,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(MEX) Set up DIOT declaration (form)](https://technet.microsoft.com/en-us/library/hh242543\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

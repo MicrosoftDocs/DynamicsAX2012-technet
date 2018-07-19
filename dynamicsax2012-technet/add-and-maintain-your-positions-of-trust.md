@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain your positions of trust
 TOCTitle: Add and maintain your positions of trust
 ms:assetid: 3af9f88d-4f7a-4732-955b-f33738ef0dac
@@ -10,6 +10,8 @@ f1_keywords:
 - HcmEPPersonTrustedPositionCreate
 - HcmEPPersonTrustedPositionEdit
 - HcmEPPersonTrustedPositionInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain your positions of trust 
@@ -66,5 +68,5 @@ Use the **Competencies** page to add or maintain information about the positions
 2.  On the **Position of trust** FastTab, select the position of trust to delete and then click **Remove**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

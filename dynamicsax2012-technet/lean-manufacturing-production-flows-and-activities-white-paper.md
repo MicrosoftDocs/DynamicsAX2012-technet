@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Lean Manufacturing: Production Flows and Activities (White paper)'
 TOCTitle: 'Lean Manufacturing: Production Flows and Activities'
 ms:assetid: b2eb87ec-4bf9-4ff7-a165-3c3c4d7b838f
@@ -18,5 +18,5 @@ Microsoft Dynamics AX 2012 includes an architecture that enables lean manufactur
 [Download the white paper](http://go.microsoft.com/fwlink/?linkid=213164).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

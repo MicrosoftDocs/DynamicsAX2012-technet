@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Export financial transaction data to an archive file
 TOCTitle: (FRA) Export financial transaction data to an archive file
 ms:assetid: 0d031c3a-a39e-4d31-8ee8-ed83e7700de6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230899(v=AX.60)
 ms:contentKeyID: 36056001
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Export financial transaction data to an archive file 
@@ -36,5 +38,5 @@ Use the Data Export Wizard to export financial transaction data to an archive fi
 [(DEU, FRA) Data export tables (form)](https://technet.microsoft.com/en-us/library/aa571461\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

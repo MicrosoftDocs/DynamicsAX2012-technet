@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) About CIS
 TOCTitle: (BEL) About CIS
 ms:assetid: 192c025a-df87-49d8-af6d-b1c98847296d
@@ -11,6 +11,8 @@ f1_keywords:
 - IBS
 - Isabel
 - CIS
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) About CIS 
@@ -35,5 +37,5 @@ The CIS platform consists of a client component and a server-side broker that us
 Each service that Isabel 6 provides using the CIS channel is described by an input XML document (request) and an output XML document (response). Schema element descriptions are available for each document type. The request document and attachments are passed by Microsoft Dynamics AX 2012 to the CIS client component, which then establishes a secure connection through the Isabel SSO infrastructure to the CIS broker. The CIS broker analyzes the request and maps it to the appropriate Isabel business service. The result of the service call is consolidated into a response XML document by the CIS broker and returned to the CIS client. The client component uses known file formats, such as CODA, to extract data from the response XML document for insertion into Microsoft Dynamics AX 2012.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

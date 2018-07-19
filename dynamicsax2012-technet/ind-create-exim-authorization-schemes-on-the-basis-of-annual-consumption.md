@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create EXIM authorization schemes on the basis of annual consumption
 TOCTitle: (IND) Create EXIM authorization schemes on the basis of annual consumption
 ms:assetid: 63f6e998-23df-465a-87cf-12fbcbeffd8f
@@ -13,6 +13,8 @@ f1_keywords:
 - authorization scheme
 - EXIM authorization scheme
 - annual consumption
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create EXIM authorization schemes on the basis of annual consumption 
@@ -143,5 +145,5 @@ You can create export-import (EXIM) authorization schemes for confirmed sales or
 [Setting up and maintaining inventory dimensions](setting-up-and-maintaining-inventory-dimensions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

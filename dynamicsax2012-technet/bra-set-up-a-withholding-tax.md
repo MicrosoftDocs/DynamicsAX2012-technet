@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up a withholding tax
 TOCTitle: (BRA) Set up a withholding tax
 ms:assetid: 01c5cd3b-d9e4-4ced-b148-fe5193957d27
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126100(v=AX.60)
 ms:contentKeyID: 52075235
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up a withholding tax 
@@ -117,5 +119,5 @@ The following table explains how withholding tax is calculated as a percentage o
 [(BRA) Set up an item withholding tax group](bra-set-up-an-item-withholding-tax-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

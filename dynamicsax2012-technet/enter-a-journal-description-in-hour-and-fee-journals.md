@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter a journal description in hour and fee journals
 TOCTitle: Enter a journal description in hour and fee journals
 ms:assetid: ffe8084e-34f7-47d0-bc6c-310a7efb8a66
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh370709(v=AX.60)
 ms:contentKeyID: 36811445
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enter a journal description in hour and fee journals 
@@ -32,5 +34,5 @@ Journal descriptions are defined in the **Journal descriptions** form. For more 
 [Create journal descriptions](create-journal-descriptions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

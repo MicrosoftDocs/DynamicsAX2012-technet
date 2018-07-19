@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Adjust Zakat information for a voucher transaction
 TOCTitle: (SAU) Adjust Zakat information for a voucher transaction
 ms:assetid: cc534529-9c22-43c2-8864-0505f019978b
@@ -10,6 +10,8 @@ f1_keywords:
 - Saudi Arabia
 - Zakat information
 - voucher transactions
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) Adjust Zakat information for a voucher transaction 
@@ -50,5 +52,5 @@ Before you close out a fiscal year, you can review the Zakat reports generated d
 [(SAU) Zakat assets and depreciation (form)](https://technet.microsoft.com/en-us/library/hh242233\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

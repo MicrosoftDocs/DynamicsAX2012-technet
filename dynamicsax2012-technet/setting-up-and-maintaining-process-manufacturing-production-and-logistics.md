@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Process manufacturing production and logistics
 TOCTitle: Setting up and maintaining Process manufacturing production and logistics
 ms:assetid: 6223828e-4c93-49e2-adf2-efbeec6c3a95
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209190(v=AX.60)
 ms:contentKeyID: 36057666
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Process manufacturing production and logistics 
@@ -46,5 +48,5 @@ The topics in this section provide information about how to set up and maintain 
 [Setting up and maintaining lot inheritance](setting-up-and-maintaining-lot-inheritance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

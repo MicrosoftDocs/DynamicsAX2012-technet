@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Export and import data to a client bank
 TOCTitle: (RUS) Export and import data to a client bank
 ms:assetid: fd794b74-f8fe-4806-87a6-0a4c43fa58dd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678663(v=AX.60)
 ms:contentKeyID: 49388145
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Export and import data to a client bank 
@@ -30,5 +32,5 @@ Complete the following tasks before you create a client bank payment transaction
 [(RUS) Exchange formats of client-bank (form)](https://technet.microsoft.com/en-us/library/jj733242\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

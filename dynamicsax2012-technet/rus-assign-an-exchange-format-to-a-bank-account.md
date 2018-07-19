@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Assign an exchange format to a bank account
 TOCTitle: (RUS) Assign an exchange format to a bank account
 ms:assetid: ce417e03-1615-4a42-b00b-3894cb530f29
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - exchange format
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Assign an exchange format to a bank account 
@@ -60,5 +62,5 @@ Use this procedure to assign an exchange format for a client bank to a bank acco
 [(RUS) Create a document type code to export or import payments](rus-create-a-document-type-code-to-export-or-import-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

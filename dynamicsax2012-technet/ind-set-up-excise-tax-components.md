@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up excise tax components
 TOCTitle: (IND) Set up excise tax components
 ms:assetid: 42176eeb-14a2-4ab0-9a33-13973a269c19
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664647(v=AX.60)
 ms:contentKeyID: 49385724
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up excise tax components 
@@ -72,5 +74,5 @@ You must also define tax setoff, which will offset the amounts of the various co
 [(IND) Tax setoff rule (form)](https://technet.microsoft.com/en-us/library/jj677818\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

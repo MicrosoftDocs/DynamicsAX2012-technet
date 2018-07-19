@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an Advanced condition
 TOCTitle: Create an Advanced condition
 ms:assetid: b1c48dfe-4c70-467c-8680-8aff8ef9b0e5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498651(v=AX.60)
 ms:contentKeyID: 36059055
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an Advanced condition 
@@ -44,5 +46,5 @@ Advanced conditions are intended for more complex expressions. They are similar 
 11. Click the **Message** tab to create a message that will be displayed if the condition is true. Select the language in which you will write the message and then type the message text.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

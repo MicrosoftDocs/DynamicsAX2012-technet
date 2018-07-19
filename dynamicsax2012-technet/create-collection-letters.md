@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create collection letters
 TOCTitle: Create collection letters
 ms:assetid: 0e682e57-c057-45cd-bfdf-319a4c68dc14
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496410(v=AX.60)
 ms:contentKeyID: 36655923
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create collection letters 
@@ -53,5 +55,5 @@ Before you create a collection letter, you must create a collection letter seque
 [(DNK) Set up a payment slip format for customers](dnk-set-up-a-payment-slip-format-for-customers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

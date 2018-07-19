@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up payment methods (Retail)
 TOCTitle: Setting up payment methods (Retail)
 ms:assetid: 7395c7a0-444b-4b6c-8f7c-53f3212e6268
@@ -11,6 +11,8 @@ f1_keywords:
 - payment
 - methods
 - retail
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up payment methods (Retail) 
@@ -35,5 +37,5 @@ The topics in this section provide information about how to set up Retail paymen
 [Set up Payment Services](set-up-payment-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

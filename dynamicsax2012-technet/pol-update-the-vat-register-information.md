@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Update the VAT register information
 TOCTitle: (POL) Update the VAT register information
 ms:assetid: d97d9c3c-fe6b-422b-96d4-8cfe1db0957b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711299(v=AX.60)
 ms:contentKeyID: 49387118
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Update the VAT register information 
@@ -60,5 +62,5 @@ Polish tax law requires that companies report specific VAT information in their 
 13. Click **Yes** if you want to update the rest of lines with the VAT date from the first line. Otherwise, click **No**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

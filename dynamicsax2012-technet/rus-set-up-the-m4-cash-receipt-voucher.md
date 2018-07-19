@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the M4 cash receipt voucher
 TOCTitle: (RUS) Set up the M4 cash receipt voucher
 ms:assetid: a18f4e51-75c6-43cd-99d7-34b784350b1b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.BankAccountTableListPage
 - MsDynAx060.Forms.BankAccountTableListPage
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the M4 cash receipt voucher 
@@ -49,5 +51,5 @@ The M-4 receipt voucher is the original document that is signed by the sender an
 [(RUS) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj711352\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

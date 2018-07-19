@@ -1,4 +1,4 @@
-﻿---
+---
 title: View return orders
 TOCTitle: View return orders
 ms:assetid: d74026bc-7767-464d-8a54-10b88eed69ec
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPSalesTableInfo
 - EPSalesReturnItemList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View return orders 
@@ -37,5 +39,5 @@ You can use the **All return orders** and **Return order** pages to view informa
 [View customer invoice information](view-customer-invoice-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

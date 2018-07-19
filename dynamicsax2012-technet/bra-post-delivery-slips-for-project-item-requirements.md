@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Post delivery slips for project item requirements
 TOCTitle: (BRA) Post delivery slips for project item requirements
 ms:assetid: 875ec4ac-b492-40b7-8dde-bb6c0e3401d9
@@ -11,6 +11,8 @@ f1_keywords:
 - delivery slips
 - post delivery slips
 - project item requirements
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Post delivery slips for project item requirements 
@@ -37,5 +39,5 @@ Use the **Item requirements** form to create and post delivery slips for project
 [(BRA) Post a sales delivery slip](bra-post-a-sales-delivery-slip.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

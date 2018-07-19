@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Extending the CRT to add customer preference data for Retail clients'
 TOCTitle: 'Walkthrough: Extending the CRT'
 ms:assetid: fba61df3-3537-4807-9a81-4c46840ecb35
@@ -83199,5 +83199,5 @@ This section contains the entire contents of CommerceRuntimeScripts.sql. There a
     GO
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

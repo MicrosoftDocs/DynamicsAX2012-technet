@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow elements
 TOCTitle: Workflow elements
 ms:assetid: 244f32e8-6f95-4f86-bfe5-57b8aa6f667d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309626(v=AX.60)
 ms:contentKeyID: 35132582
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Workflow elements 
@@ -100,5 +102,5 @@ A subworkflow is a workflow that runs in the context of another workflow.
 For information about how to configure a subworkflow, see [Configure a subworkflow](configure-a-subworkflow.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

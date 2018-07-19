@@ -1,4 +1,4 @@
-﻿---
+---
 title: About question types
 TOCTitle: About question types
 ms:assetid: 2a853d6d-8386-440f-9f6a-b8cb41335a8d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580595(v=AX.60)
 ms:contentKeyID: 39519080
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About question types 
@@ -34,5 +36,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [Setting up questionnaires](setting-up-questionnaires.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

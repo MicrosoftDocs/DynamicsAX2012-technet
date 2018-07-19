@@ -1,4 +1,4 @@
-﻿---
+---
 title: Types of reports
 TOCTitle: Types of reports
 ms:assetid: 6561330b-a38f-4870-a0f0-a5a9bb50e383
@@ -150,5 +150,5 @@ The following table describes the types of reports that you can create by using 
   </p> </td><td> <p> <a href="create-a-report-by-using-power-view-to-connect-to-a-cube.md" runat="server" xmlns="http://www.w3.org/1999/xhtml">Create a report by using Power View to connect to a cube</a> </p> </td></tr> </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

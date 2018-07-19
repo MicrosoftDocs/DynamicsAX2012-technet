@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the documentation
 TOCTitle: About the documentation
 ms:assetid: 036876b4-83e0-4ba5-aeaa-34a8a0892c3c
@@ -18,5 +18,5 @@ The Microsoft Dynamics AX documentation includes many resources that you will fi
 For more information about documentation, see the [Documentation Resources Whitepaper](http://go.microsoft.com/fwlink/?linkid=182418%26clcid=0x40).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

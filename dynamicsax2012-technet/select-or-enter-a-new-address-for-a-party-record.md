@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select or enter a new address for a party record
 TOCTitle: Select or enter a new address for a party record
 ms:assetid: 2cdbf2e6-8ac9-44c1-a258-7e0b0e2be780
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh524749(v=AX.60)
 ms:contentKeyID: 37072046
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select or enter a new address for a party record 
@@ -50,5 +52,5 @@ These procedures explain how to select a different address for a party record an
 The new address will be available when you are working with the party record.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

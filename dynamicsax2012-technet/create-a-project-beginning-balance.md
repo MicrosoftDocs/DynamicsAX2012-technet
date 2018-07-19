@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a project beginning balance
 TOCTitle: Create a project beginning balance
 ms:assetid: 23b4cb63-adc2-4ec2-84c1-48dfaac5caa9
@@ -11,6 +11,8 @@ f1_keywords:
 - beginning balance journal
 - costs
 - revenue
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a project beginning balance 
@@ -59,5 +61,5 @@ If you created the beginning balance from the **Projects** form, you can view a 
 [About migrating project data from other ERP systems](about-migrating-project-data-from-other-erp-systems.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

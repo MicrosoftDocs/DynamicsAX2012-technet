@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About vendor invoices
 TOCTitle: (RUS) About vendor invoices
 ms:assetid: d1f41d18-a115-4fc5-83f6-7b1075149c27
@@ -11,6 +11,8 @@ f1_keywords:
 - invoices
 - Russia
 - RUS
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About vendor invoices 
@@ -53,5 +55,5 @@ You can post a vendor invoice in the **Vendor invoice** form. Vendor invoices ca
 [Add invoices to invoice groups](add-invoices-to-invoice-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan for disaster recovery
 TOCTitle: Plan for disaster recovery
 ms:assetid: 9c2b4440-c706-4899-b1d0-f550979ae319
@@ -137,5 +137,5 @@ For more information about how to implement a disaster recovery strategy for you
   - [Managing Backing Up and Restoring (Analysis Services)](http://go.microsoft.com/fwlink/?linkid=215819)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

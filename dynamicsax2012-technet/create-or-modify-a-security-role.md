@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify a security role
 TOCTitle: Create or modify a security role
 ms:assetid: 69f36fc7-9792-410f-9f75-5a3cb74ab97c
@@ -79,5 +79,5 @@ Only the Microsoft Dynamics AX administrator can create or modify a role.
 [Assign users to security roles](assign-users-to-security-roles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

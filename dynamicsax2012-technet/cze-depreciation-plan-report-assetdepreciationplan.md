@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Depreciation plan report (AssetDepreciationPlan)
 TOCTitle: (CZE) Depreciation plan report (AssetDepreciationPlan)
 ms:assetid: ace07c11-3ada-4042-bb31-3604b51ecae3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683245(v=AX.60)
 ms:contentKeyID: 49685126
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Depreciation plan report (AssetDepreciationPlan) 
@@ -110,5 +112,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

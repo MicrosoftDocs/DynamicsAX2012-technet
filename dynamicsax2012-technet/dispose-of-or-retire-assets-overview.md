@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dispose of or retire assets overview
 TOCTitle: Dispose of or retire assets overview
 ms:assetid: f453864e-3e60-475c-8a01-863e7d9e53f3
@@ -15,6 +15,8 @@ f1_keywords:
 - fixed assets retirement
 - retirements
 - fixed asset retirement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Dispose of or retire assets overview 
@@ -66,5 +68,5 @@ The following table lists the forms that support the dispose of or retire assets
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

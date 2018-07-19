@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About the NF-e process
 TOCTitle: (BRA) About the NF-e process
 ms:assetid: 2e491951-d107-4de2-b156-dbb35e096771
@@ -14,6 +14,8 @@ f1_keywords:
 - BR - 00021
 - BR - 00022
 - BR - 00045
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About the NF-e process 
@@ -92,5 +94,5 @@ After the status of the NF-e is received from SEFAZ, you can perform the followi
 [(BRA) Fiscal documents pending an update to contingency mode (list page)](https://technet.microsoft.com/en-us/library/jj937991\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

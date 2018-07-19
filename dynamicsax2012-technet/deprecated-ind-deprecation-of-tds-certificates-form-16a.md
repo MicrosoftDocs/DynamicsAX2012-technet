@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (IND) Deprecation of TDS certificates (Form 16A)'
 TOCTitle: (IND) Deprecation of TDS certificates (Form 16A)
 ms:assetid: 78135193-a8c8-4390-88e7-ae575dc44d8b
@@ -56,5 +56,5 @@ Microsoft Dynamics AX 2009 lets you generate a Tax Deducted at Source (TDS) cert
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

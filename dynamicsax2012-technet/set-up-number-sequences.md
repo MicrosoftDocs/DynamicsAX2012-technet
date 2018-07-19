@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up number sequences
 TOCTitle: Set up number sequences
 ms:assetid: 0c81818d-6d5b-4bba-8d66-28442f9fd023
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242127(v=AX.60)
 ms:contentKeyID: 36055998
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up number sequences 
@@ -126,5 +128,5 @@ Use the **Number sequences** page to create or modify selected number sequences.
 [Number sequences (form)](https://technet.microsoft.com/en-us/library/hh209531\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

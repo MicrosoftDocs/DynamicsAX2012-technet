@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Create a print layout group
 TOCTitle: (CHN) Create a print layout group
 ms:assetid: 7150c0f2-b413-4593-be45-332e088a1309
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664065(v=AX.60)
 ms:contentKeyID: 49384649
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Create a print layout group 
@@ -38,5 +40,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(CHN) Print layout (form)](https://technet.microsoft.com/en-us/library/jj664037\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

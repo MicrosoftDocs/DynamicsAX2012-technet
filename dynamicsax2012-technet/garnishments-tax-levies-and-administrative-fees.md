@@ -1,4 +1,4 @@
-﻿---
+---
 title: Garnishments, tax levies, and administrative fees
 TOCTitle: Garnishments, tax levies, and administrative fees
 ms:assetid: 6d54d30b-38cd-48e8-a047-36b1adcbd3af
@@ -11,6 +11,8 @@ f1_keywords:
 - garnishment
 - garnishments
 - tax levies
+audience: Application User
+ms.search.region: USA
 ---
 
 # Garnishments, tax levies, and administrative fees 
@@ -114,5 +116,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [Maintain benefits (form)](https://technet.microsoft.com/en-us/library/hh209235\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

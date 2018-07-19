@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Restoring VAT amounts for written-off fixed assets
 TOCTitle: (RUS) Restoring VAT amounts for written-off fixed assets
 ms:assetid: 06e59896-c778-41d5-9cc4-894f94abfe5f
@@ -11,6 +11,8 @@ f1_keywords:
 - Russia
 - Restoring
 - written-off fixed assets
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Restoring VAT amounts for written-off fixed assets 
@@ -39,5 +41,5 @@ To check for any discrepancies in the values of the fixed asset, in the lower pa
 [(RUS) Create the product output or mileage of a fixed asset](rus-create-the-product-output-or-mileage-of-a-fixed-asset.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

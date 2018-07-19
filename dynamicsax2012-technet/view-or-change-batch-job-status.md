@@ -1,4 +1,4 @@
-﻿---
+---
 title: View or change batch job status
 TOCTitle: View or change batch job status
 ms:assetid: 3c1c6a3e-64c7-4802-9dc4-7f1ffafc9b5c
@@ -40,5 +40,5 @@ For example, you may want to change the status of batch jobs to perform actions 
 [View or change the status of a batch job that you created](view-or-change-the-status-of-a-batch-job-that-you-created.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

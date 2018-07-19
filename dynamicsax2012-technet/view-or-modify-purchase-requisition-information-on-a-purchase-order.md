@@ -1,4 +1,4 @@
-﻿---
+---
 title: View or modify purchase requisition information on a purchase order
 TOCTitle: View or modify purchase requisition information on a purchase order
 ms:assetid: db0a7935-c848-4c02-8d11-5417ce5d35a1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - purchase order
 - modify purchase requisition
+audience: Application User
+ms.search.region: Global
 ---
 
 # View or modify purchase requisition information on a purchase order 
@@ -69,5 +71,5 @@ You process purchase orders that were created from purchase requisitions just as
 [Create purchase orders manually from purchase requisitions](create-purchase-orders-manually-from-purchase-requisitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

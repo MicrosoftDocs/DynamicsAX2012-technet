@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Manage gate entry and exit of goods
 TOCTitle: (IND) Manage gate entry and exit of goods
 ms:assetid: 5346537b-e655-47d8-9e59-c7bbc06fac32
@@ -16,6 +16,8 @@ f1_keywords:
 - gate entry record
 - gate entry
 - site gate
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Manage gate entry and exit of goods 
@@ -228,5 +230,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

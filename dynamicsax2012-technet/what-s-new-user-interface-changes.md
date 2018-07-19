@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: User interface changes"
 TOCTitle: User interface changes
 ms:assetid: 43923309-d003-409b-aacd-fc17f389bd9a
@@ -271,5 +271,5 @@ The user interface has changed considerably since AX 2009. AX 2012 includes chan
 For more information, see [The Microsoft Dynamics AX workspace](the-microsoft-dynamics-ax-workspace.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

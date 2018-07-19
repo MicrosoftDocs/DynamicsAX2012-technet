@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a competitor record
 TOCTitle: Create a competitor record
 ms:assetid: 5827210a-c04a-4b43-8559-df467855cb0d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242480(v=AX.60)
 ms:contentKeyID: 36057340
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a competitor record 
@@ -40,5 +42,5 @@ When managing your sales opportunities, researching your competitors and familia
 [Opportunity management](opportunity-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

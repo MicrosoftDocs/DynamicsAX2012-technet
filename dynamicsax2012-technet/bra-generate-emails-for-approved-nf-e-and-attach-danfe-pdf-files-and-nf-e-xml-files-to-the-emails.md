@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Generate emails for approved NF-e and attach DANFE PDF files and NF-e XML files to the emails
 TOCTitle: (BRA) Generate emails for approved NF-e and attach DANFE PDF files and NF-e XML files to the emails
 ms:assetid: b2fad424-f518-422d-a4d9-eb81881a37a7
@@ -22,6 +22,8 @@ f1_keywords:
 - NF-e emails
 - Generate emails
 - NF-e email
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Generate emails for approved NF-e and attach DANFE PDF files and NF-e XML files to the emails 
@@ -72,5 +74,5 @@ You can check the status of the emails for approved electronic fiscal documents 
 [(BRA) About the NF-e process](bra-about-the-nf-e-process.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

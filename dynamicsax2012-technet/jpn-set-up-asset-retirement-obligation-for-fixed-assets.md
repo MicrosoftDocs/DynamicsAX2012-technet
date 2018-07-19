@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up asset retirement obligation for fixed assets
 TOCTitle: (JPN) Set up asset retirement obligation for fixed assets
 ms:assetid: 78081364-da7c-4af7-9cae-cffec0018bc9
@@ -20,6 +20,8 @@ f1_keywords:
 - MsDynAx060.Forms.AssetDiscountRateSchedule_JP
 - MsDynAx060.Forms.AssetRetirementObligationDocument_JP
 - MsDynAx060.Forms.AssetRetirementObligationExplorer_JP
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up asset retirement obligation for fixed assets 
@@ -180,5 +182,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

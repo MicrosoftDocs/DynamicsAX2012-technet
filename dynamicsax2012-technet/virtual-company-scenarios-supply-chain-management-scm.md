@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Virtual company scenarios: Supply chain management (SCM)'
 TOCTitle: 'Virtual company scenarios: Supply chain management (SCM)'
 ms:assetid: 2b597c20-5c14-4be4-a737-47e78e27757c
@@ -282,5 +282,5 @@ To support sharing resource properties among company accounts, you must include 
   - WrkCtrPropertyLine
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

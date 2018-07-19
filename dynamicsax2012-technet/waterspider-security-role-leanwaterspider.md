@@ -1,4 +1,4 @@
-﻿---
+---
 title: Waterspider security role (LeanWaterspider)
 TOCTitle: Waterspider security role (LeanWaterspider)
 ms:assetid: 642224f5-fd82-40fd-bc1d-18b55dffcea6
@@ -88,5 +88,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

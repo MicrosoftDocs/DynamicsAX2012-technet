@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Vendor invoices'
 TOCTitle: 'Key tasks: Vendor invoices'
 ms:assetid: 62f9fc46-4028-4358-99b1-c8a8cf008884
@@ -23,6 +23,8 @@ f1_keywords:
 - AP invoice
 - accounts payable invoices
 - AP invoices
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Vendor invoices 
@@ -315,5 +317,5 @@ Back to top
 [Resolve sales tax differences between purchase orders and invoices](resolve-sales-tax-differences-between-purchase-orders-and-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

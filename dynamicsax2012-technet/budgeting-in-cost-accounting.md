@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budgeting in cost accounting
 TOCTitle: Budgeting in cost accounting
 ms:assetid: fed63a32-93dd-4325-a4ac-bb6606b9f5ea
@@ -15,6 +15,8 @@ f1_keywords:
 - costing
 - cost accounting
 - cost management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Budgeting in cost accounting 
@@ -33,5 +35,5 @@ The topics in this section provide information about how to use budgeting in **C
 [Flexible budgets](flexible-budgets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Generate the sales tax report
 TOCTitle: (MEX) Generate the sales tax report
 ms:assetid: def4515f-69a3-4bfb-97f3-7eb8b4400eb4
@@ -10,6 +10,8 @@ f1_keywords:
 - Mexico
 - report
 - sales tax
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Generate the sales tax report 
@@ -46,5 +48,5 @@ You can generate sales tax reports to prepare, verify, and reconcile VAT tax dec
 [(MEX) Generate the tax summary report](mex-generate-the-tax-summary-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Import data from a CSV data source  (DIXF, DMF)'
 TOCTitle: 'Walkthrough: Import data from a CSV data source  (DIXF, DMF)'
 ms:assetid: 8aad7f27-be82-4675-b048-b27361bc621f
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/walkthrough-import-data-from-a-csv-data-source-dixf-dmf/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

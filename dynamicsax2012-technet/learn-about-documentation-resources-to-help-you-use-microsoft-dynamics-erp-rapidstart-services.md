@@ -1,4 +1,4 @@
-﻿---
+---
 title: Learn about documentation resources to help you use Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Learn about documentation resources to help you use Microsoft Dynamics ERP RapidStart Services
 ms:assetid: cc0904ba-4faa-4e9a-9d07-b733e2f63a82
@@ -178,5 +178,5 @@ Microsoft provides many templates and questions that can be used to set up an in
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

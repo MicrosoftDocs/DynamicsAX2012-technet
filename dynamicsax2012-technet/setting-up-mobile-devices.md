@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up mobile devices
 TOCTitle: Setting up mobile devices
 ms:assetid: 39c9afe8-4198-4564-9e84-d8a37b01917e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553159(v=AX.60)
 ms:contentKeyID: 62200055
 ms.date: 04/23/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up mobile devices 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to set up a mobile devi
 [Set up mobile device user accounts for workers](set-up-mobile-device-user-accounts-for-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

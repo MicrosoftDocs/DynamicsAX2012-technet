@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upgrade AIF code
 TOCTitle: Upgrade AIF code
 ms:assetid: a74f5ffd-cb0e-4610-b351-095fb181ca40
@@ -240,5 +240,5 @@ Use the Microsoft Dynamics AX 2012 forms for inbound and outbound integration po
 For details about how to configure integration ports in services and AIF, see the documentation on the [TechNet Web site](http://go.microsoft.com/fwlink/?linkid=217341).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

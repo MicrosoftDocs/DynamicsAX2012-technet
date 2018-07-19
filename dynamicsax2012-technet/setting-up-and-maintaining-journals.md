@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining journals
 TOCTitle: Setting up and maintaining journals
 ms:assetid: 5c972fe7-a223-44eb-9cc0-9a38276e0bac
@@ -10,6 +10,8 @@ f1_keywords:
 - journal
 - journals
 - journal setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining journals 
@@ -52,5 +54,5 @@ The following topics provide information about setting up and maintaining journa
 [(MEX) Set up inflation rates](mex-set-up-inflation-rates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

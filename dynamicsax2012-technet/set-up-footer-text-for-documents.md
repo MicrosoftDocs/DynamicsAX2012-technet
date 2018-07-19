@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up footer text for documents
 TOCTitle: Set up footer text for documents
 ms:assetid: 52b79cb1-d877-483a-905f-5e80a6dd7a65
@@ -17,6 +17,8 @@ f1_keywords:
 - footers
 - printer
 - printers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up footer text for documents 
@@ -65,5 +67,5 @@ If you have to print a single line of identifying text at the bottom of source d
 [Set up print management for a transaction](set-up-print-management-for-a-transaction.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

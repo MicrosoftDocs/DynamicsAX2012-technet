@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and submit timesheets
 TOCTitle: Create and submit timesheets
 ms:assetid: 2895a8eb-abff-401f-bfff-7b282b6c1e26
@@ -12,6 +12,8 @@ f1_keywords:
 - create timesheet
 - edit timesheet
 - manage timesheets
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and submit timesheets 
@@ -150,5 +152,5 @@ You can create new timesheets by entering lines in the **New timesheet** form, b
 [Add details or comments to a timesheet](add-details-or-comments-to-a-timesheet.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

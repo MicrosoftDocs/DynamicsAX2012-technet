@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter a vendor payment that is subject to withholding tax
 TOCTitle: Enter a vendor payment that is subject to withholding tax
 ms:assetid: b4e65486-2e7e-49f6-9d75-8f177dd9cd13
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232420(v=AX.60)
 ms:contentKeyID: 37822155
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enter a vendor payment that is subject to withholding tax 
@@ -42,5 +44,5 @@ Use this procedure to enter the information that is required for a vendor paymen
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

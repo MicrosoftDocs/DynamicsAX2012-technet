@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define the types of work orders that a mobile device can process
 TOCTitle: Define the types of work orders that a mobile device can process
 ms:assetid: 58229dec-28ad-4707-b918-b39a76a4a26e
@@ -17,6 +17,8 @@ f1_keywords:
 - work template
 - work user
 - work class
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define the types of work orders that a mobile device can process 
@@ -84,5 +86,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

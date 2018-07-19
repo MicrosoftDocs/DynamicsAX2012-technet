@@ -1,4 +1,4 @@
-﻿---
+---
 title: Export a position hierarchy to Microsoft Visio
 TOCTitle: Export a position hierarchy to Microsoft Visio
 ms:assetid: 79881797-e510-4020-8516-9cd642191af7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn221767(v=AX.60)
 ms:contentKeyID: 54160222
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Export a position hierarchy to Microsoft Visio 
@@ -66,5 +68,5 @@ After you have entered the position information for your organization in Microso
 [About departments, jobs, and positions](about-departments-jobs-and-positions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

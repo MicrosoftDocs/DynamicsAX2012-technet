@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project statements
 TOCTitle: About project statements
 ms:assetid: f025c1cf-8922-424a-a0d0-a55bd655c0fb
@@ -10,6 +10,8 @@ f1_keywords:
 - statistics
 - project statements
 - project statistics
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project statements 
@@ -80,5 +82,5 @@ After a calculation has been run, the information is displayed on the following 
 [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

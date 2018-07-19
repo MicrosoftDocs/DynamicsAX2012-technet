@@ -1,4 +1,4 @@
-﻿---
+---
 title: Foreign trade
 TOCTitle: Foreign trade
 ms:assetid: c34d6272-36a5-4371-be62-d7bccf35830f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242836(v=AX.60)
 ms:contentKeyID: 36059288
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Foreign trade 
@@ -38,5 +40,5 @@ The topics in this section provide information about setting up and using functi
 [Transfer order transactions for Intrastat reporting](transfer-order-transactions-for-intrastat-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts payable (Public sector)
 TOCTitle: Accounts payable (Public sector)
 ms:assetid: 0a7bb441-31ae-4a72-b6f7-720af3e9d2cb
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - accounts payable public sector
 - public sector accounts payable
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Accounts payable (Public sector) 
@@ -23,5 +25,5 @@ The topics in this section provide information about Accounts payable for public
 [Working with Accounts payable (Public sector)](working-with-accounts-payable-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

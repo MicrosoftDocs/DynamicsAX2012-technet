@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up manufacturing execution
 TOCTitle: Setting up manufacturing execution
 ms:assetid: 691a2403-2f6c-4080-aa48-6ff426297a94
@@ -11,6 +11,8 @@ f1_keywords:
 - registration
 - register
 - manufacturing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up manufacturing execution 
@@ -32,5 +34,5 @@ The topics in this section provide information about how to prepare features for
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

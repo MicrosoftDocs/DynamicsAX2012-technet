@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enroll multiple workers in a benefit at the same time
 TOCTitle: Enroll multiple workers in a benefit at the same time
 ms:assetid: c2768749-3a9b-4cdf-a4b4-e5393334b681
@@ -15,6 +15,8 @@ f1_keywords:
 - mass benefit enrollment
 - mass enrollments
 - mass benefit enrollments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enroll multiple workers in a benefit at the same time 
@@ -64,5 +66,5 @@ You can select multiple workers and enroll them in a benefit at the same time.
 [Mass benefit enrollment (form)](https://technet.microsoft.com/en-us/library/hh209571\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

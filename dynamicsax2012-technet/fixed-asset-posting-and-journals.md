@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed asset posting and journals
 TOCTitle: Fixed asset posting and journals
 ms:assetid: 18359af9-510a-46d0-b922-d45314dc5b58
@@ -15,6 +15,8 @@ f1_keywords:
 - fixed asset posting
 - fixed assets journals
 - fixed assets postings
+audience: Application User
+ms.search.region: Global
 ---
 
 # Fixed asset posting and journals 
@@ -31,5 +33,5 @@ The topics in this section provide information about fixed asset journals and po
 [Fixed asset journals](fixed-asset-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

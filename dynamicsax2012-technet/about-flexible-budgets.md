@@ -1,4 +1,4 @@
-﻿---
+---
 title: About flexible budgets
 TOCTitle: About flexible budgets
 ms:assetid: 0c73296f-fe24-42ec-aa9e-efde854aa8b9
@@ -11,6 +11,8 @@ f1_keywords:
 - budget
 - flexible budget
 - flexible budgets
+audience: Application User
+ms.search.region: Global
 ---
 
 # About flexible budgets 
@@ -97,5 +99,5 @@ The **Flexible budgeting** form contains the following buttons:
 [Run a calculation](run-a-calculation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

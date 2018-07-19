@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prerequisite skills and knowledge
 TOCTitle: Prerequisite skills and knowledge
 ms:assetid: c83bd14c-79d9-4b8e-9338-acf45932076c
@@ -106,5 +106,5 @@ The following table describes the skills and knowledge that are required to depl
 [Getting started with associated technologies](getting-started-with-associated-technologies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

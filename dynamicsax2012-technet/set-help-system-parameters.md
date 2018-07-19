@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set Help system parameters
 TOCTitle: Set Help system parameters
 ms:assetid: b13c7325-b54a-4a5c-8e31-f379e6a595c1
@@ -31,5 +31,5 @@ Follow these steps to set a new location for the Help service.
 3.  Click **Close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

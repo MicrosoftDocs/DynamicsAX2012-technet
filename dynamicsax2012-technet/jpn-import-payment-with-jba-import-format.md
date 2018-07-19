@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Import payment with JBA import format
 TOCTitle: (JPN) Import payment with JBA import format
 ms:assetid: a953a981-4e17-429a-be9b-3416d3d46929
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711220(v=AX.60)
 ms:contentKeyID: 49386531
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Import payment with JBA import format 
@@ -52,5 +54,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(JPN) Define the JBA import format for a method of payment](jpn-define-the-jba-import-format-for-a-method-of-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

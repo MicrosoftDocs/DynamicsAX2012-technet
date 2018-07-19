@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up the EXIM Advance Authorization (AA) incentive scheme
 TOCTitle: (IND) Setting up the EXIM Advance Authorization (AA) incentive scheme
 ms:assetid: 8a436e1e-c1c6-40c0-a30d-cf766afe3897
@@ -14,6 +14,8 @@ f1_keywords:
 - EXIM Advanced Authorization
 - incentive scheme
 - EXIM
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up the EXIM Advance Authorization (AA) incentive scheme 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to set up export-import
 [(IND) Set up tax ledger posting groups](ind-set-up-tax-ledger-posting-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

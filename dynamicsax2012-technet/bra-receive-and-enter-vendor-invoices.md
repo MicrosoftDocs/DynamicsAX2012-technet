@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Receive and enter vendor invoices
 TOCTitle: (BRA) Receive and enter vendor invoices
 ms:assetid: bdbd4cf3-5cce-41ed-8b8a-98fe5f8d5bbc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710613(v=AX.60)
 ms:contentKeyID: 49384503
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Receive and enter vendor invoices 
@@ -58,5 +60,5 @@ The topics in this section provide information about how to receive and enter ve
 [(BRA) Import and verify NF-e XML documents and DANFE that you receive in emails](bra-import-and-verify-nf-e-xml-documents-and-danfe-that-you-receive-in-emails.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

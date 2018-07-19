@@ -1,4 +1,4 @@
-﻿---
+---
 title: About managing standard cost updates
 TOCTitle: About managing standard cost updates
 ms:assetid: 381b984a-9ad9-4d34-af30-acddd804be8a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231109(v=AX.60)
 ms:contentKeyID: 36056616
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About managing standard cost updates 
@@ -42,5 +44,5 @@ This example used one additional costing version for managing updates throughout
 [About BOM calculations that use the fallback principle](about-bom-calculations-that-use-the-fallback-principle.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

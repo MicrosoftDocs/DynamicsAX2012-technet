@@ -1,4 +1,4 @@
-﻿---
+---
 title: About default entries for write-off transactions
 TOCTitle: About default entries for write-off transactions
 ms:assetid: a42e5380-1991-4005-bfbb-70fedab0199d
@@ -18,6 +18,8 @@ f1_keywords:
 - write off
 - writeoff
 - write-off
+audience: Application User
+ms.search.region: Global
 ---
 
 # About default entries for write-off transactions 
@@ -349,5 +351,5 @@ A sales tax write-off journal line is created only if the **Separate sales tax**
 [Waive, reinstate, or reverse interest or fees](waive-reinstate-or-reverse-interest-or-fees.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add invoices to payment groups
 TOCTitle: Add invoices to payment groups
 ms:assetid: a0c16724-de1f-4c19-b3ef-3de67463a3c3
@@ -13,6 +13,8 @@ f1_keywords:
 - settlement
 - settle
 - payment group
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add invoices to payment groups 
@@ -61,5 +63,5 @@ You can add invoices to payment groups to group invoices by a common code. If on
 [Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

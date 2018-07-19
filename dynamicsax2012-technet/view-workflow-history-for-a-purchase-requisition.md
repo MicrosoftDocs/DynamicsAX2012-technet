@@ -1,4 +1,4 @@
-﻿---
+---
 title: View workflow history for a purchase requisition
 TOCTitle: View workflow history for a purchase requisition
 ms:assetid: 7ba99d27-62c0-45d7-b0ea-de5c41e675f0
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - WorkflowHistoryDetails
+audience: Application User
+ms.search.region: Global
 ---
 
 # View workflow history for a purchase requisition 
@@ -58,5 +60,5 @@ Use this procedure to recall a purchase requisition from workflow. You can eithe
 [View purchase requisition history (Enterprise Portal)](view-purchase-requisition-history-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Business process: Planning and processing outbound loads for shipping'
 TOCTitle: 'Business process: Planning and processing outbound loads for shipping'
 ms:assetid: 6fede9e9-7d02-488c-bf49-e53fa86c1e22
@@ -14,6 +14,8 @@ f1_keywords:
 - outbound load
 - loads
 - rating and routing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Business process: Planning and processing outbound loads for shipping 
@@ -82,5 +84,5 @@ Use the information in the following table to learn how to plan and process an o
 [Business process: Planning transportation for inbound loads](business-process-planning-transportation-for-inbound-loads.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

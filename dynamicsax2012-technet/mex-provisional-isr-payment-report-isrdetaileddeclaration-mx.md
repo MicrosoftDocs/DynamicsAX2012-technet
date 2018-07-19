@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Provisional ISR payment report (ISRDetailedDeclaration_MX)
 TOCTitle: (MEX) Provisional ISR payment report (ISRDetailedDeclaration_MX)
 ms:assetid: 534a28a6-3312-489a-b93c-3548a6fbfe27
@@ -138,5 +138,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(MEX) Generate an ISR provisional payment report](mex-generate-an-isr-provisional-payment-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

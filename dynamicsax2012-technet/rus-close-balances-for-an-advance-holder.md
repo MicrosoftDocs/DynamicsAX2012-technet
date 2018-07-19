@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Close balances for an advance holder
 TOCTitle: (RUS) Close balances for an advance holder
 ms:assetid: c688100a-3e23-47ad-913d-b25f81963b4c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711601(v=AX.60)
 ms:contentKeyID: 49387925
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Close balances for an advance holder 
@@ -71,5 +73,5 @@ The procedure for closing balances through a bank is similar to closing through 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

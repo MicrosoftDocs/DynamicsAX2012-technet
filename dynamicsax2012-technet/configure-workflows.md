@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure workflows
 TOCTitle: Configure workflows
 ms:assetid: 9b66600e-4d02-429f-9dc7-de38df3713e2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731877(v=AX.60)
 ms:contentKeyID: 35132779
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure workflows 
@@ -36,5 +38,5 @@ The following topics explain how to configure workflows and complete other commo
 [Set up System administration workflows](set-up-system-administration-workflows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

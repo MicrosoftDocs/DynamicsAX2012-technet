@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Order items and services overview
 TOCTitle: (BRA) Order items and services overview
 ms:assetid: 279b2ed9-b16e-47c0-ba64-400218463fc1
@@ -11,6 +11,8 @@ f1_keywords:
 - BRA
 - brazil
 - order items
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Order items and services overview 
@@ -23,5 +25,5 @@ The following topic provides information about requesting items and services.
 [(BRA) Create purchase requisitions](bra-create-purchase-requisitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

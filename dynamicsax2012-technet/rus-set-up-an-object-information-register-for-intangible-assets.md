@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an object information register for intangible assets
 TOCTitle: (RUS) Set up an object information register for intangible assets
 ms:assetid: 9f1fc320-a711-4313-8ed9-8c0e8fd678ad
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678543(v=AX.60)
 ms:contentKeyID: 49387771
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an object information register for intangible assets 
@@ -58,5 +60,5 @@ The **IA – object information** register collects information about the availa
 [(RUS) Calculate the intangible asset object information register](rus-calculate-the-intangible-asset-object-information-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

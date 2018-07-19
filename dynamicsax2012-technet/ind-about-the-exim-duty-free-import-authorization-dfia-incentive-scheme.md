@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) About the EXIM Duty Free Import Authorization (DFIA) incentive scheme
 TOCTitle: (IND) About the EXIM Duty Free Import Authorization (DFIA) incentive scheme
 ms:assetid: bc9854d1-a94f-459a-934e-fa45c29bd1a4
@@ -19,6 +19,8 @@ f1_keywords:
 - DFIA
 - Duty Free Import Authorization
 - EXIM Duty Free Import Authorization
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) About the EXIM Duty Free Import Authorization (DFIA) incentive scheme 
@@ -33,5 +35,5 @@ Duty Free Import Authorization is an export/import (EXIM) incentive scheme. For 
 [(IND) Setting up the EXIM Duty Free Import Authorization (DFIA) incentive scheme](ind-setting-up-the-exim-duty-free-import-authorization-dfia-incentive-scheme.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

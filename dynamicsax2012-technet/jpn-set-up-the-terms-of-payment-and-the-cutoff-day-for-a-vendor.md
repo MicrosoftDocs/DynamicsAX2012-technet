@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up the terms of payment and the cutoff day for a vendor
 TOCTitle: (JPN) Set up the terms of payment and the cutoff day for a vendor
 ms:assetid: 5b57da09-9b75-44b1-8e4d-875295b2130f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711058(v=AX.60)
 ms:contentKeyID: 49386469
 ms.date: 01/21/2017
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up the terms of payment and the cutoff day for a vendor 
@@ -38,5 +40,5 @@ You can set up a cutoff day in the **Terms of payment** form to calculate the du
 [(JPN) Set up a consolidated invoice for a vendor](jpn-set-up-a-consolidated-invoice-for-a-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

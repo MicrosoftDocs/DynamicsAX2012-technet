@@ -1,4 +1,4 @@
-﻿---
+---
 title: About analyzing variances for a completed production order
 TOCTitle: About analyzing variances for a completed production order
 ms:assetid: 88509f5b-119e-4fcf-8c5d-a2c1fcd16e4a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242850(v=AX.60)
 ms:contentKeyID: 37822151
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About analyzing variances for a completed production order 
@@ -36,5 +38,5 @@ The information about detailed variances can help you understand the source of e
 [About analyzing common sources of production variances](about-analyzing-common-sources-of-production-variances.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

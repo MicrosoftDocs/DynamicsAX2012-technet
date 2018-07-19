@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy a template in RapidStart Services
 TOCTitle: Copy a template in RapidStart Services
 ms:assetid: 99afdd15-3c3b-46d3-b2ab-31a091d5cacb
@@ -43,5 +43,5 @@ You can now modify the new template by adding or removing functional areas or su
 [Add a functional area to a template in RapidStart Services](add-a-functional-area-to-a-template-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

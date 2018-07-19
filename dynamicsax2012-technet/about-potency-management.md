@@ -1,4 +1,4 @@
-﻿---
+---
 title: About potency management
 TOCTitle: About potency management
 ms:assetid: b50211f3-8960-4b22-88e7-e35cd539917c
@@ -13,6 +13,8 @@ f1_keywords:
 - potency
 - ingredient
 - potence
+audience: Application User
+ms.search.region: Global
 ---
 
 # About potency management 
@@ -33,5 +35,5 @@ To set up a batch-controlled item as a potency item, you must first define a bat
 [Create price calculations for sales order items that have a potency](create-price-calculations-for-sales-order-items-that-have-a-potency.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

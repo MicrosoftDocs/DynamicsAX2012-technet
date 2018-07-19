@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up packing and container closing profiles for manual pack process
 TOCTitle: Set up packing and container closing profiles for manual pack process
 ms:assetid: a41ab053-2635-4323-91ad-f2c8c94303bc
@@ -12,6 +12,8 @@ f1_keywords:
 - closing profiles
 - container closing profiles
 - packing profiles
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up packing and container closing profiles for manual pack process 
@@ -91,5 +93,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

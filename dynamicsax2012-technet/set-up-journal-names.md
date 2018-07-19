@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up journal names
 TOCTitle: Set up journal names
 ms:assetid: 63ee9215-d1c0-4226-9340-87319b8ce1cd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571140(v=AX.60)
 ms:contentKeyID: 36057702
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up journal names 
@@ -50,5 +52,5 @@ Setting up fixed asset journals is not a mandatory step in the setup of fixed as
 5.  Select a default inventory journal in the **Inventory journal** field.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

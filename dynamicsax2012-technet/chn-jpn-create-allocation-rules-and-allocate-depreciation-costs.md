@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN, JPN) Create allocation rules and allocate depreciation costs
 TOCTitle: (CHN, JPN) Create allocation rules and allocate depreciation costs
 ms:assetid: c90c3c2f-6a62-4020-8e5f-f2fa8e74bcd1
@@ -16,6 +16,8 @@ f1_keywords:
 - Allocation rule
 - Depreciation cost
 - Depreciation expense
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN, JPN) Create allocation rules and allocate depreciation costs 
@@ -165,5 +167,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Basic setup of Fixed assets](basic-setup-of-fixed-assets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

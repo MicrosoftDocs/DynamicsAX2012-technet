@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and modify capabilities for operations resources
 TOCTitle: Create and modify capabilities for operations resources
 ms:assetid: 8aee0253-af9e-4126-8263-aa2aeea4b185
@@ -14,6 +14,8 @@ f1_keywords:
 - capability
 - operations
 - skill
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and modify capabilities for operations resources 
@@ -104,5 +106,5 @@ To remove the capability from a route relation, you must first remove the route 
 4.  Click **Remove** or press ALT+F9.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

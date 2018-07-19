@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'How to: Add a Visual Studio Project to Microsoft Dynamics AX Version Control'
 TOCTitle: 'How to: Add a Visual Studio Project to Microsoft Dynamics AX Version Control'
 ms:assetid: 387359f5-30f7-4433-94c4-0a804eb02050
@@ -58,5 +58,5 @@ Analysis Services projects are not supported for Microsoft Dynamics AX TFS sourc
 [Visual Studio Development for Microsoft Dynamics AX](https://technet.microsoft.com/en-us/library/gg889157\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

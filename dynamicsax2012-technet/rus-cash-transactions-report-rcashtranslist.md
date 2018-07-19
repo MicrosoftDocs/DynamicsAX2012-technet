@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Cash transactions report (RCashTransList)
 TOCTitle: (RUS) Cash transactions report (RCashTransList)
 ms:assetid: dec27e39-9b21-45ae-ab2c-250f780423a0
@@ -118,5 +118,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(EEUR) Cash accounts (form)](https://technet.microsoft.com/en-us/library/jj710760\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

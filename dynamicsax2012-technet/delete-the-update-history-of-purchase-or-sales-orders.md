@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete the update history of purchase or sales orders
 TOCTitle: Delete the update history of purchase or sales orders
 ms:assetid: e0f9bf97-30c4-4b49-a325-51ba7534f159
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551341(v=AX.60)
 ms:contentKeyID: 36688020
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete the update history of purchase or sales orders 
@@ -28,5 +30,5 @@ Use the **Delete history of update** form to delete the update history.
 4.  Click **OK** to delete the update history and close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

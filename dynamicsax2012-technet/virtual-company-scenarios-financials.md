@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Virtual company scenarios: Financials'
 TOCTitle: 'Virtual company scenarios: Financials'
 ms:assetid: 349e484d-710a-486a-b51d-da8d50d553ab
@@ -682,5 +682,5 @@ To support sharing tax withholding groups among company accounts, you must inclu
   - TaxWithholdTable
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

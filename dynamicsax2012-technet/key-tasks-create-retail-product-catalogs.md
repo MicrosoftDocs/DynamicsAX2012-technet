@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create retail product catalogs'
 TOCTitle: 'Key tasks: Create retail product catalogs'
 ms:assetid: e0af4c3e-0908-4bf9-8193-522a102bb772
@@ -10,6 +10,8 @@ f1_keywords:
 - product catalog
 - retail
 - product catalogs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create retail product catalogs 
@@ -227,5 +229,5 @@ Back to top
 [Set up an online store](set-up-an-online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

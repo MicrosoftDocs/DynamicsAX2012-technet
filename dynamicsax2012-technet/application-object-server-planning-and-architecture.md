@@ -1,4 +1,4 @@
-﻿---
+---
 title: Application Object Server planning and architecture
 TOCTitle: Application Object Server planning and architecture
 ms:assetid: 51b4ba3f-914a-4409-98b3-d2dd9f6f8438
@@ -20,5 +20,5 @@ The topics in this section provide planning and architecture information about A
 [AOS topology](aos-topology.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a customs journal for import or export operations
 TOCTitle: (RUS) Create a customs journal for import or export operations
 ms:assetid: 4e051c03-6306-4d1b-b027-01d6e40ac17e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - Create a customs journal for import or export operations
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a customs journal for import or export operations 
@@ -73,5 +75,5 @@ Use the **Customs journal** form to create a customs journal for import or expor
 [(RUS) Create customs journal (form)](https://technet.microsoft.com/en-us/library/jj853226\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

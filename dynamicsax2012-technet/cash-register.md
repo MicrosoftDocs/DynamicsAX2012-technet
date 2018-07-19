@@ -1,4 +1,4 @@
-﻿---
+---
 title: " cash register"
 TOCTitle: " cash register"
 ms:assetid: DynamicsAXGlossary.1309622
@@ -19,5 +19,5 @@ An electronic or mechanical device with a till that records sales, calculates to
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

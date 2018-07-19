@@ -1,4 +1,4 @@
-﻿---
+---
 title: Structures
 TOCTitle: Structures
 ms:assetid: 11d6c2e5-a9be-4391-9106-51fceee6fe0a
@@ -16,6 +16,8 @@ f1_keywords:
 - cost accounting
 - cost management
 - structures
+audience: Application User
+ms.search.region: Global
 ---
 
 # Structures 
@@ -28,5 +30,5 @@ The topics in this section provide information about the line structures and hie
 [Create hierarchy structures](create-hierarchy-structures.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy Master Data Management
 TOCTitle: Deploy Master Data Management
 ms:assetid: c15ae977-07d6-43c9-8fbf-3ce9f7434377
@@ -208,5 +208,5 @@ After you have published the entities that you want to use to SQL MDS, you must 
 [Add an Entity to Master Data Management](add-an-entity-to-master-data-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

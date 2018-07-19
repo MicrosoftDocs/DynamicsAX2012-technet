@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add a table constraint to a component
 TOCTitle: Add a table constraint to a component
 ms:assetid: 69736dc3-59fe-4cae-8b78-d318cbbf1491
@@ -14,6 +14,8 @@ f1_keywords:
 - attribute type
 - product configuration model
 - table constraint
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add a table constraint to a component 
@@ -54,5 +56,5 @@ For more information, see [Create a table constraint](create-a-table-constraint.
 [About reusing configurations](about-reusing-configurations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

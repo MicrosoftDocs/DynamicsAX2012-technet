@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Support for RunBase framework'
 TOCTitle: RunBase
 ms:assetid: 9a8a31f9-c594-4d38-95a9-aecc86a22ce0
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009 and earlier versions, the **formletter** class con
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

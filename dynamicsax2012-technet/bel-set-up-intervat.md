@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Set up INTERVAT
 TOCTitle: (BEL) Set up INTERVAT
 ms:assetid: b3ad2d05-71da-4ec5-b810-6c24c32ec0de
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232414(v=AX.60)
 ms:contentKeyID: 36059071
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Set up INTERVAT 
@@ -36,5 +38,5 @@ You should create an element for each language, and for the program that you use
 [(BEL) Create an INTERVAT declaration file](bel-create-an-intervat-declaration-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

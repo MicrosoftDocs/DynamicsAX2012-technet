@@ -1,4 +1,4 @@
-﻿---
+---
 title: About graphics in product models
 TOCTitle: About graphics in product models
 ms:assetid: 1ec61a1c-5a80-40c9-b073-4e97779c542e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496779(v=AX.60)
 ms:contentKeyID: 36931866
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About graphics in product models 
@@ -60,5 +62,5 @@ Therefore, if x is between 20 and 35, the value 35 will be used for graphics fil
 [About product models](about-product-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

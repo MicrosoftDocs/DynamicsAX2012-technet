@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Import exchange rates from the CBRF website
 TOCTitle: (RUS) Import exchange rates from the CBRF website
 ms:assetid: 7f6e9730-18a6-4fa0-b204-e795839a5a6b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678408(v=AX.60)
 ms:contentKeyID: 49387639
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Import exchange rates from the CBRF website 
@@ -44,5 +46,5 @@ You can import exchange rates from the Central Bank of the Russian Federation (C
 [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

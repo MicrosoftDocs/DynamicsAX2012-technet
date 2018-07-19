@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up Retail POS
 TOCTitle: Setting up Retail POS
 ms:assetid: cc3960c3-c226-40ce-a484-0119bcb2cfd4
@@ -11,6 +11,8 @@ f1_keywords:
 - POS
 - point of sale
 - point-of-sale
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up Retail POS 
@@ -39,5 +41,5 @@ The topics in this section provide information about how to set up Microsoft Dyn
 [Set up and assign functionality profiles](set-up-and-assign-functionality-profiles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

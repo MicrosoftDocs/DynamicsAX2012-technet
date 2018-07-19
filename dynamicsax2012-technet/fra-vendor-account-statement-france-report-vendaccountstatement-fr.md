@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Vendor account statement (France) report (VendAccountStatement_FR)
 TOCTitle: (FRA) Vendor account statement (France) report (VendAccountStatement_FR)
 ms:assetid: a6a4411a-50ae-468e-b48a-18f269fb91ae
@@ -159,5 +159,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

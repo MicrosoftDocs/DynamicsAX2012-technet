@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Set up due date limits to calculate invoice due dates
 TOCTitle: (ESP) Set up due date limits to calculate invoice due dates
 ms:assetid: 31e510cf-1f63-4aaa-a4e4-a83e393d7893
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911369(v=AX.60)
 ms:contentKeyID: 50934001
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Set up due date limits to calculate invoice due dates 
@@ -40,5 +42,5 @@ Use the **Due date limits** form to create due date limits, which are used to sp
 [(ESP) Assign due date limits to item groups to calculate invoice due dates](esp-assign-due-date-limits-to-item-groups-to-calculate-invoice-due-dates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

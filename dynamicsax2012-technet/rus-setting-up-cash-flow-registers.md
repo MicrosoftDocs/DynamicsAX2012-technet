@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up cash flow registers
 TOCTitle: (RUS) Setting up cash flow registers
 ms:assetid: a7f14d0a-a91e-4a67-9bc1-64a9da456c93
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678583(v=AX.60)
 ms:contentKeyID: 49387811
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up cash flow registers 
@@ -22,5 +24,5 @@ The following topics provide information about setting up cash flow registers.
 [(RUS) Set up a register for cash payment receipt](rus-set-up-a-register-for-cash-payment-receipt.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

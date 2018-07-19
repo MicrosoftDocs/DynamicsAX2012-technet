@@ -1,4 +1,4 @@
-﻿---
+---
 title: AXUpdate command line parameters reference
 TOCTitle: AXUpdate command line parameters reference
 ms:assetid: 42f5ad71-2470-46c8-903a-53e6d34714d1
@@ -124,7 +124,7 @@ The following command-line parameters can be used to install updates.
 <td><p>Specify where the log files for AXUpdate.exe are saved.</p>
 <p>By default, the following path is used:</p>
 <p>%ALLUSERSPROFILE%\Microsoft\Dynamics AX\Dynamics AX Setup Logs\</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>When log files are saved to the default location, they are arranged in dated folders to protect existing log files from being overwritten. If you override the default value for <STRONG>LogDir</STRONG>, the logs are saved to the exact folder that you specify. Any log files that are already located in that folder are overwritten.</P>
@@ -147,5 +147,5 @@ The following command-line parameters can be used to install updates.
 [Run AXUpdate in silent mode](run-axupdate-in-silent-mode.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

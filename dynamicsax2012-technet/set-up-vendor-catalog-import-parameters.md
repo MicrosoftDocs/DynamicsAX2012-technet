@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up vendor catalog import parameters
 TOCTitle: Set up vendor catalog import parameters
 ms:assetid: d46b92b1-c39c-446c-98cc-f6809380ea27
@@ -10,6 +10,8 @@ f1_keywords:
 - Catalog import
 - configure root folder
 - root folder
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up vendor catalog import parameters 
@@ -52,5 +54,5 @@ CMR files are stored in a preconfigured folder. Use the following procedure to s
 [Validate and approve imported catalogs](validate-and-approve-imported-catalogs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

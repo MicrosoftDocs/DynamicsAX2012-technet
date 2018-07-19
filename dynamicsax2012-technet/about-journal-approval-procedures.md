@@ -1,4 +1,4 @@
-﻿---
+---
 title: About journal approval procedures
 TOCTitle: About journal approval procedures
 ms:assetid: effa7746-7ad0-4033-8d83-3119aef8e785
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - approval procedure
 - approve journal
+audience: Application User
+ms.search.region: Global
 ---
 
 # About journal approval procedures 
@@ -45,5 +47,5 @@ In the journal, you can also overwrite the approval procedure that is attached t
 [Apply a journal approval procedure](apply-a-journal-approval-procedure.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

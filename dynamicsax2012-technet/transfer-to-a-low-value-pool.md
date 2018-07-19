@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transfer to a low value pool
 TOCTitle: Transfer to a low value pool
 ms:assetid: 5ab1a972-cadd-40aa-8683-985aef239496
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - low value pool
 - low-value pool
+audience: Application User
+ms.search.region: Global
 ---
 
 # Transfer to a low value pool 
@@ -23,5 +25,5 @@ The topics in this section provide information about how to transfer fixed asset
 [(AUS) Transfer one asset to a low-value pool](aus-transfer-one-asset-to-a-low-value-pool.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

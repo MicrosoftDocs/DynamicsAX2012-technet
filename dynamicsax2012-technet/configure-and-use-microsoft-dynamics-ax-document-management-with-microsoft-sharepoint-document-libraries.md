@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure and use Microsoft Dynamics AX document management with Microsoft SharePoint document libraries
 TOCTitle: Configure and use document management with Microsoft SharePoint document libraries
 ms:assetid: 07fc5e47-a916-4839-ad47-f98196d6d3a1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn631953(v=AX.60)
 ms:contentKeyID: 61542607
 ms.date: 09/17/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure and use Microsoft Dynamics AX document management with Microsoft SharePoint document libraries 
@@ -221,5 +223,5 @@ To activate a document template, follow these steps:
 [Document management](document-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

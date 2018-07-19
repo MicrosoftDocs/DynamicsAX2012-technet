@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create an EXIM EPCG scheme for a technology upgrade EPCG license
 TOCTitle: (IND) Create an EXIM EPCG scheme for a technology upgrade EPCG license
 ms:assetid: 45cb9452-2dce-4836-aced-45420f35ac62
@@ -13,6 +13,8 @@ f1_keywords:
 - Create EXIM EPCG scheme
 - EXIM EPCG scheme
 - technology upgrade EPCG license
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create an EXIM EPCG scheme for a technology upgrade EPCG license 
@@ -110,5 +112,5 @@ On the **Lines** FastTab, the details of the technology upgrade EPCG license are
 [(IND) Verify details about the technology upgrade for an EPCG license](ind-verify-details-about-the-technology-upgrade-for-an-epcg-license.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Cash and bank management features"
 TOCTitle: Cash and bank management features
 ms:assetid: ee85aafd-243b-4863-8e64-1a5f7eb8ae05
@@ -70,5 +70,5 @@ We have changed and added functionality in the [Cash and bank management](cash-a
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

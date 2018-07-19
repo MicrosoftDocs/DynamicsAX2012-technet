@@ -1,4 +1,4 @@
-﻿---
+---
 title: About item costs
 TOCTitle: About item costs
 ms:assetid: 99707264-1ba1-4545-a52b-534c6a6f1f96
@@ -10,6 +10,8 @@ f1_keywords:
 - cost - item
 - item cost
 - journal posting
+audience: Application User
+ms.search.region: Global
 ---
 
 # About item costs 
@@ -93,5 +95,5 @@ Profit and loss
 [Estimate (form)](https://technet.microsoft.com/en-us/library/aa590971\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

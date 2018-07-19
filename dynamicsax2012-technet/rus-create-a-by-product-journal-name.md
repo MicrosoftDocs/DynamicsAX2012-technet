@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a by-product journal name
 TOCTitle: (RUS) Create a by-product journal name
 ms:assetid: a63a5bd7-6ea9-48d2-8ef7-72d0199d5d07
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678570(v=AX.60)
 ms:contentKeyID: 49387798
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a by-product journal name 
@@ -54,5 +56,5 @@ Use the **Production journal names** form to create journal names to record actu
 [Production journal names (form)](https://technet.microsoft.com/en-us/library/aa600923\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

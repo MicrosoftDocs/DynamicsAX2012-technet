@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using inventory journals
 TOCTitle: Using inventory journals
 ms:assetid: 775dc1c5-4c89-45cf-968c-6a92dded4016
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550043(v=AX.60)
 ms:contentKeyID: 44080995
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using inventory journals 
@@ -58,5 +60,5 @@ You can use inventory journals in various parts of Microsoft Dynamics AX. For ex
 You can post the journal lines that you create at any time. Data that you enter in a journal remains in the journal even if you close the journal without posting the lines.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

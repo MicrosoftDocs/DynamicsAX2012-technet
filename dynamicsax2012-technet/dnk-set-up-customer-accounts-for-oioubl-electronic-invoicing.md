@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Set up customer accounts for OIOUBL electronic invoicing
 TOCTitle: (DNK) Set up customer accounts for OIOUBL electronic invoicing
 ms:assetid: 3017257d-6843-4642-9f20-3a4497bfb48d
@@ -10,6 +10,8 @@ f1_keywords:
 - customer accounts
 - electronic invoicing
 - OIOUBL
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Set up customer accounts for OIOUBL electronic invoicing 
@@ -50,5 +52,5 @@ Use the **Customers** form to specify the address and contact details for custom
 [Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

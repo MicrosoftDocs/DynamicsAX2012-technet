@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) About accounting distributions and subledger journals
 TOCTitle: (CHN) About accounting distributions and subledger journals
 ms:assetid: 8220b01b-b1ce-4f4e-a934-bc203a4804fb
@@ -11,6 +11,8 @@ f1_keywords:
 - China
 - About accounting distributions
 - subledger journals
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) About accounting distributions and subledger journals 
@@ -31,5 +33,5 @@ Voucher types are generated and validated when ledger transactions are posted. V
 [(CHN) Voucher transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664127\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

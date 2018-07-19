@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an intercompany project invoice
 TOCTitle: Create an intercompany project invoice
 ms:assetid: 73987788-75b0-4484-8da4-1fed94fb73de
@@ -13,6 +13,8 @@ f1_keywords:
 - Forms.ProjIntercompanyInvoice
 - MsDynAx060.Forms.ProjIntercompanyInvoice
 - Forms.ProjIntercompanyTransactionSelection
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an intercompany project invoice 
@@ -137,5 +139,5 @@ You can create multiple intercompany invoices at the same time by selecting filt
 [Set up transfer prices for intercompany timesheets](set-up-transfer-prices-for-intercompany-timesheets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up Retail POS (Retail essentials)
 TOCTitle: Setting up Retail POS (Retail essentials)
 ms:assetid: 4701931d-cdf9-4503-9d93-0197d2cdf218
@@ -104,5 +104,5 @@ The topics in this section provide information about how to set up Retail POS fo
 [Setting up profiles (Retail essentials)](setting-up-profiles-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

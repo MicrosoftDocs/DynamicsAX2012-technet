@@ -1,4 +1,4 @@
-﻿---
+---
 title: About sales order types
 TOCTitle: About sales order types
 ms:assetid: df092bab-93ce-41cb-b955-9f7a958f3c95
@@ -17,6 +17,8 @@ f1_keywords:
 - create sales orders
 - sales order journal
 - sales order types
+audience: Application User
+ms.search.region: Global
 ---
 
 # About sales order types 
@@ -45,7 +47,7 @@ When you create a sales order, you must indicate the type of order that it is. Y
 <tr class="even">
 <td><p><strong>Subscription</strong></p></td>
 <td><p>Use for recurring orders. When the order is invoiced, the order status is set automatically to open order. Quantity delivered invoiced and remaining deliveries are updated.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!WARNING]
 > <P>You cannot use this sales order type if you are using the Warehouse management module.</P>
@@ -75,5 +77,5 @@ When you create a sales order, you must indicate the type of order that it is. Y
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

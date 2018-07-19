@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Set up manufacturing execution'
 TOCTitle: 'Key tasks: Set up manufacturing execution'
 ms:assetid: bdada46b-1d4e-4213-907f-20fcae1c3e85
@@ -10,6 +10,8 @@ f1_keywords:
 - production
 - manufacturing execution
 - shop floor
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Set up manufacturing execution 
@@ -483,5 +485,5 @@ Back to top
 [Set up and apply piecework in production](set-up-and-apply-piecework-in-production.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

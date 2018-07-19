@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up an exchange rate date parameter in the Accounts payable parameter
 TOCTitle: (POL) Set up an exchange rate date parameter in the Accounts payable parameter
 ms:assetid: 644e0303-4733-44d5-929e-e240fe2d6360
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678224(v=AX.60)
 ms:contentKeyID: 49386946
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up an exchange rate date parameter in the Accounts payable parameter 
@@ -50,5 +52,5 @@ You can use the **Accounts payable parameters** form to define the date paramete
 [(POL) Set up an exchange rate date parameter in the Accounts receivable parameter](pol-set-up-an-exchange-rate-date-parameter-in-the-accounts-receivable-parameter.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

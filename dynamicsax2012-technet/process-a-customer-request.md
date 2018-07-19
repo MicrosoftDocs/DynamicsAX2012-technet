@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process a customer request
 TOCTitle: Process a customer request
 ms:assetid: 7ed75e06-a39e-477f-8f05-bcbe54a8afc5
@@ -12,6 +12,8 @@ f1_keywords:
 - customer requests
 - sign up
 - signup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process a customer request 
@@ -90,5 +92,5 @@ For more information about the steps that must be completed before a user reques
 [Configure email functionality in Microsoft Dynamics AX](configure-email-functionality-in-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

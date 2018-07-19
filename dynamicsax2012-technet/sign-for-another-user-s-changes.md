@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sign for another user's changes
 TOCTitle: Sign for another user's changes
 ms:assetid: cb63ead7-c40f-4a4c-a9f8-2f7afefe787e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - compliance
 - e-signature
+audience: Application User
+ms.search.region: Global
 ---
 
 # Sign for another user's changes 
@@ -37,5 +39,5 @@ At times, you might want a user to sign for another user's changes. For example,
 6.  Close the forms to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

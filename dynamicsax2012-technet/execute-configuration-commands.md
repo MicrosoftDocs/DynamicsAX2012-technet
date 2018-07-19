@@ -1,4 +1,4 @@
-﻿---
+---
 title: Execute configuration commands
 TOCTitle: Execute configuration commands
 ms:assetid: a18308bc-4a72-48e1-8661-c1ec390282bd
@@ -105,5 +105,5 @@ If you start an AOS instance at a command prompt, you can pass the configuration
 [Application Object Server (AOS) configuration commands](application-object-server-aos-configuration-commands.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up taxes (Retail essentials)
 TOCTitle: Setting up taxes (Retail essentials)
 ms:assetid: ade863d1-feab-4c7d-bc8a-4b9a097adc58
@@ -26,5 +26,5 @@ The topics in this section provide information about how to set up taxes for Ret
 [Set up optional tax settings for stores (Retail essentials)](set-up-optional-tax-settings-for-stores-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

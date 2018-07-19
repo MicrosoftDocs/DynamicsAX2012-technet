@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service tasks
 TOCTitle: About service tasks
 ms:assetid: 936f02fb-e32e-43fa-ae57-5582128af12c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498387(v=AX.60)
 ms:contentKeyID: 36058582
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service tasks 
@@ -170,5 +172,5 @@ When you create service orders automatically, you can use service tasks as group
 [Create service task relations](create-service-task-relations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

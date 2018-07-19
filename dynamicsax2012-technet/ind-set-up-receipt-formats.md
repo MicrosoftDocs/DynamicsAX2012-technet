@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up receipt formats
 TOCTitle: (IND) Set up receipt formats
 ms:assetid: b4fbba60-23d0-4290-ba26-cf8016a38995
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailFormLayout
 - IN - 00015
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up receipt formats 
@@ -37,5 +39,5 @@ Use the **Receipt format designer** form to set up a receipt format to include t
 After you drag the elements to the workspace, you can set up the required properties for the elements in the **Object info** pane at the bottom of the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

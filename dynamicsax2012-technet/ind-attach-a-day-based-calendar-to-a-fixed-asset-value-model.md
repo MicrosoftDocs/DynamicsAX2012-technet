@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Attach a day-based calendar to a fixed asset value model
 TOCTitle: (IND) Attach a day-based calendar to a fixed asset value model
 ms:assetid: 230c0285-83a7-42be-a2e0-157614d0a234
@@ -12,6 +12,8 @@ f1_keywords:
 - India
 - Attach a day-based calendar
 - day-based calendar
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Attach a day-based calendar to a fixed asset value model 
@@ -42,5 +44,5 @@ Before you attach a calendar to a fixed asset model, you must set up a fiscal ca
 [(IND) Basic setup of Fixed assets](ind-basic-setup-of-fixed-assets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

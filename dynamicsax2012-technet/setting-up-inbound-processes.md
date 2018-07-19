@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up inbound processes
 TOCTitle: Setting up inbound processes
 ms:assetid: 179059d7-2914-49ff-aeb4-6747f1703bf8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497723(v=AX.60)
 ms:contentKeyID: 62200037
 ms.date: 07/18/2016
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up inbound processes 
@@ -36,5 +38,5 @@ The topics in this section provide information about how to set up inbound proce
 [Define a search for inbound put locations that is based on advanced shipping notices and mixed license plates](define-a-search-for-inbound-put-locations-that-is-based-on-advanced-shipping-notices-and-mixed-license-plates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up shipping for online stores
 TOCTitle: Setting up shipping for online stores
 ms:assetid: 9a75c0c1-a6f1-4d59-b555-1ed5e12bbb2f
@@ -10,6 +10,8 @@ f1_keywords:
 - shipping
 - online store
 - online stores
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up shipping for online stores 
@@ -24,5 +26,5 @@ The topics in this section provide information about how to set up modes of deli
 [Set up shipping charges for online stores](set-up-shipping-charges-for-online-stores.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

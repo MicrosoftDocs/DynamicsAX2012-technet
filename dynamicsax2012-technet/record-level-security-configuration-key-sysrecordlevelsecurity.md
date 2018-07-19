@@ -1,4 +1,4 @@
-﻿---
+---
 title: Record level security configuration key (SysRecordLevelsecurity)
 TOCTitle: Record level security configuration key (SysRecordLevelsecurity)
 ms:assetid: 708e3876-3274-4433-a1b2-2844bf387d0b
@@ -60,5 +60,5 @@ For more information about how license codes and configuration keys work togethe
 [Manage record level security](manage-record-level-security.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

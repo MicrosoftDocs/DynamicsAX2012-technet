@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up and generate an itemized VAT statement
 TOCTitle: (HUN) Set up and generate an itemized VAT statement
 ms:assetid: 736eca2a-c207-4e0c-84a6-de4b51cb439c
@@ -18,6 +18,8 @@ f1_keywords:
 - Itemized VAT
 - Value added tax
 - VAT reporting
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up and generate an itemized VAT statement 
@@ -132,5 +134,5 @@ To generate and export the itemized VAT statement, follow these steps:
 [(HUN) VAT reporting (form)](https://technet.microsoft.com/en-us/library/jj664308\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

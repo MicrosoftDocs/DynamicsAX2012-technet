@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up prices using price groups
 TOCTitle: Setting up prices using price groups
 ms:assetid: 8eda69ac-2702-4bdf-887c-b147d577ad87
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - price group
 - price groups
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up prices using price groups 
@@ -29,5 +31,5 @@ The topics in this section provide information about how to set up Retail price 
 [Set prices in a catalog](set-prices-in-a-catalog.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

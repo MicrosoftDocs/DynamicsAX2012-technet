@@ -1,4 +1,4 @@
-﻿---
+---
 title: About sealed bids
 TOCTitle: About sealed bids
 ms:assetid: 79ecccb3-846b-4c45-87db-e884649f916d
@@ -17,6 +17,8 @@ f1_keywords:
 - sealed reply
 - sealed request for quotation
 - sealed RFQs
+audience: Application User
+ms.search.region: Global
 ---
 
 # About sealed bids 
@@ -61,5 +63,5 @@ When the expiration date and time for a sealed RFQ passes, the purchasing agent 
 For more information, see [Compare bids and award a contract](compare-bids-and-award-a-contract.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

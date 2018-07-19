@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a screen layout (Retail essentials)
 TOCTitle: Set up a screen layout (Retail essentials)
 ms:assetid: bf9fadd7-4cc7-4057-b61b-176fbe18cd6a
@@ -46,5 +46,5 @@ To set up screen layouts for registers, follow these steps:
 [Setting up screen layouts (Retail essentials)](setting-up-screen-layouts-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

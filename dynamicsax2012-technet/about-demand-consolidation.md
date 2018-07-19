@@ -1,4 +1,4 @@
-﻿---
+---
 title: About demand consolidation
 TOCTitle: About demand consolidation
 ms:assetid: 7d243b18-571a-4733-b751-2239a7e2c5ae
@@ -10,6 +10,8 @@ f1_keywords:
 - demand consolidation
 - purchase requisition aggregation
 - requisition consolidation
+audience: Application User
+ms.search.region: Global
 ---
 
 # About demand consolidation 
@@ -70,5 +72,5 @@ To consolidate approved purchase requisition lines, follow these steps:
 [Create purchase orders manually from purchase requisitions](create-purchase-orders-manually-from-purchase-requisitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

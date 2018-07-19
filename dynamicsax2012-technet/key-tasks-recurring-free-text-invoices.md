@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Recurring free text invoices'
 TOCTitle: 'Key tasks: Recurring free text invoices'
 ms:assetid: e8bfcf86-86a2-48a3-b9f5-ee21d18c4248
@@ -12,6 +12,8 @@ f1_keywords:
 - overview of recurring free text invoice
 - free text recurrence
 - invoice recurrence
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Recurring free text invoices 
@@ -160,5 +162,5 @@ Back to top
 [Create charges codes](create-charges-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

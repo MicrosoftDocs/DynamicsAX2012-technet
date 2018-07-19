@@ -1,4 +1,4 @@
-﻿---
+---
 title: About releasing production orders
 TOCTitle: About releasing production orders
 ms:assetid: d5b408fa-3586-43d8-9c49-bc8ce5e38192
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499380(v=AX.60)
 ms:contentKeyID: 37832537
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About releasing production orders 
@@ -60,5 +62,5 @@ A job card lists the individual job numbers of a particular operation. One job a
 [Production orders (form)](https://technet.microsoft.com/en-us/library/aa617966\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

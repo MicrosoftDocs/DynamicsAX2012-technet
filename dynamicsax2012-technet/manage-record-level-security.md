@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage record level security
 TOCTitle: Manage record level security
 ms:assetid: ddbe0898-8504-4203-8aa0-f2821aa7cd60
@@ -93,5 +93,5 @@ A surrogate foreign key is a column in one table that retrieves its values from,
 In the **Advanced Filter** form, a range filter on a surrogate foreign key is applied to the table that is referenced by the foreign key. However, in record-level security, a range filter must be applied to the current table. This means that record-level security will treat a range filter on a surrogate foreign key as an invalid range.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

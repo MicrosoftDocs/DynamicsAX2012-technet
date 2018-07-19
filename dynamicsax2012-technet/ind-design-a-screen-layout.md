@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Design a screen layout
 TOCTitle: (IND) Design a screen layout
 ms:assetid: 9b59412a-e095-43d4-ba98-67d351b51221
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailTillLayout
 - IN - 00015
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Design a screen layout 
@@ -35,5 +37,5 @@ Use the **Screen layouts** form to set up a layout to include and display the ta
 5.  In the **Customization** form, click **Tax on cancellation**, and then drag it to the screen layout designer. **Tax on cancellation** no longer appears in the **Customization** form, because each layout can contain only one tax on cancellation charge.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up accounts for posting tax adjustments
 TOCTitle: (IND) Set up accounts for posting tax adjustments
 ms:assetid: 92afc928-3bfa-4112-8d5d-07396bf6b27a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678059(v=AX.60)
 ms:contentKeyID: 49386020
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up accounts for posting tax adjustments 
@@ -42,5 +44,5 @@ When you run the tax settlement process, the tax amounts that are adjusted are p
 [(IND) Chart of accounts (modified form)](https://technet.microsoft.com/en-us/library/jj677830\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

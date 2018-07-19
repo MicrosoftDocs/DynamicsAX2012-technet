@@ -1,4 +1,4 @@
-﻿---
+---
 title: Object permissions report (ObjectPermissionsReport)
 TOCTitle: Object permissions report (ObjectPermissionsReport)
 ms:assetid: c04a5296-6454-4366-99dc-2c3ecb7993ea
@@ -18,5 +18,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 The **Object permissions report** (ObjectPermissionsReport) has been deprecated in Microsoft Dynamics AX 2012.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts receivable setup overview (Public sector)
 TOCTitle: Accounts receivable setup overview (Public sector)
 ms:assetid: 78ce64a0-7eac-4480-ac9c-44436788ebb7
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - public sector
 - accounts receivable for the public sector
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Accounts receivable setup overview (Public sector) 
@@ -47,5 +49,5 @@ The following setup forms complement those that are described in [Accounts recei
     For more information, see [Trading partner codes (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208574\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

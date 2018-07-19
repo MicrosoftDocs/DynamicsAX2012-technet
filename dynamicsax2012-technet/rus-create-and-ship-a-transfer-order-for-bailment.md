@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and ship a transfer order for bailment
 TOCTitle: (RUS) Create and ship a transfer order for bailment
 ms:assetid: dd3cb70c-29f3-493d-bee7-a813aba9d129
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923598(v=AX.60)
 ms:contentKeyID: 52075440
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and ship a transfer order for bailment 
@@ -72,5 +74,5 @@ Use the **Transfer orders** form to create a transfer order, and use the **Shipm
 [(RUS) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj733409\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

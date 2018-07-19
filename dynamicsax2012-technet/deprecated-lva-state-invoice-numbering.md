@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (LVA) State invoice numbering'
 TOCTitle: (LVA) State invoice numbering
 ms:assetid: 6bcab8bc-c42a-4ef3-a97a-89bd47eaba58
@@ -57,5 +57,5 @@ For Latvian installations, Microsoft Dynamics AX 2009 and earlier versions suppo
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

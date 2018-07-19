@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Set up number sequences for invoices and packing slips
 TOCTitle: (LTU) Set up number sequences for invoices and packing slips
 ms:assetid: 58b2d7d1-b370-4daf-aa78-cccbe0a2c616
@@ -10,6 +10,8 @@ f1_keywords:
 - Set up
 - (LTU)
 - invoices and packing slips
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Set up number sequences for invoices and packing slips 
@@ -46,5 +48,5 @@ The numbers that are assigned to invoices and packing slips are included on prin
 [(LTU) Invoice numbering setup (form)](https://technet.microsoft.com/en-us/library/jj911060\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

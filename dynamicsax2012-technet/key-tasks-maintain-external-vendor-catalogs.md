@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Maintain external vendor catalogs'
 TOCTitle: 'Key tasks: Maintain external vendor catalogs'
 ms:assetid: b1bce455-9743-41b6-a53f-f04abbdc50cb
@@ -13,6 +13,8 @@ f1_keywords:
 - external vendor
 - external vendors
 - vender catalogs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Maintain external vendor catalogs 
@@ -157,5 +159,5 @@ Back to top
 [Set up an external vendor catalog](set-up-an-external-vendor-catalog.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter translations in a product configuration model
 TOCTitle: Enter translations in a product configuration model
 ms:assetid: f0128955-4c56-4f2b-9281-b13d506f814d
@@ -10,6 +10,8 @@ f1_keywords:
 - product configurator
 - model translation
 - product configuration
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enter translations in a product configuration model 
@@ -36,5 +38,5 @@ You can provide translated versions of product configuration models by translati
 5.  Repeat steps 3 and 4 for each element of the product configuration model to translate.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

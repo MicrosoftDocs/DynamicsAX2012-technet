@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Upgrade Commerce Services
 TOCTitle: (USA) Upgrade Commerce Services
 ms:assetid: dd03ba99-2c42-4679-9b17-b138580ce636
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh696881(v=AX.60)
 ms:contentKeyID: 42517341
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Upgrade Commerce Services 
@@ -44,5 +46,5 @@ For information about how to work with Commerce Services, see [(USA) Sell produc
 [(USA) Setting up and maintaining Sites Services for Microsoft Dynamics ERP](usa-setting-up-and-maintaining-sites-services-for-microsoft-dynamics-erp.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

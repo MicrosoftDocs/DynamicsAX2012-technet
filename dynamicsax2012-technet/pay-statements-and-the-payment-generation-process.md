@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pay statements and the payment generation process
 TOCTitle: Pay statements and the payment generation process
 ms:assetid: 0248906d-a05a-49e5-ab62-7939b4d773be
@@ -16,6 +16,8 @@ f1_keywords:
 - pay statement line distribution
 - payment generation
 - terminated employee
+audience: Application User
+ms.search.region: USA
 ---
 
 # Pay statements and the payment generation process 
@@ -108,5 +110,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

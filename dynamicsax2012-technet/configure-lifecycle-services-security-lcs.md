@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure Lifecycle Services security (LCS)
 TOCTitle: Configure security
 ms:assetid: aeb1d9fd-c91a-4ecd-8f7b-0c62a64c7076
@@ -14,5 +14,5 @@ mtps_version: v=AX.60
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/configure-lifecycle-services-security-lcs/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

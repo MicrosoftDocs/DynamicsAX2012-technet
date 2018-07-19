@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Dynamics AX 2012 Day in the Life Benchmark
 TOCTitle: Microsoft Dynamics AX 2012 Day in the Life Benchmark
 ms:assetid: f6030832-b299-42f5-9b8c-7c0fef5a2c71
@@ -30,5 +30,5 @@ We have published the following two papers about the “day in the life” bench
   - [Microsoft Dynamics AX 2012 “Day in the life” benchmark summary](http://go.microsoft.com/fwlink/?linkid=230566) – This paper provides a summary of the “day in the life” benchmark results, and can be downloaded from CustomerSource and PartnerSource.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

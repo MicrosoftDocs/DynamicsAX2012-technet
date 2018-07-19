@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View information about Advance Authorization (AA) transactions
 TOCTitle: (IND) View information about Advance Authorization (AA) transactions
 ms:assetid: 39b7ee60-f660-46ea-9430-eafe0c5d4a33
@@ -12,6 +12,8 @@ f1_keywords:
 - india
 - Advanced Authorization
 - AA transactions
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View information about Advance Authorization (AA) transactions 
@@ -89,5 +91,5 @@ The following table shows the forms where you can view this information and inst
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

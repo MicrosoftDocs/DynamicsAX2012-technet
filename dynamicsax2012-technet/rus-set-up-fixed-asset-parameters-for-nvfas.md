@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up fixed asset parameters for NVFAs
 TOCTitle: (RUS) Set up fixed asset parameters for NVFAs
 ms:assetid: 9b811261-da0b-4961-85fc-b225df1aab6a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853209(v=AX.60)
 ms:contentKeyID: 50396490
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up fixed asset parameters for NVFAs 
@@ -34,5 +36,5 @@ Use this procedure to set up fixed asset parameters for not valuable fixed asset
 [(RUS) About NVFAs, working clothes, and special rigging accounting](rus-about-nvfas-working-clothes-and-special-rigging-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

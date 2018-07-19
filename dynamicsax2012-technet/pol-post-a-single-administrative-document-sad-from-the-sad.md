@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Post a Single Administrative Document (SAD) from the SAD
 TOCTitle: (POL) Post a Single Administrative Document (SAD) from the SAD
 ms:assetid: eab6ef13-d39d-4e0f-a27b-c10b79733236
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731084(v=AX.60)
 ms:contentKeyID: 49675324
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Post a Single Administrative Document (SAD) from the SAD 
@@ -48,5 +50,5 @@ Before you start working with SADs, you must verify the setup of number sequence
 [(POL) Post a Single Administrative Document (SAD) from the general journal](pol-post-a-single-administrative-document-sad-from-the-general-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

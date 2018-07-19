@@ -1,4 +1,4 @@
-﻿---
+---
 title: View customer invoices for projects
 TOCTitle: View customer invoices for projects
 ms:assetid: 4673d2c0-d6da-4c7a-a217-211b30753000
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - customer invoice
 - invoice project
+audience: Application User
+ms.search.region: Global
 ---
 
 # View customer invoices for projects 
@@ -51,5 +53,5 @@ View all posted customer invoices and their underlying transactions.
 [Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

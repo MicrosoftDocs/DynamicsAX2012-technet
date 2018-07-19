@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up Microsoft Dynamics AX to process returns during a different shift
 TOCTitle: (RUS) Set up Microsoft Dynamics AX to process returns during a different shift
 ms:assetid: f7c543b8-a605-41a1-b2df-b50cdfa0cffe
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailParameters
 - Forms.RetailStoreTable
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up Microsoft Dynamics AX to process returns during a different shift 
@@ -113,5 +115,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

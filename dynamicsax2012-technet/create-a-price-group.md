@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a price group
 TOCTitle: Create a price group
 ms:assetid: b3ce6e80-6a51-46dc-808c-2dbbb29e95f7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497818(v=AX.60)
 ms:contentKeyID: 62200140
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a price group 
@@ -30,5 +32,5 @@ To create a price group, follow these steps:
 [About setting prices by using price groups](about-setting-prices-by-using-price-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

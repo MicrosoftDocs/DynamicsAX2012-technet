@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up composite cell type requisites
 TOCTitle: (RUS) Set up composite cell type requisites
 ms:assetid: 12330976-f99e-4933-b7d3-1c1dfb300cf4
@@ -10,6 +10,8 @@ f1_keywords:
 - requisite
 - composite cell
 - requisites
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up composite cell type requisites 
@@ -62,5 +64,5 @@ After you create the lines, you can arrange them in the correct order. Select a 
 [(RUS) Set up templates for electronic reporting](rus-set-up-templates-for-electronic-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

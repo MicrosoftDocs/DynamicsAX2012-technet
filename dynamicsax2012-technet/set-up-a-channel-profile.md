@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a channel profile
 TOCTitle: Set up a channel profile
 ms:assetid: 4ef00ad9-9da2-4d21-b3e1-637f77cab208
@@ -38,5 +38,5 @@ A channel profile contains properties that must be defined for a retail channel,
 [Channel profiles (form)](https://technet.microsoft.com/en-us/library/jj677439\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

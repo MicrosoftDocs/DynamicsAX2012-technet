@@ -1,4 +1,4 @@
-﻿---
+---
 title: Send messages to workers during registration
 TOCTitle: Send messages to workers during registration
 ms:assetid: bab8b6db-f7f9-437c-9227-31fbfacb5045
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498857(v=AX.60)
 ms:contentKeyID: 36059128
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Send messages to workers during registration 
@@ -96,5 +98,5 @@ When you send a message to selected workers, the message will be displayed only 
 [Inquiry (form)](https://technet.microsoft.com/en-us/library/aa575929\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

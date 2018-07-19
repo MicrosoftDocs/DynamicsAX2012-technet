@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up reason codes for electronic signatures
 TOCTitle: Set up reason codes for electronic signatures
 ms:assetid: 151a02bb-e63a-4935-a182-f405aabde5c4
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - compliance
 - e-signature
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up reason codes for electronic signatures 
@@ -31,5 +33,5 @@ You must set up reason codes before using electronic signatures. A valid reason 
 5.  Close the form to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

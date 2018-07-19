@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up parameters for the NVFA statement of writing-off (No. MB-8)
 TOCTitle: (RUS) Set up parameters for the NVFA statement of writing-off (No. MB-8)
 ms:assetid: a3377767-e004-4192-aebd-0db3567e10be
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853211(v=AX.60)
 ms:contentKeyID: 50396492
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up parameters for the NVFA statement of writing-off (No. MB-8) 
@@ -32,5 +34,5 @@ Use this procedure to set up parameters for not valuable fixed assets (NVFAs) by
 [(RUS) About NVFAs, working clothes, and special rigging accounting](rus-about-nvfas-working-clothes-and-special-rigging-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

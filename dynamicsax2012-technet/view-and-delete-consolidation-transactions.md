@@ -1,4 +1,4 @@
-﻿---
+---
 title: View and delete consolidation transactions
 TOCTitle: View and delete consolidation transactions
 ms:assetid: 2c3f82ad-040f-4cd8-a896-af8bdbe25b0d
@@ -10,6 +10,8 @@ f1_keywords:
 - transactions
 - consolidation
 - consolidation transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # View and delete consolidation transactions 
@@ -34,5 +36,5 @@ Consolidating the accounts of various subsidiaries can be time-consuming, and so
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

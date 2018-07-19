@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain purchase orders that are created from purchase requisitions
 TOCTitle: Maintain purchase orders that are created from purchase requisitions
 ms:assetid: 026b7b21-347c-4ba4-b926-83d9ae463313
@@ -15,6 +15,8 @@ f1_keywords:
 - PO
 - requisition
 - POs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain purchase orders that are created from purchase requisitions 
@@ -33,5 +35,5 @@ The following topics provide information about how to consolidate approved purch
 [View or modify purchase requisition information on a purchase order](view-or-modify-purchase-requisition-information-on-a-purchase-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

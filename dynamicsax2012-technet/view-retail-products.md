@@ -1,4 +1,4 @@
-﻿---
+---
 title: View retail products
 TOCTitle: View retail products
 ms:assetid: c8111d85-06e7-4c74-a9f2-92c2fc48c0b6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPRetailItemDetails
 - EPRetailItemsListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # View retail products 
@@ -39,5 +41,5 @@ You can view a list of all the products that your store sells. You can also view
 [View price reductions and discounts](view-price-reductions-and-discounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

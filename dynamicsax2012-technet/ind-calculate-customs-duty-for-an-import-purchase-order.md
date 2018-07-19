@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate customs duty for an import purchase order
 TOCTitle: (IND) Calculate customs duty for an import purchase order
 ms:assetid: 87d074bf-6b5a-411f-8bcf-c4ec7cc4658f
@@ -11,6 +11,8 @@ f1_keywords:
 - Forms.TaxTmpWorkTrans
 - customs duty
 - excise amount
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate customs duty for an import purchase order 
@@ -87,5 +89,5 @@ The landing charges and customs duty for the import order lines are automaticall
 [(IND) Create a purchase order and post charges](ind-create-a-purchase-order-and-post-charges.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

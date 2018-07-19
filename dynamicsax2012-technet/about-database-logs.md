@@ -1,4 +1,4 @@
-﻿---
+---
 title: About database logs
 TOCTitle: About database logs
 ms:assetid: 7ec3063c-954c-439d-8743-c61fbfda13a8
@@ -8,6 +8,8 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
 - ViewDatabaseLogs
+audience: Application User
+ms.search.region: Global
 ---
 
 # About database logs 
@@ -40,5 +42,5 @@ Use the **Database logs** page to view and filter data from the database log, wh
 Database logs must be set up in the Microsoft Dynamics AX client.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

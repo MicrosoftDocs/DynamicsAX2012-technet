@@ -1,4 +1,4 @@
-﻿---
+---
 title: " shipment"
 TOCTitle: " shipment"
 ms:assetid: DynamicsAXGlossary.2014338
@@ -19,5 +19,5 @@ A quantity of freight that is created against a source document such as a sales 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select default profiles for Role Centers
 TOCTitle: Select default profiles for Role Centers
 ms:assetid: 9fa4004e-f227-4a79-9ab6-ab70f0dbd9a4
@@ -36,5 +36,5 @@ Before you can assign users to profiles, you must select the profiles that are u
 [Assign users to Role Center profiles](assign-users-to-role-center-profiles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

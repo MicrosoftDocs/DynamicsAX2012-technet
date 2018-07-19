@@ -1,4 +1,4 @@
-﻿---
+---
 title: View fixed asset balances
 TOCTitle: View fixed asset balances
 ms:assetid: 2a2849f5-a180-4c8b-95f7-cec19e3b417a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496858(v=AX.60)
 ms:contentKeyID: 36056229
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View fixed asset balances 
@@ -30,5 +32,5 @@ Use the **Fixed asset balances** form to view fixed asset balances.
 [Fixed asset balances (form)](https://technet.microsoft.com/en-us/library/aa589217\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

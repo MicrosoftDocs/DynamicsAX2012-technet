@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reservations in Warehouse management
 TOCTitle: Reservations in Warehouse management
 ms:assetid: dd6d0bff-cbb3-4308-b555-76e241feac86
@@ -22,5 +22,5 @@ This white paper describes the new functionality for reservations in **Warehouse
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=399343)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up the chart of accounts
 TOCTitle: Setting up the chart of accounts
 ms:assetid: 8d6f00f3-939e-4be1-adde-41021209ccdf
@@ -11,6 +11,8 @@ f1_keywords:
 - main accounts
 - chart of account
 - main account
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up the chart of accounts 
@@ -55,5 +57,5 @@ The following topics provide information about setting up the chart of accounts:
 [(ESP) Import main accounts into a chart of accounts](esp-import-main-accounts-into-a-chart-of-accounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

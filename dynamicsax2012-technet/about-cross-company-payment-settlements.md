@@ -1,4 +1,4 @@
-﻿---
+---
 title: About cross-company payment settlements
 TOCTitle: About cross-company payment settlements
 ms:assetid: f2c362bd-76bf-489e-9a43-df585d51d740
@@ -23,6 +23,8 @@ f1_keywords:
 - underpayments
 - penny
 - voucher
+audience: Application User
+ms.search.region: Global
 ---
 
 # About cross-company payment settlements 
@@ -159,5 +161,5 @@ The vendor account that is associated with the invoice is used to determine whet
 [Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintaining transactions in General ledger
 TOCTitle: Maintaining transactions in General ledger
 ms:assetid: d588a17a-3b64-4104-96f6-c40055089e04
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - general ledger transaction
 - general ledger transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintaining transactions in General ledger 
@@ -23,5 +25,5 @@ The topics in this section provide information about transactions in General led
 [Place a General ledger transaction on hold](place-a-general-ledger-transaction-on-hold.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

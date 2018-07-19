@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Adding a table for customer preferences to the AX 2012 database'
 TOCTitle: 'Walkthrough: Extending the database schema'
 ms:assetid: 2a6f75bf-248c-41ff-a79d-0827255ba531
@@ -423,5 +423,5 @@ Adding the fields from the new table to the **Customer** form enables adding dat
 19. Right-click the **CustTable** form and then click **Open** to view the form. If you have test data loaded, the data shown is for the first customer. Click **Edit** and then open the **Retail** FastTab. Use the **Email Opt In** check box to set the value for a few customers.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

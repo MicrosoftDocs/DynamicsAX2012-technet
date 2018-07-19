@@ -1,4 +1,4 @@
-﻿---
+---
 title: About sales price models
 TOCTitle: About sales price models
 ms:assetid: 02d4b589-6f84-4277-87d0-9411d5eec814
@@ -14,6 +14,8 @@ f1_keywords:
 - sales price model
 - search direction
 - search priority
+audience: Application User
+ms.search.region: Global
 ---
 
 # About sales price models 
@@ -83,5 +85,5 @@ The following table describes the affect that each sales price model has on how 
 [About cost prices, sales prices, and transfer prices in projects](about-cost-prices-sales-prices-and-transfer-prices-in-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project accountant security role (ProjProjectAccountant)
 TOCTitle: Project accountant security role (ProjProjectAccountant)
 ms:assetid: dbc0a328-ff7c-4c2a-aa62-6f024a6c8f5a
@@ -207,5 +207,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

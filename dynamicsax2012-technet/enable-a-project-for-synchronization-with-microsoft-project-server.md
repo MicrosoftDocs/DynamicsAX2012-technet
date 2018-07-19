@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enable a project for synchronization with Microsoft Project Server
 TOCTitle: Enable a project for synchronization with Microsoft Project Server
 ms:assetid: c2f7910f-746b-4a19-ac61-52b2f6362b50
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - integrate
 - project server
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enable a project for synchronization with Microsoft Project Server 
@@ -37,5 +39,5 @@ You can synchronize the data of projects and project activities between Microsof
 [Set up parameters for data synchronization with Microsoft Project Server](set-up-parameters-for-data-synchronization-with-microsoft-project-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

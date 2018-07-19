@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up an attribute-based pricing formula for a potency item
 TOCTitle: Set up an attribute-based pricing formula for a potency item
 ms:assetid: b409f4ff-b29e-45a3-be5f-0b7345e8a63f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838747(v=AX.60)
 ms:contentKeyID: 50120630
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up an attribute-based pricing formula for a potency item 
@@ -58,5 +60,5 @@ Use this procedure to set up a batch attribute-based pricing formula for a poten
 [Attribute-based pricing data (form)](https://technet.microsoft.com/en-us/library/jj838766\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow tracking report (WorkflowTrackingReport)
 TOCTitle: Workflow tracking report (WorkflowTrackingReport)
 ms:assetid: 380bb60b-66f6-4dc8-8ab1-56525309c5c4
@@ -122,5 +122,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

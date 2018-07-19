@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up screen layouts
 TOCTitle: About setting up screen layouts
 ms:assetid: 0eef4cc3-3cb7-4349-947c-02061374ece6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - screen layout
 - screen layouts
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up screen layouts 
@@ -39,5 +41,5 @@ A till layout can optionally contain pictures and custom button grids.
 [Set up a screen layout](set-up-a-screen-layout.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

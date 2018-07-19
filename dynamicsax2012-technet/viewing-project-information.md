@@ -1,4 +1,4 @@
-﻿---
+---
 title: Viewing project information
 TOCTitle: Viewing project information
 ms:assetid: 1c2de453-15e5-49fb-9b7b-84ffed13c1ac
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271466(v=AX.60)
 ms:contentKeyID: 36384098
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Viewing project information 
@@ -20,5 +22,5 @@ This section contains the following topics:
 [View project validation](view-project-validation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

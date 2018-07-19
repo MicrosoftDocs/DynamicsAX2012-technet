@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) About year-end 1099 reporting
 TOCTitle: (USA) About year-end 1099 reporting
 ms:assetid: 56f8df2e-6a13-4967-9454-adf0316abaff
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - 1099 transmitter
 - Electronic and magnetic filing
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) About year-end 1099 reporting 
@@ -114,5 +116,5 @@ An OID is treated as taxable income for the owner of the debt obligation. The is
 [(USA) Post a vendor payment journal and generate a 1099 OID report](usa-post-a-vendor-payment-journal-and-generate-a-1099-oid-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

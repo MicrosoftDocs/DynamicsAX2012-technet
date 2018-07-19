@@ -1,4 +1,4 @@
-﻿---
+---
 title: Associate a workflow with an organization
 TOCTitle: Associate a workflow with an organization
 ms:assetid: e70e41bd-658f-4839-96aa-6c4f4efcf652
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538464(v=AX.60)
 ms:contentKeyID: 39508896
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Associate a workflow with an organization 
@@ -30,5 +32,5 @@ To view a list of organization-specific workflows, see [Workflow types](workflow
 6.  Click **Associate**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

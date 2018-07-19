@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process an authorization for a sales order
 TOCTitle: Process an authorization for a sales order
 ms:assetid: 793bbf11-d089-4280-afdf-6640e3cbdd87
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213014(v=AX.60)
 ms:contentKeyID: 36655935
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process an authorization for a sales order 
@@ -52,5 +54,5 @@ Use this procedure to verify the credit card number and available balance when a
 [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

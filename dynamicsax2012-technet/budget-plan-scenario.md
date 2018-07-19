@@ -1,4 +1,4 @@
-﻿---
+---
 title: " budget plan scenario"
 TOCTitle: " budget plan scenario"
 ms:assetid: DynamicsAXGlossary.1954170
@@ -19,5 +19,5 @@ A classification of budget plan lines, such as Prior year or Department request,
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View project transactions
 TOCTitle: View project transactions
 ms:assetid: 13bfa0ea-5349-4e9b-9e12-8e4cbadcfee4
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - project transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # View project transactions 
@@ -69,5 +71,5 @@ You can also view project transaction forms by type for all projects by clicking
 3.  On the **Action Pane**, on the **Project transactions** tab, in the **View** group, click **View ledger updates**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

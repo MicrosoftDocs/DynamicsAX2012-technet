@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up profit tax registers
 TOCTitle: (RUS) Setting up profit tax registers
 ms:assetid: b7c5dcb9-0a28-4623-bf1e-16c632eb99f4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711542(v=AX.60)
 ms:contentKeyID: 49387867
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up profit tax registers 
@@ -36,5 +38,5 @@ The following topics provide information about setting up profit tax registers.
 [(RUS) About tax accounting](rus-about-tax-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

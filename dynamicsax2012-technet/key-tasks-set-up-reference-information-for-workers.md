@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Set up reference information for workers'
 TOCTitle: 'Key tasks: Set up reference information for workers'
 ms:assetid: d0e6bcbf-02be-47e2-be4a-fb08ab17aa0f
@@ -14,6 +14,8 @@ f1_keywords:
 - employee information
 - worker information
 - master data
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Set up reference information for workers 
@@ -102,5 +104,5 @@ Back to top
 [Key tasks: Workers](key-tasks-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

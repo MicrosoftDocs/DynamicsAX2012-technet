@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a batch group
 TOCTitle: Create a batch group
 ms:assetid: 5153936f-a872-430d-bd17-4c910de871d4
@@ -54,5 +54,5 @@ Client tasks must be run manually by using the **Set up batch processing** form.
 [Server configuration (form)](https://technet.microsoft.com/en-us/library/hh208825\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

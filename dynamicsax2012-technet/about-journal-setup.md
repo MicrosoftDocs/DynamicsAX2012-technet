@@ -1,4 +1,4 @@
-﻿---
+---
 title: About journal setup
 TOCTitle: About journal setup
 ms:assetid: 0152eb50-2b7e-4b24-99d6-bdff22c870ef
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh696873(v=AX.60)
 ms:contentKeyID: 42517315
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About journal setup 
@@ -28,5 +30,5 @@ You can create journal descriptions and add them to new hour and fee journals. I
 [Create a project beginning balance](create-a-project-beginning-balance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts payable centralized payments clerk security role (PaymAccountsPayableCentralPaymClerk)
 TOCTitle: Accounts payable centralized payments clerk security role (PaymAccountsPayableCentralPaymClerk)
 ms:assetid: 00463961-ef0c-4246-a000-367614f2e531
@@ -35,7 +35,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 <tbody>
 <tr class="odd">
 <td><p>Enable client bank management process</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
@@ -84,5 +84,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

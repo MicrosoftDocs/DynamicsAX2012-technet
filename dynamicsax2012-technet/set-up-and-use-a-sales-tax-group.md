@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up and use a sales tax group
 TOCTitle: Set up and use a sales tax group
 ms:assetid: 6e26615e-d473-4d7d-a9db-2c706d9a681f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571215(v=AX.60)
 ms:contentKeyID: 36058035
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up and use a sales tax group 
@@ -52,5 +54,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

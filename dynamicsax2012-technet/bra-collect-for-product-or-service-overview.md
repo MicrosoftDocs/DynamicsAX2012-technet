@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Collect for product or service overview
 TOCTitle: (BRA) Collect for product or service overview
 ms:assetid: 863b75e7-ab52-4d2e-81d5-5ceafc2169ce
@@ -13,6 +13,8 @@ f1_keywords:
 - collect for service
 - product overview
 - service overview
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Collect for product or service overview 
@@ -25,5 +27,5 @@ The following topic provides information about collecting for a product or servi
 [(BRA) Invoice customers](bra-invoice-customers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

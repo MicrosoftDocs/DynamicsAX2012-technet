@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for outlays - other unrealized
 TOCTitle: (RUS) Set up a register for outlays - other unrealized
 ms:assetid: 118de812-6ba7-4925-8f05-6f3733bf6125
@@ -10,6 +10,8 @@ f1_keywords:
 - other unrealized outlays
 - outlays
 - unrealized outlay
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for outlays - other unrealized 
@@ -68,5 +70,5 @@ The **Outlays - other unrealized** register is calculated based on the general l
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the Vendor portal
 TOCTitle: About the Vendor portal
 ms:assetid: d60733a9-2502-42e4-82c5-5c870700188d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - vendor portal
 - VendorPortalHome
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the Vendor portal 
@@ -87,5 +89,5 @@ Click **Vendor invoices** on the Quick Launch to create a new invoice. You can a
 Click **Vendor reports** on the Quick Launch to view customer reports on your performance as a vendor. For more information, see [View vendor reports](view-vendor-reports.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

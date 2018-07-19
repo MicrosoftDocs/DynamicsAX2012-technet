@@ -1,4 +1,4 @@
-﻿---
+---
 title: Map fixed asset calendars
 TOCTitle: Map fixed asset calendars
 ms:assetid: 213880ef-3752-481a-b71b-9e1dc1a498cc
@@ -46,5 +46,5 @@ If you are upgrading to Microsoft Dynamics AX 2012 R2 or AX 2012 R3, you must id
 Both Legal entity A and Legal entity B have fixed asset calendars named RBA01 (Reducing Balance Asset 1). Your task is to upgrade the fixed asset calendars to fiscal calendars. In the **New name** column, you change the names of the calendars to RBA01-A and RBA01-B. After you upgrade the calendars, the calendars are shared and can be used by any legal entity or by multiple legal entities.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

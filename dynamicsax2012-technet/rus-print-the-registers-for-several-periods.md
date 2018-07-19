@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Print the registers for several periods
 TOCTitle: (RUS) Print the registers for several periods
 ms:assetid: 2a5e8526-c4fd-4204-a0d4-75a25de6bceb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665227(v=AX.60)
 ms:contentKeyID: 49387316
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Print the registers for several periods 
@@ -46,5 +48,5 @@ You can print lines from various registers and register journals for multiple ac
 [(RUS) View register lines](rus-view-register-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

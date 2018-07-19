@@ -1,4 +1,4 @@
-﻿---
+---
 title: " accounting"
 TOCTitle: " accounting"
 ms:assetid: DynamicsAXGlossary.227660
@@ -29,5 +29,5 @@ The practice of recording, classifying, summarizing, and reporting the financial
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

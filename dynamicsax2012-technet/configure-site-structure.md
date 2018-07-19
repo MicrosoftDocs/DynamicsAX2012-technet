@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure site structure
 TOCTitle: Configure site structure
 ms:assetid: 361745b4-edcf-4b04-acef-74895127a5eb
@@ -38,5 +38,5 @@ If you are upgrading to Microsoft Dynamics AX 2012 R2 or AX 2012 R3, you must id
 [Configure site structure (form)](https://technet.microsoft.com/en-us/library/hh202081\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Release items to warehouse by using the picking workbench
 TOCTitle: Release items to warehouse by using the picking workbench
 ms:assetid: b92ba4c6-b43d-4329-b356-db632de2ffa0
@@ -16,6 +16,8 @@ f1_keywords:
 - logic
 - boxing
 - ProShip
+audience: Application User
+ms.search.region: Global
 ---
 
 # Release items to warehouse by using the picking workbench 
@@ -169,5 +171,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

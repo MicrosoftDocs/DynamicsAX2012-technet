@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Dispose of deferrals vouchers
 TOCTitle: (RUS) Dispose of deferrals vouchers
 ms:assetid: 14fc4f68-8b8a-4c11-90fb-85108c03fa5d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711414(v=AX.60)
 ms:contentKeyID: 49387232
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Dispose of deferrals vouchers 
@@ -104,5 +106,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(RUS) Create new line (form)](https://technet.microsoft.com/en-us/library/jj678398\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

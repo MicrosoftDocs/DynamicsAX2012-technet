@@ -1,4 +1,4 @@
-﻿---
+---
 title: Main account categories and analysis cubes
 TOCTitle: Main account categories and analysis cubes
 ms:assetid: c46186f1-b4bf-4554-b2c9-ab7aa27897cf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213640(v=AX.60)
 ms:contentKeyID: 36993128
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Main account categories and analysis cubes 
@@ -544,5 +546,5 @@ The following sections provide information about the default main account catego
 [Set up main account categories](set-up-main-account-categories.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

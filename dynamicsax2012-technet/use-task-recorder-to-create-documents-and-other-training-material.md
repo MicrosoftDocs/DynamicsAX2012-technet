@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use Task recorder to create documents and other training material
 TOCTitle: Use Task recorder to create documents and other training material
 ms:assetid: 1bcbce30-ee14-43c8-9296-15c7b65d51f5
@@ -14,6 +14,8 @@ f1_keywords:
 - training
 - Forms.SysTaskRecorderPlus
 - MsDynAx060.Forms.SysTaskRecorderToolbar
+audience: Application User
+ms.search.region: Global
 ---
 
 # Use Task recorder to create documents and other training material 
@@ -353,5 +355,5 @@ You can view the status of the business process upload on the **Administration**
 [Task recorder](task-recorder.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

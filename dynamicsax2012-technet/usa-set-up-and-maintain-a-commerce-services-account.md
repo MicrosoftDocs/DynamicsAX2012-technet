@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Set up and maintain a Commerce Services account
 TOCTitle: (USA) Set up and maintain a Commerce Services account
 ms:assetid: e179f303-8323-4ab7-a4a8-44db651f462f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227422(v=AX.60)
 ms:contentKeyID: 36059708
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Set up and maintain a Commerce Services account 
@@ -98,5 +100,5 @@ After you set up a Commerce Services account, specify parameters for Commerce Se
 [(USA) Sell products online with Commerce Services](usa-sell-products-online-with-commerce-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

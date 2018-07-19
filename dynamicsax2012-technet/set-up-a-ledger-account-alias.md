@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a ledger account alias
 TOCTitle: Set up a ledger account alias
 ms:assetid: 54fd60a1-6c95-4701-a897-73b71b916ef4
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - ledget account alias
 - set up a ledger account alias
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a ledger account alias 
@@ -39,5 +41,5 @@ Use the **Ledger account alias** form to set up ledger account aliases to provid
 7.  In the **Initial focus** field, select the financial dimension that will be selected when you enter this ledger account alias for a ledger account.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

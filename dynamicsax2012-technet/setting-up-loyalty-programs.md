@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up loyalty programs
 TOCTitle: Setting up loyalty programs
 ms:assetid: ba3ab4a6-e79a-445a-b00d-382f28729de3
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - loyalty program
 - loyalty programs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up loyalty programs 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to set up retail loyalt
 [About setting up loyalty programs in AX 2012 R3](about-setting-up-loyalty-programs-in-ax-2012-r3.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounting supervisor security role (LedgerAccountingSupervisor)
 TOCTitle: Accounting supervisor security role (LedgerAccountingSupervisor)
 ms:assetid: 60d033b2-1010-46b7-8316-4b40a28a6821
@@ -1599,5 +1599,5 @@ By default, this security role is assigned the following privilege in Microsoft 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

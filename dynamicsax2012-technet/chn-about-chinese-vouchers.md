@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) About Chinese vouchers
 TOCTitle: (CHN) About Chinese vouchers
 ms:assetid: 2a671285-89fb-4f82-a24d-cf26a09887c1
@@ -12,6 +12,8 @@ f1_keywords:
 - (CHN)
 - China
 - CN - 00009
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) About Chinese vouchers 
@@ -42,5 +44,5 @@ You can print a Chinese voucher before or after posting the voucher. The printed
 [(CHN) Voucher transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664127\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a method of payment for checks
 TOCTitle: Set up a method of payment for checks
 ms:assetid: 193c74e0-ea2e-434a-b1bc-0be2efbce875
@@ -10,6 +10,8 @@ f1_keywords:
 - bank checks
 - method of payments
 - methods of payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a method of payment for checks 
@@ -56,5 +58,5 @@ Follow these steps to set up methods of payments for checks.
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

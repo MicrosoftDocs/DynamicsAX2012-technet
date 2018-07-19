@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) About customer invoices
 TOCTitle: (IND) About customer invoices
 ms:assetid: 48244b93-c00f-4244-addb-931c8acc5606
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664670(v=AX.60)
 ms:contentKeyID: 49385737
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) About customer invoices 
@@ -40,5 +42,5 @@ Use the **Customer transactions** form to view customer transactions associated 
 [(IND) Generate 27EQ quarterly statement for TCS](ind-generate-27eq-quarterly-statement-for-tcs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

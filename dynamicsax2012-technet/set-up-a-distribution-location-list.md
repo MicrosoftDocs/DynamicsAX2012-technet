@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a distribution location list
 TOCTitle: Set up a distribution location list
 ms:assetid: 6773484e-4696-40cb-add2-dd2426b8b2d0
@@ -37,5 +37,5 @@ Create a list of distribution locations to group locations for data distribution
 5.  Click **Add** to add distribution locations to the list. Click **Remove** to remove distribution locations from the list.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up a number sequence for the EU trade list
 TOCTitle: (HUN) Set up a number sequence for the EU trade list
 ms:assetid: cfb59541-3775-42b6-ab52-7d710dbae657
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664378(v=AX.60)
 ms:contentKeyID: 49385467
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up a number sequence for the EU trade list 
@@ -40,5 +42,5 @@ Each company generates an EU sale and purchase list detailing sales and purchase
 [(HUN) Foreign trade parameters (modified form)](https://technet.microsoft.com/en-us/library/jj874424\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

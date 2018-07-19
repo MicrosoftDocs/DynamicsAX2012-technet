@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using questionnaires
 TOCTitle: Using questionnaires
 ms:assetid: 172fd2f6-cbaf-43ca-9119-d8ca842d4123
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - questionnaires
 - questionnaire
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using questionnaires 
@@ -64,5 +66,5 @@ The following table provides links to information about the core questionnaire t
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

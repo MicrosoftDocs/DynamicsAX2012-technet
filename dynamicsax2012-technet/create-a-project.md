@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a project
 TOCTitle: Create a project
 ms:assetid: 193c2e57-e878-4c54-ac9b-58f2214f511a
@@ -10,6 +10,8 @@ f1_keywords:
 - create project
 - new project
 - project copy wizard
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a project 
@@ -70,5 +72,5 @@ You can also add subprojects to a project. When you create a subproject, it auto
 [About using the Time and material project type for a fixed-price project](about-using-the-time-and-material-project-type-for-a-fixed-price-project.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

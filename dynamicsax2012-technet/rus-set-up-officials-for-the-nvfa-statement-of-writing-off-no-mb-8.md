@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up officials for the NVFA statement of writing-off (No. MB-8)
 TOCTitle: (RUS) Set up officials for the NVFA statement of writing-off (No. MB-8)
 ms:assetid: 07d4e83b-6c18-4785-ad18-1e547f5a938a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853155(v=AX.60)
 ms:contentKeyID: 50396435
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up officials for the NVFA statement of writing-off (No. MB-8) 
@@ -26,5 +28,5 @@ Use this procedure to set up the members and chairman of the commission that is 
 5.  In the **Name** field, select the name of the employee.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

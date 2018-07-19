@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post an update for a major refurbishment of a fixed asset
 TOCTitle: (RUS) Post an update for a major refurbishment of a fixed asset
 ms:assetid: f7b986da-0b64-48c3-bd3e-2e8cf05d4a04
@@ -11,6 +11,8 @@ f1_keywords:
 - update
 - fixed asset
 - fixed asset repair
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post an update for a major refurbishment of a fixed asset 
@@ -99,5 +101,5 @@ You must complete the following tasks before you can post an update for a major 
 [(RUS) FA value models (form)](https://technet.microsoft.com/en-us/library/jj856113\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

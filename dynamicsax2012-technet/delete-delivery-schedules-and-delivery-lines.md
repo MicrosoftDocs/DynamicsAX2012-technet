@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete delivery schedules and delivery lines
 TOCTitle: Delete delivery schedules and delivery lines
 ms:assetid: 3d2b3435-ca67-4456-a2f6-5ef9ab87e65e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242235(v=AX.60)
 ms:contentKeyID: 36056674
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete delivery schedules and delivery lines 
@@ -82,5 +84,5 @@ Use this procedure to delete one delivery line.
 [About delivery schedules](about-delivery-schedules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

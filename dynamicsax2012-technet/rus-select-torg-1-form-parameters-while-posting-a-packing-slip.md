@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Select TORG-1 form parameters while posting a packing slip
 TOCTitle: (RUS) Select TORG-1 form parameters while posting a packing slip
 ms:assetid: 56ce84be-7118-4e16-a0f0-3762343dc9b0
@@ -13,6 +13,8 @@ f1_keywords:
 - Russia
 - RUS
 - TORG-1
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Select TORG-1 form parameters while posting a packing slip 
@@ -39,5 +41,5 @@ Use this procedure to select parameters for the TORG-1 form while you post a pac
 [Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

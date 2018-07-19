@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a customer group
 TOCTitle: Create a customer group
 ms:assetid: 0f85526f-bfea-4ac7-b08d-7cd7fe2443fb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496550(v=AX.60)
 ms:contentKeyID: 36056020
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a customer group 
@@ -46,5 +48,5 @@ Use this procedure to set up groups that share characteristics such as payment t
 [Create a customer record](create-a-customer-record.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

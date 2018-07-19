@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create modeling variables
 TOCTitle: Create modeling variables
 ms:assetid: f7b77e3c-fdd3-40cd-a044-e9d09a374bd0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499809(v=AX.60)
 ms:contentKeyID: 36676421
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create modeling variables 
@@ -66,5 +68,5 @@ For **Table** modeling variables, you must complete additional fields on the **G
 [Modeling variables (form)](https://technet.microsoft.com/en-us/library/aa592160\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

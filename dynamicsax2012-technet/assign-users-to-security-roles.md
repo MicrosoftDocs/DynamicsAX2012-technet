@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign users to security roles
 TOCTitle: Assign users to security roles
 ms:assetid: 214ee45b-5b99-4ea8-9454-f4297f68e38c
@@ -106,5 +106,5 @@ Manually assign users to roles when role membership cannot be based on data in M
 [Create or modify a security role](create-or-modify-a-security-role.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

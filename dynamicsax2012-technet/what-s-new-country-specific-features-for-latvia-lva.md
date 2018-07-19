@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Latvia (LVA)"
 TOCTitle: Country-specific features for Latvia
 ms:assetid: b5becb1a-d442-4242-b0db-08e050ba3414
@@ -63,5 +63,5 @@ For more information about specific features for Latvia, see [TechNet Library fo
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Category consumption (actual vs. budget) report (ProjConsumCateg2Column)
 TOCTitle: Category consumption (actual vs. budget) report (ProjConsumCateg2Column)
 ms:assetid: 84feb5db-1cdc-41cc-b99f-bf2352b5fef3
@@ -45,7 +45,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>(<strong>Project date</strong>)</p>
 <p><strong>From date</strong> / <strong>Break date</strong> / <strong>To date</strong></p></td>
 <td><p>Specify a starting date and an ending date for category earnings that are posted in projects.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>When you select <STRONG>Sum</STRONG> in the <STRONG>Actual vs. budget</STRONG> field, the <STRONG>Break date</STRONG> value that you enter determines when the calculation of actual values ends and the calculation of budgeted values starts.</P>
@@ -57,7 +57,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>(<strong>Ledger date</strong>)</p>
 <p><strong>From date</strong> / <strong>Break date</strong> / <strong>To date</strong></p></td>
 <td><p>Specify a starting date and an ending date for category earnings that are posted to the ledger.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>When you select <STRONG>Sum</STRONG> in the <STRONG>Actual vs. budget</STRONG> field, the <STRONG>Break date</STRONG> value that you enter determines when the calculation of actual values ends and the calculation of budgeted values starts.</P>
@@ -75,7 +75,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Forecast model</strong></p></td>
 <td><p>Select the forecast model that you want the report to use.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If you are using project budget control, select the budget forecast model that is used by this project.</P>
@@ -180,5 +180,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

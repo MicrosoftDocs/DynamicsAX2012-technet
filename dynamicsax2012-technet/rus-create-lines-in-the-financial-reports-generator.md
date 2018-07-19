@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create lines in the Financial reports generator
 TOCTitle: (RUS) Create lines in the Financial reports generator
 ms:assetid: 062c7e61-0114-4339-a4eb-e016fd487471
@@ -10,6 +10,8 @@ f1_keywords:
 - lines
 - create lines
 - financial reports generator
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create lines in the Financial reports generator 
@@ -44,5 +46,5 @@ Use the **Document templates** form to create lines in the financial reports gen
 [(RUS) Set up templates for electronic reporting](rus-set-up-templates-for-electronic-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

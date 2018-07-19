@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and load a configuration project that uses default settings in RapidStart Services
 TOCTitle: Create and load a configuration project that uses default settings in RapidStart Services
 ms:assetid: f04eed9f-ad8e-41d0-b289-0123a17dbf35
@@ -78,5 +78,5 @@ After the data is loaded, you can access a log file that lists the configuration
 [Load configuration data into a Microsoft Dynamics ERP implementation from Microsoft Dynamics ERP RapidStart Services](load-configuration-data-into-a-microsoft-dynamics-erp-implementation-from-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

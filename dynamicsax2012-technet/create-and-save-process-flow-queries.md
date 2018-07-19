@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and save process flow queries
 TOCTitle: Create and save process flow queries
 ms:assetid: 2dcb7b6f-35a1-4ae2-af2a-38dd1b351493
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580598(v=AX.60)
 ms:contentKeyID: 39519084
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and save process flow queries 
@@ -72,5 +74,5 @@ For example, you want to create a model query that displays the usage of electri
 5.  Select among the available processes, substances, and substance categories to create the query that is used to display information in a process map. Then click **Close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

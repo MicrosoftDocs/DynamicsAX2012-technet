@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up parameters for advance holders
 TOCTitle: (RUS) Set up parameters for advance holders
 ms:assetid: 7b8e22c4-d224-4625-b305-0d384076149f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678387(v=AX.60)
 ms:contentKeyID: 49387618
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up parameters for advance holders 
@@ -60,5 +62,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(RUS) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923609\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

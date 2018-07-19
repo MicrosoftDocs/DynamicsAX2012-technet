@@ -1,4 +1,4 @@
-﻿---
+---
 title: Centralized customer statements configuration key (CustCentralizedCustStatement)
 TOCTitle: Centralized customer statements configuration key (CustCentralizedCustStatement)
 ms:assetid: 950ccf85-7168-4502-854e-19d0f8274a00
@@ -56,5 +56,5 @@ For more information about how license codes and configuration keys work togethe
 [Print periodic customer account statements](print-periodic-customer-account-statements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

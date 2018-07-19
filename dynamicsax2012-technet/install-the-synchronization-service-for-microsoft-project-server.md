@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the synchronization service for Microsoft Project Server
 TOCTitle: Install the synchronization service for Microsoft Project Server
 ms:assetid: b665dd6c-1d1f-4002-b69d-03e2006ea52d
@@ -84,5 +84,5 @@ Use the following procedure to install the synchronization service. If you insta
 17. After the installation is completed, click **Finish** to close the wizard.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

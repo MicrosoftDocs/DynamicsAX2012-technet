@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Setting up financial statements
 TOCTitle: (JPN) Setting up financial statements
 ms:assetid: c156efe7-c1af-4321-a7cb-a80b3330f6fc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664959(v=AX.60)
 ms:contentKeyID: 49386543
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Setting up financial statements 
@@ -26,5 +28,5 @@ The following topics provide information about setting up financial statements.
 [(JPN) Set up and generate a cash flow statement](jpn-set-up-and-generate-a-cash-flow-statement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

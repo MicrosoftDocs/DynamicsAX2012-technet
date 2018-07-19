@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Set up ledger statement definitions
 TOCTitle: (CZE) Set up ledger statement definitions
 ms:assetid: 8c7e75f7-bba0-45ca-8019-489078239591
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677606(v=AX.60)
 ms:contentKeyID: 49384909
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Set up ledger statement definitions 
@@ -48,5 +50,5 @@ You can specify how ledger transaction amounts are displayed on the ledger state
 [(CZE) Generate the ledger statement report](cze-generate-the-ledger-statement-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

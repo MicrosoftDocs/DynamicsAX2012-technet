@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create an inventory model group for capital items
 TOCTitle: (IND) Create an inventory model group for capital items
 ms:assetid: 163894d4-f610-4a3e-b9ac-1c5390b4f335
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664511(v=AX.60)
 ms:contentKeyID: 49385590
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create an inventory model group for capital items 
@@ -56,5 +58,5 @@ Inventory issues are settled against the first receipts into inventory based on 
 [(IND) Posting (modified form)](https://technet.microsoft.com/en-us/library/jj664940\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

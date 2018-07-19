@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Define the JBA import format for a method of payment
 TOCTitle: (JPN) Define the JBA import format for a method of payment
 ms:assetid: 2a1ceffa-5ef7-4cca-9e4a-30fb9da92fac
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711024(v=AX.60)
 ms:contentKeyID: 49386435
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Define the JBA import format for a method of payment 
@@ -50,5 +52,5 @@ There are two types of import format files:
 [(JPN) Import payment with JBA import format](jpn-import-payment-with-jba-import-format.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

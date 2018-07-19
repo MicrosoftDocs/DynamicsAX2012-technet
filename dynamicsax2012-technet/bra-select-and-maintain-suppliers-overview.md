@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Select and maintain suppliers overview
 TOCTitle: (BRA) Select and maintain suppliers overview
 ms:assetid: df5b35f8-b728-464d-9bc5-ec0a4212b0f7
@@ -10,6 +10,8 @@ f1_keywords:
 - Suppliers
 - Brazil
 - (BRA)
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Select and maintain suppliers overview 
@@ -22,5 +24,5 @@ The following topic provides information about selecting and maintaining supplie
 [(BRA) Create replies to requests for quotations](bra-create-replies-to-requests-for-quotations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

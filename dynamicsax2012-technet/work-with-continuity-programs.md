@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work with continuity programs
 TOCTitle: Work with continuity programs
 ms:assetid: 77c18054-97da-4299-9a57-cf8d357ad467
@@ -18,6 +18,8 @@ f1_keywords:
 - continuity program
 - recurring order
 - continuity order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Work with continuity programs 
@@ -259,5 +261,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Creating sales orders for a call center](creating-sales-orders-for-a-call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

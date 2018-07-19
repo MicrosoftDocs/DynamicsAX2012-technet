@@ -1,4 +1,4 @@
-﻿---
+---
 title: Default country/region
 TOCTitle: Default country/region
 ms:assetid: 291a94dc-25db-49c2-babc-f8cba7bf3532
@@ -24,5 +24,5 @@ In Microsoft Dynamics AX 2012, all postal addresses must have a corresponding co
 4.  After you have verified the country/region defaults for each company, click the **Set to ready for upgrade** button.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

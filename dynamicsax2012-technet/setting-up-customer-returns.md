@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up customer returns
 TOCTitle: Setting up customer returns
 ms:assetid: f986ca49-e8df-4aad-8c74-5f7fd87af1aa
@@ -13,6 +13,8 @@ f1_keywords:
 - reason codes for returns
 - setup disposition codes
 - set-up returns
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up customer returns 
@@ -31,5 +33,5 @@ The topics in this section provide information about the tasks that are associat
 [Specify how to dispose of returned items](specify-how-to-dispose-of-returned-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '(USA) Key tasks: Form I-9 verification'
 TOCTitle: '(USA) Key tasks: Form I-9 verification'
 ms:assetid: 73b31e1f-1a5e-417f-8276-757510fdab71
@@ -12,6 +12,8 @@ f1_keywords:
 - I-9 Document
 - I - 9 Document
 - i - 9
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Key tasks: Form I-9 verification 
@@ -209,5 +211,5 @@ Back to top
 [Key tasks: Workers](key-tasks-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

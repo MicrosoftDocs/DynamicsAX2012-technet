@@ -1,4 +1,4 @@
-﻿---
+---
 title: About pallet transports
 TOCTitle: About pallet transports
 ms:assetid: 0f19b6c8-2d90-4781-b011-fe4f749c419a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - handle pallet transports
 - warehouse location
+audience: Application User
+ms.search.region: Global
 ---
 
 # About pallet transports 
@@ -41,5 +43,5 @@ The pallet ID is the identification of the pallet on which an item is placed. A 
 [Complete pallet transports](complete-pallet-transports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

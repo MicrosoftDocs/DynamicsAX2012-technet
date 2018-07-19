@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Cancel an ICMS tax fiscal document
 TOCTitle: (BRA) Cancel an ICMS tax fiscal document
 ms:assetid: 26df34c8-8f96-4657-bb15-be01b1a585c2
@@ -12,6 +12,8 @@ f1_keywords:
 - ICMS
 - ICMS tax document
 - tax document
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Cancel an ICMS tax fiscal document 
@@ -50,5 +52,5 @@ You can cancel a posted tax fiscal document that is incorrect. When you cancel a
 [(BRA) Tax fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710428\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

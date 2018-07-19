@@ -1,4 +1,4 @@
-﻿---
+---
 title: AOS clusters with a dedicated load balancer
 TOCTitle: AOS clusters with a dedicated load balancer
 ms:assetid: 6a8d228b-3ab9-4ecb-bf3a-dce7a141c19a
@@ -54,5 +54,5 @@ For information about how to configure load balancing clusters, see [Create a lo
 [AOS architecture](aos-architecture.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

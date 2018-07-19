@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up dependent cash flow forecasts in main accounts
 TOCTitle: Set up dependent cash flow forecasts in main accounts
 ms:assetid: 7b1e6575-4d09-48bc-9373-bc22f42bc35c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550077(v=AX.60)
 ms:contentKeyID: 36058254
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up dependent cash flow forecasts in main accounts 
@@ -38,5 +40,5 @@ You can set up a dependent cash flow forecast for a main account that contains t
 [Set up cash flow forecasts (form)](https://technet.microsoft.com/en-us/library/aa556922\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

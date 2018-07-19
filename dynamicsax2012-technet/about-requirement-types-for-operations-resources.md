@@ -1,4 +1,4 @@
-﻿---
+---
 title: About requirement types for operations resources
 TOCTitle: About requirement types for operations resources
 ms:assetid: 824b39e3-0cd6-4c4d-8e8a-5d3bdb062ca9
@@ -10,6 +10,8 @@ f1_keywords:
 - resource
 - operations resource
 - requirement types
+audience: Application User
+ms.search.region: Global
 ---
 
 # About requirement types for operations resources 
@@ -111,5 +113,5 @@ When you are defining requirements for a route, you can select from eight requir
 [Resource groups (operations resources)(form)](https://technet.microsoft.com/en-us/library/hh227450\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

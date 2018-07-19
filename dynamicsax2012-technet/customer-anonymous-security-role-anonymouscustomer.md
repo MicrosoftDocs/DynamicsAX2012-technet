@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer anonymous security role (AnonymousCustomer)
 TOCTitle: Customer anonymous security role (AnonymousCustomer)
 ms:assetid: 17e07c31-c66e-42e8-9dc6-db16a3f5ad3c
@@ -52,5 +52,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

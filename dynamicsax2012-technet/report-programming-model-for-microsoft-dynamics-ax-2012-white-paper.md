@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report programming model for Microsoft Dynamics AX 2012 (White paper)
 TOCTitle: Report programming model for Microsoft Dynamics AX 2012
 ms:assetid: 65344936-730b-411b-9f77-031709f54da4
@@ -18,5 +18,5 @@ This paper describes the programming model that you can use to take advantage of
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=230569).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

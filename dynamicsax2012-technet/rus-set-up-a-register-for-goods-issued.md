@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for goods issued
 TOCTitle: (RUS) Set up a register for goods issued
 ms:assetid: c1ab0765-2471-437e-b30e-26fa9a21802c
@@ -10,6 +10,8 @@ f1_keywords:
 - register
 - goods issued
 - goods issued register
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for goods issued 
@@ -70,5 +72,5 @@ The **Goods issued** register displays the income from the issue of items, servi
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

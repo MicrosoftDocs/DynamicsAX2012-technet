@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and confirm a sales order for an electronic fiscal document for services
 TOCTitle: (BRA) Create and confirm a sales order for an electronic fiscal document for services
 ms:assetid: e01ae6a7-703b-46b8-aaa2-2a925c5cb588
@@ -13,6 +13,8 @@ f1_keywords:
 - NF-e
 - Create sales order
 - NF-e city fiscal document
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and confirm a sales order for an electronic fiscal document for services 
@@ -57,5 +59,5 @@ Use this procedure to create and confirm a sales order for an electronic fiscal 
 [(BRA) About electronic fiscal document for services reporting for Sao Paulo](bra-about-electronic-fiscal-document-for-services-reporting-for-sao-paulo.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

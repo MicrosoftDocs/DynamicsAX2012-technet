@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import internal controls to the Compliance site
 TOCTitle: Import internal controls to the Compliance site
 ms:assetid: dd7f9677-3285-49bd-a8b3-6313b169b231
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPComplianceImportInternalControls
+audience: Application User
+ms.search.region: Global
 ---
 
 # Import internal controls to the Compliance site 
@@ -309,5 +311,5 @@ Fabrikam, a global organization, is required to document its controls. Phyllis, 
 [Set up the Internal controls site](set-up-the-internal-controls-site.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

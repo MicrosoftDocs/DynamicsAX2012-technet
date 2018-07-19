@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Enrollment process for the eInvoice service
 TOCTitle: (NOR) Enrollment process for the eInvoice service
 ms:assetid: 765a86ad-b433-4140-8885-e711f67c9bb3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212977(v=AX.60)
 ms:contentKeyID: 36058189
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Enrollment process for the eInvoice service 
@@ -58,5 +60,5 @@ The enrollment file contains information about customers who have requested the 
 [(NOR) Set up the types of payment mode change for eInvoices](nor-set-up-the-types-of-payment-mode-change-for-einvoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

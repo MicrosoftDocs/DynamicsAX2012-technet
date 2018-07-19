@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add an approved vendor to an item
 TOCTitle: Add an approved vendor to an item
 ms:assetid: 9cdcafcd-2f2d-4406-8d1c-d10c346186e8
@@ -10,6 +10,8 @@ f1_keywords:
 - approved vendor
 - add an approved vendor for an item
 - approved vendor list
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add an approved vendor to an item 
@@ -70,5 +72,5 @@ Use this procedure to add a vendor to the Approved vendor list for an item. You 
 [(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

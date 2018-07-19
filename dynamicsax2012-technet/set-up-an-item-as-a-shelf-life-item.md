@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up an item as a shelf life item
 TOCTitle: Set up an item as a shelf life item
 ms:assetid: 49ab1325-94ff-4439-95c0-d9f14954faf7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838734(v=AX.60)
 ms:contentKeyID: 50120617
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up an item as a shelf life item 
@@ -53,5 +55,5 @@ Use this procedure to set up an item as a shelf life item. You can assign a shel
 [(PM) Item model groups (form)](https://technet.microsoft.com/en-us/library/hh328695\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

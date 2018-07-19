@@ -1,4 +1,4 @@
-﻿---
+---
 title: Depreciate/amortize assets overview
 TOCTitle: Depreciate/amortize assets overview
 ms:assetid: 6a1f2e25-4d0a-4907-af23-49627027eddc
@@ -15,6 +15,8 @@ f1_keywords:
 - assets amoritzation
 - fixed assets depriciation
 - fixed assets amoritzation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Depreciate/amortize assets overview 
@@ -70,5 +72,5 @@ The following table lists the forms that support the Depreciate/amortize asset b
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up gift cards
 TOCTitle: Setting up gift cards
 ms:assetid: fd4677f0-db59-43e0-99c4-bb99b5bd040e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - gift card
 - gift cards
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up gift cards 
@@ -23,5 +25,5 @@ The topics in this section provide information about how to set up gift cards in
 [Set up gift cards](set-up-gift-cards.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

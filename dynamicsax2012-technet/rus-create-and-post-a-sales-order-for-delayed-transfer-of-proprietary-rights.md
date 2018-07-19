@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a sales order for delayed transfer of proprietary rights
 TOCTitle: (RUS) Create and post a sales order for delayed transfer of proprietary rights
 ms:assetid: 9ce587c2-8090-469e-a272-742f0064da66
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856174(v=AX.60)
 ms:contentKeyID: 50407013
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a sales order for delayed transfer of proprietary rights 
@@ -42,5 +44,5 @@ Use the **Sales order** form to create and post a sales order for the delayed tr
 [(RUS) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj733272\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: .NET Framework Classes for Microsoft Dynamics AX Retail Server
 TOCTitle: Retail Server reference
 ms:assetid: 3cdf6b8a-c2a0-4b2e-b77b-1cddd0e4f498
@@ -16,8 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 This section contains reference documentation for the .NET Framework classes that are used in Microsoft Dynamics AX Retail Server development.
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587&amp;xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
 
@@ -26,5 +25,5 @@ This section contains reference documentation for the .NET Framework classes tha
 [Microsoft Dynamics AX Retail Server](../microsoft-dynamics-ax-retail-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

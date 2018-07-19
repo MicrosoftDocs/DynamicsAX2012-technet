@@ -1,4 +1,4 @@
-﻿---
+---
 title: Receive customer inquiries and prioritize
 TOCTitle: Receive customer inquiries and prioritize
 ms:assetid: ab7d9f9c-3a43-473f-9cd1-8d4057de0a5e
@@ -17,6 +17,8 @@ f1_keywords:
 - time recording
 - customer inquiries
 - record time
+audience: Application User
+ms.search.region: Global
 ---
 
 # Receive customer inquiries and prioritize 
@@ -29,5 +31,5 @@ The topics in this section provide information about how to receive and prioriti
 [Start and stop time recording on a service order](start-and-stop-time-recording-on-a-service-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts receivable clerk security role (CustInvoiceAccountsReceivableClerk)
 TOCTitle: Accounts receivable clerk security role (CustInvoiceAccountsReceivableClerk)
 ms:assetid: b8f78e08-ed4a-4b7d-8be3-035bccf10d4c
@@ -820,5 +820,5 @@ By default, this security role is assigned the following privileges in Microsoft
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

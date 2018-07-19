@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Client-side batch framework'
 TOCTitle: Client-side batch framework
 ms:assetid: f3f1a0fc-7fdf-49f8-98a5-f1e66d543bb7
@@ -54,5 +54,5 @@ The batch framework in Microsoft Dynamics AX 4.0 and earlier versions required a
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

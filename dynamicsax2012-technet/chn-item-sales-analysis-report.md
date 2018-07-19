@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Item sales analysis (report)
 TOCTitle: (CHN) Item sales analysis (report)
 ms:assetid: 34b791c1-3523-4281-b1cb-dd4088a6d40c
@@ -120,5 +120,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

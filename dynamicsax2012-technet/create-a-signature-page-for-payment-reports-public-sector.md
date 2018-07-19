@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a signature page for payment reports (Public sector)
 TOCTitle: Create a signature page for payment reports (Public sector)
 ms:assetid: 14a9558d-4099-4366-879b-9edee4fa7e4a
@@ -13,6 +13,8 @@ f1_keywords:
 - payment
 - payment report
 - signature
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Create a signature page for payment reports (Public sector) 
@@ -49,5 +51,5 @@ Follow these steps to create and print a signature page for payment reports.
 [Cover page for payments report (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208557\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

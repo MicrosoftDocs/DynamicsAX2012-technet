@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up a reverse charge percentage
 TOCTitle: (IND) Set up a reverse charge percentage
 ms:assetid: de59884a-db33-4eda-9337-e6df6973361e
@@ -8,6 +8,8 @@ ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.TaxItemGroup
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up a reverse charge percentage 
@@ -37,5 +39,5 @@ Use the following procedure to specify the reverse charge percentage for an item
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

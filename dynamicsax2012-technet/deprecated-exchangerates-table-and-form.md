@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: ExchangeRates table and form'
 TOCTitle: ExchangeRates table and form
 ms:assetid: 2d62ca0c-b9b6-44e3-810c-6501d54c1eea
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, the ExchRates table and form are used to create a
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

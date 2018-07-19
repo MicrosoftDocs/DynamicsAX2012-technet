@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Manage category requests from vendors'
 TOCTitle: 'Key tasks: Manage category requests from vendors'
 ms:assetid: 2abe85e7-d779-418a-8a98-4d021738a62e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735273(v=AX.60)
 ms:contentKeyID: 49693274
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Manage category requests from vendors 
@@ -112,5 +114,5 @@ Back to top
 [Vendor requests (list page)](https://technet.microsoft.com/en-us/library/hh242710\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

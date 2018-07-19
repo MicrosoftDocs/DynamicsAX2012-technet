@@ -1,4 +1,4 @@
-﻿---
+---
 title: (AUS) About low value pool depreciation
 TOCTitle: (AUS) About low value pool depreciation
 ms:assetid: 8afa18af-e006-44a6-bca4-e186a3ea0e3a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242863(v=AX.60)
 ms:contentKeyID: 36058472
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Australia
 ---
 
 # (AUS) About low value pool depreciation 
@@ -106,5 +108,5 @@ If you have a low value asset with a net book value of AUD 800.00, the first yea
 [(AUS) Transfer one or more low value assets to a low value pool](aus-transfer-one-or-more-low-value-assets-to-a-low-value-pool.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

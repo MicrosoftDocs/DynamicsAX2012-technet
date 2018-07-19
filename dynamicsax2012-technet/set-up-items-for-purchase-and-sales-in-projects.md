@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up items for purchase and sales in projects
 TOCTitle: Set up items for purchase and sales in projects
 ms:assetid: 6bc4ed39-a68e-40f6-8fe6-e7defd72e4dc
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - items for purchase
 - items for sale
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up items for purchase and sales in projects 
@@ -41,5 +43,5 @@ The topics in this section include information about creating purchase and sales
 [Set up a provision for foreseeable losses](set-up-a-provision-for-foreseeable-losses.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

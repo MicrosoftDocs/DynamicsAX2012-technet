@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up journals
 TOCTitle: Setting up journals
 ms:assetid: bf0442b9-ca74-4825-bd80-9cc49323f94c
@@ -12,6 +12,8 @@ f1_keywords:
 - journals
 - journal text
 - project journal
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up journals 
@@ -32,5 +34,5 @@ The topics in this section provide information about setting up journals.
 [Creating and applying approval procedures](creating-and-applying-approval-procedures.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

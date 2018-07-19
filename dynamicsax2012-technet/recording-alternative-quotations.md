@@ -1,4 +1,4 @@
-﻿---
+---
 title: Recording alternative quotations
 TOCTitle: Recording alternative quotations
 ms:assetid: 199ba660-04f6-4fb6-8883-da0f0e4ffe54
@@ -11,6 +11,8 @@ f1_keywords:
 - alternative quotation
 - alternative quote
 - alternative quotes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Recording alternative quotations 
@@ -37,5 +39,5 @@ The following topics provide information about how to record alternative quotati
 [Update alternative quotations](update-alternative-quotations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

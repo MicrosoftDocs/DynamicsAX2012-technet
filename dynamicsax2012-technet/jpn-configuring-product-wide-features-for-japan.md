@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Configuring product-wide features for Japan
 TOCTitle: (JPN) Configuring product-wide features for Japan
 ms:assetid: a31c5cc5-a140-4a2e-9220-510b88ddc04f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711208(v=AX.60)
 ms:contentKeyID: 49386519
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Configuring product-wide features for Japan 
@@ -20,5 +22,5 @@ To configure most product-wide features, you must be a member of a role that gra
 [(JPN) Global address books and address reference data](https://technet.microsoft.com/en-us/library/jj711047\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work with users from Active Directory
 TOCTitle: Work with users from Active Directory
 ms:assetid: e503f808-e3de-456a-8f07-409e2c06326e
@@ -83,5 +83,5 @@ You can assign AD DS groups to roles in Microsoft Dynamics AX. When an AD DS gro
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

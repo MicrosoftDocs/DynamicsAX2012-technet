@@ -1,4 +1,4 @@
-﻿---
+---
 title: Indicate that a workflow is the default workflow
 TOCTitle: Indicate that a workflow is the default workflow
 ms:assetid: 6b4c6e81-eebc-4f31-a811-0848612d9438
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202067(v=AX.60)
 ms:contentKeyID: 35949309
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Indicate that a workflow is the default workflow 
@@ -34,5 +36,5 @@ Follow these steps to specify that a workflow is the default workflow for a spec
 4.  On the Action Pane, click **Set as default**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

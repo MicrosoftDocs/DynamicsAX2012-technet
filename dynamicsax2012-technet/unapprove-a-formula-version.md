@@ -1,4 +1,4 @@
-﻿---
+---
 title: Unapprove a formula version
 TOCTitle: Unapprove a formula version
 ms:assetid: 284b97c0-1b81-422a-aa10-7622a63827ec
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352190(v=AX.60)
 ms:contentKeyID: 36687823
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Unapprove a formula version 
@@ -50,5 +52,5 @@ Use this procedure to remove an approval status from a formula version.
 [Production control parameters (form)](https://technet.microsoft.com/en-us/library/aa498700\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

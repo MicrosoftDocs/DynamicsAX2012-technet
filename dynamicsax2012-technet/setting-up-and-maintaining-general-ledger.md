@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining General ledger
 TOCTitle: Setting up and maintaining General ledger
 ms:assetid: 787294de-bf9e-409b-a965-cc7f6703ace7
@@ -11,6 +11,8 @@ f1_keywords:
 - general ledger
 - ledger setup
 - general ledger setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining General ledger 
@@ -528,5 +530,5 @@ The following table lists the forms that support setting up and maintaining Gene
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

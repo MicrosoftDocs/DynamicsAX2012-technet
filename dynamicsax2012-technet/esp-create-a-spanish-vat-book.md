@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Create a Spanish VAT book
 TOCTitle: (ESP) Create a Spanish VAT book
 ms:assetid: 7adc593e-c0da-4444-9cd9-dab6319fd162
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213022(v=AX.60)
 ms:contentKeyID: 36058250
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Create a Spanish VAT book 
@@ -66,5 +68,5 @@ After you generate the ASCII file, log on to the **Agencia Tributaria** website 
 [(ESP) Spanish VAT books (form)](https://technet.microsoft.com/en-us/library/aa549899\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

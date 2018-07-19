@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project timesheet user security role (ProjTimesheetUser)
 TOCTitle: Project timesheet user security role (ProjTimesheetUser)
 ms:assetid: 73c31f86-46f7-4e67-aa79-009c47eba08d
@@ -47,5 +47,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

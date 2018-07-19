@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register payments automatically for intercompany customer invoices
 TOCTitle: Register payments automatically for intercompany customer invoices
 ms:assetid: 64e094d2-c0fb-4741-a653-07aa89c9d31c
@@ -12,6 +12,8 @@ f1_keywords:
 - intercompany payment
 - intercompany sales order invoice
 - register payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register payments automatically for intercompany customer invoices 
@@ -30,5 +32,5 @@ Microsoft Dynamics AX creates a customer transaction when an intercompany custom
 4.  If you want to post to this journal automatically, select the **Post journal automatically** check box.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

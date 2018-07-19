@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create purchase delivery schedules
 TOCTitle: Create purchase delivery schedules
 ms:assetid: 971baf1c-400b-4cfc-b35e-bd00f52f91ba
@@ -12,6 +12,8 @@ f1_keywords:
 - delivery schedule
 - purchasing
 - delivery schedules
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create purchase delivery schedules 
@@ -85,5 +87,5 @@ Use this procedure to create a delivery schedule that allows you to split up one
 [Delete delivery schedules and delivery lines](delete-delivery-schedules-and-delivery-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

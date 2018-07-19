@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Register an item as a by-product
 TOCTitle: (RUS) Register an item as a by-product
 ms:assetid: 919736c4-39e5-494c-9689-a9657ee2c5d0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678479(v=AX.60)
 ms:contentKeyID: 49387708
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Register an item as a by-product 
@@ -42,5 +44,5 @@ Use the **By-product** form to register an item that is generated as a by-produc
 [(RUS) By-product (form)](https://technet.microsoft.com/en-us/library/jj711526\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

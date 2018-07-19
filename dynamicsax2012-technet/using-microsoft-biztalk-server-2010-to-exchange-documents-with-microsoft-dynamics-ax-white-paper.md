@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using Microsoft BizTalk Server 2010 to exchange documents with Microsoft Dynamics AX (White paper)
 TOCTitle: Using Microsoft BizTalk Server 2010 to Exchange Documents with Microsoft Dynamics AX
 ms:assetid: 825c8338-e6f5-4d0d-a1cd-bf0343d2aa10
@@ -18,5 +18,5 @@ This paper provides information about how to configure Application Integration F
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=221937).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

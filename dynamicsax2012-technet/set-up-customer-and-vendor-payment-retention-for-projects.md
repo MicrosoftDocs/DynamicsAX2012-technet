@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up customer and vendor payment retention for projects
 TOCTitle: Set up customer and vendor payment retention for projects
 ms:assetid: 045acca0-b432-40a0-aa83-b9c261f608bb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682086(v=AX.60)
 ms:contentKeyID: 49655573
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up customer and vendor payment retention for projects 
@@ -30,5 +32,5 @@ The following topics provide information about how to set up and maintain custom
 [Key tasks: Manage pay-when-paid projects](key-tasks-manage-pay-when-paid-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

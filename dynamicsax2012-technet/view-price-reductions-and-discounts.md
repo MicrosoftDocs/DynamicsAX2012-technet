@@ -1,4 +1,4 @@
-﻿---
+---
 title: View price reductions and discounts
 TOCTitle: View price reductions and discounts
 ms:assetid: 4f7c0d20-438b-4893-8012-7c53c1a3a52c
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPRetailPromotionsListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # View price reductions and discounts 
@@ -30,5 +32,5 @@ You can view a list of price reductions and discounts that are in effect at the 
 [View retail products](view-retail-products.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

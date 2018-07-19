@@ -1,4 +1,4 @@
-﻿---
+---
 title: Save  a workflow
 TOCTitle: Save  a workflow
 ms:assetid: d09c870c-9642-4659-9ed8-d19101dd9bf3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202108(v=AX.60)
 ms:contentKeyID: 35949362
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Save a workflow 
@@ -40,5 +42,5 @@ If you do not want to save the changes that you made to a workflow, follow these
 2.  Click **OK** to close the workflow editor and discard the changes that you made.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

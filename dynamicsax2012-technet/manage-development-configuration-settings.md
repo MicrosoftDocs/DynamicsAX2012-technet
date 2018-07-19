@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage development configuration settings
 TOCTitle: Manage development configuration settings
 ms:assetid: 5a07fe8c-e4a7-4f98-ac98-eeb79578e1d6
@@ -22,5 +22,5 @@ The topics in this section provide information about the client configurations t
 [Enable debugging in Microsoft Dynamics AX clients](enable-debugging-in-microsoft-dynamics-ax-clients.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

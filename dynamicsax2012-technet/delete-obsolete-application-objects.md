@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete obsolete application objects
 TOCTitle: Delete obsolete application objects
 ms:assetid: 414f56a5-6d2d-46d8-9d96-a57b54875510
@@ -38,5 +38,5 @@ Follow these steps to delete obsolete application objects by disabling the **Kee
 3.  Clear the **Keep update objects 5.0** and **Keep update objects 6.0** check boxes, and then click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

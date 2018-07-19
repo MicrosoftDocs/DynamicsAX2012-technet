@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create item requirements for service orders
 TOCTitle: Create item requirements for service orders
 ms:assetid: 5baf239e-d3f2-47b9-aea8-e3d5aa96040e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549087(v=AX.60)
 ms:contentKeyID: 54273729
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create item requirements for service orders 
@@ -52,5 +54,5 @@ Item requirements for service orders are processed through a project. To create 
 [About service order item requirements](about-service-order-item-requirements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

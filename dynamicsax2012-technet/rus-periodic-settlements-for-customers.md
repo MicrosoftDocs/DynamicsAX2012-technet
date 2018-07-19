@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Periodic settlements for customers
 TOCTitle: (RUS) Periodic settlements for customers
 ms:assetid: 11754bbf-be93-4cd8-b1f0-d8a51876b057
@@ -11,6 +11,8 @@ f1_keywords:
 - settlement
 - (RUS)
 - Russia
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Periodic settlements for customers 
@@ -25,5 +27,5 @@ You can settle customer payments by using the settlement priority that is define
 [Settlement priority (form)](https://technet.microsoft.com/en-us/library/hh208717\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

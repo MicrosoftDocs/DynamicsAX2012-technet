@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import data from another instance of Microsoft Dynamics AX
 TOCTitle: Import data from another instance of Microsoft Dynamics AX
 ms:assetid: 0191bddd-7002-4839-b1c2-84468f19cafc
@@ -212,5 +212,5 @@ Several tables cannot be exported from Microsoft Dynamics AX. These tables are k
 [Export data to another instance of Microsoft Dynamics AX](export-data-to-another-instance-of-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Test products and quality management overview
 TOCTitle: Test products and quality management overview
 ms:assetid: dd5d926c-750e-4ecd-9776-61fe7864b0e9
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - manage nonconformance
 - quality control
+audience: Application User
+ms.search.region: Global
 ---
 
 # Test products and quality management overview 
@@ -55,5 +57,5 @@ Managing nonconforming material is typically referred to as quality management a
 [About prerequisites for nonconformances](about-prerequisites-for-nonconformances.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

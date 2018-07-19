@@ -1,4 +1,4 @@
-﻿---
+---
 title: Design a screen layout (Retail essentials)
 TOCTitle: Design a screen layout (Retail essentials)
 ms:assetid: 9f85c09b-b4f6-4f64-9461-dc1ff36a085b
@@ -167,5 +167,5 @@ To design a screen layout, follow these steps:
 [Setting up screen layouts (Retail essentials)](setting-up-screen-layouts-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

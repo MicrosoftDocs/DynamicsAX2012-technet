@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customizing the Help System
 TOCTitle: Customizing the Help System
 ms:assetid: bd340597-8ca9-4066-86d5-1c6deb07427d
@@ -128,5 +128,5 @@ After you publish the file, your documentation will be available to the Help vie
 [Context Sensitive Help](https://technet.microsoft.com/en-us/library/gg882389\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

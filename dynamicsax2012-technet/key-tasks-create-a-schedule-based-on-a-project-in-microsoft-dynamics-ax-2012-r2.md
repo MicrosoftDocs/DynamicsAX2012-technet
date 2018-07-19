@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012 R2'
 TOCTitle: 'Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012 R2'
 ms:assetid: 399e100e-51bd-47d0-a6fd-14b3ecb4de4b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682092(v=AX.60)
 ms:contentKeyID: 49655579
 ms.date: 10/06/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012 R2 
@@ -184,5 +186,5 @@ Back to top
 [Microsoft Dynamics AX 2012 R2 – Resource scheduling in Project management and accounting](http://go.microsoft.com/fwlink/?linkid=268038%26amp%3bclcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

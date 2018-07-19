@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Example: Balanced accounting entry for interunit accounting'
 TOCTitle: 'Example: Balanced accounting entry for interunit accounting'
 ms:assetid: d1904c54-9c4b-438e-add7-419dcf6e0915
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ729758(v=AX.60)
 ms:contentKeyID: 49564924
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Example: Balanced accounting entry for interunit accounting 
@@ -69,5 +71,5 @@ The following accounting entries are created automatically, so that this entry b
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

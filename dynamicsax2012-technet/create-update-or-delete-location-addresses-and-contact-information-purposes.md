@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create, update, or delete location addresses and contact information purposes
 TOCTitle: Create, update, or delete location addresses and contact information purposes
 ms:assetid: a097d59d-71c4-4a29-9b8f-cf6c6c1fb464
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh370699(v=AX.60)
 ms:contentKeyID: 36811423
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create, update, or delete location addresses and contact information purposes 
@@ -46,5 +48,5 @@ You can create, update, or delete purposes and descriptions for address and cont
 [Set up global address book translations](set-up-global-address-book-translations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create, verify, and print a corrective or revised facture
 TOCTitle: (RUS) Create, verify, and print a corrective or revised facture
 ms:assetid: c40dddc1-3316-496b-acfc-b7483b45f76a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923587(v=AX.60)
 ms:contentKeyID: 52075430
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create, verify, and print a corrective or revised facture 
@@ -144,5 +146,5 @@ Use the following procedures to create, verify, and print a corrective or revise
 [(RUS) Set up parameters to create corrective and revised factures](rus-set-up-parameters-to-create-corrective-and-revised-factures.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

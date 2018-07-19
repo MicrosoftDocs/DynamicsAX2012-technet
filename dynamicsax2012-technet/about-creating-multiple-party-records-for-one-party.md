@@ -1,4 +1,4 @@
-﻿---
+---
 title: About creating multiple party records for one party
 TOCTitle: About creating multiple party records for one party
 ms:assetid: 274d6d24-0b8f-4f97-9410-517d776f6bdb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208489(v=AX.60)
 ms:contentKeyID: 36056209
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About creating multiple party records for one party 
@@ -40,5 +42,5 @@ Creating separate records helps reduce confusion when you communicate with diffe
 When you create multiple party records, you will likely want to record and track how the parties are related. To indicate the relationships, on the **Party** form, on the **Relationships** FastTab,
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

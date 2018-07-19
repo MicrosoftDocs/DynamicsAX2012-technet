@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up excise tax codes
 TOCTitle: (IND) Set up excise tax codes
 ms:assetid: 5a7ac4ba-2b50-4769-9751-cb40a60a0c1b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677839(v=AX.60)
 ms:contentKeyID: 49385805
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up excise tax codes 
@@ -84,5 +86,5 @@ You must create the excise tax codes for the excise duties that your company mus
 [(IND) Set up excise settlement periods](ind-set-up-excise-settlement-periods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

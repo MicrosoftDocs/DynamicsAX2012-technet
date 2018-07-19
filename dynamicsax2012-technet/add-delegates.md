@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add delegates
 TOCTitle: Add delegates
 ms:assetid: 48bc28cc-1a0c-43c8-b200-e2cc5c82b9b1
@@ -8,6 +8,8 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
 - TrvDelegate
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add delegates 
@@ -76,5 +78,5 @@ You can use the **Expense report delegates** page to set up other users as deleg
 5.  Ensure that the **Enabled** field is set to **Yes**, add any comments, and then click **Save and close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

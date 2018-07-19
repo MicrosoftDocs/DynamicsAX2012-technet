@@ -1,4 +1,4 @@
-﻿---
+---
 title: Withholding tax transactions report (TaxWithholdTrans)
 TOCTitle: Withholding tax transactions report (TaxWithholdTrans)
 ms:assetid: f3eae7ba-18aa-43c4-bda5-65a3b87838c3
@@ -80,5 +80,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

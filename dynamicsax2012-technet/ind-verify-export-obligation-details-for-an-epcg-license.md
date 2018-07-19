@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Verify export obligation details for an EPCG license
 TOCTitle: (IND) Verify export obligation details for an EPCG license
 ms:assetid: a6c780b3-9a1c-4b22-a07e-c2dceb8f3f82
@@ -15,6 +15,8 @@ f1_keywords:
 - Verify approved EPCG
 - Verify approved EPCG license
 - verify EPCG license
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Verify export obligation details for an EPCG license 
@@ -45,5 +47,5 @@ Use the **EPCG export obligation** form to view the export transactions and othe
 [(IND) Export transaction details (form)](https://technet.microsoft.com/en-us/library/jj664611\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

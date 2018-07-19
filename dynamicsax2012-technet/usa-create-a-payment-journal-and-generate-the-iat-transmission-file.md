@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Create a payment journal and generate the IAT transmission file
 TOCTitle: (USA) Create a payment journal and generate the IAT transmission file
 ms:assetid: cb94ad70-9743-45ee-8eeb-62696c7f51c0
@@ -11,6 +11,8 @@ f1_keywords:
 - USA
 - payment journal
 - transmission file
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Create a payment journal and generate the IAT transmission file 
@@ -97,5 +99,5 @@ You can generate the NACHA – IAT transmission file for vendor payments and cus
 [(USA) NACHA IAT information (form)](https://technet.microsoft.com/en-us/library/hh227435\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

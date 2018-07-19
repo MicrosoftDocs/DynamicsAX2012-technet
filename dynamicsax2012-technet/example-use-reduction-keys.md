@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Example: Use reduction keys'
 TOCTitle: 'Example: Use reduction keys'
 ms:assetid: 8bb788fb-cf70-4d5c-b3c0-da747d0c4bba
@@ -11,6 +11,8 @@ f1_keywords:
 - forecast consumption
 - reduce forecast
 - forecast reduction
+audience: Application User
+ms.search.region: Global
 ---
 
 # Example: Use reduction keys 
@@ -195,5 +197,5 @@ Using the same demand forecast of 1000 pieces per month, the following requireme
 [Create and use a reduction key](create-and-use-a-reduction-key.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

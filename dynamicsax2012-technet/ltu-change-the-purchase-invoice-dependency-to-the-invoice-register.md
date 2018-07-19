@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Change the purchase invoice dependency to the invoice register
 TOCTitle: (LTU) Change the purchase invoice dependency to the invoice register
 ms:assetid: bfff9db8-6dbb-48cd-b402-8a5696ec95d4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665181(v=AX.60)
 ms:contentKeyID: 49386762
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Change the purchase invoice dependency to the invoice register 
@@ -38,5 +40,5 @@ If a posted invoice must not be included in the invoice register, change the dep
 [(LTU) Purchase invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj665048\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

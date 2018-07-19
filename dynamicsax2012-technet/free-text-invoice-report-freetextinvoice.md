@@ -1,4 +1,4 @@
-﻿---
+---
 title: Free text invoice report (FreeTextInvoice)
 TOCTitle: Free text invoice report (FreeTextInvoice)
 ms:assetid: 048f3909-135a-4d57-bcad-9b60070e921d
@@ -198,5 +198,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

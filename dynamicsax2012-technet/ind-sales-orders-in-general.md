@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Sales orders in general
 TOCTitle: (IND) Sales orders in general
 ms:assetid: f6d89a42-024b-4506-bc00-caf4267995a5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710941(v=AX.60)
 ms:contentKeyID: 49386353
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Sales orders in general 
@@ -38,5 +40,5 @@ The following topics provide information about sales orders.
 [(IND) Create an export order for an EPCG incentive scheme](ind-create-an-export-order-for-an-epcg-incentive-scheme.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

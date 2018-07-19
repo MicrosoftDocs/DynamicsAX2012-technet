@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up payroll statistics for time and attendance
 TOCTitle: Set up payroll statistics for time and attendance
 ms:assetid: f727afd2-188d-4dfa-a0bd-7ec00ae1d869
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - payroll
 - statistics
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up payroll statistics for time and attendance 
@@ -67,5 +69,5 @@ You can display a worker's current payroll balances in the **Balances** form, wh
 [About payroll in Time and attendance](about-payroll-in-time-and-attendance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

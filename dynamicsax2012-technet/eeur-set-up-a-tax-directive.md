@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Set up a tax directive
 TOCTitle: (EEUR) Set up a tax directive
 ms:assetid: 560b9f29-ecc8-46ff-86c0-2972345a5e5f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710712(v=AX.60)
 ms:contentKeyID: 49385109
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Set up a tax directive 
@@ -32,5 +34,5 @@ The **Directive** form provides the option to set up tax directives for the corr
 [(EST) Post a paper sales invoice with a tax directive](est-post-a-paper-sales-invoice-with-a-tax-directive.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

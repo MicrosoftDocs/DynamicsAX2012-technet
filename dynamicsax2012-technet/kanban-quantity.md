@@ -1,4 +1,4 @@
-﻿---
+---
 title: " kanban quantity"
 TOCTitle: " kanban quantity"
 ms:assetid: DynamicsAXGlossary.1370642
@@ -27,5 +27,5 @@ The numeric parameter in a kanban rule that controls the number of kanbans to cr
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

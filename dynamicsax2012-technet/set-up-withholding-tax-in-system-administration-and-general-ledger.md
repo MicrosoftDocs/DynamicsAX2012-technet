@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up withholding tax in System administration and General ledger
 TOCTitle: Set up withholding tax in System administration and General ledger
 ms:assetid: ab6ae559-0edb-4f83-8d00-d3837591f57c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498548(v=AX.60)
 ms:contentKeyID: 36058910
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up withholding tax in System administration and General ledger 
@@ -36,5 +38,5 @@ Withholding tax is reported in fixed reports.
 [Calculate and post withholding tax](calculate-and-post-withholding-tax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post VAT deferment amounts before settling transactions
 TOCTitle: (IND) Post VAT deferment amounts before settling transactions
 ms:assetid: 522048da-9ed5-47dc-bd3c-3a1395682cc5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664695(v=AX.60)
 ms:contentKeyID: 49385777
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post VAT deferment amounts before settling transactions 
@@ -74,5 +76,5 @@ You must post the VAT deferment amount from the VAT deferred account to the VAT 
 [(IND) VAT deferment transactions (form)](https://technet.microsoft.com/en-us/library/jj710922\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

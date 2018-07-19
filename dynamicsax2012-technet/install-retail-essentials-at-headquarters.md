@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Retail essentials at headquarters
 TOCTitle: Install Retail essentials at headquarters
 ms:assetid: c2aa753b-f03b-4cee-b588-3c24eee3824c
@@ -453,5 +453,5 @@ Install Retail essentials at the store and at the point of sale. For more inform
 Customize the online store for your company. For more information, see [Getting started with customizing the Retail online sample store](getting-started-with-customizing-the-retail-online-sample-store.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an opportunity or customer from a lead
 TOCTitle: Create an opportunity or customer from a lead
 ms:assetid: 18f6cd1f-b561-42ce-b19c-f1e443d77c77
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230967(v=AX.60)
 ms:contentKeyID: 36056106
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an opportunity or customer from a lead 
@@ -52,5 +54,5 @@ After you qualify a lead, you can create an opportunity or customer record for t
 [Lead management](lead-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Set up tax report category
 TOCTitle: (MEX) Set up tax report category
 ms:assetid: 2127b708-2929-4914-990e-47b11d4505fc
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Mexico
 - tax report
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Set up tax report category 
@@ -43,5 +45,5 @@ You can generate sales tax and purchase tax reports to prepare, verify, and reco
 5.  Close the form to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

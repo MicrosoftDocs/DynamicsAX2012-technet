@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure Retail Modern POS for direct database connectivity
 TOCTitle: Configure Retail Modern POS for direct database connectivity
 ms:assetid: cba36c76-a44a-4a62-90c1-702e5930df86
@@ -67,5 +67,5 @@ The procedures in this topic assume that you have installed a supported version 
     The account is added to the POS user group. For more information, see [Set up user accounts and the POS user group](set-up-user-accounts-and-the-pos-user-group.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

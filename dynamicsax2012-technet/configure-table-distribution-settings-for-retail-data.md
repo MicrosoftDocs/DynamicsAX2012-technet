@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure table distribution settings for Retail data
 TOCTitle: Configure table distribution settings for Retail data
 ms:assetid: 07e2e468-63a6-493b-b6c2-120dcd825618
@@ -28,5 +28,5 @@ The following topics are included in this section:
 [Set up table links](set-up-table-links.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

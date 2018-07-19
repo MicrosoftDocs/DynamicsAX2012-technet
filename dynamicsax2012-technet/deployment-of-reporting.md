@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deployment of reporting
 TOCTitle: Deployment
 ms:assetid: 6322c479-b7a0-48b4-957d-9de429c71426
@@ -22,5 +22,5 @@ The following topics explain how to install the Microsoft SQL Server Reporting S
 [Upgrading Reports](upgrading-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

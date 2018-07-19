@@ -1,4 +1,4 @@
-﻿---
+---
 title: Point of Sale
 TOCTitle: Point of Sale
 ms:assetid: 2051b6fa-b8a1-4254-a115-a3480ad31143
@@ -359,10 +359,14 @@ The following tables describe the configuration tasks that you must complete in 
 <td><p>Assign product assortments to the store</p></td>
 <td><p>The assortment that is assigned to a store contains a list of products that are available in the store.</p>
 <div class="alert">
-
-> [!NOTE]  
-> You can assign the retail store to an existing assortment or create a new assortment for the retail store.
-
+<div class="mtps-table">
+<div class="mtps-row">
+<img src="images/Dn527205.alert_note(AX.60).gif" title="Note" alt="Note" class="note" /><strong>Note</strong>
+</div>
+<div class="mtps-row">
+You can assign the retail store to an existing assortment or create a new assortment for the retail store.
+</div>
+</div>
 </div></td>
 <td><p><a href="set-up-an-assortment.md">Set up an assortment</a></p></td>
 </tr>
@@ -443,5 +447,5 @@ The following tables describe the configuration tasks that you must complete in 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

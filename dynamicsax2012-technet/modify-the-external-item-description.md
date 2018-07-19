@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify the external item description
 TOCTitle: Modify the external item description
 ms:assetid: 12fb2cba-a1b1-49c0-b7dd-7729e2621ef4
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPVendExternalItemEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Modify the external item description 
@@ -32,5 +34,5 @@ Vendors can also modify the external description of an item if they are the prim
 [View items](view-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

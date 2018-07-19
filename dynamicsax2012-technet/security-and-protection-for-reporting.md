@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security and protection for reporting
 TOCTitle: Security and protection for reporting
 ms:assetid: 37b73e48-e2c4-4c8f-b080-d657da51ec3e
@@ -20,5 +20,5 @@ The following topics explain how to help secure reports.
 [Security settings for reports](security-settings-for-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

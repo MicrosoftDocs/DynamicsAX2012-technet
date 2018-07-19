@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain your project experiences information
 TOCTitle: Add and maintain your project experiences information
 ms:assetid: 5d1baad6-3f73-4875-9db0-71dd6b243152
@@ -10,6 +10,8 @@ f1_keywords:
 - HcmEPPersonProjectRoleCreate
 - HcmEPPersonProjectRoleEdit
 - HcmEPPersonProjectRoleInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain your project experiences information 
@@ -60,5 +62,5 @@ Use the **Competencies** page to add or maintain information about the project e
 2.  On the **Project experiences** FastTab, select the project experience row to remove and then click **Remove**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

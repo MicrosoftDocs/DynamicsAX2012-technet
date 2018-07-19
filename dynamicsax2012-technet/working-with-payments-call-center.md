@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with payments (Call center)
 TOCTitle: Working with payments (Call center)
 ms:assetid: 91792361-dc83-4988-85a0-dd25a6124102
@@ -10,6 +10,8 @@ f1_keywords:
 - payment processing
 - call center payments
 - payments processing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with payments (Call center) 
@@ -34,5 +36,5 @@ The topics in this section provide information about how to use various payment 
 [Setting up payment options (Call center)](setting-up-payment-options-call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

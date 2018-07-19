@@ -1,4 +1,4 @@
-﻿---
+---
 title: About purchase requisitions
 TOCTitle: About purchase requisitions
 ms:assetid: 3609683f-4642-428d-ae62-c5a577b1dac6
@@ -14,6 +14,8 @@ f1_keywords:
 - requisitions
 - requisition
 - purchases
+audience: Application User
+ms.search.region: Global
 ---
 
 # About purchase requisitions 
@@ -94,5 +96,5 @@ Note that because in eProcurement the RFQ for your purchase requisition may allo
 [Overview of a purchase requisition workflow](overview-of-a-purchase-requisition-workflow.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

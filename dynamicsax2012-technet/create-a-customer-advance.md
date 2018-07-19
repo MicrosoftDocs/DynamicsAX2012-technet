@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a customer advance
 TOCTitle: Create a customer advance
 ms:assetid: 22551e8f-229d-42a2-9371-1e32e3d71932
@@ -10,6 +10,8 @@ f1_keywords:
 - customer advance
 - customer advance amount
 - customer advance percentage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a customer advance 
@@ -62,5 +64,5 @@ The invoice for the customer advance is routed to workflow. If the invoice is ap
 [Update default values (form)](https://technet.microsoft.com/en-us/library/hh209610\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

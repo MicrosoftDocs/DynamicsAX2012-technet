@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Work with vendor search and search results'
 TOCTitle: 'Key tasks: Work with vendor search and search results'
 ms:assetid: 01f5affc-6ade-4ec0-9a43-cde7e080082c
@@ -11,6 +11,8 @@ f1_keywords:
 - Forms.VendSearchAddCategory
 - Vendor search
 - MsDynAx060.Forms.VendSearchAddCategory
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Work with vendor search and search results 
@@ -271,5 +273,5 @@ Back to top
 [Add vendor to legal entities (form)](https://technet.microsoft.com/en-us/library/hh209684\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

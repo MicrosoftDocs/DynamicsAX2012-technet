@@ -1,4 +1,4 @@
-﻿---
+---
 title: Advanced Ledger Entry Service in Microsoft Dynamics AX 2012 for Public Sector
 TOCTitle: Advanced Ledger Entry Service in Microsoft Dynamics AX 2012 for Public Sector
 ms:assetid: 7280efd8-411e-4833-baf0-8f917aaf576c
@@ -18,5 +18,5 @@ This white paper provides an overview of operations that are exposed in the Adva
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=290981).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

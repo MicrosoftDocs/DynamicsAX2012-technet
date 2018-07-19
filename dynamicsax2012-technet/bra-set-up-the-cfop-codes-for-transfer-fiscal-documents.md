@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up the CFOP codes for transfer fiscal documents
 TOCTitle: (BRA) Set up the CFOP codes for transfer fiscal documents
 ms:assetid: 54067547-6dc9-427c-a0a1-575cab53ea31
@@ -13,6 +13,8 @@ f1_keywords:
 - transfer CFOP
 - shipment CFOP
 - receipt CFOP
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up the CFOP codes for transfer fiscal documents 
@@ -41,5 +43,5 @@ Use the following procedure to map the Código Fiscal de Operações e Prestaç�
 [(BRA) Receive an inbound transfer fiscal document](bra-receive-an-inbound-transfer-fiscal-document.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

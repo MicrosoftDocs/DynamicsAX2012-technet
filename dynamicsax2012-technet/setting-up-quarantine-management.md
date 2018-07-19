@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up quarantine management
 TOCTitle: Setting up quarantine management
 ms:assetid: 2a0b4e9a-1a84-4e21-8a85-b198754f9ce3
@@ -11,6 +11,8 @@ f1_keywords:
 - quarantine
 - blocking
 - inventory
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up quarantine management 
@@ -25,5 +27,5 @@ The topics in this section provide information about how to set up quarantine ma
 [About inventory blocking](about-inventory-blocking.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

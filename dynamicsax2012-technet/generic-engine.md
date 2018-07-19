@@ -1,4 +1,4 @@
-﻿---
+---
 title: " generic engine"
 TOCTitle: " generic engine"
 ms:assetid: DynamicsAXGlossary.2026533
@@ -19,5 +19,5 @@ An engine that determines the apportionment of freight charges by weight.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

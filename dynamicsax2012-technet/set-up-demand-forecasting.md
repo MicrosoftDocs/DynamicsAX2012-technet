@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up demand forecasting
 TOCTitle: Set up demand forecasting
 ms:assetid: 7d928df8-d612-4d63-9949-0abf7956109a
@@ -17,6 +17,8 @@ f1_keywords:
 - MsDynAx060.Forms.ReqIntercompanyPlanningGroupSetup
 - demand planning
 - demand forecasting, demand forecast, demand forecasts, sales forecast, sales forecasts, forecasting setup, baseline forecast, historical forecast, adjusted forecast, forecast dimension, forecast dimensions, item allocation key, item allocation keys, inter
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up demand forecasting 
@@ -245,5 +247,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Unit conversions (form)](https://technet.microsoft.com/en-us/library/hh209285\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

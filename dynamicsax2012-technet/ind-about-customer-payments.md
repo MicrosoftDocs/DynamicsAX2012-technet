@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) About customer payments
 TOCTitle: (IND) About customer payments
 ms:assetid: 5347cd29-b5bb-4dcd-af46-3d8f08f6d63c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664700(v=AX.60)
 ms:contentKeyID: 49385774
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) About customer payments 
@@ -40,5 +42,5 @@ For more information, see [Mark invoice lines (form)](https://technet.microsoft.
 [(IND) About customer invoices](ind-about-customer-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

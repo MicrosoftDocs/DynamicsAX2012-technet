@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update an item rebate group
 TOCTitle: Update an item rebate group
 ms:assetid: e20184b5-7307-4a1a-8e7a-0828d7d3b13a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh328596(v=AX.60)
 ms:contentKeyID: 36688021
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update an item rebate group 
@@ -34,5 +36,5 @@ Use this procedure to update information for an item rebate group.
 [Item rebate groups (form)](https://technet.microsoft.com/en-us/library/hh328770\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

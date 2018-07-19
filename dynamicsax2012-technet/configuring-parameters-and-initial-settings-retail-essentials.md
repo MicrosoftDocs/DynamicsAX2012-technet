@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring parameters and initial settings (Retail essentials)
 TOCTitle: Configuring parameters and initial settings (Retail essentials)
 ms:assetid: c55c678b-283a-4e06-ae30-d58af8b503f4
@@ -18,5 +18,5 @@ The topics in this section provide information about how to set up parameters fo
 [Configure parameters (Retail essentials)](configure-parameters-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Help server operations
 TOCTitle: Operations
 ms:assetid: e4e69896-5476-43fe-b10b-438ddc637a46
@@ -20,5 +20,5 @@ The topics in this section provide information about how to configure and mainta
 [Troubleshooting the Help server](troubleshooting-the-help-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

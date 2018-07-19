@@ -1,4 +1,4 @@
-﻿---
+---
 title: Learn about functional areas in RapidStart Services
 TOCTitle: Learn about functional areas in RapidStart Services
 ms:assetid: a696fc08-0f54-4f3d-8f9c-9606eeefbdb8
@@ -55,5 +55,5 @@ You can add one or more functional areas to the template that you use to create 
 [Add a functional area to a template in RapidStart Services](add-a-functional-area-to-a-template-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

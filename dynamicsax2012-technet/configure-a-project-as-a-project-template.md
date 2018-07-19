@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure a project as a project template
 TOCTitle: Configure a project as a project template
 ms:assetid: 44331a68-ade9-40e3-9c59-05ecf2638033
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - project template
 - reuse project structure
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure a project as a project template 
@@ -33,5 +35,5 @@ To designate a project as a template, follow these steps:
 4.  On the **Project hierarchy** FastTab, select the **Project template** check box.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

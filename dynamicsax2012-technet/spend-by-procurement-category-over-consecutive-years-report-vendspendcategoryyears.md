@@ -1,4 +1,4 @@
-﻿---
+---
 title: Spend by procurement category over consecutive years report (VendSpendCategoryYears)
 TOCTitle: Spend by procurement category over consecutive years report (VendSpendCategoryYears)
 ms:assetid: f91fe740-0cc9-40bd-acd0-995c188099e0
@@ -118,5 +118,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

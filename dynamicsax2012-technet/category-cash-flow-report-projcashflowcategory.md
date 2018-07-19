@@ -1,4 +1,4 @@
-﻿---
+---
 title: Category cash flow report (ProjCashFlowCategory)
 TOCTitle: Category cash flow report (ProjCashFlowCategory)
 ms:assetid: 5e95ba1f-f8bc-4f2c-8148-c260a0b9e94f
@@ -61,7 +61,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Forecast model</strong></p></td>
 <td><p>Select the forecast model that you want the report to use.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If you are using project budget control, select the budget forecast model that is used by this project.</P>
@@ -81,7 +81,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>(<strong>Expected sales payment date</strong>)</p>
 <p><strong>Add days to due payment</strong> / <strong>Minimum payment date</strong></p></td>
 <td><p>Enter the number of days from today to include in the calculation of unpaid customer invoices, or you can enter a future date. The number of days is automatically calculated from today's date to the date you select.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This control is available only if you select the <STRONG>Include expected payment</STRONG> check box.</P>
@@ -93,7 +93,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>(<strong>Expected cost payment dates</strong>)</p>
 <p><strong>Add days to due payment</strong> / <strong>Expected cost payment dates</strong></p></td>
 <td><p>Select the number of days from today to include in the calculation of pending payments to vendors, or you can enter a future date. The number of days is automatically calculated from today's date to the date you select.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This control is available only if you select the <STRONG>Include expected payment</STRONG> check box.</P>
@@ -198,5 +198,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

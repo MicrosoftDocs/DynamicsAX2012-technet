@@ -1,4 +1,4 @@
-﻿---
+---
 title: View vendor reports
 TOCTitle: View vendor reports
 ms:assetid: e93ab2ac-fc46-4404-80f4-401a8d91775b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPPurchSupplyPerformanceVSS
 - VendProfileReportList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View vendor reports 
@@ -25,5 +27,5 @@ Maintaining your relationship with your customer depends on your ability to deli
 2.  Click **Supply performance**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Overview of the workflow system
 TOCTitle: Overview of the workflow system
 ms:assetid: 4ca4bb9f-2ccc-44d5-a6db-e78861b59174
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309672(v=AX.60)
 ms:contentKeyID: 35132628
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Overview of the workflow system 
@@ -44,5 +46,5 @@ There are several benefits of using the workflow system in your organization:
   - **Centralized work list** – Users can view a centralized work list that displays the workflow tasks and approvals that are assigned to them. This work list is available from the Role Center pages in the Microsoft Dynamics AX client and Enterprise Portal for Microsoft Dynamics AX.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

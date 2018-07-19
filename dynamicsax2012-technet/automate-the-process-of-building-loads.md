@@ -1,4 +1,4 @@
-﻿---
+---
 title: Automate the process of building loads
 TOCTitle: Automate the process of building loads
 ms:assetid: 96a5f406-928f-4858-9802-cfd078b3d95e
@@ -16,6 +16,8 @@ f1_keywords:
 - Forms.TMSLoadBuildProposal
 - Forms.TMSLoadBuildStrategy
 - Forms.TMSLoadBuildWorkbench
+audience: Application User
+ms.search.region: Global
 ---
 
 # Automate the process of building loads 
@@ -62,7 +64,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="even">
 <td><p><strong>Load template</strong></p></td>
 <td><p>You must create one or more load templates. When you generate proposed loads, load building strategies use the attributes defined on the load template to determine what to put in the loads. For more information, see <a href="set-up-a-load-template.md">Set up a load template</a>.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>A load building strategy named <STRONG>Volume-based load building strategy</STRONG> is provided in AX 2012 R3 CU8. If you have more than one load template, the volume based load template strategy uses only the first load template in the list.</P>
@@ -197,5 +199,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

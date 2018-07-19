@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Adjustment (cur.) report (InventSettlementAdjSecCur_RU)
 TOCTitle: (RUS) Adjustment (cur.) report (InventSettlementAdjSecCur_RU)
 ms:assetid: 6f16bce5-6e13-4fed-876d-712d785b7538
@@ -126,5 +126,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(RUS) Inventory adjustments](rus-inventory-adjustments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

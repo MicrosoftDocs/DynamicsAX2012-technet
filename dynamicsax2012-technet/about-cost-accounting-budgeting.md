@@ -1,4 +1,4 @@
-﻿---
+---
 title: About cost accounting budgeting
 TOCTitle: About budgeting
 ms:assetid: e0c70f9e-854b-47a0-a3b1-aaa782c3c1b4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551328(v=AX.60)
 ms:contentKeyID: 36059706
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About cost accounting budgeting 
@@ -50,5 +52,5 @@ When you create budgets, you must distinguish between:
 [Flexible budgets](flexible-budgets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

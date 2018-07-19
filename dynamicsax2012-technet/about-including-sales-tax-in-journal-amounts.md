@@ -1,4 +1,4 @@
-﻿---
+---
 title: About including sales tax in journal amounts
 TOCTitle: About including sales tax in journal amounts
 ms:assetid: 220f9c76-2e03-4a52-8d28-0eca0c0c3860
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - sales tax in journals
+audience: Application User
+ms.search.region: Global
 ---
 
 # About including sales tax in journal amounts 
@@ -40,5 +42,5 @@ The total invoice amount is 110.00, which you enter in the appropriate **Debit**
 This information is used to calculate the net amount and the sales tax amount. In this example, the net amount is 100.00 (110.00 / 1.10), and the sales tax amount is 10.00.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

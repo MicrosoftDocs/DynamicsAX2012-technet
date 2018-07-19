@@ -1,4 +1,4 @@
-﻿---
+---
 title: About querying dimension balances
 TOCTitle: About querying dimension balances
 ms:assetid: 8d4d7132-4e9f-4d7e-8109-1471323e0820
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498344(v=AX.60)
 ms:contentKeyID: 36058494
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About querying dimension balances 
@@ -48,5 +50,5 @@ Primary costs are posted to ledger accounts. Secondary costs are generated only 
 For the selected dimension, you can display cost, service, and calculation transactions by clicking **Transactions**. To display cost balances, click **Cost balance**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

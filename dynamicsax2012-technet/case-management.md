@@ -1,4 +1,4 @@
-﻿---
+---
 title: Case management
 TOCTitle: Case management
 ms:assetid: 14cfee9d-9a37-4b29-8869-ddc9486401d6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242147(v=AX.60)
 ms:contentKeyID: 36056057
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Case management 
@@ -144,5 +146,5 @@ Cristine creates a case for Claus. She reviews Claus’s tax information and lea
 [Case grouping criteria (form)](https://technet.microsoft.com/en-us/library/hh209729\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an inventory profile in the Vendors form
 TOCTitle: (RUS) Set up an inventory profile in the Vendors form
 ms:assetid: 74502081-b145-4839-a1f3-a0447d9eea5a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733241(v=AX.60)
 ms:contentKeyID: 49685208
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an inventory profile in the Vendors form 
@@ -42,5 +44,5 @@ Use the **Vendors** form to set up an inventory profile.
 [(RUS) Set up an inventory profile in the Warehouses form](rus-set-up-an-inventory-profile-in-the-warehouses-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

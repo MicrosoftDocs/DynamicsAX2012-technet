@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up retail products
 TOCTitle: Setting up retail products
 ms:assetid: afa26254-72a1-4154-b947-78fd763a5084
@@ -10,6 +10,8 @@ f1_keywords:
 - products
 - product
 - retail
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up retail products 
@@ -40,5 +42,5 @@ The topics in this section provide information about how to set up retail produc
 [Set up return locations for retail stores](set-up-return-locations-for-retail-stores.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

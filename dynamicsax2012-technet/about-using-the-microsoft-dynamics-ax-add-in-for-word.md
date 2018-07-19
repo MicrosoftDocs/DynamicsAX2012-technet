@@ -1,4 +1,4 @@
-﻿---
+---
 title: About using the Microsoft Dynamics AX Add-in for Word
 TOCTitle: About using the Microsoft Dynamics AX Add-in for Word
 ms:assetid: 474bd73c-0723-4775-a1a8-e41bd3e7cee6
@@ -10,6 +10,8 @@ f1_keywords:
 - Add-in
 - Word
 - Office
+audience: Application User
+ms.search.region: Global
 ---
 
 # About using the Microsoft Dynamics AX Add-in for Word 
@@ -34,5 +36,5 @@ The data that you can export to a document is limited by the permissions that ar
 [Key tasks: Create and use a Word template by using the Office Add-ins](key-tasks-create-and-use-a-word-template-by-using-the-office-add-ins.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

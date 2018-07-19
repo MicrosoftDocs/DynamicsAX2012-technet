@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a channel database profile
 TOCTitle: Set up a channel database profile
 ms:assetid: 03e67a5d-792b-4d3f-9122-21eab9cd6b61
@@ -49,5 +49,5 @@ A channel database profile provides the information that enables Microsoft Dynam
 7.  To synchronize all data for the channel database, click **Full data sync** and then select the distribution schedule that is named **Full sync**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post a project debit note
 TOCTitle: (BRA) Create and post a project debit note
 ms:assetid: ed956e1a-25bf-47dd-aaa0-891b864b9833
@@ -11,6 +11,8 @@ f1_keywords:
 - debit notes
 - debot note
 - project debit note
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post a project debit note 
@@ -131,5 +133,5 @@ Before you create a debit note proposal, you must set up a fiscal document type 
 [(BRA) About project debit notes](bra-about-project-debit-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

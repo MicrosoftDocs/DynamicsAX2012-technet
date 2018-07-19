@@ -1,4 +1,4 @@
-﻿---
+---
 title: System administrator security role (-SYSADMIN-)
 TOCTitle: System administrator security role (-SYSADMIN-)
 ms:assetid: f720da4f-c711-4d26-98fd-5af703f48907
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 The System administrator security role represents a user who maintains the Microsoft Dynamics AX system. Users in this role have access to all artifacts in the system. This role cannot be modified.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

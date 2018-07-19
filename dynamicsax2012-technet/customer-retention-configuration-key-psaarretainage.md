@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer retention configuration key (PSAARRetainage)
 TOCTitle: Customer retention configuration key (PSAARRetainage)
 ms:assetid: 13836d27-b1e9-4e03-b45c-b68584eb36fc
@@ -90,5 +90,5 @@ For more information about how license codes and configuration keys work togethe
 [Key tasks: Manage customer payment retention for projects](key-tasks-manage-customer-payment-retention-for-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

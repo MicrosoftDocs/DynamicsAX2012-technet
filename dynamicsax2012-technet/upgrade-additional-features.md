@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upgrade additional features
 TOCTitle: Upgrade additional features
 ms:assetid: 64da023a-a4ab-4451-830d-b91b309043a8
@@ -20,5 +20,5 @@ The **Upgrade additional features** task in the **Data upgrade checklist** compl
 Select the jobs that you want to run and click **Upgrade job**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

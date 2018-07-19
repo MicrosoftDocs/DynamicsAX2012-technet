@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add an Entity to Master Data Management
 TOCTitle: Add an Entity to Master Data Management
 ms:assetid: 689d14ed-f580-4d41-ac9c-08a880403c40
@@ -166,5 +166,5 @@ To create a custom entity and add it to MDM, follow these steps.
 18. In **Master data management**, click **Publish entities to SQL Master Data Services**. In the **Publish entities to SQL Master Data Services** form, select the entity that you created, and then click **Create schema** to publish the entity. When the schema has been created, click **Close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

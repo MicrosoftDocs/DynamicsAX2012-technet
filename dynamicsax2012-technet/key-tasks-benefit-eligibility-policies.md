@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Benefit eligibility policies'
 TOCTitle: 'Key tasks: Benefit eligibility policies'
 ms:assetid: 7c5cdb65-4ccd-4ec8-94f4-0a2077f749cb
@@ -12,6 +12,8 @@ f1_keywords:
 - benefits
 - benefit eligibility
 - eligibility
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Benefit eligibility policies 
@@ -160,5 +162,5 @@ Back to top
 [Key tasks: Determine benefit eligibility](key-tasks-determine-benefit-eligibility.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

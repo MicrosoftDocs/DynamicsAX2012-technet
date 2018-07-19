@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (CHN) Country-specific localization format for Contact name'
 TOCTitle: (CHN) Country-specific localization format for Contact name
 ms:assetid: 66e5b8e1-5297-43a2-95a0-d93cb3589d22
@@ -53,5 +53,5 @@ For Chinese installations, the Microsoft Dynamics AX 2009 SP1 GLS Consolidation 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About WIP invoice on-account accounts
 TOCTitle: About WIP invoice on-account accounts
 ms:assetid: 79df0853-2ff2-476a-815c-49a7e3ed4aa1
@@ -10,6 +10,8 @@ f1_keywords:
 - invoice
 - on-account
 - WIP
+audience: Application User
+ms.search.region: Global
 ---
 
 # About WIP invoice on-account accounts 
@@ -76,5 +78,5 @@ Before you can create a WIP on-account invoice, you must select ledger accounts 
 [On-account transactions (form)](https://technet.microsoft.com/en-us/library/aa557380\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

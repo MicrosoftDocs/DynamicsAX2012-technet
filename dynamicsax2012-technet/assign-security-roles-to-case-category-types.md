@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign security roles to case category types
 TOCTitle: Assign security roles to case category types
 ms:assetid: ebc75cfc-7010-4175-a6cf-680ae051e9d3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677372(v=AX.60)
 ms:contentKeyID: 49384148
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign security roles to case category types 
@@ -24,5 +26,5 @@ You can create cases for multiple areas in Microsoft Dynamics AX. For example, y
 4.  To remove access to the case category type, in the **Selected roles** list, select the security role to remove, and then click **\<\< Remove**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

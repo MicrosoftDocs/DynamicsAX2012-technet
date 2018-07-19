@@ -1,4 +1,4 @@
-﻿---
+---
 title: View and maintain vendor and product comments
 TOCTitle: View and maintain vendor and product comments
 ms:assetid: b3d4c4ca-87fa-460a-a28b-e4305f18b9b8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242750(v=AX.60)
 ms:contentKeyID: 36059073
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View and maintain vendor and product comments 
@@ -48,5 +50,5 @@ Use this procedure to review comments that employees enter for products and vend
 [Manage comments (form)](https://technet.microsoft.com/en-us/library/hh227385\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

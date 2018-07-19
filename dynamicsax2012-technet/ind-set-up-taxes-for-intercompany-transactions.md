@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up taxes for intercompany transactions
 TOCTitle: (IND) Set up taxes for intercompany transactions
 ms:assetid: 4a99d713-cddc-4590-862c-bb8a473788ed
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664682(v=AX.60)
 ms:contentKeyID: 49385756
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up taxes for intercompany transactions 
@@ -42,5 +44,5 @@ In the **General ledger parameters** form, on the **Direct taxes** tab, **the Ap
 [(IND) Apply service tax to intercompany transactions](ind-apply-service-tax-to-intercompany-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

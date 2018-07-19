@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the rule debugger
 TOCTitle: About the rule debugger
 ms:assetid: 20bac2d3-95a3-4b2b-86af-781431493bbe
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ff395355(v=AX.60)
 ms:contentKeyID: 36676373
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the rule debugger 
@@ -42,5 +44,5 @@ Helpful tips for using the Rule debugger:
 [Enable/disable the rule debugger](enable-disable-the-rule-debugger.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

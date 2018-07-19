@@ -1,4 +1,4 @@
-﻿---
+---
 title: About electronic payments to public sector vendors (Public sector)
 TOCTitle: About electronic payments to public sector vendors (Public sector)
 ms:assetid: b765dd6c-c466-443e-9c1d-713a9e81e3a1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - electronic payments
 - public sector vendor payments
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # About electronic payments to public sector vendors (Public sector) 
@@ -25,5 +27,5 @@ For example, if there’s an existing purchase order for $100 and Bank A is the 
 [Key tasks: Vendor invoices](key-tasks-vendor-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

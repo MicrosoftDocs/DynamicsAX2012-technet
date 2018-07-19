@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the calculation of land tax
 TOCTitle: (RUS) Set up the calculation of land tax
 ms:assetid: 18882685-d837-4a92-9a76-98996f81ee1c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Russia
 - land tax
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the calculation of land tax 
@@ -183,5 +185,5 @@ In the **Sales tax jurisdictions** form, enter the tax jurisdiction references t
 [(EEUR) Ground area categories (form)](https://technet.microsoft.com/en-us/library/jj710742\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

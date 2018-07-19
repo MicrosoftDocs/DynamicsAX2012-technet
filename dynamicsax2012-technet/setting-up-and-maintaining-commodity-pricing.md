@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining commodity pricing
 TOCTitle: Setting up and maintaining commodity pricing
 ms:assetid: d53a03fc-ae96-4527-ab89-47a56e3402ed
@@ -11,6 +11,8 @@ f1_keywords:
 - price
 - commodity pricing
 - process industries
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining commodity pricing 
@@ -37,5 +39,5 @@ The topics in this section provide information about how to set up and maintain 
 [Set up commodity pricing default parameters](set-up-commodity-pricing-default-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

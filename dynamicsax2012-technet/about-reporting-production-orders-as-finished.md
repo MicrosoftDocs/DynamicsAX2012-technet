@@ -1,4 +1,4 @@
-﻿---
+---
 title: About reporting production orders as finished
 TOCTitle: About reporting production orders as finished
 ms:assetid: a29ca5bf-0e5b-4536-ace5-3e2258107b43
@@ -14,6 +14,8 @@ f1_keywords:
 - finished
 - finish
 - report as finished
+audience: Application User
+ms.search.region: Global
 ---
 
 # About reporting production orders as finished 
@@ -34,5 +36,5 @@ You can report that only some of the items in the production order are finished.
 [About the production process](about-the-production-process.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

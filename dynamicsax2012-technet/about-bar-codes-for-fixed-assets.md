@@ -1,4 +1,4 @@
-﻿---
+---
 title: About bar codes for fixed assets
 TOCTitle: About bar codes for fixed assets
 ms:assetid: 729076d0-4e02-4a82-8607-4fb5927f0877
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549986(v=AX.60)
 ms:contentKeyID: 36058123
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About bar codes for fixed assets 
@@ -26,5 +28,5 @@ You can print a **Fixed asset bar codes** report. (Click **Fixed assets** \> **R
 [Assign fixed asset numbers to bar codes](assign-fixed-asset-numbers-to-bar-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

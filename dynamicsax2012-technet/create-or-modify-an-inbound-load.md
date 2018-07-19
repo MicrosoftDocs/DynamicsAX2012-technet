@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify an inbound load
 TOCTitle: Create or modify an inbound load
 ms:assetid: 95d43aca-d158-4ec9-8d86-1f0906ed5a06
@@ -12,6 +12,8 @@ f1_keywords:
 - load planning
 - load planning workbench
 - transportation function
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify an inbound load 
@@ -157,5 +159,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

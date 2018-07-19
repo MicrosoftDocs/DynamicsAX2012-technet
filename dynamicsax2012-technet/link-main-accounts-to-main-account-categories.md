@@ -1,4 +1,4 @@
-﻿---
+---
 title: Link main accounts to main account categories
 TOCTitle: Link main accounts to main account categories
 ms:assetid: 6f061d82-e484-46bc-8818-6b2e593fba6d
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - link main accounts to main account categories
+audience: Application User
+ms.search.region: Global
 ---
 
 # Link main accounts to main account categories 
@@ -46,5 +48,5 @@ After you set up main account categories in the **Main account categories** form
 [Set up main account categories](set-up-main-account-categories.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

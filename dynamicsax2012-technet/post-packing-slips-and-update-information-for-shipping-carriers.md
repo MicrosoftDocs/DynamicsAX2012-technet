@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post packing slips and update information for shipping carriers
 TOCTitle: Post packing slips and update information for shipping carriers
 ms:assetid: b0556c9a-0fa5-4896-8bcb-51cae2804ad5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232390(v=AX.60)
 ms:contentKeyID: 36058961
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post packing slips and update information for shipping carriers 
@@ -109,5 +111,5 @@ Use this procedure to post packing slips for shipments that are picked and packe
 [Carrier transaction information (form)](https://technet.microsoft.com/en-us/library/hh209503\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

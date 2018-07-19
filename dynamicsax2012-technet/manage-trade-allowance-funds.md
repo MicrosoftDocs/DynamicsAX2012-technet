@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage trade allowance funds
 TOCTitle: Manage trade allowance funds
 ms:assetid: f691d673-82aa-4c43-9bf3-1b074e073272
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.TAMListPage
 - Forms.TAMFundUsage
 - Forms.TAMTradePromotionAnalysis
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage trade allowance funds 
@@ -78,5 +80,5 @@ Set up trade allowance funds
 Process trade allowance claims
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

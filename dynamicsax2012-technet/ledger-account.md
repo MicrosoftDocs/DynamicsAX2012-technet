@@ -1,4 +1,4 @@
-﻿---
+---
 title: " ledger account"
 TOCTitle: " ledger account"
 ms:assetid: DynamicsAXGlossary.1370454
@@ -25,5 +25,5 @@ A classifier created from the combination of main account value and other financ
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

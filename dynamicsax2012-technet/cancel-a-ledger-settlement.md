@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cancel a ledger settlement
 TOCTitle: Cancel a ledger settlement
 ms:assetid: 5bcb5a34-a01e-41ba-89ab-d09a4618a629
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - cancel settlement
 - ledger settlement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Cancel a ledger settlement 
@@ -41,5 +43,5 @@ Use the **Ledger settlements** form to cancel a ledger settlement.
 [Settle transactions between ledger accounts](settle-transactions-between-ledger-accounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

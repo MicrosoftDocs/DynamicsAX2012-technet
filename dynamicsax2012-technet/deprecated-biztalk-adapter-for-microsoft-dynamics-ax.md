@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: BizTalk Adapter for Microsoft Dynamics AX'
 TOCTitle: BizTalk Adapter for Microsoft Dynamics AX
 ms:assetid: aed64cdd-2695-4145-8292-9e683abd7df9
@@ -59,5 +59,5 @@ In Microsoft Dynamics AX 2009, the BizTalk adapter enables the Microsoft BizTalk
 [Services and Application Integration Framework (AIF)](services-and-application-integration-framework-aif.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

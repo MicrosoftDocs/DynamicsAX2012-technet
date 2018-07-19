@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the ledger accounts for expense and income codes
 TOCTitle: (RUS) Set up the ledger accounts for expense and income codes
 ms:assetid: dff72dd6-4ce3-48fc-a311-5dbe5396264f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711691(v=AX.60)
 ms:contentKeyID: 49388013
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the ledger accounts for expense and income codes 
@@ -58,5 +60,5 @@ You can set up a ledger account for transaction data to be transferred into a sp
 [(RUS) Synchronize the directory of expense and income codes](https://technet.microsoft.com/en-us/library/jj665243\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

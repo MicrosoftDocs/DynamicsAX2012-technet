@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a formula by using the copy function
 TOCTitle: Create a formula by using the copy function
 ms:assetid: 7289c270-709c-490d-84df-76ebc5e52f90
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352211(v=AX.60)
 ms:contentKeyID: 36687845
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a formula by using the copy function 
@@ -64,5 +66,5 @@ Use this procedure to create a formula that includes the same ingredients as an 
 [Formula line (form)](https://technet.microsoft.com/en-us/library/hh352331\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

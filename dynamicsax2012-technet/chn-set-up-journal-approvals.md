@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Set up journal approvals
 TOCTitle: (CHN) Set up journal approvals
 ms:assetid: 9f3832ee-18ae-4fd6-86cf-ecadf7b56e3e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664090(v=AX.60)
 ms:contentKeyID: 49384674
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Set up journal approvals 
@@ -32,5 +34,5 @@ Journal vouchers must be approved by another user before posting. You cannot app
 [(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664137\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

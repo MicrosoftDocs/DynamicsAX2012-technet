@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Verify posted tax information for approved AA and DFIA authorizations
 TOCTitle: (IND) Verify posted tax information for approved AA and DFIA authorizations
 ms:assetid: bf82fdcf-070a-4504-b7ae-1dde9db814a3
@@ -11,6 +11,8 @@ f1_keywords:
 - tax information
 - (IND)
 - India
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Verify posted tax information for approved AA and DFIA authorizations 
@@ -86,5 +88,5 @@ After an application for an export-import (EXIM) license that is eligible for th
 [(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

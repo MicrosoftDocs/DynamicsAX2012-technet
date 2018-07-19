@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring customer payments
 TOCTitle: Configuring customer payments
 ms:assetid: 70e647a5-28d1-432d-80b6-7c64e6875797
@@ -19,6 +19,8 @@ f1_keywords:
 - card
 - credit
 - cards
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring customer payments 
@@ -53,5 +55,5 @@ The following topics provide information about configuring customer payments.
 [SEPA direct debit overview](sepa-direct-debit-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dispatching service order activities
 TOCTitle: Dispatching service order activities
 ms:assetid: d170f8d7-0c68-470f-80e1-2d8283211daa
@@ -11,6 +11,8 @@ f1_keywords:
 - activities
 - service
 - service order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Dispatching service order activities 
@@ -35,5 +37,5 @@ The topics in this section provide information about how to dispatch activities 
 [Monitor service activities](monitor-service-activities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

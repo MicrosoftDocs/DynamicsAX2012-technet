@@ -1,4 +1,4 @@
-﻿---
+---
 title: " nominal account"
 TOCTitle: " nominal account"
 ms:assetid: DynamicsAXGlossary.1499639
@@ -25,5 +25,5 @@ An account that is closed out each fiscal period and whose balance is transferre
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

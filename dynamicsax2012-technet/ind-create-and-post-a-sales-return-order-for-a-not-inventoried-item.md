@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create and post a sales return order for a not inventoried item
 TOCTitle: (IND) Create and post a sales return order for a not inventoried item
 ms:assetid: c01ca6d3-1445-4aec-9ea5-b8bce85b414e
@@ -12,6 +12,8 @@ f1_keywords:
 - India
 - IND
 - noninventoried
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create and post a sales return order for a not inventoried item 
@@ -50,5 +52,5 @@ Information about indirect taxes must be specified for a purchase order line bef
 11. To view the posted invoice in the **Voucher transactions** form, click **Invoice journal** \> **Voucher**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

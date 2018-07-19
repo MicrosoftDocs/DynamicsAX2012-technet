@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up a posting profile for fixed asset items
 TOCTitle: (HUN) Set up a posting profile for fixed asset items
 ms:assetid: 5b489565-2b2d-41b7-bcbf-fbbce940e289
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664287(v=AX.60)
 ms:contentKeyID: 49385376
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up a posting profile for fixed asset items 
@@ -68,5 +70,5 @@ When you use the configuration specific to Hungary, the inventory cost is calcul
 6.  Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

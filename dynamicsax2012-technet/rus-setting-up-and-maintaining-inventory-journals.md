@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up and maintaining inventory journals
 TOCTitle: (RUS) Setting up and maintaining inventory journals
 ms:assetid: 2ffec897-e7d5-4858-961b-e33540350d7d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - Setting up and maintaining inventory journals
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up and maintaining inventory journals 
@@ -23,5 +25,5 @@ The topic in this section provides information about how to set up and maintain 
 [(RUS) Set up parameters for alcohol declarations and journals](rus-set-up-parameters-for-alcohol-declarations-and-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

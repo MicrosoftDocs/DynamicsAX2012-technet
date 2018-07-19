@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify a project stage
 TOCTitle: Modify a project stage
 ms:assetid: 5e04c140-252e-4c32-bc08-678953a6b3f1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - project stage
 - project stages rules
+audience: Application User
+ms.search.region: Global
 ---
 
 # Modify a project stage 
@@ -49,5 +51,5 @@ Project stages can serve as a guide to the project life cycle. You can define th
 [Rename project stage (form)](https://technet.microsoft.com/en-us/library/hh209091\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

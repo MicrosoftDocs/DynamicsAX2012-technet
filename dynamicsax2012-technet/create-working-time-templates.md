@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create working time templates
 TOCTitle: Create working time templates
 ms:assetid: 343fde14-ef0c-4391-8aeb-2849a8cb60d6
@@ -13,6 +13,8 @@ f1_keywords:
 - hours of operation
 - work
 - working time
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create working time templates 
@@ -49,5 +51,5 @@ When you set up the working time template, you can also indicate an efficiency l
 [Set up properties for operations resources](set-up-properties-for-operations-resources.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

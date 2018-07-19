@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow with a line-item workflow element
 TOCTitle: Workflow with a line-item workflow element
 ms:assetid: d2542818-0fbf-49b0-9ca0-fc34919e6d72
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538461(v=AX.60)
 ms:contentKeyID: 39508890
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Workflow with a line-item workflow element 
@@ -74,5 +76,5 @@ To understand how a document moves through this workflow, assume that Mike has s
 When all the line items have been approved by the appropriate managers, the timesheet is assigned to Dianne, the vice president, for approval. After Dianne approves the timesheet, the workflow ends.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

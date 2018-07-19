@@ -1,4 +1,4 @@
-﻿---
+---
 title: Depreciation methods and conventions
 TOCTitle: Depreciation methods and conventions
 ms:assetid: ea761c4a-a6a3-49e3-988e-bcf5ff126acc
@@ -19,6 +19,8 @@ f1_keywords:
 - mid quarter
 - start of year
 - next year
+audience: Application User
+ms.search.region: Global
 ---
 
 # Depreciation methods and conventions 
@@ -83,5 +85,5 @@ The following topics provide information about depreciation methods and conventi
 [(FRA) Derogatory depreciation](fra-derogatory-depreciation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

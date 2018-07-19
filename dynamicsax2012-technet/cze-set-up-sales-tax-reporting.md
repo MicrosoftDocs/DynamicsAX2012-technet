@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Set up sales tax reporting
 TOCTitle: (CZE) Set up sales tax reporting
 ms:assetid: cc110308-4654-48bb-9c14-b5ff3adf1e0e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856967(v=AX.60)
 ms:contentKeyID: 50411972
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Set up sales tax reporting 
@@ -60,5 +62,5 @@ Before you report sales tax transactions for your organization, you can set up t
 [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

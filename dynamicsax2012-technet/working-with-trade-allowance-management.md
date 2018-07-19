@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Trade allowance management
 TOCTitle: Working with Trade allowance management
 ms:assetid: e9a26beb-260f-4f1f-bf79-93818df2d4be
@@ -8,6 +8,8 @@ ms.date: 09/09/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.TAMActualCost
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Trade allowance management 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to use the trade allowa
 [Setting up Trade allowance management](setting-up-trade-allowance-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

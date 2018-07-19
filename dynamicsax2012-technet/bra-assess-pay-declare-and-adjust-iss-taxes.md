@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Assess, pay, declare, and adjust ISS taxes
 TOCTitle: (BRA) Assess, pay, declare, and adjust ISS taxes
 ms:assetid: 38f5ade8-12d4-463a-8b29-df7b7a0bbeb2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.FBTaxAssessmentISSListPage_BR
 - MsDynAx060.Forms.FBTaxAssessmentISSListPage_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Assess, pay, declare, and adjust ISS taxes 
@@ -55,5 +57,5 @@ To assess, pay, and declare ISS taxes, follow these steps:
 8.  To open the ISS tax assessment for additional adjustments, you can select a closed ISS tax assessment on the **ISS** list page, and then click **Reopen**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

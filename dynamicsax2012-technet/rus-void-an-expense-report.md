@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Void an expense report
 TOCTitle: (RUS) Void an expense report
 ms:assetid: 7e11114b-dc8d-41f0-b72a-51a13e5faf2f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - Void an expense report
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Void an expense report 
@@ -45,5 +47,5 @@ You can void expense reports that have been posted, and for which the status of 
 [(RUS) Advance holder transactions (form)](https://technet.microsoft.com/en-us/library/jj733234\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

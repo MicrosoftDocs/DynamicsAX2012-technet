@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up charges on intercompany orders
 TOCTitle: Set up charges on intercompany orders
 ms:assetid: 3783acf2-10cc-45ba-a698-ca992a405487
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570131(v=AX.60)
 ms:contentKeyID: 36056608
 ms.date: 07/08/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up charges on intercompany orders 
@@ -40,5 +42,5 @@ When you set up charges to be applied to intercompany orders, you enable the cal
 [About synchronization of charges](about-synchronization-of-charges.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign responsibilities
 TOCTitle: Assign responsibilities
 ms:assetid: eae437e1-b7e7-4d69-8ef6-39ed6c3869af
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243248(v=AX.60)
 ms:contentKeyID: 36059865
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign responsibilities 
@@ -32,5 +34,5 @@ You can assign responsibilities to various individuals in your organization, bas
 5.  Close the form to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

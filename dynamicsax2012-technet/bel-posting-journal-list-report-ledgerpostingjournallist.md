@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Posting journal list report (LedgerPostingJournalList)
 TOCTitle: (BEL) Posting journal list report (LedgerPostingJournalList)
 ms:assetid: 6a8c7906-9ea6-4500-8e96-24dc71914289
@@ -120,5 +120,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

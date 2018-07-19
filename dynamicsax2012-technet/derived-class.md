@@ -1,4 +1,4 @@
-﻿---
+---
 title: " derived class"
 TOCTitle: " derived class"
 ms:assetid: DynamicsAXGlossary.1403854
@@ -23,5 +23,5 @@ A class that assumes a child role when it participates in an inheritance relatio
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

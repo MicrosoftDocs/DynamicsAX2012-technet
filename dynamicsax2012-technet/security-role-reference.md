@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security role reference
 TOCTitle: Security role reference
 ms:assetid: b02dc748-c4db-4c1d-b662-0d13ccf15fd3
@@ -232,5 +232,5 @@ The following topics describe the security roles:
 [Waterspider security role (LeanWaterspider)](waterspider-security-role-leanwaterspider.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

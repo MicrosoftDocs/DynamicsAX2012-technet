@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA, MEX) Set up General ledger to reverse and update opposite sign amounts
 TOCTitle: (BRA, MEX) Set up General ledger to reverse and update opposite sign amounts
 ms:assetid: 53b704ea-8fdb-4f90-a51c-6adae5e6f48b
@@ -21,6 +21,8 @@ f1_keywords:
 - opposite signs
 - opposite sign
 - opposite amount
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA, MEX) Set up General ledger to reverse and update opposite sign amounts 
@@ -279,5 +281,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Attach an EPCG incentive scheme to an import order
 TOCTitle: (IND) Attach an EPCG incentive scheme to an import order
 ms:assetid: a533d482-4c3f-4741-a6ba-db7ca61b196d
@@ -12,6 +12,8 @@ f1_keywords:
 - import order
 - EPCG incentive scheme
 - Attach EPCG incentive scheme
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Attach an EPCG incentive scheme to an import order 
@@ -68,5 +70,5 @@ When you create a new purchase order to import products that meet the requiremen
 [(IND) Verify import information for an EPCG license](ind-verify-import-information-for-an-epcg-license.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prepare for service
 TOCTitle: Prepare for service
 ms:assetid: fb36e629-1a66-425f-8008-5304391865bd
@@ -12,6 +12,8 @@ f1_keywords:
 - agreement
 - service management
 - service BOM
+audience: Application User
+ms.search.region: Global
 ---
 
 # Prepare for service 
@@ -24,5 +26,5 @@ The topics in this section provide information about how to prepare for service.
 [Modify a Service BOM](modify-a-service-bom.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

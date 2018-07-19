@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Preprocessing upgrade checklist: Tasks'
 TOCTitle: 'Preprocessing upgrade checklist: Tasks'
 ms:assetid: 77604f75-2c05-47c7-87de-97d57ccd6ff8
@@ -387,5 +387,5 @@ Complete the checklist tasks listed below. Since tasks on the two supported sour
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

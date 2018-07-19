@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project estimates report (ProjEstimateList)
 TOCTitle: Project estimates report (ProjEstimateList)
 ms:assetid: a583c476-3097-4de5-8bff-b8b5030f38ad
@@ -149,5 +149,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

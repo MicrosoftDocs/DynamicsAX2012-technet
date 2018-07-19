@@ -1,4 +1,4 @@
-﻿---
+---
 title: About sites and the multisite functionality
 TOCTitle: About sites and the multisite functionality
 ms:assetid: 8d3787c1-dd47-4e73-99ef-efd3f457963c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309972(v=AX.60)
 ms:contentKeyID: 36058491
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About sites and the multisite functionality 
@@ -50,5 +52,5 @@ A customer must analyze its business requirements and determine how best to use 
 [Configure and manage financial dimension links to sites](configure-and-manage-financial-dimension-links-to-sites.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

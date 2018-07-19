@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Denmark (DNK)"
 TOCTitle: Country-specific features for Denmark
 ms:assetid: 3d80395a-d70a-4a45-abd6-a9b4b76059b7
@@ -38,5 +38,5 @@ In cumulative update 6 for Microsoft Dynamics AX 2012 R2, we changed and added c
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

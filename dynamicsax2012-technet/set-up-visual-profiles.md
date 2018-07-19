@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up visual profiles
 TOCTitle: Set up visual profiles
 ms:assetid: 11d730e4-2525-46ec-bc16-810d11577521
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailVisualProfile
 - MsDynAx060.Forms.RetailVisualProfile
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up visual profiles 
@@ -105,5 +107,5 @@ You can create several visual profiles and assign specific profiles to run on sp
 [POS visual profiles (form)](https://technet.microsoft.com/en-us/library/hh597120\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

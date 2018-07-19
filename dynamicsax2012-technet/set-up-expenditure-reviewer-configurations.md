@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up expenditure reviewer configurations
 TOCTitle: Set up expenditure reviewer configurations
 ms:assetid: 5976be66-ee71-48d9-a2eb-14c37d31cc9e
@@ -10,6 +10,8 @@ f1_keywords:
 - configure reviewers
 - expenditure reviewers
 - purchase requisition expenditure reviewers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up expenditure reviewer configurations 
@@ -68,5 +70,5 @@ For more information about how to configure workflow for expenditure review, see
 [Expenditure reviewers - Purchase requisitions (form)](https://technet.microsoft.com/en-us/library/hh208667\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

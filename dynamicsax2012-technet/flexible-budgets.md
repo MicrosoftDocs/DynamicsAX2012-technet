@@ -1,4 +1,4 @@
-﻿---
+---
 title: Flexible budgets
 TOCTitle: Flexible budgets
 ms:assetid: d18dcc82-d2a0-4e71-8a25-b517ee382441
@@ -10,6 +10,8 @@ f1_keywords:
 - flexible
 - budgets
 - budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # Flexible budgets 
@@ -57,5 +59,5 @@ This section contains topics about how to work with flexible budgets.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

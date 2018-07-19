@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with timesheets
 TOCTitle: Working with timesheets
 ms:assetid: 0d47f272-834e-4313-ad9a-a622fe98099f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271451(v=AX.60)
 ms:contentKeyID: 36384083
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with timesheets 
@@ -32,5 +34,5 @@ This section contains the following topics:
 [Working with electronic timecards](working-with-electronic-timecards.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up shipping charges for retail stores
 TOCTitle: Set up shipping charges for retail stores
 ms:assetid: e5370f22-6e5a-4fbb-a108-e68f5e082285
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720770(v=AX.60)
 ms:contentKeyID: 62231567
 ms.date: 04/29/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up shipping charges for retail stores 
@@ -26,5 +28,5 @@ To set up shipping charges for retail stores, follow these steps:
 4.  Click **Customer orders**, and then in the **Charge codes** group, in the **Shipping charge code** field, select a charges code.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the Data import/export framework (AX 2012 R3)
 TOCTitle: Install the Data import/export framework (AX 2012 R3)
 ms:assetid: ddd9b75d-82df-4ecf-aecd-b5c8d017ea04
@@ -124,5 +124,5 @@ In order to connect to the Data Import/Export Framework from an external service
       - DMFService
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

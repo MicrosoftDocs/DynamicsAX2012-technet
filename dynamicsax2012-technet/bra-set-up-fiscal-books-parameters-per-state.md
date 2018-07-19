@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up fiscal books parameters per state
 TOCTitle: (BRA) Set up fiscal books parameters per state
 ms:assetid: 44485ac4-7ad3-430a-b594-a3d688c55a50
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.FBParametersPerState_BR
 - MsDynAx060.Forms.FBParametersPerState_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up fiscal books parameters per state 
@@ -43,5 +45,5 @@ For information about how to enter ICMS and ICMS tributary substitution (ICMS-ST
 6.  To set up fiscal books parameters for other states, repeat steps 2 through 5.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

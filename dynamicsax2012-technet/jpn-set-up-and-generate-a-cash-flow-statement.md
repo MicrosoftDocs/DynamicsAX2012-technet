@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up and generate a cash flow statement
 TOCTitle: (JPN) Set up and generate a cash flow statement
 ms:assetid: c4aa8754-db8c-4597-b719-1969bbefc314
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - cash flow
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up and generate a cash flow statement 
@@ -74,5 +76,5 @@ After creating a cash flow statement, you can adjust the cash amount, and export
 [(JPN) Financial statement setup (modified form)](https://technet.microsoft.com/en-us/library/jj711076\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

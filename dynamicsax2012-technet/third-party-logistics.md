@@ -1,4 +1,4 @@
-﻿---
+---
 title: " third-party logistics"
 TOCTitle: " third-party logistics"
 ms:assetid: DynamicsAXGlossary.1496369
@@ -23,5 +23,5 @@ A party that provides logistics services to customers.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

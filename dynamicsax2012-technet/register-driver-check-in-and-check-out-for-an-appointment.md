@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register driver check-in and check-out for an appointment
 TOCTitle: Register driver check-in and check-out for an appointment
 ms:assetid: 0a85ef94-19c8-429f-8078-02bff3ef232d
@@ -10,6 +10,8 @@ f1_keywords:
 - driver check-in
 - appointment
 - check-out
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register driver check-in and check-out for an appointment 
@@ -128,5 +130,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

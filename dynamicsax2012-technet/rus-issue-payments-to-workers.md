@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Issue payments to workers
 TOCTitle: (RUS) Issue payments to workers
 ms:assetid: e617e3cf-f503-4529-95d3-5ee9a6cd3d49
@@ -28,6 +28,8 @@ f1_keywords:
 - vacation pay sheet
 - tax pay sheet
 - register deposit
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Issue payments to workers 
@@ -444,5 +446,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

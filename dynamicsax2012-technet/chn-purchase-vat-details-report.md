@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Purchase VAT details (report)
 TOCTitle: (CHN) Purchase VAT details (report)
 ms:assetid: c9af2354-cb83-4739-b0ae-edacd5a0b012
@@ -120,5 +120,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

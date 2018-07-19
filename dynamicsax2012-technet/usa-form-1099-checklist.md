@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Form 1099 checklist
 TOCTitle: (USA) Form 1099 checklist
 ms:assetid: dd0f14e5-8bfa-44d7-9af7-0136e21da74e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551265(v=AX.60)
 ms:contentKeyID: 36059678
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Form 1099 checklist 
@@ -48,5 +50,5 @@ Set up the following information before you print 1099 statements or file them e
 [Public sector 1099S configuration key (Tax1099S)](public-sector-1099s-configuration-key-tax1099s.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

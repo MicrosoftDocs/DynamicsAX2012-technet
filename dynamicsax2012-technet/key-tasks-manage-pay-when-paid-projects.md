@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Manage pay-when-paid projects'
 TOCTitle: 'Key tasks: Manage pay-when-paid projects'
 ms:assetid: 092d5135-8e25-47f2-bee0-e7d17d71bcd7
@@ -16,6 +16,8 @@ f1_keywords:
 - PWP projects
 - payment terms
 - PWP
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Manage pay-when-paid projects 
@@ -114,5 +116,5 @@ Back to top
 [Key tasks: Manage vendor payment retention for projects](key-tasks-manage-vendor-payment-retention-for-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

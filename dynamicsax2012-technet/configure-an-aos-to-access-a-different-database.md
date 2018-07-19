@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure an AOS to access a different database
 TOCTitle: Configure an AOS to access a different database
 ms:assetid: 139fc6d4-9f78-4549-b6cf-8dfa0304aa17
@@ -38,5 +38,5 @@ Before you can connect an AOS instance to a different database, you must configu
 [Manage AOS performance and availability](manage-aos-performance-and-availability.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

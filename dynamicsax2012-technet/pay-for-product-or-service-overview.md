@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pay for product or service overview
 TOCTitle: Pay for product or service overview
 ms:assetid: 9540c3c4-a9cd-4d3e-89c6-88d26af74be5
@@ -11,6 +11,8 @@ f1_keywords:
 - services
 - products
 - product
+audience: Application User
+ms.search.region: Global
 ---
 
 # Pay for product or service overview 
@@ -363,5 +365,5 @@ The following table lists the forms that support the pay for product or service 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

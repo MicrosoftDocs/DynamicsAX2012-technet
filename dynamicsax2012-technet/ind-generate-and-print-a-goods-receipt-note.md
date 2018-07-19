@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Generate and print a goods receipt note
 TOCTitle: (IND) Generate and print a goods receipt note
 ms:assetid: 5483cfd6-75f4-46e8-bda1-225c1475a5c0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677816(v=AX.60)
 ms:contentKeyID: 49385780
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Generate and print a goods receipt note 
@@ -32,5 +34,5 @@ You can generate and print a goods receipt note for a purchase order transaction
 [(IND) Purchase posting (modified form)](https://technet.microsoft.com/en-us/library/jj664475\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Filter records
 TOCTitle: Filter records
 ms:assetid: c94550e8-414f-4fdb-bcb7-114ee67aaf3e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550877(v=AX.60)
 ms:contentKeyID: 37822159
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Filter records 
@@ -116,5 +118,5 @@ To apply a filter that you previously saved, click **File** \> **Edit** \> **App
 [Sort records](sort-records.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

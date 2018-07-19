@@ -1,4 +1,4 @@
-﻿---
+---
 title: About automatic adjustment transactions
 TOCTitle: About automatic adjustment transactions
 ms:assetid: 6442910b-8caf-4698-a3fa-2a2bc77f4045
@@ -10,6 +10,8 @@ f1_keywords:
 - adjustment
 - adjust transaction
 - adjustment transaction
+audience: Application User
+ms.search.region: Global
 ---
 
 # About automatic adjustment transactions 
@@ -98,5 +100,5 @@ If the system is not configured to always create new adjustment lines automatica
 [View transaction adjustment history](view-transaction-adjustment-history.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

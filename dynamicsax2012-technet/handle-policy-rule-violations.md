@@ -1,4 +1,4 @@
-﻿---
+---
 title: Handle policy rule violations
 TOCTitle: Handle policy rule violations
 ms:assetid: bc94cb39-d0a3-40cd-8ef2-fbd2da450082
@@ -11,6 +11,8 @@ f1_keywords:
 - policy rule
 - policy rule violation
 - policy violation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Handle policy rule violations 
@@ -65,5 +67,5 @@ If the settings require that invoices be approved before they are posted, follow
 [Policy violations (form)](https://technet.microsoft.com/en-us/library/hh209223\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

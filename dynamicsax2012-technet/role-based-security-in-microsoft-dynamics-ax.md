@@ -1,4 +1,4 @@
-﻿---
+---
 title: Role-based security in Microsoft Dynamics AX
 TOCTitle: Role-based security in Microsoft Dynamics AX
 ms:assetid: 498dde2e-9881-4281-a3f1-ac3753f5794a
@@ -114,5 +114,5 @@ Only developers can create or modify permissions. For more information about how
 [Set up segregation of duties](set-up-segregation-of-duties.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

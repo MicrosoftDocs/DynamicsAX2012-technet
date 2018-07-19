@@ -1,4 +1,4 @@
-﻿---
+---
 title: Windows Event Tracing in Microsoft Dynamics AX (White paper)
 TOCTitle: Windows Event Tracing in Microsoft Dynamics AX
 ms:assetid: 5f7a103f-3ebc-4709-832e-0cd61de9431d
@@ -18,5 +18,5 @@ This paper describes how to use the infrastructure for the Microsoft Windows ev
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=228594).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

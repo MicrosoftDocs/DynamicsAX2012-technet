@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View sales tax payment details for each settlement period
 TOCTitle: (IND) View sales tax payment details for each settlement period
 ms:assetid: 7f1c7a81-10f0-4690-8a85-33edd90d4d92
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677979(v=AX.60)
 ms:contentKeyID: 49385942
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View sales tax payment details for each settlement period 
@@ -44,5 +46,5 @@ The following procedure shows how to view the details of the sales tax payments 
 [(IND) Tax adjustment (form)](https://technet.microsoft.com/en-us/library/jj664843\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

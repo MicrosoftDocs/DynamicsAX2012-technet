@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Manage vendor payment retention for projects'
 TOCTitle: 'Key tasks: Manage vendor payment retention for projects'
 ms:assetid: b84c57d9-256b-4a54-b223-c6afcdb10970
@@ -14,6 +14,8 @@ f1_keywords:
 - retention terms
 - partial payment
 - retention details
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Manage vendor payment retention for projects 
@@ -136,5 +138,5 @@ Back to top
 [Key tasks: Vendor invoices](key-tasks-vendor-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

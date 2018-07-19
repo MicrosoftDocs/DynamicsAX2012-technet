@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delegate work items (Enterprise Portal)
 TOCTitle: Delegate work items
 ms:assetid: 3be5dcac-3e90-40bf-bbd6-e35afc898c30
@@ -10,6 +10,8 @@ f1_keywords:
 - WorkflowDelegationListPage
 - WorkflowWorkItemDelegationCreate
 - WorkflowWorkItemDelegationEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delegate work items (Enterprise Portal) 
@@ -82,5 +84,5 @@ If your organization uses Role Centers, you can use the **Work list** Web part t
 [View your work items (Enterprise Portal)](view-your-work-items-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

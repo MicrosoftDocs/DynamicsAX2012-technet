@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up General ledger year-end processes (Public sector)
 TOCTitle: Set up General ledger year-end processes (Public sector)
 ms:assetid: 3ddecfa3-ea60-4bbe-a323-95ac0954d92a
@@ -22,6 +22,8 @@ f1_keywords:
 - year-end close
 - year end close
 - year-end closing
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Set up General ledger year-end processes (Public sector) 
@@ -82,5 +84,5 @@ To set up year-end processes, complete the following tasks:
 [Preview year-end General ledger transactions (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208564\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

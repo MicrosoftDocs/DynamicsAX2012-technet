@@ -1,4 +1,4 @@
-﻿---
+---
 title: About date/time data and time zones
 TOCTitle: About date/time data and time zones
 ms:assetid: 117fdb0b-03aa-4a97-ba84-953451830d38
@@ -10,6 +10,8 @@ f1_keywords:
 - UTC
 - time zones
 - date/time data
+audience: Application User
+ms.search.region: Global
 ---
 
 # About date/time data and time zones 
@@ -34,5 +36,5 @@ Your preferred time zone is first set according to the Windows locale of your co
 For more information, see [Set a preferred time zone](set-a-preferred-time-zone.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

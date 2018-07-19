@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a work template
 TOCTitle: Create a work template
 ms:assetid: 99de92ca-0cdd-41f2-9b2a-9247525680e1
@@ -17,6 +17,8 @@ f1_keywords:
 - warehouse work
 - work instructions
 - msDynAx060.Forms.WHSWorkTemplateTable
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a work template 
@@ -145,7 +147,7 @@ To create a work template, follow these steps:
     <tr class="odd">
     <td><p><strong>Maximum estimated pick time</strong></p></td>
     <td><p>Enter the maximum estimated pick time. The work header will be split when the total estimated time for the initial work pick line has reached the specified value.</p>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>Labor standard lines with a Labor standards measurement type set to Work unit will not be accounted for when calculating the pick time.</P>
@@ -190,7 +192,7 @@ To create a work template, follow these steps:
     <tr class="odd">
     <td><p><strong>Work type</strong></p></td>
     <td><p>Select the work type to indicate whether the work is a pick action or a put action.</p>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>The <STRONG>Valid</STRONG> check box on the <STRONG>Overview</STRONG> tab is selected if there is an even number of pick-put pairs for the selected work template.</P>
@@ -260,5 +262,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

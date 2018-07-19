@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Calculate tax interest and free-hand interest
 TOCTitle: (POL) Calculate tax interest and free-hand interest
 ms:assetid: c5e049e4-7af9-43d0-8cfb-af554b2be156
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711271(v=AX.60)
 ms:contentKeyID: 49387089
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Calculate tax interest and free-hand interest 
@@ -70,5 +72,5 @@ In Poland, the tax interest rates are determined by the Ministry of Finance. The
 [(POL) Interest calculation (modified form)](https://technet.microsoft.com/en-us/library/jj678208\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deposit bank funds overview
 TOCTitle: Deposit bank funds overview
 ms:assetid: d95a3a43-bd9f-4132-a401-06824ee598de
@@ -12,6 +12,8 @@ f1_keywords:
 - bank deposits
 - deposit funds
 - deposits
+audience: Application User
+ms.search.region: Global
 ---
 
 # Deposit bank funds overview 
@@ -63,5 +65,5 @@ The following table lists the forms that support the deposit bank funds business
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

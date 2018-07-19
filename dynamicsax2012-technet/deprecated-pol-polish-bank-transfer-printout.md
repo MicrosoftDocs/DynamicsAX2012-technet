@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (POL) Polish bank transfer printout'
 TOCTitle: (POL) Polish bank transfer printout
 ms:assetid: 77a20b10-aa9c-4393-8697-6385dc7fcb87
@@ -55,5 +55,5 @@ For Polish installations, Microsoft Dynamics AX 2009 provides country-specific m
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

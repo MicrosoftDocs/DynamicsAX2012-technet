@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with electronic timecards
 TOCTitle: Working with electronic timecards
 ms:assetid: f81d7e83-8a0d-48de-9033-1625b0975a62
@@ -10,6 +10,8 @@ f1_keywords:
 - JmgEPJobRegistration
 - TSTimesheetCreateTimecard
 - TSTimesheetListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with electronic timecards 
@@ -101,5 +103,5 @@ You can modify and delete lines on the electronic timecard regardless of whether
 [About electronic timecards](about-electronic-timecards.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

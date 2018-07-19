@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report production orders as finished
 TOCTitle: Report production orders as finished
 ms:assetid: 48b853f5-d719-40be-96fe-0495bf7a470c
@@ -14,6 +14,8 @@ f1_keywords:
 - orders
 - finished
 - report as finished
+audience: Application User
+ms.search.region: Global
 ---
 
 # Report production orders as finished 
@@ -50,5 +52,5 @@ You can configure the **Report as finished** form, so that the referenced pickin
 [Production - Report as finished (class form)](https://technet.microsoft.com/en-us/library/aa600184\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

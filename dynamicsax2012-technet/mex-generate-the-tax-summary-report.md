@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Generate the tax summary report
 TOCTitle: (MEX) Generate the tax summary report
 ms:assetid: eb768a5b-bd17-4e66-abd8-045d79de3056
@@ -10,6 +10,8 @@ f1_keywords:
 - Mexico
 - report
 - tax summary
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Generate the tax summary report 
@@ -38,5 +40,5 @@ You can generate a monthly summary of realized and unrealized VAT, purchases, an
 [(MEX) Generate the sales tax report](mex-generate-the-sales-tax-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) View and resolve exceptions for Commerce Services
 TOCTitle: (USA) View and resolve exceptions for Commerce Services
 ms:assetid: fe471199-3571-491b-996d-3ae6af28db67
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227587(v=AX.60)
 ms:contentKeyID: 36060115
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) View and resolve exceptions for Commerce Services 
@@ -73,5 +75,5 @@ You can view and resolve exceptions in Microsoft Dynamics AX that occur when you
 [(USA) Use logging to troubleshoot Commerce Services](usa-use-logging-to-troubleshoot-commerce-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

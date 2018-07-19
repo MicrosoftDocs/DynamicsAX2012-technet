@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up number sequences for NVFAs, working clothes, and special rigging accounting
 TOCTitle: (RUS) Set up number sequences for NVFAs, working clothes, and special rigging accounting
 ms:assetid: 85305495-1530-4c71-898f-0c8537b32bfb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853201(v=AX.60)
 ms:contentKeyID: 50396482
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up number sequences for NVFAs, working clothes, and special rigging accounting 
@@ -28,5 +30,5 @@ Use the **Fixed asset parameters** form to set up number sequences for working c
 [(RUS) Set up fixed asset parameters for NVFAs](rus-set-up-fixed-asset-parameters-for-nvfas.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

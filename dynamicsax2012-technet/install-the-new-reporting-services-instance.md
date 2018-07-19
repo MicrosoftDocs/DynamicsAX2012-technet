@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the new Reporting Services instance
 TOCTitle: Install the new Reporting Services instance
 ms:assetid: 4dcad543-cd17-4d98-81ac-13506d5404f0
@@ -48,5 +48,5 @@ When you install multiple report server instances on the same computer, each add
 For more information about how to run the SQL Server Setup Wizard, see the SQL Server documentation on [TechNet](http://technet.microsoft.com/en-us/library/bb545450\(v=msdn.10+\).aspx) or [MSDN](http://msdn.microsoft.com/en-us/library/bb545450\(v=msdn.10+\).aspx) for the version that you are using.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

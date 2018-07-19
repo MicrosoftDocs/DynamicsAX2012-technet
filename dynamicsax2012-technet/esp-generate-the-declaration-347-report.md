@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Generate the Declaration 347 report
 TOCTitle: (ESP) Generate the Declaration 347 report
 ms:assetid: bf19f1c3-4523-4c8f-8061-2d7d0febe4c4
@@ -10,6 +10,8 @@ f1_keywords:
 - Spain
 - Spanish
 - report
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Generate the Declaration 347 report 
@@ -42,5 +44,5 @@ You can use the **Declaration 347** form to submit the Declaration 347 report to
 [(ESP) Declaration 347 (form)](https://technet.microsoft.com/en-us/library/aa552566\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

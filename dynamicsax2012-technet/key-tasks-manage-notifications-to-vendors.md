@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Manage notifications to vendors'
 TOCTitle: 'Key tasks: Manage notifications to vendors'
 ms:assetid: aa34282a-d7b7-4067-a795-c13c4aacda77
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242691(v=AX.60)
 ms:contentKeyID: 36058901
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Manage notifications to vendors 
@@ -122,5 +124,5 @@ Back to top
 [Communicate with your vendors overview](communicate-with-your-vendors-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

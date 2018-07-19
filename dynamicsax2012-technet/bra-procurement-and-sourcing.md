@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Procurement and sourcing
 TOCTitle: (BRA) Procurement and sourcing
 ms:assetid: e4f5f63b-6633-4b18-b29b-26c166e30d27
@@ -11,6 +11,8 @@ f1_keywords:
 - BRA
 - sourcing
 - brazil
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Procurement and sourcing 
@@ -27,5 +29,5 @@ The topics in this section provide information about Procurement and sourcing.
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

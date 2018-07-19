@@ -1,4 +1,4 @@
-﻿---
+---
 title: About reporting BOMs as finished
 TOCTitle: About reporting BOMs as finished
 ms:assetid: f8ad86de-d242-4f6e-a153-ead903e9eee8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499820(v=AX.60)
 ms:contentKeyID: 39519382
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About reporting BOMs as finished 
@@ -22,5 +24,5 @@ You can continue to work in the journal before it is posted. At a minimum, you m
 [Setting up and maintaining bills of materials](setting-up-and-maintaining-bills-of-materials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

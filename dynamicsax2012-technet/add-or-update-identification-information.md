@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add or update identification information
 TOCTitle: Add or update identification information
 ms:assetid: 71bd6f16-e2b1-4011-88c8-a4f931124a12
@@ -10,6 +10,8 @@ f1_keywords:
 - HcmEPPersonIdentificationNumberCreate
 - HcmEPPersonIdentificationNumberEdit
 - HcmEPPersonIdentificationNumberList
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add or update identification information 
@@ -86,5 +88,5 @@ Click **Personal information** on the top link bar, and then click **Identificat
 [Add and maintain your personal contacts](add-and-maintain-your-personal-contacts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

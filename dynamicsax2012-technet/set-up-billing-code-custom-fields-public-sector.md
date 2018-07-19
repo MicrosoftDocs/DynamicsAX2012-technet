@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up billing code custom fields (Public sector)
 TOCTitle: Set up billing code custom fields (Public sector)
 ms:assetid: 1644b031-3278-4b05-89e1-4becb5119ad4
@@ -13,6 +13,8 @@ f1_keywords:
 - custom billing code fields
 - custom invoice lines
 - public sector custom fields
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Set up billing code custom fields (Public sector) 
@@ -89,5 +91,5 @@ After you have created a billing code custom field, you must assign it to a bill
 [Set up billing codes (Public sector)](set-up-billing-codes-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

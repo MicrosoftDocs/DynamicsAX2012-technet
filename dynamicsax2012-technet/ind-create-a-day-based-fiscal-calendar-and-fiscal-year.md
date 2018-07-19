@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create a day-based fiscal calendar and fiscal year
 TOCTitle: (IND) Create a day-based fiscal calendar and fiscal year
 ms:assetid: 79f75b05-fe04-4cb9-9e85-029d6fd158c0
@@ -14,6 +14,8 @@ f1_keywords:
 - fiscal
 - fiscal calendars
 - fiscal years
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create a day-based fiscal calendar and fiscal year 
@@ -56,5 +58,5 @@ You should use a day-based fiscal calendar if you calculate fixed asset deprecia
 8.  In the **Fiscal calendars** form, in the **Days** field, enter the number of days for each period. This is also the number of days for which fixed asset depreciation will be calculated.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

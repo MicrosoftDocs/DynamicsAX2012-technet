@@ -1,4 +1,4 @@
-﻿---
+---
 title: Second workers to another group
 TOCTitle: Second workers to another group
 ms:assetid: 00afd3a2-f051-446c-bff3-4745a07e419a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569682(v=AX.60)
 ms:contentKeyID: 36055919
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Second workers to another group 
@@ -44,5 +46,5 @@ You can temporarily assign workers to other calculation or approval groups than 
 [Temporary group assignment](temporary-group-assignment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

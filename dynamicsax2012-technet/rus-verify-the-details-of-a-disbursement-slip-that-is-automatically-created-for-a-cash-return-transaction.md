@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Verify the details of a disbursement slip that is automatically created for a cash return transaction
 TOCTitle: (RUS) Verify the details of a disbursement slip that is automatically created for a cash return transaction
 ms:assetid: 6a0dd9cd-51cc-4013-ac05-1ead85102723
@@ -11,6 +11,8 @@ f1_keywords:
 - Forms.LedgerJournalTransRCash
 - Forms.RCashTrans
 - Forms.RetailStatementJour
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Verify the details of a disbursement slip that is automatically created for a cash return transaction 
@@ -45,5 +47,5 @@ Use the following procedure to verify the details of a disbursement slip that is
 [(RUS) Set up Microsoft Dynamics AX to process returns during a different shift](rus-set-up-microsoft-dynamics-ax-to-process-returns-during-a-different-shift.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

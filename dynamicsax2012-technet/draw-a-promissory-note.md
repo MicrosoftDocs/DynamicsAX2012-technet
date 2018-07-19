@@ -1,4 +1,4 @@
-﻿---
+---
 title: Draw a promissory note
 TOCTitle: Draw a promissory note
 ms:assetid: 5da88792-b3a2-4268-b125-f0bae015d5ed
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - promissory notes
 - promissory note
+audience: Application User
+ms.search.region: Global
 ---
 
 # Draw a promissory note 
@@ -129,5 +131,5 @@ You can draw and then print a promissory note document to send to a vendor. You 
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

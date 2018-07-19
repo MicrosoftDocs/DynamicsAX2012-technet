@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Dynamics AX form list
 TOCTitle: Microsoft Dynamics AX form list
 ms:assetid: ba262817-edf2-493c-9cd4-7160a4beb22f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - forms
 - form
+audience: Application User
+ms.search.region: Global
 ---
 
 # Microsoft Dynamics AX form list 
@@ -8441,5 +8443,5 @@ This topic provides a list of the Help topics for the forms in Microsoft Dynamic
 [(NLD) ZIP/Postal code import log (form)](https://technet.microsoft.com/en-us/library/hh208622\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

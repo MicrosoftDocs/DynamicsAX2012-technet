@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Settle an advance payment from a customer with a facture
 TOCTitle: (RUS) Settle an advance payment from a customer with a facture
 ms:assetid: 6a2d9512-35b8-4ec7-a93f-23c1fd83b199
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678335(v=AX.60)
 ms:contentKeyID: 49387565
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Settle an advance payment from a customer with a facture 
@@ -39,5 +41,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(RUS) Purchase book (Incoming VAT processing) (form)](https://technet.microsoft.com/en-us/library/jj911228\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

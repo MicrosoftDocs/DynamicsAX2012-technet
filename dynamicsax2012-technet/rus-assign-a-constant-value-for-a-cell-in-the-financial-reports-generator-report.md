@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Assign a constant value for a cell in the Financial reports generator report
 TOCTitle: (RUS) Assign a constant value for a cell in the Financial reports generator report
 ms:assetid: da3412eb-82f8-4739-b2cc-3cb5540a9f4e
@@ -10,6 +10,8 @@ f1_keywords:
 - constant
 - financial reports generator
 - text value
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Assign a constant value for a cell in the Financial reports generator report 
@@ -108,5 +110,5 @@ Use the following procedure to assign a constant value for a cell.
 [(EEUR) Report (form)](https://technet.microsoft.com/en-us/library/jj911237\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

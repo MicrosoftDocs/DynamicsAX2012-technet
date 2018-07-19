@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project invoice journals report (ProjInvoiceJournal)
 TOCTitle: Project invoice journals report (ProjInvoiceJournal)
 ms:assetid: fa44bed7-0484-42e4-8836-3e4e2fbb74e3
@@ -138,5 +138,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Specify cash round-off amounts for cash order lines
 TOCTitle: (HUN) Specify cash round-off amounts for cash order lines
 ms:assetid: 4f64bf08-7dd6-42ae-86c5-cf1c72bb268c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664280(v=AX.60)
 ms:contentKeyID: 49385369
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Specify cash round-off amounts for cash order lines 
@@ -26,5 +28,5 @@ When you create a cash order by using a slip journal, you can specify a cash rou
 5.  Enter the remaining details, and then post the cash order. For more information, see [(EEUR) Create a cash order by using a slip journal](eeur-create-a-cash-order-by-using-a-slip-journal.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About budget control
 TOCTitle: About budget control
 ms:assetid: c8ce99a3-e2ed-4fc5-a822-dfa861309ad8
@@ -10,6 +10,8 @@ f1_keywords:
 - budget control
 - about budget control
 - budget checking
+audience: Application User
+ms.search.region: Global
 ---
 
 # About budget control 
@@ -66,5 +68,5 @@ Main account 606300, Office supplies, is in an account structure and is a financ
 A purchasing agent creates a purchase order and enters an amount of 5,000.00 for ledger account 606300-OU\_1-OU\_4571-Conference/Seminar. A budget check is performed automatically and the result of the budget check is visible on the purchase order line. If the budget check is successful, showing that there are sufficient funds, the agent can confirm the purchase order.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

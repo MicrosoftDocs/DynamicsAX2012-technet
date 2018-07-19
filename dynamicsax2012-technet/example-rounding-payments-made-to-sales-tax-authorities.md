@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Example: Rounding payments made to sales tax authorities'
 TOCTitle: 'Example: Rounding payments made to sales tax authorities'
 ms:assetid: 27f356de-3786-40b0-b866-05aaacf69dfa
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - rounding sales tax payments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Example: Rounding payments made to sales tax authorities 
@@ -101,5 +103,5 @@ The following table shows how an amount of 98,765.43 is rounded by using each ro
 [Set up sales tax authorities](set-up-sales-tax-authorities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

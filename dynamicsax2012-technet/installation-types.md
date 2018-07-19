@@ -1,4 +1,4 @@
-﻿---
+---
 title: Installation types
 TOCTitle: Installation types
 ms:assetid: 92f26050-7766-4852-a288-2c4084c058f0
@@ -64,5 +64,5 @@ A single-computer installation includes the following components:
 For information about how to install a Microsoft Dynamics AX system on a single computer, see [Perform a single-computer installation](perform-a-single-computer-installation.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining lot inheritance
 TOCTitle: Setting up and maintaining lot inheritance
 ms:assetid: 5e86a117-ca50-4776-9374-06570570b671
@@ -13,6 +13,8 @@ f1_keywords:
 - lot
 - batches
 - lot inheritance
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining lot inheritance 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to set up and maintain 
 [Set up an item as a shelf life item](set-up-an-item-as-a-shelf-life-item.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

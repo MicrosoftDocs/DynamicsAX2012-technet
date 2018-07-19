@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change a customer, prospect, or contacts name
 TOCTitle: Change a customer, prospect, or contacts name
 ms:assetid: 07caca59-7158-40a4-8dc8-41e575647eb5
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - DirNameChange
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change a customer, prospect, or contacts name 
@@ -26,5 +28,5 @@ You can change the name of a customer, prospect, or contact record.
 4.  Enter the new name for the record, and then click **Save and close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

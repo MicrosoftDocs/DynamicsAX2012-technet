@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Management Reporter for Microsoft Dynamics"
 TOCTitle: Management Reporter for Microsoft Dynamics
 ms:assetid: 04c4c06b-1562-4b01-b60b-6ca1ff62e0bb
@@ -24,5 +24,5 @@ Read the documentation:
   - [Microsoft Dynamics ® Management Reporter 2012 for Microsoft Dynamics ERP® Installation and Configuration Guide](http://download.microsoft.com/download/7/8/a/78a3710a-9d72-4908-b302-cd54b5130096/mrfordynerpinstguide_enus.pdf)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

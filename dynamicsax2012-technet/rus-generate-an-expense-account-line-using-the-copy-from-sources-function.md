@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate an expense account line using the Copy from sources function
 TOCTitle: (RUS) Generate an expense account line using the Copy from sources function
 ms:assetid: 51f9963d-250e-4e4d-8d81-ed08deef6783
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665381(v=AX.60)
 ms:contentKeyID: 49387469
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate an expense account line using the Copy from sources function 
@@ -58,5 +60,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(RUS) Create lines - Advance report (form)](https://technet.microsoft.com/en-us/library/jj733226\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

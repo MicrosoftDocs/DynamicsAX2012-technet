@@ -1,4 +1,4 @@
-﻿---
+---
 title: About travel requisitions
 TOCTitle: About travel requisitions
 ms:assetid: 1e4f1eba-47b1-46a4-a70b-feb05205bd7e
@@ -10,6 +10,8 @@ f1_keywords:
 - expenses
 - expense
 - travel
+audience: Application User
+ms.search.region: Global
 ---
 
 # About travel requisitions 
@@ -32,5 +34,5 @@ You can set up policies for travel requisitions from the **Travel requisition** 
 [Create policies](create-policies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

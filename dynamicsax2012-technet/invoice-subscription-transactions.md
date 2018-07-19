@@ -1,4 +1,4 @@
-﻿---
+---
 title: Invoice subscription transactions
 TOCTitle: Invoice subscription transactions
 ms:assetid: df957dc3-e38f-42a3-82f5-a427b0036e6d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551288(v=AX.60)
 ms:contentKeyID: 36059700
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Invoice subscription transactions 
@@ -28,5 +30,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 7.  Verify the contents of the invoice, click **Post invoice** to open the **Post invoice** form to post the invoice. You can also print the invoice from the **Post invoice** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

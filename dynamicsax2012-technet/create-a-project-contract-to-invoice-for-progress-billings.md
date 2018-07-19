@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a project contract to invoice for progress billings
 TOCTitle: Create a project contract to invoice for progress billings
 ms:assetid: ba3bc52c-c93b-432f-b871-73d10df89674
@@ -14,6 +14,8 @@ f1_keywords:
 - progress billing
 - percentage of work complete
 - percentage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a project contract to invoice for progress billings 
@@ -151,5 +153,5 @@ After you have created the contract and the associated project, use this procedu
 [Create and submit an original project budget](create-and-submit-an-original-project-budget.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

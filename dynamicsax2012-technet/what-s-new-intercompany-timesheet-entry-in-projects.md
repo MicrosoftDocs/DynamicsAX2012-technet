@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Intercompany timesheet entry in projects"
 TOCTitle: Intercompany timesheet entry in projects
 ms:assetid: 2bf512d7-cf04-4784-a46d-61be57f059d8
@@ -223,5 +223,5 @@ Intercompany timesheet functionality is new in AX 2012 and has changes to the fo
 For more information about intercompany timesheets, see [About intercompany timesheets](about-intercompany-timesheets.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

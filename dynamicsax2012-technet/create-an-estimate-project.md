@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an estimate project
 TOCTitle: Create an estimate project
 ms:assetid: 97f9011a-0e30-4f74-a13e-a880dd2201e7
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - estimate project
 - WIP structure
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an estimate project 
@@ -63,5 +65,5 @@ Use the **Estimate projects** form to identify which projects should be defined 
 [Attach a project to an estimate](attach-a-project-to-an-estimate.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

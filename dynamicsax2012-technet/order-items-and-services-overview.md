@@ -1,4 +1,4 @@
-﻿---
+---
 title: Order items and services overview
 TOCTitle: Order items and services overview
 ms:assetid: ba893393-b325-41f8-bf55-2a86e2c2c5b4
@@ -16,6 +16,8 @@ f1_keywords:
 - order item
 - order service
 - order services
+audience: Application User
+ms.search.region: Global
 ---
 
 # Order items and services overview 
@@ -178,5 +180,5 @@ The following table lists the forms that support the order items and services bu
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

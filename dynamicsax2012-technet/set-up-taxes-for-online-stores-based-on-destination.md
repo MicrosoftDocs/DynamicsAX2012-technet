@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up taxes for online stores based on destination
 TOCTitle: Set up taxes for online stores based on destination
 ms:assetid: 4aa0743c-6446-42e8-b4e9-8aa6c49de9f1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728685(v=AX.60)
 ms:contentKeyID: 49556590
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up taxes for online stores based on destination 
@@ -42,5 +44,5 @@ This setup can be especially useful if you do not use an independent tax service
 [About setting up taxes](about-setting-up-taxes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

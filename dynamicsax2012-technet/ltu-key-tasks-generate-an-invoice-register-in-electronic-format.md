@@ -1,4 +1,4 @@
-﻿---
+---
 title: '(LTU) Key tasks: Generate an invoice register in electronic format'
 TOCTitle: '(LTU) Key tasks: Generate an invoice register in electronic format'
 ms:assetid: fae9988f-a417-4744-baf9-ba7cb2b45bd7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn528956(v=AX.60)
 ms:contentKeyID: 59641345
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Key tasks: Generate an invoice register in electronic format 
@@ -84,5 +86,5 @@ Back to top
 [(LTU) Export invoice register (FR0672) (form)](https://technet.microsoft.com/en-us/library/jj665044\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

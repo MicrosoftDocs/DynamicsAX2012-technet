@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CAN) Create and validate bank account information
 TOCTitle: (CAN) Create and validate bank account information
 ms:assetid: 8964262f-1a1f-4710-987c-f1e0093fb023
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Canada
 - validate bank account
+audience: Application User
+ms.search.region: Canada
 ---
 
 # (CAN) Create and validate bank account information 
@@ -73,5 +75,5 @@ Use the **Bank accounts** form, the **Vendor bank accounts** form, and the **Cus
 [Customer bank accounts (form)](https://technet.microsoft.com/en-us/library/aa575695\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

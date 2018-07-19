@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new for application users
 TOCTitle: What's new for application users
 ms:assetid: d44a42eb-3ce0-48dc-9ed3-be670d1cda2d
@@ -160,18 +160,8 @@ Use the following links to go to topics on TechNet that are important for applic
 
   - [Additional country/region-specific information](additional-country-region-specific-information.md)
 
-
-> [!TIP]
-> <P>Use the <A href="http://go.microsoft.com/fwlink/?linkid=194311%26orgi=whatsnew6">Microsoft Dynamics AX WebSearch tool</A> to search for Microsoft Dynamics AX content. To search for content that is specific to application users, select the <STRONG>Application user</STRONG> check box.</P>
-
-
-
 ## See also
 
 [TechNet Library for System Administrators](http://go.microsoft.com/fwlink/?linkid=214390)
 
 [AX Developer Center on MSDN](http://go.microsoft.com/fwlink/?linkid=110356)
-
-  
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
-

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the standard expenses in current period register
 TOCTitle: (RUS) Calculate the standard expenses in current period register
 ms:assetid: 9fa1bd31-16f3-4c96-a74a-75c803f3616b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678538(v=AX.60)
 ms:contentKeyID: 49387767
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the standard expenses in current period register 
@@ -48,5 +50,5 @@ You must set up the **Standard expenses in current period** register in the **Ta
 [(RUS) Recalculate registers](rus-recalculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

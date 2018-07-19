@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sales tax by customer report (SalesTaxByCustomer)
 TOCTitle: Sales tax by customer report (SalesTaxByCustomer)
 ms:assetid: 75bb235a-48d6-4684-a3e0-9055fc11df9c
@@ -114,5 +114,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

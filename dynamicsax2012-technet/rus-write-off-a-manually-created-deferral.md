@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Write off a manually created deferral
 TOCTitle: (RUS) Write off a manually created deferral
 ms:assetid: 6181a5e5-49a7-44fe-a6d2-c128a6d4caad
@@ -10,6 +10,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - deferral
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Write off a manually created deferral 
@@ -44,5 +46,5 @@ Use the **Journal voucher** form to write off a deferral that is created manuall
 [(RUS) Deferrals sum for writing off calculation (form)](https://technet.microsoft.com/en-us/library/jj678537\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

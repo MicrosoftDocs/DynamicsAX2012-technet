@@ -1,4 +1,4 @@
-﻿---
+---
 title: Database components
 TOCTitle: Database components
 ms:assetid: 7721376c-08b6-443d-9e27-b575f5f461bf
@@ -66,5 +66,5 @@ For a list of all the tables that can be accessed from the data dictionary, see 
 [Configure SQL Server and storage settings](configure-sql-server-and-storage-settings.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

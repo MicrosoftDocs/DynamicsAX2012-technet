@@ -1,4 +1,4 @@
-﻿---
+---
 title: '(FRA) Key tasks: Mandats de paiement and bordereaux de mandat (Public sector)'
 TOCTitle: '(FRA) Key tasks: Mandats de paiement and bordereaux de mandat (Public sector)'
 ms:assetid: 834a3249-8e8a-4c6b-b111-442a01bfa157
@@ -19,6 +19,8 @@ f1_keywords:
 - mandats
 - mandats de paiement
 - bordereaux de mandat
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Key tasks: Mandats de paiement and bordereaux de mandat (Public sector) 
@@ -363,5 +365,5 @@ Back to top
 [Key tasks: Vendor invoices](key-tasks-vendor-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

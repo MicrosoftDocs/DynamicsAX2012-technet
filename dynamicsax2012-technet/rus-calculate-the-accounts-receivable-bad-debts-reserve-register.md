@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the accounts receivable bad debts reserve register
 TOCTitle: (RUS) Calculate the accounts receivable bad debts reserve register
 ms:assetid: 17c15c23-0cfb-4828-89e8-51c30ece7de6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711433(v=AX.60)
 ms:contentKeyID: 49387251
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the accounts receivable bad debts reserve register 
@@ -68,5 +70,5 @@ You must set up the **Accounts receivable - bad debts reserve** register in the 
 [(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

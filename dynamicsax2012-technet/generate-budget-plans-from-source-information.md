@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate budget plans from source information
 TOCTitle: Generate budget plans from source information
 ms:assetid: 10762d52-250d-4403-8d78-083dad9199e3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677325(v=AX.60)
 ms:contentKeyID: 49384099
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate budget plans from source information 
@@ -48,5 +50,5 @@ This procedure explains how to create or update budget plan scenarios by using i
 [Generate budget plan from forecast positions (form)](https://technet.microsoft.com/en-us/library/jj677428\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

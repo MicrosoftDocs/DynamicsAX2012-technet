@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor foreign currency revaluation report (VendExchRateAdjustment)
 TOCTitle: Vendor foreign currency revaluation report (VendExchRateAdjustment)
 ms:assetid: 7866d276-5e4c-4470-aafe-f780f757bb60
@@ -98,5 +98,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Vendor foreign currency revaluation periodic job (class form)](https://technet.microsoft.com/en-us/library/aa554435\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

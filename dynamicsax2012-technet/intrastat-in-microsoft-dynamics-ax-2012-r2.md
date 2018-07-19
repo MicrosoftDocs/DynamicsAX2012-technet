@@ -1,4 +1,4 @@
-﻿---
+---
 title: Intrastat in Microsoft Dynamics AX 2012 R2
 TOCTitle: Intrastat in Microsoft Dynamics AX 2012 R2
 ms:assetid: 7d1a8c63-b5e6-4ae6-860d-071e8e6b5341
@@ -20,5 +20,5 @@ This white paper explains where information comes from for each box on the Germa
 [About Intrastat](about-intrastat.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

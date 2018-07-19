@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Adjust a cost price using the adjustment wizard
 TOCTitle: (RUS) Adjust a cost price using the adjustment wizard
 ms:assetid: dfb9f2a7-77b2-4cad-b7a4-5111ed786982
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126130(v=AX.60)
 ms:contentKeyID: 52075441
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Adjust a cost price using the adjustment wizard 
@@ -64,5 +66,5 @@ You can use this wizard to create and run cost price adjustments for on-hand tra
 [(RUS) Adjust the cost price from the ledger account](rus-adjust-the-cost-price-from-the-ledger-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

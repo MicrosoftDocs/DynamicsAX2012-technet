@@ -1,4 +1,4 @@
-﻿---
+---
 title: Check upgrade readiness
 TOCTitle: Check upgrade readiness
 ms:assetid: 6494b089-f4a7-4e5d-bd14-f46e5dc9a1b5
@@ -72,5 +72,5 @@ To rerun a single script or multiple scripts when upgrading from Microsoft Dynam
 [Upgrade preprocessing scripts (form)](https://technet.microsoft.com/en-us/library/hh202100\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

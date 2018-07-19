@@ -1,4 +1,4 @@
-﻿---
+---
 title: Review the workflow status and history for a project budget
 TOCTitle: Review the workflow status and history for a project budget
 ms:assetid: f98406f0-2a46-4182-b423-d704e43a6ce6
@@ -10,6 +10,8 @@ f1_keywords:
 - budget history
 - review project budget
 - budget status
+audience: Application User
+ms.search.region: Global
 ---
 
 # Review the workflow status and history for a project budget 
@@ -66,5 +68,5 @@ After an original project budget or budget revision is submitted for approval, y
 [Project budget settings for user groups (form)](https://technet.microsoft.com/en-us/library/hh242598\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

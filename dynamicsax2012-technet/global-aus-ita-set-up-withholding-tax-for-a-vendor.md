@@ -1,4 +1,4 @@
-﻿---
+---
 title: (Global, AUS, ITA) Set up withholding tax for a vendor
 TOCTitle: (Global, AUS, ITA) Set up withholding tax for a vendor
 ms:assetid: 3094a0d7-7176-4ae4-9b65-19eda5ff97bc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548468(v=AX.60)
 ms:contentKeyID: 36056315
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # (Global, AUS, ITA) Set up withholding tax for a vendor 
@@ -42,5 +44,5 @@ By default, when a payment for a vendor who has been set up for withholding tax 
 [Find withholding tax transactions for a vendor by using transaction descriptions](find-withholding-tax-transactions-for-a-vendor-by-using-transaction-descriptions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

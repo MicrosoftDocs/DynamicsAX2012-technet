@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up visual profiles (Retail essentials)
 TOCTitle: Set up visual profiles (Retail essentials)
 ms:assetid: a80bdcba-1d57-4578-b343-bf39eebc0f2d
@@ -55,5 +55,5 @@ The information that determines the appearance of the register is specified in a
 [Setting up Retail POS (Retail essentials)](setting-up-retail-pos-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

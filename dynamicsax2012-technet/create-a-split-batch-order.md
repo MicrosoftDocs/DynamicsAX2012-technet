@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a split batch order
 TOCTitle: Create a split batch order
 ms:assetid: 1c3d88ad-94e1-44cb-b96f-20d871f9c7a5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352187(v=AX.60)
 ms:contentKeyID: 36687820
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a split batch order 
@@ -44,5 +46,5 @@ Use this procedure to create a batch order by using the split function.
 [Split (form)](https://technet.microsoft.com/en-us/library/aa588617\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

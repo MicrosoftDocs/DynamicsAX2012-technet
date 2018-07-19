@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Production control reports
 TOCTitle: (CHN) Production control reports
 ms:assetid: 455a0603-1de5-4170-ae9c-f76ef126a0f1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664033(v=AX.60)
 ms:contentKeyID: 49384617
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Production control reports 
@@ -315,5 +317,5 @@ Generate and print a report that displays the production cost comparison details
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

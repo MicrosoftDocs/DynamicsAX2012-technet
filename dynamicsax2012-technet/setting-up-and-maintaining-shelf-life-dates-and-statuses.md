@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining shelf life dates and statuses
 TOCTitle: Setting up and maintaining shelf life dates and statuses
 ms:assetid: 4642a52f-21da-4ad0-bd5f-0e6d2b1fa1e3
@@ -10,6 +10,8 @@ f1_keywords:
 - product
 - shelf life
 - shelf life date
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining shelf life dates and statuses 
@@ -22,5 +24,5 @@ The topics in this section provide information about how to set up and maintain 
 [Set up sellable days for a customer](set-up-sellable-days-for-a-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

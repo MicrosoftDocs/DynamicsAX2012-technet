@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ISL) Set up an invoice declaration for vendors
 TOCTitle: (ISL) Set up an invoice declaration for vendors
 ms:assetid: 4b2bf11d-2ff2-4be0-aebd-173ba7b975c4
@@ -10,6 +10,8 @@ f1_keywords:
 - declaration
 - Iceland
 - vendor invoice
+audience: Application User
+ms.search.region: Iceland
 ---
 
 # (ISL) Set up an invoice declaration for vendors 
@@ -38,5 +40,5 @@ You can set up an invoice declaration that details the amounts you have paid to 
 [(ISL) Vendor invoice declaration (form)](https://technet.microsoft.com/en-us/library/hh209080\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

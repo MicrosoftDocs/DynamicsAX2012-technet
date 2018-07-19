@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process status messages for data exchange
 TOCTitle: Process status messages for data exchange
 ms:assetid: dbe1747e-d266-40d0-8193-0c54693e75fd
@@ -32,5 +32,5 @@ A batch job is a scheduled run of a process in Microsoft Dynamics AX. When you c
 5.  In the **Recurrence** form, set the parameters to specify how frequently this job runs. Set the frequency based on how frequently you want status messages from Commerce Data Exchange to be uploaded to Microsoft Dynamics AX. We recommend that you run the job at least one time every day to catch errors promptly.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

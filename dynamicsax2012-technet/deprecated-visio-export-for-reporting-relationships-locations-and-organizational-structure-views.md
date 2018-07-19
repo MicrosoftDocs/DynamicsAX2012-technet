@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Visio Export for reporting relationships, locations, and organizational structure views'
 TOCTitle: Visio Export for reporting relationships, locations, and organizational structure views
 ms:assetid: b1a91fcc-71c1-48eb-9b27-a828ea05e0f3
@@ -53,5 +53,5 @@ In Microsoft Dynamics AX 2009, you can export the reporting relationships view, 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

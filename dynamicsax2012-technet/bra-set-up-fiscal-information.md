@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up fiscal information
 TOCTitle: (BRA) Set up fiscal information
 ms:assetid: 4a551efc-e3aa-4828-9b46-e0003addcb94
@@ -19,6 +19,8 @@ f1_keywords:
 - fiscal information
 - BR - 00013
 - BR-00043
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up fiscal information 
@@ -262,5 +264,5 @@ You can set up fiscal information for legal entities, customers, and vendors. Yo
 [(BRA) Released product details (modified form)](https://technet.microsoft.com/en-us/library/jj923408\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

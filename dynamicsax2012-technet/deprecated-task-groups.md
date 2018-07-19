@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deprecated:Task groups
 TOCTitle: Task groups
 ms:assetid: 95df7e0f-da08-4e4b-b79f-75c3b3c0b7af
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, task groups are used to specify alternative work 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

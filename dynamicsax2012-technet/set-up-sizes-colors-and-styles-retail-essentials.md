@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up sizes, colors, and styles (Retail essentials)
 TOCTitle: Set up sizes, colors, and styles (Retail essentials)
 ms:assetid: 725c74e5-3e8e-4a60-a5d4-eb58a2b1827f
@@ -50,5 +50,5 @@ You can also view, add, or remove individual sizes, colors, and styles from a pr
 [Product variants (Retail essentials)](product-variants-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create and use a Word template by using the Office Add-ins'
 TOCTitle: 'Key tasks: Create and use a Word template by using the Office Add-ins'
 ms:assetid: 599b8e31-d13c-462f-97a8-450371f5de1a
@@ -15,6 +15,8 @@ f1_keywords:
 - word
 - office
 - add-in
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create and use a Word template by using the Office Add-ins 
@@ -103,5 +105,5 @@ Back to top
 [Create Microsoft Word documents from Microsoft Dynamics AX](create-microsoft-word-documents-from-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

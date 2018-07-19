@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Update certificate numbers and dates for withholding tax  transactions
 TOCTitle: (IND) Update certificate numbers and dates for withholding tax  transactions
 ms:assetid: 75f887e8-7719-4e7d-b168-a715216cf859
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677933(v=AX.60)
 ms:contentKeyID: 49385896
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Update certificate numbers and dates for withholding tax transactions 
@@ -44,5 +46,5 @@ Use the **Update certificate** form to update the recoverable certificate number
 [(IND) Enter recoverable certificate numbers for withholding taxes](ind-enter-recoverable-certificate-numbers-for-withholding-taxes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

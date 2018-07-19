@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Derogatory depreciation
 TOCTitle: (FRA) Derogatory depreciation
 ms:assetid: 536d211c-fde1-41db-9e19-b15ee8440f18
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208952(v=AX.60)
 ms:contentKeyID: 36057297
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Derogatory depreciation 
@@ -42,5 +44,5 @@ To use derogatory depreciation, the value models must meet the following require
 [Set up value models](set-up-value-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

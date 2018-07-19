@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run the Workflow infrastructure configuration wizard
 TOCTitle: Run the Workflow infrastructure configuration wizard
 ms:assetid: 23e5f8d8-d2c8-4323-bb42-5de1a18af6bc
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.WorkflowSetupWizard
 - MsDynAx060.Forms.WorkflowSetupWizard
+audience: Application User
+ms.search.region: Global
 ---
 
 # Run the Workflow infrastructure configuration wizard 
@@ -43,5 +45,5 @@ Run the **Workflow infrastructure configuration wizard** to specify how often wo
 6.  On the **Completing the workflow infrastructure configuration wizard** page, click **Finish** to close the wizard.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

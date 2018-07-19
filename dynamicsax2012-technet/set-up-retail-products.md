@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up retail products
 TOCTitle: Set up retail products
 ms:assetid: f24ee310-09fa-42ba-9868-b794eaf87706
@@ -10,6 +10,8 @@ f1_keywords:
 - BR - 00038
 - retail product
 - retail products
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up retail products 
@@ -65,5 +67,5 @@ A product must be defined at the shared company level before the product can be 
 [Released product details (form) (Retail)](https://technet.microsoft.com/en-us/library/hh580615\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

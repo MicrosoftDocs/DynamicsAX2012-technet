@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cross docking packages in Warehouse management
 TOCTitle: Cross docking packages in Warehouse management
 ms:assetid: 9f6790a8-5bf6-44cf-a1c8-046202e63bfe
@@ -12,6 +12,8 @@ f1_keywords:
 - cross docking
 - crossdock
 - Forms.RetailBuyersPushPerPackage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Cross docking packages in Warehouse management 
@@ -243,5 +245,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [Use cross docking to distribute products](use-cross-docking-to-distribute-products.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

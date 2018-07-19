@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Maintaining ledger transactions and accounts
 TOCTitle: (IND) Maintaining ledger transactions and accounts
 ms:assetid: 98c58833-74e1-42dd-a5c1-6acb54ce09fb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678057(v=AX.60)
 ms:contentKeyID: 49386018
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Maintaining ledger transactions and accounts 
@@ -28,5 +30,5 @@ The following topics provide information about tasks that are related to maintai
 [(IND) Post transactions in general and payment journals](ind-post-transactions-in-general-and-payment-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

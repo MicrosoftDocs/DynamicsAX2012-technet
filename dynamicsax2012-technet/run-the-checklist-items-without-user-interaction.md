@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run the checklist items without user interaction
 TOCTitle: Run the checklist items without user interaction
 ms:assetid: f1513ca7-deb3-4e76-83fc-527b1eb73117
@@ -22,5 +22,5 @@ Use the following topics to run the initialization checklist without user intera
 [Run the initialization checklist without interaction](run-the-initialization-checklist-without-interaction.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

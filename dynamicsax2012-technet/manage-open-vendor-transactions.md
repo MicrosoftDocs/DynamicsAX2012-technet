@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage open vendor transactions
 TOCTitle: Manage open vendor transactions
 ms:assetid: c191d25f-8336-48c5-893c-7cd83c9fb195
@@ -27,6 +27,8 @@ f1_keywords:
 - open transactions
 - vendor transaction
 - vendor transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage open vendor transactions 
@@ -51,5 +53,5 @@ The following topics provide information about managing open vendor transactions
 [Reverse settlements](reverse-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

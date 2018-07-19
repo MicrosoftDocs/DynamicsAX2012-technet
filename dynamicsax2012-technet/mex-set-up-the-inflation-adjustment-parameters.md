@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Set up the inflation adjustment parameters
 TOCTitle: (MEX) Set up the inflation adjustment parameters
 ms:assetid: 19930efb-020f-49b4-aa05-479612ad62a0
@@ -12,6 +12,8 @@ f1_keywords:
 - adjustment
 - inflation
 - inflation adjustment
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Set up the inflation adjustment parameters 
@@ -76,5 +78,5 @@ Use the **Main accounts - chart of accounts: %1** form to select a main account 
 [General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

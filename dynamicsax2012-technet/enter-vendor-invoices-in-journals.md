@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter vendor invoices in journals
 TOCTitle: Enter vendor invoices in journals
 ms:assetid: f08fb711-3846-4e57-bf13-898d88531359
@@ -24,6 +24,8 @@ f1_keywords:
 - enter
 - excl.
 - excluding
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enter vendor invoices in journals 
@@ -50,5 +52,5 @@ The following topics provide information about entering vendor invoices in journ
 [(MEX) Create and post invoices for a non-managed vendor](mex-create-and-post-invoices-for-a-non-managed-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

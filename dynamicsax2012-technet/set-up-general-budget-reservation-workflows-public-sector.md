@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up general budget reservation workflows (Public sector)
 TOCTitle: Set up general budget reservation workflows (Public sector)
 ms:assetid: 39e61fe2-1143-43f4-94f8-0d21ba778190
@@ -16,6 +16,8 @@ f1_keywords:
 - general budget reservations
 - budget reservation workflow
 - general budget reservation workflow
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Set up general budget reservation workflows (Public sector) 
@@ -213,5 +215,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Set up Budgeting workflows](set-up-budgeting-workflows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

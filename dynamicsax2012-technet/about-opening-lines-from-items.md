@@ -1,4 +1,4 @@
-﻿---
+---
 title: About opening lines from items
 TOCTitle: About opening lines from items
 ms:assetid: 102cefa3-404a-47d7-8df3-41ddbfe76bb4
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - BOM
 - bill of materials
+audience: Application User
+ms.search.region: Global
 ---
 
 # About opening lines from items 
@@ -29,5 +31,5 @@ View the bill of materials (BOM) versions that are associated with the item in t
 You can view the BOM lines that make up the BOM. You can create and modify the lines. You must specify the **Item number**, **Quantity**, and a sales unit. Remember that a BOM might be associated with more than one BOM item, which means that changes here might affect other BOM items. In the **BOM** form, you can see which BOM items are associated with a BOM.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

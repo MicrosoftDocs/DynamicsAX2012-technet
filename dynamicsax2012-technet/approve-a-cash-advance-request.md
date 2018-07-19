@@ -1,4 +1,4 @@
-﻿---
+---
 title: Approve a cash advance request
 TOCTitle: Approve a cash advance request
 ms:assetid: 8c4631ea-3328-42a2-aacd-fba306eebd4d
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - TrvCashAdvancesApproveList
+audience: Application User
+ms.search.region: Global
 ---
 
 # Approve a cash advance request 
@@ -28,5 +30,5 @@ When a worker makes a request for a cash advance, you can approve the request on
 [Create, modify, or view a cash advance request](create-modify-or-view-a-cash-advance-request.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

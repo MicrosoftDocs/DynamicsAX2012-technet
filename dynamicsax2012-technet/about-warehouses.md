@@ -1,4 +1,4 @@
-﻿---
+---
 title: About warehouses
 TOCTitle: About warehouses
 ms:assetid: b5b6ac8d-761c-4d49-bd5e-41683256e14f
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - warehouse
+audience: Application User
+ms.search.region: Global
 ---
 
 # About warehouses 
@@ -40,5 +42,5 @@ You can use warehouse levels to create a hierarchy that supports inter-warehouse
 [About product dimensions](about-product-dimensions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

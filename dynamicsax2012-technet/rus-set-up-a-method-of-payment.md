@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a method of payment
 TOCTitle: (RUS) Set up a method of payment
 ms:assetid: 8099649d-8879-4a2d-ac6e-8518f799a69f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678416(v=AX.60)
 ms:contentKeyID: 49387646
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a method of payment 
@@ -84,5 +86,5 @@ The method of payment determines the format that is used for export of payment o
 [(RUS) Methods of payment (modified form)](https://technet.microsoft.com/en-us/library/jj665379\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

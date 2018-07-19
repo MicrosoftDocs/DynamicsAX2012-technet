@@ -1,4 +1,4 @@
-﻿---
+---
 title: Preserve legacy element IDs
 TOCTitle: Preserve legacy element IDs
 ms:assetid: 74c2ed30-1b6c-48b1-bed3-4d849abf2243
@@ -94,5 +94,5 @@ If you are upgrading to Microsoft Dynamics AX 2012 R2 or R3, perform the **Prese
 11. Restart the AOS, open the client, and continue with the next checklist task.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

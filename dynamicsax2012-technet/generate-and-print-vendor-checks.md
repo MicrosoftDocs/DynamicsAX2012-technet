@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate and print vendor checks
 TOCTitle: Generate and print vendor checks
 ms:assetid: 937d3843-755e-408c-b700-38cd437f46d9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232194(v=AX.60)
 ms:contentKeyID: 36966735
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate and print vendor checks 
@@ -104,5 +106,5 @@ To recall a positive pay file, follow these steps:
 [Issue worker payments](issue-worker-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

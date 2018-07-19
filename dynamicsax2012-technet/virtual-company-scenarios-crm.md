@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Virtual company scenarios: CRM'
 TOCTitle: 'Virtual company scenarios: CRM'
 ms:assetid: 20281b2c-1def-44f6-bfc7-5e73e8452961
@@ -666,5 +666,5 @@ For this table collection, the related parameters table is smmParametersTable. B
   - **Type ID**, **Language**, and **Currency** - The system validates whether an opportunity can be converted to a prospect based on these fields in the sales and marketing parameters for the current company.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

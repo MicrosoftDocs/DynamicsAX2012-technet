@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Cash reimbursement and disbursement
 TOCTitle: (RUS) Cash reimbursement and disbursement
 ms:assetid: cf24a302-f739-49ae-b33b-3b76eeb63c3c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711635(v=AX.60)
 ms:contentKeyID: 49387959
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Cash reimbursement and disbursement 
@@ -22,5 +24,5 @@ The following topics provide information about cash reimbursement and disburseme
 [(RUS) Reprint cash disbursement and reimbursement slips](rus-reprint-cash-disbursement-and-reimbursement-slips.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Printable guides
 TOCTitle: Printable guides
 ms:assetid: ec9767bf-b129-4608-81fc-21d4e4403239
@@ -102,5 +102,5 @@ The following Microsoft Dynamics AX 2012 guides are available in PDF format. The
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

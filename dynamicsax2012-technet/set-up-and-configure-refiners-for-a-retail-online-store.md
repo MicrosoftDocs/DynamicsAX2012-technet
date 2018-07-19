@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up and configure refiners for a Retail online store
 TOCTitle: Set up and configure refiners
 ms:assetid: f1a86608-4949-4a3b-8e0a-e373030f8f43
@@ -134,5 +134,5 @@ By default, refiner labels display the name of their corresponding managed prope
 [Online Store](online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

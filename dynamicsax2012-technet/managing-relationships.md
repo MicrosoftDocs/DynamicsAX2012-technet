@@ -1,4 +1,4 @@
-﻿---
+---
 title: Managing relationships
 TOCTitle: Managing relationships
 ms:assetid: a6dc7a64-db07-47b8-abf6-e5aecf0383bd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271618(v=AX.60)
 ms:contentKeyID: 36384250
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Managing relationships 
@@ -42,5 +44,5 @@ This section contains the following topics:
 [View call lists](view-call-lists.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

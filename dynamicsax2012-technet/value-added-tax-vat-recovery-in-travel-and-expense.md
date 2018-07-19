@@ -1,4 +1,4 @@
-﻿---
+---
 title: Value Added Tax (VAT) recovery in Travel and expense
 TOCTitle: Value Added Tax (VAT) recovery in Travel and expense
 ms:assetid: ef9d32dd-ed50-4d88-858e-28cc4b7eea57
@@ -10,6 +10,8 @@ f1_keywords:
 - expenses
 - expense
 - travel
+audience: Application User
+ms.search.region: Global
 ---
 
 # Value Added Tax (VAT) recovery in Travel and expense 
@@ -64,5 +66,5 @@ The VAT information from the expense reports is exported into a Microsoft Office
 Arnie must verify that the expense report transactions are eligible for VAT recovery and that the digital receipts are attached to the reports. To start to process eligible expenses for domestic recovery, Arnie opens the **Expense tax recovery** form and selects the expense report that needs verification. Arnie verifies that receipts are in the name of the company and not the employee, which is required for VAT recovery. Arnie then confirms that the correct sales tax group and item sales tax codes were applied. When Arnie receives the paper receipts, he changes the status of the expense report to **Ready for recovery**, which allows him to file the return with the appropriate taxing authority. In this case, the appropriate taxing authority in the U.S. is the Internal Revenue Service (IRS).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

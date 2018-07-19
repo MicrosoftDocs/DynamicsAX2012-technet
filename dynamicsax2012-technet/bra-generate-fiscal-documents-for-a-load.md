@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Generate fiscal documents for a load
 TOCTitle: (BRA) Generate fiscal documents for a load
 ms:assetid: 0953439a-6579-4904-a251-7d62ab3c6535
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.SalesEditLines
 - Forms.WHSLoadTableInvoicePost_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Generate fiscal documents for a load 
@@ -227,5 +229,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

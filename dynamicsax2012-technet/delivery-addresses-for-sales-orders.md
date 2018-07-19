@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delivery addresses for sales orders
 TOCTitle: Delivery addresses for sales orders
 ms:assetid: af859eb2-59c3-42cf-b5fe-d30fbb0dd973
@@ -13,6 +13,8 @@ f1_keywords:
 - multi-delivery address
 - store delivery address
 - delivery addresses
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delivery addresses for sales orders 
@@ -25,5 +27,5 @@ The topics in this section provide information about delivery addresses for sale
 [About multiple delivery addresses for sales orders](about-multiple-delivery-addresses-for-sales-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

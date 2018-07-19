@@ -1,4 +1,4 @@
-﻿---
+---
 title: Installment billing configuration key (MCRInstallmentBilling)
 TOCTitle: Installment billing configuration key (MCRInstallmentBilling)
 ms:assetid: c9f2a7e0-cb0d-42df-96e8-530f000f8488
@@ -98,5 +98,5 @@ For more information about how license codes and configuration keys work togethe
 [Call center](call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

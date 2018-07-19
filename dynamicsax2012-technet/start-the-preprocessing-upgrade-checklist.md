@@ -1,4 +1,4 @@
-﻿---
+---
 title: Start the Preprocessing upgrade checklist
 TOCTitle: Start the Preprocessing upgrade checklist
 ms:assetid: 7b508b00-8132-48a9-aae1-ba93f815ad07
@@ -84,5 +84,5 @@ Each task in the **Preprocessing upgrade checklist** links to a Help topic that 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using Basic Integration Ports
 TOCTitle: Using Basic Integration Ports
 ms:assetid: 5f27db79-d179-41c0-a98e-fcfbaea8966d
@@ -52,5 +52,5 @@ You create a basic port in the AOT when you create and deploy a [service group](
 [AIF System Services](aif-system-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

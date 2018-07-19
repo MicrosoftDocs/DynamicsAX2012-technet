@@ -1,4 +1,4 @@
-﻿---
+---
 title: " reconcile"
 TOCTitle: " reconcile"
 ms:assetid: DynamicsAXGlossary.234995
@@ -21,5 +21,5 @@ To compare and adjust two or more accounts or statements so that the figures agr
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

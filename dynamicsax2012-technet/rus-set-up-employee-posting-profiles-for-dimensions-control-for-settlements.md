@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up employee posting profiles for dimensions control for settlements
 TOCTitle: (RUS) Set up employee posting profiles for dimensions control for settlements
 ms:assetid: a1416fea-1f0a-4290-b97d-cdd569d9b5db
@@ -11,6 +11,8 @@ f1_keywords:
 - (RUS)
 - dimensions control for settlements
 - employee posting profiles
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up employee posting profiles for dimensions control for settlements 
@@ -59,5 +61,5 @@ Use this procedure to set up employee posting profiles for dimension control for
 [(RUS) Employee posting profiles (form)](https://technet.microsoft.com/en-us/library/jj733181\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

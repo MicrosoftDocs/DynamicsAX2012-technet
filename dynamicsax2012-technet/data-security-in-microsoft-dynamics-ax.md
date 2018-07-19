@@ -1,4 +1,4 @@
-﻿---
+---
 title: Data security in Microsoft Dynamics AX
 TOCTitle: Data security in Microsoft Dynamics AX
 ms:assetid: 1308d31a-552f-4808-b0bb-8d0c91e8b363
@@ -20,5 +20,5 @@ This part of the documentation describes how to help secure data in Microsoft Dy
 [Manage data access by using the Table Permissions Framework](manage-data-access-by-using-the-table-permissions-framework.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

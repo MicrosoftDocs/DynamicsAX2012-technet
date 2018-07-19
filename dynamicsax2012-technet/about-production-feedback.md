@@ -1,4 +1,4 @@
-﻿---
+---
 title: About production feedback
 TOCTitle: About production feedback
 ms:assetid: c789b53c-d602-48e6-9535-fadf53ea4241
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550857(v=AX.60)
 ms:contentKeyID: 36059313
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About production feedback 
@@ -36,5 +38,5 @@ Also, you can select the layout of the feedback form that will be used in a regi
 [Key tasks: Work with production jobs in Manufacturing execution](key-tasks-work-with-production-jobs-in-manufacturing-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

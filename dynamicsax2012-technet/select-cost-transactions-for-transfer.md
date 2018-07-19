@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select cost transactions for transfer
 TOCTitle: Select cost transactions for transfer
 ms:assetid: 50909b81-c966-4bdd-9d27-11f7f5b4d44e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - cost transaction
 - select transactions to post costs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select cost transactions for transfer 
@@ -47,5 +49,5 @@ The transactions that were selected by your criteria appear in the **Post costs*
 [About posted hour costs](about-posted-hour-costs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

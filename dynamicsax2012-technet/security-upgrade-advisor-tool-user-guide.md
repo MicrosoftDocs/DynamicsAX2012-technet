@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security Upgrade Advisor Tool User Guide
 TOCTitle: Security Upgrade Advisor Tool User Guide
 ms:assetid: ac9baada-7e30-47e3-9c64-35023d00abe4
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 
 The Help content for Lifecycle Services has been moved to the [Dynamics AX Help wiki](https://ax.help.dynamics.com/wiki/lifecycle-services-for-microsoft-dynamics-user-guide-lcs/).Please visit this site for the most up-to-date release and Help content for Lifecycle Services and Microsoft Dynamics AX 2012.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

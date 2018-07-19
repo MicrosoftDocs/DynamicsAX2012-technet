@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Accounts payable invoice matching
 TOCTitle: Set up Accounts payable invoice matching
 ms:assetid: eead4cc7-9836-4324-8a91-3d14945925de
@@ -29,6 +29,8 @@ f1_keywords:
 - quantity match
 - product receipt
 - quantity matching
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up Accounts payable invoice matching 
@@ -339,5 +341,5 @@ For example, you can set up the following records for price tolerance percentage
 [About invoice matching and intercompany purchase orders](about-invoice-matching-and-intercompany-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

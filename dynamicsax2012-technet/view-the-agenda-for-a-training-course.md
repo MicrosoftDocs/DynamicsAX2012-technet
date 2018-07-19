@@ -1,4 +1,4 @@
-﻿---
+---
 title: View the agenda for a training course
 TOCTitle: View the agenda for a training course
 ms:assetid: 51cef4b3-3769-4975-8799-59d8a1c13e77
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - HcmEPCourseAgenda
+audience: Application User
+ms.search.region: Global
 ---
 
 # View the agenda for a training course 
@@ -48,5 +50,5 @@ An agenda might not be available for all courses. Only courses that are set up a
 [View training course sessions](view-training-course-sessions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

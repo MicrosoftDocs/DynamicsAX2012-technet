@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a division for a company and associate it with a vendor
 TOCTitle: (RUS) Set up a division for a company and associate it with a vendor
 ms:assetid: 17f3af71-dfb7-45ab-ad27-b1926f272982
@@ -10,6 +10,8 @@ f1_keywords:
 - company division
 - link company to vendor
 - separate division
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a division for a company and associate it with a vendor 
@@ -36,5 +38,5 @@ Use the **Separate divisions** form to create a company division, and then assoc
 [(RUS) Separate divisions (form)](https://technet.microsoft.com/en-us/library/jj711726\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About profit tax registers
 TOCTitle: (RUS) About profit tax registers
 ms:assetid: a19f5352-38a9-45db-870d-98cbeef3fce6
@@ -10,6 +10,8 @@ f1_keywords:
 - profit tax
 - registers
 - tax registers
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About profit tax registers 
@@ -218,5 +220,5 @@ The following tables provide information about the inventory number and the corr
 [(RUS) Set up additional tax register parameters](rus-set-up-additional-tax-register-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up coupons for customer orders in the call center
 TOCTitle: Set up coupons for customer orders in the call center
 ms:assetid: f4155152-096c-4c36-a7d1-54f2436d23d8
@@ -15,6 +15,8 @@ f1_keywords:
 - Forms.MCRCouponSalesTable
 - Forms.MCRCouponItem
 - Forms.MCRPMCouponListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up coupons for customer orders in the call center 
@@ -127,5 +129,5 @@ Use this procedure to void a coupon.
 Create a sales order in Call center
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

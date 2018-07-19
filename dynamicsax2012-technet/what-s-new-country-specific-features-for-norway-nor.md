@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Norway (NOR)"
 TOCTitle: Country-specific features for Norway
 ms:assetid: 6dd6738b-935d-4505-b84d-8bc8d347813f
@@ -109,5 +109,5 @@ In Microsoft Dynamics AX 2012, we changed and added country-specific functionali
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

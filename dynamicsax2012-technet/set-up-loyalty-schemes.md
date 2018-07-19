@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up loyalty schemes
 TOCTitle: Set up loyalty schemes
 ms:assetid: c0e47e4e-589e-43ff-9013-0259a73e05a0
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailLoyaltySchemes
 - MsDynAx060.Forms.RetailLoyaltySchemes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up loyalty schemes 
@@ -220,5 +222,5 @@ To apply the loyalty scheme to the channels, you must process the loyalty scheme
 [Set up loyalty programs](set-up-loyalty-programs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

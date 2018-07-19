@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up screen layouts
 TOCTitle: Setting up screen layouts
 ms:assetid: 7f8117f0-8228-40f6-9046-97bf3ba277cc
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - screen layout
 - screen layouts
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up screen layouts 
@@ -33,5 +35,5 @@ The topics in this section provide information about how to set up till layouts 
 [Assign a screen layout](assign-a-screen-layout.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

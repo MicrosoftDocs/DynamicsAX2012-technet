@@ -1,4 +1,4 @@
-﻿---
+---
 title: Performance data collection and analysis process
 TOCTitle: Performance data collection and analysis process
 ms:assetid: ff764bab-4428-4cbb-b3c5-777473aeff12
@@ -16,5 +16,5 @@ This document outlines the core processes, techniques, and procedures that the M
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=403016).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

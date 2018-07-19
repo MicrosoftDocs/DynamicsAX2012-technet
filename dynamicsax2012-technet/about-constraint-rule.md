@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Constraint rule
 TOCTitle: About Constraint rule
 ms:assetid: 11bb7496-353c-4f6d-bb1a-6e0f28dfd906
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - product builder
 - constraint rule
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Constraint rule 
@@ -33,5 +35,5 @@ Constraints are used to set up an exception condition, that is, a combination of
 [Create a Coded condition](create-a-coded-condition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

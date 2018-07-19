@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up replenishment hierarchies (Retail essentials)
 TOCTitle: Set up replenishment hierarchies (Retail essentials)
 ms:assetid: d3c364c2-e9e7-4ee0-ba6d-be384412f4da
@@ -58,5 +58,5 @@ Now, whenever you replenish inventory by using cross docking or buyer’s push, 
 [Use buyer's push to distribute products (Retail essentials)](use-buyer-s-push-to-distribute-products-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

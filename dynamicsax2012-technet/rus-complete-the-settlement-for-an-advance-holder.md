@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Complete the settlement for an advance holder
 TOCTitle: (RUS) Complete the settlement for an advance holder
 ms:assetid: d06201ec-9290-45b9-9832-3c3be736d735
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - Complete the settlement for an advance holder
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Complete the settlement for an advance holder 
@@ -87,5 +89,5 @@ Use this procedure to cancel a periodic settlement for advance holder transactio
 [(RUS) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923609\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

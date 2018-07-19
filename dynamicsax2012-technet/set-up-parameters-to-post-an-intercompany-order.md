@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up parameters to post an intercompany order
 TOCTitle: Set up parameters to post an intercompany order
 ms:assetid: b86649c1-a99f-47ae-9a0e-2a22035e355a
@@ -12,6 +12,8 @@ f1_keywords:
 - place intercompany order
 - set up parameter
 - post an order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up parameters to post an intercompany order 
@@ -51,5 +53,5 @@ You must set up the following parameters:
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

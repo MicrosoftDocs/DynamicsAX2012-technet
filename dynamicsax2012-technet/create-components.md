@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create components
 TOCTitle: Create components
 ms:assetid: 365e4ce1-77da-4f63-a181-d1dcd6c32f3d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580608(v=AX.60)
 ms:contentKeyID: 39519094
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create components 
@@ -46,5 +48,5 @@ A component is a generic element that can be assigned to a product configuration
 [Add a BOM line to a component](add-a-bom-line-to-a-component.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

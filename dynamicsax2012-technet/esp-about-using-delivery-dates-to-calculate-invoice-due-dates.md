@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) About using delivery dates to calculate invoice due dates
 TOCTitle: (ESP) About using delivery dates to calculate invoice due dates
 ms:assetid: 2d854698-d871-45e9-a9fe-098c673ac140
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923402(v=AX.60)
 ms:contentKeyID: 50934002
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) About using delivery dates to calculate invoice due dates 
@@ -73,5 +75,5 @@ If more than one due date limit applies to an invoice, the due date limit with t
 [(ESP) Set up due date limits to calculate invoice due dates](esp-set-up-due-date-limits-to-calculate-invoice-due-dates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

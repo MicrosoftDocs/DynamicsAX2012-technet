@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up parameters to process gift card operations as prepayments
 TOCTitle: (RUS) Set up parameters to process gift card operations as prepayments
 ms:assetid: 60251fbc-a129-4fd1-bdd6-6455eb05f1e5
@@ -17,6 +17,8 @@ f1_keywords:
 - gift card operation
 - gift card operations
 - set up parameters
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up parameters to process gift card operations as prepayments 
@@ -55,5 +57,5 @@ Use the following procedure to set up parameters to process the payments that ar
 [(RUS) View gift card payment journals](rus-view-gift-card-payment-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

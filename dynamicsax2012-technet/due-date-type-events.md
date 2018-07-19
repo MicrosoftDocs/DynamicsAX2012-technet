@@ -1,4 +1,4 @@
-﻿---
+---
 title: Due date-type events
 TOCTitle: Due date-type events
 ms:assetid: e80d6489-fcd8-4174-a347-f5a9b1b3080c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573196(v=AX.60)
 ms:contentKeyID: 46687571
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Due date-type events 
@@ -142,5 +144,5 @@ Therefore, you create a rule that triggers an alert four days after the confirme
 [Add additional tables to advanced queries](add-additional-tables-to-advanced-queries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

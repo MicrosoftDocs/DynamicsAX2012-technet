@@ -1,4 +1,4 @@
-﻿---
+---
 title: About synchronization of prices and discounts
 TOCTitle: About synchronization of prices and discounts
 ms:assetid: 4a280265-2c05-472b-929c-46a493a22f60
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497008(v=AX.60)
 ms:contentKeyID: 36056956
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About synchronization of prices and discounts 
@@ -34,5 +36,5 @@ If the **Allow price edit** and **Allow discount edit** fields are enabled on bo
 To avoid these types of conflicts, the best practice is to allow prices and discounts to be changed only on the intercompany sales order or the intercompany purchase order. This is accomplished by enabling the **Allow price edit** and **Allow discount edit** fields on either of these orders.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate pay statements
 TOCTitle: (RUS) Generate pay statements
 ms:assetid: a4165fe6-422b-4441-9f3d-7116f7503cd7
@@ -37,6 +37,8 @@ f1_keywords:
 - salary journals
 - salary statement
 - salary statements
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate pay statements 
@@ -738,5 +740,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

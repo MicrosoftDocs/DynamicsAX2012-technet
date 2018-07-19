@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a purchase invoice for a service item
 TOCTitle: (RUS) Create and post a purchase invoice for a service item
 ms:assetid: dca44976-0663-4ada-938a-23e0d8d2ebd9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733290(v=AX.60)
 ms:contentKeyID: 49685257
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a purchase invoice for a service item 
@@ -34,5 +36,5 @@ You can create and post a purchase invoice for a service item by using the **Pur
 [Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project contracts
 TOCTitle: About project contracts
 ms:assetid: e1d38da3-d2e7-4cf9-8d67-9983c3b489a9
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - project add-in
 - project contract
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project contracts 
@@ -29,5 +31,5 @@ The type of project that you create for a project contract determines the method
 [About project stages](about-project-stages.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

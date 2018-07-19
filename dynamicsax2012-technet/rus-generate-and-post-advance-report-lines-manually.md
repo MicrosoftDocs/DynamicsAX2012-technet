@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate and post advance report lines manually
 TOCTitle: (RUS) Generate and post advance report lines manually
 ms:assetid: aeb4ce89-eb4d-4d00-b4b3-6e068d6b9c9f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - Generate and post advance report lines manually
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate and post advance report lines manually 
@@ -71,5 +73,5 @@ You can distribute the expense amount between different ledger dimensions. You c
 [(RUS) Advance reports (form)](https://technet.microsoft.com/en-us/library/jj733237\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

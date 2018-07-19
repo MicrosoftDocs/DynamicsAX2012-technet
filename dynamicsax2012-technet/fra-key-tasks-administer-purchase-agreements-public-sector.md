@@ -1,4 +1,4 @@
-﻿---
+---
 title: '(FRA) Key tasks: Administer purchase agreements (Public sector)'
 TOCTitle: '(FRA) Key tasks: Administer purchase agreements (Public sector)'
 ms:assetid: c1d8201d-73bc-47ef-a2ab-9a9a002dc37e
@@ -12,6 +12,8 @@ f1_keywords:
 - French
 - purchase agreement
 - purchase agreements
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Key tasks: Administer purchase agreements (Public sector) 
@@ -178,5 +180,5 @@ Back to top
 [View history of confirmed purchase agreements](view-history-of-confirmed-purchase-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

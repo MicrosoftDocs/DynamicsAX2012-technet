@@ -1,4 +1,4 @@
-﻿---
+---
 title: About foreign currency revaluations for open customer transactions
 TOCTitle: About foreign currency revaluations for open customer transactions
 ms:assetid: 132c47fd-ea28-473d-ba08-c366a97c1573
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496596(v=AX.60)
 ms:contentKeyID: 36056045
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About foreign currency revaluations for open customer transactions 
@@ -59,5 +61,5 @@ For more information about foreign currency revaluation, see the following topic
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About synchronization of disposition codes
 TOCTitle: About synchronization of disposition codes
 ms:assetid: b29861eb-be5c-478a-b105-8ed776829fca
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232405(v=AX.60)
 ms:contentKeyID: 36059059
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About synchronization of disposition codes 
@@ -40,5 +42,5 @@ The following general rules apply to original return orders in scenarios that in
   - An underlying disposition action of Credit and Replace or Scrap and Replace is not overruled. It is treated as a disposition action of Credit and Replace or Scrap and Replace. This rule applies even if no scrap line is created in Company A and no replacement order is created in Company B (the company that received the returned item). A replacement order is created in Company A only when a packing slip update is performed.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

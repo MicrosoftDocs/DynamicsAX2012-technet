@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or update a vendor status change request
 TOCTitle: Create or update a vendor status change request
 ms:assetid: 51303009-51bb-4b99-9e0f-aedb45897c97
@@ -10,6 +10,8 @@ f1_keywords:
 - VendRequestStatusChangeAdd
 - VendRequestStatusChangeEdit
 - VendRequestStatusChangeInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or update a vendor status change request 
@@ -106,5 +108,5 @@ The **Workflow history details** page lists all of the workflow steps that have 
 [About workflow for vendor requests](about-workflow-for-vendor-requests.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

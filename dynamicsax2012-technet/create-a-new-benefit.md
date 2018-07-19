@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a new benefit
 TOCTitle: Create a new benefit
 ms:assetid: a4d1d319-f2e3-4b36-bd86-c8ca9e63514d
@@ -14,6 +14,8 @@ f1_keywords:
 - benefit type
 - benefit
 - benefit element
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a new benefit 
@@ -122,5 +124,5 @@ After you have created benefit elements, you can create the benefits that you ca
 [Enroll and remove benefits for workers](enroll-and-remove-benefits-for-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

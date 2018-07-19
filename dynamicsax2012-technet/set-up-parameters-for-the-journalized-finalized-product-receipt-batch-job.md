@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up parameters for the Journalized finalized product receipt batch job
 TOCTitle: Set up parameters for the Journalized finalized product receipt batch job
 ms:assetid: a919e966-c271-4760-b2dd-547fab26a218
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ841079(v=AX.60)
 ms:contentKeyID: 50406238
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up parameters for the Journalized finalized product receipt batch job 
@@ -32,5 +34,5 @@ You can configure when and where to run this batch job. This configuration inclu
 6.  Click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

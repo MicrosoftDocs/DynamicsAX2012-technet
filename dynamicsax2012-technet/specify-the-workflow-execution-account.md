@@ -1,4 +1,4 @@
-﻿---
+---
 title: Specify the workflow execution account
 TOCTitle: Specify the workflow execution account
 ms:assetid: e53382f6-5e30-4175-b497-9f644ed748b3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732189(v=AX.60)
 ms:contentKeyID: 35133137
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Specify the workflow execution account 
@@ -40,5 +42,5 @@ The domain account that you select to serve as the workflow execution account mu
 4.  If you are using Microsoft Dynamics AX 2012 R2 or later, repeat steps 1 through 3 for each partition in your Microsoft Dynamics AX installation.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

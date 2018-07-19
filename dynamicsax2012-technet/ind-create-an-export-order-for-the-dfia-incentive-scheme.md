@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create an export order for the DFIA incentive scheme
 TOCTitle: (IND) Create an export order for the DFIA incentive scheme
 ms:assetid: 363394e0-55ba-4cc8-b94e-fc03456c2176
@@ -18,6 +18,8 @@ f1_keywords:
 - Duty Free Import Authorization
 - customs export
 - DFIA incentive scheme
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create an export order for the DFIA incentive scheme 
@@ -64,5 +66,5 @@ After you create and post the export sales order, create and post the shipping b
 [(IND) Post a shipping bill for an export sales order](ind-post-a-shipping-bill-for-an-export-sales-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

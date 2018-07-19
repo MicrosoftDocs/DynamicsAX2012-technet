@@ -1,4 +1,4 @@
-﻿---
+---
 title: Demand forecasting in Microsoft Dynamics AX 2012 R3
 TOCTitle: Demand forecasting in Microsoft Dynamics AX 2012 R3
 ms:assetid: 77ab0845-630a-4524-8034-1d7cd3b2f5ac
@@ -30,5 +30,5 @@ This paper also describes how the demand forecasting solution uses products in t
 [Demand forecasting in Microsoft Dynamics AX 2012 R3](http://go.microsoft.com/fwlink/?linkid=397865%26clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: " liquidity"
 TOCTitle: " liquidity"
 ms:assetid: DynamicsAXGlossary.228496
@@ -25,5 +25,5 @@ The ability of a party to use current assets to settle current liabilities.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

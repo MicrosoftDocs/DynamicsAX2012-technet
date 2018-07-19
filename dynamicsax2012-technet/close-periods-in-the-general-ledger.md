@@ -1,4 +1,4 @@
-﻿---
+---
 title: Close periods in the general ledger
 TOCTitle: Close periods in the general ledger
 ms:assetid: a361185b-dafe-493b-ba42-47a027dc68e7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571842(v=AX.60)
 ms:contentKeyID: 36058807
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Close periods in the general ledger 
@@ -50,5 +52,5 @@ You can also print reports, such as account statements and aging reports.
 [Close the general ledger at month end](close-the-general-ledger-at-month-end.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

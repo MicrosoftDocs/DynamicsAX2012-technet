@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up profiles for time and attendance registrations
 TOCTitle: Set up profiles for time and attendance registrations
 ms:assetid: 9e1874db-3676-4f0b-b679-a7395d5cad8c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571725(v=AX.60)
 ms:contentKeyID: 36058752
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up profiles for time and attendance registrations 
@@ -114,5 +116,5 @@ For example, if you insert the number 40 in the **Overtime / flex limit** field,
 [Examples: Profiles for time and attendance registrations](examples-profiles-for-time-and-attendance-registrations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

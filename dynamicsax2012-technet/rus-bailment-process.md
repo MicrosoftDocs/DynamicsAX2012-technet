@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Bailment process
 TOCTitle: (RUS) Bailment process
 ms:assetid: d8ed130a-9ec1-4bd7-96b2-06dc50169b7d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733288(v=AX.60)
 ms:contentKeyID: 49685255
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Bailment process 
@@ -28,5 +30,5 @@ The topics in this section provide information about the bailment process.
 [(RUS) Set up officials for the Issue slip (M-15)](rus-set-up-officials-for-the-issue-slip-m-15.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

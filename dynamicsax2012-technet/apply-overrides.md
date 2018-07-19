@@ -1,4 +1,4 @@
-﻿---
+---
 title: Apply overrides
 TOCTitle: Apply overrides
 ms:assetid: 972a780a-263c-4072-a571-a0c065a1c7d8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn631657(v=AX.60)
 ms:contentKeyID: 62504014
 ms.date: 06/11/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Apply overrides 
@@ -84,5 +86,5 @@ Use this procedure to override charges on a sales order line.
 [Create sales orders in the call center](create-sales-orders-in-the-call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

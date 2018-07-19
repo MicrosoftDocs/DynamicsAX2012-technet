@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and update a facture for a corrected purchase order
 TOCTitle: (RUS) Create and update a facture for a corrected purchase order
 ms:assetid: a3355f81-27ac-4ebd-a2ac-0c258a532d2b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678557(v=AX.60)
 ms:contentKeyID: 49387787
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and update a facture for a corrected purchase order 
@@ -96,5 +98,5 @@ In some cases, the accountant must issue a corrective invoice to correct errors 
 [(RUS) Create and update a facture for a corrected credit note invoice](rus-create-and-update-a-facture-for-a-corrected-credit-note-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

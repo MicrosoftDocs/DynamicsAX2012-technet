@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a payment calendar and payment calendar rules
 TOCTitle: Set up a payment calendar and payment calendar rules
 ms:assetid: 0bdd2f18-f71b-41d7-bfac-c2b854cdb709
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677322(v=AX.60)
 ms:contentKeyID: 49384095
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a payment calendar and payment calendar rules 
@@ -74,5 +76,5 @@ After you set up payment calendars, you can set up rules that determine the paym
 [Payment calendar configuration - vendors and customers (form)](https://technet.microsoft.com/en-us/library/jj677400\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

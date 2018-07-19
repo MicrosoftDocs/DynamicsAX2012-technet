@@ -1,4 +1,4 @@
-﻿---
+---
 title: Analyze market share and competition
 TOCTitle: Analyze market share and competition
 ms:assetid: 3bc82285-1911-4858-b449-934077250a87
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - competition
 - market share
+audience: Application User
+ms.search.region: Global
 ---
 
 # Analyze market share and competition 
@@ -21,5 +23,5 @@ The topics in this section provide information about how to analyze market share
 [Create a competitor record](create-a-competitor-record.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

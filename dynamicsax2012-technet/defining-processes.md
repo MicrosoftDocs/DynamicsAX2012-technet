@@ -1,4 +1,4 @@
-﻿---
+---
 title: Defining processes
 TOCTitle: Defining processes
 ms:assetid: c072a095-57d7-4edb-beed-5b6477100b6e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213630(v=AX.60)
 ms:contentKeyID: 36059265
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Defining processes 
@@ -20,5 +22,5 @@ You can create activities, and then integrate them into each step of the process
 Activities and the processes that you develop can also be attached to responsibilities. If you create responsibilities, whenever a new process is created for marketing, leads, or sales, the owner of the responsibility is automatically added to the process. The owner of the process does not have to be the same worker who created the process.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

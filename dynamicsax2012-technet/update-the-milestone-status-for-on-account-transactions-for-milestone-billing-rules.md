@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update the milestone status for on-account transactions for milestone billing rules
 TOCTitle: Update the milestone status for on-account transactions for milestone billing rules
 ms:assetid: c384ea2e-c2f3-4742-9bef-3ed3498031d3
@@ -8,6 +8,8 @@ ms.date: 07/28/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.ProjUpdateMilestoneStatus
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update the milestone status for on-account transactions for milestone billing rules 
@@ -36,5 +38,5 @@ This topic explains how to mark an on-account transaction that is associated wit
 [Contract status (form)](https://technet.microsoft.com/en-us/library/hh242811\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

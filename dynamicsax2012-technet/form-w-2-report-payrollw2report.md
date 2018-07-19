@@ -1,4 +1,4 @@
-﻿---
+---
 title: Form W-2 report (PayrollW2Report)
 TOCTitle: Form W-2 report (PayrollW2Report)
 ms:assetid: 6d339292-d251-432f-a6fe-47c212814e95
@@ -147,5 +147,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Form W-2 reconciliation report (PayrollW2Reconciliation)](form-w-2-reconciliation-report-payrollw2reconciliation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

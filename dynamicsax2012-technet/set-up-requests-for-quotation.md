@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up requests for quotation
 TOCTitle: Set up requests for quotation
 ms:assetid: 49d82a07-6f3a-4ee5-977f-5ca7f17de204
@@ -28,6 +28,8 @@ f1_keywords:
 - invitation for bid
 - invitation to bid
 - invitation for bids
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up requests for quotation 
@@ -136,5 +138,5 @@ Use this procedure to define what information vendors will see when they view yo
 [Create a request for quotation](create-a-request-for-quotation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

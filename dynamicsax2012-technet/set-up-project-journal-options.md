@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up project journal options
 TOCTitle: Set up project journal options
 ms:assetid: 311bf512-4188-4ed6-a658-65764fe8adaa
@@ -14,6 +14,8 @@ f1_keywords:
 - item journal
 - journal names
 - project journal name
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up project journal options 
@@ -68,5 +70,5 @@ This topic describes how to set up options that control how journal entries that
 [Set up journal names](set-up-journal-names.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Working with fiscal books for incoming and outgoing transactions
 TOCTitle: (BRA) Working with fiscal books for incoming and outgoing transactions
 ms:assetid: f7170906-811d-44b6-a6f5-c05434208d9f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305892(v=AX.60)
 ms:contentKeyID: 54912989
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Working with fiscal books for incoming and outgoing transactions 
@@ -42,5 +44,5 @@ The topics in this section describe how to create and prepare tax assessments fo
 [(BRA) All non fiscal operations](bra-all-non-fiscal-operations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

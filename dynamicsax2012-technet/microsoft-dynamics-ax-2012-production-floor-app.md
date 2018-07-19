@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Dynamics AX 2012 Production Floor App
 TOCTitle: Microsoft Dynamics AX 2012 Production Floor App
 ms:assetid: 31998e7c-7f8b-4b1b-ad25-fb1504376e41
@@ -64,5 +64,5 @@ For more information about all the companion applications that are supported for
 For guidance and samples that can help you learn about the patterns and approaches that are used to develop mobile applications for AX 2012 R2, see the [Developing Mobile Apps for Microsoft Dynamics AX 2012](http://www.microsoft.com/en-us/download/details.aspx?id=38413) white paper.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

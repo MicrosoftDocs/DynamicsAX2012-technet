@@ -1,4 +1,4 @@
-﻿---
+---
 title: About on-account invoicing
 TOCTitle: About on-account invoicing
 ms:assetid: 726a7149-f1f9-42a9-91ca-b03ff7740033
@@ -15,6 +15,8 @@ f1_keywords:
 - invoice proposal
 - on-account invoice
 - project invoice
+audience: Application User
+ms.search.region: Global
 ---
 
 # About on-account invoicing 
@@ -51,5 +53,5 @@ For Time and material projects, you can bill a customer or other funding source 
 [Create an invoice for on-account transactions](create-an-invoice-for-on-account-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

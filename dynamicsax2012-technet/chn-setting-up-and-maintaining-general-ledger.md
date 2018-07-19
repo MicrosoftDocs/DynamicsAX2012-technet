@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Setting up and maintaining General ledger
 TOCTitle: (CHN) Setting up and maintaining General ledger
 ms:assetid: 24f85cb9-f10d-405b-aac8-411739f25fa5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664014(v=AX.60)
 ms:contentKeyID: 49384598
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Setting up and maintaining General ledger 
@@ -22,5 +24,5 @@ The topics in this section provide information about setting up and maintaining 
 [(CHN) Key tasks: Set up and export financial information for GB/T 24589-2010](chn-key-tasks-set-up-and-export-financial-information-for-gb-t-24589-2010.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

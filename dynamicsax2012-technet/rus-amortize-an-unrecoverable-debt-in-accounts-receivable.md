@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Amortize an unrecoverable debt in Accounts receivable
 TOCTitle: (RUS) Amortize an unrecoverable debt in Accounts receivable
 ms:assetid: dab3a3b8-2f11-4562-9ec1-04a2adc3918f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711662(v=AX.60)
 ms:contentKeyID: 49387986
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Amortize an unrecoverable debt in Accounts receivable 
@@ -50,5 +52,5 @@ If the unrecoverable debt total exceeds the amount of the reserve, transactions 
 [(RUS) AR amortization (form)](https://technet.microsoft.com/en-us/library/jj841091\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

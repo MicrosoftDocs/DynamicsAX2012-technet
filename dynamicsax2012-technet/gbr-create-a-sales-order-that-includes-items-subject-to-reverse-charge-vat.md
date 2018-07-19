@@ -1,4 +1,4 @@
-﻿---
+---
 title: (GBR) Create a sales order that includes items subject to reverse charge VAT
 TOCTitle: (GBR) Create a sales order that includes items subject to reverse charge VAT
 ms:assetid: 7d8af727-698f-4155-970f-5dab2bae9941
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213142(v=AX.60)
 ms:contentKeyID: 36058309
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: United Kingdom
 ---
 
 # (GBR) Create a sales order that includes items subject to reverse charge VAT 
@@ -40,5 +42,5 @@ The seller does not charge VAT, but the items that are subject to reverse charge
 [(GBR) Print - UK report (RCSalesList\_UK)](gbr-print-uk-report-rcsaleslist-uk.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

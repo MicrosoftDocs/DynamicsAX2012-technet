@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a ledger journal of land tax transactions
 TOCTitle: (RUS) Create a ledger journal of land tax transactions
 ms:assetid: 162ad571-35e6-44e1-85ba-3221f0accfaa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711425(v=AX.60)
 ms:contentKeyID: 49387243
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a ledger journal of land tax transactions 
@@ -66,5 +68,5 @@ You can create a ledger journal only if these land tax registers are set up, cal
 [(RUS) Reverse a ledger journal of land tax transactions](rus-reverse-a-ledger-journal-of-land-tax-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

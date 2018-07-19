@@ -1,4 +1,4 @@
-﻿---
+---
 title: About creating production orders for projects
 TOCTitle: About creating production orders for projects
 ms:assetid: e62f4247-d532-41c9-80bb-a74da6716437
@@ -12,6 +12,8 @@ f1_keywords:
 - link to order
 - finished item
 - production costs
+audience: Application User
+ms.search.region: Global
 ---
 
 # About creating production orders for projects 
@@ -82,5 +84,5 @@ If you select the consumed item/link to order method, you can link the project t
 [Create production order (form)](https://technet.microsoft.com/en-us/library/aa497150\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

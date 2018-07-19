@@ -1,4 +1,4 @@
-﻿---
+---
 title: About array variable group
 TOCTitle: About array variable group
 ms:assetid: c325e7cc-476b-43cf-84fa-9743339bd00e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550711(v=AX.60)
 ms:contentKeyID: 36676411
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About array variable group 
@@ -26,5 +28,5 @@ If you want to make the current variable group into an array, select the **Array
 When you change the values of the **Array** or **Max.** fields for a variable group, the values, you enter are automatically transferred to the corresponding fields for each modeling variable in the group. You cannot change these values separately for one modeling variable. You have to change them in the **Variable group** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Usage profiler (Lifecycle Services, LCS)
 TOCTitle: Usage profiler
 ms:assetid: 4b7e3232-21c4-4564-90ed-1734d50a1caa
@@ -14,5 +14,5 @@ mtps_version: v=AX.60
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/usage-profiler-lifecycle-services-lcs/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

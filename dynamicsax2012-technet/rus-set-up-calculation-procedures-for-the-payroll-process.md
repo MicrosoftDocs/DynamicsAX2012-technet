@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up calculation procedures for the payroll process
 TOCTitle: (RUS) Set up calculation procedures for the payroll process
 ms:assetid: 1b0755ec-903b-4317-aa43-863748ee7f3d
@@ -43,6 +43,8 @@ f1_keywords:
 - MsDynAx060.Forms.RPayModuleGroupTable
 - MsDynAx060.Forms.RPayAverageEarnTable
 - MsDynAx060.Forms.RPaySeqTable
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up calculation procedures for the payroll process 
@@ -625,5 +627,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

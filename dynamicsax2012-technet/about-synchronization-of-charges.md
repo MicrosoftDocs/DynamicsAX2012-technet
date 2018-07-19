@@ -1,4 +1,4 @@
-﻿---
+---
 title: About synchronization of charges
 TOCTitle: About synchronization of charges
 ms:assetid: 2165b497-93a8-4c20-ad1f-ab5d45546f4f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496788(v=AX.60)
 ms:contentKeyID: 36056165
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About synchronization of charges 
@@ -26,5 +28,5 @@ If the **Allow price edit** field is enabled on both the intercompany purchase o
 To avoid these types of conflicts, the best practice is to allow charges to be added either to the intercompany sales order or the intercompany purchase order, but not both.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Due amount analysis Accounts receivable (China) (report)
 TOCTitle: (CHN) Due amount analysis Accounts receivable (China) (report)
 ms:assetid: c7444a73-9b01-44c1-9936-9bbbce3c1c01
@@ -109,5 +109,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

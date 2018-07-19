@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain backorders and exceptions
 TOCTitle: Maintain back orders and exceptions
 ms:assetid: 6c0c2291-d1d3-481c-937e-55ad47bba77d
@@ -11,6 +11,8 @@ f1_keywords:
 - exceptions
 - back order
 - back orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain backorders and exceptions 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to manage backorders an
 [Print backorder information on packing slips and invoices](print-backorder-information-on-packing-slips-and-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

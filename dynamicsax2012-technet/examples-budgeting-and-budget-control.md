@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Examples: Budgeting and budget control'
 TOCTitle: 'Examples: Budgeting and budget control'
 ms:assetid: 418595c9-6c9a-433a-89c0-cd963b6007a2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - budget control examples
 - examples of budget control
+audience: Application User
+ms.search.region: Global
 ---
 
 # Examples: Budgeting and budget control 
@@ -724,5 +726,5 @@ If a budget check was made on dimension values 100-Police-Patrol for an amount o
 [Set up budget control](set-up-budget-control.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up users to sign documents electronically
 TOCTitle: Set up users to sign documents electronically
 ms:assetid: 4d1aff77-e1c9-40ca-b862-d7c30e1eb15d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - compliance
 - e-signature
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up users to sign documents electronically 
@@ -51,5 +53,5 @@ If you use a role other than **Information technology manager**, make sure that 
 For more information, see [Create or modify a security role](create-or-modify-a-security-role.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post purchase transactions of excise using the Vendor invoice pool excluding posting details form
 TOCTitle: (IND) Post purchase transactions of excise using the Vendor invoice pool excluding posting details form
 ms:assetid: 012379c7-b15b-4556-8e6c-c22045612889
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664426(v=AX.60)
 ms:contentKeyID: 49385515
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post purchase transactions of excise using the Vendor invoice pool excluding posting details form 
@@ -44,5 +46,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(IND) Post purchase transactions of excise using the Invoice approval journal form](ind-post-purchase-transactions-of-excise-using-the-invoice-approval-journal-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

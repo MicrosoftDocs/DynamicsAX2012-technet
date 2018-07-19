@@ -1,4 +1,4 @@
-﻿---
+---
 title: About changing an address in a source document or business document
 TOCTitle: About changing an address in a source document or business document
 ms:assetid: 6064fecb-d8e8-4ac5-a551-915e340e7b9f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh524753(v=AX.60)
 ms:contentKeyID: 37072055
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About changing an address in a source document or business document 
@@ -34,5 +36,5 @@ You generate a sales order for Fabrikam. Fabrikam’s default address is the del
 [Create, update, or delete location addresses and contact information purposes](create-update-or-delete-location-addresses-and-contact-information-purposes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

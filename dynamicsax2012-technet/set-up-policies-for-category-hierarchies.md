@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up policies for category hierarchies
 TOCTitle: Set up policies for category hierarchies
 ms:assetid: 2afa5f99-c3fe-435a-a9fe-99f78f1f2612
@@ -15,6 +15,8 @@ f1_keywords:
 - category hierarchies
 - category hierarchy policy
 - policies for category hierarchies
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up policies for category hierarchies 
@@ -109,5 +111,5 @@ Use this procedure to set up rules for ordering products in a category.
 [Category policy rule (form)](https://technet.microsoft.com/en-us/library/hh209240\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

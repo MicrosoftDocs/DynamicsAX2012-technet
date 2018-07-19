@@ -1,4 +1,4 @@
-﻿---
+---
 title: View vendor invoice lines for a purchase agreement
 TOCTitle: View vendor invoice lines for a purchase agreement
 ms:assetid: af0d9bf1-ef89-489b-9bee-364eb8707ea7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545529(v=AX.60)
 ms:contentKeyID: 37832524
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View vendor invoice lines for a purchase agreement 
@@ -50,5 +52,5 @@ You can either view all vendor invoice lines for a purchase agreement, or you ca
 [Purchase agreements (form)](https://technet.microsoft.com/en-us/library/hh209550\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

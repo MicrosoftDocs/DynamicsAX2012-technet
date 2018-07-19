@@ -1,4 +1,4 @@
-﻿---
+---
 title: Search and reserve an inventory batch with certain attributes
 TOCTitle: Search and reserve an inventory batch with certain attributes
 ms:assetid: dabc91cd-e135-4546-add5-ec9c2279a56e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh328583(v=AX.60)
 ms:contentKeyID: 36688005
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Search and reserve an inventory batch with certain attributes 
@@ -61,5 +63,5 @@ Use this procedure to search for an inventory batch with certain attributes, and
 [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

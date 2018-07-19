@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure Enterprise Portal to access data in a partition
 TOCTitle: Configure Enterprise Portal to access data in a partition
 ms:assetid: 53b2e382-28ee-46f5-a337-5d6f7894dabc
@@ -58,5 +58,5 @@ Before you configure partitions for Enterprise Portal, verify the following.
 [Checklists for deploying Enterprise Portal sites](checklists-for-deploying-enterprise-portal-sites.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

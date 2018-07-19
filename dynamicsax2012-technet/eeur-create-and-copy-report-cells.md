@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Create and copy report cells
 TOCTitle: (EEUR) Create and copy report cells
 ms:assetid: 3f32622b-a725-4869-b4f6-1da2c6618aa7
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - copy report cells
 - create report cells
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Create and copy report cells 
@@ -145,5 +147,5 @@ In the **Period** and **Data** fields on the **General** tab in the **Report** f
 [(EEUR) Financial report generator parameters copying (form)](https://technet.microsoft.com/en-us/library/jj911006\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

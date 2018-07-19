@@ -1,4 +1,4 @@
-﻿---
+---
 title: Purchase delivery schedules
 TOCTitle: Purchase delivery schedules
 ms:assetid: 83c2c46c-284e-4f99-a92a-051d80263f34
@@ -14,6 +14,8 @@ f1_keywords:
 - PO
 - POs
 - delivery schedules
+audience: Application User
+ms.search.region: Global
 ---
 
 # Purchase delivery schedules 
@@ -36,5 +38,5 @@ The topics in this section provide information about how to create and work with
 [Update quantity on purchase orders and sales orders](update-quantity-on-purchase-orders-and-sales-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

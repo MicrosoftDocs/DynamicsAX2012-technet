@@ -1,4 +1,4 @@
-﻿---
+---
 title: View benchmark reports
 TOCTitle: View benchmark reports
 ms:assetid: ff89de31-f899-4df7-ba63-e05fdcc4c452
@@ -21,5 +21,5 @@ The benchmark reports for Microsoft Dynamics AX 2012 measure the performance and
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

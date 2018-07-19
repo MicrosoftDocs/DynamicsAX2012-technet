@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Settle a partial vendor payment before the discount date with a final payment after the discount date'
 TOCTitle: 'Scenario: Settle a partial vendor payment before the discount date with a final payment after the discount date'
 ms:assetid: 0691c446-4cbf-4f39-900d-4a4541502ab4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580562(v=AX.60)
 ms:contentKeyID: 39519038
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Settle a partial vendor payment before the discount date with a final payment after the discount date 
@@ -529,5 +531,5 @@ April then posts the payment. When April opens the **Vendor transactions** form,
 [Scenario: Take a discount that is more than the calculated discount for a vendor payment](scenario-take-a-discount-that-is-more-than-the-calculated-discount-for-a-vendor-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

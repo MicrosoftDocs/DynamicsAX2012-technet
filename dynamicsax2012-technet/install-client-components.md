@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install client components
 TOCTitle: Install client components
 ms:assetid: fbe287b7-2c43-4e4b-bd96-67751ab778fc
@@ -24,5 +24,5 @@ The topics in this section provide information about how to install the client c
 [Troubleshoot installation issues with client components](troubleshoot-installation-issues-with-client-components.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

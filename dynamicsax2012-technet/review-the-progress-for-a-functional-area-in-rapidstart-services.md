@@ -1,4 +1,4 @@
-﻿---
+---
 title: Review the progress for a functional area in RapidStart Services
 TOCTitle: Review the progress for a functional area in RapidStart Services
 ms:assetid: ad02fa13-b45c-4906-b84c-2c1239b7ee26
@@ -80,5 +80,5 @@ For each functional area, you can review the following information:
 [Review the progress for a question group in RapidStart Services](review-the-progress-for-a-question-group-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

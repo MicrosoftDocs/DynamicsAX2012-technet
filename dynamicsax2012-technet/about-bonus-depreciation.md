@@ -1,4 +1,4 @@
-﻿---
+---
 title: About bonus depreciation
 TOCTitle: About bonus depreciation
 ms:assetid: 6a2ad77a-0642-4b72-a3de-4daf5bb411aa
@@ -11,6 +11,8 @@ f1_keywords:
 - fixed asset depreciation
 - bonus depreciation
 - fixed asset bonus depreciation
+audience: Application User
+ms.search.region: Global
 ---
 
 # About bonus depreciation 
@@ -59,5 +61,5 @@ Bonus depreciation is entered as either a percentage or a fixed amount. When you
 [Set up bonus depreciation](set-up-bonus-depreciation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Install Commerce Data Exchange: Real-time Service (Retail Transaction Service)'
 TOCTitle: 'Install Commerce Data Exchange: Real-time Service (Retail Transaction Service)'
 ms:assetid: 8144c227-ebc2-4c24-8a61-62f52d61e95d
@@ -197,9 +197,14 @@ After you extract the installation files by using Setup, you must configure sett
     <td><p>The port on which Real-time Service receives secure HTTP requests. You can specify any available port. Verify that the port is open in Windows Firewall.</p>
     <p></p>
     <div class="alert">
-    > [!Caution]  
-	> To avoid conflicts with the Default Web Site on the computer, we recommend that you do not use the default HTTPS port (443). A nonstandard port number also helps make the website more secure.
-
+    <div class="mtps-table">
+    <div class="mtps-row">
+    <img src="images/Gg732282.alert_caution(AX.60).gif" title="Caution note" alt="Caution note" class="note" /><strong>Caution</strong>
+    </div>
+    <div class="mtps-row">
+    To avoid conflicts with the Default Web Site on the computer, we recommend that you do not use the default HTTPS port (443). A nonstandard port number also helps make the website more secure.
+    </div>
+    </div>
     </div></td>
     <td><p>None</p></td>
     </tr>
@@ -424,5 +429,5 @@ For more information about how to configure, test, and troubleshoot the installa
 Next, set up profiles for Real-time Service, and assign the profiles to channels. For more information, see [Set up a Real-time Service profile](set-up-a-real-time-service-profile.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

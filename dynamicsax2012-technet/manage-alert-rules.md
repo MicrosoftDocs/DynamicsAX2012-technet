@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage alert rules
 TOCTitle: Manage alert rules
 ms:assetid: e5e032e6-ced4-435f-ba23-937ec8e8b140
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573182(v=AX.60)
 ms:contentKeyID: 46687570
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage alert rules 
@@ -78,5 +80,5 @@ If you then change the rule so that it produces an alert seven days before the d
 [About creating alert rules](about-creating-alert-rules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

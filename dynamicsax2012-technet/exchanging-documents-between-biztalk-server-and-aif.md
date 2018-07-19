@@ -1,4 +1,4 @@
-﻿---
+---
 title: Exchanging documents between BizTalk Server and AIF
 TOCTitle: Exchanging documents between BizTalk Server and AIF
 ms:assetid: 703527e1-4b5b-4eed-a8bd-74c0f419c14b
@@ -168,5 +168,5 @@ This process, called correlation, requires you to match a value (or set of value
 BizTalk Server requires that you create a correlation set only if you use an orchestration in a synchronous document exchange. In this case, the correlation set can contain these same ID values. For asynchronous exchanges, and synchronous exchanges that do not use an orchestration, no BizTalk correlation set is required. In this case, you can use whatever method you choose to correlate requests and responses by using the ID values.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

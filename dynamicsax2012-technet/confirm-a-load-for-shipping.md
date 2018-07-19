@@ -1,4 +1,4 @@
-﻿---
+---
 title: Confirm a load for shipping
 TOCTitle: Confirm a load for shipping
 ms:assetid: d441a41f-27c5-47c5-948f-64da00d9ba02
@@ -14,6 +14,8 @@ f1_keywords:
 - receiving
 - packing structure
 - shipping document
+audience: Application User
+ms.search.region: Global
 ---
 
 # Confirm a load for shipping 
@@ -141,5 +143,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Category consumption (2 periods) report (ProjConsumCateg2Prd)
 TOCTitle: Category consumption (2 periods) report (ProjConsumCateg2Prd)
 ms:assetid: 6c2cee95-9986-4513-bfd4-86b78f6905f5
@@ -59,7 +59,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Forecast model</strong></p></td>
 <td><p>Select the forecast model that you want the report to use.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If you are using project budget control, select the budget forecast model that is used by this project.</P>
@@ -168,5 +168,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Submit a batch processing job from a form](submit-a-batch-processing-job-from-a-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

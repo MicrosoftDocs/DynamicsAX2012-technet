@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Deprecated: (IND) Removal of 'Exceed threshold limit'  from Direct Tax parameters"
 TOCTitle: (IND) Removal of 'Exceed threshold limit'  from Direct Tax parameters
 ms:assetid: 99f92e50-d7d4-4a17-8511-94beea5f8018
@@ -55,5 +55,5 @@ For Indian installations, Microsoft Dynamics AX 2009 includes a country-specific
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

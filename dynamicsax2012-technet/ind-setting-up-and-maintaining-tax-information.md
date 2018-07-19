@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up and maintaining tax information
 TOCTitle: (IND) Setting up and maintaining tax information
 ms:assetid: 7e227a42-5e80-47bc-b458-9f5680b28426
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677955(v=AX.60)
 ms:contentKeyID: 49385919
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up and maintaining tax information 
@@ -148,5 +150,5 @@ For more information about setup and maintenance tasks, see the System and Appli
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

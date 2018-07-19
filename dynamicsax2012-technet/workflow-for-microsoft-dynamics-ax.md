@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow for Microsoft Dynamics AX
 TOCTitle: Workflow
 ms:assetid: fcc9b643-10f1-4a12-b233-ec29dad62b86
@@ -451,5 +451,5 @@ Microsoft SQL Server Reporting Services (SSRS) reports and a Microsoft SQL Serve
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

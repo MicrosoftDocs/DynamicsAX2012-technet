@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Turn on or turn off contingency mode
 TOCTitle: (BRA) Turn on or turn off contingency mode
 ms:assetid: 26590a7a-7da2-4880-b9f0-84e5db693bb0
@@ -10,6 +10,8 @@ f1_keywords:
 - BRA
 - Brazil
 - contingency mode
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Turn on or turn off contingency mode 
@@ -58,5 +60,5 @@ Use the following procedure to turn off contingency mode.
 [(BRA) About the NF-e process](bra-about-the-nf-e-process.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

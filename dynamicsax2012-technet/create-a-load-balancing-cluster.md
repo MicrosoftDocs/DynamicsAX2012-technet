@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a load balancing cluster
 TOCTitle: Create a load balancing cluster
 ms:assetid: b070501d-cf46-49fb-8168-785259178d27
@@ -92,5 +92,5 @@ Use the Microsoft Dynamics AX Configuration utility to change client configurati
 [Set processor affinity](set-processor-affinity.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

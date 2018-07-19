@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fiscal year closing checklist
 TOCTitle: Fiscal year closing checklist
 ms:assetid: fd2f412e-d2e5-4fda-b4ee-b1cacaf0bd95
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500109(v=AX.60)
 ms:contentKeyID: 36931889
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Fiscal year closing checklist 
@@ -62,5 +64,5 @@ Use the following information to prepare for a new fiscal year and close the cur
 15. Print the final reports for the fiscal year. These include financial statements such as the operating statement and the balance sheet. Publish the statements as required by law. For more information, see [About traditional financial statements](about-traditional-financial-statements.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

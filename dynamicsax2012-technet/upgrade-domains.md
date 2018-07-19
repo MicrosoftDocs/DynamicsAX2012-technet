@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upgrade domains
 TOCTitle: Upgrade domains
 ms:assetid: d39a7913-2f90-4afc-8305-8b0b79b92d16
@@ -54,5 +54,5 @@ Alternatively, if this setup more accurately represents your organization, you c
 [Create or modify an organization hierarchy](create-or-modify-an-organization-hierarchy.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

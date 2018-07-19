@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshooting Application Object Servers
 TOCTitle: Troubleshooting Application Object Servers
 ms:assetid: e642b626-7f0e-4ce9-9077-57aa6ce29c10
@@ -20,5 +20,5 @@ The topics in this section provide information that can help you troubleshoot co
 [Allow debugging](allow-debugging.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

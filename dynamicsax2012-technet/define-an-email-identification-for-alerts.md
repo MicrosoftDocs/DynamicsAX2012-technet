@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define an email identification for alerts
 TOCTitle: Define an email identification for alerts
 ms:assetid: 089a0da6-7f2c-430c-98ad-dc91c0bebb59
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834327(v=AX.60)
 ms:contentKeyID: 46687533
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define an email identification for alerts 
@@ -26,5 +28,5 @@ When you define an email identification for alerts, you attach the identificatio
 [Configure email functionality in Microsoft Dynamics AX](configure-email-functionality-in-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create an assessed tax declaration
 TOCTitle: (RUS) Create an assessed tax declaration
 ms:assetid: 09c73f3b-db8f-4e69-bf0e-285345d4df1c
@@ -10,6 +10,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - assessed tax
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create an assessed tax declaration 
@@ -92,5 +94,5 @@ Use this procedure to create an assessed tax declaration. An assessed tax declar
 [(RUS) Create a ledger journal of assessed tax transactions](rus-create-a-ledger-journal-of-assessed-tax-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

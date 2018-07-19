@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the Production + profit matching principle
 TOCTitle: About the Production + profit matching principle
 ms:assetid: 42047a79-91f8-4c74-b97e-c3c561489816
@@ -10,6 +10,8 @@ f1_keywords:
 - accrued revenue
 - profit and loss
 - matching principle
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the Production + profit matching principle 
@@ -121,5 +123,5 @@ The following table describes the effects of actions that you can perform in the
 [Estimate (form)](https://technet.microsoft.com/en-us/library/aa590971\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

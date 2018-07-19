@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Lease report (RAssetLending)
 TOCTitle: (RUS) Lease report (RAssetLending)
 ms:assetid: f45b043a-cc08-4ba3-a56c-00e152430356
@@ -112,5 +112,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(RUS) FA on loan (form)](https://technet.microsoft.com/en-us/library/jj665390\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

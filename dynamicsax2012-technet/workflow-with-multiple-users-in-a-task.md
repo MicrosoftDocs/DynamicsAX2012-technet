@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow with multiple users in a task
 TOCTitle: Workflow with multiple users in a task
 ms:assetid: 1a433b99-2c30-44e9-817b-8f9d6554e106
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751359(v=AX.60)
 ms:contentKeyID: 35132565
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Workflow with multiple users in a task 
@@ -26,5 +28,5 @@ After Kim has finished reviewing the receipts, she marks the task as complete. T
 Because the total amount is not more than USD 10,000, Ann does not have to approve the expense report. Therefore, after Sue approves the expense report, the workflow ends.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

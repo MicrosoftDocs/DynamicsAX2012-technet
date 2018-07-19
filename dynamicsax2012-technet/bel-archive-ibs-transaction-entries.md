@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Archive IBS transaction entries
 TOCTitle: (BEL) Archive IBS transaction entries
 ms:assetid: 0cda3238-32a8-40fe-9d24-eaee44b05abc
@@ -11,6 +11,8 @@ f1_keywords:
 - Belgium
 - IBS
 - Isabel
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Archive IBS transaction entries 
@@ -41,5 +43,5 @@ The processed Isabel 6 transaction entries are moved to the **IBS archive** form
 [(BEL) IBS parameters (form)](https://technet.microsoft.com/en-us/library/hh209077\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About fixed asset posting profiles
 TOCTitle: About fixed asset posting profiles
 ms:assetid: c4d06025-680c-49fd-8e48-6c3b4459f16c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550738(v=AX.60)
 ms:contentKeyID: 36059296
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About fixed asset posting profiles 
@@ -36,5 +38,5 @@ For each transaction type, set up a ledger account and an offset account. If the
 [About fixed asset reserves](about-fixed-asset-reserves.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

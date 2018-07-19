@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHE) Payment advice report (VendOutPaymAdvice_CHEZAG)
 TOCTitle: (CHE) Payment advice report (VendOutPaymAdvice_CHEZAG)
 ms:assetid: b11fb81f-a2c5-408c-80ec-7f36a3ffc29e
@@ -94,5 +94,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

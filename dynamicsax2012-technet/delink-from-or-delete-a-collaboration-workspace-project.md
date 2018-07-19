@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delink from or delete a collaboration workspace (Project)
 TOCTitle: Delink from or delete a collaboration workspace (Project)
 ms:assetid: d977d4b8-63c2-4087-9e77-1ae56c82bfb1
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - collaboration workspace
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delink from or delete a collaboration workspace (Project) 
@@ -38,5 +40,5 @@ If you attempt to delete a collaboration workspace that is associated with other
 [Set up collaboration workspaces](set-up-collaboration-workspaces.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

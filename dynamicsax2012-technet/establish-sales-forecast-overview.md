@@ -1,4 +1,4 @@
-﻿---
+---
 title: Establish sales forecast overview
 TOCTitle: Establish sales forecast overview
 ms:assetid: 52656a42-20ce-4554-b990-31ead35d43c4
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - sales forecast
+audience: Application User
+ms.search.region: Global
 ---
 
 # Establish sales forecast overview 
@@ -50,5 +52,5 @@ The following table lists the form that supports the Establish sales forecast bu
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

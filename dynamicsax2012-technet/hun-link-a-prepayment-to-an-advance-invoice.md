@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Link a prepayment to an advance invoice
 TOCTitle: (HUN) Link a prepayment to an advance invoice
 ms:assetid: f3cb6017-2a76-40fc-ab57-89be9b5429ca
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664407(v=AX.60)
 ms:contentKeyID: 49385495
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Link a prepayment to an advance invoice 
@@ -43,5 +45,5 @@ You can link prepayments paid to vendors to advance invoices, either before or a
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

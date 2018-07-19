@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'How to: Add a Financial Dimension to a Cube'
 TOCTitle: 'How to: Add a Financial Dimension to a Cube'
 ms:assetid: 507d6dab-53bb-4116-971b-f834bb3192c8
@@ -44,5 +44,5 @@ To add a financial dimension, run the Analysis Services project wizard and selec
 [Financial dimensions (form)](https://technet.microsoft.com/en-us/library/hh209534\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

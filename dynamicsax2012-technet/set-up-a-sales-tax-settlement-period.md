@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a sales tax settlement period
 TOCTitle: Set up a sales tax settlement period
 ms:assetid: 535eec81-d317-4903-ab65-6ec7b28fcb5e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548925(v=AX.60)
 ms:contentKeyID: 36057296
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a sales tax settlement period 
@@ -103,5 +105,5 @@ Set up a sales tax settlement periods by creating the sales tax settlement perio
 [Set up sales tax authorities](set-up-sales-tax-authorities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

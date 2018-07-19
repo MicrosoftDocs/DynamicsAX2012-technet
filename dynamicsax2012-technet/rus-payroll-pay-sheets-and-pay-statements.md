@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Payroll pay sheets and pay statements
 TOCTitle: (RUS) Payroll pay sheets and pay statements
 ms:assetid: 2c2a460f-9637-4020-a042-6bee86e19b00
@@ -11,6 +11,8 @@ f1_keywords:
 - average earnings
 - off-budget funds
 - salary statements
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Payroll pay sheets and pay statements 
@@ -33,5 +35,5 @@ This topic describes how to create pay sheets for workers and then issue salary 
 This topic describes how to filter tax payments and tax liabilities, and to settle the tax liabilities. For more information see [(RUS) Settle tax liabilities](rus-settle-tax-liabilities.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

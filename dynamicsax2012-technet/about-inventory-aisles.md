@@ -1,4 +1,4 @@
-﻿---
+---
 title: About inventory aisles
 TOCTitle: About inventory aisles
 ms:assetid: 6a7fa1ba-7ee5-46ae-90e7-c97f2df57823
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571177(v=AX.60)
 ms:contentKeyID: 36057979
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About inventory aisles 
@@ -52,5 +54,5 @@ Together, these make up the inventory location.
 [Create locations](create-locations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Make the sale overview
 TOCTitle: Make the sale overview
 ms:assetid: 3d3a8aad-35de-41fe-abf6-87cb898d20f5
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - sale
+audience: Application User
+ms.search.region: Global
 ---
 
 # Make the sale overview 
@@ -63,5 +65,5 @@ The following table lists the forms that support the Make the sale business proc
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

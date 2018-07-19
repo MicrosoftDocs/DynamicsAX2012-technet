@@ -1,4 +1,4 @@
-﻿---
+---
 title: About on-account accrued revenue
 TOCTitle: About on-account accrued revenue
 ms:assetid: a5ee6adf-73dc-4e8a-94cf-492f8cff489e
@@ -10,6 +10,8 @@ f1_keywords:
 - accrued revenue
 - profit and loss
 - on-account invoicing
+audience: Application User
+ms.search.region: Global
 ---
 
 # About on-account accrued revenue 
@@ -64,5 +66,5 @@ Before you can accrue on-account revenue, you must select the ledger accounts to
 [Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

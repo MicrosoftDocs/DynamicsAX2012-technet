@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Attach tax codes to item tax groups for customs
 TOCTitle: (IND) Attach tax codes to item tax groups for customs
 ms:assetid: 9e5e6944-263c-41c3-8f19-afbaa55b75e4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664710(v=AX.60)
 ms:contentKeyID: 49386041
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Attach tax codes to item tax groups for customs 
@@ -64,5 +66,5 @@ You can attach tax codes to item tax groups for customs.
 [(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

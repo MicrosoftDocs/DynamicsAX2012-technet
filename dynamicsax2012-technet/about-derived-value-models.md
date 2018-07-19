@@ -1,4 +1,4 @@
-﻿---
+---
 title: About derived value models
 TOCTitle: About derived value models
 ms:assetid: a4649e74-1689-4036-bac3-887b1b839dd0
@@ -10,6 +10,8 @@ f1_keywords:
 - derived value models
 - fixed asset value models
 - value models
+audience: Application User
+ms.search.region: Global
 ---
 
 # About derived value models 
@@ -42,5 +44,5 @@ When you prepare the transactions of the primary value model for posting in the 
 [About posting with derived value models](about-posting-with-derived-value-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

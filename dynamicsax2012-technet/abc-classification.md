@@ -1,4 +1,4 @@
-﻿---
+---
 title: " ABC classification"
 TOCTitle: " ABC classification"
 ms:assetid: DynamicsAXGlossary.235256
@@ -29,5 +29,5 @@ A system for ranking discrete categories of items according to Pareto's 80/20 pr
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

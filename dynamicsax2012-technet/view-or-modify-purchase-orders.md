@@ -1,4 +1,4 @@
-﻿---
+---
 title: View or modify purchase orders
 TOCTitle: View or modify purchase orders
 ms:assetid: b56d26ba-986c-44bc-b81a-249c65bead5f
@@ -11,6 +11,8 @@ f1_keywords:
 - EPPurchTableInfo
 - EPPurchLineInfo
 - EPPurchTableList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View or modify purchase orders 
@@ -87,5 +89,5 @@ You can also use the **Edit purchase order** page to modify purchase orders.
 [View product receipts](view-product-receipts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

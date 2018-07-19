@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Transfer assets between companies
 TOCTitle: (RUS) Transfer assets between companies
 ms:assetid: 37f94824-4ba9-4a04-b3dc-b863af83050a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665281(v=AX.60)
 ms:contentKeyID: 49387370
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Transfer assets between companies 
@@ -124,5 +126,5 @@ Before you create fixed assets transfers between companies, you must adjust the 
 [(RUS) Transfer multiple assets using the Fixed asset transfer journal](rus-transfer-multiple-assets-using-the-fixed-asset-transfer-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

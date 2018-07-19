@@ -1,4 +1,4 @@
-﻿---
+---
 title: High Volume Inventory Benchmark for Microsoft Dynamics AX 2012 in a Retail Environment
 TOCTitle: High Volume Inventory Benchmark for Microsoft Dynamics AX 2012 in a Retail Environment
 ms:assetid: add314e8-9c89-42f6-81b9-7dee0ad4aa63
@@ -24,5 +24,5 @@ We have published the following two papers about the high volume inventory bench
   - [High volume inventory benchmark for Microsoft Dynamics AX 2012 in a retail environment (summary)](http://go.microsoft.com/fwlink/?linkid=238587) – This paper provides a summary of the high volume inventory benchmark results, and can be downloaded from CustomerSource and PartnerSource.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

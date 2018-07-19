@@ -1,4 +1,4 @@
-﻿---
+---
 title: View your alert rules (Enterprise Portal)
 TOCTitle: View your alert rules
 ms:assetid: 30f3c9bb-2b58-4430-9225-13cca296e19e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPEventRuleInfo
 - EPEventRuleList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View your alert rules (Enterprise Portal) 
@@ -31,5 +33,5 @@ You can view the alert rules that have been set up for you in Enterprise Portal,
 [View your alerts (Enterprise Portal)](view-your-alerts-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

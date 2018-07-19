@@ -1,4 +1,4 @@
-﻿---
+---
 title: View history for a distribution schedule
 TOCTitle: View history for a distribution schedule
 ms:assetid: 50a852c6-e8c4-474f-ad1c-f9ab4ac0e797
@@ -119,5 +119,5 @@ To display complete status information in this form, you must run the batch job 
 [View or cancel retail data distribution sessions](view-or-cancel-retail-data-distribution-sessions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up inventory reservations
 TOCTitle: About setting up inventory reservations
 ms:assetid: 3ae16b12-361b-43d6-bf43-60173544814b
@@ -10,6 +10,8 @@ f1_keywords:
 - inventory reservations
 - reservations
 - set up inventory reservations
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up inventory reservations 
@@ -30,5 +32,5 @@ You can specify default inventory settings in three different forms:
 [Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

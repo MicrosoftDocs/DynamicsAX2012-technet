@@ -1,4 +1,4 @@
-﻿---
+---
 title: Example organizational hierarchies
 TOCTitle: Example organizational hierarchies
 ms:assetid: d68676fc-9fdf-4f08-a934-064dbb9a259b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh801194(v=AX.60)
 ms:contentKeyID: 43976728
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Example organizational hierarchies 
@@ -54,5 +56,5 @@ Larger organizations may require some hierarchies that are based on business uni
 [Create or modify an organization hierarchy](create-or-modify-an-organization-hierarchy.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

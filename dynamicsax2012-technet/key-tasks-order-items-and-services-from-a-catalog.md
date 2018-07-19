@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Order items and services from a catalog'
 TOCTitle: 'Key tasks: Order items and services from a catalog'
 ms:assetid: 7fe13bf9-be99-49df-8da0-bff0df85235c
@@ -29,6 +29,8 @@ f1_keywords:
 - non-catalog
 - order from a vendor
 - procurement site
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Order items and services from a catalog 
@@ -232,5 +234,5 @@ Back to top
 [Rate products and vendors](rate-products-and-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

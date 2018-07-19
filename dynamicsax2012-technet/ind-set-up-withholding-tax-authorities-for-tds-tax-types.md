@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up withholding tax authorities for TDS tax types
 TOCTitle: (IND) Set up withholding tax authorities for TDS tax types
 ms:assetid: 1c31763f-7496-4c5a-9084-eb4327e33074
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664531(v=AX.60)
 ms:contentKeyID: 49385610
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up withholding tax authorities for TDS tax types 
@@ -40,5 +42,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(IND) Withholding tax authorities (form)](https://technet.microsoft.com/en-us/library/jj664871\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

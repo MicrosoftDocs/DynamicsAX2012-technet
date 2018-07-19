@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Accounts receivable
 TOCTitle: (HUN) Accounts receivable
 ms:assetid: 4934e861-6e37-492c-bda4-bfb34ee28d02
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664272(v=AX.60)
 ms:contentKeyID: 49385361
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Accounts receivable 
@@ -24,5 +26,5 @@ The topics in this section provide more information about Accounts receivable.
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

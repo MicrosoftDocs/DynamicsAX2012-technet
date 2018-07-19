@@ -1,4 +1,4 @@
-﻿---
+---
 title: Party upgrade
 TOCTitle: Party upgrade
 ms:assetid: 2d40df97-53af-416e-8450-1b66b7a4e55c
@@ -26,5 +26,5 @@ Use this form to indicate any customers, vendors, prospects, and competitors tha
 4.  After you have updated all your party records, click **Set to ready for upgrade**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

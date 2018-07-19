@@ -1,4 +1,4 @@
-﻿---
+---
 title: Operation of reporting
 TOCTitle: Operations
 ms:assetid: 2eb921de-6c83-40cc-a702-3b431bdee038
@@ -20,5 +20,5 @@ The following topics explain how to use the default reports that are included wi
 [How to create a custom report](how-to-create-a-custom-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

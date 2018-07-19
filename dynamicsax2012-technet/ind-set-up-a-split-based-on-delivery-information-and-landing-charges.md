@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up a split based on delivery information and landing charges
 TOCTitle: (IND) Set up a split based on delivery information and landing charges
 ms:assetid: 5254db1f-81a2-4e0b-9c2a-c6b7f50d4009
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664699(v=AX.60)
 ms:contentKeyID: 49385772
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up a split based on delivery information and landing charges 
@@ -34,5 +36,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

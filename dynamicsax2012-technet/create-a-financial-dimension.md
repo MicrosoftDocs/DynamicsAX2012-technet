@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a financial dimension
 TOCTitle: Create a financial dimension
 ms:assetid: ac9eeb95-4cb0-4352-ae89-0524cdba31a5
@@ -10,6 +10,8 @@ f1_keywords:
 - financial dimension
 - create a financial dimension
 - create financial dimensions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a financial dimension 
@@ -74,5 +76,5 @@ To create a user-defined financial dimension, in the **Use values from** field, 
 [Text translation (form)](https://technet.microsoft.com/en-us/library/hh697726\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up or modify table distributions
 TOCTitle: Set up or modify table distributions
 ms:assetid: c9418f6a-8bc3-49a8-8b1c-3e2072e9f99c
@@ -122,5 +122,5 @@ The following distribution types are available:
 [Set up action filters for Retail data](set-up-action-filters-for-retail-data.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

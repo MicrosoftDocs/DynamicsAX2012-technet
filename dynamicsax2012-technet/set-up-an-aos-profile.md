@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up an AOS profile
 TOCTitle: Set up an AOS profile
 ms:assetid: 3d6d6d31-c732-4310-b7a1-6d8f06d06608
@@ -40,5 +40,5 @@ An Application Object Server (AOS) profile provides the connection string that e
 4.  Click **Test connection** to confirm that the connection string for the selected AOS profile is correct. For information about how to resolve connection errors, see [Troubleshoot a connection](troubleshoot-a-connection.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

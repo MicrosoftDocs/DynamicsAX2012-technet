@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Create and post a sales order and a project sales order as electronic invoices
 TOCTitle: (MEX) Create and post a sales order and a project sales order as electronic invoices
 ms:assetid: c7050d39-6467-49a2-88de-a3710128861a
@@ -11,6 +11,8 @@ f1_keywords:
 - electronic invoices
 - post
 - project sales order
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Create and post a sales order and a project sales order as electronic invoices 
@@ -83,5 +85,5 @@ You can also create and post a sales order for an imported item or a leasing ser
 [(MEX) Set up a sales tax code for an electronic invoice](mex-set-up-a-sales-tax-code-for-an-electronic-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

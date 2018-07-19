@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign sales tax groups to stores (Retail essentials)
 TOCTitle: Assign sales tax groups to stores (Retail essentials)
 ms:assetid: df3ff16d-2c48-495e-a84f-548f045b4c60
@@ -32,5 +32,5 @@ This topic explains how to assign a sales tax group to a retail store. Sales tax
 [Setting up taxes (Retail essentials)](setting-up-taxes-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

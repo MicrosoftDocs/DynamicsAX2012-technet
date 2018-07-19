@@ -1,4 +1,4 @@
-﻿---
+---
 title: Find AX 2012 content
 TOCTitle: Find AX 2012 content
 ms:assetid: b69945d9-e766-4a15-9513-a5a847c953ce
@@ -34,7 +34,7 @@ The following are useful Microsoft Dynamics AX-related sites.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://aka.ms/websearchax">WebSearchAX</a></p></td>
+<td></td>
 <td><p>Microsoft Dynamics AX site-specific filtered Bing search page.</p></td>
 </tr>
 <tr class="even">
@@ -100,26 +100,18 @@ The following are useful Microsoft Dynamics AX-related sites.
 </tbody>
 </table>
 
-
-
 > [!NOTE]
 > <P>*To access this site, you must be enrolled in a service plan.</P>
-
-
 
 ## How to find content
 
 Use the following resources to help you find content:
-
-  - For filtered search across TechNet, MSDN, Community, and CodePlex, use the Web search page (WebSearchAX).
 
   - Use Bing and other search engines to find publicly available content.
     
 
     > [!NOTE]
     > <P>CustomerSource, Lifecycle Services, and InformationSource are not indexed by external search engines—you must be on the sites to search them.</P>
-
-
 
   - The AXSupport blog lists all content updates.
 
@@ -139,7 +131,7 @@ Help in AX 2012is stored on a central server. The Help server lets you:
 
   - Apply Help updates that are provided by Microsoft without deleting your customized topics.
 
-For details about customizaing help, see [Help System Development](https://technet.microsoft.com/en-us/library/gg882383\(v=ax.60\)).
+For details about customizing help, see [Help System Development](https://technet.microsoft.com/en-us/library/gg882383\(v=ax.60\)).
 
 ## How sites relate to the customer lifecycle
 
@@ -253,5 +245,5 @@ Our websites are organized to support the customer lifecycle. Each phase is supp
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

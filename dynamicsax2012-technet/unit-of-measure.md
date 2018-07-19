@@ -1,4 +1,4 @@
-﻿---
+---
 title: " unit of measure"
 TOCTitle: " unit of measure"
 ms:assetid: DynamicsAXGlossary.210517
@@ -21,5 +21,5 @@ A division of quantity established in calibrated or normative systems of measure
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

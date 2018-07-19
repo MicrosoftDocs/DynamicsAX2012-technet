@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pick an item
 TOCTitle: Pick an item
 ms:assetid: cc3d40cc-ec23-4f79-b010-865ee00adc93
@@ -10,6 +10,8 @@ f1_keywords:
 - Pick
 - consolidated picking
 - order picking
+audience: Application User
+ms.search.region: Global
 ---
 
 # Pick an item 
@@ -135,5 +137,5 @@ You can use the **Picking list** form or the **Picking list registration** form 
 [Picking methods](picking-methods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

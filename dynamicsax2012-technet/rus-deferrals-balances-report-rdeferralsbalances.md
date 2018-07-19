@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Deferrals balances report (RDeferralsBalances)
 TOCTitle: (RUS) Deferrals balances report (RDeferralsBalances)
 ms:assetid: 810e70fa-1099-4656-ab50-c3b6fff52f98
@@ -128,5 +128,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(RUS) Factors for deferrals writing off report (RDeferralsWritingOffFactor)](rus-factors-for-deferrals-writing-off-report-rdeferralswritingofffactor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

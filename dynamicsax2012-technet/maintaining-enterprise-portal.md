@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintaining Enterprise Portal
 TOCTitle: Maintaining Enterprise Portal
 ms:assetid: 7aaf6e2d-ba02-4a1d-a98a-455a400210e4
@@ -22,5 +22,5 @@ The topics in this section provide information that can help system administrato
 [Tips to improve Enterprise Portal and Role Center performance](tips-to-improve-enterprise-portal-and-role-center-performance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

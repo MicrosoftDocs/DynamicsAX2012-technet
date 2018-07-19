@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create import purchase orders
 TOCTitle: (IND) Create import purchase orders
 ms:assetid: c6ddaa6a-a7ba-4505-96fe-d3059a211349
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664898(v=AX.60)
 ms:contentKeyID: 49386227
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create import purchase orders 
@@ -79,5 +81,5 @@ You can modify the default values of the sales tax group and the item sales tax 
 [(IND) Create purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj664490\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

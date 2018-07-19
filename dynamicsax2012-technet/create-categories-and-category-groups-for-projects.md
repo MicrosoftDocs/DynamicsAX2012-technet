@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create categories and category groups for projects
 TOCTitle: Create categories and category groups for projects
 ms:assetid: 9cedf673-f167-49ea-b2b6-87924d417cd9
@@ -11,6 +11,8 @@ f1_keywords:
 - categories
 - category group
 - transaction type
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create categories and category groups for projects 
@@ -71,5 +73,5 @@ To create categories and category groups, you first create the category group, a
 [About transaction types](about-transaction-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

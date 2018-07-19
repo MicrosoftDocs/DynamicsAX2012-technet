@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Work with production jobs in Manufacturing execution'
 TOCTitle: 'Key tasks: Work with production jobs in Manufacturing execution'
 ms:assetid: c4d53512-bb9e-491e-a0fc-9a619cad5778
@@ -18,6 +18,8 @@ f1_keywords:
 - reprioritize jobs - manufacturing execution
 - work with jobs - manufacturing execution
 - start a production job - manufacturing execution
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Work with production jobs in Manufacturing execution 
@@ -308,5 +310,5 @@ Back to top
 [View daily registrations in manufacturing execution](view-daily-registrations-in-manufacturing-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

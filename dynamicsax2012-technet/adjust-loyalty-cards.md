@@ -1,4 +1,4 @@
-﻿---
+---
 title: Adjust loyalty cards
 TOCTitle: Adjust loyalty cards
 ms:assetid: 76cb25f7-c6d8-4bf6-ab99-d3dc0594a81f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailLoyaltyCardRewardPointAdjustment
 - Classes.RetailLoyaltyCardTransferBalance
+audience: Application User
+ms.search.region: Global
 ---
 
 # Adjust loyalty cards 
@@ -89,5 +91,5 @@ You can also run the update loyalty tier process in a batch for all loyalty card
 [Set up loyalty programs](set-up-loyalty-programs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

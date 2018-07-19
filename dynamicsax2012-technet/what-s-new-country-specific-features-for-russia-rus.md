@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Russia (RUS)"
 TOCTitle: Country-specific features for Russia
 ms:assetid: 8c154677-693f-4c6c-b737-91d7ef371da5
@@ -1189,5 +1189,5 @@ For more information about additional country-specific features that we added fo
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

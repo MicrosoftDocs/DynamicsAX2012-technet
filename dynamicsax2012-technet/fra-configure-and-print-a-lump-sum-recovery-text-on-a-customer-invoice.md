@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Configure and print a lump sum recovery text on a customer invoice
 TOCTitle: (FRA) Configure and print a lump sum recovery text on a customer invoice
 ms:assetid: 640087d4-b724-4a79-aeb1-b345c70fc15b
@@ -12,6 +12,8 @@ f1_keywords:
 - Forms.SalesEditLines
 - FR – 00018
 - Forms.CustFormletterParameters
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Configure and print a lump sum recovery text on a customer invoice 
@@ -118,5 +120,5 @@ You can also print the lump sum recovery text on a customer invoice that you pri
 [(FRA) Apply a penalty when a customer payment is past due](fra-apply-a-penalty-when-a-customer-payment-is-past-due.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

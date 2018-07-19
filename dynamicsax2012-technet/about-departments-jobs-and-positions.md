@@ -1,4 +1,4 @@
-﻿---
+---
 title: About departments, jobs, and positions
 TOCTitle: About departments, jobs, and positions
 ms:assetid: 3d68cfa2-c80c-486e-ade9-251a3aaf8e74
@@ -10,6 +10,8 @@ f1_keywords:
 - position
 - department
 - job
+audience: Application User
+ms.search.region: Global
 ---
 
 # About departments, jobs, and positions 
@@ -290,5 +292,5 @@ You can modify the information mentioned in the previous table for a position or
 [Position hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh242466\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

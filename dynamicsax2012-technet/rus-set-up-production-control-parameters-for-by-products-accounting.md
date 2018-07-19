@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up production control parameters for by-products accounting
 TOCTitle: (RUS) Set up production control parameters for by-products accounting
 ms:assetid: bb4936bf-5aca-46d5-87ce-691dfe731b78
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711548(v=AX.60)
 ms:contentKeyID: 49387873
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up production control parameters for by-products accounting 
@@ -52,5 +54,5 @@ Use the **Production control parameters** form to set up the methods that are us
 [(RUS) Production control parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678589\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

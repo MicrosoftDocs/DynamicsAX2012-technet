@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Process purchase order encumbrances and commitments at year end (Public sector)
 TOCTitle: (FRA) Process purchase order encumbrances and commitments at year end (Public sector)
 ms:assetid: 3fdb7b79-2297-47e1-996a-4da7479a979d
@@ -19,6 +19,8 @@ f1_keywords:
 - purchase order encumbrances
 - end of the year
 - purchase order encumbrance
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Process purchase order encumbrances and commitments at year end (Public sector) 
@@ -93,5 +95,5 @@ After you have processed purchase orders and commitments, the commitments in the
 [(FRA) Key tasks: Commitments (Public sector)](fra-key-tasks-commitments-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

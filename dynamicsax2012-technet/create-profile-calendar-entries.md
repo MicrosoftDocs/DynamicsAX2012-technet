@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create profile calendar entries
 TOCTitle: Create profile calendar entries
 ms:assetid: 87764638-694e-4523-94a3-d5acc3cf3ba3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571584(v=AX.60)
 ms:contentKeyID: 36058424
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create profile calendar entries 
@@ -78,5 +80,5 @@ You can create a profile calendar entry for one day or for a longer period of ti
 [Apply profiles using work planner](apply-profiles-using-work-planner.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

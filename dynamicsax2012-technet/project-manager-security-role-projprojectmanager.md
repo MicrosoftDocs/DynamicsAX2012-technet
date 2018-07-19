@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project manager security role (ProjProjectManager)
 TOCTitle: Project manager security role (ProjProjectManager)
 ms:assetid: bc81d5f8-1a14-4798-89e7-7dbfb20254ca
@@ -475,5 +475,5 @@ In Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack, no pr
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

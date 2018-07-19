@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About sales complementary fiscal documents
 TOCTitle: (BRA) About sales complementary fiscal documents
 ms:assetid: a4b50672-3a96-4eaa-9394-29e17ff43345
@@ -12,6 +12,8 @@ f1_keywords:
 - complementary invoices
 - about complementary invoices
 - sales complementary invoices
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About sales complementary fiscal documents 
@@ -40,5 +42,5 @@ The tax groups that you select for the sales complementary fiscal document must 
 [(BRA) Create and post a sales complementary fiscal document](bra-create-and-post-a-sales-complementary-fiscal-document.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Organization hierarchies
 TOCTitle: Organization hierarchies
 ms:assetid: ed0999cf-d17e-4e60-aca4-1c130e1ea0a5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn223357(v=AX.60)
 ms:contentKeyID: 54453516
 ms.date: 11/19/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Organization hierarchies 
@@ -285,5 +287,5 @@ To use a hierarchy in this scenario, you must assign the **Project management** 
 For more information, see [View project transactions](view-project-transactions.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

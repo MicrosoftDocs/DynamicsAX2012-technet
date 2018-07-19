@@ -1,4 +1,4 @@
-﻿---
+---
 title: About methods for calculating the cost to complete a project
 TOCTitle: About methods for calculating the cost to complete a project
 ms:assetid: e58923cd-4fc6-44c3-8600-4b66361709f2
@@ -10,6 +10,8 @@ f1_keywords:
 - cost to complete
 - estimate
 - forecasting
+audience: Application User
+ms.search.region: Global
 ---
 
 # About methods for calculating the cost to complete a project 
@@ -51,7 +53,7 @@ You can choose from six methods to calculate the cost to complete a project. You
 <li><p>Maintain, decrease, or increase the estimates for the next period.</p></li>
 </ol>
 <p>The system does not automatically decrease the forecasted estimates. Therefore, we recommend that you maintain an original forecast model on the Fixed-price project to establish a baseline to compare with when the project is completed.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>Use at least two forecast models when you apply this approach. One model should contain the original forecast. For the other, you should copy forecast transactions from another model. In the <STRONG>Create estimate</STRONG> form, select a model in the <STRONG>Copy from model</STRONG> field. This method is valid for Fixed-price and Investment projects only.</P>
@@ -64,7 +66,7 @@ You can choose from six methods to calculate the cost to complete a project. You
 <td><p>The <strong>Remaining budget</strong> method uses a remaining budget model to arrive at the cost to complete the project.</p>
 <p>When you use this method, the actual costs and the forecasted amounts in the remaining budget model are added together to get a total cost. Before you use this method, a remaining budget model must be set up to deduct transactions based on actual transactions that are recorded in the system. To do this, make sure that the check boxes are selected in the <strong>Automatic forecast reduction</strong> group in the <strong>Forecast models</strong> form. (Click <strong>Project management and accounting</strong> &gt; <strong>Setup</strong> &gt; <strong>Forecasts</strong> &gt; <strong>Forecast models</strong>.)</p>
 <p>Typically, a remaining budget is copied from an original budget. As transactions are entered, the transactions on the remaining budget are decreased. As the project progresses, if you determine that the remaining budget must be adjusted, you can charge forecast transactions to the remaining budget.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>The <STRONG>Remaining budget</STRONG> method can be applied only if a forecast model is attached to the estimate.</P>
@@ -95,5 +97,5 @@ You can choose from six methods to calculate the cost to complete a project. You
 [Examples: Cost to complete methods](examples-cost-to-complete-methods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

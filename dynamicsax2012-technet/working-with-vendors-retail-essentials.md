@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with vendors (Retail essentials)
 TOCTitle: Working with vendors (Retail essentials)
 ms:assetid: d6836598-6d1b-47e3-a770-f2e612078b33
@@ -58,5 +58,5 @@ When you create a vendor account, you enter information about the vendor in a ve
 [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

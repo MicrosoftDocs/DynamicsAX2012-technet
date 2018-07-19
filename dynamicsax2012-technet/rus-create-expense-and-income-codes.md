@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create expense and income codes
 TOCTitle: (RUS) Create expense and income codes
 ms:assetid: d85d063f-1d86-4434-8d53-92aa77a00886
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923595(v=AX.60)
 ms:contentKeyID: 52075438
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create expense and income codes 
@@ -85,5 +87,5 @@ You can create expense or income codes in either the expense codes directory or 
 [(RUS) Synchronize the directory of expense and income codes](https://technet.microsoft.com/en-us/library/jj665243\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

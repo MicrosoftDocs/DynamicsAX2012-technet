@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up electronic signatures
 TOCTitle: Set up electronic signatures
 ms:assetid: 02cde6b5-126c-41e6-9bb7-746d7b4ff93a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - compliance
 - e-signature
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up electronic signatures 
@@ -23,5 +25,5 @@ After the configuration key has been enabled, the administrator must set up elec
 After the administrator has set up the system, users must request certificates and set up passwords for them. Then, users can sign documents electronically.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

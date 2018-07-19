@@ -1,4 +1,4 @@
-﻿---
+---
 title: Planning and architecture of reporting
 TOCTitle: Planning and architecture
 ms:assetid: 0dd08f6d-6f9c-45fa-b158-e5f43636d940
@@ -20,5 +20,5 @@ Planning is required to successfully implement the reporting features of Microso
 [Planning for reporting in Microsoft Dynamics AX](planning-for-reporting-in-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

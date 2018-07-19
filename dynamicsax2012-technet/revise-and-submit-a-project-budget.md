@@ -1,4 +1,4 @@
-﻿---
+---
 title: Revise and submit a project budget
 TOCTitle: Revise and submit a project budget
 ms:assetid: 18b22ef8-a364-4a8d-a96c-a602d63ff0d2
@@ -14,6 +14,8 @@ f1_keywords:
 - project budget revision
 - revise budget
 - revise project budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # Revise and submit a project budget 
@@ -58,5 +60,5 @@ You can revise a project budget as many times as necessary. The sum total of all
 [Project budget allocation (form)](https://technet.microsoft.com/en-us/library/hh242461\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

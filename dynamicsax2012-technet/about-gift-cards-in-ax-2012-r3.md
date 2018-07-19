@@ -1,4 +1,4 @@
-﻿---
+---
 title: About gift cards in AX 2012 R3
 TOCTitle: About gift cards in AX 2012 R3
 ms:assetid: d457f119-8160-4253-a9b9-567b27aca8d3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497834(v=AX.60)
 ms:contentKeyID: 62200164
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About gift cards in AX 2012 R3 
@@ -73,5 +75,5 @@ To set up gift cards in AX 2012 R3, complete the following tasks:
 [Sell gift cards or add funds to them](sell-gift-cards-or-add-funds-to-them.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

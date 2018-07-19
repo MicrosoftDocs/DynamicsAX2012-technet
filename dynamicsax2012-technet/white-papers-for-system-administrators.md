@@ -1,4 +1,4 @@
-﻿---
+---
 title: White papers for system administrators
 TOCTitle: White papers for system administrators
 ms:assetid: 7d45fd3c-9ea7-4c13-a60c-de9d252fce27
@@ -62,5 +62,5 @@ The white papers in this section provide information about recommended practices
 [Windows Event Tracing in Microsoft Dynamics AX (White paper)](windows-event-tracing-in-microsoft-dynamics-ax-white-paper.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create and share an Excel template by using the Office Add-ins'
 TOCTitle: 'Key tasks: Create and share an Excel template by using the Office Add-ins'
 ms:assetid: ddd117d5-45aa-4b22-b99b-31d54536dea0
@@ -11,6 +11,8 @@ f1_keywords:
 - template
 - Office add-in
 - spreadsheet
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create and share an Excel template by using the Office Add-ins 
@@ -91,5 +93,5 @@ Back to top
 [Set up financial dimensions for integrating applications (Excel and Management Reporter)](set-up-financial-dimensions-for-integrating-applications-excel-and-management-reporter.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

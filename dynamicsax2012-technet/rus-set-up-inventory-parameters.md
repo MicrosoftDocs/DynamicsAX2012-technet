@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up inventory parameters
 TOCTitle: (RUS) Set up inventory parameters
 ms:assetid: 9b136448-a337-46e3-9cf4-ef92072d0e74
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678518(v=AX.60)
 ms:contentKeyID: 49387748
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up inventory parameters 
@@ -38,5 +40,5 @@ Use the **Inventory and warehouse management parameters** form to set up the par
 [(RUS) Create and post a purchase order based on an inventory profile](rus-create-and-post-a-purchase-order-based-on-an-inventory-profile.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Generate Report 349
 TOCTitle: (ESP) Generate Report 349
 ms:assetid: 4d19eacd-0ff1-4389-96f3-cbb37dc6550b
@@ -12,6 +12,8 @@ f1_keywords:
 - ES - 00001
 - MsDynAx060.Forms.EUSalesList
 - MsDynAx060.Forms.EUSalesListSelection
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Generate Report 349 
@@ -70,5 +72,5 @@ Use this procedure to transfer customer transactions and vendor transactions to 
 10. Click **OK** to generate Report 349.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

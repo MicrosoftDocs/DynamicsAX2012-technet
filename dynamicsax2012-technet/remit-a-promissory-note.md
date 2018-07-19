@@ -1,4 +1,4 @@
-﻿---
+---
 title: Remit a promissory note
 TOCTitle: Remit a promissory note
 ms:assetid: 2057a405-7686-4f53-b626-c9058303ed8a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496785(v=AX.60)
 ms:contentKeyID: 36966699
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Remit a promissory note 
@@ -68,5 +70,5 @@ Use a remittance journal to generate a remittance file that you can send to your
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

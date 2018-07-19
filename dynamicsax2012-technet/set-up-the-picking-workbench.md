@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up the picking workbench
 TOCTitle: Set up the picking workbench
 ms:assetid: dc395a94-c120-4223-b662-df02d36a90f3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn715985(v=AX.60)
 ms:contentKeyID: 62200169
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up the picking workbench 
@@ -113,5 +115,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [About release sales order picking/release transfer order picking](about-release-sales-order-picking-release-transfer-order-picking.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

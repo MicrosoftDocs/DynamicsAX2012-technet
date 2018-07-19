@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reporting architecture
 TOCTitle: Reporting architecture
 ms:assetid: 93229fa6-e507-47a9-8a8b-1d2cb28f4bfe
@@ -128,5 +128,5 @@ To better understand how a report is rendered, review the following steps:
     The Microsoft Dynamics AX client displays the report to the user in the report viewer control.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

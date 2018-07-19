@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with service agreements
 TOCTitle: Working with service agreements
 ms:assetid: d159fa8e-6613-4839-97ac-e95859639ee9
@@ -14,6 +14,8 @@ f1_keywords:
 - agreement groups
 - time windows
 - service management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with service agreements 
@@ -38,5 +40,5 @@ The topics in this section provide information about service agreements.
 [Create service template group](create-service-template-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

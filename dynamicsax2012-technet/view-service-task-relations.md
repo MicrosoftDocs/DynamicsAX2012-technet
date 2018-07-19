@@ -1,4 +1,4 @@
-﻿---
+---
 title: View service task relations
 TOCTitle: View service task relations
 ms:assetid: ab70165c-a29a-4496-bd18-07f68b05d77f
@@ -11,6 +11,8 @@ f1_keywords:
 - EPServiceTaskRelationInfo
 - EPServiceTaskRelationList
 - task relations
+audience: Application User
+ms.search.region: Global
 ---
 
 # View service task relations 
@@ -49,5 +51,5 @@ After a service task relation is set up between a service task and a service agr
 [Create or modify service orders and repair lines](create-or-modify-service-orders-and-repair-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

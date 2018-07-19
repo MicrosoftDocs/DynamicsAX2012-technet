@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Sales tax (Italy) report (TaxReport_IT)
 TOCTitle: (ITA) Sales tax (Italy) report (TaxReport_IT)
 ms:assetid: ca767b87-6900-40ea-8c99-70e0a40e9787
@@ -161,5 +161,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(ITA) Italian sales tax book sections (form)](https://technet.microsoft.com/en-us/library/aa600627\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

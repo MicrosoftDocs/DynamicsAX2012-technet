@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a default tax profile for a customer or vendor
 TOCTitle: Set up a default tax profile for a customer or vendor
 ms:assetid: 7e459c17-ceaa-4cfd-9bd1-73e9abff65e9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571535(v=AX.60)
 ms:contentKeyID: 37822148
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a default tax profile for a customer or vendor 
@@ -56,5 +58,5 @@ Net price, which excludes sales tax: 10 \* 10.00 = 100.00
 [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

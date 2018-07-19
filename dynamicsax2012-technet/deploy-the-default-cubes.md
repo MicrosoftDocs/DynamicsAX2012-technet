@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy the default cubes
 TOCTitle: Deploy the default cubes
 ms:assetid: 581f609e-588c-45ce-bc10-32a863ef4589
@@ -296,5 +296,5 @@ To complete this procedure, you must meet the following requirements:
             Publish-AXAnalysisProject –ProjectName [SSASProjectName] –PartitionKeys [PartitionKey1], [PartitionKey2] -ServerName [SSASServerName]
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

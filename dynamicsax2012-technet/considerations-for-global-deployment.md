@@ -1,4 +1,4 @@
-﻿---
+---
 title: Considerations for global deployment
 TOCTitle: Considerations for global deployment
 ms:assetid: 589476a9-6ab5-43af-b771-34d46b556095
@@ -268,5 +268,5 @@ Microsoft Dynamics AX 2012 R2 adds the following languages.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

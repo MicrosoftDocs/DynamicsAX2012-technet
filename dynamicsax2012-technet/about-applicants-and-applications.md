@@ -1,4 +1,4 @@
-﻿---
+---
 title: About applicants and applications
 TOCTitle: About applicants and applications
 ms:assetid: f4f660cd-2f47-40d1-aef2-bf8a2340582a
@@ -11,6 +11,8 @@ f1_keywords:
 - applicant
 - candidate
 - recruitment
+audience: Application User
+ms.search.region: Global
 ---
 
 # About applicants and applications 
@@ -111,5 +113,5 @@ If an application must be reviewed by several workers, you can use the **Applica
 [Human resource parameters (form)](https://technet.microsoft.com/en-us/library/aa596451\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

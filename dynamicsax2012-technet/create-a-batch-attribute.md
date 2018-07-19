@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a batch attribute
 TOCTitle: Create a batch attribute
 ms:assetid: 281555d7-5a21-4f97-91c8-e7d2255748b1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - batch attributes
 - create batch attributes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a batch attribute 
@@ -47,5 +49,5 @@ Use this procedure to create batch attributes. Batch attributes are characterist
 [Batch attributes (form)](https://technet.microsoft.com/en-us/library/hh209255\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

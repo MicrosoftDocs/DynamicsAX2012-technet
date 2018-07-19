@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Depreciate/amortize assets overview
 TOCTitle: (JPN) Depreciate/amortize assets overview
 ms:assetid: 2c4a224b-b864-411a-864c-c3e5706744ef
@@ -14,6 +14,8 @@ f1_keywords:
 - asset retirement obligation
 - de[reciate
 - retirement
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Depreciate/amortize assets overview 
@@ -38,5 +40,5 @@ The topics in this section provide information about how to depreciate and amort
 [(JPN) Categorize a fixed asset as a deferred, low value, or lump sum fixed asset](jpn-categorize-a-fixed-asset-as-a-deferred-low-value-or-lump-sum-fixed-asset.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

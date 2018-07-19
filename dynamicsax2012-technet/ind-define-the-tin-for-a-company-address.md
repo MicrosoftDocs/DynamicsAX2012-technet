@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Define the TIN for a company address
 TOCTitle: (IND) Define the TIN for a company address
 ms:assetid: 67cb4009-4111-4550-84c3-d47a5bba8351
@@ -12,6 +12,8 @@ f1_keywords:
 - company address
 - Tax Identification Number
 - TIN
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Define the TIN for a company address 
@@ -46,5 +48,5 @@ You can set up different Tax Identification Numbers (TINs) for the various alter
 [(IND) Define TINs for vendors](ind-define-tins-for-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

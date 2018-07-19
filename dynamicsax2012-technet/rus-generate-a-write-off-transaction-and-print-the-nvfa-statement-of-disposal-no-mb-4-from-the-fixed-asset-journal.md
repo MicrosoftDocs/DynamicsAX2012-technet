@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate a write-off transaction and print the NVFA statement of disposal (No. MB-4) from the fixed asset journal
 TOCTitle: (RUS) Generate a write-off transaction and print the NVFA statement of disposal (No. MB-4) from the fixed asset journal
 ms:assetid: e4b50246-41af-4409-af15-43daed730dd2
@@ -11,6 +11,8 @@ f1_keywords:
 - Russia
 - special rigging
 - working clothes
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate a write-off transaction and print the NVFA statement of disposal (No. MB-4) from the fixed asset journal 
@@ -91,5 +93,5 @@ You can generate and print the **NVFA Statement of disposal (No. MB-4)** report 
 [(RUS) Journal voucher (form)](https://technet.microsoft.com/en-us/library/jj923409\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

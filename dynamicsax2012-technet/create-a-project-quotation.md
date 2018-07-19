@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a project quotation
 TOCTitle: Create a project quotation
 ms:assetid: d1440fe5-cea8-486f-952a-5b5a02bf0215
@@ -12,6 +12,8 @@ f1_keywords:
 - quotation
 - prospect
 - create quotation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a project quotation 
@@ -130,5 +132,5 @@ If you need multiple identical quotations for various sales targets, you can cre
 9.  Click **OK** in the **Mass create quotations** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

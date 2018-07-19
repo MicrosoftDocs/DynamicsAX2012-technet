@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain project invoices
 TOCTitle: Maintain project invoices
 ms:assetid: 90142164-7030-4050-9304-a6d631f0d292
@@ -8,6 +8,8 @@ ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
 - project invoice
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain project invoices 
@@ -22,5 +24,5 @@ The following topics provide information about maintaining project invoices.
 [Creating credit notes](creating-credit-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

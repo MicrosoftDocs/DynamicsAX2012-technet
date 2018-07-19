@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Split a DFIA license
 TOCTitle: (IND) Split a DFIA license
 ms:assetid: afc41858-4f2e-463f-a632-528a4090d60d
@@ -11,6 +11,8 @@ f1_keywords:
 - (IND)
 - India
 - DFIA license
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Split a DFIA license 
@@ -75,5 +77,5 @@ Additionally, the following details are updated in the **Import details** form:
 [(IND) Import details - AA/DFIA (form)](https://technet.microsoft.com/en-us/library/jj664632\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

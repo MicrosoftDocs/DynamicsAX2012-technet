@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Organize and edit products in Commerce Services
 TOCTitle: (USA) Organize and edit products in Commerce Services
 ms:assetid: 5326c3d4-c5df-4ebe-b248-a7edceeae413
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208950(v=AX.60)
 ms:contentKeyID: 36057294
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Organize and edit products in Commerce Services 
@@ -62,5 +64,5 @@ You can also edit the properties of your products and add images of them to make
 [(USA) List products and catalogs in online marketplaces](usa-list-products-and-catalogs-in-online-marketplaces.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up data types for requisites
 TOCTitle: (RUS) Set up data types for requisites
 ms:assetid: c315aa00-5493-43a7-a96f-56fc4585c442
@@ -10,6 +10,8 @@ f1_keywords:
 - data types
 - requisites
 - set up data types
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up data types for requisites 
@@ -261,5 +263,5 @@ Use the following procedure to set up data types for requisites that are used in
 [(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

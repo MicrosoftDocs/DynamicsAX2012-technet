@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Enter details for a fixed asset repair statement
 TOCTitle: (LTU) Enter details for a fixed asset repair statement
 ms:assetid: 25902c2e-d1c8-43f6-b4db-ac40b359b7fb
@@ -11,6 +11,8 @@ f1_keywords:
 - fixed asset repair
 - repair amount
 - repair cost
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Enter details for a fixed asset repair statement 
@@ -41,5 +43,5 @@ When the repair cost for a fixed asset exceeds 50 percent of the fixed asset’s
 [(LTU) Repair (form)](https://technet.microsoft.com/en-us/library/jj665105\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

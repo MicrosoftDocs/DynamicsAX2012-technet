@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Generate 26Q or 27Q quarterly statements for TDS
 TOCTitle: (IND) Generate 26Q or 27Q quarterly statements for TDS
 ms:assetid: 05b0a41e-c523-4677-ad86-3c7b4cd4a97d
@@ -16,6 +16,8 @@ f1_keywords:
 - generate quarterly statements
 - quarterly statements
 - TDS
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Generate 26Q or 27Q quarterly statements for TDS 
@@ -96,5 +98,5 @@ The following prerequisites are required to generate Form 26Q statements:
 [(IND) Withholding tax reporting codes (form)](https://technet.microsoft.com/en-us/library/jj664934\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

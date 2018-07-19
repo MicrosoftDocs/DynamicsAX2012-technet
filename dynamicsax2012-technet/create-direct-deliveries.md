@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create direct deliveries
 TOCTitle: Create direct deliveries
 ms:assetid: ebe33658-f6c4-4192-92a9-6466244643db
@@ -10,6 +10,8 @@ f1_keywords:
 - drop ship
 - drop shipment
 - create a purchase order directly from a sales order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create direct deliveries 
@@ -58,5 +60,5 @@ All updates to the selected sales order lines are now performed by using the **P
 [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

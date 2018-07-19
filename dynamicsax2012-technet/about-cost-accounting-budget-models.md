@@ -1,4 +1,4 @@
-﻿---
+---
 title: About cost accounting budget models
 TOCTitle: About cost accounting budget models
 ms:assetid: 3cf2d92b-895f-41d3-a064-106e48e7b807
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570267(v=AX.60)
 ms:contentKeyID: 36056671
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About cost accounting budget models 
@@ -72,5 +74,5 @@ Click **Cost accounting** \> **Setup** \> **Budget model**.
 [About flexible budgets](about-flexible-budgets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

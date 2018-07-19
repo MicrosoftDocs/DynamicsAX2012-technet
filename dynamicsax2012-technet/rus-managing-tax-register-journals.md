@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Managing tax register journals
 TOCTitle: (RUS) Managing tax register journals
 ms:assetid: 9dd79258-4816-475f-9fb7-1133aa5cf529
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678532(v=AX.60)
 ms:contentKeyID: 49387760
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Managing tax register journals 
@@ -44,5 +46,5 @@ The following topics provide information about managing tax register journals.
 [(RUS) Calculation algorithm for WIP and FP estimation](rus-calculation-algorithm-for-wip-and-fp-estimation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

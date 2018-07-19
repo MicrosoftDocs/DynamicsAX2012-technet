@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Generate a fixed asset movement report
 TOCTitle: (LVA) Generate a fixed asset movement report
 ms:assetid: e7ef9abd-bb0e-454a-ac64-605ea639893f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839642(v=AX.60)
 ms:contentKeyID: 50396789
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Generate a fixed asset movement report 
@@ -62,5 +64,5 @@ The fixed asset movement report lists the movements of a specific fixed asset wi
 [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

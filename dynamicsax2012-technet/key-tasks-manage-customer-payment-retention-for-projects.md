@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Manage customer payment retention for projects'
 TOCTitle: 'Key tasks: Manage customer payment retention for projects'
 ms:assetid: f25015ab-14b9-4a9a-9836-cc0d38980896
@@ -19,6 +19,8 @@ f1_keywords:
 - partial payments
 - payment retention
 - retention summary
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Manage customer payment retention for projects 
@@ -167,5 +169,5 @@ Back to top
 [Key tasks: Manage vendor payment retention for projects](key-tasks-manage-vendor-payment-retention-for-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

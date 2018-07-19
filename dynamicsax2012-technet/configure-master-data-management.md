@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure Master Data Management
 TOCTitle: Configure Master Data Management
 ms:assetid: aba9a95c-69fc-43bc-8d49-162eca16601e
@@ -214,5 +214,5 @@ To filter data during a pull operation from the SQL MDS hub to an AX 2012 spoke,
 12. In the **Synchronization settings** form, in the **Subscription view for import** field, select the new view, and then click **Close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

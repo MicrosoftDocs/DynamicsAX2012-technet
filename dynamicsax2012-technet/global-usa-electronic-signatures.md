@@ -1,4 +1,4 @@
-﻿---
+---
 title: (Global, USA) Electronic signatures
 TOCTitle: (Global, USA) Electronic signatures
 ms:assetid: 75a4698c-9fba-4056-828e-e4f3940245b8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - compliance
 - e-signatures
+audience: Application User
+ms.search.region: Global
 ---
 
 # (Global, USA) Electronic signatures 
@@ -43,5 +45,5 @@ The following topics are included:
 [Review electronic signatures](review-electronic-signatures.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

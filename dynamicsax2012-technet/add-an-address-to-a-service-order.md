@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add an address to a service order
 TOCTitle: Add an address to a service order
 ms:assetid: 58bfa7d0-020b-45e8-8a5d-3a37d97ea462
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549071(v=AX.60)
 ms:contentKeyID: 62629946
 ms.date: 07/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add an address to a service order 
@@ -64,5 +66,5 @@ To add an alternative address to a service order, follow these steps:
 [Global address book overview](global-address-book-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

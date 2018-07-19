@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up customer prenotes
 TOCTitle: Set up customer prenotes
 ms:assetid: 58e0abd2-043b-4660-a1c3-965cd89606fa
@@ -15,6 +15,8 @@ f1_keywords:
 - account number
 - automated clearing hourse
 - electronic payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up customer prenotes 
@@ -89,5 +91,5 @@ Follow these steps to create a customer account prenote for your organization’
 [Create prenotes (form)](https://technet.microsoft.com/en-us/library/hh209352\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

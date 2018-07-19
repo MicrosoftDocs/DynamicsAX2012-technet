@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan an implementation
 TOCTitle: Plan an implementation
 ms:assetid: 5ee18027-5b36-4b23-bd09-e9546141fc92
@@ -38,5 +38,5 @@ The following topics are included in this section:
 [System architecture](system-architecture.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

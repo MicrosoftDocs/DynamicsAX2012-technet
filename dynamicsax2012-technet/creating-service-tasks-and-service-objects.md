@@ -1,4 +1,4 @@
-﻿---
+---
 title: Creating service tasks and service objects
 TOCTitle: Creating service tasks and service objects
 ms:assetid: 42ba5e96-7ddb-44b0-a900-95e9a5422749
@@ -13,6 +13,8 @@ f1_keywords:
 - object groups
 - service object relation
 - service task
+audience: Application User
+ms.search.region: Global
 ---
 
 # Creating service tasks and service objects 
@@ -43,5 +45,5 @@ The topics in this section provide information about how to create service tasks
 [Create a template BOM](create-a-template-bom.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

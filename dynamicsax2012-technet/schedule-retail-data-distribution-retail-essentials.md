@@ -1,4 +1,4 @@
-﻿---
+---
 title: Schedule Retail data distribution (Retail essentials)
 TOCTitle: Schedule Retail data distribution (Retail essentials)
 ms:assetid: 1625d6e1-71ba-4c9b-a1c0-186ea1b9271b
@@ -20,5 +20,5 @@ The topics in this section provide information about how to run and modify jobs 
 [Schedule and run jobs in Retail Scheduler (Retail essentials)](schedule-and-run-jobs-in-retail-scheduler-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

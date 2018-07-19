@@ -1,4 +1,4 @@
-﻿---
+---
 title: Electronic Form W-2 exported file (PRLW2File)
 TOCTitle: Electronic Form W-2 exported file (PRLW2File)
 ms:assetid: dabb82c6-7eaf-4ed6-82d7-1e7e25a3afa0
@@ -197,5 +197,5 @@ The data on this report comes from the following sources:
   - PayrollFormW2BoxReportingAdjustment
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

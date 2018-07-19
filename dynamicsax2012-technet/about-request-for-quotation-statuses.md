@@ -1,4 +1,4 @@
-﻿---
+---
 title: About request for quotation statuses
 TOCTitle: About request for quotation statuses
 ms:assetid: 3b97a16c-e29e-48c0-a54b-2cf14dbf2885
@@ -20,6 +20,8 @@ f1_keywords:
 - PurchRFQCaseTableListPage
 - MsDynAx060.Forms.VendRFQJournal
 - statuses
+audience: Application User
+ms.search.region: Global
 ---
 
 # About request for quotation statuses 
@@ -213,5 +215,5 @@ The following table shows RFQ status changes as you accept and reject vendors’
 For more information about how to accept and reject bids, see [Compare bids and award a contract](compare-bids-and-award-a-contract.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

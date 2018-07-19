@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security settings for reports
 TOCTitle: Security settings for reports
 ms:assetid: fd45fcf5-f9c7-4f28-98c9-be021a6cbfe2
@@ -93,5 +93,5 @@ If you are running Reporting Services in SharePoint integrated mode, you must gr
 Some reports use Analysis Services cubes to access data. Before users can view data on these reports, you must assign the users to roles in Analysis Services. For more information, see [Grant users access to cubes](grant-users-access-to-cubes.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

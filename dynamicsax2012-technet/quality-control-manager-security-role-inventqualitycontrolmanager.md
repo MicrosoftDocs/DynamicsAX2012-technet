@@ -1,4 +1,4 @@
-﻿---
+---
 title: Quality control manager security role (InventQualityControlManager)
 TOCTitle: Quality control manager security role (InventQualityControlManager)
 ms:assetid: 30e76aac-2441-497a-a479-7c92330c6c67
@@ -167,5 +167,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Inquiries for EPCG transactions
 TOCTitle: (IND) Inquiries for EPCG transactions
 ms:assetid: 7cea9e69-9b1d-4dc9-8db3-730e8eb287a2
@@ -12,6 +12,8 @@ f1_keywords:
 - EPCG transactions
 - EPCG transactions inquiries
 - Inquiries for EPCG transactions
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Inquiries for EPCG transactions 
@@ -32,5 +34,5 @@ The topics in this section contain information about inquiries for EPCG transact
 [(IND) Verify the block extension details](ind-verify-the-block-extension-details.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

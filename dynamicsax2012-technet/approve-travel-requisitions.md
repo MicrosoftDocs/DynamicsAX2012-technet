@@ -1,4 +1,4 @@
-﻿---
+---
 title: Approve travel requisitions
 TOCTitle: Approve travel requisitions
 ms:assetid: 22eded53-c478-4d43-82c0-7e0e4086f65d
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - TrvRequisitionsApproveList
+audience: Application User
+ms.search.region: Global
 ---
 
 # Approve travel requisitions 
@@ -42,5 +44,5 @@ If you are a user who approves travel requisitions, you can use the **My approva
       - **View history** – Open the **Workflow history details** page, where you can view the history and details of the travel requisition in the approval process. For more information, see [View the status and history of a document (Enterprise Portal)](view-the-status-and-history-of-a-document-enterprise-portal.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

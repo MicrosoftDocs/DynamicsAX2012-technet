@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create discussion types
 TOCTitle: Create discussion types
 ms:assetid: 00f08db5-9c05-43d6-95c5-a05778a99fb2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242093(v=AX.60)
 ms:contentKeyID: 36055920
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create discussion types 
@@ -42,5 +44,5 @@ You must create discussion types that you can use to categorize discussions befo
 [Discussions (form)](https://technet.microsoft.com/en-us/library/aa587357\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

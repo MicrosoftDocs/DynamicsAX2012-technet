@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up item sales tax groups for customer advance payment
 TOCTitle: (RUS) Set up item sales tax groups for customer advance payment
 ms:assetid: e0c45d13-0db0-4d32-8ca1-570bd2242433
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711693(v=AX.60)
 ms:contentKeyID: 49388016
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up item sales tax groups for customer advance payment 
@@ -52,5 +54,5 @@ Use the **Item sales tax groups** form to set up item sales tax groups for custo
 [(RUS) Set up sales tax groups for customer advance payment](rus-set-up-sales-tax-groups-for-customer-advance-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

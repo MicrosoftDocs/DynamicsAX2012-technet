@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) About indirect trade
 TOCTitle: (HUN) About indirect trade
 ms:assetid: 2ba9601b-8a73-4346-bbee-b77b17f12d10
@@ -11,6 +11,8 @@ f1_keywords:
 - Intrastat
 - Hungary indirect trade
 - indirect trade
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) About indirect trade 
@@ -55,5 +57,5 @@ Customs duty on exported items is recorded in one of the following ways:
 [About Intrastat](about-intrastat.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

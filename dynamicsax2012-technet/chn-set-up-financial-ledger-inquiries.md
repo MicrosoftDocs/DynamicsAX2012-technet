@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Set up financial ledger inquiries
 TOCTitle: (CHN) Set up financial ledger inquiries
 ms:assetid: e8958690-fc93-48aa-8823-a1bb3e311659
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664144(v=AX.60)
 ms:contentKeyID: 49384726
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Set up financial ledger inquiries 
@@ -46,5 +48,5 @@ You can print various inquiry reports on both preprinted papers and plain papers
 [(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664137\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

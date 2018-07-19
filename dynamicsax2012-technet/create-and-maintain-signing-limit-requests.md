@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and maintain signing limit requests
 TOCTitle: Create and maintain signing limit requests
 ms:assetid: d36c6855-1fae-4f41-a1fd-50f867203ae8
@@ -12,6 +12,8 @@ f1_keywords:
 - HRPLimitReAttestation
 - HRPManageLimitRequests
 - HRPViewLimitRequest
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and maintain signing limit requests 
@@ -124,5 +126,5 @@ Your signing limit is renewed for the number of months displayed in the **Confir
 [Maintain signing limit requests for your workers](maintain-signing-limit-requests-for-your-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Windows Logo Certification for Microsoft Dynamics AX 2012 Setup '
 TOCTitle: 'Windows Logo Certification for Microsoft Dynamics AX 2012 Setup '
 ms:assetid: 2de0535e-7f26-4fa7-a2e4-5417bd4a7f13
@@ -690,5 +690,5 @@ A number of registry keys may be left over following the uninstallation of Micro
       - HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\services\\LanmanServer\\Shares
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

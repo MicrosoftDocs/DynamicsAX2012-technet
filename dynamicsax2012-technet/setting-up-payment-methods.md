@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up payment methods
 TOCTitle: Setting up payment methods
 ms:assetid: 03e0cc33-f79e-43a8-a095-12abcea22c13
@@ -11,6 +11,8 @@ f1_keywords:
 - payment methods
 - setting up payment methods
 - method of payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up payment methods 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to set up payment metho
 [Key tasks: Letter of credit for the export of goods](key-tasks-letter-of-credit-for-the-export-of-goods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

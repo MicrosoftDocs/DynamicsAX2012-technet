@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Overdue payments for VAT transactions
 TOCTitle: (POL) Overdue payments for VAT transactions
 ms:assetid: 8bdae5f1-9523-4959-9124-b7b788e991b7
@@ -12,6 +12,8 @@ f1_keywords:
 - Overdue payment
 - Overdue payments
 - overdue vendor debt
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Overdue payments for VAT transactions 
@@ -68,5 +70,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [(POL) Create and manage an overdue vendor debt VAT journal](pol-create-and-manage-an-overdue-vendor-debt-vat-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

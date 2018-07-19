@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Portal Benchmark for Microsoft Dynamics AX 2012
 TOCTitle: Enterprise Portal Benchmark for Microsoft Dynamics AX 2012
 ms:assetid: 78620ec1-47bc-4df0-a521-19d43a642a2b
@@ -28,5 +28,5 @@ We have published the following two papers about the Enterprise Portal benchmark
   - [Enterprise Portal benchmark for Microsoft Dynamics AX (summary)](http://go.microsoft.com/fwlink/?linkid=245631) – This paper provides a summary of the Enterprise Portal benchmark results, and can be downloaded from CustomerSource and PartnerSource.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

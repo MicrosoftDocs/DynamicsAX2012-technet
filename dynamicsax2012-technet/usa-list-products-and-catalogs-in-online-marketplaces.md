@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) List products and catalogs in online marketplaces
 TOCTitle: (USA) List products and catalogs in online marketplaces
 ms:assetid: cc209967-a98d-41db-9933-6f6cf863b7d6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242900(v=AX.60)
 ms:contentKeyID: 36059447
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) List products and catalogs in online marketplaces 
@@ -44,5 +46,5 @@ After you organize and edit the products that you want to sell online, you can l
 [(USA) Download orders from online marketplaces](usa-download-orders-from-online-marketplaces.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

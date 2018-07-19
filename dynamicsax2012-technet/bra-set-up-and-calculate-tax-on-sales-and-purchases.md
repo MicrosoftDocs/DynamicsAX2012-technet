@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up and calculate tax on sales and purchases
 TOCTitle: (BRA) Set up and calculate tax on sales and purchases
 ms:assetid: ad29bccc-5629-45fc-8d24-23488f7b8331
@@ -11,6 +11,8 @@ f1_keywords:
 - sales and purchases
 - set up tax
 - purchases and sales
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up and calculate tax on sales and purchases 
@@ -207,5 +209,5 @@ When you set up taxes without tax credit:
 [(BRA) Posted sales tax (modified form)](https://technet.microsoft.com/en-us/library/jj710417\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

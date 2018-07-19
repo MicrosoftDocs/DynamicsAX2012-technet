@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a provision for foreseeable losses
 TOCTitle: Set up a provision for foreseeable losses
 ms:assetid: 36b457c7-2a6d-46ae-94c6-cae2c1d94b56
@@ -11,6 +11,8 @@ f1_keywords:
 - project group
 - foreseeable losses
 - investment project
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a provision for foreseeable losses 
@@ -33,5 +35,5 @@ You can use the **Project groups** form to create a provision for foreseeable lo
 [About the provision for foreseeable losses](about-the-provision-for-foreseeable-losses.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

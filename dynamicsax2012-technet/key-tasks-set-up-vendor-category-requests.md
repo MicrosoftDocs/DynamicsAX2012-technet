@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Set up vendor category requests'
 TOCTitle: 'Key tasks: Set up vendor category requests'
 ms:assetid: e0a34904-3bbc-40bd-9324-a5d09c49f21d
@@ -17,6 +17,8 @@ f1_keywords:
 - category requests
 - vendor categories
 - vendor category
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Set up vendor category requests 
@@ -139,5 +141,5 @@ Back to top
 [Maintain vendor category assignments](maintain-vendor-category-assignments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Maintain sales tax transactions for Accounts receivable
 TOCTitle: (IND) Maintain sales tax transactions for Accounts receivable
 ms:assetid: f92c8a4d-fc4c-485b-b469-83000e8b711c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710951(v=AX.60)
 ms:contentKeyID: 49386364
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Maintain sales tax transactions for Accounts receivable 
@@ -22,5 +24,5 @@ The following topics provide information about calculating sales tax in sales tr
 [(IND) Calculate sales tax on a sales order](ind-calculate-sales-tax-on-a-sales-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

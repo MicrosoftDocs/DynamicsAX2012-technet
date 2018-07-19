@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up fixed asset posting profiles
 TOCTitle: (RUS) Set up fixed asset posting profiles
 ms:assetid: 81ba6188-0198-42b1-95d9-561459e10025
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678423(v=AX.60)
 ms:contentKeyID: 49387653
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up fixed asset posting profiles 
@@ -104,5 +106,5 @@ You can set up posting profiles for fixed assets. Posting profiles define the le
 [(RUS) Fixed asset posting profiles (form)](https://technet.microsoft.com/en-us/library/jj853200\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

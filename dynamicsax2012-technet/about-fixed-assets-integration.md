@@ -1,4 +1,4 @@
-﻿---
+---
 title: About fixed assets integration
 TOCTitle: About fixed assets integration
 ms:assetid: 7b41e403-ced1-4504-af92-f2bdd20cd17b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550078(v=AX.60)
 ms:contentKeyID: 44080996
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About fixed assets integration 
@@ -100,5 +102,5 @@ You can also designate a fixed asset that you are creating or manufacturing as p
 [Item posting (form)](https://technet.microsoft.com/en-us/library/aa589971\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

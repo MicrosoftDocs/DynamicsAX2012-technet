@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate service tax for a foreign vendor
 TOCTitle: (IND) Calculate service tax for a foreign vendor
 ms:assetid: 597175e2-8e99-4e21-98cc-0c073257fd9c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.PurchTable
 - MsDynAx060.Forms.PurchTable
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate service tax for a foreign vendor 
@@ -77,5 +79,5 @@ The service tax is calculated from the sales tax group and the item sales tax gr
 [(IND) Calculate service tax for a purchase order](ind-calculate-service-tax-for-a-purchase-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

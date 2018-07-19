@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) TCS statement (report)
 TOCTitle: (IND) TCS statement (report)
 ms:assetid: 5aa4801c-09fd-41a4-91fb-ee1b65571f35
@@ -157,5 +157,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

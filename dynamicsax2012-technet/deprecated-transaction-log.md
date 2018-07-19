@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Transaction log'
 TOCTitle: Transaction log
 ms:assetid: 9574b24e-77cc-4c25-8fa2-73dee721d1c7
@@ -53,5 +53,5 @@ The Transaction log tracks table changes that are made to specific entities and 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

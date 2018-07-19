@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About import fiscal documents
 TOCTitle: (BRA) About import fiscal documents
 ms:assetid: c7c4d6ca-8ce5-4e37-acd1-771e9f33ed79
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - BR - 00006
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About import fiscal documents 
@@ -34,5 +36,5 @@ You can also cancel an incorrect import fiscal document. For more information, s
 [(BRA) About fiscal document text placeholders](bra-about-fiscal-document-text-placeholders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

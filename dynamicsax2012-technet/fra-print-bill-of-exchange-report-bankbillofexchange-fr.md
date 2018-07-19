@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Print bill of exchange report (BankBillOfExchange_FR)
 TOCTitle: (FRA) Print bill of exchange report (BankBillOfExchange_FR)
 ms:assetid: d80a26a2-d473-4c29-bf90-97fde51aa592
@@ -88,5 +88,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About posted hour costs
 TOCTitle: About posted hour costs
 ms:assetid: da3b9716-ea4b-4940-bbe1-4bfc0b9c62cd
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - hour costs
+audience: Application User
+ms.search.region: Global
 ---
 
 # About posted hour costs 
@@ -69,5 +71,5 @@ The following table lists where posted hour costs are debited and credited in th
 [Hour transactions (form)](https://technet.microsoft.com/en-us/library/aa572825\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

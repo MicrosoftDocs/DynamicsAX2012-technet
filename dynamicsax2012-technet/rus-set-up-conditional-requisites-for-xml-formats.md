@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up conditional requisites for XML formats
 TOCTitle: (RUS) Set up conditional requisites for XML formats
 ms:assetid: f03bb80f-4df4-41a3-b85c-74f071aae9c6
@@ -10,6 +10,8 @@ f1_keywords:
 - XML
 - requisites
 - conditional requisites
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up conditional requisites for XML formats 
@@ -64,5 +66,5 @@ Use the following procedure to set up two conditional requisites that have the s
 [(RUS) Format of requisites (form)](https://technet.microsoft.com/en-us/library/jj710737\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

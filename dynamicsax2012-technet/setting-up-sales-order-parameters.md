@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up sales order parameters
 TOCTitle: Setting up sales order parameters
 ms:assetid: 999e48fc-65f8-4088-a878-53615b5e47c3
@@ -13,6 +13,8 @@ f1_keywords:
 - parameters
 - set up
 - sales order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up sales order parameters 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to set up parameters fo
 [(SWE) Set up sales order entry statistics](swe-set-up-sales-order-entry-statistics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

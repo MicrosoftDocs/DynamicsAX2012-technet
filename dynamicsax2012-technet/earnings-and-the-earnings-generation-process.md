@@ -1,4 +1,4 @@
-﻿---
+---
 title: Earnings and the earnings generation process
 TOCTitle: Earnings and the earnings generation process
 ms:assetid: fe4c112d-17a0-47fa-be7a-0f7663223da4
@@ -14,6 +14,8 @@ f1_keywords:
 - earning statements
 - earnings statements
 - payroll earnings
+audience: Application User
+ms.search.region: USA
 ---
 
 # Earnings and the earnings generation process 
@@ -100,5 +102,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

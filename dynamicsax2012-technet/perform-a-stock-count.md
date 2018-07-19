@@ -1,4 +1,4 @@
-﻿---
+---
 title: Perform a stock count
 TOCTitle: Perform a stock count
 ms:assetid: 3a78e76d-0c76-47c3-b6c5-9c043347e650
@@ -11,6 +11,8 @@ f1_keywords:
 - EPRetailStockCountEdit
 - EPRetailStockCountNew
 - EPRetailStockCountListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Perform a stock count 
@@ -95,5 +97,5 @@ You can also perform unscheduled stock counts in Microsoft Dynamics AX for Retai
 [Complete an outgoing transfer order](complete-an-outgoing-transfer-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

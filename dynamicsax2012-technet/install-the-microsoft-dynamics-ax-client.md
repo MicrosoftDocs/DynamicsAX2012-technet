@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the Microsoft Dynamics AX client
 TOCTitle: Install the Microsoft Dynamics AX client
 ms:assetid: ea887acb-7579-4680-b990-5b8a2dff4617
@@ -26,5 +26,5 @@ The following topics are included:
 [Configure clients to access data in a partition](configure-clients-to-access-data-in-a-partition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

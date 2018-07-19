@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure project budget control
 TOCTitle: Configure project budget control
 ms:assetid: 17d8d1f8-f5e5-4ea8-a4d5-9999eeaaa96a
@@ -12,6 +12,8 @@ f1_keywords:
 - project budget
 - budget control
 - project budget control
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure project budget control 
@@ -94,5 +96,5 @@ When you change settings in the **Project management and accounting parameters**
 [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

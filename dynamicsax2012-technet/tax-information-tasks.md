@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tax information tasks
 TOCTitle: Tax information tasks
 ms:assetid: f51ff9cf-e7c8-4a08-91c3-26670ab19dac
@@ -21,6 +21,8 @@ f1_keywords:
 - MsDynAx060.Forms.PayrollTaxCode
 - MsDynAx060.Forms.PayrollTaxGroup
 - MsDynAx060.Forms.PayrollTaxRegion
+audience: Application User
+ms.search.region: USA
 ---
 
 # Tax information tasks 
@@ -482,5 +484,5 @@ Back to top
 [Assign posting definitions to transaction posting types](assign-posting-definitions-to-transaction-posting-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

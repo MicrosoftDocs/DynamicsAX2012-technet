@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create consolidation groups and additional consolidation accounts
 TOCTitle: Create consolidation groups and additional consolidation accounts
 ms:assetid: 5bf62e29-c529-4c09-85ac-a54af389089b
@@ -11,6 +11,8 @@ f1_keywords:
 - consolidation
 - consolidation accounts
 - consolidation groups
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create consolidation groups and additional consolidation accounts 
@@ -60,5 +62,5 @@ You can enter one default consolidation account for each main account in the **M
 7.  Enter the name of the consolidation account.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

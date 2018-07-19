@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Set up recurring batch jobs
 TOCTitle: (DNK) Set up recurring batch jobs
 ms:assetid: 233bf405-9201-44ab-8509-ed61229f47e1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - batch jobs
 - recurrence
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Set up recurring batch jobs 
@@ -37,5 +39,5 @@ Use the **Recurrence** form to set up recurring batch jobs for Offentlig Informa
 [Recurrence (form)](https://technet.microsoft.com/en-us/library/aa616143\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

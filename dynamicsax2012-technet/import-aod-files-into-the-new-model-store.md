@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import AOD files into the new model store
 TOCTitle: Import AOD files into the new model store
 ms:assetid: af8b370a-d6a9-4973-b260-32f07e49a0e9
@@ -99,5 +99,5 @@ For developer documentation about code upgrade in Microsoft Dynamics AX 2012, se
 [Import label files into the new model store](import-label-files-into-the-new-model-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

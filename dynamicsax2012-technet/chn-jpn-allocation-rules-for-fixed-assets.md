@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN, JPN) Allocation rules for fixed assets
 TOCTitle: (CHN, JPN) Allocation rules for fixed assets
 ms:assetid: d67b5e3c-36d5-4acc-bb62-6e51f7d8ad85
@@ -12,6 +12,8 @@ f1_keywords:
 - Allocation rule
 - Depreciation cost
 - Depreciation expense
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN, JPN) Allocation rules for fixed assets 
@@ -78,5 +80,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [Currencies (form)](https://technet.microsoft.com/en-us/library/aa582902\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

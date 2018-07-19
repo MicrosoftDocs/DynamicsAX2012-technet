@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new for developers
 TOCTitle: What's new for developers
 ms:assetid: c70aeb77-8672-4165-94cf-43eec4d07efe
@@ -70,19 +70,8 @@ In Microsoft Dynamics AX 2012, we added and changed several features that affect
 </tbody>
 </table>
 
-
-
-> [!TIP]
-> <P>Use the <A href="http://go.microsoft.com/fwlink/?linkid=194311%26orgi=whatsnew6">Microsoft Dynamics AX WebSearch tool</A> to search for Microsoft Dynamics AX content. To search for developer-specific content, select the <STRONG>Developer</STRONG> check box.</P>
-
-
-
 ## See also
 
 [TechNet library for application users](http://go.microsoft.com/fwlink/?linkid=214391)
 
 [TechNet Library for System Administrators](http://go.microsoft.com/fwlink/?linkid=214390)
-
-  
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
-

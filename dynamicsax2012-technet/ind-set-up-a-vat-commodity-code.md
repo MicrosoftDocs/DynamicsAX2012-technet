@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up a VAT commodity code
 TOCTitle: (IND) Set up a VAT commodity code
 ms:assetid: 67991415-c8e6-4785-bce0-595e75913eaa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677876(v=AX.60)
 ms:contentKeyID: 49385840
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up a VAT commodity code 
@@ -36,5 +38,5 @@ To enable VAT-related features, select the **VAT** check box in the **Sales tax*
 [(IND) VAT commodity codes (form)](https://technet.microsoft.com/en-us/library/jj664797\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

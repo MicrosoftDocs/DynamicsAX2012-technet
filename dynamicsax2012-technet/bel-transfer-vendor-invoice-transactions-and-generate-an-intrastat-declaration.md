@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Transfer vendor invoice transactions and generate an Intrastat declaration
 TOCTitle: (BEL) Transfer vendor invoice transactions and generate an Intrastat declaration
 ms:assetid: b73513e0-a939-49a6-94d7-c911d43e71e1
@@ -10,6 +10,8 @@ f1_keywords:
 - Belgium
 - intrastat
 - vendor invoice
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Transfer vendor invoice transactions and generate an Intrastat declaration 
@@ -44,5 +46,5 @@ Before you can transfer vendor invoice transactions and generate an Intrastat de
 [Reverse a transaction](reverse-a-transaction.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

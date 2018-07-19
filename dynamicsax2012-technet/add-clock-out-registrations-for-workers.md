@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add clock-out registrations for workers
 TOCTitle: Add clock-out registrations for workers
 ms:assetid: 168c76cf-94b2-4c7d-bfcf-ee43044e435e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569892(v=AX.60)
 ms:contentKeyID: 39519055
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add clock-out registrations for workers 
@@ -56,5 +58,5 @@ A supervisor or manager can insert missing clock-out registrations for workers w
 [Submit a batch processing job from a form](submit-a-batch-processing-job-from-a-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

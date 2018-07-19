@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Support for deleting personal information (employee and applicant)'
 TOCTitle: Support for deleting personal information (employee and applicant)
 ms:assetid: 9650ca27-3bbe-4385-816b-898f73e2eead
@@ -53,5 +53,5 @@ In Microsoft Dynamics AX 2009, the Delete personal information feature provides 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up parameters for the EU sales and purchases list
 TOCTitle: (HUN) Set up parameters for the EU sales and purchases list
 ms:assetid: f68c2715-130d-4dc5-844a-04ff2480924c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733166(v=AX.60)
 ms:contentKeyID: 49685134
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up parameters for the EU sales and purchases list 
@@ -78,5 +80,5 @@ Use the procedures below to set up parameters for the EU sales and purchase list
 [(HUN) EU sales list (modified form)](https://technet.microsoft.com/en-us/library/jj664282\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

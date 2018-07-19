@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Verify import information for an EPCG license
 TOCTitle: (IND) Verify import information for an EPCG license
 ms:assetid: bbe59b27-f9a8-4c7d-843e-6a10b7da93a9
@@ -11,6 +11,8 @@ f1_keywords:
 - india
 - import information
 - Verify import information
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Verify import information for an EPCG license 
@@ -59,5 +61,5 @@ You can view the import details for an Export Promotion Capital Goods (EPCG) lic
 [(IND) Verify the block extension details](ind-verify-the-block-extension-details.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

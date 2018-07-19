@@ -1,4 +1,4 @@
-﻿---
+---
 title: Services and AIF architecture
 TOCTitle: Services and AIF architecture
 ms:assetid: 6ae086a5-f525-451b-8cd8-5322aebfdc23
@@ -34,5 +34,5 @@ The following diagram illustrates the services and AIF architecture.
 [System architecture](system-architecture.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

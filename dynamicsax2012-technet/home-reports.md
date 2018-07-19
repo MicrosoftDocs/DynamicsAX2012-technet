@@ -1,4 +1,4 @@
-﻿---
+---
 title: Home reports
 TOCTitle: Home reports
 ms:assetid: 6cf327df-fe6b-44d9-a99d-c2527c7a3903
@@ -30,5 +30,5 @@ The following reports are available in the **Home** module of Microsoft Dynamics
 [Questions and answers report (KMQuestionandAnswer)](questions-and-answers-report-kmquestionandanswer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

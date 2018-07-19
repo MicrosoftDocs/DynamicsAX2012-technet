@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate reverse charges on service tax
 TOCTitle: (IND) Calculate reverse charges on service tax
 ms:assetid: ce73c410-ffc8-479c-9f6f-97c1dd03b627
@@ -16,6 +16,8 @@ f1_keywords:
 - accrue payable
 - Accrue payable service tax
 - reverse charge
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate reverse charges on service tax 
@@ -109,5 +111,5 @@ The following table shows the prerequisites that must be in place before you sta
 11. Create and post the journal to pay the service tax to the tax authority by using the **Payment journal** and **Journal voucher** forms.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

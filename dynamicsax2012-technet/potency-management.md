@@ -1,4 +1,4 @@
-﻿---
+---
 title: " potency management"
 TOCTitle: " potency management"
 ms:assetid: DynamicsAXGlossary.1784123
@@ -19,5 +19,5 @@ A method of classifying and managing active ingredients and items that contain a
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

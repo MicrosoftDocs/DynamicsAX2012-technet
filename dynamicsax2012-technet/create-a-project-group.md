@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a project group
 TOCTitle: Create a project group
 ms:assetid: 9ffaabe6-3a16-4f47-91c3-e0351b642e7c
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - project group
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a project group 
@@ -56,5 +58,5 @@ You can change the project group for a project before or after project transacti
 [Change the project group](change-the-project-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

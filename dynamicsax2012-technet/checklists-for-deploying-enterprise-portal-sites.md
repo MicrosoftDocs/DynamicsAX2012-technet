@@ -1,4 +1,4 @@
-﻿---
+---
 title: Checklists for deploying Enterprise Portal sites
 TOCTitle: Checklists for deploying Enterprise Portal sites
 ms:assetid: 10958f47-99a9-4c08-bdd2-1d31f17d3bda
@@ -34,5 +34,5 @@ The topics in this section provide checklists that can help you deploy different
 [Overview of Enterprise Portal for Microsoft Dynamics AX](overview-of-enterprise-portal-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

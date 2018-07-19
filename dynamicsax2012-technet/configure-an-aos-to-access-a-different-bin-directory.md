@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure an AOS to access a different bin directory
 TOCTitle: Configure an AOS to access a different bin directory
 ms:assetid: 4abda78d-6241-4a3d-8cd4-3847ae68a2c3
@@ -28,5 +28,5 @@ The text that is displayed in the user interface is contained in a kernel text d
 [Configure an AOS to access a different database](configure-an-aos-to-access-a-different-database.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

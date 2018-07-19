@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the Data import/export framework (DIXF, DMF)
 TOCTitle: Install the Data import/export framework (DIXF, DMF)
 ms:assetid: a7d5fe66-43a9-4e66-a33a-37b4182b94b4
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/install-the-data-importexport-framework-dixf-dmf/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

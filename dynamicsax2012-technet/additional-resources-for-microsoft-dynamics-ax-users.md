@@ -1,4 +1,4 @@
-﻿---
+---
 title: Additional resources for Microsoft Dynamics AX users
 TOCTitle: Additional resources for Microsoft Dynamics AX users
 ms:assetid: 64b974db-6e8c-4f0d-bb2d-3acbe898fc0e
@@ -15,6 +15,8 @@ f1_keywords:
 - other
 - partner
 - sources
+audience: Application User
+ms.search.region: Global
 ---
 
 # Additional resources for Microsoft Dynamics AX users 
@@ -41,5 +43,5 @@ To enhance your experience with Microsoft Dynamics AX, explore the following res
 [Microsoft Dynamics Training](http://www.microsoft.com/dynamics/using/training.mspx)—Whether the people in your organization are just starting to learn about Microsoft Dynamics AX or they are seasoned veterans who want a quick refresher, Microsoft Dynamics provides a wealth of training opportunities designed to increase their knowledge and productivity. From classroom training to Internet-based learning, Microsoft Dynamics provides high-quality training when they need it and where they need it.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

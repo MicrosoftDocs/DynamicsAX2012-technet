@@ -1,4 +1,4 @@
-﻿---
+---
 title: Creating Reports Overview
 TOCTitle: Creating Reports Overview
 ms:assetid: 784dd771-693d-4c02-89b0-d4cc04c516e0
@@ -123,5 +123,5 @@ You can display images in reports. Images can be embedded directly in a report, 
 [Reports](https://technet.microsoft.com/en-us/library/cc601396\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Marketing coordinator security role (CRMMarketingCoordinator)
 TOCTitle: Marketing coordinator security role (CRMMarketingCoordinator)
 ms:assetid: d18f9812-9f45-4853-a08b-08baa25b9556
@@ -92,5 +92,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

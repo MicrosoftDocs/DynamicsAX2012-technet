@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a party record
 TOCTitle: Create a party record
 ms:assetid: 1d50df9f-bc69-4b60-b370-22fdec429f02
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - party record
 - party records
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a party record 
@@ -53,5 +55,5 @@ Before you create a party record for a person or an organization, you should ver
 [Key tasks: Workers](key-tasks-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

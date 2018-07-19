@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View fixed asset group balances and profiles for depreciation books
 TOCTitle: (IND) View fixed asset group balances and profiles for depreciation books
 ms:assetid: 38c02189-ac9a-4f8a-8840-29cd110feb47
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664619(v=AX.60)
 ms:contentKeyID: 49385696
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View fixed asset group balances and profiles for depreciation books 
@@ -36,5 +38,5 @@ You can view the asset group profile, if you select the **Asset group depreciati
 [(IND) Profile (form)](https://technet.microsoft.com/en-us/library/jj664848\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

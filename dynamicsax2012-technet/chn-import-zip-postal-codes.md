@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Import ZIP/postal codes
 TOCTitle: (CHN) Import ZIP/postal codes
 ms:assetid: 2be3f6a3-327f-4744-af7c-4bef7e515997
@@ -11,6 +11,8 @@ f1_keywords:
 - China
 - ZIP
 - CN - 00008
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Import ZIP/postal codes 
@@ -37,5 +39,5 @@ You can import ZIP or postal codes when you set up addresses. When you import th
 [(CHN) Set up the Chinese user interface](chn-set-up-the-chinese-user-interface.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

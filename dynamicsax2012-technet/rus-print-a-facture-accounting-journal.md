@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Print a facture accounting journal
 TOCTitle: (RUS) Print a facture accounting journal
 ms:assetid: 2cf9c3b3-6d89-4c2f-b648-733431598650
@@ -10,6 +10,8 @@ f1_keywords:
 - journal
 - Russia
 - facture accounting
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Print a facture accounting journal 
@@ -38,5 +40,5 @@ Use this procedure to print a facture accounting journal.
 [(RUS) Facture journal (form)](https://technet.microsoft.com/en-us/library/jj923567\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

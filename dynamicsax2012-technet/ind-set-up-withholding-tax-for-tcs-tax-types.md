@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up withholding tax for TCS tax types
 TOCTitle: (IND) Set up withholding tax for TCS tax types
 ms:assetid: 3c5a1383-8637-4af9-a4fc-da3264f7f928
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664638(v=AX.60)
 ms:contentKeyID: 49385715
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up withholding tax for TCS tax types 
@@ -26,5 +28,5 @@ The following topics provide information about setting up withholding tax for TC
 [(IND) Set up withholding tax components for TCS tax types](ind-set-up-withholding-tax-components-for-tcs-tax-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

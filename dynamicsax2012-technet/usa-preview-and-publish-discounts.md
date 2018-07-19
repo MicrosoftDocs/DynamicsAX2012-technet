@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Preview and publish discounts
 TOCTitle: (USA) Preview and publish discounts
 ms:assetid: 8a936bd9-eb9b-4d39-aad0-a5600dc1ce4c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682096(v=AX.60)
 ms:contentKeyID: 49655583
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Preview and publish discounts 
@@ -62,5 +64,5 @@ Before you publish discounts to online media, such as Facebook and Twitter, you 
 [(USA) About adding retail online discounts to a campaign](usa-about-adding-retail-online-discounts-to-a-campaign.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

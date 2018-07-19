@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Print the DANFE in contingency mode
 TOCTitle: (BRA) Print the DANFE in contingency mode
 ms:assetid: 37e1b4b0-9e29-4f7c-b0a6-df2d97571d55
@@ -12,6 +12,8 @@ f1_keywords:
 - Print DANFE
 - DANFE
 - Documento Auxiliar da Nota Fiscal Eletrônica
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Print the DANFE in contingency mode 
@@ -50,5 +52,5 @@ Before you can print the DANFE in contingency mode, you must turn on contingency
 [(BRA) About the NF-e process](bra-about-the-nf-e-process.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

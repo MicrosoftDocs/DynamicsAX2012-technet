@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change depreciation conventions for multiple fixed assets
 TOCTitle: Change depreciation conventions for multiple fixed assets
 ms:assetid: a12db35e-3a37-498b-b019-93cd7f3b0fab
@@ -10,6 +10,8 @@ f1_keywords:
 - asset depreciation
 - change depreciation conventions
 - depreciation convention
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change depreciation conventions for multiple fixed assets 
@@ -36,5 +38,5 @@ You can use the **Mass update** form to update the depreciation convention for a
 [Fixed asset mass update](fixed-asset-mass-update.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

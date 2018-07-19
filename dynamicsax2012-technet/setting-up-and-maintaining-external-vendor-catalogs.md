@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining external vendor catalogs
 TOCTitle: Setting up and maintaining external vendor catalogs
 ms:assetid: 893f5392-9c75-4426-9770-3a4bfa24cfd7
@@ -11,6 +11,8 @@ f1_keywords:
 - vendor catalog
 - external vendor
 - external vendors
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining external vendor catalogs 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to set up, activate, an
 [Set up an external vendor catalog](set-up-an-external-vendor-catalog.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assortments (Retail essentials)
 TOCTitle: Assortments (Retail essentials)
 ms:assetid: 22b2f5d7-1585-4eae-a965-4017ec4683d5
@@ -79,5 +79,5 @@ Before you can set up an assortment and assign it to a retail store, you must co
 [Set up an assortment (Retail essentials)](set-up-an-assortment-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

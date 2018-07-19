@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upload a catalog maintenance request
 TOCTitle: Upload a catalog maintenance request
 ms:assetid: 9e2803cb-db76-4b20-a4bc-b386146fbc94
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - CatVendorMaintenanceEventLog
 - CatVendorUploadCatalog
+audience: Application User
+ms.search.region: Global
 ---
 
 # Upload a catalog maintenance request 
@@ -77,5 +79,5 @@ On the **Event log** page, the status of the CMR file is updated as the file is 
 [About creating and maintaining your product catalogs](about-creating-and-maintaining-your-product-catalogs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

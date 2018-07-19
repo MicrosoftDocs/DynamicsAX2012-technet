@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a default route
 TOCTitle: Create a default route
 ms:assetid: 9d89b59e-4d36-40bb-8c71-42efda993eb9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571712(v=AX.60)
 ms:contentKeyID: 36058748
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a default route 
@@ -44,5 +46,5 @@ Default routes are used as templates to create the route of a specific product m
 [Insert a Default node](insert-a-default-node.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

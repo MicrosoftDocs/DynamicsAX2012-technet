@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set customer feedback options
 TOCTitle: Set customer feedback options
 ms:assetid: 8be897fb-08bb-44af-aa29-abce88b8297c
@@ -27,5 +27,5 @@ The program collects information about computer hardware and how you use Microso
 For more information and a complete privacy statement for the Customer Experience Improvement Program, visit the [Customer Experience Improvement Program Web site](http://www.microsoft.com/products/ceip).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

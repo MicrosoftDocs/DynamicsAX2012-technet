@@ -1,4 +1,4 @@
-﻿---
+---
 title: Edit the text of a question in RapidStart Services
 TOCTitle: Edit the text of a question in RapidStart Services
 ms:assetid: 469cda3d-54f6-4b0e-b1f4-5028f1dc38c7
@@ -53,5 +53,5 @@ To modify a question in Microsoft Dynamics ERP RapidStart Services, use the same
 [Move a question in RapidStart Services](move-a-question-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

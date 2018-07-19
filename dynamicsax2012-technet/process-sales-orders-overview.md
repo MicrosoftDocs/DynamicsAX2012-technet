@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process sales orders overview
 TOCTitle: Process sales orders overview
 ms:assetid: 5e2a2cbf-17fd-4dd5-835c-cd5fb7cba607
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - sales orders
 - sales order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process sales orders overview 
@@ -229,5 +231,5 @@ The following table lists the forms that support the Process sales orders busine
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

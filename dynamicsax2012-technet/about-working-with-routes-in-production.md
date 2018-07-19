@@ -1,4 +1,4 @@
-﻿---
+---
 title: About working with routes in production
 TOCTitle: About working with production routes
 ms:assetid: aee89107-3c08-4184-978d-dd0e0b35da61
@@ -12,6 +12,8 @@ f1_keywords:
 - production
 - operations
 - route
+audience: Application User
+ms.search.region: Global
 ---
 
 # About working with routes in production 
@@ -89,5 +91,5 @@ After you set up prerequisites, you can set up the following required informatio
 [Create or update route operations](create-or-update-route-operations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

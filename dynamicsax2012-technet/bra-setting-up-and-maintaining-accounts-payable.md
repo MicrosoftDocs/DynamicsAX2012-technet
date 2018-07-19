@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Setting up and maintaining Accounts payable
 TOCTitle: (BRA) Setting up and maintaining Accounts payable
 ms:assetid: c43d66fa-ff79-482a-808e-3b1e7f504619
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - maintain accounts payable
 - set up accounts payable
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Setting up and maintaining Accounts payable 
@@ -26,5 +28,5 @@ The topics in this section provide information about setting up and maintaining 
 [(BRA) Setting up purchase operations](bra-setting-up-purchase-operations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

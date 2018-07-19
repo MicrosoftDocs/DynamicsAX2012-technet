@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Configure organizational information
 TOCTitle: (RUS) Configure organizational information
 ms:assetid: d07f0628-c9fe-4689-ae01-8945a767352f
@@ -20,6 +20,8 @@ f1_keywords:
 - Forms.RpayHrmOrganization
 - insurance fund
 - d07f0628-c9fe-4689-ae01-8945a767352f
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Configure organizational information 
@@ -410,5 +412,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

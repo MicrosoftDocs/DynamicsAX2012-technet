@@ -1,4 +1,4 @@
-﻿---
+---
 title: Authorize timesheet delegates
 TOCTitle: Authorize timesheet delegates
 ms:assetid: f29da748-8f81-491e-abcb-1a37b2346f58
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - timesheet
 - delegates
+audience: Application User
+ms.search.region: Global
 ---
 
 # Authorize timesheet delegates 
@@ -59,5 +61,5 @@ You can authorize delegates to enter timesheet information for other people. Set
 [My delegates (form) (Project timesheets)](https://technet.microsoft.com/en-us/library/hh242734\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

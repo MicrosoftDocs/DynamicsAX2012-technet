@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Enhanced Number Sequence Framework (White paper)
 TOCTitle: Using the Enhanced Number Sequence Framework
 ms:assetid: d7fbe81d-fcff-4fd9-8f87-4be94484b549
@@ -18,5 +18,5 @@ This paper provides information about the changes to the number sequence framewo
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213124).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

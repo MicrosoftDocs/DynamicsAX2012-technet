@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Upgrading a Model'
 TOCTitle: 'Walkthrough: Upgrading a Model'
 ms:assetid: b9ee10ac-8f86-4fcb-b50a-8683ecf79439
@@ -110,5 +110,5 @@ We recommend that you observe the following best practices:
 [Windows PowerShell for Microsoft Dynamics AX](windows-powershell-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

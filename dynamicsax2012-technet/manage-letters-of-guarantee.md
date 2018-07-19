@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage letters of guarantee
 TOCTitle: Manage letters of guarantee
 ms:assetid: c1370884-7024-4a16-b867-6d58d4cf4ab7
@@ -11,6 +11,8 @@ f1_keywords:
 - guarantee
 - guarantee letter
 - letters of guarantee
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage letters of guarantee 
@@ -29,5 +31,5 @@ The following topics provide information about managing letters of guarantee.
 [Liquidate, extend, or cancel a letter of guarantee](liquidate-extend-or-cancel-a-letter-of-guarantee.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

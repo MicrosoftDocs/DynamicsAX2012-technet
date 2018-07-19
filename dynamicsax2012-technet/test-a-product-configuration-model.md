@@ -1,4 +1,4 @@
-﻿---
+---
 title: Test a product configuration model
 TOCTitle: Test a product configuration model
 ms:assetid: 50918a8a-0ae4-4555-8922-50dbb6a7169e
@@ -10,6 +10,8 @@ f1_keywords:
 - product configurator
 - constraint based
 - test a product model
+audience: Application User
+ms.search.region: Global
 ---
 
 # Test a product configuration model 
@@ -38,5 +40,5 @@ After you set up a product configuration model, you can test that the model perf
 [About product configurator processes](about-product-configurator-processes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

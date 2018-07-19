@@ -1,4 +1,4 @@
-﻿---
+---
 title: View product receipts
 TOCTitle: View product receipts
 ms:assetid: 3e38c55a-076e-452c-8ca9-977860455544
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPVendPackingSlipJournalInfo
 - EPVendPackingSlipJournalList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View product receipts 
@@ -37,5 +39,5 @@ Use the **Product receipts** and **View product receipt** pages to view informat
 [View vendor invoices](view-vendor-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

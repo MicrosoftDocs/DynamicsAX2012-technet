@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create address books
 TOCTitle: Create address books
 ms:assetid: 98082cf8-7e21-42a4-bd8b-ee37ba108df2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731874(v=AX.60)
 ms:contentKeyID: 35132774
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create address books 
@@ -38,5 +40,5 @@ This topic assumes that you have completed planning address books for your organ
 5.  Repeat step 2 through 4 for each address book that your organization requires.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set other tax options for stores
 TOCTitle: Set other tax options for stores
 ms:assetid: cdeaab6e-2176-4965-9611-bc39d9d4807c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597245(v=AX.60)
 ms:contentKeyID: 39519323
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set other tax options for stores 
@@ -48,5 +50,5 @@ When you set up sales taxes for retail stores, you can specify several settings.
 [About setting up taxes](about-setting-up-taxes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About purchasing policies
 TOCTitle: About purchasing policies
 ms:assetid: a1a6647e-dabd-4c96-a0e2-2dd5a4e0b54c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209455(v=AX.60)
 ms:contentKeyID: 36058791
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About purchasing policies 
@@ -100,5 +102,5 @@ The **Requisition purpose rule**, **Replenishment category access policy rule**,
 [Key tasks: Create purchasing policies](key-tasks-create-purchasing-policies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

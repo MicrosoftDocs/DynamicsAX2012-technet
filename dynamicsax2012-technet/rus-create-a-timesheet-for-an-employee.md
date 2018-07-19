@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a timesheet for an employee
 TOCTitle: (RUS) Create a timesheet for an employee
 ms:assetid: 649b0972-eb97-48fa-ac51-4ab5d0029a46
@@ -20,6 +20,8 @@ f1_keywords:
 - MsDynAx060.Forms.RHRMOrderTable
 - MsDynAx060.Forms.RPayTblDayHourTrans
 - MsDynAx060.Forms.RPayTblJournal
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a timesheet for an employee 
@@ -336,5 +338,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

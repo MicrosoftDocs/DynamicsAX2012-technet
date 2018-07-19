@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail product kits (Retail essentials)
 TOCTitle: Retail product kits (Retail essentials)
 ms:assetid: b505380a-d8a3-4777-85a3-9f07adb24b88
@@ -56,5 +56,5 @@ For more information about how to view and maintain assembly orders for product 
 [Process kit assembly and disassembly orders (Retail essentials)](process-kit-assembly-and-disassembly-orders-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

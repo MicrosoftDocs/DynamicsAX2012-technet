@@ -1,4 +1,4 @@
-﻿---
+---
 title: Preparing agreements, sales prices, and performance metrics
 TOCTitle: Preparing agreements, sales prices, and performance metrics
 ms:assetid: 5b81c232-b2fc-4dfc-a3ec-1aafa5b48a67
@@ -11,6 +11,8 @@ f1_keywords:
 - subscription
 - agreement
 - sla
+audience: Application User
+ms.search.region: Global
 ---
 
 # Preparing agreements, sales prices, and performance metrics 
@@ -33,5 +35,5 @@ The topics in this section provide information about the tasks that are associat
 [Use stage reason codes](use-stage-reason-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

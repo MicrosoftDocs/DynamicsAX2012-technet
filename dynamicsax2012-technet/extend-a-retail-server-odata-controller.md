@@ -1,4 +1,4 @@
-﻿---
+---
 title: Extend a Retail Server OData Controller
 TOCTitle: Extend a Retail Server OData Controller
 ms:assetid: 5ce0f87f-885d-4c0e-bed7-adfaf94b2c0b
@@ -64,5 +64,5 @@ In the following example, the ExtendedCustomersController class extends the Cust
 [Retail Modern Point of Sale](retail-modern-point-of-sale.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

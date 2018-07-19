@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cube and KPI reference for Microsoft Dynamics AX
 TOCTitle: Cube and KPI reference
 ms:assetid: 965aac51-ae29-43f5-ba80-ec68608aab51
@@ -30,5 +30,5 @@ The cube and KPI reference provides information about the default online analyti
 [Development Tasks for Analytics](development-tasks-for-analytics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

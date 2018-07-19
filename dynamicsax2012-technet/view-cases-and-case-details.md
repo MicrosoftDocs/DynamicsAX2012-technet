@@ -1,4 +1,4 @@
-﻿---
+---
 title: View cases and case details
 TOCTitle: View cases and case details
 ms:assetid: 9f49bff3-d31b-4491-873b-9462b4ce1c0c
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - CaseList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View cases and case details 
@@ -42,5 +44,5 @@ On the **Audit cases** page, you can view the status, case category, and case pr
 2.  In the **Case ID** column, click the case that you want to view.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

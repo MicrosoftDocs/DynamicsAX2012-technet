@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Customer invoices'
 TOCTitle: 'Key tasks: Customer invoices'
 ms:assetid: 284a30a9-ca94-4beb-b661-c4f13ab3a278
@@ -17,6 +17,8 @@ f1_keywords:
 - sales invoices
 - sales order invoice
 - sales order invoices
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Customer invoices 
@@ -167,5 +169,5 @@ Back to top
 [Summarize customer invoices based on packing slip numbers](summarize-customer-invoices-based-on-packing-slip-numbers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

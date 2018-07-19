@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure parameters
 TOCTitle: Configure parameters
 ms:assetid: 70be719d-df43-484f-b446-3ef6bcce35c7
@@ -10,6 +10,8 @@ f1_keywords:
 - parameter
 - retail
 - paramters
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure parameters 
@@ -40,5 +42,5 @@ Set parameters to configure Retail for your business. Parameters provide default
 [About configuring parameters](about-configuring-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

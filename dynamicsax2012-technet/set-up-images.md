@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up images
 TOCTitle: Set up images
 ms:assetid: 6f162127-9a59-4513-8620-217394a71bca
@@ -8,6 +8,8 @@ ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
 - MsDynAx060.Forms.RetailImages
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up images 
@@ -34,5 +36,5 @@ You can store images, each of which is assigned a unique ID. These images can be
 [Images (form)](https://technet.microsoft.com/en-us/library/hh597229\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

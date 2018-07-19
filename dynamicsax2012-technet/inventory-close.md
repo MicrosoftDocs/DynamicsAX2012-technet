@@ -1,4 +1,4 @@
-﻿---
+---
 title: Inventory close
 TOCTitle: Inventory close
 ms:assetid: e1cc7ac8-9572-4785-98e1-a6bdaf8c6ee1
@@ -13,6 +13,8 @@ f1_keywords:
 - general ledger
 - inventory
 - close log
+audience: Application User
+ms.search.region: Global
 ---
 
 # Inventory close 
@@ -51,5 +53,5 @@ The following topics provide information about:
 [Setting up and maintaining inventory close and adjustments](setting-up-and-maintaining-inventory-close-and-adjustments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

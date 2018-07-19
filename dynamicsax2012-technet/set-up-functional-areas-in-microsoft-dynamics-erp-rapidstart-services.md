@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up functional areas in Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Set up functional areas in Microsoft Dynamics ERP RapidStart Services
 ms:assetid: 1e681221-a694-4e75-91d2-e8b9ba78bbf6
@@ -41,5 +41,5 @@ The topics in this section provide information about creating, copying, publishi
 [Delete a functional area in RapidStart Services](delete-a-functional-area-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

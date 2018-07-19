@@ -1,4 +1,4 @@
-﻿---
+---
 title: About reason codes for service orders
 TOCTitle: About reason codes for service orders
 ms:assetid: 5e5dce85-d964-48c1-bf87-92a1009afbc7
@@ -10,6 +10,8 @@ f1_keywords:
 - project
 - service
 - reason
+audience: Application User
+ms.search.region: Global
 ---
 
 # About reason codes for service orders 
@@ -40,5 +42,5 @@ Reason codes are optional. You can decide whether to require a reason code when 
 [View stage reason codes](view-stage-reason-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

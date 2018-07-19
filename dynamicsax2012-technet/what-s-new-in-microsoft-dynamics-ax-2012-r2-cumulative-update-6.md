@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new in Microsoft Dynamics AX 2012 R2 cumulative update 6
 TOCTitle: What's new in Microsoft Dynamics AX 2012 R2 cumulative update 6
 ms:assetid: 1dacee36-7c33-48ff-9fd4-7616df10dbe9
@@ -203,5 +203,5 @@ In cumulative update 6 for Microsoft Dynamics AX 2012 R2, we added and changed a
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

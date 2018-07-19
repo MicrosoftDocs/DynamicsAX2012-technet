@@ -1,4 +1,4 @@
-﻿---
+---
 title: Best practices for upgrade
 TOCTitle: Best practices for upgrade
 ms:assetid: 9f6adbf0-98ec-4e6f-a859-26f6e9ac7149
@@ -62,5 +62,5 @@ We recommend that you complete the upgrade process on a dedicated database serve
 Review the performance benchmarks of the existing database server, and determine whether you have to add more resources. For example, you might have to upgrade server components such as processors, memory, or storage. After you upgrade or change server components, we recommend that you test the server for optimum performance before you start the upgrade process for Microsoft Dynamics AX.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

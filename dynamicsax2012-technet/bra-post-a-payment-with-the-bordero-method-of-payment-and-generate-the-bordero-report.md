@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Post a payment with the Bordero method of payment and generate the Bordero report
 TOCTitle: (BRA) Post a payment with the Bordero method of payment and generate the Bordero report
 ms:assetid: 49128212-aae6-4c60-9f83-fe3decd4752f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910997(v=AX.60)
 ms:contentKeyID: 52075246
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Post a payment with the Bordero method of payment and generate the Bordero report 
@@ -98,5 +100,5 @@ In the **Bordero** form, you can view the list of vendor payments that are gener
 [(BRA) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj933534\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

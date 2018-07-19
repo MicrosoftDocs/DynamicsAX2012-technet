@@ -1,4 +1,4 @@
-﻿---
+---
 title: About accrued revenue
 TOCTitle: About accrued revenue
 ms:assetid: cddc3a3d-e168-4377-8659-9a845a97afc6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - accrued revenue
 - WIP sales value
+audience: Application User
+ms.search.region: Global
 ---
 
 # About accrued revenue 
@@ -31,5 +33,5 @@ During the course of a Fixed-price project, you can accrue revenue as project co
 [About estimates](about-estimates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

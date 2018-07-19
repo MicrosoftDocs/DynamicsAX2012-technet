@@ -1,4 +1,4 @@
-﻿---
+---
 title: Intrastat transactions report (IntrastatFormLetter)
 TOCTitle: Intrastat transactions report (IntrastatFormLetter)
 ms:assetid: 22c0ba00-a22d-48a6-8848-57054e350862
@@ -160,5 +160,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

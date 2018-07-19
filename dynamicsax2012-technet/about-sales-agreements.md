@@ -1,4 +1,4 @@
-﻿---
+---
 title: About sales agreements
 TOCTitle: About sales agreements
 ms:assetid: 987e841f-9a5c-4dc8-8620-0f84caae9619
@@ -17,6 +17,8 @@ f1_keywords:
 - contracts
 - release orders
 - sales contracts
+audience: Application User
+ms.search.region: Global
 ---
 
 # About sales agreements 
@@ -67,5 +69,5 @@ You can copy financial dimensions to document headers or to individual lines of 
 [Print the status of a sales agreement](print-the-status-of-a-sales-agreement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Page and book control for legal accounting reports
 TOCTitle: (BRA) Page and book control for legal accounting reports
 ms:assetid: b8b3e611-ac01-41ee-9316-54bba2a720ed
@@ -14,6 +14,8 @@ f1_keywords:
 - legal accounting reports
 - page and book control
 - BR - 00019
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Page and book control for legal accounting reports 
@@ -46,5 +48,5 @@ A day book report must contain open and close terms, book numbers, and page numb
 [(BRA) Set up and generate open and close terms for a legal accounting report](bra-set-up-and-generate-open-and-close-terms-for-a-legal-accounting-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

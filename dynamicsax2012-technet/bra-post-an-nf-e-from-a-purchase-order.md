@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Post an NF-e from a purchase order
 TOCTitle: (BRA) Post an NF-e from a purchase order
 ms:assetid: 34f72f34-e676-4afc-a63f-81dc8f9e717e
@@ -11,6 +11,8 @@ f1_keywords:
 - Brazil
 - Post NF-e
 - post electronic fiscal document
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Post an NF-e from a purchase order 
@@ -65,5 +67,5 @@ Use the following procedure to post an NF-e from a purchase order for a non-taxp
 [(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj898464\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

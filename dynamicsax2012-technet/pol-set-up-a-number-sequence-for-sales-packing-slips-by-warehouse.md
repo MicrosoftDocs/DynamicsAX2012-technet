@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up a number sequence for sales packing slips by warehouse
 TOCTitle: (POL) Set up a number sequence for sales packing slips by warehouse
 ms:assetid: 4a2000a1-c13c-4d80-956b-2257074aacb9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678192(v=AX.60)
 ms:contentKeyID: 49386915
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up a number sequence for sales packing slips by warehouse 
@@ -52,5 +54,5 @@ You can set up a number sequence for sales packing slips by warehouse in the **A
 [Packing slip journal (form)](https://technet.microsoft.com/en-us/library/aa548967\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

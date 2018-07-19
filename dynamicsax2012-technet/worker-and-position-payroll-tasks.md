@@ -1,4 +1,4 @@
-﻿---
+---
 title: Worker and position payroll tasks
 TOCTitle: Worker and position payroll tasks
 ms:assetid: 36582f4f-279c-48a0-a8ce-158eb9b8aef6
@@ -13,6 +13,8 @@ f1_keywords:
 - workers
 - positions
 - worker pay
+audience: Application User
+ms.search.region: USA
 ---
 
 # Worker and position payroll tasks 
@@ -623,5 +625,5 @@ Back to top
 [Garnishment and tax levy enrollment tasks](garnishment-and-tax-levy-enrollment-tasks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

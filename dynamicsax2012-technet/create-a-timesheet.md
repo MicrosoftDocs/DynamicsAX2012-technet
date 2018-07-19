@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a timesheet
 TOCTitle: Create a timesheet
 ms:assetid: 991dcea3-93a8-4aa2-93cf-eedc029b87d0
@@ -11,6 +11,8 @@ f1_keywords:
 - Favorites template
 - timesheet template
 - timesheet detail
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a timesheet 
@@ -151,5 +153,5 @@ By default, the **All timesheets** list page displays all your timesheets for th
 [Timesheet line comments (form)](https://technet.microsoft.com/en-us/library/hh208812\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

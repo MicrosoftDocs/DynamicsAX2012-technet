@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a call center
 TOCTitle: Set up a call center
 ms:assetid: 1bf8c330-eaff-4d39-80a4-8e6ecb07d92b
@@ -18,6 +18,8 @@ f1_keywords:
 - set up call center
 - call center channel
 - create call center
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a call center 
@@ -312,5 +314,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Working with Call center](working-with-call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

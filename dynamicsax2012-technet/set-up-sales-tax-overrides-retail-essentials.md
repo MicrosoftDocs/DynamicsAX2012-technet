@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up sales tax overrides (Retail essentials)
 TOCTitle: Set up sales tax overrides (Retail essentials)
 ms:assetid: 1f361407-9813-4dd1-9a1c-488645d27a7a
@@ -66,5 +66,5 @@ In addition to setting up sales tax overrides, you must complete the following t
 [Setting up taxes (Retail essentials)](setting-up-taxes-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

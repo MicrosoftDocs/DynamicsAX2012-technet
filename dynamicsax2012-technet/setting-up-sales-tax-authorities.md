@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up sales tax authorities
 TOCTitle: Setting up sales tax authorities
 ms:assetid: 26890627-d972-4c82-82bb-d98317bebf92
@@ -11,6 +11,8 @@ f1_keywords:
 - tax
 - tax setup
 - tax authorities
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up sales tax authorities 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to set up authorities f
 [View or print sales tax payments without posting](view-or-print-sales-tax-payments-without-posting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

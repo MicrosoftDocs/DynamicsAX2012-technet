@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Calculate exchange rate adjustments for bank account transactions
 TOCTitle: (EEUR) Calculate exchange rate adjustments for bank account transactions
 ms:assetid: 8f3ac3c6-f8a8-4e2f-af6e-9edb5608ae3f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ917354(v=AX.60)
 ms:contentKeyID: 50952843
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Calculate exchange rate adjustments for bank account transactions 
@@ -60,5 +62,5 @@ You must revalue and adjust bank accounts if there is a difference in the exchan
 [Ledger (form)](https://technet.microsoft.com/en-us/library/hh209331\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

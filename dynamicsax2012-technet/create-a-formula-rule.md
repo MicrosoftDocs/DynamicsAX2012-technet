@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a formula rule
 TOCTitle: Create a formula rule
 ms:assetid: 3b8f33cf-85e0-43c8-b8ac-7f08402aeebe
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570163(v=AX.60)
 ms:contentKeyID: 36931868
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a formula rule 
@@ -34,5 +36,5 @@ Use formula rules to set up a specific fixed or calculated value for a variable.
 7.  Select the **Recalculate** check box if all the rules that contain the selected variable should be recalculated.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

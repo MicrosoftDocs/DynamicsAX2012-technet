@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run the initialization checklist without interaction
 TOCTitle: Run the initialization checklist without interaction
 ms:assetid: 29b0bd8e-a046-4fe5-b1f3-87c16d988d2f
@@ -37,5 +37,5 @@ Complete the following procedure to run the initialization checklist without use
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

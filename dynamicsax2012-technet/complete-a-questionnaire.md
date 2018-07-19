@@ -1,4 +1,4 @@
-﻿---
+---
 title: Complete a questionnaire
 TOCTitle: Complete a questionnaire
 ms:assetid: 4486a805-b4be-4e5e-92ac-b09dbb5a3553
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496975(v=AX.60)
 ms:contentKeyID: 41702385
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Complete a questionnaire 
@@ -82,5 +84,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [About viewing and evaluating results](about-viewing-and-evaluating-results.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

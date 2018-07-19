@@ -1,4 +1,4 @@
-﻿---
+---
 title: View or edit your supplied products information
 TOCTitle: View or edit your supplied products information
 ms:assetid: d7f6cee4-6889-4484-aec2-a44062312e6a
@@ -10,6 +10,8 @@ f1_keywords:
 - EPVendExternalItemEdit
 - EPInventTableInfo
 - EPInventTableListVSS
+audience: Application User
+ms.search.region: Global
 ---
 
 # View or edit your supplied products information 
@@ -52,5 +54,5 @@ You can use the **Released products** page to view information about the items f
 [View your vendor price agreements](view-your-vendor-price-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

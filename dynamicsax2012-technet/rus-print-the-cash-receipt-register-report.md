@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Print the cash receipt register report
 TOCTitle: (RUS) Print the cash receipt register report
 ms:assetid: 1aab1fbc-8c80-48b2-8b13-0b863dc96bdb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711443(v=AX.60)
 ms:contentKeyID: 49387261
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Print the cash receipt register report 
@@ -42,5 +44,5 @@ Reimbursement and disbursement orders are maintained and reported in the reimbur
 [(RUS) Cash accounts (form)](https://technet.microsoft.com/en-us/library/jj665230\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

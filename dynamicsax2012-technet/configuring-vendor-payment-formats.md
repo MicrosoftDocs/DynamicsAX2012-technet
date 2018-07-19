@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring vendor payment formats
 TOCTitle: Configuring vendor payment formats
 ms:assetid: d81dfad9-8911-408f-a6e8-12552dffd805
@@ -15,6 +15,8 @@ f1_keywords:
 - method
 - payment
 - formats
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring vendor payment formats 
@@ -43,5 +45,5 @@ The following topics provide information about configuring vendor payment format
 [(FRA) Set up a method of payment for French checks](fra-set-up-a-method-of-payment-for-french-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

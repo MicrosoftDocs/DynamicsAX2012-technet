@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Setup PIS and COFINS tables
 TOCTitle: (BRA) Setup PIS and COFINS tables
 ms:assetid: da44a258-e975-4c7c-9fec-50f6d7fc83af
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt267602(v=AX.60)
 ms:contentKeyID: 66250920
 ms.date: 07/08/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Setup PIS and COFINS tables 
@@ -75,5 +77,5 @@ This set up is used to create the Table 4.3.6 specified by the tax authorities a
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

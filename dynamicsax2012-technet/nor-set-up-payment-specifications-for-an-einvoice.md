@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Set up payment specifications for an eInvoice
 TOCTitle: (NOR) Set up payment specifications for an eInvoice
 ms:assetid: 5199086d-c090-4ef5-9331-c519b98d12ee
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212779(v=AX.60)
 ms:contentKeyID: 36057269
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Set up payment specifications for an eInvoice 
@@ -34,5 +36,5 @@ The payment method and the corresponding payment specifications are linked to a 
 [(NOR) Import the eGiro payment file and view the eGiro segments file](nor-import-the-egiro-payment-file-and-view-the-egiro-segments-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

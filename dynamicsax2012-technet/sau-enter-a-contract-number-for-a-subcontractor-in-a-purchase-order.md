@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Enter a contract number for a subcontractor in a purchase order
 TOCTitle: (SAU) Enter a contract number for a subcontractor in a purchase order
 ms:assetid: d055e5a8-0363-4fac-9a9f-f44d9d21d4b5
@@ -12,6 +12,8 @@ f1_keywords:
 - contract
 - subcontractor
 - Zakat
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) Enter a contract number for a subcontractor in a purchase order 
@@ -58,5 +60,5 @@ Use the **Purchase orders** form to enter contract numbers for company vendors t
 [(SAU) Set up Zakat information for a vendor and contract information for a subcontractor](sau-set-up-zakat-information-for-a-vendor-and-contract-information-for-a-subcontractor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

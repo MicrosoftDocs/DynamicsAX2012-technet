@@ -1,4 +1,4 @@
-﻿---
+---
 title: About organizations and organizational hierarchies
 TOCTitle: About organizations and organizational hierarchies
 ms:assetid: 137789f9-7c07-4102-8222-6f06bb0ed3f1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242144(v=AX.60)
 ms:contentKeyID: 36056047
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About organizations and organizational hierarchies 
@@ -99,5 +101,5 @@ Creating organizations and hierarchies requires careful planning. For more infor
 [Create or modify an organization hierarchy](create-or-modify-an-organization-hierarchy.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

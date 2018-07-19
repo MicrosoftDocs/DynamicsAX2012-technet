@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up a sales tax group for EU trade
 TOCTitle: (POL) Set up a sales tax group for EU trade
 ms:assetid: 2d013284-8dbb-452c-b62d-d3813754ee3f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678165(v=AX.60)
 ms:contentKeyID: 49386888
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up a sales tax group for EU trade 
@@ -24,5 +26,5 @@ You can assign sales tax groups when you participate in transactions with countr
 3.  On the **General** tab, select the **EU trade** check box to use the sales tax group for transactions with countries/regions in the European Union.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

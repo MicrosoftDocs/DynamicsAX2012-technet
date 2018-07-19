@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up toolbox users
 TOCTitle: Set up toolbox users
 ms:assetid: 2f0988fa-a861-43d0-a91e-cc8e79b136ad
@@ -80,5 +80,5 @@ For each user of Microsoft Dynamics AX who should have access to these features,
 [Set up a button grid](set-up-a-button-grid.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

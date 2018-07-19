@@ -1,4 +1,4 @@
-﻿---
+---
 title: Liquidate, extend, or cancel a letter of guarantee
 TOCTitle: Liquidate, extend, or cancel a letter of guarantee
 ms:assetid: fbcadb03-13c6-4a10-aa41-927a44b84e1e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Letter of gurantee
 - Liquidate a letter of guarantee
+audience: Application User
+ms.search.region: Global
 ---
 
 # Liquidate, extend, or cancel a letter of guarantee 
@@ -149,5 +151,5 @@ When the purpose of the letter of guarantee no longer applies, you can end the a
 [Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

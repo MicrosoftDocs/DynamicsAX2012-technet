@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) About accounting codes for services
 TOCTitle: (IND) About accounting codes for services
 ms:assetid: f3653dee-5ddd-4ac3-8f3a-3c334d182edf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn344876(v=AX.60)
 ms:contentKeyID: 56117709
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) About accounting codes for services 
@@ -42,5 +44,5 @@ Perform the following tasks to set up and use accounting codes for service codes
 [(IND) Calculate service tax using a vendor payment journal](ind-calculate-service-tax-using-a-vendor-payment-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

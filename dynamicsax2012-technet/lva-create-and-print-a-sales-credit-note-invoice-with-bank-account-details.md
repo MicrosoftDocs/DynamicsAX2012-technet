@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Create and print a sales credit note invoice with bank account details
 TOCTitle: (LVA) Create and print a sales credit note invoice with bank account details
 ms:assetid: 6b2ea58e-23e7-4903-8ec9-c384609fcedd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721423(v=AX.60)
 ms:contentKeyID: 49729987
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Create and print a sales credit note invoice with bank account details 
@@ -59,5 +61,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 13. In the **Sales order** form, click **Inquiries** \> **Invoice** \> **Preview/Print** to view and print the sales credit note invoice.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

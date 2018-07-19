@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enable debugging in Microsoft Dynamics AX clients
 TOCTitle: Enable debugging in Microsoft Dynamics AX clients
 ms:assetid: bd7f8809-1a8e-4918-8bba-d8692caead90
@@ -50,5 +50,5 @@ To debug .NET Business Connector, you must select both debug options. To debug a
 [.NET Business Connector](net-business-connector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

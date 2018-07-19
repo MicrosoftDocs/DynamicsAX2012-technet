@@ -1,4 +1,4 @@
-﻿---
+---
 title: Contractors
 TOCTitle: Contractors
 ms:assetid: 107cd636-1ff1-42fa-81a6-5fcde2ecaaf7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn754851(v=AX.60)
 ms:contentKeyID: 62504011
 ms.date: 06/11/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Contractors 
@@ -46,5 +48,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [Key tasks: Set up reference information for workers](key-tasks-set-up-reference-information-for-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Accounts receivable
 TOCTitle: (EEUR) Accounts receivable
 ms:assetid: 89364ad5-f900-4e40-b3ec-aa39c189a1ce
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710736(v=AX.60)
 ms:contentKeyID: 49385133
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Accounts receivable 
@@ -24,5 +26,5 @@ Use Accounts receivable to track customer invoices and incoming payments.
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

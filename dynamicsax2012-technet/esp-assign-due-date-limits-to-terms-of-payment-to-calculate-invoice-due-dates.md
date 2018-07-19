@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Assign due date limits to terms of payment to calculate invoice due dates
 TOCTitle: (ESP) Assign due date limits to terms of payment to calculate invoice due dates
 ms:assetid: dd04736b-9669-4602-b279-a30a103cc1bd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923622(v=AX.60)
 ms:contentKeyID: 50934003
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Assign due date limits to terms of payment to calculate invoice due dates 
@@ -34,5 +36,5 @@ Use the **Terms of payment** form to specify a due date limit, so that you can m
 [(ESP) Due date limits (form)](https://technet.microsoft.com/en-us/library/jj923623\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

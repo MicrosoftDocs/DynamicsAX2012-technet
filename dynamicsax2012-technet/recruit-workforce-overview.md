@@ -1,4 +1,4 @@
-﻿---
+---
 title: Recruit workforce overview
 TOCTitle: Recruit workforce overview
 ms:assetid: d88202db-7162-4c09-b6b2-926dc222cbc9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213709(v=AX.60)
 ms:contentKeyID: 44081052
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Recruit workforce overview 
@@ -112,5 +114,5 @@ The following table lists the forms that support the recruit workforce business 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

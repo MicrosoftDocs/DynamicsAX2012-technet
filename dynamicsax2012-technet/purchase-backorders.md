@@ -1,4 +1,4 @@
-﻿---
+---
 title: Purchase backorders
 TOCTitle: Purchase backorders
 ms:assetid: f18084c4-2db8-45ad-874a-1b1bcb977723
@@ -15,6 +15,8 @@ f1_keywords:
 - purchase back orders
 - purchase backorder
 - purchase backorders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Purchase backorders 
@@ -29,5 +31,5 @@ The topics in this section provide information about backorders for purchases.
 [View backorders by vendor](view-backorders-by-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

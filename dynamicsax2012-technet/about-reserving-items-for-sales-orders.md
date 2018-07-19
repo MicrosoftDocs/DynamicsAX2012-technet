@@ -1,4 +1,4 @@
-﻿---
+---
 title: About reserving items for sales orders
 TOCTitle: About reserving items for sales orders
 ms:assetid: 63bb9716-a782-489f-9801-7e1f56b075e5
@@ -11,6 +11,8 @@ f1_keywords:
 - item reservation
 - sales order reservation
 - reserve for sales order
+audience: Application User
+ms.search.region: Global
 ---
 
 # About reserving items for sales orders 
@@ -36,5 +38,5 @@ Inventory is reserved according to the setup of:
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

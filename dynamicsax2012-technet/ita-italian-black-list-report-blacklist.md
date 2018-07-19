@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Italian black list report (BlackList)
 TOCTitle: (ITA) Italian black list report (BlackList)
 ms:assetid: 0e12b6a8-5df1-4b89-951b-5890e5e2bb22
@@ -112,5 +112,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

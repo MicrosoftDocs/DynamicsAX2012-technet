@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create a fiscal establishment group
 TOCTitle: (BRA) Create a fiscal establishment group
 ms:assetid: 4157bbb4-c7b7-4c80-85cc-5f9e77a505f5
@@ -11,6 +11,8 @@ f1_keywords:
 - brazil
 - fiscal establishment
 - fiscal establishment group
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create a fiscal establishment group 
@@ -47,5 +49,5 @@ You must assign a fiscal establishment group to the fiscal establishment that yo
 [(BRA) Fiscal establishment groups (form)](https://technet.microsoft.com/en-us/library/jj923398\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

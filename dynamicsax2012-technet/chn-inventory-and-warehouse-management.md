@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Inventory and warehouse management
 TOCTitle: (CHN) Inventory and warehouse management
 ms:assetid: 03041712-1694-4e43-8603-5eaf27650c6f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663983(v=AX.60)
 ms:contentKeyID: 49384569
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Inventory and warehouse management 
@@ -26,5 +28,5 @@ The topics in this section provide more information about Inventory and warehous
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scheduling warehouse activities
 TOCTitle: Scheduling warehouse activities
 ms:assetid: ce3f62fd-ea48-4066-83d9-986c0f3a77e3
@@ -14,6 +14,8 @@ f1_keywords:
 - warehouse activities
 - inventory
 - reserving
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scheduling warehouse activities 
@@ -52,5 +54,5 @@ The topics in this section provide information about how to schedule warehouse a
 [Setting up and maintaining warehouse operations](setting-up-and-maintaining-warehouse-operations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

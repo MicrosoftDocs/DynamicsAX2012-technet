@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Accounts receivable reports
 TOCTitle: (CHN) Accounts receivable reports
 ms:assetid: 3c233842-58c3-4d7c-825d-2f03e9f80d43
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664025(v=AX.60)
 ms:contentKeyID: 49384609
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Accounts receivable reports 
@@ -635,5 +637,5 @@ If the **Display foreign currency** check box is selected, the report displays f
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

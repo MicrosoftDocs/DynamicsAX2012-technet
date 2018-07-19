@@ -1,4 +1,4 @@
-﻿---
+---
 title: Revalue assets overview
 TOCTitle: Revalue assets overview
 ms:assetid: c536feff-a295-41ff-a88d-c4308dc147d6
@@ -13,6 +13,8 @@ f1_keywords:
 - asset revaluations
 - assets revaluations
 - assets revaluation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Revalue assets overview 
@@ -67,5 +69,5 @@ The following table lists the forms that support the Revalue asset business proc
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

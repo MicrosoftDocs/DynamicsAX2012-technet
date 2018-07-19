@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using workflows
 TOCTitle: Using workflows
 ms:assetid: 9287fc1d-036f-4e78-92bd-c430cc5cf5d2
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - workflow
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using workflows 
@@ -28,5 +30,5 @@ The topics in this section explain how to submit documents to the workflow syste
 [Respond to work items in a workflow](respond-to-work-items-in-a-workflow.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About multisite activation readiness
 TOCTitle: About multisite activation readiness
 ms:assetid: ad01439b-d81f-439f-9c8c-2e0acae556e5
@@ -90,7 +90,7 @@ The following tables list and describe the conditions and requirements for multi
 <td><p>Deleted warehouses</p></td>
 <td><p>None</p></td>
 <td><p>Closed inventory transactions do not refer to a warehouse that has been deleted. <strong>InventDim</strong> records cannot refer to a deleted warehouse.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If this check fails, the validation displays a list of any deleted warehouses.</P>
@@ -169,7 +169,7 @@ The following tables list and describe the conditions and requirements for multi
 <td><p>Inventory dimensions</p></td>
 <td><p>None</p></td>
 <td><p>Inventory dimension combinations do not include both the site dimension and the warehouse dimension.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This check will fail when there is a defect in the application. To recover, you must manually clean up the <STRONG>Inventory Dimension</STRONG> table.</P>
@@ -201,7 +201,7 @@ The following table describes additional readiness checks that the validation pe
 <td><p>Site and production order relations</p></td>
 <td><p>None</p></td>
 <td><p>Open production orders do not span multiple sites.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If this check fails, the validation displays a list of the production orders that span multiple sites.</P>
@@ -239,7 +239,7 @@ The following table describes additional readiness checks that the validation pe
 <td><p>Inventory transaction ID on the same site</p></td>
 <td><p>None</p></td>
 <td><p>All open inventory transactions with the same inventory transaction ID, or Lot ID, are associated with the same site.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If this check fails, the validation displays a list of the lot IDs for which inventory transactions will be split across multiple sites.</P>
@@ -277,5 +277,5 @@ The following table describes additional readiness checks that the validation pe
 [Configure site structure (form)](https://technet.microsoft.com/en-us/library/hh202081\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

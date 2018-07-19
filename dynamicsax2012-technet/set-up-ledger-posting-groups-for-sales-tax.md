@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up ledger posting groups for sales tax
 TOCTitle: Set up ledger posting groups for sales tax
 ms:assetid: d3235eac-961a-4412-9b28-75eae8105278
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551052(v=AX.60)
 ms:contentKeyID: 36059508
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up ledger posting groups for sales tax 
@@ -60,5 +62,5 @@ If the **Apply U.S. taxation rules** check box is not selected, the following fi
 [Ledger posting groups (form)](https://technet.microsoft.com/en-us/library/aa598801\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

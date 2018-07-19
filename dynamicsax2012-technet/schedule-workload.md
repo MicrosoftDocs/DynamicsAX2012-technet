@@ -1,4 +1,4 @@
-﻿---
+---
 title: Schedule workload
 TOCTitle: Schedule workload
 ms:assetid: 579ee934-c0bf-404a-a8a5-ea3e7c085487
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728689(v=AX.60)
 ms:contentKeyID: 49556593
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Schedule workload 
@@ -107,5 +109,5 @@ To schedule and view workloads for warehouses, you must do the following tasks:
 5.  In the **Workload capacity** field, select a workload capacity setup.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

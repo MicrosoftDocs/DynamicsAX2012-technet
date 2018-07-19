@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create variables on the Class tab
 TOCTitle: Create variables on the Class tab
 ms:assetid: 4af3acaf-5aa4-4fad-859a-201dcdd0b370
@@ -10,6 +10,8 @@ f1_keywords:
 - product builder
 - class tab
 - create variables
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create variables on the Class tab 
@@ -38,5 +40,5 @@ This variable type lets you access all the classes defined in Microsoft Dynamics
 6.  Type a name for the variable in the **Variable** field.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

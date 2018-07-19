@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Project management and accounting
 TOCTitle: Working with Project management and accounting
 ms:assetid: 073e913b-b9f9-42b8-a1a0-d8297369b00f
@@ -8,6 +8,8 @@ ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Project
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Project management and accounting 
@@ -24,5 +26,5 @@ This section provides overviews of the Project management and accounting busines
 [Project analysis overview](project-analysis-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

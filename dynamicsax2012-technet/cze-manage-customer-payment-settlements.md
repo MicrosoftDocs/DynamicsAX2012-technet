@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Manage customer payment settlements
 TOCTitle: (CZE) Manage customer payment settlements
 ms:assetid: 18658e28-a0d3-4c55-8022-b84ca159d497
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677466(v=AX.60)
 ms:contentKeyID: 49384770
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Manage customer payment settlements 
@@ -22,5 +24,5 @@ The following topics provide information about managing customer payment settlem
 [(CZE) Create a credit note and copy the exchange rate](cze-create-a-credit-note-and-copy-the-exchange-rate.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

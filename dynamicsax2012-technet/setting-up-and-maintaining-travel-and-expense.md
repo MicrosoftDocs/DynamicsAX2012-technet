@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Travel and expense
 TOCTitle: Setting up and maintaining Travel and expense
 ms:assetid: 5c14f46e-5914-4a39-a8de-f50e969e69a7
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - expense
 - travel
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Travel and expense 
@@ -232,5 +234,5 @@ For more information about setup and maintenance tasks, see the System and Appli
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

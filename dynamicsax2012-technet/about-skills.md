@@ -1,4 +1,4 @@
-﻿---
+---
 title: About skills
 TOCTitle: About skills
 ms:assetid: 95741825-3544-4bf1-b593-774cb80b2c6e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498423(v=AX.60)
 ms:contentKeyID: 51020479
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About skills 
@@ -73,5 +75,5 @@ The number of rings inside the wheel corresponds to the number of skill levels t
 For more information, see [Create a skill gap analysis or a skill profile analysis](create-a-skill-gap-analysis-or-a-skill-profile-analysis.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

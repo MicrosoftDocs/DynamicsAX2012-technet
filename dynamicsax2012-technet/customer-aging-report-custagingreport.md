@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer aging report (CustAgingReport)
 TOCTitle: Customer aging report (CustAgingReport)
 ms:assetid: 4502bde0-2241-49ec-8323-8e4fb914a243
@@ -36,7 +36,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Billing classification</strong></p></td>
 <td><p>Select one or more billing classifications to include on the report.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
@@ -47,7 +47,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Include transactions without a billing classification</strong></p></td>
 <td><p>If this check box is selected, all transactions that do not have a billing classifications assigned to them will be displayed on the report.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
@@ -76,7 +76,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>Aging period definition</strong></p></td>
 <td><p>Select an aging period definition. The <strong>Interval</strong> field is not used if you select an aging period definition.</p>
 <p>Aging period definitions that have more than six aging periods cannot be used on the printed report.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>You can set up aging periods in the <STRONG>Aging period definitions</STRONG> form.</P>
@@ -91,7 +91,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Interval</strong></p></td>
 <td><p>Define the period to use by entering the number of the day or month units in each period. For example, to view aging information by week, enter 7 in this field and select <strong>Day</strong> in the <strong>Day/Mth</strong> field.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>The information that you enter in this field is used only if you have not selected an aging period definition.</P>
@@ -208,5 +208,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Aging period definitions (form)](https://technet.microsoft.com/en-us/library/aa634713\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

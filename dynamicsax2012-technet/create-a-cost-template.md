@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a cost template
 TOCTitle: Create a cost template
 ms:assetid: 61dcdc31-7458-42e7-837a-9dfe1abbd1a3
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - cost template
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a cost template 
@@ -62,5 +64,5 @@ If nothing has been modified in the **Cost lines** form, all existing categories
 [Cost lines setup (form)](https://technet.microsoft.com/en-us/library/aa617055\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

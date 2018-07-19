@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Edit dimensions form'
 TOCTitle: Edit dimensions form
 ms:assetid: 84e65b4a-61b1-48ee-a41a-ecbbe68436d7
@@ -53,5 +53,5 @@ In Microsoft Dynamics AX 2009, users can use the **Edit dimensions** form to cha
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

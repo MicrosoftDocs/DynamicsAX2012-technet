@@ -1,4 +1,4 @@
-﻿---
+---
 title: Convert accounting currency
 TOCTitle: Convert accounting currency
 ms:assetid: 7c9e5cb5-c8d1-4484-88f4-4fa1546b2e9d
@@ -11,6 +11,8 @@ f1_keywords:
 - accounting currencies
 - accounting currency
 - conversion currency
+audience: Application User
+ms.search.region: Global
 ---
 
 # Convert accounting currency 
@@ -29,5 +31,5 @@ The following topics provide information about tasks that are related to convert
 [Finish the currency conversion](finish-the-currency-conversion.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

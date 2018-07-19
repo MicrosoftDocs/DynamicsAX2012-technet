@@ -1,4 +1,4 @@
-﻿---
+---
 title: Correct a posted free text invoice
 TOCTitle: Correct a posted free text invoice
 ms:assetid: 5df615e5-dcba-4ad1-8b0e-a7f604c18239
@@ -12,6 +12,8 @@ f1_keywords:
 - edit posted invoice
 - free text invoice correction
 - invoice correction
+audience: Application User
+ms.search.region: Global
 ---
 
 # Correct a posted free text invoice 
@@ -68,5 +70,5 @@ For example, if you correct an original posted invoice that has a balance of 500
 [Free text invoice (form)](https://technet.microsoft.com/en-us/library/aa556897\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

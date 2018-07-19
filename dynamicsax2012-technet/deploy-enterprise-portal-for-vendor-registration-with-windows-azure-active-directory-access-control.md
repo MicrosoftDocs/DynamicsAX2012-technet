@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy Enterprise Portal for vendor registration with Windows Azure Active Directory Access Control
 TOCTitle: Deploy Enterprise Portal for vendor registration with Windows Azure Active Directory Access Control
 ms:assetid: 2c6e0947-fe25-40da-85e6-1485d2309d9c
@@ -520,5 +520,5 @@ You must configure the vendor on-boarding workflow process in the Microsoft Dyna
 [Deploy a claims-mode Enterprise Portal site](deploy-a-claims-mode-enterprise-portal-site.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

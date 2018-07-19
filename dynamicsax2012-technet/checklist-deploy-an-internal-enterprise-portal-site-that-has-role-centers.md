@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Checklist: Deploy an internal Enterprise Portal site that has Role Centers'
 TOCTitle: 'Checklist: Deploy an internal Enterprise Portal site that has Role Centers'
 ms:assetid: 6bcfd0a1-16c4-4821-b4d9-473fcbd17a0c
@@ -84,5 +84,5 @@ The following table describes the tasks that you must complete to deploy Enterpr
 [Checklist: Deploy a vendor registration portal](checklist-deploy-a-vendor-registration-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

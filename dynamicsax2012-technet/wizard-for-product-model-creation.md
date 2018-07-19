@@ -1,4 +1,4 @@
-﻿---
+---
 title: Wizard for product model creation
 TOCTitle: Wizard for product model creation
 ms:assetid: 5f11d9f5-642b-4fa8-9c01-fceb64c2a6b9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549114(v=AX.60)
 ms:contentKeyID: 36057586
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Wizard for product model creation 
@@ -60,5 +62,5 @@ The wizard guides the user through the following steps:
 10. Click **Finish** to finish creating the product model.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

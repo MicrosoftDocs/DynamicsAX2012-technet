@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up item excise tax groups
 TOCTitle: (IND) Set up item excise tax groups
 ms:assetid: 57395474-730d-4198-aef4-969c9c257c83
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677826(v=AX.60)
 ms:contentKeyID: 49385790
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up item excise tax groups 
@@ -121,5 +123,5 @@ Refer to the following examples for defining the calculation expression for exci
 [(IND) Setting up excise tax groups and item tax groups](ind-setting-up-excise-tax-groups-and-item-tax-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

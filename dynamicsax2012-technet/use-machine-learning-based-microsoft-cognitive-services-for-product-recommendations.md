@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use machine learning-based Microsoft Cognitive Services for product recommendations
 TOCTitle: Use machine learning-based Microsoft Cognitive Services for product recommendations
 ms:assetid: 27ea3982-592b-4969-89ac-bcfccca3e448
@@ -18,5 +18,5 @@ This white paper explains how you can use the new Cortana Intelligence services 
 You can access the white paper [here](https://mbs.microsoft.com/customersource/northamerica/ax/downloads/product-releases/msdax2012r3cu12whatsnew).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

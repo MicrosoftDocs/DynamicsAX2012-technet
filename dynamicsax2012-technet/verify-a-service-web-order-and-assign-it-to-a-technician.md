@@ -1,4 +1,4 @@
-﻿---
+---
 title: Verify a service Web order and assign it to a technician
 TOCTitle: Verify a service Web order and assign it to a technician
 ms:assetid: 4f76d052-0d8c-44e3-ba2f-4ba1e7e454f5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212757(v=AX.60)
 ms:contentKeyID: 42517321
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Verify a service Web order and assign it to a technician 
@@ -44,5 +46,5 @@ When customers or service technicians submit a service order through Enterprise 
 [Dispatching service order activities](dispatching-service-order-activities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

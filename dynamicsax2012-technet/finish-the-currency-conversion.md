@@ -1,4 +1,4 @@
-﻿---
+---
 title: Finish the currency conversion
 TOCTitle: Finish the currency conversion
 ms:assetid: 5e4beb66-b9ac-4946-b19a-eaafa09990e1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549103(v=AX.60)
 ms:contentKeyID: 36057582
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Finish the currency conversion 
@@ -74,5 +76,5 @@ If necessary, you can revalue foreign currency amounts after the currency conver
 14. Click **OK** to revalue the foreign currency amounts for vendors.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

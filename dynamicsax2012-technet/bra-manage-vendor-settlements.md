@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Manage vendor settlements
 TOCTitle: (BRA) Manage vendor settlements
 ms:assetid: 61602dfc-2dc6-40c6-950a-44a88e715552
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710521(v=AX.60)
 ms:contentKeyID: 49384412
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Manage vendor settlements 
@@ -24,5 +26,5 @@ The topics in this section provide information about how to manage vendor settle
 [(BRA) Reverse a check or Bordero payment](bra-reverse-a-check-or-bordero-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

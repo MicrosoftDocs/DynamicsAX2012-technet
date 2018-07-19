@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create a product group for SION and assign products to the group
 TOCTitle: (IND) Create a product group for SION and assign products to the group
 ms:assetid: 09e94141-b3e5-4d98-a2f3-cf7f4801c159
@@ -12,6 +12,8 @@ f1_keywords:
 - india
 - attach product group
 - product group
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create a product group for SION and assign products to the group 
@@ -62,5 +64,5 @@ Use the following procedures to create a product group for the SION, and then as
 [(IND) Released product details (modified form)](https://technet.microsoft.com/en-us/library/jj677909\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

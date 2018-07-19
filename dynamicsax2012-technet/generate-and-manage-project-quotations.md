@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate and manage project quotations
 TOCTitle: Generate and manage project quotations
 ms:assetid: c2f8669d-9294-4707-b002-709ec30b57e6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - project quotation
 - quotation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate and manage project quotations 
@@ -49,5 +51,5 @@ This section provides the following topics:
 [About synchronizing project information between Microsoft Dynamics AX and Microsoft Dynamics CRM](about-synchronizing-project-information-between-microsoft-dynamics-ax-and-microsoft-dynamics-crm.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

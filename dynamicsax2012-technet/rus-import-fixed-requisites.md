@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Import fixed requisites
 TOCTitle: (RUS) Import fixed requisites
 ms:assetid: d2904d81-c789-4271-869b-9f25511b8a3d
@@ -10,6 +10,8 @@ f1_keywords:
 - import
 - requisites
 - fixed requisites
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Import fixed requisites 
@@ -40,5 +42,5 @@ To import fixed requisites, you must create a Microsoft Excel worksheet that con
 [(RUS) Set up a fixed requisite](rus-set-up-a-fixed-requisite.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

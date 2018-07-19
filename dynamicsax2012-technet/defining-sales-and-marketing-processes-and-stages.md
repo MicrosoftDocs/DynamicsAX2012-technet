@@ -1,4 +1,4 @@
-﻿---
+---
 title: Defining Sales and marketing processes and stages
 TOCTitle: Defining Sales and marketing processes and stages
 ms:assetid: 9c027b01-f8d6-4886-8624-49fd7fd099fb
@@ -13,6 +13,8 @@ f1_keywords:
 - stages
 - stage
 - processes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Defining Sales and marketing processes and stages 
@@ -43,5 +45,5 @@ The topics in this section provide information about how to set up the Sales and
 [Create case processes and categories](create-case-processes-and-categories.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

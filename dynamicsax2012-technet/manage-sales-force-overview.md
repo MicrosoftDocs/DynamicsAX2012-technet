@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage sales force overview
 TOCTitle: Manage sales force overview
 ms:assetid: 6aad6bd4-f3bd-49ad-bf4e-fa89fff84a59
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - sales force
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage sales force overview 
@@ -113,5 +115,5 @@ The following table lists the forms that support the Manage sales-force business
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

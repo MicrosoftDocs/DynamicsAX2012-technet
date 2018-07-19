@@ -1,4 +1,4 @@
-﻿---
+---
 title: About consolidated batch orders
 TOCTitle: About consolidated batch orders
 ms:assetid: 03ec075c-f667-4dbb-b0f0-5fae83e59c71
@@ -14,6 +14,8 @@ f1_keywords:
 - group batch orders
 - manage consolidated batch orders
 - packed orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # About consolidated batch orders 
@@ -44,5 +46,5 @@ You firm and consolidate batch orders in the **Planned orders** form by using th
 [Planned orders (form)](https://technet.microsoft.com/en-us/library/aa620351\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

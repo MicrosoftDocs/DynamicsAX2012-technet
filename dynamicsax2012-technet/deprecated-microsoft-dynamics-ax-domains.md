@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Microsoft Dynamics AX domains'
 TOCTitle: Microsoft Dynamics AX domains
 ms:assetid: 1ec11cc4-c98a-44f6-b543-5c02a421ae56
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009 and earlier versions, a domain is a group of compa
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update vendor batch details during purchase registration
 TOCTitle: Update vendor batch details during purchase registration
 ms:assetid: 7a8e0d32-82b3-44f2-8cbf-a8f613ecfe2f
@@ -11,6 +11,8 @@ f1_keywords:
 - update vendor batch information
 - vendor batch details
 - vendor batch information
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update vendor batch details during purchase registration 
@@ -45,5 +47,5 @@ If a product meets these requirements, and you click **Post all** in the **Inven
 [Item model groups (form)](https://technet.microsoft.com/en-us/library/aa577092\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

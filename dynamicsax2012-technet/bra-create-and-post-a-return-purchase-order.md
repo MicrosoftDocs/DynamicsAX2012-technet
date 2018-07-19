@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post a return purchase order
 TOCTitle: (BRA) Create and post a return purchase order
 ms:assetid: cd55f3c7-c387-44bd-88d6-a71b59adc8a2
@@ -13,6 +13,8 @@ f1_keywords:
 - Create return purchase order
 - post return purchase order
 - return purchase order
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post a return purchase order 
@@ -91,5 +93,5 @@ Use the **Vendor invoice** form to post a return purchase order.
 [(BRA) Fiscal reference (form)](https://technet.microsoft.com/en-us/library/jj710558\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

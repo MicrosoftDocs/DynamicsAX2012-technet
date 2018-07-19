@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage roles
 TOCTitle: Manage roles
 ms:assetid: 4eba9b84-5e5d-47d5-927b-da7407ccfcf5
@@ -22,5 +22,5 @@ This section provides information about how to manage roles in Microsoft Dynamic
 [Create or modify a security privilege, duty, or process cycle](create-or-modify-a-security-privilege-duty-or-process-cycle.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

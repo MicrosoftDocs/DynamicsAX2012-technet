@@ -1,4 +1,4 @@
-﻿---
+---
 title: Download sales orders from an online store
 TOCTitle: Download sales orders from an online store
 ms:assetid: 7e220abc-ea57-4769-bf4b-fe8ee75221f7
@@ -14,6 +14,8 @@ f1_keywords:
 - Forms.RetailCDXSchedule
 - Online store
 - online transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Download sales orders from an online store 
@@ -64,5 +66,5 @@ To download sales orders from an online store, follow these steps:
 [About online stores](about-online-stores.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

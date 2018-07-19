@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up loyalty programs
 TOCTitle: About setting up loyalty programs
 ms:assetid: fd8fc5df-0530-439d-ab14-4c0533d41c9a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - loyalty program
 - loyalty programs
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up loyalty programs 
@@ -45,5 +47,5 @@ In Microsoft Dynamics AX 2012 R2, you can set up loyalty programs so that custom
 To apply loyalty programs to your online stores, set up and configure the loyalty program by using the same steps that you use for your brick and mortar stores. After the loyalty program is configured for the online store, customers can link their loyalty card number to their online account to earn loyalty points when they shop online.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

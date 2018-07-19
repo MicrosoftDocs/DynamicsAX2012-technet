@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trace all demands for an item
 TOCTitle: Trace all demands for an item
 ms:assetid: e86f899a-5a5b-430f-94d0-d8486722b5e1
@@ -10,6 +10,8 @@ f1_keywords:
 - trace demands
 - trace item demands
 - trace product demands
+audience: Application User
+ms.search.region: Global
 ---
 
 # Trace all demands for an item 
@@ -28,5 +30,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 4.  To see reservations on an item, select a relevant line, and then click **Reservation** to open the **Reservation** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

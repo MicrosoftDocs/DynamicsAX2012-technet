@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Procurement site
 TOCTitle: Using the Procurement site
 ms:assetid: 530f7a24-1635-40a9-8237-ffa6e74b30dc
@@ -13,6 +13,8 @@ f1_keywords:
 - vendor items
 - vendor price agreements
 - defaultEmployeeServicesProcurement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using the Procurement site 
@@ -37,5 +39,5 @@ This section contains the following topics:
 [Working with vendor invoices](working-with-vendor-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

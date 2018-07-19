@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update a party record name or view name changes
 TOCTitle: Update a party record name or view name changes
 ms:assetid: a422a31c-d675-4b53-bedf-6d3cbb22671d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh524758(v=AX.60)
 ms:contentKeyID: 37072064
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update a party record name or view name changes 
@@ -46,5 +48,5 @@ You can update the name of a party record and view the history of any changes to
 [Set effective dates and view inactive addresses for party record](set-effective-dates-and-view-inactive-addresses-for-party-record.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

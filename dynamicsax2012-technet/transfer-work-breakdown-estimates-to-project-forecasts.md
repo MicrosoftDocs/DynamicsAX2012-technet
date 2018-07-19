@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transfer work breakdown estimates to project forecasts
 TOCTitle: Transfer work breakdown estimates to project forecasts
 ms:assetid: 0b03c599-ddc1-4159-a4b7-237a54b513ed
@@ -8,6 +8,8 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.ProjForecastTransferFromWbs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Transfer work breakdown estimates to project forecasts 
@@ -88,5 +90,5 @@ The steps that you follow to transfer WBS estimates to item requirements depend 
 [Manage project forecasts](manage-project-forecasts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tools for monitoring performance
 TOCTitle: Tools for monitoring performance
 ms:assetid: 2e740397-8bf2-41d1-8855-98b4397a5b83
@@ -48,5 +48,5 @@ We recommend the following tools for monitoring the performance of Microsoft Dyn
 [Plan for performance optimization and testing](plan-for-performance-optimization-and-testing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

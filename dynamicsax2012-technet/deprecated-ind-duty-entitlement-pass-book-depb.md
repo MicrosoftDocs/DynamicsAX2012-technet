@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (IND) Duty Entitlement Pass Book (DEPB)'
 TOCTitle: (IND) Duty Entitlement Pass Book (DEPB)
 ms:assetid: 2d95e40e-9597-4ee7-93de-dddfd2ccf8f4
@@ -53,5 +53,5 @@ For Indian installations, Microsoft Dynamics AX 2009 provides a country-specific
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

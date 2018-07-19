@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Download bank statement files using CIS
 TOCTitle: (BEL) Download bank statement files using CIS
 ms:assetid: 6aba7bd5-3c4b-4d93-b4bc-f768bfc62d95
@@ -11,6 +11,8 @@ f1_keywords:
 - Belgium
 - CIS
 - payment file
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Download bank statement files using CIS 
@@ -53,5 +55,5 @@ The downloaded bank statement files are in CODA format. You can use the **Bank s
 [(BEL) Generate customer payment files and upload them using CIS](bel-generate-customer-payment-files-and-upload-them-using-cis.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About shipments
 TOCTitle: About shipments
 ms:assetid: b6d41691-3295-4b96-b9a5-867b717a105f
@@ -10,6 +10,8 @@ f1_keywords:
 - shipment
 - item transport
 - ship items
+audience: Application User
+ms.search.region: Global
 ---
 
 # About shipments 
@@ -89,5 +91,5 @@ Output orders can be added to shipments automatically. This is controlled by the
 [Complete shipments](complete-shipments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

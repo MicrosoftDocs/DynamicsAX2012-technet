@@ -1,4 +1,4 @@
-﻿---
+---
 title: Record the receipt of vendor invoices and match against received quantities
 TOCTitle: Record the receipt of vendor invoices and match against received quantities
 ms:assetid: 10264492-71c9-41f9-a940-239c0cdc530a
@@ -14,6 +14,8 @@ f1_keywords:
 - receipt
 - received quantities
 - received quantity
+audience: Application User
+ms.search.region: Global
 ---
 
 # Record the receipt of vendor invoices and match against received quantities 
@@ -118,5 +120,5 @@ You can match vendor invoices to product receipts for multiple invoices at the s
 [Correct a vendor invoice that was matched to the wrong product receipt line](correct-a-vendor-invoice-that-was-matched-to-the-wrong-product-receipt-line.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

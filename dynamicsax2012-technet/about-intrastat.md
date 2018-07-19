@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Intrastat
 TOCTitle: About Intrastat
 ms:assetid: 2d52e8cf-dcda-4f91-b410-ba3aa1b12045
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548435(v=AX.60)
 ms:contentKeyID: 36655927
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Intrastat 
@@ -58,7 +60,7 @@ The following table shows requirements that must be completed before Intrastat t
 <li><p>Click the <strong>Transfer</strong> and <strong>Check setup</strong> FastTabs, and then select other specific criteria for transferring transactions to Intrastat.</p></li>
 <li><p>Click <strong>Number sequences</strong>, and then specify number sequences for foreign trade documents.</p></li>
 </ol>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>The country/region that you are sending goods to or receiving goods from must be in the EU.</P>
@@ -146,5 +148,5 @@ The following steps illustrate the process for generating Intrastat information 
 [(SWE) Generate an Intrastat file for an EU vendor](swe-generate-an-intrastat-file-for-an-eu-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

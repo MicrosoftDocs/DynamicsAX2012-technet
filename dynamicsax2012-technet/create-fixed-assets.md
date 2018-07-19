@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create fixed assets
 TOCTitle: Create fixed assets
 ms:assetid: 77f57b45-9d9e-4e65-847d-8168916b95f4
@@ -11,6 +11,8 @@ f1_keywords:
 - assets creation
 - fixed asset creation
 - fixed assets creation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create fixed assets 
@@ -37,5 +39,5 @@ The topics in this section provide information about how to create fixed assets.
 [Propose fixed asset acquisitions](propose-fixed-asset-acquisitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

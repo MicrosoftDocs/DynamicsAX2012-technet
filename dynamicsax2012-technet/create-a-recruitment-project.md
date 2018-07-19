@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a recruitment project
 TOCTitle: Create a recruitment project
 ms:assetid: a559798f-0ed2-439e-8102-e5737256e04e
@@ -10,6 +10,8 @@ f1_keywords:
 - New recruiting group
 - New recruitment project
 - recruitment project
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a recruitment project 
@@ -62,5 +64,5 @@ You can use the **Recruitment projects** list page to create new recruitment pro
 [(USA) Recruit online with Sites Services](https://technet.microsoft.com/en-us/library/hh209126\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for cash payment receipt
 TOCTitle: (RUS) Set up a register for cash payment receipt
 ms:assetid: 13166020-b196-4912-a4e9-370428e83a86
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711406(v=AX.60)
 ms:contentKeyID: 49387225
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for cash payment receipt 
@@ -62,5 +64,5 @@ You must set up account interval groups, create expense or income codes, and set
 [(RUS) Expense code setup (form)](https://technet.microsoft.com/en-us/library/jj839690\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

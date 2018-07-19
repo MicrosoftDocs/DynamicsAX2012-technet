@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up an assortment
 TOCTitle: Set up an assortment
 ms:assetid: 7e0bb912-9ca3-4123-99a8-f887e828128b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - assortment
 - assortments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up an assortment 
@@ -94,5 +96,5 @@ After you create an assortment and assign it to the appropriate retail channels,
 [Retail assortments job (form)](https://technet.microsoft.com/en-us/library/hh597306\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

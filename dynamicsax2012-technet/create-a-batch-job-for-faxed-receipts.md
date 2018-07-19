@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a batch job for faxed receipts
 TOCTitle: Create a batch job for faxed receipts
 ms:assetid: fc2cb8e6-ecd0-4799-b08f-3f3bcd9710f3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227575(v=AX.60)
 ms:contentKeyID: 36060089
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a batch job for faxed receipts 
@@ -28,5 +30,5 @@ You can create a batch import of receipts that employees fax in as they incur ex
     You can set up a recurring import by clicking the **Recurrence** button.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

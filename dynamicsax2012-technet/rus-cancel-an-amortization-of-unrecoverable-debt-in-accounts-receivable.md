@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Cancel an amortization of unrecoverable debt in Accounts receivable
 TOCTitle: (RUS) Cancel an amortization of unrecoverable debt in Accounts receivable
 ms:assetid: cd9289b1-1cd4-45f5-a4de-39fa78879031
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711616(v=AX.60)
 ms:contentKeyID: 49387940
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Cancel an amortization of unrecoverable debt in Accounts receivable 
@@ -42,5 +44,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(RUS) Amortize an unrecoverable debt in Accounts receivable](rus-amortize-an-unrecoverable-debt-in-accounts-receivable.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

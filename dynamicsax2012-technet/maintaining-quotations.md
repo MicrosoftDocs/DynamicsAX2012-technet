@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintaining quotations
 TOCTitle: Maintaining quotations
 ms:assetid: 22df8fc8-75e9-40cc-a9ba-409b3effb3eb
@@ -13,6 +13,8 @@ f1_keywords:
 - salesquotations
 - update quotation
 - quote
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintaining quotations 
@@ -47,5 +49,5 @@ The topics in this section provide information about quotations.
 [About quotation delivery schedules](about-quotation-delivery-schedules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

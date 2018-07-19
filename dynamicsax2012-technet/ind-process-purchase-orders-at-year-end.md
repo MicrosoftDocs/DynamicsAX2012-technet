@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Process purchase orders at year end
 TOCTitle: (IND) Process purchase orders at year end
 ms:assetid: ad13bc32-e4b1-497e-97bf-3ce2dcf52164
@@ -11,6 +11,8 @@ f1_keywords:
 - purchase orders
 - (IND)
 - India
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Process purchase orders at year end 
@@ -36,5 +38,5 @@ Closing purchase order encumbrances is a separate process from closing a fiscal 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

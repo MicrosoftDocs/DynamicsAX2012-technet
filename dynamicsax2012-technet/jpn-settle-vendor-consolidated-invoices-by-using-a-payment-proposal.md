@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Settle vendor consolidated invoices by using a payment proposal
 TOCTitle: (JPN) Settle vendor consolidated invoices by using a payment proposal
 ms:assetid: f2f2b651-ae4d-4bfe-890f-ab190c3dbba9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664989(v=AX.60)
 ms:contentKeyID: 49386573
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Settle vendor consolidated invoices by using a payment proposal 
@@ -58,5 +60,5 @@ Use the **Vendor payment proposal** form to settle open transactions that are re
 [Vendor payment proposal - Edit (form)](https://technet.microsoft.com/en-us/library/aa616323\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

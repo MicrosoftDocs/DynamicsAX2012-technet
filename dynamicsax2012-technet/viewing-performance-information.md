@@ -1,4 +1,4 @@
-﻿---
+---
 title: Viewing performance information
 TOCTitle: Viewing performance information
 ms:assetid: d9a94529-91ec-416a-912b-3f6c42494ea0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271664(v=AX.60)
 ms:contentKeyID: 36384296
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Viewing performance information 
@@ -22,5 +24,5 @@ This section contains the following topics:
 [Add and remove goal comments](add-and-remove-goal-comments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

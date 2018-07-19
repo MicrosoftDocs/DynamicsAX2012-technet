@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use bar codes in warehouse operations
 TOCTitle: Use bar codes in warehouse operations
 ms:assetid: adbc48d2-6d6b-4ad1-8051-16fcbad113be
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn906144(v=AX.60)
 ms:contentKeyID: 63972493
 ms.date: 05/06/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Use bar codes in warehouse operations 
@@ -54,5 +56,5 @@ After you have configured bar codes for products or variants, you can use them i
 [Setting up mobile devices](setting-up-mobile-devices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enroll and remove benefits for workers
 TOCTitle: Enroll and remove benefits for workers
 ms:assetid: 38c5702d-35a6-4619-a7eb-ab894add5b42
@@ -10,6 +10,8 @@ f1_keywords:
 - benefits
 - benefit
 - benefit enrollment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enroll and remove benefits for workers 
@@ -111,5 +113,5 @@ You can enroll and remove workers from benefit plans and specify the dates when 
 [Maintain information for dependents and beneficiaries](maintain-information-for-dependents-and-beneficiaries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

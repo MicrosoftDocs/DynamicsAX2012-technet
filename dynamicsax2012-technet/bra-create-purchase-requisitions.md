@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create purchase requisitions
 TOCTitle: (BRA) Create purchase requisitions
 ms:assetid: 50457f2a-86eb-42e2-b00c-ced747e5d590
@@ -10,6 +10,8 @@ f1_keywords:
 - purchase requisition
 - BRA
 - brazil
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create purchase requisitions 
@@ -22,5 +24,5 @@ The following topic provides information about creating a purchase requisition.
 [(BRA) Create a purchase requisition](bra-create-a-purchase-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

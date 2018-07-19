@@ -1,4 +1,4 @@
-﻿---
+---
 title: Protect a Microsoft Dynamics AX 2012 R2 environment with System Center 2012 Data Protection Manager
 TOCTitle: Protect an AX 2012 R2 environment with DPM
 ms:assetid: b5b01674-f894-4dd6-9694-ab5bc1a8351a
@@ -62,5 +62,5 @@ This section describes issues that you might encounter and how you can recover f
 [Recover a Microsoft Dynamics AX 2012 R2 environment with System Center 2012 Data Protection Manager](recover-a-microsoft-dynamics-ax-2012-r2-environment-with-system-center-2012-data-protection-manager.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

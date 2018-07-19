@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Advance holder balance report (EmplBalance_RU)
 TOCTitle: (RUS) Advance holder balance report (EmplBalance_RU)
 ms:assetid: 31ced6dc-c493-47df-b2b3-904bdee57727
@@ -124,5 +124,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(RUS) Advance holder transactions report (EmplTransList\_RU)](rus-advance-holder-transactions-report-empltranslist-ru.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

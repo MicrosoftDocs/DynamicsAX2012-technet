@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budgeting roadmap
 TOCTitle: Budgeting roadmap
 ms:assetid: c61c4dc3-fc1e-42e9-8fd5-cee3dd48df22
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Budget roadmap
 - Budgeting roadmap
+audience: Application User
+ms.search.region: Global
 ---
 
 # Budgeting roadmap 
@@ -308,18 +310,5 @@ Budgeting can be integrated with the following modules:
 
 Back to top
 
-## Still didn’t find what you were looking for?
 
-Here are some related search results on WebSearchAX that might help. You can search for other information by entering words or phrases in the **Search for Help** text box on the [WebSearchAX](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?orgi=parentdir%26savn=show%26bngm=bingapi) site.
-
-  - [Search results for "Budgeting"](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=budgeting%26savn=hide%26orgi=wsc1%26bngi=t)
-
-  - [Search results for "Budget control"](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=budget+control%26savn=hide%26orgi=wsc1%26bngi=t)
-
-  - [Search results for "Budget planning"](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=budget+planning%26savn=hide%26orgi=wsc1%26bngi=t)
-
-Back to top
-
-  
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
 

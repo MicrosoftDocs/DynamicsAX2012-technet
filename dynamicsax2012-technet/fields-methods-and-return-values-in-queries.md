@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fields, methods, and return values in queries
 TOCTitle: Fields, methods, and return values in queries
 ms:assetid: 1a71f6ac-ddd1-4d9e-a88d-b9cfffc80e9d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569921(v=AX.60)
 ms:contentKeyID: 36056122
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Fields, methods, and return values in queries 
@@ -26,5 +28,5 @@ The methods that are enabled are used similarly to the fields. However, the meth
 You can specify various formats for the return value of the query. For example, the return value can be displayed as a total, an average, or a count.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

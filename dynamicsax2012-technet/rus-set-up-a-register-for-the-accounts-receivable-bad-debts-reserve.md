@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for the accounts receivable bad debts reserve
 TOCTitle: (RUS) Set up a register for the accounts receivable bad debts reserve
 ms:assetid: 91d203da-8823-403c-95c8-337881bdb41e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678485(v=AX.60)
 ms:contentKeyID: 49387714
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for the accounts receivable bad debts reserve 
@@ -48,5 +50,5 @@ The remaining reserve for the previous period is taken in respect of the Account
 [(RUS) Calculate the accounts receivable bad debts reserve register](rus-calculate-the-accounts-receivable-bad-debts-reserve-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

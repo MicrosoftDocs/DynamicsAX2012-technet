@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Set up and maintain a Sites Services account
 TOCTitle: (USA) Set up and maintain a Sites Services account
 ms:assetid: de142cf9-b6b3-4ae7-86bb-d00a98ab1d74
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227411(v=AX.60)
 ms:contentKeyID: 36059685
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Set up and maintain a Sites Services account 
@@ -73,5 +75,5 @@ This is typically the name of the organization. The web address is composed of t
 [(USA) Create a Sites Services solution](usa-create-a-sites-services-solution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

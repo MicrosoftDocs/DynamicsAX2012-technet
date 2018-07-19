@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Capitalize assets overview
 TOCTitle: (BRA) Capitalize assets overview
 ms:assetid: 1578fdfb-d280-4b37-8e19-ced16f359c33
@@ -10,6 +10,8 @@ f1_keywords:
 - BRA
 - Brazil
 - capitalize assets
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Capitalize assets overview 
@@ -24,5 +26,5 @@ The following topics provide information about capitalizing fixed assets.
 [(BRA) Create and post a free text invoice that has charges for a fixed asset line](bra-create-and-post-a-free-text-invoice-that-has-charges-for-a-fixed-asset-line.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

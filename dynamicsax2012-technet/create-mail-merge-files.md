@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create mail merge files
 TOCTitle: Create mail merge files
 ms:assetid: d35a02c6-6a25-4dee-a6d7-018fcec89c1b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551065(v=AX.60)
 ms:contentKeyID: 36059509
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create mail merge files 
@@ -56,5 +58,5 @@ You can create a mail merge file by filtering the **Prospects** and **Contacts**
 7.  Click **OK** to generate the mail merge file in the location that you specified.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

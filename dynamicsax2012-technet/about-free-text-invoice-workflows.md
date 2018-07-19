@@ -1,4 +1,4 @@
-﻿---
+---
 title: About free text invoice workflows
 TOCTitle: About free text invoice workflows
 ms:assetid: 4580dc61-a128-425f-9c1e-b863aa1c1383
@@ -10,6 +10,8 @@ f1_keywords:
 - overview of free text invoice workflow
 - workflow type
 - workflow, free text invoice overview
+audience: Application User
+ms.search.region: Global
 ---
 
 # About free text invoice workflows 
@@ -178,5 +180,5 @@ This example explains how to create a workflow in which a user must approve a fr
 [Set up Accounts receivable workflows](set-up-accounts-receivable-workflows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

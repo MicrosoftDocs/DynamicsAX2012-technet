@@ -1,4 +1,4 @@
-﻿---
+---
 title: About production journals
 TOCTitle: About production journals
 ms:assetid: 44ce0cb7-7406-4f09-ab39-07c625a61a59
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496978(v=AX.60)
 ms:contentKeyID: 36056888
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About production journals 
@@ -44,5 +46,5 @@ Production journals are divided into two components: the journal itself and the 
 [About production posting](about-production-posting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

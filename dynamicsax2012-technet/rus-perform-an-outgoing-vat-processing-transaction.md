@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Perform an outgoing VAT processing transaction
 TOCTitle: (RUS) Perform an outgoing VAT processing transaction
 ms:assetid: f0127d0c-88fc-4d87-bfd7-698a2c49fbc0
@@ -10,6 +10,8 @@ f1_keywords:
 - VAT
 - outgoing VAT
 - outgoing VAT transaction
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Perform an outgoing VAT processing transaction 
@@ -98,5 +100,5 @@ You can define the parameters for outgoing value-added tax (VAT) processing oper
 [(RUS) Sales books journal (form)](https://technet.microsoft.com/en-us/library/jj853161\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shared Financial Data Management (White paper)
 TOCTitle: Shared Financial Data Management
 ms:assetid: f22e343b-69b7-4c06-90d0-d8d13dc969b4
@@ -18,5 +18,5 @@ This white paper provides conceptual information so that you can plan the chart 
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=246258)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

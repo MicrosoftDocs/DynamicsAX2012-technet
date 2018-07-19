@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security recommendations for using alerts
 TOCTitle: Security recommendations for using alerts
 ms:assetid: 9b54f4ed-9659-4fb4-a0a4-52e4736ede33
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834421(v=AX.60)
 ms:contentKeyID: 46687560
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Security recommendations for using alerts 
@@ -62,5 +64,5 @@ You must specify a system location that email attachments and embedded email dat
 3.  Click **Close** to save the settings.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

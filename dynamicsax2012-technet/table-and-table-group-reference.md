@@ -1,4 +1,4 @@
-﻿---
+---
 title: Table and table group reference
 TOCTitle: Table and table group reference
 ms:assetid: 0d41cc20-f60d-4b0e-8f5d-6dca9fb0d82a
@@ -137,5 +137,5 @@ The following table groups are available in Microsoft Dynamics AX:
 [Create definition groups for import and export](create-definition-groups-for-import-and-export.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About analyzing reported costs for current production orders
 TOCTitle: About analyzing reported costs for current production orders
 ms:assetid: 2dfc7e5e-fda7-44bd-b19a-61dc82ae07f5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231020(v=AX.60)
 ms:contentKeyID: 36056271
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About analyzing reported costs for current production orders 
@@ -30,5 +32,5 @@ Reported production activities can be grouped into four types of transactions. T
 [About analyzing costs for a production order](about-analyzing-costs-for-a-production-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

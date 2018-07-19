@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up advance adjustment parameters for advance holders
 TOCTitle: (RUS) Set up advance adjustment parameters for advance holders
 ms:assetid: 8d87ae88-39cf-4e5d-a50d-a932b6aae78c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853204(v=AX.60)
 ms:contentKeyID: 50396485
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up advance adjustment parameters for advance holders 
@@ -60,5 +62,5 @@ Use the following procedure to set up advance adjustment parameters for advance 
 [(RUS) Advance adjustment parameters (form)](https://technet.microsoft.com/en-us/library/jj853184\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

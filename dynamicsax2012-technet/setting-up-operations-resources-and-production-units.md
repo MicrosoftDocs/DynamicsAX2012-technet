@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up operations resources and production units
 TOCTitle: Setting up operations resources and production units
 ms:assetid: dcdf80e1-5bfd-40b7-bc33-7a1a779902e4
@@ -13,6 +13,8 @@ f1_keywords:
 - production
 - operations
 - production units
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up operations resources and production units 
@@ -39,5 +41,5 @@ The topics in this section provide information about setting up operations resou
 [Set up a production unit](set-up-a-production-unit.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

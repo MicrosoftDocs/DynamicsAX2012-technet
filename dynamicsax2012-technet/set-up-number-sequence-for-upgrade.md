@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up number sequence for upgrade
 TOCTitle: Set up number sequence for upgrade
 ms:assetid: 98efee6f-bb16-4850-9ccb-8ab0fc6f9398
@@ -41,5 +41,5 @@ Use the **Set up number sequence for upgrade** form to set up the number sequenc
 [Set up number sequence for upgrade (form)](https://technet.microsoft.com/en-us/library/hh202085\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

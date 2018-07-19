@@ -1,4 +1,4 @@
-﻿---
+---
 title: About process documentation
 TOCTitle: About process documentation
 ms:assetid: fd3778bc-0112-4920-926c-c2adc428f12b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299235(v=AX.60)
 ms:contentKeyID: 36384341
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About process documentation 
@@ -46,5 +48,5 @@ In the context of compliance, evidence provides proof that a control exists and 
 [About compliance resources](about-compliance-resources.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

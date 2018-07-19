@@ -1,4 +1,4 @@
-﻿---
+---
 title: Global address books and address reference data
 TOCTitle: Global address books and address reference data
 ms:assetid: 11e4bc19-6a3e-4066-8682-0dd43cfd0db1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751354(v=AX.60)
 ms:contentKeyID: 35132552
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Global address books and address reference data 
@@ -52,5 +54,5 @@ You can set up translations of country/region information. You can view the coun
 [Convert party types](convert-party-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

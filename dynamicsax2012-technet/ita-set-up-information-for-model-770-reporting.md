@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Set up information for Model 770 reporting
 TOCTitle: (ITA) Set up information for Model 770 reporting
 ms:assetid: 7787a3d9-06c8-46ce-a5c2-f08e79dcbc2d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Italy
 - Modello 770
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Set up information for Model 770 reporting 
@@ -101,5 +103,5 @@ Use the **General ledger parameters** form to set up a number sequence for the M
 [(ITA) Create and export the Model 770 report as an ASCII file](ita-create-and-export-the-model-770-report-as-an-ascii-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About cost categories used in production routings
 TOCTitle: About cost categories used in production routings
 ms:assetid: bd761559-f3df-4ef2-9a49-7b3d930358ab
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213616(v=AX.60)
 ms:contentKeyID: 36059155
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About cost categories used in production routings 
@@ -50,5 +52,5 @@ Certain types of production work may apply to project time estimates and reporti
 [About cost categories used in Production control and in Project management and accounting](about-cost-categories-used-in-production-control-and-in-project-management-and-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

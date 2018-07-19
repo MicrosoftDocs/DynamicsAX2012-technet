@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install and configure Windows AppFabric for Enterprise Portal
 TOCTitle: Install and configure Windows AppFabric for Enterprise Portal
 ms:assetid: b9a24873-27cb-456e-893e-b79ee90512f7
@@ -720,5 +720,5 @@ Use the following procedure to verify that the AppFabric cache stores Enterprise
 [Install Enterprise Portal in a Web farm](install-enterprise-portal-in-a-web-farm.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

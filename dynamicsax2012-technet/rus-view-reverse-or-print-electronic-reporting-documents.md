@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) View, reverse, or print electronic reporting documents
 TOCTitle: (RUS) View, reverse, or print electronic reporting documents
 ms:assetid: 1d2218f9-f295-4784-b735-a7b213e9229a
@@ -11,6 +11,8 @@ f1_keywords:
 - documents
 - electronic reporting
 - print document
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) View, reverse, or print electronic reporting documents 
@@ -73,5 +75,5 @@ Use the **Version** form to view, reverse, or print an electronic reporting docu
 [(RUS) Versions (form)](https://technet.microsoft.com/en-us/library/jj710762\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

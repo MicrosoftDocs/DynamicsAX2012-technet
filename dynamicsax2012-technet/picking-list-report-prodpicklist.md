@@ -1,4 +1,4 @@
-﻿---
+---
 title: Picking list report (ProdPicklist)
 TOCTitle: Picking list report (ProdPicklist)
 ms:assetid: a5f59e15-6293-4194-86e3-d44468f57bc1
@@ -151,5 +151,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

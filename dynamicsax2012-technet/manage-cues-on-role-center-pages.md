@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage Cues on Role Center pages
 TOCTitle: Manage Cues on Role Center pages
 ms:assetid: ab966176-2f37-4263-a494-65a2158d7ac2
@@ -42,5 +42,5 @@ After you create the cue, the cue is listed in the **Edit cues** form.
 4.  Click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: LedgerPeriod form and table'
 TOCTitle: LedgerPeriod form and table
 ms:assetid: 63fd0666-2b75-4698-8ed3-b58988c91286
@@ -60,5 +60,5 @@ In Microsoft Dynamics AX 2009, the LedgerPeriod table and form are used to creat
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

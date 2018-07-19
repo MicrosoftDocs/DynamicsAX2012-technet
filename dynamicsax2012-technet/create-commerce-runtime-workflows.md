@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create Commerce Runtime Workflows
 TOCTitle: Create Commerce Runtime Workflows
 ms:assetid: 8e77e897-be62-4e1a-80c4-0d33f0183c15
@@ -370,5 +370,5 @@ You cannot customize the workflow that is included with the CRT, but you can rep
 [Retail Modern Point of Sale](retail-modern-point-of-sale.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

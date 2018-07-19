@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Create and export the Model 770 report as an ASCII file
 TOCTitle: (ITA) Create and export the Model 770 report as an ASCII file
 ms:assetid: 933893a6-abeb-42dd-b915-2d212838471e
@@ -10,6 +10,8 @@ f1_keywords:
 - Italy
 - ASCII file
 - Modello 770
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Create and export the Model 770 report as an ASCII file 
@@ -130,5 +132,5 @@ You can save and close the report numerous times without actually creating the f
 [(ITA) Withholding tax - Model 770 (form)](https://technet.microsoft.com/en-us/library/hh706143\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

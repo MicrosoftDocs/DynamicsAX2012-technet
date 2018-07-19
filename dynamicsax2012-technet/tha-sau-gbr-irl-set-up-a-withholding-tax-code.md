@@ -1,4 +1,4 @@
-﻿---
+---
 title: (THA, SAU, GBR, IRL) Set up a withholding tax code
 TOCTitle: (THA, SAU, GBR, IRL) Set up a withholding tax code
 ms:assetid: 9850397e-bc51-4361-88a9-9d6adad712c2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Thailand
 - withholding tax code
+audience: Application User
+ms.search.region: Ireland, Saudi Arabia,Thailand, United Kingdom
 ---
 
 # (THA, SAU, GBR, IRL) Set up a withholding tax code 
@@ -41,5 +43,5 @@ You can create a withholding tax code by using the **Withholding tax codes** for
 11. Click **Values** to open the **Withholding tax values** form, and specify the withholding tax values for the withholding tax code. For more information, see [Withholding tax values (form)](https://technet.microsoft.com/en-us/library/aa615586\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

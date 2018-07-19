@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up a default description for withholding tax, interest, and fine payments
 TOCTitle: (BRA) Set up a default description for withholding tax, interest, and fine payments
 ms:assetid: a229d48e-d373-4e8c-8d5a-2dc73bf76d9d
@@ -20,6 +20,8 @@ f1_keywords:
 - withholding tax payment to vendor
 - withholoding tax payment to customer
 - witholding tax
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up a default description for withholding tax, interest, and fine payments 
@@ -64,5 +66,5 @@ Use the **Default descriptions** form to set up default descriptions and corresp
 [(BRA) Analytical ledger report (LedgerJournalAnalytReasonReport\_BR)](https://technet.microsoft.com/en-us/library/jj710455\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

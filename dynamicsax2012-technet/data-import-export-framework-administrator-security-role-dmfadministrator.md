@@ -1,4 +1,4 @@
-﻿---
+---
 title: Data import/export framework administrator security role (DMFAdministrator)
 TOCTitle: Data import/export framework administrator security role (DMFAdministrator)
 ms:assetid: 24817f66-6d49-4d65-9a11-c2f99906636c
@@ -82,5 +82,5 @@ By default, this security role is assigned the following privileges in Microsoft
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

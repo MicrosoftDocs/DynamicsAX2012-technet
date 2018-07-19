@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new in Microsoft Dynamics AX 2012
 TOCTitle: What's new in Microsoft Dynamics AX 2012
 ms:assetid: 92b23375-3673-4773-9f25-e9f2dca9cd3b
@@ -160,5 +160,5 @@ Topics in the What’s new section describe new and changed features that are in
 [What's New: X++ for Developers in Microsoft Dynamics AX 2012](what-s-new-x-for-developers-in-microsoft-dynamics-ax-2012.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up sales tax codes
 TOCTitle: Setting up sales tax codes
 ms:assetid: 05802d5c-cb62-4b96-80ad-2b80b2fbe1dc
@@ -12,6 +12,8 @@ f1_keywords:
 - tax
 - tax code
 - tax setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up sales tax codes 
@@ -46,5 +48,5 @@ The topics in this section provide information about how to set up sales tax cod
 [(SGP) Set up tax codes for GST reporting](sgp-set-up-tax-codes-for-gst-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

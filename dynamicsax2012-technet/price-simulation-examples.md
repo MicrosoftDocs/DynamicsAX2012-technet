@@ -1,4 +1,4 @@
-﻿---
+---
 title: Price simulation examples
 TOCTitle: Price simulation examples
 ms:assetid: 75d2be36-8cc4-4b48-a1f8-ee8720bf4d98
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550031(v=AX.60)
 ms:contentKeyID: 36058178
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Price simulation examples 
@@ -324,5 +326,5 @@ The price simulation affects only the line to which it is applied, reducing the 
 [Price simulation and discounts](price-simulation-and-discounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

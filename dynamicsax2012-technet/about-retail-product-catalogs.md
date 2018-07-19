@@ -1,4 +1,4 @@
-﻿---
+---
 title: About retail product catalogs
 TOCTitle: About retail product catalogs
 ms:assetid: 8e37d8c7-926a-4460-a2a5-6b7d2a086323
@@ -10,6 +10,8 @@ f1_keywords:
 - product catalog
 - retail
 - product catalogs
+audience: Application User
+ms.search.region: Global
 ---
 
 # About retail product catalogs 
@@ -63,7 +65,7 @@ The following diagram illustrates the components that are included in a retail p
 <tr class="even">
 <td><p>Retail channel</p></td>
 <td><p>Retail channels include brick-and-mortar stores, online stores, and online marketplaces. Retail product catalogs can be published only to online stores. Select the online stores where the products in the catalog are offered.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>Before you can publish the product catalog, you must publish the online store. For more information about how to publish an online store, see <A href="set-up-an-online-store.md">Set up an online store</A>.</P>
@@ -105,5 +107,5 @@ You can publish a catalog manually or by using a batch process. The effective da
 [Set up an online store](set-up-an-online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

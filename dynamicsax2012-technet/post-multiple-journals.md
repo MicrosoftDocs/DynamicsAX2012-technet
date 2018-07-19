@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post multiple journals
 TOCTitle: Post multiple journals
 ms:assetid: 3d2d2afc-88a7-4b11-9c25-05772d8aa37a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570269(v=AX.60)
 ms:contentKeyID: 36931869
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post multiple journals 
@@ -166,5 +168,5 @@ This procedure uses the **Daily** journal type.
 [Posting restrictions (form)](https://technet.microsoft.com/en-us/library/hh227598\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

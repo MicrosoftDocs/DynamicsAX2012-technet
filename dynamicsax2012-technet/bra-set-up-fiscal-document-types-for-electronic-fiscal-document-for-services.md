@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up fiscal document types for electronic fiscal document for services
 TOCTitle: (BRA) Set up fiscal document types for electronic fiscal document for services
 ms:assetid: 53576742-7bf4-421f-aa21-573399566bed
@@ -12,6 +12,8 @@ f1_keywords:
 - Sao Paulo
 - fiscal document types
 - Set up fiscal document types
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up fiscal document types for electronic fiscal document for services 
@@ -52,5 +54,5 @@ Use this procedure to set up fiscal document types for the electronic fiscal doc
 [(BRA) Fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710551\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

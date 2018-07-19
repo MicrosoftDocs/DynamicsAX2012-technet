@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Cancel a project invoice NF-e
 TOCTitle: (BRA) Cancel a project invoice NF-e
 ms:assetid: 8c4f7959-d414-44cb-a8ba-52530fd8d610
@@ -13,6 +13,8 @@ f1_keywords:
 - Cancel electronic fiscal document
 - Cancel project electronic fiscal document
 - Cancel project NF-e
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Cancel a project invoice NF-e 
@@ -49,5 +51,5 @@ You can cancel the NF-e before you submit it to the Secretaria da Fazenda (SEFAZ
 [Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

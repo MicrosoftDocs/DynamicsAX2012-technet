@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up depreciation methods
 TOCTitle: (RUS) Set up depreciation methods
 ms:assetid: 3cf09a99-3539-4e35-baaf-501b6d6e0d12
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853175(v=AX.60)
 ms:contentKeyID: 50396456
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up depreciation methods 
@@ -70,5 +72,5 @@ Depreciation methods are used to define the rules for calculating depreciation. 
 [(RUS) Non-linear tax accounting group depreciation method](rus-non-linear-tax-accounting-group-depreciation-method.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

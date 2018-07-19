@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a reversing entry
 TOCTitle: Create a reversing entry
 ms:assetid: 4f88d335-9d75-4e07-b6cb-f372ec45f3f5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212760(v=AX.60)
 ms:contentKeyID: 36057223
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a reversing entry 
@@ -48,5 +50,5 @@ For example, a company that pays its employees every two weeks might have a pay 
 [Journal voucher - General journal (form)](https://technet.microsoft.com/en-us/library/aa591466\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set prices in a channel
 TOCTitle: Set prices in a channel
 ms:assetid: 49f7e8b2-682d-430e-b8cc-c0ee38210093
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497746(v=AX.60)
 ms:contentKeyID: 62200063
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set prices in a channel 
@@ -100,5 +102,5 @@ To set prices in a channel, complete the following tasks in this order:
 [About setting prices by using price groups](about-setting-prices-by-using-price-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

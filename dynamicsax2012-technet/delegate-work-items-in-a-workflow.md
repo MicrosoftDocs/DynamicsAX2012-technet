@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delegate work items in a workflow
 TOCTitle: Delegate work items in a workflow
 ms:assetid: b94a479d-9d4b-4815-862b-64869d87f46d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213581(v=AX.60)
 ms:contentKeyID: 35949351
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delegate work items in a workflow 
@@ -58,5 +60,5 @@ Follow these steps to manually delegate a work item when you are viewing a docum
 5.  Click **Delegate**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

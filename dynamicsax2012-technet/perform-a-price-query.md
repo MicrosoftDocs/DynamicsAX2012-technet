@@ -1,4 +1,4 @@
-﻿---
+---
 title: Perform a price query
 TOCTitle: Perform a price query
 ms:assetid: 117353c9-98ee-48dc-8edb-53e8843100bc
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPPriceQuery
 - EPPriceQueryInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Perform a price query 
@@ -55,5 +57,5 @@ You can use the **Perform price query** page to enter a query to calculate the i
 [View customer price agreements](view-customer-price-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

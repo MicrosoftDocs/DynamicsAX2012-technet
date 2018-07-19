@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the depreciation starting date for vehicles and realty
 TOCTitle: (RUS) Set up the depreciation starting date for vehicles and realty
 ms:assetid: 0216484a-7ebf-4c72-8c28-aca64b315598
@@ -11,6 +11,8 @@ f1_keywords:
 - depreciation dates
 - realty
 - vehicle
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the depreciation starting date for vehicles and realty 
@@ -35,5 +37,5 @@ Use the **Depreciation groups** form to set up the depreciation starting date fo
 [(RUS) Depreciation groups (form)](https://technet.microsoft.com/en-us/library/jj678328\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

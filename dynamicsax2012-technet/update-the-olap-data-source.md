@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update the OLAP data source
 TOCTitle: Update the OLAP data source
 ms:assetid: d19dbb45-bf32-4f36-b7d2-722c149df5ae
@@ -70,5 +70,5 @@ Follow these steps to use Windows PowerShell to modify the DynamicsAXOLAP data s
 [Windows PowerShell for Microsoft Dynamics AX](windows-powershell-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

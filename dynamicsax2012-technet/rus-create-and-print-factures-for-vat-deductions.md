@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and print factures for VAT deductions
 TOCTitle: (RUS) Create and print factures for VAT deductions
 ms:assetid: 65b9653a-3607-4636-b369-c37a4d4d2dae
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665460(v=AX.60)
 ms:contentKeyID: 49387547
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and print factures for VAT deductions 
@@ -76,5 +78,5 @@ The facture report displays the number and date of the payment order, the base a
 [(RUS) Facture journal (form)](https://technet.microsoft.com/en-us/library/jj923567\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

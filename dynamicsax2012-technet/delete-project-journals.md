@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete project journals
 TOCTitle: Delete project journals
 ms:assetid: b1c9c606-9c92-41e6-aeb7-29d6065c4feb
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - outstanding transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete project journals 
@@ -82,5 +84,5 @@ You can delete project journals from which transactions have been posted. By del
 [Delete project journals (class form)](https://technet.microsoft.com/en-us/library/aa619118\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

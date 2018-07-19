@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify a Service BOM
 TOCTitle: Modify a Service BOM
 ms:assetid: 66e3268e-65a9-4578-b7cb-32707822417d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571154(v=AX.60)
 ms:contentKeyID: 39519164
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Modify a Service BOM 
@@ -56,5 +58,5 @@ You can record the history of an element in a service BOM. Every time that you u
 [About template BOMs](about-template-boms.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Invoice turnover report (CustInvoiceVolume_BE)
 TOCTitle: (BEL) Invoice turnover report (CustInvoiceVolume_BE)
 ms:assetid: ef3bf281-c87a-4c6b-a83f-74f5610519e3
@@ -159,5 +159,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(BEL) Create an INTERVAT declaration file](bel-create-an-intervat-declaration-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

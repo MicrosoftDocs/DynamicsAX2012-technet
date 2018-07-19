@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate TCS on intercompany transactions
 TOCTitle: (IND) Calculate TCS on intercompany transactions
 ms:assetid: 6c840ed2-295c-494e-aeba-479a9b297dec
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677898(v=AX.60)
 ms:contentKeyID: 49385861
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate TCS on intercompany transactions 
@@ -30,5 +32,5 @@ You can calculate Tax Collected at Source (TCS) on intercompany transactions. TC
   - When you create a payment journal for an intercompany invoice, a payment journal is posted automatically in the intercompany. If the total payment amount of the payment journal does not match the total payment amount of the original payment journal, the payment journal cannot be posted.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

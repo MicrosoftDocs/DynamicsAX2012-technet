@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) FA disposal report (RAssetDisposal)
 TOCTitle: (RUS) FA disposal report (RAssetDisposal)
 ms:assetid: 29334fb5-81d3-4ea1-85c9-3ca1a57f4aa6
@@ -122,5 +122,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(RUS) Fixed asset disposal](rus-fixed-asset-disposal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

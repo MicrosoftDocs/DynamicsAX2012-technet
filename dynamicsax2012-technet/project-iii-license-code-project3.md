@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project III license code (Project3)
 TOCTitle: Project III license code (Project3)
 ms:assetid: fdfb8552-ff61-45b2-96f9-c7b8b1c1fbfa
@@ -62,5 +62,5 @@ For more information about how license codes and configuration keys work togethe
 [Project management and accounting](project-management-and-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

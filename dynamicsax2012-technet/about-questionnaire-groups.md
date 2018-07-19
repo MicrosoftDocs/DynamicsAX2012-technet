@@ -1,4 +1,4 @@
-﻿---
+---
 title: About questionnaire groups
 TOCTitle: About questionnaire groups
 ms:assetid: 43ebb3d7-2d6d-49e0-ad28-2d6470efcf97
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580620(v=AX.60)
 ms:contentKeyID: 39519108
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About questionnaire groups 
@@ -36,5 +38,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [About question types](about-question-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

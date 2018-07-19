@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Project management and accounting
 TOCTitle: (EEUR) Project management and accounting
 ms:assetid: 29f1cc29-30d6-421b-9957-e0f68e8dd82e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730986(v=AX.60)
 ms:contentKeyID: 49675228
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Project management and accounting 
@@ -20,5 +22,5 @@ The topics in this section provide more information about Project management and
 [(EEUR) Working with Project management and accounting](eeur-working-with-project-management-and-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

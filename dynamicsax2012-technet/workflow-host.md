@@ -1,4 +1,4 @@
-﻿---
+---
 title: " workflow host"
 TOCTitle: " workflow host"
 ms:assetid: DynamicsAXGlossary.1368044
@@ -21,5 +21,5 @@ An environment in which the workflow runtime is started so that it can be access
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

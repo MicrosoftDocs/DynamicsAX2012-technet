@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Vacation, business trip, and sick list reports
 TOCTitle: (RUS) Vacation, business trip, and sick list reports
 ms:assetid: a233f49f-7744-4efb-95cc-9bf13ae00933
@@ -20,6 +20,8 @@ f1_keywords:
 - Classes.RPayVacationT6
 - sick lists reports
 - vacation reports
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Vacation, business trip, and sick list reports 
@@ -404,5 +406,5 @@ Generate and print a report that displays the details of sick lists and the calc
 [(RUS) Create and post a vacation resolution](rus-create-and-post-a-vacation-resolution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

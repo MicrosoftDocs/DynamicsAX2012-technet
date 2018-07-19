@@ -1,4 +1,4 @@
-﻿---
+---
 title: About campaign target distribution
 TOCTitle: About campaign target distribution
 ms:assetid: 47c40041-1967-47c3-b0aa-cb002ca4a137
@@ -10,6 +10,8 @@ f1_keywords:
 - campaigns
 - campaign
 - target distribution
+audience: Application User
+ms.search.region: Global
 ---
 
 # About campaign target distribution 
@@ -92,5 +94,5 @@ The following table provides descriptions of the available options.
 [Combine queries for campaign targets](combine-queries-for-campaign-targets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

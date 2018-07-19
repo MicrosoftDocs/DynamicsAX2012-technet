@@ -1,4 +1,4 @@
-﻿---
+---
 title: Duplicate a product configuration model
 TOCTitle: Duplicate a product configuration model
 ms:assetid: 470ce113-9de8-40b4-8402-2784e2742d0f
@@ -11,6 +11,8 @@ f1_keywords:
 - constraint-based product model
 - duplicate product model
 - duplicate constraint based
+audience: Application User
+ms.search.region: Global
 ---
 
 # Duplicate a product configuration model 
@@ -41,5 +43,5 @@ The following steps describe how to create a new product configuration model bas
 [Create a product model](create-a-product-model.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

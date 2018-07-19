@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot your Microsoft Dynamics AX 2012 R3 deployment on Azure
 TOCTitle: Troubleshoot your deployment
 ms:assetid: 60a939a1-636b-4cfb-bc71-f3eee4ee789e
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 This content has been moved [here](https://go.microsoft.com/fwlink/?linkid=858579).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

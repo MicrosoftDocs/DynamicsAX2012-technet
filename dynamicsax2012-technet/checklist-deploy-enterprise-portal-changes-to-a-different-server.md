@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Checklist: Deploy Enterprise Portal changes to a different server'
 TOCTitle: 'Checklist: Deploy Enterprise Portal changes to a different server'
 ms:assetid: f107320f-e45b-4514-9e1e-c08f569b719b
@@ -55,5 +55,5 @@ The following checklist can help you deploy changes from one Enterprise Portal s
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

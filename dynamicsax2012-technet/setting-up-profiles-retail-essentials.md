@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up profiles (Retail essentials)
 TOCTitle: Setting up profiles (Retail essentials)
 ms:assetid: 2fe04226-0f98-44c4-8464-fb5d75ff8c0b
@@ -28,5 +28,5 @@ The topics in this section provide information about how to set up profiles and 
 [Set up email receipts (Retail essentials)](set-up-email-receipts-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

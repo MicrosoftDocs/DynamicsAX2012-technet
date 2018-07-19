@@ -1,4 +1,4 @@
-﻿---
+---
 title: View a demand forecast in Excel
 TOCTitle: View a demand forecast in Excel
 ms:assetid: 0e32c008-f2db-47e5-903b-aa1626251900
@@ -10,6 +10,8 @@ f1_keywords:
 - ReqDemPlanCreateForecastDialog
 - demand forecasting, demand forecast, demand forecasts, sales forecast, sales forecasts, forecasting setup, baseline forecast, historical forecast, adjusted forecast
 - demand planning
+audience: Application User
+ms.search.region: Global
 ---
 
 # View a demand forecast in Excel 
@@ -124,5 +126,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Business process: demand forecasting](business-process-demand-forecasting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

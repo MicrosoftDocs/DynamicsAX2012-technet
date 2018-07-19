@@ -1,4 +1,4 @@
-﻿---
+---
 title: About purchase order upgrade
 TOCTitle: About purchase order upgrade
 ms:assetid: 697e8730-fb55-4cdd-9692-70a9304993c1
@@ -30,5 +30,5 @@ To begin the upgrade, select the journal name. The journal name identifies the j
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

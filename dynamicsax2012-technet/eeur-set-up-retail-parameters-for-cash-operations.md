@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Set up retail parameters for cash operations
 TOCTitle: (EEUR) Set up retail parameters for cash operations
 ms:assetid: e2aa7d20-d5a3-4574-a383-06eeb51b2c2a
@@ -11,6 +11,8 @@ f1_keywords:
 - RU - 00005
 - RU – 00037
 - MsDynAx060.Forms.RetailParameters
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Set up retail parameters for cash operations 
@@ -53,5 +55,5 @@ You can set up parameters to create and post cash transactions in Retail. You ca
       - **Customer payment journal** – This journal is used to post customer payments.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

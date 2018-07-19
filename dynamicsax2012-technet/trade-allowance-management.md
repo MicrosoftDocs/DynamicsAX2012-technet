@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trade allowance management
 TOCTitle: Trade allowance management
 ms:assetid: 4a1dc27a-3dbb-4000-9ea8-b95f1470c38d
@@ -61,6 +61,8 @@ f1_keywords:
 - MsDynAx060.Forms.TAMPromotionParameters
 - MsDynAx060.Forms.TAMMarketingObjective
 - MsDynAx060.Forms.TAMPlanVsActualLiftGraph
+audience: Application User
+ms.search.region: Global
 ---
 
 # Trade allowance management 
@@ -125,5 +127,5 @@ The following table lists some of the tasks that can be performed in the **Trade
 [Working with Trade allowance management](working-with-trade-allowance-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

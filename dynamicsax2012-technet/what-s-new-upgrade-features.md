@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Upgrade features"
 TOCTitle: Upgrade features
 ms:assetid: 1c3d473b-5615-44fd-b8b5-afc69780e543
@@ -180,5 +180,5 @@ This feature is provided by Microsoft Dynamics AX 2012 and Microsoft Dynamics AX
 Upgrade of retail functionality requires redeployment (replacement and reconfiguration) of the legacy POS software on each terminal in each store. You must perform this redeployment during a tightly constrained time window to avoid disrupting retail activities. Although previous releases required that all stores be upgraded at the same time, Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 R2 support operations using two versions of Microsoft Dynamics AX POS register software at the same time. Multi-version support lets upgrade administrators upgrade one store at a time while maintaining normal operations in stores that are still awaiting upgrade.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

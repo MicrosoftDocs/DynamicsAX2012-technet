@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot general installation issues
 TOCTitle: Troubleshoot general installation issues
 ms:assetid: 86d9537d-2e35-40e6-9fff-2a0a208ccbdd
@@ -247,5 +247,5 @@ This error indicates that Microsoft .NET Framework 4.0 was installed, and then a
 To resolve the problem, follow the instructions in [Microsoft Knowledge Base article 2015129](http://support.microsoft.com/kb/2015129).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the workflow editor
 TOCTitle: About the workflow editor
 ms:assetid: 8c3a062a-eb98-4bf4-a755-5c5e46a81bb2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - workflow
 - workflow editor
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the workflow editor 
@@ -43,5 +45,5 @@ The workflow editor consists of the following areas:
 [Configure workflow elements](configure-workflow-elements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

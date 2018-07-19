@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign a tax exempt number to a customer
 TOCTitle: Assign a tax exempt number to a customer
 ms:assetid: ea386819-1a1a-4791-b462-aee28291ecd0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551488(v=AX.60)
 ms:contentKeyID: 36966743
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign a tax exempt number to a customer 
@@ -38,5 +40,5 @@ Use this procedure to assign a tax exempt number, such as a value added tax (VAT
 [(ITA) Set up tax reporting information for customers and vendors](ita-set-up-tax-reporting-information-for-customers-and-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

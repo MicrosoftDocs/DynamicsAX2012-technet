@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an invoice for a fixed-price project
 TOCTitle: Create an invoice for a fixed-price project
 ms:assetid: acb0bbcd-8632-4697-8ef3-0a95a35a92a7
@@ -10,6 +10,8 @@ f1_keywords:
 - invoice
 - fixed-price
 - invoice proposal
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an invoice for a fixed-price project 
@@ -58,5 +60,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 
 [Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

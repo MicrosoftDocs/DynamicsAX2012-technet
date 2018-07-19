@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a template BOM
 TOCTitle: Create a template BOM
 ms:assetid: 9c996197-facf-4df5-8c38-ac3cc1623226
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571695(v=AX.60)
 ms:contentKeyID: 36058733
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a template BOM 
@@ -92,5 +94,5 @@ A new template BOM is created by using lines that correspond to the lines of the
 [About template BOMs](about-template-boms.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

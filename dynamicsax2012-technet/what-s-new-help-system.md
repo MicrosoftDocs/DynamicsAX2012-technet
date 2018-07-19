@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Help system"
 TOCTitle: Help system
 ms:assetid: f1462f27-baf5-4e53-a628-fff337eeafb2
@@ -243,5 +243,5 @@ The Microsoft Help that is included with Microsoft Dynamics AX is also published
 To enable the customization of Help documentation, you have to add a folder to the Help server. Writers then put documentation files in this folder. A writer that publishes documentation files has to have write or modify security permissions to the folder.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate and post taxes for a customer order
 TOCTitle: (IND) Calculate and post taxes for a customer order
 ms:assetid: a453d52b-adc3-4b1c-b773-5ee97a229940
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.SalesTable
 - IN - 00015
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate and post taxes for a customer order 
@@ -46,5 +48,5 @@ Use the following procedure to calculate and post taxes for a retail customer or
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

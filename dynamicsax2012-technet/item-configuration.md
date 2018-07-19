@@ -1,4 +1,4 @@
-﻿---
+---
 title: Item configuration
 TOCTitle: Item configuration
 ms:assetid: 45b5a5e2-5962-4806-9185-97dc4bc24b5d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - product builder
 - item configuration - product builder
+audience: Application User
+ms.search.region: Global
 ---
 
 # Item configuration 
@@ -49,5 +51,5 @@ You can also make the configuration of modeling-enabled items on order lines or 
 [About configurable items](about-configurable-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: " weight engine"
 TOCTitle: " weight engine"
 ms:assetid: DynamicsAXGlossary.2026541
@@ -19,5 +19,5 @@ An engine that is called automatically when the volume of a package is not propo
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hiring
 TOCTitle: Hiring
 ms:assetid: 501aa786-b204-4ac0-8771-f94c5cb8553e
@@ -15,6 +15,8 @@ f1_keywords:
 - recruitment
 - recruiting
 - mass-hire
+audience: Application User
+ms.search.region: Global
 ---
 
 # Hiring 
@@ -31,5 +33,5 @@ Topics in this section contain information about hiring people to fill positions
 [Hire an applicant](hire-an-applicant.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

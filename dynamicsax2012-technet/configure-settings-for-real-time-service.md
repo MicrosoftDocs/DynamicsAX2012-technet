@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure settings for Real-time Service
 TOCTitle: Configure settings for Real-time Service
 ms:assetid: d263b65e-0928-48f6-abb2-81dc3918724b
@@ -61,5 +61,5 @@ The following example shows the relevant node from the configuration file. In th
 If you change the binding from **netTcpBinding** to **WSHttp** in the configuration file, you must also update the port number on the Real-time Service profile in Microsoft Dynamics AX. This ensures that the client and server can work together. For information about how to update the profile, see [Set up a Real-time Service profile](set-up-a-real-time-service-profile.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

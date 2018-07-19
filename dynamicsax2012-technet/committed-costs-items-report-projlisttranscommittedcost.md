@@ -1,4 +1,4 @@
-﻿---
+---
 title: Committed costs - items report (ProjListTransCommittedCost)
 TOCTitle: Committed costs - items report (ProjListTransCommittedCost)
 ms:assetid: 7a555d9d-253e-4efb-9853-d325748e1111
@@ -54,7 +54,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>Layout - rows</strong></p>
 <p><strong>Level 1</strong> / <strong>Level 2</strong> / <strong>Level 3</strong></p></td>
 <td><p>Select how you want to group the information on the report. Transactions are listed by <strong>Level 1</strong>, then by <strong>Level 2</strong>, and then by <strong>Level 3</strong>. For each level, you can select <strong>Project</strong>, <strong>Category</strong>, <strong>Worker/item</strong>, <strong>Order</strong> or <strong>Vendor</strong>.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>You must select a value for <STRONG>Level 1</STRONG>.</P>
@@ -175,5 +175,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

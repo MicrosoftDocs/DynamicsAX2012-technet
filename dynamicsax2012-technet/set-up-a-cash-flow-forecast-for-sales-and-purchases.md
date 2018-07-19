@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a cash flow forecast for sales and purchases
 TOCTitle: Set up a cash flow forecast for sales and purchases
 ms:assetid: acaf3c6d-e030-4d18-975a-7bd31be9c21a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498576(v=AX.60)
 ms:contentKeyID: 36058921
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a cash flow forecast for sales and purchases 
@@ -66,5 +68,5 @@ The cash flow forecast can also consider different customer or vendor groups.
 4.  To set up cash flow parameters for vendor groups, use the **Vendor groups** form. (Click **Accounts payable** \> **Setup** \> **Vendors** \> **Vendor groups**.) Repeat steps 2 and 3.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

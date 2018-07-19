@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a reference to an existing document
 TOCTitle: Create a reference to an existing document
 ms:assetid: 837ea7d5-2509-463a-8549-153c71636e0b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571562(v=AX.60)
 ms:contentKeyID: 43976718
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a reference to an existing document 
@@ -42,5 +44,5 @@ Before you can create a reference to an existing document, you must set up a new
 5.  Optional: Enter a note about the attached document into the note text pane at the bottom of the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

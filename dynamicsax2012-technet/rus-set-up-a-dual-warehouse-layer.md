@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a dual warehouse layer
 TOCTitle: (RUS) Set up a dual warehouse layer
 ms:assetid: e764ee10-064b-4821-be17-40154fa6924b
@@ -12,6 +12,8 @@ f1_keywords:
 - layer
 - (RUS)
 - Russia
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a dual warehouse layer 
@@ -50,5 +52,5 @@ You can perform cost value accounting by using a reporting currency. You can als
 7.  On the **Inventory** tab, select **Loss** or **Profit** to set up ledger accounts that are used to post adjustments to inventory receipts and on-hand inventory balance adjustments. You can select **Rounding - Loss** and **Rounding - Profit** to set up ledger accounts that are used to post rounded amounts that result from inventory recalculations or closings.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

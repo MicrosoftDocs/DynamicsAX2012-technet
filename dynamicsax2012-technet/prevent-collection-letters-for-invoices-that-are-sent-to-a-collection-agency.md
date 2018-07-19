@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prevent collection letters for invoices that are sent to a collection agency
 TOCTitle: Prevent collection letters for invoices that are sent to a collection agency
 ms:assetid: 1f00234d-bc33-469a-a744-f4c4eb089d00
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh292595(v=AX.60)
 ms:contentKeyID: 36655925
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Prevent collection letters for invoices that are sent to a collection agency 
@@ -60,5 +62,5 @@ The **Collection letter journal** form shows a list of customer accounts that ha
 [Valid collection letter code](https://technet.microsoft.com/en-us/library/aa598830\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About subscription sales prices
 TOCTitle: About subscription sales prices
 ms:assetid: 763a5377-f1ad-4ef3-9d8b-8d456f80078b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550036(v=AX.60)
 ms:contentKeyID: 36058182
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About subscription sales prices 
@@ -361,5 +363,5 @@ In the first transaction for subscription 00020\_135, the sales price of EUR 550
 [Update and index subscription sales prices](update-and-index-subscription-sales-prices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

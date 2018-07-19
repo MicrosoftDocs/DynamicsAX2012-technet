@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define individual campaign
 TOCTitle: Define individual campaign
 ms:assetid: 359aba6a-0ab2-4141-ba04-b058a5c2444d
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - individual campaign
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define individual campaign 
@@ -20,5 +22,5 @@ The topics in this section provide information about how to define a campaign.
 [Select campaign targets](select-campaign-targets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

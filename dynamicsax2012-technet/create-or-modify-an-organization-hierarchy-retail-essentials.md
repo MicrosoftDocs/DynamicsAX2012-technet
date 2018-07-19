@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify an organization hierarchy (Retail essentials)
 TOCTitle: Create or modify an organization hierarchy (Retail essentials)
 ms:assetid: afdc1246-b1d8-4819-a4d4-d8aae9ca5f2e
@@ -104,5 +104,5 @@ You can view or modify a hierarchy as of any future date or as of an effective d
 [Working with organizations and organizational hierarchies (Retail essentials)](working-with-organizations-and-organizational-hierarchies-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

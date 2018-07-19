@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Employees"
 TOCTitle: Employees
 ms:assetid: 375461dc-f3ea-4568-9be2-e34b1d821f16
@@ -177,5 +177,5 @@ This feature has changed considerably since AX 2009. AX 2012 includes changes to
 For more information about employees and the Human Resources Framework, see the white paper [Implementing and Updating the Human Resources Framework for Microsoft Dynamics AX 2012 Applications](http://go.microsoft.com/fwlink/?linkid=213128%26clcid=0x409).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

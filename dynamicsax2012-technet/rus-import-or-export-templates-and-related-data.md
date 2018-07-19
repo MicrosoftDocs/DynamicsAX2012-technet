@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Import or export templates and related data
 TOCTitle: (RUS) Import or export templates and related data
 ms:assetid: 98326465-0e8d-4f7d-9774-9b0df9913ee6
@@ -12,6 +12,8 @@ f1_keywords:
 - export
 - export template
 - import template
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Import or export templates and related data 
@@ -88,5 +90,5 @@ You can use the **Import templates settings** and **Export templates settings** 
 [(RUS) Import templates settings (form)](https://technet.microsoft.com/en-us/library/jj710704\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

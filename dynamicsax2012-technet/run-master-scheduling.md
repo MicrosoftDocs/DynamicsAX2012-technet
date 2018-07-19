@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run master scheduling
 TOCTitle: Run master scheduling
 ms:assetid: 8487e243-c9b5-44cc-b5cd-4a9746b8dfaa
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - master scheduling
 - run master scheduling
+audience: Application User
+ms.search.region: Global
 ---
 
 # Run master scheduling 
@@ -27,5 +29,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 5.  Click **Master planning** \> **Common** \> **Planned orders**. Here, you can view all the planned orders that are generated.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

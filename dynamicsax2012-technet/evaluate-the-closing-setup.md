@@ -1,4 +1,4 @@
-﻿---
+---
 title: Evaluate the closing setup
 TOCTitle: Evaluate the closing setup
 ms:assetid: 565bc4a0-8065-417d-aa81-c5843eb92fcf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549054(v=AX.60)
 ms:contentKeyID: 37835227
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Evaluate the closing setup 
@@ -38,5 +40,5 @@ For information about the other fields in the **General ledger parameters** form
 [Fiscal year closing checklist](fiscal-year-closing-checklist.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

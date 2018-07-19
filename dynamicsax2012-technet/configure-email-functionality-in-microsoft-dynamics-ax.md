@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure email functionality in Microsoft Dynamics AX
 TOCTitle: Configure email functionality in Microsoft Dynamics AX
 ms:assetid: 68c28942-7e06-42c6-b1d4-83472ed7f7b0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834374(v=AX.60)
 ms:contentKeyID: 39520464
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure email functionality in Microsoft Dynamics AX 
@@ -313,7 +315,7 @@ Complete the following procedure to create an email template.
         <li><p>The <strong>Work item instructions</strong> field contains the following text. This field is located in the <strong>Properties</strong> form for the workflow approval step.</p>
         <p><strong>Purchase requisition %Purchase requisition.PurchReqId% has been assigned to you for approval.</strong></p>
         <p><strong>This purchase requisition totals %Purchase requisition.Approval amount%, and has been submitted by %Purchase requisition.Worker.createdBy%.</strong></p>
-        <div class="alert"> 
+        <div class="alert">
 
         > [!NOTE]
         > <P>The text in between the <STRONG>%</STRONG> symbols are placeholders you can insert when you configure the workflow. In this example, the placeholders will be replaced with specific data related to purchase requisitions.</P>
@@ -493,5 +495,5 @@ To set up a retry schedule, complete the following procedure.
     </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

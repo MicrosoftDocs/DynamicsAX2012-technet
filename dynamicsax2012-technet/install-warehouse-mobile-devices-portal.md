@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Warehouse Mobile Devices Portal
 TOCTitle: Install Warehouse Mobile Devices Portal
 ms:assetid: 217803ec-a153-4ec4-ac90-0f1c5c3ccb4e
@@ -94,5 +94,5 @@ By default, Warehouse Mobile Devices Portal is configured to connect to an AOS i
 After you install Warehouse Mobile Devices Portal, complete the configuration procedures for mobile devices. For more information, see [Setting up mobile devices](setting-up-mobile-devices.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

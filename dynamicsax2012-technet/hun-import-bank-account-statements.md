@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Import bank account statements
 TOCTitle: (HUN) Import bank account statements
 ms:assetid: 63b89980-94ef-4607-a332-2289b5e8a2d6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664295(v=AX.60)
 ms:contentKeyID: 49385384
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Import bank account statements 
@@ -48,5 +50,5 @@ You can use this feature to import bank account statements from banks.
 [(HUN) Set up import methods for account statements](hun-set-up-import-methods-for-account-statements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

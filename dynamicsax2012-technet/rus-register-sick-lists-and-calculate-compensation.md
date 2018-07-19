@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Register sick lists and calculate compensation
 TOCTitle: (RUS) Register sick lists and calculate compensation
 ms:assetid: 702b94d9-0f22-435b-a1de-f9ab5604c196
@@ -12,6 +12,8 @@ f1_keywords:
 - Forms.RPaySickListTable
 - Sick list
 - MsDynAx060.Forms.RPaySickListTable
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Register sick lists and calculate compensation 
@@ -475,5 +477,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

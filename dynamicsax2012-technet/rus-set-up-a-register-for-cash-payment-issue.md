@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for cash payment issue
 TOCTitle: (RUS) Set up a register for cash payment issue
 ms:assetid: f99117ca-266e-4131-b205-1e16e07b78e1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678636(v=AX.60)
 ms:contentKeyID: 49388118
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for cash payment issue 
@@ -54,5 +56,5 @@ The data in the register is grouped by disposal terms or cash outflow type. The 
 [(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

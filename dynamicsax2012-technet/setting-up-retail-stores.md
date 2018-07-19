@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up retail stores
 TOCTitle: Setting up retail stores
 ms:assetid: 73470361-3e72-46e2-b4b3-4b31a3ba90eb
@@ -10,6 +10,8 @@ f1_keywords:
 - stores
 - store
 - retail
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up retail stores 
@@ -28,5 +30,5 @@ The topics in this section provide information about how to set up retail (brick
 [Redeclare tender in the store](redeclare-tender-in-the-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

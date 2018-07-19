@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Configure EHF electronic invoicing
 TOCTitle: (NOR) Configure EHF electronic invoicing
 ms:assetid: 935781c9-0825-47ce-8749-60dd1db42807
@@ -17,6 +17,8 @@ f1_keywords:
 - Forms.CustTable
 - NO - 00010
 - NO - 00009
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Configure EHF electronic invoicing 
@@ -241,5 +243,5 @@ You have finished configuring EHF electronic invoicing. Continue to create an EH
 [(NOR) EHF electronic documents](nor-ehf-electronic-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

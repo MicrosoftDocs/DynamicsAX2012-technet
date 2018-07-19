@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up email receipts (Retail essentials)
 TOCTitle: Set up email receipts (Retail essentials)
 ms:assetid: 413b1b34-187b-4dd7-859e-d07466a0d578
@@ -76,5 +76,5 @@ Set up default customer receipt options for customers who are not set up in Reta
 [Retail parameters (form)](https://technet.microsoft.com/en-us/library/hh597194\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

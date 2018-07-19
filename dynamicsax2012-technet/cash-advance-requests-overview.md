@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cash advance requests overview
 TOCTitle: Cash advance requests overview
 ms:assetid: 692850c7-3dac-4b9c-abff-b2c3146239d5
@@ -11,6 +11,8 @@ f1_keywords:
 - cash
 - expense
 - cash advance
+audience: Application User
+ms.search.region: Global
 ---
 
 # Cash advance requests overview 
@@ -55,5 +57,5 @@ The following table lists the form that supports the Cash advance requests busin
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

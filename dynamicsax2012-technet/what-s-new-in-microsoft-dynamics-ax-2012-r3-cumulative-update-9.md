@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 9
 TOCTitle: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 9
 ms:assetid: 7b4e46ff-d16f-4c47-a226-b8761ad65f8f
@@ -323,5 +323,5 @@ In Microsoft Dynamics AX 2012 R3 Cumulative Update 9, we updated several country
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

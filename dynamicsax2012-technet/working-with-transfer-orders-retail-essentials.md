@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with transfer orders (Retail essentials)
 TOCTitle: Working with transfer orders (Retail essentials)
 ms:assetid: c94a1435-a9ec-4703-a38c-4f509bd5e09b
@@ -57,5 +57,5 @@ Use this procedure to receive a transfer order for items that have been transfer
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

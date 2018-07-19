@@ -1,4 +1,4 @@
-﻿---
+---
 title: (AUT) Set up parameters to generate electronic invoices in PEPPOL format
 TOCTitle: (AUT) Set up parameters to generate electronic invoices in PEPPOL format
 ms:assetid: 26ab8358-0e61-4678-9c57-0f7f6eba70b1
@@ -18,6 +18,8 @@ f1_keywords:
 - Forms.AifPortActionPolicy
 - outbound port
 - PEPPOL
+audience: Application User
+ms.search.region: Austria
 ---
 
 # (AUT) Set up parameters to generate electronic invoices in PEPPOL format 
@@ -229,5 +231,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

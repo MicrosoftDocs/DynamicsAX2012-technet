@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Service management
 TOCTitle: (IND) Service management
 ms:assetid: 8fdec4e2-92c3-4a7d-9dab-04df4334f1b9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678031(v=AX.60)
 ms:contentKeyID: 49385992
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Service management 
@@ -26,5 +28,5 @@ The topics in this section provide information about Service management.
 [Service management](service-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rating setup
 TOCTitle: Rating setup
 ms:assetid: 8b5cda99-7c53-44d8-8d3b-bf233adee8c7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553178(v=AX.60)
 ms:contentKeyID: 62200114
 ms.date: 04/23/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Rating setup 
@@ -26,5 +28,5 @@ The topics in this section provide information about how to set up rates for fre
 [Set up accessorial charges for a shipping carrier](set-up-accessorial-charges-for-a-shipping-carrier.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

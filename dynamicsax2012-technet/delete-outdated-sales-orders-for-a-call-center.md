@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete outdated sales orders for a call center
 TOCTitle: Delete outdated sales orders for a call center
 ms:assetid: 143a1ef1-ff3f-4b36-b80f-29d07f21f7f3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720456(v=AX.60)
 ms:contentKeyID: 62224163
 ms.date: 04/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete outdated sales orders for a call center 
@@ -101,5 +103,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Delete orders (class form)](https://technet.microsoft.com/en-us/library/aa620155\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

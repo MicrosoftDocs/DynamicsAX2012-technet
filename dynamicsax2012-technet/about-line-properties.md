@@ -1,4 +1,4 @@
-﻿---
+---
 title: About line properties
 TOCTitle: About line properties
 ms:assetid: c66e71ff-46f2-4273-ace9-60fe95d96e4b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh696880(v=AX.60)
 ms:contentKeyID: 42517338
 ms.date: 10/06/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About line properties 
@@ -30,5 +32,5 @@ You can set up default line properties for projects, project groups, categories 
 [Set up a line property](set-up-a-line-property.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

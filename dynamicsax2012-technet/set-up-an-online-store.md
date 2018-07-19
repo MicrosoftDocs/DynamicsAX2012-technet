@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up an online store
 TOCTitle: Set up an online store
 ms:assetid: 7150615f-3c60-498c-be76-40e07d0c0ce6
@@ -12,6 +12,8 @@ f1_keywords:
 - online storefront
 - online stores
 - webstore
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up an online store 
@@ -412,5 +414,5 @@ To perform this task, follow these steps:
 [Troubleshoot installation issues for a Retail online store](troubleshoot-installation-issues-for-a-retail-online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

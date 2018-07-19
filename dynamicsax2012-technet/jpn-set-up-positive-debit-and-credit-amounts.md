@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up positive debit and credit amounts
 TOCTitle: (JPN) Set up positive debit and credit amounts
 ms:assetid: c25cf6ed-ba5f-4766-956b-730088ed0230
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - JP - 00006
 - JP - 00012
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up positive debit and credit amounts 
@@ -57,5 +59,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(JPN) Journal voucher - General journal (modified form)](https://technet.microsoft.com/en-us/library/jj711027\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

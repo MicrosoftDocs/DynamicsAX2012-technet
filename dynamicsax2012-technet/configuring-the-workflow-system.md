@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring the workflow system
 TOCTitle: Workflow
 ms:assetid: ebcd52ed-1548-4b64-9b83-9558eadbbb83
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227492(v=AX.60)
 ms:contentKeyID: 36059886
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring the workflow system 
@@ -24,5 +26,5 @@ A workflow represents a business process and defines how a document flows, or mo
 [Monitor the status of workflows](monitor-the-status-of-workflows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

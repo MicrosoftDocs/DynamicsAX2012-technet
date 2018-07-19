@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a location directive
 TOCTitle: Create a location directive
 ms:assetid: fd0e708b-747e-4944-a5a8-f4174cabad6a
@@ -16,6 +16,8 @@ f1_keywords:
 - inbound transactions
 - location directive
 - outbound transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a location directive 
@@ -119,7 +121,7 @@ To create a location directive, follow these steps:
     <tr class="odd">
     <td><p><strong>Disposition code</strong></p></td>
     <td><p>Optional: Select a disposition code to redirect the put away of the received items to a location. For more information, see <a href="create-disposition-codes.md">Create disposition codes</a>. This field is available only if you select <strong>Purchase orders</strong> or <strong>Return orders</strong> in the <strong>Work order type</strong> field.</p>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>If you have Hotfix number 3067743 or AX 2012 Cumulative Update 10 installed, the option is also available for Work orders of type <STRONG>Finished goods put away</STRONG>.</P>
@@ -130,7 +132,7 @@ To create a location directive, follow these steps:
     <tr class="even">
     <td><p><strong>Multiple SKU</strong></p></td>
     <td><p>Optional: Select this check box to use multiple stock keeping units (SKUs).</p>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>If you use this setting for a location directive of the work type Put, the first location directive line will always be selected by the system irrespective of other restrictions created in the lines.</P>
@@ -253,7 +255,7 @@ To create a location directive, follow these steps:
     <tr class="odd">
     <td><p><strong>Only use item fixed locations</strong></p></td>
     <td><p>Select this check box to include a fixed location for the item that is being put away. For more information about how to assign fixed locations to set up location directives, see the “Optional: Assign a fixed location to an inventory item” section in the <a href="set-up-parameters-to-create-a-warehouse-location.md">Set up parameters to create a warehouse location</a> topic.</p>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>If you have AX 2012 R3 CU8 installed, this field has been renamed to <STRONG>Only fixed locations for the product</STRONG>, and added as an option in a new field named <STRONG>Fixed location usage</STRONG>. In the field, two additional options are available:</P>
@@ -303,7 +305,7 @@ To create a location directive, follow these steps:
     <tr class="odd">
     <td><p><strong>FEFO batch reservation</strong></p></td>
     <td><p>This strategy is used when inventory is located using a batch expiration date and is allocated for batch reservation. You can only use this strategy for batch enabled items.</p>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>In Microsoft Dynamics AX 2012 R3 Cumulative Update 9 the FEFO batch reservation strategy is also used when inventory is located using a batch best before date in addition to the expiration date.</P>
@@ -318,7 +320,7 @@ To create a location directive, follow these steps:
     <tr class="odd">
     <td><p><strong>Empty location with no incoming work</strong></p></td>
     <td><p>This strategy is used to locate empty locations. The location is considered empty if it has no physical inventory and no expected incoming work.</p>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>This option was added in Microsoft Dynamics AX 2012 R3 Cumulative Update 8.</P>
@@ -360,5 +362,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

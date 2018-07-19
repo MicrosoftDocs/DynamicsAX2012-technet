@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About transfer orders
 TOCTitle: (BRA) About transfer orders
 ms:assetid: 7a8bc981-3886-435a-8e84-dd3025d49728
@@ -12,6 +12,8 @@ f1_keywords:
 - Transfer orders
 - Transfer fiscal documents
 - BR - 00033
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About transfer orders 
@@ -50,5 +52,5 @@ You can do the following to transfer items between fiscal establishments by usin
 [(BRA) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj910973\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Create and post a free text invoice with an NGP code
 TOCTitle: (FRA) Create and post a free text invoice with an NGP code
 ms:assetid: 4bd3c5a6-1b36-4b75-926a-4e92f79e5deb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208735(v=AX.60)
 ms:contentKeyID: 36057006
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Create and post a free text invoice with an NGP code 
@@ -36,5 +38,5 @@ Use the **Free text invoice** form to create a free text invoice that contains a
 [(FRA) Set up a French national item (NGP) code](fra-set-up-a-french-national-item-ngp-code.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

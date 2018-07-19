@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a charges code
 TOCTitle: (RUS) Set up a charges code
 ms:assetid: fe98b694-8a16-4047-85c1-81177380c901
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733413(v=AX.60)
 ms:contentKeyID: 49685280
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a charges code 
@@ -36,5 +38,5 @@ Use this procedure to set up a charges code. You can allocate the charges to oth
 [(RUS) Set up a transit account to redraw miscellaneous charges to third parties](rus-set-up-a-transit-account-to-redraw-miscellaneous-charges-to-third-parties.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

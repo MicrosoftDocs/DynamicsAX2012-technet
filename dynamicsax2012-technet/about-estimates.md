@@ -1,4 +1,4 @@
-﻿---
+---
 title: About estimates
 TOCTitle: About estimates
 ms:assetid: 0a070d06-1236-409a-91bf-dd8a44a7bf25
@@ -14,6 +14,8 @@ f1_keywords:
 - completed percentage
 - estimate structure
 - contract value
+audience: Application User
+ms.search.region: Global
 ---
 
 # About estimates 
@@ -88,5 +90,5 @@ Often, the contract amount of a project is based on the parent project. Therefor
 [About estimate periods](about-estimate-periods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

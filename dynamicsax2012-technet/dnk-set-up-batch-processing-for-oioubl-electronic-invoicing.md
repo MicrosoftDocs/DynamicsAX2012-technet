@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Set up batch processing for OIOUBL electronic invoicing
 TOCTitle: (DNK) Set up batch processing for OIOUBL electronic invoicing
 ms:assetid: f1ff9c46-5c14-45af-81b5-1db3d849c245
@@ -10,6 +10,8 @@ f1_keywords:
 - batch processing
 - electronic invoicing
 - OIOUBL
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Set up batch processing for OIOUBL electronic invoicing 
@@ -68,5 +70,5 @@ You can set up a batch job for sales outbound electronic invoices, and another b
 [Batch tasks (form)](https://technet.microsoft.com/en-us/library/hh209494\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

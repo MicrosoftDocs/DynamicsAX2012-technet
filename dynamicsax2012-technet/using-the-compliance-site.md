@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Compliance site
 TOCTitle: Using the Compliance site
 ms:assetid: dc7b7fd6-960d-4b7c-9738-58cad58ddddd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271670(v=AX.60)
 ms:contentKeyID: 36384301
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using the Compliance site 
@@ -24,5 +26,5 @@ This section contains the following topics:
 [Audit activities and reporting](audit-activities-and-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

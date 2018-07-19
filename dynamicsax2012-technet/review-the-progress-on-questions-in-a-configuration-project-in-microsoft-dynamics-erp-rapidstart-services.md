@@ -1,4 +1,4 @@
-﻿---
+---
 title: Review the progress on questions in a configuration project in Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Review the progress on questions in a configuration project in Microsoft Dynamics ERP RapidStart Services
 ms:assetid: f1ad010c-9807-47df-98ae-1dc876d55daf
@@ -51,5 +51,5 @@ RapidStart Services provides the Customer administrator with three ways to monit
 [Load configuration data into a Microsoft Dynamics ERP implementation from Microsoft Dynamics ERP RapidStart Services](load-configuration-data-into-a-microsoft-dynamics-erp-implementation-from-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

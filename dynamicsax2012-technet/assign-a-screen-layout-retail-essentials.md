@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign a screen layout (Retail essentials)
 TOCTitle: Assign a screen layout (Retail essentials)
 ms:assetid: bc2f3e42-d68e-49f3-9ea4-99d8de13804d
@@ -74,5 +74,5 @@ Use this procedure to assign a screen layout to one or more workers.
 [Design a screen layout (Retail essentials)](design-a-screen-layout-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

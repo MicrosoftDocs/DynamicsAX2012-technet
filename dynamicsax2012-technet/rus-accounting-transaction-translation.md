@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Accounting transaction translation
 TOCTitle: (RUS) Accounting transaction translation
 ms:assetid: e2ad2e4b-b773-4016-bd4a-223f8432159a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856118(v=AX.60)
 ms:contentKeyID: 50406416
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Accounting transaction translation 
@@ -64,5 +66,5 @@ If **Translation difference** is selected as the posting type, the correspondenc
 [(RUS) Perform a single translation](rus-perform-a-single-translation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

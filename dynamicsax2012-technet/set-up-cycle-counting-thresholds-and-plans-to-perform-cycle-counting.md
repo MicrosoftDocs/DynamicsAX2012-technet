@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up cycle counting thresholds and plans to perform cycle counting
 TOCTitle: Set up cycle counting thresholds and plans to perform cycle counting
 ms:assetid: e5a0d390-8500-4ed3-a58a-eec59d680268
@@ -17,6 +17,8 @@ f1_keywords:
 - cycle counting work
 - mobile device menu item
 - cycle counting threshold
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up cycle counting thresholds and plans to perform cycle counting 
@@ -138,5 +140,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

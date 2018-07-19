@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Generate an Intrastat file for an EU vendor
 TOCTitle: (SWE) Generate an Intrastat file for an EU vendor
 ms:assetid: d674986f-5738-4da7-8eef-2813b8c339cb
@@ -10,6 +10,8 @@ f1_keywords:
 - Sweden
 - EU
 - Intrastat
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Generate an Intrastat file for an EU vendor 
@@ -100,5 +102,5 @@ To generate the Intrastat file, create and post a vendor invoice for the selecte
 [(SWE) Generate an Intrastat file for an EU customer](swe-generate-an-intrastat-file-for-an-eu-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

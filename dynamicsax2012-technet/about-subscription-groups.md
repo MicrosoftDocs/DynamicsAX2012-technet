@@ -1,4 +1,4 @@
-﻿---
+---
 title: About subscription groups
 TOCTitle: About subscription groups
 ms:assetid: 51ef3188-c876-4b49-8308-7b509e421398
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548917(v=AX.60)
 ms:contentKeyID: 36057279
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About subscription groups 
@@ -36,5 +38,5 @@ You can also complete the following tasks for all subscriptions that are attache
 [Set up subscription groups](set-up-subscription-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

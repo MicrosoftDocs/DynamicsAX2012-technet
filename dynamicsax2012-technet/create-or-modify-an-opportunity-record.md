@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify an opportunity record
 TOCTitle: Create or modify an opportunity record
 ms:assetid: 5601980a-4536-45ae-a9a9-b2d00860c2c1
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - smmEPOpportunityEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify an opportunity record 
@@ -52,5 +54,5 @@ After you provide sales quotations and the contact for the opportunity makes a d
 [View opportunity records](view-opportunity-records.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

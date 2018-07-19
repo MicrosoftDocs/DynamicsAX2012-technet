@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up vendor rebate agreements
 TOCTitle: Set up vendor rebate agreements
 ms:assetid: 8ac9f85e-cd6b-4a39-b806-0ab3e4b24fd0
@@ -19,6 +19,8 @@ f1_keywords:
 - cumulate
 - purchase order rebate
 - vendor rebate
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up vendor rebate agreements 
@@ -337,5 +339,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create definition groups for import and export
 TOCTitle: Create definition groups for import and export
 ms:assetid: 4dba7d56-469c-4124-8bc7-5f2928184255
@@ -234,5 +234,5 @@ You can use the definition group to export the tables that are related to the AI
 [Export data to another instance of Microsoft Dynamics AX](export-data-to-another-instance-of-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

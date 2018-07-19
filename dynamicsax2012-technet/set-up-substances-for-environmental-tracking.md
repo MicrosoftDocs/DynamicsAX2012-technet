@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up substances for environmental tracking
 TOCTitle: Set up substances for environmental tracking
 ms:assetid: 848fcd7f-3a20-4c53-bd99-95a07841ad7f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209320(v=AX.60)
 ms:contentKeyID: 36058392
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up substances for environmental tracking 
@@ -70,5 +72,5 @@ A substance is any material or type of energy that enters, moves through, or lea
 [Set up substance categories](set-up-substance-categories.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

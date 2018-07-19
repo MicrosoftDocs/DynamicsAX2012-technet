@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Portal and Role Centers security and protection
 TOCTitle: Enterprise Portal and Role Centers security and protection
 ms:assetid: 272f6b6b-d619-409c-8fdb-35d545676414
@@ -20,5 +20,5 @@ The topics in this section provide information about security in Enterprise Port
 [Configure Enterprise Portal to use Secure Sockets Layer](configure-enterprise-portal-to-use-secure-sockets-layer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

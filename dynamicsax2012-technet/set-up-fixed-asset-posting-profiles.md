@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up fixed asset posting profiles
 TOCTitle: Set up fixed asset posting profiles
 ms:assetid: b91d226b-4e53-411e-86e3-27e6dfc62c9d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498846(v=AX.60)
 ms:contentKeyID: 36676407
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up fixed asset posting profiles 
@@ -44,5 +46,5 @@ Depending on the structure of the chart of accounts and the requirements for led
 [Fixed asset posting profiles (form)](https://technet.microsoft.com/en-us/library/aa571467\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

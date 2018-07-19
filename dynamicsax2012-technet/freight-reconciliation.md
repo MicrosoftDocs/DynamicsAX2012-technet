@@ -1,4 +1,4 @@
-﻿---
+---
 title: Freight reconciliation
 TOCTitle: Freight reconciliation
 ms:assetid: e8c5f4fd-2131-4e79-8ab1-cc2a95a7d30c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553210(v=AX.60)
 ms:contentKeyID: 62200176
 ms.date: 04/23/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Freight reconciliation 
@@ -26,5 +28,5 @@ The topics in this section provide information about freight reconciliation.
 [Set up an audit master for freight reconciliation](set-up-an-audit-master-for-freight-reconciliation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '(FRA) Key tasks: Titres de recette and bordereaux de titre (Public sector)'
 TOCTitle: '(FRA) Key tasks: Titres de recette and bordereaux de titre (Public sector)'
 ms:assetid: 6caa1120-6636-47ed-b376-5b187e184286
@@ -18,6 +18,8 @@ f1_keywords:
 - titres
 - titres de recette
 - bordereaux de titre
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Key tasks: Titres de recette and bordereaux de titre (Public sector) 
@@ -276,5 +278,5 @@ Back to top
 [Reprint a free text invoice](reprint-a-free-text-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define request for quotation replies
 TOCTitle: Define request for quotation replies
 ms:assetid: 356ed9ce-83c0-4a51-831e-ba9008bf0b91
@@ -23,6 +23,8 @@ f1_keywords:
 - bid
 - bids
 - MsDynAx060.Forms.PurchRFQReplyFields
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define request for quotation replies 
@@ -63,5 +65,5 @@ Use this procedure to change a specific RFQ’s reply fields from the default se
 [Default request for quotation reply fields (form)](https://technet.microsoft.com/en-us/library/hh227599\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

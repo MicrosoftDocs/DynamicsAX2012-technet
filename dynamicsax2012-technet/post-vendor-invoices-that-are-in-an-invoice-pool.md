@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post vendor invoices that are in an invoice pool
 TOCTitle: Post vendor invoices that are in an invoice pool
 ms:assetid: 95e2a149-79c0-495c-89ca-9c9a6de9f181
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498424(v=AX.60)
 ms:contentKeyID: 36058625
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post vendor invoices that are in an invoice pool 
@@ -52,5 +54,5 @@ Use these steps to transfer the invoices from the **Invoice pool excl. posting**
 [Vendor invoice pool excluding posting details (form)](https://technet.microsoft.com/en-us/library/bb314782\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

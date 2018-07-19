@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate table mappings
 TOCTitle: Generate table mappings
 ms:assetid: 20967372-506e-4848-babf-fdc4f625c4f0
@@ -93,5 +93,5 @@ You may encounter the following table-mapping errors for tables that are listed 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Project management and accounting parameters
 TOCTitle: About Project management and accounting parameters
 ms:assetid: ef05876f-1954-453b-afa5-bb03749000f0
@@ -10,6 +10,8 @@ f1_keywords:
 - parameter
 - accounting parameters
 - project management parameters
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Project management and accounting parameters 
@@ -108,7 +110,7 @@ Click **Project management and accounting** \> **Setup** \> **Project management
 <tr class="even">
 <td><p><strong>Vendor contract language</strong></p></td>
 <td><p>Enter text to print on purchase orders for vendor retentions and pay-when-paid contract terms.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This control is available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.</P>
@@ -127,5 +129,5 @@ Click **Project management and accounting** \> **Setup** \> **Project management
 For detailed information that includes individual field descriptions, see [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up rules for fraud alerts
 TOCTitle: Set up rules for fraud alerts
 ms:assetid: f5fda8c6-8c6a-4da6-9b8f-1b7df9b4e625
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn631663(v=AX.60)
 ms:contentKeyID: 62381662
 ms.date: 05/28/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up rules for fraud alerts 
@@ -154,5 +156,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Configuring parameters and initial settings (Call center)](configuring-parameters-and-initial-settings-call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

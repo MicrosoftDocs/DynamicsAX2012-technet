@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate VAT for various purchase types
 TOCTitle: (IND) Calculate VAT for various purchase types
 ms:assetid: 48718f9a-908f-46e2-a288-fe045de36e79
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664671(v=AX.60)
 ms:contentKeyID: 49385734
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate VAT for various purchase types 
@@ -68,5 +70,5 @@ If the transaction is for capital goods, the VAT amount is calculated and posted
 [(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

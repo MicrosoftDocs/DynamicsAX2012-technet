@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow overview (Enterprise Portal)
 TOCTitle: Workflow overview
 ms:assetid: 8cd2ec28-9497-4fc9-bb9c-06cf8d2ca634
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271592(v=AX.60)
 ms:contentKeyID: 36384223
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Workflow overview (Enterprise Portal) 
@@ -32,5 +34,5 @@ Workflows are configured in the Microsoft Dynamics AX client. However, you can u
   - Make a decision that determines the next step of the workflow.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

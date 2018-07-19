@@ -1,4 +1,4 @@
-﻿---
+---
 title: Getting started with Enterprise Search
 TOCTitle: Getting started with Enterprise Search
 ms:assetid: 287b4695-ce37-4213-ba1b-56e5f8de01bc
@@ -38,5 +38,5 @@ One of these products must be available in the computing environment before you 
 [Checklist: Deploy Microsoft Dynamics AX Enterprise Search](checklist-deploy-microsoft-dynamics-ax-enterprise-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy updated reports to a report server
 TOCTitle: Deploy updated reports to a report server
 ms:assetid: c354dfe9-6d29-4cc3-8799-d5dfdc9974c0
@@ -20,5 +20,5 @@ To deploy updated reports to a report server, you follow standard procedures for
   - [How to: Deploy Reports to a Report Server](how-to-deploy-reports-to-a-report-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

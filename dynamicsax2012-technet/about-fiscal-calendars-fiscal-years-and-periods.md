@@ -1,4 +1,4 @@
-﻿---
+---
 title: About fiscal calendars, fiscal years, and periods
 TOCTitle: About fiscal calendars, fiscal years, and periods
 ms:assetid: ce1bd504-30b6-4c0c-8104-09ed92fcf410
@@ -14,6 +14,8 @@ f1_keywords:
 - ledger calendar
 - fixed asset
 - budget cycle
+audience: Application User
+ms.search.region: Global
 ---
 
 # About fiscal calendars, fiscal years, and periods 
@@ -58,5 +60,5 @@ When you upgrade to Microsoft Dynamics AX 2012, you must use the **Upgrade fixed
 [Fiscal calendars (form)](https://technet.microsoft.com/en-us/library/hh209283\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

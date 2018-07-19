@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pay cycle and pay period tasks
 TOCTitle: Pay cycle and pay period tasks
 ms:assetid: 0029649f-b8fd-447f-87ba-618598329257
@@ -13,6 +13,8 @@ f1_keywords:
 - pay period
 - Forms.PayrollPayCycle
 - MsDynAx060.Forms.PayrollPayCycle
+audience: Application User
+ms.search.region: USA
 ---
 
 # Pay cycle and pay period tasks 
@@ -381,5 +383,5 @@ Back to top
 [Worker and position payroll tasks](worker-and-position-payroll-tasks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prerequisites for questionnaire
 TOCTitle: Prerequisites for questionnaire
 ms:assetid: 8b160326-6a6b-4516-8cd0-400ceef19d3b
@@ -11,6 +11,8 @@ f1_keywords:
 - questionnaire
 - prerequisites
 - prerequisite
+audience: Application User
+ms.search.region: Global
 ---
 
 # Prerequisites for questionnaire 
@@ -120,5 +122,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [About question types](about-question-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

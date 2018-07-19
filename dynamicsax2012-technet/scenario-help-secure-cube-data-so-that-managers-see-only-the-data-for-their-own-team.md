@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Help secure cube data so that managers see only the data for their own team'
 TOCTitle: 'Scenario: Help secure cube data so that managers see only the data for their own team'
 ms:assetid: c45d649f-747d-46ad-beca-514514062b8e
@@ -62,5 +62,5 @@ Some managers in your organization may want to use cube data to track and analyz
 Ann can now create pivot tables to analyze expenses for her team. For more information about how to create pivot table reports, see [Create a report by using the Excel data connection wizard to connect to a cube](create-a-report-by-using-the-excel-data-connection-wizard-to-connect-to-a-cube.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FIN) Finnish sales tax report (TaxReport_FI)
 TOCTitle: (FIN) Finnish sales tax report (TaxReport_FI)
 ms:assetid: f7cfcf1f-2b00-411a-b27e-cf5d0a1e1f43
@@ -168,5 +168,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(FIN) Set up and generate the Finnish sales tax report in a foreign currency](fin-set-up-and-generate-the-finnish-sales-tax-report-in-a-foreign-currency.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

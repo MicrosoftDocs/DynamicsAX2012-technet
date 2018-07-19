@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining inventory batches
 TOCTitle: Setting up and maintaining inventory batches
 ms:assetid: 016316c6-501e-4a49-bc38-d9e452eb3b3e
@@ -11,6 +11,8 @@ f1_keywords:
 - inventory batches
 - inventory
 - batches
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining inventory batches 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to set up and maintain 
 [Create a batch disposition code](create-a-batch-disposition-code.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

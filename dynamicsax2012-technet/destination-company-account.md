@@ -1,4 +1,4 @@
-﻿---
+---
 title: " destination company account"
 TOCTitle: " destination company account"
 ms:assetid: DynamicsAXGlossary.1370440
@@ -27,5 +27,5 @@ The legal entity that is the recipient of a liability in an intercompany economi
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

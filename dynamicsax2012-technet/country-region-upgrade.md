@@ -1,4 +1,4 @@
-﻿---
+---
 title: Country/region upgrade
 TOCTitle: Country/region upgrade
 ms:assetid: 893d0dba-4d31-4f6f-9ad9-0fb45e4d7384
@@ -32,5 +32,5 @@ Use this form to change the country/region for individual addresses.
 4.  Click the **Set to ready for upgrade** button.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Jobs'
 TOCTitle: 'Key tasks: Jobs'
 ms:assetid: c12c190f-2218-4258-a3b8-30d1794926d1
@@ -13,6 +13,8 @@ f1_keywords:
 - job function
 - job task
 - job type
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Jobs 
@@ -344,5 +346,5 @@ Back to top
 [Key tasks: New worker positions](key-tasks-new-worker-positions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

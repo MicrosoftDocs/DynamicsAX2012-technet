@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Fixed assets workflows
 TOCTitle: Set up Fixed assets workflows
 ms:assetid: f8d27156-2fa5-4c3b-851e-f74fbd4af240
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227561(v=AX.60)
 ms:contentKeyID: 36060051
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up Fixed assets workflows 
@@ -152,5 +154,5 @@ The following calculated fields and expressions are used with Fixed assets workf
 [Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

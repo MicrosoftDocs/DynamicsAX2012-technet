@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Set up sales tax codes for intra-community VAT
 TOCTitle: (CZE) Set up sales tax codes for intra-community VAT
 ms:assetid: d2eb668c-1df2-4efa-ba9f-afd7f5a54593
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677813(v=AX.60)
 ms:contentKeyID: 49385013
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Set up sales tax codes for intra-community VAT 
@@ -64,5 +66,5 @@ To calculate intra-community VAT for purchase transactions, you must create a sa
 [(CZE) About posting a purchase transaction that includes intra-community VAT](cze-about-posting-a-purchase-transaction-that-includes-intra-community-vat.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

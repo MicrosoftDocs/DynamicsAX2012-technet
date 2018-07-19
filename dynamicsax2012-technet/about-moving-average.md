@@ -1,4 +1,4 @@
-﻿---
+---
 title: About moving average
 TOCTitle: About moving average
 ms:assetid: c297cafe-18a8-468f-a598-41cc49caf6c5
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - moving average
+audience: Application User
+ms.search.region: Global
 ---
 
 # About moving average 
@@ -234,5 +236,5 @@ The following table displays the transactions for the product that the report is
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

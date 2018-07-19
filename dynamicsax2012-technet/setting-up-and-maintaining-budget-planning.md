@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining budget planning
 TOCTitle: Setting up and maintaining budget planning
 ms:assetid: 50f4968b-2ed0-4942-8746-efff021810cb
@@ -11,6 +11,8 @@ f1_keywords:
 - setting up and maintaining budget planning
 - budget planning
 - budget plans
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining budget planning 
@@ -31,5 +33,5 @@ The following topics provide information about setting up and maintaining budget
 [Generate budget plans from source information](generate-budget-plans-from-source-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

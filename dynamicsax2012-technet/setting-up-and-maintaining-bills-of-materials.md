@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining bills of materials
 TOCTitle: Setting up and maintaining bills of materials
 ms:assetid: 4aef04f7-1977-4cf7-a4aa-c3c11529159a
@@ -11,6 +11,8 @@ f1_keywords:
 - bills of materials
 - bom
 - boms
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining bills of materials 
@@ -43,5 +45,5 @@ The topics in this section provide information about how to set up and maintain 
 [Change a BOM item](change-a-bom-item.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

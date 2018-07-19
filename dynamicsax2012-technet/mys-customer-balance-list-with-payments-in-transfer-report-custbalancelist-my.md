@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MYS) Customer balance list with payments in transfer report (CustBalanceList_MY)
 TOCTitle: (MYS) Customer balance list with payments in transfer report (CustBalanceList_MY)
 ms:assetid: 85702127-5039-4fe0-9fba-651c9c2596c4
@@ -122,5 +122,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

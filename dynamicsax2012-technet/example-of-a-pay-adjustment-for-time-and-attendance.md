@@ -1,4 +1,4 @@
-﻿---
+---
 title: Example of a pay adjustment for time and attendance
 TOCTitle: Example of a pay adjustment for time and attendance
 ms:assetid: f5b2960f-f966-4354-bc19-0c3df5775e10
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551648(v=AX.60)
 ms:contentKeyID: 36060004
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Example of a pay adjustment for time and attendance 
@@ -304,5 +306,5 @@ The following table shows how corrections will be made to the payroll transactio
 [About pay adjustments and count units](about-pay-adjustments-and-count-units.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

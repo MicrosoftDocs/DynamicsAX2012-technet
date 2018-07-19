@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Configuring required Accounts payable information
 TOCTitle: (BRA) Configuring required Accounts payable information
 ms:assetid: aeac98e0-12d8-4112-9953-2b3229354d26
@@ -11,6 +11,8 @@ f1_keywords:
 - BRA
 - Brazil
 - configuring accounts payable
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Configuring required Accounts payable information 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to configure Accounts p
 [(BRA) Set up email addresses for vendors](bra-set-up-email-addresses-for-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

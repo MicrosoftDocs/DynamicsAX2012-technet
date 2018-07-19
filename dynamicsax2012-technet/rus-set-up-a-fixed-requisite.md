@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a fixed requisite
 TOCTitle: (RUS) Set up a fixed requisite
 ms:assetid: 1be66d33-9bf6-4501-a5b5-b388eef8f2e3
@@ -10,6 +10,8 @@ f1_keywords:
 - fixed requisite
 - requisite
 - set up requisite
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a fixed requisite 
@@ -124,5 +126,5 @@ Use the **Fixed requisites** form to set up a fixed requisite. The requisite val
 [(RUS) Periods of formats application (form)](https://technet.microsoft.com/en-us/library/jj710684\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About cash discounts
 TOCTitle: About cash discounts
 ms:assetid: 3fdf236c-0d8b-49b9-9e2d-6ec3645cc976
@@ -10,6 +10,8 @@ f1_keywords:
 - discounts
 - discount
 - early
+audience: Application User
+ms.search.region: Global
 ---
 
 # About cash discounts 
@@ -96,5 +98,5 @@ A payment for 980 USD is settled with the invoice on March 1. The cash discount 
 [Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts payable positive payment clerk security role (PaymPositivePaymentClerk)
 TOCTitle: Accounts payable positive payment clerk security role (PaymPositivePaymentClerk)
 ms:assetid: c0e3d16c-9048-4382-9c0f-ef441b7fec04
@@ -53,5 +53,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

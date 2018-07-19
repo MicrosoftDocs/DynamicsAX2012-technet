@@ -1,4 +1,4 @@
-﻿---
+---
 title: Move an Enterprise Portal deployment to a different server
 TOCTitle: Move an Enterprise Portal deployment to a different server
 ms:assetid: c58183aa-8bf0-4abf-acca-bf2cd89b263c
@@ -72,5 +72,5 @@ Use the following procedure to move an Enterprise Portal deployment to a differe
 15. Configure user access to the site. For more information, see [Enable users to access Enterprise Portal](enable-users-to-access-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Electronic signature configuration key (SIG)
 TOCTitle: Electronic signature configuration key (SIG)
 ms:assetid: d860bec1-be34-4ced-9154-4d608d441dea
@@ -120,5 +120,5 @@ For more information about how license codes and configuration keys work togethe
 [(Global, USA) Electronic signatures](global-usa-electronic-signatures.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

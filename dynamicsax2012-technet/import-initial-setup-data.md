@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import initial setup data
 TOCTitle: Import initial setup data
 ms:assetid: 943f1a1b-c8f6-4034-a3f6-c9b1988bd6c4
@@ -44,5 +44,5 @@ If you plan to import data, you must complete this task before you start using M
 [Data import, export and migration](data-import-export-and-migration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

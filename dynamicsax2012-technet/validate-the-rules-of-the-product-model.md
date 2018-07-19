@@ -1,4 +1,4 @@
-﻿---
+---
 title: Validate the rules of the product model
 TOCTitle: Validate the rules of the product model
 ms:assetid: 93ff7d80-a5ba-41fb-b165-73224bc3c449
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ff395358(v=AX.60)
 ms:contentKeyID: 36058589
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Validate the rules of the product model 
@@ -46,5 +48,5 @@ To retest new rules or variables in the **Product Builder configuration** form, 
 [About the rule debugger](about-the-rule-debugger.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

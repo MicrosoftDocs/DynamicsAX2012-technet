@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify a legal entity
 TOCTitle: Create or modify a legal entity
 ms:assetid: 35fd4342-77d6-45ea-bc2e-ae416945c856
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242184(v=AX.60)
 ms:contentKeyID: 36056575
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify a legal entity 
@@ -97,5 +99,5 @@ Organizations that are relevant to other application areas can also be set up in
 [About organizations and organizational hierarchies](about-organizations-and-organizational-hierarchies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

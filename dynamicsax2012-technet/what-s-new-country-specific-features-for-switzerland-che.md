@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Switzerland (CHE)"
 TOCTitle: Country-specific features for Switzerland
 ms:assetid: 09de2070-edb3-449f-80cc-db7d9a7bff51
@@ -37,5 +37,5 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we changed and added c
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

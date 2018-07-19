@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Review new vendor requests from employees'
 TOCTitle: 'Key tasks: Review new vendor requests from employees'
 ms:assetid: cda48608-976b-423b-a6fe-d495dfd89707
@@ -10,6 +10,8 @@ f1_keywords:
 - vendor request
 - new vendor
 - review vendor request
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Review new vendor requests from employees 
@@ -162,5 +164,5 @@ Back to top
 [Key tasks: Manually set up user access to the Vendor portal](key-tasks-manually-set-up-user-access-to-the-vendor-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

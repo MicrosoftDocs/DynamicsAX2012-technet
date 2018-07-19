@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up indirect costs for projects
 TOCTitle: Set up indirect costs for projects
 ms:assetid: 1e147e5a-f16b-4880-9a88-144798f7cd7d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682088(v=AX.60)
 ms:contentKeyID: 49655575
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up indirect costs for projects 
@@ -20,5 +22,5 @@ The following topics provide information about setting up and assigning indirect
 [Key tasks: Create and maintain indirect costs](key-tasks-create-and-maintain-indirect-costs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

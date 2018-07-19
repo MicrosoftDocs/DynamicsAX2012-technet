@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Payment Services
 TOCTitle: Set up Payment Services
 ms:assetid: 475d8c44-a961-445b-939b-5b36380b9043
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ680904(v=AX.60)
 ms:contentKeyID: 49624325
 ms.date: 04/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up Payment Services 
@@ -367,5 +369,5 @@ Provide the settings for the merchant account to your Microsoft Dynamics AX part
 [Set up credit card authorizations](set-up-credit-card-authorizations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

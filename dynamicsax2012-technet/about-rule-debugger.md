@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Rule debugger
 TOCTitle: About Rule debugger
 ms:assetid: 94dff1b5-51f3-4a54-ad4b-e7e5e340966e
@@ -10,6 +10,8 @@ f1_keywords:
 - product builder
 - rule debug
 - rule debugger
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Rule debugger 
@@ -53,5 +55,5 @@ This section contains information about the rule debugger.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

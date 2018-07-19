@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Sales tax hierarchies
 TOCTitle: (IND) Sales tax hierarchies
 ms:assetid: 1b865da6-19f0-4a13-8d2c-050319de6415
@@ -12,6 +12,8 @@ f1_keywords:
 - sales tax hierarchy structure
 - sales tax payment
 - sales tax settlement
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Sales tax hierarchies 
@@ -76,5 +78,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [(IND) Set up and use a sales tax hierarchy](ind-set-up-and-use-a-sales-tax-hierarchy.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

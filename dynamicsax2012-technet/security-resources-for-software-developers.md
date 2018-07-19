@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security resources for software developers
 TOCTitle: Security resources for software developers
 ms:assetid: b1fd4f2f-d0d5-4615-b7b3-e4862a2d209a
@@ -38,5 +38,5 @@ This topic provides links to programming best practices related to security and 
 [Using the MorphX Security System](https://technet.microsoft.com/en-us/library/aa887523\(v=ax.60\)) (http://msdn.microsoft.com/en-us/library/aa887523.aspx)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

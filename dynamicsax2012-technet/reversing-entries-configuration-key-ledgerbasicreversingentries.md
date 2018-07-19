@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reversing entries configuration key (LedgerBasicReversingEntries)
 TOCTitle: Reversing entries configuration key (LedgerBasicReversingEntries)
 ms:assetid: 44ed9e5a-d40d-48af-abb2-9fdc5291e29f
@@ -56,5 +56,5 @@ For more information about how license codes and configuration keys work togethe
 [Create a reversing entry](create-a-reversing-entry.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

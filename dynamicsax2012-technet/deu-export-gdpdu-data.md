@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DEU) Export GDPdU data
 TOCTitle: (DEU) Export GDPdU data
 ms:assetid: a9e2b295-0ba6-43a0-b747-d3a5d0f8331c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa589213(v=AX.60)
 ms:contentKeyID: 36058898
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Germany
 ---
 
 # (DEU) Export GDPdU data 
@@ -58,5 +60,5 @@ Use the data export wizard to export Grundsätze zum Datenzugriff und zur Prüfb
 [(DEU) Data export relations (form)](https://technet.microsoft.com/en-us/library/aa620743\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

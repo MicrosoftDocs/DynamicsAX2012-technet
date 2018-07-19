@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (EEUR) Eastern European EU sales list reports'
 TOCTitle: (EEUR) Eastern European EU sales list reports
 ms:assetid: d9427cc9-2933-4add-b422-fd4b5be55886
@@ -54,5 +54,5 @@ For Eastern European installations, Microsoft Dynamics AX 2009 provides country/
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

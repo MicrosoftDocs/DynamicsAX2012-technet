@@ -1,4 +1,4 @@
-﻿---
+---
 title: About work in process (WIP) calculation
 TOCTitle: About work in process (WIP) calculation
 ms:assetid: ecc03d50-ae70-4079-a3b3-3fad31040d9e
@@ -12,6 +12,8 @@ f1_keywords:
 - WIP to cost value
 - WIP to sales value
 - work in process
+audience: Application User
+ms.search.region: Global
 ---
 
 # About work in process (WIP) calculation 
@@ -90,5 +92,5 @@ For Investment projects, the WIP amount is posted by using the estimate system i
 [About WIP subscription accounts](about-wip-subscription-accounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

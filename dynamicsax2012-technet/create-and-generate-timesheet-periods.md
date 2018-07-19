@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and generate timesheet periods
 TOCTitle: Create and generate timesheet periods
 ms:assetid: 8d2d02e4-6fed-41ad-bf9b-f34607e4caf8
@@ -14,6 +14,8 @@ f1_keywords:
 - project periods
 - timesheet periods
 - split week
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and generate timesheet periods 
@@ -80,5 +82,5 @@ You must also associate periods with estimates because the estimate frequency is
 [Generate periods (class form)](https://technet.microsoft.com/en-us/library/aa557965\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

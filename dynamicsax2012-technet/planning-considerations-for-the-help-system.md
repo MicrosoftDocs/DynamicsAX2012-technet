@@ -1,4 +1,4 @@
-﻿---
+---
 title: Planning considerations for the Help system
 TOCTitle: Planning considerations for the Help system
 ms:assetid: 73dea160-55e3-4444-8087-d2afdbbb1798
@@ -60,5 +60,5 @@ If you plan to customize your Help system, consider the following question.
 You can create custom Help topics and add them to the Help system. If you are going to create custom topics, consider how you are going to install them. For example, you may need to create a file share for the topics on the computer hosting the Help server. For more information about installing custom Help topics, see [Developing on the Help server](developing-on-the-help-server.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

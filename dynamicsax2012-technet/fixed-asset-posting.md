@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed asset posting
 TOCTitle: Fixed asset posting
 ms:assetid: 967bcf72-6d26-4148-ba4d-dd2b884a4ee6
@@ -12,6 +12,8 @@ f1_keywords:
 - asset postings
 - fixed assets posting
 - fixed assets postins
+audience: Application User
+ms.search.region: Global
 ---
 
 # Fixed asset posting 
@@ -34,5 +36,5 @@ The topics in this section provide information about the posting of fixed assets
 [Examples: Depreciation effects with reversals](examples-depreciation-effects-with-reversals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

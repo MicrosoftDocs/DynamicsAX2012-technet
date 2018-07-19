@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service order item requirements
 TOCTitle: About service order item requirements
 ms:assetid: b7aab3fd-b3df-4bc2-b796-749cddf0a339
@@ -11,6 +11,8 @@ f1_keywords:
 - service order
 - service management
 - reserve item
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service order item requirements 
@@ -61,5 +63,5 @@ If an item requirement is created on a service order, you cannot delete the serv
 [Consume item requirements in a project](consume-item-requirements-in-a-project.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

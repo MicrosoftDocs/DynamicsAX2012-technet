@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Generate an asset record report
 TOCTitle: (LVA) Generate an asset record report
 ms:assetid: b00bd57d-5097-4872-b9cb-07d6f4d93ab4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853415(v=AX.60)
 ms:contentKeyID: 50396784
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Generate an asset record report 
@@ -44,5 +46,5 @@ The **Asset record** report displays details for a specific fixed asset that is 
 7.  Click **OK** to generate the report.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

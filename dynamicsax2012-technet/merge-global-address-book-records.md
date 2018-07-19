@@ -1,4 +1,4 @@
-﻿---
+---
 title: Merge global address book records
 TOCTitle: Merge global address book records
 ms:assetid: c0ea8414-672d-4cf0-8700-3bb23b2f0293
@@ -38,5 +38,5 @@ In some situations, party records cannot be merged.
 6.  Click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

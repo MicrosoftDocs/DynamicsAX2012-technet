@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transfer a customer postdated check to a vendor
 TOCTitle: Transfer a customer postdated check to a vendor
 ms:assetid: 6270c8b9-d1da-44b3-b5db-5fd9f7c73459
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - postdated
 - checks
+audience: Application User
+ms.search.region: Global
 ---
 
 # Transfer a customer postdated check to a vendor 
@@ -37,5 +39,5 @@ You can view a list of all of the postdated checks that are transferred to the v
 [Customer postdated checks (form)](https://technet.microsoft.com/en-us/library/hh227493\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

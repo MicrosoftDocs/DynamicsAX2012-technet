@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Spanish journal list report (LedgerJournalizeReport_ES)
 TOCTitle: (ESP) Spanish journal list report (LedgerJournalizeReport_ES)
 ms:assetid: 1a9c1868-52fd-44e2-a79d-e0b99f853de2
@@ -92,5 +92,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use Retail Modern POS in offline mode
 TOCTitle: Use Retail Modern POS in offline mode
 ms:assetid: 5aa3ede6-267c-4f3a-b1f8-86dac1b889bc
@@ -327,5 +327,5 @@ You can’t complete the following operations when the channel database is offli
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

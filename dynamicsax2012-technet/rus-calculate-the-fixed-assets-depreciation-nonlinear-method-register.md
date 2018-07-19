@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the fixed assets depreciation (nonlinear method) register
 TOCTitle: (RUS) Calculate the fixed assets depreciation (nonlinear method) register
 ms:assetid: 164e5615-c368-4443-828d-ad4e411dd4ec
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711426(v=AX.60)
 ms:contentKeyID: 49387244
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the fixed assets depreciation (nonlinear method) register 
@@ -48,5 +50,5 @@ You must set up the **FA depreciation (nonlinear method)** register in the **Tax
 [(RUS) Recalculate registers](rus-recalculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

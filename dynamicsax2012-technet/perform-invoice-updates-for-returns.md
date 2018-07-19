@@ -1,4 +1,4 @@
-﻿---
+---
 title: Perform invoice updates for returns
 TOCTitle: Perform invoice updates for returns
 ms:assetid: 2c24e50d-6446-4dfe-8c12-7f789b8229bc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231016(v=AX.60)
 ms:contentKeyID: 36056253
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Perform invoice updates for returns 
@@ -38,5 +40,5 @@ When you set up the invoice update for batch processing, the sales order of type
 [About packing slip updates for returns](about-packing-slip-updates-for-returns.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

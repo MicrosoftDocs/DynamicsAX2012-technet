@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Staff administration reports
 TOCTitle: (RUS) Staff administration reports
 ms:assetid: bbf70e5f-1a4d-4077-8637-c94e09743321
@@ -21,6 +21,8 @@ f1_keywords:
 - Classes.RHRMReport_T8a
 - employment resolution report
 - transfer resolution reports
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Staff administration reports 
@@ -657,5 +659,5 @@ Generate and print a report that displays the contract details for contractors a
 [(RUS) Hire, transfer, and dismiss a worker](rus-hire-transfer-and-dismiss-a-worker.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

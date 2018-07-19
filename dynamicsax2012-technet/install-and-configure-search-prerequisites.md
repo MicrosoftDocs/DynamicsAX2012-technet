@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install and configure Search prerequisites
 TOCTitle: Install and configure Search prerequisites
 ms:assetid: f4c8a8af-43a1-4203-9d32-196ebf050bb3
@@ -124,5 +124,5 @@ Use the following procedure to specify the BC proxy for the SharePoint Server Se
 [Troubleshoot installation issues with Enterprise Search](troubleshoot-installation-issues-with-enterprise-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Security Upgrade Advisor Tool for Microsoft Dynamics AX"
 TOCTitle: Security Upgrade Advisor Tool for Microsoft Dynamics AX
 ms:assetid: ba9f0b3d-7539-4d83-80b7-409fe47c4f11
@@ -20,5 +20,5 @@ The Security Upgrade Advisor Tool compares entry points and permissions between 
 Read the documentation: [Security Upgrade Advisor Tool User Guide](security-upgrade-advisor-tool-user-guide.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

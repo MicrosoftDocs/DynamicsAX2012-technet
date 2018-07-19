@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) About consolidating invoices
 TOCTitle: (JPN) About consolidating invoices
 ms:assetid: 8aa3b0dd-33ca-4a6a-ad1e-e488b5616909
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - JP - 00007
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) About consolidating invoices 
@@ -128,5 +130,5 @@ The following table shows how the payment due date is calculated for invoices th
 [Key tasks: Letter of credit for the export of goods](key-tasks-letter-of-credit-for-the-export-of-goods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

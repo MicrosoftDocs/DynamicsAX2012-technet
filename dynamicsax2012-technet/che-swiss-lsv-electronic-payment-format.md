@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHE) Swiss LSV+ electronic payment format
 TOCTitle: (CHE) Swiss LSV+ electronic payment format
 ms:assetid: 6e976eb2-9b75-4d87-a7c3-567f7a614af0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231810(v=AX.60)
 ms:contentKeyID: 36058037
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Switzerland
 ---
 
 # (CHE) Swiss LSV+ electronic payment format 
@@ -32,5 +34,5 @@ Payments can be submitted for euro currency, and payment reference numbers are i
 [(CHE) Create an LSV+ payment file](che-create-an-lsv-payment-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

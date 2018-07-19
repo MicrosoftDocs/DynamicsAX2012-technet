@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a new Retail Server Controller
 TOCTitle: Create a new Retail Server Controller
 ms:assetid: edc1a279-914b-49c3-90b6-84173e2f828d
@@ -77,5 +77,5 @@ After you create the new entity, you must define a new controller for it. In the
 [Retail Modern Point of Sale](retail-modern-point-of-sale.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

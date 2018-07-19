@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Maintain customs tax transactions for Accounts payable
 TOCTitle: (IND) Maintain customs tax transactions for Accounts payable
 ms:assetid: 18dde309-7533-4bc6-9cb7-baf170e9d60d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664520(v=AX.60)
 ms:contentKeyID: 49385599
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Maintain customs tax transactions for Accounts payable 
@@ -26,5 +28,5 @@ The following topics provide information about creating, posting, and viewing cu
 [(IND) View transactions for customs in the journal voucher form](ind-view-transactions-for-customs-in-the-journal-voucher-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

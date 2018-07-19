@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Define tax registration numbers for a customer account
 TOCTitle: (MEX) Define tax registration numbers for a customer account
 ms:assetid: 842a449d-d6ff-4488-a489-3f67ed683540
@@ -10,6 +10,8 @@ f1_keywords:
 - Mexico
 - tax registration number
 - customer accounts
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Define tax registration numbers for a customer account 
@@ -89,5 +91,5 @@ Use this procedure to assign a tax registration number to a customer.
 [(MEX) Create and post invoices for a non-managed vendor](mex-create-and-post-invoices-for-a-non-managed-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

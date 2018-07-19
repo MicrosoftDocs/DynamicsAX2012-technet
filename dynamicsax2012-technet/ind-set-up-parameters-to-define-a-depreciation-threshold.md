@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up parameters to define a depreciation threshold
 TOCTitle: (IND) Set up parameters to define a depreciation threshold
 ms:assetid: 08830920-1a85-4dad-97b3-cd4b8c3c5978
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664457(v=AX.60)
 ms:contentKeyID: 49385536
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up parameters to define a depreciation threshold 
@@ -48,5 +50,5 @@ You can set up parameters to define the depreciation threshold and determine the
 [(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

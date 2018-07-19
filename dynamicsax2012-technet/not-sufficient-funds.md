@@ -1,4 +1,4 @@
-﻿---
+---
 title: " not sufficient funds"
 TOCTitle: " not sufficient funds"
 ms:assetid: DynamicsAXGlossary.228505
@@ -19,5 +19,5 @@ The lack of enough funds in an account to cover a payment or withdrawal.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

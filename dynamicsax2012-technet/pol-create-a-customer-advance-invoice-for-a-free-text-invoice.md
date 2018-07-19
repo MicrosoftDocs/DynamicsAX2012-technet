@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Create a customer advance invoice for a free text invoice
 TOCTitle: (POL) Create a customer advance invoice for a free text invoice
 ms:assetid: 6b9150cd-0fae-43dc-a67e-8f85cabf7cb3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678232(v=AX.60)
 ms:contentKeyID: 49386954
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Create a customer advance invoice for a free text invoice 
@@ -39,5 +41,5 @@ You can create an advance invoice for a free text invoice. You can also reassign
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

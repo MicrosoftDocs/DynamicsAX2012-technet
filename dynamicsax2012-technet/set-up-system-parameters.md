@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up system parameters
 TOCTitle: Set up system parameters
 ms:assetid: bb9fc1ee-5f33-4094-9a8f-20eadd15ebd8
@@ -88,5 +88,5 @@ If you open the form from the initialization checklist or the partition initiali
 [About drilling down from an alert email message](about-drilling-down-from-an-alert-email-message.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

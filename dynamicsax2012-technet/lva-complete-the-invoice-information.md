@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Complete the invoice information
 TOCTitle: (LVA) Complete the invoice information
 ms:assetid: 7d2fb4d8-269c-4c01-831c-3b3fc17e9dde
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731033(v=AX.60)
 ms:contentKeyID: 49675273
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Complete the invoice information 
@@ -26,5 +28,5 @@ The following topics provide information about completing invoice information.
 [(LVA) Create and print a free text credit note invoice with bank account details](lva-create-and-print-a-free-text-credit-note-invoice-with-bank-account-details.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

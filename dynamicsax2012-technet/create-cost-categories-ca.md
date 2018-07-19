@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create cost categories (CA)
 TOCTitle: Create cost categories
 ms:assetid: 8d79eaeb-2df9-43ca-a394-b2aae0defc27
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498346(v=AX.60)
 ms:contentKeyID: 36058503
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create cost categories (CA) 
@@ -30,5 +32,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [About cost categories](about-cost-categories.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

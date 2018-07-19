@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Set up company information for Zakat reporting
 TOCTitle: (SAU) Set up company information for Zakat reporting
 ms:assetid: e353a587-c199-4bf1-ae52-f727b824fe24
@@ -10,6 +10,8 @@ f1_keywords:
 - company
 - Saudi Arabia
 - Zakat reporting
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) Set up company information for Zakat reporting 
@@ -38,5 +40,5 @@ The **Legal entities** form stores information about companies registered with t
 [Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

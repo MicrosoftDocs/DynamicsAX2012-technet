@@ -1,4 +1,4 @@
-﻿---
+---
 title: Alert setup report (AlertSetupReport)
 TOCTitle: Alert setup report (AlertSetupReport)
 ms:assetid: a2f3341e-0836-45e4-b825-2e7353ceca6e
@@ -106,5 +106,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

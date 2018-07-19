@@ -1,4 +1,4 @@
-﻿---
+---
 title: Community resources
 TOCTitle: Community resources
 ms:assetid: 845224f9-09d0-4d8c-854c-397750ddd7e1
@@ -22,5 +22,5 @@ This topic provides information about Microsoft Dynamics AX communities, newsgro
   - The Microsoft Dynamics AX [Ask the Community](http://community.dynamics.com/product/ax/f/33.aspx) site, a Microsoft-sponsored discussion forum.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

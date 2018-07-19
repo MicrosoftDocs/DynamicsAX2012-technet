@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Impairment accounting for fixed assets
 TOCTitle: (JPN) Impairment accounting for fixed assets
 ms:assetid: bfc8ef29-1793-4ceb-b8b8-f58519813ae4
@@ -16,6 +16,8 @@ f1_keywords:
 - impairment accounting
 - impairments
 - JP - 00014
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Impairment accounting for fixed assets 
@@ -84,5 +86,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [(JPN) Identify impaired assets and post journals for impairment](jpn-identify-impaired-assets-and-post-journals-for-impairment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

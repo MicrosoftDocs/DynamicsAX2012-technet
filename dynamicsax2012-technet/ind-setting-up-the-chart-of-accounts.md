@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up the chart of accounts
 TOCTitle: (IND) Setting up the chart of accounts
 ms:assetid: ce92ad71-cb66-4744-bb79-0bc94d571c00
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664893(v=AX.60)
 ms:contentKeyID: 49386222
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up the chart of accounts 
@@ -26,5 +28,5 @@ The following topics provide information about setting up the chart of accounts.
 [(IND) Define ledger posting groups for tax components](ind-define-ledger-posting-groups-for-tax-components.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

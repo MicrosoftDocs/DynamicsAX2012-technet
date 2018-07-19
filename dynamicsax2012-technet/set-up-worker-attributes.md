@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up worker attributes
 TOCTitle: Set up worker attributes
 ms:assetid: 64f8c2b2-b500-45e3-9a90-a9b834bc88ac
@@ -15,6 +15,8 @@ f1_keywords:
 - worker education
 - worker project experience
 - worker certifications
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up worker attributes 
@@ -54,5 +56,5 @@ The additional attribute for the worker is displayed in the **Resource competenc
 [Identify and assign qualified workers to projects](identify-and-assign-qualified-workers-to-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

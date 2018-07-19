@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add batch attribute values to an inventory batch
 TOCTitle: Add batch attribute values to an inventory batch
 ms:assetid: a9ea20f1-d0fc-4f61-af23-96472f96f9d0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242690(v=AX.60)
 ms:contentKeyID: 36058899
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add batch attribute values to an inventory batch 
@@ -44,5 +46,5 @@ Use this procedure to add batch attribute values to an inventory batch after you
 [Product specific (form)](https://technet.microsoft.com/en-us/library/hh227369\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

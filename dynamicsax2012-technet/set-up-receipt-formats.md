@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up receipt formats
 TOCTitle: Set up receipt formats
 ms:assetid: 28b7d91d-efe5-4c3a-83ec-56ba365117c3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580594(v=AX.60)
 ms:contentKeyID: 39519078
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up receipt formats 
@@ -78,5 +80,5 @@ Use the form layout designer to graphically create the layout of the form docume
 [Receipt formats (form)](https://technet.microsoft.com/en-us/library/hh597228\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

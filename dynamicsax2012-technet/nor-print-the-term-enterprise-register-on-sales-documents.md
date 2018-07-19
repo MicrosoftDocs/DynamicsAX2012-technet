@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Print the term “Enterprise register” on sales documents
 TOCTitle: (NOR) Print the term “Enterprise register” on sales documents
 ms:assetid: 93482b33-2d8a-4303-8895-fd3e4ee3f496
@@ -34,5 +34,5 @@ You must complete the following setup procedures in order to print *Enterprise r
   - Set up the parameter to print *Enterprise register* on sales documents. For more information, see [(NOR) Select the parameter to print Enterprise register on sales documents](nor-select-the-parameter-to-print-enterprise-register-on-sales-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

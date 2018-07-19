@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Mark purchase invoices for consolidation and calculate due dates
 TOCTitle: (JPN) Mark purchase invoices for consolidation and calculate due dates
 ms:assetid: 38893fa7-4b7f-4e4f-b58c-7f5c665bdd0d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711032(v=AX.60)
 ms:contentKeyID: 49386443
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Mark purchase invoices for consolidation and calculate due dates 
@@ -58,5 +60,5 @@ You can consolidate several purchase invoices each month. You must mark purchase
 [(JPN) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj711227\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

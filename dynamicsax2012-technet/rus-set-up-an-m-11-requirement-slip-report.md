@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an M-11 requirement slip report
 TOCTitle: (RUS) Set up an M-11 requirement slip report
 ms:assetid: 831d5049-6a6a-4371-8a29-9d01332cd80d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678431(v=AX.60)
 ms:contentKeyID: 49387661
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an M-11 requirement slip report 
@@ -46,5 +48,5 @@ You can monitor inventory flows between departments as well as between responsib
 6.  Click the **Number sequence** tab. In the **Number sequence code** field, select the number sequence code for the requirement slip.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

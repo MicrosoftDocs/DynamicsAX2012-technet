@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining procurement and sourcing workflows
 TOCTitle: Setting up and maintaining procurement and sourcing workflows
 ms:assetid: 5b643448-69b6-4c8f-9762-48191694e4d9
@@ -12,6 +12,8 @@ f1_keywords:
 - procurement
 - sourcing
 - purchasing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining procurement and sourcing workflows 
@@ -34,5 +36,5 @@ The topics in this section provide information about how to set up and configure
 [Set up System administration workflows](set-up-system-administration-workflows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

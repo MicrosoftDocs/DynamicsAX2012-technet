@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Enterprise Portal Help content
 TOCTitle: Install Enterprise Portal Help content
 ms:assetid: 55371efb-f62f-46dc-866c-483ac74dd0ee
@@ -48,5 +48,5 @@ The MS.EP.HC*-LanguageCode*.cab file contains Help topics for Enterprise Portal 
 [Checklists for deploying Enterprise Portal sites](checklists-for-deploying-enterprise-portal-sites.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

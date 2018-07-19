@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy Microsoft Dynamics AX Services to the Windows Azure Service Bus
 TOCTitle: Deploy Microsoft Dynamics AX Services to the Windows Azure Service Bus
 ms:assetid: cf55c0d5-b12b-4f42-a157-c1dd9508ed3f
@@ -452,5 +452,5 @@ To publish your service and make it available on the Service Bus, create an enha
 [Service Bus Overview](http://go.microsoft.com/fwlink/?linkid=302333%26clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

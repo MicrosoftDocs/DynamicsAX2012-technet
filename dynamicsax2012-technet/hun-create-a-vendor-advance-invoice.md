@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Create a vendor advance invoice
 TOCTitle: (HUN) Create a vendor advance invoice
 ms:assetid: 7c599ba6-0461-4110-bafd-355d8c4917d4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664314(v=AX.60)
 ms:contentKeyID: 49385403
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Create a vendor advance invoice 
@@ -35,5 +37,5 @@ The advance invoice is a document created for a vendor that shows the amount to 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

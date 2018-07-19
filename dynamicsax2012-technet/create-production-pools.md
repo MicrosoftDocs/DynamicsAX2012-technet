@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create production pools
 TOCTitle: Create production pools
 ms:assetid: 54e62de2-ad92-40d8-8307-be8a7ca8ebed
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549042(v=AX.60)
 ms:contentKeyID: 36057310
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create production pools 
@@ -38,5 +40,5 @@ Set up production pools as a way to group production orders into various useful 
 [Production pools (form)](https://technet.microsoft.com/en-us/library/aa589257\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

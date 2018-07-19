@@ -1,4 +1,4 @@
-﻿---
+---
 title: List pages
 TOCTitle: List pages
 ms:assetid: 774fe909-350b-4a6c-8487-13ff24c13217
@@ -167,6 +167,8 @@ f1_keywords:
 - MsDynAx060.Forms.smmCampaignsListPage
 - MsDynAx060.Forms.RetailLoyaltyCustListPage
 - MsDynAx060.Forms.smmOpportunitiesListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # List pages 
@@ -231,5 +233,5 @@ By default, some list pages have more FactBoxes available than those that are di
 [Filter a list page](filter-a-list-page.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

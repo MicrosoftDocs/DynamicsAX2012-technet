@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Examples: Posting definitions (Public sector)'
 TOCTitle: 'Examples: Posting definitions (Public sector)'
 ms:assetid: 70e37c7c-84b1-4a49-a19f-7bf2fd0d4a81
@@ -12,6 +12,8 @@ f1_keywords:
 - posting definition
 - posting definitions
 - posting definition example
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Examples: Posting definitions (Public sector) 
@@ -2289,5 +2291,5 @@ In this example, any Expense account structure matches the posting definition cr
 [Examples: Posting definitions](examples-posting-definitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

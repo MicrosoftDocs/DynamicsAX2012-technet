@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Generate a promissory note by using a free promissory note number method
 TOCTitle: (ESP) Generate a promissory note by using a free promissory note number method
 ms:assetid: d3e6f386-361f-41a5-a32a-df92ed820492
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213691(v=AX.60)
 ms:contentKeyID: 36059516
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Generate a promissory note by using a free promissory note number method 
@@ -42,5 +44,5 @@ Use the **Journals** form to generate a promissory note using a free promissory 
 [(ESP) Create a promissory note document by using a fixed promissory note number method](esp-create-a-promissory-note-document-by-using-a-fixed-promissory-note-number-method.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

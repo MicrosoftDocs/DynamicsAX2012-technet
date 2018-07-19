@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a report by using the Excel data connection wizard to connect to a cube
 TOCTitle: Create a report by using the Excel data connection wizard to connect to a cube
 ms:assetid: ab93489c-4cd2-4b32-add5-9d7234b75ff3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243095(v=AX.60)
 ms:contentKeyID: 35133451
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a report by using the Excel data connection wizard to connect to a cube 
@@ -50,5 +52,5 @@ The following procedure explains how to use Microsoft Excel to create a custom r
     For more information about how to create PivotTable and PivotChart reports, see the Excel documentation. To see an example of this procedure that uses the Microsoft Dynamics AX General ledger cube, see [Walkthrough: Analyzing Cube Data in Excel](walkthrough-analyzing-cube-data-in-excel.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project assistant security role (ProjProjectClerk)
 TOCTitle: Project assistant security role (ProjProjectClerk)
 ms:assetid: 9de40aed-d38d-4d57-b5ff-10048c2e6cf5
@@ -230,5 +230,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

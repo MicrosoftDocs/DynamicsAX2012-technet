@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan business intelligence
 TOCTitle: Plan business intelligence
 ms:assetid: 51b01e4e-c9bd-4cb4-8411-578935885234
@@ -28,5 +28,5 @@ The following topics describe considerations in planning business intelligence i
 [Analytics in Microsoft Dynamics AX](analytics-in-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

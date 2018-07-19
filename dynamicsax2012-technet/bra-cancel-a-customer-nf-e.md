@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Cancel a customer NF-e
 TOCTitle: (BRA) Cancel a customer NF-e
 ms:assetid: 20338892-f57f-437f-baca-f45e202c1b93
@@ -13,6 +13,8 @@ f1_keywords:
 - cancel electronic fiscal document
 - Customer electronic fiscal document
 - Cancel NF-e
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Cancel a customer NF-e 
@@ -71,5 +73,5 @@ When you cancel a customer NF-e, the original NF-e is marked as canceled, and al
 [(BRA) Cancel customer fiscal document (form)](https://technet.microsoft.com/en-us/library/jj933503\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

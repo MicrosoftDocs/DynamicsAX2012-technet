@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create and process budget plans (EP)'
 TOCTitle: 'Key tasks: Create and process budget plans'
 ms:assetid: 7a9043d3-8c3b-4457-8dbd-1759e278eb0f
@@ -17,6 +17,8 @@ f1_keywords:
 - BudgetPlanListPageAssignedToMyOrg
 - BudgetPlanListPageActive
 - Create budget plans
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create and process budget plans (EP) 
@@ -191,5 +193,5 @@ To submit a budget plan to workflow, you must be either the preparer or a member
 Back to top
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

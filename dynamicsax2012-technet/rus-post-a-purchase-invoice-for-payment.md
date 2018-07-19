@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post a purchase invoice for payment
 TOCTitle: (RUS) Post a purchase invoice for payment
 ms:assetid: 546d7cd3-62d1-4822-b0e9-cef200427abb
@@ -10,6 +10,8 @@ f1_keywords:
 - Post
 - purchase invoice
 - (RUS)
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post a purchase invoice for payment 
@@ -60,5 +62,5 @@ Use the **Posting invoice for payment** form to post a purchase invoice for paym
 [Purchase posting (form)](https://technet.microsoft.com/en-us/library/aa587152\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Human resources roadmap
 TOCTitle: Human resources roadmap
 ms:assetid: ce45957d-546b-463b-b4f9-a8f0f5b7c454
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn783393(v=AX.60)
 ms:contentKeyID: 62838587
 ms.date: 09/10/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Human resources roadmap 
@@ -604,22 +606,5 @@ Human resources can integrate with Payroll for Microsoft Dynamics AX 2012, and t
 
 Back to top
 
-## Still didn’t find what you were looking for?
 
-Here are some related search results on WebSearchAX that might help. You can search for other topics by entering key words in the Search for Help text box at [WebSearchAX](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?orgi=parentdir%26savn=show%26bngm=bingapi).
-
-  - [Search results for “Human resources”](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=human+resources%26savn=hide%26orgi=wsc1%26bngi=t)
-
-  - [Search results for “worker”](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=worker%26savn=hide%26orgi=wsc1%26bngi=t)
-
-  - [Search results for “recruit”](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=recruit%26savn=hide%26orgi=wsc1%26bngi=t)
-
-  - [Search results for “benefits”](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=benefits%26savn=hide%26orgi=wsc1%26bngi=t)
-
-  - [Search results for “employee self-service”](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=employee+self-service%26savn=hide%26orgi=wsc1%26bngi=t)
-
-  - [Search results for “time and attendance”](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=time+and+attendance%26savn=hide%26orgi=wsc1%26bngi=t)
-
-  
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
 

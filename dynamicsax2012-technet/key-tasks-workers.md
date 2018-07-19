@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Workers'
 TOCTitle: 'Key tasks: Workers'
 ms:assetid: dd673ce0-e287-4c1b-b6cd-f7c57a144392
@@ -15,6 +15,8 @@ f1_keywords:
 - employee task
 - employee tasks
 - worker task
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Workers 
@@ -263,5 +265,5 @@ Back to top
 [Terminate employment](terminate-employment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

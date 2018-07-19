@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a subproject
 TOCTitle: Create a subproject
 ms:assetid: f037b165-6e7d-4958-a007-2250679f372a
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - subproject
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a subproject 
@@ -44,5 +46,5 @@ A subproject is created. You can now perform on the subproject all of the operat
 [Update subprojects (form)](https://technet.microsoft.com/en-us/library/aa620758\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

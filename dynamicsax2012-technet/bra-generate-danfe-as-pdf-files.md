@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Generate DANFE as PDF files
 TOCTitle: (BRA) Generate DANFE as PDF files
 ms:assetid: 382d48d6-6fcb-47fc-8494-f0c681fa3b49
@@ -17,6 +17,8 @@ f1_keywords:
 - electronic fiscal documents
 - Generate DANFE
 - MsDynAx060.Forms.FiscalDocument_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Generate DANFE as PDF files 
@@ -55,5 +57,5 @@ Use this procedure to generate the Documento Auxiliar da Nota Fiscal Eletrônica
 [(BRA) Generate emails for approved NF-e and attach DANFE PDF files and NF-e XML files to the emails](bra-generate-emails-for-approved-nf-e-and-attach-danfe-pdf-files-and-nf-e-xml-files-to-the-emails.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

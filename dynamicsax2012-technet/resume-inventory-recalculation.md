@@ -1,4 +1,4 @@
-﻿---
+---
 title: Resume inventory recalculation
 TOCTitle: Resume inventory recalculation
 ms:assetid: a8873cc5-6bf9-484e-a11a-18458ef53b95
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243066(v=AX.60)
 ms:contentKeyID: 36058888
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Resume inventory recalculation 
@@ -30,5 +32,5 @@ If inventory recalculation has been paused, it cannot be completed until you res
 [Run inventory recalculation](run-inventory-recalculation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Defining reason codes and stages for service orders
 TOCTitle: Defining reason codes and stages for service orders
 ms:assetid: f4d35770-7429-40ce-953a-06ba3a213c1e
@@ -14,6 +14,8 @@ f1_keywords:
 - stages
 - reason code
 - service order stage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Defining reason codes and stages for service orders 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to define the stages of
 [Create reason codes](create-reason-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

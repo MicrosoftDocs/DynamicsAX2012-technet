@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Examples: Posting definitions'
 TOCTitle: 'Examples: Posting definitions'
 ms:assetid: 0543bf68-6ee4-4f8e-a513-1d30b9be3108
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - examples of posting definitions
 - posting definition examples
+audience: Application User
+ms.search.region: Global
 ---
 
 # Examples: Posting definitions 
@@ -325,5 +327,5 @@ In this example, any account that is part of Account Structure - P\&L matches th
 [Transaction posting definitions (form)](https://technet.microsoft.com/en-us/library/hh242550\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post a vendor invoice for a nontaxpayer vendor
 TOCTitle: (BRA) Create and post a vendor invoice for a nontaxpayer vendor
 ms:assetid: 947dc508-f2fb-4cff-a3b6-b16a5f962e30
@@ -13,6 +13,8 @@ f1_keywords:
 - nontaxpayer
 - nontaxpayer vendor
 - post purchase invoice
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post a vendor invoice for a nontaxpayer vendor 
@@ -101,5 +103,5 @@ Use the **Vendor invoice** form to post a vendor invoice for a nontaxpayer vendo
 [(BRA) Create and post a purchase order for a foreign vendor](bra-create-and-post-a-purchase-order-for-a-foreign-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

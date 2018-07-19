@@ -1,4 +1,4 @@
-﻿---
+---
 title: View or change the status of a batch job that you created
 TOCTitle: View or change the status of a batch job that you created
 ms:assetid: c383ecf5-213f-4fbe-8e15-756115c7766e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272884(v=AX.60)
 ms:contentKeyID: 36584410
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View or change the status of a batch job that you created 
@@ -40,5 +42,5 @@ By changing the status of a batch job, you can manage the job in various ways. F
 [View or change batch job status](view-or-change-batch-job-status.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define an internal cost allocation
 TOCTitle: Define an internal cost allocation
 ms:assetid: fd3c0d2b-ea93-413d-acc5-5bdc85a0b53f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500114(v=AX.60)
 ms:contentKeyID: 36060104
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define an internal cost allocation 
@@ -54,5 +56,5 @@ To allocate costs by using the **Internal cost allocation** allocation type:
 [Define a surcharge allocation](define-a-surcharge-allocation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Integrating with Microsoft Outlook and Microsoft Exchange Server
 TOCTitle: Integrating with Microsoft Outlook and Microsoft Exchange Server
 ms:assetid: 0427b3a1-d751-440c-bd8a-2b20e31b2a17
@@ -10,6 +10,8 @@ f1_keywords:
 - office
 - outlook
 - microsoft
+audience: Application User
+ms.search.region: Global
 ---
 
 # Integrating with Microsoft Outlook and Microsoft Exchange Server 
@@ -32,5 +34,5 @@ The topics in this section provide information about how a business user can int
 [Set up system-wide synchronization options for Microsoft Outlook or Exchange Server](set-up-system-wide-synchronization-options-for-microsoft-outlook-or-exchange-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View posted transactions for a PLA register
 TOCTitle: (IND) View posted transactions for a PLA register
 ms:assetid: 0b36d29d-f6fc-425a-a5b0-0ab787ba2be0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664468(v=AX.60)
 ms:contentKeyID: 49385548
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View posted transactions for a PLA register 
@@ -60,5 +62,5 @@ View the details of the excise duty amount in the PLA details form.
 [(IND) PLA details (form)](https://technet.microsoft.com/en-us/library/jj664891\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

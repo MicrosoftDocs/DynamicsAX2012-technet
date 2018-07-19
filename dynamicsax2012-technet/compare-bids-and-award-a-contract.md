@@ -1,4 +1,4 @@
-﻿---
+---
 title: Compare bids and award a contract
 TOCTitle: Compare bids and award a contract
 ms:assetid: 5f287f09-4dc9-4a09-bef3-125665e27cbb
@@ -26,6 +26,8 @@ f1_keywords:
 - scores
 - awards
 - comparison
+audience: Application User
+ms.search.region: Global
 ---
 
 # Compare bids and award a contract 
@@ -275,5 +277,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

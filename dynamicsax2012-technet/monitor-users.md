@@ -1,4 +1,4 @@
-﻿---
+---
 title: Monitor users
 TOCTitle: Monitor users
 ms:assetid: 2d98ea0a-d3bd-42cc-a96e-6a174c3c8d1e
@@ -58,5 +58,5 @@ You can end one or more user sessions from the **Online users** form. Before you
   - The **Statistics** tab includes details about the user's session, such as the duration.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

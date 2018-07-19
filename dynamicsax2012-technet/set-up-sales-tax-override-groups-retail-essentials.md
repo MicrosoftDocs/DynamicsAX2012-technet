@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up sales tax override groups (Retail essentials)
 TOCTitle: Set up sales tax override groups (Retail essentials)
 ms:assetid: d463dee3-2671-4a8d-a839-28cf9be7903a
@@ -40,5 +40,5 @@ After you set up the sales tax override groups, you must assign the groups to th
 [Setting up retail stores (Retail essentials)](setting-up-retail-stores-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

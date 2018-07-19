@@ -1,4 +1,4 @@
-﻿---
+---
 title: Apply updates and hotfixes
 TOCTitle: Apply updates and hotfixes
 ms:assetid: 7ff68f32-bb5e-4572-a205-9fb759ebd0ba
@@ -349,5 +349,5 @@ For example, a package might be named DynamicsAX2012-KB123456- SP2.exe. The foll
 [Technical diagram posters for Microsoft Dynamics AX 2012](technical-diagram-posters-for-microsoft-dynamics-ax-2012.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

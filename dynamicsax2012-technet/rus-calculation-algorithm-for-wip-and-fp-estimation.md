@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculation algorithm for WIP and FP estimation
 TOCTitle: (RUS) Calculation algorithm for WIP and FP estimation
 ms:assetid: 7c427813-6d39-439c-bbbd-8c4edbad2580
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923548(v=AX.60)
 ms:contentKeyID: 52075397
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculation algorithm for WIP and FP estimation 
@@ -44,5 +46,5 @@ Write-offs from production, half-finished products, and finished product account
 [(RUS) Calculate and approve the WIP and FP estimate in a tax accounting register](rus-calculate-and-approve-the-wip-and-fp-estimate-in-a-tax-accounting-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

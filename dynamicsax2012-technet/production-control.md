@@ -1,4 +1,4 @@
-﻿---
+---
 title: Production control
 TOCTitle: Production control
 ms:assetid: 30324175-7d56-4845-b422-1b34a60eda7b
@@ -19,6 +19,8 @@ f1_keywords:
 - register production costs
 - production control
 - production process
+audience: Application User
+ms.search.region: Global
 ---
 
 # Production control 
@@ -119,5 +121,5 @@ Production control can be integrated with the following modules and Microsoft pr
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

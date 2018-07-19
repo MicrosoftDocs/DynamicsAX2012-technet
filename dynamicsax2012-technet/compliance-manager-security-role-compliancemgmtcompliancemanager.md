@@ -1,4 +1,4 @@
-﻿---
+---
 title: Compliance manager security role (ComplianceMgmtComplianceManager)
 TOCTitle: Compliance manager security role (ComplianceMgmtComplianceManager)
 ms:assetid: 269f7620-9ddc-4f8c-a166-19445de146e1
@@ -195,7 +195,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>View budget plans</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3.</P>
@@ -209,5 +209,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

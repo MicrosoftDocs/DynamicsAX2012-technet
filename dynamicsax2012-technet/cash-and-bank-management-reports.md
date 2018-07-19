@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cash and bank management reports
 TOCTitle: Cash and bank management reports
 ms:assetid: 5863ad1e-325b-4d24-8f9e-1450220bcf3b
@@ -64,5 +64,5 @@ The following reports are available in the **Cash and bank management** module o
 [(RUS) Cash statement report (RCashAccountStatement)](rus-cash-statement-report-rcashaccountstatement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

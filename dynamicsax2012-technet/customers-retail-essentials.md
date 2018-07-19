@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customers (Retail essentials)
 TOCTitle: Customers (Retail essentials)
 ms:assetid: cdacb8ae-5004-4a44-8811-925ac78b6b28
@@ -24,5 +24,5 @@ The topics in this section provide information about working with customer data.
 [Loyalty programs (Retail essentials)](loyalty-programs-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

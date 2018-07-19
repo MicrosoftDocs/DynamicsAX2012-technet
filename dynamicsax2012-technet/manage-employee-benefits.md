@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage employee benefits
 TOCTitle: Manage employee benefits
 ms:assetid: 3d5ace67-322e-4f44-a176-b63e1518dfcc
@@ -10,6 +10,8 @@ f1_keywords:
 - HcmEPWorkerEnrollmentCreate
 - HcmEPWorkerEnrollmentEdit
 - HcmEPWorkerEnrollmentList
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage employee benefits 
@@ -74,5 +76,5 @@ You can modify a benefit assignment if, for example, you need to provide an endi
 [Maintain your personal information](maintain-your-personal-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a partial storno transaction for a transfer order receipt using negative receipt quantity
 TOCTitle: (RUS) Create a partial storno transaction for a transfer order receipt using negative receipt quantity
 ms:assetid: a1d57b7a-1b77-48e3-a751-a9d1f893a81d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - storno
 - receipt order
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a partial storno transaction for a transfer order receipt using negative receipt quantity 
@@ -83,5 +85,5 @@ You can create a partial storno transaction by specifying part of the received q
 [Inquiry (form)](https://technet.microsoft.com/en-us/library/aa575929\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update a customer TMA group
 TOCTitle: Update a customer TMA group
 ms:assetid: 7aa8b732-f4f1-4b0e-96c6-41810567868b
@@ -10,6 +10,8 @@ f1_keywords:
 - customer TMA group
 - customer Trade and Merchandising group
 - update customer TMA group
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update a customer TMA group 
@@ -38,5 +40,5 @@ Use this procedure to update the description for a customer Trade and Merchandis
 [Customer TMA groups (form)](https://technet.microsoft.com/en-us/library/hh328723\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

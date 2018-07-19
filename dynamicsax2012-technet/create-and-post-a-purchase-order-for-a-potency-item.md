@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and post a purchase order for a potency item
 TOCTitle: Create and post a purchase order for a potency item
 ms:assetid: 0e57e6c4-0bff-46e4-b0e8-957c37a568e6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838721(v=AX.60)
 ms:contentKeyID: 50120604
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and post a purchase order for a potency item 
@@ -48,5 +50,5 @@ Use the information in this topic to create, process, and post a purchase order 
 [Attribute-based pricing data (form)](https://technet.microsoft.com/en-us/library/jj838766\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

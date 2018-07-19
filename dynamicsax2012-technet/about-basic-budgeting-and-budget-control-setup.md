@@ -1,4 +1,4 @@
-﻿---
+---
 title: About basic budgeting and budget control setup
 TOCTitle: About basic budgeting and budget control setup
 ms:assetid: ae172470-3248-4564-9cfa-a4bac0726af0
@@ -15,6 +15,8 @@ f1_keywords:
 - set up budget control
 - concepts about budgets
 - set up basic budgeting
+audience: Application User
+ms.search.region: Global
 ---
 
 # About basic budgeting and budget control setup 
@@ -73,5 +75,5 @@ For revenue amounts, budget register entries that have an amount type of **Reven
 [About basic budgeting](about-basic-budgeting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

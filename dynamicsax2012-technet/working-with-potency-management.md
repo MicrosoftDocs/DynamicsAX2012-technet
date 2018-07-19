@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with potency management
 TOCTitle: Working with potency management
 ms:assetid: 4bb865bc-8d99-4b0d-94e0-00d6fa1a87f8
@@ -13,6 +13,8 @@ f1_keywords:
 - ingredient
 - potence
 - ingredients
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with potency management 
@@ -29,5 +31,5 @@ The topics in this section provide information about how to work with potency ma
 [Create price calculations for sales order items that have a potency](create-price-calculations-for-sales-order-items-that-have-a-potency.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and update facture for a corrected sales order invoice or sales credit note
 TOCTitle: (RUS) Create and update facture for a corrected sales order invoice or sales credit note
 ms:assetid: 3e0a6604-c400-4480-bff6-e27e9e923592
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665309(v=AX.60)
 ms:contentKeyID: 49387398
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and update facture for a corrected sales order invoice or sales credit note 
@@ -88,5 +90,5 @@ In some cases, you must use corrective credit notes and invoices to clarify VAT 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

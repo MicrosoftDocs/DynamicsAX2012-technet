@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Working with Accounts receivable
 TOCTitle: (LVA) Working with Accounts receivable
 ms:assetid: 5dfcbe9c-b932-46be-9c07-4177b22683ac
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731026(v=AX.60)
 ms:contentKeyID: 49675265
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Working with Accounts receivable 
@@ -18,5 +20,5 @@ This section provides information about working with the Accounts receivable bus
 [(LVA) Collect for product or service overview](lva-collect-for-product-or-service-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

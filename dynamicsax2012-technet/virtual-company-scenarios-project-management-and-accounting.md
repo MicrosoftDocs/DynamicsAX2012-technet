@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Virtual company scenarios: Project management and accounting'
 TOCTitle: 'Virtual company scenarios: Project management and accounting'
 ms:assetid: 18066ccc-9266-4b1a-b980-93e413690648
@@ -130,5 +130,5 @@ Include the following tables in a table collection to support sharing customer r
   - PSACustomerRetentionTermsLine
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

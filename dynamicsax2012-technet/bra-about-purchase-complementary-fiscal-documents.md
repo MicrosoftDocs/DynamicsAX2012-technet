@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About purchase complementary fiscal documents
 TOCTitle: (BRA) About purchase complementary fiscal documents
 ms:assetid: 3d439f7e-9240-4521-a873-4ce029e1a67f
@@ -13,6 +13,8 @@ f1_keywords:
 - about complementary invoices
 - Complementary invoices
 - BR - 00004
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About purchase complementary fiscal documents 
@@ -41,5 +43,5 @@ The tax groups that you select for the purchase complementary fiscal document mu
 [(BRA) Create and post a purchase complementary fiscal document](bra-create-and-post-a-purchase-complementary-fiscal-document.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

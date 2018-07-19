@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Data upgrade checklist: Tasks'
 TOCTitle: 'Data upgrade checklist: Tasks'
 ms:assetid: 734ca204-a452-4f76-8126-c0e7e2bba3a2
@@ -149,5 +149,5 @@ Complete the checklist tasks listed below. Task names link to help explaining th
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

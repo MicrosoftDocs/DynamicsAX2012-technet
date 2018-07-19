@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Set up for cash management for Retail POS
 TOCTitle: (EEUR) Set up for cash management for Retail POS
 ms:assetid: 10e957e0-f871-41a6-8fba-7af82072a117
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.RetailTenderTypeTable
 - RU - 00005
 - RU – 00037
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Set up for cash management for Retail POS 
@@ -32,5 +34,5 @@ You must complete the following setup procedure before you use cash management i
   - [(EEUR) Set up a payment method for cash payments in a retail store](eeur-set-up-a-payment-method-for-cash-payments-in-a-retail-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

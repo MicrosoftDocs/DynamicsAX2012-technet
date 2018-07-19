@@ -1,4 +1,4 @@
-﻿---
+---
 title: Combine planned orders
 TOCTitle: Combine planned orders
 ms:assetid: 2310353a-5f2b-4ae1-b146-723d2eb41096
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - grouping planned orders
 - planned orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Combine planned orders 
@@ -31,5 +33,5 @@ To combine planned orders, use the following procedure:
 [Planned orders (form)](https://technet.microsoft.com/en-us/library/aa620351\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

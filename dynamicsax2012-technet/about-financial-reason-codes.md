@@ -1,4 +1,4 @@
-﻿---
+---
 title: About financial reason codes
 TOCTitle: About financial reason codes
 ms:assetid: 750939e7-3e09-4f55-8d61-31605e5cad28
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212968(v=AX.60)
 ms:contentKeyID: 36058161
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About financial reason codes 
@@ -54,5 +56,5 @@ Both financial reason codes and return reason codes are used in Accounts receiva
 [Set up reason codes for financial modules](set-up-reason-codes-for-financial-modules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

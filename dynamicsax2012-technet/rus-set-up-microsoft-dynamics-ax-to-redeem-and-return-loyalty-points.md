@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up Microsoft Dynamics AX to redeem and return loyalty points
 TOCTitle: (RUS) Set up Microsoft Dynamics AX to redeem and return loyalty points
 ms:assetid: 5095aa35-ea1f-4ff8-ae22-976b2439398a
@@ -20,6 +20,8 @@ f1_keywords:
 - return loyalty points
 - return loyalty point
 - set up loyalty
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up Microsoft Dynamics AX to redeem and return loyalty points 
@@ -212,5 +214,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

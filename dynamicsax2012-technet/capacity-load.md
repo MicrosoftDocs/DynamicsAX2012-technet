@@ -1,4 +1,4 @@
-﻿---
+---
 title: " capacity load"
 TOCTitle: " capacity load"
 ms:assetid: DynamicsAXGlossary.232491
@@ -23,5 +23,5 @@ The maximum amount of scheduled work that a work center can perform at a require
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

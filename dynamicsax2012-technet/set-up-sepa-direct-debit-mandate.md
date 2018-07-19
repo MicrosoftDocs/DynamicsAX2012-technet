@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up SEPA direct debit mandate
 TOCTitle: Set up SEPA direct debit mandate
 ms:assetid: 93f488e1-fbe9-44d2-9d4a-f0db94576f24
@@ -14,6 +14,8 @@ f1_keywords:
 - SEPA
 - Forms.NumberSequenceTableListPage
 - mandate
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up SEPA direct debit mandate 
@@ -197,5 +199,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [SEPA direct debit overview](sepa-direct-debit-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

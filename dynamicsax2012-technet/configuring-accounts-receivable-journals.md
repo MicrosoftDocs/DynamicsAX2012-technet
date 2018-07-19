@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring Accounts receivable journals
 TOCTitle: Configuring Accounts receivable journals
 ms:assetid: 8fe0a53a-ce5b-4b05-be46-e2e5f9a6b726
@@ -11,6 +11,8 @@ f1_keywords:
 - receivable
 - journal
 - journals
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring Accounts receivable journals 
@@ -25,5 +27,5 @@ The following topics provide information about configuring Accounts receivable j
 [Set up Accounts receivable workflows](set-up-accounts-receivable-workflows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

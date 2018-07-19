@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Verify tax amounts for an incentive scheme by using a bill of entry journal
 TOCTitle: (IND) Verify tax amounts for an incentive scheme by using a bill of entry journal
 ms:assetid: 02c450a4-a502-453b-b22a-23cfa7e62d25
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664437(v=AX.60)
 ms:contentKeyID: 49385526
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Verify tax amounts for an incentive scheme by using a bill of entry journal 
@@ -44,5 +46,5 @@ Use the **Tax transactions** form to view the total amount of sales tax, incenti
 [(IND) Tax transactions (form)](https://technet.microsoft.com/en-us/library/jj710906\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

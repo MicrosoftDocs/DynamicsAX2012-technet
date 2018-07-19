@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reset shelf advice dates for an inventory batch
 TOCTitle: Reset shelf advice dates for an inventory batch
 ms:assetid: 9c173694-930c-498e-87fc-409505d87f10
@@ -10,6 +10,8 @@ f1_keywords:
 - reset shelf advice date for single batch
 - shelf advice date
 - update shelf advice date for multiple batches
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reset shelf advice dates for an inventory batch 
@@ -52,5 +54,5 @@ Use this procedure to reset the shelf advice date for a single inventory batch o
 [Shelf advice (form)](https://technet.microsoft.com/en-us/library/hh227613\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

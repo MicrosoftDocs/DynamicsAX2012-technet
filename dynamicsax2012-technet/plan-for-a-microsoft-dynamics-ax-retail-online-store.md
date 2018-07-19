@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan for a Microsoft Dynamics AX Retail online store
 TOCTitle: Plan for an online store
 ms:assetid: a818dc91-2736-44ca-b2d0-87ed9f3887ed
@@ -24,5 +24,5 @@ The Microsoft Dynamics AX Retail online store is built on the cross-site publish
 [Install a Retail online store (e-commerce)](install-a-retail-online-store-e-commerce.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enter parameters for Retail Scheduler
 TOCTitle: Enter parameters for Retail Scheduler
 ms:assetid: bfe69872-8fb9-41d9-8f61-d206055dbd87
@@ -75,5 +75,5 @@ If you are using AX 2012 R2 or AX 2012 Feature Pack, use the following procedure
 5.  Click **Close** to close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

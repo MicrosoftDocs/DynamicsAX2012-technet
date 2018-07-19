@@ -1,4 +1,4 @@
-﻿---
+---
 title: Spend by procurement category and vendor diversity classification report (VendSpendCategoryDiversity)
 TOCTitle: Spend by procurement category and vendor diversity classification report (VendSpendCategoryDiversity)
 ms:assetid: b48f29eb-a89f-4462-a2d6-f80ae3b6a05b
@@ -124,5 +124,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

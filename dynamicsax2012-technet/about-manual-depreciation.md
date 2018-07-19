@@ -1,4 +1,4 @@
-﻿---
+---
 title: About manual depreciation
 TOCTitle: About manual depreciation
 ms:assetid: 85b49db4-230f-4499-942e-ee5a9f81ec32
@@ -10,6 +10,8 @@ f1_keywords:
 - depreciation
 - depreciation methods
 - manual depreciation
+audience: Application User
+ms.search.region: Global
 ---
 
 # About manual depreciation 
@@ -167,5 +169,5 @@ The total of percentages for all intervals does not have to be 100. However, a m
 [Enter a one-time depreciation transaction](enter-a-one-time-depreciation-transaction.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

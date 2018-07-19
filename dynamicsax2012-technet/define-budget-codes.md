@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define budget codes
 TOCTitle: Define budget codes
 ms:assetid: 4f678f47-bb30-48d9-8aec-c849ea460354
@@ -10,6 +10,8 @@ f1_keywords:
 - budget codes
 - budget codes and workflows
 - workflows and budget codes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define budget codes 
@@ -32,5 +34,5 @@ Use the **Budget codes** form to set up budget codes for budget register entries
 6.  Optional: Select a workflow. If a workflow is selected, every budget register entry that uses this code is submitted to workflow. For more information, see [Set up Budgeting workflows](set-up-budgeting-workflows.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

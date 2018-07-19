@@ -1,4 +1,4 @@
-﻿---
+---
 title: Logistics manager security role (TMSLogisticsManager)
 TOCTitle: Logistics manager security role (TMSLogisticsManager)
 ms:assetid: e5db6fff-305a-4e07-97e0-e3c6e3457843
@@ -103,5 +103,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

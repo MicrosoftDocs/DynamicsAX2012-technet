@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up inventory profiles
 TOCTitle: (RUS) Setting up inventory profiles
 ms:assetid: a4515263-0c70-4458-ae2b-92c18f0aa35e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678565(v=AX.60)
 ms:contentKeyID: 49387793
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up inventory profiles 
@@ -42,5 +44,5 @@ The topics in this section provide information about how to set up inventory pro
 [(RUS) Set up a charges structure for inventory settlements](rus-set-up-a-charges-structure-for-inventory-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

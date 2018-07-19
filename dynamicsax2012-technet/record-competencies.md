@@ -1,4 +1,4 @@
-﻿---
+---
 title: Record competencies
 TOCTitle: Record competencies
 ms:assetid: 4ac9e6aa-214e-488e-8da5-41b23657a334
@@ -15,6 +15,8 @@ f1_keywords:
 - Employee education
 - skills
 - employee competencies
+audience: Application User
+ms.search.region: Global
 ---
 
 # Record competencies 
@@ -71,5 +73,5 @@ You can track competency information for workers, applicants, and contact person
 [Contact interests (form)](https://technet.microsoft.com/en-us/library/aa554489\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

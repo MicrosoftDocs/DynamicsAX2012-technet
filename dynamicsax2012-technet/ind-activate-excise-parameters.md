@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Activate excise parameters
 TOCTitle: (IND) Activate excise parameters
 ms:assetid: 7d497967-3af1-4c99-a84c-b20110b3cd4d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677968(v=AX.60)
 ms:contentKeyID: 49385931
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Activate excise parameters 
@@ -36,5 +38,5 @@ You must select the **Excise** check box to activate the excise tax feature and 
 [(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

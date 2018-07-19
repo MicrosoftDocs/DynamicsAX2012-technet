@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up global address book translations
 TOCTitle: Set up global address book translations
 ms:assetid: d6dbb900-16ac-4db6-a352-ab3c3e23be93
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227351(v=AX.60)
 ms:contentKeyID: 36059538
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up global address book translations 
@@ -39,5 +41,5 @@ The procedure in this topic explains how to enter translations for country/regio
 4.  Repeat steps 2 and 3 for the **Address and contact information purpose** and **Name sequence** areas in the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

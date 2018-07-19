@@ -1,4 +1,4 @@
-﻿---
+---
 title: Remove outliers from historical transaction data when calculating a demand forecast
 TOCTitle: Remove outliers from historical transaction data when calculating a demand forecast
 ms:assetid: 78156831-8a36-4421-8b7c-be1de68e8e10
@@ -15,6 +15,8 @@ f1_keywords:
 - demand forecasting
 - demand forecasts, sales forecast, sales forecasts, forecast accuracy
 - Forms.ReqDemPlanOutlierQueryPreview
+audience: Application User
+ms.search.region: Global
 ---
 
 # Remove outliers from historical transaction data when calculating a demand forecast 
@@ -123,5 +125,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Business process: demand forecasting](business-process-demand-forecasting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

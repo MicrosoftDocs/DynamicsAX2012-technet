@@ -1,4 +1,4 @@
-﻿---
+---
 title: About validation rules
 TOCTitle: About validation rules
 ms:assetid: 21d970b3-45a7-4344-a645-8b3f86cab08b
@@ -10,6 +10,8 @@ f1_keywords:
 - product builder
 - validation rule
 - validation rules
+audience: Application User
+ms.search.region: Global
 ---
 
 # About validation rules 
@@ -57,5 +59,5 @@ This section provides information about global and local validation rules, their
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

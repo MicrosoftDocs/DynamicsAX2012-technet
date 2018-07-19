@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a retail hierarchy (Retail essentials)
 TOCTitle: Set up a retail hierarchy (Retail essentials)
 ms:assetid: 3960030d-6a17-463f-bd67-2ba139e79fce
@@ -179,5 +179,5 @@ If you change a category in a navigation category hierarchy that is assigned to 
 [Set up an online store](set-up-an-online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Garnishment and tax levy setup tasks
 TOCTitle: Garnishment and tax levy setup tasks
 ms:assetid: 19e1f07f-79fa-469e-83b7-179479282a55
@@ -20,6 +20,8 @@ f1_keywords:
 - garnishments
 - tax levies
 - wage garnishment
+audience: Application User
+ms.search.region: USA
 ---
 
 # Garnishment and tax levy setup tasks 
@@ -458,5 +460,5 @@ Back to top
 [Worker and position payroll tasks](worker-and-position-payroll-tasks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

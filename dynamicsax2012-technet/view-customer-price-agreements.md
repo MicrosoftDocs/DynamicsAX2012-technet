@@ -1,4 +1,4 @@
-﻿---
+---
 title: View customer price agreements
 TOCTitle: View customer price agreements
 ms:assetid: 719d46ab-569b-4568-bc7b-236e465218c0
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPPriceDiscTableListSales
+audience: Application User
+ms.search.region: Global
 ---
 
 # View customer price agreements 
@@ -40,5 +42,5 @@ Use the **Price agreements** pages to view a list of prices and discounts that a
 [Perform a price query](perform-a-price-query.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

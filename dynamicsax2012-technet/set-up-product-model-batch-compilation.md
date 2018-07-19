@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up product model batch compilation
 TOCTitle: Set up product model batch compilation
 ms:assetid: ee73949c-c91d-4642-b565-9a88fd078463
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551547(v=AX.60)
 ms:contentKeyID: 36059909
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up product model batch compilation 
@@ -30,5 +32,5 @@ Every time that you change something in a product model, it must be compiled. Th
 [Compile product model (class form)](https://technet.microsoft.com/en-us/library/aa499750\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

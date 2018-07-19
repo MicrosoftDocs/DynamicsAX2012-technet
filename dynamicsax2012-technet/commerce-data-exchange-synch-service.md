@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Commerce Data Exchange: Synch Service'
 TOCTitle: 'Commerce Data Exchange: Synch Service'
 ms:assetid: 4828043f-2f9f-4d72-92a3-bee83388d0d9
@@ -68,5 +68,5 @@ The following table lists the components that comprise Synch Service.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

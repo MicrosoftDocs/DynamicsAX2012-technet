@@ -1,4 +1,4 @@
-﻿---
+---
 title: View purchase or sales release order lines
 TOCTitle: View purchase or sales release order lines
 ms:assetid: c103a7ba-8b7b-4673-a935-93a00e90681d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550674(v=AX.60)
 ms:contentKeyID: 42517337
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View purchase or sales release order lines 
@@ -64,5 +66,5 @@ You can choose to view either all purchase or sales release order lines for a pu
 [Create a purchase release order](create-a-purchase-release-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

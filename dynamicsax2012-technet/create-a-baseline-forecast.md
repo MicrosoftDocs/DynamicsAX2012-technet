@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a baseline forecast
 TOCTitle: Create a baseline forecast
 ms:assetid: a5f3a790-6f2f-4a18-9711-61a262392fd8
@@ -10,6 +10,8 @@ f1_keywords:
 - demand forecasting, demand forecast, demand forecasts, sales forecast, sales forecasts, forecasting setup, baseline forecast, historical forecast, adjusted forecast
 - Forms.ReqDemPlanCreateForecastDialog
 - demand planning
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a baseline forecast 
@@ -138,5 +140,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Analytics in Microsoft Dynamics AX](analytics-in-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up print management for a transaction
 TOCTitle: Set up print management for a transaction
 ms:assetid: be2d99da-4bc0-4f29-ab7c-e1e05d8ccfd4
@@ -17,6 +17,8 @@ f1_keywords:
 - orders
 - printer
 - printers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up print management for a transaction 
@@ -135,5 +137,5 @@ If you will be emailing the documents to a group of email addresses that have th
 [About print management originals, copies, and settings](about-print-management-originals-copies-and-settings.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

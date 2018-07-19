@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run an estimation
 TOCTitle: Run an estimation
 ms:assetid: 181f2ffb-aa08-4244-b400-8724c7a75125
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569905(v=AX.60)
 ms:contentKeyID: 36056093
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Run an estimation 
@@ -84,5 +86,5 @@ This step includes the price calculation of the production, its subproductions, 
 [About production order status](about-production-order-status.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About designing questionnaires
 TOCTitle: About designing questionnaires
 ms:assetid: 017ffdd4-2435-4d24-8afa-450e02c48ed3
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - questionnaires
 - questionnaire
+audience: Application User
+ms.search.region: Global
 ---
 
 # About designing questionnaires 
@@ -74,5 +76,5 @@ The design phase of the questionnaire process in Microsoft Dynamics AX has four 
 [Setting up questionnaires](setting-up-questionnaires.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

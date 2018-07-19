@@ -1,4 +1,4 @@
-﻿---
+---
 title: View vendor accounts
 TOCTitle: View vendor accounts
 ms:assetid: e086d203-9d44-4cdd-8bf2-a74d519c3dce
@@ -11,6 +11,8 @@ f1_keywords:
 - EPVendTableEdit
 - EPVendTableInfo
 - EPVendTableList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View vendor accounts 
@@ -37,5 +39,5 @@ In Enterprise Portal for Microsoft Dynamics AX, you can view a list of the vendo
 [Create or modify a vendor account](create-or-modify-a-vendor-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

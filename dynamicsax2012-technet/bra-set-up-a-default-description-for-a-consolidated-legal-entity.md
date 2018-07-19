@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up a default description for a consolidated legal entity
 TOCTitle: (BRA) Set up a default description for a consolidated legal entity
 ms:assetid: 1207e71e-5512-40c4-a205-dd402b11d59d
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - consolidated company account
 - default description
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up a default description for a consolidated legal entity 
@@ -38,5 +40,5 @@ When you consolidate transactions and you have selected the **Transfer transacti
 [(BRA) Setting up standard text in accounting transactions](bra-setting-up-standard-text-in-accounting-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

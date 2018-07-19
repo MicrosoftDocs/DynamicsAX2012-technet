@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Accounts receivable (Public sector)
 TOCTitle: Setting up and maintaining Accounts receivable (Public sector)
 ms:assetid: fb8c5d13-02da-4984-9090-f26f3d9d147b
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - public sector
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Setting up and maintaining Accounts receivable (Public sector) 
@@ -67,5 +69,5 @@ For more information about setup and maintenance tasks, see the System and Appli
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

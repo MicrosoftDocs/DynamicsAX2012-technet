@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure personnel actions
 TOCTitle: Configure personnel actions
 ms:assetid: 5722ce62-09ce-48e6-8100-5eaba0aeb9d1
@@ -22,6 +22,8 @@ f1_keywords:
 - MsDynAx060.Forms.HcmActionTypeSetup
 - personnel action
 - raises
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure personnel actions 
@@ -102,7 +104,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p>Release</p></td>
 <td><p>Enable the <strong>Personnel actions</strong> configuration key in your live environment, and then close and reopen Microsoft Dynamics AX so that you can access the personnel action forms to set up personnel actions. For more information, see <a href="personnel-actions-configuration-key-hcmpersonnelactions.md">Personnel actions configuration key (HcmPersonnelActions)</a>.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!WARNING]
 > <P>We highly recommend that you make this configuration change during a time of low usage to minimize the impact on your users. If you enable this configuration key but you don’t create personnel action types, users won’t be able to create new positions, edit existing positions, hire new workers, transfer workers, change position assignments, or terminate workers.</P>
@@ -383,5 +385,5 @@ If you don't have access to the pages that are used to complete this task, conta
 Set up Human resources workflows
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

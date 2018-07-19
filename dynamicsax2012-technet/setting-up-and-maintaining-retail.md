@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Retail
 TOCTitle: Setting up and maintaining Retail
 ms:assetid: a97494f9-3acc-444c-9311-b33fefe7ed9a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - setup
 - retail
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Retail 
@@ -59,5 +61,5 @@ The topics in this section provide information about how to set up and maintain 
 [Setting up email receipts](setting-up-email-receipts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

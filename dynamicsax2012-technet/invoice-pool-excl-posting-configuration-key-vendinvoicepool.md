@@ -1,4 +1,4 @@
-﻿---
+---
 title: Invoice pool excl. posting configuration key (VendInvoicePool)
 TOCTitle: Invoice pool excl. posting configuration key (VendInvoicePool)
 ms:assetid: da9635f8-76fa-45fd-b8bd-2d8161779f92
@@ -84,5 +84,5 @@ For more information about how license codes and configuration keys work togethe
 [Invoice register and invoice approval journal configuration key (VendInvoiceRegisterApproval)](invoice-register-and-invoice-approval-journal-configuration-key-vendinvoiceregisterapproval.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

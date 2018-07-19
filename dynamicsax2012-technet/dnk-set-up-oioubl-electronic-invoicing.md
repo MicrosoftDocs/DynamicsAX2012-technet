@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Set up OIOUBL electronic invoicing
 TOCTitle: (DNK) Set up OIOUBL electronic invoicing
 ms:assetid: ea462138-3c01-4110-a148-13431a182328
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227478(v=AX.60)
 ms:contentKeyID: 36059848
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Set up OIOUBL electronic invoicing 
@@ -30,5 +32,5 @@ The following topics provide information about setting up electronic invoicing t
 [(DNK) Set up recurring batch jobs](dnk-set-up-recurring-batch-jobs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

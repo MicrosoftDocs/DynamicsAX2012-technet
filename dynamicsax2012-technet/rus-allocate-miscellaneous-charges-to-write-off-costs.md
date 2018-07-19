@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Allocate miscellaneous charges to write off costs
 TOCTitle: (RUS) Allocate miscellaneous charges to write off costs
 ms:assetid: fe874a8b-2233-407d-b90d-ea0b83a5307c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839698(v=AX.60)
 ms:contentKeyID: 50396844
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Allocate miscellaneous charges to write off costs 
@@ -44,5 +46,5 @@ Use this procedure to allocate miscellaneous charges to write-off costs by using
 [(RUS) Allocate miscellaneous charges to redraw debt to third parties](rus-allocate-miscellaneous-charges-to-redraw-debt-to-third-parties.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

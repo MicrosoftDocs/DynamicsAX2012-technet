@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure an AOS instance to print
 TOCTitle: Configure an AOS instance to print
 ms:assetid: f19b21a4-6299-48e2-9d1d-938bd0411d07
@@ -44,5 +44,5 @@ By default, users cannot print documents or reports from a printer connected to 
 [Configure an AOS instance as a batch server](configure-an-aos-instance-as-a-batch-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

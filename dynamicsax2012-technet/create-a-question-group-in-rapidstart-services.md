@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a question group in RapidStart Services
 TOCTitle: Create a question group in RapidStart Services
 ms:assetid: 965bbf80-842a-4e7b-b3aa-d427f1e655f1
@@ -63,5 +63,5 @@ After you create a question group, you can add questions to it. For information 
 [Unpublish a functional area in RapidStart Services](unpublish-a-functional-area-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

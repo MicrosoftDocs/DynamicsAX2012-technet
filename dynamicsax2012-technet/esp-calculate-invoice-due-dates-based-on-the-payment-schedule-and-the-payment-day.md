@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Calculate invoice due dates based on the payment schedule and the payment day
 TOCTitle: (ESP) Calculate invoice due dates based on the payment schedule and the payment day
 ms:assetid: 4c1163d8-2c22-4980-a10d-191ad08e932b
@@ -14,6 +14,8 @@ f1_keywords:
 - MsDynAx060.Forms.PaymSched
 - MsDynAx060.Forms.PaymDay
 - MsDynAx060.Forms.PaymDueDateLimits_ES
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Calculate invoice due dates based on the payment schedule and the payment day 
@@ -34,5 +36,5 @@ You can specify the number of days in the grace period, within which an invoice 
 You must specify a payment due date that comes before the due date limit for an invoice. You can set the payment schedule and the payment day for an invoice and manually calculate the invoice due date. If the date comes after the due date limit that is set in the **Due date limits** form, then you must correct the due date.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

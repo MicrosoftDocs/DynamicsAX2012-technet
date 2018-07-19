@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create legal entities
 TOCTitle: Create legal entities
 ms:assetid: 0df757d6-7f5d-4347-bbbf-a646ad26ff3b
@@ -36,5 +36,5 @@ Create the legal entities that represent the legal structure of your business. I
 [Create or modify an organization hierarchy](create-or-modify-an-organization-hierarchy.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shared Financial Data Management for Microsoft Dynamics AX 2012 R2 (White Paper)
 TOCTitle: Shared Financial Data Management for Microsoft Dynamics AX 2012 R2
 ms:assetid: 672da62b-824c-4199-ac91-01c052ade464
@@ -18,5 +18,5 @@ This white paper provides conceptual information so that you can plan the chart 
 [Download the paper](http://www.microsoft.com/en-us/download/details.aspx?id=35832)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

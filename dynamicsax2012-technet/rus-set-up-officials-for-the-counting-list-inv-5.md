@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up officials for the counting list (INV-5)
 TOCTitle: (RUS) Set up officials for the counting list (INV-5)
 ms:assetid: 0791032a-2d19-4597-9f42-ddbd44ce67bb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733178(v=AX.60)
 ms:contentKeyID: 49685146
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up officials for the counting list (INV-5) 
@@ -36,5 +38,5 @@ Use the **Officials** form to set up officials that are involved with the item c
 6.  In the **Job title** field, select the alias for the job title of the official.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

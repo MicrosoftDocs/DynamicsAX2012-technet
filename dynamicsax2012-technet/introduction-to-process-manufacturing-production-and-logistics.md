@@ -1,4 +1,4 @@
-﻿---
+---
 title: Introduction to Process manufacturing production and logistics
 TOCTitle: Introduction to Process manufacturing production and logistics
 ms:assetid: 036fc3d3-f728-4ae4-82b7-f77adfe796d9
@@ -22,6 +22,8 @@ f1_keywords:
 - rebate management
 - co-product and by-product
 - process industries
+audience: Application User
+ms.search.region: Global
 ---
 
 # Introduction to Process manufacturing production and logistics 
@@ -178,5 +180,5 @@ The following table describes various types of common tasks available in Process
 [About lot inheritance](about-lot-inheritance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

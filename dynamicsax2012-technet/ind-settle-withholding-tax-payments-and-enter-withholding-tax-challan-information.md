@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Settle withholding tax payments and enter withholding tax challan information
 TOCTitle: (IND) Settle withholding tax payments and enter withholding tax challan information
 ms:assetid: b6e8a9dd-c69e-43ea-b1fb-890193a12acf
@@ -13,6 +13,8 @@ f1_keywords:
 - Settle TDS payments
 - TDS challan
 - TDS payments
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Settle withholding tax payments and enter withholding tax challan information 
@@ -131,5 +133,5 @@ Before you can generate quarterly statements for TDS and TCS, you must enter cha
 [(IND) Challan information (form)](https://technet.microsoft.com/en-us/library/jj677847\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

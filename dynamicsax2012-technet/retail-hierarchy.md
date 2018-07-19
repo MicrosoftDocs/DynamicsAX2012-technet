@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail hierarchy
 TOCTitle: Retail hierarchy
 ms:assetid: 1f46c7fa-f314-423d-a347-615375a050d9
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - retail hierarchies
 - retail hierarchy
+audience: Application User
+ms.search.region: Global
 ---
 
 # Retail hierarchy 
@@ -23,5 +25,5 @@ The topics in this section provide information about how to set up a category hi
 [Set up a retail hierarchy](set-up-a-retail-hierarchy.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

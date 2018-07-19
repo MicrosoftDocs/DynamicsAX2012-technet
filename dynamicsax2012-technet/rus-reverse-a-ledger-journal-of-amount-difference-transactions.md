@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Reverse a ledger journal of amount difference transactions
 TOCTitle: (RUS) Reverse a ledger journal of amount difference transactions
 ms:assetid: ee00a188-a56a-4cec-9e1e-adc8e505f78a
@@ -10,6 +10,8 @@ f1_keywords:
 - ledger journal
 - reverse a ledger journal
 - amount difference
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Reverse a ledger journal of amount difference transactions 
@@ -38,5 +40,5 @@ Use the **Journals** form to reverse a ledger journal of amount difference trans
 [(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

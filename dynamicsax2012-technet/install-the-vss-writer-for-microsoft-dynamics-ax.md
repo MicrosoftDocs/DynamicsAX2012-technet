@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the VSS writer for Microsoft Dynamics AX
 TOCTitle: Install the VSS writer for Microsoft Dynamics AX
 ms:assetid: cac0e744-8a85-48a9-9499-4e0fa66b0e27
@@ -125,5 +125,5 @@ The following topics describe the next steps:
   - [Recover a Microsoft Dynamics AX 2012 R2 environment with System Center 2012 Data Protection Manager](recover-a-microsoft-dynamics-ax-2012-r2-environment-with-system-center-2012-data-protection-manager.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

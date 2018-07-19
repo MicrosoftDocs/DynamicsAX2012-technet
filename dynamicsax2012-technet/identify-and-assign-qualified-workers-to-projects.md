@@ -1,4 +1,4 @@
-﻿---
+---
 title: Identify and assign qualified workers to projects
 TOCTitle: Identify and assign qualified workers to projects
 ms:assetid: 3c42ed1d-14d4-4129-b6b8-feb2c384f43e
@@ -13,6 +13,8 @@ f1_keywords:
 - assign workers
 - schedule resources
 - schedule workers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Identify and assign qualified workers to projects 
@@ -52,5 +54,5 @@ The topics in this section describe how to use the resource scheduling tools in 
 [Assign workers to tasks manually in a work breakdown structure in AX 2012 R3](assign-workers-to-tasks-manually-in-a-work-breakdown-structure-in-ax-2012-r3.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

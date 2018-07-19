@@ -1,4 +1,4 @@
-﻿---
+---
 title: About migrating project data from other ERP systems
 TOCTitle: About migrating project data from other ERP systems
 ms:assetid: 253c025d-7c4d-4351-9b02-d207eb068244
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - fixed-price
 - migrate project
+audience: Application User
+ms.search.region: Global
 ---
 
 # About migrating project data from other ERP systems 
@@ -107,7 +109,7 @@ Additionally, the events that are described in the following table can occur, de
 <td><ul>
 <li><p>In addition to the beginning balance journal that is posted, an additional set of entries is recorded for transactions as of the migration date.</p></li>
 <li><p>Two beginning balance estimates are posted. One estimate is posted for the end of the previous fiscal year, and the other is posted for transactions occurring after the end of the year and up to the migration date. Both estimates are for WIP only.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>The two beginning balance estimates do not affect the General ledger, either at the end of the previous fiscal year or on the migration date.</P>
@@ -197,7 +199,7 @@ The following table describes the rules for posting costs in beginning balance j
 <p>–or–</p>
 <p>Completed contract</p></td>
 <td><p>The transaction type is <strong>Hour</strong>, and the cost status for hours in the Project group ledger setting is <strong>Never ledger</strong>.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If the status is <STRONG>Never ledger</STRONG>, costs are posted only to the project's subledger, not to the General ledger.</P>
@@ -252,5 +254,5 @@ The following topics provide information about migrating project data from other
 [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

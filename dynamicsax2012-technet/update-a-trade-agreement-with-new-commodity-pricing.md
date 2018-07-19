@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update a trade agreement with new commodity pricing
 TOCTitle: Update a trade agreement with new commodity pricing
 ms:assetid: 1f76d8db-5177-4121-907d-0438e42dfc53
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208465(v=AX.60)
 ms:contentKeyID: 36056153
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update a trade agreement with new commodity pricing 
@@ -52,5 +54,5 @@ Use this procedure to update pricing information for commodity pricing items tha
 [Price margin update-lines (form)](https://technet.microsoft.com/en-us/library/hh242671\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

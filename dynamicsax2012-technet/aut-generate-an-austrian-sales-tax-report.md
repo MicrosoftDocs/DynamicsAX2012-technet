@@ -1,4 +1,4 @@
-﻿---
+---
 title: (AUT) Generate an Austrian sales tax report
 TOCTitle: (AUT) Generate an Austrian sales tax report
 ms:assetid: 73337299-b912-4fbb-b579-64aa943985bb
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Austria
 - sales tax
+audience: Application User
+ms.search.region: Austria
 ---
 
 # (AUT) Generate an Austrian sales tax report 
@@ -67,5 +69,5 @@ You can generate the Austrian annual sales tax report as a .pdf file for all sal
 [(AUT) Create sales tax reporting codes](aut-create-sales-tax-reporting-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

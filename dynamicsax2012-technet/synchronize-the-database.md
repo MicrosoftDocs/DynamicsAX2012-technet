@@ -1,4 +1,4 @@
-﻿---
+---
 title: Synchronize the database
 TOCTitle: Synchronize the database
 ms:assetid: ba4ba1ac-f522-4c9e-80fd-a4efff82d6e2
@@ -20,5 +20,5 @@ This option is available from the initialization checklist and the upgrade check
 This step can take 10 minutes or more to be completed.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View purchase or sales release orders
 TOCTitle: (IND) View purchase or sales release orders
 ms:assetid: 0277eb4f-3031-4ad1-b199-c2b4ac1322f3
@@ -11,6 +11,8 @@ f1_keywords:
 - (IND)
 - India
 - sales release order
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View purchase or sales release orders 
@@ -75,5 +77,5 @@ You can view all purchase or sales release order lines for a purchase or sales a
 [Create a purchase release order](create-a-purchase-release-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

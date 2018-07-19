@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail SDK
 TOCTitle: Retail SDK
 ms:assetid: 6df148ed-a6b7-4727-a2e9-3d9e3c84c8ba
@@ -91,5 +91,5 @@ After you install the Retail SDK, the following folders and files are copied to 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

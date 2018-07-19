@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up bills of exchange
 TOCTitle: Set up bills of exchange
 ms:assetid: 422241fe-25d5-47d7-b361-0b8041ca4948
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496955(v=AX.60)
 ms:contentKeyID: 36056868
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up bills of exchange 
@@ -306,5 +308,5 @@ For each customer who has agreed to pay by using a bill of exchange, you can set
 [Payment step process (form)](https://technet.microsoft.com/en-us/library/aa616132\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow actions
 TOCTitle: Workflow actions
 ms:assetid: ff86d512-f01e-4089-93b1-1a5810587ed8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362144(v=AX.60)
 ms:contentKeyID: 35133354
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Workflow actions 
@@ -130,5 +132,5 @@ For example, assume that Sam has submitted an expense report for USD 12,000 and 
 Sam can resubmit the expense report, with or without changes. If Sam resubmits the expense report, it is sent to Frank for approval because Frank is the first approver in the approval process.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

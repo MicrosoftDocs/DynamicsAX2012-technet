@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create sales delivery schedules
 TOCTitle: (BRA) Create sales delivery schedules
 ms:assetid: 0d4f246e-c679-4f9c-a404-888d25ca4fd8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710411(v=AX.60)
 ms:contentKeyID: 49384304
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create sales delivery schedules 
@@ -78,5 +80,5 @@ Use this procedure to create a delivery schedule to split one order line into se
 [Create sales or sales quotation delivery schedules](create-sales-or-sales-quotation-delivery-schedules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

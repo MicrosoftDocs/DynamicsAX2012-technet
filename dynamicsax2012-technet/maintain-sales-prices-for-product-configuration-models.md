@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain sales prices for product configuration models
 TOCTitle: Maintain sales prices for product configuration models
 ms:assetid: 193b8926-123e-441c-a754-08bf319e1647
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527689(v=AX.60)
 ms:contentKeyID: 59626222
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain sales prices for product configuration models 
@@ -226,5 +228,5 @@ To define price model criteria, follow these steps:
 5.  Click **Add** or **Remove** to add or remove criteria, and then click **OK** to close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

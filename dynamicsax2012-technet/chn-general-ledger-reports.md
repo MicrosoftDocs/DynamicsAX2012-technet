@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) General ledger reports
 TOCTitle: (CHN) General ledger reports
 ms:assetid: a570d784-54c5-41a2-b299-a60a7c7942e7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733507(v=AX.60)
 ms:contentKeyID: 49685471
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) General ledger reports 
@@ -795,5 +797,5 @@ Generate and print a report that displays ledger journal transactions that share
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

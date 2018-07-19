@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Create a vendor account with tax registration details
 TOCTitle: (MEX) Create a vendor account with tax registration details
 ms:assetid: a327f1d6-c1bb-442f-b02a-c376ce949a4b
@@ -10,6 +10,8 @@ f1_keywords:
 - Mexico
 - vendor account
 - tax registration
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Create a vendor account with tax registration details 
@@ -48,5 +50,5 @@ Use the **Vendors** form to enter the RFC, CURP, state inscription number, and o
 [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

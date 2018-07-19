@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the Customer self-service portal
 TOCTitle: About the Customer self-service portal
 ms:assetid: ec70236a-aff5-441b-931e-78377936abde
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - CSSDefault
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the Customer self-service portal 
@@ -48,5 +50,5 @@ The Customer self-service portal is a Web site where you, as an approved custome
 [Sign up for an account](sign-up-for-an-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

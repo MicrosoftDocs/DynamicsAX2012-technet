@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and post statements overview
 TOCTitle: Create and post statements overview
 ms:assetid: 4632f444-9e4f-4262-a10e-258adbfe029d
@@ -10,6 +10,8 @@ f1_keywords:
 - statements
 - overview
 - statement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and post statements overview 
@@ -58,5 +60,5 @@ The following table lists the forms that support the create and post statements 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View assortment products
 TOCTitle: View assortment products
 ms:assetid: 96642a56-5a45-4760-8c3d-75c9202c3542
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597177(v=AX.60)
 ms:contentKeyID: 39519238
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View assortment products 
@@ -42,5 +44,5 @@ You can use the **View assortments** form to view a list of all the assortments 
 [About setting up assortments](about-setting-up-assortments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 
