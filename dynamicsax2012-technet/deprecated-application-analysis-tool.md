@@ -32,8 +32,7 @@ The Application Analysis Tool for Microsoft Dynamics AX 2012 let developers easi
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
 <td><p>Many of the features of the Application Analysis Tool are available either in the product or from tools that are available on Microsoft Dynamics Lifecycle Services.</p>
-<p>For database entity relationship diagrams (ERDs), see <a href="http://go.microsoft.com/fwlink/p/?linkid=296623">AxERD</a>. AxErd provides approximately 30 ERDs. Most ERDs emphasize a particular application module (such as Accounts Payable).</p>
-<p>The AxErd site also provides instructions on how to create your own ERDs. For more information, see <a href="http://www.microsoft.com/dynamics/ax/erd/ax2012r2/help-howtouse-axerd.htm">How to build or extend an ERD</a>.</p></td>
+</td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

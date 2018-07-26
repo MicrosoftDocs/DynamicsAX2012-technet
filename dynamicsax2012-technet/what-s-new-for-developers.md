@@ -61,8 +61,7 @@ In Microsoft Dynamics AX 2012, we added and changed several features that affect
 <p><a href="what-s-new-role-based-security.md">What's new: Role-based security</a></p>
 <p></p>
 <p><a href="what-s-new-workflow-features.md">What's new: Workflow features</a></p></td>
-<td><p><a href="what-s-new-axerd-tool-for-discovery-of-table-relationships.md">What's new: AxErd tool for discovery of table relationships</a></p>
-<p></p>
+<td>
 <p><a href="what-s-new-visual-studio-tools-for-developers-in-microsoft-dynamics-ax-2012.md">What's New: Visual Studio Tools for Developers in Microsoft Dynamics AX 2012</a></p>
 <p></p>
 <p><a href="what-s-new-combine-xpo-tool-for-microsoft-dynamics-ax.md">What's new: Combine XPO Tool for Microsoft Dynamics AX</a></p></td>

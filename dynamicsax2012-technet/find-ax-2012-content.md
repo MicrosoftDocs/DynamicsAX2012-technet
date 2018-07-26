@@ -46,54 +46,50 @@ The following are useful Microsoft Dynamics AX-related sites.
 <td><p>Developer online documentation.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://aka.ms/axerd">AXERD</a></p></td>
-<td><p>Provides approximately 30 database entity relationship diagrams for AX 2012 R2 and explains how to create others</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="http://aka.ms/axtechnet">TechNet library</a></p></td>
 <td><p>Application user and system administrator online documentation.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="http://aka.ms/axformhelplist">AX 2012 Form list</a></p></td>
 <td><p>List of all AX 2012 R3 forms.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="http://community.dynamics.com">Community</a></p></td>
 <td><p>Hosts blogs, forums, and videos.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="http://aka.ms/axresourcepageblog">Resource page blog</a></p></td>
 <td><p>Announces new resource pages that address common support areas.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="http://microsoft.com/dynamics/ax">Microsoft.com/Dynamics/AX</a></p></td>
 <td><p>Evaluation and sales site.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="http://aka.ms/axmarketplace">Microsoft Dynamics Marketplace</a></p></td>
 <td><p>Find a partner.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="http://lcs.dynamics.com">Lifecycle Services</a>*</p></td>
 <td><p>Provides a cloud-based collaborative workspace that customers and their partners can use to manage AX 2012 projects from pre-sales to implementation and operations. Useful in all phases of an implementation.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="http://www.customersource.com">CustomerSource</a>*</p></td>
 <td><p>Primary support site. Also hosts extensive training resources.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>InformationSource</p></td>
 <td><p>The InformationSource site has been retired. The content that was previously hosted there has been moved to <a href="https://mbs.microsoft.com/customersource/northamerica/ax/news-events/news/informationsource">CustomerSource</a>.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="http://aka.ms/axcontentstrategy">Inside Microsoft Dynamics AX blog</a></p></td>
 <td><p>Blog about product strategy and direction.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="http://twitter.com/">Twitter: @AXContent</a></p></td>
 <td><p>Follow us to hear announcements about content that we've released.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="http://www.microsoft.com/learning/en-us/default.aspx">Microsoft Learning</a></p></td>
 <td><p>Provides extensive training resources, and ways to find classes in your area.</p></td>
 </tr>
@@ -188,14 +184,6 @@ Our websites are organized to support the customer lifecycle. Each phase is supp
 <td><p></p></td>
 </tr>
 <tr class="even">
-<td><p>AXERD</p></td>
-<td><p></p></td>
-<td><p><strong>Y</strong></p></td>
-<td><p></p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="odd">
 <td><p>InformationSource*</p></td>
 <td><p></p></td>
 <td><p><strong>Y</strong></p></td>
@@ -203,7 +191,7 @@ Our websites are organized to support the customer lifecycle. Each phase is supp
 <td><p></p></td>
 <td><p><strong>Y</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TechNet</p></td>
 <td><p></p></td>
 <td><p></p></td>
@@ -211,7 +199,7 @@ Our websites are organized to support the customer lifecycle. Each phase is supp
 <td><p><strong>Y</strong></p></td>
 <td><p><strong>Y</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>CustomerSource*</p></td>
 <td><p></p></td>
 <td><p></p></td>
@@ -219,7 +207,7 @@ Our websites are organized to support the customer lifecycle. Each phase is supp
 <td><p></p></td>
 <td><p><strong>Y</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Microsoft Learning</p></td>
 <td><p></p></td>
 <td><p></p></td>
@@ -227,7 +215,7 @@ Our websites are organized to support the customer lifecycle. Each phase is supp
 <td><p></p></td>
 <td><p></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Community.Dynamics.com</p></td>
 <td><p></p></td>
 <td><p><strong>Y</strong></p></td>

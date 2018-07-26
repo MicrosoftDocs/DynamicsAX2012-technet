@@ -230,8 +230,6 @@
       items:
       - name: AxBuild.exe for faster X++ compiles on AOS
         href: ..\what-s-new-axbuild-exe-for-faster-x-compiles-on-aos.md
-      - name: AxErd tool for discovery of table relationships
-        href: ..\what-s-new-axerd-tool-for-discovery-of-table-relationships.md
       - name: Code Upgrade Service for Microsoft Dynamics AX
         href: ..\what-s-new-code-upgrade-service-for-microsoft-dynamics-ax.md
       - name: Combine XPO Tool for Microsoft Dynamics AX
