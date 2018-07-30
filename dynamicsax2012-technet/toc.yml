@@ -8251,71 +8251,69 @@
           - name: Remove-AXSecurityRole
             href: remove-axsecurityrole.md
   - name: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
-    href: lifecycle-services-for-microsoft-dynamics-user-guide-lcs.md
+    href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs-user-guide
     items:
-    - name: "What's new: Lifecycle Services for Microsoft Dynamics"
-      href: what-s-new-lifecycle-services-for-microsoft-dynamics.md
     - name: Projects
-      href: projects-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/projects-lcs
       items:
       - name: Configure security
-        href: configure-lifecycle-services-security-lcs.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/configure-lcs-security
     - name: Methodologies
-      href: methodologies-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/methodologies-lcs
     - name: Business process modeler
-      href: business-process-modeler-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/bpm-overview
       items:
       - name: Business process libraries in Business process modeler
-        href: business-process-libraries-in-business-process-modeler.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/business-process-libraries-business-process-modeler
       - name: Flowcharts in Business process modeler
-        href: flowcharts-in-business-process-modeler.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/flowcharts-business-process-modeler
       - name: Upload custom business processes to Business process modeler from Task recorder
-        href: upload-custom-business-processes-to-business-process-modeler-from-task-recorder.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/upload-business-processes-bpm-task-recorder
     - name: Cloud-hosted environments
-      href: cloud-hosted-environments-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/cloud-hosted-environments-lcs
       items:
       - name: Deploy Microsoft Dynamics AX 2012 R3 on Azure using Lifecycle Services
-        href: deploy-microsoft-dynamics-ax-2012-r3-on-azure-using-lifecycle-services.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-2012-r3-azure-lcs
         items:
         - name: Plan your deployment
-          href: plan-your-microsoft-dynamics-ax-2012-r3-deployment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/plan-2012-r3-deployment-azure
         - name: Deploy an AX 2012 R3 or AX 2012 R3 CU8 demo environment
-          href: deploy-an-ax-2012-r3-or-ax-2012-r3-cu8-demo-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-ax-2012-r3-ax-2012-r3-cu8-demo-environment-azure
         - name: Deploy a Retail essentials demo environment
-          href: deploy-a-retail-essentials-demo-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-essentials-demo-environment-azure
         - name: Deploy a development environment
-          href: deploy-a-development-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-development-environment-azure
         - name: Deploy a test environment
-          href: deploy-a-test-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-test-environment-azure
         - name: Deploy a Retail essentials dev/test environment
-          href: deploy-a-retail-essentials-dev-test-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-essentials-devtest-environment-azure
         - name: Deploy a Retail e-commerce dev/test environment
-          href: deploy-a-retail-e-commerce-dev-test-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-ecommerce-devtest-environment-azure
         - name: Deploy a Retail mobility dev/test environment
-          href: deploy-a-retail-mobility-dev-test-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-mobility-devtest-environment-azure
         - name: Deploy a high availability environment
-          href: deploy-a-high-availability-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-high-availability-environment-azure
         - name: Manage your deployment
-          href: manage-your-microsoft-dynamics-ax-2012-r3-deployment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/manage-2012-r3-deployment-azure
         - name: Troubleshoot your deployment
-          href: troubleshoot-your-microsoft-dynamics-ax-2012-r3-deployment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/troubleshoot-2012-r3-deployment-azure
     - name: Cloud-powered support
-      href: cloud-powered-support-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs-support
     - name: Configuration manager
-      href: configuration-manager-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/configuration-manager-lcs
       items:
       - name: Set up Configuration manager
-        href: set-up-configuration-manager-lifecycle-services-lcs.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/set-up-configuration-manager-lcs
       - name: Copy a configuration
-        href: copy-a-configuration-lifecycle-services-lcs.md
+        href: dynamics365/unified-operations/dev-itpro/lifecycle-services/copy-configuration-lcs
     - name: Customization analysis
-      href: customization-analysis-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/customization-analysis-lcs
     - name: Infrastructure estimator
-      href: infrastructure-estimator-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/infrastructure-estimator-lcs
     - name: Issue search
-      href: issue-search-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/issue-search-lcs
     - name: License sizing estimator
-      href: license-sizing-estimator-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/license-sizing-estimator-lcs
     - name: Microsoft Dynamics ERP RapidStart Services
       href: microsoft-dynamics-erp-rapidstart-services.md
       items:
