@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service objects
 TOCTitle: About service objects
 ms:assetid: cebb2b96-f489-46c5-8149-b282934264f6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572704(v=AX.60)
 ms:contentKeyID: 37832535
 ms.date: 07/29/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service objects 
@@ -36,5 +38,5 @@ Service objects are a customer’s assets and products for which you can perform
 [Service objects (form)](https://technet.microsoft.com/en-us/library/aa615497\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

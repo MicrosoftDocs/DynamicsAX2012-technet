@@ -1,4 +1,4 @@
-﻿---
+---
 title: About sales delivery schedules
 TOCTitle: About sales delivery schedules
 ms:assetid: 0e2ed3f0-46ba-474a-a86b-aa10e559f0b7
@@ -10,6 +10,8 @@ f1_keywords:
 - sales
 - delivery schedule
 - delivery schedules
+audience: Application User
+ms.search.region: Global
 ---
 
 # About sales delivery schedules 
@@ -32,5 +34,5 @@ The topics in this section provide information about how to create and work with
 [Create purchase orders from sales order delivery schedules](create-purchase-orders-from-sales-order-delivery-schedules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Intercompany tax API changes (White paper)
 TOCTitle: Intercompany tax API changes (White paper)
 ms:assetid: 73407125-ed23-4855-9eaa-1b9c57cdd89c
@@ -16,5 +16,5 @@ This white paper describes new methods that have been added to Microsoft Dynamic
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=294099%26clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

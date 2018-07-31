@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add an affiliation to a customer
 TOCTitle: Add an affiliation to a customer
 ms:assetid: 612c73b2-b347-462c-9da0-6d144e8578ae
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497769(v=AX.60)
 ms:contentKeyID: 62200079
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add an affiliation to a customer 
@@ -34,5 +36,5 @@ To add an affiliation to a customer account, follow these steps:
 5.  If the customer has more than one affiliation, click **New**, and then, in the **Name** column, select another affiliation.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

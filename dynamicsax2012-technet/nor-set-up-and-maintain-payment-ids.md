@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Set up and maintain payment IDs
 TOCTitle: (NOR) Set up and maintain payment IDs
 ms:assetid: 3397b283-32c8-4cf1-95be-306e27acfffb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231083(v=AX.60)
 ms:contentKeyID: 36056542
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Set up and maintain payment IDs 
@@ -108,5 +110,5 @@ You can view the payment ID for a transaction in the following locations:
   - **Navigation Path Not Found**
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

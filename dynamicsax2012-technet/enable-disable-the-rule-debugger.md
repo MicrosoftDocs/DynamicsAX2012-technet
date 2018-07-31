@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enable/disable the rule debugger
 TOCTitle: Enable/disable the rule debugger
 ms:assetid: 526707cc-16e4-422c-b5bc-1b7ece83fa39
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ff395356(v=AX.60)
 ms:contentKeyID: 36057287
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enable/disable the rule debugger 
@@ -44,5 +46,5 @@ To validate the rules and constraints of product models, you must enable the **R
 [Validate the rules of the product model](validate-the-rules-of-the-product-model.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

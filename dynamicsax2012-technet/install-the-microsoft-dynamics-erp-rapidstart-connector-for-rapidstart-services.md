@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the Microsoft Dynamics ERP RapidStart Connector for RapidStart Services
 TOCTitle: Install the Microsoft Dynamics ERP RapidStart Connector for RapidStart Services
 ms:assetid: 6090d764-4615-4ea5-bba5-90cbaff4df96
@@ -53,5 +53,5 @@ If you have installed Microsoft Dynamics AX 2012 Feature Pack or Microsoft Dynam
 [The architecture of the Microsoft Dynamics ERP RapidStart Connector](the-architecture-of-the-microsoft-dynamics-erp-rapidstart-connector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Allocate transactions
 TOCTitle: Allocate transactions
 ms:assetid: 2cffa4d6-9708-4413-ac28-0e45c930f48a
@@ -10,6 +10,8 @@ f1_keywords:
 - allocate transactions
 - transaction allocation
 - transactions allocation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Allocate transactions 
@@ -30,5 +32,5 @@ The topics in this section provide information about the tasks that are related 
 [Process an allocation request](process-an-allocation-request.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

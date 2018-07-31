@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up parameters for GIA ST tax statements
 TOCTitle: (BRA) Set up parameters for GIA ST tax statements
 ms:assetid: 82fe042c-3996-4a06-acf1-a9458500aae5
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.FBTaxStatementSetupParameters_BR
 - MsDynAx060.Forms.FBTaxStatementSetupParameters_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up parameters for GIA ST tax statements 
@@ -43,5 +45,5 @@ To set up requirements for the text files for GIA ST tax statements, follow thes
 [(BRA) Generate the Sintegra tax statement](bra-generate-the-sintegra-tax-statement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

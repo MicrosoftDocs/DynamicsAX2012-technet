@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a security file for Retail deployment
 TOCTitle: Create a security file for Retail deployment
 ms:assetid: a66c81d5-ff04-4ecb-8a89-c38772390d81
@@ -202,5 +202,5 @@ The .xsd file is used to validate the XML in the security file. The .xsd file de
 [Mass deploy Retail components by using System Center Configuration Manager](mass-deploy-retail-components-by-using-system-center-configuration-manager.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

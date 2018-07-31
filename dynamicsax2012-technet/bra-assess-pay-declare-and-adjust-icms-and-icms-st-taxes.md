@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Assess, pay, declare, and adjust ICMS and ICMS-ST taxes
 TOCTitle: (BRA) Assess, pay, declare, and adjust ICMS and ICMS-ST taxes
 ms:assetid: 6348f356-84a4-43a5-84ac-203627f491c3
@@ -11,6 +11,8 @@ f1_keywords:
 - Forms.FBTaxAssessmentICMSSTListPage_BR
 - MsDynAx060.Forms.FBTaxAssessmentICMSListPage_BR
 - MsDynAx060.Forms.FBTaxAssessmentICMSSTListPage_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Assess, pay, declare, and adjust ICMS and ICMS-ST taxes 
@@ -149,5 +151,5 @@ A sequence number is generated for each report when the booking period is synchr
 [(BRA) Assess, pay, declare, and adjust IPI taxes](bra-assess-pay-declare-and-adjust-ipi-taxes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a purchase order and assign charges to the purchase invoice
 TOCTitle: (RUS) Create a purchase order and assign charges to the purchase invoice
 ms:assetid: 806e048c-a0f4-48d6-b8d9-8dd3ebb6fcef
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923550(v=AX.60)
 ms:contentKeyID: 52075398
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a purchase order and assign charges to the purchase invoice 
@@ -40,5 +42,5 @@ Use this procedure to create a purchase order and assign charges to the purchase
 [(RUS) Charges transactions (modified form)](https://technet.microsoft.com/en-us/library/jj853224\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

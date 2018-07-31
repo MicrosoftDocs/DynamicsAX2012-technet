@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create electronic documents
 TOCTitle: Create electronic documents
 ms:assetid: 7705a198-e891-4336-be98-601cc8f56c20
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - create electronic documents
 - electronic documents
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create electronic documents 
@@ -39,5 +41,5 @@ The topics in this section provide information about the tasks that are related 
 [(FRA) Export financial transaction data to an archive file](fra-export-financial-transaction-data-to-an-archive-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

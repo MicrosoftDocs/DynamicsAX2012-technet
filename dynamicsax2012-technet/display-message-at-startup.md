@@ -1,4 +1,4 @@
-﻿---
+---
 title: Display message at startup
 TOCTitle: Display message at startup
 ms:assetid: 56172705-0a15-46c4-87ab-a17c23c76b37
@@ -34,5 +34,5 @@ You can configure Microsoft Dynamics AX clients to display a message at startup 
 [Manage a client configuration](manage-a-client-configuration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

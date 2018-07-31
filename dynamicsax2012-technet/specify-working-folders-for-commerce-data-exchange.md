@@ -1,4 +1,4 @@
-﻿---
+---
 title: Specify working folders for Commerce Data Exchange
 TOCTitle: Specify working folders for Commerce Data Exchange
 ms:assetid: 7287752d-5b02-4f95-9ff2-1fb8a3f9685d
@@ -43,5 +43,5 @@ For more information about Commerce Data Exchange, see the [Commerce Data Exchan
 7.  After you have created a set of working folders, you must associate it with a channel data group. For more information about data groups, see [Create a channel data group](create-a-channel-data-group.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

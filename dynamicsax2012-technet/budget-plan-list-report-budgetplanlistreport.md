@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budget plan list report (BudgetPlanListReport)
 TOCTitle: Budget plan list report (BudgetPlanListReport)
 ms:assetid: 1e865173-4817-4024-b74d-02cafe9d185f
@@ -136,5 +136,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

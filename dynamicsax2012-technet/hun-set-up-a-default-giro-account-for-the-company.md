@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up a default GIRO account for the company
 TOCTitle: (HUN) Set up a default GIRO account for the company
 ms:assetid: e51aa8e8-ab75-455b-a913-219952d1528d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664402(v=AX.60)
 ms:contentKeyID: 49385490
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up a default GIRO account for the company 
@@ -32,5 +34,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(HUN) Change the bank account for a sales order](hun-change-the-bank-account-for-a-sales-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

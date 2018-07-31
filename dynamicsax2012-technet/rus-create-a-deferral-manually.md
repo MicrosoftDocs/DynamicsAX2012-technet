@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a deferral manually
 TOCTitle: (RUS) Create a deferral manually
 ms:assetid: 305e22f5-46a4-461b-9398-fb14d698c7a5
@@ -10,6 +10,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - deferral
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a deferral manually 
@@ -52,5 +54,5 @@ Use the **Deferrals** form to manually create a deferral. You must also specify 
 [(RUS) Deferrals models (form)](https://technet.microsoft.com/en-us/library/jj678655\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

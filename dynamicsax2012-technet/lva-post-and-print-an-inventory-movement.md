@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Post and print an inventory movement
 TOCTitle: (LVA) Post and print an inventory movement
 ms:assetid: 33760164-3187-48f5-9bbc-9095bcb7a342
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731016(v=AX.60)
 ms:contentKeyID: 49675256
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Post and print an inventory movement 
@@ -62,5 +64,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(LVA) Journal lines, Inventory (modified form)](https://technet.microsoft.com/en-us/library/jj721417\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

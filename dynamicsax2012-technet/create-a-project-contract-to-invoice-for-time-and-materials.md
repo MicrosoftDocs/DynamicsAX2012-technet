@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a project contract to invoice for time and materials
 TOCTitle: Create a project contract to invoice for time and materials
 ms:assetid: 56316370-ab3b-4419-b75b-3e07df6e7fc4
@@ -11,6 +11,8 @@ f1_keywords:
 - time & material
 - time and material
 - billing rules
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a project contract to invoice for time and materials 
@@ -126,5 +128,5 @@ After you have created the contract and the associated project, use this procedu
 [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

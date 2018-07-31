@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan appointments for a load
 TOCTitle: Plan appointments for a load
 ms:assetid: 9aec1151-db0d-4333-8e63-323a898fa725
@@ -14,6 +14,8 @@ f1_keywords:
 - driver check-in
 - driver check-out
 - warehouse appointments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Plan appointments for a load 
@@ -185,5 +187,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

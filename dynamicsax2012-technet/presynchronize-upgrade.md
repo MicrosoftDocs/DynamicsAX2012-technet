@@ -1,4 +1,4 @@
-﻿---
+---
 title: Presynchronize (upgrade)
 TOCTitle: Presynchronize (upgrade)
 ms:assetid: 44585f2f-9b9e-4155-8288-a48e93ef0a82
@@ -31,5 +31,5 @@ Prepare your database for synchronization as follows:
 3.  Address any errors that occur and then rerun the scripts.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

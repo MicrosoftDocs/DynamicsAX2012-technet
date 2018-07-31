@@ -1,4 +1,4 @@
-﻿---
+---
 title: Compress data between clients and an AOS
 TOCTitle: Compress data between clients and an AOS
 ms:assetid: 79e79814-4964-4d14-b944-f3310bc81dbc
@@ -42,5 +42,5 @@ If the size of each client/server request or response is less than the TCP windo
 [Tune data access settings](tune-data-access-settings.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

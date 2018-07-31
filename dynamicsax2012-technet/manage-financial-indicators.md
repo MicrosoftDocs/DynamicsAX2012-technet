@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage financial indicators
 TOCTitle: Manage financial indicators
 ms:assetid: 36792bee-81bc-4a79-8d01-2929ded5edbd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677297(v=AX.60)
 ms:contentKeyID: 49384068
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage financial indicators 
@@ -110,5 +112,5 @@ To modify an indicator that is displayed in a Financial Indicator List web part,
 3.  To modify the indicator, follow steps 2 through 11 of the previous procedure.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

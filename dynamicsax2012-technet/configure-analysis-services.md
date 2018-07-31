@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure Analysis Services
 TOCTitle: Configure Analysis Services
 ms:assetid: 76bd9e9a-4b24-4b0b-85e4-4aba004cc993
@@ -26,5 +26,5 @@ To integrate Microsoft Dynamics AX and Analysis Services, you must complete seve
 [Complete the Analysis Services integration](complete-the-analysis-services-integration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

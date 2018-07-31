@@ -1,4 +1,4 @@
-﻿---
+---
 title: AxUtil and Windows PowerShell Commands for Deploying Models
 TOCTitle: AxUtil and Windows PowerShell Commands for Deploying Models
 ms:assetid: 403c0715-227d-421e-91b7-ab8c353cf02c
@@ -69,7 +69,7 @@ The following table describes the Windows PowerShell cmdlets and the equivalent 
 <td><p>Get-AXModel</p></td>
 <td><p>axutil view</p></td>
 <td><p>Return a list of the models in the model store, or a list of the elements in a specific model or model file.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>Get-AXModel –details and axutil view /verbose return slightly different information.</P>
@@ -200,5 +200,5 @@ To view the Help for AXUtil, enter the command AXUtil /?.
 [Windows PowerShell for Microsoft Dynamics AX](windows-powershell-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

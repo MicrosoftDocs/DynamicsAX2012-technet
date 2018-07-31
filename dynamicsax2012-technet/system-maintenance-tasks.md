@@ -1,4 +1,4 @@
-﻿---
+---
 title: System maintenance tasks
 TOCTitle: System maintenance tasks
 ms:assetid: bda33310-cefb-428a-9654-65a04f8400f1
@@ -24,5 +24,5 @@ This section describes maintenance tasks that you should perform periodically. T
 [Use System Center Operations Manager with Microsoft Dynamics AX Retail](use-system-center-operations-manager-with-microsoft-dynamics-ax-retail.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

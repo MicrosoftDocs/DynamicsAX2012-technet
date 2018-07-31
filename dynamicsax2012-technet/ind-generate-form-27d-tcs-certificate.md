@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Generate Form 27D TCS certificate
 TOCTitle: (IND) Generate Form 27D TCS certificate
 ms:assetid: 6ef35429-ddb1-4ad0-a05b-8249f0338293
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677921(v=AX.60)
 ms:contentKeyID: 49385891
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Generate Form 27D TCS certificate 
@@ -66,5 +68,5 @@ The Form 27D certificate displays the following information:
 [(IND) Generate 27EQ quarterly statement for TCS](ind-generate-27eq-quarterly-statement-for-tcs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

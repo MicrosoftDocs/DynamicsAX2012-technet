@@ -1,4 +1,4 @@
-﻿---
+---
 title: Print copies of payments as non-negotiable checks
 TOCTitle: Print copies of payments as non-negotiable checks
 ms:assetid: ccbbe602-5859-421d-98b4-0552cd6ec26d
@@ -12,6 +12,8 @@ f1_keywords:
 - payment journal
 - check layout
 - non-negotiable check
+audience: Application User
+ms.search.region: Global
 ---
 
 # Print copies of payments as non-negotiable checks 
@@ -86,5 +88,5 @@ Before you can print copies of payments, you must follow these steps:
 [Set up the check layout for a bank account](set-up-the-check-layout-for-a-bank-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

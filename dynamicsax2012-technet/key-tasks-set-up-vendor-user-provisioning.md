@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Set up vendor user provisioning'
 TOCTitle: 'Key tasks: Set up vendor user provisioning'
 ms:assetid: 7126df3b-0969-4082-a964-59339fc63e21
@@ -13,6 +13,8 @@ f1_keywords:
 - user provisioning
 - vendor user
 - vendor users
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Set up vendor user provisioning 
@@ -129,5 +131,5 @@ This procedure explains some of the workflow tasks that are specific to the inac
 Back to top
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

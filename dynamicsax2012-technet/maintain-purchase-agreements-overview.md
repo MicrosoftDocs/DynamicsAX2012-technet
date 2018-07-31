@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain purchase agreements overview
 TOCTitle: Maintain purchase agreements overview
 ms:assetid: 0c51294e-f5ff-4463-866d-566d000a2c77
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - purchase agreement
 - purchase agreements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain purchase agreements overview 
@@ -33,5 +35,5 @@ The following topics provide information about how to manage purchase agreements
 [Print the status of a purchase agreement](print-the-status-of-a-purchase-agreement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

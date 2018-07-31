@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) About mandats de paiement (Public sector)
 TOCTitle: (FRA) About mandats de paiement (Public sector)
 ms:assetid: adc03bf5-593c-430e-963a-e0cd45806f83
@@ -14,6 +14,8 @@ f1_keywords:
 - mandat de paiement
 - mandats
 - mandats de paiement
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) About mandats de paiement (Public sector) 
@@ -50,5 +52,5 @@ A group of related mandats, together with all supporting documentation, are assi
 [(FRA) Key tasks: Mandats de paiement and bordereaux de mandat (Public sector)](fra-key-tasks-mandats-de-paiement-and-bordereaux-de-mandat-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accountant security role (LedgerAccountant)
 TOCTitle: Accountant security role (LedgerAccountant)
 ms:assetid: dff94b05-03c3-4f68-882c-c076a1af832e
@@ -1756,5 +1756,5 @@ By default, this security role is assigned the following privileges in Microsoft
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

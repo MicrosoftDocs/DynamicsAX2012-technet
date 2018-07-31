@@ -1,4 +1,4 @@
-﻿---
+---
 title: Approve time and attendance registrations
 TOCTitle: Approve time and attendance registrations
 ms:assetid: 09c79081-edec-4e3a-a7ee-eb0d5c239467
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - reversal
 - approve
+audience: Application User
+ms.search.region: Global
 ---
 
 # Approve time and attendance registrations 
@@ -113,5 +115,5 @@ Approved registrations for a worker can be reversed until payroll information fo
 [Transfer time and attendance registrations](transfer-time-and-attendance-registrations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

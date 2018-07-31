@@ -1,4 +1,4 @@
-﻿---
+---
 title: Start the accounting currency conversion
 TOCTitle: Start the accounting currency conversion
 ms:assetid: f1900cba-da47-462d-aba1-61ac8cec215f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551602(v=AX.60)
 ms:contentKeyID: 36059950
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Start the accounting currency conversion 
@@ -36,5 +38,5 @@ You must enter the following data:
 Click **OK** to start the conversion.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

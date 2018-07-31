@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Taxation, contributions, and compensation reports
 TOCTitle: (RUS) Taxation, contributions, and compensation reports
 ms:assetid: ffed75d9-8b43-4832-8f7e-def201e74d43
@@ -19,6 +19,8 @@ f1_keywords:
 - pension fund
 - social insurance contributions
 - taxation reports
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Taxation, contributions, and compensation reports 
@@ -923,5 +925,5 @@ Generate XML files that contain the payments and pension insurance base amount f
 [(RUS) Create and post an incentive resolution](rus-create-and-post-an-incentive-resolution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up product packages (Retail essentials)
 TOCTitle: Set up product packages (Retail essentials)
 ms:assetid: 7e6bcea8-f99a-4af2-adf4-ff47a8586370
@@ -58,5 +58,5 @@ To set up product packages, follow these steps:
 [Replenish inventory overview (Retail essentials)](replenish-inventory-overview-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

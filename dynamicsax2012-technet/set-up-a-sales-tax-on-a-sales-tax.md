@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a sales tax on a sales tax
 TOCTitle: Set up a sales tax on a sales tax
 ms:assetid: 5722a578-9930-4f79-a55d-0df5b0aced59
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - sales tax
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a sales tax on a sales tax 
@@ -68,5 +70,5 @@ Total sales tax = 2.50 + 0.25 = 2.75
 [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

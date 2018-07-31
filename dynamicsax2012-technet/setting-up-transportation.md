@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up transportation
 TOCTitle: Setting up transportation
 ms:assetid: 70ce7a29-3398-43a2-aea1-ea313c6228f6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553169(v=AX.60)
 ms:contentKeyID: 62200092
 ms.date: 04/23/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up transportation 
@@ -34,5 +36,5 @@ The topics in this section provide information about how to set up parameters fo
 [Set up a transportation tender](set-up-a-transportation-tender.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

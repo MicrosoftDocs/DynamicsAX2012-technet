@@ -1,4 +1,4 @@
-﻿---
+---
 title: About master scheduling - demand explosion of a BOM version
 TOCTitle: About master scheduling - demand explosion of a BOM version
 ms:assetid: d58d9b7f-ad15-4add-8c88-2d8c2d4376c0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213699(v=AX.60)
 ms:contentKeyID: 36931883
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About master scheduling - demand explosion of a BOM version 
@@ -42,5 +44,5 @@ The following graphic illustrates how the master scheduling demand explosion pro
 [About mandatory inventory dimensions](about-mandatory-inventory-dimensions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

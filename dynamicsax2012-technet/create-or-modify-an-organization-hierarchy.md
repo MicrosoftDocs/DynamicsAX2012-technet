@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify an organization hierarchy
 TOCTitle: Create or modify an organization hierarchy
 ms:assetid: e791dec5-9dc6-46cb-acdf-f15805179d1e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227463(v=AX.60)
 ms:contentKeyID: 36059818
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify an organization hierarchy 
@@ -104,5 +106,5 @@ If you must make a correction, you can delete the last future published version 
 [About organizations and organizational hierarchies](about-organizations-and-organizational-hierarchies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Upgrade a country-specific or region-specific system'
 TOCTitle: 'Scenario: Upgrade a country-specific or region-specific system'
 ms:assetid: cead63b6-d48b-4e97-821e-d41e1b3ca152
@@ -91,5 +91,5 @@ Except for the tasks in this table, the procedures for country-specific or regio
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

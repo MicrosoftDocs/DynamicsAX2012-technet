@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up withholding tax reporting codes for TCS tax types
 TOCTitle: (IND) Set up withholding tax reporting codes for TCS tax types
 ms:assetid: 9ad77d36-5ca0-4ddb-8f48-0dcfd8bdfcc3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664716(v=AX.60)
 ms:contentKeyID: 49386047
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up withholding tax reporting codes for TCS tax types 
@@ -46,5 +48,5 @@ Set up withholding tax reporting codes that are used to generate the Form 27EQ s
 [(IND) Withholding tax reporting codes (form)](https://technet.microsoft.com/en-us/library/jj664934\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

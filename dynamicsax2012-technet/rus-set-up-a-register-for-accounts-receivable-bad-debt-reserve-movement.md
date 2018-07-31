@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for accounts receivable bad debt reserve movement
 TOCTitle: (RUS) Set up a register for accounts receivable bad debt reserve movement
 ms:assetid: 77b6b1fd-c597-430a-86b2-88e75bef26dd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678372(v=AX.60)
 ms:contentKeyID: 49387602
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for accounts receivable bad debt reserve movement 
@@ -60,5 +62,5 @@ You must set up the exchange and amount difference parameters before you calcula
 [(RUS) Calculate the accounts receivable bad debt reserve movement register](rus-calculate-the-accounts-receivable-bad-debt-reserve-movement-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

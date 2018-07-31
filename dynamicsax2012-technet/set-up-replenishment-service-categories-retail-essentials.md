@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up replenishment service categories (Retail essentials)
 TOCTitle: Set up replenishment service categories (Retail essentials)
 ms:assetid: efa8ae36-c346-4165-85b4-3f880c1814ed
@@ -42,5 +42,5 @@ To set up service categories for inventory replenishment rules, follow these ste
 [Replenish inventory overview (Retail essentials)](replenish-inventory-overview-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

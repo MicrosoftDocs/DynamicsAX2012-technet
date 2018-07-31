@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create EXIM authorization schemes for export orders
 TOCTitle: (IND) Create EXIM authorization schemes for export orders
 ms:assetid: 780a8aeb-8733-433a-b963-229ed23ba61f
@@ -13,6 +13,8 @@ f1_keywords:
 - export order
 - EXIM
 - EXIM authorization scheme
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create EXIM authorization schemes for export orders 
@@ -154,5 +156,5 @@ You can create export-import (EXIM) authorization schemes for confirmed sales or
 [Setting up and maintaining inventory dimensions](setting-up-and-maintaining-inventory-dimensions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

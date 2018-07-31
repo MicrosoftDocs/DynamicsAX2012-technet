@@ -1,4 +1,4 @@
-﻿---
+---
 title: Send a document to a contact or an e-mail group
 TOCTitle: Send a document to a contact or an e-mail group
 ms:assetid: 5f253ec0-67d5-4589-97c4-9c71b91a1bed
@@ -13,6 +13,8 @@ f1_keywords:
 - contacts
 - email group
 - e-mail group
+audience: Application User
+ms.search.region: Global
 ---
 
 # Send a document to a contact or an e-mail group 
@@ -59,5 +61,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [Create e-mail groups](create-e-mail-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

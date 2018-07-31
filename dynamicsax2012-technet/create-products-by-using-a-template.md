@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create products by using a template
 TOCTitle: Create products by using a template
 ms:assetid: a57f805e-123a-4d9a-a330-026b2910a510
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597198(v=AX.60)
 ms:contentKeyID: 39519267
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create products by using a template 
@@ -75,5 +77,5 @@ You can apply a template to an existing released product, or you can apply a tem
 3.  Select the **Default template** check box for the template that you want to delete and then press ALT+F9.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

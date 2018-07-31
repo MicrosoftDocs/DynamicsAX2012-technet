@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Accounts payable
 TOCTitle: (BRA) Accounts payable
 ms:assetid: 48bc98de-c04c-4e9b-887f-33d987148773
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710489(v=AX.60)
 ms:contentKeyID: 49384382
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Accounts payable 
@@ -24,5 +26,5 @@ The topics in this section provide more information about Accounts payable.
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

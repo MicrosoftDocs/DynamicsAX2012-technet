@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain open customer transactions
 TOCTitle: Maintain open customer transactions
 ms:assetid: f4455ca0-b4ab-4354-8637-2ae8d19bd9ce
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - customer transaction
 - customer transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain open customer transactions 
@@ -31,5 +33,5 @@ The following topics provide information about maintaining open customer transac
 [Specify the cross rate](specify-the-cross-rate.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

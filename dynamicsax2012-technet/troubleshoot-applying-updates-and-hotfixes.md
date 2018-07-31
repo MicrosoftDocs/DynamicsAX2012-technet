@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot applying updates and hotfixes
 TOCTitle: Troubleshoot applying updates and hotfixes
 ms:assetid: 8ec5b487-267a-46ff-bfb7-8efc6ec61dee
@@ -109,5 +109,5 @@ If errors or issues occur during or after installation of an update, the update 
 4.  **Optional:** If you require help troubleshooting the installation errors or issues, open a support request by contacting your partner or value added reseller (VAR). Alternatively, if you are enrolled in a support plan directly with Microsoft, you can log on to CustomerSource and submit a new support request.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

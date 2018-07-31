@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post and submit electronic customer invoices
 TOCTitle: Post and submit electronic customer invoices
 ms:assetid: 41cda84d-5f1f-48e2-a93e-050fd11eeef9
@@ -14,6 +14,8 @@ f1_keywords:
 - electronic invoice
 - electronic customer invoice
 - electronic customer invoices
+audience: Application User
+ms.search.region: Global
 ---
 
 # Post and submit electronic customer invoices 
@@ -30,5 +32,5 @@ The following topics provide information about posting customer invoices and sub
 [(NOR) Export an eInvoice for a customer](nor-export-an-einvoice-for-a-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

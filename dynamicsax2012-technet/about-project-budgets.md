@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project budgets
 TOCTitle: About project budgets
 ms:assetid: 10f628e9-910d-4758-8ceb-f150d3d1561d
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - project budgets
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project budgets 
@@ -40,5 +42,5 @@ Budget control is used in project budgeting to make it possible for actual and b
 [About setting up a project budget](about-setting-up-a-project-budget.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

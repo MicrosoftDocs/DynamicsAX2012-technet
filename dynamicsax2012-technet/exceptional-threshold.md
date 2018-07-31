@@ -1,4 +1,4 @@
-﻿---
+---
 title: " exceptional threshold"
 TOCTitle: " exceptional threshold"
 ms:assetid: DynamicsAXGlossary.2014269
@@ -19,5 +19,5 @@ The maximum limit of an individual transaction value that is a part of a cumulat
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up depreciation
 TOCTitle: Setting up depreciation
 ms:assetid: a9fb1266-7036-433c-900e-8abb566bed07
@@ -11,6 +11,8 @@ f1_keywords:
 - configuration
 - depreciation setup
 - depriciation configuration
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up depreciation 
@@ -53,5 +55,5 @@ The following topics provide information about depreciation:
 [(DEU) Set up the parameters to calculate depreciation for additional acquisitions](deu-set-up-the-parameters-to-calculate-depreciation-for-additional-acquisitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

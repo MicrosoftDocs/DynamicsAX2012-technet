@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Generate 27EQ quarterly statement for TCS
 TOCTitle: (IND) Generate 27EQ quarterly statement for TCS
 ms:assetid: 0504f685-72ef-442f-aa34-8a7a0acec57e
@@ -14,6 +14,8 @@ f1_keywords:
 - india
 - quarterly statement
 - TCS
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Generate 27EQ quarterly statement for TCS 
@@ -62,5 +64,5 @@ The collectors of tax at source can use the 27EQ statement to report Tax Collect
 [(IND) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj664569\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

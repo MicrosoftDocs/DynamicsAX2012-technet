@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Schedule kanban jobs for a work cell'
 TOCTitle: 'Key tasks: Schedule kanban jobs for a work cell'
 ms:assetid: 465ea32f-4041-4ebb-8963-ba0b505e2e61
@@ -15,6 +15,8 @@ f1_keywords:
 - schedule a work cell
 - schedule jobs
 - schedule kanban jobs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Schedule kanban jobs for a work cell 
@@ -233,5 +235,5 @@ Back to top
 [Revert kanban job status (form)](https://technet.microsoft.com/en-us/library/hh692491\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

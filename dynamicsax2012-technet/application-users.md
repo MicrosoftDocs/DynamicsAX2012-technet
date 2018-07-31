@@ -1,4 +1,4 @@
-﻿---
+---
 title: Application users
 TOCTitle: Application users
 ms:assetid: 23a4af1b-d3f5-413e-8e65-afaf0eb58de9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242087(v=AX.60)
 ms:contentKeyID: 36055910
 ms.date: 04/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Application users 
@@ -96,5 +98,5 @@ To find out what people are saying about Microsoft Dynamics AX, and to get the l
 Microsoft Dynamics AX resources include a vibrant network of communities that are maintained by Microsoft Dynamics AX enthusiasts world-wide. For a list of non-Microsoft Web communities dedicated to Microsoft Dynamics AX, including blogs, discussions, and international forums, go to [Microsoft Dynamics Related Communities](http://go.microsoft.com/fwlink/?linkid=218304).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

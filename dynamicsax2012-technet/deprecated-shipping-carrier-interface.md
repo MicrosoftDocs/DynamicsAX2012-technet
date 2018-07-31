@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Shipping carrier interface'
 TOCTitle: Shipping carrier interface
 ms:assetid: d714925c-d1c9-4b59-b1d6-812fdc64c58d
@@ -54,5 +54,5 @@ Microsoft Dynamics AX customers often use one or more shipping carriers to deliv
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About audit policy violations and cases
 TOCTitle: About audit policy violations and cases
 ms:assetid: c8745a77-0733-4a13-952a-d4a95ddcd9a2
@@ -15,6 +15,8 @@ f1_keywords:
 - audit policy violation
 - policy case
 - audit violation
+audience: Application User
+ms.search.region: Global
 ---
 
 # About audit policy violations and cases 
@@ -69,5 +71,5 @@ The document selection date range has additional functions for an audit policy.
 [Policy rule type (form)](https://technet.microsoft.com/en-us/library/hh208562\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed units
 TOCTitle: Fixed units
 ms:assetid: af7beca8-1903-41b2-855e-e1cd52ae2381
@@ -48,5 +48,5 @@ System units that are shared across all companies now replace fixed units, which
 5.  After you resolve all validation errors, click **Set to ready for upgrade**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

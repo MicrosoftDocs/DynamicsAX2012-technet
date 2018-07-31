@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify data types
 TOCTitle: Modify data types
 ms:assetid: 7b533e0b-f64d-410e-99ae-0296ace50900
@@ -32,5 +32,5 @@ After you modify data types, you must synchronize the database. For more informa
 [Data types that can be modified](https://technet.microsoft.com/en-us/library/aa496486\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

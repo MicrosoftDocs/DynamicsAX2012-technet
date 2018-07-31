@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process elimination transactions using the Consolidation, Online form
 TOCTitle: Process elimination transactions using the Consolidation, Online form
 ms:assetid: 69a51a3c-0a21-4a0a-b750-42672ebfea67
@@ -13,6 +13,8 @@ f1_keywords:
 - consolidation
 - consolidation transactions
 - online consolidation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process elimination transactions using the Consolidation, Online form 
@@ -58,5 +60,5 @@ You must create an elimination rule before you create elimination transactions. 
 [Consolidate (form)](https://technet.microsoft.com/en-us/library/aa618539\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

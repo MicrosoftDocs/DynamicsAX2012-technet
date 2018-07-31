@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Environmental sustainability
 TOCTitle: About Environmental sustainability
 ms:assetid: 4ee44720-a987-440c-99fe-3bb5914c316b
@@ -11,6 +11,8 @@ f1_keywords:
 - environmental sustainability
 - sustain
 - sustainability
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Environmental sustainability 
@@ -243,5 +245,5 @@ The Environmental sustainability reports show the effects that Fabrikam’s busi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

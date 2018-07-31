@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Account analysis by dimensions (report)
 TOCTitle: (CHN) Account analysis by dimensions (report)
 ms:assetid: 75c7b241-2600-4742-9ddd-505101604204
@@ -124,5 +124,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

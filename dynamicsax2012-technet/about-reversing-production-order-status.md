@@ -1,4 +1,4 @@
-﻿---
+---
 title: About reversing production order status
 TOCTitle: About reversing production order status
 ms:assetid: 23d700b1-27db-458f-8b76-0a41dd425dd1
@@ -12,6 +12,8 @@ f1_keywords:
 - revert
 - change production
 - production order
+audience: Application User
+ms.search.region: Global
 ---
 
 # About reversing production order status 
@@ -68,5 +70,5 @@ Fields in the **Production order details** form that show a quantity started or 
 [About production order status](about-production-order-status.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

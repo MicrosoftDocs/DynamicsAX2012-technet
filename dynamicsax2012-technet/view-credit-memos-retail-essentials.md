@@ -1,4 +1,4 @@
-﻿---
+---
 title: View credit memos (Retail essentials)
 TOCTitle: View credit memos (Retail essentials)
 ms:assetid: 184eef16-b7c7-449c-958b-5755b64fbfb2
@@ -32,5 +32,5 @@ Credit memos are vouchers that can be issued to and redeemed by a customer at a 
 3.  A report that contains the data is displayed on the screen. To print this report, click **Print** in the **Credit memo table** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

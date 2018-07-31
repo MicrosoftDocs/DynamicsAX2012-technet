@@ -1,4 +1,4 @@
-﻿---
+---
 title: Variants
 TOCTitle: Variants
 ms:assetid: 52bd9e4c-4ec6-4fbb-ae76-29db37084ce8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - variant
 - variants
+audience: Application User
+ms.search.region: Global
 ---
 
 # Variants 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to set up variants for 
 [Assign variant groups](assign-variant-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

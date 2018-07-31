@@ -1,4 +1,4 @@
-﻿---
+---
 title: About inventory close
 TOCTitle: About inventory close
 ms:assetid: 92c74079-fb6a-4924-8567-dae66015d6af
@@ -16,6 +16,8 @@ f1_keywords:
 - inventory close
 - running average
 - lifo
+audience: Application User
+ms.search.region: Global
 ---
 
 # About inventory close 
@@ -64,5 +66,5 @@ If adjustments to inventory and the general ledger are necessary during a month 
 [Run inventory recalculation](run-inventory-recalculation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Purchase order distributions
 TOCTitle: Purchase order distributions
 ms:assetid: 567b6471-8d05-4b85-b734-577cfa3df78b
@@ -20,6 +20,8 @@ f1_keywords:
 - revenue tax
 - PO
 - POs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Purchase order distributions 
@@ -36,5 +38,5 @@ The topics in this section provide information about how amounts are accounted f
 [View subledger journals for purchase orders](view-subledger-journals-for-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

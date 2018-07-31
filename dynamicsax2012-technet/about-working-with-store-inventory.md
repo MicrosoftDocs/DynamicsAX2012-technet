@@ -1,4 +1,4 @@
-﻿---
+---
 title: About working with store inventory
 TOCTitle: About working with store inventory
 ms:assetid: 4dce671c-f6bf-49b3-91f6-1a26c32d99e8
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - store inventory
+audience: Application User
+ms.search.region: Global
 ---
 
 # About working with store inventory 
@@ -34,5 +36,5 @@ Stock counts can be either scheduled or unscheduled. Scheduled stock counts are 
 When a stock count of either type is completed, it is committed and sent to the head office. At the head office, the count is validated and posted.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

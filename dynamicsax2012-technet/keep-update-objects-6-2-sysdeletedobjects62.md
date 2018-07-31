@@ -1,4 +1,4 @@
-﻿---
+---
 title: Keep update objects 6.2 (SysDeletedObjects62)
 TOCTitle: Keep update objects 6.2 (SysDeletedObjects62)
 ms:assetid: cf9b93c2-dc66-4bce-b2d4-767cd46003df
@@ -56,5 +56,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

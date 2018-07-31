@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Set up vendor terms of payment (Public sector)
 TOCTitle: (FRA) Set up vendor terms of payment (Public sector)
 ms:assetid: a7b44412-a928-4c82-92db-aa1e83b9b6ee
@@ -12,6 +12,8 @@ f1_keywords:
 - French
 - terms of payment
 - vendor terms of payment
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Set up vendor terms of payment (Public sector) 
@@ -119,5 +121,5 @@ Select a term of payment for a pending invoice.
 [(FRA) Place or release vendor invoice payment holds (Public sector)](fra-place-or-release-vendor-invoice-payment-holds-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate sales tax in a general journal
 TOCTitle: (IND) Calculate sales tax in a general journal
 ms:assetid: 9e4a27c0-29f8-4b54-8c4c-a8609d58469c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664733(v=AX.60)
 ms:contentKeyID: 49386064
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate sales tax in a general journal 
@@ -68,5 +70,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

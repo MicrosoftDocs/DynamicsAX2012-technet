@@ -1,4 +1,4 @@
-﻿---
+---
 title: Review and approve timesheets
 TOCTitle: Review and approve timesheets
 ms:assetid: 3708cbc7-c85c-4e55-b330-bcef74529caa
@@ -10,6 +10,8 @@ f1_keywords:
 - approve timesheet
 - review timesheet
 - timesheet
+audience: Application User
+ms.search.region: Global
 ---
 
 # Review and approve timesheets 
@@ -118,5 +120,5 @@ Depending on your version of Microsoft Dynamics AX, complete one of the followin
 [New timesheet (form)](https://technet.microsoft.com/en-us/library/hh227610\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

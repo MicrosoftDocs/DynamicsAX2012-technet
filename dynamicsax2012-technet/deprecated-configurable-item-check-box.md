@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Configurable item check box'
 TOCTitle: Configurable item check box
 ms:assetid: e15c1e6c-394b-48e7-a1ee-7502aeaee011
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, a check box controls whether an item can be confi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

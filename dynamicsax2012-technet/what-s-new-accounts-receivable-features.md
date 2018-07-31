@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Accounts receivable features"
 TOCTitle: Accounts receivable features
 ms:assetid: 809645f2-1669-4ac7-96af-88df3ae69162
@@ -235,5 +235,5 @@ We have changed and added functionality in the [Accounts receivable](accounts-re
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

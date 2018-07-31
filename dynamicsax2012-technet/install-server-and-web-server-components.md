@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install server and web server components
 TOCTitle: Install server and web server components
 ms:assetid: fb30b3d9-2560-4ca0-9c7e-5eb9910076b3
@@ -24,5 +24,5 @@ The topics in this section provide information about how to install the server a
 [Install help server](install-help-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

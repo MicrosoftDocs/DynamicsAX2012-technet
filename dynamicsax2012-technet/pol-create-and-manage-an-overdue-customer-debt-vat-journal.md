@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Create and manage an overdue customer debt VAT journal
 TOCTitle: (POL) Create and manage an overdue customer debt VAT journal
 ms:assetid: a647a9b5-ec5d-46a7-9e54-28311173f115
@@ -12,6 +12,8 @@ f1_keywords:
 - overdue customer debt
 - overdue payment
 - overdue payments
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Create and manage an overdue customer debt VAT journal 
@@ -207,5 +209,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Receiving returned items
 TOCTitle: Receiving returned items
 ms:assetid: 97471608-7cde-43df-92da-4ae5331d76b3
@@ -12,6 +12,8 @@ f1_keywords:
 - return order
 - receive returns
 - returned items
+audience: Application User
+ms.search.region: Global
 ---
 
 # Receiving returned items 
@@ -32,5 +34,5 @@ Depending on company policies, the items in the return shipment can be sent to q
 [Take returned items through inspection](take-returned-items-through-inspection.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

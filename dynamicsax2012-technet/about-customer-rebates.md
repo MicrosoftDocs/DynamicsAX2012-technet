@@ -1,4 +1,4 @@
-﻿---
+---
 title: About customer rebates
 TOCTitle: About customer rebates
 ms:assetid: 560f258a-e4cf-4fe8-8002-9c2adca36582
@@ -10,6 +10,8 @@ f1_keywords:
 - customer rebate
 - customer rebates
 - rebates
+audience: Application User
+ms.search.region: Global
 ---
 
 # About customer rebates 
@@ -146,5 +148,5 @@ The following guidelines pertain when you apply customer rebates:
 [Rebate program types (form)](https://technet.microsoft.com/en-us/library/hh352270\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

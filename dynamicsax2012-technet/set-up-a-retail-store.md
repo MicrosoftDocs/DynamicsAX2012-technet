@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a retail store
 TOCTitle: Set up a retail store
 ms:assetid: e0748d3a-08a2-41e3-91e0-be1e1935f112
@@ -10,6 +10,8 @@ f1_keywords:
 - stores
 - store
 - retail
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a retail store 
@@ -167,5 +169,5 @@ For a complete list of the tasks that must be completed to set up a retail store
 [Point of Sale](point-of-sale.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

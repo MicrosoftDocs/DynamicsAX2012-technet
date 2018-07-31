@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) View the loyalty points discount amount for a retail store transaction
 TOCTitle: (RUS) View the loyalty points discount amount for a retail store transaction
 ms:assetid: 0f96b992-1366-4853-a9dd-f976564333c9
@@ -19,6 +19,8 @@ f1_keywords:
 - loyalty points
 - retail discount
 - loyalty points discount
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) View the loyalty points discount amount for a retail store transaction 
@@ -45,5 +47,5 @@ You can view the loyalty points discount amount for a retail store transaction i
 [(RUS) Set up Microsoft Dynamics AX to redeem and return loyalty points](rus-set-up-microsoft-dynamics-ax-to-redeem-and-return-loyalty-points.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

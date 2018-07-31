@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post completed store inventory documents (Retail essentials)
 TOCTitle: Post completed store inventory documents (Retail essentials)
 ms:assetid: 2b586be1-23a4-4fc6-ba1c-a28938d24658
@@ -100,5 +100,5 @@ To enter and post a stock count, follow these steps:
 [About working with store inventory](about-working-with-store-inventory.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

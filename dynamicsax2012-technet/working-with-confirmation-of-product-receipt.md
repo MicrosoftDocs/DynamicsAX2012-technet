@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with confirmation of product receipt
 TOCTitle: Working with confirmation of product receipt
 ms:assetid: cc69bf45-6bc9-427e-9a1a-05c405520958
@@ -17,6 +17,8 @@ f1_keywords:
 - reject products
 - reject receipt
 - rejected products
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with confirmation of product receipt 
@@ -37,5 +39,5 @@ This section contains the following topics:
 [View a list of product receipts that are unconfirmed](view-a-list-of-product-receipts-that-are-unconfirmed.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

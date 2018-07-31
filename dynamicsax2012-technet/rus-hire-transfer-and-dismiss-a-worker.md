@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Hire, transfer, and dismiss a worker
 TOCTitle: (RUS) Hire, transfer, and dismiss a worker
 ms:assetid: 94fa02a8-4f93-4e90-8efd-e27af9e73781
@@ -50,6 +50,8 @@ f1_keywords:
 - MsDynAx060.Forms.RPayCivilContractType
 - MsDynAx060.Forms.RHRMVirtualNetworkHistoryLine
 - MsDynAx060.Forms.RHRMWorkerListPage
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Hire, transfer, and dismiss a worker 
@@ -636,5 +638,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

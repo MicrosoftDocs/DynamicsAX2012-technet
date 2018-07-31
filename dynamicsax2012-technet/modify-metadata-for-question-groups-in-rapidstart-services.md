@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify metadata for question groups in RapidStart Services
 TOCTitle: Modify metadata for question groups in RapidStart Services
 ms:assetid: 73441555-0dfb-4eb7-a907-2ceb43f5a848
@@ -65,5 +65,5 @@ As the Designer for a Microsoft Dynamics ERP RapidStart Services project, you ca
 [Microsoft Dynamics ERP RapidStart Services](microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

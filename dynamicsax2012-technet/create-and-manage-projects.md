@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and manage projects
 TOCTitle: Create and manage projects
 ms:assetid: 883f4176-86b4-4617-9a05-4cf10768e455
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - create project
 - manage project
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and manage projects 
@@ -55,5 +57,5 @@ The following topics provide information about creating projects and subprojects
 [Create a letter of guarantee request for a new project](create-a-letter-of-guarantee-request-for-a-new-project.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

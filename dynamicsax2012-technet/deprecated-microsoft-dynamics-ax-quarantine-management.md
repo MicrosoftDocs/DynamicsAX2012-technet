@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Microsoft Dynamics AX Quarantine management'
 TOCTitle: Microsoft Dynamics AX Quarantine management
 ms:assetid: 7203f418-3699-418d-9fc5-0e8556492a21
@@ -53,5 +53,5 @@ The quarantine order allows you to block inventory during inspection by transfer
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

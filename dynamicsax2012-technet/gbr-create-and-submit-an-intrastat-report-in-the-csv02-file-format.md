@@ -1,4 +1,4 @@
-﻿---
+---
 title: (GBR) Create and submit an Intrastat report in the CSV02 file format
 TOCTitle: (GBR) Create and submit an Intrastat report in the CSV02 file format
 ms:assetid: a58c635f-f019-4114-8f64-484da74e2ab2
@@ -10,6 +10,8 @@ f1_keywords:
 - Intrastat
 - Create and submit Intrastat reports in the CSV02 file format
 - Great Britain
+audience: Application User
+ms.search.region: United Kingdom
 ---
 
 # (GBR) Create and submit an Intrastat report in the CSV02 file format 
@@ -60,5 +62,5 @@ Before you generate an Intrastat report, you must first transfer transactions fr
 [(GBR) Make diskette for Intrastat in British layout (class form)](https://technet.microsoft.com/en-us/library/aa575118\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select which employee number to upgrade
 TOCTitle: Select which employee number to upgrade
 ms:assetid: 6eb262c8-9c53-44c7-919a-e9100c1c1256
@@ -38,5 +38,5 @@ If you are upgrading to Microsoft Dynamics AX 2012 R2 or AX 2012 R3, you must id
 [Data loss for discarded EmplIds (form)](https://technet.microsoft.com/en-us/library/hh202102\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

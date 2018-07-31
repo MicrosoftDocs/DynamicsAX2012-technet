@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Working with Procurement and sourcing
 TOCTitle: (IND) Working with Procurement and sourcing
 ms:assetid: 67a7e72a-2f4a-436c-bab6-51aa12e9425d
@@ -12,6 +12,8 @@ f1_keywords:
 - sourcing
 - (IND)
 - India
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Working with Procurement and sourcing 
@@ -28,5 +30,5 @@ This section provides information about working with the Procurement and sourcin
 [(IND) Process purchase orders at year end](ind-process-purchase-orders-at-year-end.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

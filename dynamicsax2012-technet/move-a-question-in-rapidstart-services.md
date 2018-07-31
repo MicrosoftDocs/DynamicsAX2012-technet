@@ -1,4 +1,4 @@
-﻿---
+---
 title: Move a question in RapidStart Services
 TOCTitle: Move a question in RapidStart Services
 ms:assetid: 24d5adc6-4744-420a-ac03-1312e0f9f706
@@ -71,5 +71,5 @@ If the question that you are moving includes a dependency or a lookup, this asso
 [Delete a question in RapidStart Services](delete-a-question-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

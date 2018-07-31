@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with general budget reservations (Public sector)
 TOCTitle: Working with general budget reservations (Public sector)
 ms:assetid: 92a0b5de-332b-4ee4-bd11-66032175613a
@@ -12,6 +12,8 @@ f1_keywords:
 - budget reservations
 - general budget reservation
 - general budget reservations
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Working with general budget reservations (Public sector) 
@@ -60,5 +62,5 @@ The topics in this section provide information about working with general budget
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up receipt formats (Retail essentials)
 TOCTitle: Set up receipt formats (Retail essentials)
 ms:assetid: 0139ba32-192b-4c9a-9b6b-a54f89453594
@@ -91,5 +91,5 @@ Use the receipt format designer to graphically create the layout of the form doc
 [Setting up Retail POS (Retail essentials)](setting-up-retail-pos-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) About OIOUBL standards for electronic invoicing
 TOCTitle: (DNK) About OIOUBL standards for electronic invoicing
 ms:assetid: 7cc5b8d2-2a73-4c35-91a0-965974c3e8fd
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - electronic invoicing
 - OIOUBL electronic invoicing
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) About OIOUBL standards for electronic invoicing 
@@ -27,5 +29,5 @@ The electronic invoices and credit notes that you generate include required info
 [(DNK) Configure Microsoft Dynamics AX for OIOUBL electronic invoicing](dnk-configure-microsoft-dynamics-ax-for-oioubl-electronic-invoicing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

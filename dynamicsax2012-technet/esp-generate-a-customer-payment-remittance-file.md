@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Generate a customer payment remittance file
 TOCTitle: (ESP) Generate a customer payment remittance file
 ms:assetid: 7c962c7a-8735-45df-9015-3dd7a6b5c221
@@ -14,6 +14,8 @@ f1_keywords:
 - remittance file format
 - SEPA credit transfer
 - remittance journal
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Generate a customer payment remittance file 
@@ -124,5 +126,5 @@ To generate a remittance file for posted customer invoices, follow these steps:
 [(ESP) Generate a vendor payment remittance file](esp-generate-a-vendor-payment-remittance-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

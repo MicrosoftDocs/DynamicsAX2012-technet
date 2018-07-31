@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report a BOM as finished
 TOCTitle: Report a BOM as finished
 ms:assetid: 158f940f-5414-4344-ac57-32310d90f17c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569796(v=AX.60)
 ms:contentKeyID: 36056063
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Report a BOM as finished 
@@ -48,5 +50,5 @@ You can report a BOM as finished from the following locations:
 [Report BOM as finished (class form)](https://technet.microsoft.com/en-us/library/aa500110\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

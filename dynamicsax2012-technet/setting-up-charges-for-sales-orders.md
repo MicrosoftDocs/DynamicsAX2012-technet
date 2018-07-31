@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up charges for sales orders
 TOCTitle: Setting up charges for sales orders
 ms:assetid: 9d2b479f-db35-4773-aae3-5c8f7a8f704b
@@ -15,6 +15,8 @@ f1_keywords:
 - charge
 - charges
 - misc. charges
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up charges for sales orders 
@@ -37,5 +39,5 @@ The topics in this section provide information about how to set up charges for s
 [Create delivery charges groups](create-delivery-charges-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

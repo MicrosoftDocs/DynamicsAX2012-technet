@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up funds (Public sector)
 TOCTitle: Set up funds (Public sector)
 ms:assetid: ed80aaf4-26b8-4bfe-b566-93d9f6f0818a
@@ -10,6 +10,8 @@ f1_keywords:
 - Public sector
 - set up funds
 - fund
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Set up funds (Public sector) 
@@ -69,5 +71,5 @@ The Governmental Accounting Standards Board (GASB) recommends a set of Generally
 [Funds (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208514\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Generate a fixed asset acquisition statement
 TOCTitle: (LVA) Generate a fixed asset acquisition statement
 ms:assetid: ab3eaf3b-675d-4a01-8ee4-fc223df9e549
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853413(v=AX.60)
 ms:contentKeyID: 50396782
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Generate a fixed asset acquisition statement 
@@ -68,5 +70,5 @@ The fixed asset acquisition statement is a list of all fixed assets acquired dur
 [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

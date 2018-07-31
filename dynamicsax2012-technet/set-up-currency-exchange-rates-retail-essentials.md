@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up currency exchange rates (Retail essentials)
 TOCTitle: Set up currency exchange rates (Retail essentials)
 ms:assetid: 409a0564-592a-4e67-87c8-2d6c520a2484
@@ -46,5 +46,5 @@ To set up exchange rates between currencies, follow these steps:
 [Financials (Retail essentials)](financials-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

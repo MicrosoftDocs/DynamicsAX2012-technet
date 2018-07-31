@@ -1,4 +1,4 @@
-﻿---
+---
 title: Record developments
 TOCTitle: Record developments
 ms:assetid: 604e381e-97e9-4436-972f-ab86ff781874
@@ -10,6 +10,8 @@ f1_keywords:
 - New recruiting development
 - New recruitment development
 - recruiting development
+audience: Application User
+ms.search.region: Global
 ---
 
 # Record developments 
@@ -44,5 +46,5 @@ You can create developments to record events or new conditions that might affect
 [Recruitment projects (form)](https://technet.microsoft.com/en-us/library/aa583986\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

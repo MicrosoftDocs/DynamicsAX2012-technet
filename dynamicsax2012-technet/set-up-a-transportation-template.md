@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a transportation template
 TOCTitle: Set up a transportation template
 ms:assetid: 7bd474cd-4fba-4389-b8d1-74a7de3ee7ac
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.TMSTransportationTemplate
 - transportation template
 - transportation templates
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a transportation template 
@@ -88,5 +90,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Set up a load template](set-up-a-load-template.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

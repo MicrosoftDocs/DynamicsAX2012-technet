@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a new Microsoft Dynamics AX configuration
 TOCTitle: Create a new Microsoft Dynamics AX configuration
 ms:assetid: e508dc82-d780-4eda-bf5d-200228d1c3f1
@@ -44,5 +44,5 @@ Complete the following procedure to create a new configuration of Microsoft Dyna
           - If you are using SQL Server 2014, save the file to: \\Program Files\\Microsoft SQL Server\\MSRS12.\[SSRSInstanceName\]\\Reporting Services\\ReportServer\\bin.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

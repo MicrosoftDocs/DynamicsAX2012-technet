@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Maintain ledger accounts
 TOCTitle: (CHN) Maintain ledger accounts
 ms:assetid: a9437ccf-bff8-4fcd-894f-3eadc1183d62
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664096(v=AX.60)
 ms:contentKeyID: 49384679
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Maintain ledger accounts 
@@ -28,5 +30,5 @@ The topics in this section provide information about how to manage ledger accoun
 [(CHN) Setup to copy or reverse vouchers](chn-setup-to-copy-or-reverse-vouchers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

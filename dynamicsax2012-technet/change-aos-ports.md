@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change AOS ports
 TOCTitle: Change AOS ports
 ms:assetid: 2ba82a8b-bde4-4813-b231-5f025ff89927
@@ -30,5 +30,5 @@ Each AOS instance requires a unique TCP/IP port and services port. By default, e
 [Manage AOS performance and availability](manage-aos-performance-and-availability.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

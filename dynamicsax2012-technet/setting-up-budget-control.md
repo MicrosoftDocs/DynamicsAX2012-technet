@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up budget control
 TOCTitle: Setting up budget control
 ms:assetid: c0788e41-cf3e-4e1a-992a-9687d0cdd096
@@ -11,6 +11,8 @@ f1_keywords:
 - budget
 - configuring budget control
 - budget control
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up budget control 
@@ -25,5 +27,5 @@ The following topics provide information about configuring budget control:
 [Set up budget control](set-up-budget-control.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

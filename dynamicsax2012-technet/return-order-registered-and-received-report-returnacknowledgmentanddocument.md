@@ -1,4 +1,4 @@
-﻿---
+---
 title: Return order registered and received report (ReturnAcknowledgmentAndDocument)
 TOCTitle: Return order registered and received report (ReturnAcknowledgmentAndDocument)
 ms:assetid: 8e6c158b-d88a-46b2-89ee-78dea7c5b0e3
@@ -119,5 +119,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Return orders (form)](https://technet.microsoft.com/en-us/library/hh803010\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

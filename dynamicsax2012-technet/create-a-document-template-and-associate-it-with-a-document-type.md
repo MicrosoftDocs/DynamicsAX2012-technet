@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a document template and associate it with a document type
 TOCTitle: Create a document template and associate it with a document type
 ms:assetid: 5390e4bb-9911-4841-82e5-81cae96c7664
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - bookmarks
 - template integration
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a document template and associate it with a document type 
@@ -82,5 +84,5 @@ Before you begin, you must create a Word template that contains bookmarks where 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Print the TORG-12 report
 TOCTitle: (RUS) Print the TORG-12 report
 ms:assetid: ae130706-e027-4778-aa35-0d99c10305b5
@@ -12,6 +12,8 @@ f1_keywords:
 - RUS
 - lading
 - Torg
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Print the TORG-12 report 
@@ -40,5 +42,5 @@ You can generate the TORG-12 report by using the **Posting invoice** form.
 [(RUS) Customer invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj711658\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About accruing subscriptions
 TOCTitle: About accruing subscriptions
 ms:assetid: ade337ca-171e-4165-b85b-cc512ad43d97
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498590(v=AX.60)
 ms:contentKeyID: 36058933
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About accruing subscriptions 
@@ -136,5 +138,5 @@ You can control the number of ledger transactions that are created when you post
 [Accrue subscription revenue](accrue-subscription-revenue.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

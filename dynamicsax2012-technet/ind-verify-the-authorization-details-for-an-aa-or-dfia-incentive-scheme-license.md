@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Verify the authorization details for an AA or DFIA incentive scheme license
 TOCTitle: (IND) Verify the authorization details for an AA or DFIA incentive scheme license
 ms:assetid: fcef2cf5-790f-42e0-9c74-7ac69c90cbde
@@ -11,6 +11,8 @@ f1_keywords:
 - (IND)
 - India
 - DFIA scheme
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Verify the authorization details for an AA or DFIA incentive scheme license 
@@ -33,5 +35,5 @@ After an application for an export-import (EXIM) license that is eligible for th
 3.  To verify information about goods that have been imported under the license, click the **Lines** FastTab. If multiple lines appear, select the line that displays **Original** in the **License status** field, and then click **Item details**. For more information about the fields in this form, see [(IND) Item details (form)](https://technet.microsoft.com/en-us/library/jj664915\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

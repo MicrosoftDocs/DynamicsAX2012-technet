@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up advanced ledger entries (Public sector)
 TOCTitle: Setting up advanced ledger entries (Public sector)
 ms:assetid: a60f1b18-64cd-4a95-9b2b-6ee3390a7232
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - advanced ledger entry
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Setting up advanced ledger entries (Public sector) 
@@ -22,5 +24,5 @@ The topics in this section provide information about how to set up advanced ledg
 [About advanced ledger entry workflows (Public sector)](about-advanced-ledger-entry-workflows-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

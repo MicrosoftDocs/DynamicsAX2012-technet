@@ -1,4 +1,4 @@
-﻿---
+---
 title: Increase or decrease the letter of guarantee value
 TOCTitle: Increase or decrease the letter of guarantee value
 ms:assetid: 4a5558a5-0607-462e-a0b8-d843726f2fcd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208707(v=AX.60)
 ms:contentKeyID: 36056962
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Increase or decrease the letter of guarantee value 
@@ -114,5 +116,5 @@ Click **Project management and accounting** \> **Common** \> **Projects** \> **A
 [Request and issue the letter of guarantee](request-and-issue-the-letter-of-guarantee.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Modify official information on a primary document
 TOCTitle: (LTU) Modify official information on a primary document
 ms:assetid: d81d35e1-036d-4e49-aea4-e3eac9cf7937
@@ -12,6 +12,8 @@ f1_keywords:
 - director
 - primary document
 - post an invoice
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Modify official information on a primary document 
@@ -52,5 +54,5 @@ Before you generate and post an invoice for a primary document, such as a sales 
 [(EEUR) Officials (form)](https://technet.microsoft.com/en-us/library/jj710672\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Verifying expense reports
 TOCTitle: Verifying expense reports
 ms:assetid: 24c77b34-1b58-41d5-bd56-82da9be2979b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - expenses
 - expense
+audience: Application User
+ms.search.region: Global
 ---
 
 # Verifying expense reports 
@@ -29,5 +31,5 @@ Before an expense report can be approved, it must complete an approval process t
 [Configure work item queues](configure-work-item-queues.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

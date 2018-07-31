@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register postdated checks for customers
 TOCTitle: Register postdated checks for customers
 ms:assetid: f3847b57-6b24-4712-9db5-b6b59a4f768d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227528(v=AX.60)
 ms:contentKeyID: 36059978
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register postdated checks for customers 
@@ -22,5 +24,5 @@ The following topics provide information about registering and maintaining postd
 [Register and post a replacement postdated check from a customer](register-and-post-a-replacement-postdated-check-from-a-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

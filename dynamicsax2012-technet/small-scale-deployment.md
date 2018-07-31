@@ -1,4 +1,4 @@
-﻿---
+---
 title: Small-scale deployment
 TOCTitle: Small-scale deployment
 ms:assetid: 71bfc45d-c7a8-489a-a945-145c58bf251d
@@ -67,5 +67,5 @@ The following list describes how the computers in this sample topology are used:
 [Large-scale deployment](large-scale-deployment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up replenishment service categories
 TOCTitle: Set up replenishment service categories
 ms:assetid: 963937be-a19a-4543-9662-57f1fcf76c70
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597176(v=AX.60)
 ms:contentKeyID: 39519237
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up replenishment service categories 
@@ -30,5 +32,5 @@ The service category can be set up to provide information about the availability
 [Replenish inventory overview](replenish-inventory-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

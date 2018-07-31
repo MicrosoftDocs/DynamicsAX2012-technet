@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Settle a partial customer payment and settle the final payment in full before the discount date'
 TOCTitle: 'Scenario: Settle a partial customer payment and settle the final payment in full before the discount date'
 ms:assetid: 9d434af1-8628-4188-b957-146deda27be9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545526(v=AX.60)
 ms:contentKeyID: 37832518
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Settle a partial customer payment and settle the final payment in full before the discount date 
@@ -688,5 +690,5 @@ Arnie posts this journal and reviews the customer transactions in the **Customer
 [Scenario: Settle a partial customer payment that has discounts on credit notes](scenario-settle-a-partial-customer-payment-that-has-discounts-on-credit-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

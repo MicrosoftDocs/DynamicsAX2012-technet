@@ -1,4 +1,4 @@
-﻿---
+---
 title: About payment types
 TOCTitle: About payment types
 ms:assetid: 601ca7c0-813f-4d3c-ae8d-28db307081e4
@@ -10,6 +10,8 @@ f1_keywords:
 - type
 - types
 - payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # About payment types 
@@ -64,5 +66,5 @@ For the **Electronic payment** payment type, validation occurs when you generate
 [Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

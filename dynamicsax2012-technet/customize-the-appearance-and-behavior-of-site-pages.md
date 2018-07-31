@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customize the appearance and behavior of site pages
 TOCTitle: Customize the appearance and behavior of site pages
 ms:assetid: eb612216-bf56-4a68-acf1-f80a90091a80
@@ -166,5 +166,5 @@ The Welcome page for the starter store contains a slide show with a counter. Thi
 [Execute basic tasks using the JavaScript object model](http://go.microsoft.com/fwlink/?linkid=301743&clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

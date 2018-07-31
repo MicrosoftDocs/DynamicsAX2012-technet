@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the assessed tax code in the fixed assets record card
 TOCTitle: (RUS) Set up the assessed tax code in the fixed assets record card
 ms:assetid: 5dad8370-8624-4ceb-a901-336c079bf782
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665428(v=AX.60)
 ms:contentKeyID: 49387516
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the assessed tax code in the fixed assets record card 
@@ -42,5 +44,5 @@ Under Section 30 of the RF tax code on Company Property, movable and real proper
 [(RUS) Asset tax and transport tax filling in fixed asset table (form)](https://technet.microsoft.com/en-us/library/jj711467\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

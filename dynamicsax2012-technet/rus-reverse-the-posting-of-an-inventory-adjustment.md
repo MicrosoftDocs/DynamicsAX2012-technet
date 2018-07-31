@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Reverse the posting of an inventory adjustment
 TOCTitle: (RUS) Reverse the posting of an inventory adjustment
 ms:assetid: 7e5a23ee-fa2d-4010-be74-8444e15a972b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678401(v=AX.60)
 ms:contentKeyID: 49387631
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Reverse the posting of an inventory adjustment 
@@ -70,5 +72,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(RUS) Set up reverse transactions](rus-set-up-reverse-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

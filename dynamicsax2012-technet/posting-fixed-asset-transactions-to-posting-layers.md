@@ -1,4 +1,4 @@
-﻿---
+---
 title: Posting fixed asset transactions to posting layers
 TOCTitle: Posting fixed asset transactions to posting layers
 ms:assetid: 18613bf1-5002-4ae3-8017-1a6d420b5504
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569909(v=AX.60)
 ms:contentKeyID: 36056098
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Posting fixed asset transactions to posting layers 
@@ -38,5 +40,5 @@ You can designate ledger accounts for fixed asset transactions in the **Fixed as
 [About posting with derived value models](about-posting-with-derived-value-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Benchmark white papers
 TOCTitle: Benchmark white papers
 ms:assetid: 3f25f10b-7684-43d6-9eb0-092da7d0d1f5
@@ -28,5 +28,5 @@ The papers in this section provide information about the benchmark results that 
 [Retail Benchmark for Microsoft Dynamics AX 2012 R2](retail-benchmark-for-microsoft-dynamics-ax-2012-r2.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

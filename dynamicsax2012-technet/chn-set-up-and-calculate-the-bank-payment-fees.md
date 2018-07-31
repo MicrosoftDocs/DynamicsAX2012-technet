@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Set up and calculate the bank payment fees
 TOCTitle: (CHN) Set up and calculate the bank payment fees
 ms:assetid: cf8b1bc1-9bc1-47d3-9901-443175a27d06
@@ -12,6 +12,8 @@ f1_keywords:
 - Forms.LedgerJournalTransVendPaym
 - Forms.LedgerJournalTable
 - Forms.PaymFeeBankRule_JP
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Set up and calculate the bank payment fees 
@@ -189,5 +191,5 @@ When you post the payment, the bank payment fees are deducted from the vendor pa
 [Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

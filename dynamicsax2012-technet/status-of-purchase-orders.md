@@ -1,4 +1,4 @@
-﻿---
+---
 title: Status of purchase orders
 TOCTitle: Status of purchase orders
 ms:assetid: 87d11d99-80d0-43f2-af17-68e7780bd7e9
@@ -20,6 +20,8 @@ f1_keywords:
 - purchase totals
 - PO
 - POs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Status of purchase orders 
@@ -42,5 +44,5 @@ The topics in this section provide information about the status of purchase orde
 [Print the status of a purchase agreement](print-the-status-of-a-purchase-agreement.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

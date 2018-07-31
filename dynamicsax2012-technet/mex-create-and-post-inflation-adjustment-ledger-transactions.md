@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Create and post inflation adjustment ledger transactions
 TOCTitle: (MEX) Create and post inflation adjustment ledger transactions
 ms:assetid: 55163329-e611-47b3-b2d8-f900f04da137
@@ -11,6 +11,8 @@ f1_keywords:
 - ledger transactions
 - adjustment
 - inflation
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Create and post inflation adjustment ledger transactions 
@@ -63,5 +65,5 @@ You can run a simulation of the inflation adjustment process before creating an 
 [(MEX) Set up the inflation adjustment parameters](mex-set-up-the-inflation-adjustment-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

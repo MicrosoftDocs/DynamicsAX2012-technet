@@ -1,4 +1,4 @@
-﻿---
+---
 title: Distribute costs or quantities
 TOCTitle: Distribute costs or quantities
 ms:assetid: b0a5b3c6-c288-41df-a059-2ec6939f3a49
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498641(v=AX.60)
 ms:contentKeyID: 36058964
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Distribute costs or quantities 
@@ -63,5 +65,5 @@ Before you can distribute costs or quantities, you must create a calculation ver
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

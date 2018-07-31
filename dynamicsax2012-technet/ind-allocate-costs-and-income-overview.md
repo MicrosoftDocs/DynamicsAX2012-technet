@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Allocate costs and income overview
 TOCTitle: (IND) Allocate costs and income overview
 ms:assetid: 6a866f73-5db5-45a6-bcd4-88a20f647cbb
@@ -11,6 +11,8 @@ f1_keywords:
 - india
 - Allocate costs
 - allocate income
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Allocate costs and income overview 
@@ -25,5 +27,5 @@ The topics in this section provide information about allocating costs and income
 [(IND) EXIM Export Promotion Capital Goods (EPCG) incentive scheme transactions](ind-exim-export-promotion-capital-goods-epcg-incentive-scheme-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

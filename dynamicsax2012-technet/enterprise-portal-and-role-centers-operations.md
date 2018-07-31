@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Portal and Role Centers operations
 TOCTitle: Enterprise Portal and Role Centers operations
 ms:assetid: db512d90-b949-4f5d-9914-d796c7b71c3e
@@ -20,5 +20,5 @@ The topics in this section provide information about how to configure and mainta
 [Configure Role Centers](configure-role-centers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

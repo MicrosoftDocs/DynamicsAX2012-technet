@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Set up vendor add requests'
 TOCTitle: 'Key tasks: Set up vendor add requests'
 ms:assetid: 7cf92c10-76ff-4090-b9d6-15b97ffa6521
@@ -11,6 +11,8 @@ f1_keywords:
 - vendors
 - vendor request
 - vendor requests
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Set up vendor add requests 
@@ -131,5 +133,5 @@ Back to top
 [Configuring Enterprise Portal for vendor requests](configuring-enterprise-portal-for-vendor-requests.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

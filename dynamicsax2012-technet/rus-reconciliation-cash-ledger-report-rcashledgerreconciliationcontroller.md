@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Reconciliation cash ledger report (RCashLedgerReconciliationController)
 TOCTitle: (RUS) Reconciliation cash ledger report (RCashLedgerReconciliationController)
 ms:assetid: 9195ab1b-9858-4682-b445-abdc5314254f
@@ -140,5 +140,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(RUS) Reconcile posted transactions](rus-reconcile-posted-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

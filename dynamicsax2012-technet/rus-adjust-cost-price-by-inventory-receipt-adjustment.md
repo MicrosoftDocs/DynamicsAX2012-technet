@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Adjust cost price by inventory receipt adjustment
 TOCTitle: (RUS) Adjust cost price by inventory receipt adjustment
 ms:assetid: f6b125bd-3378-42d0-a986-86653aff13a3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678619(v=AX.60)
 ms:contentKeyID: 49388101
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Adjust cost price by inventory receipt adjustment 
@@ -63,5 +65,5 @@ You can perform separate cost price adjustments in default and secondary currenc
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

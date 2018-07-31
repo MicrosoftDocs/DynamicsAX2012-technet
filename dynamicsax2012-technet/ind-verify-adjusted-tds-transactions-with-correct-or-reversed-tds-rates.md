@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Verify adjusted TDS transactions with correct or reversed TDS rates
 TOCTitle: (IND) Verify adjusted TDS transactions with correct or reversed TDS rates
 ms:assetid: d7d0ba34-e759-479a-a6f0-209f313719f5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664927(v=AX.60)
 ms:contentKeyID: 49386256
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Verify adjusted TDS transactions with correct or reversed TDS rates 
@@ -36,5 +38,5 @@ You can verify adjusted TDS transactions with correct or reversed TDS rates.
 10. Close the forms.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

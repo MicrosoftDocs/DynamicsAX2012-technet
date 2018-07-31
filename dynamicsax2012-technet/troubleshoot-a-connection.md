@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot a connection
 TOCTitle: Troubleshoot a connection
 ms:assetid: 038b12e9-0218-4fca-8737-9c38184fe155
@@ -42,5 +42,5 @@ If you’re using AX 2012 R2 or AX 2012 Feature Pack, use the following troubles
   - Bypass Internet Protocol security (IPsec) for the location and in the Synch Service settings on the location computer. For information about how to bypass IPsec, see [Configure or bypass IPsec for Synch Service](configure-or-bypass-ipsec-for-synch-service.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

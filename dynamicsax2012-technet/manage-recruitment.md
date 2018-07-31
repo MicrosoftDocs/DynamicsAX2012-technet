@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage recruitment
 TOCTitle: Manage recruitment
 ms:assetid: 6a8da444-bc8e-4101-b4b6-b528057eb282
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231771(v=AX.60)
 ms:contentKeyID: 37072057
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage recruitment 
@@ -24,5 +26,5 @@ Topics in this section provide information about the tools in Human resources th
 [(USA) Recruit online with Sites Services](https://technet.microsoft.com/en-us/library/hh209126\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

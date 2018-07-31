@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Basic setup of Fixed assets
 TOCTitle: (RUS) Basic setup of Fixed assets
 ms:assetid: 9c6ca7c3-9172-449f-9953-3954f3f5a428
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678528(v=AX.60)
 ms:contentKeyID: 49387757
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Basic setup of Fixed assets 
@@ -66,5 +68,5 @@ The following topics provide information about the basic setup of fixed assets.
 [(RUS) Set up fixed asset groups](rus-set-up-fixed-asset-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

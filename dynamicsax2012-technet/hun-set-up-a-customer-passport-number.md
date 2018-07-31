@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up a customer passport number
 TOCTitle: (HUN) Set up a customer passport number
 ms:assetid: 4636289f-7d2e-491b-97af-fc5b4d289408
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - passport number
 - VAT reimbursement
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up a customer passport number 
@@ -37,5 +39,5 @@ A customer who is a person living outside of the European Union (EU) might reque
 6.  In the **Issuer country/region** field, select the country/region that issued the passport to the customer.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

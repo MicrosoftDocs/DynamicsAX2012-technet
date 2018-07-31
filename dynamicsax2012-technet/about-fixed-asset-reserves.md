@@ -1,4 +1,4 @@
-﻿---
+---
 title: About fixed asset reserves
 TOCTitle: About fixed asset reserves
 ms:assetid: f7e28b14-0617-4650-acf3-9b1037f59f5e
@@ -13,6 +13,8 @@ f1_keywords:
 - fixed assets reverses
 - fixed asset reverses
 - fixed asset reverse
+audience: Application User
+ms.search.region: Global
 ---
 
 # About fixed asset reserves 
@@ -43,5 +45,5 @@ The **Transfer from reserve** accounts are for dissolution of the reserves. The 
 [Set up fixed asset posting profiles](set-up-fixed-asset-posting-profiles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

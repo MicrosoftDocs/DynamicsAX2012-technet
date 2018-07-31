@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Settle a customer payment with an invoice'
 TOCTitle: 'Scenario: Settle a customer payment with an invoice'
 ms:assetid: eace0014-819e-482d-8461-0d699f3879d1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545537(v=AX.60)
 ms:contentKeyID: 37832547
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Settle a customer payment with an invoice 
@@ -120,5 +122,5 @@ Contoso’s balance is now 0.00.
 [Scenario: Settle a partial customer payment that has discounts on credit notes](scenario-settle-a-partial-customer-payment-that-has-discounts-on-credit-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

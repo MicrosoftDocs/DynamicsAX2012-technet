@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create, modify, and delete employee goals
 TOCTitle: Create, modify, and delete employee goals
 ms:assetid: c1dbbe51-6c23-4a5e-a0c5-1202b16fb5e0
@@ -14,6 +14,8 @@ f1_keywords:
 - HcmEPGoalNoteEdit
 - HcmEPGoalNoteInfo
 - HcmMyEmployeeGoalListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create, modify, and delete employee goals 
@@ -106,5 +108,5 @@ You can add a comment to a goal to provide additional information about the goal
 [Add and remove goal comments](add-and-remove-goal-comments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

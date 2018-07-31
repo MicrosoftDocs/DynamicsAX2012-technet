@@ -1,4 +1,4 @@
-﻿---
+---
 title: About catch weight items
 TOCTitle: About catch weight items
 ms:assetid: d0714a35-3569-4001-89e8-a601246db894
@@ -14,6 +14,8 @@ f1_keywords:
 - process industries
 - CW
 - catch weight item
+audience: Application User
+ms.search.region: Global
 ---
 
 # About catch weight items 
@@ -64,5 +66,5 @@ When you reserve inventory for a catch weight item that uses full visibility and
 [Unit conversions (form)](https://technet.microsoft.com/en-us/library/hh209285\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

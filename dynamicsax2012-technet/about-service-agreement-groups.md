@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service agreement groups
 TOCTitle: About service agreement groups
 ms:assetid: a3a5e85b-5a3d-4da8-b0c7-25c12ead8118
@@ -11,6 +11,8 @@ f1_keywords:
 - service agreement
 - service agreement groups
 - service agreements
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service agreement groups 
@@ -35,5 +37,5 @@ A new service account manager has been employed in your company. The service man
 [Create service agreement groups](create-service-agreement-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

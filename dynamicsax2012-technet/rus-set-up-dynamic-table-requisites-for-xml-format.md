@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up dynamic table requisites for XML format
 TOCTitle: (RUS) Set up dynamic table requisites for XML format
 ms:assetid: 29359e1d-33a0-496e-8d39-cf910556806c
@@ -12,6 +12,8 @@ f1_keywords:
 - requisites
 - dynamic requisite
 - table requisite
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up dynamic table requisites for XML format 
@@ -62,5 +64,5 @@ Dynamic table requisites are uniform requisites that can be consolidated into a 
 [(RUS) Set up dynamic table requisites for text formats](rus-set-up-dynamic-table-requisites-for-text-formats.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

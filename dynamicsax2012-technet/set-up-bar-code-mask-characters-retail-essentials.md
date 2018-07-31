@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up bar code mask characters (Retail essentials)
 TOCTitle: Set up bar code mask characters (Retail essentials)
 ms:assetid: 8937751a-8288-43fd-9261-d1a85003570f
@@ -44,5 +44,5 @@ To set up mask characters for bar codes, follow these steps:
 [Setting up bar codes (Retail essentials)](setting-up-bar-codes-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

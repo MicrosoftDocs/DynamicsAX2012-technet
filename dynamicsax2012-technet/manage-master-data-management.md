@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage Master Data Management
 TOCTitle: Manage Master Data Management
 ms:assetid: bb7e73cc-0050-4989-877a-79dae52a701f
@@ -118,5 +118,5 @@ To view log messages that are related to synchronization operations, follow thes
 6.  When you have finished, click **Close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

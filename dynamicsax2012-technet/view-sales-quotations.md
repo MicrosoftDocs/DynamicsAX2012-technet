@@ -1,4 +1,4 @@
-﻿---
+---
 title: View sales quotations
 TOCTitle: View sales quotations
 ms:assetid: 93a2d9cc-7364-4e2a-aa85-743beb75b5b4
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPSalesQuotationTableInfo
 - EPSalesQuotationTableList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View sales quotations 
@@ -29,5 +31,5 @@ You can use the **All quotations** page to view a list of sales quotations that 
 [Create or edit a sales quotation](create-or-edit-a-sales-quotation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

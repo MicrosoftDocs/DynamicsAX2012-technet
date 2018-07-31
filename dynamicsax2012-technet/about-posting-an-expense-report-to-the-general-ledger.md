@@ -1,4 +1,4 @@
-﻿---
+---
 title: About posting an expense report to the general ledger
 TOCTitle: About posting an expense report to the general ledger
 ms:assetid: e85f5e8f-5873-4684-9810-70e9ce5b39a2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243239(v=AX.60)
 ms:contentKeyID: 36059828
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About posting an expense report to the general ledger 
@@ -24,5 +26,5 @@ To post an expense report:
     You can approve all of the expense reports in the list by clicking **Post** \> **All**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add images and customer service scripts to item information
 TOCTitle: Add images and customer service scripts to item information
 ms:assetid: 098cad47-1a31-4851-b919-4a540b6d3cad
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailMCRChannelListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add images and customer service scripts to item information 
@@ -107,5 +109,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

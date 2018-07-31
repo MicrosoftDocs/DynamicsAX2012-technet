@@ -1,4 +1,4 @@
-﻿---
+---
 title: View unpaid customer invoices
 TOCTitle: View unpaid customer invoices
 ms:assetid: 3ef257e3-b760-458d-a099-1370a8cb93a2
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPCustUnpaidInvoice
+audience: Application User
+ms.search.region: Global
 ---
 
 # View unpaid customer invoices 
@@ -30,5 +32,5 @@ Use the **Unpaid customer invoices** page to view a list of customer invoices th
 [Enterprise Portal and Microsoft Excel](enterprise-portal-and-microsoft-excel.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

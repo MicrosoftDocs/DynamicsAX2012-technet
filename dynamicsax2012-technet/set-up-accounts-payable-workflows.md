@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Accounts payable workflows
 TOCTitle: Set up Accounts payable workflows
 ms:assetid: 5fbf73a4-d3ec-433a-943d-c7529fd5d782
@@ -16,6 +16,8 @@ f1_keywords:
 - payable
 - journal
 - journals
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up Accounts payable workflows 
@@ -362,5 +364,5 @@ You can assign a workflow element to the following groups of participants.
 [Key tasks: Vendor invoice policies](key-tasks-vendor-invoice-policies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

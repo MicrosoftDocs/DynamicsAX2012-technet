@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create service tax codes
 TOCTitle: (IND) Create service tax codes
 ms:assetid: 1255067f-f900-4bbe-98fa-c7bb6976beb3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664498(v=AX.60)
 ms:contentKeyID: 49385577
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create service tax codes 
@@ -44,5 +46,5 @@ You can create service tax codes for the service tax that your organization calc
 [(IND) Values of sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664855\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

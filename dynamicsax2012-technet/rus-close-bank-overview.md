@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Close bank overview
 TOCTitle: (RUS) Close bank overview
 ms:assetid: 07aa165d-2107-426c-aaf6-b5fdd8591016
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711367(v=AX.60)
 ms:contentKeyID: 49387185
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Close bank overview 
@@ -34,5 +36,5 @@ The topics in this section provide information about the tasks that are related 
 [(RUS) Generate the cash statement report](rus-generate-the-cash-statement-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

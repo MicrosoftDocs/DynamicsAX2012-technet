@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'About Commerce Data Exchange: Async Client (Retail essentials)'
 TOCTitle: 'About Commerce Data Exchange: Async Client (Retail essentials)'
 ms:assetid: c8385b73-cd4e-4da6-82cd-548e1acedb97
@@ -41,5 +41,5 @@ Async Client uses a message database to store status information for data transf
 [Commerce Data Exchange](commerce-data-exchange.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

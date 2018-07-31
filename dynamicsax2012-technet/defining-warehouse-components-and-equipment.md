@@ -1,4 +1,4 @@
-﻿---
+---
 title: Defining warehouse components and equipment
 TOCTitle: Defining warehouse components and equipment
 ms:assetid: 20196678-4379-4a59-a877-e38a950393ce
@@ -17,6 +17,8 @@ f1_keywords:
 - inventory
 - equipment
 - fallback
+audience: Application User
+ms.search.region: Global
 ---
 
 # Defining warehouse components and equipment 
@@ -51,5 +53,5 @@ The topics in this section provide information about how to define the component
 [Set up fallback warehouses for sites](set-up-fallback-warehouses-for-sites.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

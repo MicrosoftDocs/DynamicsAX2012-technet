@@ -1,4 +1,4 @@
-﻿---
+---
 title: Posting sales tax amounts for intercompany transactions (White paper)
 TOCTitle: Posting sales tax amounts for intercompany transactions (White paper)
 ms:assetid: bf278bcd-5468-4ec8-91b4-0744f19fadae
@@ -16,5 +16,5 @@ In Microsoft Dynamics AX 2012, you can create intercompany transactions, which a
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=280023%26clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

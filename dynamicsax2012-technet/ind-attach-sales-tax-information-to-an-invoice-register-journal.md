@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Attach sales tax information to an Invoice register journal
 TOCTitle: (IND) Attach sales tax information to an Invoice register journal
 ms:assetid: ba3c890f-704a-43df-8c8b-5e05cc78dbed
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664840(v=AX.60)
 ms:contentKeyID: 49386170
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Attach sales tax information to an Invoice register journal 
@@ -64,5 +66,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

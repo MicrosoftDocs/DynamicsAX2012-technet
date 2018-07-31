@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up consumption depreciation
 TOCTitle: Set up consumption depreciation
 ms:assetid: 96c94398-7dd5-4310-bd7b-399834782940
@@ -13,6 +13,8 @@ f1_keywords:
 - consumption factor
 - consumption unit
 - factor
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up consumption depreciation 
@@ -71,5 +73,5 @@ A consumption unit can be used as a reference for unit price entry for fixed ass
 [Consumption factors (form)](https://technet.microsoft.com/en-us/library/aa571869\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

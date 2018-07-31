@@ -1,4 +1,4 @@
-﻿---
+---
 title: Testing products (sample)
 TOCTitle: Testing products (sample)
 ms:assetid: 1477a927-bd29-447d-80ed-6563d922dfcf
@@ -14,6 +14,8 @@ f1_keywords:
 - non conformance
 - quality order
 - testing product
+audience: Application User
+ms.search.region: Global
 ---
 
 # Testing products (sample) 
@@ -36,5 +38,5 @@ The topics in this section provide information about how to test products.
 [Test products and quality management overview](test-products-and-quality-management-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

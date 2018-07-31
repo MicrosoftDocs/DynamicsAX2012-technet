@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) View ledger account information
 TOCTitle: (CHN) View ledger account information
 ms:assetid: 10bdb437-3b8e-41b7-9058-58c9b650e507
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663996(v=AX.60)
 ms:contentKeyID: 49384582
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) View ledger account information 
@@ -166,5 +168,5 @@ Use the **Trial balance** form to view the list of voucher transactions for a pa
 [(CHN) Trial balance (form)](https://technet.microsoft.com/en-us/library/jj664069\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

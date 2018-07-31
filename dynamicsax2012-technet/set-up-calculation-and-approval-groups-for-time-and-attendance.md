@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up calculation and approval groups for time and attendance
 TOCTitle: Set up calculation and approval groups for time and attendance
 ms:assetid: 996c8b4e-9fa9-4cb8-b9d6-7a73867b4615
@@ -11,6 +11,8 @@ f1_keywords:
 - approval
 - calculation
 - password
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up calculation and approval groups for time and attendance 
@@ -59,5 +61,5 @@ All workers who make registrations in **Time and attendance**, or **Manufacturin
 [About time registration workers](about-time-registration-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

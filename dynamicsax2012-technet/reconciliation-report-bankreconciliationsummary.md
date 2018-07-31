@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reconciliation report (BankReconciliationSummary)
 TOCTitle: Reconciliation report (BankReconciliationSummary)
 ms:assetid: d5b2e6f1-1cf2-42b4-b6f3-9565b4186f56
@@ -120,5 +120,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

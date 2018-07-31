@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Set up vendor extension requests'
 TOCTitle: 'Key tasks: Set up vendor extension requests'
 ms:assetid: e73c2b14-d8cb-491b-ae1e-b74db0319f05
@@ -13,6 +13,8 @@ f1_keywords:
 - add to another legal entity
 - set up vendor extension request
 - vendor extension
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Set up vendor extension requests 
@@ -101,5 +103,5 @@ Back to top
 [Vendor request configurations (form)](https://technet.microsoft.com/en-us/library/hh209430\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Duplicate company feature'
 TOCTitle: Duplicate company feature
 ms:assetid: b323d938-4839-4e2d-b67d-ed61af57cc25
@@ -56,5 +56,5 @@ In Microsoft Dynamics AX 2009, the **Company accounts** form contains a Duplicat
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

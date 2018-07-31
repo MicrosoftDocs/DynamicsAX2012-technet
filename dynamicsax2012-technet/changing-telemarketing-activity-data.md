@@ -1,4 +1,4 @@
-﻿---
+---
 title: Changing telemarketing activity data
 TOCTitle: Changing telemarketing activity data
 ms:assetid: ecb04e11-c390-4e92-9379-4e1a412c389f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551529(v=AX.60)
 ms:contentKeyID: 36059895
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Changing telemarketing activity data 
@@ -66,5 +68,5 @@ If you add a responsible worker to the telemarketing call list later, the value 
 Changes that you make to the data for the activity for a telemarketing call list do not affect the target of the telemarketing call list on which it is based.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

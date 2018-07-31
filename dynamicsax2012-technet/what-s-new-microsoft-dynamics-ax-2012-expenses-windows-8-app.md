@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Microsoft Dynamics AX 2012 Expenses  Windows 8 App"
 TOCTitle: Microsoft Dynamics AX 2012 Expenses  Windows 8 App
 ms:assetid: fe3f970f-514d-41c9-a393-b311d59b50de
@@ -98,5 +98,5 @@ Microsoft released the Windows 8 Expenses App. This app is compatible only with 
 This app is available in the [Windows App Store](http://apps.microsoft.com/windows/en-us/app/dynamics-ax-2012-expenses/07aab6f9-c6ce-4b81-b04c-4b43c3f6de67).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

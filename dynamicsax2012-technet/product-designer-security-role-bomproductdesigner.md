@@ -1,4 +1,4 @@
-﻿---
+---
 title: Product designer security role (BOMProductDesigner)
 TOCTitle: Product designer security role (BOMProductDesigner)
 ms:assetid: 1e40047d-9e1f-4318-9e52-ea8b75e3a567
@@ -171,5 +171,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

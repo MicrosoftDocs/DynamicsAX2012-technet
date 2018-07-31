@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up and use a sales tax hierarchy
 TOCTitle: (IND) Set up and use a sales tax hierarchy
 ms:assetid: 85f0f5b0-7968-49d9-823a-656c4a83b7f0
@@ -29,6 +29,8 @@ f1_keywords:
 - MsDynAx060.Forms.TaxSalesTaxPaymentHistory_IN
 - MsDynAx060.Forms.TaxReportHierarchySetOffRules_IN
 - MsDynAx060.Forms.TaxReportSetOffHierarchySetup_IN
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up and use a sales tax hierarchy 
@@ -412,5 +414,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

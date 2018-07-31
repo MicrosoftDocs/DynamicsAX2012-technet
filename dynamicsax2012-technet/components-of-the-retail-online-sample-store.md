@@ -1,4 +1,4 @@
-﻿---
+---
 title: Components of the Retail online sample store
 TOCTitle: Components of the Retail online sample store
 ms:assetid: 21d00b1c-9e8c-4726-a5fc-34ec451a4403
@@ -71,5 +71,5 @@ This section contains reference documentation for the elements that make up the 
 [Retail online store publishing architecture](retail-online-store-publishing-architecture.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

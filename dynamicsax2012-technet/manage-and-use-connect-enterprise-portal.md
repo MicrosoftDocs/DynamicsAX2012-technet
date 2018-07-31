@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage and use Connect (Enterprise Portal)
 TOCTitle: Manage and use Connect (Enterprise Portal)
 ms:assetid: 1f47cb15-99a5-44bf-ba7e-cd6c96e5ec38
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208464(v=AX.60)
 ms:contentKeyID: 36056150
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage and use Connect (Enterprise Portal) 
@@ -72,5 +74,5 @@ The following table describes the icons on the Connect Web part. You can use the
 [Common page elements](common-page-elements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

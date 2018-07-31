@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) About recalculation of indirect taxes
 TOCTitle: (IND) About recalculation of indirect taxes
 ms:assetid: c3d8058e-a09f-4d9a-b20b-df4b2abf3e95
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730998(v=AX.60)
 ms:contentKeyID: 49675240
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) About recalculation of indirect taxes 
@@ -662,5 +664,5 @@ The sections in this topic list the forms and fields that will cause the indirec
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

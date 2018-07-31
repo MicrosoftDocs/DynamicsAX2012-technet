@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for warehoused items
 TOCTitle: (RUS) Set up a register for warehoused items
 ms:assetid: af4e27ad-254f-40ef-978c-3815f400d392
@@ -10,6 +10,8 @@ f1_keywords:
 - warehouse
 - set up a register
 - warehoused items
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for warehoused items 
@@ -82,5 +84,5 @@ The **Warehoused items** register contains the following information:
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

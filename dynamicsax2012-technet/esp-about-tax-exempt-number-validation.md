@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) About tax-exempt number validation
 TOCTitle: (ESP) About tax-exempt number validation
 ms:assetid: 7a550539-d1c0-445c-8a7e-9e4c7ffd3f81
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Spain
 - tax-exempt number
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) About tax-exempt number validation 
@@ -53,5 +55,5 @@ The NIE is issued to foreign individuals who reside in Spain. It consists of nin
 [Tax exempt numbers (form)](https://technet.microsoft.com/en-us/library/aa583706\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

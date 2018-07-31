@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up parameters for SPED fiscal text files
 TOCTitle: (BRA) Set up parameters for SPED fiscal text files
 ms:assetid: 030e469b-6b42-44e0-8389-bc5d91822071
@@ -8,6 +8,8 @@ ms.date: 06/07/2014
 mtps_version: v=AX.60
 f1_keywords:
 - forms.FBTaxStatementSetupParameters_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up parameters for SPED fiscal text files 
@@ -50,5 +52,5 @@ The Sistema Publico de Escrituração Digital (SPED) fiscal text files contain i
 [(BRA) Generate the SPED fiscal export file for a month](bra-generate-the-sped-fiscal-export-file-for-a-month.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

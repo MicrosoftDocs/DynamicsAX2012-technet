@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post vendor invoices as credit corrections
 TOCTitle: (RUS) Post vendor invoices as credit corrections
 ms:assetid: 6071c514-6ee4-4a40-9bd2-187c6c41e5e5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733236(v=AX.60)
 ms:contentKeyID: 49685203
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post vendor invoices as credit corrections 
@@ -56,5 +58,5 @@ You can create and post vendor invoices as credit corrections for return item tr
 [(RUS) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj733265\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

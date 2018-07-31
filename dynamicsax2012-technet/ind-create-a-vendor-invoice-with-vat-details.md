@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create a vendor invoice with VAT details
 TOCTitle: (IND) Create a vendor invoice with VAT details
 ms:assetid: b8590d24-961b-4549-b927-96b2b65fac17
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664810(v=AX.60)
 ms:contentKeyID: 49386140
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create a vendor invoice with VAT details 
@@ -64,5 +66,5 @@ You must record an invoice that you received from a vendor in the **Vendor invoi
 [(IND) Define TINs for vendors](ind-define-tins-for-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

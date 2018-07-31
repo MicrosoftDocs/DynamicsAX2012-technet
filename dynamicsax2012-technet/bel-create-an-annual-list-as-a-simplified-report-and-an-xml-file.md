@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Create an annual list as a simplified report and an .xml file
 TOCTitle: (BEL) Create an annual list as a simplified report and an .xml file
 ms:assetid: 44d26801-d2a6-4903-8d2a-e5ad7e7adae8
@@ -11,6 +11,8 @@ f1_keywords:
 - annual list
 - EU sales list
 - XML file
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Create an annual list as a simplified report and an .xml file 
@@ -49,5 +51,5 @@ Use the **Invoice turnover report** report to print a simplified report and an o
 [(BEL) Invoice turnover report (CustInvoiceVolume\_BE)](bel-invoice-turnover-report-custinvoicevolume-be.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

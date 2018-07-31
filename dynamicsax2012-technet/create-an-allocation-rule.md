@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an allocation rule
 TOCTitle: Create an allocation rule
 ms:assetid: 96b6dbbf-d3a9-4bea-a549-7b625a6dc247
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - allocation rule
 - create allocation rule
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an allocation rule 
@@ -75,5 +77,5 @@ Starting with cumulative update 7 for Microsoft Dynamics AX 2012 R2, you can als
 [Date intervals (form)](https://technet.microsoft.com/en-us/library/aa558459\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

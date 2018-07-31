@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trial balance report (LedgerTrialBalance)
 TOCTitle: Trial balance report (LedgerTrialBalance)
 ms:assetid: adfc67a0-4681-4ad4-afe3-2dfb4e12fd0f
@@ -168,5 +168,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

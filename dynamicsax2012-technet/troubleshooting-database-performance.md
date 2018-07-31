@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshooting database performance
 TOCTitle: Troubleshooting database performance
 ms:assetid: 4dc713d4-18ef-461f-920e-2c5f199166b8
@@ -56,5 +56,5 @@ In Microsoft Dynamics AX 2012, information about the user session can be include
 3.  In the **Online users** form, you can now identify each session.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

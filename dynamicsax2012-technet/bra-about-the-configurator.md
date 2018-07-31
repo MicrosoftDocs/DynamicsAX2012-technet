@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About the configurator
 TOCTitle: (BRA) About the configurator
 ms:assetid: b606f82b-bbf5-4707-b9ea-3ab6b826ce36
@@ -12,6 +12,8 @@ f1_keywords:
 - About configurator
 - configurator
 - BR - 00041
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About the configurator 
@@ -42,5 +44,5 @@ You can create a definition group by defining the tables and fields that are use
 [(BRA) Configurator export utility (form)](https://technet.microsoft.com/en-us/library/jj863720\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

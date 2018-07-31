@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up tax exemptions for Suframa
 TOCTitle: (BRA) Set up tax exemptions for Suframa
 ms:assetid: ccb1eb11-f694-4b9a-b08a-088c946de31d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663932(v=AX.60)
 ms:contentKeyID: 49384517
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up tax exemptions for Suframa 
@@ -72,5 +74,5 @@ Use the following procedure to exempt the PIS and COFINS taxes on sales made to 
 [(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj682105\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

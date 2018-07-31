@@ -1,4 +1,4 @@
-﻿---
+---
 title: Requests for quotation and scoring methods
 TOCTitle: Requests for quotation and scoring methods
 ms:assetid: 55a51918-d1dc-4527-9b43-cd20214dcab7
@@ -21,6 +21,8 @@ f1_keywords:
 - scores
 - scoring method
 - scoring methods
+audience: Application User
+ms.search.region: Global
 ---
 
 # Requests for quotation and scoring methods 
@@ -59,5 +61,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [Create and use a solicitation type](create-and-use-a-solicitation-type.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

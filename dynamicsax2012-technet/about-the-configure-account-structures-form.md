@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the Configure account structures form
 TOCTitle: About the Configure account structures form
 ms:assetid: 621b68f2-20af-404d-8932-402959b0cb11
@@ -11,6 +11,8 @@ f1_keywords:
 - account structure
 - account structures
 - configure account structures
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the Configure account structures form 
@@ -139,5 +141,5 @@ When you use multiple account structures, you can track information for specific
 [Configure account structures (form)](https://technet.microsoft.com/en-us/library/hh227362\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

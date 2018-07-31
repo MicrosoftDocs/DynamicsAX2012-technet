@@ -1,4 +1,4 @@
-﻿---
+---
 title: About adjusting transactions in projects
 TOCTitle: About adjusting transactions in projects
 ms:assetid: f7da01a6-cb5c-406b-baa3-c807a446f2fe
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227554(v=AX.60)
 ms:contentKeyID: 36060042
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About adjusting transactions in projects 
@@ -42,5 +44,5 @@ You can also view the adjustment history of a transaction to see which user made
 [View transaction adjustment history](view-transaction-adjustment-history.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed asset lending report (AssetLending)
 TOCTitle: Fixed asset lending report (AssetLending)
 ms:assetid: 675e633b-dc5b-4c41-abdc-1c55e53262de
@@ -82,5 +82,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

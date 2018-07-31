@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up price groups (Retail essentials)
 TOCTitle: Set up price groups (Retail essentials)
 ms:assetid: 160ce9d4-b625-427f-94ea-c04a363f3af2
@@ -40,5 +40,5 @@ To create a price group, follow these steps:
 [Setting up prices, price adjustments, and discounts (Retail essentials)](setting-up-prices-price-adjustments-and-discounts-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

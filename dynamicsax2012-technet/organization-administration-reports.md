@@ -1,4 +1,4 @@
-﻿---
+---
 title: Organization administration reports
 TOCTitle: Organization administration reports
 ms:assetid: 69a2928f-c27b-46ae-bfde-d807f19595bd
@@ -68,5 +68,5 @@ The following reports are available in the **Organization administration** modul
 [(SWE) Form SE report (IntrastatFormLetterSE)](swe-form-se-report-intrastatformletterse.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

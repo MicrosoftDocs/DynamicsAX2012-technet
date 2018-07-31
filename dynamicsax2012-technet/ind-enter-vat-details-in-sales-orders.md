@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Enter VAT details in sales orders
 TOCTitle: (IND) Enter VAT details in sales orders
 ms:assetid: 1d96a473-c0ff-4092-b489-dd7206457f3e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664538(v=AX.60)
 ms:contentKeyID: 49385617
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Enter VAT details in sales orders 
@@ -50,5 +52,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(IND) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj677998\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service object groups
 TOCTitle: About service object groups
 ms:assetid: 6c119759-8960-4e76-bda8-34d03d23e339
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571197(v=AX.60)
 ms:contentKeyID: 36057998
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service object groups 
@@ -32,5 +34,5 @@ You can use this grouping method to show the types of objects that your company 
 A customer calls and wants to set up a service agreement for an air conditioning machine, HIJ. You do not already have a record for this machine. However, you have set up an object group titled Air Conditioners, and you have attached this group to all air conditioning objects. Therefore, you can quickly search for and identify all other air conditioning machines and use the template information from these objects to create service agreement lines for HIJ. By using object groups in this manner, you can quickly set up new objects and determine the service tasks that must be performed on them. For more information about searching and filtering, see [Filter records](filter-records.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

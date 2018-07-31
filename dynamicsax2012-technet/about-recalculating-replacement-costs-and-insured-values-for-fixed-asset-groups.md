@@ -1,4 +1,4 @@
-﻿---
+---
 title: About recalculating replacement costs and insured values for fixed asset groups
 TOCTitle: About recalculating replacement costs and insured values for fixed asset groups
 ms:assetid: 6381aa76-a55a-4f4e-b62e-94d7d3b59b77
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231534(v=AX.60)
 ms:contentKeyID: 36057682
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About recalculating replacement costs and insured values for fixed asset groups 
@@ -84,5 +86,5 @@ The next day, your manager informs you that computers decreased 8 percent inste
 [Update replacement costs and insured values (form)](https://technet.microsoft.com/en-us/library/hh227488\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

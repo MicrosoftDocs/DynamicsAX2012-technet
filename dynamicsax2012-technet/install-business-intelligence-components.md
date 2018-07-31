@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install business intelligence components
 TOCTitle: Install business intelligence components
 ms:assetid: bd0638b4-3738-41b6-b0f5-2d648a8d49d5
@@ -22,5 +22,5 @@ Use the following topics to install and configure the business intelligence comp
 [Configure Analysis Services](configure-analysis-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

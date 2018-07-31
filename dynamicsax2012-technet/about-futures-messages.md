@@ -1,4 +1,4 @@
-﻿---
+---
 title: About futures messages
 TOCTitle: About futures messages
 ms:assetid: 87705bfd-ad24-4f7d-acd8-10ddca1c33ee
@@ -13,6 +13,8 @@ f1_keywords:
 - futures message
 - lead times
 - order due date
+audience: Application User
+ms.search.region: Global
 ---
 
 # About futures messages 
@@ -35,5 +37,5 @@ In the **Master planning parameters** form, you can set the futures time, which 
 [About master scheduling plans](about-master-scheduling-plans.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

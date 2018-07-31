@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the cash payment issue register
 TOCTitle: (RUS) Calculate the cash payment issue register
 ms:assetid: 265e111b-e92c-4fe5-99a6-909604f8df23
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711483(v=AX.60)
 ms:contentKeyID: 49387300
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the cash payment issue register 
@@ -70,5 +72,5 @@ You must set up the **Cash payment issue** register in the **Tax registers** for
 [(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

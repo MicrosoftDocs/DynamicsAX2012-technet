@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete requests for quotation
 TOCTitle: Delete requests for quotation
 ms:assetid: 8c4f5102-4896-4348-82e0-f4de26ea7f7e
@@ -18,6 +18,8 @@ f1_keywords:
 - RFQs
 - deletion
 - deletions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete requests for quotation 
@@ -54,5 +56,5 @@ For more information, see [Submit a batch processing job from a form](submit-a-b
 [About request for quotation statuses](about-request-for-quotation-statuses.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

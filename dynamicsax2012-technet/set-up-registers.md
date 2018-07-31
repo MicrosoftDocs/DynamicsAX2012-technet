@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up registers
 TOCTitle: Set up registers
 ms:assetid: 2d92630e-c1e5-4d61-8bcb-59616186b88a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - 2d92630e-c1e5-4d61-8bcb-59616186b88a
 - MsDynAx060.2d92630e-c1e5-4d61-8bcb-59616186b88a
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up registers 
@@ -55,5 +57,5 @@ Use the following procedure to set up a terminal and assign profiles to it.
 [About setting up Retail POS](about-setting-up-retail-pos.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

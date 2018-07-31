@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security Roles and Licensing in Microsoft Dynamics AX 2012 (White paper)
 TOCTitle: Security Roles and Licensing in Microsoft Dynamics AX 2012
 ms:assetid: 919ae5a3-7c02-4df3-b5ef-f651a2ba8142
@@ -26,5 +26,5 @@ Before you read this white paper, we strongly recommend that you read the follow
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=228370)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

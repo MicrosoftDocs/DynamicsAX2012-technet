@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor currency conversion reconciliation report (VendLedgerReconciliation)
 TOCTitle: Vendor currency conversion reconciliation report (VendLedgerReconciliation)
 ms:assetid: 7f030b45-8a2c-46a8-9335-37869341b847
@@ -159,5 +159,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Close the general ledger at month end](close-the-general-ledger-at-month-end.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

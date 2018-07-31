@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create language texts for modeling variables
 TOCTitle: Create language texts for modeling variables
 ms:assetid: af5138be-414c-4866-959f-02a9ee0ef1e0
@@ -12,6 +12,8 @@ f1_keywords:
 - language texts
 - modeling variables
 - language text
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create language texts for modeling variables 
@@ -42,5 +44,5 @@ Use this form to create field descriptions and help texts in different languages
 5.  In the **Help text** field, type the language-specific help text that you want to be shown with the prompt text from the **Text** field. During item configuration, this help text will be shown at the bottom of the screen whenever this modeling variable is selected for input.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

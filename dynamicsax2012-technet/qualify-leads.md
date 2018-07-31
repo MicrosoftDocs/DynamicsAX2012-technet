@@ -1,4 +1,4 @@
-﻿---
+---
 title: Qualify leads
 TOCTitle: Qualify leads
 ms:assetid: 7fa81067-07b7-4d59-ac3a-3dd4e372248f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - lead
 - leads
+audience: Application User
+ms.search.region: Global
 ---
 
 # Qualify leads 
@@ -31,5 +33,5 @@ The topics in this section provide information that can help you to qualify lead
 [Generate a lead or opportunity record from a campaign or call list target](generate-a-lead-or-opportunity-record-from-a-campaign-or-call-list-target.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

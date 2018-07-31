@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Hide the register fields
 TOCTitle: (RUS) Hide the register fields
 ms:assetid: 5228b11d-fe6a-4557-a842-dd7a45686b7d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665386(v=AX.60)
 ms:contentKeyID: 49387474
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Hide the register fields 
@@ -48,5 +50,5 @@ Before generating the registers, you can elect to hide fields that you might not
 [(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

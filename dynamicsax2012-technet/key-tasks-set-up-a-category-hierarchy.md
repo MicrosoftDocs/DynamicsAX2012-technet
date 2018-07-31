@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Set up a category hierarchy'
 TOCTitle: 'Key tasks: Set up a category hierarchy'
 ms:assetid: 4612aa8c-96b2-4d9e-8b85-3f1bbf0b62bb
@@ -11,6 +11,8 @@ f1_keywords:
 - category hierarchy
 - create category
 - new category
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Set up a category hierarchy 
@@ -185,5 +187,5 @@ Back to top
 [Key tasks: Set up and maintain procurement category hierarchies](key-tasks-set-up-and-maintain-procurement-category-hierarchies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

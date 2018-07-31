@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up import of exchange rates
 TOCTitle: (RUS) Set up import of exchange rates
 ms:assetid: d0c546d6-db2e-4e84-9816-b5dc7936f93e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711642(v=AX.60)
 ms:contentKeyID: 49387966
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up import of exchange rates 
@@ -50,5 +52,5 @@ To import currency exchange rates from the Central Bank of the Russian Federatio
 [Exchange rate types (form)](https://technet.microsoft.com/en-us/library/hh242857\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

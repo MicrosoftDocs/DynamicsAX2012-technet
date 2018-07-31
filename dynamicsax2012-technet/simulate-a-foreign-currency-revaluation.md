@@ -1,4 +1,4 @@
-﻿---
+---
 title: Simulate a foreign currency revaluation
 TOCTitle: Simulate a foreign currency revaluation
 ms:assetid: 1ea4a25d-4b40-4078-93cd-95c8b2e87504
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496778(v=AX.60)
 ms:contentKeyID: 36056148
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Simulate a foreign currency revaluation 
@@ -40,5 +42,5 @@ Before you revalue foreign currencies, you can run a simulation of the foreign c
 [About foreign currency revaluations for open vendor transactions](about-foreign-currency-revaluations-for-open-vendor-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Ledger budget form and table'
 TOCTitle: Ledger budget form and table
 ms:assetid: 60c60aa8-aa40-4590-bfe4-b4538142cffb
@@ -72,5 +72,5 @@ In Microsoft Dynamics AX 2009, Ledger budget is the name of the form and table w
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Generate a fixed asset note report
 TOCTitle: (LVA) Generate a fixed asset note report
 ms:assetid: 27efda69-7a57-497d-841f-ddc38b45922b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853405(v=AX.60)
 ms:contentKeyID: 50396775
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Generate a fixed asset note report 
@@ -66,5 +68,5 @@ The fixed asset note report is an itemization of fixed asset notes for a specifi
 [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

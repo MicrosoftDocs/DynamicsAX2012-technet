@@ -1,4 +1,4 @@
-﻿---
+---
 title: About weighted average with physical value and marking
 TOCTitle: About weighted average with physical value and marking
 ms:assetid: 56c05e08-5b4b-412b-9224-98f1871fa82d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242469(v=AX.60)
 ms:contentKeyID: 36057325
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About weighted average with physical value and marking 
@@ -362,5 +364,5 @@ The following diagram illustrates this series of transactions with the effects o
 [About weighted average date](about-weighted-average-date.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

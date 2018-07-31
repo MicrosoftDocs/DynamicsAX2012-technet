@@ -1,4 +1,4 @@
-﻿---
+---
 title: " financial dimension"
 TOCTitle: " financial dimension"
 ms:assetid: DynamicsAXGlossary.1370444
@@ -29,5 +29,5 @@ A financial data classifier created from the parties, locations, products, and a
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

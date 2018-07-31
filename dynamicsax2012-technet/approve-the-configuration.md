@@ -1,4 +1,4 @@
-﻿---
+---
 title: Approve the configuration
 TOCTitle: Approve the configuration
 ms:assetid: 6432cae8-072b-48c3-ac97-9c6ecac0b43a
@@ -10,6 +10,8 @@ f1_keywords:
 - product builder
 - approve configuration
 - confirm configuration
+audience: Application User
+ms.search.region: Global
 ---
 
 # Approve the configuration 
@@ -46,5 +48,5 @@ After you set up information in the **Product Builder configuration** form, clic
 2.  Click the **Approval** link and select the **Show all variables** check box.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

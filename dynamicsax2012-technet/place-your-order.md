@@ -1,4 +1,4 @@
-﻿---
+---
 title: Place your order
 TOCTitle: Place your order
 ms:assetid: a5609c19-bef1-47e3-8b74-6e46b2fd183e
@@ -10,6 +10,8 @@ f1_keywords:
 - EPCSSCheckOut
 - EPCSSSalesConfirm
 - EPCSSSalesCreate
+audience: Application User
+ms.search.region: Global
 ---
 
 # Place your order 
@@ -68,5 +70,5 @@ You can use the **Shopping cart** page to perform these actions:
 [View the shopping cart](view-the-shopping-cart.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

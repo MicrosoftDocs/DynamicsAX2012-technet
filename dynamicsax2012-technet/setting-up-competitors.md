@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up competitors
 TOCTitle: Setting up competitors
 ms:assetid: ab480bd1-a0ee-47fc-96b7-ddd175d54414
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - competitors
 - competitor
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up competitors 
@@ -21,5 +23,5 @@ The topics in this section provide information about how to set up retail compet
 [Set up competitors](set-up-competitors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

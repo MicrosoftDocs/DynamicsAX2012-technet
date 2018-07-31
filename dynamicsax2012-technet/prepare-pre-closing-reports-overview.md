@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prepare pre-closing reports overview
 TOCTitle: Prepare pre-closing reports overview
 ms:assetid: 366f6244-4ec2-4662-902f-b213bfffaf0d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231102(v=AX.60)
 ms:contentKeyID: 36056579
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Prepare pre-closing reports overview 
@@ -157,5 +159,5 @@ The following table lists the forms that support the prepare pre-closing reports
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

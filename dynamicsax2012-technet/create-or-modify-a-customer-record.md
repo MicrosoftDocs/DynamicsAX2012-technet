@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify a customer record
 TOCTitle: Create or edit a customer record
 ms:assetid: ffa5960c-9752-4133-ae25-264743823798
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPCustomerEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or modify a customer record 
@@ -48,5 +50,5 @@ You can use the **Create customer** page to create a new customer account, and u
 [Create, update, or view an address record](create-update-or-view-an-address-record.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

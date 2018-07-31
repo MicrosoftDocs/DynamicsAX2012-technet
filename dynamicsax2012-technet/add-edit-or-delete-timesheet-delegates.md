@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add, edit or delete timesheet delegates
 TOCTitle: Add, edit or delete timesheet delegates
 ms:assetid: 285f8018-582a-4c7f-bf26-ed695fc11514
@@ -10,6 +10,8 @@ f1_keywords:
 - timesheet
 - TsTimesheetDelegates
 - timesheet delegate
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add, edit or delete timesheet delegates 
@@ -70,5 +72,5 @@ You can authorize delegates to enter timesheet information on your behalf. You c
 [Create and submit timesheets](create-and-submit-timesheets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

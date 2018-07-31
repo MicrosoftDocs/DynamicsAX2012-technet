@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create tax groups for service tax
 TOCTitle: (IND) Create tax groups for service tax
 ms:assetid: 979f50ab-f083-4ae4-a2db-3bd2a91f508c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678055(v=AX.60)
 ms:contentKeyID: 49386016
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create tax groups for service tax 
@@ -38,5 +40,5 @@ You can create and manage sales tax groups that determine the calculation of ser
 [(IND) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj664688\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

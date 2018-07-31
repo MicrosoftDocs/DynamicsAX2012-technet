@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process closing transactions overview
 TOCTitle: Process closing transactions overview
 ms:assetid: 43fef7df-d205-470f-992e-ec0d3e8bf70f
@@ -10,6 +10,8 @@ f1_keywords:
 - closing transactions
 - process closing transactions
 - closing transaction
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process closing transactions overview 
@@ -128,5 +130,5 @@ The following table lists the forms that support the process closing transaction
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

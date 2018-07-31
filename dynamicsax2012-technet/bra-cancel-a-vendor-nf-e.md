@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Cancel a vendor NF-e
 TOCTitle: (BRA) Cancel a vendor NF-e
 ms:assetid: db8651ea-41d9-468b-bb2f-fee3b67dcf71
@@ -13,6 +13,8 @@ f1_keywords:
 - cancel NF-e
 - vendor electronic fiscal document
 - cancel vendor NF-e
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Cancel a vendor NF-e 
@@ -61,5 +63,5 @@ When you cancel a vendor NF-e, the original NF-e is marked as canceled, and all 
 [(BRA) Purchase complementary fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710577\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

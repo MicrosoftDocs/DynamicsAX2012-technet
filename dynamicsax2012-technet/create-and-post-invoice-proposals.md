@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and post invoice proposals
 TOCTitle: Create and post invoice proposals
 ms:assetid: 29738be9-5198-4dbd-bcb7-cd32c26c707b
@@ -10,6 +10,8 @@ f1_keywords:
 - invoice proposal
 - credit note
 - on-account proposal
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and post invoice proposals 
@@ -120,5 +122,5 @@ To modify lines in an invoice proposal, follow these steps:
 [Post invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa620017\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

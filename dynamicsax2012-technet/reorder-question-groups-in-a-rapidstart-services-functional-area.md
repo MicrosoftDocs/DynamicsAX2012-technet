@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reorder question groups in a RapidStart Services functional area
 TOCTitle: Reorder question groups in a RapidStart Services functional area
 ms:assetid: 67870934-5d40-4fbe-9467-52827aa755ba
@@ -47,5 +47,5 @@ You can use the Design area in Microsoft Dynamics ERP RapidStart Services to cha
 [Modify metadata for question groups in RapidStart Services](modify-metadata-for-question-groups-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

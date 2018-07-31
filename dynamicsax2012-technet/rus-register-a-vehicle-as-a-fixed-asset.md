@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Register a vehicle as a fixed asset
 TOCTitle: (RUS) Register a vehicle as a fixed asset
 ms:assetid: 95d5ea6e-d8d0-4fd8-87c6-616e9c64f9c4
@@ -10,6 +10,8 @@ f1_keywords:
 - transport
 - fixed asset
 - vehicle
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Register a vehicle as a fixed asset 
@@ -88,5 +90,5 @@ Use the following procedures to register a vehicle as a fixed asset, and then en
 [(RUS) Depreciate a fixed asset by using a fixed asset journal](rus-depreciate-a-fixed-asset-by-using-a-fixed-asset-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

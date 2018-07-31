@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Microsoft Dynamics AX Add-in for Excel
 TOCTitle: Using the Microsoft Dynamics AX Add-in for Excel
 ms:assetid: b6319a3d-b9cc-4795-bbf4-403a71a9b89a
@@ -10,6 +10,8 @@ f1_keywords:
 - add in
 - Excel
 - add-in
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using the Microsoft Dynamics AX Add-in for Excel 
@@ -28,5 +30,5 @@ The topics in this section describe common tasks that are related to using the O
 [Key tasks: Create and share an Excel template by using the Office Add-ins](key-tasks-create-and-share-an-excel-template-by-using-the-office-add-ins.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

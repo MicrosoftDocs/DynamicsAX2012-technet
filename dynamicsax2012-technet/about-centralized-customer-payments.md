@@ -1,4 +1,4 @@
-﻿---
+---
 title: About centralized customer payments
 TOCTitle: About centralized customer payments
 ms:assetid: 870990b7-23a1-464a-8d11-a86ef544c3dd
@@ -22,6 +22,8 @@ f1_keywords:
 - payment legal entity
 - customer payment
 - customer payments
+audience: Application User
+ms.search.region: Global
 ---
 
 # About centralized customer payments 
@@ -1059,5 +1061,5 @@ Fabrikam West posting
 [About cross-company payment settlements](about-cross-company-payment-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

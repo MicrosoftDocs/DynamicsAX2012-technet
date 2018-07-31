@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CAN) Generate a GIFT file
 TOCTitle: (CAN) Generate a GIFT file
 ms:assetid: 3d3e3d01-3512-4637-b4ea-4c171c4bc551
@@ -10,6 +10,8 @@ f1_keywords:
 - Canada
 - LedgerGenerateGIFTFile_CA
 - GIFT
+audience: Application User
+ms.search.region: Canada
 ---
 
 # (CAN) Generate a GIFT file 
@@ -40,5 +42,5 @@ You can generate a Goods and Services Tax or Harmonized Sales Tax (GST/HST) Inte
 [(CAN) Create sales tax entries for tax on rebates and self-assessments](can-create-sales-tax-entries-for-tax-on-rebates-and-self-assessments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

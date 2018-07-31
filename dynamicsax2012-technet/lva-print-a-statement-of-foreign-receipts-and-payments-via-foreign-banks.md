@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Print a statement of foreign receipts and payments via foreign banks
 TOCTitle: (LVA) Print a statement of foreign receipts and payments via foreign banks
 ms:assetid: a3665ceb-c5e3-4db8-9fb0-2b34bf738659
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721457(v=AX.60)
 ms:contentKeyID: 49730235
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Print a statement of foreign receipts and payments via foreign banks 
@@ -27,7 +29,9 @@ If a company that operates in Latvia receives payments from a foreign bank and d
 
 
 
-1.  Click **Cash and bank management** \> **Common** \> **Bank accounts**. Select the bank account to view the transactions for. On the **Action Pane**, click **Transactions**.
+1.  
+    
+    Click **Cash and bank management** \> **Common** \> **Bank accounts**. Select the bank account to view the transactions for. On the **Action Pane**, click **Transactions**.
 
 2.  Select the bank, and then click **Transactions** to open the **Bank transactions** form. Enter the required details.
 
@@ -72,5 +76,5 @@ If a company that operates in Latvia receives payments from a foreign bank and d
 [(LVA) Vendor payment journal lines (modified form)](https://technet.microsoft.com/en-us/library/jj721419\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

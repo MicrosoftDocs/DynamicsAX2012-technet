@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reimbursements overview
 TOCTitle: Reimbursements overview
 ms:assetid: cce12313-99bf-4289-8452-bcae18e7e6c1
@@ -11,6 +11,8 @@ f1_keywords:
 - reimbursement
 - expense
 - reimbusements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reimbursements overview 
@@ -101,5 +103,5 @@ The following table lists the forms that support the Reimbursement business proc
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

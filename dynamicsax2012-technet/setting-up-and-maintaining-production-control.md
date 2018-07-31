@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Production control
 TOCTitle: Setting up and maintaining Production control
 ms:assetid: 1f7fae32-34d0-42be-a786-6d11a80c6330
@@ -20,6 +20,8 @@ f1_keywords:
 - setting up production control
 - setting up production units
 - setting up production
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Production control 
@@ -48,5 +50,5 @@ The topics in this section provide information about setting up and maintaining 
 [Setting up and maintaining Process manufacturing production and logistics](setting-up-and-maintaining-process-manufacturing-production-and-logistics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

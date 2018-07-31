@@ -1,4 +1,4 @@
-﻿---
+---
 title: About accrued loss
 TOCTitle: About accrued loss
 ms:assetid: 49039c88-b84e-4fe9-9966-2665a6929285
@@ -10,6 +10,8 @@ f1_keywords:
 - profit and loss
 - foreseeable losses
 - accrued loss
+audience: Application User
+ms.search.region: Global
 ---
 
 # About accrued loss 
@@ -120,5 +122,5 @@ The following table describes the effects of actions that you perform on the **E
 [Estimate (form)](https://technet.microsoft.com/en-us/library/aa590971\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

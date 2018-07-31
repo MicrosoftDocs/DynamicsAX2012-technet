@@ -1,4 +1,4 @@
-﻿---
+---
 title: Environmental clerk security role (EMSEnvironmentalClerk)
 TOCTitle: Environmental clerk security role (EMSEnvironmentalClerk)
 ms:assetid: 4ac172a7-3a66-4a2d-94e5-296e381ce3ca
@@ -77,5 +77,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the preprocessing upgrade state transfer tool
 TOCTitle: Using the preprocessing upgrade state transfer tool
 ms:assetid: 414e3d48-f088-4e59-815e-0f8ad50da298
@@ -155,5 +155,5 @@ After the state transfer is complete, perform the following tasks.
 3.  Finally, run the delta preprocessing scripts, and then continue with upgrade preprocessing in single-user mode.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

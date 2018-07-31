@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounts receivable payments clerk security role (PaymAccountsReceivablePaymentsClerk)
 TOCTitle: Accounts receivable payments clerk security role (PaymAccountsReceivablePaymentsClerk)
 ms:assetid: 50a89a84-5af5-4552-b6d1-895892a0ec1d
@@ -305,5 +305,5 @@ By default, this security role is assigned the following privilege in Microsoft 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

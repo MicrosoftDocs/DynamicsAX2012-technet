@@ -1,4 +1,4 @@
-﻿---
+---
 title: About operation scheduling options
 TOCTitle: About operation scheduling options
 ms:assetid: 6b8eec93-f1bc-446d-a798-6b2abbbb119e
@@ -10,6 +10,8 @@ f1_keywords:
 - schedule
 - operation
 - scheduling
+audience: Application User
+ms.search.region: Global
 ---
 
 # About operation scheduling options 
@@ -72,5 +74,5 @@ If a production order has one or more subproductions, you might want to schedule
 [Create and maintain operations resources](create-and-maintain-operations-resources.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

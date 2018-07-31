@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Configure and calculate fixed asset depreciation
 TOCTitle: (JPN) Configure and calculate fixed asset depreciation
 ms:assetid: c6ea5abd-69bc-4767-81a0-249e9d2f1b71
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn473951(v=AX.60)
 ms:contentKeyID: 59371905
 ms.date: 12/03/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Configure and calculate fixed asset depreciation 
@@ -383,5 +385,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

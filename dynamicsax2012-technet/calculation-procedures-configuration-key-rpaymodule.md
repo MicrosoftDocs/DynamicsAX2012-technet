@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calculation procedures configuration key (RPayModule)
 TOCTitle: Calculation procedures configuration key (RPayModule)
 ms:assetid: b3cb4e91-8762-4afb-a566-ef765f7476ba
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 The **Calculation procedures** configuration key is deprecated in Microsoft Dynamics AX 2012.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

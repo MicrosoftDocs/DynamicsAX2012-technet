@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Split purchase documents
 TOCTitle: (IND) Split purchase documents
 ms:assetid: 87b4a04d-fdb4-402e-bf8a-c9fa2f11ef33
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678018(v=AX.60)
 ms:contentKeyID: 49385979
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Split purchase documents 
@@ -32,5 +34,5 @@ You can also select the **Product receipt** check box to split product receipts 
 [(IND) Split sales documents](ind-split-sales-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

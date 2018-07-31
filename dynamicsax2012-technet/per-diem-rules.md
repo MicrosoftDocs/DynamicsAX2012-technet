@@ -1,4 +1,4 @@
-﻿---
+---
 title: Per diem rules
 TOCTitle: Per diem rules
 ms:assetid: 767ea337-0fdc-4e76-a09b-e1a77f376707
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212980(v=AX.60)
 ms:contentKeyID: 36058194
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Per diem rules 
@@ -18,5 +20,5 @@ A per diem is an allowance that is paid to a worker who is traveling for work. I
 The calculation of a total per diem amount is based on the start dates and end dates that you can set in the **Per diems** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

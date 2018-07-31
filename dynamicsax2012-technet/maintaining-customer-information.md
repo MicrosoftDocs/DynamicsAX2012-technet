@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintaining customer information
 TOCTitle: Maintaining customer information
 ms:assetid: 7e12596c-f3c7-4e63-b51f-5f787d16f1ab
@@ -16,6 +16,8 @@ f1_keywords:
 - customers
 - printer
 - printers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintaining customer information 
@@ -40,5 +42,5 @@ The following topics provide information about maintaining customer information.
 [(MEX) Define tax registration numbers for a customer account](mex-define-tax-registration-numbers-for-a-customer-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

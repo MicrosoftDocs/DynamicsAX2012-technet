@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Mass hire projects'
 TOCTitle: 'Key tasks: Mass hire projects'
 ms:assetid: ac834d58-a587-4234-94e2-49a1c6fcb8c0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh694715(v=AX.60)
 ms:contentKeyID: 42117770
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Mass hire projects 
@@ -152,5 +154,5 @@ Back to top
 [Key tasks: New worker positions](key-tasks-new-worker-positions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Relieve a general budget reservation (Public sector)
 TOCTitle: Relieve a general budget reservation (Public sector)
 ms:assetid: 99336a75-c941-4d88-b791-bab15db9a354
@@ -15,6 +15,8 @@ f1_keywords:
 - relief of a budget reservation
 - relief of a general budget reservation
 - relief of budget reservations
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Relieve a general budget reservation (Public sector) 
@@ -84,5 +86,5 @@ To relieve a general budget reservation, use the following steps.
 [Create a general budget reservation (Public sector)](create-a-general-budget-reservation-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

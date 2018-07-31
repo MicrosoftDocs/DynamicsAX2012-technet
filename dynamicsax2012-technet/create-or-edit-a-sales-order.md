@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or edit a sales order
 TOCTitle: Create or edit a sales order
 ms:assetid: 9c48ad87-66d4-43a2-945c-8f78de33035c
@@ -12,6 +12,8 @@ f1_keywords:
 - EPPCTemplateConfiguration
 - EPSalesTableCreate
 - EPSalesTableEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or edit a sales order 
@@ -122,5 +124,5 @@ You can create a sales order from either the **Sales orders** or **Customers** p
 [Create or edit a sales quotation](create-or-edit-a-sales-quotation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

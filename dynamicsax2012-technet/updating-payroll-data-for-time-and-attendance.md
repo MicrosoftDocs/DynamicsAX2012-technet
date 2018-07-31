@@ -1,4 +1,4 @@
-﻿---
+---
 title: Updating payroll data for time and attendance
 TOCTitle: Updating payroll data for time and attendance
 ms:assetid: e2566b6a-c217-4b8d-9c79-18717fd7a142
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551371(v=AX.60)
 ms:contentKeyID: 36059719
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Updating payroll data for time and attendance 
@@ -40,5 +42,5 @@ If you change the setup of a payroll statistic, recalculate the worker balances 
 [Set up payroll statistics for time and attendance](set-up-payroll-statistics-for-time-and-attendance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

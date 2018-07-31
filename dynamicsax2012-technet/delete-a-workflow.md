@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete a workflow
 TOCTitle: Delete a workflow
 ms:assetid: 55c3a1ba-4f40-4a55-a0eb-fd770e1faa03
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202058(v=AX.60)
 ms:contentKeyID: 35949297
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete a workflow 
@@ -50,5 +52,5 @@ Follow these steps to delete a specific version of a workflow.
 7.  Click **Yes** to confirm that you want to delete the workflow version.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

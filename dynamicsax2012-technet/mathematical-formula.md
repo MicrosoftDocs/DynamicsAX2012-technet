@@ -1,4 +1,4 @@
-﻿---
+---
 title: " mathematical formula"
 TOCTitle: " mathematical formula"
 ms:assetid: DynamicsAXGlossary.1511934
@@ -23,5 +23,5 @@ A mathematical statement in a formal language that can be given a semantic meani
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

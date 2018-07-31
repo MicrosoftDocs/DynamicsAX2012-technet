@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up Value Added Tax (VAT)
 TOCTitle: (IND) Setting up Value Added Tax (VAT)
 ms:assetid: c77e67d6-ecc8-4f03-b0f3-59cbe5ea2d3f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664872(v=AX.60)
 ms:contentKeyID: 49386201
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up Value Added Tax (VAT) 
@@ -26,5 +28,5 @@ The following topics provide information about setting up Value Added Tax (VAT).
 [(IND) Set up tax codes for VAT](ind-set-up-tax-codes-for-vat.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

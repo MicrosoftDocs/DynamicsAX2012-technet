@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up accounts payable parameters for amount differences
 TOCTitle: (RUS) Set up accounts payable parameters for amount differences
 ms:assetid: c2bb785a-ba3c-4dcd-9ab3-1894fdf2d4dd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711589(v=AX.60)
 ms:contentKeyID: 49387913
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up accounts payable parameters for amount differences 
@@ -28,5 +30,5 @@ Use the **Accounts payable parameters** form to set up accounts payable paramete
 3.  On the **Purchase book** FastTab, select the **Amount difference in additional list** check box to include the amount differences in an additional list in the purchase book.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create the target system
 TOCTitle: Create the target system
 ms:assetid: 47ff7ff9-6a3b-4cdc-8d45-a17628ccbd7e
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 This section documents the installation and configuration of Microsoft Dynamics AX 2012 on a target computer system as part of upgrade. Installation on the target system is performed separately from procedures carried out on the source system, and may be done concurrently with data upgrade preprocessing. The following sections are included.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

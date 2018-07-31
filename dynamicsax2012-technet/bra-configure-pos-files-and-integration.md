@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Configure POS files and integration
 TOCTitle: (BRA) Configure POS files and integration
 ms:assetid: 5220a1a2-932d-4bd2-a5c6-91bab14563da
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497720(v=AX.60)
 ms:contentKeyID: 62200234
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Configure POS files and integration 
@@ -335,5 +337,5 @@ You must verify the MD5 hash code for the binary files that are used to fulfill 
         EAD026CDD5268BA4A107722FA31191292EBC8AADC63ACC3184C9441F87920937F11F76EE16F85DD645B10BD81F16508056031303D3DA2A1D73C5327B48B57728DC996EA1BD9BEF7EAA89FE7DC3BD5C3F0E68A01C1E28342E24E682EA9D23863C179A3C37C9BC0AC8ED0767564F59C90617A95E8FBF4C1795B5D04B927EA03D47BBC 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

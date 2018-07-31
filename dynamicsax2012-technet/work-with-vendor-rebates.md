@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work with vendor rebates
 TOCTitle: Work with vendor rebates
 ms:assetid: a5360df4-960d-489e-9738-92df9d08f91e
@@ -17,6 +17,8 @@ f1_keywords:
 - purchase order rebate
 - vendor rebate
 - vendor rebates
+audience: Application User
+ms.search.region: Global
 ---
 
 # Work with vendor rebates 
@@ -190,5 +192,5 @@ If you don't have access to the pages that are used to complete this task, conta
 Set up margin alerts
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

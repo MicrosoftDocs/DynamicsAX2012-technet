@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or modify a security privilege, duty, or process cycle
 TOCTitle: Create or modify a security privilege, duty, or process cycle
 ms:assetid: f2ca438f-1e4e-44bb-9e1e-087c70065ce9
@@ -90,5 +90,5 @@ For information about how privileges, duties, and process cycles are used in the
 [Security privileges (form)](https://technet.microsoft.com/en-us/library/hh209366\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

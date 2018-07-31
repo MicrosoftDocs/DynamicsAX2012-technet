@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Create a payment journal and validate the credit limit for a bank
 TOCTitle: (USA) Create a payment journal and validate the credit limit for a bank
 ms:assetid: 40f77da9-f173-40c1-a9b5-76da05d71541
@@ -10,6 +10,8 @@ f1_keywords:
 - USA
 - credit limit
 - payment journal
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Create a payment journal and validate the credit limit for a bank 
@@ -146,5 +148,5 @@ You can create a payment journal to record a fixed asset purchase, service purch
 [Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

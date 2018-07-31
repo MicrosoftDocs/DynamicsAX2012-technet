@@ -1,4 +1,4 @@
-﻿---
+---
 title: View attachments
 TOCTitle: View attachments
 ms:assetid: 22021c02-31aa-442d-969b-8256ea05b650
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPDocuList
 - EPDocuListPopUp
+audience: Application User
+ms.search.region: Global
 ---
 
 # View attachments 
@@ -35,5 +37,5 @@ Use the **Attachments** page to view a list of the documents and notes that are 
 [About attachments](about-attachments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

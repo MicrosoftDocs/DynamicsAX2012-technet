@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Setting up Spanish tax
 TOCTitle: (ESP) Setting up Spanish tax
 ms:assetid: 7f231102-367d-41e5-9269-7d9dfc46a176
@@ -12,6 +12,8 @@ f1_keywords:
 - setting up
 - Spanish tax
 - Spanish tax setup
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Setting up Spanish tax 
@@ -24,5 +26,5 @@ This section provides conceptual and procedural information about Spanish tax.
 [(ESP) About tax-exempt number validation](esp-about-tax-exempt-number-validation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

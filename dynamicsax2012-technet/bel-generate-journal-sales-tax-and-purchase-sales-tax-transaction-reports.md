@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Generate journal, sales tax, and purchase sales tax transaction reports
 TOCTitle: (BEL) Generate journal, sales tax, and purchase sales tax transaction reports
 ms:assetid: a15dca78-9159-4ec7-baba-84049d9bfc9d
@@ -10,6 +10,8 @@ f1_keywords:
 - Belgium
 - sales tax
 - purchase tax tranasctions
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Generate journal, sales tax, and purchase sales tax transaction reports 
@@ -98,5 +100,5 @@ In accordance with VAT 2010 regulation, the sales tax and purchase sales tax tra
 [(BEL) Posting journals (form)](https://technet.microsoft.com/en-us/library/aa592268\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create organization-wide card types and card numbers
 TOCTitle: Create organization-wide card types and card numbers
 ms:assetid: cae7ef61-ed47-4d3c-b0fb-e5c7ab096ce8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597243(v=AX.60)
 ms:contentKeyID: 39519321
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create organization-wide card types and card numbers 
@@ -34,5 +36,5 @@ After you set up an organization-wide card type, you can set up specific credit 
 [Set up store payment methods](set-up-store-payment-methods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

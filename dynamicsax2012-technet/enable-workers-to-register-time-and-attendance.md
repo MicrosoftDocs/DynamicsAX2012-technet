@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enable workers to register time and attendance
 TOCTitle: Enable workers to register time and attendance
 ms:assetid: 1c38b67b-09a3-4dbe-9603-3cd558bdbb02
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569936(v=AX.60)
 ms:contentKeyID: 36056133
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enable workers to register time and attendance 
@@ -96,5 +98,5 @@ Use this procedure to update data for a worker who has been activated as a time 
 [Key tasks: Work with production jobs in Manufacturing execution](key-tasks-work-with-production-jobs-in-manufacturing-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transfer absence journals for approval
 TOCTitle: Transfer absence journals for approval
 ms:assetid: 7be99dd3-442a-4081-bd3a-a0a3910c3cdf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571369(v=AX.60)
 ms:contentKeyID: 36966730
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Transfer absence journals for approval 
@@ -50,5 +52,5 @@ Absence journals contain absence registrations for a specific worker for a speci
 [Absence setup (form)](https://technet.microsoft.com/en-us/library/aa583231\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

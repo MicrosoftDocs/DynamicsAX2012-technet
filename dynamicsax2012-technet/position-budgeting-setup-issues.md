@@ -1,4 +1,4 @@
-﻿---
+---
 title: Position budgeting setup issues
 TOCTitle: Position budgeting setup issues
 ms:assetid: 43f7a88a-2058-4715-8fb9-ab9a65e0cc9c
@@ -12,6 +12,8 @@ f1_keywords:
 - issue
 - position budget
 - position budgeting
+audience: Application User
+ms.search.region: Global
 ---
 
 # Position budgeting setup issues 
@@ -82,5 +84,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

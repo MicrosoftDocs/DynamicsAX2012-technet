@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail Salt Utility
 TOCTitle: Retail Salt Utility
 ms:assetid: 6221bd2e-0dc1-4c10-80bb-be6f7f5ba1fb
@@ -36,5 +36,5 @@ We recommend that you change the hash value each time you use the utility. The u
 4.  Click **Apply**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

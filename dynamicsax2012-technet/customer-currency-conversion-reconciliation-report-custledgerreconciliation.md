@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer currency conversion reconciliation report (CustLedgerReconciliation)
 TOCTitle: Customer currency conversion reconciliation report (CustLedgerReconciliation)
 ms:assetid: f24fbb18-fe41-45bb-816a-3eb1fb9e5270
@@ -57,7 +57,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p>(<strong>From</strong>)</p>
 <p><strong>Posting profile</strong></p></td>
 <td><p>Enter the start of the customer posting profile interval to run the report for.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>Information on the report uses the information that is found in the summary account for the posting profile that is used for the customer. It does not use the summary account from the general journal that is created for the document.</P>
@@ -163,5 +163,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Close the general ledger at month end](close-the-general-ledger-at-month-end.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

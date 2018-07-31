@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up keyboard mapping groups
 TOCTitle: Set up keyboard mapping groups
 ms:assetid: 98e5d5b1-b845-457f-b054-3a37add85b1c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597183(v=AX.60)
 ms:contentKeyID: 39519248
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up keyboard mapping groups 
@@ -44,5 +46,5 @@ Use the **Keyboard mapping groups** form to set up and view the keyboard mapping
 [Keyboard mapping (form)](https://technet.microsoft.com/en-us/library/hh597342\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

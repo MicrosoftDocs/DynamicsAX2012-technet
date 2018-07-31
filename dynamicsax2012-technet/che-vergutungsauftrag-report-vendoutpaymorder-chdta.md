@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHE) Vergütungsauftrag report (VendOutPaymOrder_CHDTA)
 TOCTitle: (CHE) Vergütungsauftrag report (VendOutPaymOrder_CHDTA)
 ms:assetid: 74a374d6-0705-4c9d-b507-ab7e607c1c64
@@ -94,5 +94,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

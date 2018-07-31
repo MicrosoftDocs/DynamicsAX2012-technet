@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up optional tax settings for stores (Retail essentials)
 TOCTitle: Set up optional tax settings for stores (Retail essentials)
 ms:assetid: 98dec17f-29e9-4d94-8cd9-771398fdb5e2
@@ -49,5 +49,5 @@ This topic explains how to specify optional sales tax settings for stores. After
 [Setting up taxes (Retail essentials)](setting-up-taxes-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

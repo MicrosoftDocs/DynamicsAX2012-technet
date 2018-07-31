@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain your contact information
 TOCTitle: Add and maintain your contact information
 ms:assetid: 511231f4-f60c-4e09-a471-ee1113d4038c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - LogisticsManageAddress
 - LogisticsManageContactInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain your contact information 
@@ -57,5 +59,5 @@ Your contact information is displayed on the **Contact details** FastTab on the 
 [Add and maintain your personal contacts](add-and-maintain-your-personal-contacts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

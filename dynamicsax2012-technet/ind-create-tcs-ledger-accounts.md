@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create TCS ledger accounts
 TOCTitle: (IND) Create TCS ledger accounts
 ms:assetid: f79654ba-f768-4547-acd0-6f602ef63025
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710967(v=AX.60)
 ms:contentKeyID: 49386379
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create TCS ledger accounts 
@@ -36,5 +38,5 @@ You can define receivable accounts to post the TCS receivable amount for TCS tax
 [(IND) TCS or TDS inquiry (form)](https://technet.microsoft.com/en-us/library/jj678019\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

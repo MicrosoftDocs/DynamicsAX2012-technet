@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) Generate the ICMS 1/48 fixed asset credit fiscal document from purchase orders'
 TOCTitle: (BRA) Generate the ICMS 1/48 fixed asset credit fiscal document from purchase orders
 ms:assetid: c9eae61f-42b8-4e9c-b9ed-a58778bc6b4b
@@ -55,5 +55,5 @@ For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specifi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

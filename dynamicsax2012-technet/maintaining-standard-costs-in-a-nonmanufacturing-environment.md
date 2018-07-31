@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintaining standard costs in a nonmanufacturing environment
 TOCTitle: Maintaining standard costs in a nonmanufacturing environment
 ms:assetid: 733e0372-2f8b-4f14-b0c4-2a8b8e815a95
@@ -13,6 +13,8 @@ f1_keywords:
 - standard cost
 - standard costs
 - nonmanufacturing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintaining standard costs in a nonmanufacturing environment 
@@ -31,5 +33,5 @@ Nonmanufacturing and distribution environments maintain standard costs for purch
 [Update standard costs in a nonmanufacturing environment](update-standard-costs-in-a-nonmanufacturing-environment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

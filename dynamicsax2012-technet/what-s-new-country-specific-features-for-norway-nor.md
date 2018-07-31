@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Norway (NOR)"
 TOCTitle: Country-specific features for Norway
 ms:assetid: 6dd6738b-935d-4505-b84d-8bc8d347813f
@@ -65,7 +65,7 @@ In Microsoft Dynamics AX 2012, we changed and added country-specific functionali
 <td><p>Legal entities, such as corporations, public limited companies, and branches of foreign companies, can print the term &quot;Enterprise register&quot; on all sales documents and electronic customer invoices. &quot;Enterprise register&quot; is printed in the language in which the sales documents are printed.</p>
 <p>For more information, see the following topics:</p>
 <ul>
-<li><p><a href="nor-print-the-term-“enterprise-register”-on-sales-documents.md">(NOR) Print the term “Enterprise register” on sales documents</a></p></li>
+<li><p><a href="nor-print-the-term-enterprise-register-on-sales-documents.md">(NOR) Print the term “Enterprise register” on sales documents</a></p></li>
 <li><p><a href="nor-select-the-parameter-to-print-enterprise-register-on-sales-documents.md">(NOR) Select the parameter to print Enterprise register on sales documents</a></p></li>
 </ul></td>
 </tr>
@@ -109,5 +109,5 @@ In Microsoft Dynamics AX 2012, we changed and added country-specific functionali
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

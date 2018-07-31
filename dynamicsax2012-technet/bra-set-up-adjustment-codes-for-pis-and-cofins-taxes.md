@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up adjustment codes for PIS and COFINS taxes
 TOCTitle: (BRA) Set up adjustment codes for PIS and COFINS taxes
 ms:assetid: 9f5fa725-dd22-4b08-a3ce-abc5a6aa97b1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt267601(v=AX.60)
 ms:contentKeyID: 66250921
 ms.date: 07/07/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up adjustment codes for PIS and COFINS taxes 
@@ -68,5 +70,5 @@ To set up the adjustment code table 4.2.8 and 4.3.8 defined by the government fo
 [(BRA) Enter and post fiscal books adjustments, benefits, and incentives](bra-enter-and-post-fiscal-books-adjustments-benefits-and-incentives.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

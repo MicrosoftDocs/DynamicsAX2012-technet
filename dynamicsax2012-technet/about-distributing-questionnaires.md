@@ -1,4 +1,4 @@
-﻿---
+---
 title: About distributing questionnaires
 TOCTitle: About distributing questionnaires
 ms:assetid: 6b3fb7f0-6275-4b36-a60c-7f61ccd66255
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - questionnaires
 - questionnaire
+audience: Application User
+ms.search.region: Global
 ---
 
 # About distributing questionnaires 
@@ -41,5 +43,5 @@ There are several ways that you can distribute a questionnaire:
 [End a scheduled questionnaire](end-a-scheduled-questionnaire.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

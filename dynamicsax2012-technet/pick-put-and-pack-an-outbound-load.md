@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pick, put, and pack an outbound load
 TOCTitle: Pick, put, and pack an outbound load
 ms:assetid: 30305963-f259-49e0-8700-4afdd77bd321
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn770231(v=AX.60)
 ms:contentKeyID: 62583044
 ms.date: 07/11/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Pick, put, and pack an outbound load 
@@ -137,5 +139,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

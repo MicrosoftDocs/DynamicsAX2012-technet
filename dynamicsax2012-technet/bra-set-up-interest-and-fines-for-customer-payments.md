@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up interest and fines for customer payments
 TOCTitle: (BRA) Set up interest and fines for customer payments
 ms:assetid: ed1b025e-57db-4c41-93cf-025885e10069
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - BR - 00036
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up interest and fines for customer payments 
@@ -136,5 +138,5 @@ You can set up fine codes to automatically calculate fines on delayed payments m
 [Payment calendar configuration - vendors and customers (form)](https://technet.microsoft.com/en-us/library/jj677400\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

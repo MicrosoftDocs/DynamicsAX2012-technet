@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure SQL Server and storage settings
 TOCTitle: Configure SQL Server and storage settings
 ms:assetid: 83931d0a-2d75-4cc8-b29b-129ebd5b27e5
@@ -233,5 +233,5 @@ To help achieve optimal Microsoft Dynamics AX performance, you must correctly pl
 [Microsoft Dynamics AX Performance Team's blog](http://go.microsoft.com/fwlink/?linkid=213223)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

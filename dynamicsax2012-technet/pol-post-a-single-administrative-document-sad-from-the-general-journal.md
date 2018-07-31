@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Post a Single Administrative Document (SAD) from the general journal
 TOCTitle: (POL) Post a Single Administrative Document (SAD) from the general journal
 ms:assetid: 2f552576-1e6b-4186-97db-d3958bc477ba
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731079(v=AX.60)
 ms:contentKeyID: 49675319
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Post a Single Administrative Document (SAD) from the general journal 
@@ -50,5 +52,5 @@ To provide an item commodity code for the SAD references, you must set up an ite
 [(POL) SAD documents (form)](https://technet.microsoft.com/en-us/library/jj678156\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

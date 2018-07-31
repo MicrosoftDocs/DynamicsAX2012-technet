@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Enterprise Portal (Enterprise Portal)
 TOCTitle: About Enterprise Portal
 ms:assetid: 17cbc7d9-f782-43d6-920c-ca056a0a2ed8
@@ -13,6 +13,8 @@ f1_keywords:
 - web
 - enterprise portal
 - self service
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Enterprise Portal (Enterprise Portal) 
@@ -35,5 +37,5 @@ The information in this section of the Help describes how to use the system-wide
 [About Enterprise Portal Browser requirements](about-enterprise-portal-browser-requirements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

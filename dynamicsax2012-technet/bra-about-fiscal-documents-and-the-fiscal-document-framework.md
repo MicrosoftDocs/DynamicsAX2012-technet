@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) About fiscal documents and the fiscal document framework
 TOCTitle: (BRA) About fiscal documents and the fiscal document framework
 ms:assetid: dc0a3685-3770-472b-823a-3210ecac339a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - BR - 00009
 - BR - 00010
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) About fiscal documents and the fiscal document framework 
@@ -43,5 +45,5 @@ The fiscal document framework also ensures that all related information uses the
 [(BRA) Fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710548\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

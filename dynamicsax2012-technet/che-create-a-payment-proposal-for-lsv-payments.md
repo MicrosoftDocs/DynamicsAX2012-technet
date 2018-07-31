@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHE) Create a payment proposal for LSV+ payments
 TOCTitle: (CHE) Create a payment proposal for LSV+ payments
 ms:assetid: 995f55a7-9d16-4cd9-bb18-d3a405d1af51
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232247(v=AX.60)
 ms:contentKeyID: 36058692
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Switzerland
 ---
 
 # (CHE) Create a payment proposal for LSV+ payments 
@@ -32,5 +34,5 @@ Use the **Journals** form to create a payment proposal for LSV+ payments.
 [(CHE) Swiss LSV+ electronic payment format](che-swiss-lsv-electronic-payment-format.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

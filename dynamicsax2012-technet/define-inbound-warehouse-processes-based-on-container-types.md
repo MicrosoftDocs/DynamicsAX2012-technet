@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define inbound warehouse processes based on container types
 TOCTitle: Define inbound warehouse processes based on container types
 ms:assetid: 298ae871-813c-4d19-a9f1-01a91b64b514
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt740364(v=AX.60)
 ms:contentKeyID: 73212215
 ms.date: 07/20/2016
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define inbound warehouse processes based on container types 
@@ -250,5 +252,5 @@ For each inbound mobile device menu item, you can control whether the container 
 3.  To show the container type as part of the mobile device page, select **Display container type**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budget control cube (BudgetControlCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Budget control cube (BudgetControlCube)
 ms:assetid: 644eb8b0-ee0c-4723-9bce-0fd2315cffef
@@ -354,7 +354,7 @@ The Budget control cube contains the following calculated measures.
 </tr>
 <tr class="odd">
 <td><p>Carry-forward budget</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This calculated measure is available only in Microsoft Dynamics AX 2012 R3.</P>
@@ -392,5 +392,5 @@ The Budget control cube can be accessed by users assigned to the following Micro
   - Financial controller
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

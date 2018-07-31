@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure a channel database for large data volumes
 TOCTitle: Configure a channel database for large data volumes
 ms:assetid: 7f2b350c-ef2c-4676-b082-2e1e50d797d2
@@ -84,5 +84,5 @@ If you need more staging tables, you can create them by duplicating the template
 In the AOT, find **RetailCDXSharedChangeTracking\_Template**, copy it, and rename it.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

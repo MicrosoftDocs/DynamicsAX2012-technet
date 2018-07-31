@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up manual or automatic inventory reservations
 TOCTitle: Set up manual or automatic inventory reservations
 ms:assetid: eeb096bf-9891-4df4-9cec-646fa3cb974c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551553(v=AX.60)
 ms:contentKeyID: 36059912
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up manual or automatic inventory reservations 
@@ -34,5 +36,5 @@ The following steps describe how to set up manual or automatic inventory reserva
       - **Explosion** – Inventory is reserved when order lines are created, in the order in which the order lines are created. For BOMs, reservations are made for the individual elements of the BOM, not for the BOM item number.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

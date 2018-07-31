@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cancel a postdated check for a vendor
 TOCTitle: Cancel a postdated check for a vendor
 ms:assetid: bb93a0db-b2b7-45ab-a834-7670dfc243f0
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - checks
 - postdated checks
+audience: Application User
+ms.search.region: Global
 ---
 
 # Cancel a postdated check for a vendor 
@@ -39,5 +41,5 @@ You can cancel a posted postdated check when:
 If the **Post journal entries for postdated checks** check box is selected in the **General ledger parameters** form, the transaction for the check is reversed in the vendor payment journal. If the **Post journal entries for postdated checks** check box is not selected, the vendor payment journal for the check is deleted.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Generate an ISR provisional payment report
 TOCTitle: (MEX) Generate an ISR provisional payment report
 ms:assetid: e208da75-64af-47cd-8082-414b69dfc62c
@@ -11,6 +11,8 @@ f1_keywords:
 - Mexico
 - report
 - provisional payment
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Generate an ISR provisional payment report 
@@ -125,5 +127,5 @@ Use the **ISR reports** form to generate the ISR provisional payment report.
 [(MEX) Define tax registration numbers for a company and a vendor account](mex-define-tax-registration-numbers-for-a-company-and-a-vendor-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a purchase order from a sales order
 TOCTitle: Create a purchase order from a sales order
 ms:assetid: 8fbb76c4-df41-4d31-bd52-2cb3a035bb56
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498365(v=AX.60)
 ms:contentKeyID: 37832517
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a purchase order from a sales order 
@@ -61,5 +63,5 @@ Use this procedure to create a purchase order that is based on a sales order. Wh
 [Create a purchase order for items that have an environmental impact](create-a-purchase-order-for-items-that-have-an-environmental-impact.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

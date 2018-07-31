@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign variant groups (Retail essentials)
 TOCTitle: Assign variant groups (Retail essentials)
 ms:assetid: 996cbb77-38fd-4fc3-a4ce-91d1afcd7096
@@ -52,5 +52,5 @@ You can view or modify the sizes, colors, and styles of a product. On the **Gene
 [Retail hierarchy (Retail essentials)](retail-hierarchy-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

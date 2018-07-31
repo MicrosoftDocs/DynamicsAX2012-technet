@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Configuring an inbound integration port for Office Excel import'
 TOCTitle: 'Walkthrough: Configuring an inbound integration port for Office Excel import'
 ms:assetid: 618ae9ca-8a4e-41bf-8ca6-070733472fb7
@@ -62,5 +62,5 @@ A service must be registered before it can be used. Some services that are inclu
 [Use Microsoft Excel to import and export data](use-microsoft-excel-to-import-and-export-data.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

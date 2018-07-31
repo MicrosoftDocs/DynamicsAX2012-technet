@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Configuring required General ledger information
 TOCTitle: (BRA) Configuring required General ledger information
 ms:assetid: dfbfad8f-3150-45f8-a163-87977d08f96b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663952(v=AX.60)
 ms:contentKeyID: 49384543
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Configuring required General ledger information 
@@ -38,5 +40,5 @@ The topics in this section provide information about how to configure the Genera
 [(BRA) Set up Brazilian parameters](bra-set-up-brazilian-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

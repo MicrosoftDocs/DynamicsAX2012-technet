@@ -1,4 +1,4 @@
-﻿---
+---
 title: Payroll calculation frequencies tasks
 TOCTitle: Payroll calculation frequencies tasks
 ms:assetid: de11c019-c79c-4a0a-a04a-f767fe11e871
@@ -12,6 +12,8 @@ f1_keywords:
 - Forms.PayrollCalculationFrequency
 - Payroll
 - MsDynAx060.Forms.PayrollCalculationFrequency
+audience: Application User
+ms.search.region: USA
 ---
 
 # Payroll calculation frequencies tasks 
@@ -254,5 +256,5 @@ Back to top
 [Worker and position payroll tasks](worker-and-position-payroll-tasks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

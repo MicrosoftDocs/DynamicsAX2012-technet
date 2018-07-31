@@ -1,4 +1,4 @@
-﻿---
+---
 title: Record sales tax that is not claimed by EU vendors
 TOCTitle: Record sales tax that is not claimed by EU vendors
 ms:assetid: 8e06bc57-37d9-420c-ae99-d61a1f36f92c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498354(v=AX.60)
 ms:contentKeyID: 44081006
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Record sales tax that is not claimed by EU vendors 
@@ -114,5 +116,5 @@ Before you can complete this procedure, you must create a sales tax code that is
 [Ledger posting groups (form)](https://technet.microsoft.com/en-us/library/aa598801\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

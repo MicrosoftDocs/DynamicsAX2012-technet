@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add items to the shopping cart
 TOCTitle: Add items to the shopping cart
 ms:assetid: de3f0731-446b-4b9f-a9d9-de834ab99f5d
@@ -14,6 +14,8 @@ f1_keywords:
 - EPCSSPromotionalItemGuest
 - WebProductCatalogGroup
 - WebProductCatalogItem
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add items to the shopping cart 
@@ -67,5 +69,5 @@ You can use Enterprise Portal to order items online. You can use different metho
 [About shopping for items](about-shopping-for-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

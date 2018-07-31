@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set default application layer
 TOCTitle: Set default application layer
 ms:assetid: b34431c3-3a0f-4556-9267-06e7638d111b
@@ -30,5 +30,5 @@ Use the Microsoft Dynamics AX 2012 Configuration utility to specify the applicat
 [Edit code at a customer site](edit-code-at-a-customer-site.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

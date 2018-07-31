@@ -1,4 +1,4 @@
-﻿---
+---
 title: Settle transactions with payments
 TOCTitle: Settle transactions with payments
 ms:assetid: b01e2c2a-c970-4491-9d8e-8e5adfa73d34
@@ -11,6 +11,8 @@ f1_keywords:
 - transactions
 - transaction
 - payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Settle transactions with payments 
@@ -79,5 +81,5 @@ For information about cross-company settlements, see [About cross-company paymen
 [Specify the cross rate](specify-the-cross-rate.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

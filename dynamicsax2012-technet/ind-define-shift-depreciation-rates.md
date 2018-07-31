@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Define shift depreciation rates
 TOCTitle: (IND) Define shift depreciation rates
 ms:assetid: e8c1329b-a17e-41e5-9dc8-d98cc9135a73
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710897(v=AX.60)
 ms:contentKeyID: 49386309
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Define shift depreciation rates 
@@ -55,5 +57,5 @@ You can define rates for single shift, double shift, and triple shift to calcula
       - **Triple shift percentage** – Enter the percentage to calculate depreciation for a triple shift.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

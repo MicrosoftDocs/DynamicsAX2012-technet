@@ -1,4 +1,4 @@
-﻿---
+---
 title: About pay-when-paid projects
 TOCTitle: About pay-when-paid projects
 ms:assetid: a2e5cbdb-2b98-4fb7-be4f-37061e762c33
@@ -17,6 +17,8 @@ f1_keywords:
 - PWP terms
 - pay-when-paid
 - PWP projects
+audience: Application User
+ms.search.region: Global
 ---
 
 # About pay-when-paid projects 
@@ -51,5 +53,5 @@ After you receive the full payment from the customer, you pay 10,000.00 to the v
 [Key tasks: Manage pay-when-paid projects](key-tasks-manage-pay-when-paid-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Replenish inventory overview (Retail essentials)
 TOCTitle: Replenish inventory overview (Retail essentials)
 ms:assetid: 88904b0c-4c0e-4631-ada3-28afc854cf97
@@ -123,5 +123,5 @@ The following table lists the forms that support the Replenishing inventory busi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

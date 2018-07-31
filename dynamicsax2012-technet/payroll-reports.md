@@ -1,4 +1,4 @@
-﻿---
+---
 title: Payroll reports
 TOCTitle: Payroll reports
 ms:assetid: 3503826f-f845-431d-b357-cd0c7fedfca6
@@ -36,5 +36,5 @@ The following reports are available in Payroll for Microsoft Dynamics AX:
 [Worker payment register report (PayrollWorkerPaymentRegister)](worker-payment-register-report-payrollworkerpaymentregister.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

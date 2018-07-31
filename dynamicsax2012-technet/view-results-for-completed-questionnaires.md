@@ -1,4 +1,4 @@
-﻿---
+---
 title: View results for completed questionnaires
 TOCTitle: View results for completed questionnaires
 ms:assetid: f8931ebe-21c9-41d0-b98d-972df2d493b5
@@ -10,6 +10,8 @@ f1_keywords:
 - KMEPQuestionnaireAnswerReport
 - KMEPQuestionnaireResultInfo
 - KMEPQuestionnaireResultList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View results for completed questionnaires 
@@ -36,5 +38,5 @@ Use the **Questionnaire results** page to view a summary of a respondent’s que
 [Respond to a questionnaire](respond-to-a-questionnaire.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

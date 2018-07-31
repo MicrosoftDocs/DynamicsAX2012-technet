@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure and manage financial dimension links to sites
 TOCTitle: Configure and manage financial dimension links to sites
 ms:assetid: 721cdfc8-1102-4bf9-b6e5-076599b1b766
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231846(v=AX.60)
 ms:contentKeyID: 44080993
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure and manage financial dimension links to sites 
@@ -134,5 +136,5 @@ When you deactivate a financial dimension link, the following occurs:
 [Sites (form)](https://technet.microsoft.com/en-us/library/hh242661\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Purchase requisition parameters'
 TOCTitle: Purchase requisition parameters
 ms:assetid: 2ad9007a-b0ab-4d78-9f17-02dc84179c02
@@ -55,5 +55,5 @@ In Microsoft Dynamics AX 2009, purchase requisition setup is managed on the **Pu
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

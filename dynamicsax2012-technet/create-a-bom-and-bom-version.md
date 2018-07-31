@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a BOM and BOM version
 TOCTitle: Create a BOM and BOM version
 ms:assetid: c311336f-7a61-4390-a1dd-69ea6d45876d
@@ -11,6 +11,8 @@ f1_keywords:
 - bill of material
 - bills of material
 - BOMs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a BOM and BOM version 
@@ -53,5 +55,5 @@ You can create different versions of an existing bill of materials (BOM). You ca
 [BOM line (form)](https://technet.microsoft.com/en-us/library/aa558446\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage collaboration workspaces (Sales and marketing)
 TOCTitle: Manage collaboration workspaces (Sales and marketing)
 ms:assetid: 4a83e214-8f50-4195-b8eb-e27234b315e9
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - collaboration workspace
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage collaboration workspaces (Sales and marketing) 
@@ -26,5 +28,5 @@ The following topics provide information about working with collaboration worksp
 [Set up collaboration workspaces](set-up-collaboration-workspaces.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

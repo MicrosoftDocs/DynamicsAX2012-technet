@@ -1,4 +1,4 @@
-﻿---
+---
 title: About LIFO Date with physical value and marking
 TOCTitle: About LIFO Date with physical value and marking
 ms:assetid: a8790364-b8c1-4764-bab7-1d5e0d71b4bf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243064(v=AX.60)
 ms:contentKeyID: 36058886
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About LIFO Date with physical value and marking 
@@ -218,5 +220,5 @@ The following diagram illustrates the effects of choosing the LIFO inventory mod
 [About weighted average date](about-weighted-average-date.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Create a cash receipt batch and post the journal
 TOCTitle: (LVA) Create a cash receipt batch and post the journal
 ms:assetid: 7d5ffb08-67de-4053-b3b4-03979f982765
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838782(v=AX.60)
 ms:contentKeyID: 50120664
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Create a cash receipt batch and post the journal 
@@ -84,5 +86,5 @@ Use the **Cash receipt books** form to create cash receipts that you can use dur
 [(LVA) Cash receipt update (form)](https://technet.microsoft.com/en-us/library/jj721416\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate transport tax registers
 TOCTitle: (RUS) Calculate transport tax registers
 ms:assetid: ca6df6a7-e649-4366-b4bd-3c1ded4344c3
@@ -10,6 +10,8 @@ f1_keywords:
 - calculate
 - Russia
 - transport tax
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate transport tax registers 
@@ -70,5 +72,5 @@ When you create a journal in the transport tax register for the accounting year,
 [(RUS) Set up the calculation of transport tax](rus-set-up-the-calculation-of-transport-tax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

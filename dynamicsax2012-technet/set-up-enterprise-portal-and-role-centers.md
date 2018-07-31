@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Enterprise Portal and Role Centers
 TOCTitle: Set up Enterprise Portal and Role Centers
 ms:assetid: ad3a324c-22d5-41ea-93c2-f904d68adb0e
@@ -22,5 +22,5 @@ By default, only the administrator who installed Enterprise Portal for Microsoft
 [Enterprise Portal and Role Centers security and protection](enterprise-portal-and-role-centers-security-and-protection.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

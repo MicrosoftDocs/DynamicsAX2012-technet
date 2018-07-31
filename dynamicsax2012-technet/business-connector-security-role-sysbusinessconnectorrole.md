@@ -1,4 +1,4 @@
-﻿---
+---
 title: Business Connector security role (SysBusinessConnectorRole)
 TOCTitle: Business Connector security role (SysBusinessConnectorRole)
 ms:assetid: 77635c9a-c414-43d8-8b53-15d06cf92e95
@@ -18,5 +18,5 @@ The Business connector security role must be assigned to users who access Micros
 The .NET Business Connector allows users to access the business logic in Microsoft Dynamics AX from an external application. To help protect your business data from tampering, you should assign this role only when it is required.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

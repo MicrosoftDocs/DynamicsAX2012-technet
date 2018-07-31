@@ -1,4 +1,4 @@
-﻿---
+---
 title: Consuming Web Services (White paper)
 TOCTitle: Consuming Web Services
 ms:assetid: da527d7c-6fbf-4cfb-ad12-d224fe4ae559
@@ -18,5 +18,5 @@ Microsoft Dynamics AX 2012 introduces a new model for how to consume external We
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213142).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

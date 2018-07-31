@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Human resources
 TOCTitle: Working with Human resources
 ms:assetid: 381ddf16-6993-430c-bd82-e9a0637e9101
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231121(v=AX.60)
 ms:contentKeyID: 36056617
 ms.date: 11/14/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Human resources 
@@ -28,5 +30,5 @@ This section provides overviews of the Human resources business process componen
 [Work with forecast positions](work-with-forecast-positions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

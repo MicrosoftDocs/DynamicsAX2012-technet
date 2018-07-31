@@ -1,4 +1,4 @@
-﻿---
+---
 title: Help system architecture
 TOCTitle: Help system architecture
 ms:assetid: 929971c1-2b66-42df-a047-3baa684c8bdc
@@ -30,5 +30,5 @@ To better understand how the components in this diagram work together, consider 
 4.  The Help server sends the topic to the client, where it is displayed in the Help viewer.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

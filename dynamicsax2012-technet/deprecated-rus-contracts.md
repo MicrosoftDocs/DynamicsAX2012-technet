@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (RUS) Contracts'
 TOCTitle: (RUS) Contracts
 ms:assetid: cdbc9e15-9c2d-414c-9f7f-ca8e2d8dc83c
@@ -69,5 +69,5 @@ Russian installations of Microsoft Dynamics AX 2009 let users perform the follow
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

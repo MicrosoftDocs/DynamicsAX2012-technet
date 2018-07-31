@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up a line property
 TOCTitle: (BRA) Set up a line property
 ms:assetid: 1cfaf228-f899-4ba5-a86a-e7e1eeca3c94
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853378(v=AX.60)
 ms:contentKeyID: 50396749
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up a line property 
@@ -54,5 +56,5 @@ Use the **Project/group line properties** form to create a line property and to 
 [(BRA) Project/group line properties (modified form)](https://technet.microsoft.com/en-us/library/jj911306\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

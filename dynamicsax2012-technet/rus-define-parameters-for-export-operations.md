@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Define parameters for export operations
 TOCTitle: (RUS) Define parameters for export operations
 ms:assetid: a026e494-c77b-4433-936f-7619d7f2c50b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - parameter
 - Export transaction
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Define parameters for export operations 
@@ -93,5 +95,5 @@ You must set up the parameters for export transactions in the **Accounts receiva
 [(RUS) Sales tax settlement periods (modified form)](https://technet.microsoft.com/en-us/library/jj711340\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

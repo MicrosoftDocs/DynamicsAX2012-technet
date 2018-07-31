@@ -1,4 +1,4 @@
-﻿---
+---
 title: Print periodic customer account statements
 TOCTitle: Print periodic customer account statements
 ms:assetid: 896a59aa-e767-4bdb-ad0a-5a4c0433e076
@@ -10,6 +10,8 @@ f1_keywords:
 - statements
 - centralized
 - statement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Print periodic customer account statements 
@@ -140,5 +142,5 @@ Alternatively, you can set up print management for the **Customer account statem
 [(DNK) Set up a payment slip format for customers](dnk-set-up-a-payment-slip-format-for-customers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

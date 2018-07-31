@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Configure withholding tax calculation
 TOCTitle: (IND) Configure withholding tax calculation
 ms:assetid: bee2e9ad-2635-423f-8d90-aa6842aeb953
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.CustTable
 - Forms.TaxWithholdGroup
 - Forms.VendTable
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Configure withholding tax calculation 
@@ -179,5 +181,5 @@ To set up the withholding tax calculation for a vendor, follow these steps:
 [(IND) About recalculation of indirect taxes](ind-about-recalculation-of-indirect-taxes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot services and AIF
 TOCTitle: Troubleshoot services and AIF
 ms:assetid: cde3c0a1-cd86-4da7-ae96-af4e380f2d5f
@@ -187,5 +187,5 @@ To indicate that the field is required only for the service operation, you must 
 By setting the **Mandatory** property to **Yes** on the table field, you guarantee that the field is always included in the outbound transfer. This property also enforces the requirement that a non-default value be set for the field when the field is saved to the database. In other words, the field cannot be inserted into the database if the field does not have a valid value. For more information about how to set the **Mandatory** property on table fields, see [Best Practices for Table Field Properties](https://technet.microsoft.com/en-us/library/aa590501\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

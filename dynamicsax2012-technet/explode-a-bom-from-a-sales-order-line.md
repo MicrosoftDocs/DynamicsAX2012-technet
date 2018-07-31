@@ -1,4 +1,4 @@
-﻿---
+---
 title: Explode a BOM from a sales order line
 TOCTitle: Explode a BOM from a sales order line
 ms:assetid: 3fa4b63a-e76c-4b74-8f43-cd5abf980265
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496944(v=AX.60)
 ms:contentKeyID: 36056706
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Explode a BOM from a sales order line 
@@ -32,5 +34,5 @@ Explode a BOM from a sales order line:
 [Explode BOM lines in purchase order (form)](https://technet.microsoft.com/en-us/library/aa500727\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

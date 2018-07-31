@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up asset activity codes
 TOCTitle: Set up asset activity codes
 ms:assetid: c7b59886-fd84-4564-8faf-5c81dd62b6df
@@ -10,6 +10,8 @@ f1_keywords:
 - fixed asset
 - activity code
 - asset activity code
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up asset activity codes 
@@ -46,5 +48,5 @@ Asset activity codes are often used together with other fixed asset codes, such 
 [Property groups (form)](https://technet.microsoft.com/en-us/library/hh242668\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

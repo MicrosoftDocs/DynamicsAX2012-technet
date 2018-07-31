@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Factors for deferrals writing off report (RDeferralsWritingOffFactor)
 TOCTitle: (RUS) Factors for deferrals writing off report (RDeferralsWritingOffFactor)
 ms:assetid: 8a90ab78-c2dc-445e-80ea-0de79412ad37
@@ -118,5 +118,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(RUS) Factors for deferrals writing off (form)](https://technet.microsoft.com/en-us/library/jj853189\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

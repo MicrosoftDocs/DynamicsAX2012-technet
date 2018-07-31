@@ -1,4 +1,4 @@
-﻿---
+---
 title: Settle a postdated check for a customer or a vendor
 TOCTitle: Settle a postdated check for a customer or a vendor
 ms:assetid: f70f40be-90ed-4d0d-9873-9e21943bc254
@@ -10,6 +10,8 @@ f1_keywords:
 - vendor
 - transfer
 - postdated check
+audience: Application User
+ms.search.region: Global
 ---
 
 # Settle a postdated check for a customer or a vendor 
@@ -36,5 +38,5 @@ Use the **Select bridged transactions** form to settle a postdated check that is
 [Select bridged postings (form)](https://technet.microsoft.com/en-us/library/aa583988\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

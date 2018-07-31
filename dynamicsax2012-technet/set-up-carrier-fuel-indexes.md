@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up carrier fuel indexes
 TOCTitle: Set up carrier fuel indexes
 ms:assetid: 274db4e5-1af4-420e-a240-418d493e87e2
@@ -12,6 +12,8 @@ f1_keywords:
 - carrier fuel indexes
 - fuel indexes
 - fuel index
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up carrier fuel indexes 
@@ -124,5 +126,5 @@ To associate a shipping carrier with a fuel index region, follow these steps:
 [Set up accessorial assignments](set-up-accessorial-assignments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Export accounting information (Retail essentials)
 TOCTitle: Export accounting information (Retail essentials)
 ms:assetid: c188bfb1-9f0a-4621-b69d-3bff3228ae48
@@ -87,5 +87,5 @@ You can view previously exported accounting totals by the date range of the tota
 4.  To export the selected accounting export again, clear the **Exported to file** check box. The totals will be exported the next time that the **Export account activity** batch job is run.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

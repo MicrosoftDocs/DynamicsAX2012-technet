@@ -1,4 +1,4 @@
-﻿---
+---
 title: View service object relations
 TOCTitle: View service object relations
 ms:assetid: ff78927b-6072-4fee-a9fc-8cc265b58a19
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPServiceObjectRelationInfo
 - EPServiceObjectRelationList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View service object relations 
@@ -47,5 +49,5 @@ A service object relation is the specific object of the service. It is used to a
 [View service orders](view-service-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

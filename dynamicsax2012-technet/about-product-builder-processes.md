@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Product Builder processes
 TOCTitle: About Product Builder processes
 ms:assetid: a8b1340b-3bf3-4770-8feb-390be5aef7c6
@@ -10,6 +10,8 @@ f1_keywords:
 - Product builder
 - about product builder
 - key processes
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Product Builder processes 
@@ -40,5 +42,5 @@ The **Product Builder** module’s key processes are as follows:
   - Calculation of the delivery date by using the **Master planning** module.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

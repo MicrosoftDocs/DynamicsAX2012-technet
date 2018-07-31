@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post a product receipt for a purchase order
 TOCTitle: (RUS) Post a product receipt for a purchase order
 ms:assetid: 34ec286f-f4b9-4597-884e-97fdd3602e24
@@ -10,6 +10,8 @@ f1_keywords:
 - purchase order
 - product receipt
 - post a product receipt
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post a product receipt for a purchase order 
@@ -71,5 +73,5 @@ You can post a product receipt for a purchase order for items that you have spec
 [(RUS) Correct a product receipt and print the receipt statement report](rus-correct-a-product-receipt-and-print-the-receipt-statement-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add, modify, and remove goal activities
 TOCTitle: Add, modify, and remove goal activities
 ms:assetid: bfae5b6b-b3cc-4e61-9975-f9d9cf730ab9
@@ -10,6 +10,8 @@ f1_keywords:
 - HcmEPGoalActivityCreate
 - HcmEPGoalActivityEdit
 - HcmEPGoalActivityInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add, modify, and remove goal activities 
@@ -82,5 +84,5 @@ Depending on your permissions, you might be able to maintain only your goal acti
 [Add and remove goal comments](add-and-remove-goal-comments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

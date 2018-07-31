@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an affiliated customer
 TOCTitle: (RUS) Set up an affiliated customer
 ms:assetid: 931ea1b1-d76e-4a15-b5a4-f1ff7c471389
@@ -8,6 +8,8 @@ ms.date: 05/07/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.CustTable
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an affiliated customer 
@@ -38,5 +40,5 @@ Use the **Customers** form to affiliate a customer with an intercompany. If you 
 [(RUS) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj853212\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

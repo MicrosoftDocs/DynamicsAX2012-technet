@@ -1,4 +1,4 @@
-﻿---
+---
 title: List pages (Enterprise Portal)
 TOCTitle: List pages
 ms:assetid: e1d97b94-f4b0-49b8-b3a5-8b7749bf6f52
@@ -36,6 +36,8 @@ f1_keywords:
 - smmLeadsListPageMyActiveLeads
 - smmBusinessRelationsListPageMyBusRel
 - TrvRequisitionsWorkerListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # List pages (Enterprise Portal) 
@@ -72,5 +74,5 @@ For information about filters, see [List filters](list-filters.md). For more inf
 [Using the Service management site](using-the-service-management-site.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

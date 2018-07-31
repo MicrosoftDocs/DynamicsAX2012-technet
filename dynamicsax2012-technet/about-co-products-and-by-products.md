@@ -1,4 +1,4 @@
-﻿---
+---
 title: About co-products and by-products
 TOCTitle: About co-products and by-products
 ms:assetid: 9ddb40e1-afe6-486d-8404-9b3b61f490c8
@@ -14,6 +14,8 @@ f1_keywords:
 - coproduct
 - byproduct
 - co-product
+audience: Application User
+ms.search.region: Global
 ---
 
 # About co-products and by-products 
@@ -54,5 +56,5 @@ When you set up a by-product in the **Co-products** form in **Inventory and ware
 [Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

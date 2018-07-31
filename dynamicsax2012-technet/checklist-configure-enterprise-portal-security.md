@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Checklist: Configure Enterprise Portal security'
 TOCTitle: 'Checklist: Configure Enterprise Portal security'
 ms:assetid: fed77384-7e0c-446f-8f17-1fb3220a07c1
@@ -63,7 +63,7 @@ Table 2: Security tasks for extranet deployments
 <tbody>
 <tr class="odd">
 <td><p>Enhance Enterprise Portal security in extranet deployments by using two domain controllers and two firewalls. This deployment model is called a traditional perimeter network.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!TIP]
 > <P>If you prefer not to deploy Enterprise Portal with multiple domain controllers, you can authenticate Enterprise Portal users by using claims-mode authentication. For more information, see the next item in this checklist.</P>
@@ -129,5 +129,5 @@ Table 3: Security tasks to enable user access
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

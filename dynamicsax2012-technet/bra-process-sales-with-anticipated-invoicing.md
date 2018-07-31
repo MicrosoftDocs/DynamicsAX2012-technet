@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Process sales with anticipated invoicing
 TOCTitle: (BRA) Process sales with anticipated invoicing
 ms:assetid: fa9ec2ac-fbf0-4e72-95d1-87497793bb43
@@ -11,6 +11,8 @@ f1_keywords:
 - Brazil
 - process sales
 - anticipated invoicing
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Process sales with anticipated invoicing 
@@ -76,5 +78,5 @@ In a sale that uses anticipated invoicing, you accept a prepayment, or advance p
 [(BRA) Sales posting (modified form)](https://technet.microsoft.com/en-us/library/jj853383\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

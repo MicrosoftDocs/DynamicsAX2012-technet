@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail store manager security role (RetailStoreManager)
 TOCTitle: Retail store manager security role (RetailStoreManager)
 ms:assetid: 279c7ea3-f1e2-48f1-a3a3-023d37956459
@@ -193,5 +193,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

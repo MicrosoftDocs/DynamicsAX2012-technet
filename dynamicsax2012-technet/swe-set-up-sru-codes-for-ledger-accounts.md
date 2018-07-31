@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Set up SRU codes for ledger accounts
 TOCTitle: (SWE) Set up SRU codes for ledger accounts
 ms:assetid: 13960413-24d7-40e7-920d-df1892b85243
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230937(v=AX.60)
 ms:contentKeyID: 36056049
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Set up SRU codes for ledger accounts 
@@ -40,5 +42,5 @@ The following export format types are available:
 [(SWE) Export financial information for auditors](swe-export-financial-information-for-auditors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

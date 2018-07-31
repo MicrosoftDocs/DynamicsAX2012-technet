@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up screen layouts (Retail essentials)
 TOCTitle: Setting up screen layouts (Retail essentials)
 ms:assetid: fd02c4d9-b11b-47b4-9d84-6aaf09962fdf
@@ -38,5 +38,5 @@ The topics in this section provide information about how to set up screen layout
 [Assign a screen layout (Retail essentials)](assign-a-screen-layout-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Settle tax liabilities
 TOCTitle: (RUS) Settle tax liabilities
 ms:assetid: d7c6cf1a-f3df-44e8-93e1-66e03a47e458
@@ -17,6 +17,8 @@ f1_keywords:
 - tax liability
 - settle tax liabilities
 - reverse settlement
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Settle tax liabilities 
@@ -258,5 +260,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

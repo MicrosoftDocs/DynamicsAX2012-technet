@@ -1,4 +1,4 @@
-﻿---
+---
 title: " optical character recognition"
 TOCTitle: " optical character recognition"
 ms:assetid: DynamicsAXGlossary.86682
@@ -19,5 +19,5 @@ A method of translating images of printed text into machine-encoded text.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

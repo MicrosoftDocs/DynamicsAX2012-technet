@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up number sequences for project debit notes
 TOCTitle: (BRA) Set up number sequences for project debit notes
 ms:assetid: 5b8414b3-c23a-4978-b2bc-8db861a9c130
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853380(v=AX.60)
 ms:contentKeyID: 50396747
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up number sequences for project debit notes 
@@ -28,5 +30,5 @@ Use the **Project management and accounting parameters** form to set up number s
 [(BRA) Project management and accounting parameters (modified form)](https://technet.microsoft.com/en-us/library/jj937990\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

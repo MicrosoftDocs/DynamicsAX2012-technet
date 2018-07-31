@@ -1,4 +1,4 @@
-﻿---
+---
 title: Certificates for electronic signatures
 TOCTitle: Certificates for electronic signatures
 ms:assetid: dcad68bf-4019-4c6e-ad22-380651c55f2f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - compliance
 - e-signatures
+audience: Application User
+ms.search.region: Global
 ---
 
 # Certificates for electronic signatures 
@@ -70,5 +72,5 @@ If you forget the password that is connected to your certificate, that certifica
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

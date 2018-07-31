@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create e-mail groups
 TOCTitle: Create e-mail groups
 ms:assetid: fe53b238-917b-480c-bdf6-8e1d9598f03c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573445(v=AX.60)
 ms:contentKeyID: 36811444
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create e-mail groups 
@@ -54,5 +56,5 @@ You can create e-mail groups for several kinds of tasks. You can then add and de
     All of the targets in the **Campaigns** form are transferred as members of the new e-mail group, but they are not deleted from the **Campaigns** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

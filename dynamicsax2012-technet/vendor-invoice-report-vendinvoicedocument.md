@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor invoice report (VendInvoiceDocument)
 TOCTitle: Vendor invoice report (VendInvoiceDocument)
 ms:assetid: bea45cdf-020a-4574-9bd3-6f1fd4719e14
@@ -142,5 +142,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

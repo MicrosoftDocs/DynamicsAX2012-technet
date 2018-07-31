@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy, modify, or delete forecast lines
 TOCTitle: Copy, modify, or delete forecast lines
 ms:assetid: c48adcb3-8f27-4c0c-8fc6-8d4f610f7bfa
@@ -11,6 +11,8 @@ f1_keywords:
 - delete forecast lines
 - edit forecast lines
 - process forecast lines
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy, modify, or delete forecast lines 
@@ -77,5 +79,5 @@ Use this procedure to process existing forecast transaction lines. You can copy,
 [Create forecast lines](create-forecast-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budget details report (BudgetDetails)
 TOCTitle: Budget details report (BudgetDetails)
 ms:assetid: 111de53d-e9ce-4b58-aee5-dee38b6c73cf
@@ -58,7 +58,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>From date</strong></p></td>
 <td><p>Select the starting date for budget register entries to include on the report.</p>
 <p>You can select a date range from one fiscal year or from multiple fiscal years. Both dates must be in the range of fiscal years that are included in the fiscal calendar that is used by your organization.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!TIP]
 > <P>To include report dates from one fiscal year, you do not have to enter a value in both the <STRONG>From date</STRONG> and <STRONG>To date</STRONG> fields. If you enter a value in the <STRONG>From date</STRONG> field, all the periods in the fiscal year after that date will be included on the report.</P>
@@ -70,7 +70,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>To date</strong></p></td>
 <td><p>Select the ending date for budget register entries to include on the report.</p>
 <p>You can select a date range from one fiscal year or from multiple fiscal years. Both dates must be in the range of fiscal years that are included in the fiscal calendar that is used by your organization.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!TIP]
 > <P>To include report dates from one fiscal year, you do not have to enter a value in both the <STRONG>From date</STRONG> and <STRONG>To date</STRONG> fields. If you enter a value in the <STRONG>To date</STRONG> field, all the periods in the fiscal year before that date will be included on the report.</P>
@@ -82,7 +82,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>Budget model</strong></p></td>
 <td><p>Click <strong>Select</strong> to open an inquiry form and select a budget model. You can leave this field blank to include all budget models on the report.</p>
 <p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa575929(v=ax.60)">Inquiry (form)</a>.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If you selected the <STRONG>Include submodels</STRONG> check box, the report will also include all submodels for the budget models that you select.</P>
@@ -94,7 +94,7 @@ When you generate this report, the following default parameters are displayed. Y
 <td><p><strong>Budget type</strong></p></td>
 <td><p>Click <strong>Select</strong> to open an inquiry form and select a budget type. You can leave this field blank to include all available budget types.</p>
 <p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa575929(v=ax.60)">Inquiry (form)</a>.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This report will not show budget details for encumbrances and pre-encumbrances if you select those two budget types. To create reports that include encumbrances and pre-encumbrances, use either the <STRONG>Budget funds available</STRONG> or <STRONG>Encumbrance and ledger reconciliation</STRONG> reports. For more information, see <A href="budget-funds-available-report-budgetfundsavailable.md">Budget funds available report (BudgetFundsAvailable)</A> or <A href="encumbrance-and-ledger-reconciliation-report-ledgerencumbrancereconciliation.md">Encumbrance and ledger reconciliation report (LedgerEncumbranceReconciliation)</A>.</P>
@@ -175,5 +175,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Budget funds available report (BudgetFundsAvailable)](budget-funds-available-report-budgetfundsavailable.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan maintenance of Microsoft Dynamics AX
 TOCTitle: Plan maintenance
 ms:assetid: 7c47710a-bbd5-4031-a798-1a2fc7a37e01
@@ -43,5 +43,5 @@ The topics in this section provide information about how to maintain Microsoft D
 [System architecture](system-architecture.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

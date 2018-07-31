@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan for batch processing
 TOCTitle: Plan for batch processing
 ms:assetid: aa348a55-2b42-4412-b736-4d01e19a79cb
@@ -22,5 +22,5 @@ The following topics are included in this section:
 [Batch processing overview](batch-processing-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

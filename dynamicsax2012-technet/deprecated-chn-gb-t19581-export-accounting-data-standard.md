@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (CHN) GB/T19581 export accounting data standard'
 TOCTitle: (CHN) GB/T19581 export accounting data standard
 ms:assetid: dce67915-f84b-4672-9443-5ce811be89a0
@@ -54,5 +54,5 @@ The Microsoft Dynamics AX 2009 SP1 GLSCON release provides a function that can e
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

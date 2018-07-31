@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up financial reason codes
 TOCTitle: Setting up financial reason codes
 ms:assetid: a9cc67ab-df45-4e1e-b910-085112f9548e
@@ -12,6 +12,8 @@ f1_keywords:
 - reason code
 - financial reason codes
 - reason code setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up financial reason codes 
@@ -26,5 +28,5 @@ The topics in this section provide information about how to set up reason codes.
 [Set up reason codes for financial modules](set-up-reason-codes-for-financial-modules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage your category assignments
 TOCTitle: Manage your category assignments
 ms:assetid: 92df16d3-05f3-42c6-8cdf-4481d8dc96ba
@@ -12,6 +12,8 @@ f1_keywords:
 - VendRequestCategoryList
 - VendRequestCategoryQuestionnaire
 - VendRequestVendorCategoryRequest
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage your category assignments 
@@ -74,5 +76,5 @@ You can view procurement categories that are assigned to you in the Vendor porta
 [View notifications](view-notifications.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

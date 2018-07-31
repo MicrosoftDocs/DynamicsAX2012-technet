@@ -1,4 +1,4 @@
-﻿---
+---
 title: Planning considerations for analytics
 TOCTitle: Planning considerations for analytics
 ms:assetid: 0cfb03b6-336a-4665-be39-b205fd34b5c8
@@ -159,5 +159,5 @@ A cube contains historical, or cached, data. To refresh the data in a cube, you 
 You can display cube data in many ways, such as in Microsoft SQL Server Reporting Services reports, key performance indicators (KPIs), and in Excel. For details, see the “Use” section of [Analytics in Microsoft Dynamics AX](analytics-in-microsoft-dynamics-ax.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

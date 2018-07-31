@@ -1,4 +1,4 @@
-﻿---
+---
 title: Loyalty programs (Retail essentials)
 TOCTitle: Loyalty programs (Retail essentials)
 ms:assetid: a63bff4a-e9ce-457c-acc2-a81027f61fca
@@ -161,5 +161,5 @@ The following table describes the processes that must be run to send the loyalty
 [Set up loyalty programs (Retail essentials)](set-up-loyalty-programs-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

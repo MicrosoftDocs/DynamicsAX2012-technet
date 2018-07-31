@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Apply a penalty when a customer payment is past due
 TOCTitle: (FRA) Apply a penalty when a customer payment is past due
 ms:assetid: 7b10ef47-c7db-47fe-9d92-23ea0a1fad1b
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - FR – 00018
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Apply a penalty when a customer payment is past due 
@@ -54,5 +56,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

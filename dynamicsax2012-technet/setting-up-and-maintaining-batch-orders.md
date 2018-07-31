@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining batch orders
 TOCTitle: Setting up and maintaining batch orders
 ms:assetid: 99acee4c-0596-4b9a-9420-fe042181edb3
@@ -13,6 +13,8 @@ f1_keywords:
 - batch order
 - process industries
 - batches
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining batch orders 
@@ -33,5 +35,5 @@ The topics in this section provide information about how to set up and maintain 
 [Add a formula line to a batch order](add-a-formula-line-to-a-batch-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

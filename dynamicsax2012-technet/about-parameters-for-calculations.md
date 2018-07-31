@@ -1,4 +1,4 @@
-﻿---
+---
 title: About parameters for calculations
 TOCTitle: About parameters for calculations
 ms:assetid: 1ff25cb2-5864-42af-a2c9-d7061228bba3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496784(v=AX.60)
 ms:contentKeyID: 36056156
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About parameters for calculations 
@@ -154,5 +156,5 @@ When paid time is calculated, pay is generated from pay agreement lines in the p
 [Calculation parameters (form)](https://technet.microsoft.com/en-us/library/aa584600\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

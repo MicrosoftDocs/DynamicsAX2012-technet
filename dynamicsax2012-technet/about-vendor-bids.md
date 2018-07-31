@@ -1,4 +1,4 @@
-﻿---
+---
 title: About vendor bids
 TOCTitle: About vendor bids
 ms:assetid: 2e0f3df5-0340-4606-aea8-54566001722e
@@ -22,6 +22,8 @@ f1_keywords:
 - vendor response
 - vendor reply
 - vendor replies
+audience: Application User
+ms.search.region: Global
 ---
 
 # About vendor bids 
@@ -84,5 +86,5 @@ To submit the bid to you, vendors follow this step in the Vendor portal.
 Your next step, after the RFQ expiration date and time pass, is to select which replies (bids) to accept and which to reject. In AX 2012 R3, you can score and rank bids to help determine which one to accept. You can also resubmit an RFQ reply to a vendor if you require additional information. For more information, see [Compare bids and award a contract](compare-bids-and-award-a-contract.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

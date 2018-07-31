@@ -1,4 +1,4 @@
-﻿---
+---
 title: Complete the Analysis Services integration
 TOCTitle: Complete the Analysis Services integration
 ms:assetid: 30576955-72a6-4a8e-9e95-e3767d6addfd
@@ -34,5 +34,5 @@ Complete the following procedures to integrate Microsoft Dynamics AX with Micros
 [How to: Add a Financial Dimension to a Cube](how-to-add-a-financial-dimension-to-a-cube.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

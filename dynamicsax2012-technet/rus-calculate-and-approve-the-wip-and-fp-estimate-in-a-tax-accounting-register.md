@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate and approve the WIP and FP estimate in a tax accounting register
 TOCTitle: (RUS) Calculate and approve the WIP and FP estimate in a tax accounting register
 ms:assetid: 9eb736d6-ea71-49c9-9ada-d2325bd41a11
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923570(v=AX.60)
 ms:contentKeyID: 52075415
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate and approve the WIP and FP estimate in a tax accounting register 
@@ -56,5 +58,5 @@ Before you can calculate the value in the estimation of work in process (WIP) an
 [(RUS) Calculation algorithm for WIP and FP estimation](rus-calculation-algorithm-for-wip-and-fp-estimation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

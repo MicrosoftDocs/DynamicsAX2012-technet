@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create advanced account structures and rules for budget planning
 TOCTitle: Create advanced account structures and rules for budget planning
 ms:assetid: 5d488e9f-f098-438b-b4f6-6368f34becfb
@@ -12,6 +12,8 @@ f1_keywords:
 - budget planning
 - account structures and rules
 - rules for budget planning
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create advanced account structures and rules for budget planning 
@@ -87,5 +89,5 @@ Your organization is developing a budget plan for new Sales positions. In the bu
 4.  In the **Configure account structures** form, activate the account structure.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a vendor account
 TOCTitle: Create a vendor account
 ms:assetid: 6ceffee5-1344-4a3e-9d6e-5b31f9cd11f8
@@ -15,6 +15,8 @@ f1_keywords:
 - vendor hold
 - vendor form
 - vendor accounts
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a vendor account 
@@ -85,5 +87,5 @@ To speed up the process of creating vendor accounts, you can create templates th
 [Add vendor to legal entities (form)](https://technet.microsoft.com/en-us/library/hh209684\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

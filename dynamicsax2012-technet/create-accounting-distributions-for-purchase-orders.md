@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create accounting distributions for purchase orders
 TOCTitle: Create accounting distributions for purchase orders
 ms:assetid: bfbf2a3f-9956-4b96-9fe5-323da44dd673
@@ -11,6 +11,8 @@ f1_keywords:
 - create accounting distributions
 - create distributions
 - distributions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create accounting distributions for purchase orders 
@@ -39,5 +41,5 @@ You can use the **Accounting distributions** form to create and modify distribut
         Repeat until you are finished creating distributions.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

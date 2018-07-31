@@ -1,4 +1,4 @@
-﻿---
+---
 title: About hour-related cost price fields
 TOCTitle: About hour-related cost price fields
 ms:assetid: c8f69c4c-b905-4ee3-a666-9400298e8d64
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh694719(v=AX.60)
 ms:contentKeyID: 42117778
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About hour-related cost price fields 
@@ -78,5 +80,5 @@ The following table explains how the amounts in the hour-related cost price fiel
 [Cost price - hour (form)](https://technet.microsoft.com/en-us/library/aa572459\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

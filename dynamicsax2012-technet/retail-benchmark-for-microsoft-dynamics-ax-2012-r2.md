@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retail Benchmark for Microsoft Dynamics AX 2012 R2
 TOCTitle: Retail Benchmark for Microsoft Dynamics AX 2012 R2
 ms:assetid: b87b9f72-c6fb-4100-b020-501e7688cd7d
@@ -38,5 +38,5 @@ We have published the following two papers about the Retail benchmark for Micros
 For more information about Retail performance, see [Retail Performance for Microsoft Dynamics AX 2012](retail-performance-for-microsoft-dynamics-ax-2012.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

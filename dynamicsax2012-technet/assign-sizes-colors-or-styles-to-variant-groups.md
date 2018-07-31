@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign sizes, colors, or styles to variant groups
 TOCTitle: Assign sizes, colors, or styles to variant groups
 ms:assetid: 34945800-f636-4dd7-ae8b-d19a44f9daa3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580605(v=AX.60)
 ms:contentKeyID: 39519091
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign sizes, colors, or styles to variant groups 
@@ -70,5 +72,5 @@ Set up variant groups for sizes, colors, and styles, and then assign the groups 
 [Style groups (form)](https://technet.microsoft.com/en-us/library/hh597260\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

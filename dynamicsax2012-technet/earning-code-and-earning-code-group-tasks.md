@@ -1,4 +1,4 @@
-﻿---
+---
 title: Earning code and earning code group tasks
 TOCTitle: Earning code and earning code group tasks
 ms:assetid: 694f48ca-9841-40e5-919f-cc12569da3a1
@@ -15,6 +15,8 @@ f1_keywords:
 - earning code group
 - earning code groups
 - Forms.PayrollEarningCodeGroup
+audience: Application User
+ms.search.region: USA
 ---
 
 # Earning code and earning code group tasks 
@@ -583,5 +585,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Earning code examples](earning-code-examples.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

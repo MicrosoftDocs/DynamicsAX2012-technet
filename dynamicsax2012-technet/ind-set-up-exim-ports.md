@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up EXIM ports
 TOCTitle: (IND) Set up EXIM ports
 ms:assetid: d96db641-4d7c-439e-b034-f00e24ae6066
@@ -12,6 +12,8 @@ f1_keywords:
 - EXIM
 - EXIM ports
 - set up EXIM
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up EXIM ports 
@@ -50,5 +52,5 @@ Set up the export and import (EXIM) port authorities that you reference in expor
 [(IND) EXIM ports (form)](https://technet.microsoft.com/en-us/library/jj677922\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

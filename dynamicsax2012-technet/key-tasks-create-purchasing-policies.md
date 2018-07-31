@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create purchasing policies'
 TOCTitle: 'Key tasks: Create purchasing policies'
 ms:assetid: dade94d0-0e46-4d9d-a78f-6c3a14d4bf49
@@ -10,6 +10,8 @@ f1_keywords:
 - procurement
 - purchasing policies
 - purchasing policy
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create purchasing policies 
@@ -110,5 +112,5 @@ Back to top
 [Create or modify an organization hierarchy](create-or-modify-an-organization-hierarchy.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

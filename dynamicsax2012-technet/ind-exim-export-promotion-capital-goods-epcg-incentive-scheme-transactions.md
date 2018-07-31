@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) EXIM Export Promotion Capital Goods (EPCG) incentive scheme transactions
 TOCTitle: (IND) EXIM Export Promotion Capital Goods (EPCG) incentive scheme transactions
 ms:assetid: fad44962-e4de-4640-9223-8c93b40f2975
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710958(v=AX.60)
 ms:contentKeyID: 49386369
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) EXIM Export Promotion Capital Goods (EPCG) incentive scheme transactions 
@@ -38,5 +40,5 @@ The following topics provide information about export-import (EXIM) Export Promo
 [(IND) Setting up the EXIM Export Capital Goods (EPCG) incentive scheme](ind-setting-up-the-exim-export-capital-goods-epcg-incentive-scheme.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

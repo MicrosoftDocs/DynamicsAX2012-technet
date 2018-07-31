@@ -1,4 +1,4 @@
-﻿---
+---
 title: View campaigns
 TOCTitle: View campaigns
 ms:assetid: 359c1c0c-9db6-4b0b-8c65-ea0639e179c2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - smmCampaignInfo
 - smmCampaigns
+audience: Application User
+ms.search.region: Global
 ---
 
 # View campaigns 
@@ -33,5 +35,5 @@ You can use the **Campaigns** page to view information about campaigns that are 
 [View call lists](view-call-lists.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

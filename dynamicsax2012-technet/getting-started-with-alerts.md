@@ -1,4 +1,4 @@
-﻿---
+---
 title: Getting started with alerts
 TOCTitle: Getting started with alerts
 ms:assetid: 8dc7d5b3-503a-4475-8b6d-1d3e7232eb28
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498348(v=AX.60)
 ms:contentKeyID: 46687556
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Getting started with alerts 
@@ -39,5 +41,5 @@ The following topics describe how to use and access the alert functionality.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

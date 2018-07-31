@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy Microsoft Dynamics AX Web parts to a SharePoint site
 TOCTitle: Deploy Microsoft Dynamics AX Web parts to a SharePoint site
 ms:assetid: d0481af6-10c3-48ac-bec3-a8a68c3accc8
@@ -70,5 +70,5 @@ Install Enterprise Portal on the web application that hosts the site, such as Sh
 [Create an Enterprise Portal site](create-an-enterprise-portal-site.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

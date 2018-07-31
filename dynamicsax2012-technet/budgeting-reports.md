@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budgeting reports
 TOCTitle: Budgeting reports
 ms:assetid: 590b3d41-5522-4681-a185-1a41d7d23281
@@ -32,5 +32,5 @@ The following reports are available in the **Budgeting** module of Microsoft Dyn
 [Budget plan scenarios report (BudgetPlanScenariosReport)](budget-plan-scenarios-report-budgetplanscenariosreport.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

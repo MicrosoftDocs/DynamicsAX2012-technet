@@ -1,4 +1,4 @@
-﻿---
+---
 title: " net book value"
 TOCTitle: " net book value"
 ms:assetid: DynamicsAXGlossary.228504
@@ -25,5 +25,5 @@ The value of a fixed asset calculated as the difference between the original cos
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

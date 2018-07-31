@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and modify BOMs by using the BOM designer
 TOCTitle: Create and modify BOMs by using the BOM designer
 ms:assetid: 927156c6-12a8-4021-837a-e4d6e608fb61
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498382(v=AX.60)
 ms:contentKeyID: 36058573
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and modify BOMs by using the BOM designer 
@@ -48,5 +50,5 @@ You can use the **BOM designer** form to create and edit bills of materials (BOM
 6.  Close the form to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

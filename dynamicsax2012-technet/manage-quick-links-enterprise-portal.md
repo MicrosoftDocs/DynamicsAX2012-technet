@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage quick links (Enterprise Portal)
 TOCTitle: Manage quick links
 ms:assetid: 273bd672-c1c4-4408-a0da-c154bbe5a36c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208488(v=AX.60)
 ms:contentKeyID: 36056208
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage quick links (Enterprise Portal) 
@@ -69,5 +71,5 @@ Quick links Web parts display links that are relevant to users in your role. The
 [Manage cues (Enterprise Portal)](manage-cues-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the Delete close-of-year transactions during transfer check box
 TOCTitle: About the Delete close-of-year transactions during transfer check box
 ms:assetid: b66364a9-053b-4cdd-b111-86a199191d82
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232433(v=AX.60)
 ms:contentKeyID: 36059092
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the Delete close-of-year transactions during transfer check box 
@@ -24,5 +26,5 @@ After you post the final closing adjustments, you can use the **Opening transact
 Every time that you update opening balances for the new fiscal year in the **Opening transactions** form, the previously generated opening transactions and closing transactions are deleted.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

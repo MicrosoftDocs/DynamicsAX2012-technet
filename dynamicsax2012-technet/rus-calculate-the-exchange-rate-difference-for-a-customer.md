@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the exchange rate difference for a customer
 TOCTitle: (RUS) Calculate the exchange rate difference for a customer
 ms:assetid: 2ca61316-701e-47c7-a0ba-c1592b7a50d7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665234(v=AX.60)
 ms:contentKeyID: 49387323
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the exchange rate difference for a customer 
@@ -100,5 +102,5 @@ You can use the **Exchange adjustment** form to calculate the exchange rate diff
 25. Click **OK** to generate the **Exchange adjustment simulation** report.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

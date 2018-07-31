@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Settle a partial vendor payment that has multiple discount periods'
 TOCTitle: 'Scenario: Settle a partial vendor payment that has multiple discount periods'
 ms:assetid: cf724698-86ec-4f6e-b296-c407a17751f5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597247(v=AX.60)
 ms:contentKeyID: 39519325
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Settle a partial vendor payment that has multiple discount periods 
@@ -591,5 +593,5 @@ April creates a final payment on July 20. No discount is taken, because the paym
 [Scenario: Take a discount that is more than the calculated discount for a vendor payment](scenario-take-a-discount-that-is-more-than-the-calculated-discount-for-a-vendor-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

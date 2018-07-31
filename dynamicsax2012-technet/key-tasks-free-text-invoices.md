@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Free text invoices'
 TOCTitle: 'Key tasks: Free text invoices'
 ms:assetid: 1a677114-5983-4d48-8d00-4ab9ae531cd1
@@ -14,6 +14,8 @@ f1_keywords:
 - customer invoices
 - free text invoices
 - free text invoice
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Free text invoices 
@@ -186,5 +188,5 @@ Back to top
 [Correct a posted free text invoice](correct-a-posted-free-text-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

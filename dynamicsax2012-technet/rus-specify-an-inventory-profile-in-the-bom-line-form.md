@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Specify an inventory profile in the BOM line form
 TOCTitle: (RUS) Specify an inventory profile in the BOM line form
 ms:assetid: 502276ef-c27c-4fd5-b7c5-f6b42ba23749
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733223(v=AX.60)
 ms:contentKeyID: 49685190
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Specify an inventory profile in the BOM line form 
@@ -30,5 +32,5 @@ You can specify an inventory profile in the **BOM line** form, if the inventory 
 [(RUS) Set up an inventory profile](rus-set-up-an-inventory-profile.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

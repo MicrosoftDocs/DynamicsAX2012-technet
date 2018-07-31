@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining requests for quotations
 TOCTitle: Setting up and maintaining requests for quotations
 ms:assetid: 773ac5b7-2d02-40b8-ba71-c7dc5fae3420
@@ -19,6 +19,8 @@ f1_keywords:
 - IFBs
 - invitation for bid
 - invitation for bids
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining requests for quotations 
@@ -33,5 +35,5 @@ The topics in this section provide information about requests for quotations tha
 [Define request for quotation replies](define-request-for-quotation-replies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

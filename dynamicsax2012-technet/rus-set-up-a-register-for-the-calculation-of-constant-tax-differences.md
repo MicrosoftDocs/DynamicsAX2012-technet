@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for the calculation of constant tax differences
 TOCTitle: (RUS) Set up a register for the calculation of constant tax differences
 ms:assetid: af149ef9-8141-429d-83b2-882b0ceec396
@@ -11,6 +11,8 @@ f1_keywords:
 - constant tax
 - set up register
 - tax differences
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for the calculation of constant tax differences 
@@ -67,5 +69,5 @@ To show the amounts of permanent and temporary tax differences in an account, yo
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: " participant"
 TOCTitle: " participant"
 ms:assetid: DynamicsAXGlossary.1364979
@@ -25,5 +25,5 @@ A party that contributes to a process or assumes a role in a relationship.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

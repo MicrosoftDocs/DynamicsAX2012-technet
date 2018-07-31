@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add restricted items to a restricted products regional list
 TOCTitle: Add restricted items to a restricted products regional list
 ms:assetid: 17f68d76-c2f4-40ea-b67f-3248b95d5afe
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352185(v=AX.60)
 ms:contentKeyID: 36687818
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add restricted items to a restricted products regional list 
@@ -54,5 +56,5 @@ Use this information to add items to a restricted products regional list. You ca
 [Restricted products - Item by country or state (form)](https://technet.microsoft.com/en-us/library/hh328720\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

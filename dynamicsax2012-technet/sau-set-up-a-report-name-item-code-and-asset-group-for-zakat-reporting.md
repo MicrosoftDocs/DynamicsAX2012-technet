@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Set up a report name, item code, and asset group for Zakat reporting
 TOCTitle: (SAU) Set up a report name, item code, and asset group for Zakat reporting
 ms:assetid: 5b247d76-8ab8-4a9b-ac4e-b29b6fcaa9ba
@@ -12,6 +12,8 @@ f1_keywords:
 - asset group
 - item code
 - report name
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) Set up a report name, item code, and asset group for Zakat reporting 
@@ -70,5 +72,5 @@ To generate Zakat reports, you must create Zakat report names, item codes, and a
 [(SAU) Zakat reports name (form)](https://technet.microsoft.com/en-us/library/hh209400\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

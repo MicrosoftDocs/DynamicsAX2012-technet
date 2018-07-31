@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Configure fiscal printers
 TOCTitle: (BRA) Configure fiscal printers
 ms:assetid: 0312a2c8-a0a6-4135-a745-25c78f4f34c7
@@ -17,6 +17,8 @@ f1_keywords:
 - Fiscal printers
 - fiscal printer
 - MsDynAx060.Forms.RetailConfiguration_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Configure fiscal printers 
@@ -141,7 +143,7 @@ To perform this task, follow these steps:
         <tr class="even">
         <td><p><strong>Gift card</strong></p></td>
         <td><p>Enter a non-fiscal totalizer value that is used to issue gift cards in the <strong>Configuration value</strong> field.</p>
-        <div class="alert"> 
+        <div class="alert">
 
         > [!NOTE]
         > <P>This option is available only if you select <STRONG>Non-fiscal totalizer</STRONG> in the <STRONG>Configuration type</STRONG> field.</P>
@@ -152,7 +154,7 @@ To perform this task, follow these steps:
         <tr class="odd">
         <td><p><strong>Payment method</strong></p></td>
         <td><p>Enter a management report value that is used for the payment method report in the <strong>Configuration value</strong> field.</p>
-        <div class="alert"> 
+        <div class="alert">
 
         > [!NOTE]
         > <P>This option is available only if you select <STRONG>Management report</STRONG> in the <STRONG>Configuration type</STRONG> field.</P>
@@ -163,7 +165,7 @@ To perform this task, follow these steps:
         <tr class="even">
         <td><p><strong>Configuration</strong></p></td>
         <td><p>Enter a management report value that is used for the Programa Aplicativo Fiscal - Emissor de Cupom Fiscal (PAF-ECF) configuration report in the <strong>Configuration value</strong> field.</p>
-        <div class="alert"> 
+        <div class="alert">
 
         > [!NOTE]
         > <P>This option is available only if you select <STRONG>Management report</STRONG> in the <STRONG>Configuration type</STRONG> field.</P>
@@ -174,7 +176,7 @@ To perform this task, follow these steps:
         <tr class="odd">
         <td><p><strong>Identification</strong></p></td>
         <td><p>Enter a management report value that is used for the PAF-ECF identification report in the <strong>Configuration value</strong> field.</p>
-        <div class="alert"> 
+        <div class="alert">
 
         > [!NOTE]
         > <P>This option is available only if you select <STRONG>Management report</STRONG> in the <STRONG>Configuration type</STRONG> field.</P>
@@ -185,7 +187,7 @@ To perform this task, follow these steps:
         <tr class="even">
         <td><p><strong>EFT</strong></p></td>
         <td><p>Enter a payment method value that is used for the Electronic Funds Transfer (EFT) payments in the <strong>Configuration value</strong> field.</p>
-        <div class="alert"> 
+        <div class="alert">
 
         > [!NOTE]
         > <P>This option is available only if you select <STRONG>Payment method</STRONG> in the <STRONG>Configuration type</STRONG> field.</P>
@@ -301,5 +303,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

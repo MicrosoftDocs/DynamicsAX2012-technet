@@ -1,4 +1,4 @@
-﻿---
+---
 title: Benefit register report (PayrollBenefitRegister)
 TOCTitle: Benefit register report (PayrollBenefitRegister)
 ms:assetid: ba12a94a-0403-44f6-8665-ed49e5c90e5b
@@ -163,5 +163,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

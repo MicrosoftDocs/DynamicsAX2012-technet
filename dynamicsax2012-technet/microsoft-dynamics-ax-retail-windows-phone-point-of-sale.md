@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Dynamics AX Retail Windows Phone Point of Sale
 TOCTitle: Windows Phone Point of Sale
 ms:assetid: 7ac49af3-c664-4dd0-ab35-0a0f477e0c3f
@@ -438,5 +438,5 @@ After you uncomment the Windows Phone report code, you need to add the reference
 5.  Build the project and run the application.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

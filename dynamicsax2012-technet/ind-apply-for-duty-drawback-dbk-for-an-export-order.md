@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Apply for duty drawback (DBK) for an export order
 TOCTitle: (IND) Apply for duty drawback (DBK) for an export order
 ms:assetid: 98e4fa44-5d89-4960-b687-3a3f42cc431a
@@ -11,6 +11,8 @@ f1_keywords:
 - india
 - export order
 - apply DBK
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Apply for duty drawback (DBK) for an export order 
@@ -110,5 +112,5 @@ After you complete the procedures, the following actions are performed:
 [(IND) Total Duty Drawback amount (form)](https://technet.microsoft.com/en-us/library/jj678025\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

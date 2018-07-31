@@ -1,4 +1,4 @@
-﻿---
+---
 title: AOS topology
 TOCTitle: AOS topology
 ms:assetid: 3c33b3da-d895-4f42-b2fb-9ba4b16c451c
@@ -26,5 +26,5 @@ An Application Object Server (AOS) instance is a core component of your Microsof
 [Deploy Application Object Servers](deploy-application-object-servers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

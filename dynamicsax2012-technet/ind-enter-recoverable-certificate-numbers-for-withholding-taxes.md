@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Enter recoverable certificate numbers for withholding taxes
 TOCTitle: (IND) Enter recoverable certificate numbers for withholding taxes
 ms:assetid: 003bdb19-67cc-4f06-8979-be02b6886fba
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664424(v=AX.60)
 ms:contentKeyID: 49385512
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Enter recoverable certificate numbers for withholding taxes 
@@ -40,5 +42,5 @@ Use the following procedure to enter information about certificate numbers and d
 [(IND) Update certificate (form)](https://technet.microsoft.com/en-us/library/jj664755\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

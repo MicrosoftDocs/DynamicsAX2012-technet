@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up rate masters
 TOCTitle: Set up rate masters
 ms:assetid: b4285c73-d2db-444c-8fb1-f44678a46052
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.TMSRateMaster
 - rate master
 - rate masters
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up rate masters 
@@ -294,5 +296,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post service tax in purchase transactions by using a Purchase journal
 TOCTitle: (IND) Post service tax in purchase transactions by using a Purchase journal
 ms:assetid: d6f98db8-4b05-4a57-bfa4-58834f731631
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.PurchTable
 - MsDynAx060.Forms.PurchTable
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post service tax in purchase transactions by using a Purchase journal 
@@ -49,5 +51,5 @@ Use the **Purchase order** form to identify the ledger accounts that the service
 [(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

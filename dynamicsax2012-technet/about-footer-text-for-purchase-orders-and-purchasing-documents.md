@@ -1,4 +1,4 @@
-﻿---
+---
 title: About footer text for purchase orders and purchasing documents
 TOCTitle: About footer text for purchase orders and purchasing documents
 ms:assetid: 16232178-0bb0-4de4-94d0-a29c9fdd77c1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569887(v=AX.60)
 ms:contentKeyID: 37822139
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About footer text for purchase orders and purchasing documents 
@@ -48,5 +50,5 @@ Footer text is printed on all pages of a document. For example, if the original 
 [Set up footer text for documents](set-up-footer-text-for-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

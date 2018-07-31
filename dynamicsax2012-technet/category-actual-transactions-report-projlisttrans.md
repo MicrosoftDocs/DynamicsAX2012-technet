@@ -1,4 +1,4 @@
-﻿---
+---
 title: Category actual transactions report (ProjListTrans)
 TOCTitle: Category actual transactions report (ProjListTrans)
 ms:assetid: 1e954efe-f9f4-46b4-9ddd-25c151c147ea
@@ -36,7 +36,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Include project types</strong></p></td>
 <td><p>Select the type of project that you want to include on the report. You can select more than one type.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If you do not select a project type, all project types are displayed on the report.</P>
@@ -47,7 +47,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Include transaction types</strong></p></td>
 <td><p>Select the transaction types that you want to include on the report. You can select more than one transaction type.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If you do not select a transaction type, all transaction types are displayed on the report.</P>
@@ -108,7 +108,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Specify ledger updates</strong></p></td>
 <td><p>Select whether to include ledger updates in the transactions on the report.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>You must also select the <STRONG>Specify transactions</STRONG> check box to view ledger updates on the report.</P>
@@ -215,5 +215,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

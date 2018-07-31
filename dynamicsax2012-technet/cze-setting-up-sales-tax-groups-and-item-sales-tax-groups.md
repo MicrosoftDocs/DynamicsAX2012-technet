@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Setting up sales tax groups and item sales tax groups
 TOCTitle: (CZE) Setting up sales tax groups and item sales tax groups
 ms:assetid: 5f680a77-ac46-435d-ace3-d8e5027d2a62
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677541(v=AX.60)
 ms:contentKeyID: 49384844
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Setting up sales tax groups and item sales tax groups 
@@ -22,5 +24,5 @@ The following topics provide information about setting up sales tax groups and i
 [(CZE) Set up sales tax reporting](cze-set-up-sales-tax-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

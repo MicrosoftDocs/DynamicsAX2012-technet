@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Create and post a purchase order invoice with a specific VAT register date
 TOCTitle: (HUN) Create and post a purchase order invoice with a specific VAT register date
 ms:assetid: d213fdc0-51f0-4bbf-96c0-57eda34ec91e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - purchase order
 - VAT register date
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Create and post a purchase order invoice with a specific VAT register date 
@@ -41,5 +43,5 @@ When you post an invoice that has a VAT register date that occurs in the future,
 [(EEUR) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj710700\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create bar code setups (Retail essentials)
 TOCTitle: Create bar code setups (Retail essentials)
 ms:assetid: 6fb3eac7-938f-4adb-9d6d-adc363eef2e6
@@ -54,5 +54,5 @@ To create bar code setups, follow these steps:
 [Set up bar code masks (Retail essentials)](set-up-bar-code-masks-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

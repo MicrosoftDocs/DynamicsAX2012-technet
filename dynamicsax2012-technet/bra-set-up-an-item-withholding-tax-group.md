@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up an item withholding tax group
 TOCTitle: (BRA) Set up an item withholding tax group
 ms:assetid: a1abb343-87c5-491f-8934-bf02d4929a61
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126104(v=AX.60)
 ms:contentKeyID: 52075262
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up an item withholding tax group 
@@ -32,5 +34,5 @@ Use this procedure to attach withholding tax codes that are created for Brazilia
 [(THA, SAU, GBR, IRL) Item withholding tax groups (form)](https://technet.microsoft.com/en-us/library/hh242862\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

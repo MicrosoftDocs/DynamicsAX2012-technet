@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Employee Services site
 TOCTitle: Using the Employee Services site
 ms:assetid: 455b3648-92b6-4ece-b370-ab1d0b6df19c
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - defaultEmployeeServicesManageTime
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using the Employee Services site 
@@ -40,5 +42,5 @@ This section contains the following topics:
 [Managing your team](managing-your-team.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

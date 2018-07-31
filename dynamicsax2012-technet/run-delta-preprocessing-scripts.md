@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run delta preprocessing scripts
 TOCTitle: Run delta preprocessing scripts
 ms:assetid: 93a36d22-1877-4823-ae20-08d0d167922a
@@ -59,5 +59,5 @@ Complete the following steps to resume a paused script.
 [Upgrade preprocessing scripts (form)](https://technet.microsoft.com/en-us/library/hh202100\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

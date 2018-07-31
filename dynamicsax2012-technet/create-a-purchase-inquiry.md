@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a purchase inquiry
 TOCTitle: Create a purchase inquiry
 ms:assetid: ce0948cf-d59b-4db4-b84f-b22b82443ad4
@@ -10,6 +10,8 @@ f1_keywords:
 - external review
 - validate with vendor
 - Purchase inquiry
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a purchase inquiry 
@@ -108,5 +110,5 @@ To view or reprint purchase inquiries, follow these steps:
 [View purchase order confirmations](view-purchase-order-confirmations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

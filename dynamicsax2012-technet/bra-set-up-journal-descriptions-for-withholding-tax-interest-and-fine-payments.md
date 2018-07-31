@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up journal descriptions for withholding tax, interest, and fine payments
 TOCTitle: (BRA) Set up journal descriptions for withholding tax, interest, and fine payments
 ms:assetid: 5ce01e29-6dc7-4299-a9e3-2268155a386f
@@ -13,6 +13,8 @@ f1_keywords:
 - fine payment
 - interest payment
 - withholding tax payment
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up journal descriptions for withholding tax, interest, and fine payments 
@@ -47,5 +49,5 @@ Use the **Journal descriptions** form to set up journal descriptions for withhol
 [(BRA) Create and post a customer payment journal with a default description for withholding tax, interest, and fine payments](bra-create-and-post-a-customer-payment-journal-with-a-default-description-for-withholding-tax-interest-and-fine-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

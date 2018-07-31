@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create hierarchy structures
 TOCTitle: Create hierarchy structures
 ms:assetid: efc0dd11-248f-4785-8692-28e21ebca153
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551564(v=AX.60)
 ms:contentKeyID: 36688042
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create hierarchy structures 
@@ -44,5 +46,5 @@ Hierarchy structures help you group and summarize dimensions.
 [Expense distribution sheet](expense-distribution-sheet.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

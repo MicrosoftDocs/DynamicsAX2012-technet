@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Assign fiscal document types for customers or vendors
 TOCTitle: (BRA) Assign fiscal document types for customers or vendors
 ms:assetid: 5b4712d9-e4cc-434f-9ced-397cd8620194
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710511(v=AX.60)
 ms:contentKeyID: 49384402
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Assign fiscal document types for customers or vendors 
@@ -64,5 +66,5 @@ You can assign a default type of fiscal document for customer or vendor fiscal d
 [(BRA) Fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710551\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

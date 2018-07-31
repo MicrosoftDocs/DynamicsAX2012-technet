@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View VAT transaction information
 TOCTitle: (IND) View VAT transaction information
 ms:assetid: bd239fe5-14f1-4069-a3e9-bbd0018ab832
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664825(v=AX.60)
 ms:contentKeyID: 49386156
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View VAT transaction information 
@@ -74,5 +76,5 @@ Before you can complete this procedure, the **VAT** check box must be selected i
 [(IND) VAT transactions (form)](https://technet.microsoft.com/en-us/library/jj677920\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

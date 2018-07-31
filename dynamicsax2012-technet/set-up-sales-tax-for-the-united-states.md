@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up sales tax for the United States
 TOCTitle: Set up sales tax for the United States
 ms:assetid: 77fe630e-dd16-473c-a0c0-9ce0779553eb
@@ -10,6 +10,8 @@ f1_keywords:
 - U. S. sales tax
 - U.S. sales tax
 - United States sales tax
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up sales tax for the United States 
@@ -50,5 +52,5 @@ The following steps describe how to set up sales for the United States.
 4.  After the sales tax jurisdictions are set up, you must use the **Sales tax groups** form to attach the sales tax jurisdictions to sales tax groups. For information, see [Set up sales tax groups for jurisdictions](set-up-sales-tax-groups-for-jurisdictions.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

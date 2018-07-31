@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up email receipts
 TOCTitle: Setting up email receipts
 ms:assetid: 1c9e7d76-8545-41c8-9865-7766432efd57
@@ -11,6 +11,8 @@ f1_keywords:
 - email
 - receipt
 - receipts
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up email receipts 
@@ -23,5 +25,5 @@ The topics in this section provide information about how to set up e-mail receip
 [Set up email receipts](set-up-email-receipts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

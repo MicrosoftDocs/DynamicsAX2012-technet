@@ -1,4 +1,4 @@
-﻿---
+---
 title: Waive, reinstate, or reverse interest or fees
 TOCTitle: Waive, reinstate, or reverse interest or fees
 ms:assetid: c5534372-f34f-417f-8b32-d33e4d382341
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.CustInterestJourList
 - adjustment credit note, waive, reinstate, reverse, interest note, adjustment history
 - MsDynAx060.Forms.CustInterestJourList
+audience: Application User
+ms.search.region: Global
 ---
 
 # Waive, reinstate, or reverse interest or fees 
@@ -295,5 +297,5 @@ You can view the detailed history of adjustments that were made for interest not
 [Waive interest notes (form)](https://technet.microsoft.com/en-us/library/hh209719\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

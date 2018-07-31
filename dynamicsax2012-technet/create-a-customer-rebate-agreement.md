@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a customer rebate agreement
 TOCTitle: Create a customer rebate agreement
 ms:assetid: 9046ad1a-226c-4c2b-ad31-c3840834aa43
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - customer rebate
 - customer rebate agreement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a customer rebate agreement 
@@ -110,5 +112,5 @@ Use this procedure to create a rebate agreement for a customer.
 [Rebate agreements (form)](https://technet.microsoft.com/en-us/library/hh328681\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

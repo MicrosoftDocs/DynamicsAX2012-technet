@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select a fiscal calendar for a ledger
 TOCTitle: Select a fiscal calendar for a ledger
 ms:assetid: 18c8bbc6-64f2-4497-91f8-17a034b8a3ef
@@ -11,6 +11,8 @@ f1_keywords:
 - Ledger
 - ledger calendar
 - ledger form
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select a fiscal calendar for a ledger 
@@ -39,5 +41,5 @@ Fiscal calendars are created in the **Fiscal calendars** form. There is no limit
 [Ledger calendar (form)](https://technet.microsoft.com/en-us/library/hh242506\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

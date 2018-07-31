@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Post an internal invoice
 TOCTitle: (POL) Post an internal invoice
 ms:assetid: bacc41f3-9019-446b-af6a-0c80873cd021
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711259(v=AX.60)
 ms:contentKeyID: 49387077
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Post an internal invoice 
@@ -68,5 +70,5 @@ Before you can post an internal invoice for a transaction that occurred within t
 4.  Click **Print** to print the internal invoice.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

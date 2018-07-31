@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining procurement catalogs
 TOCTitle: Setting up and maintaining procurement catalogs
 ms:assetid: 4d6f51bf-335c-48eb-8172-8d66d47c838a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - procurement catalog
 - procurement catalogs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining procurement catalogs 
@@ -23,5 +25,5 @@ The topics in this section provide an overview of procurement catalogs and descr
 [Set up product relationship types](set-up-product-relationship-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

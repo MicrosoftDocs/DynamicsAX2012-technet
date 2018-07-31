@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Apply half-yearly depreciation for tax purposes
 TOCTitle: (CZE) Apply half-yearly depreciation for tax purposes
 ms:assetid: a6ac7511-d1e5-457a-86c5-0126c179b624
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683244(v=AX.60)
 ms:contentKeyID: 49685125
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Apply half-yearly depreciation for tax purposes 
@@ -58,5 +60,5 @@ After you set up the depreciation methods, you can apply half the yearly depreci
 [(CZE) Depreciation proposal (modified form)](https://technet.microsoft.com/en-us/library/jj677565\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

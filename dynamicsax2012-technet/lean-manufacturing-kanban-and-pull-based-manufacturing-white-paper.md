@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Lean Manufacturing: Kanban and Pull-based Manufacturing (White paper)'
 TOCTitle: 'Lean Manufacturing: Kanban and Pull-based Manufacturing'
 ms:assetid: 53c0a159-89aa-4b20-9ace-281129e0ea50
@@ -18,5 +18,5 @@ This paper provides an overview of how to use the kanban framework in Microsoft 
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=221083).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

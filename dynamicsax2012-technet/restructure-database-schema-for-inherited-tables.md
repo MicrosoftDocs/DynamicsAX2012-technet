@@ -1,4 +1,4 @@
-﻿---
+---
 title: Restructure database schema for inherited tables
 TOCTitle: Restructure database schema for inherited tables
 ms:assetid: 9dc458c1-c403-4605-b9e9-9bb4666830c1
@@ -32,5 +32,5 @@ Perform the following steps to complete this task.
 7.  Mark the checklist task as complete.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

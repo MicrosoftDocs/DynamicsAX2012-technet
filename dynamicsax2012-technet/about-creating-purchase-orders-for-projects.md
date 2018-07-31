@@ -1,4 +1,4 @@
-﻿---
+---
 title: About creating purchase orders for projects
 TOCTitle: About creating purchase orders for projects
 ms:assetid: 663ccbbb-1739-4113-9a58-2449ae66d813
@@ -10,6 +10,8 @@ f1_keywords:
 - purchase order
 - sales order
 - item requirement
+audience: Application User
+ms.search.region: Global
 ---
 
 # About creating purchase orders for projects 
@@ -89,5 +91,5 @@ The line property that is attached to a purchase order line for an item determin
 [Create purchase order or direct delivery from sales (form)](https://technet.microsoft.com/en-us/library/aa557923\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

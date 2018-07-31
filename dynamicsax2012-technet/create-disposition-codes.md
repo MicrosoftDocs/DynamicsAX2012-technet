@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create disposition codes
 TOCTitle: Create disposition codes
 ms:assetid: 31e3a9da-bd53-40da-bbdf-4f75c9bd08ab
@@ -13,6 +13,8 @@ f1_keywords:
 - MsDynAx060.Forms.WHSDispositionTable
 - inventory status
 - return disposition code
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create disposition codes 
@@ -76,5 +78,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

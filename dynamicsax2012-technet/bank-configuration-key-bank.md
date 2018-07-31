@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bank configuration key (Bank)
 TOCTitle: Bank configuration key (Bank)
 ms:assetid: 752db901-e1b1-4952-a989-b61e3e5da2a3
@@ -218,7 +218,7 @@ The following table provides information about how this configuration key relate
 <p><a href="negotiable-instrument-configuration-key-custvendnegotiableinstrument.md">Negotiable instrument configuration key (CustVendNegotiableInstrument)</a></p>
 <p><a href="prenotes-configuration-key-prenotes.md">Prenotes configuration key (Prenotes)</a></p>
 <p><a href="bank-document-configuration-key-bankdocument.md">Bank document configuration key (BankDocument)</a></p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>
@@ -233,5 +233,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

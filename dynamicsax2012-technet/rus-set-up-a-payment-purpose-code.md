@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a payment purpose code
 TOCTitle: (RUS) Set up a payment purpose code
 ms:assetid: 91e69c90-f3d6-43d1-b179-52e6ad48df4a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678480(v=AX.60)
 ms:contentKeyID: 49387709
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a payment purpose code 
@@ -48,5 +50,5 @@ You can specify the payment purpose code while generating a payment order. You c
 7.  Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

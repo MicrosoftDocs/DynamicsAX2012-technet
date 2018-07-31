@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Associate a calculation item with the items in storage
 TOCTitle: (RUS) Associate a calculation item with the items in storage
 ms:assetid: 60561e09-5884-4c39-a955-6cd77f7cab88
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665440(v=AX.60)
 ms:contentKeyID: 49387528
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Associate a calculation item with the items in storage 
@@ -76,5 +78,5 @@ Use the **Storage calculation setup** form to associate a calculation item with 
 [(RUS) Storage calculation setup (form)](https://technet.microsoft.com/en-us/library/jj733408\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up and maintaining General ledger
 TOCTitle: (IND) Setting up and maintaining General ledger
 ms:assetid: 21f3c111-5451-41c0-9a3b-088c120dc53c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664559(v=AX.60)
 ms:contentKeyID: 49385636
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up and maintaining General ledger 
@@ -48,5 +50,5 @@ The following topics provide information about setting up and maintaining Genera
 [(IND) Setting up tax thresholds and tax concession certificates](ind-setting-up-tax-thresholds-and-tax-concession-certificates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

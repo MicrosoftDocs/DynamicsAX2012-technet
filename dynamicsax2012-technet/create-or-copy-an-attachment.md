@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or copy an attachment
 TOCTitle: Create or copy an attachment
 ms:assetid: 1709aba2-f48d-4904-a35b-9dcf95455f2c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569898(v=AX.60)
 ms:contentKeyID: 36056077
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or copy an attachment 
@@ -72,5 +74,5 @@ You can apply these procedures to any other party record form in the **Sales and
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

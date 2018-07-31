@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create depreciation book journals
 TOCTitle: Create depreciation book journals
 ms:assetid: 992eccf3-e80d-4d9d-af5b-0925f906dddd
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - depreciation book journals
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create depreciation book journals 
@@ -40,5 +42,5 @@ Use the **Depreciation book journal** form to create depreciation book journals.
 [Depreciation book journal (form)](https://technet.microsoft.com/en-us/library/aa634765\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

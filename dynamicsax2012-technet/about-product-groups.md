@@ -1,4 +1,4 @@
-﻿---
+---
 title: About product groups
 TOCTitle: About product groups
 ms:assetid: 83b034ca-2a3e-45f5-9eda-22779e9a5edb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571566(v=AX.60)
 ms:contentKeyID: 42518556
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About product groups 
@@ -26,5 +28,5 @@ The products that are represented as items in the **Items** table must be organi
 [Set up product group and item presentations](set-up-product-group-and-item-presentations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

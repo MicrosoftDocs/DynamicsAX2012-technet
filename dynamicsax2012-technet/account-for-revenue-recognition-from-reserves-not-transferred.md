@@ -1,4 +1,4 @@
-﻿---
+---
 title: Account for revenue recognition from reserves not transferred
 TOCTitle: Account for revenue recognition from reserves not transferred
 ms:assetid: 1bccb178-9566-42ca-b567-bfc77fad71f0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572847(v=AX.60)
 ms:contentKeyID: 36056131
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Account for revenue recognition from reserves not transferred 
@@ -28,5 +30,5 @@ You must select an account that has been set up for revenue recognition.
 [Fixed asset posting profiles (form)](https://technet.microsoft.com/en-us/library/aa571467\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

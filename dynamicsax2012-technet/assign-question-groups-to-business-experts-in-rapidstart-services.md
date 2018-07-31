@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign question groups to business experts in RapidStart Services
 TOCTitle: Assign question groups to business experts in RapidStart Services
 ms:assetid: 160c780a-44e3-42b9-9ad7-62311be9fcb7
@@ -98,5 +98,5 @@ After these prerequisites have been met, use this procedure to assign a business
 [Load configuration data into a Microsoft Dynamics ERP implementation from Microsoft Dynamics ERP RapidStart Services](load-configuration-data-into-a-microsoft-dynamics-erp-implementation-from-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

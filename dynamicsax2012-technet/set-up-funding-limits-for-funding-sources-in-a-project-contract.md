@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up funding limits for funding sources in a project contract
 TOCTitle: Set up funding limits for funding sources in a project contract
 ms:assetid: 535daff1-4068-4616-a339-009fe4259d1a
@@ -12,6 +12,8 @@ f1_keywords:
 - funding limits
 - project contract
 - rule type
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up funding limits for funding sources in a project contract 
@@ -52,5 +54,5 @@ You can set up funding limits on the **Project contracts** details form. For exa
 [Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

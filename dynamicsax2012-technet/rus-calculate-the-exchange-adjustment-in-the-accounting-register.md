@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the exchange adjustment in the accounting register
 TOCTitle: (RUS) Calculate the exchange adjustment in the accounting register
 ms:assetid: 0b37970c-2b06-42d6-99c4-32c0b778cd0f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711381(v=AX.60)
 ms:contentKeyID: 49387199
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the exchange adjustment in the accounting register 
@@ -52,5 +54,5 @@ To exclude the calculation of exchange adjustments for prepayments, select **No*
 [(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

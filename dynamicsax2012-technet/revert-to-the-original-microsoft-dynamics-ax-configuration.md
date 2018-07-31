@@ -1,4 +1,4 @@
-﻿---
+---
 title: Revert to the original Microsoft Dynamics AX configuration
 TOCTitle: Revert to the original Microsoft Dynamics AX configuration
 ms:assetid: 4be7323e-c229-462e-b4ab-a5b2b96b6f05
@@ -26,5 +26,5 @@ Delete the Microsoft Dynamics AX configuration that you created earlier (in the 
 5.  Click **OK** to close the Microsoft Dynamics AX Configuration Utility.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View posted statements
 TOCTitle: View posted statements
 ms:assetid: 353d8ff8-749a-49c5-9aa8-842b680bee3a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580606(v=AX.60)
 ms:contentKeyID: 39519092
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View posted statements 
@@ -26,5 +28,5 @@ To access the **Statement journal** form, do the following:
 [View inquiries and reports overview](view-inquiries-and-reports-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

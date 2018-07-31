@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Create a free text invoice
 TOCTitle: (POL) Create a free text invoice
 ms:assetid: f42c2916-fa81-42bb-b17c-c73991b23c24
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711330(v=AX.60)
 ms:contentKeyID: 49387148
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Create a free text invoice 
@@ -46,5 +48,5 @@ For more information about free text invoices, see [Key tasks: Free text invoice
 10. To save your changes without posting the invoice, click **Close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

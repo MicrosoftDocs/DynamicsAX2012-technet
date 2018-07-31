@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Define tax registration numbers for a company and a vendor account
 TOCTitle: (MEX) Define tax registration numbers for a company and a vendor account
 ms:assetid: 6b0da322-8f95-4a70-9ab9-82c820074c05
@@ -10,6 +10,8 @@ f1_keywords:
 - Mexico
 - customer
 - tax registration number
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Define tax registration numbers for a company and a vendor account 
@@ -109,5 +111,5 @@ Use the **Vendors** form to enter the RFC and CURP numbers for a domestic or a f
 [Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

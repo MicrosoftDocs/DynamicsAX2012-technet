@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for India (IND)"
 TOCTitle: Country-specific features for India
 ms:assetid: 257c80ed-5b1c-4f45-8c5b-c85aea27ff9c
@@ -981,5 +981,5 @@ For more information about additional country-specific features that we added fo
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

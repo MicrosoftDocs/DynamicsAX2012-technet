@@ -1,4 +1,4 @@
-﻿---
+---
 title: Merge duplicate customer records
 TOCTitle: Merge duplicate customer records
 ms:assetid: d0b4382c-86cc-46dc-88ef-c3a0c175d294
@@ -14,6 +14,8 @@ f1_keywords:
 - customer merge
 - duplicate customers
 - merge customers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Merge duplicate customer records 
@@ -111,5 +113,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Maintaining customer information](maintaining-customer-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

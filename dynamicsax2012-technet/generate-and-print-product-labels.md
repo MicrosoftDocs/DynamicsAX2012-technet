@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate and print product labels
 TOCTitle: Generate and print product labels
 ms:assetid: 92bb0377-2ec2-4d62-a481-033a1681cb8d
@@ -8,6 +8,8 @@ ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailPrintLabels
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate and print product labels 
@@ -300,5 +302,5 @@ To generate labels for products that are received from a transfer order, follow 
 [Receive (form)](https://technet.microsoft.com/en-us/library/aa552649\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

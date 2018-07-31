@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retrieve, enter, and validate orders
 TOCTitle: Retrieve, enter, and validate orders
 ms:assetid: 106f2587-b58f-4b4d-bd59-79ebae241366
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - sales orders
 - sales order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Retrieve, enter, and validate orders 
@@ -35,5 +37,5 @@ The following topics provide information about retrieving, entering, and validat
 [About sales delivery schedules](about-sales-delivery-schedules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

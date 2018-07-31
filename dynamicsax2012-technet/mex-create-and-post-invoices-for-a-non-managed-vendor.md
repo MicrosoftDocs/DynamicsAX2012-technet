@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Create and post invoices for a non-managed vendor
 TOCTitle: (MEX) Create and post invoices for a non-managed vendor
 ms:assetid: bcff924c-9e6b-4553-9fe0-c3c765abe9a3
@@ -10,6 +10,8 @@ f1_keywords:
 - Mexico
 - invoice
 - non-managed vendor
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Create and post invoices for a non-managed vendor 
@@ -96,5 +98,5 @@ Use the **Journal voucher** form to create and post an invoice containing the ta
 [Journal voucher - Invoice journal (form)](https://technet.microsoft.com/en-us/library/aa616218\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a threshold discount
 TOCTitle: Set up a threshold discount
 ms:assetid: dfa656a4-a334-4fcd-90f7-33f4a4f75f26
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailPeriodicDiscount
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a threshold discount 
@@ -82,5 +84,5 @@ This topic explains how to create a threshold discount, also called an amount-ba
 [Setting up loyalty programs](setting-up-loyalty-programs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

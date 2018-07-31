@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Generate a pre-acquisition transaction for a low-cost asset
 TOCTitle: (HUN) Generate a pre-acquisition transaction for a low-cost asset
 ms:assetid: d4018c1d-7f22-4aef-ae71-d6b9d764c046
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733164(v=AX.60)
 ms:contentKeyID: 49685132
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Generate a pre-acquisition transaction for a low-cost asset 
@@ -46,5 +48,5 @@ For information about how to create the acquisition transaction from the pre-acq
 [(HUN) Set up a value model for low-cost assets](hun-set-up-a-value-model-for-low-cost-assets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

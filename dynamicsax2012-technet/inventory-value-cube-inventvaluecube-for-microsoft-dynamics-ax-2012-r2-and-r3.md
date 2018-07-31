@@ -1,4 +1,4 @@
-﻿---
+---
 title: Inventory value cube (InventValueCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Inventory value cube (InventValueCube)
 ms:assetid: 4d369d42-3086-4e6b-b837-cb26f64dba72
@@ -553,5 +553,5 @@ The Inventory value cube can be accessed by users assigned to the following Micr
   - Warehouse manager
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

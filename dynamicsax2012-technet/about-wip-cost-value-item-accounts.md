@@ -1,4 +1,4 @@
-﻿---
+---
 title: About WIP cost value item accounts
 TOCTitle: About WIP cost value item accounts
 ms:assetid: be16ac73-105c-4bfe-a35a-6b5c134035ae
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - WIP
 - cost value item
+audience: Application User
+ms.search.region: Global
 ---
 
 # About WIP cost value item accounts 
@@ -140,5 +142,5 @@ In the **Project groups** from, on the **Ledger** tab, for time and material pro
 [Line properties (form)](https://technet.microsoft.com/en-us/library/aa590082\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

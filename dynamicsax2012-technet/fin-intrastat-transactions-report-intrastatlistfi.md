@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FIN) Intrastat transactions report (IntrastatListFI)
 TOCTitle: (FIN) Intrastat transactions report (IntrastatListFI)
 ms:assetid: d10b92cb-3266-46dc-86be-a54a41863876
@@ -142,5 +142,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(FIN) Generate a Finnish Intrastat declaration](fin-generate-a-finnish-intrastat-declaration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

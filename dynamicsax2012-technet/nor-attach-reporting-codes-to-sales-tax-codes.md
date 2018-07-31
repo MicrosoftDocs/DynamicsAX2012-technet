@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Attach reporting codes to sales tax codes
 TOCTitle: (NOR) Attach reporting codes to sales tax codes
 ms:assetid: 2e070335-e3ab-40f5-b802-93896977fd6f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231021(v=AX.60)
 ms:contentKeyID: 36056273
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Attach reporting codes to sales tax codes 
@@ -117,5 +119,5 @@ Use the **Sales tax codes** form to attach reporting codes to sales tax codes to
 [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create price calculations for sales order items that have a potency
 TOCTitle: Create price calculations for sales order items that have a potency
 ms:assetid: 0367775b-9115-435b-935b-0077c1a3ac5e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527688(v=AX.60)
 ms:contentKeyID: 59626221
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create price calculations for sales order items that have a potency 
@@ -168,5 +170,5 @@ To create and invoice a sales order with a potency item, follow these steps:
 [About potency management](about-potency-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

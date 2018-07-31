@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DEU) About additional acquisition depreciation
 TOCTitle: (DEU) About additional acquisition depreciation
 ms:assetid: 60ff4708-d075-4d5c-88d2-d3dfda3ca666
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - DE - 00002
+audience: Application User
+ms.search.region: Germany
 ---
 
 # (DEU) About additional acquisition depreciation 
@@ -83,5 +85,5 @@ The following table displays the monthly depreciation amounts for both the origi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

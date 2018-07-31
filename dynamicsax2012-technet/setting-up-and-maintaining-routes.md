@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining routes
 TOCTitle: Setting up and maintaining routes
 ms:assetid: 656ce915-62a3-4824-8b46-f62a2c607897
@@ -13,6 +13,8 @@ f1_keywords:
 - production
 - operations
 - route
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining routes 
@@ -45,5 +47,5 @@ The topics in this section provide information about how to set up and maintain 
 [Create cost categories](create-cost-categories.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

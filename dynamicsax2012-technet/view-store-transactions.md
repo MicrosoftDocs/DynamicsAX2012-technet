@@ -1,4 +1,4 @@
-﻿---
+---
 title: View store transactions
 TOCTitle: View store transactions
 ms:assetid: c92384eb-0a33-4b89-835a-8510c89a0c72
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - store transaction
 - store transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # View store transactions 
@@ -93,5 +95,5 @@ To view details about transactions that have discounts applied to them, follow t
 [View inquiries and reports overview](view-inquiries-and-reports-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

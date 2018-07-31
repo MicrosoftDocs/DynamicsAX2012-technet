@@ -1,4 +1,4 @@
-﻿---
+---
 title: Print or email a report on a recurring basis
 TOCTitle: Print or email a report on a recurring basis
 ms:assetid: e2d50663-83bf-4d3c-9f96-db3fdf60e2c0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724132(v=AX.60)
 ms:contentKeyID: 35133491
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Print or email a report on a recurring basis 
@@ -128,5 +130,5 @@ Microsoft Dynamics AX includes hundreds of preconfigured reports that you can us
 14. Click **OK** to print the report to the selected destination on a recurring basis.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

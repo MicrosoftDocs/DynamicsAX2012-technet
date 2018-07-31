@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Setting up and maintaining journals
 TOCTitle: (JPN) Setting up and maintaining journals
 ms:assetid: 21da489d-c4ab-42c6-a1b1-15a839e5ea67
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711018(v=AX.60)
 ms:contentKeyID: 49386427
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Setting up and maintaining journals 
@@ -22,5 +24,5 @@ The following topics provide information about how to set up and maintain journa
 [(JPN) Set up positive debit and credit amounts](jpn-set-up-positive-debit-and-credit-amounts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

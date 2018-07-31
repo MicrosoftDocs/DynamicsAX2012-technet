@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Environmental sustainability
 TOCTitle: Working with Environmental sustainability
 ms:assetid: aab4a300-7e08-4805-8b7c-8bb13ed7fb8f
@@ -11,6 +11,8 @@ f1_keywords:
 - environmental sustainability
 - sustain
 - sustainability
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Environmental sustainability 
@@ -37,5 +39,5 @@ Topics in this section provide information about adding environmental data to fo
 [View a process flow map](view-a-process-flow-map.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

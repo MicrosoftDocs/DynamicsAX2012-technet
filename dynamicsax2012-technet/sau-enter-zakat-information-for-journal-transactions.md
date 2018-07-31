@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Enter Zakat information for journal transactions
 TOCTitle: (SAU) Enter Zakat information for journal transactions
 ms:assetid: c5e76058-c46d-4b11-acfb-a4d2c21dbf43
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Saudi Arabia
 - Zakat information
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) Enter Zakat information for journal transactions 
@@ -55,5 +57,5 @@ You can use the **Journal voucher** form or other journals to enter Zakat inform
 [(SAU) Zakat assets and depreciation (form)](https://technet.microsoft.com/en-us/library/hh242233\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

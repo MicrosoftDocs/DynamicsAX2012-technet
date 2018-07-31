@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up time and attendance
 TOCTitle: Setting up time and attendance
 ms:assetid: 441b0386-ff33-4ab1-897a-d5a941a44192
@@ -12,6 +12,8 @@ f1_keywords:
 - dimension
 - registering
 - time and attendance
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up time and attendance 
@@ -68,5 +70,5 @@ When you set up **Time and attendance**, follow these steps in the sequential or
 [Key tasks: Set up manufacturing execution](key-tasks-set-up-manufacturing-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

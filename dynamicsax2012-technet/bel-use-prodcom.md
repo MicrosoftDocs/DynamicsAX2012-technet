@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Use PRODCOM
 TOCTitle: (BEL) Use PRODCOM
 ms:assetid: 7c22b81c-8080-4f26-95d9-6c4f1f99aadd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213130(v=AX.60)
 ms:contentKeyID: 36058262
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Use PRODCOM 
@@ -40,5 +42,5 @@ Use the **PRODCOM** form to create PRODCOM periods and transfer sales lines to t
 [(BEL) Assign PRODCOM properties to an item](bel-assign-prodcom-properties-to-an-item.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

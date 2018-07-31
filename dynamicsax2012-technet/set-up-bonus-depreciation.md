@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up bonus depreciation
 TOCTitle: Set up bonus depreciation
 ms:assetid: fabe8e93-43b9-4f94-ae68-89cc65a644a5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499871(v=AX.60)
 ms:contentKeyID: 36060072
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up bonus depreciation 
@@ -30,5 +32,5 @@ Bonus depreciation is available only for depreciation books. You do not have to 
 [Special depreciation allowance (form)](https://technet.microsoft.com/en-us/library/aa619793\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

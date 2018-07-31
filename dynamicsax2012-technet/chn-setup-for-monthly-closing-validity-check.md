@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Setup for monthly closing (validity check)
 TOCTitle: (CHN) Setup for monthly closing (validity check)
 ms:assetid: 222e2346-fb36-4b07-ae6b-20cc639ab151
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664012(v=AX.60)
 ms:contentKeyID: 49384596
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Setup for monthly closing (validity check) 
@@ -82,5 +84,5 @@ You can run validation checks for the following checklist items that are display
 [(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664137\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

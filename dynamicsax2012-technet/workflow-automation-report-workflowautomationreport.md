@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow automation report (WorkflowAutomationReport)
 TOCTitle: Workflow automation report (WorkflowAutomationReport)
 ms:assetid: 7aa8a52f-d67c-478c-9235-5633a80673cc
@@ -135,5 +135,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

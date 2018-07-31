@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up taxes
 TOCTitle: About setting up taxes
 ms:assetid: b8af4de8-1aae-44b4-8f69-7bb1596c5f61
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - tax
 - taxes
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up taxes 
@@ -44,5 +46,5 @@ Retail calculates taxes for return transactions by using the schedules for sales
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

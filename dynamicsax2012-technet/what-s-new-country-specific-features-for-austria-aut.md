@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Austria (AUT)"
 TOCTitle: Country-specific features for Austria
 ms:assetid: 3f51f69b-ab74-48db-ad5d-48a2df006388
@@ -55,5 +55,5 @@ In Microsoft Dynamics AX 2012 R3, we changed and added country-specific function
 Because half-year convention rules are allowed for fixed assets depreciation calculation, the **Half year convention on additional acquisitions** parameter can now be set up in the depreciation profile for the straight-line-life remaining depreciation method. This method is considered if the **Create depreciation adjustment with bases adjustment** parameter is enabled in the fixed asset value model.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

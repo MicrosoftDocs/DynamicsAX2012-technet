@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CAN, USA) Reuse a check number
 TOCTitle: (CAN, USA) Reuse a check number
 ms:assetid: ada2b2b3-d70d-4bac-b3ef-06904a55bed9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243102(v=AX.60)
 ms:contentKeyID: 36058929
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Canada
 ---
 
 # (CAN, USA) Reuse a check number 
@@ -52,5 +54,5 @@ You can reuse check numbers if you enabled the functionality when you set up ban
 [(CAN, USA) Set up a bank parameter to reuse check numbers](can-usa-set-up-a-bank-parameter-to-reuse-check-numbers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

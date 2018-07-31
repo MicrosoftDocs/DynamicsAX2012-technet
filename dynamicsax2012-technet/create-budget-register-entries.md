@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create budget register entries
 TOCTitle: Create budget register entries
 ms:assetid: fc62428e-16ec-41fb-9126-59a6ea19b485
@@ -15,6 +15,8 @@ f1_keywords:
 - recurring budget amounts
 - budget account entry
 - transfer budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create budget register entries 
@@ -203,5 +205,5 @@ For some expenses, such as rent, the budgeted amount is typically the same for e
 [Examples: Budgeting and budget control](examples-budgeting-and-budget-control.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

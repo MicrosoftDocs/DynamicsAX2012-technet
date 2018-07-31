@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Include physical value
 TOCTitle: About Include physical value
 ms:assetid: 224750d2-dcf3-49de-bfcb-ff315e782cca
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230988(v=AX.60)
 ms:contentKeyID: 36056172
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Include physical value 
@@ -80,5 +82,5 @@ When a sales order is posted, the posted cost amount is USD 10.00, because the r
 [Item model groups (form)](https://technet.microsoft.com/en-us/library/aa577092\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

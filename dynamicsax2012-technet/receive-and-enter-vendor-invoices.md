@@ -1,4 +1,4 @@
-﻿---
+---
 title: Receive and enter vendor invoices
 TOCTitle: Receive and enter vendor invoices
 ms:assetid: 6843c86c-a211-487c-b4ed-24241aafcb12
@@ -15,6 +15,8 @@ f1_keywords:
 - journal
 - journals
 - vendor invoices
+audience: Application User
+ms.search.region: Global
 ---
 
 # Receive and enter vendor invoices 
@@ -35,5 +37,5 @@ The following topics provide information about receiving and entering vendor inv
 [Approve vendor invoices](approve-vendor-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

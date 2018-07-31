@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain your personal contacts
 TOCTitle: Add and maintain your personal contacts
 ms:assetid: 534116ba-9056-443d-856e-183aeb8a418e
@@ -11,6 +11,8 @@ f1_keywords:
 - HcmEPPersonalContactCreate
 - HcmEPPersonalContactEdit
 - HcmEPPersonalContactInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain your personal contacts 
@@ -103,5 +105,5 @@ Information about your personal contacts is displayed on the **Personal contacts
 [Add and maintain your contact information](add-and-maintain-your-contact-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

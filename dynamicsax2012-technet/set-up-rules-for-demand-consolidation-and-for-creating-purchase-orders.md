@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up rules for demand consolidation and for creating purchase orders
 TOCTitle: Set up rules for demand consolidation and for creating purchase orders
 ms:assetid: 94707a11-df77-4de6-898c-529634109b1c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209386(v=AX.60)
 ms:contentKeyID: 36058599
 ms.date: 04/27/2016
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up rules for demand consolidation and for creating purchase orders 
@@ -129,5 +131,5 @@ You can perform the following tasks:
 [Key tasks: Consolidate purchase requisitions](key-tasks-consolidate-purchase-requisitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

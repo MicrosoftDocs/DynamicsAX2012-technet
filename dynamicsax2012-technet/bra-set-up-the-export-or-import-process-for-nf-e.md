@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up the export or import process for NF-e
 TOCTitle: (BRA) Set up the export or import process for NF-e
 ms:assetid: fa7fd30c-9ee8-49e1-a7ac-f072d7253cb7
@@ -13,6 +13,8 @@ f1_keywords:
 - electronic fiscal document
 - export process
 - import process
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up the export or import process for NF-e 
@@ -49,5 +51,5 @@ Use the following procedure to set up the export or import process for a Nota Fi
 [Recurrence (form)](https://technet.microsoft.com/en-us/library/aa616143\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

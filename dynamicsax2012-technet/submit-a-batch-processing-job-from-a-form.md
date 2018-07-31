@@ -1,4 +1,4 @@
-﻿---
+---
 title: Submit a batch processing job from a form
 TOCTitle: Submit a batch processing job from a form
 ms:assetid: d8998139-98e3-4ae9-b253-68c29d3e0c38
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa619588(v=AX.60)
 ms:contentKeyID: 36059645
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Submit a batch processing job from a form 
@@ -54,5 +56,5 @@ This article describes how to submit a job or report to be run as part of a batc
 [Run client and private batch tasks](run-client-and-private-batch-tasks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

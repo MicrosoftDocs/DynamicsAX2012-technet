@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring line properties
 TOCTitle: Configuring line properties
 ms:assetid: a5a10012-9bd5-4ad0-a29d-0495306bd3d1
@@ -8,6 +8,8 @@ ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
 - line properties
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring line properties 
@@ -24,5 +26,5 @@ The topics in this section provide information about configuring line properties
 [Set up a line property](set-up-a-line-property.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

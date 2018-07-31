@@ -1,4 +1,4 @@
-﻿---
+---
 title: Insert a node in the modeling tree
 TOCTitle: Insert a node in the modeling tree
 ms:assetid: 71001b13-0990-47f3-a23a-33455e0ce225
@@ -10,6 +10,8 @@ f1_keywords:
 - product builder
 - insert a node
 - modeling tree
+audience: Application User
+ms.search.region: Global
 ---
 
 # Insert a node in the modeling tree 
@@ -89,5 +91,5 @@ This section describes the procedures for inserting nodes into the product model
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

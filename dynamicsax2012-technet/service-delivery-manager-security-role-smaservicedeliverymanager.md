@@ -1,4 +1,4 @@
-﻿---
+---
 title: Service delivery manager security role (SMAServiceDeliveryManager)
 TOCTitle: Service delivery manager security role (SMAServiceDeliveryManager)
 ms:assetid: 07f00cf4-c4f2-4233-bc11-b69cfd87ed43
@@ -225,5 +225,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

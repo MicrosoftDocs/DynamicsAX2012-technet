@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Update a facture for several sales orders
 TOCTitle: (RUS) Update a facture for several sales orders
 ms:assetid: 11248845-21a7-4e67-a617-cebf1470295c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711397(v=AX.60)
 ms:contentKeyID: 49387215
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Update a facture for several sales orders 
@@ -67,5 +69,5 @@ In general, only one invoice is included in each facture. However, sometimes it 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

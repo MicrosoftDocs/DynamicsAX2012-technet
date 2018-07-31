@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add direct debit mandate information to a customer account
 TOCTitle: Add direct debit mandate information to a customer account
 ms:assetid: c2f241a3-1fc8-43b0-b3aa-89dd63c06163
@@ -13,6 +13,8 @@ f1_keywords:
 - Forms.CustTable
 - SEPA
 - mandate
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add direct debit mandate information to a customer account 
@@ -253,5 +255,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [SEPA direct debit overview](sepa-direct-debit-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

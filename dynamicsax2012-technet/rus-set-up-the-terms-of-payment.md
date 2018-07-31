@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up the terms of payment
 TOCTitle: (RUS) Set up the terms of payment
 ms:assetid: f16cd2d3-5454-44ad-b5de-a70ef6392a05
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678594(v=AX.60)
 ms:contentKeyID: 49388076
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up the terms of payment 
@@ -40,5 +42,5 @@ You must set up the terms of payment when you register the purchase of goods fro
 9.  Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

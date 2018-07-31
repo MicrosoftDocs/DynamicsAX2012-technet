@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Reporting"
 TOCTitle: Reporting
 ms:assetid: f09d8fb3-b3eb-48e2-9285-22217a06037c
@@ -487,5 +487,5 @@ The following features have been added so that Reporting Services reports have t
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

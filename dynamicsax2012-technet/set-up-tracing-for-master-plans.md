@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up tracing for master plans
 TOCTitle: Set up tracing for master plans
 ms:assetid: eec2762d-98ff-46d8-9bb3-a126bc52e96e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677371(v=AX.60)
 ms:contentKeyID: 49384147
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up tracing for master plans 
@@ -44,5 +46,5 @@ The following procedure describes how to set up a Data Collector Set to collect 
 [About using tracing for master plans](about-using-tracing-for-master-plans.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

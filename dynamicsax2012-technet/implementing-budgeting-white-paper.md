@@ -1,4 +1,4 @@
-﻿---
+---
 title: Implementing Budgeting (White paper)
 TOCTitle: Implementing Budgeting
 ms:assetid: c99cf719-6bf9-4f17-804a-8fbe762ac9d6
@@ -18,5 +18,5 @@ In Microsoft Dynamics AX 2012, budgeting capabilities are enhanced to provide si
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213129).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

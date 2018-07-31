@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Spanish payment due date compliance report (DueDateCompliance_ES)
 TOCTitle: (ESP) Spanish payment due date compliance report (DueDateCompliance_ES)
 ms:assetid: b89f7b1f-9a50-49ef-a429-f73b4e34b07e
@@ -138,5 +138,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(ESP) Generate the payment due date compliance report](esp-generate-the-payment-due-date-compliance-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

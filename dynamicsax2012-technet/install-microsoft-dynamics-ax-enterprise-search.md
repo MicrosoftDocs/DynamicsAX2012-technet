@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Microsoft Dynamics AX Enterprise Search
 TOCTitle: Install Enterprise Search
 ms:assetid: 36f61f99-a708-411e-8808-de637f669fc7
@@ -205,5 +205,5 @@ If you install Enterprise Portal on a server that hosts a SharePoint Team site, 
 [Checklist: Deploy Microsoft Dynamics AX Enterprise Search](checklist-deploy-microsoft-dynamics-ax-enterprise-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

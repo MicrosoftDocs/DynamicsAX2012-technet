@@ -1,4 +1,4 @@
-﻿---
+---
 title: Help server
 TOCTitle: Help server
 ms:assetid: 2e385310-28e4-461f-8533-1ab6eb676d31
@@ -16,8 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 The topics in this section explain the client-server architecture of the Microsoft Dynamics AX 2012 Help system and provide information for administrators responsible for installing, configuring, and maintaining the Help server. The Help system hosts fully customizable content on a standard Internet Information Services (IIS) web server. A Help viewer provides searchable access to the server content, as well as access to Internet Help resources.
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
 
@@ -32,5 +31,5 @@ For more information about new or changed Help features in Microsoft Dynamics AX
 [Developing on the Help server](developing-on-the-help-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

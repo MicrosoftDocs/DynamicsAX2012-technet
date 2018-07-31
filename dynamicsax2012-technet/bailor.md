@@ -1,4 +1,4 @@
-﻿---
+---
 title: " bailor"
 TOCTitle: " bailor"
 ms:assetid: DynamicsAXGlossary.1933042
@@ -19,5 +19,5 @@ A person or an organization that transfers personal property or items, but not p
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

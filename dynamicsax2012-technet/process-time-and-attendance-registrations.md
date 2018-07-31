@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process time and attendance registrations
 TOCTitle: Process time and attendance registrations
 ms:assetid: e5b58709-1d7a-4bae-9a87-5836707a8b6e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573180(v=AX.60)
 ms:contentKeyID: 39519351
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Process time and attendance registrations 
@@ -32,5 +34,5 @@ The following topics provide information about activities and tasks related to p
 [Transfer time and attendance registrations](transfer-time-and-attendance-registrations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

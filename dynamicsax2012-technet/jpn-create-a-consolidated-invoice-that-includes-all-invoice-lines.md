@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Create a consolidated invoice that includes all invoice lines
 TOCTitle: (JPN) Create a consolidated invoice that includes all invoice lines
 ms:assetid: 3bb4b120-b838-4cf1-ac82-3c08260ab524
@@ -12,6 +12,8 @@ f1_keywords:
 - Japan
 - Consolidated invoice
 - invoice line
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Create a consolidated invoice that includes all invoice lines 
@@ -52,5 +54,5 @@ The same invoice may have a mixture of lines that are related to purchase orders
 [(JPN) Consolidated invoice (form)](https://technet.microsoft.com/en-us/library/jj711205\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

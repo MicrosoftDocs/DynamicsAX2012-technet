@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up info code groups (Retail essentials)
 TOCTitle: Set up info code groups (Retail essentials)
 ms:assetid: 29edc4be-ab79-4b7f-b168-5b7e0460417f
@@ -36,5 +36,5 @@ To set up info code groups, follow these steps:
 [Set up subcodes for info codes (Retail essentials)](set-up-subcodes-for-info-codes-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

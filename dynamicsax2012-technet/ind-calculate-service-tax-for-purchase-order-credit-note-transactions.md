@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Calculate service tax for purchase order credit note transactions
 TOCTitle: (IND) Calculate service tax for purchase order credit note transactions
 ms:assetid: 3ec8f7b8-0577-445b-b75a-fa1b44be8bdf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664639(v=AX.60)
 ms:contentKeyID: 49385717
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Calculate service tax for purchase order credit note transactions 
@@ -30,5 +32,5 @@ If you create a credit note to record the return of goods to a vendor and select
 4.  Select the **Tax as per original invoice** check box to apply the tax rate for service tax. The date for the calculation is the date when the original order was invoiced.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor aging report (VendAgingReport)
 TOCTitle: Vendor aging report (VendAgingReport)
 ms:assetid: e4367f5e-2525-4ad0-aa6b-196513d4c026
@@ -190,5 +190,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Aging period definitions (form)](https://technet.microsoft.com/en-us/library/aa634713\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Getting started with associated technologies
 TOCTitle: Getting started with associated technologies
 ms:assetid: 76d76bd6-2031-43a0-a541-a062c7e8113a
@@ -302,5 +302,5 @@ You must consider the availability of your infrastructure and applications caref
 [Prerequisite skills and knowledge](prerequisite-skills-and-knowledge.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

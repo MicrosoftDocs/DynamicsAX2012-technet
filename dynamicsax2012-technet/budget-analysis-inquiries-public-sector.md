@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budget analysis inquiries (Public sector)
 TOCTitle: Budget analysis inquiries (Public sector)
 ms:assetid: a8102d21-014b-437f-a6d5-efb8b1fc7d85
@@ -11,6 +11,8 @@ f1_keywords:
 - Public sector
 - budget
 - budget analysis
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Budget analysis inquiries (Public sector) 
@@ -139,5 +141,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [Budget analysis for encumbrances (form) (Public sector)](https://technet.microsoft.com/en-us/library/jj710366\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

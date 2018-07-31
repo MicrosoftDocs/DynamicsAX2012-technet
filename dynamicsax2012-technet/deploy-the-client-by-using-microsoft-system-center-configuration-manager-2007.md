@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy the client by using Microsoft System Center Configuration Manager 2007
 TOCTitle: Deploy the client by using Microsoft System Center Configuration Manager 2007
 ms:assetid: d071ca02-2f1d-4de0-bd65-35e8cb7a7295
@@ -235,5 +235,5 @@ The package is advertised to the targeted collection, and the silent installatio
 For information about how to monitor the status of an advertisement, see [How to View the Status of an Advertisement](http://go.microsoft.com/fwlink/?linkid=145901) in the Configuration Manager documentation.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

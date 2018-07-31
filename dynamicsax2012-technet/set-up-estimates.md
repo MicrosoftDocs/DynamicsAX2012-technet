@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up estimates
 TOCTitle: Set up estimates
 ms:assetid: f45cc0b3-6035-4fc4-860a-3769e9e4f04b
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - estimates
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up estimates 
@@ -32,5 +34,5 @@ The following topics provide information about setting up estimates:
 [Create an estimate project](create-an-estimate-project.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

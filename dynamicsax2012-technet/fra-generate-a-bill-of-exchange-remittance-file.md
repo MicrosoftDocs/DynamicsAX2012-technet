@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Generate a bill of exchange remittance file
 TOCTitle: (FRA) Generate a bill of exchange remittance file
 ms:assetid: f6ee8359-2083-43a9-9a1c-0430acae76fe
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243292(v=AX.60)
 ms:contentKeyID: 36060021
 ms.date: 04/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Generate a bill of exchange remittance file 
@@ -54,5 +56,5 @@ You can print a remittance file for customers by clicking **File** \> **Print** 
 [Set up bills of exchange](set-up-bills-of-exchange.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

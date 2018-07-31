@@ -1,4 +1,4 @@
-﻿---
+---
 title: About vendor request configuration
 TOCTitle: About vendor request configuration
 ms:assetid: 6114cc41-3f11-4297-85fe-4a148c0ec3e6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209168(v=AX.60)
 ms:contentKeyID: 36057640
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About vendor request configuration 
@@ -78,7 +80,7 @@ The following table defines the types of vendor requests that are available and 
 <td><p>An application that a vendor submits after the vendor is invited by the customer to expand their business opportunity with the organization.</p></td>
 <td><p>Vendor registration page</p></td>
 <td><p>Enterprise Portal</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>Although the vendor is already approved to business in a different legal entity in the organization, they are not a vendor in the legal entity that is identified in the vendor extension request. Therefore, the request does not appear in the Vendor portal. Instead, it appears in Enterprise Portal.</P>
@@ -133,5 +135,5 @@ The following table defines the types of vendor requests that are available and 
 [Configuring Enterprise Portal for vendor requests](configuring-enterprise-portal-for-vendor-requests.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

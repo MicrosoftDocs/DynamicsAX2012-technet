@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or update a new vendor request
 TOCTitle: Create or update a new vendor request
 ms:assetid: 035cdd9b-f46b-4a8f-abe2-b6a21628a9d5
@@ -10,6 +10,8 @@ f1_keywords:
 - VendRequestCompanyAdd
 - VendRequestCompanyAddEdit
 - VendRequestCompanyInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or update a new vendor request 
@@ -126,5 +128,5 @@ You can view the workflow history for any new vendor request that has been submi
 [About workflow for vendor requests](about-workflow-for-vendor-requests.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

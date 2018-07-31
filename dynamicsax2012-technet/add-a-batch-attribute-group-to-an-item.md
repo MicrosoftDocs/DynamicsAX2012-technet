@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add a batch attribute group to an item
 TOCTitle: Add a batch attribute group to an item
 ms:assetid: 8d5f573c-58a7-41c9-b058-06efe82856ae
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209353(v=AX.60)
 ms:contentKeyID: 36058496
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add a batch attribute group to an item 
@@ -40,5 +42,5 @@ Use this procedure to add a batch attribute group to an item. When you assign a 
 [Product specific (form)](https://technet.microsoft.com/en-us/library/hh227369\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up price combinations
 TOCTitle: Set up price combinations
 ms:assetid: 007c732b-6bab-445e-8357-10ea45986d97
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569681(v=AX.60)
 ms:contentKeyID: 36055916
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up price combinations 
@@ -46,5 +48,5 @@ Price combinations are based on the item sales price from the **Item** form or f
 7.  Click **Price/Discount setup** to define a rule that determines when the price adjustment becomes active for percentage-based and amount-based adjustments. Price adjustment expressions are created just like validation rules. For more information, see [About validation rules](about-validation-rules.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

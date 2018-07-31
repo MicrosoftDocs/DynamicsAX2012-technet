@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy data from a grid to Microsoft Excel
 TOCTitle: Copy data from a grid to Microsoft Excel
 ms:assetid: b794c01f-0d2c-4836-8301-5d7647ab6f12
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572245(v=AX.60)
 ms:contentKeyID: 36059105
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy data from a grid to Microsoft Excel 
@@ -30,5 +32,5 @@ You can copy information from some grids in Microsoft Dynamics AX and paste that
 3.  Open a Microsoft Excel worksheet, select the cell where the information should start in the worksheet, and then press CTRL+V to paste the information from the grid in Microsoft Dynamics AX to the worksheet.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

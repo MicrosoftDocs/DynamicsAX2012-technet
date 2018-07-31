@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up accessorial assignments
 TOCTitle: Set up accessorial assignments
 ms:assetid: 6e62a681-9184-4b5e-bcf0-0c575b33182e
@@ -12,6 +12,8 @@ f1_keywords:
 - accessorial assignment
 - accessorial assignments
 - accessorials
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up accessorial assignments 
@@ -130,5 +132,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Set up carrier fuel indexes](set-up-carrier-fuel-indexes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

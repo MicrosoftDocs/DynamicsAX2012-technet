@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up retail stores (Retail essentials)
 TOCTitle: Setting up retail stores (Retail essentials)
 ms:assetid: 767d0c03-6293-4ddf-9730-9b6c91d22da5
@@ -30,5 +30,5 @@ The topics in this section provide information about how to set up retail stores
 [Set up shipping charges for retail stores (Retail essentials)](set-up-shipping-charges-for-retail-stores-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

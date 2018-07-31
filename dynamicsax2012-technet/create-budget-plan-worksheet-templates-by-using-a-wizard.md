@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create budget plan worksheet templates by using a wizard
 TOCTitle: Create budget plan worksheet templates by using a wizard
 ms:assetid: 8565d393-81c5-4bfd-96ae-b7693100d5f0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507085(v=AX.60)
 ms:contentKeyID: 59623136
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create budget plan worksheet templates by using a wizard 
@@ -361,5 +363,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

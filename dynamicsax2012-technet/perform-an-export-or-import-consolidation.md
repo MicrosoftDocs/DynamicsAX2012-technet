@@ -1,4 +1,4 @@
-﻿---
+---
 title: Perform an export or import consolidation
 TOCTitle: Perform an export or import consolidation
 ms:assetid: 20fa98c9-4c38-4352-b25b-3afde679d7bb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496786(v=AX.60)
 ms:contentKeyID: 37822140
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Perform an export or import consolidation 
@@ -66,5 +68,5 @@ Use the **Consolidate** \[**Import**\] form to prepare the transfer of subsidiar
     The transactions and balances that were specified for consolidation in the subsidiaries are added to the appropriate accounts in the consolidated legal entity.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up project parameters
 TOCTitle: (BRA) Set up project parameters
 ms:assetid: 15ed1300-84a4-4e35-a0b4-e737209e1599
@@ -11,6 +11,8 @@ f1_keywords:
 - fiscal document
 - fiscal
 - split invoices
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up project parameters 
@@ -57,5 +59,5 @@ You can set up the default unit to use in fiscal document lines that are created
 [(BRA) CFOP codes (form)](https://technet.microsoft.com/en-us/library/jj933522\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

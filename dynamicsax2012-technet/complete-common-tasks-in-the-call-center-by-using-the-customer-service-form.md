@@ -1,4 +1,4 @@
-﻿---
+---
 title: Complete common tasks in the Call center by using the Customer service form
 TOCTitle: Complete common tasks in the Call center by using the Customer service form
 ms:assetid: 0ad1d19f-83e6-4cc7-bd88-6bc5a927d5dd
@@ -22,6 +22,8 @@ f1_keywords:
 - Forms.MCRCustSourceCodes
 - Forms.MCRSalesTableOrderHistory
 - Forms.MCRSalesStatsCustTable
+audience: Application User
+ms.search.region: Global
 ---
 
 # Complete common tasks in the Call center by using the Customer service form 
@@ -126,5 +128,5 @@ You can create priorities and assign them to different entities in Microsoft Dyn
   - To add a hot alert to a case – In the **Case** form, change the priority of the case to a priority that is marked as a hot alert.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

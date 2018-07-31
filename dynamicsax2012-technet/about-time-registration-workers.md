@@ -1,4 +1,4 @@
-﻿---
+---
 title: About time registration workers
 TOCTitle: About time registration workers
 ms:assetid: 1d5685ab-1190-4776-a18f-68d514e23e1c
@@ -15,6 +15,8 @@ f1_keywords:
 - implementing
 - registering
 - time and attendance
+audience: Application User
+ms.search.region: Global
 ---
 
 # About time registration workers 
@@ -45,5 +47,5 @@ Time registration workers are associated with groups, such as a profile group, a
 [Enable workers to register time and attendance](enable-workers-to-register-time-and-attendance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

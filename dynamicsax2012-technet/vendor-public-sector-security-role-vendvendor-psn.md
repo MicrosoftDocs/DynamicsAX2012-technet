@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor, public sector security role (VendVendor_PSN)
 TOCTitle: Vendor, public sector security role (VendVendor_PSN)
 ms:assetid: f74cd81e-d87e-4904-b7c0-17e4e2e6218d
@@ -68,5 +68,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

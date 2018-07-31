@@ -1,4 +1,4 @@
-﻿---
+---
 title: Securing Data by Dimension Value by using Extensible Data Security (White paper)
 TOCTitle: Securing Data by Dimension Value by using Extensible Data Security
 ms:assetid: 6d1a6f29-e60b-4046-9f5b-1a23b608f4f7
@@ -18,5 +18,5 @@ Dimension value fields provide a common method of filtering a wide range of fina
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=221075).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a translation group
 TOCTitle: (RUS) Set up a translation group
 ms:assetid: 8c4c5791-29aa-49f3-aa26-2726262f8a9d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923558(v=AX.60)
 ms:contentKeyID: 52075404
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a translation group 
@@ -94,5 +96,5 @@ Translation difference is an imbalance in the default currency or the secondary 
 [(RUS) Set up account translation rules](rus-set-up-account-translation-rules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

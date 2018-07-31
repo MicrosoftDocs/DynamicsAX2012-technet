@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring customer payment formats
 TOCTitle: Configuring customer payment formats
 ms:assetid: cdfb7fb2-26f5-4859-b54c-ccbfa0a985ab
@@ -19,6 +19,8 @@ f1_keywords:
 - giro
 - ESR
 - OCR
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring customer payment formats 
@@ -51,5 +53,5 @@ The following topics provide information about configuring customer payment form
 [(SWE) Set up a method of payment for BG Max payments](swe-set-up-a-method-of-payment-for-bg-max-payments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

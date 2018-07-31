@@ -1,4 +1,4 @@
-﻿---
+---
 title: Loan an item to a worker, contact, or applicant
 TOCTitle: Loan an item to a worker, contact, or applicant
 ms:assetid: 280c7e2f-6e3c-4208-862e-4cb6963af940
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496837(v=AX.60)
 ms:contentKeyID: 36676378
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Loan an item to a worker, contact, or applicant 
@@ -42,5 +44,5 @@ Use the **Loaned equipment** form to track the items that you loan to workers, c
 [Loan items (form)](https://technet.microsoft.com/en-us/library/aa550442\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

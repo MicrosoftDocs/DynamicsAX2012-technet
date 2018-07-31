@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: X++ Workflow API'
 TOCTitle: X++ Workflow API
 ms:assetid: 4da73073-94df-4170-8939-329f0fc939c2
@@ -59,5 +59,5 @@ In Microsoft Dynamics AX 2009, the X++ Workflow API is used to programmatically 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

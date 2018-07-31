@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transportation coordinator security role (TMSTransportationCoordinator)
 TOCTitle: Transportation coordinator security role (TMSTransportationCoordinator)
 ms:assetid: 7b80a122-350f-439a-8d40-0d7c4fc9a2f3
@@ -88,5 +88,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Act on a task (Enterprise Portal)
 TOCTitle: Act on a task
 ms:assetid: 0b6d7bdf-e338-4d96-9ab1-1ab4cc74feb8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271450(v=AX.60)
 ms:contentKeyID: 36384082
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Act on a task (Enterprise Portal) 
@@ -55,5 +57,5 @@ To act on a task that is assigned to you, follow these steps:
       - **View history** – View the workflow status and history of the document.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

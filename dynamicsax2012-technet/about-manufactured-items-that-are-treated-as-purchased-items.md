@@ -1,4 +1,4 @@
-﻿---
+---
 title: About manufactured items that are treated as purchased items
 TOCTitle: About manufactured items that are treated as purchased items
 ms:assetid: b746cb6e-aea1-41e5-b292-0bc3e6aed14a
@@ -10,6 +10,8 @@ f1_keywords:
 - manufactured items
 - manufactured items as purchased
 - purchased items
+audience: Application User
+ms.search.region: Global
 ---
 
 # About manufactured items that are treated as purchased items 
@@ -32,5 +34,5 @@ You can prevent master scheduling calculations from exploding requirements throu
 [About BOM calculations](about-bom-calculations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain contacts and users
 TOCTitle: Add and maintain contacts and users
 ms:assetid: b66f6767-b819-4a61-aa1f-44c0e4bd03ad
@@ -11,6 +11,8 @@ f1_keywords:
 - EPCSSCustSignUpUser
 - EPCSSUserRequestExternalListPage
 - EPCSSUserRequestExternalAdd
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain contacts and users 
@@ -121,5 +123,5 @@ Requests to delete a user must go for approval to the portal owner. After approv
 [Sign up for an account](sign-up-for-an-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

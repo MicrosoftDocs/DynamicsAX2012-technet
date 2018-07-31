@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete depreciation book transactions
 TOCTitle: Delete depreciation book transactions
 ms:assetid: b336f57a-f3b6-44ed-a77c-acc4719703f0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571898(v=AX.60)
 ms:contentKeyID: 36059066
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete depreciation book transactions 
@@ -30,5 +32,5 @@ Use this form to delete asset depreciation book transactions. You can delete all
 [Delete depreciation book transactions (form)](https://technet.microsoft.com/en-us/library/aa557893\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

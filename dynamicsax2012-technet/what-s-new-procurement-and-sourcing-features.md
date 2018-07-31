@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Procurement and sourcing features"
 TOCTitle: Procurement and sourcing features
 ms:assetid: 7c8d311d-a6af-47c8-8012-fc5a9d5136dd
@@ -852,5 +852,5 @@ Enterprise Portal updates for AX 2012 R3 CU8 include the following.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

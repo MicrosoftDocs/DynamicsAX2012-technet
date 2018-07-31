@@ -1,4 +1,4 @@
-﻿---
+---
 title: Search crawler security role (SysSearchCrawler)
 TOCTitle: Search crawler security role (SysSearchCrawler)
 ms:assetid: 4be1a5c0-1e4e-40fb-a635-105844b2dffa
@@ -18,5 +18,5 @@ The Search crawler security role must be assigned to the account that is used to
 No duties or privileges are assigned to this role. The role automatically has access to fields in AOT that have the **Searchable** property set to **Yes**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

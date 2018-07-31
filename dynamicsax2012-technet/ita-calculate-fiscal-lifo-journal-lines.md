@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Calculate fiscal LIFO journal lines
 TOCTitle: (ITA) Calculate fiscal LIFO journal lines
 ms:assetid: 254ad970-adaf-4205-b4d8-0a1f98e365ab
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - calculate fiscal LIFO
 - fiscal LIFO
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Calculate fiscal LIFO journal lines 
@@ -87,5 +89,5 @@ To apply normal value or include work in progress (WIP) in the calculation of th
 [(ITA) About fiscal LIFO workflow](ita-about-fiscal-lifo-workflow.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

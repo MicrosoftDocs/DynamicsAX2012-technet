@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post a statement for return transactions that are processed during a different shift
 TOCTitle: (RUS) Post a statement for return transactions that are processed during a different shift
 ms:assetid: 530b359c-4901-47fb-a242-fb72a776b860
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailStatementTable
 - Forms.RetailStatementJour
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post a statement for return transactions that are processed during a different shift 
@@ -58,5 +60,5 @@ Use this procedure to post a statement for return transactions that are processe
 [View posted statements](view-posted-statements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View your employee benefits
 TOCTitle: View your employee benefits
 ms:assetid: ae01238a-174d-4b6f-a99e-74c11fe23965
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - HcmEPWorkerEnrollmentList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View your employee benefits 
@@ -36,5 +38,5 @@ Use the **Benefits** page to view the benefits that are assigned to your employe
 [Maintain your personal information](maintain-your-personal-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

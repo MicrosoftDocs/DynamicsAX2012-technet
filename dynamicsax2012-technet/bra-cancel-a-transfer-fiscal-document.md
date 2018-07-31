@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Cancel a transfer fiscal document
 TOCTitle: (BRA) Cancel a transfer fiscal document
 ms:assetid: bc7c72b3-0a14-44af-b2c5-7ff9d024b59a
@@ -14,6 +14,8 @@ f1_keywords:
 - Transfer fiscal documents
 - Cancel transfer orders
 - BR-00044
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Cancel a transfer fiscal document 
@@ -58,5 +60,5 @@ Use the following procedure to cancel a transfer fiscal document that is incorre
 [(BRA) Cancel transfer fiscal document (form)](https://technet.microsoft.com/en-us/library/jj911300\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

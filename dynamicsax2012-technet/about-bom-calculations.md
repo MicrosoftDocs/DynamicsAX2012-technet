@@ -1,4 +1,4 @@
-﻿---
+---
 title: About BOM calculations
 TOCTitle: About BOM calculations
 ms:assetid: 7c625da9-ecdb-47c1-ae90-9b03091601f6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571515(v=AX.60)
 ms:contentKeyID: 36058264
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About BOM calculations 
@@ -90,5 +92,5 @@ BOM calculations generate an Infolog that contains warning messages and other ty
 [About BOM calculation of a suggested sales price](about-bom-calculation-of-a-suggested-sales-price.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

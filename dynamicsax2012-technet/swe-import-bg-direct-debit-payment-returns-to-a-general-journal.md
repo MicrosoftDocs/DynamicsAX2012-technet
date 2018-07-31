@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Import BG direct debit payment returns to a general journal
 TOCTitle: (SWE) Import BG direct debit payment returns to a general journal
 ms:assetid: d99cc4fd-e7ea-45e8-ae29-7d80a857aaa3
@@ -11,6 +11,8 @@ f1_keywords:
 - Bankgirot
 - direct debit
 - BG
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Import BG direct debit payment returns to a general journal 
@@ -113,5 +115,5 @@ Use the **Load diskette with payments** form to import refunds for the BG direct
 [(SWE) Set up the BG direct debit method of payment for a customer](swe-set-up-the-bg-direct-debit-method-of-payment-for-a-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

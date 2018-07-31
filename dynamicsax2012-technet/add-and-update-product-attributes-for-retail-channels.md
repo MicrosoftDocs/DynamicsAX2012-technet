@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and update product attributes for retail channels
 TOCTitle: Add and update product attributes for retail channels
 ms:assetid: 87d982a0-0058-4aae-88f0-0a6c54d92ed1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailInternalOrganization
 - Forms.RetailChannelMapAttributes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and update product attributes for retail channels 
@@ -108,5 +110,5 @@ To run scheduler jobs, follow these steps:
 [Bulk edit product attributes by using Excel](bulk-edit-product-attributes-by-using-excel.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

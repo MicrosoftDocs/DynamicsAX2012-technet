@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up and maintaining Inventory and warehouse management
 TOCTitle: (RUS) Setting up and maintaining Inventory and warehouse management
 ms:assetid: 4a89a216-e907-436f-b24f-e1b9332bacc6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - Setting up and maintaining Inventory and warehouse management
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up and maintaining Inventory and warehouse management 
@@ -27,5 +29,5 @@ The topics in this section provide information about setting up and maintaining 
 [(RUS) Setting up and maintaining units of measure](rus-setting-up-and-maintaining-units-of-measure.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sign a document electronically
 TOCTitle: Sign a document electronically
 ms:assetid: c8a0fd22-2ae4-4aa9-aa72-b575f2a1d0f6
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - compliance, e-signature
+audience: Application User
+ms.search.region: Global
 ---
 
 # Sign a document electronically 
@@ -40,5 +42,5 @@ If a change to a document requires a signature and one is not provided, signing 
 7.  Click **OK**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

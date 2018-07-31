@@ -1,4 +1,4 @@
-﻿---
+---
 title: View loyalty rewards transactions
 TOCTitle: View loyalty rewards transactions
 ms:assetid: ded60a0a-4f77-4026-9f1b-9d84b8f56590
@@ -8,6 +8,8 @@ ms.date: 04/29/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.RetailLoyaltyCardRewardPointTrans
+audience: Application User
+ms.search.region: Global
 ---
 
 # View loyalty rewards transactions 
@@ -62,5 +64,5 @@ Use this procedure to view rewards transactions for a specific loyalty card. You
 [About setting up loyalty programs in AX 2012 R3](about-setting-up-loyalty-programs-in-ax-2012-r3.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

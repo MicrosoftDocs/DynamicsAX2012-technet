@@ -1,4 +1,4 @@
-﻿---
+---
 title: About customer specific default values
 TOCTitle: About customer specific default values
 ms:assetid: 8acc9620-efb1-4083-b42d-10260e019f78
@@ -10,6 +10,8 @@ f1_keywords:
 - product builder
 - default value
 - default values
+audience: Application User
+ms.search.region: Global
 ---
 
 # About customer specific default values 
@@ -57,5 +59,5 @@ This section provides information about customer-specific default values and the
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

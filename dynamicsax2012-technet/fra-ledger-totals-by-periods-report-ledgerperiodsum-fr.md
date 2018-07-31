@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Ledger totals by periods report (LedgerPeriodSum_FR)
 TOCTitle: (FRA) Ledger totals by periods report (LedgerPeriodSum_FR)
 ms:assetid: 55fa7c8f-0863-43d7-9957-9ad2200b0094
@@ -147,5 +147,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

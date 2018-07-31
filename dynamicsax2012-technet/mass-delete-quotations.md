@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mass delete quotations
 TOCTitle: Mass delete quotations
 ms:assetid: fb4e2095-5606-4bba-9fef-0a05e8cbb3c4
@@ -11,6 +11,8 @@ f1_keywords:
 - delete quotations
 - mass delete
 - remove quotations
+audience: Application User
+ms.search.region: Global
 ---
 
 # Mass delete quotations 
@@ -45,5 +47,5 @@ You can delete a selection of quotations that you no longer want to keep track o
 [Delete quotations (form)](https://technet.microsoft.com/en-us/library/aa556468\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

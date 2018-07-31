@@ -1,4 +1,4 @@
-﻿---
+---
 title: Implementing the Tax Framework for Sales (White paper)
 TOCTitle: Implementing the Tax Framework for Sales
 ms:assetid: f5a196a0-7eb8-46c0-8604-26e333d2dbf8
@@ -18,5 +18,5 @@ This paper describes common patterns for implementing sales tax. It includes des
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213135).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

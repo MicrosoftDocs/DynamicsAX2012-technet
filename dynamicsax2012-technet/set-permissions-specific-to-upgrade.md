@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set permissions specific to upgrade
 TOCTitle: Set permissions specific to upgrade
 ms:assetid: 122768fd-6d63-46ad-b8e3-1d389f544ab0
@@ -41,5 +41,5 @@ The following table lists permissions that must be set for upgrade.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

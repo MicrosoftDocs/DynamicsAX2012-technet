@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Backup and recovery"
 TOCTitle: Backup and recovery
 ms:assetid: 94bd9f02-cd04-44bf-82f2-32ebfae1e6b5
@@ -20,5 +20,5 @@ The Volume Shadow Copy Service (VSS) simplifies the process for backing up Micro
 For more information, see [Protecting Microsoft Dynamics AX environments with System Center 2012 Data Protection Manager (DPM)](protecting-microsoft-dynamics-ax-environments-with-system-center-2012-data-protection-manager-dpm.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

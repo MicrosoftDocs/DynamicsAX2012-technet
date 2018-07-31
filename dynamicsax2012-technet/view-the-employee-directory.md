@@ -1,4 +1,4 @@
-﻿---
+---
 title: View the employee directory
 TOCTitle: View the employee directory
 ms:assetid: 8038d68f-a2cb-4d44-bb28-d93eb0866123
@@ -10,6 +10,8 @@ f1_keywords:
 - default_EmployeeServices_Organization
 - defaultEmployeeServicesOrganization
 - HcmEPWorkerList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View the employee directory 
@@ -22,5 +24,5 @@ You can use the **Directory** page to view a list of employees in your company o
 To display the **Directory** page, go to the Employee services site and then click **Organization** on the Quick Launch.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

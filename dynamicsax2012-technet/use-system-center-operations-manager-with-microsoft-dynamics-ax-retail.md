@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use System Center Operations Manager with Microsoft Dynamics AX Retail
 TOCTitle: Use System Center Operations Manager with Microsoft Dynamics AX Retail
 ms:assetid: 64e3c978-5bbc-4804-8df6-d24e7771cc1f
@@ -18,5 +18,5 @@ The System Center Management Pack for Microsoft Dynamics AX Retail 2012 R3 provi
 For more information, see [System Center Management Pack for Microsoft Dynamics AX Retail 2012 R3](http://go.microsoft.com/fwlink/?linkid=393807%26clcid=0x409).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

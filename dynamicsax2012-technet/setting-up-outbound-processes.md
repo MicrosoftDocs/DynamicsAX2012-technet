@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up outbound processes
 TOCTitle: Setting up outbound processes
 ms:assetid: 4afeacd0-f449-4cf7-b5a2-cd455bd5c3cd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497749(v=AX.60)
 ms:contentKeyID: 62200065
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up outbound processes 
@@ -34,5 +36,5 @@ The topics in this section provide information about how to set up outbound proc
 [Set up shipping carriers and carrier groups](set-up-shipping-carriers-and-carrier-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

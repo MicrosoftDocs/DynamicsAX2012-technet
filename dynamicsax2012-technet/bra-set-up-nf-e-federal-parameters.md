@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up NF-e federal parameters
 TOCTitle: (BRA) Set up NF-e federal parameters
 ms:assetid: 45298749-f4bb-4cb9-8696-87687243a37a
@@ -14,6 +14,8 @@ f1_keywords:
 - NF-e federal parameters
 - BR-00044
 - MsDynAx060.Forms.EFDocParameters_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up NF-e federal parameters 
@@ -146,5 +148,5 @@ Use the following procedures to set up NF-e federal parameters.
 [(BRA) About the NF-e process](bra-about-the-nf-e-process.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

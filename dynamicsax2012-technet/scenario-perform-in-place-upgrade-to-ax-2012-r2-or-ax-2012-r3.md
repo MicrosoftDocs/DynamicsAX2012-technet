@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Perform in-place upgrade to AX 2012 R2 or AX 2012 R3'
 TOCTitle: 'Scenario: Perform in-place upgrade to AX 2012 R2 or AX 2012 R3'
 ms:assetid: eb8193f4-0318-427f-bcc9-2919f47afb8f
@@ -1121,5 +1121,5 @@ Starting the new version of the AOS for the first time (in an AX 2012 RTM to R3 
 [Configure an AOS to access a different database](configure-an-aos-to-access-a-different-database.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

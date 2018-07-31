@@ -1,4 +1,4 @@
-﻿---
+---
 title: About price adjustments and discounts
 TOCTitle: About price adjustments and discounts
 ms:assetid: 7dbdf115-b5ed-447b-9ad9-43cf4865bb4b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597143(v=AX.60)
 ms:contentKeyID: 39519199
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About price adjustments and discounts 
@@ -58,5 +60,5 @@ When a customer views a product in the online store and adds the product to the 
 [Setting up affiliations](setting-up-affiliations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

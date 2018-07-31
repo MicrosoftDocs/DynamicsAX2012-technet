@@ -1,4 +1,4 @@
-﻿---
+---
 title: View daily registrations in manufacturing execution
 TOCTitle: View daily registrations in manufacturing execution
 ms:assetid: db20b683-12bd-4321-8162-7ddf38768999
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227406(v=AX.60)
 ms:contentKeyID: 36059665
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View daily registrations in manufacturing execution 
@@ -86,5 +88,5 @@ In the **Job registration** form, you can view lists or graphics that display th
 [Key tasks: Work with production jobs in Manufacturing execution](key-tasks-work-with-production-jobs-in-manufacturing-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

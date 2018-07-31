@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with co-products and by-products
 TOCTitle: Working with co-products and by-products
 ms:assetid: 4bcc20bb-d442-4299-a695-2bc408a5d299
@@ -16,6 +16,8 @@ f1_keywords:
 - coproduct
 - byproduct
 - co-product
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with co-products and by-products 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to work with co-product
 [Change a co-product or by-product line in a batch order](change-a-co-product-or-by-product-line-in-a-batch-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

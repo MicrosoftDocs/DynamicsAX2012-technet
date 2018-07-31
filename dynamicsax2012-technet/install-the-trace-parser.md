@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the Trace Parser
 TOCTitle: Install the Trace Parser
 ms:assetid: c80a7da2-2914-485b-a797-4c8e5b9b1179
@@ -68,5 +68,5 @@ Use this procedure to install the Trace Parser. If you install other Microsoft D
 15. After the installation is completed, click **Finish** to close the wizard.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

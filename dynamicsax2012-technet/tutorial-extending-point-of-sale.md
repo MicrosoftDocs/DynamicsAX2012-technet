@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Tutorial: Extending Point of Sale'
 TOCTitle: 'Tutorial: Extending Point of Sale'
 ms:assetid: 2af5a6f9-9f15-4f06-9e03-3c69b462211c
@@ -26,5 +26,5 @@ This section contains tutorials about how to customize or extend Microsoft Dynam
 [Apply a custom control to the POS register](apply-a-custom-control-to-the-pos-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

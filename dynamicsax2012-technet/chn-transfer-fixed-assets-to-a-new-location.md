@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Transfer fixed assets to a new location
 TOCTitle: (CHN) Transfer fixed assets to a new location
 ms:assetid: d8d75d98-19df-4884-8cec-3f86040dd076
@@ -17,6 +17,8 @@ f1_keywords:
 - Track locations
 - Transfers
 - MsDynAx060.Forms.AssetTransfer
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Transfer fixed assets to a new location 
@@ -123,5 +125,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

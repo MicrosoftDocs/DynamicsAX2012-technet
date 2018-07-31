@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow with multiple users in an approval step
 TOCTitle: Workflow with multiple users in an approval step
 ms:assetid: a1254679-38db-4325-90d9-838790d0978c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731883(v=AX.60)
 ms:contentKeyID: 35132791
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Workflow with multiple users in an approval step 
@@ -62,5 +64,5 @@ For example, assume that Sam has submitted an expense report for USD 15,000. The
   - If one person rejects the document, it is rejected and sent back to Sam.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

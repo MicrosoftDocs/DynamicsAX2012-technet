@@ -1,4 +1,4 @@
-﻿---
+---
 title: About retail stores
 TOCTitle: About retail stores
 ms:assetid: 0e9db194-7de8-44aa-aaad-82d6bb03bf50
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580567(v=AX.60)
 ms:contentKeyID: 39519045
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About retail stores 
@@ -90,7 +92,7 @@ The following table shows the tasks that you must complete before you can set up
 </tr>
 <tr class="even">
 <td><p>Set up staff members.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>You must also assign appropriate permissions to the workers, so that they can log on and perform tasks by using the Microsoft Dynamics AX for Retail POS system.</P>
@@ -139,7 +141,7 @@ After you complete the prerequisite tasks, complete these tasks to set up the de
 </tr>
 <tr class="even">
 <td><p>Add details to the product descriptions for products that you offer in your retail stores. For example, you can add rich text and images. The additional product details can be viewed in various contexts, such as on the point-of-sale register or on printed labels.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This step applies only if AX 2012 R3 is installed.</P>
@@ -181,7 +183,7 @@ For more information about how to configure Retail POS, see [Point of Sale](poin
 </tr>
 <tr class="even">
 <td><p>Assign product assortments to the store.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>You can assign the retail store to an existing assortment or create a new assortment for the retail store.</P>
@@ -197,7 +199,7 @@ For more information about how to configure Retail POS, see [Point of Sale](poin
 <tr class="even">
 <td><p>Send data such as number sequences, hardware profiles, POS screen layouts, and so on to the Retail POS registers.</p></td>
 <td><p>Deploy Retail POS</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If AX 2012 R3 is installed, see <A href="mass-deploy-retail-components-by-using-system-center-configuration-manager.md">Mass deploy Retail components</A>.</P>
@@ -211,7 +213,7 @@ For more information about how to configure Retail POS, see [Point of Sale](poin
 </tr>
 <tr class="even">
 <td><p>Publish the retail store to send store data to Retail POS.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This step applies only if AX 2012 R3 is installed.</P>
@@ -239,5 +241,5 @@ For more information about how to set up an organization hierarchy, see [Create 
 [About organizations and organizational hierarchies](about-organizations-and-organizational-hierarchies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

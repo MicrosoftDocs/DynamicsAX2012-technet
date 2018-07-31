@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project execution overview
 TOCTitle: Project execution overview
 ms:assetid: 10bb4c07-0218-4590-9417-40ba5cb46850
@@ -8,6 +8,8 @@ ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
 - project overview
+audience: Application User
+ms.search.region: Global
 ---
 
 # Project execution overview 
@@ -214,5 +216,5 @@ The following table lists the forms that support the project execution business 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

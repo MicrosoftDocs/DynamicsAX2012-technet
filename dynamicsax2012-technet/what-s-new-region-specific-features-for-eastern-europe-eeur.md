@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Region-specific features for Eastern Europe (EEUR)"
 TOCTitle: Region-specific features for Eastern Europe
 ms:assetid: a9c8746f-192f-4b74-b7d3-ac8f936a9e66
@@ -189,5 +189,5 @@ For more information about specific features for Eastern Europe, see [TechNet Li
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

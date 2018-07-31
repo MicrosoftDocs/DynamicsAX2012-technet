@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Retail features"
 TOCTitle: Retail features
 ms:assetid: 6e6b8efb-ba6d-4825-b938-502fc8fc7d0b
@@ -1063,5 +1063,5 @@ The Contoso starter online store accelerates implementation of an online channel
 [Retail essentials (Retail essentials)](retail-essentials-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

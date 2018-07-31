@@ -1,4 +1,4 @@
-﻿---
+---
 title: '(FRA) Key tasks: Commitments (Public sector)'
 TOCTitle: '(FRA) Key tasks: Commitments (Public sector)'
 ms:assetid: 65456427-ebe1-40df-9c2b-82c3c6244263
@@ -12,6 +12,8 @@ f1_keywords:
 - commitment
 - France
 - French
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Key tasks: Commitments (Public sector) 
@@ -212,5 +214,5 @@ Back to top
 [(FRA) Process purchase order encumbrances and commitments at year end (Public sector)](fra-process-purchase-order-encumbrances-and-commitments-at-year-end-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

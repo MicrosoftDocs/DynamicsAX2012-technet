@@ -1,4 +1,4 @@
-﻿---
+---
 title: " production flow model"
 TOCTitle: " production flow model"
 ms:assetid: DynamicsAXGlossary.1370625
@@ -23,5 +23,5 @@ A representation of the production capacity provided by a group of work cells in
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

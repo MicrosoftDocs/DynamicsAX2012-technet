@@ -1,4 +1,4 @@
-﻿---
+---
 title: About vendor invoicing for projects
 TOCTitle: About vendor invoicing for projects
 ms:assetid: d6b68f83-6bc3-4dad-add1-001b15a2f75a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - purchase order line
 - purchase order invoice
+audience: Application User
+ms.search.region: Global
 ---
 
 # About vendor invoicing for projects 
@@ -39,5 +41,5 @@ When you order an item from a vendor and assign the item to a project, the line 
 [Configuring line properties](configuring-line-properties.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

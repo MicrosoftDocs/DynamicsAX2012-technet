@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Number sequences for Indian financial documents
 TOCTitle: (IND) Number sequences for Indian financial documents
 ms:assetid: 134dd341-3bde-4ab1-b5a2-77a599ee7f26
@@ -12,6 +12,8 @@ f1_keywords:
 - India
 - Number sequences
 - financial documents
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Number sequences for Indian financial documents 
@@ -50,5 +52,5 @@ To set up number sequences for incentive schemes, open the **General ledger para
 [Set up number sequences](set-up-number-sequences.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

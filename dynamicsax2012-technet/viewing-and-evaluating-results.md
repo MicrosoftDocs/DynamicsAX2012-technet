@@ -1,4 +1,4 @@
-﻿---
+---
 title: Viewing and evaluating results
 TOCTitle: Viewing and evaluating results
 ms:assetid: ad95010d-e2c1-412f-8812-56ccbb59b557
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - results
 - result
+audience: Application User
+ms.search.region: Global
 ---
 
 # Viewing and evaluating results 
@@ -29,5 +31,5 @@ After respondents complete a questionnaire, you can view and evaluate the questi
 [Calculate statistics for a questionnaire](calculate-statistics-for-a-questionnaire.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

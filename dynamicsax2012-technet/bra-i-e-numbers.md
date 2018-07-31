@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) I.E. Numbers
 TOCTitle: (BRA) I.E. Numbers
 ms:assetid: c91972d1-3143-4eb9-8612-cb35a5d6ba0d
@@ -34,5 +34,5 @@ The **Party upgrade – Invalid I.E. number** form provides a list of all custom
 5.  When you have made all of the necessary updates, click **Set to ready for upgrade**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

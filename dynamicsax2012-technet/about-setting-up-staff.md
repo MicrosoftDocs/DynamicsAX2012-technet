@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up staff
 TOCTitle: About setting up staff
 ms:assetid: 5bc9dc51-4246-4a99-8dd4-815849b5a63f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597104(v=AX.60)
 ms:contentKeyID: 39519152
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up staff 
@@ -44,5 +46,5 @@ If you have set up Enterprise Portal for Microsoft Dynamics AX, you must set up 
 [Set up Enterprise Portal profiles and users](set-up-enterprise-portal-profiles-and-users.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

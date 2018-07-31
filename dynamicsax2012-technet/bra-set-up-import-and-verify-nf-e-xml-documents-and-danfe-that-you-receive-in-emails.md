@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up, import, and verify NF-e XML documents and DANFE that you receive in emails
 TOCTitle: (BRA) Set up, import, and verify NF-e XML documents and DANFE that you receive in emails
 ms:assetid: 1ddf4c84-168e-45b1-a2a7-407b784dfcf8
@@ -25,6 +25,8 @@ f1_keywords:
 - import NF-e XML
 - verify DANFE
 - verify XML
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up, import, and verify NF-e XML documents and DANFE that you receive in emails 
@@ -182,7 +184,7 @@ To import and verify the NF-e XML files and DANFE from emails, follow these step
     <tr class="even">
     <td><p><strong>Fiscal establishment</strong></p></td>
     <td><p>The fiscal establishment that the NF-e is issued for.</p>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>Only the NF-e XML documents that are issued to the CNPJ of the fiscal establishments of the legal entity are imported from the emails.</P>
@@ -205,7 +207,7 @@ To import and verify the NF-e XML files and DANFE from emails, follow these step
     <tr class="even">
     <td><p><strong>Name</strong></p></td>
     <td><p>The name of the account that issued the NF-e.</p>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>This field is left blank if an account that has the CNPJ of the NF-e issuer is not available in Microsoft Dynamics AX.</P>
@@ -401,5 +403,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

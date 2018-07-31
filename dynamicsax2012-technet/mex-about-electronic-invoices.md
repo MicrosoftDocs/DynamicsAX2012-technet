@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) About electronic invoices
 TOCTitle: (MEX) About electronic invoices
 ms:assetid: 1dc47136-a78a-47fe-8c0e-74c7adec81c8
@@ -13,6 +13,8 @@ f1_keywords:
 - CFD
 - CFDI
 - digital tax receipt
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) About electronic invoices 
@@ -99,5 +101,5 @@ An electronic invoice includes the following details:
 [(MEX) Set up parameters and authorization codes for an electronic invoice](mex-set-up-parameters-and-authorization-codes-for-an-electronic-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

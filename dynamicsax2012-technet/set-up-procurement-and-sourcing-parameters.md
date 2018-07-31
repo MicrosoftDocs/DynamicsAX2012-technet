@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up procurement and sourcing parameters
 TOCTitle: Set up procurement and sourcing parameters
 ms:assetid: 1a655389-e7bb-49ac-8c65-5f89474feb48
@@ -12,6 +12,8 @@ f1_keywords:
 - procurement
 - sourcing
 - purchasing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up procurement and sourcing parameters 
@@ -62,5 +64,5 @@ Most default values can be overridden at transaction time.
 [Procurement and sourcing parameters (form)](https://technet.microsoft.com/en-us/library/hh208706\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chief executive officer security role (CompanyChiefExecutiveOfficer)
 TOCTitle: Chief executive officer security role (CompanyChiefExecutiveOfficer)
 ms:assetid: b8785540-2e96-4446-a304-207354efb57e
@@ -120,7 +120,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into organizational process</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -157,7 +157,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into workers</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -234,7 +234,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into customer positive payments</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -246,7 +246,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>Maintain positive payments</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -258,7 +258,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into vendor positive payments</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -345,7 +345,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="even">
 <td><p>Inquire into time management process</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This duty is assigned to this role only in Microsoft Dynamics AX 2012 R3.</P>
@@ -449,5 +449,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

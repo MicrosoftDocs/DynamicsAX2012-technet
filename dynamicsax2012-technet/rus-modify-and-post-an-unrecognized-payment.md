@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Modify and post an unrecognized payment
 TOCTitle: (RUS) Modify and post an unrecognized payment
 ms:assetid: eba016a7-2550-4260-be1d-7fb2cbbe589e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711735(v=AX.60)
 ms:contentKeyID: 49388058
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Modify and post an unrecognized payment 
@@ -38,5 +40,5 @@ Use the **Imported bank statement** form to modify an unrecognized payment. Afte
 [(RUS) Imported bank statement (form)](https://technet.microsoft.com/en-us/library/jj733281\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

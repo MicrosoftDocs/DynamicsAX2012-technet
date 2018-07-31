@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up adjustment codes to use to adjust ICMS amounts
 TOCTitle: (BRA) Set up adjustment codes to use to adjust ICMS amounts
 ms:assetid: d274cace-0e98-41c3-bd93-732eacbc8747
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.FBGeneralAdjustmentCodeICMS_BR
 - MsDynAx060.Forms.FBGeneralAdjustmentCodeICMS_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up adjustment codes to use to adjust ICMS amounts 
@@ -73,5 +75,5 @@ In a Sistema Publico de Escrituração Digital (SPED) fiscal text file, record E
 13. To create another adjustment code, click **New**, and then repeat steps 2 through 12.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

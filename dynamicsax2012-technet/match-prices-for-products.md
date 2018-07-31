@@ -1,4 +1,4 @@
-﻿---
+---
 title: Match prices for products
 TOCTitle: Match prices for products
 ms:assetid: 13061fb3-96a8-4f62-94ec-7d6d4fc53ed4
@@ -11,6 +11,8 @@ f1_keywords:
 - price matching
 - Forms.MCRCreateCustCredit
 - match prices
+audience: Application User
+ms.search.region: Global
 ---
 
 # Match prices for products 
@@ -127,5 +129,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

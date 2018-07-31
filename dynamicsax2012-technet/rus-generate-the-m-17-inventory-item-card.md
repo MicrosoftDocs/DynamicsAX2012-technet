@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate the M-17 inventory item card
 TOCTitle: (RUS) Generate the M-17 inventory item card
 ms:assetid: 9331282c-8cef-4496-8295-b0246bd6f049
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678486(v=AX.60)
 ms:contentKeyID: 49387715
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate the M-17 inventory item card 
@@ -30,5 +32,5 @@ The M-17 inventory item card is used to track movements of goods in the warehous
 4.  Click **OK** to generate the report.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

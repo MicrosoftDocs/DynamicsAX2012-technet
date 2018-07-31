@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounting for stocked items on product receipts and vendor invoices (White paper)
 TOCTitle: Accounting for stocked items on product receipts and vendor invoices
 ms:assetid: 39b68cd4-d73a-4c5f-89d0-7d410d061ba8
@@ -18,5 +18,5 @@ This white paper describes the two types of accounting that take place when an a
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=390597)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

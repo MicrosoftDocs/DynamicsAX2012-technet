@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up the EXIM Duty Free Import Authorization (DFIA) incentive scheme
 TOCTitle: (IND) Setting up the EXIM Duty Free Import Authorization (DFIA) incentive scheme
 ms:assetid: 8050240b-50d1-4404-ab57-755bee2ceadc
@@ -13,6 +13,8 @@ f1_keywords:
 - DFIA
 - Duty Free Import Authorization
 - set up DFIA
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up the EXIM Duty Free Import Authorization (DFIA) incentive scheme 
@@ -31,5 +33,5 @@ The topics in this section provide information about setting up the Duty Free Im
 [(IND) Set up EXIM authorization schemes for DFIA](ind-set-up-exim-authorization-schemes-for-dfia.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

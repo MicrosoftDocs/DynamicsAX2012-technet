@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lead summary by source type detail report (smmLeadSummaryBySourceTypeDetail)
 TOCTitle: Lead summary by source type detail report (smmLeadSummaryBySourceTypeDetail)
 ms:assetid: 0dc3f654-f953-424b-b39c-9cca14845d45
@@ -84,5 +84,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

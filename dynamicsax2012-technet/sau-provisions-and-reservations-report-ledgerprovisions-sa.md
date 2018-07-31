@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Provisions and reservations report (LedgerProvisions_SA)
 TOCTitle: (SAU) Provisions and reservations report (LedgerProvisions_SA)
 ms:assetid: 2230af1a-1502-4194-8804-7b263710370d
@@ -128,5 +128,5 @@ If you are a developer, you can learn more about where the data on a report come
 [About fixed asset reserves](about-fixed-asset-reserves.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

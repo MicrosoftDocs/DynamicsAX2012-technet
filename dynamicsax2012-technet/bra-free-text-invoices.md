@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Free text invoices
 TOCTitle: (BRA) Free text invoices
 ms:assetid: c6ad3061-1f15-4afa-a968-e5c8e182eab8
@@ -11,6 +11,8 @@ f1_keywords:
 - Brazil
 - (BRA)
 - Free text invoices
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Free text invoices 
@@ -27,5 +29,5 @@ The following topics provide information about creating, posting, canceling, and
 [(BRA) Post an NF-e from a free text invoice](bra-post-an-nf-e-from-a-free-text-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up vendor's product numbers
 TOCTitle: Set up vendor's product numbers
 ms:assetid: cf9e5166-343c-46ea-b4f5-e6cba84cce16
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597248(v=AX.60)
 ms:contentKeyID: 39519326
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up vendor's product numbers 
@@ -34,5 +36,5 @@ The external product number can be set up for a specific vendor. This product nu
 [External product descriptions (form)](https://technet.microsoft.com/en-us/library/hh597108\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

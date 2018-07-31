@@ -1,4 +1,4 @@
-﻿---
+---
 title: Learn about configuration projects in RapidStart Services
 TOCTitle: Learn about configuration projects in RapidStart Services
 ms:assetid: 2b3bc542-74b9-4b39-8a94-b8340c3d8c31
@@ -170,5 +170,5 @@ This iterative approach provides the flexibility for an organization to configur
 [Load configuration data into a Microsoft Dynamics ERP implementation from Microsoft Dynamics ERP RapidStart Services](load-configuration-data-into-a-microsoft-dynamics-erp-implementation-from-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

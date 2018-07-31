@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create route versions
 TOCTitle: Create route versions
 ms:assetid: 0f2a3dc7-3286-404b-888c-9eb894cd1ca8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - create route version
 - route version
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create route versions 
@@ -57,5 +59,5 @@ For example, if a small quantity of an item must be produced, it may be more eco
 [Create and update production routes](create-and-update-production-routes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

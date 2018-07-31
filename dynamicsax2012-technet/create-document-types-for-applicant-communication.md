@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create document types for applicant communication
 TOCTitle: Create document types for applicant communication
 ms:assetid: 7ca2a07f-51e3-4ee4-8be4-51df628507df
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571517(v=AX.60)
 ms:contentKeyID: 39519198
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create document types for applicant communication 
@@ -56,5 +58,5 @@ After you create the document types to use to communicate with applicants, you m
 [Document management in sales and marketing](document-management-in-sales-and-marketing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

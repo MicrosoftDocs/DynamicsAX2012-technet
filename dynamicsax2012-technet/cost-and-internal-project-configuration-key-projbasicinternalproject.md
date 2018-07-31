@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cost and internal project configuration key (ProjBasicInternalProject)
 TOCTitle: Cost and internal project configuration key (ProjBasicInternalProject)
 ms:assetid: 478915f1-5677-4aa4-8b24-2dfa41edae46
@@ -60,5 +60,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

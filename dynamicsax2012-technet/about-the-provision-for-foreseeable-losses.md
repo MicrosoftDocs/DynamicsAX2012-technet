@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the provision for foreseeable losses
 TOCTitle: About the provision for foreseeable losses
 ms:assetid: 7ca3e189-57ac-4277-ba62-c52327e49001
@@ -13,6 +13,8 @@ f1_keywords:
 - contract cost
 - foreseeable loss
 - contract revenue
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the provision for foreseeable losses 
@@ -72,5 +74,5 @@ Estimate values that have been entered manually are not recalculated automatical
 [Attach a project to an estimate](attach-a-project-to-an-estimate.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

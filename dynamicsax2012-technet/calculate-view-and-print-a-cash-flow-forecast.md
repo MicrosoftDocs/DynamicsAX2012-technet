@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calculate, view, and print a cash flow forecast
 TOCTitle: Calculate, view, and print a cash flow forecast
 ms:assetid: c238d007-ee7f-48c6-a35d-aad314a95ffd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550706(v=AX.60)
 ms:contentKeyID: 36059278
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Calculate, view, and print a cash flow forecast 
@@ -92,5 +94,5 @@ You can print a report when you view the cash flow results that are shown in eac
 For more information, see [About traditional financial statements](about-traditional-financial-statements.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

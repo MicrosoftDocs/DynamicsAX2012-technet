@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate the inventory balance turnover report
 TOCTitle: (RUS) Generate the inventory balance turnover report
 ms:assetid: c627af2e-4f93-4b4b-8e28-4dea032af299
@@ -11,6 +11,8 @@ f1_keywords:
 - trial balance
 - generate trial balance
 - warehouse trial balance
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate the inventory balance turnover report 
@@ -87,5 +89,5 @@ You can run a periodic job to calculate on-hand inventory on the inventory closi
 [(RUS) Set up a dual warehouse layer](rus-set-up-a-dual-warehouse-layer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Payroll
 TOCTitle: (RUS) Payroll
 ms:assetid: de58627a-caaa-433f-a9b6-03226ccb7f2f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn435959(v=AX.60)
 ms:contentKeyID: 56730930
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Payroll 
@@ -26,5 +28,5 @@ Use Payroll to create and update staff administration information, timesheet det
 [(RUS) Payroll pay sheets and pay statements](rus-payroll-pay-sheets-and-pay-statements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

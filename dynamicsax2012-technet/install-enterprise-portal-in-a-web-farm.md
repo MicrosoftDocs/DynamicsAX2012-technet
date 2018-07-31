@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Enterprise Portal in a Web farm
 TOCTitle: Install Enterprise Portal in a Web farm
 ms:assetid: 7e3b53f7-ba5e-4492-ac69-70b796e2711d
@@ -316,5 +316,5 @@ After you deploy Enterprise Portal in the Web farm, you must enable users to acc
 [Troubleshoot installation issues with Enterprise Portal and Role Centers](troubleshoot-installation-issues-with-enterprise-portal-and-role-centers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

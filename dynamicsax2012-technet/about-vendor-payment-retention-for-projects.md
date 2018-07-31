@@ -1,4 +1,4 @@
-﻿---
+---
 title: About vendor payment retention for projects
 TOCTitle: About vendor payment retention for projects
 ms:assetid: 75a23667-5997-4c42-90d9-315ec29e6943
@@ -11,6 +11,8 @@ f1_keywords:
 - retention percentage
 - vendor retention terms
 - vendor retention
+audience: Application User
+ms.search.region: Global
 ---
 
 # About vendor payment retention for projects 
@@ -118,5 +120,5 @@ The total amount that is paid to the vendor after the three phases are completed
 [Inquiry for vendor retained payments (form)](https://technet.microsoft.com/en-us/library/hh209466\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

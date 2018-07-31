@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Convert vendor prepayment to vendor payment
 TOCTitle: (CZE) Convert vendor prepayment to vendor payment
 ms:assetid: 468e2061-9c5d-46b2-99fa-15f307d57962
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677516(v=AX.60)
 ms:contentKeyID: 49384820
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Convert vendor prepayment to vendor payment 
@@ -44,5 +46,5 @@ You can use the **Convert to prepayment** form to change the VAT posting in post
 [(CZE) Link vendor prepayments](cze-link-vendor-prepayments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

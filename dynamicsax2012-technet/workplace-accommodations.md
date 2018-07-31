@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workplace accommodations
 TOCTitle: Workplace accommodations
 ms:assetid: 7bb28bca-b6b3-4b3f-88c6-0ac1bf870dbb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209266(v=AX.60)
 ms:contentKeyID: 36058258
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Workplace accommodations 
@@ -26,5 +28,5 @@ Topics in this section provide information about requesting and granting workpla
 [(USA) Grant or deny an accommodation request](usa-grant-or-deny-an-accommodation-request.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

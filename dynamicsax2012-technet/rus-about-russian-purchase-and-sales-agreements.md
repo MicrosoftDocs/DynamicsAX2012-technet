@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) About Russian purchase and sales agreements
 TOCTitle: (RUS) About Russian purchase and sales agreements
 ms:assetid: f7ef5022-76df-47e9-b257-d0b7bb6c4738
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - About Russian Sales and Purchase agreements
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) About Russian purchase and sales agreements 
@@ -43,5 +45,5 @@ Purchase agreements and sales agreements are modeled as agreement documents that
 [(RUS) Financial dimension values (modified form)](https://technet.microsoft.com/en-us/library/jj853203\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

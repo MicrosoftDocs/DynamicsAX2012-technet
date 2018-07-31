@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Settle a vendor payment with an invoice'
 TOCTitle: 'Scenario: Settle a vendor payment with an invoice'
 ms:assetid: 8f050a69-6483-4b6e-be7e-034f328ccfcf
@@ -12,6 +12,8 @@ f1_keywords:
 - vendors
 - invoice
 - vendor payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Scenario: Settle a vendor payment with an invoice 
@@ -144,5 +146,5 @@ The balance for vendor 3064 is now 100.00. Invoice Inv\_10100 is fully settled. 
 [Scenario: Take a discount that is more than the calculated discount for a vendor payment](scenario-take-a-discount-that-is-more-than-the-calculated-discount-for-a-vendor-payment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

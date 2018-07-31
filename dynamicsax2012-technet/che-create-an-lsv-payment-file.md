@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHE) Create an LSV+ payment file
 TOCTitle: (CHE) Create an LSV+ payment file
 ms:assetid: f1be7bdc-6124-4964-b0e4-35c8c220db9f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243278(v=AX.60)
 ms:contentKeyID: 36059956
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Switzerland
 ---
 
 # (CHE) Create an LSV+ payment file 
@@ -60,5 +62,5 @@ The Swiss electronic payment system allows companies to deduct customer payments
 [(CHE) Set up an LSV+ method of payment for a customer](che-set-up-an-lsv-method-of-payment-for-a-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

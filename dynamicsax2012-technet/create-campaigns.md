@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create campaigns
 TOCTitle: Create campaigns
 ms:assetid: 7635e393-4e36-4f08-9927-6aeb515e2cec
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - campaigns
 - campaign
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create campaigns 
@@ -85,5 +87,5 @@ You can specify options for marketing campaigns by making selections in the **Ca
 [Set up catalog source codes](set-up-catalog-source-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Updating the Uses of the Ledger Posting Framework (White paper)
 TOCTitle: Updating the Uses of the Ledger Posting Framework
 ms:assetid: ae555a3e-82fd-4a14-a39d-657d657c26e4
@@ -18,5 +18,5 @@ The ledger posting framework is the API that is used to post to the general ledg
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213136).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

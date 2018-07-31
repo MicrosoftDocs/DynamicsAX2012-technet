@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining product configurations
 TOCTitle: Setting up and maintaining product configurations
 ms:assetid: 962e8e37-e0cf-46e5-a717-6b9fbd56438a
@@ -11,6 +11,8 @@ f1_keywords:
 - products
 - product
 - model
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining product configurations 
@@ -41,5 +43,5 @@ The topics in this section provide information about setting up and maintaining 
 [Working with product configuration model components](working-with-product-configuration-model-components.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

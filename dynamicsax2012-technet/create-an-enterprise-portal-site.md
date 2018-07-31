@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an Enterprise Portal site
 TOCTitle: Create an Enterprise Portal site
 ms:assetid: da9149f8-9bb8-4d95-b392-4c6954a60b5f
@@ -157,5 +157,5 @@ After you create a portal you must configure security, user access, and portal-w
 [Install multiple Enterprise Portals on the same server](install-multiple-enterprise-portals-on-the-same-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

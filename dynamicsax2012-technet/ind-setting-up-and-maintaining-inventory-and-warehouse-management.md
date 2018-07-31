@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up and maintaining Inventory and warehouse management
 TOCTitle: (IND) Setting up and maintaining Inventory and warehouse management
 ms:assetid: 284992eb-202e-4f1f-b186-d433d44703f6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664574(v=AX.60)
 ms:contentKeyID: 49385652
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up and maintaining Inventory and warehouse management 
@@ -24,5 +26,5 @@ The topics in this section provide information about setting up and maintaining 
 [(IND) Setting up SION in Inventory management](ind-setting-up-sion-in-inventory-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

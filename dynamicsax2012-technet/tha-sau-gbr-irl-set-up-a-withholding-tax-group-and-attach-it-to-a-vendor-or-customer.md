@@ -1,4 +1,4 @@
-﻿---
+---
 title: (THA, SAU, GBR, IRL) Set up a withholding tax group and attach it to a vendor or customer
 TOCTitle: (THA, SAU, GBR, IRL) Set up a withholding tax group and attach it to a vendor or customer
 ms:assetid: d3d81746-583d-4e35-b564-8afe5bc23332
@@ -10,6 +10,8 @@ f1_keywords:
 - Thailand
 - vendors
 - withholding tax group
+audience: Application User
+ms.search.region: Ireland, Saudi Arabia,Thailand, United Kingdom
 ---
 
 # (THA, SAU, GBR, IRL) Set up a withholding tax group and attach it to a vendor or customer 
@@ -64,5 +66,5 @@ Use the **Withholding tax groups** form to create a withholding tax group. After
 [Withholding tax codes (form)](https://technet.microsoft.com/en-us/library/aa585361\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

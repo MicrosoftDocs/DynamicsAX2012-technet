@@ -1,4 +1,4 @@
-﻿---
+---
 title: About reservation cancellations
 TOCTitle: About reservation cancellations
 ms:assetid: f0cf5c28-c1a8-4739-9255-a7425e1aa314
@@ -11,6 +11,8 @@ f1_keywords:
 - reservation
 - cancel item reservation
 - product reservation
+audience: Application User
+ms.search.region: Global
 ---
 
 # About reservation cancellations 
@@ -33,5 +35,5 @@ The procedures are the same as the procedures for changing reservations.
 [Change reservation on several orders (batch reservation)](change-reservation-on-several-orders-batch-reservation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

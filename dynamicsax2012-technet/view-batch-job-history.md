@@ -1,4 +1,4 @@
-﻿---
+---
 title: View batch job history
 TOCTitle: View batch job history
 ms:assetid: abfb29bf-a996-4dfd-9c38-354dd5f631c8
@@ -28,5 +28,5 @@ This topic describes how to view the history of a batch job, including any messa
 3.  To view log information for individual tasks, select a batch job, and then click **View tasks**. In the **Batch history list** form, select a task, and then click **Log**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

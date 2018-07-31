@@ -1,4 +1,4 @@
-﻿---
+---
 title: Revoke a reversed transaction
 TOCTitle: Revoke a reversed transaction
 ms:assetid: 8bb3c3c4-cae0-498d-9693-e1601ed24434
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498253(v=AX.60)
 ms:contentKeyID: 36058473
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Revoke a reversed transaction 
@@ -59,5 +61,5 @@ You might have to revoke a transaction that has been reversed. For example, you 
 [About financial reason codes](about-financial-reason-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

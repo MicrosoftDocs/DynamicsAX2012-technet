@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Generate the balance sheet report
 TOCTitle: (CZE) Generate the balance sheet report
 ms:assetid: a7d9ae32-a64c-4bb6-833e-b4b4ccf17dea
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677644(v=AX.60)
 ms:contentKeyID: 49384946
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Generate the balance sheet report 
@@ -34,5 +36,5 @@ Use the **Balance sheet** report to generate and print a balance sheet report fo
 [(CZE) Balance sheet report (LedgerBalanceSheet)](cze-balance-sheet-report-ledgerbalancesheet.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

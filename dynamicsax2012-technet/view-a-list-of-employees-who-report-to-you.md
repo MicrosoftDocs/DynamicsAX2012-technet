@@ -1,4 +1,4 @@
-﻿---
+---
 title: View a list of employees who report to you
 TOCTitle: View a list of employees who report to you
 ms:assetid: fd973593-4aaf-41ee-b8f6-b004366817f9
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - HcmMyEmployeesListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # View a list of employees who report to you 
@@ -44,5 +46,5 @@ You also can use this page to view or update the following information for an em
 [Managing your team](managing-your-team.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer balance list report (CustProvisionalBalance)
 TOCTitle: Customer balance list report (CustProvisionalBalance)
 ms:assetid: 07bbbd60-efc0-45cd-a739-0e9b659a70c8
@@ -38,7 +38,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Billing classification</strong></p></td>
 <td><p>Select one or more billing classifications to include on the report.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
@@ -50,7 +50,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Include transactions without a billing classification</strong></p></td>
 <td><p>If this check box is selected, all transactions that do not have a billing classification assigned to them will be displayed on the report.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
@@ -166,5 +166,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

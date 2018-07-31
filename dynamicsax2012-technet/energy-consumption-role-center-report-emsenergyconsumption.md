@@ -1,4 +1,4 @@
-﻿---
+---
 title: Energy consumption Role Center report (EMSEnergyConsumption)
 TOCTitle: Energy consumption Role Center report (EMSEnergyConsumption)
 ms:assetid: 95052289-23e3-4cc6-a6be-df5d35f60e3c
@@ -76,5 +76,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

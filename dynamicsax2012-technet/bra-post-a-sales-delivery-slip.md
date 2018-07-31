@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Post a sales delivery slip
 TOCTitle: (BRA) Post a sales delivery slip
 ms:assetid: b717f74d-6cf3-4da3-8ef5-9cfd82eeec5a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863735(v=AX.60)
 ms:contentKeyID: 50396418
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Post a sales delivery slip 
@@ -100,5 +102,5 @@ You can post a delivery slip for a sales order that has multiple sales order lin
 [(BRA) Fiscal reference (form)](https://technet.microsoft.com/en-us/library/jj710558\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

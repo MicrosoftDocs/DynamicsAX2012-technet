@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a quantity and margin template
 TOCTitle: Create a quantity and margin template
 ms:assetid: 2019258b-5f9b-45be-979e-00d75de80c80
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208469(v=AX.60)
 ms:contentKeyID: 36056158
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a quantity and margin template 
@@ -52,5 +54,5 @@ Use this procedure to set up quantity and margin template criterion, such as pri
 [Quantity and margin template (form)](https://technet.microsoft.com/en-us/library/hh227366\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

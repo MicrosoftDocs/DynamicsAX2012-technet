@@ -1,4 +1,4 @@
-﻿---
+---
 title: About reference types for questionnaire
 TOCTitle: About reference types for questionnaire
 ms:assetid: 8efa6d5f-388b-481c-9e29-3ad4706e2a3a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498360(v=AX.60)
 ms:contentKeyID: 39519229
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About reference types for questionnaire 
@@ -32,5 +34,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [About question types](about-question-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

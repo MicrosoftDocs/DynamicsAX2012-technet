@@ -1,4 +1,4 @@
-﻿---
+---
 title: (AUT, BEL, DEU, ESP, FIN, FRA, ITA, NLD) Create a country/region-specific SEPA credit transfer payment file
 TOCTitle: (AUT, BEL, DEU, ESP, FIN, FRA, ITA, NLD) Create a country/region-specific SEPA credit transfer payment file
 ms:assetid: e7658fb6-9a69-47b1-95d8-d1fb01cc5b1c
@@ -19,6 +19,8 @@ f1_keywords:
 - FI - 00001
 - ES - 00024
 - IT - 00034
+audience: Application User
+ms.search.region: Austria, Belgium, Germany, Spain, Finland, Italy, Netherlands
 ---
 
 # (AUT, BEL, DEU, ESP, FIN, FRA, ITA, NLD) Create a country/region-specific SEPA credit transfer payment file 
@@ -148,5 +150,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Payment processing data (form)](https://technet.microsoft.com/en-us/library/hh242773\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

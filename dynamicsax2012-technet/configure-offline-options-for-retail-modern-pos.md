@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure offline options for Retail Modern POS
 TOCTitle: Configure offline options for Retail Modern POS
 ms:assetid: ef15dc30-e1e3-4d70-8efb-53822768e66a
@@ -90,5 +90,5 @@ Offline profiles define which data is synchronized from the channel database to 
 [Create a channel database or an offline database (AX 2012 R3)](create-a-channel-database-or-an-offline-database-ax-2012-r3.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

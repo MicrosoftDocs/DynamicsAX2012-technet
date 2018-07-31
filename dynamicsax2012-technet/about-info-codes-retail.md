@@ -1,4 +1,4 @@
-﻿---
+---
 title: About info codes (Retail)
 TOCTitle: About info codes (Retail)
 ms:assetid: b4a9ce05-7a6c-4b5d-aa0a-bbccad371db7
@@ -11,6 +11,8 @@ f1_keywords:
 - retail
 - subcodes
 - reason code
+audience: Application User
+ms.search.region: Global
 ---
 
 # About info codes (Retail) 
@@ -67,5 +69,5 @@ When you sell certain products, for example mobile devices, you always want to c
 [Set up info code groups](set-up-info-code-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

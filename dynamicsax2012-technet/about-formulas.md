@@ -1,4 +1,4 @@
-﻿---
+---
 title: About formulas
 TOCTitle: About formulas
 ms:assetid: 142186e7-2e23-4630-9853-7a404f24e257
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352182(v=AX.60)
 ms:contentKeyID: 36687815
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About formulas 
@@ -60,5 +62,5 @@ Step consumption eliminates the requirement to enter a quantity on the **Formula
 [Production control parameters (form)](https://technet.microsoft.com/en-us/library/aa498700\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

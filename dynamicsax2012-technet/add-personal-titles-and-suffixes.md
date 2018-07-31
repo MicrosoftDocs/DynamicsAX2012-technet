@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add personal titles and suffixes
 TOCTitle: Add personal titles and suffixes
 ms:assetid: ae15e145-3a24-4620-ade3-ea2bde7f4f93
@@ -24,5 +24,5 @@ You can add personal titles and suffixes by using the **Name title and suffix** 
 To delete a personal title or suffix, select the record and then click **Delete**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

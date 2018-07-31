@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up and use PKWiU codes
 TOCTitle: (POL) Set up and use PKWiU codes
 ms:assetid: 6ba96fc7-95db-4216-a7df-12f7d3c5a418
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678231(v=AX.60)
 ms:contentKeyID: 49386953
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up and use PKWiU codes 
@@ -48,5 +50,5 @@ Category hierarchies are used to classify products or transactions for reporting
 [Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

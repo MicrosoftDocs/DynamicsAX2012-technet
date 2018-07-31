@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up time registration profiles
 TOCTitle: Setting up time registration profiles
 ms:assetid: cf8211a8-b200-47ae-bbd1-9411f94cc9c8
@@ -12,6 +12,8 @@ f1_keywords:
 - absence
 - register
 - attend
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up time registration profiles 
@@ -32,5 +34,5 @@ The following topics provide information about the work time profiles and how to
 [Examples: Profiles for time and attendance registrations](examples-profiles-for-time-and-attendance-registrations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

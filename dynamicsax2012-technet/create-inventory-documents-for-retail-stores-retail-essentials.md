@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create inventory documents for retail stores (Retail essentials)
 TOCTitle: Create inventory documents for retail stores (Retail essentials)
 ms:assetid: fa864c46-18e2-40e7-8e33-c879c8ab1dc4
@@ -62,5 +62,5 @@ Unscheduled stock counts can be created at a store. For more information, see Re
 [Working with purchase orders (Retail essentials)](working-with-purchase-orders-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

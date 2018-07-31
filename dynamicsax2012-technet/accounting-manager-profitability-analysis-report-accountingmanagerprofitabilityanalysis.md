@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accounting manager profitability analysis report (AccountingManagerProfitabilityAnalysis)
 TOCTitle: Accounting manager profitability analysis report (AccountingManagerProfitabilityAnalysis)
 ms:assetid: 5b5ae88d-b34a-403c-a1bc-f2cfe97477a6
@@ -78,5 +78,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

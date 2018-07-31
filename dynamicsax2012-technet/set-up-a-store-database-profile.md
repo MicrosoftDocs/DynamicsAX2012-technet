@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a store database profile
 TOCTitle: Set up a store database profile
 ms:assetid: 1f059b04-1ef8-4d5f-83ae-fb458fee7938
@@ -42,5 +42,5 @@ A database profile provides the information that enables Microsoft Dynamics AX t
 4.  Click **Test connection** to test the connection string for the selected database profile. For information about how to resolve connection errors, see [Troubleshoot a connection](troubleshoot-a-connection.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

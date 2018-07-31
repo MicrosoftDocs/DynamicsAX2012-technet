@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up threshold discounts (Retail essentials)
 TOCTitle: Set up threshold discounts (Retail essentials)
 ms:assetid: 42deb655-9070-43ad-a259-38e8890f61f9
@@ -74,5 +74,5 @@ This topic explains how to create a threshold discount, which is also referred t
 [Loyalty programs (Retail essentials)](loyalty-programs-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

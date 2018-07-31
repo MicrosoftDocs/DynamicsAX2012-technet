@@ -1,4 +1,4 @@
-﻿---
+---
 title: Encumber a general budget reservation (Public sector)
 TOCTitle: Encumber a general budget reservation (Public sector)
 ms:assetid: c3a1ba47-f3b1-4335-9445-ff492e2aca52
@@ -15,6 +15,8 @@ f1_keywords:
 - budget reservations
 - general budget reservation
 - general budget reservations
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Encumber a general budget reservation (Public sector) 
@@ -71,5 +73,5 @@ To enable encumbrance and pre-encumbrance processing, follow these steps.
 [Use project accounting with general budget reservations (Public sector)](use-project-accounting-with-general-budget-reservations-public-sector.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

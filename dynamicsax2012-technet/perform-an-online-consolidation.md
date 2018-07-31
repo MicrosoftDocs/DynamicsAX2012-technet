@@ -1,4 +1,4 @@
-﻿---
+---
 title: Perform an online consolidation
 TOCTitle: Perform an online consolidation
 ms:assetid: a0deda69-d53e-4eb7-9b0b-01ae925c2621
@@ -10,6 +10,8 @@ f1_keywords:
 - online
 - consolidation
 - online consolidation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Perform an online consolidation 
@@ -54,5 +56,5 @@ Follow these steps to do an online consolidation:
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

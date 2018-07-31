@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create application email templates
 TOCTitle: Create application email templates
 ms:assetid: 2a0e57a4-9c43-4b24-b00a-36e51eef2530
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ943749(v=AX.60)
 ms:contentKeyID: 51020481
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create application email templates 
@@ -53,5 +55,5 @@ After you set up your application email templates, you can use the templates whe
 [Application bookmarks (form)](https://technet.microsoft.com/en-us/library/aa573363\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

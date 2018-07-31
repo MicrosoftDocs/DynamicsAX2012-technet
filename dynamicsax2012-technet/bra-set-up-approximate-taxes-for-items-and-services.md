@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up approximate taxes for items and services
 TOCTitle: (BRA) Set up approximate taxes for items and services
 ms:assetid: 745d493e-74cd-4b1b-bc81-8d85f1cedd49
@@ -21,6 +21,8 @@ f1_keywords:
 - BR - 00047
 - imported item
 - national items
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up approximate taxes for items and services 
@@ -174,5 +176,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

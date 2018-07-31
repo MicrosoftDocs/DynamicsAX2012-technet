@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete absence journals
 TOCTitle: Delete absence journals
 ms:assetid: 06c5806e-be7a-4a49-81a4-339387a05bce
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569719(v=AX.60)
 ms:contentKeyID: 50619630
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete absence journals 
@@ -40,5 +42,5 @@ You can delete an absence journal only if you have not yet transferred the absen
 [Key task: Set up absence information](key-task-set-up-absence-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

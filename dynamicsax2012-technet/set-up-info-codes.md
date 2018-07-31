@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up info codes
 TOCTitle: Set up info codes
 ms:assetid: 8635d420-09dd-47ae-b746-0d29a3bddfba
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597158(v=AX.60)
 ms:contentKeyID: 39519215
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up info codes 
@@ -68,5 +70,5 @@ To set up info codes, follow these steps:
 [Set up info code groups](set-up-info-code-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

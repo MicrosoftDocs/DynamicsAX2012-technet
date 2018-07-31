@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Germany (DEU)"
 TOCTitle: Country-specific features for Germany
 ms:assetid: d8ec2205-08ed-4975-b307-021b603d65ab
@@ -151,5 +151,5 @@ If you create depreciation adjustments with basis adjustments marked on the Fixe
   - For additional acquisitions posted in the year later than year of initial acquisition, the depreciation amounts are adjusted starting from the first date of the year.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

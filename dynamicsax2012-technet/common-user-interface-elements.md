@@ -1,4 +1,4 @@
-﻿---
+---
 title: Common user interface elements
 TOCTitle: Common user interface elements
 ms:assetid: dee99d9e-eb8f-4aaa-9b8c-52a0cbbd897b
@@ -11,6 +11,8 @@ f1_keywords:
 - user interface
 - common UI
 - common UI elements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Common user interface elements 
@@ -91,5 +93,5 @@ The View menu is button that is next to the Windows menu and that is on the tool
 The Windows menu is button that is under the **Refresh** button. Use this menu to see a list of forms that are currently open, but hidden from view, to open a new workspace, to close all open forms, or to display your Role Center.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customize the functionality of an online store
 TOCTitle: Customize the functionality of an online store
 ms:assetid: 661cba1c-017d-474e-aa70-6281428bb21c
@@ -207,5 +207,5 @@ The following table lists methods for the Microsoft.Dynamics.Retail.SharePoint.W
 [How to use F12 Developer Tools to Debug your Webpages](http://go.microsoft.com/fwlink/?linkid=294914&clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

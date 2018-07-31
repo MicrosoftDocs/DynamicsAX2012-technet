@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create purchase requisitions
 TOCTitle: Create purchase requisitions
 ms:assetid: 072686bc-9f25-416c-8e16-9aa893961b3f
@@ -11,6 +11,8 @@ f1_keywords:
 - purchase requisitions
 - requisitions
 - requisition
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create purchase requisitions 
@@ -33,5 +35,5 @@ The following topics provide information about working with purchase requisition
 [Copy purchase requisitions](copy-purchase-requisitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

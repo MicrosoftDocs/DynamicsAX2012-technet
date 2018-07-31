@@ -1,4 +1,4 @@
-﻿---
+---
 title: Personnel actions
 TOCTitle: Personnel actions
 ms:assetid: 98a3ea89-d4b0-4e5e-874a-a734081dfa7d
@@ -19,6 +19,8 @@ f1_keywords:
 - MsDynAx060.Forms.HcmWorkerActionDetail
 - MsDynAx060.Forms.HcmWorkerActionList
 - personnel action
+audience: Application User
+ms.search.region: Global
 ---
 
 # Personnel actions 
@@ -193,5 +195,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

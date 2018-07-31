@@ -1,4 +1,4 @@
-﻿---
+---
 title: Human resource I configuration key (HRMAdministration)
 TOCTitle: Human resource I configuration key (HRMAdministration)
 ms:assetid: 18b8e533-3d2c-45fb-b7f5-879bcc7c0e70
@@ -421,5 +421,5 @@ For more information about how license codes and configuration keys work togethe
 [Configure application functionality](configure-application-functionality.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

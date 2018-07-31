@@ -1,4 +1,4 @@
-﻿---
+---
 title: About registrations in electronic timecards
 TOCTitle: About registrations in electronic timecards
 ms:assetid: e68fa9bc-af5c-4e2b-8c51-6dc13b163e21
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573185(v=AX.60)
 ms:contentKeyID: 36059805
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About registrations in electronic timecards 
@@ -60,5 +62,5 @@ The following information is required to register time consumption on the electr
 [About time registration workers](about-time-registration-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

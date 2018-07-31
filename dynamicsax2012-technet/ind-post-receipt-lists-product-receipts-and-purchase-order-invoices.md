@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post receipt lists, product receipts and purchase order invoices
 TOCTitle: (IND) Post receipt lists, product receipts and purchase order invoices
 ms:assetid: 429d403c-4473-49f9-9f68-207d471f75bb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664649(v=AX.60)
 ms:contentKeyID: 49385726
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post receipt lists, product receipts and purchase order invoices 
@@ -44,5 +46,5 @@ You can post a receipt list, packing slip, or invoice only after the bill of ent
 [(IND) Purchase posting (modified form)](https://technet.microsoft.com/en-us/library/jj664475\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

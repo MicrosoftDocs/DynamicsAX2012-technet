@@ -1,4 +1,4 @@
-﻿---
+---
 title: Back up and recover databases (SQL Server)
 TOCTitle: Back up and recover databases (SQL Server)
 ms:assetid: f63959d7-376c-4e69-afe9-0ed03ba13a1f
@@ -46,5 +46,5 @@ Follow these steps to use SQL Server tools to restore a content database.
 [Protecting Microsoft Dynamics AX environments with System Center 2012 Data Protection Manager (DPM)](protecting-microsoft-dynamics-ax-environments-with-system-center-2012-data-protection-manager-dpm.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring Accounts payable journals
 TOCTitle: Configuring Accounts payable journals
 ms:assetid: 4fb4f7c4-619b-42ca-81ef-75006981a57a
@@ -12,6 +12,8 @@ f1_keywords:
 - payable
 - journal
 - journals
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring Accounts payable journals 
@@ -28,5 +30,5 @@ The following topics provide information about configuring Accounts payable jour
 [Set up Accounts payable workflows](set-up-accounts-payable-workflows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update project quotations
 TOCTitle: Update project quotations
 ms:assetid: 7d4f3880-05eb-4ad5-bc75-0e72cbff1513
@@ -11,6 +11,8 @@ f1_keywords:
 - update quotation
 - confirm quotation
 - send quotation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update project quotations 
@@ -125,5 +127,5 @@ You can also use update multiple quotations at the same time by using a periodic
 [Cancel quotation (class form)](https://technet.microsoft.com/en-us/library/aa634363\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

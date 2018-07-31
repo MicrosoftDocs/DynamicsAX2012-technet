@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post rounded amounts during inventory closing
 TOCTitle: (RUS) Post rounded amounts during inventory closing
 ms:assetid: 95165e0f-ab6b-42c5-95c4-b4a7c2a94b58
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678503(v=AX.60)
 ms:contentKeyID: 49387731
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post rounded amounts during inventory closing 
@@ -76,5 +78,5 @@ If, in the above example, there was an inventory rounding profit, then the trans
 At the completion of the process, the rounded value amounts can be allocated to financial results, costs, or inventory cost price.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Migrating project data from other ERP systems
 TOCTitle: Migrating project data from other ERP systems
 ms:assetid: df014439-94cb-41bf-a442-c98663ef614b
@@ -11,6 +11,8 @@ f1_keywords:
 - migration
 - beginning balance
 - project data
+audience: Application User
+ms.search.region: Global
 ---
 
 # Migrating project data from other ERP systems 
@@ -23,5 +25,5 @@ The following topics provide information about migrating project data from anoth
 [About migrating project data from other ERP systems](about-migrating-project-data-from-other-erp-systems.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

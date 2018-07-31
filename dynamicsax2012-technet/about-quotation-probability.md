@@ -1,4 +1,4 @@
-﻿---
+---
 title: About quotation probability
 TOCTitle: About quotation probability
 ms:assetid: 42931392-39c5-4a3f-81d3-912dee68fc8b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496961(v=AX.60)
 ms:contentKeyID: 36056873
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About quotation probability 
@@ -31,5 +33,5 @@ You can also include quotations with item demands in the master scheduling. By s
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

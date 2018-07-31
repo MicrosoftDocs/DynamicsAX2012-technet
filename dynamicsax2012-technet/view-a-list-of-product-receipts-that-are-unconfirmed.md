@@ -1,4 +1,4 @@
-﻿---
+---
 title: View a list of product receipts that are unconfirmed
 TOCTitle: View a list of product receipts that are unconfirmed
 ms:assetid: b8770f3b-6937-4355-a74d-68123cc6bc4b
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPPurchCORList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View a list of product receipts that are unconfirmed 
@@ -48,5 +50,5 @@ Use the buttons found on the **Action Pane** on the **Unconfirmed product receip
 [Change delivery date for the receipt of products](change-delivery-date-for-the-receipt-of-products.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

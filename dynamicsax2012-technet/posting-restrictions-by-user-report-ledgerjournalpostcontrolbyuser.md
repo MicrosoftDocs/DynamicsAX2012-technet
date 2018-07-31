@@ -1,4 +1,4 @@
-﻿---
+---
 title: Posting restrictions by user report (LedgerJournalPostControlByUser)
 TOCTitle: Posting restrictions by user report (LedgerJournalPostControlByUser)
 ms:assetid: ef6747a9-13ec-47dc-b435-79a51c760cf2
@@ -123,5 +123,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Posting restrictions by journal type report (LedgerJournalPostControlByJournalType)](posting-restrictions-by-journal-type-report-ledgerjournalpostcontrolbyjournaltype.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

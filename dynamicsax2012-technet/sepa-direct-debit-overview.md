@@ -1,4 +1,4 @@
-﻿---
+---
 title: SEPA direct debit overview
 TOCTitle: SEPA direct debit overview
 ms:assetid: 0815eaa6-1e9b-4fd8-9921-819431357e3a
@@ -13,6 +13,8 @@ f1_keywords:
 - SEPA
 - COR1
 - PAIN
+audience: Application User
+ms.search.region: Global
 ---
 
 # SEPA direct debit overview 
@@ -121,5 +123,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [Create payments for customers who have direct debit mandates](create-payments-for-customers-who-have-direct-debit-mandates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

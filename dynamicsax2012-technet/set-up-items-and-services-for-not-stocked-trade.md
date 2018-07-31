@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up items and services for not stocked trade
 TOCTitle: Set up items and services for not stocked trade
 ms:assetid: 64549ce7-0333-4090-a1e6-fa17755e0fbe
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh803002(v=AX.60)
 ms:contentKeyID: 44080986
 ms.date: 04/24/2017
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up items and services for not stocked trade 
@@ -45,5 +47,5 @@ If you do not want to track a product in inventory, but the product must still b
 [Create an Item product model group](create-an-item-product-model-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

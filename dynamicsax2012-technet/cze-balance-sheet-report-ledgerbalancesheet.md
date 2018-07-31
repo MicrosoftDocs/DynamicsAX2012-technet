@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Balance sheet report (LedgerBalanceSheet)
 TOCTitle: (CZE) Balance sheet report (LedgerBalanceSheet)
 ms:assetid: d4458adc-23e4-4ac4-8f36-7da6c044a50e
@@ -10,6 +10,8 @@ f1_keywords:
 - balance sheet
 - balance sheet report
 - SSRS_Reports.Reports.LedgerBalanceSheet
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Balance sheet report (LedgerBalanceSheet) 
@@ -139,5 +141,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(CZE) Generate the balance sheet report](cze-generate-the-balance-sheet-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

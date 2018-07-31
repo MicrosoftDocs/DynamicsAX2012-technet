@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain intercompany sales orders
 TOCTitle: Maintain intercompany sales orders
 ms:assetid: a466102f-fe5b-4e02-b61b-3bfcf1a850ec
@@ -10,6 +10,8 @@ f1_keywords:
 - sales orders
 - sales order
 - intercompany
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain intercompany sales orders 
@@ -48,5 +50,5 @@ The topics in this section provide information about how to maintain intercompan
 [Synchronization](synchronization-of-intercompany-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

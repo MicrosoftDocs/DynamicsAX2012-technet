@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Management Statistics'
 TOCTitle: Management Statistics
 ms:assetid: 4a23780c-bfea-4808-accf-0b14ab4cc810
@@ -54,5 +54,5 @@ The Management statistics feature displays sales management information in graph
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Fixed assets parameters
 TOCTitle: Set up Fixed assets parameters
 ms:assetid: ce5dea52-e966-4d53-8343-409b9fad6dda
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Fixed asset parameters
 - Fixed assets parameters
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up Fixed assets parameters 
@@ -47,5 +49,5 @@ For information about these fields, see [Fixed assets parameters (form)](https:/
 [About financial reason codes](about-financial-reason-codes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

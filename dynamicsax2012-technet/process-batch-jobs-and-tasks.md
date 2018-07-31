@@ -1,4 +1,4 @@
-﻿---
+---
 title: Process batch jobs and tasks
 TOCTitle: Process batch jobs and tasks
 ms:assetid: 5002a400-7a5c-4193-a4dd-f894d5eb9d92
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 The topics in this section provide information about how to configure an Application Object Server (AOS) instance as a batch server. The topics also provide information about how to create a batch group, and how to create, process, and maintain batch jobs.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

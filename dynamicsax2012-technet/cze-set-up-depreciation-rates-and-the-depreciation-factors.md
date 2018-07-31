@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Set up depreciation rates and the depreciation factors
 TOCTitle: (CZE) Set up depreciation rates and the depreciation factors
 ms:assetid: 98bb4596-7db5-4944-82ce-dc576f54a71e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677619(v=AX.60)
 ms:contentKeyID: 49384922
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Set up depreciation rates and the depreciation factors 
@@ -40,5 +42,5 @@ You can set up depreciation rates and depreciation factors for fixed assets. The
 [(CZE) Depreciation groups (form)](https://technet.microsoft.com/en-us/library/jj677531\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

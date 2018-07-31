@@ -1,4 +1,4 @@
-﻿---
+---
 title: Actual versus budget report (BudgetBalancesActuals)
 TOCTitle: Actual versus budget report (BudgetBalancesActuals)
 ms:assetid: 686cc36f-6fed-40c6-b1e2-99efb17d9713
@@ -57,7 +57,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>From date</strong></p></td>
 <td><p>Select the starting date for budget balances to include on the report. This date must be in a fiscal year that is included in the fiscal calendar that is used by your organization.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!TIP]
 > <P>To include report dates from one fiscal year, you do not have to enter values in both the <STRONG>From date</STRONG> and <STRONG>To date</STRONG> fields. If you enter a value in the <STRONG>From date</STRONG> field, all the periods in the fiscal year after that date will be included on the report.</P>
@@ -68,7 +68,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>To date</strong></p></td>
 <td><p>Select the ending date for budget balances to include on the report. This date must be in a fiscal year that is included in the fiscal calendar that is used by your organization.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!TIP]
 > <P>To include report dates from one fiscal year, you do not have to enter values in both the <STRONG>From date</STRONG> and <STRONG>To date</STRONG> fields. If you enter a value in the <STRONG>To date</STRONG> field, all the periods in the fiscal year before that date will be included on the report.</P>
@@ -163,5 +163,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Budget details report (BudgetDetails)](budget-details-report-budgetdetails.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

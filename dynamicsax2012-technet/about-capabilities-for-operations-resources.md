@@ -1,4 +1,4 @@
-﻿---
+---
 title: About capabilities for operations resources
 TOCTitle: About capabilities for operations resources
 ms:assetid: 31945ac2-ef6c-4dae-b161-54eafbc596c7
@@ -13,6 +13,8 @@ f1_keywords:
 - capability
 - operations resource
 - operations
+audience: Application User
+ms.search.region: Global
 ---
 
 # About capabilities for operations resources 
@@ -63,5 +65,5 @@ When defining the requirements for a production route, you can also specify skil
 [Create and modify capabilities for operations resources](create-and-modify-capabilities-for-operations-resources.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

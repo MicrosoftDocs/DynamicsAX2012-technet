@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Update excise registers in production control
 TOCTitle: (IND) Update excise registers in production control
 ms:assetid: e606fe9f-2f50-42d5-bb52-d9d6883966c2
@@ -17,6 +17,8 @@ f1_keywords:
 - Update registers
 - update dsa register
 - update excise register
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Update excise registers in production control 
@@ -41,5 +43,5 @@ The excisable goods that are manufactured and recorded in production control are
 [(IND) Excise registers inquiries](ind-excise-registers-inquiries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

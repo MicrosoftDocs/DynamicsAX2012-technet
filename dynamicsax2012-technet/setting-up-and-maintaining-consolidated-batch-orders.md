@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining consolidated batch orders
 TOCTitle: Setting up and maintaining consolidated batch orders
 ms:assetid: 7eeeed94-4538-4e58-9220-f279aaa9ef68
@@ -13,6 +13,8 @@ f1_keywords:
 - batch order
 - process industries
 - batches
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining consolidated batch orders 
@@ -29,5 +31,5 @@ The topics in this section provide information about how to set up and maintain 
 [Add a batch order to a consolidated batch order](add-a-batch-order-to-a-consolidated-batch-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

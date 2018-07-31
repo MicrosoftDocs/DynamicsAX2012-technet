@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post a shipping bill for an export sales order
 TOCTitle: (IND) Post a shipping bill for an export sales order
 ms:assetid: 0b64888e-f6f6-4afa-ad7a-97dc4c70eac8
@@ -14,6 +14,8 @@ f1_keywords:
 - EPCG scheme
 - export order
 - shipping bill
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post a shipping bill for an export sales order 
@@ -64,5 +66,5 @@ Before you can export goods, you must generate a shipping bill for the goods. Be
 [(IND) Create an export order and apply the AA incentive scheme to the export order](ind-create-an-export-order-and-apply-the-aa-incentive-scheme-to-the-export-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

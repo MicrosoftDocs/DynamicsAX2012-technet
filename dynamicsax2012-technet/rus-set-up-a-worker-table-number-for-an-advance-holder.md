@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a worker table number for an advance holder
 TOCTitle: (RUS) Set up a worker table number for an advance holder
 ms:assetid: f0a3d550-520c-40f3-a522-263fa7f29b03
@@ -11,6 +11,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - worker table
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a worker table number for an advance holder 
@@ -45,5 +47,5 @@ Use this procedure to set up a worker table number for a worker. You can view th
 [(RUS) About worker table numbers for advance holders](rus-about-worker-table-numbers-for-advance-holders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and validate a quality order for a potency item
 TOCTitle: Create and validate a quality order for a potency item
 ms:assetid: 7ea865cc-afdb-4894-a656-db9e67115502
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838740(v=AX.60)
 ms:contentKeyID: 50120623
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and validate a quality order for a potency item 
@@ -60,5 +62,5 @@ Use this procedure to report results of a quality order and update the inventory
 [Set up prerequisites to report quality order results for a potency item](set-up-prerequisites-to-report-quality-order-results-for-a-potency-item.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

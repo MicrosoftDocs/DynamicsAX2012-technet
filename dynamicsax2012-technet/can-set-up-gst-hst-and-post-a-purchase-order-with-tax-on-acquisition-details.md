@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CAN) Set up GST/HST and post a purchase order with tax on acquisition details
 TOCTitle: (CAN) Set up GST/HST and post a purchase order with tax on acquisition details
 ms:assetid: 50e39cac-2c76-4790-8d3b-affa490b7260
@@ -10,6 +10,8 @@ f1_keywords:
 - Canada
 - GST
 - HST
+audience: Application User
+ms.search.region: Canada
 ---
 
 # (CAN) Set up GST/HST and post a purchase order with tax on acquisition details 
@@ -104,5 +106,5 @@ The details of the taxes paid on asset acquisition are recorded in the **Purchas
 [(CAN) Account identifiers (form)](https://technet.microsoft.com/en-us/library/hh242245\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

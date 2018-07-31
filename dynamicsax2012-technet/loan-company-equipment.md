@@ -1,4 +1,4 @@
-﻿---
+---
 title: Loan company equipment
 TOCTitle: Loan company equipment
 ms:assetid: bc8519bb-4416-402b-8985-5d4cfba5ae2e
@@ -12,6 +12,8 @@ f1_keywords:
 - property
 - equipment
 - loan
+audience: Application User
+ms.search.region: Global
 ---
 
 # Loan company equipment 
@@ -28,5 +30,5 @@ Topics in this section provide information about maintaining records for company
 [Record a returned loan item](record-a-returned-loan-item.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install web services on IIS
 TOCTitle: Install web services on IIS
 ms:assetid: 83827f45-6e85-4ec4-b673-133d284b2763
@@ -155,5 +155,5 @@ For information about managing integration ports, see [Services and AIF operatio
 [Walkthrough: Exchanging documents by using the HTTP adapter](walkthrough-exchanging-documents-by-using-the-http-adapter.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

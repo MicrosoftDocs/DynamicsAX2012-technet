@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up basic budgeting
 TOCTitle: Setting up basic budgeting
 ms:assetid: e65bbc2e-dd4a-4513-828a-361050e0b454
@@ -11,6 +11,8 @@ f1_keywords:
 - budget
 - budgeting
 - basic budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up basic budgeting 
@@ -43,5 +45,5 @@ The following topics provide information about setting up and maintaining basic 
 [Define budget transfer rules](define-budget-transfer-rules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

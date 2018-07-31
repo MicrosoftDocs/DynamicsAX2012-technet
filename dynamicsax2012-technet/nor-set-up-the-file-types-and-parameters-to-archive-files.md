@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Set up the file types and parameters to archive files
 TOCTitle: (NOR) Set up the file types and parameters to archive files
 ms:assetid: c3467400-be6b-480a-8076-904b2c9cc300
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213638(v=AX.60)
 ms:contentKeyID: 36059287
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Set up the file types and parameters to archive files 
@@ -50,5 +52,5 @@ The analyzing process decodes the format, and the information in the file is dis
 [(NOR) View and analyze archived files](nor-view-and-analyze-archived-files.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

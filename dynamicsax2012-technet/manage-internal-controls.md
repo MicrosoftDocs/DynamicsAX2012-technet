@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage internal controls
 TOCTitle: Manage internal controls
 ms:assetid: fa736577-3037-4eee-ac31-c4bd803a7c8c
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - controls
 - EditDocument
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage internal controls 
@@ -147,5 +149,5 @@ Your permissions may have been changed after you created the document. You must 
 [About process documentation](about-process-documentation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

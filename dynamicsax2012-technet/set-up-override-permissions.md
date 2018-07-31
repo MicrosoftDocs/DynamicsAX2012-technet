@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up override permissions
 TOCTitle: Set up override permissions
 ms:assetid: 263c7700-0b0f-4aa0-ba1b-fb3ed17e61f3
@@ -8,6 +8,8 @@ ms.date: 07/24/2015
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.MCRPriceOverrideMarkUpGroup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up override permissions 
@@ -56,5 +58,5 @@ Use this procedure to set up override permissions for one or more roles. You can
     If these fields contain a zero (0), users can increase or decrease the return credit by any amount.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

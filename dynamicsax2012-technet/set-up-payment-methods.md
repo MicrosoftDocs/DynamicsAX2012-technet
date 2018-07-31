@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up payment methods
 TOCTitle: Set up payment methods
 ms:assetid: 9776c9dd-50bb-4998-a7c0-5062f3767249
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232241(v=AX.60)
 ms:contentKeyID: 36058671
 ms.date: 02/02/2016
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up payment methods 
@@ -30,5 +32,5 @@ You can set up various methods of payment for expense transactions. Expense tran
 7.  If the payment method is used only for imported transactions, select the **Import only** check box.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

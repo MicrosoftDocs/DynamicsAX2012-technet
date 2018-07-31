@@ -1,4 +1,4 @@
-﻿---
+---
 title: View purchase requisition history (Enterprise Portal)
 TOCTitle: View purchase requisition history (Enterprise Portal)
 ms:assetid: 84af90dc-4308-4d32-91ef-305312bfd0a2
@@ -10,6 +10,8 @@ f1_keywords:
 - EPPurchReqTableVersionList
 - EPPurchReqViewDetails
 - VersioningCompare
+audience: Application User
+ms.search.region: Global
 ---
 
 # View purchase requisition history (Enterprise Portal) 
@@ -70,5 +72,5 @@ You can view only the purchase requisitions that were created by you, are assign
 [About purchase requisitions (Enterprise Portal)](about-purchase-requisitions-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

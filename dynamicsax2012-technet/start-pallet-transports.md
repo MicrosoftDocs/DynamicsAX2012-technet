@@ -1,4 +1,4 @@
-﻿---
+---
 title: Start pallet transports
 TOCTitle: Start pallet transports
 ms:assetid: 0f18f719-46bb-406f-a993-13351c9de0bf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496415(v=AX.60)
 ms:contentKeyID: 36056016
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Start pallet transports 
@@ -28,5 +30,5 @@ This topic applies to features in the **Inventory management** module. It does n
 [Complete pallet transports](complete-pallet-transports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

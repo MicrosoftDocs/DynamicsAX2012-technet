@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHE) Company identification numbers for tax exemption
 TOCTitle: (CHE) Company identification numbers for tax exemption
 ms:assetid: 6fba88d7-660e-4ef6-b6c9-fa18c23ac0ef
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - UID
 - company identification number
+audience: Application User
+ms.search.region: Switzerland
 ---
 
 # (CHE) Company identification numbers for tax exemption 
@@ -73,5 +75,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

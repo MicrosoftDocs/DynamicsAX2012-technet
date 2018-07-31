@@ -1,4 +1,4 @@
-﻿---
+---
 title: Italian fiscal LIFO
 TOCTitle: Italian fiscal LIFO
 ms:assetid: a476e70a-7cd4-4114-ba32-0e0625dc59f3
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Italian fiscal LIFO
+audience: Application User
+ms.search.region: Global
 ---
 
 # Italian fiscal LIFO 
@@ -61,5 +63,5 @@ This section provides an overview of the Italian fiscal LIFO section of the **In
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

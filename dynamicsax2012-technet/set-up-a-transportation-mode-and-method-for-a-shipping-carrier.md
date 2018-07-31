@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a transportation mode and method for a shipping carrier
 TOCTitle: Set up a transportation mode and method for a shipping carrier
 ms:assetid: 3da6501e-c40f-4253-951a-932e6f3526de
@@ -13,6 +13,8 @@ f1_keywords:
 - transportation methods
 - transportation mode
 - transportation modes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a transportation mode and method for a shipping carrier 
@@ -95,5 +97,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Set up shipping carriers and carrier groups](set-up-shipping-carriers-and-carrier-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

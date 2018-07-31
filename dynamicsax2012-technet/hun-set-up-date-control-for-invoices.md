@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Set up date control for invoices
 TOCTitle: (HUN) Set up date control for invoices
 ms:assetid: 05bf4eab-d4da-4c16-abe4-82474d50d995
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733508(v=AX.60)
 ms:contentKeyID: 49685472
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Set up date control for invoices 
@@ -48,5 +50,5 @@ You enable the date control fields in the **Updates** area in the **Accounts rec
 [Creating credit notes](creating-credit-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

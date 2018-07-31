@@ -1,4 +1,4 @@
-﻿---
+---
 title: Code Upgrade Tool User Guide
 TOCTitle: Code Upgrade Tool User Guide
 ms:assetid: 37b53a7b-0c30-4e25-be4d-1ffb109b6edf
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/code-upgrade-tool-user-guide/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

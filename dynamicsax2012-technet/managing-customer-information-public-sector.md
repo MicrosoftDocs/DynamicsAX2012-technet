@@ -1,4 +1,4 @@
-﻿---
+---
 title: Managing customer information (Public sector)
 TOCTitle: Managing customer information (Public sector)
 ms:assetid: 4d27c330-29e2-49de-bcea-384bba62abcd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208533(v=AX.60)
 ms:contentKeyID: 36056284
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Managing customer information (Public sector) 
@@ -20,5 +22,5 @@ The topics in this section provide information about how to maintain customer in
 This control is available only if the configuration key for **Public Sector** is selected.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

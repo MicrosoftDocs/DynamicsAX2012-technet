@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up parameters to estimate WIP and FP in a tax accounting register
 TOCTitle: (RUS) Set up parameters to estimate WIP and FP in a tax accounting register
 ms:assetid: 3010ba8e-2f8f-4b23-8c96-d59fb0b2fc62
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923404(v=AX.60)
 ms:contentKeyID: 52075363
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up parameters to estimate WIP and FP in a tax accounting register 
@@ -38,5 +40,5 @@ Use the **Tax registers** form to set up parameters to estimate work in process 
 [(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up a budget model for flexible budgets
 TOCTitle: About setting up a budget model for flexible budgets
 ms:assetid: d36935bf-aac1-475b-8087-4bd9b1bfed53
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551075(v=AX.60)
 ms:contentKeyID: 36059512
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up a budget model for flexible budgets 
@@ -86,5 +88,5 @@ To delete plan costs for a specific dimension, delete the dimension in the **Dim
 [Flexible budgets](flexible-budgets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

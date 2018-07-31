@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up budgeting and budget control for a preliminary budget (Public sector)
 TOCTitle: Set up budgeting and budget control for a preliminary budget (Public sector)
 ms:assetid: 3b0504aa-52f3-4003-9ff5-be06a21939b2
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - preliminary budgets
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Set up budgeting and budget control for a preliminary budget (Public sector) 
@@ -54,5 +56,5 @@ For more information, see [Define budget codes](define-budget-codes.md).
 After you set up basic budgeting and budget control for the preliminary budget, you can create budget register entries for the preliminary budget type. For more information, see [Create and reverse a preliminary budget (Public sector)](create-and-reverse-a-preliminary-budget-public-sector.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

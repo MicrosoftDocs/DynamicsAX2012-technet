@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Budgeting features"
 TOCTitle: Budgeting features
 ms:assetid: 09b2d1e5-92a0-4d32-bc24-c01b47d523b6
@@ -1441,5 +1441,5 @@ For more detailed information about budget planning, see the following white pap
   - [Strategies for using the Budget planning analysis data cube in Microsoft Dynamics AX 2012 R2](http://go.microsoft.com/fwlink/?linkid=272948%26clcid=0x409)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

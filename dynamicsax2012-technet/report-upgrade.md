@@ -1,4 +1,4 @@
-﻿---
+---
 title: Report Upgrade
 TOCTitle: Report Upgrade
 ms:assetid: cb41746e-3995-42df-bf51-b78edf71a71b
@@ -137,5 +137,5 @@ After an Microsoft Dynamics AX 2009 report is converted, there may be additional
 [Report Project Upgrade](report-project-upgrade.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

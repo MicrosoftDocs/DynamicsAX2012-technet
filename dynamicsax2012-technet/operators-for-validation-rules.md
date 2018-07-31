@@ -1,4 +1,4 @@
-﻿---
+---
 title: Operators for validation rules
 TOCTitle: Operators for validation rules
 ms:assetid: 7697acc0-6100-4822-9805-420c9af44c48
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550039(v=AX.60)
 ms:contentKeyID: 36058195
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Operators for validation rules 
@@ -76,5 +78,5 @@ The following operators are available for creating logical expressions in valida
 The operators in this table are listed in order of operator precedence. Operator precedence means that operators that appear higher up in the table are evaluated before operators that are listed after them. Therefore, A = B or C = D and A + B \* D = C is evaluated as ((A = B) or (C = D)) and ((A + (B \* D)) = C).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

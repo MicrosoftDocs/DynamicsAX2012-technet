@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create price groups
 TOCTitle: Create price groups
 ms:assetid: 13f3fac3-3088-40e8-b15e-49790506a30e
@@ -11,6 +11,8 @@ f1_keywords:
 - price group
 - price/discount
 - sales price
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create price groups 
@@ -35,5 +37,5 @@ You can create price groups for those groups of customers that you want to handl
 [Assign a price group to a project, project contract, or customer](assign-a-price-group-to-a-project-project-contract-or-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Resolve sales tax differences between purchase orders and invoices
 TOCTitle: Resolve sales tax differences between purchase orders and invoices
 ms:assetid: 8a9bc094-482e-493d-addd-74418aa12693
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh292600(v=AX.60)
 ms:contentKeyID: 36655938
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Resolve sales tax differences between purchase orders and invoices 
@@ -124,5 +126,5 @@ The sales tax codes for the purchase order and the vendor invoice might differ. 
 [Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

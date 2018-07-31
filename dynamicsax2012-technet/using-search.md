@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using search
 TOCTitle: Using search
 ms:assetid: 78ad7d04-9381-42a4-8e1d-c2b1a9d756fa
@@ -12,6 +12,8 @@ f1_keywords:
 - using search
 - perform a search
 - search options
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using search 
@@ -30,5 +32,5 @@ If search results do not display the tables or fields that you need, ask your Mi
 [Using favorites](using-favorites.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create an import order for the DFIA incentive scheme
 TOCTitle: (IND) Create an import order for the DFIA incentive scheme
 ms:assetid: 5eca8174-9c81-49c0-bbe7-a22d6d717f70
@@ -16,6 +16,8 @@ f1_keywords:
 - DFIA
 - Duty Free Import Authorization
 - import order
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create an import order for the DFIA incentive scheme 
@@ -62,5 +64,5 @@ After you receive a Duty Free Import Authorization (DFIA) from the customs autho
       - To confirm the purchase order without printing it, click **Confirm**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

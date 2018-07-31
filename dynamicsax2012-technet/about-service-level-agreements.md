@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service level agreements
 TOCTitle: About service level agreements
 ms:assetid: 05290d56-0616-4517-aa20-ec6bc86258d6
@@ -10,6 +10,8 @@ f1_keywords:
 - sla
 - service agreement
 - service level
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service level agreements 
@@ -66,5 +68,5 @@ When you create a new service order for a service agreement that an SLA is assig
 [View compliance with service level agreements](view-compliance-with-service-level-agreements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

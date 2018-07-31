@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register absences
 TOCTitle: Register absences
 ms:assetid: 5452a64b-ff46-4f87-a65c-dca5f5170c46
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548933(v=AX.60)
 ms:contentKeyID: 42117757
 ms.date: 05/16/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register absences 
@@ -118,5 +120,5 @@ When you record an absence request or an absence registration for multiple-day a
 [Request future absences (form)](https://technet.microsoft.com/en-us/library/aa556621\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

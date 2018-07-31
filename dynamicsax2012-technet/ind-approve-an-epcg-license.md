@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Approve an EPCG license
 TOCTitle: (IND) Approve an EPCG license
 ms:assetid: 86e7c671-61d3-4225-998a-776b32637398
@@ -12,6 +12,8 @@ f1_keywords:
 - EPCG license
 - Approve EPCG license
 - EPCG license approval
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Approve an EPCG license 
@@ -76,5 +78,5 @@ The EPCG license is approved only under the following conditions:
 [(IND) Approval EPCG schemes (form)](https://technet.microsoft.com/en-us/library/jj710885\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

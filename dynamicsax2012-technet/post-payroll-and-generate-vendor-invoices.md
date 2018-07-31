@@ -1,4 +1,4 @@
-﻿---
+---
 title: Post payroll and generate vendor invoices
 TOCTitle: Post payroll and generate vendor invoices
 ms:assetid: c3c9d2e3-c947-497a-a6a2-317bb27e779a
@@ -16,6 +16,8 @@ f1_keywords:
 - payroll vendor
 - payroll vendors
 - payroll vendor invoices
+audience: Application User
+ms.search.region: USA
 ---
 
 # Post payroll and generate vendor invoices 
@@ -256,5 +258,5 @@ If you don't have access to the pages that are used to complete this task, conta
 Back to top
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

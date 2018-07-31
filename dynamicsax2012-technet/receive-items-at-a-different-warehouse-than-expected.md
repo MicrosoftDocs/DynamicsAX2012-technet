@@ -1,4 +1,4 @@
-﻿---
+---
 title: Receive items at a different warehouse than expected
 TOCTitle: Receive items at a different warehouse than expected
 ms:assetid: f58cffbc-56ee-473c-b7b8-44ac77e733c8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn887226(v=AX.60)
 ms:contentKeyID: 63378894
 ms.date: 11/13/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Receive items at a different warehouse than expected 
@@ -82,5 +84,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Create or modify an inbound load](create-or-modify-an-inbound-load.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

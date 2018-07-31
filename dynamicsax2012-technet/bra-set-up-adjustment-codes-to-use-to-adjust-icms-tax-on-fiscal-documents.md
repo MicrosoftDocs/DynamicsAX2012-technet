@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up adjustment codes to use to adjust ICMS tax on fiscal documents
 TOCTitle: (BRA) Set up adjustment codes to use to adjust ICMS tax on fiscal documents
 ms:assetid: ef2b4e7c-d37d-4940-bde9-1efd0e67850f
@@ -10,6 +10,8 @@ f1_keywords:
 - ICMS
 - Forms.FBFiscalDocumentAdjustmentCodeICMS_BR
 - MsDynAx060.Forms.FBFiscalDocumentAdjustmentCodeICMS_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up adjustment codes to use to adjust ICMS tax on fiscal documents 
@@ -120,5 +122,5 @@ Not all Brazilian states allow for ICMS and ICMS-ST amounts to be adjusted. To d
 15. To create another adjustment code, click **New**, and then repeat steps 2 through 14.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

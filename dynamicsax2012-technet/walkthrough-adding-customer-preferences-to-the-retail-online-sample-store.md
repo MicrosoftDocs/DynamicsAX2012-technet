@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Adding customer preferences to the Retail online sample store'
 TOCTitle: 'Walkthrough: Extending the Retail online sample store'
 ms:assetid: 5771233d-d844-41f9-9f09-9d17e57bffa2
@@ -514,5 +514,5 @@ Add text for the labels and messages to Storefront/Controls/ControlResources.res
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

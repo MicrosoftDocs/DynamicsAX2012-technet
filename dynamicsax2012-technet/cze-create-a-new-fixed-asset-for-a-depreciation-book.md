@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Create a new fixed asset for a depreciation book
 TOCTitle: (CZE) Create a new fixed asset for a depreciation book
 ms:assetid: 64f2534c-ce67-49ee-b45c-5cfda4e4e244
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677550(v=AX.60)
 ms:contentKeyID: 49384859
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Create a new fixed asset for a depreciation book 
@@ -32,5 +34,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 6.  Press CTRL+S or close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

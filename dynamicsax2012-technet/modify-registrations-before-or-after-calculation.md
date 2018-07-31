@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify registrations before or after calculation
 TOCTitle: Modify registrations before or after calculation
 ms:assetid: fdf60b94-ce2d-44ba-a43e-cfa27e86d127
@@ -12,6 +12,8 @@ f1_keywords:
 - missing
 - calculate
 - edit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Modify registrations before or after calculation 
@@ -97,5 +99,5 @@ After you calculate or approve registrations, you can view error descriptions on
 [Approve time and attendance registrations](approve-time-and-attendance-registrations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

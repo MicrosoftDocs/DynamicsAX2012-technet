@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create goal headings
 TOCTitle: Create goal headings
 ms:assetid: e6b7200b-2bd3-4226-95be-fcbd5045a682
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243229(v=AX.60)
 ms:contentKeyID: 36059807
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create goal headings 
@@ -36,5 +38,5 @@ Before you can set goals for workers, you must set up one or more goal headings.
 [Goal details (form)](https://technet.microsoft.com/en-us/library/hh227645\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Generate vendor payment files and upload them using CIS
 TOCTitle: (BEL) Generate vendor payment files and upload them using CIS
 ms:assetid: d885f830-a83b-4770-8be7-81897051e681
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227395(v=AX.60)
 ms:contentKeyID: 36059642
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Generate vendor payment files and upload them using CIS 
@@ -44,5 +46,5 @@ For information on uploading payment files, see [(BEL) Generate customer payment
 [(BEL) Generate customer payment files and upload them using CIS](bel-generate-customer-payment-files-and-upload-them-using-cis.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

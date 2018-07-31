@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Fiscal LIFO valuation of Inventory report (InventFiscalLIFOValuation)
 TOCTitle: (ITA) Fiscal LIFO valuation of Inventory report (InventFiscalLIFOValuation)
 ms:assetid: d0691437-6a16-4dcd-be95-b3a01ede6956
@@ -97,5 +97,5 @@ If you are a developer, you can learn more about where the data on a report come
 [About LIFO with physical value and marking](about-lifo-with-physical-value-and-marking.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

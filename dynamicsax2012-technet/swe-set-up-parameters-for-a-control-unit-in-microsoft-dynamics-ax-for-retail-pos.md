@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Set up parameters for a control unit in Microsoft Dynamics AX for Retail POS
 TOCTitle: (SWE) Set up parameters for a control unit in Microsoft Dynamics AX for Retail POS
 ms:assetid: a1d8ca52-7052-4d19-b8f8-842e7882d3a8
@@ -16,6 +16,8 @@ f1_keywords:
 - control unit serial number
 - Forms.RetailFiscalPrinterConfigTable
 - initialize number sequence
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Set up parameters for a control unit in Microsoft Dynamics AX for Retail POS 
@@ -176,5 +178,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Microsoft Dynamics AX Retail POS Fiscal Register Integration Developer Guide - Sweden](https://mbs.microsoft.com/customersource/global/ax/learning/documentation/white-papers/msdaxretailposfiscalregisterdevsweden)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

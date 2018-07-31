@@ -1,4 +1,4 @@
-﻿---
+---
 title: Insert default route node
 TOCTitle: Insert default route node
 ms:assetid: 942729cb-0cf4-4754-a602-22b4f964c2d7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498392(v=AX.60)
 ms:contentKeyID: 36058592
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Insert default route node 
@@ -42,5 +44,5 @@ Use the **Insert default route** command to automatically insert all route nodes
 7.  Click **OK** to insert all of the default route operations.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

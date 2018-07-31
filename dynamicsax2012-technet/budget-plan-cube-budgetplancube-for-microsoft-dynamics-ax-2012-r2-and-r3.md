@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budget plan cube (BudgetPlanCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Budget plan cube (BudgetPlanCube)
 ms:assetid: 015155b3-1af0-402d-8b85-5ff1b394534a
@@ -351,5 +351,5 @@ The Budget plan cube can be accessed by users assigned to the following Microsof
   - Financial controller
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

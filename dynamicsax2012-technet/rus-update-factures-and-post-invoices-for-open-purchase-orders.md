@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Update factures and post invoices for open purchase orders
 TOCTitle: (RUS) Update factures and post invoices for open purchase orders
 ms:assetid: b0c84ded-ddc6-4327-ac23-8f18b6380455
@@ -12,6 +12,8 @@ f1_keywords:
 - Russia
 - RUS
 - facture
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Update factures and post invoices for open purchase orders 
@@ -48,5 +50,5 @@ You can post purchase order invoices that are based on packing slips that includ
 [Select product receipt - Purchase order (form)](https://technet.microsoft.com/en-us/library/hh597253\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

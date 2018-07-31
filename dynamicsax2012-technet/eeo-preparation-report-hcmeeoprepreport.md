@@ -1,4 +1,4 @@
-﻿---
+---
 title: EEO preparation report (HcmEEOPrepReport)
 TOCTitle: EEO preparation report (HcmEEOPrepReport)
 ms:assetid: 94bd1532-3b78-44f3-bc80-e9cd7810f9cb
@@ -146,5 +146,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

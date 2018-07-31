@@ -1,4 +1,4 @@
-﻿---
+---
 title: Verify that exchange rate information has been entered
 TOCTitle: Verify that exchange rate information has been entered
 ms:assetid: 0dc6d13d-abc7-411c-9d00-162767163465
@@ -34,5 +34,5 @@ Complete the following procedure to verify that the system currency and exchange
 2.  Verify that the system currency and exchange rate type that you selected in the previous procedure are displayed in this form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

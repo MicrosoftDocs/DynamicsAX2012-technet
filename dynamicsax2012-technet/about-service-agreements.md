@@ -1,4 +1,4 @@
-﻿---
+---
 title: About service agreements
 TOCTitle: About service agreements
 ms:assetid: f95ad656-9bfd-4d40-a986-37e641770046
@@ -12,6 +12,8 @@ f1_keywords:
 - service agreement
 - service level agreement
 - service-agreement
+audience: Application User
+ms.search.region: Global
 ---
 
 # About service agreements 
@@ -90,5 +92,5 @@ Each service-agreement line describes in detail the content of the proposed serv
 [Create service orders automatically](create-service-orders-automatically.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

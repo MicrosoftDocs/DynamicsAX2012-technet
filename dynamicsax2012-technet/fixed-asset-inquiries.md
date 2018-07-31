@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed asset inquiries
 TOCTitle: Fixed asset inquiries
 ms:assetid: 3337886b-a8a7-4db6-90e0-5274516adda1
@@ -13,6 +13,8 @@ f1_keywords:
 - fixed asset inquiry
 - fixed assets inquiries
 - fixed assets inquiry
+audience: Application User
+ms.search.region: Global
 ---
 
 # Fixed asset inquiries 
@@ -29,5 +31,5 @@ The topics in this section provide information about how to create inquiries for
 [View fixed asset change history](view-fixed-asset-change-history.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up vendor sales price points
 TOCTitle: Set up vendor sales price points
 ms:assetid: e39f2d54-64f3-4a47-a571-aa4b88df4814
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597265(v=AX.60)
 ms:contentKeyID: 39519345
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up vendor sales price points 
@@ -30,5 +32,5 @@ You can create a sales price point to convert the suggested retail prices of a v
 [Vendor sales price point setup (form)](https://technet.microsoft.com/en-us/library/hh597319\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

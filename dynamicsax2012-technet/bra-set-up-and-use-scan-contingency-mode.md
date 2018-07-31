@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up and use SCAN contingency mode
 TOCTitle: (BRA) Set up and use SCAN contingency mode
 ms:assetid: 9600a1b3-c72a-4576-a246-45a65c360c16
@@ -16,6 +16,8 @@ f1_keywords:
 - MsDynAx060.Forms.EFDocContingencyMode_BR
 - MsDynAx060.Forms.FiscalDocumentType_BR
 - MsDynAx060.Forms.EFDocServiceInquire_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up and use SCAN contingency mode 
@@ -200,5 +202,5 @@ To verify the NF-e web service status, follow these steps:
 [(BRA) Verify the NF-e status and print the DANFE](bra-verify-the-nf-e-status-and-print-the-danfe.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

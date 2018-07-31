@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upgrade conditions
 TOCTitle: Upgrade conditions
 ms:assetid: f02c1d09-b396-41e1-ad6b-d949c8f55305
@@ -32,5 +32,5 @@ After you upgrade, you may have to modify conditions that are no longer valid. F
 [Modify invalid conditions (form)](https://technet.microsoft.com/en-us/library/jj862344\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a report by using the Microsoft Dynamics AX auto-report wizard
 TOCTitle: Create a report by using the Microsoft Dynamics AX auto-report wizard
 ms:assetid: 8528cc70-8624-4eba-94ce-cd01c2dd6267
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213177(v=AX.60)
 ms:contentKeyID: 35133419
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a report by using the Microsoft Dynamics AX auto-report wizard 
@@ -90,5 +92,5 @@ You can use the auto-report functionality to create a custom report that is save
     The report settings are automatically saved. The next time that you open the form that you opened in step 1, you can generate and print this report by clicking **File** \> **Print** \> **Print**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

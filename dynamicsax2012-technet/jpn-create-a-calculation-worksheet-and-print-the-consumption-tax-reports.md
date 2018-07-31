@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Create a calculation worksheet and print the consumption tax reports
 TOCTitle: (JPN) Create a calculation worksheet and print the consumption tax reports
 ms:assetid: a57449da-7ad9-4cec-aa51-44907c6b588b
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - JP - 00004
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Create a calculation worksheet and print the consumption tax reports 
@@ -89,5 +91,5 @@ The Japanese taxation authority requires that businesses file a consumption tax 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

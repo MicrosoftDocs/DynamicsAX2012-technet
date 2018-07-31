@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post purchase transactions of excise using Invoice register form
 TOCTitle: (IND) Post purchase transactions of excise using Invoice register form
 ms:assetid: e68288bf-3fb5-44f2-9ab2-0fcdb58b4ec5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710891(v=AX.60)
 ms:contentKeyID: 49386304
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post purchase transactions of excise using Invoice register form 
@@ -122,5 +124,5 @@ You can post purchase transactions with excise details using the **Invoice regis
 [(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

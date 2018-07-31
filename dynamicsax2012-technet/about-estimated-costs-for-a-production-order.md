@@ -1,4 +1,4 @@
-﻿---
+---
 title: About estimated costs for a production order
 TOCTitle: About estimated costs for a production order
 ms:assetid: 212fab4c-dde6-41fe-b452-3596f6781775
@@ -16,6 +16,8 @@ f1_keywords:
 - estimation
 - costing
 - estimating
+audience: Application User
+ms.search.region: Global
 ---
 
 # About estimated costs for a production order 
@@ -36,5 +38,5 @@ The calculations of estimated cost can optionally apply to reference orders that
 [About analyzing costs for a production order](about-analyzing-costs-for-a-production-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

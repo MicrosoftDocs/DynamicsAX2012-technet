@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a Coded condition
 TOCTitle: Create a Coded condition
 ms:assetid: 7ee19c86-2a39-42e5-b180-341d73f0c4de
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571538(v=AX.60)
 ms:contentKeyID: 36058323
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a Coded condition 
@@ -38,5 +40,5 @@ Coded conditions are written in X++ code. In the **Parameters** field group, var
 8.  Click the **Message** tab to create a message that will appear if the condition is true. Select the language that you will write the message in, and then type the message text.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

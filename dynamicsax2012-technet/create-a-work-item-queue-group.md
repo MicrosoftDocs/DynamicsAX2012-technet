@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a work item queue group
 TOCTitle: Create a work item queue group
 ms:assetid: 348612fe-d891-4374-9514-bd6e0f5883db
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731774(v=AX.60)
 ms:contentKeyID: 35132599
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a work item queue group 
@@ -42,5 +44,5 @@ To add a queue to the group or remove a queue from the group, complete the follo
 4.  To remove a queue from the group, select the queue in the **Selected work item queues** list, and then click the arrow button to move it to the **Available work item queues** list.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up overdue debt VAT parameters for VAT journals
 TOCTitle: (POL) Set up overdue debt VAT parameters for VAT journals
 ms:assetid: c22b9e36-df1f-4096-b523-9ae750cb6f9f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716014(v=AX.60)
 ms:contentKeyID: 62200257
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up overdue debt VAT parameters for VAT journals 
@@ -280,5 +282,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

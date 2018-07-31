@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor balance list with credit limit report (VendBalanceList)
 TOCTitle: Vendor balance list with credit limit report (VendBalanceList)
 ms:assetid: aa47b4b2-0ed0-4109-acef-f4ba321b11fe
@@ -112,5 +112,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain your company profile
 TOCTitle: Maintain your company profile
 ms:assetid: 4bc656c9-5773-4d7f-ae25-e68a9e762985
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPVendTableInfoVSS
 - VendProfileEdit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain your company profile 
@@ -49,5 +51,5 @@ The level of access to the vendor profile on the Vendor portal is determined by 
 [About the Vendor portal](about-the-vendor-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

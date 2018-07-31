@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Factor depreciation method
 TOCTitle: (RUS) Factor depreciation method
 ms:assetid: 291efbcd-0ca1-47bb-ba3f-d28e5d5b8401
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665223(v=AX.60)
 ms:contentKeyID: 49387312
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Factor depreciation method 
@@ -40,5 +42,5 @@ For the non-linear method, enter the cutoff percentage value in the **Factor** f
 [(RUS) Set up depreciation methods](rus-set-up-depreciation-methods.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

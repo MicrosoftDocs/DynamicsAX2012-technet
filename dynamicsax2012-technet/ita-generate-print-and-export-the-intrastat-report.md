@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Generate, print, and export the Intrastat report
 TOCTitle: (ITA) Generate, print, and export the Intrastat report
 ms:assetid: 120b1e06-8de0-4a80-830f-0b4b72139780
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Intrastat report
 - Italy
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Generate, print, and export the Intrastat report 
@@ -93,5 +95,5 @@ You can generate the Intrastat report that contains the Intrastat transactions a
 [(ITA) Make diskette for Intrastat in Italian layout (class form)](https://technet.microsoft.com/en-us/library/aa587754\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

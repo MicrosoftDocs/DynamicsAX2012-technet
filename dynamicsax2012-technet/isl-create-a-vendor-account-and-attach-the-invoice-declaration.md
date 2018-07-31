@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ISL) Create a vendor account and attach the invoice declaration
 TOCTitle: (ISL) Create a vendor account and attach the invoice declaration
 ms:assetid: 1da6a6e8-3fe4-4331-8136-ee798ee677ab
@@ -10,6 +10,8 @@ f1_keywords:
 - declaration
 - Iceland
 - vendor invoice
+audience: Application User
+ms.search.region: Iceland
 ---
 
 # (ISL) Create a vendor account and attach the invoice declaration 
@@ -34,5 +36,5 @@ Create a vendor account with an invoice declaration for each of your vendors.
 [(ISL) Set up an invoice declaration for vendors](isl-set-up-an-invoice-declaration-for-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

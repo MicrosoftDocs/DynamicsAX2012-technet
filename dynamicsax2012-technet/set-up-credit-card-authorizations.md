@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up credit card authorizations
 TOCTitle: Set up credit card authorizations
 ms:assetid: fc467642-c6b1-47eb-8c4f-3db106e58046
@@ -26,6 +26,8 @@ f1_keywords:
 - Visa
 - payment services
 - payment service
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up credit card authorizations 
@@ -94,5 +96,5 @@ You can change the Payment Services for Microsoft Dynamics ERP account online, i
 [Process an authorization for a sales order](process-an-authorization-for-a-sales-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

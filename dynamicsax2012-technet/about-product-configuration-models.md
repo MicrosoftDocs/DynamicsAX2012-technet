@@ -1,4 +1,4 @@
-﻿---
+---
 title: About product configuration models
 TOCTitle: About product configuration models
 ms:assetid: 5ccae80d-77cb-4c14-be69-5744390903dd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh278332(v=AX.60)
 ms:contentKeyID: 36207230
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About product configuration models 
@@ -63,7 +65,7 @@ The following table describes the table constraint-based terms and concepts.
 <li><p><strong>Boolean</strong></p></li>
 </ul>
 <p>If the attribute type is <strong>Boolean</strong>, <strong>Integer</strong>, or <strong>Text</strong>, the set of values is available when a product configuration model is set up.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>Solver Foundation recognizes only the following attribute types: Booleans, texts that have a fixed list, and integers that have a range. Therefore, only these attribute types can be used in expression constraints and conditions.</P>
@@ -155,5 +157,5 @@ The following table describes the table constraint-based terms and concepts.
 [Constraint-based product configuration model details (form)](https://technet.microsoft.com/en-us/library/hh209626\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

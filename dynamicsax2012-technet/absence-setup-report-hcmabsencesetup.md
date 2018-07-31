@@ -1,4 +1,4 @@
-﻿---
+---
 title: Absence setup report (HcmAbsenceSetup)
 TOCTitle: Absence setup report (HcmAbsenceSetup)
 ms:assetid: 2e5f42b1-1f35-44c7-bd6e-94d3ca3c5f72
@@ -92,5 +92,5 @@ If you are a developer, you can learn more about where the data on a report come
 [About absence administration](about-absence-administration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

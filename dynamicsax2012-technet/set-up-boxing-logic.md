@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up boxing logic
 TOCTitle: Set up boxing logic
 ms:assetid: 93bd146a-50ba-423c-adae-d39436197216
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn715973(v=AX.60)
 ms:contentKeyID: 62200120
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up boxing logic 
@@ -106,5 +108,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

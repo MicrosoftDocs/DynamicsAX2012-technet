@@ -1,4 +1,4 @@
-﻿---
+---
 title: Invoicing
 TOCTitle: Invoicing
 ms:assetid: c2063095-64ff-48bf-8cfe-607e3745d357
@@ -11,6 +11,8 @@ f1_keywords:
 - on-account
 - invoicing
 - project type
+audience: Application User
+ms.search.region: Global
 ---
 
 # Invoicing 
@@ -63,5 +65,5 @@ The following topics provide information about invoicing.
 [(DNK) Create and post a credit note for a project invoice for a public sector customer](dnk-create-and-post-a-credit-note-for-a-project-invoice-for-a-public-sector-customer.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

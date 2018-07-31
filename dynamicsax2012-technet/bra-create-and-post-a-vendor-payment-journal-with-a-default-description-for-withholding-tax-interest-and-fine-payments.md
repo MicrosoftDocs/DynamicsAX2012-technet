@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post a vendor payment journal with a default description for withholding tax, interest, and fine payments
 TOCTitle: (BRA) Create and post a vendor payment journal with a default description for withholding tax, interest, and fine payments
 ms:assetid: eb9849eb-a1b1-456d-b4e0-2b0883dcda94
@@ -14,6 +14,8 @@ f1_keywords:
 - Brazil
 - default description
 - fine payments
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post a vendor payment journal with a default description for withholding tax, interest, and fine payments 
@@ -74,5 +76,5 @@ You must specify a journal description before you post a journal. When you post 
 [(BRA) Analytical ledger report (LedgerJournalAnalytReasonReport\_BR)](https://technet.microsoft.com/en-us/library/jj710455\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

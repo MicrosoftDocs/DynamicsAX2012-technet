@@ -1,4 +1,4 @@
-﻿---
+---
 title: Intercompany goods in transit transactions report (InterCompanyGoodsInTransitTransactions)
 TOCTitle: Intercompany goods in transit transactions report (InterCompanyGoodsInTransitTransactions)
 ms:assetid: 8df7de28-ac55-4720-bcae-1ca2a15000a5
@@ -144,5 +144,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

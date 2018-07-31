@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run multiple instances of Synch Service
 TOCTitle: Run multiple instances of Synch Service
 ms:assetid: 07c47aa8-3be8-4b63-b2d6-5d942b03a8be
@@ -64,5 +64,5 @@ Use the following procedure to configure a forwarder instance.
 4.  Confirm that the user that Synch Service is running as has read/write permissions to the working directory and its contents.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

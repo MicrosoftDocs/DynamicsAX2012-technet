@@ -1,4 +1,4 @@
-﻿---
+---
 title: Overview of Enterprise Portal for Microsoft Dynamics AX
 TOCTitle: Overview of Enterprise Portal for Microsoft Dynamics AX
 ms:assetid: 5c731ae4-5882-41cc-9748-6b0e65a1664d
@@ -188,5 +188,5 @@ Enterprise Portal includes the following module sites, where users can access da
 [Checklists for deploying Enterprise Portal sites](checklists-for-deploying-enterprise-portal-sites.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

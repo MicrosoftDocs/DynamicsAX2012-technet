@@ -1,4 +1,4 @@
-﻿---
+---
 title: View fixed asset change history
 TOCTitle: View fixed asset change history
 ms:assetid: 4ad73fa0-5458-4e61-a5cd-53236a6ca0b2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231407(v=AX.60)
 ms:contentKeyID: 36056973
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View fixed asset change history 
@@ -36,5 +38,5 @@ Use the **Fixed asset changes history** form to view changes that have been made
 [Depreciation books (form)](https://technet.microsoft.com/en-us/library/aa572416\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

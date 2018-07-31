@@ -1,4 +1,4 @@
-﻿---
+---
 title: View inventory recalculation settlements
 TOCTitle: View inventory recalculation settlements
 ms:assetid: 51b82e60-0b14-4420-876c-fbb4ad9c14dc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212781(v=AX.60)
 ms:contentKeyID: 36057271
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View inventory recalculation settlements 
@@ -32,5 +34,5 @@ Use the **Settlements for voucher** form to review the items that are affected b
 [Settlements for voucher (form)](https://technet.microsoft.com/en-us/library/aa586022\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

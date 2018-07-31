@@ -1,4 +1,4 @@
-﻿---
+---
 title: Getting started with Microsoft Dynamics AX 2012
 TOCTitle: Getting started
 ms:assetid: 30d8619b-cd71-4816-82f1-8248e9adff51
@@ -26,10 +26,9 @@ To learn about Microsoft Dynamics AX prerequisite skills, product functionality,
 [Printable guides](printable-guides.md)
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

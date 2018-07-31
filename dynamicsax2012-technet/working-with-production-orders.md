@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with production orders
 TOCTitle: Working with production orders
 ms:assetid: 782ea94b-8b55-47f2-a547-9bb2213671a4
@@ -10,6 +10,8 @@ f1_keywords:
 - production orders
 - production
 - manufacturing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with production orders 
@@ -30,5 +32,5 @@ The topics in this section provide information about how to update production or
 [Delete production orders](delete-production-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

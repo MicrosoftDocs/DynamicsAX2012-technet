@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Company and organization framework"
 TOCTitle: Company and organization framework
 ms:assetid: 0bc44ae4-1e8b-41b2-9180-83f24bd7bef4
@@ -146,5 +146,5 @@ For more information about organization modeling, see [Organizations and organiz
 Developers can extend the organization model by adding elements to some base enumerations and extending some classes. For more information about the developer experience, see [Extending the Organization Model](https://technet.microsoft.com/en-us/library/gg989786\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Enterprise Portal in a traditional perimeter network
 TOCTitle: Install Enterprise Portal in a traditional perimeter network
 ms:assetid: 935a3dc1-157c-4020-a75a-c5ad593484d5
@@ -600,5 +600,5 @@ Internal users can now view Enterprise Portal in a Web browser. If you granted u
 [Checklists for deploying Enterprise Portal sites](checklists-for-deploying-enterprise-portal-sites.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

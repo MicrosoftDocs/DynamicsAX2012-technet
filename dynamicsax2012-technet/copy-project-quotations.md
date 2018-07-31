@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy project quotations
 TOCTitle: Copy project quotations
 ms:assetid: 4d11d472-bf65-435d-9ad3-ba5090471d01
@@ -10,6 +10,8 @@ f1_keywords:
 - project
 - copy precisely
 - copy quotation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy project quotations 
@@ -68,5 +70,5 @@ Use the following procedure to copy all or part of a project quotation.
 [Generate and manage project quotations](generate-and-manage-project-quotations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

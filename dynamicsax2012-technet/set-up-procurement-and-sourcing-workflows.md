@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Procurement and sourcing workflows
 TOCTitle: Set up Procurement and sourcing workflows
 ms:assetid: e8a8595c-859a-4549-93a1-015f3086d0b2
@@ -13,6 +13,8 @@ f1_keywords:
 - sourcing
 - purchasing
 - procurement and sourcing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up Procurement and sourcing workflows 
@@ -162,5 +164,5 @@ You can assign an approval step to the following groups of participants.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reorganize transactions
 TOCTitle: Reorganize transactions
 ms:assetid: 07d75286-c2ff-42c7-ad12-f91141d83fd3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569727(v=AX.60)
 ms:contentKeyID: 36966679
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reorganize transactions 
@@ -104,5 +106,5 @@ This information describes how to reorganize customer transactions that are in a
 [Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

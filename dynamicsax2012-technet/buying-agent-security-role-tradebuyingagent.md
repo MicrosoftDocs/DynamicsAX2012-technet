@@ -1,4 +1,4 @@
-﻿---
+---
 title: Buying agent security role (TradeBuyingAgent)
 TOCTitle: Buying agent security role (TradeBuyingAgent)
 ms:assetid: b226b369-9fad-411b-868e-afd66884d4d2
@@ -155,7 +155,7 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </tr>
 <tr class="odd">
 <td><p>View fiscal document source texts</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This duty is assigned to the role only in Microsoft Dynamics AX 2012 R2.</P>
@@ -195,5 +195,5 @@ In Microsoft Dynamics AX 2012 R2, this security role is assigned the following p
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

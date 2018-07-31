@@ -1,4 +1,4 @@
-﻿---
+---
 title: Additional country/region-specific information
 TOCTitle: Additional country/region-specific information
 ms:assetid: 076bfa52-2f2d-4633-b1d9-8aae375f73a9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730942(v=AX.60)
 ms:contentKeyID: 49675063
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Additional country/region-specific information 
@@ -46,5 +48,5 @@ Help content includes conceptual, procedural, and form information for these cou
 Forms can be modified to provide functionality for specific business situations or for specific countries or regions. If a modified form exists, you can view Help for the standard form or the modified form when you press F1.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Contact customer and gather requirements
 TOCTitle: Contact customer and gather requirements
 ms:assetid: 868674e7-84a0-494f-a148-5ae1504d9bde
@@ -11,6 +11,8 @@ f1_keywords:
 - customer
 - customers
 - requirement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Contact customer and gather requirements 
@@ -23,5 +25,5 @@ The topics in this section provide information about how to contact customers an
 [Create a customer group](create-a-customer-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

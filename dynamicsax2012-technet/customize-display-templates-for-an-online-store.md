@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customize display templates for an online store
 TOCTitle: Customize display templates for an online store
 ms:assetid: fb5d84ba-7d57-486a-b6b1-d7579258ac12
@@ -74,5 +74,5 @@ The following table describes three display templates that you can modify.
 [How to: Create a display template in SharePoint Server 2013](http://msdn.microsoft.com/en-us/library/jj945138.aspx)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

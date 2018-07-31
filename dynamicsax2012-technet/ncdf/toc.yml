@@ -230,8 +230,6 @@
       items:
       - name: AxBuild.exe for faster X++ compiles on AOS
         href: ..\what-s-new-axbuild-exe-for-faster-x-compiles-on-aos.md
-      - name: AxErd tool for discovery of table relationships
-        href: ..\what-s-new-axerd-tool-for-discovery-of-table-relationships.md
       - name: Code Upgrade Service for Microsoft Dynamics AX
         href: ..\what-s-new-code-upgrade-service-for-microsoft-dynamics-ax.md
       - name: Combine XPO Tool for Microsoft Dynamics AX
@@ -256,8 +254,6 @@
         href: ..\what-s-new-security-upgrade-advisor-tool-for-microsoft-dynamics-ax.md
       - name: Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012
         href: ..\what-s-new-test-data-transfer-tool-beta-for-microsoft-dynamics-ax-2012.md
-      - name: WebSearchAX
-        href: ..\what-s-new-websearchax.md
     - name: Deprecated features
       href: ..\deprecated-features.md
       items:

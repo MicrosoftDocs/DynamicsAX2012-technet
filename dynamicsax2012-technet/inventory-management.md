@@ -1,4 +1,4 @@
-﻿---
+---
 title: Inventory management
 TOCTitle: Inventory management
 ms:assetid: fe841168-60a4-49d4-8cf5-4eab8b1cd0ed
@@ -16,6 +16,8 @@ f1_keywords:
 - warehouse activities
 - quality assurance
 - shipments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Inventory management 
@@ -89,5 +91,5 @@ Inventory management can be integrated with the following Microsoft products:
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

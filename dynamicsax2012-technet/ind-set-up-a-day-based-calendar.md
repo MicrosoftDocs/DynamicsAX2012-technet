@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up a day-based calendar
 TOCTitle: (IND) Set up a day-based calendar
 ms:assetid: 8462b285-8939-45b0-aa5c-a501fa0fe4ba
@@ -12,6 +12,8 @@ f1_keywords:
 - day-based calendar
 - Set up a day-based calendar
 - Set up calendar
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up a day-based calendar 
@@ -60,5 +62,5 @@ Follow these steps to create a day-based fiscal calendar that includes one fisca
 [(IND) Attach a day-based calendar to a fixed asset value model](ind-attach-a-day-based-calendar-to-a-fixed-asset-value-model.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

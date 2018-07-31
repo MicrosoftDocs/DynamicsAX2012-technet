@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create an outbound transfer fiscal document
 TOCTitle: (BRA) Create an outbound transfer fiscal document
 ms:assetid: 5918ea0c-7e09-4527-a6ff-f9d520a8e0fc
@@ -12,6 +12,8 @@ f1_keywords:
 - Transfer fiscal documents
 - Create transfer orders
 - outbound transfer fiscal documents
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create an outbound transfer fiscal document 
@@ -98,5 +100,5 @@ You can click **Inquiries** \> **Transfer order history** in the **Transfer orde
 [(BRA) Set up the CFOP matrix](bra-set-up-the-cfop-matrix.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Verify the NF-e status and print the DANFE
 TOCTitle: (BRA) Verify the NF-e status and print the DANFE
 ms:assetid: dbc0b38d-27eb-45a1-a2aa-e57f4e8d6589
@@ -13,6 +13,8 @@ f1_keywords:
 - Print Documento Auxiliar da Nota Fiscal Eletrônica
 - NF-e status
 - Print DANFE
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Verify the NF-e status and print the DANFE 
@@ -61,5 +63,5 @@ You can verify the status of a Nota Fiscal eletrônica (NF-e). If the NF-e is ap
 [(BRA) Post an NF-e from a tax fiscal document](bra-post-an-nf-e-from-a-tax-fiscal-document.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

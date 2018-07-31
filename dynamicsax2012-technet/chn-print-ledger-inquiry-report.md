@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Print ledger inquiry report
 TOCTitle: (CHN) Print ledger inquiry report
 ms:assetid: 70031459-66be-45a9-991a-559b866d70be
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - CN - 00012
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Print ledger inquiry report 
@@ -86,5 +88,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(CHN) Trial balance (form)](https://technet.microsoft.com/en-us/library/jj664069\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deposit summary by customer report (BankDepositByCustomer)
 TOCTitle: Deposit summary by customer report (BankDepositByCustomer)
 ms:assetid: 788730af-8d36-459b-a614-104624dd6908
@@ -98,5 +98,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Add additional tables to advanced queries](add-additional-tables-to-advanced-queries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

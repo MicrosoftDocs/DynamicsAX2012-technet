@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Generate and export a vendor payment in a telebank format
 TOCTitle: (EST) Generate and export a vendor payment in a telebank format
 ms:assetid: b5ba5bcc-614a-4f65-a993-c66f40dbbe28
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664187(v=AX.60)
 ms:contentKeyID: 49385277
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Generate and export a vendor payment in a telebank format 
@@ -60,5 +62,5 @@ For more information, see [(EST) Set up the export of telebank payments to vendo
 [(EST) Set up the export of telebank payments to vendors](est-set-up-the-export-of-telebank-payments-to-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

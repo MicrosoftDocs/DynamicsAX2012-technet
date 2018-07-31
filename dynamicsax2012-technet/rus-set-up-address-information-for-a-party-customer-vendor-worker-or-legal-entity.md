@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up address information for a party, customer, vendor, worker, or  legal entity
 TOCTitle: (RUS) Set up address information for a party, customer, vendor, worker, or  legal entity
 ms:assetid: 8be84c8a-8758-4d12-9ed7-9e0e1b92e637
@@ -14,6 +14,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - address information
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up address information for a party, customer, vendor, worker, or legal entity 
@@ -76,5 +78,5 @@ In the Russian Federation, regions, states, counties, cities, districts, and str
 [Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

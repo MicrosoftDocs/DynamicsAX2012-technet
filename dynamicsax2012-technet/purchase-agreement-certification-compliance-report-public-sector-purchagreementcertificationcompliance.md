@@ -1,4 +1,4 @@
-﻿---
+---
 title: Purchase agreement certification compliance report (Public sector) (PurchAgreementCertificationCompliance)
 TOCTitle: Purchase agreement certification compliance report (Public sector) (PurchAgreementCertificationCompliance)
 ms:assetid: 4af3dba2-8292-47e4-9537-76963b288a56
@@ -133,5 +133,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

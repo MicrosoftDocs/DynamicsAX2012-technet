@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up functionality profiles (Retail essentials)
 TOCTitle: Set up functionality profiles (Retail essentials)
 ms:assetid: 6dc377d8-a0f6-40fe-a884-dac0d2497de2
@@ -70,5 +70,5 @@ Use this procedure to assign a functionality profile to a store.
 [Setting up Retail POS (Retail essentials)](setting-up-retail-pos-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

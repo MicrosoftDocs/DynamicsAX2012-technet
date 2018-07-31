@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Default posting level attribute'
 TOCTitle: Default posting level attribute
 ms:assetid: 10c984f9-6475-403f-9503-c3c6444ab662
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2012, hour journals are used to summarize subledger ent
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

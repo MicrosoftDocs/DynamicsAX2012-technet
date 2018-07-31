@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a journal to post an imported payment
 TOCTitle: (RUS) Set up a journal to post an imported payment
 ms:assetid: eacd238a-7242-45a2-b2d3-4d943f520444
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - imported payment
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a journal to post an imported payment 
@@ -32,5 +34,5 @@ Use the **Cash and bank management parameters** form to set up a journal that yo
 [(RUS) Assign an exchange format to a bank account](rus-assign-an-exchange-format-to-a-bank-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

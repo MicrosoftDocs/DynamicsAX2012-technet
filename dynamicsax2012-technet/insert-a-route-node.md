@@ -1,4 +1,4 @@
-﻿---
+---
 title: Insert a Route node
 TOCTitle: Insert a Route node
 ms:assetid: f4e6c1fd-d93c-49b6-907c-feec179d8a9f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551643(v=AX.60)
 ms:contentKeyID: 36059996
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Insert a Route node 
@@ -44,5 +46,5 @@ The Route node is useful for adding individual route operations to a product mod
 [Product models (form)](https://technet.microsoft.com/en-us/library/aa572853\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

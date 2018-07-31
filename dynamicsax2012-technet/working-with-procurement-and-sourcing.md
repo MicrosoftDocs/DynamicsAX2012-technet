@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Procurement and sourcing
 TOCTitle: Working with Procurement and sourcing
 ms:assetid: 6a9d11c8-da56-4800-acaf-a1b43b96bb4d
@@ -10,6 +10,8 @@ f1_keywords:
 - procurement
 - sourcing
 - purchasing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with Procurement and sourcing 
@@ -30,5 +32,5 @@ The topics in this section provide detailed information about each stage of the 
 [Pay for product or service overview](pay-for-product-or-service-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

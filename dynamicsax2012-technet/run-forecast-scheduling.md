@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run forecast scheduling
 TOCTitle: Run forecast scheduling
 ms:assetid: ef1bb5b0-f496-4baf-8202-a647efc0bda8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551557(v=AX.60)
 ms:contentKeyID: 36059917
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Run forecast scheduling 
@@ -30,5 +32,5 @@ When you have set up your demand, you can run forecast scheduling to calculate g
 [Create forecast lines](create-forecast-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

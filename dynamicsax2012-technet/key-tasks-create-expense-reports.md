@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Create expense reports'
 TOCTitle: 'Key tasks: Create expense reports'
 ms:assetid: 742d423d-fbf4-4459-b44e-0ea5bd39ffac
@@ -16,6 +16,8 @@ f1_keywords:
 - TrvLinkReceipts
 - TrvExpTransAddEdit
 - TrvItemization
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Create expense reports 
@@ -272,5 +274,5 @@ Back to top
 [Reconcile a travel requisition](reconcile-a-travel-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

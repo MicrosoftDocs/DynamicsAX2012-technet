@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budget funds available report (BudgetFundsAvailable)
 TOCTitle: Budget funds available report (BudgetFundsAvailable)
 ms:assetid: d40b0746-2a81-4ee1-8985-7df6b02d7fd8
@@ -155,5 +155,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Budget details report (BudgetDetails)](budget-details-report-budgetdetails.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

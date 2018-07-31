@@ -1,4 +1,4 @@
-﻿---
+---
 title: About posting with derived value models
 TOCTitle: About posting with derived value models
 ms:assetid: b779e5cd-9d80-4452-ad6f-c3928c3340e9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572244(v=AX.60)
 ms:contentKeyID: 36059104
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About posting with derived value models 
@@ -58,5 +60,5 @@ When an acquisition is posted for a fixed asset with value model VM 1, the acqui
 [Set up value models](set-up-value-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

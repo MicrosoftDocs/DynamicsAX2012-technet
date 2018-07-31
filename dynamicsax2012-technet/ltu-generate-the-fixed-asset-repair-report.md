@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Generate the fixed asset repair report
 TOCTitle: (LTU) Generate the fixed asset repair report
 ms:assetid: 516125d5-7e61-4281-b047-a8a4e046dcc7
@@ -12,6 +12,8 @@ f1_keywords:
 - fixed asset repair
 - repair cost
 - acquisition value
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Generate the fixed asset repair report 
@@ -42,5 +44,5 @@ When the repair cost for a fixed asset exceeds 50 percent of its acquisition val
 [(LTU) Repair (form)](https://technet.microsoft.com/en-us/library/jj665105\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

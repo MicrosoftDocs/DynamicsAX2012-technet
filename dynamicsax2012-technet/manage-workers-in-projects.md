@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage workers in projects
 TOCTitle: Manage workers in projects
 ms:assetid: 01b493bc-8690-4112-a8ae-4f0c77aa0aa6
@@ -12,6 +12,8 @@ f1_keywords:
 - category validation
 - period code
 - worker
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage workers in projects 
@@ -102,5 +104,5 @@ Use the following procedures to set up a worker record and define project-specif
 [Workers (form)](https://technet.microsoft.com/en-us/library/aa583961\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

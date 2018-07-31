@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up info code groups
 TOCTitle: Set up info code groups
 ms:assetid: 579ec37c-c563-4481-a716-ef631fbba6d1
@@ -13,6 +13,8 @@ f1_keywords:
 - Infocode
 - link reason code
 - related infocode
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up info code groups 
@@ -47,5 +49,5 @@ To set up info code groups, follow these steps:
 [Set up subcodes](set-up-subcodes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

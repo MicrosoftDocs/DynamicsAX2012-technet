@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Settle vendor consolidated invoices by using a payment journal
 TOCTitle: (JPN) Settle vendor consolidated invoices by using a payment journal
 ms:assetid: 19d07e8a-bd65-430d-819a-87d28c5a14a7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711014(v=AX.60)
 ms:contentKeyID: 49386424
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Settle vendor consolidated invoices by using a payment journal 
@@ -58,5 +60,5 @@ Use the **Settle open transactions** form to settle open transactions that are r
 [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View your purchase order confirmations
 TOCTitle: View your purchase order confirmations
 ms:assetid: fef61f46-3e95-421e-8166-9f90d986b40b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPVendPurchOrderJournalList
 - EPVendPurchOrderJournalListVSS
+audience: Application User
+ms.search.region: Global
 ---
 
 # View your purchase order confirmations 
@@ -41,5 +43,5 @@ You can use the **Purchase order confirmations** page to view a list of purchase
 [View your product receipts](view-your-product-receipts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

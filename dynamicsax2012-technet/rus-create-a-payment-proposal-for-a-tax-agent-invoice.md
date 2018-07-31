@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a payment proposal for a tax agent invoice
 TOCTitle: (RUS) Create a payment proposal for a tax agent invoice
 ms:assetid: 84c98b3f-55bb-4b67-a809-d156879bad79
@@ -12,6 +12,8 @@ f1_keywords:
 - (RUS)
 - Russia
 - tax invoice
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a payment proposal for a tax agent invoice 
@@ -86,5 +88,5 @@ You can use the **Vendor payment proposal** form to create payment proposals tha
 [(RUS) Set up the tax agent transactions](rus-set-up-the-tax-agent-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

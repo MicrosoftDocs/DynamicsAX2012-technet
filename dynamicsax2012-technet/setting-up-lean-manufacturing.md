@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up lean manufacturing
 TOCTitle: Setting up lean manufacturing
 ms:assetid: 64f69232-54da-4ec2-803e-972b146703cb
@@ -20,6 +20,8 @@ f1_keywords:
 - create activities
 - set up kanban rules
 - set up lean manufacturing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up lean manufacturing 
@@ -36,5 +38,5 @@ The topics in this section provide conceptual and procedural information about s
 [Setting up kanban rules](setting-up-kanban-rules.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

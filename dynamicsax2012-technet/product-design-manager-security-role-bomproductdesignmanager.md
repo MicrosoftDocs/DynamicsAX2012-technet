@@ -1,4 +1,4 @@
-﻿---
+---
 title: Product design manager security role (BOMProductDesignManager)
 TOCTitle: Product design manager security role (BOMProductDesignManager)
 ms:assetid: 8e93bff5-5232-4d7b-a551-dccd01a49cc4
@@ -221,5 +221,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change status on the call list
 TOCTitle: Change status on the call list
 ms:assetid: c8b626db-f312-4e01-ac06-2a05d0294122
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550869(v=AX.60)
 ms:contentKeyID: 36059322
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change status on the call list 
@@ -100,5 +102,5 @@ The following table lists the changes that are possible for each original status
     You can change the status to **Open**, **Call back**, **Closed**, or **Canceled**. To change the status on a call list to **Open**, you must change the status of a target of the call list.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

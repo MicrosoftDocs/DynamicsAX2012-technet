@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Retail essentials at the store or at the point of sale
 TOCTitle: Install Retail essentials at the store or at the point of sale
 ms:assetid: 1ad177a8-6fa2-4b42-87b0-ea60c84683d5
@@ -361,5 +361,5 @@ Use this procedure to install Retail essentials on point of sale devices. If you
   - If you’re using the Modern POS client, start the Retail Modern POS app. In the **Device Activation** page, enter the URL for Retail Server. After you enter the URL, the device is queued in the Microsoft Dynamics AX client, where it must be approved. After the device has been approved, the client is ready to use.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

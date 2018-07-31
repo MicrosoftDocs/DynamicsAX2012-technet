@@ -1,4 +1,4 @@
-﻿---
+---
 title: View reservations on items
 TOCTitle: View reservations on items
 ms:assetid: 3d0b73bd-9d18-4c75-a3a6-dae53a2b84a1
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - item reservation
+audience: Application User
+ms.search.region: Global
 ---
 
 # View reservations on items 
@@ -44,5 +46,5 @@ You can view reservations per inventory dimension and per order. In the **On-han
 2.  Click **OK** to view the items that are on-hand.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

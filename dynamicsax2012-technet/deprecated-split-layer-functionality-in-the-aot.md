@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Split layer functionality in the AOT'
 TOCTitle: Split layer functionality in the AOT
 ms:assetid: b44ce731-12b2-42a0-9380-d1d002cf21d2
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, you can view multiple layers in the Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

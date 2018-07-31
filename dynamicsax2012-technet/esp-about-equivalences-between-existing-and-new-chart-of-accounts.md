@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) About equivalences between existing and new chart of accounts
 TOCTitle: (ESP) About equivalences between existing and new chart of accounts
 ms:assetid: 2ee68fad-bae6-4f4d-a616-d2419d3c91c8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Spain
 - chart of accounts
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) About equivalences between existing and new chart of accounts 
@@ -26,5 +28,5 @@ The reorganized chart of accounts contains the ledger accounts that belonged to 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

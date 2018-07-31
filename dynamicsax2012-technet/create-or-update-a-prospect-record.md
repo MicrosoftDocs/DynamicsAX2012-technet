@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or update a prospect record
 TOCTitle: Create or update a prospect record
 ms:assetid: 0e5d0be1-4049-42a1-9426-6ad09bf25fd1
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - prospect record
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or update a prospect record 
@@ -40,5 +42,5 @@ Prospects are the organizations and individuals with whom you will potentially i
 3.  Make changes to the record, and then click **Close**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

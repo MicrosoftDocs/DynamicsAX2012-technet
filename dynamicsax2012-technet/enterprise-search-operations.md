@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Search operations
 TOCTitle: Enterprise Search operations
 ms:assetid: 98767015-42e2-4eb3-8f58-7d0e88ca559e
@@ -20,5 +20,5 @@ The topics in this section provide information about how to configure and mainta
 [Import Search configurations to an AOS](import-search-configurations-to-an-aos.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

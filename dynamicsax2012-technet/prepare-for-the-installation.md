@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prepare for the installation
 TOCTitle: Prepare for the installation
 ms:assetid: f0a5e338-6e2c-4f5d-a23d-08bbfe71b4b6
@@ -20,5 +20,5 @@ The topics in this section provide an overview of the installation process and e
 [Before you begin](before-you-begin.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

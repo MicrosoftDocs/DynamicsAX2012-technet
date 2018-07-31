@@ -1,4 +1,4 @@
-﻿---
+---
 title: Developing on the Help server
 TOCTitle: Developing on the Help server
 ms:assetid: 4a6d905d-ed67-4464-af11-2a3438d593cb
@@ -26,5 +26,5 @@ You can customize the Help system in Microsoft Dynamics AX in the following ways
 To learn how to perform these customization tasks, see the MSDN developer documentation, [Help System Development](http://msdn.microsoft.com/en-us/library/gg882383.aspx).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

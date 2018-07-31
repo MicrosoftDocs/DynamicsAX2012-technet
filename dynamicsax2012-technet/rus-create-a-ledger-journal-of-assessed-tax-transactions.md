@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a ledger journal of assessed tax transactions
 TOCTitle: (RUS) Create a ledger journal of assessed tax transactions
 ms:assetid: a61c3264-92d0-4c95-896f-a1b56a17fda6
@@ -10,6 +10,8 @@ f1_keywords:
 - Russia
 - assessed tax
 - ledger journal
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a ledger journal of assessed tax transactions 
@@ -48,5 +50,5 @@ For more information, see [(RUS) Set up the calculation of assessed tax](rus-set
 [(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Drain users from an AOS
 TOCTitle: Drain users from an AOS
 ms:assetid: d19bd816-cd9e-423a-94c7-aceb946baa30
@@ -40,5 +40,5 @@ This topic describes how to close client sessions that are connected to an insta
 [Manage load balancing](manage-load-balancing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

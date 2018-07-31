@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up training course information
 TOCTitle: Setting up training course information
 ms:assetid: c5b449e7-9373-460e-982e-b1d712965f07
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ851109(v=AX.60)
 ms:contentKeyID: 50173425
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up training course information 
@@ -24,5 +26,5 @@ Topics in this section contain information about how to set up training course f
 [Set up course instructors](set-up-course-instructors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

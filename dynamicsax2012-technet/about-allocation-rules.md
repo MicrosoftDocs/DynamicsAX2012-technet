@@ -1,4 +1,4 @@
-﻿---
+---
 title: About allocation rules
 TOCTitle: About allocation rules
 ms:assetid: f562dbeb-3d11-4a93-b22d-5595ffb5bc54
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ff395364(v=AX.60)
 ms:contentKeyID: 36059999
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About allocation rules 
@@ -80,5 +82,5 @@ You can manually select ledger allocation rules to use for budget plans. For mor
 [Process an allocation request](process-an-allocation-request.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Set up PRODCOM reporting
 TOCTitle: (BEL) Set up PRODCOM reporting
 ms:assetid: c2899c84-a44a-487c-844f-fb7bf1348943
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213635(v=AX.60)
 ms:contentKeyID: 36059281
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Set up PRODCOM reporting 
@@ -48,5 +50,5 @@ Use this procedure to set up the parameters for PRODCOM reporting.
 [(BEL) Convert Intrastat to PRODCOM](bel-convert-intrastat-to-prodcom.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

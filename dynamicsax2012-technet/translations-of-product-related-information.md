@@ -1,4 +1,4 @@
-﻿---
+---
 title: Translations of product-related information
 TOCTitle: Translations of product-related information
 ms:assetid: 32f7ca74-fc11-4b98-96a8-5b53316793d6
@@ -11,6 +11,8 @@ f1_keywords:
 - product-related translation
 - product-related translations
 - product translations
+audience: Application User
+ms.search.region: Global
 ---
 
 # Translations of product-related information 
@@ -148,5 +150,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

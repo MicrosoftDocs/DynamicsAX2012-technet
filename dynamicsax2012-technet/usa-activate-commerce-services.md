@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Activate Commerce Services
 TOCTitle: (USA) Activate Commerce Services
 ms:assetid: 5218e681-65f3-49de-b92c-681f3c18085b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh696876(v=AX.60)
 ms:contentKeyID: 42517322
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Activate Commerce Services 
@@ -50,5 +52,5 @@ For information about the other steps, see “Related topics” at the end of th
 [(USA) Migrate the Commerce Services data](usa-migrate-the-commerce-services-data.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

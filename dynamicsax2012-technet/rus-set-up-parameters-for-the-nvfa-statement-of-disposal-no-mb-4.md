@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up parameters for the NVFA statement of disposal (No. MB-4)
 TOCTitle: (RUS) Set up parameters for the NVFA statement of disposal (No. MB-4)
 ms:assetid: 15e13674-c7c6-4013-a6ca-7bd058a58440
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853157(v=AX.60)
 ms:contentKeyID: 50396439
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up parameters for the NVFA statement of disposal (No. MB-4) 
@@ -32,5 +34,5 @@ Companies are required to generate a unified NVFA Statement of disposal (No. MB-
 [(RUS) About NVFAs, working clothes, and special rigging accounting](rus-about-nvfas-working-clothes-and-special-rigging-accounting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

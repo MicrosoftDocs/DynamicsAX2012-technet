@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Quick Guide: How to customize a Microsoft Dynamics AX for Retail online store'
 TOCTitle: 'Quick Guide: How to customize an online store'
 ms:assetid: bf349222-f278-446f-bc27-e2fb2bf53ba0
@@ -195,5 +195,5 @@ To deploy a customized Retail online store into a production environment, you mu
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

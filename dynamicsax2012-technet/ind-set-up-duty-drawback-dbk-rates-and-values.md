@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up duty drawback (DBK) rates and values
 TOCTitle: (IND) Set up duty drawback (DBK) rates and values
 ms:assetid: 08cbb79a-c114-4217-8a06-6b9b912095f9
@@ -11,6 +11,8 @@ f1_keywords:
 - india
 - DBK rates
 - DBK values
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up duty drawback (DBK) rates and values 
@@ -105,5 +107,5 @@ You must create a product group before you can create duty drawback rates and va
 [(IND) Duty drawback values (form)](https://technet.microsoft.com/en-us/library/jj664528\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

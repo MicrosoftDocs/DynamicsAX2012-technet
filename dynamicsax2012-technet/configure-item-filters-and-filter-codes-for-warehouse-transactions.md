@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure item filters and filter codes for warehouse transactions
 TOCTitle: Configure item filters and filter codes for warehouse transactions
 ms:assetid: 08c78a1b-68fb-460f-ba80-b1fbf9f54663
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553148(v=AX.60)
 ms:contentKeyID: 62524894
 ms.date: 06/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure item filters and filter codes for warehouse transactions 
@@ -136,5 +138,5 @@ To set up vendor filter codes, follow these steps:
 [Set up filters and filter groups](set-up-filters-and-filter-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) View and resolve exceptions for Sites Services
 TOCTitle: (USA) View and resolve exceptions for Sites Services
 ms:assetid: 67287dbf-81aa-4f3a-b75f-23071c2fff11
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242590(v=AX.60)
 ms:contentKeyID: 36057940
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) View and resolve exceptions for Sites Services 
@@ -74,5 +76,5 @@ You can view and resolve exceptions in Microsoft Dynamics AX that occur when you
 [(USA) Use logging for troubleshooting Sites Services](usa-use-logging-for-troubleshooting-sites-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

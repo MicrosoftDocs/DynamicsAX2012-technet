@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Return working clothes or special rigging to the warehouse
 TOCTitle: (RUS) Return working clothes or special rigging to the warehouse
 ms:assetid: ce2d7273-c8be-4163-9d46-19726e9bd335
@@ -10,6 +10,8 @@ f1_keywords:
 - Russia
 - special rigging
 - working clothes
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Return working clothes or special rigging to the warehouse 
@@ -66,5 +68,5 @@ Use this procedure to return a working clothes item or special rigging item to a
 [(RUS) Working clothes (form)](https://technet.microsoft.com/en-us/library/jj923545\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Post a paper sales invoice with a tax directive
 TOCTitle: (EST) Post a paper sales invoice with a tax directive
 ms:assetid: 30bb541a-418f-4135-9aba-8ed6d10b6d19
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710819(v=AX.60)
 ms:contentKeyID: 49385215
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Post a paper sales invoice with a tax directive 
@@ -44,5 +46,5 @@ You can print the paragraph for tax directives on a sales invoice.
 [(EEUR) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj710689\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

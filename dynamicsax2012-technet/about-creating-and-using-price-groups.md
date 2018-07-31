@@ -1,4 +1,4 @@
-﻿---
+---
 title: About creating and using price groups
 TOCTitle: About creating and using price groups
 ms:assetid: bc697b30-85bc-491a-ac95-7dd6608b5c77
@@ -10,6 +10,8 @@ f1_keywords:
 - price group
 - sales price
 - trade agreement
+audience: Application User
+ms.search.region: Global
 ---
 
 # About creating and using price groups 
@@ -46,5 +48,5 @@ In **Project management and accounting**, sales prices for item transactions are
 [Inventory journal (form)](https://technet.microsoft.com/en-us/library/aa558607\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

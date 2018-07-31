@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Set up the method of payment for BG direct debit payments
 TOCTitle: (SWE) Set up the method of payment for BG direct debit payments
 ms:assetid: eee442b8-6878-4b87-a424-1d83e5fc8258
@@ -10,6 +10,8 @@ f1_keywords:
 - Sweden
 - Bankgirot
 - direct debit
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Set up the method of payment for BG direct debit payments 
@@ -48,5 +50,5 @@ You can request a refund on a processed direct debit payment transaction using t
 [(SWE) Import BG direct debit payment returns to a general journal](swe-import-bg-direct-debit-payment-returns-to-a-general-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

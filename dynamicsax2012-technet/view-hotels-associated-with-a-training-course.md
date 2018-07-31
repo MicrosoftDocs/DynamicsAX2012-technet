@@ -1,4 +1,4 @@
-﻿---
+---
 title: View hotels associated with a training course
 TOCTitle: View hotels associated with a training course
 ms:assetid: 802072b0-056c-4ad4-8951-d334601f8286
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - HcmEPCourseHotel
+audience: Application User
+ms.search.region: Global
 ---
 
 # View hotels associated with a training course 
@@ -42,5 +44,5 @@ Use the **View hotels** page to view information about the hotels associated wit
 [View the agenda for a training course](view-the-agenda-for-a-training-course.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About 175 percent reducing balance depreciation
 TOCTitle: About 175 percent reducing balance depreciation
 ms:assetid: e19bd976-dec2-4bfa-9f8c-debafe9a8fd2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551353(v=AX.60)
 ms:contentKeyID: 36059711
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About 175 percent reducing balance depreciation 
@@ -135,5 +137,5 @@ The **175% reducing balance** method will divide 175% by the service life years.
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Generate the Italian fixed asset book report after disposal of a fixed asset
 TOCTitle: (ITA) Generate the Italian fixed asset book report after disposal of a fixed asset
 ms:assetid: ceff3382-7b0d-496b-9f16-1b2fe1e0436a
@@ -12,6 +12,8 @@ f1_keywords:
 - fixed assets
 - disposal
 - fixed asset book
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Generate the Italian fixed asset book report after disposal of a fixed asset 
@@ -186,5 +188,5 @@ Click **General ledger** \> **Setup** \> **Journals** \> **Journal names**. Use 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

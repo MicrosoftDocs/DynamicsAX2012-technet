@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Enter the authorization approval details for DFIA
 TOCTitle: (IND) Enter the authorization approval details for DFIA
 ms:assetid: de12cc62-5cad-4cdf-98c9-26121af7136f
@@ -12,6 +12,8 @@ f1_keywords:
 - India
 - DFIA
 - authorization approval
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Enter the authorization approval details for DFIA 
@@ -72,5 +74,5 @@ After the customs authority approves your application for a Duty Free Import Aut
 [(IND) Set up EXIM authorization schemes for DFIA](ind-set-up-exim-authorization-schemes-for-dfia.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

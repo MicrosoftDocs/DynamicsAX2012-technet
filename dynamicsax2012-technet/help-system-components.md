@@ -1,4 +1,4 @@
-﻿---
+---
 title: Help System Components
 TOCTitle: Help System Components
 ms:assetid: 9913bc81-fa57-4401-8546-7dc50c01e32e
@@ -177,5 +177,5 @@ To support the Help system, the AOS performs the following actions.
   - The AOS returns the text associated with a label. A label is the localized text you see in the user interface of the Microsoft Dynamics AX client. The Help web service retrieves label text and adds that text to the HTML of the document file. This allows the text in the documentation to match the text and language found in the user interface of the Microsoft Dynamics AX client.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

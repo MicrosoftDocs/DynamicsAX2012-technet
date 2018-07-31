@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add a functional area to a template in RapidStart Services
 TOCTitle: Add a functional area to a template in RapidStart Services
 ms:assetid: d287609e-927b-4db3-a3a5-d4ad979ee277
@@ -51,5 +51,5 @@ After you add question groups to a functional area in Microsoft Dynamics ERP Rap
 [Publish a template in RapidStart Services](publish-a-template-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (THA, SAU, GBR, IRL) Set up a withholding tax settlement period and attach a withholding tax code
 TOCTitle: (THA, SAU, GBR, IRL) Set up a withholding tax settlement period and attach a withholding tax code
 ms:assetid: 0606980d-fb52-4358-aeab-1e2589fc960d
@@ -10,6 +10,8 @@ f1_keywords:
 - Thailand
 - settlement period
 - withholding tax
+audience: Application User
+ms.search.region: Ireland, Saudi Arabia,Thailand, United Kingdom
 ---
 
 # (THA, SAU, GBR, IRL) Set up a withholding tax settlement period and attach a withholding tax code 
@@ -98,5 +100,5 @@ When you collect withholding taxes on behalf of the government, you must settle 
 [(THA, SAU, GBR, IRL) Set up a withholding tax code](tha-sau-gbr-irl-set-up-a-withholding-tax-code.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

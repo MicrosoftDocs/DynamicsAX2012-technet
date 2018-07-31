@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create, post, and print a by-product journal from a route card journal
 TOCTitle: (RUS) Create, post, and print a by-product journal from a route card journal
 ms:assetid: 4f2e5000-7800-4c2b-a73b-283471a9d3cd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665373(v=AX.60)
 ms:contentKeyID: 49387461
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create, post, and print a by-product journal from a route card journal 
@@ -40,5 +42,5 @@ Use the **Production journal lines, route card** form to record material and res
 [(RUS) Create a by-product journal name](rus-create-a-by-product-journal-name.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

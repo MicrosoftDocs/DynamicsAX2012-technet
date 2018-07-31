@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Cash and bank management
 TOCTitle: (BRA) Cash and bank management
 ms:assetid: e31ad234-2109-4ac9-adc2-26ba1402a9f2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663961(v=AX.60)
 ms:contentKeyID: 49384545
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Cash and bank management 
@@ -22,5 +24,5 @@ The topics in this section provide more information about Cash and bank manageme
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

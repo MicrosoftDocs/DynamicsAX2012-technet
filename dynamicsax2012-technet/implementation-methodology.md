@@ -1,4 +1,4 @@
-﻿---
+---
 title: Implementation methodology
 TOCTitle: Implementation methodology
 ms:assetid: 0d83de72-38be-49af-99c9-25e82ce52c4c
@@ -119,5 +119,5 @@ The Sure Step methodology also provides guidance for the following areas:
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

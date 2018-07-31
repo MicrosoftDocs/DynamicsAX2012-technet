@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor payment retention report (PSAVendorRetention)
 TOCTitle: Vendor payment retention report (PSAVendorRetention)
 ms:assetid: 98847e5e-8471-4388-983c-9abb4113ddae
@@ -153,5 +153,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Vendor invoices with retention (form)](https://technet.microsoft.com/en-us/library/hh209594\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

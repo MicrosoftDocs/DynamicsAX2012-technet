@@ -1,4 +1,4 @@
-﻿---
+---
 title: About receiving partial deliveries of returned items
 TOCTitle: About receiving partial deliveries of returned items
 ms:assetid: 547a8652-742a-4216-8f86-645e714744d7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212798(v=AX.60)
 ms:contentKeyID: 36057307
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About receiving partial deliveries of returned items 
@@ -40,5 +42,5 @@ If a return shipment contains less than the full quantity of a return order line
 [Register the receipt of returned items](register-the-receipt-of-returned-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

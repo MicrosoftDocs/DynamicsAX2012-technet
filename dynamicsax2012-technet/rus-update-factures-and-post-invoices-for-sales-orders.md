@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Update factures and post invoices for sales orders
 TOCTitle: (RUS) Update factures and post invoices for sales orders
 ms:assetid: b9edf944-bc8f-4df6-a84f-eceb9ae4759a
@@ -10,6 +10,8 @@ f1_keywords:
 - invoice
 - packing slip
 - facture
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Update factures and post invoices for sales orders 
@@ -50,5 +52,5 @@ You can post sales order invoices that are based on packing slips that include d
 [(RUS) Facture journal (form)](https://technet.microsoft.com/en-us/library/jj923567\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

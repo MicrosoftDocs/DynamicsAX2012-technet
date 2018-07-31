@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and maintain purchase requisitions
 TOCTitle: Create and maintain purchase requisitions
 ms:assetid: f570cb1a-077f-4932-b423-2b76a6927a7a
@@ -26,6 +26,8 @@ f1_keywords:
 - PurchReqMyDirectReports
 - PurchReqPreparedByMe
 - PurchReqTableListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and maintain purchase requisitions 
@@ -290,5 +292,5 @@ You can submit only purchase requisitions that you created to workflow. All requ
 [Copy a purchase requisition](copy-a-purchase-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

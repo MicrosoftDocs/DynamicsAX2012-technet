@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Invoice customers
 TOCTitle: (IND) Invoice customers
 ms:assetid: 0ab46f94-5d5e-4306-86db-59dbd5d69ea4
@@ -11,6 +11,8 @@ f1_keywords:
 - Invoice
 - India
 - IND
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Invoice customers 
@@ -33,5 +35,5 @@ The following topics provide information about invoicing customers.
 [(IND) Updating taxes in a posted corrected invoice](ind-updating-taxes-in-a-posted-corrected-invoice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

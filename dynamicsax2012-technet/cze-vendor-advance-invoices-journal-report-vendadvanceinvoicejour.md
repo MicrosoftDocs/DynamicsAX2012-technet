@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Vendor advance invoices journal report (VendAdvanceInvoiceJour)
 TOCTitle: (CZE) Vendor advance invoices journal report (VendAdvanceInvoiceJour)
 ms:assetid: f82747c7-39be-4727-9f67-25da4221dfaf
@@ -42,7 +42,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Currency</strong></p></td>
 <td><p>Click <strong>Select</strong>. In the <strong>VendAdvanceInvoiceJour</strong> form, in the <strong>Criteria</strong> field, select a currency to include on the report. To select more than one currency, click <strong>Add</strong>, and then enter the criteria in the row just added.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If you do not select a currency, all currencies used by all vendors are included on the report.</P>
@@ -141,5 +141,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

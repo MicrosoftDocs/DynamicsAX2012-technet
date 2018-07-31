@@ -1,4 +1,4 @@
-﻿---
+---
 title: About registration for manufacturing execution
 TOCTitle: About registration for manufacturing execution
 ms:assetid: 2a9370c0-8164-4b83-894e-aa2dd08fcb18
@@ -14,6 +14,8 @@ f1_keywords:
 - hour
 - hours
 - manufacturing execution
+audience: Application User
+ms.search.region: Global
 ---
 
 # About registration for manufacturing execution 
@@ -128,5 +130,5 @@ Workers can make various types of registrations in manufacturing execution for w
 [View daily registrations in manufacturing execution](view-daily-registrations-in-manufacturing-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About output orders
 TOCTitle: About output orders
 ms:assetid: b2b3179b-eeda-40ec-9ba1-c756188117be
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571884(v=AX.60)
 ms:contentKeyID: 37832526
 ms.date: 04/28/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About output orders 
@@ -34,5 +36,5 @@ The corresponding function for a purchase order is the item arrival journal.
 [About picking routes](about-picking-routes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

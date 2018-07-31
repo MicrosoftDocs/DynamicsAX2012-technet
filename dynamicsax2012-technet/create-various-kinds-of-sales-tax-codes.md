@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create various kinds of sales tax codes
 TOCTitle: Create various kinds of sales tax codes
 ms:assetid: ac8bec09-b20f-4b28-8569-88d82793a326
@@ -10,6 +10,8 @@ f1_keywords:
 - packing duty sales tax code
 - purchase duty sales tax code
 - sales tax codes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create various kinds of sales tax codes 
@@ -104,5 +106,5 @@ You can create a sales tax code to be used as a purchase duty.
 [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

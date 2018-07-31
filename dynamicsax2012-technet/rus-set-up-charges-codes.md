@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up charges codes
 TOCTitle: (RUS) Set up charges codes
 ms:assetid: 97ec79a4-537b-4811-9e63-788e5d154285
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923564(v=AX.60)
 ms:contentKeyID: 52075411
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up charges codes 
@@ -46,5 +48,5 @@ Use the **Charges code** form to set up charges codes.
 [(RUS) Charges code (modified form)](https://technet.microsoft.com/en-us/library/jj853250\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

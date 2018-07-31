@@ -1,4 +1,4 @@
-﻿---
+---
 title: Estonia
 TOCTitle: Estonia
 ms:assetid: f9ace311-be08-4686-a51c-1c9d77841ac8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664209(v=AX.60)
 ms:contentKeyID: 49385298
 ms.date: 03/22/2017
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Estonia 
@@ -26,5 +28,5 @@ For additional information about localization features, refer to the [Microsoft 
 Forms can be modified to provide functionality for specific business situations or for specific countries or regions. If a modified form exists, you can view Help for the standard form or the modified form when you press F1.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

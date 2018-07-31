@@ -1,4 +1,4 @@
-﻿---
+---
 title: Order products
 TOCTitle: Order products
 ms:assetid: a75e46dc-6726-4bfb-9d0c-4417d78b8ad4
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271619(v=AX.60)
 ms:contentKeyID: 36384251
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Order products 
@@ -26,5 +28,5 @@ This section contains the following topics:
 [View and maintain orders and statuses](view-and-maintain-orders-and-statuses.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

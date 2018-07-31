@@ -1,4 +1,4 @@
-﻿---
+---
 title: View the shopping cart
 TOCTitle: View the shopping cart
 ms:assetid: 96b26f6a-cb4a-4901-8402-3b764f9b49cc
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - EPCSSSalesBasket
+audience: Application User
+ms.search.region: Global
 ---
 
 # View the shopping cart 
@@ -38,5 +40,5 @@ You can use Enterprise Portal to order items online. Before placing your order, 
 [View catalog and campaign items](view-catalog-and-campaign-items.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

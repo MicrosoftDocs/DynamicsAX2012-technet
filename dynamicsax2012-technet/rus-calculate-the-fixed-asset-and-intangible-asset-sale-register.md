@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the fixed asset and intangible asset sale register
 TOCTitle: (RUS) Calculate the fixed asset and intangible asset sale register
 ms:assetid: f987a264-d6b5-46b3-90ad-f4aa5e35b924
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678647(v=AX.60)
 ms:contentKeyID: 49388129
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the fixed asset and intangible asset sale register 
@@ -50,5 +52,5 @@ You must set up the **FA/IA sale** register in the **Tax registers** form and cr
 [(RUS) Recalculate registers](rus-recalculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

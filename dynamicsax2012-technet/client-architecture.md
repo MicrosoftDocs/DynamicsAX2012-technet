@@ -1,4 +1,4 @@
-﻿---
+---
 title: Client architecture
 TOCTitle: Client architecture
 ms:assetid: 11025338-70dd-4bba-8c13-37c58779f1c5
@@ -64,5 +64,5 @@ The following figure illustrates the high-level client architecture.
 [System architecture](system-architecture.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up hardware profiles
 TOCTitle: Set up hardware profiles
 ms:assetid: b635525a-0fde-477f-a122-a6a149038f67
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597217(v=AX.60)
 ms:contentKeyID: 39519289
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up hardware profiles 
@@ -87,5 +89,5 @@ A hardware profile contains information about the hardware that is connected to 
 [POS hardware profile (form)](https://technet.microsoft.com/en-us/library/hh580636\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

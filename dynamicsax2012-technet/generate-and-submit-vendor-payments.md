@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate and submit vendor payments
 TOCTitle: Generate and submit vendor payments
 ms:assetid: 1308d8d9-548a-4da5-b0c6-635e2ab92560
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - vendor payments
 - vendor payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate and submit vendor payments 
@@ -33,5 +35,5 @@ The following topics provide information about generating and submitting vendor 
 [Work with vendor rebates](work-with-vendor-rebates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

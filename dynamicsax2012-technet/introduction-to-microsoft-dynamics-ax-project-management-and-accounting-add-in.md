@@ -1,4 +1,4 @@
-﻿---
+---
 title: Introduction to Microsoft Dynamics AX Project Management and Accounting Add-in
 TOCTitle: Introduction to Microsoft Dynamics AX Project Management and Accounting Add-in
 ms:assetid: 59a18425-f0c1-4715-b1ea-35d8df708917
@@ -14,6 +14,8 @@ f1_keywords:
 - pay when paid
 - retainage
 - worker services
+audience: Application User
+ms.search.region: Global
 ---
 
 # Introduction to Microsoft Dynamics AX Project Management and Accounting Add-in 
@@ -62,5 +64,5 @@ The Project Management and Accounting Add-in includes the following features:
 Before you begin to work in the Project Management and Accounting Add-in, set up parameters for project management and accounting. For more information, see [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\)). By presetting these values, you can automate some of the data entry when you create documents for Project Management and Accounting Add-in transactions. You can override some of the default values when you create documents. For more information, see [About Project management and accounting parameters](about-project-management-and-accounting-parameters.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

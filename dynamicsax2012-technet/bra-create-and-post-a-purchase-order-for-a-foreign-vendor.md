@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post a purchase order for a foreign vendor
 TOCTitle: (BRA) Create and post a purchase order for a foreign vendor
 ms:assetid: f32e0584-ed77-4ea1-af42-9cacaa38319f
@@ -11,6 +11,8 @@ f1_keywords:
 - Forms.VendEditInvoice
 - MsDynAx060.Forms.PurchTable
 - MsDynAx060.Forms.VendEditInvoice
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post a purchase order for a foreign vendor 
@@ -82,5 +84,5 @@ Before you can create and post the purchase order for a foreign vendor, you must
 [(BRA) About import fiscal documents](bra-about-import-fiscal-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

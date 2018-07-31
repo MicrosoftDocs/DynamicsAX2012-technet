@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Set up a matrix and generate a dimension matrix report
 TOCTitle: (CHN) Set up a matrix and generate a dimension matrix report
 ms:assetid: b2aed1fb-79ff-40e7-8007-3a7e1adf8d56
@@ -12,6 +12,8 @@ f1_keywords:
 - Chinese reports
 - Chinese vouchers
 - subdimensions
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Set up a matrix and generate a dimension matrix report 
@@ -62,5 +64,5 @@ The **Matrix dimension** report displays the voucher date, voucher number, vouch
 [(CHN) Dimension matrix report (form)](https://technet.microsoft.com/en-us/library/jj663994\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

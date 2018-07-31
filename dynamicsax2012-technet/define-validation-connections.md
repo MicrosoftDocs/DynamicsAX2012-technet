@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define validation connections
 TOCTitle: Define validation connections
 ms:assetid: e3ec8fe1-e6cc-44a3-bb83-e019f620efb2
@@ -10,6 +10,8 @@ f1_keywords:
 - project
 - worker
 - validation connection
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define validation connections 
@@ -97,5 +99,5 @@ You can associate a worker and a project from either the **Worker** form or the 
 [Category validation worker assignments (form)](https://technet.microsoft.com/en-us/library/aa619209\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

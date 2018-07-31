@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain open product releases
 TOCTitle: Maintain open product releases
 ms:assetid: e00eea92-6d49-46b8-b58e-05c4eb1657f8
@@ -10,6 +10,8 @@ f1_keywords:
 - open product release
 - products to release
 - product to be released
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain open product releases 
@@ -84,5 +86,5 @@ Open product releases can be tracked from the **Open product releases** form. Fr
 [Key tasks: Release products](key-tasks-release-products.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View notifications
 TOCTitle: View notifications
 ms:assetid: b59768e6-798b-4fdb-b826-d6b6f8827f8b
@@ -11,6 +11,8 @@ f1_keywords:
 - VendNotificationDocumentList
 - VendNotificationInfo
 - VendNotificationList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View notifications 
@@ -57,5 +59,5 @@ Use this procedure to delete a notification from your list of notifications from
 3.  On the **Action Pane**, click **Delete**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

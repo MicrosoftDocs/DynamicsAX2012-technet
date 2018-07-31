@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up withholding tax codes for TDS tax types
 TOCTitle: (IND) Set up withholding tax codes for TDS tax types
 ms:assetid: 59f2fac8-33c1-49e2-8cb8-7b9b460a65cd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677837(v=AX.60)
 ms:contentKeyID: 49385801
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up withholding tax codes for TDS tax types 
@@ -70,5 +72,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(IND) Setting up Tax Deducted at Source (TDS)](ind-setting-up-tax-deducted-at-source-tds.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

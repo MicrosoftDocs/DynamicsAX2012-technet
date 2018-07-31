@@ -1,4 +1,4 @@
-﻿---
+---
 title: Review a document assigned to you for approval (Enterprise Portal)
 TOCTitle: Review a document assigned to you for approval
 ms:assetid: fe3b0ab7-6042-4c01-9093-aec2e5014548
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299238(v=AX.60)
 ms:contentKeyID: 36384344
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Review a document assigned to you for approval (Enterprise Portal) 
@@ -38,5 +40,5 @@ Use the following steps to review a document that is assigned to you for approva
       - **View history** – View the workflow status and history of the document.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

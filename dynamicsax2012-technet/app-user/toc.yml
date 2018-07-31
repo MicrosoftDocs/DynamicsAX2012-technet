@@ -1312,7 +1312,7 @@
           - name: (ESP) Assign due date limits to terms of payment to calculate invoice due dates
             href: ..\esp-assign-due-date-limits-to-terms-of-payment-to-calculate-invoice-due-dates.md
           - name: (NOR) Print the term “Enterprise register” on sales documents
-            href: ..\nor-print-the-term-“enterprise-register”-on-sales-documents.md
+            href: ..\nor-print-the-term-enterprise-register-on-sales-documents.md
           - name: (NOR) Select the parameter to print Enterprise register on sales documents
             href: ..\nor-select-the-parameter-to-print-enterprise-register-on-sales-documents.md
           - name: (AUT) Set up parameters to generate electronic invoices in PEPPOL format

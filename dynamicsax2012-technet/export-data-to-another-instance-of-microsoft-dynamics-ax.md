@@ -1,4 +1,4 @@
-﻿---
+---
 title: Export data to another instance of Microsoft Dynamics AX
 TOCTitle: Export data to another instance of Microsoft Dynamics AX
 ms:assetid: 117863f3-33b4-4bf9-9427-7c886a258be3
@@ -70,5 +70,5 @@ Consider the following recommendations before you begin an export operation:
 [Import data from another instance of Microsoft Dynamics AX](import-data-from-another-instance-of-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

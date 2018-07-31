@@ -1,4 +1,4 @@
-﻿---
+---
 title: Unpublish a template in RapidStart Services
 TOCTitle: Unpublish a template in RapidStart Services
 ms:assetid: cb961691-90b0-4dc4-9fd5-8cac12c88187
@@ -37,5 +37,5 @@ If you want to modify a template that you have already published in Microsoft Dy
 [Publish a template in RapidStart Services](publish-a-template-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate inventory on the inventory closing date
 TOCTitle: (RUS) Calculate inventory on the inventory closing date
 ms:assetid: 7fbba664-b1f3-4fa5-be85-01e87920dcaa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733246(v=AX.60)
 ms:contentKeyID: 49685213
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate inventory on the inventory closing date 
@@ -42,5 +44,5 @@ Use the **Calculation on-hand inventory on date** form to calculate and save the
 7.  Click **OK** to calculate the on-hand inventory on the inventory closing date and to close the calculation in the **On-hand inventory on date** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

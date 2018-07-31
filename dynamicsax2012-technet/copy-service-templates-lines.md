@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy service templates lines
 TOCTitle: Copy service templates lines
 ms:assetid: ce6e1bfa-61d2-4427-bfab-5b9dfc2e0786
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572698(v=AX.60)
 ms:contentKeyID: 36059469
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy service templates lines 
@@ -56,5 +58,5 @@ The service template lines are now copied to the new service order, together wit
 [About service templates](about-service-templates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

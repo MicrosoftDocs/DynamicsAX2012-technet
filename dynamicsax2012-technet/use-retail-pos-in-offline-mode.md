@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use Retail POS in offline mode
 TOCTitle: Use Retail POS in offline mode
 ms:assetid: d5306558-f78c-4592-8956-33f81d485005
@@ -106,5 +106,5 @@ You can’t complete the following operations when the channel database is offli
 When the channel database becomes available again, you must use the **Database connection status** operation in Retail POS to reestablish the connection with the channel database. Offline POS devices do not automatically reconnect to the channel database when it becomes available.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

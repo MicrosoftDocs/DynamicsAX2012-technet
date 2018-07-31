@@ -1,4 +1,4 @@
-﻿---
+---
 title: Eventing (White paper)
 TOCTitle: Eventing
 ms:assetid: ad4e132f-eb51-4854-a117-05cc45d5691f
@@ -18,5 +18,5 @@ This paper describes eventing and how it can be used in Microsoft Dynamics AX 20
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213111).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

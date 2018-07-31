@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for exchange adjustment in accounting
 TOCTitle: (RUS) Set up a register for exchange adjustment in accounting
 ms:assetid: 45bb44fd-79f5-4f37-9004-2877600eaba7
@@ -10,6 +10,8 @@ f1_keywords:
 - register
 - exchange adjustment
 - set up a register
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for exchange adjustment in accounting 
@@ -52,5 +54,5 @@ The **Exchange adjustment in accounting** register contains information about ex
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) About posting inventory main accounts by site
 TOCTitle: (CHN) About posting inventory main accounts by site
 ms:assetid: b586a0a1-2b40-42ea-ba50-e04823b72840
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - CN - 00006
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) About posting inventory main accounts by site 
@@ -96,5 +98,5 @@ By setting up main accounts for inventory values by site, you can post inventory
 [(CHN) Activate an inventory transaction combination by site](chn-activate-an-inventory-transaction-combination-by-site.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

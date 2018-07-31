@@ -1,4 +1,4 @@
-﻿---
+---
 title: Worker/item profit and loss (2 periods) report (ProjProfitLossEmpl2Prd)
 TOCTitle: Worker/item profit and loss (2 periods) report (ProjProfitLossEmpl2Prd)
 ms:assetid: 991566c0-ae47-47bf-9b91-eab2c304a014
@@ -178,5 +178,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

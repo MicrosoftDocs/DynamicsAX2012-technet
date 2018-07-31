@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed asset records
 TOCTitle: Fixed asset records
 ms:assetid: 5ea53226-d12a-466c-9bb8-cbd961cf6496
@@ -17,6 +17,8 @@ f1_keywords:
 - fixed assets record
 - fixd asset record
 - fixed assets records
+audience: Application User
+ms.search.region: Global
 ---
 
 # Fixed asset records 
@@ -77,5 +79,5 @@ We're working to include as many questions as we can, so that Microsoft Dynamics
 Tell us what question you would like to add to this topic. Send email to <adocs@microsoft.com>.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

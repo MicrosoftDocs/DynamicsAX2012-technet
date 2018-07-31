@@ -1,4 +1,4 @@
-﻿---
+---
 title: Collect for product or service overview
 TOCTitle: Collect for product or service overview
 ms:assetid: 6bd425dd-32da-4cd3-99a1-c8feb9647e2c
@@ -11,6 +11,8 @@ f1_keywords:
 - product collections
 - service collections
 - service collection
+audience: Application User
+ms.search.region: Global
 ---
 
 # Collect for product or service overview 
@@ -301,5 +303,5 @@ The following table lists the forms that support the collect for product or serv
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

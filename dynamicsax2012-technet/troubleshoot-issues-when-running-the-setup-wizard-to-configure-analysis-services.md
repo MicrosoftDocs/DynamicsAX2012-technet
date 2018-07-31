@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot issues when running the Setup wizard to configure Analysis Services
 TOCTitle: Troubleshoot issues when running the Setup wizard to configure Analysis Services
 ms:assetid: d3e32164-d488-4729-b9d5-67778e6f824b
@@ -48,5 +48,5 @@ If the Microsoft Dynamics AX Setup wizard displays a warning that states that yo
 After you install cumulative update package 1, if the Setup wizard continues to display the warning message, you can ignore the warning message and click **Next** to continue with the wizard.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

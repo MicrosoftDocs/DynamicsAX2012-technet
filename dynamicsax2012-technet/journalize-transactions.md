@@ -1,4 +1,4 @@
-﻿---
+---
 title: Journalize transactions
 TOCTitle: Journalize transactions
 ms:assetid: db130911-2d31-46d0-bfa1-a50ae84d4f26
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551219(v=AX.60)
 ms:contentKeyID: 36059664
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Journalize transactions 
@@ -38,5 +40,5 @@ The journalization procedure creates a journal list, which can be viewed in the 
 [Ledger journal (form)](https://technet.microsoft.com/en-us/library/aa589041\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

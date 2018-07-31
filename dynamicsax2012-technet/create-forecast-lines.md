@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create forecast lines
 TOCTitle: Create forecast lines
 ms:assetid: c3e82138-ad2f-46b1-b2be-e11dc6ff6a6d
@@ -10,6 +10,8 @@ f1_keywords:
 - create forecast
 - forecast, create
 - forecast, enter
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create forecast lines 
@@ -78,5 +80,5 @@ The following table lists additional paths that you can use to access the **Supp
 [Supply forecast (form)](https://technet.microsoft.com/en-us/library/aa557710\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Track running average cost per inventory dimension
 TOCTitle: Track running average cost per inventory dimension
 ms:assetid: 7f118cf4-a510-4df5-8b3a-a1147b2ed6b5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213146(v=AX.60)
 ms:contentKeyID: 36058327
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Track running average cost per inventory dimension 
@@ -62,5 +64,5 @@ The running average cost price for warehouse GW and batch BBB is USD 15.00.
 [About running average cost price](about-running-average-cost-price.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

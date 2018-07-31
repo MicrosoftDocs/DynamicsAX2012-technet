@@ -1,4 +1,4 @@
-﻿---
+---
 title: About fixed asset determination rules
 TOCTitle: About fixed asset determination rules
 ms:assetid: 05380afd-8f66-4b8e-9f71-d39457a507b1
@@ -11,6 +11,8 @@ f1_keywords:
 - asset determination rules
 - Fixed asset
 - fixed asset rule
+audience: Application User
+ms.search.region: Global
 ---
 
 # About fixed asset determination rules 
@@ -85,5 +87,5 @@ On a purchase requisition, a Fabrikam employee selects an item from the **Office
 The person who reviews a purchase requisition for Contoso or Fabrikam can override the employee responses to the qualifier and modify the fixed asset group on the purchase requisition.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

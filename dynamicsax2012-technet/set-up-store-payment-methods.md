@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up store payment methods
 TOCTitle: Set up store payment methods
 ms:assetid: ed81e31e-e222-4398-b741-321ca28f2b98
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - stores
 - payment methods
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up store payment methods 
@@ -135,5 +137,5 @@ For information about fields in the **Payment method** form, see [Payment method
 [Set up an online store](set-up-an-online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

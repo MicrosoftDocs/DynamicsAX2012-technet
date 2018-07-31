@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up Fixed assets and Accounts payable integration
 TOCTitle: Set up Fixed assets and Accounts payable integration
 ms:assetid: f7b9764b-275f-4a33-a55f-f931db49c664
@@ -17,6 +17,8 @@ f1_keywords:
 - FA and accounts payable
 - fixed asset integration
 - FA and AP
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up Fixed assets and Accounts payable integration 
@@ -89,5 +91,5 @@ This topic discusses how to set up all of the methods except the default method.
 [Process assets created from Accounts payable](process-assets-created-from-accounts-payable.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

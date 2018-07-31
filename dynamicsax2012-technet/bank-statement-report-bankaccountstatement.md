@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bank statement report (BankAccountStatement)
 TOCTitle: Bank statement report (BankAccountStatement)
 ms:assetid: 268a2289-5074-486d-8905-4b78ac33f8e8
@@ -116,5 +116,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Add additional tables to advanced queries](add-additional-tables-to-advanced-queries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

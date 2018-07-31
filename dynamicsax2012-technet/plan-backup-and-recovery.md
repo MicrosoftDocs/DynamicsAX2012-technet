@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan backup and recovery
 TOCTitle: Plan backup and recovery
 ms:assetid: 91864f99-40c7-4f58-9947-02a7de0be946
@@ -106,5 +106,5 @@ For more information about how to implement a backup and recovery strategy for y
   - [Managing Backing Up and Restoring (Analysis Services)](http://go.microsoft.com/fwlink/?linkid=215819)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

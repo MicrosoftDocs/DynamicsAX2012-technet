@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a production unit
 TOCTitle: Set up a production unit
 ms:assetid: f489a832-4014-4d6a-ac42-e79897ed21bb
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - production unit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a production unit 
@@ -74,5 +76,5 @@ After you create a production unit and assign it to a resource group, you can fi
 [Production unit (form)](https://technet.microsoft.com/en-us/library/hh208601\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up a consolidated invoice for a customer
 TOCTitle: (JPN) Set up a consolidated invoice for a customer
 ms:assetid: a612d01c-12c4-4d62-be8d-0ed4bfe28fb1
@@ -10,6 +10,8 @@ f1_keywords:
 - customer
 - Japan
 - consolidate invoice
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up a consolidated invoice for a customer 
@@ -48,5 +50,5 @@ You can consolidate multiple sales orders into one invoice, based on a consolida
 [(JPN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664964\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Generate Fixed assets reports
 TOCTitle: (JPN) Generate Fixed assets reports
 ms:assetid: 8b0e06b3-a875-45df-af26-ab702374fc47
@@ -18,6 +18,8 @@ f1_keywords:
 - fixed asset reports
 - SSRS.Reports.Reports.AssetCorpTaxActAppendedTable7_JP
 - SSRS.Reports.Reports.AssetCorpTaxActAppendedTable8_JP
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Generate Fixed assets reports 
@@ -352,5 +354,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

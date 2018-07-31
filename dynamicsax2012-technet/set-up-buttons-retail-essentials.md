@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up buttons (Retail essentials)
 TOCTitle: Set up buttons (Retail essentials)
 ms:assetid: 99a5f492-6b1d-4be8-adaf-c04f6b41e696
@@ -78,5 +78,5 @@ Use this procedure to delete a button.
 [Setting up screen layouts (Retail essentials)](setting-up-screen-layouts-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

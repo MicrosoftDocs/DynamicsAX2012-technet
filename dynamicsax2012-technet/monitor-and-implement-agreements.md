@@ -1,4 +1,4 @@
-﻿---
+---
 title: Monitor and implement agreements
 TOCTitle: Monitor and implement agreements
 ms:assetid: b53469e6-347c-43ba-a6c7-12e9af800809
@@ -11,6 +11,8 @@ f1_keywords:
 - contract
 - contractual
 - maintain
+audience: Application User
+ms.search.region: Global
 ---
 
 # Monitor and implement agreements 
@@ -23,5 +25,5 @@ The following topics provide information about the monitoring and the implementi
 [Change the service order stage](change-the-service-order-stage.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

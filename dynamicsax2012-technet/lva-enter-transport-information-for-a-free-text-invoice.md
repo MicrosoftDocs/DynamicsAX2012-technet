@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Enter transport information for a free text invoice
 TOCTitle: (LVA) Enter transport information for a free text invoice
 ms:assetid: 10abdc43-b297-4091-ab83-7e530cc1eb8a
@@ -10,6 +10,8 @@ f1_keywords:
 - transport
 - free text invoice
 - packing slip
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Enter transport information for a free text invoice 
@@ -64,5 +66,5 @@ In the **Free text invoice** form, you can enter additional information about th
 [(LVA) Transportation details (form)](https://technet.microsoft.com/en-us/library/jj731070\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

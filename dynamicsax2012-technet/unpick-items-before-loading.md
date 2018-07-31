@@ -1,4 +1,4 @@
-﻿---
+---
 title: Unpick items before loading
 TOCTitle: Unpick items before loading
 ms:assetid: 784f9e8e-5139-415a-9e49-3324d7f31db9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213004(v=AX.60)
 ms:contentKeyID: 37832509
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Unpick items before loading 
@@ -38,5 +40,5 @@ The lines that you unpicked are removed.
 [Rearrange items before loading](rearrange-items-before-loading.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

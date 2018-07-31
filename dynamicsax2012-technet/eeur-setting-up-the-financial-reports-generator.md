@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Setting up the financial reports generator
 TOCTitle: (EEUR) Setting up the financial reports generator
 ms:assetid: e4a61712-62cb-4323-b1f6-c0d72312e85e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710635(v=AX.60)
 ms:contentKeyID: 49385032
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Setting up the financial reports generator 
@@ -26,5 +28,5 @@ The following topics provide information about setting up the financial reports 
 [(EEUR) Create report cell operations](eeur-create-report-cell-operations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

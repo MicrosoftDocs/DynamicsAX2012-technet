@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and use scoring criteria and methods
 TOCTitle: Create and use scoring criteria and methods
 ms:assetid: cbf3cf00-8521-420a-9448-a3586566538c
@@ -22,6 +22,8 @@ f1_keywords:
 - criteria
 - criterion
 - scoring criteria
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and use scoring criteria and methods 
@@ -94,5 +96,5 @@ Use this procedure if you want to add or change scoring criteria for a specific 
 For information about how to score bids that you have received, see [Compare bids and award a contract](compare-bids-and-award-a-contract.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

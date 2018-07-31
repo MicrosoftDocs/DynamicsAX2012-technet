@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a document type code to export or import payments
 TOCTitle: (RUS) Create a document type code to export or import payments
 ms:assetid: 1f884b14-374d-45c6-a45c-50af459aff99
@@ -10,6 +10,8 @@ f1_keywords:
 - import
 - export
 - document type
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a document type code to export or import payments 
@@ -44,5 +46,5 @@ Use the **Document type** form to create a code for a document type that you can
 [(RUS) Document type (form)](https://technet.microsoft.com/en-us/library/jj665436\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

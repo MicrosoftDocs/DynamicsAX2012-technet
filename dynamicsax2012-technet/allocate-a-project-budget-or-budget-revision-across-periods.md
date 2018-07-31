@@ -1,4 +1,4 @@
-﻿---
+---
 title: Allocate a project budget or budget revision across periods
 TOCTitle: Allocate a project budget or budget revision across periods
 ms:assetid: 23514010-cb07-41d3-8377-57efd09c2078
@@ -12,6 +12,8 @@ f1_keywords:
 - allocation
 - budget
 - project budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # Allocate a project budget or budget revision across periods 
@@ -82,5 +84,5 @@ After a budget or budget revision has been allocated, you can review the allocat
 [Project budget revision allocation (form)](https://technet.microsoft.com/en-us/library/hh209623\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

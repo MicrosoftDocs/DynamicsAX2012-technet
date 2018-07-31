@@ -517,30 +517,30 @@
           - name: Troubleshoot prerequisite issues
             href: troubleshoot-prerequisite-issues.md
       - name: Deploy Microsoft Dynamics AX 2012 R3 on Azure using Lifecycle Services
-        href: deploy-microsoft-dynamics-ax-2012-r3-on-azure-using-lifecycle-services.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-2012-r3-azure-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
         items:
         - name: Plan your deployment
-          href: plan-your-microsoft-dynamics-ax-2012-r3-deployment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/plan-2012-r3-deployment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy an AX 2012 R3 or AX 2012 R3 CU8 demo environment
-          href: deploy-an-ax-2012-r3-or-ax-2012-r3-cu8-demo-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-ax-2012-r3-ax-2012-r3-cu8-demo-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a Retail essentials demo environment
-          href: deploy-a-retail-essentials-demo-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-essentials-demo-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a development environment
-          href: deploy-a-development-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-development-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a test environment
-          href: deploy-a-test-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-test-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a Retail essentials dev/test environment
-          href: deploy-a-retail-essentials-dev-test-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-essentials-devtest-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a Retail e-commerce dev/test environment
-          href: deploy-a-retail-e-commerce-dev-test-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-ecommerce-devtest-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a Retail mobility dev/test environment
-          href: deploy-a-retail-mobility-dev-test-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-mobility-devtest-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a high availability environment
-          href: deploy-a-high-availability-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-high-availability-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Manage your deployment
-          href: manage-your-microsoft-dynamics-ax-2012-r3-deployment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/manage-2012-r3-deployment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Troubleshoot your deployment
-          href: troubleshoot-your-microsoft-dynamics-ax-2012-r3-deployment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/troubleshoot-2012-r3-deployment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Upgrade to Microsoft Dynamics AX 2012
         href: upgrade-to-microsoft-dynamics-ax-2012.md
         items:
@@ -8251,71 +8251,69 @@
           - name: Remove-AXSecurityRole
             href: remove-axsecurityrole.md
   - name: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
-    href: lifecycle-services-for-microsoft-dynamics-user-guide-lcs.md
+    href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs-user-guide?toc=/dynamicsax-2012/appuser-itpro/toc.json
     items:
-    - name: "What's new: Lifecycle Services for Microsoft Dynamics"
-      href: what-s-new-lifecycle-services-for-microsoft-dynamics.md
     - name: Projects
-      href: projects-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/projects-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
       items:
       - name: Configure security
-        href: configure-lifecycle-services-security-lcs.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/configure-lcs-security?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Methodologies
-      href: methodologies-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/methodologies-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Business process modeler
-      href: business-process-modeler-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/bpm-overview?toc=/dynamicsax-2012/appuser-itpro/toc.json
       items:
       - name: Business process libraries in Business process modeler
-        href: business-process-libraries-in-business-process-modeler.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/business-process-libraries-business-process-modeler?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Flowcharts in Business process modeler
-        href: flowcharts-in-business-process-modeler.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/flowcharts-business-process-modeler?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Upload custom business processes to Business process modeler from Task recorder
-        href: upload-custom-business-processes-to-business-process-modeler-from-task-recorder.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/upload-business-processes-bpm-task-recorder?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Cloud-hosted environments
-      href: cloud-hosted-environments-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/cloud-hosted-environments-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
       items:
       - name: Deploy Microsoft Dynamics AX 2012 R3 on Azure using Lifecycle Services
-        href: deploy-microsoft-dynamics-ax-2012-r3-on-azure-using-lifecycle-services.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-2012-r3-azure-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
         items:
         - name: Plan your deployment
-          href: plan-your-microsoft-dynamics-ax-2012-r3-deployment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/plan-2012-r3-deployment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy an AX 2012 R3 or AX 2012 R3 CU8 demo environment
-          href: deploy-an-ax-2012-r3-or-ax-2012-r3-cu8-demo-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-ax-2012-r3-ax-2012-r3-cu8-demo-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a Retail essentials demo environment
-          href: deploy-a-retail-essentials-demo-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-essentials-demo-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a development environment
-          href: deploy-a-development-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-development-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a test environment
-          href: deploy-a-test-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-test-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a Retail essentials dev/test environment
-          href: deploy-a-retail-essentials-dev-test-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-essentials-devtest-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a Retail e-commerce dev/test environment
-          href: deploy-a-retail-e-commerce-dev-test-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-ecommerce-devtest-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a Retail mobility dev/test environment
-          href: deploy-a-retail-mobility-dev-test-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-mobility-devtest-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Deploy a high availability environment
-          href: deploy-a-high-availability-environment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-high-availability-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Manage your deployment
-          href: manage-your-microsoft-dynamics-ax-2012-r3-deployment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/manage-2012-r3-deployment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Troubleshoot your deployment
-          href: troubleshoot-your-microsoft-dynamics-ax-2012-r3-deployment-on-azure.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/troubleshoot-2012-r3-deployment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Cloud-powered support
-      href: cloud-powered-support-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs-support?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Configuration manager
-      href: configuration-manager-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/configuration-manager-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
       items:
       - name: Set up Configuration manager
-        href: set-up-configuration-manager-lifecycle-services-lcs.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/set-up-configuration-manager-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Copy a configuration
-        href: copy-a-configuration-lifecycle-services-lcs.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/copy-configuration-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Customization analysis
-      href: customization-analysis-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/customization-analysis-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Infrastructure estimator
-      href: infrastructure-estimator-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/infrastructure-estimator-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Issue search
-      href: issue-search-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/issue-search-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: License sizing estimator
-      href: license-sizing-estimator-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/license-sizing-estimator-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Microsoft Dynamics ERP RapidStart Services
       href: microsoft-dynamics-erp-rapidstart-services.md
       items:
@@ -8463,103 +8461,69 @@
           - name: Delete a question in RapidStart Services
             href: delete-a-question-in-rapidstart-services.md
     - name: RFP responses
-      href: rfp-responses-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/rfp-responses-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: System diagnostics
-      href: system-diagnostics-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/system-diagnostics-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
       items:
       - name: Install and run System diagnostics (Lifecycle Services)
-        href: install-and-run-system-diagnostics-lifecycle-services.md
-      - name: Use System diagnostics (Lifecycle Services)
-        href: use-system-diagnostics-lifecycle-services.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/install-run-system-diagnostics-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Upgrade analysis
-      href: upgrade-analysis-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/upgrade-analysis-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Updates
-      href: updates-for-microsoft-dynamics-ax-2012-r3-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/update-2012-r3-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Usage profiler
-      href: usage-profiler-lifecycle-services-lcs.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/usage-profiler-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Lifecycle Services Downloadable Tools
-      href: lifecycle-services-downloadable-tools-formerly-on-informationsource.md
+      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/lcs-downloadable-tools-formerly-informationsource?toc=/dynamicsax-2012/appuser-itpro/toc.json
       items:
       - name: Code Upgrade Tool User Guide
-        href: code-upgrade-tool-user-guide.md
-      - name: Data import/export framework user guide (DIXF, DMF)
-        href: data-import-export-framework-user-guide-dixf-dmf.md
-        items:
-        - name: Install the Data import/export framework (DIXF, DMF)
-          href: install-the-data-import-export-framework-dixf-dmf.md
-        - name: Migrating data using the Data import/export framework (DIXF, DMF)
-          href: migrating-data-using-the-data-import-export-framework-dixf-dmf.md
-        - name: Copying and comparing entity data between companies (DIXF, DMF)
-          href: copying-and-comparing-entity-data-between-companies-dixf-dmf.md
-        - name: Create a custom target entity for the Data import/export framework  (DIXF, DMF)
-          href: create-a-custom-target-entity-for-the-data-import-export-framework-dixf-dmf.md
-        - name: Demo files for the Data import/export framework (DIXF, DMF)
-          href: demo-files-for-the-data-import-export-framework-dixf-dmf.md
-        - name: 'Walkthrough: Import data from a CSV data source  (DIXF, DMF)'
-          href: walkthrough-import-data-from-a-csv-data-source-dixf-dmf.md
-        - name: 'Walkthrough: Import data from an ODBC data source (DIXF, DMF)'
-          href: walkthrough-import-data-from-an-odbc-data-source-dixf-dmf.md
-        - name: 'Walkthrough: Copy data between Microsoft Dynamics AX companies  (DIXF, DMF)'
-          href: walkthrough-copy-data-between-microsoft-dynamics-ax-companies-dixf-dmf.md
-        - name: 'Walkthrough: Copy data between Microsoft Dynamics AX instances (DIXF, DMF)'
-          href: walkthrough-copy-data-between-microsoft-dynamics-ax-instances-dixf-dmf.md
-        - name: Data import/export framework entities  (DIXF, DMF)
-          href: data-import-export-framework-entities-dixf-dmf.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/code-upgrade-tool-user-guide?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Intelligent Data Management Framework
-        href: microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/microsoft-idmf?toc=/dynamicsax-2012/appuser-itpro/toc.json
         items:
         - name: Installation Guide for IDMF
-          href: installation-guide-for-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/installation-guide-idmf?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Using IDMF
-          href: using-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/overview-idmf?toc=/dynamicsax-2012/appuser-itpro/toc.json
           items:
-          - name: Overview of IDMF
-            href: overview-of-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
           - name: Analysis functionality in the IDMF workspace
-            href: analysis-functionality-in-the-microsoft-dynamics-ax-intelligent-data-management-framework-workspace-idmf.md
+            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/analysis-functionality-idmf-workspace?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Configuration functionality in the IDMF workspace
-            href: configuration-functionality-in-the-microsoft-dynamics-ax-intelligent-data-management-framework-workspace-idmf.md
+            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/configuration-functionality-idmf-workspace?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Create purge objects
-            href: create-purge-objects-idmf.md
+            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/create-purge-objects?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Create archive objects
-            href: create-archive-objects-idmf.md
+            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/create-archive-objects?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Scheduling purge and analysis tasks
-            href: scheduling-purge-and-analysis-tasks-idmf.md
+            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/schedule-purge-analysis-tasks?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Viewing the status of purge or archive jobs
-            href: viewing-the-status-of-purge-or-archive-jobs-idmf.md
+            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/view-status-purge-archive-jobs?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Working with purge objects and archive objects
-            href: working-with-purge-objects-and-archive-objects-idmf.md
+            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/work-with-purge-objects-archive-objects?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Maintaining IDMF
-            href: maintaining-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
+            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/maintain-idmf?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Troubleshoot IDMF
-            href: troubleshoot-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
+            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/troubleshoot-idmf?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Performance Benchmark Software Development Toolkit (SDK) for Microsoft Dynamics AX 2012
-        href: performance-benchmark-software-development-toolkit-sdk-for-microsoft-dynamics-ax-2012.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/performance-benchmark-software-development-toolkit-sdk-2012?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Security Development Tool User Guide
-        href: security-development-tool-user-guide.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/overview-security-development-tool-user-interface?toc=/dynamicsax-2012/appuser-itpro/toc.json
         items:
         - name: Install the Security Development Tool
-          href: install-the-security-development-tool.md
-        - name: Run the Security Development Tool
-          href: run-the-security-development-tool.md
-          items:
-          - name: Overview of the Security Development Tool user interface
-            href: overview-of-the-security-development-tool-user-interface.md
-          - name: Define or edit entry point permissions
-            href: define-or-edit-entry-point-permissions.md
-          - name: Record entry points in Microsoft Dynamics AX Enterprise Portal
-            href: record-entry-points-in-microsoft-dynamics-ax-enterprise-portal.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/install-security-development-tool?toc=/dynamicsax-2012/appuser-itpro/toc.json
+        - name: Define or edit entry point permissions
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/define-edit-entry-point-permissions?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Security Upgrade Advisor Tool User Guide
-        href: security-upgrade-advisor-tool-user-guide.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/security-upgrade-advisor-tool-user-guide?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012
-        href: test-data-transfer-tool-beta-for-microsoft-dynamics-ax-2012.md
+        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/test-data-transfer-tool-beta-2012?toc=/dynamicsax-2012/appuser-itpro/toc.json
         items:
         - name: Install the Test Data Transfer Tool (beta) for Microsoft Dynamics AX
-          href: install-the-test-data-transfer-tool-beta-for-microsoft-dynamics-ax.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/install-test-data-transfer-tool-beta?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Run the Test Data Transfer Tool (beta) for Microsoft Dynamics AX
-          href: run-the-test-data-transfer-tool-beta-for-microsoft-dynamics-ax.md
-        - name: 'Walkthrough: Import demo data for AX 2012 R3 by using the Test Data Transfer Tool'
-          href: walkthrough-import-demo-data-for-ax-2012-r3-by-using-the-test-data-transfer-tool.md
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/run-test-data-transfer-tool-beta?toc=/dynamicsax-2012/appuser-itpro/toc.json
+        - name: Import demo data for AX 2012 R3 by using the Test Data Transfer Tool
+          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/import-demo-data-ax-2012-r3-test-data-transfer-tool?toc=/dynamicsax-2012/appuser-itpro/toc.json
   - name: Resources for Microsoft Dynamics AX 2012
     href: resources-for-microsoft-dynamics-ax-2012.md
     items:

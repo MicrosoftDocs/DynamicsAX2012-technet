@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Manage signing-limit policies'
 TOCTitle: 'Key tasks: Manage signing-limit policies'
 ms:assetid: b21300ed-94aa-4894-967b-8344e6ec1f50
@@ -13,6 +13,8 @@ f1_keywords:
 - signing limits
 - signing-limit
 - signing-limits
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Manage signing-limit policies 
@@ -175,5 +177,5 @@ Back to top
 [Set up Organization administration workflows](set-up-organization-administration-workflows.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

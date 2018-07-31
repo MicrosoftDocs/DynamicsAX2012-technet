@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Reverse charges for a service receiver and a service provider
 TOCTitle: (IND) Reverse charges for a service receiver and a service provider
 ms:assetid: a700561b-3bd4-400b-8e26-b21268a42001
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn282397(v=AX.60)
 ms:contentKeyID: 54906860
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Reverse charges for a service receiver and a service provider 
@@ -42,5 +44,5 @@ Depending on the type of vendor and the service that is provided, the tax liabil
 [(IND) Calculate service tax for a purchase order](ind-calculate-service-tax-for-a-purchase-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

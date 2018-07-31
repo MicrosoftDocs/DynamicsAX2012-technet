@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and invoice an intercompany sales order for internal use
 TOCTitle: Create and invoice an intercompany sales order for internal use
 ms:assetid: 4dbc79be-5d86-4fb9-862d-367b7f90b379
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497118(v=AX.60)
 ms:contentKeyID: 43976713
 ms.date: 04/11/2017
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and invoice an intercompany sales order for internal use 
@@ -60,5 +62,5 @@ Do these steps in legal entity B, as shown in the illustration.
 [Create and invoice an intercompany purchase order for internal use](create-and-invoice-an-intercompany-purchase-order-for-internal-use.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

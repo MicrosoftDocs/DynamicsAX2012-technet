@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up value models
 TOCTitle: Set up value models
 ms:assetid: 436a5ae0-c108-4f9b-b5df-c144608bbc1e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496964(v=AX.60)
 ms:contentKeyID: 36676384
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up value models 
@@ -44,5 +46,5 @@ Before you set up value models, you must set up depreciation profiles to assign 
 [Set up depreciation profiles](set-up-depreciation-profiles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change the log location
 TOCTitle: Change the log location
 ms:assetid: 212a8941-4765-49ee-abfc-90094a72fec6
@@ -26,5 +26,5 @@ You can change the location of the log files for Microsoft Dynamics AX clients b
 [Client operations](client-operations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

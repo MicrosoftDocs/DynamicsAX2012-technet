@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Enterprise Search"
 TOCTitle: Enterprise Search
 ms:assetid: a26af6b8-44c4-4d12-84ee-320c1b7b3b27
@@ -72,5 +72,5 @@ One of these products must be available in the computing environment before you 
 [Deploy Enterprise Search](deploy-enterprise-search.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

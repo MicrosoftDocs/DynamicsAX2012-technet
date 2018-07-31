@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Region-specific features for Europe"
 TOCTitle: Region-specific features for Europe
 ms:assetid: 1b8182a9-04a7-4a62-9e61-709fadd1c378
@@ -141,5 +141,5 @@ For more information about country/region-specific features, see [Additional cou
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

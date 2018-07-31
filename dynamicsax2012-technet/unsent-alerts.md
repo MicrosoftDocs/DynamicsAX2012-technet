@@ -1,4 +1,4 @@
-﻿---
+---
 title: Unsent alerts
 TOCTitle: Unsent alerts
 ms:assetid: 45765f38-5b2a-4e41-b38f-17b8631a0fd9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834353(v=AX.60)
 ms:contentKeyID: 46687539
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Unsent alerts 
@@ -35,5 +37,5 @@ The guidelines in the following topic apply to administrators who help users who
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Human resources tab in Enterprise Portal'
 TOCTitle: Human resources tab in Enterprise Portal
 ms:assetid: 9f1fefff-d725-4e79-bba9-0e20e22760e3
@@ -53,5 +53,5 @@ In Enterprise Portal for Microsoft Dynamics AX 2009, you can use the **Human res
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

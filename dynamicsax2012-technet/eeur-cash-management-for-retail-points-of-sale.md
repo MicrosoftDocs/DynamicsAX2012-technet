@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Cash management for retail points of sale
 TOCTitle: (EEUR) Cash management for retail points of sale
 ms:assetid: 3f7182fd-ec77-437a-b0c7-888bd33152a2
@@ -11,6 +11,8 @@ f1_keywords:
 - RU - 00005
 - RU – 00037
 - MsDynAx060.Forms.RetailStatementTable
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Cash management for retail points of sale 
@@ -47,5 +49,5 @@ All transactions that take place in Retail POS are posted using a ledger journal
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

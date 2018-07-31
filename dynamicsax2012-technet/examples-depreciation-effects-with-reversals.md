@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Examples: Depreciation effects with reversals'
 TOCTitle: 'Examples: Depreciation effects with reversals'
 ms:assetid: d692ad15-6e1d-4826-a5e1-1669b63e75f7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213705(v=AX.60)
 ms:contentKeyID: 36059536
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Examples: Depreciation effects with reversals 
@@ -220,5 +222,5 @@ Depreciation is understated by 16.95 (983.62 - 966.67).
 [Fixed asset group/depreciation book (form)](https://technet.microsoft.com/en-us/library/aa599462\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

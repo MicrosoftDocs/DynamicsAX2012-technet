@@ -1,4 +1,4 @@
-﻿---
+---
 title: About quotation prognosis
 TOCTitle: About quotation prognosis
 ms:assetid: 4e44cd44-f540-41fa-8e6c-4ec492147c09
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497122(v=AX.60)
 ms:contentKeyID: 36057050
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About quotation prognosis 
@@ -29,5 +31,5 @@ When you set up each prognosis code, make sure that the prognosis days do not ov
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a cash account
 TOCTitle: (RUS) Set up a cash account
 ms:assetid: 77d50c40-fc1c-4cd0-b4c0-2852bffcf13d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678373(v=AX.60)
 ms:contentKeyID: 49387604
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a cash account 
@@ -78,5 +80,5 @@ As a rule, the cash account corresponds with the company's cash office. General 
 [(RUS) Cash accounts (form)](https://technet.microsoft.com/en-us/library/jj665230\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

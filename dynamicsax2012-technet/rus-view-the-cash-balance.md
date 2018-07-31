@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) View the cash balance
 TOCTitle: (RUS) View the cash balance
 ms:assetid: 97c8f6cd-c29b-429b-8b9d-331965233980
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678514(v=AX.60)
 ms:contentKeyID: 49387743
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) View the cash balance 
@@ -52,5 +54,5 @@ You can view the cash balance for a specific period by using the **Cash Balance*
 [(RUS) Journal voucher (form)](https://technet.microsoft.com/en-us/library/jj923409\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: System Center Operations Manager Management Packs for Microsoft Dynamics AX 2012"
 TOCTitle: Management Packs for Microsoft Dynamics AX 2012
 ms:assetid: 9ca3ea32-dc82-4fe9-89b7-732e3de0e18b
@@ -28,5 +28,5 @@ The Management Pack for Microsoft Dynamics AX Retail 2012 R3 provides a monitori
 For more information, see [System Center Management Pack for Microsoft Dynamics AX Retail 2012 R3](http://go.microsoft.com/fwlink/?linkid=393807%26clcid=0x409).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

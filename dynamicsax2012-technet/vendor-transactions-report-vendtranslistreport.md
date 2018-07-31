@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor transactions report (VendTransListReport)
 TOCTitle: Vendor transactions report (VendTransListReport)
 ms:assetid: 38a30d16-2f8b-41e8-884d-aeada174c21f
@@ -129,5 +129,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Processing batch jobs](processing-batch-jobs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About intercompany orders and return orders
 TOCTitle: About intercompany orders and return orders
 ms:assetid: 61c842b0-0118-4ebb-ac49-7c213ef1f702
@@ -13,6 +13,8 @@ f1_keywords:
 - intercompany return order
 - intercompany planning
 - intercompany sales order
+audience: Application User
+ms.search.region: Global
 ---
 
 # About intercompany orders and return orders 
@@ -67,5 +69,5 @@ Company A returns the intercompany item to Company B. Company B creates a return
 [Maintain intercompany sales orders](maintain-intercompany-sales-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

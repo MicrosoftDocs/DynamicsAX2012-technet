@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a customer as a foreign counteragent
 TOCTitle: (RUS) Set up a customer as a foreign counteragent
 ms:assetid: 1fdae449-da0a-49ba-8ab9-25964ed0b59d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711459(v=AX.60)
 ms:contentKeyID: 49387276
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a customer as a foreign counteragent 
@@ -28,5 +30,5 @@ Use the **Customers** form to set up a customer as a foreign counteragent, so th
 [(RUS) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj853212\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

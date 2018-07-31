@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cost Accounting configuration key (COSBaseModule)
 TOCTitle: Cost Accounting configuration key (COSBaseModule)
 ms:assetid: 909cda61-796d-4cad-bcc5-1519cf9551b7
@@ -209,7 +209,7 @@ The following table provides information about how this configuration key relate
 <td><p>Child keys</p></td>
 <td><p><a href="budgeting-configuration-key-cosbudget.md">Budgeting configuration key (COSBudget)</a></p>
 <p><a href="calculation-configuration-key-coscalculation.md">Calculation configuration key (COSCalculation)</a></p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>
@@ -224,5 +224,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

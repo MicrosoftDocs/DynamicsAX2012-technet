@@ -1,4 +1,4 @@
-﻿---
+---
 title: About WIP cost value accounts
 TOCTitle: About WIP cost value accounts
 ms:assetid: d3be32e9-05d1-46cb-b897-77c8bed00b95
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - WIP
 - cost value account
+audience: Application User
+ms.search.region: Global
 ---
 
 # About WIP cost value accounts 
@@ -136,5 +138,5 @@ In the **Project groups** form, on the **Journalizing** FastTab, select **Balanc
 [Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

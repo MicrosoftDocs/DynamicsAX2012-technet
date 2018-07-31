@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring Microsoft Project Server integration
 TOCTitle: Configuring Microsoft Project Server integration
 ms:assetid: fa0d7bf3-df03-492a-8d40-addd16388b05
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227565(v=AX.60)
 ms:contentKeyID: 36060063
 ms.date: 10/06/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring Microsoft Project Server integration 
@@ -24,5 +26,5 @@ The following topics provide information about how to configure integration betw
 For detailed information about how to integrate Microsoft Dynamics AX and Project Server so that you can use the features of both programs to manager your projects, see the white paper [Microsoft Project Server 2010 Integration with Microsoft Dynamics AX 2012](http://go.microsoft.com/fwlink/?linkid=215155).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

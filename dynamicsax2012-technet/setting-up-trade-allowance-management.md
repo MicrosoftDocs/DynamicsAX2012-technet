@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up Trade allowance management
 TOCTitle: Setting up Trade allowance management
 ms:assetid: 4b27b76b-33fb-4fea-8404-9c21725abb15
@@ -12,6 +12,8 @@ f1_keywords:
 - Forms.TAMMarketingObjective
 - Forms.TAMPromotionPeriod
 - Forms.TAMTradePromotionAnalysis
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up Trade allowance management 
@@ -44,5 +46,5 @@ The topics in this section provide information about how to set up and maintain 
 [Working with Trade allowance management](working-with-trade-allowance-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Application Integration Framework topology
 TOCTitle: Application Integration Framework topology
 ms:assetid: 963fa6ae-0ce8-481e-89f7-b66e07febcc3
@@ -56,5 +56,5 @@ For more information about services and AIF, see [Services and Application Integ
 [Services and AIF security and protection](services-and-aif-security-and-protection.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

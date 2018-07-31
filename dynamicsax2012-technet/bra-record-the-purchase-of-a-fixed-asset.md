@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Record the purchase of a fixed asset
 TOCTitle: (BRA) Record the purchase of a fixed asset
 ms:assetid: 90801784-8ef5-4631-a0cb-c1b9249087b9
@@ -11,6 +11,8 @@ f1_keywords:
 - BRA
 - Brazil
 - purchase fixed asset
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Record the purchase of a fixed asset 
@@ -61,5 +63,5 @@ You can record the purchase of a fixed asset by using the **Purchase order** for
 [(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Adding Properties to a Sales Order'
 TOCTitle: 'Walkthrough: Adding Properties to a Sales Order'
 ms:assetid: 4530651e-1fe0-4288-8c27-6b8808ffff3b
@@ -147,5 +147,5 @@ After you create a sales order on the commerce runtime, you can view the new att
 3.  Click **Accounts receivable** \> **Common** \> **Sales orders** \> **All sales orders**. Click the **Retail** tab, and then click **Retail attributes**. You should see the attribute you created.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

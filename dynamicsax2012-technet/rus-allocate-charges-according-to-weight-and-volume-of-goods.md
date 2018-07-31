@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Allocate charges according to weight and volume of goods
 TOCTitle: (RUS) Allocate charges according to weight and volume of goods
 ms:assetid: 36911789-1d8c-4760-b20c-9b142d23d5ec
@@ -13,6 +13,8 @@ f1_keywords:
 - charges
 - Russia
 - RUS
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Allocate charges according to weight and volume of goods 
@@ -49,5 +51,5 @@ Use this procedure to allocate charges to purchase order lines according to the 
 [Create a purchase order](create-a-purchase-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

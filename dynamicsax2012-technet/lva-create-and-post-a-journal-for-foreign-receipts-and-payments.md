@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Create and post a journal for foreign receipts and payments
 TOCTitle: (LVA) Create and post a journal for foreign receipts and payments
 ms:assetid: 45a0ceef-7c43-4219-a1eb-859aa5f642e1
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Latvia
 - notification to the central bank
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Create and post a journal for foreign receipts and payments 
@@ -106,5 +108,5 @@ To capture information about the person who changed any values in posted transac
 [Payment purpose codes (form)](https://technet.microsoft.com/en-us/library/aa587506\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

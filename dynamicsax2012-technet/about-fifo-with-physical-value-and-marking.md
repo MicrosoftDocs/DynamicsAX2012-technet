@@ -1,4 +1,4 @@
-﻿---
+---
 title: About FIFO with physical value and marking
 TOCTitle: About FIFO with physical value and marking
 ms:assetid: 6a395fb1-8d66-4132-a6e2-62b74d8863b1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231585(v=AX.60)
 ms:contentKeyID: 36057978
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About FIFO with physical value and marking 
@@ -222,5 +224,5 @@ The following diagram illustrates this series of transactions when the FIFO inve
 [About weighted average date](about-weighted-average-date.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

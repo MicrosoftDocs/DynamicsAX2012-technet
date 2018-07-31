@@ -1,4 +1,4 @@
-﻿---
+---
 title: View undispatched service orders
 TOCTitle: View undispatched service orders
 ms:assetid: c7c5f14a-16db-4356-b915-acbfda7c1cac
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213646(v=AX.60)
 ms:contentKeyID: 62629949
 ms.date: 07/28/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View undispatched service orders 
@@ -44,5 +46,5 @@ This topic describes how to view activities in a service order that don’t have
 [Reassign activities](reassign-activities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

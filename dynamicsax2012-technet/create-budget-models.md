@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create budget models
 TOCTitle: Create budget models
 ms:assetid: 69c5ee29-fd52-481e-8b10-7bbdb0f3045f
@@ -12,6 +12,8 @@ f1_keywords:
 - budget models used in cash flow forecasts
 - stopped budget models
 - cash flow forecast budget models
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create budget models 
@@ -56,5 +58,5 @@ In the **Budget model** form, you can select the following check boxes for budge
 [About basic budgeting and budget control setup](about-basic-budgeting-and-budget-control-setup.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

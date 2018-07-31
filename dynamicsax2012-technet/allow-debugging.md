@@ -1,4 +1,4 @@
-﻿---
+---
 title: Allow debugging
 TOCTitle: Allow debugging
 ms:assetid: d25fadc8-e945-4814-abba-ec0c851aa547
@@ -32,5 +32,5 @@ This topic describes how to enable debugging on an instance of Microsoft Dynamic
 [Enable debugging in Microsoft Dynamics AX clients](enable-debugging-in-microsoft-dynamics-ax-clients.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Select products to sell online
 TOCTitle: (USA) Select products to sell online
 ms:assetid: d2964bcb-b5b8-4a4c-b6f3-c23a30cf5cae
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242925(v=AX.60)
 ms:contentKeyID: 36059506
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Select products to sell online 
@@ -41,5 +43,5 @@ After a Commerce Services for Microsoft Dynamics ERP account has been set up, yo
 [(USA) About Commerce Services](usa-about-commerce-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

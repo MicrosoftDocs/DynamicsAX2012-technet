@@ -1,4 +1,4 @@
-﻿---
+---
 title: Database log report (SysDatabaseLog)
 TOCTitle: Database log report (SysDatabaseLog)
 ms:assetid: 09b46111-7ca7-40ed-af4e-07f461b241a7
@@ -112,5 +112,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

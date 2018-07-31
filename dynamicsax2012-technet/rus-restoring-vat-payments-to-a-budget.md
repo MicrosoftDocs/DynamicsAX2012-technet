@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Restoring VAT payments to a budget
 TOCTitle: (RUS) Restoring VAT payments to a budget
 ms:assetid: e47e8889-2612-41ad-84ab-c82714c26f95
@@ -11,6 +11,8 @@ f1_keywords:
 - Russia
 - Restoring VAT
 - VAT payments
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Restoring VAT payments to a budget 
@@ -67,5 +69,5 @@ You must complete the following set up tasks to restore VAT amounts and calculat
 [(RUS) Set up parameters for VAT restoration and revenue calculation](rus-set-up-parameters-for-vat-restoration-and-revenue-calculation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

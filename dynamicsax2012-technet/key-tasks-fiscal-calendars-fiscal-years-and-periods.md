@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Fiscal calendars, fiscal years, and periods'
 TOCTitle: 'Key tasks: Fiscal calendars, fiscal years, and periods'
 ms:assetid: 149a5222-97df-404f-be70-c1ade1daf663
@@ -16,6 +16,8 @@ f1_keywords:
 - module access level
 - on hold
 - period status
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Fiscal calendars, fiscal years, and periods 
@@ -251,5 +253,5 @@ Back to top
 [Ledger calendar (form)](https://technet.microsoft.com/en-us/library/hh242506\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

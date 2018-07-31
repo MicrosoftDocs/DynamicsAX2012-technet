@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure the properties of a workflow
 TOCTitle: Configure the properties of a workflow
 ms:assetid: d1f7d42a-47fe-41d4-9130-94d287df7535
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - workflow
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure the properties of a workflow 
@@ -232,5 +234,5 @@ To enter comments about the changes that you made to this workflow, follow these
 [Configure workflow elements](configure-workflow-elements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

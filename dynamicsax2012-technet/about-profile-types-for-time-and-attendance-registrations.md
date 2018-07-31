@@ -1,4 +1,4 @@
-﻿---
+---
 title: About profile types for time and attendance registrations
 TOCTitle: About profile types for time and attendance registrations
 ms:assetid: 2c71eb0f-90ca-4ae3-bd48-c4947e7dc752
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496869(v=AX.60)
 ms:contentKeyID: 39519081
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About profile types for time and attendance registrations 
@@ -70,7 +72,7 @@ The following table contains examples of profile types.
 <tr class="odd">
 <td><p><strong>Supplement pay or bonus</strong></p></td>
 <td><p>If some workers are qualified to receive supplemental pay or bonuses, specific profile types can be created for those purposes.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!TIP]
 > <P>You can create any number of profile types. To create a profile type that is not associated with a standard profile specification type, you can leave the <STRONG>Profile specification type</STRONG> field in the <STRONG>Profile types</STRONG> form blank.</P>
@@ -113,5 +115,5 @@ The following table contains examples of profile types.
 [About time registration workers](about-time-registration-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Blanket orders'
 TOCTitle: Blanket orders
 ms:assetid: 42f11522-ed43-4f5b-a66a-ae248fcad127
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, blanket orders are contractual obligations with a
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

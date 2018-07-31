@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use BlankOperations to implement custom features
 TOCTitle: Use BlankOperations to implement custom features
 ms:assetid: 1ba88c7c-ba82-4d38-9b96-91f04bc06a83
@@ -89,5 +89,5 @@ Although the number of blank buttons is limited, there is no limit to the number
     For a complete example of using a **Blank Operation** to customize Retail POS, see [Walkthrough: Adding an Image to Product Search Results](walkthrough-adding-an-image-to-product-search-results.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

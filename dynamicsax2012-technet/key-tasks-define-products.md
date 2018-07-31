@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Define products'
 TOCTitle: 'Key tasks: Define products'
 ms:assetid: 0a7ebc8c-8684-4349-a403-3b30c33350ad
@@ -17,6 +17,8 @@ f1_keywords:
 - products of the type Item
 - products of the type Service
 - shared products
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Define products 
@@ -332,5 +334,5 @@ Back to top
 [Key tasks: Release products](key-tasks-release-products.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

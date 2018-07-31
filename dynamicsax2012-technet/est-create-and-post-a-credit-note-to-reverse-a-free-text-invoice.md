@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Create and post a credit note to reverse a free text invoice
 TOCTitle: (EST) Create and post a credit note to reverse a free text invoice
 ms:assetid: 904f4117-c1a3-489b-8225-f1bec1b52911
@@ -14,6 +14,8 @@ f1_keywords:
 - post a credit note
 - create a credit note
 - reverse free text invoice
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Create and post a credit note to reverse a free text invoice 
@@ -48,5 +50,5 @@ All credit notes that are created by your organization should include the origin
 7.  In the **Post free text invoice** form, select the **Print invoice** check box, and then click **OK** to post and print the credit note.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy the default reports
 TOCTitle: Deploy the default reports
 ms:assetid: 6a34674a-f68c-4d67-8bcb-3159f9089d4c
@@ -164,5 +164,5 @@ Instruct users to delete usage data by following these steps:
 [Piping and the Pipeline in Windows PowerShell](http://go.microsoft.com/fwlink/?linkid=187808)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

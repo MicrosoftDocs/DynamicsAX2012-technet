@@ -1,4 +1,4 @@
-﻿---
+---
 title: Invoice register and invoice approval journal configuration key (VendInvoiceRegisterApproval)
 TOCTitle: Invoice register and invoice approval journal configuration key (VendInvoiceRegisterApproval)
 ms:assetid: 582aeb4a-47a3-4d5c-891d-34533d857bd6
@@ -104,5 +104,5 @@ For more information about how license codes and configuration keys work togethe
 [Invoice pool excl. posting configuration key (VendInvoicePool)](invoice-pool-excl-posting-configuration-key-vendinvoicepool.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

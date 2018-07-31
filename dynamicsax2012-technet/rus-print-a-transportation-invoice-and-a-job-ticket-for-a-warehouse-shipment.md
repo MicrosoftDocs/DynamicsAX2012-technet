@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Print a transportation invoice and a job ticket for a warehouse shipment
 TOCTitle: (RUS) Print a transportation invoice and a job ticket for a warehouse shipment
 ms:assetid: 5b0aff87-00a0-498b-beae-553d6514c18d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665414(v=AX.60)
 ms:contentKeyID: 49387502
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Print a transportation invoice and a job ticket for a warehouse shipment 
@@ -48,5 +50,5 @@ Use the following procedure to print a transportation invoice or a job ticket fo
 16. Click **Print** \> **Transportation document** to print the transportation invoice or job ticket.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer foreign currency revaluation simulation report (CustExchRateAdjSimulation)
 TOCTitle: Customer foreign currency revaluation simulation report (CustExchRateAdjSimulation)
 ms:assetid: b8a5e236-7d2f-49a6-813e-69c94064b139
@@ -96,5 +96,5 @@ If you are a developer, you can learn more about where the data on a report come
 [About foreign currency revaluations for open customer transactions](about-foreign-currency-revaluations-for-open-customer-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

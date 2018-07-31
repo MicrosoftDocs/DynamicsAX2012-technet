@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a purchase order for a project
 TOCTitle: Create a purchase order for a project
 ms:assetid: c55b6a87-2aa0-4fc0-b1e4-9b83f79142bb
@@ -10,6 +10,8 @@ f1_keywords:
 - purchase order
 - item requirement
 - create purchase order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a purchase order for a project 
@@ -126,5 +128,5 @@ You can create purchase orders in **Project management and accounting** by using
 [Create purchase order (form)](https://technet.microsoft.com/en-us/library/aa570189\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

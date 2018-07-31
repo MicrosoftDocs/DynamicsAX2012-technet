@@ -1,4 +1,4 @@
-﻿---
+---
 title: Match vendor invoices to purchase orders and product receipts
 TOCTitle: Match vendor invoices to purchase orders and product receipts
 ms:assetid: 77a203b3-cf89-48b1-9772-017a78ec9fbb
@@ -16,6 +16,8 @@ f1_keywords:
 - product receipt
 - product receipts
 - PO
+audience: Application User
+ms.search.region: Global
 ---
 
 # Match vendor invoices to purchase orders and product receipts 
@@ -42,5 +44,5 @@ The following topics provide information about matching vendor invoices to purch
 [Set up parameters for the Journalized finalized product receipt batch job](set-up-parameters-for-the-journalized-finalized-product-receipt-batch-job.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

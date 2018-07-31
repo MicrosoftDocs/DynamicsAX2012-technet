@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import label files into the new model store
 TOCTitle: Import label files into the new model store
 ms:assetid: a6e7c246-0478-4b8c-83d0-cc9dc32a5a3d
@@ -39,5 +39,5 @@ For developer documentation about code upgrade in Microsoft Dynamics AX 2012, se
 [Restart Application Object Server](restart-application-object-server.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

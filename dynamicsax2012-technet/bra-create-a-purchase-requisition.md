@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create a purchase requisition
 TOCTitle: (BRA) Create a purchase requisition
 ms:assetid: b90f52ac-5826-493e-a4d7-eeecd279da96
@@ -12,6 +12,8 @@ f1_keywords:
 - BRA
 - brazil
 - BR - 00027
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create a purchase requisition 
@@ -48,5 +50,5 @@ After you update the fiscal information for the purchase requisitions lines, you
 [(BRA) Purchase requisitions - lines (modified form)](https://technet.microsoft.com/en-us/library/jj923406\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

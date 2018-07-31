@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Generate bills of entry inquiries for import orders
 TOCTitle: (IND) Generate bills of entry inquiries for import orders
 ms:assetid: f68de257-d4cd-4d49-8c95-d9a2ab8cb777
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710962(v=AX.60)
 ms:contentKeyID: 49386374
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Generate bills of entry inquiries for import orders 
@@ -36,5 +38,5 @@ Generate a bill of entry inquiry to view the posted bill of entry transaction de
 [(IND) Bill of entry number (form)](https://technet.microsoft.com/en-us/library/jj664729\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

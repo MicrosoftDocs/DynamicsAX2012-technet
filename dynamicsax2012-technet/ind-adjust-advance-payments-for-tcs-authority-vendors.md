@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Adjust advance payments for TCS authority vendors
 TOCTitle: (IND) Adjust advance payments for TCS authority vendors
 ms:assetid: 239614be-12a4-4a10-baab-e9a15952828c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664556(v=AX.60)
 ms:contentKeyID: 49385634
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Adjust advance payments for TCS authority vendors 
@@ -28,5 +30,5 @@ If the actual payment made is more than the advance payment, two challan numbers
 [(IND) Vendors (modified form)](https://technet.microsoft.com/en-us/library/jj664890\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

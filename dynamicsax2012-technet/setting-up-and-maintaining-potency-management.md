@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining potency management
 TOCTitle: Setting up and maintaining potency management
 ms:assetid: 4267afbb-9f8c-435c-8ab6-19aaab052df7
@@ -13,6 +13,8 @@ f1_keywords:
 - potency
 - ingredient
 - potence
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining potency management 
@@ -43,5 +45,5 @@ The topics in this section provide information about how to set up and maintain 
 [Set up an attribute-based pricing formula for a sales item that uses potency](set-up-an-attribute-based-pricing-formula-for-a-sales-item-that-uses-potency.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

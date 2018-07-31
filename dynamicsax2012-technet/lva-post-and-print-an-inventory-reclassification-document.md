@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Post and print an inventory reclassification document
 TOCTitle: (LVA) Post and print an inventory reclassification document
 ms:assetid: 4d4218fc-365b-431d-89e5-84469454208d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721452(v=AX.60)
 ms:contentKeyID: 49730230
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Post and print an inventory reclassification document 
@@ -70,5 +72,5 @@ Use the **Inventory movement** form to print an inventory reclassification docum
 [(LVA) Journal lines, Inventory (modified form)](https://technet.microsoft.com/en-us/library/jj721417\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

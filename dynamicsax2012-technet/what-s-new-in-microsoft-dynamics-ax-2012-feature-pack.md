@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new in Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: What's new in Microsoft Dynamics AX 2012 Feature Pack
 ms:assetid: 268eebd4-7abc-49d4-afa8-0e4d2df57f1d
@@ -92,5 +92,5 @@ Other features were added or changed in AX 2012 Feature Pack.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

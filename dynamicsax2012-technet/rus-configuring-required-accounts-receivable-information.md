@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Configuring required Accounts receivable information
 TOCTitle: (RUS) Configuring required Accounts receivable information
 ms:assetid: aa4ed15c-4a06-47d5-b6a0-43ccb54978d7
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711493(v=AX.60)
 ms:contentKeyID: 49387818
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Configuring required Accounts receivable information 
@@ -44,5 +46,5 @@ The following topics provide information about configuring Accounts receivable.
 [(RUS) Set up the posting type and number sequences to transfer proprietary rights](rus-set-up-the-posting-type-and-number-sequences-to-transfer-proprietary-rights.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

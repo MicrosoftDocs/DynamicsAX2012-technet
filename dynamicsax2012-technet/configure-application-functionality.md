@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure application functionality
 TOCTitle: Configure application functionality
 ms:assetid: 2cc47a88-0e25-48ba-8aa9-3576de1b5cb5
@@ -44,5 +44,5 @@ For information about a specific configuration key, see the [License code and co
     We strongly recommend that you restart the AOS after you change configuration keys that affect database tables or fields. Click the **Tables and fields** tab in the **License and configuration differences** form to verify whether tables and fields are affected.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

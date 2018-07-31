@@ -1,4 +1,4 @@
-﻿---
+---
 title: About signing limit setup
 TOCTitle: About signing limit setup
 ms:assetid: 4bb412bd-a922-4ac6-bb08-cdbca8044182
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208731(v=AX.60)
 ms:contentKeyID: 36057002
 ms.date: 06/13/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About signing limit setup 
@@ -82,5 +84,5 @@ For information about signing limit tasks for workers and managers, search for *
 For information about setting up signing limit parameters, see [Set up signing limit parameters](set-up-signing-limit-parameters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

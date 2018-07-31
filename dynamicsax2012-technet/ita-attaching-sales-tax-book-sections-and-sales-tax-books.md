@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Attaching sales tax book sections and sales tax books
 TOCTitle: (ITA) Attaching sales tax book sections and sales tax books
 ms:assetid: 993ba587-7380-4b87-a7dd-1473c1adec95
@@ -11,6 +11,8 @@ f1_keywords:
 - Attaching a sales tax book section to a sales tax book
 - Sales tax book
 - Sales tax book section
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Attaching sales tax book sections and sales tax books 
@@ -51,5 +53,5 @@ When you create a sales tax book section, a default sales tax book will be attac
 [(ITA) Italian sales tax book sections (form)](https://technet.microsoft.com/en-us/library/aa600627\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a customer request
 TOCTitle: Create a customer request
 ms:assetid: 084827e4-09e1-43d3-b2ee-0b1ecfe419d3
@@ -11,6 +11,8 @@ f1_keywords:
 - customer requests
 - sign up
 - signup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a customer request 
@@ -37,5 +39,5 @@ A potential customer who wants to do business with your company can enter a cust
 [Process a customer request](process-a-customer-request.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

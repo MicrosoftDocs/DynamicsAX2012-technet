@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up pay periods for time registration workers
 TOCTitle: Set up pay periods for time registration workers
 ms:assetid: e8e163d8-a62f-4f7d-9192-7c004596d162
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573402(v=AX.60)
 ms:contentKeyID: 43976730
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up pay periods for time registration workers 
@@ -62,5 +64,5 @@ Workers who make registrations that are used to generate pay must be assigned to
 [About time registration workers](about-time-registration-workers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

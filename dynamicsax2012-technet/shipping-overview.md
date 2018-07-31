@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shipping overview
 TOCTitle: Shipping overview
 ms:assetid: b59cbdf9-7075-4f5f-b86c-29fa8429c7ed
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232425(v=AX.60)
 ms:contentKeyID: 36059081
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Shipping overview 
@@ -26,5 +28,5 @@ The topics in this section provide overviews of the shipping business process co
 [About shipment reservations](about-shipment-reservations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

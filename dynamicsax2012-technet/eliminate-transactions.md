@@ -1,4 +1,4 @@
-﻿---
+---
 title: Eliminate transactions
 TOCTitle: Eliminate transactions
 ms:assetid: 5e479a55-2817-4387-a255-e3459d4edef6
@@ -10,6 +10,8 @@ f1_keywords:
 - eliminate transactions
 - elimination
 - elimination transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Eliminate transactions 
@@ -37,5 +39,5 @@ The following topics provide information about tasks that are related to elimina
 [Process elimination transactions using the Consolidation, Online form](process-elimination-transactions-using-the-consolidation-online-form.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

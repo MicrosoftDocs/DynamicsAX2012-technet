@@ -1,4 +1,4 @@
-﻿---
+---
 title: View stage reason codes
 TOCTitle: View stage reason codes
 ms:assetid: 83a6e331-fda0-43dc-995b-9e48551f722a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571565(v=AX.60)
 ms:contentKeyID: 36058378
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View stage reason codes 
@@ -26,5 +28,5 @@ View and modify the list of stage reasons for a service order. Use stage reasons
 [Stage reasons (form)](https://technet.microsoft.com/en-us/library/aa582897\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

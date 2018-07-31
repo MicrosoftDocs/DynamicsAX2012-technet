@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Microsoft Dynamics AX 2012 Technical Library '
 TOCTitle: Microsoft Dynamics AX 2012
 ms:assetid: 89085fa3-cec3-4651-bee5-907470e2d4bd
@@ -22,7 +22,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 <tr class="odd">
 <td><img src="images/Gg852966.AXlogo(AX.60).png" title="Microsoft Dynamics AX logo" alt="Microsoft Dynamics AX logo" /></td>
 <td><p>Welcome to the Microsoft Dynamics AX 2012 Technical Library. This library contains updated content that explains how to deploy, configure, and use Microsoft Dynamics AX 2012.</p>
-<p><strong>Tip:</strong> To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <a href="http://go.microsoft.com/fwlink/?linkid=194311">WebSearchAX</a> tool.</p></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -173,5 +173,5 @@ See the following blogs for more information about Microsoft Dynamics AX.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up codes for order holds
 TOCTitle: Set up codes for order holds
 ms:assetid: 02ae0c91-c447-4f1c-8cd8-3e8afd5b6359
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn631644(v=AX.60)
 ms:contentKeyID: 62200030
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up codes for order holds 
@@ -36,5 +38,5 @@ To set up codes for order holds, follow these steps:
 [Work with sales order holds](work-with-sales-order-holds.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

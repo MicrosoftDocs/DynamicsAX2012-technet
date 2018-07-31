@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Generate Spanish checks
 TOCTitle: (ESP) Generate Spanish checks
 ms:assetid: 327997ba-a7a3-4960-aab5-0394d1ced056
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231037(v=AX.60)
 ms:contentKeyID: 36056533
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Generate Spanish checks 
@@ -44,5 +46,5 @@ You can print checks that follow the standards that are required for checks in S
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

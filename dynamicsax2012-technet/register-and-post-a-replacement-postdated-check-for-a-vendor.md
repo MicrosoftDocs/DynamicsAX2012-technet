@@ -1,4 +1,4 @@
-﻿---
+---
 title: Register and post a replacement postdated check for a vendor
 TOCTitle: Register and post a replacement postdated check for a vendor
 ms:assetid: 72544658-da80-40fc-b192-12acaeded93b
@@ -10,6 +10,8 @@ f1_keywords:
 - register
 - replacement
 - postdated check
+audience: Application User
+ms.search.region: Global
 ---
 
 # Register and post a replacement postdated check for a vendor 
@@ -74,5 +76,5 @@ You can view the postdated checks in the **Vendor postdated checks** form. Click
 [Vendor postdated checks (form)](https://technet.microsoft.com/en-us/library/hh242868\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

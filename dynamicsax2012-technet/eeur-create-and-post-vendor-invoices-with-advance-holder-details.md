@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Create and post vendor invoices with advance holder details
 TOCTitle: (EEUR) Create and post vendor invoices with advance holder details
 ms:assetid: b5b747ab-6969-4361-8407-1a6838f2d9b8
@@ -12,6 +12,8 @@ f1_keywords:
 - advance holder invoice
 - invoices for advance holder
 - post vendor invoices
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Create and post vendor invoices with advance holder details 
@@ -60,5 +62,5 @@ Use this procedure to create and post vendor invoices with advance holder detail
 [(EEUR) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj862346\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

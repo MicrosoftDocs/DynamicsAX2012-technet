@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up taxes
 TOCTitle: Setting up taxes
 ms:assetid: 11338930-cd39-4326-b831-b14f574b9e31
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - tax
 - taxes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up taxes 
@@ -31,5 +33,5 @@ The topics in this section provide information about how to set up taxes for **R
 [Set other tax options for stores](set-other-tax-options-for-stores.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

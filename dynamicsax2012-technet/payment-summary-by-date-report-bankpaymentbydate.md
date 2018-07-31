@@ -1,4 +1,4 @@
-﻿---
+---
 title: Payment summary by date report (BankPaymentByDate)
 TOCTitle: Payment summary by date report (BankPaymentByDate)
 ms:assetid: e0812aa9-c982-449e-9bed-34c799bf749a
@@ -96,5 +96,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Add additional tables to advanced queries](add-additional-tables-to-advanced-queries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

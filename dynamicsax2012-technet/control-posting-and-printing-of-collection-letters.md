@@ -1,4 +1,4 @@
-﻿---
+---
 title: Control posting and printing of collection letters
 TOCTitle: Control posting and printing of collection letters
 ms:assetid: 584c6e9d-425d-4ee8-b131-9ad3c49101eb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549067(v=AX.60)
 ms:contentKeyID: 36655929
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Control posting and printing of collection letters 
@@ -68,5 +70,5 @@ You can select whether to print separate collection letters for each transaction
 [Create collection letters](create-collection-letters.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

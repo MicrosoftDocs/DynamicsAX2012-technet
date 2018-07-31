@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Environmental sustainability
 TOCTitle: Setting up and maintaining Environmental sustainability
 ms:assetid: 663dd3c4-5773-4fc2-b99b-9f541f558820
@@ -11,6 +11,8 @@ f1_keywords:
 - environmental sustainability
 - sustain
 - sustainability
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Environmental sustainability 
@@ -33,5 +35,5 @@ Topics in this section provide information about setting up **Compliance and int
 [Set up, delete, or deactivate a meter](set-up-delete-or-deactivate-a-meter.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

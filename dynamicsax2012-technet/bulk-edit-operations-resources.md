@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bulk edit operations resources
 TOCTitle: Bulk edit operations resources
 ms:assetid: 47d081e6-ffec-4b9c-814c-35428ca7c34b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - bulk edit
 - mass edit
+audience: Application User
+ms.search.region: Global
 ---
 
 # Bulk edit operations resources 
@@ -53,5 +55,5 @@ To bulk edit resources:
 5.  Click **OK** to perform the bulk edit.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

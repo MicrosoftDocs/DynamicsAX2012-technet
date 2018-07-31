@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using Help for Microsoft Dynamics AX
 TOCTitle: Using Help for Microsoft Dynamics AX
 ms:assetid: bd46c98a-04bd-41d8-a210-4bbc08dd7d62
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - default_aot_topic
 - DEFAULT_TOPIC
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using Help for Microsoft Dynamics AX 
@@ -69,5 +71,5 @@ The following list provides direct links to Microsoft Dynamics AX documentation 
 [Use Task recorder to create documents and other training material](use-task-recorder-to-create-documents-and-other-training-material.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

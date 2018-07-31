@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cost accounting
 TOCTitle: Cost accounting
 ms:assetid: dd69d951-67c5-43c1-8bba-6c4e0cbd63f2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551269(v=AX.60)
 ms:contentKeyID: 36059684
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Cost accounting 
@@ -94,5 +96,5 @@ Cost accounting can be integrated with the following modules and Microsoft resou
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

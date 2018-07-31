@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Set up items to exclude from the Intrastat reports
 TOCTitle: (LTU) Set up items to exclude from the Intrastat reports
 ms:assetid: 103cf166-f9d1-4167-9640-64568cd9f81e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665020(v=AX.60)
 ms:contentKeyID: 49386602
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Set up items to exclude from the Intrastat reports 
@@ -43,5 +45,5 @@ You can exclude transactions involving certain items from the Intrastat table.
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

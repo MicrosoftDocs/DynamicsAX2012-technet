@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) About fiscal LIFO workflow
 TOCTitle: (ITA) About fiscal LIFO workflow
 ms:assetid: eb6ea692-bc8e-43bc-9b06-fd7c2a4b8ab1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551504(v=AX.60)
 ms:contentKeyID: 36059869
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) About fiscal LIFO workflow 
@@ -125,5 +127,5 @@ By the end of 2011, the value of the inventory is 9 X 10 = EUR 90. That is, the 
 [(ITA) Calculate fiscal LIFO journal lines](ita-calculate-fiscal-lifo-journal-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

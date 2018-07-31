@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Set up a batch group for OIOUBL electronic invoicing
 TOCTitle: (DNK) Set up a batch group for OIOUBL electronic invoicing
 ms:assetid: 4e156937-8060-49cd-93ef-f510e5e38840
@@ -10,6 +10,8 @@ f1_keywords:
 - electronic invoicing
 - OIOUBL
 - batch group
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Set up a batch group for OIOUBL electronic invoicing 
@@ -36,5 +38,5 @@ Use the **Batch group** form to set up a batch group to process the Offentlig In
 [Batch groups (form)](https://technet.microsoft.com/en-us/library/aa575384\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

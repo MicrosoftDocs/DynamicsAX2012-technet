@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy an existing operations resource
 TOCTitle: Copy an existing operations resource
 ms:assetid: 5c10f62f-dd9d-444a-9620-feda01d44327
@@ -10,6 +10,8 @@ f1_keywords:
 - copy
 - operations resource
 - resource groups
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy an existing operations resource 
@@ -42,5 +44,5 @@ All the field values of the selected resource are copied to the new resource. Yo
 [Bulk edit resources](bulk-edit-operations-resources.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NLD) Set up electronic tax declaration
 TOCTitle: (NLD) Set up electronic tax declaration
 ms:assetid: 2f44db86-7c87-4257-964e-29621a33d647
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231023(v=AX.60)
 ms:contentKeyID: 36056296
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Netherlands
 ---
 
 # (NLD) Set up electronic tax declaration 
@@ -46,5 +48,5 @@ Use the **Electronic tax declaration parameters** form to set up electronic tax 
 [(NLD) Electronic tax declaration parameters (form)](https://technet.microsoft.com/en-us/library/aa582881\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

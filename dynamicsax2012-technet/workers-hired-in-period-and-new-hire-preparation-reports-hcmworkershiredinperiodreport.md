@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workers hired in period and New hire preparation reports (HcmWorkersHiredInPeriodReport)
 TOCTitle: Workers hired in period and New hire preparation reports (HcmWorkersHiredInPeriodReport)
 ms:assetid: 3bc01d14-2905-4bb1-b0b0-80d19d8e0a50
@@ -182,5 +182,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View or update cash advance requests
 TOCTitle: View or update cash advance requests
 ms:assetid: 9fc2287d-c1e2-40bc-9c2b-34096e7ad7ac
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213384(v=AX.60)
 ms:contentKeyID: 36058762
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View or update cash advance requests 
@@ -32,5 +34,5 @@ You can update cash advance requests that were previously approved. You can upda
       - **Reset** – Reset the status of the cash advance request to **Approved**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

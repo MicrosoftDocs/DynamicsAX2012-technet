@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain your professional experience information
 TOCTitle: Add and maintain your professional experience information
 ms:assetid: ee3fff9c-095d-4c5e-af52-5b4b1ff5816f
@@ -10,6 +10,8 @@ f1_keywords:
 - HcmEPPersonProfessionalExperienceCreate
 - HcmEPPersonProfessionalExperienceEdit
 - HcmEPPersonProfessionalExperienceInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain your professional experience information 
@@ -66,5 +68,5 @@ Use the **Competencies** page to add or maintain information about the professio
 2.  On the **Professional experiences** FastTab, select professional experience row to remove and then click **Remove**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

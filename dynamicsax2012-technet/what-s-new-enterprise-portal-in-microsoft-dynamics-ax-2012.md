@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's New: Enterprise Portal in Microsoft Dynamics AX 2012"
 TOCTitle: "What's New: Enterprise Portal"
 ms:assetid: 9c88a619-774e-4808-9ae6-cba4d7f8c316
@@ -104,5 +104,5 @@ Role Center pages are now designed to load faster, and to refresh data automatic
 [Overview of Enterprise Portal for Microsoft Dynamics AX](overview-of-enterprise-portal-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

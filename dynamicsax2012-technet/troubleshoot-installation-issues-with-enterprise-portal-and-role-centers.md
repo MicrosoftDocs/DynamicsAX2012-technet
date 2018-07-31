@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshoot installation issues with Enterprise Portal and Role Centers
 TOCTitle: Troubleshoot installation issues with Enterprise Portal and Role Centers
 ms:assetid: e0cee771-4fcb-42e3-9213-5b297c8f6fe5
@@ -88,5 +88,5 @@ If you install Enterprise Portal on a server that hosts a SharePoint Team site, 
 If you intend to deploy multiple Enterprise Portals on the same server and those portals will connect to different Application Object Servers, then you must update the web.config file. For more information, see [Install multiple Enterprise Portals on the same server](install-multiple-enterprise-portals-on-the-same-server.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Guidance when Upgrading Reports
 TOCTitle: Guidance when Upgrading Reports
 ms:assetid: bf2a41b1-8a3a-41d8-a0c4-8af1e1956ae1
@@ -189,5 +189,5 @@ Use the following steps to convert a MorphX report to Reporting Services.
 [How to: Add Validation to a Data Contract Class](how-to-add-validation-to-a-data-contract-class.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

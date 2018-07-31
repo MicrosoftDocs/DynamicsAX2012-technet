@@ -172,6 +172,8 @@ Now you can populate the tables with data that will be displayed in the report.
     </table>
 
 
+3.  
+
 ### To populate the Department table
 
 1.  In the AOT, expand **Data Dictionary**, expand the **Tables** node, right-click **Department**, and then click **Open**.
@@ -219,6 +221,9 @@ Now you can populate the tables with data that will be displayed in the report.
     </tr>
     </tbody>
     </table>
+
+
+3.  
 
 ## Creating the Report
 

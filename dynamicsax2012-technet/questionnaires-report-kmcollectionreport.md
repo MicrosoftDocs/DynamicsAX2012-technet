@@ -1,4 +1,4 @@
-﻿---
+---
 title: Questionnaires report (KMCollectionReport)
 TOCTitle: Questionnaires report (KMCollectionReport)
 ms:assetid: 907b5107-a664-4a71-a783-c4d0de0ba1dc
@@ -88,5 +88,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

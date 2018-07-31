@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Create a Sites Services solution
 TOCTitle: (USA) Create a Sites Services solution
 ms:assetid: 3bd7d382-c461-44ec-b0e9-15e9b228eb2e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242216(v=AX.60)
 ms:contentKeyID: 36056657
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Create a Sites Services solution 
@@ -46,5 +48,5 @@ After you complete the wizard, the new solution is activated and ready to have p
 [(USA) Update a solution](usa-update-a-solution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

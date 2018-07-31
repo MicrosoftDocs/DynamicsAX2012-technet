@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DEU) Generate the EU sales list
 TOCTitle: (DEU) Generate the EU sales list
 ms:assetid: 83f84853-150e-4f27-8f1a-e5ef919928ea
@@ -11,6 +11,8 @@ f1_keywords:
 - SSRS_Reports.Reports.EUSalesListReporting
 - DE - 00009
 - MsDynAx060.Forms.EUSalesList
+audience: Application User
+ms.search.region: Germany
 ---
 
 # (DEU) Generate the EU sales list 
@@ -77,5 +79,5 @@ Use the **EU reporting** form to generate the EU sales list as an ELMA5 text fil
 [EU reporting (report) EUSalesListReporting](eu-reporting-report-eusaleslistreporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

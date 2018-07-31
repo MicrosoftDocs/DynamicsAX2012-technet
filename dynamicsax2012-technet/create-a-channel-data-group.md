@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a channel data group
 TOCTitle: Create a channel data group
 ms:assetid: 9fe5c16a-0119-471a-b466-b4511a5d052d
@@ -41,5 +41,5 @@ Use the following procedure to create a new channel data group.
 5.  The **Channel database** FastTab displays the channel databases that are included in the group. You can’t change this information in this form. To change the data group that a database belongs to, use the **Channel database** form. For more information, see [Set up a channel database profile](set-up-a-channel-database-profile.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

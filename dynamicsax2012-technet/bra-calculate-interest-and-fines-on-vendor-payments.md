@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Calculate interest and fines on vendor payments
 TOCTitle: (BRA) Calculate interest and fines on vendor payments
 ms:assetid: 0c31ac33-1a57-44ce-b9fc-34bd1ace0e05
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - BR - 00018
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Calculate interest and fines on vendor payments 
@@ -71,5 +73,5 @@ You can apply interest and fines on vendor payments that are delayed. The intere
 [City holiday (form)](https://technet.microsoft.com/en-us/library/jj677375\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign fixed asset numbers to bar codes
 TOCTitle: Assign fixed asset numbers to bar codes
 ms:assetid: 388b604d-2531-42a0-bf3f-49872adc9bc6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570140(v=AX.60)
 ms:contentKeyID: 36056622
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign fixed asset numbers to bar codes 
@@ -52,5 +54,5 @@ Instead of using the fixed asset number codes as bar codes, you can assign fixed
 [Assign fixed asset number to bar code (form)](https://technet.microsoft.com/en-us/library/aa553643\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

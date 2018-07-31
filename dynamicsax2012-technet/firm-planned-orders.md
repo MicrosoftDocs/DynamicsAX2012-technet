@@ -1,4 +1,4 @@
-﻿---
+---
 title: Firm planned orders
 TOCTitle: Firm planned orders
 ms:assetid: 9ffae36b-8dd7-4bf1-8bff-be1d70b8d334
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - planned orders
 - firm planned orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Firm planned orders 
@@ -38,5 +40,5 @@ You must firm a planned order before you can process it.
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

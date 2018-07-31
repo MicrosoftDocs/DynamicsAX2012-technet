@@ -1,4 +1,4 @@
-﻿---
+---
 title: View subledger journals for free text invoices
 TOCTitle: View subledger journals for free text invoices
 ms:assetid: 4a28a211-1a72-4751-89ef-494cb678a90e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500166(v=AX.60)
 ms:contentKeyID: 37820200
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View subledger journals for free text invoices 
@@ -26,5 +28,5 @@ You can use the **Subledger journal** form to view the debits and credits for fr
 5.  To modify the subledger journal by using the **Subledger journal** form, see [Create accounting distributions for free text invoices](create-accounting-distributions-for-free-text-invoices.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

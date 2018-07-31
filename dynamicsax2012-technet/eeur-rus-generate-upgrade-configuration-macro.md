@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR, RUS) Generate upgrade configuration macro
 TOCTitle: (EEUR, RUS) Generate upgrade configuration macro
 ms:assetid: aee421a1-5c2a-4e48-91a1-a142df7ce5bb
@@ -40,5 +40,5 @@ The following steps describe how to create the macro file and to save it as a li
 [(EEUR, RUS) Upgrade configuration macro generator (form)](https://technet.microsoft.com/en-us/library/jj713627\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

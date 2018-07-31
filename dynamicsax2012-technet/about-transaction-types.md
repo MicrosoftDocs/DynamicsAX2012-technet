@@ -1,4 +1,4 @@
-﻿---
+---
 title: About transaction types
 TOCTitle: About transaction types
 ms:assetid: 73f4d742-772a-4c86-ac04-725156fbe7bf
@@ -14,6 +14,8 @@ f1_keywords:
 - transaction type
 - expense
 - fee - subscription
+audience: Application User
+ms.search.region: Global
 ---
 
 # About transaction types 
@@ -110,5 +112,5 @@ Both category groups have the transaction type **Expense**. Their categories als
 [About project category groups](about-project-category-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

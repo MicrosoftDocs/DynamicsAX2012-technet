@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Generate the withholding tax reports
 TOCTitle: (SAU) Generate the withholding tax reports
 ms:assetid: 8d742be6-b29b-492f-ba6c-c604e21d35cb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209357(v=AX.60)
 ms:contentKeyID: 36058502
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) Generate the withholding tax reports 
@@ -60,5 +62,5 @@ In addition to these reports, you can also generate a withholding tax slip for e
 [(SAU) Saudi Arabia monthly withholding tax report (TaxWithholdMonthlyReport\_SA)](sau-saudi-arabia-monthly-withholding-tax-report-taxwithholdmonthlyreport-sa.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

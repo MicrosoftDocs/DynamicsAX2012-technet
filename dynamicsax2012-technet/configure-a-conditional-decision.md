@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure a conditional decision
 TOCTitle: Configure a conditional decision
 ms:assetid: 5b943175-4362-4f45-82f5-6ea86fbeda5b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731801(v=AX.60)
 ms:contentKeyID: 35132646
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure a conditional decision 
@@ -56,5 +58,5 @@ A conditional decision is a point at which a workflow divides into two branches.
 [Configure workflow elements](configure-workflow-elements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

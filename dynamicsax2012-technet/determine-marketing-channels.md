@@ -1,4 +1,4 @@
-﻿---
+---
 title: Determine marketing channels
 TOCTitle: Determine marketing channels
 ms:assetid: 11a50ae9-3b1c-42f4-9126-09328765e187
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - marketing channel
 - marketing channels
+audience: Application User
+ms.search.region: Global
 ---
 
 # Determine marketing channels 
@@ -29,5 +31,5 @@ The topics in this section provide information that can help you to determine yo
 [Create or update a mailing list](create-or-update-a-mailing-list.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

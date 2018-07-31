@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with batch order sequencing
 TOCTitle: Working with batch order sequencing
 ms:assetid: 7ffd6ab2-3bf4-4528-ae8b-bb2cb400559c
@@ -13,6 +13,8 @@ f1_keywords:
 - process industries
 - batches
 - batch order sequencing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Working with batch order sequencing 
@@ -27,5 +29,5 @@ The topics in this section provide information about how to work with batch orde
 [Sequence planned batch orders](sequence-planned-batch-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

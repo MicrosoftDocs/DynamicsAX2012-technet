@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Assign PRODCOM properties to an item
 TOCTitle: (BEL) Assign PRODCOM properties to an item
 ms:assetid: 16486ce0-4cd1-4dd4-862c-c2ffc1db5fa9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230955(v=AX.60)
 ms:contentKeyID: 36056069
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Assign PRODCOM properties to an item 
@@ -34,5 +36,5 @@ Use the **PRODCOM** form to assign PRODCOM properties to an item.
 [(BEL) Use PRODCOM](bel-use-prodcom.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

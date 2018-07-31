@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View transactions with service tax
 TOCTitle: (IND) View transactions with service tax
 ms:assetid: 7a260e36-5727-4ab8-bfda-03b0a60eb158
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677928(v=AX.60)
 ms:contentKeyID: 49385871
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View transactions with service tax 
@@ -68,5 +70,5 @@ You can use the **Service tax inquiry** form to view all transactions for the se
 [(IND) Service tax inquiry (form)](https://technet.microsoft.com/en-us/library/jj664526\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

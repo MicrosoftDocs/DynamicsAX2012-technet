@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Settle customer consolidated invoices by using a payment proposal
 TOCTitle: (JPN) Settle customer consolidated invoices by using a payment proposal
 ms:assetid: 121c408e-a706-4fa1-88cd-1754f8d70aae
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711007(v=AX.60)
 ms:contentKeyID: 49386420
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Settle customer consolidated invoices by using a payment proposal 
@@ -58,5 +60,5 @@ Use the **Customer payment proposal** form to settle open transactions that are 
 [Export letter of credit/import collection (form)](https://technet.microsoft.com/en-us/library/hh208689\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

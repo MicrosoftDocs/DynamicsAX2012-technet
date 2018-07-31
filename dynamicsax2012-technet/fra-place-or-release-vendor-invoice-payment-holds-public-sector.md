@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Place or release vendor invoice payment holds (Public sector)
 TOCTitle: (FRA) Place or release vendor invoice payment holds (Public sector)
 ms:assetid: ea5554b6-7a66-4d12-8a36-27393edf6929
@@ -14,6 +14,8 @@ f1_keywords:
 - vendor invoice payment hold
 - payment holds
 - vendor invoice payment holds
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Place or release vendor invoice payment holds (Public sector) 
@@ -190,5 +192,5 @@ This action places or releases a payment hold for all vendor invoices that are a
 [(FRA) Vendor invoice payment hold history (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208535\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

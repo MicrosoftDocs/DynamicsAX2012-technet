@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Generate the DES report
 TOCTitle: (FRA) Generate the DES report
 ms:assetid: 3a03da63-3947-4425-b7bf-f1638340de3e
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - France
 - DES report
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Generate the DES report 
@@ -73,5 +75,5 @@ EU Reporting (report)
 [EU sales list (form)](https://technet.microsoft.com/en-us/library/aa596355\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

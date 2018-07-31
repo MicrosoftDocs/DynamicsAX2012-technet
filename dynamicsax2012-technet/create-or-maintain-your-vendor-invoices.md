@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or maintain your vendor invoices
 TOCTitle: Create or maintain your vendor invoices
 ms:assetid: 2a707e71-ff74-4cf8-a297-4e029ca1b2ef
@@ -20,6 +20,8 @@ f1_keywords:
 - EPVendInvoiceSelectPackingSlip
 - EPVendInvoiceSelectPurchaseOrderVSS
 - EPVendInvoiceUpdateInvoice
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or maintain your vendor invoices 
@@ -58,5 +60,5 @@ You can create and modify vendor invoices by using the **Vendor invoices** page 
 4.  On the **View invoice** page, you can view or modify the line information for the invoice.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

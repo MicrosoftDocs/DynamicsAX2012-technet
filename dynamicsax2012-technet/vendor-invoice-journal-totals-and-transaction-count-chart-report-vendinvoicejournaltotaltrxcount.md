@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor invoice journal totals and transaction count chart report (VendInvoiceJournalTotalTrxCount)
 TOCTitle: Vendor invoice journal totals and transaction count chart report (VendInvoiceJournalTotalTrxCount)
 ms:assetid: f15f5ed2-453c-4cb2-ba90-e1837537db6b
@@ -114,5 +114,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change the case association of an entity record
 TOCTitle: Change the case association of an entity record
 ms:assetid: d141494d-f7fe-46de-8281-5cc58f266c78
@@ -13,6 +13,8 @@ f1_keywords:
 - audit case association
 - case association
 - change case association
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change the case association of an entity record 
@@ -43,5 +45,5 @@ Follow these steps to disassociate an entity record, such as an expense report o
 [Case management](case-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Set up the import of telebank payments from customers
 TOCTitle: (EST) Set up the import of telebank payments from customers
 ms:assetid: 8327f2f2-e91b-4c30-90f5-69892d8552bd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710856(v=AX.60)
 ms:contentKeyID: 49385252
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Set up the import of telebank payments from customers 
@@ -36,5 +38,5 @@ You can import telebank payments from customers into the accounts receivable pay
 [(EST) File formats for methods of payment (form)](https://technet.microsoft.com/en-us/library/jj710825\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

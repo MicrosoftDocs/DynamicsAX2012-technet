@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Invoice customers
 TOCTitle: (CHN) Invoice customers
 ms:assetid: 3e943f00-c5b9-4b05-bfe5-e8b19841185a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ714373(v=AX.60)
 ms:contentKeyID: 49651480
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Invoice customers 
@@ -20,5 +22,5 @@ The topics in this section provide information about how to invoice customers.
 [(CHN) Split or combine VAT customer invoices](chn-split-or-combine-vat-customer-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

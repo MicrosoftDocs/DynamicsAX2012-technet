@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a store database or an offline database (AX 2012 R2 and AX 2012 Feature Pack)
 TOCTitle: Create a store database or an offline database (AX 2012 R2 and AX 2012 Feature Pack)
 ms:assetid: 99ba8d75-d3ef-457d-a714-95dd894fccc5
@@ -166,5 +166,5 @@ For more information about offline scopes and offline profiles, see [Set up offl
 [Use Retail POS in offline mode](use-retail-pos-in-offline-mode.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

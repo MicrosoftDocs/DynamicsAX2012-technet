@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) View, email, export, and print an electronic invoice
 TOCTitle: (MEX) View, email, export, and print an electronic invoice
 ms:assetid: 82b619e2-296b-4cf3-80c7-a5616377b490
@@ -11,6 +11,8 @@ f1_keywords:
 - Email
 - export
 - electronic invoice
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) View, email, export, and print an electronic invoice 
@@ -49,5 +51,5 @@ Use the **CFD - Electronic invoices** form to view, email, export, or print an a
 [(MEX) CFD (electronic invoices) (form)](https://technet.microsoft.com/en-us/library/hh209329\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Edit code at a customer site
 TOCTitle: Edit code at a customer site
 ms:assetid: 4c8d3398-243b-490a-a80b-d32a31f16da4
@@ -26,5 +26,5 @@ If you have a development license, you can edit X++ code at any customer locatio
 [Manage development configuration settings](manage-development-configuration-settings.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

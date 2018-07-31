@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a bank account for a currency transaction
 TOCTitle: (RUS) Set up a bank account for a currency transaction
 ms:assetid: 2e7e607f-5b7c-49b7-8003-d691fa44dd23
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856191(v=AX.60)
 ms:contentKeyID: 50407074
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a bank account for a currency transaction 
@@ -34,5 +36,5 @@ Use the **Bank accounts** form to set up a bank account for currency transaction
 [(RUS) Set up a bank for currency transactions](rus-set-up-a-bank-for-currency-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

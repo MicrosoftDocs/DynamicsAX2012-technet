@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a corrective document
 TOCTitle: (RUS) Create a corrective document
 ms:assetid: 30280655-3038-4b29-832a-f52cee7b3762
@@ -10,6 +10,8 @@ f1_keywords:
 - document
 - correct
 - correction document
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a corrective document 
@@ -50,5 +52,5 @@ You can create a corrective document to correct a document that is returned by t
 [(RUS) Import data from the Financial reports generator report](rus-import-data-from-the-financial-reports-generator-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

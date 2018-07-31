@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Post extraordinary depreciation for a fixed asset and generate the Fixed asset book report
 TOCTitle: (ITA) Post extraordinary depreciation for a fixed asset and generate the Fixed asset book report
 ms:assetid: 452eccac-aad5-4c1e-9227-4576e5b6854b
@@ -10,6 +10,8 @@ f1_keywords:
 - Italy
 - depreciation
 - fixed asset book report
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Post extraordinary depreciation for a fixed asset and generate the Fixed asset book report 
@@ -224,5 +226,5 @@ First, create an extraordinary depreciation profile to set up the extraordinary 
 [About straight line service life depreciation](about-straight-line-service-life-depreciation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

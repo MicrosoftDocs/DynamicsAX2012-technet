@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Pay-sheet of receipts and expenditure report (InventIncomeOutlay_RU)
 TOCTitle: (RUS) Pay-sheet of receipts and expenditure report (InventIncomeOutlay_RU)
 ms:assetid: 41ae59f5-9cf4-4e05-adfd-44dcecd69b27
@@ -138,5 +138,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Inventory transactions (form)](https://technet.microsoft.com/en-us/library/aa584374\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

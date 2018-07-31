@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Receivable details (China) (report)
 TOCTitle: (CHN) Receivable details (China) (report)
 ms:assetid: 0e3d03eb-d852-4a3f-998b-1c4034a36132
@@ -108,5 +108,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up global address book parameters
 TOCTitle: Set up global address book parameters
 ms:assetid: d2e0ed31-fb63-4407-9ce3-9ffa52ff55e8
@@ -38,5 +38,5 @@ Before you begin to work with the global address book or another address book in
 9.  Select which user roles can have access to private address and contact information by using the **Add \>\>** button. You can use the **\<\< Remove** button to remove the privilege from a role.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

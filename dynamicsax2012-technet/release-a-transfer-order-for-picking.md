@@ -1,4 +1,4 @@
-﻿---
+---
 title: Release a transfer order for picking
 TOCTitle: Release a transfer order for picking
 ms:assetid: d011fcc3-fc67-4041-af41-c297a9f4d18f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550995(v=AX.60)
 ms:contentKeyID: 36059484
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Release a transfer order for picking 
@@ -32,5 +34,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 9.  Close the form to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

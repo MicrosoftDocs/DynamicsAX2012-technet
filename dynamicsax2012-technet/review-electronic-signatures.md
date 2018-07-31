@@ -1,4 +1,4 @@
-﻿---
+---
 title: Review electronic signatures
 TOCTitle: Review electronic signatures
 ms:assetid: 5cfc2b61-76cb-448e-8e74-4c93198d3eef
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - compliance
 - e-signatures
+audience: Application User
+ms.search.region: Global
 ---
 
 # Review electronic signatures 
@@ -29,5 +31,5 @@ At times you may need to verify electronic signatures, either for your own purpo
 3.  To print the information, click the Print icon.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

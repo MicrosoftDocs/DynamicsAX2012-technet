@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Manage sales tax transactions for General ledger
 TOCTitle: (IND) Manage sales tax transactions for General ledger
 ms:assetid: 0be7e99e-c022-42ec-a5dd-478e95cfa330
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664474(v=AX.60)
 ms:contentKeyID: 49385553
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Manage sales tax transactions for General ledger 
@@ -30,5 +32,5 @@ The following topics provide information about sales tax in General ledger trans
 [(IND) View transactions with customs duty](ind-view-transactions-with-customs-duty.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

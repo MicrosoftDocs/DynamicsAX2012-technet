@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Form SE report (IntrastatFormLetterSE)
 TOCTitle: (SWE) Form SE report (IntrastatFormLetterSE)
 ms:assetid: 3e8ed155-1cea-4213-bab0-fc6297e3cbaa
@@ -151,5 +151,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(SWE) Generate an Intrastat file for an EU vendor](swe-generate-an-intrastat-file-for-an-eu-vendor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: " fixed location"
 TOCTitle: " fixed location"
 ms:assetid: DynamicsAXGlossary.2014315
@@ -19,5 +19,5 @@ A permanent location that is assigned to an item in a warehouse. Multiple items 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

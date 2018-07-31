@@ -1,4 +1,4 @@
-﻿---
+---
 title: " system-defined financial dimension type"
 TOCTitle: " system-defined financial dimension type"
 ms:assetid: DynamicsAXGlossary.1370468
@@ -21,5 +21,5 @@ A financial dimension mapped to a table or view in the database that represents 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

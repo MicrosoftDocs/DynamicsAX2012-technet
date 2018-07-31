@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure a parallel activity
 TOCTitle: Configure a parallel activity
 ms:assetid: 6c2aca74-ac9a-410e-a138-28000e2245f6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731827(v=AX.60)
 ms:contentKeyID: 35132676
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure a parallel activity 
@@ -56,5 +58,5 @@ A parallel activity consists of workflow branches that run at the same time. Fol
 [Configure workflow elements](configure-workflow-elements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

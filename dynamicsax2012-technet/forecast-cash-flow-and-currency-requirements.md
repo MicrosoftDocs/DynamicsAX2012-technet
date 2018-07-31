@@ -1,4 +1,4 @@
-﻿---
+---
 title: Forecast cash flow and currency requirements
 TOCTitle: Forecast cash flow and currency requirements
 ms:assetid: 167d0308-d344-4876-bb48-4d6bb9841552
@@ -11,6 +11,8 @@ f1_keywords:
 - cash flow forecast results
 - currency requirement results
 - currency requirements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Forecast cash flow and currency requirements 
@@ -47,5 +49,5 @@ The topics in this section provide information about the tasks that are related 
 [Calculate and display currency requirements](calculate-and-display-currency-requirements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

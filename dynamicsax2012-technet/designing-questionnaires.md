@@ -1,4 +1,4 @@
-﻿---
+---
 title: Designing questionnaires
 TOCTitle: Designing questionnaires
 ms:assetid: 3e011144-9d89-4529-a337-552c6c51b3b3
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - questionnaires
 - questionnaire
+audience: Application User
+ms.search.region: Global
 ---
 
 # Designing questionnaires 
@@ -29,5 +31,5 @@ The first step in the questionnaire process is to design a questionnaire. In the
 [Setting up questionnaires](setting-up-questionnaires.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

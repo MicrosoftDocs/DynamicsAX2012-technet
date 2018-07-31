@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Post an NF-e from a tax fiscal document
 TOCTitle: (BRA) Post an NF-e from a tax fiscal document
 ms:assetid: 69cb6c90-7e71-42f4-ac35-da479884502d
@@ -12,6 +12,8 @@ f1_keywords:
 - tax fiscal document
 - Post electronic fiscal document
 - Post NF-e
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Post an NF-e from a tax fiscal document 
@@ -70,5 +72,5 @@ You can create a new tax fiscal document and generate a nota fiscal eletrônica 
 [(BRA) About the NF-e process](bra-about-the-nf-e-process.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Microsoft SQL Server 2008 Program Licenses '
 TOCTitle: 'Microsoft SQL Server 2008 Program Licenses '
 ms:assetid: 43d765a0-405c-4aae-a29b-e040114f534d
@@ -24,5 +24,5 @@ Microsoft Dynamics AX 2012 is accompanied by Microsoft SQL Server software compo
 [SQL Server 2008 R2 ADOMD License Terms (English)](http://go.microsoft.com/fwlink/?linkid=215039)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

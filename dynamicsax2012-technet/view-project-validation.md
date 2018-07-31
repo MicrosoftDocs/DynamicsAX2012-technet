@@ -1,4 +1,4 @@
-﻿---
+---
 title: View project validation
 TOCTitle: View project validation
 ms:assetid: c41ea355-b11c-4ee6-9cdf-0e752d125b3e
@@ -16,6 +16,8 @@ f1_keywords:
 - category/employee
 - project/employee
 - employee/project
+audience: Application User
+ms.search.region: Global
 ---
 
 # View project validation 
@@ -38,5 +40,5 @@ Use the **Project validation worker assignments** page and **Project validation 
 [View project transactions (EP)](view-project-transactions-ep.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

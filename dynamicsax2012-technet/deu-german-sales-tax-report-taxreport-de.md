@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DEU) German sales tax report (TaxReport_DE)
 TOCTitle: (DEU) German sales tax report (TaxReport_DE)
 ms:assetid: 77c9c499-4fec-4e51-9ef9-ce29e80c20bd
@@ -126,5 +126,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Sales tax reporting codes (form)](https://technet.microsoft.com/en-us/library/aa588316\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

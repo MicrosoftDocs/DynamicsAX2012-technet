@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up asset group depreciation for depreciation books
 TOCTitle: (IND) Set up asset group depreciation for depreciation books
 ms:assetid: 9ce7b204-d548-4b04-bd99-0ef59c624376
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664704(v=AX.60)
 ms:contentKeyID: 49386035
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up asset group depreciation for depreciation books 
@@ -52,5 +54,5 @@ You also can define the asset group depreciation for depreciation books by using
 [(IND) Depreciation books (modified form)](https://technet.microsoft.com/en-us/library/jj677965\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Budget planning
 TOCTitle: Budget planning
 ms:assetid: e8b6f97c-b97f-4771-8645-2950280f4481
@@ -10,6 +10,8 @@ f1_keywords:
 - budget plan
 - budget planning
 - budget plans
+audience: Application User
+ms.search.region: Global
 ---
 
 # Budget planning 
@@ -39,5 +41,5 @@ The following topics provide information about budget planning:
 [Working with budget planning](working-with-budget-planning.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

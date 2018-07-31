@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add a Customer administrator to a service in RapidStart Services
 TOCTitle: Add a Customer administrator to a service in RapidStart Services
 ms:assetid: 35b5581b-5557-4836-8439-635c4cf80af6
@@ -75,7 +75,7 @@ After the Customer administrator signs in, he or she reviews and agrees to the o
     <p>The customer appears only if you have entered a correct account number and you are the customer’s partner of record in VOICE. If you don’t see your customer on the <strong>Select customer</strong> page, enter the customer name, and then click <strong>Search</strong>. The search page displays the customer accounts that resemble your search term and that are associated with your partner account in VOICE. Select the customer in the list, and then click <strong>Select customer</strong>. The <strong>Select customer</strong> page closes.</p></li>
     <li><p>On the <strong>Create a new customer</strong> page, the <strong>Customer account number</strong> field displays the account number. To copy the organization information and address from the customer record in VOICE, click <strong>Fill other fields using the customer account number</strong>. You can also enter the customer information manually.</p></li>
     </ol>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>When you create a customer account here without adding a VOICE account number, the RapidStart Services service remains active for only 90 days. To continue to use RapidStart Services after 90 days, you must add the customer’s account number from the VOICE system to the customer record in Partner Portal. If you don’t add the VOICE number within 90 days, the account is inactivated. Microsoft retains the data for the account for an additional 30 days. If you contact Support and provide the customer’s VOICE account number during that time, you can reactivate the account and continue to work with the data.</P>
@@ -126,5 +126,5 @@ After the Customer administrator signs in, he or she reviews and agrees to the o
 [Add users and assign roles in RapidStart Services](add-users-and-assign-roles-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

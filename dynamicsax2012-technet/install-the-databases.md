@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the databases
 TOCTitle: Install the databases
 ms:assetid: fc482e2d-d35b-41b8-9ce5-f10c00f6f3e8
@@ -20,5 +20,5 @@ These topics describe how to configure Microsoft SQL Server and install the Micr
 [Install the Microsoft Dynamics AX databases](install-the-microsoft-dynamics-ax-databases.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

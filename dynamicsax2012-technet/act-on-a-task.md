@@ -1,4 +1,4 @@
-﻿---
+---
 title: Act on a task
 TOCTitle: Act on a task
 ms:assetid: 50b8ef5a-13f2-4c51-a46c-c2c1f4499b23
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212774(v=AX.60)
 ms:contentKeyID: 35949293
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Act on a task 
@@ -82,5 +84,5 @@ Follow these steps to act on a task that is assigned to you.
     </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create report cells for electronic reporting
 TOCTitle: (RUS) Create report cells for electronic reporting
 ms:assetid: 06735d71-91f4-40d1-9ee8-67607a5be96a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711362(v=AX.60)
 ms:contentKeyID: 49387179
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create report cells for electronic reporting 
@@ -30,5 +32,5 @@ You can create report cells for electronic reporting before you submit an electr
 7.  Click **OK** to create the report cell and close the form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

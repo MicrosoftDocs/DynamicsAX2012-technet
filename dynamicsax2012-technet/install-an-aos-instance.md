@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install an AOS instance
 TOCTitle: Install an AOS instance
 ms:assetid: ed12bb98-25eb-42ce-b5f7-651a06abe688
@@ -159,5 +159,5 @@ After you install and start an AOS instance, and before you complete any other t
 [Troubleshoot installation issues with AOS](troubleshoot-installation-issues-with-aos.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

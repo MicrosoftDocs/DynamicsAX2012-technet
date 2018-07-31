@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transfer Orders configuration key (InventTransferOrders)
 TOCTitle: Transfer Orders configuration key (InventTransferOrders)
 ms:assetid: fba1c24e-f8df-4960-8e7e-e69d7bd549fa
@@ -132,5 +132,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

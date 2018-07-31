@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Set up a French national item (NGP) code
 TOCTitle: (FRA) Set up a French national item (NGP) code
 ms:assetid: c00a6f63-4dd9-4406-95b0-ac887ed216c9
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - French national item (NGP) code
 - NGP code
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Set up a French national item (NGP) code 
@@ -43,5 +45,5 @@ Use the **Released product details** form to specify an NGP code for an item. Fo
 [(FRA) NGP codes (form)](https://technet.microsoft.com/en-us/library/hh227667\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

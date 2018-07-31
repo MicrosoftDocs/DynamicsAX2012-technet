@@ -1,4 +1,4 @@
-﻿---
+---
 title: Purchasing agent - Public Sector security role (VendPurchasingAgent_PSN)
 TOCTitle: Purchasing agent - Public Sector security role (VendPurchasingAgent_PSN)
 ms:assetid: 15108371-3071-48fb-8002-92b4c9f1c5e0
@@ -255,5 +255,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

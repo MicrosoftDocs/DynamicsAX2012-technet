@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) View internal transfers of fixed assets
 TOCTitle: (LVA) View internal transfers of fixed assets
 ms:assetid: b37a533d-4278-48f7-a6fd-1bb65dd5c1e3
@@ -12,6 +12,8 @@ f1_keywords:
 - fixed asset
 - transfer history
 - internal transfer
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) View internal transfers of fixed assets 
@@ -30,5 +32,5 @@ When you transfer a fixed asset within your organization, a new line that contai
 4.  Click **Print** \> **Internal transfer statement** to print a statement of the internal transfer history for the selected fixed asset.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

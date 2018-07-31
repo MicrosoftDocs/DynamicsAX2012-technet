@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Set up general ledger parameters for Zakat reporting
 TOCTitle: (SAU) Set up general ledger parameters for Zakat reporting
 ms:assetid: b66a479d-f2ad-4cf8-b904-7caf484897a4
@@ -10,6 +10,8 @@ f1_keywords:
 - Saudi Arabia
 - Zakat reporting
 - general ledger parameters
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) Set up general ledger parameters for Zakat reporting 
@@ -38,5 +40,5 @@ To generate Zakat reports, you must first set up general ledger parameters for Z
 [(SAU) Set up Zakat information for a vendor and contract information for a subcontractor](sau-set-up-zakat-information-for-a-vendor-and-contract-information-for-a-subcontractor.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

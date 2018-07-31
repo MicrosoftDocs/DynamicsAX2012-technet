@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) View register lines
 TOCTitle: (RUS) View register lines
 ms:assetid: 49366d2d-c7b1-470d-bc05-b55d5acc6377
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665347(v=AX.60)
 ms:contentKeyID: 49387435
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) View register lines 
@@ -61,5 +63,5 @@ After register calculation, the register lines are displayed. The register lines
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

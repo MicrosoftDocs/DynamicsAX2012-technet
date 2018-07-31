@@ -1,4 +1,4 @@
-﻿---
+---
 title: Travel and expense reports
 TOCTitle: Travel and expense reports
 ms:assetid: 301a874d-0a3b-497e-b759-f20a74841448
@@ -44,5 +44,5 @@ The following reports are available in the **Travel and expense** module of Micr
 [Travel requisition summary report (TrvRequisitionSummary)](travel-requisition-summary-report-trvrequisitionsummary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

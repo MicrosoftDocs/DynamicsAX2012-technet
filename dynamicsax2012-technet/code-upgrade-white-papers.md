@@ -1,4 +1,4 @@
-﻿---
+---
 title: Code upgrade white papers
 TOCTitle: Code upgrade white papers
 ms:assetid: 5eafb4ed-e86f-4a13-90b3-31ccea62fb92
@@ -52,5 +52,5 @@ The white papers listed below describe how we recommend that you modify your cus
 [Using the Refactored Formletter Framework (White paper)](using-the-refactored-formletter-framework-white-paper.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

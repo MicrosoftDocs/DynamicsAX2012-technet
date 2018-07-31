@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ITA) Set up a method of payment for payment remittance files
 TOCTitle: (ITA) Set up a method of payment for payment remittance files
 ms:assetid: de7e833c-2ce9-42e3-85e3-4bfa685bfcc4
@@ -10,6 +10,8 @@ f1_keywords:
 - Italy
 - method of payment
 - payment remittance file
+audience: Application User
+ms.search.region: Italy
 ---
 
 # (ITA) Set up a method of payment for payment remittance files 
@@ -84,5 +86,5 @@ Before you can generate a vendor payment remittance file, you must first specify
 [(ITA) Generate and print a vendor payment remittance file](ita-generate-and-print-a-vendor-payment-remittance-file.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CZE) Accounts receivable
 TOCTitle: (CZE) Accounts receivable
 ms:assetid: e5758465-ba24-429b-a63d-bc36a83cc838
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710636(v=AX.60)
 ms:contentKeyID: 49385034
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic
 ---
 
 # (CZE) Accounts receivable 
@@ -24,5 +26,5 @@ The topics in this section provide more information about Accounts receivable.
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

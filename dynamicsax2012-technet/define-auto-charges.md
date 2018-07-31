@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define auto charges
 TOCTitle: Define auto charges
 ms:assetid: a249cab0-9405-4807-85f4-7473ddde3791
@@ -10,6 +10,8 @@ f1_keywords:
 - automatic
 - auto charge
 - auto charges
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define auto charges 
@@ -176,5 +178,5 @@ To assign a delivery fee to orders delivered by air using tiered charges:
 [About tiered charges on sales orders](about-tiered-charges-on-sales-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

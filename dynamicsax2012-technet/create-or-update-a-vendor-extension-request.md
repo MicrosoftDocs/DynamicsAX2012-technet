@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or update a vendor extension request
 TOCTitle: Create or update a vendor extension request
 ms:assetid: 393932d5-190e-4ced-a14d-5de204f4e27e
@@ -11,6 +11,8 @@ f1_keywords:
 - VendRequestCompanyAddEdit
 - VendRequestCompanyInfo
 - VendRequestCompanyExtension
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or update a vendor extension request 
@@ -115,5 +117,5 @@ You can view the workflow history for any vendor extension request that has been
 [About workflow for vendor requests](about-workflow-for-vendor-requests.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

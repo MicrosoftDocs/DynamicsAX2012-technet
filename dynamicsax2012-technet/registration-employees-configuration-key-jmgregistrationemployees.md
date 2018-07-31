@@ -1,4 +1,4 @@
-﻿---
+---
 title: Registration employees configuration key (JmgRegistrationEmployees)
 TOCTitle: Registration employees configuration key (JmgRegistrationEmployees)
 ms:assetid: 8a5b072d-5cbd-48a9-bd72-a0b93dd83552
@@ -124,5 +124,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

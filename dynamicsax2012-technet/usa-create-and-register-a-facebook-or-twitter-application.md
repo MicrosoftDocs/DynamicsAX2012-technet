@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Create and register a Facebook or Twitter application
 TOCTitle: (USA) Create and register a Facebook or Twitter application
 ms:assetid: 9bd5492a-cd7a-4cf3-a8c1-d57821e6b6f8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682098(v=AX.60)
 ms:contentKeyID: 49655585
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Create and register a Facebook or Twitter application 
@@ -58,5 +60,5 @@ As part of the process for publishing retail discounts on Facebook or Twitter, y
 [(USA) About adding retail online discounts to a campaign](usa-about-adding-retail-online-discounts-to-a-campaign.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

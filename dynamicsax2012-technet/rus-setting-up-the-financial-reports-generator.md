@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Setting up the Financial reports generator
 TOCTitle: (RUS) Setting up the Financial reports generator
 ms:assetid: 6eeedd53-3286-4d29-9606-df3a656964f1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678346(v=AX.60)
 ms:contentKeyID: 49387576
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Setting up the Financial reports generator 
@@ -32,5 +34,5 @@ The topics in this section provide information about how to set up the financial
 [(RUS) Transfer electronic reporting template settings to the Financial reports generator](rus-transfer-electronic-reporting-template-settings-to-the-financial-reports-generator.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a sales order that has transportation invoice and job ticket details
 TOCTitle: (RUS) Create and post a sales order that has transportation invoice and job ticket details
 ms:assetid: cfb3b4da-ff65-4f96-9459-82b993975039
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711626(v=AX.60)
 ms:contentKeyID: 49387950
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a sales order that has transportation invoice and job ticket details 
@@ -60,5 +62,5 @@ Use the following procedure to generate and print a transportation invoice or a 
 [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Generate the delta report
 TOCTitle: (ESP) Generate the delta report
 ms:assetid: c343d721-4606-46cc-a7c2-ef1cbdc314c9
@@ -12,6 +12,8 @@ f1_keywords:
 - ES - 00003
 - MsDynAx060.Forms.Dialog
 - MsDynAx060.Forms.TaxReport347Table
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Generate the delta report 
@@ -44,5 +46,5 @@ Use the **Declaration 347** form to generate a delta report to view the differen
 5.  In the **Declaration 347** form, click **Output**, and then click **Delta report** to generate the delta report.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

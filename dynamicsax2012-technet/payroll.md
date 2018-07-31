@@ -1,4 +1,4 @@
-﻿---
+---
 title: Payroll
 TOCTitle: Payroll
 ms:assetid: d79efff3-eef8-4b58-b46c-9ef7274cf0de
@@ -8,6 +8,8 @@ ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
 - payroll
+audience: Application User
+ms.search.region: USA
 ---
 
 # Payroll 
@@ -65,5 +67,5 @@ Payroll integrates with the following Microsoft Dynamics AX modules:
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

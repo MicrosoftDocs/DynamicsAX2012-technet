@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create a purchase order and post charges
 TOCTitle: (IND) Create a purchase order and post charges
 ms:assetid: 7d47c31d-5f53-4c18-86c9-b7288f16936a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677944(v=AX.60)
 ms:contentKeyID: 49385907
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create a purchase order and post charges 
@@ -88,5 +90,5 @@ A sales order or purchase order is created automatically for the intercompany fo
 [(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

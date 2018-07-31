@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the synchronization proxy for Microsoft Project Server
 TOCTitle: Install the synchronization proxy for Microsoft Project Server
 ms:assetid: 1b3a19a1-cfbf-4bfe-85cb-b66ae4c615e7
@@ -79,5 +79,5 @@ Use this procedure to install the synchronization proxy. If you install other Mi
 16. After the installation is completed, click **Finish** to close the wizard.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Design the rows and columns of a traditional financial statement
 TOCTitle: Design the rows and columns of a traditional financial statement
 ms:assetid: ef8dc67f-adcd-49f0-b0d9-3745162d3b09
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551563(v=AX.60)
 ms:contentKeyID: 44081061
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Design the rows and columns of a traditional financial statement 
@@ -147,5 +149,5 @@ After you set up all the rows and columns, you can generate the traditional fina
 [Financial statement setup (form)](https://technet.microsoft.com/en-us/library/aa600912\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

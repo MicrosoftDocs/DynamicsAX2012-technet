@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Generate a fixed asset disposal statement
 TOCTitle: (LVA) Generate a fixed asset disposal statement
 ms:assetid: 444c3976-a11a-4f6f-91cf-959d387ea1d7
@@ -12,6 +12,8 @@ f1_keywords:
 - disposal
 - statement
 - disposal statement
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Generate a fixed asset disposal statement 
@@ -56,5 +58,5 @@ The fixed asset disposal statement is a primary accounting document that provide
 [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

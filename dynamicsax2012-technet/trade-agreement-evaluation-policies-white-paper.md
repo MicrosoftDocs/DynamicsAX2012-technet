@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trade Agreement Evaluation Policies (White paper)
 TOCTitle: Trade Agreement Evaluation Policies
 ms:assetid: 96a561ab-baea-4474-8a16-2cf29d6c0e21
@@ -20,5 +20,5 @@ Intended for developers and administrators, this white paper provides detailed i
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=252366).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

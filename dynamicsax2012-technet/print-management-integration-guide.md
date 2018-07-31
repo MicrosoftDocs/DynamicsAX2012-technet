@@ -1,4 +1,4 @@
-﻿---
+---
 title: Print Management Integration Guide
 TOCTitle: Print Management Integration Guide
 ms:assetid: 94dbc3c3-09b5-41d8-bb91-42789081f56c
@@ -18,5 +18,5 @@ Print management gives users specialized control of print settings for selected 
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=274095%26clcid=0x409).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

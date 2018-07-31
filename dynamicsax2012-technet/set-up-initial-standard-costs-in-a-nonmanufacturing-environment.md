@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up initial standard costs in a nonmanufacturing environment
 TOCTitle: Set up initial standard costs in a nonmanufacturing environment
 ms:assetid: cc5882e8-5f55-41e0-a050-94051c4c8a9a
@@ -13,6 +13,8 @@ f1_keywords:
 - standard cost
 - standard costs
 - nonmanufacturing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up initial standard costs in a nonmanufacturing environment 
@@ -57,5 +59,5 @@ Repeat the steps in this procedure for separate costing versions when they conta
 [Update standard costs in a nonmanufacturing environment](update-standard-costs-in-a-nonmanufacturing-environment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate the Issue slip (M-15) for bailment
 TOCTitle: (RUS) Generate the Issue slip (M-15) for bailment
 ms:assetid: 0011a880-a611-4c36-8a65-27942c7deae1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733173(v=AX.60)
 ms:contentKeyID: 49685141
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate the Issue slip (M-15) for bailment 
@@ -42,5 +44,5 @@ You can generate the Issue slip (M-15) when you ship a transfer order for bailme
 [(RUS) Transfer order shipment (modified form)](https://technet.microsoft.com/en-us/library/jj733191\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create absence registrations for planned absences
 TOCTitle: Create absence registrations for planned absences
 ms:assetid: 9eb55320-a804-41eb-8736-a90c11d16c2a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - absence
 - plan
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create absence registrations for planned absences 
@@ -59,5 +61,5 @@ By registering absences in advance, you can plan for holidays, external training
 [Planned absence registrations (form)](https://technet.microsoft.com/en-us/library/aa589208\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

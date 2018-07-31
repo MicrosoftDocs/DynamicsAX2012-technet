@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage users
 TOCTitle: Manage users
 ms:assetid: 0f168598-54e6-4fb6-be09-b1160e2f3ab7
@@ -24,5 +24,5 @@ This section provides information about how to manage users of Microsoft Dynamic
 [Manage user groups](manage-user-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

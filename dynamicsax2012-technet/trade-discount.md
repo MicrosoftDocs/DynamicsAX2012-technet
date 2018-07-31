@@ -1,4 +1,4 @@
-﻿---
+---
 title: " trade discount"
 TOCTitle: " trade discount"
 ms:assetid: DynamicsAXGlossary.1496366
@@ -23,5 +23,5 @@ A discount that does not depend on prompt payment.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

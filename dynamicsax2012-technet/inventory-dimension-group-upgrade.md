@@ -1,4 +1,4 @@
-﻿---
+---
 title: Inventory dimension group upgrade
 TOCTitle: Inventory dimension group upgrade
 ms:assetid: a5527e0c-dce8-414f-b0cd-4a3084a8a837
@@ -227,5 +227,5 @@ The following table shows the dimension groups that Microsoft Dynamics AX propos
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

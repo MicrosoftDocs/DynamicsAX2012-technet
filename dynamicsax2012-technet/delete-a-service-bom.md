@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete a service BOM
 TOCTitle: Delete a service BOM
 ms:assetid: 7bd79c68-2281-483c-aaa9-12d3f3dc6414
@@ -10,6 +10,8 @@ f1_keywords:
 - delete
 - service
 - bill of materials
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete a service BOM 
@@ -38,5 +40,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 [Manage template BOMs on object relations](manage-template-boms-on-object-relations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Insert a Code node
 TOCTitle: Insert a Code node
 ms:assetid: 78dde46c-239c-4edb-921d-1c1b39ea4354
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550054(v=AX.60)
 ms:contentKeyID: 36058230
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Insert a Code node 
@@ -42,5 +44,5 @@ The Code node is used to insert X++ code in the product model and is intended fo
 10. Click **OK** to save the code.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

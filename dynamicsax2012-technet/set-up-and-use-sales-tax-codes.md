@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up and use sales tax codes
 TOCTitle: Set up and use sales tax codes
 ms:assetid: 188be966-db4f-49dc-98a7-6d72128415b1
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - set up and use sales tax codes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up and use sales tax codes 
@@ -56,5 +58,5 @@ The sales tax is calculated for each item line based on the sales tax codes that
   - The sales tax for the WIDGET transaction is calculated according to sales tax codes VAT and ALC.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

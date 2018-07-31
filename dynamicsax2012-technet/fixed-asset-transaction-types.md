@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed asset transaction types
 TOCTitle: Fixed asset transaction types
 ms:assetid: 37462558-9e84-4c42-a186-244a3fc03cdf
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - transaction types
 - transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Fixed asset transaction types 
@@ -25,5 +27,5 @@ The following topics provide information about fixed asset transaction types:
 [About fixed asset reserves](about-fixed-asset-reserves.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Installation"
 TOCTitle: Installation features
 ms:assetid: 21756ba4-0bc4-44ee-8f95-686d9a5c158c
@@ -135,5 +135,5 @@ For more detailed information about installation, see [Install Microsoft Dynamic
 You can download a printable version of the [Installation Guide](http://go.microsoft.com/fwlink/?linkid=163796) from the Microsoft Download Center.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

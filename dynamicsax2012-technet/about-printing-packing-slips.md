@@ -1,4 +1,4 @@
-﻿---
+---
 title: About printing packing slips
 TOCTitle: About printing packing slips
 ms:assetid: e4c671c3-e138-43a0-9971-455a793933a3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551404(v=AX.60)
 ms:contentKeyID: 36059733
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About printing packing slips 
@@ -20,5 +22,5 @@ To print packing slips automatically, in the **Intercompany** form for purchase 
 If you update the packing slip on the intercompany sales order, the changes are reflected automatically on the intercompany purchase order and the original sales order.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

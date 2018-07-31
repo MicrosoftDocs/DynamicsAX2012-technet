@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create the WIP and FP estimate in a tax accounting register
 TOCTitle: (RUS) Create the WIP and FP estimate in a tax accounting register
 ms:assetid: aef91a08-d6ce-4a9c-8c29-eb1dfe0c803c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923579(v=AX.60)
 ms:contentKeyID: 52075425
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create the WIP and FP estimate in a tax accounting register 
@@ -46,5 +48,5 @@ Use the **Tax register journal** form to create the estimate of work in process 
 [(RUS) Calculate and approve the WIP and FP estimate in a tax accounting register](rus-calculate-and-approve-the-wip-and-fp-estimate-in-a-tax-accounting-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

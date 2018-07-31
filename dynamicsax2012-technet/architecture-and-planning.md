@@ -1,4 +1,4 @@
-﻿---
+---
 title: Architecture and planning
 TOCTitle: Architecture and planning
 ms:assetid: 33f53981-0a48-4c9a-8e4f-770f33eb3a8f
@@ -22,10 +22,9 @@ The following topics are included in this section:
 [Plan an implementation](plan-an-implementation.md)
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

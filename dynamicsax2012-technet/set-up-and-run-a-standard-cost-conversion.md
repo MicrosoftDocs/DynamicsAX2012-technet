@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up and run a standard cost conversion
 TOCTitle: Set up and run a standard cost conversion
 ms:assetid: 260d7aa4-e68d-4125-986c-dd5c42c5a01f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230996(v=AX.60)
 ms:contentKeyID: 36056196
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up and run a standard cost conversion 
@@ -114,5 +116,5 @@ Perform the following tasks to set up and run a standard cost conversion. It is 
 [About prerequisites for a standard cost conversion](about-prerequisites-for-a-standard-cost-conversion.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

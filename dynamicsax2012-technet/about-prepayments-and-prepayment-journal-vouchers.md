@@ -1,4 +1,4 @@
-﻿---
+---
 title: About prepayments and prepayment journal vouchers
 TOCTitle: About prepayments and prepayment journal vouchers
 ms:assetid: 41c8dacb-6759-4782-a145-222dea1d8a53
@@ -13,6 +13,8 @@ f1_keywords:
 - prepay
 - prepay vendors
 - pre-payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # About prepayments and prepayment journal vouchers 
@@ -99,5 +101,5 @@ Follow these steps to create a prepayment:
 For more information about the prepayment process, see [Key tasks: Prepayments](key-tasks-prepayments.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

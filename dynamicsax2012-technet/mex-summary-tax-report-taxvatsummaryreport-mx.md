@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Summary tax report (TaxVatSummaryReport_MX)
 TOCTitle: (MEX) Summary tax report (TaxVatSummaryReport_MX)
 ms:assetid: 8ffb916f-2203-4b44-a3ba-f610b972ae1d
@@ -130,5 +130,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(MEX) Generate the tax summary report](mex-generate-the-tax-summary-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

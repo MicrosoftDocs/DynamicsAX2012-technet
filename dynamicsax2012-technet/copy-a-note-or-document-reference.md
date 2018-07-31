@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy a note or document reference
 TOCTitle: Copy a note or document reference
 ms:assetid: e5a33855-22dd-436c-b535-d35ff07d36c6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573178(v=AX.60)
 ms:contentKeyID: 37822166
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy a note or document reference 
@@ -60,5 +62,5 @@ You can copy notes and document references from one record to one or more other 
 6.  In the **Document handling** form, click **Functions** \> **Paste to all**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

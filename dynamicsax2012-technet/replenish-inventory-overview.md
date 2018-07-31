@@ -1,4 +1,4 @@
-﻿---
+---
 title: Replenish inventory overview
 TOCTitle: Replenish inventory overview
 ms:assetid: fb9e0bdf-8e8f-4438-a1dc-414546c4c578
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - overview
 - inventory
+audience: Application User
+ms.search.region: Global
 ---
 
 # Replenish inventory overview 
@@ -126,5 +128,5 @@ The following table lists the forms that support the Replenishing inventory busi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

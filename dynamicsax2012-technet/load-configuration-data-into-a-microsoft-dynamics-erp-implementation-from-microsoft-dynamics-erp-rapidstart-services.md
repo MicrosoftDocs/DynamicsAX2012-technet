@@ -1,4 +1,4 @@
-﻿---
+---
 title: Load configuration data into a Microsoft Dynamics ERP implementation from Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Load configuration data into a Microsoft Dynamics ERP implementation from Microsoft Dynamics ERP RapidStart Services
 ms:assetid: e49f0a8b-c938-4982-8baf-2a9980953e0a
@@ -55,5 +55,5 @@ The topics in this section provide information to help you effectively install a
 [Review the progress on questions in a configuration project in Microsoft Dynamics ERP RapidStart Services](review-the-progress-on-questions-in-a-configuration-project-in-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

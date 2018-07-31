@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a line property
 TOCTitle: Set up a line property
 ms:assetid: b9e1ebbd-47e1-4e6e-9530-4db61c3f95aa
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - line property
 - set up line properties
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a line property 
@@ -43,5 +45,5 @@ Use the **Project/group line properties** form to set up default line properties
 [Configuring line properties](configuring-line-properties.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

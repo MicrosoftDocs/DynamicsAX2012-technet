@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow types
 TOCTitle: Workflow types
 ms:assetid: b33f1a34-4023-482a-b360-820a0e4ec388
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362043(v=AX.60)
 ms:contentKeyID: 35132820
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Workflow types 
@@ -564,5 +566,5 @@ The following table describes the types of workflows that you can create in **Tr
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Set up parameters for cash management
 TOCTitle: (EEUR) Set up parameters for cash management
 ms:assetid: f49668e5-c1fe-4e57-9b5a-4e7604f6a594
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710653(v=AX.60)
 ms:contentKeyID: 49385052
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Set up parameters for cash management 
@@ -82,5 +84,5 @@ You can perform the following cash operations:
 [Cash and bank management parameters (form)](https://technet.microsoft.com/en-us/library/aa591289\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

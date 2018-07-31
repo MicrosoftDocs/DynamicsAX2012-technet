@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reconcile a bank account
 TOCTitle: Reconcile a bank account
 ms:assetid: ce12bcc3-074a-403e-85f7-c09f13fd3d49
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572690(v=AX.60)
 ms:contentKeyID: 36971933
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reconcile a bank account 
@@ -66,5 +68,5 @@ You cannot reconcile a bank statement with a bank account if any of the checks o
 [Reverse a posted check](reverse-a-posted-check.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

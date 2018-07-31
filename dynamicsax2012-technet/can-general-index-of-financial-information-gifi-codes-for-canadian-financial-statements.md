@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CAN) General Index of Financial Information (GIFI) codes for Canadian financial statements
 TOCTitle: (CAN) General Index of Financial Information (GIFI) codes for Canadian financial statements
 ms:assetid: 69e8a761-1faa-48fc-9cc1-638ae426c069
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa585796(v=AX.60)
 ms:contentKeyID: 36057975
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Canada
 ---
 
 # (CAN) General Index of Financial Information (GIFI) codes for Canadian financial statements 
@@ -136,5 +138,5 @@ You can create a Microsoft Excel worksheet to submit reports that include GIFI c
 [Financial statement report (form)](https://technet.microsoft.com/en-us/library/aa585230\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a matching priority and a number sequence to calculate a storage service amount
 TOCTitle: (RUS) Set up a matching priority and a number sequence to calculate a storage service amount
 ms:assetid: 82478394-2aff-4c67-9e90-f3f5b634e4ec
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678424(v=AX.60)
 ms:contentKeyID: 49387654
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a matching priority and a number sequence to calculate a storage service amount 
@@ -30,5 +32,5 @@ Matching priorities are search criteria that are established for the combination
 [Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

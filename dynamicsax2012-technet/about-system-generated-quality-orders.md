@@ -1,4 +1,4 @@
-﻿---
+---
 title: About system-generated quality orders
 TOCTitle: About system-generated quality orders
 ms:assetid: dcb92041-74b3-47f6-aada-19245f5c13d4
@@ -11,6 +11,8 @@ f1_keywords:
 - automatically generate a quality order
 - conditions for generating a quality order
 - quality association record
+audience: Application User
+ms.search.region: Global
 ---
 
 # About system-generated quality orders 
@@ -117,5 +119,5 @@ The following table provides more information about how quality orders can be ge
 [About inventory blocking](about-inventory-blocking.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

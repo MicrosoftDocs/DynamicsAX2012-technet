@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Calculate the standard expenses rate for the current period register
 TOCTitle: (RUS) Calculate the standard expenses rate for the current period register
 ms:assetid: a70588e0-896e-4a15-b871-3d0c9148a190
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678571(v=AX.60)
 ms:contentKeyID: 49387799
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Calculate the standard expenses rate for the current period register 
@@ -72,5 +74,5 @@ You must set up the **Standard expenses rate for current period** register in th
 [(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

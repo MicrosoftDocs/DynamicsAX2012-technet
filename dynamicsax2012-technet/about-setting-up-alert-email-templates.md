@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up alert email templates
 TOCTitle: About setting up alert email templates
 ms:assetid: a8466f12-283c-454b-94a1-0d720c566229
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834423(v=AX.60)
 ms:contentKeyID: 46687561
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up alert email templates 
@@ -130,5 +132,5 @@ The merge data elements that you insert depend on the information that you want 
 [Syntax of XSLT template for alert emails](https://technet.microsoft.com/en-us/library/aa570097\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

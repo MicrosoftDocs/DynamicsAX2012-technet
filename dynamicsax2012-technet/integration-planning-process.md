@@ -1,4 +1,4 @@
-﻿---
+---
 title: Integration planning process
 TOCTitle: Integration planning process
 ms:assetid: 56c4b24d-cc42-4ebf-a407-0ac0a6c14fb4
@@ -46,5 +46,5 @@ The following figure provides a high-level view of the process that is used to i
 [Plan for integration](plan-for-integration.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reserve inventory manually for a sales order
 TOCTitle: Reserve inventory manually for a sales order
 ms:assetid: b34ab742-b096-41a0-a3c8-da9383432954
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571910(v=AX.60)
 ms:contentKeyID: 44081029
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reserve inventory manually for a sales order 
@@ -59,5 +61,5 @@ To reserve inventory manually for a sales order, follow these steps.
 [Set up warehouse reservations](set-up-warehouse-reservations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

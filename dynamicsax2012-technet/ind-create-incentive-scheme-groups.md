@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create incentive scheme groups
 TOCTitle: (IND) Create incentive scheme groups
 ms:assetid: 27d303a2-e17b-49f7-bdae-6b91ea24854a
@@ -23,6 +23,8 @@ f1_keywords:
 - Export Promotion Capital Goods
 - incentive scheme group
 - scheme group
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create incentive scheme groups 
@@ -71,5 +73,5 @@ The incentive scheme group can be attached to an import order in the **Purchase 
 [(IND) Tax codes for incentive schemes (form)](https://technet.microsoft.com/en-us/library/jj664578\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

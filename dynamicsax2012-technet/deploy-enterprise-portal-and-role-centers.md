@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy Enterprise Portal and Role Centers
 TOCTitle: Deploy Enterprise Portal and Role Centers
 ms:assetid: da6f6961-3a45-41f9-ae5b-37e827abc140
@@ -38,5 +38,5 @@ The topics in this section provide information about how to install Enterprise P
 [Troubleshoot installation issues with Enterprise Portal and Role Centers](troubleshoot-installation-issues-with-enterprise-portal-and-role-centers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a register using the wizard
 TOCTitle: (RUS) Create a register using the wizard
 ms:assetid: d3905c9a-179c-4715-8d09-2227ed7f1872
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711652(v=AX.60)
 ms:contentKeyID: 49387976
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a register using the wizard 
@@ -66,5 +68,5 @@ Use the register creation wizard to create registers manually. The value of thes
 [(RUS) View register lines](rus-view-register-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

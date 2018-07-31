@@ -1,4 +1,4 @@
-﻿---
+---
 title: View employee reports
 TOCTitle: View employee reports
 ms:assetid: 6ccfdb09-a3f9-441c-a4e0-3ed22e1ab3d9
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - HcmEPWorkerReportList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View employee reports 
@@ -24,5 +26,5 @@ Use the **Employee reports** page to view reports that are available to you as a
 [About reporting and analytics](about-reporting-and-analytics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Verify the import details for an import purchase order
 TOCTitle: (IND) Verify the import details for an import purchase order
 ms:assetid: 53eaa34f-769e-4d33-8d3a-4b76756bbe1e
@@ -13,6 +13,8 @@ f1_keywords:
 - india
 - import details
 - import purchase order
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Verify the import details for an import purchase order 
@@ -47,5 +49,5 @@ For information about how to create an import purchase order and attach an AA in
 [(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

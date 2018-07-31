@@ -1,4 +1,4 @@
-﻿---
+---
 title: About standard cost conversion
 TOCTitle: About standard cost conversion
 ms:assetid: 3f2f555d-7d73-434e-b491-a697c815bf05
@@ -13,6 +13,8 @@ f1_keywords:
 - standard cost
 - standard costs
 - cost conversion
+audience: Application User
+ms.search.region: Global
 ---
 
 # About standard cost conversion 
@@ -47,5 +49,5 @@ Any transactions that occur after the conversion are valued at the item's standa
 [About inventory close](about-inventory-close.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

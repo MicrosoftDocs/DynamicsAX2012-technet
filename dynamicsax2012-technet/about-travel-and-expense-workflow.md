@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Travel and expense workflow
 TOCTitle: About Travel and expense workflow
 ms:assetid: a9faf429-98fe-4958-9528-abf239298f60
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243082(v=AX.60)
 ms:contentKeyID: 39519272
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Travel and expense workflow 
@@ -48,5 +50,5 @@ The following process is an example of the expense management workflow for an ex
 After the expense report is posted, payment is authorized for the expense report and the employee is reimbursed.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

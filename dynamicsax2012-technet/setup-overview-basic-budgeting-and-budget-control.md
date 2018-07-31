@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Setup overview: basic budgeting and budget control'
 TOCTitle: 'Setup overview: basic budgeting and budget control'
 ms:assetid: 0c8ccfa4-c583-40b4-ac5f-c11c0112cd4a
@@ -13,6 +13,8 @@ f1_keywords:
 - budget control configuration key
 - configuring budget control
 - public sector configuration key
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setup overview: basic budgeting and budget control 
@@ -172,5 +174,5 @@ If you use budget control, gather the information in the following table in addi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

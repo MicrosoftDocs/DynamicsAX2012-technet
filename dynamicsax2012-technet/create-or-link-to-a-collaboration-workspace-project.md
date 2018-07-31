@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or link to a collaboration workspace (Project)
 TOCTitle: Create or link to a collaboration workspace (Project)
 ms:assetid: 8689064e-7058-49fd-8000-52de9b2827a4
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - SharePoint
 - collaboration workspace
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or link to a collaboration workspace (Project) 
@@ -51,5 +53,5 @@ Collaboration workspaces are built on Microsoft SharePoint Foundation 2010 and S
 [Set up collaboration workspaces](set-up-collaboration-workspaces.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

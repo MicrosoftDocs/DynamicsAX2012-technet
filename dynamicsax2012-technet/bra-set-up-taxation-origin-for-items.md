@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up taxation origin for items
 TOCTitle: (BRA) Set up taxation origin for items
 ms:assetid: b74e8659-0ecd-438e-8226-82e163f2aac7
@@ -13,6 +13,8 @@ f1_keywords:
 - Brazil
 - BR-00043
 - taxation origin
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up taxation origin for items 
@@ -53,5 +55,5 @@ You can set up the taxation origin for items. This information is used when you 
 [(BRA) Brazilian parameters (form)](https://technet.microsoft.com/en-us/library/jj822920\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

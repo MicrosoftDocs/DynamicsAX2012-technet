@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage load balancing
 TOCTitle: Manage load balancing
 ms:assetid: 26ddbe6b-3b03-4d6f-a591-fb75339d81fc
@@ -28,5 +28,5 @@ The topics in this section provide information about load balancing.
 [Remove an AOS from load balancing](remove-an-aos-from-load-balancing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

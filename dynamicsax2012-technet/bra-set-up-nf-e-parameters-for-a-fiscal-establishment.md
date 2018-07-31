@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up NF-e parameters for a fiscal establishment
 TOCTitle: (BRA) Set up NF-e parameters for a fiscal establishment
 ms:assetid: 4ab2c619-bb27-481c-bb20-68f0ba4c9000
@@ -12,6 +12,8 @@ f1_keywords:
 - fiscal establishment
 - electronic fiscal document parameters
 - NF-e parameters
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up NF-e parameters for a fiscal establishment 
@@ -74,5 +76,5 @@ Use the following procedure to set up the parameters for a Nota Fiscal eletrôni
 [(BRA) NF-e federal parameters (form)](https://technet.microsoft.com/en-us/library/jj933509\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Correct a purchase order packing slip before posting an invoice
 TOCTitle: (IND) Correct a purchase order packing slip before posting an invoice
 ms:assetid: 98a03250-84bb-4800-b71e-5af81c39e917
@@ -11,6 +11,8 @@ f1_keywords:
 - purchase
 - India
 - IND
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Correct a purchase order packing slip before posting an invoice 
@@ -45,5 +47,5 @@ Excise register taxes at the packing slip level are based on the calculation dat
       - The corrected quantity and tax amount
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

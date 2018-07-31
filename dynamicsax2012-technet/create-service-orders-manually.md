@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create service orders manually
 TOCTitle: Create service orders manually
 ms:assetid: baa499dc-5003-4e1d-bb0c-3f8990e67548
@@ -11,6 +11,8 @@ f1_keywords:
 - sales order wizard
 - service agreement
 - service order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create service orders manually 
@@ -99,5 +101,5 @@ You can create a service order from the **Sales orders** form by using the **Cre
 [About automatically creating service orders](about-automatically-creating-service-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up shipping carriers and carrier groups
 TOCTitle: Set up shipping carriers and carrier groups
 ms:assetid: 2b1174c1-8b0c-45b0-b27e-e4cfffc256b8
@@ -19,6 +19,8 @@ f1_keywords:
 - mode of shipment
 - shipping carrier
 - transportation tender
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up shipping carriers and carrier groups 
@@ -212,5 +214,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

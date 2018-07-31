@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up attributes and attribute types
 TOCTitle: Set up attributes and attribute types
 ms:assetid: f72d49b8-121f-4cd3-b1fc-9ca0d25ccf8d
@@ -12,6 +12,8 @@ f1_keywords:
 - attribute types
 - procurement categories
 - procurement catalogs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up attributes and attribute types 
@@ -88,5 +90,5 @@ For more information about how to assign attributes to product categories, see [
 [Key tasks: Set up a category hierarchy](key-tasks-set-up-a-category-hierarchy.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

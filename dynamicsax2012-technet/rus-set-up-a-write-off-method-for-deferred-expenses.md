@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a write-off method for deferred expenses
 TOCTitle: (RUS) Set up a write-off method for deferred expenses
 ms:assetid: 3ad62b84-cc1f-466b-aef5-adf62a8a5a20
@@ -11,6 +11,8 @@ f1_keywords:
 - expenses
 - (RUS)
 - Russia
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a write-off method for deferred expenses 
@@ -45,5 +47,5 @@ If you specify **Amount** as the calculation type for a write-off method, you mu
 [(RUS) Deferrals models (form)](https://technet.microsoft.com/en-us/library/jj678655\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

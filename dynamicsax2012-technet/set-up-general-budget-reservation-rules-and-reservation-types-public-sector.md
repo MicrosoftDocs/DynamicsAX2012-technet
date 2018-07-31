@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up general budget reservation rules and reservation types (Public sector)
 TOCTitle: Set up general budget reservation rules and reservation types (Public sector)
 ms:assetid: ae752fd2-0036-45bc-bbaf-51bda49cf021
@@ -24,6 +24,8 @@ f1_keywords:
 - budget reservation rules
 - general budget reservation rules
 - reservation type setup
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Set up general budget reservation rules and reservation types (Public sector) 
@@ -252,5 +254,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

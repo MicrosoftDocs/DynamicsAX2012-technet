@@ -1,4 +1,4 @@
-﻿---
+---
 title: Customer self-service
 TOCTitle: Customer self-service
 ms:assetid: b9bf0ad1-03f2-41e0-b7e9-738fbb7047c2
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - product builder
 - customer self-service
+audience: Application User
+ms.search.region: Global
 ---
 
 # Customer self-service 
@@ -42,5 +44,5 @@ This section contains Customer Self-Service information.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

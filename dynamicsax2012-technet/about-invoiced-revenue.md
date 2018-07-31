@@ -1,4 +1,4 @@
-﻿---
+---
 title: About invoiced revenue
 TOCTitle: About invoiced revenue
 ms:assetid: 13122f4c-7824-488f-997b-71319907fb75
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - profit and loss
 - invoiced revenue
+audience: Application User
+ms.search.region: Global
 ---
 
 # About invoiced revenue 
@@ -110,5 +112,5 @@ This topic provides an overview of how and where invoiced revenue accounts are a
 [About accrued revenue](about-accrued-revenue.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

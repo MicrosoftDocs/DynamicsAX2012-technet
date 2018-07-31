@@ -1,4 +1,4 @@
-﻿---
+---
 title: About indirect costs for projects
 TOCTitle: About indirect costs for projects
 ms:assetid: 42172540-49e0-4067-89de-b55131b68579
@@ -13,6 +13,8 @@ f1_keywords:
 - indirect cost component
 - indirect costs
 - project indirect costs
+audience: Application User
+ms.search.region: Global
 ---
 
 # About indirect costs for projects 
@@ -83,5 +85,5 @@ You want to set up two indirect costs for a project, and you want to calculate a
 [Indirect component transaction (form)](https://technet.microsoft.com/en-us/library/hh209467\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

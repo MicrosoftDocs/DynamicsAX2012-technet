@@ -1,4 +1,4 @@
-﻿---
+---
 title: View project details
 TOCTitle: View project details
 ms:assetid: d194e480-4e06-452a-a806-6f99cfa5a86b
@@ -13,6 +13,8 @@ f1_keywords:
 - ProjProjectsListPageMyProjects
 - project stage
 - view projects
+audience: Application User
+ms.search.region: Global
 ---
 
 # View project details 
@@ -87,5 +89,5 @@ When you view project information, the **Project stage** field lists the current
 [View project validation](view-project-validation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

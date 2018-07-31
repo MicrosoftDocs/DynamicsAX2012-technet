@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a payment journal for an exchanged currency
 TOCTitle: (RUS) Create and post a payment journal for an exchanged currency
 ms:assetid: b7e97c74-bbda-49c1-b24c-08468bec1c3e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856176(v=AX.60)
 ms:contentKeyID: 50407015
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a payment journal for an exchanged currency 
@@ -46,5 +48,5 @@ After you have sent a payment to the bank and received a bank statement, you can
 [(RUS) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj733511\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

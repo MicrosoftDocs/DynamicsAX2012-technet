@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate the EU sales list
 TOCTitle: Generate the EU sales list
 ms:assetid: a0051422-f133-4f56-8140-383f2045250e
@@ -10,6 +10,8 @@ f1_keywords:
 - EU sales list
 - European Union
 - sales list
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate the EU sales list 
@@ -74,5 +76,5 @@ Use the **EU reporting** form to generate the EU sales list.
 [EU reporting (report) EUSalesListReporting](eu-reporting-report-eusaleslistreporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

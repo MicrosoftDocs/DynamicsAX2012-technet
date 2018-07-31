@@ -1,4 +1,4 @@
-﻿---
+---
 title: View Role centers (Enterprise Portal)
 TOCTitle: View Role centers
 ms:assetid: 08604025-8c2b-4a11-a449-9342dcfeaaa6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242117(v=AX.60)
 ms:contentKeyID: 36055972
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View Role centers (Enterprise Portal) 
@@ -28,5 +30,5 @@ If you navigate away from your Role Center, you can view it at any time by click
 [About Role Center page components](about-role-center-page-components.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

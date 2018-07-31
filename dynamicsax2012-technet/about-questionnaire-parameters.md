@@ -1,4 +1,4 @@
-﻿---
+---
 title: About questionnaire parameters
 TOCTitle: About questionnaire parameters
 ms:assetid: 1e78a7e5-ae14-4a55-a73d-b8bf8b1a1635
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580581(v=AX.60)
 ms:contentKeyID: 39519062
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About questionnaire parameters 
@@ -30,5 +32,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [About question types](about-question-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHE) Set up a method of payment for LSV+ payment export files
 TOCTitle: (CHE) Set up a method of payment for LSV+ payment export files
 ms:assetid: f99ae6ab-36ec-4cd2-b727-9194d18c4e2a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243300(v=AX.60)
 ms:contentKeyID: 36060060
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Switzerland
 ---
 
 # (CHE) Set up a method of payment for LSV+ payment export files 
@@ -42,5 +44,5 @@ Use the **Methods of payment** form to set up a method of payment for Lastschrif
 [(CHE) Swiss LSV+ electronic payment format](che-swiss-lsv-electronic-payment-format.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

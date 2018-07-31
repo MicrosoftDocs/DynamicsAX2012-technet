@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up product group and item presentations
 TOCTitle: Set up product group and item presentations
 ms:assetid: 4dd2d889-6626-4fda-8b11-41cdc02e9d9b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497121(v=AX.60)
 ms:contentKeyID: 44080981
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up product group and item presentations 
@@ -68,5 +70,5 @@ When a customer clicks a product group in Enterprise Portal for Microsoft Dynami
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

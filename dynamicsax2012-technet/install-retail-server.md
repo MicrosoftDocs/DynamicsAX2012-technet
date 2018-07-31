@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Retail Server
 TOCTitle: Install Retail Server
 ms:assetid: 15458480-7197-4909-bdab-0999b2fb5b43
@@ -209,9 +209,14 @@ After you extract the installation files by using Setup, you must configure sett
     <p></p>
     <p>Because this component uses Secure Sockets Layer (SSL) encryption, you must install a server certificate that was issued by a trusted certification authority. (For test environments, you can create a self-signed certificate in IIS.) You will need to paste the thumbprint for the certificate into the settings file. To view the thumbprint in IIS Manager, double-click the certificate and click the <strong>Details</strong> tab. We recommend that you paste the thumbprint into a text file and remove all spaces before you paste it into the settings file.</p>
     <div class="alert">
-    > [!Caution note]  
-	> A thumbprint can contain hidden characters at the beginning of the thumbprint value. You must delete these extra characters before you paste the thumbprint into the settings file.
-
+    <div class="mtps-table">
+    <div class="mtps-row">
+    <img src="images/Gg732282.alert_caution(AX.60).gif" title="Caution note" alt="Caution note" class="note" /><strong>Caution</strong>
+    </div>
+    <div class="mtps-row">
+    A thumbprint can contain hidden characters at the beginning of the thumbprint value. You must delete these extra characters before you paste the thumbprint into the settings file.
+    </div>
+    </div>
     </div></td>
     <td><p>None</p></td>
     </tr>
@@ -285,5 +290,5 @@ After Retail Server is deployed and configured, you can deploy Microsoft Dynamic
 [Install Retail Hardware Station](install-retail-hardware-station.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

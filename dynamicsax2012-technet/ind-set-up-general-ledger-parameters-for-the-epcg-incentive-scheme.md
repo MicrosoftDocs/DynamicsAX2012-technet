@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up general ledger parameters for the EPCG incentive scheme
 TOCTitle: (IND) Set up general ledger parameters for the EPCG incentive scheme
 ms:assetid: 6c38aa6e-be2f-41c5-8ec8-500bd8c3ba64
@@ -12,6 +12,8 @@ f1_keywords:
 - india
 - EPCG
 - EPCG incentive scheme
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up general ledger parameters for the EPCG incentive scheme 
@@ -70,5 +72,5 @@ Before you can use the Export Promotion Capital Goods (EPCG) incentive scheme, y
 [(IND) Attach an EPCG incentive scheme to an import order](ind-attach-an-epcg-incentive-scheme-to-an-import-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

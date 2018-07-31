@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create an outgoing or incoming payment
 TOCTitle: (RUS) Create an outgoing or incoming payment
 ms:assetid: 63c340e6-60f9-4a63-bc27-0771c275cc35
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - incoming
 - outgoing
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create an outgoing or incoming payment 
@@ -53,5 +55,5 @@ You can use electronic exchange file formats to export payments to a client bank
 [(RUS) Export a payment or cancel a payment exported to a client bank](rus-export-a-payment-or-cancel-a-payment-exported-to-a-client-bank.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

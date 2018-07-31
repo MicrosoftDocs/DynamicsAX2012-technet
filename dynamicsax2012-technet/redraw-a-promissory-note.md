@@ -1,4 +1,4 @@
-﻿---
+---
 title: Redraw a promissory note
 TOCTitle: Redraw a promissory note
 ms:assetid: d271c356-9af6-4d29-b459-b249bdd71559
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551040(v=AX.60)
 ms:contentKeyID: 36966741
 ms.date: 06/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Redraw a promissory note 
@@ -67,5 +69,5 @@ You can use the **Redraw promissory note journal** form to redraw a promissory n
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up calculation parameters for amount differences in tax accounting
 TOCTitle: (RUS) Set up calculation parameters for amount differences in tax accounting
 ms:assetid: 43b7f5ae-703d-4d39-973c-7bbf724ba9bc
@@ -11,6 +11,8 @@ f1_keywords:
 - amount differences
 - calculation parameters
 - set up calculation parameters
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up calculation parameters for amount differences in tax accounting 
@@ -59,5 +61,5 @@ Use the **Currency revaluation accounts** form to set up calculation parameters 
 [(RUS) About tax liabilities and asset calculation registers](rus-about-tax-liabilities-and-asset-calculation-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

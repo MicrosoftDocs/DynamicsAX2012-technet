@@ -1,4 +1,4 @@
-﻿---
+---
 title: About registration groups for time and attendance
 TOCTitle: About registration groups for time and attendance
 ms:assetid: 49c4d7c0-727c-4abc-8f36-819f209b4fe4
@@ -12,6 +12,8 @@ f1_keywords:
 - calculation
 - flex
 - profile
+audience: Application User
+ms.search.region: Global
 ---
 
 # About registration groups for time and attendance 
@@ -104,5 +106,5 @@ Workers who can work flexible hours must be assigned to a flex group that specif
 [Create flex groups for time and attendance](create-flex-groups-for-time-and-attendance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

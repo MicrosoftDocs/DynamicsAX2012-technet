@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select accrued revenue for posting
 TOCTitle: Select accrued revenue for posting
 ms:assetid: 26111523-881c-46da-a394-80239bd58a7f
@@ -10,6 +10,8 @@ f1_keywords:
 - project posting
 - accrue revenue
 - accrued revenue
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select accrued revenue for posting 
@@ -46,5 +48,5 @@ Use the **Select transactions to accrue revenue** form to select accrued revenue
 [About subscriptions and accrued revenue](about-subscriptions-and-accrued-revenue.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

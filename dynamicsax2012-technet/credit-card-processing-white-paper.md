@@ -1,4 +1,4 @@
-﻿---
+---
 title: Credit card processing (White paper)
 TOCTitle: Credit card processing
 ms:assetid: 70b16533-2a8f-4d4f-9338-924e26b0aaef
@@ -18,5 +18,5 @@ This paper provides an overview of the principles used in the credit card proces
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=221082).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

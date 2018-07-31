@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a batch job
 TOCTitle: Create a batch job
 ms:assetid: 81a1c46c-d305-4b78-81f1-fb8029d575f7
@@ -91,5 +91,5 @@ Batch jobs run on a per-partition basis. A system administrator can create, chan
 [Set up alert for batch job (form)](https://technet.microsoft.com/en-us/library/hh209082\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain purchase requisitions
 TOCTitle: Maintain purchase requisitions
 ms:assetid: badb4a74-9cac-48e5-a2de-0929327a7172
@@ -11,6 +11,8 @@ f1_keywords:
 - purchase requisitions
 - requisitions
 - requisition
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain purchase requisitions 
@@ -27,5 +29,5 @@ The following topics provide information about how to update a purchase requisit
 [View the history for a purchase requisition](view-the-history-for-a-purchase-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

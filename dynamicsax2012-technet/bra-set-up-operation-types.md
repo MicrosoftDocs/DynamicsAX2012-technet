@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up operation types
 TOCTitle: (BRA) Set up operation types
 ms:assetid: f93f0083-2c8f-4260-aab4-24aae3280076
@@ -12,6 +12,8 @@ f1_keywords:
 - operation types
 - set up operation types
 - BR - 00024
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up operation types 
@@ -56,5 +58,5 @@ You cannot modify an operation type that is attached to a posted sales or purcha
 [(BRA) Create and post a purchase order](bra-create-and-post-a-purchase-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

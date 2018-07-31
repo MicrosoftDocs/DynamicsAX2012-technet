@@ -1,4 +1,4 @@
-﻿---
+---
 title: Resources for Microsoft Dynamics AX 2012
 TOCTitle: Resources for Microsoft Dynamics AX 2012
 ms:assetid: 46d9d2f4-5b16-4e6f-980a-b44c3f3d1f19
@@ -32,5 +32,5 @@ This section contains printable guides, white papers, and documentation for supp
 [Microsoft Dynamics InformationSource](lifecycle-services-downloadable-tools-formerly-on-informationsource.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

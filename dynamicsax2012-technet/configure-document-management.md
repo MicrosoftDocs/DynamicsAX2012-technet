@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure document management
 TOCTitle: Configure document management
 ms:assetid: 9fbb5573-9df5-4edd-925f-6b4ba6cbfcb1
@@ -13,6 +13,8 @@ f1_keywords:
 - document handling
 - document managament
 - MsDynAx060.Forms.DocuType
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure document management 
@@ -162,7 +164,7 @@ To create a document type, follow these steps:
     <li><p><strong>Create application document</strong> – Create a Word document without opening Word.</p></li>
     <li><p><strong>Simple note</strong> – Create a simple note for the referenced transaction.</p></li>
     <li><p><strong>Template library</strong> – Create a template file by using Word or Excel, and then save the file to a template library. For example, you can create a budget template by using Excel. Each department in your organization then enters budget information in a copy of the template.</p>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>Your system administrator must create the site or SharePoint document library for the template library.</P>
@@ -202,7 +204,7 @@ To create a document type, follow these steps:
     <td><p><strong>Archive directory</strong></p></td>
     <td><p>The directory where document files of the selected document type are stored.</p>
     <p>If this field is empty, the default archive directory that is specified in the <strong>Document management parameters</strong> form is used as the archive directory.</p>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>If you use Enterprise Portal, there are additional requirements and restrictions about document archives. For more information, see <A href="set-up-documents-for-viewing-in-enterprise-portal.md">Set up documents for viewing in Enterprise Portal</A>.</P>
@@ -219,7 +221,7 @@ To create a document type, follow these steps:
     <li><p><strong>Original location</strong> – Documents of this type are stored in the location that was used when the file was originally attached to the record.</p></li>
     <li><p><strong>SharePoint</strong> – Documents of this type are stored in a SharePoint document library.</p></li>
     </ul>
-    <div class="alert"> 
+    <div class="alert">
 
     > [!NOTE]
     > <P>If documents are stored in a shared location instead of the database, verify that the correct access level is set for the shared location.</P>
@@ -326,5 +328,5 @@ Optionally, if you set up the integration with Office Add-ins, you can create Wo
 [Document management in sales and marketing](document-management-in-sales-and-marketing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (JPN) Set up depreciation and depreciation methods
 TOCTitle: (JPN) Set up depreciation and depreciation methods
 ms:assetid: c8935f79-f46d-4fae-8ec4-851833bf349d
@@ -28,6 +28,8 @@ f1_keywords:
 - depreciation profile
 - Equally divided
 - MsDynAx060.Forms.AssetDepRate_JP
+audience: Application User
+ms.search.region: Japan
 ---
 
 # (JPN) Set up depreciation and depreciation methods 
@@ -383,5 +385,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

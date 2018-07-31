@@ -1,4 +1,4 @@
-﻿---
+---
 title: Picking
 TOCTitle: Picking
 ms:assetid: cc24722a-23d5-47f5-b9bf-8ae85bc9c6bd
@@ -11,6 +11,8 @@ f1_keywords:
 - route
 - picking
 - pick
+audience: Application User
+ms.search.region: Global
 ---
 
 # Picking 
@@ -37,5 +39,5 @@ The topics in this section provide information about picking.
 [Start picking routes](start-picking-routes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

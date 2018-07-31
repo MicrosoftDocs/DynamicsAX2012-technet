@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up permissions for ordering products on behalf of someone else
 TOCTitle: Set up permissions for ordering products on behalf of someone else
 ms:assetid: 0f0a0036-7331-470c-a8b8-c92e97c709f0
@@ -11,6 +11,8 @@ f1_keywords:
 - Buy on behalf of
 - Purchase requisition
 - Purchase requisition permissions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up permissions for ordering products on behalf of someone else 
@@ -87,5 +89,5 @@ As an administrator of the purchasing process, you can grant permissions to work
 [Key tasks: Create and submit a purchase requisition](key-tasks-create-and-submit-a-purchase-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

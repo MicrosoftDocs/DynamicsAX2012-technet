@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up withholding tax component groups for TDS tax types
 TOCTitle: (IND) Set up withholding tax component groups for TDS tax types
 ms:assetid: 2125c8a6-6cf0-43c6-b075-f17b24926511
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664554(v=AX.60)
 ms:contentKeyID: 49385633
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up withholding tax component groups for TDS tax types 
@@ -42,5 +44,5 @@ You must set up withholding tax component groups for Tax Deducted at Source (TDS
 [(IND) Withholding tax component groups (form)](https://technet.microsoft.com/en-us/library/jj678017\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

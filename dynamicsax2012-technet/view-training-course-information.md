@@ -1,4 +1,4 @@
-﻿---
+---
 title: View training course information
 TOCTitle: View training course information
 ms:assetid: ed831dfa-d7dd-4609-b7fa-b014dc591416
@@ -11,6 +11,8 @@ f1_keywords:
 - HcmEPCourseAttendeeListPage
 - HcmEPOpenCourseListPage
 - HcmMyEmployeeCourseAttendeeListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # View training course information 
@@ -57,5 +59,5 @@ For additional information about courses, see the following topics:
 [Sign up for a training course](sign-up-for-a-training-course.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

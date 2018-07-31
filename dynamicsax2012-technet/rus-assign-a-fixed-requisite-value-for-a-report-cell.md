@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Assign a fixed requisite value for a report cell
 TOCTitle: (RUS) Assign a fixed requisite value for a report cell
 ms:assetid: 4353384c-e6e0-4ebd-95cc-f6ea8b776ef3
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - fixed requisite
 - requisite
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Assign a fixed requisite value for a report cell 
@@ -61,5 +63,5 @@ Use the **Field setup** form to create a report cell that has a line type of **F
 [(RUS) Functions (form)](https://technet.microsoft.com/en-us/library/jj710703\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

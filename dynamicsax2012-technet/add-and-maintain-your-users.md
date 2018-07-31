@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add and maintain your users
 TOCTitle: Add and maintain your users
 ms:assetid: 6912e764-5d73-4883-a2b5-507e944f1d7c
@@ -16,6 +16,8 @@ f1_keywords:
 - additions
 - addition
 - maintainance
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add and maintain your users 
@@ -126,5 +128,5 @@ Requests to delete a user are sent for approval to the customer. After the reque
 [About provisioning vendor users](about-provisioning-vendor-users.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

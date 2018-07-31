@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Create an inventory counting list
 TOCTitle: (LVA) Create an inventory counting list
 ms:assetid: 8aa00731-53e1-48a8-86c2-d16c69e6abe2
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721424(v=AX.60)
 ms:contentKeyID: 49729991
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Create an inventory counting list 
@@ -76,5 +78,5 @@ After you create counting journals for items, you can print the inventory counti
 15. Click **OK** to print the **Counting list** report.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

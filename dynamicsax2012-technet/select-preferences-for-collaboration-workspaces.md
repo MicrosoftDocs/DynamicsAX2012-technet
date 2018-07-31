@@ -1,4 +1,4 @@
-﻿---
+---
 title: Select preferences for collaboration workspaces
 TOCTitle: Select preferences for collaboration workspaces
 ms:assetid: eafe821e-d0fa-4cd3-bcdd-5f85ae846edb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227484(v=AX.60)
 ms:contentKeyID: 36059867
 ms.date: 10/06/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Select preferences for collaboration workspaces 
@@ -79,5 +81,5 @@ If workspace settings are not configured for a certain business area (project, c
 [Collaboration workspace settings (form)](https://technet.microsoft.com/en-us/library/hh242783\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

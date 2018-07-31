@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring posting accounts
 TOCTitle: Configuring posting accounts
 ms:assetid: 939f07f7-39f9-4c92-8569-a2019f2064e9
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - posting accounts
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring posting accounts 
@@ -30,5 +32,5 @@ The following topics provide information about configuring posting accounts for 
 [Set up a ledger posting account for projects](set-up-a-ledger-posting-account-for-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

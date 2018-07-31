@@ -1,4 +1,4 @@
-﻿---
+---
 title: Product variants (Retail essentials)
 TOCTitle: Product variants (Retail essentials)
 ms:assetid: fa134068-bc7b-43d0-aeeb-8c6cfb928bc0
@@ -40,5 +40,5 @@ The topics in this section provide information about how to set up variants for 
 [Assign variant groups (Retail essentials)](assign-variant-groups-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View and maintain orders and statuses
 TOCTitle: View and maintain orders and statuses
 ms:assetid: d7a1d7c4-fe29-44e5-af36-3ea8c3f6acbe
@@ -11,6 +11,8 @@ f1_keywords:
 - order status
 - confirm receipt
 - my orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # View and maintain orders and statuses 
@@ -107,5 +109,5 @@ The following table lists the statuses that are assigned to the order during the
 [Check out products and create a purchase requisition](check-out-products-and-create-a-purchase-requisition.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

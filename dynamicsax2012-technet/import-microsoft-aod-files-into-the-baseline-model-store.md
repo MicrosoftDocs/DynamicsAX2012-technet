@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import Microsoft AOD files into the baseline model store
 TOCTitle: Import Microsoft AOD files into the baseline model store
 ms:assetid: 1d84cd11-89e3-4c55-aa9e-9145600ea298
@@ -105,5 +105,5 @@ For more information about how to upgrade code, see the white papers that are av
 [Import AOD files into the baseline model store](import-aod-files-into-the-baseline-model-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

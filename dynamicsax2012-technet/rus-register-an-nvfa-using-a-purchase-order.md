@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Register an NVFA using a purchase order
 TOCTitle: (RUS) Register an NVFA using a purchase order
 ms:assetid: fd12db27-cfa5-4ef4-b8fd-baa7f8d3327e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853249(v=AX.60)
 ms:contentKeyID: 50396529
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Register an NVFA using a purchase order 
@@ -42,5 +44,5 @@ Use this procedure to register a not valuable fixed asset (NVFA) by using a purc
 [(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/en-us/library/jj721462\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring accrued revenue and matching principles
 TOCTitle: Configuring accrued revenue and matching principles
 ms:assetid: c23c8136-df1c-453f-96e6-7078efd6b3c0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242833(v=AX.60)
 ms:contentKeyID: 36059279
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring accrued revenue and matching principles 
@@ -32,5 +34,5 @@ For more information about accrued revenue accounts, see the following topics:
 [Select accrued revenue for posting](select-accrued-revenue-for-posting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

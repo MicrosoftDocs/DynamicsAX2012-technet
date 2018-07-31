@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) Complementary fiscal documents from free text invoices and purchase orders'
 TOCTitle: (BRA) Complementary fiscal documents from free text invoices and purchase orders
 ms:assetid: be089165-30b0-4419-9f70-7bd4b5ccfeaf
@@ -57,5 +57,5 @@ For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specifi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

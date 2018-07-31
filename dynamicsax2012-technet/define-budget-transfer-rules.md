@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define budget transfer rules
 TOCTitle: Define budget transfer rules
 ms:assetid: 18c5412b-79c5-4783-82c3-d26d6970c0d8
@@ -11,6 +11,8 @@ f1_keywords:
 - budget transfers and workflows
 - transfer budget amounts
 - workflow and budget transfers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define budget transfer rules 
@@ -39,5 +41,5 @@ You can use the **Budget transfer rules** form to define budget transfer rules t
 [Budget transfer rules (form)](https://technet.microsoft.com/en-us/library/hh209073\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

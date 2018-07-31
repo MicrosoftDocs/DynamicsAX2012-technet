@@ -1,4 +1,4 @@
-﻿---
+---
 title: Print backorder information on packing slips and invoices
 TOCTitle: Print backorder information on packing slips and invoices
 ms:assetid: 3ece7188-6e87-4f7e-8962-901994232457
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496939(v=AX.60)
 ms:contentKeyID: 36056691
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Print backorder information on packing slips and invoices 
@@ -28,5 +30,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 7.  Click **OK** to print the packing slip or invoice. The backorder lines will be printed underneath the delivered-order lines.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

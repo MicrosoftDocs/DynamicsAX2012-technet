@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft SQL Server configuration key  (SysMSSQL)
 TOCTitle: Microsoft SQL Server configuration key  (SysMSSQL)
 ms:assetid: e293b297-dccd-443d-ad3c-e13b78f552aa
@@ -20,5 +20,5 @@ The **Microsoft SQL server database** configuration key controls access to the M
 You cannot enable or disable this key in the **License configuration** form.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

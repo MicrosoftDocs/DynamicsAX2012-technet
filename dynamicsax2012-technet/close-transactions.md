@@ -1,4 +1,4 @@
-﻿---
+---
 title: Close transactions
 TOCTitle: Close transactions
 ms:assetid: 0bb7443d-82ba-47d1-bb6a-8d986c1ee4b9
@@ -10,6 +10,8 @@ f1_keywords:
 - close transactions
 - closing sheet
 - closing transactions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Close transactions 
@@ -30,5 +32,5 @@ The topics in this section provide information about the tasks that are related 
 [(ESP) Make adjustments in the opening sheet](esp-make-adjustments-in-the-opening-sheet.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an inflation index
 TOCTitle: (RUS) Set up an inflation index
 ms:assetid: 4af1e875-26a9-47a3-acc5-7b0784a88755
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856112(v=AX.60)
 ms:contentKeyID: 50406410
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an inflation index 
@@ -54,5 +56,5 @@ Set up inflation indexes to specify rules for currency conversion for the source
 [(RUS) Inflation indexes (form)](https://technet.microsoft.com/en-us/library/jj665426\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Create invoices
 TOCTitle: (POL) Create invoices
 ms:assetid: 85f08db0-a2f0-46d4-be4a-c760313b8c5c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678270(v=AX.60)
 ms:contentKeyID: 49386992
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Create invoices 
@@ -26,5 +28,5 @@ The following topics provide information about creating invoices.
 [(POL) Register a package and verify package quantity for a sales order](pol-register-a-package-and-verify-package-quantity-for-a-sales-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

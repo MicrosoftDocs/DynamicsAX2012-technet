@@ -1,4 +1,4 @@
-﻿---
+---
 title: Application Object Servers
 TOCTitle: Application Object Servers
 ms:assetid: 90861ac1-be98-405f-9cde-b36fd31ac72c
@@ -28,10 +28,9 @@ The topics in this section provide information about AOS administration.
 [Troubleshooting Application Object Servers](troubleshooting-application-object-servers.md)
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

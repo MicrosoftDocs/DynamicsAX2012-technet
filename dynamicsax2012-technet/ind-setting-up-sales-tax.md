@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Setting up sales tax
 TOCTitle: (IND) Setting up sales tax
 ms:assetid: 35a29f5b-3dc5-4ae6-9d5d-52d9a9657975
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664607(v=AX.60)
 ms:contentKeyID: 49385684
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Setting up sales tax 
@@ -34,5 +36,5 @@ The following topics provide information about setting up sales tax.
 [(IND) Set up and use a sales tax hierarchy](ind-set-up-and-use-a-sales-tax-hierarchy.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

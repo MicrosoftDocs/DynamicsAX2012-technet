@@ -1,4 +1,4 @@
-﻿---
+---
 title: Resolve net unit price invoice matching discrepancies
 TOCTitle: Resolve net unit price invoice matching discrepancies
 ms:assetid: 82852252-b348-436b-92fb-f26f3982337c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213157(v=AX.60)
 ms:contentKeyID: 36655937
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Resolve net unit price invoice matching discrepancies 
@@ -108,5 +110,5 @@ If the **Receiving requirements** check box is selected for the inventory model 
 [Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

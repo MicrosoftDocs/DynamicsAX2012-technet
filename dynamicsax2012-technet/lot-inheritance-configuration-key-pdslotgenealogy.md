@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lot inheritance configuration key (PDSLotGenealogy)
 TOCTitle: Lot inheritance configuration key (PDSLotGenealogy)
 ms:assetid: c038fe81-c08d-494d-a011-e6c4a11edb74
@@ -77,5 +77,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

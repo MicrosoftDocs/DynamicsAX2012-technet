@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post a sales order
 TOCTitle: (BRA) Create and post a sales order
 ms:assetid: fea69605-a462-4041-8b29-e6da584c9f0b
@@ -12,6 +12,8 @@ f1_keywords:
 - Brazil
 - create a sales invoice
 - post a sales invoice
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post a sales order 
@@ -98,5 +100,5 @@ When you post a sales order, a fiscal document is generated with the total amoun
 [Summary update sales and purchase orders](https://technet.microsoft.com/en-us/library/aa553732\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

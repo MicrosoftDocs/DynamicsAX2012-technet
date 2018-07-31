@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting up a project budget
 TOCTitle: About setting up a project budget
 ms:assetid: 65de3d2b-a3fd-4e67-bd0f-85107e65dd04
@@ -10,6 +10,8 @@ f1_keywords:
 - project
 - budget
 - project budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting up a project budget 
@@ -38,5 +40,5 @@ After you complete the setup procedures, you can create the budgets for individu
 [About project budgets and forecasts](about-project-budgets-and-forecasts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

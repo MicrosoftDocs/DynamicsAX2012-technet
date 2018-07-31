@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a mix-and-match discount (Retail essentials)
 TOCTitle: Set up a mix-and-match discount (Retail essentials)
 ms:assetid: 87ada9dc-3411-4566-aea3-e78a27471cbd
@@ -96,5 +96,5 @@ To set up mix-and-match discounts, follow these steps:
 18. On the **General** FastTab, in the **Status** field, select **Enabled**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

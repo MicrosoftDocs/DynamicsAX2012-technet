@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reports (Retail essentials)
 TOCTitle: Reports (Retail essentials)
 ms:assetid: 503f6f3a-1d47-4eae-90d4-6dff03b82fbc
@@ -64,5 +64,5 @@ Retail essentials includes the following retail reports:
 [Analytics in Microsoft Dynamics AX](analytics-in-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

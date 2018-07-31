@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Setting up payroll: Advanced topics'
 TOCTitle: 'Setting up payroll: Advanced topics'
 ms:assetid: 0deddc47-d52d-487e-ae41-0234b3eaa477
@@ -14,6 +14,8 @@ f1_keywords:
 - Payroll
 - premiums
 - premium earnings
+audience: Application User
+ms.search.region: USA
 ---
 
 # Setting up payroll: Advanced topics 
@@ -42,5 +44,5 @@ To enroll a worker in a garnishment or tax levy, see [Garnishment and tax levy e
 If you have any more questions about garnishments and tax levies, see [Garnishments, tax levies, and administrative fees](garnishments-tax-levies-and-administrative-fees.md), or contact your legal advisors.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

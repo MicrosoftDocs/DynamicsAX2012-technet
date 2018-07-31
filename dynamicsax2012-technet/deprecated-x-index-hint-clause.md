@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: X++ index hint clause'
 TOCTitle: X++ index hint clause
 ms:assetid: 2424146a-0681-442c-a316-a55ccd4f8d35
@@ -99,5 +99,5 @@ Any legacy X++ select statements that include the index hint clause still run fi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

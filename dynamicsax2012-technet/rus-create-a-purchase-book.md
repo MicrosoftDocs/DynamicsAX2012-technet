@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a purchase book
 TOCTitle: (RUS) Create a purchase book
 ms:assetid: 468d621b-5b1c-4159-ac1a-600f7553bcbf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665339(v=AX.60)
 ms:contentKeyID: 49387427
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a purchase book 
@@ -79,5 +81,5 @@ A purchase book is a tax accounting document. In a purchase book, you can record
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

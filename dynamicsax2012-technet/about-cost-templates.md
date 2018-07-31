@@ -1,4 +1,4 @@
-﻿---
+---
 title: About cost templates
 TOCTitle: About cost templates
 ms:assetid: bcdeaa27-bdca-4a06-b751-42a556ee329f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - cost template
 - cost line
+audience: Application User
+ms.search.region: Global
 ---
 
 # About cost templates 
@@ -106,5 +108,5 @@ Deciding which approach to take to create a cost template can depend on several 
 [Attach a project to an estimate](attach-a-project-to-an-estimate.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

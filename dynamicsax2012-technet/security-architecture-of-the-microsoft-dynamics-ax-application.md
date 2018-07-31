@@ -1,4 +1,4 @@
-﻿---
+---
 title: Security architecture of the Microsoft Dynamics AX application
 TOCTitle: Security architecture of the Microsoft Dynamics AX application
 ms:assetid: 7d8a9cda-d97f-4b99-acd7-a42b9b662656
@@ -46,5 +46,5 @@ In addition to the extensible data security framework, record-level security can
 Additionally, the Table Permissions Framework helps protect some data. Data security for specific tables is enforced by Application Object Server (AOS). For more information about the Table Permissions Framework, see [Manage data access by using the Table Permissions Framework](manage-data-access-by-using-the-table-permissions-framework.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

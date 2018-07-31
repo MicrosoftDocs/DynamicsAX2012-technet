@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create accrual schemes
 TOCTitle: Create accrual schemes
 ms:assetid: 363b9469-bcee-4294-937f-80da1918d0ef
@@ -10,6 +10,8 @@ f1_keywords:
 - accrual scheme
 - accrual schemes
 - create accrual schemes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create accrual schemes 
@@ -89,5 +91,5 @@ The following steps describe how to create an accrual scheme. After you have cre
 [Create ledger accrual transactions](create-ledger-accrual-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

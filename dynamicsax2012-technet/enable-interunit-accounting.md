@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enable interunit accounting
 TOCTitle: Enable interunit accounting
 ms:assetid: 3f564ba6-4509-4fa1-898f-875591af9fe5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ729752(v=AX.60)
 ms:contentKeyID: 49564918
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enable interunit accounting 
@@ -49,5 +51,5 @@ When you select a balancing financial dimension, all new accounting entries must
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

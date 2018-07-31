@@ -1,4 +1,4 @@
-﻿---
+---
 title: Country/Regional specific features configuration key (CRSECountry)
 TOCTitle: Country/Regional specific features configuration key (CRSECountry)
 ms:assetid: b894a4e6-dec9-407e-b764-7f768ae80116
@@ -24,5 +24,5 @@ Microsoft Dynamics AX uses the country/region of the primary address of the lega
 [Multiple countries/regions configuration key (CRSEMultiple)](multiple-countries-regions-configuration-key-crsemultiple.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

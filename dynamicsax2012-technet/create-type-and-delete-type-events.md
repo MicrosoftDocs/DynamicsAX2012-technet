@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create-type and delete-type events
 TOCTitle: Create-type and delete-type events
 ms:assetid: 94a3de7a-f92e-4fa1-855f-b91ff3bfa1a8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498410(v=AX.60)
 ms:contentKeyID: 46687558
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create-type and delete-type events 
@@ -90,5 +92,5 @@ You want to make sure that no customers are deleted in the **Customers** form wi
 [Due date-type events](due-date-type-events.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

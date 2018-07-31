@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up withholding tax components for TCS tax types
 TOCTitle: (IND) Set up withholding tax components for TCS tax types
 ms:assetid: e4f9829d-34f3-4093-a11c-36e85d269d78
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710886(v=AX.60)
 ms:contentKeyID: 49386299
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up withholding tax components for TCS tax types 
@@ -84,5 +86,5 @@ The different TCS components are TCS, surcharge, E-cess, and SHE- cess. You can 
 [(IND) Copy withholding tax components (form)](https://technet.microsoft.com/en-us/library/jj678010\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

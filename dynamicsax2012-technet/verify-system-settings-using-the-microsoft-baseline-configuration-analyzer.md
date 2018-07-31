@@ -1,4 +1,4 @@
-﻿---
+---
 title: Verify system settings using the Microsoft Baseline Configuration Analyzer
 TOCTitle: Verify system settings using the Microsoft Baseline Configuration Analyzer
 ms:assetid: acf750c4-d6f1-493c-9b93-3625a29032ab
@@ -135,5 +135,5 @@ Before you can run MBCA on the server, you must run the following commands in Wi
 [System setup for Microsoft Dynamics AX](system-setup-for-microsoft-dynamics-ax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

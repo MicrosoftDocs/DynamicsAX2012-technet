@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create multiple versions of a formula
 TOCTitle: Create multiple versions of a formula
 ms:assetid: 196e4654-f5db-4da3-b767-734cb2f19f6a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352186(v=AX.60)
 ms:contentKeyID: 36687819
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create multiple versions of a formula 
@@ -40,5 +42,5 @@ Use this procedure to create different versions of a formula. Each formula versi
 [Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

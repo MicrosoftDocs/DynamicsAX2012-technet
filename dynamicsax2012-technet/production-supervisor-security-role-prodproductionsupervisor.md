@@ -1,4 +1,4 @@
-﻿---
+---
 title: Production supervisor security role (ProdProductionSupervisor)
 TOCTitle: Production supervisor security role (ProdProductionSupervisor)
 ms:assetid: c1a0a090-1c54-4cd1-b377-f1dab88c918f
@@ -257,5 +257,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

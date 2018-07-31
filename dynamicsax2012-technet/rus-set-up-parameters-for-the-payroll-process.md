@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up parameters for the payroll process
 TOCTitle: (RUS) Set up parameters for the payroll process
 ms:assetid: d3cf7add-5ac7-433d-8b92-226bb98f9459
@@ -39,6 +39,8 @@ f1_keywords:
 - MsDynAx060.Forms.RPayRateTrans
 - MsDynAx060.Forms.RPayParameters
 - MsDynAx060.Forms.RPayTitlePosting
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up parameters for the payroll process 
@@ -802,5 +804,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Task recorder
 TOCTitle: Task recorder
 ms:assetid: 5f681f94-d8e7-470b-ac73-94a18ec28f92
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497765(v=AX.60)
 ms:contentKeyID: 62200077
 ms.date: 08/27/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Task recorder 
@@ -46,5 +48,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [Task recorder update (white paper)](http://www.microsoft.com/en-us/download/details.aspx?id=39353)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Refactored Formletter Framework (White paper)
 TOCTitle: Using the Refactored Formletter Framework
 ms:assetid: 8c7c9948-f774-408d-9251-fea0a8248310
@@ -20,5 +20,5 @@ This paper describes the changes to the framework and how to update your customi
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=218315).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

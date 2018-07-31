@@ -1,4 +1,4 @@
-﻿---
+---
 title: Review a document assigned to you for approval
 TOCTitle: Review a document assigned to you for approval
 ms:assetid: aaf6bdee-e5c0-4a64-a39b-43268c2de415
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243087(v=AX.60)
 ms:contentKeyID: 35949341
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Review a document assigned to you for approval 
@@ -64,5 +66,5 @@ Follow these steps to review a document that is assigned to you for approval.
     </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

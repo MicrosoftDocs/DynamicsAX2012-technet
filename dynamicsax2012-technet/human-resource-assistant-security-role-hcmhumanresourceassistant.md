@@ -1,4 +1,4 @@
-﻿---
+---
 title: Human resource assistant security role (HcmHumanResourceAssistant)
 TOCTitle: Human resource assistant security role (HcmHumanResourceAssistant)
 ms:assetid: fc30dc2d-9c7b-481e-95bb-f602345533be
@@ -606,5 +606,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

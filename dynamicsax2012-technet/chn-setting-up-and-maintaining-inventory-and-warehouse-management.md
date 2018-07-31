@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Setting up and maintaining Inventory and warehouse management
 TOCTitle: (CHN) Setting up and maintaining Inventory and warehouse management
 ms:assetid: 36a06014-ddc0-437c-899f-4fee0c57b89d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664020(v=AX.60)
 ms:contentKeyID: 49384604
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Setting up and maintaining Inventory and warehouse management 
@@ -20,5 +22,5 @@ The topics in this section provide information about setting up and maintaining 
 [(CHN) Setting up and maintaining inventory journals](chn-setting-up-and-maintaining-inventory-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

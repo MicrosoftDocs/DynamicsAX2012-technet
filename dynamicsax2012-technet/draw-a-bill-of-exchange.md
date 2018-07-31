@@ -1,4 +1,4 @@
-﻿---
+---
 title: Draw a bill of exchange
 TOCTitle: Draw a bill of exchange
 ms:assetid: 7131006e-ae43-4284-9608-4d452605b12f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571313(v=AX.60)
 ms:contentKeyID: 36655932
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Draw a bill of exchange 
@@ -76,5 +78,5 @@ To manually draw bills of exchange for a method of payment, clear the **Create a
 [Select invoices to settle with payments on behalf of multiple legal entities](select-invoices-to-settle-with-payments-on-behalf-of-multiple-legal-entities.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Create a primary EPCG license
 TOCTitle: (IND) Create a primary EPCG license
 ms:assetid: 538a841e-a3e3-4511-9e24-36bf38c31061
@@ -14,6 +14,8 @@ f1_keywords:
 - EXIM EPCG scheme
 - create EXIM EPCG scheme
 - primary EPCG license
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Create a primary EPCG license 
@@ -70,5 +72,5 @@ Use the **EXIM EPCG Schemes** form to create a primary Export Promotion Capital 
 [(IND) EXIM EPCG schemes (form)](https://technet.microsoft.com/en-us/library/jj677817\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

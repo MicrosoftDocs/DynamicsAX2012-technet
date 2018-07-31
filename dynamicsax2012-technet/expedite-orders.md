@@ -1,4 +1,4 @@
-﻿---
+---
 title: Expedite orders
 TOCTitle: Expedite orders
 ms:assetid: 4a8b566a-8dba-4d29-98d8-f35f2f26beb6
@@ -13,6 +13,8 @@ f1_keywords:
 - expedite orders
 - expedited orders
 - expedited delivery
+audience: Application User
+ms.search.region: Global
 ---
 
 # Expedite orders 
@@ -135,5 +137,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Modes of delivery (form)](https://technet.microsoft.com/en-us/library/aa619881\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

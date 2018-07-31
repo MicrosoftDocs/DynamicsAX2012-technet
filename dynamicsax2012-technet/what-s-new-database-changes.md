@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Database changes"
 TOCTitle: Database changes
 ms:assetid: f018bd64-b86b-4ac7-b459-19694e06aaab
@@ -397,5 +397,5 @@ The effects that deactivated configuration keys have on tables have changed sinc
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

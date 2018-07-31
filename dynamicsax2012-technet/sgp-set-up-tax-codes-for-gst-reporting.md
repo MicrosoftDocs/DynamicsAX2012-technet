@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SGP) Set up tax codes for GST reporting
 TOCTitle: (SGP) Set up tax codes for GST reporting
 ms:assetid: b97e7c7c-e95b-4261-96c7-494241ceb4e3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213586(v=AX.60)
 ms:contentKeyID: 36059118
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Singapore
 ---
 
 # (SGP) Set up tax codes for GST reporting 
@@ -46,5 +48,5 @@ Use the **Sales tax codes** form to set up tax codes for items that are taxed us
 [(SGP) Calculate a sales tax payment and print the GST F5 report](sgp-calculate-a-sales-tax-payment-and-print-the-gst-f5-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

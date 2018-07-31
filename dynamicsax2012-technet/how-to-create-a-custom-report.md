@@ -1,4 +1,4 @@
-﻿---
+---
 title: How to create a custom report
 TOCTitle: How to create a custom report
 ms:assetid: b8bca7ab-1b62-4cba-aeed-ecc28b5fc1b8
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - reports
 - custom report
+audience: Application User
+ms.search.region: Global
 ---
 
 # How to create a custom report 
@@ -125,5 +127,5 @@ There are several ways to create a custom report. The following table lists the 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

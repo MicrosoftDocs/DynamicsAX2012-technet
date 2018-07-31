@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generate assembly and disassembly orders
 TOCTitle: Generate assembly and disassembly orders
 ms:assetid: 1e5ca3de-de9e-42c6-ba3e-0d4cecbc0ca8
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.RetailKitAssemblyOrder
 - Forms.RetailKitConfigure
 - Forms.RetailKitSpecifyKitPrice
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generate assembly and disassembly orders 
@@ -154,5 +156,5 @@ For more information about completing the sales order form, see [Sales orders (f
 [About setting up retail product kits](about-setting-up-retail-product-kits.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

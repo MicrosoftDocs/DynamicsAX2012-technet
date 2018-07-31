@@ -1,4 +1,4 @@
-﻿---
+---
 title: View your work items in a workflow
 TOCTitle: View your work items in a workflow
 ms:assetid: 817481e8-ba90-420d-b8e6-1526546685cb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213150(v=AX.60)
 ms:contentKeyID: 35949324
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View your work items in a workflow 
@@ -52,5 +54,5 @@ If your organization does not use Role Centers, follow these steps to view a lis
       - [Delegate work items in a workflow](delegate-work-items-in-a-workflow.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

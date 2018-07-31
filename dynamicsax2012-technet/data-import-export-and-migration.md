@@ -1,4 +1,4 @@
-﻿---
+---
 title: Data import, export and migration
 TOCTitle: Data import, export and migration
 ms:assetid: ca86a924-8414-4ad4-95f9-9d478e88825f
@@ -24,5 +24,5 @@ The topics in this section describe how to transfer data between instances of Mi
 [Use DAT and DEF files to export and import data](use-dat-and-def-files-to-export-and-import-data.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

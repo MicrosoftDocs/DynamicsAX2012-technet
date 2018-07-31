@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Taxation, payroll accounting, and compensation payments
 TOCTitle: (RUS) Taxation, payroll accounting, and compensation payments
 ms:assetid: 40f2546a-f593-4855-b29e-f431fc073d7a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn435950(v=AX.60)
 ms:contentKeyID: 56730921
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Taxation, payroll accounting, and compensation payments 
@@ -56,5 +58,5 @@ This topic provides a list of taxation and compensation reports. For more inform
 This topic provides a list of payroll accounting reports. For more information, see (RUS) Payroll accounting reports.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor payment settlement scenarios
 TOCTitle: Vendor payment settlement scenarios
 ms:assetid: 432305f6-eee5-4540-9caa-59c90e8e5f30
@@ -14,6 +14,8 @@ f1_keywords:
 - scenario
 - payment
 - settlement
+audience: Application User
+ms.search.region: Global
 ---
 
 # Vendor payment settlement scenarios 
@@ -42,5 +44,5 @@ The following topics provide examples of settling payments with invoices and cre
 [Scenario: Single-company and cross-company payment settlements](scenario-single-company-and-cross-company-payment-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Sales and marketing
 TOCTitle: (RUS) Sales and marketing
 ms:assetid: 5f918f86-d36d-4882-bb47-591e8c696dcb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665437(v=AX.60)
 ms:contentKeyID: 49387526
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Sales and marketing 
@@ -24,5 +26,5 @@ The topic in this section provides information about Sales and marketing.
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Enterprise Portal"
 TOCTitle: What's new in Enterprise Portal
 ms:assetid: 27223e4d-946c-4883-8066-35790878fd0a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EP features
 - new EP features
+audience: Application User
+ms.search.region: Global
 ---
 
 # What's new: Enterprise Portal 
@@ -84,5 +86,5 @@ The following table lists new features and changes for Enterprise Portal users. 
 [Role centers](role-centers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

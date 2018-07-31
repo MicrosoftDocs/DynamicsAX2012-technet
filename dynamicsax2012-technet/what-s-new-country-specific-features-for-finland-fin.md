@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Finland (FIN)"
 TOCTitle: Country-specific features for Finland
 ms:assetid: d0437745-d5d5-4c1e-9586-39e10d4d910d
@@ -52,5 +52,5 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we changed and added c
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

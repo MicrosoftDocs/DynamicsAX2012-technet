@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Product information management
 TOCTitle: Setting up and maintaining Product information management
 ms:assetid: 06b43bed-2dfd-4f51-8feb-3984fbad07c3
@@ -13,6 +13,8 @@ f1_keywords:
 - product setup
 - PIM
 - product management
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Product information management 
@@ -29,5 +31,5 @@ The topics in this section provide information about how to set up and maintain 
 [Setting up and maintaining product configurations](setting-up-and-maintaining-product-configurations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

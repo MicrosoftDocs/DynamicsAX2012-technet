@@ -1,4 +1,4 @@
-﻿---
+---
 title: Initialize Microsoft Dynamics AX
 TOCTitle: Initialize Microsoft Dynamics AX
 ms:assetid: ba7f64a8-c5c3-4a9a-927b-21afc16f92af
@@ -22,5 +22,5 @@ This section contains the following topics:
 [Run the checklist items without user interaction](run-the-checklist-items-without-user-interaction.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

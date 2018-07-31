@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Product group for procurement'
 TOCTitle: Product group for procurement
 ms:assetid: 3aa47e0f-09cc-4313-95bf-890738c56e0c
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, product groups are used on both the buying side a
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

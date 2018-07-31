@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Verify an XML message with an XML schema
 TOCTitle: (BRA) Verify an XML message with an XML schema
 ms:assetid: 5102bd8e-4e7b-42ee-8ec9-813efb0a1315
@@ -12,6 +12,8 @@ f1_keywords:
 - BRA
 - Brazil
 - xml message
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Verify an XML message with an XML schema 
@@ -58,5 +60,5 @@ You can also validate an XML message by using an XML schema when you post an ele
 [(BRA) Fiscal establishments (form)](https://technet.microsoft.com/en-us/library/jj933531\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

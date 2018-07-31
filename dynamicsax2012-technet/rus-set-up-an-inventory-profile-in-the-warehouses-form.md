@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up an inventory profile in the Warehouses form
 TOCTitle: (RUS) Set up an inventory profile in the Warehouses form
 ms:assetid: 55c7effb-276c-4ba7-818d-42b8e8edaa71
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733227(v=AX.60)
 ms:contentKeyID: 49685194
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up an inventory profile in the Warehouses form 
@@ -26,5 +28,5 @@ Use the **Warehouses** form to set up an inventory profile.
 [(RUS) Create and post a transfer journal based on an inventory profile](rus-create-and-post-a-transfer-journal-based-on-an-inventory-profile.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

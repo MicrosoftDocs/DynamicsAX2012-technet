@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up posting profiles for stock transfer
 TOCTitle: (IND) Set up posting profiles for stock transfer
 ms:assetid: 7d455eef-ce03-46de-8c29-f9ebc97646b9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677967(v=AX.60)
 ms:contentKeyID: 49385930
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up posting profiles for stock transfer 
@@ -66,5 +68,5 @@ Use the **Posting** form to set up ledger account numbers for the automatic ledg
 [(IND) Posting (modified form)](https://technet.microsoft.com/en-us/library/jj664940\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

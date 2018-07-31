@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change the start date for an approved vendor
 TOCTitle: Change the start date for an approved vendor
 ms:assetid: 132f3973-477a-4a7c-a479-f492fdbc65ce
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242143(v=AX.60)
 ms:contentKeyID: 36056046
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change the start date for an approved vendor 
@@ -44,5 +46,5 @@ Use this procedure to change the start date of the effective approval period for
 [(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prepare a legal entity for use in the consolidation process
 TOCTitle: Prepare a legal entity for use in the consolidation process
 ms:assetid: 5ef6fbfa-9e22-4aa2-b4c3-b0e279d1035f
@@ -10,6 +10,8 @@ f1_keywords:
 - consolidation
 - legal entity
 - consolidation process
+audience: Application User
+ms.search.region: Global
 ---
 
 # Prepare a legal entity for use in the consolidation process 
@@ -78,5 +80,5 @@ Click **General ledger** \> **Periodic** \> **Consolidate** \> **Consolidate \[O
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

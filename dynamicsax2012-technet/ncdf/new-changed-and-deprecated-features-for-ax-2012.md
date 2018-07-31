@@ -1,4 +1,4 @@
-﻿---
+---
 title: New, Changed, and Deprecated Features for AX 2012 overview
 TOCTitle: New, Changed, and Deprecated Features for AX 2012
 ms:assetid: af686153-4c0a-458e-b288-60627d5a41d0
@@ -45,16 +45,6 @@ For more information about AX 2012, see the following resources:
 
   - [TechNet Library for Application Users](http://go.microsoft.com/fwlink/?linkid=214391)
 
-
-> [!TIP]
-> <P>Use the <A href="http://go.microsoft.com/fwlink/?linkid=194311%26orgi=whatsnew6">Microsoft Dynamics AX WebSearch tool</A> to search for Microsoft Dynamics AX content.</P>
-
-
-
 ## Feedback
 
 Send comments about the content of this document to the Microsoft Dynamics AX Information Experience team: adocs@microsoft.com.
-
-  
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
-

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Reconcile bank accounts overview
 TOCTitle: (RUS) Reconcile bank accounts overview
 ms:assetid: f47e16c1-4c37-4525-a19e-8519fb5d37cb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678615(v=AX.60)
 ms:contentKeyID: 49388097
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Reconcile bank accounts overview 
@@ -26,5 +28,5 @@ The topics in this section provide information about how to reconcile bank accou
 [(RUS) Create profit or loss transactions for a currency conversion or transfer and exchange adjustment](rus-create-profit-or-loss-transactions-for-a-currency-conversion-or-transfer-and-exchange-adjustment.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Master Data Management in Microsoft Dynamics AX
 TOCTitle: Master Data Management in Microsoft Dynamics AX
 ms:assetid: c6c0d477-625d-445a-9afc-96f2ce7301b8
@@ -84,5 +84,5 @@ The following illustration shows a typical workflow between SQL MDS and the AX 2
 [Add an Entity to Master Data Management](add-an-entity-to-master-data-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

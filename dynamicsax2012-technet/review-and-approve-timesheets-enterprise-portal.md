@@ -1,4 +1,4 @@
-﻿---
+---
 title: Review and approve timesheets (Enterprise Portal)
 TOCTitle: Review and approve timesheets
 ms:assetid: 8252d9b6-4576-4b29-a552-2e5ac07241f0
@@ -11,6 +11,8 @@ f1_keywords:
 - review timesheet
 - timesheet
 - TSTimesheetSignOff
+audience: Application User
+ms.search.region: Global
 ---
 
 # Review and approve timesheets (Enterprise Portal) 
@@ -55,5 +57,5 @@ Use the **My approvals** page to review timesheets that have been submitted for 
 [Create and submit timesheets](create-and-submit-timesheets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

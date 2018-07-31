@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up workflow for retail catalogs
 TOCTitle: Set up workflow for retail catalogs
 ms:assetid: 90c827d4-3286-482e-bd54-52c4a45d0f68
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - set up catalogs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up workflow for retail catalogs 
@@ -46,5 +48,5 @@ For an overview of workflow in Microsoft Dynamics AX, see [Overview of the workf
 [Workflows (list page)](https://technet.microsoft.com/en-us/library/hh209721\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

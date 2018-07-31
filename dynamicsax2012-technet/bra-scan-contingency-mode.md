@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) SCAN contingency mode
 TOCTitle: (BRA) SCAN contingency mode
 ms:assetid: 0e956008-68bf-448c-bbf0-7c2e3d7a10c1
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - BR-00046
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) SCAN contingency mode 
@@ -58,5 +60,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [(BRA) Set up and use SCAN contingency mode](bra-set-up-and-use-scan-contingency-mode.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

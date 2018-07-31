@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project costs
 TOCTitle: About project costs
 ms:assetid: 368b6f7a-4725-479c-bcdf-1a080aa06601
@@ -10,6 +10,8 @@ f1_keywords:
 - capitalize cost
 - cost account
 - profit and loss
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project costs 
@@ -74,5 +76,5 @@ In the **Project groups** form, on the **Ledger** FastTab, select **Profit and l
 [Line properties (form)](https://technet.microsoft.com/en-us/library/aa590082\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

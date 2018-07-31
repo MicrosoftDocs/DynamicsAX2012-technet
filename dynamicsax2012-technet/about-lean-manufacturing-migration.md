@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Lean manufacturing migration
 TOCTitle: About Lean manufacturing migration
 ms:assetid: 14304458-7557-4e3f-97a9-db7365c4ad05
@@ -210,5 +210,5 @@ Review the current rules and map them to the Microsoft Dynamics AX 2012 Lean man
 [Convert LOS-BTO schedules to next version kanban rules (form)](https://technet.microsoft.com/en-us/library/hh202116\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

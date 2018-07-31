@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign target completion dates to question groups in RapidStart Services
 TOCTitle: Assign target completion dates to question groups in RapidStart Services
 ms:assetid: a31ef049-7c2a-459e-ba6f-9278de219214
@@ -86,5 +86,5 @@ The target completion dates that you assign are based on Coordinated Universal T
 [Load configuration data into a Microsoft Dynamics ERP implementation from Microsoft Dynamics ERP RapidStart Services](load-configuration-data-into-a-microsoft-dynamics-erp-implementation-from-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

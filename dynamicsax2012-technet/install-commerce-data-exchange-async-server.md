@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Install Commerce Data Exchange: Async Server'
 TOCTitle: 'Install Commerce Data Exchange: Async Server'
 ms:assetid: 70b699fc-909d-47af-9c4e-09d9a75ccd57
@@ -307,5 +307,5 @@ After you install Async Server, you must complete the following tasks.
   - Set up working folders. For more information, see [Specify working folders for Commerce Data Exchange](specify-working-folders-for-commerce-data-exchange.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

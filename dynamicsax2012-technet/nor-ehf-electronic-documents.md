@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) EHF electronic documents
 TOCTitle: (NOR) EHF electronic documents
 ms:assetid: d2d2e150-509f-4769-b78a-42847d83edcc
@@ -8,6 +8,8 @@ ms.date: 02/25/2014
 mtps_version: v=AX.60
 f1_keywords:
 - NO - 00010
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) EHF electronic documents 
@@ -94,5 +96,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [(NOR) Generate an EHF electronic document for a collection letter](nor-generate-an-ehf-electronic-document-for-a-collection-letter.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

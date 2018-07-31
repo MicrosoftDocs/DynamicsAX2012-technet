@@ -1,4 +1,4 @@
-﻿---
+---
 title: Overview of a purchase requisition workflow
 TOCTitle: Overview of a purchase requisition workflow
 ms:assetid: 8790f0f9-c672-41a8-9306-efb322bd427a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242844(v=AX.60)
 ms:contentKeyID: 36058430
 ms.date: 03/25/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Overview of a purchase requisition workflow 
@@ -168,5 +170,5 @@ The demand that is created by a requisition that has a purpose of replenishment 
 [Set up master plans to include requisitions](set-up-master-plans-to-include-requisitions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

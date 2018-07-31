@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Maintain advance holder transactions
 TOCTitle: (RUS) Maintain advance holder transactions
 ms:assetid: a241e7f2-e5cd-4791-84c7-db8e4f25d629
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678558(v=AX.60)
 ms:contentKeyID: 49387785
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Maintain advance holder transactions 
@@ -32,5 +34,5 @@ The following topics provide information about how to manage advance holder tran
 [(RUS) Generate and post a facture for an advance report](rus-generate-and-post-a-facture-for-an-advance-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

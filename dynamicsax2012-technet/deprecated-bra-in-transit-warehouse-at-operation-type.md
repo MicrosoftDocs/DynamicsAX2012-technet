@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (BRA) In-transit warehouse at operation type'
 TOCTitle: (BRA) In-transit warehouse at operation type
 ms:assetid: 83df6abe-76c9-4e9b-a12c-6ff18aec8e50
@@ -55,5 +55,5 @@ For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specifi
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage an AOS configuration
 TOCTitle: Manage an AOS configuration
 ms:assetid: 4aab5e81-921d-4f7f-b379-adffcb8febce
@@ -106,5 +106,5 @@ You can open a configuration file by using the **Open configuration file** comma
 [Maintain an AOS](maintain-an-aos.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

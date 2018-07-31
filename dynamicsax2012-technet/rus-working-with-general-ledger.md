@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Working with General ledger
 TOCTitle: (RUS) Working with General ledger
 ms:assetid: 66834bb2-ed0a-4519-949e-cda461ed4e65
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665462(v=AX.60)
 ms:contentKeyID: 49387549
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Working with General ledger 
@@ -20,5 +22,5 @@ This section provides information about working with the General ledger business
 [(RUS) Close books overview](rus-close-books-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

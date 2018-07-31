@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Prepayments'
 TOCTitle: 'Key tasks: Prepayments'
 ms:assetid: 047ed3e2-c3a7-4e7e-bc9e-9a8ce6ec6f11
@@ -17,6 +17,8 @@ f1_keywords:
 - settle prepayment
 - vendor advance
 - prepayments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Prepayments 
@@ -175,5 +177,5 @@ Back to top
 [Reverse prepayment application (form)](https://technet.microsoft.com/en-us/library/hh209022\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

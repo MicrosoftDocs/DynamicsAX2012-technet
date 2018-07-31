@@ -1,4 +1,4 @@
-﻿---
+---
 title: Journalize purchase orders
 TOCTitle: Journalize purchase orders
 ms:assetid: aacc42db-2b5d-45e5-8170-54bb544cf474
@@ -16,6 +16,8 @@ f1_keywords:
 - post purchase order
 - PO
 - POs
+audience: Application User
+ms.search.region: Global
 ---
 
 # Journalize purchase orders 
@@ -32,5 +34,5 @@ The following topics provide information about how to journalize purchase orders
 [Purchase order encumbrances](purchase-order-encumbrances.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

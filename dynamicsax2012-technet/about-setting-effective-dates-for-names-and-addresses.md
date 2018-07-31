@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting effective dates for names and addresses
 TOCTitle: About setting effective dates for names and addresses
 ms:assetid: 8dd57415-8415-448c-9223-2dd9164d0c28
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433544(v=AX.60)
 ms:contentKeyID: 36941346
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting effective dates for names and addresses 
@@ -22,5 +24,5 @@ When a party changes their address, you can update the address record to reflect
 [Set effective dates and view inactive addresses for party record](set-effective-dates-and-view-inactive-addresses-for-party-record.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

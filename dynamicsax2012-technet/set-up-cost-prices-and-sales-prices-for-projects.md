@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up cost prices and sales prices for projects
 TOCTitle: Set up cost prices and sales prices for projects
 ms:assetid: f025eb1c-ce64-437a-9392-fa99ae87028c
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - cost price
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up cost prices and sales prices for projects 
@@ -38,5 +40,5 @@ For information about the price setup forms, see the following topics:
 For information about how to set up intercompany timesheets for your legal entity, see [Set up transfer prices for intercompany timesheets](set-up-transfer-prices-for-intercompany-timesheets.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

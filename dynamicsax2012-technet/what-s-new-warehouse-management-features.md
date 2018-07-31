@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Warehouse management features"
 TOCTitle: Warehouse management features
 ms:assetid: 4a87b0e7-bf65-45c8-abe1-46f449144b17
@@ -299,5 +299,5 @@ Include quality control in any inbound or outbound processes that you set up for
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

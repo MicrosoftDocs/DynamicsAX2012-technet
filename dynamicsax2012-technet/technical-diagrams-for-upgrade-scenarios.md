@@ -1,4 +1,4 @@
-﻿---
+---
 title: Technical diagrams for upgrade scenarios
 TOCTitle: Technical diagrams for upgrade scenarios
 ms:assetid: cd6a5e60-eb69-437a-a35d-616dc3cb9c9f
@@ -59,5 +59,5 @@ If you have a plotter, you can print these posters at full size. If you don't ha
 6.  On the **File** menu, click **Print**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

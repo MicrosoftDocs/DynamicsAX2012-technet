@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft Dynamics AX operations
 TOCTitle: Operations
 ms:assetid: 0efe06f4-bb29-4cd3-b61d-fe3cb32be5ca
@@ -42,10 +42,9 @@ The topics in this section provide information about how to configure and mainta
 [Optimize performance](optimize-performance.md)
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

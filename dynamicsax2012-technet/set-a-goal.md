@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set a goal
 TOCTitle: Set a goal
 ms:assetid: 97072f31-9f61-4ce2-a509-129f77f69125
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232239(v=AX.60)
 ms:contentKeyID: 43894510
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set a goal 
@@ -56,5 +58,5 @@ You can set up goals for workers and then track the progress on the goals for ea
 [Goal details (form)](https://technet.microsoft.com/en-us/library/hh227645\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Fixed assets
 TOCTitle: Setting up and maintaining Fixed assets
 ms:assetid: 5123c246-3afb-45f1-9431-bdf21056a581
@@ -13,6 +13,8 @@ f1_keywords:
 - fixed asset setup
 - fixed assets maintenance
 - fixed assets setup
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Fixed assets 
@@ -160,5 +162,5 @@ The following table lists the forms that support setting up and maintaining Fixe
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

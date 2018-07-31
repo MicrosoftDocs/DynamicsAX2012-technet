@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up bank parameters
 TOCTitle: (POL) Set up bank parameters
 ms:assetid: fd4779fa-5942-405a-bed5-bd3a76f3fb46
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711337(v=AX.60)
 ms:contentKeyID: 49387154
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up bank parameters 
@@ -48,5 +50,5 @@ You can set up a method to calculate exchange rate differences in the **Cash and
 [(POL) Revalue foreign currency amounts for bank transactions](pol-revalue-foreign-currency-amounts-for-bank-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

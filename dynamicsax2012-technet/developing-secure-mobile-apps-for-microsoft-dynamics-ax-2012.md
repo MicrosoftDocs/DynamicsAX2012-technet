@@ -1,4 +1,4 @@
-﻿---
+---
 title: Developing secure mobile apps for Microsoft Dynamics AX 2012
 TOCTitle: Developing secure mobile apps for Microsoft Dynamics AX 2012
 ms:assetid: 8caf419a-9030-4a70-8da6-ab1d0d93c3e4
@@ -16,5 +16,5 @@ This white paper describes how to develop mobile client apps to communicate with
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=285856).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

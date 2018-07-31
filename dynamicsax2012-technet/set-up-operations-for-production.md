@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up operations for production
 TOCTitle: Set up operations for production
 ms:assetid: cca9d996-f6b0-443b-8d1a-def42ef66723
@@ -10,6 +10,8 @@ f1_keywords:
 - parameters
 - operation
 - production
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up operations for production 
@@ -198,5 +200,5 @@ If you selected a costing resource in the **Costing resource** field on the **Se
 [Operation relation (form)](https://technet.microsoft.com/en-us/library/aa584158\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

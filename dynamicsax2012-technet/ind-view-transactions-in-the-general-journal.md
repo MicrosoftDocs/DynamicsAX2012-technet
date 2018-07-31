@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) View transactions in the general journal
 TOCTitle: (IND) View transactions in the general journal
 ms:assetid: e5b0af3c-6e08-40aa-a409-3dc9f0814f8a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710910(v=AX.60)
 ms:contentKeyID: 49386322
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) View transactions in the general journal 
@@ -82,5 +84,5 @@ You can view or edit the transferred information from the tax journal to the jou
 [(IND) Create a tax journal for service tax](ind-create-a-tax-journal-for-service-tax.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

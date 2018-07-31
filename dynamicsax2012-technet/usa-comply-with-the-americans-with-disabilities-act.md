@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Comply with the Americans with Disabilities Act
 TOCTitle: (USA) Comply with the Americans with Disabilities Act
 ms:assetid: 17b65255-7688-4891-8b30-7814269a144a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - ADA
 - Americans with disabilities act
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Comply with the Americans with Disabilities Act 
@@ -63,5 +65,5 @@ Before you can start working with accommodations, you must first create one or m
 [(USA) Enter physical requirements for job templates and jobs](usa-enter-physical-requirements-for-job-templates-and-jobs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

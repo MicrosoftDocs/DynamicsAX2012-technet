@@ -1,4 +1,4 @@
-﻿---
+---
 title: Notify respondents of questionnaires available to them
 TOCTitle: Notify respondents of questionnaires available to them
 ms:assetid: b7bbb4b5-6304-4bae-8cc0-1d544306c59d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500668(v=AX.60)
 ms:contentKeyID: 37822156
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Notify respondents of questionnaires available to them 
@@ -54,5 +56,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [End a scheduled questionnaire](end-a-scheduled-questionnaire.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

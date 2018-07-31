@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a profile for Synch Service
 TOCTitle: Set up a profile for Synch Service
 ms:assetid: 2ac188f0-d94c-4852-aea3-27e89eddce63
@@ -53,5 +53,5 @@ Synch Service periodically shares data among Retail components. These components
 4.  Click **Test connection** to confirm that the connection string for the selected profile is correct. For information about how to resolve connection errors, see [Troubleshoot a connection](troubleshoot-a-connection.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

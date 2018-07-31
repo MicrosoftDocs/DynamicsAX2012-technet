@@ -1,4 +1,4 @@
-﻿---
+---
 title: About selecting jobs in the Kanban board for transfer jobs by using a bar code reader
 TOCTitle: About selecting jobs in the Kanban board for transfer jobs by using a bar code reader
 ms:assetid: 683971b9-cff7-402b-a165-5d9612fd06fa
@@ -12,6 +12,8 @@ f1_keywords:
 - scan job
 - select kanban job
 - select job
+audience: Application User
+ms.search.region: Global
 ---
 
 # About selecting jobs in the Kanban board for transfer jobs by using a bar code reader 
@@ -170,5 +172,5 @@ The status of the selected job, and the status of any pegged jobs for event kanb
 [Kanban board for transfer jobs (form)](https://technet.microsoft.com/en-us/library/hh781100\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

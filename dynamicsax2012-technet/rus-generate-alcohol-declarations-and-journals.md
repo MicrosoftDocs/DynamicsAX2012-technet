@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Generate alcohol declarations and journals
 TOCTitle: (RUS) Generate alcohol declarations and journals
 ms:assetid: 3993b5ae-f8d8-4ba1-8be9-7be1546eb72a
@@ -32,6 +32,8 @@ f1_keywords:
 - alcohol turnover
 - Daily journals
 - alcohol production turnover
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Generate alcohol declarations and journals 
@@ -311,5 +313,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

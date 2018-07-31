@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up Sales and marketing parameters
 TOCTitle: Setting up Sales and marketing parameters
 ms:assetid: 7657f899-e0ad-43ea-9803-b51d9bdd6ef1
@@ -13,6 +13,8 @@ f1_keywords:
 - parameters
 - set up
 - marketing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up Sales and marketing parameters 
@@ -55,5 +57,5 @@ You can set the number sequences. These codes are used with the corresponding re
 For more information, and for descriptions of individual fields, see [Sales and marketing parameters (form)](https://technet.microsoft.com/en-us/library/aa617498\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

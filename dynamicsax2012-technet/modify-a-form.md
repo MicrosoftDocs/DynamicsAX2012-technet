@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify a form
 TOCTitle: Modify a form
 ms:assetid: c5805883-74c4-4bbe-a623-c711bf1e5a2f
@@ -92,5 +92,5 @@ You customize a form by overriding the form and then changing its functionality 
     ![Log On Form with new background color](images/JJ937978.LogonFormWithNewBackgroundColor(en-us,AX.60).png "Log On Form with new background color")
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

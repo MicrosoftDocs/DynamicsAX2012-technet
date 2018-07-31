@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: (RUS) Exchange rates import'
 TOCTitle: (RUS) Exchange rates import
 ms:assetid: 37c9fff1-3e3e-48e5-905c-827033220b46
@@ -54,5 +54,5 @@ In Microsoft Dynamics AX 2009, the Exchange rates import feature, a country-spec
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Netherlands (NLD)"
 TOCTitle: Country-specific features for Netherlands
 ms:assetid: 11d3c884-783c-449e-878a-f15297629107
@@ -98,5 +98,5 @@ Updates to the VAT returns and ICP declarations have been made to allow customer
   - Contact address information is no longer in the schema.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

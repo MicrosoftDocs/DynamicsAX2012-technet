@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a storno transfer journal by copying journals
 TOCTitle: (RUS) Create and post a storno transfer journal by copying journals
 ms:assetid: 05a1a672-1696-47cb-a930-dbf2861d97eb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711354(v=AX.60)
 ms:contentKeyID: 49387172
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a storno transfer journal by copying journals 
@@ -74,5 +76,5 @@ To reverse an entry for a transfer journal, you can use the **Copy** function.
 [(RUS) Journal lines, Inventory transfer (modified form)](https://technet.microsoft.com/en-us/library/jj665257\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

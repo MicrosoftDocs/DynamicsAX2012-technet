@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) View the on-hand and issued quantity of working clothes and special rigging
 TOCTitle: (RUS) View the on-hand and issued quantity of working clothes and special rigging
 ms:assetid: ea139b58-0c7f-4d62-860f-fa7bbc2c23b2
@@ -12,6 +12,8 @@ f1_keywords:
 - Russia
 - special rigging
 - working clothes
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) View the on-hand and issued quantity of working clothes and special rigging 
@@ -64,5 +66,5 @@ Use this procedure to generate a list of all working clothes items and special r
 [(RUS) Special rigging (form)](https://technet.microsoft.com/en-us/library/jj923264\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

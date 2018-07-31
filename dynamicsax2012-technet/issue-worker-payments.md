@@ -1,4 +1,4 @@
-﻿---
+---
 title: Issue worker payments
 TOCTitle: Issue worker payments
 ms:assetid: 068274eb-0019-4374-8ec9-f644d77c64d0
@@ -19,6 +19,8 @@ f1_keywords:
 - worker payment
 - pay checks
 - paychecks
+audience: Application User
+ms.search.region: USA
 ---
 
 # Issue worker payments 
@@ -328,5 +330,5 @@ Back to top
 [Journal voucher - Payroll payment journal (form)](https://technet.microsoft.com/en-us/library/jj677395\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

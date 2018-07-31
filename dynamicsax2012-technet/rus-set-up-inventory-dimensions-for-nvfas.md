@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up inventory dimensions for NVFAs
 TOCTitle: (RUS) Set up inventory dimensions for NVFAs
 ms:assetid: 499128df-e418-4afb-809e-a539ffc85c00
@@ -10,6 +10,8 @@ f1_keywords:
 - Russia
 - NVFA
 - inventory dimension
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up inventory dimensions for NVFAs 
@@ -38,5 +40,5 @@ Use this procedure to set up inventory dimensions for not valuable fixed assets 
 [(RUS) Set up item details for NVFAs](rus-set-up-item-details-for-nvfas.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

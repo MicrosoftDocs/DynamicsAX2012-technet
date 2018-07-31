@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Draw and print promissory notes
 TOCTitle: (FRA) Draw and print promissory notes
 ms:assetid: f1baa78d-66ef-49d3-926c-62d2673ac234
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn715989(v=AX.60)
 ms:contentKeyID: 62200185
 ms.date: 05/01/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Draw and print promissory notes 
@@ -52,5 +54,5 @@ Use this procedure to draw and print promissory notes.
 [Draw a promissory note](draw-a-promissory-note.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

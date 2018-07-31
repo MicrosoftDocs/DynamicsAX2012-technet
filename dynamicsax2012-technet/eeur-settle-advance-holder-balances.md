@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Settle advance holder balances
 TOCTitle: (EEUR) Settle advance holder balances
 ms:assetid: a1a58b52-26e1-4cb4-b24a-dfc6771a4202
@@ -10,6 +10,8 @@ f1_keywords:
 - advance holder
 - advance holder transactions
 - settle advance holder
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Settle advance holder balances 
@@ -76,5 +78,5 @@ The procedure for closing balances through a bank is similar to the procedure fo
 [(EEUR) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj720358\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

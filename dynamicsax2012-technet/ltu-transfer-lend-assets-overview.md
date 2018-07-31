@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Transfer/lend assets overview
 TOCTitle: (LTU) Transfer/lend assets overview
 ms:assetid: 722baa79-02a7-4c71-aad8-e4881ce4c3e0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665120(v=AX.60)
 ms:contentKeyID: 49386701
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Transfer/lend assets overview 
@@ -22,5 +24,5 @@ The topics in this section provide information about how to transfer or lend fix
 [(LTU) Review the asset packing slip details and print the packing slip](ltu-review-the-asset-packing-slip-details-and-print-the-packing-slip.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

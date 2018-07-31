@@ -1,4 +1,4 @@
-﻿---
+---
 title: Workflow participants
 TOCTitle: Workflow participants
 ms:assetid: 14ec4766-5cba-4620-8c73-479f8e86d1a9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309598(v=AX.60)
 ms:contentKeyID: 35410560
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Workflow participants 
@@ -54,5 +56,5 @@ A delegate can act on behalf of another person. For example, an approver who pla
 For example, if Sue is going on vacation for several weeks, she can delegate her responsibilities to Frank or Ann.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

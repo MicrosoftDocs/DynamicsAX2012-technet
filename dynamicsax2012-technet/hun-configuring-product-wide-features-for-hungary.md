@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Configuring product-wide features for Hungary
 TOCTitle: (HUN) Configuring product-wide features for Hungary
 ms:assetid: bb0d1149-976c-40a1-a6e4-f30f93457faa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664364(v=AX.60)
 ms:contentKeyID: 49385453
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Configuring product-wide features for Hungary 
@@ -22,5 +24,5 @@ To configure most product-wide features, you must be a member of a role that gra
 [(HUN) Setting up the giro account](hun-setting-up-the-giro-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

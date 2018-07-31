@@ -1,4 +1,4 @@
-﻿---
+---
 title: Modify metadata for a functional area in RapidStart Services
 TOCTitle: Modify metadata for a functional area in RapidStart Services
 ms:assetid: 67adc7b4-14c0-44b9-864c-59aa83ca9adc
@@ -48,5 +48,5 @@ You can modify the metadata for a functional area in RapidStart Services. Functi
 [Unpublish a functional area in RapidStart Services](unpublish-a-functional-area-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

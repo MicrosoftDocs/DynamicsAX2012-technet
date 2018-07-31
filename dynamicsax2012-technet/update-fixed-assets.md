@@ -1,4 +1,4 @@
-﻿---
+---
 title: Update fixed assets
 TOCTitle: Update fixed assets
 ms:assetid: f5d1750c-c06c-40e1-b2f7-21288c14033b
@@ -12,6 +12,8 @@ f1_keywords:
 - fixed asset updates
 - fixed assets update
 - fixed assets updates
+audience: Application User
+ms.search.region: Global
 ---
 
 # Update fixed assets 
@@ -32,5 +34,5 @@ The topics in this section provide information about how to update fixed assets.
 [Recalculate replacement costs and insured values](recalculate-replacement-costs-and-insured-values.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

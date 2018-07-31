@@ -1,4 +1,4 @@
-﻿---
+---
 title: Learn about templates, functional areas, question groups, and questions in RapidStart Services
 TOCTitle: Learn about templates, functional areas, question groups, and questions in RapidStart Services
 ms:assetid: c57d2728-b8d7-4088-bf05-2ee2cf49010b
@@ -42,5 +42,5 @@ In the **Design** area of RapidStart Services, you can create and populate templ
 [Create question groups and questions in Microsoft Dynamics ERP RapidStart Services](create-question-groups-and-questions-in-microsoft-dynamics-erp-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

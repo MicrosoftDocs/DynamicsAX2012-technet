@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure Role Centers
 TOCTitle: Configure Role Centers
 ms:assetid: 92181fc8-fd27-44da-a606-df37fba05271
@@ -24,5 +24,5 @@ The topics in this section provide information about how to configure Role Cente
 [Manage Role Center Web Parts](manage-role-center-web-parts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

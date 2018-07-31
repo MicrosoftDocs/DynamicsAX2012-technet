@@ -1,4 +1,4 @@
-﻿---
+---
 title: Firewall settings for Microsoft Dynamics AX components
 TOCTitle: Firewall settings for Microsoft Dynamics AX components
 ms:assetid: 3874d772-094b-490f-bd89-b288b4585ab6
@@ -215,5 +215,5 @@ If you use Windows Firewall to help protect your computers, Microsoft Dynamics A
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

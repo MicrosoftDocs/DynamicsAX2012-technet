@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up user security in Microsoft Dynamics AX
 TOCTitle: Set up user security in Microsoft Dynamics AX
 ms:assetid: a9eea83b-60bf-4690-8442-a459de3c2001
@@ -24,5 +24,5 @@ This section describes security concepts, and explains how to set up and maintai
 [Best practices for upgrading to role-based security](best-practices-for-upgrading-to-role-based-security.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Configure budget planning and set up budget planning processes'
 TOCTitle: 'Key tasks: Configure budget planning and set up budget planning processes'
 ms:assetid: 70ce9e1b-d81c-4568-b631-e4cc929141de
@@ -11,6 +11,8 @@ f1_keywords:
 - budget planning
 - budget plans
 - plan budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Configure budget planning and set up budget planning processes 
@@ -284,5 +286,5 @@ Back to top
 [Configure budget planning security](configure-budget-planning-security.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

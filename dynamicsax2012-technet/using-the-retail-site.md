@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using the Retail site
 TOCTitle: Using the Retail site
 ms:assetid: 58ea90dc-ce11-456c-9e39-dcc92bda52f8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352263(v=AX.60)
 ms:contentKeyID: 36687889
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Using the Retail site 
@@ -30,5 +32,5 @@ This section contains the following topics:
 [Complete an outgoing transfer order](complete-an-outgoing-transfer-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

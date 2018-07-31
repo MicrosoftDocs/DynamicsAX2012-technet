@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the chart of accounts
 TOCTitle: About the chart of accounts
 ms:assetid: 3ef9f48f-f753-4fa0-b08c-849f498a3a9b
@@ -12,6 +12,8 @@ f1_keywords:
 - main accounts
 - chart of account
 - main account
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the chart of accounts 
@@ -50,5 +52,5 @@ Use the **Configure account structures** form to create account structures, whic
 [Link main accounts to main account categories](link-main-accounts-to-main-account-categories.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

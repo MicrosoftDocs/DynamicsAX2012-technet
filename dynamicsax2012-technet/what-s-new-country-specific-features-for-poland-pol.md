@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Country-specific features for Poland (POL)"
 TOCTitle: Country-specific features for Poland
 ms:assetid: 84445b2a-8bef-4c0e-9093-fd6913da4c4f
@@ -90,5 +90,5 @@ For more information about specific features for Poland, see [TechNet Library fo
 You can now create advance invoices for prepayments in Retail, including automatic creation, posting and printing of an advance invoice for a customer order deposit received through Retail Enterprise POS, and settlement of the advance invoice upon invoicing the order.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

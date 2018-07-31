@@ -1,4 +1,4 @@
-﻿---
+---
 title: Client operations
 TOCTitle: Client operations
 ms:assetid: 7c502824-aec8-4f9e-91db-cc9d46f33194
@@ -28,5 +28,5 @@ The topics in this section provide information about how to manage and configure
 [Client configuration commands](client-configuration-commands.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

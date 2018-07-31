@@ -1,4 +1,4 @@
-﻿---
+---
 title: About item modeling variables
 TOCTitle: About item modeling variables
 ms:assetid: cbee9006-6df6-4340-a73f-712be78bcb37
@@ -11,6 +11,8 @@ f1_keywords:
 - modeling variables
 - item modeling
 - modeling variable
+audience: Application User
+ms.search.region: Global
 ---
 
 # About item modeling variables 
@@ -62,5 +64,5 @@ This section contains information about modeling variables and their setup.
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

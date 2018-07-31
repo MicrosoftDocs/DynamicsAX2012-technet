@@ -1,4 +1,4 @@
-﻿---
+---
 title: Implementation Guide for Commerce Data Exchange (White paper)
 TOCTitle: Implementation Guide for Commerce Data Exchange
 ms:assetid: 988f1ef8-9e6a-49f7-94a4-5199b38e3a3e
@@ -16,5 +16,5 @@ This document describes recommended patterns and practices for setting up, confi
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=306680)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Managing items
 TOCTitle: Managing items
 ms:assetid: b3f8e14a-ef77-4422-9aa6-eeb7ab8fe3e0
@@ -14,6 +14,8 @@ f1_keywords:
 - product variant
 - purchase items
 - released items
+audience: Application User
+ms.search.region: Global
 ---
 
 # Managing items 
@@ -30,5 +32,5 @@ This section contains the following topics:
 [Modify the external item description](modify-the-external-item-description.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

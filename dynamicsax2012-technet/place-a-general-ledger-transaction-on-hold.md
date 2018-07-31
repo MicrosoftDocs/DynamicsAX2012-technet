@@ -1,4 +1,4 @@
-﻿---
+---
 title: Place a General ledger transaction on hold
 TOCTitle: Place a General ledger transaction on hold
 ms:assetid: d96eea23-327e-48c4-8948-1e7ddf7ed428
@@ -12,6 +12,8 @@ f1_keywords:
 - hold general ledger transaction
 - general ledger transaction
 - hold transaction
+audience: Application User
+ms.search.region: Global
 ---
 
 # Place a General ledger transaction on hold 
@@ -78,5 +80,5 @@ For users in Seattle, which is three hours behind New York, the transaction was 
 [Place an Accounts receivable transaction on hold](place-an-accounts-receivable-transaction-on-hold.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

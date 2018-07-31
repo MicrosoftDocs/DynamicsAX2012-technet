@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work with sales order holds
 TOCTitle: Work with sales order holds
 ms:assetid: 14cdea9d-2abb-4551-b340-7f059d8242aa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn631649(v=AX.60)
 ms:contentKeyID: 62224164
 ms.date: 04/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Work with sales order holds 
@@ -113,5 +115,5 @@ If you don't have access to the pages that are used to complete this task, conta
 Create a sales order in Call center
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

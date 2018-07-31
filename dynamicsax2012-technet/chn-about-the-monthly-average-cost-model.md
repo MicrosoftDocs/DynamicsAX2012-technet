@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) About the monthly average cost model
 TOCTitle: (CHN) About the monthly average cost model
 ms:assetid: f1ef5367-0cec-4eb3-a70b-af045d826d5e
@@ -11,6 +11,8 @@ f1_keywords:
 - average cost model
 - monthly
 - CN - 00005
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) About the monthly average cost model 
@@ -108,5 +110,5 @@ Many Chinese manufacturing and trading companies use a monthly average cost mode
 [(CHN) Item model groups (modified form)](https://technet.microsoft.com/en-us/library/jj664048\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

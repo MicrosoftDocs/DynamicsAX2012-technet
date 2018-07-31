@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage cues (Enterprise Portal)
 TOCTitle: Manage cues
 ms:assetid: d9bcbb13-fb60-44e5-9948-4122af5a6240
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227402(v=AX.60)
 ms:contentKeyID: 36059656
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage cues (Enterprise Portal) 
@@ -82,5 +84,5 @@ You can modify the display properties for a cue. Display properties include the 
 [Role Centers (Enterprise Portal)](role-centers-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

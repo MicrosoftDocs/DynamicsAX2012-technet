@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EEUR) Set up a payment method for cash payments in a retail store
 TOCTitle: (EEUR) Set up a payment method for cash payments in a retail store
 ms:assetid: 7aeee7c6-f5ae-4593-b7d2-8a8fe627a80f
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.RetailTenderTypeTable
 - RU - 00005
 - RU - 00037
+audience: Application User
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
 # (EEUR) Set up a payment method for cash payments in a retail store 
@@ -51,5 +53,5 @@ Use the following procedure to set up a payment method for cash payments in a re
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

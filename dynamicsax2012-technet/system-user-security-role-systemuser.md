@@ -1,4 +1,4 @@
-﻿---
+---
 title: System user security role (SystemUser)
 TOCTitle: System user security role (SystemUser)
 ms:assetid: 85c8554e-ed20-449c-bd15-cf8d96f58723
@@ -66,5 +66,5 @@ No privileges are directly assigned to this role in Microsoft Dynamics AX 2012, 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

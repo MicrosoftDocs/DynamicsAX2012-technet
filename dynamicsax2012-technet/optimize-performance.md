@@ -1,4 +1,4 @@
-﻿---
+---
 title: Optimize performance
 TOCTitle: Optimize performance
 ms:assetid: f1a4e14e-d712-4a72-9bf2-f63d68969b2c
@@ -26,5 +26,5 @@ This section provides information about how to monitor and tune servers to impro
 [Configure client performance options](configure-client-performance-options.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

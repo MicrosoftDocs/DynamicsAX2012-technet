@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HU) Sales tax declaration report (SalesTaxDeclarationInformation)
 TOCTitle: (HU) Sales tax declaration report (SalesTaxDeclarationInformation)
 ms:assetid: db520be4-f8e3-40b6-b47b-b1c07cb0bc42
@@ -220,5 +220,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

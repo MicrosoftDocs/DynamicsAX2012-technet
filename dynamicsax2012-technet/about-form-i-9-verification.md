@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Form I-9 verification
 TOCTitle: About Form I-9 verification
 ms:assetid: 9e5dae3a-f25c-4b03-8a9e-5325be4f4987
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213380(v=AX.60)
 ms:contentKeyID: 36058753
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About Form I-9 verification 
@@ -42,5 +44,5 @@ You can use the Renew Form I-9 alarm list report to determine which employees yo
 [(USA) Key tasks: Form I-9 verification](usa-key-tasks-form-i-9-verification.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

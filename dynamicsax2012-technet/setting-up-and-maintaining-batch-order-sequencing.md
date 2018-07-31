@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining batch order sequencing
 TOCTitle: Setting up and maintaining batch order sequencing
 ms:assetid: 43178018-45a1-4761-9689-3fd92a15ac5e
@@ -12,6 +12,8 @@ f1_keywords:
 - batch order
 - batches
 - sequencing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining batch order sequencing 
@@ -34,5 +36,5 @@ The topics in this section provide information about how to set up and maintain 
 [Set up sequencing parameters for a master plan](set-up-sequencing-parameters-for-a-master-plan.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

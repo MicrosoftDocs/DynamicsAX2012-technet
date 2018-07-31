@@ -1,4 +1,4 @@
-﻿---
+---
 title: Warehouse management
 TOCTitle: Warehouse management
 ms:assetid: 42dd1ee6-cf87-46a5-b1b5-78bc4b4637df
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553161(v=AX.60)
 ms:contentKeyID: 62200059
 ms.date: 05/19/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Warehouse management 
@@ -38,5 +40,5 @@ Use Warehouse management to monitor and automate warehouse processes. The Wareho
 [Transportation management](transportation-management.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

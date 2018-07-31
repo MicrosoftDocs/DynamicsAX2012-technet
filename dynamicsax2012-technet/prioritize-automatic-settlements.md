@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prioritize automatic settlements
 TOCTitle: Prioritize automatic settlements
 ms:assetid: c1238d5f-4bef-4ff7-ab1c-5174fe0f6c6b
@@ -10,6 +10,8 @@ f1_keywords:
 - prioritize settlements
 - settlement priority
 - settlement order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Prioritize automatic settlements 
@@ -72,5 +74,5 @@ Use this procedure to automatically settle payments by attribute type, transacti
 [Settlement priority (form)](https://technet.microsoft.com/en-us/library/hh208717\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

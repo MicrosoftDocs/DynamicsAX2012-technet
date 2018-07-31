@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up budget control
 TOCTitle: Set up budget control
 ms:assetid: 65bd8e59-8c0f-40b7-864a-2c30035bcd0b
@@ -23,6 +23,8 @@ f1_keywords:
 - parameters for budget control
 - budget groups
 - user groups
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up budget control 
@@ -470,5 +472,5 @@ In the **Activate budget control** area, you can make a draft budget control con
     The budget control status changes to **Turned on**, and the **Turn on** option is replaced with **Turn off**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Sales shipment'
 TOCTitle: Sales shipment
 ms:assetid: 3f4bb45c-02dd-40b1-86f6-2e874b237fa9
@@ -53,5 +53,5 @@ Microsoft Dynamics AX customers use the sales shipment feature to create a colle
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

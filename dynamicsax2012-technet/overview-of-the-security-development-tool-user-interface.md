@@ -1,4 +1,4 @@
-﻿---
+---
 title: Overview of the Security Development Tool user interface
 TOCTitle: Overview of the Security Development Tool user interface
 ms:assetid: 3c56a532-347b-4d29-856f-f918f096144e
@@ -16,5 +16,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/overview-of-the-security-development-tool-user-interface/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

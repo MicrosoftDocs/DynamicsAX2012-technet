@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define processes and stages for campaigns, leads, and opportunities
 TOCTitle: Define processes and stages for campaigns, leads, and opportunities
 ms:assetid: c6fc9b46-5b49-44f1-8b06-d31c9c6e9cc6
@@ -13,6 +13,8 @@ f1_keywords:
 - opportunities
 - leads
 - processes
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define processes and stages for campaigns, leads, and opportunities 
@@ -53,5 +55,5 @@ You can create a process and the stages of a process for campaigns, leads, and o
 [Lead qualifying process (form)](https://technet.microsoft.com/en-us/library/hh242699\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

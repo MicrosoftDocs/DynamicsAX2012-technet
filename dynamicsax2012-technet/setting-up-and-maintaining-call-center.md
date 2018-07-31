@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining Call center
 TOCTitle: Setting up and maintaining Call center
 ms:assetid: f9bbf2e5-95fa-4ad2-8916-bc40946eea34
@@ -10,6 +10,8 @@ f1_keywords:
 - call center setup
 - set up a call center
 - set up call center
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining Call center 
@@ -42,5 +44,5 @@ The topics in this section provide information about how to set up and maintain 
 [Working with Call center](working-with-call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

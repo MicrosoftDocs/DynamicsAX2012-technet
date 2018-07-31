@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fixed asset journals
 TOCTitle: Fixed asset journals
 ms:assetid: eea9f578-e672-4699-a8c4-68b9486fc204
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - FA journals
 - fixed asset journals
+audience: Application User
+ms.search.region: Global
 ---
 
 # Fixed asset journals 
@@ -21,5 +23,5 @@ The topics in this section provide information about journals for fixed assets.
 [Post fixed asset journals](post-fixed-asset-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

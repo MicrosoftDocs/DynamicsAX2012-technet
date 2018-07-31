@@ -1,4 +1,4 @@
-﻿---
+---
 title: View an Enterprise Portal Web site
 TOCTitle: View an Enterprise Portal Web site
 ms:assetid: 936beae4-8390-4b18-8c83-d422cceee5be
@@ -24,5 +24,5 @@ You can view a Web site for Enterprise Portal for Microsoft Dynamics AX by using
 [Creating Enterprise Portal sites](creating-enterprise-portal-sites.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

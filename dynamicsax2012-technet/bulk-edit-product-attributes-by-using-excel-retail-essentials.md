@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bulk edit product attributes by using Excel (Retail essentials)
 TOCTitle: Bulk edit product attributes by using Excel (Retail essentials)
 ms:assetid: f872b510-cb96-47dd-a8c0-3b57e70f7748
@@ -68,5 +68,5 @@ Before you can use Excel to bulk edit product attributes, complete the following
 [Set up attributes and attribute types (Retail essentials)](set-up-attributes-and-attribute-types-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

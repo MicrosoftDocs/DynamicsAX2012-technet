@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Fill Utility'
 TOCTitle: Fill Utility
 ms:assetid: 99e30ac1-e661-4e3d-9097-72bc96ce4537
@@ -57,5 +57,5 @@ In Microsoft Dynamics AX 2009, the Fill Utility lets users make mass changes to 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

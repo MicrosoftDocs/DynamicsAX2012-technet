@@ -1,4 +1,4 @@
-﻿---
+---
 title: Public sector
 TOCTitle: Public sector
 ms:assetid: 68ae031c-8648-4c5d-b381-59b203ac38b6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - public sector
 - about public sector
+audience: Application User
+ms.search.region: Global
 ---
 
 # Public sector 
@@ -35,8 +37,7 @@ Use the following Public sector functionality to meet the rules, regulations, an
 
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587%26xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
 
@@ -124,5 +125,5 @@ Public sector functionality is integrated with the following modules and Microso
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

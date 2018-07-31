@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create, post, and print a by-product journal manually
 TOCTitle: (RUS) Create, post, and print a by-product journal manually
 ms:assetid: f65551ec-f085-43cf-abb2-7409edf02382
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678627(v=AX.60)
 ms:contentKeyID: 49388109
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create, post, and print a by-product journal manually 
@@ -46,5 +48,5 @@ You can manually create a by-product journal by using the **By-product** form. A
 [(RUS) By-product journal lines (form)](https://technet.microsoft.com/en-us/library/jj711637\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

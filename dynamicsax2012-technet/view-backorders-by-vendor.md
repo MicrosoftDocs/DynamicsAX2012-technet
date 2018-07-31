@@ -1,4 +1,4 @@
-﻿---
+---
 title: View backorders by vendor
 TOCTitle: View backorders by vendor
 ms:assetid: d6869ce0-cd81-41d9-aea7-a5800d8fa701
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499388(v=AX.60)
 ms:contentKeyID: 36059535
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View backorders by vendor 
@@ -25,5 +27,5 @@ You can use this procedure to get an overview of backorder purchase order lines 
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

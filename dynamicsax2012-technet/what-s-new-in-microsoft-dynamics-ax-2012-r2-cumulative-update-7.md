@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's new in Microsoft Dynamics AX 2012 R2 cumulative update 7
 TOCTitle: What's new in Microsoft Dynamics AX 2012 R2 cumulative update 7
 ms:assetid: 90107a4a-ad17-4412-bcf8-5fce739ccce2
@@ -381,5 +381,5 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

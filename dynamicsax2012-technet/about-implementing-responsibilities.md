@@ -1,4 +1,4 @@
-﻿---
+---
 title: About implementing responsibilities
 TOCTitle: About implementing responsibilities
 ms:assetid: 9d654e66-b903-48a4-8fd7-a96e9f03a48f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213374(v=AX.60)
 ms:contentKeyID: 36058746
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About implementing responsibilities 
@@ -20,5 +22,5 @@ When responsibility assignments are made in the system, you do not have to remem
 For example, if the sales manager is responsible for tracking opportunities in your organization's sales processes, selecting the **Opportunity** check box on the sales manager line automatically assigns the sales manager to all opportunities.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

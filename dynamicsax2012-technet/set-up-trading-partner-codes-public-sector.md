@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up trading partner codes (Public sector)
 TOCTitle: Set up trading partner codes (Public sector)
 ms:assetid: 4bd55c65-45db-4c99-acda-445e9e9f524d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - public sector
 - trading partner code
+audience: Application User
+ms.search.region: Denmark, France
 ---
 
 # Set up trading partner codes (Public sector) 
@@ -39,5 +41,5 @@ Complete the steps below to create a new trading partner code.
 [Trading partner codes (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208574\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

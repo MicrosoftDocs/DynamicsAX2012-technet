@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain timesheet favorites
 TOCTitle: Maintain timesheet favorites
 ms:assetid: 8815a0ad-49fc-4277-81a1-fae9f2e56990
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - timesheet
 - favorites
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain timesheet favorites 
@@ -101,5 +103,5 @@ For information about how to create favorites in a timesheet form, see [Create a
 [Authorize timesheet delegates](authorize-timesheet-delegates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create or update a project by using Microsoft Project
 TOCTitle: Create or update a project by using Microsoft Project
 ms:assetid: bdc9791f-142a-4046-a99c-58e30b904e38
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn528663(v=AX.60)
 ms:contentKeyID: 59636745
 ms.date: 10/06/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create or update a project by using Microsoft Project 
@@ -73,7 +75,7 @@ The following table shows the prerequisites that must be in place before you sta
 <li><p>Microsoft Project Standard 2010</p></li>
 </ul>
 <p>Note that task lists can be synchronized with a project in SharePoint Online only if you are using Microsoft SharePoint 2013 Products.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!IMPORTANT]
 > <P>For best results, we recommend that you use the 32-bit version of Microsoft Project Professional 2013. For information about issues that you might encounter when you use Microsoft Project Professional 2010 or Microsoft Project Standard 2010, and steps that you can take to avoid these issues, see the <A href="create-or-update-a-project-by-using-microsoft-project.md">Create or update a project by using Microsoft Project</A> section later in this topic.</P>
@@ -380,5 +382,5 @@ The following table shows the environments in which you might encounter the issu
 [Create a work breakdown structure of tasks for a project](create-a-work-breakdown-structure-of-tasks-for-a-project.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

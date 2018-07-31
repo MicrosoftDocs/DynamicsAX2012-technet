@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a product configuration template
 TOCTitle: Create a product configuration template
 ms:assetid: ba78b125-bdc0-406a-a78f-025abbad71c3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597223(v=AX.60)
 ms:contentKeyID: 39519294
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a product configuration template 
@@ -36,5 +38,5 @@ The following steps describe how to create a product configuration template.
 [About product configuration models](about-product-configuration-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

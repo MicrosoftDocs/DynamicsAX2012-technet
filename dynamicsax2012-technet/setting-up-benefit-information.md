@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up benefit information
 TOCTitle: Setting up benefit information
 ms:assetid: 08b73ef2-887c-4c77-b658-346e242b77d6
@@ -18,6 +18,8 @@ f1_keywords:
 - Forms.HcmMassBenefitExpirationResults
 - award
 - eligible
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up benefit information 
@@ -44,5 +46,5 @@ Topics in this section contain information about how to set up and maintain bene
 [Maintain benefit expiration dates](maintain-benefit-expiration-dates.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cost accounting I license code (COSCostCenter)
 TOCTitle: Cost accounting I license code (COSCostCenter)
 ms:assetid: b737cbc1-71f8-429d-a8c4-cec145a8d1bc
@@ -110,5 +110,5 @@ The following table provides more information about this license code:
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

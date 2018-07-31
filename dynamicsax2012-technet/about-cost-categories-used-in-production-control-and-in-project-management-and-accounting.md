@@ -1,4 +1,4 @@
-﻿---
+---
 title: About cost categories used in Production control and in Project management and accounting
 TOCTitle: About cost categories used in Production control and in Project management and accounting
 ms:assetid: d5bc9440-4bec-46bc-8794-cb79947c7b02
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213701(v=AX.60)
 ms:contentKeyID: 36059531
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About cost categories used in Production control and in Project management and accounting 
@@ -30,5 +32,5 @@ Additional buttons provide access to project-related information about a selecte
 [About cost categories used in production routings](about-cost-categories-used-in-production-routings.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create and post a vendor invoice for a service item
 TOCTitle: (RUS) Create and post a vendor invoice for a service item
 ms:assetid: 41de9732-e39e-43e9-8fd3-225225f4ab29
@@ -11,6 +11,8 @@ f1_keywords:
 - a vendor invoice
 - service item
 - Create and post
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create and post a vendor invoice for a service item 
@@ -41,5 +43,5 @@ You can create and post a vendor invoice for a service item by using the **Vendo
 [(RUS) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj733265\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

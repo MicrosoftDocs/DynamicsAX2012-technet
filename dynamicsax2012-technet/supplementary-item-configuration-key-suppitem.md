@@ -1,4 +1,4 @@
-﻿---
+---
 title: Supplementary item configuration key (SuppItem)
 TOCTitle: Supplementary item configuration key (SuppItem)
 ms:assetid: 96b6e937-c500-4d65-8b75-6815f844ba19
@@ -139,5 +139,5 @@ The following table provides information about how this configuration key relate
 For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring project groups
 TOCTitle: Configuring project groups
 ms:assetid: 57875ff2-e427-4f4c-a584-a7a764b9a16a
@@ -12,6 +12,8 @@ f1_keywords:
 - project profile
 - project structure
 - project type
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring project groups 
@@ -32,5 +34,5 @@ The following topics provide information about configuring project groups.
 [Change the project group](change-the-project-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

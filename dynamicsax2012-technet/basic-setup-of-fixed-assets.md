@@ -1,4 +1,4 @@
-﻿---
+---
 title: Basic setup of Fixed assets
 TOCTitle: Basic setup of Fixed assets
 ms:assetid: 151e696a-69e9-424d-a9a0-9a2cd896634d
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - basic setup
 - setup of fixed assets
+audience: Application User
+ms.search.region: Global
 ---
 
 # Basic setup of Fixed assets 
@@ -63,5 +65,5 @@ You do not have to set up consumption depreciation. However, you must complete t
 [Set up consumption depreciation](set-up-consumption-depreciation.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

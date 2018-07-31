@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) About accounting distributions and subledger journals
 TOCTitle: (IND) About accounting distributions and subledger journals
 ms:assetid: d1193649-3950-4445-8748-1d6b53ef7133
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - accounting distributions
 - subledger journals
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) About accounting distributions and subledger journals 
@@ -49,5 +51,5 @@ Accounting distributions and subledger journals are not available for the follow
 [View subledger journals for free text invoices](view-subledger-journals-for-free-text-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

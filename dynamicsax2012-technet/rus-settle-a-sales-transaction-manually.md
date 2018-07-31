@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Settle a sales transaction manually
 TOCTitle: (RUS) Settle a sales transaction manually
 ms:assetid: 3a4b3690-20ac-49e6-81ae-99b5674e446a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665295(v=AX.60)
 ms:contentKeyID: 49387384
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Settle a sales transaction manually 
@@ -66,5 +68,5 @@ You can settle counteragent transactions manually by using the **Facture and pay
 [(RUS) Adjust counteragent transactions in accounts receivable](rus-adjust-counteragent-transactions-in-accounts-receivable.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Specify an inventory model for inventory close
 TOCTitle: Specify an inventory model for inventory close
 ms:assetid: eb48d918-f99c-4623-9ae4-6fa4c990dadb
@@ -10,6 +10,8 @@ f1_keywords:
 - model group
 - item model group
 - item model groups
+audience: Application User
+ms.search.region: Global
 ---
 
 # Specify an inventory model for inventory close 
@@ -46,5 +48,5 @@ An inventory model typically is assigned to an item when you are configuring its
 [Run inventory close](run-inventory-close.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

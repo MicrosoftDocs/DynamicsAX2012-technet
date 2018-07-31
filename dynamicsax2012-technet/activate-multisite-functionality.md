@@ -1,4 +1,4 @@
-﻿---
+---
 title: Activate multisite functionality
 TOCTitle: Activate multisite functionality
 ms:assetid: 6556a4c9-0f16-4ddf-95f7-1cfd85f9baac
@@ -111,5 +111,5 @@ When you upgrade to Microsoft Dynamics AX 2012, and the **Trade** license and as
 [About mandatory inventory dimensions](about-mandatory-inventory-dimensions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

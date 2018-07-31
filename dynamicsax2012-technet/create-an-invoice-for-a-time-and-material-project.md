@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create an invoice for a time and material project
 TOCTitle: Create an invoice for a time and material project
 ms:assetid: 3257c81d-17ba-4ef9-a927-2beac5269fae
@@ -11,6 +11,8 @@ f1_keywords:
 - time and material
 - invoice proposal
 - project invoice
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create an invoice for a time and material project 
@@ -75,5 +77,5 @@ You can also print an invoice from the **Invoice proposals** form.
 [Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

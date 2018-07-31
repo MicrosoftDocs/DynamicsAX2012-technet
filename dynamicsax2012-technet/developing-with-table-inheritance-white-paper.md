@@ -1,4 +1,4 @@
-﻿---
+---
 title: Developing with Table Inheritance (White paper)
 TOCTitle: Developing with Table Inheritance
 ms:assetid: 540c8506-c723-4106-81ac-6d5d318ccc37
@@ -18,5 +18,5 @@ Microsoft Dynamics AX 2012 introduces programming support for table inheritance,
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=213123)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

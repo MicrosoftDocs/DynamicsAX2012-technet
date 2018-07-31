@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vendor retention configuration key (PSAAPRetainage)
 TOCTitle: Vendor retention configuration key (PSAAPRetainage)
 ms:assetid: 1b1eca7a-e5df-4853-be8e-76f0f80b47be
@@ -90,5 +90,5 @@ For more information about how license codes and configuration keys work togethe
 [Key tasks: Manage vendor payment retention for projects](key-tasks-manage-vendor-payment-retention-for-projects.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

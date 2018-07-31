@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and submit an original project budget
 TOCTitle: Create and submit an original project budget
 ms:assetid: aab445d0-783a-497b-96ce-d0b8fc819e47
@@ -12,6 +12,8 @@ f1_keywords:
 - project budget
 - original budget
 - original project budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and submit an original project budget 
@@ -147,5 +149,5 @@ After you select the settings for a project budget, create a budget for the esti
 [Project budget allocation (form)](https://technet.microsoft.com/en-us/library/hh242461\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

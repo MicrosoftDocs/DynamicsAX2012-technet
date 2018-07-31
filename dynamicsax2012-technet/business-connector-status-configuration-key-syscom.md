@@ -1,4 +1,4 @@
-﻿---
+---
 title: Business Connector Status configuration key (SysCOM)
 TOCTitle: Business Connector Status configuration key (SysCOM)
 ms:assetid: 92f38b1b-ac51-4ab2-8e80-959e9d08f086
@@ -48,5 +48,5 @@ Enable the .NET Business Connector security key for roles that access Microsoft 
 Do not enable .NET Business Connector security keys for roles that only access Microsoft Dynamics AX using the .NET Business Connector proxy. In earlier versions of Microsoft Dynamics AX, you were required to enable the .NET Business Connector security key so that users and groups could access Enterprise Portal and the Application Integration Framework. You are no longer required to enable the .NET Business Connector security key for roles that access Microsoft Dynamics AX using the .NET Business Connector proxy.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

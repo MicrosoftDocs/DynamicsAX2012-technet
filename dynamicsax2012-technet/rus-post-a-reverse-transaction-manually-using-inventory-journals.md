@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Post a reverse transaction manually using inventory journals
 TOCTitle: (RUS) Post a reverse transaction manually using inventory journals
 ms:assetid: 1c42cec4-eed4-4993-8139-5c02a4b29bf8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711449(v=AX.60)
 ms:contentKeyID: 49387268
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Post a reverse transaction manually using inventory journals 
@@ -71,5 +73,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 [(RUS) Set up reverse transactions](rus-set-up-reverse-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

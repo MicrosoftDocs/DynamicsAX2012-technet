@@ -1,4 +1,4 @@
-﻿---
+---
 title: Direct deliveries
 TOCTitle: Direct deliveries
 ms:assetid: a203434a-7793-4e06-b8a6-912f924edb85
@@ -13,6 +13,8 @@ f1_keywords:
 - deliver directly to customer
 - direct deliveries
 - drop shipping
+audience: Application User
+ms.search.region: Global
 ---
 
 # Direct deliveries 
@@ -27,5 +29,5 @@ The following topics provide information about direct deliveries.
 [Create direct deliveries](create-direct-deliveries.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

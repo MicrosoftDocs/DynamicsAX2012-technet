@@ -1,4 +1,4 @@
-﻿---
+---
 title: View service orders
 TOCTitle: View service orders
 ms:assetid: 26f49353-825c-436f-984b-29273bde334a
@@ -11,6 +11,8 @@ f1_keywords:
 - EPServiceOrderLineInfo
 - EPServiceOrderList
 - EPServiceOrderListMyOpen
+audience: Application User
+ms.search.region: Global
 ---
 
 # View service orders 
@@ -48,5 +50,5 @@ You can use the **Service orders** page to view a list of service orders that ha
 [Create or modify service orders and repair lines](create-or-modify-service-orders-and-repair-lines.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

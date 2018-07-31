@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up service codes for service goods
 TOCTitle: (IND) Set up service codes for service goods
 ms:assetid: d38e66a7-0f5d-4068-a73c-5b8b470a0451
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.EcoResProductDetailsExtended
 - Forms.ServiceCodeTable_IN
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up service codes for service goods 
@@ -65,5 +67,5 @@ Use this procedure to attach a service code to an item of type **Service**.
 [(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

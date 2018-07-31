@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Setup parameters'
 TOCTitle: Setup parameters
 ms:assetid: 9256a529-5734-4767-85c2-0be9d279ec1e
@@ -101,5 +101,5 @@ AX 2012 and future versions do not provide support for the following command-lin
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

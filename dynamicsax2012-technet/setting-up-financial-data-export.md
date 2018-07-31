@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up financial data export
 TOCTitle: Setting up financial data export
 ms:assetid: 39242572-99fc-4e82-ac62-ad229debb829
@@ -11,6 +11,8 @@ f1_keywords:
 - data export setup
 - export setup
 - financial data export
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up financial data export 
@@ -23,5 +25,5 @@ The following topics provide information about setting up financial data export.
 [(FRA) Setup to export financial data](fra-setup-to-export-financial-data.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up system-wide synchronization options for Microsoft Outlook or Exchange Server
 TOCTitle: Set up system-wide synchronization options for Microsoft Outlook or Exchange Server
 ms:assetid: fce482b0-1966-421f-b378-31ba5fea9eb8
@@ -42,5 +42,5 @@ Use the **Microsoft Outlook or Exchange Server mapping** form to view the synchr
   - Click **Organization administration** \> **Setup** \> **Microsoft Outlook or Exchange Server synchronization** \> **Microsoft Outlook mapping**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

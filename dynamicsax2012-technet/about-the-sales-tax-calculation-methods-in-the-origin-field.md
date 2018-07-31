@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the sales tax calculation methods in the Origin field
 TOCTitle: About the sales tax calculation methods in the Origin field
 ms:assetid: 267823d5-14e4-4cf4-af49-c9422ffda3ff
@@ -13,6 +13,8 @@ f1_keywords:
 - origin field
 - sales tax calculation
 - tax calculation method
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the sales tax calculation methods in the Origin field 
@@ -265,5 +267,5 @@ Tax rate: 25%
 Sales tax: Net amount x tax rate (10.00 x 25%) = 2.50
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

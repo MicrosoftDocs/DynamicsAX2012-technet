@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Assets and depreciations report (AssetsDepreciation_SA)
 TOCTitle: (SAU) Assets and depreciations report (AssetsDepreciation_SA)
 ms:assetid: cbef9c87-5649-4243-987d-d363687236ab
@@ -96,5 +96,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(SAU) Zakat assets and depreciation (form)](https://technet.microsoft.com/en-us/library/hh242233\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

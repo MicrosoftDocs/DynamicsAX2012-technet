@@ -1,4 +1,4 @@
-﻿---
+---
 title: " purchase VAT"
 TOCTitle: " purchase VAT"
 ms:assetid: DynamicsAXGlossary.2015319
@@ -19,5 +19,5 @@ The tax on an organization’s purchases or input supplies, which is levied on t
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain alert rule templates
 TOCTitle: Maintain alert rule templates
 ms:assetid: dd002c42-8a59-4e8c-8d75-041ec0e610b1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570081(v=AX.60)
 ms:contentKeyID: 46687569
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain alert rule templates 
@@ -34,5 +36,5 @@ After you have created alert rules, you can create templates that are based on t
     The templates that you create are available to all users who have access to the current company account.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

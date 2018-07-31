@@ -1,4 +1,4 @@
-﻿---
+---
 title: (NOR) Set up the Telepay 2.01 method of payment
 TOCTitle: (NOR) Set up the Telepay 2.01 method of payment
 ms:assetid: ec0806e1-0f5c-45d5-9983-fde5bb4e8999
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243252(v=AX.60)
 ms:contentKeyID: 36059891
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Norway
 ---
 
 # (NOR) Set up the Telepay 2.01 method of payment 
@@ -38,5 +40,5 @@ You can create a payment proposal and export the file by using an available expo
 [Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

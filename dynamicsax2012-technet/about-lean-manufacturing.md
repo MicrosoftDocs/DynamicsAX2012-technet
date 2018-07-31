@@ -1,4 +1,4 @@
-﻿---
+---
 title: About lean manufacturing
 TOCTitle: About lean manufacturing
 ms:assetid: ead08595-169c-442e-9d88-f8f3f91e4a32
@@ -23,6 +23,8 @@ f1_keywords:
 - lean tools
 - lean operations
 - lean manufacturing foundation
+audience: Application User
+ms.search.region: Global
 ---
 
 # About lean manufacturing 
@@ -123,5 +125,5 @@ In addition, lean manufacturing supports the purchasing and invoicing processes 
 [Kanban board for process jobs (form)](https://technet.microsoft.com/en-us/library/hh781101\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

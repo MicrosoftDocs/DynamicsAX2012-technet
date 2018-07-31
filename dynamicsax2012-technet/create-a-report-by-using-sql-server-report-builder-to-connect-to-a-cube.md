@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a report by using SQL Server Report Builder to connect to a cube
 TOCTitle: Create a report by using SQL Server Report Builder to connect to a cube
 ms:assetid: 0fe8ca70-c5af-4d3f-9019-27d769b80ba6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731902(v=AX.60)
 ms:contentKeyID: 35132819
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a report by using SQL Server Report Builder to connect to a cube 
@@ -109,5 +111,5 @@ When you open Report Builder, the Getting Started wizard is displayed. This wiza
 When you have finished designing a report, you can generate, or run, the report. Click the **Run** button in the Report Builder toolbar. The report will be displayed.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Post service tax transactions by using a customer payment journal
 TOCTitle: (IND) Post service tax transactions by using a customer payment journal
 ms:assetid: 868ef98b-c0b4-4a8f-b80d-c6934c217c1b
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.LedgerJournalTransCustPaym
 - Forms.LedgerJournalTable
 - Forms.TaxTmpWorkTrans
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Post service tax transactions by using a customer payment journal 
@@ -64,5 +66,5 @@ Use the **Payment journal** form to create and post service tax transactions tha
 [(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

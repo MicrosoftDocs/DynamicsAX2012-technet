@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project stages
 TOCTitle: About project stages
 ms:assetid: 9a3e4a61-cd36-4b46-9047-e5fb54d170b0
@@ -13,6 +13,8 @@ f1_keywords:
 - finished
 - project stages
 - in process
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project stages 
@@ -51,7 +53,7 @@ There are five predefined project stages and three user-defined stages. The foll
 <tr class="even">
 <td><p><strong>In process</strong></p></td>
 <td><p>Manually started. This stage typically signifies start of the project.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>This is the minimum stage required for recording transactions on the project.</P>
@@ -62,7 +64,7 @@ There are five predefined project stages and three user-defined stages. The foll
 <tr class="odd">
 <td><p><strong>Finished</strong></p></td>
 <td><p>Manually started.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If you select this stage, additional processes cannot be run on the project.</P>
@@ -115,5 +117,5 @@ You can select the following tasks to assign to a project stage:
 [Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

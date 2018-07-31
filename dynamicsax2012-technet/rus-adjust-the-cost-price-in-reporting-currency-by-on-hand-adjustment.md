@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Adjust the cost price in reporting currency by on-hand adjustment
 TOCTitle: (RUS) Adjust the cost price in reporting currency by on-hand adjustment
 ms:assetid: 23033383-4874-4373-a045-cfa979b770fe
@@ -11,6 +11,8 @@ f1_keywords:
 - cost price
 - (RUS)
 - Russia
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Adjust the cost price in reporting currency by on-hand adjustment 
@@ -74,5 +76,5 @@ After you run the inventory closing process, you can adjust the inventory cost p
 [(RUS) Adjust the cost price from the ledger account](rus-adjust-the-cost-price-from-the-ledger-account.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

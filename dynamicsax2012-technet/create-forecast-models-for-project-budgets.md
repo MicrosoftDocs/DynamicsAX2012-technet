@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create forecast models for project budgets
 TOCTitle: Create forecast models for project budgets
 ms:assetid: 6161f498-4877-4c12-8dd6-5e132b5a3054
@@ -17,6 +17,8 @@ f1_keywords:
 - budget model
 - original budget
 - remaining budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create forecast models for project budgets 
@@ -71,5 +73,5 @@ A project that is subject to budget control uses two types of budgets: the origi
 [Create and submit an original project budget](create-and-submit-an-original-project-budget.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

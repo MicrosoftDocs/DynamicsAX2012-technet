@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a template in RapidStart Services
 TOCTitle: Create a template in RapidStart Services
 ms:assetid: 2817515d-cc88-45aa-b0c6-1d936faca3b6
@@ -43,5 +43,5 @@ You can now add functional areas or sub-templates to the template.
 [Add a functional area to a template in RapidStart Services](add-a-functional-area-to-a-template-in-rapidstart-services.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

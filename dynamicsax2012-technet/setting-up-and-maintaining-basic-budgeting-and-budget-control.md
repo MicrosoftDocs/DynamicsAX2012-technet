@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up and maintaining basic budgeting and budget control
 TOCTitle: Setting up and maintaining basic budgeting and budget control
 ms:assetid: 600eb617-dec5-4e6f-80c4-701694ba9d10
@@ -10,6 +10,8 @@ f1_keywords:
 - budget
 - budget control
 - basic budget
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up and maintaining basic budgeting and budget control 
@@ -24,5 +26,5 @@ The topics in this section provide information about setting up and maintaining 
 [Setting up budget control](setting-up-budget-control.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

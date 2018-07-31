@@ -1,4 +1,4 @@
-﻿---
+---
 title: About lot inheritance
 TOCTitle: About lot inheritance
 ms:assetid: 638df47d-a194-40c1-9aba-d91274b3a5aa
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838738(v=AX.60)
 ms:contentKeyID: 50120621
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About lot inheritance 
@@ -44,5 +46,5 @@ After you define shelf life ingredients and define and activate batch attributes
 [(PM) Batch attribute selection (form)](https://technet.microsoft.com/en-us/library/jj838761\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

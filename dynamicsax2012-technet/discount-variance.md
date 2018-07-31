@@ -1,4 +1,4 @@
-﻿---
+---
 title: " discount variance"
 TOCTitle: " discount variance"
 ms:assetid: DynamicsAXGlossary.1491649
@@ -21,5 +21,5 @@ The difference between an expected discount and an actual discount.
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

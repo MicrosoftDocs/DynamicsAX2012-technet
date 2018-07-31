@@ -1,4 +1,4 @@
-﻿---
+---
 title: GDPdU setup example
 TOCTitle: GDPdU setup example
 ms:assetid: a0dd6065-c3db-42ff-bc19-a1d084e8db82
@@ -22,5 +22,5 @@ This white paper explains how to configure GDPdU data export for organizations i
 [(DEU) Export GDPdU data](deu-export-gdpdu-data.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

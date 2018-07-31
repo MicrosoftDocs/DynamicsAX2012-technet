@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add a batch attribute to an item for a customer
 TOCTitle: Add a batch attribute to an item for a customer
 ms:assetid: 313871a3-2ac8-4876-8c4c-1aacc3d4e84f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208563(v=AX.60)
 ms:contentKeyID: 36056334
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add a batch attribute to an item for a customer 
@@ -44,5 +46,5 @@ Use this procedure to add a batch attribute to an item for a customer.
 [Customer specific (form)](https://technet.microsoft.com/en-us/library/hh209393\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

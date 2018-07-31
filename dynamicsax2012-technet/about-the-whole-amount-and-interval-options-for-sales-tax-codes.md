@@ -1,4 +1,4 @@
-﻿---
+---
 title: About the Whole amount and Interval options for sales tax codes
 TOCTitle: About the Whole amount and Interval options for sales tax codes
 ms:assetid: 9c9e1646-c721-492a-ae75-cc31c8c488a3
@@ -14,6 +14,8 @@ f1_keywords:
 - interval options
 - whole amount
 - whole amounts
+audience: Application User
+ms.search.region: Global
 ---
 
 # About the Whole amount and Interval options for sales tax codes 
@@ -200,5 +202,5 @@ The sales tax is the sum of the tax amounts that are calculated for each amount 
 [About the Marginal base field](about-the-marginal-base-field.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

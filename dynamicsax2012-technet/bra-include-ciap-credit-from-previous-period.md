@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Include CIAP credit from previous period
 TOCTitle: (BRA) Include CIAP credit from previous period
 ms:assetid: 9605990c-af44-4ced-b2e1-6085e2f41a45
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - forms.FBCIAPAssessment_BR
 - MsDynAx060.forms.FBCIAPAssessment_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Include CIAP credit from previous period 
@@ -41,5 +43,5 @@ Use the **CIAP fixed asset transactions** form to create CIAP credit installment
 7.  Click the **Line details** FastTab to enter information about fiscal documents and other credits.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import or export quick links
 TOCTitle: Import or export quick links
 ms:assetid: a55127a1-50fc-4033-8e8a-e683ec25cb73
@@ -44,5 +44,5 @@ You can import and export quick links in the following scenarios:
 [Manage Role Center Web Parts](manage-role-center-web-parts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

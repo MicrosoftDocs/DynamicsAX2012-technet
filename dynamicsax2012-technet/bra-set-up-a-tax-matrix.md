@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up a tax matrix
 TOCTitle: (BRA) Set up a tax matrix
 ms:assetid: 7ec568e6-dbd0-4d5f-a50c-ca4c68df0060
@@ -11,6 +11,8 @@ f1_keywords:
 - BRA
 - Brazil
 - tax matrix
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up a tax matrix 
@@ -89,5 +91,5 @@ You can set up the sales tax group and item sales tax group that are used in sal
 [(BRA) CFOP groups (form)](https://technet.microsoft.com/en-us/library/jj923344\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

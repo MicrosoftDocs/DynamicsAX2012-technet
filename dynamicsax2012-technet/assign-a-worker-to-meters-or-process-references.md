@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign a worker to meters or process references
 TOCTitle: Assign a worker to meters or process references
 ms:assetid: 06747c24-2533-4a4e-a72f-dea344c66e5c
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496412(v=AX.60)
 ms:contentKeyID: 37071989
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign a worker to meters or process references 
@@ -28,5 +30,5 @@ You can assign employees to a process reference or a meter that the employees ar
 6.  Enter the frequency and interval times to specify how often the employee must monitor and report the data for the process reference or meter. For example, you enter 2 in the **Frequency** field, and then select **Week** in the **Entry interval** field. In this case, the data for the process reference or meter must be entered one time every two weeks.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

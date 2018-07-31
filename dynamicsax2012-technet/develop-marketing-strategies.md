@@ -1,4 +1,4 @@
-﻿---
+---
 title: Develop marketing strategies
 TOCTitle: Develop marketing strategies
 ms:assetid: 4f98a16c-8739-4f35-8079-8d1deb047587
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - marketing strategies
 - marketing strategy
+audience: Application User
+ms.search.region: Global
 ---
 
 # Develop marketing strategies 
@@ -23,5 +25,5 @@ The topics in this section provide information about how to develop strategies f
 [Create a call list and call list targets](create-a-call-list-and-call-list-targets.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

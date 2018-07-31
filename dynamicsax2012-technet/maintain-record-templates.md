@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain record templates
 TOCTitle: Maintain record templates
 ms:assetid: 0dcce7f1-b62e-4c16-b230-e732babd1bd5
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - record templates
 - record template
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain record templates 
@@ -107,5 +109,5 @@ If you do not want to use templates when you create new records, select the **Do
 [Create template (form)](https://technet.microsoft.com/en-us/library/aa591516\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

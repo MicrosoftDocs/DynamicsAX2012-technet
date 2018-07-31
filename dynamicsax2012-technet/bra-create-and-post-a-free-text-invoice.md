@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create and post a free text invoice
 TOCTitle: (BRA) Create and post a free text invoice
 ms:assetid: 7cdc36b6-a962-42ba-9279-843b29218779
@@ -13,6 +13,8 @@ f1_keywords:
 - Create free text invoice
 - post free text invoice
 - BR - 00016
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create and post a free text invoice 
@@ -75,5 +77,5 @@ You can create and post a free text invoice by specifying the fiscal document ty
 [Free text invoice (form)](https://technet.microsoft.com/en-us/library/aa556897\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

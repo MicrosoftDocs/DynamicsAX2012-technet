@@ -1,4 +1,4 @@
-﻿---
+---
 title: Request for quotation reply follow-up report (PurchRFQReplyFollowUp)
 TOCTitle: Request for quotation reply follow-up report (PurchRFQReplyFollowUp)
 ms:assetid: 64bfa479-c6f9-48bd-96d2-658af2138070
@@ -124,5 +124,5 @@ If you are a developer, you can learn more about where the data on a report come
 [Follow up on requests for quotation and replies](follow-up-on-requests-for-quotation-and-replies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

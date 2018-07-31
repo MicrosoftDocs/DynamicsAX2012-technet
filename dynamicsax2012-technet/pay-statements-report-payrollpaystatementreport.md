@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pay statements report (PayrollPayStatementReport)
 TOCTitle: Pay statements report (PayrollPayStatementReport)
 ms:assetid: 803456e6-b2ee-4784-87c1-c0205f060e78
@@ -135,5 +135,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

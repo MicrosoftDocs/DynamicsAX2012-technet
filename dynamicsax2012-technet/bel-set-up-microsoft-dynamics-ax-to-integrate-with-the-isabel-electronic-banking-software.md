@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BEL) Set up Microsoft Dynamics AX to integrate with the Isabel electronic banking software
 TOCTitle: (BEL) Set up Microsoft Dynamics AX to integrate with the Isabel electronic banking software
 ms:assetid: 91e839bb-4317-4ce3-bf41-7726d1e74890
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232175(v=AX.60)
 ms:contentKeyID: 36058566
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Belgium
 ---
 
 # (BEL) Set up Microsoft Dynamics AX to integrate with the Isabel electronic banking software 
@@ -66,5 +68,5 @@ You must set up certain parameters before Microsoft Dynamics AX can integrate wi
 [(BEL) IBS transactions (form)](https://technet.microsoft.com/en-us/library/hh227606\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a ledger
 TOCTitle: Set up a ledger
 ms:assetid: 89a050d9-71d8-4dfe-8ae5-b2f6d55a8cf8
@@ -10,6 +10,8 @@ f1_keywords:
 - ledger
 - ledger setup
 - set up a ledger
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a ledger 
@@ -80,5 +82,5 @@ In the **Ledger** form, you can also select a balancing financial dimension, whi
 [Create a currency code](create-a-currency-code.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

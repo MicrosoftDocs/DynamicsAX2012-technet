@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) About BOM comparison
 TOCTitle: (CHN) About BOM comparison
 ms:assetid: 49361666-e338-4cd5-972b-5ce22d98eb87
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - BOM comparison
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) About BOM comparison 
@@ -194,5 +196,5 @@ The following table illustrates how a BOM comparison is performed. In this examp
 [(CHN) Compare BOM versions and print the BOM comparison report](chn-compare-bom-versions-and-print-the-bom-comparison-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Implementing the Global Address Book Framework (White paper)
 TOCTitle: Implementing the Global Address Book Framework
 ms:assetid: 6398a369-8f3b-4d97-bb03-2ce7b3f8dc44
@@ -18,5 +18,5 @@ In Microsoft Dynamics AX 2012, the address book framework has been enhanced so t
 [Download the white paper](http://go.microsoft.com/fwlink/?linkid=213127).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a dimension set for dimensions control for settlements
 TOCTitle: (RUS) Set up a dimension set for dimensions control for settlements
 ms:assetid: 669e7bc8-d69e-4ab2-93be-50f73ffe45c4
@@ -11,6 +11,8 @@ f1_keywords:
 - (RUS)
 - dimensions control for settlements
 - dimension set
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a dimension set for dimensions control for settlements 
@@ -35,5 +37,5 @@ Use this procedure to set up a dimension set for dimension control for settlemen
 [Financial dimension sets (form)](https://technet.microsoft.com/en-us/library/aa597282\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

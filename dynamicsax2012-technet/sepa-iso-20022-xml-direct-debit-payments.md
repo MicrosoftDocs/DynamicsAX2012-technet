@@ -1,4 +1,4 @@
-﻿---
+---
 title: SEPA (ISO 20022 XML) direct debit payments
 TOCTitle: SEPA (ISO 20022 XML) direct debit payments
 ms:assetid: 786aec5d-548d-4d59-b6a9-f1f855a1ad64
@@ -24,5 +24,5 @@ The second white paper describes the functionality for Microsoft Dynamics AX tha
 [Download the paper](http://go.microsoft.com/fwlink/?linkid=286122)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

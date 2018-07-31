@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deploy the client by using Microsoft System Center 2012 Configuration Manager
 TOCTitle: Deploy the client by using Microsoft System Center 2012 Configuration Manager
 ms:assetid: 9527b874-0f9d-46cf-acef-3d8b02d659fa
@@ -148,5 +148,5 @@ For more information about how to deploy packages, see [How to Deploy Packages a
 10. On the **Summary** page of the wizard, review the actions that will be taken, and then complete the wizard.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

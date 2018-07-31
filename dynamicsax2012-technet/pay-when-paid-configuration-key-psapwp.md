@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pay when paid configuration key (PSAPwp)
 TOCTitle: Pay when paid configuration key (PSAPwp)
 ms:assetid: 00f7a64b-96cb-4547-b606-e63ef5848625
@@ -84,5 +84,5 @@ For more information about how license codes and configuration keys work togethe
 [Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

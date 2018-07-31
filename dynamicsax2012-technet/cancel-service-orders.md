@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cancel service orders
 TOCTitle: Cancel service orders
 ms:assetid: 30cb05ee-7e05-4245-8a0e-688d62cc69c6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570041(v=AX.60)
 ms:contentKeyID: 36056318
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Cancel service orders 
@@ -61,5 +63,5 @@ The selected service orders are either canceled or their progress status of **Ca
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

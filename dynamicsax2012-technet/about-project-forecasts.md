@@ -1,4 +1,4 @@
-﻿---
+---
 title: About project forecasts
 TOCTitle: About project forecasts
 ms:assetid: 1bb1eb17-2e0f-40a6-a6ce-d07eb84751d1
@@ -8,6 +8,8 @@ ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
 - project forecasts
+audience: Application User
+ms.search.region: Global
 ---
 
 # About project forecasts 
@@ -64,5 +66,5 @@ Project forecasts can be revised, copied, deleted, or transferred to a general l
 [Transfer work breakdown estimates to project forecasts](transfer-work-breakdown-estimates-to-project-forecasts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

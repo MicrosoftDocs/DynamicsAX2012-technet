@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create loan items
 TOCTitle: Create loan items
 ms:assetid: 713b8feb-edd3-4a19-9839-f5b34a2a4af3
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Forms.HcmLoanListPage
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create loan items 
@@ -74,5 +76,5 @@ The process for creating loan items depends on whether you want to create a sing
 [Loan items (form)](https://technet.microsoft.com/en-us/library/aa550442\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

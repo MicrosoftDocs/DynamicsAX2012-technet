@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set parameters for the EU sales list
 TOCTitle: (POL) Set parameters for the EU sales list
 ms:assetid: a532c195-7532-4dc8-83a2-74069758bc60
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678323(v=AX.60)
 ms:contentKeyID: 49387045
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set parameters for the EU sales list 
@@ -36,5 +38,5 @@ For more information about how to create and submit the EU sales list, see [Gene
 6.  Select the **Use minimum value** check box to round amounts smaller than the rounding rule up to the rounding rule amount.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

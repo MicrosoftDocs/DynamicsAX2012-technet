@@ -1,4 +1,4 @@
-﻿---
+---
 title: View sales packing slips
 TOCTitle: View sales packing slips
 ms:assetid: 39e576d0-b728-447c-9fd7-d5b08c98ffe6
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPCustPackingSlipJournalInfo
 - EPCustPackingSlipJournalList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View sales packing slips 
@@ -39,5 +41,5 @@ Use the **Packing slip** and **View packing slip** pages to view information abo
 [View customer invoice information](view-customer-invoice-information.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

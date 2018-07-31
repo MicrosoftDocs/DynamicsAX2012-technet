@@ -1,4 +1,4 @@
-﻿---
+---
 title: (EST) Create a customer balance notice
 TOCTitle: (EST) Create a customer balance notice
 ms:assetid: 6e2d5cdc-4a27-447d-b71a-c18dbfbffef5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710847(v=AX.60)
 ms:contentKeyID: 49385243
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Estonia
 ---
 
 # (EST) Create a customer balance notice 
@@ -38,5 +40,5 @@ At the end of each financial year, the company sends a balance notice to its cus
 [(EST) Create a vendor balance notice](est-create-a-vendor-balance-notice.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

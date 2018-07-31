@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Scenario: Mapping security in Microsoft Dynamics AX to Analysis Services'
 TOCTitle: 'Scenario: Mapping security in Microsoft Dynamics AX to Analysis Services'
 ms:assetid: 509f0bbf-e63d-4c12-9f6a-6484aeb08b2a
@@ -58,5 +58,5 @@ Follow these steps to determine which roles in Microsoft Dynamics AX have access
 5.  Assign the users in those Microsoft Dynamics AX roles to corresponding roles in Analysis Services. For information about how to assign users to roles in Analysis Services, see [Grant users access to cubes](grant-users-access-to-cubes.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

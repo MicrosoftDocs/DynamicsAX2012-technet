@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a transportation tender
 TOCTitle: Set up a transportation tender
 ms:assetid: 6f7edf8d-b8a3-4c2e-906a-43f3d953d21d
@@ -12,6 +12,8 @@ f1_keywords:
 - tender
 - tenders
 - transportation tenders
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a transportation tender 
@@ -159,5 +161,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

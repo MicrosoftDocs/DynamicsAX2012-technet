@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create collective registration entries
 TOCTitle: Create collective registration entries
 ms:assetid: 6ad0b548-746b-4e4e-bda6-c1559a276bea
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571178(v=AX.60)
 ms:contentKeyID: 36057984
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create collective registration entries 
@@ -48,5 +50,5 @@ When the meeting is over, the manager stops the collective registration. Consequ
 [About indirect activities for time and attendance](about-indirect-activities-for-time-and-attendance.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

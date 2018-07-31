@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prerequisites for product configuration models
 TOCTitle: Prerequisites for product configuration models
 ms:assetid: d7278ab6-ba18-4988-945a-662f02a770ab
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh278336(v=AX.60)
 ms:contentKeyID: 36207233
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Prerequisites for product configuration models 
@@ -44,5 +46,5 @@ The following areas must be set up before product configuration models can be co
 [Setting up and maintaining product configuration models](setting-up-and-maintaining-product-configuration-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

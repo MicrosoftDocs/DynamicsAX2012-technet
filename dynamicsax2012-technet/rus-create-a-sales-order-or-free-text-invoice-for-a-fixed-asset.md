@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create a sales order or free text invoice for a fixed asset
 TOCTitle: (RUS) Create a sales order or free text invoice for a fixed asset
 ms:assetid: f5cf2405-d220-4763-a8e2-db2018765296
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678624(v=AX.60)
 ms:contentKeyID: 49388106
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create a sales order or free text invoice for a fixed asset 
@@ -146,5 +148,5 @@ However, if the invoice expenses are included in the order line that corresponds
 [(RUS) FA balances (form)](https://technet.microsoft.com/en-us/library/jj711559\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

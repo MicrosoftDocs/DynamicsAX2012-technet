@@ -1,4 +1,4 @@
-﻿---
+---
 title: Transfer or lend assets overview
 TOCTitle: Transfer or lend assets overview
 ms:assetid: 3dba59ae-5b10-4f2e-ba60-80b00fc2be1e
@@ -13,6 +13,8 @@ f1_keywords:
 - asset transfer
 - asset transfers
 - fixed asset transfers
+audience: Application User
+ms.search.region: Global
 ---
 
 # Transfer or lend assets overview 
@@ -106,5 +108,5 @@ The following table lists the forms that support the transfer or lend asset busi
 [Fixed asset records](fixed-asset-records.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

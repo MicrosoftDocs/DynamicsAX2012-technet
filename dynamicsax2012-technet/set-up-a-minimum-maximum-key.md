@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a minimum/maximum key
 TOCTitle: Set up a minimum/maximum key
 ms:assetid: d9f71886-d730-400f-9b64-847d7de7fe2c
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - minimum/maximum key
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a minimum/maximum key 
@@ -84,5 +86,5 @@ You want to set up a minimum key that accounts for increased seasonal demand dur
 [Minimum/maximum keys (form)](https://technet.microsoft.com/en-us/library/aa633906\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

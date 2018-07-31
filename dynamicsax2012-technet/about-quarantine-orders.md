@@ -1,4 +1,4 @@
-﻿---
+---
 title: About quarantine orders
 TOCTitle: About quarantine orders
 ms:assetid: 0f2731bc-a8e1-4406-84d0-9b387e2b06ce
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496417(v=AX.60)
 ms:contentKeyID: 44080945
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About quarantine orders 
@@ -74,5 +76,5 @@ When a quarantine order that was reported as finished is ended, the item is move
 [About inventory blocking](about-inventory-blocking.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

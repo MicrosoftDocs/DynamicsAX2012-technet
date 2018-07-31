@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manager security role (HcmManager)
 TOCTitle: Manager security role (HcmManager)
 ms:assetid: 7827677b-40c9-4cb2-bb1b-c4c70ca207fd
@@ -376,5 +376,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

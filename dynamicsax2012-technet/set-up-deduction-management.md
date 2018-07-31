@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up deduction management
 TOCTitle: Set up deduction management
 ms:assetid: dae57027-b5f6-467d-9850-0259d5abfcb0
@@ -19,6 +19,8 @@ f1_keywords:
 - rebates
 - deduction workbench
 - deductions workbench
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up deduction management 
@@ -123,5 +125,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Manage deductions in the deduction workbench](manage-deductions-in-the-deduction-workbench.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

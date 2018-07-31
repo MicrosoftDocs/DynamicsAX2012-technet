@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create an inventory transaction for storage debt
 TOCTitle: (RUS) Create an inventory transaction for storage debt
 ms:assetid: 47743a7a-ae81-4428-a0f4-9f531efa6960
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733214(v=AX.60)
 ms:contentKeyID: 49685182
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create an inventory transaction for storage debt 
@@ -50,5 +52,5 @@ Use the **Forming of storage debt** form to create inventory transactions for st
 [(RUS) Forming of storage debt (form)](https://technet.microsoft.com/en-us/library/jj733205\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

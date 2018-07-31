@@ -1,4 +1,4 @@
-﻿---
+---
 title: (FRA) Draw and print bills of exchange
 TOCTitle: (FRA) Draw and print bills of exchange
 ms:assetid: 5c06df45-d2ca-4740-b8a6-74e14869d44b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242502(v=AX.60)
 ms:contentKeyID: 36057566
 ms.date: 04/25/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: France
 ---
 
 # (FRA) Draw and print bills of exchange 
@@ -42,5 +44,5 @@ Depending on the method of payment that you selected for each journal line, one 
 [Generate payments - customer (class form)](https://technet.microsoft.com/en-us/library/aa554105\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

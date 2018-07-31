@@ -1,4 +1,4 @@
-﻿---
+---
 title: View and fix upgrade readiness issues
 TOCTitle: View and fix upgrade readiness issues
 ms:assetid: 67d602e1-7f0b-41f7-831a-5c6686bdd1b1
@@ -36,5 +36,5 @@ The **Upgrade validation results** form and the **Upgrade validation details** f
     If the **Fix** button is not available, you must either resolve the issue manually or write an upgrade script that resolves the issue. For information about scripts, see the white paper, [How to Write Data Upgrade Scripts for Microsoft Dynamics AX 2012](http://go.microsoft.com/fwlink/?linkid=212587%26clcid=0x409).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

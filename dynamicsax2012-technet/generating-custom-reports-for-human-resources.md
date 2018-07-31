@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generating custom reports for Human resources
 TOCTitle: Generating custom reports for Human resources
 ms:assetid: 7f05681c-cb75-4d7f-8f7d-37ac098e4890
@@ -19,6 +19,8 @@ f1_keywords:
 - custom reports HR
 - human resources report
 - human resources reports
+audience: Application User
+ms.search.region: Global
 ---
 
 # Generating custom reports for Human resources 
@@ -513,5 +515,5 @@ For more information about how to create custom reports from the data in a cube,
   - As you work with dimensions, sometimes you see an **IsNotApplicable** dimension attribute. This attribute is added to every dimension because one row always is retained for records that are not applicable. If a measure contains any values that are not in the dimension, the measure is designated as **IsNotApplicable**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

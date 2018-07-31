@@ -1,4 +1,4 @@
-﻿---
+---
 title: About refill pallet transports
 TOCTitle: About refill pallet transports
 ms:assetid: 6fd54cde-5896-417b-b33b-85f706330346
@@ -10,6 +10,8 @@ f1_keywords:
 - refill pallet transport
 - create a refill pallet transport
 - shipment reservation
+audience: Application User
+ms.search.region: Global
 ---
 
 # About refill pallet transports 
@@ -80,5 +82,5 @@ You specify the minimum quantity that is required for your picking location in t
 [About shipment reservations](about-shipment-reservations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

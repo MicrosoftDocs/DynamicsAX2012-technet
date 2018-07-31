@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change the project group
 TOCTitle: Change the project group
 ms:assetid: 268367e0-371d-498e-a015-2b7ca69326df
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - estimate project
 - project group
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change the project group 
@@ -75,5 +77,5 @@ You can change the project group of a project or an estimate project. You can ma
 [Create a project group](create-a-project-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's New: Payment services for Microsoft Dynamics ERP - payment gateway"
 TOCTitle: Payment services for Microsoft Dynamics ERP - payment gateway
 ms:assetid: 99d40512-b856-4843-aaa4-becc66326d21
@@ -90,5 +90,5 @@ AX 2012 has changes that support integration with Payment Services.
 For more information, see [Configuring customer payments](configuring-customer-payments.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

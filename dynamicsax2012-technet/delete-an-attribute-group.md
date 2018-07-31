@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delete an attribute group
 TOCTitle: Delete an attribute group
 ms:assetid: cf02ab59-b282-458f-97c3-2030111ae41a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597246(v=AX.60)
 ms:contentKeyID: 39519324
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Delete an attribute group 
@@ -30,5 +32,5 @@ You can use attribute groups in product configuration models to specify the arra
 [About product configuration models](about-product-configuration-models.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About transfer orders
 TOCTitle: About transfer orders
 ms:assetid: 74a3291d-fc11-42a7-ae98-ece4ce8de00f
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - transfer orders
 - manage transfer orders
+audience: Application User
+ms.search.region: Global
 ---
 
 # About transfer orders 
@@ -59,5 +61,5 @@ For more information, see [Configure and manage financial dimension links to sit
 [Set up delivery date control](set-up-delivery-date-control.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

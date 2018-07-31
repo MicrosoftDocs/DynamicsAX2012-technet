@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up dimensions display
 TOCTitle: Set up dimensions display
 ms:assetid: 4054ec21-618f-4867-88ea-912532f45e74
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - dimensions display
 - inventory dimensions
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up dimensions display 
@@ -35,5 +37,5 @@ You can set up the dimensions display from various forms. The information contai
 [About inventory dimensions and dimension groups](about-inventory-dimensions-and-dimension-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up payment card types and card numbers (Retail essentials)
 TOCTitle: Set up payment card types and card numbers (Retail essentials)
 ms:assetid: 368d3684-0659-40ec-b556-2c5eb3fb6c64
@@ -64,5 +64,5 @@ You set up the length and range of card numbers that are acceptable for each car
 [Setting up payment methods (Retail essentials)](setting-up-payment-methods-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

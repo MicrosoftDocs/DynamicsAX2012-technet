@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up workers (Retail essentials)
 TOCTitle: Set up workers (Retail essentials)
 ms:assetid: 791a7d96-8406-4214-a1d5-5e0bcf478da4
@@ -48,5 +48,5 @@ Before you can set up workers, you must create the permission groups that you wi
 9.  Enter any other appropriate information in the **Profile**, **Employment**, and **Retail** sections.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

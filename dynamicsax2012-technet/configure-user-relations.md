@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure user relations
 TOCTitle: Configure user relations
 ms:assetid: 5c6ace7f-858d-4d84-9aec-a1d29d480893
@@ -110,5 +110,5 @@ If both vendor records already are located in the global address book, you can c
 [Enterprise Portal and Role Centers security and protection](enterprise-portal-and-role-centers-security-and-protection.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

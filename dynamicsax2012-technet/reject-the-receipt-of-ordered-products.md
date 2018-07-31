@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reject the receipt of ordered products
 TOCTitle: Reject the receipt of ordered products
 ms:assetid: 8b285ee4-4ba6-4b4b-ac47-0786589cb9c0
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPPurchCORList
 - EPPurchCORReject
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reject the receipt of ordered products 
@@ -45,5 +47,5 @@ On Enterprise Portal for Microsoft Dynamics AX, you can reject the receipt of or
 [About confirmation of product receipts](about-confirmation-of-product-receipts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

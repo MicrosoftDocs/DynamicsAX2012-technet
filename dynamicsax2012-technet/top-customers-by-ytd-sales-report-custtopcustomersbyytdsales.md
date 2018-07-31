@@ -1,4 +1,4 @@
-﻿---
+---
 title: Top customers by YTD sales report (CustTopCustomersbyYTDSales)
 TOCTitle: Top customers by YTD sales report (CustTopCustomersbyYTDSales)
 ms:assetid: 49c47bb1-e14a-413a-81a2-692543c01140
@@ -110,5 +110,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

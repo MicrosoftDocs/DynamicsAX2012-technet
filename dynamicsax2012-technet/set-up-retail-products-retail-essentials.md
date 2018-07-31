@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up retail products (Retail essentials)
 TOCTitle: Set up retail products (Retail essentials)
 ms:assetid: 21187749-cd62-4f3f-9f62-88155e4214ba
@@ -59,5 +59,5 @@ A product must be defined at the shared company level before the product can be 
 [Setting up retail products (Retail essentials)](setting-up-retail-products-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

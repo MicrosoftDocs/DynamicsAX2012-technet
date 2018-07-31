@@ -1,4 +1,4 @@
-﻿---
+---
 title: Check prerequisites
 TOCTitle: Check prerequisites
 ms:assetid: a1ae0f82-c843-491b-8367-19de11f59fc5
@@ -101,5 +101,5 @@ Use the following procedure to run the prerequisite validation utility.
 [Troubleshoot prerequisite issues](troubleshoot-prerequisite-issues.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

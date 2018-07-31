@@ -1,4 +1,4 @@
-﻿---
+---
 title: Common page elements
 TOCTitle: Common page elements
 ms:assetid: 2fc25a50-fed4-4a15-8d81-c179537b03ca
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208546(v=AX.60)
 ms:contentKeyID: 36056301
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Common page elements 
@@ -145,5 +147,5 @@ The workflow message bar displays the workflow actions that are required or avai
 [About Role Center page components](about-role-center-page-components.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

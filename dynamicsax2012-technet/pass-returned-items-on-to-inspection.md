@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pass returned items on to inspection
 TOCTitle: Pass returned items on to inspection
 ms:assetid: 66b722ce-d5a4-4cef-8bcb-3aebfff1afa3
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231561(v=AX.60)
 ms:contentKeyID: 36057754
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Pass returned items on to inspection 
@@ -48,5 +50,5 @@ This will prompt the system to create a quarantine order, and the person or depa
 [Authorize customer returns](authorize-customer-returns.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

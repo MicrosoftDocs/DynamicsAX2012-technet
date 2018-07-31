@@ -1,4 +1,4 @@
-﻿---
+---
 title: About retail hierarchies (Retail essentials)
 TOCTitle: About retail hierarchies (Retail essentials)
 ms:assetid: 47495282-643a-434a-8469-0096a5714373
@@ -58,5 +58,5 @@ Retail category hierarchies use the category hierarchy features in Microsoft Dyn
 [Set up a retail product hierarchy (Retail essentials)](set-up-a-retail-product-hierarchy-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

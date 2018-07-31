@@ -1,4 +1,4 @@
-﻿---
+---
 title: General ledger roadmap
 TOCTitle: General ledger roadmap
 ms:assetid: 7d832e8d-954b-4f14-807d-932f9d5c603b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - General ledger roadmap
 - GL roadmap
+audience: Application User
+ms.search.region: Global
 ---
 
 # General ledger roadmap 
@@ -426,16 +428,5 @@ General ledger can be integrated with the following modules and Microsoft produc
 
 Back to top
 
-## Still didn’t find what you were looking for?
 
-Here are some related search results on WebSearchAX that might help. You can search for other information by entering words or phrases in the **Search for Help** text box on the [WebSearchAX](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?orgi=parentdir%26savn=show%26bngm=bingapi) site.
-
-  - [Search results for “General ledger”](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=general+ledger%26savn=hide%26orgi=wsc1%26bngi=t)
-
-  - [Search results for "Chart of accounts"](http://www.microsoft.com/dynamics/ax/websearch/websearchax.htm?trme=chart+of+accounts%26savn=hide%26orgi=wsc1%26bngi=t)
-
-Back to top
-
-  
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
 

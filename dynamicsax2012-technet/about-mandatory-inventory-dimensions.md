@@ -1,4 +1,4 @@
-﻿---
+---
 title: About mandatory inventory dimensions
 TOCTitle: About mandatory inventory dimensions
 ms:assetid: 4fd54dc6-bf0f-4282-bebc-96b1519657f3
@@ -10,6 +10,8 @@ f1_keywords:
 - mandatory dimension
 - mandatory storage and tracking dimension
 - set dimensions to mandatory
+audience: Application User
+ms.search.region: Global
 ---
 
 # About mandatory inventory dimensions 
@@ -68,5 +70,5 @@ When you set an inventory dimension to mandatory, the following configuration va
 [About inventory dimensions and dimension groups](about-inventory-dimensions-and-dimension-groups.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: About alert email messages
 TOCTitle: About alert email messages
 ms:assetid: 14263ace-e94e-422b-af15-7447b55767d0
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834334(v=AX.60)
 ms:contentKeyID: 46687532
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About alert email messages 
@@ -62,5 +64,5 @@ When you receive an email alert, you can drill down to the rule and to the busin
 [Set up alert email templates in HTML](set-up-alert-email-templates-in-html.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

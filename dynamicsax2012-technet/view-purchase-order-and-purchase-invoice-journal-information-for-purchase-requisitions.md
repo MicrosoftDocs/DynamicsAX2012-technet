@@ -1,4 +1,4 @@
-﻿---
+---
 title: View purchase order and purchase invoice journal information for purchase requisitions
 TOCTitle: View purchase order and purchase invoice journal information for purchase requisitions
 ms:assetid: 91cf879c-fadf-4deb-b046-ecd4f2e849af
@@ -10,6 +10,8 @@ f1_keywords:
 - approved purchase requisitions
 - invoice journal
 - purchase order confirmation
+audience: Application User
+ms.search.region: Global
 ---
 
 # View purchase order and purchase invoice journal information for purchase requisitions 
@@ -48,5 +50,5 @@ Use this procedure to view information about purchase orders and invoices that w
 [Vendor invoice journal (form)](https://technet.microsoft.com/en-us/library/aa587621\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

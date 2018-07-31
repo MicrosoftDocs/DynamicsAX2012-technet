@@ -1,4 +1,4 @@
-﻿---
+---
 title: Channel databases and offline databases for Retail
 TOCTitle: Channel databases and offline databases for Retail
 ms:assetid: fdc21b0b-5587-41a4-8418-d10f9b5ab6ba
@@ -40,5 +40,5 @@ The following topics describe how to set up channel databases and offline databa
 [Set up offline profiles](set-up-offline-profiles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

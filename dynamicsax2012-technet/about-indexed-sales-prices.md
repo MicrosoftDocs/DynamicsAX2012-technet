@@ -1,4 +1,4 @@
-﻿---
+---
 title: About indexed sales prices
 TOCTitle: About indexed sales prices
 ms:assetid: 61292041-bf64-4df6-86a5-8dbacbe47ea9
@@ -11,6 +11,8 @@ f1_keywords:
 - indexing
 - pricing
 - sales prices
+audience: Application User
+ms.search.region: Global
 ---
 
 # About indexed sales prices 
@@ -29,5 +31,5 @@ For example, if the base price is EUR 1,000, and the index is 110, the sales pri
 [Create subscription fee transactions](create-subscription-fee-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

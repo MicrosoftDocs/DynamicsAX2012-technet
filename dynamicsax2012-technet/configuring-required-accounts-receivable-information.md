@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configuring required Accounts receivable information
 TOCTitle: Configuring required Accounts receivable information
 ms:assetid: 07aebba1-f82d-4b47-9db3-0b9b4cbf1f85
@@ -18,6 +18,8 @@ f1_keywords:
 - receivables
 - settlement
 - settlements
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configuring required Accounts receivable information 
@@ -34,5 +36,5 @@ The following topics provide information about configuring required Accounts rec
 [Prioritize automatic settlements](prioritize-automatic-settlements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

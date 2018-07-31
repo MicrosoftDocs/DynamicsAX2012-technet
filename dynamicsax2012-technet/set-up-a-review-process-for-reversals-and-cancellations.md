@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a review process for reversals and cancellations
 TOCTitle: Set up a review process for reversals and cancellations
 ms:assetid: b18358cd-b48b-48ab-b8cd-2d97a741963d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232393(v=AX.60)
 ms:contentKeyID: 36058979
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a review process for reversals and cancellations 
@@ -58,5 +60,5 @@ You can also set up alerts, so that reviewers are notified when records are read
 [Payment reversals (form)](https://technet.microsoft.com/en-us/library/hh208702\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

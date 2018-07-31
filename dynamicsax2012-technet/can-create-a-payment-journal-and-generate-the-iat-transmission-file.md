@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CAN) Create a payment journal and generate the IAT transmission file
 TOCTitle: (CAN) Create a payment journal and generate the IAT transmission file
 ms:assetid: 5f87dd16-e48c-4f49-9835-2fb3bcd4a967
@@ -10,6 +10,8 @@ f1_keywords:
 - Canada
 - payment journal
 - IAT transmission file
+audience: Application User
+ms.search.region: Canada
 ---
 
 # (CAN) Create a payment journal and generate the IAT transmission file 
@@ -54,5 +56,5 @@ To generate an RBC transmission file, first create a payment journal for a custo
 [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

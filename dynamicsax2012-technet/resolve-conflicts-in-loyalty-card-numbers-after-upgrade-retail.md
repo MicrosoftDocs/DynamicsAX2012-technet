@@ -1,4 +1,4 @@
-﻿---
+---
 title: Resolve conflicts in loyalty card numbers after upgrade (Retail)
 TOCTitle: Resolve conflicts in loyalty card numbers after upgrade (Retail)
 ms:assetid: ec4eb0cc-062c-475b-b9c2-ae46efbfa373
@@ -39,5 +39,5 @@ After the upgrade process is completed, you must manually resolve conflicts in l
 Loyalty card and transaction data is migrated from the **RetailLoyaltyMSRCardTable** to the **RetailLoyaltyCard** table. For loyalty cards that have conflicts, after you resolve the conflicts and click the **Migrate** button, the loyalty card data is migrated from the **RetailLoyaltyConflictCard** table to the **RetailLoyaltyCard** table. Loyalty card transactions are migrated from the **RetailLoyaltyConflictCardPointTrans** table to the **RetailLoyaltyCardRewardPointTrans** table.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

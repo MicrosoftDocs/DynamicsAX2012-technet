@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a register for outlays - unrealized
 TOCTitle: (RUS) Set up a register for outlays - unrealized
 ms:assetid: 96a00073-b7a3-46db-99bf-ada834969989
@@ -10,6 +10,8 @@ f1_keywords:
 - outlays
 - set up a register
 - unrealized outlays
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a register for outlays - unrealized 
@@ -70,5 +72,5 @@ The **Outlays - Unrealized** register is used to calculate unrealized expenses t
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

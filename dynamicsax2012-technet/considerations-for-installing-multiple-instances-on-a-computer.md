@@ -1,4 +1,4 @@
-﻿---
+---
 title: Considerations for installing multiple instances on a computer
 TOCTitle: Considerations for installing multiple instances on a computer
 ms:assetid: a568fd5e-1f2d-4d58-932d-3ac6f5c1e851
@@ -67,5 +67,5 @@ The following table lists the considerations when you install a second instance 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

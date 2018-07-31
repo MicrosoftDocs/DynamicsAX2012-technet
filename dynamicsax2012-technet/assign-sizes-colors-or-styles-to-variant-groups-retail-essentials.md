@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign sizes, colors, or styles to variant groups (Retail essentials)
 TOCTitle: Assign sizes, colors, or styles to variant groups (Retail essentials)
 ms:assetid: ed117685-0507-4477-88c3-884d8cad5f2e
@@ -68,5 +68,5 @@ This topic explains how to set up variant groups for sizes, colors, and styles, 
 [Set up sizes, colors, and styles (Retail essentials)](set-up-sizes-colors-and-styles-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

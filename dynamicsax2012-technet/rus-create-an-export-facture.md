@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create an export facture
 TOCTitle: (RUS) Create an export facture
 ms:assetid: ad86c2f1-4cca-4436-ac12-271abe7eb375
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - VAT
 - export facture
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create an export facture 
@@ -97,5 +99,5 @@ A facture is considered to be an export facture if it contains invoices that hav
 [(RUS) Update facture (form)](https://technet.microsoft.com/en-us/library/jj889412\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

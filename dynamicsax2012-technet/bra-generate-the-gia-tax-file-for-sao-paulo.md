@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Generate the GIA tax file for São Paulo
 TOCTitle: (BRA) Generate the GIA tax file for São Paulo
 ms:assetid: 4ce20904-caea-4be3-8eed-9116df7826ce
@@ -44,5 +44,5 @@ To generate the GIA text file for São Paulo, follow these steps:
 [(BRA) Set up parameters for GIA tax statements](bra-set-up-parameters-for-gia-tax-statements.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

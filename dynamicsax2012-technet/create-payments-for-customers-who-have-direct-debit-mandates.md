@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create payments for customers who have direct debit mandates
 TOCTitle: Create payments for customers who have direct debit mandates
 ms:assetid: 1a955849-0c18-4272-89e4-1ded346e1e33
@@ -29,6 +29,8 @@ f1_keywords:
 - MsDynAx060.Forms.LedgerJournalTransCustPaym
 - MsDynAx060.Forms.CustTableListPage
 - MsDynAx060.Forms.CustVendPaymentProcessingData
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create payments for customers who have direct debit mandates 
@@ -187,5 +189,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [SEPA direct debit overview](sepa-direct-debit-overview.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

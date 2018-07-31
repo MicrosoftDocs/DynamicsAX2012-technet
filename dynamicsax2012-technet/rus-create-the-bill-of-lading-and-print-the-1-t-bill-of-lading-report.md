@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create the bill of lading and print the 1-T bill of lading report
 TOCTitle: (RUS) Create the bill of lading and print the 1-T bill of lading report
 ms:assetid: ca3c2811-8964-4c09-b33c-03d68ee71bdb
@@ -11,6 +11,8 @@ f1_keywords:
 - RUS
 - lading
 - 1-T
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create the bill of lading and print the 1-T bill of lading report 
@@ -71,5 +73,5 @@ You can generate the 1-T bill of lading report from a sales order along with a T
 [(RUS) Customer invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj711658\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

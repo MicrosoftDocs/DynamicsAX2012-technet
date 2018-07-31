@@ -1,4 +1,4 @@
-﻿---
+---
 title: I-9 inspection list report (Hcmi9InspectionList)
 TOCTitle: I-9 inspection list report (Hcmi9InspectionList)
 ms:assetid: 99d467ab-8723-4bfa-b14c-7d24972a659c
@@ -92,5 +92,5 @@ If you are a developer, you can learn more about where the data on a report come
 [About Form I-9 verification](about-form-i-9-verification.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: View the status and history of a document
 TOCTitle: View the status and history of a document
 ms:assetid: 216cfcd5-8606-4826-bb65-8dceceab3cbf
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309621(v=AX.60)
 ms:contentKeyID: 39508860
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # View the status and history of a document 
@@ -42,5 +44,5 @@ Follow these steps to view the status and history of a workflow instance.
       - **Tracking details** – This tab displays the history of the workflow instance.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

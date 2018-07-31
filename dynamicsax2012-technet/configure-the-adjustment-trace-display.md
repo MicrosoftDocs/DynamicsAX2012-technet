@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure the adjustment trace display
 TOCTitle: Configure the adjustment trace display
 ms:assetid: b6b5a2c1-bbaf-418f-8b78-5728d236db57
@@ -11,6 +11,8 @@ f1_keywords:
 - adjustment transaction
 - Adjustment trace
 - adjustment tree
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure the adjustment trace display 
@@ -47,5 +49,5 @@ Use the **Adjustment tree setup** form to select the fields that you want to be 
 [On-account transactions (form)](https://technet.microsoft.com/en-us/library/aa557380\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sales orders overview
 TOCTitle: Sales orders overview
 ms:assetid: ed199d93-bc2b-4dd9-b64a-3e96c109d245
@@ -10,6 +10,8 @@ f1_keywords:
 - sales orders
 - overview
 - sales order
+audience: Application User
+ms.search.region: Global
 ---
 
 # Sales orders overview 
@@ -50,5 +52,5 @@ The topics in this section provide information about sales orders.
 [About registering serial numbers in the sales process](about-registering-serial-numbers-in-the-sales-process.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

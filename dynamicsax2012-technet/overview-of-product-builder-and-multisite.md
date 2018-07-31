@@ -1,4 +1,4 @@
-﻿---
+---
 title: Overview of Product Builder and multisite
 TOCTitle: Overview of Product Builder and multisite
 ms:assetid: ff4a9c8c-3617-4194-bdd6-0308b2425562
@@ -10,6 +10,8 @@ f1_keywords:
 - product builder
 - multisite
 - product model
+audience: Application User
+ms.search.region: Global
 ---
 
 # Overview of Product Builder and multisite 
@@ -132,5 +134,5 @@ As the items are configured during the sales process, custom BOMs and routes are
 [Order settings (form)](https://technet.microsoft.com/en-us/library/hh209541\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

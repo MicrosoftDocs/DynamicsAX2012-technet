@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up a unit sequence group and unit of measure conversions in Warehouse management
 TOCTitle: Set up a unit sequence group and unit of measure conversions in Warehouse management
 ms:assetid: ae12b249-8eb6-48bd-acd6-193d8cd43f5d
@@ -12,6 +12,8 @@ f1_keywords:
 - unit of measure sequences
 - unit sequence group
 - unit sequence groups
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up a unit sequence group and unit of measure conversions in Warehouse management 
@@ -345,5 +347,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Unit conversions](unit-conversions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

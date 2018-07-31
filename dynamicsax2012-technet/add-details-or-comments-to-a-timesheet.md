@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add details or comments to a timesheet
 TOCTitle: Add details or comments to a timesheet
 ms:assetid: 5fc0b5cb-ba6a-4f46-8212-292b130018b1
@@ -8,6 +8,8 @@ ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
 - TSTimesheetEntryComments
+audience: Application User
+ms.search.region: Global
 ---
 
 # Add details or comments to a timesheet 
@@ -66,5 +68,5 @@ Use the **Timesheet line details** form to add details for lines that are entere
 [Modify or delete a timesheet](modify-or-delete-a-timesheet-in-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

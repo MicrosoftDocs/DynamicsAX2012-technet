@@ -1,4 +1,4 @@
-﻿---
+---
 title: About changing the project group
 TOCTitle: About changing the project group
 ms:assetid: 4c4dbabf-0f30-4e7d-86aa-ae8b17a84591
@@ -10,6 +10,8 @@ f1_keywords:
 - estimate project
 - project group
 - project type
+audience: Application User
+ms.search.region: Global
 ---
 
 # About changing the project group 
@@ -298,7 +300,7 @@ In these tables, the first column indicates the type of transaction and other cr
 <tbody>
 <tr class="odd">
 <td><p>On-account</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If deduction transactions are associated with the on-account transaction, the project group cannot be changed.</P>
@@ -314,7 +316,7 @@ In these tables, the first column indicates the type of transaction and other cr
 </tr>
 <tr class="even">
 <td><p>On-account</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>If deduction transactions are associated with the on-account transaction, the project group cannot be changed.</P>
@@ -380,5 +382,5 @@ In these tables, the first column indicates the type of transaction and other cr
 [Change the project group](change-the-project-group.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

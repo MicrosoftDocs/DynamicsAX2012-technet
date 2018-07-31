@@ -1,4 +1,4 @@
-﻿---
+---
 title: View call lists
 TOCTitle: View call lists
 ms:assetid: 943c7b4f-5f46-4f24-b799-99c16487c202
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - smmCallList
 - smmCallListInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # View call lists 
@@ -33,5 +35,5 @@ You can use the **Call list** page to view a list of call lists, and you can als
 [View campaigns](view-campaigns.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

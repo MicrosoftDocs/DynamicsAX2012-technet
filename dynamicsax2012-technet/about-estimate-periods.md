@@ -1,4 +1,4 @@
-﻿---
+---
 title: About estimate periods
 TOCTitle: About estimate periods
 ms:assetid: 8b45e8fc-85d8-4359-b073-7b5f62b35ded
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - cost template
 - estimate period
+audience: Application User
+ms.search.region: Global
 ---
 
 # About estimate periods 
@@ -33,5 +35,5 @@ For information about how to create an estimate project, see [Create an estimate
 [Period types (form)](https://technet.microsoft.com/en-us/library/aa586707\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

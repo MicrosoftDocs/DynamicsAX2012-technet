@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Working with General ledger
 TOCTitle: (BRA) Working with General ledger
 ms:assetid: 1197e8e2-79a2-49b5-b910-b98ce90de6f0
@@ -11,6 +11,8 @@ f1_keywords:
 - BRA
 - Brazil
 - working with general ledger
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Working with General ledger 
@@ -25,5 +27,5 @@ This section provides information about working with the General ledger business
 [(BRA) Transferring transactions to a consolidated legal entity](bra-transferring-transactions-to-a-consolidated-legal-entity.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

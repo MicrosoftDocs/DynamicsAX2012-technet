@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage and collect overdue customer payments
 TOCTitle: Manage and collect overdue customer payments
 ms:assetid: 109b15a4-0c6d-4c15-9c29-ec167c75efc3
@@ -29,6 +29,8 @@ f1_keywords:
 - fees
 - overdue
 - snapshots
+audience: Application User
+ms.search.region: Global
 ---
 
 # Manage and collect overdue customer payments 
@@ -59,5 +61,5 @@ The following topics provide information about managing and collecting overdue c
 [(NOR) Generate an EHF electronic document for a collection letter](nor-generate-an-ehf-electronic-document-for-a-collection-letter.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

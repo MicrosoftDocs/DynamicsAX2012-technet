@@ -1,4 +1,4 @@
-﻿---
+---
 title: Call center configuration key (MCRCallCenter)
 TOCTitle: Call center configuration key (MCRCallCenter)
 ms:assetid: d408ab14-95ad-4da1-9e4c-e08a13be245c
@@ -217,7 +217,7 @@ The following table provides information about how this configuration key relate
 <p><a href="order-status-notification-configuration-key-mcrorderstatusnotification.md">Order status notification configuration key (MCROrderStatusNotification)</a></p>
 <p><a href="payment-configuration-key-mcrpayment.md">Payment configuration key (MCRPayment)</a></p>
 <p><a href="source-code-configuration-key-mcrsourcecode.md">Source code configuration key (MCRSourceCode)</a></p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>The configuration keys listed here may have additional child configuration keys. Click the link for more information about a configuration key.</P>
@@ -236,5 +236,5 @@ For more information about how license codes and configuration keys work togethe
 [Call center](call-center.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

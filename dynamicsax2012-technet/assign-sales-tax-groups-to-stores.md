@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign sales tax groups to stores
 TOCTitle: Assign sales tax groups to stores
 ms:assetid: f81109ec-f598-4efc-94f7-6f4ae47aec87
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597295(v=AX.60)
 ms:contentKeyID: 39519380
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign sales tax groups to stores 
@@ -26,5 +28,5 @@ A sales tax group is required for each store.
 [About setting up taxes](about-setting-up-taxes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

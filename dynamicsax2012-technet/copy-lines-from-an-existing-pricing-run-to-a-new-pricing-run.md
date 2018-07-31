@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy lines from an existing pricing run to a new pricing run
 TOCTitle: Copy lines from an existing pricing run to a new pricing run
 ms:assetid: 71dda1fc-a001-4379-ac38-feafe568982d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242651(v=AX.60)
 ms:contentKeyID: 36058072
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy lines from an existing pricing run to a new pricing run 
@@ -40,5 +42,5 @@ When you create a new commodity pricing calculation, you can use the **Copy** fu
 [Copy pricing calculation (form)](https://technet.microsoft.com/en-us/library/hh209501\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

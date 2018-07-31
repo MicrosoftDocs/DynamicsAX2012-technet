@@ -1,4 +1,4 @@
-﻿---
+---
 title: Imported vendor catalogs overview
 TOCTitle: Imported vendor catalogs overview
 ms:assetid: 28a7181b-1cfa-4f15-85a4-0ec3118ded8b
@@ -14,6 +14,8 @@ f1_keywords:
 - vendor catalog
 - imported vendor
 - imported vendors
+audience: Application User
+ms.search.region: Global
 ---
 
 # Imported vendor catalogs overview 
@@ -134,5 +136,5 @@ For information about how to review, approve, or reject products in a vendor cat
 [Validate and approve imported catalogs](validate-and-approve-imported-catalogs.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

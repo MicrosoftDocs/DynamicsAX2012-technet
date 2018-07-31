@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up profile calendars for time and attendance registrations
 TOCTitle: Setting up profile calendars for time and attendance registrations
 ms:assetid: a3dd2259-2c34-4126-8e39-4a690f62f2d1
@@ -12,6 +12,8 @@ f1_keywords:
 - profile
 - calendar
 - worker
+audience: Application User
+ms.search.region: Global
 ---
 
 # Setting up profile calendars for time and attendance registrations 
@@ -28,5 +30,5 @@ The following topics provide information about the profile calendar and how to h
 [Set up exceptions for profile calendars](set-up-exceptions-for-profile-calendars.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

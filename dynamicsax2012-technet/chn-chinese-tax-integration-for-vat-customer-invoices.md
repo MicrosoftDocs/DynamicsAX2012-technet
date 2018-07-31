@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Chinese tax integration for VAT customer invoices
 TOCTitle: (CHN) Chinese tax integration for VAT customer invoices
 ms:assetid: 643a344c-513b-4928-8058-f554eaacdbc4
@@ -13,6 +13,8 @@ f1_keywords:
 - Golden tax system
 - tax integration
 - VAT customer invoices
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Chinese tax integration for VAT customer invoices 
@@ -93,5 +95,5 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 [(CHN) Split or combine VAT customer invoices](chn-split-or-combine-vat-customer-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

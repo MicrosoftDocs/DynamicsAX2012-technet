@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create, update, or view a contact information record
 TOCTitle: Create, update, or view a contact information record
 ms:assetid: d613d017-ee4a-4839-91dc-fc54d38a5592
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - LogisticsManageContactInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create, update, or view a contact information record 
@@ -62,5 +64,5 @@ You can also add contact information records for workers. In the **Employee serv
 3.  To view additional information in the record, click **Details**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

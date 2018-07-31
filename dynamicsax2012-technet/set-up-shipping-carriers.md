@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up shipping carriers
 TOCTitle: Set up shipping carriers
 ms:assetid: d1c7a21c-04f9-4a9b-b72d-a2936f1da903
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213688(v=AX.60)
 ms:contentKeyID: 36059502
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up shipping carriers 
@@ -196,5 +198,5 @@ When you have completed the other setup tasks, activate the shipping carrier int
 [Terms of delivery (form)](https://technet.microsoft.com/en-us/library/aa575567\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

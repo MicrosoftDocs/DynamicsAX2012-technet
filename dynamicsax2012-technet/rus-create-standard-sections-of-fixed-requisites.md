@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Create standard sections of fixed requisites
 TOCTitle: (RUS) Create standard sections of fixed requisites
 ms:assetid: 27701d28-9b1b-4839-a242-b42b36094a0e
@@ -11,6 +11,8 @@ f1_keywords:
 - templates
 - create section
 - standard section
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Create standard sections of fixed requisites 
@@ -37,5 +39,5 @@ Standard sections contain a set of fixed requisites that are used to set up seve
 [(RUS) Set up a fixed requisite](rus-set-up-a-fixed-requisite.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Data Migration for Microsoft Dynamics AX 2012 (White paper)
 TOCTitle: Data Migration for Microsoft Dynamics AX 2012
 ms:assetid: 1160628e-52af-4a39-bd71-f0fbfd6c8539
@@ -18,5 +18,5 @@ Microsoft Dynamics AX 2012 includes various ways to import data into the system.
 This white paper has been retired. Instead, please refer to [Plan data import, export, and migration](plan-data-import-export-and-migration.md).
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Convert party types
 TOCTitle: Convert party types
 ms:assetid: 56041df2-c9a2-40fe-b95c-0effb40718fd
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208963(v=AX.60)
 ms:contentKeyID: 36057319
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Convert party types 
@@ -42,5 +44,5 @@ This procedure can also be used for customer and vendor records.
 9.  Click **Home** \> **Common** \> **Global address book**. On the **Global address book** list page, select and delete the organization type party record from which you just dissociated the prospect record.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up fiscal document types
 TOCTitle: (BRA) Set up fiscal document types
 ms:assetid: 341783fd-f258-429c-a3e4-61f72b24cae9
@@ -11,6 +11,8 @@ f1_keywords:
 - brazil
 - fiscal document types
 - fiscal documents
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up fiscal document types 
@@ -103,5 +105,5 @@ You can create fiscal document types that can be used in sales and purchase tran
 [(BRA) Assign fiscal document types for customers or vendors](bra-assign-fiscal-document-types-for-customers-or-vendors.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

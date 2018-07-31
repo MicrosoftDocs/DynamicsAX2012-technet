@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Export VAT customer invoices or import invoice reference numbers
 TOCTitle: (CHN) Export VAT customer invoices or import invoice reference numbers
 ms:assetid: 826294d5-b102-4e51-9af2-608fd53b221e
@@ -17,6 +17,8 @@ f1_keywords:
 - reference numbers
 - VAT customer invoices
 - MsDynAx060.Forms.TaxIntgrExportDocument_CN
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Export VAT customer invoices or import invoice reference numbers 
@@ -137,5 +139,5 @@ To import VAT customer invoice reference numbers, follow these steps:
 [(CHN) Chinese tax integration for VAT customer invoices](chn-chinese-tax-integration-for-vat-customer-invoices.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

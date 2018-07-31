@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Set up a depreciation register for intangible assets
 TOCTitle: (RUS) Set up a depreciation register for intangible assets
 ms:assetid: 7f2d4731-c5f4-4b10-afa4-08f08c5c3153
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678403(v=AX.60)
 ms:contentKeyID: 49387633
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Set up a depreciation register for intangible assets 
@@ -60,5 +62,5 @@ The intangible asset depreciation register contains information about depreciabl
 [(RUS) Calculate the intangible asset depreciation register](rus-calculate-the-intangible-asset-depreciation-register.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

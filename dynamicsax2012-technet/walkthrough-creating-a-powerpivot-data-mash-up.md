@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Walkthrough: Creating a PowerPivot Data Mash-up'
 TOCTitle: 'Walkthrough: Creating a PowerPivot Data Mash-up'
 ms:assetid: 5dccd8a9-f734-410c-83d1-19850200339f
@@ -180,5 +180,5 @@ After you complete this walkthrough, you can upload a PowerPivot model (your Exc
 [OData Query Service](http://blogs.msdn.com/b/aif/archive/2011/08/23/odata-query-service.aspx)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

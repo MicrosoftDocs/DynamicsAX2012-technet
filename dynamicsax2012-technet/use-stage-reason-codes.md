@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use stage reason codes
 TOCTitle: Use stage reason codes
 ms:assetid: bb4cc6a7-9187-4258-b516-09d6a9b43f9d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213593(v=AX.60)
 ms:contentKeyID: 37832529
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Use stage reason codes 
@@ -54,5 +56,5 @@ If you have specified that a reason code is required, you must enter a reason co
 [Start and stop time recording on a service order](start-and-stop-time-recording-on-a-service-order.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

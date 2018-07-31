@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create journal descriptions
 TOCTitle: Create journal descriptions
 ms:assetid: 05447d78-6352-4dff-9bc1-c5c8859615d0
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - journal text
 - transaction text
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create journal descriptions 
@@ -29,5 +31,5 @@ You can create journal descriptions to use in hour and fee journals. A journal d
 [Enter a journal description in hour and fee journals](enter-a-journal-description-in-hour-and-fee-journals.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

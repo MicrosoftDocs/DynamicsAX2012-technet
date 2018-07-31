@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cases
 TOCTitle: Cases
 ms:assetid: fd3d83f3-1dd6-48de-af02-96de076b0a1b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227582(v=AX.60)
 ms:contentKeyID: 36060106
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Cases 
@@ -40,5 +42,5 @@ The topics in this section provide information about setting up and using case m
 [Create a product change case](create-a-product-change-case.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Create invoices
 TOCTitle: (LTU) Create invoices
 ms:assetid: fc2ab597-18d9-4c38-9683-dbd05f85a3d8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678107(v=AX.60)
 ms:contentKeyID: 49386831
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Create invoices 
@@ -36,5 +38,5 @@ The following topics provide information about creating invoices.
 [(LTU) Key tasks: Generate an invoice register in electronic format](ltu-key-tasks-generate-an-invoice-register-in-electronic-format.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up aging period definitions
 TOCTitle: Set up aging period definitions
 ms:assetid: 990bf1fb-d845-45c6-b9bf-377fab250ca6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209419(v=AX.60)
 ms:contentKeyID: 36058685
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up aging period definitions 
@@ -36,5 +38,5 @@ In Accounts receivable, aging period definitions are also used to define custome
 [Set up collections](set-up-collections.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trace an item or raw material in inventory, production, and sales
 TOCTitle: Trace an item or raw material in inventory, production, and sales
 ms:assetid: 4b75fcbe-7b63-4c44-b6fd-2ae2a936a962
@@ -13,6 +13,8 @@ f1_keywords:
 - track
 - Forms.InventTrackingDimTracing
 - MsDynAx060.Forms.InventTrackingDimTracing
+audience: Application User
+ms.search.region: Global
 ---
 
 # Trace an item or raw material in inventory, production, and sales 
@@ -187,5 +189,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [About tracing items and raw materials in inventory, production, and sales](about-tracing-items-and-raw-materials-in-inventory-production-and-sales.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

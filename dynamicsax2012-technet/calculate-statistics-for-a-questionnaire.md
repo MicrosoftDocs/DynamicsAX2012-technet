@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calculate statistics for a questionnaire
 TOCTitle: Calculate statistics for a questionnaire
 ms:assetid: c0d42175-866a-40f7-93c1-1d451e6ccc1b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550673(v=AX.60)
 ms:contentKeyID: 41702388
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Calculate statistics for a questionnaire 
@@ -48,5 +50,5 @@ The following links provide a logical progression to follow in the sequence. Dep
 [About answer session results](about-answer-session-results.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

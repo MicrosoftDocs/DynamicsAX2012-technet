@@ -1,4 +1,4 @@
-﻿---
+---
 title: Change delivery date for the receipt of products
 TOCTitle: Change delivery date for the receipt of products
 ms:assetid: ea52cf48-053a-4eda-9365-0eeecdd9cf5a
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPPurchCORList
 - EPPurchCORChangeDelivery
+audience: Application User
+ms.search.region: Global
 ---
 
 # Change delivery date for the receipt of products 
@@ -37,5 +39,5 @@ On Enterprise Portal for Microsoft Dynamics AX, you can change the scheduled del
 [About confirmation of product receipts](about-confirmation-of-product-receipts.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

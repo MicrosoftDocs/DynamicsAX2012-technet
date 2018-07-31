@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assign sequence values to an item
 TOCTitle: Assign sequence values to an item
 ms:assetid: e8dcb2e7-a64c-4522-af18-1845f15b4cf9
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838752(v=AX.60)
 ms:contentKeyID: 50120635
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Assign sequence values to an item 
@@ -48,5 +50,5 @@ Use this procedure to assign sequences and sequence values to an item, an item g
 [Sequence item (form)](https://technet.microsoft.com/en-us/library/jj838760\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

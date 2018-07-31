@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trend by operating unit report (RetailTrendByChannel)
 TOCTitle: Trend by operating unit report (RetailTrendByChannel)
 ms:assetid: 92300900-d26e-457c-bc67-ad8e53860d9a
@@ -127,5 +127,5 @@ If you are a developer, you can learn more about where the data on a report come
 3.  Right-click the report and click **Add-Ins** \> **Cross-reference** \> **Using (instant view)**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

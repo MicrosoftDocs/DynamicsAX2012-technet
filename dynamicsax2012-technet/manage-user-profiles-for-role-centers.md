@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manage user profiles for Role Centers
 TOCTitle: Manage user profiles for Role Centers
 ms:assetid: 17d05ce2-c635-4a7d-882e-5853ca9a2c80
@@ -22,5 +22,5 @@ A user profile is a set of default information for a specific role in an organiz
 [Remove users from Role Center profiles](remove-users-from-role-center-profiles.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

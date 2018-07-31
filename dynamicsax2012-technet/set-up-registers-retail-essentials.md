@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up registers (Retail essentials)
 TOCTitle: Set up registers (Retail essentials)
 ms:assetid: 42acda35-2dd8-42e0-ac3b-c5807371decc
@@ -64,5 +64,5 @@ To set up a register and assign profiles to it, follow these steps:
 [Setting up Retail POS (Retail essentials)](setting-up-retail-pos-retail-essentials.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Set up the return of rented items and services used for industrialization
 TOCTitle: (BRA) Set up the return of rented items and services used for industrialization
 ms:assetid: 96bfbded-9536-4445-847c-e0b9a0e0aeac
@@ -12,6 +12,8 @@ f1_keywords:
 - return of goods
 - hiring basis
 - industrialization purpose
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Set up the return of rented items and services used for industrialization 
@@ -61,5 +63,5 @@ Use this procedure to set up the operation type, sales tax codes, and item sales
 [(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Enter and post fiscal books adjustments, benefits, and incentives
 TOCTitle: (BRA) Enter and post fiscal books adjustments, benefits, and incentives
 ms:assetid: 7ca1b157-f9a4-4b67-a26b-3e06082b3cff
@@ -11,6 +11,8 @@ f1_keywords:
 - forms.LedgerJournalTable
 - fiscal books
 - ICMS-ST
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Enter and post fiscal books adjustments, benefits, and incentives 
@@ -207,5 +209,5 @@ To reverse a posted tax adjustment transaction, follow these steps:
 [(BRA) Set up adjustment codes for PIS and COFINS taxes](bra-set-up-adjustment-codes-for-pis-and-cofins-taxes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

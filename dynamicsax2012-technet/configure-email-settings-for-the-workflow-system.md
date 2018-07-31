@@ -1,4 +1,4 @@
-﻿---
+---
 title: Configure email settings for the workflow system
 TOCTitle: Configure email settings for the workflow system
 ms:assetid: e0de6075-a8ff-4080-9c0e-15fea57f4d5a
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732160(v=AX.60)
 ms:contentKeyID: 35133102
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Configure email settings for the workflow system 
@@ -133,5 +135,5 @@ To view a list of organization-specific workflows, see [Workflow types](workflow
 3.  Click **Close** to save your changes.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

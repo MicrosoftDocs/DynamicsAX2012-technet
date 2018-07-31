@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Organizations and organizational hierarchies
 TOCTitle: (IND) Organizations and organizational hierarchies
 ms:assetid: 7ca331cc-bba4-4780-82bd-3e8e842b80ee
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677937(v=AX.60)
 ms:contentKeyID: 49385899
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Organizations and organizational hierarchies 
@@ -22,5 +24,5 @@ This section describes how to use organizations and organization hierarchies in 
 [(IND) Number sequences for Indian financial documents](ind-number-sequences-for-indian-financial-documents.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

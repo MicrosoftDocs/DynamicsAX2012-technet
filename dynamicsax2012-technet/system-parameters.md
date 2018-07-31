@@ -1,4 +1,4 @@
-﻿---
+---
 title: System parameters
 TOCTitle: System parameters
 ms:assetid: 619adbfc-0a8e-4cef-ab8d-72ce78fddb03
@@ -30,5 +30,5 @@ If you are upgrading to Microsoft Dynamics AX 2012 R2 or AX 2012 R3, you must id
 4.  In the **Chart of accounts delimiter** field, select a symbol to use as the separator between financial dimensions.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

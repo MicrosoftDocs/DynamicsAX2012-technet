@@ -1,4 +1,4 @@
-﻿---
+---
 title: (CHN) Set up a Chinese voucher system
 TOCTitle: (CHN) Set up a Chinese voucher system
 ms:assetid: ef5dec31-b525-4155-83b3-c684265d8659
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - CN - 00009
+audience: Application User
+ms.search.region: China (PRC)
 ---
 
 # (CHN) Set up a Chinese voucher system 
@@ -58,5 +60,5 @@ You can enter transactions using the **Simple** or **Advanced** method in the **
 [(CHN) Generate and print a Chinese voucher](chn-generate-and-print-a-chinese-voucher.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

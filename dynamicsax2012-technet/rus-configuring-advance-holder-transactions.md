@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Configuring advance holder transactions
 TOCTitle: (RUS) Configuring advance holder transactions
 ms:assetid: 38e26f85-4b24-4051-b96c-2711c7e5ffbc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665288(v=AX.60)
 ms:contentKeyID: 49387377
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Configuring advance holder transactions 
@@ -34,5 +36,5 @@ The following topics provide information about configuring advance holder transa
 [(RUS) Set up parameters for advance holders](rus-set-up-parameters-for-advance-holders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

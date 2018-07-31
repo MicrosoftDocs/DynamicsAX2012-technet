@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install the Retail Channel Configuration Utility (Retail Store Database Utility)
 TOCTitle: Install the Retail Channel Configuration Utility (Retail Store Database Utility)
 ms:assetid: 2ede58e8-3dbe-4aed-8107-aaadf2fae1a8
@@ -121,5 +121,5 @@ For information about how to use the Retail Channel Configuration Utility, see t
   - [Configure database connections for a POS register by using the Retail Channel Configuration Utility](configure-database-connections-for-a-pos-register-by-using-the-retail-channel-configuration-utility.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

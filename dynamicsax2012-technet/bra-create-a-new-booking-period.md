@@ -1,4 +1,4 @@
-﻿---
+---
 title: (BRA) Create a new booking period
 TOCTitle: (BRA) Create a new booking period
 ms:assetid: 1541cb60-bd84-4c54-8ab3-f55f8895f11b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Forms.FBBookingPeriodListPage_BR
 - MsDynAx060.Forms.FBBookingPeriodListPage_BR
+audience: Application User
+ms.search.region: Brazil
 ---
 
 # (BRA) Create a new booking period 
@@ -53,5 +55,5 @@ Before you can assess, pay, and declare these taxes and create a SPED fiscal tex
 6.  Click **Finish** to create the selected booking periods and tax assessments.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

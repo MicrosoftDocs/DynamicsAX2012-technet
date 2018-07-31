@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reserve inventory automatically for a sales order
 TOCTitle: Reserve inventory automatically for a sales order
 ms:assetid: fa98af3d-7bd5-4c8e-8529-3de458a6db10
@@ -11,6 +11,8 @@ f1_keywords:
 - automatic reservation
 - inventory reservation
 - reservation
+audience: Application User
+ms.search.region: Global
 ---
 
 # Reserve inventory automatically for a sales order 
@@ -44,5 +46,5 @@ The procedure to reverse inventory automatically for a sales order applies in tw
 
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

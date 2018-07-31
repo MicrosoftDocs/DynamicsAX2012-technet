@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Set up Form I-9 document types
 TOCTitle: (USA) Set up Form I-9 document types
 ms:assetid: 91f22f4a-9cd2-4863-8acf-5cace8aff54b
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781097(v=AX.60)
 ms:contentKeyID: 43894509
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: USA
 ---
 
 # (USA) Set up Form I-9 document types 
@@ -44,5 +46,5 @@ Companies in the United States are required to document the eligibility of worke
 [I-9 document (form)](https://technet.microsoft.com/en-us/library/hh227380\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up general ledger parameters for an EXIM AA incentive scheme
 TOCTitle: (IND) Set up general ledger parameters for an EXIM AA incentive scheme
 ms:assetid: 6a913e17-049b-4ae7-aa7a-508277cd3a5e
@@ -13,6 +13,8 @@ f1_keywords:
 - AA
 - Advanced Authorization
 - incentive scheme
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up general ledger parameters for an EXIM AA incentive scheme 
@@ -79,5 +81,5 @@ Setting up general ledger parameters is the first step for setting up an advance
 [(IND) Set up EXIM ports](ind-set-up-exim-ports.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

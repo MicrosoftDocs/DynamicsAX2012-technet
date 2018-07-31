@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up vendor evaluation criteria
 TOCTitle: Set up vendor evaluation criteria
 ms:assetid: 69415ee9-c809-4145-94bd-2d19678e2a73
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn765128(v=AX.60)
 ms:contentKeyID: 63008007
 ms.date: 02/06/2015
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up vendor evaluation criteria 
@@ -182,5 +184,5 @@ To search for a vendor, follow these steps:
 [Key tasks: Set up and maintain procurement category hierarchies](key-tasks-set-up-and-maintain-procurement-category-hierarchies.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

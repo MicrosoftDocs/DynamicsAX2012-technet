@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SAU) Setting up Zakat reporting
 TOCTitle: (SAU) Setting up Zakat reporting
 ms:assetid: 42f0dd69-b02d-4f6a-a1df-0805666b6ba3
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - Saudi Arabia
 - Zakat reporting
+audience: Application User
+ms.search.region: Saudi Arabia
 ---
 
 # (SAU) Setting up Zakat reporting 
@@ -21,5 +23,5 @@ The topics in this section provide conceptual and procedural information about Z
 [(SAU) About Zakat reporting](sau-about-zakat-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

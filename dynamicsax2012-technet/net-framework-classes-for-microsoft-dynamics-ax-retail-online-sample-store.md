@@ -1,4 +1,4 @@
-﻿---
+---
 title: .NET Framework Classes for Microsoft Dynamics AX Retail online sample store
 TOCTitle: Retail online sample store reference
 ms:assetid: 2edb6f66-3dd4-49fc-8b0f-a276274ac9cb
@@ -16,8 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 This section contains reference documentation for the .NET Framework classes that are used in Microsoft Dynamics AX Retail online store development.
 
 
-> [!TIP]
-> <P>To apply advanced criteria to your search for Help about Microsoft Dynamics AX, use the <A href="http://go.microsoft.com/fwlink/?linkid=247587&amp;xver=ax060">WebSearchAx</A> tool.</P>
+
 
 
 
@@ -26,5 +25,5 @@ This section contains reference documentation for the .NET Framework classes tha
 [Online Store](online-store.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

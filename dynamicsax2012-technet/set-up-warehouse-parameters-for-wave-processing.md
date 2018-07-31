@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up warehouse parameters for wave processing
 TOCTitle: Set up warehouse parameters for wave processing
 ms:assetid: 927e4216-abef-4be7-b8cb-138f6b646342
@@ -10,6 +10,8 @@ f1_keywords:
 - Wave
 - Forms.WHSParameters
 - MsDynAx060.Forms.WHSParameters
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up warehouse parameters for wave processing 
@@ -136,5 +138,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

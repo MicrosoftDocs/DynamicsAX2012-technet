@@ -1,4 +1,4 @@
-﻿---
+---
 title: (ESP) Import main accounts into a chart of accounts
 TOCTitle: (ESP) Import main accounts into a chart of accounts
 ms:assetid: 87c9e346-cd4f-4104-9625-afe835147223
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - import main accounts
+audience: Application User
+ms.search.region: Spain
 ---
 
 # (ESP) Import main accounts into a chart of accounts 
@@ -34,5 +36,5 @@ Use the **Import main accounts** form to import main account information into a 
 [(ESP) Import main accounts (form)](https://technet.microsoft.com/en-us/library/hh433552\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

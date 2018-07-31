@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What's new: Public sector features"
 TOCTitle: Public sector features
 ms:assetid: 7b00bf89-5448-433c-98f9-14e82c39d027
@@ -198,5 +198,5 @@ The following features have been added to the [Public sector](public-sector.md) 
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

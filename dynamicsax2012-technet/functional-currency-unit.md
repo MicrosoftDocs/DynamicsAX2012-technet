@@ -1,4 +1,4 @@
-﻿---
+---
 title: " functional currency unit"
 TOCTitle: " functional currency unit"
 ms:assetid: DynamicsAXGlossary.1509709
@@ -37,5 +37,5 @@ A currency unit of a country/region in which a primary legal entity locates its 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Preliminary setup
 TOCTitle: Preliminary setup
 ms:assetid: 6b755f60-d0ed-4f59-988d-2782ecc28096
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - setup
 - product builder
+audience: Application User
+ms.search.region: Global
 ---
 
 # Preliminary setup 
@@ -56,5 +58,5 @@ This section provides information about options that should be set up before you
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

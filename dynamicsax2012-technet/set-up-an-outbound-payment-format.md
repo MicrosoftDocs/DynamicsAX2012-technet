@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up an outbound payment format
 TOCTitle: Set up an outbound payment format
 ms:assetid: 325b86ae-7aca-4f86-beec-a5d507b4a81b
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - payments
 - vendor payment
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up an outbound payment format 
@@ -65,5 +67,5 @@ For information about these prerequisites, see [Walkthrough: Configuring an outb
 [Outbound ports for electronic payments (form)](https://technet.microsoft.com/en-us/library/hh208616\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

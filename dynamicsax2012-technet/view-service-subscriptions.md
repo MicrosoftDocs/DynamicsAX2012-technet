@@ -1,4 +1,4 @@
-﻿---
+---
 title: View service subscriptions
 TOCTitle: View service subscriptions
 ms:assetid: 215186c0-2d68-46eb-bec9-41327e46f913
@@ -10,6 +10,8 @@ f1_keywords:
 - EPProjRevenueTransService
 - EPServiceSubscriptionInfo
 - EPServiceSubscriptionList
+audience: Application User
+ms.search.region: Global
 ---
 
 # View service subscriptions 
@@ -38,5 +40,5 @@ Use the **All service subscriptions** page to view a list of service subscriptio
 [About project transactions](about-project-transactions.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

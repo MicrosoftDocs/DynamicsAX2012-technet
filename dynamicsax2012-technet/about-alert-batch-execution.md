@@ -1,4 +1,4 @@
-﻿---
+---
 title: About alert batch execution
 TOCTitle: About alert batch execution
 ms:assetid: fb6df49f-fa76-4e80-a6e7-a8cd284dffb8
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570106(v=AX.60)
 ms:contentKeyID: 46687574
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About alert batch execution 
@@ -108,7 +110,7 @@ The batch processing window is set to 10 days.
 <tr class="even">
 <td><p>The batch job does not run on days 1 through 9, but only on day 10. In other words, the batch job runs in the 10-day window.</p></td>
 <td><p>You are alerted about every employee whose birthday was 2, 3, 4, 5, 6, 7, 8, 9, 10, or 11 days ago.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>All alerts are generated.</P>
@@ -119,7 +121,7 @@ The batch processing window is set to 10 days.
 <tr class="odd">
 <td><p>The batch job does not run on days 1 through 10, but only on day 11.</p></td>
 <td><p>You are alerted about every employee whose birthday was 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, or 12 days ago.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>Now you are not alerted about any employee whose birthday was 13 days ago.</P>
@@ -130,7 +132,7 @@ The batch processing window is set to 10 days.
 <tr class="even">
 <td><p>The batch job does not run on days 1 through 11, but only on day 12.</p></td>
 <td><p>You are alerted about every employee whose birthday was 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, or 13 days ago.</p>
-<div class="alert"> 
+<div class="alert">
 
 > [!NOTE]
 > <P>Now you are not alerted about any employee whose birthday was 14 days ago.</P>
@@ -163,5 +165,5 @@ If you decide that the events in the event queue are obsolete and should not be 
 [Set up alert batch execution](set-up-alert-batch-execution.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

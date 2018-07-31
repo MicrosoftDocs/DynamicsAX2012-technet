@@ -1,4 +1,4 @@
-﻿---
+---
 title: (HUN) Fixed asset acquisition
 TOCTitle: (HUN) Fixed asset acquisition
 ms:assetid: 0844b0c1-7d00-4192-93c4-95dda1b69c0d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664217(v=AX.60)
 ms:contentKeyID: 49385307
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Hungary
 ---
 
 # (HUN) Fixed asset acquisition 
@@ -20,5 +22,5 @@ The following topics provide information about fixed asset acquisition.
 [(HUN) Move a fixed asset to an inventory using a fixed asset journal](hun-move-a-fixed-asset-to-an-inventory-using-a-fixed-asset-journal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

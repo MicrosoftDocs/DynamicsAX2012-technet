@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create and use a reduction key
 TOCTitle: Create and use a reduction key
 ms:assetid: b29dcc9d-e77a-4efa-a8a1-1b36b04783c9
@@ -11,6 +11,8 @@ f1_keywords:
 - forecast reduction
 - forecast, consume
 - forecast, reduce
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create and use a reduction key 
@@ -63,5 +65,5 @@ Use these procedures to create and use a reduction key:
 [Example: Use reduction keys](example-use-reduction-keys.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Maintain organizational elements
 TOCTitle: Maintain organizational elements
 ms:assetid: d82957d2-1a60-4edc-bc45-482de6f5d88d
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213708(v=AX.60)
 ms:contentKeyID: 36676413
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Maintain organizational elements 
@@ -28,5 +30,5 @@ Topics in this section contain information about the Human resources tools that 
 [Human resources statistics](human-resources-statistics.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

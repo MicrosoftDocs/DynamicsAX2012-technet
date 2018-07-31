@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sales manager security role (TradeSalesManager)
 TOCTitle: Sales manager security role (TradeSalesManager)
 ms:assetid: 508f38b3-936b-491b-8059-0dcd22a677da
@@ -950,5 +950,5 @@ By default, this security role is assigned the following duties in Microsoft Dyn
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

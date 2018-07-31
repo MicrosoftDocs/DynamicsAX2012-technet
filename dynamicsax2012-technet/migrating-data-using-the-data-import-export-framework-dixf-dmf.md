@@ -1,4 +1,4 @@
-﻿---
+---
 title: Migrating data using the Data import/export framework (DIXF, DMF)
 TOCTitle: Migrating data using the Data import/export framework (DIXF, DMF)
 ms:assetid: d651a60f-c6b9-43f8-ac5c-982f9cf7e101
@@ -18,5 +18,5 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/migrating-data-using-the-data-importexport-framework-dixf-dmf/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

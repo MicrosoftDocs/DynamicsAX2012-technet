@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Define a service tax component and the tax setoff
 TOCTitle: (IND) Define a service tax component and the tax setoff
 ms:assetid: 1c67cc44-419c-4c5a-a240-0305954f3453
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664533(v=AX.60)
 ms:contentKeyID: 49385613
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Define a service tax component and the tax setoff 
@@ -52,5 +54,5 @@ You can offset the amounts of the service tax components that include excise tax
 [(IND) Tax components (form)](https://technet.microsoft.com/en-us/library/jj664734\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

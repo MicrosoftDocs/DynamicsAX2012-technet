@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LVA) Generate a depreciation summary report
 TOCTitle: (LVA) Generate a depreciation summary report
 ms:assetid: d812d366-de7a-4883-b835-1f2c1434490e
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853418(v=AX.60)
 ms:contentKeyID: 50396787
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Latvia
 ---
 
 # (LVA) Generate a depreciation summary report 
@@ -62,5 +64,5 @@ The depreciation summary report is a summary of the depreciation of fixed assets
 [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

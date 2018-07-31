@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Process incoming VAT by using the Proportional VAT deduction method
 TOCTitle: (RUS) Process incoming VAT by using the Proportional VAT deduction method
 ms:assetid: a2c4724f-6135-4b4d-aa40-1849e1ee5eb5
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678561(v=AX.60)
 ms:contentKeyID: 49387789
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Process incoming VAT by using the Proportional VAT deduction method 
@@ -42,5 +44,5 @@ When you select the factures for processing VAT, the blocked and unblocked amoun
 6.  Click **Post** to process the incoming VAT.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

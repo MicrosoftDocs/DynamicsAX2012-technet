@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setup parameters reference
 TOCTitle: Setup parameters reference
 ms:assetid: 474f9d72-e1e5-433a-840e-d9eb00753e94
@@ -3034,5 +3034,5 @@ The following table lists the parameters that control how Setup installs and rem
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prepare a legal entity for a currency conversion
 TOCTitle: Prepare a legal entity for a currency conversion
 ms:assetid: 22570bdf-7798-43ed-bb91-7fc7b13b2790
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496797(v=AX.60)
 ms:contentKeyID: 36941285
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Prepare a legal entity for a currency conversion 
@@ -120,5 +122,5 @@ If you performed foreign currency revaluations to revalue amounts with regard to
 [Opening transactions (form)](https://technet.microsoft.com/en-us/library/aa572506\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

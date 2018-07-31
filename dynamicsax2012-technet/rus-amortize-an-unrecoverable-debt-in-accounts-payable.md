@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Amortize an unrecoverable debt in Accounts payable
 TOCTitle: (RUS) Amortize an unrecoverable debt in Accounts payable
 ms:assetid: 1d9a14b9-bb9e-45e4-8073-3d09dbdcc498
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711453(v=AX.60)
 ms:contentKeyID: 49387273
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Amortize an unrecoverable debt in Accounts payable 
@@ -50,5 +52,5 @@ The transactions that are created are automatically settled with the unrecoverab
 [(RUS) Creditors debt cancellation (form)](https://technet.microsoft.com/en-us/library/jj711491\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

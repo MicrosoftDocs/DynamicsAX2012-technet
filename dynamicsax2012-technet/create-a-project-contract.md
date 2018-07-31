@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a project contract
 TOCTitle: Create a project contract
 ms:assetid: b6130251-e119-4498-8e62-9b8741086bd6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh370701(v=AX.60)
 ms:contentKeyID: 36811426
 ms.date: 10/06/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Create a project contract 
@@ -66,5 +68,5 @@ A project contract can specify one or more sources of funding. This lets you spl
 [About project contract funding](about-project-contract-funding.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

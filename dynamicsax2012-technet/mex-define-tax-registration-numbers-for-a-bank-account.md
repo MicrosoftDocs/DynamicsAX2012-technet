@@ -1,4 +1,4 @@
-﻿---
+---
 title: (MEX) Define tax registration numbers for a bank account
 TOCTitle: (MEX) Define tax registration numbers for a bank account
 ms:assetid: 1ec654fd-6655-44fa-814f-6679b996a1d8
@@ -10,6 +10,8 @@ f1_keywords:
 - Mexico
 - bank account
 - tax registration number
+audience: Application User
+ms.search.region: Mexico
 ---
 
 # (MEX) Define tax registration numbers for a bank account 
@@ -44,5 +46,5 @@ The format of the RFC number is as follows: For corporations, the 12-character n
 [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

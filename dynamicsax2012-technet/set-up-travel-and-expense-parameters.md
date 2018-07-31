@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up travel and expense parameters
 TOCTitle: Set up travel and expense parameters
 ms:assetid: 48f3e54f-510a-45dc-8f66-03b95f08f0c0
@@ -10,6 +10,8 @@ f1_keywords:
 - expenses
 - expense
 - travel
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up travel and expense parameters 
@@ -92,5 +94,5 @@ On the **Fax cover pages** tab:
 [Project expense policies (form)](https://technet.microsoft.com/en-us/library/hh227585\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Manage purchase orders
 TOCTitle: (IND) Manage purchase orders
 ms:assetid: 2fadaae7-5009-4d1c-b2fd-997b4ab5be02
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664592(v=AX.60)
 ms:contentKeyID: 49385669
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Manage purchase orders 
@@ -64,5 +66,5 @@ The following topics provide information about tasks that are related to managin
 [(IND) Post transaction reversals for purchase orders](ind-post-transaction-reversals-for-purchase-orders.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

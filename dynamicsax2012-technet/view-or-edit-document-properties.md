@@ -1,4 +1,4 @@
-﻿---
+---
 title: View or edit document properties
 TOCTitle: View or edit document properties
 ms:assetid: e89f3391-651f-4bf2-80d4-5bb5b29fbf04
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - EPDocuEdit
 - EPDocuInfo
+audience: Application User
+ms.search.region: Global
 ---
 
 # View or edit document properties 
@@ -55,5 +57,5 @@ You can use the **Record** page to modify the document's properties. For example
 [View attachments](view-attachments.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

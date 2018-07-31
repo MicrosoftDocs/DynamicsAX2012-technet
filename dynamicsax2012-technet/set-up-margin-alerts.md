@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set up margin alerts
 TOCTitle: Set up margin alerts
 ms:assetid: cbf9d14b-8003-4589-9c5c-5ef45184af9c
@@ -10,6 +10,8 @@ f1_keywords:
 - Forms.CustParameters
 - margin alert
 - order entry
+audience: Application User
+ms.search.region: Global
 ---
 
 # Set up margin alerts 
@@ -94,5 +96,5 @@ If you don't have access to the pages that are used to complete this task, conta
 [Apply overrides](apply-overrides.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Moving products
 TOCTitle: Moving products
 ms:assetid: c0d05abc-7c6a-41be-b12b-1359f27f17da
@@ -11,6 +11,8 @@ f1_keywords:
 - transport
 - transfer orders
 - pallet
+audience: Application User
+ms.search.region: Global
 ---
 
 # Moving products 
@@ -43,5 +45,5 @@ The following topics provide information about how to work with pallet transport
 [Merge inventory batches](merge-inventory-batches.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

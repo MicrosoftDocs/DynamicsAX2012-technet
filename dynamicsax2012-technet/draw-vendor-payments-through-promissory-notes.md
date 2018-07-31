@@ -1,4 +1,4 @@
-﻿---
+---
 title: Draw vendor payments through promissory notes
 TOCTitle: Draw vendor payments through promissory notes
 ms:assetid: 2b1585d9-e196-492c-a613-378e8b3aac97
@@ -13,6 +13,8 @@ f1_keywords:
 - vendor payments
 - vendor payment
 - promissory note
+audience: Application User
+ms.search.region: Global
 ---
 
 # Draw vendor payments through promissory notes 
@@ -37,5 +39,5 @@ The following topics provide information about drawing vendor payments through p
 [(FRA) Draw and print promissory notes](fra-draw-and-print-promissory-notes.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

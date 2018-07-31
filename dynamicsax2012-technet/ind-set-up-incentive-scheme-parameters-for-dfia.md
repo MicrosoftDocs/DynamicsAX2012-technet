@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Set up incentive scheme parameters for DFIA
 TOCTitle: (IND) Set up incentive scheme parameters for DFIA
 ms:assetid: bc860ea5-b4d5-446d-bc38-ebfce6d1ccd6
@@ -14,6 +14,8 @@ f1_keywords:
 - incentive scheme
 - DFIA
 - Duty Free Import Authorization
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Set up incentive scheme parameters for DFIA 
@@ -80,5 +82,5 @@ Before you can use the Duty Free Import Authorization (DFIA) incentive scheme, y
 [(IND) Set up tax ledger posting groups for DFIA](ind-set-up-tax-ledger-posting-groups-for-dfia.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

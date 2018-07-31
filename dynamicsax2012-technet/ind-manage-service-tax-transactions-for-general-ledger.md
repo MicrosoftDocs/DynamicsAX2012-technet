@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Manage service tax transactions for General ledger
 TOCTitle: (IND) Manage service tax transactions for General ledger
 ms:assetid: e43378d2-1715-4819-ab89-9f548778c049
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710881(v=AX.60)
 ms:contentKeyID: 49386293
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Manage service tax transactions for General ledger 
@@ -24,5 +26,5 @@ The following topics provide information about service tax in General ledger tra
 [(IND) Generate the service tax payable report](ind-generate-the-service-tax-payable-report.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

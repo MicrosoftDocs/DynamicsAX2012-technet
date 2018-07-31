@@ -1,4 +1,4 @@
-﻿---
+---
 title: (LTU) Enter the statistical value for a purchase transaction
 TOCTitle: (LTU) Enter the statistical value for a purchase transaction
 ms:assetid: 047af217-fb1a-4d06-a10e-beb4840a4f46
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665006(v=AX.60)
 ms:contentKeyID: 49386588
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Lithuania
 ---
 
 # (LTU) Enter the statistical value for a purchase transaction 
@@ -40,5 +42,5 @@ When you create a purchase order, you can enter an additional transaction cost t
 6.  Post the invoice for the purchase order.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dates, times and time zones
 TOCTitle: Dates, times and time zones
 ms:assetid: 465d7a55-500d-4218-af59-222b7767bbcc
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231389(v=AX.60)
 ms:contentKeyID: 36056902
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Dates, times and time zones 
@@ -22,5 +24,5 @@ The topics in this section provide information about how dates, times, and time 
 [Set a preferred time zone](set-a-preferred-time-zone.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

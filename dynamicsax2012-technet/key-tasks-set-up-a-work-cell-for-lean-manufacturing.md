@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Key tasks: Set up a work cell for lean manufacturing'
 TOCTitle: 'Key tasks: Set up a work cell for lean manufacturing'
 ms:assetid: 2af1e8c0-d77b-418f-8f7f-0c84a93a7a1d
@@ -19,6 +19,8 @@ f1_keywords:
 - process kanban job
 - work cell
 - resource group capacity
+audience: Application User
+ms.search.region: Global
 ---
 
 # Key tasks: Set up a work cell for lean manufacturing 
@@ -122,5 +124,5 @@ Back to top
 [Resource groups (form)](https://technet.microsoft.com/en-us/library/hh227450\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

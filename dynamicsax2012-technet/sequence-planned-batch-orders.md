@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sequence planned batch orders
 TOCTitle: Sequence planned batch orders
 ms:assetid: 988986c1-28f5-4777-9010-45b9656e8a45
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838744(v=AX.60)
 ms:contentKeyID: 50120627
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Sequence planned batch orders 
@@ -32,5 +34,5 @@ You can also select the sequenced planned orders on the **Sequenced planned orde
 [(PM) Planned orders (form)](https://technet.microsoft.com/en-us/library/hh328645\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

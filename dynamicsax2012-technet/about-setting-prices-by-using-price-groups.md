@@ -1,4 +1,4 @@
-﻿---
+---
 title: About setting prices by using price groups
 TOCTitle: About setting prices by using price groups
 ms:assetid: 78853eb3-dc01-4bec-922f-57633f637a0f
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597133(v=AX.60)
 ms:contentKeyID: 39519187
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # About setting prices by using price groups 
@@ -62,5 +64,5 @@ For more information, see the following topics:
 [Setting up affiliations](setting-up-affiliations.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

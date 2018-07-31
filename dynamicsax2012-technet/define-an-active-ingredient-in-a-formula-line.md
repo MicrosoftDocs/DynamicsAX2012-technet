@@ -1,4 +1,4 @@
-﻿---
+---
 title: Define an active ingredient in a formula line
 TOCTitle: Define an active ingredient in a formula line
 ms:assetid: cc76ede2-2e30-401d-9eea-9ba96db18e88
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838749(v=AX.60)
 ms:contentKeyID: 50120632
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Define an active ingredient in a formula line 
@@ -48,5 +50,5 @@ Use this procedure to select an ingredient type for a specified formula line. A 
 [(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

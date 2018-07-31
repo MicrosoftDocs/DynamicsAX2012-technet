@@ -1,4 +1,4 @@
-﻿---
+---
 title: About production posting
 TOCTitle: About production posting
 ms:assetid: 0e39ce5a-c10e-4674-b338-71c3e1f75af8
@@ -14,6 +14,8 @@ f1_keywords:
 - post productions
 - production posting
 - production posting accounts
+audience: Application User
+ms.search.region: Global
 ---
 
 # About production posting 
@@ -62,5 +64,5 @@ Finally, when production is complete, all accounts are updated with the final ca
 [About purchase order posting types](about-purchase-order-posting-types.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

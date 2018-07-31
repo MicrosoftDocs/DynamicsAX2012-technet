@@ -1,4 +1,4 @@
-﻿---
+---
 title: (POL) Set up interest codes
 TOCTitle: (POL) Set up interest codes
 ms:assetid: 30d7959e-3a20-4ae0-91ce-32b686eccf35
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678171(v=AX.60)
 ms:contentKeyID: 49386894
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Poland
 ---
 
 # (POL) Set up interest codes 
@@ -64,5 +66,5 @@ Use this procedure to set up and maintain interest codes. Interest codes contain
 [(POL) View the calculated interest](pol-view-the-calculated-interest.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

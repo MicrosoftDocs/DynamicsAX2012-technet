@@ -1,4 +1,4 @@
-﻿---
+---
 title: (SWE) Set up a method of payment for BG Max payments
 TOCTitle: (SWE) Set up a method of payment for BG Max payments
 ms:assetid: 639a1fd5-8d54-4bc5-a4d3-b6147920dcc6
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231537(v=AX.60)
 ms:contentKeyID: 36057690
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Sweden
 ---
 
 # (SWE) Set up a method of payment for BG Max payments 
@@ -40,5 +42,5 @@ Use the **Methods of payment** form to set up a method of payment for Bankgiro I
 [Methods of payment - customers (form)](https://technet.microsoft.com/en-us/library/aa499398\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

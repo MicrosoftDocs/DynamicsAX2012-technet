@@ -1,4 +1,4 @@
-﻿---
+---
 title: (RUS) Procurement and sourcing
 TOCTitle: (RUS) Procurement and sourcing
 ms:assetid: d12b276b-001e-414e-ae28-23e066b8f953
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - (RUS)
 - Procurement and sourcing
+audience: Application User
+ms.search.region: Russia
 ---
 
 # (RUS) Procurement and sourcing 
@@ -27,5 +29,5 @@ The following topic provides information about working with procurement and sour
 [Setting up and maintaining Procurement and sourcing](setting-up-and-maintaining-procurement-and-sourcing.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

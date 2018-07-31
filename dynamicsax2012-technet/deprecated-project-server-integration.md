@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Deprecated: Project Server integration'
 TOCTitle: Project Server integration
 ms:assetid: ec0bba3e-b40b-4df2-8c92-5fa93dd43ef2
@@ -54,5 +54,5 @@ Support for Microsoft Project Server integration is being deprecated in Microsof
 </table>
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

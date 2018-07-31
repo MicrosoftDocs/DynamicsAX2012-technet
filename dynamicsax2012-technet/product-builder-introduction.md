@@ -1,4 +1,4 @@
-﻿---
+---
 title: Product builder introduction
 TOCTitle: Product builder introduction
 ms:assetid: 5c5dbf56-e04e-4b29-b535-ffed132b5932
@@ -8,6 +8,8 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - Product builder
+audience: Application User
+ms.search.region: Global
 ---
 
 # Product builder introduction 
@@ -52,5 +54,5 @@ In order to realize the potential of **Product Builder**, previous experience by
 [Concepts and data flow](concepts-and-data-flow.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

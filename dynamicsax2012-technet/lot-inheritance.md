@@ -1,4 +1,4 @@
-﻿---
+---
 title: " lot inheritance"
 TOCTitle: " lot inheritance"
 ms:assetid: DynamicsAXGlossary.1784273
@@ -19,5 +19,5 @@ The practice of configuring items so that their product characteristics and shel
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

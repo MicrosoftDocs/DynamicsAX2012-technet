@@ -1,4 +1,4 @@
-﻿---
+---
 title: (IND) Transfer opening balance in excise registers using tax journals
 TOCTitle: (IND) Transfer opening balance in excise registers using tax journals
 ms:assetid: fdca32b6-7377-4cc0-b89f-cfed6ae05d72
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710973(v=AX.60)
 ms:contentKeyID: 49386385
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: India
 ---
 
 # (IND) Transfer opening balance in excise registers using tax journals 
@@ -98,5 +100,5 @@ Refer to the following table for the form name and locators to transfer the exci
 17. Validate and post the journal. The excise register is updated with the journal details and the tax component amount.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: (DNK) Post a sales invoice with a payment slip
 TOCTitle: (DNK) Post a sales invoice with a payment slip
 ms:assetid: 6b466186-1837-4500-9d02-640a05efec26
@@ -10,6 +10,8 @@ f1_keywords:
 - Denmark
 - payment slip
 - sales invoice
+audience: Application User
+ms.search.region: Denmark
 ---
 
 # (DNK) Post a sales invoice with a payment slip 
@@ -44,5 +46,5 @@ You can post a sales invoice with a payment slip attachment in a specified forma
 [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

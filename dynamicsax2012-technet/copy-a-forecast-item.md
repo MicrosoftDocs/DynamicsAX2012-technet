@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copy a forecast item
 TOCTitle: Copy a forecast item
 ms:assetid: b48f131f-896f-48b1-89b1-4576673243a1
@@ -10,6 +10,8 @@ f1_keywords:
 - copy
 - transfer
 - forecast item
+audience: Application User
+ms.search.region: Global
 ---
 
 # Copy a forecast item 
@@ -36,5 +38,5 @@ A forecasted item transaction can be copied to a sales order, an item consumptio
 [Item forecasts (form)](https://technet.microsoft.com/en-us/library/hh209438\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

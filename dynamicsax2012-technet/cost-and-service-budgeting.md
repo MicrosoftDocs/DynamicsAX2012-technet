@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cost and service budgeting
 TOCTitle: Cost and service budgeting
 ms:assetid: 15a5f69e-72d4-4771-9ae3-e93269bfd75f
@@ -14,6 +14,8 @@ f1_keywords:
 - costing
 - service budget
 - service budgets
+audience: Application User
+ms.search.region: Global
 ---
 
 # Cost and service budgeting 
@@ -28,5 +30,5 @@ The topics in this section contain information about how you can use cost budget
 [About service budgeting](about-service-budgeting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Portal and Microsoft Excel
 TOCTitle: Enterprise Portal and Microsoft Excel
 ms:assetid: 536207e5-18a4-4a67-a052-6d792154faab
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271535(v=AX.60)
 ms:contentKeyID: 36384167
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Enterprise Portal and Microsoft Excel 
@@ -26,5 +28,5 @@ For more information about how to use Excel together with Microsoft Dynamics AX,
 [List pages (Enterprise Portal)](list-pages-enterprise-portal.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

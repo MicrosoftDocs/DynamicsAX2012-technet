@@ -1,4 +1,4 @@
-﻿---
+---
 title: Identify opportunities
 TOCTitle: Identify opportunities
 ms:assetid: 0d6991f3-a09c-4c32-8325-0bdaf44efb13
@@ -9,6 +9,8 @@ mtps_version: v=AX.60
 f1_keywords:
 - opportunity
 - opportunities
+audience: Application User
+ms.search.region: Global
 ---
 
 # Identify opportunities 
@@ -23,5 +25,5 @@ The topics in this section provide information about how to identify customer op
 [Create or update a prospect record](create-or-update-a-prospect-record.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

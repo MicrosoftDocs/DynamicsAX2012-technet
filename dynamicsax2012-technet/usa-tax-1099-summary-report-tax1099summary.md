@@ -1,4 +1,4 @@
-﻿---
+---
 title: (USA) Tax 1099 summary report (Tax1099Summary)
 TOCTitle: (USA) Tax 1099 summary report (Tax1099Summary)
 ms:assetid: 79b60553-574c-42e3-a1d1-76eb8e4e3c3a
@@ -120,5 +120,5 @@ If you are a developer, you can learn more about where the data on a report come
 [(USA) About year-end 1099 reporting](usa-about-year-end-1099-reporting.md)
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

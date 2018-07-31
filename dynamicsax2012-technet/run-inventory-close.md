@@ -1,4 +1,4 @@
-﻿---
+---
 title: Run inventory close
 TOCTitle: Run inventory close
 ms:assetid: a16d1e1d-139e-4d37-966b-8de222be51f1
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213391(v=AX.60)
 ms:contentKeyID: 36058784
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Run inventory close 
@@ -48,5 +50,5 @@ After the inventory close has been completed, the results are reported in the **
 [Close inventory (form)](https://technet.microsoft.com/en-us/library/aa619451\(v=ax.60\))
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

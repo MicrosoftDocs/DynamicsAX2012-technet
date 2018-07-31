@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Example: Set up, calculate, and view a cash flow forecast for a sales account'
 TOCTitle: 'Example: Set up, calculate, and view a cash flow forecast for a sales account'
 ms:assetid: 6805ef6f-2650-47cd-a2d4-9a3516abe8bb
@@ -6,6 +6,8 @@ ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242599(v=AX.60)
 ms:contentKeyID: 36057949
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+audience: Application User
+ms.search.region: Global
 ---
 
 # Example: Set up, calculate, and view a cash flow forecast for a sales account 
@@ -40,5 +42,5 @@ This example describes how to set up, calculate, and view a cash flow forecast f
 11. On the **Action Pane**, in the **Related information** group, click **Cash flow forecasts**.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 

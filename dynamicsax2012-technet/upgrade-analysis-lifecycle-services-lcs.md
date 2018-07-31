@@ -1,4 +1,4 @@
-﻿---
+---
 title: Upgrade analysis (Lifecycle Services, LCS)
 TOCTitle: Upgrade analysis
 ms:assetid: 3820d1f3-5e89-450d-ade5-0717c278419e
@@ -14,5 +14,5 @@ mtps_version: v=AX.60
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/upgrade-analysis-lifecycle-services-lcs/) in the Dynamics AX Help wiki.
 
   
-**Announcements:** To see known issues and recent fixes, use [Issue search](http://go.microsoft.com/fwlink/?linkid=389258) in [Microsoft Dynamics Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306505) (LCS).
+
 
