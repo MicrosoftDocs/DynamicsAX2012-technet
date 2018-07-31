@@ -34,7 +34,7 @@ Select the **Print Foretaksregisteret on sales documents** check box in the **Le
 
 ## See also
 
-[(NOR) Print the term “Enterprise register” on sales documents](nor-print-the-term-“enterprise-register”-on-sales-documents.md)
+[(NOR) Print the term “Enterprise register” on sales documents](nor-print-the-term-enterprise-register-on-sales-documents.md)
 
   
 
