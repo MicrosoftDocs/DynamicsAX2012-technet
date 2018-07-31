@@ -1,6 +1,6 @@
 ---
-title: 'Microsoft Dynamics AX 2012 Technical Library '
-TOCTitle: Microsoft Dynamics AX 2012
+title: Microsoft Dynamics AX 2012 Application User and IT Professional Technical Library
+TOCTitle: Microsoft Dynamics AX 2012 Application User and IT Professional Technical Library
 ms:assetid: 89085fa3-cec3-4651-bee5-907470e2d4bd
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg852966(v=AX.60)
 ms:contentKeyID: 35267556
@@ -8,7 +8,7 @@ ms.date: 04/28/2014
 mtps_version: v=AX.60
 ---
 
-# Microsoft Dynamics AX 2012 Technical Library
+# Microsoft Dynamics AX 2012 Application User and IT Professional Technical Library
 
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
@@ -21,7 +21,9 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 <tbody>
 <tr class="odd">
 <td><img src="images/Gg852966.AXlogo(AX.60).png" title="Microsoft Dynamics AX logo" alt="Microsoft Dynamics AX logo" /></td>
-<td><p>Welcome to the Microsoft Dynamics AX 2012 Technical Library. This library contains updated content that explains how to deploy, configure, and use Microsoft Dynamics AX 2012.</p>
+<td><p>Welcome to the Microsoft Dynamics AX 2012 Application User and IT Professional Technical Library. This library contains updated content that explains how to deploy, configure, and use Microsoft Dynamics AX 2012.</p>
+  
+<p>For developer content please see the <a href="/dynamicsax-2012/developer/microsoft-dynamics-ax-2012-for-developers">Microsoft Dynamics AX Developer Library</a>.</p>
 </td>
 </tr>
 </tbody>
@@ -92,7 +94,7 @@ To start working with Microsoft Dynamics AX 2012, review the following resources
 <tr class="even">
 <td><p>6. Develop and customize Microsoft Dynamics AX.</p></td>
 <td><ul>
-<li><p><a href="http://go.microsoft.com/fwlink/?linkid=110356">Microsoft Dynamics AX Developer Center</a></p></li>
+<li><p><a href="/dynamicsax-2012/developer/microsoft-dynamics-ax-2012-for-developers">Microsoft Dynamics AX Developer Library</a></p></li>
 </ul></td>
 </tr>
 </tbody>
