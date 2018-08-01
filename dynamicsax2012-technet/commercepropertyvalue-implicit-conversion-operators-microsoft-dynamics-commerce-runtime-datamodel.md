@@ -29,37 +29,37 @@ dev_langs:
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0implicit-conversion-boolean-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(Boolean to CommercePropertyValue)</a></td>
+<td><a href="commercepropertyvalue-implicit-conversion-boolean-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(Boolean to CommercePropertyValue)</a></td>
 <td>Defines implicit bool-to-CommercePropertyValue conversion operator.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0implicit-conversion-byte-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(Byte to CommercePropertyValue)</a></td>
+<td><a href="commercepropertyvalue-implicit-conversion-byte-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(Byte to CommercePropertyValue)</a></td>
 <td>Defines implicit byte-to-CommercePropertyValue conversion operator.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0implicit-conversion-datetimeoffset-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(DateTimeOffset to CommercePropertyValue)</a></td>
+<td><a href="commercepropertyvalueimplicit-conversion-datetimeoffset-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(DateTimeOffset to CommercePropertyValue)</a></td>
 <td>Defines implicit DateTimeOffset-to-CommercePropertyValue conversion operator.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0implicit-conversion-decimal-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(Decimal to CommercePropertyValue)</a></td>
+<td><a href="commercepropertyvalue-implicit-conversion-decimal-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(Decimal to CommercePropertyValue)</a></td>
 <td>Defines implicit decimal-to-CommercePropertyValue conversion operator.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0implicit-conversion-int32-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(Int32 to CommercePropertyValue)</a></td>
+<td><a href="commercepropertyvalue-implicit-conversion-int32-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(Int32 to CommercePropertyValue)</a></td>
 <td>Defines implicit int-to-CommercePropertyValue conversion operator.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0implicit-conversion-int64-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(Int64 to CommercePropertyValue)</a></td>
+<td><a href="commercepropertyvalue-implicit-conversion-int64-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(Int64 to CommercePropertyValue)</a></td>
 <td>Defines implicit long-to-CommercePropertyValue conversion operator.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0implicit-conversion-string-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(String to CommercePropertyValue)</a></td>
+<td><a href="commercepropertyvalue-implicit-conversion-string-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(String to CommercePropertyValue)</a></td>
 <td>Defines implicit string-to-CommercePropertyValue conversion operator.</td>
 </tr>
 </tbody>

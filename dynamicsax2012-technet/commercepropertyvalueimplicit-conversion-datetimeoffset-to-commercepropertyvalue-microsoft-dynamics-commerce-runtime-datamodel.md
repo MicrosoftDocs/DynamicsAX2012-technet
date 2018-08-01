@@ -61,7 +61,7 @@ The commerce property value.
 
 [CommercePropertyValue Class](commercepropertyvalue-class-microsoft-dynamics-commerce-runtime-datamodel.md)
 
-[Implicit Overload](commercepropertyvalue%C2%A0implicit-conversion-operators-microsoft-dynamics-commerce-runtime-datamodel.md)
+[Implicit Overload](commercepropertyvalue-implicit-conversion-operators-microsoft-dynamics-commerce-runtime-datamodel.md)
 
 [Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)
 

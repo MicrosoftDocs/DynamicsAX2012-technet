@@ -29,37 +29,37 @@ dev_langs:
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0explicit-conversion-commercepropertyvalue-to-int32-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to Int32)</a></td>
+<td><a href="commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-int32-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to Int32)</a></td>
 <td>Defines explicit CommercePropertyValue-to-int conversion operator.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0explicit-conversion-commercepropertyvalue-to-int64-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to Int64)</a></td>
+<td><a href="commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-int64-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to Int64)</a></td>
 <td>Defines explicit CommercePropertyValue-to-long conversion operator.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0explicit-conversion-commercepropertyvalue-to-string-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to String)</a></td>
+<td><a href="commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-string-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to String)</a></td>
 <td>Defines explicit CommercePropertyValue-to-string conversion operator.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0explicit-conversion-commercepropertyvalue-to-boolean-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to Boolean)</a></td>
+<td><a href="commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-boolean-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to Boolean)</a></td>
 <td>Defines explicit CommercePropertyValue-to-bool conversion operator.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0explicit-conversion-commercepropertyvalue-to-byte-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to Byte)</a></td>
+<td><a href="commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-byte-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to Byte)</a></td>
 <td>Defines explicit CommercePropertyValue-to-byte conversion operator.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0explicit-conversion-commercepropertyvalue-to-datetimeoffset-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to DateTimeOffset)</a></td>
+<td><a href="commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-datetimeoffset-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to DateTimeOffset)</a></td>
 <td>Defines explicit CommercePropertyValue-to-DateTimeOffset conversion operator.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue%C2%A0explicit-conversion-commercepropertyvalue-to-decimal-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to Decimal)</a></td>
+<td><a href="commercepropertyvalue-explicit-conversion-commercepropertyvalue-to-decimal-microsoft-dynamics-commerce-runtime-datamodel.md">Explicit(CommercePropertyValue to Decimal)</a></td>
 <td>Defines explicit CommercePropertyValue-to-decimal conversion operator.</td>
 </tr>
 </tbody>
