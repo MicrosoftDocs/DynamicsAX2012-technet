@@ -21,73 +21,73 @@ Welcome to the Microsoft Dynamics AX 2012 Application User Library.
 
 To get started with Microsoft Dynamics AX, review the following resources in this library.
 
-[Introduction to Microsoft Dynamics AX 2012](../introduction-to-microsoft-dynamics-ax-2012.md)
+[Introduction to Microsoft Dynamics AX 2012](..\introduction-to-microsoft-dynamics-ax-2012.md)
 
-[About Help in Microsoft Dynamics AX](../about-help-in-microsoft-dynamics-ax.md)
+[About Help in Microsoft Dynamics AX](..\about-help-in-microsoft-dynamics-ax.md)
 
-[Configuring product-wide features](../configuring-product-wide-features.md)
+[Configuring product-wide features](..\configuring-product-wide-features.md)
 
-[Productivity tools for end users](../productivity-tools-for-end-users.md)
+[Productivity tools for end users](..\productivity-tools-for-end-users.md)
 
-[Accounts payable](../accounts-payable.md)
+[Accounts payable](..\accounts-payable.md)
 
-[Accounts receivable](../accounts-receivable.md)
+[Accounts receivable](..\accounts-receivable.md)
 
-[General ledger](../general-ledger.md)
+[General ledger](..\general-ledger.md)
 
-[Budgeting](../budgeting.md)
+[Budgeting](..\budgeting.md)
 
-[Cost accounting](../cost-accounting.md)
+[Cost accounting](..\cost-accounting.md)
 
-[Fixed assets](../fixed-assets.md)
+[Fixed assets](..\fixed-assets.md)
 
-[Cash and bank management](../cash-and-bank-management.md)
+[Cash and bank management](..\cash-and-bank-management.md)
 
-[Travel and expense](../travel-and-expense.md)
+[Travel and expense](..\travel-and-expense.md)
 
-[Compliance and internal controls](../compliance-and-internal-controls.md)
+[Compliance and internal controls](..\compliance-and-internal-controls.md)
 
-[Human resources](../human-resources.md)
+[Human resources](..\human-resources.md)
 
-[Payroll](../payroll.md)
+[Payroll](..\payroll.md)
 
-[Procurement and sourcing](../procurement-and-sourcing.md)
+[Procurement and sourcing](..\procurement-and-sourcing.md)
 
-[Product information management](../product-information-management.md)
+[Product information management](..\product-information-management.md)
 
-[Master planning](../master-planning.md)
+[Master planning](..\master-planning.md)
 
-[Production control](../production-control.md)
+[Production control](..\production-control.md)
 
-[Inventory management](../inventory-management.md)
+[Inventory management](..\inventory-management.md)
 
-[Warehouse management](../warehouse-management.md)
+[Warehouse management](..\warehouse-management.md)
 
-[Transportation management](../transportation-management.md)
+[Transportation management](..\transportation-management.md)
 
-[Sales and marketing](../sales-and-marketing.md)
+[Sales and marketing](..\sales-and-marketing.md)
 
-[Call center](../call-center.md)
+[Call center](..\call-center.md)
 
-[Retail for application users](../retail-for-application-users.md)
+[Retail for application users](..\retail-for-application-users.md)
 
-[Retail essentials](../retail-essentials-retail-essentials.md)
+[Retail essentials](..\retail-essentials-retail-essentials.md)
 
-[Trade allowance management](../trade-allowance-management.md)
+[Trade allowance management](..\trade-allowance-management.md)
 
-[Project management and accounting](../project-management-and-accounting.md)
+[Project management and accounting](..\project-management-and-accounting.md)
 
-[Service management](../service-management.md)
+[Service management](..\service-management.md)
 
-[Public sector](../public-sector.md)
+[Public sector](..\public-sector.md)
 
-[Additional country/region-specific information](../additional-country-region-specific-information.md)
+[Additional country/region-specific information](..\additional-country-region-specific-information.md)
 
-[Enterprise portal (TechNet)](../enterprise-portal-technet.md)
+[Enterprise portal (TechNet)](..\enterprise-portal-technet.md)
 
-[Feedback](../feedback.md)
+[Feedback](..\feedback.md)
 
-[Microsoft Dynamics AX Developer Forms](../microsoft-dynamics-ax-developer-forms.md)
+[Microsoft Dynamics AX Developer Forms](..\microsoft-dynamics-ax-developer-forms.md)
 
 ## Get connected
 

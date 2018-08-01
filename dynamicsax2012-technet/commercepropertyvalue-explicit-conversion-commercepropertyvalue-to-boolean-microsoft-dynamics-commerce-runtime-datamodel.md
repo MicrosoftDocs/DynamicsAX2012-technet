@@ -61,7 +61,7 @@ The boolean value.
 
 [CommercePropertyValue Class](commercepropertyvalue-class-microsoft-dynamics-commerce-runtime-datamodel.md)
 
-[Explicit Overload](commercepropertyvalue%C2%A0explicit-conversion-operators-microsoft-dynamics-commerce-runtime-datamodel.md)
+[Explicit Overload](commercepropertyvalue-explicit-conversion-operators-microsoft-dynamics-commerce-runtime-datamodel.md)
 
 [Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)
 
