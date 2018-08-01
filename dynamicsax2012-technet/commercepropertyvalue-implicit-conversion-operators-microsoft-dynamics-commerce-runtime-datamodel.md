@@ -39,7 +39,7 @@ dev_langs:
 </tr>
 <tr class="odd">
 <td><img src="images/Dn737568.puboperator(en-us,AX.60).gif" title="Public operator" alt="Public operator" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
-<td><a href="commercepropertyvalue-implicit-conversion-datetimeoffset-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(DateTimeOffset to CommercePropertyValue)</a></td>
+<td><a href="commercepropertyvalueimplicit-conversion-datetimeoffset-to-commercepropertyvalue-microsoft-dynamics-commerce-runtime-datamodel.md">Implicit(DateTimeOffset to CommercePropertyValue)</a></td>
 <td>Defines implicit DateTimeOffset-to-CommercePropertyValue conversion operator.</td>
 </tr>
 <tr class="even">
