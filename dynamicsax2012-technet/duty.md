@@ -19,8 +19,6 @@ f1_keywords:
 
 ## See also
 
-[duty](https://technet.microsoft.com/en-us/library/hh877323\(v=ax.60\))
-
 [job](job.md)
 
 [privilege](privilege.md)

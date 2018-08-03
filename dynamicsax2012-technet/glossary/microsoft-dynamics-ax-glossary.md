@@ -94,7 +94,7 @@ f1_keywords:
 <td><p>3PL</p></td>
 <td><p>A party that provides logistics services to customers.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../service.md">service</a></p></td>
 </tr>
 <tr class="even">
@@ -440,7 +440,7 @@ f1_keywords:
 <td><p>A list of party records.</p>
 <p><strong>See also</strong></p>
 <p><a href="../global-address-book.md">global address book</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../record.md">record</a></p></td>
 </tr>
 <tr class="odd">
@@ -484,7 +484,7 @@ f1_keywords:
 <td><p>An arrangement between two or more parties based on a mutual understanding about their respective rights and obligations. A number of requirements must be satisfied for an agreement to be legally binding.</p>
 <p><strong>See also</strong></p>
 <p><a href="../obligation.md">obligation</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../purchase-agreement.md">purchase agreement</a></p>
 <p><a href="../right.md">right</a></p>
 <p><a href="../sales-agreement.md">sales agreement</a></p></td>
@@ -640,7 +640,7 @@ f1_keywords:
 <p><a href="../economic-resource.md">economic resource</a></p>
 <p><a href="../equity.md">equity</a></p>
 <p><a href="../liability.md">liability</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>assign</p></td>
@@ -883,7 +883,7 @@ f1_keywords:
 <p><strong>See also</strong></p>
 <p><a href="../benefit.md">benefit</a></p>
 <p><a href="../organization.md">organization</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="even">
 <td><p>benefit</p></td>
@@ -917,7 +917,7 @@ f1_keywords:
 <td><p>bill of exchange</p></td>
 <td><p>A source document that documents an unconditional request for a third-party to pay a second party on demand.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../source-document.md">source document</a></p></td>
 </tr>
 <tr class="odd">
@@ -1080,7 +1080,7 @@ f1_keywords:
 <td><p>business document</p></td>
 <td><p>A view of a source document that is issued by one party and received by one or more other parties.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../source-document.md">source document</a></p></td>
 </tr>
 <tr class="odd">
@@ -1260,14 +1260,14 @@ f1_keywords:
 <p><strong>See also</strong></p>
 <p><a href="../activity.md">activity</a></p>
 <p><a href="../location.md">location</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../product.md">product</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>category hierarchy</p></td>
 <td><p>A structure that orders categories using a superordinate-subordinate relationship.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh242303(v=ax.60)">category</a></p></td>
+<p><a href="../category.md">category</a></p></td>
 </tr>
 <tr class="even">
 <td><p>centralized processing</p></td>
@@ -1446,7 +1446,7 @@ f1_keywords:
 <td><p>commodity code hierarchy</p></td>
 <td><p>A category hierarchy that orders categories that are created from commodity codes.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh242303(v=ax.60)">category</a></p>
+<p><a href="../category.md">category</a></p>
 <p><a href="../category-hierarchy.md">category hierarchy</a></p></td>
 </tr>
 <tr class="even">
@@ -1795,7 +1795,7 @@ f1_keywords:
 <td><p>A business document that documents the delivery of products between two parties.</p>
 <p><strong>See also</strong></p>
 <p><a href="../business-document.md">business document</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../product.md">product</a></p></td>
 </tr>
 <tr class="odd">
@@ -1832,7 +1832,7 @@ f1_keywords:
 <td><p>A party who assumes a dependent role when it participates in a relationship with another party.</p>
 <p><strong>See also</strong></p>
 <p><a href="../dependent.md">dependent</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../role.md">role</a></p></td>
 </tr>
 <tr class="odd">
@@ -2048,7 +2048,7 @@ f1_keywords:
 <td><p>duty</p></td>
 <td><p>A responsibility to perform one or more tasks or to provide services for a job.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh877323(v=ax.60)">duty</a></p>
+<p><a href="../duty.md">duty</a></p>
 <p><a href="../job.md">job</a></p>
 <p><a href="../responsibility.md">responsibility</a></p>
 <p><a href="../service.md">service</a></p>
@@ -2349,7 +2349,7 @@ f1_keywords:
 <p><a href="../activity.md">activity</a></p>
 <p><a href="../location.md">location</a></p>
 <p><a href="../organization.md">organization</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../product.md">product</a></p></td>
 </tr>
 <tr class="odd">
@@ -2585,7 +2585,7 @@ f1_keywords:
 <td><p>A complete list of party records.</p>
 <p><strong>See also</strong></p>
 <p><a href="../address-book.md">address book</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../record.md">record</a></p></td>
 </tr>
 <tr class="even">
@@ -2898,7 +2898,7 @@ f1_keywords:
 <td><p>An Automated Clearing House (ACH) funds transfer between an originating party and a receiving party that involves at least one depository financial institution that is not located in the territorial jurisdiction of the United States.</p>
 <p><strong>See also</strong></p>
 <p><a href="../automated-clearing-house.md">Automated Clearing House</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>International Organization for Standardization</p></td>
@@ -2923,7 +2923,7 @@ f1_keywords:
 <td><p>The lead time required for an item to leave the shipping party and arrive at the receiving party.</p>
 <p><strong>See also</strong></p>
 <p><a href="../item.md">item</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Intrastat</p></td>
@@ -2972,7 +2972,7 @@ f1_keywords:
 <p><a href="../customer-invoice.md">customer invoice</a></p>
 <p><a href="../intercompany-customer-invoice.md">intercompany customer invoice</a></p>
 <p><a href="../intercompany-vendor-invoice.md">intercompany vendor invoice</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../payment.md">payment</a></p>
 <p><a href="../pro-forma-invoice.md">pro forma invoice</a></p>
 <p><a href="../source-document.md">source document</a></p>
@@ -3024,7 +3024,7 @@ f1_keywords:
 <p><a href="../item.md">item</a></p>
 <p><a href="../kanban-rule.md">kanban rule</a></p>
 <p><a href="../product-dimension.md">product dimension</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208802(v=ax.60)">reference</a></p></td>
+<p><a href="../reference.md">reference</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Back to top</p></td>
@@ -3246,7 +3246,7 @@ f1_keywords:
 <td><p>license code</p></td>
 <td><p>An alphanumeric key that grants a party the right to use software or software components as prescribed in the terms of the license agreement, and that activates and inactivates software modules, software capabilities, and software functions.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../right.md">right</a></p></td>
 </tr>
 <tr class="even">
@@ -3278,7 +3278,7 @@ f1_keywords:
 <p><strong>See also</strong></p>
 <p><a href="../asset.md">asset</a></p>
 <p><a href="../liability.md">liability</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>liquidity classification</p></td>
@@ -3286,7 +3286,7 @@ f1_keywords:
 <p><strong>See also</strong></p>
 <p><a href="../classification.md">classification</a></p>
 <p><a href="../liquidity.md">liquidity</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="even">
 <td><p>liquidity ratio</p></td>
@@ -3295,7 +3295,7 @@ f1_keywords:
 <p><a href="../asset.md">asset</a></p>
 <p><a href="../liability.md">liability</a></p>
 <p><a href="../liquidity.md">liquidity</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>load</p></td>
@@ -3385,7 +3385,7 @@ f1_keywords:
 <p><strong>See also</strong></p>
 <p><a href="../economic-resource.md">economic resource</a></p>
 <p><a href="../legal-entity.md">legal entity</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>main account category</p></td>
@@ -3426,7 +3426,7 @@ f1_keywords:
 <p><a href="../activity.md">activity</a></p>
 <p><a href="../business-event.md">business event</a></p>
 <p><a href="../location.md">location</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../product.md">product</a></p>
 <p><a href="../record.md">record</a></p>
 <p><a href="../reference-data.md">reference data</a></p>
@@ -3685,7 +3685,7 @@ f1_keywords:
 <td><p>non-recoverable sales tax</p></td>
 <td><p>A sales tax levied on purchased products that is not deducted from the sales tax levied on the sale of the purchased products when both sales taxes are paid by the same party.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../product.md">product</a></p>
 <p><a href="../sales-tax.md">sales tax</a></p></td>
 </tr>
@@ -3971,7 +3971,7 @@ f1_keywords:
 <td><p>participant</p></td>
 <td><p>A party that contributes to a process or assumes a role in a relationship.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../process.md">process</a></p>
 <p><a href="../role.md">role</a></p></td>
 </tr>
@@ -4319,7 +4319,7 @@ f1_keywords:
 <td><p>procurement catalog</p></td>
 <td><p>A listing of product offerings that are grouped by procurement category. A procurement catalog is used to request products for internal use by an organization.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh242303(v=ax.60)">category</a></p>
+<p><a href="../category.md">category</a></p>
 <p><a href="../organization.md">organization</a></p>
 <p><a href="../product.md">product</a></p></td>
 </tr>
@@ -4327,7 +4327,7 @@ f1_keywords:
 <td><p>procurement category hierarchy</p></td>
 <td><p>A category hierarchy that orders categories that are created to group products that have similar procurement management and accounting characteristics.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh242303(v=ax.60)">category</a></p>
+<p><a href="../category.md">category</a></p>
 <p><a href="../category-hierarchy.md">category hierarchy</a></p>
 <p><a href="../product.md">product</a></p></td>
 </tr>
@@ -4517,7 +4517,7 @@ f1_keywords:
 <td><p>A source document that documents an agreement between two parties based on an understanding that one party will commit to paying the other party at a specified time or on demand.</p>
 <p><strong>See also</strong></p>
 <p><a href="../agreement.md">agreement</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../source-document.md">source document</a></p></td>
 </tr>
 <tr class="even">
@@ -4562,7 +4562,7 @@ f1_keywords:
 <p><strong>See also</strong></p>
 <p><a href="../agreement.md">agreement</a></p>
 <p><a href="../discount.md">discount</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../price.md">price</a></p>
 <p><a href="../product.md">product</a></p>
 <p><a href="../quantity.md">quantity</a></p>
@@ -4572,7 +4572,7 @@ f1_keywords:
 <td><p>purchase agreement policy</p></td>
 <td><p>A policy that authorizes parties to modify purchase agreement terms.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../policy.md">policy</a></p>
 <p><a href="../purchase-agreement.md">purchase agreement</a></p>
 <p><a href="../sales-agreement-policy.md">sales agreement policy</a></p></td>
@@ -4719,7 +4719,7 @@ f1_keywords:
 <p><a href="../product.md">product</a></p>
 <p><a href="../quantity.md">quantity</a></p>
 <p><a href="../quantity-variance.md">quantity variance</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208895(v=ax.60)">variance</a></p></td>
+<p><a href="../variance.md">variance</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>quantity variance</p></td>
@@ -4728,7 +4728,7 @@ f1_keywords:
 <p><a href="../product.md">product</a></p>
 <p><a href="../quantity.md">quantity</a></p>
 <p><a href="../quantity-variance.md">quantity variance</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208895(v=ax.60)">variance</a></p></td>
+<p><a href="../variance.md">variance</a></p></td>
 </tr>
 <tr class="even">
 <td><p>query-based report</p></td>
@@ -4864,7 +4864,7 @@ f1_keywords:
 <p><strong>See also</strong></p>
 <p><a href="../activity.md">activity</a></p>
 <p><a href="../location.md">location</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../product.md">product</a></p></td>
 </tr>
 <tr class="even">
@@ -4883,7 +4883,7 @@ f1_keywords:
 <td><p>recoverable sales tax</p></td>
 <td><p>A sales tax levied on purchased products that is deducted from the sales tax levied on the sale of the purchased products when both sales taxes are paid by the same party.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../product.md">product</a></p>
 <p><a href="../sales-tax.md">sales tax</a></p></td>
 </tr>
@@ -4951,7 +4951,7 @@ f1_keywords:
 <td><p>To reintroduce interest or fees that were originally waived for a party.</p>
 <p><strong>See also</strong></p>
 <p><a href="../interest.md">interest</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>relate</p></td>
@@ -5064,7 +5064,7 @@ f1_keywords:
 <td><p>respondent</p></td>
 <td><p>A party that provides a response.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>responsibility</p></td>
@@ -5072,7 +5072,7 @@ f1_keywords:
 <p><strong>See also</strong></p>
 <p><a href="../job.md">job</a></p>
 <p><a href="../obligation.md">obligation</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="even">
 <td><p>restricted product</p></td>
@@ -5205,7 +5205,7 @@ f1_keywords:
 <p><strong>See also</strong></p>
 <p><a href="../agreement.md">agreement</a></p>
 <p><a href="../discount.md">discount</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../price.md">price</a></p>
 <p><a href="../product.md">product</a></p>
 <p><a href="../quantity.md">quantity</a></p>
@@ -5215,7 +5215,7 @@ f1_keywords:
 <td><p>sales agreement policy</p></td>
 <td><p>A policy that authorizes parties to modify sales agreement terms.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../policy.md">policy</a></p>
 <p><a href="../purchase-agreement-policy.md">purchase agreement policy</a></p>
 <p><a href="../sales-agreement.md">sales agreement</a></p></td>
@@ -5330,7 +5330,7 @@ f1_keywords:
 <td><p>security model</p></td>
 <td><p>A structure that organizes application access control permissions by using privilege, duty, and business process classifiers and that grants permissions that are aggregated into duties to user role assignments.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh877323(v=ax.60)">duty</a></p>
+<p><a href="../duty.md">duty</a></p>
 <p><a href="../permission.md">permission</a></p>
 <p><a href="../privilege.md">privilege</a></p>
 <p><a href="../role.md">role</a></p></td>
@@ -5347,7 +5347,7 @@ f1_keywords:
 <p><strong>See also</strong></p>
 <p><a href="../asset.md">asset</a></p>
 <p><a href="../authorize.md">authorize</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh877323(v=ax.60)">duty</a></p>
+<p><a href="../duty.md">duty</a></p>
 <p><a href="../record.md">record</a></p></td>
 </tr>
 <tr class="odd">
@@ -5371,7 +5371,7 @@ f1_keywords:
 <p><strong>See also</strong></p>
 <p><a href="../activity.md">activity</a></p>
 <p><a href="../item.md">item</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../product.md">product</a></p>
 <p><a href="../right.md">right</a></p>
 <p><a href="../state.md">state</a></p></td>
@@ -5548,7 +5548,7 @@ f1_keywords:
 <td><p>state</p></td>
 <td><p>The condition of a system, process, or party.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../process.md">process</a></p></td>
 </tr>
 <tr class="odd">
@@ -5773,7 +5773,7 @@ f1_keywords:
 <td><p>The difference between an expected tax and an actual tax.</p>
 <p><strong>See also</strong></p>
 <p><a href="../tax.md">tax</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208895(v=ax.60)">variance</a></p></td>
+<p><a href="../variance.md">variance</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>taxable amount</p></td>
@@ -5805,7 +5805,7 @@ f1_keywords:
 <td><p>third-party logistics</p></td>
 <td><p>A party that provides logistics services to customers.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../service.md">service</a></p></td>
 </tr>
 <tr class="even">
@@ -5849,7 +5849,7 @@ f1_keywords:
 <td><p>A relationship that is formed when a buying party and a selling party enter into an agreement.</p>
 <p><strong>See also</strong></p>
 <p><a href="../agreement.md">agreement</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="even">
 <td><p>transaction</p></td>
@@ -6114,7 +6114,7 @@ f1_keywords:
 <p><a href="../approved-vendor.md">approved vendor</a></p>
 <p><a href="../disallowed-vendor.md">disallowed vendor</a></p>
 <p><a href="../legal-entity.md">legal entity</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../payment.md">payment</a></p>
 <p><a href="../product.md">product</a></p>
 <p><a href="../prospective-vendor.md">prospective vendor</a></p>
@@ -6127,7 +6127,7 @@ f1_keywords:
 <p><a href="../activity.md">activity</a></p>
 <p><a href="../expenditure.md">expenditure</a></p>
 <p><a href="../location.md">location</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p>
+<p><a href="../party.md">party</a></p>
 <p><a href="../product.md">product</a></p>
 <p><a href="../vendor.md">vendor</a></p>
 <p><a href="../vendor-invoice.md">vendor invoice</a></p></td>
@@ -6191,7 +6191,7 @@ f1_keywords:
 <td><p>To withdraw the interest or fees originally owed by a party.</p>
 <p><strong>See also</strong></p>
 <p><a href="../interest.md">interest</a></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="even">
 <td><p>wave</p></td>
@@ -6346,7 +6346,7 @@ f1_keywords:
 <td><p>write off</p></td>
 <td><p>To remove a debt that will not be paid by a party.</p>
 <p><strong>See also</strong></p>
-<p><a href="../https://technet.microsoft.com/en-us/library/hh208669(v=ax.60)">party</a></p></td>
+<p><a href="../party.md">party</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Back to top</p></td>
