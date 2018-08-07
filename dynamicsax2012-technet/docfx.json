@@ -55,7 +55,8 @@
                                          "ms.topic":  "conceptual",
                                          "feedback_system": "GitHub",
                                          "feedback_github_repo": "MicrosoftDocs/DynamicsAX2012-technet",
-                                         "feedback_product_url": "https://community.dynamics.com/ax"   
+                                         "feedback_product_url": "https://community.dynamics.com/ax",
+                                         "open_to_public_contributors": true
                                      },
                   "fileMetadata":  {
 
