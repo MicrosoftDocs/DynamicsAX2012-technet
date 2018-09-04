@@ -15,7 +15,7 @@ f1_keywords:
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/data-importexport-framework-entities-dixf-dmf/) in the Dynamics AX Help wiki.
+This content has been moved to [this topic](https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/entities-dixf).
 
   
 
