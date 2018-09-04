@@ -13,7 +13,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-This content has been moved [to this topic](http://authoring.help.dynamics.com/en/wiki/demo-files-for-the-data-importexport-framework-dixf-dmf) in the Dynamics AX Help wiki.
+This content has been moved to [this topic](https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/demo-files-dixf).
 
   
 

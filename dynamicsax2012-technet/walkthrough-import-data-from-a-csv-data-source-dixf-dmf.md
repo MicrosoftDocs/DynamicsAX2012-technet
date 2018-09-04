@@ -13,7 +13,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/walkthrough-import-data-from-a-csv-data-source-dixf-dmf/) in the Dynamics AX Help wiki.
+This content has been moved to [this topic](https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/import-data-csv-data-source-dixf).
 
   
 

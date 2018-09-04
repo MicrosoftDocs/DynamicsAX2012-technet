@@ -13,7 +13,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/walkthrough-copy-data-between-microsoft-dynamics-ax-companies-dixf-dmf/) in the Dynamics AX Help wiki.
+This content has been moved to [this topic](https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/copy-data-between-companies-dixf).
 
   
 

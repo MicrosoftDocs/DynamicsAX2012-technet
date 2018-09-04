@@ -13,7 +13,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
-This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/install-the-dynamics-ax-2012-r2-cu7-version-of-the-data-importexport-framework-for-use-with-sql-server-2014-dixf/) in the Dynamics AX Help wiki.
+This content has been moved to [this topic](https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/install-dixf-ax-2012-r2-cu7-ss-2014).
 
   
 
