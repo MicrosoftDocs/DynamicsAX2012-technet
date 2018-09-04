@@ -13,7 +13,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
-This content has been moved [to this topic](http://ax.help.dynamics.com/en/wiki/configure-the-version-of-sql-server-integration-services-used-by-the-data-importexport-framework-in-an-environment-with-multiple-versions-dixf) in the Dynamics AX Help wiki.
+This content has been moved to [this topic](https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/configure-sql-server-integration-services-multiple-versions-dixf).
 
   
 
