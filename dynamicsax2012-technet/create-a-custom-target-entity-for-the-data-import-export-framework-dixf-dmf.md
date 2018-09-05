@@ -38,7 +38,7 @@ The **Create a custom entity for data import/export Wizard** lets you quickly cr
 4.  On the **Fields in the target table** page, select the fields for the target table. Click **Next**.
 5.  On the **Wizard complete** page, click **Finish**. The Data Import/Export Framework opens the Microsoft Dynamics AX Application Object Tree (AOT) and creates a project for the custom entity in the current layer.
 6.  If the table that you selected uses an extended data type (EDT), you are asked two times whether you want to add the ForeignKey relation from the EDT to the new staging table. Click **Yes** each time to create the ForeignKey relationship.
-7.  Add the custom entity as a new target entity. Depending on the entity, some manual steps might be required. For more information about how to create a target entity, see [Migrate data by using the Data Import/Export Framework (DIXF)](migrate-data-dixf.md).
+7.  Add the custom entity as a new target entity. Depending on the entity, some manual steps might be required. For more information about how to create a target entity, see [Migrate data by using the Data Import/Export Framework (DIXF)](migrating-data-using-the-data-import-export-framework-dixf-dmf.md).
 
 ## Manually create a custom entity
 This section describes how to manually create a custom entity.
