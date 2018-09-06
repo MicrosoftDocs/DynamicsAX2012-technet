@@ -4,7 +4,7 @@ TOCTitle: Copy data between Dynamics AX companies
 ms:assetid: 22da2080-7ef6-4a60-8917-e2cd5557c61e
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn221768(v=AX.60)
 ms:contentKeyID: 54161562
-ms.date: 01/20/2016
+ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---
 
@@ -15,7 +15,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can use the Microsoft Dynamics AX 2012 Data Import/Export Framework to copy an entity, such as customers, from one Microsoft Dynamics AX legal entity (company) to another. In this example, we will export customers in a specific customer group from the CEU company to the CEC company in the Contoso data set.
 
-**Note:** This walkthrough is not intended for users of the versions of the Data Import/Export Framework that ship with cumulative update 7 for Microsoft Dynamics AX 2012 R2 or Microsoft Dynamics AX 2012 R3. Those users should refer to the topic [Copying and comparing entity data between companies (DIXF, DMF)](copy-compare-entity-data-between-companies-dixf.md). This walkthrough illustrates the following tasks:
+**Note:** This walkthrough is not intended for users of the versions of the Data Import/Export Framework that ship with cumulative update 7 for Microsoft Dynamics AX 2012 R2 or Microsoft Dynamics AX 2012 R3. Those users should refer to the topic [Copy and compare entity data between companies](copying-and-comparing-entity-data-between-companies-dixf-dmf.md). This walkthrough illustrates the following tasks:
 
 -   Define the format of your source data
 -   Define a processing group
