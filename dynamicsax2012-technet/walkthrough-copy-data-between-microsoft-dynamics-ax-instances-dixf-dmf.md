@@ -30,7 +30,7 @@ To complete this walkthrough you will need:
 -   Data Import/Export Framework
 -   Demo data for Microsoft Dynamics AX 2012, Microsoft Dynamics AX 2012 R2, or Microsoft Dynamics AX 2012 R3
 
-The following diagram illustrates the path that data takes during the export and import processes. [![WalkthroughCopyDataBetweenAXInstances1](./images/walkthroughcopydatabetweenaxinstances1.jpg)](./images/walkthroughcopydatabetweenaxinstances1.jpg)
+The following diagram illustrates the path that data takes during the export and import processes. [![WalkthroughCopyDataBetweenAXInstances1](images/walkthroughcopydatabetweenaxinstances1.jpg)](images/walkthroughcopydatabetweenaxinstances1.jpg)
 
 ## Define the format of your source data
 1.  Open **Data Import/Export Framework** &gt; **Setup** &gt; **Source data formats**.
