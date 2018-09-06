@@ -4,7 +4,7 @@ TOCTitle: Import data from CSV data sources
 ms:assetid: 8aad7f27-be82-4675-b048-b27361bc621f
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn144988(v=AX.60)
 ms:contentKeyID: 52249878
-ms.date: 01/20/2016
+ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---
 
@@ -32,7 +32,7 @@ To complete this walkthrough you will need:
 -   Data Import/Export Framework
 
 ## Find a CSV file to use as a source
-To work through this example, use any of the delimited demo files that are shipped with the Data Import/Export Framework. For more information on the demo files, see [Demo files for the Data import/export framework (DIXF, DMF)](demo-files-dixf.md).
+To work through this example, use any of the delimited demo files that are shipped with the Data Import/Export Framework. For more information on the demo files, see [Demo files for the Data Import/Export Framework (DIXF))](demo-files-for-the-data-import-export-framework-dixf-dmf.md).
 
 ## Define the format of your source data
 1.  Open **Data Import/Export Framework**, and then click **Setup** &gt; **Source data formats**.
