@@ -24,7 +24,7 @@ You can use the Microsoft Dynamics AX 2012 Data Import/Export Framework to copy 
 -   Validate the data in staging
 -   Validate the data in target
 
-The following diagram illustrates the path that data takes during the export and import processes. [![WalkthroughCopyDataBetweenAXCompanies1](./media/walkthroughcopydatabetweenaxcompanies1.jpg)](./media/walkthroughcopydatabetweenaxcompanies1.jpg)
+The following diagram illustrates the path that data takes during the export and import processes. [![WalkthroughCopyDataBetweenAXCompanies1](./images/walkthroughcopydatabetweenaxcompanies1.jpg)](./images/walkthroughcopydatabetweenaxcompanies1.jpg)
 
 ## Prerequisites
 To complete this walkthrough you will need:
