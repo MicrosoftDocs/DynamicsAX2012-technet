@@ -32,7 +32,7 @@ To complete this walkthrough you will need:
 -   Data Import/Export Framework
 
 ## Find a CSV file to use as a source
-To work through this example, use any of the delimited demo files that are shipped with the Data Import/Export Framework. For more information on the demo files, see [Demo files for the Data Import/Export Framework (DIXF))](demo-files-for-the-data-import-export-framework-dixf-dmf.md).
+To work through this example, use any of the delimited demo files that are shipped with the Data Import/Export Framework. For more information on the demo files, see [Demo files for the Data Import/Export Framework (DIXF)](demo-files-for-the-data-import-export-framework-dixf-dmf.md).
 
 ## Define the format of your source data
 1.  Open **Data Import/Export Framework**, and then click **Setup** &gt; **Source data formats**.
