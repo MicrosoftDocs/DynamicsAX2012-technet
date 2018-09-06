@@ -4,7 +4,7 @@ TOCTitle: Copy data between Dynamics AX instances
 ms:assetid: 10c0a510-b770-4710-aac2-14b26a9f2065
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn144987(v=AX.60)
 ms:contentKeyID: 52249879
-ms.date: 01/20/2016
+ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---
 
@@ -30,7 +30,7 @@ To complete this walkthrough you will need:
 -   Data Import/Export Framework
 -   Demo data for Microsoft Dynamics AX 2012, Microsoft Dynamics AX 2012 R2, or Microsoft Dynamics AX 2012 R3
 
-The following diagram illustrates the path that data takes during the export and import processes. [![WalkthroughCopyDataBetweenAXInstances1](./media/walkthroughcopydatabetweenaxinstances1.jpg)](./media/walkthroughcopydatabetweenaxinstances1.jpg)
+The following diagram illustrates the path that data takes during the export and import processes. [![WalkthroughCopyDataBetweenAXInstances1](./images/walkthroughcopydatabetweenaxinstances1.jpg)](./images/walkthroughcopydatabetweenaxinstances1.jpg)
 
 ## Define the format of your source data
 1.  Open **Data Import/Export Framework** &gt; **Setup** &gt; **Source data formats**.
@@ -70,7 +70,7 @@ The following diagram illustrates the path that data takes during the export and
 5.  On the **Batch** tab, select the batch group that you want the import file to be processed with. All import jobs are run as batch tasks.
 
 ## Validate the data in target
-Verify that the customer data from the original instance is now displayed in the **All Customers** form. Click **Accounts receivable** &gt; **Common** &gt; **Customer** &gt; **All Customers **form.
+Verify that the customer data from the original instance is now displayed in the **All Customers** form. Click **Accounts receivable** &gt; **Common** &gt; **Customer** &gt; **All Customers** form.
 
 
 
