@@ -4,7 +4,7 @@ TOCTitle: Install the AX 2012 R2 CU7 DIXF for SQL Server 2014
 ms:assetid: 2427411b-d3b1-4382-85b5-d9a8f9eb5ff9
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn878170(v=AX.60)
 ms:contentKeyID: 63701237
-ms.date: 03/26/2016
+ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---
 
@@ -105,7 +105,7 @@ If you supply the **Install-DIXFService.ps1** script with the appropriate parame
 Additional resources
 --------
 
-[Configure the version of SQL Server Integration Services used by the Data import/export framework in an environment with multiple versions (DIXF)](configure-sql-server-integration-services-multiple-versions-dixf.md)
+[Specify the version of Integration Services that the Data Import/Export Framework uses](configure-the-version-of-sql-server-integration-services-used-by-the-data-import-export-framework-in-an-environment-with-multiple-versions-dixf.md)
 
 
   
