@@ -17,7 +17,7 @@ Various versions of the Data Import/Export Framework are available. The version 
 
 -   For Microsoft Dynamics AX 2012 R3, use the version of the Data Import/Export Framework that is included in that release.
 -   For Microsoft Dynamics AX 2012 R2, use the version of the Data Import/Export Framework that is available in cumulative update 7 for Microsoft Dynamics AX 2012 R2.
--   For AX 2012 or Microsoft Dynamics AX 2012 Feature Pack, use the version of the Data Import/Export Framework that is available from the [Lifecycle Services Downloadable Tools (formerly on InformationSource)](dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/lcs-downloadable-tools-formerly-informationsource).
+-   For AX 2012 or Microsoft Dynamics AX 2012 Feature Pack, use the version of the Data Import/Export Framework that is available from the [Downloadable tools in Lifecycle Services (LCS))](/dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/lcs-downloadable-tools-formerly-informationsource).
 
 | **Note**                                                                                                                                                                                                                                                                                                                                                                                                         |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,12 +26,12 @@ Various versions of the Data Import/Export Framework are available. The version 
 ## Architecture
 The following diagram shows the architecture of the Data Import/Export Framework. 
 
-![Data Migration Framework architecture diagram](./images/dmfarchitecture.png) 
+![Data Migration Framework architecture diagram](/images/dmfarchitecture.png) 
 
 The Data Import/Export Framework creates a staging table for each entity in the Microsoft Dynamics AX database where the target table resides. Data that is being migrated is first moved to the staging table. There, you can verify the data, and perform any cleanup or conversion that is required. You can then move the data to the target table or export it.
 
 ## The Import/Export Process
-The following diagram shows the steps that are required to import or export data in Microsoft Dynamics AX. ![Data Migration Framework configuration diagram](./images/dmfconfiguration.png)
+The following diagram shows the steps that are required to import or export data in Microsoft Dynamics AX. ![Data Migration Framework configuration diagram](/images/dmfconfiguration.png)
 1.  Determine the source of the data to export or import, and create a source data format for the data. For export, the source is **AX**. For import, you can use any of the following sources:
     -   **AX** – Import data from another Microsoft Dynamics AX instance.
     -   **ODBC** – Import data from another database, such as Microsoft SQL Server or Microsoft Access.
