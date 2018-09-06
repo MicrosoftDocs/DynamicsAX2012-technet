@@ -4,7 +4,7 @@ TOCTitle: Import data from ODBC data sources
 ms:assetid: f1570468-5e05-47af-b233-fc7db23e2191
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn144989(v=AX.60)
 ms:contentKeyID: 52249880
-ms.date: 01/20/2016
+ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---
 
