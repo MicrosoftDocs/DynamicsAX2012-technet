@@ -25,6 +25,11 @@ Transaction amounts and sales tax amounts are summed for each main account.
 
 Starting with cumulative update 7 for Microsoft Dynamics AX 2012 R2, this report includes options that let you sort the report by sales tax code or ledger account, include subtotals by sales tax code, and print only totals or both totals and details.
 
+> [!IMPORTANT]
+> - If you use the **Select** button (Journal number, Voucher) to generate your report query, the accounts that have references to sales tax are pulled into the report and Sales tax accounts are skipped.
+> - If you don't use the **Select** button (Journal number, Voucher) to generate your report query, all accounts are pulled into the report, including the sales tax accounts.
+
+
 ## How to filter the data on this report
 
 When you generate this report, the following default parameters are displayed. You can use these parameters to filter the data that will be displayed on the report. For more information, see [Filter the data on a report](filter-the-data-on-a-report.md).
