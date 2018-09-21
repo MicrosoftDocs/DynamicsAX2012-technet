@@ -36,7 +36,6 @@ For example, you could use the query to:
 
   - Show sales or transfer backorders for which there is an actual on-hand, so that one or more orders can be fulfilled.
 
-  - Show all sales backorders, regardless of the actual on-hand.
 
 ## Order picking forms
 
