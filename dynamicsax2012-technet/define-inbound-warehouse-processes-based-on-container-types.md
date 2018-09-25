@@ -71,7 +71,7 @@ The **Container types** information is evaluated first, as part of the location 
     
 
     > [!NOTE]
-    > <P>Depending on the existing unit conversions between the container type units, locations can store a greater variety of container types. Please note that it will only be possible to define one of the units in the location stocking limits, the unit convertion will be used to handle the other related units.</P>
+    > <P>Depending on the existing unit conversions between the container type units, locations can store a greater variety of container types. Please note that it will only be possible to define one of the units in the location stocking limits, the unit conversion will be used to handle the other related units.</P>
 
 
 
