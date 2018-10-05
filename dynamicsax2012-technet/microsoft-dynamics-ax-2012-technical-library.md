@@ -13,25 +13,12 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><img src="images/Gg852966.AXlogo(AX.60).png" title="Microsoft Dynamics AX logo" alt="Microsoft Dynamics AX logo" /></td>
-<td><p>Welcome to the Microsoft Dynamics AX 2012 Application User and IT Professional Technical Library. This library contains updated content that explains how to deploy, configure, and use Microsoft Dynamics AX 2012.</p>
-  
-<p>For developer content please see the <a href="/dynamicsax-2012/developer/microsoft-dynamics-ax-2012-for-developers">Microsoft Dynamics AX Developer Library</a>.</p>
-</td>
-</tr>
-</tbody>
-</table>
-
 Welcome to the Microsoft Dynamics AX 2012 Application User and IT Professional Technical Library. This library contains updated content that explains how to deploy, configure, and use Microsoft Dynamics AX 2012.
 
-For developer content please see the <a href="/dynamicsax-2012/developer/microsoft-dynamics-ax-2012-for-developers">Microsoft Dynamics AX Developer Library</a>.
+For developer content please see the [Microsoft Dynamics AX Developer Library](https://docs.microsoft.com/en-us/dynamicsax-2012/developer/microsoft-dynamics-ax-2012-for-developers).
+
+> [!Note]
+> Mainstream support for Dynamics AX 2012 and Dynamics AX 2012 R2 ends on October 9, 2018. After that date, only security hotfixes will continue to be provided for these versions through the extended support period that continues until October 12, 2021. For more information, see [End of mainstream support for Microsoft Dynamics AX 2009, Dynamics AX 2012, and Dynamics AX 2012 R2](https://docs.microsoft.com/en-us/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012).
 
 ## Get started
 
