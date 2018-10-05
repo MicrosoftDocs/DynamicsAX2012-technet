@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics AX 2012 Application User and IT Professional Techni
 ms:assetid: 89085fa3-cec3-4651-bee5-907470e2d4bd
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg852966(v=AX.60)
 ms:contentKeyID: 35267556
-ms.date: 04/28/2014
+ms.date: 10/05/2018
 mtps_version: v=AX.60
 ---
 
@@ -29,6 +29,9 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 </tbody>
 </table>
 
+Welcome to the Microsoft Dynamics AX 2012 Application User and IT Professional Technical Library. This library contains updated content that explains how to deploy, configure, and use Microsoft Dynamics AX 2012.
+
+For developer content please see the <a href="/dynamicsax-2012/developer/microsoft-dynamics-ax-2012-for-developers">Microsoft Dynamics AX Developer Library</a>.
 
 ## Get started
 
