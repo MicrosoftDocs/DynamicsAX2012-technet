@@ -4,7 +4,7 @@ TOCTitle: Configuration in the Intelligent Data Management Framework (IDMF)
 ms:assetid: 4b14f8d0-7c9e-430b-9e4d-2fd392338b0d
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh389758(v=AX.60)
 ms:contentKeyID: 36899737
-ms.date: 01/20/2016
+ms.date: 10/11/2018
 mtps_version: v=AX.60
 ---
 
@@ -29,7 +29,7 @@ It is very important that your hierarchical relationship include all relevant ta
 
 We recommend that you create a Purge Object or an Archive Object through the discovery process instead of opening and saving a template. Compare your object with the template, if a similar template exists, to see whether your object is missing any tables that the template contains. Depending on the comparison and verification, add tables to or remove tables from your object, as appropriate. Each Archive Object or Purge Object contains certain rules that govern the archiving or purging of data. Rules let you specify the selection criteria that are used to select the data that is qualified for purging or archiving. You can add, remove, or modify these rules to match your archive and purge guidelines. You must save an Archive Object or a Purge Object before you can use it in a purge or archive task. IDMF provides a graphical view of your Purge Object or Archive Object that resembles the sample that is shown in the following diagram. Familiarize yourself with the legend, so that you can easily understand and validate your Archive Objects and Purge Objects. 
 
-![IDMF archive object](./media/idmfarchiveobject.png) 
+![IDMF archive object](./images/idmfarchiveobject.png) 
 
 The following table explains the legend that is shown in a relationship tree of an object or a template.
 
