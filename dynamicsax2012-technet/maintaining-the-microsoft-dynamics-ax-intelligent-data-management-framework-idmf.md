@@ -4,7 +4,7 @@ TOCTitle: Maintaining IDMF
 ms:assetid: 2d4c8d56-c5bd-427a-85fc-432e80a07dd4
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh389754(v=AX.60)
 ms:contentKeyID: 36899733
-ms.date: 01/20/2016
+ms.date: 10/11/2018
 mtps_version: v=AX.60
 ---
 
