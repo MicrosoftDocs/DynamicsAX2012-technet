@@ -4,7 +4,7 @@ TOCTitle: Intelligent Data Management Framework
 ms:assetid: fb2bbc8b-e040-42aa-944d-866d6e368acb
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh378082(v=AX.60)
 ms:contentKeyID: 36870665
-ms.date: 01/20/2016
+ms.date: 10/11/2018
 mtps_version: v=AX.60
 ---
 
