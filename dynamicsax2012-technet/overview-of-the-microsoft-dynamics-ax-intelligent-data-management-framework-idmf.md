@@ -4,7 +4,7 @@ TOCTitle: Intelligent Data Management Framework (IDMF)
 ms:assetid: c8ad334b-84ec-4ce4-8505-f7113ee8f21b
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh389766(v=AX.60)
 ms:contentKeyID: 36899745
-ms.date: 10/11/2018
+ms.date: 10/12/2018
 mtps_version: v=AX.60
 ---
 
@@ -36,7 +36,7 @@ To benefit from this topic, you must have knowledge in the following areas:
 ## System architecture
 This section provides a high-level overview of the system architecture of IDMF. IDMF was created using the Microsoft .NET development environment and provides a single document interface (SDI). IDMF uses a database, called the management database, for the storage and retrieval of data, and communicates with an Application Object Server (AOS) instance through the .NET Business Connector. The AOS processes all the business logic and database queries to access the Microsoft Dynamics AX application database. You must install the business connector on the computer where you install IDMF. During installation, IDMF installs a Windows service called the Microsoft Dynamics AX Intelligent Data Management Framework service. This service is used to run scheduled jobs and is referred to as the scheduler service for IDMF. In the post-installation stage, IDMF uses the Microsoft Dynamics AX client to import and compile two X++ projects (XPOs). One XPO is used to create the application entities that are required by IDMF, such as classes, tables, and a job. The Microsoft Dynamics AX Windows client is used to import and synchronize the metadata from Microsoft Dynamics AX with IDMF. The following diagram provides a high-level overview of IDMF system architecture. 
 
-[![IDMF01](./images/idmf01.jpg)](./media/idmf01.jpg)   
+[![IDMF01](./images/idmf01.jpg)](./images/idmf01.jpg)   
 
 **Figure 1. System architecture**
 
