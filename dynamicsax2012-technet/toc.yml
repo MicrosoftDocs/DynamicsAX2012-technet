@@ -8479,17 +8479,17 @@
       - name: Code Upgrade Tool User Guide
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/code-upgrade-tool-user-guide?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Intelligent Data Management Framework
-        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/microsoft-idmf?toc=/dynamicsax-2012/appuser-itpro/toc.json
+        href: microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
         items:
         - name: Installation Guide for IDMF
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/installation-guide-idmf?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: installation-guide-for-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
         - name: Using IDMF
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/overview-idmf?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: overview-of-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
           items:
           - name: Analysis functionality in the IDMF workspace
-            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/analysis-functionality-idmf-workspace?toc=/dynamicsax-2012/appuser-itpro/toc.json
+            href: analysis-functionality-in-the-microsoft-dynamics-ax-intelligent-data-management-framework-workspace-idmf.md
           - name: Configuration functionality in the IDMF workspace
-            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/configuration-functionality-idmf-workspace?toc=/dynamicsax-2012/appuser-itpro/toc.json
+            href: configuration-functionality-in-the-microsoft-dynamics-ax-intelligent-data-management-framework-workspace-idmf.md
           - name: Create purge objects
             href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/create-purge-objects?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Create archive objects
@@ -8501,9 +8501,9 @@
           - name: Working with purge objects and archive objects
             href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/work-with-purge-objects-archive-objects?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Maintaining IDMF
-            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/maintain-idmf?toc=/dynamicsax-2012/appuser-itpro/toc.json
+            href: maintaining-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
           - name: Troubleshoot IDMF
-            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/troubleshoot-idmf?toc=/dynamicsax-2012/appuser-itpro/toc.json
+            href: troubleshoot-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
       - name: Performance Benchmark Software Development Toolkit (SDK) for Microsoft Dynamics AX 2012
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/performance-benchmark-software-development-toolkit-sdk-2012?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Security Development Tool User Guide
