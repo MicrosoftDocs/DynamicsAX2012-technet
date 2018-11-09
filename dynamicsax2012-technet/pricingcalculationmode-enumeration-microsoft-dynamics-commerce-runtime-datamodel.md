@@ -1,4 +1,4 @@
-﻿---
+---
 title: PricingCalculationMode Enumeration (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: PricingCalculationMode Enumeration
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataModel.PricingCalculationMode
@@ -62,7 +62,7 @@ public enum class PricingCalculationMode
 <tr class="even">
 <td></td>
 <td>Independent</td>
-<td>The set of lines should be interpreted separately. (E.g. for browing or publishing).</td>
+<td>The set of lines should be interpreted separately. (E.g. for browsing or publishing).</td>
 </tr>
 </tbody>
 </table>
