@@ -56,7 +56,7 @@ bool ToBool(
 #### Return Value
 
 Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
-True if value is true or "1". False otherwise or if convertion fails.  
+True if value is true or "1". False otherwise or if conversion fails.  
 
 ## See Also
 
