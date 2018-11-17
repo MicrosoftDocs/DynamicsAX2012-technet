@@ -716,7 +716,7 @@ The [IGiftCardLineItem](igiftcardlineitem-interface-microsoft-dynamics-retail-po
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="isalelineitemv1-weightmanuallyentered-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">WeightManuallyEntered</a></td>
-<td>Is set to true if weight was manully entered. (Inherited from <a href="isalelineitemv1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ISaleLineItemV1</a>.)</td>
+<td>Is set to true if weight was manually entered. (Inherited from <a href="isalelineitemv1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md">ISaleLineItemV1</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

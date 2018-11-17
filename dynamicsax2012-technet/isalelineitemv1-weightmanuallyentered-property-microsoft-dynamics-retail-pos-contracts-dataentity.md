@@ -16,7 +16,7 @@ dev_langs:
 
 # WeightManuallyEntered Property
 
-Is set to true if weight was manully entered.
+Is set to true if weight was manually entered.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.Pos.Contracts (in Microsoft.Dynamics.Retail.Pos.Contracts.dll)

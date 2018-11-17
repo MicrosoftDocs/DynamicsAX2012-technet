@@ -476,7 +476,7 @@ The [ISaleLineItemV1](isalelineitemv1-interface-microsoft-dynamics-retail-pos-co
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="isalelineitemv1-weightmanuallyentered-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">WeightManuallyEntered</a></td>
-<td>Is set to true if weight was manully entered.</td>
+<td>Is set to true if weight was manually entered.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
