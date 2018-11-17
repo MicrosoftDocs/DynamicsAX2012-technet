@@ -16,7 +16,7 @@ dev_langs:
 
 # DiscountsWereRemoved Property
 
-Wheather the discount was removed form the item.
+Whether the discount was removed form the item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.Pos.Contracts (in Microsoft.Dynamics.Retail.Pos.Contracts.dll)
