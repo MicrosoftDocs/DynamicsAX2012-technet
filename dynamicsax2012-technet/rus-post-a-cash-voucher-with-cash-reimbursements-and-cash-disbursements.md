@@ -77,7 +77,7 @@ You can reject the confirmed cash vouchers as needed. Rejected vouchers are disp
 
 8.  Click **OK**. After confirmation, a number is generated for the current cash document that corresponds to the number sequence in the **Order Number** field. The **approval status** is displayed as **Confirmed**.
 
-9.  Click **Document Approval** \>**Approve** to approve the document. In the **Approval Status** field, the document status is displayed as **Approved** and the **Post** button is activated. The **Cash order** menu item inthe**Print** button is activated. You cannot modify the details.
+9.  Click **Document Approval** \>**Approve** to approve the document. In the **Approval Status** field, the document status is displayed as **Approved** and the **Post** button is activated. The **Cash order** menu item in the **Print** button is activated. You cannot modify the details.
     
 
     > [!NOTE]
