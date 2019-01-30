@@ -280,8 +280,16 @@ You can’t complete the following operations when the channel database is offli
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>202</p></td>
+<td><p>Pay customer account</p></td>
+</tr>
+<tr class="even">
 <td><p>207</p></td>
 <td><p>Pay loyalty card</p></td>
+</tr>
+<tr class="odd">
+<td><p>623</p></td>
+<td><p>Edit customer</p></td>
 </tr>
 <tr class="even">
 <td><p>707</p></td>
@@ -292,22 +300,26 @@ You can’t complete the following operations when the channel database is offli
 <td><p>Inactivate device</p></td>
 </tr>
 <tr class="even">
+<td><p>801</p></td>
+<td><p>Inventory lookup</p></td>
+</tr>
+<tr class="odd">
 <td><p>1053</p></td>
 <td><p>Blind close shift</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1054</p></td>
 <td><p>Suspend shift</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1055</p></td>
 <td><p>Close shift</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1056</p></td>
 <td><p>Print X</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1057</p></td>
 <td><p>Reprint Z</p></td>
 </tr>
