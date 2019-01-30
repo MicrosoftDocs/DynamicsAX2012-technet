@@ -4,7 +4,7 @@ TOCTitle: Use Retail Modern POS in offline mode
 ms:assetid: 5aa3ede6-267c-4f3a-b1f8-86dac1b889bc
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn879453(v=AX.60)
 ms:contentKeyID: 63810525
-ms.date: 05/18/2015
+ms.date: 01/29/2019
 mtps_version: v=AX.60
 ---
 
@@ -128,88 +128,80 @@ You can complete the following operations when the channel database is offline.
 <td><p>Pay cash</p></td>
 </tr>
 <tr class="odd">
-<td><p>202</p></td>
-<td><p>Pay customer account</p></td>
-</tr>
-<tr class="even">
 <td><p>203</p></td>
 <td><p>Pay currency</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>206</p></td>
 <td><p>Pay cash quick</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>211</p></td>
 <td><p>Void payment</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>214</p></td>
 <td><p>Pay gift card</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>300</p></td>
 <td><p>Line discount amount</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>301</p></td>
 <td><p>Line discount percent</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>302</p></td>
 <td><p>Total discount amount</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>303</p></td>
 <td><p>Total discount percent</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>500</p></td>
 <td><p>Void transaction</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>501</p></td>
 <td><p>Transaction comment</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>503</p></td>
 <td><p>Suspend transaction</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>512</p></td>
 <td><p>Issue gift card</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>515</p></td>
 <td><p>Recall order</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>519</p></td>
 <td><p>Add to gift card</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>520</p></td>
 <td><p>Gift card balance</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>602</p></td>
 <td><p>Customer search</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>603</p></td>
 <td><p>Customer clear</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>612</p></td>
 <td><p>Customer add</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>622</p></td>
 <td><p>Search</p></td>
-</tr>
-<tr class="odd">
-<td><p>623</p></td>
-<td><p>Edit customer</p></td>
 </tr>
 <tr class="even">
 <td><p>701</p></td>
@@ -220,54 +212,50 @@ You can complete the following operations when the channel database is offline.
 <td><p>Lock register</p></td>
 </tr>
 <tr class="even">
-<td><p>801</p></td>
-<td><p>Inventory lookup</p></td>
-</tr>
-<tr class="odd">
 <td><p>802</p></td>
 <td><p>Stock count</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>917</p></td>
 <td><p>Database connection status</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>920</p></td>
 <td><p>Time clock</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>921</p></td>
 <td><p>View time clock entries</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>922</p></td>
 <td><p>View product details</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1003</p></td>
 <td><p>View reports</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1052</p></td>
 <td><p>Tender declaration</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1200</p></td>
 <td><p>Declare start amount</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1201</p></td>
 <td><p>Float entry</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1210</p></td>
 <td><p>Tender removal</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1211</p></td>
 <td><p>Safe drop</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1212</p></td>
 <td><p>Bank drop</p></td>
 </tr>
