@@ -4,7 +4,7 @@ TOCTitle: Import and create one-time vendors and invoices (Public sector)
 ms:assetid: 5ed26477-32df-4a8d-9e37-aa851c8287df
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn762313(v=AX.60)
 ms:contentKeyID: 63384521
-ms.date: 06/19/2015
+ms.date: 04/01/2019
 mtps_version: v=AX.60
 f1_keywords:
 - invoices
@@ -46,7 +46,7 @@ Because commas are used to separate the fields in a CSV file, do not use commas 
 
   - You can also quickly create a single one-time vendor and invoice. For more information, see [Create a one-time vendor and invoice (Public sector)](create-a-one-time-vendor-and-invoice-public-sector.md).
 
-[Follow this link to download a sample CSV file.](http://go.microsoft.com/fwlink/?linkid=513274%26clcid=0x409)
+[Follow this link to download a sample CSV file.](https://www.microsoft.com/en-us/download/details.aspx?id=58104)
 
 
 > [!NOTE]
