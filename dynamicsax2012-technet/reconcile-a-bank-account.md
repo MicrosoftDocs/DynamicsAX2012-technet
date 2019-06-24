@@ -59,6 +59,14 @@ You cannot reconcile a bank statement with a bank account if any of the checks o
 
 8.  To view bank transactions that have not yet been reconciled, use the **Unreconciled bank transactions** report. To view the bank statement for a bank account, use the **Bank statement** report.
 
+# Cancel bank statement reconciliation 
+
+Cancel bank statement reconciliation functionality enables you to cancel bank statement reconciliation. To use this feature, enable **Cancel bank statement reconciliation** feature in the **Feature management** workspace. You also need to enable the **Allow bank statement edit** parameter. To do this, go to **Cash and bank management > Setup > Cash and bank management parameters > Bank reconciliation**.
+ 
+Bank statement reconciliations can only be cancelled in the chronological order they were entered. When a bank statement reconciliation is cancelled, new transactions and corrections will be reversed and all other transactions will be marked as un-reconciled.
+ 
+To cancel bank statement reconciliation, select the bank statement and click **Bank statement > Cancel bank reconciliation**. On the **Cancel bank reconciliation** form provide the **Reason code**, **Reason comment** and the **Cancellation date**. Click **OK** button to begin cancellation. Note, the bank statement cancellation date must be on or after the bank statement date. Once the bank statement reconciliation has cancelled, **Cancellation date** field for the bank statement will be updated with the **Cancellation date** provided. You can click on the **Transactions** button to view the transactions for which the reconciliation was cancelled.
+
 ## See also
 
 [Account reconciliation (form)](https://technet.microsoft.com/en-us/library/aa597523\(v=ax.60\))
