@@ -12,7 +12,7 @@ f1_keywords:
 - shortcut keys
 - keyboard shortcut
 - quick key
-- shorcut key
+- shortcut key
 audience: Application User
 ms.search.region: Global
 ---
