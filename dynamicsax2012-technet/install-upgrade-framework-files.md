@@ -43,6 +43,8 @@ Be sure to back up your application files (\*.aod) and label files (\*.ald) befo
 
 
 
+To retrieve the preprocessing XPO, download the most recent Cumulative Update available of the Microsoft Dynamics AX 2012 version you are targeting.
+
 To install the preprocessing XPO on the Microsoft Dynamics AX source system, do the following:
 
 1.  Open the Application Object Tree (AOT) from its icon on the toolbar.
@@ -55,7 +57,7 @@ To install the preprocessing XPO on the Microsoft Dynamics AX source system, do 
 
 3.  Click the import icon on the AOT menu bar.
 
-4.  In the **Import** dialog box, click **Browse**. The XPO is located in the DatabaseUpgrade\\XPO folder on the installation media. The XPO file that you import depends on the Microsoft Dynamics AX source system that you are upgrading from.
+4.  In the **Import** dialog box, click **Browse**. The XPO is located in the DatabaseUpgrade\\XPO folder of the Microsoft Dynamics AX 2012 Cumulative Update you downloaded earlier. The XPO file that you import depends on the Microsoft Dynamics AX source system that you are upgrading from.
     
       - On a Microsoft Dynamics AX 4.0 source system, import UpgradeAX4.xpo.
     
