@@ -21,7 +21,7 @@ Before you begin, your environment must include the following components:
 
   - A running version of AX 2012 R3 that has been configured for your business. For more information about how to install AX 2012 R3, see [Install Microsoft Dynamics AX 2012](install-microsoft-dynamics-ax-2012.md).
 
-  - A running instance of Microsoft SQL Server Integration Services. The version of SQL Server must be the same as the version that hosts the Microsoft Dynamics AX business and model store databases. The supported versions are SQL Server 2008 R2, SQL Server 2012, and SQL Server 2014. For more information about how to install SQL Server Integration Services, see [Install Integration Services](http://go.microsoft.com/fwlink/?linkid=394975%26clcid=0x409).
+  - A running instance of Microsoft SQL Server Integration Services. The version of SQL Server must be the same as the version that hosts the Microsoft Dynamics AX business and model store databases. The supported versions are SQL Server 2008 R2, SQL Server 2012, and SQL Server 2014. For more information about how to install SQL Server Integration Services, see [Install Integration Services](http://go.microsoft.com/fwlink/?linkid=394975).
 
 
 > [!WARNING]
