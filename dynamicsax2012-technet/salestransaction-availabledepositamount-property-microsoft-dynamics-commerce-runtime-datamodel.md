@@ -1,4 +1,4 @@
-﻿---
+---
 title: SalesTransaction.AvailableDepositAmount Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: AvailableDepositAmount Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction.AvailableDepositAmount
@@ -65,7 +65,7 @@ Returns [Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\
 
 ## Remarks
 
-If the transaction deposit required is $100 and the client tenders it completly then the DepositAvailableAmount is $100. If two days latter, the client comes to the store and picks one item up whose deposit contribution was, say $20, then the DepositAvailableAmount is $80 now.
+If the transaction deposit required is $100 and the client tenders it completely then the DepositAvailableAmount is $100. If two days latter, the client comes to the store and picks one item up whose deposit contribution was, say $20, then the DepositAvailableAmount is $80 now.
 
 ## See Also
 
