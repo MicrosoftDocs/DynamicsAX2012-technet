@@ -56,7 +56,7 @@ Decimal ToDecimal(
 #### Return Value
 
 Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
-The decimal value or 0 if convertion fails.  
+The decimal value or 0 if conversion fails.  
 
 ## See Also
 

@@ -56,7 +56,7 @@ int ToInt(
 #### Return Value
 
 Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
-The interger value or 0 if convertion fails.  
+The interger value or 0 if conversion fails.  
 
 ## See Also
 

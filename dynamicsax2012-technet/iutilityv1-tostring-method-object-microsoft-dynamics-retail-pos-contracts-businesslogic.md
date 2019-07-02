@@ -54,7 +54,7 @@ String^ ToString(
 #### Return Value
 
 Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
-The string value or an empty string if convertion fails.  
+The string value or an empty string if conversion fails.  
 
 ## See Also
 
