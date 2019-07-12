@@ -102,6 +102,116 @@ To determine what type of hotfix an update contains, see the section [Apply upda
 
 To determine the build number of the Microsoft Dynamics AX version that you are running, see the section How can I determine which version and build number I’m running?
 
+
+<p class=MsoNormal>Microsoft Dynamics AX 2012 R<span class=GramE>3 :</span><o:p></o:p></p>
+
+<p class=MsoNormal>Recent kernel <span class=GramE>build</span><span
+style='mso-tab-count:1'>         </span>6.3.6000.8881<span style='mso-tab-count:
+3'>                                     </span>KB4511784<o:p></o:p></p>
+
+<p class=MsoNormal>February 2019 Update<span style='mso-tab-count:1'>   </span>6.3.6000.8149<span
+style='mso-tab-count:1'>     </span>20 Apr 2019<o:p></o:p></p>
+
+<p class=MsoNormal>Cumulative Update 13<span style='mso-tab-count:1'>    </span>6.3.6000.149<span
+style='mso-tab-count:1'>       </span>13 Sep 2017<span style='mso-tab-count:
+1'>        </span>KB4032175<o:p></o:p></p>
+
+<p class=MsoNormal>Cumulative Update 12<span style='mso-tab-count:1'>    </span>6.3.5000.138<span
+style='mso-tab-count:1'>       </span>21 Nov 2016<span style='mso-tab-count:
+1'>        </span>KB3199741<o:p></o:p></p>
+
+<p class=MsoNormal>Cumulative Update 11<span style='mso-tab-count:1'>    </span>6.3.4000.127<span
+style='mso-tab-count:1'>       </span>29 Jun 2016<span style='mso-tab-count:
+1'>         </span>KB3157865<o:p></o:p></p>
+
+<p class=MsoNormal>Cumulative Update 10<span style='mso-tab-count:1'>    </span>6.3.3000.110<span
+style='mso-tab-count:1'>       </span>24 Nov 2015<span style='mso-tab-count:
+1'>        </span>KB3102920<o:p></o:p></p>
+
+<p class=MsoNormal>Cumulative Update 9<span style='mso-tab-count:1'>      </span>6.3.2000.326<span
+style='mso-tab-count:1'>       </span>08 Jun 2015<span style='mso-tab-count:
+1'>         </span>KB3063879<o:p></o:p></p>
+
+<p class=MsoNormal>Cumulative Update 8<span style='mso-tab-count:1'>      </span>6.3.1000.309<span
+style='mso-tab-count:1'>       </span>18 Nov 2014<span style='mso-tab-count:
+1'>        </span>KB2998197<o:p></o:p></p>
+
+<p class=MsoNormal>RTM<span style='mso-tab-count:3'>                                       </span>6.3.164.0<span
+style='mso-tab-count:1'>              </span>Apr 2014<o:p></o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Microsoft Dynamics AX 2012 R2 (Mainstream Support ended<span
+class=GramE>) :</span><o:p></o:p></p>
+
+<p class=MsoNormal>Recent kernel <span class=GramE>build</span><span
+style='mso-tab-count:1'>         </span>6.2.3000.5768<span style='mso-tab-count:
+1'>     </span>17 Oct 2018<span style='mso-tab-count:1'>         </span>KB4465169<o:p></o:p></p>
+
+<p class=MsoNormal>Cumulative Update 9<span style='mso-tab-count:1'>      </span>6.2.3000.110<span
+style='mso-tab-count:1'>       </span>24 Sep 2015<span style='mso-tab-count:
+1'>        </span>KB3092626<o:p></o:p></p>
+
+<p class=MsoNormal>Cumulative Update 8<span style='mso-tab-count:1'>      </span>6.2.2000.14<span
+style='mso-tab-count:1'>         </span>06 Mar 2015<span style='mso-tab-count:
+1'>       </span>KB3042171<o:p></o:p></p>
+
+<p class=MsoNormal>Cumulative Update 7<span style='mso-tab-count:1'>      </span>6.2.1000.4051<span
+style='mso-tab-count:1'>     </span>01 Nov 2013<span style='mso-tab-count:1'>        </span>KB2885603<o:p></o:p></p>
+
+<p class=MsoNormal>Cumulative Update 6<span style='mso-tab-count:1'>      </span>6.2.1000.1437<span
+style='mso-tab-count:1'>     </span>26 Jun 2013<span style='mso-tab-count:1'>         </span>KB2850972<o:p></o:p></p>
+
+<p class=MsoNormal>Cumulative Update 1<span style='mso-tab-count:1'>      </span>6.2.1000.156<span
+style='mso-tab-count:1'>       </span>26 Feb 2013<span style='mso-tab-count:
+1'>        </span>KB2807685<o:p></o:p></p>
+
+<p class=MsoNormal>RTM<span style='mso-tab-count:3'>                                       </span>6.2.158.0<span
+style='mso-tab-count:1'>              </span>01 Dec 2012<o:p></o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Microsoft Dynamics AX 2012<span style='mso-spacerun:yes'> 
+</span><span class=GramE><span style='mso-spacerun:yes'>   </span>(</span>Mainstream
+Support ended):<o:p></o:p></p>
+
+<p class=MsoNormal>Latest kernel <span class=GramE>build</span><span
+style='mso-tab-count:1'>           </span>6.0.1108.9267<span style='mso-tab-count:
+1'>     </span>30 Oct 2018<span style='mso-tab-count:1'>         </span>KB4466853<o:p></o:p></p>
+
+<p class=MsoNormal><span lang=FR style='mso-ansi-language:FR'>Cumulative Update
+7<span style='mso-tab-count:1'>      </span>6.0.1108.6482<span
+style='mso-tab-count:1'>     </span>16 <span class=SpellE>Apr</span> 2014<span
+style='mso-tab-count:1'>        </span>KB2936810<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=FR style='mso-ansi-language:FR'>Cumulative Update
+5<span style='mso-tab-count:1'>      </span>6.0.1108.4316<span
+style='mso-tab-count:1'>     </span>29 <span class=SpellE>Apr</span> 2013<span
+style='mso-tab-count:1'>        </span>KB2828929<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=FR style='mso-ansi-language:FR'>Cumulative Update
+4<span style='mso-tab-count:1'>      </span>6.0.1108.2423<span
+style='mso-tab-count:1'>     </span>02 Dec 2012<span style='mso-tab-count:1'>        </span>KB2765124<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=FR style='mso-ansi-language:FR'>Cumulative Update
+3<span style='mso-tab-count:1'>      </span>6.0.1108.670<span style='mso-tab-count:
+1'>       </span>28 Jun 2012<span style='mso-tab-count:1'>         </span>KB2709934<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=FR style='mso-ansi-language:FR'>Cumulative Update
+2<span style='mso-tab-count:1'>      </span>6.0.947.280<span style='mso-tab-count:
+1'>         </span>16 Nov 2011<span style='mso-tab-count:1'>        </span>KB2606916<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=FR style='mso-ansi-language:FR'>Cumulative Update
+1<span style='mso-tab-count:1'>      </span>6.0.947.61<span style='mso-tab-count:
+1'>            </span>01 Aug 2011<span style='mso-tab-count:1'>        </span>KB2579565<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=FR style='mso-ansi-language:FR'>Feature Pack 1<span
+style='mso-tab-count:2'>                   </span>6.0.947.862<span
+style='mso-tab-count:1'>         </span>Solution build 6.1.1108.0<o:p></o:p></span></p>
+
+<p class=MsoNormal>RTM<span style='mso-tab-count:3'>                                       </span>6.0.947.0<span
+style='mso-tab-count:1'>              </span>01 Aug 2011<o:p></o:p></p>
+
 ## Prepare for the update
 
 Before you begin, back up your business and model store databases, and make sure that you understand the time that is required for the update.
