@@ -35,7 +35,7 @@ Before you generate a GIFT file, set up your software identification code, sales
 
 2.  Click the **Statutory reporting** FastTab, and in the **Registration number** field, enter the registration number that the CRA provided to you when you registered for GST/HST.
 
-3.  In the **Software identification code** field, enter "AX030003" as default value to transfer the returns.
+3.  In the **Software identification code** field, enter "AX030003" as the default value to transfer the returns.
 
 4.  Click **Account identifiers** to open the **Account identifiers** form.
 
