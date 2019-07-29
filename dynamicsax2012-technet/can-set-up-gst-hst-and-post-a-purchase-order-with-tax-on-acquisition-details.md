@@ -31,13 +31,11 @@ Before you generate a GIFT file, set up your software identification code, sales
 
 ## Set up legal entities for GIFT
 
-When you submit a request to CRA to perform an Internet file transfer, CRA provides a software identification code. The first two characters are alphabetical and the last six characters are numerical. You must enter this identification code in the **Legal entities** form correctly to process your returns.
-
 1.  Click **Organization administration** \> **Setup** \> **Organization** \> **Legal entities**.
 
 2.  Click the **Statutory reporting** FastTab, and in the **Registration number** field, enter the registration number that the CRA provided to you when you registered for GST/HST.
 
-3.  In the **Software identification code** field, enter the software identification code to transfer the returns.
+3.  In the **Software identification code** field, enter "AX030003" as default value to transfer the returns.
 
 4.  Click **Account identifiers** to open the **Account identifiers** form.
 
