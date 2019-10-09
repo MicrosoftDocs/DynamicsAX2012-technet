@@ -7,7 +7,7 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -35,5 +35,8 @@
   ],
   "branch_target_mapping": {},
   "need_generate_pdf_url_template": false,
-  "targets": {}
+  "targets": {},
+  "docs_build_engine": {
+    "name": "docfx_v3"
+  }
 }

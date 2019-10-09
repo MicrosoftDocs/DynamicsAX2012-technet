@@ -9,7 +9,7 @@ mtps_version: v=AX.60
 f1_keywords:
 - parameter
 - retail
-- paramters
+- parameters
 audience: Application User
 ms.search.region: Global
 ---

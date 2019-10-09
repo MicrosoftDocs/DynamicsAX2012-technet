@@ -121,7 +121,7 @@ Just like services, workflow uses the request and response pattern. The request 
             using Microsoft.Dynamics.Commerce.Runtime.Workflow.Composition;
         
             /// <summary>
-            /// Helper Class to call neccessary Services and perform Data Manipulation on it.
+            /// Helper Class to call necessary Services and perform Data Manipulation on it.
             /// </summary>
             [RequestHandlerMetadata(HandledRequestType = typeof(GetPromotionsRequest))]
             internal class PromotionsWorkflowRequestHandlerRaw : WorkflowRequestHandler<GetPromotionsRequest, GetPromotionsResponse>
