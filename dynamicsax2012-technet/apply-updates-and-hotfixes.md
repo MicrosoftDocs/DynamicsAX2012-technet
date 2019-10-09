@@ -102,6 +102,221 @@ To determine what type of hotfix an update contains, see the section [Apply upda
 
 To determine the build number of the Microsoft Dynamics AX version that you are running, see the section How can I determine which version and build number I’m running?
 
+
+<p>Microsoft Dynamics AX 2012 R3 :</p>
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Version</p></th>
+<th><p>Build</p></th>
+<th><p>Availability</p></th>
+<th><p>KB Number</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Recent kernel build</p></td>
+<td><p>6.3.6000.8881</p></td>
+<td><p>Recent</p></td>
+<td><p>KB4511784</p></td>
+</tr>
+<tr class="even">
+<td><p>February 2019 Update</p></td>
+<td><p>6.3.6000.8149</p></td>
+<td><p>20 Apr 2019</p></td>
+<td><p>Feb 2019 Release</p></td>
+</tr>
+<tr class="odd">
+<td><p>Cumulative Update 13</p></td>
+<td><p>6.3.6000.149</p></td>
+<td><p>13 Sep 2017</p></td>
+<td><p>KB4032175</p></td>
+</tr>
+<tr class="even">
+<td><p>Cumulative Update 12</p></td>
+<td><p>6.3.5000.138</p></td>
+<td><p>21 Nov 2016</p></td>
+<td><p>KB3199741</p></td>
+</tr>
+<tr class="odd">
+<td><p>Cumulative Update 11</p></td>
+<td><p>6.3.4000.127</p></td>
+<td><p>29 Jun 2016</p></td>
+<td><p>KB3157865</p></td>
+</tr>
+<tr class="even">
+<td><p>Cumulative Update 10</p></td>
+<td><p>6.3.3000.110</p></td>
+<td><p>24 Nov 2015</p></td>
+<td><p>KB3102920</p></td>
+</tr>
+<tr class="odd">
+<td><p>Cumulative Update 9</p></td>
+<td><p>	6.3.2000.326</p></td>
+<td><p>08 Jun 2015</p></td>
+<td><p>KB3063879</p></td>
+</tr>
+<tr class="even">
+<td><p>Cumulative Update 8</p></td>
+<td><p>6.3.1000.309</p></td>
+<td><p>18 Nov 2014</p></td>
+<td><p>KB2998197</p></td>
+</tr>
+<tr class="odd">
+<td><p>RTM</p></td>
+<td><p>6.3.164.0</p></td>
+<td><p>Apr 2014</p></td>
+<td><p>Customer / Partner source</p></td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Microsoft Dynamics AX 2012 R2 (Mainstream Support ended):</p>
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Version</p></th>
+<th><p>Build</p></th>
+<th><p>Availability</p></th>
+<th><p>KB Number</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Latest kernel build</p></td>
+<td><p>6.2.3000.5768</p></td>
+<td><p>17 Oct 2018</p></td>
+<td><p>KB4465169</p></td>
+</tr>
+<tr class="even">
+<td><p>Cumulative Update 9</p></td>
+<td><p>6.2.3000.110</p></td>
+<td><p>24 Sep 2015</p></td>
+<td><p>KB3092626</p></td>
+</tr>
+<tr class="odd">
+<td><p>Cumulative Update 8</p></td>
+<td><p>6.2.2000.14</p></td>
+<td><p>06 Mar 2015</p></td>
+<td><p>KB3042171</p></td>
+</tr>
+<tr class="even">
+<td><p>Cumulative Update 7</p></td>
+<td><p>6.2.1000.4051</p></td>
+<td><p>01 Nov 2013</p></td>
+<td><p>KB2885603</p></td>
+</tr>
+<tr class="odd">
+<td><p>Cumulative Update 6</p></td>
+<td><p>6.2.1000.1437</p></td>
+<td><p>26 Jun 2013</p></td>
+<td><p>KB2850972</p></td>
+</tr>
+<tr class="even">
+<td><p>Cumulative Update 1</p></td>
+<td><p>6.2.1000.156</p></td>
+<td><p>26 Feb 2013</p></td>
+<td><p>KB2807685</p></td>
+</tr>
+<tr class="odd">
+<td><p>RTM</p></td>
+<td><p>6.2.158.0</p></td>
+<td><p>01 Dec 2012</p></td>
+<td><p>Customer / Partner source</p></td>
+</tr>
+</tbody>
+</table>
+
+<p>Microsoft Dynamics AX 2012 (Mainstream Support ended):</p>
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Version</p></th>
+<th><p>Build</p></th>
+<th><p>Availability</p></th>
+<th><p>KB Number</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Latest kernel build</p></td>
+<td><p>	6.0.1108.9267</p></td>
+<td><p>30 Oct 2018</p></td>
+<td><p>KB4466853</p></td>
+</tr>
+<tr class="even">
+<td><p>Cumulative Update 7</p></td>
+<td><p>6.0.1108.6482</p></td>
+<td><p>16 Apr 2014</p></td>
+<td><p>KB2936810</p></td>
+</tr>
+<tr class="odd">
+<td><p>Cumulative Update 5</p></td>
+<td><p>6.0.1108.4316</p></td>
+<td><p>29 Apr 2013</p></td>
+<td><p>KB2828929</p></td>
+</tr>
+<tr class="even">
+<td><p>Cumulative Update 4</p></td>
+<td><p>6.0.1108.2423</p></td>
+<td><p>02 Dec 2012</p></td>
+<td><p>KB2765124</p></td>
+</tr>
+<tr class="odd">
+<td><p>Cumulative Update 3</p></td>
+<td><p>6.0.1108.670</p></td>
+<td><p>28 Jun 2012</p></td>
+<td><p>KB2709934</p></td>
+</tr>
+<tr class="even">
+<td><p>Cumulative Update 2</p></td>
+<td><p>6.0.947.280</p></td>
+<td><p>16 Nov 2011</p></td>
+<td><p>KB2606916</p></td>
+</tr>
+<tr class="odd">
+<td><p>Cumulative Update 1</p></td>
+<td><p>6.0.947.61</p></td>
+<td><p>01 Aug 2011</p></td>
+<td><p>KB2579565</p></td>
+</tr>
+<tr class="even">
+<td><p>Feature Pack 1</p></td>
+<td><p>6.0.947.862</p></td>
+<td><p>Solution build 6.1.1108.0</p></td>
+<td><p>Customer / Partner</p></td>
+</tr>
+<tr class="odd">
+<td><p>RTM</p></td>
+<td><p>6.0.947.0</p></td>
+<td><p>01 Aug 2011</p></td>
+<td><p>Customer / Partner</p></td>
+</tr>
+</tbody>
+</table>
+
 ## Prepare for the update
 
 Before you begin, back up your business and model store databases, and make sure that you understand the time that is required for the update.

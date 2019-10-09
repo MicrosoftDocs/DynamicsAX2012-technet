@@ -4,7 +4,7 @@ TOCTitle: About release sales order picking/release transfer order picking
 ms:assetid: dbf269f8-6acf-4b43-8b28-2fe2f8c4ce26
 ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551256(v=AX.60)
 ms:contentKeyID: 36059672
-ms.date: 05/02/2014
+ms.date: 09/21/2018
 mtps_version: v=AX.60
 f1_keywords:
 - picking lists
@@ -36,7 +36,6 @@ For example, you could use the query to:
 
   - Show sales or transfer backorders for which there is an actual on-hand, so that one or more orders can be fulfilled.
 
-  - Show all sales backorders, regardless of the actual on-hand.
 
 ## Order picking forms
 

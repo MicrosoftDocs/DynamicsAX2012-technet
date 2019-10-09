@@ -288,8 +288,9 @@ The following tables show the fields that the import file must contain.
 <td><p>Accounting distribution line number</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Ledger account</strong></p></td>
-<td><p></p></td>
+<td><p><strong>Financial Dimensions</strong></p></td>
+<td><p>[!NOTE]</p>
+  <p>If the file you import has financial dimensions, you need to include all of the financial dimensions with the proper naming, otherwise an error message will appear stating that the ledger dimension is invalid. You’ll then need to either correct the financial dimensions or remove the columns from the file.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Percent</strong></p></td>

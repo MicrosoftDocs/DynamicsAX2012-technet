@@ -59,6 +59,7 @@ You cannot reconcile a bank statement with a bank account if any of the checks o
 
 8.  To view bank transactions that have not yet been reconciled, use the **Unreconciled bank transactions** report. To view the bank statement for a bank account, use the **Bank statement** report.
 
+
 ## See also
 
 [Account reconciliation (form)](https://technet.microsoft.com/en-us/library/aa597523\(v=ax.60\))

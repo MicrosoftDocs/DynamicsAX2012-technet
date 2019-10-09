@@ -51,6 +51,12 @@ When you set up sales taxes for retail stores, you can specify several settings.
       > [!NOTE]
       > This functionality is new for Microsoft Dynamics 365 Finance and Operations apps version 10.0.7.<P>
 
+      - **Calculate customer tax exempt** - Select this check box in tax-exclusive scenarios when taxes are store-based or destination-based, but some customers may still need to be exempt from certain taxes. This will check the effective taxes for the transaction against the customer's taxes. If one of the effective taxes for the transaction is marked as "exempt" for the customer, it will not be calculated. This feature is currently only supported for tax-exclusive scenarios, but support for tax-inclusive scenarios will be added in a future release. 
+
+
+      > [!NOTE]
+      > <P>This functionality is new for Microsoft Dynamics 365 Finance and Operations apps version 10.0.7.</P>
+
 ## See also
 
 [About setting up taxes](about-setting-up-taxes.md)
