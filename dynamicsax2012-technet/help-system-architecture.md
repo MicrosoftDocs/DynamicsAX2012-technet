@@ -25,7 +25,7 @@ To better understand how the components in this diagram work together, consider 
 
 3.  The Help server locates the topic and determines if there are any labels to define for that topic. If so, the Help server requests the definitions of the labels from the Microsoft Dynamics AX Application Object Server (AOS).
     
-    For example, suppose a help topic contains the label *@SYS11904*. The Help server will request the definition of this label from the AOS. After the AOS returns the definition, *Customer group*, the Help server replaces all instances of *@SYS11904* with *Customer group*.
+    For example, suppose a help topic contains the label *\@SYS11904*. The Help server will request the definition of this label from the AOS. After the AOS returns the definition, *Customer group*, the Help server replaces all instances of *\@SYS11904* with *Customer group*.
 
 4.  The Help server sends the topic to the client, where it is displayed in the Help viewer.
 
