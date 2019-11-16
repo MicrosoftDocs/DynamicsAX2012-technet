@@ -90,9 +90,9 @@ You email reports to the following people:
 
   - Customers and vendors who have a specific purpose
     
-    You can email reports to customers and vendors who have a specific purpose by using the **@\<Purpose\>@** token. In Microsoft Dynamics AX, contact information (such as email addresses) for customers and vendors has a purpose associated with it. For example, a customer may have an email address where the purpose is *Billing* and another email address where the purpose is *Delivery*. Now suppose that you want to email a sales order to a customer. In this scenario, you would enter the following token in the **To** field when emailing the sales order: **\@Billing@**
+    You can email reports to customers and vendors who have a specific purpose by using the **@\<Purpose\>@** token. In Microsoft Dynamics AX, contact information (such as email addresses) for customers and vendors has a purpose associated with it. For example, a customer may have an email address where the purpose is *Billing* and another email address where the purpose is *Delivery*. Now suppose that you want to email a sales order to a customer. In this scenario, you would enter the following token in the **To** field when emailing the sales order: **\@Billing\@**
     
-    The **\@Billing@** token instructs Microsoft Dynamics AX to perform the following tasks:
+    The **\@Billing\@** token instructs Microsoft Dynamics AX to perform the following tasks:
     
     1.  Identify the customer that this sales order must be sent to.
     
