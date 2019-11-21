@@ -16,7 +16,7 @@ dev_langs:
 
 # ARGBColor Class
 
-This class represents a color as seperate RGB values and an alpha value.
+This class represents a color as separate RGB values and an alpha value.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
