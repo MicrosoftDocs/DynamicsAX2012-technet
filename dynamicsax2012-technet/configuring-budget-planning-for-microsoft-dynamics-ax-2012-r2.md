@@ -20,7 +20,7 @@ In Microsoft Dynamics AX 2012 R2, budget planning features were added to the Bud
 
 This white paper explains how to configure budget planning.
 
-[Download the paper.](http://go.microsoft.com/fwlink/?linkid=272634%26clcid=0x409)
+[Download the paper.](https://go.microsoft.com/fwlink/?linkid=272634)
 
   
 
