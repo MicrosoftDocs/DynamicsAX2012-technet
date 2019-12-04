@@ -15,7 +15,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 This white paper explains how to set up a batch transfer rule to summarize subledger journal accounting entries. It also describes how to create simple free text invoices, journalize those free text invoices to the subledger journal, and then post the subledger journal entries to the general ledger.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=272884%26clcid=0x409)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=272884)
 
   
 
