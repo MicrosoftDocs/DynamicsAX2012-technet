@@ -20,7 +20,7 @@ In Microsoft Dynamics AX 2012 R2, budget planning web services were developed to
 
 This white paper explains how to configure budget plan templates.
 
-[Download the paper.](http://go.microsoft.com/fwlink/?linkid=272873%26clcid=0x409)
+[Download the paper.](https://go.microsoft.com/fwlink/?linkid=272873)
 
   
 
