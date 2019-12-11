@@ -34,7 +34,7 @@ ms.dyn365.ops.version: 2012
 
 This article provides information about Business process modeler in Microsoft Dynamics Lifecycle Services (LCS). You can use this tool to create, view, and modify business process libraries and flowcharts for Microsoft Dynamics AX. The article also lists the prerequisites and explains how to start using Business process modeler.
 
-In Microsoft Dynamics Lifecycle Services, you can use Business process modeler to create, view, and modify business-process libraries and flowcharts for Microsoft Dynamics AX. Business process modeler helps you align your Microsoft Dynamics AX processes with industry-standard processes as described by [American Productivity & Quality Center (APQC)](http://www.apqc.org/). You can perform fit-gap analysis between the business needs and the default processes in Microsoft Dynamics AX. You can also add new business processes and create flowcharts for processes that are not already defined in Microsoft Dynamics AX 2012. You can use Business process modeler artifacts with the following applications:
+In Microsoft Dynamics Lifecycle Services, you can use Business process modeler to create, view, and modify business-process libraries and flowcharts for Microsoft Dynamics AX. Business process modeler helps you align your Microsoft Dynamics AX processes with industry-standard processes as described by [American Productivity & Quality Center (APQC)](https://www.apqc.org/). You can perform fit-gap analysis between the business needs and the default processes in Microsoft Dynamics AX. You can also add new business processes and create flowcharts for processes that are not already defined in Microsoft Dynamics AX 2012. You can use Business process modeler artifacts with the following applications:
 
 -   Microsoft Visual Studio Team Foundation Server (TFS) – You can generate a consolidated list of gaps and import them manually into TFS as work items that include a reference to the process flow.
 -   Microsoft Word – You can generate documentation for business processes.
@@ -44,8 +44,8 @@ In Microsoft Dynamics Lifecycle Services, you can use Business process modeler t
 To use the Business process modeler, the following products are required:
 
 -   The Task recorder that is included in AX 2012 R3 and cumulative update 7 for Microsoft Dynamics AX 2012 R2 supports generating custom processes in Business process modeler. For earlier releases, an updated Task recorder is available as a hotfix. The hotfix includes a client update and a model file. You must install the client update on all Microsoft Dynamics AX 2012 clients. There are two hotfixes available:
-    -   Microsoft Dynamics AX 2012 R2 – Knowledgebase article [2863182](http://go.microsoft.com/fwlink/?LinkId=309911)
-    -   Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack – Knowledgebase article [2863182](http://go.microsoft.com/fwlink/?LinkId=309910)
+    -   Microsoft Dynamics AX 2012 R2 – Knowledgebase article [2863182](https://go.microsoft.com/fwlink/?LinkId=309911)
+    -   Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack – Knowledgebase article [2863182](https://go.microsoft.com/fwlink/?LinkId=309910)
 -   Microsoft Office 2010 or later versions supports generating documents.
 -   Windows Media Player supports playing business process videos.
 
@@ -61,12 +61,5 @@ To access Business process modeler, follow these steps:
 3.  To copy a standard business process library from the **Global libraries** section to the **My libraries** section, right-click the tile in the **Global libraries** section, and then on the app bar, click **Copy**.
 4.  After the business process library has been added to the **My libraries** section, click the tile to view the business process library.
 
-
-Additional resources
---------
-
-[Business process libraries in Business process modeler (BPM)](../business-process-libraries-business-process-modeler.md)
-
-[Flowcharts in Business process modeler (BPM)](../flowcharts-business-process-modeler.md)
 
 
