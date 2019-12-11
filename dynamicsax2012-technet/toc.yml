@@ -8261,7 +8261,7 @@
     - name: Methodologies
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/methodologies-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Business process modeler
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/bpm-overview?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: /dynamics365/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/ax-2012/business-process-modeler-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
       items:
       - name: Business process libraries in Business process modeler
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/business-process-libraries-business-process-modeler?toc=/dynamicsax-2012/appuser-itpro/toc.json
