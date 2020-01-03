@@ -8313,7 +8313,7 @@
     - name: Issue search
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/issue-search-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: License sizing estimator
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/license-sizing-estimator-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: license-sizing-estimator-lcs.md
     - name: Microsoft Dynamics ERP RapidStart Services
       href: microsoft-dynamics-erp-rapidstart-services.md
       items:
