@@ -1,16 +1,4 @@
 ---
-title: Cloud-hosted environments (Lifecycle Services, LCS)
-TOCTitle: Cloud-hosted environments
-ms:assetid: 27b7573a-67e0-4897-b428-abfc37e327b6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741224(v=AX.60)
-ms:contentKeyID: 62219113
-ms.date: 01/20/2016
-mtps_version: v=AX.60
----
-
-# Cloud-hosted environments (Lifecycle Services, LCS) 
-
----
 # required metadata
 
 title: Cloud-hosted environments in Lifecycle Services (LCS)
@@ -44,6 +32,8 @@ ms.dyn365.ops.version: 2012
 
 # Cloud-hosted environments in Lifecycle Services (LCS)
 
+[!include [banner](../../includes/banner.md)]
+
 In Microsoft Dynamics Lifecycle Services, Cloud-hosted environments is a tool that you can use to deploy Microsoft Dynamics AX environments on Microsoft Azure.
 
 When you use the Cloud-hosted environments tool, you’ll need to select the type of Microsoft Dynamics AX environment that you want to deploy, such as a demo or developer/test environment. Based on your selection, the Cloud-hosted environments tool provisions the appropriate number of virtual machines in Azure. These virtual machines have Microsoft Dynamics AX components (and all of their prerequisites) already installed on them. For detailed instructions about how to deploy Microsoft Dynamics AX environments on Azure, see [Deploy AX 2012 R3 on Azure by using Lifecycle Services (LCS)](deploy-2012-r3-azure-lcs.md).
@@ -52,9 +42,5 @@ When you use the Cloud-hosted environments tool, you’ll need to select the typ
 > Dynamics AX 2012 R3 can also be deployed on-premises. For details, see the topic [Install Microsoft Dynamics AX 2012](https://technet.microsoft.com/library/dd362138.aspx)
 
 
-
-
-
-  
 
 
