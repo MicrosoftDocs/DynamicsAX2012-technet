@@ -8307,7 +8307,7 @@
       - name: Copy a configuration
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/copy-configuration-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Customization analysis
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/customization-analysis-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: customization-analysis-lcs.md
     - name: Infrastructure estimator
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/infrastructure-estimator-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Issue search
