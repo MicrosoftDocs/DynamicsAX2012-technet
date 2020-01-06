@@ -8270,7 +8270,7 @@
       - name: Upload custom business processes to Business process modeler from Task recorder
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/upload-business-processes-bpm-task-recorder?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Cloud-hosted environments
-      href: cloud-hosted-environments-lcs.md
+      href: cloud-hosted-environments-lifecycle-services-lcs.md
       items:
       - name: Deploy Microsoft Dynamics AX 2012 R3 on Azure using Lifecycle Services
         href: deploy-2012-r3-azure-lcs.md
