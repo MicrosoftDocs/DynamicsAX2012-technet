@@ -8261,7 +8261,7 @@
     - name: Methodologies
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/methodologies-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Business process modeler
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/bpm-overview?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: business-process-modeler-lcs.md
       items:
       - name: Business process libraries in Business process modeler
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/business-process-libraries-business-process-modeler?toc=/dynamicsax-2012/appuser-itpro/toc.json
@@ -8307,7 +8307,7 @@
       - name: Copy a configuration
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/copy-configuration-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Customization analysis
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/customization-analysis-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: customization-analysis-lcs.md
     - name: Infrastructure estimator
       href: infrastructure-estimator-lcs.md
     - name: Issue search
