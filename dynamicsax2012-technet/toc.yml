@@ -8309,7 +8309,7 @@
     - name: Customization analysis
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/customization-analysis-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Infrastructure estimator
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/infrastructure-estimator-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: infrastructure-estimator-lcs.md
     - name: Issue search
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/issue-search-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: License sizing estimator
@@ -8461,7 +8461,7 @@
           - name: Delete a question in RapidStart Services
             href: delete-a-question-in-rapidstart-services.md
     - name: RFP responses
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/rfp-responses-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href:rfp-responses-lcs.md
     - name: System diagnostics
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/system-diagnostics-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
       items:
