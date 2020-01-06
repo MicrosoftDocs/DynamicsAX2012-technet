@@ -8270,33 +8270,33 @@
       - name: Upload custom business processes to Business process modeler from Task recorder
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/upload-business-processes-bpm-task-recorder?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Cloud-hosted environments
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/cloud-hosted-environments-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: cloud-hosted-environments-lcs.md
       items:
       - name: Deploy Microsoft Dynamics AX 2012 R3 on Azure using Lifecycle Services
         href: deploy-2012-r3-azure-lcs.md
         items:
         - name: Plan your deployment
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/plan-2012-r3-deployment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: plan-2012-r3-deployment-azure.md
         - name: Deploy an AX 2012 R3 or AX 2012 R3 CU8 demo environment
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-ax-2012-r3-ax-2012-r3-cu8-demo-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: deploy-ax-2012-r3-ax-2012-r3-cu8-demo-environment-azure.md
         - name: Deploy a Retail essentials demo environment
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-essentials-demo-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: deploy-retail-essentials-demo-environment-azure.md
         - name: Deploy a development environment
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-development-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: deploy-development-environment-azure.md
         - name: Deploy a test environment
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-test-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: deploy-test-environment-azure.md
         - name: Deploy a Retail essentials dev/test environment
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-essentials-devtest-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: deploy-retail-essentials-devtest-environment-azure.md
         - name: Deploy a Retail e-commerce dev/test environment
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-ecommerce-devtest-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: deploy-retail-ecommerce-devtest-environment-azure.md
         - name: Deploy a Retail mobility dev/test environment
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-retail-mobility-devtest-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: deploy-retail-mobility-devtest-environment-azure.md
         - name: Deploy a high availability environment
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-high-availability-environment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: deploy-high-availability-environment-azure.md
         - name: Manage your deployment
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/manage-2012-r3-deployment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: manage-2012-r3-deployment-azure.md
         - name: Troubleshoot your deployment
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/troubleshoot-2012-r3-deployment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: troubleshoot-2012-r3-deployment-azure.md
     - name: Cloud-powered support
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs-support?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Configuration manager
