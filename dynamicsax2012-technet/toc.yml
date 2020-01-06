@@ -8273,7 +8273,7 @@
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/cloud-hosted-environments-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
       items:
       - name: Deploy Microsoft Dynamics AX 2012 R3 on Azure using Lifecycle Services
-        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/deploy-2012-r3-azure-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+        href: deploy-2012-r3-azure-lcs.md
         items:
         - name: Plan your deployment
           href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/plan-2012-r3-deployment-azure?toc=/dynamicsax-2012/appuser-itpro/toc.json
