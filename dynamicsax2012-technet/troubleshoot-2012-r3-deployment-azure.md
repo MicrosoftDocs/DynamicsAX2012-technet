@@ -32,8 +32,6 @@ ms.dyn365.ops.version: 2012
 
 # Troubleshoot AX 2012 R3 deployments on Azure
 
-[!include [banner](../../includes/banner.md)]
-
 This topic explains how to resolve common issues and how to get assistance with your Microsoft Dynamics AX 2012 R3 environment on Azure.
 
 How do I renew the Windows license on a demo virtual machine?
