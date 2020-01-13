@@ -17,7 +17,7 @@ This paper describes a standard process and best practices for developers and IT
 
 The paper has been updated to be organized around Application Lifecycle Management scenarios, and now includes a section that describes how to apply XPO files to a production environment.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=221067).
+[Download the paper](http://go.microsoft.com/fwlink/?linkid=221067). (not found document, please fix this issue)
 
   
 **Announcements:** New book: "Inside Microsoft Dynamics AX 2012 R3" now available. Get your copy at the [MS Press Store](https://www.microsoftpressstore.com/store/inside-microsoft-dynamics-ax-2012-r3-9780735685109).
