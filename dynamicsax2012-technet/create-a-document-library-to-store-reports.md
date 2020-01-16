@@ -2,8 +2,9 @@
 title: Create a document library to store reports
 TOCTitle: Create a document library to store reports
 ms:assetid: e04173fd-30fb-438c-bcd5-057e87d6544d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677281(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677281(v=AX.60)
 ms:contentKeyID: 49384052
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

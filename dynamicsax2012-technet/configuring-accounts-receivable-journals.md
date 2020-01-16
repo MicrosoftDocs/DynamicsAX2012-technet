@@ -2,8 +2,9 @@
 title: Configuring Accounts receivable journals
 TOCTitle: Configuring Accounts receivable journals
 ms:assetid: 8fe0a53a-ce5b-4b05-be46-e2e5f9a6b726
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242893(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242893(v=AX.60)
 ms:contentKeyID: 36058524
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Customer.AddressBooks Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: AddressBooks Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Customer.AddressBooks
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.customer.addressbooks(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.customer.addressbooks(v=AX.60)
 ms:contentKeyID: 62210459
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ property IList<AddressBookPartyData^>^ AddressBooks {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[AddressBookPartyData](addressbookpartydata-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[AddressBookPartyData](addressbookpartydata-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 The address books.  
 
 ## See Also

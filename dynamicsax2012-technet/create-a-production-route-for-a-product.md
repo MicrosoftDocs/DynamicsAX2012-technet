@@ -2,8 +2,9 @@
 title: Create a production route for a product
 TOCTitle: Create a production route for a product
 ms:assetid: 2318142f-a1a6-451b-99bd-524a228a5a5d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838726(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838726(v=AX.60)
 ms:contentKeyID: 50120609
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -95,13 +96,13 @@ You can assign a sequence group to a resource or resource group. For more inform
 
 ## See also
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
-[Route groups (form)](https://technet.microsoft.com/en-us/library/aa596433\(v=ax.60\))
+[Route groups (form)](https://technet.microsoft.com/library/aa596433\(v=ax.60\))
 
-[Route (form)](https://technet.microsoft.com/en-us/library/aa550121\(v=ax.60\))
+[Route (form)](https://technet.microsoft.com/library/aa550121\(v=ax.60\))
 
-[Operations (form)](https://technet.microsoft.com/en-us/library/aa548958\(v=ax.60\))
+[Operations (form)](https://technet.microsoft.com/library/aa548958\(v=ax.60\))
 
   
 

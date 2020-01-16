@@ -2,8 +2,9 @@
 title: Create a purchase order from a sales order
 TOCTitle: Create a purchase order from a sales order
 ms:assetid: 8fbb76c4-df41-4d31-bd52-2cb3a035bb56
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498365(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498365(v=AX.60)
 ms:contentKeyID: 37832517
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ Use this procedure to create a purchase order that is based on a sales order. Wh
     
 
     > [!NOTE]
-    > <P>You can set up a preferred vendor for an item in the <STRONG>Released products</STRONG> form. On the <STRONG>Plan</STRONG> tab, click <STRONG>Item coverage</STRONG> to open the <STRONG>Item coverage</STRONG> form. Here, you can set up the item per site, warehouse, location, color, size, and configuration. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa619147(v=ax.60)">Item coverage (form)</A>.</P>
+    > <P>You can set up a preferred vendor for an item in the <STRONG>Released products</STRONG> form. On the <STRONG>Plan</STRONG> tab, click <STRONG>Item coverage</STRONG> to open the <STRONG>Item coverage</STRONG> form. Here, you can set up the item per site, warehouse, location, color, size, and configuration. For more information, see <A href="https://technet.microsoft.com/library/aa619147(v=ax.60)">Item coverage (form)</A>.</P>
 
 
 

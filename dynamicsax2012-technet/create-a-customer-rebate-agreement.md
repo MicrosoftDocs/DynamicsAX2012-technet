@@ -2,8 +2,9 @@
 title: Create a customer rebate agreement
 TOCTitle: Create a customer rebate agreement
 ms:assetid: 9046ad1a-226c-4c2b-ad31-c3840834aa43
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352289(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352289(v=AX.60)
 ms:contentKeyID: 36687917
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -107,9 +108,9 @@ Use this procedure to create a rebate agreement for a customer.
 
 [About customer rebates](about-customer-rebates.md)
 
-[Period types (form)](https://technet.microsoft.com/en-us/library/aa586707\(v=ax.60\))
+[Period types (form)](https://technet.microsoft.com/library/aa586707\(v=ax.60\))
 
-[Rebate agreements (form)](https://technet.microsoft.com/en-us/library/hh328681\(v=ax.60\))
+[Rebate agreements (form)](https://technet.microsoft.com/library/hh328681\(v=ax.60\))
 
   
 

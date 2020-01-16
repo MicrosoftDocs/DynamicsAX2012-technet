@@ -2,8 +2,9 @@
 title: Create an intercompany project invoice
 TOCTitle: Create an intercompany project invoice
 ms:assetid: 73987788-75b0-4484-8da4-1fed94fb73de
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn528662(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn528662(v=AX.60)
 ms:contentKeyID: 59636747
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,9 +55,9 @@ Before the project accountant for the lending legal entity can create an interco
     
       - Specify the financial dimensions that are used by default for posting intercompany transactions.
     
-    For more information about how to select these options, see [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\)).
+    For more information about how to select these options, see [Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\)).
 
-  - Select financial accounts and other posting details for recording intercompany costs and revenue. For more information about how to set up posting details, see [Ledger posting setup (form)](https://technet.microsoft.com/en-us/library/aa599270\(v=ax.60\)).
+  - Select financial accounts and other posting details for recording intercompany costs and revenue. For more information about how to set up posting details, see [Ledger posting setup (form)](https://technet.microsoft.com/library/aa599270\(v=ax.60\)).
 
   - Define the transfer price for project costs that are being transferred to the borrowing legal entity. Different prices can be specified for any combination of lending legal entity, borrowing legal entity, project, project contract, and worker. For more information, see [About cost prices, sales prices, and transfer prices in projects](about-cost-prices-sales-prices-and-transfer-prices-in-projects.md).
 
@@ -64,9 +65,9 @@ Before the project accountant for the lending legal entity can create an interco
 
 Before the project accountant for the borrowing legal entity can post the costs for transferred resources, the following tasks must be completed.
 
-  - Select a category to use by default when recording costs for borrowed resources. For more information about how to select a default category for posting intercompany transactions, see [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\)).
+  - Select a category to use by default when recording costs for borrowed resources. For more information about how to select a default category for posting intercompany transactions, see [Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\)).
 
-  - Select financial accounts and other posting details for recording costs for borrowed resources. For more information about how to set up posting details, see [Ledger posting setup (form)](https://technet.microsoft.com/en-us/library/aa599270\(v=ax.60\)).
+  - Select financial accounts and other posting details for recording costs for borrowed resources. For more information about how to set up posting details, see [Ledger posting setup (form)](https://technet.microsoft.com/library/aa599270\(v=ax.60\)).
 
   - Specify the financial dimensions that are used by default for posting intercompany transactions.
 

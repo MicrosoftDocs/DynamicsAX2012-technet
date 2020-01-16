@@ -1,9 +1,10 @@
-﻿---
+---
 title: ConcurrentDictionary(TKey, TValue).IEnumerable.GetEnumerator Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: IEnumerable.GetEnumerator Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.System#Collections#IEnumerable#GetEnumerator
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn988159(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn988159(v=AX.60)
 ms:contentKeyID: 65317206
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,12 +48,12 @@ virtual IEnumerator^ GetEnumerator() sealed = IEnumerable::GetEnumerator
 
 #### Return Value
 
-Type: [System.Collections.IEnumerator](https://technet.microsoft.com/en-us/library/1t2267t6\(v=ax.60\))  
+Type: [System.Collections.IEnumerator](https://technet.microsoft.com/library/1t2267t6\(v=ax.60\))  
 Returns the enumerator.  
 
 #### Implements
 
-[IEnumerable.GetEnumerator()](https://technet.microsoft.com/en-us/library/5zae5365\(v=ax.60\))  
+[IEnumerable.GetEnumerator()](https://technet.microsoft.com/library/5zae5365\(v=ax.60\))  
 
 ## See Also
 

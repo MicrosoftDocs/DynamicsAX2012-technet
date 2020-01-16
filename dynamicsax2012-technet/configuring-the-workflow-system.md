@@ -2,8 +2,9 @@
 title: Configuring the workflow system
 TOCTitle: Workflow
 ms:assetid: ebcd52ed-1548-4b64-9b83-9558eadbbb83
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227492(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227492(v=AX.60)
 ms:contentKeyID: 36059886
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

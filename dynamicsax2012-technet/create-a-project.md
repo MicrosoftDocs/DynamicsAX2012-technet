@@ -2,8 +2,9 @@
 title: Create a project
 TOCTitle: Create a project
 ms:assetid: 193c2e57-e878-4c54-ac9b-58f2214f511a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569913(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569913(v=AX.60)
 ms:contentKeyID: 36056109
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,11 +64,11 @@ You can also add subprojects to a project. When you create a subproject, it auto
 
 [Create or link to a collaboration workspace (Project)](create-or-link-to-a-collaboration-workspace-project.md)
 
-[Create project (form)](https://technet.microsoft.com/en-us/library/aa550120\(v=ax.60\))
+[Create project (form)](https://technet.microsoft.com/library/aa550120\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Project copy wizard (form)](https://technet.microsoft.com/en-us/library/aa556743\(v=ax.60\))
+[Project copy wizard (form)](https://technet.microsoft.com/library/aa556743\(v=ax.60\))
 
 [About using the Time and material project type for a fixed-price project](about-using-the-time-and-material-project-type-for-a-fixed-price-project.md)
 

@@ -2,8 +2,9 @@
 title: Create a customer rebate group
 TOCTitle: Create a customer rebate group
 ms:assetid: e19b72e1-061d-412d-ba7b-2d30ece40893
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227423(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227423(v=AX.60)
 ms:contentKeyID: 36059710
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ Use this procedure to create a customer rebate group. You can apply a customer r
 
 [About customer rebates](about-customer-rebates.md)
 
-[Customer rebate groups (form)](https://technet.microsoft.com/en-us/library/hh352361\(v=ax.60\))
+[Customer rebate groups (form)](https://technet.microsoft.com/library/hh352361\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CookieManager.SetResponseCookieValue Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Common)
 TOCTitle: SetResponseCookieValue Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Common.CookieManager.SetResponseCookieValue(System.Web.HttpContext,System.String,System.String,System.DateTime,System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.common.cookiemanager.setresponsecookievalue(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.cookiemanager.setresponsecookievalue(v=AX.60)
 ms:contentKeyID: 62207146
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,27 +69,27 @@ static void SetResponseCookieValue(
 #### Parameters
 
   - context  
-    Type: [System.Web.HttpContext](https://technet.microsoft.com/en-us/library/x08ey989\(v=ax.60\))  
+    Type: [System.Web.HttpContext](https://technet.microsoft.com/library/x08ey989\(v=ax.60\))  
 
 <!-- end list -->
 
   - cookieName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - cookieValue  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - expiry  
-    Type: [System.DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\))  
+    Type: [System.DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\))  
 
 <!-- end list -->
 
   - isSecure  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## Exceptions
 
@@ -105,7 +106,7 @@ static void SetResponseCookieValue(
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/3w1b3114(v=ax.60)">ArgumentException</a></td>
+<td><a href="https://technet.microsoft.com/library/3w1b3114(v=ax.60)">ArgumentException</a></td>
 <td><p>The cookie name cannot be null or contain white space only.</p>
 <p>-or-</p>
 <p>ArgumentException is thrown when invalid cookie name is specified.</p></td>

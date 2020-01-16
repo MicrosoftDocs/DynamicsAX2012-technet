@@ -1,9 +1,10 @@
-﻿---
+---
 title: Consuming External Web Services
 TOCTitle: Consuming External Web Services
 ms:assetid: 69eecc2b-3306-4028-9069-4dca8fdccb0c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500187(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500187(v=AX.60)
 ms:contentKeyID: 37820254
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Create a project contract
 TOCTitle: Create a project contract
 ms:assetid: b6130251-e119-4498-8e62-9b8741086bd6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh370701(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh370701(v=AX.60)
 ms:contentKeyID: 36811426
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 audience: Application User

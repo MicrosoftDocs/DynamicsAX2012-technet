@@ -2,8 +2,9 @@
 title: Create warehouses
 TOCTitle: Create warehouses
 ms:assetid: b33dc9ad-828d-4645-bd69-be64e1d7ed90
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571903(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571903(v=AX.60)
 ms:contentKeyID: 42518583
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

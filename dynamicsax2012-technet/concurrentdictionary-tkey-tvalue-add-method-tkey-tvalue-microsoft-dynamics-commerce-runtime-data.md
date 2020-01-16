@@ -1,9 +1,10 @@
-﻿---
+---
 title: ConcurrentDictionary(TKey, TValue).Add Method (TKey, TValue) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: Add Method (TKey, TValue)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.Add(`0,`1)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn968742(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn968742(v=AX.60)
 ms:contentKeyID: 65321863
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -62,7 +63,7 @@ virtual void Add(
 
 #### Implements
 
-[IDictionary\<TKey, TValue\>.Add(TKey, TValue)](https://technet.microsoft.com/en-us/library/cy7xta5e\(v=ax.60\))  
+[IDictionary\<TKey, TValue\>.Add(TKey, TValue)](https://technet.microsoft.com/library/cy7xta5e\(v=ax.60\))  
 
 ## See Also
 

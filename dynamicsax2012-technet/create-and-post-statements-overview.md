@@ -2,8 +2,9 @@
 title: Create and post statements overview
 TOCTitle: Create and post statements overview
 ms:assetid: 4632f444-9e4f-4262-a10e-258adbfe029d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580628(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580628(v=AX.60)
 ms:contentKeyID: 39519118
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,7 +54,7 @@ The following table lists the forms that support the create and post statements 
 <tbody>
 <tr class="odd">
 <td><p>Create and post a statement.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597288(v=ax.60)">Statements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597288(v=ax.60)">Statements (form)</a></p></td>
 <td><p>Create a statement to group a store’s transactions for a specified date range, calculate the transaction amounts, and post the transactions.</p></td>
 </tr>
 </tbody>

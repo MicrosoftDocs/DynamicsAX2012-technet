@@ -1,9 +1,10 @@
-﻿---
+---
 title: Considerations for Creating a Report
 TOCTitle: Considerations for Creating a Report
 ms:assetid: 5b402bc4-2d57-41f9-84dd-bb73c818ba75
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731927(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731927(v=AX.60)
 ms:contentKeyID: 35132856
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -37,7 +38,7 @@ You must consider how complex the data access is for the report. The following t
 </tr>
 <tr class="even">
 <td><p>Complex</p></td>
-<td><p>When a dataset does not provide the complexity needs of your report, you can use the default <a href="https://technet.microsoft.com/en-us/library/gg940296(v=ax.60)">SrsReportRunController</a> class. A controller class runs the report by creating the user interface (UI), calling SQL Server Reporting Services, and pre-processing the parameters for the report. The following list describes scenarios that require that you extend the <a href="https://technet.microsoft.com/en-us/library/gg940296(v=ax.60)">SrsReportRunController</a> class to create a custom controller for the report.</p>
+<td><p>When a dataset does not provide the complexity needs of your report, you can use the default <a href="https://technet.microsoft.com/library/gg940296(v=ax.60)">SrsReportRunController</a> class. A controller class runs the report by creating the user interface (UI), calling SQL Server Reporting Services, and pre-processing the parameters for the report. The following list describes scenarios that require that you extend the <a href="https://technet.microsoft.com/library/gg940296(v=ax.60)">SrsReportRunController</a> class to create a custom controller for the report.</p>
 <ul>
 <li><p>Report requires input data to be pre-processed.</p></li>
 <li><p>Report requires input data to be manipulated or modified.</p></li>
@@ -105,7 +106,7 @@ You must consider whether the report will be used in the Microsoft Dynamics AX c
 
 [Report Programming Guide](report-programming-guide.md)
 
-[Reports](https://technet.microsoft.com/en-us/library/cc601396\(v=ax.60\))
+[Reports](https://technet.microsoft.com/library/cc601396\(v=ax.60\))
 
   
 **Announcements:** New book: "Inside Microsoft Dynamics AX 2012 R3" now available. Get your copy at the [MS Press Store](https://www.microsoftpressstore.com/store/inside-microsoft-dynamics-ax-2012-r3-9780735685109).

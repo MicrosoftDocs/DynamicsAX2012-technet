@@ -2,8 +2,9 @@
 title: Create a main account
 TOCTitle: Create a main account
 ms:assetid: cd0241ce-7191-4fe0-845a-3f92c4c8ba93
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572680(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572680(v=AX.60)
 ms:contentKeyID: 36059459
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -17,7 +18,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Use the **Main accounts - chart of accounts: %1** form to create a main account. A main account is an account in the general ledger. It is used to record financial transactions, balances, or totals that pertain to assets, liabilities, revenues, expenses, and owner equity. For more information about main accounts, see [Main accounts - chart of accounts (form)](https://technet.microsoft.com/en-us/library/hh209695\(v=ax.60\)).
+Use the **Main accounts - chart of accounts: %1** form to create a main account. A main account is an account in the general ledger. It is used to record financial transactions, balances, or totals that pertain to assets, liabilities, revenues, expenses, and owner equity. For more information about main accounts, see [Main accounts - chart of accounts (form)](https://technet.microsoft.com/library/hh209695\(v=ax.60\)).
 
 1.  Click **General ledger** \> **Setup** \> **Chart of accounts** \> **Chart of accounts**.
 
@@ -41,19 +42,19 @@ Use the **Main accounts - chart of accounts: %1** form to create a main account.
 
 
 
-9.  You can enter additional information in the other fields. For more information, see [Main accounts - chart of accounts (form)](https://technet.microsoft.com/en-us/library/hh209695\(v=ax.60\)).
+9.  You can enter additional information in the other fields. For more information, see [Main accounts - chart of accounts (form)](https://technet.microsoft.com/library/hh209695\(v=ax.60\)).
 
 ## See also
 
-[Chart of accounts (form)](https://technet.microsoft.com/en-us/library/aa618234\(v=ax.60\))
+[Chart of accounts (form)](https://technet.microsoft.com/library/aa618234\(v=ax.60\))
 
-[Configure account structures (form)](https://technet.microsoft.com/en-us/library/hh227362\(v=ax.60\))
+[Configure account structures (form)](https://technet.microsoft.com/library/hh227362\(v=ax.60\))
 
-[Automatic account type selection (form)](https://technet.microsoft.com/en-us/library/aa573049\(v=ax.60\))
+[Automatic account type selection (form)](https://technet.microsoft.com/library/aa573049\(v=ax.60\))
 
-[Link main accounts (form)](https://technet.microsoft.com/en-us/library/hh209475\(v=ax.60\))
+[Link main accounts (form)](https://technet.microsoft.com/library/hh209475\(v=ax.60\))
 
-[Main account categories (form)](https://technet.microsoft.com/en-us/library/hh227632\(v=ax.60\))
+[Main account categories (form)](https://technet.microsoft.com/library/hh227632\(v=ax.60\))
 
 [Main account categories and analysis cubes](main-account-categories-and-analysis-cubes.md)
 

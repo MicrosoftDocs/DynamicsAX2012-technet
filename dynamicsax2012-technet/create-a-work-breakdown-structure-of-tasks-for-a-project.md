@@ -2,8 +2,9 @@
 title: Create a work breakdown structure of tasks for a project
 TOCTitle: Create a work breakdown structure of tasks for a project
 ms:assetid: 0edfa121-3126-4dbd-84fa-81e096df838b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn528660(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn528660(v=AX.60)
 ms:contentKeyID: 59636744
+author: Khairunj
 ms.date: 06/09/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,7 +43,7 @@ You can create a WBS manually or import tasks from another WBS or a WBS template
 
 
 > [!NOTE]
-> <P>This topic does not apply to versions of Microsoft Dynamics AX prior to cumulative update 7 for Microsoft Dynamics AX 2012 R2. If you are using an earlier version of Microsoft Dynamics AX 2012, see <A href="https://technet.microsoft.com/en-us/library/hh209089(v=ax.60)">Work breakdown structure (form)</A>.</P>
+> <P>This topic does not apply to versions of Microsoft Dynamics AX prior to cumulative update 7 for Microsoft Dynamics AX 2012 R2. If you are using an earlier version of Microsoft Dynamics AX 2012, see <A href="https://technet.microsoft.com/library/hh209089(v=ax.60)">Work breakdown structure (form)</A>.</P>
 
 
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ConcurrentDictionary(TKey, TValue).Contains Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: Contains Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.Contains(System.Collections.Generic.KeyValuePair{`0,`1})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn989160(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn989160(v=AX.60)
 ms:contentKeyID: 65319115
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,16 +53,16 @@ virtual bool Contains(
 #### Parameters
 
   - item  
-    Type: [System.Collections.Generic.KeyValuePair](https://technet.microsoft.com/en-us/library/5tbh8a42\(v=ax.60\))\<[TKey](concurrentdictionary-tkey-tvalue-class-microsoft-dynamics-commerce-runtime-data.md), [TValue](concurrentdictionary-tkey-tvalue-class-microsoft-dynamics-commerce-runtime-data.md)\>  
+    Type: [System.Collections.Generic.KeyValuePair](https://technet.microsoft.com/library/5tbh8a42\(v=ax.60\))\<[TKey](concurrentdictionary-tkey-tvalue-class-microsoft-dynamics-commerce-runtime-data.md), [TValue](concurrentdictionary-tkey-tvalue-class-microsoft-dynamics-commerce-runtime-data.md)\>  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 Returns the boolean indicating whether the given item exists in dictionary.  
 
 #### Implements
 
-[ICollection\<T\>.Contains(T)](https://technet.microsoft.com/en-us/library/k5cf1d56\(v=ax.60\))  
+[ICollection\<T\>.Contains(T)](https://technet.microsoft.com/library/k5cf1d56\(v=ax.60\))  
 
 ## See Also
 

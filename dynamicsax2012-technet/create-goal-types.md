@@ -2,8 +2,9 @@
 title: Create goal types
 TOCTitle: Create goal types
 ms:assetid: d35fe4a7-8dde-4383-a358-e800ece38834
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213689(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213689(v=AX.60)
 ms:contentKeyID: 36059510
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,9 +55,9 @@ User-defined fields for goal types are displayed on the **Additional goal inform
 
 [Setting up performance information](setting-up-performance-information.md)
 
-[Goal types (form)](https://technet.microsoft.com/en-us/library/hh208815\(v=ax.60\))
+[Goal types (form)](https://technet.microsoft.com/library/hh208815\(v=ax.60\))
 
-[Goal details (form)](https://technet.microsoft.com/en-us/library/hh227645\(v=ax.60\))
+[Goal details (form)](https://technet.microsoft.com/library/hh227645\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Configure a parallel branch
 TOCTitle: Configure a parallel branch
 ms:assetid: 92f32ded-7b00-4bec-ba37-da0f3b76ef8a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731871(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731871(v=AX.60)
 ms:contentKeyID: 35132766
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Compile application
 TOCTitle: Compile application
 ms:assetid: 0e8bcd9c-b497-4fce-8ec5-1ea3253aca9b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309589(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309589(v=AX.60)
 ms:contentKeyID: 35132542
+author: Khairunj
 ms.date: 06/11/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,11 +51,11 @@ Because there are several ways to compile, you should choose the most efficient 
 
 
 
-2.  If you have access to the Developer Workspace, you can compile the application from the Microsoft Dynamics AX Application Object Tree (AOT). As in method 1, this is a client-based compilation. For more information, see [Code Compiler](https://technet.microsoft.com/en-us/library/aa865330\(v=ax.60\)).
+2.  If you have access to the Developer Workspace, you can compile the application from the Microsoft Dynamics AX Application Object Tree (AOT). As in method 1, this is a client-based compilation. For more information, see [Code Compiler](https://technet.microsoft.com/library/aa865330\(v=ax.60\)).
 
 3.  In Microsoft Dynamics AX 2012 R3, and starting in cumulative update 7 for Microsoft Dynamics AX 2012 R2, you can use AxBuild.exe to perform a complete X++ compilation. AxBuild.exe is a server-based command-line tool that supports multithreading and can deliver significant performance gains compared to doing a full compilation from the client. To use AxBuild.exe, you must stop the AOS and run the command manually on the AOD server computer. Afterward, you can restart the AOS, open a client, and continue with other tasks.
     
-    For more information, see [AxBuild.exe for Parallel Compile on AOS of X++ to p-code](https://technet.microsoft.com/en-us/library/dn528954\(v=ax.60\)).
+    For more information, see [AxBuild.exe for Parallel Compile on AOS of X++ to p-code](https://technet.microsoft.com/library/dn528954\(v=ax.60\)).
 
   
 

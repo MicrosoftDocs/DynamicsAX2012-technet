@@ -2,8 +2,9 @@
 title: Create collection letters
 TOCTitle: Create collection letters
 ms:assetid: 0e682e57-c057-45cd-bfdf-319a4c68dc14
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496410(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496410(v=AX.60)
 ms:contentKeyID: 36655923
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

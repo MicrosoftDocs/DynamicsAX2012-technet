@@ -1,9 +1,10 @@
-﻿---
+---
 title: ConcurrentDictionary(TKey, TValue).Keys Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: Keys Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.Keys
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn968122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn968122(v=AX.60)
 ms:contentKeyID: 65320486
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ ICollection<TKey>^ Keys()
 
 #### Return Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[TKey](concurrentdictionary-tkey-tvalue-class-microsoft-dynamics-commerce-runtime-data.md)\>  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[TKey](concurrentdictionary-tkey-tvalue-class-microsoft-dynamics-commerce-runtime-data.md)\>  
 Returns the collection of dictionary keys.  
 
 ## See Also

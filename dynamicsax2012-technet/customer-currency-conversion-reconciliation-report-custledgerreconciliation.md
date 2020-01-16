@@ -2,8 +2,9 @@
 title: Customer currency conversion reconciliation report (CustLedgerReconciliation)
 TOCTitle: Customer currency conversion reconciliation report (CustLedgerReconciliation)
 ms:assetid: f24fbb18-fe41-45bb-816a-3eb1fb9e5270
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa620739(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa620739(v=AX.60)
 ms:contentKeyID: 36956720
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

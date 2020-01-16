@@ -2,8 +2,9 @@
 title: Create a customer request
 TOCTitle: Create a customer request
 ms:assetid: 084827e4-09e1-43d3-b2ee-0b1ecfe419d3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn237260(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn237260(v=AX.60)
 ms:contentKeyID: 54273728
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

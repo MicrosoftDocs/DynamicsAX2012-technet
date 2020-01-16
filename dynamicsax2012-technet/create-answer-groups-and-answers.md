@@ -2,8 +2,9 @@
 title: Create answer groups and answers
 TOCTitle: Create answer groups and answers
 ms:assetid: 7b7d57c3-84d1-419f-9ac4-7d7a1e1d8400
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597136(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597136(v=AX.60)
 ms:contentKeyID: 39519190
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ Use the **Answer groups** form to control the order in which the answers in an a
 
 7.  To view questions that currently use the answer group, click **Questions**.
 
-For more information about the **Answer groups** form, see [Answer groups (form)](https://technet.microsoft.com/en-us/library/aa598051\(v=ax.60\)).
+For more information about the **Answer groups** form, see [Answer groups (form)](https://technet.microsoft.com/library/aa598051\(v=ax.60\)).
 
 ## Answers
 
@@ -63,7 +64,7 @@ For more information about the **Answer groups** form, see [Answer groups (form)
 
 7.  In the **Correct answer** box, indicate whether the answer is correct.
 
-For more information about the **Answer** form, see [Answers (form)](https://technet.microsoft.com/en-us/library/aa557954\(v=ax.60\)).
+For more information about the **Answer** form, see [Answers (form)](https://technet.microsoft.com/library/aa557954\(v=ax.60\)).
 
 ## Possible next steps
 

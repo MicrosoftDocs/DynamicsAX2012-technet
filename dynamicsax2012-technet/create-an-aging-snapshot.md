@@ -2,8 +2,9 @@
 title: Create an aging snapshot
 TOCTitle: Create an aging snapshot
 ms:assetid: b85e770b-7548-499e-8728-c0512f6eae0f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242759(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242759(v=AX.60)
 ms:contentKeyID: 36059110
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -26,7 +27,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Create aging snapshot records for all customers or for the customers in a customer pool. Aging snapshot information is shown on the **Collections** list page and in the **Collections** form. You must create an aging snapshot before you can use the list page. The list page shows information only for customers for whom an aging snapshot has been created. For more information, see [Customer aging snapshot (form)](https://technet.microsoft.com/en-us/library/hh242719\(v=ax.60\)).
+Create aging snapshot records for all customers or for the customers in a customer pool. Aging snapshot information is shown on the **Collections** list page and in the **Collections** form. You must create an aging snapshot before you can use the list page. The list page shows information only for customers for whom an aging snapshot has been created. For more information, see [Customer aging snapshot (form)](https://technet.microsoft.com/library/hh242719\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Periodic** \> **Collections** \> **Customer aging snapshot**.
 

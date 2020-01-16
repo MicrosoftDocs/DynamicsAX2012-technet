@@ -2,8 +2,9 @@
 title: Create an estimate project
 TOCTitle: Create an estimate project
 ms:assetid: 97f9011a-0e30-4f74-a13e-a880dd2201e7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498437(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498437(v=AX.60)
 ms:contentKeyID: 36811420
+author: Khairunj
 ms.date: 08/29/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,11 +55,11 @@ Use the **Estimate projects** form to identify which projects should be defined 
 
 ## See also
 
-[Estimate (form)](https://technet.microsoft.com/en-us/library/aa590971\(v=ax.60\))
+[Estimate (form)](https://technet.microsoft.com/library/aa590971\(v=ax.60\))
 
-[Estimate projects (form)](https://technet.microsoft.com/en-us/library/aa599196\(v=ax.60\))
+[Estimate projects (form)](https://technet.microsoft.com/library/aa599196\(v=ax.60\))
 
-[Create estimate (class form)](https://technet.microsoft.com/en-us/library/aa553468\(v=ax.60\))
+[Create estimate (class form)](https://technet.microsoft.com/library/aa553468\(v=ax.60\))
 
 [About maintaining estimates](about-maintaining-estimates.md)
 

@@ -2,8 +2,9 @@
 title: Create a rework batch order
 TOCTitle: Create a rework batch order
 ms:assetid: c539adb6-d9da-433b-a6c4-7844b8f0d2d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352346(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352346(v=AX.60)
 ms:contentKeyID: 36687977
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,11 +52,11 @@ Use this procedure to create a rework batch order. You can create a rework batch
 
 [About batch orders](about-batch-orders.md)
 
-[Create batch (form)](https://technet.microsoft.com/en-us/library/hh328644\(v=ax.60\))
+[Create batch (form)](https://technet.microsoft.com/library/hh328644\(v=ax.60\))
 
-[Formula line (form)](https://technet.microsoft.com/en-us/library/hh352331\(v=ax.60\))
+[Formula line (form)](https://technet.microsoft.com/library/hh352331\(v=ax.60\))
 
-[Route (form)](https://technet.microsoft.com/en-us/library/aa550121\(v=ax.60\))
+[Route (form)](https://technet.microsoft.com/library/aa550121\(v=ax.60\))
 
   
 

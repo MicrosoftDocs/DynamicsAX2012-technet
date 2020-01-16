@@ -2,8 +2,9 @@
 title: Create or update route operations
 TOCTitle: Create or update route operations
 ms:assetid: 438c4750-7263-473d-bef5-3d7253e84b9a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496965(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496965(v=AX.60)
 ms:contentKeyID: 36056879
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

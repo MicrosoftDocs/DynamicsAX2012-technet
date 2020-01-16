@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerManager.ValidateAccountActivationRequest Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: ValidateAccountActivationRequest Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.CustomerManager.ValidateAccountActivationRequest(System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.customermanager.validateaccountactivationrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.customermanager.validateaccountactivationrequest(v=AX.60)
 ms:contentKeyID: 62208872
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,12 +57,12 @@ void ValidateAccountActivationRequest(
 #### Parameters
 
   - emailAddress  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - activationToken  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

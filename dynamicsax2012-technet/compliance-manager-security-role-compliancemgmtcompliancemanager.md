@@ -2,8 +2,9 @@
 title: Compliance manager security role (ComplianceMgmtComplianceManager)
 TOCTitle: Compliance manager security role (ComplianceMgmtComplianceManager)
 ms:assetid: 269f7620-9ddc-4f8c-a166-19445de146e1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527076(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527076(v=AX.60)
 ms:contentKeyID: 37823128
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

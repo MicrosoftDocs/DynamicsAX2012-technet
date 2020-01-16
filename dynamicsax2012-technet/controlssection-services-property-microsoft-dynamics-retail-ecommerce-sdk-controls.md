@@ -1,9 +1,10 @@
-﻿---
+---
 title: ControlsSection.Services Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls)
 TOCTitle: Services Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls.ControlsSection.Services
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.controls.controlssection.services(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.controls.controlssection.services(v=AX.60)
 ms:contentKeyID: 65317266
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

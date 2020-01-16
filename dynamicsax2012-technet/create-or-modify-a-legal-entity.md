@@ -2,8 +2,9 @@
 title: Create or modify a legal entity
 TOCTitle: Create or modify a legal entity
 ms:assetid: 35fd4342-77d6-45ea-bc2e-ae416945c856
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242184(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242184(v=AX.60)
 ms:contentKeyID: 36056575
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

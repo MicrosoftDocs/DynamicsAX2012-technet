@@ -2,8 +2,9 @@
 title: Customer balance list report (CustProvisionalBalance)
 TOCTitle: Customer balance list report (CustProvisionalBalance)
 ms:assetid: 07bbbd60-efc0-45cd-a739-0e9b659a70c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550100(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550100(v=AX.60)
 ms:contentKeyID: 36956680
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

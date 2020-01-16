@@ -1,9 +1,10 @@
-﻿---
+---
 title: Creating Query Service Test Data
 TOCTitle: Creating Query Service Test Data
 ms:assetid: 3b7a97d5-3d04-4220-89bb-de138239e85c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg861773(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg861773(v=AX.60)
 ms:contentKeyID: 35242898
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -27,7 +28,7 @@ This topic contains X++ jobs that create tables, table data, queries, and other 
 
 ## Hierarchical Tables, Data and Query
 
-The following jobs create tables that implement table inheritance, populate those tables with sample data, and create a query that accesses the tables. In this scenario, the tables contain parties which can be either an organization or a person. For more information about Table Inheritance, see [Table Inheritance Overview](https://technet.microsoft.com/en-us/library/gg881053\(v=ax.60\)).
+The following jobs create tables that implement table inheritance, populate those tables with sample data, and create a query that accesses the tables. In this scenario, the tables contain parties which can be either an organization or a person. For more information about Table Inheritance, see [Table Inheritance Overview](https://technet.microsoft.com/library/gg881053\(v=ax.60\)).
 
 ### Create the Hierarchical Tables
 
@@ -219,7 +220,7 @@ The following job creates a query that accesses the hierarchical tables.
 
 ## Date Effective Table and Data
 
-The following jobs create a table that implements date effective fields and populate the table with sample data. In this scenario, the table contains employees. Multiple records for a single employee can occur in the table, but each record must have different values for the ValidFrom and ValidTo fields, and there can be no overlap in the dates. For more information about date effective tables and fields, see [Valid Time State Tables and Date Effective Data](https://technet.microsoft.com/en-us/library/gg861781\(v=ax.60\)).
+The following jobs create a table that implements date effective fields and populate the table with sample data. In this scenario, the table contains employees. Multiple records for a single employee can occur in the table, but each record must have different values for the ValidFrom and ValidTo fields, and there can be no overlap in the dates. For more information about date effective tables and fields, see [Valid Time State Tables and Date Effective Data](https://technet.microsoft.com/library/gg861781\(v=ax.60\)).
 
 ### Create the Date Effective Table
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Currency.NumberOfDecimals Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: NumberOfDecimals Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Currency.NumberOfDecimals
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.currency.numberofdecimals(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.currency.numberofdecimals(v=AX.60)
 ms:contentKeyID: 62210005
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,8 +55,8 @@ property short NumberOfDecimals {
 
 #### Property Value
 
-Type: [System.Int16](https://technet.microsoft.com/en-us/library/e07e6fds\(v=ax.60\))  
-Returns [Int16](https://technet.microsoft.com/en-us/library/e07e6fds\(v=ax.60\)).  
+Type: [System.Int16](https://technet.microsoft.com/library/e07e6fds\(v=ax.60\))  
+Returns [Int16](https://technet.microsoft.com/library/e07e6fds\(v=ax.60\)).  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: Copy a stored address to a project sales quotation
 TOCTitle: Copy a stored address to a project sales quotation
 ms:assetid: f1a00b9d-606d-467d-abd9-989c2c6e14b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220775(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220775(v=AX.60)
 ms:contentKeyID: 36059954
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,9 +49,9 @@ Use this procedure to copy the address for a customer, vendor, warehouse, compan
 
 [About multiple delivery addresses for sales orders](about-multiple-delivery-addresses-for-sales-orders.md)
 
-[Project quotation (form)](https://technet.microsoft.com/en-us/library/aa557295\(v=ax.60\))
+[Project quotation (form)](https://technet.microsoft.com/library/aa557295\(v=ax.60\))
 
-[Sales quotation (form)](https://technet.microsoft.com/en-us/library/aa557026\(v=ax.60\))
+[Sales quotation (form)](https://technet.microsoft.com/library/aa557026\(v=ax.60\))
 
   
 

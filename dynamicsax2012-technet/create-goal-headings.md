@@ -2,8 +2,9 @@
 title: Create goal headings
 TOCTitle: Create goal headings
 ms:assetid: e6b7200b-2bd3-4226-95be-fcbd5045a682
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243229(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243229(v=AX.60)
 ms:contentKeyID: 36059807
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,9 +34,9 @@ Before you can set goals for workers, you must set up one or more goal headings.
 
 [Create goal types](create-goal-types.md)
 
-[Goal types (form)](https://technet.microsoft.com/en-us/library/hh208815\(v=ax.60\))
+[Goal types (form)](https://technet.microsoft.com/library/hh208815\(v=ax.60\))
 
-[Goal details (form)](https://technet.microsoft.com/en-us/library/hh227645\(v=ax.60\))
+[Goal details (form)](https://technet.microsoft.com/library/hh227645\(v=ax.60\))
 
   
 

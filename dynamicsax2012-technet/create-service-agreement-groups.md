@@ -2,8 +2,9 @@
 title: Create service agreement groups
 TOCTitle: Create service agreement groups
 ms:assetid: d904caec-aae8-49de-8d04-c78d0c2efd6d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499495(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499495(v=AX.60)
 ms:contentKeyID: 36059648
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

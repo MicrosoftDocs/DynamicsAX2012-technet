@@ -2,8 +2,9 @@
 title: Create and modify capabilities for operations resources
 TOCTitle: Create and modify capabilities for operations resources
 ms:assetid: 8aee0253-af9e-4126-8263-aa2aeea4b185
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209345(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209345(v=AX.60)
 ms:contentKeyID: 36058471
+author: Khairunj
 ms.date: 09/16/2014
 mtps_version: v=AX.60
 f1_keywords:

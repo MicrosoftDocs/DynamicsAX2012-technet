@@ -2,8 +2,9 @@
 title: Create and submit an original project budget
 TOCTitle: Create and submit an original project budget
 ms:assetid: aab445d0-783a-497b-96ce-d0b8fc819e47
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242692(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242692(v=AX.60)
 ms:contentKeyID: 36058903
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -140,13 +141,13 @@ After you select the settings for a project budget, create a budget for the esti
 
 [Carry forward project budgets at year-end](carry-forward-project-budgets-at-year-end.md)
 
-[Project budget (form)](https://technet.microsoft.com/en-us/library/hh227438\(v=ax.60\))
+[Project budget (form)](https://technet.microsoft.com/library/hh227438\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Project budget settings for user groups (form)](https://technet.microsoft.com/en-us/library/hh242598\(v=ax.60\))
+[Project budget settings for user groups (form)](https://technet.microsoft.com/library/hh242598\(v=ax.60\))
 
-[Project budget allocation (form)](https://technet.microsoft.com/en-us/library/hh242461\(v=ax.60\))
+[Project budget allocation (form)](https://technet.microsoft.com/library/hh242461\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Create a location directive
 TOCTitle: Create a location directive
 ms:assetid: fd0e708b-747e-4944-a5a8-f4174cabad6a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553215(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553215(v=AX.60)
 ms:contentKeyID: 62221427
+author: Khairunj
 ms.date: 04/07/2017
 mtps_version: v=AX.60
 f1_keywords:

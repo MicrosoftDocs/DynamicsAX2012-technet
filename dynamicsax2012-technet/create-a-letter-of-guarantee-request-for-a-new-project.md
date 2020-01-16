@@ -2,8 +2,9 @@
 title: Create a letter of guarantee request for a new project
 TOCTitle: Create a letter of guarantee request for a new project
 ms:assetid: 8f24ce8c-a08c-40dd-b21f-0868c56dfbfb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209363(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209363(v=AX.60)
 ms:contentKeyID: 36058518
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,7 +43,7 @@ Use the **Projects** form to create a new project with the **Bank document type*
 
 9.  Click **OK** to return to the **Projects** form.
 
-10. Enter the required details. For more information, see [Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\)).
+10. Enter the required details. For more information, see [Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\)).
 
 11. Click the **General** FastTab, and then in the **Bank document type** field, select **Letter of guarantee**.
 
@@ -60,7 +61,7 @@ You can request a letter of guarantee for a project using the **Letter of guaran
 
 ## See also
 
-[Create project (form)](https://technet.microsoft.com/en-us/library/aa550120\(v=ax.60\))
+[Create project (form)](https://technet.microsoft.com/library/aa550120\(v=ax.60\))
 
 [Create a letter of guarantee request for a project quotation](create-a-letter-of-guarantee-request-for-a-project-quotation.md)
 

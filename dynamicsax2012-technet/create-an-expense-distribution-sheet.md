@@ -2,8 +2,9 @@
 title: Create an expense distribution sheet
 TOCTitle: Create an expense distribution sheet
 ms:assetid: c588d46e-856b-454b-8540-c953901ebe28
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550756(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550756(v=AX.60)
 ms:contentKeyID: 36059301
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,7 +58,7 @@ You can define columns that you want to view in the report.
 
 ## See also
 
-[Cost accounting report (form)](https://technet.microsoft.com/en-us/library/aa548502\(v=ax.60\))
+[Cost accounting report (form)](https://technet.microsoft.com/library/aa548502\(v=ax.60\))
 
 [Expense distribution sheet](expense-distribution-sheet.md)
 

@@ -2,8 +2,9 @@
 title: Configuring product-wide features
 TOCTitle: Configuring product-wide features
 ms:assetid: 2ee243d6-f679-4675-b71e-ddcaa575b5a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208532(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208532(v=AX.60)
 ms:contentKeyID: 36056281
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

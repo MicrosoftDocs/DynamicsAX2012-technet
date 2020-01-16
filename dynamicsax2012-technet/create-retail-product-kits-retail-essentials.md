@@ -2,8 +2,9 @@
 title: Create retail product kits (Retail essentials)
 TOCTitle: Create retail product kits (Retail essentials)
 ms:assetid: 1def1161-4812-4416-bbf6-d0f50dbca7d5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859557(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859557(v=AX.60)
 ms:contentKeyID: 63820132
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
@@ -44,11 +45,11 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p>Set up kit parameters</p></td>
 <td><p>Specify the journal name to use to generate trade agreements for products and product variants that are included in a retail product kit.</p>
-<p>For more information about how to set up kit parameters, see <a href="https://technet.microsoft.com/en-us/library/hh597194(v=ax.60)">Retail parameters (form)</a>.</p></td>
+<p>For more information about how to set up kit parameters, see <a href="https://technet.microsoft.com/library/hh597194(v=ax.60)">Retail parameters (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Set up receipt formats for kit products</p></td>
-<td><p>Specify whether to show the individual kit components on the product receipt. For more information about how to set up receipt formats for product kits, see <a href="https://technet.microsoft.com/en-us/library/hh597181(v=ax.60)">POS functionality profile (form)</a>.</p></td>
+<td><p>Specify whether to show the individual kit components on the product receipt. For more information about how to set up receipt formats for product kits, see <a href="https://technet.microsoft.com/library/hh597181(v=ax.60)">POS functionality profile (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Set up products</p></td>
@@ -76,7 +77,7 @@ To create a product kit, follow these steps:
         
         The **Product kit** check box is selected by default.
     
-      - In the **Product dimension group** field, select the product dimension group that includes the **Configuration** product dimension. For more information about product dimension groups, see [Product dimension groups (form)](https://technet.microsoft.com/en-us/library/hh227672\(v=ax.60\)).
+      - In the **Product dimension group** field, select the product dimension group that includes the **Configuration** product dimension. For more information about product dimension groups, see [Product dimension groups (form)](https://technet.microsoft.com/library/hh227672\(v=ax.60\)).
 
 4.  Leave the default values for all other fields, and then click **OK**.
 

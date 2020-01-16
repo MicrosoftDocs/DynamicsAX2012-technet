@@ -2,8 +2,9 @@
 title: Create questions and question actions in RapidStart Services
 TOCTitle: Create questions and question actions in RapidStart Services
 ms:assetid: 5cace1d2-2369-4399-a64d-b37c4d360621
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413234(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413234(v=AX.60)
 ms:contentKeyID: 36918925
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

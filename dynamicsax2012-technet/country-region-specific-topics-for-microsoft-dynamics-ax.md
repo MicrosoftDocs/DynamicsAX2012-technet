@@ -2,8 +2,9 @@
 title: Country/region-specific topics for Microsoft Dynamics AX
 TOCTitle: Country/region-specific topics for Microsoft Dynamics AX
 ms:assetid: d4332e46-a6bd-4c82-adf5-fc236485bfb3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213693(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213693(v=AX.60)
 ms:contentKeyID: 36059518
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ Microsoft Dynamics AX is updated as country/region-specific requirements change.
 
 
 > [!NOTE]
-> <P>Country/region-specific features are available based on the country/region that is associated with the primary address of the legal entity. For example, if the primary address of the legal entity (in the <A href="https://technet.microsoft.com/en-us/library/hh242860(v=ax.60)">Legal entities (form)</A>) is in Spain, users have access to features specific to Spain.</P>
+> <P>Country/region-specific features are available based on the country/region that is associated with the primary address of the legal entity. For example, if the primary address of the legal entity (in the <A href="https://technet.microsoft.com/library/hh242860(v=ax.60)">Legal entities (form)</A>) is in Spain, users have access to features specific to Spain.</P>
 
 
   

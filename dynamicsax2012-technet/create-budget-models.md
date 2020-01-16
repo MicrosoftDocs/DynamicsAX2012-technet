@@ -2,8 +2,9 @@
 title: Create budget models
 TOCTitle: Create budget models
 ms:assetid: 69c5ee29-fd52-481e-8b10-7bbdb0f3045f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571172(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571172(v=AX.60)
 ms:contentKeyID: 36057973
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ In the **Budget model** form, you can select the following check boxes for budge
 
 3.  Enter an identifier and a name for the budget model.
 
-4.  Enter other details about the model as needed, and add any submodels. For more information, see [Budget model (form)](https://technet.microsoft.com/en-us/library/aa586905\(v=ax.60\)).
+4.  Enter other details about the model as needed, and add any submodels. For more information, see [Budget model (form)](https://technet.microsoft.com/library/aa586905\(v=ax.60\)).
 
 ## See also
 

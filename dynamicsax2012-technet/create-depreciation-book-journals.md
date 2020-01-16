@@ -2,8 +2,9 @@
 title: Create depreciation book journals
 TOCTitle: Create depreciation book journals
 ms:assetid: 992eccf3-e80d-4d9d-af5b-0925f906dddd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498443(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498443(v=AX.60)
 ms:contentKeyID: 36810350
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ Use the **Depreciation book journal** form to create depreciation book journals.
 
 ## See also
 
-[Depreciation book journal (form)](https://technet.microsoft.com/en-us/library/aa634765\(v=ax.60\))
+[Depreciation book journal (form)](https://technet.microsoft.com/library/aa634765\(v=ax.60\))
 
   
 

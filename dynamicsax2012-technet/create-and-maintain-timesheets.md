@@ -2,8 +2,9 @@
 title: Create and maintain timesheets
 TOCTitle: Create and maintain timesheets
 ms:assetid: 2a6eb8bf-5770-479c-be3c-6bad732b65d1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208497(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208497(v=AX.60)
 ms:contentKeyID: 36056234
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

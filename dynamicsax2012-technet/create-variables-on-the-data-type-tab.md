@@ -2,8 +2,9 @@
 title: Create variables on the Data type tab
 TOCTitle: Create variables on the Data type tab
 ms:assetid: 5f091f51-d3f8-4d9f-b2ae-0d17fca9f3de
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549112(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549112(v=AX.60)
 ms:contentKeyID: 36057585
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ Use this variable type to gain access to all Microsoft Dynamics AX extended data
 
 ## See also
 
-[Product models (form)](https://technet.microsoft.com/en-us/library/aa572853\(v=ax.60\))
+[Product models (form)](https://technet.microsoft.com/library/aa572853\(v=ax.60\))
 
   
 

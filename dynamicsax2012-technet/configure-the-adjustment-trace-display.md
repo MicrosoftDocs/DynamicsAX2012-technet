@@ -2,8 +2,9 @@
 title: Configure the adjustment trace display
 TOCTitle: Configure the adjustment trace display
 ms:assetid: b6b5a2c1-bbaf-418f-8b78-5728d236db57
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242756(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242756(v=AX.60)
 ms:contentKeyID: 36059096
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,19 +35,19 @@ Use the **Adjustment tree setup** form to select the fields that you want to be 
 
 ## See also
 
-[Adjustment tree setup (form)](https://technet.microsoft.com/en-us/library/hh209634\(v=ax.60\))
+[Adjustment tree setup (form)](https://technet.microsoft.com/library/hh209634\(v=ax.60\))
 
-[Adjustments (form)](https://technet.microsoft.com/en-us/library/aa553205\(v=ax.60\))
+[Adjustments (form)](https://technet.microsoft.com/library/aa553205\(v=ax.60\))
 
-[Hour transactions (form)](https://technet.microsoft.com/en-us/library/aa572825\(v=ax.60\))
+[Hour transactions (form)](https://technet.microsoft.com/library/aa572825\(v=ax.60\))
 
-[Expense transactions (form)](https://technet.microsoft.com/en-us/library/aa599188\(v=ax.60\))
+[Expense transactions (form)](https://technet.microsoft.com/library/aa599188\(v=ax.60\))
 
-[Fee transactions (form)](https://technet.microsoft.com/en-us/library/aa618753\(v=ax.60\))
+[Fee transactions (form)](https://technet.microsoft.com/library/aa618753\(v=ax.60\))
 
-[Item transactions (form)](https://technet.microsoft.com/en-us/library/aa599479\(v=ax.60\))
+[Item transactions (form)](https://technet.microsoft.com/library/aa599479\(v=ax.60\))
 
-[On-account transactions (form)](https://technet.microsoft.com/en-us/library/aa557380\(v=ax.60\))
+[On-account transactions (form)](https://technet.microsoft.com/library/aa557380\(v=ax.60\))
 
   
 

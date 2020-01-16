@@ -2,8 +2,9 @@
 title: Create an invoice for a fixed-price project
 TOCTitle: Create an invoice for a fixed-price project
 ms:assetid: acb0bbcd-8632-4697-8ef3-0a95a35a92a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498578(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498578(v=AX.60)
 ms:contentKeyID: 36058922
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,11 +32,11 @@ _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 
 
 6.  In the **Select transactions** section, select the starting date, ending date, and transaction types that you want to include in the search criteria. Click **Search**.
 
-7.  In the list of project transactions, select the transactions to include in the invoice proposal. For more information about how to select transactions for an invoice proposal, see [Create invoice proposal (form)](https://technet.microsoft.com/en-us/library/jj683236\(v=ax.60\)).
+7.  In the list of project transactions, select the transactions to include in the invoice proposal. For more information about how to select transactions for an invoice proposal, see [Create invoice proposal (form)](https://technet.microsoft.com/library/jj683236\(v=ax.60\)).
     
 
     > [!NOTE]
-    > <P>If you set up billing rules for a project contract, see <A href="https://technet.microsoft.com/en-us/library/jj683235(v=ax.60)">Create invoice proposals for projects that have billing rules (form)</A>.</P>
+    > <P>If you set up billing rules for a project contract, see <A href="https://technet.microsoft.com/library/jj683235(v=ax.60)">Create invoice proposals for projects that have billing rules (form)</A>.</P>
 
 
 
@@ -51,13 +52,13 @@ _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 
 
 ## See also
 
-[Invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa615408\(v=ax.60\))
+[Invoice proposals (form)](https://technet.microsoft.com/library/aa615408\(v=ax.60\))
 
 [About invoicing fixed-price projects](about-invoicing-fixed-price-projects.md)
 
-[Post invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa620017\(v=ax.60\))
+[Post invoice proposals (form)](https://technet.microsoft.com/library/aa620017\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
   
 

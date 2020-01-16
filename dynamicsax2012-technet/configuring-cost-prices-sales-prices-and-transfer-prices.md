@@ -2,8 +2,9 @@
 title: Configuring cost prices, sales prices, and transfer prices
 TOCTitle: Configuring cost prices, sales prices, and transfer prices
 ms:assetid: bc998823-1256-48c9-852b-f0d57fef5fff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498867(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498867(v=AX.60)
 ms:contentKeyID: 36059137
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

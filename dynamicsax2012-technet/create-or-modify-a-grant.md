@@ -2,8 +2,9 @@
 title: Create or modify a grant
 TOCTitle: Create or modify a grant
 ms:assetid: 6d72a050-52d3-43f8-a6df-aeed35a4914b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242638(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242638(v=AX.60)
 ms:contentKeyID: 36058029
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -71,9 +72,9 @@ You can create a grant by entering all of the details into a new record, or you 
     <td><p><strong>Associated projects and project contracts</strong></p></td>
     <td><p>Click a button to do any of the following:</p>
     <ul>
-    <li><p><strong>Add funding source</strong> – Add a new funding source for the grant. You can enter all the details now, or use default information and update it later. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh242771(v=ax.60)">Funding source definition (form)</a>.</p></li>
-    <li><p><strong>Add project contract</strong> – Add or update project contract information. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa586038(v=ax.60)">Project contracts (form)</a>.</p></li>
-    <li><p><strong>Add project</strong> – Add or update project details. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa585245(v=ax.60)">Projects (form)</a>.</p></li>
+    <li><p><strong>Add funding source</strong> – Add a new funding source for the grant. You can enter all the details now, or use default information and update it later. For more information, see <a href="https://technet.microsoft.com/library/hh242771(v=ax.60)">Funding source definition (form)</a>.</p></li>
+    <li><p><strong>Add project contract</strong> – Add or update project contract information. For more information, see <a href="https://technet.microsoft.com/library/aa586038(v=ax.60)">Project contracts (form)</a>.</p></li>
+    <li><p><strong>Add project</strong> – Add or update project details. For more information, see <a href="https://technet.microsoft.com/library/aa585245(v=ax.60)">Projects (form)</a>.</p></li>
     </ul>
     <div class="alert">
 
@@ -85,7 +86,7 @@ You can create a grant by entering all of the details into a new record, or you 
     </tr>
     <tr class="odd">
     <td><p><strong>Setup</strong></p></td>
-    <td><p>Enter details about matching funds, if they are required. Many organizations that award grants require a recipient to spend a certain amount of their own money or resources to match what is awarded in the grant. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh227437(v=ax.60)">Matching types (form)</a>.</p>
+    <td><p>Enter details about matching funds, if they are required. Many organizations that award grants require a recipient to spend a certain amount of their own money or resources to match what is awarded in the grant. For more information, see <a href="https://technet.microsoft.com/library/hh227437(v=ax.60)">Matching types (form)</a>.</p>
     <p>In the <strong>Local project or tracking ID</strong> field, you can enter an identifier that is different from the project identifier. Select the <strong>Subgrantor</strong> check box if part of the grant will be awarded to a different organization.</p>
     <p>For grants that are awarded in the United States, you can specify whether a grant will be awarded under a state or federal mandate.</p></td>
     </tr>
@@ -109,7 +110,7 @@ You can create a grant by entering all of the details into a new record, or you 
 
 5.  In the **Grant details** form, review the details of the copied grant and make changes as necessary.
     
-    Most fields in the form are optional. For more information, see [Grant details (form)](https://technet.microsoft.com/en-us/library/hh242883\(v=ax.60\)).
+    Most fields in the form are optional. For more information, see [Grant details (form)](https://technet.microsoft.com/library/hh242883\(v=ax.60\)).
 
 ## View or modify the details for an existing grant
 
@@ -119,25 +120,25 @@ You can create a grant by entering all of the details into a new record, or you 
 
 3.  On the **Action Pane**, on the **Grant** tab, in the **Maintain** group, click **Edit**.
 
-4.  Review the grant details and make changes as necessary. For more information about specific fields, see [Grant details (form)](https://technet.microsoft.com/en-us/library/hh242883\(v=ax.60\)).
+4.  Review the grant details and make changes as necessary. For more information about specific fields, see [Grant details (form)](https://technet.microsoft.com/library/hh242883\(v=ax.60\)).
 
 ## See also
 
-[Funding source details (form)](https://technet.microsoft.com/en-us/library/hh209607\(v=ax.60\))
+[Funding source details (form)](https://technet.microsoft.com/library/hh209607\(v=ax.60\))
 
-[Funding source definition (form)](https://technet.microsoft.com/en-us/library/hh242771\(v=ax.60\))
+[Funding source definition (form)](https://technet.microsoft.com/library/hh242771\(v=ax.60\))
 
-[Grant details (form)](https://technet.microsoft.com/en-us/library/hh242883\(v=ax.60\))
+[Grant details (form)](https://technet.microsoft.com/library/hh242883\(v=ax.60\))
 
-[Grant types (form)](https://technet.microsoft.com/en-us/library/hh227643\(v=ax.60\))
+[Grant types (form)](https://technet.microsoft.com/library/hh227643\(v=ax.60\))
 
-[Grant customer types (form)](https://technet.microsoft.com/en-us/library/hh209046\(v=ax.60\))
+[Grant customer types (form)](https://technet.microsoft.com/library/hh209046\(v=ax.60\))
 
-[Matching types (form)](https://technet.microsoft.com/en-us/library/hh227437\(v=ax.60\))
+[Matching types (form)](https://technet.microsoft.com/library/hh227437\(v=ax.60\))
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
   
 

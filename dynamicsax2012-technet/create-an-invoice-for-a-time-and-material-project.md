@@ -2,8 +2,9 @@
 title: Create an invoice for a time and material project
 TOCTitle: Create an invoice for a time and material project
 ms:assetid: 3257c81d-17ba-4ef9-a927-2beac5269fae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570061(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570061(v=AX.60)
 ms:contentKeyID: 36056356
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,19 +63,19 @@ You can also print an invoice from the **Invoice proposals** form.
 
 [Approve or reject an invoice proposal](approve-or-reject-an-invoice-proposal.md)
 
-[Invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa615408\(v=ax.60\))
+[Invoice proposals (form)](https://technet.microsoft.com/library/aa615408\(v=ax.60\))
 
-[Create invoice proposals (class form)](https://technet.microsoft.com/en-us/library/aa600958\(v=ax.60\))
+[Create invoice proposals (class form)](https://technet.microsoft.com/library/aa600958\(v=ax.60\))
 
 [About on-account invoicing](about-on-account-invoicing.md)
 
-[Post invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa620017\(v=ax.60\))
+[Post invoice proposals (form)](https://technet.microsoft.com/library/aa620017\(v=ax.60\))
 
 [Adjust transactions](adjust-transactions.md)
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Credit card configuration key (CreditCard)
 TOCTitle: Credit card configuration key (CreditCard)
 ms:assetid: bf6202b9-70dc-43fe-b6ab-80a4a78cfc40
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467564(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467564(v=AX.60)
 ms:contentKeyID: 36991710
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -43,27 +44,27 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Credit card history</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227486(v=ax.60)">Credit card history (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227486(v=ax.60)">Credit card history (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Credit card issues</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209680(v=ax.60)">Credit card issues (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209680(v=ax.60)">Credit card issues (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Credit card types</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209565(v=ax.60)">Credit card types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209565(v=ax.60)">Credit card types (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Credit Card Setup Wizard</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209714(v=ax.60)">Credit Card Setup Wizard (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209714(v=ax.60)">Credit Card Setup Wizard (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Customer credit cards</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227616(v=ax.60)">Customer credit cards (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227616(v=ax.60)">Customer credit cards (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Payment services</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227622(v=ax.60)">Payment services (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227622(v=ax.60)">Payment services (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -108,7 +109,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

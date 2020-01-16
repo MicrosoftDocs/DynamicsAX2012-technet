@@ -2,8 +2,9 @@
 title: Create advanced account structures and rules for budget planning
 TOCTitle: Create advanced account structures and rules for budget planning
 ms:assetid: 5d488e9f-f098-438b-b4f6-6368f34becfb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677341(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677341(v=AX.60)
 ms:contentKeyID: 49384115
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

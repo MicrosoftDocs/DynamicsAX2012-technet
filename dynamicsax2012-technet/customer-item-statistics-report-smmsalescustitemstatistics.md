@@ -2,8 +2,9 @@
 title: Customer/item statistics report (smmSalesCustItemStatistics)
 TOCTitle: Customer/item statistics report (smmSalesCustItemStatistics)
 ms:assetid: 7626dc27-408c-4161-acfa-b99703fac455
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh412247(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh412247(v=AX.60)
 ms:contentKeyID: 36916357
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

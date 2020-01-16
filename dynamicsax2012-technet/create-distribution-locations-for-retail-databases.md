@@ -2,8 +2,9 @@
 title: Create distribution locations for retail databases
 TOCTitle: Create distribution locations for retail databases
 ms:assetid: dc601bbe-d24d-4dc3-aea0-3b9859ebfb1f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677451(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677451(v=AX.60)
 ms:contentKeyID: 49384235
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

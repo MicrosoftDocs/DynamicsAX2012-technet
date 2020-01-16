@@ -2,8 +2,9 @@
 title: Cost accounting
 TOCTitle: Cost accounting
 ms:assetid: dd69d951-67c5-43c1-8bba-6c4e0cbd63f2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551269(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551269(v=AX.60)
 ms:contentKeyID: 36059684
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -54,22 +55,22 @@ The following production entities are used to calculate costs:
 <tr class="odd">
 <td><p><a href="run-an-estimation.md">Run an estimation</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242716(v=ax.60)">BOM calculation results (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242716(v=ax.60)">BOM calculation results (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="create-cost-categories.md">Create cost categories</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa615752(v=ax.60)">Cost accounting budget model (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa615752(v=ax.60)">Cost accounting budget model (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="create-a-cost-journal.md">Create a cost journal</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa550294(v=ax.60)">Cost lines (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa550294(v=ax.60)">Cost lines (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208816(v=ax.60)">Standard cost conversion (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208816(v=ax.60)">Standard cost conversion (form)</a></p></td>
 </tr>
 </tbody>
 </table>

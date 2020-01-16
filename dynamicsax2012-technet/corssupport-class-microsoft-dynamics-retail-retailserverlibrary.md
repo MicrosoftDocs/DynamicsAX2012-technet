@@ -1,9 +1,10 @@
-﻿---
+---
 title: CorsSupport Class (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: CorsSupport Class
 ms:assetid: T:Microsoft.Dynamics.Retail.RetailServerLibrary.CorsSupport
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.corssupport(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.corssupport(v=AX.60)
 ms:contentKeyID: 62202343
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,7 +41,7 @@ public ref class CorsSupport abstract sealed
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   Microsoft.Dynamics.Retail.RetailServerLibrary.CorsSupport  
 
 ## Thread Safety

@@ -2,8 +2,9 @@
 title: Create a URL for search engine optimization (SEO) in a Retail online store
 TOCTitle: Create a URL for search engine optimization (SEO) in a Retail online store
 ms:assetid: ed13dd2d-014a-41ab-bddb-4010b78d7e87
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741460(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741460(v=AX.60)
 ms:contentKeyID: 62219739
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

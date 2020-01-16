@@ -2,8 +2,9 @@
 title: Create pay types in time and attendance
 TOCTitle: Create pay types in time and attendance
 ms:assetid: 6d3dd6ef-4f1e-464b-b76f-29ebf56574e6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571208(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571208(v=AX.60)
 ms:contentKeyID: 36058021
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -101,7 +102,7 @@ Rates for pay types are set up for specific time intervals, and individual rates
 
 [About payroll in Time and attendance](about-payroll-in-time-and-attendance.md)
 
-[Pay types (form)](https://technet.microsoft.com/en-us/library/aa598661\(v=ax.60\))
+[Pay types (form)](https://technet.microsoft.com/library/aa598661\(v=ax.60\))
 
   
 

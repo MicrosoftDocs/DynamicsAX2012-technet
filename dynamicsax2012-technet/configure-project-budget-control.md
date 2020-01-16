@@ -2,8 +2,9 @@
 title: Configure project budget control
 TOCTitle: Configure project budget control
 ms:assetid: 17d8d1f8-f5e5-4ea8-a4d5-9999eeaaa96a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208441(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208441(v=AX.60)
 ms:contentKeyID: 36056091
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -93,7 +94,7 @@ When you change settings in the **Project management and accounting parameters**
 
 [Carry forward project budgets at year-end](carry-forward-project-budgets-at-year-end.md)
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Creating Reports in the AOT (MorphX Reporting Tools)
 TOCTitle: Creating Reports in the AOT
 ms:assetid: bde8fe7b-878a-4543-8775-127a197403ee
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb403582(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb403582(v=AX.60)
 ms:contentKeyID: 35290348
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Convert substance flows
 TOCTitle: Convert substance flows
 ms:assetid: 48164c81-a67c-4c59-bdcc-c55c62de1f82
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433537(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433537(v=AX.60)
 ms:contentKeyID: 36941327
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ After you define the settings for tracking transactions that affect the environm
 
 ## See also
 
-[Calculate conversions (form)](https://technet.microsoft.com/en-us/library/hh227467\(v=ax.60\))
+[Calculate conversions (form)](https://technet.microsoft.com/library/hh227467\(v=ax.60\))
 
 [Set up substance conversions](set-up-substance-conversions.md)
 

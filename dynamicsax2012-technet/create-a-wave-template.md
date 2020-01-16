@@ -2,8 +2,9 @@
 title: Create a wave template
 TOCTitle: Create a wave template
 ms:assetid: 8928feb2-0584-47ec-8d34-1bb8359be5ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553177(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553177(v=AX.60)
 ms:contentKeyID: 62200112
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

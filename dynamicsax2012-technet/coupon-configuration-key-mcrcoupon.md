@@ -2,8 +2,9 @@
 title: Coupon configuration key (MCRCoupon)
 TOCTitle: Coupon configuration key (MCRCoupon)
 ms:assetid: 49a26ff8-8ee0-466e-af0a-dff0a5ae4112
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn774942(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn774942(v=AX.60)
 ms:contentKeyID: 62617664
+author: Khairunj
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -110,7 +111,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

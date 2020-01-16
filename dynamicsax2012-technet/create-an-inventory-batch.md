@@ -2,8 +2,9 @@
 title: Create an inventory batch
 TOCTitle: Create an inventory batch
 ms:assetid: 03b716d0-f1ff-4c49-b44f-cf4de97d20a9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352177(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352177(v=AX.60)
 ms:contentKeyID: 36687808
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,9 +36,9 @@ Use this procedure to create a batch of new inventory.
 
 ## See also
 
-[(PM) Batches (form)](https://technet.microsoft.com/en-us/library/hh209252\(v=ax.60\))
+[(PM) Batches (form)](https://technet.microsoft.com/library/hh209252\(v=ax.60\))
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
   
 

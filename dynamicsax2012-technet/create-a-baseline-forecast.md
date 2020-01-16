@@ -2,8 +2,9 @@
 title: Create a baseline forecast
 TOCTitle: Create a baseline forecast
 ms:assetid: a5f3a790-6f2f-4a18-9711-61a262392fd8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497811(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497811(v=AX.60)
 ms:contentKeyID: 62200130
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ The following table shows the prerequisites that must be in place before you sta
 <td><ul>
 <li><p>Demand forecasting is set up. For more information, see <a href="set-up-demand-forecasting.md">Set up demand forecasting</a>.</p></li>
 <li><p>Forecast models are set up. For more information, see <a href="set-up-a-forecast-model.md">Set up a forecast model</a>.</p></li>
-<li><p>Unit conversions are defined for the unit that is used for demand forecasting. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209285(v=ax.60)">Unit conversions (form)</a>.</p></li>
+<li><p>Unit conversions are defined for the unit that is used for demand forecasting. For more information, see <a href="https://technet.microsoft.com/library/hh209285(v=ax.60)">Unit conversions (form)</a>.</p></li>
 </ul></td>
 </tr>
 <tr class="even">

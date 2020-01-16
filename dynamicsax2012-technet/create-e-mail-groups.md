@@ -2,8 +2,9 @@
 title: Create e-mail groups
 TOCTitle: Create e-mail groups
 ms:assetid: fe53b238-917b-480c-bdf6-8e1d9598f03c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573445(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573445(v=AX.60)
 ms:contentKeyID: 36811444
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

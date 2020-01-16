@@ -2,8 +2,9 @@
 title: Configure item filters and filter codes for warehouse transactions
 TOCTitle: Configure item filters and filter codes for warehouse transactions
 ms:assetid: 08c78a1b-68fb-460f-ba80-b1fbf9f54663
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553148(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553148(v=AX.60)
 ms:contentKeyID: 62524894
+author: Khairunj
 ms.date: 06/25/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -55,7 +56,7 @@ To set up filter codes on item groups, follow these steps:
 
 1.  Click **Inventory management** \> **Setup** \> **Inventory** \> **Item groups**.
 
-2.  Click **New** to create a new item group. Enter the required details for the item group. For more information, see [Item group (form)](https://technet.microsoft.com/en-us/library/aa575515\(v=ax.60\)).
+2.  Click **New** to create a new item group. Enter the required details for the item group. For more information, see [Item group (form)](https://technet.microsoft.com/library/aa575515\(v=ax.60\)).
 
 3.  On the **Warehouse management** FastTab, under **Filter required**, select the appropriate check boxes to define one or more filter codes that must be specified for products that are associated with the item group. To update a product, in the **Released product details** form, on the **Action Pane**, in the **Maintain** group, click **Edit**. The filters associated with a code become available on the **Warehouse management** tab.
 

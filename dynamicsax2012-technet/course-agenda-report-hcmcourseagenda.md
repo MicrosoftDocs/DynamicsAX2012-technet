@@ -2,8 +2,9 @@
 title: Course agenda report (HcmCourseAgenda)
 TOCTitle: Course agenda report (HcmCourseAgenda)
 ms:assetid: 53b15a7b-f208-4c2b-99f5-30e6106a82e8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ841459(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ841459(v=AX.60)
 ms:contentKeyID: 50411098
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

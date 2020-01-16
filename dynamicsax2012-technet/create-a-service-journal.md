@@ -2,8 +2,9 @@
 title: Create a service journal
 TOCTitle: Create a service journal
 ms:assetid: cddff115-3f8d-42ff-8973-ada0ade11728
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572688(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572688(v=AX.60)
 ms:contentKeyID: 37008249
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ The service journal is used to create and post service transactions. Before you 
 
 [About journal names](about-journal-names.md)
 
-[Service transactions (form)](https://technet.microsoft.com/en-us/library/aa589675\(v=ax.60\))
+[Service transactions (form)](https://technet.microsoft.com/library/aa589675\(v=ax.60\))
 
   
 

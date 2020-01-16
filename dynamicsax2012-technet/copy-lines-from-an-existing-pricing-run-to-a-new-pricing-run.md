@@ -2,8 +2,9 @@
 title: Copy lines from an existing pricing run to a new pricing run
 TOCTitle: Copy lines from an existing pricing run to a new pricing run
 ms:assetid: 71dda1fc-a001-4379-ac38-feafe568982d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242651(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242651(v=AX.60)
 ms:contentKeyID: 36058072
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,9 +38,9 @@ When you create a new commodity pricing calculation, you can use the **Copy** fu
 
 ## See also
 
-[Commodity pricing (form)](https://technet.microsoft.com/en-us/library/hh242855\(v=ax.60\))
+[Commodity pricing (form)](https://technet.microsoft.com/library/hh242855\(v=ax.60\))
 
-[Copy pricing calculation (form)](https://technet.microsoft.com/en-us/library/hh209501\(v=ax.60\))
+[Copy pricing calculation (form)](https://technet.microsoft.com/library/hh209501\(v=ax.60\))
 
   
 

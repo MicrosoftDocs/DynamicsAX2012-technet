@@ -2,8 +2,9 @@
 title: Copy a purchase requisition
 TOCTitle: Copy a purchase requisition
 ms:assetid: 464e2460-bb9f-4bf3-a993-c1331472949b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271517(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271517(v=AX.60)
 ms:contentKeyID: 36384149
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Create a commodity pricing calculation
 TOCTitle: Create a commodity pricing calculation
 ms:assetid: df8a8bff-2fc5-42f4-929d-0986040628aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227419(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227419(v=AX.60)
 ms:contentKeyID: 36059698
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,9 +40,9 @@ Use this procedure to create a commodity pricing calculation.
 
 [About commodity pricing](about-commodity-pricing.md)
 
-[Copy pricing calculation (form)](https://technet.microsoft.com/en-us/library/hh209501\(v=ax.60\))
+[Copy pricing calculation (form)](https://technet.microsoft.com/library/hh209501\(v=ax.60\))
 
-[Pricing calculation (form)](https://technet.microsoft.com/en-us/library/hh209660\(v=ax.60\))
+[Pricing calculation (form)](https://technet.microsoft.com/library/hh209660\(v=ax.60\))
 
   
 

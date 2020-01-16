@@ -2,8 +2,9 @@
 title: Configure and use Microsoft Dynamics AX document management with Microsoft SharePoint document libraries
 TOCTitle: Configure and use document management with Microsoft SharePoint document libraries
 ms:assetid: 07fc5e47-a916-4839-ad47-f98196d6d3a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn631953(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn631953(v=AX.60)
 ms:contentKeyID: 61542607
+author: Khairunj
 ms.date: 09/17/2014
 mtps_version: v=AX.60
 audience: Application User

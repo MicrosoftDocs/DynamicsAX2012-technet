@@ -2,8 +2,9 @@
 title: Create attribute types
 TOCTitle: Create attribute types
 ms:assetid: 230531f6-8a29-4b3b-af19-9257c9443752
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580585(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580585(v=AX.60)
 ms:contentKeyID: 39519067
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

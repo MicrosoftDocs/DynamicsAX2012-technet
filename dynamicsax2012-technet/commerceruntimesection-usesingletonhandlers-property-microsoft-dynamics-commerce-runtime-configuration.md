@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceRuntimeSection.UseSingletonHandlers Property  (Microsoft.Dynamics.Commerce.Runtime.Configuration)
 TOCTitle: UseSingletonHandlers Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Configuration.CommerceRuntimeSection.UseSingletonHandlers
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.configuration.commerceruntimesection.usesingletonhandlers(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configuration.commerceruntimesection.usesingletonhandlers(v=AX.60)
 ms:contentKeyID: 65320405
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ virtual property bool UseSingletonHandlers {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Implements
 

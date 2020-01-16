@@ -2,8 +2,9 @@
 title: Create a commodity pricing batch job
 TOCTitle: Create a commodity pricing batch job
 ms:assetid: 17bb5191-1232-4d2e-90aa-ef5c774387eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352184(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352184(v=AX.60)
 ms:contentKeyID: 36687817
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,7 +43,7 @@ Use this procedure to create a commodity pricing batch job.
 
 [About commodity pricing](about-commodity-pricing.md)
 
-[Create price and margin data (form)](https://technet.microsoft.com/en-us/library/hh242859\(v=ax.60\))
+[Create price and margin data (form)](https://technet.microsoft.com/library/hh242859\(v=ax.60\))
 
   
 

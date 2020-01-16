@@ -2,8 +2,9 @@
 title: Create hierarchy structures
 TOCTitle: Create hierarchy structures
 ms:assetid: efc0dd11-248f-4785-8692-28e21ebca153
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551564(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551564(v=AX.60)
 ms:contentKeyID: 36688042
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

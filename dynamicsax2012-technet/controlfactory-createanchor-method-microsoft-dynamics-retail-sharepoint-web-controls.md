@@ -1,9 +1,10 @@
-﻿---
+---
 title: ControlFactory.CreateAnchor Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: CreateAnchor Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.ControlFactory.CreateAnchor(System.String,System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.controlfactory.createanchor(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.controlfactory.createanchor(v=AX.60)
 ms:contentKeyID: 62201909
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,21 +61,21 @@ static HtmlAnchor^ CreateAnchor(
 #### Parameters
 
   - text  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - url  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - className  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Web.UI.HtmlControls.HtmlAnchor](https://technet.microsoft.com/en-us/library/3ef7c738\(v=ax.60\))  
+Type: [System.Web.UI.HtmlControls.HtmlAnchor](https://technet.microsoft.com/library/3ef7c738\(v=ax.60\))  
 An anchor instance.  
 
 ## See Also

@@ -2,8 +2,9 @@
 title: Create a quantity and margin template
 TOCTitle: Create a quantity and margin template
 ms:assetid: 2019258b-5f9b-45be-979e-00d75de80c80
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208469(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208469(v=AX.60)
 ms:contentKeyID: 36056158
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,9 +50,9 @@ Use this procedure to set up quantity and margin template criterion, such as pri
 
 [About commodity pricing](about-commodity-pricing.md)
 
-[Commodity pricing template (form)](https://technet.microsoft.com/en-us/library/hh209282\(v=ax.60\))
+[Commodity pricing template (form)](https://technet.microsoft.com/library/hh209282\(v=ax.60\))
 
-[Quantity and margin template (form)](https://technet.microsoft.com/en-us/library/hh227366\(v=ax.60\))
+[Quantity and margin template (form)](https://technet.microsoft.com/library/hh227366\(v=ax.60\))
 
   
 

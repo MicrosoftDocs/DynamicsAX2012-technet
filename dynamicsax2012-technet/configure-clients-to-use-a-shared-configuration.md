@@ -2,8 +2,9 @@
 title: Configure clients to use a shared configuration
 TOCTitle: Configure clients to use a shared configuration
 ms:assetid: 6c2ef77d-c371-4dc3-ab5c-8a2dbedea98d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh378075(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh378075(v=AX.60)
 ms:contentKeyID: 36870658
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

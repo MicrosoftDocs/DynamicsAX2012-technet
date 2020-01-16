@@ -2,8 +2,9 @@
 title: Configure an AOS to access a different bin directory
 TOCTitle: Configure an AOS to access a different bin directory
 ms:assetid: 4abda78d-6241-4a3d-8cd4-3847ae68a2c3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569619(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569619(v=AX.60)
 ms:contentKeyID: 35949291
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CompositeKeyEntityController(TEntity).Unauthorized Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: Unauthorized Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CompositeKeyEntityController`1.Unauthorized
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716177(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716177(v=AX.60)
 ms:contentKeyID: 62202443
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

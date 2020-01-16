@@ -2,8 +2,9 @@
 title: Create an opportunity or customer from a lead
 TOCTitle: Create an opportunity or customer from a lead
 ms:assetid: 18f6cd1f-b561-42ce-b19c-f1e443d77c77
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230967(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230967(v=AX.60)
 ms:contentKeyID: 36056106
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

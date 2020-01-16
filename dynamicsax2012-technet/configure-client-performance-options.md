@@ -2,8 +2,9 @@
 title: Configure client performance options
 TOCTitle: Configure client performance options
 ms:assetid: a3fc921c-f132-413c-802a-89e3eea409d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn629437(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn629437(v=AX.60)
 ms:contentKeyID: 61321532
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
