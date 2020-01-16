@@ -2,8 +2,9 @@
 title: Managing collections information
 TOCTitle: Managing collections information
 ms:assetid: db4cc937-199e-4fdd-b427-6f8d60f07ac1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271668(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271668(v=AX.60)
 ms:contentKeyID: 36384299
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

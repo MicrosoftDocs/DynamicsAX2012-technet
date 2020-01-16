@@ -2,8 +2,9 @@
 title: (LTU) Packing slip registration journal (report)
 TOCTitle: (LTU) Packing slip registration journal (report)
 ms:assetid: 78c4214e-b014-471a-aeff-413060218ea4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn133210(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn133210(v=AX.60)
 ms:contentKeyID: 53365029
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

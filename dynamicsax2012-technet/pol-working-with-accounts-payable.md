@@ -2,8 +2,9 @@
 title: (POL) Working with Accounts payable
 TOCTitle: (POL) Working with Accounts payable
 ms:assetid: 1b781293-419c-4a4d-8519-2f86b6997ce8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678143(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678143(v=AX.60)
 ms:contentKeyID: 49386866
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

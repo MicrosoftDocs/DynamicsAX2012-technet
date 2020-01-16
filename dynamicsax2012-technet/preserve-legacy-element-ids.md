@@ -2,8 +2,9 @@
 title: Preserve legacy element IDs
 TOCTitle: Preserve legacy element IDs
 ms:assetid: 74c2ed30-1b6c-48b1-bed3-4d849abf2243
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733496(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733496(v=AX.60)
 ms:contentKeyID: 49685457
+author: Khairunj
 ms.date: 06/17/2014
 mtps_version: v=AX.60
 ---
@@ -89,7 +90,7 @@ If you are upgrading to Microsoft Dynamics AX 2012 R2 or R3, perform the **Prese
     
         axutil idkeep /idfile:C:\temp\SysUpgradeExportIdMap.csv /renamefile:c:\temp\MicrosoftElementsRenamed62.csv /verbose
 
-10. Stop the AOS and compile the application using AxBuild.exe. For information, see [AxBuild.exe for Parallel Compile on AOS of X++ to p-code](https://technet.microsoft.com/en-us/library/dn528954\(v=ax.60\)).
+10. Stop the AOS and compile the application using AxBuild.exe. For information, see [AxBuild.exe for Parallel Compile on AOS of X++ to p-code](https://technet.microsoft.com/library/dn528954\(v=ax.60\)).
 
 11. Restart the AOS, open the client, and continue with the next checklist task.
 

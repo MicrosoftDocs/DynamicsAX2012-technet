@@ -2,8 +2,9 @@
 title: (POL) Working with operations
 TOCTitle: (POL) Working with operations
 ms:assetid: 079d989f-151f-45a3-b005-e859c157e4aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678119(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678119(v=AX.60)
 ms:contentKeyID: 49386842
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

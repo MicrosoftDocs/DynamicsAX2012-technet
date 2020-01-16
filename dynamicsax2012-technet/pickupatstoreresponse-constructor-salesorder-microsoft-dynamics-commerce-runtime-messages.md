@@ -1,9 +1,10 @@
-﻿---
+---
 title: PickupAtStoreResponse Constructor (SalesOrder) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: PickupAtStoreResponse Constructor (SalesOrder)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.PickupAtStoreResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesOrder)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.pickupatstoreresponse.pickupatstoreresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.pickupatstoreresponse.pickupatstoreresponse(v=AX.60)
 ms:contentKeyID: 62207725
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

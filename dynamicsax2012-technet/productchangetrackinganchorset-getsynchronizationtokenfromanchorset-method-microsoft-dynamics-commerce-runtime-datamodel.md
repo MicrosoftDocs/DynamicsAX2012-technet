@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductChangeTrackingAnchorSet.GetSynchronizationTokenFromAnchorSet Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: GetSynchronizationTokenFromAnchorSet Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductChangeTrackingAnchorSet.GetSynchronizationTokenFromAnchorSet(Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductChangeTrackingAnchorSet,System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productchangetrackinganchorset.getsynchronizationtokenfromanchorset(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productchangetrackinganchorset.getsynchronizationtokenfromanchorset(v=AX.60)
 ms:contentKeyID: 62202995
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,11 +62,11 @@ static array<wchar_t>^ GetSynchronizationTokenFromAnchorSet(
 <!-- end list -->
 
   - marker  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Char](https://technet.microsoft.com/en-us/library/k493b04s\(v=ax.60\))\[\]  
+Type: [System.Char](https://technet.microsoft.com/library/k493b04s\(v=ax.60\))\[\]  
 An encoding of the object representing the anchor set.  
 
 ## See Also

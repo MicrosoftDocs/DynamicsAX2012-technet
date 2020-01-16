@@ -2,8 +2,9 @@
 title: Monitor attendance and production orders in Manufacturing execution
 TOCTitle: Monitor attendance and production orders in Manufacturing execution
 ms:assetid: 7724f74a-7fd9-4921-8833-d941163ebddf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209249(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209249(v=AX.60)
 ms:contentKeyID: 36058204
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -71,11 +72,11 @@ Back to top
 
 ## Find form help
 
-[Change feedback (form)](https://technet.microsoft.com/en-us/library/aa585926\(v=ax.60\))
+[Change feedback (form)](https://technet.microsoft.com/library/aa585926\(v=ax.60\))
 
-[Edit job list (form)](https://technet.microsoft.com/en-us/library/hh209583\(v=ax.60\))
+[Edit job list (form)](https://technet.microsoft.com/library/hh209583\(v=ax.60\))
 
-[Select resource and action (form)](https://technet.microsoft.com/en-us/library/hh242202\(v=ax.60\))
+[Select resource and action (form)](https://technet.microsoft.com/library/hh242202\(v=ax.60\))
 
 ## Find related tasks
 

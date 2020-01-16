@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductExistenceCriteria.Ids Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Ids Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductExistenceCriteria.Ids
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productexistencecriteria.ids(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productexistencecriteria.ids(v=AX.60)
 ms:contentKeyID: 62201819
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,8 +55,8 @@ property IEnumerable<ProductExistenceId^>^ Ids {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[ProductExistenceId](productexistenceid-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Returns [IEnumerable\<T\>](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\)).  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[ProductExistenceId](productexistenceid-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Returns [IEnumerable\<T\>](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\)).  
 
 ## See Also
 

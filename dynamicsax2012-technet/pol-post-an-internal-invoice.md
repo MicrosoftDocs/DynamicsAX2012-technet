@@ -2,8 +2,9 @@
 title: (POL) Post an internal invoice
 TOCTitle: (POL) Post an internal invoice
 ms:assetid: bacc41f3-9019-446b-af6a-0c80873cd021
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711259(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711259(v=AX.60)
 ms:contentKeyID: 49387077
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ Before you can post an internal invoice for a transaction that occurred within t
 
 1.  Click **Accounts payable** \> **Common** \> **Vendors** \> **All vendors**. On the **Action Pane**, on the **Vendor** tab, in the **New** group, click **Vendor**.
     
-    For more information about the fields in this form, see [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+    For more information about the fields in this form, see [Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
 2.  On the **Invoice and delivery** FastTab, in the **Sales tax group** field, select the sales tax group.
 
@@ -39,7 +40,7 @@ Before you can post an internal invoice for a transaction that occurred within t
     
 
     > [!NOTE]
-    > <P>For more information about the fields in this form, see <A href="https://technet.microsoft.com/en-us/library/aa615960(v=ax.60)">Item sales tax groups (form)</A>.</P>
+    > <P>For more information about the fields in this form, see <A href="https://technet.microsoft.com/library/aa615960(v=ax.60)">Item sales tax groups (form)</A>.</P>
 
 
 
@@ -53,7 +54,7 @@ Before you can post an internal invoice for a transaction that occurred within t
 
 2.  Enter the required details.
     
-    For more information about the fields in this form, see [Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+    For more information about the fields in this form, see [Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
 3.  On the **Action Pane**, on the **Invoice** tab, in the **Generate** group, click **Invoice**.
 

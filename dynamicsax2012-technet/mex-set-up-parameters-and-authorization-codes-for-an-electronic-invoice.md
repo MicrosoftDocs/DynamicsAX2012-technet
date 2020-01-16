@@ -2,8 +2,9 @@
 title: (MEX) Set up parameters and authorization codes for an electronic invoice
 TOCTitle: (MEX) Set up parameters and authorization codes for an electronic invoice
 ms:assetid: a05f20e5-456e-4191-af93-93c44bde83e6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209448(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209448(v=AX.60)
 ms:contentKeyID: 36058768
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,7 +60,7 @@ If your organization uses Microsoft Dynamics AX to generate electronic invoices 
     
 
     > [!NOTE]
-    > <P>You can view the status of an outgoing email message in the <STRONG>E-mail sending status</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa584203(v=ax.60)">E-mail sending status (form)</A>.</P>
+    > <P>You can view the status of an outgoing email message in the <STRONG>E-mail sending status</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/aa584203(v=ax.60)">E-mail sending status (form)</A>.</P>
 
 
 
@@ -137,11 +138,11 @@ If you enabled the CFDI parameters, use this procedure to set up the PAC web ser
 
 [(MEX) About electronic invoices](mex-about-electronic-invoices.md)
 
-[(MEX) Electronic invoice parameters (form)](https://technet.microsoft.com/en-us/library/hh242214\(v=ax.60\))
+[(MEX) Electronic invoice parameters (form)](https://technet.microsoft.com/library/hh242214\(v=ax.60\))
 
-[(MEX) Authorization numbers (form)](https://technet.microsoft.com/en-us/library/hh209642\(v=ax.60\))
+[(MEX) Authorization numbers (form)](https://technet.microsoft.com/library/hh209642\(v=ax.60\))
 
-[Number sequences (form)](https://technet.microsoft.com/en-us/library/hh209531\(v=ax.60\))
+[Number sequences (form)](https://technet.microsoft.com/library/hh209531\(v=ax.60\))
 
   
 

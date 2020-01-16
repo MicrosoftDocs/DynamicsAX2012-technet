@@ -1,9 +1,10 @@
-﻿---
+---
 title: PeriodicDiscount.ValidToDate Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ValidToDate Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.PeriodicDiscount.ValidToDate
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.periodicdiscount.validtodate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.periodicdiscount.validtodate(v=AX.60)
 ms:contentKeyID: 49846041
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,8 +56,8 @@ property DateTimeOffset ValidToDate {
 
 #### Property Value
 
-Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
-Returns [DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\)).  
+Type: [System.DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))  
+Returns [DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\)).  
 
 ## See Also
 

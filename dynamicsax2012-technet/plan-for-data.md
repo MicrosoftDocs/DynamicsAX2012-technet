@@ -2,8 +2,9 @@
 title: Plan for data
 TOCTitle: Plan for data
 ms:assetid: 8b061683-1c1c-40a0-af49-c2cda7c86f9c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728667(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728667(v=AX.60)
 ms:contentKeyID: 49556574
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (LVA) Generate a fully depreciated report
 TOCTitle: (LVA) Generate a fully depreciated report
 ms:assetid: b26a2b03-bd31-4b48-bc69-17ff7368d3b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853417(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853417(v=AX.60)
 ms:contentKeyID: 50396786
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,7 +64,7 @@ The fully depreciated report is a list of fixed assets that have been fully depr
 
 ## See also
 
-[Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\))
+[Journal voucher - Fixed assets (form)](https://technet.microsoft.com/library/aa620564\(v=ax.60\))
 
   
 

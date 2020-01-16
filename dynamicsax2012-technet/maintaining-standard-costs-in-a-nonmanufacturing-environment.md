@@ -2,8 +2,9 @@
 title: Maintaining standard costs in a nonmanufacturing environment
 TOCTitle: Maintaining standard costs in a nonmanufacturing environment
 ms:assetid: 733e0372-2f8b-4f14-b0c4-2a8b8e815a95
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212963(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212963(v=AX.60)
 ms:contentKeyID: 36058140
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

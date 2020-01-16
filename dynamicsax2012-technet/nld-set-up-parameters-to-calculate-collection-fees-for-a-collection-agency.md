@@ -2,8 +2,9 @@
 title: (NLD) Set up parameters to calculate collection fees for a collection agency
 TOCTitle: (NLD) Set up parameters to calculate collection fees for a collection agency
 ms:assetid: e6464942-79a6-42c2-a443-b9c920178c3c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn789108(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn789108(v=AX.60)
 ms:contentKeyID: 62519968
+author: Khairunj
 ms.date: 07/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -90,7 +91,7 @@ Use the **Collection agency fee setup** form to set up the criteria that are use
     
 
     > [!NOTE]
-    > <P>Select the <STRONG>Reference currency for triangulation</STRONG> check box in the <STRONG>Currencies</STRONG> form to triangulate the currencies and calculate the collection fee. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa582902(v=ax.60)">Currencies (form)</A>.</P>
+    > <P>Select the <STRONG>Reference currency for triangulation</STRONG> check box in the <STRONG>Currencies</STRONG> form to triangulate the currencies and calculate the collection fee. For more information, see <A href="https://technet.microsoft.com/library/aa582902(v=ax.60)">Currencies (form)</A>.</P>
 
 
 
@@ -143,7 +144,7 @@ Use the **Collection agency fee setup** form to set up the criteria that are use
     
     Total collection fee = EUR 475
 
-6.  Create and post collection letters to view the calculated collection fee. For more information, see [Create collection letters](create-collection-letters.md) and [Print/post collection letters (form)](https://technet.microsoft.com/en-us/library/aa589938\(v=ax.60\)).
+6.  Create and post collection letters to view the calculated collection fee. For more information, see [Create collection letters](create-collection-letters.md) and [Print/post collection letters (form)](https://technet.microsoft.com/library/aa589938\(v=ax.60\)).
 
 ## Technical information for system administrators
 

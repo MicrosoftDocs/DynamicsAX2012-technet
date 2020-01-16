@@ -2,8 +2,9 @@
 title: (POL) Set up a number sequence for purchase product receipts by warehouse
 TOCTitle: (POL) Set up a number sequence for purchase product receipts by warehouse
 ms:assetid: e866955a-5e01-4631-b0f2-1ee88954ea0c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711321(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711321(v=AX.60)
 ms:contentKeyID: 49387140
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,9 +48,9 @@ You can set up a number sequence for purchase product receipts by warehouse in t
 
 ## See also
 
-[(POL) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678134\(v=ax.60\))
+[(POL) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj678134\(v=ax.60\))
 
-[Purchase posting (form)](https://technet.microsoft.com/en-us/library/aa587152\(v=ax.60\))
+[Purchase posting (form)](https://technet.microsoft.com/library/aa587152\(v=ax.60\))
 
   
 

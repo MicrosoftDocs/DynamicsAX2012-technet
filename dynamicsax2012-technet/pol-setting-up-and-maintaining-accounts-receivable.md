@@ -2,8 +2,9 @@
 title: (POL) Setting up and maintaining Accounts receivable
 TOCTitle: (POL) Setting up and maintaining Accounts receivable
 ms:assetid: 84ee9611-1cff-4177-b03f-8f95cc03bd71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678268(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678268(v=AX.60)
 ms:contentKeyID: 49386990
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

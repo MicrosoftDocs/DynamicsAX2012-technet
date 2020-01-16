@@ -2,8 +2,9 @@
 title: (POL) EU summary VAT register (report)
 TOCTitle: (POL) EU summary VAT register (report)
 ms:assetid: 29b73b13-21c1-4173-8cf2-d24b1f253e07
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863716(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863716(v=AX.60)
 ms:contentKeyID: 50396399
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

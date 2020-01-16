@@ -2,8 +2,9 @@
 title: (LTU) Generate a cash disbursement slip
 TOCTitle: (LTU) Generate a cash disbursement slip
 ms:assetid: fa149ca1-211b-469b-aec5-7b9094527027
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678103(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678103(v=AX.60)
 ms:contentKeyID: 49386827
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

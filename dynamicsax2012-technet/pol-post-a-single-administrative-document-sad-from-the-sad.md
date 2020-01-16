@@ -2,8 +2,9 @@
 title: (POL) Post a Single Administrative Document (SAD) from the SAD
 TOCTitle: (POL) Post a Single Administrative Document (SAD) from the SAD
 ms:assetid: eab6ef13-d39d-4e0f-a27b-c10b79733236
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731084(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731084(v=AX.60)
 ms:contentKeyID: 49675324
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,15 +24,15 @@ Before you start working with SADs, you must verify the setup of number sequence
 
 2.  Click **New** to create a SAD.
 
-3.  In the **Document code** field, enter the code for the SAD, and then complete the remaining fields on the **SAD documents** FastTab. For information about the fields on this FastTab, see [(POL) SAD documents (form)](https://technet.microsoft.com/en-us/library/jj678156\(v=ax.60\)).
+3.  In the **Document code** field, enter the code for the SAD, and then complete the remaining fields on the **SAD documents** FastTab. For information about the fields on this FastTab, see [(POL) SAD documents (form)](https://technet.microsoft.com/library/jj678156\(v=ax.60\)).
 
 4.  On the **SAD document references** FastTab, on the **Positions of SAD** tab, in the **Position** field, enter the line number of the document.
 
-5.  Complete the remaining fields on the **Positions of SAD** tab. For information about the fields on this tab, see [(POL) Create SAD documents (form)](https://technet.microsoft.com/en-us/library/jj731083\(v=ax.60\)).
+5.  Complete the remaining fields on the **Positions of SAD** tab. For information about the fields on this tab, see [(POL) Create SAD documents (form)](https://technet.microsoft.com/library/jj731083\(v=ax.60\)).
 
 6.  On the **Invoices for SAD - ledger** tab, in the **Position** field, enter the line number of the invoice.
 
-7.  Complete the remaining fields on the **Invoices for SAD - ledger** tab. For information about the fields on this tab, see [(POL) Create SAD documents (form)](https://technet.microsoft.com/en-us/library/jj731083\(v=ax.60\)).
+7.  Complete the remaining fields on the **Invoices for SAD - ledger** tab. For information about the fields on this tab, see [(POL) Create SAD documents (form)](https://technet.microsoft.com/library/jj731083\(v=ax.60\)).
 
 8.  Click **Purchases** to open the **Purchases for SAD** form, where you can assign purchase orders to the SAD.
 

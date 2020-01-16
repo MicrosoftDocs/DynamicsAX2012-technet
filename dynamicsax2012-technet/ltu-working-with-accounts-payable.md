@@ -2,8 +2,9 @@
 title: (LTU) Working with Accounts payable
 TOCTitle: (LTU) Working with Accounts payable
 ms:assetid: 51cb97f7-2c90-4062-aaa4-6d62c59855a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665082(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665082(v=AX.60)
 ms:contentKeyID: 49386663
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

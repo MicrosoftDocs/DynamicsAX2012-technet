@@ -2,8 +2,9 @@
 title: Print packing material weights on invoices
 TOCTitle: Print packing material weights on invoices
 ms:assetid: c705f821-2a80-4c86-b8a0-e7c2525d65a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550843(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550843(v=AX.60)
 ms:contentKeyID: 39519313
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

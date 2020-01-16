@@ -2,8 +2,9 @@
 title: (NOR) Create a payment proposal and import the OCR payments as Avtalegiro in the payment journal
 TOCTitle: (NOR) Create a payment proposal and import the OCR payments as Avtalegiro in the payment journal
 ms:assetid: 79dd6f82-2f68-489c-8959-b63b1ccfc46c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213019(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213019(v=AX.60)
 ms:contentKeyID: 36058243
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ Use the **Customer payment proposal** form to create a customer payment proposal
 
 Use the **OCR and AvtaleGiro import** form to import the OCR payments as Avtalegiro in the payment journal.
 
-In the **Payment mode change** form, in the **Warning** field, select **Yes** to notify the customer when the payment mode is changed. For more information, see [(NOR) Payment mode change (form)](https://technet.microsoft.com/en-us/library/hh209700\(v=ax.60\)).
+In the **Payment mode change** form, in the **Warning** field, select **Yes** to notify the customer when the payment mode is changed. For more information, see [(NOR) Payment mode change (form)](https://technet.microsoft.com/library/hh209700\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Journals** \> **Payments** \> **Payment journal**.
 
@@ -101,9 +102,9 @@ In the **Payment mode change** form, in the **Warning** field, select **Yes** to
 
 [(NOR) Set up the Avtalegiro method of payment](nor-set-up-the-avtalegiro-method-of-payment.md)
 
-[(NOR) File archive (form)](https://technet.microsoft.com/en-us/library/hh242881\(v=ax.60\))
+[(NOR) File archive (form)](https://technet.microsoft.com/library/hh242881\(v=ax.60\))
 
-[(NOR) Bank account trap (form)](https://technet.microsoft.com/en-us/library/hh227378\(v=ax.60\))
+[(NOR) Bank account trap (form)](https://technet.microsoft.com/library/hh227378\(v=ax.60\))
 
   
 

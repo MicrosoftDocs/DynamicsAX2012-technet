@@ -1,9 +1,10 @@
-﻿---
+---
 title: NavigationReader.GetChildren Method  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: GetChildren Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.NavigationReader.GetChildren(System.Guid)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.navigationreader.getchildren(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.navigationreader.getchildren(v=AX.60)
 ms:contentKeyID: 62207143
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,11 +52,11 @@ static IList<NavigationalCategory^>^ GetChildren(
 #### Parameters
 
   - parentCategoryId  
-    Type: [System.Guid](https://technet.microsoft.com/en-us/library/cey1zx63\(v=ax.60\))  
+    Type: [System.Guid](https://technet.microsoft.com/library/cey1zx63\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[NavigationalCategory](navigationalcategory-class-microsoft-dynamics-retail-sp-commonfeatures.md)\>  
+Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[NavigationalCategory](navigationalcategory-class-microsoft-dynamics-retail-sp-commonfeatures.md)\>  
 Returns children hierarchy for the parent term.  
 
 ## See Also

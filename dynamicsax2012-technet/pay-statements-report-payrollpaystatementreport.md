@@ -2,8 +2,9 @@
 title: Pay statements report (PayrollPayStatementReport)
 TOCTitle: Pay statements report (PayrollPayStatementReport)
 ms:assetid: 803456e6-b2ee-4784-87c1-c0205f060e78
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ713637(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ713637(v=AX.60)
 ms:contentKeyID: 49643131
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

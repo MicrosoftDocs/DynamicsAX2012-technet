@@ -2,8 +2,9 @@
 title: (MYS, SGP) Bank cash flow report (BankCashflowReport)
 TOCTitle: (MYS, SGP) Bank cash flow report (BankCashflowReport)
 ms:assetid: 2035efcc-a547-4626-b1ab-ce4c825746d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh535214(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh535214(v=AX.60)
 ms:contentKeyID: 39092154
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

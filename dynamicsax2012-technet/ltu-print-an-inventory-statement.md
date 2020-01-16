@@ -2,8 +2,9 @@
 title: (LTU) Print an inventory statement
 TOCTitle: (LTU) Print an inventory statement
 ms:assetid: 046fbaa8-fcb7-4280-bbdf-61f41c72a349
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665004(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665004(v=AX.60)
 ms:contentKeyID: 49386586
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Payroll beginning balance tasks
 TOCTitle: Payroll beginning balance tasks
 ms:assetid: 858d1dbf-9e4e-4787-9036-c9e1c6a8c289
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn754852(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn754852(v=AX.60)
 ms:contentKeyID: 62504013
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

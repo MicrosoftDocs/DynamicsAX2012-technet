@@ -2,8 +2,9 @@
 title: Number sequences in Microsoft Dynamics AX
 TOCTitle: Number sequences
 ms:assetid: 7e3b5fa7-6761-42ef-a296-620558a08172
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209291(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209291(v=AX.60)
 ms:contentKeyID: 36058317
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

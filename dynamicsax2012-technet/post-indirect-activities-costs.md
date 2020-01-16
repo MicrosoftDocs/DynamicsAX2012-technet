@@ -2,8 +2,9 @@
 title: Post indirect activities costs
 TOCTitle: Post indirect activities costs
 ms:assetid: 8a8efdeb-0938-4534-aa0e-06d69f332db6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498243(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498243(v=AX.60)
 ms:contentKeyID: 43976720
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ Indirect activities costs can be posted periodically to update all costs that ar
 
 [About registration for manufacturing execution](about-registration-for-manufacturing-execution.md)
 
-[Post indirect activities costs (class form)](https://technet.microsoft.com/en-us/library/bb220735\(v=ax.60\))
+[Post indirect activities costs (class form)](https://technet.microsoft.com/library/bb220735\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Merge global address book records
 TOCTitle: Merge global address book records
 ms:assetid: c0ea8414-672d-4cf0-8700-3bb23b2f0293
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh575243(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh575243(v=AX.60)
 ms:contentKeyID: 39555404
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

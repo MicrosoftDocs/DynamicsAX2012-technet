@@ -1,9 +1,10 @@
-﻿---
+---
 title: PagingInfo.GetPageFromCollections(T, TKey) Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: GetPageFromCollections(T, TKey) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.PagingInfo.GetPageFromCollections``2(System.Func{``0,``1},System.Collections.Generic.ICollection{``0}[])
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn998795(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn998795(v=AX.60)
 ms:contentKeyID: 65317478
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,12 +69,12 @@ PagedResult<T>^ GetPageFromCollections(
 #### Parameters
 
   - orderByKey  
-    Type: [System.Func](https://technet.microsoft.com/en-us/library/bb549151\(v=ax.60\))\<T, TKey\>  
+    Type: [System.Func](https://technet.microsoft.com/library/bb549151\(v=ax.60\))\<T, TKey\>  
 
 <!-- end list -->
 
   - collections  
-    Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<T\>\[\]  
+    Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<T\>\[\]  
 
 #### Return Value
 

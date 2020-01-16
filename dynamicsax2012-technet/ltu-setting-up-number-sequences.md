@@ -2,8 +2,9 @@
 title: (LTU) Setting up number sequences
 TOCTitle: (LTU) Setting up number sequences
 ms:assetid: d58fd543-ab8f-4b68-844d-57bbfe7c3199
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665202(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665202(v=AX.60)
 ms:contentKeyID: 49386783
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Process assets created from Accounts payable
 TOCTitle: Process assets created from Accounts payable
 ms:assetid: 6ffa9ac0-448b-4de3-ab66-576daca765b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231824(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231824(v=AX.60)
 ms:contentKeyID: 36058052
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,9 +52,9 @@ This information discusses how to post acquisition and acquisition adjustment tr
 
 [Post fixed asset journals](post-fixed-asset-journals.md)
 
-[Acquisition proposal (form)](https://technet.microsoft.com/en-us/library/aa575857\(v=ax.60\))
+[Acquisition proposal (form)](https://technet.microsoft.com/library/aa575857\(v=ax.60\))
 
-[Acquisition adjustment proposal (form)](https://technet.microsoft.com/en-us/library/hh209549\(v=ax.60\))
+[Acquisition adjustment proposal (form)](https://technet.microsoft.com/library/hh209549\(v=ax.60\))
 
 [About assets acquired through procurement](about-assets-acquired-through-procurement.md)
 

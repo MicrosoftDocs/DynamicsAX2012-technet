@@ -2,8 +2,9 @@
 title: Mass delete quotations
 TOCTitle: Mass delete quotations
 ms:assetid: fb4e2095-5606-4bba-9fef-0a05e8cbb3c4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499876(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499876(v=AX.60)
 ms:contentKeyID: 36060076
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ You can delete a selection of quotations that you no longer want to keep track o
 
 ## See also
 
-[Delete quotations (form)](https://technet.microsoft.com/en-us/library/aa556468\(v=ax.60\))
+[Delete quotations (form)](https://technet.microsoft.com/library/aa556468\(v=ax.60\))
 
   
 

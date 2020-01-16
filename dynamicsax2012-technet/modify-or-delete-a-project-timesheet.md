@@ -2,8 +2,9 @@
 title: Modify or delete a project timesheet
 TOCTitle: Modify or delete a timesheet
 ms:assetid: 9cd5c044-405c-4662-bc3e-7827e013a369
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209437(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209437(v=AX.60)
 ms:contentKeyID: 36058737
+author: Khairunj
 ms.date: 06/07/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,7 +54,7 @@ This topic explains how to modify or delete a timesheet in Microsoft Dynamics AX
 
 [Create a timesheet](create-a-timesheet.md)
 
-[Edit timesheet (form)](https://technet.microsoft.com/en-us/library/hh208808\(v=ax.60\))
+[Edit timesheet (form)](https://technet.microsoft.com/library/hh208808\(v=ax.60\))
 
   
 

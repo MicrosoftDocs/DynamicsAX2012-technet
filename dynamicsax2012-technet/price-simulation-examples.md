@@ -2,8 +2,9 @@
 title: Price simulation examples
 TOCTitle: Price simulation examples
 ms:assetid: 75d2be36-8cc4-4b48-a1f8-ee8720bf4d98
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550031(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550031(v=AX.60)
 ms:contentKeyID: 36058178
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductDataManager.GetListingPublishStatuses Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetListingPublishStatuses Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ProductDataManager.GetListingPublishStatuses(System.Collections.Generic.IEnumerable{System.Int64},Microsoft.Dynamics.Commerce.Runtime.ColumnSet)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.productdatamanager.getlistingpublishstatuses(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.productdatamanager.getlistingpublishstatuses(v=AX.60)
 ms:contentKeyID: 62203222
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ ReadOnlyCollection<ListingPublishStatus^>^ GetListingPublishStatuses(
 #### Parameters
 
   - listingIds  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 
 <!-- end list -->
 
@@ -66,7 +67,7 @@ ReadOnlyCollection<ListingPublishStatus^>^ GetListingPublishStatuses(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[ListingPublishStatus](listingpublishstatus-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[ListingPublishStatus](listingpublishstatus-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 A collection of listing publish status codes.  
 
 ## See Also

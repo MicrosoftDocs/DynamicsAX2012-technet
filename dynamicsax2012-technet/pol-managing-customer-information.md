@@ -2,8 +2,9 @@
 title: (POL) Managing customer information
 TOCTitle: (POL) Managing customer information
 ms:assetid: 138b51e4-8ffc-4c74-bc40-e896bca0e06f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678132(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678132(v=AX.60)
 ms:contentKeyID: 49386855
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

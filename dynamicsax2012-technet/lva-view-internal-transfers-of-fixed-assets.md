@@ -2,8 +2,9 @@
 title: (LVA) View internal transfers of fixed assets
 TOCTitle: (LVA) View internal transfers of fixed assets
 ms:assetid: b37a533d-4278-48f7-a6fd-1bb65dd5c1e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853414(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853414(v=AX.60)
 ms:contentKeyID: 50396783
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

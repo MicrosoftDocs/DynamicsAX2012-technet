@@ -2,8 +2,9 @@
 title: (LTU) Set up items to exclude from the Intrastat reports
 TOCTitle: (LTU) Set up items to exclude from the Intrastat reports
 ms:assetid: 103cf166-f9d1-4167-9640-64568cd9f81e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665020(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665020(v=AX.60)
 ms:contentKeyID: 49386602
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

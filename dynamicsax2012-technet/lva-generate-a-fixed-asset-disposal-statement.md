@@ -2,8 +2,9 @@
 title: (LVA) Generate a fixed asset disposal statement
 TOCTitle: (LVA) Generate a fixed asset disposal statement
 ms:assetid: 444c3976-a11a-4f6f-91cf-959d387ea1d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853407(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853407(v=AX.60)
 ms:contentKeyID: 50396777
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -27,7 +28,7 @@ The fixed asset disposal statement is a primary accounting document that provide
 
 2.  Click **New**, and then enter the required details.
     
-    For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+    For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
 3.  Click **Lines**, and then, in the **Journal voucher** form, click **New**.
 
@@ -53,9 +54,9 @@ The fixed asset disposal statement is a primary accounting document that provide
 
 ## See also
 
-[Value models (form)](https://technet.microsoft.com/en-us/library/aa590830\(v=ax.60\))
+[Value models (form)](https://technet.microsoft.com/library/aa590830\(v=ax.60\))
 
-[Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\))
+[Journal voucher - Fixed assets (form)](https://technet.microsoft.com/library/aa620564\(v=ax.60\))
 
   
 

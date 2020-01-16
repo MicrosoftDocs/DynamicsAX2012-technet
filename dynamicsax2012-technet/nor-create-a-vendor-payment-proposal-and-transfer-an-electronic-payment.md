@@ -2,8 +2,9 @@
 title: (NOR) Create a vendor payment proposal and transfer an electronic payment
 TOCTitle: (NOR) Create a vendor payment proposal and transfer an electronic payment
 ms:assetid: 3a94aa32-fa89-494b-a304-13e6ac99b02b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231146(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231146(v=AX.60)
 ms:contentKeyID: 36056643
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,7 +64,7 @@ You can create a separate journal with a corresponding number series for payment
 
 ## See also
 
-[Vendor payment proposal (class form)](https://technet.microsoft.com/en-us/library/aa554537\(v=ax.60\))
+[Vendor payment proposal (class form)](https://technet.microsoft.com/library/aa554537\(v=ax.60\))
 
   
 

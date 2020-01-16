@@ -2,8 +2,9 @@
 title: (POL) Set up a number sequence for sales packing slips by warehouse
 TOCTitle: (POL) Set up a number sequence for sales packing slips by warehouse
 ms:assetid: 4a2000a1-c13c-4d80-956b-2257074aacb9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678192(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678192(v=AX.60)
 ms:contentKeyID: 49386915
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,9 +50,9 @@ You can set up a number sequence for sales packing slips by warehouse in the **A
 
 [(POL) Set up a number sequence for purchase product receipts by warehouse](pol-set-up-a-number-sequence-for-purchase-product-receipts-by-warehouse.md)
 
-[(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678183\(v=ax.60\))
+[(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj678183\(v=ax.60\))
 
-[Packing slip journal (form)](https://technet.microsoft.com/en-us/library/aa548967\(v=ax.60\))
+[Packing slip journal (form)](https://technet.microsoft.com/library/aa548967\(v=ax.60\))
 
   
 

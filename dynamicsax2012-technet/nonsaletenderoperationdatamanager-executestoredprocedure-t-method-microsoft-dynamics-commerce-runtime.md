@@ -1,9 +1,10 @@
-﻿---
+---
 title: NonSaleTenderOperationDataManager.ExecuteStoredProcedure(T) Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: ExecuteStoredProcedure(T) Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.NonSaleTenderOperationDataManager.ExecuteStoredProcedure``1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn739933(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn739933(v=AX.60)
 ms:contentKeyID: 62214262
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

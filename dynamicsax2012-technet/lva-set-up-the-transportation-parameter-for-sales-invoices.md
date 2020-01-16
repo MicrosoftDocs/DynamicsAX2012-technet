@@ -2,8 +2,9 @@
 title: (LVA) Set up the transportation parameter for sales invoices
 TOCTitle: (LVA) Set up the transportation parameter for sales invoices
 ms:assetid: a6673187-6ced-4bb2-ae80-bbaacde6df04
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731054(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731054(v=AX.60)
 ms:contentKeyID: 49675294
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ The following steps describe how to include information about the transportation
 
 ## See also
 
-[(LVA) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj731076\(v=ax.60\))
+[(LVA) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj731076\(v=ax.60\))
 
   
 

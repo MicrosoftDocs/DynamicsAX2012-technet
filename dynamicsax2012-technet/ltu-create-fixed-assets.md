@@ -2,8 +2,9 @@
 title: (LTU) Create Fixed assets
 TOCTitle: (LTU) Create Fixed assets
 ms:assetid: 5c0afc06-9754-48c3-8af5-3bb4866938fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665098(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665098(v=AX.60)
 ms:contentKeyID: 49386679
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

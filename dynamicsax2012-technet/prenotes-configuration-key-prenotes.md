@@ -2,8 +2,9 @@
 title: Prenotes configuration key (Prenotes)
 TOCTitle: Prenotes configuration key (Prenotes)
 ms:assetid: b55de83c-9152-404f-bb45-4796a7b56f18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433469(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433469(v=AX.60)
 ms:contentKeyID: 36941226
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -49,7 +50,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

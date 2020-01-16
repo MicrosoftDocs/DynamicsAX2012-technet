@@ -2,8 +2,9 @@
 title: Mass deploy retail components
 TOCTitle: Mass deploy retail components
 ms:assetid: da80e707-ad6b-44c8-b383-d8fafc73a512
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn858398(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn858398(v=AX.60)
 ms:contentKeyID: 63417192
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

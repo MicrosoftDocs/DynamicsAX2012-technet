@@ -2,8 +2,9 @@
 title: (MEX) Set up inflation rates
 TOCTitle: (MEX) Set up inflation rates
 ms:assetid: 6d1104d2-e8b8-49a3-a27a-e2f59be22e32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242631(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242631(v=AX.60)
 ms:contentKeyID: 36058019
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ The inflation adjustment process allows you to view inflation adjustment data in
 
 [(MEX) Create and post inflation adjustment ledger transactions](mex-create-and-post-inflation-adjustment-ledger-transactions.md)
 
-[(MEX) Inflation Adjustment B-10 (form)](https://technet.microsoft.com/en-us/library/hh209670\(v=ax.60\))
+[(MEX) Inflation Adjustment B-10 (form)](https://technet.microsoft.com/library/hh209670\(v=ax.60\))
 
   
 

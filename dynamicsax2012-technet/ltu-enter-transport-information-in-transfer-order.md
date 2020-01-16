@@ -2,8 +2,9 @@
 title: (LTU) Enter transport information in transfer order
 TOCTitle: (LTU) Enter transport information in transfer order
 ms:assetid: 3aec34a7-4c27-47b0-b949-2815bce1ae96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665060(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665060(v=AX.60)
 ms:contentKeyID: 49386643
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

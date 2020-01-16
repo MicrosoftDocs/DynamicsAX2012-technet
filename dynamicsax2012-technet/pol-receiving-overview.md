@@ -2,8 +2,9 @@
 title: (POL) Receiving overview
 TOCTitle: (POL) Receiving overview
 ms:assetid: e2577dee-9f14-4410-8959-8c5384442dfd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711292(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711292(v=AX.60)
 ms:contentKeyID: 49387111
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

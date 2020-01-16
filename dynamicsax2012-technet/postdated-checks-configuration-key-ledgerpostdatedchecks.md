@@ -2,8 +2,9 @@
 title: Postdated checks configuration key (LedgerPostDatedChecks)
 TOCTitle: Postdated checks configuration key (LedgerPostDatedChecks)
 ms:assetid: 6f9911fe-c143-47c4-9dea-e3a12036d2dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467553(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467553(v=AX.60)
 ms:contentKeyID: 36991700
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,7 +38,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Vendor postdated checks</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242868(v=ax.60)">Vendor postdated checks (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242868(v=ax.60)">Vendor postdated checks (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -59,7 +60,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Customer postdated checks</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227493(v=ax.60)">Customer postdated checks (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227493(v=ax.60)">Customer postdated checks (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -97,7 +98,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

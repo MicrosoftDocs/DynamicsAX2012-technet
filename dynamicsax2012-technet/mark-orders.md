@@ -2,8 +2,9 @@
 title: Mark orders
 TOCTitle: Mark orders
 ms:assetid: 6833362a-719d-4990-800a-e2964ab2ceb8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571161(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571161(v=AX.60)
 ms:contentKeyID: 44080991
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -55,9 +56,9 @@ For example, if the **Warehouse** dimension is tracked financially for a transac
 
 ## See also
 
-[Marking (form)](https://technet.microsoft.com/en-us/library/aa575831\(v=ax.60\))
+[Marking (form)](https://technet.microsoft.com/library/aa575831\(v=ax.60\))
 
-[Lot (form)](https://technet.microsoft.com/en-us/library/aa619125\(v=ax.60\))
+[Lot (form)](https://technet.microsoft.com/library/aa619125\(v=ax.60\))
 
   
 

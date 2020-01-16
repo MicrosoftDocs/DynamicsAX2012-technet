@@ -2,8 +2,9 @@
 title: (MYS) Print GST customer invoices with a relief clause
 TOCTitle: (MYS) Print GST customer invoices with a relief clause
 ms:assetid: ceb8c657-37c6-437c-9a3a-311e87665cfc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn858082(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn858082(v=AX.60)
 ms:contentKeyID: 63400914
+author: Khairunj
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,8 +43,8 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="even">
 <td><p>Related setup tasks</p></td>
 <td><ol>
-<li><p>Create a new tax registration type for Malaysia, and select the <strong>Primary for country</strong> check box in the <strong>Tax registration types</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677414(v=ax.60)">Tax registration types (form)</a>.</p></li>
-<li><p>Select a registration type, and specify the authority, registration number, effective and expiration dates for the primary address of the legal entity in the <strong>Edit address</strong> form. For more information see, <a href="https://technet.microsoft.com/en-us/library/hh370713(v=ax.60)">Manage addresses (form)</a>.</p></li>
+<li><p>Create a new tax registration type for Malaysia, and select the <strong>Primary for country</strong> check box in the <strong>Tax registration types</strong> form. For more information, see <a href="https://technet.microsoft.com/library/jj677414(v=ax.60)">Tax registration types (form)</a>.</p></li>
+<li><p>Select a registration type, and specify the authority, registration number, effective and expiration dates for the primary address of the legal entity in the <strong>Edit address</strong> form. For more information see, <a href="https://technet.microsoft.com/library/hh370713(v=ax.60)">Manage addresses (form)</a>.</p></li>
 <li><p>Set up print management for the <strong>Accounts payable</strong>, <strong>Accounts receivable</strong>, and <strong>Project management and accounting</strong> modules in the <strong>Print management setup</strong> form. For more information see, <a href="set-up-print-management-for-a-module.md">Set up print management for a module</a>.</p></li>
 <li><p>Select the printing format for the GST invoice as <strong>Full invoice</strong> or <strong>Simplified invoice</strong> in the <strong>GST invoice format</strong> field in the <strong>Sales tax</strong> area of the <strong>General ledger parameters</strong> form.</p></li>
 </ol></td>
@@ -110,7 +111,7 @@ You can either use a **Sales order** form, or **Free text invoice** form, or the
 
 To print the relief clause on a GST invoice, follow these steps:
 
-1.  Click **Sales and marketing** \> **Common** \> **Sales orders** \> **All sales orders**. Create or select a sales order, and then click **Edit**. For more information, see [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\)).
+1.  Click **Sales and marketing** \> **Common** \> **Sales orders** \> **All sales orders**. Create or select a sales order, and then click **Edit**. For more information, see [Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\)).
     
     –or–
     

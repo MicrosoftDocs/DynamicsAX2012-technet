@@ -2,8 +2,9 @@
 title: Product change cases configuration key (EngChgCase)
 TOCTitle: Product change cases configuration key (EngChgCase)
 ms:assetid: d762bb49-d560-400a-ad18-7f3bf4aa3928
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn831879(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn831879(v=AX.60)
 ms:contentKeyID: 63145460
+author: Khairunj
 ms.date: 10/01/2014
 mtps_version: v=AX.60
 ---
@@ -35,15 +36,15 @@ Features for creating, documenting, maintaining, and approving product change ca
 <tbody>
 <tr class="odd">
 <td><p><strong>BOM line</strong> (BOMConsistOf)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa615779(v=ax.60)">BOM versions and lines (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa615779(v=ax.60)">BOM versions and lines (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Where-used</strong> (BOMPartOf)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557581(v=ax.60)">Where-used (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557581(v=ax.60)">Where-used (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Bills of materials</strong> (BOMTable)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587282(v=ax.60)">BOM (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587282(v=ax.60)">BOM (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -65,11 +66,11 @@ Features for creating, documenting, maintaining, and approving product change ca
 <tbody>
 <tr class="odd">
 <td><p><strong>Case categories</strong> (CaseCategorySetup)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209319(v=ax.60)">Case categories (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209319(v=ax.60)">Case categories (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Case</strong> (CaseDetail)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209694(v=ax.60)">Case (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209694(v=ax.60)">Case (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -91,19 +92,19 @@ Features for creating, documenting, maintaining, and approving product change ca
 <tbody>
 <tr class="odd">
 <td><p><strong>Product details</strong> (EcoResProductDetails)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh545519(v=ax.60)">Product details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh545519(v=ax.60)">Product details (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Released product details</strong> (EcoResProductDetailsExtended)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa615563(v=ax.60)">Released product details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa615563(v=ax.60)">Released product details (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Products</strong> (EcoResProductListPage)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh545519(v=ax.60)">Product details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh545519(v=ax.60)">Product details (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Released product</strong> (EcoResProductPerCompanyListPage)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa615563(v=ax.60)">Released product details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa615563(v=ax.60)">Released product details (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -125,15 +126,15 @@ Features for creating, documenting, maintaining, and approving product change ca
 <tbody>
 <tr class="odd">
 <td><p><strong>Route</strong> (Route)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587648(v=ax.60)">Route operations on route version (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587648(v=ax.60)">Route operations on route version (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Route</strong> (RouteInventProd)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa548486(v=ax.60)">Routes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa548486(v=ax.60)">Routes (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Route details</strong> (RouteTable)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590442(v=ax.60)">Create and update routes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590442(v=ax.60)">Create and update routes (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Routes</strong> (RouteTableListPage)</p></td>
@@ -175,7 +176,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

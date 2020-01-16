@@ -2,8 +2,9 @@
 title: (POL) Create a credit correction for product receipts during purchase invoice posting
 TOCTitle: (POL) Create a credit correction for product receipts during purchase invoice posting
 ms:assetid: 96c763b7-d0cf-4abf-a337-13c4f239b110
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678303(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678303(v=AX.60)
 ms:contentKeyID: 49387025
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,9 +26,9 @@ By using the **Posting product receipt** form, you can post a product receipt fo
 
 1.  Click **Accounts payable** \> **Common** \> **Purchase orders** \> **All purchase orders**. On the **Action Pane**, on the **Purchase order** tab, in the **New** group, click **Purchase order**.
 
-2.  In the **Create purchase order** form, enter the required details, and then click **OK**. For more information, see [Create purchase order (form)](https://technet.microsoft.com/en-us/library/aa570189\(v=ax.60\)).
+2.  In the **Create purchase order** form, enter the required details, and then click **OK**. For more information, see [Create purchase order (form)](https://technet.microsoft.com/library/aa570189\(v=ax.60\)).
 
-3.  In the **Purchase order** form, enter the required details. For more information, see [Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\)).
+3.  In the **Purchase order** form, enter the required details. For more information, see [Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\)).
 
 4.  On the **Action Pane**, on the **Purchase** tab, in the **Generate** group, click **Confirm**.
 
@@ -39,7 +40,7 @@ By using the **Posting product receipt** form, you can post a product receipt fo
 
 8.  In the **Purchase order** form, on the **Invoice** tab, in the **Generate** group, click **Invoice**.
 
-9.  In the **Vendor invoice** form, enter the required details. For more information, see [Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\)).
+9.  In the **Vendor invoice** form, enter the required details. For more information, see [Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\)).
 
 10. On the **Process** tab, click **Credit setup**.
 

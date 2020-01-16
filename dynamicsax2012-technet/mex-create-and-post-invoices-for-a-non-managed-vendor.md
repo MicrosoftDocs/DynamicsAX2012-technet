@@ -2,8 +2,9 @@
 title: (MEX) Create and post invoices for a non-managed vendor
 TOCTitle: (MEX) Create and post invoices for a non-managed vendor
 ms:assetid: bcff924c-9e6b-4553-9fe0-c3c765abe9a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242772(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242772(v=AX.60)
 ms:contentKeyID: 36059145
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -93,9 +94,9 @@ Use the **Journal voucher** form to create and post an invoice containing the ta
 
 ## See also
 
-[Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
+[Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\))
 
-[Journal voucher - Invoice journal (form)](https://technet.microsoft.com/en-us/library/aa616218\(v=ax.60\))
+[Journal voucher - Invoice journal (form)](https://technet.microsoft.com/library/aa616218\(v=ax.60\))
 
   
 

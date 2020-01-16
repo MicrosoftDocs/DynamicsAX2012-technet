@@ -2,8 +2,9 @@
 title: (LTU) Configuring product-wide features for Lithuania
 TOCTitle: (LTU) Configuring product-wide features for Lithuania
 ms:assetid: 57c5db2a-51db-4d0f-9b7b-12ee55594aa7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665092(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665092(v=AX.60)
 ms:contentKeyID: 49386674
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

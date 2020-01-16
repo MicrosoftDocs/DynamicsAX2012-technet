@@ -2,8 +2,9 @@
 title: (POL) Set up returnable packages for a customer
 TOCTitle: (POL) Set up returnable packages for a customer
 ms:assetid: 314228b6-e0fa-4535-a38d-033e6af06113
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911040(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911040(v=AX.60)
 ms:contentKeyID: 52075331
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ You can define the packing units and packing groups for an item in the **Packing
 
 1.  Click **Inventory management** \> **Setup** \> **Packing material** \> **Packing units**.
 
-2.  Press CTRL+N to create a new line, and enter the required details to define the packing units for the items. For more information, see [Packing units (form)](https://technet.microsoft.com/en-us/library/aa616127\(v=ax.60\)) and [Define packing units and materials](define-packing-units-and-materials.md).
+2.  Press CTRL+N to create a new line, and enter the required details to define the packing units for the items. For more information, see [Packing units (form)](https://technet.microsoft.com/library/aa616127\(v=ax.60\)) and [Define packing units and materials](define-packing-units-and-materials.md).
 
 3.  In the **Item code** field, select the item code to define a packing unit. The possible values are **Table**, **Group**, and **All**. If you select **All**, the packing unit applies to all of the items.
 
@@ -66,9 +67,9 @@ You can define the packing units and packing groups for an item in the **Packing
 
 [(POL) Post and print a returned package report](pol-post-and-print-a-returned-package-report.md)
 
-[(POL) Return packages table (form)](https://technet.microsoft.com/en-us/library/jj923258\(v=ax.60\))
+[(POL) Return packages table (form)](https://technet.microsoft.com/library/jj923258\(v=ax.60\))
 
-[(POL) Packing units (modified form)](https://technet.microsoft.com/en-us/library/jj681858\(v=ax.60\))
+[(POL) Packing units (modified form)](https://technet.microsoft.com/library/jj681858\(v=ax.60\))
 
   
 

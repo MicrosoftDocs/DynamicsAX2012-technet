@@ -2,8 +2,9 @@
 title: (LVA) Create and print a free text credit note invoice with bank account details
 TOCTitle: (LVA) Create and print a free text credit note invoice with bank account details
 ms:assetid: 1bd97164-690a-4f09-8ce8-5ed296417799
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721449(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ721449(v=AX.60)
 ms:contentKeyID: 49730228
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

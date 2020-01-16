@@ -2,8 +2,9 @@
 title: Master data management security role (Mdm)
 TOCTitle: Master data management security role (Mdm)
 ms:assetid: 0410e0f0-8d2d-4b1a-86f2-f91364f2c0ca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720452(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720452(v=AX.60)
 ms:contentKeyID: 62224159
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

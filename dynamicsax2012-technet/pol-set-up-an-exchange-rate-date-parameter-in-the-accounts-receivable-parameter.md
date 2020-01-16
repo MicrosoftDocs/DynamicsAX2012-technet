@@ -2,8 +2,9 @@
 title: (POL) Set up an exchange rate date parameter in the Accounts receivable parameter
 TOCTitle: (POL) Set up an exchange rate date parameter in the Accounts receivable parameter
 ms:assetid: ee10a750-6630-4e7d-a49c-aa12bbf51d0e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711306(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711306(v=AX.60)
 ms:contentKeyID: 49387124
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

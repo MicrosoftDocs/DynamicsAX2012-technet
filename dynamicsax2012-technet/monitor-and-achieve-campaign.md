@@ -2,8 +2,9 @@
 title: Monitor and achieve campaign
 TOCTitle: Monitor and achieve campaign
 ms:assetid: e38c2001-d736-4dbf-917a-ac8ec3970999
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243218(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243218(v=AX.60)
 ms:contentKeyID: 36059723
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

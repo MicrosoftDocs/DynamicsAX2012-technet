@@ -1,9 +1,10 @@
-﻿---
+---
 title: OrgUnitsController Class (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: OrgUnitsController Class
 ms:assetid: T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.OrgUnitsController
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.orgunitscontroller(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.orgunitscontroller(v=AX.60)
 ms:contentKeyID: 62203340
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,11 +48,11 @@ public ref class OrgUnitsController : public CommerceController<OrgUnit^, String
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   ApiController  
     ODataController  
-      EntitySetController\<OrgUnit, [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
-        [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController](commercecontroller-tentity-tkey-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md)\<OrgUnit, [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+      EntitySetController\<OrgUnit, [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
+        [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController](commercecontroller-tentity-tkey-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md)\<OrgUnit, [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
           Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.OrgUnitsController  
 
 ## Thread Safety

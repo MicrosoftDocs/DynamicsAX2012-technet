@@ -2,8 +2,9 @@
 title: (LTU) Configuring customer payment formats
 TOCTitle: (LTU) Configuring customer payment formats
 ms:assetid: c45c1b11-ad84-4382-b4ea-2dc9c14322e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665184(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665184(v=AX.60)
 ms:contentKeyID: 49386766
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

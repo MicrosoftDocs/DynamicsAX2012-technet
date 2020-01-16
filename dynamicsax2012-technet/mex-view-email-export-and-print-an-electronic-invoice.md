@@ -2,8 +2,9 @@
 title: (MEX) View, email, export, and print an electronic invoice
 TOCTitle: (MEX) View, email, export, and print an electronic invoice
 ms:assetid: 82b619e2-296b-4cf3-80c7-a5616377b490
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209315(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209315(v=AX.60)
 ms:contentKeyID: 36058373
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ Use the **CFD - Electronic invoices** form to view, email, export, or print an a
     
     or
     
-    Click **Functions** \> **Export XML** to export the .xml file to the path specified in the **CFD XML schema file** field in the **Electronic invoice parameters** form. For more information, see [(MEX) Electronic invoice parameters (form)](https://technet.microsoft.com/en-us/library/hh242214\(v=ax.60\)).
+    Click **Functions** \> **Export XML** to export the .xml file to the path specified in the **CFD XML schema file** field in the **Electronic invoice parameters** form. For more information, see [(MEX) Electronic invoice parameters (form)](https://technet.microsoft.com/library/hh242214\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -48,7 +49,7 @@ Use the **CFD - Electronic invoices** form to view, email, export, or print an a
 
 ## See also
 
-[(MEX) CFD (electronic invoices) (form)](https://technet.microsoft.com/en-us/library/hh209329\(v=ax.60\))
+[(MEX) CFD (electronic invoices) (form)](https://technet.microsoft.com/library/hh209329\(v=ax.60\))
 
   
 

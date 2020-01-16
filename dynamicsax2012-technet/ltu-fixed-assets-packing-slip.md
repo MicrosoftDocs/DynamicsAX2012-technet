@@ -2,8 +2,9 @@
 title: (LTU) Fixed assets packing slip
 TOCTitle: (LTU) Fixed assets packing slip
 ms:assetid: 9fa20327-c243-4fce-b16e-b14d6e175cce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665151(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665151(v=AX.60)
 ms:contentKeyID: 49386732
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

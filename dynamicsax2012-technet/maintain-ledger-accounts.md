@@ -2,8 +2,9 @@
 title: Maintain ledger accounts
 TOCTitle: Maintain ledger accounts
 ms:assetid: 8c0fe83f-b00d-4e9b-8322-c478f5d168b4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498329(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498329(v=AX.60)
 ms:contentKeyID: 36058476
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

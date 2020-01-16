@@ -2,8 +2,9 @@
 title: (MEX) Generate a monthly report of electronic invoices
 TOCTitle: (MEX) Generate a monthly report of electronic invoices
 ms:assetid: a7351dab-53de-4240-a42a-fcfcb5347acd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242685(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242685(v=AX.60)
 ms:contentKeyID: 36058875
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

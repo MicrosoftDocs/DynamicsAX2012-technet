@@ -2,8 +2,9 @@
 title: (LTU) Enter details for a fixed asset repair statement
 TOCTitle: (LTU) Enter details for a fixed asset repair statement
 ms:assetid: 25902c2e-d1c8-43f6-b4db-ac40b359b7fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665035(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665035(v=AX.60)
 ms:contentKeyID: 49386618
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,7 +41,7 @@ When the repair cost for a fixed asset exceeds 50 percent of the fixed asset’s
 
 ## See also
 
-[(LTU) Repair (form)](https://technet.microsoft.com/en-us/library/jj665105\(v=ax.60\))
+[(LTU) Repair (form)](https://technet.microsoft.com/library/jj665105\(v=ax.60\))
 
   
 

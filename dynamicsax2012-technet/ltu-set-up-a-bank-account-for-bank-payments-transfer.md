@@ -2,8 +2,9 @@
 title: (LTU) Set up a bank account for bank payments transfer
 TOCTitle: (LTU) Set up a bank account for bank payments transfer
 ms:assetid: 89478d32-1eae-4153-8d08-2f739cd591e0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665134(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665134(v=AX.60)
 ms:contentKeyID: 49386714
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ You can set up the company bank account details using the **Bank accounts** form
 
 ## See also
 
-[(LTU) Bank accounts (modified form)](https://technet.microsoft.com/en-us/library/jj665064\(v=ax.60\))
+[(LTU) Bank accounts (modified form)](https://technet.microsoft.com/library/jj665064\(v=ax.60\))
 
   
 

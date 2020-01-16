@@ -2,8 +2,9 @@
 title: (LTU) Set up the names of the manager and chief accountant
 TOCTitle: (LTU) Set up the names of the manager and accountant general
 ms:assetid: 105501da-4492-4b6c-b381-89936b25282b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665022(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665022(v=AX.60)
 ms:contentKeyID: 49386604
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ You can set up the names of the manager and chief accountant for your legal enti
 
 ## See also
 
-[(LTU) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj678093\(v=ax.60\))
+[(LTU) Legal entities (modified form)](https://technet.microsoft.com/library/jj678093\(v=ax.60\))
 
   
 

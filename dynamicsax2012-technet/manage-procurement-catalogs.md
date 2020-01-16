@@ -2,8 +2,9 @@
 title: Manage procurement catalogs
 TOCTitle: Manage procurement catalogs
 ms:assetid: 64719fa2-a075-4c8b-95a0-e064462451fd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242424(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242424(v=AX.60)
 ms:contentKeyID: 36057713
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

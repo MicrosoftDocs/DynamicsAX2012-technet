@@ -2,8 +2,9 @@
 title: Plan for data partitioning
 TOCTitle: Plan for data partitioning
 ms:assetid: bc872bc1-1575-4de7-b9f4-49c5296f0298
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728668(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728668(v=AX.60)
 ms:contentKeyID: 49556575
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

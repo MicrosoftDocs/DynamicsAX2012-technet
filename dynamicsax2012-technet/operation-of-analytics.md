@@ -2,8 +2,9 @@
 title: Operation of analytics
 TOCTitle: Operations
 ms:assetid: 4fe1c4f5-d6c9-45dc-baf9-529fadd7506f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee873257(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee873257(v=AX.60)
 ms:contentKeyID: 28119353
+author: Khairunj
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

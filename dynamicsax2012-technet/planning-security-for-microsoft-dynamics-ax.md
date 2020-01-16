@@ -2,8 +2,9 @@
 title: Planning security for Microsoft Dynamics AX
 TOCTitle: Planning security for Microsoft Dynamics AX
 ms:assetid: 1d7f1bc2-0553-4695-8de7-b45aeb445930
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn385335(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn385335(v=AX.60)
 ms:contentKeyID: 56554588
+author: Khairunj
 ms.date: 06/11/2014
 mtps_version: v=AX.60
 ---

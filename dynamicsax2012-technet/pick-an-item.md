@@ -2,8 +2,9 @@
 title: Pick an item
 TOCTitle: Pick an item
 ms:assetid: cc3d40cc-ec23-4f79-b010-865ee00adc93
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213668(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213668(v=AX.60)
 ms:contentKeyID: 36059449
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -130,7 +131,7 @@ You can use the **Picking list** form or the **Picking list registration** form 
 
 [Start picking routes](start-picking-routes.md)
 
-[Picking list registration (form)](https://technet.microsoft.com/en-us/library/hh242808\(v=ax.60\))
+[Picking list registration (form)](https://technet.microsoft.com/library/hh242808\(v=ax.60\))
 
 [About picking routes](about-picking-routes.md)
 

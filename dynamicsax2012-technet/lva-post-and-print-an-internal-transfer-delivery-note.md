@@ -2,8 +2,9 @@
 title: (LVA) Post and print an internal transfer delivery note
 TOCTitle: (LVA) Post and print an internal transfer delivery note
 ms:assetid: 5c20dc9b-f895-460d-a62e-34ba84c13156
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721455(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ721455(v=AX.60)
 ms:contentKeyID: 49730233
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

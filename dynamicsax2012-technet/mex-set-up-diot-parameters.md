@@ -2,8 +2,9 @@
 title: (MEX) Set up DIOT parameters
 TOCTitle: (MEX) Set up DIOT parameters
 ms:assetid: 4cc166e4-fe89-49d3-bda1-fff84bdf7244
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208741(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208741(v=AX.60)
 ms:contentKeyID: 36057014
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ Before you generate a DIOT, set up the necessary parameters, such as the field c
 
 ## See also
 
-[(MEX) Set up DIOT declaration (form)](https://technet.microsoft.com/en-us/library/hh242543\(v=ax.60\))
+[(MEX) Set up DIOT declaration (form)](https://technet.microsoft.com/library/hh242543\(v=ax.60\))
 
   
 

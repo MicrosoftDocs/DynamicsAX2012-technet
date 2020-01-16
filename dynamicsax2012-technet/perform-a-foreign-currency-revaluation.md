@@ -2,8 +2,9 @@
 title: Perform a foreign currency revaluation
 TOCTitle: Perform a foreign currency revaluation
 ms:assetid: f98eeac2-160b-4bcc-938b-5cbbad1a137a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499830(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499830(v=AX.60)
 ms:contentKeyID: 39519383
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,7 +69,7 @@ Use the **Foreign currency revaluation** form to complete a foreign currency rev
 
 ## See also
 
-[Ledger foreign currency revaluation (form)](https://technet.microsoft.com/en-us/library/aa573388\(v=ax.60\))
+[Ledger foreign currency revaluation (form)](https://technet.microsoft.com/library/aa573388\(v=ax.60\))
 
   
 

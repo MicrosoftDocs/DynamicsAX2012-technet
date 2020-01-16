@@ -1,9 +1,10 @@
-﻿---
+---
 title: OrgUnitsController Properties (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: OrgUnitsController Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.OrgUnitsController
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.orgunitscontroller_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.orgunitscontroller_properties(v=AX.60)
 ms:contentKeyID: 62203818
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---
@@ -41,12 +42,12 @@ The [OrgUnitsController](orgunitscontroller-class-microsoft-dynamics-retail-reta
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td>ODataPath</td>
-<td>(Inherited from EntitySetController&lt;OrgUnit, <a href="https://technet.microsoft.com/en-us/library/s1wwdcbf(v=ax.60)">String</a>&gt;.)</td>
+<td>(Inherited from EntitySetController&lt;OrgUnit, <a href="https://technet.microsoft.com/library/s1wwdcbf(v=ax.60)">String</a>&gt;.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td>QueryOptions</td>
-<td>(Inherited from EntitySetController&lt;OrgUnit, <a href="https://technet.microsoft.com/en-us/library/s1wwdcbf(v=ax.60)">String</a>&gt;.)</td>
+<td>(Inherited from EntitySetController&lt;OrgUnit, <a href="https://technet.microsoft.com/library/s1wwdcbf(v=ax.60)">String</a>&gt;.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

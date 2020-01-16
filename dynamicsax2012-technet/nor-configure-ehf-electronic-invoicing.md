@@ -2,8 +2,9 @@
 title: (NOR) Configure EHF electronic invoicing
 TOCTitle: (NOR) Configure EHF electronic invoicing
 ms:assetid: 935781c9-0825-47ce-8749-60dd1db42807
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304982(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304982(v=AX.60)
 ms:contentKeyID: 54899958
+author: Khairunj
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,7 +69,7 @@ The following table shows the prerequisites that must be in place before you sta
 </tr>
 <tr class="even">
 <td></td>
-<td><p>Set up exchange rates in the <strong>Currency exchange rates</strong> form. Verify that the ISO currency code for the currency code that is used for electronic invoicing (for example, NOK for Norwegian krone) complies with the three-character ISO standard. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209477(v=ax.60)">Currency exchange rates (form)</a>.</p></td>
+<td><p>Set up exchange rates in the <strong>Currency exchange rates</strong> form. Verify that the ISO currency code for the currency code that is used for electronic invoicing (for example, NOK for Norwegian krone) complies with the three-character ISO standard. For more information, see <a href="https://technet.microsoft.com/library/hh209477(v=ax.60)">Currency exchange rates (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -80,7 +81,7 @@ The following table shows the prerequisites that must be in place before you sta
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>Set up inventory units by specifying external codes according to the United Nations Center for Trade Facilitation and Electronic Business Information Content Management Group (UN/CEFACT ICG) standards in the <strong>Units</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209233(v=ax.60)">Units (form)</a> and <a href="https://technet.microsoft.com/en-us/library/aa583814(v=ax.60)">External codes (form)</a>.</p></td>
+<td><p>Set up inventory units by specifying external codes according to the United Nations Center for Trade Facilitation and Electronic Business Information Content Management Group (UN/CEFACT ICG) standards in the <strong>Units</strong> form. For more information, see <a href="https://technet.microsoft.com/library/hh209233(v=ax.60)">Units (form)</a> and <a href="https://technet.microsoft.com/library/aa583814(v=ax.60)">External codes (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -110,7 +111,7 @@ To configure Microsoft Dynamics AX for EHF electronic invoicing, set up the foll
 
 ## 2\. Set up customer accounts for EHF electronic invoicing
 
-Use the **Customers** form to specify the address and contact details for each company that you generate electronic invoices for. You can create contacts in the **Contacts** form and assign a contact to a customer account. The contact information is included when you generate an electronic invoice for a customer. For more information, see [Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\)).
+Use the **Customers** form to specify the address and contact details for each company that you generate electronic invoices for. You can create contacts in the **Contacts** form and assign a contact to a customer account. The contact information is included when you generate an electronic invoice for a customer. For more information, see [Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\)).
 
 To set up a customer account for EHF electronic invoicing, follow these steps:
 
@@ -124,7 +125,7 @@ To set up a customer account for EHF electronic invoicing, follow these steps:
 
 5.  On the **Action Pane**, on the **Customer** tab, click **Contacts**, and then click **Add contacts** to open the **Contacts** form.
 
-6.  Create a contact for the selected customer. For more information, see [Contacts (form)](https://technet.microsoft.com/en-us/library/aa574743\(v=ax.60\)).
+6.  Create a contact for the selected customer. For more information, see [Contacts (form)](https://technet.microsoft.com/library/aa574743\(v=ax.60\)).
 
 ## 3\. Set up AIF for EHF electronic invoicing
 

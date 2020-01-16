@@ -2,8 +2,9 @@
 title: (POL) Pay for product or service overview
 TOCTitle: (POL) Pay for product or service overview
 ms:assetid: 67cf1546-77f2-454c-9271-3af2878a0c90
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678225(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678225(v=AX.60)
 ms:contentKeyID: 49386947
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

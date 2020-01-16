@@ -2,8 +2,9 @@
 title: (POL) Register a package and verify package quantity for a sales order
 TOCTitle: (POL) Register a package and verify package quantity for a sales order
 ms:assetid: a3394526-79c3-4788-9ad6-f7623b52dfcd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923255(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923255(v=AX.60)
 ms:contentKeyID: 52075337
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -23,7 +24,7 @@ You can register packages for sales orders and sales order lines. You can then p
 
 1.  Click **Accounts receivable** \> **Common** \> **Sales orders** \> **All sales orders**.
 
-2.  Create a sales order or open an existing sales order, and enter the required details. For more information, see [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\)).
+2.  Create a sales order or open an existing sales order, and enter the required details. For more information, see [Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\)).
 
 3.  Click **Line view**, and create a sales order line for the item that is related to the packaging code. For more information, see [(POL) Set up returnable packages for a customer](pol-set-up-returnable-packages-for-a-customer.md).
 
@@ -69,11 +70,11 @@ You can register packages for sales orders and sales order lines. You can then p
 
 [(POL) Post and print a returned package report](pol-post-and-print-a-returned-package-report.md)
 
-[(POL) Return packages transactions (form)](https://technet.microsoft.com/en-us/library/jj923259\(v=ax.60\))
+[(POL) Return packages transactions (form)](https://technet.microsoft.com/library/jj923259\(v=ax.60\))
 
-[(POL) Sales posting (modified form)](https://technet.microsoft.com/en-us/library/jj923256\(v=ax.60\))
+[(POL) Sales posting (modified form)](https://technet.microsoft.com/library/jj923256\(v=ax.60\))
 
-[(POL) Packing units (modified form)](https://technet.microsoft.com/en-us/library/jj681858\(v=ax.60\))
+[(POL) Packing units (modified form)](https://technet.microsoft.com/library/jj681858\(v=ax.60\))
 
   
 

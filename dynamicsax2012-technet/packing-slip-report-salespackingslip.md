@@ -2,8 +2,9 @@
 title: Packing slip report (SalesPackingSlip)
 TOCTitle: Packing slip report (SalesPackingSlip)
 ms:assetid: bf3dc8d2-be9e-465d-aac3-55337fcc03ff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209554(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209554(v=AX.60)
 ms:contentKeyID: 36060343
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -21,7 +22,7 @@ You can use the **Packing slip** report to print packing slip information for co
 
 There are several parameters that can be used to filter the data that is displayed on the report. For more information, see [Filter the data on a report](filter-the-data-on-a-report.md).
 
-For additional information about how to configure the filters for this report, see [Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\)).
+For additional information about how to configure the filters for this report, see [Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\)).
 
 ## How to work with reports
 

@@ -2,8 +2,9 @@
 title: Pipeline analysis report (smmPipelineAnalysis)
 TOCTitle: Pipeline analysis report (smmPipelineAnalysis)
 ms:assetid: e3d1ce8a-683d-415c-8f25-79ed27fb79bf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh394887(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh394887(v=AX.60)
 ms:contentKeyID: 36916370
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

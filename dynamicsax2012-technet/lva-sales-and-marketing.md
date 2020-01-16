@@ -2,8 +2,9 @@
 title: (LVA) Sales and marketing
 TOCTitle: (LVA) Sales and marketing
 ms:assetid: 1ba2e230-a3fb-4476-b269-94b3e0fb0594
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731010(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731010(v=AX.60)
 ms:contentKeyID: 49675250
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (LVA) Post and print an inventory write-down document
 TOCTitle: (LVA) Post and print an inventory write-down document
 ms:assetid: 1be759cd-34b4-49cd-9ce1-4f9d5f3cb247
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721448(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ721448(v=AX.60)
 ms:contentKeyID: 49730226
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,7 +62,7 @@ Use the **Inventory adjustment** form to print an inventory write-down document.
 
 [(LVA) Post and print an inventory movement](lva-post-and-print-an-inventory-movement.md)
 
-[(LVA) Journal lines, Inventory (modified form)](https://technet.microsoft.com/en-us/library/jj721417\(v=ax.60\))
+[(LVA) Journal lines, Inventory (modified form)](https://technet.microsoft.com/library/jj721417\(v=ax.60\))
 
   
 

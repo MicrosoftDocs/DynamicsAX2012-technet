@@ -2,8 +2,9 @@
 title: (MYS) Customer balance list with payments in transfer report (CustBalanceList_MY)
 TOCTitle: (MYS) Customer balance list with payments in transfer report (CustBalanceList_MY)
 ms:assetid: 85702127-5039-4fe0-9fba-651c9c2596c4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433506(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433506(v=AX.60)
 ms:contentKeyID: 36941279
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

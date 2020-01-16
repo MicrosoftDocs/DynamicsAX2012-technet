@@ -2,8 +2,9 @@
 title: Prerequisites for standard costs
 TOCTitle: Prerequisites for standard costs
 ms:assetid: 32d2dae5-53a6-4572-8d67-301680c12eb1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231038(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231038(v=AX.60)
 ms:contentKeyID: 36056537
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

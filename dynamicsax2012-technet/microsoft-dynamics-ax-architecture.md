@@ -2,8 +2,9 @@
 title: Microsoft Dynamics AX architecture
 TOCTitle: Microsoft Dynamics AX architecture
 ms:assetid: 192d8aed-7213-4015-bab2-2e019fd63e6b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309612(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309612(v=AX.60)
 ms:contentKeyID: 35132563
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

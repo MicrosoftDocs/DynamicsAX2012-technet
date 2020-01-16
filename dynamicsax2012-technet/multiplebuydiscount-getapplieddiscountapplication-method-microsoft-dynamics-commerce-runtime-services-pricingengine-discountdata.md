@@ -1,9 +1,10 @@
-﻿---
+---
 title: MultipleBuyDiscount.GetAppliedDiscountApplication Method  (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData)
 TOCTitle: GetAppliedDiscountApplication Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.MultipleBuyDiscount.GetAppliedDiscountApplication(Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountableItemGroup[],System.Decimal[],System.Collections.Generic.Stack{Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.AppliedDiscountApplication},Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountApplication,Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContext,System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.multiplebuydiscount.getapplieddiscountapplication(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.multiplebuydiscount.getapplieddiscountapplication(v=AX.60)
 ms:contentKeyID: 65317786
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,12 +81,12 @@ virtual AppliedDiscountApplication^ GetAppliedDiscountApplication(
 <!-- end list -->
 
   - remainingQuantities  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))\[\]  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))\[\]  
 
 <!-- end list -->
 
   - appliedDiscounts  
-    Type: [System.Collections.Generic.Stack](https://technet.microsoft.com/en-us/library/3278tedw\(v=ax.60\))\<[AppliedDiscountApplication](applieddiscountapplication-class-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md)\>  
+    Type: [System.Collections.Generic.Stack](https://technet.microsoft.com/library/3278tedw\(v=ax.60\))\<[AppliedDiscountApplication](applieddiscountapplication-class-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md)\>  
 
 <!-- end list -->
 
@@ -100,7 +101,7 @@ virtual AppliedDiscountApplication^ GetAppliedDiscountApplication(
 <!-- end list -->
 
   - hasCompetingApplications  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Return Value
 

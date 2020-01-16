@@ -2,8 +2,9 @@
 title: (POL) Set up interest codes
 TOCTitle: (POL) Set up interest codes
 ms:assetid: 30d7959e-3a20-4ae0-91ce-32b686eccf35
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678171(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678171(v=AX.60)
 ms:contentKeyID: 49386894
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ Use this procedure to set up and maintain interest codes. Interest codes contain
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa577265(v=ax.60)">Interest (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa577265(v=ax.60)">Interest (form)</A>.</P>
 
 
 

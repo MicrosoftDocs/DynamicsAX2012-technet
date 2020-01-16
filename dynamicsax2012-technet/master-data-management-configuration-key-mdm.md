@@ -2,8 +2,9 @@
 title: Master data management configuration key (MDM)
 TOCTitle: Master data management configuration key (MDM)
 ms:assetid: 173f77d2-1389-4a4d-ba55-f0a0e7914525
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn792362(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn792362(v=AX.60)
 ms:contentKeyID: 62613989
+author: Khairunj
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
@@ -85,7 +86,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

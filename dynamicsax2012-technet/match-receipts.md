@@ -2,8 +2,9 @@
 title: Match receipts
 TOCTitle: Match receipts
 ms:assetid: 4b12e30f-a4f3-47c9-bcc8-7183679053dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212726(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212726(v=AX.60)
 ms:contentKeyID: 36056987
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

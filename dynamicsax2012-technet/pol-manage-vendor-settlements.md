@@ -2,8 +2,9 @@
 title: (POL) Manage vendor settlements
 TOCTitle: (POL) Manage vendor settlements
 ms:assetid: 59ab4c2e-648e-4300-9b60-31d36c82e21d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678207(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678207(v=AX.60)
 ms:contentKeyID: 49386930
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

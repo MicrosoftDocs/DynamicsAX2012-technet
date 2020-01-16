@@ -2,8 +2,9 @@
 title: OSHA 300 log preparation report (HcmOSHA300LogPrepReport)
 TOCTitle: OSHA 300 log preparation report (HcmOSHA300LogPrepReport)
 ms:assetid: 98b3d69c-3373-44a0-a408-5ba4bab2d231
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn479039(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn479039(v=AX.60)
 ms:contentKeyID: 59632407
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

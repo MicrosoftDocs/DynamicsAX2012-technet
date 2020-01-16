@@ -1,9 +1,10 @@
-﻿---
+---
 title: Microsoft.Dynamics.Commerce.Runtime Namespace ()
 TOCTitle: Microsoft.Dynamics.Commerce.Runtime Namespace
 ms:assetid: N:Microsoft.Dynamics.Commerce.Runtime
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime(v=AX.60)
 ms:contentKeyID: 49853301
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -110,7 +111,7 @@ dev_langs:
 <tr class="odd">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
 <td><a href="datetimeoffsetextensions-class-microsoft-dynamics-commerce-runtime.md">DateTimeOffsetExtensions</a></td>
-<td>Encapsulates functionaltiy used to extend the <a href="https://technet.microsoft.com/en-us/library/bb341783(v=ax.60)">DateTimeOffset</a> type.</td>
+<td>Encapsulates functionaltiy used to extend the <a href="https://technet.microsoft.com/library/bb341783(v=ax.60)">DateTimeOffset</a> type.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
@@ -140,17 +141,17 @@ dev_langs:
 <tr class="odd">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
 <td><a href="icollectionextensions-class-microsoft-dynamics-commerce-runtime.md">ICollectionExtensions</a></td>
-<td>Encapsulates functionality used to extend the <a href="https://technet.microsoft.com/en-us/library/92t2ye13(v=ax.60)">ICollection&lt;T&gt;</a> implementation.</td>
+<td>Encapsulates functionality used to extend the <a href="https://technet.microsoft.com/library/92t2ye13(v=ax.60)">ICollection&lt;T&gt;</a> implementation.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
 <td><a href="idictionaryextensions-class-microsoft-dynamics-commerce-runtime.md">IDictionaryExtensions</a></td>
-<td>Encapsulates functionality used to extend the <a href="https://technet.microsoft.com/en-us/library/s4ys34ea(v=ax.60)">IDictionary&lt;TKey, TValue&gt;</a> class.</td>
+<td>Encapsulates functionality used to extend the <a href="https://technet.microsoft.com/library/s4ys34ea(v=ax.60)">IDictionary&lt;TKey, TValue&gt;</a> class.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
 <td><a href="ienumerableextensions-class-microsoft-dynamics-commerce-runtime.md">IEnumerableExtensions</a></td>
-<td>Encapsulates functionaltiy used to extend the <a href="https://technet.microsoft.com/en-us/library/9eekhta0(v=ax.60)">IEnumerable&lt;T&gt;</a> implementation.</td>
+<td>Encapsulates functionaltiy used to extend the <a href="https://technet.microsoft.com/library/9eekhta0(v=ax.60)">IEnumerable&lt;T&gt;</a> implementation.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
@@ -225,7 +226,7 @@ dev_langs:
 <tr class="even">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
 <td><a href="propertyinfoextensions-class-microsoft-dynamics-commerce-runtime.md">PropertyInfoExtensions</a></td>
-<td>Encapsulates functionaltiy used to extend the <a href="https://technet.microsoft.com/en-us/library/8z852kf5(v=ax.60)">PropertyInfo</a> type.</td>
+<td>Encapsulates functionaltiy used to extend the <a href="https://technet.microsoft.com/library/8z852kf5(v=ax.60)">PropertyInfo</a> type.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>

@@ -2,8 +2,9 @@
 title: (LVA) Working with Accounts receivable
 TOCTitle: (LVA) Working with Accounts receivable
 ms:assetid: 5dfcbe9c-b932-46be-9c07-4177b22683ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731026(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731026(v=AX.60)
 ms:contentKeyID: 49675265
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

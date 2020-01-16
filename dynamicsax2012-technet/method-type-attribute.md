@@ -1,9 +1,10 @@
-﻿---
+---
 title: Method Type Attribute
 TOCTitle: Method Type Attribute
 ms:assetid: d0b383f0-e92d-492e-b0e7-1c50f70fe1aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg881191(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg881191(v=AX.60)
 ms:contentKeyID: 35251829
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -28,7 +29,7 @@ The following code shows the CustCustomerService.delete method decorated with th
 
 
 > [!NOTE]
-> <P>The <A href="https://technet.microsoft.com/en-us/library/gg958657(v=ax.60)">SysEntryPointAttribute</A> is required to be set for service operations. For more information, see <A href="setting-sysentrypointattribute-for-services.md">Setting SysEntryPointAttribute for Services</A>.</P>
+> <P>The <A href="https://technet.microsoft.com/library/gg958657(v=ax.60)">SysEntryPointAttribute</A> is required to be set for service operations. For more information, see <A href="setting-sysentrypointattribute-for-services.md">Setting SysEntryPointAttribute for Services</A>.</P>
 
 
 

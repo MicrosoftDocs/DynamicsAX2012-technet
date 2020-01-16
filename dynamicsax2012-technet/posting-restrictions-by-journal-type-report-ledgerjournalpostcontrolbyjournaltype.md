@@ -2,8 +2,9 @@
 title: Posting restrictions by journal type report (LedgerJournalPostControlByJournalType)
 TOCTitle: Posting restrictions by journal type report (LedgerJournalPostControlByJournalType)
 ms:assetid: 2dd0b71b-00d8-40fc-ac8f-72f98f10d399
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527769(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527769(v=AX.60)
 ms:contentKeyID: 37831988
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

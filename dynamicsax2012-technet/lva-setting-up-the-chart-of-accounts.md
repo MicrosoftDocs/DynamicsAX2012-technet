@@ -2,8 +2,9 @@
 title: (LVA) Setting up the chart of accounts
 TOCTitle: (LVA) Setting up the chart of accounts
 ms:assetid: 752076ce-4162-4e44-9d34-ca250781d479
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856155(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856155(v=AX.60)
 ms:contentKeyID: 50406997
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

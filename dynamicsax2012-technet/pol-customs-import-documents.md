@@ -2,8 +2,9 @@
 title: (POL) Customs import documents
 TOCTitle: (POL) Customs import documents
 ms:assetid: 9613948e-bc1a-4c86-abe0-ed0f8399131e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678302(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678302(v=AX.60)
 ms:contentKeyID: 49387024
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

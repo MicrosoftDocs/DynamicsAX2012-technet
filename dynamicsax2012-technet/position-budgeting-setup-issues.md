@@ -2,8 +2,9 @@
 title: Position budgeting setup issues
 TOCTitle: Position budgeting setup issues
 ms:assetid: 43f7a88a-2058-4715-8fb9-ab9a65e0cc9c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527693(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527693(v=AX.60)
 ms:contentKeyID: 59626225
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

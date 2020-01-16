@@ -2,8 +2,9 @@
 title: (POL) Set up VAT types
 TOCTitle: (POL) Set up VAT types
 ms:assetid: 47a494be-383b-492c-9603-eca4b1a130bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678188(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678188(v=AX.60)
 ms:contentKeyID: 49386911
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ In Polish accounting, the VAT register report forms the basis for reporting taxe
 
 [(POL) Set up VAT report date codes](pol-set-up-vat-report-date-codes.md)
 
-[(EEUR) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj710689\(v=ax.60\))
+[(EEUR) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj710689\(v=ax.60\))
 
   
 

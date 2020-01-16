@@ -1,9 +1,10 @@
-﻿---
+---
 title: LoyaltyWorkflowErrors.CustomerOrDirectoryPartyNotFound Field (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: CustomerOrDirectoryPartyNotFound Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.Messages.LoyaltyWorkflowErrors.CustomerOrDirectoryPartyNotFound
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.loyaltyworkflowerrors.customerordirectorypartynotfound(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.loyaltyworkflowerrors.customerordirectorypartynotfound(v=AX.60)
 ms:contentKeyID: 62202066
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

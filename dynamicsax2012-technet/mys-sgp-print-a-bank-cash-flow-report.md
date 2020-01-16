@@ -2,8 +2,9 @@
 title: (MYS, SGP) Print a bank cash flow report
 TOCTitle: (MYS, SGP) Print a bank cash flow report
 ms:assetid: 3841e6c9-79e9-4fdf-a47f-89aedf34a1f7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231125(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231125(v=AX.60)
 ms:contentKeyID: 36056619
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

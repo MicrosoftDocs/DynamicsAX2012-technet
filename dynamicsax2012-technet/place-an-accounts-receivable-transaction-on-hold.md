@@ -2,8 +2,9 @@
 title: Place an Accounts receivable transaction on hold
 TOCTitle: Place an Accounts receivable transaction on hold
 ms:assetid: 6d432440-ea98-432f-b30c-85385eb33244
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231801(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231801(v=AX.60)
 ms:contentKeyID: 36058025
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,13 +54,13 @@ For users in Seattle, which is three hours behind New York, the transaction was 
 
 ## See also
 
-[Free text invoice (form)](https://technet.microsoft.com/en-us/library/aa556897\(v=ax.60\))
+[Free text invoice (form)](https://technet.microsoft.com/library/aa556897\(v=ax.60\))
 
-[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/en-us/library/aa556141\(v=ax.60\))
+[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/library/aa556141\(v=ax.60\))
 
-[Payment transfers (form)](https://technet.microsoft.com/en-us/library/aa617641\(v=ax.60\))
+[Payment transfers (form)](https://technet.microsoft.com/library/aa617641\(v=ax.60\))
 
-[Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/en-us/library/aa553272\(v=ax.60\))
+[Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/library/aa553272\(v=ax.60\))
 
   
 

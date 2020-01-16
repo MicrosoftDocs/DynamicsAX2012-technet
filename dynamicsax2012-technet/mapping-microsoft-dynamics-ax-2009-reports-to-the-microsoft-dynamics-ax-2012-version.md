@@ -1,9 +1,10 @@
-﻿---
+---
 title: Mapping Microsoft Dynamics AX 2009 Reports to the Microsoft Dynamics AX 2012 Version
 TOCTitle: Mapping Microsoft Dynamics AX 2009 Reports to the Microsoft Dynamics AX 2012 Version
 ms:assetid: 23bc97b8-2236-48ca-8eff-9b6f7e1a023d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731909(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731909(v=AX.60)
 ms:contentKeyID: 35132831
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -17,7 +18,7 @@ This topic provides a mapping of the reports from Microsoft Dynamics AX 2009 to 
 
   - [Reports were converted](development-tasks-for-reporting.md) to run on SQL Server Reporting Services
 
-  - [List pages](https://technet.microsoft.com/en-us/library/cc616937\(v=ax.60\))
+  - [List pages](https://technet.microsoft.com/library/cc616937\(v=ax.60\))
 
 Some reports will not be provided in this release. For more information, see [Deprecated Microsoft Dynamics AX 2009 Reports in Microsoft Dynamics AX 2012](deprecated-microsoft-dynamics-ax-2009-reports-in-microsoft-dynamics-ax-2012.md). For information about the reports that will be provided, see [Report catalog for Microsoft Dynamics AX](report-catalog-for-microsoft-dynamics-ax.md). For a Microsoft Excel version of the report list, see [Microsoft Dynamics AX 2012 and 2009 Report List](http://go.microsoft.com/fwlink/?linkid=232938%26clcid=0x409).
 

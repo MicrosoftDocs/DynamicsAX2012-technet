@@ -2,8 +2,9 @@
 title: (NOR) EHF electronic documents
 TOCTitle: (NOR) EHF electronic documents
 ms:assetid: d2d2e150-509f-4769-b78a-42847d83edcc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304984(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304984(v=AX.60)
 ms:contentKeyID: 54899960
+author: Khairunj
 ms.date: 02/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -81,7 +82,7 @@ Yes. If you are using Microsoft Dynamics AX 2012 R3 or cumulative update 7 or la
 
   - .png
 
-You can use the **Document handling of %1** form to specify the type of attachment and to attach supplementary documents to EHF electronic documents. For more information, see [Document handling (form)](https://technet.microsoft.com/en-us/library/aa616432\(v=ax.60\)).
+You can use the **Document handling of %1** form to specify the type of attachment and to attach supplementary documents to EHF electronic documents. For more information, see [Document handling (form)](https://technet.microsoft.com/library/aa616432\(v=ax.60\)).
 
 You can specify the URL link to the supplementary documents that are related to the EHF electronic document. To specify a URL link to a supplementary document, click **New** \> **URL**, and then enter the URL in the **Description** field in the **Document handling of %1** form.
 

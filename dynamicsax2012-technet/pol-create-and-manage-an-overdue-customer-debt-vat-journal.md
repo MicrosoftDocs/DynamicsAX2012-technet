@@ -2,8 +2,9 @@
 title: (POL) Create and manage an overdue customer debt VAT journal
 TOCTitle: (POL) Create and manage an overdue customer debt VAT journal
 ms:assetid: a647a9b5-ec5d-46a7-9e54-28311173f115
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn753712(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn753712(v=AX.60)
 ms:contentKeyID: 62485056
+author: Khairunj
 ms.date: 06/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,7 +54,7 @@ The following table shows the prerequisites that must be in place before you sta
 </tr>
 <tr class="even">
 <td><p><strong>Related transaction</strong></p></td>
-<td><p>Create a customer payment journal. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa556141(v=ax.60)">Journal voucher - Customer payment journal (form)</a>.</p></td>
+<td><p>Create a customer payment journal. For more information, see <a href="https://technet.microsoft.com/library/aa556141(v=ax.60)">Journal voucher - Customer payment journal (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>

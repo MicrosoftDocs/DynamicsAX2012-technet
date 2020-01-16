@@ -2,8 +2,9 @@
 title: Manage data access by using the Table Permissions Framework
 TOCTitle: Manage data access by using the Table Permissions Framework
 ms:assetid: 101d7291-6637-4519-9859-1b357398939d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh965683(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh965683(v=AX.60)
 ms:contentKeyID: 46331993
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -43,7 +44,7 @@ To enable TPF, the administrator specifies a value for the **AOSAuthorization** 
 
 The **AOSAuthorization** property can be used to authorize Create, Read, Update, and Delete operations. For some tables, you might specify a subset of operations, such as Create, Update, and Delete. If you specify a subset, the AOS authorizes the Create, Update, and Delete operations, but allows any Microsoft Dynamics AX users to perform View operations. For other tables, you should authorize all operations because the data is sensitive.
 
-When the **AOSAuthorization** property is set for a table, table methods that cause the AOS to verify permissions are invoked on each affected table row. For more information, see [AOSAuthorization Property on Tables](https://technet.microsoft.com/en-us/library/bb278259\(v=ax.60\)).
+When the **AOSAuthorization** property is set for a table, table methods that cause the AOS to verify permissions are invoked on each affected table row. For more information, see [AOSAuthorization Property on Tables](https://technet.microsoft.com/library/bb278259\(v=ax.60\)).
 
 Use the following procedure to enable TPF on database table.
 

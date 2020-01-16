@@ -1,9 +1,10 @@
-﻿---
+---
 title: NonBindableActionController.GetTaxOverrides Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: GetTaxOverrides Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.NonBindableActionController.GetTaxOverrides(System.Web.Http.OData.ODataActionParameters,System.Web.Http.OData.Query.ODataQueryOptions{Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxOverride})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.nonbindableactioncontroller.gettaxoverrides(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.nonbindableactioncontroller.gettaxoverrides(v=AX.60)
 ms:contentKeyID: 62203447
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -72,7 +73,7 @@ virtual IEnumerable<TaxOverride^>^ GetTaxOverrides(
 
 #### Return Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<TaxOverride\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<TaxOverride\>  
 The collection of tax override objects.  
 
 ## Exceptions
@@ -90,7 +91,7 @@ The collection of tax override objects.
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/3w1b3114(v=ax.60)">ArgumentException</a></td>
+<td><a href="https://technet.microsoft.com/library/3w1b3114(v=ax.60)">ArgumentException</a></td>
 <td><p>Invalid value specified.</p></td>
 </tr>
 </tbody>

@@ -1,9 +1,10 @@
-﻿---
+---
 title: OfflineTransactionManager.GetOfflineTransactionIds Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: GetOfflineTransactionIds Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OfflineTransactionManager.GetOfflineTransactionIds(System.Int32)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.offlinetransactionmanager.getofflinetransactionids(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.offlinetransactionmanager.getofflinetransactionids(v=AX.60)
 ms:contentKeyID: 65317670
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,11 +51,11 @@ ReadOnlyCollection<String^>^ GetOfflineTransactionIds(
 #### Parameters
 
   - numberOfTransactions  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 
 ## See Also
 

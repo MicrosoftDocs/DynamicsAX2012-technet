@@ -2,8 +2,9 @@
 title: (POL) Setting up tax information
 TOCTitle: (POL) Setting up tax information
 ms:assetid: fa4bddf3-08f1-4792-9d96-85b6cf0e9460
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711335(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711335(v=AX.60)
 ms:contentKeyID: 49387152
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

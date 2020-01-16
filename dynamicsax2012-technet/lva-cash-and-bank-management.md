@@ -2,8 +2,9 @@
 title: (LVA) Cash and bank management
 TOCTitle: (LVA) Cash and bank management
 ms:assetid: 9ec7c849-9449-4ad7-957e-ff782a0be17d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731041(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731041(v=AX.60)
 ms:contentKeyID: 49675281
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Order lines report (SalesLinesExtended)
 TOCTitle: Order lines report (SalesLinesExtended)
 ms:assetid: 84125ed2-d3ec-46d8-96f8-4cc6ee6a3225
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa586909(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa586909(v=AX.60)
 ms:contentKeyID: 36059545
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

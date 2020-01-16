@@ -2,8 +2,9 @@
 title: Master scheduling
 TOCTitle: Master scheduling
 ms:assetid: 90c8a2e4-e16f-46ce-9c7a-3923211ab117
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242900(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242900(v=AX.60)
 ms:contentKeyID: 36058546
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Mass deploy Retail components by using System Center Configuration Manager
 TOCTitle: Mass deploy Retail components by using System Center Configuration Manager
 ms:assetid: 15ded62a-f6d3-44a4-8fe6-93e7f19ea558
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497719(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497719(v=AX.60)
 ms:contentKeyID: 62200200
+author: Khairunj
 ms.date: 10/28/2016
 mtps_version: v=AX.60
 ---
@@ -91,7 +92,7 @@ This topic includes the following information:
 </tr>
 <tr class="odd">
 <td><p>Discover computers in System Center Configuration Manager</p></td>
-<td><p>Any computer entities for Microsoft Dynamics AX must already be discovered by Configuration Manager before you import the topology to Configuration Manager. For more information, see <a href="https://technet.microsoft.com/en-us/library/gg712308.aspx">Planning for Discovery in Configuration Manager</a>.</p>
+<td><p>Any computer entities for Microsoft Dynamics AX must already be discovered by Configuration Manager before you import the topology to Configuration Manager. For more information, see <a href="https://technet.microsoft.com/library/gg712308.aspx">Planning for Discovery in Configuration Manager</a>.</p>
 <p>Workgroup computers must be approved in Configuration Manager before you can deploy components to them.</p>
 <p>You must manually create Async Server working folders when installing Async Server via mass-deployment. These folders will not be created by the mass deployment process.</p></td>
 </tr>

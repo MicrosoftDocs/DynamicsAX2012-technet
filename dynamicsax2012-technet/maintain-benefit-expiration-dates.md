@@ -2,8 +2,9 @@
 title: Maintain benefit expiration dates
 TOCTitle: Maintain benefit expiration dates
 ms:assetid: 7fdb9475-0e61-41a2-927e-20deba9b6034
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn282390(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn282390(v=AX.60)
 ms:contentKeyID: 54906704
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ When you change the expiration date of a benefit to an earlier date, all worker 
 
 
 > [!NOTE]
-> <P>To expire a benefit that has no enrolled workers, use the <STRONG>Maintain versions</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227640(v=ax.60)">Maintain benefit versions (form)</A>.</P>
+> <P>To expire a benefit that has no enrolled workers, use the <STRONG>Maintain versions</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/hh227640(v=ax.60)">Maintain benefit versions (form)</A>.</P>
 
 
 

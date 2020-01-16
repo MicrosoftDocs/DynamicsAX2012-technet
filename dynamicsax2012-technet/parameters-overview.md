@@ -1,9 +1,10 @@
-﻿---
+---
 title: Parameters Overview
 TOCTitle: Parameters Overview
 ms:assetid: 623870c9-36fe-4d40-83bd-662575d31005
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh528478(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh528478(v=AX.60)
 ms:contentKeyID: 37835168
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -55,7 +56,7 @@ This section references report names as examples. For information about how to a
 <tbody>
 <tr class="odd">
 <td><p>Query parameter</p></td>
-<td><p>You create a query parameter when you add a dataset that is bound to an AOT query with a range. A dataset parameter and report parameter are created in the report model for each range set in the AOT query. When you create a query in the AOT, the query is defined by using the SysQuery class. Enterprise Portal (EP) cannot process reports that use SysQuery parameters so <a href="https://technet.microsoft.com/en-us/library/hh330284(v=ax.60)">the parameters must be added explicitly for EP</a>.</p>
+<td><p>You create a query parameter when you add a dataset that is bound to an AOT query with a range. A dataset parameter and report parameter are created in the report model for each range set in the AOT query. When you create a query in the AOT, the query is defined by using the SysQuery class. Enterprise Portal (EP) cannot process reports that use SysQuery parameters so <a href="https://technet.microsoft.com/library/hh330284(v=ax.60)">the parameters must be added explicitly for EP</a>.</p>
 <p>The following list describes how setting the <strong>Dynamic Filters</strong> property is used to indicate whether the query parameters should be static or dynamic.</p>
 <ul>
 <li><p>A static range parameter is created in the report model when you bind a dataset to a query that has a range specified, and the <strong>Dynamic Filters</strong> property on the dataset is set to <strong>False</strong>. A dataset parameter and report parameter are created in the report model for each query range. The parameters are named the same as the field that the range is based on for the AOT query. The end-user will be prompted to provide a value for the parameter to filter the report based on the range, but they will not be able to add more fields to filter on. The ProjBeginningBalances report contains examples of static range parameters. The ProjBeginningBalancesCostSalesDS dataset is bound to the ProjBeginningBalancesCostSales query and the <strong>Dynamic Filters</strong> property is set to <strong>False</strong>. The query has a range set on the <strong>Voucher</strong> field. A static range parameter called <strong>Voucher</strong> was generated when the dataset was added to the report model.</p></li>

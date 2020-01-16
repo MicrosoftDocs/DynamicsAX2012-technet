@@ -2,8 +2,9 @@
 title: (POL) Register external inventory availability
 TOCTitle: (POL) Register external inventory availability
 ms:assetid: 4f7f646b-49a6-4c58-a598-850b3b015483
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678200(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678200(v=AX.60)
 ms:contentKeyID: 49386924
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

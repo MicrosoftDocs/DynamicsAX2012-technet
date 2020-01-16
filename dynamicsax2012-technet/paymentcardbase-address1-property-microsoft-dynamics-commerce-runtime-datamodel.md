@@ -1,9 +1,10 @@
-﻿---
+---
 title: PaymentCardBase.Address1 Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Address1 Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.PaymentCardBase.Address1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.paymentcardbase.address1(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.paymentcardbase.address1(v=AX.60)
 ms:contentKeyID: 65316883
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ property String^ Address1 {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 The address1.  
 
 ## See Also

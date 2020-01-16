@@ -2,8 +2,9 @@
 title: (LVA) Complete the invoice information
 TOCTitle: (LVA) Complete the invoice information
 ms:assetid: 7d2fb4d8-269c-4c01-831c-3b3fc17e9dde
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731033(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731033(v=AX.60)
 ms:contentKeyID: 49675273
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

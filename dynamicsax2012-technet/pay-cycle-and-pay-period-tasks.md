@@ -2,8 +2,9 @@
 title: Pay cycle and pay period tasks
 TOCTitle: Pay cycle and pay period tasks
 ms:assetid: 0029649f-b8fd-447f-87ba-618598329257
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677318(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677318(v=AX.60)
 ms:contentKeyID: 49384091
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

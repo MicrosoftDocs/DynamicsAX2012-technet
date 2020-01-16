@@ -2,8 +2,9 @@
 title: Multiple ship-to configuration key (TradeMultiShipTo)
 TOCTitle: Multiple ship-to configuration key (TradeMultiShipTo)
 ms:assetid: 0ae56be3-f219-4d86-9d71-126ca9a2275a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571711(v=AX.60)
 ms:contentKeyID: 36997736
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

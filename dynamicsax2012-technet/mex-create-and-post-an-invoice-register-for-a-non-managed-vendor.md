@@ -2,8 +2,9 @@
 title: (MEX) Create and post an invoice register for a non-managed vendor
 TOCTitle: (MEX) Create and post an invoice register for a non-managed vendor
 ms:assetid: 5b949d15-078a-43f3-a294-b72d49f42b08
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209121(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209121(v=AX.60)
 ms:contentKeyID: 36057561
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,9 +44,9 @@ You can invoice purchase transactions for non-managed vendors using an invoice r
 
 ## See also
 
-[Journal voucher - Invoice register (form)](https://technet.microsoft.com/en-us/library/aa575517\(v=ax.60\))
+[Journal voucher - Invoice register (form)](https://technet.microsoft.com/library/aa575517\(v=ax.60\))
 
-[Journal voucher - Invoice approval journal (form)](https://technet.microsoft.com/en-us/library/aa498954\(v=ax.60\))
+[Journal voucher - Invoice approval journal (form)](https://technet.microsoft.com/library/aa498954\(v=ax.60\))
 
   
 

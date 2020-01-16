@@ -2,8 +2,9 @@
 title: Picking list report (ProdPicklist)
 TOCTitle: Picking list report (ProdPicklist)
 ms:assetid: a5f59e15-6293-4194-86e3-d44468f57bc1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa617995(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa617995(v=AX.60)
 ms:contentKeyID: 36060136
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

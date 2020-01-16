@@ -2,8 +2,9 @@
 title: Post vendor invoices that are in an invoice pool
 TOCTitle: Post vendor invoices that are in an invoice pool
 ms:assetid: 95e2a149-79c0-495c-89ca-9c9a6de9f181
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498424(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498424(v=AX.60)
 ms:contentKeyID: 36058625
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ Use these steps to transfer the invoices from the **Invoice pool excl. posting**
 
 [Enter vendor invoices in an invoice pool](enter-vendor-invoices-in-an-invoice-pool.md)
 
-[Vendor invoice pool excluding posting details (form)](https://technet.microsoft.com/en-us/library/bb314782\(v=ax.60\))
+[Vendor invoice pool excluding posting details (form)](https://technet.microsoft.com/library/bb314782\(v=ax.60\))
 
   
 

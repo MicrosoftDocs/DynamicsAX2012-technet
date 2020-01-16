@@ -2,8 +2,9 @@
 title: Prepare a legal entity for use in the consolidation process
 TOCTitle: Prepare a legal entity for use in the consolidation process
 ms:assetid: 5ef6fbfa-9e22-4aa2-b4c3-b0e279d1035f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549110(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549110(v=AX.60)
 ms:contentKeyID: 39519155
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,11 +47,11 @@ The consolidated legal entity collects the results and balances of the subsidiar
 
 6.  Click **General ledger** \> **Setup** \> **Ledger**.
 
-7.  Select the chart of accounts, the fiscal calendar, the accounting currency, an optional reporting currency, and the default exchange rate type for the consolidated legal entity. For more information, see [Ledger (form)](https://technet.microsoft.com/en-us/library/hh209331\(v=ax.60\)).
+7.  Select the chart of accounts, the fiscal calendar, the accounting currency, an optional reporting currency, and the default exchange rate type for the consolidated legal entity. For more information, see [Ledger (form)](https://technet.microsoft.com/library/hh209331\(v=ax.60\)).
 
 8.  Click **General ledger** \> **Setup** \> **Currency** \> **Currency exchange rates**.
 
-9.  Set up currency exchange rates in relevant periods for the currencies of the subsidiary legal entities. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\)).
+9.  Set up currency exchange rates in relevant periods for the currencies of the subsidiary legal entities. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\)).
 
 10. Close the form.
 

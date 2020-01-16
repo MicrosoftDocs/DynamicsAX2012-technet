@@ -1,9 +1,10 @@
-﻿---
+---
 title: NonBindableActionController.GetQueryResultSettings(T) Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: GetQueryResultSettings(T) Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.NonBindableActionController.GetQueryResultSettings``1(System.Web.Http.OData.Query.ODataQueryOptions{``0})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716230(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716230(v=AX.60)
 ms:contentKeyID: 62202495
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

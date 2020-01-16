@@ -2,8 +2,9 @@
 title: Product information management
 TOCTitle: Product information management
 ms:assetid: 405f75a5-2f08-4da7-9eb4-ce7ba0cf993d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242257(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242257(v=AX.60)
 ms:contentKeyID: 36056717
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,17 +52,17 @@ You can also use the **Product models** form to build product models and attach 
 <tbody>
 <tr class="odd">
 <td><p><a href="key-tasks-define-products.md">Key tasks: Define products</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh545532(v=ax.60)">Product information management parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh545532(v=ax.60)">Product information management parameters (form)</a></p></td>
 <td><p></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="about-inventory-dimensions-and-dimension-groups.md">About inventory dimensions and dimension groups</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa615563(v=ax.60)">Released product details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa615563(v=ax.60)">Released product details (form)</a></p></td>
 <td><p></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="about-product-models.md">About product models</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa572853(v=ax.60)">Product models (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa572853(v=ax.60)">Product models (form)</a></p></td>
 <td><p></p></td>
 </tr>
 </tbody>
