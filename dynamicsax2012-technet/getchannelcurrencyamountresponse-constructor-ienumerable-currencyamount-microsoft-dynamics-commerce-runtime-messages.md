@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetChannelCurrencyAmountResponse Constructor (IEnumerable(CurrencyAmount)) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetChannelCurrencyAmountResponse Constructor (IEnumerable(CurrencyAmount))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetChannelCurrencyAmountResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CurrencyAmount})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getchannelcurrencyamountresponse.getchannelcurrencyamountresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getchannelcurrencyamountresponse.getchannelcurrencyamountresponse(v=AX.60)
 ms:contentKeyID: 62207597
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ GetChannelCurrencyAmountResponse(
 #### Parameters
 
   - currencies  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[CurrencyAmount](currencyamount-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[CurrencyAmount](currencyamount-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

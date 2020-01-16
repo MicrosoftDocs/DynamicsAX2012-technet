@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Example: FindKeys Action'
 TOCTitle: 'Example: FindKeys Action'
 ms:assetid: 387b1936-eb0c-4951-9da6-6840a41d1b0a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa636580(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa636580(v=AX.60)
 ms:contentKeyID: 35242847
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

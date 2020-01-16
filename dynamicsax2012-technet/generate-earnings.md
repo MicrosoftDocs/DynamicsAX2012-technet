@@ -2,8 +2,9 @@
 title: Generate earnings
 TOCTitle: Generate earnings
 ms:assetid: 8fc44d1e-5a29-4ba8-ac48-15fe1477496c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876708(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876708(v=AX.60)
 ms:contentKeyID: 63385350
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

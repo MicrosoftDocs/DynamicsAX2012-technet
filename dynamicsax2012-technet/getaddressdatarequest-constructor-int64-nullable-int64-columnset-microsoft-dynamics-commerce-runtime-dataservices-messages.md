@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetAddressDataRequest Constructor (Int64, Nullable(Int64), ColumnSet) (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: GetAddressDataRequest Constructor (Int64, Nullable(Int64), ColumnSet)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetAddressDataRequest.#ctor(System.Int64,System.Nullable{System.Int64},Microsoft.Dynamics.Commerce.Runtime.ColumnSet)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getaddressdatarequest.getaddressdatarequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getaddressdatarequest.getaddressdatarequest(v=AX.60)
 ms:contentKeyID: 65320191
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -57,12 +58,12 @@ GetAddressDataRequest(
 #### Parameters
 
   - addressRecordId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - customerRecordId  
-    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+    Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 
 <!-- end list -->
 

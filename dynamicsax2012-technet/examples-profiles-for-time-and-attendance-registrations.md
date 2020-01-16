@@ -2,8 +2,9 @@
 title: 'Examples: Profiles for time and attendance registrations'
 TOCTitle: 'Examples: Profiles for time and attendance registrations'
 ms:assetid: 9719e42a-cf11-497e-a65c-92cadf5f0fd7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498430(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498430(v=AX.60)
 ms:contentKeyID: 36058667
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

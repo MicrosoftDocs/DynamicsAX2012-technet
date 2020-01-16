@@ -1,9 +1,10 @@
-﻿---
+---
 title: Example Messages for AIF Document Service Operations
 TOCTitle: Example Messages for AIF Document Service Operations
 ms:assetid: f467a05c-150e-4c7e-bdc1-5fde0b267151
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ191598(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ191598(v=AX.60)
 ms:contentKeyID: 48088687
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

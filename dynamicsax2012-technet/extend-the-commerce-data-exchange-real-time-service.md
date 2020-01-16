@@ -2,8 +2,9 @@
 title: 'Extend the Commerce Data Exchange: Real-time Service'
 TOCTitle: 'Extend the Commerce Data Exchange: Real-time Service'
 ms:assetid: 79f7d449-f804-4ded-b7f2-92d86b6713d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126098(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126098(v=AX.60)
 ms:contentKeyID: 52075233
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -13,13 +14,13 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-You can extend Commerce Data Exchange: Real-time Service by adding extension methods to the [RetailTransactionServiceEx](https://technet.microsoft.com/en-us/library/hh813763\(v=ax.60\)) class.
+You can extend Commerce Data Exchange: Real-time Service by adding extension methods to the [RetailTransactionServiceEx](https://technet.microsoft.com/library/hh813763\(v=ax.60\)) class.
 
 Real-time Service enables retail clients to interact with Microsoft Dynamics AX retail functionality in real time. For more information, see [Commerce Data Exchange: Real-time Service](commerce-data-exchange-real-time-service.md).
 
 ## Extending the RetailTransactionServiceEx Class
 
-To extend Real-time Service, you create a new method in the [RetailTransactionServiceEx](https://technet.microsoft.com/en-us/library/hh813763\(v=ax.60\)) class. This method must meet the following criteria:
+To extend Real-time Service, you create a new method in the [RetailTransactionServiceEx](https://technet.microsoft.com/library/hh813763\(v=ax.60\)) class. This method must meet the following criteria:
 
   - The method must be a public static method.
 

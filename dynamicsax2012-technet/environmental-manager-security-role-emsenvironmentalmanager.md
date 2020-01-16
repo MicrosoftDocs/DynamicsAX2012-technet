@@ -2,8 +2,9 @@
 title: Environmental manager security role (EMSEnvironmentalManager)
 TOCTitle: Environmental manager security role (EMSEnvironmentalManager)
 ms:assetid: 9b0030f4-af13-4f02-a73a-8a67e37da2b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527113(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527113(v=AX.60)
 ms:contentKeyID: 37823164
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

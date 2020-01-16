@@ -2,8 +2,9 @@
 title: Find support for Microsoft Dynamics AX and Microsoft Dynamics Lifecycle Services
 TOCTitle: Find support
 ms:assetid: f14f0ff8-d798-4cd0-a730-0a09957fdd25
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn756358(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn756358(v=AX.60)
 ms:contentKeyID: 62524061
+author: Khairunj
 ms.date: 10/08/2014
 mtps_version: v=AX.60
 ---

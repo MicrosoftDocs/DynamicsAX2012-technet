@@ -2,8 +2,9 @@
 title: Fixed-price projects - closing profiles report (ProjClosingProfile)
 TOCTitle: Fixed-price projects - closing profiles report (ProjClosingProfile)
 ms:assetid: 1016b6e9-3cdc-4dc2-afd8-beb90a2955fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498697(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498697(v=AX.60)
 ms:contentKeyID: 37820202
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

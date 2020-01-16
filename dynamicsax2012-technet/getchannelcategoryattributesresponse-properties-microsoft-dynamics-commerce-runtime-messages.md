@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetChannelCategoryAttributesResponse Properties (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetChannelCategoryAttributesResponse Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetChannelCategoryAttributesResponse
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getchannelcategoryattributesresponse_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getchannelcategoryattributesresponse_properties(v=AX.60)
 ms:contentKeyID: 49830303
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

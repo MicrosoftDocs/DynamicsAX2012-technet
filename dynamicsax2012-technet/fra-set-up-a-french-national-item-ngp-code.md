@@ -2,8 +2,9 @@
 title: (FRA) Set up a French national item (NGP) code
 TOCTitle: (FRA) Set up a French national item (NGP) code
 ms:assetid: c00a6f63-4dd9-4406-95b0-ac887ed216c9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242826(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242826(v=AX.60)
 ms:contentKeyID: 36059261
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -32,7 +33,7 @@ Use the **NGP codes** form to create an NGP code.
 
 ## Set up an NGP code for an item
 
-Use the **Released product details** form to specify an NGP code for an item. For more information, see [Released product details (form)](https://technet.microsoft.com/en-us/library/aa615563\(v=ax.60\)).
+Use the **Released product details** form to specify an NGP code for an item. For more information, see [Released product details (form)](https://technet.microsoft.com/library/aa615563\(v=ax.60\)).
 
 1.  Click **Product information management** \> **Common** \> **Released products**.
 
@@ -42,7 +43,7 @@ Use the **Released product details** form to specify an NGP code for an item. Fo
 
 ## See also
 
-[(FRA) NGP codes (form)](https://technet.microsoft.com/en-us/library/hh227667\(v=ax.60\))
+[(FRA) NGP codes (form)](https://technet.microsoft.com/library/hh227667\(v=ax.60\))
 
   
 

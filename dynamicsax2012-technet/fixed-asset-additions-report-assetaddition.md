@@ -2,8 +2,9 @@
 title: Fixed asset additions report (AssetAddition)
 TOCTitle: Fixed asset additions report (AssetAddition)
 ms:assetid: d3fe6a46-9550-4085-836a-c71fb9f629a9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416709(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416709(v=AX.60)
 ms:contentKeyID: 36931902
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -83,9 +84,9 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Asset additions (form)](https://technet.microsoft.com/en-us/library/hh227527\(v=ax.60\))
+[Asset additions (form)](https://technet.microsoft.com/library/hh227527\(v=ax.60\))
 
-[Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620341\(v=ax.60\))
+[Fixed assets (form)](https://technet.microsoft.com/library/aa620341\(v=ax.60\))
 
   
 

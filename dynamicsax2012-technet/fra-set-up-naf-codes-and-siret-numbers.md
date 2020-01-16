@@ -2,8 +2,9 @@
 title: (FRA) Set up NAF codes and siret numbers
 TOCTitle: (FRA) Set up NAF codes and siret numbers
 ms:assetid: 55e1d802-7493-4024-99a4-33a5549f982a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208962(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208962(v=AX.60)
 ms:contentKeyID: 36057318
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -92,7 +93,7 @@ To perform this task, follow these steps:
 
 ## See also
 
-[(FRA) NAF codes (form)](https://technet.microsoft.com/en-us/library/hh227617\(v=ax.60\))
+[(FRA) NAF codes (form)](https://technet.microsoft.com/library/hh227617\(v=ax.60\))
 
 [(FRA) NAF codes and siret numbers](fra-naf-codes-and-siret-numbers.md)
 

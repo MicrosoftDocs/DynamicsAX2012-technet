@@ -2,8 +2,9 @@
 title: (FRA) Set up a method of payment for French checks
 TOCTitle: (FRA) Set up a method of payment for French checks
 ms:assetid: eac726c5-f65f-48de-be3c-3519f1402b6a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243247(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243247(v=AX.60)
 ms:contentKeyID: 36059856
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ Use the **Methods of payment - vendors** form to set up a method of payment for 
 
 2.  Click **New** or press CTRL+N to create a method of payment. In the **Method of payment** field, enter an identification code for the method of payment, such as Check.
 
-3.  Enter additional information for the method of payment, if required. For more information, see [Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\)).
+3.  Enter additional information for the method of payment, if required. For more information, see [Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\)).
 
 4.  On the **File formats** FastTab, in the **Export format** field, select **Check**.
     
@@ -41,7 +42,7 @@ Use the **Check layout** form to set up the French check and payment letter form
 
 1.  Click **Cash and bank management** \> **Common** \> **Bank accounts**.
 
-2.  Select or create a bank account. For more information, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)).
+2.  Select or create a bank account. For more information, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)).
 
 3.  In the **Bank accounts** form, on the **Set up** tab, click **Check** to open the **Check layout** form.
 
@@ -57,7 +58,7 @@ You can click **Print test** in the **Check layout** form to open the **Check la
 
 ## See also
 
-[Check layout (form)](https://technet.microsoft.com/en-us/library/aa576973\(v=ax.60\))
+[Check layout (form)](https://technet.microsoft.com/library/aa576973\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Export data to another instance of Microsoft Dynamics AX
 TOCTitle: Export data to another instance of Microsoft Dynamics AX
 ms:assetid: 117863f3-33b4-4bf9-9427-7c886a258be3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309596(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309596(v=AX.60)
 ms:contentKeyID: 35132551
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

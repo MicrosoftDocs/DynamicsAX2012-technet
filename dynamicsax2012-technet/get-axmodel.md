@@ -1,9 +1,10 @@
-﻿---
+---
 title: Get-AXModel
 TOCTitle: Get-AXModel
 ms:assetid: 470C2556-10CF-493F-883F-0FEAD27DA49A
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720257(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720257(v=AX.60)
 ms:contentKeyID: 49720046
+author: Khairunj
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

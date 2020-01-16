@@ -2,8 +2,9 @@
 title: Filter the data on a report
 TOCTitle: Filter the data on a report
 ms:assetid: bac81e73-3299-495c-981f-fe159323b91b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724098(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg724098(v=AX.60)
 ms:contentKeyID: 35133457
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

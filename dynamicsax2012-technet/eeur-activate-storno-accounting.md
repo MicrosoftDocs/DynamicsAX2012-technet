@@ -2,8 +2,9 @@
 title: (EEUR) Activate storno accounting
 TOCTitle: (EEUR) Activate storno accounting
 ms:assetid: ab3dab82-7f40-4315-95bf-f002e4d7d4d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ852136(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ852136(v=AX.60)
 ms:contentKeyID: 50281222
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -129,49 +130,49 @@ After you activate storno accounting in General ledger, you can set up parameter
 
 ## See also
 
-[General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\))
+[General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\))
 
-[(EEUR) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710686\(v=ax.60\))
+[(EEUR) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj710686\(v=ax.60\))
 
-[(CZE) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj838779\(v=ax.60\))
+[(CZE) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj838779\(v=ax.60\))
 
-[(LTU) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj911001\(v=ax.60\))
+[(LTU) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj911001\(v=ax.60\))
 
-[Accounts payable parameters (form)](https://technet.microsoft.com/en-us/library/aa596348\(v=ax.60\))
+[Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\))
 
-[(EEUR) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj720358\(v=ax.60\))
+[(EEUR) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj720358\(v=ax.60\))
 
-[(CZE) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710667\(v=ax.60\))
+[(CZE) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj710667\(v=ax.60\))
 
-[(HUN) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664360\(v=ax.60\))
+[(HUN) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj664360\(v=ax.60\))
 
-[(LTU) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj665154\(v=ax.60\))
+[(LTU) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj665154\(v=ax.60\))
 
-[(LVA) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj731039\(v=ax.60\))
+[(LVA) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj731039\(v=ax.60\))
 
-[(POL) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678134\(v=ax.60\))
+[(POL) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj678134\(v=ax.60\))
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
-[(EEUR) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710793\(v=ax.60\))
+[(EEUR) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj710793\(v=ax.60\))
 
-[(CZE) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677464\(v=ax.60\))
+[(CZE) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj677464\(v=ax.60\))
 
-[(HUN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj714534\(v=ax.60\))
+[(HUN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj714534\(v=ax.60\))
 
-[(LTU) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj665084\(v=ax.60\))
+[(LTU) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj665084\(v=ax.60\))
 
-[(LVA) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj731076\(v=ax.60\))
+[(LVA) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj731076\(v=ax.60\))
 
-[(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678183\(v=ax.60\))
+[(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj678183\(v=ax.60\))
 
-[Inventory and warehouse management parameters (form)](https://technet.microsoft.com/en-us/library/aa587658\(v=ax.60\))
+[Inventory and warehouse management parameters (form)](https://technet.microsoft.com/library/aa587658\(v=ax.60\))
 
-[(EEUR) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710787\(v=ax.60\))
+[(EEUR) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj710787\(v=ax.60\))
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
-[(EEUR) Project management and accounting parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710688\(v=ax.60\))
+[(EEUR) Project management and accounting parameters (modified form)](https://technet.microsoft.com/library/jj710688\(v=ax.60\))
 
   
 

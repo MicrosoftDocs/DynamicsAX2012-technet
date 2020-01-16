@@ -2,8 +2,9 @@
 title: Follow up on purchase requisitions
 TOCTitle: Follow up on purchase requisitions
 ms:assetid: a9331013-3fbe-4351-915e-4ae54988a8ae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243068(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243068(v=AX.60)
 ms:contentKeyID: 36687398
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (EEUR) Set up a payment method for cash payments in a retail store
 TOCTitle: (EEUR) Set up a payment method for cash payments in a retail store
 ms:assetid: 7aeee7c6-f5ae-4593-b7d2-8a8fe627a80f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268479(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268479(v=AX.60)
 ms:contentKeyID: 54917018
+author: Khairunj
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:

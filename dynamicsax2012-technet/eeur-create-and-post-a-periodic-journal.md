@@ -2,8 +2,9 @@
 title: (EEUR) Create and post a periodic journal
 TOCTitle: (EEUR) Create and post a periodic journal
 ms:assetid: d50f0cae-9495-4e4f-b5c5-aae6e2233608
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853389(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853389(v=AX.60)
 ms:contentKeyID: 50396759
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ A standard periodic journal contains only journal lines that are generated from 
 
 You can convert an existing general journal into a periodic journal. For example, each month, you create a journal that contains similar entries. You can open one of the journals and make it a periodic journal, and then maintain individual journal lines.
 
-1.  Click **General ledger** \> **Journals** \> **General journal**. Create a new journal or open an existing journal. For more information about how to create a general journal, see [Journal voucher - General journal (form)](https://technet.microsoft.com/en-us/library/aa591466\(v=ax.60\)).
+1.  Click **General ledger** \> **Journals** \> **General journal**. Create a new journal or open an existing journal. For more information about how to create a general journal, see [Journal voucher - General journal (form)](https://technet.microsoft.com/library/aa591466\(v=ax.60\)).
 
 2.  In the **Journal voucher** form, click **Period journal** \> **Save journal**.
 
@@ -98,11 +99,11 @@ After you create a periodic journal, use this procedure to post it. The procedur
 
 ## See also
 
-[Periodic journal lines (form)](https://technet.microsoft.com/en-us/library/aa557282\(v=ax.60\))
+[Periodic journal lines (form)](https://technet.microsoft.com/library/aa557282\(v=ax.60\))
 
-[(EEUR) Periodic journal lines (modified form)](https://technet.microsoft.com/en-us/library/jj714475\(v=ax.60\))
+[(EEUR) Periodic journal lines (modified form)](https://technet.microsoft.com/library/jj714475\(v=ax.60\))
 
-[Save journal as periodic journal (form)](https://technet.microsoft.com/en-us/library/aa585700\(v=ax.60\))
+[Save journal as periodic journal (form)](https://technet.microsoft.com/library/aa585700\(v=ax.60\))
 
   
 

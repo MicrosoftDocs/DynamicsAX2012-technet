@@ -2,8 +2,9 @@
 title: Forecast cash flow and currency requirements
 TOCTitle: Forecast cash flow and currency requirements
 ms:assetid: 167d0308-d344-4876-bb48-4d6bb9841552
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230959(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230959(v=AX.60)
 ms:contentKeyID: 36056074
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

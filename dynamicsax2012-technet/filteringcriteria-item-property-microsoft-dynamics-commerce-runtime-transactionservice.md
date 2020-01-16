@@ -1,9 +1,10 @@
-﻿---
+---
 title: FilteringCriteria.Item Property  (Microsoft.Dynamics.Commerce.Runtime.TransactionService)
 TOCTitle: Item Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.TransactionService.FilteringCriteria.Item(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.transactionservice.filteringcriteria.item(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.filteringcriteria.item(v=AX.60)
 ms:contentKeyID: 49822315
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,11 +58,11 @@ property Object^ Item[String^ key] {
 #### Parameters
 
   - key  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Property Value
 
-Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
 The value associated with the specified key or NULL if the specified key does not exist.  
 
 ## See Also

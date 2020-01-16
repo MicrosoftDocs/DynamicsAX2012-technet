@@ -2,8 +2,9 @@
 title: Enter a meter reading
 TOCTitle: Enter a meter reading
 ms:assetid: 7572ff0d-bc5a-4181-9fec-70f99f5ee51f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh524756(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh524756(v=AX.60)
 ms:contentKeyID: 37072060
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ You can set up meters to record substance flows from machines, extraction device
 
 ## See also
 
-[Meter readings (form)](https://technet.microsoft.com/en-us/library/hh209718\(v=ax.60\))
+[Meter readings (form)](https://technet.microsoft.com/library/hh209718\(v=ax.60\))
 
 [Set up, delete, or deactivate a meter](set-up-delete-or-deactivate-a-meter.md)
 

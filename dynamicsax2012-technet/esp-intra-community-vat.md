@@ -2,8 +2,9 @@
 title: (ESP) Intra-Community VAT
 TOCTitle: (ESP) Intra-Community VAT
 ms:assetid: 90bf53dc-d3d6-4301-ba3a-3f62a4d1cdad
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242895(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242895(v=AX.60)
 ms:contentKeyID: 36058541
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

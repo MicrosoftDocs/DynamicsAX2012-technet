@@ -2,8 +2,9 @@
 title: Fields, methods, and return values in queries
 TOCTitle: Fields, methods, and return values in queries
 ms:assetid: 1a71f6ac-ddd1-4d9e-a88d-b9cfffc80e9d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569921(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569921(v=AX.60)
 ms:contentKeyID: 36056122
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

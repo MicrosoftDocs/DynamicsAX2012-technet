@@ -1,9 +1,10 @@
-﻿---
+---
 title: EmployeesController.GetKey Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: GetKey Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.EmployeesController.GetKey(Microsoft.Dynamics.Commerce.Runtime.DataModel.Employee)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.employeescontroller.getkey(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.employeescontroller.getkey(v=AX.60)
 ms:contentKeyID: 62203404
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,8 +56,8 @@ virtual String^ GetKey(
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
-The [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)) key.  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
+The [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)) key.  
 
 ## See Also
 

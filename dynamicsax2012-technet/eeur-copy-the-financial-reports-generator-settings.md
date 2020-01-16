@@ -2,8 +2,9 @@
 title: (EEUR) Copy the financial reports generator settings
 TOCTitle: (EEUR) Copy the financial reports generator settings
 ms:assetid: e9e3ee49-ab8a-4e23-a746-fd13a92eeffd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911240(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911240(v=AX.60)
 ms:contentKeyID: 52075308
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,9 +43,9 @@ Use the **Copy report settings into a new report** form to copy the report setti
 
 ## See also
 
-[(EEUR) Financial report generator parameters copying (form)](https://technet.microsoft.com/en-us/library/jj911006\(v=ax.60\))
+[(EEUR) Financial report generator parameters copying (form)](https://technet.microsoft.com/library/jj911006\(v=ax.60\))
 
-[(EEUR) Report (form)](https://technet.microsoft.com/en-us/library/jj911237\(v=ax.60\))
+[(EEUR) Report (form)](https://technet.microsoft.com/library/jj911237\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Enable a project for synchronization with Microsoft Project Server
 TOCTitle: Enable a project for synchronization with Microsoft Project Server
 ms:assetid: c2f7910f-746b-4a19-ac61-52b2f6362b50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213636(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213636(v=AX.60)
 ms:contentKeyID: 36059283
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

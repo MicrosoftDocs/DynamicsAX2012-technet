@@ -2,8 +2,9 @@
 title: (EEUR) Accounts receivable
 TOCTitle: (EEUR) Accounts receivable
 ms:assetid: 89364ad5-f900-4e40-b3ec-aa39c189a1ce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710736(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710736(v=AX.60)
 ms:contentKeyID: 49385133
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Footer text for customer invoices in projects
 TOCTitle: Footer text for customer invoices in projects
 ms:assetid: b2a9cf70-a4f0-47d1-ab69-47a9e6b3525b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232411(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232411(v=AX.60)
 ms:contentKeyID: 36059062
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,11 +40,11 @@ Footer text is printed on all pages of a document. If no footer text is entered,
 
 ## See also
 
-[Form setup (form)](https://technet.microsoft.com/en-us/library/aa589956\(v=ax.60\))
+[Form setup (form)](https://technet.microsoft.com/library/aa589956\(v=ax.60\))
 
-[Footer text (form)](https://technet.microsoft.com/en-us/library/hh227611\(v=ax.60\))
+[Footer text (form)](https://technet.microsoft.com/library/hh227611\(v=ax.60\))
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
 [About print management document types and modules](about-print-management-document-types-and-modules.md)
 

@@ -2,8 +2,9 @@
 title: Entity overview pages
 TOCTitle: Entity overview pages
 ms:assetid: c3f7a56f-13ac-430b-8a0c-d118f0a888aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242838(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242838(v=AX.60)
 ms:contentKeyID: 36059290
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

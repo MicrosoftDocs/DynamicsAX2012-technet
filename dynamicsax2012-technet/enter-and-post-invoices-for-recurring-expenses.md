@@ -2,8 +2,9 @@
 title: Enter and post invoices for recurring expenses
 TOCTitle: Enter and post invoices for recurring expenses
 ms:assetid: 475d2720-eeaf-4d38-ad7a-44d3715c8e63
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231396(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231396(v=AX.60)
 ms:contentKeyID: 36966721
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,11 +66,11 @@ When you create a voucher based on a **Percent** type voucher template, the perc
 
 ## See also
 
-[Journal voucher - General journal (form)](https://technet.microsoft.com/en-us/library/aa591466\(v=ax.60\))
+[Journal voucher - General journal (form)](https://technet.microsoft.com/library/aa591466\(v=ax.60\))
 
-[Journal voucher - Invoice journal (form)](https://technet.microsoft.com/en-us/library/aa616218\(v=ax.60\))
+[Journal voucher - Invoice journal (form)](https://technet.microsoft.com/library/aa616218\(v=ax.60\))
 
-[Voucher templates (form)](https://technet.microsoft.com/en-us/library/hh209570\(v=ax.60\))
+[Voucher templates (form)](https://technet.microsoft.com/library/hh209570\(v=ax.60\))
 
   
 

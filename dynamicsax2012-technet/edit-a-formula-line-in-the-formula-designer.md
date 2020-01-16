@@ -2,8 +2,9 @@
 title: Edit a formula line in the Formula designer
 TOCTitle: Edit a formula line in the Formula designer
 ms:assetid: cd3843f8-ba6f-44d7-9c1b-3caf62c3fe3f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352358(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352358(v=AX.60)
 ms:contentKeyID: 36687989
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,9 +32,9 @@ Use the **Formula designer** form to modify a formula.
 
 ## See also
 
-[Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
+[Formula (form)](https://technet.microsoft.com/library/hh328668\(v=ax.60\))
 
-[Formula designer (form)](https://technet.microsoft.com/en-us/library/hh242746\(v=ax.60\))
+[Formula designer (form)](https://technet.microsoft.com/library/hh242746\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Earnings and the earnings generation process
 TOCTitle: Earnings and the earnings generation process
 ms:assetid: fe4c112d-17a0-47fa-be7a-0f7663223da4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876711(v=AX.60)
 ms:contentKeyID: 63385356
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,7 +68,7 @@ Salary earnings are generated automatically during the generation process that i
 
 To generate earnings for leave, you must assign a schedule to the position that the worker is taking leave from, even if it is a salaried position. For more information, see [Work schedule and leave tasks](work-schedule-and-leave-tasks.md).
 
-If an earning code is assigned to the leave type, then the scheduled lines will use the earning code from the leave type instead of the one from the schedule. The earning code that is on the leave type can be configured as paid or unpaid based on the amount or multiplier, which would be zero for unpaid leave. If no earning code is assigned to the leave type, then no lines will be created from the schedule or leave for the days on leave. For more information, see [Leave types (form)](https://technet.microsoft.com/en-us/library/aa619619\(v=ax.60\)).
+If an earning code is assigned to the leave type, then the scheduled lines will use the earning code from the leave type instead of the one from the schedule. The earning code that is on the leave type can be configured as paid or unpaid based on the amount or multiplier, which would be zero for unpaid leave. If no earning code is assigned to the leave type, then no lines will be created from the schedule or leave for the days on leave. For more information, see [Leave types (form)](https://technet.microsoft.com/library/aa619619\(v=ax.60\)).
 
 ## Can a salaried worker receive retroactive earnings?
 

@@ -2,8 +2,9 @@
 title: (EEUR) Create a credit note for correction
 TOCTitle: (EEUR) Create a credit note for correction
 ms:assetid: 77404e22-50ea-461f-afc4-9ef8dec8f047
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678243(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678243(v=AX.60)
 ms:contentKeyID: 49386966
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -91,15 +92,15 @@ Before you can complete the procedure in this topic, you must follow these steps
 
 ## See also
 
-[(CZE) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj714420\(v=ax.60\))
+[(CZE) Sales orders (modified form)](https://technet.microsoft.com/library/jj714420\(v=ax.60\))
 
-[(EEUR) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj853393\(v=ax.60\))
+[(EEUR) Sales orders (modified form)](https://technet.microsoft.com/library/jj853393\(v=ax.60\))
 
-[(LTU) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj678097\(v=ax.60\))
+[(LTU) Sales orders (modified form)](https://technet.microsoft.com/library/jj678097\(v=ax.60\))
 
-[(LVA) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/dn133841\(v=ax.60\))
+[(LVA) Sales orders (modified form)](https://technet.microsoft.com/library/dn133841\(v=ax.60\))
 
-[(POL) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj678144\(v=ax.60\))
+[(POL) Sales orders (modified form)](https://technet.microsoft.com/library/jj678144\(v=ax.60\))
 
 [(POL) Set up credit note parameters](pol-set-up-credit-note-parameters.md)
 

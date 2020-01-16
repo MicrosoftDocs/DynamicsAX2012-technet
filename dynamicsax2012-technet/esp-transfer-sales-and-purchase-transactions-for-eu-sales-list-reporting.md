@@ -2,8 +2,9 @@
 title: (ESP) Transfer sales and purchase transactions for EU sales list reporting
 TOCTitle: (ESP) Transfer sales and purchase transactions for EU sales list reporting
 ms:assetid: a5859c8c-6cc8-43c2-9200-f08bad1c766b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242681(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242681(v=AX.60)
 ms:contentKeyID: 36058864
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -18,7 +19,7 @@ ms.search.region: Spain
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Sales and purchase transactions between European Union (EU) countries or regions must be reported to the government on the EU sales list. After you create and post invoices for EU trade transactions, you can transfer the invoice data to the EU sales list form for reporting. Before you transfer invoice information, you must set up sales tax groups and sales tax codes. For more information, see [Transfer transactions for EU sales list (form)](https://technet.microsoft.com/en-us/library/aa499405\(v=ax.60\)).
+Sales and purchase transactions between European Union (EU) countries or regions must be reported to the government on the EU sales list. After you create and post invoices for EU trade transactions, you can transfer the invoice data to the EU sales list form for reporting. Before you transfer invoice information, you must set up sales tax groups and sales tax codes. For more information, see [Transfer transactions for EU sales list (form)](https://technet.microsoft.com/library/aa499405\(v=ax.60\)).
 
 
 > [!NOTE]
@@ -30,7 +31,7 @@ Sales and purchase transactions between European Union (EU) countries or regions
 
 1.  Click **Accounts payable** \> **Common** \> **Purchase orders** \> **All purchase orders**.
 
-2.  Create a purchase order. For more information, see [Create purchase order (form)](https://technet.microsoft.com/en-us/library/aa570189\(v=ax.60\)).
+2.  Create a purchase order. For more information, see [Create purchase order (form)](https://technet.microsoft.com/library/aa570189\(v=ax.60\)).
 
 3.  Click the **Foreign trade** tab.
 
@@ -170,7 +171,7 @@ You can export the EU sales list in an ASCII file.
 
 [Generate the EU sales list](generate-the-eu-sales-list.md)
 
-[EU sales list (form)](https://technet.microsoft.com/en-us/library/aa596355\(v=ax.60\))
+[EU sales list (form)](https://technet.microsoft.com/library/aa596355\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Export-AXModelStore
 TOCTitle: Export-AXModelStore
 ms:assetid: D2A5E3F2-159B-4171-9310-DD2A2B2C4F59
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720286(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720286(v=AX.60)
 ms:contentKeyID: 49720075
+author: Khairunj
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

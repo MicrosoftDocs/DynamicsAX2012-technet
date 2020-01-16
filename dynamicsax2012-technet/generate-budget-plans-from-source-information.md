@@ -2,8 +2,9 @@
 title: Generate budget plans from source information
 TOCTitle: Generate budget plans from source information
 ms:assetid: 10762d52-250d-4403-8d78-083dad9199e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677325(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677325(v=AX.60)
 ms:contentKeyID: 49384099
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,17 +38,17 @@ This procedure explains how to create or update budget plan scenarios by using i
 
 4.  In the **Generation rules** section, enter the rules to use for the budget plan lines: the conversion factor to apply, the minimum amount that is permitted for a budget plan line, and the rounding format to use for the amounts on budget plan lines.
 
-5.  To create or update the budget plan data as a batch process, complete the fields in the **Batch** section. For information about the batch options in this form, and about how to submit a batch processing job, see [Batch tasks (form)](https://technet.microsoft.com/en-us/library/hh209494\(v=ax.60\)) and [Submit a batch processing job from a form](submit-a-batch-processing-job-from-a-form.md).
+5.  To create or update the budget plan data as a batch process, complete the fields in the **Batch** section. For information about the batch options in this form, and about how to submit a batch processing job, see [Batch tasks (form)](https://technet.microsoft.com/library/hh209494\(v=ax.60\)) and [Submit a batch processing job from a form](submit-a-batch-processing-job-from-a-form.md).
 
 ## See also
 
-[Generate budget plan from general ledger (form)](https://technet.microsoft.com/en-us/library/jj677392\(v=ax.60\))
+[Generate budget plan from general ledger (form)](https://technet.microsoft.com/library/jj677392\(v=ax.60\))
 
-[Generate budget plan from budget plan (form)](https://technet.microsoft.com/en-us/library/jj677377\(v=ax.60\))
+[Generate budget plan from budget plan (form)](https://technet.microsoft.com/library/jj677377\(v=ax.60\))
 
-[Generate budget plan from fixed assets (form)](https://technet.microsoft.com/en-us/library/jj710361\(v=ax.60\))
+[Generate budget plan from fixed assets (form)](https://technet.microsoft.com/library/jj710361\(v=ax.60\))
 
-[Generate budget plan from forecast positions (form)](https://technet.microsoft.com/en-us/library/jj677428\(v=ax.60\))
+[Generate budget plan from forecast positions (form)](https://technet.microsoft.com/library/jj677428\(v=ax.60\))
 
   
 

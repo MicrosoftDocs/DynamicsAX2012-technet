@@ -2,8 +2,9 @@
 title: Full settlement configuration key (FullSettlement)
 TOCTitle: Full settlement configuration key (FullSettlement)
 ms:assetid: d4e93ea9-7ef1-4662-9325-b17c54984be6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh456320(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh456320(v=AX.60)
 ms:contentKeyID: 36997775
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ The following forms are affected when the feature is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Settle open transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa619609(v=ax.60)">Settle open transactions - vendor (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa619609(v=ax.60)">Settle open transactions - vendor (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -63,7 +64,7 @@ The following forms are affected when the feature is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Settle open transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa558602(v=ax.60)">Settle open transactions - customer (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa558602(v=ax.60)">Settle open transactions - customer (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -101,7 +102,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

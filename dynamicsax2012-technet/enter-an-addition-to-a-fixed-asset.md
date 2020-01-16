@@ -2,8 +2,9 @@
 title: Enter an addition to a fixed asset
 TOCTitle: Enter an addition to a fixed asset
 ms:assetid: f0f33b41-e82e-4e8d-9f88-6939867ad47c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243273(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243273(v=AX.60)
 ms:contentKeyID: 36059927
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,9 +44,9 @@ An addition to a fixed asset is maintenance to or an add-on item for a fixed ass
 
 ## See also
 
-[Asset additions (form)](https://technet.microsoft.com/en-us/library/hh227527\(v=ax.60\))
+[Asset additions (form)](https://technet.microsoft.com/library/hh227527\(v=ax.60\))
 
-[Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620341\(v=ax.60\))
+[Fixed assets (form)](https://technet.microsoft.com/library/aa620341\(v=ax.60\))
 
   
 

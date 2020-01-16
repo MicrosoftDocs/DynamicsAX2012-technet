@@ -2,8 +2,9 @@
 title: (FRA) Print bill of exchange report (BankBillOfExchange_FR)
 TOCTitle: (FRA) Print bill of exchange report (BankBillOfExchange_FR)
 ms:assetid: d80a26a2-d473-4c29-bf90-97fde51aa592
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335169(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335169(v=AX.60)
 ms:contentKeyID: 36687383
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

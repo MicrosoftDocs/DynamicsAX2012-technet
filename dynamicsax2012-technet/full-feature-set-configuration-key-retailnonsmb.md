@@ -2,8 +2,9 @@
 title: Full feature set configuration key (RetailNonSMB)
 TOCTitle: Full feature set configuration key (RetailNonSMB)
 ms:assetid: cbd7f71f-852b-4bd6-b7f8-12cadfb35c84
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn794196(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn794196(v=AX.60)
 ms:contentKeyID: 62732438
+author: Khairunj
 ms.date: 08/01/2014
 mtps_version: v=AX.60
 ---
@@ -49,7 +50,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

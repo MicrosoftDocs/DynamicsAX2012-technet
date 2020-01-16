@@ -2,8 +2,9 @@
 title: General ledger - advanced configuration key (LedgerAdvanced)
 TOCTitle: General ledger - advanced configuration key (LedgerAdvanced)
 ms:assetid: b589ae26-a030-4647-bd59-6884bbb86ed0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416687(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416687(v=AX.60)
 ms:contentKeyID: 36931848
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,27 +38,27 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Accrual schemes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa597492(v=ax.60)">Accrual schemes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa597492(v=ax.60)">Accrual schemes (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Ledger accrual transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585466(v=ax.60)">Ledger accrual transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585466(v=ax.60)">Ledger accrual transactions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Ledger accruals</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa574924(v=ax.60)">Ledger accruals (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa574924(v=ax.60)">Ledger accruals (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>References</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589312(v=ax.60)">XBRL references (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589312(v=ax.60)">XBRL references (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Taxonomy details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa618475(v=ax.60)">Taxonomy details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa618475(v=ax.60)">Taxonomy details (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>XBRL taxonomy</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa556714(v=ax.60)">XBRL taxonomy (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa556714(v=ax.60)">XBRL taxonomy (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -105,7 +106,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

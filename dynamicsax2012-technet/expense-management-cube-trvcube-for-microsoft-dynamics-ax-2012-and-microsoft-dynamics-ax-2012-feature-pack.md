@@ -2,8 +2,9 @@
 title: Expense management cube (TrvCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Expense management cube (TrvCube)
 ms:assetid: fd98eeae-a782-4a2f-bc33-7b19bcaf3876
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781077(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781077(v=AX.60)
 ms:contentKeyID: 43894476
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

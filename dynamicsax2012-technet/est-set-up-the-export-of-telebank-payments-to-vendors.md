@@ -2,8 +2,9 @@
 title: (EST) Set up the export of telebank payments to vendors
 TOCTitle: (EST) Set up the export of telebank payments to vendors
 ms:assetid: f3fec70a-6484-45b7-913e-4f5864e747b0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664208(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664208(v=AX.60)
 ms:contentKeyID: 49385299
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ You can export telebank payments that are made to vendors, and import the paymen
 
 [(EST) Set up the import of telebank payments from customers](est-set-up-the-import-of-telebank-payments-from-customers.md)
 
-[(EST) File formats for methods of payment (form)](https://technet.microsoft.com/en-us/library/jj710825\(v=ax.60\))
+[(EST) File formats for methods of payment (form)](https://technet.microsoft.com/library/jj710825\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetCardPaymentPropertiesServiceRequest Constructor (String, Boolean, String) (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: GetCardPaymentPropertiesServiceRequest Constructor (String, Boolean, String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCardPaymentPropertiesServiceRequest.#ctor(System.String,System.Boolean,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getcardpaymentpropertiesservicerequest.getcardpaymentpropertiesservicerequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getcardpaymentpropertiesservicerequest.getcardpaymentpropertiesservicerequest(v=AX.60)
 ms:contentKeyID: 65319922
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -55,17 +56,17 @@ GetCardPaymentPropertiesServiceRequest(
 #### Parameters
 
   - authorizationXml  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - isPortable  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 
   - platform  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

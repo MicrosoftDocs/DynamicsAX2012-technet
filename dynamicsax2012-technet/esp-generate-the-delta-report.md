@@ -2,8 +2,9 @@
 title: (ESP) Generate the delta report
 TOCTitle: (ESP) Generate the delta report
 ms:assetid: c343d721-4606-46cc-a7c2-ef1cbdc314c9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304983(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304983(v=AX.60)
 ms:contentKeyID: 54899959
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

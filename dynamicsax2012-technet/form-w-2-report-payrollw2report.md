@@ -2,8 +2,9 @@
 title: Form W-2 report (PayrollW2Report)
 TOCTitle: Form W-2 report (PayrollW2Report)
 ms:assetid: 6d339292-d251-432f-a6fe-47c212814e95
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ713635(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ713635(v=AX.60)
 ms:contentKeyID: 49643132
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

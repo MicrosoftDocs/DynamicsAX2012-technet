@@ -2,8 +2,9 @@
 title: (FRA) Option/Notification report (CustOutPaymLetter_FR)
 TOCTitle: (FRA) Option/Notification report (CustOutPaymLetter_FR)
 ms:assetid: 07180101-538e-4daf-a4b3-0ddc8c9fec8e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh456292(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh456292(v=AX.60)
 ms:contentKeyID: 36997718
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Employee barcode cover report (TrvEmployeeBarcodeCoverReport)
 TOCTitle: Employee barcode cover report (TrvEmployeeBarcodeCoverReport)
 ms:assetid: 340c3aa5-7bbc-4245-b177-bc023fcfcde2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404034(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404034(v=AX.60)
 ms:contentKeyID: 36956687
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (EST) Set up a reference number sequence for payments
 TOCTitle: (EST) Set up a reference number sequence for payments
 ms:assetid: 46cd2c0c-d2c5-43ed-8b26-ea61628aacef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710831(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710831(v=AX.60)
 ms:contentKeyID: 49385227
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

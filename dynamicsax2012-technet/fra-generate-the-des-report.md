@@ -2,8 +2,9 @@
 title: (FRA) Generate the DES report
 TOCTitle: (FRA) Generate the DES report
 ms:assetid: 3a03da63-3947-4425-b7bf-f1638340de3e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242210(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242210(v=AX.60)
 ms:contentKeyID: 36056635
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -72,7 +73,7 @@ After you generate the EU sales list, you can use the **EU reporting** form to e
 
 EU Reporting (report)
 
-[EU sales list (form)](https://technet.microsoft.com/en-us/library/aa596355\(v=ax.60\))
+[EU sales list (form)](https://technet.microsoft.com/library/aa596355\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Expenses with tax recovery report (TrvExpenseTaxRecoverableReport)
 TOCTitle: Expenses with tax recovery report (TrvExpenseTaxRecoverableReport)
 ms:assetid: f7f601c7-a3bd-4b73-997b-c8ec050ec45e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh394891(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh394891(v=AX.60)
 ms:contentKeyID: 36916374
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

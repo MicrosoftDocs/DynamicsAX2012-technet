@@ -2,8 +2,9 @@
 title: (FIN) Tax declaration of import report (TaxReportAlandImport_FI)
 TOCTitle: (FIN) Tax declaration of import report (TaxReportAlandImport_FI)
 ms:assetid: 6612528a-0562-4d69-878e-385cfea2c7f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352254(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352254(v=AX.60)
 ms:contentKeyID: 36687880
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

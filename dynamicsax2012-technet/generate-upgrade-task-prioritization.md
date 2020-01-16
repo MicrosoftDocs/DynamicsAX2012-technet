@@ -2,8 +2,9 @@
 title: Generate upgrade task prioritization
 TOCTitle: Generate upgrade task prioritization
 ms:assetid: 5e9bb5bd-cb79-4891-a6d2-e2a308b679b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731812(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731812(v=AX.60)
 ms:contentKeyID: 35132659
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

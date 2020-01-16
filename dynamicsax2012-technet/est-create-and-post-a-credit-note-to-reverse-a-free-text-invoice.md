@@ -2,8 +2,9 @@
 title: (EST) Create and post a credit note to reverse a free text invoice
 TOCTitle: (EST) Create and post a credit note to reverse a free text invoice
 ms:assetid: 904f4117-c1a3-489b-8225-f1bec1b52911
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710864(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710864(v=AX.60)
 ms:contentKeyID: 49385260
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

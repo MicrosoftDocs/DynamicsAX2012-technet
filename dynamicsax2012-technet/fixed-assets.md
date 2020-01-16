@@ -2,8 +2,9 @@
 title: Fixed assets
 TOCTitle: Fixed assets
 ms:assetid: 79c5f282-549d-4ad0-bded-cccc3e960758
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209261(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209261(v=AX.60)
 ms:contentKeyID: 36058242
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,28 +58,28 @@ When you use General ledger with Fixed assets, you can view the current value of
 <tr class="odd">
 <td><p><a href="create-a-fixed-asset.md">Create a fixed asset</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620341(v=ax.60)">Fixed assets (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620341(v=ax.60)">Fixed assets (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="fixed-asset-acquisitions-report-assetacquisition.md">Fixed asset acquisitions report (AssetAcquisition)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="transfer-fixed-assets.md">Transfer fixed assets</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa573347(v=ax.60)">Fixed asset groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa573347(v=ax.60)">Fixed asset groups (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="fixed-asset-transactions-report-assettransactionlisting.md">Fixed asset transactions report (AssetTransactionListing)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="split-fixed-assets.md">Split fixed assets</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa572416(v=ax.60)">Depreciation books (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa572416(v=ax.60)">Depreciation books (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="fixed-asset-basis-report-assetbasis.md">Fixed asset basis report (AssetBasis)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="process-assets-created-from-accounts-payable.md">Process assets created from Accounts payable</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590830(v=ax.60)">Value models (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590830(v=ax.60)">Value models (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="fixed-asset-disposals-report-assetdisposal.md">Fixed asset disposals report (AssetDisposal)</a></p></td>
 </tr>

@@ -2,8 +2,9 @@
 title: (EEUR) Close books overview
 TOCTitle: (EEUR) Close books overview
 ms:assetid: d84249e1-6078-4eb0-a7a4-9b8cb3547e13
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710774(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710774(v=AX.60)
 ms:contentKeyID: 49385170
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

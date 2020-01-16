@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetChannelCurrencyServiceResponse.ChannelCurrencies Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: ChannelCurrencies Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetChannelCurrencyServiceResponse.ChannelCurrencies
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getchannelcurrencyserviceresponse.channelcurrencies(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getchannelcurrencyserviceresponse.channelcurrencies(v=AX.60)
 ms:contentKeyID: 62209222
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property ReadOnlyCollection<CurrencyAmount^>^ ChannelCurrencies {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[CurrencyAmount](currencyamount-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\)).  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[CurrencyAmount](currencyamount-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/library/ms132474\(v=ax.60\)).  
 
 ## See Also
 

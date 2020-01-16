@@ -2,8 +2,9 @@
 title: Filter records
 TOCTitle: Filter records
 ms:assetid: c94550e8-414f-4fdb-bcb7-114ee67aaf3e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550877(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550877(v=AX.60)
 ms:contentKeyID: 37822159
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

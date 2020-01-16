@@ -2,8 +2,9 @@
 title: (GBR) Create and submit an Intrastat report in the CSV02 file format
 TOCTitle: (GBR) Create and submit an Intrastat report in the CSV02 file format
 ms:assetid: a58c635f-f019-4114-8f64-484da74e2ab2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242682(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242682(v=AX.60)
 ms:contentKeyID: 36058865
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,9 +58,9 @@ Before you generate an Intrastat report, you must first transfer transactions fr
 
 ## See also
 
-[Intrastat (form)](https://technet.microsoft.com/en-us/library/aa619055\(v=ax.60\))
+[Intrastat (form)](https://technet.microsoft.com/library/aa619055\(v=ax.60\))
 
-[(GBR) Make diskette for Intrastat in British layout (class form)](https://technet.microsoft.com/en-us/library/aa575118\(v=ax.60\))
+[(GBR) Make diskette for Intrastat in British layout (class form)](https://technet.microsoft.com/library/aa575118\(v=ax.60\))
 
   
 

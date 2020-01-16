@@ -2,8 +2,9 @@
 title: Generate a check on a ledger account or a bank account
 TOCTitle: Generate a check on a ledger account or a bank account
 ms:assetid: 96a46db3-d914-4a12-ba5a-ac757f99be47
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498426(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498426(v=AX.60)
 ms:contentKeyID: 36058638
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

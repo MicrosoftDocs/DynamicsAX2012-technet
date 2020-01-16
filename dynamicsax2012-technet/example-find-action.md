@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Example: Find Action'
 TOCTitle: 'Example: Find Action'
 ms:assetid: 96f68a9c-d5e0-46b0-9406-b0c87e8c8935
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa844112(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa844112(v=AX.60)
 ms:contentKeyID: 35247711
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:
@@ -58,7 +59,7 @@ There are no XML tags that are specific to this inbound message. However, the va
 
 ## Corresponding Outbound Message
 
-The outbound message contains a \<serviceExternalName\> tag, which is \<Customer\>. The message also contains an \<entityName\> tag named \<CustTable\>, which is for the record that was found in the target table. Nested underneath is another \<entityName\> tag for a child table. The \<DirParty\> tag indicates subsequent tags that contain information about the customer. This includes the postal address. For more information about the DirParty class and the global address book (GAB) framework, see [Global Address Framework](https://technet.microsoft.com/en-us/library/hh608233\(v=ax.60\)).
+The outbound message contains a \<serviceExternalName\> tag, which is \<Customer\>. The message also contains an \<entityName\> tag named \<CustTable\>, which is for the record that was found in the target table. Nested underneath is another \<entityName\> tag for a child table. The \<DirParty\> tag indicates subsequent tags that contain information about the customer. This includes the postal address. For more information about the DirParty class and the global address book (GAB) framework, see [Global Address Framework](https://technet.microsoft.com/library/hh608233\(v=ax.60\)).
 
 The following outbound message is generated from the previous inbound message.
 

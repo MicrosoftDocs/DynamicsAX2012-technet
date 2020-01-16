@@ -2,8 +2,9 @@
 title: " exchange rate adjustment"
 TOCTitle: " exchange rate adjustment"
 ms:assetid: DynamicsAXGlossary.1506312
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1506312(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1506312(v=AX.60)
 ms:contentKeyID: 36057507
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

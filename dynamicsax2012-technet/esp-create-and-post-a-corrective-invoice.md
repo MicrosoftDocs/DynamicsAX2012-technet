@@ -2,8 +2,9 @@
 title: (ESP) Create and post a corrective invoice
 TOCTitle: (ESP) Create and post a corrective invoice
 ms:assetid: 8279f8cf-63d8-487d-8cae-7ea1c3dea85e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn783116(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn783116(v=AX.60)
 ms:contentKeyID: 62830460
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,8 +58,8 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p>Related set up</p></td>
 <td><ul>
-<li><p>Select a number sequence code for the corrective invoice reference in the <strong>Accounts receivable parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa576993(v=ax.60)">Accounts receivable parameters (form)</a>.</p></li>
-<li><p>Create and post a sales order invoice. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa585863(v=ax.60)">Sales orders (form)</a>.</p></li>
+<li><p>Select a number sequence code for the corrective invoice reference in the <strong>Accounts receivable parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa576993(v=ax.60)">Accounts receivable parameters (form)</a>.</p></li>
+<li><p>Create and post a sales order invoice. For more information, see <a href="https://technet.microsoft.com/library/aa585863(v=ax.60)">Sales orders (form)</a>.</p></li>
 <li><p>Create and post a purchase order invoice. For more information, see <a href="create-a-purchase-order.md">Create a purchase order</a>.</p></li>
 <li><p>Create and post a free text invoice. For more information, see <a href="key-tasks-free-text-invoices.md">Key tasks: Free text invoices</a>.</p></li>
 <li><p>Create and post a project invoice proposal. For more information, see <a href="create-and-post-invoice-proposals.md">Create and post invoice proposals</a>.</p></li>

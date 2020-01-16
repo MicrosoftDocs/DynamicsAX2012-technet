@@ -1,9 +1,10 @@
-﻿---
+---
 title: FacebookSecurityTokenServiceConfiguration Class (Microsoft.Dynamics.Retail.SharePoint.Web.Common)
 TOCTitle: FacebookSecurityTokenServiceConfiguration Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Common.FacebookSecurityTokenServiceConfiguration
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.common.facebooksecuritytokenserviceconfiguration(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.facebooksecuritytokenserviceconfiguration(v=AX.60)
 ms:contentKeyID: 62203321
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ public ref class FacebookSecurityTokenServiceConfiguration : public SecurityToke
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   ServiceConfiguration  
     SecurityTokenServiceConfiguration  
       Microsoft.Dynamics.Retail.SharePoint.Web.Common.FacebookSecurityTokenServiceConfiguration  

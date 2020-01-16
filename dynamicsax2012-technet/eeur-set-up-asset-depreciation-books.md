@@ -2,8 +2,9 @@
 title: (EEUR) Set up asset depreciation books
 TOCTitle: (EEUR) Set up asset depreciation books
 ms:assetid: 091aa6e5-3d5e-431a-b0fd-3187fb67946e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710675(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710675(v=AX.60)
 ms:contentKeyID: 49385072
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,7 +41,7 @@ Use the **Depreciation books** form to set up depreciation books, which are used
 
 ## See also
 
-[(EEUR) Depreciation books setup (modified form)](https://technet.microsoft.com/en-us/library/jj710730\(v=ax.60\))
+[(EEUR) Depreciation books setup (modified form)](https://technet.microsoft.com/library/jj710730\(v=ax.60\))
 
 [(EEUR) About rounding off depreciation amounts](eeur-about-rounding-off-depreciation-amounts.md)
 

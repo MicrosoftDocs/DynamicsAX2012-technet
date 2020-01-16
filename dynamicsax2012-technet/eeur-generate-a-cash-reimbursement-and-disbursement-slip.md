@@ -2,8 +2,9 @@
 title: (EEUR) Generate a cash reimbursement and disbursement slip
 TOCTitle: (EEUR) Generate a cash reimbursement and disbursement slip
 ms:assetid: a7ca0cd1-8093-415b-b44d-1fc7436d4988
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677641(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677641(v=AX.60)
 ms:contentKeyID: 49384944
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

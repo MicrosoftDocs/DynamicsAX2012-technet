@@ -1,9 +1,10 @@
-﻿---
+---
 title: FeatureReceiver.DisableAnonymousSearch Method  (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: DisableAnonymousSearch Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.FeatureReceiver.DisableAnonymousSearch(Microsoft.SharePoint.SPSite)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.featurereceiver.disableanonymoussearch(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.featurereceiver.disableanonymoussearch(v=AX.60)
 ms:contentKeyID: 62205246
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

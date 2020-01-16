@@ -2,8 +2,9 @@
 title: (EEUR) Create report cell operations
 TOCTitle: (EEUR) Create report cell operations
 ms:assetid: 5b0882c2-a10f-4e22-ae82-c9612173be0e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910979(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ910979(v=AX.60)
 ms:contentKeyID: 52075298
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -101,11 +102,11 @@ One or more lines with amount calculation parameters can be created for each rep
 
 
 
-5.  In the **Line type** field, select the data source that is used to calculate the selected line. For more information, see [(EEUR) Field setup (form)](https://technet.microsoft.com/en-us/library/jj910976\(v=ax.60\)).
+5.  In the **Line type** field, select the data source that is used to calculate the selected line. For more information, see [(EEUR) Field setup (form)](https://technet.microsoft.com/library/jj910976\(v=ax.60\)).
 
 6.  If you selected **Constant** in the **Line type** field, in the **Data** field, enter the value to use for the calculation.
 
-7.  In the **Type of operation** and **Balance type** fields, select a type of operation and a balance type. For more information, see [(EEUR) Field setup (form)](https://technet.microsoft.com/en-us/library/jj910976\(v=ax.60\)) and [(RUS) Field setup (form)](https://technet.microsoft.com/en-us/library/jj853197\(v=ax.60\)).
+7.  In the **Type of operation** and **Balance type** fields, select a type of operation and a balance type. For more information, see [(EEUR) Field setup (form)](https://technet.microsoft.com/library/jj910976\(v=ax.60\)) and [(RUS) Field setup (form)](https://technet.microsoft.com/library/jj853197\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -115,7 +116,7 @@ One or more lines with amount calculation parameters can be created for each rep
 
 8.  In the **Period** field, select the voucher calculation period.
 
-9.  In the **Account interval** and **Account** fields, select whether the mathematical operator is applied to an **Account** or an **Interval**, and an account number. For more information, see [(EEUR) Field setup (form)](https://technet.microsoft.com/en-us/library/jj910976\(v=ax.60\)).
+9.  In the **Account interval** and **Account** fields, select whether the mathematical operator is applied to an **Account** or an **Interval**, and an account number. For more information, see [(EEUR) Field setup (form)](https://technet.microsoft.com/library/jj910976\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -150,7 +151,7 @@ One or more lines with amount calculation parameters can be created for each rep
 
 12. Do the following on the other tabs:
     
-      - On the **Type of transactions** tab, in the **Transaction usage** field, select the type of transaction to calculate the cell value. For more information, see [(EEUR) Field setup (form)](https://technet.microsoft.com/en-us/library/jj910976\(v=ax.60\)).
+      - On the **Type of transactions** tab, in the **Transaction usage** field, select the type of transaction to calculate the cell value. For more information, see [(EEUR) Field setup (form)](https://technet.microsoft.com/library/jj910976\(v=ax.60\)).
         
 
         > [!NOTE]
@@ -193,7 +194,7 @@ After you create the lines, you can arrange them in the correct order. Select a 
 
 ## See also
 
-[(EEUR) Account interval (form)](https://technet.microsoft.com/en-us/library/jj710790\(v=ax.60\))
+[(EEUR) Account interval (form)](https://technet.microsoft.com/library/jj710790\(v=ax.60\))
 
   
 

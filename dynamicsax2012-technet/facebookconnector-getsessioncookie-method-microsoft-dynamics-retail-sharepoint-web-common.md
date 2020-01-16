@@ -1,9 +1,10 @@
-﻿---
+---
 title: FacebookConnector.GetSessionCookie Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Common)
 TOCTitle: GetSessionCookie Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Common.FacebookConnector.GetSessionCookie(System.Web.HttpCookieCollection)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.common.facebookconnector.getsessioncookie(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.facebookconnector.getsessioncookie(v=AX.60)
 ms:contentKeyID: 62204906
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ FacebookSessionCookie^ GetSessionCookie(
 #### Parameters
 
   - cookies  
-    Type: [System.Web.HttpCookieCollection](https://technet.microsoft.com/en-us/library/w6hha0ef\(v=ax.60\))  
+    Type: [System.Web.HttpCookieCollection](https://technet.microsoft.com/library/w6hha0ef\(v=ax.60\))  
 
 #### Return Value
 

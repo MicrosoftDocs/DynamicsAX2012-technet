@@ -2,8 +2,9 @@
 title: Find AX 2012 content
 TOCTitle: Find AX 2012 content
 ms:assetid: b69945d9-e766-4a15-9513-a5a847c953ce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh881831(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh881831(v=AX.60)
 ms:contentKeyID: 45769253
+author: Khairunj
 ms.date: 03/03/2015
 mtps_version: v=AX.60
 ---
@@ -127,7 +128,7 @@ Help in AX 2012is stored on a central server. The Help server lets you:
 
   - Apply Help updates that are provided by Microsoft without deleting your customized topics.
 
-For details about customizing help, see [Help System Development](https://technet.microsoft.com/en-us/library/gg882383\(v=ax.60\)).
+For details about customizing help, see [Help System Development](https://technet.microsoft.com/library/gg882383\(v=ax.60\)).
 
 ## How sites relate to the customer lifecycle
 

@@ -2,8 +2,9 @@
 title: Enroll multiple workers in a benefit at the same time
 TOCTitle: Enroll multiple workers in a benefit at the same time
 ms:assetid: c2768749-3a9b-4cdf-a4b4-e5393334b681
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242834(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242834(v=AX.60)
 ms:contentKeyID: 36059280
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,7 +64,7 @@ You can select multiple workers and enroll them in a benefit at the same time.
 
 ## See also
 
-[Mass benefit enrollment (form)](https://technet.microsoft.com/en-us/library/hh209571\(v=ax.60\))
+[Mass benefit enrollment (form)](https://technet.microsoft.com/library/hh209571\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (ESP) Set up tax-exempt number validation
 TOCTitle: (ESP) Set up tax-exempt number validation
 ms:assetid: f6db3edb-ca01-4362-9ff9-605625e3b95e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227545(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227545(v=AX.60)
 ms:contentKeyID: 36060019
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ Use this procedure to set up the validation of tax exempt numbers, when entered 
 
 ## See also
 
-[Country/region parameters (form)](https://technet.microsoft.com/en-us/library/hh242897\(v=ax.60\))
+[Country/region parameters (form)](https://technet.microsoft.com/library/hh242897\(v=ax.60\))
 
   
 

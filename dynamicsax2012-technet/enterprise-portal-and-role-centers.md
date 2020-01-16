@@ -2,8 +2,9 @@
 title: Enterprise Portal and Role Centers
 TOCTitle: Enterprise Portal and Role Centers
 ms:assetid: 29deb2fe-2d43-4ed0-b587-2600aaa479ce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751374(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg751374(v=AX.60)
 ms:contentKeyID: 35132588
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

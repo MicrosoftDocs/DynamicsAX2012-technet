@@ -2,8 +2,9 @@
 title: Event configuration key (Event)
 TOCTitle: Event configuration key (Event)
 ms:assetid: acfd4da0-927c-4697-a096-f713129298c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa618498(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa618498(v=AX.60)
 ms:contentKeyID: 36941225
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -77,7 +78,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Alert parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa554630(v=ax.60)">Alert - parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa554630(v=ax.60)">Alert - parameters (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -99,7 +100,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Alerts</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209082(v=ax.60)">Set up alert for batch job (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209082(v=ax.60)">Set up alert for batch job (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -121,15 +122,15 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Alerts - event inbox</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa591663(v=ax.60)">Notification list (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa591663(v=ax.60)">Notification list (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Manage alert rules</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa552683(v=ax.60)">Manage alert rules (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa552683(v=ax.60)">Manage alert rules (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Alert rules</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa552683(v=ax.60)">Manage alert rules (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa552683(v=ax.60)">Manage alert rules (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -167,7 +168,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

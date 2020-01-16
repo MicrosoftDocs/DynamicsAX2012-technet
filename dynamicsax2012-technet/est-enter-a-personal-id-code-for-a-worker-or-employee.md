@@ -2,8 +2,9 @@
 title: (EST) Enter a personal ID code for a worker or employee
 TOCTitle: (EST) Enter a personal ID code for a worker or employee
 ms:assetid: 19e0db7e-f72c-4711-a5d7-f67f4a147c1a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710811(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710811(v=AX.60)
 ms:contentKeyID: 49385208
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

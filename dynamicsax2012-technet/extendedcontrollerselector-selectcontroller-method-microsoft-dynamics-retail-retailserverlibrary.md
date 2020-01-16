@@ -1,9 +1,10 @@
-﻿---
+---
 title: ExtendedControllerSelector.SelectController Method  (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: SelectController Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ExtendedControllerSelector.SelectController(System.Net.Http.HttpRequestMessage)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.extendedcontrollerselector.selectcontroller(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.extendedcontrollerselector.selectcontroller(v=AX.60)
 ms:contentKeyID: 62201966
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

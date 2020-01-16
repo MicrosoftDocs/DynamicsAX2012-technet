@@ -2,8 +2,9 @@
 title: (EST) Working with Accounts receivable
 TOCTitle: (EST) Working with Accounts receivable
 ms:assetid: b008d06f-1cae-407a-98da-a1569ca7d5f2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664185(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664185(v=AX.60)
 ms:contentKeyID: 49385274
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

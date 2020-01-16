@@ -2,8 +2,9 @@
 title: (FRA) Ledger totals by periods report (LedgerPeriodSum_FR)
 TOCTitle: (FRA) Ledger totals by periods report (LedgerPeriodSum_FR)
 ms:assetid: 55fa7c8f-0863-43d7-9957-9ad2200b0094
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335149(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335149(v=AX.60)
 ms:contentKeyID: 36687360
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

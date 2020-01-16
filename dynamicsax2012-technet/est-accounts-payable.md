@@ -2,8 +2,9 @@
 title: (EST) Accounts payable
 TOCTitle: (EST) Accounts payable
 ms:assetid: e86d84ee-0eff-4110-998e-032765eb6869
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664205(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664205(v=AX.60)
 ms:contentKeyID: 49385295
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

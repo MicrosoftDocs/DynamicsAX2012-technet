@@ -2,8 +2,9 @@
 title: (FIN) Generate payments by using Generic ISO20022 credit transfers
 TOCTitle: (FIN) Generate payments by using Generic ISO20022 credit transfers
 ms:assetid: ac27604a-e16b-4d50-bac0-dff41be3f684
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500179(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500179(v=AX.60)
 ms:contentKeyID: 37820242
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -75,7 +76,7 @@ Single European Payment Area (SEPA) is an initiative in the European Union (EU) 
 
 ## See also
 
-[Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\))
+[Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\))
 
   
 

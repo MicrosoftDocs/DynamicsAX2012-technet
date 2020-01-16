@@ -2,8 +2,9 @@
 title: Forecast configuration key (ProjBasicForecast)
 TOCTitle: Forecast configuration key (ProjBasicForecast)
 ms:assetid: ab736a7c-1887-4951-a2fc-7aa430d8369b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa589375(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa589375(v=AX.60)
 ms:contentKeyID: 39518964
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Forecast models</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620573(v=ax.60)">Forecast models (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620573(v=ax.60)">Forecast models (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -67,39 +68,39 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Expense</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa548441(v=ax.60)">Expense forecasts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa548441(v=ax.60)">Expense forecasts (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Fee</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598516(v=ax.60)">Fee forecasts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598516(v=ax.60)">Fee forecasts (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Forecast models</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620573(v=ax.60)">Forecast models (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620573(v=ax.60)">Forecast models (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>General ledger preview</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587482(v=ax.60)">General ledger preview (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587482(v=ax.60)">General ledger preview (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Hour</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa550763(v=ax.60)">Hour forecasts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa550763(v=ax.60)">Hour forecasts (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Item forecast</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209438(v=ax.60)">Item forecasts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209438(v=ax.60)">Item forecasts (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa553847(v=ax.60)">Transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa553847(v=ax.60)">Transactions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>On-account</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa499417(v=ax.60)">On-account forecasts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa499417(v=ax.60)">On-account forecasts (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Project allocation keys</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa551711(v=ax.60)">Project allocation keys (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa551711(v=ax.60)">Project allocation keys (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -137,7 +138,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

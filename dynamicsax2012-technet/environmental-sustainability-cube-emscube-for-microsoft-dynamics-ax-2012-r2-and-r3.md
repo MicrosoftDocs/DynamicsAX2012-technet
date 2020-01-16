@@ -2,8 +2,9 @@
 title: Environmental sustainability cube (EMSCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Environmental sustainability cube (EMSCube)
 ms:assetid: 0febff0a-7c34-49d5-a85b-34d890ac702d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710383(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710383(v=AX.60)
 ms:contentKeyID: 49384275
+author: Khairunj
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

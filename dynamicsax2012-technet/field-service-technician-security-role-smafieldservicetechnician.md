@@ -2,8 +2,9 @@
 title: Field service technician security role (SMAFieldServiceTechnician)
 TOCTitle: Field service technician security role (SMAFieldServiceTechnician)
 ms:assetid: b2d0bdd2-80a7-46b3-a346-24422fd5f43a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527125(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527125(v=AX.60)
 ms:contentKeyID: 37823176
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

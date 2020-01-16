@@ -2,8 +2,9 @@
 title: Enterprise Portal Development Cookbook (White paper)
 TOCTitle: Enterprise Portal Development Cookbook
 ms:assetid: 4c610667-ff88-44e3-8d44-bbbea3bdab0b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ225590(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ225590(v=AX.60)
 ms:contentKeyID: 48457365
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

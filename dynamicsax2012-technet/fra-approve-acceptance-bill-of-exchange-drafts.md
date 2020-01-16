@@ -2,8 +2,9 @@
 title: (FRA) Approve acceptance bill of exchange drafts
 TOCTitle: (FRA) Approve acceptance bill of exchange drafts
 ms:assetid: 88c27e95-38ea-4db8-beae-c8d33dd4a737
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242854(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242854(v=AX.60)
 ms:contentKeyID: 36058456
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,9 +36,9 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/en-us/library/aa553272\(v=ax.60\))
+[Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/library/aa553272\(v=ax.60\))
 
 [(FRA) Generate a bill of exchange remittance file](fra-generate-a-bill-of-exchange-remittance-file.md)
 

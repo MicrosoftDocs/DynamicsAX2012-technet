@@ -2,8 +2,9 @@
 title: Find withholding tax transactions for a vendor by using transaction descriptions
 TOCTitle: Find withholding tax transactions for a vendor by using transaction descriptions
 ms:assetid: da891955-4626-46f3-a8f4-cbc1f1567653
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213717(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213717(v=AX.60)
 ms:contentKeyID: 37822161
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

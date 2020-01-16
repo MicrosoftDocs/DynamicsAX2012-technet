@@ -2,8 +2,9 @@
 title: (FRA) Place or release vendor invoice payment holds (Public sector)
 TOCTitle: (FRA) Place or release vendor invoice payment holds (Public sector)
 ms:assetid: ea5554b6-7a66-4d12-8a36-27393edf6929
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208599(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208599(v=AX.60)
 ms:contentKeyID: 36056386
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ For example, you create a rule that allows accountants to place an invoice payme
 
 
 > [!NOTE]
-> <P>User roles are set up in the <STRONG>Security roles</STRONG> form, and specific users can be assigned to roles in the <STRONG>Assign users to roles</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227655(v=ax.60)">Security roles (form)</A> and <A href="https://technet.microsoft.com/en-us/library/hh209671(v=ax.60)">Assign users to roles (form)</A>.</P>
+> <P>User roles are set up in the <STRONG>Security roles</STRONG> form, and specific users can be assigned to roles in the <STRONG>Assign users to roles</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/hh227655(v=ax.60)">Security roles (form)</A> and <A href="https://technet.microsoft.com/library/hh209671(v=ax.60)">Assign users to roles (form)</A>.</P>
 
 
 
@@ -93,7 +94,7 @@ Place or release a payment hold on the **Vendor transactions** form. If you plac
 
 For example, you place individual payment holds on two different vendor invoices for the same vendor. You later place a payment hold for that vendor. If you later release the payment hold for that vendor, it will not release the individual holds for the two vendor invoices.
 
-For more information about this form, see [Vendor transactions (form)](https://technet.microsoft.com/en-us/library/aa572427\(v=ax.60\)).
+For more information about this form, see [Vendor transactions (form)](https://technet.microsoft.com/library/aa572427\(v=ax.60\)).
 
 1.  Open the form from either **Accounts payable** or **Procurement and sourcing**:
     
@@ -109,7 +110,7 @@ For more information about this form, see [Vendor transactions (form)](https://t
 
 ## Place or release a payment hold for a vendor invoice
 
-Place or release a payment hold on the **Vendor invoice** form. For more information about this form, see [Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\)).
+Place or release a payment hold on the **Vendor invoice** form. For more information about this form, see [Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\)).
 
 1.  Click **Accounts payable** \> **Common** \> **Vendor invoices** \> **Pending vendor invoices**.
 
@@ -123,7 +124,7 @@ Place or release a payment hold on the **Vendor invoice** form. For more informa
 
 ## Place or release a payment hold for a posted vendor invoice
 
-Place or release a payment hold for a posted vendor invoice on the **Invoice journal** form. For more information about this form, see [Vendor invoice journal (form)](https://technet.microsoft.com/en-us/library/aa587621\(v=ax.60\)).
+Place or release a payment hold for a posted vendor invoice on the **Invoice journal** form. For more information about this form, see [Vendor invoice journal (form)](https://technet.microsoft.com/library/aa587621\(v=ax.60\)).
 
 1.  Click **Accounts payable** \> **Inquiries** \> **Journals** \> **Invoice journal**.
 
@@ -137,7 +138,7 @@ If a payment hold has not been placed on a vendor invoice, you can select the **
 
 You can place or release payment holds on individual vendor invoices, on all vendor invoices associated with a purchase order, or for all invoices for a selected vendor.
 
-For more information about the **Settle open transactions** form, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\)).
+For more information about the **Settle open transactions** form, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\)).
 
 ## Place or release a payment hold for all invoices for a vendor before settlement
 
@@ -189,7 +190,7 @@ This action places or releases a payment hold for all vendor invoices that are a
 
 [(FRA) Process purchase order encumbrances and commitments at year end (Public sector)](fra-process-purchase-order-encumbrances-and-commitments-at-year-end-public-sector.md)
 
-[(FRA) Vendor invoice payment hold history (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208535\(v=ax.60\))
+[(FRA) Vendor invoice payment hold history (form) (Public sector)](https://technet.microsoft.com/library/hh208535\(v=ax.60\))
 
   
 

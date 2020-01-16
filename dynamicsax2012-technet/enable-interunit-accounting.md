@@ -2,8 +2,9 @@
 title: Enable interunit accounting
 TOCTitle: Enable interunit accounting
 ms:assetid: 3f564ba6-4509-4fa1-898f-875591af9fe5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ729752(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ729752(v=AX.60)
 ms:contentKeyID: 49564918
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
