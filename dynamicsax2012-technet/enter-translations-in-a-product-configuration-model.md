@@ -2,8 +2,9 @@
 title: Enter translations in a product configuration model
 TOCTitle: Enter translations in a product configuration model
 ms:assetid: f0128955-4c56-4f2b-9281-b13d506f814d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597278(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597278(v=AX.60)
 ms:contentKeyID: 39519362
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

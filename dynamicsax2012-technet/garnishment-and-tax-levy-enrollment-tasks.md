@@ -2,8 +2,9 @@
 title: Garnishment and tax levy enrollment tasks
 TOCTitle: Garnishment and tax levy enrollment tasks
 ms:assetid: 1aacc99e-b198-42fe-8da8-ee633c8076f4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497724(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497724(v=AX.60)
 ms:contentKeyID: 62200038
+author: Khairunj
 ms.date: 11/15/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -124,7 +125,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
     <tbody>
     <tr class="odd">
     <td><p><strong>Paid by</strong></p></td>
-    <td><p>The legal entity that the worker is employed by and that pays for the worker position. By default, the current legal entity is displayed. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa590982(v=ax.60)">Positions (form)</a>.</p></td>
+    <td><p>The legal entity that the worker is employed by and that pays for the worker position. By default, the current legal entity is displayed. For more information, see <a href="https://technet.microsoft.com/library/aa590982(v=ax.60)">Positions (form)</a>.</p></td>
     </tr>
     <tr class="even">
     <td><p><strong>Position</strong></p></td>
@@ -154,7 +155,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
     <td><p>The order that deductions for the garnishment are made in, relative to other deductions.</p>
     <p>The deduction for the benefit that has the lowest deduction priority number is made first, starting with 0 (zero). When multiple benefits have the same number, the deductions for those benefits are made in alphabetical order.</p>
     <p>Garnishments often must be deducted from pay before other voluntary benefits, although some states require specific deductions to take precedence, such as union dues or term life deductions.</p>
-    <p>The default value for this field is set in the <strong>Benefit elements</strong> form. For more information about this field, see <a href="https://technet.microsoft.com/en-us/library/hh209498(v=ax.60)">Benefit elements (form)</a>.</p>
+    <p>The default value for this field is set in the <strong>Benefit elements</strong> form. For more information about this field, see <a href="https://technet.microsoft.com/library/hh209498(v=ax.60)">Benefit elements (form)</a>.</p>
     <div class="alert">
 
     > [!IMPORTANT]
@@ -189,7 +190,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
 
 8.  If the garnishment enhancement hotfix is installed, skip this step.
     
-    If the garnishment enhancement hotfix isn’t installed, on the **Garnishment details** FastTab or the **Tax levy details** FastTab, enter the following information. If you need more information about these fields, see [Maintain benefits (form)](https://technet.microsoft.com/en-us/library/hh209235\(v=ax.60\)) or contact your legal advisors.
+    If the garnishment enhancement hotfix isn’t installed, on the **Garnishment details** FastTab or the **Tax levy details** FastTab, enter the following information. If you need more information about these fields, see [Maintain benefits (form)](https://technet.microsoft.com/library/hh209235\(v=ax.60\)) or contact your legal advisors.
     
     <table>
     <colgroup>
@@ -267,7 +268,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
 
 
     </div>
-    <p>If it isn’t clear which method to use, see <a href="https://technet.microsoft.com/en-us/library/hh209235(v=ax.60)">Maintain benefits (form)</a> or check with your legal advisors for clarification.</p></td>
+    <p>If it isn’t clear which method to use, see <a href="https://technet.microsoft.com/library/hh209235(v=ax.60)">Maintain benefits (form)</a> or check with your legal advisors for clarification.</p></td>
     </tr>
     </tbody>
     </table>
@@ -276,7 +277,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
     
     When you complete this step, if your organization charges an administrative fee for handling garnishments, see “Optional: Enroll workers in administrative fees” later in this topic.
 
-9.  If the garnishment enhancement hotfix is installed, on the **Garnishment and tax levy details** FastTab, enter the following information. If you need more information about these fields, see [Maintain benefits (form)](https://technet.microsoft.com/en-us/library/hh209235\(v=ax.60\)) or contact your legal advisors.
+9.  If the garnishment enhancement hotfix is installed, on the **Garnishment and tax levy details** FastTab, enter the following information. If you need more information about these fields, see [Maintain benefits (form)](https://technet.microsoft.com/library/hh209235\(v=ax.60\)) or contact your legal advisors.
     
     <table>
     <colgroup>
@@ -327,7 +328,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
 
 11. When the **Garnishment and tax levy rules** form opens, click **Add**, and then enter the following information for each garnishment type that the worker is enrolled in.
     
-    If you need more information about these fields, see [Garnishment and tax levy rules (form)](https://technet.microsoft.com/en-us/library/dn497842\(v=ax.60\)) or contact your legal advisors.
+    If you need more information about these fields, see [Garnishment and tax levy rules (form)](https://technet.microsoft.com/library/dn497842\(v=ax.60\)) or contact your legal advisors.
     
     <table>
     <colgroup>
@@ -397,7 +398,7 @@ To enroll a worker in a garnishment or tax levy, follow these steps:
 
 
     </div>
-    <p>If it is not clear which method to use, see <a href="https://technet.microsoft.com/en-us/library/dn497842(v=ax.60)">Garnishment and tax levy rules (form)</a> or check with your legal advisors for clarification.</p></td>
+    <p>If it is not clear which method to use, see <a href="https://technet.microsoft.com/library/dn497842(v=ax.60)">Garnishment and tax levy rules (form)</a> or check with your legal advisors for clarification.</p></td>
     </tr>
     <tr class="even">
     <td><p><strong>Exempt disposable income</strong></p></td>
@@ -470,7 +471,7 @@ The steps to enroll a worker in an administrative fee vary, depending on whether
     <tbody>
     <tr class="odd">
     <td><p><strong>Paid by</strong></p></td>
-    <td><p>Select the legal entity that the worker is employed by and that pays for the worker position. By default, the current legal entity is displayed. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa590982(v=ax.60)">Positions (form)</a>.</p></td>
+    <td><p>Select the legal entity that the worker is employed by and that pays for the worker position. By default, the current legal entity is displayed. For more information, see <a href="https://technet.microsoft.com/library/aa590982(v=ax.60)">Positions (form)</a>.</p></td>
     </tr>
     <tr class="even">
     <td><p><strong>Position</strong></p></td>
@@ -568,7 +569,7 @@ The steps to enroll a worker in an administrative fee vary, depending on whether
     <tbody>
     <tr class="odd">
     <td><p><strong>Paid by</strong></p></td>
-    <td><p>Select the legal entity that the worker is employed by and that pays for the worker position. By default, the current legal entity is displayed. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa590982(v=ax.60)">Positions (form)</a>.</p></td>
+    <td><p>Select the legal entity that the worker is employed by and that pays for the worker position. By default, the current legal entity is displayed. For more information, see <a href="https://technet.microsoft.com/library/aa590982(v=ax.60)">Positions (form)</a>.</p></td>
     </tr>
     <tr class="even">
     <td><p><strong>Position</strong></p></td>
@@ -879,11 +880,11 @@ Back to top
 
 ## Find form help
 
-[Garnishment and tax levy rules (form)](https://technet.microsoft.com/en-us/library/dn497842\(v=ax.60\))
+[Garnishment and tax levy rules (form)](https://technet.microsoft.com/library/dn497842\(v=ax.60\))
 
-[Maintain benefits (form)](https://technet.microsoft.com/en-us/library/hh209235\(v=ax.60\))
+[Maintain benefits (form)](https://technet.microsoft.com/library/hh209235\(v=ax.60\))
 
-[Positions (form)](https://technet.microsoft.com/en-us/library/aa590982\(v=ax.60\))
+[Positions (form)](https://technet.microsoft.com/library/aa590982\(v=ax.60\))
 
 ## Find related tasks
 

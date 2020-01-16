@@ -2,8 +2,9 @@
 title: Generate and print vendor checks
 TOCTitle: Generate and print vendor checks
 ms:assetid: 937d3843-755e-408c-b700-38cd437f46d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232194(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232194(v=AX.60)
 ms:contentKeyID: 36966735
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -95,7 +96,7 @@ To recall a positive pay file, follow these steps:
 
 ## See also
 
-[Vendor payment by check (form)](https://technet.microsoft.com/en-us/library/bb220751\(v=ax.60\))
+[Vendor payment by check (form)](https://technet.microsoft.com/library/bb220751\(v=ax.60\))
 
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 

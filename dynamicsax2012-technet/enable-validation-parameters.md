@@ -2,8 +2,9 @@
 title: Enable validation parameters
 TOCTitle: Enable validation parameters
 ms:assetid: ef66623d-1e13-4e0a-bfb5-d4fba8bed126
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551560(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551560(v=AX.60)
 ms:contentKeyID: 36059919
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,13 +66,13 @@ Select one of the following options:
 
 [About validation in projects](about-validation-in-projects.md)
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Workers (form)](https://technet.microsoft.com/en-us/library/aa583961\(v=ax.60\))
+[Workers (form)](https://technet.microsoft.com/library/aa583961\(v=ax.60\))
 
-[Project setup (form)](https://technet.microsoft.com/en-us/library/hh209540\(v=ax.60\))
+[Project setup (form)](https://technet.microsoft.com/library/hh209540\(v=ax.60\))
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
 [Configuring validation for projects](configuring-validation-for-projects.md)
 

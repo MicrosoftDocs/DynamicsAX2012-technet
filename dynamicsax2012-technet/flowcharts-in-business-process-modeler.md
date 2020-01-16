@@ -2,8 +2,9 @@
 title: Flowcharts in Business process modeler
 TOCTitle: Flowcharts in Business process modeler
 ms:assetid: 82984c8e-1686-47c3-b181-145aa3653352
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268621(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268621(v=AX.60)
 ms:contentKeyID: 54918852
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

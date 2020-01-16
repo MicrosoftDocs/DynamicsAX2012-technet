@@ -1,9 +1,10 @@
-﻿---
+---
 title: ExtendedWebAppWebConfigActivationJob.Update Method  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: Update Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SP.CommonFeatures.ExtendedWebAppWebConfigActivationJob.Update
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.extendedwebappwebconfigactivationjob.update(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.extendedwebappwebconfigactivationjob.update(v=AX.60)
 ms:contentKeyID: 62204647
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

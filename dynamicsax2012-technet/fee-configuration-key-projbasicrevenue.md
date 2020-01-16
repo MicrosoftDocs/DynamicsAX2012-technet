@@ -2,8 +2,9 @@
 title: Fee configuration key (ProjBasicRevenue)
 TOCTitle: Fee configuration key (ProjBasicRevenue)
 ms:assetid: 432eb56e-03ac-4775-8bc0-e1f686ac3a18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa554469(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa554469(v=AX.60)
 ms:contentKeyID: 39518956
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,19 +40,19 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Fee</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209390(v=ax.60)">Fee journal (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209390(v=ax.60)">Fee journal (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Sales price - fee</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa575091(v=ax.60)">Sales price - fee (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa575091(v=ax.60)">Sales price - fee (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Fees</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa618753(v=ax.60)">Fee transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa618753(v=ax.60)">Fee transactions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Sales price - fee</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa575091(v=ax.60)">Sales price - fee (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa575091(v=ax.60)">Sales price - fee (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -111,7 +112,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

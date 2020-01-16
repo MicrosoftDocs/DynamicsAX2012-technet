@@ -2,8 +2,9 @@
 title: (ESP) Generate Report 340
 TOCTitle: (ESP) Generate Report 340
 ms:assetid: 3690afc3-6ab8-49c5-b1a1-fa8f9db1c41e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304972(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304972(v=AX.60)
 ms:contentKeyID: 54899950
+author: Khairunj
 ms.date: 06/07/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,11 +46,11 @@ The following table shows the prerequisites that must be in place before you sta
 <tbody>
 <tr class="odd">
 <td><p><strong>Related setup task</strong></p></td>
-<td><p>Set up the cash ledger account for Report 340. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh242856(v=ax.60)">(ESP) Cash ledger accounts (form)</a>.</p></td>
+<td><p>Set up the cash ledger account for Report 340. For more information, see <a href="https://technet.microsoft.com/library/hh242856(v=ax.60)">(ESP) Cash ledger accounts (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>Set up a sales tax settlement period. For more information, see <a href="set-up-a-sales-tax-settlement-period.md">Set up a sales tax settlement period</a> and <a href="https://technet.microsoft.com/en-us/library/aa633944(v=ax.60)">Sales tax settlement periods (form)</a>.</p></td>
+<td><p>Set up a sales tax settlement period. For more information, see <a href="set-up-a-sales-tax-settlement-period.md">Set up a sales tax settlement period</a> and <a href="https://technet.microsoft.com/library/aa633944(v=ax.60)">Sales tax settlement periods (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Setup</strong></p></td>
@@ -68,13 +69,13 @@ To create Report 340, follow these steps:
 
 1.  Click **General ledger** \> **Periodic** \> **Sales tax payments** \> **Spain** \> **Spanish VAT reports**.
 
-2.  Click **Create new** to open the **Spanish VAT list** form. For more information, see [(ESP) Spanish VAT list (form)](https://technet.microsoft.com/en-us/library/aa577152\(v=ax.60\)).
+2.  Click **Create new** to open the **Spanish VAT list** form. For more information, see [(ESP) Spanish VAT list (form)](https://technet.microsoft.com/library/aa577152\(v=ax.60\)).
 
 3.  Specify the criteria for transferring the invoices to the **Spanish VAT reports** form.
 
 4.  In the **Minimum payment amount in cash** field, enter the threshold value of the cash amount in the accounting currency that is received from the customer. This value is used to filter the invoices that are transferred to the report.
 
-5.  Click **OK** to transfer the invoices to the **Spanish VAT reports** form. For more information, see [(ESP) Spanish VAT reports (form)](https://technet.microsoft.com/en-us/library/aa554510\(v=ax.60\)).
+5.  Click **OK** to transfer the invoices to the **Spanish VAT reports** form. For more information, see [(ESP) Spanish VAT reports (form)](https://technet.microsoft.com/library/aa554510\(v=ax.60\)).
 
 ## 2\. Verify the VAT report lines and generate Report 340
 
@@ -84,7 +85,7 @@ To verify the VAT report lines and generate Report 340, follow these steps:
 
 1.  Click **General ledger** \> **Periodic** \> **Sales tax payments** \> **Spain** \> **Spanish VAT reports**.
 
-2.  In the **Spanish VAT reports** form, click **VAT report lines** to open the **VAT report lines** form. For more information, see [(ESP) VAT report lines (form)](https://technet.microsoft.com/en-us/library/aa557419\(v=ax.60\)).
+2.  In the **Spanish VAT reports** form, click **VAT report lines** to open the **VAT report lines** form. For more information, see [(ESP) VAT report lines (form)](https://technet.microsoft.com/library/aa557419\(v=ax.60\)).
 
 3.  On the **Overview** tab, verify the report lines.
 

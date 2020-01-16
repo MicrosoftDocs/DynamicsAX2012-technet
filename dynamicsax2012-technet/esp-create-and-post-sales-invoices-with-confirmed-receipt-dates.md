@@ -2,8 +2,9 @@
 title: (ESP) Create and post sales invoices with confirmed receipt dates
 TOCTitle: (ESP) Create and post sales invoices with confirmed receipt dates
 ms:assetid: 736b2be2-7fb5-4ea9-9a1a-0b3807a85027
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923604(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923604(v=AX.60)
 ms:contentKeyID: 52075221
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ Use the **Sales order** and **Posting invoice** forms to create and post sales i
 
 1.  Click **Accounts receivable** \> **Common** \> **Sales orders** \> **All sales orders**.
 
-2.  Create a sales order and add sales order lines. For more information, see [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\)).
+2.  Create a sales order and add sales order lines. For more information, see [Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\)).
 
 3.  On the **Sales order header** FastTab, in the **Confirmed receipt date** field, select a date.
 
@@ -37,9 +38,9 @@ Use the **Sales order** and **Posting invoice** forms to create and post sales i
 
 ## See also
 
-[(ESP) Item group (modified form)](https://technet.microsoft.com/en-us/library/jj923620\(v=ax.60\))
+[(ESP) Item group (modified form)](https://technet.microsoft.com/library/jj923620\(v=ax.60\))
 
-[(ESP) Terms of payment (modified form)](https://technet.microsoft.com/en-us/library/jj910987\(v=ax.60\))
+[(ESP) Terms of payment (modified form)](https://technet.microsoft.com/library/jj910987\(v=ax.60\))
 
   
 

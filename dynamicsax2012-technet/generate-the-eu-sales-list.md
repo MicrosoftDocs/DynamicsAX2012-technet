@@ -2,8 +2,9 @@
 title: Generate the EU sales list
 TOCTitle: Generate the EU sales list
 ms:assetid: a0051422-f133-4f56-8140-383f2045250e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213385(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213385(v=AX.60)
 ms:contentKeyID: 36058766
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,9 +70,9 @@ Use the **EU reporting** form to generate the EU sales list.
 
 ## See also
 
-[EU sales list (form)](https://technet.microsoft.com/en-us/library/aa596355\(v=ax.60\))
+[EU sales list (form)](https://technet.microsoft.com/library/aa596355\(v=ax.60\))
 
-[Transfer transactions for EU sales list (form)](https://technet.microsoft.com/en-us/library/aa499405\(v=ax.60\))
+[Transfer transactions for EU sales list (form)](https://technet.microsoft.com/library/aa499405\(v=ax.60\))
 
 [EU reporting (report) EUSalesListReporting](eu-reporting-report-eusaleslistreporting.md)
 

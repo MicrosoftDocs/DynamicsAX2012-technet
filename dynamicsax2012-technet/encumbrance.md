@@ -2,8 +2,9 @@
 title: " encumbrance"
 TOCTitle: " encumbrance"
 ms:assetid: DynamicsAXGlossary.1465559
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1465559(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1465559(v=AX.60)
 ms:contentKeyID: 36057085
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

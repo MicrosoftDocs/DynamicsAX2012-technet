@@ -2,8 +2,9 @@
 title: Firewall settings for Microsoft Dynamics AX components
 TOCTitle: Firewall settings for Microsoft Dynamics AX components
 ms:assetid: 3874d772-094b-490f-bd89-b288b4585ab6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731780(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731780(v=AX.60)
 ms:contentKeyID: 35132606
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Employee Services Role configuration key (HRMEPEmployeeServices)
 TOCTitle: Employee Services Role configuration key (HRMEPEmployeeServices)
 ms:assetid: f4a5ac0d-409f-4336-a72a-f1636b1bf650
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa600309(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa600309(v=AX.60)
 ms:contentKeyID: 36941236
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

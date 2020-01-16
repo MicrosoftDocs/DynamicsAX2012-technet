@@ -2,8 +2,9 @@
 title: Encumber purchase orders
 TOCTitle: Encumber purchase orders
 ms:assetid: 79668209-8a70-4966-b4f5-eb98548b99eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209259(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209259(v=AX.60)
 ms:contentKeyID: 36058237
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ If you are in the public sector and are using general budget reservations, see [
 
 
 
-For information about how to create a purchase order from a purchase requisition, see [Purchase requisition consolidation (form)](https://technet.microsoft.com/en-us/library/hh227441\(v=ax.60\)).
+For information about how to create a purchase order from a purchase requisition, see [Purchase requisition consolidation (form)](https://technet.microsoft.com/library/hh227441\(v=ax.60\)).
 
 
 > [!NOTE]
@@ -59,7 +60,7 @@ Budget control is often enabled when the encumbrance process is enabled. This is
     
 
     > [!IMPORTANT]
-    > <P>You should create and test all posting definitions before you select the <STRONG>Use posting definitions</STRONG> check box. When you select that check box, all posting definitions are active immediately. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227669(v=ax.60)">Test Posting Definition Wizard (form)</A>. Posting definitions can be used only for the transaction posting types that are shown in the <STRONG>Transaction posting definitions</STRONG> form. Transaction posting types that are not shown in this form always use posting profiles. For more information, see <A href="about-posting-definitions.md">About posting definitions</A>, <A href="https://technet.microsoft.com/en-us/library/hh227607(v=ax.60)">Posting definitions (form)</A>, and <A href="https://technet.microsoft.com/en-us/library/hh242550(v=ax.60)">Transaction posting definitions (form)</A>.</P>
+    > <P>You should create and test all posting definitions before you select the <STRONG>Use posting definitions</STRONG> check box. When you select that check box, all posting definitions are active immediately. For more information, see <A href="https://technet.microsoft.com/library/hh227669(v=ax.60)">Test Posting Definition Wizard (form)</A>. Posting definitions can be used only for the transaction posting types that are shown in the <STRONG>Transaction posting definitions</STRONG> form. Transaction posting types that are not shown in this form always use posting profiles. For more information, see <A href="about-posting-definitions.md">About posting definitions</A>, <A href="https://technet.microsoft.com/library/hh227607(v=ax.60)">Posting definitions (form)</A>, and <A href="https://technet.microsoft.com/library/hh242550(v=ax.60)">Transaction posting definitions (form)</A>.</P>
 
 
 
@@ -84,7 +85,7 @@ Budget control is often enabled when the encumbrance process is enabled. This is
 
 ## See also
 
-[Encumbrance summary (form)](https://technet.microsoft.com/en-us/library/hh209473\(v=ax.60\))
+[Encumbrance summary (form)](https://technet.microsoft.com/library/hh209473\(v=ax.60\))
 
 [Process purchase orders at year end](process-purchase-orders-at-year-end.md)
 

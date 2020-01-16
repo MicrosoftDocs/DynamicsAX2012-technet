@@ -2,8 +2,9 @@
 title: (FRA) NAF codes and siret numbers
 TOCTitle: (FRA) NAF codes and siret numbers
 ms:assetid: 6abe4388-baee-4a81-bc06-b4e379f438e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa585907(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa585907(v=AX.60)
 ms:contentKeyID: 36059132
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,13 +41,13 @@ You can set up siret numbers for customers, vendors, and prospects. The siret is
 
 [(FRA) Set up NAF codes and siret numbers](fra-set-up-naf-codes-and-siret-numbers.md)
 
-[(FRA) NAF codes (form)](https://technet.microsoft.com/en-us/library/hh227617\(v=ax.60\))
+[(FRA) NAF codes (form)](https://technet.microsoft.com/library/hh227617\(v=ax.60\))
 
-[Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+[Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
-[Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
+[Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\))
 
   
 

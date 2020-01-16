@@ -2,8 +2,9 @@
 title: (FRA) Set up a policy rule for spending thresholds by category (Public sector)
 TOCTitle: (FRA) Set up a policy rule for spending thresholds by category (Public sector)
 ms:assetid: 82d072c5-f44d-461e-9e67-19fe1f2954cf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208547(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208547(v=AX.60)
 ms:contentKeyID: 36056304
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -97,15 +98,15 @@ To set up a policy rule for spending thresholds by category, use the following s
 
 ## See also
 
-[Purchasing policy (form)](https://technet.microsoft.com/en-us/library/hh209627\(v=ax.60\))
+[Purchasing policy (form)](https://technet.microsoft.com/library/hh209627\(v=ax.60\))
 
-[Procurement categories (form)](https://technet.microsoft.com/en-us/library/hh227365\(v=ax.60\))
+[Procurement categories (form)](https://technet.microsoft.com/library/hh227365\(v=ax.60\))
 
-[Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\))
+[Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\))
 
 [Key tasks: Create purchasing policies](key-tasks-create-purchasing-policies.md)
 
-[(FRA) Spending thresholds by category policy rule (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208581\(v=ax.60\))
+[(FRA) Spending thresholds by category policy rule (form) (Public sector)](https://technet.microsoft.com/library/hh208581\(v=ax.60\))
 
   
 

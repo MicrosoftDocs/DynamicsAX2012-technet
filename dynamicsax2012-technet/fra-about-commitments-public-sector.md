@@ -2,8 +2,9 @@
 title: (FRA) About commitments (Public sector)
 TOCTitle: (FRA) About commitments (Public sector)
 ms:assetid: f3fe899a-93bd-40b9-bd81-c243d7f0f658
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208606(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208606(v=AX.60)
 ms:contentKeyID: 36056396
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,9 +50,9 @@ Commitments are valid from the date they are created through the end of the fisc
 
 ## See also
 
-[(FRA) Commitment (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208609\(v=ax.60\))
+[(FRA) Commitment (form) (Public sector)](https://technet.microsoft.com/library/hh208609\(v=ax.60\))
 
-[(FRA) Commitment close (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208596\(v=ax.60\))
+[(FRA) Commitment close (form) (Public sector)](https://technet.microsoft.com/library/hh208596\(v=ax.60\))
 
 [Budgeting](budgeting.md)
 

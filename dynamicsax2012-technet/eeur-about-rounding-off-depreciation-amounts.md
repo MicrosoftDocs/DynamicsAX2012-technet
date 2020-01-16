@@ -2,8 +2,9 @@
 title: (EEUR) About rounding off depreciation amounts
 TOCTitle: (EEUR) About rounding off depreciation amounts
 ms:assetid: 5c00947d-c86b-460c-940d-9167f2471342
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710715(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710715(v=AX.60)
 ms:contentKeyID: 49385112
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -130,7 +131,7 @@ The following table shows rounded up and rounded down depreciation amounts for v
 
 ## See also
 
-[(EEUR) Depreciation books setup (modified form)](https://technet.microsoft.com/en-us/library/jj710730\(v=ax.60\))
+[(EEUR) Depreciation books setup (modified form)](https://technet.microsoft.com/library/jj710730\(v=ax.60\))
 
   
 

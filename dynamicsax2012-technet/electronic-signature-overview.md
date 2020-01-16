@@ -2,8 +2,9 @@
 title: Electronic signature overview
 TOCTitle: Electronic signature overview
 ms:assetid: a25c7619-e8fc-4e23-8aa5-9836f3e55e91
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362020(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362020(v=AX.60)
 ms:contentKeyID: 36058797
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Explode a sales order line
 TOCTitle: Explode a sales order line
 ms:assetid: 87122f1e-e9ff-45e1-bb50-aea2a79a0a56
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571582(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571582(v=AX.60)
 ms:contentKeyID: 36058423
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,9 +44,9 @@ To explode a sales order line, follow this procedure:
 
 ## See also
 
-[Master planning parameters (form)](https://technet.microsoft.com/en-us/library/aa591522\(v=ax.60\))
+[Master planning parameters (form)](https://technet.microsoft.com/library/aa591522\(v=ax.60\))
 
-[Explosion (form)](https://technet.microsoft.com/en-us/library/aa573004\(v=ax.60\))
+[Explosion (form)](https://technet.microsoft.com/library/aa573004\(v=ax.60\))
 
   
 

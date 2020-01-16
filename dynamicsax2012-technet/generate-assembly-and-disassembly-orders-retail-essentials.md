@@ -2,8 +2,9 @@
 title: Generate assembly and disassembly orders (Retail essentials)
 TOCTitle: Generate assembly and disassembly orders (Retail essentials)
 ms:assetid: 253b0348-9fbf-4a6e-9ded-f8b1896d151b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859558(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859558(v=AX.60)
 ms:contentKeyID: 63820146
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
@@ -21,7 +22,7 @@ You can generate assembly orders by using any of the following methods:
 
   - Automatically generate an assembly order from a sales order.
 
-After you generate an assembly order and enter the quantities that you want to assemble, BOM (bill of material) journals are generated to reserve the inventory for the products that are included in the kit configurations. For more information about BOM journals, see [Inventory journal (form)](https://technet.microsoft.com/en-us/library/aa558607\(v=ax.60\)).
+After you generate an assembly order and enter the quantities that you want to assemble, BOM (bill of material) journals are generated to reserve the inventory for the products that are included in the kit configurations. For more information about BOM journals, see [Inventory journal (form)](https://technet.microsoft.com/library/aa558607\(v=ax.60\)).
 
 ## Generate an assembly order from a product kit
 
@@ -143,7 +144,7 @@ To generate an assembly order from a sales order, follow these steps:
 
 7.  Enter any additional information on the sales order, and then process the sales order to automatically generate the assembly order for the kit products.
 
-For more information about how to complete the sales order form, see [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\)).
+For more information about how to complete the sales order form, see [Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\)).
 
 ## See also
 

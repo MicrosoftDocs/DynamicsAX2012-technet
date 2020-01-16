@@ -2,8 +2,9 @@
 title: (ESP) Import main accounts into a chart of accounts
 TOCTitle: (ESP) Import main accounts into a chart of accounts
 ms:assetid: 87c9e346-cd4f-4104-9625-afe835147223
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433543(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433543(v=AX.60)
 ms:contentKeyID: 36941344
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ Use the **Import main accounts** form to import main account information into a 
 
 ## See also
 
-[(ESP) Import main accounts (form)](https://technet.microsoft.com/en-us/library/hh433552\(v=ax.60\))
+[(ESP) Import main accounts (form)](https://technet.microsoft.com/library/hh433552\(v=ax.60\))
 
   
 

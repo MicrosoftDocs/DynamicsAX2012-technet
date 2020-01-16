@@ -1,9 +1,10 @@
-﻿---
+---
 title: EmployeeTimeRegistrationWorkflowHelper.GetManagerLogbookView Method  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: GetManagerLogbookView Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.EmployeeTimeRegistrationWorkflowHelper.GetManagerLogbookView(Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.EmployeeActivityType[],System.Nullable{System.DateTimeOffset},System.Nullable{System.DateTimeOffset},Microsoft.Dynamics.Commerce.Runtime.DataModel.PagingInfo,Microsoft.Dynamics.Commerce.Runtime.DataModel.SortingInfo)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.employeetimeregistrationworkflowhelper.getmanagerlogbookview(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.employeetimeregistrationworkflowhelper.getmanagerlogbookview(v=AX.60)
 ms:contentKeyID: 65317561
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -81,7 +82,7 @@ static ReadOnlyCollection<EmployeeActivity^>^ GetManagerLogbookView(
 <!-- end list -->
 
   - storeNumber  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -91,12 +92,12 @@ static ReadOnlyCollection<EmployeeActivity^>^ GetManagerLogbookView(
 <!-- end list -->
 
   - fromDateTimeOffset  
-    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))\>  
+    Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))\>  
 
 <!-- end list -->
 
   - toDateTimeOffset  
-    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))\>  
+    Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))\>  
 
 <!-- end list -->
 
@@ -110,7 +111,7 @@ static ReadOnlyCollection<EmployeeActivity^>^ GetManagerLogbookView(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[EmployeeActivity](employeeactivity-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[EmployeeActivity](employeeactivity-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: Employees (Retail essentials)
 TOCTitle: Employees (Retail essentials)
 ms:assetid: 9b2dfcd4-7841-4f74-85e9-bc83edb30cd1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736921(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736921(v=AX.60)
 ms:contentKeyID: 62200398
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

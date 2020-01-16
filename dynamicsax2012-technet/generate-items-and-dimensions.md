@@ -2,8 +2,9 @@
 title: Generate items and dimensions
 TOCTitle: Generate items and dimensions
 ms:assetid: d0cbd4c1-1628-4f7b-969e-3ba6356d0c85
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551012(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551012(v=AX.60)
 ms:contentKeyID: 36059491
+author: Khairunj
 ms.date: 06/13/2017
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ For some types of production, it might be convenient to save each configured ite
 
 ## See also
 
-[Product models (form)](https://technet.microsoft.com/en-us/library/aa572853\(v=ax.60\))
+[Product models (form)](https://technet.microsoft.com/library/aa572853\(v=ax.60\))
 
   
 

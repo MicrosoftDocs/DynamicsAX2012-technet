@@ -2,8 +2,9 @@
 title: (EEUR) Cancel a posted free text invoice
 TOCTitle: (EEUR) Cancel a posted free text invoice
 ms:assetid: 70e0f7b6-9008-42fb-9f14-550324ec3638
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730990(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730990(v=AX.60)
 ms:contentKeyID: 49675232
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ When you cancel a posted invoice, a canceling invoice is created. The combined b
 
 ## See also
 
-[(EEUR) Create corrected invoice (form)](https://technet.microsoft.com/en-us/library/jj710746\(v=ax.60\))
+[(EEUR) Create corrected invoice (form)](https://technet.microsoft.com/library/jj710746\(v=ax.60\))
 
 [Correct a posted free text invoice](correct-a-posted-free-text-invoice.md)
 

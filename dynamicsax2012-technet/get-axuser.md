@@ -1,9 +1,10 @@
-﻿---
+---
 title: Get-AXUser
 TOCTitle: Get-AXUser
 ms:assetid: A66FE6FF-8F75-438E-88D1-999127A8D314
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720275(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720275(v=AX.60)
 ms:contentKeyID: 49720063
+author: Khairunj
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

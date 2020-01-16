@@ -2,8 +2,9 @@
 title: '(FRA) Key tasks: Administer purchase agreements (Public sector)'
 TOCTitle: '(FRA) Key tasks: Administer purchase agreements (Public sector)'
 ms:assetid: c1d8201d-73bc-47ef-a2ab-9a9a002dc37e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208575(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208575(v=AX.60)
 ms:contentKeyID: 36056359
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -165,13 +166,13 @@ Back to top
 
 ## Find form help
 
-[Purchase agreements (form)](https://technet.microsoft.com/en-us/library/hh209550\(v=ax.60\))
+[Purchase agreements (form)](https://technet.microsoft.com/library/hh209550\(v=ax.60\))
 
-[(FRA) Purchase agreement department access (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208584\(v=ax.60\))
+[(FRA) Purchase agreement department access (form) (Public sector)](https://technet.microsoft.com/library/hh208584\(v=ax.60\))
 
-[(FRA) Purchase agreement tree (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208545\(v=ax.60\))
+[(FRA) Purchase agreement tree (form) (Public sector)](https://technet.microsoft.com/library/hh208545\(v=ax.60\))
 
-[Accounts payable parameters (form)](https://technet.microsoft.com/en-us/library/aa596348\(v=ax.60\))
+[Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\))
 
 ## Find related tasks
 

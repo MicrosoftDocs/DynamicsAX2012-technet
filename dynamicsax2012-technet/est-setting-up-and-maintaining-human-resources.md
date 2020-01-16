@@ -2,8 +2,9 @@
 title: (EST) Setting up and maintaining Human resources
 TOCTitle: (EST) Setting up and maintaining Human resources
 ms:assetid: 51c20225-791c-4f05-b291-c616dec2c279
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710839(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710839(v=AX.60)
 ms:contentKeyID: 49385235
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

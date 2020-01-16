@@ -2,8 +2,9 @@
 title: 'Examples: Cost to complete methods'
 TOCTitle: 'Examples: Cost to complete methods'
 ms:assetid: c40745f0-3290-4efc-9f38-8e9104b3ca0e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550721(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550721(v=AX.60)
 ms:contentKeyID: 43894516
+author: Khairunj
 ms.date: 10/15/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -17,9 +18,9 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Microsoft Dynamics AX provides six cost-to-complete methods that you can select in the **Create estimate** form. The method that you select is used to distribute the values of an estimate for a project. For more information, see [Create estimate (class form)](https://technet.microsoft.com/en-us/library/aa553468\(v=ax.60\)).
+Microsoft Dynamics AX provides six cost-to-complete methods that you can select in the **Create estimate** form. The method that you select is used to distribute the values of an estimate for a project. For more information, see [Create estimate (class form)](https://technet.microsoft.com/library/aa553468\(v=ax.60\)).
 
-The **As previous estimate** method uses the method that was selected for the previous estimate period. The **From cost template** method uses the method that was specified as the default for the cost template in the **Estimate template** form. For more information, see [Estimate template (form)](https://technet.microsoft.com/en-us/library/aa598446\(v=ax.60\)).
+The **As previous estimate** method uses the method that was selected for the previous estimate period. The **From cost template** method uses the method that was specified as the default for the cost template in the **Estimate template** form. For more information, see [Estimate template (form)](https://technet.microsoft.com/library/aa598446\(v=ax.60\)).
 
 This topic illustrates how each of the other four cost-to-complete methods affects the estimates for a project. The first two tables provide the data assumptions for the estimate examples. The remaining tables provide examples of estimates that are posted in the month of August and consumed in September.
 

@@ -2,8 +2,9 @@
 title: (FRA) About titres de recette (Public sector)
 TOCTitle: (FRA) About titres de recette (Public sector)
 ms:assetid: 1550611c-ed0e-4d81-948e-31f52b74d127
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh450742(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh450742(v=AX.60)
 ms:contentKeyID: 36966680
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,7 +54,7 @@ A group of related titres, together with all supporting documentation, are assig
 
 ## See also
 
-[(FRA) Maintain titres de recette (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh450748\(v=ax.60\))
+[(FRA) Maintain titres de recette (form) (Public sector)](https://technet.microsoft.com/library/hh450748\(v=ax.60\))
 
 [(FRA) Key tasks: Titres de recette and bordereaux de titre (Public sector)](fra-key-tasks-titres-de-recette-and-bordereaux-de-titre-public-sector.md)
 

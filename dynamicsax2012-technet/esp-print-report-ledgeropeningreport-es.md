@@ -2,8 +2,9 @@
 title: (ESP) Print report (LedgerOpeningReport_ES)
 TOCTitle: (ESP) Print report (LedgerOpeningReport_ES)
 ms:assetid: 035e472a-0a2c-435a-81ef-a10913f67321
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416705(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416705(v=AX.60)
 ms:contentKeyID: 36931892
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -123,7 +124,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Opening transactions (form)](https://technet.microsoft.com/en-us/library/aa572506\(v=ax.60\))
+[Opening transactions (form)](https://technet.microsoft.com/library/aa572506\(v=ax.60\))
 
 [Transfer opening balances to a new fiscal year](transfer-opening-balances-to-a-new-fiscal-year.md)
 

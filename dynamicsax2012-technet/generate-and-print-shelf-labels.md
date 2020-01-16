@@ -2,8 +2,9 @@
 title: Generate and print shelf labels
 TOCTitle: Generate and print shelf labels
 ms:assetid: add049cf-c6e0-4daf-8d0d-c7b178b8d31d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597209(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597209(v=AX.60)
 ms:contentKeyID: 39519281
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ When you work with labels in Retail, you can do the following:
 
 Before you can generate and print shelf labels, you must set up Microsoft Dynamics AX to enable label printing. The following tasks must be completed:
 
-  - Select options in the **Retail shared parameters** form to specify how labels should be generated for brick-and-mortar stores. For more information about the options in this form, see [Retail shared parameters (form)](https://technet.microsoft.com/en-us/library/hh580625\(v=ax.60\)).
+  - Select options in the **Retail shared parameters** form to specify how labels should be generated for brick-and-mortar stores. For more information about the options in this form, see [Retail shared parameters (form)](https://technet.microsoft.com/library/hh580625\(v=ax.60\)).
 
   - Select the reports that can be used to generate labels. The label reports contain information such as bar codes, prices, and relevant data, and also specify the size of the labels to print and the orientation of the label page. After label reports are set up in this step, users select which report to use every time they generate labels.
 
@@ -225,9 +226,9 @@ To generate labels for products that are shipped in a transfer order, follow the
 
 4.  In the **Shipment** form, enter the appropriate information to ship the order, and then, on the **Overview** tab, do the following:
     
-      - In the **Update** field, select the appropriate value from the list. For more information about the different values in the drop down list, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+      - In the **Update** field, select the appropriate value from the list. For more information about the different values in the drop down list, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
-      - Select the **Edit lines** check box if appropriate. For more information about when to select the **Edit lines** check box, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+      - Select the **Edit lines** check box if appropriate. For more information about when to select the **Edit lines** check box, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
       - Select the **Print shelf labels** check box.
     
@@ -259,9 +260,9 @@ To generate labels for products that are received from a transfer order, follow 
 
 4.  In the **Receive** form, enter the appropriate information to ship the order, and then, on the **Overview** tab, do the following:
     
-      - In the **Update** field, select the appropriate value from the list. For more information about the different values in the drop down list, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+      - In the **Update** field, select the appropriate value from the list. For more information about the different values in the drop down list, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
-      - Select the **Edit lines** check box if appropriate. For more information about when to select the **Edit lines** check box, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+      - Select the **Edit lines** check box if appropriate. For more information about when to select the **Edit lines** check box, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
       - Select the **Print shelf labels** check box.
     
@@ -285,19 +286,19 @@ To generate labels for products that are received from a transfer order, follow 
 
 [Create and print labels overview](create-and-print-labels-overview.md)
 
-[Shelf label printing (form)](https://technet.microsoft.com/en-us/library/hh597343\(v=ax.60\))
+[Shelf label printing (form)](https://technet.microsoft.com/library/hh597343\(v=ax.60\))
 
-[Shelf label report setup (form)](https://technet.microsoft.com/en-us/library/hh580621\(v=ax.60\))
+[Shelf label report setup (form)](https://technet.microsoft.com/library/hh580621\(v=ax.60\))
 
-[Released product details (form) (Retail)](https://technet.microsoft.com/en-us/library/hh580615\(v=ax.60\))
+[Released product details (form) (Retail)](https://technet.microsoft.com/library/hh580615\(v=ax.60\))
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
-[Purchase posting (form)](https://technet.microsoft.com/en-us/library/aa587152\(v=ax.60\))
+[Purchase posting (form)](https://technet.microsoft.com/library/aa587152\(v=ax.60\))
 
-[Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\))
+[Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\))
 
-[Receive (form)](https://technet.microsoft.com/en-us/library/aa552649\(v=ax.60\))
+[Receive (form)](https://technet.microsoft.com/library/aa552649\(v=ax.60\))
 
   
 

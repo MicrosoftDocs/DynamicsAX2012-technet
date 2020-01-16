@@ -2,8 +2,9 @@
 title: Fixed asset balances report (AssetBalances)
 TOCTitle: Fixed asset balances report (AssetBalances)
 ms:assetid: 26e2f225-c3ff-4e87-8c5b-7ee0a1b80b89
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500385(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa500385(v=AX.60)
 ms:contentKeyID: 36931895
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Edit forecast transactions
 TOCTitle: Edit forecast transactions
 ms:assetid: c7264bc5-a453-46c3-bff4-4dc09d454052
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550850(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550850(v=AX.60)
 ms:contentKeyID: 36059312
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,17 +46,17 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[Edit forecast transactions (form) (Project)](https://technet.microsoft.com/en-us/library/hh242791\(v=ax.60\))
+[Edit forecast transactions (form) (Project)](https://technet.microsoft.com/library/hh242791\(v=ax.60\))
 
-[Expense forecasts (form)](https://technet.microsoft.com/en-us/library/aa548441\(v=ax.60\))
+[Expense forecasts (form)](https://technet.microsoft.com/library/aa548441\(v=ax.60\))
 
-[Item forecasts (form)](https://technet.microsoft.com/en-us/library/hh209438\(v=ax.60\))
+[Item forecasts (form)](https://technet.microsoft.com/library/hh209438\(v=ax.60\))
 
-[Expense forecasts (form)](https://technet.microsoft.com/en-us/library/aa548441\(v=ax.60\))
+[Expense forecasts (form)](https://technet.microsoft.com/library/aa548441\(v=ax.60\))
 
-[Fee forecasts (form)](https://technet.microsoft.com/en-us/library/aa598516\(v=ax.60\))
+[Fee forecasts (form)](https://technet.microsoft.com/library/aa598516\(v=ax.60\))
 
-[On-account forecasts (form)](https://technet.microsoft.com/en-us/library/aa499417\(v=ax.60\))
+[On-account forecasts (form)](https://technet.microsoft.com/library/aa499417\(v=ax.60\))
 
 [Enter forecast transactions](enter-forecast-transactions.md)
 

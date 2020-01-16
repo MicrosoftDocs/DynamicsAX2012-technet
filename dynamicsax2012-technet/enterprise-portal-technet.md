@@ -2,8 +2,9 @@
 title: Enterprise portal (TechNet)
 TOCTitle: Enterprise portal
 ms:assetid: e0f6b5ed-4ce5-4389-8899-d696a2dd2ab9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272853(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272853(v=AX.60)
 ms:contentKeyID: 36584375
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: EmployeeTimeRegistrationWorkflowHelper.GetBreakCategoryJobIdByActivity Method  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: GetBreakCategoryJobIdByActivity Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.EmployeeTimeRegistrationWorkflowHelper.GetBreakCategoryJobIdByActivity(Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.employeetimeregistrationworkflowhelper.getbreakcategoryjobidbyactivity(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.employeetimeregistrationworkflowhelper.getbreakcategoryjobidbyactivity(v=AX.60)
 ms:contentKeyID: 62214808
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,11 +62,11 @@ static String^ GetBreakCategoryJobIdByActivity(
 <!-- end list -->
 
   - activity  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 Returns the activity job identifier.  
 
 ## See Also

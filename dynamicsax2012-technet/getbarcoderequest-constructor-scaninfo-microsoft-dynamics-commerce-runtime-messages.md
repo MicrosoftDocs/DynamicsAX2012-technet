@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetBarcodeRequest Constructor (ScanInfo) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetBarcodeRequest Constructor (ScanInfo)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetBarcodeRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.ScanInfo)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getbarcoderequest.getbarcoderequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getbarcoderequest.getbarcoderequest(v=AX.60)
 ms:contentKeyID: 62212568
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -2,8 +2,9 @@
 title: (EEUR) Sales tax list report (TaxList)
 TOCTitle: (EEUR) Sales tax list report (TaxList)
 ms:assetid: 980e181d-cf26-4ae4-b550-db7c4413c85d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn133212(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn133212(v=AX.60)
 ms:contentKeyID: 53365030
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

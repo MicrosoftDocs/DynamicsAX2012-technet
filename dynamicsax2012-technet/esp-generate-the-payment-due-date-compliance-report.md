@@ -2,8 +2,9 @@
 title: (ESP) Generate the payment due date compliance report
 TOCTitle: (ESP) Generate the payment due date compliance report
 ms:assetid: 082e55c1-10ce-4424-93f2-e47cf25af43d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923096(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923096(v=AX.60)
 ms:contentKeyID: 52075217
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

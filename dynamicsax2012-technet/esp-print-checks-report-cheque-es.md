@@ -2,8 +2,9 @@
 title: (ESP) Print checks report (Cheque_ES)
 TOCTitle: (ESP) Print checks report (Cheque_ES)
 ms:assetid: ed2b2630-6f3c-46c9-82ad-e30c18c0abc5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352294(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352294(v=AX.60)
 ms:contentKeyID: 36687922
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

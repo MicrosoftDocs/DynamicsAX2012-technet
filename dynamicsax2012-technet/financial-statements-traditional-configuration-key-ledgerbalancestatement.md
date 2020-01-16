@@ -2,8 +2,9 @@
 title: Financial statements (traditional) configuration key (LedgerBalanceStatement)
 TOCTitle: Financial statements (traditional) configuration key (LedgerBalanceStatement)
 ms:assetid: 1137b739-8b4a-421b-afc6-8da1aab9fa18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn269131(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn269131(v=AX.60)
 ms:contentKeyID: 54920083
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -35,19 +36,19 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Financial statement %1</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585230(v=ax.60)">Financial statement report (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585230(v=ax.60)">Financial statement report (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Financial statement</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa600912(v=ax.60)">Financial statement setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa600912(v=ax.60)">Financial statement setup (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Row definition</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557429(v=ax.60)">Row definition (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557429(v=ax.60)">Row definition (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>XBRL taxonomy</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa556714(v=ax.60)">XBRL taxonomy (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa556714(v=ax.60)">XBRL taxonomy (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +86,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

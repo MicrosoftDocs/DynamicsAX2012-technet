@@ -2,8 +2,9 @@
 title: Example organizational hierarchies
 TOCTitle: Example organizational hierarchies
 ms:assetid: d68676fc-9fdf-4f08-a934-064dbb9a259b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh801194(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh801194(v=AX.60)
 ms:contentKeyID: 43976728
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Finish the currency conversion
 TOCTitle: Finish the currency conversion
 ms:assetid: 5e4beb66-b9ac-4946-b19a-eaafa09990e1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549103(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549103(v=AX.60)
 ms:contentKeyID: 36057582
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,11 +42,11 @@ After the currency conversion has been successfully completed, you should restri
 
 3.  Expand the **Enable general ledger process** node.
 
-4.  Set permissions for the **Convert ledger accounting currency** and **Convert ledger reporting currency** privileges. For more information, see [Security privileges (form)](https://technet.microsoft.com/en-us/library/hh209366\(v=ax.60\)).
+4.  Set permissions for the **Convert ledger accounting currency** and **Convert ledger reporting currency** privileges. For more information, see [Security privileges (form)](https://technet.microsoft.com/library/hh209366\(v=ax.60\)).
 
 ## Revalue foreign currency amounts for customer and vendor accounts
 
-If necessary, you can revalue foreign currency amounts after the currency conversion. You revalue foreign currency amounts by selecting **Standard** in the **Method** field for the revaluation. For more information, see [Revalue foreign currency amounts for customers or vendors](revalue-foreign-currency-amounts-for-customers-or-vendors.md), [Customer foreign currency revaluation periodic job (class form)](https://technet.microsoft.com/en-us/library/aa574761\(v=ax.60\)), and [Vendor foreign currency revaluation periodic job (class form)](https://technet.microsoft.com/en-us/library/aa554435\(v=ax.60\)).
+If necessary, you can revalue foreign currency amounts after the currency conversion. You revalue foreign currency amounts by selecting **Standard** in the **Method** field for the revaluation. For more information, see [Revalue foreign currency amounts for customers or vendors](revalue-foreign-currency-amounts-for-customers-or-vendors.md), [Customer foreign currency revaluation periodic job (class form)](https://technet.microsoft.com/library/aa574761\(v=ax.60\)), and [Vendor foreign currency revaluation periodic job (class form)](https://technet.microsoft.com/library/aa554435\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Periodic** \> **Foreign currency revaluation**.
 

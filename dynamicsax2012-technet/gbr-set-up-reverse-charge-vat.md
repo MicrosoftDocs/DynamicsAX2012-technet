@@ -2,8 +2,9 @@
 title: (GBR) Set up reverse charge VAT
 TOCTitle: (GBR) Set up reverse charge VAT
 ms:assetid: 2eb0f836-0bcd-4cff-be12-0a332719a8c5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231022(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231022(v=AX.60)
 ms:contentKeyID: 36056280
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -129,7 +130,7 @@ Use this procedure to set up one or more item groups that can be assigned to ite
 
 2.  Click **New**. Enter an item group identifier, such as RevCharge, and a name.
 
-3.  Set up an item group to identify products for which reverse charges are applicable. For more information, see [About item groups](about-item-groups.md) and [Item group (form)](https://technet.microsoft.com/en-us/library/aa575515\(v=ax.60\)).
+3.  Set up an item group to identify products for which reverse charges are applicable. For more information, see [About item groups](about-item-groups.md) and [Item group (form)](https://technet.microsoft.com/library/aa575515\(v=ax.60\)).
 
 4.  Click **Product information management** \> **Common** \> **Released products**.
 

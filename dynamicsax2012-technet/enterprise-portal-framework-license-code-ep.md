@@ -2,8 +2,9 @@
 title: Enterprise Portal framework license code (EP)
 TOCTitle: Enterprise Portal framework license code (EP)
 ms:assetid: e83e1e23-bd42-42fa-8d58-d441b1c89d92
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433475(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433475(v=AX.60)
 ms:contentKeyID: 36941234
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -59,7 +60,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

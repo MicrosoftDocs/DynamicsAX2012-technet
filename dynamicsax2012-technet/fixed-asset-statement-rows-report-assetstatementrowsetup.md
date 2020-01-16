@@ -2,8 +2,9 @@
 title: Fixed asset statement rows report (AssetStatementRowSetup)
 TOCTitle: Fixed asset statement rows report (AssetStatementRowSetup)
 ms:assetid: dbd6bc34-4a71-47a1-bd71-3f9117b97f31
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa591303(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa591303(v=AX.60)
 ms:contentKeyID: 37820235
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

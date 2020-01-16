@@ -2,8 +2,9 @@
 title: Expense report barcode cover report (TrvExpReportsBarcodeCoverReport)
 TOCTitle: Expense report barcode cover report (TrvExpReportsBarcodeCoverReport)
 ms:assetid: 0b508a7c-ec9b-4c42-8406-94f20555fd8b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404031(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404031(v=AX.60)
 ms:contentKeyID: 36956682
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

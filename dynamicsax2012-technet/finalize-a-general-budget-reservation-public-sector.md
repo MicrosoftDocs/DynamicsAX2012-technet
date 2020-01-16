@@ -2,8 +2,9 @@
 title: Finalize a general budget reservation (Public sector)
 TOCTitle: Finalize a general budget reservation (Public sector)
 ms:assetid: 41bae344-b447-45cb-b07e-5301236929d3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn792455(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn792455(v=AX.60)
 ms:contentKeyID: 65205497
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ Use the following steps to finalize a general budget reservation that has a rema
 
 ## Set fund-level overrides for general budget reservation year-end processing
 
-The year-end processing option that you select in the **Year-end option** list (see the preceding procedure) is used for all of the general budget reservations that you select. However, you can override this selection and use a different year-end processing option for specific funds that you select in the **funds** form. For more information, see [Funds (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208514\(v=ax.60\)).
+The year-end processing option that you select in the **Year-end option** list (see the preceding procedure) is used for all of the general budget reservations that you select. However, you can override this selection and use a different year-end processing option for specific funds that you select in the **funds** form. For more information, see [Funds (form) (Public sector)](https://technet.microsoft.com/library/hh208514\(v=ax.60\)).
 
 To override the default year-end process for general budget reservations, use the following steps.
 

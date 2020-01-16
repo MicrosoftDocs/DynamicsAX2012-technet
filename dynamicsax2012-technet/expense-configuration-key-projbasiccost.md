@@ -2,8 +2,9 @@
 title: Expense configuration key (ProjBasicCost)
 TOCTitle: Expense configuration key (ProjBasicCost)
 ms:assetid: a0c815b0-4ad6-4bb7-94e1-6474d7cbf440
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa617633(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa617633(v=AX.60)
 ms:contentKeyID: 39518963
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,39 +40,39 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Cost price - expense</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557917(v=ax.60)">Journal header (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557917(v=ax.60)">Journal header (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Default offset accounts for expenses</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616251(v=ax.60)">Default offset account for expenses (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616251(v=ax.60)">Default offset account for expenses (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Cost price - expense</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa571745(v=ax.60)">Cost price - expense (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa571745(v=ax.60)">Cost price - expense (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Sales price - expense</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599787(v=ax.60)">Sales price - expenses (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599787(v=ax.60)">Sales price - expenses (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Sales price - expense</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599787(v=ax.60)">Sales price - expenses (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599787(v=ax.60)">Sales price - expenses (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Expense</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599188(v=ax.60)">Expense transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599188(v=ax.60)">Expense transactions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Expenses</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599188(v=ax.60)">Expense transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599188(v=ax.60)">Expense transactions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Cost price - expense</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa571745(v=ax.60)">Cost price - expense (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa571745(v=ax.60)">Cost price - expense (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Sales price - expense</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599787(v=ax.60)">Sales price - expenses (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599787(v=ax.60)">Sales price - expenses (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -131,7 +132,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

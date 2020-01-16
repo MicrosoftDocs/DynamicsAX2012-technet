@@ -2,8 +2,9 @@
 title: Earning code and earning code group tasks
 TOCTitle: Earning code and earning code group tasks
 ms:assetid: 694f48ca-9841-40e5-919f-cc12569da3a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876706(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876706(v=AX.60)
 ms:contentKeyID: 63385348
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

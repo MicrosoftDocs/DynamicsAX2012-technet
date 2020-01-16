@@ -2,8 +2,9 @@
 title: (EEUR) Create a cash order by using a slip journal
 TOCTitle: (EEUR) Create a cash order by using a slip journal
 ms:assetid: 39bbd418-fbb5-4526-93ca-92cc900e6f0d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677504(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677504(v=AX.60)
 ms:contentKeyID: 49384807
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ Use a slip journal to create a cash order and register incoming and outgoing cas
 
 1.  Click **Cash and bank management** \> **Journals** \> **Slip journal**.
 
-2.  Click **New** to create a line, and then enter the required details. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+2.  Click **New** to create a line, and then enter the required details. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
 3.  Click **Lines** to open the **Journal voucher** form, click **New** to create a line, and then enter the required details. For more information, see [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md).
 

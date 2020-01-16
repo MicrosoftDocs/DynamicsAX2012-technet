@@ -2,8 +2,9 @@
 title: (FIN) Payment control report (VendOutPaymControl_FI_LM)
 TOCTitle: (FIN) Payment control report (VendOutPaymControl_FI_LM)
 ms:assetid: ccd8cfc8-e139-4c91-8f9e-e8c083752d08
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433519(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433519(v=AX.60)
 ms:contentKeyID: 36941301
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

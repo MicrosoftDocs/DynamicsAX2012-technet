@@ -2,8 +2,9 @@
 title: (ESP) Generate a customer payment remittance file
 TOCTitle: (ESP) Generate a customer payment remittance file
 ms:assetid: 7c962c7a-8735-45df-9015-3dd7a6b5c221
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213132(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213132(v=AX.60)
 ms:contentKeyID: 36058265
+author: Khairunj
 ms.date: 05/28/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Enterprise Portal Benchmark for Microsoft Dynamics AX 2012
 TOCTitle: Enterprise Portal Benchmark for Microsoft Dynamics AX 2012
 ms:assetid: 78620ec1-47bc-4df0-a521-19d43a642a2b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh881830(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh881830(v=AX.60)
 ms:contentKeyID: 45769252
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

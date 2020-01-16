@@ -1,9 +1,10 @@
-﻿---
+---
 title: FeatureReceiver.RemoveDocumentLibraryPage Method (, Collection(String)) (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: RemoveDocumentLibraryPage Method (, Collection(String))
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.FeatureReceiver.RemoveDocumentLibraryPage(Microsoft.SharePoint.SPWeb,System.Collections.ObjectModel.Collection{System.String})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.featurereceiver.removedocumentlibrarypage(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.featurereceiver.removedocumentlibrarypage(v=AX.60)
 ms:contentKeyID: 62205473
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -58,7 +59,7 @@ static void RemoveDocumentLibraryPage(
 <!-- end list -->
 
   - pageUrls  
-    Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+    Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/library/ms132397\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 
 ## Exceptions
 
@@ -75,7 +76,7 @@ static void RemoveDocumentLibraryPage(
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>Thrown when the web parameter or pageUrls parameter is null.</p></td>
 </tr>
 </tbody>

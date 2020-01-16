@@ -2,8 +2,9 @@
 title: (ESP) Generate the Declaration 347 report
 TOCTitle: (ESP) Generate the Declaration 347 report
 ms:assetid: bf19f1c3-4523-4c8f-8061-2d7d0febe4c4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242823(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242823(v=AX.60)
 ms:contentKeyID: 36059255
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,9 +40,9 @@ You can use the **Declaration 347** form to submit the Declaration 347 report to
 
 ## See also
 
-[(ESP) Generate declaration 347 (class form)](https://technet.microsoft.com/en-us/library/aa589594\(v=ax.60\))
+[(ESP) Generate declaration 347 (class form)](https://technet.microsoft.com/library/aa589594\(v=ax.60\))
 
-[(ESP) Declaration 347 (form)](https://technet.microsoft.com/en-us/library/aa552566\(v=ax.60\))
+[(ESP) Declaration 347 (form)](https://technet.microsoft.com/library/aa552566\(v=ax.60\))
 
   
 

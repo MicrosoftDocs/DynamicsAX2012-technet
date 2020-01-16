@@ -2,8 +2,9 @@
 title: (EEUR) Create and copy report cells
 TOCTitle: (EEUR) Create and copy report cells
 ms:assetid: 3f32622b-a725-4869-b4f6-1da2c6618aa7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910972(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ910972(v=AX.60)
 ms:contentKeyID: 52075296
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -142,9 +143,9 @@ In the **Period** and **Data** fields on the **General** tab in the **Report** f
 
 ## See also
 
-[(EEUR) Field setup (form)](https://technet.microsoft.com/en-us/library/jj910976\(v=ax.60\))
+[(EEUR) Field setup (form)](https://technet.microsoft.com/library/jj910976\(v=ax.60\))
 
-[(EEUR) Financial report generator parameters copying (form)](https://technet.microsoft.com/en-us/library/jj911006\(v=ax.60\))
+[(EEUR) Financial report generator parameters copying (form)](https://technet.microsoft.com/library/jj911006\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Export baseline element IDs
 TOCTitle: Export baseline element IDs
 ms:assetid: 58661815-619c-43a1-9c22-6fc0332b8a04
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497766(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497766(v=AX.60)
 ms:contentKeyID: 62200023
+author: Khairunj
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 ---

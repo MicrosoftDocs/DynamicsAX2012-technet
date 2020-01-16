@@ -2,8 +2,9 @@
 title: (EEUR) Post the pre-acquisition and acquisition of a fixed asset
 TOCTitle: (EEUR) Post the pre-acquisition and acquisition of a fixed asset
 ms:assetid: ee60e228-4ff3-493c-869e-77e627def734
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ714484(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ714484(v=AX.60)
 ms:contentKeyID: 49651581
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,13 +30,13 @@ To post pre-acquisitions, verify the following prerequisites:
 
 1.  Click **Fixed assets** \> **Journals** \> **Fixed assets**.
 
-2.  Click **New** to create a journal, and then enter the required information. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+2.  Click **New** to create a journal, and then enter the required information. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
 3.  Click **Lines** to open the **Journal voucher** form.
 
 4.  Click **New** to create a line. In the **Transaction type** field, select a transaction that has the **Pre-Acquisition** transaction type.
 
-5.  Specify values for the remaining fields. For more information, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\)).
+5.  Specify values for the remaining fields. For more information, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/library/aa620564\(v=ax.60\)).
 
 6.  Click **Validate** to validate the journal lines.
 
@@ -49,13 +50,13 @@ To post pre-acquisitions, verify the following prerequisites:
 
 1.  Click **Fixed assets** \> **Common** \> **Fixed assets** \> **Fixed assets**.
 
-2.  Click **New** to create a journal, and then enter the required information. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+2.  Click **New** to create a journal, and then enter the required information. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
 3.  Click **Lines** to open the **Journal voucher** form.
 
 4.  Click **New** to create a line. In the **Transaction type** field, select a transaction that has the **Acquisition** transaction type.
 
-5.  Specify values for the remaining fields. For more information, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\)).
+5.  Specify values for the remaining fields. For more information, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/library/aa620564\(v=ax.60\)).
 
 6.  Click **Validate** to validate the journal.
 

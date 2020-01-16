@@ -2,8 +2,9 @@
 title: Financial consolidations and currency translation
 TOCTitle: Financial consolidations and currency translation
 ms:assetid: e1962b70-c31b-4f2e-b128-d4a67948563e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn602551(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn602551(v=AX.60)
 ms:contentKeyID: 61072326
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

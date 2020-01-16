@@ -2,8 +2,9 @@
 title: Fixed assets license code (Asset)
 TOCTitle: Fixed assets license code (Asset)
 ms:assetid: dea9469a-640a-436b-a1f4-147d218c3625
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500162(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500162(v=AX.60)
 ms:contentKeyID: 37820193
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -55,7 +56,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

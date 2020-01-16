@@ -2,8 +2,9 @@
 title: (EEUR) Generate financial reports
 TOCTitle: (EEUR) Generate financial reports
 ms:assetid: 13c03b3d-4462-47c1-a1ee-274f80a6d3cf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910961(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ910961(v=AX.60)
 ms:contentKeyID: 52075291
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ When the report is generated, cell values are calculated for the selected period
 
 ## See also
 
-[(EEUR) Base date (form)](https://technet.microsoft.com/en-us/library/jj910978\(v=ax.60\))
+[(EEUR) Base date (form)](https://technet.microsoft.com/library/jj910978\(v=ax.60\))
 
   
 

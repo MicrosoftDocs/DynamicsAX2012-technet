@@ -1,9 +1,10 @@
-﻿---
+---
 title: EmployeeClockInOutServiceRequest.IsClockIn Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: IsClockIn Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.EmployeeClockInOutServiceRequest.IsClockIn
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.employeeclockinoutservicerequest.isclockin(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.employeeclockinoutservicerequest.isclockin(v=AX.60)
 ms:contentKeyID: 65319502
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property bool IsClockIn {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

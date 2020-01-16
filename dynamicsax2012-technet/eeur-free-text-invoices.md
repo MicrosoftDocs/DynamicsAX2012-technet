@@ -2,8 +2,9 @@
 title: (EEUR) Free text invoices
 TOCTitle: (EEUR) Free text invoices
 ms:assetid: f298f0b8-481e-4083-af0f-33c4b992e9f9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911242(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911242(v=AX.60)
 ms:contentKeyID: 53382692
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Enter an invoice or transaction for a customer who has a direct debit mandate
 TOCTitle: Enter an invoice or transaction for a customer who has a direct debit mandate
 ms:assetid: 415961d0-df34-47a5-8292-4e1fb798b699
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268414(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268414(v=AX.60)
 ms:contentKeyID: 54916953
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

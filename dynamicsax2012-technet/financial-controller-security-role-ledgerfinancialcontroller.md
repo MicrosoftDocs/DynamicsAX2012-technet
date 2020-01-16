@@ -2,8 +2,9 @@
 title: Financial controller security role (LedgerFinancialController)
 TOCTitle: Financial controller security role (LedgerFinancialController)
 ms:assetid: d4febd5d-c1f5-488f-8767-bf8621e25cfa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527140(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527140(v=AX.60)
 ms:contentKeyID: 37823191
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

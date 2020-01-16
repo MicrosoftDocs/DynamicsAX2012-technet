@@ -2,8 +2,9 @@
 title: 'Examples: Internal controls'
 TOCTitle: 'Examples: Internal controls'
 ms:assetid: b3024402-11fb-4233-ad73-1f8f9dbf48d4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271625(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271625(v=AX.60)
 ms:contentKeyID: 36384257
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

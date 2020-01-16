@@ -2,8 +2,9 @@
 title: 'Examples: Three-way matching policies'
 TOCTitle: 'Examples: Three-way matching policies'
 ms:assetid: 2cd96625-caf1-4f24-a3eb-8ff16c12a87c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh292596(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh292596(v=AX.60)
 ms:contentKeyID: 36655926
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -385,11 +386,11 @@ If approval is required for invoices to be posted with invoice matching discrepa
 
 ## See also
 
-[Invoice matching details (form)](https://technet.microsoft.com/en-us/library/hh209713\(v=ax.60\))
+[Invoice matching details (form)](https://technet.microsoft.com/library/hh209713\(v=ax.60\))
 
-[Matching policy (form)](https://technet.microsoft.com/en-us/library/hh209508\(v=ax.60\))
+[Matching policy (form)](https://technet.microsoft.com/library/hh209508\(v=ax.60\))
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
   
 

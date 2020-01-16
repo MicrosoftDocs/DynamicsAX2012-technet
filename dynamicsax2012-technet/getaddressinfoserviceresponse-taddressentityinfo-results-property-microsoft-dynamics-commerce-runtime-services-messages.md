@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetAddressInfoServiceResponse(TAddressEntityInfo).Results Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: Results Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetAddressInfoServiceResponse`1.Results
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn696951(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn696951(v=AX.60)
 ms:contentKeyID: 62208592
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property ReadOnlyCollection<TAddressEntityInfo>^ Results {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[TAddressEntityInfo](getaddressinfoserviceresponse-taddressentityinfo-class-microsoft-dynamics-commerce-runtime-services-messages.md)\>  
-Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\)).  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[TAddressEntityInfo](getaddressinfoserviceresponse-taddressentityinfo-class-microsoft-dynamics-commerce-runtime-services-messages.md)\>  
+Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/library/ms132474\(v=ax.60\)).  
 
 ## See Also
 

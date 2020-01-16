@@ -2,8 +2,9 @@
 title: (ESP) Open cartera transactions report (CustBillOfExchangeOpenTrans_ES)
 TOCTitle: (ESP) Open cartera transactions report (CustBillOfExchangeOpenTrans_ES)
 ms:assetid: 8e37d1c7-0606-4108-9ada-8ca38692cc88
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220727(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220727(v=AX.60)
 ms:contentKeyID: 36814941
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

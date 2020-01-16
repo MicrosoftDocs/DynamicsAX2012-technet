@@ -2,8 +2,9 @@
 title: Finding, filtering, and sorting records
 TOCTitle: Finding, filtering, and sorting records
 ms:assetid: 4284d9f0-f3a4-4656-bbc7-15e2219b3e67
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496960(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496960(v=AX.60)
 ms:contentKeyID: 36056872
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

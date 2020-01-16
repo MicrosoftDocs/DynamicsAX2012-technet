@@ -2,8 +2,9 @@
 title: Fixed asset lending history report (AssetLendingHistory)
 TOCTitle: Fixed asset lending history report (AssetLendingHistory)
 ms:assetid: 216fdb6d-fea9-4b87-a931-db9f3c463100
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573152(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573152(v=AX.60)
 ms:contentKeyID: 37820208
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

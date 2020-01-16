@@ -2,8 +2,9 @@
 title: Generate, print, and export a traditional financial statement
 TOCTitle: Generate, print, and export a traditional financial statement
 ms:assetid: ca3962e2-c4cc-4372-ac5d-2158cb758421
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572662(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572662(v=AX.60)
 ms:contentKeyID: 36059331
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ To print financial statements, you can use Management Reporter, or you can use t
 
 ## Generate and print a specific traditional financial statement
 
-Complete the following steps to print the selected traditional financial statement. For more information, see [Financial statement report (form)](https://technet.microsoft.com/en-us/library/aa585230\(v=ax.60\)).
+Complete the following steps to print the selected traditional financial statement. For more information, see [Financial statement report (form)](https://technet.microsoft.com/library/aa585230\(v=ax.60\)).
 
 The **Financial statement** form is available only when the **Financial statement (traditional)** configuration key is selected.
 
@@ -97,7 +98,7 @@ The **Financial statement** form is available only when the **Financial statemen
 
 [About traditional financial statements](about-traditional-financial-statements.md)
 
-[Financial statement setup (form)](https://technet.microsoft.com/en-us/library/aa600912\(v=ax.60\))
+[Financial statement setup (form)](https://technet.microsoft.com/library/aa600912\(v=ax.60\))
 
   
 

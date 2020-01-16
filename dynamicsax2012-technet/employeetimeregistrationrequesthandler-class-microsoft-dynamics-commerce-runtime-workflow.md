@@ -1,9 +1,10 @@
-﻿---
+---
 title: EmployeeTimeRegistrationRequestHandler Class (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: EmployeeTimeRegistrationRequestHandler Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Workflow.EmployeeTimeRegistrationRequestHandler
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.employeetimeregistrationrequesthandler(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.employeetimeregistrationrequesthandler(v=AX.60)
 ms:contentKeyID: 62207981
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ public ref class EmployeeTimeRegistrationRequestHandler : public WorkflowRequest
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   [Microsoft.Dynamics.Commerce.Runtime.Workflow.WorkflowRequestHandler](workflowrequesthandler-trequest-tresponse-class-microsoft-dynamics-commerce-runtime-workflow.md)\<[EmployeeTimeRegistrationRequest](employeetimeregistrationrequest-class-microsoft-dynamics-commerce-runtime-messages.md), [EmployeeTimeRegistrationResponse](employeetimeregistrationresponse-class-microsoft-dynamics-commerce-runtime-messages.md)\>  
     Microsoft.Dynamics.Commerce.Runtime.Workflow.EmployeeTimeRegistrationRequestHandler  
 

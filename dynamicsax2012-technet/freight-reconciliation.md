@@ -2,8 +2,9 @@
 title: Freight reconciliation
 TOCTitle: Freight reconciliation
 ms:assetid: e8c5f4fd-2131-4e79-8ab1-cc2a95a7d30c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553210(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553210(v=AX.60)
 ms:contentKeyID: 62200176
+author: Khairunj
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 audience: Application User

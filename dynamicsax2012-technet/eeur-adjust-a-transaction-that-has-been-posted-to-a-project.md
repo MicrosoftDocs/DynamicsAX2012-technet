@@ -2,8 +2,9 @@
 title: (EEUR) Adjust a transaction that has been posted to a project
 TOCTitle: (EEUR) Adjust a transaction that has been posted to a project
 ms:assetid: 2d5c647a-94bc-4484-a12e-fe20a925731d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683247(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ683247(v=AX.60)
 ms:contentKeyID: 49685129
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ Before you can complete the procedures in this topic, you must take the followin
 
 4.  In the **Proj Adjustment Select** form, select a query, enter the selection criteria, and then click **OK**.
     
-    For more information about how to use queries to select records, see [Inquiry (form)](https://technet.microsoft.com/en-us/library/aa575929\(v=ax.60\)). For example, you can use a query to select transactions for a specific project contract or project.
+    For more information about how to use queries to select records, see [Inquiry (form)](https://technet.microsoft.com/library/aa575929\(v=ax.60\)). For example, you can use a query to select transactions for a specific project contract or project.
 
 5.  In the **Select transactions for adjustment** form, click **OK**.
 
@@ -51,15 +52,15 @@ Before you can complete the procedures in this topic, you must take the followin
 
 ## See also
 
-[Create adjustment transactions (class form)](https://technet.microsoft.com/en-us/library/aa634561\(v=ax.60\))
+[Create adjustment transactions (class form)](https://technet.microsoft.com/library/aa634561\(v=ax.60\))
 
-[Adjust transactions (class form) (Project)](https://technet.microsoft.com/en-us/library/aa583326\(v=ax.60\))
+[Adjust transactions (class form) (Project)](https://technet.microsoft.com/library/aa583326\(v=ax.60\))
 
 [Adjust transactions](adjust-transactions.md)
 
-[Adjustments (form)](https://technet.microsoft.com/en-us/library/aa553205\(v=ax.60\))
+[Adjustments (form)](https://technet.microsoft.com/library/aa553205\(v=ax.60\))
 
-[(EEUR) Project management and accounting parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710688\(v=ax.60\))
+[(EEUR) Project management and accounting parameters (modified form)](https://technet.microsoft.com/library/jj710688\(v=ax.60\))
 
   
 

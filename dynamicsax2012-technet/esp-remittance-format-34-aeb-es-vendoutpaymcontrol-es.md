@@ -2,8 +2,9 @@
 title: (ESP) Remittance Format 34 AEB(ES) (VendOutPaymControl_ES)
 TOCTitle: (ESP) Remittance Format 34 AEB(ES) (VendOutPaymControl_ES)
 ms:assetid: 8533dac7-e408-4eb5-b344-1b9e944f323d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496449(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496449(v=AX.60)
 ms:contentKeyID: 37072031
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
