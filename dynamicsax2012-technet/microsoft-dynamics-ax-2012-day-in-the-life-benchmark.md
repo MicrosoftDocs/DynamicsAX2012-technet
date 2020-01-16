@@ -2,8 +2,9 @@
 title: Microsoft Dynamics AX 2012 Day in the Life Benchmark
 TOCTitle: Microsoft Dynamics AX 2012 Day in the Life Benchmark
 ms:assetid: f6030832-b299-42f5-9b8c-7c0fef5a2c71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500191(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500191(v=AX.60)
 ms:contentKeyID: 37820258
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Merge duplicate customer records
 TOCTitle: Merge duplicate customer records
 ms:assetid: d0b4382c-86cc-46dc-88ef-c3a0c175d294
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497831(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497831(v=AX.60)
 ms:contentKeyID: 62279209
+author: Khairunj
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:

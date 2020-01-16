@@ -2,8 +2,9 @@
 title: Prepare currencies for upgrade
 TOCTitle: Prepare currencies for upgrade
 ms:assetid: 8e1a9fea-938d-4aec-af59-7f116d5a17a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731867(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731867(v=AX.60)
 ms:contentKeyID: 35132758
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

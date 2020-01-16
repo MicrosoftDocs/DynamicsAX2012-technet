@@ -2,8 +2,9 @@
 title: Object permissions report (ObjectPermissionsReport)
 TOCTitle: Object permissions report (ObjectPermissionsReport)
 ms:assetid: c04a5296-6454-4366-99dc-2c3ecb7993ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692476(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692476(v=AX.60)
 ms:contentKeyID: 41702373
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

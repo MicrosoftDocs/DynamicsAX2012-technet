@@ -2,8 +2,9 @@
 title: " master data"
 TOCTitle: " master data"
 ms:assetid: DynamicsAXGlossary.1354393
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1354393(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1354393(v=AX.60)
 ms:contentKeyID: 36056454
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -22,7 +23,7 @@ Entities that describe the parties, locations, products, and activities that are
 
 [location](location.md)
 
-[party](https://technet.microsoft.com/en-us/library/hh208669\(v=ax.60\))
+[party](https://technet.microsoft.com/library/hh208669\(v=ax.60\))
 
 [product](product.md)
 

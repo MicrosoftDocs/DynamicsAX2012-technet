@@ -2,8 +2,9 @@
 title: Prepare a credit note
 TOCTitle: Prepare a credit note
 ms:assetid: 8508b8d6-4273-4879-81ce-e67b0cd07961
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271586(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271586(v=AX.60)
 ms:contentKeyID: 36384217
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

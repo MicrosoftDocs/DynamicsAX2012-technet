@@ -2,8 +2,9 @@
 title: Process closing transactions overview
 TOCTitle: Process closing transactions overview
 ms:assetid: 43fef7df-d205-470f-992e-ec0d3e8bf70f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231374(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231374(v=AX.60)
 ms:contentKeyID: 36056882
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

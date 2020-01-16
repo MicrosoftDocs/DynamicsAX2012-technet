@@ -2,8 +2,9 @@
 title: (POL) Set up bank parameters
 TOCTitle: (POL) Set up bank parameters
 ms:assetid: fd4779fa-5942-405a-bed5-bd3a76f3fb46
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711337(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711337(v=AX.60)
 ms:contentKeyID: 49387154
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,9 +42,9 @@ You can set up a method to calculate exchange rate differences in the **Cash and
 
 ## See also
 
-[(POL) Cash and bank management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj711286\(v=ax.60\))
+[(POL) Cash and bank management parameters (modified form)](https://technet.microsoft.com/library/jj711286\(v=ax.60\))
 
-[Cash and bank management parameters (form)](https://technet.microsoft.com/en-us/library/aa591289\(v=ax.60\))
+[Cash and bank management parameters (form)](https://technet.microsoft.com/library/aa591289\(v=ax.60\))
 
 [(POL) Set up ledger accounts for posting currency exchange differences](pol-set-up-ledger-accounts-for-posting-currency-exchange-differences.md)
 

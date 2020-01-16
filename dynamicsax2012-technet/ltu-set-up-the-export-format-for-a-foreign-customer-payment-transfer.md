@@ -2,8 +2,9 @@
 title: (LTU) Set up the export format for a foreign customer payment transfer
 TOCTitle: (LTU) Set up the export format for a foreign customer payment transfer
 ms:assetid: 504e3887-8581-42fb-ab93-9243c4f764bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665079(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665079(v=AX.60)
 ms:contentKeyID: 49386661
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ Users in Lithuania can use the LITAS system to export foreign customer payments 
 
 ## See also
 
-[(LTU) Customer methods of payment (modified form)](https://technet.microsoft.com/en-us/library/jj665101\(v=ax.60\))
+[(LTU) Customer methods of payment (modified form)](https://technet.microsoft.com/library/jj665101\(v=ax.60\))
 
   
 

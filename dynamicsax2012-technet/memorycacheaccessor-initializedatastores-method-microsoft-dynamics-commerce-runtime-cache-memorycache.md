@@ -1,9 +1,10 @@
-﻿---
+---
 title: MemoryCacheAccessor.InitializeDataStores Method  (Microsoft.Dynamics.Commerce.Runtime.Cache.MemoryCache)
 TOCTitle: InitializeDataStores Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Cache.MemoryCache.MemoryCacheAccessor.InitializeDataStores
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.cache.memorycache.memorycacheaccessor.initializedatastores(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.cache.memorycache.memorycacheaccessor.initializedatastores(v=AX.60)
 ms:contentKeyID: 65322423
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ virtual Lazy<Dictionary<DataStoreType, IDataStore^>^>^ InitializeDataStores() se
 
 #### Return Value
 
-Type: Lazy\<[Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<[DataStoreType](datastoretype-enumeration-microsoft-dynamics-commerce-runtime-data.md), [IDataStore](idatastore-interface-microsoft-dynamics-commerce-runtime-data.md)\>\>  
+Type: Lazy\<[Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<[DataStoreType](datastoretype-enumeration-microsoft-dynamics-commerce-runtime-data.md), [IDataStore](idatastore-interface-microsoft-dynamics-commerce-runtime-data.md)\>\>  
 An instance of the data store manager object.  
 
 #### Implements

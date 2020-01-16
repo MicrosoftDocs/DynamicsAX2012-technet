@@ -2,8 +2,9 @@
 title: Manage retail product catalogs overview
 TOCTitle: Manage retail product catalogs overview
 ms:assetid: 047500ac-4c6d-4afb-a16f-f9825748a3f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728671(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728671(v=AX.60)
 ms:contentKeyID: 49556579
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,22 +55,22 @@ The following table lists the forms that support the retail product catalogs bus
 <tbody>
 <tr class="odd">
 <td><p>Create retail product catalogs.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj728723(v=ax.60)">Catalogs (form) (Retail)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj728723(v=ax.60)">Catalogs (form) (Retail)</a></p></td>
 <td><p>Create a retail product catalog, assign online stores to it, and enhance the product offerings by adding attribute data.</p></td>
 </tr>
 <tr class="even">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj728734(v=ax.60)">Listings (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj728734(v=ax.60)">Listings (form)</a></p></td>
 <td><p>View the product listings that are created, modified or deleted for an online store.</p></td>
 </tr>
 <tr class="odd">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj728730(v=ax.60)">Publish catalog (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj728730(v=ax.60)">Publish catalog (form)</a></p></td>
 <td><p>Publish the catalog to the online stores.</p></td>
 </tr>
 <tr class="even">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj728739(v=ax.60)">Validate catalog (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj728739(v=ax.60)">Validate catalog (form)</a></p></td>
 <td><p>Run the catalog validation process to verify that all the required catalog data is complete.</p></td>
 </tr>
 </tbody>

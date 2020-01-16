@@ -2,8 +2,9 @@
 title: Procurement catalogs configuration keys (ProcCatalog)
 TOCTitle: Procurement catalogs configuration keys (ProcCatalog)
 ms:assetid: 8876977b-d9c4-4ab4-8ab7-61a7a501b200
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433461(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433461(v=AX.60)
 ms:contentKeyID: 36941215
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,31 +38,31 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Procurement catalogs</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227514(v=ax.60)">Procurement catalogs (list page)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227514(v=ax.60)">Procurement catalogs (list page)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>External catalogs</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208570(v=ax.60)">External catalogs (list page)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208570(v=ax.60)">External catalogs (list page)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Catalogs</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209683(v=ax.60)">Catalogs (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209683(v=ax.60)">Catalogs (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Catalog policy rule</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242247(v=ax.60)">Catalog policy rule (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242247(v=ax.60)">Catalog policy rule (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>External catalog links</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227381(v=ax.60)">Add new external catalog link (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227381(v=ax.60)">Add new external catalog link (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Add products</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208984(v=ax.60)">Add products (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208984(v=ax.60)">Add products (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Add new vendors</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209492(v=ax.60)">Add new vendors (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209492(v=ax.60)">Add new vendors (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -99,7 +100,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

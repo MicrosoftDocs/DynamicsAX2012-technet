@@ -2,8 +2,9 @@
 title: (POL) Set up customer posting profiles
 TOCTitle: (POL) Set up customer posting profiles
 ms:assetid: 4b7469f5-0e3c-44e4-9b40-671f33f62ce2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678195(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678195(v=AX.60)
 ms:contentKeyID: 49386918
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ You can set up the profiles that control the posting of customer transactions to
 
 1.  Click **Accounts receivable** \> **Setup** \> **Customer posting profiles**.
 
-2.  In the **Customer posting profiles** form, press CTRL+N to create a posting profile, or select an existing posting profile. For more information, see [Customer posting profiles (form)](https://technet.microsoft.com/en-us/library/aa600572\(v=ax.60\)).
+2.  In the **Customer posting profiles** form, press CTRL+N to create a posting profile, or select an existing posting profile. For more information, see [Customer posting profiles (form)](https://technet.microsoft.com/library/aa600572\(v=ax.60\)).
 
 3.  On the **Table restrictions** tab, select the **Interest** check box to specify whether interest is calculated on the transaction.
 
@@ -65,7 +66,7 @@ You can set up the profiles that control the posting of customer transactions to
 
 [(POL) View the calculated interest](pol-view-the-calculated-interest.md)
 
-[(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678183\(v=ax.60\))
+[(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj678183\(v=ax.60\))
 
   
 

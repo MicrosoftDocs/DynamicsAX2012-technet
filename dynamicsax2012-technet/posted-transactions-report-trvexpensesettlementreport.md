@@ -2,8 +2,9 @@
 title: Posted transactions report (TRVExpenseSettlementReport)
 TOCTitle: Posted transactions report (TRVExpenseSettlementReport)
 ms:assetid: ad11ccd8-2ef5-48bb-871c-6a51e07e3e48
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh412252(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh412252(v=AX.60)
 ms:contentKeyID: 36916363
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

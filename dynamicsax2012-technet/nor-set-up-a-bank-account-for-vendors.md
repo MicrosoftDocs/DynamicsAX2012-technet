@@ -2,8 +2,9 @@
 title: (NOR) Set up a bank account for vendors
 TOCTitle: (NOR) Set up a bank account for vendors
 ms:assetid: b1b96094-92af-42ce-8a99-394f7fd7bcbb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232397(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232397(v=AX.60)
 ms:contentKeyID: 36058983
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

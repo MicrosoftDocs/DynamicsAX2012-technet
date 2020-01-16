@@ -2,8 +2,9 @@
 title: (POL) Set up overdue debt VAT parameters for VAT journals
 TOCTitle: (POL) Set up overdue debt VAT parameters for VAT journals
 ms:assetid: c22b9e36-df1f-4096-b523-9ae750cb6f9f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716014(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716014(v=AX.60)
 ms:contentKeyID: 62200257
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -66,7 +67,7 @@ To perform this task, follow these steps:
 
 1.  Click **General ledger** \> **Setup** \> **Sales tax** \> **Ledger posting groups**.
 
-2.  Select or create a ledger posting group. For more information, see [Ledger posting groups (form)](https://technet.microsoft.com/en-us/library/aa598801\(v=ax.60\)).
+2.  Select or create a ledger posting group. For more information, see [Ledger posting groups (form)](https://technet.microsoft.com/library/aa598801\(v=ax.60\)).
 
 3.  On the **General** tab, in the **Offset reversed incoming tax** field, select the offset account to post the reversed incoming tax to.
 

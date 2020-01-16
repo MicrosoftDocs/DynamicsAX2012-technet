@@ -2,8 +2,9 @@
 title: Manage store inventory overview (Retail essentials)
 TOCTitle: Manage store inventory overview (Retail essentials)
 ms:assetid: 357769dc-709a-47ba-8612-b51ed3a07e83
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716067(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716067(v=AX.60)
 ms:contentKeyID: 62200322
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

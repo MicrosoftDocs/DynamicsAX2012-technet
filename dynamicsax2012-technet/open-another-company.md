@@ -2,8 +2,9 @@
 title: Open another company
 TOCTitle: Open another company
 ms:assetid: 6ba2e376-432e-4f2b-9318-9ccf649b9a96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571190(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571190(v=AX.60)
 ms:contentKeyID: 37832506
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,13 +34,13 @@ Use one of the following two methods to open a different legal entity.
 
 ## See also
 
-[Select company accounts (form)](https://technet.microsoft.com/en-us/library/aa573342\(v=ax.60\))
+[Select company accounts (form)](https://technet.microsoft.com/library/aa573342\(v=ax.60\))
 
 [About organizations and organizational hierarchies](about-organizations-and-organizational-hierarchies.md)
 
 [Create or modify a legal entity](create-or-modify-a-legal-entity.md)
 
-[Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
+[Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\))
 
   
 

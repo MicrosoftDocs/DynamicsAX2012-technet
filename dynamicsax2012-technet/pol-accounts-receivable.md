@@ -2,8 +2,9 @@
 title: (POL) Accounts receivable
 TOCTitle: (POL) Accounts receivable
 ms:assetid: a40d77c1-b347-454e-a43c-82513b85c49c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678321(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678321(v=AX.60)
 ms:contentKeyID: 49387042
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

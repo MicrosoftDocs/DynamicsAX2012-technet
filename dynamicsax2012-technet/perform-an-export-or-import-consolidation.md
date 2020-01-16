@@ -2,8 +2,9 @@
 title: Perform an export or import consolidation
 TOCTitle: Perform an export or import consolidation
 ms:assetid: 20fa98c9-4c38-4352-b25b-3afde679d7bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496786(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496786(v=AX.60)
 ms:contentKeyID: 37822140
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

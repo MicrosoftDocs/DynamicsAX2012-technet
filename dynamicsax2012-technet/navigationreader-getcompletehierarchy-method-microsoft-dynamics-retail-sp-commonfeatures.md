@@ -1,9 +1,10 @@
-﻿---
+---
 title: NavigationReader.GetCompleteHierarchy Method  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: GetCompleteHierarchy Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.NavigationReader.GetCompleteHierarchy(System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.navigationreader.getcompletehierarchy(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.navigationreader.getcompletehierarchy(v=AX.60)
 ms:contentKeyID: 62205251
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,11 +52,11 @@ static IList<NavigationalCategory^>^ GetCompleteHierarchy(
 #### Parameters
 
   - includeStaticCategories  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[NavigationalCategory](navigationalcategory-class-microsoft-dynamics-retail-sp-commonfeatures.md)\>  
+Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[NavigationalCategory](navigationalcategory-class-microsoft-dynamics-retail-sp-commonfeatures.md)\>  
 List of categories which represent complete navigational hierarchy with all its children.  
 
 ## See Also

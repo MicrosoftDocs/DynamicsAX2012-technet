@@ -2,8 +2,9 @@
 title: (LTU) Set up document self-numbering ranges
 TOCTitle: (LTU) Set up document self-numbering ranges
 ms:assetid: bc3767a6-b98c-4679-976d-74fec54200c5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665174(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665174(v=AX.60)
 ms:contentKeyID: 49386755
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

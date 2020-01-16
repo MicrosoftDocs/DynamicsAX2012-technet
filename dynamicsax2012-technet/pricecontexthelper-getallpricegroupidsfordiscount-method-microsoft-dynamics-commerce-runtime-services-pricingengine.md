@@ -1,9 +1,10 @@
-﻿---
+---
 title: PriceContextHelper.GetAllPriceGroupIdsForDiscount Method  (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine)
 TOCTitle: GetAllPriceGroupIdsForDiscount Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContextHelper.GetAllPriceGroupIdsForDiscount(Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContext)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricecontexthelper.getallpricegroupidsfordiscount(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricecontexthelper.getallpricegroupidsfordiscount(v=AX.60)
 ms:contentKeyID: 62209589
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ static IEnumerable<long long>^ GetAllPriceGroupIdsForDiscount(
 
 #### Return Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 All price groups.  
 
 ## See Also

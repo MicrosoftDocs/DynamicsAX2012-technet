@@ -2,8 +2,9 @@
 title: Migrating project data from other ERP systems
 TOCTitle: Migrating project data from other ERP systems
 ms:assetid: df014439-94cb-41bf-a442-c98663ef614b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227416(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227416(v=AX.60)
 ms:contentKeyID: 36059692
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

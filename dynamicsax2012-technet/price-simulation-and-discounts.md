@@ -2,8 +2,9 @@
 title: Price simulation and discounts
 TOCTitle: Price simulation and discounts
 ms:assetid: 8a1c0dbf-5e00-449b-ac0c-4f5ef8128cce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498237(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498237(v=AX.60)
 ms:contentKeyID: 36058462
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (LVA) Print a statement of cash transactions
 TOCTitle: (LVA) Print a statement of cash transactions
 ms:assetid: 0f58bcbc-6c58-4e15-8115-f56f09871d05
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721447(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ721447(v=AX.60)
 ms:contentKeyID: 49730225
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -83,9 +84,9 @@ Incoming and outgoing payment transactions are categorized and displayed per pay
 
 [(LVA) Set up payment transaction codes](lva-set-up-payment-transaction-codes.md)
 
-[(LVA) Transaction code (form)](https://technet.microsoft.com/en-us/library/jj684600\(v=ax.60\))
+[(LVA) Transaction code (form)](https://technet.microsoft.com/library/jj684600\(v=ax.60\))
 
-[(LVA) Cash transaction reporting (form)](https://technet.microsoft.com/en-us/library/jj721453\(v=ax.60\))
+[(LVA) Cash transaction reporting (form)](https://technet.microsoft.com/library/jj721453\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Manage collaboration workspaces (Sales and marketing)
 TOCTitle: Manage collaboration workspaces (Sales and marketing)
 ms:assetid: 4a83e214-8f50-4195-b8eb-e27234b315e9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208714(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208714(v=AX.60)
 ms:contentKeyID: 36056972
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Order products
 TOCTitle: Order products
 ms:assetid: a75e46dc-6726-4bfb-9d0c-4417d78b8ad4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271619(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271619(v=AX.60)
 ms:contentKeyID: 36384251
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

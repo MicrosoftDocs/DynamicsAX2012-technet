@@ -2,8 +2,9 @@
 title: Mass deployment of the Microsoft Dynamics AX Windows client
 TOCTitle: Mass deployment
 ms:assetid: 6fda1199-2236-4952-9f19-88ff3fdcc92a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309709(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309709(v=AX.60)
 ms:contentKeyID: 37820246
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

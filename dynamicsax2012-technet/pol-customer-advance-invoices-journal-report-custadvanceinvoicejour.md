@@ -2,8 +2,9 @@
 title: (POL) Customer advance invoices journal report (CustAdvanceInvoiceJour)
 TOCTitle: (POL) Customer advance invoices journal report (CustAdvanceInvoiceJour)
 ms:assetid: 0670acd8-c20a-4c15-8873-06164fce5836
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn133208(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn133208(v=AX.60)
 ms:contentKeyID: 53365026
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

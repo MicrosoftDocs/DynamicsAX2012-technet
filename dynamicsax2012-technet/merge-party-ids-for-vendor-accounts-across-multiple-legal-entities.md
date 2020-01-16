@@ -2,8 +2,9 @@
 title: Merge party IDs for vendor accounts across multiple legal entities
 TOCTitle: Merge party IDs for vendor accounts across multiple legal entities
 ms:assetid: cae044de-d4c4-4b36-aeb8-425a332585c5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213660(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213660(v=AX.60)
 ms:contentKeyID: 36059336
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,9 +34,9 @@ If multiple legal entities in your organization do business with the same vendor
 
 ## See also
 
-[Party (form)](https://technet.microsoft.com/en-us/library/hh209008\(v=ax.60\))
+[Party (form)](https://technet.microsoft.com/library/hh209008\(v=ax.60\))
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
 [Merge global address book records](merge-global-address-book-records.md)
 

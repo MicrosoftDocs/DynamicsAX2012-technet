@@ -2,8 +2,9 @@
 title: (LVA) Close bank overview
 TOCTitle: (LVA) Close bank overview
 ms:assetid: 7b690780-d994-456c-a822-57cc06b0d5d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731032(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731032(v=AX.60)
 ms:contentKeyID: 49675270
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

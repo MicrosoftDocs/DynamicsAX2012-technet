@@ -2,8 +2,9 @@
 title: Microsoft Dynamics AX Retail Windows Phone Point of Sale
 TOCTitle: Windows Phone Point of Sale
 ms:assetid: 7ac49af3-c664-4dd0-ab35-0a0f477e0c3f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741448(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741448(v=AX.60)
 ms:contentKeyID: 62219725
+author: Khairunj
 ms.date: 10/26/2016
 mtps_version: v=AX.60
 ---

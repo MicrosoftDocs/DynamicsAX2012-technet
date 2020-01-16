@@ -2,8 +2,9 @@
 title: (POL) Warehouse operations
 TOCTitle: (POL) Warehouse operations
 ms:assetid: 78bc4fe1-ace4-4aaa-ad2f-5e17ae0dea51
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678247(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678247(v=AX.60)
 ms:contentKeyID: 49386969
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

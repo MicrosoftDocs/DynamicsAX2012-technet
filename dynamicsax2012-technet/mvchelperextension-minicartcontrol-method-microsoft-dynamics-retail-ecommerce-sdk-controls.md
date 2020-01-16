@@ -1,9 +1,10 @@
-﻿---
+---
 title: MvcHelperExtension.MiniCartControl Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls)
 TOCTitle: MiniCartControl Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls.MvcHelperExtension.MiniCartControl(System.Web.Mvc.HtmlHelper,System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.controls.mvchelperextension.minicartcontrol(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.controls.mvchelperextension.minicartcontrol(v=AX.60)
 ms:contentKeyID: 65317893
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ static MvcHtmlString^ MiniCartControl(
 <!-- end list -->
 
   - isMobileView  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Return Value
 

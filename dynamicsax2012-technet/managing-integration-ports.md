@@ -1,9 +1,10 @@
-﻿---
+---
 title: Managing integration ports
 TOCTitle: Managing integration ports
 ms:assetid: 2f982b29-bafb-41b3-80ca-9c58ecbd12da
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496471(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496471(v=AX.60)
 ms:contentKeyID: 35132593
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

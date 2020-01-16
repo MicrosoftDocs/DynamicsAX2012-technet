@@ -1,9 +1,10 @@
-﻿---
+---
 title: OrderManager.AddDiscountCodesToCart Method (String, Collection(String)) (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: AddDiscountCodesToCart Method (String, Collection(String))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.AddDiscountCodesToCart(System.String,System.Collections.ObjectModel.Collection{System.String})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.ordermanager.adddiscountcodestocart(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.adddiscountcodestocart(v=AX.60)
 ms:contentKeyID: 65319055
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -53,12 +54,12 @@ Cart^ AddDiscountCodesToCart(
 #### Parameters
 
   - cartId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - discountCodes  
-    Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+    Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/library/ms132397\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 
 #### Return Value
 

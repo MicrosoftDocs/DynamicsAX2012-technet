@@ -2,8 +2,9 @@
 title: Maintain timesheet favorites
 TOCTitle: Maintain timesheet favorites
 ms:assetid: 8815a0ad-49fc-4277-81a1-fae9f2e56990
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209334(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209334(v=AX.60)
 ms:contentKeyID: 36058440
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

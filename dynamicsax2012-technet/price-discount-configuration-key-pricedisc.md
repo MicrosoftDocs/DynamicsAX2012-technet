@@ -2,8 +2,9 @@
 title: Price/discount configuration key (PriceDisc)
 TOCTitle: Price/discount configuration key (PriceDisc)
 ms:assetid: 1597090e-6025-46a2-83c9-c00ed8dfa79d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572359(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572359(v=AX.60)
 ms:contentKeyID: 36997739
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -99,7 +100,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Journal lines, price/discount agreement</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa553463(v=ax.60)">Journal lines, price/discount agreement (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa553463(v=ax.60)">Journal lines, price/discount agreement (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Price/discount groups</strong></p>
@@ -159,23 +160,23 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Activate price/discount</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa575310(v=ax.60)">Activate sales price/discount (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa575310(v=ax.60)">Activate sales price/discount (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Journal lines, price/discount agreement</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa553463(v=ax.60)">Journal lines, price/discount agreement (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa553463(v=ax.60)">Journal lines, price/discount agreement (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Trade agreement journal names</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa634243(v=ax.60)">Trade agreement journal names (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa634243(v=ax.60)">Trade agreement journal names (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Price/discount agreement journals</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa556469(v=ax.60)">Price/discount agreement journals (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa556469(v=ax.60)">Price/discount agreement journals (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Smart rounding</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242522(v=ax.60)">Smart rounding (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242522(v=ax.60)">Smart rounding (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Current prices and discounts</strong></p></td>
@@ -251,7 +252,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

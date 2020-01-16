@@ -2,8 +2,9 @@
 title: (NLD) Set up electronic tax declaration
 TOCTitle: (NLD) Set up electronic tax declaration
 ms:assetid: 2f44db86-7c87-4257-964e-29621a33d647
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231023(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231023(v=AX.60)
 ms:contentKeyID: 36056296
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ Use the **Electronic tax declaration parameters** form to set up electronic tax 
 
 [(NLD) Create, send, and import the ICP tax declaration electronically](nld-create-send-and-import-the-icp-tax-declaration-electronically.md)
 
-[(NLD) Electronic tax declaration parameters (form)](https://technet.microsoft.com/en-us/library/aa582881\(v=ax.60\))
+[(NLD) Electronic tax declaration parameters (form)](https://technet.microsoft.com/library/aa582881\(v=ax.60\))
 
   
 

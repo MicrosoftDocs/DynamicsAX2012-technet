@@ -2,8 +2,9 @@
 title: Pay agreements for time and attendance
 TOCTitle: Pay agreements for time and attendance
 ms:assetid: b90956c0-8dfb-4c12-a3d0-03f14babcfe1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498844(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498844(v=AX.60)
 ms:contentKeyID: 36059114
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: PricingServiceBase Class (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: PricingServiceBase Class
 ms:assetid: T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.PricingServiceBase
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.pricingservicebase(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.pricingservicebase(v=AX.60)
 ms:contentKeyID: 65316601
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ public ref class PricingServiceBase abstract : public ServiceBase<PricingControl
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceBase](servicebase-t-class-microsoft-dynamics-retail-ecommerce-sdk-services.md)\<[PricingController](pricingcontroller-class-microsoft-dynamics-retail-ecommerce-sdk-core-controllers.md)\>  
     Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.PricingServiceBase  
 

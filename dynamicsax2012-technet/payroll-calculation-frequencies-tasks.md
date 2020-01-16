@@ -2,8 +2,9 @@
 title: Payroll calculation frequencies tasks
 TOCTitle: Payroll calculation frequencies tasks
 ms:assetid: de11c019-c79c-4a0a-a04a-f767fe11e871
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677367(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677367(v=AX.60)
 ms:contentKeyID: 49384143
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

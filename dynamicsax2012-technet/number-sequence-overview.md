@@ -2,8 +2,9 @@
 title: Number sequence overview
 TOCTitle: Number sequence overview
 ms:assetid: a2913331-a267-44db-94f9-f35ce3318796
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209457(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209457(v=AX.60)
 ms:contentKeyID: 36058801
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -199,7 +200,7 @@ Carefully consider server usage when you plan the cleanup process. We recommend 
 
 ## See also
 
-[Number sequences (form)](https://technet.microsoft.com/en-us/library/hh209531\(v=ax.60\))
+[Number sequences (form)](https://technet.microsoft.com/library/hh209531\(v=ax.60\))
 
   
 

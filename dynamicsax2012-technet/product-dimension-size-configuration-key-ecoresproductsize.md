@@ -2,8 +2,9 @@
 title: Product dimension - size configuration key (EcoResProductSize)
 TOCTitle: Product dimension - size configuration key (EcoResProductSize)
 ms:assetid: d2382637-6026-4e50-aead-467338a07c20
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa599456(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa599456(v=AX.60)
 ms:contentKeyID: 36993555
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -62,7 +63,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

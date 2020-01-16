@@ -2,8 +2,9 @@
 title: Process manufacturing logistics license code (ProcessIndustriesDistribution)
 TOCTitle: Process manufacturing logistics license code (ProcessIndustriesDistribution)
 ms:assetid: beef7547-d144-44b1-b305-be4ff1a3bdd0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496431(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496431(v=AX.60)
 ms:contentKeyID: 37072011
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

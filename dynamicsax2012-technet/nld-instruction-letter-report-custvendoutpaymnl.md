@@ -2,8 +2,9 @@
 title: (NLD) Instruction letter report (CustVendOutPaymNL)
 TOCTitle: (NLD) Instruction letter report (CustVendOutPaymNL)
 ms:assetid: 39a9177b-3c62-47d1-9bfd-63af73d0cb45
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692462(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692462(v=AX.60)
 ms:contentKeyID: 41702358
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -132,7 +133,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/en-us/library/aa556141\(v=ax.60\))
+[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/library/aa556141\(v=ax.60\))
 
   
 

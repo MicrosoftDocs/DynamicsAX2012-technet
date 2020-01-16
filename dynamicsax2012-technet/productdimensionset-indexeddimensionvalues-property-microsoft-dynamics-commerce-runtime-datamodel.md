@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductDimensionSet.IndexedDimensionValues Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: IndexedDimensionValues Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductDimensionSet.IndexedDimensionValues
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productdimensionset.indexeddimensionvalues(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productdimensionset.indexeddimensionvalues(v=AX.60)
 ms:contentKeyID: 62206704
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property Dictionary<String^, ISet<long long>^>^ IndexedDimensionValues {
 
 #### Property Value
 
-Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)), [ISet](https://technet.microsoft.com/en-us/library/dd412081\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>\>  
-Returns [Dictionary\<TKey, TValue\>](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\)).  
+Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)), [ISet](https://technet.microsoft.com/library/dd412081\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>\>  
+Returns [Dictionary\<TKey, TValue\>](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\)).  
 
 ## See Also
 

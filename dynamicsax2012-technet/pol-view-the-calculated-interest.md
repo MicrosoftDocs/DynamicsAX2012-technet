@@ -2,8 +2,9 @@
 title: (POL) View the calculated interest
 TOCTitle: (POL) View the calculated interest
 ms:assetid: bc880d12-dc52-4eb8-865d-e4643d532dda
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711252(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711252(v=AX.60)
 ms:contentKeyID: 49387070
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -55,9 +56,9 @@ Use this form to view, modify, print and post interest notes for all customers o
 
 [(POL) Post and print an interest note](pol-post-and-print-an-interest-note.md)
 
-[(POL) Interest calculation (modified form)](https://technet.microsoft.com/en-us/library/jj678208\(v=ax.60\))
+[(POL) Interest calculation (modified form)](https://technet.microsoft.com/library/jj678208\(v=ax.60\))
 
-[(POL) Interest note (modified form)](https://technet.microsoft.com/en-us/library/jj711247\(v=ax.60\))
+[(POL) Interest note (modified form)](https://technet.microsoft.com/library/jj711247\(v=ax.60\))
 
   
 

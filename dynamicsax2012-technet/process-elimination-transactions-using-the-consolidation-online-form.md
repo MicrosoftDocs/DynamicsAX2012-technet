@@ -2,8 +2,9 @@
 title: Process elimination transactions using the Consolidation, Online form
 TOCTitle: Process elimination transactions using the Consolidation, Online form
 ms:assetid: 69a51a3c-0a21-4a0a-b750-42672ebfea67
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231580(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231580(v=AX.60)
 ms:contentKeyID: 36057972
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ You must create an elimination rule before you create elimination transactions. 
 
 ## See also
 
-[Consolidate (form)](https://technet.microsoft.com/en-us/library/aa618539\(v=ax.60\))
+[Consolidate (form)](https://technet.microsoft.com/library/aa618539\(v=ax.60\))
 
   
 

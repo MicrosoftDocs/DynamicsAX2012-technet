@@ -2,8 +2,9 @@
 title: (LTU) Change the sales invoice dependency to the invoice register
 TOCTitle: (LTU) Change the sales invoice dependency to the invoice register
 ms:assetid: df422740-a70e-498d-bae2-699922de2b9d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665212(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665212(v=AX.60)
 ms:contentKeyID: 49386794
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ If a posted invoice must not be included in the invoice register, change the dep
 
 ## See also
 
-[(LTU) Sales invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj665121\(v=ax.60\))
+[(LTU) Sales invoice journal (modified form)](https://technet.microsoft.com/library/jj665121\(v=ax.60\))
 
   
 

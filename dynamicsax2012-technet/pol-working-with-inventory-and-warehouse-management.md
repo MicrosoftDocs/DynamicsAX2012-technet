@@ -2,8 +2,9 @@
 title: (POL) Working with Inventory and warehouse management
 TOCTitle: (POL) Working with Inventory and warehouse management
 ms:assetid: a316cc6e-0004-4ca7-9b26-b1ffc27d5372
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678319(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678319(v=AX.60)
 ms:contentKeyID: 49387041
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

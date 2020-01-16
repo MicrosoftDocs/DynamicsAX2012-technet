@@ -2,8 +2,9 @@
 title: (POL) Create and print a correction note
 TOCTitle: (POL) Create and print a correction note
 ms:assetid: dba55c58-af0b-45fe-a585-f55f140e6475
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711301(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711301(v=AX.60)
 ms:contentKeyID: 49387119
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ A correction note is a document that you can use to notify a vendor about errors
 
 ## See also
 
-[(POL) Correction notes (form)](https://technet.microsoft.com/en-us/library/jj678138\(v=ax.60\))
+[(POL) Correction notes (form)](https://technet.microsoft.com/library/jj678138\(v=ax.60\))
 
 [Number sequence overview](number-sequence-overview.md)
 

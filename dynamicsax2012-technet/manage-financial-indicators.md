@@ -2,8 +2,9 @@
 title: Manage financial indicators
 TOCTitle: Manage financial indicators
 ms:assetid: 36792bee-81bc-4a79-8d01-2929ded5edbd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677297(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677297(v=AX.60)
 ms:contentKeyID: 49384068
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ Financial Indicator List web parts display financial calculations and compare th
 
 ## Add the Financial Indicator List web part to a page
 
-To add the Financial Indicator List web part to a page, follow the steps in [How to: Add Web Parts](https://technet.microsoft.com/en-us/library/cc604931\(v=ax.60\)).
+To add the Financial Indicator List web part to a page, follow the steps in [How to: Add Web Parts](https://technet.microsoft.com/library/cc604931\(v=ax.60\)).
 
 After you add the Financial Indicator List web part to a page, the name of the web part is **Business overview**. The Financial Indicator List web part is a version of the Business Overview web part that is preconfigured to display financial indicators and budgeted values. You can change the name of the web part when you configure it by using the following procedure.
 

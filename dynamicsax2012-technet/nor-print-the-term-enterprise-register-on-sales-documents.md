@@ -2,8 +2,9 @@
 title: (NOR) Print the term “Enterprise register” on sales documents
 TOCTitle: (NOR) Print the term “Enterprise register” on sales documents
 ms:assetid: 93482b33-2d8a-4303-8895-fd3e4ee3f496
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304979(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304979(v=AX.60)
 ms:contentKeyID: 54899953
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

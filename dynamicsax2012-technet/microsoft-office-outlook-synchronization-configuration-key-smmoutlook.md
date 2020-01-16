@@ -2,8 +2,9 @@
 title: Microsoft Office Outlook Synchronization configuration key (smmOutlook)
 TOCTitle: Microsoft Office Outlook Synchronization configuration key (smmOutlook)
 ms:assetid: 51759963-e5a9-4333-b3ed-ad3595b63868
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa576651(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa576651(v=AX.60)
 ms:contentKeyID: 36956677
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,31 +34,31 @@ The **Microsoft Outlook synchronization** configuration key allows you to synchr
 <tbody>
 <tr class="odd">
 <td><p><strong>Microsoft Outlook parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209649(v=ax.60)">Microsoft Office Outlook synchronization parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209649(v=ax.60)">Microsoft Office Outlook synchronization parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Microsoft Outlook mapping</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa597537(v=ax.60)">Microsoft Dynamics AX to Microsoft Outlook mapping (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa597537(v=ax.60)">Microsoft Dynamics AX to Microsoft Outlook mapping (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Microsoft Outlook setup wizard</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa584155(v=ax.60)">Microsoft Outlook setup wizard (class form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa584155(v=ax.60)">Microsoft Outlook setup wizard (class form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Microsoft Outlook administration</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa550771(v=ax.60)">Microsoft Outlook administration (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa550771(v=ax.60)">Microsoft Outlook administration (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>My contacts</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa554281(v=ax.60)">My contacts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa554281(v=ax.60)">My contacts (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Recurrence pattern</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa584969(v=ax.60)">Recurrence pattern (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa584969(v=ax.60)">Recurrence pattern (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Synchronize</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598437(v=ax.60)">Synchronize (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598437(v=ax.60)">Synchronize (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -95,7 +96,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

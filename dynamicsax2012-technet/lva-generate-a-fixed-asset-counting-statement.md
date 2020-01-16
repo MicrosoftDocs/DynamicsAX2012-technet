@@ -2,8 +2,9 @@
 title: (LVA) Generate a fixed asset counting statement
 TOCTitle: (LVA) Generate a fixed asset counting statement
 ms:assetid: c92f23a1-ec39-4bd0-be49-f1a6e967d197
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853416(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853416(v=AX.60)
 ms:contentKeyID: 50396785
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,7 +62,7 @@ The fixed asset counting statement displays the number of acquired fixed assets 
 
 ## See also
 
-[Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\))
+[Journal voucher - Fixed assets (form)](https://technet.microsoft.com/library/aa620564\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Price simulation
 TOCTitle: Price simulation
 ms:assetid: cf4de4e8-e145-4eda-8518-5463c2172b42
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550974(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550974(v=AX.60)
 ms:contentKeyID: 36059478
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

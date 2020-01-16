@@ -2,8 +2,9 @@
 title: Product receipt report (PurchPackingSlip)
 TOCTitle: Product receipt report (PurchPackingSlip)
 ms:assetid: 54eeaf09-b0b9-4a8a-bb55-1efe209830b0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209404(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209404(v=AX.60)
 ms:contentKeyID: 36058649
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

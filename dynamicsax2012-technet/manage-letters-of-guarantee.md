@@ -2,8 +2,9 @@
 title: Manage letters of guarantee
 TOCTitle: Manage letters of guarantee
 ms:assetid: c1370884-7024-4a16-b867-6d58d4cf4ab7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242831(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242831(v=AX.60)
 ms:contentKeyID: 36059270
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

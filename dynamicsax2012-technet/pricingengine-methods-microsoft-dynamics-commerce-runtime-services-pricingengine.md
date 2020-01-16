@@ -1,9 +1,10 @@
-﻿---
+---
 title: PricingEngine Methods (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine)
 TOCTitle: PricingEngine Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PricingEngine
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricingengine_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricingengine_methods(v=AX.60)
 ms:contentKeyID: 49854022
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

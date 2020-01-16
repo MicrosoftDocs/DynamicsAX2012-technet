@@ -1,9 +1,10 @@
-﻿---
+---
 title: PriceContextHelper.GetItemIds Method (SalesTransaction) (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine)
 TOCTitle: GetItemIds Method (SalesTransaction)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContextHelper.GetItemIds(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricecontexthelper.getitemids(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricecontexthelper.getitemids(v=AX.60)
 ms:contentKeyID: 62214433
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -53,7 +54,7 @@ static ISet<String^>^ GetItemIds(
 
 #### Return Value
 
-Type: [System.Collections.Generic.ISet](https://technet.microsoft.com/en-us/library/dd412081\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+Type: [System.Collections.Generic.ISet](https://technet.microsoft.com/library/dd412081\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 Set of item Ids.  
 
 ## See Also

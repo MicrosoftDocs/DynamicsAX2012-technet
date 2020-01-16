@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductAvailableQuantity.AvailableQuantity Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: AvailableQuantity Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductAvailableQuantity.AvailableQuantity
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productavailablequantity.availablequantity(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productavailablequantity.availablequantity(v=AX.60)
 ms:contentKeyID: 62214426
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,8 +58,8 @@ property Decimal AvailableQuantity {
 
 #### Property Value
 
-Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
-Returns [Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\)).  
+Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
+Returns [Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\)).  
 
 ## See Also
 

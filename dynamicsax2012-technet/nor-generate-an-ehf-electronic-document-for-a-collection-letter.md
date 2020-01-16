@@ -2,8 +2,9 @@
 title: (NOR) Generate an EHF electronic document for a collection letter
 TOCTitle: (NOR) Generate an EHF electronic document for a collection letter
 ms:assetid: 1c94ddef-2a1c-454f-9806-708c8fbd0b5e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304969(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304969(v=AX.60)
 ms:contentKeyID: 54899947
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

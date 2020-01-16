@@ -2,8 +2,9 @@
 title: Maintain your personal information
 TOCTitle: Maintain your personal information
 ms:assetid: e3217168-2611-43c2-95dd-067fe374d213
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271678(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271678(v=AX.60)
 ms:contentKeyID: 36384309
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

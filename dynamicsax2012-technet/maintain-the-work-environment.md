@@ -2,8 +2,9 @@
 title: Maintain the work environment
 TOCTitle: Maintain the work environment
 ms:assetid: f0d16999-0003-40b1-ae13-65eea94c94bd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243271(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243271(v=AX.60)
 ms:contentKeyID: 36676418
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

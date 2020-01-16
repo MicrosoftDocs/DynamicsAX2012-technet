@@ -2,8 +2,9 @@
 title: Manage organization information for workers overview
 TOCTitle: Manage organization information for workers overview
 ms:assetid: a40b53fd-4520-439b-b436-5ce2258af627
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213407(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213407(v=AX.60)
 ms:contentKeyID: 44431619
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,37 +54,37 @@ The following table lists the forms that support the manage organization busines
 <tbody>
 <tr class="odd">
 <td><p>Maintain organizational elements</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583572(v=ax.60)">Application statistics (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583572(v=ax.60)">Application statistics (form)</a></p></td>
 <td><p>Generate statistics about recruiting.</p></td>
 </tr>
 <tr class="even">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585337(v=ax.60)">Course statistics (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585337(v=ax.60)">Course statistics (form)</a></p></td>
 <td><p>Generate statistics about course participants.</p></td>
 </tr>
 <tr class="odd">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590083(v=ax.60)">Jobs (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590083(v=ax.60)">Jobs (form)</a></p></td>
 <td><p>Maintain the jobs in your company.</p></td>
 </tr>
 <tr class="even">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208817(v=ax.60)">Operating units (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208817(v=ax.60)">Operating units (form)</a></p></td>
 <td><p>Maintain the departments in your company.</p></td>
 </tr>
 <tr class="odd">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590982(v=ax.60)">Positions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590982(v=ax.60)">Positions (form)</a></p></td>
 <td><p>Maintain the positions in your company.</p></td>
 </tr>
 <tr class="even">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa572318(v=ax.60)">Total (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa572318(v=ax.60)">Total (form)</a></p></td>
 <td><p>View the number of workers and vacant positions within your organization.</p></td>
 </tr>
 <tr class="odd">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa500798(v=ax.60)">Worker distribution statistics (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa500798(v=ax.60)">Worker distribution statistics (form)</a></p></td>
 <td><p>Generate worker statistics, such as the number of workers per department.</p></td>
 </tr>
 <tr class="even">
@@ -93,7 +94,7 @@ The following table lists the forms that support the manage organization busines
 </tr>
 <tr class="odd">
 <td><p>Manage work environment</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209584(v=ax.60)">Accommodations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209584(v=ax.60)">Accommodations (form)</a></p></td>
 <td><p>Enter information about requirements for physical activity, visual acuity, or working conditions related to a specific position.</p></td>
 </tr>
 <tr class="even">
@@ -103,7 +104,7 @@ The following table lists the forms that support the manage organization busines
 </tr>
 <tr class="odd">
 <td><p>Loan company equipment</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa500857(v=ax.60)">Loan (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa500857(v=ax.60)">Loan (form)</a></p></td>
 <td><p>Maintain records of company-owned property that people borrow.</p></td>
 </tr>
 <tr class="even">
@@ -113,7 +114,7 @@ The following table lists the forms that support the manage organization busines
 </tr>
 <tr class="odd">
 <td><p>Manage teams</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209425(v=ax.60)">Manage teams (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209425(v=ax.60)">Manage teams (form)</a></p></td>
 <td><p>Create and maintain teams in your company.</p></td>
 </tr>
 <tr class="even">
@@ -123,12 +124,12 @@ The following table lists the forms that support the manage organization busines
 </tr>
 <tr class="odd">
 <td><p>Offboard workers</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa588994(v=ax.60)">Leave (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa588994(v=ax.60)">Leave (form)</a></p></td>
 <td><p>Track leaves of absence by workers.</p></td>
 </tr>
 <tr class="even">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587573(v=ax.60)">Retirement (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587573(v=ax.60)">Retirement (form)</a></p></td>
 <td><p>Enter retirement information for an employee.</p></td>
 </tr>
 </tbody>

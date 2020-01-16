@@ -2,8 +2,9 @@
 title: On-account invoice schedule report (ProjOnAccountInvoicePlan)
 TOCTitle: On-account invoice schedule report (ProjOnAccountInvoicePlan)
 ms:assetid: 98fb1054-9eba-40f2-a9b8-a470f4ad38b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa588131(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa588131(v=AX.60)
 ms:contentKeyID: 37820222
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

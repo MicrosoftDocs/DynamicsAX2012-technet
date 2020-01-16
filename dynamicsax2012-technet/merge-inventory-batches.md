@@ -2,8 +2,9 @@
 title: Merge inventory batches
 TOCTitle: Merge inventory batches
 ms:assetid: aafee3e6-dcba-480e-83c4-f79aef7830dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn505745(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn505745(v=AX.60)
 ms:contentKeyID: 59604020
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

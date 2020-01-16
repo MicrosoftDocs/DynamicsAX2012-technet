@@ -1,9 +1,10 @@
-﻿---
+---
 title: NonSaleTenderOperationDataManager.Save Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: Save Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.NonSaleTenderOperationDataManager.Save
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.nonsaletenderoperationdatamanager.save(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.nonsaletenderoperationdatamanager.save(v=AX.60)
 ms:contentKeyID: 62202478
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

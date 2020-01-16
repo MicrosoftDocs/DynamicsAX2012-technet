@@ -2,8 +2,9 @@
 title: (LTU) Post a purchase invoice with VAT paid by the vendor
 TOCTitle: (LTU) Post a purchase invoice with VAT paid by the vendor
 ms:assetid: b1c5df6d-e734-4c2b-b2cb-cb46dd5cddd6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665166(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665166(v=AX.60)
 ms:contentKeyID: 49386746
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

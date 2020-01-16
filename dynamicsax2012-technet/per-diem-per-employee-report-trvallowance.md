@@ -2,8 +2,9 @@
 title: Per diem per employee report (TrvAllowance)
 TOCTitle: Per diem per employee report (TrvAllowance)
 ms:assetid: f3eb38e1-2946-4d94-9fc9-1751d26f8902
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh394890(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh394890(v=AX.60)
 ms:contentKeyID: 36916373
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

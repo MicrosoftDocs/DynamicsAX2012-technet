@@ -2,8 +2,9 @@
 title: Posted transaction by journal report (LedgerTransPerJournal)
 TOCTitle: Posted transaction by journal report (LedgerTransPerJournal)
 ms:assetid: b24f885a-caa1-4d3d-b659-a48862cb2b9f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh556868(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh556868(v=AX.60)
 ms:contentKeyID: 39509601
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

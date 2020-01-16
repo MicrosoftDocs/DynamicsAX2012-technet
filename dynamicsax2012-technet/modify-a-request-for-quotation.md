@@ -2,8 +2,9 @@
 title: Modify a request for quotation
 TOCTitle: Modify a request for quotation
 ms:assetid: 77b0b7b8-4718-465c-9f25-ba5a60937b09
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212993(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212993(v=AX.60)
 ms:contentKeyID: 36676393
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -211,7 +212,7 @@ Use this procedure to change the requested delivery date on an RFQ header, which
 
 4.  Follow one of these steps:
     
-      - On the **Request for quotation header** FastTab, in the **Delivery date** field, change the date. Depending on how you configure the RFQ form and lines, the delivery date is copied to the RFQ lines. For more information, see [Update request for quotation lines (form)](https://technet.microsoft.com/en-us/library/hh227525\(v=ax.60\)).
+      - On the **Request for quotation header** FastTab, in the **Delivery date** field, change the date. Depending on how you configure the RFQ form and lines, the delivery date is copied to the RFQ lines. For more information, see [Update request for quotation lines (form)](https://technet.microsoft.com/library/hh227525\(v=ax.60\)).
     
       - On the **Request for quotation lines** FastTab, select the line, and then, in the **Delivery date** field, change the date.
 
@@ -253,7 +254,7 @@ Use this procedure to request additional items or information from the vendor or
 
 [About request for quotation statuses](about-request-for-quotation-statuses.md)
 
-[Request for quotation details (form)](https://technet.microsoft.com/en-us/library/hh209669\(v=ax.60\))
+[Request for quotation details (form)](https://technet.microsoft.com/library/hh209669\(v=ax.60\))
 
   
 

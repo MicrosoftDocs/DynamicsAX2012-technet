@@ -2,8 +2,9 @@
 title: (LVA) Enter transport information for a free text invoice
 TOCTitle: (LVA) Enter transport information for a free text invoice
 ms:assetid: 10abdc43-b297-4091-ab83-7e530cc1eb8a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731004(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731004(v=AX.60)
 ms:contentKeyID: 49675245
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,7 +64,7 @@ In the **Free text invoice** form, you can enter additional information about th
 
 ## See also
 
-[(LVA) Transportation details (form)](https://technet.microsoft.com/en-us/library/jj731070\(v=ax.60\))
+[(LVA) Transportation details (form)](https://technet.microsoft.com/library/jj731070\(v=ax.60\))
 
   
 

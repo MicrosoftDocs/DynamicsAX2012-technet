@@ -2,8 +2,9 @@
 title: (NOR) Set up error codes for eInvoices
 TOCTitle: (NOR) Set up error codes for eInvoices
 ms:assetid: 26f72c13-f3a6-4e18-984f-645e3c37d397
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231001(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231001(v=AX.60)
 ms:contentKeyID: 36056205
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Error codes are used to determine the reason for rejecting an eInvoice enrollmen
 
 ## See also
 
-[Error codes (form)](https://technet.microsoft.com/en-us/library/hh208978\(v=ax.60\))
+[Error codes (form)](https://technet.microsoft.com/library/hh208978\(v=ax.60\))
 
   
 

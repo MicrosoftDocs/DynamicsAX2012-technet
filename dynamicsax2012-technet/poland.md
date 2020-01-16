@@ -2,8 +2,9 @@
 title: Poland
 TOCTitle: Poland
 ms:assetid: e1c16fd2-8463-4f6d-821d-1c7d16e77ae1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711309(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711309(v=AX.60)
 ms:contentKeyID: 49387127
+author: Khairunj
 ms.date: 03/22/2017
 mtps_version: v=AX.60
 audience: Application User

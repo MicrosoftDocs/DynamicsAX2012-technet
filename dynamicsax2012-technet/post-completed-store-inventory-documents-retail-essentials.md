@@ -2,8 +2,9 @@
 title: Post completed store inventory documents (Retail essentials)
 TOCTitle: Post completed store inventory documents (Retail essentials)
 ms:assetid: 2b586be1-23a4-4fc6-ba1c-a28938d24658
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716064(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716064(v=AX.60)
 ms:contentKeyID: 62200329
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---
@@ -51,7 +52,7 @@ To create and post a purchase order, follow these steps:
 
 10. To enter another item in the purchase order, click **Add line**, and then enter information about the item.
 
-11. To enter sales tax, discounts, and other information about a line, select the line, and then click **Line details**. For more information about the fields in the **Purchase order** form, see [Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\)).
+11. To enter sales tax, discounts, and other information about a line, select the line, and then click **Line details**. For more information about the fields in the **Purchase order** form, see [Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\)).
 
 ## Post a transfer order
 
@@ -63,7 +64,7 @@ To create and post a transfer order, follow these steps:
 
 3.  In the **From warehouse** field, select the warehouse that sends the products. In the **To warehouse** field, select the warehouse that receives the products.
 
-4.  Click **Add** to add individual products, or click **Add products** to add groups or categories of products. For more information about the fields in the **Transfer orders** form, see [Transfer orders (form)](https://technet.microsoft.com/en-us/library/aa634530\(v=ax.60\)).
+4.  Click **Add** to add individual products, or click **Add products** to add groups or categories of products. For more information about the fields in the **Transfer orders** form, see [Transfer orders (form)](https://technet.microsoft.com/library/aa634530\(v=ax.60\)).
 
 ## Post a stock count
 

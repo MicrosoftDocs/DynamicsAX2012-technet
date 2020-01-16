@@ -1,9 +1,10 @@
-﻿---
+---
 title: MixAndMatchDiscount.LineGroupToNumberOfItemsMap Property  (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData)
 TOCTitle: LineGroupToNumberOfItemsMap Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.MixAndMatchDiscount.LineGroupToNumberOfItemsMap
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.mixandmatchdiscount.linegrouptonumberofitemsmap(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.mixandmatchdiscount.linegrouptonumberofitemsmap(v=AX.60)
 ms:contentKeyID: 62211750
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,8 +50,8 @@ property IDictionary<String^, int>^ LineGroupToNumberOfItemsMap {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IDictionary](https://technet.microsoft.com/en-us/library/s4ys34ea\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)), [Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))\>  
-Returns [IDictionary\<TKey, TValue\>](https://technet.microsoft.com/en-us/library/s4ys34ea\(v=ax.60\)).  
+Type: [System.Collections.Generic.IDictionary](https://technet.microsoft.com/library/s4ys34ea\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)), [Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))\>  
+Returns [IDictionary\<TKey, TValue\>](https://technet.microsoft.com/library/s4ys34ea\(v=ax.60\)).  
 
 ## See Also
 

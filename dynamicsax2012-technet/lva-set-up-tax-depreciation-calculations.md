@@ -2,8 +2,9 @@
 title: (LVA) Set up tax depreciation calculations
 TOCTitle: (LVA) Set up tax depreciation calculations
 ms:assetid: b1955b4e-a716-44ce-8462-eee476820c98
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911013(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911013(v=AX.60)
 ms:contentKeyID: 52075324
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -76,9 +77,9 @@ The following tasks must be set up to calculate fixed asset tax depreciation:
 
 ## See also
 
-[(LVA) Tax depreciation (form)](https://technet.microsoft.com/en-us/library/jj911011\(v=ax.60\))
+[(LVA) Tax depreciation (form)](https://technet.microsoft.com/library/jj911011\(v=ax.60\))
 
-[(LVA) Tax depreciation details (form)](https://technet.microsoft.com/en-us/library/jj911030\(v=ax.60\))
+[(LVA) Tax depreciation details (form)](https://technet.microsoft.com/library/jj911030\(v=ax.60\))
 
   
 

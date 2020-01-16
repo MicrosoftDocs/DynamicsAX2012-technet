@@ -2,8 +2,9 @@
 title: Plan an answer session in questionnaire
 TOCTitle: Plan an answer session in questionnaire
 ms:assetid: e2576e4c-02a8-47b2-afe7-ad09b848f21a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551373(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551373(v=AX.60)
 ms:contentKeyID: 41702394
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ Before you can set up planned answer sessions, you must design a questionnaire. 
 
 5.  Enter additional information, as needed.
     
-    For more information, see [Planned answer session for questionnaires (form)](https://technet.microsoft.com/en-us/library/aa634190\(v=ax.60\)).
+    For more information, see [Planned answer session for questionnaires (form)](https://technet.microsoft.com/library/aa634190\(v=ax.60\)).
 
 ## Possible next steps
 

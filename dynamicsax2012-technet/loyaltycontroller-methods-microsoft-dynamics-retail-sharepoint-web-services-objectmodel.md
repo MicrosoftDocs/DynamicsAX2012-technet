@@ -1,9 +1,10 @@
-﻿---
+---
 title: LoyaltyController Methods (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel)
 TOCTitle: LoyaltyController Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel.LoyaltyController
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.objectmodel.loyaltycontroller_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.objectmodel.loyaltycontroller_methods(v=AX.60)
 ms:contentKeyID: 62203607
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

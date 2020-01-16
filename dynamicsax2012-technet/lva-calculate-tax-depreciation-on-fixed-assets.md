@@ -2,8 +2,9 @@
 title: (LVA) Calculate tax depreciation on fixed assets
 TOCTitle: (LVA) Calculate tax depreciation on fixed assets
 ms:assetid: 1ba4adbc-8b6c-4d3b-869a-82325c8ecdc7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910991(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ910991(v=AX.60)
 ms:contentKeyID: 52075317
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,7 +57,7 @@ You must prepare and submit tax depreciation reports with your annual corporate 
 
 ## See also
 
-[(LVA) Tax depreciation (form)](https://technet.microsoft.com/en-us/library/jj911011\(v=ax.60\))
+[(LVA) Tax depreciation (form)](https://technet.microsoft.com/library/jj911011\(v=ax.60\))
 
 [(LVA) Assign tax categories to fixed assets](lva-assign-tax-categories-to-fixed-assets.md)
 

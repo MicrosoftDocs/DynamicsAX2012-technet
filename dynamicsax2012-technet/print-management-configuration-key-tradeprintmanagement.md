@@ -2,8 +2,9 @@
 title: Print management configuration key (TradePrintManagement)
 TOCTitle: Print management configuration key (TradePrintManagement)
 ms:assetid: bc830de3-396e-4ccc-ae24-dcca99328249
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa556900(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa556900(v=AX.60)
 ms:contentKeyID: 36997768
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

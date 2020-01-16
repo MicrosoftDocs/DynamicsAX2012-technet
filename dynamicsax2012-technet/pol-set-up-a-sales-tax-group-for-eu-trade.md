@@ -2,8 +2,9 @@
 title: (POL) Set up a sales tax group for EU trade
 TOCTitle: (POL) Set up a sales tax group for EU trade
 ms:assetid: 2d013284-8dbb-452c-b62d-d3813754ee3f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678165(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678165(v=AX.60)
 ms:contentKeyID: 49386888
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

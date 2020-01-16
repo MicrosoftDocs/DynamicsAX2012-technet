@@ -2,8 +2,9 @@
 title: Overview of the workflow system
 TOCTitle: Overview of the workflow system
 ms:assetid: 4ca4bb9f-2ccc-44d5-a6db-e78861b59174
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309672(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309672(v=AX.60)
 ms:contentKeyID: 35132628
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

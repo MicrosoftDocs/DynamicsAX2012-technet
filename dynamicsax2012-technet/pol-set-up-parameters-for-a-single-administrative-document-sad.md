@@ -2,8 +2,9 @@
 title: (POL) Set up parameters for a Single Administrative Document (SAD)
 TOCTitle: (POL) Set up parameters for a Single Administrative Document (SAD)
 ms:assetid: 69116d7a-b62c-48c7-ac5e-5431207d07fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731081(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731081(v=AX.60)
 ms:contentKeyID: 49675321
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,7 +40,7 @@ To generate SAD transactions, you must first create a number sequence and then s
 
 3.  Click **Accounts payable** \> **Setup** \> **SAD documents** \> **Parameters**.
 
-4.  Click the **Number sequences** tab to specify the number sequence that you created for SADs. For more information, see [(POL) SAD document's parameters (form)](https://technet.microsoft.com/en-us/library/jj728746\(v=ax.60\)).
+4.  Click the **Number sequences** tab to specify the number sequence that you created for SADs. For more information, see [(POL) SAD document's parameters (form)](https://technet.microsoft.com/library/jj728746\(v=ax.60\)).
 
 ## Create main accounts and specify them for SADs
 
@@ -49,7 +50,7 @@ To post SAD transactions, you must create main accounts for SADs and for general
 
 2.  On the **Action Pane**, on the **Main accounts** tab, in the **New** group, click **Main account** to create a main account.
     
-    For more information about how to create a main account, see [Create a main account](create-a-main-account.md). For more information about the main accounts to create, see [(POL) SAD document's parameters (form)](https://technet.microsoft.com/en-us/library/jj728746\(v=ax.60\)) and view the descriptions of the fields in the **System accounts of SAD document** and **System account for invoices** field groups on the **General** tab.
+    For more information about how to create a main account, see [Create a main account](create-a-main-account.md). For more information about the main accounts to create, see [(POL) SAD document's parameters (form)](https://technet.microsoft.com/library/jj728746\(v=ax.60\)) and view the descriptions of the fields in the **System accounts of SAD document** and **System account for invoices** field groups on the **General** tab.
 
 3.  Click **Accounts payable** \> **Setup** \> **SAD documents** \> **Parameters**.
 
@@ -65,7 +66,7 @@ To post SAD transactions, you must create main accounts for SADs and for general
     
       - **Misc. payments**
     
-    For information about these fields, see [(POL) SAD document's parameters (form)](https://technet.microsoft.com/en-us/library/jj728746\(v=ax.60\)).
+    For information about these fields, see [(POL) SAD document's parameters (form)](https://technet.microsoft.com/library/jj728746\(v=ax.60\)).
 
 ## Create a duty rate group
 
@@ -73,7 +74,7 @@ To create SADs, you must specify a duty rate group.
 
 1.  Click **Accounts payable** \> **Setup** \> **SAD documents** \> **SAD groups**.
 
-2.  Click **New** to create a duty rates group. For more information, see [(POL) Duty rates groups (form)](https://technet.microsoft.com/en-us/library/jj728745\(v=ax.60\)).
+2.  Click **New** to create a duty rates group. For more information, see [(POL) Duty rates groups (form)](https://technet.microsoft.com/library/jj728745\(v=ax.60\)).
 
 ## Create sales tax groups and sales tax codes
 
@@ -83,17 +84,17 @@ To calculate sales tax on the SAD transactions, you must create a sales tax grou
 
 1.  Click **General ledger** \> **Setup** \> **Sales tax** \> **Sales tax groups**.
 
-2.  Click **New** to create a sales tax group. For more information, see [Sales tax groups (form)](https://technet.microsoft.com/en-us/library/aa498345\(v=ax.60\)).
+2.  Click **New** to create a sales tax group. For more information, see [Sales tax groups (form)](https://technet.microsoft.com/library/aa498345\(v=ax.60\)).
 
 ## Create a sales tax code
 
 1.  Click **General ledger** \> **Setup** \> **Sales tax** \> **Sales tax codes**.
 
-2.  Click **New** to create a sales tax code. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\)).
+2.  Click **New** to create a sales tax code. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\)).
 
 ## See also
 
-[(POL) SAD document's parameters (form)](https://technet.microsoft.com/en-us/library/jj728746\(v=ax.60\))
+[(POL) SAD document's parameters (form)](https://technet.microsoft.com/library/jj728746\(v=ax.60\))
 
 [(POL) Post a Single Administrative Document (SAD) from the general journal](pol-post-a-single-administrative-document-sad-from-the-general-journal.md)
 

@@ -2,8 +2,9 @@
 title: Modify registrations before or after approval
 TOCTitle: Modify registrations before or after approval
 ms:assetid: c72cde49-5e7b-4b19-be43-c00a4941d7cc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550851(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550851(v=AX.60)
 ms:contentKeyID: 39519314
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Open transactions report (CustTransOpenPerDate)
 TOCTitle: Open transactions report (CustTransOpenPerDate)
 ms:assetid: ac98f074-f967-4193-81cf-45c07fc75e3f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa618471(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa618471(v=AX.60)
 ms:contentKeyID: 36956705
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

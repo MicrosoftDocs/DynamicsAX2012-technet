@@ -2,8 +2,9 @@
 title: Maintain loyalty programs in AX 2012 R3
 TOCTitle: Maintain loyalty programs in AX 2012 R3
 ms:assetid: b4d7a5ce-8bda-4404-a3ed-d48e90bbd388
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497820(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497820(v=AX.60)
 ms:contentKeyID: 62231565
+author: Khairunj
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 audience: Application User

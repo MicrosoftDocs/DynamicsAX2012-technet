@@ -1,9 +1,10 @@
-﻿---
+---
 title: NotificationException.Message Property  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: Message Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.NotificationException.Message
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.notificationexception.message(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.notificationexception.message(v=AX.60)
 ms:contentKeyID: 65320257
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # Message Property
 
-This member overrides [Exception.Message](https://technet.microsoft.com/en-us/library/9btwf6wk\(v=ax.60\)).
+This member overrides [Exception.Message](https://technet.microsoft.com/library/9btwf6wk\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
@@ -47,11 +48,11 @@ virtual property String^ Message {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Implements
 
-[\_Exception.Message](https://technet.microsoft.com/en-us/library/b4sz7awd\(v=ax.60\))  
+[\_Exception.Message](https://technet.microsoft.com/library/b4sz7awd\(v=ax.60\))  
 
 ## See Also
 

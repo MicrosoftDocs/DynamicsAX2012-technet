@@ -2,8 +2,9 @@
 title: (LTU) Post a correcting invoice for a sales order
 TOCTitle: (LTU) Post a correcting invoice for a sales order
 ms:assetid: 7fd912e4-8473-4d4c-ae4e-845c1f3676cd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665130(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665130(v=AX.60)
 ms:contentKeyID: 49386711
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ If you post a correction for a posted sales order, the status of the correcting 
 
 ## See also
 
-[(LTU) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj678097\(v=ax.60\))
+[(LTU) Sales orders (modified form)](https://technet.microsoft.com/library/jj678097\(v=ax.60\))
 
 [(LTU) View and manually change the status of invoice document author for a sales order](ltu-view-and-manually-change-the-status-of-invoice-document-author-for-a-sales-order.md)
 

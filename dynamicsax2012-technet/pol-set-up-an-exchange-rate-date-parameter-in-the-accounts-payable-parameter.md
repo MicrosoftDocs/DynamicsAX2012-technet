@@ -2,8 +2,9 @@
 title: (POL) Set up an exchange rate date parameter in the Accounts payable parameter
 TOCTitle: (POL) Set up an exchange rate date parameter in the Accounts payable parameter
 ms:assetid: 644e0303-4733-44d5-929e-e240fe2d6360
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678224(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678224(v=AX.60)
 ms:contentKeyID: 49386946
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

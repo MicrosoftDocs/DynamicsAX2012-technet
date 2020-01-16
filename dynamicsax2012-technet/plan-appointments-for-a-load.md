@@ -2,8 +2,9 @@
 title: Plan appointments for a load
 TOCTitle: Plan appointments for a load
 ms:assetid: 9aec1151-db0d-4333-8e63-323a898fa725
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553185(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553185(v=AX.60)
 ms:contentKeyID: 62221422
+author: Khairunj
 ms.date: 07/11/2014
 mtps_version: v=AX.60
 f1_keywords:

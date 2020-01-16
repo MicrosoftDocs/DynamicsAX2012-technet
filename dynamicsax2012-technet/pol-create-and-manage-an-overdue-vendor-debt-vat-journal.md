@@ -2,8 +2,9 @@
 title: (POL) Create and manage an overdue vendor debt VAT journal
 TOCTitle: (POL) Create and manage an overdue vendor debt VAT journal
 ms:assetid: 70e804fd-cf9d-4823-8e45-c7174116c79f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn769096(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn769096(v=AX.60)
 ms:contentKeyID: 62514713
+author: Khairunj
 ms.date: 06/14/2014
 mtps_version: v=AX.60
 f1_keywords:

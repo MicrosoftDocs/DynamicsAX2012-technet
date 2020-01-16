@@ -2,8 +2,9 @@
 title: Managing customer price information
 TOCTitle: Managing customer price information
 ms:assetid: 4c7f6371-2e44-4c9c-944b-083982efca2f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271523(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271523(v=AX.60)
 ms:contentKeyID: 36384155
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

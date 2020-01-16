@@ -1,9 +1,10 @@
-﻿---
+---
 title: NonBindableActionRoutingConvention.SelectAction Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions)
 TOCTitle: SelectAction Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions.NonBindableActionRoutingConvention.SelectAction(System.Web.Http.OData.Routing.ODataPath,System.Web.Http.Controllers.HttpControllerContext,System.Linq.ILookup{System.String,System.Web.Http.Controllers.HttpActionDescriptor})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.nonbindableactionroutingconvention.selectaction(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.nonbindableactionroutingconvention.selectaction(v=AX.60)
 ms:contentKeyID: 62202448
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,11 +72,11 @@ virtual String^ SelectAction(
 <!-- end list -->
 
   - actionMap  
-    Type: [System.Linq.ILookup](https://technet.microsoft.com/en-us/library/bb534291\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)), HttpActionDescriptor\>  
+    Type: [System.Linq.ILookup](https://technet.microsoft.com/library/bb534291\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)), HttpActionDescriptor\>  
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 The action name.  
 
 #### Implements

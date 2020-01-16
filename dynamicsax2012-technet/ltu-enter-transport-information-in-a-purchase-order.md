@@ -2,8 +2,9 @@
 title: (LTU) Enter transport information in a purchase order
 TOCTitle: (LTU) Enter transport information in a purchase order
 ms:assetid: f6baf30a-18bc-4833-ac29-a9d2c1eb84b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678099(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678099(v=AX.60)
 ms:contentKeyID: 49386824
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

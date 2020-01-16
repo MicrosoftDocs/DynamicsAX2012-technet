@@ -2,8 +2,9 @@
 title: Personal expenses on an expense report
 TOCTitle: Personal expenses on an expense report
 ms:assetid: 686c1784-c239-42ef-baab-709cb656b2b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231572(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231572(v=AX.60)
 ms:contentKeyID: 36057955
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

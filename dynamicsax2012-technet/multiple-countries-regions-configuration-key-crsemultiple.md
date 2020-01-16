@@ -2,8 +2,9 @@
 title: Multiple countries/regions configuration key (CRSEMultiple)
 TOCTitle: Multiple countries/regions configuration key (CRSEMultiple)
 ms:assetid: 5da48a62-a93a-411f-9a77-1dbe0e4c2993
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa584184(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa584184(v=AX.60)
 ms:contentKeyID: 36997754
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Predefined Layout and Style Templates
 TOCTitle: Predefined Layout and Style Templates
 ms:assetid: c18d929d-c275-4640-ba2c-da892b716cd9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc575028(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc575028(v=AX.60)
 ms:contentKeyID: 28119580
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (POL) Setting up and maintaining operations
 TOCTitle: (POL) Setting up and maintaining operations
 ms:assetid: a2b5e101-fa79-4457-b988-3a7ee6737a3e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678317(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678317(v=AX.60)
 ms:contentKeyID: 49387038
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: PaymentData.CardType Property  (Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation)
 TOCTitle: CardType Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation.PaymentData.CardType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.sdk.hardwarestation.paymentdata.cardtype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.sdk.hardwarestation.paymentdata.cardtype(v=AX.60)
 ms:contentKeyID: 65318219
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

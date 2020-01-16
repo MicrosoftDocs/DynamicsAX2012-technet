@@ -2,8 +2,9 @@
 title: Personnel actions configuration key (HcmPersonnelActions)
 TOCTitle: Personnel actions configuration key (HcmPersonnelActions)
 ms:assetid: 9155c053-05c6-41d9-aca1-ffc3d5c06999
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ729778(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ729778(v=AX.60)
 ms:contentKeyID: 49564946
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -53,7 +54,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p>Position action form</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj729764(v=ax.60)">Position action (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj729764(v=ax.60)">Position action (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -91,7 +92,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

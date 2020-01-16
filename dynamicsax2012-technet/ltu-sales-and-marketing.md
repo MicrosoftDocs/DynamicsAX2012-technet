@@ -2,8 +2,9 @@
 title: (LTU) Sales and marketing
 TOCTitle: (LTU) Sales and marketing
 ms:assetid: ee5db116-960f-449e-a89a-6db7b04348bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678090(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678090(v=AX.60)
 ms:contentKeyID: 49386814
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

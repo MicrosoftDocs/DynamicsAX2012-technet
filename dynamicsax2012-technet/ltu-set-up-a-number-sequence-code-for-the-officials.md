@@ -2,8 +2,9 @@
 title: (LTU) Set up a number sequence code for the officials
 TOCTitle: (LTU) Set up a number sequence code for the officials
 ms:assetid: 2c05ac0f-4c0a-4ff7-b055-b1629a018812
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665046(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665046(v=AX.60)
 ms:contentKeyID: 49386628
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ You must assign a number sequence code for the company officials.
 
 ## See also
 
-[(LTU) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj678093\(v=ax.60\))
+[(LTU) Legal entities (modified form)](https://technet.microsoft.com/library/jj678093\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Perform a price query
 TOCTitle: Perform a price query
 ms:assetid: 117353c9-98ee-48dc-8edb-53e8843100bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271454(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271454(v=AX.60)
 ms:contentKeyID: 36384086
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

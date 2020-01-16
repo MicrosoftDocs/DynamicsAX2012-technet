@@ -2,8 +2,9 @@
 title: (LVA) Post and print an inventory movement
 TOCTitle: (LVA) Post and print an inventory movement
 ms:assetid: 33760164-3187-48f5-9bbc-9095bcb7a342
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731016(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731016(v=AX.60)
 ms:contentKeyID: 49675256
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,7 +62,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 [(LVA) Post and print an inventory write-down document](lva-post-and-print-an-inventory-write-down-document.md)
 
-[(LVA) Journal lines, Inventory (modified form)](https://technet.microsoft.com/en-us/library/jj721417\(v=ax.60\))
+[(LVA) Journal lines, Inventory (modified form)](https://technet.microsoft.com/library/jj721417\(v=ax.60\))
 
   
 

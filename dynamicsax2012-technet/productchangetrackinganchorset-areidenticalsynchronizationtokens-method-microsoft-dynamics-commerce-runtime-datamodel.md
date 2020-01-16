@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductChangeTrackingAnchorSet.AreIdenticalSynchronizationTokens Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: AreIdenticalSynchronizationTokens Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductChangeTrackingAnchorSet.AreIdenticalSynchronizationTokens(System.Char[],System.Char[])
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productchangetrackinganchorset.areidenticalsynchronizationtokens(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productchangetrackinganchorset.areidenticalsynchronizationtokens(v=AX.60)
 ms:contentKeyID: 62212504
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,16 +57,16 @@ static bool AreIdenticalSynchronizationTokens(
 #### Parameters
 
   - leftSyncToken  
-    Type: [System.Char](https://technet.microsoft.com/en-us/library/k493b04s\(v=ax.60\))\[\]  
+    Type: [System.Char](https://technet.microsoft.com/library/k493b04s\(v=ax.60\))\[\]  
 
 <!-- end list -->
 
   - rightSyncToken  
-    Type: [System.Char](https://technet.microsoft.com/en-us/library/k493b04s\(v=ax.60\))\[\]  
+    Type: [System.Char](https://technet.microsoft.com/library/k493b04s\(v=ax.60\))\[\]  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 True if the 2 sync tokens are equivalent.  
 
 ## See Also

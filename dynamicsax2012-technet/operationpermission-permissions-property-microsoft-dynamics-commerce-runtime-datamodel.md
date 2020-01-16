@@ -1,9 +1,10 @@
-﻿---
+---
 title: OperationPermission.Permissions Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Permissions Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.OperationPermission.Permissions
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.operationpermission.permissions(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.operationpermission.permissions(v=AX.60)
 ms:contentKeyID: 62209624
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ property ReadOnlyCollection<String^>^ Permissions {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 Gets the Permissions value.  
 
 ## See Also

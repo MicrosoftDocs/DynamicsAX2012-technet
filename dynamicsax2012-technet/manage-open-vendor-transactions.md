@@ -2,8 +2,9 @@
 title: Manage open vendor transactions
 TOCTitle: Manage open vendor transactions
 ms:assetid: c191d25f-8336-48c5-893c-7cd83c9fb195
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213634(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213634(v=AX.60)
 ms:contentKeyID: 36059275
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

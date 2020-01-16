@@ -2,8 +2,9 @@
 title: (MEX) Inflation adjustment report (InfAdjInventory_MX)
 TOCTitle: (MEX) Inflation adjustment report (InfAdjInventory_MX)
 ms:assetid: 0add9852-cb0f-498d-82d9-715edcccee8b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416706(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416706(v=AX.60)
 ms:contentKeyID: 36931893
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

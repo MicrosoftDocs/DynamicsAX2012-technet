@@ -2,8 +2,9 @@
 title: (LTU) View and manually change the status of an invoice for a purchase order
 TOCTitle: (LTU) View and manually change the status of an invoice for a purchase order
 ms:assetid: 72a5b6be-2375-4607-baf3-769a457ed638
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665122(v=AX.60)
 ms:contentKeyID: 49386703
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,9 +46,9 @@ You can change the status of an invoice manually in the **Invoice** form. The st
 
 ## See also
 
-[(LTU) Purchase invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj665048\(v=ax.60\))
+[(LTU) Purchase invoice journal (modified form)](https://technet.microsoft.com/library/jj665048\(v=ax.60\))
 
-[(LTU) Invoice history journal (modified form)](https://technet.microsoft.com/en-us/library/jj665178\(v=ax.60\))
+[(LTU) Invoice history journal (modified form)](https://technet.microsoft.com/library/jj665178\(v=ax.60\))
 
   
 

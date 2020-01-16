@@ -2,8 +2,9 @@
 title: Match vendor invoices to purchase orders and product receipts
 TOCTitle: Match vendor invoices to purchase orders and product receipts
 ms:assetid: 77a203b3-cf89-48b1-9772-017a78ec9fbb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh292598(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh292598(v=AX.60)
 ms:contentKeyID: 36655934
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

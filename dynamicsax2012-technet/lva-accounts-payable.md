@@ -2,8 +2,9 @@
 title: (LVA) Accounts payable
 TOCTitle: (LVA) Accounts payable
 ms:assetid: f6d07f92-571a-4426-b529-d0f7ce0771ad
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731073(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731073(v=AX.60)
 ms:contentKeyID: 49675313
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

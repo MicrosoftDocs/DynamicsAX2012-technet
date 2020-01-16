@@ -2,8 +2,9 @@
 title: Maintain employee information
 TOCTitle: Maintain employee information
 ms:assetid: fbb11656-8006-4e81-bf75-65a3e0af3581
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299233(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh299233(v=AX.60)
 ms:contentKeyID: 36384339
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

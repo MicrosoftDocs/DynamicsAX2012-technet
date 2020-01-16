@@ -2,8 +2,9 @@
 title: (LVA) Setting up and maintaining sales orders
 TOCTitle: (LVA) Setting up and maintaining sales orders
 ms:assetid: 80f4f052-af9b-4918-be32-5eb6283dffaf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731043(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731043(v=AX.60)
 ms:contentKeyID: 49675283
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

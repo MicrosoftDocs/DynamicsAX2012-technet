@@ -2,8 +2,9 @@
 title: Procurement and sourcing
 TOCTitle: Procurement and sourcing
 ms:assetid: 4eee201e-a5d3-4264-be15-c4134829ffec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208778(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208778(v=AX.60)
 ms:contentKeyID: 36057064
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,32 +60,32 @@ The following process flow illustrates the procurement and sourcing business pro
 <tr class="odd">
 <td><p><a href="key-tasks-work-with-vendor-search-and-search-results.md">Key tasks: Work with vendor search and search results</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242677(v=ax.60)">Vendor search results (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242677(v=ax.60)">Vendor search results (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="key-tasks-create-procurement-catalogs.md">Key tasks: Create procurement catalogs</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209683(v=ax.60)">Catalogs (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209683(v=ax.60)">Catalogs (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="create-a-request-for-quotation.md">Create a request for quotation</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209104(v=ax.60)">New request for quotation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209104(v=ax.60)">New request for quotation (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="maintain-purchase-agreements-overview.md">Maintain purchase agreements overview</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209550(v=ax.60)">Purchase agreements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209550(v=ax.60)">Purchase agreements (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="key-tasks-create-and-submit-a-purchase-requisition.md">Key tasks: Create and submit a purchase requisition</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209453(v=ax.60)">Purchase requisitions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209453(v=ax.60)">Purchase requisitions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="create-and-maintain-purchase-orders.md">Create and maintain purchase orders</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557983(v=ax.60)">Purchase order (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557983(v=ax.60)">Purchase order (form)</a></p></td>
 </tr>
 </tbody>
 </table>

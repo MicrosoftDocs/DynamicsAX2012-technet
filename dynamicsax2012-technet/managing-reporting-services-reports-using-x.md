@@ -1,9 +1,10 @@
-﻿---
+---
 title: Managing Reporting Services Reports using X++
 TOCTitle: Managing Reporting Services Reports using X++
 ms:assetid: dcdfe15e-f793-459a-8cb3-841f0f381b56
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee910033(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee910033(v=AX.60)
 ms:contentKeyID: 28119600
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

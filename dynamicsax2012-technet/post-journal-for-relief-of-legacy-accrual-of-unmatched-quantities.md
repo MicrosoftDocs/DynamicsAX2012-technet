@@ -2,8 +2,9 @@
 title: Post journal for relief of legacy accrual of unmatched quantities
 TOCTitle: Post journal for relief of legacy accrual of unmatched quantities
 ms:assetid: 01d42503-362a-4a9b-88ca-3f3325714991
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751341(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg751341(v=AX.60)
 ms:contentKeyID: 35132525
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

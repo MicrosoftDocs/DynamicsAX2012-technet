@@ -2,8 +2,9 @@
 title: Prepare pre-closing reports overview
 TOCTitle: Prepare pre-closing reports overview
 ms:assetid: 366f6244-4ec2-4662-902f-b213bfffaf0d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231102(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231102(v=AX.60)
 ms:contentKeyID: 36056579
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

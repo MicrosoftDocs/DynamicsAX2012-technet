@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductDimensionValueDictionary Class (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ProductDimensionValueDictionary Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductDimensionValueDictionary
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productdimensionvaluedictionary(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productdimensionvaluedictionary(v=AX.60)
 ms:contentKeyID: 62211297
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,8 +48,8 @@ public ref class ProductDimensionValueDictionary sealed : public Dictionary<Stri
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-  [System.Collections.Generic.Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)), [ISet](https://technet.microsoft.com/en-us/library/dd412081\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>\>  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+  [System.Collections.Generic.Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)), [ISet](https://technet.microsoft.com/library/dd412081\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>\>  
     Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductDimensionValueDictionary  
 
 ## Thread Safety

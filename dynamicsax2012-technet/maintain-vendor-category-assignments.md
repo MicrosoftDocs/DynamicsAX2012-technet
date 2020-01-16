@@ -2,8 +2,9 @@
 title: Maintain vendor category assignments
 TOCTitle: Maintain vendor category assignments
 ms:assetid: 791970d0-f288-4459-85e1-a1ef5450ba48
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209257(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209257(v=AX.60)
 ms:contentKeyID: 36058233
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

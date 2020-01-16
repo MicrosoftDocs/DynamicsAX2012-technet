@@ -2,8 +2,9 @@
 title: (MEX) Set up tax report category
 TOCTitle: (MEX) Set up tax report category
 ms:assetid: 2127b708-2929-4914-990e-47b11d4505fc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208471(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208471(v=AX.60)
 ms:contentKeyID: 36056162
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ You can generate sales tax and purchase tax reports to prepare, verify, and reco
 
 1.  Click **General ledger** \> **Reports** \> **Base data** \> **Sales tax codes**.
 
-2.  Press CTRL+N to create a new sales tax code or select an existing sales tax code. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\)) and [Set up and use sales tax codes](set-up-and-use-sales-tax-codes.md).
+2.  Press CTRL+N to create a new sales tax code or select an existing sales tax code. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\)) and [Set up and use sales tax codes](set-up-and-use-sales-tax-codes.md).
 
 3.  Click the **Report setup** tab.
 

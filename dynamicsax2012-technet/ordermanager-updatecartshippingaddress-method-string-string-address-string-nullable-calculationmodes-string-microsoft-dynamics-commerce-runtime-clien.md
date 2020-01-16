@@ -1,9 +1,10 @@
-﻿---
+---
 title: OrderManager.UpdateCartShippingAddress Method (String, String, Address, String, Nullable(CalculationModes), String) (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: UpdateCartShippingAddress Method (String, String, Address, String, Nullable(CalculationModes), String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.UpdateCartShippingAddress(System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.Address,System.String,System.Nullable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CalculationModes},System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.ordermanager.updatecartshippingaddress(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.updatecartshippingaddress(v=AX.60)
 ms:contentKeyID: 62211047
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -72,12 +73,12 @@ Cart^ UpdateCartShippingAddress(
 #### Parameters
 
   - cartId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - customerAccountNumber  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -87,17 +88,17 @@ Cart^ UpdateCartShippingAddress(
 <!-- end list -->
 
   - deliveryMode  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - modes  
-    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[CalculationModes](calculationmodes-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[CalculationModes](calculationmodes-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 <!-- end list -->
 
   - warehouseId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 

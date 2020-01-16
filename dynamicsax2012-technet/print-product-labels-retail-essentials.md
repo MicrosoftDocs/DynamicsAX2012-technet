@@ -2,8 +2,9 @@
 title: Print product labels (Retail essentials)
 TOCTitle: Print product labels (Retail essentials)
 ms:assetid: 4c1fec63-c68f-4e6a-881e-92bb074d065b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716088(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716088(v=AX.60)
 ms:contentKeyID: 62200350
+author: Khairunj
 ms.date: 01/07/2015
 mtps_version: v=AX.60
 ---
@@ -37,7 +38,7 @@ Before you can generate and print product labels, you must set up Microsoft Dyna
 
   - Before you can set up printing for product labels, a system administrator must enable three menu items for Retail essentials. For more information, see Enable label printing (Retail essentials).
 
-  - Select options in the **Retail shared parameters** form to specify how labels should be generated for brick-and-mortar stores. For more information about the options in this form, see [Retail shared parameters (form)](https://technet.microsoft.com/en-us/library/hh580625\(v=ax.60\)).
+  - Select options in the **Retail shared parameters** form to specify how labels should be generated for brick-and-mortar stores. For more information about the options in this form, see [Retail shared parameters (form)](https://technet.microsoft.com/library/hh580625\(v=ax.60\)).
 
   - Select the reports that can be used to generate labels. The label reports contain information such as bar codes, prices, and relevant dates. Additionally, the label reports specify the size of the labels to print and the orientation of the label page. After label reports are set up in this step, users select which report to use every time that they generate labels.
 
@@ -167,9 +168,9 @@ To generate labels for products that are shipped in a transfer order, follow the
 
 4.  In the **Shipment** form, enter the appropriate information to ship the order, and then, on the **Overview** tab, follow these steps:
     
-    1.  In the **Update** field, select the appropriate value in the list. For more information about the various values in the list, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+    1.  In the **Update** field, select the appropriate value in the list. For more information about the various values in the list, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
-    2.  Select the **Edit lines** check box, if this option is appropriate. For more information about when to select the **Edit lines** check box, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+    2.  Select the **Edit lines** check box, if this option is appropriate. For more information about when to select the **Edit lines** check box, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
     3.  Select the **Print product labels** check box.
     
@@ -201,9 +202,9 @@ To generate labels for products that are received from a transfer order, follow 
 
 4.  In the **Receive** form, enter the appropriate information to ship the order, and then, on the **Overview** tab, follow these steps:
     
-    1.  In the **Update** field, select the appropriate value in the list. For more information about the various values in the list, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+    1.  In the **Update** field, select the appropriate value in the list. For more information about the various values in the list, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
-    2.  Select the **Edit lines** check box, if this option is appropriate. For more information about when to select the **Edit lines** check box, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+    2.  Select the **Edit lines** check box, if this option is appropriate. For more information about when to select the **Edit lines** check box, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
     3.  Select the **Print product labels** check box.
     

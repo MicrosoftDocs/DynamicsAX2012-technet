@@ -2,8 +2,9 @@
 title: Payment advice report (BankPaymAdviceCheque)
 TOCTitle: Payment advice report (BankPaymAdviceCheque)
 ms:assetid: 9a09b812-818c-4ddd-853d-b5f7f404657f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa617011(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa617011(v=AX.60)
 ms:contentKeyID: 37832024
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -86,7 +87,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Vendor payment by check (form)](https://technet.microsoft.com/en-us/library/bb220751\(v=ax.60\))
+[Vendor payment by check (form)](https://technet.microsoft.com/library/bb220751\(v=ax.60\))
 
 [Add additional tables to advanced queries](add-additional-tables-to-advanced-queries.md)
 

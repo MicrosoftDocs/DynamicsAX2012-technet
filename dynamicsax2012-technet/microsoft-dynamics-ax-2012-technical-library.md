@@ -2,8 +2,9 @@
 title: Microsoft Dynamics AX 2012 Application User and IT Professional Technical Library
 TOCTitle: Microsoft Dynamics AX 2012 Application User and IT Professional Technical Library
 ms:assetid: 89085fa3-cec3-4651-bee5-907470e2d4bd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg852966(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg852966(v=AX.60)
 ms:contentKeyID: 35267556
+author: Khairunj
 ms.date: 10/05/2018
 mtps_version: v=AX.60
 ---

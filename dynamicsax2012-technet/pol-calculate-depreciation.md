@@ -2,8 +2,9 @@
 title: (POL) Calculate depreciation
 TOCTitle: (POL) Calculate depreciation
 ms:assetid: 96d8ce8c-9d33-42ca-b19a-7e523e55577f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730409(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730409(v=AX.60)
 ms:contentKeyID: 49636328
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ Depreciation for all fixed assets can be calculated and posted in one single ope
 
 [(POL) Set up depreciation of fixed assets](pol-set-up-depreciation-of-fixed-assets.md)
 
-[(POL) Fixed asset value models (modified form)](https://technet.microsoft.com/en-us/library/jj730408\(v=ax.60\))
+[(POL) Fixed asset value models (modified form)](https://technet.microsoft.com/library/jj730408\(v=ax.60\))
 
 [(POL) Set up depreciation of fixed assets](pol-set-up-depreciation-of-fixed-assets.md)
 

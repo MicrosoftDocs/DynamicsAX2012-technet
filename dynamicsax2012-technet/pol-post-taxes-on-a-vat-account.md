@@ -2,8 +2,9 @@
 title: (POL) Post taxes on a VAT account
 TOCTitle: (POL) Post taxes on a VAT account
 ms:assetid: b02eb0c9-035b-45cb-9770-c46c0ccc23dc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711236(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711236(v=AX.60)
 ms:contentKeyID: 49387054
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

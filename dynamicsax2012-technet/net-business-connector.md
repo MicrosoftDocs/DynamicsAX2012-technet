@@ -2,8 +2,9 @@
 title: .NET Business Connector
 TOCTitle: .NET Business Connector
 ms:assetid: d55ceefa-7fd5-4bea-94b8-6dca0587b569
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834453(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834453(v=AX.60)
 ms:contentKeyID: 35132909
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

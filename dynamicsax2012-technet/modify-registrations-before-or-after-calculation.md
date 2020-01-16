@@ -2,8 +2,9 @@
 title: Modify registrations before or after calculation
 TOCTitle: Modify registrations before or after calculation
 ms:assetid: fdf60b94-ce2d-44ba-a43e-cfa27e86d127
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573440(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573440(v=AX.60)
 ms:contentKeyID: 43976733
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Post and print a journal or journal lines
 TOCTitle: Post and print a journal or journal lines
 ms:assetid: 26c310cc-4dff-472a-81e7-b9f90ffe80b0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496825(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496825(v=AX.60)
 ms:contentKeyID: 36056203
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ After you create and validate journal lines in one of the **Journal voucher** fo
     
     –or–
     
-    Click **Post**. If an error exists, no lines are posted, and you receive a message. If the message mentions posting restrictions, you might be set up to post only journals that you create. For more information, see [Posting restrictions (form)](https://technet.microsoft.com/en-us/library/hh227598\(v=ax.60\)).
+    Click **Post**. If an error exists, no lines are posted, and you receive a message. If the message mentions posting restrictions, you might be set up to post only journals that you create. For more information, see [Posting restrictions (form)](https://technet.microsoft.com/library/hh227598\(v=ax.60\)).
 
 ## Post in the Journal form
 
@@ -47,7 +48,7 @@ If several journals are created and validated, perhaps by several different empl
     
     –or–
     
-    Click **Post**. If an error exists, no lines are posted, and you receive a message. If the message mentions posting restrictions, you might be set up to post only journals that you create. For more information, see [Posting restrictions (form)](https://technet.microsoft.com/en-us/library/hh227598\(v=ax.60\)).
+    Click **Post**. If an error exists, no lines are posted, and you receive a message. If the message mentions posting restrictions, you might be set up to post only journals that you create. For more information, see [Posting restrictions (form)](https://technet.microsoft.com/library/hh227598\(v=ax.60\)).
 
 ## Print journal lines
 

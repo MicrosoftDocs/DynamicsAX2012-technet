@@ -2,8 +2,9 @@
 title: Post arrival journal for returned products
 TOCTitle: Post arrival journal for returned products
 ms:assetid: 52920dea-88b6-476d-817f-3aa0c6572bd9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212789(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212789(v=AX.60)
 ms:contentKeyID: 36057288
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,7 +40,7 @@ After the journal is posted, the returned items are registered in inventory, and
 
 ## See also
 
-[Location journal (form)](https://technet.microsoft.com/en-us/library/aa584822\(v=ax.60\))
+[Location journal (form)](https://technet.microsoft.com/library/aa584822\(v=ax.60\))
 
   
 
