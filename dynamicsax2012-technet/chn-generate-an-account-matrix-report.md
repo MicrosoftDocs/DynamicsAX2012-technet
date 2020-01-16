@@ -2,8 +2,9 @@
 title: (CHN) Generate an account matrix report
 TOCTitle: (CHN) Generate an account matrix report
 ms:assetid: 0b3a44d3-02b5-4921-bfdb-26b6ed13eaf8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663992(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663992(v=AX.60)
 ms:contentKeyID: 49384578
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -93,7 +94,7 @@ You can generate the matrix report with dimension details to view the transactio
 
 ## See also
 
-[(CHN) Matrix account report (form)](https://technet.microsoft.com/en-us/library/jj664131\(v=ax.60\))
+[(CHN) Matrix account report (form)](https://technet.microsoft.com/library/jj664131\(v=ax.60\))
 
   
 

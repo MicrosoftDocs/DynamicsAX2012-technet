@@ -2,8 +2,9 @@
 title: (CHN) Compare BOM versions and print the BOM comparison report
 TOCTitle: (CHN) Compare BOM versions and print the BOM comparison report
 ms:assetid: 5ee58cb2-e8e7-40f8-abe7-48ce4f63eb43
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664050(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664050(v=AX.60)
 ms:contentKeyID: 49384633
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ You can run automatic BOM comparisons from the **BOM comparison** form. You can 
 
 [Create a BOM and BOM version](create-a-bom-and-bom-version.md)
 
-[(CHN) BOM comparison (form)](https://technet.microsoft.com/en-us/library/jj664075\(v=ax.60\))
+[(CHN) BOM comparison (form)](https://technet.microsoft.com/library/jj664075\(v=ax.60\))
 
 [(CHN) About BOM comparison](chn-about-bom-comparison.md)
 

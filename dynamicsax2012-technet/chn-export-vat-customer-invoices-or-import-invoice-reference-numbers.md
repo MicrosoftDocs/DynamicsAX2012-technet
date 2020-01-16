@@ -2,8 +2,9 @@
 title: (CHN) Export VAT customer invoices or import invoice reference numbers
 TOCTitle: (CHN) Export VAT customer invoices or import invoice reference numbers
 ms:assetid: 826294d5-b102-4e51-9af2-608fd53b221e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304994(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304994(v=AX.60)
 ms:contentKeyID: 54900002
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

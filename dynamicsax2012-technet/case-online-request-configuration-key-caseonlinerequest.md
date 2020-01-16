@@ -2,8 +2,9 @@
 title: Case online request configuration key (CaseOnlineRequest)
 TOCTitle: Case online request configuration key (CaseOnlineRequest)
 ms:assetid: 3d310ab9-d46a-4aef-ab4b-485046a145c5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467547(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467547(v=AX.60)
 ms:contentKeyID: 36991694
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -53,7 +54,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

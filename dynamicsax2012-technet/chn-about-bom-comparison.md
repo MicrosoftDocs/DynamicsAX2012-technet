@@ -2,8 +2,9 @@
 title: (CHN) About BOM comparison
 TOCTitle: (CHN) About BOM comparison
 ms:assetid: 49361666-e338-4cd5-972b-5ce22d98eb87
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664034(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664034(v=AX.60)
 ms:contentKeyID: 49384618
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -187,9 +188,9 @@ The following table illustrates how a BOM comparison is performed. In this examp
 
 ## See also
 
-[(CHN) BOM comparison (form)](https://technet.microsoft.com/en-us/library/jj664075\(v=ax.60\))
+[(CHN) BOM comparison (form)](https://technet.microsoft.com/library/jj664075\(v=ax.60\))
 
-[BOM (form)](https://technet.microsoft.com/en-us/library/aa587282\(v=ax.60\))
+[BOM (form)](https://technet.microsoft.com/library/aa587282\(v=ax.60\))
 
 [Create a BOM and BOM version](create-a-bom-and-bom-version.md)
 

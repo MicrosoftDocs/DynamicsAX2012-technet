@@ -2,8 +2,9 @@
 title: Change the project group
 TOCTitle: Change the project group
 ms:assetid: 268367e0-371d-498e-a015-2b7ca69326df
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496824(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496824(v=AX.60)
 ms:contentKeyID: 36056201
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -64,13 +65,13 @@ You can change the project group of a project or an estimate project. You can ma
 
 [About changing the project group](about-changing-the-project-group.md)
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Estimate projects (form)](https://technet.microsoft.com/en-us/library/aa599196\(v=ax.60\))
+[Estimate projects (form)](https://technet.microsoft.com/library/aa599196\(v=ax.60\))
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
-[Change project group (class form)](https://technet.microsoft.com/en-us/library/aa553530\(v=ax.60\))
+[Change project group (class form)](https://technet.microsoft.com/library/aa553530\(v=ax.60\))
 
 [Configuring project groups](configuring-project-groups.md)
 

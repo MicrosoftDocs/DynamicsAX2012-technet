@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceController(TEntity, TKey).GetQueryResultSettings Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: GetQueryResultSettings Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController`2.GetQueryResultSettings
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716795(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716795(v=AX.60)
 ms:contentKeyID: 62203809
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

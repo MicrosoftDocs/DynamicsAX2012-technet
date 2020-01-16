@@ -2,8 +2,9 @@
 title: (CHN) Copy and reverse a voucher
 TOCTitle: (CHN) Copy and reverse a voucher
 ms:assetid: 339adbdf-f41a-4425-a09c-11697866405a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664019(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664019(v=AX.60)
 ms:contentKeyID: 49384603
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -105,7 +106,7 @@ Refer to the following information to set up and perform the following actions:
 
 ## See also
 
-[(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664137\(v=ax.60\))
+[(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj664137\(v=ax.60\))
 
   
 

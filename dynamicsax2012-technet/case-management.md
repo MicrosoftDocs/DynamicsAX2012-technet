@@ -2,8 +2,9 @@
 title: Case management
 TOCTitle: Case management
 ms:assetid: 14cfee9d-9a37-4b29-8869-ddc9486401d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242147(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242147(v=AX.60)
 ms:contentKeyID: 36056057
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -143,7 +144,7 @@ Cristine creates a case for Claus. She reviews Claus’s tax information and lea
 
 [About audit policy violations and cases](about-audit-policy-violations-and-cases.md)
 
-[Case grouping criteria (form)](https://technet.microsoft.com/en-us/library/hh209729\(v=ax.60\))
+[Case grouping criteria (form)](https://technet.microsoft.com/library/hh209729\(v=ax.60\))
 
   
 

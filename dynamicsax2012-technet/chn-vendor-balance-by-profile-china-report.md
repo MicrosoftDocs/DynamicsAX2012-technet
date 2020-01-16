@@ -2,8 +2,9 @@
 title: (CHN) Vendor balance by profile (China) (report)
 TOCTitle: (CHN) Vendor balance by profile (China) (report)
 ms:assetid: 592e5ce0-bf41-41df-8d05-8cf48763daa5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ944970(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ944970(v=AX.60)
 ms:contentKeyID: 51412470
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

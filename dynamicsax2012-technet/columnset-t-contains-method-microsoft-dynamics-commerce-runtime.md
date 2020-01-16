@@ -1,9 +1,10 @@
-﻿---
+---
 title: ColumnSet(T).Contains Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: Contains Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ColumnSet`1.Contains(`0)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn739185(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn739185(v=AX.60)
 ms:contentKeyID: 62211997
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,7 +57,7 @@ bool Contains(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 If true, the set contains the column. Otherwise, false.  
 
 ## See Also

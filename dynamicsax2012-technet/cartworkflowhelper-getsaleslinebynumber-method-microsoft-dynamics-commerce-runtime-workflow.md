@@ -1,9 +1,10 @@
-﻿---
+---
 title: CartWorkflowHelper.GetSalesLineByNumber Method  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: GetSalesLineByNumber Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CartWorkflowHelper.GetSalesLineByNumber(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction,System.Decimal)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.cartworkflowhelper.getsaleslinebynumber(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.cartworkflowhelper.getsaleslinebynumber(v=AX.60)
 ms:contentKeyID: 62210888
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,7 +62,7 @@ static SalesLine^ GetSalesLineByNumber(
 <!-- end list -->
 
   - lineNumber  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 #### Return Value
 

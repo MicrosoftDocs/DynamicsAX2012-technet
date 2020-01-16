@@ -2,8 +2,9 @@
 title: Combine planned orders
 TOCTitle: Combine planned orders
 ms:assetid: 2310353a-5f2b-4ae1-b146-723d2eb41096
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496802(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496802(v=AX.60)
 ms:contentKeyID: 36056179
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ To combine planned orders, use the following procedure:
 
 ## See also
 
-[Planned orders (form)](https://technet.microsoft.com/en-us/library/aa620351\(v=ax.60\))
+[Planned orders (form)](https://technet.microsoft.com/library/aa620351\(v=ax.60\))
 
   
 

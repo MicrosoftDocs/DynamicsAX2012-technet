@@ -2,8 +2,9 @@
 title: (CHN) WIP summary status (report)
 TOCTitle: (CHN) WIP summary status (report)
 ms:assetid: 2d5872d7-08fd-4b36-9261-de730b576302
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn169453(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn169453(v=AX.60)
 ms:contentKeyID: 53865944
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

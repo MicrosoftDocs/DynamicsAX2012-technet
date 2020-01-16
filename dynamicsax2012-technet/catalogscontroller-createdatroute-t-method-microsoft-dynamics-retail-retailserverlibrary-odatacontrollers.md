@@ -1,9 +1,10 @@
-﻿---
+---
 title: CatalogsController.CreatedAtRoute(T) Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: CreatedAtRoute(T) Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CatalogsController.CreatedAtRoute``1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn737063(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn737063(v=AX.60)
 ms:contentKeyID: 62201769
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

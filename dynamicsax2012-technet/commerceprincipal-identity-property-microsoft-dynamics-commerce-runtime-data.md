@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommercePrincipal.Identity Property  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: Identity Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.CommercePrincipal.Identity
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.commerceprincipal.identity(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.commerceprincipal.identity(v=AX.60)
 ms:contentKeyID: 65316272
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,11 +46,11 @@ virtual property IIdentity^ Identity {
 
 #### Property Value
 
-Type: [System.Security.Principal.IIdentity](https://technet.microsoft.com/en-us/library/cfh703cy\(v=ax.60\))  
+Type: [System.Security.Principal.IIdentity](https://technet.microsoft.com/library/cfh703cy\(v=ax.60\))  
 
 #### Implements
 
-[IPrincipal.Identity](https://technet.microsoft.com/en-us/library/499z5w4e\(v=ax.60\))  
+[IPrincipal.Identity](https://technet.microsoft.com/library/499z5w4e\(v=ax.60\))  
 
 ## See Also
 

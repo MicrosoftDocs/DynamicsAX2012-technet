@@ -2,8 +2,9 @@
 title: Charges configuration key (Markup)
 TOCTitle: Charges configuration key (Markup)
 ms:assetid: 24a46518-b2c5-464d-91f0-e9135f534aaf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551714(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551714(v=AX.60)
 ms:contentKeyID: 36997747
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,21 +40,21 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Auto charges</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582856(v=ax.60)">Auto charges (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582856(v=ax.60)">Auto charges (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Charges code</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598932(v=ax.60)">Charges code (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598932(v=ax.60)">Charges code (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Charges transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa633876(v=ax.60)">Charges transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa633876(v=ax.60)">Charges transactions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Charges groups</strong></p>
 <p><strong>Item charges groups</strong></p>
 <p><strong>Vendor charges group</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa617452(v=ax.60)">Charges groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa617452(v=ax.60)">Charges groups (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Connect charges</strong></p></td>
@@ -117,17 +118,17 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Auto charges</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582856(v=ax.60)">Auto charges (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582856(v=ax.60)">Auto charges (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Charges groups</strong></p>
 <p><strong>Customer charges groups</strong></p>
 <p><strong>Item charges groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa617452(v=ax.60)">Charges groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa617452(v=ax.60)">Charges groups (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Charges code</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598932(v=ax.60)">Charges code (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598932(v=ax.60)">Charges code (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -149,21 +150,21 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Auto charges</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582856(v=ax.60)">Auto charges (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582856(v=ax.60)">Auto charges (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Charges groups</strong></p>
 <p><strong>Item charges groups</strong></p>
 <p><strong>Vendor charges group</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa617452(v=ax.60)">Charges groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa617452(v=ax.60)">Charges groups (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Charges code</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598932(v=ax.60)">Charges code (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598932(v=ax.60)">Charges code (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Charges transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa633876(v=ax.60)">Charges transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa633876(v=ax.60)">Charges transactions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Connect charges</strong></p></td>
@@ -226,7 +227,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Charges transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa633876(v=ax.60)">Charges transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa633876(v=ax.60)">Charges transactions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Connect charges</strong></p></td>
@@ -305,7 +306,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: (CHN) Payable details (China) (Report)
 TOCTitle: (CHN) Payable details (China) (Report)
 ms:assetid: dfce0bdd-d4c6-4439-90e8-543f9155891a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ944982(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ944982(v=AX.60)
 ms:contentKeyID: 51412481
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (CHN) Set up the Chinese user interface
 TOCTitle: (CHN) Set up the Chinese user interface
 ms:assetid: 022a82d8-1c1d-413e-b4b0-f0b73a48253b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663984(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663984(v=AX.60)
 ms:contentKeyID: 49384570
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -92,13 +93,13 @@ The address format determines how addresses are displayed when you print them. I
 
 ## See also
 
-[AIF outbound ports (form)](https://technet.microsoft.com/en-us/library/hh227495\(v=ax.60\))
+[AIF outbound ports (form)](https://technet.microsoft.com/library/hh227495\(v=ax.60\))
 
-[Name sequences (form)](https://technet.microsoft.com/en-us/library/hh209673\(v=ax.60\))
+[Name sequences (form)](https://technet.microsoft.com/library/hh209673\(v=ax.60\))
 
-[Translation (form)](https://technet.microsoft.com/en-us/library/hh370703\(v=ax.60\))
+[Translation (form)](https://technet.microsoft.com/library/hh370703\(v=ax.60\))
 
-[Address setup (form)](https://technet.microsoft.com/en-us/library/hh209301\(v=ax.60\))
+[Address setup (form)](https://technet.microsoft.com/library/hh209301\(v=ax.60\))
 
 [(CHN) Import ZIP/postal codes](chn-import-zip-postal-codes.md)
 

@@ -2,8 +2,9 @@
 title: Chief executive officer security role (CompanyChiefExecutiveOfficer)
 TOCTitle: Chief executive officer security role (CompanyChiefExecutiveOfficer)
 ms:assetid: b8785540-2e96-4446-a304-207354efb57e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527128(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527128(v=AX.60)
 ms:contentKeyID: 37823179
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

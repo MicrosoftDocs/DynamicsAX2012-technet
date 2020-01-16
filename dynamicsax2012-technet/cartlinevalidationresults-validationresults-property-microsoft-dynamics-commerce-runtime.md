@@ -1,9 +1,10 @@
-﻿---
+---
 title: CartLineValidationResults.ValidationResults Property  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: ValidationResults Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.CartLineValidationResults.ValidationResults
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.cartlinevalidationresults.validationresults(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.cartlinevalidationresults.validationresults(v=AX.60)
 ms:contentKeyID: 62212396
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,8 +50,8 @@ property Dictionary<int, Collection<DataValidationFailure^>^>^ ValidationResults
 
 #### Property Value
 
-Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<[Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\)), [Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[DataValidationFailure](datavalidationfailure-class-microsoft-dynamics-commerce-runtime.md)\>\>  
-Returns [Dictionary\<TKey, TValue\>](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\)).  
+Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<[Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\)), [Collection](https://technet.microsoft.com/library/ms132397\(v=ax.60\))\<[DataValidationFailure](datavalidationfailure-class-microsoft-dynamics-commerce-runtime.md)\>\>  
+Returns [Dictionary\<TKey, TValue\>](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\)).  
 
 ## See Also
 

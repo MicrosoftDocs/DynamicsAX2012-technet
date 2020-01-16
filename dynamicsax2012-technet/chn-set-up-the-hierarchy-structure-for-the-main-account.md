@@ -2,8 +2,9 @@
 title: (CHN) Set up the hierarchy structure for the main account
 TOCTitle: (CHN) Set up the hierarchy structure for the main account
 ms:assetid: e979f334-b3d7-4a64-80ac-d42910e9f0d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664147(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664147(v=AX.60)
 ms:contentKeyID: 49384730
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,11 +48,11 @@ Companies in China create and maintain a chart of accounts in a hierarchical tre
 
 ## See also
 
-[(CHN) Main account hierarchy (form)](https://technet.microsoft.com/en-us/library/jj664039\(v=ax.60\))
+[(CHN) Main account hierarchy (form)](https://technet.microsoft.com/library/jj664039\(v=ax.60\))
 
-[(CHN) Chart of accounts (modified form)](https://technet.microsoft.com/en-us/library/jj664101\(v=ax.60\))
+[(CHN) Chart of accounts (modified form)](https://technet.microsoft.com/library/jj664101\(v=ax.60\))
 
-[Chart of accounts (form)](https://technet.microsoft.com/en-us/library/aa618234\(v=ax.60\))
+[Chart of accounts (form)](https://technet.microsoft.com/library/aa618234\(v=ax.60\))
 
   
 

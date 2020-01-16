@@ -2,8 +2,9 @@
 title: (CHE) Payment advice report (VendOutPaymAdvice_CHEZAG)
 TOCTitle: (CHE) Payment advice report (VendOutPaymAdvice_CHEZAG)
 ms:assetid: b11fb81f-a2c5-408c-80ec-7f36a3ffc29e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404046(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404046(v=AX.60)
 ms:contentKeyID: 36956706
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -91,7 +92,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\))
+[Generate payments - vendor (class form)](https://technet.microsoft.com/library/aa586980\(v=ax.60\))
 
   
 

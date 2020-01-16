@@ -2,8 +2,9 @@
 title: Check upgrade readiness
 TOCTitle: Check upgrade readiness
 ms:assetid: 6494b089-f4a7-4e5d-bd14-f46e5dc9a1b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731817(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731817(v=AX.60)
 ms:contentKeyID: 35132665
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,7 +70,7 @@ To rerun a single script or multiple scripts when upgrading from Microsoft Dynam
 
 ## See also
 
-[Upgrade preprocessing scripts (form)](https://technet.microsoft.com/en-us/library/hh202100\(v=ax.60\))
+[Upgrade preprocessing scripts (form)](https://technet.microsoft.com/library/hh202100\(v=ax.60\))
 
   
 

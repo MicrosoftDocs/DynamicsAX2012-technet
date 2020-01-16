@@ -2,8 +2,9 @@
 title: Change the end date for an approved vendor
 TOCTitle: Change the end date for an approved vendor
 ms:assetid: 1aff716c-b25f-4330-8607-87a44e4a1573
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208456(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208456(v=AX.60)
 ms:contentKeyID: 36056128
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,9 +54,9 @@ Use this procedure to change the end date of the effective approval period for a
 
 ## See also
 
-[Approved vendor list (form)](https://technet.microsoft.com/en-us/library/hh328745\(v=ax.60\))
+[Approved vendor list (form)](https://technet.microsoft.com/library/hh328745\(v=ax.60\))
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
   
 

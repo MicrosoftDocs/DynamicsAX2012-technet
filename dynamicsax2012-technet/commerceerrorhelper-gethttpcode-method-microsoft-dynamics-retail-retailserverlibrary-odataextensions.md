@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceErrorHelper.GetHttpCode Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions)
 TOCTitle: GetHttpCode Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions.CommerceErrorHelper.GetHttpCode(System.Exception)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.commerceerrorhelper.gethttpcode(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.commerceerrorhelper.gethttpcode(v=AX.60)
 ms:contentKeyID: 62202681
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,11 +52,11 @@ virtual HttpStatusCode GetHttpCode(
 #### Parameters
 
   - exception  
-    Type: [System.Exception](https://technet.microsoft.com/en-us/library/c18k6c59\(v=ax.60\))  
+    Type: [System.Exception](https://technet.microsoft.com/library/c18k6c59\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Net.HttpStatusCode](https://technet.microsoft.com/en-us/library/f92ssyy1\(v=ax.60\))  
+Type: [System.Net.HttpStatusCode](https://technet.microsoft.com/library/f92ssyy1\(v=ax.60\))  
 The http status code.  
 
 ## See Also

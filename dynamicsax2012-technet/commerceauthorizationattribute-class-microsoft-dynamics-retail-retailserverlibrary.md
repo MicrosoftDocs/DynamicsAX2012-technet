@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceAuthorizationAttribute Class (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: CommerceAuthorizationAttribute Class
 ms:assetid: T:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceAuthorizationAttribute
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.commerceauthorizationattribute(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commerceauthorizationattribute(v=AX.60)
 ms:contentKeyID: 62202182
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # CommerceAuthorizationAttribute Class
 
-CommerceAuthorizationAttribute specifies the commerce authorization filter that verifies the user request's [IPrincipal](https://technet.microsoft.com/en-us/library/f8kt7fb8\(v=ax.60\)).
+CommerceAuthorizationAttribute specifies the commerce authorization filter that verifies the user request's [IPrincipal](https://technet.microsoft.com/library/f8kt7fb8\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.RetailServerLibrary (in Microsoft.Dynamics.Retail.RetailServerLibrary.dll)
@@ -51,8 +52,8 @@ Authorization class for all ODATA entities and Actions.
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-  [System.Attribute](https://technet.microsoft.com/en-us/library/e8kc3626\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+  [System.Attribute](https://technet.microsoft.com/library/e8kc3626\(v=ax.60\))  
     FilterAttribute  
       AuthorizationFilterAttribute  
         AuthorizeAttribute  

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChargeLine.ChargeMethod Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ChargeMethod Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ChargeLine.ChargeMethod
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.chargeline.chargemethod(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.chargeline.chargemethod(v=AX.60)
 ms:contentKeyID: 49856234
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

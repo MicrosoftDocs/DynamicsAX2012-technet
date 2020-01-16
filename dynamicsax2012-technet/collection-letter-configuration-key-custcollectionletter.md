@@ -2,8 +2,9 @@
 title: Collection letter configuration key (CustCollectionLetter)
 TOCTitle: Collection letter configuration key (CustCollectionLetter)
 ms:assetid: 346beffa-f0a8-4852-8d5f-c19677bdebbd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467546(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467546(v=AX.60)
 ms:contentKeyID: 36991693
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,15 +38,15 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Collection letter journal</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa550139(v=ax.60)">Collection letter journal (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa550139(v=ax.60)">Collection letter journal (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Collection letter</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620428(v=ax.60)">Collection letter (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620428(v=ax.60)">Collection letter (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Print/post collection letters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589938(v=ax.60)">Print/post collection letters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589938(v=ax.60)">Print/post collection letters (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -109,7 +110,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

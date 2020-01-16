@@ -1,9 +1,10 @@
-﻿---
+---
 title: CartWorkflowHelper.ValidateUpdateCartRequest Method  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: ValidateUpdateCartRequest Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CartWorkflowHelper.ValidateUpdateCartRequest(Microsoft.Dynamics.Commerce.Runtime.RequestContext,Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction,Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction,Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart,System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.cartworkflowhelper.validateupdatecartrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.cartworkflowhelper.validateupdatecartrequest(v=AX.60)
 ms:contentKeyID: 62204788
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -88,7 +89,7 @@ static void ValidateUpdateCartRequest(
 <!-- end list -->
 
   - isGiftCardOperation  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## Exceptions
 

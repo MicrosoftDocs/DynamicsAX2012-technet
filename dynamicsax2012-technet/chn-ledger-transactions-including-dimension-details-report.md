@@ -2,8 +2,9 @@
 title: (CHN) Ledger transactions including dimension details (report)
 TOCTitle: (CHN) Ledger transactions including dimension details (report)
 ms:assetid: b57deebf-2315-40bd-a816-2e6669427cec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ944980(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ944980(v=AX.60)
 ms:contentKeyID: 51412480
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

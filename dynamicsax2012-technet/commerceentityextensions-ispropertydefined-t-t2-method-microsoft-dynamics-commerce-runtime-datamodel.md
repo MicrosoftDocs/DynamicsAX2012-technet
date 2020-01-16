@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceEntityExtensions.IsPropertyDefined(T, T2) Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: IsPropertyDefined(T, T2) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceEntityExtensions.IsPropertyDefined``2(``0,System.Linq.Expressions.Expression{System.Func{``0,``1}})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn998602(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn998602(v=AX.60)
 ms:contentKeyID: 65317033
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,11 +74,11 @@ static bool IsPropertyDefined(
 <!-- end list -->
 
   - propertyLambda  
-    Type: [System.Linq.Expressions.Expression](https://technet.microsoft.com/en-us/library/bb335710\(v=ax.60\))\<[Func](https://technet.microsoft.com/en-us/library/bb549151\(v=ax.60\))\<T, T2\>\>  
+    Type: [System.Linq.Expressions.Expression](https://technet.microsoft.com/library/bb335710\(v=ax.60\))\<[Func](https://technet.microsoft.com/library/bb549151\(v=ax.60\))\<T, T2\>\>  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 Whether the property is defined in this entity or not.  
 
 #### Usage Note

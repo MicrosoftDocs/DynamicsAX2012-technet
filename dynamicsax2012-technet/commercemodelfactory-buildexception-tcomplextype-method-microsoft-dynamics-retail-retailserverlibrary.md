@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceModelFactory.BuildException(TComplexType) Method  (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: BuildException(TComplexType) Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceModelFactory.BuildException``1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn737433(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn737433(v=AX.60)
 ms:contentKeyID: 62202146
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

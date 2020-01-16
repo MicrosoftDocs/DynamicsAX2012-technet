@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceRuntime.GetRequestHandlers(THandler) Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: GetRequestHandlers(THandler) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.CommerceRuntime.GetRequestHandlers``1(System.Type)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn989498(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn989498(v=AX.60)
 ms:contentKeyID: 65319958
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,11 +58,11 @@ virtual IEnumerable<THandler>^ GetRequestHandlers(
 #### Parameters
 
   - requestType  
-    Type: [System.Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\))  
+    Type: [System.Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<THandler\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<THandler\>  
 
 ## See Also
 

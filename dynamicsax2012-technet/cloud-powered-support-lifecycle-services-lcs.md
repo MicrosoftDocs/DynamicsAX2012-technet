@@ -2,8 +2,9 @@
 title: Cloud-powered support (Lifecycle Services, LCS)
 TOCTitle: Cloud-powered support
 ms:assetid: 4c1a760f-a790-4215-9f3a-fb75ec64ea23
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn715995(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn715995(v=AX.60)
 ms:contentKeyID: 62200220
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

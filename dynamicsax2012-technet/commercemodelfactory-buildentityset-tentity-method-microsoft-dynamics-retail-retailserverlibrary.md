@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceModelFactory.BuildEntitySet(TEntity) Method  (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: BuildEntitySet(TEntity) Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceModelFactory.BuildEntitySet``1(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn737209(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn737209(v=AX.60)
 ms:contentKeyID: 62201920
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ static EntitySetConfiguration<TEntity>^ BuildEntitySet(
 #### Parameters
 
   - entitySetName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 

@@ -2,8 +2,9 @@
 title: (CHN) Configure for tax integration upgrade
 TOCTitle: (CHN) Configure for tax integration upgrade
 ms:assetid: ba1c5dd4-56df-4dce-9a4e-482133758048
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ714199(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ714199(v=AX.60)
 ms:contentKeyID: 49651308
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -53,7 +54,7 @@ Click the **Configure for tax integration upgrade** task to open the **Set up fo
 
 ## See also
 
-[(CHN) Configure for tax integration upgrade (form)](https://technet.microsoft.com/en-us/library/jj713619\(v=ax.60\))
+[(CHN) Configure for tax integration upgrade (form)](https://technet.microsoft.com/library/jj713619\(v=ax.60\))
 
   
 

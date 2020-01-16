@@ -2,8 +2,9 @@
 title: (CHE) Create a payment proposal for LSV+ payments
 TOCTitle: (CHE) Create a payment proposal for LSV+ payments
 ms:assetid: 995f55a7-9d16-4cd9-bb18-d3a405d1af51
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232247(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232247(v=AX.60)
 ms:contentKeyID: 36058692
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

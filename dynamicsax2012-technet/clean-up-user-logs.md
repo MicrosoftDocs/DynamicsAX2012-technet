@@ -2,8 +2,9 @@
 title: Clean up user logs
 TOCTitle: Clean up user logs
 ms:assetid: d2fcc77b-0ef9-48c8-9ef5-d842ca254a0c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362082(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362082(v=AX.60)
 ms:contentKeyID: 37822174
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -25,7 +26,7 @@ Use the **User log cleanup** form to delete user log information that is no long
 
 4.  Select your cleanup criteria.
     
-    Select a user or a range of users and, optionally, additional user information, such as date and time. For more information, see [Inquiry (form)](https://technet.microsoft.com/en-us/library/aa575929\(v=ax.60\)).
+    Select a user or a range of users and, optionally, additional user information, such as date and time. For more information, see [Inquiry (form)](https://technet.microsoft.com/library/aa575929\(v=ax.60\)).
 
 5.  Click **OK** to return to the **User log cleanup** form.
 

@@ -2,8 +2,9 @@
 title: Change reservation on several orders (batch reservation)
 TOCTitle: Change reservation on several orders (batch reservation)
 ms:assetid: 97e498ec-f046-441a-b72f-673050ac0840
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498436(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498436(v=AX.60)
 ms:contentKeyID: 36058672
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

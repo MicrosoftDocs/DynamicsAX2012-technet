@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceRuntimeConfiguration.Composition Property  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: Composition Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.CommerceRuntimeConfiguration.Composition
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.commerceruntimeconfiguration.composition(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.commerceruntimeconfiguration.composition(v=AX.60)
 ms:contentKeyID: 65323206
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

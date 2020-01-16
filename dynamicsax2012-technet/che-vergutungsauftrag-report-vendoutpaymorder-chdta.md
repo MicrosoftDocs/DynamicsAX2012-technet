@@ -2,8 +2,9 @@
 title: (CHE) Vergütungsauftrag report (VendOutPaymOrder_CHDTA)
 TOCTitle: (CHE) Vergütungsauftrag report (VendOutPaymOrder_CHDTA)
 ms:assetid: 74a374d6-0705-4c9d-b507-ab7e607c1c64
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404043(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404043(v=AX.60)
 ms:contentKeyID: 36956699
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -91,7 +92,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\))
+[Generate payments - vendor (class form)](https://technet.microsoft.com/library/aa586980\(v=ax.60\))
 
   
 

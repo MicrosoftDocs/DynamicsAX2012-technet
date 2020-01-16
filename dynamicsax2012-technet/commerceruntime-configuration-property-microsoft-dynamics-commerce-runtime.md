@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceRuntime.Configuration Property  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: Configuration Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.CommerceRuntime.Configuration
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.commerceruntime.configuration(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.commerceruntime.configuration(v=AX.60)
 ms:contentKeyID: 49849075
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

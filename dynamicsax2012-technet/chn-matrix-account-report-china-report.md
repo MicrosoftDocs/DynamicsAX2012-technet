@@ -2,8 +2,9 @@
 title: (CHN) Matrix account report (China) (report)
 TOCTitle: (CHN) Matrix account report (China) (report)
 ms:assetid: 37c30d75-9aaa-4189-9868-d9ddcbb1b299
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ874407(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ874407(v=AX.60)
 ms:contentKeyID: 50619720
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

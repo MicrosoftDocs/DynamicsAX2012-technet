@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceAuthorizationAttribute.IsAuthorized Method  (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: IsAuthorized Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceAuthorizationAttribute.IsAuthorized(System.Web.Http.Controllers.HttpActionContext)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.commerceauthorizationattribute.isauthorized(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commerceauthorizationattribute.isauthorized(v=AX.60)
 ms:contentKeyID: 62202001
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,8 +56,8 @@ virtual bool IsAuthorized(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
-The [Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\)) result of authorization.  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
+The [Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\)) result of authorization.  
 
 ## See Also
 

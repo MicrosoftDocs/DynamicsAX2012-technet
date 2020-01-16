@@ -2,8 +2,9 @@
 title: (CHN) Generate a group of voucher types
 TOCTitle: (CHN) Generate a group of voucher types
 ms:assetid: a659e41f-63bc-407c-ae4a-788ec95bd52f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664095(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664095(v=AX.60)
 ms:contentKeyID: 49384680
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ Use the **Voucher type setup wizard** to automatically generate a group of vouch
 
 ## See also
 
-[(CHN) Voucher type setup wizard (form)](https://technet.microsoft.com/en-us/library/jj664054\(v=ax.60\))
+[(CHN) Voucher type setup wizard (form)](https://technet.microsoft.com/library/jj664054\(v=ax.60\))
 
   
 

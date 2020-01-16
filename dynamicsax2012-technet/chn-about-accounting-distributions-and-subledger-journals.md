@@ -2,8 +2,9 @@
 title: (CHN) About accounting distributions and subledger journals
 TOCTitle: (CHN) About accounting distributions and subledger journals
 ms:assetid: 8220b01b-b1ce-4f4e-a934-bc203a4804fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664071(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664071(v=AX.60)
 ms:contentKeyID: 49384655
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ Voucher types are generated and validated when ledger transactions are posted. V
 
 ## See also
 
-[(CHN) Voucher transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664127\(v=ax.60\))
+[(CHN) Voucher transactions (modified form)](https://technet.microsoft.com/library/jj664127\(v=ax.60\))
 
   
 

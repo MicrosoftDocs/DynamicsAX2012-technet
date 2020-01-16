@@ -1,9 +1,10 @@
-﻿---
+---
 title: CheckAccessServiceRequest Constructor (CommercePrincipal, String , RetailOperation, Boolean) (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: CheckAccessServiceRequest Constructor (CommercePrincipal, String , RetailOperation, Boolean)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CheckAccessServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.Data.CommercePrincipal,System.String[],Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailOperation,System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.checkaccessservicerequest.checkaccessservicerequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.checkaccessservicerequest.checkaccessservicerequest(v=AX.60)
 ms:contentKeyID: 65319835
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -64,7 +65,7 @@ CheckAccessServiceRequest(
 <!-- end list -->
 
   - allowedRoles  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\[\]  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\[\]  
 
 <!-- end list -->
 
@@ -74,7 +75,7 @@ CheckAccessServiceRequest(
 <!-- end list -->
 
   - deviceTokenRequired  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: (CHN, JPN) Create allocation rules and allocate depreciation costs
 TOCTitle: (CHN, JPN) Create allocation rules and allocate depreciation costs
 ms:assetid: c90c3c2f-6a62-4020-8e5f-f2fa8e74bcd1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn269134(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn269134(v=AX.60)
 ms:contentKeyID: 54920086
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,11 +56,11 @@ The following table shows the prerequisites that must be in place before you sta
 </tr>
 <tr class="even">
 <td><p><strong>Accounting</strong></p></td>
-<td><p>Create ledger accounts that the depreciation costs for operation units must be posted to. For more information, see <a href="about-main-accounts-for-fixed-assets.md">About main accounts for fixed assets</a> and <a href="https://technet.microsoft.com/en-us/library/hh209695(v=ax.60)">Main accounts - chart of accounts (form)</a>.</p></td>
+<td><p>Create ledger accounts that the depreciation costs for operation units must be posted to. For more information, see <a href="about-main-accounts-for-fixed-assets.md">About main accounts for fixed assets</a> and <a href="https://technet.microsoft.com/library/hh209695(v=ax.60)">Main accounts - chart of accounts (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Related setup tasks</strong></p></td>
-<td><p>Set up value models for the fixed assets that you want to depreciate. For more information, see <a href="set-up-value-models.md">Set up value models</a> and <a href="https://technet.microsoft.com/en-us/library/aa590830(v=ax.60)">Value models (form)</a>.</p></td>
+<td><p>Set up value models for the fixed assets that you want to depreciate. For more information, see <a href="set-up-value-models.md">Set up value models</a> and <a href="https://technet.microsoft.com/library/aa590830(v=ax.60)">Value models (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -97,7 +98,7 @@ To assign an allocation rule to a fixed asset posting profile, follow these step
 
 1.  Click **Fixed assets** \> **Setup** \> **Fixed asset posting profiles**.
 
-2.  Create a fixed asset posting profile or select an existing posting profile of type **Depreciation** or **Extraordinary depreciation**. For more information, see [Set up fixed asset posting profiles](set-up-fixed-asset-posting-profiles.md) and [Fixed asset posting profiles (form)](https://technet.microsoft.com/en-us/library/aa571467\(v=ax.60\)).
+2.  Create a fixed asset posting profile or select an existing posting profile of type **Depreciation** or **Extraordinary depreciation**. For more information, see [Set up fixed asset posting profiles](set-up-fixed-asset-posting-profiles.md) and [Fixed asset posting profiles (form)](https://technet.microsoft.com/library/aa571467\(v=ax.60\)).
 
 3.  Select the **Depreciation** check box, then on the **Allocation rules** FastTab, in the **Asset allocation rule for depreciation** field, select the allocation rule that you created.
     

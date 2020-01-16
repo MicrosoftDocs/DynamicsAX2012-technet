@@ -2,8 +2,9 @@
 title: Cash inflow vs. cash outflow chart report (LedgerCashInflowvsCashOutflow)
 TOCTitle: Cash inflow vs. cash outflow chart report (LedgerCashInflowvsCashOutflow)
 ms:assetid: 40da97ba-6bde-44fe-8bac-faab43788c28
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527124(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527124(v=AX.60)
 ms:contentKeyID: 37823175
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

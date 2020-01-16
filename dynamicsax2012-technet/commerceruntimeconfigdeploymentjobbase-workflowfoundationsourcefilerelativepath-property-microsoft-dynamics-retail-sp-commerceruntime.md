@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceRuntimeConfigDeploymentJobBase.WorkflowFoundationSourceFileRelativePath Property  (Microsoft.Dynamics.Retail.SP.CommerceRuntime)
 TOCTitle: WorkflowFoundationSourceFileRelativePath Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SP.CommerceRuntime.CommerceRuntimeConfigDeploymentJobBase.WorkflowFoundationSourceFileRelativePath
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commerceruntime.commerceruntimeconfigdeploymentjobbase.workflowfoundationsourcefilerelativepath(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commerceruntime.commerceruntimeconfigdeploymentjobbase.workflowfoundationsourcefilerelativepath(v=AX.60)
 ms:contentKeyID: 62202579
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,8 +48,8 @@ property String^ WorkflowFoundationSourceFileRelativePath {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
-Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)).  
 
 ## See Also
 

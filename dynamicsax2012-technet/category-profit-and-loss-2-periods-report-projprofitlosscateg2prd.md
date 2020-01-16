@@ -2,8 +2,9 @@
 title: Category profit and loss (2 periods) report (ProjProfitLossCateg2Prd)
 TOCTitle: Category profit and loss (2 periods) report (ProjProfitLossCateg2Prd)
 ms:assetid: ea104189-f8ae-4a36-84e7-3c3f5dff55cd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220768(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220768(v=AX.60)
 ms:contentKeyID: 36966716
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

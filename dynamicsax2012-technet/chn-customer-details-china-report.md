@@ -2,8 +2,9 @@
 title: (CHN) Customer details (China) (report)
 TOCTitle: (CHN) Customer details (China) (report)
 ms:assetid: 976ed8dc-9be1-446d-9453-ab0adaf07087
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ944975(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ944975(v=AX.60)
 ms:contentKeyID: 51412475
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
