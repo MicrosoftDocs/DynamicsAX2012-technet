@@ -1,9 +1,10 @@
-﻿---
+---
 title: Guide to the Services and AIF Documentation
 TOCTitle: Guide to the Services and AIF Documentation
 ms:assetid: 4e917ee3-5ab4-4852-8a53-fb24bd3316a4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710373(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710373(v=AX.60)
 ms:contentKeyID: 49384265
+author: Khairunj
 ms.date: 01/09/2013
 mtps_version: v=AX.60
 ---
@@ -63,7 +64,7 @@ If you are new to programming with Services and AIF and you want to see samples 
 
 Implementing data transfers has changed significantly in Microsoft Dynamics AX 2012. For more information about these changes, see the following topics.
 
-  - For information about What’s New in Microsoft Dynamics AX 2012 for system administrators, see [What's New: Services and AIF administration](https://technet.microsoft.com/en-us/library/gg751352\(v=ax.60\)).
+  - For information about What’s New in Microsoft Dynamics AX 2012 for system administrators, see [What's New: Services and AIF administration](https://technet.microsoft.com/library/gg751352\(v=ax.60\)).
 
   - For information about what’s new in Microsoft Dynamics AX 2012 for developers, see What's New: Services and AIF for Developers in Microsoft Dynamics AX 2012.
 

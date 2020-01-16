@@ -2,8 +2,9 @@
 title: (HUN) Set up exchange rate calculation and adjustment
 TOCTitle: (HUN) Set up exchange rate calculation and adjustment
 ms:assetid: 70547a31-6c27-4d46-afae-f7856704aebf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664300(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664300(v=AX.60)
 ms:contentKeyID: 49385388
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

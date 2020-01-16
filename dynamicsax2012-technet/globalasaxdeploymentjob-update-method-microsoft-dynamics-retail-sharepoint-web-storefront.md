@@ -1,9 +1,10 @@
-﻿---
+---
 title: GlobalASAXDeploymentJob.Update Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Storefront)
 TOCTitle: Update Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.GlobalASAXDeploymentJob.Update
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.storefront.globalasaxdeploymentjob.update(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.globalasaxdeploymentjob.update(v=AX.60)
 ms:contentKeyID: 62205495
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

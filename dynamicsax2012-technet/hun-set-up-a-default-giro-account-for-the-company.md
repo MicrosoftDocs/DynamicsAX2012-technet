@@ -2,8 +2,9 @@
 title: (HUN) Set up a default GIRO account for the company
 TOCTitle: (HUN) Set up a default GIRO account for the company
 ms:assetid: e51aa8e8-ab75-455b-a913-219952d1528d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664402(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664402(v=AX.60)
 ms:contentKeyID: 49385490
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetTerminalByRecordIdDataRequest.TerminalRecordId Property  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: TerminalRecordId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetTerminalByRecordIdDataRequest.TerminalRecordId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getterminalbyrecordiddatarequest.terminalrecordid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getterminalbyrecordiddatarequest.terminalrecordid(v=AX.60)
 ms:contentKeyID: 65319334
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ property long long TerminalRecordId {
 
 #### Property Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 The terminal record identifier.  
 
 ## See Also

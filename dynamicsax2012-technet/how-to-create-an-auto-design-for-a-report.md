@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Create an Auto Design for a Report'
 TOCTitle: 'How to: Create an Auto Design for a Report'
 ms:assetid: f72b49db-e2ec-47e0-b5d5-27e307c1fecc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc624233(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc624233(v=AX.60)
 ms:contentKeyID: 28119620
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Position Sections and Controls on Reports by Using X++ (MorphX Reporting Tools)'
 TOCTitle: 'How to: Position Sections and Controls on Reports by Using X++'
 ms:assetid: cde72335-bf04-4030-9bf0-add613dd686d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb278223(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb278223(v=AX.60)
 ms:contentKeyID: 35290372
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -224,5 +225,5 @@ A working example that demonstrates the positioning of items in a report ships a
 
 ## See also
 
-[Report Design Section Properties](https://technet.microsoft.com/en-us/library/aa643974\(v=ax.60\))
+[Report Design Section Properties](https://technet.microsoft.com/library/aa643974\(v=ax.60\))
 

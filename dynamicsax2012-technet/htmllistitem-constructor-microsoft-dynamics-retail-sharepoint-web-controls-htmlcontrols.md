@@ -1,9 +1,10 @@
-﻿---
+---
 title: HtmlListItem Constructor  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls)
 TOCTitle: HtmlListItem Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlListItem.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmllistitem.htmllistitem(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmllistitem.htmllistitem(v=AX.60)
 ms:contentKeyID: 62203819
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

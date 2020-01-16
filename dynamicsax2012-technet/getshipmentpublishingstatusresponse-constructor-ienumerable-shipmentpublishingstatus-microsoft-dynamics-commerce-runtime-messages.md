@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetShipmentPublishingStatusResponse Constructor (IEnumerable(ShipmentPublishingStatus)) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetShipmentPublishingStatusResponse Constructor (IEnumerable(ShipmentPublishingStatus))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetShipmentPublishingStatusResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ShipmentPublishingStatus})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getshipmentpublishingstatusresponse.getshipmentpublishingstatusresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getshipmentpublishingstatusresponse.getshipmentpublishingstatusresponse(v=AX.60)
 ms:contentKeyID: 62212060
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ GetShipmentPublishingStatusResponse(
 #### Parameters
 
   - shipmentPublishingStatusCollection  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[ShipmentPublishingStatus](shipmentpublishingstatus-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[ShipmentPublishingStatus](shipmentpublishingstatus-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

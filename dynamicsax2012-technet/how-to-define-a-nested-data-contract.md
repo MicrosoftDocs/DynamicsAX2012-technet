@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Define a Nested Data Contract'
 TOCTitle: 'How to: Define a Nested Data Contract'
 ms:assetid: 433423d6-5cde-40c1-8892-cc4bf9aafa9d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731913(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731913(v=AX.60)
 ms:contentKeyID: 35132839
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -148,7 +149,7 @@ Data for an RDP report is preprocessed and then stored in a temporary table. The
 
 
 
-For more information, see [Temporary Tables and the TableType Property](https://technet.microsoft.com/en-us/library/gg863308\(v=ax.60\)). In this section you will create a temporary table to store the data for the report.
+For more information, see [Temporary Tables and the TableType Property](https://technet.microsoft.com/library/gg863308\(v=ax.60\)). In this section you will create a temporary table to store the data for the report.
 
 ### To create a temporary table
 

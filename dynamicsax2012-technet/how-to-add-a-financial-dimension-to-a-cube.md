@@ -2,8 +2,9 @@
 title: 'How to: Add a Financial Dimension to a Cube'
 TOCTitle: 'How to: Add a Financial Dimension to a Cube'
 ms:assetid: 507d6dab-53bb-4116-971b-f834bb3192c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh128830(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh128830(v=AX.60)
 ms:contentKeyID: 35588429
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -41,7 +42,7 @@ To add a financial dimension, run the Analysis Services project wizard and selec
 
 ## See also
 
-[Financial dimensions (form)](https://technet.microsoft.com/en-us/library/hh209534\(v=ax.60\))
+[Financial dimensions (form)](https://technet.microsoft.com/library/hh209534\(v=ax.60\))
 
   
 

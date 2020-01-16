@@ -2,8 +2,9 @@
 title: Human resources reports
 TOCTitle: Human resources reports
 ms:assetid: a397de2d-9690-4915-bb13-e22f21b96905
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334501(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334501(v=AX.60)
 ms:contentKeyID: 36676489
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

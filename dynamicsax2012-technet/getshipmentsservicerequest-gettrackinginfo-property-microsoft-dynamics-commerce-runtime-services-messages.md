@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetShipmentsServiceRequest.GetTrackingInfo Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: GetTrackingInfo Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetShipmentsServiceRequest.GetTrackingInfo
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getshipmentsservicerequest.gettrackinginfo(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getshipmentsservicerequest.gettrackinginfo(v=AX.60)
 ms:contentKeyID: 49849403
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ property bool GetTrackingInfo {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 If true tracking information is retrieved; otherwise, false.  
 
 ## See Also

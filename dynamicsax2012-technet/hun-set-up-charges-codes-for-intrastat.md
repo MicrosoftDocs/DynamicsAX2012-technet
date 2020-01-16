@@ -2,8 +2,9 @@
 title: (HUN) Set up charges codes for Intrastat
 TOCTitle: (HUN) Set up charges codes for Intrastat
 ms:assetid: 75dba2ef-7230-44ca-ac76-8d59161be684
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664304(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664304(v=AX.60)
 ms:contentKeyID: 49385393
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(HUN) Charges code (modified form)](https://technet.microsoft.com/en-us/library/jj664386\(v=ax.60\))
+[(HUN) Charges code (modified form)](https://technet.microsoft.com/library/jj664386\(v=ax.60\))
 
   
 

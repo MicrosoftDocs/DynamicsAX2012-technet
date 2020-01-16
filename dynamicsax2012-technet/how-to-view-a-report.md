@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: View a Report'
 TOCTitle: 'How to: View a Report'
 ms:assetid: c86c58a9-d93b-4ee6-a6ec-13fe1864ad97
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724116(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg724116(v=AX.60)
 ms:contentKeyID: 35133476
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -21,7 +22,7 @@ You can view the report in Microsoft Dynamics AX after the report has been deplo
 
 1.  The report has been added to a menu item. For more information, see [How to: Create a Menu Item for a Report](how-to-create-a-menu-item-for-a-report.md).
 
-2.  The report is displayed in a role center. To do this, [determine which Role Center page you want to modify](https://technet.microsoft.com/en-us/library/cc558235\(v=ax.60\)). Then, [add the report to that page](https://technet.microsoft.com/en-us/library/cc553120\(v=ax.60\)).
+2.  The report is displayed in a role center. To do this, [determine which Role Center page you want to modify](https://technet.microsoft.com/library/cc558235\(v=ax.60\)). Then, [add the report to that page](https://technet.microsoft.com/library/cc553120\(v=ax.60\)).
 
 ### To view a report in Microsoft Dynamics AX
 

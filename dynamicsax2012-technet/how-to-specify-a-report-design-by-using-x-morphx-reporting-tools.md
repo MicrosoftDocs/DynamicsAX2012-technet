@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Specify a Report Design by Using X++ (MorphX Reporting Tools)'
 TOCTitle: 'How to: Specify a Report Design by Using X++'
 ms:assetid: 78f9b36b-cdcf-4b6f-8ab8-4881ba89ee18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa611590(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa611590(v=AX.60)
 ms:contentKeyID: 35290301
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

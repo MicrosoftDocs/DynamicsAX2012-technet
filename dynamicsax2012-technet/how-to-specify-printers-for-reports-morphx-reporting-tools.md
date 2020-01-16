@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Specify Printers for Reports (MorphX Reporting Tools)'
 TOCTitle: 'How to: Specify Printers for Reports'
 ms:assetid: 54ca6a41-ba68-4425-8b7c-248e2fae0d6d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa606033(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa606033(v=AX.60)
 ms:contentKeyID: 35290298
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -15,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 Specify which printer a report is sent to and specify the printer settings by using the PrintJobSettings::deviceName method and the PrintJobSettings::unpackPrintJobSettings method. For more information about modifying other print settings, see PrintJobSettings class.
 
-Specify whether users can select a printer and modify the printer settings by setting the **Interactive** property of the report to **No**. For more information, see [Report Properties](https://technet.microsoft.com/en-us/library/aa856851\(v=ax.60\)).
+Specify whether users can select a printer and modify the printer settings by setting the **Interactive** property of the report to **No**. For more information, see [Report Properties](https://technet.microsoft.com/library/aa856851\(v=ax.60\)).
 
 Send a report to a printer, a file, an e-mail address, or a screen by using the ReportRun.setTarget method and the PrintMedium system enumeration.
 

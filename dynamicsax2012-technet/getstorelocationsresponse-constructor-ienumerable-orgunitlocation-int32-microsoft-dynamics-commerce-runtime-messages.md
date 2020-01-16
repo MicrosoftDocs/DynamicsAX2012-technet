@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetStoreLocationsResponse Constructor (IEnumerable(OrgUnitLocation), Int32) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetStoreLocationsResponse Constructor (IEnumerable(OrgUnitLocation), Int32)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetStoreLocationsResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.OrgUnitLocation},System.Int32)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getstorelocationsresponse.getstorelocationsresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getstorelocationsresponse.getstorelocationsresponse(v=AX.60)
 ms:contentKeyID: 62208984
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -53,12 +54,12 @@ GetStoreLocationsResponse(
 #### Parameters
 
   - storeLocations  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[OrgUnitLocation](orgunitlocation-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[OrgUnitLocation](orgunitlocation-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 <!-- end list -->
 
   - totalNumberOfRecords  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 ## See Also
 

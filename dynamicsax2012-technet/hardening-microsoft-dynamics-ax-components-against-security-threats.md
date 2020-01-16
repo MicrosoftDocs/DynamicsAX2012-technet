@@ -2,8 +2,9 @@
 title: Hardening Microsoft Dynamics AX components against security threats
 TOCTitle: Hardening Microsoft Dynamics AX components against security threats
 ms:assetid: da8cc664-810f-4986-8ee5-705843744976
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn385349(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn385349(v=AX.60)
 ms:contentKeyID: 56554602
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

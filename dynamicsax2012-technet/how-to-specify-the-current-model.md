@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Specify the Current Model'
 TOCTitle: 'How to: Specify the Current Model'
 ms:assetid: 5cf5b194-1806-450d-bd20-a116764a289a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404124(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404124(v=AX.60)
 ms:contentKeyID: 36956792
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -19,7 +20,7 @@ Resources in the AOT that you create, modify, or import are stored in the curren
 
 ### To specify the current model
 
-1.  Open the Development Workspace. See [How to: Open a Development Workspace](https://technet.microsoft.com/en-us/library/gg846350\(v=ax.60\)) for more information.
+1.  Open the Development Workspace. See [How to: Open a Development Workspace](https://technet.microsoft.com/library/gg846350\(v=ax.60\)) for more information.
 
 2.  Choose **Tools** \> **Model management** \> **Change current model**.
 

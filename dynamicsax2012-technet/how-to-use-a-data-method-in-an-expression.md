@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Use a Data Method in an Expression'
 TOCTitle: 'How to: Use a Data Method in an Expression'
 ms:assetid: bb2a1aeb-7911-4ecb-aec7-815b2d151046
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538451(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538451(v=AX.60)
 ms:contentKeyID: 39508875
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

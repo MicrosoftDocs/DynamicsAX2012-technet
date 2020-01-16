@@ -2,8 +2,9 @@
 title: (HUN) Setting up sales tax
 TOCTitle: (HUN) Setting up sales tax
 ms:assetid: 2c8f7d85-b7f5-4f53-9c86-41a8b52dce22
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664245(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664245(v=AX.60)
 ms:contentKeyID: 49385333
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

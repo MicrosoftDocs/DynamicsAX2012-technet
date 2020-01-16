@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetStockCountResponse.StockCountJournalTransaction Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: StockCountJournalTransaction Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetStockCountResponse.StockCountJournalTransaction
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getstockcountresponse.stockcountjournaltransaction(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getstockcountresponse.stockcountjournaltransaction(v=AX.60)
 ms:contentKeyID: 62210519
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property ReadOnlyCollection<StockCountJournalTransaction^>^ StockCountJournalTra
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[StockCountJournalTransaction](stockcountjournaltransaction-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[StockCountJournalTransaction](stockcountjournaltransaction-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

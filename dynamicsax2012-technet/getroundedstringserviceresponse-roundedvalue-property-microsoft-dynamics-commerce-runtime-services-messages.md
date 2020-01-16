@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetRoundedStringServiceResponse.RoundedValue Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: RoundedValue Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetRoundedStringServiceResponse.RoundedValue
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getroundedstringserviceresponse.roundedvalue(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getroundedstringserviceresponse.roundedvalue(v=AX.60)
 ms:contentKeyID: 62207901
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property String^ RoundedValue {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
-Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)).  
 
 ## See Also
 

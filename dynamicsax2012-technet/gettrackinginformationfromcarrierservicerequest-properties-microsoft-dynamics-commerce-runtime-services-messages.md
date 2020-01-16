@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetTrackingInformationFromCarrierServiceRequest Properties (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: GetTrackingInformationFromCarrierServiceRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetTrackingInformationFromCarrierServiceRequest
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.gettrackinginformationfromcarrierservicerequest_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.gettrackinginformationfromcarrierservicerequest_properties(v=AX.60)
 ms:contentKeyID: 49837057
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

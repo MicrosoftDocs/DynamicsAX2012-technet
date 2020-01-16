@@ -1,9 +1,10 @@
-﻿---
+---
 title: HardwareProfile.DualDisplayActive Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: DualDisplayActive Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.HardwareProfile.DualDisplayActive
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofile.dualdisplayactive(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofile.dualdisplayactive(v=AX.60)
 ms:contentKeyID: 62206131
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ property bool DualDisplayActive {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 True if dual display is active; otherwise, false.  
 
 ## See Also

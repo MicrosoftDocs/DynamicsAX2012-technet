@@ -2,8 +2,9 @@
 title: (HUN) Set up parameters for closing and opening general ledger accounts
 TOCTitle: (HUN) Set up parameters for closing and opening general ledger accounts
 ms:assetid: cc07e341-e1f4-4175-8607-e4b2c31f5a02
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664376(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664376(v=AX.60)
 ms:contentKeyID: 49385464
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

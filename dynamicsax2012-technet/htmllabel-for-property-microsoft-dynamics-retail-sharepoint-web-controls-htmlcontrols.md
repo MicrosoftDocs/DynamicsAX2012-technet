@@ -1,9 +1,10 @@
-﻿---
+---
 title: HtmlLabel.For Property  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls)
 TOCTitle: For Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlLabel.For
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmllabel.for(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmllabel.for(v=AX.60)
 ms:contentKeyID: 62205679
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,8 +52,8 @@ property HtmlInputControl^ For {
 
 #### Property Value
 
-Type: [System.Web.UI.HtmlControls.HtmlInputControl](https://technet.microsoft.com/en-us/library/4zdce72t\(v=ax.60\))  
-Returns [HtmlInputControl](https://technet.microsoft.com/en-us/library/4zdce72t\(v=ax.60\)).  
+Type: [System.Web.UI.HtmlControls.HtmlInputControl](https://technet.microsoft.com/library/4zdce72t\(v=ax.60\))  
+Returns [HtmlInputControl](https://technet.microsoft.com/library/4zdce72t\(v=ax.60\)).  
 
 ## See Also
 

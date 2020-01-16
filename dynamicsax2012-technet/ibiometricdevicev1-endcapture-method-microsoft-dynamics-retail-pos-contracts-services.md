@@ -1,9 +1,10 @@
-﻿---
+---
 title: IBiometricDeviceV1.EndCapture Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: EndCapture Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IBiometricDeviceV1.EndCapture
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.ibiometricdevicev1.endcapture(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ibiometricdevicev1.endcapture(v=AX.60)
 ms:contentKeyID: 49856602
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

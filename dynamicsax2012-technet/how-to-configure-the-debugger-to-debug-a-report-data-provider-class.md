@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Configure the Debugger to Debug a Report Data Provider Class'
 TOCTitle: 'How to: Configure the Debugger to Debug a Report Data Provider Class'
 ms:assetid: a23beaa6-82b8-43e3-be02-958141b5c4f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724081(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg724081(v=AX.60)
 ms:contentKeyID: 35133438
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
@@ -31,7 +32,7 @@ These steps apply to debug a Microsoft Dynamics AX report executing in the follo
 
   - Microsoft Dynamics AX client
 
-For more information on debugging, see [Microsoft Dynamics AX Debugger](https://technet.microsoft.com/en-us/library/aa569668\(v=ax.60\)). For information on when and how to use an RDP class, see [Defining Report Data](defining-report-data.md).
+For more information on debugging, see [Microsoft Dynamics AX Debugger](https://technet.microsoft.com/library/aa569668\(v=ax.60\)). For information on when and how to use an RDP class, see [Defining Report Data](defining-report-data.md).
 
 In the following sections, you determine which AOS service account to debug the RDP class in and add the account to the **Microsoft Dynamics AX Debugging Users** group. You create a server configuration with debug enabled and then you can add breakpoints in your code.
 

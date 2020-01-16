@@ -2,8 +2,9 @@
 title: 'How to: Create a Date Dimension for a Cube'
 TOCTitle: 'How to: Create a Date Dimension for a Cube'
 ms:assetid: 81508890-2f55-40d4-9894-53118a598f1d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724055(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg724055(v=AX.60)
 ms:contentKeyID: 35133412
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -17,7 +18,7 @@ Microsoft Dynamics AX provides a default calendar definition called the Date dim
 
 ### To create a date dimension
 
-1.  Open the **Date dimensions** form. For more information, see [Date dimensions (form)](https://technet.microsoft.com/en-us/library/hh580649\(v=ax.60\)).
+1.  Open the **Date dimensions** form. For more information, see [Date dimensions (form)](https://technet.microsoft.com/library/hh580649\(v=ax.60\)).
 
 2.  Click **New**.
 

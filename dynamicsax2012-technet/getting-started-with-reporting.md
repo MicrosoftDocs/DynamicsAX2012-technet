@@ -2,8 +2,9 @@
 title: Getting started with reporting
 TOCTitle: Getting started
 ms:assetid: 8cb85280-8220-44ce-bcf8-bc0fa7304ca2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee873270(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee873270(v=AX.60)
 ms:contentKeyID: 28119396
+author: Khairunj
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

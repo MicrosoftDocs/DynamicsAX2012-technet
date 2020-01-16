@@ -2,8 +2,9 @@
 title: 'How to: Import Pages into the AOT'
 TOCTitle: 'How to: Import Pages into the AOT'
 ms:assetid: a7861d47-e9ef-4742-8661-036156113c86
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc616468(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc616468(v=AX.60)
 ms:contentKeyID: 35245593
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -17,7 +18,7 @@ If a page in Enterprise Portal will be packaged and distributed to other Enterpr
 
 ## Importing a Page into the AOT
 
-After a page has a URL Web Menu Item defined that points to it, the page can be imported into the AOT. For details about how to create a URL Web Menu Item for a page, see [How to: Add Pages to Navigation](https://technet.microsoft.com/en-us/library/cc600786\(v=ax.60\)).
+After a page has a URL Web Menu Item defined that points to it, the page can be imported into the AOT. For details about how to create a URL Web Menu Item for a page, see [How to: Add Pages to Navigation](https://technet.microsoft.com/library/cc600786\(v=ax.60\)).
 
 ### To import a page into the AOT
 

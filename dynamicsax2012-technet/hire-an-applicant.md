@@ -2,8 +2,9 @@
 title: Hire an applicant
 TOCTitle: Hire an applicant
 ms:assetid: ebfc5320-1c4f-40ee-a232-4b67e956549f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551517(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551517(v=AX.60)
 ms:contentKeyID: 44081059
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ You can use the **Applications** list page to hire an applicant who submitted an
 
 [Key tasks: Applicants](key-tasks-applicants.md)
 
-[Applicant (form)](https://technet.microsoft.com/en-us/library/aa589409\(v=ax.60\))
+[Applicant (form)](https://technet.microsoft.com/library/aa589409\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Bind a Dataset to a Data Method'
 TOCTitle: 'How to: Bind a Dataset to a Data Method'
 ms:assetid: 8c5f0eb2-4329-40de-90a5-6861bb3c2551
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538450(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538450(v=AX.60)
 ms:contentKeyID: 39508874
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

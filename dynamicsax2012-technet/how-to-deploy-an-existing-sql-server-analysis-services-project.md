@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Deploy an Existing SQL Server Analysis Services Project'
 TOCTitle: 'How to: Deploy an Existing SQL Server Analysis Services Project'
 ms:assetid: 55ee3a4b-5889-418a-9a02-756b65f5f00f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc590284(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc590284(v=AX.60)
 ms:contentKeyID: 28119357
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
@@ -70,7 +71,7 @@ Deploying an Analysis Services project creates the defined objects in an instanc
 
 After the project is deployed and processed, you can view the data in the project.
 
-Information is logged in the global log file path that is specified in the [Analysis servers form](https://technet.microsoft.com/en-us/library/hh597195\(v=ax.60\)). Log files are not generated if you do not specify the global log file path.
+Information is logged in the global log file path that is specified in the [Analysis servers form](https://technet.microsoft.com/library/hh597195\(v=ax.60\)). Log files are not generated if you do not specify the global log file path.
 
 ### To deploy an Analysis Services project by using BIDS
 

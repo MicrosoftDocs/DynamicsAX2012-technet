@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Apply a Layout or Style Template'
 TOCTitle: 'How to: Apply a Layout or Style Template'
 ms:assetid: d6a89e8f-13f5-4b15-b50e-92d085f84f39
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc576854(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc576854(v=AX.60)
 ms:contentKeyID: 28119593
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

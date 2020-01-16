@@ -2,8 +2,9 @@
 title: Human resources II license code (HRMManagement)
 TOCTitle: Human resources II license code (HRMManagement)
 ms:assetid: 4a9d9ae0-1657-4593-abfc-b13eb29c2f8c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416674(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416674(v=AX.60)
 ms:contentKeyID: 36931831
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -59,7 +60,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

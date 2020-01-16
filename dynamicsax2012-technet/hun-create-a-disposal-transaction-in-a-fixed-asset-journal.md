@@ -2,8 +2,9 @@
 title: (HUN) Create a disposal transaction in a fixed asset journal
 TOCTitle: (HUN) Create a disposal transaction in a fixed asset journal
 ms:assetid: 1567703f-f921-4a51-bc7c-b6e0a1521385
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664231(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664231(v=AX.60)
 ms:contentKeyID: 49385320
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

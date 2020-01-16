@@ -2,8 +2,9 @@
 title: (HUN) Setting up and maintaining journals
 TOCTitle: (HUN) Setting up and maintaining journals
 ms:assetid: 331c7a6e-72ef-4f2a-a9a2-f7ff246a2320
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664255(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664255(v=AX.60)
 ms:contentKeyID: 49385344
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
