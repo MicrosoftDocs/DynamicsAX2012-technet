@@ -2,8 +2,9 @@
 title: (HUN) Accounts receivable
 TOCTitle: (HUN) Accounts receivable
 ms:assetid: 4934e861-6e37-492c-bda4-bfb34ee28d02
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664272(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664272(v=AX.60)
 ms:contentKeyID: 49385361
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

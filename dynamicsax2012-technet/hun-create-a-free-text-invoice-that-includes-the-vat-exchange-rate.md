@@ -2,8 +2,9 @@
 title: (HUN) Create a free text invoice that includes the VAT exchange rate
 TOCTitle: (HUN) Create a free text invoice that includes the VAT exchange rate
 ms:assetid: d0415283-110a-41d3-a3a7-d4123dd74d60
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664377(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664377(v=AX.60)
 ms:contentKeyID: 49385465
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -50,7 +51,7 @@ Organizations are not required to calculate value-added tax (VAT) amounts based 
 
 ## See also
 
-[(HUN) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664221\(v=ax.60\))
+[(HUN) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664221\(v=ax.60\))
 
   
 

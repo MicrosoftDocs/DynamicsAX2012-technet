@@ -2,8 +2,9 @@
 title: 'How to: Specify a Chart Axis Start Value'
 TOCTitle: 'How to: Specify a Chart Axis Start Value'
 ms:assetid: 0075267a-5e53-420b-b04d-9677709fb005
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731891(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731891(v=AX.60)
 ms:contentKeyID: 35132807
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

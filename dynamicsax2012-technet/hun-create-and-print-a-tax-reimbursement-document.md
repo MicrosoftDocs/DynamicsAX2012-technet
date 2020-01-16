@@ -2,8 +2,9 @@
 title: (HUN) Create and print a tax reimbursement document
 TOCTitle: (HUN) Create and print a tax reimbursement document
 ms:assetid: 95573223-4fbe-4ee2-ba23-0a287510d3a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664334(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664334(v=AX.60)
 ms:contentKeyID: 49385422
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,7 +70,7 @@ The **Vat settled** check box is selected for the invoice and the invoice lines.
 
 [(HUN) Set up a customer passport number](hun-set-up-a-customer-passport-number.md)
 
-[(HUN) Customer invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj733167\(v=ax.60\))
+[(HUN) Customer invoice journal (modified form)](https://technet.microsoft.com/library/jj733167\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Add Reports to Microsoft Dynamics AX'
 TOCTitle: 'How to: Add Reports to Microsoft Dynamics AX'
 ms:assetid: ba9d6e8c-86c1-4c66-8740-3885c9cf0f5c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc574427(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc574427(v=AX.60)
 ms:contentKeyID: 28119576
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

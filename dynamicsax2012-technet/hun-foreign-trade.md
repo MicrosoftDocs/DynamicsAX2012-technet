@@ -2,8 +2,9 @@
 title: (HUN) Foreign trade
 TOCTitle: (HUN) Foreign trade
 ms:assetid: 24ca28d2-f3be-4017-96cb-99c88ae45dfc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664238(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664238(v=AX.60)
 ms:contentKeyID: 49385327
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Create a Layout or Style Template'
 TOCTitle: 'How to: Create a Layout or Style Template'
 ms:assetid: 99bf5100-1f47-46d7-aea5-b0c02588c097
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc607039(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc607039(v=AX.60)
 ms:contentKeyID: 28119540
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

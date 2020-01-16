@@ -2,8 +2,9 @@
 title: (HUN) Set up date control for invoices
 TOCTitle: (HUN) Set up date control for invoices
 ms:assetid: 05bf4eab-d4da-4c16-abe4-82474d50d995
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733508(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733508(v=AX.60)
 ms:contentKeyID: 49685472
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

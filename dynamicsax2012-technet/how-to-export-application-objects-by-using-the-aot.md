@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Export Application Objects by Using the AOT'
 TOCTitle: 'How to: Export Application Objects by Using the AOT'
 ms:assetid: 4a7cae70-6025-47c1-94e6-8026ddba3668
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa605219(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa605219(v=AX.60)
 ms:contentKeyID: 35243223
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -15,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 In Microsoft Dynamics AX 2012, you can select one or more X++ application objects in the Application Object Tree (AOT) to export an .xpo file. The .xpo file can then be used by developers to share or transport application objects from one Microsoft Dynamics AX installation to another. This topic describes how to export application objects, without business data, to an .xpo file.
 
-For more information about how to export data for tables, see [Export options (class form)](https://technet.microsoft.com/en-us/library/aa571790\(v=ax.60\)) and [How to: Move Elements to Another Layer](https://technet.microsoft.com/en-us/library/aa892084\(v=ax.60\)).
+For more information about how to export data for tables, see [Export options (class form)](https://technet.microsoft.com/library/aa571790\(v=ax.60\)) and [How to: Move Elements to Another Layer](https://technet.microsoft.com/library/aa892084\(v=ax.60\)).
 
 ### To export selected application objects
 
@@ -41,7 +42,7 @@ For more information about how to export data for tables, see [Export options (c
 
 ## See also
 
-[How to: Move Elements to Another Layer](https://technet.microsoft.com/en-us/library/aa892084\(v=ax.60\))
+[How to: Move Elements to Another Layer](https://technet.microsoft.com/library/aa892084\(v=ax.60\))
 
   
 **Announcements:** New book: "Inside Microsoft Dynamics AX 2012 R3" now available. Get your copy at the [MS Press Store](https://www.microsoftpressstore.com/store/inside-microsoft-dynamics-ax-2012-r3-9780735685109).

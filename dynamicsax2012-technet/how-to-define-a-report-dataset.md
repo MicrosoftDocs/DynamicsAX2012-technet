@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Define a Report Dataset'
 TOCTitle: 'How to: Define a Report Dataset'
 ms:assetid: dbbc9c6c-8741-4709-8a1b-5b3125ea70dc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc621410(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc621410(v=AX.60)
 ms:contentKeyID: 28119597
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 f1_keywords:

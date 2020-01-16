@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Customize a Report'
 TOCTitle: 'How to: Customize a Report'
 ms:assetid: 334e03ba-cee1-4a45-83a7-9b0030802367
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc569485(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc569485(v=AX.60)
 ms:contentKeyID: 28119336
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

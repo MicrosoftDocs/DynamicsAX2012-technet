@@ -2,8 +2,9 @@
 title: Human resources roadmap
 TOCTitle: Human resources roadmap
 ms:assetid: ce45957d-546b-463b-b4f9-a8f0f5b7c454
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn783393(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn783393(v=AX.60)
 ms:contentKeyID: 62838587
+author: Khairunj
 ms.date: 09/10/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -295,16 +296,16 @@ Complete the tasks in the following table to set up and configure Human resource
 <tr class="odd">
 <td><p>Set up competencies</p></td>
 <td><p>Set up competencies before they can be assigned to workers, applicants, or contacts. You can set up many different competency types, such as education disciplines, institutions, degrees, skills, certificate types, project experiences, positions of trust, test types, and interests.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589077(v=ax.60)">Education disciplines (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa557412(v=ax.60)">Education discipline category (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa616445(v=ax.60)">Institutions (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa571288(v=ax.60)">Degrees (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa591940(v=ax.60)">Skills (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa619900(v=ax.60)">Certificate types (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa575899(v=ax.60)">Project experience (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa591442(v=ax.60)">Position of trust (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/jj677419(v=ax.60)">Test types (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa577265(v=ax.60)">Interest (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589077(v=ax.60)">Education disciplines (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa557412(v=ax.60)">Education discipline category (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa616445(v=ax.60)">Institutions (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa571288(v=ax.60)">Degrees (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa591940(v=ax.60)">Skills (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa619900(v=ax.60)">Certificate types (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa575899(v=ax.60)">Project experience (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa591442(v=ax.60)">Position of trust (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/jj677419(v=ax.60)">Test types (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa577265(v=ax.60)">Interest (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Set up injury and illness information</p></td>
@@ -337,8 +338,8 @@ Complete the tasks in the following table to set up and configure Human resource
 <tr class="even">
 <td><p>Set up Time and attendance</p></td>
 <td><p>Set up time and attendance policies. The specific steps you complete, and the sequence in which they’re completed will vary depending on the specific Time and attendance options you use.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582300(v=ax.60)">Time and attendance configuration wizard (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa634266(v=ax.60)">Time and attendance parameters (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/aa582300(v=ax.60)">Time and attendance configuration wizard (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa634266(v=ax.60)">Time and attendance parameters (form)</a></p>
 <p><a href="about-parameters-for-calculations.md">About parameters for calculations</a></p>
 <p><a href="about-registration-groups-for-time-and-attendance.md">About registration groups for time and attendance</a></p>
 <p><a href="set-up-indirect-activities-for-time-and-attendance.md">Set up indirect activities for time and attendance</a></p>
@@ -346,8 +347,8 @@ Complete the tasks in the following table to set up and configure Human resource
 <p><a href="set-up-profiles-for-time-and-attendance-registrations.md">Set up profiles for time and attendance registrations</a></p>
 <p><a href="set-up-profile-groups-for-time-and-attendance-registrations.md">Set up profile groups for time and attendance registrations</a></p>
 <p><a href="about-payroll-in-time-and-attendance.md">About payroll in Time and attendance</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa616991(v=ax.60)">Configure registration forms (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa585567(v=ax.60)">Terminals (form)</a></p></td>
+<p><a href="https://technet.microsoft.com/library/aa616991(v=ax.60)">Configure registration forms (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa585567(v=ax.60)">Terminals (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Set up absence management</p></td>
@@ -361,7 +362,7 @@ Complete the tasks in the following table to set up and configure Human resource
 <td><p>Set up course training</p></td>
 <td><p>Set up instructors, course types, courses, course descriptions, agendas, tracks, and sessions before you assign an instructor to a course or register someone for a course.</p>
 <p>Instructors must already exist as workers, applicants, or contacts. Therefore, you will probably have to return to this step after the necessary workers, applicants, or contacts have been created.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa618160(v=ax.60)">Course types (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/aa618160(v=ax.60)">Course types (form)</a></p>
 <p>“Create a course record” section in <a href="key-tasks-courses.md">Key tasks: Courses</a></p>
 <p>“Create a course agenda” section in <a href="key-tasks-courses.md">Key tasks: Courses</a></p>
 <p>“Specify a course description for a course” section in <a href="key-tasks-courses.md">Key tasks: Courses</a></p>
@@ -374,7 +375,7 @@ Complete the tasks in the following table to set up and configure Human resource
 <td><p>Set up position budgeting so you can work with forecast positions.</p></td>
 <td><p><a href="set-up-position-budgeting.md">Set up position budgeting</a></p>
 <p><a href="position-budgeting-setup-issues.md">Position budgeting setup issues</a></p>
-<p>“Define budget purpose types” in <a href="https://technet.microsoft.com/en-us/library/jj729760(v=ax.60)">Key tasks: Forecast positions</a></p></td>
+<p>“Define budget purpose types” in <a href="https://technet.microsoft.com/library/jj729760(v=ax.60)">Key tasks: Forecast positions</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -537,11 +538,11 @@ The following table provides links to key information and step-by-step instructi
 <tr class="odd">
 <td><p>Manage forecast positions</p></td>
 <td><p>Create position forecasts to create a budget for filled or vacant positions, and to estimate payroll expenses for each position. You can create budget amounts by budget cycle, account, and dimension, and then import forecast data into a budget plan.</p></td>
-<td><p>“Add an existing position to the forecast with a small modification” section in <a href="https://technet.microsoft.com/en-us/library/jj729760(v=ax.60)">Key tasks: Forecast positions</a></p>
-<p>“Create a new forecast position” section in <a href="https://technet.microsoft.com/en-us/library/jj729760(v=ax.60)">Key tasks: Forecast positions</a></p>
+<td><p>“Add an existing position to the forecast with a small modification” section in <a href="https://technet.microsoft.com/library/jj729760(v=ax.60)">Key tasks: Forecast positions</a></p>
+<p>“Create a new forecast position” section in <a href="https://technet.microsoft.com/library/jj729760(v=ax.60)">Key tasks: Forecast positions</a></p>
 <p><a href="https://technet.microsoft.com/jj729760">Enter budget defaults for a position</a></p>
-<p>“Copy a forecast position to the forecast” section in <a href="https://technet.microsoft.com/en-us/library/jj729760(v=ax.60)">Key tasks: Forecast positions</a></p>
-<p>“Update multiple forecast positions” section in <a href="https://technet.microsoft.com/en-us/library/jj729760(v=ax.60)">Key tasks: Forecast positions</a></p></td>
+<p>“Copy a forecast position to the forecast” section in <a href="https://technet.microsoft.com/library/jj729760(v=ax.60)">Key tasks: Forecast positions</a></p>
+<p>“Update multiple forecast positions” section in <a href="https://technet.microsoft.com/library/jj729760(v=ax.60)">Key tasks: Forecast positions</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Create reports about workers and worker associated information</p></td>

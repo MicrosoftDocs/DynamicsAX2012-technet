@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Define a Data Method in Visual Basic'
 TOCTitle: 'How to: Define a Data Method in Visual Basic'
 ms:assetid: 78eea42c-e9f9-43a1-a2b8-7cc8bf3eb571
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538449(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538449(v=AX.60)
 ms:contentKeyID: 39508873
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

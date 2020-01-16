@@ -2,8 +2,9 @@
 title: History by vendor transaction report (VendLedgerTrans)
 TOCTitle: History by vendor transaction report (VendLedgerTrans)
 ms:assetid: 87f1185e-31bb-4d0f-af66-4365d8c55322
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa598048(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa598048(v=AX.60)
 ms:contentKeyID: 37832016
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

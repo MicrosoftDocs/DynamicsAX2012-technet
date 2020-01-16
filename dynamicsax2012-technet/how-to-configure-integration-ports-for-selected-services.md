@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Configure integration ports for selected services'
 TOCTitle: 'How to: Configure integration ports for selected services'
 ms:assetid: 32ac59a8-8ffe-48dc-bad6-879803498dab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh533447(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh533447(v=AX.60)
 ms:contentKeyID: 39056463
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

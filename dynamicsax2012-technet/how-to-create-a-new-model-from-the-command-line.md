@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Create a New Model from the Command Line'
 TOCTitle: 'How to: Create a New Model from the Command Line'
 ms:assetid: e077bf7e-8895-4bdf-a1bc-72bf37971956
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433541(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433541(v=AX.60)
 ms:contentKeyID: 36941334
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Display Images in a Precision Design'
 TOCTitle: 'How to: Display Images in a Precision Design'
 ms:assetid: 0a3c3451-b8ee-44ad-961a-d880d313bc02
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc565754(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc565754(v=AX.60)
 ms:contentKeyID: 28119302
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

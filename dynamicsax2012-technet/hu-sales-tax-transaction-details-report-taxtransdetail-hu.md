@@ -2,8 +2,9 @@
 title: (HU) Sales tax transaction details report (TaxTransDetail_HU)
 TOCTitle: (HU) Sales tax transaction details report (TaxTransDetail_HU)
 ms:assetid: f84253a9-8ca2-4f24-9cc5-a57e0b4284f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ851132(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ851132(v=AX.60)
 ms:contentKeyID: 50173439
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

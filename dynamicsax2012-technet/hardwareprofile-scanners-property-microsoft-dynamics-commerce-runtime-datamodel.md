@@ -1,9 +1,10 @@
-﻿---
+---
 title: HardwareProfile.Scanners Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Scanners Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.HardwareProfile.Scanners
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofile.scanners(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofile.scanners(v=AX.60)
 ms:contentKeyID: 62214340
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ property ReadOnlyCollection<HardwareProfileScanner^>^ Scanners {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[HardwareProfileScanner](hardwareprofilescanner-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[HardwareProfileScanner](hardwareprofilescanner-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 A collection of scanners associated with the hardware profile.  
 
 ## See Also

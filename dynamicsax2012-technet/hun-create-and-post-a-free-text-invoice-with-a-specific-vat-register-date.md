@@ -2,8 +2,9 @@
 title: (HUN) Create and post a free text invoice with a specific VAT register date
 TOCTitle: (HUN) Create and post a free text invoice with a specific VAT register date
 ms:assetid: 3e2a886b-d272-4770-a876-30a4953b5ec1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664266(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664266(v=AX.60)
 ms:contentKeyID: 49385355
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ When you post an outgoing invoice, you can select a date for reporting value-add
 
 2.  In the **Free text invoice** form, in the **Date of VAT register** field, select the date on which to report the invoice VAT.
 
-3.  Enter the required invoice details. For more information, see [(HUN) Free text invoice (modified form)](https://technet.microsoft.com/en-us/library/jj664332\(v=ax.60\)) and [Create free text invoices](create-free-text-invoices.md).
+3.  Enter the required invoice details. For more information, see [(HUN) Free text invoice (modified form)](https://technet.microsoft.com/library/jj664332\(v=ax.60\)) and [Create free text invoices](create-free-text-invoices.md).
 
 4.  After you enter the invoice lines to post, on the **Action Pane**, click **Post**.
 
@@ -34,7 +35,7 @@ When you post an invoice that includes outgoing tax that will be posted on a fut
 
 ## See also
 
-[(EEUR) Free text invoice (modified form)](https://technet.microsoft.com/en-us/library/jj910975\(v=ax.60\))
+[(EEUR) Free text invoice (modified form)](https://technet.microsoft.com/library/jj910975\(v=ax.60\))
 
 [(HUN) Create a free text invoice that includes the VAT exchange rate](hun-create-a-free-text-invoice-that-includes-the-vat-exchange-rate.md)
 

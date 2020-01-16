@@ -2,8 +2,9 @@
 title: (HUN) Transfer an EU purchase or EU sales transaction to the EU sales list form
 TOCTitle: (HUN) Transfer an EU purchase or EU sales transaction to the EU sales list form
 ms:assetid: 81fe7963-42d1-45b2-8b53-27739cc0436a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664322(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664322(v=AX.60)
 ms:contentKeyID: 49385411
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ You can modify an EU purchase transaction and specify the reason for the change 
 
 ## See also
 
-[(HUN) EU sales list (modified form)](https://technet.microsoft.com/en-us/library/jj664282\(v=ax.60\))
+[(HUN) EU sales list (modified form)](https://technet.microsoft.com/library/jj664282\(v=ax.60\))
 
   
 

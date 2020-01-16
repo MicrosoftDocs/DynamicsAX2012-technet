@@ -2,8 +2,9 @@
 title: (HUN) Process closing transactions overview
 TOCTitle: (HUN) Process closing transactions overview
 ms:assetid: ec5dfcb8-5d98-4104-acbe-2c357a2da46a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664405(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664405(v=AX.60)
 ms:contentKeyID: 49385493
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

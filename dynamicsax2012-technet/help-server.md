@@ -2,8 +2,9 @@
 title: Help server
 TOCTitle: Help server
 ms:assetid: 2e385310-28e4-461f-8533-1ab6eb676d31
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg866975(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg866975(v=AX.60)
 ms:contentKeyID: 35256669
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

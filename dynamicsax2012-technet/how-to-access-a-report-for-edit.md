@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Access a Report for Edit'
 TOCTitle: 'How to: Access a Report for Edit'
 ms:assetid: 1c4fa46f-60bb-43b6-a1e5-6a9d6d714ec8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee873247(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee873247(v=AX.60)
 ms:contentKeyID: 28119315
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

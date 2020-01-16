@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetReceiptResponse Constructor (ReadOnlyCollection(Receipt)) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetReceiptResponse Constructor (ReadOnlyCollection(Receipt))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetReceiptResponse.#ctor(System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.Receipt})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getreceiptresponse.getreceiptresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getreceiptresponse.getreceiptresponse(v=AX.60)
 ms:contentKeyID: 62202721
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ GetReceiptResponse(
 #### Parameters
 
   - receipts  
-    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[Receipt](receipt-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[Receipt](receipt-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

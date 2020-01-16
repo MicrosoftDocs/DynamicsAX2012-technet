@@ -2,8 +2,9 @@
 title: Getting started with associated technologies
 TOCTitle: Getting started with associated technologies
 ms:assetid: 76d76bd6-2031-43a0-a541-a062c7e8113a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496917(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496917(v=AX.60)
 ms:contentKeyID: 39518970
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

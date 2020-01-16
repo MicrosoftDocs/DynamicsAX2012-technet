@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Add or Delete a Field Group in a Data Region'
 TOCTitle: 'How to: Add or Delete a Field Group in a Data Region'
 ms:assetid: 0ea1fbf2-83be-47a3-9733-0ffb2c7768d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee873245(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee873245(v=AX.60)
 ms:contentKeyID: 28119308
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -13,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-When you bind a report to a query that was defined in the AOT, the report framework provides support for field groups. Field groups are objects that group together fields that logically belong together. When a change is made to a field group, the change is reflected in all cases where the field group is used. This means that the change is reflected in the report. For more information on field groups created in Microsoft Dynamics AX, see [Defining Field Groups](https://technet.microsoft.com/en-us/library/bb314861\(v=ax.60\)).
+When you bind a report to a query that was defined in the AOT, the report framework provides support for field groups. Field groups are objects that group together fields that logically belong together. When a change is made to a field group, the change is reflected in all cases where the field group is used. This means that the change is reflected in the report. For more information on field groups created in Microsoft Dynamics AX, see [Defining Field Groups](https://technet.microsoft.com/library/bb314861\(v=ax.60\)).
 
 When you bind a dataset to a query, you can select one or more field groups that exist on the table referenced in the query. The following procedure explains how to add or delete a field group data region within an auto design.
 
@@ -172,9 +173,9 @@ When you bind a dataset to a query, you can select one or more field groups that
 
 ## See also
 
-[Defining Field Groups](https://technet.microsoft.com/en-us/library/bb314861\(v=ax.60\))
+[Defining Field Groups](https://technet.microsoft.com/library/bb314861\(v=ax.60\))
 
-[How to: Create a Field Group](https://technet.microsoft.com/en-us/library/aa611907\(v=ax.60\))
+[How to: Create a Field Group](https://technet.microsoft.com/library/aa611907\(v=ax.60\))
 
 [Working with Data Regions](working-with-data-regions.md)
 

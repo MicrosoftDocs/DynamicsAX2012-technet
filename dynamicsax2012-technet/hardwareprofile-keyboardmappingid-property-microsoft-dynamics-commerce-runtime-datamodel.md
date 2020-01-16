@@ -1,9 +1,10 @@
-﻿---
+---
 title: HardwareProfile.KeyboardMappingId Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: KeyboardMappingId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.HardwareProfile.KeyboardMappingId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofile.keyboardmappingid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofile.keyboardmappingid(v=AX.60)
 ms:contentKeyID: 62204511
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ property String^ KeyboardMappingId {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 The mapping identifier.  
 
 ## See Also

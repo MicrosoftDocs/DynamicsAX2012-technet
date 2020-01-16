@@ -2,8 +2,9 @@
 title: How to work with the reports that are provided by Microsoft Dynamics AX
 TOCTitle: How to work with the reports that are provided by Microsoft Dynamics AX
 ms:assetid: 6c9c9045-2431-4e1c-a209-0caab9ec8577
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231797(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231797(v=AX.60)
 ms:contentKeyID: 35132869
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

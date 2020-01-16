@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Create, Drop, or Reinitialize a Model Store'
 TOCTitle: 'How to: Create, Drop, or Reinitialize a Model Store'
 ms:assetid: d978b12c-4e2c-4d36-93b1-b8b70f554ee5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433540(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433540(v=AX.60)
 ms:contentKeyID: 36941333
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

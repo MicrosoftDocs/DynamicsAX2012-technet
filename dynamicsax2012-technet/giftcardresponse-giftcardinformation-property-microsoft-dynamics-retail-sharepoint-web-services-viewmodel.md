@@ -1,9 +1,10 @@
-﻿---
+---
 title: GiftCardResponse.GiftCardInformation Property  (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel)
 TOCTitle: GiftCardInformation Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.GiftCardResponse.GiftCardInformation
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.giftcardresponse.giftcardinformation(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.giftcardresponse.giftcardinformation(v=AX.60)
 ms:contentKeyID: 62202027
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

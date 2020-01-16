@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Add Drill Down and Drill Up Actions'
 TOCTitle: 'How to: Add Drill Down and Drill Up Actions'
 ms:assetid: ed28c2fd-532e-490b-8542-5ee8b4de96b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc622722(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc622722(v=AX.60)
 ms:contentKeyID: 28119612
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

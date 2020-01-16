@@ -2,8 +2,9 @@
 title: (HUN) Specify cash round-off amounts for cash order lines
 TOCTitle: (HUN) Specify cash round-off amounts for cash order lines
 ms:assetid: 4f64bf08-7dd6-42ae-86c5-cf1c72bb268c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664280(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664280(v=AX.60)
 ms:contentKeyID: 49385369
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ When you create a cash order by using a slip journal, you can specify a cash rou
 
 1.  Click **Cash and bank management** \> **Journals** \> **Slip journal**.
 
-2.  Click **New** to create a journal, and then enter the required details. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+2.  Click **New** to create a journal, and then enter the required details. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
 3.  Click **Lines** to open the **Journal voucher** form, click **New** to create a line, and then enter the required details. For more information, see [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md).
 

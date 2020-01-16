@@ -2,8 +2,9 @@
 title: (HUN) Set up a posting profile for a disposal sale
 TOCTitle: (HUN) Set up a posting profile for a disposal sale
 ms:assetid: 814a223e-e391-4a3b-a202-e8980c97ce6c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664320(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664320(v=AX.60)
 ms:contentKeyID: 49385410
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

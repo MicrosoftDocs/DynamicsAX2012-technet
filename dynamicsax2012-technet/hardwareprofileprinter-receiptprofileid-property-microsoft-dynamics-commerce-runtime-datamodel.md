@@ -1,9 +1,10 @@
-﻿---
+---
 title: HardwareProfilePrinter.ReceiptProfileId Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ReceiptProfileId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.HardwareProfilePrinter.ReceiptProfileId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofileprinter.receiptprofileid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofileprinter.receiptprofileid(v=AX.60)
 ms:contentKeyID: 62207880
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ property String^ ReceiptProfileId {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 The receipt profile identification string.  
 
 ## See Also

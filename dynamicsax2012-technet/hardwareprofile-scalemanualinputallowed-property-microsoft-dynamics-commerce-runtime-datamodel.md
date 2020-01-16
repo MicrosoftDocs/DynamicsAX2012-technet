@@ -1,9 +1,10 @@
-﻿---
+---
 title: HardwareProfile.ScaleManualInputAllowed Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ScaleManualInputAllowed Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.HardwareProfile.ScaleManualInputAllowed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofile.scalemanualinputallowed(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofile.scalemanualinputallowed(v=AX.60)
 ms:contentKeyID: 62209757
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ property bool ScaleManualInputAllowed {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 True if manual input on scale is allowed; otherwise, false.  
 
 ## See Also

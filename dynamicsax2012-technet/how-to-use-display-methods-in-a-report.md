@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Use Display Methods in a Report'
 TOCTitle: 'How to: Use Display Methods in a Report'
 ms:assetid: af93356c-b70f-440b-9bbb-cf6b5ace4e69
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724095(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg724095(v=AX.60)
 ms:contentKeyID: 35133453
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -13,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-This topic explains how to retrieve data for a Microsoft Dynamics AX report from display methods. A display method is treated like a field in a query, even though the display method is retrieving the data from a different table. For information on how to create display methods, see [Using the display Method Modifier](https://technet.microsoft.com/en-us/library/aa595058\(v=ax.60\)). In a Visual Studio [reporting project](working-with-reporting-projects.md) for Microsoft Dynamics AX, you can define a report in a report model. You will define a dataset with properties that describe the data that will be used on the report and how it will be retrieved. To show data from a display method, you will bind the dataset to an AX Query. An AX Query is a query defined in the AOT.
+This topic explains how to retrieve data for a Microsoft Dynamics AX report from display methods. A display method is treated like a field in a query, even though the display method is retrieving the data from a different table. For information on how to create display methods, see [Using the display Method Modifier](https://technet.microsoft.com/library/aa595058\(v=ax.60\)). In a Visual Studio [reporting project](working-with-reporting-projects.md) for Microsoft Dynamics AX, you can define a report in a report model. You will define a dataset with properties that describe the data that will be used on the report and how it will be retrieved. To show data from a display method, you will bind the dataset to an AX Query. An AX Query is a query defined in the AOT.
 
 ## Retrieving Data from Display Methods
 

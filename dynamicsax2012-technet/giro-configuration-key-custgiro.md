@@ -2,8 +2,9 @@
 title: Giro configuration key (CustGiro)
 TOCTitle: Giro configuration key (CustGiro)
 ms:assetid: 2787b0ca-7224-4e32-9e65-9935792c221a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467544(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467544(v=AX.60)
 ms:contentKeyID: 36991691
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -47,7 +48,7 @@ The following forms are affected when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Customers</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590606(v=ax.60)">Customers (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590606(v=ax.60)">Customers (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -69,7 +70,7 @@ The following forms are affected when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Form setup</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589956(v=ax.60)">Form setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589956(v=ax.60)">Form setup (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -107,7 +108,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

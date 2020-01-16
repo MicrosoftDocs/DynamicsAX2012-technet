@@ -2,8 +2,9 @@
 title: Getting started with analytics
 TOCTitle: Getting started
 ms:assetid: 81dd6125-7737-42d2-b356-5c3542f2d5b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee873268(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee873268(v=AX.60)
 ms:contentKeyID: 28119390
+author: Khairunj
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

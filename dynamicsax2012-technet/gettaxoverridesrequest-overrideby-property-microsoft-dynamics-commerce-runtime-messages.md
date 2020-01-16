@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetTaxOverridesRequest.OverrideBy Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: OverrideBy Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetTaxOverridesRequest.OverrideBy
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.gettaxoverridesrequest.overrideby(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.gettaxoverridesrequest.overrideby(v=AX.60)
 ms:contentKeyID: 62214722
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (HUN) Setting up depreciation
 TOCTitle: (HUN) Setting up depreciation
 ms:assetid: e3183f81-5e7f-436e-a0fd-4851ae9137fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664394(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664394(v=AX.60)
 ms:contentKeyID: 49385482
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

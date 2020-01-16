@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Use an Expression in a Report'
 TOCTitle: 'How to: Use an Expression in a Report'
 ms:assetid: d7c98d1f-d515-4821-8e49-a95781a350d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh533449(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh533449(v=AX.60)
 ms:contentKeyID: 39056465
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
