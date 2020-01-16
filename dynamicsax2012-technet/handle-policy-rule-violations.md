@@ -2,8 +2,9 @@
 title: Handle policy rule violations
 TOCTitle: Handle policy rule violations
 ms:assetid: bc94cb39-d0a3-40cd-8ef2-fbd2da450082
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242770(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242770(v=AX.60)
 ms:contentKeyID: 36059135
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,9 +63,9 @@ If the settings require that invoices be approved before they are posted, follow
 
 [Key tasks: Vendor invoice policies](key-tasks-vendor-invoice-policies.md)
 
-[Invoice matching details (form)](https://technet.microsoft.com/en-us/library/hh209713\(v=ax.60\))
+[Invoice matching details (form)](https://technet.microsoft.com/library/hh209713\(v=ax.60\))
 
-[Policy violations (form)](https://technet.microsoft.com/en-us/library/hh209223\(v=ax.60\))
+[Policy violations (form)](https://technet.microsoft.com/library/hh209223\(v=ax.60\))
 
   
 

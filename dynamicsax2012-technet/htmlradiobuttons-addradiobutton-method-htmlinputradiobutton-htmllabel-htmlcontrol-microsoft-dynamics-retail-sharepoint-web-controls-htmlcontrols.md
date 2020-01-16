@@ -1,9 +1,10 @@
-﻿---
+---
 title: HtmlRadioButtons.AddRadioButton Method (HtmlInputRadioButton, HtmlLabel, HtmlControl) (Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls)
 TOCTitle: AddRadioButton Method (HtmlInputRadioButton, HtmlLabel, HtmlControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlRadioButtons.AddRadioButton(System.Web.UI.HtmlControls.HtmlInputRadioButton,Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlLabel,System.Web.UI.HtmlControls.HtmlControl)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlradiobuttons.addradiobutton(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlradiobuttons.addradiobutton(v=AX.60)
 ms:contentKeyID: 62206114
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -58,7 +59,7 @@ void AddRadioButton(
 #### Parameters
 
   - radioButton  
-    Type: [System.Web.UI.HtmlControls.HtmlInputRadioButton](https://technet.microsoft.com/en-us/library/w2yk46b2\(v=ax.60\))  
+    Type: [System.Web.UI.HtmlControls.HtmlInputRadioButton](https://technet.microsoft.com/library/w2yk46b2\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -68,7 +69,7 @@ void AddRadioButton(
 <!-- end list -->
 
   - container  
-    Type: [System.Web.UI.HtmlControls.HtmlControl](https://technet.microsoft.com/en-us/library/khc6t495\(v=ax.60\))  
+    Type: [System.Web.UI.HtmlControls.HtmlControl](https://technet.microsoft.com/library/khc6t495\(v=ax.60\))  
 
 ## See Also
 

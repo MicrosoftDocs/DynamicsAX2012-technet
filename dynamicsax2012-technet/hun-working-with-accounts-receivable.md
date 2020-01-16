@@ -2,8 +2,9 @@
 title: (HUN) Working with Accounts receivable
 TOCTitle: (HUN) Working with Accounts receivable
 ms:assetid: 0c25c381-7b1e-4363-8ac0-02eb3c5a6630
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664220(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664220(v=AX.60)
 ms:contentKeyID: 49385310
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

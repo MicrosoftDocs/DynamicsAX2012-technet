@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: View Model Information'
 TOCTitle: 'How to: View Model Information'
 ms:assetid: 8ebec422-d91b-4999-a461-32ee9cbe14ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404127(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404127(v=AX.60)
 ms:contentKeyID: 36956795
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -19,7 +20,7 @@ As you develop for Microsoft Dynamics AX, it can be useful to see details about 
 
 ### To view installed models
 
-1.  Open the Development Workspace. See [How to: Open a Development Workspace](https://technet.microsoft.com/en-us/library/gg846350\(v=ax.60\)) for more information.
+1.  Open the Development Workspace. See [How to: Open a Development Workspace](https://technet.microsoft.com/library/gg846350\(v=ax.60\)) for more information.
 
 2.  Choose **Tools** \> **Model management** \> **Models installed**. The **Models installed** window opens.
 

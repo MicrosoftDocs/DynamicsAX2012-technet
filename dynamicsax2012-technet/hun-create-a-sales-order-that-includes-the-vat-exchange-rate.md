@@ -2,8 +2,9 @@
 title: (HUN) Create a sales order that includes the VAT exchange rate
 TOCTitle: (HUN) Create a sales order that includes the VAT exchange rate
 ms:assetid: b6daee02-d1fa-441d-94dc-96613b0e549c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664358(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664358(v=AX.60)
 ms:contentKeyID: 49385446
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ Use this procedure to create and post a sales order in which you specify the VAT
 
 Before you can use an exchange rate for calculating VAT that differs from the exchange rate that you use for general accounting, you must perform the following steps.
 
-1.  Set up exchange rate types for calculating VAT. For more information, see [(HUN) Currency exchange rate types (form)](https://technet.microsoft.com/en-us/library/jj664400\(v=ax.60\)).
+1.  Set up exchange rate types for calculating VAT. For more information, see [(HUN) Currency exchange rate types (form)](https://technet.microsoft.com/library/jj664400\(v=ax.60\)).
 
 2.  Click **General ledger** \> **Setup** \> **General ledger parameters**.
     
@@ -47,7 +48,7 @@ Before you can use an exchange rate for calculating VAT that differs from the ex
 
 3.  Set up exchange rates for sales tax. For more information, see [(HUN) Set up exchange rates for calculating VAT](hun-set-up-exchange-rates-for-calculating-vat.md).
 
-4.  Set up accounts for posting sales tax differences. For more information, see [(HUN) Ledger posting groups (modified form)](https://technet.microsoft.com/en-us/library/jj664253\(v=ax.60\)).
+4.  Set up accounts for posting sales tax differences. For more information, see [(HUN) Ledger posting groups (modified form)](https://technet.microsoft.com/library/jj664253\(v=ax.60\)).
 
 ## Create and post a sales order that includes the VAT exchange rate
 
@@ -55,7 +56,7 @@ Before you can use an exchange rate for calculating VAT that differs from the ex
 
 2.  In the **Create sales order** form, select a customer, enter any additional information, and click **OK**.
 
-3.  In the **Sales order** form, on the **Sales order lines** FastTab, enter the details for the sales order line. For more information, see [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\)).
+3.  In the **Sales order** form, on the **Sales order lines** FastTab, enter the details for the sales order line. For more information, see [Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\)).
 
 4.  On the **Action Pane**, on the **Sell** tab, in the **Tax** group, click **Sales tax**.
 
@@ -69,7 +70,7 @@ When you create and post the sales invoice, any differences in amounts that are 
 
 ## See also
 
-[(HUN) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664221\(v=ax.60\))
+[(HUN) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664221\(v=ax.60\))
 
 [(HUN) Set up exchange rates for calculating VAT](hun-set-up-exchange-rates-for-calculating-vat.md)
 

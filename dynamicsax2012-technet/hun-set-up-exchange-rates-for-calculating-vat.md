@@ -2,8 +2,9 @@
 title: (HUN) Set up exchange rates for calculating VAT
 TOCTitle: (HUN) Set up exchange rates for calculating VAT
 ms:assetid: 96fa9d0c-2b3f-4a31-88d8-3e3de5bf765b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664336(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664336(v=AX.60)
 ms:contentKeyID: 49385424
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

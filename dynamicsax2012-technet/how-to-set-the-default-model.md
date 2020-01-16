@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Set the Default Model'
 TOCTitle: 'How to: Set the Default Model'
 ms:assetid: a1ce2d61-82f3-413b-9bb6-f8bed7e98fd2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404129(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404129(v=AX.60)
 ms:contentKeyID: 36956797
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -19,7 +20,7 @@ To make sure that resources are added to the correct model, you can specify the 
 
 ### To set the default model
 
-1.  Open the Development Workspace. See [How to: Open a Development Workspace](https://technet.microsoft.com/en-us/library/gg846350\(v=ax.60\)) for more information.
+1.  Open the Development Workspace. See [How to: Open a Development Workspace](https://technet.microsoft.com/library/gg846350\(v=ax.60\)) for more information.
 
 2.  Choose **Tools** \> **Options**.
 

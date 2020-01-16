@@ -2,8 +2,9 @@
 title: Getting Microsoft Dynamics AX assistance
 TOCTitle: Getting Microsoft Dynamics AX assistance
 ms:assetid: 7adf5dc4-d6e2-40d0-b6c9-513d1b959337
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309723(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309723(v=AX.60)
 ms:contentKeyID: 35132688
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

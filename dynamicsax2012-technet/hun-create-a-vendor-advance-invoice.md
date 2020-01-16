@@ -2,8 +2,9 @@
 title: (HUN) Create a vendor advance invoice
 TOCTitle: (HUN) Create a vendor advance invoice
 ms:assetid: 7c599ba6-0461-4110-bafd-355d8c4917d4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664314(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664314(v=AX.60)
 ms:contentKeyID: 49385403
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

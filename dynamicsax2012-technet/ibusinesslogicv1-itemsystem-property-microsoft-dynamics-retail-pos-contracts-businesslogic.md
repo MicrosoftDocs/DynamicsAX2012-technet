@@ -1,9 +1,10 @@
-﻿---
+---
 title: IBusinessLogicV1.ItemSystem Property  (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic)
 TOCTitle: ItemSystem Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IBusinessLogicV1.ItemSystem
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businesslogic.ibusinesslogicv1.itemsystem(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.ibusinesslogicv1.itemsystem(v=AX.60)
 ms:contentKeyID: 47128496
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

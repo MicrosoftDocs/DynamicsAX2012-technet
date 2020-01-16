@@ -2,8 +2,9 @@
 title: (HUN) Set up a consignment warehouse for a customer
 TOCTitle: (HUN) Set up a consignment warehouse for a customer
 ms:assetid: e30930a5-f887-43b6-97bb-9ea743ca5227
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664399(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664399(v=AX.60)
 ms:contentKeyID: 49385487
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ To set up a consignment warehouse:
 
 ## See also
 
-[(HUN) Warehouses (modified form)](https://technet.microsoft.com/en-us/library/jj664329\(v=ax.60\))
+[(HUN) Warehouses (modified form)](https://technet.microsoft.com/library/jj664329\(v=ax.60\))
 
   
 

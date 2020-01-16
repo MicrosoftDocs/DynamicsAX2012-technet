@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Create a Role Center'
 TOCTitle: 'How to: Create a Role Center'
 ms:assetid: 9d7a664e-ad1c-48c5-bc2c-c430599f142f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ945384(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ945384(v=AX.60)
 ms:contentKeyID: 51442776
+author: Khairunj
 ms.date: 02/13/2013
 mtps_version: v=AX.60
 ---
@@ -17,13 +18,13 @@ You can create a role center page for Microsoft Dynamics AX and add the page def
 
 ## Creating a Role Center Page
 
-You can create a role center page for Microsoft Dynamics AX. For more information, see [Role Center Page Reference](https://technet.microsoft.com/en-us/library/cc558235\(v=ax.60\)).
+You can create a role center page for Microsoft Dynamics AX. For more information, see [Role Center Page Reference](https://technet.microsoft.com/library/cc558235\(v=ax.60\)).
 
 ### To create a role center page
 
-1.  In Enterprise Portal, create a page that will be used as the role center page. This page should be added in the Enterprise Portal library of the Home site for the Enterprise Portal installation. For more information, see [How to: Create Pages](https://technet.microsoft.com/en-us/library/cc585929\(v=ax.60\)).
+1.  In Enterprise Portal, create a page that will be used as the role center page. This page should be added in the Enterprise Portal library of the Home site for the Enterprise Portal installation. For more information, see [How to: Create Pages](https://technet.microsoft.com/library/cc585929\(v=ax.60\)).
 
-2.  Create a URL web menu item that points to the new role center page. This web menu item is used when navigating to the role center page. For instance, a web menu item name EPSampleRoleCenter would point to the RoleCenterSample.aspx page. For more information about how to create URL web menu items, see [How to: Add Pages to Navigation](https://technet.microsoft.com/en-us/library/cc600786\(v=ax.60\)).
+2.  Create a URL web menu item that points to the new role center page. This web menu item is used when navigating to the role center page. For instance, a web menu item name EPSampleRoleCenter would point to the RoleCenterSample.aspx page. For more information about how to create URL web menu items, see [How to: Add Pages to Navigation](https://technet.microsoft.com/library/cc600786\(v=ax.60\)).
 
 3.  Set the **Label** property for the new URL web menu item to Role Center.
 

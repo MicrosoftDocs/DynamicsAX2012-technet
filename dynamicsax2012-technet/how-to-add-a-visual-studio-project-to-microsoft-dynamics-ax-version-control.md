@@ -2,8 +2,9 @@
 title: 'How to: Add a Visual Studio Project to Microsoft Dynamics AX Version Control'
 TOCTitle: 'How to: Add a Visual Studio Project to Microsoft Dynamics AX Version Control'
 ms:assetid: 387359f5-30f7-4433-94c4-0a804eb02050
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg886625(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg886625(v=AX.60)
 ms:contentKeyID: 35267992
+author: Khairunj
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 ---
@@ -29,7 +30,7 @@ The actions you can perform from Visual Studio under version control are as foll
 
 ## To Add a Visual Studio Project to Version Control
 
-1.  Configure version control in Microsoft Dynamics AX. For more information, see [Configuring Version Control in Microsoft Dynamics AX](https://technet.microsoft.com/en-us/library/aa496630\(v=ax.60\)).
+1.  Configure version control in Microsoft Dynamics AX. For more information, see [Configuring Version Control in Microsoft Dynamics AX](https://technet.microsoft.com/library/aa496630\(v=ax.60\)).
 
 2.  Configure version control in Visual Studio. Click **Tools** \> **Options**. Click Source Control and then select **Dynamics AX Version Control**.
 
@@ -51,11 +52,11 @@ Analysis Services projects are not supported for Microsoft Dynamics AX TFS sourc
 
 ## See also
 
-[Version Control System](https://technet.microsoft.com/en-us/library/aa639568\(v=ax.60\))
+[Version Control System](https://technet.microsoft.com/library/aa639568\(v=ax.60\))
 
 [Working with Reporting Projects](working-with-reporting-projects.md)
 
-[Visual Studio Development for Microsoft Dynamics AX](https://technet.microsoft.com/en-us/library/gg889157\(v=ax.60\))
+[Visual Studio Development for Microsoft Dynamics AX](https://technet.microsoft.com/library/gg889157\(v=ax.60\))
 
   
 

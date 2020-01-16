@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Add Validation to a Data Contract Class'
 TOCTitle: 'How to: Add Validation to a Data Contract Class'
 ms:assetid: 754849b3-e4fb-4934-b549-67eb77e79469
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731942(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731942(v=AX.60)
 ms:contentKeyID: 35132876
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -13,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-If you want to provide additional validation, you can implement the [SysOperationValidatable](https://technet.microsoft.com/en-us/library/gg963711\(v=ax.60\)) interface that provides a validate method for a data contract. This topic describes how to validate a data contract class for the following scenarios:
+If you want to provide additional validation, you can implement the [SysOperationValidatable](https://technet.microsoft.com/library/gg963711\(v=ax.60\)) interface that provides a validate method for a data contract. This topic describes how to validate a data contract class for the following scenarios:
 
 <table>
 <colgroup>
@@ -41,7 +42,7 @@ If you want to provide additional validation, you can implement the [SysOperatio
 
 ## Adding Validation to RDL Data Contracts
 
-For RDL data contracts, the [SrsReportRdlDataContract](https://technet.microsoft.com/en-us/library/gg939600\(v=ax.60\)) class implements default validation that will do basic parameter validation. It will also validate the company and culture parameters. When you override this class, first call the super() method to allow the base class to validate, and then implement your validation logic. It is required to specify the SrsReportNameAttribute attribute using the following syntax SrsReportNameAttribute(ssrsreportstr(\<report\>, \<design\>)). The SysOperationContractProcessingAttribute attribute is optional. Supply the SysOperationContractProcessingAttribute attribute to use a custom UI builder with the contract class. Otherwise, the framework UI builder will be used to render the UI for dealing with the parameters when the report is run.
+For RDL data contracts, the [SrsReportRdlDataContract](https://technet.microsoft.com/library/gg939600\(v=ax.60\)) class implements default validation that will do basic parameter validation. It will also validate the company and culture parameters. When you override this class, first call the super() method to allow the base class to validate, and then implement your validation logic. It is required to specify the SrsReportNameAttribute attribute using the following syntax SrsReportNameAttribute(ssrsreportstr(\<report\>, \<design\>)). The SysOperationContractProcessingAttribute attribute is optional. Supply the SysOperationContractProcessingAttribute attribute to use a custom UI builder with the contract class. Otherwise, the framework UI builder will be used to render the UI for dealing with the parameters when the report is run.
 
 ### To add validation to an RDL data contract
 
@@ -49,7 +50,7 @@ For RDL data contracts, the [SrsReportRdlDataContract](https://technet.microsoft
 
 2.  Double-click the new class to open the **classDeclaration** in Code Editor.
 
-3.  An RDL data contract must extend the [SrsReportRdlDataContract](https://technet.microsoft.com/en-us/library/gg939600\(v=ax.60\)) class and implement the [SysOperationValidatable](https://technet.microsoft.com/en-us/library/gg963711\(v=ax.60\)) interface. The naming convention is \[ReportName\]RDLContract. The following code example illustrates the classDeclaration of the Hcmi9DocumentExpireListRdlContract data contract class that is used for the HCM i9 document expire list report. The FromDate and ToDate are examples using date effectivity.
+3.  An RDL data contract must extend the [SrsReportRdlDataContract](https://technet.microsoft.com/library/gg939600\(v=ax.60\)) class and implement the [SysOperationValidatable](https://technet.microsoft.com/library/gg963711\(v=ax.60\)) interface. The naming convention is \[ReportName\]RDLContract. The following code example illustrates the classDeclaration of the Hcmi9DocumentExpireListRdlContract data contract class that is used for the HCM i9 document expire list report. The FromDate and ToDate are examples using date effectivity.
     
        ```X++
        /// <summary>
@@ -105,7 +106,7 @@ For RDP data contracts, implement the validate method and return True or False t
 
 2.  Double-click the new class to open the **classDeclaration** in Code Editor.
 
-3.  An RDP data contract must implement the [SysOperationValidatable](https://technet.microsoft.com/en-us/library/gg963711\(v=ax.60\)) interface. The naming convention is \[ReportName\]Contract. The following code example illustrates the classDeclaration of the AssetDueReplacementContract data contract class that is used for the asset due replacement report.
+3.  An RDP data contract must implement the [SysOperationValidatable](https://technet.microsoft.com/library/gg963711\(v=ax.60\)) interface. The naming convention is \[ReportName\]Contract. The following code example illustrates the classDeclaration of the AssetDueReplacementContract data contract class that is used for the asset due replacement report.
     
        ```X++
         /// <summary>

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Create an ODC file for a Business Overview Web Part'
 TOCTitle: 'How to: Create an ODC file for a Business Overview Web Part'
 ms:assetid: 5adb5104-a84f-432b-aed0-6ecc5ce057fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh128831(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh128831(v=AX.60)
 ms:contentKeyID: 35588430
+author: Khairunj
 ms.date: 11/11/2013
 mtps_version: v=AX.60
 ---
@@ -64,7 +65,7 @@ When you specify the data connection for a Business Overview web part, use the r
 
 [Walkthrough: Defining KPIs for a Cube](walkthrough-defining-kpis-for-a-cube.md)
 
-[Web Parts Overview](https://technet.microsoft.com/en-us/library/cc588397\(v=ax.60\))
+[Web Parts Overview](https://technet.microsoft.com/library/cc588397\(v=ax.60\))
 
-[Business Overview Web Part](https://technet.microsoft.com/en-us/library/gg862274\(v=ax.60\))
+[Business Overview Web Part](https://technet.microsoft.com/library/gg862274\(v=ax.60\))
 

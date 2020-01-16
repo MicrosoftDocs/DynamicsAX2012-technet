@@ -2,8 +2,9 @@
 title: (HUN) Setting up and maintaining Inventory and warehouse management
 TOCTitle: (HUN) Setting up and maintaining Inventory and warehouse management
 ms:assetid: 81588ec5-8553-4cce-a53b-4df1776c47b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664323(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664323(v=AX.60)
 ms:contentKeyID: 49385412
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

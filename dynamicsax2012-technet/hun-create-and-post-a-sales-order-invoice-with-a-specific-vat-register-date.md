@@ -2,8 +2,9 @@
 title: (HUN) Create and post a sales order invoice with a specific VAT register date
 TOCTitle: (HUN) Create and post a sales order invoice with a specific VAT register date
 ms:assetid: f558e197-5836-4c0b-ad88-f431941311ec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664416(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664416(v=AX.60)
 ms:contentKeyID: 49385504
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ When you post a sale invoice, you can select the date on which to report value-a
 
 2.  In the **Create sales order** form, enter the required information, and then click **OK.**
 
-3.  In the **Sales order** form, enter the sales order lines. For more information, see [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\)).
+3.  In the **Sales order** form, enter the sales order lines. For more information, see [Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\)).
 
 4.  On the **Action Pane**, on the **Sell** tab, in the **Generate** group, click **Sales order confirmation**.
 

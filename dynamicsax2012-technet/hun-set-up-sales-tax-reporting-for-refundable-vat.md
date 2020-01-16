@@ -2,8 +2,9 @@
 title: (HUN) Set up sales tax reporting for refundable VAT
 TOCTitle: (HUN) Set up sales tax reporting for refundable VAT
 ms:assetid: 1dc6a72a-c87f-4755-ba3e-b8a2b4e3df7e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664237(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664237(v=AX.60)
 ms:contentKeyID: 49385326
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

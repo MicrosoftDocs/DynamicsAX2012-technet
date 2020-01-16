@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Prevent Display of Print Setup for Reports (MorphX Reporting Tools)'
 TOCTitle: 'How to: Prevent Display of Print Setup for Reports'
 ms:assetid: 3d3b4807-dbde-496a-b8df-f63278aa06cb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb314611(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb314611(v=AX.60)
 ms:contentKeyID: 35290296
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -49,7 +50,7 @@ If a report contains sensitive data, you can prevent users who run the report fr
 
 [How to: Specify Printers for Reports (MorphX Reporting Tools)](how-to-specify-printers-for-reports-morphx-reporting-tools.md)
 
-[Report Properties](https://technet.microsoft.com/en-us/library/aa856851\(v=ax.60\))
+[Report Properties](https://technet.microsoft.com/library/aa856851\(v=ax.60\))
 
 [Report Methods (MorphX Reporting Tools)](report-methods-morphx-reporting-tools.md)
 

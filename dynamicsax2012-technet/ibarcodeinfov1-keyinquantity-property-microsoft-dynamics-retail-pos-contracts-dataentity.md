@@ -1,9 +1,10 @@
-﻿---
+---
 title: IBarcodeInfoV1.KeyInQuantity Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: KeyInQuantity Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IBarcodeInfoV1.KeyInQuantity
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.ibarcodeinfov1.keyinquantity(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.ibarcodeinfov1.keyinquantity(v=AX.60)
 ms:contentKeyID: 47129179
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

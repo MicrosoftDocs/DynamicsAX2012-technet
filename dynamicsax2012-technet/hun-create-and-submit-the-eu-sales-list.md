@@ -2,8 +2,9 @@
 title: (HUN) Create and submit the EU sales list
 TOCTitle: (HUN) Create and submit the EU sales list
 ms:assetid: b2583bc2-55fe-4b2b-a3bc-da9ef3fb34dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728744(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728744(v=AX.60)
 ms:contentKeyID: 49556654
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,11 +58,11 @@ Businesses that supply goods to companies in other European Union (EU) countries
 
 ## See also
 
-[EU sales list (form)](https://technet.microsoft.com/en-us/library/aa596355\(v=ax.60\))
+[EU sales list (form)](https://technet.microsoft.com/library/aa596355\(v=ax.60\))
 
-[(HUN) EU sales list (modified form)](https://technet.microsoft.com/en-us/library/jj664282\(v=ax.60\))
+[(HUN) EU sales list (modified form)](https://technet.microsoft.com/library/jj664282\(v=ax.60\))
 
-[Transfer transactions for EU sales list (form)](https://technet.microsoft.com/en-us/library/aa499405\(v=ax.60\))
+[Transfer transactions for EU sales list (form)](https://technet.microsoft.com/library/aa499405\(v=ax.60\))
 
   
 

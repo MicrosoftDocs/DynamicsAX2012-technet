@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Add an Existing Report to a Reporting Project'
 TOCTitle: 'How to: Add an Existing Report to a Reporting Project'
 ms:assetid: b11e0118-6d16-4046-927f-ee1093e660b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724096(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg724096(v=AX.60)
 ms:contentKeyID: 35133454
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -35,9 +36,9 @@ This topic describes how to add an existing report to a reporting project. The t
 
 [How to: Add or Delete a Report](how-to-add-or-delete-a-report.md)
 
-[Application Explorer](https://technet.microsoft.com/en-us/library/cc637855\(v=ax.60\))
+[Application Explorer](https://technet.microsoft.com/library/cc637855\(v=ax.60\))
 
-[Model Editor Overview](https://technet.microsoft.com/en-us/library/cc643142\(v=ax.60\))
+[Model Editor Overview](https://technet.microsoft.com/library/cc643142\(v=ax.60\))
 
 [Working with Reporting Projects](working-with-reporting-projects.md)
 

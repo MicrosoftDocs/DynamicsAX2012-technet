@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Modify Report Sections by Using X++ (MorphX Reporting Tools)'
 TOCTitle: 'How to: Modify Report Sections by Using X++'
 ms:assetid: 9d1a6caf-5151-4176-b8ff-8cbca35f8535
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa847072(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa847072(v=AX.60)
 ms:contentKeyID: 35290314
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

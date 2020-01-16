@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetSupportedReportsRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetSupportedReportsRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetSupportedReportsRequest.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getsupportedreportsrequest.getsupportedreportsrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getsupportedreportsrequest.getsupportedreportsrequest(v=AX.60)
 ms:contentKeyID: 62214664
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

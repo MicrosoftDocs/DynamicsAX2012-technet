@@ -2,8 +2,9 @@
 title: (HUN) Set up parameters for tax reimbursement documents
 TOCTitle: (HUN) Set up parameters for tax reimbursement documents
 ms:assetid: e117a608-cf6a-4af8-a9a8-adebce1501d2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664392(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664392(v=AX.60)
 ms:contentKeyID: 49385480
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ Use this procedure to set up an exchange rate that is automatically selected in 
 
 2.  In the **Accounts receivable parameters** form, in the left pane, click **Updates**.
 
-3.  In the **Tax reimbursement slip** field, select the type of exchange rate to use by default for tax reimbursement documents. For more information about exchange rate types, see [Exchange rate types (form)](https://technet.microsoft.com/en-us/library/hh242857\(v=ax.60\)).
+3.  In the **Tax reimbursement slip** field, select the type of exchange rate to use by default for tax reimbursement documents. For more information about exchange rate types, see [Exchange rate types (form)](https://technet.microsoft.com/library/hh242857\(v=ax.60\)).
 
 ## Set up a number sequence
 
@@ -41,11 +42,11 @@ Use this procedure to set up a number sequence that is automatically assigned to
 
 4.  In the **Number sequence code** field, select a number sequence for tax reimbursement documents.
 
-5.  Complete the remaining optional fields. For more information, see [Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\)).
+5.  Complete the remaining optional fields. For more information, see [Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\)).
 
 ## See also
 
-[(HUN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj714534\(v=ax.60\))
+[(HUN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj714534\(v=ax.60\))
 
 [Setting up and maintaining Accounts receivable](setting-up-and-maintaining-accounts-receivable.md)
 

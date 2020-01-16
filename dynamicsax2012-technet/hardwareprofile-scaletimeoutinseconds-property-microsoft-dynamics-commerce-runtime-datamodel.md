@@ -1,9 +1,10 @@
-﻿---
+---
 title: HardwareProfile.ScaleTimeoutInSeconds Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ScaleTimeoutInSeconds Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.HardwareProfile.ScaleTimeoutInSeconds
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofile.scaletimeoutinseconds(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofile.scaletimeoutinseconds(v=AX.60)
 ms:contentKeyID: 62208697
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ property int ScaleTimeoutInSeconds {
 
 #### Property Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 The timeout value.  
 
 ## See Also

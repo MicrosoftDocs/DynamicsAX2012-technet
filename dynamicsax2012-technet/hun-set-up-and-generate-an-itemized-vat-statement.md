@@ -2,8 +2,9 @@
 title: (HUN) Set up and generate an itemized VAT statement
 TOCTitle: (HUN) Set up and generate an itemized VAT statement
 ms:assetid: 736eca2a-c207-4e0c-84a6-de4b51cb439c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268481(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268481(v=AX.60)
 ms:contentKeyID: 54917020
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,8 +54,8 @@ The following table shows the prerequisites that must be in place before you sta
 <tbody>
 <tr class="odd">
 <td><p>Currency setup</p></td>
-<td><p>Specify a currency exchange rate so that your company can receive or make payments in foreign currencies. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209477(v=ax.60)">Currency exchange rates (form)</a>.</p>
-<p>You can also set up a reporting currency in the <strong>Ledger</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209331(v=ax.60)">Ledger (form)</a>.</p></td>
+<td><p>Specify a currency exchange rate so that your company can receive or make payments in foreign currencies. For more information, see <a href="https://technet.microsoft.com/library/hh209477(v=ax.60)">Currency exchange rates (form)</a>.</p>
+<p>You can also set up a reporting currency in the <strong>Ledger</strong> form. For more information, see <a href="https://technet.microsoft.com/library/hh209331(v=ax.60)">Ledger (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Sales tax setup</p></td>
@@ -129,9 +130,9 @@ To generate and export the itemized VAT statement, follow these steps:
 
 [(HUN) Create and post a purchase order invoice with a specific VAT register date](hun-create-and-post-a-purchase-order-invoice-with-a-specific-vat-register-date.md)
 
-[Sales tax settlement periods (form)](https://technet.microsoft.com/en-us/library/aa633944\(v=ax.60\))
+[Sales tax settlement periods (form)](https://technet.microsoft.com/library/aa633944\(v=ax.60\))
 
-[(HUN) VAT reporting (form)](https://technet.microsoft.com/en-us/library/jj664308\(v=ax.60\))
+[(HUN) VAT reporting (form)](https://technet.microsoft.com/library/jj664308\(v=ax.60\))
 
   
 

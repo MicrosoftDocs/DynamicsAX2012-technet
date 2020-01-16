@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Move AOT Elements between Models'
 TOCTitle: 'How to: Move AOT Elements between Models'
 ms:assetid: b1d17f9b-6b7c-4657-88c1-7e4f42fe3578
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404130(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404130(v=AX.60)
 ms:contentKeyID: 36956798
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

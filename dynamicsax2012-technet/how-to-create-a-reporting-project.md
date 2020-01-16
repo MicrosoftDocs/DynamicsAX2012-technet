@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Create a Reporting Project'
 TOCTitle: 'How to: Create a Reporting Project'
 ms:assetid: c8de8a82-023a-4f8f-805b-aa9e7dbb209d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc575711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc575711(v=AX.60)
 ms:contentKeyID: 28119584
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -47,7 +48,7 @@ This topic describes how to create a Microsoft Dynamics AX reporting project in 
     
       - Create directory for solution
     
-      - Add to [source control](https://technet.microsoft.com/en-us/library/aa639568\(v=ax.60\))
+      - Add to [source control](https://technet.microsoft.com/library/aa639568\(v=ax.60\))
 
 10. Click **OK**.
     

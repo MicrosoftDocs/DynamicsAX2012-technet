@@ -2,8 +2,9 @@
 title: (HUN) Itemized VAT statement
 TOCTitle: (HUN) Itemized VAT statement
 ms:assetid: f97eeae0-40e2-4cd2-bdd5-f0fc943ce65b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn313051(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn313051(v=AX.60)
 ms:contentKeyID: 54936298
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

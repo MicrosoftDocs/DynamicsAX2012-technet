@@ -2,8 +2,9 @@
 title: (HUN) Accounts payable
 TOCTitle: (HUN) Accounts payable
 ms:assetid: 4aff338b-5fa6-4a4b-b3ae-f22360ea21fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664275(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664275(v=AX.60)
 ms:contentKeyID: 49385364
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetReceiptRequest.IsRemoteTransaction Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: IsRemoteTransaction Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetReceiptRequest.IsRemoteTransaction
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getreceiptrequest.isremotetransaction(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getreceiptrequest.isremotetransaction(v=AX.60)
 ms:contentKeyID: 65321038
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property bool IsRemoteTransaction {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

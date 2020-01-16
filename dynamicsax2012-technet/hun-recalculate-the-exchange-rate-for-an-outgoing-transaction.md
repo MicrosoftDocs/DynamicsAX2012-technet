@@ -2,8 +2,9 @@
 title: (HUN) Recalculate the exchange rate for an outgoing transaction
 TOCTitle: (HUN) Recalculate the exchange rate for an outgoing transaction
 ms:assetid: 28b274e2-91c9-4c3e-9a4e-8e034ba1a08b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664242(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664242(v=AX.60)
 ms:contentKeyID: 49385331
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

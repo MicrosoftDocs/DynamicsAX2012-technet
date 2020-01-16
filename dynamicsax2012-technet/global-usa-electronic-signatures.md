@@ -2,8 +2,9 @@
 title: (Global, USA) Electronic signatures
 TOCTitle: (Global, USA) Electronic signatures
 ms:assetid: 75a4698c-9fba-4056-828e-e4f3940245b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309718(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309718(v=AX.60)
 ms:contentKeyID: 36058173
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

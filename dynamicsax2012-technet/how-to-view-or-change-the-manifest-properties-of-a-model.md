@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: View or Change the Manifest Properties of a Model'
 TOCTitle: 'How to: View or Change the Manifest Properties of a Model'
 ms:assetid: 5d080225-e5c2-4c8c-bf8a-df2c4e70b129
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433512(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433512(v=AX.60)
 ms:contentKeyID: 36941293
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

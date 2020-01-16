@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Use an Expression in a Report Parameter'
 TOCTitle: 'How to: Use an Expression in a Report Parameter'
 ms:assetid: 0c2cb581-55d5-4ade-8d68-deed759872e1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh533445(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh533445(v=AX.60)
 ms:contentKeyID: 39056461
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

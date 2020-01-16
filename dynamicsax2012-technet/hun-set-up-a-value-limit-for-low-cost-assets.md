@@ -2,8 +2,9 @@
 title: (HUN) Set up a value limit for low-cost assets
 TOCTitle: (HUN) Set up a value limit for low-cost assets
 ms:assetid: 7bab4f63-b8ae-4e53-a9d8-31ea69f6de4f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664312(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664312(v=AX.60)
 ms:contentKeyID: 49385401
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,9 +37,9 @@ Use this procedure to enable immediate depreciation by specifying the value limi
 
 [(HUN) Generate a pre-acquisition transaction for a low-cost asset](hun-generate-a-pre-acquisition-transaction-for-a-low-cost-asset.md)
 
-[(HUN) Fixed assets parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733165\(v=ax.60\))
+[(HUN) Fixed assets parameters (modified form)](https://technet.microsoft.com/library/jj733165\(v=ax.60\))
 
-[Fixed assets parameters (form)](https://technet.microsoft.com/en-us/library/hh242490\(v=ax.60\))
+[Fixed assets parameters (form)](https://technet.microsoft.com/library/hh242490\(v=ax.60\))
 
   
 

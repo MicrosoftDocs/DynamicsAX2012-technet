@@ -2,8 +2,9 @@
 title: (HUN) Cash and bank management
 TOCTitle: (HUN) Cash and bank management
 ms:assetid: eb30b32b-a261-4fb8-b6d4-73a829d319cb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664395(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664395(v=AX.60)
 ms:contentKeyID: 49385483
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

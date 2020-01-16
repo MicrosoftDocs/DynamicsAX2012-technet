@@ -2,8 +2,9 @@
 title: (HUN) General ledger
 TOCTitle: (HUN) General ledger
 ms:assetid: f284beba-a7c9-46e8-b1a5-f990b14eed53
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664411(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664411(v=AX.60)
 ms:contentKeyID: 49385499
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

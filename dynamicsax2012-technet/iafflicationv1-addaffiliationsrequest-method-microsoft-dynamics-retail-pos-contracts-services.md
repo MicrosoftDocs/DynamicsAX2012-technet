@@ -1,9 +1,10 @@
-﻿---
+---
 title: IAfflicationV1.AddAffiliationsRequest Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: AddAffiliationsRequest Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IAfflicationV1.AddAffiliationsRequest(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransaction,System.Collections.Generic.IList{Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IAffiliation})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iafflicationv1.addaffiliationsrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iafflicationv1.addaffiliationsrequest(v=AX.60)
 ms:contentKeyID: 62203931
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,11 +62,11 @@ bool AddAffiliationsRequest(
 <!-- end list -->
 
   - affiliations  
-    Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[IAffiliation](iaffiliation-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)\>  
+    Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[IAffiliation](iaffiliation-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)\>  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 Return true when add sucessfully, otherwise return false  
 
 ## See Also

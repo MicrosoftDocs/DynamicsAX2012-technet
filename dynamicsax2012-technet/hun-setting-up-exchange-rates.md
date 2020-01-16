@@ -2,8 +2,9 @@
 title: (HUN) Setting up exchange rates
 TOCTitle: (HUN) Setting up exchange rates
 ms:assetid: d61992cc-01e2-4d35-9ec5-070f02c60c0f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664384(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664384(v=AX.60)
 ms:contentKeyID: 49385472
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

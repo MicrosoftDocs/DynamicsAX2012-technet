@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Specify Measures for a Cube'
 TOCTitle: 'How to: Specify Measures for a Cube'
 ms:assetid: 79d164a0-5115-4c62-93f4-d1145461598a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc558098(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc558098(v=AX.60)
 ms:contentKeyID: 28119386
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

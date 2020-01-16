@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Update an Existing SQL Server Analysis Services Project'
 TOCTitle: 'How to: Update an Existing SQL Server Analysis Services Project'
 ms:assetid: bb15b5df-7080-432f-bef9-bdd8f1a233a0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc618242(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc618242(v=AX.60)
 ms:contentKeyID: 28119577
+author: Khairunj
 ms.date: 11/14/2012
 mtps_version: v=AX.60
 ---
@@ -77,7 +78,7 @@ You can create Key Performance Indicators (KPIs) in SQL Server Business Intellig
 
 
 
-Log files are generated in two locations. Information is logged in the global log file path that is specified in the [Analysis servers form](https://technet.microsoft.com/en-us/library/hh597195\(v=ax.60\)). This log file is not generated if you do not specify the global log file path. When the Analysis Services project is updated, the information about the changes to the project is logged in the UpdateProjectActions.log file in the project folder.
+Log files are generated in two locations. Information is logged in the global log file path that is specified in the [Analysis servers form](https://technet.microsoft.com/library/hh597195\(v=ax.60\)). This log file is not generated if you do not specify the global log file path. When the Analysis Services project is updated, the information about the changes to the project is logged in the UpdateProjectActions.log file in the project folder.
 
 ## See also
 

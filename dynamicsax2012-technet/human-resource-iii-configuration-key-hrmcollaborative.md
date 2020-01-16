@@ -2,8 +2,9 @@
 title: Human resource III configuration key (HRMCollaborative)
 TOCTitle: Human resource III configuration key (HRMCollaborative)
 ms:assetid: d8f3b712-0b57-4bf3-b857-3a29e874dab4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416696(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416696(v=AX.60)
 ms:contentKeyID: 36931857
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -43,19 +44,19 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Discussions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587357(v=ax.60)">Discussions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587357(v=ax.60)">Discussions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Discussion types</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585488(v=ax.60)">Discussion types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585488(v=ax.60)">Discussion types (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Goal details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227645(v=ax.60)">Goal details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227645(v=ax.60)">Goal details (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Goal headings</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209487(v=ax.60)">Goal headings (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209487(v=ax.60)">Goal headings (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Performance goals</strong></p></td>
@@ -63,11 +64,11 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Goal types</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208815(v=ax.60)">Goal types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208815(v=ax.60)">Goal types (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Department</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583593(v=ax.60)">Department (form) - Skills</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583593(v=ax.60)">Department (form) - Skills</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Skill gap analysis job - person</strong></p></td>
@@ -75,11 +76,11 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Skill mapping profiles</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589280(v=ax.60)">Skill mapping profiles (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589280(v=ax.60)">Skill mapping profiles (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Results</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa586007(v=ax.60)">Skill mapping results (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa586007(v=ax.60)">Skill mapping results (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Skill profile analysis</strong></p></td>
@@ -190,7 +191,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

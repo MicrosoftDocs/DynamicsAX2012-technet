@@ -2,8 +2,9 @@
 title: (HUN) Setting up and maintaining General ledger
 TOCTitle: (HUN) Setting up and maintaining General ledger
 ms:assetid: 3d82b98a-7e63-43a3-8580-c1974e8c37bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664265(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664265(v=AX.60)
 ms:contentKeyID: 49385354
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

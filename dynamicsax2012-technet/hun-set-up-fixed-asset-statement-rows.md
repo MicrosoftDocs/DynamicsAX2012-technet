@@ -2,8 +2,9 @@
 title: (HUN) Set up fixed asset statement rows
 TOCTitle: (HUN) Set up fixed asset statement rows
 ms:assetid: 3548c601-f1eb-4e1c-b87f-f13496cdf5d4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664256(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664256(v=AX.60)
 ms:contentKeyID: 49385345
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

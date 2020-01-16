@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Add a URL Drill Through Action on a Report'
 TOCTitle: 'How to: Add a URL Drill Through Action on a Report'
 ms:assetid: 0baf8146-571b-4baf-9a66-aab61e43d915
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc582049(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc582049(v=AX.60)
 ms:contentKeyID: 28119303
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:
