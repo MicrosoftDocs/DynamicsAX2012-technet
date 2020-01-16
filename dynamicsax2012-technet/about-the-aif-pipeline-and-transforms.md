@@ -2,8 +2,9 @@
 title: About the AIF Pipeline and Transforms
 TOCTitle: About the AIF Pipeline and Transforms
 ms:assetid: 6be5dc9c-154d-487f-8037-0a2b1c55ff6e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg840969(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg840969(v=AX.60)
 ms:contentKeyID: 35244796
+author: Khairunj
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 ---
@@ -45,7 +46,7 @@ You can create different types of transform components and then specify the orde
     
       - Value substitution
     
-    Typically, these components are used to transform the content of a message. For example, if you have an inbound message that contains customer records, your AIF pipeline could contain an XSLT that updates an element in the XML based on the value of the customer status element. As the message continues through the pipeline, you may have a value substitution that converts your trading partner’s currency code into the currency code used by Microsoft Dynamics AX. Finally, your AIF pipeline could contain a custom component that writes information to a log for each customer record that is processed. This custom component must be an X++ class that implements the [AifPipelineComponent](https://technet.microsoft.com/en-us/library/gg851722\(v=ax.60\)) interface.
+    Typically, these components are used to transform the content of a message. For example, if you have an inbound message that contains customer records, your AIF pipeline could contain an XSLT that updates an element in the XML based on the value of the customer status element. As the message continues through the pipeline, you may have a value substitution that converts your trading partner’s currency code into the currency code used by Microsoft Dynamics AX. Finally, your AIF pipeline could contain a custom component that writes information to a log for each customer record that is processed. This custom component must be an X++ class that implements the [AifPipelineComponent](https://technet.microsoft.com/library/gg851722\(v=ax.60\)) interface.
 
 
 > [!NOTE]

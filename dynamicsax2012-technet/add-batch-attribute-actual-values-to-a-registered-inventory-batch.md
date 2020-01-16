@@ -2,8 +2,9 @@
 title: Add batch attribute actual values to a registered inventory batch
 TOCTitle: Add batch attribute actual values to a registered inventory batch
 ms:assetid: 2ae477ed-8a54-4a4a-bee0-68b29757ef9e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838728(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838728(v=AX.60)
 ms:contentKeyID: 50120611
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,11 +44,11 @@ Use the following procedures to add the actual value of the base inventory batch
 
 ## See also
 
-[(PM) Production orders (form)](https://technet.microsoft.com/en-us/library/jj838764\(v=ax.60\))
+[(PM) Production orders (form)](https://technet.microsoft.com/library/jj838764\(v=ax.60\))
 
-[(PM) Purchase order (form)](https://technet.microsoft.com/en-us/library/hh328589\(v=ax.60\))
+[(PM) Purchase order (form)](https://technet.microsoft.com/library/hh328589\(v=ax.60\))
 
-[Report as finished-batch orders (form)](https://technet.microsoft.com/en-us/library/hh328602\(v=ax.60\))
+[Report as finished-batch orders (form)](https://technet.microsoft.com/library/hh328602\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: About the modeling tree
 TOCTitle: About the modeling tree
 ms:assetid: bc4e30b0-b692-4d9e-9434-24463ed70766
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498864(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498864(v=AX.60)
 ms:contentKeyID: 36059134
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

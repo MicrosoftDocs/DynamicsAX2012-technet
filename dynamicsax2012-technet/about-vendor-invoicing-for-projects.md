@@ -2,8 +2,9 @@
 title: About vendor invoicing for projects
 TOCTitle: About vendor invoicing for projects
 ms:assetid: d6b68f83-6bc3-4dad-add1-001b15a2f75a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499395(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499395(v=AX.60)
 ms:contentKeyID: 42517339
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ When you order an item from a vendor and assign the item to a project, the line 
 
 [Create an invoice for a time and material project](create-an-invoice-for-a-time-and-material-project.md)
 
-[Line properties (form)](https://technet.microsoft.com/en-us/library/aa590082\(v=ax.60\))
+[Line properties (form)](https://technet.microsoft.com/library/aa590082\(v=ax.60\))
 
 [Configuring line properties](configuring-line-properties.md)
 

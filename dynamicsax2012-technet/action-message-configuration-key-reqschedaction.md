@@ -2,8 +2,9 @@
 title: Action Message configuration key (ReqSchedAction)
 TOCTitle: Action Message configuration key (ReqSchedAction)
 ms:assetid: 24f92c9d-f3d8-445d-8f5a-04278e9478dc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551744(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551744(v=AX.60)
 ms:contentKeyID: 36941196
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Actions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620715(v=ax.60)">Actions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620715(v=ax.60)">Actions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Actions</strong></p></td>
@@ -79,7 +80,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

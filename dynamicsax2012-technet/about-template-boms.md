@@ -2,8 +2,9 @@
 title: About template BOMs
 TOCTitle: About template BOMs
 ms:assetid: 4f9f830f-00ab-487c-98f2-fc8f31cd2a6b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497130(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497130(v=AX.60)
 ms:contentKeyID: 43976714
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -122,7 +123,7 @@ To use template BOMs, you must set up two number sequences. Set up one number se
 
 [Modify a Service BOM](modify-a-service-bom.md)
 
-[Number sequences (list page)](https://technet.microsoft.com/en-us/library/aa600321\(v=ax.60\))
+[Number sequences (list page)](https://technet.microsoft.com/library/aa600321\(v=ax.60\))
 
   
 

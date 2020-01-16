@@ -2,8 +2,9 @@
 title: Accounting supervisor security role (LedgerAccountingSupervisor)
 TOCTitle: Accounting supervisor security role (LedgerAccountingSupervisor)
 ms:assetid: 60d033b2-1010-46b7-8316-4b40a28a6821
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527097(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527097(v=AX.60)
 ms:contentKeyID: 37823149
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

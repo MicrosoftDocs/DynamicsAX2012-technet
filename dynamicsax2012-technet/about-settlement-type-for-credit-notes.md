@@ -2,8 +2,9 @@
 title: About settlement type for credit notes
 TOCTitle: About settlement type for credit notes
 ms:assetid: 962fffb2-98ec-4baa-834c-0736c1ae81b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa556179(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa556179(v=AX.60)
 ms:contentKeyID: 36931876
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,9 +53,9 @@ The settlement types that apply are:
 
 ## See also
 
-[About settlement type](https://technet.microsoft.com/en-us/library/aa600189\(v=ax.60\))
+[About settlement type](https://technet.microsoft.com/library/aa600189\(v=ax.60\))
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
   
 

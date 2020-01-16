@@ -2,8 +2,9 @@
 title: Add images and customer service scripts to item information
 TOCTitle: Add images and customer service scripts to item information
 ms:assetid: 098cad47-1a31-4851-b919-4a540b6d3cad
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497710(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497710(v=AX.60)
 ms:contentKeyID: 62200032
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

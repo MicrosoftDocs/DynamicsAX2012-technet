@@ -2,8 +2,9 @@
 title: About viewing project control transactions in Microsoft Excel
 TOCTitle: About viewing project control transactions in Microsoft Excel
 ms:assetid: 8683d3d3-a005-4041-9189-5675c0ddb21f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213180(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213180(v=AX.60)
 ms:contentKeyID: 36811415
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -64,15 +65,15 @@ The following options are available:
 
 ## See also
 
-[Project statements (form)](https://technet.microsoft.com/en-us/library/aa552521\(v=ax.60\))
+[Project statements (form)](https://technet.microsoft.com/library/aa552521\(v=ax.60\))
 
-[Invoice control (form)](https://technet.microsoft.com/en-us/library/aa618760\(v=ax.60\))
+[Invoice control (form)](https://technet.microsoft.com/library/aa618760\(v=ax.60\))
 
-[Cost control (form)](https://technet.microsoft.com/en-us/library/hh242864\(v=ax.60\))
+[Cost control (form)](https://technet.microsoft.com/library/hh242864\(v=ax.60\))
 
-[Utilization hours (form)](https://technet.microsoft.com/en-us/library/hh208657\(v=ax.60\))
+[Utilization hours (form)](https://technet.microsoft.com/library/hh208657\(v=ax.60\))
 
-[Cash flow (form)](https://technet.microsoft.com/en-us/library/hh242606\(v=ax.60\))
+[Cash flow (form)](https://technet.microsoft.com/library/hh242606\(v=ax.60\))
 
   
 

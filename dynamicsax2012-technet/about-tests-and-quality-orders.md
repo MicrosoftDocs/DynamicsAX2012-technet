@@ -2,8 +2,9 @@
 title: About tests and quality orders
 TOCTitle: About tests and quality orders
 ms:assetid: 4232dd41-7dc2-4695-9e32-931ef863e8de
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231366(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231366(v=AX.60)
 ms:contentKeyID: 36056870
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ Additional steps include the definition of sampling plans and the assignment of 
 
 ## See also
 
-[Quality orders (form)](https://technet.microsoft.com/en-us/library/hh209521\(v=ax.60\))
+[Quality orders (form)](https://technet.microsoft.com/library/hh209521\(v=ax.60\))
 
 [About system-generated quality orders](about-system-generated-quality-orders.md)
 

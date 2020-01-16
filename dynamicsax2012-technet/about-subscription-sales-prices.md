@@ -2,8 +2,9 @@
 title: About subscription sales prices
 TOCTitle: About subscription sales prices
 ms:assetid: 763a5377-f1ad-4ef3-9d8b-8d456f80078b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550036(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550036(v=AX.60)
 ms:contentKeyID: 36058182
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

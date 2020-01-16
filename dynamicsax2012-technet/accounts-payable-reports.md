@@ -2,8 +2,9 @@
 title: Accounts payable reports
 TOCTitle: Accounts payable reports
 ms:assetid: a3437a3a-7889-4788-9242-c402ad4019df
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334500(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334500(v=AX.60)
 ms:contentKeyID: 36676488
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

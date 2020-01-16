@@ -2,8 +2,9 @@
 title: Accounts receivable reports
 TOCTitle: Accounts receivable reports
 ms:assetid: 6b077790-65af-4468-9264-0a228167a8d4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334491(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334491(v=AX.60)
 ms:contentKeyID: 36676478
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,7 +66,7 @@ The following reports are available in the **Accounts receivable** module of Mic
 
 [History by customer transaction report (CustLedgerTrans)](history-by-customer-transaction-report-custledgertrans.md)
 
-[Internal account statement report (CustAccountStatementInt)](https://technet.microsoft.com/en-us/library/aa550734\(v=ax.60\))
+[Internal account statement report (CustAccountStatementInt)](https://technet.microsoft.com/library/aa550734\(v=ax.60\))
 
 [Invoice specification report (CustInvoiceSpec)](invoice-specification-report-custinvoicespec.md)
 

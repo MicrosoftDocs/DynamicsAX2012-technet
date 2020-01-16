@@ -2,8 +2,9 @@
 title: About work breakdown structures
 TOCTitle: About work breakdown structures
 ms:assetid: f6c235f9-468a-431c-ab7d-6bf649fe7620
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227544(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227544(v=AX.60)
 ms:contentKeyID: 36060018
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ In a WBS, you can add the following details for each task:
 
 ## See also
 
-[Work breakdown structure (form)](https://technet.microsoft.com/en-us/library/hh209089\(v=ax.60\))
+[Work breakdown structure (form)](https://technet.microsoft.com/library/hh209089\(v=ax.60\))
 
 [Create a work breakdown structure of tasks for a project](create-a-work-breakdown-structure-of-tasks-for-a-project.md)
 
@@ -65,7 +66,7 @@ In a WBS, you can add the following details for each task:
 
 [Transfer work breakdown estimates to project forecasts](transfer-work-breakdown-estimates-to-project-forecasts.md)
 
-[Activities (form)](https://technet.microsoft.com/en-us/library/aa576083\(v=ax.60\))
+[Activities (form)](https://technet.microsoft.com/library/aa576083\(v=ax.60\))
 
   
 

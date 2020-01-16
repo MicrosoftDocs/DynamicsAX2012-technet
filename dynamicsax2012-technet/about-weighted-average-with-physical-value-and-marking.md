@@ -2,8 +2,9 @@
 title: About weighted average with physical value and marking
 TOCTitle: About weighted average with physical value and marking
 ms:assetid: 56c05e08-5b4b-412b-9224-98f1871fa82d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242469(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242469(v=AX.60)
 ms:contentKeyID: 36057325
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

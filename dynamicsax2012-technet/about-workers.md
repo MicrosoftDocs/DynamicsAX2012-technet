@@ -2,8 +2,9 @@
 title: About workers
 TOCTitle: About workers
 ms:assetid: bd5eb624-4b1f-4c7c-863d-e5a54b037517
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242776(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242776(v=AX.60)
 ms:contentKeyID: 36059154
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,7 +40,7 @@ You can maintain the following information for workers:
 
 [Key tasks: Workers](key-tasks-workers.md)
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
 [Worker employment](worker-employment.md)
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: About the Shared Types Schema
 TOCTitle: About the Shared Types Schema
 ms:assetid: a6220937-dbd7-4f05-99fc-e5d29dc110c7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh769362(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh769362(v=AX.60)
 ms:contentKeyID: 43876670
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

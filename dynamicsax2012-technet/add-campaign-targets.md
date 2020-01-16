@@ -2,8 +2,9 @@
 title: Add campaign targets
 TOCTitle: Add campaign targets
 ms:assetid: 5129c1a8-03d3-486b-842d-fe311a52f4ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548910(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548910(v=AX.60)
 ms:contentKeyID: 36057258
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

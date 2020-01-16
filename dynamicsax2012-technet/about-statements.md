@@ -2,8 +2,9 @@
 title: About statements
 TOCTitle: About statements
 ms:assetid: c83d5d89-d8b2-4624-9f88-1f20f7d67378
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597240(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597240(v=AX.60)
 ms:contentKeyID: 39519316
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -101,9 +102,9 @@ If the same store is configured with the **Post as business day** check box clea
 
 [Create and post a statement](create-and-post-a-statement.md)
 
-[Retail parameters (form)](https://technet.microsoft.com/en-us/library/hh597194\(v=ax.60\))
+[Retail parameters (form)](https://technet.microsoft.com/library/hh597194\(v=ax.60\))
 
-[Stores (form)](https://technet.microsoft.com/en-us/library/hh580646\(v=ax.60\))
+[Stores (form)](https://technet.microsoft.com/library/hh580646\(v=ax.60\))
 
   
 

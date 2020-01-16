@@ -2,8 +2,9 @@
 title: Accountant investment analysis report (AccountantInvestmentAnalysis)
 TOCTitle: Accountant investment analysis report (AccountantInvestmentAnalysis)
 ms:assetid: c0ba929e-a690-4135-9e9b-b9abed237936
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597421(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597421(v=AX.60)
 ms:contentKeyID: 39520463
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

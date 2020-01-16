@@ -2,8 +2,9 @@
 title: Activate order entry deadline combinations
 TOCTitle: Activate order entry deadline combinations
 ms:assetid: 302dc5c7-7f4b-4f6b-9adf-da7a6550d3fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231028(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231028(v=AX.60)
 ms:contentKeyID: 36056306
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

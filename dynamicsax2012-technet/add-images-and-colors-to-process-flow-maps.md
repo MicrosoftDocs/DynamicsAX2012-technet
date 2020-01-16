@@ -2,8 +2,9 @@
 title: Add images and colors to process flow maps
 TOCTitle: Add images and colors to process flow maps
 ms:assetid: c46c0067-989f-491b-b443-021e8aa037b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597237(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597237(v=AX.60)
 ms:contentKeyID: 39519311
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: About WIP invoice on-account accounts
 TOCTitle: About WIP invoice on-account accounts
 ms:assetid: 79df0853-2ff2-476a-815c-49a7e3ed4aa1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550063(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550063(v=AX.60)
 ms:contentKeyID: 42517328
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,9 +74,9 @@ Before you can create a WIP on-account invoice, you must select ledger accounts 
 
 [Create and post invoice proposals](create-and-post-invoice-proposals.md)
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
-[On-account transactions (form)](https://technet.microsoft.com/en-us/library/aa557380\(v=ax.60\))
+[On-account transactions (form)](https://technet.microsoft.com/library/aa557380\(v=ax.60\))
 
   
 

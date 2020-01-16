@@ -2,8 +2,9 @@
 title: About subscription groups
 TOCTitle: About subscription groups
 ms:assetid: 51ef3188-c876-4b49-8308-7b509e421398
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548917(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548917(v=AX.60)
 ms:contentKeyID: 36057279
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ You can also complete the following tasks for all subscriptions that are attache
 
 ## See also
 
-[Subscription groups (form)](https://technet.microsoft.com/en-us/library/aa553150\(v=ax.60\))
+[Subscription groups (form)](https://technet.microsoft.com/library/aa553150\(v=ax.60\))
 
 [Set up subscription groups](set-up-subscription-groups.md)
 

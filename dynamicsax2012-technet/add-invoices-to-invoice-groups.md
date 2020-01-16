@@ -2,8 +2,9 @@
 title: Add invoices to invoice groups
 TOCTitle: Add invoices to invoice groups
 ms:assetid: bd9b8868-b6e0-4792-b7f1-134c3eda27c4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242778(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242778(v=AX.60)
 ms:contentKeyID: 36059157
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,9 +53,9 @@ You can add invoices to an invoice group so that you can find and update invoice
 
 ## See also
 
-[Accounts payable parameters (form)](https://technet.microsoft.com/en-us/library/aa596348\(v=ax.60\))
+[Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\))
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
   
 

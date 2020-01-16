@@ -2,8 +2,9 @@
 title: Additional country/region-specific information
 TOCTitle: Additional country/region-specific information
 ms:assetid: 076bfa52-2f2d-4633-b1d9-8aae375f73a9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730942(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730942(v=AX.60)
 ms:contentKeyID: 49675063
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

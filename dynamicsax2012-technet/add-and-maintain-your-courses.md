@@ -2,8 +2,9 @@
 title: Add and maintain your courses
 TOCTitle: Add and maintain your courses
 ms:assetid: c38f0348-b43c-4ccc-b6f4-dd80d3781b3a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271643(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271643(v=AX.60)
 ms:contentKeyID: 36384275
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

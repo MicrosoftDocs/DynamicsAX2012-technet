@@ -2,8 +2,9 @@
 title: About WIP sales value accounts
 TOCTitle: About WIP sales value accounts
 ms:assetid: 299a79c8-06ce-45bb-b1b1-372cd3583825
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496852(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496852(v=AX.60)
 ms:contentKeyID: 36056222
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -129,9 +130,9 @@ For fixed-price projects, in the **Project groups** form, on the **Estimate** Fa
 
 [About work in process (WIP) calculation](about-work-in-process-wip-calculation.md)
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
-[Line properties (form)](https://technet.microsoft.com/en-us/library/aa590082\(v=ax.60\))
+[Line properties (form)](https://technet.microsoft.com/library/aa590082\(v=ax.60\))
 
   
 

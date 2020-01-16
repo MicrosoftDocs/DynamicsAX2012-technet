@@ -2,8 +2,9 @@
 title: About setting up retail products
 TOCTitle: About setting up retail products
 ms:assetid: 997d514e-c9a7-4eb0-b522-bca615eb6965
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597185(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597185(v=AX.60)
 ms:contentKeyID: 39519250
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

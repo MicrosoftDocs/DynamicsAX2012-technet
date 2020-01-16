@@ -2,8 +2,9 @@
 title: ADA configuration key (HRMADA)
 TOCTitle: ADA configuration key (HRMADA)
 ms:assetid: d8fd5b6e-ed47-44e4-8bb0-70fa907b973a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416697(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416697(v=AX.60)
 ms:contentKeyID: 36931858
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -37,15 +38,15 @@ Human resources forms
 <tbody>
 <tr class="odd">
 <td><p><strong>Accommodation types</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208677(v=ax.60)">Accommodation types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208677(v=ax.60)">Accommodation types (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Setup requirements</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh802992(v=ax.60)">ADA requirements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh802992(v=ax.60)">ADA requirements (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Accommodations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209584(v=ax.60)">Accommodations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209584(v=ax.60)">Accommodations (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +84,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

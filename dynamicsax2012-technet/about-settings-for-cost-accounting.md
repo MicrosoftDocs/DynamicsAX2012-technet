@@ -2,8 +2,9 @@
 title: About settings for cost accounting
 TOCTitle: About settings for cost accounting
 ms:assetid: eb9750a7-cecf-462c-843c-95e1bfd762b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551508(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551508(v=AX.60)
 ms:contentKeyID: 36059877
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

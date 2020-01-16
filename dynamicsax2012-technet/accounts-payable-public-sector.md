@@ -2,8 +2,9 @@
 title: Accounts payable (Public sector)
 TOCTitle: Accounts payable (Public sector)
 ms:assetid: 0a7bb441-31ae-4a72-b6f7-720af3e9d2cb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208502(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208502(v=AX.60)
 ms:contentKeyID: 36056240
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

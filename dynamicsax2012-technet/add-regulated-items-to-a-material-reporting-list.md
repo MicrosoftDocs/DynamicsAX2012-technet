@@ -2,8 +2,9 @@
 title: Add regulated items to a material reporting list
 TOCTitle: Add regulated items to a material reporting list
 ms:assetid: 83b51cce-a515-4b1c-9c8c-09409b91ef12
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352262(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352262(v=AX.60)
 ms:contentKeyID: 36687888
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,11 +54,11 @@ Use this information to add items to a material reporting list for a country and
 
 ## See also
 
-[Countries/regions that require item reporting (form)](https://technet.microsoft.com/en-us/library/hh328714\(v=ax.60\))
+[Countries/regions that require item reporting (form)](https://technet.microsoft.com/library/hh328714\(v=ax.60\))
 
-[Material reporting lists (form)](https://technet.microsoft.com/en-us/library/hh328691\(v=ax.60\))
+[Material reporting lists (form)](https://technet.microsoft.com/library/hh328691\(v=ax.60\))
 
-[Reported regulated products (form)](https://technet.microsoft.com/en-us/library/hh328717\(v=ax.60\))
+[Reported regulated products (form)](https://technet.microsoft.com/library/hh328717\(v=ax.60\))
 
   
 

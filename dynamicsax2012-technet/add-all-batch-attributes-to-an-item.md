@@ -2,8 +2,9 @@
 title: Add all batch attributes to an item
 TOCTitle: Add all batch attributes to an item
 ms:assetid: 852ba8e9-e7f4-4e85-bea7-4c09e4ab4e46
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209324(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209324(v=AX.60)
 ms:contentKeyID: 36058402
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ Use this procedure to add all batch attributes to an item.
 
 [About batch attributes](about-batch-attributes.md)
 
-[Product specific (form)](https://technet.microsoft.com/en-us/library/hh227369\(v=ax.60\))
+[Product specific (form)](https://technet.microsoft.com/library/hh227369\(v=ax.60\))
 
   
 

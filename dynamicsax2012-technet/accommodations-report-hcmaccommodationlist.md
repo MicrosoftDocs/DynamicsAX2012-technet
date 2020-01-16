@@ -2,8 +2,9 @@
 title: Accommodations report (HcmAccommodationList)
 TOCTitle: Accommodations report (HcmAccommodationList)
 ms:assetid: 53f39cd7-dd2b-41fc-852d-4b9dd1d266a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ841458(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ841458(v=AX.60)
 ms:contentKeyID: 50411097
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

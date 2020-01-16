@@ -2,8 +2,9 @@
 title: Activate a formula version
 TOCTitle: Activate a formula version
 ms:assetid: 79d67504-b62e-4d3c-be5e-f6860ae0d4a9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352213(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352213(v=AX.60)
 ms:contentKeyID: 36687848
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ Use this procedure to activate a formula version.
 
 [Deactivate a formula version](deactivate-a-formula-version.md)
 
-[Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
+[Formula (form)](https://technet.microsoft.com/library/hh328668\(v=ax.60\))
 
   
 

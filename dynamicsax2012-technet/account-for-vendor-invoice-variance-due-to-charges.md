@@ -2,8 +2,9 @@
 title: Account for vendor invoice variance due to charges
 TOCTitle: Account for vendor invoice variance due to charges
 ms:assetid: dc6d1f4a-14bb-4077-bcc5-102411f7069f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243192(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243192(v=AX.60)
 ms:contentKeyID: 36655949
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ You can add charges to the invoice header or the invoice lines by using the **Ch
 
 
 > [!NOTE]
-> <P>You can view expected and actual values for <STRONG>Customer/Vendor</STRONG> type charges codes in the <STRONG>Compare charges values - Invoice: %1</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh242731(v=ax.60)">Charges totals details/Compare charges values (form)</A>.</P>
+> <P>You can view expected and actual values for <STRONG>Customer/Vendor</STRONG> type charges codes in the <STRONG>Compare charges values - Invoice: %1</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/hh242731(v=ax.60)">Charges totals details/Compare charges values (form)</A>.</P>
 
 
 
@@ -103,15 +104,15 @@ For example, assume that a charge for freight was expected to be 20.00 and was a
 
 [Resolve net unit price invoice matching discrepancies](resolve-net-unit-price-invoice-matching-discrepancies.md)
 
-[Allocate charges (form)](https://technet.microsoft.com/en-us/library/hh697725\(v=ax.60\))
+[Allocate charges (form)](https://technet.microsoft.com/library/hh697725\(v=ax.60\))
 
-[Charges totals details/Compare charges values (form)](https://technet.microsoft.com/en-us/library/hh242731\(v=ax.60\))
+[Charges totals details/Compare charges values (form)](https://technet.microsoft.com/library/hh242731\(v=ax.60\))
 
-[Charges transactions (form)](https://technet.microsoft.com/en-us/library/aa633876\(v=ax.60\))
+[Charges transactions (form)](https://technet.microsoft.com/library/aa633876\(v=ax.60\))
 
-[Invoice matching details (form)](https://technet.microsoft.com/en-us/library/hh209713\(v=ax.60\))
+[Invoice matching details (form)](https://technet.microsoft.com/library/hh209713\(v=ax.60\))
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
   
 

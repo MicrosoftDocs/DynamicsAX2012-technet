@@ -2,8 +2,9 @@
 title: Add an address to a service order
 TOCTitle: Add an address to a service order
 ms:assetid: 58bfa7d0-020b-45e8-8a5d-3a37d97ea462
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549071(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549071(v=AX.60)
 ms:contentKeyID: 62629946
+author: Khairunj
 ms.date: 07/25/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ To add an address to a service order, follow these steps:
 
 4.  On the **Address** FastTab, click **Add address**.
 
-5.  In the **New address** form, enter a unique name for the address and complete the remaining fields. For more information about a specific field in the form, see [Manage addresses (form)](https://technet.microsoft.com/en-us/library/hh370713\(v=ax.60\)).
+5.  In the **New address** form, enter a unique name for the address and complete the remaining fields. For more information about a specific field in the form, see [Manage addresses (form)](https://technet.microsoft.com/library/hh370713\(v=ax.60\)).
     
 
     > [!WARNING]
@@ -59,7 +60,7 @@ To add an alternative address to a service order, follow these steps:
 
 ## See also
 
-[Service orders (form)](https://technet.microsoft.com/en-us/library/aa554361\(v=ax.60\))
+[Service orders (form)](https://technet.microsoft.com/library/aa554361\(v=ax.60\))
 
 [Select or enter a new address for a party record](select-or-enter-a-new-address-for-a-party-record.md)
 

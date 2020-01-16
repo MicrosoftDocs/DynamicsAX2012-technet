@@ -2,8 +2,9 @@
 title: Accounts payable clerk security role (VendInvoiceAccountsPayableClerk)
 TOCTitle: Accounts payable clerk security role (VendInvoiceAccountsPayableClerk)
 ms:assetid: 5a0d9bf5-1cb1-4a32-8bf6-e32ba1caedff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527093(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527093(v=AX.60)
 ms:contentKeyID: 37823145
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: About the structure of product groups
 TOCTitle: About the structure of product groups
 ms:assetid: d44c2759-7827-4962-8ada-1b0f590d77cc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551092(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551092(v=AX.60)
 ms:contentKeyID: 44081046
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,7 +64,7 @@ You can attach presentations to product groups and items by clicking a **Present
 
 [About product groups](about-product-groups.md)
 
-[Product groups (form)](https://technet.microsoft.com/en-us/library/aa572041\(v=ax.60\))
+[Product groups (form)](https://technet.microsoft.com/library/aa572041\(v=ax.60\))
 
   
 

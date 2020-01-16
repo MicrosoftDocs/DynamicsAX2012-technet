@@ -2,8 +2,9 @@
 title: Accounting manager investment analysis report (AccountingManagerInvestmentAnalysis)
 TOCTitle: Accounting manager investment analysis report (AccountingManagerInvestmentAnalysis)
 ms:assetid: 3799b414-7382-4cf5-9232-0d153d16d450
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692461(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692461(v=AX.60)
 ms:contentKeyID: 41702357
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

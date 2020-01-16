@@ -2,8 +2,9 @@
 title: Accountant short-term solvency report (AccountantShortTermSolvency)
 TOCTitle: Accountant short-term solvency report (AccountantShortTermSolvency)
 ms:assetid: c9626e5f-ddb0-4490-96fd-cdf6eaf64a50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692478(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692478(v=AX.60)
 ms:contentKeyID: 41702375
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

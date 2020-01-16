@@ -2,8 +2,9 @@
 title: Add invoices to payment groups
 TOCTitle: Add invoices to payment groups
 ms:assetid: a0c16724-de1f-4c19-b3ef-3de67463a3c3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209449(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209449(v=AX.60)
 ms:contentKeyID: 36058770
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,9 +59,9 @@ You can add invoices to payment groups to group invoices by a common code. If on
 
 [Key tasks: Vendor payments and settlements](key-tasks-vendor-payments-and-settlements.md)
 
-[Accounts payable parameters (form)](https://technet.microsoft.com/en-us/library/aa596348\(v=ax.60\))
+[Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\))
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
   
 

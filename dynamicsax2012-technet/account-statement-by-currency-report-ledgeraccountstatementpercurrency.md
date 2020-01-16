@@ -2,8 +2,9 @@
 title: Account statement by currency report (LedgerAccountStatementPerCurrency)
 TOCTitle: Account statement by currency report (LedgerAccountStatementPerCurrency)
 ms:assetid: 360cde09-5d57-4c8c-ba57-715167b01dc2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa553274(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa553274(v=AX.60)
 ms:contentKeyID: 36687351
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

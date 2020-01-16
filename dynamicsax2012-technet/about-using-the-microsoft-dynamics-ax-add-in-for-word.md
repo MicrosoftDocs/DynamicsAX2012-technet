@@ -2,8 +2,9 @@
 title: About using the Microsoft Dynamics AX Add-in for Word
 TOCTitle: About using the Microsoft Dynamics AX Add-in for Word
 ms:assetid: 474bd73c-0723-4775-a1a8-e41bd3e7cee6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh801191(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh801191(v=AX.60)
 ms:contentKeyID: 43976712
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

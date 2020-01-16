@@ -2,8 +2,9 @@
 title: Accounts receivable
 TOCTitle: Accounts receivable
 ms:assetid: cd119856-9c1d-4f2f-9674-3e545035f67f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242906(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242906(v=AX.60)
 ms:contentKeyID: 36059460
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -75,35 +76,35 @@ Use the **Settle open transactions** form to settle invoices with payments or cr
 <tr class="odd">
 <td><p><a href="key-tasks-free-text-invoices.md">Key tasks: Free text invoices</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa576993(v=ax.60)">Accounts receivable parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa576993(v=ax.60)">Accounts receivable parameters (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="free-text-invoice-report-freetextinvoice.md">Free text invoice report (FreeTextInvoice)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="key-tasks-customer-invoices.md">Key tasks: Customer invoices</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590606(v=ax.60)">Customers (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590606(v=ax.60)">Customers (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="customer-invoice-report-salesinvoice.md">Customer invoice report (SalesInvoice)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="key-tasks-collections.md">Key tasks: Collections</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa556897(v=ax.60)">Free text invoice (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa556897(v=ax.60)">Free text invoice (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="customer-invoice-transactions-report-custinvoice.md">Customer invoice transactions report (CustInvoice)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="calculate-interest-and-create-interest-notes.md">Calculate interest and create interest notes</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa556141(v=ax.60)">Journal voucher - Customer payment journal (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa556141(v=ax.60)">Journal voucher - Customer payment journal (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="customer-account-statement-report-custaccountstatementext.md">Customer account statement report (CustAccountStatementExt)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="create-collection-letters.md">Create collection letters</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209726(v=ax.60)">Collections (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209726(v=ax.60)">Collections (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="customer-aging-report-custagingreport.md">Customer aging report (CustAgingReport)</a></p></td>
 </tr>

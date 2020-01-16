@@ -2,8 +2,9 @@
 title: About travel and expense policies
 TOCTitle: About travel and expense policies
 ms:assetid: 7112699b-aacf-41c0-9d17-8b8c61c95a86
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231832(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231832(v=AX.60)
 ms:contentKeyID: 36058064
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
