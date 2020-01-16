@@ -32,7 +32,7 @@ The button grid retains information about its appearance on the register, such a
     
 
     > [!NOTE]
-    > <P>You can only use the Designer if you have been granted special permissions to the database. For more information, see this <A href="http://go.microsoft.com/fwlink/?linkid=267571">TechNet article</A>.</P>
+    > <P>You can only use the Designer if you have been granted special permissions to the database. For more information, see this <A href="https://go.microsoft.com/fwlink/?linkid=267571">TechNet article</A>.</P>
 
 
 

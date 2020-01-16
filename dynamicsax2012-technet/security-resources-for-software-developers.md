@@ -36,7 +36,7 @@ This topic provides links to programming best practices related to security and 
 
 [Security and .NET Business Connector Applications](https://technet.microsoft.com/library/bb986589\(v=ax.60\)) (https://msdn.microsoft.com/library/bb986589.aspx)
 
-[Using the MorphX Security System](https://technet.microsoft.com/library/aa887523\(v=ax.60\)) (http://msdn.microsoft.com/en-us/library/aa887523.aspx)
+[Using the MorphX Security System](https://technet.microsoft.com/library/aa887523\(v=ax.60\)) (https://msdn.microsoft.com/library/aa887523.aspx)
 
   
 

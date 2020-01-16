@@ -177,7 +177,7 @@ The following table lists the parameters that control the general behavior of Se
 <li><p>0 – Opt in to the Customer Experience Improvement Program.</p></li>
 <li><p>1 – Don’t opt in to the Customer Experience Improvement Program.</p></li>
 </ul>
-<p>For more information about the Customer Experience Improvement Program, see <a href="http://go.microsoft.com/fwlink/?linkid=221577">http://go.microsoft.com/fwlink/?LinkId=221577</a>.</p></td>
+<p>For more information about the Customer Experience Improvement Program, see <a href="https://go.microsoft.com/fwlink/?linkid=221577">https://go.microsoft.com/fwlink/?LinkId=221577</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><em>UseMicrosoftUpdate</em></p></td>

@@ -40,7 +40,7 @@ With the Microsoft Dynamics AX Production Floor app, you can quickly perform dai
 <p>Integrate this app with Microsoft Dynamics AX</p>
 <p>Set up this app on your device</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
-<p><a href="http://blogs.msdn.com/b/axcompapp/">Dynamics AX companion apps (blog)</a></p></td>
+<p><a href="https://blogs.msdn.com/b/axcompapp/">Dynamics AX companion apps (blog)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -75,7 +75,7 @@ With the Microsoft Dynamics AX Production Floor app, you can quickly perform dai
 
 ## Download this app
 
-Click [here](http://apps.microsoft.com/windows/en-us/app/cc07f817-e74c-48aa-86ad-1c0345fff989) to download this app from the Store.
+Click [here](https://apps.microsoft.com/windows/en-us/app/cc07f817-e74c-48aa-86ad-1c0345fff989) to download this app from the Store.
 
 ## Use this app in demo mode
 

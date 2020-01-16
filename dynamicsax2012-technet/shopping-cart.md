@@ -235,7 +235,7 @@ In the Storefront.sln solution, the Share.PointWeb.Storefront project contains s
 
 [Getting started with customizing the Retail online sample store](getting-started-with-customizing-the-retail-online-sample-store.md)
 
-[Creating WCF Services for ASP.NET AJAX](http://go.microsoft.com/fwlink/?linkid=396549&clcid=0x409)
+[Creating WCF Services for ASP.NET AJAX](https://go.microsoft.com/fwlink/?linkid=396549&clcid=0x409)
 
   
 

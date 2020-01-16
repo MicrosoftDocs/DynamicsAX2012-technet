@@ -182,9 +182,9 @@ The following table summarizes some of the key scenarios for all the service typ
 
 For more information, see the following white papers:
 
-  - [Services in Microsoft Dynamics AX 2012](http://www.microsoft.com/download/en/details.aspx?id=24742)
+  - [Services in Microsoft Dynamics AX 2012](https://www.microsoft.com/download/en/details.aspx?id=24742)
 
-  - [Consuming Web Services](http://www.microsoft.com/download/en/details.aspx?id=24742)
+  - [Consuming Web Services](https://www.microsoft.com/download/en/details.aspx?id=24742)
 
 ## See also
 

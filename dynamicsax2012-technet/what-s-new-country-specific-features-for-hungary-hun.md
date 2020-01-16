@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2012, we changed and added country-specific functionality for Hungary. For more information, see the tables that apply to your version of the product.
 
-For more information about specific features for Hungary, see [TechNet Library for Application Users - Hungary](http://go.microsoft.com/fwlink/?linkid=299912).
+For more information about specific features for Hungary, see [TechNet Library for Application Users - Hungary](https://go.microsoft.com/fwlink/?linkid=299912).
 
 ## What’s new in Microsoft Dynamics AX 2012 R2
 

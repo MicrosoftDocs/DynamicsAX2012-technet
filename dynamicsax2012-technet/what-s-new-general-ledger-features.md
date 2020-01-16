@@ -47,12 +47,12 @@ We have changed and added functionality in the [General ledger](general-ledger.m
 <tr class="even">
 <td><p>Shared exchange rates for the General ledger consolidation process</p></td>
 <td><p>You can define multiple exchange rates between two currencies, and select a currency rate type for each range of accounts and company accounts that is being consolidated.</p>
-<p>For more information, see the white paper titled <a href="http://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/shared_currencies_and_exchange_rates_ax2012.pdf">Shared Currencies and Exchange Rates for Microsoft Dynamics AX 2012</a>.</p></td>
+<p>For more information, see the white paper titled <a href="https://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/shared_currencies_and_exchange_rates_ax2012.pdf">Shared Currencies and Exchange Rates for Microsoft Dynamics AX 2012</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Reporting currency</p></td>
 <td><p>The reporting currency is the accounting currency amount multiplied by the exchange rate. The reporting currency must be calculated and revalued, even if the exchange rate for the accounting currency does not change.</p>
-<p>For more information, see the white paper <a href="http://download.microsoft.com/download/f/0/e/f0e719b8-aded-4157-b31b-d036f8308f1f/microsoft+dynamics+ax+shared+financial+data+management+white+paper.pdf">Shared financial data management for Microsoft Dynamics AX 2012</a>.</p></td>
+<p>For more information, see the white paper <a href="https://download.microsoft.com/download/f/0/e/f0e719b8-aded-4157-b31b-d036f8308f1f/microsoft+dynamics+ax+shared+financial+data+management+white+paper.pdf">Shared financial data management for Microsoft Dynamics AX 2012</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Enhancements to financial analysis cubes</p></td>
@@ -104,7 +104,7 @@ We have changed and added functionality in the [General ledger](general-ledger.m
 <tr class="even">
 <td><p>Simplified calendar options</p></td>
 <td><p>You can use the streamlined <strong>Fiscal calendars</strong> form to create multiple calendars in Accounts payable, Accounts receivable, General ledger, Project, and Inventory management. You can maintain all calendar types, even fixed asset calendars and fiscal year calendars, in one form. You can also define multiple closing periods for a specific date. This feature helps you better track and report on multiple audit adjustments.</p>
-<p>For more information, see the white paper <a href="http://download.microsoft.com/download/f/0/e/f0e719b8-aded-4157-b31b-d036f8308f1f/microsoft+dynamics+ax+shared+financial+data+management+white+paper.pdf">Shared financial data management for Microsoft Dynamics AX 2012</a>.</p></td>
+<p>For more information, see the white paper <a href="https://download.microsoft.com/download/f/0/e/f0e719b8-aded-4157-b31b-d036f8308f1f/microsoft+dynamics+ax+shared+financial+data+management+white+paper.pdf">Shared financial data management for Microsoft Dynamics AX 2012</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Enhancements to fiscal periods</p></td>
@@ -167,7 +167,7 @@ We have changed and added functionality in the [General ledger](general-ledger.m
 <tr class="even">
 <td><p>Fixed values for financial dimensions</p></td>
 <td><p>For each main account in a specific chart of accounts, you can designate a default financial dimension value as a fixed value for each company that uses the chart of accounts. If the default financial dimension value differs, or if the user manually changes the default financial dimension value for the main account to a fixed dimension value, the financial dimension is changed to the fixed value during posting.</p>
-<p>For more information, see the white paper <a href="http://download.microsoft.com/download/c/2/7/c27f2e17-e439-4eee-9630-0aae6eb44935/microsoft+dynamics+ax+2012+r2+shared+financial+data+management+white+paper.pdf">Microsoft Dynamics AX 2012 R2 Shared Financial Data Management‎</a>.</p></td>
+<p>For more information, see the white paper <a href="https://download.microsoft.com/download/c/2/7/c27f2e17-e439-4eee-9630-0aae6eb44935/microsoft+dynamics+ax+2012+r2+shared+financial+data+management+white+paper.pdf">Microsoft Dynamics AX 2012 R2 Shared Financial Data Management‎</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Expanded support for default descriptions</p></td>
@@ -230,7 +230,7 @@ We have changed and added functionality in the [General ledger](general-ledger.m
 <tr class="odd">
 <td><p>Shared lists of main accounts</p></td>
 <td><p>In AX 2012 R2, the same chart of accounts can be shared across legal entities. The list of main accounts in the chart of accounts can contain various account structures, and more than one account structure can be assigned to each legal entity's ledger.</p>
-<p>For more information, see the white paper <a href="http://go.microsoft.com/fwlink/?linkid=246258">Microsoft Dynamics AX Shared Financial Data Management</a>.</p></td>
+<p>For more information, see the white paper <a href="https://go.microsoft.com/fwlink/?linkid=246258">Microsoft Dynamics AX Shared Financial Data Management</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Updates to General ledger reports</p></td>

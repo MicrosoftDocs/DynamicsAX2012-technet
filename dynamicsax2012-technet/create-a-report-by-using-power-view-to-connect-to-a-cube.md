@@ -32,8 +32,8 @@ Power View is a tool that you can use to create highly-interactive, ad-hoc repor
 <p>4. Display the report on a Role Center page</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
 <p><a href="walkthrough-creating-an-analyze-data-button-on-a-list-page.md">Walkthrough: Creating an Analyze Data Button on a List Page</a> (article)</p>
-<p><a href="http://office.microsoft.com/en-us/excel-help/power-view-explore-visualize-and-present-your-data-ha102835634.aspx">Power View documentation</a> (articles)</p>
-<p><a href="http://blogs.msdn.com/b/dynamicsaxbi/archive/2012/12/11/better-together_2d00_microsoft-dynamics-ax-2012-r2-and-sql-server-power-view.aspx">Better together: Microsoft Dynamics AX 2012 R2 and SQL Server Power View</a> (blog post)</p></td>
+<p><a href="https://office.microsoft.com/excel-help/power-view-explore-visualize-and-present-your-data-ha102835634.aspx">Power View documentation</a> (articles)</p>
+<p><a href="https://blogs.msdn.com/b/dynamicsaxbi/archive/2012/12/11/better-together_2d00_microsoft-dynamics-ax-2012-r2-and-sql-server-power-view.aspx">Better together: Microsoft Dynamics AX 2012 R2 and SQL Server Power View</a> (blog post)</p></td>
 </tr>
 </tbody>
 </table>
@@ -222,7 +222,7 @@ After you determine which cube you want to use, you may need to create a data so
     
 
     > [!NOTE]
-    > <P>If Analysis Services and Enterprise Portal are installed on different computers, you must use Kerberos security. To configure Kerberos security, see <A href="http://www.microsoft.com/en-us/download/details.aspx?id=16080">this white paper.</A> After you have configured Kerberos security to work with the servers, complete the following steps:</P>
+    > <P>If Analysis Services and Enterprise Portal are installed on different computers, you must use Kerberos security. To configure Kerberos security, see <A href="https://www.microsoft.com/en-us/download/details.aspx?id=16080">this white paper.</A> After you have configured Kerberos security to work with the servers, complete the following steps:</P>
     > <OL>
     > <LI>
     > <P>In the <STRONG>Credentials</STRONG> area, select <STRONG>Stored credentials</STRONG>.</P>

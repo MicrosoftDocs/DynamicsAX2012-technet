@@ -46,11 +46,11 @@ In this version, Microsoft Dynamics AX provides full-text search, which lets you
 
 
 > [!NOTE]
-> <P>You must configure the functionality for SQL Server full-text search before you can use this functionality in Microsoft Dynamics AX. For more information, see <A href="http://go.microsoft.com/fwlink/?linkid=216841">Full-Text Search (SQL Server)</A>.</P>
+> <P>You must configure the functionality for SQL Server full-text search before you can use this functionality in Microsoft Dynamics AX. For more information, see <A href="https://go.microsoft.com/fwlink/?linkid=216841">Full-Text Search (SQL Server)</A>.</P>
 
 
 
-Like regular SQL Server indexes, full-text indexes can be updated automatically when data is modified in the associated tables. By default, this behavior is used for Microsoft Dynamics AX. In the Microsoft Dynamics AX Application Object Tree (AOT), developers can set the **ChangeTracking** property of a full-text index to either **Auto** or **Manual**. If **ChangeTracking** is set to **Auto**, SQL Server automatically updates the index when data is modified in the associated tables. If **ChangeTracking** is set to **Manual**, you must manually update the index at a specified interval. For more information, see [Getting Started with Full-Text Search](http://go.microsoft.com/fwlink/?linkid=216842). By default, the **ChangeTracking** property is set to **Auto** when a new full-text index is created. The **Auto** setting provides optimal response time and throughput for your program.
+Like regular SQL Server indexes, full-text indexes can be updated automatically when data is modified in the associated tables. By default, this behavior is used for Microsoft Dynamics AX. In the Microsoft Dynamics AX Application Object Tree (AOT), developers can set the **ChangeTracking** property of a full-text index to either **Auto** or **Manual**. If **ChangeTracking** is set to **Auto**, SQL Server automatically updates the index when data is modified in the associated tables. If **ChangeTracking** is set to **Manual**, you must manually update the index at a specified interval. For more information, see [Getting Started with Full-Text Search](https://go.microsoft.com/fwlink/?linkid=216842). By default, the **ChangeTracking** property is set to **Auto** when a new full-text index is created. The **Auto** setting provides optimal response time and throughput for your program.
 
 ## TempDB temporary tables
 
@@ -314,7 +314,7 @@ Table relations are defined in a new way in AX 2012.
 
 ## More information
 
-For more information about table relations, see the [EDT Relations Migration Tool](http://msdn.microsoft.com/library/da71a84d-1414-47ce-91d7-773f4a0d29bc\(ax.60\).aspx) topic on MSDN.
+For more information about table relations, see the [EDT Relations Migration Tool](https://msdn.microsoft.com/library/da71a84d-1414-47ce-91d7-773f4a0d29bc\(ax.60\).aspx) topic on MSDN.
 
 ## Inactive tables remain
 

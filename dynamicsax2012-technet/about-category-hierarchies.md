@@ -134,7 +134,7 @@ Refer to the following table to help you decide whether to use category hierarch
 <td><p>Commodity codes on purchase orders and sales orders</p></td>
 <td><p>X</p></td>
 <td><p>X</p></td>
-<td><p>For categories, you can enter commodity codes on purchase order lines and sales order lines. For products, the commodity codes on purchase order lines and sales order lines are taken from the item record. For more information, see <a href="http://blogs.msdn.com/b/axsupport/archive/2012/12/21/dynamics-ax-2012-a-common-misconception-about-commodity-codes.aspx">A common misconception about Commodity Codes</a>.</p></td>
+<td><p>For categories, you can enter commodity codes on purchase order lines and sales order lines. For products, the commodity codes on purchase order lines and sales order lines are taken from the item record. For more information, see <a href="https://blogs.msdn.com/b/axsupport/archive/2012/12/21/dynamics-ax-2012-a-common-misconception-about-commodity-codes.aspx">A common misconception about Commodity Codes</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Invoice matching policies for two-way and three-way matching</p></td>

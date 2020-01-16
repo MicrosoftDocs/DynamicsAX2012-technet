@@ -63,7 +63,7 @@ The following features have been added in cumulative update 6.
 
 In cumulative update 6, you can publish services to the Service Bus. The Service Bus adapter enables integration between AX 2012 and cloud computing platforms. You can develop mobile, cloud-based, and enterprise applications that communicate securely with AX 2012 over the Internet or through external networks by using the Service Bus adapter. The Service Bus acts as a message relay by enabling messages from the Internet to reach Microsoft Dynamics AX service endpoints on a private enterprise network and enabling responses from the private network to reach the intended client over the Internet.
 
-For information about how to configure AX 2012 to publish services by using the Service Bus adapter, see the blog post [Microsoft Dynamics AX Services and Windows Azure Service Bus](http://go.microsoft.com/fwlink/?linkid=306178%26clcid=0x409).
+For information about how to configure AX 2012 to publish services by using the Service Bus adapter, see the blog post [Microsoft Dynamics AX Services and Windows Azure Service Bus](https://go.microsoft.com/fwlink/?linkid=306178%26clcid=0x409).
 
 ## Support for creating mobile applications
 
@@ -600,7 +600,7 @@ AX 2012 supports the correlation of exceptions to messages and ports. In other w
 
 ## More information
 
-For more detailed information about services, see the white papers [Services in Microsoft Dynamics AX 2012](http://go.microsoft.com/fwlink/?linkid=213141) and [Consuming Web Services](http://go.microsoft.com/fwlink/?linkid=213142), and the topic [Services and Application Integration Framework (AIF)](services-and-application-integration-framework-aif.md).
+For more detailed information about services, see the white papers [Services in Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=213141) and [Consuming Web Services](https://go.microsoft.com/fwlink/?linkid=213142), and the topic [Services and Application Integration Framework (AIF)](services-and-application-integration-framework-aif.md).
 
 For more information about how to use the services programming model together with AX 2012, see [Selecting the Best Development Technology for Your Application Development Scenario (White paper)](selecting-the-best-development-technology-for-your-application-development-scenario-white-paper.md).
 

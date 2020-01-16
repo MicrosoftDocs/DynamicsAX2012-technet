@@ -115,14 +115,14 @@ The sales order request is an XML-based document. For this example, you use a sa
 1.  Copy the following XML code into an empty Notepad document.
     
         <?xml version="1.0" encoding="utf-8" ?>
-        <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+        <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
         <Header>
           <MessageId>{944EBD21-50ED-41BF-B779-2DC90F00F350}</MessageId>
-          <Action>http://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
+          <Action>https://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
         </Header>
           <Body>
             <MessageParts>
-              <SalesOrder xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/SalesOrder">
+              <SalesOrder xmlns="https://schemas.microsoft.com/dynamics/2008/01/documents/SalesOrder">
                 <SalesTable class="entity">
                   <CustAccount>100002</CustAccount>
                   <DeliveryDate>2011-10-11</DeliveryDate>

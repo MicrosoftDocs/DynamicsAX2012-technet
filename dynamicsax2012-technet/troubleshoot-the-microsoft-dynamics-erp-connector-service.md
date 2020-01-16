@@ -26,7 +26,7 @@ If the instance of Microsoft Dynamics AX Application Object Server (AOS) where t
 
 ## The Activate link in the Microsoft Dynamics ERP RapidStart Connector is not available
 
-The version of the Microsoft Dynamics ERP RapidStart Connector that you are using is out of date. Uninstall this version, and then download and install the current version from [Microsoft Dynamics ERP RapidStart Connector](http://go.microsoft.com/fwlink/?linkid=286818).
+The version of the Microsoft Dynamics ERP RapidStart Connector that you are using is out of date. Uninstall this version, and then download and install the current version from [Microsoft Dynamics ERP RapidStart Connector](https://go.microsoft.com/fwlink/?linkid=286818).
 
 Follow these steps to check the version number of the Microsoft Dynamics ERP RapidStart Connector that is installed on the same computer as your AOS instance.
 

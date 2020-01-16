@@ -26,7 +26,7 @@ Although elimination rules can be created in any legal entity, to use eliminatio
 
 > [!NOTE]
 > <P>We recommend that you use Management Reporter for Microsoft Dynamics ERP to combine the financial results for multiple legal entities in a consolidated format. Management Reporter lets you create consolidated financial reports across legal entities, use Microsoft Excel to import consolidation data from other sources, and translate amounts into any number of reporting currencies without having to run the consolidation process in Microsoft Dynamics AX.</P>
-> <P>For more information about how to consolidate transactions by using Management Reporter, see <A href="http://go.microsoft.com/fwlink/?linkid=389548">Financial consolidations and currency translation</A>.</P>
+> <P>For more information about how to consolidate transactions by using Management Reporter, see <A href="https://go.microsoft.com/fwlink/?linkid=389548">Financial consolidations and currency translation</A>.</P>
 
 
 

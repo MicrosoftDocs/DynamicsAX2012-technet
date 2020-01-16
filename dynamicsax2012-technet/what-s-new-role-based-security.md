@@ -243,7 +243,7 @@ To effectively use role-based security, you must plan and set up the roles that 
 
 For more detailed information about role-based security, see [Role-based security in Microsoft Dynamics AX](role-based-security-in-microsoft-dynamics-ax.md).
 
-For more information about Extensible Data Security (XDS), see the white paper [Developing Extensible Data Security Policies](http://go.microsoft.com/fwlink/?linkid=213139%26clcid=0x409).
+For more information about Extensible Data Security (XDS), see the white paper [Developing Extensible Data Security Policies](https://go.microsoft.com/fwlink/?linkid=213139%26clcid=0x409).
 
   
 

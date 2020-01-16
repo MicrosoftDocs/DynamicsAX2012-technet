@@ -148,7 +148,7 @@ Use the following steps to configure the ACS with the parameters that relate to 
     
     5.  Under **Input claim type**, select the **Select type** option, and then select the following URI:
         
-        http://schemas.microsoft.com/ws/2008/06/identity/claims/windowsaccountname
+        https://schemas.microsoft.com/ws/2008/06/identity/claims/windowsaccountname
         
         Do not change the values in the **Input claim value** section.
     

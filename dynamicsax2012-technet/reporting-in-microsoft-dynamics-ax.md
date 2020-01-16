@@ -34,7 +34,7 @@ This topic guides you through the process of installing, deploying, and using th
 <p>Troubleshoot</p>
 <p>View technical reference</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
-<p><a href="http://blogs.msdn.com/b/dynamicsaxbi/">Microsoft Dynamics AX Business Intelligence</a> (blog)</p>
+<p><a href="https://blogs.msdn.com/b/dynamicsaxbi/">Microsoft Dynamics AX Business Intelligence</a> (blog)</p>
 <p><a href="http://www.youtube.com/user/dynamicsaxbi">Microsoft Dynamics AX BI videos channel</a> (videos)</p>
 <p><a href="analytics-in-microsoft-dynamics-ax.md">Analytics in Microsoft Dynamics AX</a> (articles)</p></td>
 </tr>
@@ -132,7 +132,7 @@ Complete the tasks in the following table to integrate Microsoft Dynamics AX and
 <td><p>Install prerequisites</p></td>
 <td><p>On the computer where Reporting Services is installed, or where you plan to install Reporting Services, run the prerequisite validation utility to verify that system requirements have been met.</p></td>
 <td><p><a href="check-prerequisites.md">Check prerequisites</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=165377">System requirements</a></p></td>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=165377">System requirements</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Configure Reporting Services</p></td>

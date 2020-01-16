@@ -29,7 +29,7 @@ In Microsoft Dynamics AX, you can schedule worker resources based on the require
 
 > [!NOTE]
 > <P>For more information about how to schedule workers in projects in Microsoft Dynamics AX 2012 R2, see the white paper <A href="https://go.microsoft.com/fwlink/?linkid=268038%26clcid=0x409">Microsoft Dynamics AX 2012 R2 – Resource scheduling in Project management and accounting</A>.</P>
-> <P>For more information about how to schedule workers in projects in AX 2012 R3, see the white paper <A href="http://www.microsoft.com/en-us/download/details.aspx?id=43112">Worker resource scheduling in MIcrosoft Dynamics AX 2012 R3</A>.</P>
+> <P>For more information about how to schedule workers in projects in AX 2012 R3, see the white paper <A href="https://www.microsoft.com/en-us/download/details.aspx?id=43112">Worker resource scheduling in MIcrosoft Dynamics AX 2012 R3</A>.</P>
 
 
 

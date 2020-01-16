@@ -26,13 +26,13 @@ dev_langs:
 'Declaration
 <ServiceKnownTypeAttribute(GetType(Object()))> _
 <ServiceKnownTypeAttribute(GetType(ReadOnlyCollection(Of Object)))> _
-<FaultContractAttribute(GetType(TrackedFault), Action := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault",  _
+<FaultContractAttribute(GetType(TrackedFault), Action := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault",  _
     Name := "TrackedFault")> _
 <ServiceKnownTypeAttribute(GetType(ServiceResponse))> _
 <ServiceKnownTypeAttribute(GetType(TrackedFault))> _
 <ServiceKnownTypeAttribute(GetType(RequestInfo))> _
-<OperationContractAttribute(Action := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeGetMethodWithCriteria",  _
-    ReplyAction := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeGetMethodWithCriteriaResponse")> _
+<OperationContractAttribute(Action := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeGetMethodWithCriteria",  _
+    ReplyAction := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeGetMethodWithCriteriaResponse")> _
 <ServiceKnownTypeAttribute(GetType(Object()()))> _
 <ServiceKnownTypeAttribute(GetType(Exception))> _
 Function InvokeGetMethodWithCriteria ( _
@@ -56,13 +56,13 @@ returnValue = instance.InvokeGetMethodWithCriteria(requestInfo, _
 ``` csharp
 [ServiceKnownTypeAttribute(typeof(Object[]))]
 [ServiceKnownTypeAttribute(typeof(ReadOnlyCollection<Object>))]
-[FaultContractAttribute(typeof(TrackedFault), Action = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault", 
+[FaultContractAttribute(typeof(TrackedFault), Action = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault", 
     Name = "TrackedFault")]
 [ServiceKnownTypeAttribute(typeof(ServiceResponse))]
 [ServiceKnownTypeAttribute(typeof(TrackedFault))]
 [ServiceKnownTypeAttribute(typeof(RequestInfo))]
-[OperationContractAttribute(Action = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeGetMethodWithCriteria", 
-    ReplyAction = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeGetMethodWithCriteriaResponse")]
+[OperationContractAttribute(Action = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeGetMethodWithCriteria", 
+    ReplyAction = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeGetMethodWithCriteriaResponse")]
 [ServiceKnownTypeAttribute(typeof(Object[][]))]
 [ServiceKnownTypeAttribute(typeof(Exception))]
 ServiceResponse InvokeGetMethodWithCriteria(
@@ -76,13 +76,13 @@ ServiceResponse InvokeGetMethodWithCriteria(
 ``` c++
 [ServiceKnownTypeAttribute(typeof(array<Object^>))]
 [ServiceKnownTypeAttribute(typeof(ReadOnlyCollection<Object^>))]
-[FaultContractAttribute(typeof(TrackedFault), Action = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault", 
+[FaultContractAttribute(typeof(TrackedFault), Action = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault", 
     Name = L"TrackedFault")]
 [ServiceKnownTypeAttribute(typeof(ServiceResponse))]
 [ServiceKnownTypeAttribute(typeof(TrackedFault))]
 [ServiceKnownTypeAttribute(typeof(RequestInfo))]
-[OperationContractAttribute(Action = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeGetMethodWithCriteria", 
-    ReplyAction = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeGetMethodWithCriteriaResponse")]
+[OperationContractAttribute(Action = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeGetMethodWithCriteria", 
+    ReplyAction = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeGetMethodWithCriteriaResponse")]
 [ServiceKnownTypeAttribute(typeof(array<array<Object^>^>))]
 [ServiceKnownTypeAttribute(typeof(Exception))]
 ServiceResponse^ InvokeGetMethodWithCriteria(

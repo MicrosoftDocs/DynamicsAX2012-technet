@@ -95,7 +95,7 @@ The following table shows the prerequisites that must be in place before you sta
 <li><p>Microsoft SharePoint Server 2013</p></li>
 </ul>
 <p>If you want to specify a collaboration workspace home page in SharePoint Online, you must install the SharePoint Server 2013 Client Components SDK on the computer where you are running Microsoft Dynamics AX.</p>
-<p>Download the <a href="http://www.microsoft.com/en-us/download/details.aspx?id=35585">SharePoint Server 2013 Client Components SDK</a>.</p></td>
+<p>Download the <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35585">SharePoint Server 2013 Client Components SDK</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Related configuration tasks</p></td>

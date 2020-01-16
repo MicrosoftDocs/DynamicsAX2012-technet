@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-There are a number of tools and services that support Microsoft Dynamics AX 2012. You can find tools and services on Microsoft.comMicrosoft.com, [Microsoft Dynamics InformationSource](http://go.microsoft.com/fwlink/?linkid=228145), [Lifecycle Services](http://lcs.dynamics.com), [PartnerSource](http://go.microsoft.com/fwlink/?linkid=210926), and [CustomerSource](http://go.microsoft.com/fwlink/?linkid=210925). This topic provides an overview of the topics that support Microsoft Dynamics AX 2012.
+There are a number of tools and services that support Microsoft Dynamics AX 2012. You can find tools and services on Microsoft.comMicrosoft.com, [Microsoft Dynamics InformationSource](https://go.microsoft.com/fwlink/?linkid=228145), [Lifecycle Services](http://lcs.dynamics.com), [PartnerSource](https://go.microsoft.com/fwlink/?linkid=210926), and [CustomerSource](https://go.microsoft.com/fwlink/?linkid=210925). This topic provides an overview of the topics that support Microsoft Dynamics AX 2012.
 
 ## Tools and services for Microsoft Dynamics AX
 
@@ -105,13 +105,13 @@ There are a number of tools and services that support Microsoft Dynamics AX 2012
 <p>For more information, see:</p>
 <ul>
 <li><p><a href="what-s-new-management-reporter-for-microsoft-dynamics.md">What's new: Management Reporter for Microsoft Dynamics</a></p></li>
-<li><p><a href="http://download.microsoft.com/download/7/8/a/78a3710a-9d72-4908-b302-cd54b5130096/mruserguide_enus.pdf">Management Reporter User Guide</a></p></li>
-<li><p><a href="http://download.microsoft.com/download/7/8/a/78a3710a-9d72-4908-b302-cd54b5130096/mrfordynerpinstguide_enus.pdf">Microsoft Dynamics ® Management Reporter 2012 for Microsoft Dynamics ERP® Installation and Configuration Guide</a></p></li>
+<li><p><a href="https://download.microsoft.com/download/7/8/a/78a3710a-9d72-4908-b302-cd54b5130096/mruserguide_enus.pdf">Management Reporter User Guide</a></p></li>
+<li><p><a href="https://download.microsoft.com/download/7/8/a/78a3710a-9d72-4908-b302-cd54b5130096/mrfordynerpinstguide_enus.pdf">Microsoft Dynamics ® Management Reporter 2012 for Microsoft Dynamics ERP® Installation and Configuration Guide</a></p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>Microsoft Dynamics ERP RapidStart Services</p></td>
-<td><p>RapidStart Services is available from Microsoft Dynamics Lifecycle Services, or with help from a partner, on the <a href="http://go.microsoft.com/fwlink/p/?linkid=141031">Online services for Microsoft Dynamics ERP website</a>.</p></td>
+<td><p>RapidStart Services is available from Microsoft Dynamics Lifecycle Services, or with help from a partner, on the <a href="https://go.microsoft.com/fwlink/p/?linkid=141031">Online services for Microsoft Dynamics ERP website</a>.</p></td>
 <td><p>Microsoft Dynamics ERP RapidStart Services lets partners and customers configure an installation of Microsoft Dynamics AX 2012 by using a cloud-based, interview-style questionnaire. The questionnaire uses general terminology about business processes instead of terms that are specific to Microsoft Dynamics AX. Partners, independent software vendors (ISVs), and customers can create, maintain, and reuse configurations that reflect their custom solutions. Partners can also create additional groups of questions to enlarge the scope of a configuration.</p>
 <p>For more information, see <a href="microsoft-dynamics-erp-rapidstart-services.md">Microsoft Dynamics ERP RapidStart Services</a>.</p></td>
 </tr>

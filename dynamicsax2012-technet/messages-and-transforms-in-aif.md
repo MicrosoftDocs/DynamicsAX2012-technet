@@ -30,7 +30,7 @@ Each document service has a unique schema that describes the fields that can be 
 
 Asynchronous exchanges require XML messages to be contained by the AIF message envelope. The namespace for the message schema is:
 
-http://schemas.microsoft.com/dynamics/2011/01/documents/Message
+https://schemas.microsoft.com/dynamics/2011/01/documents/Message
 
 For more information about the format of XML messages in AIF, see [AIF Messages](https://go.microsoft.com/fwlink/?linkid=223878).
 
@@ -38,7 +38,7 @@ For more information about the format of XML messages in AIF, see [AIF Messages]
 
 AIF uses the message-set, or batch, schema to contain batched AIF messages in asynchronous exchanges. The namespace for the message-set schema is:
 
-http://schemas.microsoft.com/dynamics/2009/06/documents/Batch
+https://schemas.microsoft.com/dynamics/2009/06/documents/Batch
 
 For more information about batched messages, see [Processing batched messages in AIF](processing-batched-messages-in-aif.md).
 
@@ -46,21 +46,21 @@ For more information about batched messages, see [Processing batched messages in
 
 AIF uses entity key schemas to contain name-value pairs, such as those used to query for a particular item during a read operation or when sending a response to a create operation. The namespaces for entity keys and entity key lists are:
 
-http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey
+https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey
 
-http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList
+https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList
 
 ### Shared types schema
 
 AIF aggregates common property types in the shared-types schema. The namespace for the shared-types schema is:
 
-http://schemas.microsoft.com/dynamics/2008/01/sharedtypes
+https://schemas.microsoft.com/dynamics/2008/01/sharedtypes
 
 ### Fault schema
 
 AIF uses the fault schema to contain response messages about error conditions. The namespace for the fault schema is:
 
-http://schemas.microsoft.com/dynamics/2008/01/documents/Fault
+https://schemas.microsoft.com/dynamics/2008/01/documents/Fault
 
 ## Schema locations
 

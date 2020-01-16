@@ -30,7 +30,7 @@ In the July 2014 release of IDMF, the following features were changed:
 
 5.  The ByFiscalYear template is configurable, and has been hidden by default because it should only be run intentionally, after testing in a non-production environment. It removes financial transactions from the production database.
 
-[Go to the services download page](http://go.microsoft.com/fwlink/?linkid=228149)
+[Go to the services download page](https://go.microsoft.com/fwlink/?linkid=228149)
 
 Read the documentation [Microsoft Dynamics AX Intelligent Data Management Framework (IDMF)](microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md)
 

@@ -34,9 +34,9 @@ The benchmark showcases that the end-of-day processing for 800,000 POS transacti
 
 We have published the following two papers about the Retail benchmark:
 
-  - [Retail benchmark for multiple retail workloads detailed results](http://go.microsoft.com/fwlink/?linkid=266254) This paper provides detailed results of the Retail benchmark testing, and can be downloaded from CustomerSource and PartnerSource.
+  - [Retail benchmark for multiple retail workloads detailed results](https://go.microsoft.com/fwlink/?linkid=266254) This paper provides detailed results of the Retail benchmark testing, and can be downloaded from CustomerSource and PartnerSource.
 
-  - [Retail benchmark summary results](http://go.microsoft.com/fwlink/?linkid=266255) This paper provides a summary of the Retail benchmark testing, and can be downloaded from CustomerSource and PartnerSource.
+  - [Retail benchmark summary results](https://go.microsoft.com/fwlink/?linkid=266255) This paper provides a summary of the Retail benchmark testing, and can be downloaded from CustomerSource and PartnerSource.
 
 For more information about Retail performance, see [Retail Performance for Microsoft Dynamics AX 2012](retail-performance-for-microsoft-dynamics-ax-2012.md).
 

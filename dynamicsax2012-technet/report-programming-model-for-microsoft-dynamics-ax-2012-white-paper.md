@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper describes the programming model that you can use to take advantage of the reporting framework for Microsoft Dynamics AX.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=230569).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=230569).
 
   
 

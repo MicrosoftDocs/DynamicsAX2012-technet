@@ -95,7 +95,7 @@ To obtain support for Azure, use the resources listed in the following table.
 <tr class="odd">
 <td><img src="images/Dn756358.Azure_Support_Billing(AX.60).png" title="Get assistance with billing-related questions" alt="Get assistance with billing-related questions" /></td>
 <td><p>Get assistance with billing-related questions</p></td>
-<td><p>Go to the <a href="http://azure.microsoft.com/en-us/support/understand-your-bill/">Understand your bill</a> page to get an overview of the Azure billing process, links to sample invoices, and information about how to download daily usage data for the current billing period.</p></td>
+<td><p>Go to the <a href="https://azure.microsoft.com/en-us/support/understand-your-bill/">Understand your bill</a> page to get an overview of the Azure billing process, links to sample invoices, and information about how to download daily usage data for the current billing period.</p></td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn756358.Azure_Doc_Community(AX.60).png" title="Ask the community" alt="Ask the community" /></td>

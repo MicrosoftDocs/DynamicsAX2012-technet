@@ -26,7 +26,7 @@ Microsoft Dynamics ERP partners, customers, and prospective customers can use Mi
 
 > [!IMPORTANT]
 > <P>In the March 2014 release of Microsoft Dynamics Lifecycle Services, support for creating and opening RapidStart Services projects for Microsoft Dynamics AX was added to the Lifecycle Services project page. You can use the online services for Microsoft Dynamics ERP website as described in the rest of this topic, or you can use Lifecycle Services instead.</P>
-> <P>To use Lifecycle Services, visit <A href="http://go.microsoft.com/fwlink/?linkid=306503">Microsoft Dynamics Lifecycle Services</A>.</P>
+> <P>To use Lifecycle Services, visit <A href="https://go.microsoft.com/fwlink/?linkid=306503">Microsoft Dynamics Lifecycle Services</A>.</P>
 
 
 
@@ -52,7 +52,7 @@ To start your 90-day evaluation of RapidStart Services:
 
 1.  Your Microsoft Dynamics Certified Partner enrolls you as a prospect by following the procedure in [Add a Customer administrator to a service in RapidStart Services](add-a-customer-administrator-to-a-service-in-rapidstart-services.md).
 
-2.  After you activate your account in Customer Portal at the online services [website](http://go.microsoft.com/fwlink/?linkid=141031), you use the procedure in [Add users and assign roles in RapidStart Services](add-users-and-assign-roles-in-rapidstart-services.md) to start to use RapidStart Services.
+2.  After you activate your account in Customer Portal at the online services [website](https://go.microsoft.com/fwlink/?linkid=141031), you use the procedure in [Add users and assign roles in RapidStart Services](add-users-and-assign-roles-in-rapidstart-services.md) to start to use RapidStart Services.
 
 ## See also
 

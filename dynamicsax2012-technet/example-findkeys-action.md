@@ -28,19 +28,19 @@ There are no XML tags that are specific to this inbound message. However, the va
 
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
-<Envelope xmlns = "http://schemas.microsoft.com/
+<Envelope xmlns = "https://schemas.microsoft.com/
   dynamics/2011/01/documents/Message">
 
  <Header>
   <MessageId>{B4BD0E9F-0312-0630-0002-47B753E77C2D}</MessageId>
-  <Action>http://schemas.microsoft.com/dynamics/
+  <Action>https://schemas.microsoft.com/dynamics/
     2008/01/services/CustomerService/findkeys</Action>
  </Header>
 
  <Body>
-  <MessageParts xmlns = "http://schemas.microsoft.com/
+  <MessageParts xmlns = "https://schemas.microsoft.com/
     dynamics/2008/01/documents/Message">
-   <QueryCriteria xmlns = "http://schemas.microsoft.com/
+   <QueryCriteria xmlns = "https://schemas.microsoft.com/
      dynamics/2006/02/documents/QueryCriteria">
 
     <CriteriaElement>
@@ -66,16 +66,16 @@ The following outbound message is generated from the previous inbound message.
 
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
-<Envelope xmlns = "http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+<Envelope xmlns = "https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
  <Header>
   <MessageId>{5116528D-C4E1-4483-81A5-7C2976E4E935}</MessageId>
-  <Action>http://schemas.microsoft.com/dynamics/2008/01/services/CustomerService/findkeys</Action>
+  <Action>https://schemas.microsoft.com/dynamics/2008/01/services/CustomerService/findkeys</Action>
   <RequestMessageId>{B4BD0E9F-0312-0630-0002-47B753E77C2D}</RequestMessageId>
  </Header>
  <Body>
-  <MessageParts xmlns = "http://schemas.microsoft.com/dynamics/2008/01/documents/Message">
-   <EntityKeyList xmlns = "http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList">
-    <EntityKey xmlns = "http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
+  <MessageParts xmlns = "https://schemas.microsoft.com/dynamics/2008/01/documents/Message">
+   <EntityKeyList xmlns = "https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList">
+    <EntityKey xmlns = "https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
      <KeyData>
       <KeyField>
        <Field>AccountNum</Field>
@@ -83,7 +83,7 @@ The following outbound message is generated from the previous inbound message.
       </KeyField>
      </KeyData>
     </EntityKey>
-    <EntityKey xmlns = "http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
+    <EntityKey xmlns = "https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
      <KeyData>
       <KeyField>
        <Field>AccountNum</Field>
@@ -91,7 +91,7 @@ The following outbound message is generated from the previous inbound message.
       </KeyField>
      </KeyData>
     </EntityKey>
-    <EntityKey xmlns = "http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
+    <EntityKey xmlns = "https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
      <KeyData>
       <KeyField>
        <Field>AccountNum</Field>
@@ -99,7 +99,7 @@ The following outbound message is generated from the previous inbound message.
       </KeyField>
      </KeyData>
     </EntityKey>
-    <EntityKey xmlns = "http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
+    <EntityKey xmlns = "https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
      <KeyData>
       <KeyField>
        <Field>AccountNum</Field>
@@ -107,7 +107,7 @@ The following outbound message is generated from the previous inbound message.
       </KeyField>
      </KeyData>
     </EntityKey>
-    <EntityKey xmlns = "http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
+    <EntityKey xmlns = "https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
      <KeyData>
       <KeyField>
        <Field>AccountNum</Field>
@@ -115,7 +115,7 @@ The following outbound message is generated from the previous inbound message.
       </KeyField>
      </KeyData>
     </EntityKey>
-    <EntityKey xmlns = "http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
+    <EntityKey xmlns = "https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
      <KeyData>
       <KeyField>
        <Field>AccountNum</Field>

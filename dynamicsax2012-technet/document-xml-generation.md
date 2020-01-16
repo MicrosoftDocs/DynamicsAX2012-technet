@@ -30,15 +30,15 @@ When the customer document is serialized into XML, it resembles the following XM
 
 ``` 
   <?xml version="1.0" encoding="UTF-8" ?> 
-- <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+- <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
 - <Header>
    <MessageId>{93FE7B5F-99E6-45D6-BAA5-654699EFF0EA}</MessageId> 
-   <Action>http://schemas.microsoft.com/dynamics/2008/01/services/CustomerService/read</Action> 
+   <Action>https://schemas.microsoft.com/dynamics/2008/01/services/CustomerService/read</Action> 
    <RequestMessageId>{E983D78F-0011-47B7-8716-F8B64D120EF6}</RequestMessageId> 
   </Header>
 - <Body>
-  - <MessageParts xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
-  - <Customer xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/Customer">
+  - <MessageParts xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+  - <Customer xmlns="https://schemas.microsoft.com/dynamics/2008/01/documents/Customer">
       <DocPurpose>Original</DocPurpose> 
       <SenderId>DMO</SenderId> 
       <ValidAsOfDateTime>2012-04-19T19:42:40Z</ValidAsOfDateTime> 

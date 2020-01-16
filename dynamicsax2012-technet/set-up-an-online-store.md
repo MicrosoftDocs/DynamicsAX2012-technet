@@ -50,7 +50,7 @@ You create an online store in Microsoft Dynamics AX and then publish it to a Sha
 
   - In AX 2012 R3, set up a channel database profile instead of a distribution location. The channel database profile sets up the links between the online store in Microsoft Dynamics AX and the database that you use to publish the online store. For more information about how to set up a channel database profile, see [Set up a channel database profile](set-up-a-channel-database-profile.md).
 
-  - Configure the appropriate publishing and product catalog site collections for the SharePoint site. For information about how to configure the site collections for a SharePoint site, see [Deploy a Microsoft Dynamics AX online store](http://go.microsoft.com/fwlink/?linkid=263679).
+  - Configure the appropriate publishing and product catalog site collections for the SharePoint site. For information about how to configure the site collections for a SharePoint site, see [Deploy a Microsoft Dynamics AX online store](https://go.microsoft.com/fwlink/?linkid=263679).
 
 ## Create an online store
 
@@ -210,7 +210,7 @@ To configure an online store in AX 2012 R2 and AX 2012 Feature Pack, follow thes
     
     4.  Click **Map attributes**. In the **Map attributes** form, for each category in the online store, select the options that indicate how the attributes for each category or channel product should behave in the online store on the SharePoint site. For example, you can select whether attributes are required, whether they can be used for search, and whether they can be used as a filter in the navigation pane in the online store.
         
-        For more information about how to map attributes, see [Manage the search schema in SharePoint 2013 Preview](http://go.microsoft.com/fwlink/?linkid=265297).
+        For more information about how to map attributes, see [Manage the search schema in SharePoint 2013 Preview](https://go.microsoft.com/fwlink/?linkid=265297).
     
     5.  Click **Modes of delivery** to select the delivery methods that are offered by the online store.
     
@@ -246,7 +246,7 @@ To configure an online store in AX 2012 R3, follow these steps:
         
         To map product attributes to attribute metadata, in the **Channel product attributes** form, on the **Setup** tab, click **Set attribute metadata**.
         
-        For more information about how to map attributes, see [Manage the search schema in SharePoint 2013 Preview](http://go.microsoft.com/fwlink/?linkid=265297). For more information about maintaining product attributes for a retail channel, see [Add and update product attributes for retail channels](add-and-update-product-attributes-for-retail-channels.md).
+        For more information about how to map attributes, see [Manage the search schema in SharePoint 2013 Preview](https://go.microsoft.com/fwlink/?linkid=265297). For more information about maintaining product attributes for a retail channel, see [Add and update product attributes for retail channels](add-and-update-product-attributes-for-retail-channels.md).
     
     3.  Click **Sales order attributes** to add attributes that are specific to sales orders. Sales-order attributes are applied to sales orders that are generated from the online store. For example, you can add a sales order attribute for a gift box.
     

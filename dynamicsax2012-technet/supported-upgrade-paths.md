@@ -29,7 +29,7 @@ The following tables describe the supported methods for an upgrade to each targe
 
 
 > [!NOTE]
-> <P>We recommend that you install the newest service pack or cumulative update available for your existing system before beginning an upgrade. For Microsoft Dynamics AX 4.0, this would be SP2. For Microsoft Dynamics AX 2009, this would be SP1. Information about the latest cumulative updates and hotfixes is available on CustomerSource for <A href="http://go.microsoft.com/fwlink/?linkid=329036">Microsoft Dynamics AX 2012 R2</A> and for <A href="http://go.microsoft.com/fwlink/?linkid=232954">Microsoft Dynamics AX 2012 (covering also Microsoft Dynamics AX 2012 Feature Pack)</A>.</P>
+> <P>We recommend that you install the newest service pack or cumulative update available for your existing system before beginning an upgrade. For Microsoft Dynamics AX 4.0, this would be SP2. For Microsoft Dynamics AX 2009, this would be SP1. Information about the latest cumulative updates and hotfixes is available on CustomerSource for <A href="https://go.microsoft.com/fwlink/?linkid=329036">Microsoft Dynamics AX 2012 R2</A> and for <A href="https://go.microsoft.com/fwlink/?linkid=232954">Microsoft Dynamics AX 2012 (covering also Microsoft Dynamics AX 2012 Feature Pack)</A>.</P>
 
 
 

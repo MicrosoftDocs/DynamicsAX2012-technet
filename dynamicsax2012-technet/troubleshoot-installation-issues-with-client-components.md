@@ -18,7 +18,7 @@ This topic provides information that can help you troubleshoot issues that you m
 
 ## User not recognized error when you try to start the client
 
-If you are not a user in the system, the client returns the following error: “User not recognized.” An administrative user can add you to the system as a user, and then assign you to the appropriate security roles. The person who installed Microsoft Dynamics AX is the first administrative user. For more information, see the Microsoft Dynamics AX [Technical Library](http://go.microsoft.com/fwlink/?linkid=182420) on TechNet.
+If you are not a user in the system, the client returns the following error: “User not recognized.” An administrative user can add you to the system as a user, and then assign you to the appropriate security roles. The person who installed Microsoft Dynamics AX is the first administrative user. For more information, see the Microsoft Dynamics AX [Technical Library](https://go.microsoft.com/fwlink/?linkid=182420) on TechNet.
 
 ## Open the client configuration utility
 

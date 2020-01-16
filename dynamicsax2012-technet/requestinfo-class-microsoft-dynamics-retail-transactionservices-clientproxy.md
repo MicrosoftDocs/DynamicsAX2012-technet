@@ -24,7 +24,7 @@ dev_langs:
 
 ``` vb
 'Declaration
-<DataContractAttribute(Name := "RequestInfo", Namespace := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")> _
+<DataContractAttribute(Name := "RequestInfo", Namespace := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")> _
 Public Class RequestInfo _
     Implements IExtensibleDataObject
 'Usage
@@ -32,12 +32,12 @@ Dim instance As RequestInfo
 ```
 
 ``` csharp
-[DataContractAttribute(Name = "RequestInfo", Namespace = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")]
+[DataContractAttribute(Name = "RequestInfo", Namespace = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")]
 public class RequestInfo : IExtensibleDataObject
 ```
 
 ``` c++
-[DataContractAttribute(Name = L"RequestInfo", Namespace = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")]
+[DataContractAttribute(Name = L"RequestInfo", Namespace = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")]
 public ref class RequestInfo : IExtensibleDataObject
 ```
 

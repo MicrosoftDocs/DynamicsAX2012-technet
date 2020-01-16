@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Before users can be made Microsoft Dynamics AX users, they must be defined in Active Directory Domain Services (AD DS).
 
-AD DS is a Microsoft Windows–based directory service that catalogs information about all the objects on a network and distributes that information throughout the network. These objects include people, computers, and printers. Security is integrated with AD DS through logon authentication and access control. For more information about AD DS, see [Active Directory Overview](http://go.microsoft.com/fwlink/?linkid=47868).
+AD DS is a Microsoft Windows–based directory service that catalogs information about all the objects on a network and distributes that information throughout the network. These objects include people, computers, and printers. Security is integrated with AD DS through logon authentication and access control. For more information about AD DS, see [Active Directory Overview](https://go.microsoft.com/fwlink/?linkid=47868).
 
 Before you install or deploy Microsoft Dynamics AX, carefully plan the user topology of your AD DS directory service. The computers that run Microsoft Dynamics AX must have access to computers in the same domain on which AD DS runs in native mode.
 
@@ -24,9 +24,9 @@ For information about how to configure AD DS, see one of the following resources
 
   - [Deploy Active Directory Domain Services (AD DS) in Your Enterprise (Windows Server 2012)](http://technet.microsoft.com/en-us/library/hh472160.aspx)
 
-  - [Deployment guide for Active Directory Domain Services on Windows Server 2008](http://go.microsoft.com/fwlink/?linkid=164995)
+  - [Deployment guide for Active Directory Domain Services on Windows Server 2008](https://go.microsoft.com/fwlink/?linkid=164995)
 
-  - [Deployment guide for Active Directory Domain Services on Windows Server 2003](http://go.microsoft.com/fwlink/?linkid=164994)
+  - [Deployment guide for Active Directory Domain Services on Windows Server 2003](https://go.microsoft.com/fwlink/?linkid=164994)
 
 Existing structures in AD DS do not require modification to support Microsoft Dynamics AX users. If you have AD DS domains, and all the domains in the forest are set up to have two-way trust, Microsoft Dynamics AX recognizes all the users in the domains. Work with the system administrator to understand the existing structures in AD DS.
 

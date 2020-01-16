@@ -40,11 +40,11 @@ Before you begin, you should be familiar with the following concepts:
 
   - [AIF document services](aif-document-services.md) in Microsoft Dynamics AX.
 
-  - [C\# language](http://msdn.microsoft.com/en-us/library/kx37x362) in Visual Studio 2010.
+  - [C\# language](https://msdn.microsoft.com/library/kx37x362) in Visual Studio 2010.
 
 For a better understanding of the services framework used by Microsoft Dynamics AX, see:
 
-  - [Windows Communication Foundation](http://msdn.microsoft.com/en-us/library/dd456779) (WCF) services model.
+  - [Windows Communication Foundation](https://msdn.microsoft.com/library/dd456779) (WCF) services model.
 
 To complete this walkthrough, you need the following:
 

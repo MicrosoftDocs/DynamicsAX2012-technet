@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This topic provides information that can help you troubleshoot issues that you may encounter when you deploy Microsoft Dynamics AX reports.
 
-For more information about how to troubleshoot Microsoft SQL Server Reporting Services reports, see [Troubleshooting Report Problems](http://go.microsoft.com/fwlink/?linkid=200936%26clcid=0x409) in the SQL Server documentation.
+For more information about how to troubleshoot Microsoft SQL Server Reporting Services reports, see [Troubleshooting Report Problems](https://go.microsoft.com/fwlink/?linkid=200936%26clcid=0x409) in the SQL Server documentation.
 
 ## Why won’t my report deploy?
 
@@ -97,7 +97,7 @@ The most common reasons for permission errors are as follows:
     
     If you want to administer a report server instance locally, you must complete additional configuration steps to deploy Reporting Services on Windows Server 2008. Windows Server 2008 limits the overuse of elevated permissions by removing administrator permissions when users try to access applications. Because the operating system removes permissions, members of the local Administrators group run most applications as if they are using the Standard User account. Although this practice improves the overall security of a system, it prevents you from using the predefined, built-in role assignments that Reporting Services creates for local administrators.
     
-    For information about how to fix this issue, see [How to: Configure a Report Server for Local Administration on Windows Vista and Windows Server 2008 (UAC)](http://go.microsoft.com/fwlink/?linkid=200938).
+    For information about how to fix this issue, see [How to: Configure a Report Server for Local Administration on Windows Vista and Windows Server 2008 (UAC)](https://go.microsoft.com/fwlink/?linkid=200938).
 
 ## Why do I get a permission error when I try to access the Report Manager website?
 
@@ -121,7 +121,7 @@ By default, you cannot access the Report Manager website if UAC is enabled. To a
 
 When you deploy the report, you are running an application that is based on Windows Communication Foundation. The application uses the extendedProtectionPolicy type. The underlying .NET Framework 2.0 SP2 Network Client Library feature layer is not updated when the Windows Communication Foundation feature layer is updated to use the new type. The underlying .NET Framework 2.0 SP2 Network Client Library feature layer does not support this new type.
 
-For information about why this occurred, and to download the hotfix, see [Microsoft Support Article 2262911](http://go.microsoft.com/fwlink/?linkid=200940).
+For information about why this occurred, and to download the hotfix, see [Microsoft Support Article 2262911](https://go.microsoft.com/fwlink/?linkid=200940).
 
 ## Why do I receive a network path error when I try to deploy a report?
 

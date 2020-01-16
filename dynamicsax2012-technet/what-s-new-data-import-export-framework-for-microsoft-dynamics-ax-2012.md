@@ -70,7 +70,7 @@ This release includes the following features:
 
 Date: March 2013
 
-[Download the release from InformationSource](http://go.microsoft.com/fwlink/?linkid=255246)
+[Download the release from InformationSource](https://go.microsoft.com/fwlink/?linkid=255246)
 
 This release includes the following features:
 

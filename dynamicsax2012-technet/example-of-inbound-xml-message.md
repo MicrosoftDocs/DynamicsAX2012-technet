@@ -48,16 +48,16 @@ The message body contains the XML generated from the document schema. The follow
 
 ``` html
 <?xml version="1.0" encoding="utf-8" ?> 
-<Envelope xmlns = "http://schemas.microsoft.com/dynamics/2008/01/
+<Envelope xmlns = "https://schemas.microsoft.com/dynamics/2008/01/
     documents/Message">
     <Header>
         <MessageId>{5603D03A-4380-404D-9F27-738BE0FEA13E}</MessageId>
         <Action>http://tempuri.org/LedgerJournalService/create</Action>
     </Header>
     <Body>
-        <MessageParts xmlns = "http://schemas.microsoft.com/dynamics/2008/01/
+        <MessageParts xmlns = "https://schemas.microsoft.com/dynamics/2008/01/
         documents/Message">
-        <LedgerJournal xmlns = "http://schemas.microsoft.com/dynamics/2008/01/
+        <LedgerJournal xmlns = "https://schemas.microsoft.com/dynamics/2008/01/
         documents/LedgerJournal">
         <LedgerJournalTable class="entity">
             <CurrencyCode>USD</CurrencyCode>

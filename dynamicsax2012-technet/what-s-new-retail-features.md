@@ -233,7 +233,7 @@ This topic describes new and changed Retail features since the release of Micros
 </tr>
 <tr class="even">
 <td><p>Retail monitoring in System Center Operations Manager</p></td>
-<td><p>You can now monitor your Retail environment by using System Center Operations Manager. The System Center Management Pack for Retail in AX 2012 R3 provides a monitoring solution for Microsoft Dynamics AX Retail components. The management pack automatically discovers the Retail components in your environment, and monitors the configuration and availability of those components. The management pack provides early warnings that an operator can use to proactively identify issues that can affect the availability of the Retail system. For more information, see <a href="http://go.microsoft.com/fwlink/?linkid=393807%26clcid=0x409">System Center Management Pack for Microsoft Dynamics AX Retail 2012 R3</a>.</p></td>
+<td><p>You can now monitor your Retail environment by using System Center Operations Manager. The System Center Management Pack for Retail in AX 2012 R3 provides a monitoring solution for Microsoft Dynamics AX Retail components. The management pack automatically discovers the Retail components in your environment, and monitors the configuration and availability of those components. The management pack provides early warnings that an operator can use to proactively identify issues that can affect the availability of the Retail system. For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=393807%26clcid=0x409">System Center Management Pack for Microsoft Dynamics AX Retail 2012 R3</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -755,7 +755,7 @@ To migrate data from a third-party retail system, you must create entity mapping
 <tr class="even">
 <td><p>Manually enter a coupon code for discount offers</p></td>
 <td><p>This feature lets you manually enter a discount code for discount offers without having to create a campaign. Discount codes can be applied to both brick-and-mortar stores and online stores. If you create a discount code for a campaign and enter the discount code manually, the system does not use number sequences and bar codes to automatically generate the code. Instead, the system uses the manual code.</p>
-<p>For more information, see <a href="setting-up-price-adjustments-and-discounts.md">Setting up price adjustments and discounts</a>. Additionally, see the post <a href="http://blogs.msdn.com/b/axsupport/archive/2013/01/25/ax-2012-r2-for-retail-setting-up-discounts-coupons-with-bar-codes-for-scanning-into-pos.aspx">AX 2012 R2 for Retail - Setting up discount coupons with bar codes for scanning into POS</a> on the Microsoft Dynamics AX Support blog.</p></td>
+<p>For more information, see <a href="setting-up-price-adjustments-and-discounts.md">Setting up price adjustments and discounts</a>. Additionally, see the post <a href="https://blogs.msdn.com/b/axsupport/archive/2013/01/25/ax-2012-r2-for-retail-setting-up-discounts-coupons-with-bar-codes-for-scanning-into-pos.aspx">AX 2012 R2 for Retail - Setting up discount coupons with bar codes for scanning into POS</a> on the Microsoft Dynamics AX Support blog.</p></td>
 </tr>
 <tr class="odd">
 <td><p>An inquiry form was added, so that you can view transactions for online stores</p></td>
@@ -1059,7 +1059,7 @@ The Contoso starter online store accelerates implementation of an online channel
 
 [Online Store](online-store.md)
 
-[SharePoint 2013 documentation](http://go.microsoft.com/fwlink/?linkid=263772)
+[SharePoint 2013 documentation](https://go.microsoft.com/fwlink/?linkid=263772)
 
 [Retail essentials (Retail essentials)](retail-essentials-retail-essentials.md)
 

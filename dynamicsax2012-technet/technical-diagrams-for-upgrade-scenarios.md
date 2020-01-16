@@ -33,8 +33,8 @@ These technical diagrams represent recommended solutions for Microsoft Dynamics 
 <tr class="odd">
 <td><p><strong>Microsoft Dynamics AX 2012 R2: How to upgrade from an earlier release of AX 2012</strong></p>
 <p><img src="images/Dn133163.Upgradein-placeposter(thumbnail)(AX.60).png" title="Poster thumbnail" alt="Poster thumbnail" /></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=294621">Zoom in to the diagram at full detail by using Zoom.it from Microsoft</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=293672">Downloadable PDF and Visio files</a></p></td>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=294621">Zoom in to the diagram at full detail by using Zoom.it from Microsoft</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=293672">Downloadable PDF and Visio files</a></p></td>
 <td><p>This diagram illustrates the recommended procedure for “in-place” upgrade to Microsoft Dynamics AX 2012 R2 from either Microsoft Dynamics AX 2012 or Microsoft Dynamics AX 2012 Feature Pack. By performing most of the development and testing tasks on non-production computers, you minimize the effect of the upgrade on your production system. You work with a total of three Microsoft Dynamics AX installations: your production system, which is the basis for the other two installations, a test system, and a development system that is used to upgrade customized code. The systems are color-coded to emphasize where you are working at any given stage of the upgrade.</p></td>
 </tr>
 </tbody>

@@ -34,7 +34,7 @@ Some features of Retail use a Microsoft ActiveX control that requires direct acc
 
   - Payment types
 
-This topic assumes that you have installed Microsoft SQL Server Reporting Services on the Microsoft Dynamics AX database server, and that the SQL Server settings comply with Payment Card Industry (PCI) standards. For more information about PCI compliance, see [Implementation Guide for PCI Compliance](http://go.microsoft.com/fwlink/?linkid=237283).
+This topic assumes that you have installed Microsoft SQL Server Reporting Services on the Microsoft Dynamics AX database server, and that the SQL Server settings comply with Payment Card Industry (PCI) standards. For more information about PCI compliance, see [Implementation Guide for PCI Compliance](https://go.microsoft.com/fwlink/?linkid=237283).
 
 For each user of Microsoft Dynamics AX who should have access to these features, follow these steps in SQL Server Management Studio.
 

@@ -18,7 +18,7 @@ Microsoft Dynamics AX 2012 introduces a policy framework that allows users to de
 
 This document explains core concepts of the policy framework for developers and administrators, and provides examples of the business logic and implementation options available in the policy framework.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213137).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213137).
 
   
 

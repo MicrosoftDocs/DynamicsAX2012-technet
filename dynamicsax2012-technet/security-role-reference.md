@@ -18,7 +18,7 @@ The **Security role reference** contains topics that describe the security roles
 
 All users must be assigned to at least one security role to access Microsoft Dynamics AX. The security roles that are assigned to a user determine the duties, or actions, that the user can perform and the parts of the user interface that the user can view. For more information about the security model in Microsoft Dynamics AX 2012, see [Role-based security in Microsoft Dynamics AX](role-based-security-in-microsoft-dynamics-ax.md) and [Security architecture of the Microsoft Dynamics AX application](security-architecture-of-the-microsoft-dynamics-ax-application.md). For information about how to create a custom security role, see [Create or modify a security role](create-or-modify-a-security-role.md).
 
-Security roles help determine your licensing requirements for Microsoft Dynamics AX 2012. In addition, be aware that modifying security roles may change your licensing requirements. For more information about how licensing relates to security, see the [Security roles and licensing white paper](http://go.microsoft.com/fwlink/?linkid=228370) for Microsoft Dynamics AX 2012.
+Security roles help determine your licensing requirements for Microsoft Dynamics AX 2012. In addition, be aware that modifying security roles may change your licensing requirements. For more information about how licensing relates to security, see the [Security roles and licensing white paper](https://go.microsoft.com/fwlink/?linkid=228370) for Microsoft Dynamics AX 2012.
 
 The following topics describe the security roles:
 

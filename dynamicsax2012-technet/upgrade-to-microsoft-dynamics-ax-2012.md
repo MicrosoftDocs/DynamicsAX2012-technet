@@ -33,7 +33,7 @@ Be sure to review the following information before you upgrade to Microsoft Dyna
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=163797">Microsoft Dynamics AX 2012 Implementation Planning Guide</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=163797">Microsoft Dynamics AX 2012 Implementation Planning Guide</a></p></td>
 <td><p>Includes deployment information and guidance to help you simplify the experience of implementing Microsoft Dynamics AX 2012.</p></td>
 </tr>
 <tr class="even">
@@ -41,11 +41,11 @@ Be sure to review the following information before you upgrade to Microsoft Dyna
 <td><p>Lists changes to the upgrade process since earlier releases of Microsoft Dynamics AX.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=165377">Microsoft Dynamics AX 2012 System Requirements</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=165377">Microsoft Dynamics AX 2012 System Requirements</a></p></td>
 <td><p>Lists the Microsoft Dynamics AX 2012 system requirements.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=215590">Release notes</a></p>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=215590">Release notes</a></p>
 <div class="alert">
 
 > [!NOTE]
@@ -56,7 +56,7 @@ Be sure to review the following information before you upgrade to Microsoft Dyna
 <td><p>Lists late-breaking issues with the Microsoft Dynamics AX 2012 release.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=299893">Resource page for Upgrading to Microsoft Dynamics AX 2012</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=299893">Resource page for Upgrading to Microsoft Dynamics AX 2012</a></p></td>
 <td><p>Blog posts with news and other information about the upgrade process.</p></td>
 </tr>
 </tbody>
@@ -91,20 +91,20 @@ See the following upgrade resources for additional information.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=221465">Microsoft Dynamics AX 2012 Upgrade Guide</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=221465">Microsoft Dynamics AX 2012 Upgrade Guide</a></p></td>
 <td><p>Includes the downloadable version of the upgrade documentation on TechNet, so that you can more easily view and print the information.</p></td>
 </tr>
 <tr class="even">
 <td><p>UpgradePreprocessing.chm</p></td>
-<td><p>Provides complete documentation of the upgrade preprocessing parts of the Microsoft Dynamics AX 2012 upgrade process. This file is installed on the Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009 source system before the upgrade. The Microsoft Dynamics AX 2012 installation media provides this file in the <strong>DatabaseUpgrade</strong> folder. The procedural topics that are contained in this file make up part of the <a href="http://go.microsoft.com/fwlink/?linkid=221465">Microsoft Dynamics AX 2012 Upgrade Guide</a>.</p></td>
+<td><p>Provides complete documentation of the upgrade preprocessing parts of the Microsoft Dynamics AX 2012 upgrade process. This file is installed on the Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009 source system before the upgrade. The Microsoft Dynamics AX 2012 installation media provides this file in the <strong>DatabaseUpgrade</strong> folder. The procedural topics that are contained in this file make up part of the <a href="https://go.microsoft.com/fwlink/?linkid=221465">Microsoft Dynamics AX 2012 Upgrade Guide</a>.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://msdn.microsoft.com/en-us/library/30eee91e-6b1d-44ce-8cac-b6a6e89bc954(v=ax.60).aspx">Data Upgrade Scripts for Microsoft Dynamics AX 2012</a></p></td>
+<td><p><a href="https://msdn.microsoft.com/library/30eee91e-6b1d-44ce-8cac-b6a6e89bc954(v=ax.60).aspx">Data Upgrade Scripts for Microsoft Dynamics AX 2012</a></p></td>
 <td><p>Provides documentation for the data upgrade scripts in the Microsoft layers that are implemented in Microsoft Dynamics AX 2012, such as the SYS and GLS layers. This file is installed on the Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009 source system before the upgrade.</p>
 <p>The Help documentation for the data upgrade scripts is available on Microsoft’s MSDN website. You can click the link on the left. Or you can search MSDN for the phrase <strong>Data Upgrade Scripts for Microsoft Dynamics AX</strong>.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=212587">How to Write Data Upgrade Scripts for Microsoft Dynamics AX 2012</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=212587">How to Write Data Upgrade Scripts for Microsoft Dynamics AX 2012</a></p></td>
 <td><p>Describes how to create and run upgrade scripts.</p></td>
 </tr>
 </tbody>
@@ -128,11 +128,11 @@ Use the following resources after you have upgraded to Microsoft Dynamics AX 201
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=214390">System administrator Help on TechNet</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=214390">System administrator Help on TechNet</a></p></td>
 <td><p>Describes how to set up and administer Microsoft Dynamics AX.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=221478">Microsoft training</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=221478">Microsoft training</a></p></td>
 <td><p>Includes information about training that is available for your organization. This includes classroom training, online learning, onsite training, training materials, and training from your partner.</p></td>
 </tr>
 <tr class="odd">

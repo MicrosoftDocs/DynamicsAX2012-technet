@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper provides an overview of the common development patterns, programming models, and development tool changes in Microsoft Dynamics AX. It provides guidelines for selecting the best development technology for your business application development scenario.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213138).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213138).
 
   
 

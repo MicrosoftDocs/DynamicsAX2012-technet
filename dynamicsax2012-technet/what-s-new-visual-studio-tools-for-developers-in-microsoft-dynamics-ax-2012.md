@@ -105,7 +105,7 @@ New features have been added to the tools for modeling business application elem
 </ul></td>
 <td><p>Developing code that integrates with Microsoft Dynamics AX is now possible in Visual Studio. The full development and deployment scenario is supported for managed code.</p></td>
 <td><p><a href="https://technet.microsoft.com/library/gg889157(v=ax.60)">Visual Studio Development for Microsoft Dynamics AX</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=206389">Getting Started with Visual Studio</a></p></td>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=206389">Getting Started with Visual Studio</a></p></td>
 </tr>
 </tbody>
 </table>

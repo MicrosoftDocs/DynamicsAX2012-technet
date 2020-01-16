@@ -220,7 +220,7 @@ The following example code shows how to construct and configure a service client
 
 
 > [!NOTE]
-> <P>To use or modify the application configuration file in a C# project by using C# code to consume external web services, you should use the .NET Framework class ConfigurationChannelFactory. For more information, see <A href="http://msdn.microsoft.com/en-us/library/ee960149(v=vs.110).aspx">Configuration Channel Factory</A>.</P>
+> <P>To use or modify the application configuration file in a C# project by using C# code to consume external web services, you should use the .NET Framework class ConfigurationChannelFactory. For more information, see <A href="https://msdn.microsoft.com/library/ee960149(v=vs.110).aspx">Configuration Channel Factory</A>.</P>
 
 
 

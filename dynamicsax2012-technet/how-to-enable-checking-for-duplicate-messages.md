@@ -40,18 +40,18 @@ The response message that contains the error is sent back to the calling applica
 
 ``` xml
 <?xml version="1.0" encoding="utf-8" ?> 
-<Envelope xmlns="http://schemas.microsoft.com/dynamics/2008
+<Envelope xmlns="https://schemas.microsoft.com/dynamics/2008
     /01/documents/Message">
     <Header>
         <MessageId>{8F0DD3FE-D824-4DC9-87D5-D05152851346}</MessageId>
-        <Action>http://schemas.microsoft.com/dynamics/2008
+        <Action>https://schemas.microsoft.com/dynamics/2008
             /01/services/CustomerService/read</Action>
         <RequestMessageId>{76704405-5237-4934-83EC-7E1357F28B10}
             </RequestMessageId> 
     </Header>
     <Body>
-        <MessageParts xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/Message">
-            <Fault xmlns="http://schemas.microsoft.com/dynamics/2008/
+        <MessageParts xmlns="https://schemas.microsoft.com/dynamics/2008/01/documents/Message">
+            <Fault xmlns="https://schemas.microsoft.com/dynamics/2008/
                 01/documents/Fault">
                 <Code>DuplicateMessage</Code> 
                 <Reason>

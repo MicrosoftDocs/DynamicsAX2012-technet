@@ -133,7 +133,7 @@ The following table lists the improvements to specific installation scenarios.
 
 For more detailed information about installation, see [Install Microsoft Dynamics AX 2012](install-microsoft-dynamics-ax-2012.md).
 
-You can download a printable version of the [Installation Guide](http://go.microsoft.com/fwlink/?linkid=163796) from the Microsoft Download Center.
+You can download a printable version of the [Installation Guide](https://go.microsoft.com/fwlink/?linkid=163796) from the Microsoft Download Center.
 
   
 

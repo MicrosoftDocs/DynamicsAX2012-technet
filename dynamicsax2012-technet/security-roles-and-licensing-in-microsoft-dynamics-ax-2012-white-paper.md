@@ -18,13 +18,13 @@ This whitepaper lists the out-of-the-box security roles in Microsoft Dynamics AX
 
 Before you read this white paper, we strongly recommend that you read the following documents to understand how security roles and licensing are defined in Microsoft Dynamics AX:
 
-  - [Microsoft Dynamics AX 2012 licensing guide](http://go.microsoft.com/fwlink/?linkid=228374)
+  - [Microsoft Dynamics AX 2012 licensing guide](https://go.microsoft.com/fwlink/?linkid=228374)
 
-  - [Software License Terms](http://go.microsoft.com/fwlink/?linkid=228377)
+  - [Software License Terms](https://go.microsoft.com/fwlink/?linkid=228377)
 
   - [Role-based security in Microsoft Dynamics AX](role-based-security-in-microsoft-dynamics-ax.md)
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=228370)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=228370)
 
   
 

@@ -62,7 +62,7 @@ For more information about all the companion applications that are supported for
 
 ## Downloads
 
-This app is available in the [Windows App Store](http://apps.microsoft.com/windows/en-us/app/dynamics-ax-2012-approvals/50dc0fad-729f-41ce-8e26-c48e3007f067).
+This app is available in the [Windows App Store](https://apps.microsoft.com/windows/en-us/app/dynamics-ax-2012-approvals/50dc0fad-729f-41ce-8e26-c48e3007f067).
 
 ## White papers
 

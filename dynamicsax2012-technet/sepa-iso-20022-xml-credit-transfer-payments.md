@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This white paper describes the functionality in Microsoft Dynamics AX that supports the standard Single Euro Payments Area (SEPA) credit transfer (ISO 20022 XML) payment format. Additional local formats are available for Austria, Belgium, Finland, France, Germany, Italy, Spain, and The Netherlands.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=256554)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=256554)
 
 ## See also
 

@@ -18,7 +18,7 @@ Microsoft Dynamics AX has many sites, and searching for and locating documentati
 
 We have created a datasheet to help you browse our websites and in-product help, and to understand when to use each resource.
 
-[Download the datasheet](http://aka.ms/axcontentpdf)
+[Download the datasheet](https://aka.ms/axcontentpdf)
 
 The following are useful Microsoft Dynamics AX-related sites.
 
@@ -39,19 +39,19 @@ The following are useful Microsoft Dynamics AX-related sites.
 <td><p>Microsoft Dynamics AX site-specific filtered Bing search page.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://aka.ms/axsupportblog">AXSupport blog</a></p></td>
+<td><p><a href="https://aka.ms/axsupportblog">AXSupport blog</a></p></td>
 <td><p>Support tips and tricks. Updates to content on MSDN and TechNet are announced here.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://aka.ms/axmsdn">MSDN library</a></p></td>
+<td><p><a href="https://aka.ms/axmsdn">MSDN library</a></p></td>
 <td><p>Developer online documentation.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://aka.ms/axtechnet">TechNet library</a></p></td>
+<td><p><a href="https://aka.ms/axtechnet">TechNet library</a></p></td>
 <td><p>Application user and system administrator online documentation.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://aka.ms/axformhelplist">AX 2012 Form list</a></p></td>
+<td><p><a href="https://aka.ms/axformhelplist">AX 2012 Form list</a></p></td>
 <td><p>List of all AX 2012 R3 forms.</p></td>
 </tr>
 <tr class="even">
@@ -59,15 +59,15 @@ The following are useful Microsoft Dynamics AX-related sites.
 <td><p>Hosts blogs, forums, and videos.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://aka.ms/axresourcepageblog">Resource page blog</a></p></td>
+<td><p><a href="https://aka.ms/axresourcepageblog">Resource page blog</a></p></td>
 <td><p>Announces new resource pages that address common support areas.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://microsoft.com/dynamics/ax">Microsoft.com/Dynamics/AX</a></p></td>
+<td><p><a href="https://microsoft.com/dynamics/ax">Microsoft.com/Dynamics/AX</a></p></td>
 <td><p>Evaluation and sales site.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://aka.ms/axmarketplace">Microsoft Dynamics Marketplace</a></p></td>
+<td><p><a href="https://aka.ms/axmarketplace">Microsoft Dynamics Marketplace</a></p></td>
 <td><p>Find a partner.</p></td>
 </tr>
 <tr class="even">
@@ -83,7 +83,7 @@ The following are useful Microsoft Dynamics AX-related sites.
 <td><p>The InformationSource site has been retired. The content that was previously hosted there has been moved to <a href="https://mbs.microsoft.com/customersource/northamerica/ax/news-events/news/informationsource">CustomerSource</a>.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://aka.ms/axcontentstrategy">Inside Microsoft Dynamics AX blog</a></p></td>
+<td><p><a href="https://aka.ms/axcontentstrategy">Inside Microsoft Dynamics AX blog</a></p></td>
 <td><p>Blog about product strategy and direction.</p></td>
 </tr>
 <tr class="even">
@@ -91,7 +91,7 @@ The following are useful Microsoft Dynamics AX-related sites.
 <td><p>Follow us to hear announcements about content that we've released.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://www.microsoft.com/learning/en-us/default.aspx">Microsoft Learning</a></p></td>
+<td><p><a href="https://www.microsoft.com/learning/en-us/default.aspx">Microsoft Learning</a></p></td>
 <td><p>Provides extensive training resources, and ways to find classes in your area.</p></td>
 </tr>
 </tbody>

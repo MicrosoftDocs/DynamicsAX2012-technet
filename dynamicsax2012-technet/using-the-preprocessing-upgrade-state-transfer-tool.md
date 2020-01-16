@@ -36,9 +36,9 @@ Before you perform a state transfer, you must complete the following tasks on th
 
 ## Prepare the production system
 
-1.  On the production system, import the preprocessing XPO that is appropriate for the Microsoft Dynamics AX version that you are upgrading. For more information, see the [Microsoft Dynamics AX 2012 Upgrade Guide](http://go.microsoft.com/fwlink/?linkid=212541).
+1.  On the production system, import the preprocessing XPO that is appropriate for the Microsoft Dynamics AX version that you are upgrading. For more information, see the [Microsoft Dynamics AX 2012 Upgrade Guide](https://go.microsoft.com/fwlink/?linkid=212541).
 
-2.  On the production system, install the upgrade-related label file (.ald) files. Also install the upgrade-related Help files (.chm) files. For more information, see the [Microsoft Dynamics AX 2012 Upgrade Guide](http://go.microsoft.com/fwlink/?linkid=212541).
+2.  On the production system, install the upgrade-related label file (.ald) files. Also install the upgrade-related Help files (.chm) files. For more information, see the [Microsoft Dynamics AX 2012 Upgrade Guide](https://go.microsoft.com/fwlink/?linkid=212541).
 
 3.  On the **Preprocessing upgrade checklist**, complete the **Check upgrade readiness** task and resolve any validation errors. Enable triggers to track necessary data, based on prompts from the upgrade readiness checks. For more information about this step, see [Check upgrade readiness](check-upgrade-readiness.md).
 
@@ -64,7 +64,7 @@ The following steps produce a test source system that is configured identically 
 
 
 
-1.  Install the upgrade-related label files (.ald) files. Also install the upgrade-related Help (.chm) files. For more information, see the [Microsoft Dynamics AX 2012 Upgrade Guide](http://go.microsoft.com/fwlink/?linkid=212541).
+1.  Install the upgrade-related label files (.ald) files. Also install the upgrade-related Help (.chm) files. For more information, see the [Microsoft Dynamics AX 2012 Upgrade Guide](https://go.microsoft.com/fwlink/?linkid=212541).
 
 2.  Install the USR layer (.aod) file that you copied from the production system. Typically, this file is installed at C:\\Program Files (x86)\\Microsoft Dynamics AX\\40\\Application\\Appl\\Standard\\axusr.aod or C:\\Program Files\\Microsoft Dynamics AX\\50\\Application\\Appl\\DynamicsAX5\\axusr.aod.
 

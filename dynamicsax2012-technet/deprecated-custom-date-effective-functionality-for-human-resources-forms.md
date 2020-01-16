@@ -37,7 +37,7 @@ In Microsoft Dynamics AX 2009, Employee/contractor, Job, Position, and Departmen
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The feature is no longer available, and a replacement feature is available. All the records continue to be date-effective, but they use a new date-effective framework. In AX 2012, both the date elements and the time elements are exposed in the user interface.</p>
-<p>For more information, see the white paper <a href="http://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_and_updating_the_human_resources_framework_ax2012.pdf">Implementing and Updating the Human Resources Framework for Microsoft Dynamics AX 2012</a>.</p></td>
+<p>For more information, see the white paper <a href="https://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_and_updating_the_human_resources_framework_ax2012.pdf">Implementing and Updating the Human Resources Framework for Microsoft Dynamics AX 2012</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

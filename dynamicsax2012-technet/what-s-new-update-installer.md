@@ -52,7 +52,7 @@ We have revised the interface of the update installer (AXUpdate.exe) and Impact 
     
     Advanced mode offers many new features, including:
     
-      - Filtering available hotfixes based on module, country/region or configuration key, or business processes imported from [Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306503) (if your organization has a project with business processes configured in Lifecycle Services).
+      - Filtering available hotfixes based on module, country/region or configuration key, or business processes imported from [Lifecycle Services](https://go.microsoft.com/fwlink/?linkid=306503) (if your organization has a project with business processes configured in Lifecycle Services).
     
       - The ability to export a list of updates to a file, so that you can later use the file to speed up applying application updates to another computer.
 

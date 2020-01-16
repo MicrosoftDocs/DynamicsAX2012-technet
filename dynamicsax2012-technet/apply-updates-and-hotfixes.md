@@ -87,7 +87,7 @@ View or download a detailed poster of the update process.
 </table>
 
 
-It is important that day-to-day operation of your business be disrupted as little as possible when you install hotfixes. We recommend that you become familiar with the Microsoft Service Management Functions [Operations Framework Guide](http://www.microsoft.com/technet/solutionaccelerators/cits/mo/smf/default.mspx). The Operations Framework guide contains information about how to define processes, establish best practices, and manage IT solutions.
+It is important that day-to-day operation of your business be disrupted as little as possible when you install hotfixes. We recommend that you become familiar with the Microsoft Service Management Functions [Operations Framework Guide](https://www.microsoft.com/technet/solutionaccelerators/cits/mo/smf/default.mspx). The Operations Framework guide contains information about how to define processes, establish best practices, and manage IT solutions.
 
 ## Evaluate the update, and determine which types of hotfixes it contains
 
@@ -514,7 +514,7 @@ Depending on the version and solutions that you have installed, some or all of t
 
   - Solution version
 
-To determine the meaning of the version number that you are running, see the blog post [Overview of Microsoft Dynamics AX build numbers](http://blogs.msdn.com/b/axsupport/archive/2012/03/29/overview-of-ax-build-numbers.aspx).
+To determine the meaning of the version number that you are running, see the blog post [Overview of Microsoft Dynamics AX build numbers](https://blogs.msdn.com/b/axsupport/archive/2012/03/29/overview-of-ax-build-numbers.aspx).
 
 ## When should I use the Impact Analysis Wizard (AXImpactAnalysis)?
 

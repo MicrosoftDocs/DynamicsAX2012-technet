@@ -20,7 +20,7 @@ You can synchronize information between a Sites Services for Microsoft Dynamics 
 
 
 > [!IMPORTANT]
-> <P>To allow Microsoft Dynamics AX and Sites Services to synchronize data, you must enable change tracking for your database. For more information, see <A href="http://msdn.microsoft.com/en-us/library/bb964713.aspx">Configuring and Managing Change Tracking</A>.</P>
+> <P>To allow Microsoft Dynamics AX and Sites Services to synchronize data, you must enable change tracking for your database. For more information, see <A href="https://msdn.microsoft.com/library/bb964713.aspx">Configuring and Managing Change Tracking</A>.</P>
 
 
 

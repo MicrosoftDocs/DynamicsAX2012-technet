@@ -49,7 +49,7 @@ For information about how to configure logging for Real-time Service, see [Confi
 
 For the latest information about how to troubleshoot Real-time Service, see the following post on the AX Support Blog:
 
-[AX for Retail 2012 R2: Troubleshooting the Real-time Service](http://blogs.msdn.com/b/axsupport/archive/2012/12/31/ax-for-retail-2012-r2-troubleshooting-the-real-time-service.aspx)
+[AX for Retail 2012 R2: Troubleshooting the Real-time Service](https://blogs.msdn.com/b/axsupport/archive/2012/12/31/ax-for-retail-2012-r2-troubleshooting-the-real-time-service.aspx)
 
   
 

@@ -187,7 +187,7 @@ To deploy a customized Retail online store into a production environment, you mu
 <td><div class="alert">
 
 > [!WARNING]
-> <P>You must review and configure cookie behavior in SharePoint configuration files. If you do not configure these settings, your Retail online store might display sensitive user information to different users. For example, the default behavior for SharePoint is to use persistent session cookies. This enables a user to close the browser, re-open the browser, and re-visit a SharePoint web application without signing in again. For more information, see <A href="http://go.microsoft.com/fwlink/?linkid=320807">Federated Identity for SharePoint Applications</A>.</P>
+> <P>You must review and configure cookie behavior in SharePoint configuration files. If you do not configure these settings, your Retail online store might display sensitive user information to different users. For example, the default behavior for SharePoint is to use persistent session cookies. This enables a user to close the browser, re-open the browser, and re-visit a SharePoint web application without signing in again. For more information, see <A href="https://go.microsoft.com/fwlink/?linkid=320807">Federated Identity for SharePoint Applications</A>.</P>
 
 
 </div></td>

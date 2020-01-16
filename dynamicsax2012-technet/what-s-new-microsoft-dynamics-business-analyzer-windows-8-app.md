@@ -67,11 +67,11 @@ Microsoft Dynamics Business Analyzer for Windows 8 provides a dashboard where yo
 
 ## More information
 
-To download Business Analyzer from the Windows Store, see [Microsoft Dynamics Business Analyzer](http://apps.microsoft.com/windows/en-us/app/microsoft-dynamics-business/a68e5f35-e5c3-4bf8-8427-2bfdfa01fd72).
+To download Business Analyzer from the Windows Store, see [Microsoft Dynamics Business Analyzer](https://apps.microsoft.com/windows/en-us/app/microsoft-dynamics-business/a68e5f35-e5c3-4bf8-8427-2bfdfa01fd72).
 
 For more information about Business Analyzer, see [Microsoft Dynamics Business Analyzer](https://technet.microsoft.com/library/dn508393\(v=ax.60\)).
 
-To configure your Microsoft Dynamics AX environment to use Business Analyzer, see [Configure the Microsoft Dynamics AX environment for companion apps](http://go.microsoft.com/fwlink/?linkid=281929%26clcid=0x409).
+To configure your Microsoft Dynamics AX environment to use Business Analyzer, see [Configure the Microsoft Dynamics AX environment for companion apps](https://go.microsoft.com/fwlink/?linkid=281929%26clcid=0x409).
 
   
 

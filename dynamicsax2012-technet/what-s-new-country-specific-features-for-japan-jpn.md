@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012, we changed and added country-specific functionality for Japan. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Japanese installations, such as features that affect consolidated invoices, cash flow statements, bills of exchange, financial dimensions, and the global address book (GAB). The second section describes additional changes to country-specific functionality for Japan. For more information about specific features for Japan, see [TechNet Library for Application Users - Japan](http://go.microsoft.com/fwlink/?linkid=299914).
+In Microsoft Dynamics AX 2012, we changed and added country-specific functionality for Japan. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Japanese installations, such as features that affect consolidated invoices, cash flow statements, bills of exchange, financial dimensions, and the global address book (GAB). The second section describes additional changes to country-specific functionality for Japan. For more information about specific features for Japan, see [TechNet Library for Application Users - Japan](https://go.microsoft.com/fwlink/?linkid=299914).
 
 ## Key features for Japan in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3
 
@@ -344,7 +344,7 @@ For more information about additional country-specific features that we added fo
 <td><p>Financial dimension attributes for Japan</p></td>
 <td><p>You can define several financial dimension attributes, in addition to the department, cost center, and purpose, so that you can view and modify account and journal information.</p>
 <p>The debit and credit amounts can be entered as two lines in the T-account journal voucher.</p>
-<p>For more information, see <a href="jpn-set-up-a-t-account-journal-and-t-accounts.md">(JPN) Set up a T-account journal and T-accounts</a>. For more information about financial dimensions, see <a href="what-s-new-financial-dimensions-framework.md">What's new: Financial dimensions framework</a> and <a href="http://go.microsoft.com/fwlink/?linkid=213133%26clcid=0x409">Implementing the Account and Financial Dimensions Framework for Microsoft Dynamics AX 2012 Applications</a>.</p></td>
+<p>For more information, see <a href="jpn-set-up-a-t-account-journal-and-t-accounts.md">(JPN) Set up a T-account journal and T-accounts</a>. For more information about financial dimensions, see <a href="what-s-new-financial-dimensions-framework.md">What's new: Financial dimensions framework</a> and <a href="https://go.microsoft.com/fwlink/?linkid=213133%26clcid=0x409">Implementing the Account and Financial Dimensions Framework for Microsoft Dynamics AX 2012 Applications</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Generate financial statements in Excel for Japan.</p></td>

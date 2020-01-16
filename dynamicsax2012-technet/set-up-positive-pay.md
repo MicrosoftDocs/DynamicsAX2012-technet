@@ -50,7 +50,7 @@ Positive pay files can contain sensitive information about payees and check amou
 <tbody>
 <tr class="odd">
 <td><p>Unauthorized access to a folder and the data in the folder</p></td>
-<td><p>Restrict access to the folder where the positive pay files are saved when they are generated. We recommend that you create one folder for each positive pay format, and use an Access Control List (ACL) to specify the domain users who can access each folder. For more information, see <a href="http://msdn.microsoft.com/en-us/library/windows/desktop/aa374872.aspx" class="uri">http://msdn.microsoft.com/en-us/library/windows/desktop/aa374872.aspx</a>.</p></td>
+<td><p>Restrict access to the folder where the positive pay files are saved when they are generated. We recommend that you create one folder for each positive pay format, and use an Access Control List (ACL) to specify the domain users who can access each folder. For more information, see <a href="https://msdn.microsoft.com/library/windows/desktop/aa374872.aspx" class="uri">https://msdn.microsoft.com/library/windows/desktop/aa374872.aspx</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Data is sent to the folder through an unprotected network</p></td>
@@ -105,8 +105,8 @@ To set up an outbound port for positive pay files, follow these steps:
     <?xml version="1.0" encoding="utf-8"?>
     <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
         xmlns:msxsl="urn:schemas-microsoft-com:xslt" exclude-result-prefixes="msxsl s0 s1 xslthelper" xmlns="urn:iso:std:iso:20022:tech:xsd:pain.001.001.02"
-                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xslthelper="http://schemas.microsoft.com/BizTalk/2003/xslthelper"
-                    xmlns:s0="http://schemas.microsoft.com/dynamics/2008/01/sharedtypes" xmlns:s1="http://schemas.microsoft.com/dynamics/2008/01/documents/BankPositivePay"
+                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xslthelper="https://schemas.microsoft.com/BizTalk/2003/xslthelper"
+                    xmlns:s0="https://schemas.microsoft.com/dynamics/2008/01/sharedtypes" xmlns:s1="https://schemas.microsoft.com/dynamics/2008/01/documents/BankPositivePay"
                     >
     
       <xsl:template match="/">

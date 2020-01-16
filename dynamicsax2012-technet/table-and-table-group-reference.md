@@ -20,7 +20,7 @@ There are approximately 7,900 tables in Microsoft Dynamics AX 2012 R3, organized
 
 ## Spreadsheet of all tables and table groups
 
-A spreadsheet that lists all core Microsoft Dynamics AX data tables is available from the Download Center: [Microsoft Dynamics AX 2012 Tables and Table Groups](http://go.microsoft.com/fwlink/?linkid=213812).
+A spreadsheet that lists all core Microsoft Dynamics AX data tables is available from the Download Center: [Microsoft Dynamics AX 2012 Tables and Table Groups](https://go.microsoft.com/fwlink/?linkid=213812).
 
 The spreadsheet lists the following information for each table, includes a pivot table, as well as a list of all the tables that were removed from AX 2012 between the initial release and AX 2012 R3.
 

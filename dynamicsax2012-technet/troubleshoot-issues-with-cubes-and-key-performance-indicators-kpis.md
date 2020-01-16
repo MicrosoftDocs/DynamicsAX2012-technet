@@ -26,7 +26,7 @@ To resolve this issue, complete the following tasks:
 
   - Verify that a [supported version](http://www.microsoft.com/en-us/download/details.aspx?id=11094) of Microsoft SQL Server Analysis Services is installed and running.
 
-  - If you use Windows Firewall to help protect your computers, verify that the firewall is configured to allow access to Analysis Services. By default, Analysis Services uses port 2383, so you may need to exclude that port. For more information, see [Configure the Windows Firewall to Allow Analysis Services Access](http://msdn.microsoft.com/en-us/library/ms174937.aspx).
+  - If you use Windows Firewall to help protect your computers, verify that the firewall is configured to allow access to Analysis Services. By default, Analysis Services uses port 2383, so you may need to exclude that port. For more information, see [Configure the Windows Firewall to Allow Analysis Services Access](https://msdn.microsoft.com/library/ms174937.aspx).
 
 ## Users cannot add or modify KPIs
 

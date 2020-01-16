@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 This white paper describes how the role-based security artifacts work together. It explains to Microsoft Dynamics AX developers how the security artifacts should be configured when they are applied to various programming objects in the AOT. The challenges of under-permissioning, over-permissioning, and practical ease of use guide this discussion.
 
-[Download the white paper](http://go.microsoft.com/fwlink/p/?linkid=303934)
+[Download the white paper](https://go.microsoft.com/fwlink/p/?linkid=303934)
 
 ## See also
 

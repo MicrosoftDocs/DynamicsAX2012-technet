@@ -49,7 +49,7 @@ In Microsoft Dynamics AX 2009, we introduced integration with two payment servic
 </tr>
 <tr class="odd">
 <td><p>Changes to upgrade</p></td>
-<td><p>Customers can switch from Authorize.Net to Payment Services. After a customer obtains a Payment Services account, AX 2009 will continue to use Authorize.Net to process existing sales orders that use credit cards which have been authorized by Authorize.Net. However, all new orders will be processed by using Payment Services. For more information, see the whitepaper titled <a href="http://www.microsoft.com/en-us/download/confirmation.aspx?id=28157">Microsoft Dynamics AX 2009 Hotfix White Paper: Credit Card Processing</a>.</p></td>
+<td><p>Customers can switch from Authorize.Net to Payment Services. After a customer obtains a Payment Services account, AX 2009 will continue to use Authorize.Net to process existing sales orders that use credit cards which have been authorized by Authorize.Net. However, all new orders will be processed by using Payment Services. For more information, see the whitepaper titled <a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=28157">Microsoft Dynamics AX 2009 Hotfix White Paper: Credit Card Processing</a>.</p></td>
 </tr>
 </tbody>
 </table>

@@ -18,7 +18,7 @@ This topic provides information about Microsoft Services Premier Support and add
 
 ## Microsoft Services Premier Support
 
-A Microsoft Services Premier Support agreement provides features and components that you can use to support your implementation of Microsoft Dynamics AX. For more information, contact your value-added reseller (VAR), or visit the [Microsoft Services Premier Support page](http://www.microsoft.com/premiersupport).
+A Microsoft Services Premier Support agreement provides features and components that you can use to support your implementation of Microsoft Dynamics AX. For more information, contact your value-added reseller (VAR), or visit the [Microsoft Services Premier Support page](https://www.microsoft.com/premiersupport).
 
 ## Additional online information
 
@@ -50,11 +50,11 @@ The following table lists Microsoft websites that provide additional online reso
 </tr>
 <tr class="even">
 <td><p>CustomerSource</p></td>
-<td><p><a href="http://www.microsoft.com/dynamics/customersource.mspx" class="uri">http://www.microsoft.com/dynamics/customersource.mspx</a></p></td>
+<td><p><a href="https://www.microsoft.com/dynamics/customersource.mspx" class="uri">https://www.microsoft.com/dynamics/customersource.mspx</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>PartnerSource</p></td>
-<td><p><a href="http://www.microsoft.com/dynamics/partnersource.mspx" class="uri">http://www.microsoft.com/dynamics/partnersource.mspx</a></p></td>
+<td><p><a href="https://www.microsoft.com/dynamics/partnersource.mspx" class="uri">https://www.microsoft.com/dynamics/partnersource.mspx</a></p></td>
 </tr>
 </tbody>
 </table>

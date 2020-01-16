@@ -24,7 +24,7 @@ dev_langs:
 
 ``` vb
 'Declaration
-<ServiceContractAttribute(Namespace := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService",  _
+<ServiceContractAttribute(Namespace := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService",  _
     ConfigurationName := "Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.ITransactionService")> _
 Public Interface ITransactionService
 'Usage
@@ -32,13 +32,13 @@ Dim instance As ITransactionService
 ```
 
 ``` csharp
-[ServiceContractAttribute(Namespace = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService", 
+[ServiceContractAttribute(Namespace = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService", 
     ConfigurationName = "Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.ITransactionService")]
 public interface ITransactionService
 ```
 
 ``` c++
-[ServiceContractAttribute(Namespace = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService", 
+[ServiceContractAttribute(Namespace = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService", 
     ConfigurationName = L"Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.ITransactionService")]
 public interface class ITransactionService
 ```

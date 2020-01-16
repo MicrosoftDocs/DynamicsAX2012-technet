@@ -107,7 +107,7 @@ Create a Chart Control that displays general ledger profit by date.
 
 10. Verify that the **DataType** property is set to **MDXQuery**, to indicate that the data is coming from an Analysis Services cube.
 
-11. In the **CommandText** property, click the ellipsis button (...) to open the OLAP query builder where you can enter a Multidimensional Expression (MDX) query string to access analysis cube data. For information on MDX syntax, see [MDX Query Fundamentals](http://go.microsoft.com/fwlink/?linkid=247282).
+11. In the **CommandText** property, click the ellipsis button (...) to open the OLAP query builder where you can enter a Multidimensional Expression (MDX) query string to access analysis cube data. For information on MDX syntax, see [MDX Query Fundamentals](https://go.microsoft.com/fwlink/?linkid=247282).
 
 12. In this example, you will enter an MDX query that returns profit for the years 2008, 2009, and 2010. Change the query as needed based on your data. Enter the following MDX query:
     

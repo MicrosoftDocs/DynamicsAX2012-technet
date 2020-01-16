@@ -24,9 +24,9 @@ The following XML code example shows a \<Body\> tag section that contains a \<Fa
 
 ``` xml
 <Body>
- <MessageParts xmlns = "http://schemas.microsoft.com/
+ <MessageParts xmlns = "https://schemas.microsoft.com/
     dynamics/2008/01/documents/Message">
-  <Fault xmlns = "http://schemas.microsoft.com/dynamics/
+  <Fault xmlns = "https://schemas.microsoft.com/dynamics/
      2008/01/documents/Fault">
    <Code>RequestFailed</Code>
    <Reason>

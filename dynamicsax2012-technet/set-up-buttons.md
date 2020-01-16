@@ -20,7 +20,7 @@ You can customize various properties of individual buttons, such as the text, co
 
 
 > [!NOTE]
-> <P>You can only use the Designer for button grids if you have been granted special permissions to the database. For more information, see this <A href="http://go.microsoft.com/fwlink/?linkid=267571">TechNet article</A>.</P>
+> <P>You can only use the Designer for button grids if you have been granted special permissions to the database. For more information, see this <A href="https://go.microsoft.com/fwlink/?linkid=267571">TechNet article</A>.</P>
 
 
 

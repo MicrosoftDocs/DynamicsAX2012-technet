@@ -24,8 +24,8 @@ dev_langs:
 
 ``` vb
 'Declaration
-<OperationContractAttribute(Action := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeMethod",  _
-    ReplyAction := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeMethodResponse")> _
+<OperationContractAttribute(Action := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeMethod",  _
+    ReplyAction := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeMethodResponse")> _
 <ServiceKnownTypeAttribute(GetType(TrackedFault))> _
 <ServiceKnownTypeAttribute(GetType(RequestInfo))> _
 <ServiceKnownTypeAttribute(GetType(Object()))> _
@@ -33,7 +33,7 @@ dev_langs:
 <ServiceKnownTypeAttribute(GetType(Exception))> _
 <ServiceKnownTypeAttribute(GetType(ReadOnlyCollection(Of Object)))> _
 <ServiceKnownTypeAttribute(GetType(ServiceResponse))> _
-<FaultContractAttribute(GetType(TrackedFault), Action := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault",  _
+<FaultContractAttribute(GetType(TrackedFault), Action := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault",  _
     Name := "TrackedFault")> _
 Function InvokeMethod ( _
     requestInfo As RequestInfo, _
@@ -52,8 +52,8 @@ returnValue = instance.InvokeMethod(requestInfo, _
 ```
 
 ``` csharp
-[OperationContractAttribute(Action = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeMethod", 
-    ReplyAction = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeMethodResponse")]
+[OperationContractAttribute(Action = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeMethod", 
+    ReplyAction = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeMethodResponse")]
 [ServiceKnownTypeAttribute(typeof(TrackedFault))]
 [ServiceKnownTypeAttribute(typeof(RequestInfo))]
 [ServiceKnownTypeAttribute(typeof(Object[]))]
@@ -61,7 +61,7 @@ returnValue = instance.InvokeMethod(requestInfo, _
 [ServiceKnownTypeAttribute(typeof(Exception))]
 [ServiceKnownTypeAttribute(typeof(ReadOnlyCollection<Object>))]
 [ServiceKnownTypeAttribute(typeof(ServiceResponse))]
-[FaultContractAttribute(typeof(TrackedFault), Action = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault", 
+[FaultContractAttribute(typeof(TrackedFault), Action = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault", 
     Name = "TrackedFault")]
 ServiceResponse InvokeMethod(
     RequestInfo requestInfo,
@@ -71,8 +71,8 @@ ServiceResponse InvokeMethod(
 ```
 
 ``` c++
-[OperationContractAttribute(Action = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeMethod", 
-    ReplyAction = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeMethodResponse")]
+[OperationContractAttribute(Action = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeMethod", 
+    ReplyAction = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/InvokeMethodResponse")]
 [ServiceKnownTypeAttribute(typeof(TrackedFault))]
 [ServiceKnownTypeAttribute(typeof(RequestInfo))]
 [ServiceKnownTypeAttribute(typeof(array<Object^>))]
@@ -80,7 +80,7 @@ ServiceResponse InvokeMethod(
 [ServiceKnownTypeAttribute(typeof(Exception))]
 [ServiceKnownTypeAttribute(typeof(ReadOnlyCollection<Object^>))]
 [ServiceKnownTypeAttribute(typeof(ServiceResponse))]
-[FaultContractAttribute(typeof(TrackedFault), Action = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault", 
+[FaultContractAttribute(typeof(TrackedFault), Action = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault", 
     Name = L"TrackedFault")]
 ServiceResponse^ InvokeMethod(
     RequestInfo^ requestInfo, 

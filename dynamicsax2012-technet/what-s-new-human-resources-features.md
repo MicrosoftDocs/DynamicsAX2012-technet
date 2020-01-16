@@ -188,7 +188,7 @@ We have changed and added functionality in the [Human resources](human-resources
 <tr class="even">
 <td><p>Changes to the HcmWorkerImportService service for Microsoft Dynamics AX Application Integration Framework (AIF)</p></td>
 <td><p>The HcmWorkerImportService service, which lets you import basic worker information, such as name, address, personnel number, email address, and title, now has read and update capabilities.</p>
-<p>For more information about HcmWorkerImportService, see the blog post <a href="http://blogs.msdn.com/b/axsupport/archive/2012/03/30/calling-the-hcmworkerimportservice-in-ax-2012-to-import-employees.aspx">Calling the HcmWorkerImportService in AX 2012 to Import Employees</a> on the Microsoft Dynamics AX Support blog.</p></td>
+<p>For more information about HcmWorkerImportService, see the blog post <a href="https://blogs.msdn.com/b/axsupport/archive/2012/03/30/calling-the-hcmworkerimportservice-in-ax-2012-to-import-employees.aspx">Calling the HcmWorkerImportService in AX 2012 to Import Employees</a> on the Microsoft Dynamics AX Support blog.</p></td>
 </tr>
 <tr class="odd">
 <td><p>You can require that applicants and employees take or pass designated screenings.</p></td>

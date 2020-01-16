@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 The ledger posting framework is the API that is used to post to the general ledger in Microsoft Dynamics AX 2012. This paper describes how to update uses of the ledger posting framework in Microsoft Dynamics AX 2012.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213136).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213136).
 
   
 

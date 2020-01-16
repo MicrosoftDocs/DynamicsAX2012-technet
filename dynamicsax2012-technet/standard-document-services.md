@@ -710,7 +710,7 @@ You can generate a schema for each document by creating an enhanced inbound inte
 <td><p>Custom service operation buildForecast</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=393441%26clcid=0x409">Advanced Ledger Entry</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=393441%26clcid=0x409">Advanced Ledger Entry</a></p></td>
 <td><p>AxdAdvancedLedgerEntry</p></td>
 <td><p>AdvancedLedgerEntryService</p></td>
 <td><p>AX 2012 R2</p></td>

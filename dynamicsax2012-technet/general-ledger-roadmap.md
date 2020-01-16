@@ -48,9 +48,9 @@ This topic includes links to important information about how to set up and use G
 <p><a href="https://go.microsoft.com/fwlink/?linkid=397377">Shared Financial Data Management for Microsoft Dynamics AX 2012 R2</a> (white paper)</p>
 <p><a href="https://go.microsoft.com/fwlink/?linkid=397378">Implementing the account and dimensions framework</a> (white paper)</p>
 <p><a href="financial-consolidations-and-currency-translation.md">Financial consolidations and currency translation by using Management Reporter</a> (white paper)</p>
-<p><a href="http://blogs.msdn.com/b/dynamics_financial_reporting/">Dynamics Financial Reporting</a> (blog)</p>
+<p><a href="https://blogs.msdn.com/b/dynamics_financial_reporting/">Dynamics Financial Reporting</a> (blog)</p>
 <p><a href="http://community.dynamics.com/ax/f/33.aspx">Microsoft Dynamics AX Forum</a> (forum)</p>
-<p><a href="http://www.microsoft.com/en-us/download/details.aspx?displaylang=en%26id=29210">Help and Resources Datasheet for Dynamics AX 2012</a> (download)</p>
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?displaylang=en%26id=29210">Help and Resources Datasheet for Dynamics AX 2012</a> (download)</p>
 <p><a href="https://lcs.dynamics.com/home/homeindex">Lifecycle Services</a>* (cloud-based workspace)</p>
 <p>* In order to use Lifecycle Services, you must have a CustomerSource or PartnerSource account, and have created a project. For more information, see the <a href="lifecycle-services-for-microsoft-dynamics-user-guide-lcs.md">Lifecycle Services for Microsoft Dynamics User Guide (LCS)</a></p></td>
 </tr>

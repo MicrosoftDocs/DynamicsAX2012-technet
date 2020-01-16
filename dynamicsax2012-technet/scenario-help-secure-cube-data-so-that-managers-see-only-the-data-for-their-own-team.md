@@ -18,7 +18,7 @@ Some managers in your organization may want to use cube data to track and analyz
 
 ## Option: Use dynamic security
 
-To implement security so that a manager has access only to the data for his or her own team, use dynamic security practices. For an example of these practices, see the [Dynamic Security in SSAS cube](http://blogs.msdn.com/b/azazr/archive/2008/08/15/dynamic-security-in-ssas-cube.aspx) blog post.
+To implement security so that a manager has access only to the data for his or her own team, use dynamic security practices. For an example of these practices, see the [Dynamic Security in SSAS cube](https://blogs.msdn.com/b/azazr/archive/2008/08/15/dynamic-security-in-ssas-cube.aspx) blog post.
 
 ## Option: Create a new role for a specific manager
 

@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for China. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Chinese installations, such as features that affect General ledger, tax integration with the Chinese Golden Tax System (GTS), Inventory and product management, and reporting. The second section describes additional changes to country-specific functionality for China. For more information about specific features for China, see [TechNet Library for Application Users - China](http://go.microsoft.com/fwlink/?linkid=299906).
+In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for China. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Chinese installations, such as features that affect General ledger, tax integration with the Chinese Golden Tax System (GTS), Inventory and product management, and reporting. The second section describes additional changes to country-specific functionality for China. For more information about specific features for China, see [TechNet Library for Application Users - China](https://go.microsoft.com/fwlink/?linkid=299906).
 
 ## Key features for China
 

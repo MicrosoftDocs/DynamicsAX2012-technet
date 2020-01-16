@@ -67,7 +67,7 @@ Each 34-by-44-inch poster describes a specific technical area. The posters have 
 <tr class="odd">
 <td><p><strong>Microsoft Dynamics AX 2012 R2: How to upgrade from an earlier release of AX 2012</strong></p>
 <p><img src="images/Dn133163.Upgradein-placeposter(thumbnail)(AX.60).png" title="Poster thumbnail" alt="Poster thumbnail" /></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=293672">Downloadable PDF and Visio files</a></p></td>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=293672">Downloadable PDF and Visio files</a></p></td>
 <td><p>This poster illustrates the recommended procedure for “in-place” upgrade to Microsoft Dynamics AX 2012 R2 from either Microsoft Dynamics AX 2012 or Microsoft Dynamics AX 2012 Feature Pack. By performing most of the development and testing tasks on non-production computers, you minimize the effect of the upgrade on your production system. You work with a total of three Microsoft Dynamics AX installations: your production system, which is the basis for the other two installations, a test system, and a development system that is used to upgrade customized code. The systems are color-coded to emphasize where you are working at any given stage of the upgrade.</p></td>
 </tr>
 </tbody>
@@ -91,7 +91,7 @@ Each 34-by-44-inch poster describes a specific technical area. The posters have 
 <tr class="odd">
 <td><p><strong>Microsoft Dynamics AX 2012 Update Process</strong></p>
 <img src="images/Hh335183.Updateprocessposter(AX.60).gif" title="Update process poster thumbnail" alt="Update process poster thumbnail" />
-<p><a href="http://go.microsoft.com/fwlink/?linkid=306776">Downloadable PDF or Visio version</a></p></td>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=306776">Downloadable PDF or Visio version</a></p></td>
 <td><p>This poster describes the types of updates, the recommended installation order, and the detailed update process for Microsoft Dynamics AX 2012. The poster also provides tips and tricks for managing updates.</p></td>
 </tr>
 </tbody>

@@ -53,5 +53,5 @@ When previewing a report at design time, you can preview a report for a particul
 
 ## See also
 
-[Globalizing and Localizing Applications](http://go.microsoft.com/fwlink/?linkid=108249)
+[Globalizing and Localizing Applications](https://go.microsoft.com/fwlink/?linkid=108249)
 

@@ -24,7 +24,7 @@ When calling the metadata service, you may receive the following error:
 
 Maximum number of items that can be serialized or deserialized in an object graph is '65535'.
 
-The Windows Communication Foundation (WCF) data contract serializer has a default number of objects that can be serialized. To resolve this issue, add a behavior to the client endpoint and set the dataContractSerializer.maxItemsInObject property to a larger value. For more information, see [DataContractSerializer.MaxItemsInObjectGraph Property](http://go.microsoft.com/fwlink/?linkid=149822).
+The Windows Communication Foundation (WCF) data contract serializer has a default number of objects that can be serialized. To resolve this issue, add a behavior to the client endpoint and set the dataContractSerializer.maxItemsInObject property to a larger value. For more information, see [DataContractSerializer.MaxItemsInObjectGraph Property](https://go.microsoft.com/fwlink/?linkid=149822).
 
 This behavior is in the client app.config file. The following code shows an example of the behavior which is located in the System.ServiceModel node.
 

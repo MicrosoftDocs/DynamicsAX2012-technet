@@ -42,7 +42,7 @@ Use the following procedure to manually configure the BDC service.
 
 **SharePoint Search or SharePoint Server Search 14 service does not pass the prerequisite check**
 
-By default, the SharePoint Search service is not installed on SharePoint Foundation. If you are running SharePoint Foundation you must install Microsoft Search Server Express 2010, which is a free [download](http://go.microsoft.com/fwlink/?linkid=180385).
+By default, the SharePoint Search service is not installed on SharePoint Foundation. If you are running SharePoint Foundation you must install Microsoft Search Server Express 2010, which is a free [download](https://go.microsoft.com/fwlink/?linkid=180385).
 
 After you installed Search Server Express 2010, use the Services Control Panel to verify that the SharePoint Server Search 14 service is running. If the service is listed but **Disabled**, then you must configure it in SharePoint Central Administration.
 

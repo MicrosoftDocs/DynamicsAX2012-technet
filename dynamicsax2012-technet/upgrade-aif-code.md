@@ -238,7 +238,7 @@ Use the Microsoft Dynamics AX 2012 forms for inbound and outbound integration po
 
 ## For more information
 
-For details about how to configure integration ports in services and AIF, see the documentation on the [TechNet Web site](http://go.microsoft.com/fwlink/?linkid=217341).
+For details about how to configure integration ports in services and AIF, see the documentation on the [TechNet Web site](https://go.microsoft.com/fwlink/?linkid=217341).
 
   
 

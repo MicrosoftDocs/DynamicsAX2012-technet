@@ -28,20 +28,20 @@ The following example message has a header that contains a unique message ID and
 
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
-<Envelope xmlns = "http://schemas.microsoft.com/
+<Envelope xmlns = "https://schemas.microsoft.com/
  dynamics/2011/01/documents/Message">
  <Header>
   <MessageId>{D1F93462-0229-1430
     -0001-93FAE32B2E4D}</MessageId>
-  <Action>http://schemas.microsoft.com/
+  <Action>https://schemas.microsoft.com/
     dynamics/2008/01/services/
     SalesOrderService/create</Action>
  </Header>
 
  <Body>
-  <MessageParts xmlns = "http://schemas.microsoft.com/
+  <MessageParts xmlns = "https://schemas.microsoft.com/
     dynamics/2011/01/documents/Message">
-   <SalesOrder xmlns = "http://schemas.microsoft.com/
+   <SalesOrder xmlns = "https://schemas.microsoft.com/
      dynamics/2008/01/documents/SalesOrder">
     <DocPurpose>Original</DocPurpose>
 
@@ -74,17 +74,17 @@ The following outbound message is generated from the previous inbound message.
 
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
-<Envelope xmlns = "http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+<Envelope xmlns = "https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
  <Header>
   <MessageId>{9779F678-4BE2-442C-ABD3-AF53A7B8D2D5}</MessageId>
-  <Action>http://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
+  <Action>https://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
   <RequestMessageId>{D1F93462-0229-1430-0001-93FAE32B2E4D}</RequestMessageId>
  </Header>
  <Body>
-  <MessageParts xmlns = "http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
-   <EntityKeyList xmlns = "http://schemas.microsoft.com/
+  <MessageParts xmlns = "https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+   <EntityKeyList xmlns = "https://schemas.microsoft.com/
     dynamics/2006/02/documents/EntityKeyList">
-    <EntityKey xmlns = "http://schemas.microsoft.com/
+    <EntityKey xmlns = "https://schemas.microsoft.com/
      dynamics/2006/02/documents/EntityKey">
      <KeyData>
       <KeyField>

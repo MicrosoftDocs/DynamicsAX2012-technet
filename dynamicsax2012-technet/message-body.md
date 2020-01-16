@@ -77,9 +77,9 @@ For inbound messages, the following table shows the XML tags that must be in the
 </ul>
 <p>The following example shows the XML for a Create action for the LedgerJournal document.</p>
 <pre><code>&lt;Body&gt;
-        &lt;MessageParts xmlns = &quot;http://schemas.microsoft.com/dynamics/2008/01/
+        &lt;MessageParts xmlns = &quot;https://schemas.microsoft.com/dynamics/2008/01/
         documents/Message&quot;&gt;
-        &lt;LedgerJournal xmlns = &quot;http://schemas.microsoft.com/dynamics/2008/01/
+        &lt;LedgerJournal xmlns = &quot;https://schemas.microsoft.com/dynamics/2008/01/
         documents/LedgerJournal&quot;&gt;
         &lt;LedgerJournalTable class=&quot;entity&quot;&gt;
             &lt;CurrencyCode&gt;USD&lt;/CurrencyCode&gt;
@@ -242,7 +242,7 @@ The service class specified in the \<Action\> tag determines the table (or data 
 The following XML code is an example of the \<EntityKey\> tag section. It identifies the record that has a value of 4507 in its AccountNum field. Not shown is XML code elsewhere in the message that relates this \<EntityKey\> to the CustTable table.
 
 ``` xml
-<EntityKey xmlns = "http://schemas.microsoft.com/
+<EntityKey xmlns = "https://schemas.microsoft.com/
   dynamics/2006/02/documents/EntityKey">
  <KeyData>
   <KeyField>

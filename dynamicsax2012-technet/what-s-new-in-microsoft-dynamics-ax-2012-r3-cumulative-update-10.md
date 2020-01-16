@@ -12,7 +12,7 @@ mtps_version: v=AX.60
 # What's new in Microsoft Dynamics AX 2012 R3 cumulative update 10 
 
 
-This topic links to descriptions of the DCRs and regulatory features that are included in cumulative update 10. [What’s new in Microsoft Dynamics AX 2012 cumulative update 10](http://go.microsoft.com/fwlink/?linkid=708723%26clcid=0x409)
+This topic links to descriptions of the DCRs and regulatory features that are included in cumulative update 10. [What’s new in Microsoft Dynamics AX 2012 cumulative update 10](https://go.microsoft.com/fwlink/?linkid=708723%26clcid=0x409)
 
   
 

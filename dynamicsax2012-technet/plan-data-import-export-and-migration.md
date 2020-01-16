@@ -403,7 +403,7 @@ The Test Data Transfer Tool (beta) is available from the [InformationSource serv
 
 ## SQL Server backup and recovery / restore
 
-You must use SQL Server backup and recovery to move business data to a new environment. Before the restored database can function in the new environment, you must adjust certain values, such as server names, domain names, user accounts, and URLs. For more information, see the blog post [Moving between Microsoft Dynamics AX 2012 Environments](http://blogs.msdn.com/b/axsupport/archive/2011/11/07/moving-between-microsoft-dynamics-ax-2012-environments.aspx).
+You must use SQL Server backup and recovery to move business data to a new environment. Before the restored database can function in the new environment, you must adjust certain values, such as server names, domain names, user accounts, and URLs. For more information, see the blog post [Moving between Microsoft Dynamics AX 2012 Environments](https://blogs.msdn.com/b/axsupport/archive/2011/11/07/moving-between-microsoft-dynamics-ax-2012-environments.aspx).
 
 **Intended users:** System administrators and database administrators
 

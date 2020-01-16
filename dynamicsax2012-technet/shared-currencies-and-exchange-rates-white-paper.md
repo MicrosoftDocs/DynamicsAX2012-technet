@@ -18,7 +18,7 @@ In Microsoft Dynamics AX 2012, the currency and exchange rate framework has been
 
 This paper highlights the key concepts and APIs related to the calculation, display, and storage of currency and exchange rate information, and illustrates the appropriate patterns to use in application code.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=215091).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=215091).
 
   
 

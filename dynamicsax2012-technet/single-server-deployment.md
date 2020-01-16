@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 A single-server deployment occurs when you deploy all the Microsoft Dynamics AX components on a single computer. We recommend that you consider a single-server deployment only for development or demonstration environments.
 
-You must make sure that the single-server deployment fits in with your overall strategy for IT infrastructure and development. Carefully consider the hardware and software that are required for the single-server deployment to guarantee appropriate response times for your developers. For the current hardware and software requirements for Microsoft Dynamics AX, download Microsoft Dynamics AX 2012 System Requirements from the [Microsoft Download Center](http://go.microsoft.com/fwlink/?linkid=195222).
+You must make sure that the single-server deployment fits in with your overall strategy for IT infrastructure and development. Carefully consider the hardware and software that are required for the single-server deployment to guarantee appropriate response times for your developers. For the current hardware and software requirements for Microsoft Dynamics AX, download Microsoft Dynamics AX 2012 System Requirements from the [Microsoft Download Center](https://go.microsoft.com/fwlink/?linkid=195222).
 
 ## See also
 

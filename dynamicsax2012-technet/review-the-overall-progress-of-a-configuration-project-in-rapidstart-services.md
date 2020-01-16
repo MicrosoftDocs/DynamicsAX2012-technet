@@ -25,7 +25,7 @@ Beginning October 1, 2015, RapidStart services will no longer be supported. For 
 
 As the Customer administrator for a configuration project in Microsoft Dynamics ERP RapidStart Services, you can review the status of the configuration project to see the progress that is being made on answering questions in functional areas or question groups. Additionally, you can view the overall project status on the **Project status detail** page.
 
-1.  In your browser, open online services for Microsoft Dynamics ERP at [http://www.dynamicsonline.com](http://go.microsoft.com/fwlink/p/?linkid=141031).
+1.  In your browser, open online services for Microsoft Dynamics ERP at [http://www.dynamicsonline.com](https://go.microsoft.com/fwlink/p/?linkid=141031).
 
 2.  Click **For Customers**, and then click **Sign in**.
 

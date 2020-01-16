@@ -32,9 +32,9 @@ With minimal hardware, we were able to complete end-of-day processing for 800,00
 
 We have published the following two papers about the Retail benchmark for Microsoft Dynamics AX 2012 R2:
 
-  - [Microsoft Dynamics AX 2012 R2 Retail benchmark for multiple retail workloads detailed results](http://go.microsoft.com/fwlink/?linkid=302114) This paper provides detailed results of the Retail benchmark testing and can be downloaded from CustomerSource and PartnerSource.
+  - [Microsoft Dynamics AX 2012 R2 Retail benchmark for multiple retail workloads detailed results](https://go.microsoft.com/fwlink/?linkid=302114) This paper provides detailed results of the Retail benchmark testing and can be downloaded from CustomerSource and PartnerSource.
 
-  - [Microsoft Dynamics AX 2012 R2 Retail benchmark summary results](http://go.microsoft.com/fwlink/?linkid=302129) This paper provides a summary of the Retail benchmark testing and can be downloaded from CustomerSource and PartnerSource.
+  - [Microsoft Dynamics AX 2012 R2 Retail benchmark summary results](https://go.microsoft.com/fwlink/?linkid=302129) This paper provides a summary of the Retail benchmark testing and can be downloaded from CustomerSource and PartnerSource.
 
 For more information about Retail performance, see [Retail Performance for Microsoft Dynamics AX 2012](retail-performance-for-microsoft-dynamics-ax-2012.md).
 

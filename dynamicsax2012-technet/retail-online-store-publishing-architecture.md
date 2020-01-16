@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-This topic contains conceptual information to help developers and system administrators understand how channels and catalogs are published from the Microsoft Dynamics AX Retail module to an online store in Microsoft SharePoint 2013 Products. Understanding the publishing process can help you develop, manage, and troubleshoot your Retail online store. Before you read this topic, we recommend that you read about SharePoint cross-site publishing concepts. For more information, see [Plan for cross-site publishing in SharePoint Server 2013](http://go.microsoft.com/fwlink/?linkid=282721) and [Plan terms and term sets in SharePoint Server 2013](http://go.microsoft.com/fwlink/?linkid=311567)
+This topic contains conceptual information to help developers and system administrators understand how channels and catalogs are published from the Microsoft Dynamics AX Retail module to an online store in Microsoft SharePoint 2013 Products. Understanding the publishing process can help you develop, manage, and troubleshoot your Retail online store. Before you read this topic, we recommend that you read about SharePoint cross-site publishing concepts. For more information, see [Plan for cross-site publishing in SharePoint Server 2013](https://go.microsoft.com/fwlink/?linkid=282721) and [Plan terms and term sets in SharePoint Server 2013](https://go.microsoft.com/fwlink/?linkid=311567)
 
 Figure 1 shows the architecture and flow of the publishing processes. These processes are described in more detail in this topic.
 
@@ -86,7 +86,7 @@ Figure 3 Process flow for publishing a Retail online store catalog
 
 
 > [!NOTE]
-> <P>To learn more about custom site columns and list items, see <A href="http://go.microsoft.com/fwlink/?linkid=311682">Introduction to Columns</A> and the section titled "Share a library or list as a catalog" in <A href="http://go.microsoft.com/fwlink/?linkid=311683">Configure cross-site publishing in SharePoint Server 2013</A>.</P>
+> <P>To learn more about custom site columns and list items, see <A href="https://go.microsoft.com/fwlink/?linkid=311682">Introduction to Columns</A> and the section titled "Share a library or list as a catalog" in <A href="https://go.microsoft.com/fwlink/?linkid=311683">Configure cross-site publishing in SharePoint Server 2013</A>.</P>
 
 
 

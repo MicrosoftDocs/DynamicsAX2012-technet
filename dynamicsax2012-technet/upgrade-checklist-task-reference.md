@@ -26,7 +26,7 @@ This task reference contains documentation for each task in the Microsoft Dynami
 
   - **Data upgrade checklist for in-place upgrade**
 
-The task topics, many of which apply to more than one checklist, are arranged in alphabetical order for easy browsing. For information about the role of each task during upgrade, and the order in which to perform the tasks, follow the procedures contained in the appropriate scenario in [Upgrade scenarios](upgrade-scenarios.md) or in the downloadable [Microsoft Dynamics AX 2012 Upgrade Guide](http://go.microsoft.com/fwlink/?linkid=221465).
+The task topics, many of which apply to more than one checklist, are arranged in alphabetical order for easy browsing. For information about the role of each task during upgrade, and the order in which to perform the tasks, follow the procedures contained in the appropriate scenario in [Upgrade scenarios](upgrade-scenarios.md) or in the downloadable [Microsoft Dynamics AX 2012 Upgrade Guide](https://go.microsoft.com/fwlink/?linkid=221465).
 
 [(BRA) CFOP code (upgrade)](bra-cfop-code-upgrade.md)
 

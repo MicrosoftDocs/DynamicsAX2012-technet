@@ -18,11 +18,11 @@ Two white papers are available for Single European Payments Area (SEPA) direct d
 
 One white paper describes the current and planned functionality for Microsoft Dynamics AX that supports the SEPA Direct Debit (ISO 20022 XML) payment format.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=256555)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=256555)
 
 The second white paper describes the functionality for Microsoft Dynamics AX that supports the SEPA Direct Debit (ISO 20022 XML) payment format and direct debit mandates. Customer mandates for SEPA direct debit payments can be attached to customer records. You can specify whether a method of payment requires a mandate, and if so, the payment process verifies that a mandate is active for the customer. Before you can set up direct debit mandates, you must install the hotfix that is available from [KB2786631](https://mbs2.microsoft.com/knowledgebase/kbdisplay.aspx?scid=kb%3ben-us%3b2786631). (Password required.)
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=286122)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=286122)
 
   
 

@@ -37,7 +37,7 @@ Record-level security (RLS) builds on the restrictions that are enforced by user
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The feature was replaced by the Extensible Data Security feature, which provides all the capabilities that record-level security provided. In addition, XDS lets developers write more powerful queries to restrict the data that users can access. The restrictions are more secure, and are applied not only to the UI but also at the server level. The restrictions can be based not only on the fields in the table that users are accessing but also on data in other tables. This capability becomes increasingly important as the tables become more normalized in each version.</p>
-<p>For more information about data security in Microsoft Dynamics AX 2012, see <a href="what-s-new-role-based-security.md">What's new: Role-based security</a> and the <a href="http://www.microsoft.com/en-us/download/details.aspx?id=3110">Developing Extensible Data Security Policies for Microsoft Dynamics AX 2012</a> white paper.</p></td>
+<p>For more information about data security in Microsoft Dynamics AX 2012, see <a href="what-s-new-role-based-security.md">What's new: Role-based security</a> and the <a href="https://www.microsoft.com/en-us/download/details.aspx?id=3110">Developing Extensible Data Security Policies for Microsoft Dynamics AX 2012</a> white paper.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

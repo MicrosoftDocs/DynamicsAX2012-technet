@@ -67,7 +67,7 @@ In order to run AXUtil and the Windows PowerShell cmdlets in an environment with
 
   - Continue to run Windows PowerShell for **MSDAX** as a Windows PowerShell 2.0 application, by running it from the **MSDAX6**Management Shell (**Start** \> **Administrative Tools** \> **Microsoft Dynamics AX 2012 Management Shell**).
 
-For more information, see [.NET Framework 4.0 \<startup\> Element](http://msdn.microsoft.com/en-us/library/bbx34a2h\(vs.100\).aspx).
+For more information, see [.NET Framework 4.0 \<startup\> Element](https://msdn.microsoft.com/library/bbx34a2h\(vs.100\).aspx).
 
   
 **Announcements:** New book: "Inside Microsoft Dynamics AX 2012 R3" now available. Get your copy at the [MS Press Store](https://www.microsoftpressstore.com/store/inside-microsoft-dynamics-ax-2012-r3-9780735685109).

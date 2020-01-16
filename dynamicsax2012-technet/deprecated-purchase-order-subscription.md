@@ -37,7 +37,7 @@ Purchase order subscription is an order type that enables one purchase order to 
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>No. The feature is no longer available, and there is no replacement feature. However, the Agreement Framework in Microsoft Dynamics AX 2012 replaces the data model and functionality that blanket orders provide in Microsoft Dynamics AX 2009.</p>
-<p>For more information about the Agreement Framework, see the white paper <a href="http://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_the_agreement_framework_ax2012.pdf">Implementing the Agreement Framework</a>.</p></td>
+<p>For more information about the Agreement Framework, see the white paper <a href="https://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_the_agreement_framework_ax2012.pdf">Implementing the Agreement Framework</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

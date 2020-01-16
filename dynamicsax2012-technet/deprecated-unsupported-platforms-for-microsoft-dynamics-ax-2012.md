@@ -154,7 +154,7 @@ The Visual Studio Tools for Microsoft Dynamics AX combine all the developer tool
 
 ## See also
 
-[Microsoft Dynamics AX 2012 System Requirements](http://www.microsoft.com/en-us/download/details.aspx?id=11094)
+[Microsoft Dynamics AX 2012 System Requirements](https://www.microsoft.com/en-us/download/details.aspx?id=11094)
 
   
 

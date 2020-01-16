@@ -114,17 +114,17 @@ When you use SQL Server failover clustering, note the following behavior:
 
 For more information about availability options, see:
 
-  - [Getting started with SQL Server 2008 R2 Failover Clustering](http://go.microsoft.com/fwlink/?linkid=216763)
+  - [Getting started with SQL Server 2008 R2 Failover Clustering](https://go.microsoft.com/fwlink/?linkid=216763)
 
   - [Windows Server Failover Clustering (WSFC) with SQL Server](https://technet.microsoft.com/library/hh270278.aspx)
 
-  - [Database mirroring](http://go.microsoft.com/fwlink/?linkid=216767)
+  - [Database mirroring](https://go.microsoft.com/fwlink/?linkid=216767)
 
-  - [Log shipping](http://go.microsoft.com/fwlink/?linkid=216765)
+  - [Log shipping](https://go.microsoft.com/fwlink/?linkid=216765)
 
-  - [Transactional replication](http://go.microsoft.com/fwlink/?linkid=216768)
+  - [Transactional replication](https://go.microsoft.com/fwlink/?linkid=216768)
 
-  - [Snapshot replication](http://go.microsoft.com/fwlink/?linkid=216769)
+  - [Snapshot replication](https://go.microsoft.com/fwlink/?linkid=216769)
 
   - [Host a Report Server Database in a SQL Server Failover Cluster](https://technet.microsoft.com/library/bb630402.aspx)
 

@@ -54,7 +54,7 @@ You can use Human resources to complete these tasks:
 <td><img src="images/Dn800886.TopicIcons_RelatedResources(AX.60).png" title="Related resources" alt="Related resources" />
 <p><a href="http://community.dynamics.com/ax/f/33.aspx?pi49988=0%26category=human+resources+and+payroll">Microsoft Dynamics AX Forum (Human resources and Payroll)</a> (forum)</p>
 <p><a href="http://community.dynamics.com/ax/b/axhcmnewslearningshighlights/default.aspx">Microsoft Dynamics AX HCM News, Learnings, &amp; Highlights</a> (forum)</p>
-<p><a href="http://blogs.msdn.com/b/dax/archive/2014/01/14/human-capital-management-even-better-with-the-latest-release-of-microsoft-dynamics-ax-2012.aspx">Human Capital Management – Even better with the latest release of Microsoft Dynamics AX 2012</a> (blog)</p>
+<p><a href="https://blogs.msdn.com/b/dax/archive/2014/01/14/human-capital-management-even-better-with-the-latest-release-of-microsoft-dynamics-ax-2012.aspx">Human Capital Management – Even better with the latest release of Microsoft Dynamics AX 2012</a> (blog)</p>
 <p><a href="http://sandeepchaudhury.wordpress.com/2013/02/14/time-and-attendance-registration-functionality-of-microsoft-dynamics-ax-2012/">Time and Attendance Registration functionality of Microsoft Dynamics AX 2012</a> (blog)</p>
 <p><a href="https://lcs.dynamics.com/home/homeindex">Lifecycle Services</a>* (Cloud-based workspace)</p>
 <p><a href="http://www.microsoft.com/en-us/download/details.aspx?displaylang=en%26id=29210">Help and Resources Datasheet for Dynamics AX 2012</a> (download)</p>

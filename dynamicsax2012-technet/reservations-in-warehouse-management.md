@@ -20,7 +20,7 @@ This white paper describes the new functionality for reservations in **Warehouse
 
 
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=399343)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=399343)
 
   
 

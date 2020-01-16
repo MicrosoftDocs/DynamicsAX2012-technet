@@ -24,7 +24,7 @@ Leveraging the power of Windows Azure cloud computing, the Application Integrati
 
 The Service Bus Relay marshals service requests and responses to the enterprise environment behind the firewall. The enterprise environment uses Application Integration Framework (AIF), the Windows Azure Service Bus adapter, and Internet Information Services (IIS) 7.5 or later versions. The AD FS acts as a Security Token Service (STS) for the application and establishes trust with the Access Control Services (ACS). The Service Bus receives service calls over HTTP from the client application. Each Service Bus namespace has an associated ACS configuration which authenticates service calls. The client application must send user credentials to AD FS to begin the secure communication process.
 
-The client application prompts the user for credentials and creates an authentication request using Windows claims-based authentication for the AD FS. For more information about AD FS, see [Active Directory Federation Services](http://go.microsoft.com/fwlink/?linkid=194245). The client calls the AD FS Security Token System (STS) with the AD FS credentials and obtains a Security Assertion Markup Language (SAML) token. The SAML token is signed but unencrypted because the same token is used on premises by the custom authentication component to identify the calling user. The ACS is configured depending on AD FS settings.
+The client application prompts the user for credentials and creates an authentication request using Windows claims-based authentication for the AD FS. For more information about AD FS, see [Active Directory Federation Services](https://go.microsoft.com/fwlink/?linkid=194245). The client calls the AD FS Security Token System (STS) with the AD FS credentials and obtains a Security Assertion Markup Language (SAML) token. The SAML token is signed but unencrypted because the same token is used on premises by the custom authentication component to identify the calling user. The ACS is configured depending on AD FS settings.
 
 Application Integration Framework (AIF) publishes the services by using the Service Bus adapter. As part of publishing the service, AX 2012 deploys a Windows Communication Framework (WCF) routing service onto IIS 7.5. For more information, see [Publishing a service by using the Windows Azure Service Bus adapter](publishing-a-service-by-using-the-windows-azure-service-bus-adapter.md).
 
@@ -70,7 +70,7 @@ The following steps describe the authentication process and the service call and
 
 ## See also
 
-[Service Bus Overview](http://go.microsoft.com/fwlink/?linkid=302333%26clcid=0x409)
+[Service Bus Overview](https://go.microsoft.com/fwlink/?linkid=302333%26clcid=0x409)
 
 [How to Authenticate Web Users with Azure Active Directory Access Control](http://www.windowsazure.com/en-us/develop/net/how-to-guides/access-control/)
 

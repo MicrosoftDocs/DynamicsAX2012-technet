@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper outlines testing best practices that are provided by the Microsoft Dynamics AX 2012 internal development team. These practices apply both to the development of product extensions that independent software vendors (ISVs) build, and to customizations that Microsoft Dynamics AX implementation partners and customers perform for specific ERP deployments.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=229385)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=229385)
 
   
 

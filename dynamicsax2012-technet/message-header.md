@@ -100,7 +100,7 @@ The following table lists all the tags that can appear in the \<Header\> tag sec
 
 The \<Action\> tag consists of three elements: the namespace, the external name of the service, and the service operation, or method on the service class. The following example is for the Customer Service (that is, the CustCustomerService class), shown with line breaks to improve readability:
 
-\<Action\>http://schemas.microsoft.com/dynamics/2008/01/
+\<Action\>https://schemas.microsoft.com/dynamics/2008/01/
 
 services/CustomerService/
 
@@ -124,7 +124,7 @@ The following table shows the elements of the \<Action\> tag for the example.
 <tbody>
 <tr class="odd">
 <td><p>Namespace</p></td>
-<td><p>http://schemas.microsoft.com/</p>
+<td><p>https://schemas.microsoft.com/</p>
 <p>dynamics/2008/01/services/</p></td>
 <td><p>Under the <strong>Services</strong> node, on the <strong>CustCustomerService</strong> node, the <strong>Namespace</strong> property.</p></td>
 </tr>

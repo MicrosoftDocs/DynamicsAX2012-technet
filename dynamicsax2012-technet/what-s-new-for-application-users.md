@@ -155,7 +155,7 @@ The topics in the following table describe country/region-specific features that
 
 Use the following links to go to topics on TechNet that are important for application users:
 
-  - [TechNet library for application users](http://go.microsoft.com/fwlink/?linkid=214391)
+  - [TechNet library for application users](https://go.microsoft.com/fwlink/?linkid=214391)
 
   - [White papers for application users](white-papers-for-application-users.md)
 
@@ -163,6 +163,6 @@ Use the following links to go to topics on TechNet that are important for applic
 
 ## See also
 
-[TechNet Library for System Administrators](http://go.microsoft.com/fwlink/?linkid=214390)
+[TechNet Library for System Administrators](https://go.microsoft.com/fwlink/?linkid=214390)
 
-[AX Developer Center on MSDN](http://go.microsoft.com/fwlink/?linkid=110356)
+[AX Developer Center on MSDN](https://go.microsoft.com/fwlink/?linkid=110356)

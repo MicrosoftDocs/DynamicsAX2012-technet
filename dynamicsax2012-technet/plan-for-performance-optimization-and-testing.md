@@ -100,7 +100,7 @@ Good performance requires good and continuous monitoring. If you find problemati
 
 ## See also
 
-[Microsoft Dynamics AX Performance Team Blog](http://blogs.msdn.com/axperf)
+[Microsoft Dynamics AX Performance Team Blog](https://blogs.msdn.com/axperf)
 
 [InformationSource](http://informationsource.dynamics.com/)
 

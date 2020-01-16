@@ -96,7 +96,7 @@ Each function in Microsoft Dynamics AX, such as a form or a service, is accessed
 
 In the security model for Microsoft Dynamics AX, permissions group the securable objects and access levels that are required to run a function. This includes any tables, fields, forms or server side methods that are accessed through the entry point.
 
-Only developers can create or modify permissions. For more information about how to work with permissions, see the Microsoft Dynamics AX developer documentation. Be aware that modifying permissions may affect your licensing requirements. For more information about how licensing relates to security, see the [Security roles and licensing white paper](http://go.microsoft.com/fwlink/?linkid=228370) for Microsoft Dynamics AX 2012.
+Only developers can create or modify permissions. For more information about how to work with permissions, see the Microsoft Dynamics AX developer documentation. Be aware that modifying permissions may affect your licensing requirements. For more information about how licensing relates to security, see the [Security roles and licensing white paper](https://go.microsoft.com/fwlink/?linkid=228370) for Microsoft Dynamics AX 2012.
 
 
 > [!IMPORTANT]

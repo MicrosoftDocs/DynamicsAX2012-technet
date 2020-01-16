@@ -425,7 +425,7 @@ Cumulative update 7 offers the following installation options:
 
 > [!IMPORTANT]
 > <P>Users upgrading from a previous AX 2012 R2 version may experience compiler errors on a few forms that were not intentionally modified in the previous version. These compiler errors may appear on the following forms – SalesTable, SalesQuotationProjTable, and SalesQuotationTable.</P>
-> <P>To work around this issue, see the blog post <A href="http://blogs.msdn.com/b/axsupport/archive/2013/11/06/unexpected-compiler-errors-installing-cumulative-update-7-for-microsoft-dynamics-ax-2012-r2.aspx">Unexpected Compiler Errors installing Cumulative Update 7 for Microsoft Dynamics AX 2012 R2</A>.</P>
+> <P>To work around this issue, see the blog post <A href="https://blogs.msdn.com/b/axsupport/archive/2013/11/06/unexpected-compiler-errors-installing-cumulative-update-7-for-microsoft-dynamics-ax-2012-r2.aspx">Unexpected Compiler Errors installing Cumulative Update 7 for Microsoft Dynamics AX 2012 R2</A>.</P>
 
 
 

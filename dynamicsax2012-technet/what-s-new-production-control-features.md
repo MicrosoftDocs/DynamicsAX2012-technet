@@ -38,7 +38,7 @@ We have changed and added functionality in the [Production control](production-c
 <li><p>Define a specific output location for a production order or a batch order. This enables the warehouse worker to know exactly where to pick up the goods for put away work.</p></li>
 <li><p>Generate put away work for warehouse-enabled items when you use the reporting as finish process on the client. (Previously you could only do this from a Microsoft Dynamics AX mobile device.)</p></li>
 </ul>
-<p>For more information, see blog posts on the <a href="http://blogs.msdn.com/b/axmfg/">Dynamics AX Manufacturing R&amp;D Team blog</a> and <a href="set-up-production-processes-in-a-warehouse.md">Set up production processes in a warehouse</a>.</p></td>
+<p>For more information, see blog posts on the <a href="https://blogs.msdn.com/b/axmfg/">Dynamics AX Manufacturing R&amp;D Team blog</a> and <a href="set-up-production-processes-in-a-warehouse.md">Set up production processes in a warehouse</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -289,13 +289,13 @@ We have changed and added functionality in the [Production control](production-c
 <li><p>Set up work cells as resource groups that can run process activities.</p></li>
 <li><p>Set up production flow models to define the capacity settings for each work cell.</p></li>
 </ul>
-<p>More detailed information about production flows can be found in the white paper titled <a href="http://go.microsoft.com/fwlink/?linkid=213164%26clcid=0x409">Lean Manufacturing: Production Flows and Activities</a>.</p></td>
+<p>More detailed information about production flows can be found in the white paper titled <a href="https://go.microsoft.com/fwlink/?linkid=213164%26clcid=0x409">Lean Manufacturing: Production Flows and Activities</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Implement a lean replenishment system by using kanbans to signal demand requirements</p>
 <p>(Lean manufacturing)</p></td>
 <td><p>You can use kanbans to plan, track, and run production and replenishment operations that are based on pull signals. To create a kanban framework, set up kanban rules that govern when a kanban requirement is created, what is replenished, and how the replenishment is fulfilled. When a kanban is created, one or more kanban jobs are generated based on the kanban flow activities that are defined in the kanban rule. The kanban jobs are scheduled for the assigned work cell, based on the production flow model.</p>
-<p>For more information, see the topic titled <a href="about-lean-manufacturing.md">About lean manufacturing</a> and the white paper titled <a href="http://download.microsoft.com/download/5/1/d/51dc9131-9607-4b17-958a-08785dda6af2/lean+manufacturing_kanban+and+pull+based+manufacturing_ax2012.pdf">Lean Manufacturing: Kanban and Pull Based Manufacturing‎</a>.</p></td>
+<p>For more information, see the topic titled <a href="about-lean-manufacturing.md">About lean manufacturing</a> and the white paper titled <a href="https://download.microsoft.com/download/5/1/d/51dc9131-9607-4b17-958a-08785dda6af2/lean+manufacturing_kanban+and+pull+based+manufacturing_ax2012.pdf">Lean Manufacturing: Kanban and Pull Based Manufacturing‎</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Set up kanban rules to implement different replenishment strategies</p>
@@ -337,7 +337,7 @@ We have changed and added functionality in the [Production control](production-c
 <td><p>Lean manufacturing supports purchasing and invoicing processes for services that are related to production flow activities that are subcontracted</p>
 <p>(Lean manufacturing)</p></td>
 <td><p>You can set up production flow activities that are subcontracted, assign purchase agreement lines and services to subcontracted activities, and create periodic purchase orders and receipt advices to support purchasing and invoicing the services.</p>
-<p>For more information, see the white paper titled <a href="http://download.microsoft.com/download/f/c/6/fc6a5ced-d2bb-4d94-a04f-b7c80abec063/lean_manufacturing_production_flow_and_activities_ax2012.pdf">Lean manufacturing: Production flows and activities‎</a>.</p></td>
+<p>For more information, see the white paper titled <a href="https://download.microsoft.com/download/f/c/6/fc6a5ced-d2bb-4d94-a04f-b7c80abec063/lean_manufacturing_production_flow_and_activities_ax2012.pdf">Lean manufacturing: Production flows and activities‎</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>New operations resource model for planning operations and managing work center capabilities</p>
@@ -351,7 +351,7 @@ We have changed and added functionality in the [Production control](production-c
 <li><p>More easily reschedule an operation and find a suitable replacement resource that can complete the required operation, thereby minimizing production delays.</p></li>
 <li><p>Define capabilities to an operation resource (previously known as a work center) and match any requirements of an operation with the capabilities of any particular resource, thereby facilitating the identification of available production resources.</p></li>
 </ul>
-<p>More detailed information about the Operations Resource Model can be found in the white paper titled <a href="http://go.microsoft.com/fwlink/?linkid=213134%26clcid=0x409">Implementing the Operations Resource Model for Microsoft Dynamics AX 2012 applications</a>.</p></td>
+<p>More detailed information about the Operations Resource Model can be found in the white paper titled <a href="https://go.microsoft.com/fwlink/?linkid=213134%26clcid=0x409">Implementing the Operations Resource Model for Microsoft Dynamics AX 2012 applications</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Operations resource model: capability-based production scheduling</p>
@@ -359,7 +359,7 @@ We have changed and added functionality in the [Production control](production-c
 <td><p>In Microsoft Dynamics AX 2009, you could use task groups could to specify alternative work centers, but only when using job scheduling. In Microsoft Dynamics AX 2012, resources can be allocated to jobs and operations by matching the capabilities of the resources with the requirements of the operation.</p>
 <p>In Microsoft Dynamics AX 2012, alternative resources with the same capabilities are taken into consideration. This applies, regardless of whether you run job scheduling or operations scheduling. The selection process is the same, and consists of matching the requirements of the operation with the capabilities of the resources. Other constraints, such as location, resource working time, and resource type, are also considered when the production is planned.</p>
 <p>As a result, task groups have become obsolete in Microsoft Dynamics AX 20122, and they have been removed.</p>
-<p>More detailed information about the Operations Resource Model can be found in the white paper titled <a href="http://go.microsoft.com/fwlink/?linkid=213134%26clcid=0x409">Implementing the Operations Resource Model for Microsoft Dynamics AX 2012 applications</a>.</p></td>
+<p>More detailed information about the Operations Resource Model can be found in the white paper titled <a href="https://go.microsoft.com/fwlink/?linkid=213134%26clcid=0x409">Implementing the Operations Resource Model for Microsoft Dynamics AX 2012 applications</a>.</p></td>
 </tr>
 </tbody>
 </table>

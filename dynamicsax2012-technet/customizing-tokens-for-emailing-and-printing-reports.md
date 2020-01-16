@@ -22,7 +22,7 @@ Developers can also customize the functionality of the tokens used in the **Prin
 
 ## Customizing token functionality
 
-To customize the token functionality, use the [extension framework](http://blogs.msdn.com/b/ax_gfm_framework_team_blog/archive/2012/11/13/the-microsoft-dynamics-ax-2012-extension-framework-part-1.aspx) to create a class that extends the SRSPrintDestinationToken class.
+To customize the token functionality, use the [extension framework](https://blogs.msdn.com/b/ax_gfm_framework_team_blog/archive/2012/11/13/the-microsoft-dynamics-ax-2012-extension-framework-part-1.aspx) to create a class that extends the SRSPrintDestinationToken class.
 
 For example, the following class declaration uses the SrsPrintDestinationTokensExtAttribute to indicate a custom class type to the framework.
 

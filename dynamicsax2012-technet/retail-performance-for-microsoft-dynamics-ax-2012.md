@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 This paper provides an overview of a series of performance tests run by Microsoft to enable customers and partners to better size capacity for the infrastructure that they require for an implementation of the Microsoft Dynamics AX 2012 Retail module.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=298965)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=298965)
 
   
 

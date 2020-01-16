@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 This topic describes how to set up OLE for Point of Sale (OPOS) hardware devices for Microsoft Dynamics AX for Retail POS.
 
-For information about the devices that are supported by Retail POS, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377) for Microsoft Dynamics AX.
+For information about the devices that are supported by Retail POS, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377) for Microsoft Dynamics AX.
 
 1.  Install OPOS Common Control Objects, version 1.13, on the computer where you plan to use the device.
 
@@ -34,7 +34,7 @@ For information about the devices that are supported by Retail POS, see the [sys
     
 
     > [!IMPORTANT]
-    > <P>You must use the same device name that you specify in the hardware profile for the register. For more information, see the <A href="http://go.microsoft.com/fwlink/?linkid=237283">Implementation Guide for PCI Compliance</A>.</P>
+    > <P>You must use the same device name that you specify in the hardware profile for the register. For more information, see the <A href="https://go.microsoft.com/fwlink/?linkid=237283">Implementation Guide for PCI Compliance</A>.</P>
 
 
 

@@ -56,7 +56,7 @@ Want to try it out? You can download and run the app in demonstration mode, whic
 
 ## Downloads
 
-[Microsoft Dynamics AX Production Floor](http://apps.microsoft.com/windows/en-us/app/cc07f817-e74c-48aa-86ad-1c0345fff989) is available in the Windows Store.
+[Microsoft Dynamics AX Production Floor](https://apps.microsoft.com/windows/en-us/app/cc07f817-e74c-48aa-86ad-1c0345fff989) is available in the Windows Store.
 
 ## More information
 

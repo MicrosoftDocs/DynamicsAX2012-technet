@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 Microsoft Dynamics AX supports the use of .NET and X++ types as data contracts for service operation input and return parameters. This enables you to pass complex data types without having to explicitly implement XML serialization and deserialization. In this walkthrough, you will create a data contract class in X++ and use it as a return value and parameter in a service. You will create a service group and deploy the service on a basic inbound integration port.
 
-The X++ data contract attributes are resemble the data contract attributes for .NET types. For more information about data contracts in the .NET Framework, see [Using Data Contracts](http://go.microsoft.com/fwlink/?linkid=139795).
+The X++ data contract attributes are resemble the data contract attributes for .NET types. For more information about data contracts in the .NET Framework, see [Using Data Contracts](https://go.microsoft.com/fwlink/?linkid=139795).
 
 This walkthrough illustrates the following tasks:
 

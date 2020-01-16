@@ -80,7 +80,7 @@ To enable serial numbers for the sales process, follow these steps:
     > <P><STRONG>Picking</STRONG> – Capture the sales serial number when picking more than one serial number controlled item, using the mobile device.</P>
     > <LI>
     > <P><STRONG>Packing</STRONG> – Capture sales serial numbers when closing a container using the packing station.</P></LI></OL>
-    > <P>For more information on how to use these options, see the <A href="http://blogs.msdn.com/b/dynamicsaxscm/archive/2015/12/07/enable-picking-of-sales-serial-number-items-with-r3-warehouse-management-processes.aspx">Dynamics AX SCM R&amp;D Team blog</A></P>
+    > <P>For more information on how to use these options, see the <A href="https://blogs.msdn.com/b/dynamicsaxscm/archive/2015/12/07/enable-picking-of-sales-serial-number-items-with-r3-warehouse-management-processes.aspx">Dynamics AX SCM R&amp;D Team blog</A></P>
 
 
 

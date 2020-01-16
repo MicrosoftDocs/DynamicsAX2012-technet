@@ -57,15 +57,15 @@ To complete this walkthrough, you need the following prerequisites:
 2.  Copy the following XML into an empty Notepad document.
     
         <?xml version="1.0" encoding="utf-8"?>
-        <Envelope xmlns = "http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+        <Envelope xmlns = "https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
          <Header>
           <MessageId>{2983D78F-0011-47B7-8716-F8B64D120EF6}</MessageId>
-          <Action>http://schemas.microsoft.com/dynamics/2008/01/services/CustomerService/read</Action>
+          <Action>https://schemas.microsoft.com/dynamics/2008/01/services/CustomerService/read</Action>
          </Header>
          <Body>
           <MessageParts >
-           <EntityKeyList xmlns = "http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList">
-            <EntityKey xmlns = "http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
+           <EntityKeyList xmlns = "https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList">
+            <EntityKey xmlns = "https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
              <KeyData>
               <KeyField>
                <Field>AccountNum</Field>
@@ -87,17 +87,17 @@ To complete this walkthrough, you need the following prerequisites:
 The following example illustrates a read request for the customer who has entity key (AccountNum) of 4503.
 
     <?xml version="1.0" encoding="utf-8"?>
-    <Envelope xmlns = "http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+    <Envelope xmlns = "https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
      <Header>
       <MessageId>{2983D78F-0011-47B7-8716-F8B64D120EF6}</MessageId>
-      <Action>http://schemas.microsoft.com/dynamics/2008/01/services/CustomerService/read</Action>
+      <Action>https://schemas.microsoft.com/dynamics/2008/01/services/CustomerService/read</Action>
        <PartitionKey>MyPartition</PartitionKey>
        <Company>MyCompany</Company>
      </Header>
      <Body>
       <MessageParts >
-       <EntityKeyList xmlns = "http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList">
-        <EntityKey xmlns = "http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
+       <EntityKeyList xmlns = "https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList">
+        <EntityKey xmlns = "https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
          <KeyData>
           <KeyField>
            <Field>AccountNum</Field>
@@ -242,15 +242,15 @@ The following example shows an XML response file for a customer read request:
 
 ``` 
   <?xml version="1.0" encoding="UTF-8" ?> 
-- <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+- <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
 - <Header>
    <MessageId>{93FE7B5F-99E6-45D6-BAA5-654699EFF0EA}</MessageId> 
-   <Action>http://schemas.microsoft.com/dynamics/2008/01/services/CustomerService/read</Action> 
+   <Action>https://schemas.microsoft.com/dynamics/2008/01/services/CustomerService/read</Action> 
    <RequestMessageId>{E983D78F-0011-47B7-8716-F8B64D120EF6}</RequestMessageId> 
   </Header>
 - <Body>
-  - <MessageParts xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
-  - <Customer xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/Customer">
+  - <MessageParts xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+  - <Customer xmlns="https://schemas.microsoft.com/dynamics/2008/01/documents/Customer">
       <DocPurpose>Original</DocPurpose> 
       <SenderId>DMO</SenderId> 
       <ValidAsOfDateTime>2012-04-19T19:42:40Z</ValidAsOfDateTime> 
