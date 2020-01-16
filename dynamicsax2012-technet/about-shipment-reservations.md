@@ -2,8 +2,9 @@
 title: About shipment reservations
 TOCTitle: Shipment reservation
 ms:assetid: bde61f31-99d8-4e86-964f-f0f9b156a645
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213622(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213622(v=AX.60)
 ms:contentKeyID: 39519297
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -130,7 +131,7 @@ The **Shipment reservation combinations** form, the **Shipment reservation seque
 
 ## Batch shipment reservations
 
-You can run several shipment reservations at the same time. You can do this when you run the shipment reservation batch job from **Periodic** \> **Shipment reservation** \> **Shipment reservation**. For more information, see [Shipment reservation (class form)](https://technet.microsoft.com/en-us/library/hh209536\(v=ax.60\)).
+You can run several shipment reservations at the same time. You can do this when you run the shipment reservation batch job from **Periodic** \> **Shipment reservation** \> **Shipment reservation**. For more information, see [Shipment reservation (class form)](https://technet.microsoft.com/library/hh209536\(v=ax.60\)).
 
 ## Running the reservation again
 
@@ -144,7 +145,7 @@ If all items have not been reserved, the shipment reservation process allows the
 
 ## See also
 
-[Shipment reservation (class form)](https://technet.microsoft.com/en-us/library/hh209536\(v=ax.60\))
+[Shipment reservation (class form)](https://technet.microsoft.com/library/hh209536\(v=ax.60\))
 
   
 

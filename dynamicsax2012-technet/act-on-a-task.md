@@ -2,8 +2,9 @@
 title: Act on a task
 TOCTitle: Act on a task
 ms:assetid: 50b8ef5a-13f2-4c51-a46c-c2c1f4499b23
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212774(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212774(v=AX.60)
 ms:contentKeyID: 35949293
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -78,7 +79,7 @@ Follow these steps to act on a task that is assigned to you.
     <tr class="odd">
     <td><p><strong>View history</strong></p></td>
     <td><p>View the workflow status and history of the document.</p>
-    <p>The <strong>Workflow history</strong> form is displayed. For more information about this form, see <a href="https://technet.microsoft.com/en-us/library/hh597256(v=ax.60)">Workflow history (form)</a>.</p></td>
+    <p>The <strong>Workflow history</strong> form is displayed. For more information about this form, see <a href="https://technet.microsoft.com/library/hh597256(v=ax.60)">Workflow history (form)</a>.</p></td>
     </tr>
     </tbody>
     </table>

@@ -2,8 +2,9 @@
 title: About viewing and evaluating results
 TOCTitle: About viewing and evaluating results
 ms:assetid: cb8de61c-071d-4325-8bf2-194266fe4a94
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692490(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692490(v=AX.60)
 ms:contentKeyID: 41702389
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,26 +47,26 @@ Refer to the following table to find details about each option for viewing resul
 <td><p>Completed answer sessions</p></td>
 <td><p>Click <strong>Home</strong> &gt; <strong>Inquiries</strong> &gt; <strong>Questionnaires</strong> &gt; <strong>Answers</strong> &gt; <strong>Answers</strong>.</p></td>
 <td><p><a href="about-answer-session-results.md">About answer session results</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa557954(v=ax.60)">Answers (form)</a></p></td>
+<p><a href="https://technet.microsoft.com/library/aa557954(v=ax.60)">Answers (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Result groups for a single answer session</p></td>
 <td><p>Click <strong>Home</strong> &gt; <strong>Inquiries</strong> &gt; <strong>Questionnaires</strong> &gt; <strong>Answers</strong> &gt; <strong>Answers</strong>. Click <strong>Group results</strong>.</p>
 <p>Click <strong>Home</strong> &gt; <strong>Inquiries</strong> &gt; <strong>Questionnaires</strong> &gt; <strong>Answers</strong> &gt; <strong>Answers</strong>. Click <strong>Reports</strong> &gt; <strong>Results report</strong>.</p></td>
 <td><p><a href="about-answer-session-results.md">About answer session results</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa554623(v=ax.60)">Group results (form)</a></p></td>
+<p><a href="https://technet.microsoft.com/library/aa554623(v=ax.60)">Group results (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Result groups for all answer sessions on a questionnaire</p></td>
 <td><p>Click <strong>Home</strong> &gt; <strong>Inquiries</strong> &gt; <strong>Questionnaires</strong> &gt; <strong>Answers</strong> &gt; <strong>Questionnaire</strong>. Select a questionnaire, and then click <strong>Group results</strong>.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa554623(v=ax.60)">Group results (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa554623(v=ax.60)">Group results (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Questionnaire statistics</p></td>
 <td><p>Click <strong>Home</strong> &gt; <strong>Inquiries</strong> &gt; <strong>Questionnaires</strong> &gt; <strong>Questionnaire statistics</strong>.</p></td>
 <td><p><a href="about-questionnaire-statistics.md">About questionnaire statistics</a></p>
 <p><a href="calculate-statistics-for-a-questionnaire.md">Calculate statistics for a questionnaire</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa554500(v=ax.60)">Questionnaire statistics (form)</a></p></td>
+<p><a href="https://technet.microsoft.com/library/aa554500(v=ax.60)">Questionnaire statistics (form)</a></p></td>
 </tr>
 </tbody>
 </table>

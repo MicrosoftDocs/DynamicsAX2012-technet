@@ -2,8 +2,9 @@
 title: Add batch attribute values to an inventory batch for potency items
 TOCTitle: Add batch attribute values to an inventory batch for potency items
 ms:assetid: c4631261-6544-4d85-b86c-6147b77223e6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838748(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838748(v=AX.60)
 ms:contentKeyID: 50120631
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use this procedure to add batch attribute values to the inventory batch for an item. You can either add all the batch attributes values for the item or add a subset of those values. For more information, see [(PM) Batches (form)](https://technet.microsoft.com/en-us/library/hh209252\(v=ax.60\)).
+Use this procedure to add batch attribute values to the inventory batch for an item. You can either add all the batch attributes values for the item or add a subset of those values. For more information, see [(PM) Batches (form)](https://technet.microsoft.com/library/hh209252\(v=ax.60\)).
 
 1.  Click **Inventory management** \> **Inquiries** \> **Dimensions** \> **Batches**.
 
@@ -39,7 +40,7 @@ Use this procedure to add batch attribute values to the inventory batch for an i
 
 ## See also
 
-[Inventory batch attributes (form)](https://technet.microsoft.com/en-us/library/hh209284\(v=ax.60\))
+[Inventory batch attributes (form)](https://technet.microsoft.com/library/hh209284\(v=ax.60\))
 
   
 

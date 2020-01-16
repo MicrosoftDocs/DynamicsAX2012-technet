@@ -2,8 +2,9 @@
 title: Add values to an enumerate type batch attribute
 TOCTitle: Add values to an enumerate type batch attribute
 ms:assetid: ed57628a-5194-457e-9da1-f239d1bfcbcc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227500(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227500(v=AX.60)
 ms:contentKeyID: 36059904
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,9 +40,9 @@ Use this procedure to add values to an enumerate type batch attribute. Enumerate
 
 [About batch attributes](about-batch-attributes.md)
 
-[Attribute enumerate values (form)](https://technet.microsoft.com/en-us/library/hh208618\(v=ax.60\))
+[Attribute enumerate values (form)](https://technet.microsoft.com/library/hh208618\(v=ax.60\))
 
-[Batch attributes (form)](https://technet.microsoft.com/en-us/library/hh209255\(v=ax.60\))
+[Batch attributes (form)](https://technet.microsoft.com/library/hh209255\(v=ax.60\))
 
   
 

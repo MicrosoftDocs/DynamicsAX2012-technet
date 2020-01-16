@@ -2,8 +2,9 @@
 title: Accounts receivable roadmap
 TOCTitle: Accounts receivable roadmap
 ms:assetid: 1130b4cd-4b83-4d16-bf79-87d35c390f5d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn800884(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn800884(v=AX.60)
 ms:contentKeyID: 62839681
+author: Khairunj
 ms.date: 09/03/2014
 mtps_version: v=AX.60
 audience: Application User

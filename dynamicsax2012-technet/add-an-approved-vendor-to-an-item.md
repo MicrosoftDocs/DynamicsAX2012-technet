@@ -2,8 +2,9 @@
 title: Add an approved vendor to an item
 TOCTitle: Add an approved vendor to an item
 ms:assetid: 9cdcafcd-2f2d-4406-8d1c-d10c346186e8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352309(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352309(v=AX.60)
 ms:contentKeyID: 36687938
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,9 +68,9 @@ Use this procedure to add a vendor to the Approved vendor list for an item. You 
 
 ## See also
 
-[Approved vendor list (form)](https://technet.microsoft.com/en-us/library/hh328745\(v=ax.60\))
+[Approved vendor list (form)](https://technet.microsoft.com/library/hh328745\(v=ax.60\))
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
   
 

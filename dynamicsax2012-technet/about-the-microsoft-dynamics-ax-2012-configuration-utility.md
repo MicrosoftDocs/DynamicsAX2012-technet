@@ -2,8 +2,9 @@
 title: About the Microsoft Dynamics AX 2012 Configuration utility
 TOCTitle: About the Microsoft Dynamics AX 2012 Configuration utility
 ms:assetid: 71ed1cd3-6473-4bbe-8f6d-ef792f0dfe6c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309711(v=AX.60)
 ms:contentKeyID: 37820247
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -35,9 +36,9 @@ For large-scale deployments, we recommend that you deploy the utility on a netwo
 
 [Manage a client configuration](manage-a-client-configuration.md)
 
-[Microsoft Dynamics AX 2012 Configuration (form)](https://technet.microsoft.com/en-us/library/aa569644\(v=ax.60\))
+[Microsoft Dynamics AX 2012 Configuration (form)](https://technet.microsoft.com/library/aa569644\(v=ax.60\))
 
-[Microsoft Dynamics AX 2012 Server Configuration (form)](https://technet.microsoft.com/en-us/library/aa569635\(v=ax.60\))
+[Microsoft Dynamics AX 2012 Server Configuration (form)](https://technet.microsoft.com/library/aa569635\(v=ax.60\))
 
 [Client configuration commands](client-configuration-commands.md)
 

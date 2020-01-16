@@ -2,8 +2,9 @@
 title: About WIP subscription accounts
 TOCTitle: About WIP subscription accounts
 ms:assetid: 5a19469d-e7ac-43c6-b84c-2a6f037e7623
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549078(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549078(v=AX.60)
 ms:contentKeyID: 36057351
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -110,7 +111,7 @@ Subscription group - Accrued revenue for subscriptions can only be posted if the
 
 [About work in process (WIP) calculation](about-work-in-process-wip-calculation.md)
 
-[Line properties (form)](https://technet.microsoft.com/en-us/library/aa590082\(v=ax.60\))
+[Line properties (form)](https://technet.microsoft.com/library/aa590082\(v=ax.60\))
 
   
 

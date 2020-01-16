@@ -2,8 +2,9 @@
 title: About the Marginal base field
 TOCTitle: About the Marginal base field
 ms:assetid: 57ba4f23-6fea-41dc-a0b9-9affd1873fb2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549061(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549061(v=AX.60)
 ms:contentKeyID: 36057334
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

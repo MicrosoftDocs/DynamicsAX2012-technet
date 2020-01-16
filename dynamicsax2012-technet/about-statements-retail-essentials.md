@@ -2,8 +2,9 @@
 title: About statements (Retail essentials)
 TOCTitle: About statements (Retail essentials)
 ms:assetid: 7cb97e26-2cdb-43c1-ba3f-101df9e56636
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736905(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736905(v=AX.60)
 ms:contentKeyID: 62200382
+author: Khairunj
 ms.date: 04/22/2015
 mtps_version: v=AX.60
 ---
@@ -82,7 +83,7 @@ If the same store is configured with the **Post as business day** check box clea
 
 [View posted statements (Retail essentials)](view-posted-statements-retail-essentials.md)
 
-[Stores (form)](https://technet.microsoft.com/en-us/library/hh580646\(v=ax.60\))
+[Stores (form)](https://technet.microsoft.com/library/hh580646\(v=ax.60\))
 
   
 

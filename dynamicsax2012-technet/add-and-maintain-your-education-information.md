@@ -2,8 +2,9 @@
 title: Add and maintain your education information
 TOCTitle: Add and maintain your education information
 ms:assetid: de59d23f-1506-441e-81ed-20922ab12981
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271675(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271675(v=AX.60)
 ms:contentKeyID: 36384306
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

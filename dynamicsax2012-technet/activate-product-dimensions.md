@@ -2,8 +2,9 @@
 title: Activate product dimensions
 TOCTitle: Activate product dimensions
 ms:assetid: 0a6e356f-8fa1-4652-a76c-71202b5fd79e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569738(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569738(v=AX.60)
 ms:contentKeyID: 36055984
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ Product dimensions are not activated by default when Microsoft Dynamics AX is in
 
 ## See also
 
-[License configuration (form)](https://technet.microsoft.com/en-us/library/aa499446\(v=ax.60\))
+[License configuration (form)](https://technet.microsoft.com/library/aa499446\(v=ax.60\))
 
   
 

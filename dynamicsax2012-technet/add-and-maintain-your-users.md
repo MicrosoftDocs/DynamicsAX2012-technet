@@ -2,8 +2,9 @@
 title: Add and maintain your users
 TOCTitle: Add and maintain your users
 ms:assetid: 6912e764-5d73-4883-a2b5-507e944f1d7c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271551(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271551(v=AX.60)
 ms:contentKeyID: 36384183
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: AccentColor.Color Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Color Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.AccentColor.Color
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.accentcolor.color(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.accentcolor.color(v=AX.60)
 ms:contentKeyID: 62212898
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,8 +58,8 @@ property int Color {
 
 #### Property Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
-Returns [Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\)).  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
+Returns [Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\)).  
 
 ## See Also
 

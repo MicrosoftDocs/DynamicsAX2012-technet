@@ -2,8 +2,9 @@
 title: Accounts receivable cube (CustCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Accounts receivable cube (CustCube)
 ms:assetid: 8243581b-7aea-4b7c-be3d-d86f94ab7e84
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781073(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781073(v=AX.60)
 ms:contentKeyID: 43894472
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

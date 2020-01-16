@@ -2,8 +2,9 @@
 title: About standard cost conversion
 TOCTitle: About standard cost conversion
 ms:assetid: 3f2f555d-7d73-434e-b491-a697c815bf05
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231170(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231170(v=AX.60)
 ms:contentKeyID: 36056702
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ Any transactions that occur after the conversion are valued at the item's standa
 
 [About common issues related to standard cost conversion checks](about-common-issues-related-to-standard-cost-conversion-checks.md)
 
-[Standard cost conversion (form)](https://technet.microsoft.com/en-us/library/hh208816\(v=ax.60\))
+[Standard cost conversion (form)](https://technet.microsoft.com/library/hh208816\(v=ax.60\))
 
 [About inventory close](about-inventory-close.md)
 

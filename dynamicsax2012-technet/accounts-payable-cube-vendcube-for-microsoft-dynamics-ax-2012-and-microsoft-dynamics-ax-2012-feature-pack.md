@@ -2,8 +2,9 @@
 title: Accounts payable cube (VendCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Accounts payable cube (VendCube)
 ms:assetid: 7164f3e2-1d2b-4637-94df-ea90495059f9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781071(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781071(v=AX.60)
 ms:contentKeyID: 43894470
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: About WIP production accounts
 TOCTitle: About WIP production accounts
 ms:assetid: 6f933708-e8d2-4f47-999e-e519dc620807
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571295(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571295(v=AX.60)
 ms:contentKeyID: 36058048
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -117,7 +118,7 @@ The following table describes the effects that particular actions have on fixed-
 
 [About work in process (WIP) calculation](about-work-in-process-wip-calculation.md)
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
   
 

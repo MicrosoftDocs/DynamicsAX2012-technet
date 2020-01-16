@@ -2,8 +2,9 @@
 title: About WIP cost value item accounts
 TOCTitle: About WIP cost value item accounts
 ms:assetid: be16ac73-105c-4bfe-a35a-6b5c134035ae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498877(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498877(v=AX.60)
 ms:contentKeyID: 36059164
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -137,9 +138,9 @@ In the **Project groups** from, on the **Ledger** tab, for time and material pro
 
 [About work in process (WIP) calculation](about-work-in-process-wip-calculation.md)
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
-[Line properties (form)](https://technet.microsoft.com/en-us/library/aa590082\(v=ax.60\))
+[Line properties (form)](https://technet.microsoft.com/library/aa590082\(v=ax.60\))
 
   
 

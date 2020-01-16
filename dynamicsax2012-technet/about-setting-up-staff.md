@@ -2,8 +2,9 @@
 title: About setting up staff
 TOCTitle: About setting up staff
 ms:assetid: 5bc9dc51-4246-4a99-8dd4-815849b5a63f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597104(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597104(v=AX.60)
 ms:contentKeyID: 39519152
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

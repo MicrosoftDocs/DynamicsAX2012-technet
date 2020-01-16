@@ -2,8 +2,9 @@
 title: Access alerts
 TOCTitle: Access alerts
 ms:assetid: 159563f5-adb4-46b0-bd9f-decfb679c78d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569882(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569882(v=AX.60)
 ms:contentKeyID: 46687538
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

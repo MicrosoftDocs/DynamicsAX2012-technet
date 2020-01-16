@@ -2,8 +2,9 @@
 title: About subscriptions and accrued revenue
 TOCTitle: About subscriptions and accrued revenue
 ms:assetid: b2afed31-0cbc-4d6d-8ac3-e31030ee95a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571880(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571880(v=AX.60)
 ms:contentKeyID: 42117771
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ If you reverse an accrued transaction, the **Accrued revenue - subscription** ac
 
 [About accrued revenue](about-accrued-revenue.md)
 
-[Subscription groups (form)](https://technet.microsoft.com/en-us/library/aa553150\(v=ax.60\))
+[Subscription groups (form)](https://technet.microsoft.com/library/aa553150\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: About vendor payment retention for projects
 TOCTitle: About vendor payment retention for projects
 ms:assetid: 75a23667-5997-4c42-90d9-315ec29e6943
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209239(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209239(v=AX.60)
 ms:contentKeyID: 36058172
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -26,11 +27,11 @@ When you negotiate purchases for projects with vendors, you can specify the vend
 
 Before you can set up retention terms for a project, you must complete the following prerequisites:
 
-  - Set up a number sequence to generate the retention term identification number automatically when you create vendor retention terms and documents. For more information about how to set up numbering sequences, see [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\)).
+  - Set up a number sequence to generate the retention term identification number automatically when you create vendor retention terms and documents. For more information about how to set up numbering sequences, see [Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\)).
 
-  - Select general ledger accounts for vendor retention transactions. For more information, see [Accounts for automatic transactions (form)](https://technet.microsoft.com/en-us/library/aa548973\(v=ax.60\)).
+  - Select general ledger accounts for vendor retention transactions. For more information, see [Accounts for automatic transactions (form)](https://technet.microsoft.com/library/aa548973\(v=ax.60\)).
 
-  - Set up one or more vendor retention terms, which you use to define the thresholds for retaining vendor payments and releasing the payments. For more information, see [Vendor retention terms (form)](https://technet.microsoft.com/en-us/library/hh227442\(v=ax.60\)).
+  - Set up one or more vendor retention terms, which you use to define the thresholds for retaining vendor payments and releasing the payments. For more information, see [Vendor retention terms (form)](https://technet.microsoft.com/library/hh227442\(v=ax.60\)).
 
 ## Example
 
@@ -113,11 +114,11 @@ The total amount that is paid to the vendor after the three phases are completed
 
 ## See also
 
-[Vendor invoices with retention (form)](https://technet.microsoft.com/en-us/library/hh209594\(v=ax.60\))
+[Vendor invoices with retention (form)](https://technet.microsoft.com/library/hh209594\(v=ax.60\))
 
-[Vendor retention terms (form)](https://technet.microsoft.com/en-us/library/hh227442\(v=ax.60\))
+[Vendor retention terms (form)](https://technet.microsoft.com/library/hh227442\(v=ax.60\))
 
-[Inquiry for vendor retained payments (form)](https://technet.microsoft.com/en-us/library/hh209466\(v=ax.60\))
+[Inquiry for vendor retained payments (form)](https://technet.microsoft.com/library/hh209466\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Accrue subscription revenue
 TOCTitle: Accrue subscription revenue
 ms:assetid: e9f2fa26-6774-4d2f-bc92-06a88b34e4c2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551481(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551481(v=AX.60)
 ms:contentKeyID: 36688039
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

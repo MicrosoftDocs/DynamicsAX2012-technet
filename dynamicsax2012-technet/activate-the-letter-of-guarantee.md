@@ -2,8 +2,9 @@
 title: Activate the letter of guarantee
 TOCTitle: Activate the letter of guarantee
 ms:assetid: 6f89746d-d160-4d59-a033-22b8524dfbf9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242644(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242644(v=AX.60)
 ms:contentKeyID: 36058046
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,11 +35,11 @@ Before you use the **Cash and bank management parameters** form to activate the 
 
 ## See also
 
-[General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\))
+[General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\))
 
 [Create facility agreements for the letter of guarantee](create-facility-agreements-for-the-letter-of-guarantee.md)
 
-[Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
+[Letter of guarantee (form)](https://technet.microsoft.com/library/hh227662\(v=ax.60\))
 
 [Set up letter of guarantee cancellation reasons and purpose code types](set-up-letter-of-guarantee-cancellation-reasons-and-purpose-code-types.md)
 

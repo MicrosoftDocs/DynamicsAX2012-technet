@@ -2,8 +2,9 @@
 title: Add co-products or by-products to a batch order
 TOCTitle: Add co-products or by-products to a batch order
 ms:assetid: 23d83378-020d-4c7a-827d-bb4f9221b2b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352188(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352188(v=AX.60)
 ms:contentKeyID: 36687821
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -66,13 +67,13 @@ When the status of a batch order is **Created**, you can add a new co-product or
 
 ## See also
 
-[Batch order (form)](https://technet.microsoft.com/en-us/library/hh352323\(v=ax.60\))
+[Batch order (form)](https://technet.microsoft.com/library/hh352323\(v=ax.60\))
 
-[Co-products (form)](https://technet.microsoft.com/en-us/library/hh328754\(v=ax.60\))
+[Co-products (form)](https://technet.microsoft.com/library/hh328754\(v=ax.60\))
 
-[Co/By products - batch (form)](https://technet.microsoft.com/en-us/library/hh328643\(v=ax.60\))
+[Co/By products - batch (form)](https://technet.microsoft.com/library/hh328643\(v=ax.60\))
 
-[Report as finished-batch orders (form)](https://technet.microsoft.com/en-us/library/hh328602\(v=ax.60\))
+[Report as finished-batch orders (form)](https://technet.microsoft.com/library/hh328602\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: About setting up retail product kits
 TOCTitle: About setting up retail product kits
 ms:assetid: eb6760b0-b239-4b92-8dba-28650a5d64d0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497848(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497848(v=AX.60)
 ms:contentKeyID: 62200180
+author: Khairunj
 ms.date: 10/27/2014
 mtps_version: v=AX.60
 audience: Application User

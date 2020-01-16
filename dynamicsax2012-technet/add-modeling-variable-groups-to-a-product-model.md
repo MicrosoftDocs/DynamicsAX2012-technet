@@ -2,8 +2,9 @@
 title: Add modeling variable groups to a product model
 TOCTitle: Add modeling variable groups to a product model
 ms:assetid: eadd0a12-a188-46e2-baa5-26727007030e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551498(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551498(v=AX.60)
 ms:contentKeyID: 36059862
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,7 +58,7 @@ The variable groups can be grouped, that is, arranged in a hierarchy of groups a
 
 ## See also
 
-[Product models (form)](https://technet.microsoft.com/en-us/library/aa572853\(v=ax.60\))
+[Product models (form)](https://technet.microsoft.com/library/aa572853\(v=ax.60\))
 
   
 

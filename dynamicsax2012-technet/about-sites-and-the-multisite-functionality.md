@@ -2,8 +2,9 @@
 title: About sites and the multisite functionality
 TOCTitle: About sites and the multisite functionality
 ms:assetid: 8d3787c1-dd47-4e73-99ef-efd3f457963c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309972(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309972(v=AX.60)
 ms:contentKeyID: 36058491
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ A customer must analyze its business requirements and determine how best to use 
 
 ## See also
 
-[Sites (form)](https://technet.microsoft.com/en-us/library/hh242661\(v=ax.60\))
+[Sites (form)](https://technet.microsoft.com/library/hh242661\(v=ax.60\))
 
 [Create sites](create-sites.md)
 

@@ -2,8 +2,9 @@
 title: Accountant operational efficiency report (AccountantOperationalEfficiency)
 TOCTitle: Accountant operational efficiency report (AccountantOperationalEfficiency)
 ms:assetid: fb442823-fc69-4419-984a-c98665d54a6e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692486(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692486(v=AX.60)
 ms:contentKeyID: 41702383
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

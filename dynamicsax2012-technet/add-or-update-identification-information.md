@@ -2,8 +2,9 @@
 title: Add or update identification information
 TOCTitle: Add or update identification information
 ms:assetid: 71bd6f16-e2b1-4011-88c8-a4f931124a12
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271561(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271561(v=AX.60)
 ms:contentKeyID: 36384192
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Accounts payable roadmap
 TOCTitle: Accounts payable roadmap
 ms:assetid: fa8ccd58-f93d-4aaa-8336-8cda2ef54d38
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn800886(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn800886(v=AX.60)
 ms:contentKeyID: 62839682
+author: Khairunj
 ms.date: 09/03/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: About utilization rates
 TOCTitle: About utilization rates
 ms:assetid: 03398403-c17d-4c73-9be9-d768cec71c4e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230654(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230654(v=AX.60)
 ms:contentKeyID: 42117747
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,9 +56,9 @@ When you calculate the utilization rate for a worker, you can use norm hours or 
 
 ## See also
 
-[Utilization hours (form)](https://technet.microsoft.com/en-us/library/hh208657\(v=ax.60\))
+[Utilization hours (form)](https://technet.microsoft.com/library/hh208657\(v=ax.60\))
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
   
 

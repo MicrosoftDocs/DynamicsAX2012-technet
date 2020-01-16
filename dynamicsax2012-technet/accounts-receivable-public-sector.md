@@ -2,8 +2,9 @@
 title: Accounts receivable (Public sector)
 TOCTitle: Accounts receivable (Public sector)
 ms:assetid: 07463534-18bf-4f7f-9aaa-d8025c690bab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208499(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208499(v=AX.60)
 ms:contentKeyID: 36056237
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

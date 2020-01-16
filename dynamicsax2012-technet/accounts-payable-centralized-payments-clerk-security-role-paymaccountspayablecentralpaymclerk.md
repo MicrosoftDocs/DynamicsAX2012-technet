@@ -2,8 +2,9 @@
 title: Accounts payable centralized payments clerk security role (PaymAccountsPayableCentralPaymClerk)
 TOCTitle: Accounts payable centralized payments clerk security role (PaymAccountsPayableCentralPaymClerk)
 ms:assetid: 00463961-ef0c-4246-a000-367614f2e531
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh544035(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh544035(v=AX.60)
 ms:contentKeyID: 37823116
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

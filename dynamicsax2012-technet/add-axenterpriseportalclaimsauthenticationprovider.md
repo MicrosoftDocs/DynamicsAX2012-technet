@@ -1,9 +1,10 @@
-﻿---
+---
 title: Add-AXEnterprisePortalClaimsAuthenticationProvider
 TOCTitle: Add-AXEnterprisePortalClaimsAuthenticationProvider
 ms:assetid: 93AEDF6E-7DA8-4FB5-89C3-8BCBA3B92916
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720269(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720269(v=AX.60)
 ms:contentKeyID: 49720058
+author: Khairunj
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Accounts receivable payments clerk security role (PaymAccountsReceivablePaymentsClerk)
 TOCTitle: Accounts receivable payments clerk security role (PaymAccountsReceivablePaymentsClerk)
 ms:assetid: 50a89a84-5af5-4552-b6d1-895892a0ec1d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527089(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527089(v=AX.60)
 ms:contentKeyID: 37823141
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

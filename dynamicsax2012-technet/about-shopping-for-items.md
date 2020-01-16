@@ -2,8 +2,9 @@
 title: About shopping for items
 TOCTitle: About shopping for items
 ms:assetid: 354850d3-13b2-411d-809b-aa1fd52278d3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271494(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271494(v=AX.60)
 ms:contentKeyID: 36384126
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

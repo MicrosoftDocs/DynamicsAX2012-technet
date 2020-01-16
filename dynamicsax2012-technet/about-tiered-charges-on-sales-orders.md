@@ -2,8 +2,9 @@
 title: About tiered charges on sales orders
 TOCTitle: About tiered charges on sales orders
 ms:assetid: ddd5b0f9-a958-4ed5-9c39-257291827cd3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683231(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ683231(v=AX.60)
 ms:contentKeyID: 49684855
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -56,9 +57,9 @@ You can use the **From amount** and **To amount** fields in the **Auto charges**
 
 ## See also
 
-[Auto charges (form)](https://technet.microsoft.com/en-us/library/aa582856\(v=ax.60\))
+[Auto charges (form)](https://technet.microsoft.com/library/aa582856\(v=ax.60\))
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
   
 

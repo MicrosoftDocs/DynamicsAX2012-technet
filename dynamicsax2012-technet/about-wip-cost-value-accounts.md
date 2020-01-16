@@ -2,8 +2,9 @@
 title: About WIP cost value accounts
 TOCTitle: About WIP cost value accounts
 ms:assetid: d3be32e9-05d1-46cb-b897-77c8bed00b95
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551083(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551083(v=AX.60)
 ms:contentKeyID: 36059514
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -135,7 +136,7 @@ In the **Project groups** form, on the **Journalizing** FastTab, select **Balanc
 
 [About work in process (WIP) calculation](about-work-in-process-wip-calculation.md)
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
   
 

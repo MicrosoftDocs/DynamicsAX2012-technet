@@ -2,8 +2,9 @@
 title: About the production process
 TOCTitle: About the production process
 ms:assetid: a3144f75-3c8f-4cb2-a495-f7a1eee87d9c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571840(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571840(v=AX.60)
 ms:contentKeyID: 37822153
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

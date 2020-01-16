@@ -2,8 +2,9 @@
 title: Add details to a case
 TOCTitle: Add details to a case
 ms:assetid: ed8a7326-8378-4270-bccc-35d38b1b9355
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227501(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227501(v=AX.60)
 ms:contentKeyID: 36059905
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

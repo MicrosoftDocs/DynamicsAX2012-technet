@@ -2,8 +2,9 @@
 title: Add a route operation to a component
 TOCTitle: Add a route operation to a component
 ms:assetid: 314f278a-ca65-4c0b-8008-16e5ff1e3bc4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580601(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580601(v=AX.60)
 ms:contentKeyID: 39519087
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

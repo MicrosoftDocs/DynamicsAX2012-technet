@@ -2,8 +2,9 @@
 title: Actual versus budget report (BudgetBalancesActuals)
 TOCTitle: Actual versus budget report (BudgetBalancesActuals)
 ms:assetid: 686cc36f-6fed-40c6-b1e2-99efb17d9713
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335154(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335154(v=AX.60)
 ms:contentKeyID: 36687366
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,17 +43,17 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Financial dimension set</strong></p></td>
 <td><p>Select a financial dimension set for the report. These were defined in the <strong>Financial dimension sets</strong> form. A financial dimension set is a named group of accounts or dimensions that contains either account values for the account or dimension values for a single dimension. Examples include main accounts, departments, and cost centers, or combinations such as a cost center and main account, or a department and cost center.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa597282(v=ax.60)">Financial dimension sets (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa597282(v=ax.60)">Financial dimension sets (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Budget model</strong></p></td>
 <td><p>Select a budget model. If you leave this field blank, all budget models will be included on the report.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa586905(v=ax.60)">Budget model (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa586905(v=ax.60)">Budget model (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Posting layer</strong></p></td>
 <td><p>Select the ledger classification for the actual balances: <strong>Current</strong>, <strong>Operations</strong>, or <strong>Tax</strong>.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa575927(v=ax.60)">Posting layer</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa575927(v=ax.60)">Posting layer</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>From date</strong></p></td>
@@ -83,8 +84,8 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Budget register entry status</strong></p></td>
 <td><p>The status, <strong>Completed</strong> or <strong>Draft</strong>, of the budget register entries that will be included on the report.</p>
-<p>The default status is <strong>Completed</strong>. Click <strong>Select</strong> to open an inquiry form to change the value. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa575929(v=ax.60)">Inquiry (form)</a>.</p>
-<p>For more information about the status types, see <a href="https://technet.microsoft.com/en-us/library/hh227354(v=ax.60)">Budget registry entry (form)</a>.</p></td>
+<p>The default status is <strong>Completed</strong>. Click <strong>Select</strong> to open an inquiry form to change the value. For more information, see <a href="https://technet.microsoft.com/library/aa575929(v=ax.60)">Inquiry (form)</a>.</p>
+<p>For more information about the status types, see <a href="https://technet.microsoft.com/library/hh227354(v=ax.60)">Budget registry entry (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Date</strong> (<strong>Budget account entries</strong>)</p></td>
