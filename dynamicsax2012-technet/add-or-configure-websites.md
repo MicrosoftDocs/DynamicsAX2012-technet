@@ -56,9 +56,9 @@ After you have added a website, you can select the website when you configure an
 
 [Install web services on IIS](install-web-services-on-iis.md)
 
-[Create a Virtual Directory (IIS 7)](http://go.microsoft.com/fwlink/?linkid=230439)
+[Create a Virtual Directory (IIS 7)](https://go.microsoft.com/fwlink/?linkid=230439)
 
-[Understanding Sites, Applications, and Virtual Directories on IIS 7](http://go.microsoft.com/fwlink/?linkid=230441)
+[Understanding Sites, Applications, and Virtual Directories on IIS 7](https://go.microsoft.com/fwlink/?linkid=230441)
 
 [Walkthrough: Exchanging documents by using the HTTP adapter](walkthrough-exchanging-documents-by-using-the-http-adapter.md)
 

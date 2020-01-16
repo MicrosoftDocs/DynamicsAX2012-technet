@@ -26,7 +26,7 @@ This topic describes how to install an Application Object Server (AOS) instance 
 
   - On the computer where you will install the AOS instance, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
     
 
     > [!NOTE]
@@ -131,7 +131,7 @@ By default, if a Windows service takes longer than 30 seconds to start, the syst
 
 
 > [!WARNING]
-> <P>This section describes how to modify the registry so that the AOS Windows service has enough time to start before Windows displays an error message. Be aware that serious problems can occur if you modify the registry incorrectly. We recommend that you back up the registry before you modify it. If a problem occurs, you can restore it. For more information about how to back up and restore the registry, see <A href="http://go.microsoft.com/fwlink/?linkid=214428">Backup and recovery</A>.</P>
+> <P>This section describes how to modify the registry so that the AOS Windows service has enough time to start before Windows displays an error message. Be aware that serious problems can occur if you modify the registry incorrectly. We recommend that you back up the registry before you modify it. If a problem occurs, you can restore it. For more information about how to back up and restore the registry, see <A href="https://go.microsoft.com/fwlink/?linkid=214428">Backup and recovery</A>.</P>
 
 
 

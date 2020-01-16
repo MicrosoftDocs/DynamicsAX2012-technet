@@ -176,9 +176,9 @@ To search for a vendor, follow these steps:
 
 ## Related tasks
 
-[Vendor evaluation criterion group (form)](http://technet.microsoft.com/en-us/library/hh242894.aspx)
+[Vendor evaluation criterion group (form)](https://technet.microsoft.com/library/hh242894.aspx)
 
-[Vendor evaluation criteria (form)](http://technet.microsoft.com/en-us/library/hh209715.aspx)
+[Vendor evaluation criteria (form)](https://technet.microsoft.com/library/hh209715.aspx)
 
 ## See also
 

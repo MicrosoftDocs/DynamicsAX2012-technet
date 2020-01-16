@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 When a cube is processed, the data in the cube is updated with data from the online transaction processing (OLTP) database. Microsoft SQL Server Analysis Services provides several options that you can use to process cubes. This topic provides a high-level overview of some of the options that are available to automate the processing of cubes. This topic also includes information about how to manually process cubes.
 
-For more information about the processing options that are available, see the [SQL Server documentation](http://technet.microsoft.com/en-us/library/ms174860\(v=sql.105\).aspx).
+For more information about the processing options that are available, see the [SQL Server documentation](https://technet.microsoft.com/library/ms174860\(v=sql.105\).aspx).
 
 ## Automated processing
 
@@ -24,11 +24,11 @@ The following tools are available to help you automate the processing of cubes:
 
   - **SQL Server Agent**
     
-    SQL Server Agent is a Windows service that runs scheduled administrative tasks, or *jobs*. For example, you can create a job that processes a cube and then performs a backup of the cube. For more information, see [Automating Administrative Tasks (SQL Server Agent)](http://technet.microsoft.com/en-us/library/ms187061\(sql.105\).aspx).
+    SQL Server Agent is a Windows service that runs scheduled administrative tasks, or *jobs*. For example, you can create a job that processes a cube and then performs a backup of the cube. For more information, see [Automating Administrative Tasks (SQL Server Agent)](https://technet.microsoft.com/library/ms187061\(sql.105\).aspx).
 
   - **SQL Server Integration Services**
     
-    SQL Server Integration Services is a platform that is used to build enterprise-level data integration and data transformation solutions. You can use an Integration Services package to automatically process cubes. The package that you create should include at least two **Analysis Services Processing** tasks. The first task should process the dimensions, and the second task should process the cubes. For more information, see the [Analysis Services Processing Task](http://technet.microsoft.com/en-us/library/ms141779.aspx) topic and the [Cube Processing](http://social.technet.microsoft.com/forums/en-us/sqldatawarehousing/thread/208d3553-f92a-4929-8747-9002fda68fb7) discussion.
+    SQL Server Integration Services is a platform that is used to build enterprise-level data integration and data transformation solutions. You can use an Integration Services package to automatically process cubes. The package that you create should include at least two **Analysis Services Processing** tasks. The first task should process the dimensions, and the second task should process the cubes. For more information, see the [Analysis Services Processing Task](https://technet.microsoft.com/library/ms141779.aspx) topic and the [Cube Processing](http://social.technet.microsoft.com/forums/en-us/sqldatawarehousing/thread/208d3553-f92a-4929-8747-9002fda68fb7) discussion.
 
 ## Manual processing
 
@@ -56,7 +56,7 @@ When you process objects in Analysis Services, you can select a processing optio
 
 Processing settings let you control the objects that are processed and the methods that are used to process those objects.
 
-For more information about the processing options and settings that are available, see [Processing Options and Settings](http://technet.microsoft.com/en-us/library/ms174774\(sql.105\).aspx).
+For more information about the processing options and settings that are available, see [Processing Options and Settings](https://technet.microsoft.com/library/ms174774\(sql.105\).aspx).
 
   
 

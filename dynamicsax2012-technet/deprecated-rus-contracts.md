@@ -46,7 +46,7 @@ Russian installations of Microsoft Dynamics AX 2009 let users perform the follow
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The following frameworks are implemented in AX 2012:</p>
 <ul>
-<li><p>Financial dimension framework – For more information, see the white paper <a href="http://go.microsoft.com/fwlink/?linkid=213133">Implementing the Account and Financial Dimension Framework</a>.</p></li>
+<li><p>Financial dimension framework – For more information, see the white paper <a href="https://go.microsoft.com/fwlink/?linkid=213133">Implementing the Account and Financial Dimension Framework</a>.</p></li>
 <li><p>Purchase and sales agreements framework – For more information, see the white paper <a href="http://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_the_agreement_framework_ax2012.pdf">Implementing the Agreement Framework</a>.</p></li>
 <li><p>Dimension control for settlements (Russian country-specific feature) – For more information, see <a href="rus-set-up-a-dimension-set-for-dimensions-control-for-settlements.md">(RUS) Set up a dimension set for dimensions control for settlements</a>.</p></li>
 </ul>

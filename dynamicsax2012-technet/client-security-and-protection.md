@@ -62,7 +62,7 @@ Figure 1 shows an example of an architecture in which Microsoft Dynamics AX runs
 
   - To enhance the security of your computing environment, deploy Group Policy and Encrypting File System on all computers. If your business or organization uses Windows Server 2008, Windows 7, or Windows Vista, deploy Windows BitLocker Drive Encryption. Group Policy and Encrypting File System are described in more detail in the next section.
 
-For more information about Terminal Services, see the [Windows Server 2008 Terminal Services Technical Library](http://go.microsoft.com/fwlink/?linkid=118304).
+For more information about Terminal Services, see the [Windows Server 2008 Terminal Services Technical Library](https://go.microsoft.com/fwlink/?linkid=118304).
 
 ## Individual deployments (less secure)
 
@@ -108,7 +108,7 @@ If you intend to deploy the Microsoft Dynamics AX client on individual computers
 
   - Assign printers based on either a location in the business or organization or a geographic location. You can also enable Group Policy settings that allow users to install printer drivers.
 
-For more information, see [Group Policy in Windows Server 2008](http://go.microsoft.com/fwlink/?linkid=118676).
+For more information, see [Group Policy in Windows Server 2008](https://go.microsoft.com/fwlink/?linkid=118676).
 
 ## Use the client configuration utility securely
 
@@ -124,7 +124,7 @@ Encrypting File System (EFS) is a component of the NTFS file system on Windows o
 
 By deploying EFS on the computers where you install the Microsoft Dynamics AX client, you add another level of security for any data or files that users may store locally.
 
-For more information, see [EFS in Windows Server 2008](http://go.microsoft.com/fwlink/?linkid=118685).
+For more information, see [EFS in Windows Server 2008](https://go.microsoft.com/fwlink/?linkid=118685).
 
 ## Deploy Windows BitLocker Drive Encryption
 
@@ -140,7 +140,7 @@ If a volume is protected by BitLocker, all data that is written to the volume is
 
 By encrypting the disk, BitLocker helps prevent offline attacks. For example, a malicious user may try to bypass Windows security provisions, such as permissions that are enforced by access control lists (ACLs) in NTFS, by removing a disk drive from one computer and installing it in another computer.
 
-For more information, see [Windows BitLocker Drive Encryption](http://go.microsoft.com/fwlink/?linkid=118687).
+For more information, see [Windows BitLocker Drive Encryption](https://go.microsoft.com/fwlink/?linkid=118687).
 
 ## Special considerations for client computers that are used in development environments
 
@@ -170,7 +170,7 @@ Role Centers provide overview information for Microsoft Dynamics AX users. This 
 
 If your business or organization uses Role Centers, and if the administrator installed Enterprise Portal without Secure Sockets Layer (SSL) encryption, all communications between Role Centers in the Microsoft Dynamics AX client and AOS are sent in clear text. As a result, if a malicious user intercepts communications between a client computer that is using Role Centers and AOS, that user can see data from those communications.
 
-If your business or organization uses Role Centers, you must make sure that Enterprise Portal is configured to use SSL encryption. SSL encryption is a feature of Internet Information Services (IIS), which is the Web server software that hosts the Enterprise Portal framework. For more information about how to configure SSL encryption, see [Secure Sockets Layer encryption in IIS 7.0](http://go.microsoft.com/fwlink/?linkid=118362).
+If your business or organization uses Role Centers, you must make sure that Enterprise Portal is configured to use SSL encryption. SSL encryption is a feature of Internet Information Services (IIS), which is the Web server software that hosts the Enterprise Portal framework. For more information about how to configure SSL encryption, see [Secure Sockets Layer encryption in IIS 7.0](https://go.microsoft.com/fwlink/?linkid=118362).
 
 ## Best practices for secure client deployments
 
@@ -199,13 +199,13 @@ The following table describes the best practices that apply to all deployments o
 </tr>
 <tr class="even">
 <td><p>Educate users about how to use strong passwords, and define password policies.</p></td>
-<td><p>Strong passwords and password policies in your domain help maintain a secure computing environment. We highly recommend that you implement password best practices in your business or organization. For more information, see <a href="http://go.microsoft.com/fwlink/?linkid=118273">Password Best Practices</a>.</p></td>
+<td><p>Strong passwords and password policies in your domain help maintain a secure computing environment. We highly recommend that you implement password best practices in your business or organization. For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=118273">Password Best Practices</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Enable Windows Firewall or another firewall device on each computer.</p></td>
 <td><p>A firewall drops incoming traffic that has not been sent in response to a request of the computer. Traffic that is sent in response to a request is named solicited traffic. The firewall also drops unsolicited traffic that has not been specified as allowed. Traffic that is unsolicited but allowed is named excepted traffic. A firewall adds a level of protection against malicious users and applications that rely on unsolicited incoming traffic to attack computers.</p>
 <p>We recommend that you enable Windows Firewall or another firewall device on every computer in your business or organization. Windows Firewall is a Control Panel feature that is used to set restrictions on the traffic that can enter your network from the Internet.</p>
-<p>For more information, see <a href="http://go.microsoft.com/fwlink/?linkid=118283">Windows Firewall</a>.</p></td>
+<p>For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=118283">Windows Firewall</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Enable a virus scanner on each computer.</p></td>
@@ -214,7 +214,7 @@ The following table describes the best practices that apply to all deployments o
 <tr class="odd">
 <td><p>Deploy smart cards in your business or organization.</p></td>
 <td><p>We recommend that you deploy smart cards in your business or organization. A smart card contains a small computer chip that is used to store security keys or other types of personal information. Smart cards use cryptographic technology to store the information. Some businesses or organizations deploy smart card readers on every laptop and desktop computer, and require that employees insert their smart card into the reader to connect to the corporate network. By deploying smart cards in this manner, the business or organization adds another physical layer of security to its computing environment, because every user who connects to the corporate network must have a valid password and a smart card.</p>
-<p>For more information, see the <a href="http://go.microsoft.com/fwlink/?linkid=118292">Smart Card Reference</a>.</p></td>
+<p>For more information, see the <a href="https://go.microsoft.com/fwlink/?linkid=118292">Smart Card Reference</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -224,7 +224,7 @@ The following table describes the best practices that apply to all deployments o
 
 [Set up user security in Microsoft Dynamics AX](set-up-user-security-in-microsoft-dynamics-ax.md)
 
-[TechNet Security Center](http://go.microsoft.com/fwlink/?linkid=118293)
+[TechNet Security Center](https://go.microsoft.com/fwlink/?linkid=118293)
 
   
 

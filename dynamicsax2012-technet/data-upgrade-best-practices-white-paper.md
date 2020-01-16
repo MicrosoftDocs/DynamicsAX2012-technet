@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This white paper describes the additional practices that Microsoft recommends that you follow to speed up an upgrade from Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009 to Microsoft Dynamics AX 2012.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=238709).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=238709).
 
   
 

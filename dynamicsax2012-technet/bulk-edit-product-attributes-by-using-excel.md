@@ -86,7 +86,7 @@ Before you can use Excel to bulk edit product attributes in a retail catalog, co
 </tr>
 <tr class="even">
 <td><p>Install Microsoft Office Add-ins for Microsoft Dynamics AX.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=301289">Install Office Add-ins</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=301289">Install Office Add-ins</a></p></td>
 </tr>
 </tbody>
 </table>

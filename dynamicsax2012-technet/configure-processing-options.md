@@ -390,7 +390,7 @@ Each document filter that you create is defined for a specific document service.
 
 
 > [!NOTE]
-> <P>Document filters are applied only to documents that have been configured for change tracking. Change tracking must be enabled for the database tables that the document service uses. For more information about how to enable change tracking, see <A href="http://go.microsoft.com/fwlink/?linkid=227482">Configuring and Managing Change Tracking</A>.</P>
+> <P>Document filters are applied only to documents that have been configured for change tracking. Change tracking must be enabled for the database tables that the document service uses. For more information about how to enable change tracking, see <A href="https://go.microsoft.com/fwlink/?linkid=227482">Configuring and Managing Change Tracking</A>.</P>
 > <P>Document filters can be used only with enhanced integration ports. Basic integration ports do not support document filters.</P>
 
 

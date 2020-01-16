@@ -20,7 +20,7 @@ Microsoft Dynamics AX Help includes features that make it accessible to a variet
 
 ## Customize accessibility settings in the Help viewer
 
-The Microsoft Dynamics AX Help viewer opens when you select **Help** from the client Help menu, or when you press F1 to view Help for a form. The Help viewer is a modified version of Microsoft Internet Explorer. To change accessibility settings in the Help viewer, you must open Internet Explorer *separately* from the Help viewer and enter your preferences there. For more information, see [accessibility options](http://go.microsoft.com/fwlink/?linkid=217525%26clcid=0x409) for the latest releases of Internet Explorer.
+The Microsoft Dynamics AX Help viewer opens when you select **Help** from the client Help menu, or when you press F1 to view Help for a form. The Help viewer is a modified version of Microsoft Internet Explorer. To change accessibility settings in the Help viewer, you must open Internet Explorer *separately* from the Help viewer and enter your preferences there. For more information, see [accessibility options](https://go.microsoft.com/fwlink/?linkid=217525%26clcid=0x409) for the latest releases of Internet Explorer.
 
 ## Keyboard shortcuts for using the Help viewer
 
@@ -34,7 +34,7 @@ To increase or decrease the font size of a Help topic, press the number pad plus
 
 ## Use a web browser to view Help topics
 
-Beginning in Microsoft Dynamics AX 2012, most of the Microsoft-distributed product Help is hosted on the web. As a result, clicking certain Help menu options and links will cause your preferred web browser to open and display a Help topic. Accessibility features vary from one browser to another. If you use Internet Explorer, refer to [accessibility options](http://go.microsoft.com/fwlink/?linkid=217525%26clcid=0x409) for the latest Internet Explorer releases. If you use a non-Microsoft browser, consult the product Help for the browser that you use.
+Beginning in Microsoft Dynamics AX 2012, most of the Microsoft-distributed product Help is hosted on the web. As a result, clicking certain Help menu options and links will cause your preferred web browser to open and display a Help topic. Accessibility features vary from one browser to another. If you use Internet Explorer, refer to [accessibility options](https://go.microsoft.com/fwlink/?linkid=217525%26clcid=0x409) for the latest Internet Explorer releases. If you use a non-Microsoft browser, consult the product Help for the browser that you use.
 
 ## See also
 

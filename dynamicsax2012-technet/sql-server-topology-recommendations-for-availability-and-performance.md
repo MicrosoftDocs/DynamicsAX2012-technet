@@ -116,7 +116,7 @@ For more information about availability options, see:
 
   - [Getting started with SQL Server 2008 R2 Failover Clustering](http://go.microsoft.com/fwlink/?linkid=216763)
 
-  - [Windows Server Failover Clustering (WSFC) with SQL Server](http://technet.microsoft.com/en-us/library/hh270278.aspx)
+  - [Windows Server Failover Clustering (WSFC) with SQL Server](https://technet.microsoft.com/library/hh270278.aspx)
 
   - [Database mirroring](http://go.microsoft.com/fwlink/?linkid=216767)
 
@@ -126,7 +126,7 @@ For more information about availability options, see:
 
   - [Snapshot replication](http://go.microsoft.com/fwlink/?linkid=216769)
 
-  - [Host a Report Server Database in a SQL Server Failover Cluster](http://technet.microsoft.com/en-us/library/bb630402.aspx)
+  - [Host a Report Server Database in a SQL Server Failover Cluster](https://technet.microsoft.com/library/bb630402.aspx)
 
 ## Performance recommendations
 

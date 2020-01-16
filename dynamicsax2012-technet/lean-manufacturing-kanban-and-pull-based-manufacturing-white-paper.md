@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper provides an overview of how to use the kanban framework in Microsoft Dynamics AX 2012 to support lean manufacturing and pull-based manufacturing scenarios. It introduces the concepts of kanbans as a signal and kanban rules as supply policies. It also describes how to model pull scenarios and provides application examples.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=221083).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=221083).
 
   
 

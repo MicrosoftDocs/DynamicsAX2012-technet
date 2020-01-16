@@ -39,35 +39,35 @@ The following Microsoft Dynamics AX 2012 guides are available in PDF format. The
 <td><p>Helps you navigate our websites and in-product help, and explains when to use each resource.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=212966">New, Changed, and Deprecated Features for Microsoft Dynamics AX 2012</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=212966">New, Changed, and Deprecated Features for Microsoft Dynamics AX 2012</a></p></td>
 <td><p>Provides a summary of new and changed features in Microsoft Dynamics AX 2012. It also lists the features that have been removed and those that will be removed from future releases.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=272587">New features for Microsoft Dynamics AX 2012 R2</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=272587">New features for Microsoft Dynamics AX 2012 R2</a></p></td>
 <td><p>Describes the new features of Microsoft Dynamics AX 2012 R2.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=165377">System Requirements</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=165377">System Requirements</a></p></td>
 <td><p>Lists the minimum network, hardware, and software requirements for Microsoft Dynamics AX 2012.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=163797">Implementation Planning Guide</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=163797">Implementation Planning Guide</a></p></td>
 <td><p>Provides prescriptive and architectural guidance to system architects, consultants, and IT professionals who are involved with planning a Microsoft Dynamics AX 2012 implementation.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=163796">Installation Guide</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=163796">Installation Guide</a></p></td>
 <td><p>Provides step-by-step instructions to help you install Microsoft Dynamics AX 2012.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=163798">Upgrade Guide</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=163798">Upgrade Guide</a></p></td>
 <td><p>Includes resources to help you plan an upgrade, upgrade to Microsoft Dynamics AX 2012, and maintain the new environment.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=320071">Security Guide</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=320071">Security Guide</a></p></td>
 <td><p>Plan, implement, and monitor security for all versions of Microsoft Dynamics AX 2012.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=231846">Retail Deployment Guide: Microsoft Dynamics AX 2012</a></p>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=231846">Retail Deployment Guide: Microsoft Dynamics AX 2012</a></p>
 <div class="alert">
 
 > [!NOTE]
@@ -78,7 +78,7 @@ The following Microsoft Dynamics AX 2012 guides are available in PDF format. The
 <td><p>Provides guidance for administrators who install and upgrade Retail components. This document also provides links to general installation and upgrade information for Microsoft Dynamics AX 2012.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=231847">Retail Store Connect Technical Reference: Microsoft Dynamics AX 2012</a></p>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=231847">Retail Store Connect Technical Reference: Microsoft Dynamics AX 2012</a></p>
 <div class="alert">
 
 > [!NOTE]
@@ -89,7 +89,7 @@ The following Microsoft Dynamics AX 2012 guides are available in PDF format. The
 <td><p>Provides technical resources for administrators who configure Retail Store Connect, which provides a secure framework for communication between Retail components.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=231848">Retail Scheduler Technical Reference: Microsoft Dynamics AX 2012</a></p>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=231848">Retail Scheduler Technical Reference: Microsoft Dynamics AX 2012</a></p>
 <div class="alert">
 
 > [!NOTE]

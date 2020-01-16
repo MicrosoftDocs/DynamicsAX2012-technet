@@ -16,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
-You can only use this feature if you have been granted special permissions to the database. For more information, see this [TechNet article](http://go.microsoft.com/fwlink/?linkid=267571).
+You can only use this feature if you have been granted special permissions to the database. For more information, see this [TechNet article](https://go.microsoft.com/fwlink/?linkid=267571).
 
 1.  Click **Retail** \> **Setup** \> **POS** \> **Screen layouts**.
 

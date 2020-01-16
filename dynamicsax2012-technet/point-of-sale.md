@@ -31,7 +31,7 @@ This topic includes links to important information about how to plan, deploy, co
 <p>Extend</p>
 <p>Configure</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
-<p><a href="http://go.microsoft.com/fwlink/?linkid=397740">Resource page for Retail</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=397740">Resource page for Retail</a></p>
 <p><a href="retail-benchmark-for-microsoft-dynamics-ax-2012-r2.md">Retail Benchmark for Microsoft Dynamics AX 2012 R2</a></p></td>
 </tr>
 </tbody>
@@ -88,8 +88,8 @@ Install the following components at the headquarters location.
 <tr class="odd">
 <td><p>Deploy Microsoft Dynamics AX</p></td>
 <td><p>Retail POS is a component of AX 2012 R3.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=163797">Implementation Planning Guide (PDF)</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=165377">System requirements (PDF)</a></p>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=163797">Implementation Planning Guide (PDF)</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=165377">System requirements (PDF)</a></p>
 <p><a href="install-microsoft-dynamics-ax-2012.md">Install Microsoft Dynamics AX 2012</a></p></td>
 </tr>
 <tr class="even">

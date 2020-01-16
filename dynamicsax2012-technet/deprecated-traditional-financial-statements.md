@@ -40,7 +40,7 @@ Overview
 <td><p>Replaced by another feature</p></td>
 <td><p>Management Reporter for Microsoft Dynamics ERP is an interactive reporting application that financial and business professionals can use to create, maintain, deploy, and view financial statements. Management Reporter lets you design financial reports based on ledger accounts and financial dimensions, drill down to transaction-level detail, perform currency translation, and use web-based report viewing.</p>
 <p>In Microsoft Dynamics AX 2012 R2 cumulative update 6 and later, the <strong>Financial statement (traditional)</strong> configuration key controls access to the traditional financial statement forms and functionality. This configuration key is not selected automatically in new installations of Microsoft Dynamics AX so that new users can use Management Reporter, instead.</p>
-<p>For more information, see <a href="what-s-new-management-reporter-for-microsoft-dynamics.md">What's new: Management Reporter for Microsoft Dynamics</a> and <a href="http://go.microsoft.com/fwlink/?linkid=324762">Management Reporter for Microsoft Dynamics ERP.</a></p></td>
+<p>For more information, see <a href="what-s-new-management-reporter-for-microsoft-dynamics.md">What's new: Management Reporter for Microsoft Dynamics</a> and <a href="https://go.microsoft.com/fwlink/?linkid=324762">Management Reporter for Microsoft Dynamics ERP.</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>
@@ -49,7 +49,7 @@ Overview
 <tr class="even">
 <td><p>Changes to installation</p></td>
 <td><p>Management Reporter is available through the Microsoft Dynamics AX Setup wizard in cumulative update 7 for Microsoft Dynamics AX 2012 R2 and later. For an existing installation of Microsoft Dynamics AX 2012 R2, you must update to cumulative update 7 for Microsoft Dynamics AX 2012 R2, slipstream cumulative update 7 for Microsoft Dynamics AX 2012 R2, and then run Setup. For a new installation, you can just slipstream cumulative update 7 for Microsoft Dynamics AX 2012 R2 . For information about how to update, see <a href="apply-updates-and-hotfixes.md">Apply updates and hotfixes</a>. For information about how to slipstream, see <a href="include-cumulative-updates-and-hotfixes-in-a-new-installation-slipstreaming.md">Include cumulative updates and customizations in a new installation (slipstreaming)</a>.</p>
-<p>If you’re not using cumulative update 7 for Microsoft Dynamics AX 2012 R2 or later for Microsoft Dynamics AX 2012 R2, you can use the stand-alone installation for Management Reporter. Download and run the installation package that is available on CustomerSource. For information about how to run the stand-alone installation, see the <a href="http://go.microsoft.com/fwlink/?linkid=325393">Management Reporter Installation Guide</a>.</p></td>
+<p>If you’re not using cumulative update 7 for Microsoft Dynamics AX 2012 R2 or later for Microsoft Dynamics AX 2012 R2, you can use the stand-alone installation for Management Reporter. Download and run the installation package that is available on CustomerSource. For information about how to run the stand-alone installation, see the <a href="https://go.microsoft.com/fwlink/?linkid=325393">Management Reporter Installation Guide</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Changes to upgrade</p></td>

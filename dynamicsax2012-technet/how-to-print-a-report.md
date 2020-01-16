@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-In Microsoft Dynamics AX, you can print reports that were created using Visual Studio tools for Microsoft Dynamics AX. This topic provides the pre-requisite steps for printing a report and to print from a menu item, including steps for programmatically specifying advanced printer properties like orientation and paper tray. For more information on how to programmatically print a report, see the [Report Programming Model](http://go.microsoft.com/fwlink/?linkid=230569).
+In Microsoft Dynamics AX, you can print reports that were created using Visual Studio tools for Microsoft Dynamics AX. This topic provides the pre-requisite steps for printing a report and to print from a menu item, including steps for programmatically specifying advanced printer properties like orientation and paper tray. For more information on how to programmatically print a report, see the [Report Programming Model](https://go.microsoft.com/fwlink/?linkid=230569).
 
 ### Pre-requisites to Print a Report
 
@@ -22,7 +22,7 @@ In Microsoft Dynamics AX, you can print reports that were created using Visual S
 
   - The report must be [added to the AOT](how-to-add-reports-to-microsoft-dynamics-ax.md). This step is unique to Visual Studio tools for Microsoft Dynamics AX reports.
 
-  - You must also have a way to access the report. You can access a report [programmatically](http://go.microsoft.com/fwlink/?linkid=230569) or from a [menu item](how-to-create-a-menu-item-for-a-report.md).
+  - You must also have a way to access the report. You can access a report [programmatically](https://go.microsoft.com/fwlink/?linkid=230569) or from a [menu item](how-to-create-a-menu-item-for-a-report.md).
 
 ### To Print a Report from a Menu Item
 

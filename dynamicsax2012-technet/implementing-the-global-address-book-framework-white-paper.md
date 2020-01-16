@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 In Microsoft Dynamics AX 2012, the address book framework has been enhanced so that information can be shared more easily. Information can now be shared across Microsoft Dynamics AX companies and entities, through a central repository of users and organizations. This white paper describes the new patterns that can be used to consume or uptake the controls for address books. These patterns include the party name and details, postal addresses, and electronic addresses. The white paper also describes the patterns that are being replaced, and how we recommend that developers update their legacy code.
 
-[Download the white paper](http://go.microsoft.com/fwlink/?linkid=213127).
+[Download the white paper](https://go.microsoft.com/fwlink/?linkid=213127).
 
   
 

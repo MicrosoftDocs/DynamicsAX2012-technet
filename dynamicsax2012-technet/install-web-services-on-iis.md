@@ -28,7 +28,7 @@ Verify that the following steps are completed before you install the Microsoft D
 
   - On the computer where you will install the web services, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
     
 
     > [!WARNING]
@@ -44,7 +44,7 @@ Verify that the following steps are completed before you install the Microsoft D
 
 Use the following steps to verify that the Web Server role is configured properly:
 
-1.  When you ran the prerequisite validation utility in the preceding section, it configured the Web Server role. However, the prerequisite validation utility does not install the ASP.NET role service. Use the following steps to install the ASP.NET role service. For more information about role services, see [Available Role Services by Category](http://technet.microsoft.com/en-us/library/cc753473.aspx).
+1.  When you ran the prerequisite validation utility in the preceding section, it configured the Web Server role. However, the prerequisite validation utility does not install the ASP.NET role service. Use the following steps to install the ASP.NET role service. For more information about role services, see [Available Role Services by Category](https://technet.microsoft.com/library/cc753473.aspx).
     
       - Start Server Manager. Expand the **Server Manager (computer\_name)** node. Right-click **Web Server (IIS)**, and then click **Add Role Services**.
     

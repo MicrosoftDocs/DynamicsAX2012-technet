@@ -32,7 +32,7 @@ This topic describes the following steps which summarize the actions you must ta
 
 2.  Obtain the thumbprint of the X.509 token signing certificate that is used as the digital signature by the Security Token Service (STS) running on the AD FS.
 
-3.  Configure ACS. You must configure the ACS with the parameters related to the relying party in addition to the identity provider and rule groups that include a claim rule for the identity provider. For more information, see [How to: Use ACS Management Service to Configure AD FS 2.0 as an Enterprise Identity Provider](http://go.microsoft.com/fwlink/?linkid=317708).
+3.  Configure ACS. You must configure the ACS with the parameters related to the relying party in addition to the identity provider and rule groups that include a claim rule for the identity provider. For more information, see [How to: Use ACS Management Service to Configure AD FS 2.0 as an Enterprise Identity Provider](https://go.microsoft.com/fwlink/?linkid=317708).
 
 4.  Enable authentication. You must set up trust relationships between Service Bus and AD FS and between Microsoft Dynamics AX and the Service Bus.
 
@@ -40,7 +40,7 @@ This topic describes the following steps which summarize the actions you must ta
 
 6.  Create an enhanced integration port that uses the Service Bus adapter.
 
-For a code sample that implements a mobile application that uses the Service Bus, see [Developing Secure Mobile Apps for Microsoft Dynamics AX 2012](http://go.microsoft.com/fwlink/?linkid=393709%26clcid=0x409).
+For a code sample that implements a mobile application that uses the Service Bus, see [Developing Secure Mobile Apps for Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=393709%26clcid=0x409).
 
 ## Prerequisites
 
@@ -48,13 +48,13 @@ Verify that the following steps are completed before you begin to configure the 
 
   - Install Microsoft Dynamics AX web services on Internet Information Services (IIS). You must use IIS 7.5 or later versions. For more information, see Install web services on IIS.
 
-  - Install cumulative update 6 for Microsoft Dynamics AX 2012, or Microsoft Dynamics AX 2012 R3, or the [AIF Microsoft Azure Service Bus hotfix](http://go.microsoft.com/fwlink/?linkid=393710%26clcid=0x40).
+  - Install cumulative update 6 for Microsoft Dynamics AX 2012, or Microsoft Dynamics AX 2012 R3, or the [AIF Microsoft Azure Service Bus hotfix](https://go.microsoft.com/fwlink/?linkid=393710%26clcid=0x40).
 
-  - Configure a Microsoft Azure account. For more information, see [Microsoft Azure web site](http://go.microsoft.com/fwlink/?linkid=313634).
+  - Configure a Microsoft Azure account. For more information, see [Microsoft Azure web site](https://go.microsoft.com/fwlink/?linkid=313634).
 
-  - Create a new Service Bus namespace. For more information, see [How To: Create or Modify a Service Bus Service Namespace](http://go.microsoft.com/fwlink/?linkid=313633). The Service Bus uses ACS to implement Federated Authentication. A buddy namespace is created for the ACS when you create the Service Bus namespace. For example, if you create a Service Bus namespace contosomobile, the buddy namespace is contosomobile-sb.
+  - Create a new Service Bus namespace. For more information, see [How To: Create or Modify a Service Bus Service Namespace](https://go.microsoft.com/fwlink/?linkid=313633). The Service Bus uses ACS to implement Federated Authentication. A buddy namespace is created for the ACS when you create the Service Bus namespace. For example, if you create a Service Bus namespace contosomobile, the buddy namespace is contosomobile-sb.
 
-  - Place the file Microsoft.ServiceBus.dll (v1.8) in the **Bin** folder of the web site where you deployed the service. The Microsoft.ServiceBus.dll is included with the Microsoft Azure Software Development Kit (SDK). To download the SDK, see [Microsoft Azure SDK Download Page](http://go.microsoft.com/fwlink/?linkid=313636).
+  - Place the file Microsoft.ServiceBus.dll (v1.8) in the **Bin** folder of the web site where you deployed the service. The Microsoft.ServiceBus.dll is included with the Microsoft Azure Software Development Kit (SDK). To download the SDK, see [Microsoft Azure SDK Download Page](https://go.microsoft.com/fwlink/?linkid=313636).
 
 ## Configure AD FS
 
@@ -66,9 +66,9 @@ To configure authentication that MSDAX requires for clients that use the Service
 
 Use the information in the following articles to configure the AD FS.
 
-  - [Deploying Federation Servers](http://go.microsoft.com/fwlink/?linkid=393711%26clcid=0x409)
+  - [Deploying Federation Servers](https://go.microsoft.com/fwlink/?linkid=393711%26clcid=0x409)
 
-  - [Configure a New Federation Server](http://go.microsoft.com/fwlink/?linkid=393712%26clcid=0x409)
+  - [Configure a New Federation Server](https://go.microsoft.com/fwlink/?linkid=393712%26clcid=0x409)
 
 
 > [!IMPORTANT]
@@ -78,7 +78,7 @@ Use the information in the following articles to configure the AD FS.
 
 ## Obtain the thumbprint of the X.509 token-signing certificate
 
-For more information about token signing certificates, see [Certificate Requirements for Federation Servers](http://technet.microsoft.com/en-us/library/dd807040\(v=ws.10\).aspx) and [Add a Token-Signing Certificate](http://technet.microsoft.com/en-us/library/dd807039\(v=ws.10\).aspx).
+For more information about token signing certificates, see [Certificate Requirements for Federation Servers](https://technet.microsoft.com/library/dd807040\(v=ws.10\).aspx) and [Add a Token-Signing Certificate](https://technet.microsoft.com/library/dd807039\(v=ws.10\).aspx).
 
 ### To obtain the thumbprint of the X.509 token-signing certificate
 
@@ -365,9 +365,9 @@ The method unregisterAuthenticationManager takes one parameter authenticationMan
 
 ## Create and configure encryption key containers
 
-Encryption is used to protect confidential data in the web.config file. This requires al RSA encryption key container to be created and configured on all the computers involved in the message relay. For more information, see [Walkthrough: Creating and Exporting an RSA Key Container](http://msdn.microsoft.com/en-us/library/2w117ede\(v=vs.80\).aspx).
+Encryption is used to protect confidential data in the web.config file. This requires al RSA encryption key container to be created and configured on all the computers involved in the message relay. For more information, see [Walkthrough: Creating and Exporting an RSA Key Container](https://msdn.microsoft.com/library/2w117ede\(v=vs.80\).aspx).
 
-You use the Internet Information Services (IIS) configuration utility aspnet\_regiis.exe to manage the key containers. For more information, see [ASP.NET IIS Registration Tool (aspnet\_regiis.exe)](http://go.microsoft.com/fwlink/?linkid=314235).
+You use the Internet Information Services (IIS) configuration utility aspnet\_regiis.exe to manage the key containers. For more information, see [ASP.NET IIS Registration Tool (aspnet\_regiis.exe)](https://go.microsoft.com/fwlink/?linkid=314235).
 
 ### To create and configure encryption key containers
 
@@ -404,7 +404,7 @@ You use the Internet Information Services (IIS) configuration utility aspnet\_re
 
 2.  In the **Windows Azure service namespace** box, enter the namespace that you created.
 
-3.  In the **Windows Azure service key issuer name** box, enter the default issuer name. In the **Windows Azure service key issuer secret** box, enter the secret key. For more information, see the section “To obtain the security credentials for a service namespace” in the topic [How To: Create or Modify a Service Bus Service Namespace](http://go.microsoft.com/fwlink/?linkid=313633).
+3.  In the **Windows Azure service key issuer name** box, enter the default issuer name. In the **Windows Azure service key issuer secret** box, enter the secret key. For more information, see the section “To obtain the security credentials for a service namespace” in the topic [How To: Create or Modify a Service Bus Service Namespace](https://go.microsoft.com/fwlink/?linkid=313633).
 
 4.  In the **Deployment web site** box, enter the name of the IIS web site where the service is to be deployed.
 
@@ -444,13 +444,13 @@ To publish your service and make it available on the Service Bus, create an enha
 
 ## See also
 
-[Understanding the Windows Azure Management Portal](http://go.microsoft.com/fwlink/?linkid=313635)
+[Understanding the Windows Azure Management Portal](https://go.microsoft.com/fwlink/?linkid=313635)
 
-[Service Bus Authentication and Authorization with the Access Control Service](http://msdn.microsoft.com/en-us/library/windowsazure/hh403962.aspx)
+[Service Bus Authentication and Authorization with the Access Control Service](https://msdn.microsoft.com/library/windowsazure/hh403962.aspx)
 
-[How to Use the Service Bus Relay Service](http://go.microsoft.com/fwlink/?linkid=393026%26clcid=0x409)
+[How to Use the Service Bus Relay Service](https://go.microsoft.com/fwlink/?linkid=393026%26clcid=0x409)
 
-[Service Bus Overview](http://go.microsoft.com/fwlink/?linkid=302333%26clcid=0x409)
+[Service Bus Overview](https://go.microsoft.com/fwlink/?linkid=302333%26clcid=0x409)
 
   
 

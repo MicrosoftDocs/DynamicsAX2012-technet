@@ -61,10 +61,10 @@ Before you begin the planning process, make sure that the following prerequisite
 <tr class="odd">
 <td><p>Required knowledge</p></td>
 <td><p>Before you begin installing and using the analytical features of Microsoft Dynamics AX, you must be familiar with Microsoft SQL Server Analysis Services.</p></td>
-<td><p><a href="http://technet.microsoft.com/en-us/library/bb522607.aspx">Analysis Services 2014</a></p>
-<p><a href="http://technet.microsoft.com/en-us/library/bb522607(v=sql.110).aspx">Analysis Services 2012</a></p>
-<p><a href="http://technet.microsoft.com/en-us/library/bb522607(v=sql.105).aspx">Analysis Services 2008 R2</a></p>
-<p><a href="http://technet.microsoft.com/en-us/library/bb522607(v=sql.100).aspx">Analysis Services 2008</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/bb522607.aspx">Analysis Services 2014</a></p>
+<p><a href="https://technet.microsoft.com/library/bb522607(v=sql.110).aspx">Analysis Services 2012</a></p>
+<p><a href="https://technet.microsoft.com/library/bb522607(v=sql.105).aspx">Analysis Services 2008 R2</a></p>
+<p><a href="https://technet.microsoft.com/library/bb522607(v=sql.100).aspx">Analysis Services 2008</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -82,9 +82,9 @@ To make sure that the online transaction processing (OLTP) database for Microsof
 
 *High availability* is the ability to provide a service with a minimum of interruptions. You can implement Analysis Services in a highly available environment by using network load balancing (NLB) technologies, failover clustering technologies, or both.
 
-  - **Network load balancing** – You can use network load balancing to improve the response time for queries as the number of end users increases. Network load balancing, which is also referred to as *scale out*, distributes the load among several small servers. For more information, see [Scaling out an Analysis Services Solution](http://msdn.microsoft.com/en-us/library/cc280669.aspx).
+  - **Network load balancing** – You can use network load balancing to improve the response time for queries as the number of end users increases. Network load balancing, which is also referred to as *scale out*, distributes the load among several small servers. For more information, see [Scaling out an Analysis Services Solution](https://msdn.microsoft.com/library/cc280669.aspx).
 
-  - **Failover clustering** – A failover cluster is a combination of one or more nodes, or servers, with two or more shared disks. A SQL Server failover cluster instance appears on the network as a single computer. However, this instance has functionality that provides failover from one node to another if the current node becomes unavailable. For more information, see [Failover Clustering in Analysis Services](http://msdn.microsoft.com/en-us/library/dd207001.aspx).
+  - **Failover clustering** – A failover cluster is a combination of one or more nodes, or servers, with two or more shared disks. A SQL Server failover cluster instance appears on the network as a single computer. However, this instance has functionality that provides failover from one node to another if the current node becomes unavailable. For more information, see [Failover Clustering in Analysis Services](https://msdn.microsoft.com/library/dd207001.aspx).
 
 ## AlwaysOn
 
@@ -110,7 +110,7 @@ To implement the Analysis Services database in an AlwaysOn environment, complete
     
     5.  Change **\[DatabaseName\]** to the name of the replicated database that was created in step 1.
 
-For more information about AlwaysOn, see [AlwaysOn Architecture Guide](http://msdn.microsoft.com/en-us/library/jj191711) in the SQL Server documentation.
+For more information about AlwaysOn, see [AlwaysOn Architecture Guide](https://msdn.microsoft.com/library/jj191711) in the SQL Server documentation.
 
 ## Determine if the cubes that are provided with Microsoft Dynamics AX will meet your needs
 

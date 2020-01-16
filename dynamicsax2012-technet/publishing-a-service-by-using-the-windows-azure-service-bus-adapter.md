@@ -40,13 +40,13 @@ The Windows Azure Service Bus adapter extends the existing Application Integrati
 
 For detailed steps to deploy this infrastructure, register the namespace with AIF, and create an inbound port that uses the Service Bus adapter, see [Deploy Microsoft Dynamics AX Services to the Windows Azure Service Bus](deploy-microsoft-dynamics-ax-services-to-the-windows-azure-service-bus.md).
 
-To read complete walkthroughs of a scenario that uses the Service Bus adapter to communicate with AX 2012 from a mobile client application, see [Developing secure mobile applications for Microsoft Dynamics AX 2012](http://go.microsoft.com/fwlink/?linkid=391769%26clcid=0x409).
+To read complete walkthroughs of a scenario that uses the Service Bus adapter to communicate with AX 2012 from a mobile client application, see [Developing secure mobile applications for Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=391769%26clcid=0x409).
 
 ## See also
 
 [Adapters](adapters.md)
 
-[Service Bus Overview](http://go.microsoft.com/fwlink/?linkid=302333%26clcid=0x409)
+[Service Bus Overview](https://go.microsoft.com/fwlink/?linkid=302333%26clcid=0x409)
 
   
 

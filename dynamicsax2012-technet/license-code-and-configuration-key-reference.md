@@ -24,7 +24,7 @@ When a license code or configuration key is disabled, the associated module or f
 
 
 > [!NOTE]
-> <P>The license codes and configuration keys that are included in this reference are not part of the licensing model for Microsoft Dynamics AX 2012. They are used only to enable and disable functionality. For more information about licensing in Microsoft Dynamics AX 2012, see the <A href="http://go.microsoft.com/fwlink/?linkid=228374">Pricing and licensing guide</A> and the <A href="http://go.microsoft.com/fwlink/?linkid=228377">Software licensing terms</A>.</P>
+> <P>The license codes and configuration keys that are included in this reference are not part of the licensing model for Microsoft Dynamics AX 2012. They are used only to enable and disable functionality. For more information about licensing in Microsoft Dynamics AX 2012, see the <A href="https://go.microsoft.com/fwlink/?linkid=228374">Pricing and licensing guide</A> and the <A href="https://go.microsoft.com/fwlink/?linkid=228377">Software licensing terms</A>.</P>
 
 
 

@@ -42,7 +42,7 @@ To deploy Async Client on multiple computers in an environment, you can use the 
 
   - On the computer where you plan to install this component, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
   - The SQLCMD utility is required to install Async Client. This utility is typically installed with Microsoft SQL Server. If a version of SQL Server is not installed on the computer where you install Async Client, you can download and install [Microsoft Command Line Utilities 11 for SQL Server](http://www.microsoft.com/en-us/download/details.aspx?id=36433) to meet this requirement.
 
@@ -245,7 +245,7 @@ After you configure the parameters in the sc-settings.xml file, you can run the 
     $Cred = @((New-Object System.Management.Automation.PSCredential('domain\username',(ConvertTo-SecureString 'password' -AsPlainText -Force))))
     ```
     
-    For more information about how to create credential objects, see [Create Windows PowerShell Scripts that Accept Credentials](http://go.microsoft.com/fwlink/?linkid=394381).
+    For more information about how to create credential objects, see [Create Windows PowerShell Scripts that Accept Credentials](https://go.microsoft.com/fwlink/?linkid=394381).
 
 3.  Run the following command to create a credential object for the account that is used to connect to Async Server.
     

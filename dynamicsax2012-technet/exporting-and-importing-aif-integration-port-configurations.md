@@ -24,7 +24,7 @@ To move integration port configurations from a test environment to a production 
 
 3.  Import the data about integration ports into the destination environment. See Import the integration port data.
 
-To export or import service metadata, you must use the command-line tool that is named AXUtil.exe. You can find this tool in the ManagementUtilities subfolder of the Program Files folder where you installed Microsoft Dynamics AX. For help, at the command prompt, type AxUtil.exe /?. For more information about exporting and importing metadata, see [Deploying Customizations Across Microsoft Dynamics AX 2012 Environments](http://go.microsoft.com/fwlink/?linkid=221067).
+To export or import service metadata, you must use the command-line tool that is named AXUtil.exe. You can find this tool in the ManagementUtilities subfolder of the Program Files folder where you installed Microsoft Dynamics AX. For help, at the command prompt, type AxUtil.exe /?. For more information about exporting and importing metadata, see [Deploying Customizations Across Microsoft Dynamics AX 2012 Environments](https://go.microsoft.com/fwlink/?linkid=221067).
 
 ## Prerequisites
 

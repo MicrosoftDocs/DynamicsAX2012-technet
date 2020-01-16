@@ -50,7 +50,7 @@ The **Dynamics Filter** property on the dataset determines how filters are creat
     <tbody>
     <tr class="odd">
     <td><p><strong>Expression</strong></p></td>
-    <td><p>An expression for the filter. From the drop-down list, choose a field for the filter to create a simple expression. You can also choose <strong>&lt;Expression…&gt;</strong> to open the <strong>Edit Expression</strong> dialog box to create a more complex expression. For information about how to create expressions, see <a href="http://go.microsoft.com/fwlink/?linkid=106936">Expression Examples in Reporting Services</a>.</p></td>
+    <td><p>An expression for the filter. From the drop-down list, choose a field for the filter to create a simple expression. You can also choose <strong>&lt;Expression…&gt;</strong> to open the <strong>Edit Expression</strong> dialog box to create a more complex expression. For information about how to create expressions, see <a href="https://go.microsoft.com/fwlink/?linkid=106936">Expression Examples in Reporting Services</a>.</p></td>
     </tr>
     <tr class="even">
     <td><p><strong>Name</strong></p></td>

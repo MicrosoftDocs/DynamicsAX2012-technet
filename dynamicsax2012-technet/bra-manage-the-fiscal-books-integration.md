@@ -89,7 +89,7 @@ The integration process also transfers the Z reports that are generated in the R
 
 ## See also
 
-[Fiscal books integration](http://go.microsoft.com/fwlink/?linkid=306013)
+[Fiscal books integration](https://go.microsoft.com/fwlink/?linkid=306013)
 
   
 

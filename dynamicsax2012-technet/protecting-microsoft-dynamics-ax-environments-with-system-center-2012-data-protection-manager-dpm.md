@@ -26,7 +26,7 @@ A VSS solution consists of the following parts:
 
   - VSS provider – The VSS provider is the component that creates and maintains the shadow copy. Windows contains a provider.
 
-For more information about VSS, see [Volume Shadow Copy Service](http://technet.microsoft.com/en-us/library/ee923636.aspx).
+For more information about VSS, see [Volume Shadow Copy Service](https://technet.microsoft.com/library/ee923636.aspx).
 
 ## Introduction to the AX VSS writer
 

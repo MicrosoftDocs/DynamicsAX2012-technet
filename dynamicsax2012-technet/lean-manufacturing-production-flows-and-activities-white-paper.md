@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 Microsoft Dynamics AX 2012 includes an architecture that enables lean manufacturing to be based on production flows that consist of process activities and transfer activities. This white paper introduces production flows and activities, and also describes how they are used in lean manufacturing for Microsoft Dynamics AX 2012 to model the lean organization of a company.
 
-[Download the white paper](http://go.microsoft.com/fwlink/?linkid=213164).
+[Download the white paper](https://go.microsoft.com/fwlink/?linkid=213164).
 
   
 

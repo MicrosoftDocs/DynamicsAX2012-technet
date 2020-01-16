@@ -29,7 +29,7 @@ This topic explains how a Partner implementation expert can make RapidStart Serv
 
 > [!IMPORTANT]
 > <P>In the March 2014 release of Microsoft Dynamics Lifecycle Services, support for creating and opening RapidStart Services projects for Microsoft Dynamics AX was added to the Lifecycle Services project page. You can use the online services for Microsoft Dynamics ERP website as described in the rest of this topic, or you can use Lifecycle Services instead.</P>
-> <P>To use Lifecycle Services, visit <A href="http://go.microsoft.com/fwlink/?linkid=306503">Microsoft Dynamics Lifecycle Services</A>.</P>
+> <P>To use Lifecycle Services, visit <A href="https://go.microsoft.com/fwlink/?linkid=306503">Microsoft Dynamics Lifecycle Services</A>.</P>
 
 
 
@@ -49,7 +49,7 @@ After the Customer administrator signs in, he or she reviews and agrees to the o
 
 ## Make RapidStart Services available to customers and prospects
 
-1.  In your browser, open online services at [http://www.dynamicsonline.com](http://go.microsoft.com/fwlink/p/?linkid=141031), and sign in to Partner Portal. If the **Getting Started – Partner Portal for Microsoft Dynamics® ERP** page is displayed, click **Create a new customer**.
+1.  In your browser, open online services at [http://www.dynamicsonline.com](https://go.microsoft.com/fwlink/p/?linkid=141031), and sign in to Partner Portal. If the **Getting Started – Partner Portal for Microsoft Dynamics® ERP** page is displayed, click **Create a new customer**.
 
 2.  On the **Customers** page, on the **Action Pane**, click **New Customer**. Then, depending on whether you are enrolling an existing customer or a prospective customer, follow the instructions in this table.
     
@@ -108,7 +108,7 @@ After the Customer administrator signs in, he or she reviews and agrees to the o
     
 
     > [!IMPORTANT]
-    > <P>Make sure that the <STRONG>Country/region of use</STRONG> field is set correctly, because you can’t change the value later. We have multiple data centers, and RapidStart Services pages load faster if you select the data center that is closest to your physical location. You can view the list of countries and regions where RapidStart Services is currently supported in the <STRONG>RapidStart Services</STRONG> section at the bottom of the online services home page at <A href="http://go.microsoft.com/fwlink/p/?linkid=141031">http://www.dynamicsonline.com</A>. If you don’t see the country or region for your customer, contact Support before you continue.</P>
+    > <P>Make sure that the <STRONG>Country/region of use</STRONG> field is set correctly, because you can’t change the value later. We have multiple data centers, and RapidStart Services pages load faster if you select the data center that is closest to your physical location. You can view the list of countries and regions where RapidStart Services is currently supported in the <STRONG>RapidStart Services</STRONG> section at the bottom of the online services home page at <A href="https://go.microsoft.com/fwlink/p/?linkid=141031">http://www.dynamicsonline.com</A>. If you don’t see the country or region for your customer, contact Support before you continue.</P>
 
 
 

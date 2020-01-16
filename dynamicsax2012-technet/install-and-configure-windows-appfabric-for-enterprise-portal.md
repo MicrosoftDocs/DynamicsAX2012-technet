@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-This topic provides sample configurations and settings for installing [Windows Server AppFabric](http://go.microsoft.com/fwlink/?linkid=324716) with Enterprise Portal for Microsoft Dynamics AX. AppFabric is required to run Enterprise Portal in a web farm with Microsoft Dynamics AX 2012 R2. AppFabric is not required for single-server Enterprise Portal deployments.
+This topic provides sample configurations and settings for installing [Windows Server AppFabric](https://go.microsoft.com/fwlink/?linkid=324716) with Enterprise Portal for Microsoft Dynamics AX. AppFabric is required to run Enterprise Portal in a web farm with Microsoft Dynamics AX 2012 R2. AppFabric is not required for single-server Enterprise Portal deployments.
 
 Windows Server AppFabric is a set of integrated technologies that make it easier to build, scale and manage Web and composite applications that run on Internet Information Services (IIS). AppFabric extends Windows Server to provide enhanced hosting, management, and caching capabilities for Web applications and middle-tier services. Enterprise Portal uses the AppFabric distributed, in-memory caching services to improve the performance and scalability of the application.
 
@@ -68,9 +68,9 @@ Each of these processes is described in this topic.
 
 1.  Run one of the following Setup applications on the Enterprise Portal server:
     
-    For AppFabric 1.0, [download](http://go.microsoft.com/fwlink/?linkid=324596) and run the WindowsServerAppFabricSetup\_x64\_6.1.
+    For AppFabric 1.0, [download](https://go.microsoft.com/fwlink/?linkid=324596) and run the WindowsServerAppFabricSetup\_x64\_6.1.
     
-    For AppFabric 1.1, [download](http://go.microsoft.com/fwlink/?linkid=386334) and run the WindowsServerAppFabricSetup\_x64.
+    For AppFabric 1.1, [download](https://go.microsoft.com/fwlink/?linkid=386334) and run the WindowsServerAppFabricSetup\_x64.
 
 2.  On the **Accept License Terms** page, read the license terms, and then accept the terms and then click **Next** to continue, or do not accept the terms and then exit the setup wizard.
 
@@ -119,7 +119,7 @@ Each of these processes is described in this topic.
 
 ## Run the configuration wizard
 
-This section describes recommended settings for Windows Server AppFabric with Enterprise Portal. The following table lists settings as they appear in the Windows Server AppFabric Configuration Wizard. For more information about the options or settings in the configuration wizard, see [Configure Windows Server AppFabric](http://go.microsoft.com/fwlink/?linkid=324774).
+This section describes recommended settings for Windows Server AppFabric with Enterprise Portal. The following table lists settings as they appear in the Windows Server AppFabric Configuration Wizard. For more information about the options or settings in the configuration wizard, see [Configure Windows Server AppFabric](https://go.microsoft.com/fwlink/?linkid=324774).
 
 <table>
 <colgroup>
@@ -191,17 +191,17 @@ Click **Finish**. When prompted, click **Yes**.
 
 ## Configure cache settings with PowerShell
 
-The procedure in this section uses PowerShell Cmdlts to configure cache settings. For more information, about these cmdlts, see [AppFabric Caching PowerShell Cmdlts](http://go.microsoft.com/fwlink/?linkid=324842) on MSDN.
+The procedure in this section uses PowerShell Cmdlts to configure cache settings. For more information, about these cmdlts, see [AppFabric Caching PowerShell Cmdlts](https://go.microsoft.com/fwlink/?linkid=324842) on MSDN.
 
 1.  Open the Caching Administration Windows PowerShell command prompt as an administrator.
 
-2.  Execute the [Use-CacheCluster](http://go.microsoft.com/fwlink/?linkid=324847) command to set the context of your PowerShell session to a particular cache cluster.
+2.  Execute the [Use-CacheCluster](https://go.microsoft.com/fwlink/?linkid=324847) command to set the context of your PowerShell session to a particular cache cluster.
 
-3.  Execute the [New-Cache](http://go.microsoft.com/fwlink/?linkid=324848) command to create a new named cache. Make a note of the name you specified. You will enter this cache name in the next procedure.
+3.  Execute the [New-Cache](https://go.microsoft.com/fwlink/?linkid=324848) command to create a new named cache. Make a note of the name you specified. You will enter this cache name in the next procedure.
 
-4.  Execute the [Grant-CacheAllowedClientAccount](http://go.microsoft.com/fwlink/?linkid=324849) command and specify the .NET Business Connector proxy (the account that is used by the Enterprise Portal application pool).
+4.  Execute the [Grant-CacheAllowedClientAccount](https://go.microsoft.com/fwlink/?linkid=324849) command and specify the .NET Business Connector proxy (the account that is used by the Enterprise Portal application pool).
 
-5.  Execute the [Start-CacheCluster](http://go.microsoft.com/fwlink/?linkid=324850) command to start the cache.
+5.  Execute the [Start-CacheCluster](https://go.microsoft.com/fwlink/?linkid=324850) command to start the cache.
 
 ## Install and configure the cache client
 
@@ -385,11 +385,11 @@ Use the following procedure to verify that the AppFabric cache stores Enterprise
 
 2.  Open a Windows PowerShell command prompt as an administrator.
 
-3.  Execute the [Get-CacheStatistics](http://go.microsoft.com/fwlink/?linkid=324868) default command. The results should display all zeros.
+3.  Execute the [Get-CacheStatistics](https://go.microsoft.com/fwlink/?linkid=324868) default command. The results should display all zeros.
 
 4.  Open Enterprise Portal and submit an Expense report.
 
-5.  Execute the [Get-CacheStatistics](http://go.microsoft.com/fwlink/?linkid=324868) default command again and verify that the cache displays values. This indicates that cache distribution is working.
+5.  Execute the [Get-CacheStatistics](https://go.microsoft.com/fwlink/?linkid=324868) default command again and verify that the cache displays values. This indicates that cache distribution is working.
 
 ## Install and configure Windows Server AppFabric in a cluster
 
@@ -423,7 +423,7 @@ Each of these processes is described in this topic.
 
 ## Run Setup
 
-1.  [Download](http://go.microsoft.com/fwlink/?linkid=324596) and run the WindowsServerAppFabricSetup\_x64\_6.1.exe file on the host server in the cluster.
+1.  [Download](https://go.microsoft.com/fwlink/?linkid=324596) and run the WindowsServerAppFabricSetup\_x64\_6.1.exe file on the host server in the cluster.
 
 2.  On the **Accept License Terms** page, read the license terms, and then accept the terms and then click **Next** to continue, or do not accept the terms and then exit the setup wizard.
 
@@ -472,7 +472,7 @@ Each of these processes is described in this topic.
 
 ## Run the configuration wizard
 
-This section describes recommended settings for Windows Server AppFabric with Enterprise Portal. The following table lists settings as they appear in the Windows Server AppFabric Configuration Wizard. For more information about the options or settings in the configuration wizard, see [Configure Windows Server AppFabric](http://go.microsoft.com/fwlink/?linkid=324774).
+This section describes recommended settings for Windows Server AppFabric with Enterprise Portal. The following table lists settings as they appear in the Windows Server AppFabric Configuration Wizard. For more information about the options or settings in the configuration wizard, see [Configure Windows Server AppFabric](https://go.microsoft.com/fwlink/?linkid=324774).
 
 <table>
 <colgroup>
@@ -622,17 +622,17 @@ Enter the same information that you previously specified in the **Server** and *
 
 ## Configure the cluster cache settings with PowerShell
 
-The procedure in this section uses PowerShell Cmdlts to complete the process of configuring the cache. For more information, about these cmdlts, see [AppFabric Caching PowerShell Cmdlts](http://go.microsoft.com/fwlink/?linkid=324842) on MSDN.
+The procedure in this section uses PowerShell Cmdlts to complete the process of configuring the cache. For more information, about these cmdlts, see [AppFabric Caching PowerShell Cmdlts](https://go.microsoft.com/fwlink/?linkid=324842) on MSDN.
 
 1.  Open a Windows PowerShell command prompt as an administrator.
 
-2.  Execute the [Use-CacheCluster](http://go.microsoft.com/fwlink/?linkid=324847) command to set the context of your PowerShell session to a particular cache cluster.
+2.  Execute the [Use-CacheCluster](https://go.microsoft.com/fwlink/?linkid=324847) command to set the context of your PowerShell session to a particular cache cluster.
 
-3.  Execute the [New-Cache](http://go.microsoft.com/fwlink/?linkid=324848) command to create a new named cache. Make a note of the name you specified. You will enter this cache name in the next procedure.
+3.  Execute the [New-Cache](https://go.microsoft.com/fwlink/?linkid=324848) command to create a new named cache. Make a note of the name you specified. You will enter this cache name in the next procedure.
 
-4.  Execute the [Grant-CacheAllowedClientAccount](http://go.microsoft.com/fwlink/?linkid=324849) command and specify the .NET Business Connector proxy (the account that is used by the Enterprise Portal application pool).
+4.  Execute the [Grant-CacheAllowedClientAccount](https://go.microsoft.com/fwlink/?linkid=324849) command and specify the .NET Business Connector proxy (the account that is used by the Enterprise Portal application pool).
 
-5.  Execute the [Set-CacheConfig](http://go.microsoft.com/fwlink/?linkid=324878) command and specify –Secondaries parameter
+5.  Execute the [Set-CacheConfig](https://go.microsoft.com/fwlink/?linkid=324878) command and specify –Secondaries parameter
 
 6.  Export the configuration with this command: Export-CacheClusterConfig and specify a name for the file.
 
@@ -642,7 +642,7 @@ The procedure in this section uses PowerShell Cmdlts to complete the process of 
 
 8.  Import the configuration with this command: Import-CacheClusterConfig
 
-9.  Execute the [Start-CacheCluster](http://go.microsoft.com/fwlink/?linkid=324850) command to start the cache.
+9.  Execute the [Start-CacheCluster](https://go.microsoft.com/fwlink/?linkid=324850) command to start the cache.
 
 ## Install and configure the cache client
 
@@ -708,13 +708,13 @@ Use the following procedure to verify that the AppFabric cache stores Enterprise
 
 2.  Open a Windows PowerShell command prompt as an administrator.
 
-3.  Execute the [Get-CacheStatistics](http://go.microsoft.com/fwlink/?linkid=324868) default command. The results should display all zeros.
+3.  Execute the [Get-CacheStatistics](https://go.microsoft.com/fwlink/?linkid=324868) default command. The results should display all zeros.
 
 4.  Restart the web service on the Enterprise Portal server.
 
 5.  Open Enterprise Portal and submit an Expense report.
 
-6.  Execute the [Get-CacheStatistics](http://go.microsoft.com/fwlink/?linkid=324868) default command again and verify that the cache displays values. This indicates that cache distribution is working.
+6.  Execute the [Get-CacheStatistics](https://go.microsoft.com/fwlink/?linkid=324868) default command again and verify that the cache displays values. This indicates that cache distribution is working.
 
 ## See also
 

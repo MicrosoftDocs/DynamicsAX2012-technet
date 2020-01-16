@@ -24,7 +24,7 @@ You can customize the Help system in Microsoft Dynamics AX in the following ways
 
   - Apply metadata for the Help system to customized content.
 
-To learn how to perform these customization tasks, see the MSDN developer documentation, [Help System Development](http://msdn.microsoft.com/en-us/library/gg882383.aspx).
+To learn how to perform these customization tasks, see the MSDN developer documentation, [Help System Development](https://msdn.microsoft.com/library/gg882383.aspx).
 
   
 

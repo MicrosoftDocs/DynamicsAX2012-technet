@@ -22,7 +22,7 @@ If you want to quickly configure an implementation of Microsoft Dynamics AX 2012
 
 For information about when to choose a default configuration project, see [Learn about configuration projects in RapidStart Services](learn-about-configuration-projects-in-rapidstart-services.md).
 
-1.  In your browser, open online services for Microsoft Dynamics ERP at [http://www.dynamicsonline.com](http://go.microsoft.com/fwlink/p/?linkid=141031).
+1.  In your browser, open online services for Microsoft Dynamics ERP at [http://www.dynamicsonline.com](https://go.microsoft.com/fwlink/p/?linkid=141031).
 
 2.  Click **For Customers**, and then click **Sign in**.
 

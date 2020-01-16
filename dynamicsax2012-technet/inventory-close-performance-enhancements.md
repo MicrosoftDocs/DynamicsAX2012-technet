@@ -24,7 +24,7 @@ The changes provide a more efficient process flow that enhances performance and 
 
 
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=269873)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=269873)
 
   
 

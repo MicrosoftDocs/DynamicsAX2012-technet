@@ -39,7 +39,7 @@ To obtain support for Microsoft Dynamics AX or Lifecycle Services, use the resou
 <tr class="odd">
 <td><img src="images/Dn756358.Azure_Doc_Community(AX.60).png" title="Ask the community" alt="Ask the community" /></td>
 <td><p>Ask the community</p></td>
-<td><p>Go to the <a href="http://go.microsoft.com/fwlink/?linkid=221068">Ask The Community</a> page to get help with your questions from the Microsoft Dynamics AX community.</p></td>
+<td><p>Go to the <a href="https://go.microsoft.com/fwlink/?linkid=221068">Ask The Community</a> page to get help with your questions from the Microsoft Dynamics AX community.</p></td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn756358.Azure_Doc_Search(AX.60).png" title="Use our search tool" alt="Use our search tool" /></td>

@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper describes the budget control framework that was added to Microsoft Dynamics AX 2012. Topics discussed include key integration patterns for new financial frameworks, how to make budget requests, and how to use the ledger budget control framework with core integration patterns.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213130).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213130).
 
   
 

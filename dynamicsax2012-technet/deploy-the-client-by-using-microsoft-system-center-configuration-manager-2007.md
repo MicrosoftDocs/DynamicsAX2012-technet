@@ -18,7 +18,7 @@ Microsoft System Center Configuration Manager 2007 is a comprehensive solution t
 
 This topic does not provide information about how to set up the network infrastructure, such as the Active Directory directory service, Microsoft SQL Server, and System Center Configuration Manager.
 
-For more information about how to set up and use Configuration Manager, see the [Configuration Manager 2007 Documentation Library](http://technet.microsoft.com/en-us/library/bb680651.aspx) on TechNet.
+For more information about how to set up and use Configuration Manager, see the [Configuration Manager 2007 Documentation Library](https://technet.microsoft.com/library/bb680651.aspx) on TechNet.
 
 ## Overview of the deployment process
 
@@ -26,23 +26,23 @@ To deploy Microsoft Dynamics AX clients by using Configuration Manager, you must
 
   - **Collections** – A collection is a group of resources, such as users, user groups, or computers. A collection defines the target of a software deployment.
     
-    For more information about collections, see [Collections Overview](http://go.microsoft.com/fwlink/?linkid=145870) in the Configuration Manager documentation.
+    For more information about collections, see [Collections Overview](https://go.microsoft.com/fwlink/?linkid=145870) in the Configuration Manager documentation.
 
   - **Packages** – A package is the set of installation source files that Configuration Manager manages and distributes for a software deployment. Packages include distribution points and the programs that are used to deploy the software.
     
-    For more information about packages, see [About Packages](http://go.microsoft.com/fwlink/?linkid=145871) in the Configuration Manager documentation.
+    For more information about packages, see [About Packages](https://go.microsoft.com/fwlink/?linkid=145871) in the Configuration Manager documentation.
 
   - **Programs** – Programs contain command-line switches and additional parameters that are used by designated source files in packages, such as Setup.exe.
     
-    For more information about programs, see [About Programs](http://go.microsoft.com/fwlink/?linkid=145872) in the Configuration Manager documentation.
+    For more information about programs, see [About Programs](https://go.microsoft.com/fwlink/?linkid=145872) in the Configuration Manager documentation.
 
   - **Distribution points** – Distribution points are site systems for Configuration Manager that store packages that can be deployed to Configuration Manager clients. When the client receives and processes an advertisement, the client contacts a distribution point to download the package and start the installation process.
     
-    For more information about distribution points, see [About Distribution Points](http://go.microsoft.com/fwlink/?linkid=145873) in the Configuration Manager documentation.
+    For more information about distribution points, see [About Distribution Points](https://go.microsoft.com/fwlink/?linkid=145873) in the Configuration Manager documentation.
 
   - **Advertisements** – Advertisements let administrators target a software deployment to collections of computers or users. An advertisement specifies a package, a program, and the collection to which the advertisement is sent and deployed.
     
-    For more information about advertisements, see [About Advertisements](http://go.microsoft.com/fwlink/?linkid=145875) in the Configuration Manager documentation.
+    For more information about advertisements, see [About Advertisements](https://go.microsoft.com/fwlink/?linkid=145875) in the Configuration Manager documentation.
 
 ## Example: Deploy Microsoft Dynamics AX clients by using Configuration Manager
 
@@ -76,7 +76,7 @@ Servers A, B, and C run Windows Server 2008. The applications and roles on each 
 
 ## Create a collection
 
-This section explains how to use direct membership rules to create a collection in System Center Configuration Manager 2007. For more information about membership rules, see [About Membership Rules](http://go.microsoft.com/fwlink/?linkid=145884) in the Configuration Manager documentation.
+This section explains how to use direct membership rules to create a collection in System Center Configuration Manager 2007. For more information about membership rules, see [About Membership Rules](https://go.microsoft.com/fwlink/?linkid=145884) in the Configuration Manager documentation.
 
 1.  In the Configuration Manager Console, click **System Center Configuration Manager** \> **Site Database** \> **Computer Management** \> **Collections**.
 
@@ -102,7 +102,7 @@ This section explains how to use direct membership rules to create a collection 
 
 The source directory for a package contains all the files and subdirectories that are required to run the programs in a package. For Microsoft Dynamics AX, the source directory must contain a copy of the installation media for Microsoft Dynamics AX.
 
-For more information about source directories for packages, see [How to Set Up a Package Source Directory](http://go.microsoft.com/fwlink/?linkid=145890) in the Configuration Manager documentation.
+For more information about source directories for packages, see [How to Set Up a Package Source Directory](https://go.microsoft.com/fwlink/?linkid=145890) in the Configuration Manager documentation.
 
 ## Create a package for Microsoft Dynamics AX
 
@@ -124,7 +124,7 @@ The location from which the package is distributed is known as the distribution 
 
 Before you create programs that are used to install the Microsoft Dynamics AX client and its prerequisites, you must determine which command-line parameters are required to silently install the software. A silent installation is an installation that does not require user interaction.
 
-To install client components, use parameters for the Microsoft Dynamics AX Setup program. For information about individual parameters, see the [Setup parameters reference](http://go.microsoft.com/fwlink/?linkid=191476) on TechNet. Setup can also configure some required prerequisites, such as operating system features and roles, and redistributable components that are on the installation media for Microsoft Dynamics AX. If you want Setup to automatically configure these prerequisites, include the parameter *ConfigurePrerequisites=1* when you create the program that installs the client.
+To install client components, use parameters for the Microsoft Dynamics AX Setup program. For information about individual parameters, see the [Setup parameters reference](https://go.microsoft.com/fwlink/?linkid=191476) on TechNet. Setup can also configure some required prerequisites, such as operating system features and roles, and redistributable components that are on the installation media for Microsoft Dynamics AX. If you want Setup to automatically configure these prerequisites, include the parameter *ConfigurePrerequisites=1* when you create the program that installs the client.
 
 You can silently install other prerequisites by running the individual programs from the command line. You must create a separate program for each of these prerequisites. To determine the command-line parameters that are required, we recommend that you run the Microsoft Dynamics AX prerequisite verification utility on a representative client. When you use the utility to configure prerequisites, the log file indicates the commands that were used.
 
@@ -207,7 +207,7 @@ To use a server as a distribution point that distributes packages to client comp
 
 2.  When you have finished running the New Distribution Points Wizard, click **Close**.
 
-Before you advertise the package, we recommend that you verify that the package is stored on the distribution point. For more information about how to verify the status of a package, see [How to View the Status of a Package](http://go.microsoft.com/fwlink/?linkid=145898) in the Configuration Manager documentation.
+Before you advertise the package, we recommend that you verify that the package is stored on the distribution point. For more information about how to verify the status of a package, see [How to View the Status of a Package](https://go.microsoft.com/fwlink/?linkid=145898) in the Configuration Manager documentation.
 
 ## Create an advertisement for the Microsoft Dynamics AX client package
 
@@ -225,7 +225,7 @@ Next, you must advertise the package that contains both the Configuration Manage
     
 
     > [!NOTE]
-    > <P>In your production environment, policies may require that you select different values for the assignment schedule than the values that are shown in this example. For more information about these options, see <A href="http://go.microsoft.com/fwlink/?linkid=145900">Advertisement Name Properties: Schedule Tab</A> in the SCCM documentation.</P>
+    > <P>In your production environment, policies may require that you select different values for the assignment schedule than the values that are shown in this example. For more information about these options, see <A href="https://go.microsoft.com/fwlink/?linkid=145900">Advertisement Name Properties: Schedule Tab</A> in the SCCM documentation.</P>
 
 
 
@@ -233,7 +233,7 @@ Next, you must advertise the package that contains both the Configuration Manage
 
 The package is advertised to the targeted collection, and the silent installation of Microsoft Dynamics AX client starts.
 
-For information about how to monitor the status of an advertisement, see [How to View the Status of an Advertisement](http://go.microsoft.com/fwlink/?linkid=145901) in the Configuration Manager documentation.
+For information about how to monitor the status of an advertisement, see [How to View the Status of an Advertisement](https://go.microsoft.com/fwlink/?linkid=145901) in the Configuration Manager documentation.
 
   
 

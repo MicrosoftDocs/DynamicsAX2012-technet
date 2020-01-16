@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper provides an overview of the principles used in the credit card processing area of Microsoft Dynamics AX 2012. It describes how to automate the processes of authorizing a credit card amount at the time of an order, and then processing the charge when the order is shipped and invoiced. It also describes how to upgrade from using credit card processing for Microsoft Dynamics AX 2009 to Microsoft Dynamics AX 2012.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=221082).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=221082).
 
   
 

@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-The Retail starter store is a site built by using the commerce runtime (CRT) and the new site authoring and publishing model in Microsoft SharePoint Server 2013. You can use the Retail starter store as a basis for developing your own online store. To customize the display of items from your catalog, you can modify the display templates for the search-driven Web Parts. For more information, see the section *Search-driven Web Parts and display templates* in [Overview of the SharePoint 2013 page model](http://go.microsoft.com/fwlink/?linkid=294931&clcid=0x409).
+The Retail starter store is a site built by using the commerce runtime (CRT) and the new site authoring and publishing model in Microsoft SharePoint Server 2013. You can use the Retail starter store as a basis for developing your own online store. To customize the display of items from your catalog, you can modify the display templates for the search-driven Web Parts. For more information, see the section *Search-driven Web Parts and display templates* in [Overview of the SharePoint 2013 page model](https://go.microsoft.com/fwlink/?linkid=294931&clcid=0x409).
 
 You can modify any of the display templates that are found in the folder \_catalogs\\masterpage\\Display Templates\\Content Web Parts. This folder is available after you [Map a network drive](map-a-network-drive-to-the-sharepoint-2013-files-for-online-stores.md) to the SharePoint Server 2013 files for the starter store.
 
@@ -70,9 +70,9 @@ The following table describes three display templates that you can modify.
 
 [Architecture of the Microsoft Dynamics AX Retail online store](architecture-of-the-microsoft-dynamics-ax-retail-online-store.md)
 
-[Display template reference in SharePoint Server 2013](http://technet.microsoft.com/en-us/library/jj944947.aspx)
+[Display template reference in SharePoint Server 2013](https://technet.microsoft.com/library/jj944947.aspx)
 
-[How to: Create a display template in SharePoint Server 2013](http://msdn.microsoft.com/en-us/library/jj945138.aspx)
+[How to: Create a display template in SharePoint Server 2013](https://msdn.microsoft.com/library/jj945138.aspx)
 
   
 

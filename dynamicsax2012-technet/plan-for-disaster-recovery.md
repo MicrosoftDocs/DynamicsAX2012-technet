@@ -129,13 +129,13 @@ For more information about how to implement a disaster recovery strategy for you
 
   - [Back up and recover databases (SQL Server)](back-up-and-recover-databases-sql-server.md)
 
-  - [Backing Up and Restoring Databases in SQL Server](http://go.microsoft.com/fwlink/?linkid=215815)
+  - [Backing Up and Restoring Databases in SQL Server](https://go.microsoft.com/fwlink/?linkid=215815)
 
-  - [High Availability and Disaster Recovery for SharePoint Server 2010](http://go.microsoft.com/fwlink/?linkid=215820)
+  - [High Availability and Disaster Recovery for SharePoint Server 2010](https://go.microsoft.com/fwlink/?linkid=215820)
 
-  - [Backup and Restore Operations for a Reporting Services Installation](http://go.microsoft.com/fwlink/?linkid=215818)
+  - [Backup and Restore Operations for a Reporting Services Installation](https://go.microsoft.com/fwlink/?linkid=215818)
 
-  - [Managing Backing Up and Restoring (Analysis Services)](http://go.microsoft.com/fwlink/?linkid=215819)
+  - [Managing Backing Up and Restoring (Analysis Services)](https://go.microsoft.com/fwlink/?linkid=215819)
 
   
 

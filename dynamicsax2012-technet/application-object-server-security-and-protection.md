@@ -20,7 +20,7 @@ Application Object Server (AOS) processes client requests for data and performs 
 
 When you install AOS by using Setup, you can configure the service to use either a domain account, a managed service account, or the Network Service account. By default, a domain account is used. The Network Service account is less secure than a domain account, provided that you set up and configure the domain account correctly. The Network Service account is less secure, because it is available to other applications that are installed on the same server. Additionally, the Network Service account is translated into a computer account if the service must communicate with a different server. For example, you deploy four AOS instances that use the Network Service account, and these servers communicate with a separate instance of Microsoft SQL Server. As a result, four different computer accounts are created in SQL Server. Therefore, in this scenario, you have four accounts that a malicious user may be able to use to gain access to AOS or the database. By using a domain account, there is only one account that you must help secure. Therefore, the attack surface of your computing environment is reduced.
 
-Work with your domain administrator to create a new managed service account or domain account in Active Directory. Managed service accounts are managed domain accounts that provide automatic password management and simplified service principal name (SPN) management. SPN management includes delegation of management to other administrators. For information about managed service accounts, see [Service Accounts Step-by-Step Guide](http://go.microsoft.com/fwlink/?linkid=218113%26clcid=0x409).
+Work with your domain administrator to create a new managed service account or domain account in Active Directory. Managed service accounts are managed domain accounts that provide automatic password management and simplified service principal name (SPN) management. SPN management includes delegation of management to other administrators. For information about managed service accounts, see [Service Accounts Step-by-Step Guide](https://go.microsoft.com/fwlink/?linkid=218113%26clcid=0x409).
 
 If you use a standard domain account, the account must not be used for any other services or back office operations. The account must be a dedicated account. You must make sure that the permissions for the new account are as low, or restrictive, as possible, to help reduce the risk of processes that can harm the server. Verify with the domain administrator that the account has the following configuration:
 
@@ -78,13 +78,13 @@ IPsec helps provide in-depth defense against the following kinds of attacks:
 
   - User credential theft
 
-For more information, see [IPsec](http://go.microsoft.com/fwlink/?linkid=119801).
+For more information, see [IPsec](https://go.microsoft.com/fwlink/?linkid=119801).
 
 ## Windows Firewall
 
 Windows Firewall is a Control Panel feature that is used to set restrictions on the traffic that can enter the network from the Internet. Windows Firewall is included in Windows Server 2008.
 
-For more information, see [Windows Firewall](http://go.microsoft.com/fwlink/?linkid=118283).
+For more information, see [Windows Firewall](https://go.microsoft.com/fwlink/?linkid=118283).
 
 ## The Microsoft Security Configuration Wizard
 
@@ -104,13 +104,13 @@ The Security Configuration Wizard performs the following tasks:
 
   - Define a high signal-to-noise audit policy
 
-To open the Security Configuration Wizard, click **Start** \> **Administrative Tools** \> **Security Configuration Wizard**. We recommend that you read the Help for the wizard before you change the system. For more information about services, ports, and protocols on the Windows Server 2008 operating system, see [Service overview and network port requirements for the Windows Server system](http://go.microsoft.com/fwlink/?linkid=119804).
+To open the Security Configuration Wizard, click **Start** \> **Administrative Tools** \> **Security Configuration Wizard**. We recommend that you read the Help for the wizard before you change the system. For more information about services, ports, and protocols on the Windows Server 2008 operating system, see [Service overview and network port requirements for the Windows Server system](https://go.microsoft.com/fwlink/?linkid=119804).
 
 ## Microsoft Security Baseline Analyzer
 
 The Microsoft Baseline Security Analyzer scans your computer to detect non-secure configurations and identify any security updates that are missing. The analyzer then recommends changes and updates that can help improve the security of the computer.
 
-For more information, see [Microsoft Security Baseline Analyzer](http://go.microsoft.com/fwlink/?linkid=119802).
+For more information, see [Microsoft Security Baseline Analyzer](https://go.microsoft.com/fwlink/?linkid=119802).
 
 ## See also
 

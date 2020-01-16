@@ -38,7 +38,7 @@ In Microsoft Dynamics AX 2009, purchase requisition setup is managed on the **Pu
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The Purchase requisition control policy rule contains the parameters that define which fields are required for a purchase requisition to be submitted to workflow. This policy rule also contains the parameters that define whether minimum, maximum, and multiple quantity constraints are enforced.</p>
 <p>The Purchase requisition to purchase order creation policy rule contains the parameters that define when purchase orders are generated automatically by the system.</p>
-<p>For more information, see <a href="about-purchasing-policies.md">About purchasing policies</a> and the <a href="http://go.microsoft.com/fwlink/?linkid=213137%26clcid=0x409">Using the Policy Framework in Microsoft Dynamics AX 2012</a> white paper.</p></td>
+<p>For more information, see <a href="about-purchasing-policies.md">About purchasing policies</a> and the <a href="https://go.microsoft.com/fwlink/?linkid=213137%26clcid=0x409">Using the Policy Framework in Microsoft Dynamics AX 2012</a> white paper.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

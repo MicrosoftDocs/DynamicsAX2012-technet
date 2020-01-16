@@ -66,7 +66,7 @@ If an account for discounts is specified, the product receipt amount includes th
 
 To specify that a purchase is for the internal use of a fixed asset, select the **Fixed asset receipt** check box on the **Fixed assets** tab on the **Line details** FastTab in the **Purchase order** form. For more information, see [About fixed assets integration](about-fixed-assets-integration.md).
 
-For information about inventory and financial posting for stocked items, see the white paper titled [Accounting for stocked items on product receipts and vendor invoices](http://go.microsoft.com/fwlink/?linkid=233756).
+For information about inventory and financial posting for stocked items, see the white paper titled [Accounting for stocked items on product receipts and vendor invoices](https://go.microsoft.com/fwlink/?linkid=233756).
 
 ## Set up offset accounts and encumbrance processing
 

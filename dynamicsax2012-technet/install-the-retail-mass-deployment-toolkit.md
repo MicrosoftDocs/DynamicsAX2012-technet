@@ -28,7 +28,7 @@ For information about the deployment scenarios where you can use the toolkit, se
 
   - On the computer where you plan to install this component, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
   - To export retail topologies from Microsoft Dynamics AX, the toolkit must be able to connect to Microsoft Dynamics AX via .NET Business Connector.
 

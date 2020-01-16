@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Microsoft Dynamics AX Retail online store enables you to deploy, manage, and customize an online sales channel that is fully integrated with Microsoft Dynamics AX. The online store is built on the Microsoft SharePoint Server 2013 cross-site publishing platform. Cross-site publishing uses one or more authoring site collections to author and store content, and one or more publishing site collections to control the design of the site and to show content. The authoring site collection can contain catalogs such as Pages libraries, and lists of items that are tagged with metadata. These catalogs are indexed by the search system and made available to the Publishing Portal. The Publishing Portal displays previously indexed data on web pages by using search-driven Web Parts.
 
-This topic describes the architecture, features, and components of the Retail online store. Before you continue, we suggest that you learn about the features and architecture of SharePoint cross-site publishing. For more information, see [Plan for cross-site publishing in SharePoint Server 2013](http://go.microsoft.com/fwlink/?linkid=282721) and [Plan the logical architecture for cross-site publishing in SharePoint Server 2013](http://go.microsoft.com/fwlink/?linkid=285203).
+This topic describes the architecture, features, and components of the Retail online store. Before you continue, we suggest that you learn about the features and architecture of SharePoint cross-site publishing. For more information, see [Plan for cross-site publishing in SharePoint Server 2013](https://go.microsoft.com/fwlink/?linkid=282721) and [Plan the logical architecture for cross-site publishing in SharePoint Server 2013](https://go.microsoft.com/fwlink/?linkid=285203).
 
 ## Features and components of the Retail online store
 
@@ -44,11 +44,11 @@ The Microsoft Dynamics AX commerce runtime is a set of .dlls that perform busine
 
 ### ![Dn194016.collapse\_all(en-us,AX.60).gif](images/Gg841655.collapse_all(en-us,AX.60).gif "Dn194016.collapse_all(en-us,AX.60).gif")Search
 
-The Microsoft SharePoint Server 2013 cross-site publishing platform uses Microsoft FAST Search and search-driven pages to dynamically display content for customers. For more information about FAST Search in cross-site publishing, see [Plan search for cross-site publishing sites in SharePoint Server 2013](http://go.microsoft.com/fwlink/?linkid=286142)
+The Microsoft SharePoint Server 2013 cross-site publishing platform uses Microsoft FAST Search and search-driven pages to dynamically display content for customers. For more information about FAST Search in cross-site publishing, see [Plan search for cross-site publishing sites in SharePoint Server 2013](https://go.microsoft.com/fwlink/?linkid=286142)
 
 ### ![Dn194016.collapse\_all(en-us,AX.60).gif](images/Gg841655.collapse_all(en-us,AX.60).gif "Dn194016.collapse_all(en-us,AX.60).gif")Term sets
 
-You use term sets to tag catalog content such as pages or list items on the authoring site. By doing this, terms help categorize the content into a hierarchy. These same terms are later used on the publishing site to issue queries, show information about category and catalog item pages, create friendly URLs, and for managed navigation. For more information, see [Plan terms and term sets in SharePoint Server 2013](http://go.microsoft.com/fwlink/?linkid=282752).
+You use term sets to tag catalog content such as pages or list items on the authoring site. By doing this, terms help categorize the content into a hierarchy. These same terms are later used on the publishing site to issue queries, show information about category and catalog item pages, create friendly URLs, and for managed navigation. For more information, see [Plan terms and term sets in SharePoint Server 2013](https://go.microsoft.com/fwlink/?linkid=282752).
 
 ### ![Dn194016.collapse\_all(en-us,AX.60).gif](images/Gg841655.collapse_all(en-us,AX.60).gif "Dn194016.collapse_all(en-us,AX.60).gif")Retail online store databases
 

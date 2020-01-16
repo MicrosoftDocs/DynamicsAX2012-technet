@@ -40,7 +40,7 @@ If the Microsoft Dynamics AX Setup wizard cannot retrieve a list of Analysis Ser
 
 If the Microsoft Dynamics AX Setup wizard displays a warning that states that you must install cumulative update package 1 for SQL Server 2012, follow these steps.
 
-1.  Download and install [cumulative update package 1 for SQL Server 2012](http://support.microsoft.com/kb/2679368).
+1.  Download and install [cumulative update package 1 for SQL Server 2012](https://support.microsoft.com/kb/2679368).
 
 2.  Open SQL Server Management Studio and connect to your instance of Analysis Services.
 

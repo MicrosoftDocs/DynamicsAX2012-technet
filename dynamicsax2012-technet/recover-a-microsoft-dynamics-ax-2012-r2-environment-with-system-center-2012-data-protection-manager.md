@@ -54,7 +54,7 @@ This section describes issues that you might encounter and how you can recover f
 
 **Symptom:** Replica creation, recovery point creation, or the consistency check failed, and an error 52 was generated.
 
-**Resolution:** Enable throttling for the DPM agent that experiences communication issues. For more information, see [Using Network Bandwidth Usage Throttling](http://technet.microsoft.com/en-us/library/hh758159.aspx). For backups, if you continue to receive this error, a consistency check usually transfers the last bits of data and produces a replica in the **OK** state. We use 3 Mbps as the throttling default. You might want to adjust throttling based on your network bandwidth.
+**Resolution:** Enable throttling for the DPM agent that experiences communication issues. For more information, see [Using Network Bandwidth Usage Throttling](https://technet.microsoft.com/library/hh758159.aspx). For backups, if you continue to receive this error, a consistency check usually transfers the last bits of data and produces a replica in the **OK** state. We use 3 Mbps as the throttling default. You might want to adjust throttling based on your network bandwidth.
 
   
 

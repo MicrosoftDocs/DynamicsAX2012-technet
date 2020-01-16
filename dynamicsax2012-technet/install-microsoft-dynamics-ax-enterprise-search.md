@@ -49,7 +49,7 @@ This topic describes how to install Microsoft Dynamics AX Enterprise Search. You
 <tr class="odd">
 <td><p>Verify prerequisites</p></td>
 <td><p>On the computer where you will install Enterprise Search, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see <a href="check-prerequisites.md">Check prerequisites</a>.</p>
-<p>For more information about the hardware and software requirements for Microsoft Dynamics AX, see the <a href="http://go.microsoft.com/fwlink/?linkid=165377">system requirements</a>.</p></td>
+<p>For more information about the hardware and software requirements for Microsoft Dynamics AX, see the <a href="https://go.microsoft.com/fwlink/?linkid=165377">system requirements</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Stop BDC service in load balanced environments</p></td>
@@ -57,7 +57,7 @@ This topic describes how to install Microsoft Dynamics AX Enterprise Search. You
 </tr>
 <tr class="odd">
 <td><p>Install hotfix</p></td>
-<td><p>If you are installing Enterprise Search on Microsoft Search Server 2010 Express, you must install the SharePoint Server 2010 hotfix package dated August 31, 2010. If you do not install the hotfix, you receive the following error message when you install Enterprise Search: “The trial period for this product has expired.” For more information and to download the hotfix package, see Microsoft Knowledge Base article number <a href="http://support.microsoft.com/kb/2276336">2276336</a>.</p></td>
+<td><p>If you are installing Enterprise Search on Microsoft Search Server 2010 Express, you must install the SharePoint Server 2010 hotfix package dated August 31, 2010. If you do not install the hotfix, you receive the following error message when you install Enterprise Search: “The trial period for this product has expired.” For more information and to download the hotfix package, see Microsoft Knowledge Base article number <a href="https://support.microsoft.com/kb/2276336">2276336</a>.</p></td>
 </tr>
 </tbody>
 </table>

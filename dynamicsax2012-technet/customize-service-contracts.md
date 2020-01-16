@@ -28,7 +28,7 @@ This topic describes how to configure service contracts in services and Applicat
 
 Use the **Service contract customizations** FastTab to specify which service operations are available, and which data policies are used to customize documents.
 
-For information about the types of services that Microsoft Dynamics AX 2012 supports and an overview of service operations, see [Services, service operations, and service groups](services-service-operations-and-service-groups.md). For more information about document service classes that includes details about the data fields and service operations that are supported, see [Standard Axd Documents](http://go.microsoft.com/fwlink/?linkid=216872) on MSDN.
+For information about the types of services that Microsoft Dynamics AX 2012 supports and an overview of service operations, see [Services, service operations, and service groups](services-service-operations-and-service-groups.md). For more information about document service classes that includes details about the data fields and service operations that are supported, see [Standard Axd Documents](https://go.microsoft.com/fwlink/?linkid=216872) on MSDN.
 
 ## Register services
 

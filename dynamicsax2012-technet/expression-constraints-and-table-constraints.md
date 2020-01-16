@@ -156,7 +156,7 @@ You can create system-defined and user-defined table constraints. For more infor
 
 ## What syntax should be used to solve constraints in Microsoft Dynamics AX?
 
-You must use Optimization Modeling Language (OML) syntax when you write the constraints. Microsoft Dynamics AX uses Microsoft Solver Foundation constraint solver to solve the constraints. For more information, see [Microsoft Solver Foundation](http://go.microsoft.com/fwlink/?linkid=217059).
+You must use Optimization Modeling Language (OML) syntax when you write the constraints. Microsoft Dynamics AX uses Microsoft Solver Foundation constraint solver to solve the constraints. For more information, see [Microsoft Solver Foundation](https://go.microsoft.com/fwlink/?linkid=217059).
 
 ## Should I use table constraints or expression constraints?
 

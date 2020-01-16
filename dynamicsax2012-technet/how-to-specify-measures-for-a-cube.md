@@ -96,7 +96,7 @@ The following procedure explains how to specify a measure for a cube on a field 
 
 [How to: Create a New SQL Server Analysis Services Project](create-a-new-sql-server-analysis-services-project.md)
 
-[Measures and Measure Groups (SQL Server Books Online)](http://go.microsoft.com/fwlink/?linkid=115058)
+[Measures and Measure Groups (SQL Server Books Online)](https://go.microsoft.com/fwlink/?linkid=115058)
 
-[Introduction to Cubes (SQL Server Books Online)](http://go.microsoft.com/fwlink/?linkid=115081)
+[Introduction to Cubes (SQL Server Books Online)](https://go.microsoft.com/fwlink/?linkid=115081)
 

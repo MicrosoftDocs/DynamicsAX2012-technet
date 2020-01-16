@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 Enterprise Portal for Microsoft Dynamics AX provides a web-based application framework that lets users interact with data in Microsoft Dynamics AX 2012 through a browser. This guide explains the features of Enterprise Portal, and provides instructions for common development techniques for customizations.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=221035).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=221035).
 
   
 

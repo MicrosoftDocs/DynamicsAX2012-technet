@@ -18,9 +18,9 @@ Microsoft Dynamics AX offers a rich set of features for software developers. For
 
 ## See also
 
-[Microsoft Dynamics AX Developer Center](http://go.microsoft.com/fwlink/?linkid=110356)
+[Microsoft Dynamics AX Developer Center](https://go.microsoft.com/fwlink/?linkid=110356)
 
-[Microsoft Dynamics AX 2012 for Developers](http://go.microsoft.com/fwlink/?linkid=224461)
+[Microsoft Dynamics AX 2012 for Developers](https://go.microsoft.com/fwlink/?linkid=224461)
 
   
 

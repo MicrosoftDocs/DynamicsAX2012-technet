@@ -156,13 +156,13 @@ Complete the following tasks before you install Enterprise Portal in a tradition
 
   - On the computer where you will install Enterprise Portal, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
   - If you are installing Enterprise Portal on a server that already hosts an Enterprise Portal deployment and you want to overwrite that deployment, you must have Full Control permission in SharePoint for the existing Enterprise Portal site collection. If you do not have Full Control permission, you will not be able to delete the existing site collection by using Setup.
 
 
 > [!IMPORTANT]
-> <P>If you attempt to install Enterprise Portal on an existing Internet Information Services (IIS) site that is already configured to use a host header, the installation fails, unless you create a <A href="http://go.microsoft.com/fwlink/?linkid=194948">BackConnectionHostNames</A> registry entry.</P>
+> <P>If you attempt to install Enterprise Portal on an existing Internet Information Services (IIS) site that is already configured to use a host header, the installation fails, unless you create a <A href="https://go.microsoft.com/fwlink/?linkid=194948">BackConnectionHostNames</A> registry entry.</P>
 
 
 
@@ -304,7 +304,7 @@ Table 1: Ports for a traditional perimeter network to support Enterprise Portal
 </table>
 
 
-If necessary, use Telnet or Netmon to verify these ports. For more information about how to configure firewall ports, see [How to configure a firewall for domains and trusts](http://support.microsoft.com/kb/179442).
+If necessary, use Telnet or Netmon to verify these ports. For more information about how to configure firewall ports, see [How to configure a firewall for domains and trusts](https://support.microsoft.com/kb/179442).
 
 ## Configure DNS
 

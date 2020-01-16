@@ -86,7 +86,7 @@ The focus of the integration between Microsoft Dynamics AX and Project Server is
 
 ## Finding detailed setup information
 
-For detailed information about how to integrate Microsoft Dynamics AX and Project Server so that you can use the features of both programs to manager your projects, see the white paper [Microsoft Project Server 2010 Integration with Microsoft Dynamics AX 2012](http://go.microsoft.com/fwlink/?linkid=215155).
+For detailed information about how to integrate Microsoft Dynamics AX and Project Server so that you can use the features of both programs to manager your projects, see the white paper [Microsoft Project Server 2010 Integration with Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=215155).
 
 ## See also
 

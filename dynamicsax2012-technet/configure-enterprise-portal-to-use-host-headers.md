@@ -24,13 +24,13 @@ By default, when you create an Enterprise Portal site, SharePoint uses the name 
 
 
 > [!IMPORTANT]
-> <P>If you attempt to install Enterprise Portal on an existing Internet Information Services (IIS) site that is already configured with a host header, the installation fails unless you create a <A href="http://go.microsoft.com/fwlink/?linkid=194948">BackConnectionHostNames</A> registry entry.</P>
+> <P>If you attempt to install Enterprise Portal on an existing Internet Information Services (IIS) site that is already configured with a host header, the installation fails unless you create a <A href="https://go.microsoft.com/fwlink/?linkid=194948">BackConnectionHostNames</A> registry entry.</P>
 
 
 
 ## Configure host headers
 
-If you are creating a new Enterprise Portal web site in SharePoint, you can specify a name in the **Host Header** text box in the **Create New Web Application** form. To specify a host header for an existing site, use IIS Manager. For more information, see [Configure a Host Header for a Web site (IIS 7)](http://go.microsoft.com/fwlink/?linkid=223134). If you specify a host-header name for an existing site in IIS, you must also specify the name in the **Web sites** form in Microsoft Dynamics AX (Click **System administration**> **Setup**> **Enterprise Portal**> **Web sites**.).
+If you are creating a new Enterprise Portal web site in SharePoint, you can specify a name in the **Host Header** text box in the **Create New Web Application** form. To specify a host header for an existing site, use IIS Manager. For more information, see [Configure a Host Header for a Web site (IIS 7)](https://go.microsoft.com/fwlink/?linkid=223134). If you specify a host-header name for an existing site in IIS, you must also specify the name in the **Web sites** form in Microsoft Dynamics AX (Click **System administration**> **Setup**> **Enterprise Portal**> **Web sites**.).
 
 ## See also
 

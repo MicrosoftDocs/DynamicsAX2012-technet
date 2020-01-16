@@ -136,7 +136,7 @@ If you don't have access to the pages that are used to complete this task, conta
 
 [Business process: demand forecasting](business-process-demand-forecasting.md)
 
-[Microsoft Time Series Technical Reference](http://msdn.microsoft.com/en-us/library/bb677216.aspx)
+[Microsoft Time Series Technical Reference](https://msdn.microsoft.com/library/bb677216.aspx)
 
 [Analytics in Microsoft Dynamics AX](analytics-in-microsoft-dynamics-ax.md)
 

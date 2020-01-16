@@ -26,11 +26,11 @@ This topic describes how to deploy an Enterprise Portal for Microsoft Dynamics A
 
 Before you create a forms-based Enterprise Portal site, we recommend that you learn about the concepts of claims-based authentication. The procedures in this topic assume that you are familiar with the concepts in the following documents.
 
-[Forms Authentication Provider](http://go.microsoft.com/fwlink/?linkid=235460)
+[Forms Authentication Provider](https://go.microsoft.com/fwlink/?linkid=235460)
 
-[A Guide to Claims-Based Identity and Access Control (2nd Edition)](http://go.microsoft.com/fwlink/?linkid=234145)
+[A Guide to Claims-Based Identity and Access Control (2nd Edition)](https://go.microsoft.com/fwlink/?linkid=234145)
 
-[Implementing Claims-Based Authentication with SharePoint Server 2010](http://go.microsoft.com/fwlink/?linkid=234146)
+[Implementing Claims-Based Authentication with SharePoint Server 2010](https://go.microsoft.com/fwlink/?linkid=234146)
 
 This topic includes the following sections.
 
@@ -79,8 +79,8 @@ Complete the following tasks before you install Enterprise Portal.
 <tr class="odd">
 <td><p>Install Microsoft Dynamics AX hotfixes for claims-mode authentication (required for Microsoft Dynamics AX 2012 R2 or earlier; not required for Microsoft Dynamics AX 2012 R3).</p></td>
 <td><ol>
-<li><p><a href="http://go.microsoft.com/fwlink/?linkid=294944">Download</a> and install the Microsoft Dynamics AX 2012 claims-mode authentication hotfix (KB 2823664).</p></li>
-<li><p><a href="http://go.microsoft.com/fwlink/?linkid=294677">Download</a> and install the Microsoft Dynamics AX 2012 R2 claims-mode authentication hotfix (KB 2824690).</p></li>
+<li><p><a href="https://go.microsoft.com/fwlink/?linkid=294944">Download</a> and install the Microsoft Dynamics AX 2012 claims-mode authentication hotfix (KB 2823664).</p></li>
+<li><p><a href="https://go.microsoft.com/fwlink/?linkid=294677">Download</a> and install the Microsoft Dynamics AX 2012 R2 claims-mode authentication hotfix (KB 2824690).</p></li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -111,7 +111,7 @@ Complete the following tasks before you install Enterprise Portal.
 <tr class="odd">
 <td><p>Verify prerequisites and system requirements</p></td>
 <td><p>On the computer where you will install Enterprise Portal, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see <a href="check-prerequisites.md">Check prerequisites</a>.</p>
-<p>For more information about the hardware and software requirements for Microsoft Dynamics AX, see the <a href="http://go.microsoft.com/fwlink/?linkid=165377">system requirements</a>.</p></td>
+<p>For more information about the hardware and software requirements for Microsoft Dynamics AX, see the <a href="https://go.microsoft.com/fwlink/?linkid=165377">system requirements</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Verify permissions</p></td>
@@ -218,7 +218,7 @@ The procedures in this section require secure sockets layer (SSL) and security t
 </table>
 
 
-For test environments, you can create [self-signed certificates](http://go.microsoft.com/fwlink/?linkid=235235) by using Internet Information Services (IIS) manager. However, for production environments you must acquire certificates from a valid certificate authority. Before you proceed in this topic, install SSLCert1 and SSLCert2 into the **Personal** node in the certificate store on the web server. You will configure the STScertSigningCert later in this document. For information about how to work with certificates see [Certificate Overview](http://go.microsoft.com/fwlink/?linkid=282620).
+For test environments, you can create [self-signed certificates](https://go.microsoft.com/fwlink/?linkid=235235) by using Internet Information Services (IIS) manager. However, for production environments you must acquire certificates from a valid certificate authority. Before you proceed in this topic, install SSLCert1 and SSLCert2 into the **Personal** node in the certificate store on the web server. You will configure the STScertSigningCert later in this document. For information about how to work with certificates see [Certificate Overview](https://go.microsoft.com/fwlink/?linkid=282620).
 
 1.  On the Windows server that will host the forms-based Enterprise Portal site, click **Start** \> **Run**, type mmc, and then click **OK**.
 
@@ -264,7 +264,7 @@ You must enable the SharePoint claims to Windows token service (C2WTS) for claim
 
 ## Create a claims-aware Enterprise Portal site
 
-This section describes how to create a claims-aware Enterprise Portal site by using a Microsoft Windows PowerShell cmdlet. The cmdlet in this section first creates a claims-aware web application in SharePoint, and then deploys an Enterprise Portal site on that web application. If you are not familiar with Windows PowerShell cmdlets for Microsoft Dynamics AX, see [Administering Microsoft Dynamics AX by using Windows PowerShell](http://go.microsoft.com/fwlink/?linkid=235298) for more information. You can also create a claims-aware Enterprise Portal site on an existing SharePoint web application. Complete one of the following procedures.
+This section describes how to create a claims-aware Enterprise Portal site by using a Microsoft Windows PowerShell cmdlet. The cmdlet in this section first creates a claims-aware web application in SharePoint, and then deploys an Enterprise Portal site on that web application. If you are not familiar with Windows PowerShell cmdlets for Microsoft Dynamics AX, see [Administering Microsoft Dynamics AX by using Windows PowerShell](https://go.microsoft.com/fwlink/?linkid=235298) for more information. You can also create a claims-aware Enterprise Portal site on an existing SharePoint web application. Complete one of the following procedures.
 
   - Create a claims-aware site on a new SharePoint web application
 
@@ -292,7 +292,7 @@ This section describes how to create a claims-aware Enterprise Portal site by us
     
     When prompted, enter the password that you specified when you exported the SSL certificate.
 
-5.  On the Enterprise Portal server, execute the **New-AXClaimsAwareEnterprisePortalServer** cmdlet. For descriptions of the required parameters and syntax, see [New-AXClaimsAwareEnterprisePortalServer](http://go.microsoft.com/fwlink/?linkid=217573) on TechNet.
+5.  On the Enterprise Portal server, execute the **New-AXClaimsAwareEnterprisePortalServer** cmdlet. For descriptions of the required parameters and syntax, see [New-AXClaimsAwareEnterprisePortalServer](https://go.microsoft.com/fwlink/?linkid=217573) on TechNet.
     
     The following example shows the cmdlet with the required parameters. Note that the port value of 8000 is a user-defined value. You can specify any available port number. If you specify port 443, then you do not need to specify the port number when you type the web site URL.
     
@@ -572,7 +572,7 @@ An Enterprise Portal site can support multiple identity providers. When a user s
     
     $SigningCert = Get-PfxCertificate c:\\certs\\\<string\>.cer
 
-5.  On the Enterprise Portal server, execute the **Add-AXSharepointClaimsAuthenticationProvider** cmdlet. For descriptions of the required parameters and syntax, see [Add-AXSharepointClaimsAuthenticationProvider](http://go.microsoft.com/fwlink/?linkid=217572) on TechNet.
+5.  On the Enterprise Portal server, execute the **Add-AXSharepointClaimsAuthenticationProvider** cmdlet. For descriptions of the required parameters and syntax, see [Add-AXSharepointClaimsAuthenticationProvider](https://go.microsoft.com/fwlink/?linkid=217572) on TechNet.
     
     The following example shows the cmdlet with the required parameters. Note that the name FormsAuth and the port value 8088 are user-specified values. You can specify any name and available port.
     
@@ -586,7 +586,7 @@ An Enterprise Portal site can support multiple identity providers. When a user s
 
 
 
-6.  On the Enterprise Portal server, execute the **Add-AXEnterprisePortalClaimsAuthenticationProvider** cmdlet. For descriptions of the required parameters and syntax, see [Add-AXEnterprisePortalClaimsAuthenticationProvider](http://go.microsoft.com/fwlink/?linkid=217571) on TechNet.
+6.  On the Enterprise Portal server, execute the **Add-AXEnterprisePortalClaimsAuthenticationProvider** cmdlet. For descriptions of the required parameters and syntax, see [Add-AXEnterprisePortalClaimsAuthenticationProvider](https://go.microsoft.com/fwlink/?linkid=217571) on TechNet.
     
     The following example shows the cmdlet with the required parameters.
     
@@ -614,7 +614,7 @@ By default, the forms-based authentication provider does not require new users t
 
 
 > [!IMPORTANT]
-> <P>By default, the maxinvalidPasswordAttempts property in the web.config file is configured to allow unlimited logon attempts. We recommend that you configure the property to limit the number of logon attempts. For more information, see <A href="http://msdn.microsoft.com/en-us/library/system.web.security.sqlmembershipprovider.maxinvalidpasswordattempts.aspx">SqlMembershipProvider.MaxInvalidPasswordAttempts</A> Property.</P>
+> <P>By default, the maxinvalidPasswordAttempts property in the web.config file is configured to allow unlimited logon attempts. We recommend that you configure the property to limit the number of logon attempts. For more information, see <A href="https://msdn.microsoft.com/library/system.web.security.sqlmembershipprovider.maxinvalidpasswordattempts.aspx">SqlMembershipProvider.MaxInvalidPasswordAttempts</A> Property.</P>
 
 
 
@@ -628,7 +628,7 @@ If you are creating a claims user, specify the name of the claims provider in th
 
 2.  Click **Microsoft Dynamics Ax 2012 Management Shell**.
 
-3.  On the Enterprise Portal server, execute the **New-AXUser** cmdlet. For descriptions of the required parameters and syntax, see [New-AXUser](http://go.microsoft.com/fwlink/?linkid=217580) on TechNet.
+3.  On the Enterprise Portal server, execute the **New-AXUser** cmdlet. For descriptions of the required parameters and syntax, see [New-AXUser](https://go.microsoft.com/fwlink/?linkid=217580) on TechNet.
     
     The following example shows the cmdlet with the required parameters. The *AXUserId*, *UserName*, *UserDomain*, and *Password* are user-specified values. The *UserDomain* is the same value specified for Name in Step 7 of the previous procedure.
     

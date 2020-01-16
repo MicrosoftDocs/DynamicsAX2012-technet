@@ -126,7 +126,7 @@ You can view the effect of the update process on general ledger transactions in 
 <tr class="odd">
 <td><p>Generate a <strong>Detailed trial balance</strong> report. Click <strong>General ledger</strong> &gt; <strong>Reports</strong> &gt; <strong>Transactions</strong> &gt; <strong>Detailed trial balance</strong>.</p></td>
 <td><p>Displays opening balances, debits, credits, and the resulting balances for ledger accounts for a specified date range.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=390497%26clcid=0x409">Trial balance report (LedgerTrialBalance)</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=390497%26clcid=0x409">Trial balance report (LedgerTrialBalance)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>View the General ledger <strong>Voucher transactions</strong> inquiry form. Click <strong>General ledger</strong> &gt; <strong>Inquiries</strong> &gt; <strong>Voucher transactions</strong>.</p></td>
@@ -144,7 +144,7 @@ You can view the effect of the update process on general ledger transactions in 
 
 
 > [!NOTE]
-> <P>These are only some of the ways you can report on and view general ledger transactions. To print financial reports, you can use Management Reporter for Microsoft Dynamics ERP, or you can use the traditional financial reports that are included with Microsoft Dynamics AX. For more information about how to print financial reports by using Management Reporter, see <A href="http://go.microsoft.com/fwlink/?linkid=324762">Management Reporter for Microsoft Dynamics ERP</A>.</P>
+> <P>These are only some of the ways you can report on and view general ledger transactions. To print financial reports, you can use Management Reporter for Microsoft Dynamics ERP, or you can use the traditional financial reports that are included with Microsoft Dynamics AX. For more information about how to print financial reports by using Management Reporter, see <A href="https://go.microsoft.com/fwlink/?linkid=324762">Management Reporter for Microsoft Dynamics ERP</A>.</P>
 
 
 

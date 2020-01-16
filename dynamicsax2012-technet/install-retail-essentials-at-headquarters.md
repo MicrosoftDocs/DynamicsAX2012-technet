@@ -149,7 +149,7 @@ Install the following components on the online store server.
 
   - On the computer where you plan to install these components, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 ## Install components of Retail essentials on the database server
 
@@ -179,7 +179,7 @@ Use this procedure to install Retail essentials on the database server. If you s
     
 
     > [!IMPORTANT]
-    > <P>The database name must not include any spaces or any of the following characters: backslashes (\), slashes (/), periods (.), commas (,), colons (:), brackets ([ ]), parentheses (( )), or hyphens (-). For more information about characters that are allowed by SQL Server, see the <A href="http://go.microsoft.com/fwlink/?linkid=214698">Identifiers</A> topic on MSDN.</P>
+    > <P>The database name must not include any spaces or any of the following characters: backslashes (\), slashes (/), periods (.), commas (,), colons (:), brackets ([ ]), parentheses (( )), or hyphens (-). For more information about characters that are allowed by SQL Server, see the <A href="https://go.microsoft.com/fwlink/?linkid=214698">Identifiers</A> topic on MSDN.</P>
 
     
     Click **Next**.
@@ -224,7 +224,7 @@ Use this procedure to install Retail essentials on the database server. If you s
 
   - On the computer where you plan to install these components, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 ## Install components of Retail essentials on the Microsoft Dynamics AX server
 
@@ -396,7 +396,7 @@ Customize the online store for your company. For more information, see [Getting 
 
   - On the computer where you plan to install these components, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 ## Install components of Retail essentials on the online store web server
 

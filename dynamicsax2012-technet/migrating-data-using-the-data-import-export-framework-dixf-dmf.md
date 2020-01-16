@@ -267,7 +267,7 @@ This section describes how to configure a source data format for data from an OD
 1.  Open **Data Import/Export Framework** &gt; **Setup** &gt; **Source data formats**.
 2.  Click **New**.
 3.  Click **Type**, and then select **ODBC**.
-4.  The Data Import/Export Framework connects to ODBC by using a data source name (DSN) type. In the **DSN** section, define which type of DSN you are using to connect, and where the DSN is located. If you have not yet defined a DSN for your ODBC connection, determine which type of DSN to use. For more information about DSNs, see [Using the ODBC Data Source Administrator](http://go.microsoft.com/fwlink/?LinkId=269895).
+4.  The Data Import/Export Framework connects to ODBC by using a data source name (DSN) type. In the **DSN** section, define which type of DSN you are using to connect, and where the DSN is located. If you have not yet defined a DSN for your ODBC connection, determine which type of DSN to use. For more information about DSNs, see [Using the ODBC Data Source Administrator](https://go.microsoft.com/fwlink/?LinkId=269895).
     -   **User DSN** – This type is available only to the person who created the DSN.
     -   **System DSN** – This type is available to all users of a computer.
     -   **File DSN** – This type lets you connect to a data provider. File DSNs can be shared by users who have the same drivers installed.

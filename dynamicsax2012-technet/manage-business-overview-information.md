@@ -53,7 +53,7 @@ To configure the Business Overview web part to display indicators, follow these 
 
 3.  From the **Cube** list, select the cube that contains the indicator, or measure, that you want to display.
     
-    For more information about the measures that are contained in each cube, see the [Cube and KPI reference for Microsoft Dynamics AX 2012 R2](http://go.microsoft.com/fwlink/?linkid=268892).
+    For more information about the measures that are contained in each cube, see the [Cube and KPI reference for Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=268892).
 
 4.  From the **Indicator** list, select the indicator to display.
 
@@ -140,7 +140,7 @@ To configure the Business Overview web part to display KPIs, follow these steps.
 
 3.  From the **Cube** list, select the cube that contains the KPI that you want to display.
     
-    For more information about the KPIs that are contained in each cube, see the [Cube and KPI reference for Microsoft Dynamics AX 2012 R2](http://go.microsoft.com/fwlink/?linkid=268892).
+    For more information about the KPIs that are contained in each cube, see the [Cube and KPI reference for Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=268892).
 
 4.  From the **KPI** list, select the KPI to display.
 

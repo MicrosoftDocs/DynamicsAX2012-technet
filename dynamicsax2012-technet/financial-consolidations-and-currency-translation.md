@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 This white paper shows how Management Reporter for Microsoft Dynamics ERP and Microsoft Dynamics AX 2012 consolidate multi-company and multi-currency data. It is intended for finance and accounting end users, and application consultants.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=389548)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=389548)
 
   
 

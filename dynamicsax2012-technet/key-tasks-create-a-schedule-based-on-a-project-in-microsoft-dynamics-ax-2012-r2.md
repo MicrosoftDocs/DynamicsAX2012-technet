@@ -184,7 +184,7 @@ Back to top
 
 [About resource management for projects](about-resource-management-for-projects.md)
 
-[Microsoft Dynamics AX 2012 R2 – Resource scheduling in Project management and accounting](http://go.microsoft.com/fwlink/?linkid=268038%26amp%3bclcid=0x409)
+[Microsoft Dynamics AX 2012 R2 – Resource scheduling in Project management and accounting](https://go.microsoft.com/fwlink/?linkid=268038%26amp%3bclcid=0x409)
 
   
 

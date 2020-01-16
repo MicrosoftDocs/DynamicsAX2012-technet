@@ -20,7 +20,7 @@ The client application is a 32-bit Windows application that provides a rich user
 
 
 > [!NOTE]
-> <P>Because of the volume of communication that passes between the client and the server, you may experience diminished response time if your network does not meet the minimum requirements for latency and bandwidth. For more information, see the <A href="http://go.microsoft.com/fwlink/?linkid=165377">System requirements</A>.</P>
+> <P>Because of the volume of communication that passes between the client and the server, you may experience diminished response time if your network does not meet the minimum requirements for latency and bandwidth. For more information, see the <A href="https://go.microsoft.com/fwlink/?linkid=165377">System requirements</A>.</P>
 
 
 

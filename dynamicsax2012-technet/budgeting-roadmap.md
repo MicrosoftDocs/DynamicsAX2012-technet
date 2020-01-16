@@ -40,9 +40,9 @@ In Budgeting, you can configure and set up budget planning processes based on th
 <p>Integration of Budgeting</p>
 <p>Still didn’t find what you were looking for?</p></td>
 <td><img src="images/Dn800886.TopicIcons_RelatedResources(AX.60).png" title="Related resources" alt="Related resources" />
-<p><a href="http://go.microsoft.com/fwlink/?linkid=507697">Configuring budget planning</a> (white paper)</p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=272873">Configuring budget plan templates</a> (white paper)</p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=507698">Budget planning for Dynamics AX 2012 R2 reporting by using Management Reporter</a> (blog)</p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=507697">Configuring budget planning</a> (white paper)</p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=272873">Configuring budget plan templates</a> (white paper)</p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=507698">Budget planning for Dynamics AX 2012 R2 reporting by using Management Reporter</a> (blog)</p>
 <p><a href="strategies-for-using-the-budget-planning-analysis-data-cube-in-microsoft-dynamics-ax-2012-r2.md">Strategies for Using the Budget Planning Analysis Data Cube in Microsoft Dynamics AX 2012 R2</a> (white paper)</p>
 <p><a href="http://community.dynamics.com/ax/f/33.aspx">Microsoft Dynamics AX Forum</a> (forum)</p>
 <p><a href="http://www.microsoft.com/en-us/download/details.aspx?displaylang=en%26id=29210">Help and Resources Datasheet for Dynamics AX 2012</a> (download)</p>
@@ -276,7 +276,7 @@ This section includes information about reports for Budgeting.
 <td><p>Budgeting and financial reports</p></td>
 <td><p>To create, maintain, deploy, and view financial reports, you can use Management Reporter for Microsoft Dynamics ERP (recommended), or you can use the traditional financial statements that are included with AX 2012.</p>
 <p>You can use Management Reporter to report on budget planning data only if you have rollup 4 or later for Management Reporter 2012 installed.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=324762">Management Reporter for Microsoft Dynamics ERP</a></p>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=324762">Management Reporter for Microsoft Dynamics ERP</a></p>
 <p><a href="about-traditional-financial-statements.md">About traditional financial statements</a></p></td>
 </tr>
 <tr class="odd">

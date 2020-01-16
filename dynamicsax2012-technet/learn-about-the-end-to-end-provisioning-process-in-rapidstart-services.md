@@ -58,7 +58,7 @@ The provisioning process can be summarized as follows:
 
 [Add users and assign roles in RapidStart Services](add-users-and-assign-roles-in-rapidstart-services.md)
 
-[Online services for Microsoft Dynamics ERP](http://go.microsoft.com/fwlink/p/?linkid=141031)
+[Online services for Microsoft Dynamics ERP](https://go.microsoft.com/fwlink/p/?linkid=141031)
 
   
 

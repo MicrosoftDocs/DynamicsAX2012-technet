@@ -18,7 +18,7 @@ The Retail Channel Configuration Utility (formerly named Retail Store Database U
 
 You must install the Retail Channel Configuration Utility on each computer where you want to use it. Use the Setup wizard for Microsoft Dynamics AX to install the utility. For more information, see [Install the Retail Channel Configuration Utility (Retail Store Database Utility)](install-the-retail-channel-configuration-utility-retail-store-database-utility.md).
 
-The procedures in this topic assume that you have installed a supported version of Microsoft SQL Server on the computer where you plan to run the Retail Channel Configuration Utility. For a list of operating systems and SQL Server versions that are supported, see the [Microsoft Dynamics AX system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+The procedures in this topic assume that you have installed a supported version of Microsoft SQL Server on the computer where you plan to run the Retail Channel Configuration Utility. For a list of operating systems and SQL Server versions that are supported, see the [Microsoft Dynamics AX system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 The Retail Channel Configuration Utility can also be used to install a channel database on a shared database server or an offline database on a POS computer. For more information, see [Create a channel database or an offline database (AX 2012 R3)](create-a-channel-database-or-an-offline-database-ax-2012-r3.md) or [Create a store database or an offline database (AX 2012 R2 and AX 2012 Feature Pack)](create-a-store-database-or-an-offline-database-ax-2012-r2-and-ax-2012-feature-pack.md).
 

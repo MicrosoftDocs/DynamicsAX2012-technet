@@ -31,7 +31,7 @@ By using this new suite of e-commerce features, you can centrally manage product
 <p>Extend</p>
 <p>Configure</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
-<p><a href="http://go.microsoft.com/fwlink/?linkid=397740">Resource page for Microsoft Dynamics AX 2012 for Retail</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=397740">Resource page for Microsoft Dynamics AX 2012 for Retail</a></p>
 <p><a href="retail-for-application-users.md">Retail for application users</a></p></td>
 </tr>
 </tbody>
@@ -68,12 +68,12 @@ The following table includes information about the SharePoint 2013 for Internet 
 <td><p>You do not have to create applications or sites from scratch as discussed in the SharePoint 2013 planning documentation. When you deploy the Microsoft Dynamics AX Retail online store, you deploy a starter store that includes pre-constructed web applications, sites, and services. You can then configure, customize, and rebrand the starter online store to meet your needs.</p>
 <p>Search is the primary means by which customers find products in an online store. For this reason, you should also familiarize yourself with SharePoint 2013 search concepts.</p>
 <p>We recommend that you familiarize yourself with concepts provided by the following links before you deploy the Microsoft Dynamics AX Retail online store.</p></td>
-<td><p><a href="http://technet.microsoft.com/en-us/library/jj635876.aspx">Plan for cross-site publishing in SharePoint Server 2013</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=328499">Overview of search in SharePoint Server 2013</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=328500">Content Search Web Part in SharePoint 2013</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=328501">Estimate capacity and performance for Web Content Management (SharePoint Server 2013)</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=328502">Estimate capacity and performance for Managed Metadata Service (SharePoint Server 2013)</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=266472">Internet Sites Search Architectures for SharePoint Server 2013</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj635876.aspx">Plan for cross-site publishing in SharePoint Server 2013</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=328499">Overview of search in SharePoint Server 2013</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=328500">Content Search Web Part in SharePoint 2013</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=328501">Estimate capacity and performance for Web Content Management (SharePoint Server 2013)</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=328502">Estimate capacity and performance for Managed Metadata Service (SharePoint Server 2013)</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=266472">Internet Sites Search Architectures for SharePoint Server 2013</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Learn about the architecture of the Microsoft Dynamics AX Retail online store</p></td>
@@ -142,8 +142,8 @@ The Retail online store utilizes the data, components, and services of Microsoft
 <tr class="even">
 <td><p>Install and configure SharePoint Server 2013</p></td>
 <td><p>You must install and configure SharePoint Server 2013 before you deploy the Microsoft Dynamics AX Retail online store.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=286388">Overview of SharePoint 2013 installation and configuration</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=286427&amp;clcid=0x409">Install SharePoint 2013 across multiple servers for a three-tier farm</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=286388">Overview of SharePoint 2013 installation and configuration</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=286427&amp;clcid=0x409">Install SharePoint 2013 across multiple servers for a three-tier farm</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Install the Retail online store</p></td>
@@ -177,7 +177,7 @@ Microsoft Dynamics AX 2012 comes with several Retail online sample stores. This 
 <tr class="odd">
 <td><p>View the functionality and appearance of the online sample stores on a demonstration virtual machine</p></td>
 <td><p>Demonstration virtual machines are pre-configured virtual machines with software and data to support business scenarios such as provisioning an online channel, creating and publishing online catalogs, and buying online for in-store pickup.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=394231&amp;clcid=0x409">Microsoft Dynamics AX 2012 Solution Demos</a>(To access this site, you must be enrolled in a service plan)</p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=394231&amp;clcid=0x409">Microsoft Dynamics AX 2012 Solution Demos</a>(To access this site, you must be enrolled in a service plan)</p></td>
 </tr>
 <tr class="even">
 <td><p>Familiarize yourself with the tools and procedures for developing with Retail online sample stores</p></td>
@@ -192,7 +192,7 @@ Microsoft Dynamics AX 2012 comes with several Retail online sample stores. This 
 <tr class="even">
 <td><p>Learn about the code behind the SharePoint site pages</p></td>
 <td><p>The Retail online sample stores use the page framework in SharePoint 2013 to display products, enable customer login, and implement the shopping experience.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=395069&amp;clcid=0x409">Overview of the SharePoint 2013 page model</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=395069&amp;clcid=0x409">Overview of the SharePoint 2013 page model</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Set up the development environment to debug your code in the Retail online store.</p></td>
@@ -204,13 +204,13 @@ Microsoft Dynamics AX 2012 comes with several Retail online sample stores. This 
 <td><p>Understand how the Retail online sample stores authenticate users.</p></td>
 <td><p>The sample online stores use Windows authentication for system administrators and forms-based authentication for users.</p></td>
 <td><p><a href="authenticating-users-in-retail-online-sample-stores.md">Authenticating users in Retail online sample stores</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=395067&amp;clcid=0x409">Plan for user authentication methods in SharePoint 2013</a></p></td>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=395067&amp;clcid=0x409">Plan for user authentication methods in SharePoint 2013</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Learn about using content search web parts in the sample stores.</p></td>
 <td><p>The Retail online sample stores use SharePoint content search web parts to display products in the store catalogs.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=395068&amp;clcid=0x409">Content Search Web Part in SharePoint 2013</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=395066&amp;clcid=0x409">Edit existing Web Parts in SharePoint 2013</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=395068&amp;clcid=0x409">Content Search Web Part in SharePoint 2013</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=395066&amp;clcid=0x409">Edit existing Web Parts in SharePoint 2013</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Learn how to deploy your Retail online store customizations.</p></td>
@@ -345,10 +345,10 @@ The user interface for the online starter store is based on Microsoft SharePoint
 <tr class="even">
 <td><p>Set up a SharePoint development environment</p></td>
 <td><p>You use SharePoint Server 2013 and Microsoft Visual Studio to customize the user interface for the online sample stores.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=328504">SharePoint 2013 development overview</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=313705">Set up the development environment for SharePoint 2013</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=328505.">Develop the site design in SharePoint 2013</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=328506">Build sites for SharePoint 2013</a></p>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=328504">SharePoint 2013 development overview</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=313705">Set up the development environment for SharePoint 2013</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=328505.">Develop the site design in SharePoint 2013</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=328506">Build sites for SharePoint 2013</a></p>
 <p><a href="map-a-network-drive-to-the-sharepoint-2013-files-for-online-stores.md">Map a network drive to the SharePoint 2013 files for online stores</a></p>
 <p></p></td>
 </tr>
@@ -358,21 +358,21 @@ The user interface for the online starter store is based on Microsoft SharePoint
 <p>In the properties for your SharePoint Server 2013 Web Part project, set the <strong>Site URL</strong> to resemble the following:</p>
 <p></p>
 <p><strong>http://&lt;computer&gt;:40003/sites/RetailPublishingPortal</strong></p>
-<p>For more information, see <a href="http://go.microsoft.com/fwlink/?linkid=313704">Creating Web Parts for SharePoint</a>.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=313703">Walkthrough: Creating a Web Part for SharePoint</a></p></td>
+<p>For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=313704">Creating Web Parts for SharePoint</a>.</p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=313703">Walkthrough: Creating a Web Part for SharePoint</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Customize master pages</p></td>
 <td><p>Master pages define the shared framing elements – the chrome – for all pages in the online store. You can impact the look and feel of your store by customizing master pages with your logo and design.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=328507">Overview of the SharePoint 2013 page model</a></p>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=328507">Overview of the SharePoint 2013 page model</a></p>
 <p><a href="customize-master-pages.md">Customize master pages</a></p>
-<p><a href="http://msdn.microsoft.com/en-us/library/jj862339.aspx">How to: Apply a master page to a site in SharePoint Server 2013</a></p></td>
+<p><a href="https://msdn.microsoft.com/library/jj862339.aspx">How to: Apply a master page to a site in SharePoint Server 2013</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Customize page layouts</p></td>
 <td><p>Page layouts contain the page contents and its layout. Each page layout uses a specific master page and can act as a base page for multiple instances of the page layout. Each instance has a different page name. In the starter store, each page has a corresponding page layout. For example, Welcome.aspx has a corresponding file, WelcomeLayout.aspx.</p></td>
 <td><p><a href="customize-page-layouts.md">Customize page layouts</a></p>
-<p><a href="http://msdn.microsoft.com/en-us/library/jj822368.aspx">How to: Create a page layout in SharePoint Server 2013</a></p></td>
+<p><a href="https://msdn.microsoft.com/library/jj822368.aspx">How to: Create a page layout in SharePoint Server 2013</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Customize display templates</p></td>
@@ -384,21 +384,21 @@ The user interface for the online starter store is based on Microsoft SharePoint
 <td><p>You can customize the appearance and behavior of site pages by customizing the CSS files that are included in the Retail SDK for the Retail online sample stores.</p></td>
 <td><p><a href="customize-the-appearance-and-behavior-of-site-pages.md">Customize the appearance and behavior of site pages</a></p>
 <p><a href="cascading-style-sheet-css-files-for-retail-online-store.md">Cascading style sheet (CSS) files for Retail online store</a></p>
-<p><a href="http://msdn.microsoft.com/en-us/library/bb398932.aspx">Walkthrough: Creating and Modifying a CSS File</a></p></td>
+<p><a href="https://msdn.microsoft.com/library/bb398932.aspx">Walkthrough: Creating and Modifying a CSS File</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Utilize JavaScript</p></td>
 <td><p>JavaScript files provide the page layouts with client-side scripting functionality.</p></td>
 <td><ul>
-<li><p><a href="http://msdn.microsoft.com/en-us/library/jj163201.aspx">How to: Complete basic operations using JavaScript library code in SharePoint 2013</a></p></li>
-<li><p><a href="http://msdn.microsoft.com/en-us/library/jj193034.aspx">JavaScript API reference for SharePoint 2013</a></p></li>
+<li><p><a href="https://msdn.microsoft.com/library/jj163201.aspx">How to: Complete basic operations using JavaScript library code in SharePoint 2013</a></p></li>
+<li><p><a href="https://msdn.microsoft.com/library/jj193034.aspx">JavaScript API reference for SharePoint 2013</a></p></li>
 <li><p><a href="http://code.msdn.microsoft.com/sharepoint-2013-execute-a41c49ff">Execute basic tasks using the JavaScript object model</a></p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>Customize device channels</p></td>
 <td><p>You can customize the sample sites to use different styles based on device channels. The Contoso site includes a master page for displaying the site on a mobile device.</p></td>
-<td><p><a href="http://msdn.microsoft.com/en-us/library/jj862343.aspx">SharePoint 2013 Design Manager device channels</a></p></td>
+<td><p><a href="https://msdn.microsoft.com/library/jj862343.aspx">SharePoint 2013 Design Manager device channels</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Maintain online channels</p></td>

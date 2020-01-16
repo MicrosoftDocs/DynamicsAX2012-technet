@@ -63,11 +63,11 @@ The members of an Analysis Services role have permission to view all data in the
 
 The documentation for SQL Server also provides the following topics that explain how to help restrict a role’s access to specific dimensions and cells in a cube:
 
-  - [Granting Dimension Access](http://technet.microsoft.com/en-us/library/ms175421.aspx) explains how to help restrict access to dimensions.
+  - [Granting Dimension Access](https://technet.microsoft.com/library/ms175421.aspx) explains how to help restrict access to dimensions.
 
-  - [Granting Custom Access to Dimension Data](http://technet.microsoft.com/en-us/library/ms175366.aspx) explains how to help restrict access to dimension attribute members.
+  - [Granting Custom Access to Dimension Data](https://technet.microsoft.com/library/ms175366.aspx) explains how to help restrict access to dimension attribute members.
 
-  - [Granting Custom Access to Cell Data](http://technet.microsoft.com/en-us/library/ms174847.aspx) explains how to help restrict access to cell data.
+  - [Granting Custom Access to Cell Data](https://technet.microsoft.com/library/ms174847.aspx) explains how to help restrict access to cell data.
 
 
 > [!WARNING]

@@ -48,7 +48,7 @@ You can use either Windows PowerShell cmdlets or the AXUtil command-line utility
 
 ## Exporting model files
 
-You can export a model file if you want to distribute it internally or to customers. If you plan to distribute a model file to customers, we recommend that you strong-name sign the model. To strong-name sign a model, you must use the [Strong Name Tool](http://msdn.microsoft.com/en-us/library/k5b5tt23\(vs.80\).aspx), SN.exe, to generate a key pair file.
+You can export a model file if you want to distribute it internally or to customers. If you plan to distribute a model file to customers, we recommend that you strong-name sign the model. To strong-name sign a model, you must use the [Strong Name Tool](https://msdn.microsoft.com/library/k5b5tt23\(vs.80\).aspx), SN.exe, to generate a key pair file.
 
 ### Export an .axmodel file (Windows PowerShell)
 
@@ -70,9 +70,9 @@ You can export a model file if you want to distribute it internally or to custom
 
 3.  You can also use the Sign Tool to sign the file with a digital certificate, or the AXUtil genlicense command to Authenticode sign a file. For more information, see:
     
-      - [Sign Tool](http://msdn.microsoft.com/en-us/library/aa387764\(vs.85\).aspx)
+      - [Sign Tool](https://msdn.microsoft.com/library/aa387764\(vs.85\).aspx)
     
-      - [ISV licensing agreement](http://go.microsoft.com/fwlink/?linkid=228157)
+      - [ISV licensing agreement](https://go.microsoft.com/fwlink/?linkid=228157)
 
 ### Export an .axmodel file (AXUtil)
 
@@ -90,9 +90,9 @@ You can export a model file if you want to distribute it internally or to custom
 
 4.  You can also use the Sign Tool to sign the file with a digital certificate, or the AXUtil genlicense command to Authenticode sign a file. For more information, see:
     
-      - [Sign Tool](http://msdn.microsoft.com/en-us/library/aa387764\(vs.85\).aspx)
+      - [Sign Tool](https://msdn.microsoft.com/library/aa387764\(vs.85\).aspx)
     
-      - [ISV licensing agreement](http://go.microsoft.com/fwlink/?linkid=228157)
+      - [ISV licensing agreement](https://go.microsoft.com/fwlink/?linkid=228157)
 
 ## Importing an .axmodel file
 

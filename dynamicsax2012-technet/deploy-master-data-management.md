@@ -38,7 +38,7 @@ Install SQL MDS, install or upgrade to AX 2012 R3, and install the Microsoft Dyn
 
 ## Install SQL MDS
 
-Install SQL MDS by following the instructions in [Install Master Data Services](http://go.microsoft.com/fwlink/?linkid=393359%26clcid=0x409). To install SQL MDS, you must have a SQL Server user account that has administrative rights. Additionally, it is easier to configure access if this SQL Server user account maps to the service account that you plan to use for the Data Import/Export Framework, and if that service account maps to the service account for Microsoft Dynamics AX Application Object Server (AOS).
+Install SQL MDS by following the instructions in [Install Master Data Services](https://go.microsoft.com/fwlink/?linkid=393359%26clcid=0x409). To install SQL MDS, you must have a SQL Server user account that has administrative rights. Additionally, it is easier to configure access if this SQL Server user account maps to the service account that you plan to use for the Data Import/Export Framework, and if that service account maps to the service account for Microsoft Dynamics AX Application Object Server (AOS).
 
 Follow all the instructions in the **Pre-Installation Tasks** and **Installation Operations** sections. Then follow the instructions for these tasks in the **Post-Installation Tasks** section:
 
@@ -54,7 +54,7 @@ Follow all the instructions in the **Pre-Installation Tasks** and **Installation
 
   - Install the Master Data Services Add-in for Microsoft Excel.
 
-  - Install [Cumulative update package 9 for SQL Server 2012 Service Pack 1](http://go.microsoft.com/fwlink/?linkid=396424%26clcid=0x409).
+  - Install [Cumulative update package 9 for SQL Server 2012 Service Pack 1](https://go.microsoft.com/fwlink/?linkid=396424%26clcid=0x409).
 
   - If you want additional security, configure Secure Sockets Layer (SSL) on the instance of Internet Information Services (IIS) that hosts the SQL MDS web application.
 

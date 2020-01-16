@@ -46,7 +46,7 @@ The following diagram provides an overview of the model store architecture.
 
 [Models, Layers, and the Model Store](models-layers-and-the-model-store.md)
 
-[Application Object Layers](http://go.microsoft.com/fwlink/?linkid=192797)
+[Application Object Layers](https://go.microsoft.com/fwlink/?linkid=192797)
 
   
 

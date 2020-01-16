@@ -38,7 +38,7 @@ Before you can assign a business expert to a question group in RapidStart Servic
 
 After these prerequisites have been met, use this procedure to assign a business expert to a group of questions.
 
-1.  In your browser, open online services at [http://www.dynamicsonline.com](http://go.microsoft.com/fwlink/p/?linkid=141031).
+1.  In your browser, open online services at [http://www.dynamicsonline.com](https://go.microsoft.com/fwlink/p/?linkid=141031).
 
 2.  Click **For Customers**, and then click **Sign in**.
 

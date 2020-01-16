@@ -58,7 +58,7 @@ The Bing Maps account is used to access the online Bing Maps when working in Ent
 
 You can find the Bing Maps account name and password on [CustomerSource](https://mbs.microsoft.com/customersource).
 
-By selecting the check box and entering the information, you agree to be bound by the Microsoft Bing Maps and MapPoint Web Service [End User Terms of Use](http://go.microsoft.com/fwlink/?linkid=21969).
+By selecting the check box and entering the information, you agree to be bound by the Microsoft Bing Maps and MapPoint Web Service [End User Terms of Use](https://go.microsoft.com/fwlink/?linkid=21969).
 
   
 

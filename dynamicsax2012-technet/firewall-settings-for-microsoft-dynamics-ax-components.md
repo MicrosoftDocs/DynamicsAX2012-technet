@@ -74,7 +74,7 @@ If you use Windows Firewall to help protect your computers, Microsoft Dynamics A
 <td><p>Microsoft SQL Server Reporting Services extensions</p></td>
 <td><p>Report server</p></td>
 <td><p>Exclude the port that is used by Reporting Services virtual directories, if Reporting Services uses a port other than port 80.</p></td>
-<td><p>If you are installing Reporting Services extensions in a perimeter network, you may need to add a firewall policy that enables you to connect to the Microsoft Dynamics AX database. For example, if you are using Forefront Threat Management Gateway (TMG), you must add a <strong>Non-Web Server Protocol Rule</strong>. For more information, see <a href="http://technet.microsoft.com/en-us/library/cc441596.aspx">Configuring SQL Server publishing</a> in the Forefront TMG documentation.</p></td>
+<td><p>If you are installing Reporting Services extensions in a perimeter network, you may need to add a firewall policy that enables you to connect to the Microsoft Dynamics AX database. For example, if you are using Forefront Threat Management Gateway (TMG), you must add a <strong>Non-Web Server Protocol Rule</strong>. For more information, see <a href="https://technet.microsoft.com/library/cc441596.aspx">Configuring SQL Server publishing</a> in the Forefront TMG documentation.</p></td>
 </tr>
 <tr class="even">
 <td><p>Microsoft SQL Server Analysis Services integration</p></td>
@@ -138,7 +138,7 @@ If you use Windows Firewall to help protect your computers, Microsoft Dynamics A
 <li><p>Exclude the port that is used by Synch Service. By default, Synch Service uses port 16750.</p></li>
 <li><p>Exclude the port that is used by Real-time Service. By default, Real-time Service uses port 1239.</p></li>
 </ul></td>
-<td><p>For instructions, see the <a href="http://go.microsoft.com/fwlink/?linkid=237283">PCI Implementation Guide for Microsoft Dynamics AX 2012 Feature Pack</a>.</p></td>
+<td><p>For instructions, see the <a href="https://go.microsoft.com/fwlink/?linkid=237283">PCI Implementation Guide for Microsoft Dynamics AX 2012 Feature Pack</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Synch Service</p></td>
@@ -148,13 +148,13 @@ If you use Windows Firewall to help protect your computers, Microsoft Dynamics A
 <li><p>Exclude the port that is used by Microsoft SQL Server. By default, SQL Server uses port 1433.</p></li>
 <li><p>Exclude the port that is used by Synch Service. By default, Synch Service uses port 16750.</p></li>
 </ul></td>
-<td><p>For more information, see the <a href="http://go.microsoft.com/fwlink/?linkid=237283">PCI Implementation Guide for Microsoft Dynamics AX 2012 Feature Pack</a>.</p></td>
+<td><p>For more information, see the <a href="https://go.microsoft.com/fwlink/?linkid=237283">PCI Implementation Guide for Microsoft Dynamics AX 2012 Feature Pack</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Real-time Service</p></td>
 <td><p></p></td>
 <td><p>Exclude the port that is used by Real-time Service, if the site uses a port other than port 80.</p></td>
-<td><p>For more information, see the <a href="http://go.microsoft.com/fwlink/?linkid=237283">PCI Implementation Guide for Microsoft Dynamics AX 2012 Feature Pack</a>.</p></td>
+<td><p>For more information, see the <a href="https://go.microsoft.com/fwlink/?linkid=237283">PCI Implementation Guide for Microsoft Dynamics AX 2012 Feature Pack</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Async Server</p></td>
@@ -168,14 +168,14 @@ If you use Windows Firewall to help protect your computers, Microsoft Dynamics A
 <td><p>Store communications server</p></td>
 <td><p>Exclude the port that is used by Microsoft SQL Server. By default, SQL Server uses port 1433.</p>
 <p>Exclude the port that is used by Synch Service. By default, Synch Service uses port 16750.</p></td>
-<td><p>For more information, see the <a href="http://go.microsoft.com/fwlink/?linkid=237283">PCI Implementation Guide for Microsoft Dynamics AX 2012 Feature Pack</a>.</p></td>
+<td><p>For more information, see the <a href="https://go.microsoft.com/fwlink/?linkid=237283">PCI Implementation Guide for Microsoft Dynamics AX 2012 Feature Pack</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Retail POS</p></td>
 <td><p>Store database server</p></td>
 <td><p>Exclude the port that is used by Microsoft SQL Server. By default, SQL Server uses port 1433.</p>
 <p>On a register that has its own local database, you only need to open the firewall to SQL Server if Synch Service is on a computer other than the register.</p></td>
-<td><p>For more information, see the <a href="http://go.microsoft.com/fwlink/?linkid=237283">PCI Implementation Guide for Microsoft Dynamics AX 2012 Feature Pack</a>.</p></td>
+<td><p>For more information, see the <a href="https://go.microsoft.com/fwlink/?linkid=237283">PCI Implementation Guide for Microsoft Dynamics AX 2012 Feature Pack</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Retail Server</p></td>

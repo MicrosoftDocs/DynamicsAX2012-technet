@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 This white paper describes new methods that have been added to Microsoft Dynamics AX 2012 to support sale tax obligations for intercompany transactions. It also describes parameters that have been added to existing methods.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=294099%26clcid=0x409)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=294099%26clcid=0x409)
 
   
 

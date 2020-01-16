@@ -155,5 +155,5 @@ For RDP data contracts, implement the validate method and return True or False t
         }
        ```
 
-For more information and examples, see the [Report Programming Guide](http://go.microsoft.com/fwlink/?linkid=230569).
+For more information and examples, see the [Report Programming Guide](https://go.microsoft.com/fwlink/?linkid=230569).
 

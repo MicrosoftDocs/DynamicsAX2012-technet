@@ -38,7 +38,7 @@ To configure the Financial Indicator List web part to display financial indicato
 
 2.  From the **Cube** list, select a cube that contains budgeted values, such as the General ledger cube.
     
-    For more information about the General ledger cube, see [General ledger cube (LedgerCube) for Microsoft Dynamics AX 2012 R2](http://go.microsoft.com/fwlink/?linkid=268893).
+    For more information about the General ledger cube, see [General ledger cube (LedgerCube) for Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=268893).
 
 3.  From the **Indicator** list, select the indicator to display.
 

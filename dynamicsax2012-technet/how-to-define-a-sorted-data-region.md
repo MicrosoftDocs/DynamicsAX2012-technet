@@ -62,7 +62,7 @@ The following procedure explains how to set the static sort for data in a data r
     </tr>
     <tr class="even">
     <td><p><strong>Sort By</strong></p></td>
-    <td><p>An expression that is used to identify the data that is to be sorted. You can select an item from the drop-down list or click <strong>&lt;Expression…&gt;</strong> to display the <strong>Edit Expression</strong> dialog box where you can create an expression. For information about creating expressions, see <a href="http://go.microsoft.com/fwlink/?linkid=106936">Expression Examples in Reporting Services</a>.</p></td>
+    <td><p>An expression that is used to identify the data that is to be sorted. You can select an item from the drop-down list or click <strong>&lt;Expression…&gt;</strong> to display the <strong>Edit Expression</strong> dialog box where you can create an expression. For information about creating expressions, see <a href="https://go.microsoft.com/fwlink/?linkid=106936">Expression Examples in Reporting Services</a>.</p></td>
     </tr>
     <tr class="odd">
     <td><p><strong>Sort Order</strong></p></td>
@@ -80,5 +80,5 @@ The following procedure explains how to set the static sort for data in a data r
 
 [How to: Define Groupings in a Data Region](how-to-define-groupings-in-a-data-region.md)
 
-[Expressions Example in Reporting Services](http://go.microsoft.com/fwlink/?linkid=106936)
+[Expressions Example in Reporting Services](https://go.microsoft.com/fwlink/?linkid=106936)
 

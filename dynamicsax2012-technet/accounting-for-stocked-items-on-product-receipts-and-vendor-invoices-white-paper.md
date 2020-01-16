@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This white paper describes the two types of accounting that take place when an accounting entry is generated for a product receipt or a vendor invoice that contains stocked items. The examples in this white paper illustrate the journal entries that are created.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=390597)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=390597)
 
   
 

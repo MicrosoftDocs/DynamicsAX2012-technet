@@ -18,7 +18,7 @@ Microsoft Dynamics AX 2009 included a specialized adapter that provided the abil
 
 ## Frequently asked questions
 
-This section answers questions that you may already have about integration between BizTalk and AIF. These answers can help you to correct many common issues. To read complete walkthroughs of scenarios that connect BizTalk with AIF, see [Using Microsoft BizTalk Server 2010 to exchange documents with Microsoft Dynamics AX](http://go.microsoft.com/fwlink/?linkid=221937).
+This section answers questions that you may already have about integration between BizTalk and AIF. These answers can help you to correct many common issues. To read complete walkthroughs of scenarios that connect BizTalk with AIF, see [Using Microsoft BizTalk Server 2010 to exchange documents with Microsoft Dynamics AX](https://go.microsoft.com/fwlink/?linkid=221937).
 
 ## Services and AIF
 
@@ -102,7 +102,7 @@ Documents that originate in Microsoft Dynamics AX are sent through an outbound p
 
 **How can Microsoft Dynamics AX consume a BizTalk Web service?**
 
-Download the white paper titled Consuming Microsoft Dynamics AX 2012 Web Services ([http://go.microsoft.com/fwlink/?LinkID=213142](http://go.microsoft.com/fwlink/?linkid=213142)).
+Download the white paper titled Consuming Microsoft Dynamics AX 2012 Web Services ([https://go.microsoft.com/fwlink/?LinkID=213142](https://go.microsoft.com/fwlink/?linkid=213142)).
 
 ## BizTalk project
 

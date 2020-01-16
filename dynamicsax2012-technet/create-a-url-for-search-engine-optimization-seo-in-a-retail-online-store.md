@@ -72,9 +72,9 @@ If you want to add other fields to the **Available Fields** list, you can create
 
 ## See also
 
-[Search Engine Optimization (SEO) in SharePoint Server 2013](http://go.microsoft.com/fwlink/?linkid=389180)
+[Search Engine Optimization (SEO) in SharePoint Server 2013](https://go.microsoft.com/fwlink/?linkid=389180)
 
-[White Paper: Optimizing SharePoint Server 2013 websites for Internet search engines](http://go.microsoft.com/fwlink/?linkid=389181)
+[White Paper: Optimizing SharePoint Server 2013 websites for Internet search engines](https://go.microsoft.com/fwlink/?linkid=389181)
 
   
 

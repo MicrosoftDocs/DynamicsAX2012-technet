@@ -48,7 +48,7 @@ An administrator in your organization associates your Microsoft account (formerl
 
 Use the following procedure to sign in to the RapidStart Services website.
 
-1.  In your browser, open online services for Microsoft Dynamics ERP at [http://www.dynamicsonline.com](http://go.microsoft.com/fwlink/p/?linkid=141031).
+1.  In your browser, open online services for Microsoft Dynamics ERP at [http://www.dynamicsonline.com](https://go.microsoft.com/fwlink/p/?linkid=141031).
 
 2.  Click **For Customers**, and then click **Sign in**.
 

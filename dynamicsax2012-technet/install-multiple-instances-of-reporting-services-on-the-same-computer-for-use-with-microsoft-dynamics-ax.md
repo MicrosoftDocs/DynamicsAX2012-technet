@@ -48,7 +48,7 @@ To install multiple instances of Reporting Services on the same computer, you mu
 
 
 
-For more information about the service packs and updates that must be installed with each version of Reporting Services, see the [Microsoft Dynamics AX system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+For more information about the service packs and updates that must be installed with each version of Reporting Services, see the [Microsoft Dynamics AX system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 ## How to install multiple instances of Reporting Services on the same computer
 

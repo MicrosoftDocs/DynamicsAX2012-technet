@@ -16,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Information about Enterprise Portal for Microsoft Dynamics AX keyboard shortcuts is available [on the Web](http://go.microsoft.com/fwlink/?linkid=215115).
+Information about Enterprise Portal for Microsoft Dynamics AX keyboard shortcuts is available [on the Web](https://go.microsoft.com/fwlink/?linkid=215115).
 
 ## See also
 

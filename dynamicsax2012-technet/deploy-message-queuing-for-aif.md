@@ -46,7 +46,7 @@ Windows servers must have the Application Server role added. For application ser
 
   - **Outgoing Remote Transactions**
 
-For information about how to install Message Queuing, see [Install Message Queuing](http://go.microsoft.com/fwlink/?linkid=223865) on the TechNet website. Be sure to select the following options:
+For information about how to install Message Queuing, see [Install Message Queuing](https://go.microsoft.com/fwlink/?linkid=223865) on the TechNet website. Be sure to select the following options:
 
   - **Message Queuing Server**
 
@@ -54,7 +54,7 @@ For information about how to install Message Queuing, see [Install Message Queui
 
   - **HTTP Support**
 
-For Microsoft Dynamics AX AIF scenarios, Message Queuing must be installed in Domain mode, which connects to the Active Directory service. Do not install Message Queuing in Workgroup mode on computers that exchange messages through AIF by using the MSMQ adapter. For more information about MSMQ modes, see [Information about Workgroup mode and about Domain mode in Microsoft Message Queuing](http://go.microsoft.com/fwlink/?linkid=223873) and [How to determine if MSMQ 2.0 is installed in Workgroup or Directory mode](http://go.microsoft.com/fwlink/?linkid=223874).
+For Microsoft Dynamics AX AIF scenarios, Message Queuing must be installed in Domain mode, which connects to the Active Directory service. Do not install Message Queuing in Workgroup mode on computers that exchange messages through AIF by using the MSMQ adapter. For more information about MSMQ modes, see [Information about Workgroup mode and about Domain mode in Microsoft Message Queuing](https://go.microsoft.com/fwlink/?linkid=223873) and [How to determine if MSMQ 2.0 is installed in Workgroup or Directory mode](https://go.microsoft.com/fwlink/?linkid=223874).
 
 ## Configure the Distributed Transaction Coordinator
 
@@ -92,7 +92,7 @@ If you have installed the WCF Configuration Editor tool, you can change these se
 
 ## Creating a queue
 
-For information about how to create a queue, see [Create Queues](http://go.microsoft.com/fwlink/?linkid=223867) on the TechNet website.
+For information about how to create a queue, see [Create Queues](https://go.microsoft.com/fwlink/?linkid=223867) on the TechNet website.
 
 For most scenarios, you should select the **Transactional** check box when you create a queue. For scenarios that require prioritization of messages, do not select **Transactional** (see [Deploy Message Queuing for AIF](deploy-message-queuing-for-aif.md)).
 

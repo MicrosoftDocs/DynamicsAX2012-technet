@@ -16,19 +16,19 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes practices that can help improve your upgrade experience and minimize the possibility of problems during the upgrade process. We recommend that you review and follow these practices before you start your upgrade.
 
-For detailed recommendations for best practices that are related to data upgrade, see the [Upgrade best practices](http://go.microsoft.com/fwlink/?linkid=238709) white paper.
+For detailed recommendations for best practices that are related to data upgrade, see the [Upgrade best practices](https://go.microsoft.com/fwlink/?linkid=238709) white paper.
 
 ## Clean up your data
 
 Before you start your upgrade, we recommend that you run the Intelligent Data Management Framework (IDMF) against your source Microsoft Dynamics AX database. The IDMF is a tool that simplifies the removal of redundant and unnecessary data. A clean database can reduce the processing time that is required during the upgrade.
 
-For information about how to download, install, and use the IDMF, see the TechNet topic [Intelligent Data Management Framework for Microsoft Dynamics AX \[AX 2012\]](http://go.microsoft.com/fwlink/?linkid=230455).
+For information about how to download, install, and use the IDMF, see the TechNet topic [Intelligent Data Management Framework for Microsoft Dynamics AX \[AX 2012\]](https://go.microsoft.com/fwlink/?linkid=230455).
 
 ## Back up your data and customizations
 
 Before you upgrade, back up the following information:
 
-  - Back up your data. See the [Microsoft SQL Server documentation](http://go.microsoft.com/fwlink/?linkid=28107) or consult your Oracle documentation.
+  - Back up your data. See the [Microsoft SQL Server documentation](https://go.microsoft.com/fwlink/?linkid=28107) or consult your Oracle documentation.
     
 
     > [!IMPORTANT]

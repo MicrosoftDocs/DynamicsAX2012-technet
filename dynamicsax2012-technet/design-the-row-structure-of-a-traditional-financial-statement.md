@@ -24,7 +24,7 @@ Use the **Row definition** form to design a row structure for a financial statem
 
 
 
-To print financial statements, you can use Management Reporter, or you can use the traditional financial statements that are included with Microsoft Dynamics AX. For more information about how to print financial statements using Management Reporter, see [Management Reporter for Microsoft Dynamics ERP](http://go.microsoft.com/fwlink/?linkid=324762).
+To print financial statements, you can use Management Reporter, or you can use the traditional financial statements that are included with Microsoft Dynamics AX. For more information about how to print financial statements using Management Reporter, see [Management Reporter for Microsoft Dynamics ERP](https://go.microsoft.com/fwlink/?linkid=324762).
 
 This form is available only when the **Financial statement (traditional)** configuration key is selected.
 

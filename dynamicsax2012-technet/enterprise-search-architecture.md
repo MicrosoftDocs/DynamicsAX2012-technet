@@ -68,7 +68,7 @@ The following diagram provides a high-level overview of the Microsoft Dynamics A
 
 [System architecture](system-architecture.md)
 
-[System requirements](http://go.microsoft.com/fwlink/?linkid=165377)
+[System requirements](https://go.microsoft.com/fwlink/?linkid=165377)
 
 [Checklist: Deploy Microsoft Dynamics AX Enterprise Search](checklist-deploy-microsoft-dynamics-ax-enterprise-search.md)
 

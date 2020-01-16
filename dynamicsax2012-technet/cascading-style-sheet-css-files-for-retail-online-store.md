@@ -124,7 +124,7 @@ The following table lists the cascading style sheets used in the online starter 
 
 [Customize the appearance and behavior of site pages](customize-the-appearance-and-behavior-of-site-pages.md)
 
-[How to: Create a page layout in SharePoint 2013](http://go.microsoft.com/fwlink/?linkid=301730&clcid=0x409)
+[How to: Create a page layout in SharePoint 2013](https://go.microsoft.com/fwlink/?linkid=301730&clcid=0x409)
 
   
 

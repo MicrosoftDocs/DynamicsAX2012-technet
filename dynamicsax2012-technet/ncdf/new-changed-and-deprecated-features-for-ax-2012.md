@@ -40,11 +40,11 @@ Users who are interested in country/region-specific features that are introduced
 
 For more information about AX 2012, see the following resources:
 
-  - [TechNet Library for System Administrators](http://go.microsoft.com/fwlink/?linkid=214390)
+  - [TechNet Library for System Administrators](https://go.microsoft.com/fwlink/?linkid=214390)
 
-  - [AX Developer Center of MSDN](http://go.microsoft.com/fwlink/?linkid=110356)
+  - [AX Developer Center of MSDN](https://go.microsoft.com/fwlink/?linkid=110356)
 
-  - [TechNet Library for Application Users](http://go.microsoft.com/fwlink/?linkid=214391)
+  - [TechNet Library for Application Users](https://go.microsoft.com/fwlink/?linkid=214391)
 
 ## Feedback
 

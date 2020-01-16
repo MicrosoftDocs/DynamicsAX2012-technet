@@ -20,7 +20,7 @@ The Microsoft Dynamics AX 2012 for Retail online sample stores authenticate cust
 
   - Windows classic mode authentication for site administrators.
 
-For more information about Windows and forms-based authentication with SharePoint Server 2013, see [Authentication overview for SharePoint 2013](http://go.microsoft.com/fwlink/?linkid=394056&clcid=0x409) and [Authentication, authorization, and security in SharePoint 2013](http://go.microsoft.com/fwlink/?linkid=394057&clcid=0x409).
+For more information about Windows and forms-based authentication with SharePoint Server 2013, see [Authentication overview for SharePoint 2013](https://go.microsoft.com/fwlink/?linkid=394056&clcid=0x409) and [Authentication, authorization, and security in SharePoint 2013](https://go.microsoft.com/fwlink/?linkid=394057&clcid=0x409).
 
 ## Configuration and authentication
 
@@ -100,11 +100,11 @@ You can configure Facebook as an external logon provider when you [install the R
 
 ## See also
 
-[Plan for user authentication methods in SharePoint 2013](http://go.microsoft.com/fwlink/?linkid=394053&clcid=0x409)
+[Plan for user authentication methods in SharePoint 2013](https://go.microsoft.com/fwlink/?linkid=394053&clcid=0x409)
 
-[Incoming claims: Signing into SharePoint 2013](http://go.microsoft.com/fwlink/?linkid=394114&clcid=0x409)
+[Incoming claims: Signing into SharePoint 2013](https://go.microsoft.com/fwlink/?linkid=394114&clcid=0x409)
 
-[Forms authentication in ASP.NET](http://go.microsoft.com/fwlink/?linkid=394082&clcid=0x409)
+[Forms authentication in ASP.NET](https://go.microsoft.com/fwlink/?linkid=394082&clcid=0x409)
 
   
 

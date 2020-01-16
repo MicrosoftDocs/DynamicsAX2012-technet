@@ -14,11 +14,11 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-In Microsoft Dynamics AX, you can execute and manage Microsoft Dynamics AX reports using X++. This section explains how to print a report. For information on how to programmatically print and manage a report, see the [Report Programming Guide](http://go.microsoft.com/fwlink/?linkid=230569).
+In Microsoft Dynamics AX, you can execute and manage Microsoft Dynamics AX reports using X++. This section explains how to print a report. For information on how to programmatically print and manage a report, see the [Report Programming Guide](https://go.microsoft.com/fwlink/?linkid=230569).
 
 ## In This Section
 
 [How to: Print a Report](how-to-print-a-report.md)
 
-[Report Programming Guide](http://go.microsoft.com/fwlink/?linkid=230569)
+[Report Programming Guide](https://go.microsoft.com/fwlink/?linkid=230569)
 

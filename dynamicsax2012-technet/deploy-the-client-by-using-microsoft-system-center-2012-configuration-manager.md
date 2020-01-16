@@ -18,7 +18,7 @@ Microsoft System Center 2012 Configuration Manager is a comprehensive solution t
 
 This topic does not provide information about how to set up the network infrastructure, such as the Active Directory directory service, Microsoft SQL Server, or Configuration Manager.
 
-For more information about how to set up and use Configuration Manager, see the [Documentation Library for System Center 2012 Configuration Manager](http://technet.microsoft.com/en-us/library/gg682041.aspx) on TechNet.
+For more information about how to set up and use Configuration Manager, see the [Documentation Library for System Center 2012 Configuration Manager](https://technet.microsoft.com/library/gg682041.aspx) on TechNet.
 
 ## Overview of the deployment process
 
@@ -26,19 +26,19 @@ To deploy Microsoft Dynamics AX clients by using Configuration Manager, you must
 
   - **Collections** – A collection is a group of resources, such as users, user groups, or computers. A collection defines the target of a software deployment.
     
-    For more information about collections, see [Collections in Configuration Manager](http://go.microsoft.com/fwlink/?linkid=272071) on TechNet.
+    For more information about collections, see [Collections in Configuration Manager](https://go.microsoft.com/fwlink/?linkid=272071) on TechNet.
 
   - **Packages** – A package is the set of installation source files that Configuration Manager manages and distributes for a software deployment. Packages include distribution points and the programs that are used to deploy the software.
     
-    For more information about packages, see [Packages and Programs in Configuration Manager](http://go.microsoft.com/fwlink/?linkid=272072) on TechNet.
+    For more information about packages, see [Packages and Programs in Configuration Manager](https://go.microsoft.com/fwlink/?linkid=272072) on TechNet.
 
   - **Distribution points** – Distribution points are site systems for Configuration Manager that store packages that can be deployed to Configuration Manager clients. When the client receives a deployment, the client contacts a distribution point to download the package and start the installation process.
     
-    For more information about distribution points, see [Introduction to Content Management in Configuration Manager](http://go.microsoft.com/fwlink/?linkid=272073) on TechNet.
+    For more information about distribution points, see [Introduction to Content Management in Configuration Manager](https://go.microsoft.com/fwlink/?linkid=272073) on TechNet.
 
 ## Create a collection
 
-This section explains how to use direct membership rules to create a collection in System Center 2012 Configuration Manager. For more information about membership rules, see [Collections in Configuration Manager](http://go.microsoft.com/fwlink/?linkid=272071) on TechNet.
+This section explains how to use direct membership rules to create a collection in System Center 2012 Configuration Manager. For more information about membership rules, see [Collections in Configuration Manager](https://go.microsoft.com/fwlink/?linkid=272071) on TechNet.
 
 1.  In the Configuration Manager console, click **Assets and Compliance**.
 
@@ -74,7 +74,7 @@ The source directory for a package contains all the files and subdirectories tha
 
 Before you create a package to install the Microsoft Dynamics AX client and its prerequisites, you must create a command (.cmd) file that contains the command-line parameters that are used to install the software.
 
-To install client components, use parameters for the Microsoft Dynamics AX Setup program. For information about individual parameters, see [Setup parameters reference](http://go.microsoft.com/fwlink/?linkid=191476) on TechNet. Setup can also configure some required prerequisites, such as operating system features and roles. Additionally, Setup can configure redistributable components that are on the installation media for Microsoft Dynamics AX. If you want Setup to automatically configure these prerequisites, include the parameter *ConfigurePrerequisites=1*.
+To install client components, use parameters for the Microsoft Dynamics AX Setup program. For information about individual parameters, see [Setup parameters reference](https://go.microsoft.com/fwlink/?linkid=191476) on TechNet. Setup can also configure some required prerequisites, such as operating system features and roles. Additionally, Setup can configure redistributable components that are on the installation media for Microsoft Dynamics AX. If you want Setup to automatically configure these prerequisites, include the parameter *ConfigurePrerequisites=1*.
 
 You can silently install other prerequisites by running the individual programs from the command line. You must create a separate program for each prerequisite. To determine the command-line parameters that are required, we recommend that you run the Microsoft Dynamics AX prerequisite verification utility on a representative client. When you use the utility to configure prerequisites, the log file indicates the commands that were used.
 
@@ -88,7 +88,7 @@ Save the file so that it has the .cmd file name extension.
 
 ## Create a package for the Microsoft Dynamics AX client
 
-This section explains how to create the package that is used to install the Microsoft Dynamics AX client. For more information about how to create packages, see [How to Create Packages and Programs in Configuration Manager](http://technet.microsoft.com/en-us/library/gg682112.aspx) on TechNet.
+This section explains how to create the package that is used to install the Microsoft Dynamics AX client. For more information about how to create packages, see [How to Create Packages and Programs in Configuration Manager](https://technet.microsoft.com/library/gg682112.aspx) on TechNet.
 
 1.  In the Configuration Manager console, click **Software Library**.
 
@@ -126,7 +126,7 @@ This section explains how to create the package that is used to install the Micr
 
 Next, you must deploy the package that contains both the distribution point and the programs that are used to deploy the Microsoft Dynamics AX client and its prerequisites.
 
-For more information about how to deploy packages, see [How to Deploy Packages and Programs in Configuration Manager](http://technet.microsoft.com/en-us/library/gg682178.aspx) on TechNet.
+For more information about how to deploy packages, see [How to Deploy Packages and Programs in Configuration Manager](https://technet.microsoft.com/library/gg682178.aspx) on TechNet.
 
 1.  In the Configuration Manager console, click **Software Library**.
 

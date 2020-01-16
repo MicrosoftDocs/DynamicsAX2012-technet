@@ -31,15 +31,15 @@ Reporting Services is a server-based reporting platform that provides comprehens
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=228753%26clcid=0x409">SQL Server Reporting Services</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=228753%26clcid=0x409">SQL Server Reporting Services</a></p></td>
 <td><p>SQL Server Reporting Services (SSRS) resources and information on the installation and management of Reporting Services and creation and deployment of reports.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=228754%26clcid=0x409">Visual Studio</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=228754%26clcid=0x409">Visual Studio</a></p></td>
 <td><p>Visual Studio is a suite of component-based development tools and other technologies for building powerful, high-performance applications.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?prd=11622%26pver=6.0%26sbp=reporting%26plcid=0x409%26clcid=0x409%26ar=vs+report+designer%26sar=vs+and+reports">Reports in Visual Studio</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?prd=11622%26pver=6.0%26sbp=reporting%26plcid=0x409%26clcid=0x409%26ar=vs+report+designer%26sar=vs+and+reports">Reports in Visual Studio</a></p></td>
 <td><p>The Visual Studio Report Designer provides a user-friendly interface for creating robust reports that include data from multiple types of data sources.</p></td>
 </tr>
 </tbody>

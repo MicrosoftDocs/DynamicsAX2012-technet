@@ -58,7 +58,7 @@ The following properties are in the **Properties** sheet when a table is selecte
 
 
 </div>
-<p>For more information about dimensions and star and snowflake schemas, see <a href="http://go.microsoft.com/fwlink/?linkid=115450">Introduction to Dimensions (SQL Server Books Online)</a>.</p></td>
+<p>For more information about dimensions and star and snowflake schemas, see <a href="https://go.microsoft.com/fwlink/?linkid=115450">Introduction to Dimensions (SQL Server Books Online)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>AnalysisIdentifier</strong></p></td>

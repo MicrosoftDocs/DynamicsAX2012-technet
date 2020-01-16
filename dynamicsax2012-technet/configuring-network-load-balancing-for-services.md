@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Clusters of instances of Application Object Server (AOS) for Microsoft Dynamics AX can be load balanced in two ways: the cluster can either include or lack a dedicated load-balancing AOS instance. However, load-balanced AOS clusters cannot load balance network traffic for services. When you use either of the two AOS load-balancing approaches, all traffic for services is routed to the first AOS instance in the list of servers that belong to the cluster. For more information about how to load balance AOS clusters, see [AOS clusters without a dedicated load balancer](aos-clusters-without-a-dedicated-load-balancer.md) and [AOS clusters with a dedicated load balancer](aos-clusters-with-a-dedicated-load-balancer.md). To enable load balancing for services, you must instead use Windows Server Network Load Balancing (NLB). For information about NLB, see the [Network Load Balancing Deployment Guide](http://go.microsoft.com/fwlink/?linkid=225684) on the TechNet website.
+Clusters of instances of Application Object Server (AOS) for Microsoft Dynamics AX can be load balanced in two ways: the cluster can either include or lack a dedicated load-balancing AOS instance. However, load-balanced AOS clusters cannot load balance network traffic for services. When you use either of the two AOS load-balancing approaches, all traffic for services is routed to the first AOS instance in the list of servers that belong to the cluster. For more information about how to load balance AOS clusters, see [AOS clusters without a dedicated load balancer](aos-clusters-without-a-dedicated-load-balancer.md) and [AOS clusters with a dedicated load balancer](aos-clusters-with-a-dedicated-load-balancer.md). To enable load balancing for services, you must instead use Windows Server Network Load Balancing (NLB). For information about NLB, see the [Network Load Balancing Deployment Guide](https://go.microsoft.com/fwlink/?linkid=225684) on the TechNet website.
 
 ## Network Load Balancing considerations for services
 
@@ -32,7 +32,7 @@ When you set up systems to load balance the traffic for Microsoft Dynamics AX se
     
       - Custom client applications.
     
-      - Clients that consume Web services over the Internet. These clients include clients that consume Web services through an Internet Information Services (IIS) Web farm. For more information, see [Configuring network load balancing for services](configuring-network-load-balancing-for-services.md). For more information about IIS Web farms, see [Managing Shared Configuration](http://go.microsoft.com/fwlink/?linkid=225687) on the IIS website. For more information about how to work with configuration files in IIS, see [Working with Configuration Files in IIS 7](http://go.microsoft.com/fwlink/?linkid=225688) on the TechNet website.
+      - Clients that consume Web services over the Internet. These clients include clients that consume Web services through an Internet Information Services (IIS) Web farm. For more information, see [Configuring network load balancing for services](configuring-network-load-balancing-for-services.md). For more information about IIS Web farms, see [Managing Shared Configuration](https://go.microsoft.com/fwlink/?linkid=225687) on the IIS website. For more information about how to work with configuration files in IIS, see [Working with Configuration Files in IIS 7](https://go.microsoft.com/fwlink/?linkid=225688) on the TechNet website.
 
   - The following Microsoft Dynamics AX features must use NLB as the load-balancing mechanism when high availability of service is required:
     
@@ -42,7 +42,7 @@ When you set up systems to load balance the traffic for Microsoft Dynamics AX se
     
       - Office Add-ins for Microsoft Dynamics AX
 
-  - NLB manages host instances, but it does not manage AOS instances. Therefore, when a host instance fails, NLB removes the failed host instance from the cluster. However, when an AOS instance fails, NLB does not remove the host instance from the cluster. Instead, NLB continues to try to route traffic to the failed AOS instance. Therefore, you must implement a monitoring solution to detect when an AOS instance fails, so that you can appropriately deal with the failure. For example, [Microsoft System Center Operations Manager](http://go.microsoft.com/fwlink/?linkid=226205) (SCOM) provides this kind of system management facilities.
+  - NLB manages host instances, but it does not manage AOS instances. Therefore, when a host instance fails, NLB removes the failed host instance from the cluster. However, when an AOS instance fails, NLB does not remove the host instance from the cluster. Instead, NLB continues to try to route traffic to the failed AOS instance. Therefore, you must implement a monitoring solution to detect when an AOS instance fails, so that you can appropriately deal with the failure. For example, [Microsoft System Center Operations Manager](https://go.microsoft.com/fwlink/?linkid=226205) (SCOM) provides this kind of system management facilities.
 
 
 > [!WARNING]
@@ -62,7 +62,7 @@ To configure NLB for Microsoft Dynamics AX, follow these general steps:
 
 2.  On a client computer, install the Microsoft Dynamics AX client program. For information about how to install the Microsoft Dynamics AX client program, see [Install a client](install-a-client.md).
 
-3.  On each server computer in the cluster, configure NLB. For information about how to configure NLB, see the [Microsoft Support website](http://support.microsoft.com/kb/323437).
+3.  On each server computer in the cluster, configure NLB. For information about how to configure NLB, see the [Microsoft Support website](https://support.microsoft.com/kb/323437).
     
 
     > [!IMPORTANT]
@@ -142,5 +142,5 @@ The subfolder that AIF creates contains several files that are related to the de
     ...
     </behaviors>
 
-For more information about the \<useRequestHeadersForMetadataAddress\> element, see [the MSDN website](http://go.microsoft.com/fwlink/?linkid=226206).
+For more information about the \<useRequestHeadersForMetadataAddress\> element, see [the MSDN website](https://go.microsoft.com/fwlink/?linkid=226206).
 

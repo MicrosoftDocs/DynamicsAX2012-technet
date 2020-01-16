@@ -18,7 +18,7 @@ This paper describes the migration process and the tools available to migrate ex
 
 The migration is required wherever the data model for table relationships has been changed in Microsoft Dynamics AX.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213126).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213126).
 
   
 

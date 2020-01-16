@@ -20,7 +20,7 @@ The AX VSS writer coordinates backup and restore operations. For more informatio
 
 
 > [!NOTE]
-> <P>The AX VSS writer is available through the Microsoft Dynamics AX Setup wizard in AX 2012 R3 and cumulative update 7 for Microsoft Dynamics AX 2012 R2 (CU 7). For information about how to install the AX VSS writer with CU 7, see the <A href="http://go.microsoft.com/fwlink/?linkid=329982">Installation Guide for cumulative update 7</A>.</P>
+> <P>The AX VSS writer is available through the Microsoft Dynamics AX Setup wizard in AX 2012 R3 and cumulative update 7 for Microsoft Dynamics AX 2012 R2 (CU 7). For information about how to install the AX VSS writer with CU 7, see the <A href="https://go.microsoft.com/fwlink/?linkid=329982">Installation Guide for cumulative update 7</A>.</P>
 
 
 
@@ -38,11 +38,11 @@ The AX VSS writer coordinates backup and restore operations. For more informatio
 
   - Create a service account for the AX VSS writer. This account must be a local administrator on all the computers that you plan to protect by using this component. Additionally, the account must have read/write permission to the location where temporary backup files are stored.
 
-  - Install a DPM agent on all the computers that you plan to protect by using this component. For more information about Data Protection Manager, see [Installing and Configuring Protection Agents](http://technet.microsoft.com/en-us/library/hh758039.aspx).
+  - Install a DPM agent on all the computers that you plan to protect by using this component. For more information about Data Protection Manager, see [Installing and Configuring Protection Agents](https://technet.microsoft.com/library/hh758039.aspx).
 
   - On the computers where you plan to install this component, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 ## Install the AX VSS writer
 

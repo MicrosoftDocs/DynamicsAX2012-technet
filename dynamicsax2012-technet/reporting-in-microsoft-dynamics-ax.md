@@ -81,7 +81,7 @@ The following table lists tasks that you can complete to learn more about Report
 <td><p>Although Reporting Services is the primary reporting platform for Microsoft Dynamics AX, there are other reporting tools that you should use, as well. For example, we recommend that you use Management Reporter to create financial statements.</p></td>
 <td><p><a href="types-of-reports.md">Types of reports</a></p>
 <p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=38410">Business Intelligence Capabilities and Tools white paper</a></p>
-<p><a href="http://technet.microsoft.com/en-us/library/dn435963.aspx">Management Reporter for Microsoft Dynamics ERP</a></p></td>
+<p><a href="https://technet.microsoft.com/library/dn435963.aspx">Management Reporter for Microsoft Dynamics ERP</a></p></td>
 </tr>
 </tbody>
 </table>

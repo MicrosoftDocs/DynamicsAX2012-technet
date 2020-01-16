@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This document describes best practices, and recommended patterns and practices, for developing customizations for Microsoft Dynamics AX 2012. The document lists common coding scenarios and describes best practices. The document also provides examples of common errors and explains how to avoid those errors.
 
-Download the paper from InformationSource: [Best practices for developing customizations](http://go.microsoft.com/fwlink/?linkid=269729)
+Download the paper from InformationSource: [Best practices for developing customizations](https://go.microsoft.com/fwlink/?linkid=269729)
 
 
 > [!IMPORTANT]

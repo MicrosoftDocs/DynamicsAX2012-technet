@@ -20,7 +20,7 @@ This white paper describes the setup of the costing sheet and the additional ele
 
 
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=252907)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=252907)
 
   
 

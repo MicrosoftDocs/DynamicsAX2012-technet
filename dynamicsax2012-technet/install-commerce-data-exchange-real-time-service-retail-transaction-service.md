@@ -56,7 +56,7 @@ The following sections are included in this topic:
 
   - On the computer where you plan to install this component, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
   - Real-time Service requires .NET Business Connector. The .NET Business Connector enables Real-time Service to interact with instances of Microsoft Dynamics AX Application Object Server (AOS). If .NET Business Connector is not already installed, it is selected automatically when you select to install Real-time Service.
 
@@ -64,7 +64,7 @@ The following sections are included in this topic:
 
 Use this procedure to install Real-time Service for AX 2012 R3. If you install other Microsoft Dynamics AX components at the same time, the installation pages vary, depending on the components that you are installing.
 
-To deploy Real-time Service on multiple computers in a cluster, you can run Setup on each computer. Alternatively, you can use the Retail mass deployment toolkit to deploy Real-time Service from a central location. For information about how to set up an IIS cluster, see the [Network Load Balancing Deployment Guide](http://technet.microsoft.com/en-us/library/cc754833\(v=ws.10\).aspx). For more information about mass deployment, see [Mass deploy Retail components by using System Center Configuration Manager](mass-deploy-retail-components-by-using-system-center-configuration-manager.md).
+To deploy Real-time Service on multiple computers in a cluster, you can run Setup on each computer. Alternatively, you can use the Retail mass deployment toolkit to deploy Real-time Service from a central location. For information about how to set up an IIS cluster, see the [Network Load Balancing Deployment Guide](https://technet.microsoft.com/library/cc754833\(v=ws.10\).aspx). For more information about mass deployment, see [Mass deploy Retail components by using System Center Configuration Manager](mass-deploy-retail-components-by-using-system-center-configuration-manager.md).
 
 1.  Start Microsoft Dynamics AX Setup. Under **Install**, select **Microsoft Dynamics AX components**.
 

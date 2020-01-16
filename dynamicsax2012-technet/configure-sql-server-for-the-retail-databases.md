@@ -37,11 +37,11 @@ To comply with the PCI Data Security Standard, you must enter specific settings 
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://msdn.microsoft.com/en-us/library/cc281953.aspx">Server Configuration page, Service Accounts tab</a></p></td>
+<td><p><a href="https://msdn.microsoft.com/library/cc281953.aspx">Server Configuration page, Service Accounts tab</a></p></td>
 <td><p>Specify dedicated logon accounts that are not default accounts.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://msdn.microsoft.com/en-us/library/cc281849.aspx">Database Engine Configuration page, Account Provisioning tab</a></p></td>
+<td><p><a href="https://msdn.microsoft.com/library/cc281849.aspx">Database Engine Configuration page, Account Provisioning tab</a></p></td>
 <td><ul>
 <li><p>Select Windows authentication.</p></li>
 <li><p>Specify SQL Server administrators, but do not use any default accounts.</p></li>
@@ -51,11 +51,11 @@ To comply with the PCI Data Security Standard, you must enter specific settings 
 </table>
 
 
-For more information, see the [Implementation Guide for PCI Compliance](http://go.microsoft.com/fwlink/?linkid=237283).
+For more information, see the [Implementation Guide for PCI Compliance](https://go.microsoft.com/fwlink/?linkid=237283).
 
 
 > [!NOTE]
-> <P>If you want to use an existing instance of SQL Server anywhere in the Microsoft Dynamics AX 2012 deployment, you must first verify that the settings for the instance are PCI-compliant. Whenever you can, set up a new instance for Retail that uses the recommended settings. For more information about how to set up a new instance, see <A href="http://msdn.microsoft.com/en-us/library/ms130214.aspx">SQL&nbsp;Server Books Online</A>.</P>
+> <P>If you want to use an existing instance of SQL Server anywhere in the Microsoft Dynamics AX 2012 deployment, you must first verify that the settings for the instance are PCI-compliant. Whenever you can, set up a new instance for Retail that uses the recommended settings. For more information about how to set up a new instance, see <A href="https://msdn.microsoft.com/library/ms130214.aspx">SQL&nbsp;Server Books Online</A>.</P>
 
 
 

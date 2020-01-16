@@ -52,7 +52,7 @@ Complete the following tasks before you install Enterprise Portal in a Web farm:
 
   - On each computer where you will install Enterprise Portal, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
   - Verify that you have the appropriate permissions to install Enterprise Portal.
     
@@ -74,7 +74,7 @@ Complete the following tasks before you install Enterprise Portal in a Web farm:
     
 
     > [!IMPORTANT]
-    > <P>If you attempt to install Enterprise Portal on an existing Internet Information Services (IIS) site that is already configured to use a host header, the installation fails, unless you create a <A href="http://go.microsoft.com/fwlink/?linkid=194948">BackConnectionHostNames</A> registry entry.</P>
+    > <P>If you attempt to install Enterprise Portal on an existing Internet Information Services (IIS) site that is already configured to use a host header, the installation fails, unless you create a <A href="https://go.microsoft.com/fwlink/?linkid=194948">BackConnectionHostNames</A> registry entry.</P>
 
 
 
@@ -300,7 +300,7 @@ If Enterprise Portal pages display authentication and access errors after you in
 
 3.  Edit the web.config files on the other servers in the Web farm. Replace the existing machineKey values with the values that you copied from the administration server for the Web farm.
 
-For more information about how to configure machineKey properties, see [How to: Configure MachineKey in ASP.Net 2.0](http://go.microsoft.com/fwlink/?linkid=117441), especially the "Web Farm Deployment Considerations" section.
+For more information about how to configure machineKey properties, see [How to: Configure MachineKey in ASP.Net 2.0](https://go.microsoft.com/fwlink/?linkid=117441), especially the "Web Farm Deployment Considerations" section.
 
 ## Configure firewall settings on Enterprise Portal servers
 

@@ -55,7 +55,7 @@ You can export an invoice only one time.
 
 ## When I run the data upgrade after installing Microsoft Dynamics AX 2012 R3 or cumulative update 6 or later for AX 2012 R2, I get an error that states that all invoices are not exported. How do I solve this issue?
 
-To fix this issue, you can run the TaxExportInvoiceTaxIntegration\_CN class to export these remaining invoices. You can then run the data upgrade again. For more information, go to [TaxExportInvoiceTaxIntegration\_CN Class](http://msdn.microsoft.com/en-us/library/jj745814.aspx).
+To fix this issue, you can run the TaxExportInvoiceTaxIntegration\_CN class to export these remaining invoices. You can then run the data upgrade again. For more information, go to [TaxExportInvoiceTaxIntegration\_CN Class](https://msdn.microsoft.com/library/jj745814.aspx).
 
 ## Can I customize information or add new information on VAT customer invoices?
 

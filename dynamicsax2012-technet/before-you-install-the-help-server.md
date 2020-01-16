@@ -24,7 +24,7 @@ Verify that you have the permissions that are required to install the Help serve
 
 On the computer where you will install the Help server, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
 
-For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [Microsoft Dynamics AX 2012 System Requirements](http://go.microsoft.com/fwlink/?linkid=165377) guide.
+For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [Microsoft Dynamics AX 2012 System Requirements](https://go.microsoft.com/fwlink/?linkid=165377) guide.
 
 ## Select a web site for the Help server
 
@@ -50,7 +50,7 @@ If updates for the Microsoft Dynamics AX help content are available, you can inc
 
 Use the following steps to include help updates in the installation:
 
-1.  Locate and download help content updates from the [CustomerSource](http://go.microsoft.com/fwlink/?linkid=210925) web site (logon required).
+1.  Locate and download help content updates from the [CustomerSource](https://go.microsoft.com/fwlink/?linkid=210925) web site (logon required).
 
 2.  Browse to the directory where the files from the Microsoft Dynamics AX DVD are shared. For more information, see [Create a shared directory for installation](create-a-shared-directory-for-installation.md).
 

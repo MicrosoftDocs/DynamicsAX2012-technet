@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-The Microsoft Dynamics AX 2012 R2 Retail starter store is a site built by using the commerce runtime (CRT) and the new site authoring and publishing model in Microsoft SharePoint Server 2013. For more information, see [Overview of the SharePoint 2013 page model](http://msdn.microsoft.com/en-us/library/jj191506.aspx). You can use the Retail starter store as a basis for developing your own online store. To customize the shared framing elements such as the header and footer for all the pages in your site, you can modify the site’s master pages.
+The Microsoft Dynamics AX 2012 R2 Retail starter store is a site built by using the commerce runtime (CRT) and the new site authoring and publishing model in Microsoft SharePoint Server 2013. For more information, see [Overview of the SharePoint 2013 page model](https://msdn.microsoft.com/library/jj191506.aspx). You can use the Retail starter store as a basis for developing your own online store. To customize the shared framing elements such as the header and footer for all the pages in your site, you can modify the site’s master pages.
 
 This topic shows you how to customize a master page by updating the Welcome page of the starter store.
 
@@ -30,7 +30,7 @@ This topic shows you how to customize a master page by updating the Welcome page
 
 
 
-2.  Open a web browser on a computer where you are logged in using [the administrative account for SharePoint](http://technet.microsoft.com/en-us/library/ee662513.aspx).
+2.  Open a web browser on a computer where you are logged in using [the administrative account for SharePoint](https://technet.microsoft.com/library/ee662513.aspx).
 
 3.  Navigate to the **Site Settings** page of the store. Use port 40003 and sign in with administrative credentials. The link to the **Site Settings** page is typically found at a URL that resembles the following:
     
@@ -62,7 +62,7 @@ This topic shows you how to customize a master page by updating the Welcome page
     
 
     > [!TIP]
-    > <P>This procedure illustrates one way of changing master pages and page layouts for the online starter store. For more information about how to use Microsoft SharePoint Server 2013 to modify the visual site design, see <A href="http://msdn.microsoft.com/en-us/library/jj733518.aspx">Develop the site design in SharePoint 2013</A>.</P>
+    > <P>This procedure illustrates one way of changing master pages and page layouts for the online starter store. For more information about how to use Microsoft SharePoint Server 2013 to modify the visual site design, see <A href="https://msdn.microsoft.com/library/jj733518.aspx">Develop the site design in SharePoint 2013</A>.</P>
 
 
 
@@ -76,7 +76,7 @@ This topic shows you how to customize a master page by updating the Welcome page
 
 ## See also
 
-[How to: Apply a master page to a site in SharePoint Server 2013](http://msdn.microsoft.com/en-us/library/jj862339.aspx)
+[How to: Apply a master page to a site in SharePoint Server 2013](https://msdn.microsoft.com/library/jj862339.aspx)
 
   
 

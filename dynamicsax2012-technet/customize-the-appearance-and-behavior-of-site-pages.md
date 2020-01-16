@@ -14,13 +14,13 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-You can customize the visual design of the Microsoft Dynamics AX 2012 R2 starter store by modifying certain types of files. Cascading style sheet (CSS) provide the page layouts with styling and formatting. For example, you can change the color of elements on store pages by making modifications to CSS files. For more information, see [Walkthrough: Creating and Modifying a CSS File](http://msdn.microsoft.com/en-us/library/bb398932.aspx).
+You can customize the visual design of the Microsoft Dynamics AX 2012 R2 starter store by modifying certain types of files. Cascading style sheet (CSS) provide the page layouts with styling and formatting. For example, you can change the color of elements on store pages by making modifications to CSS files. For more information, see [Walkthrough: Creating and Modifying a CSS File](https://msdn.microsoft.com/library/bb398932.aspx).
 
 The Welcome page for the starter store contains a slide show with a counter. This topic shows you how to modify the CSS file for the Welcome page to change the colors that highlight the current slide number.
 
 
 > [!NOTE]
-> <P>You can also change the appearance and behavior of the site by using JavaScript. JavaScript files provide the page layouts with client-side scripting functionality. For more information, see <A href="http://go.microsoft.com/fwlink/?linkid=301739&amp;clcid=0x409">How to: Complete basic operations using JavaScript library code in SharePoint 2013</A>. Typically, files that contain JavaScript for the starter store pages are found in a path that resembles the following:</P>
+> <P>You can also change the appearance and behavior of the site by using JavaScript. JavaScript files provide the page layouts with client-side scripting functionality. For more information, see <A href="https://go.microsoft.com/fwlink/?linkid=301739&amp;clcid=0x409">How to: Complete basic operations using JavaScript library code in SharePoint 2013</A>. Typically, files that contain JavaScript for the starter store pages are found in a path that resembles the following:</P>
 > <P>…\Program Files\Common Files\Microsoft Shared\Web Server Extensions\15\TEMPLATE\LAYOUTS\Storefront\js</P>
 > <P>For more information about how to modify JavaScript in the starter store, see <A href="customize-the-functionality-of-an-online-store.md">Customize the functionality of an online store</A>.</P>
 
@@ -160,11 +160,11 @@ The Welcome page for the starter store contains a slide show with a counter. Thi
 
 [Cascading style sheet (CSS) files for Retail online store](cascading-style-sheet-css-files-for-retail-online-store.md)
 
-[Overview of the SharePoint 2013 page model](http://go.microsoft.com/fwlink/?linkid=294931&clcid=0x409)
+[Overview of the SharePoint 2013 page model](https://go.microsoft.com/fwlink/?linkid=294931&clcid=0x409)
 
-[JavaScript API reference for SharePoint 2013](http://go.microsoft.com/fwlink/?linkid=301741&clcid=0x409)
+[JavaScript API reference for SharePoint 2013](https://go.microsoft.com/fwlink/?linkid=301741&clcid=0x409)
 
-[Execute basic tasks using the JavaScript object model](http://go.microsoft.com/fwlink/?linkid=301743&clcid=0x409)
+[Execute basic tasks using the JavaScript object model](https://go.microsoft.com/fwlink/?linkid=301743&clcid=0x409)
 
   
 

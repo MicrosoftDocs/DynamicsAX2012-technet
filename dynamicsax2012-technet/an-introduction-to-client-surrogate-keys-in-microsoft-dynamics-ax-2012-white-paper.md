@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper defines surrogate keys in the context of Microsoft Dynamics AX 2012 and describes how surrogate keys can be displayed to the user in the client.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=268363).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=268363).
 
   
 

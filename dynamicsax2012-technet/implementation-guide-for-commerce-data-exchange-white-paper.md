@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 This document describes recommended patterns and practices for setting up, configuring, customizing, monitoring, and diagnosing Commerce Data Exchange: Synch Service and Commerce Data Exchange: Real-time Service.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=306680)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=306680)
 
   
 

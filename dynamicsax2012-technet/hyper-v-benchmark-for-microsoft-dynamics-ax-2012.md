@@ -30,9 +30,9 @@ The following four server configurations were used to do the comparison:
 
 We have published the following two papers about the Hyper-V benchmark:
 
-  - [Hyper-V benchmark for Microsoft Dynamics AX 2012 (details)](http://go.microsoft.com/fwlink/?linkid=245625) – This paper provides detailed results of the Hyper-V benchmark testing, and can be downloaded from CustomerSource and PartnerSource.
+  - [Hyper-V benchmark for Microsoft Dynamics AX 2012 (details)](https://go.microsoft.com/fwlink/?linkid=245625) – This paper provides detailed results of the Hyper-V benchmark testing, and can be downloaded from CustomerSource and PartnerSource.
 
-  - [Hyper-V benchmark for Microsoft Dynamics AX 2012 (summary)](http://go.microsoft.com/fwlink/?linkid=245626) – This paper provides a summary of the Hyper-V benchmark results, and can be downloaded from CustomerSource and PartnerSource.
+  - [Hyper-V benchmark for Microsoft Dynamics AX 2012 (summary)](https://go.microsoft.com/fwlink/?linkid=245626) – This paper provides a summary of the Hyper-V benchmark results, and can be downloaded from CustomerSource and PartnerSource.
 
   
 

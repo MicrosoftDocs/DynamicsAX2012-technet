@@ -30,11 +30,11 @@ To add an Analyze data button to a list page, you must:
 
   - Microsoft SharePoint Server 2010 or 2013 must be installed.
 
-  - Microsoft SQL Server Reporting Services 2012 Service Pack 1 must be installed in SharePoint integrated mode with [cumulative update 4](http://support.microsoft.com/kb/2833645/en-us) applied.
+  - Microsoft SQL Server Reporting Services 2012 Service Pack 1 must be installed in SharePoint integrated mode with [cumulative update 4](https://support.microsoft.com/kb/2833645/en-us) applied.
 
   - The Power View site collection feature in SharePoint must be activated. For instructions about how to activate this feature, see the information in the [Install Reporting Services SharePoint Mode as a Single Server Farm](http://technet.microsoft.com/en-us/library/gg492276.aspx) topic.
 
-  - Microsoft SQL Server Analysis Services 2012 Service Pack 1 must be installed in multidimensional mode with [cumulative update 4](http://support.microsoft.com/kb/2833645/en-us) applied.
+  - Microsoft SQL Server Analysis Services 2012 Service Pack 1 must be installed in multidimensional mode with [cumulative update 4](https://support.microsoft.com/kb/2833645/en-us) applied.
 
   - Microsoft Dynamics AX 2012 R2 must be installed. The following components are required:
     

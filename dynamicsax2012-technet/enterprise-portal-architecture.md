@@ -95,7 +95,7 @@ The following diagram provides a high-level overview of the Enterprise Portal ar
 
 [System architecture](system-architecture.md)
 
-[System requirements](http://go.microsoft.com/fwlink/?linkid=165377)
+[System requirements](https://go.microsoft.com/fwlink/?linkid=165377)
 
 [Enterprise Search architecture](enterprise-search-architecture.md)
 

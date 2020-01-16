@@ -22,7 +22,7 @@ A batch job runs weekly to generate the data for this report. The information in
 
 
 > [!NOTE]
-> <P>For more information about how security roles relate to licensing, see the <A href="http://go.microsoft.com/fwlink/?linkid=228370">Security roles and licensing white paper</A> for Microsoft Dynamics AX 2012.</P>
+> <P>For more information about how security roles relate to licensing, see the <A href="https://go.microsoft.com/fwlink/?linkid=228370">Security roles and licensing white paper</A> for Microsoft Dynamics AX 2012.</P>
 
 
 

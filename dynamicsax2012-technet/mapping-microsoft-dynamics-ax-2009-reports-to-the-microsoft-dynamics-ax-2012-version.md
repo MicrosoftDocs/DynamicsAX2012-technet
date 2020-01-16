@@ -20,7 +20,7 @@ This topic provides a mapping of the reports from Microsoft Dynamics AX 2009 to 
 
   - [List pages](https://technet.microsoft.com/library/cc616937\(v=ax.60\))
 
-Some reports will not be provided in this release. For more information, see [Deprecated Microsoft Dynamics AX 2009 Reports in Microsoft Dynamics AX 2012](deprecated-microsoft-dynamics-ax-2009-reports-in-microsoft-dynamics-ax-2012.md). For information about the reports that will be provided, see [Report catalog for Microsoft Dynamics AX](report-catalog-for-microsoft-dynamics-ax.md). For a Microsoft Excel version of the report list, see [Microsoft Dynamics AX 2012 and 2009 Report List](http://go.microsoft.com/fwlink/?linkid=232938%26clcid=0x409).
+Some reports will not be provided in this release. For more information, see [Deprecated Microsoft Dynamics AX 2009 Reports in Microsoft Dynamics AX 2012](deprecated-microsoft-dynamics-ax-2009-reports-in-microsoft-dynamics-ax-2012.md). For information about the reports that will be provided, see [Report catalog for Microsoft Dynamics AX](report-catalog-for-microsoft-dynamics-ax.md). For a Microsoft Excel version of the report list, see [Microsoft Dynamics AX 2012 and 2009 Report List](https://go.microsoft.com/fwlink/?linkid=232938%26clcid=0x409).
 
 ## Report Mapping to Reporting Services Reports
 

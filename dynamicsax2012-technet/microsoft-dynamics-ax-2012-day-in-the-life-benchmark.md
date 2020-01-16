@@ -26,9 +26,9 @@ The benchmark results demonstrate the ability of Microsoft Dynamics AX 2012 to h
 
 We have published the following two papers about the “day in the life” benchmark:
 
-  - [Microsoft Dynamics AX 2012 “Day in the life” benchmark detailed results](http://go.microsoft.com/fwlink/?linkid=230564) – This paper provides detailed results of the “Day in the life” benchmark testing, and can be downloaded from CustomerSource and PartnerSource.
+  - [Microsoft Dynamics AX 2012 “Day in the life” benchmark detailed results](https://go.microsoft.com/fwlink/?linkid=230564) – This paper provides detailed results of the “Day in the life” benchmark testing, and can be downloaded from CustomerSource and PartnerSource.
 
-  - [Microsoft Dynamics AX 2012 “Day in the life” benchmark summary](http://go.microsoft.com/fwlink/?linkid=230566) – This paper provides a summary of the “day in the life” benchmark results, and can be downloaded from CustomerSource and PartnerSource.
+  - [Microsoft Dynamics AX 2012 “Day in the life” benchmark summary](https://go.microsoft.com/fwlink/?linkid=230566) – This paper provides a summary of the “day in the life” benchmark results, and can be downloaded from CustomerSource and PartnerSource.
 
   
 

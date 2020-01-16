@@ -24,7 +24,7 @@ When you install Microsoft Dynamics AX, Windows PowerShell 2.0 is installed if i
 
 
 
-For a list of the new features in Windows PowerShell 2.0, see [About Windows PowerShell 2.0](http://go.microsoft.com/fwlink/?linkid=113247).
+For a list of the new features in Windows PowerShell 2.0, see [About Windows PowerShell 2.0](https://go.microsoft.com/fwlink/?linkid=113247).
 
 
 > [!IMPORTANT]
@@ -36,7 +36,7 @@ For a list of the new features in Windows PowerShell 2.0, see [About Windows Pow
 
 After you install Microsoft Dynamics AX, the applicable Windows PowerShell cmdlets are available from either the Microsoft Dynamics AX Management Shell or the Windows PowerShell console. By using the Management Shell, you can manage many aspects of Microsoft Dynamics AX. For example, you can add users and user authentication, manage models, and manage configurations for communication between Microsoft Dynamics AX and Reporting Services. The cmdlets that are run from the Management Shell output Microsoft Dynamics AX objects that are based on the Microsoft .NET Framework. These objects can then be used as input for other cmdlets, or they can be stored in local variables for later use.
 
-When you use the Microsoft Dynamics AX Management Shell or the Windows PowerShell console, you can load additional snap-ins. For more information, see [Customizing Profiles](http://go.microsoft.com/fwlink/?linkid=183166).
+When you use the Microsoft Dynamics AX Management Shell or the Windows PowerShell console, you can load additional snap-ins. For more information, see [Customizing Profiles](https://go.microsoft.com/fwlink/?linkid=183166).
 
 ## Access the Microsoft Dynamics AX 2012 Management Shell
 
@@ -76,7 +76,7 @@ Before you can use the Microsoft Dynamics AX 2012 Management Shell and the Windo
 
 Although you can use Windows PowerShell to perform a single administrative task, the real benefit of Windows PowerShell cmdlets is the capability to automate a series of tasks by using a script. A script is a plain text file that contains one or more Windows PowerShell cmdlets. Windows PowerShell scripts have a .ps1 file name extension.
 
-To use a script, the minimum execution policy that is required for Microsoft Dynamics AX is RemoteSigned, whereas the default policy for Windows PowerShell is Restricted. If the policy is left as Restricted, the Microsoft Dynamics AX Management Shell changes the policy for Windows PowerShell to RemoteSigned. Therefore, the Microsoft Dynamics AX Management Shell must use elevated administrative permission. To start the Management Shell so that it uses elevated administrative permission, select **Run as administrator**. This change applies to all sessions of Windows PowerShell. For more information about scripts, see [about\_scripts](http://technet.microsoft.com/en-us/library/dd819484.aspx). For more information about execution policies, see [about\_Execution\_Policies](http://technet.microsoft.com/en-us/library/dd347641.aspx).
+To use a script, the minimum execution policy that is required for Microsoft Dynamics AX is RemoteSigned, whereas the default policy for Windows PowerShell is Restricted. If the policy is left as Restricted, the Microsoft Dynamics AX Management Shell changes the policy for Windows PowerShell to RemoteSigned. Therefore, the Microsoft Dynamics AX Management Shell must use elevated administrative permission. To start the Management Shell so that it uses elevated administrative permission, select **Run as administrator**. This change applies to all sessions of Windows PowerShell. For more information about scripts, see [about\_scripts](https://technet.microsoft.com/library/dd819484.aspx). For more information about execution policies, see [about\_Execution\_Policies](https://technet.microsoft.com/library/dd347641.aspx).
 
 ## Learning Windows PowerShell
 
@@ -99,19 +99,19 @@ The TechNet Gallery includes many resources that can help you learn the basics o
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=187813">Windows PowerShell Documentation on TechNet</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=187813">Windows PowerShell Documentation on TechNet</a></p></td>
 <td><p>The section of the TechNet Library that contains web copies of the core Get Help topics for Windows PowerShell. This section also contains web copies of the Windows PowerShell Getting Started document, the PowerShell.exe Help, and a primer for Windows PowerShell.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=187815">Scripting With Windows PowerShell</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=187815">Scripting With Windows PowerShell</a></p></td>
 <td><p>The home page for learning resources for Windows PowerShell scripting.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=187817">Windows PowerShell Owner's Manual</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=187817">Windows PowerShell Owner's Manual</a></p></td>
 <td><p>A web-based guide that can help you start to work with Windows PowerShell.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=187819">Windows PowerShell Quick Reference</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=187819">Windows PowerShell Quick Reference</a></p></td>
 <td><p>A downloadable copy of the Quick Reference document that is installed together with Windows PowerShell.</p></td>
 </tr>
 </tbody>
@@ -120,7 +120,7 @@ The TechNet Gallery includes many resources that can help you learn the basics o
 
 ## Windows PowerShell documents
 
-Windows PowerShell installs the following documents in the Windows PowerShell 1.0 program group. These documents can also be installed after you download the [Windows PowerShell 1.0 Documentation Pack](http://go.microsoft.com/fwlink/?linkid=187822).
+Windows PowerShell installs the following documents in the Windows PowerShell 1.0 program group. These documents can also be installed after you download the [Windows PowerShell 1.0 Documentation Pack](https://go.microsoft.com/fwlink/?linkid=187822).
 
 <table>
 <colgroup>
@@ -152,21 +152,21 @@ Windows PowerShell installs the following documents in the Windows PowerShell 1.
 
 When you use these resources, you may find it useful to learn the following concepts and cmdlets before you use Windows PowerShell for Microsoft Dynamics AX:
 
-  - [Get-Command](http://go.microsoft.com/fwlink/?linkid=171069)
+  - [Get-Command](https://go.microsoft.com/fwlink/?linkid=171069)
 
-  - [Get-Member](http://go.microsoft.com/fwlink/?linkid=171070)
+  - [Get-Member](https://go.microsoft.com/fwlink/?linkid=171070)
 
-  - [Get-Help](http://go.microsoft.com/fwlink/?linkid=171068)
+  - [Get-Help](https://go.microsoft.com/fwlink/?linkid=171068)
 
-  - [Aliasing](http://go.microsoft.com/fwlink/?linkid=113207)
+  - [Aliasing](https://go.microsoft.com/fwlink/?linkid=113207)
 
-  - [Piping and the Pipeline in Windows PowerShell](http://go.microsoft.com/fwlink/?linkid=187808)
+  - [Piping and the Pipeline in Windows PowerShell](https://go.microsoft.com/fwlink/?linkid=187808)
 
-  - [Cmdlet Parameter Sets](http://go.microsoft.com/fwlink/?linkid=187810)
+  - [Cmdlet Parameter Sets](https://go.microsoft.com/fwlink/?linkid=187810)
 
-  - [Foreach-Object](http://go.microsoft.com/fwlink/?linkid=187812)
+  - [Foreach-Object](https://go.microsoft.com/fwlink/?linkid=187812)
 
-  - [Where-Object](http://go.microsoft.com/fwlink/?linkid=187811)
+  - [Where-Object](https://go.microsoft.com/fwlink/?linkid=187811)
 
 ## See also
 

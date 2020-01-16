@@ -22,7 +22,7 @@ Use this form to map the country/region codes in all companies in Microsoft Dyna
 
 
 > [!WARNING]
-> <P>If your Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009 application contains customized code that affects the handling of country/region data, you might encounter errors during data preprocessing. If you encounter these errors, you will need to write an upgrade preprocessing script to correctly map your existing data to the Microsoft Dynamics AX 2012 schema. For more information, see the white paper <A href="http://go.microsoft.com/fwlink/?linkid=212587%26clcid=0x409">How to Write Data Upgrade Scripts for Microsoft Dynamics AX 2012</A>.</P>
+> <P>If your Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009 application contains customized code that affects the handling of country/region data, you might encounter errors during data preprocessing. If you encounter these errors, you will need to write an upgrade preprocessing script to correctly map your existing data to the Microsoft Dynamics AX 2012 schema. For more information, see the white paper <A href="https://go.microsoft.com/fwlink/?linkid=212587%26clcid=0x409">How to Write Data Upgrade Scripts for Microsoft Dynamics AX 2012</A>.</P>
 
 
 

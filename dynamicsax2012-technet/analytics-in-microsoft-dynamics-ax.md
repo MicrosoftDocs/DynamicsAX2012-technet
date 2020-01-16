@@ -136,7 +136,7 @@ Complete the tasks in the following table to integrate Microsoft Dynamics AX and
 <td><p>Install prerequisites</p></td>
 <td><p>On the computer where Analysis Services is installed, or where you plan to install Analysis Services, run the Microsoft Dynamics AX prerequisite validation utility to verify that system requirements have been met.</p></td>
 <td><p><a href="check-prerequisites.md">Check prerequisites</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=165377">System requirements</a></p></td>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=165377">System requirements</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Run the Microsoft Dynamics AX Setup wizard</p></td>

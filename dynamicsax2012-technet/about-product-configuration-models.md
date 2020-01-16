@@ -28,7 +28,7 @@ The following table describes the table constraint-based terms and concepts.
 <tbody>
 <tr class="odd">
 <td><p>Microsoft Solver Foundation</p></td>
-<td><p>Product configurator uses Solver Foundation to solve expression constraints and conditions. Solver Foundation is used to find one or more valid solutions, and to eliminate values that are not valid for product configuration models. For more information, see <a href="http://go.microsoft.com/fwlink/?linkid=217059">Microsoft Solver Foundation</a> on the MSDN website.</p></td>
+<td><p>Product configurator uses Solver Foundation to solve expression constraints and conditions. Solver Foundation is used to find one or more valid solutions, and to eliminate values that are not valid for product configuration models. For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=217059">Microsoft Solver Foundation</a> on the MSDN website.</p></td>
 </tr>
 <tr class="even">
 <td><p>Components</p></td>
@@ -80,7 +80,7 @@ The following table describes the table constraint-based terms and concepts.
 <td><p>Constraints describe the restrictions of the product model configuration. Constraints are used to guarantee that only valid values are selected when the product configuration model is set up.</p>
 <p>Constraints can be either expression constraints or table constraints:</p>
 <ul>
-<li><p>Expression constraints can be used only for the component that they are tied to. The expression constraints for a component can reference attributes of the component's subcomponents. Solver Foundation is used to solve the constraints, and you must use the syntax of Solver Foundation when you write the constraints. For more information, see <a href="http://go.microsoft.com/fwlink/?linkid=217059">Microsoft Solver Foundation</a>.</p></li>
+<li><p>Expression constraints can be used only for the component that they are tied to. The expression constraints for a component can reference attributes of the component's subcomponents. Solver Foundation is used to solve the constraints, and you must use the syntax of Solver Foundation when you write the constraints. For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=217059">Microsoft Solver Foundation</a>.</p></li>
 <li><p>Table constraints can be either user defined or system defined.</p>
 <p>A user-defined table constraint is a type of matrix that can be used to describe the set of combinations for the attribute values that are defined by attribute types. For example, if televisions are produced, the matrix for the user-defined table constraint might have columns for the television size and type.</p></li>
 </ul>

@@ -53,7 +53,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tbody>
 <tr class="odd">
 <td><p><strong>Installation task</strong></p></td>
-<td><p>In AX 2012 R3 and cumulative update 6 or later for AX 2012 R2: If the data upgrade for external invoices did not complete after installing Microsoft Dynamics AX 2012 R3 or cumulative update 6 or later for AX 2012 R2, you can run the TaxExportInvoiceTaxIntegration_CN class to export the remaining external invoices, and then run the data upgrade again. For more information, go to <a href="http://msdn.microsoft.com/en-us/library/jj745814.aspx">TaxExportInvoiceTaxIntegration_CN Class</a>.</p></td>
+<td><p>In AX 2012 R3 and cumulative update 6 or later for AX 2012 R2: If the data upgrade for external invoices did not complete after installing Microsoft Dynamics AX 2012 R3 or cumulative update 6 or later for AX 2012 R2, you can run the TaxExportInvoiceTaxIntegration_CN class to export the remaining external invoices, and then run the data upgrade again. For more information, go to <a href="https://msdn.microsoft.com/library/jj745814.aspx">TaxExportInvoiceTaxIntegration_CN Class</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Related setup tasks</strong></p></td>

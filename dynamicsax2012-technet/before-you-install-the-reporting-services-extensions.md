@@ -38,7 +38,7 @@ Assign the accounts listed above to the following Active Directory groups on the
 
 On the computer where Reporting Services is installed, or where you plan to install Reporting Services, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
 
-For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 ## Configure Reporting Services in native mode
 
@@ -136,7 +136,7 @@ Use the following procedure to configure the Reporting Services instance.
 
 To administer an instance of the report server locally, you must complete additional configuration steps when you deploy Reporting Services on Windows Server 2008. Windows Server 2008 limits the overuse of elevated permissions by removing administrator permissions when you access applications. If you are a member of the local Administrators group, you run most applications as if you are using the Standard User account because the operating system removes permissions.
 
-Although this practice improves the overall security of your system, it prevents you from using the predefined, built-in role assignments that Reporting Services creates for local administrators. However, by completing additional configuration steps, you can manage the report server's content and operations by using standard user permissions. For instructions, see [How to: Configure a Report Server for Local Administration on Windows Vista and Windows Server 2008](http://technet.microsoft.com/en-us/library/bb630430.aspx) on TechNet.
+Although this practice improves the overall security of your system, it prevents you from using the predefined, built-in role assignments that Reporting Services creates for local administrators. However, by completing additional configuration steps, you can manage the report server's content and operations by using standard user permissions. For instructions, see [How to: Configure a Report Server for Local Administration on Windows Vista and Windows Server 2008](https://technet.microsoft.com/library/bb630430.aspx) on TechNet.
 
 After you have configured the Reporting Services instance for local administration, verify that you can access the websites that are listed in the following table.
 
@@ -180,9 +180,9 @@ If you are using Reporting Services 2008 or Reporting Services 2008 R2, follow t
 
 1.  Configure Reporting Services by using the following topics in the SQL Server documentation:
     
-      - [How to: Install and Configure SharePoint Integration on a Stand-alone Server](http://technet.microsoft.com/en-us/library/bb677368\(sql.105\).aspx)
+      - [How to: Install and Configure SharePoint Integration on a Stand-alone Server](https://technet.microsoft.com/library/bb677368\(sql.105\).aspx)
     
-      - [How to: Install and Configure SharePoint Integration on Multiple Servers](http://technet.microsoft.com/en-us/library/bb677365\(sql.105\).aspx)
+      - [How to: Install and Configure SharePoint Integration on Multiple Servers](https://technet.microsoft.com/library/bb677365\(sql.105\).aspx)
     
 
     > [!NOTE]
@@ -190,7 +190,7 @@ If you are using Reporting Services 2008 or Reporting Services 2008 R2, follow t
 
 
 
-2.  Configure the Reporting Services integration in SharePoint Central Administration. For more information, see [How to: Configure Report Server Integration in SharePoint Central Administration](http://technet.microsoft.com/en-us/library/bb326213\(sql.105\).aspx) in the SQL Server documentation.
+2.  Configure the Reporting Services integration in SharePoint Central Administration. For more information, see [How to: Configure Report Server Integration in SharePoint Central Administration](https://technet.microsoft.com/library/bb326213\(sql.105\).aspx) in the SQL Server documentation.
 
 3.  Verify that you can access the websites that are listed in the following table.
     
@@ -241,7 +241,7 @@ If you are using Reporting Services 2012 or 2014, follow these steps to configur
     <tbody>
     <tr class="odd">
     <td><ul>
-    <li><p><a href="http://technet.microsoft.com/en-us/library/gg492276.aspx">Install Reporting Services SharePoint Mode for SharePoint 2010</a></p>
+    <li><p><a href="https://technet.microsoft.com/library/gg492276.aspx">Install Reporting Services SharePoint Mode for SharePoint 2010</a></p>
     <div class="alert">
 
     > [!IMPORTANT]
@@ -249,8 +249,8 @@ If you are using Reporting Services 2012 or 2014, follow these steps to configur
 
 
     </div></li>
-    <li><p><a href="http://technet.microsoft.com/en-us/library/hh479774.aspx">Add an Additional Report Server to a Farm (SSRS Scale-out)</a></p></li>
-    <li><p><a href="http://technet.microsoft.com/en-us/library/hh479775.aspx">Add an Additional Reporting Services Web Front-end to a Farm</a></p></li>
+    <li><p><a href="https://technet.microsoft.com/library/hh479774.aspx">Add an Additional Report Server to a Farm (SSRS Scale-out)</a></p></li>
+    <li><p><a href="https://technet.microsoft.com/library/hh479775.aspx">Add an Additional Reporting Services Web Front-end to a Farm</a></p></li>
     </ul></td>
     <td><ul>
     <li><p><a href="http://msdn.microsoft.com/en-in/library/jj219068.aspx">Install Reporting Services SharePoint Mode for SharePoint 2013</a></p>
@@ -261,15 +261,15 @@ If you are using Reporting Services 2012 or 2014, follow these steps to configur
 
 
     </div></li>
-    <li><p><a href="http://technet.microsoft.com/en-us/library/hh479774.aspx">Add an Additional Report Server to a Farm (SSRS Scale-out)</a></p></li>
-    <li><p><a href="http://technet.microsoft.com/en-us/library/hh479775.aspx">Add an Additional Reporting Services Web Front-end to a Farm</a></p></li>
+    <li><p><a href="https://technet.microsoft.com/library/hh479774.aspx">Add an Additional Report Server to a Farm (SSRS Scale-out)</a></p></li>
+    <li><p><a href="https://technet.microsoft.com/library/hh479775.aspx">Add an Additional Reporting Services Web Front-end to a Farm</a></p></li>
     </ul></td>
     </tr>
     </tbody>
     </table>
 
 
-2.  If you did not create a site collection when installing and configuring SharePoint, create one now. If you are using SharePoint 2010, see the instructions [here](http://technet.microsoft.com/en-us/library/cc263094\(v=office.14\).aspx). If you are using SharePoint 2013, see the instructions [here](http://technet.microsoft.com/en-us/library/cc263094\(v=office.15\).aspx).
+2.  If you did not create a site collection when installing and configuring SharePoint, create one now. If you are using SharePoint 2010, see the instructions [here](https://technet.microsoft.com/library/cc263094\(v=office.14\).aspx). If you are using SharePoint 2013, see the instructions [here](https://technet.microsoft.com/library/cc263094\(v=office.15\).aspx).
 
 3.  Verify that you can access the websites that are listed in the following table.
     
@@ -302,7 +302,7 @@ If you are using Reporting Services 2012 or 2014, follow these steps to configur
     </tbody>
     </table>
     
-    For more information about how to verify that the integration is configured correctly, see [Verify a Reporting Services Installation](http://technet.microsoft.com/en-us/library/ms143773.aspx) in the SQL Server documentation.
+    For more information about how to verify that the integration is configured correctly, see [Verify a Reporting Services Installation](https://technet.microsoft.com/library/ms143773.aspx) in the SQL Server documentation.
 
   
 

@@ -36,7 +36,7 @@ Plan your system topology carefully before deploying Microsoft Dynamics AX. Envi
 
 
 > [!IMPORTANT]
-> <P>You need to make sure that your planned topology is supported by Microsoft. For more information, contact your value added reseller (VAR). If you are enrolled in a support plan directly with Microsoft, you can log on to <A href="http://go.microsoft.com/fwlink/?linkid=92647">CustomerSource</A> and submit a new support request.</P>
+> <P>You need to make sure that your planned topology is supported by Microsoft. For more information, contact your value added reseller (VAR). If you are enrolled in a support plan directly with Microsoft, you can log on to <A href="https://go.microsoft.com/fwlink/?linkid=92647">CustomerSource</A> and submit a new support request.</P>
 
 
 

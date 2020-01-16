@@ -280,7 +280,7 @@ Different versions of the Data Import/Export Framework are available depending o
 
 RapidStart Services lets partners and customers configure an installation of Microsoft Dynamics AX by using a cloud-based, interview-style questionnaire. The questionnaire uses general terminology about business processes instead of terms that are specific to Microsoft Dynamics AX. Partners can create, maintain, and reuse configurations that reflect their custom solutions. Partners can also create additional question groups and questions to enlarge the scope of a configuration.
 
-RapidStart Services is available for download from [CustomerSource](http://go.microsoft.com/fwlink/?linkid=210925) and [PartnerSource](http://go.microsoft.com/fwlink/?linkid=210926).
+RapidStart Services is available for download from [CustomerSource](https://go.microsoft.com/fwlink/?linkid=210925) and [PartnerSource](https://go.microsoft.com/fwlink/?linkid=210926).
 
 **Intended users:** Partners and application users
 
@@ -357,7 +357,7 @@ For more information about how to use AIF, see [Services and Application Integra
 
 The Microsoft Dynamics AX 2012 Test Data Transfer Tool (beta) is a command-line tool that exports data from and imports data into a Microsoft Dynamics AX 2012 business database in a non-production (development or test) environment.
 
-The Test Data Transfer Tool (beta) is available from the [InformationSource services download page](http://go.microsoft.com/fwlink/?linkid=228148). For documentation and information about the Test Data Transfer Tool (beta), see [Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012](test-data-transfer-tool-beta-for-microsoft-dynamics-ax-2012.md).
+The Test Data Transfer Tool (beta) is available from the [InformationSource services download page](https://go.microsoft.com/fwlink/?linkid=228148). For documentation and information about the Test Data Transfer Tool (beta), see [Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012](test-data-transfer-tool-beta-for-microsoft-dynamics-ax-2012.md).
 
 
 > [!IMPORTANT]
@@ -419,7 +419,7 @@ You must use SQL Server backup and recovery to move business data to a new envir
 
 The Intelligent Data Management Framework for Microsoft Dynamics AX (IDMF) lets system administrators optimize the performance of Microsoft Dynamics AX installations by making it easier to archive data, and maintain an optimal database size.
 
-The IDMF is available from the [InformationSource services download page](http://go.microsoft.com/fwlink/?linkid=228149). For documentation and information about IDMF, see [Microsoft Dynamics AX Intelligent Data Management Framework (IDMF)](microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md).
+The IDMF is available from the [InformationSource services download page](https://go.microsoft.com/fwlink/?linkid=228149). For documentation and information about IDMF, see [Microsoft Dynamics AX Intelligent Data Management Framework (IDMF)](microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md).
 
 **Intended users:** System administrators and database administrators
 

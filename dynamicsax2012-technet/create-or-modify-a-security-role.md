@@ -22,7 +22,7 @@ Only the Microsoft Dynamics AX administrator can create or modify a role.
 
 
 > [!IMPORTANT]
-> <P>Be aware that modifying roles may affect your licensing requirements. For more information about how licensing relates to security, see the <A href="http://go.microsoft.com/fwlink/?linkid=228370">Security roles and licensing white paper</A> for Microsoft Dynamics AX 2012.</P>
+> <P>Be aware that modifying roles may affect your licensing requirements. For more information about how licensing relates to security, see the <A href="https://go.microsoft.com/fwlink/?linkid=228370">Security roles and licensing white paper</A> for Microsoft Dynamics AX 2012.</P>
 
 
 

@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012_
 
 This white paper provides an overview of operations that are exposed in the Advanced ledger entry service in Microsoft Dynamics AX 2012 for Public sector. It also outlines some common development scenarios and provides step-by-step instructions to integrate with the advanced ledger entries.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=290981).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=290981).
 
   
 

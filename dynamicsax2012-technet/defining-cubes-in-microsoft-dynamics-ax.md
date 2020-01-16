@@ -42,11 +42,11 @@ How to: Expose a PowerPivot Model in a Business Overview Web Part
 
 ## See also
 
-[Designing Cubes (SQL Server Books Online)](http://go.microsoft.com/fwlink/?linkid=208734)
+[Designing Cubes (SQL Server Books Online)](https://go.microsoft.com/fwlink/?linkid=208734)
 
-[Measures and Measure Groups (SQL Server Books Online)](http://go.microsoft.com/fwlink/?linkid=208692)
+[Measures and Measure Groups (SQL Server Books Online)](https://go.microsoft.com/fwlink/?linkid=208692)
 
-[Introduction to Dimensions (SQL Server Books Online)](http://go.microsoft.com/fwlink/?linkid=115077)
+[Introduction to Dimensions (SQL Server Books Online)](https://go.microsoft.com/fwlink/?linkid=115077)
 
-[Attributes and Attribute Hierarchies (SQL Server Books Online)](http://go.microsoft.com/fwlink/?linkid=115080)
+[Attributes and Attribute Hierarchies (SQL Server Books Online)](https://go.microsoft.com/fwlink/?linkid=115080)
 

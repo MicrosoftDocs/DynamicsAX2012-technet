@@ -26,7 +26,7 @@ We recommend the following tools for monitoring the performance of Microsoft Dyn
     
       - [Walk through major features of Microsoft Dynamics AX 2012 Trace Parser (Part 2)](http://blogs.msdn.com/b/axperf/archive/2011/09/06/walk-through-the-major-features-in-microsoft-dynamics-ax-2012-trace-parser-part-2.aspx)
 
-  - [Performance Monitor](http://technet.microsoft.com/en-us/library/cc749115.aspx) – Performance Monitor is the basic tool for obtaining an overview of performance. You can review the CPU, disk, and memory counters to find performance issues. After you have identified a time frame during which your system may have experienced performance problems, you can add more specific counters to understand the problem in more detail. For more information, see the following resources:
+  - [Performance Monitor](https://technet.microsoft.com/library/cc749115.aspx) – Performance Monitor is the basic tool for obtaining an overview of performance. You can review the CPU, disk, and memory counters to find performance issues. After you have identified a time frame during which your system may have experienced performance problems, you can add more specific counters to understand the problem in more detail. For more information, see the following resources:
     
       - [Set up Performance Monitor counters](set-up-performance-monitor-counters.md)
     

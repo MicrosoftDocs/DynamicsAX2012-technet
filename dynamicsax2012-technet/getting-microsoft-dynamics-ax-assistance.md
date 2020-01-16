@@ -38,15 +38,15 @@ The following table lists Microsoft websites that provide additional online reso
 <tbody>
 <tr class="odd">
 <td><p>Microsoft Dynamics AX Developer Center</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=182435%26clcid=0x409">http://go.microsoft.com/fwlink/?LinkId=182435&amp;clcid=0x409</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=182435%26clcid=0x409">https://go.microsoft.com/fwlink/?LinkId=182435&amp;clcid=0x409</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Microsoft Dynamics AX</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=182436">http://go.microsoft.com/fwlink/?LinkId=182436</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=182436">https://go.microsoft.com/fwlink/?LinkId=182436</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Microsoft Dynamics AX technical community on MSDN</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=182437">http://go.microsoft.com/fwlink/?LinkId=182437</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=182437">https://go.microsoft.com/fwlink/?LinkId=182437</a></p></td>
 </tr>
 <tr class="even">
 <td><p>CustomerSource</p></td>

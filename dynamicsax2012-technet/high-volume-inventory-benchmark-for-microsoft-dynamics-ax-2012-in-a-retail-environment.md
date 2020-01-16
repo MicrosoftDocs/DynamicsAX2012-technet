@@ -20,9 +20,9 @@ Another goal of the benchmark was to demonstrate that Microsoft Dynamics AX 2012
 
 We have published the following two papers about the high volume inventory benchmark:
 
-  - [High volume inventory benchmark for Microsoft Dynamics AX 2012 in a retail environment (details)](http://go.microsoft.com/fwlink/?linkid=238586) – This paper provides detailed results of the high volume inventory benchmark testing, and can be downloaded from CustomerSource and PartnerSource.
+  - [High volume inventory benchmark for Microsoft Dynamics AX 2012 in a retail environment (details)](https://go.microsoft.com/fwlink/?linkid=238586) – This paper provides detailed results of the high volume inventory benchmark testing, and can be downloaded from CustomerSource and PartnerSource.
 
-  - [High volume inventory benchmark for Microsoft Dynamics AX 2012 in a retail environment (summary)](http://go.microsoft.com/fwlink/?linkid=238587) – This paper provides a summary of the high volume inventory benchmark results, and can be downloaded from CustomerSource and PartnerSource.
+  - [High volume inventory benchmark for Microsoft Dynamics AX 2012 in a retail environment (summary)](https://go.microsoft.com/fwlink/?linkid=238587) – This paper provides a summary of the high volume inventory benchmark results, and can be downloaded from CustomerSource and PartnerSource.
 
   
 

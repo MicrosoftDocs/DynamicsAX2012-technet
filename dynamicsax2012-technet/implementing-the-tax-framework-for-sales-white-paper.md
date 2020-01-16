@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper describes common patterns for implementing sales tax. It includes descriptions of committed sales tax data model changes, tax API changes, and patterns for uncommitted sales taxes.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213135).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213135).
 
   
 

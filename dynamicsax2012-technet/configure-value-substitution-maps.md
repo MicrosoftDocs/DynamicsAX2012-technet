@@ -26,7 +26,7 @@ A lookup table contains lookup entries that map internal values to external valu
 
   - For outbound transfers, the value that you enter in the **External value** field replaces the value that you enter in the **Internal value** field.
 
-By using lookup tables, you can substitute one value for another in any field that has a corresponding extended data type (EDT). Each lookup table is associated with a single EDT, but you can create multiple lookup tables for the same EDT. Not every field in a service schema is associated with an EDT. For more information about EDTs, see [Extended Data Types (EDTs)](http://go.microsoft.com/fwlink/?linkid=218225) on MSDN.
+By using lookup tables, you can substitute one value for another in any field that has a corresponding extended data type (EDT). Each lookup table is associated with a single EDT, but you can create multiple lookup tables for the same EDT. Not every field in a service schema is associated with an EDT. For more information about EDTs, see [Extended Data Types (EDTs)](https://go.microsoft.com/fwlink/?linkid=218225) on MSDN.
 
 The **Pipeline value substitution** form displays a list of the EDTs that are associated with elements for a service operation that you have configured for value substitution. You can also use the **Pipeline value substitution** form to associate a lookup table with a document field.
 
