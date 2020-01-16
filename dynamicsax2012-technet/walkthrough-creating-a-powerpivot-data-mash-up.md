@@ -2,8 +2,9 @@
 title: 'Walkthrough: Creating a PowerPivot Data Mash-up'
 TOCTitle: 'Walkthrough: Creating a PowerPivot Data Mash-up'
 ms:assetid: 5dccd8a9-f734-410c-83d1-19850200339f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn198214(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn198214(v=AX.60)
 ms:contentKeyID: 53401822
+author: Khairunj
 ms.date: 05/09/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: View Role centers (Enterprise Portal)
 TOCTitle: View Role centers
 ms:assetid: 08604025-8c2b-4a11-a449-9342dcfeaaa6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242117(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242117(v=AX.60)
 ms:contentKeyID: 36055972
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

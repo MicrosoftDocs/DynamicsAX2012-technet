@@ -2,8 +2,9 @@
 title: "What's new: Sales and marketing features"
 TOCTitle: Sales and marketing features
 ms:assetid: 2725b7ec-718a-49cb-bb68-0fe8fd6dd271
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507147(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507147(v=AX.60)
 ms:contentKeyID: 59623236
+author: Khairunj
 ms.date: 11/26/2014
 mtps_version: v=AX.60
 ---
@@ -186,7 +187,7 @@ We have changed and added functionality in the [Sales and marketing](sales-and-m
 <td><p>You can cancel all order lines on a sales order in a single step. Previously, you had to cancel each order line on a sales order individually.</p>
 <p>You can also select multiple sales orders and cancel all the order lines for those sales orders. If some order lines that you select were already delivered, you receive a message that states that the order lines have already been delivered and cannot be canceled.</p>
 <p>For this feature, a <strong>Cancel</strong> button was added in the <strong>Maintain</strong> group on the <strong>Action Pane</strong> on the <strong>Sales order</strong> tab in the <strong>All sales orders</strong> form.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa585863(v=ax.60)">Sales orders (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa585863(v=ax.60)">Sales orders (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Validate and post trade agreement journals more efficiently</p></td>

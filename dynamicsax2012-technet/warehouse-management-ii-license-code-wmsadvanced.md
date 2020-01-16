@@ -2,8 +2,9 @@
 title: Warehouse management II license code (WMSAdvanced)
 TOCTitle: Warehouse management II license code (WMSAdvanced)
 ms:assetid: df717104-2cff-4e5e-88df-6ccd982457fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433473(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433473(v=AX.60)
 ms:contentKeyID: 36941231
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -61,7 +62,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

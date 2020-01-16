@@ -2,8 +2,9 @@
 title: View undispatched service orders
 TOCTitle: View undispatched service orders
 ms:assetid: c7c5f14a-16db-4356-b915-acbfda7c1cac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213646(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213646(v=AX.60)
 ms:contentKeyID: 62629949
+author: Khairunj
 ms.date: 07/28/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ This topic describes how to view activities in a service order that don’t have
 
 ## See also
 
-[Dispatch board (form)](https://technet.microsoft.com/en-us/library/hh242789\(v=ax.60\))
+[Dispatch board (form)](https://technet.microsoft.com/library/hh242789\(v=ax.60\))
 
 [About service activities](about-service-activities.md)
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Debugging AIF Service Operation Calls When Using File System Adapter'
 TOCTitle: 'Walkthrough: Debugging AIF Service Operation Calls When Using File System Adapter'
 ms:assetid: 0c8a2815-d09b-4f49-8f10-3683ea4cc669
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710372(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710372(v=AX.60)
 ms:contentKeyID: 49384264
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -17,7 +18,7 @@ AIF enables asynchronous document exchanges by processing XML messages that are 
 
 
 > [!NOTE]
-> <P>You use Visual Studio to view the service class code that is compiled into Common Intermediate Language (CIL) when you debug the X++ service code in an asynchronous transfer that uses the file adapter. For more information, see <A href="https://technet.microsoft.com/en-us/library/gg860898(v=ax.60)">Debugging in Microsoft Dynamics AX 2012</A>.</P>
+> <P>You use Visual Studio to view the service class code that is compiled into Common Intermediate Language (CIL) when you debug the X++ service code in an asynchronous transfer that uses the file adapter. For more information, see <A href="https://technet.microsoft.com/library/gg860898(v=ax.60)">Debugging in Microsoft Dynamics AX 2012</A>.</P>
 
 
 
@@ -41,7 +42,7 @@ In this walkthrough you will complete the following tasks by using the create op
 
   - Microsoft Dynamics AX Services must be initialized. For more information, see [Customize service contracts](customize-service-contracts.md).
 
-  - The AOS must be configured for debugging. For more information, see [Debugging in Microsoft Dynamics AX 2012](https://technet.microsoft.com/en-us/library/gg860898\(v=ax.60\)).
+  - The AOS must be configured for debugging. For more information, see [Debugging in Microsoft Dynamics AX 2012](https://technet.microsoft.com/library/gg860898\(v=ax.60\)).
 
   - To use the Visual Studio debugger with Microsoft Dynamics AX services, you must be logged on with a user ID that is a member of the Windows Administrators group on the computer. This user ID must also be added to Microsoft Dynamics AX with the appropriate permissions to create a sales order.
 
@@ -192,7 +193,7 @@ You use Visual Studio to set a breakpoint in the prepareForSave method in the cr
     
 
     > [!IMPORTANT]
-    > <P>You must be logged into the computer where the AOS is running, and you must have configured the AOS for debugging. For more information, see <A href="https://technet.microsoft.com/en-us/library/gg860898(v=ax.60)">Debugging in Microsoft Dynamics AX 2012</A>.</P>
+    > <P>You must be logged into the computer where the AOS is running, and you must have configured the AOS for debugging. For more information, see <A href="https://technet.microsoft.com/library/gg860898(v=ax.60)">Debugging in Microsoft Dynamics AX 2012</A>.</P>
 
 
 
@@ -231,5 +232,5 @@ For asynchronous exchanges, you create a job to execute the AIF code that receiv
     > <P>C:\Program Files\Microsoft Dynamics AX\60\Server\MicrosoftDynamicsAX\bin\XppIL\source</P></LI></UL>
 
     
-    For more information about how to create X++ source files for debugging, see [How to: Enable the Debugger](https://technet.microsoft.com/en-us/library/aa569665\(v=ax.60\)).
+    For more information about how to create X++ source files for debugging, see [How to: Enable the Debugger](https://technet.microsoft.com/library/aa569665\(v=ax.60\)).
 

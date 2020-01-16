@@ -2,8 +2,9 @@
 title: Update and index subscription sales prices
 TOCTitle: Update and index subscription sales prices
 ms:assetid: 2c31bb56-7224-422e-b9f6-e8e55502895a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496865(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496865(v=AX.60)
 ms:contentKeyID: 36056254
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ The base price or index of the subscription is updated with the specified value.
 
 ## See also
 
-[Index subscription (class form)](https://technet.microsoft.com/en-us/library/aa558579\(v=ax.60\))
+[Index subscription (class form)](https://technet.microsoft.com/library/aa558579\(v=ax.60\))
 
   
 

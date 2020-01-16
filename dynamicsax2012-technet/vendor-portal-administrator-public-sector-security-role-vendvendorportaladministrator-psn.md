@@ -2,8 +2,9 @@
 title: Vendor portal administrator, public sector security role (VendVendorPortalAdministrator_PSN)
 TOCTitle: Vendor portal administrator, public sector security role (VendVendorPortalAdministrator_PSN)
 ms:assetid: 62800815-a417-4c09-a754-d2eb00bfbac5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn743810(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn743810(v=AX.60)
 ms:contentKeyID: 62279203
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

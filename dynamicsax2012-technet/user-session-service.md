@@ -1,9 +1,10 @@
-﻿---
+---
 title: User Session Service
 TOCTitle: User Session Service
 ms:assetid: d2f9fc07-3a66-46a5-9cc9-1d9c91309caf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg881307(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg881307(v=AX.60)
 ms:contentKeyID: 35251953
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -44,28 +45,28 @@ The user session service has two service operations:
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh153252(v=ax.60)">AXLanguage</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh153252(v=ax.60)">AXLanguage</a></p></td>
 <td><p>Returns a string that specifies the user’s default language as defined in the <strong>User options</strong> form.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh152233(v=ax.60)">Company</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh152233(v=ax.60)">Company</a></p></td>
 <td><p>Returns a string that specifies the user’s default company as defined in the <strong>User options</strong> form.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh153400(v=ax.60)">CompanyTimeZone</a></p></td>
-<td><p>Returns a <a href="https://technet.microsoft.com/en-us/library/hh153353(v=ax.60)">TimeZone</a> class that specifies the time zone for the user’s default company as defined in the <strong>User options</strong> form. The company time zone is in the <strong>Company information</strong> form.</p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh153400(v=ax.60)">CompanyTimeZone</a></p></td>
+<td><p>Returns a <a href="https://technet.microsoft.com/library/hh153353(v=ax.60)">TimeZone</a> class that specifies the time zone for the user’s default company as defined in the <strong>User options</strong> form. The company time zone is in the <strong>Company information</strong> form.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh131129(v=ax.60)">CurrencyInfo</a></p></td>
-<td><p>Returns a <a href="https://technet.microsoft.com/en-us/library/hh153397(v=ax.60)">ICurrencyInfo</a> class that specifies the default currency code associated with the user’s default company as defined in the <strong>User options</strong> form. The company currency code is in the <strong>Ledger</strong> form.</p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh131129(v=ax.60)">CurrencyInfo</a></p></td>
+<td><p>Returns a <a href="https://technet.microsoft.com/library/hh153397(v=ax.60)">ICurrencyInfo</a> class that specifies the default currency code associated with the user’s default company as defined in the <strong>User options</strong> form. The company currency code is in the <strong>Ledger</strong> form.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh151937(v=ax.60)">UserPreferredCalendar</a></p></td>
-<td><p>Returns a <a href="https://technet.microsoft.com/en-us/library/hh186599(v=ax.60)">PreferredCalendar</a> class that specifies the user’s preferred calendar as defined in the <strong>User options</strong> form. In the <strong>User options</strong> form, the <strong>User preferred calendar</strong> field is only visible if the user’s language is set to Arabic.</p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh151937(v=ax.60)">UserPreferredCalendar</a></p></td>
+<td><p>Returns a <a href="https://technet.microsoft.com/library/hh186599(v=ax.60)">PreferredCalendar</a> class that specifies the user’s preferred calendar as defined in the <strong>User options</strong> form. In the <strong>User options</strong> form, the <strong>User preferred calendar</strong> field is only visible if the user’s language is set to Arabic.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh152984(v=ax.60)">UserPreferredTimeZone</a></p></td>
-<td><p>Returns a <a href="https://technet.microsoft.com/en-us/library/hh153353(v=ax.60)">TimeZone</a> class that specifies the time zone for the user as defined in the <strong>User options</strong> form.</p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh152984(v=ax.60)">UserPreferredTimeZone</a></p></td>
+<td><p>Returns a <a href="https://technet.microsoft.com/library/hh153353(v=ax.60)">TimeZone</a> class that specifies the time zone for the user as defined in the <strong>User options</strong> form.</p></td>
 </tr>
 </tbody>
 </table>

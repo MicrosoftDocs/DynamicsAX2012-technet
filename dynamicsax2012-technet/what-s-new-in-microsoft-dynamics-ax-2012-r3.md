@@ -2,8 +2,9 @@
 title: What's new in Microsoft Dynamics AX 2012 R3
 TOCTitle: What's new in Microsoft Dynamics AX 2012 R3
 ms:assetid: 94f33aa0-c17e-477f-8e44-c4f9998fe261
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn600262(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn600262(v=AX.60)
 ms:contentKeyID: 62200291
+author: Khairunj
 ms.date: 06/27/2014
 mtps_version: v=AX.60
 ---
@@ -291,7 +292,7 @@ Other features were added or changed in AX 2012 R3.
 <td><p>Store more than 16 dimensions in the InventDim table and its DimIdx index.</p></td>
 <td><p>The InventDim table stores information about inventory dimensions. Before Microsoft Dynamics AX 2012 R2, the table could store a maximum of 16 dimensions.</p>
 <p>A new hash field has been added to the InventDim table and to its DimIdx index. By following the steps of a simple workaround, you can now store unique combinations that involve more than 16 dimensions in the InventDim table and its DimIdx index.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/dn495386(v=ax.60)">Walkthrough: More than 14 InventDim Dimensions Despite Index Limit</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/dn495386(v=ax.60)">Walkthrough: More than 14 InventDim Dimensions Despite Index Limit</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Update installer</p></td>

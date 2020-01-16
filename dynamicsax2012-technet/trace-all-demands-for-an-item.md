@@ -2,8 +2,9 @@
 title: Trace all demands for an item
 TOCTitle: Trace all demands for an item
 ms:assetid: e86f899a-5a5b-430f-94d0-d8486722b5e1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573200(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573200(v=AX.60)
 ms:contentKeyID: 36059835
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

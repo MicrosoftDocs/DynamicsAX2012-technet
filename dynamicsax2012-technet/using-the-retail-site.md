@@ -2,8 +2,9 @@
 title: Using the Retail site
 TOCTitle: Using the Retail site
 ms:assetid: 58ea90dc-ce11-456c-9e39-dcc92bda52f8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352263(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352263(v=AX.60)
 ms:contentKeyID: 36687889
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

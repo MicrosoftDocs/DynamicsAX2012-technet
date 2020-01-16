@@ -2,8 +2,9 @@
 title: " type"
 TOCTitle: " type"
 ms:assetid: DynamicsAXGlossary.1605590
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1605590(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1605590(v=AX.60)
 ms:contentKeyID: 45765374
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

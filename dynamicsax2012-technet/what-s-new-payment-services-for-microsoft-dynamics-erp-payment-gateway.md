@@ -2,8 +2,9 @@
 title: "What's New: Payment services for Microsoft Dynamics ERP - payment gateway"
 TOCTitle: Payment services for Microsoft Dynamics ERP - payment gateway
 ms:assetid: 99d40512-b856-4843-aaa4-becc66326d21
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527186(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527186(v=AX.60)
 ms:contentKeyID: 59623315
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

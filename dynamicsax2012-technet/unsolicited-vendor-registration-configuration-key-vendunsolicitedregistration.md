@@ -2,8 +2,9 @@
 title: Unsolicited vendor registration configuration key (VendUnsolicitedRegistration)
 TOCTitle: Unsolicited vendor registration configuration key (VendUnsolicitedRegistration)
 ms:assetid: 33edd811-6e2e-4bf1-9ee9-610452c591b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433449(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433449(v=AX.60)
 ms:contentKeyID: 36941200
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -39,7 +40,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Unsolicited vendors</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209226(v=ax.60)">Unsolicited vendors (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209226(v=ax.60)">Unsolicited vendors (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -77,7 +78,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

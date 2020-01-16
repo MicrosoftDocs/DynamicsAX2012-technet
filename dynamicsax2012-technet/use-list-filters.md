@@ -2,8 +2,9 @@
 title: Use list filters
 TOCTitle: Use list filters
 ms:assetid: 409f3756-de02-44af-8bc3-3692bb1b67e0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271513(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271513(v=AX.60)
 ms:contentKeyID: 36384145
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

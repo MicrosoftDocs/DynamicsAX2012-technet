@@ -2,8 +2,9 @@
 title: View service agreements
 TOCTitle: View service agreements
 ms:assetid: 65ad05fb-2217-4e67-aeb8-5ac11e1bd437
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271547(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271547(v=AX.60)
 ms:contentKeyID: 36384179
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Troubleshoot issues in Real-time Service
 TOCTitle: Troubleshoot issues in Real-time Service
 ms:assetid: cbf66b4f-3ecb-41d2-9cee-a639f8518c66
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn343752(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn343752(v=AX.60)
 ms:contentKeyID: 56115643
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

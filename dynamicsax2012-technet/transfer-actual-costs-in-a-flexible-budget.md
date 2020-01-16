@@ -2,8 +2,9 @@
 title: Transfer actual costs in a flexible budget
 TOCTitle: Transfer actual costs in a flexible budget
 ms:assetid: 29743a81-8bf3-41d3-a1b7-037a24172027
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496847(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496847(v=AX.60)
 ms:contentKeyID: 36056220
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

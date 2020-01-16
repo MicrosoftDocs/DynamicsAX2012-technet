@@ -2,8 +2,9 @@
 title: Update vendor batch details during purchase registration
 TOCTitle: Update vendor batch details during purchase registration
 ms:assetid: 7a8e0d32-82b3-44f2-8cbf-a8f613ecfe2f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352214(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352214(v=AX.60)
 ms:contentKeyID: 36687849
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,9 +43,9 @@ If a product meets these requirements, and you click **Post all** in the **Inven
 
 ## See also
 
-[Inventory registration (form)](https://technet.microsoft.com/en-us/library/aa615731\(v=ax.60\))
+[Inventory registration (form)](https://technet.microsoft.com/library/aa615731\(v=ax.60\))
 
-[Item model groups (form)](https://technet.microsoft.com/en-us/library/aa577092\(v=ax.60\))
+[Item model groups (form)](https://technet.microsoft.com/library/aa577092\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: View recruitment projects and applications
 TOCTitle: View recruitment projects and applications
 ms:assetid: e79ed6c5-6b8f-45f8-b386-511955dac6d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271679(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271679(v=AX.60)
 ms:contentKeyID: 36384310
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

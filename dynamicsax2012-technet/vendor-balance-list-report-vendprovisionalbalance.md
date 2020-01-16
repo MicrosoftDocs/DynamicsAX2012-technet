@@ -2,8 +2,9 @@
 title: Vendor balance list report (VendProvisionalBalance)
 TOCTitle: Vendor balance list report (VendProvisionalBalance)
 ms:assetid: 6e2af74f-cdb1-46c7-bfe0-64df12ae4496
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa596500(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa596500(v=AX.60)
 ms:contentKeyID: 37832008
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

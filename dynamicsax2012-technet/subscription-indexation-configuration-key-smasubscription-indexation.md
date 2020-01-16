@@ -2,8 +2,9 @@
 title: Subscription Indexation configuration key (SMASubscription_Indexation)
 TOCTitle: Subscription Indexation configuration key (SMASubscription_Indexation)
 ms:assetid: d9206ba8-5017-4396-b381-a4d87759818a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa619636(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa619636(v=AX.60)
 ms:contentKeyID: 36993557
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: Using search
 TOCTitle: Using search
 ms:assetid: 78ad7d04-9381-42a4-8e1d-c2b1a9d756fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209256(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209256(v=AX.60)
 ms:contentKeyID: 36058229
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

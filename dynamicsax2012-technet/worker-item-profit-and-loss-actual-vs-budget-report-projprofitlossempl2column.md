@@ -2,8 +2,9 @@
 title: Worker/item profit and loss (actual vs. budget) report (ProjProfitLossEmpl2Column)
 TOCTitle: Worker/item profit and loss (actual vs. budget) report (ProjProfitLossEmpl2Column)
 ms:assetid: 13c4d7c1-30df-47e7-a09c-09abbcd6ac31
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550650(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550650(v=AX.60)
 ms:contentKeyID: 36966690
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

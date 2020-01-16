@@ -2,8 +2,9 @@
 title: "What's new: Data partitioning"
 TOCTitle: Data partitioning
 ms:assetid: 2117ee49-3a6b-4f79-b43d-6440455a4cb7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728664(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728664(v=AX.60)
 ms:contentKeyID: 49556571
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

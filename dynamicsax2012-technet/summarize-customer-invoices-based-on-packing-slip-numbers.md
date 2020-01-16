@@ -2,8 +2,9 @@
 title: Summarize customer invoices based on packing slip numbers
 TOCTitle: Summarize customer invoices based on packing slip numbers
 ms:assetid: 13265c84-76c3-4b01-8e32-e85318776400
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230936(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230936(v=AX.60)
 ms:contentKeyID: 37822138
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -154,9 +155,9 @@ If you select **None** in the **Summary update for** field to indicate that you 
 
 ## See also
 
-[Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\))
+[Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\))
 
-[Select sales order packing slip (form)](https://technet.microsoft.com/en-us/library/hh580614\(v=ax.60\))
+[Select sales order packing slip (form)](https://technet.microsoft.com/library/hh580614\(v=ax.60\))
 
 [Key tasks: Customer invoices](key-tasks-customer-invoices.md)
 

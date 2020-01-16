@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Belgium (BEL)"
 TOCTitle: Country-specific features for Belgium
 ms:assetid: 370a8a5c-dae7-4fbb-9da5-3c20ec928765
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507092(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507092(v=AX.60)
 ms:contentKeyID: 59623183
+author: Khairunj
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---

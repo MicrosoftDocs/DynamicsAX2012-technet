@@ -2,8 +2,9 @@
 title: Troubleshoot prerequisite issues
 TOCTitle: Troubleshoot prerequisite issues
 ms:assetid: e3771aed-bde7-4610-bff2-aa64212a8352
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh285826(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh285826(v=AX.60)
 ms:contentKeyID: 36607354
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

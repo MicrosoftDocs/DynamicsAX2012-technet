@@ -2,8 +2,9 @@
 title: (SWE) Print order entry statistics
 TOCTitle: (SWE) Print order entry statistics
 ms:assetid: 2530e724-40e3-4e69-aae2-58c70cbdb8e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230995(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230995(v=AX.60)
 ms:contentKeyID: 36056189
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

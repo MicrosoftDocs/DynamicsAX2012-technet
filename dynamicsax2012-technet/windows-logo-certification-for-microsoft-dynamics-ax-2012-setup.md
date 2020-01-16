@@ -2,8 +2,9 @@
 title: 'Windows Logo Certification for Microsoft Dynamics AX 2012 Setup '
 TOCTitle: 'Windows Logo Certification for Microsoft Dynamics AX 2012 Setup '
 ms:assetid: 2de0535e-7f26-4fa7-a2e4-5417bd4a7f13
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh378079(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh378079(v=AX.60)
 ms:contentKeyID: 36870662
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

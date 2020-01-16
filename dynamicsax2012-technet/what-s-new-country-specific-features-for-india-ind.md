@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for India (IND)"
 TOCTitle: Country-specific features for India
 ms:assetid: 257c80ed-5b1c-4f45-8c5b-c85aea27ff9c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507150(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507150(v=AX.60)
 ms:contentKeyID: 59623233
+author: Khairunj
 ms.date: 06/09/2015
 mtps_version: v=AX.60
 ---
@@ -402,13 +403,13 @@ For more information about additional country-specific features that we added fo
 <li><p>Service tax</p></li>
 </ul>
 <p>You can also create a recurring invoice, and calculate direct and indirect taxes for the amount on the recurring invoice. All details that are required to generate recurring invoices can be specified in the <strong>Free text invoice templates</strong> form.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj664903(v=ax.60)">(IND) Free text invoice templates (modified form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj664903(v=ax.60)">(IND) Free text invoice templates (modified form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Fixed asset transfer for India</p></td>
 <td><p>You can transfer fixed assets between dimension values for a selected value model by using accounting entries. In accordance with the requirements of the India Income Tax Act, fixed assets are accounted and depreciated by using the concept of the block of assets. Fixed assets that share characteristics are grouped into blocks of assets, based on the guidelines in the India Income Tax Act. When an individual asset is associated with a block of assets, which is identified as a fixed asset group in Microsoft Dynamics AX, the individual asset loses its identity and is merged with the asset group value. Depreciation is applied on the value of the whole fixed asset group and is not calculated on individual asset values.</p>
 <p>The system cannot identify the depreciation value and net book value for an individual fixed asset that is being transferred, if that asset is associated with a fixed asset group value model for which asset group depreciation applies. Therefore, the value models that are associated with a fixed asset for which the <strong>Asset group depreciation</strong> check box is selected must be filtered out of the <strong>Fixed asset transfer</strong> form.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209220(v=ax.60)">Transfer fixed assets (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/hh209220(v=ax.60)">Transfer fixed assets (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Uptake of the subledger journal and distribution framework with Indian direct tax</p></td>
@@ -419,12 +420,12 @@ For more information about additional country-specific features that we added fo
 <tr class="even">
 <td><p>The method that is used to adjust direct tax entries that are posted to the general ledger has changed. This feature replaces the feature for TDS and TCS adjustment, which is now deprecated.</p></td>
 <td><p>Adjust direct tax entries by using the Withholding tax journal that is generated from the general ledger. In the Withholding tax journal, you can specify the details for adjusting a direct tax transaction, recalculate the tax amount, and then transfer the information to the general journal.</p>
-<p>For more information, see <a href="ind-settle-withholding-tax-payments-and-enter-withholding-tax-challan-information.md">(IND) Settle withholding tax payments and enter withholding tax challan information</a> and <a href="https://technet.microsoft.com/en-us/library/jj664896(v=ax.60)">(IND) Create withholding tax journal (form)</a>.</p></td>
+<p>For more information, see <a href="ind-settle-withholding-tax-payments-and-enter-withholding-tax-challan-information.md">(IND) Settle withholding tax payments and enter withholding tax challan information</a> and <a href="https://technet.microsoft.com/library/jj664896(v=ax.60)">(IND) Create withholding tax journal (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Manual adjustment of taxes</p></td>
 <td><p>You can manually adjust recoverable tax values for each transaction. This functionally is used mainly to settle taxes. You can make the adjustments for recoverable tax transactions or payable transactions that have been posted by tracking the original record or by creating a new adjustment transaction. You can create and settle transactions that have excise and VAT recoverable amounts in the <strong>Purchase order</strong> form. You can create and settle transactions that have excise and VAT payable amounts in the <strong>Sales order</strong> form. You can create transactions that have service tax recoverable amounts or service tax payable amounts, and settle those transactions in a payment journal. You can compare recoverable and payable amounts, and adjust them in the <strong>Transactions</strong> form.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj664489(v=ax.60)">(IND) Create sales order (modified form)</a> and <a href="https://technet.microsoft.com/en-us/library/jj664764(v=ax.60)">(IND) Transactions (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj664489(v=ax.60)">(IND) Create sales order (modified form)</a> and <a href="https://technet.microsoft.com/library/jj664764(v=ax.60)">(IND) Transactions (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Subledger journal impact on the Indian excise duty functionality</p></td>
@@ -445,7 +446,7 @@ For more information about additional country-specific features that we added fo
 <tr class="even">
 <td><p>BOE information is evaluated on a line-by-line basis.</p></td>
 <td><p>In AX 2012 R2, each line in a BOE is calculated for taxes, posted, and recorded individually.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677988(v=ax.60)">(IND) Bill of entry journal (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj677988(v=ax.60)">(IND) Bill of entry journal (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Standard Input Output Norms (SION)</p></td>
@@ -538,7 +539,7 @@ For more information about additional country-specific features that we added fo
 <tr class="odd">
 <td><p>Assign financial dimensions to entries that are generated in the <strong>Transfer orders</strong> form.</p></td>
 <td><p>You can assign financial dimensions to each line entry that is generated for transfer orders.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677831(v=ax.60)">(IND) Transfer orders (modified form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj677831(v=ax.60)">(IND) Transfer orders (modified form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Generation of financial statements in for India</p></td>
@@ -591,13 +592,13 @@ For more information about additional country-specific features that we added fo
 <td><p>Updates to general ledger and tax inquiry forms</p></td>
 <td><p>You can use the <strong>Invoice group</strong> field in the <strong>Indirect tax inquiry</strong> form to filter and list tax transactions for a specific invoice group. You can create queries to view a list of VAT transactions that are posted during a period, based on a specific group.</p>
 <p>You can use the <strong>Number sequences</strong> on the <strong>General ledger parameters</strong> form to separate the segments and the ledger accounts.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj856151(v=ax.60)">(IND) Indirect tax inquiry (form)</a> and <a href="https://technet.microsoft.com/en-us/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj856151(v=ax.60)">(IND) Indirect tax inquiry (form)</a> and <a href="https://technet.microsoft.com/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Enhancements for the Organizational model for India</p></td>
 <td><p>In Microsoft Dynamics AX, you can create organizational structures that align with your business processes or legal entities by using the organizational hierarchy designer. You can create legal entities by using the <strong>Legal entities</strong> form. You can enter address, contact, and tax information for legal entities.</p>
 <p>For India, you can enter the tax information for your company on the <strong>Tax registration</strong> tab in the <strong>Manage addresses</strong> form. The address, contact, and tax information is updated in the global address book.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj664569(v=ax.60)">(IND) Legal entities (modified form)</a> and <a href="https://technet.microsoft.com/en-us/library/jj664593(v=ax.60)">(IND) Manage addresses (modified form)</a>.</p>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj664569(v=ax.60)">(IND) Legal entities (modified form)</a> and <a href="https://technet.microsoft.com/library/jj664593(v=ax.60)">(IND) Manage addresses (modified form)</a>.</p>
 <p>For more information about the Organization model, see the white paper <a href="http://go.microsoft.com/fwlink/?linkid=213125%26clcid=0x409">Implementing and Extending the Organization Model in Microsoft Dynamics AX 2012</a>.</p></td>
 </tr>
 <tr class="odd">
@@ -621,7 +622,7 @@ For more information about additional country-specific features that we added fo
 <tr class="odd">
 <td><p>View and modify accounting entries before you post them to the general ledger.</p></td>
 <td><p>You can view full accounting entries in the <strong>Subledger journal</strong> form. You can modify these entries in the <strong>Accounting distributions</strong> form before you post the entries to the general ledger.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh208685(v=ax.60)">Subledger journal (form)</a> and <a href="https://technet.microsoft.com/en-us/library/jj677820(v=ax.60)">(IND) Accounting distributions (modified form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/hh208685(v=ax.60)">Subledger journal (form)</a> and <a href="https://technet.microsoft.com/library/jj677820(v=ax.60)">(IND) Accounting distributions (modified form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Automatic calculation of TDS when no PAN is registered</p></td>
@@ -630,7 +631,7 @@ For more information about additional country-specific features that we added fo
 <tr class="odd">
 <td><p>Point of taxation</p></td>
 <td><p>For India, you can now select <strong>Point of taxation basis</strong> as the accounting basis for item sales tax groups.</p>
-<p>For more information, see <a href="ind-create-item-sales-tax-groups.md">(IND) Create item sales tax groups</a> and <a href="https://technet.microsoft.com/en-us/library/jj710918(v=ax.60)">(IND) Item sales tax groups (modified form)</a>.</p></td>
+<p>For more information, see <a href="ind-create-item-sales-tax-groups.md">(IND) Create item sales tax groups</a> and <a href="https://technet.microsoft.com/library/jj710918(v=ax.60)">(IND) Item sales tax groups (modified form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>For India customs duty and Export Import Policy (EXIM), if the charge as expense ratio is used, the related customs duty is charged to the expense account.</p></td>
@@ -665,7 +666,7 @@ For more information about additional country-specific features that we added fo
 
 
 </div>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677991(v=ax.60)">(IND) Project management and accounting parameters (modified form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj677991(v=ax.60)">(IND) Project management and accounting parameters (modified form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>EXIM AA incentive scheme</p></td>
@@ -713,7 +714,7 @@ For more information about additional country-specific features that we added fo
 <tr class="even">
 <td><p>Cancellation of BOE and invoice registration for India</p></td>
 <td><p>BOE and invoice registration can now be canceled if the invoice registration has not been updated, and if the related product receipts or invoices have not posted.</p>
-<p>For more information, see <a href="ind-cancel-a-bill-of-entry.md">(IND) Cancel a bill of entry</a> and <a href="https://technet.microsoft.com/en-us/library/jj874426(v=ax.60)">(IND) Invoice registration (form)</a>.</p></td>
+<p>For more information, see <a href="ind-cancel-a-bill-of-entry.md">(IND) Cancel a bill of entry</a> and <a href="https://technet.microsoft.com/library/jj874426(v=ax.60)">(IND) Invoice registration (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>

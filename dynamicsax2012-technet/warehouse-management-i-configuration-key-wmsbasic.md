@@ -2,8 +2,9 @@
 title: Warehouse Management I configuration key (WMSBasic)
 TOCTitle: Warehouse Management I configuration key (WMSBasic)
 ms:assetid: 8ab7bfe6-fa93-426d-9ad4-4b424141f99e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa598299(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa598299(v=AX.60)
 ms:contentKeyID: 36941216
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,11 +40,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Inventory aisles</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa576240(v=ax.60)">Inventory aisle (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa576240(v=ax.60)">Inventory aisle (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Inventory locations</strong> (setup form)</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589646(v=ax.60)">Inventory locations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589646(v=ax.60)">Inventory locations (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Locations</strong> (list page)</p></td>
@@ -51,7 +52,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Locations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585886(v=ax.60)">Locations wizard (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585886(v=ax.60)">Locations wizard (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -89,7 +90,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

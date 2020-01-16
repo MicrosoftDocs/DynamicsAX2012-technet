@@ -1,9 +1,10 @@
-﻿---
+---
 title: TransactionServiceClient Constructor  (Microsoft.Dynamics.Retail.TransactionServices.ClientProxy)
 TOCTitle: TransactionServiceClient Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.TransactionServiceClient.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.transactionservices.clientproxy.transactionserviceclient.transactionserviceclient(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.transactionserviceclient.transactionserviceclient(v=AX.60)
 ms:contentKeyID: 49854440
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

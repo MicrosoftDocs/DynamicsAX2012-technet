@@ -2,8 +2,9 @@
 title: Use Microsoft Excel to import and export data
 TOCTitle: Use Microsoft Excel to import and export data
 ms:assetid: fba3ffaf-e52b-40f3-9210-67b137433d4f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg723967(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg723967(v=AX.60)
 ms:contentKeyID: 35133324
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

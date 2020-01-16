@@ -2,8 +2,9 @@
 title: Troubleshoot services and AIF
 TOCTitle: Troubleshoot services and AIF
 ms:assetid: cde3c0a1-cd86-4da7-ae96-af4e380f2d5f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548693(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548693(v=AX.60)
 ms:contentKeyID: 39056467
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---
@@ -102,7 +103,7 @@ The file system adapter in AIF does not support file types other than XML for ou
 
 ## Deleting a service requires a “Generate Full CIL” recompile
 
-If you delete a service from the Application Object Tree (AOT), and then you add the service back to the AOT, you must perform a full generation of the common intermediate language (CIL) for the Microsoft .NET Framework. Use the **Generate Full CIL** option on the **Build** menu in the development workspace. For more information, see [X++ Compiled to .NET CIL](https://technet.microsoft.com/en-us/library/gg839855\(v=ax.60\)).
+If you delete a service from the Application Object Tree (AOT), and then you add the service back to the AOT, you must perform a full generation of the common intermediate language (CIL) for the Microsoft .NET Framework. Use the **Generate Full CIL** option on the **Build** menu in the development workspace. For more information, see [X++ Compiled to .NET CIL](https://technet.microsoft.com/library/gg839855\(v=ax.60\)).
 
 ## Additional service operations must be added to the service node separately
 
@@ -110,7 +111,7 @@ The AIF Document Wizard adds operations to the **Service** node in the AOT only 
 
 ## AIF does not retrieve RecVersion for documents that contain views
 
-The RecVersion field is not retrieved for documents that contain views. If you set the CheckInvalidFieldAccess database configuration parameter when you test service operations on documents that contain views, the service operations stop, and generate a stack trace or other errors. Therefore, do not set CheckInvalidFieldAccess in a production environment. If document consumers require the RecVersion field to support business logic, you can define a new field in your document that is named myRecVersion. You can then map the myRecVersion field to the RecVersion field of one of the underlying tables in the view. For more information, see [Tables Overview](https://technet.microsoft.com/en-us/library/bb314725\(v=ax.60\)) and [View Overview](https://technet.microsoft.com/en-us/library/cc634339\(v=ax.60\)).
+The RecVersion field is not retrieved for documents that contain views. If you set the CheckInvalidFieldAccess database configuration parameter when you test service operations on documents that contain views, the service operations stop, and generate a stack trace or other errors. Therefore, do not set CheckInvalidFieldAccess in a production environment. If document consumers require the RecVersion field to support business logic, you can define a new field in your document that is named myRecVersion. You can then map the myRecVersion field to the RecVersion field of one of the underlying tables in the view. For more information, see [Tables Overview](https://technet.microsoft.com/library/bb314725\(v=ax.60\)) and [View Overview](https://technet.microsoft.com/library/cc634339\(v=ax.60\)).
 
 ## Do not add custom services and document services to the same integration port
 
@@ -154,7 +155,7 @@ To create a service that works in a specific environment, you must create access
 
 ## Always specify SysEntryPointAttribute for services
 
-You must always specify [SysEntryPointAttribute](https://technet.microsoft.com/en-us/library/gg958657\(v=ax.60\)) for service operations. For more information, see [Setting SysEntryPointAttribute for Services](setting-sysentrypointattribute-for-services.md).
+You must always specify [SysEntryPointAttribute](https://technet.microsoft.com/library/gg958657\(v=ax.60\)) for service operations. For more information, see [Setting SysEntryPointAttribute for Services](setting-sysentrypointattribute-for-services.md).
 
 The following list shows valid syntax for this security attribute:
 
@@ -166,7 +167,7 @@ If you deploy a port by using a service operation that does not specify SysEntry
 
 
 > [!NOTE]
-> <P>You must specify <A href="https://technet.microsoft.com/en-us/library/gg958657(v=ax.60)">SysEntryPointAttribute</A> for any custom service that you write. The AIF Document Service Wizard adds this attribute to any new document service that you create.</P>
+> <P>You must specify <A href="https://technet.microsoft.com/library/gg958657(v=ax.60)">SysEntryPointAttribute</A> for any custom service that you write. The AIF Document Service Wizard adds this attribute to any new document service that you create.</P>
 
 
 
@@ -184,7 +185,7 @@ In outbound service operations for documents that are created from Microsoft Dyn
 
 To indicate that the field is required only for the service operation, you must override the AxdBase.initMandatoryFieldsMap method for the document service and declare the field as mandatory in the method. For more information and an example, see initMandatoryFieldsMap.
 
-By setting the **Mandatory** property to **Yes** on the table field, you guarantee that the field is always included in the outbound transfer. This property also enforces the requirement that a non-default value be set for the field when the field is saved to the database. In other words, the field cannot be inserted into the database if the field does not have a valid value. For more information about how to set the **Mandatory** property on table fields, see [Best Practices for Table Field Properties](https://technet.microsoft.com/en-us/library/aa590501\(v=ax.60\)).
+By setting the **Mandatory** property to **Yes** on the table field, you guarantee that the field is always included in the outbound transfer. This property also enforces the requirement that a non-default value be set for the field when the field is saved to the database. In other words, the field cannot be inserted into the database if the field does not have a valid value. For more information about how to set the **Mandatory** property on table fields, see [Best Practices for Table Field Properties](https://technet.microsoft.com/library/aa590501\(v=ax.60\)).
 
   
 

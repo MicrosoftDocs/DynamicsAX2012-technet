@@ -2,8 +2,9 @@
 title: View vendor reports
 TOCTitle: View vendor reports
 ms:assetid: e93ab2ac-fc46-4404-80f4-401a8d91775b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271683(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271683(v=AX.60)
 ms:contentKeyID: 36384316
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

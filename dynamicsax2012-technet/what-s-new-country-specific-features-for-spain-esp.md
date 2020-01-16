@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Spain (ESP)"
 TOCTitle: Country-specific features for Spain
 ms:assetid: a6f5749d-440d-4cb0-9fb0-3777187c995b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527194(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527194(v=AX.60)
 ms:contentKeyID: 59623323
+author: Khairunj
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---

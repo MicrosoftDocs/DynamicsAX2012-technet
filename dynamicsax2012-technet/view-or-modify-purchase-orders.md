@@ -2,8 +2,9 @@
 title: View or modify purchase orders
 TOCTitle: View or modify purchase orders
 ms:assetid: b56d26ba-986c-44bc-b81a-249c65bead5f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271629(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271629(v=AX.60)
 ms:contentKeyID: 36384261
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: View cases and case details
 TOCTitle: View cases and case details
 ms:assetid: 9f49bff3-d31b-4491-873b-9462b4ce1c0c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271614(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271614(v=AX.60)
 ms:contentKeyID: 36384246
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Worker/item profit and loss (2 periods) report (ProjProfitLossEmpl2Prd)
 TOCTitle: Worker/item profit and loss (2 periods) report (ProjProfitLossEmpl2Prd)
 ms:assetid: 991566c0-ae47-47bf-9b91-eab2c304a014
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa588142(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa588142(v=AX.60)
 ms:contentKeyID: 36966708
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

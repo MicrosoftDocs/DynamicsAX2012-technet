@@ -2,8 +2,9 @@
 title: Vendors by category report (ProcCategoryVendor)
 TOCTitle: Vendors by category report (ProcCategoryVendor)
 ms:assetid: c400e993-33dc-4786-8f99-0da49b6d57bd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433518(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433518(v=AX.60)
 ms:contentKeyID: 36941300
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: View and delete consolidation transactions
 TOCTitle: View and delete consolidation transactions
 ms:assetid: 2c3f82ad-040f-4cd8-a896-af8bdbe25b0d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496867(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496867(v=AX.60)
 ms:contentKeyID: 36056257
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

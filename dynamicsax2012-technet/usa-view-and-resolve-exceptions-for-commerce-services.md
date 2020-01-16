@@ -2,8 +2,9 @@
 title: (USA) View and resolve exceptions for Commerce Services
 TOCTitle: (USA) View and resolve exceptions for Commerce Services
 ms:assetid: fe471199-3571-491b-996d-3ae6af28db67
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227587(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227587(v=AX.60)
 ms:contentKeyID: 36060115
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -70,7 +71,7 @@ You can view and resolve exceptions in Microsoft Dynamics AX that occur when you
 
 ## See also
 
-[AIF exceptions (form)](https://technet.microsoft.com/en-us/library/aa587119\(v=ax.60\))
+[AIF exceptions (form)](https://technet.microsoft.com/library/aa587119\(v=ax.60\))
 
 [(USA) Use logging to troubleshoot Commerce Services](usa-use-logging-to-troubleshoot-commerce-services.md)
 

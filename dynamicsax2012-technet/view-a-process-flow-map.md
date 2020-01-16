@@ -2,8 +2,9 @@
 title: View a process flow map
 TOCTitle: View a process flow map
 ms:assetid: 7c1f6e5e-db56-4b89-be58-1a32793bc3be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597142(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597142(v=AX.60)
 ms:contentKeyID: 39519197
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

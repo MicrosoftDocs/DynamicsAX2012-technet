@@ -2,8 +2,9 @@
 title: Unpick items before loading
 TOCTitle: Unpick items before loading
 ms:assetid: 784f9e8e-5139-415a-9e49-3324d7f31db9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213004(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213004(v=AX.60)
 ms:contentKeyID: 37832509
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ The lines that you unpicked are removed.
 
 ## See also
 
-[Shipment staging (form)](https://technet.microsoft.com/en-us/library/hh242497\(v=ax.60\))
+[Shipment staging (form)](https://technet.microsoft.com/library/hh242497\(v=ax.60\))
 
 [Set up shipment staging overviews](set-up-shipment-staging-overviews.md)
 

@@ -2,8 +2,9 @@
 title: View or update cash advance requests
 TOCTitle: View or update cash advance requests
 ms:assetid: 9fc2287d-c1e2-40bc-9c2b-34096e7ad7ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213384(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213384(v=AX.60)
 ms:contentKeyID: 36058762
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

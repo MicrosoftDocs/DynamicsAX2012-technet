@@ -2,8 +2,9 @@
 title: View your sales orders
 TOCTitle: View your sales orders
 ms:assetid: ec260b1e-41ee-411d-8b44-2081ee06a3b0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271687(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271687(v=AX.60)
 ms:contentKeyID: 36384320
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

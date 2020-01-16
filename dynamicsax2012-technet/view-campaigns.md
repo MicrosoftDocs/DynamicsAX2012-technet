@@ -2,8 +2,9 @@
 title: View campaigns
 TOCTitle: View campaigns
 ms:assetid: 359c1c0c-9db6-4b0b-8c65-ea0639e179c2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271495(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271495(v=AX.60)
 ms:contentKeyID: 36384127
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

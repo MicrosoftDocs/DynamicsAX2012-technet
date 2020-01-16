@@ -2,8 +2,9 @@
 title: (USA) Tax 1099 detail report (Tax1099Detail)
 TOCTitle: (USA) Tax 1099 detail report (Tax1099Detail)
 ms:assetid: ac1cdb03-ab69-4389-8d7d-30d892c39be4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa618342(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa618342(v=AX.60)
 ms:contentKeyID: 36941297
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

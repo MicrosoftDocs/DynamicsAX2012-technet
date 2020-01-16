@@ -1,9 +1,10 @@
-﻿---
+---
 title: WorkflowFoundationConfiguration.WorkflowMappings Property  (Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation)
 TOCTitle: WorkflowMappings Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.WorkflowFoundationConfiguration.WorkflowMappings
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflowfoundation.workflowfoundationconfiguration.workflowmappings(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.workflowfoundationconfiguration.workflowmappings(v=AX.60)
 ms:contentKeyID: 62206518
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,8 +50,8 @@ property Dictionary<Type^, WorkflowLocation^>^ WorkflowMappings {
 
 #### Property Value
 
-Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<[Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\)), [WorkflowLocation](workflowlocation-class-microsoft-dynamics-commerce-runtime-workflowfoundation.md)\>  
-Returns [Dictionary\<TKey, TValue\>](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\)).  
+Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<[Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\)), [WorkflowLocation](workflowlocation-class-microsoft-dynamics-commerce-runtime-workflowfoundation.md)\>  
+Returns [Dictionary\<TKey, TValue\>](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\)).  
 
 ## See Also
 

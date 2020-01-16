@@ -2,8 +2,9 @@
 title: 'Walkthrough: Adding customer preferences to the Retail online sample store'
 TOCTitle: 'Walkthrough: Extending the Retail online sample store'
 ms:assetid: 5771233d-d844-41f9-9f09-9d17e57bffa2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720786(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720786(v=AX.60)
 ms:contentKeyID: 62231587
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

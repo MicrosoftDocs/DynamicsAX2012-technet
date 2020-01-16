@@ -2,8 +2,9 @@
 title: Validate the rules of the product model
 TOCTitle: Validate the rules of the product model
 ms:assetid: 93ff7d80-a5ba-41fb-b165-73224bc3c449
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ff395358(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ff395358(v=AX.60)
 ms:contentKeyID: 36058589
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

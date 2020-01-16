@@ -2,8 +2,9 @@
 title: (USA) Update a solution
 TOCTitle: (USA) Update a solution
 ms:assetid: 2bef8861-205b-4aea-938d-29835ec9299e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208510(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208510(v=AX.60)
 ms:contentKeyID: 36056250
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

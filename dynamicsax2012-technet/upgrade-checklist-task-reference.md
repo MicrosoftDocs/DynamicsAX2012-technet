@@ -2,8 +2,9 @@
 title: Upgrade checklist task reference
 TOCTitle: Upgrade checklist task reference
 ms:assetid: 79dc2fcf-70a8-4a81-842a-d825e9c4cc7c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn198670(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn198670(v=AX.60)
 ms:contentKeyID: 53874069
+author: Khairunj
 ms.date: 04/30/2014
 mtps_version: v=AX.60
 ---

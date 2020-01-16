@@ -1,9 +1,10 @@
-﻿---
+---
 title: Utilities.IsFileInUseException Method  (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: IsFileInUseException Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.Utilities.IsFileInUseException(System.Exception)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.utilities.isfileinuseexception(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.utilities.isfileinuseexception(v=AX.60)
 ms:contentKeyID: 62203221
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,11 +52,11 @@ static bool IsFileInUseException(
 #### Parameters
 
   - exception  
-    Type: [System.Exception](https://technet.microsoft.com/en-us/library/c18k6c59\(v=ax.60\))  
+    Type: [System.Exception](https://technet.microsoft.com/library/c18k6c59\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 Bool value indicating if this is a file in use exception or not.  
 
 ## See Also

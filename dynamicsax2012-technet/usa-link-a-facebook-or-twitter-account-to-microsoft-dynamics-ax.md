@@ -2,8 +2,9 @@
 title: (USA) Link a Facebook or Twitter account to Microsoft Dynamics AX
 TOCTitle: (USA) Link a Facebook or Twitter account to Microsoft Dynamics AX
 ms:assetid: 416e1127-f723-45c9-9e9f-3bffa36d7be1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682093(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ682093(v=AX.60)
 ms:contentKeyID: 49655580
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

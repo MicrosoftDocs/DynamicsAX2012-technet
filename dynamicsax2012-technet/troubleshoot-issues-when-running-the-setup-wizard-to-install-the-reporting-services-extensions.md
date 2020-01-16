@@ -2,8 +2,9 @@
 title: Troubleshoot issues when running the Setup wizard to install the Reporting Services extensions
 TOCTitle: Troubleshoot issues when running the Setup wizard to install the Reporting Services extensions
 ms:assetid: df0437d7-d50e-4acf-9354-e6c8f68af661
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496434(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496434(v=AX.60)
 ms:contentKeyID: 37072016
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---
@@ -59,7 +60,7 @@ When the above conditions are true, the following error is displayed in the Dyna
 
 *Reporting Services Extension was not configured. An unknown issue occurred. Please contact your administrator.*
 
-To resolve this issue, create a record in the **Report servers** form. For more information about how to use this form, see [Report servers (form)](https://technet.microsoft.com/en-us/library/aa548504\(v=ax.60\)).
+To resolve this issue, create a record in the **Report servers** form. For more information about how to use this form, see [Report servers (form)](https://technet.microsoft.com/library/aa548504\(v=ax.60\)).
 
   
 

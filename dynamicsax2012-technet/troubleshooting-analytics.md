@@ -2,8 +2,9 @@
 title: Troubleshooting analytics
 TOCTitle: Troubleshooting
 ms:assetid: a075cb3e-c73d-4a92-9d80-672c23f96157
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee910020(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee910020(v=AX.60)
 ms:contentKeyID: 28119557
+author: Khairunj
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

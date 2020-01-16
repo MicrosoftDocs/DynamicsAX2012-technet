@@ -2,8 +2,9 @@
 title: "What's new: Master planning features"
 TOCTitle: Master planning features
 ms:assetid: b024fa61-fc2c-4a44-ad0b-abc93f1e2f4d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527210(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527210(v=AX.60)
 ms:contentKeyID: 59623339
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -66,11 +67,11 @@ We have changed and added functionality in the [Master planning](master-planning
 </ul>
 <p>The AX 2012 R3 demand forecasting features are fully integrated with Microsoft Dynamics AX and the existing forecast functionality. These features include:</p>
 <ul>
-<li><p>Item allocation keys. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa590322(v=ax.60)">Item allocation keys (form)</a>.</p></li>
+<li><p>Item allocation keys. For more information, see <a href="https://technet.microsoft.com/library/aa590322(v=ax.60)">Item allocation keys (form)</a>.</p></li>
 <li><p>Intercompany planning groups. For more information, see <a href="about-intercompany-master-scheduling.md">About intercompany master scheduling</a>.</p></li>
 <li><p>Master planning. For more information, see <a href="master-planning.md">Master planning</a>.</p></li>
-<li><p>Forecast models. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa620573(v=ax.60)">Forecast models (form)</a>.</p></li>
-<li><p>Demand forecasts. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa499758(v=ax.60)">Demand forecast (form)</a>.</p></li>
+<li><p>Forecast models. For more information, see <a href="https://technet.microsoft.com/library/aa620573(v=ax.60)">Forecast models (form)</a>.</p></li>
+<li><p>Demand forecasts. For more information, see <a href="https://technet.microsoft.com/library/aa499758(v=ax.60)">Demand forecast (form)</a>.</p></li>
 </ul></td>
 </tr>
 <tr class="even">

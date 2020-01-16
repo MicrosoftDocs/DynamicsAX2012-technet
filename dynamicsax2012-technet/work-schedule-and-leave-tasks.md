@@ -2,8 +2,9 @@
 title: Work schedule and leave tasks
 TOCTitle: Work schedule and leave tasks
 ms:assetid: 4e4b241d-04fc-4e73-bdc0-b18442fac70a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677338(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677338(v=AX.60)
 ms:contentKeyID: 49384112
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -325,13 +326,13 @@ Back to top
 
 ## Find form help
 
-[Working times (form)](https://technet.microsoft.com/en-us/library/aa553844\(v=ax.60\))
+[Working times (form)](https://technet.microsoft.com/library/aa553844\(v=ax.60\))
 
-[Positions (form)](https://technet.microsoft.com/en-us/library/aa590982\(v=ax.60\))
+[Positions (form)](https://technet.microsoft.com/library/aa590982\(v=ax.60\))
 
-[Position action (form)](https://technet.microsoft.com/en-us/library/jj729764\(v=ax.60\))
+[Position action (form)](https://technet.microsoft.com/library/jj729764\(v=ax.60\))
 
-[Leave (form)](https://technet.microsoft.com/en-us/library/aa588994\(v=ax.60\))
+[Leave (form)](https://technet.microsoft.com/library/aa588994\(v=ax.60\))
 
 ## Find related tasks
 

@@ -2,8 +2,9 @@
 title: "What's new: Company and organization framework"
 TOCTitle: Company and organization framework
 ms:assetid: 0bc44ae4-1e8b-41b2-9180-83f24bd7bef4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507119(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507119(v=AX.60)
 ms:contentKeyID: 59623208
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
@@ -143,7 +144,7 @@ The organization model supports data sharing that you previously might have impl
 
 For more information about organization modeling, see [Organizations and organizational hierarchies](organizations-and-organizational-hierarchies.md).
 
-Developers can extend the organization model by adding elements to some base enumerations and extending some classes. For more information about the developer experience, see [Extending the Organization Model](https://technet.microsoft.com/en-us/library/gg989786\(v=ax.60\)).
+Developers can extend the organization model by adding elements to some base enumerations and extending some classes. For more information about the developer experience, see [Extending the Organization Model](https://technet.microsoft.com/library/gg989786\(v=ax.60\)).
 
   
 

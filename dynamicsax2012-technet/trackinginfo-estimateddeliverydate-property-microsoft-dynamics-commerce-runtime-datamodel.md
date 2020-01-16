@@ -1,9 +1,10 @@
-﻿---
+---
 title: TrackingInfo.EstimatedDeliveryDate Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: EstimatedDeliveryDate Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TrackingInfo.EstimatedDeliveryDate
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.trackinginfo.estimateddeliverydate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.trackinginfo.estimateddeliverydate(v=AX.60)
 ms:contentKeyID: 49847849
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ property Nullable<DateTime> EstimatedDeliveryDate {
 
 #### Property Value
 
-Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\))\>  
+Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\))\>  
 The estimated delivery date.  
 
 ## See Also

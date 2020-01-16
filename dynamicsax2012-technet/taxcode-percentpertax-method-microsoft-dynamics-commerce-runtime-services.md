@@ -1,9 +1,10 @@
-﻿---
+---
 title: TaxCode.PercentPerTax Method  (Microsoft.Dynamics.Commerce.Runtime.Services)
 TOCTitle: PercentPerTax Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Services.TaxCode.PercentPerTax
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.taxcode.percentpertax(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.taxcode.percentpertax(v=AX.60)
 ms:contentKeyID: 49839110
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

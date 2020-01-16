@@ -2,8 +2,9 @@
 title: Workflow elements performance report (WorkflowElementsPerformanceReport)
 TOCTitle: Workflow elements performance report (WorkflowElementsPerformanceReport)
 ms:assetid: 623f73fe-ae68-4f22-a7fb-bbb7bed01880
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334487(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334487(v=AX.60)
 ms:contentKeyID: 36676472
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

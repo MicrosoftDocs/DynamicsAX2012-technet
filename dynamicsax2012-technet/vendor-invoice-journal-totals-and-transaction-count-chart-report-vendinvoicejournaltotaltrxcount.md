@@ -2,8 +2,9 @@
 title: Vendor invoice journal totals and transaction count chart report (VendInvoiceJournalTotalTrxCount)
 TOCTitle: Vendor invoice journal totals and transaction count chart report (VendInvoiceJournalTotalTrxCount)
 ms:assetid: f15f5ed2-453c-4cb2-ba90-e1837537db6b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538466(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538466(v=AX.60)
 ms:contentKeyID: 39508895
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

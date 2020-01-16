@@ -2,8 +2,9 @@
 title: View subledger journals for vendor invoices
 TOCTitle: View subledger journals for vendor invoices
 ms:assetid: 37cf2f70-cd55-4478-9a8c-fb031f0bea57
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500165(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500165(v=AX.60)
 ms:contentKeyID: 37820199
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

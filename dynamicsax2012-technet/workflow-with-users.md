@@ -2,8 +2,9 @@
 title: Workflow with users
 TOCTitle: Workflow with users
 ms:assetid: 1bd40d3a-b077-4654-824b-b692cb6ab135
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751362(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg751362(v=AX.60)
 ms:contentKeyID: 35132569
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

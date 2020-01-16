@@ -2,8 +2,9 @@
 title: Synchronize data by using batch jobs (Retail essentials)
 TOCTitle: Synchronize data by using batch jobs (Retail essentials)
 ms:assetid: 786752f6-9942-4732-a070-9f9c6b593c05
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn756402(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn756402(v=AX.60)
 ms:contentKeyID: 62524901
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ The following table describes the different batch jobs that you can run in Retai
 <tr class="even">
 <td><p>Transfer to pay</p></td>
 <td><p>Run this job to export payroll transactions to an external file.</p>
-<p>For more information about how to run this process, see <a href="https://technet.microsoft.com/en-us/library/aa596780(v=ax.60)">Transfer to pay (class form)</a>.</p></td>
+<p>For more information about how to run this process, see <a href="https://technet.microsoft.com/library/aa596780(v=ax.60)">Transfer to pay (class form)</a>.</p></td>
 <td><p>Click <strong>Retail essentials</strong> &gt; <strong>Employees</strong> &gt; <strong>Time and attendance</strong> &gt; <strong>Transfer to pay</strong>.</p></td>
 </tr>
 <tr class="odd">

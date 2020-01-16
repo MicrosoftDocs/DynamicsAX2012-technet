@@ -2,8 +2,9 @@
 title: Treasurer security role (PaymTreasurer)
 TOCTitle: Treasurer security role (PaymTreasurer)
 ms:assetid: a9175325-9308-494c-b34b-3d6cccf345bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527118(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527118(v=AX.60)
 ms:contentKeyID: 37823169
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

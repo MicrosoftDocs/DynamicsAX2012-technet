@@ -2,8 +2,9 @@
 title: "What's new: Budgeting features"
 TOCTitle: Budgeting features
 ms:assetid: 09b2d1e5-92a0-4d32-bc24-c01b47d523b6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507116(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507116(v=AX.60)
 ms:contentKeyID: 59623206
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 ---
@@ -137,8 +138,8 @@ We have changed and added functionality in the [Budgeting](budgeting.md) area fo
 <p>For more information, see the following topics:</p>
 <ul>
 <li><p><a href="about-creating-a-budget-from-transaction-accounts-and-total-accounts.md">About creating a budget from transaction accounts and total accounts</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh242667(v=ax.60)">Financial dimension values (form)</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh209695(v=ax.60)">Main accounts - chart of accounts (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh242667(v=ax.60)">Financial dimension values (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh209695(v=ax.60)">Main accounts - chart of accounts (form)</a></p></li>
 <li><p><a href="key-tasks-create-and-process-budget-plans.md">Key tasks: Create and process budget plans</a></p></li>
 <li><p><a href="generate-budget-plans-from-source-information.md">Generate budget plans from source information</a></p></li>
 </ul></td>
@@ -182,27 +183,27 @@ We have changed and added functionality in the [Budgeting](budgeting.md) area fo
 <tr class="odd">
 <td><p>Budget planning workflows can be set up so that they can’t be accidentally deleted or reset.</p></td>
 <td><p>The <strong>Do not allow budget plans to be deleted</strong> and <strong>Do not allow budget plans to be reset</strong> options are added to the <strong>Budget planning workflows</strong> area in the <strong>Budget planning configuration</strong> form.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677418(v=ax.60)">Budget planning configuration (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj677418(v=ax.60)">Budget planning configuration (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Budget planning workflows can be set up so that they require a parent budget plan.</p></td>
 <td><p>The <strong>Require parent budget plan</strong> option is added to the <strong>Budget planning workflows</strong> area in the <strong>Budget planning configuration</strong> form.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677418(v=ax.60)">Budget planning configuration (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj677418(v=ax.60)">Budget planning configuration (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>You can specify whether budget planning user groups (XDS policies) are used for budget planning. You can also specify the number of associated budget plan lines to include when budget plans are exported to Excel.</p></td>
 <td><p>A new <strong>Parameters</strong> area is added to the <strong>Budget planning configuration</strong> form.</p>
-<p>For more information, see <a href="about-budget-planning-configuration-and-setup.md">About budget planning configuration and setup</a> and <a href="https://technet.microsoft.com/en-us/library/jj677418(v=ax.60)">Budget planning configuration (form)</a>.</p></td>
+<p>For more information, see <a href="about-budget-planning-configuration-and-setup.md">About budget planning configuration and setup</a> and <a href="https://technet.microsoft.com/library/jj677418(v=ax.60)">Budget planning configuration (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>You can view worksheet and justification documents from the <strong>Budget plan</strong> page in Enterprise Portal for Microsoft Dynamics AX.</p></td>
 <td><p>The <strong>Worksheet</strong> and <strong>Justification</strong> buttons are added to the <strong>Budget plan</strong> page. The <strong>Export to Excel</strong> button is removed from the <strong>Budget plan</strong> form in Microsoft Dynamics AX, and from the <strong>Budget plan</strong> page in Enterprise Portal.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677376(v=ax.60)">Budget plan (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj677376(v=ax.60)">Budget plan (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>The process of creating a budget plan from an existing budget plan is enhanced.</p></td>
 <td><p>You can aggregate the budget plan lines from the source budget lines to fiscal years, fiscal periods, or days in the destination budget plan. You can specify whether to copy the date of the target budget plan line date from the source budget plan. Finally, you can assign new financial dimensions for a budget plan that is based on an existing budget plan. The <strong>Aggregate total by</strong>, <strong>Historical</strong>, and <strong>New financial dimensions.</strong> options are added to the <strong>Generate budget plan from budget plan</strong> form.</p>
-<p>For more information, see <a href="generate-budget-plans-from-source-information.md">Generate budget plans from source information</a> and <a href="https://technet.microsoft.com/en-us/library/jj677377(v=ax.60)">Generate budget plan from budget plan (form)</a>.</p></td>
+<p>For more information, see <a href="generate-budget-plans-from-source-information.md">Generate budget plans from source information</a> and <a href="https://technet.microsoft.com/library/jj677377(v=ax.60)">Generate budget plan from budget plan (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,9 +1,10 @@
-﻿---
+---
 title: SyncStockCountTransactionsFromAxServiceRequest Properties (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: SyncStockCountTransactionsFromAxServiceRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SyncStockCountTransactionsFromAxServiceRequest
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.syncstockcounttransactionsfromaxservicerequest_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.syncstockcounttransactionsfromaxservicerequest_properties(v=AX.60)
 ms:contentKeyID: 62208867
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

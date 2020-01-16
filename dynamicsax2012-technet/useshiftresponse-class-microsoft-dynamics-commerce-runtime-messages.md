@@ -1,9 +1,10 @@
-﻿---
+---
 title: UseShiftResponse Class (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: UseShiftResponse Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Messages.UseShiftResponse
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.useshiftresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.useshiftresponse(v=AX.60)
 ms:contentKeyID: 62207997
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ public ref class UseShiftResponse sealed : public ShiftResponse
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   [Microsoft.Dynamics.Commerce.Runtime.Messages.Response](response-class-microsoft-dynamics-commerce-runtime-messages.md)  
     [Microsoft.Dynamics.Commerce.Runtime.Messages.ShiftResponse](shiftresponse-class-microsoft-dynamics-commerce-runtime-messages.md)  
       Microsoft.Dynamics.Commerce.Runtime.Messages.UseShiftResponse  

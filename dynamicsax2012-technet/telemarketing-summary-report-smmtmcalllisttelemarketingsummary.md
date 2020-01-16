@@ -2,8 +2,9 @@
 title: Telemarketing summary report (smmTMCallListTelemarketingSummary)
 TOCTitle: Telemarketing summary report (smmTMCallListTelemarketingSummary)
 ms:assetid: 7f791472-9691-4514-80f2-ce98fbf08dcf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa836084(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa836084(v=AX.60)
 ms:contentKeyID: 36916360
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

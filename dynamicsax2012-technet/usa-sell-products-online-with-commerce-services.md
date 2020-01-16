@@ -2,8 +2,9 @@
 title: (USA) Sell products online with Commerce Services
 TOCTitle: (USA) Sell products online with Commerce Services
 ms:assetid: 7e424449-a284-438a-8895-49690e9631fd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209292(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209292(v=AX.60)
 ms:contentKeyID: 36058320
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

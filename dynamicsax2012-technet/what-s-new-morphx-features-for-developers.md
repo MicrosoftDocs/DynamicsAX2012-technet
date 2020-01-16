@@ -2,8 +2,9 @@
 title: "What's new: MorphX features for developers"
 TOCTitle: MorphX features for developers
 ms:assetid: 90d8f135-bcbe-4456-a527-a57fe42d783c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527172(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527172(v=AX.60)
 ms:contentKeyID: 59623303
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
@@ -406,7 +407,7 @@ The following tools have been added or enhanced in AX 2012:
 <li><p>Errors in code are underlined by using a wavy line. When you rest the mouse pointer on the wavy line, the error message for the compiler is displayed. Code breakpoints can be toggled in the margin.</p></li>
 </ul></td>
 <td><p>The new X++ editor adds features and is more familiar to developers who have worked with Visual Studio.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa874756(v=ax.60)">X++ Code Editor</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa874756(v=ax.60)">X++ Code Editor</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -438,8 +439,8 @@ The following tools have been added or enhanced in AX 2012:
 <td><p>Use the Type Hierarchy Browser to see detailed information about an element and its components, such as methods, fields, or properties, and the element from which the element inherits. In the form, you can view information about classes, tables, maps, views, extended data types (EDTs), and enumerations.</p>
 <p>Use the Type Hierarchy Context to display a pane that shows the hierarchy details for a class, table, map, view, EDT, or enumeration that is selected in the AOT. Click any element in the tree to open the Type Hierarchy Browser for that object.</p></td>
 <td><p>The Type Hierarchy Browser and Type Hierarchy Context provide more functionality than the Application Hierarchy Tree.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh272137(v=ax.60)">Type Hierarchy Browser</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh272146(v=ax.60)">Type Hierarchy Context</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh272137(v=ax.60)">Type Hierarchy Browser</a></p>
+<p><a href="https://technet.microsoft.com/library/hh272146(v=ax.60)">Type Hierarchy Context</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -470,42 +471,42 @@ The following tools have been added or enhanced in AX 2012:
 <td><p>The feature was not available.</p></td>
 <td><p>Use predefined attributes to specify that a test is active, or that it is a check-in test. You can also use predefined attributes to provide the target element that you are testing.</p></td>
 <td><p>A test can be self-describing with regard to organization and when the test is run. For example, to run only the check-in tests, you can attach an attribute to the test that indicates that the test is a check-in test.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/bb496529(v=ax.60)">How to: Organize Test Cases</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/bb496529(v=ax.60)">How to: Organize Test Cases</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Add custom attributes to further categorize test cases.</p></td>
 <td><p>You categorized test cases by creating them and adding them to a test project.</p></td>
 <td><p>Add attributes to test cases, or remove attributes, to provide detail. For example, to satisfy requirements for integration-level testing, you can attach an attribute to all tests that cross module boundaries.</p></td>
 <td><p>A test can be self-describing with regard to organization and when the test is run.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh272117(v=ax.60)">How to: Categorize Test Cases Using Attributes</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh272117(v=ax.60)">How to: Categorize Test Cases Using Attributes</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>At a glance, know whether a test case passed or failed.</p></td>
 <td><p>You viewed the test detail by clicking <strong>Details</strong> on the <strong>Unit Test</strong> toolbar. Alternatively, you displayed results by using a listener.</p></td>
 <td><p>In a test project, an icon appears next to each test case to indicate whether the test case passed or failed.</p></td>
 <td><p>At a glance, you can understand how well a given project is running.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/bb496529(v=ax.60)">How to: Organize Test Cases</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/bb496529(v=ax.60)">How to: Organize Test Cases</a></p></td>
 </tr>
 <tr class="even">
 <td><p>If a test case fails, rest the mouse pointer on the test case to display the exception that occurred.</p></td>
 <td><p>You accessed the exception detail in a listener.</p></td>
 <td><p>In a test project, rest the mouse pointer on a failed test case to display the exception that occurred.</p></td>
 <td><p>At a glance, you can know the exceptions that were introduced for a project.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/bb496529(v=ax.60)">How to: Organize Test Cases</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/bb496529(v=ax.60)">How to: Organize Test Cases</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Use test metrics to measure performance.</p></td>
 <td><p>The feature was not available.</p></td>
 <td><p>Click <strong>Details</strong> on the <strong>Unit Test</strong> toolbar to view how long the test case ran.</p></td>
 <td><p>You can use the duration metrics to help improve performance.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/bb496534(v=ax.60)">How to: Run a Test Case</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/bb496534(v=ax.60)">How to: Run a Test Case</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Use test metrics to guarantee the integrity of the test data that you start with.</p></td>
 <td><p>The feature was not available.</p></td>
 <td><p>Click <strong>Details</strong> on the <strong>Unit Test</strong> toolbar to view the number of records that were updated in the database.</p></td>
 <td><p>You can use the metrics that indicate the number of records that were updated to troubleshoot data integrity issues. When you run successive test cases, the integrity of the data that you start with for each test is very important.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/bb496534(v=ax.60)">How to: Run a Test Case</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/bb496534(v=ax.60)">How to: Run a Test Case</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -543,7 +544,7 @@ The following tools have been added or enhanced in AX 2012:
 <td><p>The feature was not available.</p></td>
 <td><p>Use this form to create a project from the contents of a model.</p></td>
 <td><p>You can now create a project that contains only the contents of a model.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh272138(v=ax.60)">Create Project from Model Form</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh272138(v=ax.60)">Create Project from Model Form</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Use the <strong>Create Model Tool</strong> form.</p></td>
@@ -557,7 +558,7 @@ The following tools have been added or enhanced in AX 2012:
 <td><p>The feature was not available.</p></td>
 <td><p>Use this form to load an .aod file from an earlier version of Microsoft Dynamics AX into the model store.</p></td>
 <td><p>You can now load an .aod file from an earlier version of Microsoft Dynamics AX into the model store.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh272144(v=ax.60)">Import AOD file (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh272144(v=ax.60)">Import AOD file (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -588,14 +589,14 @@ The following tools have been added or enhanced in AX 2012:
 <td><p>The feature was not available.</p></td>
 <td><p>Use the Detect Code Upgrade Conflicts tool to analyze a system, and then create projects that contain the application objects that must be upgraded manually.</p></td>
 <td><p>You can now see how much manual work is required to upgrade from an earlier version of Microsoft Dynamics AX.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh272148(v=ax.60)">Detect code upgrade conflicts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh272148(v=ax.60)">Detect code upgrade conflicts (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Migrate EDT relations.</p></td>
 <td><p>The feature was not available.</p></td>
 <td><p>Use the EDT Relation Migration tool to move the previous relations that are defined under the EDT nodes in the AOT to the table nodes.</p></td>
 <td><p>In earlier versions of Microsoft Dynamics AX, the relations of tables to EDTs were stored in two locations: relations in tables and relations in EDTs. In the current version of Microsoft Dynamics AX, relations in EDTs are obsolete. Instead, we recommend that developers migrate their EDT relations to table relations. The EDT Relation Migration tool makes it easy to transfer relations from EDTs to tables.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg989788(v=ax.60)">EDT Relation Migration Tool</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg989788(v=ax.60)">EDT Relation Migration Tool</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -603,7 +604,7 @@ The following tools have been added or enhanced in AX 2012:
 
 ## See also
 
-[What's New in Microsoft Dynamics AX 2012 for Developers](https://technet.microsoft.com/en-us/library/gg845327\(v=ax.60\))
+[What's New in Microsoft Dynamics AX 2012 for Developers](https://technet.microsoft.com/library/gg845327\(v=ax.60\))
 
   
 

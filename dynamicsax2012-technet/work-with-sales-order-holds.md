@@ -2,8 +2,9 @@
 title: Work with sales order holds
 TOCTitle: Work with sales order holds
 ms:assetid: 14cdea9d-2abb-4551-b340-7f059d8242aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn631649(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn631649(v=AX.60)
 ms:contentKeyID: 62224164
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User

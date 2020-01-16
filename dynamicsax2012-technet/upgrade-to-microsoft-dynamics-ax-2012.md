@@ -2,8 +2,9 @@
 title: Upgrade to Microsoft Dynamics AX 2012
 TOCTitle: Upgrade to Microsoft Dynamics AX 2012
 ms:assetid: 948f7951-82d1-41e3-a648-ebb6128cc5d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362002(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362002(v=AX.60)
 ms:contentKeyID: 35132770
+author: Khairunj
 ms.date: 06/11/2014
 mtps_version: v=AX.60
 ---

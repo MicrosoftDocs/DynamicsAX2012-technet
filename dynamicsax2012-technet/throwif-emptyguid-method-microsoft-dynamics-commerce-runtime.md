@@ -1,9 +1,10 @@
-﻿---
+---
 title: ThrowIf.EmptyGuid Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: EmptyGuid Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ThrowIf.EmptyGuid(System.Guid,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.throwif.emptyguid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.throwif.emptyguid(v=AX.60)
 ms:contentKeyID: 65316813
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,12 +55,12 @@ static void EmptyGuid(
 #### Parameters
 
   - value  
-    Type: [System.Guid](https://technet.microsoft.com/en-us/library/cey1zx63\(v=ax.60\))  
+    Type: [System.Guid](https://technet.microsoft.com/library/cey1zx63\(v=ax.60\))  
 
 <!-- end list -->
 
   - parameterName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: View reservations on items
 TOCTitle: View reservations on items
 ms:assetid: 3d0b73bd-9d18-4c75-a3a6-dae53a2b84a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570268(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570268(v=AX.60)
 ms:contentKeyID: 44080970
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

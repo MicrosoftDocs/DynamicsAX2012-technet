@@ -2,8 +2,9 @@
 title: Test a product configuration model
 TOCTitle: Test a product configuration model
 ms:assetid: 50918a8a-0ae4-4555-8922-50dbb6a7169e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580642(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580642(v=AX.60)
 ms:contentKeyID: 39519136
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Vendor performance - requests for quotations report (VendorPerformance)
 TOCTitle: Vendor performance - requests for quotations report (VendorPerformance)
 ms:assetid: feef6e40-2c4c-4222-8c0b-d7ad3ceec778
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433528(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433528(v=AX.60)
 ms:contentKeyID: 36941314
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

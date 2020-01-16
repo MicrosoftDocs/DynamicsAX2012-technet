@@ -2,8 +2,9 @@
 title: Workflow for Microsoft Dynamics AX
 TOCTitle: Workflow
 ms:assetid: fcc9b643-10f1-4a12-b233-ec29dad62b86
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg723980(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg723980(v=AX.60)
 ms:contentKeyID: 35133336
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -259,61 +260,61 @@ Complete the tasks in the following table to add workflow functionality to a mod
 <tr class="odd">
 <td><p>Learn about the development process</p></td>
 <td><p>Workflow is defined as the movement of documents or tasks through a work process. In Microsoft Dynamics AX, the focus of workflow is on approval and task-oriented workflows. The developer role in Microsoft Dynamics AX is primarily to add workflow to existing business documents or create new documents that support workflow. These topics describes what the workflow life cycle is and the developer role for a workflow in Microsoft Dynamics AX.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/cc967429(v=ax.60)">About Workflow Development</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc967389(v=ax.60)">Developing a Workflow</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/cc967429(v=ax.60)">About Workflow Development</a></p>
+<p><a href="https://technet.microsoft.com/library/cc967389(v=ax.60)">Developing a Workflow</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Review security considerations</p></td>
 <td><p>Security in workflow is part of the standard security implementation in Microsoft Dynamics AX. This topic describes specific workflow security considerations.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/cc641033(v=ax.60)">Workflow Security</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/cc641033(v=ax.60)">Workflow Security</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Create a workflow type</p></td>
 <td><p>To add workflow support for a document in Microsoft Dynamics AX, you must create a workflow type. This section describes the procedures to create a workflow type in Microsoft Dynamics AX. The workflow type can then be used to create workflow configurations for the document the Microsoft Dynamics AX.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/cc637397(v=ax.60)">Workflow Type Checklist</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc589698(v=ax.60)">How to: Create a Workflow Category</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh457520(v=ax.60)">How to: Create a Query for a Workflow Type</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc594095(v=ax.60)">How to: Create a New Workflow Type</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc592495(v=ax.60)">How to: Create a Workflow Document Class</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc583139(v=ax.60)">How to: Create a SubmitToWorkflow Class</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc556363(v=ax.60)">How to: Associate a Workflow Document Class with a Workflow Type</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc641259(v=ax.60)">Walkthrough: Creating a Workflow Type</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/cc637397(v=ax.60)">Workflow Type Checklist</a></p>
+<p><a href="https://technet.microsoft.com/library/cc589698(v=ax.60)">How to: Create a Workflow Category</a></p>
+<p><a href="https://technet.microsoft.com/library/hh457520(v=ax.60)">How to: Create a Query for a Workflow Type</a></p>
+<p><a href="https://technet.microsoft.com/library/cc594095(v=ax.60)">How to: Create a New Workflow Type</a></p>
+<p><a href="https://technet.microsoft.com/library/cc592495(v=ax.60)">How to: Create a Workflow Document Class</a></p>
+<p><a href="https://technet.microsoft.com/library/cc583139(v=ax.60)">How to: Create a SubmitToWorkflow Class</a></p>
+<p><a href="https://technet.microsoft.com/library/cc556363(v=ax.60)">How to: Associate a Workflow Document Class with a Workflow Type</a></p>
+<p><a href="https://technet.microsoft.com/library/cc641259(v=ax.60)">Walkthrough: Creating a Workflow Type</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Enable workflow functionality in a module</p></td>
 <td><p>To enable a Microsoft Dynamics AX workflow for a new or existing application module, you must complete a series of required steps and then, depending on application requirements, complete additional steps. This topic describes the required steps to add workflow to your application.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/cc603594(v=ax.60)">Requirements for Enabling Workflow in an Application Module</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc592907(v=ax.60)">How to: Enable a State Model for a Workflow Document</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh330384(v=ax.60)">How to: Enable Workflow Submission</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc602813(v=ax.60)">How to: Enable a Form or List for Workflow</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc624367(v=ax.60)">How to: Create a New Module with Workflow</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc618309(v=ax.60)">How to: Activate a Workflow from a Workflow Type</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc554429(v=ax.60)">How to: Activate a Workflow using the Configuration ID</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc618781(v=ax.60)">How to: Activate a Workflow using the Sequence Number</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/cc603594(v=ax.60)">Requirements for Enabling Workflow in an Application Module</a></p>
+<p><a href="https://technet.microsoft.com/library/cc592907(v=ax.60)">How to: Enable a State Model for a Workflow Document</a></p>
+<p><a href="https://technet.microsoft.com/library/hh330384(v=ax.60)">How to: Enable Workflow Submission</a></p>
+<p><a href="https://technet.microsoft.com/library/cc602813(v=ax.60)">How to: Enable a Form or List for Workflow</a></p>
+<p><a href="https://technet.microsoft.com/library/cc624367(v=ax.60)">How to: Create a New Module with Workflow</a></p>
+<p><a href="https://technet.microsoft.com/library/cc618309(v=ax.60)">How to: Activate a Workflow from a Workflow Type</a></p>
+<p><a href="https://technet.microsoft.com/library/cc554429(v=ax.60)">How to: Activate a Workflow using the Configuration ID</a></p>
+<p><a href="https://technet.microsoft.com/library/cc618781(v=ax.60)">How to: Activate a Workflow using the Sequence Number</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Create tasks, automated tasks, and approvals</p></td>
 <td><p>After you create a workflow type, you continue the process for creating a Microsoft Dynamics AX workflow by adding tasks, automated tasks, and approvals to the workflow type. A task is a workflow element with a single step defined in the Application Object Tree (AOT) that is used to implement task-based processes. An automated task is a workflow element used to invoke X++ code within the application without requiring user intervention. An approval is a specialized task that can have multiple steps defined in the AOT that is used to implement approval processes.</p>
 <p>You create tasks, automated tasks, and approvals in separate AOT nodes and then, you can add them to the workflow type <strong>Supported Elements</strong> node. The same tasks and approvals can also be added to different workflow types.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh457521(v=ax.60)">Workflow Tasks</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh457522(v=ax.60)">Workflow Automated Tasks</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh457524(v=ax.60)">Workflow Approvals</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc602158(v=ax.60)">How to: Associate an Action Menu Item with a Workflow Task or Approval Outcome</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc604521(v=ax.60)">How to: Associate a Display Menu item with a Workflow Task or Approval</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc654026(v=ax.60)">How to: Add a Task, Automated Task, or Approval to a Workflow Type</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh457521(v=ax.60)">Workflow Tasks</a></p>
+<p><a href="https://technet.microsoft.com/library/hh457522(v=ax.60)">Workflow Automated Tasks</a></p>
+<p><a href="https://technet.microsoft.com/library/hh457524(v=ax.60)">Workflow Approvals</a></p>
+<p><a href="https://technet.microsoft.com/library/cc602158(v=ax.60)">How to: Associate an Action Menu Item with a Workflow Task or Approval Outcome</a></p>
+<p><a href="https://technet.microsoft.com/library/cc604521(v=ax.60)">How to: Associate a Display Menu item with a Workflow Task or Approval</a></p>
+<p><a href="https://technet.microsoft.com/library/cc654026(v=ax.60)">How to: Add a Task, Automated Task, or Approval to a Workflow Type</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Implement workflow events</p></td>
 <td><p>Microsoft Dynamics AX workflow uses events to initiate business logic in your application. For example, the workflow type has a property event handler for business logic when a workflow is started. Workflow tasks and approvals have started and canceled property event handlers and also an event handler for each outcome type. This section describes workflow events and how to implement them in your application.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/cc588240(v=ax.60)">Workflow Events Overview</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc623606(v=ax.60)">How to: Create a Workflow Task or Approval Event Handler</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/cc588240(v=ax.60)">Workflow Events Overview</a></p>
+<p><a href="https://technet.microsoft.com/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a></p>
+<p><a href="https://technet.microsoft.com/library/cc623606(v=ax.60)">How to: Create a Workflow Task or Approval Event Handler</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Create line-item workflows</p></td>
 <td><p>Microsoft Dynamics AX lets you configure workflows for the line items in a document. For example, you can have a workflow for the line items in the purchase requisition document. The line items can use the same workflow, or they can each use a separate workflow. The following topics describe how to create a line-item workflow.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh528504(v=ax.60)">Line-item Workflow Checklist</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh528502(v=ax.60)">How to: Create a Line-item Workflow</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh528504(v=ax.60)">Line-item Workflow Checklist</a></p>
+<p><a href="https://technet.microsoft.com/library/hh528502(v=ax.60)">How to: Create a Line-item Workflow</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Create a custom workflow provider</p></td>
@@ -325,9 +326,9 @@ Complete the tasks in the following table to add workflow functionality to a mod
 <li><p>A queue to which a work item is to be assigned.</p></li>
 </ol>
 <p>The following topics describe the workflow providers in Microsoft Dynamics AX, the programming interface for each provider, and how to create a customized version of a provider.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/cc519521(v=ax.60)">Workflow Providers Overview</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh528513(v=ax.60)">Workflow Provider Interfaces</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/cc633997(v=ax.60)">How to: Create a Custom Workflow Provider</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/cc519521(v=ax.60)">Workflow Providers Overview</a></p>
+<p><a href="https://technet.microsoft.com/library/hh528513(v=ax.60)">Workflow Provider Interfaces</a></p>
+<p><a href="https://technet.microsoft.com/library/cc633997(v=ax.60)">How to: Create a Custom Workflow Provider</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -405,8 +406,8 @@ The following table points to troubleshooting resources.
 <tr class="odd">
 <td><p>Troubleshoot common problems</p></td>
 <td><p>This topic describes common problems that can occur when you develop and test a workflow in Microsoft Dynamics AX.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/cc616520(v=ax.60)">Troubleshooting Workflow in Microsoft Dynamics AX</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/dd638052(v=ax.60)">How to: Debug X++ Code in Workflow</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/cc616520(v=ax.60)">Troubleshooting Workflow in Microsoft Dynamics AX</a></p>
+<p><a href="https://technet.microsoft.com/library/dd638052(v=ax.60)">How to: Debug X++ Code in Workflow</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -2,8 +2,9 @@
 title: Tax information tasks
 TOCTitle: Tax information tasks
 ms:assetid: f51ff9cf-e7c8-4a08-91c3-26670ab19dac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677373(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677373(v=AX.60)
 ms:contentKeyID: 49384149
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -378,7 +379,7 @@ To set up tax groups, follow these steps:
     
 
     > [!TIP]
-    > <P>You can set up the transaction posting definitions so that some tax codes in the group use a different posting definition than the rest of the tax codes in the group. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh242550(v=ax.60)">Transaction posting definitions (form)</A> or <A href="tax-codes-tax-groups-and-posting-definitions.md">Tax codes, tax groups, and posting definitions</A>.</P>
+    > <P>You can set up the transaction posting definitions so that some tax codes in the group use a different posting definition than the rest of the tax codes in the group. For more information, see <A href="https://technet.microsoft.com/library/hh242550(v=ax.60)">Transaction posting definitions (form)</A> or <A href="tax-codes-tax-groups-and-posting-definitions.md">Tax codes, tax groups, and posting definitions</A>.</P>
 
 
 
@@ -404,7 +405,7 @@ To set up tax groups, follow these steps:
 
 Repeat these steps to set up additional tax groups. When you are finished, close the form.
 
-After you create tax groups that are enabled for posting definitions, you can assign those tax groups to transaction posting definitions. For more information, see [Assign posting definitions to transaction posting types](assign-posting-definitions-to-transaction-posting-types.md) or [Transaction posting definitions (form)](https://technet.microsoft.com/en-us/library/hh242550\(v=ax.60\)).
+After you create tax groups that are enabled for posting definitions, you can assign those tax groups to transaction posting definitions. For more information, see [Assign posting definitions to transaction posting types](assign-posting-definitions-to-transaction-posting-types.md) or [Transaction posting definitions (form)](https://technet.microsoft.com/library/hh242550\(v=ax.60\)).
 
 Back to top
 
@@ -475,7 +476,7 @@ Back to top
 
 ## Find form help
 
-[Transaction posting definitions (form)](https://technet.microsoft.com/en-us/library/hh242550\(v=ax.60\))
+[Transaction posting definitions (form)](https://technet.microsoft.com/library/hh242550\(v=ax.60\))
 
 ## Find related tasks
 

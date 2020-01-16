@@ -1,9 +1,10 @@
-﻿---
+---
 title: TrackedFault.InnerException Property  (Microsoft.Dynamics.Retail.TransactionServices.ClientProxy)
 TOCTitle: InnerException Property
 ms:assetid: P:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.TrackedFault.InnerException
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.transactionservices.clientproxy.trackedfault.innerexception(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.trackedfault.innerexception(v=AX.60)
 ms:contentKeyID: 49832338
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property Exception^ InnerException {
 
 #### Property Value
 
-Type: [System.Exception](https://technet.microsoft.com/en-us/library/c18k6c59\(v=ax.60\))  
-Returns [Exception](https://technet.microsoft.com/en-us/library/c18k6c59\(v=ax.60\)).  
+Type: [System.Exception](https://technet.microsoft.com/library/c18k6c59\(v=ax.60\))  
+Returns [Exception](https://technet.microsoft.com/library/c18k6c59\(v=ax.60\)).  
 
 ## See Also
 

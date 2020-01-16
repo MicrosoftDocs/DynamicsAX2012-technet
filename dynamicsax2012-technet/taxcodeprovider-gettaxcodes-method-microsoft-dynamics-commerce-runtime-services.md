@@ -1,9 +1,10 @@
-﻿---
+---
 title: TaxCodeProvider.GetTaxCodes Method  (Microsoft.Dynamics.Commerce.Runtime.Services)
 TOCTitle: GetTaxCodes Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.TaxCodeProvider.GetTaxCodes(Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxableItem,Microsoft.Dynamics.Commerce.Runtime.RequestContext)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.taxcodeprovider.gettaxcodes(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.taxcodeprovider.gettaxcodes(v=AX.60)
 ms:contentKeyID: 49856242
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,7 +66,7 @@ virtual ReadOnlyCollection<TaxCode^>^ GetTaxCodes(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[TaxCode](taxcode-class-microsoft-dynamics-commerce-runtime-services.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[TaxCode](taxcode-class-microsoft-dynamics-commerce-runtime-services.md)\>  
 Tax codes applicablee with the taxableItem.  
 
 ## Remarks

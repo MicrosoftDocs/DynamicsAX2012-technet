@@ -2,8 +2,9 @@
 title: Top 10 product performers role center report (RetailTop10Products)
 TOCTitle: Top 10 product performers role center report (RetailTop10Products)
 ms:assetid: 3784f73e-5247-4539-8287-010f58493437
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh697611(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh697611(v=AX.60)
 ms:contentKeyID: 42518415
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

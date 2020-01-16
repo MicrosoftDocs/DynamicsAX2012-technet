@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Sweden (SWE)"
 TOCTitle: Country-specific features for Sweden
 ms:assetid: bf27ff0a-558f-4365-bf56-a5199c5b7736
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876694(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876694(v=AX.60)
 ms:contentKeyID: 63384770
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---

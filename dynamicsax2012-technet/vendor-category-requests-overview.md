@@ -2,8 +2,9 @@
 title: Vendor category requests overview
 TOCTitle: Vendor category requests overview
 ms:assetid: 40d71b3f-8c56-402c-a63e-b200607686eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735274(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ735274(v=AX.60)
 ms:contentKeyID: 49693275
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

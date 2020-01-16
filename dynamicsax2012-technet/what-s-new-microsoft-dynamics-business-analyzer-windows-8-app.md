@@ -2,8 +2,9 @@
 title: "What's new: Microsoft Dynamics Business Analyzer Windows 8 App"
 TOCTitle: Microsoft Dynamics Business Analyzer Windows 8 App
 ms:assetid: 7b9ca5fd-c547-4d6f-8f9c-7112b8b44ae0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527157(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527157(v=AX.60)
 ms:contentKeyID: 59623286
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -68,7 +69,7 @@ Microsoft Dynamics Business Analyzer for Windows 8 provides a dashboard where yo
 
 To download Business Analyzer from the Windows Store, see [Microsoft Dynamics Business Analyzer](http://apps.microsoft.com/windows/en-us/app/microsoft-dynamics-business/a68e5f35-e5c3-4bf8-8427-2bfdfa01fd72).
 
-For more information about Business Analyzer, see [Microsoft Dynamics Business Analyzer](https://technet.microsoft.com/en-us/library/dn508393\(v=ax.60\)).
+For more information about Business Analyzer, see [Microsoft Dynamics Business Analyzer](https://technet.microsoft.com/library/dn508393\(v=ax.60\)).
 
 To configure your Microsoft Dynamics AX environment to use Business Analyzer, see [Configure the Microsoft Dynamics AX environment for companion apps](http://go.microsoft.com/fwlink/?linkid=281929%26clcid=0x409).
 

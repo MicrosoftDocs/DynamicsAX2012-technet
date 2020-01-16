@@ -2,8 +2,9 @@
 title: "What's new: Microsoft Dynamics AX 2012 Timesheets Windows 8 App"
 TOCTitle: Microsoft Dynamics AX 2012 Timesheets Windows 8 App
 ms:assetid: 6cfeb097-c293-4c99-988b-275e19ddce4e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527125(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527125(v=AX.60)
 ms:contentKeyID: 59623254
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

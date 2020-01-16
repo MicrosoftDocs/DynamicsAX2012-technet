@@ -2,8 +2,9 @@
 title: Travel and expense reports
 TOCTitle: Travel and expense reports
 ms:assetid: 301a874d-0a3b-497e-b759-f20a74841448
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334472(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334472(v=AX.60)
 ms:contentKeyID: 36676457
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

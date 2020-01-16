@@ -2,8 +2,9 @@
 title: Work with continuity programs
 TOCTitle: Work with continuity programs
 ms:assetid: 77c18054-97da-4299-9a57-cf8d357ad467
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497790(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497790(v=AX.60)
 ms:contentKeyID: 62200098
+author: Khairunj
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:

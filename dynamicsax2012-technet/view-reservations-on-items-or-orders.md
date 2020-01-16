@@ -2,8 +2,9 @@
 title: View reservations on items or orders
 TOCTitle: View reservations on items or orders
 ms:assetid: 9968fc38-d6df-45e7-8bc6-99eeb10a768d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498446(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498446(v=AX.60)
 ms:contentKeyID: 36058694
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

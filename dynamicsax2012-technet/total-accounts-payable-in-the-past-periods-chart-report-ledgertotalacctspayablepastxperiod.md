@@ -2,8 +2,9 @@
 title: Total accounts payable in the past periods chart report (LedgerTotalAcctsPayablePastXPeriod)
 TOCTitle: Total accounts payable in the past periods chart report (LedgerTotalAcctsPayablePastXPeriod)
 ms:assetid: cb28b6f6-60ed-48f5-bb45-55ea721c4b0c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692479(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692479(v=AX.60)
 ms:contentKeyID: 41702376
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: VETS preparation report (HcmVETSPrepReport)
 TOCTitle: VETS preparation report (HcmVETSPrepReport)
 ms:assetid: 0cbd35a9-2307-46a2-b1e4-6ad54a8a20b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn479036(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn479036(v=AX.60)
 ms:contentKeyID: 59632406
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

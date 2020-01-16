@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Japan (JPN)"
 TOCTitle: Country-specific features for Japan
 ms:assetid: 796b30fa-7878-4365-b12f-2156067a1f6a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527147(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527147(v=AX.60)
 ms:contentKeyID: 59623276
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---
@@ -327,7 +328,7 @@ For more information about additional country-specific features that we added fo
 <td><p>Phonetic field names in the GAB for Japan</p></td>
 <td><p>You can set up the phonetic names for your companies, customers, vendors, employees, and contact persons in the GAB. Phonetic names guarantee that the names of your companies, customers, vendors, employees, and contact persons are pronounced correctly.</p>
 <p>You can also import the Japanese ZIP Codes or postal codes that are published by the Japan Postal Office in the required format.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj711047(v=ax.60)">(JPN) Global address books and address reference data</a> and <a href="jpn-import-japanese-zip-postal-codes.md">(JPN) Import Japanese ZIP/postal codes</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj711047(v=ax.60)">(JPN) Global address books and address reference data</a> and <a href="jpn-import-japanese-zip-postal-codes.md">(JPN) Import Japanese ZIP/postal codes</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Consolidated invoices and letters of credit</p></td>

@@ -2,8 +2,9 @@
 title: Tips to help prevent long-running reports from timing out
 TOCTitle: Tips to help prevent long-running reports from timing out
 ms:assetid: 6f9481a2-9b56-4726-9eba-209e6d964ba9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ969577(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ969577(v=AX.60)
 ms:contentKeyID: 51554197
+author: Khairunj
 ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---

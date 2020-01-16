@@ -2,8 +2,9 @@
 title: Vendor security role (VendVendor)
 TOCTitle: Vendor security role (VendVendor)
 ms:assetid: 46e77196-0506-4c15-bd58-779d98665745
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527084(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527084(v=AX.60)
 ms:contentKeyID: 37823136
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

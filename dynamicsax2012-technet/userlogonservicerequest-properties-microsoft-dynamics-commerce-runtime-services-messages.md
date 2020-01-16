@@ -1,9 +1,10 @@
-﻿---
+---
 title: UserLogOnServiceRequest Properties (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: UserLogOnServiceRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.UserLogOnServiceRequest
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.userlogonservicerequest_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.userlogonservicerequest_properties(v=AX.60)
 ms:contentKeyID: 62213356
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

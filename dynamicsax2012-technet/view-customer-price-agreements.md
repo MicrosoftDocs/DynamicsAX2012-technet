@@ -2,8 +2,9 @@
 title: View customer price agreements
 TOCTitle: View customer price agreements
 ms:assetid: 719d46ab-569b-4568-bc7b-236e465218c0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271560(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271560(v=AX.60)
 ms:contentKeyID: 36384191
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Unsent alerts
 TOCTitle: Unsent alerts
 ms:assetid: 45765f38-5b2a-4e41-b38f-17b8631a0fd9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834353(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834353(v=AX.60)
 ms:contentKeyID: 46687539
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

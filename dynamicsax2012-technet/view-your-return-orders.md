@@ -2,8 +2,9 @@
 title: View your return orders
 TOCTitle: View your return orders
 ms:assetid: f20ca2a0-1d09-47f6-b8be-7a37821a7ea8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299223(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh299223(v=AX.60)
 ms:contentKeyID: 36384329
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

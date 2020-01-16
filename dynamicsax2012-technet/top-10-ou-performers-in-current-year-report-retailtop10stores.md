@@ -2,8 +2,9 @@
 title: Top 10 OU performers in current year report (RetailTop10Stores)
 TOCTitle: Top 10 OU performers in current year report (RetailTop10Stores)
 ms:assetid: 7792b054-d1b6-45b7-8073-bf1a305193d5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ851127(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ851127(v=AX.60)
 ms:contentKeyID: 50173436
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

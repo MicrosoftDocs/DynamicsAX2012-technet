@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Using the Query Service to Return a Flattened Dataset'
 TOCTitle: 'Walkthrough: Using the Query Service to Return a Flattened Dataset'
 ms:assetid: 91f0f205-75a0-4d66-b6d5-b9e32ef09151
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg841671(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg841671(v=AX.60)
 ms:contentKeyID: 35247435
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

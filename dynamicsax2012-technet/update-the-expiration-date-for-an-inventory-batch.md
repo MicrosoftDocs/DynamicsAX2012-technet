@@ -2,8 +2,9 @@
 title: Update the expiration date for an inventory batch
 TOCTitle: Update the expiration date for an inventory batch
 ms:assetid: 3a1763be-e1a0-420b-8fc9-0305c6ac807e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352196(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352196(v=AX.60)
 ms:contentKeyID: 36687829
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,9 +34,9 @@ Use this procedure to update the expiration date for one or more inventory batch
 
 ## See also
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
-[Update expiry dates (form)](https://technet.microsoft.com/en-us/library/hh227601\(v=ax.60\))
+[Update expiry dates (form)](https://technet.microsoft.com/library/hh227601\(v=ax.60\))
 
   
 

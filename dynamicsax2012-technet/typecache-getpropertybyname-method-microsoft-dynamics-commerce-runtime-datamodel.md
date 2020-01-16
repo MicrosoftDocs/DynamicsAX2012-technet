@@ -1,9 +1,10 @@
-﻿---
+---
 title: TypeCache.GetPropertyByName Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: GetPropertyByName Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.TypeCache.GetPropertyByName(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.typecache.getpropertybyname(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.typecache.getpropertybyname(v=AX.60)
 ms:contentKeyID: 65317729
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # GetPropertyByName Method
 
-Get [PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\)) by name.
+Get [PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\)) by name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
@@ -52,12 +53,12 @@ PropertyInfo^ GetPropertyByName(
 #### Parameters
 
   - name  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Reflection.PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\))  
-Instance of [PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\)) or null if not found.  
+Type: [System.Reflection.PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\))  
+Instance of [PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\)) or null if not found.  
 
 ## See Also
 

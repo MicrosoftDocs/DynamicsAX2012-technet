@@ -2,8 +2,9 @@
 title: System setup for Microsoft Dynamics AX
 TOCTitle: System setup for Microsoft Dynamics AX
 ms:assetid: e9256fe4-888c-413e-aa35-53e1a6de5806
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732218(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg732218(v=AX.60)
 ms:contentKeyID: 35133168
+author: Khairunj
 ms.date: 12/09/2014
 mtps_version: v=AX.60
 ---

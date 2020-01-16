@@ -2,8 +2,9 @@
 title: View projected forecast transactions
 TOCTitle: View projected forecast transactions
 ms:assetid: c47c1132-8f7f-494c-be4f-acf3743351d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550729(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550729(v=AX.60)
 ms:contentKeyID: 36059294
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -28,11 +29,11 @@ You can view projected inventory transactions that originated from a forecast. Y
 
 ## See also
 
-[Inventory forecast (form)](https://technet.microsoft.com/en-us/library/aa586400\(v=ax.60\))
+[Inventory forecast (form)](https://technet.microsoft.com/library/aa586400\(v=ax.60\))
 
-[Demand forecast (form)](https://technet.microsoft.com/en-us/library/aa499758\(v=ax.60\))
+[Demand forecast (form)](https://technet.microsoft.com/library/aa499758\(v=ax.60\))
 
-[Supply forecast (form)](https://technet.microsoft.com/en-us/library/aa557710\(v=ax.60\))
+[Supply forecast (form)](https://technet.microsoft.com/library/aa557710\(v=ax.60\))
 
   
 

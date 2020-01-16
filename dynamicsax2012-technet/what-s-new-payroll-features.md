@@ -2,8 +2,9 @@
 title: "What's new: Payroll features"
 TOCTitle: Payroll features
 ms:assetid: f7d33a7c-61c3-4313-871c-9756b62f74d1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527242(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527242(v=AX.60)
 ms:contentKeyID: 59623370
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---
@@ -542,13 +543,13 @@ For more information, see [Payroll](payroll.md).
 <tr class="even">
 <td><p>Tiered contribution calculation rates for retirement benefit plans.</p></td>
 <td><p>You can now create a retirement benefit plan that calculates the employer contribution. This is based on a cumulative tiered calculation of the rows in the contribution calculation rates table.</p>
-<p>For more information, see <a href="benefit-setup-tasks.md">Benefit setup tasks</a> and <a href="https://technet.microsoft.com/en-us/library/jj677430(v=ax.60)">Contribution calculation rates (form) 6.2 CU7 and prior</a>.</p></td>
+<p>For more information, see <a href="benefit-setup-tasks.md">Benefit setup tasks</a> and <a href="https://technet.microsoft.com/library/jj677430(v=ax.60)">Contribution calculation rates (form) 6.2 CU7 and prior</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Create and update payroll tax groups.</p></td>
 <td><p>You can now create and update groups of payroll taxes. Each tax group contains a set of payroll tax codes. You can update all the tax codes in a tax group at the same time. For example, you can change the vendor and main account for every tax code in a tax group at the same time.</p>
 <p>Tax groups can also be used in transaction posting definitions. Each tax code can be included in multiple tax groups, but a tax code can be in only one tax group that is enabled for posting definitions.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/dn527701(v=ax.60)">Tax groups (form) 6.2 CU7 and prior</a> and <a href="tax-information-tasks.md">Tax information tasks</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/dn527701(v=ax.60)">Tax groups (form) 6.2 CU7 and prior</a> and <a href="tax-information-tasks.md">Tax information tasks</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>(USA) Preparation of regulatory compliance reports for payroll.</p></td>

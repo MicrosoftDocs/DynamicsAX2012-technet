@@ -2,8 +2,9 @@
 title: View the status of open sales orders
 TOCTitle: View the status of open sales orders
 ms:assetid: 950feeb7-8bf1-4cd6-9663-b409a84d100c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498419(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498419(v=AX.60)
 ms:contentKeyID: 36058609
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

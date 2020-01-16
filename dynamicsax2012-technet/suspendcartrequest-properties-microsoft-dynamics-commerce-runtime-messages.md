@@ -1,9 +1,10 @@
-﻿---
+---
 title: SuspendCartRequest Properties (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: SuspendCartRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Messages.SuspendCartRequest
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.suspendcartrequest_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.suspendcartrequest_properties(v=AX.60)
 ms:contentKeyID: 62213418
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (SWE) Swedish sales tax report (TaxReport_SE)
 TOCTitle: (SWE) Swedish sales tax report (TaxReport_SE)
 ms:assetid: 58d09e27-2b00-41d2-9e5d-7994d52f265b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352251(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352251(v=AX.60)
 ms:contentKeyID: 36687877
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

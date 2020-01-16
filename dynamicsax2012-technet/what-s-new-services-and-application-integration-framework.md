@@ -2,8 +2,9 @@
 title: "What's new: Services and Application Integration Framework"
 TOCTitle: Services and Application Integration Framework
 ms:assetid: de2a9f9a-b1b4-4042-819d-10295b972079
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527243(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527243(v=AX.60)
 ms:contentKeyID: 59623371
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
@@ -90,7 +91,7 @@ For more information about data partitioning, see the following topics:
 
   - [Data partitioning architecture](data-partitioning-architecture.md)
 
-  - [AIF inbound ports (form)](https://technet.microsoft.com/en-us/library/hh208821\(v=ax.60\))
+  - [AIF inbound ports (form)](https://technet.microsoft.com/library/hh208821\(v=ax.60\))
 
   - [Configure security for integration ports](configure-security-for-integration-ports.md)
 
@@ -98,7 +99,7 @@ For more information about data partitioning, see the following topics:
 
 ## WCF configuration
 
-The **Inbound ports** form includes a new button that lets you configure WCF settings for specific integration adapters. For more information, see [Configure addresses for enhanced integration ports](configure-addresses-for-enhanced-integration-ports.md) and [AIF inbound ports (form)](https://technet.microsoft.com/en-us/library/hh208821\(v=ax.60\)).
+The **Inbound ports** form includes a new button that lets you configure WCF settings for specific integration adapters. For more information, see [Configure addresses for enhanced integration ports](configure-addresses-for-enhanced-integration-ports.md) and [AIF inbound ports (form)](https://technet.microsoft.com/library/hh208821\(v=ax.60\)).
 
 ## Additions to standard document services
 
@@ -415,7 +416,7 @@ The following list contains a summary of the new feature areas for developers:
 <td><p>Only the RunBase framework was available. The user interface, business logic code, and data contract code were all contained in a single class.</p></td>
 <td><p>SysOperation framework classes separate the user interface, business logic, and data contract logic.</p></td>
 <td><p>You can use SysOperation framework classes to write applications that have reduced client to server communication. The user interface for input parameters can be auto-generated.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg862488(v=ax.60)">SysOperation Framework Overview</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg862488(v=ax.60)">SysOperation Framework Overview</a></p></td>
 </tr>
 </tbody>
 </table>

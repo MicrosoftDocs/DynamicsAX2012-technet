@@ -2,8 +2,9 @@
 title: View purchase requisition history (Enterprise Portal)
 TOCTitle: View purchase requisition history (Enterprise Portal)
 ms:assetid: 84af90dc-4308-4d32-91ef-305312bfd0a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271585(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271585(v=AX.60)
 ms:contentKeyID: 36384216
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Transfer fixed assets
 TOCTitle: Transfer fixed assets
 ms:assetid: c3fcf60b-b1ad-42fb-b96b-ac623d9b7f4b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242839(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242839(v=AX.60)
 ms:contentKeyID: 36059291
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,15 +39,15 @@ For example, the financial dimension values for the equipment that is used to ma
 
 When transferring fixed assets, keep in mind the following considerations:
 
-  - When you transfer the value models that are associated with a fixed asset, accounting transactions are created. Therefore, if the main account is suspended for the financial dimensions that you are transferring to or transferring from, the value models can’t be transferred. For more information, see [Main accounts - chart of accounts (form)](https://technet.microsoft.com/en-us/library/hh209695\(v=ax.60\)).
+  - When you transfer the value models that are associated with a fixed asset, accounting transactions are created. Therefore, if the main account is suspended for the financial dimensions that you are transferring to or transferring from, the value models can’t be transferred. For more information, see [Main accounts - chart of accounts (form)](https://technet.microsoft.com/library/hh209695\(v=ax.60\)).
 
   - A transfer must create a combination of financial dimension values that is valid according to the advanced rule structures for the chart of accounts.
 
   - You can transfer only value models that have an **Open** status. You can’t transfer value models for a fixed asset that has not yet been acquired, or that has been sold or scrapped, suspended, closed, or transferred to a low-value pool.
 
-  - You can use the **Value models** form to view or change the status of a value model. To do this, select the fixed asset on the **Fixed assets** list page, and then, on the **Action Pane**, click **Value models**. You can view or change the value in the **Status** field. For more information, see [Value models (form)](https://technet.microsoft.com/en-us/library/aa590830\(v=ax.60\)).
+  - You can use the **Value models** form to view or change the status of a value model. To do this, select the fixed asset on the **Fixed assets** list page, and then, on the **Action Pane**, click **Value models**. You can view or change the value in the **Status** field. For more information, see [Value models (form)](https://technet.microsoft.com/library/aa590830\(v=ax.60\)).
 
-  - When you transfer a fixed asset by using the procedures in this topic, a record of the transfer is created. If you do not need a record of the transfer, you can use the **Value models** form to update the default financial dimensions of the fixed asset. When you do this, a transfer entry is not created or displayed on the **Fixed asset transfer history** form. For more information, see [Value models (form)](https://technet.microsoft.com/en-us/library/aa590830\(v=ax.60\)) and [Fixed assets transfer history (form)](https://technet.microsoft.com/en-us/library/hh227638\(v=ax.60\)).
+  - When you transfer a fixed asset by using the procedures in this topic, a record of the transfer is created. If you do not need a record of the transfer, you can use the **Value models** form to update the default financial dimensions of the fixed asset. When you do this, a transfer entry is not created or displayed on the **Fixed asset transfer history** form. For more information, see [Value models (form)](https://technet.microsoft.com/library/aa590830\(v=ax.60\)) and [Fixed assets transfer history (form)](https://technet.microsoft.com/library/hh227638\(v=ax.60\)).
 
   - You can reverse the most recent transfer of a fixed asset, although you can’t reverse a transfer that has already been reversed. For more information, see [Reverse a transaction](reverse-a-transaction.md).
 
@@ -86,7 +87,7 @@ If you are using cumulative update 6 or earlier, you can transfer one fixed asse
 
 9.  Click **OK**.
 
-10. In the confirmation form, verify that the values are correct, and then click **Transfer** to complete the transfer. For more information, see [Fixed asset transfer confirmation (form)](https://technet.microsoft.com/en-us/library/hh209459\(v=ax.60\)).
+10. In the confirmation form, verify that the values are correct, and then click **Transfer** to complete the transfer. For more information, see [Fixed asset transfer confirmation (form)](https://technet.microsoft.com/library/hh209459\(v=ax.60\)).
 
 ## Transfer up to 100 fixed assets at a time in Microsoft Dynamics AX 2012 R3 or cumulative update 7 or later for AX 2012 R2
 
@@ -118,7 +119,7 @@ If you are usingMicrosoft Dynamics AX 2012 R3 or cumulative update 7 or later fo
 
 9.  When you have entered the necessary information for the fixed assets that you are transferring, click **OK**.
 
-10. In the confirmation form, verify that the values are correct, and then click **Transfer** to complete the transfers. For more information, see [Fixed asset transfer confirmation (form)](https://technet.microsoft.com/en-us/library/hh209459\(v=ax.60\)).
+10. In the confirmation form, verify that the values are correct, and then click **Transfer** to complete the transfers. For more information, see [Fixed asset transfer confirmation (form)](https://technet.microsoft.com/library/hh209459\(v=ax.60\)).
     
     If any value model that is listed in the **Transfer fixed assets** form can’t be transferred, none of the selected value models transfer, with one exception: A value model that can’t be transferred because the transfer-from and transfer-to financial dimensions are the same does not prevent other value models from being transferred.
 
@@ -180,11 +181,11 @@ For example, you select 1,000 assets for transfer, and the system divides the se
 
 [Fixed asset records](fixed-asset-records.md)
 
-[Transfer fixed assets (form)](https://technet.microsoft.com/en-us/library/hh209220\(v=ax.60\))
+[Transfer fixed assets (form)](https://technet.microsoft.com/library/hh209220\(v=ax.60\))
 
-[Fixed assets transfer history (form)](https://technet.microsoft.com/en-us/library/hh227638\(v=ax.60\))
+[Fixed assets transfer history (form)](https://technet.microsoft.com/library/hh227638\(v=ax.60\))
 
-[Financial dimensions (form)](https://technet.microsoft.com/en-us/library/hh209534\(v=ax.60\))
+[Financial dimensions (form)](https://technet.microsoft.com/library/hh209534\(v=ax.60\))
 
   
 

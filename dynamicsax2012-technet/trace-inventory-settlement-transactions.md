@@ -2,8 +2,9 @@
 title: Trace inventory settlement transactions
 TOCTitle: Trace inventory settlement transactions
 ms:assetid: 68eed109-25e8-4893-99e5-148f577133f7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231574(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231574(v=AX.60)
 ms:contentKeyID: 36057960
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -67,9 +68,9 @@ Assume that the FIFO inventory model was assigned to this item. When inventory c
 
 ## See also
 
-[Cost explorer (form)](https://technet.microsoft.com/en-us/library/aa600945\(v=ax.60\))
+[Cost explorer (form)](https://technet.microsoft.com/library/aa600945\(v=ax.60\))
 
-[Settlements in the transaction (form)](https://technet.microsoft.com/en-us/library/aa571469\(v=ax.60\))
+[Settlements in the transaction (form)](https://technet.microsoft.com/library/aa571469\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (SWE) Set up SRU codes for ledger accounts
 TOCTitle: (SWE) Set up SRU codes for ledger accounts
 ms:assetid: 13960413-24d7-40e7-920d-df1892b85243
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230937(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230937(v=AX.60)
 ms:contentKeyID: 36056049
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (USA) Set up work environment accommodation types
 TOCTitle: (USA) Set up work environment accommodation types
 ms:assetid: 72dc0e4e-117d-4a5a-9998-ba7cabef7431
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212955(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212955(v=AX.60)
 ms:contentKeyID: 36058127
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ For example, if you have a worker with a visual disability that requires a guide
 
 [(USA) Comply with the Americans with Disabilities Act](usa-comply-with-the-americans-with-disabilities-act.md)
 
-[Accommodation types (form)](https://technet.microsoft.com/en-us/library/hh208677\(v=ax.60\))
+[Accommodation types (form)](https://technet.microsoft.com/library/hh208677\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: " tax branch"
 TOCTitle: " tax branch"
 ms:assetid: DynamicsAXGlossary.2015323
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.2015323(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.2015323(v=AX.60)
 ms:contentKeyID: 62830133
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

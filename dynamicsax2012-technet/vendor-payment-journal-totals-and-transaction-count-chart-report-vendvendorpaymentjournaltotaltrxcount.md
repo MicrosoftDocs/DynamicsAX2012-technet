@@ -2,8 +2,9 @@
 title: Vendor payment journal totals and transaction count chart report (VendVendorPaymentJournalTotalTrxCount)
 TOCTitle: Vendor payment journal totals and transaction count chart report (VendVendorPaymentJournalTotalTrxCount)
 ms:assetid: ed4de4e1-e6c7-4aa7-b0ae-5bc0ea074552
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538463(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538463(v=AX.60)
 ms:contentKeyID: 39508893
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

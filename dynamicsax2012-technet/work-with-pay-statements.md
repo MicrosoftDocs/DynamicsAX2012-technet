@@ -2,8 +2,9 @@
 title: Work with pay statements
 TOCTitle: Work with pay statements
 ms:assetid: 1d338991-a441-4556-9538-82f94393a181
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677329(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677329(v=AX.60)
 ms:contentKeyID: 49384103
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -219,7 +220,7 @@ Back to top
 
 ## Modify benefit lines and tax lines on pay statements
 
-You can add or remove benefit lines. You can also change benefit lines that were added by a user. And if benefit lines were created automatically, you can change them if the benefit plan isn’t locked for pay statements. For more information, see [Benefit elements (form)](https://technet.microsoft.com/en-us/library/hh209498\(v=ax.60\)).
+You can add or remove benefit lines. You can also change benefit lines that were added by a user. And if benefit lines were created automatically, you can change them if the benefit plan isn’t locked for pay statements. For more information, see [Benefit elements (form)](https://technet.microsoft.com/library/hh209498\(v=ax.60\)).
 
 You can add, remove, and change tax lines, except for Medicare and Federal Insurance Contributions Act (FICA) tax lines.
 

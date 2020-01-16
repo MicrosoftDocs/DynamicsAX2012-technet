@@ -2,8 +2,9 @@
 title: (USA) Preview and publish discounts
 TOCTitle: (USA) Preview and publish discounts
 ms:assetid: 8a936bd9-eb9b-4d39-aad0-a5600dc1ce4c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682096(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ682096(v=AX.60)
 ms:contentKeyID: 49655583
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

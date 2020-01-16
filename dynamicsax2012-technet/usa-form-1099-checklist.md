@@ -2,8 +2,9 @@
 title: (USA) Form 1099 checklist
 TOCTitle: (USA) Form 1099 checklist
 ms:assetid: dd0f14e5-8bfa-44d7-9af7-0136e21da74e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551265(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551265(v=AX.60)
 ms:contentKeyID: 36059678
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Using questionnaires
 TOCTitle: Using questionnaires
 ms:assetid: 172fd2f6-cbaf-43ca-9119-d8ca842d4123
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569899(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569899(v=AX.60)
 ms:contentKeyID: 36056079
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

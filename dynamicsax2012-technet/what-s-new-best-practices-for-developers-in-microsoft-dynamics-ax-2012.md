@@ -1,9 +1,10 @@
-﻿---
+---
 title: "What's New: Best Practices for Developers in Microsoft Dynamics AX 2012"
 TOCTitle: Best Practices for Developers
 ms:assetid: f7bdd87f-2ee2-4417-9efe-c5199c2901aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg865121(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg865121(v=AX.60)
 ms:contentKeyID: 35253637
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -17,7 +18,7 @@ The best practice checks that are enforced by the X++ compiler were updated to r
 
 ### ![Gg865121.collapse\_all(en-us,AX.60).gif](images/Gg841655.collapse_all(en-us,AX.60).gif "Gg865121.collapse_all(en-us,AX.60).gif")New Best Practice Checks
 
-The following table describes the new best practice rules. The message that occurs for violations of a best practice informational, warning, or error rule occurs when you check best practices. For more information, see [Best Practice Overview](https://technet.microsoft.com/en-us/library/aa548778\(v=ax.60\)).
+The following table describes the new best practice rules. The message that occurs for violations of a best practice informational, warning, or error rule occurs when you check best practices. For more information, see [Best Practice Overview](https://technet.microsoft.com/library/aa548778\(v=ax.60\)).
 
 <table>
 <colgroup>
@@ -49,7 +50,7 @@ The following table describes the new best practice rules. The message that occu
 </tr>
 <tr class="odd">
 <td><p>The form must include a grid that contains ValidFrom and ValidTo fields when that form has a data source with ValidTimeStateAutoQuery set to DateRange.</p></td>
-<td><p>When the <strong>ValidTimeStateAutoQuery</strong> property for the data source of a form is set to <strong>DateRange</strong>, a grid must exist that contains the ValidFrom and ValidTo fields. For more information, see <a href="https://technet.microsoft.com/en-us/library/gg861781(v=ax.60)">Valid Time State Tables and Date Effective Data</a>.</p></td>
+<td><p>When the <strong>ValidTimeStateAutoQuery</strong> property for the data source of a form is set to <strong>DateRange</strong>, a grid must exist that contains the ValidFrom and ValidTo fields. For more information, see <a href="https://technet.microsoft.com/library/gg861781(v=ax.60)">Valid Time State Tables and Date Effective Data</a>.</p></td>
 <td><p>BPErrorFormValidTimeStateMissingValidToOrFromDate</p>
 <p>@SYS133561</p></td>
 </tr>
@@ -67,7 +68,7 @@ The following table describes the new best practice rules. The message that occu
 </tr>
 <tr class="even">
 <td><p>Do not use braces around the case blocks in a switch statement.</p></td>
-<td><p>You used braces around a case block in a switch statement. The braces must be removed. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa607181(v=ax.60)">Switch Statements</a>.</p></td>
+<td><p>You used braces around a case block in a switch statement. The braces must be removed. For more information, see <a href="https://technet.microsoft.com/library/aa607181(v=ax.60)">Switch Statements</a>.</p></td>
 <td><p>BPErrorMethodNoBracketsInCaseBlocks</p>
 <p>@SYS152524</p></td>
 </tr>
@@ -79,49 +80,49 @@ The following table describes the new best practice rules. The message that occu
 </tr>
 <tr class="even">
 <td><p>Line item workflow '%1' event handler does not reference a valid class implementing the '%2' interface</p></td>
-<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/en-us/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
+<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
 <td><p>BPErrorWorkflowLineItemWorkflowEHInvalid</p>
 <p>@SYS152823</p></td>
 </tr>
 <tr class="odd">
 <td><p>Line item workflow relation '%1' not found on workflow document query '%2’</p></td>
-<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/en-us/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
+<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
 <td><p>BPErrorWorkflowLineItemWorkflowRelationNotFound</p>
 <p>@SYS152835</p></td>
 </tr>
 <tr class="even">
 <td><p>Line item workflow relation '%1' is invalid. Relation must be configured with a fetch mode of 1:n on workflow document query '%2'</p></td>
-<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/en-us/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
+<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
 <td><p>BPErrorWorkflowLineItemWorkflowRelationInvalid</p>
 <p>@SYS152836</p></td>
 </tr>
 <tr class="odd">
 <td><p>Line item workflow relation not defined</p></td>
-<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/en-us/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
+<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
 <td><p>BPErrorWorkflowLineItemWorkflowRelationEmpty</p>
 <p>@SYS152837</p></td>
 </tr>
 <tr class="even">
 <td><p>Line item workflow type '%1' not found</p></td>
-<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/en-us/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
+<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
 <td><p>BPErrorWorkflowLineItemWorkflowTypeNotFound</p>
 <p>@SYS152839</p></td>
 </tr>
 <tr class="odd">
 <td><p>Workflow document query not found on line item workflow type '%1'</p></td>
-<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/en-us/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
+<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
 <td><p>BPErrorWorkflowLineItemWorkflowTypeQueryNotFound</p>
 <p>@SYS152840</p></td>
 </tr>
 <tr class="even">
 <td><p>Line-item workflow relation '%1' does not match root datasource on line item workflow type document query '%2'</p></td>
-<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/en-us/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
+<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
 <td><p>BPErrorWorkflowLineItemWorkflowTypeQueryNoMatch</p>
 <p>@SYS152841</p></td>
 </tr>
 <tr class="odd">
 <td><p>Line item workflow must have at least one line item workflow type</p></td>
-<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/en-us/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
+<td><p>This best practice rule supports the event handling that is now supported for approvals and tasks. For more information, see <a href="https://technet.microsoft.com/library/cc606215(v=ax.60)">How to: Create a Workflow Event Handler</a>.</p></td>
 <td><p>BPErrorWorkflowLineItemWorkflowNoTypes</p>
 <p>@SYS152842</p></td>
 </tr>
@@ -308,7 +309,7 @@ The following table describes the new best practice rules. The message that occu
 </tr>
 <tr class="odd">
 <td><p>Perspectives where SharedDimensionContainer=Yes cannot have fields where AnalysisUsage is Measure or Both. Perspective %1, table or view %2, field %3.</p></td>
-<td><p>When the SharedDimensionContainer property for a perspective is set to <strong>True</strong>, the AnalysisUsage property for fields should not be set to Measure or Both. A setting of <strong>True</strong> for the SharedDimensionContainer property indicates that the perspective will be used to create dimensions only. The perspective will not be used to create a cube, measure group, or measure. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa640388(v=ax.60)">Best Practices for Perspectives</a>.</p></td>
+<td><p>When the SharedDimensionContainer property for a perspective is set to <strong>True</strong>, the AnalysisUsage property for fields should not be set to Measure or Both. A setting of <strong>True</strong> for the SharedDimensionContainer property indicates that the perspective will be used to create dimensions only. The perspective will not be used to create a cube, measure group, or measure. For more information, see <a href="https://technet.microsoft.com/library/aa640388(v=ax.60)">Best Practices for Perspectives</a>.</p></td>
 <td><p>BPErrorPerspectiveMeasureInSharedDimensionContainer</p>
 <p>@SYS322558</p></td>
 </tr>
@@ -581,7 +582,7 @@ Because of the changes to best practice rules for container controls, best pract
 
 ### ![Gg865121.collapse\_all(en-us,AX.60).gif](images/Gg841655.collapse_all(en-us,AX.60).gif "Gg865121.collapse_all(en-us,AX.60).gif")Best Practice Checks Updated for Workflow Approval on the Web
 
-When you create workflows that will be used only on the web, only thin client menu items are required. Best practice rules were updated to account for this scenario. For more information, see [Workflow Best Practices](https://technet.microsoft.com/en-us/library/cc597937\(v=ax.60\)).
+When you create workflows that will be used only on the web, only thin client menu items are required. Best practice rules were updated to account for this scenario. For more information, see [Workflow Best Practices](https://technet.microsoft.com/library/cc597937\(v=ax.60\)).
 
 The following table describes the messages that were updated so that they now apply to both web menu items and action menu items.
 
@@ -852,9 +853,9 @@ The following table provides information about best practice rules that were rem
 
 ## See also
 
-[What's New in Microsoft Dynamics AX 2012 for Developers](https://technet.microsoft.com/en-us/library/gg845327\(v=ax.60\))
+[What's New in Microsoft Dynamics AX 2012 for Developers](https://technet.microsoft.com/library/gg845327\(v=ax.60\))
 
-[Best Practices for Microsoft Dynamics AX Development](https://technet.microsoft.com/en-us/library/aa658028\(v=ax.60\))
+[Best Practices for Microsoft Dynamics AX Development](https://technet.microsoft.com/library/aa658028\(v=ax.60\))
 
   
 **Announcements:** New book: "Inside Microsoft Dynamics AX 2012 R3" now available. Get your copy at the [MS Press Store](https://www.microsoftpressstore.com/store/inside-microsoft-dynamics-ax-2012-r3-9780735685109).

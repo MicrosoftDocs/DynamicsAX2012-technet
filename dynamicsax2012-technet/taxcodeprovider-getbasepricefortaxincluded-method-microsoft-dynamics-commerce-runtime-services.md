@@ -1,9 +1,10 @@
-﻿---
+---
 title: TaxCodeProvider.GetBasePriceForTaxIncluded Method  (Microsoft.Dynamics.Commerce.Runtime.Services)
 TOCTitle: GetBasePriceForTaxIncluded Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.TaxCodeProvider.GetBasePriceForTaxIncluded(Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxableItem,System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.Services.TaxCode},Microsoft.Dynamics.Commerce.Runtime.RequestContext)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.taxcodeprovider.getbasepricefortaxincluded(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.taxcodeprovider.getbasepricefortaxincluded(v=AX.60)
 ms:contentKeyID: 49829131
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,7 +66,7 @@ static Decimal GetBasePriceForTaxIncluded(
 <!-- end list -->
 
   - codes  
-    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[TaxCode](taxcode-class-microsoft-dynamics-commerce-runtime-services.md)\>  
+    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[TaxCode](taxcode-class-microsoft-dynamics-commerce-runtime-services.md)\>  
 
 <!-- end list -->
 
@@ -74,7 +75,7 @@ static Decimal GetBasePriceForTaxIncluded(
 
 #### Return Value
 
-Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 The base price for tax included.  
 
 ## See Also

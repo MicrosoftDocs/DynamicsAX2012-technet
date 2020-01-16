@@ -2,8 +2,9 @@
 title: (THA, SAU, GBR, IRL) Set up a withholding tax group and attach it to a vendor or customer
 TOCTitle: (THA, SAU, GBR, IRL) Set up a withholding tax group and attach it to a vendor or customer
 ms:assetid: d3d81746-583d-4e35-b564-8afe5bc23332
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242926(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242926(v=AX.60)
 ms:contentKeyID: 36059515
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -19,7 +20,7 @@ ms.search.region: Ireland, Saudi Arabia,Thailand, United Kingdom
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Use the **Withholding tax groups** form to create a withholding tax group. After you create a group, you can assign multiple withholding tax codes and calculate multiple withholding tax rates for transactions. You can also attach a withholding tax group to a vendor or customer. For more information, see [Withholding tax groups (form)](https://technet.microsoft.com/en-us/library/aa591973\(v=ax.60\)).
+Use the **Withholding tax groups** form to create a withholding tax group. After you create a group, you can assign multiple withholding tax codes and calculate multiple withholding tax rates for transactions. You can also attach a withholding tax group to a vendor or customer. For more information, see [Withholding tax groups (form)](https://technet.microsoft.com/library/aa591973\(v=ax.60\)).
 
 ## Create a withholding tax group
 
@@ -59,11 +60,11 @@ Use the **Withholding tax groups** form to create a withholding tax group. After
 
 ## See also
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
-[Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+[Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
-[Withholding tax codes (form)](https://technet.microsoft.com/en-us/library/aa585361\(v=ax.60\))
+[Withholding tax codes (form)](https://technet.microsoft.com/library/aa585361\(v=ax.60\))
 
   
 

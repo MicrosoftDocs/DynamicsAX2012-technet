@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Creating a Service by Using the AIF Document Service Wizard'
 TOCTitle: 'Walkthrough: Creating a Service by Using the AIF Document Service Wizard'
 ms:assetid: 53aa8783-4a66-4687-b7dc-e7557137c71f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc589855(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc589855(v=AX.60)
 ms:contentKeyID: 35244327
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
@@ -59,7 +60,7 @@ You use the AIF Document Service Wizard to create a service from a document quer
 
 4.  In the second AOT window, expand the **Tables** node and drag the LedgerJournalTable table onto the **Data Sources** node under the new query in the first window. By default, all of the fields in the data source are included in the query.
     
-    For more information, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/en-us/library/bb314753\(v=ax.60\)).
+    For more information, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/library/bb314753\(v=ax.60\)).
 
 5.  Right-click the new data source, and then click **Properties**. In the **Properties** sheet, rename the query data source name from LedgerJournalTable\_1 to LedgerJournalTable.
 

@@ -2,8 +2,9 @@
 title: Transaction list by date report (LedgerTransListDate)
 TOCTitle: Transaction list by date report (LedgerTransListDate)
 ms:assetid: 4b66eda6-1c00-434a-9eba-cb476465e5ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa576306(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa576306(v=AX.60)
 ms:contentKeyID: 43894464
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

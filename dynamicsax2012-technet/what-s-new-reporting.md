@@ -2,8 +2,9 @@
 title: "What's new: Reporting"
 TOCTitle: Reporting
 ms:assetid: f09d8fb3-b3eb-48e2-9285-22217a06037c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527264(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527264(v=AX.60)
 ms:contentKeyID: 59623392
+author: Khairunj
 ms.date: 08/20/2014
 mtps_version: v=AX.60
 ---
@@ -102,7 +103,7 @@ You email reports to the following people:
 
 For more information about how to insert tokens when you send a report as email, see [Print or email a report](print-or-email-a-report.md).
 
-Developers can customize the functionality of the tokens by using the [SysExtension](https://technet.microsoft.com/en-us/library/gg959544\(v=ax.60\)) framework. For example, you can develop an additional customization to retrieve titles from an external address book and send a report to the list of addresses that is retrieved externally.
+Developers can customize the functionality of the tokens by using the [SysExtension](https://technet.microsoft.com/library/gg959544\(v=ax.60\)) framework. For example, you can develop an additional customization to retrieve titles from an external address book and send a report to the list of addresses that is retrieved externally.
 
 You can also customize tokens to specify other print destinations by using print management. For example, you can use tokens to specify a printer based on location. In this scenario, a token such as **@wh printer@** can be used to specify a warehouse printer.
 
@@ -110,7 +111,7 @@ For more information about how to extend tokens, see [Customizing tokens for ema
 
 ## New methods for advanced printer properties
 
-The [SRSPrintDestinationSettings](https://technet.microsoft.com/en-us/library/gg938492\(v=ax.60\)) class contains new methods that let you choose the following printer properties:
+The [SRSPrintDestinationSettings](https://technet.microsoft.com/library/gg938492\(v=ax.60\)) class contains new methods that let you choose the following printer properties:
 
   - Print orientation (portrait or landscape)
 
@@ -122,7 +123,7 @@ The [SRSPrintDestinationSettings](https://technet.microsoft.com/en-us/library/gg
 
 ## Updated Compare Tool for Reporting Services reports
 
-The [Compare Tool](https://technet.microsoft.com/en-us/library/aa849010\(v=ax.60\)) has been updated to support comparison of two Reporting Services report designs.
+The [Compare Tool](https://technet.microsoft.com/library/aa849010\(v=ax.60\)) has been updated to support comparison of two Reporting Services report designs.
 
 ## Management Reporter now installed with Microsoft Dynamics AX
 
@@ -376,14 +377,14 @@ The following improvements have been made to the report development process.
 <td><p>Use queries that now use SFKs instead of natural keys.</p></td>
 <td><p>Some of the benefits include improved readability, reduced database size, decreased time to upgrade, and fewer data integrity issues.</p>
 <p>A lookup was added to the ReportRunUI control for SFK parameters, so that you can filter on a SFK relationship on a report.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg847984(v=ax.60)">Walkthrough: Leveraging Foreign Keys in Query Relations</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg847984(v=ax.60)">Walkthrough: Leveraging Foreign Keys in Query Relations</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Access cross-reference information for a Reporting Services report.</p></td>
 <td><p>This feature is not available.</p></td>
 <td><p>Use the cross-reference tool together with Reporting Services reports.</p></td>
 <td><p>You can see what data the report is using. You can also see what objects in the Microsoft Dynamics AX Application Object Tree (AOT) are using the report.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg889239(v=ax.60)">Walkthrough: Using the Cross-Reference Tool with Visual Studio Projects</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg889239(v=ax.60)">Walkthrough: Using the Cross-Reference Tool with Visual Studio Projects</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Define a report that can be flipped from right to left, depending on the language that is set for the report.</p></td>

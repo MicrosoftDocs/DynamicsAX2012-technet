@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Lithuania (LTU)"
 TOCTitle: Country-specific features for Lithuania
 ms:assetid: 717321bd-40f5-4702-b99c-4ebb516f1154
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527134(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527134(v=AX.60)
 ms:contentKeyID: 59623263
+author: Khairunj
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---

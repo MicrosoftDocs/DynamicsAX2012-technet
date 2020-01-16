@@ -2,8 +2,9 @@
 title: (USA) Grant or deny an accommodation request
 TOCTitle: (USA) Grant or deny an accommodation request
 ms:assetid: ef9e369b-e91b-402a-b46e-41616183e61c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243268(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243268(v=AX.60)
 ms:contentKeyID: 36676417
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,9 +40,9 @@ You can grant or deny accommodation requests that are entered by workers and app
 
 [(USA) Set up work environment accommodation types](usa-set-up-work-environment-accommodation-types.md)
 
-[Accommodations (form)](https://technet.microsoft.com/en-us/library/hh209584\(v=ax.60\))
+[Accommodations (form)](https://technet.microsoft.com/library/hh209584\(v=ax.60\))
 
-[Accommodation types (form)](https://technet.microsoft.com/en-us/library/hh208677\(v=ax.60\))
+[Accommodation types (form)](https://technet.microsoft.com/library/hh208677\(v=ax.60\))
 
   
 

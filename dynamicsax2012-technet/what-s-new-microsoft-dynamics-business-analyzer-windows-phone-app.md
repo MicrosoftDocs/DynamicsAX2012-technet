@@ -2,8 +2,9 @@
 title: "What's new: Microsoft Dynamics Business Analyzer Windows Phone App"
 TOCTitle: Microsoft Dynamics Business Analyzer Windows Phone App
 ms:assetid: d475c881-f2b8-4d91-9460-05ad2fe3f5f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn592142(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn592142(v=AX.60)
 ms:contentKeyID: 61073445
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -47,7 +48,7 @@ Microsoft Dynamics Business Analyzer for Windows Phone provides a dashboard wher
 
 To download Business Analyzer from the Windows Phone Store, see [Microsoft Dynamics Business Analyzer](http://www.windowsphone.com/en-us/store/app/business-analyzer/12c42e18-b473-47fc-a522-564757866325).
 
-For more information about Business Analyzer, see [Microsoft Dynamics Business Analyzer](https://technet.microsoft.com/en-us/library/dn508393\(v=ax.60\)).
+For more information about Business Analyzer, see [Microsoft Dynamics Business Analyzer](https://technet.microsoft.com/library/dn508393\(v=ax.60\)).
 
   
 

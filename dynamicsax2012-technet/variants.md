@@ -2,8 +2,9 @@
 title: Variants
 TOCTitle: Variants
 ms:assetid: 52bd9e4c-4ec6-4fbb-ae76-29db37084ce8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597093(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597093(v=AX.60)
 ms:contentKeyID: 39519138
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

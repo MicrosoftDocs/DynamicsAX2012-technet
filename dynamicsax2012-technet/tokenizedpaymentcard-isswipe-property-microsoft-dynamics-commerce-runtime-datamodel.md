@@ -1,9 +1,10 @@
-﻿---
+---
 title: TokenizedPaymentCard.IsSwipe Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: IsSwipe Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TokenizedPaymentCard.IsSwipe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.tokenizedpaymentcard.isswipe(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.tokenizedpaymentcard.isswipe(v=AX.60)
 ms:contentKeyID: 65320416
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ virtual property bool IsSwipe {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true if this instance is swipe; otherwise, false.  
 
 ## Exceptions
@@ -72,7 +73,7 @@ true if this instance is swipe; otherwise, false.
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/2asft85a(v=ax.60)">InvalidOperationException</a></td>
+<td><a href="https://technet.microsoft.com/library/2asft85a(v=ax.60)">InvalidOperationException</a></td>
 <td><p>A tokenized payment card is always entered manually.</p></td>
 </tr>
 </tbody>

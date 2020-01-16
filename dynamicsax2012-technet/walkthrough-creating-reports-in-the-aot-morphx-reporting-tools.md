@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Creating Reports in the AOT (MorphX Reporting Tools)'
 TOCTitle: 'Walkthrough: Creating Reports in the AOT'
 ms:assetid: 3f060743-32bd-4d08-9112-e5086c392adc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc967382(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc967382(v=AX.60)
 ms:contentKeyID: 35290297
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -35,7 +36,7 @@ In this walkthrough, you will use the AOT to create a report. You will perform t
 
 ## Creating Tables to Use as the Data Sources for the Report
 
-In this procedure you create a table to use as a data source for the report. For more information, see [How to: Create Tables](https://technet.microsoft.com/en-us/library/aa882181\(v=ax.60\)).
+In this procedure you create a table to use as a data source for the report. For more information, see [How to: Create Tables](https://technet.microsoft.com/library/aa882181\(v=ax.60\)).
 
 ### To create a table to use as a data source for the report
 
@@ -239,15 +240,15 @@ In this procedure you will use the AOT to create a report that displays informat
 
 ## Creating a Query for the Report
 
-You can specify the data to display and the way to present the data in the report by creating a query in the AOT. For more information, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/en-us/library/bb314753\(v=ax.60\)).
+You can specify the data to display and the way to present the data in the report by creating a query in the AOT. For more information, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/library/bb314753\(v=ax.60\)).
 
 
 > [!NOTE]
-> <P>You can also create a query by using X++ (see <A href="https://technet.microsoft.com/en-us/library/aa638454(v=ax.60)">How to: Create Queries by Using X++</A>). Under the <STRONG>EmployeeReport</STRONG> node, right-click <STRONG>Methods</STRONG>, point to <STRONG>Override Method</STRONG>, and then click <STRONG>Fetch</STRONG>. Use the Query system classes to create a query. For more information, see <A href="how-to-override-the-fetch-method-to-filter-data-for-reports-morphx-reporting-tools.md">How to: Override the fetch Method to Filter Data for Reports (MorphX Reporting Tools)</A>.</P>
+> <P>You can also create a query by using X++ (see <A href="https://technet.microsoft.com/library/aa638454(v=ax.60)">How to: Create Queries by Using X++</A>). Under the <STRONG>EmployeeReport</STRONG> node, right-click <STRONG>Methods</STRONG>, point to <STRONG>Override Method</STRONG>, and then click <STRONG>Fetch</STRONG>. Use the Query system classes to create a query. For more information, see <A href="how-to-override-the-fetch-method-to-filter-data-for-reports-morphx-reporting-tools.md">How to: Override the fetch Method to Filter Data for Reports (MorphX Reporting Tools)</A>.</P>
 
 
 
-First you must specify the data sources to use in the query and the relationship between the two data sources (tables). In this case, the DeptId field is the primary key of the Department table and is a foreign key of the Employee table. For more information, see [How to: Add Multiple Data Sources to a Query](https://technet.microsoft.com/en-us/library/aa880078\(v=ax.60\)).
+First you must specify the data sources to use in the query and the relationship between the two data sources (tables). In this case, the DeptId field is the primary key of the Department table and is a foreign key of the Employee table. For more information, see [How to: Add Multiple Data Sources to a Query](https://technet.microsoft.com/library/aa880078\(v=ax.60\)).
 
 ### To join the Employee table with the Department table in the report
 
@@ -265,7 +266,7 @@ First you must specify the data sources to use in the query and the relationship
 
 ## Specifying Query Properties
 
-You can specify what data is returned and how it is displayed in the report by specifying things like a range or a sort order. For more information, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/en-us/library/bb314753\(v=ax.60\)). For this report, specify that the query return all employees in Fargo, ND. Create a new range on the Location field of the Department data source.
+You can specify what data is returned and how it is displayed in the report by specifying things like a range or a sort order. For more information, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/library/bb314753\(v=ax.60\)). For this report, specify that the query return all employees in Fargo, ND. Create a new range on the Location field of the Department data source.
 
 ### To define the range of data to display in the report
 
@@ -327,11 +328,11 @@ You can specify what data is returned and how it is displayed in the report by s
 
 ## See also
 
-[How to: Create Queries by using the AOT](https://technet.microsoft.com/en-us/library/bb314753\(v=ax.60\))
+[How to: Create Queries by using the AOT](https://technet.microsoft.com/library/bb314753\(v=ax.60\))
 
-[How to: Add Multiple Data Sources to a Query](https://technet.microsoft.com/en-us/library/aa880078\(v=ax.60\))
+[How to: Add Multiple Data Sources to a Query](https://technet.microsoft.com/library/aa880078\(v=ax.60\))
 
-[How to: Create Queries by Using X++](https://technet.microsoft.com/en-us/library/aa638454\(v=ax.60\))
+[How to: Create Queries by Using X++](https://technet.microsoft.com/library/aa638454\(v=ax.60\))
 
 [How to: Override the fetch Method to Filter Data for Reports (MorphX Reporting Tools)](how-to-override-the-fetch-method-to-filter-data-for-reports-morphx-reporting-tools.md)
 
