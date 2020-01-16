@@ -8476,8 +8476,8 @@
     - name: Lifecycle Services Downloadable Tools
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/lcs-downloadable-tools-formerly-informationsource?toc=/dynamicsax-2012/appuser-itpro/toc.json
       items:
-      - name: Code Upgrade Tool User Guide
-        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/code-upgrade-tool-user-guide?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      - name: Code Upgrade Service user guide
+        href: code-upgrade-tool-user-guide.md
       - name: Intelligent Data Management Framework
         href: microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
         items:
