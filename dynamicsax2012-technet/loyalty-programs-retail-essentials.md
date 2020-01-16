@@ -2,8 +2,9 @@
 title: Loyalty programs (Retail essentials)
 TOCTitle: Loyalty programs (Retail essentials)
 ms:assetid: a63bff4a-e9ce-457c-acc2-a81027f61fca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859566(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859566(v=AX.60)
 ms:contentKeyID: 63820140
+author: Khairunj
 ms.date: 01/07/2015
 mtps_version: v=AX.60
 ---

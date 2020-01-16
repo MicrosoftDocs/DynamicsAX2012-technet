@@ -1,9 +1,10 @@
-﻿---
+---
 title: ITenderLineItemV2.SignatureData Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: SignatureData Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ITenderLineItemV2.SignatureData
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.itenderlineitemv2.signaturedata(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.itenderlineitemv2.signaturedata(v=AX.60)
 ms:contentKeyID: 49830249
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,8 +47,8 @@ property ICollection<Point>^ SignatureData {
 
 #### Property Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[Point](https://technet.microsoft.com/en-us/library/bk9hwzbw\(v=ax.60\))\>  
-Returns [ICollection\<T\>](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\)).  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[Point](https://technet.microsoft.com/library/bk9hwzbw\(v=ax.60\))\>  
+Returns [ICollection\<T\>](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\)).  
 
 ## See Also
 

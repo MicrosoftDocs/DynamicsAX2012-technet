@@ -2,8 +2,9 @@
 title: (IND) View transactions with customs duty
 TOCTitle: (IND) View transactions with customs duty
 ms:assetid: 01aa2aa1-36ae-48ba-bec2-af6739374621
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664428(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664428(v=AX.60)
 ms:contentKeyID: 49385518
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -71,15 +72,15 @@ You can use the **Customs inquiry** form to create queries that display transact
 
 ## See also
 
-[(IND) Customs inquiry (form)](https://technet.microsoft.com/en-us/library/jj664926\(v=ax.60\))
+[(IND) Customs inquiry (form)](https://technet.microsoft.com/library/jj664926\(v=ax.60\))
 
-[(IND) Customs transactions (form)](https://technet.microsoft.com/en-us/library/jj710932\(v=ax.60\))
+[(IND) Customs transactions (form)](https://technet.microsoft.com/library/jj710932\(v=ax.60\))
 
-[(IND) Totals - Customs (form)](https://technet.microsoft.com/en-us/library/jj664748\(v=ax.60\))
+[(IND) Totals - Customs (form)](https://technet.microsoft.com/library/jj664748\(v=ax.60\))
 
-[(IND) Tax components - Customs (form)](https://technet.microsoft.com/en-us/library/jj664589\(v=ax.60\))
+[(IND) Tax components - Customs (form)](https://technet.microsoft.com/library/jj664589\(v=ax.60\))
 
-[(IND) Bill of entry journal (form)](https://technet.microsoft.com/en-us/library/jj677988\(v=ax.60\))
+[(IND) Bill of entry journal (form)](https://technet.microsoft.com/library/jj677988\(v=ax.60\))
 
   
 

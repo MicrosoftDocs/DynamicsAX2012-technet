@@ -2,8 +2,9 @@
 title: (IND) Setting up TCS and TDS in Accounts receivable
 TOCTitle: (IND) Setting up TCS and TDS in Accounts receivable
 ms:assetid: 4ba65ae2-b7ed-4e41-870a-ef3fdea7d6be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664679(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664679(v=AX.60)
 ms:contentKeyID: 49385752
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

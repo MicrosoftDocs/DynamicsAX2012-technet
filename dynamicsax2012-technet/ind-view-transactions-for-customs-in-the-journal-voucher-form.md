@@ -2,8 +2,9 @@
 title: (IND) View transactions for customs in the journal voucher form
 TOCTitle: (IND) View transactions for customs in the journal voucher form
 ms:assetid: fc09683d-36b0-45a8-a932-b266b358ea92
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710984(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710984(v=AX.60)
 ms:contentKeyID: 49386397
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,13 +58,13 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 [(IND) Attach sales tax information to an Invoice pool excluding posting journal](ind-attach-sales-tax-information-to-an-invoice-pool-excluding-posting-journal.md)
 
-[(IND) Journal voucher - Invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj664791\(v=ax.60\))
+[(IND) Journal voucher - Invoice journal (modified form)](https://technet.microsoft.com/library/jj664791\(v=ax.60\))
 
-[(IND) Invoice pool excl. posting (modified form)](https://technet.microsoft.com/en-us/library/jj664595\(v=ax.60\))
+[(IND) Invoice pool excl. posting (modified form)](https://technet.microsoft.com/library/jj664595\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
 [(IND) Create transactions for customs in the Invoice pool excluding posting journal](ind-create-transactions-for-customs-in-the-invoice-pool-excluding-posting-journal.md)
 

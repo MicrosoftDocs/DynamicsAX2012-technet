@@ -2,8 +2,9 @@
 title: (JPN) Create a consolidated invoice that includes all invoice lines
 TOCTitle: (JPN) Create a consolidated invoice that includes all invoice lines
 ms:assetid: 3bb4b120-b838-4cf1-ac82-3c08260ab524
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711033(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711033(v=AX.60)
 ms:contentKeyID: 49386445
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,9 +50,9 @@ The same invoice may have a mixture of lines that are related to purchase orders
 
 ## See also
 
-[(JPN) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj711020\(v=ax.60\))
+[(JPN) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj711020\(v=ax.60\))
 
-[(JPN) Consolidated invoice (form)](https://technet.microsoft.com/en-us/library/jj711205\(v=ax.60\))
+[(JPN) Consolidated invoice (form)](https://technet.microsoft.com/library/jj711205\(v=ax.60\))
 
   
 

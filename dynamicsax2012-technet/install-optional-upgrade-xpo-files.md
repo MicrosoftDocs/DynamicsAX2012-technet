@@ -2,8 +2,9 @@
 title: Install optional upgrade XPO files
 TOCTitle: Install optional upgrade XPO files
 ms:assetid: 1f18c5d6-dddd-449b-8c11-f2cb8cf6fdfa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh286325(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh286325(v=AX.60)
 ms:contentKeyID: 36609708
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

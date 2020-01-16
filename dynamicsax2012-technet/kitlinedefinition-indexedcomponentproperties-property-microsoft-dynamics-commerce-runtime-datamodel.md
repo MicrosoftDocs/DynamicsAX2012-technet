@@ -1,9 +1,10 @@
-﻿---
+---
 title: KitLineDefinition.IndexedComponentProperties Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: IndexedComponentProperties Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.KitLineDefinition.IndexedComponentProperties
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.kitlinedefinition.indexedcomponentproperties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.kitlinedefinition.indexedcomponentproperties(v=AX.60)
 ms:contentKeyID: 62213660
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

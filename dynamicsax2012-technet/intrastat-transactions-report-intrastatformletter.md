@@ -2,8 +2,9 @@
 title: Intrastat transactions report (IntrastatFormLetter)
 TOCTitle: Intrastat transactions report (IntrastatFormLetter)
 ms:assetid: 22c0ba00-a22d-48a6-8848-57054e350862
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433484(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433484(v=AX.60)
 ms:contentKeyID: 36941244
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

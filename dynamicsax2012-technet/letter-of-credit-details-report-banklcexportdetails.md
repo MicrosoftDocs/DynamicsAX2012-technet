@@ -2,8 +2,9 @@
 title: Letter of credit details report (BankLCExportDetails)
 TOCTitle: Letter of credit details report (BankLCExportDetails)
 ms:assetid: 1781abb1-60f4-4d9c-9890-4e0d5f13198b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692457(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692457(v=AX.60)
 ms:contentKeyID: 41702352
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

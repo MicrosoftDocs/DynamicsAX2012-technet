@@ -2,8 +2,9 @@
 title: Learn about templates, functional areas, question groups, and questions in RapidStart Services
 TOCTitle: Learn about templates, functional areas, question groups, and questions in RapidStart Services
 ms:assetid: c57d2728-b8d7-4088-bf05-2ee2cf49010b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413250(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413250(v=AX.60)
 ms:contentKeyID: 36918941
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

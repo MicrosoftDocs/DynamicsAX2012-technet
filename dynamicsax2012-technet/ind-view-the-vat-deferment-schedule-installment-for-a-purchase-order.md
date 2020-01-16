@@ -2,8 +2,9 @@
 title: (IND) View the VAT deferment schedule installment for a purchase order
 TOCTitle: (IND) View the VAT deferment schedule installment for a purchase order
 ms:assetid: f28bcc76-ede0-467f-8a7d-ec05665d4934
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710926(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710926(v=AX.60)
 ms:contentKeyID: 49386339
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,13 +45,13 @@ VAT deferment installments are calculated based on the deferment schedule for th
 
 ## See also
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
-[(IND) VAT deferment transactions (form)](https://technet.microsoft.com/en-us/library/jj710922\(v=ax.60\))
+[(IND) VAT deferment transactions (form)](https://technet.microsoft.com/library/jj710922\(v=ax.60\))
 
-[(IND) Deferment schedule (form)](https://technet.microsoft.com/en-us/library/jj664609\(v=ax.60\))
+[(IND) Deferment schedule (form)](https://technet.microsoft.com/library/jj664609\(v=ax.60\))
 
-[(IND) VAT deferment balance (form)](https://technet.microsoft.com/en-us/library/jj664626\(v=ax.60\))
+[(IND) VAT deferment balance (form)](https://technet.microsoft.com/library/jj664626\(v=ax.60\))
 
 [(IND) View VAT deferment transactions](ind-view-vat-deferment-transactions.md)
 

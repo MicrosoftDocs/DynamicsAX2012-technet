@@ -2,8 +2,9 @@
 title: " International Organization for Standardization"
 TOCTitle: " International Organization for Standardization"
 ms:assetid: DynamicsAXGlossary.69029
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.69029(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.69029(v=AX.60)
 ms:contentKeyID: 36057942
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

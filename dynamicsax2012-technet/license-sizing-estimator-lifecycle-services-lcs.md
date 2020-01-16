@@ -2,8 +2,9 @@
 title: License sizing estimator (Lifecycle Services, LCS)
 TOCTitle: License sizing estimator
 ms:assetid: ac25be5b-8bee-4662-80fb-4daba94065c3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268620(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268620(v=AX.60)
 ms:contentKeyID: 54918847
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

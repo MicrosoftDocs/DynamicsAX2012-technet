@@ -2,8 +2,9 @@
 title: 'Key tasks: Set up manufacturing execution'
 TOCTitle: 'Key tasks: Set up manufacturing execution'
 ms:assetid: bdada46b-1d4e-4213-907f-20fcae1c3e85
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242779(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242779(v=AX.60)
 ms:contentKeyID: 36059158
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -77,7 +78,7 @@ Before you set up production-related parameters, you must set up the manufacturi
 
 3.  In the **Report as finished** field, select the status to display when a worker reports feedback on production jobs. This feedback is reported in the **Job registration** form.
 
-For information about other fields in this form, see [Manufacturing execution parameters (form)](https://technet.microsoft.com/en-us/library/hh209488\(v=ax.60\)).
+For information about other fields in this form, see [Manufacturing execution parameters (form)](https://technet.microsoft.com/library/hh209488\(v=ax.60\)).
 
 Back to top
 
@@ -197,7 +198,7 @@ Back to top
 16. Select the **Pick negative** check box if you want to allow for negative item consumption. If this check box is selected, items that are not yet registered in Microsoft Dynamics AX can be picked from stock.    
 
     > [!NOTE]
-    > <P>To use this option, the <STRONG>Physical negative inventory</STRONG> check box must be selected for the item model group. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa577092(v=ax.60)">Item model groups (form)</A>.</P>
+    > <P>To use this option, the <STRONG>Physical negative inventory</STRONG> check box must be selected for the item model group. For more information, see <A href="https://technet.microsoft.com/library/aa577092(v=ax.60)">Item model groups (form)</A>.</P>
 
 
 17. Select the **Complete picking list journal** check box if you want to update the status of all BOM items to **Finished picking**. This includes items that consumption has not been calculated for.
@@ -294,7 +295,7 @@ Back to top
     
       - **Always** – Always add the calculated route consumption to the route card journal.
     
-      - **Route group dependent** – Select this option if the settings on the route group determine whether calculated route group consumption should be added to the route card journal. For more information, see [Route groups (form)](https://technet.microsoft.com/en-us/library/aa596433\(v=ax.60\)). If automatic consumption of setup time and process time, and automatic reporting of the finished quantity are selected for the attached route group, a route consumption journal is generated.
+      - **Route group dependent** – Select this option if the settings on the route group determine whether calculated route group consumption should be added to the route card journal. For more information, see [Route groups (form)](https://technet.microsoft.com/library/aa596433\(v=ax.60\)). If automatic consumption of setup time and process time, and automatic reporting of the finished quantity are selected for the attached route group, a route consumption journal is generated.
 
 6.  Select the **End-mark route** check box if you want to automatically post an end marking of operations and jobs in the route card journal when you report a production order as finished.
 
@@ -468,15 +469,15 @@ Back to top
 
 ## Find form help
 
-[Manufacturing execution production parameters (form)](https://technet.microsoft.com/en-us/library/hh208822\(v=ax.60\))
+[Manufacturing execution production parameters (form)](https://technet.microsoft.com/library/hh208822\(v=ax.60\))
 
-[Time and attendance parameters (form)](https://technet.microsoft.com/en-us/library/aa634266\(v=ax.60\))
+[Time and attendance parameters (form)](https://technet.microsoft.com/library/aa634266\(v=ax.60\))
 
-[Configure registration forms (form)](https://technet.microsoft.com/en-us/library/aa616991\(v=ax.60\))
+[Configure registration forms (form)](https://technet.microsoft.com/library/aa616991\(v=ax.60\))
 
-[Allocation keys for bundled jobs (form)](https://technet.microsoft.com/en-us/library/aa586345\(v=ax.60\))
+[Allocation keys for bundled jobs (form)](https://technet.microsoft.com/library/aa586345\(v=ax.60\))
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
 ## Find related tasks
 

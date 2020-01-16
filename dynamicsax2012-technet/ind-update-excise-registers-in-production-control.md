@@ -2,8 +2,9 @@
 title: (IND) Update excise registers in production control
 TOCTitle: (IND) Update excise registers in production control
 ms:assetid: e606fe9f-2f50-42d5-bb52-d9d6883966c2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710912(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710912(v=AX.60)
 ms:contentKeyID: 49386324
+author: Khairunj
 ms.date: 11/17/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,7 +39,7 @@ The excisable goods that are manufactured and recorded in production control are
 
 ## See also
 
-[(IND) Update excise registers (form)](https://technet.microsoft.com/en-us/library/jj664654\(v=ax.60\))
+[(IND) Update excise registers (form)](https://technet.microsoft.com/library/jj664654\(v=ax.60\))
 
 [(IND) Excise registers inquiries](ind-excise-registers-inquiries.md)
 

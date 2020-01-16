@@ -2,8 +2,9 @@
 title: Installment billing configuration key (MCRInstallmentBilling)
 TOCTitle: Installment billing configuration key (MCRInstallmentBilling)
 ms:assetid: c9f2a7e0-cb0d-42df-96e8-530f000f8488
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn774949(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn774949(v=AX.60)
 ms:contentKeyID: 62617667
+author: Khairunj
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
@@ -91,7 +92,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

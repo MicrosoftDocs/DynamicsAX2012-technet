@@ -2,8 +2,9 @@
 title: (IND) Setting up the chart of accounts
 TOCTitle: (IND) Setting up the chart of accounts
 ms:assetid: ce92ad71-cb66-4744-bb79-0bc94d571c00
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664893(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664893(v=AX.60)
 ms:contentKeyID: 49386222
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

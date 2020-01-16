@@ -2,8 +2,9 @@
 title: (IND) Setting up and maintaining General ledger
 TOCTitle: (IND) Setting up and maintaining General ledger
 ms:assetid: 21f3c111-5451-41c0-9a3b-088c120dc53c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664559(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664559(v=AX.60)
 ms:contentKeyID: 49385636
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

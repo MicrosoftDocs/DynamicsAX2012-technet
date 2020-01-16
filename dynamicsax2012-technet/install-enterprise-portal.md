@@ -2,8 +2,9 @@
 title: Install Enterprise Portal
 TOCTitle: Install Enterprise Portal
 ms:assetid: 5c2b4f3d-407e-4944-b797-6adab3edfacd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731804(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731804(v=AX.60)
 ms:contentKeyID: 35132649
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

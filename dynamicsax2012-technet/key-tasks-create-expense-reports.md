@@ -2,8 +2,9 @@
 title: 'Key tasks: Create expense reports'
 TOCTitle: 'Key tasks: Create expense reports'
 ms:assetid: 742d423d-fbf4-4459-b44e-0ea5bd39ffac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271566(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271566(v=AX.60)
 ms:contentKeyID: 36384197
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

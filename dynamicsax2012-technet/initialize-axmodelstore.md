@@ -1,9 +1,10 @@
-﻿---
+---
 title: Initialize-AXModelStore
 TOCTitle: Initialize-AXModelStore
 ms:assetid: 8CDD4BDC-8B98-4AA1-AE93-CA67F3E6C807
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720267(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720267(v=AX.60)
 ms:contentKeyID: 49720056
+author: Khairunj
 ms.date: 10/24/2012
 mtps_version: v=AX.60
 ---

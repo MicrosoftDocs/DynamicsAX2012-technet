@@ -2,8 +2,9 @@
 title: (IND) Update certificate numbers and dates for withholding tax  transactions
 TOCTitle: (IND) Update certificate numbers and dates for withholding tax  transactions
 ms:assetid: 75f887e8-7719-4e7d-b168-a715216cf859
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677933(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677933(v=AX.60)
 ms:contentKeyID: 49385896
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ Use the **Update certificate** form to update the recoverable certificate number
 
 ## See also
 
-[(IND) Update certificate (form)](https://technet.microsoft.com/en-us/library/jj664755\(v=ax.60\))
+[(IND) Update certificate (form)](https://technet.microsoft.com/library/jj664755\(v=ax.60\))
 
 [(IND) Enter recoverable certificate numbers for withholding taxes](ind-enter-recoverable-certificate-numbers-for-withholding-taxes.md)
 

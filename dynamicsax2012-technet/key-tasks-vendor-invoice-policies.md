@@ -2,8 +2,9 @@
 title: 'Key tasks: Vendor invoice policies'
 TOCTitle: 'Key tasks: Vendor invoice policies'
 ms:assetid: cece6b77-79c6-43d1-9970-413da5f82465
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242911(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242911(v=AX.60)
 ms:contentKeyID: 36059472
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -106,7 +107,7 @@ Policy rule types define the document and query parameters that are used when yo
 
 4.  In the **Query name** field, select the default Application Object Tree (AOT) query to use as the starting point for developing policy rules for this policy rule type. The query indicates the source document that the policy rule type is defined for.
     
-    For information about query names, see [Policy rule type (form)](https://technet.microsoft.com/en-us/library/hh208562\(v=ax.60\)).
+    For information about query names, see [Policy rule type (form)](https://technet.microsoft.com/library/hh208562\(v=ax.60\)).
 
 5.  Create any additional policy rule types that your organization needs, and then close the form.
 
@@ -196,17 +197,17 @@ Back to top
 
 ## Find form help
 
-[Policy rule type (form)](https://technet.microsoft.com/en-us/library/hh208562\(v=ax.60\))
+[Policy rule type (form)](https://technet.microsoft.com/library/hh208562\(v=ax.60\))
 
-[Vendor invoice policies (list page)](https://technet.microsoft.com/en-us/library/hh209411\(v=ax.60\))
+[Vendor invoice policies (list page)](https://technet.microsoft.com/library/hh209411\(v=ax.60\))
 
-[Vendor invoice policy (form)](https://technet.microsoft.com/en-us/library/hh209409\(v=ax.60\))
+[Vendor invoice policy (form)](https://technet.microsoft.com/library/hh209409\(v=ax.60\))
 
-[Policy rule: Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209566\(v=ax.60\))
+[Policy rule: Vendor invoice (form)](https://technet.microsoft.com/library/hh209566\(v=ax.60\))
 
-[Accounts payable parameters (form)](https://technet.microsoft.com/en-us/library/aa596348\(v=ax.60\))
+[Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\))
 
-[Policy parameters (form)](https://technet.microsoft.com/en-us/library/hh209114\(v=ax.60\))
+[Policy parameters (form)](https://technet.microsoft.com/library/hh209114\(v=ax.60\))
 
 ## Find related tasks
 

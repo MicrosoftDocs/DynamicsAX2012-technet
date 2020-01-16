@@ -2,8 +2,9 @@
 title: 'Key tasks: Discussions'
 TOCTitle: 'Key tasks: Discussions'
 ms:assetid: c410613b-4a1f-4989-b98e-0006a32fdbfb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ966246(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ966246(v=AX.60)
 ms:contentKeyID: 51439431
+author: Khairunj
 ms.date: 09/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -99,9 +100,9 @@ Back to top
 
 ## Find form help
 
-[Discussions (form)](https://technet.microsoft.com/en-us/library/aa587357\(v=ax.60\))
+[Discussions (form)](https://technet.microsoft.com/library/aa587357\(v=ax.60\))
 
-[Mass create discussions (form)](https://technet.microsoft.com/en-us/library/hh242807\(v=ax.60\))
+[Mass create discussions (form)](https://technet.microsoft.com/library/hh242807\(v=ax.60\))
 
   
 

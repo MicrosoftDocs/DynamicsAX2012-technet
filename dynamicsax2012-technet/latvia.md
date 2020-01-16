@@ -2,8 +2,9 @@
 title: Latvia
 TOCTitle: Latvia
 ms:assetid: 57cba063-ae66-4809-8cb4-a115dbf0f546
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731024(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731024(v=AX.60)
 ms:contentKeyID: 49675263
+author: Khairunj
 ms.date: 03/22/2017
 mtps_version: v=AX.60
 audience: Application User

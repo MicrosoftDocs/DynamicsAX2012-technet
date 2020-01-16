@@ -1,9 +1,10 @@
-﻿---
+---
 title: IWishListService.RemoveItemFromWishList Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: RemoveItemFromWishList Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.IWishListService.RemoveItemFromWishList(System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.iwishlistservice.removeitemfromwishlist(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.iwishlistservice.removeitemfromwishlist(v=AX.60)
 ms:contentKeyID: 65318045
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,12 +58,12 @@ NullResponse^ RemoveItemFromWishList(
 #### Parameters
 
   - wishListId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - listingId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 

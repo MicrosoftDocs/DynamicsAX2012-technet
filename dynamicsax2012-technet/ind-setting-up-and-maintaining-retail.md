@@ -2,8 +2,9 @@
 title: (IND) Setting up and maintaining Retail
 TOCTitle: (IND) Setting up and maintaining Retail
 ms:assetid: 3397f309-bd7a-4651-bd5c-31b046672080
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn313244(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn313244(v=AX.60)
 ms:contentKeyID: 54964141
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

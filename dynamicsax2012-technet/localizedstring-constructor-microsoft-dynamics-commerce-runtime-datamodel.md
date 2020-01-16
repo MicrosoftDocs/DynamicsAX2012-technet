@@ -1,9 +1,10 @@
-﻿---
+---
 title: LocalizedString Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: LocalizedString Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.LocalizedString.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.localizedstring.localizedstring(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.localizedstring.localizedstring(v=AX.60)
 ms:contentKeyID: 62213005
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (IND) View TCS payments and transactions posted for a TCS settlement period
 TOCTitle: (IND) View TCS payments and transactions posted for a TCS settlement period
 ms:assetid: f282a803-63d6-4aef-bc33-15d75d58189d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710949(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710949(v=AX.60)
 ms:contentKeyID: 49386361
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,11 +34,11 @@ You can click **Voucher** to view the voucher entries for the TCS transaction or
 
 ## See also
 
-[(IND) Withholding tax payment (form)](https://technet.microsoft.com/en-us/library/jj677836\(v=ax.60\))
+[(IND) Withholding tax payment (form)](https://technet.microsoft.com/library/jj677836\(v=ax.60\))
 
-[(IND) Withholding tax settlement periods (form)](https://technet.microsoft.com/en-us/library/jj664719\(v=ax.60\))
+[(IND) Withholding tax settlement periods (form)](https://technet.microsoft.com/library/jj664719\(v=ax.60\))
 
-[(IND) Tax components (form)](https://technet.microsoft.com/en-us/library/jj664734\(v=ax.60\))
+[(IND) Tax components (form)](https://technet.microsoft.com/library/jj664734\(v=ax.60\))
 
   
 

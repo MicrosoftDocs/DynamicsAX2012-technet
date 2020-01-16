@@ -2,8 +2,9 @@
 title: 'Key tasks: Applicants'
 TOCTitle: 'Key tasks: Applicants'
 ms:assetid: 9908ac96-9e7c-4e8a-83f5-db76ee498cbf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597184(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597184(v=AX.60)
 ms:contentKeyID: 39519249
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -131,7 +132,7 @@ Companies typically receive many responses to job advertisements, which can make
 
 4.  Click **Select**.
 
-5.  Enter criteria to find the applicants to send an email to. For more information about how to use the inquiry form, see [Inquiry (form)](https://technet.microsoft.com/en-us/library/aa575929\(v=ax.60\)).
+5.  Enter criteria to find the applicants to send an email to. For more information about how to use the inquiry form, see [Inquiry (form)](https://technet.microsoft.com/library/aa575929\(v=ax.60\)).
 
 6.  Click **OK**.
 

@@ -2,8 +2,9 @@
 title: Invoice journal configuration key (VendInvoiceRegister)
 TOCTitle: Invoice journal configuration key (VendInvoiceRegister)
 ms:assetid: 28557176-ba54-4225-bab6-568bf1ee47df
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467545(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467545(v=AX.60)
 ms:contentKeyID: 36991692
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,11 +38,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Invoice journal</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557917(v=ax.60)">Journal header (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557917(v=ax.60)">Journal header (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Journal voucher</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616218(v=ax.60)">Journal voucher - Invoice journal (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616218(v=ax.60)">Journal voucher - Invoice journal (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -79,7 +80,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

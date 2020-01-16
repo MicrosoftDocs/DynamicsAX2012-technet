@@ -2,8 +2,9 @@
 title: (JPN) Working with Accounts payable
 TOCTitle: (JPN) Working with Accounts payable
 ms:assetid: 26fdcfc3-394a-4985-a8d6-150c7249af32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711022(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711022(v=AX.60)
 ms:contentKeyID: 49386433
+author: Khairunj
 ms.date: 01/27/2017
 mtps_version: v=AX.60
 audience: Application User

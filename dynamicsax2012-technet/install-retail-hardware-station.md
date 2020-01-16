@@ -2,8 +2,9 @@
 title: Install Retail Hardware Station
 TOCTitle: Install Retail Hardware Station
 ms:assetid: 43c7b127-15c6-4dcc-9eb2-9af2ae14af6d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741431(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741431(v=AX.60)
 ms:contentKeyID: 62219707
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

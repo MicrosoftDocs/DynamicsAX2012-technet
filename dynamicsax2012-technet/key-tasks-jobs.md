@@ -2,8 +2,9 @@
 title: 'Key tasks: Jobs'
 TOCTitle: 'Key tasks: Jobs'
 ms:assetid: c12c190f-2218-4258-a3b8-30d1794926d1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242830(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242830(v=AX.60)
 ms:contentKeyID: 36059269
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -329,15 +330,15 @@ Back to top
 
 ## Find form help
 
-[Job templates (form)](https://technet.microsoft.com/en-us/library/aa583740\(v=ax.60\))
+[Job templates (form)](https://technet.microsoft.com/library/aa583740\(v=ax.60\))
 
-[Job tasks (form)](https://technet.microsoft.com/en-us/library/aa573096\(v=ax.60\))
+[Job tasks (form)](https://technet.microsoft.com/library/aa573096\(v=ax.60\))
 
-[Job functions (form)](https://technet.microsoft.com/en-us/library/hh209705\(v=ax.60\))
+[Job functions (form)](https://technet.microsoft.com/library/hh209705\(v=ax.60\))
 
-[Job types and exempt status (form)](https://technet.microsoft.com/en-us/library/hh209312\(v=ax.60\))
+[Job types and exempt status (form)](https://technet.microsoft.com/library/hh209312\(v=ax.60\))
 
-[Job (form)](https://technet.microsoft.com/en-us/library/hh209557\(v=ax.60\))
+[Job (form)](https://technet.microsoft.com/library/hh209557\(v=ax.60\))
 
 ## Find related tasks
 

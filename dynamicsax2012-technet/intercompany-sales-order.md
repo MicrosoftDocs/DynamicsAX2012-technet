@@ -2,8 +2,9 @@
 title: " intercompany sales order"
 TOCTitle: " intercompany sales order"
 ms:assetid: DynamicsAXGlossary.253211
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.253211(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.253211(v=AX.60)
 ms:contentKeyID: 36057899
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

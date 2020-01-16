@@ -2,8 +2,9 @@
 title: (IND) Setting up depreciation
 TOCTitle: (IND) Setting up depreciation
 ms:assetid: f7aff112-440e-4556-9f53-72fea4570bf3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710947(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710947(v=AX.60)
 ms:contentKeyID: 49386360
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

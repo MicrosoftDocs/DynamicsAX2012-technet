@@ -2,8 +2,9 @@
 title: Integration with Microsoft Dynamics CRM (ProjCRMIntegration)
 TOCTitle: Integration with Microsoft Dynamics CRM (ProjCRMIntegration)
 ms:assetid: 247d8d4b-0d8e-4a69-a678-9e0193565fa6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn781485(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn781485(v=AX.60)
 ms:contentKeyID: 62807573
+author: Khairunj
 ms.date: 08/19/2014
 mtps_version: v=AX.60
 ---
@@ -73,7 +74,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

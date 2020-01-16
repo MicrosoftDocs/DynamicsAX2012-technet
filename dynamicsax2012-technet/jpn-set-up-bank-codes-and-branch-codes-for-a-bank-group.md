@@ -2,8 +2,9 @@
 title: (JPN) Set up bank codes and branch codes for a bank group
 TOCTitle: (JPN) Set up bank codes and branch codes for a bank group
 ms:assetid: 726f0e8e-e820-4f3c-a735-c6d63de7de7c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711075(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711075(v=AX.60)
 ms:contentKeyID: 49386486
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(JPN) Bank groups (modified form)](https://technet.microsoft.com/en-us/library/jj664976\(v=ax.60\))
+[(JPN) Bank groups (modified form)](https://technet.microsoft.com/library/jj664976\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (ITA) Post extraordinary depreciation for a fixed asset and generate the Fixed asset book report
 TOCTitle: (ITA) Post extraordinary depreciation for a fixed asset and generate the Fixed asset book report
 ms:assetid: 452eccac-aad5-4c1e-9227-4576e5b6854b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242380(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242380(v=AX.60)
 ms:contentKeyID: 36056891
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -29,7 +30,7 @@ First, create an extraordinary depreciation profile to set up the extraordinary 
 
 1.  Click **Fixed assets** \> **Setup** \> **Fixed asset groups**.
 
-2.  Press CTRL+N to create a new line. For more information, see [Set up fixed asset groups](set-up-fixed-asset-groups.md) and [Fixed asset groups (form)](https://technet.microsoft.com/en-us/library/aa573347\(v=ax.60\)).
+2.  Press CTRL+N to create a new line. For more information, see [Set up fixed asset groups](set-up-fixed-asset-groups.md) and [Fixed asset groups (form)](https://technet.microsoft.com/library/aa573347\(v=ax.60\)).
 
 3.  In the **Fixed asset group** field, enter the unique code for the fixed asset group.
 
@@ -65,7 +66,7 @@ First, create an extraordinary depreciation profile to set up the extraordinary 
 
 1.  Click **Fixed assets** \> **Setup** \> **Depreciation** \> **Depreciation profiles**.
 
-2.  Press CTRL+N to create a new line. For more information, see [About manual depreciation](about-manual-depreciation.md), [Create a depreciation profile](create-a-depreciation-profile.md), and [Depreciation profiles (form)](https://technet.microsoft.com/en-us/library/aa549887\(v=ax.60\)).
+2.  Press CTRL+N to create a new line. For more information, see [About manual depreciation](about-manual-depreciation.md), [Create a depreciation profile](create-a-depreciation-profile.md), and [Depreciation profiles (form)](https://technet.microsoft.com/library/aa549887\(v=ax.60\)).
 
 3.  In the **Depreciation profile** field, enter the unique code for the extraordinary depreciation profile.
 
@@ -93,7 +94,7 @@ First, create an extraordinary depreciation profile to set up the extraordinary 
 
 1.  Click **Fixed assets** \> **Journals** \> **Depreciation book journal**.
 
-2.  Press CTRL+N to create a new line. For more information, see [Depreciation books setup (form)](https://technet.microsoft.com/en-us/library/aa597721\(v=ax.60\)).
+2.  Press CTRL+N to create a new line. For more information, see [Depreciation books setup (form)](https://technet.microsoft.com/library/aa597721\(v=ax.60\)).
 
 3.  In the **Depreciation book** field, enter the unique identification for the extraordinary depreciation book.
 
@@ -139,7 +140,7 @@ First, create an extraordinary depreciation profile to set up the extraordinary 
 
 1.  Click **Fixed assets** \> **Common** \> **Fixed assets** \> **Fixed assets**.
 
-2.  In the **New** group, click **Fixed asset** to open the **Fixed assets** form. For more information, see [Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620341\(v=ax.60\)).
+2.  In the **New** group, click **Fixed asset** to open the **Fixed assets** form. For more information, see [Fixed assets (form)](https://technet.microsoft.com/library/aa620341\(v=ax.60\)).
 
 3.  Press CTRL+N to create a fixed asset.
 
@@ -159,7 +160,7 @@ First, create an extraordinary depreciation profile to set up the extraordinary 
 
 2.  Press CTRL+N to create a new line.
 
-3.  In the **Name** field, select the journal name. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+3.  In the **Name** field, select the journal name. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
 4.  Click **Lines** to open the **Journal voucher** form.
 
@@ -189,7 +190,7 @@ First, create an extraordinary depreciation profile to set up the extraordinary 
 
 2.  Press CTRL+N to create a new line.
 
-3.  In the **Name** field, select the journal name. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+3.  In the **Name** field, select the journal name. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
 4.  Click **Lines** to open the **Journal voucher** form.
 

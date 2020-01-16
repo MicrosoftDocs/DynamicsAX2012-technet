@@ -2,8 +2,9 @@
 title: (JPN) Accounts receivable
 TOCTitle: (JPN) Accounts receivable
 ms:assetid: 1ae0ea2e-a57c-48cf-ab64-babd73ebc688
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711013(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711013(v=AX.60)
 ms:contentKeyID: 49386428
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

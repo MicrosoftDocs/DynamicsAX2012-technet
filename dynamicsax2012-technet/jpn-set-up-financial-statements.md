@@ -2,8 +2,9 @@
 title: (JPN) Set up financial statements
 TOCTitle: (JPN) Set up financial statements
 ms:assetid: a4c9d3c7-1e88-42ce-8a32-e90ff830e73b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711211(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711211(v=AX.60)
 ms:contentKeyID: 49386522
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ You can set up balance sheets, profit and loss statements, and statements of cha
 
 ## See also
 
-[(JPN) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664972\(v=ax.60\))
+[(JPN) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj664972\(v=ax.60\))
 
 [(JPN) Set up and generate a cash flow statement](jpn-set-up-and-generate-a-cash-flow-statement.md)
 

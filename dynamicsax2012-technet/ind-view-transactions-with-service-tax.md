@@ -2,8 +2,9 @@
 title: (IND) View transactions with service tax
 TOCTitle: (IND) View transactions with service tax
 ms:assetid: 7a260e36-5727-4ab8-bfda-03b0a60eb158
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677928(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677928(v=AX.60)
 ms:contentKeyID: 49385871
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -67,7 +68,7 @@ You can use the **Service tax inquiry** form to view all transactions for the se
 
 ## See also
 
-[(IND) Service tax inquiry (form)](https://technet.microsoft.com/en-us/library/jj664526\(v=ax.60\))
+[(IND) Service tax inquiry (form)](https://technet.microsoft.com/library/jj664526\(v=ax.60\))
 
   
 

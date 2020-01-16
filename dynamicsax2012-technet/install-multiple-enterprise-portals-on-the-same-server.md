@@ -2,8 +2,9 @@
 title: Install multiple Enterprise Portals on the same server
 TOCTitle: Install multiple Enterprise Portals on the same server
 ms:assetid: 56af673f-1fcb-4396-90d2-7480f0ba8b0a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh328926(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh328926(v=AX.60)
 ms:contentKeyID: 36689191
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

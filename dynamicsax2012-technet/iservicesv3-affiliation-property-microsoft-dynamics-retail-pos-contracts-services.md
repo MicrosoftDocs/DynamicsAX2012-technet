@@ -1,9 +1,10 @@
-﻿---
+---
 title: IServicesV3.Affiliation Property  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: Affiliation Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IServicesV3.Affiliation
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iservicesv3.affiliation(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iservicesv3.affiliation(v=AX.60)
 ms:contentKeyID: 62205794
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

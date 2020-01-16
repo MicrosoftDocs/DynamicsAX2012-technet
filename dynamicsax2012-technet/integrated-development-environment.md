@@ -2,8 +2,9 @@
 title: " integrated development environment"
 TOCTitle: " integrated development environment"
 ms:assetid: DynamicsAXGlossary.2247
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.2247(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.2247(v=AX.60)
 ms:contentKeyID: 36057703
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

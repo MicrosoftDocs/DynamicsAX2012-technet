@@ -1,9 +1,10 @@
-﻿---
+---
 title: LoggingService.WriteTrace Method (String, String, , UInt32, String, Object ) (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: WriteTrace Method (String, String, , UInt32, String, Object )
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.LoggingService.WriteTrace(System.String,System.String,Microsoft.SharePoint.Administration.TraceSeverity,System.UInt32,System.String,System.Object[])
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.loggingservice.writetrace(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.loggingservice.writetrace(v=AX.60)
 ms:contentKeyID: 62205220
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -70,12 +71,12 @@ static void WriteTrace(
 #### Parameters
 
   - loggingServiceName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - categoryName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -85,17 +86,17 @@ static void WriteTrace(
 <!-- end list -->
 
   - id  
-    Type: [System.UInt32](https://technet.microsoft.com/en-us/library/ctys3981\(v=ax.60\))  
+    Type: [System.UInt32](https://technet.microsoft.com/library/ctys3981\(v=ax.60\))  
 
 <!-- end list -->
 
   - format  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - arg  
-    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))\[\]  
+    Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))\[\]  
 
 ## See Also
 

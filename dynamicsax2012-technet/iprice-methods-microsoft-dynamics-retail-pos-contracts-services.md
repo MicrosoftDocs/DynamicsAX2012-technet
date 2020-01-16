@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPrice Methods (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: IPrice Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPrice
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iprice_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iprice_methods(v=AX.60)
 ms:contentKeyID: 47344498
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

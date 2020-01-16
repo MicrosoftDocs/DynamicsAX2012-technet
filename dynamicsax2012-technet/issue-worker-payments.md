@@ -2,8 +2,9 @@
 title: Issue worker payments
 TOCTitle: Issue worker payments
 ms:assetid: 068274eb-0019-4374-8ec9-f644d77c64d0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677320(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677320(v=AX.60)
 ms:contentKeyID: 49384092
+author: Khairunj
 ms.date: 11/15/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -100,10 +101,10 @@ The following table shows the prerequisites that must be in place before you sta
 <td><p>Related configuration tasks</p></td>
 <td><p>You must complete these tasks before you can post payroll and generate vendor invoices:</p>
 <ul>
-<li><p>Set the <strong>Payroll clearing account</strong> field on the <strong>Calculation settings</strong> tab in the <strong>Payroll parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677433(v=ax.60)">Payroll parameters (form)</a>.</p></li>
-<li><p>Set the <strong>Check method of payment</strong>, <strong>Vendor account for worker payments</strong>, <strong>Payment journal name</strong>, and <strong>Procurement category</strong> fields on the <strong>Payment issuance</strong> tab in the <strong>Payroll parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677433(v=ax.60)">Payroll parameters (form)</a>.</p></li>
+<li><p>Set the <strong>Payroll clearing account</strong> field on the <strong>Calculation settings</strong> tab in the <strong>Payroll parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/library/jj677433(v=ax.60)">Payroll parameters (form)</a>.</p></li>
+<li><p>Set the <strong>Check method of payment</strong>, <strong>Vendor account for worker payments</strong>, <strong>Payment journal name</strong>, and <strong>Procurement category</strong> fields on the <strong>Payment issuance</strong> tab in the <strong>Payroll parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/library/jj677433(v=ax.60)">Payroll parameters (form)</a>.</p></li>
 <li><p>Before you can generate a positive pay file for payroll, you must first set up positive pay. For more information, see <a href="set-up-positive-pay.md">Set up positive pay</a>.</p></li>
-<li><p>If you generate electronic payments, make sure that the <strong>Electronic method of payment</strong> field is set on the on the <strong>Payment issuance</strong> tab in the <strong>Payroll parameters</strong> form, and that you’ve entered the bank account disbursements for each worker. For more information about worker bank account disbursements, see <a href="https://technet.microsoft.com/en-us/library/jj677398(v=ax.60)">Bank account disbursements (form)</a>.</p></li>
+<li><p>If you generate electronic payments, make sure that the <strong>Electronic method of payment</strong> field is set on the on the <strong>Payment issuance</strong> tab in the <strong>Payroll parameters</strong> form, and that you’ve entered the bank account disbursements for each worker. For more information about worker bank account disbursements, see <a href="https://technet.microsoft.com/library/jj677398(v=ax.60)">Bank account disbursements (form)</a>.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -176,7 +177,7 @@ To generate checks and electronic payments for workers, follow these steps after
 
 
 > [!WARNING]
-> <P>If you didn’t finish the bank account disbursements before the pay statements were generated, the worker will be paid by check. For more information, see <A href="https://technet.microsoft.com/en-us/library/jj677398(v=ax.60)">Bank account disbursements (form)</A>.</P>
+> <P>If you didn’t finish the bank account disbursements before the pay statements were generated, the worker will be paid by check. For more information, see <A href="https://technet.microsoft.com/library/jj677398(v=ax.60)">Bank account disbursements (form)</A>.</P>
 
 
 
@@ -327,7 +328,7 @@ Back to top
 
 ## Find form help
 
-[Journal voucher - Payroll payment journal (form)](https://technet.microsoft.com/en-us/library/jj677395\(v=ax.60\))
+[Journal voucher - Payroll payment journal (form)](https://technet.microsoft.com/library/jj677395\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (JPN) Generate payments with JBA export format
 TOCTitle: (JPN) Generate payments with JBA export format
 ms:assetid: 8a654e80-4304-4ca7-a84c-88675a84a335
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711088(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711088(v=AX.60)
 ms:contentKeyID: 49386497
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

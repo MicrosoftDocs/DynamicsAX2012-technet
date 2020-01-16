@@ -2,8 +2,9 @@
 title: 'Key tasks: Benefit eligibility policies'
 TOCTitle: 'Key tasks: Benefit eligibility policies'
 ms:assetid: 7c5cdb65-4ccd-4ec8-94f4-0a2077f749cb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677345(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677345(v=AX.60)
 ms:contentKeyID: 49384119
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,7 +66,7 @@ Policy rule types define the document and query parameters that are used when yo
 
 4.  In the **Query name** field, select the default Application Object Tree (AOT) query to use as the starting point to develop policy rules for this policy rule type. The query indicates the source document that the policy rule type is defined for.
     
-    For information about query names, see [Policy rule type (form)](https://technet.microsoft.com/en-us/library/hh208562\(v=ax.60\)).
+    For information about query names, see [Policy rule type (form)](https://technet.microsoft.com/library/hh208562\(v=ax.60\)).
 
 5.  Create any additional policy rule types that your organization needs, and then close the form.
 
@@ -151,11 +152,11 @@ Back to top
 
 ## Find form help
 
-[Benefit eligibility policy (form)](https://technet.microsoft.com/en-us/library/jj680909\(v=ax.60\))
+[Benefit eligibility policy (form)](https://technet.microsoft.com/library/jj680909\(v=ax.60\))
 
-[Benefit eligibility rules (form)](https://technet.microsoft.com/en-us/library/jj680906\(v=ax.60\))
+[Benefit eligibility rules (form)](https://technet.microsoft.com/library/jj680906\(v=ax.60\))
 
-[Policy rule type (form)](https://technet.microsoft.com/en-us/library/hh208562\(v=ax.60\))
+[Policy rule type (form)](https://technet.microsoft.com/library/hh208562\(v=ax.60\))
 
 ## Find related tasks
 

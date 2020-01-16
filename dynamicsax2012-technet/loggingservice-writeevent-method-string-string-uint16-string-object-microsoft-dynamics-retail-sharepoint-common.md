@@ -1,9 +1,10 @@
-﻿---
+---
 title: LoggingService.WriteEvent Method (String, String, , UInt16, String, Object ) (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: WriteEvent Method (String, String, , UInt16, String, Object )
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.LoggingService.WriteEvent(System.String,System.String,Microsoft.SharePoint.Administration.EventSeverity,System.UInt16,System.String,System.Object[])
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.loggingservice.writeevent(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.loggingservice.writeevent(v=AX.60)
 ms:contentKeyID: 62204039
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -70,12 +71,12 @@ static void WriteEvent(
 #### Parameters
 
   - loggingServiceName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - categoryName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -85,17 +86,17 @@ static void WriteEvent(
 <!-- end list -->
 
   - id  
-    Type: [System.UInt16](https://technet.microsoft.com/en-us/library/s6eyk10z\(v=ax.60\))  
+    Type: [System.UInt16](https://technet.microsoft.com/library/s6eyk10z\(v=ax.60\))  
 
 <!-- end list -->
 
   - format  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - arg  
-    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))\[\]  
+    Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))\[\]  
 
 ## See Also
 

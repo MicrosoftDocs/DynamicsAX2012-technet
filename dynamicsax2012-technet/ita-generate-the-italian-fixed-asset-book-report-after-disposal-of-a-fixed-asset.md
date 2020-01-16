@@ -2,8 +2,9 @@
 title: (ITA) Generate the Italian fixed asset book report after disposal of a fixed asset
 TOCTitle: (ITA) Generate the Italian fixed asset book report after disposal of a fixed asset
 ms:assetid: ceff3382-7b0d-496b-9f16-1b2fe1e0436a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242912(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242912(v=AX.60)
 ms:contentKeyID: 36059473
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ Before acquiring an asset, set up the following information:
 <td><p>Create a manual method of depreciation, using two manual schedules, each with depreciation of 50%.</p></td>
 <td><ul>
 <li><p><a href="create-a-depreciation-profile.md">Create a depreciation profile</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/aa549887(v=ax.60)">Depreciation profiles (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/aa549887(v=ax.60)">Depreciation profiles (form)</a></p></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -74,7 +75,7 @@ Before acquiring an asset, set up the following information:
 <tr class="odd">
 <td><p>Create a fixed asset</p></td>
 <td><p>Select the fixed asset group.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620341(v=ax.60)">Fixed assets (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620341(v=ax.60)">Fixed assets (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -84,13 +85,13 @@ Before acquiring an asset, set up the following information:
 
 When you acquire an asset, you must create and post an invoice journal for depreciation. For more information, see [About options for entering fixed asset transactions](about-options-for-entering-fixed-asset-transactions.md) and [About assets acquired through procurement](about-assets-acquired-through-procurement.md).
 
-Click **General ledger** \> **Setup** \> **Journals** \> **Journal names**. Use this form to create a journal name before you acquire an asset and specify the **Journal type** as **Vendor invoice recording**. For more information, see [Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\)).
+Click **General ledger** \> **Setup** \> **Journals** \> **Journal names**. Use this form to create a journal name before you acquire an asset and specify the **Journal type** as **Vendor invoice recording**. For more information, see [Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\)).
 
 1.  Click **Accounts payable** \> **Journals** \> **Invoices** \> **Invoice journal**.
 
-2.  Press CTRL+N to create a new journal line. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+2.  Press CTRL+N to create a new journal line. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
-3.  In the **Name** field, select the acquisition journal name and then click **Lines** to open the **Journal voucher** form. For more information, see [Journal voucher - Invoice journal (form)](https://technet.microsoft.com/en-us/library/aa616218\(v=ax.60\)).
+3.  In the **Name** field, select the acquisition journal name and then click **Lines** to open the **Journal voucher** form. For more information, see [Journal voucher - Invoice journal (form)](https://technet.microsoft.com/library/aa616218\(v=ax.60\)).
 
 4.  In the **Date** field, enter the posting date. The voucher number is generated and displayed in the **Voucher** field.
 
@@ -110,9 +111,9 @@ Click **General ledger** \> **Setup** \> **Journals** \> **Journal names**. Use 
 
 1.  Click **Fixed assets** \> **Journals** \> **Depreciation book journal**.
 
-2.  Press CTRL+N to create a new line. For more details, see [Depreciation book journal (form)](https://technet.microsoft.com/en-us/library/aa634765\(v=ax.60\)).
+2.  Press CTRL+N to create a new line. For more details, see [Depreciation book journal (form)](https://technet.microsoft.com/library/aa634765\(v=ax.60\)).
 
-3.  In the **Name** field, select the relevant journal name and then click **Lines** to open the **Journal line** form. For more information, see [Journal line (form)](https://technet.microsoft.com/en-us/library/hh209722\(v=ax.60\)).
+3.  In the **Name** field, select the relevant journal name and then click **Lines** to open the **Journal line** form. For more information, see [Journal line (form)](https://technet.microsoft.com/library/hh209722\(v=ax.60\)).
 
 4.  Click **Proposals** \> **Depreciation proposal** to open the **Depreciation proposal** form.
 

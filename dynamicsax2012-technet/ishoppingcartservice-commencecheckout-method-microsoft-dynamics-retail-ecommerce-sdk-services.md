@@ -1,9 +1,10 @@
-﻿---
+---
 title: IShoppingCartService.CommenceCheckout Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: CommenceCheckout Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.IShoppingCartService.CommenceCheckout(Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.ShoppingCartDataLevel)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.ishoppingcartservice.commencecheckout(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.ishoppingcartservice.commencecheckout(v=AX.60)
 ms:contentKeyID: 65317291
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

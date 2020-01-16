@@ -1,9 +1,10 @@
-﻿---
+---
 title: InventoryManager.SyncStockCountJournal Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: SyncStockCountJournal Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.InventoryManager.SyncStockCountJournal
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.inventorymanager.syncstockcountjournal(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.inventorymanager.syncstockcountjournal(v=AX.60)
 ms:contentKeyID: 62206193
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ ReadOnlyCollection<StockCountJournal^>^ SyncStockCountJournal()
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[StockCountJournal](stockcountjournal-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[StockCountJournal](stockcountjournal-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 Returns the collection of Stock Count journal from RetailServer Db.  
 
 ## See Also

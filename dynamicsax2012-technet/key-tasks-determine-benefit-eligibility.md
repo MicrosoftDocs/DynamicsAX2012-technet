@@ -2,8 +2,9 @@
 title: 'Key tasks: Determine benefit eligibility'
 TOCTitle: 'Key tasks: Determine benefit eligibility'
 ms:assetid: 22762fd9-a19d-4899-a01e-3fa1dc4b0245
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ680903(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ680903(v=AX.60)
 ms:contentKeyID: 49624324
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -218,13 +219,13 @@ Back to top
 
 ## Find form help
 
-[Eligibility event details (form)](https://technet.microsoft.com/en-us/library/jj677453\(v=ax.60\))
+[Eligibility event details (form)](https://technet.microsoft.com/library/jj677453\(v=ax.60\))
 
-[Benefits (form)](https://technet.microsoft.com/en-us/library/jj680907\(v=ax.60\))
+[Benefits (form)](https://technet.microsoft.com/library/jj680907\(v=ax.60\))
 
-[Workers (form)](https://technet.microsoft.com/en-us/library/aa583961\(v=ax.60\))
+[Workers (form)](https://technet.microsoft.com/library/aa583961\(v=ax.60\))
 
-[Event processing results (form)](https://technet.microsoft.com/en-us/library/jj677429\(v=ax.60\))
+[Event processing results (form)](https://technet.microsoft.com/library/jj677429\(v=ax.60\))
 
 ## Find related tasks
 

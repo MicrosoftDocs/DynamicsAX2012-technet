@@ -2,8 +2,9 @@
 title: (IND) TDS statement (report)
 TOCTitle: (IND) TDS statement (report)
 ms:assetid: 9a1cd764-8851-4f75-93d8-18a6a5466ced
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ969579(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ969579(v=AX.60)
 ms:contentKeyID: 51554465
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

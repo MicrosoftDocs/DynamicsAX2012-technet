@@ -2,8 +2,9 @@
 title: 'Key tasks: Manage category requests from vendors'
 TOCTitle: 'Key tasks: Manage category requests from vendors'
 ms:assetid: 2abe85e7-d779-418a-8a98-4d021738a62e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735273(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ735273(v=AX.60)
 ms:contentKeyID: 49693274
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -103,15 +104,15 @@ Use this procedure to view the workflow history for a vendor category request. T
 
 1.  Click **Procurement and sourcing** \> **Common** \> **Vendor requests** \> **Vendor requests**. On the **Vendor requests** list page, open a request that has a request type of **Category**.
 
-2.  In the **Vendor category approval** form, in the workflow message bar, click **Actions** \> **View history**. For more information, see [Workflow history (form)](https://technet.microsoft.com/en-us/library/hh597256\(v=ax.60\)).
+2.  In the **Vendor category approval** form, in the workflow message bar, click **Actions** \> **View history**. For more information, see [Workflow history (form)](https://technet.microsoft.com/library/hh597256\(v=ax.60\)).
 
 Back to top
 
 ## Find form help
 
-[Vendor category approval (form)](https://technet.microsoft.com/en-us/library/hh227618\(v=ax.60\))
+[Vendor category approval (form)](https://technet.microsoft.com/library/hh227618\(v=ax.60\))
 
-[Vendor requests (list page)](https://technet.microsoft.com/en-us/library/hh242710\(v=ax.60\))
+[Vendor requests (list page)](https://technet.microsoft.com/library/hh242710\(v=ax.60\))
 
   
 

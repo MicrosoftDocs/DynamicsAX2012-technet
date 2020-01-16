@@ -2,8 +2,9 @@
 title: 'Key tasks: Customer payments and settlements'
 TOCTitle: 'Key tasks: Customer payments and settlements'
 ms:assetid: 18919f74-3ef6-4911-952b-549b206ae7ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208443(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208443(v=AX.60)
 ms:contentKeyID: 36056101
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ Use this procedure if you want to enter payment and settlement information in th
 
 4.  In the **Enter customer payment information** field group, enter information about the payment.
 
-5.  If the **Mark by priority** button is available, you can click this button to mark all debit transactions for settlement. The transactions are marked according to the settlement priority that is specified in the **Accounts receivable parameters** form. For more information about this button, see [Enter customer payments (form)](https://technet.microsoft.com/en-us/library/hh209561\(v=ax.60\)).
+5.  If the **Mark by priority** button is available, you can click this button to mark all debit transactions for settlement. The transactions are marked according to the settlement priority that is specified in the **Accounts receivable parameters** form. For more information about this button, see [Enter customer payments (form)](https://technet.microsoft.com/library/hh209561\(v=ax.60\)).
 
 6.  If the **Mark invoice lines** button is available when you select an invoice, you can click this button to open the **Mark invoice lines** form. Use this form to mark individual transaction lines for settlement and modify the amounts to settle for those lines.
 
@@ -97,7 +98,7 @@ Use this procedure if you know which customer account the payment is for, or if 
 
 6.  To see whether the payment causes a discount for the customer for a specific invoice, select the invoice line, and then click the **Cash discount** tab. If a discount applies, it will be automatically subtracted from the original invoice amount when the payment line is created in step 9.
 
-7.  If the **Mark by priority** button is available, you can click this button to mark all debit transactions for settlement, according to the settlement priority that is specified in the **Accounts receivable parameters** form. For more information about this button, see [Settle open transactions - customer (form)](https://technet.microsoft.com/en-us/library/aa558602\(v=ax.60\))
+7.  If the **Mark by priority** button is available, you can click this button to mark all debit transactions for settlement, according to the settlement priority that is specified in the **Accounts receivable parameters** form. For more information about this button, see [Settle open transactions - customer (form)](https://technet.microsoft.com/library/aa558602\(v=ax.60\))
 
 8.  If the **Mark invoice lines** button is available when you select an invoice, you can click this button to open the **Mark invoice lines** form. Use this form to mark individual transaction lines for settlement and modify the amounts to settle for those lines.
 
@@ -107,7 +108,7 @@ Use this procedure if you know which customer account the payment is for, or if 
     
 
     > [!NOTE]
-    > <P>If you cannot post an invoice and you receive a message that mentions posting restrictions, you might be able to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
+    > <P>If you cannot post an invoice and you receive a message that mentions posting restrictions, you might be able to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
 
 
 
@@ -159,9 +160,9 @@ Back to top
 
 ## Find form help
 
-[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/en-us/library/aa556141\(v=ax.60\))
+[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/library/aa556141\(v=ax.60\))
 
-[Enter customer payments (form)](https://technet.microsoft.com/en-us/library/hh209561\(v=ax.60\))
+[Enter customer payments (form)](https://technet.microsoft.com/library/hh209561\(v=ax.60\))
 
 ## Find related tasks
 

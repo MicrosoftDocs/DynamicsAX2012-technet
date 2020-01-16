@@ -1,9 +1,10 @@
-﻿---
+---
 title: IStoreProductAvailabilityService.GetListingAvailableQuantities Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: GetListingAvailableQuantities Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.IStoreProductAvailabilityService.GetListingAvailableQuantities(System.Collections.Generic.IEnumerable{System.Int64})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.istoreproductavailabilityservice.getlistingavailablequantities(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.istoreproductavailabilityservice.getlistingavailablequantities(v=AX.60)
 ms:contentKeyID: 65316843
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ ListingAvailableQuantityResponse^ GetListingAvailableQuantities(
 #### Parameters
 
   - listingIds  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 
 #### Return Value
 

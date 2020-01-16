@@ -2,8 +2,9 @@
 title: (IND) View transactions in the general journal
 TOCTitle: (IND) View transactions in the general journal
 ms:assetid: e5b0af3c-6e08-40aa-a409-3dc9f0814f8a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710910(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710910(v=AX.60)
 ms:contentKeyID: 49386322
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,13 +70,13 @@ You can view or edit the transferred information from the tax journal to the jou
 
 ## See also
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
 [(IND) Setting up Value Added Tax (VAT)](ind-setting-up-value-added-tax-vat.md)
 
-[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/en-us/library/jj678053\(v=ax.60\))
+[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/library/jj678053\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
 [(IND) Create a tax journal for customs](ind-create-a-tax-journal-for-customs.md)
 

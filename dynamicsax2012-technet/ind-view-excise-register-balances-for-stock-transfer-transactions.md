@@ -2,8 +2,9 @@
 title: (IND) View excise register balances for stock transfer transactions
 TOCTitle: (IND) View excise register balances for stock transfer transactions
 ms:assetid: ebe1211b-be23-4041-980e-998129bfc4fd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710931(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710931(v=AX.60)
 ms:contentKeyID: 49386343
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -26,7 +27,7 @@ Use these steps to view excise register balances for stock transfer orders.
     > <P>You can identify stock transfer orders by the value in the <STRONG>Transfer type</STRONG> field. The field displays <STRONG>Stock transfer</STRONG> instead of <STRONG>Transfer order</STRONG>.</P>
 
     
-    For more information about the **Transfer orders** form, see [Transfer orders (form)](https://technet.microsoft.com/en-us/library/aa634530\(v=ax.60\)).
+    For more information about the **Transfer orders** form, see [Transfer orders (form)](https://technet.microsoft.com/library/aa634530\(v=ax.60\)).
 
 3.  In the lower pane, on the **Lines** tab, select a line item.
 

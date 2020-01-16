@@ -2,8 +2,9 @@
 title: 'Key tasks: Manage category requests from employees'
 TOCTitle: 'Key tasks: Manage category requests from employees'
 ms:assetid: e304e9ef-0efa-4e21-b86b-6a5b3a364dd5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735275(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ735275(v=AX.60)
 ms:contentKeyID: 49693276
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -95,7 +96,7 @@ The selected reviewer is notified via workflow to review the request.
 
 2.  In the **Vendor category request** form, in the workflow message bar, click **Actions** \> **View history**.
 
-The workflow history includes information about who created the workflow work item, the time and date when the work item was created, a list of actions associated with the work item, and any comments that were entered during the workflow process. For more information, see [Workflow history (form)](https://technet.microsoft.com/en-us/library/hh597256\(v=ax.60\)).
+The workflow history includes information about who created the workflow work item, the time and date when the work item was created, a list of actions associated with the work item, and any comments that were entered during the workflow process. For more information, see [Workflow history (form)](https://technet.microsoft.com/library/hh597256\(v=ax.60\)).
 
 Back to top
 
@@ -151,15 +152,15 @@ The selected reviewer is notified via workflow to review the vendor category con
 
 2.  In the **Vendor category request** form, in the workflow message bar, click **Actions** \> **View history**.
 
-The workflow history includes information about who created the workflow work item, the time and date when the work item was created, a list of actions associated with the work item, and any comments that were entered during the workflow process. For more information, see [Workflow history (form)](https://technet.microsoft.com/en-us/library/hh597256\(v=ax.60\)).
+The workflow history includes information about who created the workflow work item, the time and date when the work item was created, a list of actions associated with the work item, and any comments that were entered during the workflow process. For more information, see [Workflow history (form)](https://technet.microsoft.com/library/hh597256\(v=ax.60\)).
 
 Back to top
 
 ## Find form help
 
-[Vendor category request (form)](https://technet.microsoft.com/en-us/library/hh227509\(v=ax.60\))
+[Vendor category request (form)](https://technet.microsoft.com/library/hh227509\(v=ax.60\))
 
-[Vendor category approval (form)](https://technet.microsoft.com/en-us/library/hh227618\(v=ax.60\))
+[Vendor category approval (form)](https://technet.microsoft.com/library/hh227618\(v=ax.60\))
 
 ## Find related tasks
 

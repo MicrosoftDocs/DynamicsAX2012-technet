@@ -2,8 +2,9 @@
 title: Learn about the end-to-end provisioning process in RapidStart Services
 TOCTitle: Learn about the end-to-end provisioning process in RapidStart Services
 ms:assetid: 24093995-4271-4a98-b659-c9056710e43b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn193988(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn193988(v=AX.60)
 ms:contentKeyID: 52348243
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

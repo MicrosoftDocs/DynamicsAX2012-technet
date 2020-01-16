@@ -2,8 +2,9 @@
 title: Lead analysis report (smmLeadsAnalysis)
 TOCTitle: Lead analysis report (smmLeadsAnalysis)
 ms:assetid: cd6d9c9f-b565-41b0-bfc6-9ab2fe264224
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh412255(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh412255(v=AX.60)
 ms:contentKeyID: 36916367
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (ITA) Compress the Intrastat transactions and generate the Intrastat report
 TOCTitle: (ITA) Compress the Intrastat transactions and generate the Intrastat report
 ms:assetid: e629e4da-db15-4a01-8611-6d2c286a20b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227455(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227455(v=AX.60)
 ms:contentKeyID: 36059798
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ Use the following procedures to set up Intrastat parameters, compress Intrastat 
 
 ## Set up Intrastat parameters
 
-Use the **Foreign trade parameters** form to set up compression for the transactions in the Intrastat report. For more information, see [Intrastat (form)](https://technet.microsoft.com/en-us/library/aa619055\(v=ax.60\)).
+Use the **Foreign trade parameters** form to set up compression for the transactions in the Intrastat report. For more information, see [Intrastat (form)](https://technet.microsoft.com/library/aa619055\(v=ax.60\)).
 
 1.  Click **Organization administration** \> **Setup** \> **Foreign trade** \> **Foreign trade parameters**.
 
@@ -69,9 +70,9 @@ You can generate the Intrastat report that contains the compressed transactions 
 
 [About Intrastat](about-intrastat.md)
 
-[Compression of Intrastat (form)](https://technet.microsoft.com/en-us/library/aa584795\(v=ax.60\))
+[Compression of Intrastat (form)](https://technet.microsoft.com/library/aa584795\(v=ax.60\))
 
-[(ITA) Make diskette for Intrastat in Italian layout (class form)](https://technet.microsoft.com/en-us/library/aa587754\(v=ax.60\))
+[(ITA) Make diskette for Intrastat in Italian layout (class form)](https://technet.microsoft.com/library/aa587754\(v=ax.60\))
 
   
 

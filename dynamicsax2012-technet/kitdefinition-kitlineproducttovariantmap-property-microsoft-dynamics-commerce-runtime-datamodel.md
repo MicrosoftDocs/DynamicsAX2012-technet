@@ -1,9 +1,10 @@
-﻿---
+---
 title: KitDefinition.KitLineProductToVariantMap Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: KitLineProductToVariantMap Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.KitDefinition.KitLineProductToVariantMap
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.kitdefinition.kitlineproducttovariantmap(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.kitdefinition.kitlineproducttovariantmap(v=AX.60)
 ms:contentKeyID: 62202483
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property ICollection<ComponentKitVariantSet^>^ KitLineProductToVariantMap {
 
 #### Property Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[ComponentKitVariantSet](componentkitvariantset-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Returns [ICollection\<T\>](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\)).  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[ComponentKitVariantSet](componentkitvariantset-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Returns [ICollection\<T\>](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\)).  
 
 ## See Also
 

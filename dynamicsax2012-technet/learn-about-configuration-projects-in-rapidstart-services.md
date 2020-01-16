@@ -2,8 +2,9 @@
 title: Learn about configuration projects in RapidStart Services
 TOCTitle: Learn about configuration projects in RapidStart Services
 ms:assetid: 2b3bc542-74b9-4b39-8a94-b8340c3d8c31
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn193989(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn193989(v=AX.60)
 ms:contentKeyID: 52348269
+author: Khairunj
 ms.date: 09/23/2015
 mtps_version: v=AX.60
 f1_keywords:

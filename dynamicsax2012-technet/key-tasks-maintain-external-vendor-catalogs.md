@@ -2,8 +2,9 @@
 title: 'Key tasks: Maintain external vendor catalogs'
 TOCTitle: 'Key tasks: Maintain external vendor catalogs'
 ms:assetid: b1bce455-9743-41b6-a53f-f04abbdc50cb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242747(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242747(v=AX.60)
 ms:contentKeyID: 36059054
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -150,9 +151,9 @@ Back to top
 
 ## Find form help
 
-[External catalogs (list page)](https://technet.microsoft.com/en-us/library/hh208570\(v=ax.60\))
+[External catalogs (list page)](https://technet.microsoft.com/library/hh208570\(v=ax.60\))
 
-[Maintain details for an external catalog (form)](https://technet.microsoft.com/en-us/library/hh242254\(v=ax.60\))
+[Maintain details for an external catalog (form)](https://technet.microsoft.com/library/hh242254\(v=ax.60\))
 
 ## Find related tasks
 

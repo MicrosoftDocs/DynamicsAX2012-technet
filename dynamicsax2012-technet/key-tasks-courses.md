@@ -2,8 +2,9 @@
 title: 'Key tasks: Courses'
 TOCTitle: 'Key tasks: Courses'
 ms:assetid: 8f5d3c5d-c3b6-4742-8de6-716c3defc6c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677350(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677350(v=AX.60)
 ms:contentKeyID: 49384124
+author: Khairunj
 ms.date: 09/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,7 +66,7 @@ Before workers can register for courses, you must create a course record for eac
 
 2.  On the **Action Pane**, click **Courses**.
 
-3.  Select the type of course and organizer for the course. For more information about course types, see [Course types (form)](https://technet.microsoft.com/en-us/library/aa618160\(v=ax.60\)).
+3.  Select the type of course and organizer for the course. For more information about course types, see [Course types (form)](https://technet.microsoft.com/library/aa618160\(v=ax.60\)).
 
 4.  In the **Setup** field, select the course setup. You can select from the following options:
     
@@ -143,7 +144,7 @@ You can enter a unique description for a course or you can use the description e
 
 5.  To enter a unique description for the selected course, type your text in the **Courses** field.
     
-    To reuse the description from the course type of the selected course, click **Retrieve from type** to copy the text that is specified for the course type. For more information, see [Course types (form)](https://technet.microsoft.com/en-us/library/aa618160\(v=ax.60\)).
+    To reuse the description from the course type of the selected course, click **Retrieve from type** to copy the text that is specified for the course type. For more information, see [Course types (form)](https://technet.microsoft.com/library/aa618160\(v=ax.60\)).
 
 Back to top
 
@@ -273,13 +274,13 @@ Back to top
 
 ## Find form help
 
-[Course types (form)](https://technet.microsoft.com/en-us/library/aa618160\(v=ax.60\))
+[Course types (form)](https://technet.microsoft.com/library/aa618160\(v=ax.60\))
 
-[Course groups (form)](https://technet.microsoft.com/en-us/library/aa585035\(v=ax.60\))
+[Course groups (form)](https://technet.microsoft.com/library/aa585035\(v=ax.60\))
 
-[Course locations (form)](https://technet.microsoft.com/en-us/library/aa616795\(v=ax.60\))
+[Course locations (form)](https://technet.microsoft.com/library/aa616795\(v=ax.60\))
 
-[Course participants (form)](https://technet.microsoft.com/en-us/library/aa558397\(v=ax.60\))
+[Course participants (form)](https://technet.microsoft.com/library/aa558397\(v=ax.60\))
 
 ## Find related tasks
 

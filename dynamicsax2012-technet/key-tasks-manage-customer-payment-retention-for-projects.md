@@ -2,8 +2,9 @@
 title: 'Key tasks: Manage customer payment retention for projects'
 TOCTitle: 'Key tasks: Manage customer payment retention for projects'
 ms:assetid: f25015ab-14b9-4a9a-9836-cc0d38980896
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh351824(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh351824(v=AX.60)
 ms:contentKeyID: 36676419
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,11 +63,11 @@ Click these links to find more information about the concepts that are discussed
 
 Before you can set up payment retention terms for a project, you must complete the following tasks:
 
-  - Set up a general ledger account for posting customer payment retention amounts. For more information, [Accounts for automatic transactions (form)](https://technet.microsoft.com/en-us/library/aa548973\(v=ax.60\)).
+  - Set up a general ledger account for posting customer payment retention amounts. For more information, [Accounts for automatic transactions (form)](https://technet.microsoft.com/library/aa548973\(v=ax.60\)).
 
-  - Define a project category for customer payment retention transactions. This category must have a **Fee** category type. For more information, see [Project categories (form)](https://technet.microsoft.com/en-us/library/aa582118\(v=ax.60\)).
+  - Define a project category for customer payment retention transactions. This category must have a **Fee** category type. For more information, see [Project categories (form)](https://technet.microsoft.com/library/aa582118\(v=ax.60\)).
 
-  - Set up a number sequence for customer payment retention terms. A document number is automatically assigned when you create new customer payment retention terms. For more information, see [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\)).
+  - Set up a number sequence for customer payment retention terms. A document number is automatically assigned when you create new customer payment retention terms. For more information, see [Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\)).
 
 Back to top
 
@@ -156,13 +157,13 @@ Back to top
 
 ## Find form help
 
-[Customer payment retention terms (form)](https://technet.microsoft.com/en-us/library/hh208591\(v=ax.60\))
+[Customer payment retention terms (form)](https://technet.microsoft.com/library/hh208591\(v=ax.60\))
 
-[Inquire customer retained payments (form)](https://technet.microsoft.com/en-us/library/hh209406\(v=ax.60\))
+[Inquire customer retained payments (form)](https://technet.microsoft.com/library/hh209406\(v=ax.60\))
 
-[Request for customer retained amount (form)](https://technet.microsoft.com/en-us/library/hh209691\(v=ax.60\))
+[Request for customer retained amount (form)](https://technet.microsoft.com/library/hh209691\(v=ax.60\))
 
-[Invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa615408\(v=ax.60\))
+[Invoice proposals (form)](https://technet.microsoft.com/library/aa615408\(v=ax.60\))
 
 ## Find related tasks
 

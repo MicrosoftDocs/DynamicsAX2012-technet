@@ -1,9 +1,10 @@
-﻿---
+---
 title: InsertSalesTransactionTablesDataRequest.InvoiceTable Property  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: InvoiceTable Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.InsertSalesTransactionTablesDataRequest.InvoiceTable
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.insertsalestransactiontablesdatarequest.invoicetable(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.insertsalestransactiontablesdatarequest.invoicetable(v=AX.60)
 ms:contentKeyID: 65321089
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Invoice turnover report (VendInvoiceVolume)
 TOCTitle: Invoice turnover report (VendInvoiceVolume)
 ms:assetid: b2b279fa-b16f-4ed4-af36-bec1faea2e5e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa556369(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa556369(v=AX.60)
 ms:contentKeyID: 37832029
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (IND) Working with Procurement and sourcing
 TOCTitle: (IND) Working with Procurement and sourcing
 ms:assetid: 67a7e72a-2f4a-436c-bab6-51aa12e9425d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677880(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677880(v=AX.60)
 ms:contentKeyID: 49385845
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

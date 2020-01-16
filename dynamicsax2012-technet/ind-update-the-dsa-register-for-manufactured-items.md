@@ -2,8 +2,9 @@
 title: (IND) Update the DSA register for manufactured items
 TOCTitle: (IND) Update the DSA register for manufactured items
 ms:assetid: 1d16de20-34e7-44a2-bf59-4538b6b77efc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664535(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664535(v=AX.60)
 ms:contentKeyID: 49385616
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,7 +64,7 @@ In Microsoft Dynamics AX 2012, items and products are referred to interchangeabl
 
 ## See also
 
-[(IND) DSA details (form)](https://technet.microsoft.com/en-us/library/jj664573\(v=ax.60\))
+[(IND) DSA details (form)](https://technet.microsoft.com/library/jj664573\(v=ax.60\))
 
   
 

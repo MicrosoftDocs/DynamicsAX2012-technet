@@ -2,8 +2,9 @@
 title: Liquidate, extend, or cancel a letter of guarantee
 TOCTitle: Liquidate, extend, or cancel a letter of guarantee
 ms:assetid: fbcadb03-13c6-4a10-aa41-927a44b84e1e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227572(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227572(v=AX.60)
 ms:contentKeyID: 36060083
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -148,7 +149,7 @@ When the purpose of the letter of guarantee no longer applies, you can end the a
 
 [Increase or decrease the letter of guarantee value](increase-or-decrease-the-letter-of-guarantee-value.md)
 
-[Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
+[Letter of guarantee (form)](https://technet.microsoft.com/library/hh227662\(v=ax.60\))
 
   
 

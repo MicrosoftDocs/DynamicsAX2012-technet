@@ -1,9 +1,10 @@
-﻿---
+---
 title: ITaxCodeV1.TaxBase Property  (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects)
 TOCTitle: TaxBase Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects.ITaxCodeV1.TaxBase
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businessobjects.itaxcodev1.taxbase(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businessobjects.itaxcodev1.taxbase(v=AX.60)
 ms:contentKeyID: 47128029
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

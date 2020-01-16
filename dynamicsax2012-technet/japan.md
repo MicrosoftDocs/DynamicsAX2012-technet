@@ -2,8 +2,9 @@
 title: Japan
 TOCTitle: Japan
 ms:assetid: c452afbe-3643-4854-8542-ec069553840a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664963(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664963(v=AX.60)
 ms:contentKeyID: 49386547
+author: Khairunj
 ms.date: 03/22/2017
 mtps_version: v=AX.60
 audience: Application User

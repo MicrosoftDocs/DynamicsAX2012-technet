@@ -2,8 +2,9 @@
 title: (ISL) Update vendor invoice declarations and generate the report
 TOCTitle: (ISL) Update vendor invoice declarations and generate the report
 ms:assetid: cccf1d59-5017-4986-ba85-69acac56f94f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242905(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242905(v=AX.60)
 ms:contentKeyID: 36059455
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -164,17 +165,17 @@ In the **Vendor invoice declaration report** you can view the following informat
 
 ## See also
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
-[Journal voucher - General journal (form)](https://technet.microsoft.com/en-us/library/aa591466\(v=ax.60\))
+[Journal voucher - General journal (form)](https://technet.microsoft.com/library/aa591466\(v=ax.60\))
 
-[Journal voucher - Invoice journal (form)](https://technet.microsoft.com/en-us/library/aa616218\(v=ax.60\))
+[Journal voucher - Invoice journal (form)](https://technet.microsoft.com/library/aa616218\(v=ax.60\))
 
-[Journal voucher - Invoice register (form)](https://technet.microsoft.com/en-us/library/aa575517\(v=ax.60\))
+[Journal voucher - Invoice register (form)](https://technet.microsoft.com/library/aa575517\(v=ax.60\))
 
-[Expense journal (form)](https://technet.microsoft.com/en-us/library/aa600976\(v=ax.60\))
+[Expense journal (form)](https://technet.microsoft.com/library/aa600976\(v=ax.60\))
 
-[Vendor invoice pool excluding posting details (form)](https://technet.microsoft.com/en-us/library/bb314782\(v=ax.60\))
+[Vendor invoice pool excluding posting details (form)](https://technet.microsoft.com/library/bb314782\(v=ax.60\))
 
   
 

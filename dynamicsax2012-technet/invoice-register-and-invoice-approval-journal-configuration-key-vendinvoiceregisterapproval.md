@@ -2,8 +2,9 @@
 title: Invoice register and invoice approval journal configuration key (VendInvoiceRegisterApproval)
 TOCTitle: Invoice register and invoice approval journal configuration key (VendInvoiceRegisterApproval)
 ms:assetid: 582aeb4a-47a3-4d5c-891d-34533d857bd6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467550(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467550(v=AX.60)
 ms:contentKeyID: 36991697
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,27 +38,27 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Invoice approval journal</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557917(v=ax.60)">Journal header (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557917(v=ax.60)">Journal header (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Invoice pool</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa554816(v=ax.60)">Invoice pool (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa554816(v=ax.60)">Invoice pool (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Invoice register</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557917(v=ax.60)">Journal header (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557917(v=ax.60)">Journal header (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Journal voucher</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa498954(v=ax.60)">Journal voucher - Invoice approval journal (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa498954(v=ax.60)">Journal voucher - Invoice approval journal (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Journal voucher</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa575517(v=ax.60)">Journal voucher - Invoice register (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa575517(v=ax.60)">Journal voucher - Invoice register (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Vendor invoices in invoice pool excluding posting</strong> list page</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/bb314782(v=ax.60)">Vendor invoice pool excluding posting details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/bb314782(v=ax.60)">Vendor invoice pool excluding posting details (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -95,7 +96,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: LevelStatusDelegate Delegate (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: LevelStatusDelegate Delegate
 ms:assetid: T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.LevelStatusDelegate
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.levelstatusdelegate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.levelstatusdelegate(v=AX.60)
 ms:contentKeyID: 47344075
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,32 +71,32 @@ public delegate void LevelStatusDelegate(
 <!-- end list -->
 
   - denomination  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 <!-- end list -->
 
   - numberOf  
-    Type: [System.Int16](https://technet.microsoft.com/en-us/library/e07e6fds\(v=ax.60\))  
+    Type: [System.Int16](https://technet.microsoft.com/library/e07e6fds\(v=ax.60\))  
 
 <!-- end list -->
 
   - typeString  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - denominationString  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - warningMessage  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - extInfo  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

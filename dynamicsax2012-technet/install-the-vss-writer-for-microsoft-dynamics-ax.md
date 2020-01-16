@@ -2,8 +2,9 @@
 title: Install the VSS writer for Microsoft Dynamics AX
 TOCTitle: Install the VSS writer for Microsoft Dynamics AX
 ms:assetid: cac0e744-8a85-48a9-9499-4e0fa66b0e27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507084(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507084(v=AX.60)
 ms:contentKeyID: 59623132
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

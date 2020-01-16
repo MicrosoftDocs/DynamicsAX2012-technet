@@ -2,8 +2,9 @@
 title: (JPN) Cash and bank management
 TOCTitle: (JPN) Cash and bank management
 ms:assetid: ab513fe3-cb01-469d-bcd9-7835b94a8f6c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711219(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711219(v=AX.60)
 ms:contentKeyID: 49386530
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

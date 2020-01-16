@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPrintingV1.PrintCreditMemoBalance Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: PrintCreditMemoBalance Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPrintingV1.PrintCreditMemoBalance(Microsoft.Dynamics.Retail.Pos.Contracts.Services.FormType,System.Decimal,System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iprintingv1.printcreditmemobalance(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iprintingv1.printcreditmemobalance(v=AX.60)
 ms:contentKeyID: 47343914
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -64,12 +65,12 @@ void PrintCreditMemoBalance(
 <!-- end list -->
 
   - balance  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 <!-- end list -->
 
   - copyReceipt  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

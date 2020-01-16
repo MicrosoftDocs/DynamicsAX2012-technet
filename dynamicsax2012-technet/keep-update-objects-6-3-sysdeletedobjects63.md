@@ -2,8 +2,9 @@
 title: Keep update objects 6.3 (SysDeletedObjects63)
 TOCTitle: Keep update objects 6.3 (SysDeletedObjects63)
 ms:assetid: 6590cf6a-8e59-46fa-bc6a-56eba745f2d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn793968(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn793968(v=AX.60)
 ms:contentKeyID: 62632376
+author: Khairunj
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
@@ -53,7 +54,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

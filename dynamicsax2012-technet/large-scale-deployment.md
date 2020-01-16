@@ -2,8 +2,9 @@
 title: Large-scale deployment
 TOCTitle: Large-scale deployment
 ms:assetid: 745d6a4c-a973-4da5-a35f-571890d11336
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309717(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309717(v=AX.60)
 ms:contentKeyID: 39555370
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

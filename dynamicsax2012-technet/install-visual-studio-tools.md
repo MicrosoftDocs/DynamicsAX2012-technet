@@ -2,8 +2,9 @@
 title: Install Visual Studio Tools
 TOCTitle: Install Visual Studio Tools
 ms:assetid: 03fbd4fd-0e0e-48d6-bf02-a0e600883a37
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309576(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309576(v=AX.60)
 ms:contentKeyID: 35132529
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -13,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Visual Studio Tools integrate the development of Microsoft Dynamics AX with Microsoft Visual Studio. Developers can use these tools to create managed code that accesses X++ objects. Developers can also use the tools to create or modify controls for Enterprise Portal for Microsoft Dynamics AX and reports for Microsoft SQL Server Reporting Services. For more information about Visual Studio Tools, see [Visual Studio Development for Microsoft Dynamics AX](https://technet.microsoft.com/en-us/library/gg889157\(v=ax.60\)).
+Visual Studio Tools integrate the development of Microsoft Dynamics AX with Microsoft Visual Studio. Developers can use these tools to create managed code that accesses X++ objects. Developers can also use the tools to create or modify controls for Enterprise Portal for Microsoft Dynamics AX and reports for Microsoft SQL Server Reporting Services. For more information about Visual Studio Tools, see [Visual Studio Development for Microsoft Dynamics AX](https://technet.microsoft.com/library/gg889157\(v=ax.60\)).
 
 
 > [!NOTE]
@@ -69,7 +70,7 @@ Use this procedure to install Visual Studio Tools. If you install other Microsof
 
 ## See also
 
-[Visual Studio Integration](https://technet.microsoft.com/en-us/library/gg889299\(v=ax.60\))
+[Visual Studio Integration](https://technet.microsoft.com/library/gg889299\(v=ax.60\))
 
   
 

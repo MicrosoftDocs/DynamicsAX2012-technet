@@ -2,8 +2,9 @@
 title: (JPN) Settle customer consolidated invoices by using a payment proposal
 TOCTitle: (JPN) Settle customer consolidated invoices by using a payment proposal
 ms:assetid: 121c408e-a706-4fa1-88cd-1754f8d70aae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711007(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711007(v=AX.60)
 ms:contentKeyID: 49386420
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Japan
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the **Customer payment proposal** form to settle open transactions that are related to consolidated invoices after you have received payment from a customer. A customer consolidated invoice may include an amount from a letter of credit. You cannot delete a consolidated invoice after it has been settled. For more information, see [(JPN) Customer payment proposal (modified form)](https://technet.microsoft.com/en-us/library/jj711015\(v=ax.60\)).
+Use the **Customer payment proposal** form to settle open transactions that are related to consolidated invoices after you have received payment from a customer. A customer consolidated invoice may include an amount from a letter of credit. You cannot delete a consolidated invoice after it has been settled. For more information, see [(JPN) Customer payment proposal (modified form)](https://technet.microsoft.com/library/jj711015\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Journals** \> **Payments** \> **Payment journal**.
 
@@ -55,9 +56,9 @@ Use the **Customer payment proposal** form to settle open transactions that are 
 
 [(JPN) Settle customer consolidated invoices by using a payment journal](jpn-settle-customer-consolidated-invoices-by-using-a-payment-journal.md)
 
-[Customer payment proposal - Edit (form)](https://technet.microsoft.com/en-us/library/aa554074\(v=ax.60\))
+[Customer payment proposal - Edit (form)](https://technet.microsoft.com/library/aa554074\(v=ax.60\))
 
-[Export letter of credit/import collection (form)](https://technet.microsoft.com/en-us/library/hh208689\(v=ax.60\))
+[Export letter of credit/import collection (form)](https://technet.microsoft.com/library/hh208689\(v=ax.60\))
 
   
 

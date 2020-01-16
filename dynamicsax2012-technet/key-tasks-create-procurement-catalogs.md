@@ -2,8 +2,9 @@
 title: 'Key tasks: Create procurement catalogs'
 TOCTitle: 'Key tasks: Create procurement catalogs'
 ms:assetid: 9be99b02-2681-42a0-95d9-c5c558385118
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209429(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209429(v=AX.60)
 ms:contentKeyID: 36058720
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -416,15 +417,15 @@ Back to top
 
 ## Find form help
 
-[Catalogs (form)](https://technet.microsoft.com/en-us/library/hh209683\(v=ax.60\))
+[Catalogs (form)](https://technet.microsoft.com/library/hh209683\(v=ax.60\))
 
-[Procurement catalogs (list page)](https://technet.microsoft.com/en-us/library/hh227514\(v=ax.60\))
+[Procurement catalogs (list page)](https://technet.microsoft.com/library/hh227514\(v=ax.60\))
 
-[Add new external catalog link (form)](https://technet.microsoft.com/en-us/library/hh227381\(v=ax.60\))
+[Add new external catalog link (form)](https://technet.microsoft.com/library/hh227381\(v=ax.60\))
 
-[Add new vendors (form)](https://technet.microsoft.com/en-us/library/hh209492\(v=ax.60\))
+[Add new vendors (form)](https://technet.microsoft.com/library/hh209492\(v=ax.60\))
 
-[Add products (form)](https://technet.microsoft.com/en-us/library/hh208984\(v=ax.60\))
+[Add products (form)](https://technet.microsoft.com/library/hh208984\(v=ax.60\))
 
 ## Find related tasks
 

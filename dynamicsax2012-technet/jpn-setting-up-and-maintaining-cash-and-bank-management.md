@@ -2,8 +2,9 @@
 title: (JPN) Setting up and maintaining Cash and bank management
 TOCTitle: (JPN) Setting up and maintaining Cash and bank management
 ms:assetid: cbcbeac4-1f3b-4180-a80f-72df6c4fee06
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664968(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664968(v=AX.60)
 ms:contentKeyID: 49386552
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

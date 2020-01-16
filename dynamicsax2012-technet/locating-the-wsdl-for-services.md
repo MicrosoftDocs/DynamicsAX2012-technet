@@ -1,9 +1,10 @@
-﻿---
+---
 title: Locating the WSDL for Services
 TOCTitle: Locating the WSDL for Services
 ms:assetid: 0705736a-315b-4e5c-bb85-aabefc93af7b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg843514(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg843514(v=AX.60)
 ms:contentKeyID: 35240315
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (JPN) Set up the terms of payment and the cutoff day for a vendor
 TOCTitle: (JPN) Set up the terms of payment and the cutoff day for a vendor
 ms:assetid: 5b57da09-9b75-44b1-8e4d-875295b2130f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711058(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711058(v=AX.60)
 ms:contentKeyID: 49386469
+author: Khairunj
 ms.date: 01/21/2017
 mtps_version: v=AX.60
 audience: Application User
@@ -15,9 +16,9 @@ ms.search.region: Japan
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the **Terms of payment** form to set up the cutoff day and payment day for a vendor. For more information, see [(JPN) Terms of payment (modified form)](https://technet.microsoft.com/en-us/library/jj711223\(v=ax.60\)).
+Use the **Terms of payment** form to set up the cutoff day and payment day for a vendor. For more information, see [(JPN) Terms of payment (modified form)](https://technet.microsoft.com/library/jj711223\(v=ax.60\)).
 
-You can set up a cutoff day in the **Terms of payment** form to calculate the due date for a vendor based on the payment days that you have defined by using the **Payment days** form. For more information, see [Payment days (form)](https://technet.microsoft.com/en-us/library/aa553269\(v=ax.60\)).
+You can set up a cutoff day in the **Terms of payment** form to calculate the due date for a vendor based on the payment days that you have defined by using the **Payment days** form. For more information, see [Payment days (form)](https://technet.microsoft.com/library/aa553269\(v=ax.60\)).
 
 1.  Click **Accounts payable** \> **Setup** \> **Payment** \> **Terms of payment**.
 

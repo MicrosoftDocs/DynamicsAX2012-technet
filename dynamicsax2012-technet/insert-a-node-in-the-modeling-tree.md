@@ -2,8 +2,9 @@
 title: Insert a node in the modeling tree
 TOCTitle: Insert a node in the modeling tree
 ms:assetid: 71001b13-0990-47f3-a23a-33455e0ce225
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571309(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571309(v=AX.60)
 ms:contentKeyID: 36058063
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

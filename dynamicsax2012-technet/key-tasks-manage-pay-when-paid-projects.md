@@ -2,8 +2,9 @@
 title: 'Key tasks: Manage pay-when-paid projects'
 TOCTitle: 'Key tasks: Manage pay-when-paid projects'
 ms:assetid: 092d5135-8e25-47f2-bee0-e7d17d71bcd7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh351817(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh351817(v=AX.60)
 ms:contentKeyID: 36676365
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -105,11 +106,11 @@ Back to top
 
 ## Find form help
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
-[Vendor invoices with pay when paid (form)](https://technet.microsoft.com/en-us/library/hh227358\(v=ax.60\))
+[Vendor invoices with pay when paid (form)](https://technet.microsoft.com/library/hh227358\(v=ax.60\))
 
 ## Find related tasks
 

@@ -2,8 +2,9 @@
 title: (JPN) Fixed asset depreciation
 TOCTitle: (JPN) Fixed asset depreciation
 ms:assetid: e350ea42-7c24-4f06-843b-8a2d04ca028d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn385849(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn385849(v=AX.60)
 ms:contentKeyID: 56558353
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

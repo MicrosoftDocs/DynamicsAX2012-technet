@@ -2,8 +2,9 @@
 title: 'Install Commerce Data Exchange: Async Server'
 TOCTitle: 'Install Commerce Data Exchange: Async Server'
 ms:assetid: 70b699fc-909d-47af-9c4e-09d9a75ccd57
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741219(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741219(v=AX.60)
 ms:contentKeyID: 62219107
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

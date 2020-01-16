@@ -2,8 +2,9 @@
 title: 'Key tasks: Free text invoices'
 TOCTitle: 'Key tasks: Free text invoices'
 ms:assetid: 1a677114-5983-4d48-8d00-4ab9ae531cd1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208454(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208454(v=AX.60)
 ms:contentKeyID: 36056120
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -167,11 +168,11 @@ Back to top
 
 ## Find form help
 
-[Free text invoice (form)](https://technet.microsoft.com/en-us/library/aa556897\(v=ax.60\))
+[Free text invoice (form)](https://technet.microsoft.com/library/aa556897\(v=ax.60\))
 
-[Charges transactions (form)](https://technet.microsoft.com/en-us/library/aa633876\(v=ax.60\))
+[Charges transactions (form)](https://technet.microsoft.com/library/aa633876\(v=ax.60\))
 
-[Free text invoice totals (form)](https://technet.microsoft.com/en-us/library/aa597310\(v=ax.60\))
+[Free text invoice totals (form)](https://technet.microsoft.com/library/aa597310\(v=ax.60\))
 
 ## Find related tasks
 

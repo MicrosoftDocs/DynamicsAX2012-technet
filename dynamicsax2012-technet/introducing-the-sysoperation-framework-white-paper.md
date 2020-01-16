@@ -2,8 +2,9 @@
 title: Introducing the SysOperation Framework (White paper)
 TOCTitle: Introducing the SysOperation Framework
 ms:assetid: 203592c6-041d-4429-bfaf-71838ef170f7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh881828(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh881828(v=AX.60)
 ms:contentKeyID: 45769250
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

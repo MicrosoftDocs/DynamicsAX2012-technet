@@ -2,8 +2,9 @@
 title: (JPN) Mark sales invoices for consolidation and calculate due dates
 TOCTitle: (JPN) Mark sales invoices for consolidation and calculate due dates
 ms:assetid: b7cf6ea2-e148-4ead-8bbd-7cc738341386
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664957(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664957(v=AX.60)
 ms:contentKeyID: 49386541
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,9 +58,9 @@ You can consolidate several sales invoices each month. You must mark the sales i
 
 [(JPN) About consolidating invoices](jpn-about-consolidating-invoices.md)
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
-[(JPN) Terms of payment (modified form)](https://technet.microsoft.com/en-us/library/jj711223\(v=ax.60\))
+[(JPN) Terms of payment (modified form)](https://technet.microsoft.com/library/jj711223\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Items in quarantine report (InventQuarantineOrder)
 TOCTitle: Items in quarantine report (InventQuarantineOrder)
 ms:assetid: c7068d7a-683c-495c-b34e-23ce68324095
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209581(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209581(v=AX.60)
 ms:contentKeyID: 36060409
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -135,7 +136,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 [About quarantine orders](about-quarantine-orders.md)
 
-[Quarantine order (form)](https://technet.microsoft.com/en-us/library/aa554073\(v=ax.60\))
+[Quarantine order (form)](https://technet.microsoft.com/library/aa554073\(v=ax.60\))
 
   
 

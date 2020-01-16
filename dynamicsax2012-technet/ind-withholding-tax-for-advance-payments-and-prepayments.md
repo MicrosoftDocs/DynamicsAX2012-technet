@@ -2,8 +2,9 @@
 title: (IND) Withholding tax for advance payments and prepayments
 TOCTitle: (IND) Withholding tax for advance payments and prepayments
 ms:assetid: 3659c0dd-43c0-43ea-a190-da4a4c9751db
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664610(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664610(v=AX.60)
 ms:contentKeyID: 49385688
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ For example, if the invoice amount is INR 100,000, and the total TDS amount is I
 
 ## See also
 
-[(IND) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664793\(v=ax.60\))
+[(IND) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj664793\(v=ax.60\))
 
   
 
