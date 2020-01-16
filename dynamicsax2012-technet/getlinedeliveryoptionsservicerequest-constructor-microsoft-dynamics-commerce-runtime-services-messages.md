@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetLineDeliveryOptionsServiceRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: GetLineDeliveryOptionsServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetLineDeliveryOptionsServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction,System.Collections.Generic.ICollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesLine},Microsoft.Dynamics.Commerce.Runtime.DataModel.Address)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getlinedeliveryoptionsservicerequest.getlinedeliveryoptionsservicerequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getlinedeliveryoptionsservicerequest.getlinedeliveryoptionsservicerequest(v=AX.60)
 ms:contentKeyID: 65320103
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,7 +63,7 @@ GetLineDeliveryOptionsServiceRequest(
 <!-- end list -->
 
   - salesLines  
-    Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[SalesLine](salesline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[SalesLine](salesline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 <!-- end list -->
 

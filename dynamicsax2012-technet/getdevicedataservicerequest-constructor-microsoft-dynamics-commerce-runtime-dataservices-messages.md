@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetDeviceDataServiceRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: GetDeviceDataServiceRequest Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetDeviceDataServiceRequest.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getdevicedataservicerequest.getdevicedataservicerequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getdevicedataservicerequest.getdevicedataservicerequest(v=AX.60)
 ms:contentKeyID: 65317269
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

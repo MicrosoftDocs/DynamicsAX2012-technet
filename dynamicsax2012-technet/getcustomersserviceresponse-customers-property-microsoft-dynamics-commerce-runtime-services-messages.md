@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetCustomersServiceResponse.Customers Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: Customers Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCustomersServiceResponse.Customers
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getcustomersserviceresponse.customers(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getcustomersserviceresponse.customers(v=AX.60)
 ms:contentKeyID: 49838608
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property ReadOnlyCollection<Customer^>^ Customers {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[Customer](customer-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\)).  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[Customer](customer-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/library/ms132474\(v=ax.60\)).  
 
 ## See Also
 

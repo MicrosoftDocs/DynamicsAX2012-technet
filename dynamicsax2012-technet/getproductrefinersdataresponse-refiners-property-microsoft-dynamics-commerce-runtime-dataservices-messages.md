@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetProductRefinersDataResponse.Refiners Property  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: Refiners Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetProductRefinersDataResponse.Refiners
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getproductrefinersdataresponse.refiners(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getproductrefinersdataresponse.refiners(v=AX.60)
 ms:contentKeyID: 65321498
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,8 +50,8 @@ property ReadOnlyCollection<ProductRefiner^>^ Refiners {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[ProductRefiner](productrefiner-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\)).  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[ProductRefiner](productrefiner-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/library/ms132474\(v=ax.60\)).  
 
 ## See Also
 

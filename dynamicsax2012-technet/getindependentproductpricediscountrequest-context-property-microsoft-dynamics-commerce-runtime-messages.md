@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetIndependentProductPriceDiscountRequest.Context Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: Context Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetIndependentProductPriceDiscountRequest.Context
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getindependentproductpricediscountrequest.context(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getindependentproductpricediscountrequest.context(v=AX.60)
 ms:contentKeyID: 65322649
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

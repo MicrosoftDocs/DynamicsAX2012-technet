@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetOperationPermissionsRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetOperationPermissionsRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetOperationPermissionsRequest.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getoperationpermissionsrequest.getoperationpermissionsrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getoperationpermissionsrequest.getoperationpermissionsrequest(v=AX.60)
 ms:contentKeyID: 62213123
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

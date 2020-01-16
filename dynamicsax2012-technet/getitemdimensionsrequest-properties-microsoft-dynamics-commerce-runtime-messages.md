@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetItemDimensionsRequest Properties (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetItemDimensionsRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetItemDimensionsRequest
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getitemdimensionsrequest_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getitemdimensionsrequest_properties(v=AX.60)
 ms:contentKeyID: 62212074
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

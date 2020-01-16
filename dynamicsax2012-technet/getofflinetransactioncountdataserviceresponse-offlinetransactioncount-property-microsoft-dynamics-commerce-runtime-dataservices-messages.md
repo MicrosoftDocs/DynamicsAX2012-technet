@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetOfflineTransactionCountDataServiceResponse.OfflineTransactionCount Property  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: OfflineTransactionCount Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetOfflineTransactionCountDataServiceResponse.OfflineTransactionCount
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getofflinetransactioncountdataserviceresponse.offlinetransactioncount(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getofflinetransactioncountdataserviceresponse.offlinetransactioncount(v=AX.60)
 ms:contentKeyID: 65319731
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property int OfflineTransactionCount {
 
 #### Property Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
-Returns [Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\)).  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
+Returns [Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\)).  
 
 ## See Also
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetOrdersRequest Constructor (SalesOrderSearchCriteria, QueryResultSettings) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetOrdersRequest Constructor (SalesOrderSearchCriteria, QueryResultSettings)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetOrdersRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesOrderSearchCriteria,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getordersrequest.getordersrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getordersrequest.getordersrequest(v=AX.60)
 ms:contentKeyID: 65321600
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

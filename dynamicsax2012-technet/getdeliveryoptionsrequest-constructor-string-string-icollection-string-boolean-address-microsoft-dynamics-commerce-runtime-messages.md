@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetDeliveryOptionsRequest Constructor (String, String, ICollection(String), Boolean, Address) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetDeliveryOptionsRequest Constructor (String, String, ICollection(String), Boolean, Address)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetDeliveryOptionsRequest.#ctor(System.String,System.String,System.Collections.Generic.ICollection{System.String},System.Boolean,Microsoft.Dynamics.Commerce.Runtime.DataModel.Address)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getdeliveryoptionsrequest.getdeliveryoptionsrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getdeliveryoptionsrequest.getdeliveryoptionsrequest(v=AX.60)
 ms:contentKeyID: 62211177
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -66,22 +67,22 @@ GetDeliveryOptionsRequest(
 #### Parameters
 
   - cartId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - customerAccountNumber  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - cartLineIds  
-    Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 
 <!-- end list -->
 
   - fetchDeliveryOptionsForLines  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 

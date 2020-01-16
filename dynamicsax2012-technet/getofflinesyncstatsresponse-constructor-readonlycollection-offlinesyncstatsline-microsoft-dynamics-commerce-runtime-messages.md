@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetOfflineSyncStatsResponse Constructor (ReadOnlyCollection(OfflineSyncStatsLine)) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetOfflineSyncStatsResponse Constructor (ReadOnlyCollection(OfflineSyncStatsLine))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetOfflineSyncStatsResponse.#ctor(System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.OfflineSyncStatsLine})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getofflinesyncstatsresponse.getofflinesyncstatsresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getofflinesyncstatsresponse.getofflinesyncstatsresponse(v=AX.60)
 ms:contentKeyID: 65323059
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -46,7 +47,7 @@ GetOfflineSyncStatsResponse(
 #### Parameters
 
   - offlineSyncStats  
-    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[OfflineSyncStatsLine](offlinesyncstatsline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[OfflineSyncStatsLine](offlinesyncstatsline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 
