@@ -2,8 +2,9 @@
 title: Specify Role Center web site
 TOCTitle: Specify Role Center web site
 ms:assetid: 0b1fa8d4-f7f4-4306-b100-1ac9751cb5a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309582(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309582(v=AX.60)
 ms:contentKeyID: 35132535
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,7 +32,7 @@ Use this information to specify which web site will host the Role Centers.
 
 ## See also
 
-[Administration of web sites (form)](https://technet.microsoft.com/en-us/library/aa500124\(v=ax.60\))
+[Administration of web sites (form)](https://technet.microsoft.com/library/aa500124\(v=ax.60\))
 
   
 

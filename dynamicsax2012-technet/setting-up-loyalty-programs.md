@@ -2,8 +2,9 @@
 title: Setting up loyalty programs
 TOCTitle: Setting up loyalty programs
 ms:assetid: ba3ab4a6-e79a-445a-b00d-382f28729de3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597221(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597221(v=AX.60)
 ms:contentKeyID: 39519293
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

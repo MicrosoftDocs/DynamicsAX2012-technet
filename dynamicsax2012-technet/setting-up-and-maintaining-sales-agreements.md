@@ -2,8 +2,9 @@
 title: Setting up and maintaining sales agreements
 TOCTitle: Setting up and maintaining sales agreements
 ms:assetid: b6c0697e-de19-4eb8-b716-0d4c88056abb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh803019(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh803019(v=AX.60)
 ms:contentKeyID: 44081032
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

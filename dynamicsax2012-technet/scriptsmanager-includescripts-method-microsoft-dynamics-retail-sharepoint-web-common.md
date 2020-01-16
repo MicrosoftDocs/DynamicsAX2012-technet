@@ -1,9 +1,10 @@
-﻿---
+---
 title: ScriptsManager.IncludeScripts Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Common)
 TOCTitle: IncludeScripts Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Common.ScriptsManager.IncludeScripts(System.Web.UI.Page)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.common.scriptsmanager.includescripts(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.scriptsmanager.includescripts(v=AX.60)
 ms:contentKeyID: 62205047
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ static void IncludeScripts(
 #### Parameters
 
   - page  
-    Type: [System.Web.UI.Page](https://technet.microsoft.com/en-us/library/dfbt9et1\(v=ax.60\))  
+    Type: [System.Web.UI.Page](https://technet.microsoft.com/library/dfbt9et1\(v=ax.60\))  
 
 ## See Also
 

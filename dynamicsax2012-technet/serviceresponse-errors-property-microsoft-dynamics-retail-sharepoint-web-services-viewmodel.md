@@ -1,9 +1,10 @@
-﻿---
+---
 title: ServiceResponse.Errors Property  (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel)
 TOCTitle: Errors Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ServiceResponse.Errors
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.serviceresponse.errors(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.serviceresponse.errors(v=AX.60)
 ms:contentKeyID: 62204817
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property List<ResponseError^>^ Errors {
 
 #### Property Value
 
-Type: [System.Collections.Generic.List](https://technet.microsoft.com/en-us/library/6sh2ey19\(v=ax.60\))\<[ResponseError](responseerror-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)\>  
-Returns [List\<T\>](https://technet.microsoft.com/en-us/library/6sh2ey19\(v=ax.60\)).  
+Type: [System.Collections.Generic.List](https://technet.microsoft.com/library/6sh2ey19\(v=ax.60\))\<[ResponseError](responseerror-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)\>  
+Returns [List\<T\>](https://technet.microsoft.com/library/6sh2ey19\(v=ax.60\)).  
 
 ## See Also
 

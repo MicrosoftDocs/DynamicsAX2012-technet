@@ -2,8 +2,9 @@
 title: Set up an external vendor catalog
 TOCTitle: Set up an external vendor catalog
 ms:assetid: d27577ea-e1c5-4990-b279-86fd440d0a9a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242924(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242924(v=AX.60)
 ms:contentKeyID: 36059505
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -143,9 +144,9 @@ Before you can set up access to the vendor’s external catalog site, you must s
 
 [Key tasks: Create procurement catalogs](key-tasks-create-procurement-catalogs.md)
 
-[Maintain details for an external catalog (form)](https://technet.microsoft.com/en-us/library/hh242254\(v=ax.60\))
+[Maintain details for an external catalog (form)](https://technet.microsoft.com/library/hh242254\(v=ax.60\))
 
-[External catalogs (list page)](https://technet.microsoft.com/en-us/library/hh208570\(v=ax.60\))
+[External catalogs (list page)](https://technet.microsoft.com/library/hh208570\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Set up funding limits for funding sources in a project contract
 TOCTitle: Set up funding limits for funding sources in a project contract
 ms:assetid: 535daff1-4068-4616-a339-009fe4259d1a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208951(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208951(v=AX.60)
 ms:contentKeyID: 36057295
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ You can set up funding limits on the **Project contracts** details form. For exa
 
 [Configure funding allocation priorities](configure-funding-allocation-priorities.md)
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
   
 

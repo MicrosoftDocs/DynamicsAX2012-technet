@@ -2,8 +2,9 @@
 title: Set up conditional sales taxes
 TOCTitle: Set up conditional sales taxes
 ms:assetid: 138f044a-9262-4577-9fe0-583e221e3776
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496600(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496600(v=AX.60)
 ms:contentKeyID: 36676369
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

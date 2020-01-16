@@ -2,8 +2,9 @@
 title: Set up continuity programs
 TOCTitle: Set up continuity programs
 ms:assetid: 8dc715f2-862e-4c0b-8521-66b29b7a6d03
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497801(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497801(v=AX.60)
 ms:contentKeyID: 62200115
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -138,7 +139,7 @@ To create a continuity program, follow these steps.
     </tr>
     <tr class="even">
     <td><p><strong>Payment schedule</strong></p></td>
-    <td><p>The payment schedule to use to invoice continuity orders. For information about payment schedules, see <a href="https://technet.microsoft.com/en-us/library/aa572068(v=ax.60)">Payment schedules (form)</a>.</p>
+    <td><p>The payment schedule to use to invoice continuity orders. For information about payment schedules, see <a href="https://technet.microsoft.com/library/aa572068(v=ax.60)">Payment schedules (form)</a>.</p>
     <p>Using a payment schedule is optional. You can also bill up front.</p></td>
     </tr>
     <tr class="odd">
@@ -213,7 +214,7 @@ To create a continuity program, follow these steps.
     </tr>
     <tr class="odd">
     <td><p><strong>Date interval code</strong></p></td>
-    <td><p>The code for the date interval that determines the timing of an event. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa558459(v=ax.60)">Date intervals (form)</a>.</p></td>
+    <td><p>The code for the date interval that determines the timing of an event. For more information, see <a href="https://technet.microsoft.com/library/aa558459(v=ax.60)">Date intervals (form)</a>.</p></td>
     </tr>
     <tr class="even">
     <td><p><strong>Days from last</strong></p></td>

@@ -2,8 +2,9 @@
 title: Set up discount periods (Retail essentials)
 TOCTitle: Set up discount periods (Retail essentials)
 ms:assetid: 108f0ef7-57c3-4e32-b12c-a0c6b343e090
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716045(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716045(v=AX.60)
 ms:contentKeyID: 62200309
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

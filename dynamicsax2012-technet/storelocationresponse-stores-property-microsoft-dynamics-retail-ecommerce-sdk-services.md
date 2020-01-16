@@ -1,9 +1,10 @@
-﻿---
+---
 title: StoreLocationResponse.Stores Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: Stores Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.StoreLocationResponse.Stores
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.storelocationresponse.stores(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.storelocationresponse.stores(v=AX.60)
 ms:contentKeyID: 65318025
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property Collection<StoreLocation^>^ Stores {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[StoreLocation](storelocation-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
+Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/library/ms132397\(v=ax.60\))\<[StoreLocation](storelocation-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
 
 ## See Also
 

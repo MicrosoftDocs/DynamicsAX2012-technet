@@ -2,8 +2,9 @@
 title: Scheduling warehouse activities
 TOCTitle: Scheduling warehouse activities
 ms:assetid: ce3f62fd-ea48-4066-83d9-986c0f3a77e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213676(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213676(v=AX.60)
 ms:contentKeyID: 36059467
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

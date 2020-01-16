@@ -2,8 +2,9 @@
 title: Setting up and maintaining routes
 TOCTitle: Setting up and maintaining routes
 ms:assetid: 656ce915-62a3-4824-8b46-f62a2c607897
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231549(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231549(v=AX.60)
 ms:contentKeyID: 36057745
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

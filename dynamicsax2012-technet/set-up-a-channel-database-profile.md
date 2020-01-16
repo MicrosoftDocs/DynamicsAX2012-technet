@@ -2,8 +2,9 @@
 title: Set up a channel database profile
 TOCTitle: Set up a channel database profile
 ms:assetid: 03e67a5d-792b-4d3f-9122-21eab9cd6b61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn621049(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn621049(v=AX.60)
 ms:contentKeyID: 62200199
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

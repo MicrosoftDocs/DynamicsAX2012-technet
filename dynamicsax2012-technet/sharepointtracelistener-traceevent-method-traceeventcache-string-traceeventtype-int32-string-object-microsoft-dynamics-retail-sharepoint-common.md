@@ -1,9 +1,10 @@
-﻿---
+---
 title: SharePointTraceListener.TraceEvent Method (TraceEventCache, String, TraceEventType, Int32, String, Object ) (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: TraceEvent Method (TraceEventCache, String, TraceEventType, Int32, String, Object )
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.SharePointTraceListener.TraceEvent(System.Diagnostics.TraceEventCache,System.String,System.Diagnostics.TraceEventType,System.Int32,System.String,System.Object[])
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.sharepointtracelistener.traceevent(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.sharepointtracelistener.traceevent(v=AX.60)
 ms:contentKeyID: 62207024
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -70,32 +71,32 @@ virtual void TraceEvent(
 #### Parameters
 
   - eventCache  
-    Type: [System.Diagnostics.TraceEventCache](https://technet.microsoft.com/en-us/library/9369bzbf\(v=ax.60\))  
+    Type: [System.Diagnostics.TraceEventCache](https://technet.microsoft.com/library/9369bzbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - source  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - eventType  
-    Type: [System.Diagnostics.TraceEventType](https://technet.microsoft.com/en-us/library/5t134hfw\(v=ax.60\))  
+    Type: [System.Diagnostics.TraceEventType](https://technet.microsoft.com/library/5t134hfw\(v=ax.60\))  
 
 <!-- end list -->
 
   - id  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 <!-- end list -->
 
   - format  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - args  
-    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))\[\]  
+    Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))\[\]  
 
 ## See Also
 

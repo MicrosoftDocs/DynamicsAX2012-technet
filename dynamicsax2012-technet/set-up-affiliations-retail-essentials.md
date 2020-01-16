@@ -2,8 +2,9 @@
 title: Set up affiliations (Retail essentials)
 TOCTitle: Set up affiliations (Retail essentials)
 ms:assetid: e5fc333c-7654-4afa-a3e7-cc23c17227aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859570(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859570(v=AX.60)
 ms:contentKeyID: 63820145
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

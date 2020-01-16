@@ -2,8 +2,9 @@
 title: 'Scenario: Automatic settlement and prioritization'
 TOCTitle: 'Scenario: Automatic settlement and prioritization'
 ms:assetid: a0c9cfe3-e3e9-42fa-991a-64795efa6352
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692489(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692489(v=AX.60)
 ms:contentKeyID: 41702387
+author: Khairunj
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-You have two options when you settle payments with invoices and other transactions. You can manually select the transactions to settle, or Microsoft Dynamics AX can select the transactions automatically by using the automatic settlement functionality. This topic describes how transactions are settled if you select the **Automatic settlement** check box in the **Accounts receivable parameters** form. You can also customize how automatic settlements are processed by using the **Prioritize settlement** check box, the **Use priority for automatic settlements** check box, and the **Manage priority** link. For information about these options, see [Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\)).
+You have two options when you settle payments with invoices and other transactions. You can manually select the transactions to settle, or Microsoft Dynamics AX can select the transactions automatically by using the automatic settlement functionality. This topic describes how transactions are settled if you select the **Automatic settlement** check box in the **Accounts receivable parameters** form. You can also customize how automatic settlements are processed by using the **Prioritize settlement** check box, the **Use priority for automatic settlements** check box, and the **Manage priority** link. For information about these options, see [Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\)).
 
 The way that transactions are automatically settled can differ, depending on the method that you use for automatic settlement. The following methods are available:
 
@@ -87,7 +88,7 @@ The examples of settlements later in this topic are based on the following trans
 
 ## User-defined settlement priority
 
-If you select the **Use priority for automatic settlements** check box in the **Accounts receivable parameters** form, the settlement priority that you define in the **Settlement priority** form is used when transactions are selected for automatic settlement. For more information, see [Settlement priority (form)](https://technet.microsoft.com/en-us/library/hh208717\(v=ax.60\)). For this example, the following attributes are selected:
+If you select the **Use priority for automatic settlements** check box in the **Accounts receivable parameters** form, the settlement priority that you define in the **Settlement priority** form is used when transactions are selected for automatic settlement. For more information, see [Settlement priority (form)](https://technet.microsoft.com/library/hh208717\(v=ax.60\)). For this example, the following attributes are selected:
 
   - **Transaction type**
     
@@ -235,7 +236,7 @@ If there is no user-defined settlement priority, transactions are automatically 
 
 ## See also
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
 [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md)
 

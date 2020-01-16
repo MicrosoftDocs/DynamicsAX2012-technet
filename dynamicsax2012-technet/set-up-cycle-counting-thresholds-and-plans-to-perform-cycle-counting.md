@@ -2,8 +2,9 @@
 title: Set up cycle counting thresholds and plans to perform cycle counting
 TOCTitle: Set up cycle counting thresholds and plans to perform cycle counting
 ms:assetid: e5a0d390-8500-4ed3-a58a-eec59d680268
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553209(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553209(v=AX.60)
 ms:contentKeyID: 62200175
+author: Khairunj
 ms.date: 05/27/2015
 mtps_version: v=AX.60
 f1_keywords:

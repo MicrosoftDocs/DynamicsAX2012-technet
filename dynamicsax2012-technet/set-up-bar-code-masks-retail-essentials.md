@@ -2,8 +2,9 @@
 title: Set up bar code masks (Retail essentials)
 TOCTitle: Set up bar code masks (Retail essentials)
 ms:assetid: c194c1fd-c485-47b4-bc71-3313cd972cb2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736946(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736946(v=AX.60)
 ms:contentKeyID: 62200423
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

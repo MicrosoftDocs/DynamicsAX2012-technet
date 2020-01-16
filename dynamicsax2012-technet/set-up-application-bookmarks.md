@@ -2,8 +2,9 @@
 title: Set up application bookmarks
 TOCTitle: Set up application bookmarks
 ms:assetid: ff07aa99-f49c-42d4-80ac-fc64f47b637e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh524759(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh524759(v=AX.60)
 ms:contentKeyID: 37072068
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,9 +36,9 @@ For example, suppose that Lisa Andrews is an external applicant. She submitted a
 
 [Applicants and employment applications](applicants-and-employment-applications.md)
 
-[Application bookmarks (form)](https://technet.microsoft.com/en-us/library/aa573363\(v=ax.60\))
+[Application bookmarks (form)](https://technet.microsoft.com/library/aa573363\(v=ax.60\))
 
-[Application (form)](https://technet.microsoft.com/en-us/library/aa584838\(v=ax.60\))
+[Application (form)](https://technet.microsoft.com/library/aa584838\(v=ax.60\))
 
   
 

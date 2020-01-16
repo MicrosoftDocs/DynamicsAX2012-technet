@@ -2,8 +2,9 @@
 title: Setting up and maintaining Project management and accounting
 TOCTitle: Setting up and maintaining Project management and accounting
 ms:assetid: 717f2c33-c2d5-4315-bc99-41766d0a81c7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242650(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242650(v=AX.60)
 ms:contentKeyID: 36058068
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

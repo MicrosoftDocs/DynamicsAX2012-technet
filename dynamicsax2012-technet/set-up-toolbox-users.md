@@ -2,8 +2,9 @@
 title: Set up toolbox users
 TOCTitle: Set up toolbox users
 ms:assetid: 2f0988fa-a861-43d0-a91e-cc8e79b136ad
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730403(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730403(v=AX.60)
 ms:contentKeyID: 49636322
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

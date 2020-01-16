@@ -1,9 +1,10 @@
-﻿---
+---
 title: SerializationHelper.DeserializeObjectDataContractFromByteArray(T) Method  (Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization)
 TOCTitle: DeserializeObjectDataContractFromByteArray(T) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.SerializationHelper.DeserializeObjectDataContractFromByteArray``1(System.Byte[])
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn693974(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn693974(v=AX.60)
 ms:contentKeyID: 62204141
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ static T DeserializeObjectDataContractFromByteArray(
 #### Parameters
 
   - source  
-    Type: [System.Byte](https://technet.microsoft.com/en-us/library/yyb1w04y\(v=ax.60\))\[\]  
+    Type: [System.Byte](https://technet.microsoft.com/library/yyb1w04y\(v=ax.60\))\[\]  
 
 #### Return Value
 

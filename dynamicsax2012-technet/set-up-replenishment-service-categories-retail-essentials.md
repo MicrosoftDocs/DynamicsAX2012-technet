@@ -2,8 +2,9 @@
 title: Set up replenishment service categories (Retail essentials)
 TOCTitle: Set up replenishment service categories (Retail essentials)
 ms:assetid: efa8ae36-c346-4165-85b4-3f880c1814ed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736974(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736974(v=AX.60)
 ms:contentKeyID: 62200451
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---
@@ -29,7 +30,7 @@ To set up service categories for inventory replenishment rules, follow these ste
 
 3.  In the **Service category** field, type an ID number. Then, in the **Description** field, type a description.
 
-4.  Enter additional information about delivery dates, replenishment rules, and cross-docking warehouses. For more information, see [Service categories (form)](https://technet.microsoft.com/en-us/library/hh597287\(v=ax.60\)).
+4.  Enter additional information about delivery dates, replenishment rules, and cross-docking warehouses. For more information, see [Service categories (form)](https://technet.microsoft.com/library/hh597287\(v=ax.60\)).
 
 
 > [!NOTE]

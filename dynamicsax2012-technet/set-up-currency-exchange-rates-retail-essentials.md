@@ -2,8 +2,9 @@
 title: Set up currency exchange rates (Retail essentials)
 TOCTitle: Set up currency exchange rates (Retail essentials)
 ms:assetid: 409a0564-592a-4e67-87c8-2d6c520a2484
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716078(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716078(v=AX.60)
 ms:contentKeyID: 62200341
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

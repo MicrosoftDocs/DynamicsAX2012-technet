@@ -1,9 +1,10 @@
-﻿---
+---
 title: SqliteDatabaseProvider.ExecuteNonQuery Method  (Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite)
 TOCTitle: ExecuteNonQuery Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite.SqliteDatabaseProvider.ExecuteNonQuery(Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseConnection,Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseQuery)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqlitedatabaseprovider.executenonquery(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqlitedatabaseprovider.executenonquery(v=AX.60)
 ms:contentKeyID: 65321942
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

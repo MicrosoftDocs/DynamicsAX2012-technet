@@ -2,8 +2,9 @@
 title: Shared Financial Data Management for Microsoft Dynamics AX 2012 R2 (White Paper)
 TOCTitle: Shared Financial Data Management for Microsoft Dynamics AX 2012 R2
 ms:assetid: 672da62b-824c-4199-ac91-01c052ade464
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ870679(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ870679(v=AX.60)
 ms:contentKeyID: 50469185
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

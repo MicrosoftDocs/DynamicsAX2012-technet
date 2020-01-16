@@ -2,8 +2,9 @@
 title: Set up containerization
 TOCTitle: Set up containerization
 ms:assetid: a8ece442-4456-45f1-972a-2e091f0c9240
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553190(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553190(v=AX.60)
 ms:contentKeyID: 62200134
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

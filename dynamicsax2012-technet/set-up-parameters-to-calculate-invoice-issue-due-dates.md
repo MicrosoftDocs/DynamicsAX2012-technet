@@ -2,8 +2,9 @@
 title: Set up parameters to calculate invoice issue due dates
 TOCTitle: Set up parameters to calculate invoice issue due dates
 ms:assetid: cae7bc57-e3e9-41a4-bb45-699d64f3603d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn751509(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn751509(v=AX.60)
 ms:contentKeyID: 62378988
+author: Khairunj
 ms.date: 05/26/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -135,8 +136,8 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><ul>
-<li><p>Set up a date interval that is used to calculate the invoice issue due date. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa558459(v=ax.60)">Date intervals (form)</a>.</p></li>
-<li><p>Set up foreign trade properties for various countries or regions in the <strong>Foreign trade parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa620385(v=ax.60)">Foreign trade parameters (form)</a>.</p></li>
+<li><p>Set up a date interval that is used to calculate the invoice issue due date. For more information, see <a href="https://technet.microsoft.com/library/aa558459(v=ax.60)">Date intervals (form)</a>.</p></li>
+<li><p>Set up foreign trade properties for various countries or regions in the <strong>Foreign trade parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa620385(v=ax.60)">Foreign trade parameters (form)</a>.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -415,11 +416,11 @@ To perform this task, follow these steps:
 
 After you have finished setting up the parameters to calculate invoice issue due dates, you can create and post the following transactions to automatically calculate and update the due dates to issue invoices:
 
-  - **Sales orders** – When you create a sales order and post a packing slip, the due date for issuing the invoice is calculated and updated on the packing slip. The due date is calculated based on the date interval that is associated with the country that is specified in the delivery address of the sales order. You can post the packing slip, and then verify the invoice issue due date in the **Invoice issue due date** field in the **Packing slip journal** form. (Click **Sales and marketing** \> **Inquiries** \> **Journals** \> **Packing slip**.) For more information, see [Packing slip journal (form)](https://technet.microsoft.com/en-us/library/aa548967\(v=ax.60\)), [Create or edit a sales order](create-or-edit-a-sales-order.md), and [Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\)).
+  - **Sales orders** – When you create a sales order and post a packing slip, the due date for issuing the invoice is calculated and updated on the packing slip. The due date is calculated based on the date interval that is associated with the country that is specified in the delivery address of the sales order. You can post the packing slip, and then verify the invoice issue due date in the **Invoice issue due date** field in the **Packing slip journal** form. (Click **Sales and marketing** \> **Inquiries** \> **Journals** \> **Packing slip**.) For more information, see [Packing slip journal (form)](https://technet.microsoft.com/library/aa548967\(v=ax.60\)), [Create or edit a sales order](create-or-edit-a-sales-order.md), and [Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\)).
     
     You can view all of the packing slips that are not invoiced and their invoice issue due dates in the **Packing slips not invoiced** form. (Click **Sales and marketing** \> **Inquiries** \> **Journals** \> **Packing slips not invoiced**.)
 
-  - **Purchase orders** – When you create a purchase order and post a product receipt, the due date for issuing the invoice is calculated and updated on the product receipt. The due date is calculated based on the date interval that is associated with the country that is specified in the primary address of the vendor. You can post the product receipt, and then verify the invoice issue due date in the **Invoice issue due date** field in the **Product receipt journal** form. (Click **Procurement and sourcing** \> **Inquiries** \> **Journals** \> **Product receipt**.) For more information, see [Product receipt journal (form)](https://technet.microsoft.com/en-us/library/aa572107\(v=ax.60\)) and [Create a purchase order](create-a-purchase-order.md).
+  - **Purchase orders** – When you create a purchase order and post a product receipt, the due date for issuing the invoice is calculated and updated on the product receipt. The due date is calculated based on the date interval that is associated with the country that is specified in the primary address of the vendor. You can post the product receipt, and then verify the invoice issue due date in the **Invoice issue due date** field in the **Product receipt journal** form. (Click **Procurement and sourcing** \> **Inquiries** \> **Journals** \> **Product receipt**.) For more information, see [Product receipt journal (form)](https://technet.microsoft.com/library/aa572107\(v=ax.60\)) and [Create a purchase order](create-a-purchase-order.md).
     
     You can view all of the product receipts that are not invoiced and their invoice issue due dates in the **Product receipts not invoiced** form. (Click **Procurement and sourcing** \> **Inquiries** \> **Journals** \> **Product receipts not invoiced**.)
 

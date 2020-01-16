@@ -2,8 +2,9 @@
 title: Set up collaboration workspaces
 TOCTitle: Set up collaboration workspaces
 ms:assetid: 262f6093-75c8-49cb-a297-44542504a01f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208486(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208486(v=AX.60)
 ms:contentKeyID: 36056198
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

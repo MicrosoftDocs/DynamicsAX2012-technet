@@ -2,8 +2,9 @@
 title: Setting up and maintaining Accounts receivable
 TOCTitle: Setting up and maintaining Accounts receivable
 ms:assetid: 8cdb6789-ddc9-444b-bd80-0d15c7d8118f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242876(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242876(v=AX.60)
 ms:contentKeyID: 36058485
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

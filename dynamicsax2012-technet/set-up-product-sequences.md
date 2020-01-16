@@ -2,8 +2,9 @@
 title: Set up product sequences
 TOCTitle: Set up product sequences
 ms:assetid: 0a699499-5e97-44c8-840c-0a9927f63f3b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838720(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838720(v=AX.60)
 ms:contentKeyID: 50120603
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Use this procedure to create product sequences that you can assign to items. A s
 
 ## See also
 
-[Sequences (form)](https://technet.microsoft.com/en-us/library/jj838758\(v=ax.60\))
+[Sequences (form)](https://technet.microsoft.com/library/jj838758\(v=ax.60\))
 
 [Set up sequence groups](set-up-sequence-groups.md)
 

@@ -2,8 +2,9 @@
 title: Set up policies for category hierarchies
 TOCTitle: Set up policies for category hierarchies
 ms:assetid: 2afa5f99-c3fe-435a-a9fe-99f78f1f2612
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208504(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208504(v=AX.60)
 ms:contentKeyID: 36056242
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -106,9 +107,9 @@ Use this procedure to set up rules for ordering products in a category.
 
 ## See also
 
-[Category access policy rule (form)](https://technet.microsoft.com/en-us/library/hh227513\(v=ax.60\))
+[Category access policy rule (form)](https://technet.microsoft.com/library/hh227513\(v=ax.60\))
 
-[Category policy rule (form)](https://technet.microsoft.com/en-us/library/hh209240\(v=ax.60\))
+[Category policy rule (form)](https://technet.microsoft.com/library/hh209240\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: 'Scenario: Settle a partial vendor payment before the discount date with a final payment after the discount date'
 TOCTitle: 'Scenario: Settle a partial vendor payment before the discount date with a final payment after the discount date'
 ms:assetid: 0691c446-4cbf-4f39-900d-4a4541502ab4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580562(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580562(v=AX.60)
 ms:contentKeyID: 39519038
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Fabrikam purchases goods from vendor 3057. Fabrikam receives a cash discount of 1 percent if the invoice is paid in 14 days. Invoices must be paid in 30 days. The vendor also lets Fabrikam take cash discounts on partial payments. For information about these setup parameters, see [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md) and [Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\)).
+Fabrikam purchases goods from vendor 3057. Fabrikam receives a cash discount of 1 percent if the invoice is paid in 14 days. Invoices must be paid in 30 days. The vendor also lets Fabrikam take cash discounts on partial payments. For information about these setup parameters, see [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md) and [Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\)).
 
 ## Invoice for 1,000.00 on June 25
 
@@ -352,7 +353,7 @@ April then posts the payment. When April opens the **Vendor transactions** form,
 
 ## Remaining payment on July 15: 693.00 and Use cash discount = Always
 
-If the vendor lets April take a discount, even though she is paying after the discount date, she can change the value in the **Use cash discount** field to **Always**. The **Calculate cash discounts for partial payments** setting is overridden, and the discount is taken. The payment amount is 693.00, and the discount is the remaining 7.00. For information about the **Use cash discount** field, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\)).
+If the vendor lets April take a discount, even though she is paying after the discount date, she can change the value in the **Use cash discount** field to **Always**. The **Calculate cash discounts for partial payments** setting is overridden, and the discount is taken. The payment amount is 693.00, and the discount is the remaining 7.00. For information about the **Use cash discount** field, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\)).
 
 <table style="width:100%;">
 <colgroup>

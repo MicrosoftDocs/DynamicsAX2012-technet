@@ -2,8 +2,9 @@
 title: Start pallet transports
 TOCTitle: Start pallet transports
 ms:assetid: 0f18f719-46bb-406f-a993-13351c9de0bf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496415(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496415(v=AX.60)
 ms:contentKeyID: 36056016
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

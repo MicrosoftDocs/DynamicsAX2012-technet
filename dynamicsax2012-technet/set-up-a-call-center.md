@@ -2,8 +2,9 @@
 title: Set up a call center
 TOCTitle: Set up a call center
 ms:assetid: 1bf8c330-eaff-4d39-80a4-8e6ecb07d92b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497725(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497725(v=AX.60)
 ms:contentKeyID: 62200039
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -175,7 +176,7 @@ You can specify which modes of delivery are available to customers in the call c
 
 
 > [!NOTE]
-> <P>Before you can add modes of delivery to a call center, you must create modes of delivery. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa619881(v=ax.60)">Modes of delivery (form)</A>.</P>
+> <P>Before you can add modes of delivery to a call center, you must create modes of delivery. For more information, see <A href="https://technet.microsoft.com/library/aa619881(v=ax.60)">Modes of delivery (form)</A>.</P>
 
 
 
@@ -235,7 +236,7 @@ To add attributes to a call center, follow these steps.
     
 
     > [!NOTE]
-    > <P>Before you can add channel product attributes to a call center, a default hierarchy must be assigned to the retail assortment in the <STRONG>Organization hierarchy purposes</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh208614(v=ax.60)">Organization hierarchy purposes (form)</A>.</P>
+    > <P>Before you can add channel product attributes to a call center, a default hierarchy must be assigned to the retail assortment in the <STRONG>Organization hierarchy purposes</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/hh208614(v=ax.60)">Organization hierarchy purposes (form)</A>.</P>
 
 
 

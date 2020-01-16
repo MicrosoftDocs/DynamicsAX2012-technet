@@ -2,8 +2,9 @@
 title: Set up derived financial hierarchies (Public sector)
 TOCTitle: Set up derived financial hierarchies (Public sector)
 ms:assetid: cd855ad4-ddbb-4302-a038-acc3e66758f8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208586(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208586(v=AX.60)
 ms:contentKeyID: 36056372
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ To collect account numbers used in the posted transactions for employee programs
 
 2.  To assign the **Derived financial hierarchy** category type to a category hierarchy, click **Product information management** \> **Setup** \> **Categories** \> **Category hierarchy types**.
     
-    From the example, you would assign the **Derived financial hierarchy** category type to the **Employee programs** category hierarchy. For more information, see [Category hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh227389\(v=ax.60\)).
+    From the example, you would assign the **Derived financial hierarchy** category type to the **Employee programs** category hierarchy. For more information, see [Category hierarchy types (form)](https://technet.microsoft.com/library/hh227389\(v=ax.60\)).
 
 3.  To associate the derived financial hierarchy with a legal entity, click **General ledger** \> **Setup** \> **Financial dimensions** \> **Associate derived financial hierarchies**.
 
@@ -81,9 +82,9 @@ To collect account numbers used in the posted transactions for employee programs
 
 ## See also
 
-[Derived financial hierarchies (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208496\(v=ax.60\))
+[Derived financial hierarchies (form) (Public sector)](https://technet.microsoft.com/library/hh208496\(v=ax.60\))
 
-[Associate derived financial hierarchies (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208604\(v=ax.60\))
+[Associate derived financial hierarchies (form) (Public sector)](https://technet.microsoft.com/library/hh208604\(v=ax.60\))
 
   
 

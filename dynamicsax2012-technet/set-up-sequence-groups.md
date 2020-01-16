@@ -2,8 +2,9 @@
 title: Set up sequence groups
 TOCTitle: Set up sequence groups
 ms:assetid: 42e3a7a6-93e5-4cc2-ae9a-ba6339d8b432
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838731(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838731(v=AX.60)
 ms:contentKeyID: 50120614
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ Use this procedure to create sequence groups that are used to schedule productio
 
 [Assign sequence values to an item](assign-sequence-values-to-an-item.md)
 
-[Sequence group (form)](https://technet.microsoft.com/en-us/library/jj838755\(v=ax.60\))
+[Sequence group (form)](https://technet.microsoft.com/library/jj838755\(v=ax.60\))
 
   
 

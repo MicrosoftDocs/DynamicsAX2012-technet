@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesOrderDataManager.SetField Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: SetField Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.SalesOrderDataManager.SetField(Microsoft.Dynamics.Commerce.Runtime.Data.Types.DataRow,System.String,System.Object)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.salesorderdatamanager.setfield(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.salesorderdatamanager.setfield(v=AX.60)
 ms:contentKeyID: 65321031
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,12 +62,12 @@ static void SetField(
 <!-- end list -->
 
   - field  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - value  
-    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+    Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
 
 ## See Also
 

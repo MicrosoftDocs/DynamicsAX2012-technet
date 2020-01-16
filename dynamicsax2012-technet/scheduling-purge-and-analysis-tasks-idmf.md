@@ -2,8 +2,9 @@
 title: Scheduling purge and analysis tasks (IDMF)
 TOCTitle: Scheduling purge and analysis tasks
 ms:assetid: ec77474a-5d79-4b84-a1aa-37148f0d2bde
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh389769(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh389769(v=AX.60)
 ms:contentKeyID: 36899748
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

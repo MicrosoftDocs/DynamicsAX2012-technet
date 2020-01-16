@@ -2,8 +2,9 @@
 title: Set up default descriptions for automatic posting
 TOCTitle: Set up default descriptions for automatic posting
 ms:assetid: d195456d-df67-44d3-94a0-b897bc3da664
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677363(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677363(v=AX.60)
 ms:contentKeyID: 49384138
+author: Khairunj
 ms.date: 10/15/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -107,7 +108,7 @@ After you complete the steps in Set up default descriptions, earlier in this top
 
 ## See also
 
-[Default descriptions (form)](https://technet.microsoft.com/en-us/library/aa615730\(v=ax.60\))
+[Default descriptions (form)](https://technet.microsoft.com/library/aa615730\(v=ax.60\))
 
   
 

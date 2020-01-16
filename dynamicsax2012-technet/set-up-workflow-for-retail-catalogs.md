@@ -2,8 +2,9 @@
 title: Set up workflow for retail catalogs
 TOCTitle: Set up workflow for retail catalogs
 ms:assetid: 90c827d4-3286-482e-bd54-52c4a45d0f68
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728696(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728696(v=AX.60)
 ms:contentKeyID: 49556625
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ For an overview of workflow in Microsoft Dynamics AX, see [Overview of the workf
 
 [Key tasks: Create retail product catalogs](key-tasks-create-retail-product-catalogs.md)
 
-[Workflows (list page)](https://technet.microsoft.com/en-us/library/hh209721\(v=ax.60\))
+[Workflows (list page)](https://technet.microsoft.com/library/hh209721\(v=ax.60\))
 
   
 

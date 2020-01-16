@@ -2,8 +2,9 @@
 title: Set up product packages (Retail essentials)
 TOCTitle: Set up product packages (Retail essentials)
 ms:assetid: 7e6bcea8-f99a-4af2-adf4-ff47a8586370
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736907(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736907(v=AX.60)
 ms:contentKeyID: 62200385
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---
@@ -45,7 +46,7 @@ To set up product packages, follow these steps:
     
     3.  Enter settings for the new products.
         
-        For more information, see the [Packages (form)](https://technet.microsoft.com/en-us/library/hh597320\(v=ax.60\)).
+        For more information, see the [Packages (form)](https://technet.microsoft.com/library/hh597320\(v=ax.60\)).
 
 
 > [!NOTE]

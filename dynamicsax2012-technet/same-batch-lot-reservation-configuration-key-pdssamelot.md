@@ -2,8 +2,9 @@
 title: Same batch lot reservation configuration key (PdsSameLot)
 TOCTitle: Same batch lot reservation configuration key (PdsSameLot)
 ms:assetid: 930dbbfc-948d-4219-aaab-2560a90dea1b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496425(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496425(v=AX.60)
 ms:contentKeyID: 37072003
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: Set up asset group depreciation book bonus
 TOCTitle: Set up asset group depreciation book bonus
 ms:assetid: 808b9448-ca01-440f-af45-7b41111f8ce0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571547(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571547(v=AX.60)
 ms:contentKeyID: 36058345
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Use the **Fixed asset group/depreciation book special depreciation allowance** f
 
 ## See also
 
-[Fixed asset group/depreciation book bonus (form)](https://technet.microsoft.com/en-us/library/aa573939\(v=ax.60\))
+[Fixed asset group/depreciation book bonus (form)](https://technet.microsoft.com/library/aa573939\(v=ax.60\))
 
   
 

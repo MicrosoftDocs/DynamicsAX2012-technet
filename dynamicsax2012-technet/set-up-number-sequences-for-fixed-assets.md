@@ -2,8 +2,9 @@
 title: Set up number sequences for Fixed assets
 TOCTitle: Set up number sequences for Fixed assets
 ms:assetid: fd319d2b-901e-4d82-b12d-5aa23546d146
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500112(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa500112(v=AX.60)
 ms:contentKeyID: 36060102
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

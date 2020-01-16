@@ -2,8 +2,9 @@
 title: Set up initial standard costs in a nonmanufacturing environment
 TOCTitle: Set up initial standard costs in a nonmanufacturing environment
 ms:assetid: cc5882e8-5f55-41e0-a050-94051c4c8a9a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213669(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213669(v=AX.60)
 ms:contentKeyID: 36059451
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

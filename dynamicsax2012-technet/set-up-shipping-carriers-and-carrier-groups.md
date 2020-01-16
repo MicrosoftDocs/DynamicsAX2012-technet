@@ -2,8 +2,9 @@
 title: Set up shipping carriers and carrier groups
 TOCTitle: Set up shipping carriers and carrier groups
 ms:assetid: 2b1174c1-8b0c-45b0-b27e-e4cfffc256b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553155(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553155(v=AX.60)
 ms:contentKeyID: 62200048
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

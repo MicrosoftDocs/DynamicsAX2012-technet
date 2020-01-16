@@ -2,8 +2,9 @@
 title: Set up replenishment
 TOCTitle: Set up replenishment
 ms:assetid: 17f53aca-b238-4838-a67f-781366c9e34e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn750873(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn750873(v=AX.60)
 ms:contentKeyID: 62369568
+author: Khairunj
 ms.date: 06/14/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -64,7 +65,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tbody>
 <tr class="odd">
 <td><p><strong>Replenishment templates</strong></p></td>
-<td><p>Define the units of measurement for the inventory to replenish. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209233(v=ax.60)">Units (form)</a>.</p></td>
+<td><p>Define the units of measurement for the inventory to replenish. For more information, see <a href="https://technet.microsoft.com/library/hh209233(v=ax.60)">Units (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Request types</strong></p></td>

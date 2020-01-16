@@ -2,8 +2,9 @@
 title: Set up and transfer the transfer order transactions for Intrastat reporting
 TOCTitle: Set up and transfer the transfer order transactions for Intrastat reporting
 ms:assetid: 3756a936-6228-442f-9a84-7593cef76784
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304986(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304986(v=AX.60)
 ms:contentKeyID: 54899963
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -152,7 +153,7 @@ To set up the foreign trade parameter for transfer orders, follow these steps:
 
 2.  In the **Transfer order** field, select the transaction code that you created for transfer orders. For more information, see 1. Set up a transaction code for transfer orders.
 
-3.  Click **Compress** to open the **Compression of Intrastat** form, where you can specify the compression details for Intrastat reporting. For more information, see [Compression of Intrastat (form)](https://technet.microsoft.com/en-us/library/aa584795\(v=ax.60\)).
+3.  Click **Compress** to open the **Compression of Intrastat** form, where you can specify the compression details for Intrastat reporting. For more information, see [Compression of Intrastat (form)](https://technet.microsoft.com/library/aa584795\(v=ax.60\)).
 
 ## 3\. Create and ship a transfer order for an EU legal entity
 
@@ -164,7 +165,7 @@ To create and ship a transfer order for an EU legal entity, follow these steps:
 
 1.  Click **Inventory management** \> **Periodic** \> **Transfer orders**.
 
-2.  Create a transfer order. For more information, see [Transfer orders (form)](https://technet.microsoft.com/en-us/library/aa634530\(v=ax.60\)).
+2.  Create a transfer order. For more information, see [Transfer orders (form)](https://technet.microsoft.com/library/aa634530\(v=ax.60\)).
 
 3.  In the upper pane, on the **Foreign trade** tab, specify the Intrastat details for the transfer order.
     
@@ -234,7 +235,7 @@ To create and ship a transfer order for an EU legal entity, follow these steps:
     </tr>
     <tr class="odd">
     <td><p><strong>Commodity</strong></p></td>
-    <td><p>Select or update the product code for Intrastat reporting. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa619055(v=ax.60)">Intrastat (form)</a>. By default, this field is updated with the commodity code for the product that you specified in the <strong>Commodity</strong> field on the <strong>Foreign trade</strong> FastTab in the <strong>Released product details</strong> form.</p></td>
+    <td><p>Select or update the product code for Intrastat reporting. For more information, see <a href="https://technet.microsoft.com/library/aa619055(v=ax.60)">Intrastat (form)</a>. By default, this field is updated with the commodity code for the product that you specified in the <strong>Commodity</strong> field on the <strong>Foreign trade</strong> FastTab in the <strong>Released product details</strong> form.</p></td>
     </tr>
     <tr class="even">
     <td><p><strong>Country/region</strong></p></td>
@@ -256,7 +257,7 @@ To create and ship a transfer order for an EU legal entity, follow these steps:
     </table>
 
 
-6.  Click **Posting**, and then click **Ship transfer order** to open the **Shipment** form, where you can ship the transfer order. For more information, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+6.  Click **Posting**, and then click **Ship transfer order** to open the **Shipment** form, where you can ship the transfer order. For more information, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
 
 ## 4\. Receive a transfer order for an EU legal entity
 
@@ -360,7 +361,7 @@ To receive a transfer order for an EU legal entity, follow these steps:
     </table>
 
 
-6.  Click **Posting**, and then click **Receive** to open the **Receive** form, where you can receive the transfer order. For more information, see [Receive transfer orders](receive-transfer-orders.md) and [Receive (form)](https://technet.microsoft.com/en-us/library/aa552649\(v=ax.60\)).
+6.  Click **Posting**, and then click **Receive** to open the **Receive** form, where you can receive the transfer order. For more information, see [Receive transfer orders](receive-transfer-orders.md) and [Receive (form)](https://technet.microsoft.com/library/aa552649\(v=ax.60\)).
 
 ## 5\. Transfer the transfer order transactions and generate the Intrastat report
 

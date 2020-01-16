@@ -2,8 +2,9 @@
 title: Set up sales lead times
 TOCTitle: Set up sales lead times
 ms:assetid: e2b4149a-01ad-4ff8-9861-be9cc15849cc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243215(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243215(v=AX.60)
 ms:contentKeyID: 36688022
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Setting up transportation
 TOCTitle: Setting up transportation
 ms:assetid: 70ce7a29-3398-43a2-aea1-ea313c6228f6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553169(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553169(v=AX.60)
 ms:contentKeyID: 62200092
+author: Khairunj
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 audience: Application User

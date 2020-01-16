@@ -1,9 +1,10 @@
-﻿---
+---
 title: StoreProductAvailability Class (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel)
 TOCTitle: StoreProductAvailability Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.StoreProductAvailability
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.storeproductavailability(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.storeproductavailability(v=AX.60)
 ms:contentKeyID: 62206759
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ public ref class StoreProductAvailability sealed : public StoreLocation
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.Address](address-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)  
     [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.StoreAddress](storeaddress-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)  
       [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.StoreLocation](storelocation-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)  

@@ -1,9 +1,10 @@
-﻿---
+---
 title: SaveCustomerOrderRequest.TokenizedPaymentCard Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: TokenizedPaymentCard Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveCustomerOrderRequest.TokenizedPaymentCard
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.savecustomerorderrequest.tokenizedpaymentcard(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savecustomerorderrequest.tokenizedpaymentcard(v=AX.60)
 ms:contentKeyID: 65321275
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

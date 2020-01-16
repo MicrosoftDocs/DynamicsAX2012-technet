@@ -1,9 +1,10 @@
-﻿---
+---
 title: SharePointTimerJobHelper.WaitForOnetimeJobToFinish Method  (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: WaitForOnetimeJobToFinish Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.SharePointTimerJobHelper.WaitForOnetimeJobToFinish(Microsoft.SharePoint.Administration.SPFarm,System.String,System.Byte)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.sharepointtimerjobhelper.waitforonetimejobtofinish(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.sharepointtimerjobhelper.waitforonetimejobtofinish(v=AX.60)
 ms:contentKeyID: 62202553
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -64,12 +65,12 @@ static void WaitForOnetimeJobToFinish(
 <!-- end list -->
 
   - jobTitle  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - maximumWaitTime  
-    Type: [System.Byte](https://technet.microsoft.com/en-us/library/yyb1w04y\(v=ax.60\))  
+    Type: [System.Byte](https://technet.microsoft.com/library/yyb1w04y\(v=ax.60\))  
 
 ## Exceptions
 
@@ -86,7 +87,7 @@ static void WaitForOnetimeJobToFinish(
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>farm or jobTitle</p></td>
 </tr>
 </tbody>

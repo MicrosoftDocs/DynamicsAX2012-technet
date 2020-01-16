@@ -2,8 +2,9 @@
 title: Set up proposed assets and proposed projects for budget plans
 TOCTitle: Set up proposed assets and proposed projects for budget plans
 ms:assetid: b8805e0b-da99-4587-91cd-497dd59b35c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677356(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677356(v=AX.60)
 ms:contentKeyID: 49384131
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,9 +32,9 @@ Proposed assets are placeholders for fixed assets that are planned, but that hav
 
 ## See also
 
-[Budget plan proposed assets (form)](https://technet.microsoft.com/en-us/library/jj677435\(v=ax.60\))
+[Budget plan proposed assets (form)](https://technet.microsoft.com/library/jj677435\(v=ax.60\))
 
-[Budget plan proposed projects (form)](https://technet.microsoft.com/en-us/library/jj677384\(v=ax.60\))
+[Budget plan proposed projects (form)](https://technet.microsoft.com/library/jj677384\(v=ax.60\))
 
 [Key tasks: Create and process budget plans](key-tasks-create-and-process-budget-plans.md)
 

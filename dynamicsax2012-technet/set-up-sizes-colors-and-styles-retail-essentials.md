@@ -2,8 +2,9 @@
 title: Set up sizes, colors, and styles (Retail essentials)
 TOCTitle: Set up sizes, colors, and styles (Retail essentials)
 ms:assetid: 725c74e5-3e8e-4a60-a5d4-eb58a2b1827f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736895(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736895(v=AX.60)
 ms:contentKeyID: 62200372
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

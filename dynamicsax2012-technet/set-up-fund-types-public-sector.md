@@ -2,8 +2,9 @@
 title: Set up fund types (Public sector)
 TOCTitle: Set up fund types (Public sector)
 ms:assetid: 9537eac9-dd28-4f51-9f47-457b382280cf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208556(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208556(v=AX.60)
 ms:contentKeyID: 36056317
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ The Governmental Accounting Standards Board (GASB) recommends a set of Generally
 
 ## See also
 
-[Fund types (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208583\(v=ax.60\))
+[Fund types (form) (Public sector)](https://technet.microsoft.com/library/hh208583\(v=ax.60\))
 
   
 

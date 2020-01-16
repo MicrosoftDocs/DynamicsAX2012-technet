@@ -1,9 +1,10 @@
-﻿---
+---
 title: StorefrontConfiguration.GetSessionTokenCookieMinutesUntilExpiration Method  (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: GetSessionTokenCookieMinutesUntilExpiration Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.StorefrontConfiguration.GetSessionTokenCookieMinutesUntilExpiration
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.storefrontconfiguration.getsessiontokencookieminutesuntilexpiration(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.storefrontconfiguration.getsessiontokencookieminutesuntilexpiration(v=AX.60)
 ms:contentKeyID: 62202473
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ static double GetSessionTokenCookieMinutesUntilExpiration()
 
 #### Return Value
 
-Type: [System.Double](https://technet.microsoft.com/en-us/library/643eft0t\(v=ax.60\))  
+Type: [System.Double](https://technet.microsoft.com/library/643eft0t\(v=ax.60\))  
 The time limit for expiration of session token cookie.  
 
 ## See Also

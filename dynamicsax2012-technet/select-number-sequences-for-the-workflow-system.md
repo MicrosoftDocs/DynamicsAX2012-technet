@@ -2,8 +2,9 @@
 title: Select number sequences for the workflow system
 TOCTitle: Select number sequences for the workflow system
 ms:assetid: c7b874ee-13a9-43c6-958b-d5715a1ce4db
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731929(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731929(v=AX.60)
 ms:contentKeyID: 35132862
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

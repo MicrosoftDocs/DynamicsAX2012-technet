@@ -2,8 +2,9 @@
 title: Set up parameters for a timesheet system
 TOCTitle: Set up parameters for a timesheet system
 ms:assetid: ee53b57f-990b-43de-a502-580a2d04f867
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227502(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227502(v=AX.60)
 ms:contentKeyID: 36059908
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -22,7 +23,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 You can configure options for your organization’s timesheet system by using the **General** and **Timesheet** areas in the **Project management and accounting parameters** form.
 
 **Prerequisites**   
-In addition to setting up the parameters that are described in this topic, you must make sure that each worker record is associated with a period type, and that timesheet periods are generated. For more information, see [Create and generate timesheet periods](create-and-generate-timesheet-periods.md) and [Update worker periods (class form)](https://technet.microsoft.com/en-us/library/aa620393\(v=ax.60\)).
+In addition to setting up the parameters that are described in this topic, you must make sure that each worker record is associated with a period type, and that timesheet periods are generated. For more information, see [Create and generate timesheet periods](create-and-generate-timesheet-periods.md) and [Update worker periods (class form)](https://technet.microsoft.com/library/aa620393\(v=ax.60\)).
 
 
 > [!NOTE]
@@ -122,7 +123,7 @@ You can set up audit trails on all timesheets that are submitted in your organiz
 
 [About intercompany timesheets](about-intercompany-timesheets.md)
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
   
 

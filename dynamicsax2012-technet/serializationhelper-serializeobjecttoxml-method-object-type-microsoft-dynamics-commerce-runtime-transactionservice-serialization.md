@@ -1,9 +1,10 @@
-﻿---
+---
 title: SerializationHelper.SerializeObjectToXml Method (Object, Type) (Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization)
 TOCTitle: SerializeObjectToXml Method (Object, Type)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.SerializationHelper.SerializeObjectToXml(System.Object,System.Type)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.serializationhelper.serializeobjecttoxml(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.serializationhelper.serializeobjecttoxml(v=AX.60)
 ms:contentKeyID: 49822946
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -54,16 +55,16 @@ static String^ SerializeObjectToXml(
 #### Parameters
 
   - target  
-    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+    Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
 
 <!-- end list -->
 
   - typeInfo  
-    Type: [System.Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\))  
+    Type: [System.Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 Target serialized to xml string.  
 
 ## See Also

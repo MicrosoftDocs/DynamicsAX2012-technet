@@ -2,8 +2,9 @@
 title: Set up bar code mask characters (Retail essentials)
 TOCTitle: Set up bar code mask characters (Retail essentials)
 ms:assetid: 8937751a-8288-43fd-9261-d1a85003570f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736916(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736916(v=AX.60)
 ms:contentKeyID: 62200390
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

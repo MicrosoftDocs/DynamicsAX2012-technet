@@ -2,8 +2,9 @@
 title: Set up an inventory status
 TOCTitle: Set up an inventory status
 ms:assetid: f01e485d-1fa0-422d-b3b7-b5bed97db353
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553211(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553211(v=AX.60)
 ms:contentKeyID: 62200183
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -148,7 +149,7 @@ To set up a default inventory status for a warehouse, follow these steps:
 
 ## Optional: Plan coverage for items with an available inventory status
 
-To plan coverage for items with an available inventory status, select the **Coverage plan by dimension** check box for a storage dimension in the **Storage dimension groups** form. When you open the **Item Coverage Wizard**, items with an available status are displayed in the **Status** page. To create coverage settings for these items, select the inventory status ID for the available inventory statuses. Based on the coverage settings, you can calculate the item requirements and forecast the supply and demand of available items during master planning. You cannot create an item coverage setup with a blocked inventory status. Alternatively, use the **Item coverage** form to create or modify the item coverage parameters. For more information, see [About coverage settings](about-coverage-settings.md), [Use a wizard to create item coverage settings](use-a-wizard-to-create-item-coverage-settings.md), and [Item coverage (form)](https://technet.microsoft.com/en-us/library/aa619147\(v=ax.60\)).
+To plan coverage for items with an available inventory status, select the **Coverage plan by dimension** check box for a storage dimension in the **Storage dimension groups** form. When you open the **Item Coverage Wizard**, items with an available status are displayed in the **Status** page. To create coverage settings for these items, select the inventory status ID for the available inventory statuses. Based on the coverage settings, you can calculate the item requirements and forecast the supply and demand of available items during master planning. You cannot create an item coverage setup with a blocked inventory status. Alternatively, use the **Item coverage** form to create or modify the item coverage parameters. For more information, see [About coverage settings](about-coverage-settings.md), [Use a wizard to create item coverage settings](use-a-wizard-to-create-item-coverage-settings.md), and [Item coverage (form)](https://technet.microsoft.com/library/aa619147\(v=ax.60\)).
 
 ## Next step
 

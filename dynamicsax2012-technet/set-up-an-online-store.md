@@ -2,8 +2,9 @@
 title: Set up an online store
 TOCTitle: Set up an online store
 ms:assetid: 7150615f-3c60-498c-be76-40e07d0c0ce6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682095(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ682095(v=AX.60)
 ms:contentKeyID: 49655582
+author: Khairunj
 ms.date: 11/19/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -397,9 +398,9 @@ To perform this task, follow these steps:
 
 ## See also
 
-[Online stores (list page)](https://technet.microsoft.com/en-us/library/jj730401\(v=ax.60\))
+[Online stores (list page)](https://technet.microsoft.com/library/jj730401\(v=ax.60\))
 
-[Online store (form)](https://technet.microsoft.com/en-us/library/jj713630\(v=ax.60\))
+[Online store (form)](https://technet.microsoft.com/library/jj713630\(v=ax.60\))
 
 [About online stores](about-online-stores.md)
 

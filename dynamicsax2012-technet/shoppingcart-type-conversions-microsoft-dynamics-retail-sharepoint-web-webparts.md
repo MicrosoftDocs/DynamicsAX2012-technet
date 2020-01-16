@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShoppingCart Type Conversions (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: ShoppingCart Type Conversions
 ms:assetid: Operators.T:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ShoppingCart
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.webparts.shoppingcart_operators(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.shoppingcart_operators(v=AX.60)
 ms:contentKeyID: 62201945
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

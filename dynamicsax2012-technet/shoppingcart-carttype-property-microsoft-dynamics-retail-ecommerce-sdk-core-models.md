@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShoppingCart.CartType Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models)
 TOCTitle: CartType Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.ShoppingCart.CartType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.shoppingcart.carttype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.shoppingcart.carttype(v=AX.60)
 ms:contentKeyID: 65317549
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

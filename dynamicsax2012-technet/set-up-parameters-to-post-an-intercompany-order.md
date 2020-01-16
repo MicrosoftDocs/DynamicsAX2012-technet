@@ -2,8 +2,9 @@
 title: Set up parameters to post an intercompany order
 TOCTitle: Set up parameters to post an intercompany order
 ms:assetid: b86649c1-a99f-47ae-9a0e-2a22035e355a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572251(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572251(v=AX.60)
 ms:contentKeyID: 36059111
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

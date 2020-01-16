@@ -1,9 +1,10 @@
-﻿---
+---
 title: SqlQuery.Parameters Property  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: Parameters Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.SqlQuery.Parameters
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.sqlquery.parameters(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.sqlquery.parameters(v=AX.60)
 ms:contentKeyID: 65322572
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ virtual property IDictionary<String^, Object^>^ Parameters {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IDictionary](https://technet.microsoft.com/en-us/library/s4ys34ea\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)), [Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))\>  
+Type: [System.Collections.Generic.IDictionary](https://technet.microsoft.com/library/s4ys34ea\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)), [Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))\>  
 The parameters.  
 
 #### Implements

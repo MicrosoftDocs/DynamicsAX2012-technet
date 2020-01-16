@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShoppingCart.ShowKitComponents Property  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: ShowKitComponents Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.ShoppingCart.ShowKitComponents
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.shoppingcart.showkitcomponents(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.shoppingcart.showkitcomponents(v=AX.60)
 ms:contentKeyID: 62205850
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,8 +52,8 @@ property bool ShowKitComponents {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
-Returns [Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\)).  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
+Returns [Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\)).  
 
 ## See Also
 

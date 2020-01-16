@@ -2,8 +2,9 @@
 title: Set up trade allowance funds
 TOCTitle: Set up trade allowance funds
 ms:assetid: daad2d1f-d1c6-4fc7-ae42-d04fbbb7c8a4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497835(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497835(v=AX.60)
 ms:contentKeyID: 62500054
+author: Khairunj
 ms.date: 06/10/2014
 mtps_version: v=AX.60
 f1_keywords:

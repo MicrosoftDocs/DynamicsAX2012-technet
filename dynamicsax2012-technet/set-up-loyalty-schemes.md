@@ -2,8 +2,9 @@
 title: Set up loyalty schemes
 TOCTitle: Set up loyalty schemes
 ms:assetid: c0e47e4e-589e-43ff-9013-0259a73e05a0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597233(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597233(v=AX.60)
 ms:contentKeyID: 39519306
+author: Khairunj
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -215,9 +216,9 @@ To apply the loyalty scheme to the channels, you must process the loyalty scheme
 
 [About setting up loyalty programs in AX 2012 R3](about-setting-up-loyalty-programs-in-ax-2012-r3.md)
 
-[Loyalty schemes (list page)](https://technet.microsoft.com/en-us/library/hh580627\(v=ax.60\))
+[Loyalty schemes (list page)](https://technet.microsoft.com/library/hh580627\(v=ax.60\))
 
-[Loyalty schemes (form)](https://technet.microsoft.com/en-us/library/hh580612\(v=ax.60\))
+[Loyalty schemes (form)](https://technet.microsoft.com/library/hh580612\(v=ax.60\))
 
 [Set up loyalty programs](set-up-loyalty-programs.md)
 

@@ -2,8 +2,9 @@
 title: Set up loyalty cards (Retail essentials)
 TOCTitle: Set up loyalty cards (Retail essentials)
 ms:assetid: 98da2083-9420-46bb-aaac-4f5bce4ddd7b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859564(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859564(v=AX.60)
 ms:contentKeyID: 63820138
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

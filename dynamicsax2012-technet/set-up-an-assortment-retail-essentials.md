@@ -2,8 +2,9 @@
 title: Set up an assortment (Retail essentials)
 TOCTitle: Set up an assortment (Retail essentials)
 ms:assetid: 5a059bf3-f3d9-4d3c-b5c7-94af0cca4193
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736884(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736884(v=AX.60)
 ms:contentKeyID: 62200362
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

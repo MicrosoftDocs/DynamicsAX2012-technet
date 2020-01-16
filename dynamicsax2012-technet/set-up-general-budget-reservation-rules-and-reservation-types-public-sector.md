@@ -2,8 +2,9 @@
 title: Set up general budget reservation rules and reservation types (Public sector)
 TOCTitle: Set up general budget reservation rules and reservation types (Public sector)
 ms:assetid: ae752fd2-0036-45bc-bbaf-51bda49cf021
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn792460(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn792460(v=AX.60)
 ms:contentKeyID: 65205506
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

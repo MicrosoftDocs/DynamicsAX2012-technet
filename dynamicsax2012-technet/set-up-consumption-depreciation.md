@@ -2,8 +2,9 @@
 title: Set up consumption depreciation
 TOCTitle: Set up consumption depreciation
 ms:assetid: 96c94398-7dd5-4310-bd7b-399834782940
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498428(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498428(v=AX.60)
 ms:contentKeyID: 36058643
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,9 +69,9 @@ A consumption unit can be used as a reference for unit price entry for fixed ass
 
 [About consumption depreciation](about-consumption-depreciation.md)
 
-[Consumption units (form)](https://technet.microsoft.com/en-us/library/aa576472\(v=ax.60\))
+[Consumption units (form)](https://technet.microsoft.com/library/aa576472\(v=ax.60\))
 
-[Consumption factors (form)](https://technet.microsoft.com/en-us/library/aa571869\(v=ax.60\))
+[Consumption factors (form)](https://technet.microsoft.com/library/aa571869\(v=ax.60\))
 
   
 

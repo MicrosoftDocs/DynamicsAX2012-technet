@@ -2,8 +2,9 @@
 title: Specify how to dispose of returned items
 TOCTitle: Specify how to dispose of returned items
 ms:assetid: 9c494e29-24b2-46b5-a50b-6487c8887f6e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213368(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213368(v=AX.60)
 ms:contentKeyID: 36058728
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -159,13 +160,13 @@ For each disposition code that you define, you must select a disposition action.
 
 
 > [!NOTE]
-> <P>For information about how to create a new quarantine order manually, see <A href="about-quarantine-orders.md">About quarantine orders</A> and <A href="https://technet.microsoft.com/en-us/library/aa554073(v=ax.60)">Quarantine order (form)</A>.</P>
+> <P>For information about how to create a new quarantine order manually, see <A href="about-quarantine-orders.md">About quarantine orders</A> and <A href="https://technet.microsoft.com/library/aa554073(v=ax.60)">Quarantine order (form)</A>.</P>
 
 
 
 ## See also
 
-[Disposition codes (form)](https://technet.microsoft.com/en-us/library/hh597113\(v=ax.60\))
+[Disposition codes (form)](https://technet.microsoft.com/library/hh597113\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (SAU) Generate the withholding tax reports
 TOCTitle: (SAU) Generate the withholding tax reports
 ms:assetid: 8d742be6-b29b-492f-ba6c-c604e21d35cb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209357(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209357(v=AX.60)
 ms:contentKeyID: 36058502
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ In addition to these reports, you can also generate a withholding tax slip for e
 
 1.  Click **Accounts payable** \> **Journals** \> **Payments** \> **Payment journal**.
 
-2.  Create a new journal, and then click **Lines** to open the **Journal voucher** form. For more information, see [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\)).
+2.  Create a new journal, and then click **Lines** to open the **Journal voucher** form. For more information, see [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\)).
 
 3.  Enter the required payment details, and then click **Print** \> **Withholding tax slip** to generate the withholding tax slip for the vendor payment.
 

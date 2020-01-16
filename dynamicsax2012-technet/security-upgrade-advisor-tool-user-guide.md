@@ -2,8 +2,9 @@
 title: Security Upgrade Advisor Tool User Guide
 TOCTitle: Security Upgrade Advisor Tool User Guide
 ms:assetid: ac9baada-7e30-47e3-9c64-35023d00abe4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh394895(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh394895(v=AX.60)
 ms:contentKeyID: 36916378
+author: Khairunj
 ms.date: 01/19/2016
 mtps_version: v=AX.60
 ---

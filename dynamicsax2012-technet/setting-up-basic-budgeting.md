@@ -2,8 +2,9 @@
 title: Setting up basic budgeting
 TOCTitle: Setting up basic budgeting
 ms:assetid: e65bbc2e-dd4a-4513-828a-361050e0b454
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227457(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227457(v=AX.60)
 ms:contentKeyID: 36059802
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

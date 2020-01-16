@@ -2,8 +2,9 @@
 title: 'Scenario: Settle a vendor payment with an invoice'
 TOCTitle: 'Scenario: Settle a vendor payment with an invoice'
 ms:assetid: 8f050a69-6483-4b6e-be7e-034f328ccfcf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597170(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597170(v=AX.60)
 ms:contentKeyID: 39519230
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -21,7 +22,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-This scenario illustrates two simple examples of a settlement in which one payment is settled with one or more invoices. For more information, see [Key tasks: Vendor payments and settlements](key-tasks-vendor-payments-and-settlements.md), [About parameters for settlements in Accounts payable](about-parameters-for-settlements-in-accounts-payable.md), and [Accounts payable parameters (form)](https://technet.microsoft.com/en-us/library/aa596348\(v=ax.60\)).
+This scenario illustrates two simple examples of a settlement in which one payment is settled with one or more invoices. For more information, see [Key tasks: Vendor payments and settlements](key-tasks-vendor-payments-and-settlements.md), [About parameters for settlements in Accounts payable](about-parameters-for-settlements-in-accounts-payable.md), and [Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\)).
 
 ## Prerequisites
 

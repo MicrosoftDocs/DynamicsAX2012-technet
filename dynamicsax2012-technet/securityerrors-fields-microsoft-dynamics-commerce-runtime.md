@@ -1,9 +1,10 @@
-﻿---
+---
 title: SecurityErrors Fields (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: SecurityErrors Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Commerce.Runtime.SecurityErrors
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.securityerrors_fields(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.securityerrors_fields(v=AX.60)
 ms:contentKeyID: 49819007
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

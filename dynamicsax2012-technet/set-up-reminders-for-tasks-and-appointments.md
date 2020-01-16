@@ -2,8 +2,9 @@
 title: Set up reminders for tasks and appointments
 TOCTitle: Set up reminders for tasks and appointments
 ms:assetid: 89d5ed1c-42e5-4d12-b5bc-a0d5e967f822
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498235(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498235(v=AX.60)
 ms:contentKeyID: 37820241
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

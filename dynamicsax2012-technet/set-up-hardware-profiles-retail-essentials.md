@@ -2,8 +2,9 @@
 title: Set up hardware profiles (Retail Essentials)
 TOCTitle: Set up hardware profiles (Retail Essentials)
 ms:assetid: 8100e9d1-bf4a-4d4f-a07f-c4cf25ecad59
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736908(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736908(v=AX.60)
 ms:contentKeyID: 62200386
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ Retail essentials supports hardware that complies with Object Linking and Embedd
         
 
         > [!NOTE]
-        > <P>You must set the base unit of measure for a product to a unit of weight. For more information about how to set up the base unit of measure for a product, see <A href="https://technet.microsoft.com/en-us/library/hh209233(v=ax.60)">Units (form)</A>.</P>
+        > <P>You must set the base unit of measure for a product to a unit of weight. For more information about how to set up the base unit of measure for a product, see <A href="https://technet.microsoft.com/library/hh209233(v=ax.60)">Units (form)</A>.</P>
 
     
       - **Keylock** – Specify the settings for your keylock. The keylock settings specify whether an OPOS keylock or a logon dialog box controls access to the register.

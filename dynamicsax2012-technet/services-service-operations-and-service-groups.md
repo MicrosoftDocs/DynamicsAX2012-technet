@@ -1,9 +1,10 @@
-﻿---
+---
 title: Services, service operations, and service groups
 TOCTitle: Services, service operations, and service groups
 ms:assetid: b8698332-a18d-4600-8451-d1008c1c6974
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731906(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731906(v=AX.60)
 ms:contentKeyID: 35132828
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

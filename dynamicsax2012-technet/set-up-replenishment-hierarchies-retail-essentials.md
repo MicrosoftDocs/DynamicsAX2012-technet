@@ -2,8 +2,9 @@
 title: Set up replenishment hierarchies (Retail essentials)
 TOCTitle: Set up replenishment hierarchies (Retail essentials)
 ms:assetid: d3c364c2-e9e7-4ee0-ba6d-be384412f4da
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736957(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736957(v=AX.60)
 ms:contentKeyID: 62200435
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

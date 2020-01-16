@@ -2,8 +2,9 @@
 title: Set up advanced ledger entries (Public sector)
 TOCTitle: Set up advanced ledger entries (Public sector)
 ms:assetid: a2007ba7-3a18-428f-9c61-afdff0ea5ee6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208561(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208561(v=AX.60)
 ms:contentKeyID: 36056330
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ When you use advanced ledger entries, you must use General ledger posting defini
 
 [Create and post advanced ledger entries (Public sector)](create-and-post-advanced-ledger-entries-public-sector.md)
 
-[Advanced ledger entry (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208579\(v=ax.60\))
+[Advanced ledger entry (form) (Public sector)](https://technet.microsoft.com/library/hh208579\(v=ax.60\))
 
   
 

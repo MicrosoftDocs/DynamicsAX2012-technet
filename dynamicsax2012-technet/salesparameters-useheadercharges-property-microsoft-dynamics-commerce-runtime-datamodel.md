@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesParameters.UseHeaderCharges Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: UseHeaderCharges Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesParameters.UseHeaderCharges
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.salesparameters.useheadercharges(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salesparameters.useheadercharges(v=AX.60)
 ms:contentKeyID: 49853335
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,8 +56,8 @@ property bool UseHeaderCharges {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
-Returns [Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\)).  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
+Returns [Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\)).  
 
 ## See Also
 

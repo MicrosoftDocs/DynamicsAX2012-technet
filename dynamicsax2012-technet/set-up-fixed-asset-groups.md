@@ -2,8 +2,9 @@
 title: Set up fixed asset groups
 TOCTitle: Set up fixed asset groups
 ms:assetid: 7ee1a476-08af-48d1-8057-861ea5d1e43b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571539(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571539(v=AX.60)
 ms:contentKeyID: 36058325
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

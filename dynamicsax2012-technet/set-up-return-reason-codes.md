@@ -2,8 +2,9 @@
 title: Set up return reason codes
 TOCTitle: Set up return reason codes
 ms:assetid: 890e1fd1-6442-4a80-aedf-1f6e6608b619
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242855(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242855(v=AX.60)
 ms:contentKeyID: 36058458
+author: Khairunj
 ms.date: 09/12/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,11 +34,11 @@ This procedure helps you set up return reason codes that you can use to indicate
 
 ## See also
 
-[Return reason codes (form)](https://technet.microsoft.com/en-us/library/hh227372\(v=ax.60\))
+[Return reason codes (form)](https://technet.microsoft.com/library/hh227372\(v=ax.60\))
 
 [Set up return reason code groups](set-up-return-reason-code-groups.md)
 
-[Return reason code groups (form)](https://technet.microsoft.com/en-us/library/hh209604\(v=ax.60\))
+[Return reason code groups (form)](https://technet.microsoft.com/library/hh209604\(v=ax.60\))
 
   
 

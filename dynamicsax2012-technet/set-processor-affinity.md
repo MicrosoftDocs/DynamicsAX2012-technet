@@ -2,8 +2,9 @@
 title: Set processor affinity
 TOCTitle: Set processor affinity
 ms:assetid: 2931af93-352a-43c7-9e9b-67d8f6ed7201
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309629(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309629(v=AX.60)
 ms:contentKeyID: 35949275
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

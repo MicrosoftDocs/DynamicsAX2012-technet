@@ -1,9 +1,10 @@
-﻿---
+---
 title: SortingInfo.ToString Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ToString Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.SortingInfo.ToString
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.sortinginfo.tostring(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.sortinginfo.tostring(v=AX.60)
 ms:contentKeyID: 65319008
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # ToString Method
 
-Returns a [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)) that represents this instance.
+Returns a [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)) that represents this instance.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
@@ -44,8 +45,8 @@ virtual String^ ToString() override
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
-A [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)) that represents this instance.  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
+A [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)) that represents this instance.  
 
 ## See Also
 

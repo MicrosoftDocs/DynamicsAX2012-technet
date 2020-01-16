@@ -2,8 +2,9 @@
 title: " shopping cart"
 TOCTitle: " shopping cart"
 ms:assetid: DynamicsAXGlossary.1364968
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1364968(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1364968(v=AX.60)
 ms:contentKeyID: 36056481
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

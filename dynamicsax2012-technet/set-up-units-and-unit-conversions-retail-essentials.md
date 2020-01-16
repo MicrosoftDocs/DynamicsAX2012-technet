@@ -2,8 +2,9 @@
 title: Set up units and unit conversions (Retail essentials)
 TOCTitle: Set up units and unit conversions (Retail essentials)
 ms:assetid: ee3b5eba-7b77-4d45-9523-731e21b696ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736971(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736971(v=AX.60)
 ms:contentKeyID: 62200448
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---
@@ -43,7 +44,7 @@ Use the following steps to create a unit of measure.
 
 8.  In the **System of units** field, select whether to use metric units.
 
-9.  Complete the remaining information for the unit of measure. For more information, see [Units (form)](https://technet.microsoft.com/en-us/library/hh209233\(v=ax.60\))
+9.  Complete the remaining information for the unit of measure. For more information, see [Units (form)](https://technet.microsoft.com/library/hh209233\(v=ax.60\))
 
 ## Set up unit conversions
 
@@ -77,7 +78,7 @@ Use the following steps to set up a conversion for units of measure.
 
 ## See also
 
-[Unit conversions (form)](https://technet.microsoft.com/en-us/library/hh209285\(v=ax.60\))
+[Unit conversions (form)](https://technet.microsoft.com/library/hh209285\(v=ax.60\))
 
   
 

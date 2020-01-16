@@ -2,8 +2,9 @@
 title: Setting up payment methods
 TOCTitle: Setting up payment methods
 ms:assetid: 03e0cc33-f79e-43a8-a095-12abcea22c13
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230656(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230656(v=AX.60)
 ms:contentKeyID: 36055940
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

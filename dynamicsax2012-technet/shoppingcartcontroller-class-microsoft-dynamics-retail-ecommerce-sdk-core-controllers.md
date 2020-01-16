@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShoppingCartController Class (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers)
 TOCTitle: ShoppingCartController Class
 ms:assetid: T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.ShoppingCartController
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.shoppingcartcontroller(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.shoppingcartcontroller(v=AX.60)
 ms:contentKeyID: 65316995
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ public ref class ShoppingCartController : public ControllerBase
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.ControllerBase](controllerbase-class-microsoft-dynamics-retail-ecommerce-sdk-core-controllers.md)  
     Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.ShoppingCartController  
 

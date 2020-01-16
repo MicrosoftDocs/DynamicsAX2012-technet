@@ -2,8 +2,9 @@
 title: Settle a promissory note
 TOCTitle: Settle a promissory note
 ms:assetid: e0b507d0-f4c1-4880-b987-ea9f29ecafce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551320(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551320(v=AX.60)
 ms:contentKeyID: 36059705
+author: Khairunj
 ms.date: 06/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ When you settle a remitted promissory note, the remitted promissory notes summar
 
 
 > [!NOTE]
-> <P>If you cannot post and you receive a message that mentions posting restrictions, you might be able to post only the journals that you created. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
+> <P>If you cannot post and you receive a message that mentions posting restrictions, you might be able to post only the journals that you created. For more information, see <A href="https://technet.microsoft.com/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
 
 
 
@@ -69,11 +70,11 @@ Use the **Remittance files for vendors** form to change the status of promissory
 
 [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md)
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Promissory note statistics (form)](https://technet.microsoft.com/en-us/library/aa550186\(v=ax.60\))
+[Promissory note statistics (form)](https://technet.microsoft.com/library/aa550186\(v=ax.60\))
 
-[Remittance files for vendors (form)](https://technet.microsoft.com/en-us/library/aa585800\(v=ax.60\))
+[Remittance files for vendors (form)](https://technet.microsoft.com/library/aa585800\(v=ax.60\))
 
 [About payment types](about-payment-types.md)
 

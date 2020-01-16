@@ -2,8 +2,9 @@
 title: Structures
 TOCTitle: Structures
 ms:assetid: 11d6c2e5-a9be-4391-9106-51fceee6fe0a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496573(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496573(v=AX.60)
 ms:contentKeyID: 36687813
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up payment methods (Call center)
 TOCTitle: Set up payment methods (Call center)
 ms:assetid: 24bcd52c-c82c-4f73-8d1e-bfbf8ff85345
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497730(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497730(v=AX.60)
 ms:contentKeyID: 62200044
+author: Khairunj
 ms.date: 05/09/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -223,7 +224,7 @@ To set up parameters for call center payments, follow these steps:
 
 
 > [!NOTE]
-> <P>The <STRONG>Accounts receivable parameters</STRONG> form also includes settings that affect credit card transactions and other aspects of payment processing. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa576993(v=ax.60)">Accounts receivable parameters (form)</A>.</P>
+> <P>The <STRONG>Accounts receivable parameters</STRONG> form also includes settings that affect credit card transactions and other aspects of payment processing. For more information, see <A href="https://technet.microsoft.com/library/aa576993(v=ax.60)">Accounts receivable parameters (form)</A>.</P>
 
 
 

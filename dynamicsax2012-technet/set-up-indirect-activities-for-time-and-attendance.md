@@ -2,8 +2,9 @@
 title: Set up indirect activities for time and attendance
 TOCTitle: Set up indirect activities for time and attendance
 ms:assetid: d297e057-2603-4500-a7e4-a6fa809875d4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551048(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551048(v=AX.60)
 ms:contentKeyID: 36059507
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -98,11 +99,11 @@ If you want to track how many times a worker is called on during a work shift, y
 
 [About indirect activities for time and attendance](about-indirect-activities-for-time-and-attendance.md)
 
-[Indirect activities (form)](https://technet.microsoft.com/en-us/library/aa597338\(v=ax.60\))
+[Indirect activities (form)](https://technet.microsoft.com/library/aa597338\(v=ax.60\))
 
-[Indirect activities setup (form)](https://technet.microsoft.com/en-us/library/aa600187\(v=ax.60\))
+[Indirect activities setup (form)](https://technet.microsoft.com/library/aa600187\(v=ax.60\))
 
-[Indirect activity cost price (form)](https://technet.microsoft.com/en-us/library/aa596823\(v=ax.60\))
+[Indirect activity cost price (form)](https://technet.microsoft.com/library/aa596823\(v=ax.60\))
 
   
 

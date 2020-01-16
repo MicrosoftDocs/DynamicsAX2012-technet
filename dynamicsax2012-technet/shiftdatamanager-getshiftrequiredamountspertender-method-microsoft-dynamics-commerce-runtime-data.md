@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShiftDataManager.GetShiftRequiredAmountsPerTender Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetShiftRequiredAmountsPerTender Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ShiftDataManager.GetShiftRequiredAmountsPerTender(System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.shiftdatamanager.getshiftrequiredamountspertender(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.shiftdatamanager.getshiftrequiredamountspertender(v=AX.60)
 ms:contentKeyID: 65319580
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,16 +56,16 @@ ReadOnlyCollection<ShiftTenderLine^>^ GetShiftRequiredAmountsPerTender(
 #### Parameters
 
   - terminalId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - shiftId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[ShiftTenderLine](shifttenderline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[ShiftTenderLine](shifttenderline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

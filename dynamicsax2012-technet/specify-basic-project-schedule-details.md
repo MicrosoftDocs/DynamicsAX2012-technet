@@ -2,8 +2,9 @@
 title: Specify basic project schedule details
 TOCTitle: Specify basic project schedule details
 ms:assetid: 07664c77-7b82-4809-af64-0d3ceb556107
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735272(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ735272(v=AX.60)
 ms:contentKeyID: 49693273
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,11 +66,11 @@ Use this procedure to specify the basic parameters of a project schedule.
 
 ## See also
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Assign resources (form)](https://technet.microsoft.com/en-us/library/hh208809\(v=ax.60\))
+[Assign resources (form)](https://technet.microsoft.com/library/hh208809\(v=ax.60\))
 
-[Schedule resources (form)](https://technet.microsoft.com/en-us/library/hh209507\(v=ax.60\))
+[Schedule resources (form)](https://technet.microsoft.com/library/hh209507\(v=ax.60\))
 
 [Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012 R2](key-tasks-create-a-schedule-based-on-a-project-in-microsoft-dynamics-ax-2012-r2.md)
 

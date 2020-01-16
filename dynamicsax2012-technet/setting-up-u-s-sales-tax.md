@@ -2,8 +2,9 @@
 title: Setting up U.S. sales tax
 TOCTitle: Setting up U.S. sales tax
 ms:assetid: c5bd3365-7b9b-4461-bf11-0e8c953b3792
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213642(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213642(v=AX.60)
 ms:contentKeyID: 36059302
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

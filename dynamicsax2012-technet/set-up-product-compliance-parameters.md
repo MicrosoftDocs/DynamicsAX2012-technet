@@ -2,8 +2,9 @@
 title: Set up product compliance parameters
 TOCTitle: Set up product compliance parameters
 ms:assetid: 76b5f756-d691-4fc0-9695-23c0953ecbeb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352212(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352212(v=AX.60)
 ms:contentKeyID: 36687847
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ Use this procedure to set up parameters to create and maintain product complianc
 
 ## See also
 
-[(PM) Inventory and warehouse management parameters (form)](https://technet.microsoft.com/en-us/library/hh352320\(v=ax.60\))
+[(PM) Inventory and warehouse management parameters (form)](https://technet.microsoft.com/library/hh352320\(v=ax.60\))
 
   
 

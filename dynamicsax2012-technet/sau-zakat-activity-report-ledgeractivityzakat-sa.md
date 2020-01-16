@@ -2,8 +2,9 @@
 title: (SAU) Zakat activity report (LedgerActivityZakat_SA)
 TOCTitle: (SAU) Zakat activity report (LedgerActivityZakat_SA)
 ms:assetid: 9f32ba29-8e69-4b7c-b44f-629bcbb36ebb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh371728(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh371728(v=AX.60)
 ms:contentKeyID: 36814942
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

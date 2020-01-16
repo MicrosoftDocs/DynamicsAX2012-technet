@@ -2,8 +2,9 @@
 title: Setting up and maintaining batch orders
 TOCTitle: Setting up and maintaining batch orders
 ms:assetid: 99acee4c-0596-4b9a-9420-fe042181edb3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352307(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352307(v=AX.60)
 ms:contentKeyID: 36687935
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

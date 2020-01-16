@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShippingDataManager.GetShipments Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetShipments Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.ShippingDataManager.GetShipments
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.shippingdatamanager.getshipments(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.shippingdatamanager.getshipments(v=AX.60)
 ms:contentKeyID: 62209208
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

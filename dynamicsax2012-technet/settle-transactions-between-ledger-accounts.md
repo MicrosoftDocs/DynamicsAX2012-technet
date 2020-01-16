@@ -2,8 +2,9 @@
 title: Settle transactions between ledger accounts
 TOCTitle: Settle transactions between ledger accounts
 ms:assetid: 79b155f4-cc16-4193-b8b7-412a138b79e2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550060(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550060(v=AX.60)
 ms:contentKeyID: 36058241
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ Use the **Ledger settlements** form to settle transactions between ledger accoun
 
 [Cancel a ledger settlement](cancel-a-ledger-settlement.md)
 
-[Ledger settlement transactions (form)](https://technet.microsoft.com/en-us/library/aa552006\(v=ax.60\))
+[Ledger settlement transactions (form)](https://technet.microsoft.com/library/aa552006\(v=ax.60\))
 
   
 

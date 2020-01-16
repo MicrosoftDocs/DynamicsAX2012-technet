@@ -2,8 +2,9 @@
 title: Set up retail products
 TOCTitle: Set up retail products
 ms:assetid: f24ee310-09fa-42ba-9868-b794eaf87706
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597279(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597279(v=AX.60)
 ms:contentKeyID: 39519363
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,9 +63,9 @@ A product must be defined at the shared company level before the product can be 
 
 ## See also
 
-[Product details (form)](https://technet.microsoft.com/en-us/library/hh545519\(v=ax.60\))
+[Product details (form)](https://technet.microsoft.com/library/hh545519\(v=ax.60\))
 
-[Released product details (form) (Retail)](https://technet.microsoft.com/en-us/library/hh580615\(v=ax.60\))
+[Released product details (form) (Retail)](https://technet.microsoft.com/library/hh580615\(v=ax.60\))
 
   
 

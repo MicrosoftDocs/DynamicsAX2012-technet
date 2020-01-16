@@ -2,8 +2,9 @@
 title: Specify the invoice frequency for an existing project contract
 TOCTitle: Specify the invoice frequency for an existing project contract
 ms:assetid: f28f066c-2128-4be0-b6dd-077e402d3366
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551624(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551624(v=AX.60)
 ms:contentKeyID: 36059966
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,9 +56,9 @@ The invoice frequency plus the number of buffer days determine when a sales paym
 
 [Set buffer days for sales payments](set-buffer-days-for-sales-payments.md)
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
   
 

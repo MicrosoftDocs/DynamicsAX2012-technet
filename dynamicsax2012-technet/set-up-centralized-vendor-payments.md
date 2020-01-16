@@ -2,8 +2,9 @@
 title: Set up centralized vendor payments
 TOCTitle: Set up centralized vendor payments
 ms:assetid: 22f95748-f55d-40b7-afda-f4cc29ea4b38
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230990(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230990(v=AX.60)
 ms:contentKeyID: 36056177
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -104,7 +105,7 @@ Before you begin, make a list of all the invoice legal entities that you will us
 
 3.  Click **General ledger** \> **Setup** \> **Currency** \> **Currency exchange rates**.
 
-4.  Set up exchange rate information for the new currency. This information is used for exchange rate calculations when cross-company payments are settled, if the payment currency and the invoice currency differ. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\)).
+4.  Set up exchange rate information for the new currency. This information is used for exchange rate calculations when cross-company payments are settled, if the payment currency and the invoice currency differ. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\)).
 
 5.  Switch to the next legal entity of the invoice and repeat steps 1 through 4.
 

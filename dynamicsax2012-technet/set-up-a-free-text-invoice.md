@@ -2,8 +2,9 @@
 title: Set up a free text invoice
 TOCTitle: Set up a free text invoice
 ms:assetid: d995c38b-1c14-4670-8204-ad7da981b5e0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499498(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499498(v=AX.60)
 ms:contentKeyID: 36059654
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Set up RFM analysis
 TOCTitle: Set up RFM analysis
 ms:assetid: ddbd3f80-14f9-476f-a0b0-5b2a225f3a42
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497838(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497838(v=AX.60)
 ms:contentKeyID: 62200170
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up vendor's product numbers
 TOCTitle: Set up vendor's product numbers
 ms:assetid: cf9e5166-343c-46ea-b4f5-e6cba84cce16
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597248(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597248(v=AX.60)
 ms:contentKeyID: 39519326
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ The external product number can be set up for a specific vendor. This product nu
 
 [About importing products from a vendor](about-importing-products-from-a-vendor.md)
 
-[External product descriptions (form)](https://technet.microsoft.com/en-us/library/hh597108\(v=ax.60\))
+[External product descriptions (form)](https://technet.microsoft.com/library/hh597108\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Set up integration with Microsoft Office Add-ins
 TOCTitle: Set up integration with Microsoft Office Add-ins
 ms:assetid: c78ade1c-a85e-4519-893a-e56fab51c3b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781102(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781102(v=AX.60)
 ms:contentKeyID: 43894517
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up Async Server profile
 TOCTitle: Set up Async Server profile
 ms:assetid: 00faba1a-26cf-4bb6-b28d-b6361b30aa9b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859554(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859554(v=AX.60)
 ms:contentKeyID: 63820130
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

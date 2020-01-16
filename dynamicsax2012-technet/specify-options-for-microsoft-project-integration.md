@@ -2,8 +2,9 @@
 title: Specify options for Microsoft Project integration
 TOCTitle: Specify options for Microsoft Project integration
 ms:assetid: 7bb3f5b9-7b6c-484c-9b1d-99626062b08f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn479195(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn479195(v=AX.60)
 ms:contentKeyID: 59633710
+author: Khairunj
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -64,7 +65,7 @@ Project managers in your legal entity can link projects in Microsoft Dynamics AX
 
 ## See also
 
-[Collaboration workspace settings (form)](https://technet.microsoft.com/en-us/library/hh242783\(v=ax.60\))
+[Collaboration workspace settings (form)](https://technet.microsoft.com/library/hh242783\(v=ax.60\))
 
   
 

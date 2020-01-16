@@ -2,8 +2,9 @@
 title: Set up rules for demand consolidation and for creating purchase orders
 TOCTitle: Set up rules for demand consolidation and for creating purchase orders
 ms:assetid: 94707a11-df77-4de6-898c-529634109b1c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209386(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209386(v=AX.60)
 ms:contentKeyID: 36058599
+author: Khairunj
 ms.date: 04/27/2016
 mtps_version: v=AX.60
 audience: Application User
@@ -126,7 +127,7 @@ You can perform the following tasks:
 
 ## See also
 
-[Purchase order creation and demand consolidation rule (form)](https://technet.microsoft.com/en-us/library/hh209698\(v=ax.60\))
+[Purchase order creation and demand consolidation rule (form)](https://technet.microsoft.com/library/hh209698\(v=ax.60\))
 
 [Key tasks: Consolidate purchase requisitions](key-tasks-consolidate-purchase-requisitions.md)
 

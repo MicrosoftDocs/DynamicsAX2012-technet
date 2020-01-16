@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesTransactionConverter.ConvertToData Method (SalesTransaction, Boolean) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ConvertToData Method (SalesTransaction, Boolean)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.SalesTransactionConverter.ConvertToData(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction,System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.salestransactionconverter.converttodata(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.salestransactionconverter.converttodata(v=AX.60)
 ms:contentKeyID: 62208429
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -59,7 +60,7 @@ static SalesTransactionData^ ConvertToData(
 <!-- end list -->
 
   - serializeData  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Return Value
 

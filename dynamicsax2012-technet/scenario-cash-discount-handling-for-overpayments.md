@@ -2,8 +2,9 @@
 title: 'Scenario: Cash discount handling for overpayments'
 TOCTitle: 'Scenario: Cash discount handling for overpayments'
 ms:assetid: 15ca32c1-9e68-43a0-8c0d-09cfbd53d2e2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545514(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh545514(v=AX.60)
 ms:contentKeyID: 37832491
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -433,7 +434,7 @@ The cash discount amount is reduced from 10.50 to 10.00. The payment and invoice
 
 ## See also
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
 [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md)
 

@@ -2,8 +2,9 @@
 title: Set up users for the workflow system
 TOCTitle: Set up users for the workflow system
 ms:assetid: 9bf972be-440d-40da-bbc5-742c71882806
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362011(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362011(v=AX.60)
 ms:contentKeyID: 35132780
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

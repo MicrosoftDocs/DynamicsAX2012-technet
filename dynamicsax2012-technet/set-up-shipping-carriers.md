@@ -2,8 +2,9 @@
 title: Set up shipping carriers
 TOCTitle: Set up shipping carriers
 ms:assetid: d1c7a21c-04f9-4a9b-b72d-a2936f1da903
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213688(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213688(v=AX.60)
 ms:contentKeyID: 36059502
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -59,7 +60,7 @@ You can use existing miscellaneous charges codes or create new ones to use for s
 
   - Fuel surcharges – Used for surcharges that are related to the price of fuel and are typically applied to an entire shipment.
 
-For more information, see [Charges code (form)](https://technet.microsoft.com/en-us/library/aa598932\(v=ax.60\)).
+For more information, see [Charges code (form)](https://technet.microsoft.com/library/aa598932\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Setup** \> **Charges** \> **Charges code**.
 
@@ -75,7 +76,7 @@ For more information, see [Charges code (form)](https://technet.microsoft.com/en
 
 ## Set up carrier company information for shipping carriers
 
-Set up a code to represent the carrier company and account information for each of the warehouses or other locations from which you ship goods. Later, you can assign an account code to a mode of delivery that represents shipments from each warehouse. For more information, see [Carrier company (form)](https://technet.microsoft.com/en-us/library/hh209693\(v=ax.60\)).
+Set up a code to represent the carrier company and account information for each of the warehouses or other locations from which you ship goods. Later, you can assign an account code to a mode of delivery that represents shipments from each warehouse. For more information, see [Carrier company (form)](https://technet.microsoft.com/library/hh209693\(v=ax.60\)).
 
 1.  Click **Inventory management** \> **Setup** \> **Shipping carrier** \> **Carrier company**.
 
@@ -117,7 +118,7 @@ Specify shipping carrier information for each mode of delivery that requires a s
 
 4.  Select a carrier ID. This information is used by the shipping carrier software to process the shipment.
 
-5.  If the mode of delivery originates from a specific warehouse or shipping location, select a carrier account code. For more information, see [Carrier company (form)](https://technet.microsoft.com/en-us/library/hh209693\(v=ax.60\)).
+5.  If the mode of delivery originates from a specific warehouse or shipping location, select a carrier account code. For more information, see [Carrier company (form)](https://technet.microsoft.com/library/hh209693\(v=ax.60\)).
 
 6.  Repeat steps 2 through 5 for the remaining modes of delivery.
 
@@ -185,17 +186,17 @@ When you have completed the other setup tasks, activate the shipping carrier int
 
 [Post packing slips and update information for shipping carriers](post-packing-slips-and-update-information-for-shipping-carriers.md)
 
-[Carrier interface (form)](https://technet.microsoft.com/en-us/library/hh209394\(v=ax.60\))
+[Carrier interface (form)](https://technet.microsoft.com/library/hh209394\(v=ax.60\))
 
-[Carrier company (form)](https://technet.microsoft.com/en-us/library/hh209693\(v=ax.60\))
+[Carrier company (form)](https://technet.microsoft.com/library/hh209693\(v=ax.60\))
 
-[Carrier ID (form)](https://technet.microsoft.com/en-us/library/hh209608\(v=ax.60\))
+[Carrier ID (form)](https://technet.microsoft.com/library/hh209608\(v=ax.60\))
 
-[Inventory and warehouse management parameters (form)](https://technet.microsoft.com/en-us/library/aa587658\(v=ax.60\))
+[Inventory and warehouse management parameters (form)](https://technet.microsoft.com/library/aa587658\(v=ax.60\))
 
-[Modes of delivery (form)](https://technet.microsoft.com/en-us/library/aa619881\(v=ax.60\))
+[Modes of delivery (form)](https://technet.microsoft.com/library/aa619881\(v=ax.60\))
 
-[Terms of delivery (form)](https://technet.microsoft.com/en-us/library/aa575567\(v=ax.60\))
+[Terms of delivery (form)](https://technet.microsoft.com/library/aa575567\(v=ax.60\))
 
   
 

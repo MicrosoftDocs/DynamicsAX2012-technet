@@ -2,8 +2,9 @@
 title: Select invoices to pay on behalf of multiple legal entities
 TOCTitle: Select invoices to pay on behalf of multiple legal entities
 ms:assetid: 40f1d2e6-66e3-4f27-9cc5-e416f5065940
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231357(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231357(v=AX.60)
 ms:contentKeyID: 36056722
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,7 +62,7 @@ In organizations that use centralized payment processing, each operating legal e
 
 [About centralized vendor payments](about-centralized-vendor-payments.md)
 
-[Vendor payment proposal (class form)](https://technet.microsoft.com/en-us/library/aa554537\(v=ax.60\))
+[Vendor payment proposal (class form)](https://technet.microsoft.com/library/aa554537\(v=ax.60\))
 
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 

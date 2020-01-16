@@ -2,8 +2,9 @@
 title: Set up travel and expense parameters
 TOCTitle: Set up travel and expense parameters
 ms:assetid: 48f3e54f-510a-45dc-8f66-03b95f08f0c0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231400(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231400(v=AX.60)
 ms:contentKeyID: 36056934
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ Before you begin to work in **Travel and expense**, you can set default values i
 
 2.  Add information to the form tabs as described in the following sections.
     
-    For detailed information about this form, including individual field descriptions, see [Travel and expense parameters (form)](https://technet.microsoft.com/en-us/library/hh242465\(v=ax.60\)).
+    For detailed information about this form, including individual field descriptions, see [Travel and expense parameters (form)](https://technet.microsoft.com/library/hh242465\(v=ax.60\)).
 
 ## General
 
@@ -91,7 +92,7 @@ On the **Fax cover pages** tab:
 
 ## See also
 
-[Project expense policies (form)](https://technet.microsoft.com/en-us/library/hh227585\(v=ax.60\))
+[Project expense policies (form)](https://technet.microsoft.com/library/hh227585\(v=ax.60\))
 
   
 

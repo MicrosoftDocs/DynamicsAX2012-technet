@@ -2,8 +2,9 @@
 title: Set up bonus depreciation
 TOCTitle: Set up bonus depreciation
 ms:assetid: fabe8e93-43b9-4f94-ae68-89cc65a644a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499871(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499871(v=AX.60)
 ms:contentKeyID: 36060072
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ Bonus depreciation is available only for depreciation books. You do not have to 
 
 ## See also
 
-[Special depreciation allowance (form)](https://technet.microsoft.com/en-us/library/aa619793\(v=ax.60\))
+[Special depreciation allowance (form)](https://technet.microsoft.com/library/aa619793\(v=ax.60\))
 
   
 

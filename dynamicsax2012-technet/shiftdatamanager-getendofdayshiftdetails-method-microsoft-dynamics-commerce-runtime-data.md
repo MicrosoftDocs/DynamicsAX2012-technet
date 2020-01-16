@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShiftDataManager.GetEndOfDayshiftDetails Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetEndOfDayshiftDetails Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ShiftDataManager.GetEndOfDayshiftDetails(System.String,System.Int64,System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.shiftdatamanager.getendofdayshiftdetails(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.shiftdatamanager.getendofdayshiftdetails(v=AX.60)
 ms:contentKeyID: 62209974
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,17 +62,17 @@ Shift^ GetEndOfDayshiftDetails(
 #### Parameters
 
   - terminalId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - shiftId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - isTaxInclusive  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Return Value
 

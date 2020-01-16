@@ -2,8 +2,9 @@
 title: Schedule load utilization
 TOCTitle: Schedule load utilization
 ms:assetid: e912969d-548a-46e9-b735-999e21d9ca49
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728718(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728718(v=AX.60)
 ms:contentKeyID: 49556623
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -95,7 +96,7 @@ The space utilization can be projected by using the **Warehouse load utilization
     
 
     > [!NOTE]
-    > <P>Pallets are available only if the Warehouse Management System (WMS) is enabled. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa548653(v=ax.60)">About license codes and configuration keys</A>.</P>
+    > <P>Pallets are available only if the Warehouse Management System (WMS) is enabled. For more information, see <A href="https://technet.microsoft.com/library/aa548653(v=ax.60)">About license codes and configuration keys</A>.</P>
 
 
 
@@ -103,7 +104,7 @@ The space utilization can be projected by using the **Warehouse load utilization
 
 ## See also
 
-[Space utilization (form)](https://technet.microsoft.com/en-us/library/jj677438\(v=ax.60\))
+[Space utilization (form)](https://technet.microsoft.com/library/jj677438\(v=ax.60\))
 
   
 

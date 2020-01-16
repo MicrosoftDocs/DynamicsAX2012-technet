@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShoppingCart.AddShoppingCartTemplateAndContainer Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: AddShoppingCartTemplateAndContainer Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.ShoppingCart.AddShoppingCartTemplateAndContainer(System.Web.UI.ControlCollection)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.shoppingcart.addshoppingcarttemplateandcontainer(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.shoppingcart.addshoppingcarttemplateandcontainer(v=AX.60)
 ms:contentKeyID: 62202240
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ void AddShoppingCartTemplateAndContainer(
 #### Parameters
 
   - controlCollection  
-    Type: [System.Web.UI.ControlCollection](https://technet.microsoft.com/en-us/library/kbe31ba9\(v=ax.60\))  
+    Type: [System.Web.UI.ControlCollection](https://technet.microsoft.com/library/kbe31ba9\(v=ax.60\))  
 
 ## See Also
 

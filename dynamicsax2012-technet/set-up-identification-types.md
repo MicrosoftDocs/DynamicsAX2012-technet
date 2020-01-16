@@ -2,8 +2,9 @@
 title: Set up identification types
 TOCTitle: Set up identification types
 ms:assetid: 4816e4a7-1e92-4194-b4b5-72d1150ba43f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242397(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242397(v=AX.60)
 ms:contentKeyID: 36056921
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,9 +55,9 @@ You must set up identification types before you can enter identification informa
 
 [(USA) Set up Form I-9 document types](usa-set-up-form-i-9-document-types.md)
 
-[Identification type (form)](https://technet.microsoft.com/en-us/library/hh227646\(v=ax.60\))
+[Identification type (form)](https://technet.microsoft.com/library/hh227646\(v=ax.60\))
 
-[Identification (form)](https://technet.microsoft.com/en-us/library/hh242792\(v=ax.60\))
+[Identification (form)](https://technet.microsoft.com/library/hh242792\(v=ax.60\))
 
   
 

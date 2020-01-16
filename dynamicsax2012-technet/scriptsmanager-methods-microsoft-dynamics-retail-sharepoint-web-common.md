@@ -1,9 +1,10 @@
-﻿---
+---
 title: ScriptsManager Methods (Microsoft.Dynamics.Retail.SharePoint.Web.Common)
 TOCTitle: ScriptsManager Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Web.Common.ScriptsManager
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.common.scriptsmanager_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.scriptsmanager_methods(v=AX.60)
 ms:contentKeyID: 62205876
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

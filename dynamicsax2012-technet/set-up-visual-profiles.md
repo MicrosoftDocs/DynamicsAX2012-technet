@@ -2,8 +2,9 @@
 title: Set up visual profiles
 TOCTitle: Set up visual profiles
 ms:assetid: 11d730e4-2525-46ec-bc16-810d11577521
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580572(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580572(v=AX.60)
 ms:contentKeyID: 39519050
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -104,7 +105,7 @@ You can create several visual profiles and assign specific profiles to run on sp
 
 [About setting up Retail POS](about-setting-up-retail-pos.md)
 
-[POS visual profiles (form)](https://technet.microsoft.com/en-us/library/hh597120\(v=ax.60\))
+[POS visual profiles (form)](https://technet.microsoft.com/library/hh597120\(v=ax.60\))
 
   
 

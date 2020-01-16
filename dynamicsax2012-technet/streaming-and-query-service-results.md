@@ -1,9 +1,10 @@
-﻿---
+---
 title: Streaming and Query Service Results
 TOCTitle: Streaming and Query Service Results
 ms:assetid: d05f2ad0-41c2-447e-a5b9-865771e4e2b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg881176(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg881176(v=AX.60)
 ms:contentKeyID: 35251817
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
