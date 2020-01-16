@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetProductDataServiceResponse.ProductDataXml Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: ProductDataXml Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetProductDataServiceResponse.ProductDataXml
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getproductdataserviceresponse.productdataxml(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getproductdataserviceresponse.productdataxml(v=AX.60)
 ms:contentKeyID: 65321799
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property XDocument^ ProductDataXml {
 
 #### Property Value
 
-Type: [System.Xml.Linq.XDocument](https://technet.microsoft.com/en-us/library/bb345449\(v=ax.60\))  
+Type: [System.Xml.Linq.XDocument](https://technet.microsoft.com/library/bb345449\(v=ax.60\))  
 
 ## See Also
 

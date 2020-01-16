@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetCustomersDataRequest.DirPartyRecordId Property  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: DirPartyRecordId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetCustomersDataRequest.DirPartyRecordId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getcustomersdatarequest.dirpartyrecordid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getcustomersdatarequest.dirpartyrecordid(v=AX.60)
 ms:contentKeyID: 65320196
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ property long long DirPartyRecordId {
 
 #### Property Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 The record identifier for dirPartyTable of the customer.  
 
 ## See Also

@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetIncomeExpenseAccountsResponse Constructor (IEnumerable(IncomeExpenseAccount)) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetIncomeExpenseAccountsResponse Constructor (IEnumerable(IncomeExpenseAccount))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetIncomeExpenseAccountsResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.IncomeExpenseAccount})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getincomeexpenseaccountsresponse.getincomeexpenseaccountsresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getincomeexpenseaccountsresponse.getincomeexpenseaccountsresponse(v=AX.60)
 ms:contentKeyID: 62210999
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ GetIncomeExpenseAccountsResponse(
 #### Parameters
 
   - incomeExpenseAccounts  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[IncomeExpenseAccount](incomeexpenseaccount-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[IncomeExpenseAccount](incomeexpenseaccount-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

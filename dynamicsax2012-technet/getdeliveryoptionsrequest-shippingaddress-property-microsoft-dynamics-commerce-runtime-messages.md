@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetDeliveryOptionsRequest.ShippingAddress Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: ShippingAddress Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetDeliveryOptionsRequest.ShippingAddress
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getdeliveryoptionsrequest.shippingaddress(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getdeliveryoptionsrequest.shippingaddress(v=AX.60)
 ms:contentKeyID: 62209755
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetCustomersServiceRequest.RecordId Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: RecordId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCustomersServiceRequest.RecordId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getcustomersservicerequest.recordid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getcustomersservicerequest.recordid(v=AX.60)
 ms:contentKeyID: 49849827
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property long long RecordId {
 
 #### Property Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
-Returns [Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\)).  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
+Returns [Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\)).  
 
 ## See Also
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetOLTPReportDataRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: GetOLTPReportDataRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetOLTPReportDataRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.ReportConfiguration,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getoltpreportdatarequest.getoltpreportdatarequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getoltpreportdatarequest.getoltpreportdatarequest(v=AX.60)
 ms:contentKeyID: 65317802
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -64,7 +65,7 @@ GetOLTPReportDataRequest(
 <!-- end list -->
 
   - locale  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
