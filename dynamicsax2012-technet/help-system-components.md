@@ -2,8 +2,9 @@
 title: Help System Components
 TOCTitle: Help System Components
 ms:assetid: 9913bc81-fa57-4401-8546-7dc50c01e32e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg882366(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg882366(v=AX.60)
 ms:contentKeyID: 35257195
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

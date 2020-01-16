@@ -2,8 +2,9 @@
 title: (HU) Sales tax declaration report (SalesTaxDeclarationInformation)
 TOCTitle: (HU) Sales tax declaration report (SalesTaxDeclarationInformation)
 ms:assetid: db520be4-f8e3-40b6-b47b-b1c07cb0bc42
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ851131(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ851131(v=AX.60)
 ms:contentKeyID: 50173438
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

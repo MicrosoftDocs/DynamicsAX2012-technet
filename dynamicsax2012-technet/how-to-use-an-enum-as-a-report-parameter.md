@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Use an Enum as a Report Parameter'
 TOCTitle: 'How to: Use an Enum as a Report Parameter'
 ms:assetid: 8dce6344-12ac-4c81-91b7-69fd1e7beb65
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee873271(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee873271(v=AX.60)
 ms:contentKeyID: 28119397
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -158,11 +159,11 @@ The user needs to select the **EnumType** field for which the enumeration values
     </table>
 
 
-You can use the additional properties to control the look of the report parameters, such as whether the parameter is visible or has a default value. Now your report with a report parameter based on an enumeration can be accessed from a Microsoft Dynamics AX [menu item](how-to-create-a-menu-item-for-a-report.md) or [Enterprise Portal](https://technet.microsoft.com/en-us/library/cc571238\(v=ax.60\)).
+You can use the additional properties to control the look of the report parameters, such as whether the parameter is visible or has a default value. Now your report with a report parameter based on an enumeration can be accessed from a Microsoft Dynamics AX [menu item](how-to-create-a-menu-item-for-a-report.md) or [Enterprise Portal](https://technet.microsoft.com/library/cc571238\(v=ax.60\)).
 
 For the complete steps to use an AX Enum Provider data source type, see [Walkthrough: Using AX Enum Provider in a Column Chart Report](walkthrough-using-ax-enum-provider-in-a-column-chart-report.md).
 
 ## See also
 
-[Enums](https://technet.microsoft.com/en-us/library/aa881702\(v=ax.60\))
+[Enums](https://technet.microsoft.com/library/aa881702\(v=ax.60\))
 

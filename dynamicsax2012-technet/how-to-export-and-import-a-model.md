@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Export and Import a Model'
 TOCTitle: 'How to: Export and Import a Model'
 ms:assetid: c2449a03-7574-4b9d-8518-9005b560209f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352314(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352314(v=AX.60)
 ms:contentKeyID: 36687943
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

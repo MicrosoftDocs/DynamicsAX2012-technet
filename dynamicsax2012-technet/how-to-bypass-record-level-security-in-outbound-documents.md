@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Bypass Record Level Security in Outbound Documents'
 TOCTitle: 'How to: Bypass Record Level Security in Outbound Documents'
 ms:assetid: 4265fdc5-5c9d-4afb-8df4-13261e37ddcd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa627307(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa627307(v=AX.60)
 ms:contentKeyID: 35242952
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -31,7 +32,7 @@ A document is sent manually through the **Send electronically** button. Typicall
 
 ## Property Bag
 
-A property bag is a collection of parameters that is sent by the table's sendElectronically method to AIF in the [AxdSendContext Class](https://technet.microsoft.com/en-us/library/gg804228\(v=ax.60\)). A property bag is passed unchanged from AIF to the Axd \<Document\> class that creates the outbound document.
+A property bag is a collection of parameters that is sent by the table's sendElectronically method to AIF in the [AxdSendContext Class](https://technet.microsoft.com/library/gg804228\(v=ax.60\)). A property bag is passed unchanged from AIF to the Axd \<Document\> class that creates the outbound document.
 
 A property bag is used for storing a series of properties that are relevant to the outbound document, such as if the document is an original or a copy. A property bag is also used to contain parameters. One of these parameters is used to determine whether RLS is bypassed; other parameters contain additional information that is pertinent at the time the document is sent.
 
@@ -88,9 +89,9 @@ The following table displays the tables that contain the sendElectronically meth
 
 The send framework is used when the recipient of a document cannot be determined from the context of the document. As a result, the sendElectronically method is neither created nor used on the main table that is associated with the document query.
 
-When the send framework is used, the sendDocument or sendMultipleDocuments method is called from the Main method on the AxdSend \<Document\> class. The RLS settings must be edited in the Main method. The [AxdSendContext Class](https://technet.microsoft.com/en-us/library/gg804228\(v=ax.60\)) is passed as an argument to the sendDocument or sendMultipleDocuments methods.
+When the send framework is used, the sendDocument or sendMultipleDocuments method is called from the Main method on the AxdSend \<Document\> class. The RLS settings must be edited in the Main method. The [AxdSendContext Class](https://technet.microsoft.com/library/gg804228\(v=ax.60\)) is passed as an argument to the sendDocument or sendMultipleDocuments methods.
 
-Some documents that use the send framework require the [AxdSendContext Class](https://technet.microsoft.com/en-us/library/gg804228\(v=ax.60\)) to bypass RLS while others do not. The following table shows outbound documents that utilize the send framework.
+Some documents that use the send framework require the [AxdSendContext Class](https://technet.microsoft.com/library/gg804228\(v=ax.60\)) to bypass RLS while others do not. The following table shows outbound documents that utilize the send framework.
 
 <table>
 <colgroup>
@@ -102,7 +103,7 @@ Some documents that use the send framework require the [AxdSendContext Class](ht
 <tr class="header">
 <th><p>Document</p></th>
 <th><p>Document class</p></th>
-<th><p><a href="https://technet.microsoft.com/en-us/library/gg804228(v=ax.60)">AxdSendContext Class</a> is called</p></th>
+<th><p><a href="https://technet.microsoft.com/library/gg804228(v=ax.60)">AxdSendContext Class</a> is called</p></th>
 </tr>
 </thead>
 <tbody>
@@ -211,5 +212,5 @@ AifSendMode::Async, aifConstraintList, axdSendContext);
 
 [Record Level Security and Outbound Documents](record-level-security-and-outbound-documents.md)
 
-[AxdSendContext Class](https://technet.microsoft.com/en-us/library/gg804228\(v=ax.60\))
+[AxdSendContext Class](https://technet.microsoft.com/library/gg804228\(v=ax.60\))
 

@@ -2,8 +2,9 @@
 title: (HUN) Working with Accounts payable
 TOCTitle: (HUN) Working with Accounts payable
 ms:assetid: 699284ea-b317-4f19-aee9-40c9f97324a8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664299(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664299(v=AX.60)
 ms:contentKeyID: 49385387
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

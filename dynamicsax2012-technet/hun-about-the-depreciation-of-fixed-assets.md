@@ -2,8 +2,9 @@
 title: (HUN) About the depreciation of fixed assets
 TOCTitle: (HUN) About the depreciation of fixed assets
 ms:assetid: edfa420a-c8d7-4c95-a27d-eaa66db59959
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664406(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664406(v=AX.60)
 ms:contentKeyID: 49385494
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

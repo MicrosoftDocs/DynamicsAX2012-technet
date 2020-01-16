@@ -2,8 +2,9 @@
 title: (HUN) Post a purchase invoice with a selected VAT register date
 TOCTitle: (HUN) Post a purchase invoice with a selected VAT register date
 ms:assetid: a8b6f06b-6313-42da-8c0d-110414132ac4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664345(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664345(v=AX.60)
 ms:contentKeyID: 49385433
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

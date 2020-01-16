@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Group and Order Report Parameters by Using Visual Studio'
 TOCTitle: 'How to: Group and Order Report Parameters by Using Visual Studio'
 ms:assetid: 590da96d-44e3-4a8f-835b-123e55701b03
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731925(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731925(v=AX.60)
 ms:contentKeyID: 35132854
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -88,5 +89,5 @@ The following sections describe how to add parameter groups, and how to change t
 
 4.  Right-click the report design and click **Preview** to see your changes.
 
-Now you may wish to see the changes in the Microsoft Dynamics AX client or Enterprise Portal. For more information, see [How to: Create a Menu Item for a Report](how-to-create-a-menu-item-for-a-report.md) and [Enterprise Portal Reports](https://technet.microsoft.com/en-us/library/cc571238\(v=ax.60\)).
+Now you may wish to see the changes in the Microsoft Dynamics AX client or Enterprise Portal. For more information, see [How to: Create a Menu Item for a Report](how-to-create-a-menu-item-for-a-report.md) and [Enterprise Portal Reports](https://technet.microsoft.com/library/cc571238\(v=ax.60\)).
 

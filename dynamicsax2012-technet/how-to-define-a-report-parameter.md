@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Define a Report Parameter'
 TOCTitle: 'How to: Define a Report Parameter'
 ms:assetid: 2cf31596-dba8-4d46-95f6-5ed591cf45de
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc586123(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc586123(v=AX.60)
 ms:contentKeyID: 28119327
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 f1_keywords:

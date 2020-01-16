@@ -2,8 +2,9 @@
 title: (HUN) About deferred sales tax calculations
 TOCTitle: (HUN) About deferred sales tax calculations
 ms:assetid: 3a8788c1-3efd-4faf-86b3-8f0999492c43
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664263(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664263(v=AX.60)
 ms:contentKeyID: 49385353
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -17,7 +18,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Item sales tax groups** form to specify that value-added taxes (VAT) are posted to a deferred VAT account. These VAT amounts are transferred from the deferred VAT account to a regular sales tax account on the due date of the invoice.
 
-You can designate the deferred VAT account in the **Ledger posting groups** form. For more information, see [(HUN) Ledger posting groups (modified form)](https://technet.microsoft.com/en-us/library/jj664253\(v=ax.60\)).
+You can designate the deferred VAT account in the **Ledger posting groups** form. For more information, see [(HUN) Ledger posting groups (modified form)](https://technet.microsoft.com/library/jj664253\(v=ax.60\)).
 
 Deferred tax postings work for the following document types and journals:
 
@@ -45,7 +46,7 @@ For free text invoices and purchase orders, if the document line amounts are dis
 
 ## See also
 
-[(HUN) Ledger posting groups (modified form)](https://technet.microsoft.com/en-us/library/jj664253\(v=ax.60\))
+[(HUN) Ledger posting groups (modified form)](https://technet.microsoft.com/library/jj664253\(v=ax.60\))
 
   
 

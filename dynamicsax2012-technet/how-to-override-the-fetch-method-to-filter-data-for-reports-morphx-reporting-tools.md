@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Override the fetch Method to Filter Data for Reports (MorphX Reporting Tools)'
 TOCTitle: 'How to: Override the fetch Method to Filter Data for Reports'
 ms:assetid: cc342c22-4a3c-423c-bd55-c18263e122c9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb395110(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb395110(v=AX.60)
 ms:contentKeyID: 35290365
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -21,7 +22,7 @@ You can override the fetch method to filter the data that is displayed in a repo
 
 
 
-By default, each record that is returned by the query appears in the report. To reduce the number of records returned, add range restrictions to the query. Report ranges are more efficient than overriding the fetch method; however, report ranges are less expressive. For information about adding ranges to queries, see [Query Elements in the AOT](https://technet.microsoft.com/en-us/library/bb278121\(v=ax.60\)).
+By default, each record that is returned by the query appears in the report. To reduce the number of records returned, add range restrictions to the query. Report ranges are more efficient than overriding the fetch method; however, report ranges are less expressive. For information about adding ranges to queries, see [Query Elements in the AOT](https://technet.microsoft.com/library/bb278121\(v=ax.60\)).
 
 ## Example
 

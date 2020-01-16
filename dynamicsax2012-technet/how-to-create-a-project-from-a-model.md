@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Create a Project from a Model'
 TOCTitle: 'How to: Create a Project from a Model'
 ms:assetid: 19631332-38a5-4787-9696-f7eb6839fc4c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404122(v=AX.60)
 ms:contentKeyID: 36956790
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -19,7 +20,7 @@ You can create a project that contains all of the elements in a specific model. 
 
 ### To create a project from a model
 
-1.  Open the Development Workspace. See [How to: Open a Development Workspace](https://technet.microsoft.com/en-us/library/gg846350\(v=ax.60\)) for more information.
+1.  Open the Development Workspace. See [How to: Open a Development Workspace](https://technet.microsoft.com/library/gg846350\(v=ax.60\)) for more information.
 
 2.  Choose **Tools** \> **Model management** \> **Create project from model**.
 

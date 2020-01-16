@@ -2,8 +2,9 @@
 title: Human resources
 TOCTitle: Human resources
 ms:assetid: 04f7dd62-a26e-437e-8d99-a85b3dbeec1b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242105(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242105(v=AX.60)
 ms:contentKeyID: 36055948
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,27 +72,27 @@ You can use Human resources to complete the following tasks:
 <tr class="odd">
 <td><p><a href="key-tasks-new-worker-positions.md">Key tasks: New worker positions</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209632(v=ax.60)">Human resources shared parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209632(v=ax.60)">Human resources shared parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="key-tasks-workers.md">Key tasks: Workers</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa596451(v=ax.60)">Human resource parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa596451(v=ax.60)">Human resource parameters (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="enroll-and-remove-benefits-for-workers.md">Enroll and remove benefits for workers</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209557(v=ax.60)">Job (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209557(v=ax.60)">Job (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="key-tasks-compensation-plans.md">Key tasks: Compensation plans</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590982(v=ax.60)">Positions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590982(v=ax.60)">Positions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="terminate-employment.md">Terminate employment</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209054(v=ax.60)">Worker (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209054(v=ax.60)">Worker (form)</a></p></td>
 </tr>
 </tbody>
 </table>

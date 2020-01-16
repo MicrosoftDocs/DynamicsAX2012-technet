@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Create a Menu Item for a Report'
 TOCTitle: 'How to: Create a Menu Item for a Report'
 ms:assetid: 977bb61d-6f9e-4540-9d24-86a006980965
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc606402(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc606402(v=AX.60)
 ms:contentKeyID: 28119533
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -55,7 +56,7 @@ You can create menu items in Microsoft Dynamics AX to provide access to the repo
     <td><p><strong>ObjectType</strong></p></td>
     <td><p>Set to <strong>SSRSReport</strong>.</p>
     <p>--or--</p>
-    <p>If you define a <a href="https://technet.microsoft.com/en-us/library/gg940296(v=ax.60)">SrsReportRunController</a> class to run the report, set the <strong>ObjectType</strong> property to <strong>Class</strong>, and then select the controller class from the drop-down menu for the <strong>Object</strong> property.</p></td>
+    <p>If you define a <a href="https://technet.microsoft.com/library/gg940296(v=ax.60)">SrsReportRunController</a> class to run the report, set the <strong>ObjectType</strong> property to <strong>Class</strong>, and then select the controller class from the drop-down menu for the <strong>Object</strong> property.</p></td>
     </tr>
     <tr class="even">
     <td><p><strong>Object</strong></p></td>
@@ -73,7 +74,7 @@ You can create menu items in Microsoft Dynamics AX to provide access to the repo
 
 ## See also
 
-[Menus and Menu Items](https://technet.microsoft.com/en-us/library/aa596556\(v=ax.60\))
+[Menus and Menu Items](https://technet.microsoft.com/library/aa596556\(v=ax.60\))
 
 [Report Integration and Customization Overview](report-integration-and-customization-overview.md)
 

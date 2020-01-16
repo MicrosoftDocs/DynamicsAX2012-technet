@@ -2,8 +2,9 @@
 title: Hungary
 TOCTitle: Hungary
 ms:assetid: 6cbe27f9-ac41-4151-b58c-42e890514d39
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664296(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664296(v=AX.60)
 ms:contentKeyID: 49385392
+author: Khairunj
 ms.date: 03/22/2017
 mtps_version: v=AX.60
 audience: Application User

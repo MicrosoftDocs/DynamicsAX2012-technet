@@ -2,8 +2,9 @@
 title: (HUN) Working with General ledger
 TOCTitle: (HUN) Working with General ledger
 ms:assetid: ae2bf11e-273c-41fe-a2a8-4396943cde3c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664353(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664353(v=AX.60)
 ms:contentKeyID: 49385441
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetStoreAvailabilityServiceResponse.ItemsAvailability Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: ItemsAvailability Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetStoreAvailabilityServiceResponse.ItemsAvailability
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getstoreavailabilityserviceresponse.itemsavailability(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getstoreavailabilityserviceresponse.itemsavailability(v=AX.60)
 ms:contentKeyID: 65315664
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ property IList<ItemAvailableStore^>^ ItemsAvailability {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[ItemAvailableStore](itemavailablestore-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[ItemAvailableStore](itemavailablestore-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

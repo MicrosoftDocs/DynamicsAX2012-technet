@@ -2,8 +2,9 @@
 title: I-9 configuration key (HRMi9)
 TOCTitle: I-9 configuration key (HRMi9)
 ms:assetid: 51e4b5e4-b2a9-4671-ab94-9cd24c79ea18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416677(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416677(v=AX.60)
 ms:contentKeyID: 36931834
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -35,15 +36,15 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>I-9</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227380(v=ax.60)">I-9 document (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227380(v=ax.60)">I-9 document (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>I-9 document types</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227352(v=ax.60)">Form I-9 document types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227352(v=ax.60)">Form I-9 document types (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Issuing agencies</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh781108(v=ax.60)">Issuing agencies (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh781108(v=ax.60)">Issuing agencies (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +82,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

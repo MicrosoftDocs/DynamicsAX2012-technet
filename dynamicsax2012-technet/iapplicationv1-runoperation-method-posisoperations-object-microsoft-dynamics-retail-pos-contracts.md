@@ -1,9 +1,10 @@
-﻿---
+---
 title: IApplicationV1.RunOperation Method (PosisOperations, Object) (Microsoft.Dynamics.Retail.Pos.Contracts)
 TOCTitle: RunOperation Method (PosisOperations, Object)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.IApplicationV1.RunOperation(Microsoft.Dynamics.Retail.Pos.Contracts.PosisOperations,System.Object)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.iapplicationv1.runoperation(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.iapplicationv1.runoperation(v=AX.60)
 ms:contentKeyID: 47128611
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -59,7 +60,7 @@ IPosTransaction^ RunOperation(
 <!-- end list -->
 
   - extraInfo  
-    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+    Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
 
 #### Return Value
 

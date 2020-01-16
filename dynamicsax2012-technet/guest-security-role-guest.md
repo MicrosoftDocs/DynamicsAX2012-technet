@@ -2,8 +2,9 @@
 title: Guest security role (Guest)
 TOCTitle: Guest security role (Guest)
 ms:assetid: 5ecee914-83e2-476f-ad41-ee3e5258aaac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527095(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527095(v=AX.60)
 ms:contentKeyID: 37823147
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Display a Document Map'
 TOCTitle: 'How to: Display a Document Map'
 ms:assetid: 88793f46-a9de-4826-a9bb-a481ab186d9a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc602847(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc602847(v=AX.60)
 ms:contentKeyID: 28119393
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

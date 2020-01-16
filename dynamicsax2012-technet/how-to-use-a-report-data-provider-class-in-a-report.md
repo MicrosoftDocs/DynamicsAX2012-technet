@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Use a Report Data Provider Class in a Report'
 TOCTitle: 'How to: Use a Report Data Provider Class in a Report'
 ms:assetid: 46bf4823-0c76-4327-a1e1-29500258d632
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731917(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731917(v=AX.60)
 ms:contentKeyID: 35132844
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
@@ -29,7 +30,7 @@ A report parameter provides a way to choose report data, connect related reports
 
 ## To define a data contract class
 
-A data contract is an X++ class that has getters, setters and the DataContractAttribute attribute. You create the RDP and data contract classes in the MorphX code editor. For information about how to create an X++ class, see [Declaration of Classes](https://technet.microsoft.com/en-us/library/aa631180\(v=ax.60\)).
+A data contract is an X++ class that has getters, setters and the DataContractAttribute attribute. You create the RDP and data contract classes in the MorphX code editor. For information about how to create an X++ class, see [Declaration of Classes](https://technet.microsoft.com/library/aa631180\(v=ax.60\)).
 
 The following example illustrates the code to declare a data contract class.
 

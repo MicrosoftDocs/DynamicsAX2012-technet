@@ -2,8 +2,9 @@
 title: 'How to: Include a hierarchy in a cube'
 TOCTitle: 'How to: Include a hierarchy in a cube'
 ms:assetid: 63b7a0f8-f779-44cc-9eb3-75d618a3b383
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt584219(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Mt584219(v=AX.60)
 ms:contentKeyID: 70094429
+author: Khairunj
 ms.date: 10/05/2015
 mtps_version: v=AX.60
 ---

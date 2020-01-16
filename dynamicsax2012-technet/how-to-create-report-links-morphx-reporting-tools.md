@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Create Report Links (MorphX Reporting Tools)'
 TOCTitle: 'How to: Create Report Links'
 ms:assetid: 89cf087d-e2c7-4318-a49b-8c8179ac09be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb314839(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb314839(v=AX.60)
 ms:contentKeyID: 35290303
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -27,7 +28,7 @@ You can use a relation on an extended data type or you can use a relation that i
 
 ### To create a form and a report
 
-1.  Use the AOT to create a new table named **WidgetTable**. Add fields named **widgetId** and **widgetDescription** (use the string data type). For more information, see [How to: Create Tables](https://technet.microsoft.com/en-us/library/aa882181\(v=ax.60\)).
+1.  Use the AOT to create a new table named **WidgetTable**. Add fields named **widgetId** and **widgetDescription** (use the string data type). For more information, see [How to: Create Tables](https://technet.microsoft.com/library/aa882181\(v=ax.60\)).
 
 2.  Create a new form named **WidgetForm**. Set WidgetTable as its data source. Design the form to have one grid. The grid should have a column for both fields that are on the WidgetTable table (widgetId and widgetDescription).
 
@@ -76,7 +77,7 @@ Using an extended data type is a good way to create report links while minimizin
 
 ### To prepare to add links by using an extended data type
 
-1.  Create a menu item of type display. Name the menu item **WidgetFormMenuitem**. Set its **ObjectType** property to Form, and then set its **Object** property to **WidgetForm** (from the drop-down list). For more information, see [How to: Create Menus and Menu Items](https://technet.microsoft.com/en-us/library/aa639737\(v=ax.60\)).
+1.  Create a menu item of type display. Name the menu item **WidgetFormMenuitem**. Set its **ObjectType** property to Form, and then set its **Object** property to **WidgetForm** (from the drop-down list). For more information, see [How to: Create Menus and Menu Items](https://technet.microsoft.com/library/aa639737\(v=ax.60\)).
 
 2.  In the AOT, expand the **Data Dictionary** node, expand the **Tables** node, and then click the **WidgetTable** node. Right-click **WidgetTable**, and then click **Properties**.
 
@@ -84,7 +85,7 @@ Using an extended data type is a good way to create report links while minimizin
 
 ### To add the extended data type
 
-1.  Create an extended data type named **widgetIdEdt**. For more information, see [How to: Create an Extended Data Type](https://technet.microsoft.com/en-us/library/aa633402\(v=ax.60\)).
+1.  Create an extended data type named **widgetIdEdt**. For more information, see [How to: Create an Extended Data Type](https://technet.microsoft.com/library/aa633402\(v=ax.60\)).
 
 2.  In the AOT, expand the **Data Dictionary** node, expand the **Extended Data Types** node, and then expand the new **widgetIdEdt** node. Right-click the **Relations** node, point to **New**, and then click **Normal**. The new relation node cannot be renamed.
 
@@ -102,7 +103,7 @@ To use this table relation approach instead of the extended data type approach, 
 
 ### To create a form and a report to add links by using a table relation
 
-1.  Use the AOT to create a table. Name the table **WidgetGroupTable**. Add fields named **widgetGroupId** and **widgetGroupDescription** (make the field types string). For more information, see [How to: Create Tables](https://technet.microsoft.com/en-us/library/aa882181\(v=ax.60\)).
+1.  Use the AOT to create a table. Name the table **WidgetGroupTable**. Add fields named **widgetGroupId** and **widgetGroupDescription** (make the field types string). For more information, see [How to: Create Tables](https://technet.microsoft.com/library/aa882181\(v=ax.60\)).
 
 2.  Create a new form named **WidgetGroupForm**. Set **WidgetGroupTable** as its data source. Design the form to have one grid. The grid should have a column for both fields that are on the **WidgetGroupTable** table (**widgetGroupId** and **widgetGroupDescription**).
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Resolve Conflicts After Importing a Model'
 TOCTitle: 'How to: Resolve Conflicts After Importing a Model'
 ms:assetid: e59cf4ce-460c-48be-92c7-b1f24e49253a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh446521(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh446521(v=AX.60)
 ms:contentKeyID: 36956799
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

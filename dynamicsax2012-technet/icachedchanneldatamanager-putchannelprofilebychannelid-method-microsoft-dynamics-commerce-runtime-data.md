@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICachedChannelDataManager.PutChannelProfileByChannelId Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: PutChannelProfileByChannelId Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ICachedChannelDataManager.PutChannelProfileByChannelId(System.Int64,Microsoft.Dynamics.Commerce.Runtime.ColumnSet,Microsoft.Dynamics.Commerce.Runtime.DataModel.ChannelProfile)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.icachedchanneldatamanager.putchannelprofilebychannelid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.icachedchanneldatamanager.putchannelprofilebychannelid(v=AX.60)
 ms:contentKeyID: 62202334
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,7 +60,7 @@ void PutChannelProfileByChannelId(
 #### Parameters
 
   - channelId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 

@@ -2,8 +2,9 @@
 title: (HUN) Set up the round-off weight for Intrastat transactions
 TOCTitle: (HUN) Set up the round-off weight for Intrastat transactions
 ms:assetid: 2b317d59-e456-4872-9279-4586eb28a5d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664244(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664244(v=AX.60)
 ms:contentKeyID: 49385334
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(HUN) Intrastat (modified form)](https://technet.microsoft.com/en-us/library/jj664413\(v=ax.60\))
+[(HUN) Intrastat (modified form)](https://technet.microsoft.com/library/jj664413\(v=ax.60\))
 
   
 

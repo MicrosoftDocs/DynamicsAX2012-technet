@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetStoresRequest Constructor (ICollection(String), QueryResultSettings) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetStoresRequest Constructor (ICollection(String), QueryResultSettings)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetStoresRequest.#ctor(System.Collections.Generic.ICollection{System.String},Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getstoresrequest.getstoresrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getstoresrequest.getstoresrequest(v=AX.60)
 ms:contentKeyID: 65322424
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -51,7 +52,7 @@ GetStoresRequest(
 #### Parameters
 
   - storeNumbers  
-    Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 
 <!-- end list -->
 

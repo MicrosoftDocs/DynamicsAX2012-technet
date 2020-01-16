@@ -2,8 +2,9 @@
 title: Getting started with Enterprise Search
 TOCTitle: Getting started with Enterprise Search
 ms:assetid: 287b4695-ce37-4213-ba1b-56e5f8de01bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751372(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg751372(v=AX.60)
 ms:contentKeyID: 35132585
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

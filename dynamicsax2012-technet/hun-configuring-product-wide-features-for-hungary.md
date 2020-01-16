@@ -2,8 +2,9 @@
 title: (HUN) Configuring product-wide features for Hungary
 TOCTitle: (HUN) Configuring product-wide features for Hungary
 ms:assetid: bb0d1149-976c-40a1-a6e4-f30f93457faa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664364(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664364(v=AX.60)
 ms:contentKeyID: 49385453
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

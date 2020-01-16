@@ -2,8 +2,9 @@
 title: (HUN) Fixed asset acquisition
 TOCTitle: (HUN) Fixed asset acquisition
 ms:assetid: 0844b0c1-7d00-4192-93c4-95dda1b69c0d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664217(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664217(v=AX.60)
 ms:contentKeyID: 49385307
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

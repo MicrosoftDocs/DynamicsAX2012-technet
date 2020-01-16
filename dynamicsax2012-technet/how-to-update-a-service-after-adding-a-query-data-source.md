@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Update a Service After Adding a Query Data Source'
 TOCTitle: 'How to: Update a Service After Adding a Query Data Source'
 ms:assetid: 4cef13e1-3dbf-4904-9970-1feac481b1ca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg840400(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg840400(v=AX.60)
 ms:contentKeyID: 35243397
+author: Khairunj
 ms.date: 01/29/2014
 mtps_version: v=AX.60
 ---

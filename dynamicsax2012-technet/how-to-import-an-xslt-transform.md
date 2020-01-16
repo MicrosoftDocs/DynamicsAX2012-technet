@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Import an XSLT Transform'
 TOCTitle: 'How to: Import an XSLT Transform'
 ms:assetid: e984da62-cd87-4096-a5c1-c3564a79a47b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg848023(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg848023(v=AX.60)
 ms:contentKeyID: 35253228
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

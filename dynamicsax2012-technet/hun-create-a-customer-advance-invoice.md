@@ -2,8 +2,9 @@
 title: (HUN) Create a customer advance invoice
 TOCTitle: (HUN) Create a customer advance invoice
 ms:assetid: 6f438d72-a88f-4c3e-b0b2-f0e17a950192
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664305(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664305(v=AX.60)
 ms:contentKeyID: 49385394
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

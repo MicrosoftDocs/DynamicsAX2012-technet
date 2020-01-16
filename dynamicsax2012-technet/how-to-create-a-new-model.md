@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Create a New Model'
 TOCTitle: 'How to: Create a New Model'
 ms:assetid: 31951cd5-1638-47a2-bde8-c0f8624e045b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404123(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404123(v=AX.60)
 ms:contentKeyID: 36956791
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -19,7 +20,7 @@ Each layer in the AOS has a default model. Typically, you will create a new mode
 
 ### To create a new model
 
-1.  Open the Development Workspace. See [How to: Open a Development Workspace](https://technet.microsoft.com/en-us/library/gg846350\(v=ax.60\)) for more information.
+1.  Open the Development Workspace. See [How to: Open a Development Workspace](https://technet.microsoft.com/library/gg846350\(v=ax.60\)) for more information.
 
 2.  Choose **Tools** \> **Model management** \> **Create model**.
 

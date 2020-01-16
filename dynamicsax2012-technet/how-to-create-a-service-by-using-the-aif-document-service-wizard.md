@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Create a Service by Using the AIF Document Service Wizard'
 TOCTitle: 'How to: Create a Service by Using the AIF Document Service Wizard'
 ms:assetid: 6b4c1fe4-a608-4a39-b415-c6b3b1ea4525
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa609947(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa609947(v=AX.60)
 ms:contentKeyID: 35244794
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
@@ -23,11 +24,11 @@ You use the AIF Document Service Wizard to perform the following actions:
     
       - Ax \<Table\> classes for tables in the query where Ax \<Table\> classes do not yet exist. The Ax\<Table\> classes inherit from the AxInternalBase class and contain accessor methods for each field in each table in the query. For more information, see [About Ax\<Table\> Classes](about-ax-table-classes.md).
     
-      - A document service class that contains code that is the default implementation of the selected create, read, update, delete, find, findKeys, getKeys, or getChangedKeys document service operations. The default implementation may be sufficient and may not have to be changed. This class inherits from the [AifDocumentService Class](https://technet.microsoft.com/en-us/library/gg768070\(v=ax.60\)).
+      - A document service class that contains code that is the default implementation of the selected create, read, update, delete, find, findKeys, getKeys, or getChangedKeys document service operations. The default implementation may be sufficient and may not have to be changed. This class inherits from the [AifDocumentService Class](https://technet.microsoft.com/library/gg768070\(v=ax.60\)).
     
-      - The \<Document\> class has generated code and should not be customized. This class inherits from the [AifDocument Class](https://technet.microsoft.com/en-us/library/gg767438\(v=ax.60\)).
+      - The \<Document\> class has generated code and should not be customized. This class inherits from the [AifDocument Class](https://technet.microsoft.com/library/gg767438\(v=ax.60\)).
     
-      - The Axd \<document\> class has generated code that is the default implementation of the selected create, read, update, delete, find, findKeys, getKeys, or getChangedKeys document service operations. The default implementation is sufficient for simple implementations and does not have to be customized. For other scenarios, this class must be customized to expose document specific business logic. This class inherits from the [AxdBase Class](https://technet.microsoft.com/en-us/library/gg830851\(v=ax.60\)). This class contains the prepareForSave method that is called before a record is saved. It contains a reference to the whole table record. You can add logic here if, for example, one field depends on the value of another.
+      - The Axd \<document\> class has generated code that is the default implementation of the selected create, read, update, delete, find, findKeys, getKeys, or getChangedKeys document service operations. The default implementation is sufficient for simple implementations and does not have to be customized. For other scenarios, this class must be customized to expose document specific business logic. This class inherits from the [AxdBase Class](https://technet.microsoft.com/library/gg830851\(v=ax.60\)). This class contains the prepareForSave method that is called before a record is saved. It contains a reference to the whole table record. You can add logic here if, for example, one field depends on the value of another.
 
   - Update any existing Ax \<Table\> classes for tables that are used in the query.
 

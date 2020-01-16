@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Add a Service Operation to a Service'
 TOCTitle: 'How to: Add a Service Operation to a Service'
 ms:assetid: 5ab48644-23d8-467c-b59b-56c66d0c73d1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa607052(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa607052(v=AX.60)
 ms:contentKeyID: 35244359
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -54,7 +55,7 @@ When adding a service operation, the first step is to add the method to the serv
 
 4.  Press F7 to compile and then press CTRL+S to save your changes.
 
-If you add a custom method to a document service that performs one of the create, read, delete, update, find, getKeys, getChangedKeys, or findKeys actions, you should add the appropriate method type attribute to the method. For more information, see [Method Type Attribute](method-type-attribute.md). You must also add the [SysEntryPointAttribute](https://technet.microsoft.com/en-us/library/gg958657\(v=ax.60\)) to any custom method. For more information, see [Setting SysEntryPointAttribute for Services](setting-sysentrypointattribute-for-services.md).
+If you add a custom method to a document service that performs one of the create, read, delete, update, find, getKeys, getChangedKeys, or findKeys actions, you should add the appropriate method type attribute to the method. For more information, see [Method Type Attribute](method-type-attribute.md). You must also add the [SysEntryPointAttribute](https://technet.microsoft.com/library/gg958657\(v=ax.60\)) to any custom method. For more information, see [Setting SysEntryPointAttribute for Services](setting-sysentrypointattribute-for-services.md).
 
 ## Expose the Method as a Service Operation
 

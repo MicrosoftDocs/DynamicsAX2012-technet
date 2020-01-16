@@ -2,8 +2,9 @@
 title: Human resource assistant security role (HcmHumanResourceAssistant)
 TOCTitle: Human resource assistant security role (HcmHumanResourceAssistant)
 ms:assetid: fc30dc2d-9c7b-481e-95bb-f602345533be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527151(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527151(v=AX.60)
 ms:contentKeyID: 37823202
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

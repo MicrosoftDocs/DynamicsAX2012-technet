@@ -2,8 +2,9 @@
 title: (HUN) Create a sales tax correction for tax reimbursement to a customer
 TOCTitle: (HUN) Create a sales tax correction for tax reimbursement to a customer
 ms:assetid: 9d565fe6-1463-4e41-bfe0-af0964d62181
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664338(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664338(v=AX.60)
 ms:contentKeyID: 49385426
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

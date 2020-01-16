@@ -2,8 +2,9 @@
 title: High Volume Inventory Benchmark for Microsoft Dynamics AX 2012 in a Retail Environment
 TOCTitle: High Volume Inventory Benchmark for Microsoft Dynamics AX 2012 in a Retail Environment
 ms:assetid: add314e8-9c89-42f6-81b9-7dee0ad4aa63
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh881832(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh881832(v=AX.60)
 ms:contentKeyID: 45769254
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

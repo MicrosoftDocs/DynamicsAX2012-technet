@@ -2,8 +2,9 @@
 title: (HUN) Cash order (report)
 TOCTitle: (HUN) Cash order (report)
 ms:assetid: 4c2121e4-ea94-4b80-a876-c07e7d8e7202
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ889272(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ889272(v=AX.60)
 ms:contentKeyID: 50626613
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'How to: Build a Reporting Project'
 TOCTitle: 'How to: Build a Reporting Project'
 ms:assetid: f27ff4c5-0f40-473d-a8f4-81d47ee7f464
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc642185(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc642185(v=AX.60)
 ms:contentKeyID: 28119616
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetReasonCodesServiceRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: GetReasonCodesServiceRequest Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetReasonCodesServiceRequest.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getreasoncodesservicerequest.getreasoncodesservicerequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getreasoncodesservicerequest.getreasoncodesservicerequest(v=AX.60)
 ms:contentKeyID: 62212292
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Global Class (Microsoft.Dynamics.Retail.SharePoint.Web.Storefront)
 TOCTitle: Global Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Global
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.storefront.global(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.global(v=AX.60)
 ms:contentKeyID: 62205422
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,8 +42,8 @@ public ref class Global : public SPHttpApplication
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-  [System.Web.HttpApplication](https://technet.microsoft.com/en-us/library/4wt3wttw\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+  [System.Web.HttpApplication](https://technet.microsoft.com/library/4wt3wttw\(v=ax.60\))  
     SPHttpApplication  
       Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Global  
 

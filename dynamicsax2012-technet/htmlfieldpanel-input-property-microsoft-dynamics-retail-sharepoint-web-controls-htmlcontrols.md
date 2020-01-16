@@ -1,9 +1,10 @@
-﻿---
+---
 title: HtmlFieldPanel.Input Property  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls)
 TOCTitle: Input Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlFieldPanel.Input
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlfieldpanel.input(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlfieldpanel.input(v=AX.60)
 ms:contentKeyID: 62205843
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,8 +52,8 @@ property HtmlControl^ Input {
 
 #### Property Value
 
-Type: [System.Web.UI.HtmlControls.HtmlControl](https://technet.microsoft.com/en-us/library/khc6t495\(v=ax.60\))  
-Returns [HtmlControl](https://technet.microsoft.com/en-us/library/khc6t495\(v=ax.60\)).  
+Type: [System.Web.UI.HtmlControls.HtmlControl](https://technet.microsoft.com/library/khc6t495\(v=ax.60\))  
+Returns [HtmlControl](https://technet.microsoft.com/library/khc6t495\(v=ax.60\)).  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: (HUN) Create and post a purchase order invoice with a specific VAT register date
 TOCTitle: (HUN) Create and post a purchase order invoice with a specific VAT register date
 ms:assetid: d213fdc0-51f0-4bbf-96c0-57eda34ec91e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664382(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664382(v=AX.60)
 ms:contentKeyID: 49385471
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ When you post a vendor invoice, you can select a date for reporting value-added 
 
 2.  In the **Create purchase order** form, enter the required information, and then click **OK**.
 
-3.  In the **Purchase order** form, enter the purchase order lines. For more information, see [(HUN) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj714544\(v=ax.60\)) and [Create a purchase order](create-a-purchase-order.md).
+3.  In the **Purchase order** form, enter the purchase order lines. For more information, see [(HUN) Purchase orders (modified form)](https://technet.microsoft.com/library/jj714544\(v=ax.60\)) and [Create a purchase order](create-a-purchase-order.md).
 
 4.  On the **Action Pane**, on the **Purchase** tab, in the **Generate** group, click **Confirm**.
 
@@ -40,7 +41,7 @@ When you post an invoice that has a VAT register date that occurs in the future,
 
 ## See also
 
-[(EEUR) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj710700\(v=ax.60\))
+[(EEUR) Purchase orders (modified form)](https://technet.microsoft.com/library/jj710700\(v=ax.60\))
 
   
 
