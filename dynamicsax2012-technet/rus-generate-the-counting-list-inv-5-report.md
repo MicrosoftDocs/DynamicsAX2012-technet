@@ -2,8 +2,9 @@
 title: (RUS) Generate the Counting list (INV-5) report
 TOCTitle: (RUS) Generate the Counting list (INV-5) report
 ms:assetid: 564044ca-8f6d-4131-b939-29144364de66
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853181(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853181(v=AX.60)
 ms:contentKeyID: 50396462
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ The Counting list (INV-5) report is generated in Microsoft Excel format.
 
 2.  Press CTRL+N to create a new inventory counting journal, or select an inventory journal for bailment.
 
-3.  Click **Lines** to open the **Journal lines, inventory** form, and create journal lines. For more information, see [Journal lines, Inventory count (form)](https://technet.microsoft.com/en-us/library/aa599389\(v=ax.60\)).
+3.  Click **Lines** to open the **Journal lines, inventory** form, and create journal lines. For more information, see [Journal lines, Inventory count (form)](https://technet.microsoft.com/library/aa599389\(v=ax.60\)).
 
 4.  Click **Functions** \> **Create counting list** to create the counting list. The **Counted** field is updated with the values that are specified in the **On-hand** field for each line.
 
@@ -51,7 +52,7 @@ The Counting list (INV-5) report is generated in Microsoft Excel format.
 
 [(RUS) Set up officials for the counting list (INV-5)](rus-set-up-officials-for-the-counting-list-inv-5.md)
 
-[(RUS) Inventory journal report table (form)](https://technet.microsoft.com/en-us/library/jj839654\(v=ax.60\))
+[(RUS) Inventory journal report table (form)](https://technet.microsoft.com/library/jj839654\(v=ax.60\))
 
   
 

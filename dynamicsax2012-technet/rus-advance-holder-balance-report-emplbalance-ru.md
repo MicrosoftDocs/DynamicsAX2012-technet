@@ -2,8 +2,9 @@
 title: (RUS) Advance holder balance report (EmplBalance_RU)
 TOCTitle: (RUS) Advance holder balance report (EmplBalance_RU)
 ms:assetid: 31ced6dc-c493-47df-b2b3-904bdee57727
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ992742(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ992742(v=AX.60)
 ms:contentKeyID: 51739430
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

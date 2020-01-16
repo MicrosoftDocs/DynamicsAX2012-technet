@@ -2,8 +2,9 @@
 title: Retail operations manager security role (RetailOperationsManager)
 TOCTitle: Retail operations manager security role (RetailOperationsManager)
 ms:assetid: 8ae51ae6-3bc1-4a38-ad6c-940f5b626469
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh848742(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh848742(v=AX.60)
 ms:contentKeyID: 45430235
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

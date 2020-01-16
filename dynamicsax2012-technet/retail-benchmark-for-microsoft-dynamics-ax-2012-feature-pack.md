@@ -2,8 +2,9 @@
 title: Retail Benchmark for Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Retail Benchmark for Microsoft Dynamics AX 2012 Feature Pack
 ms:assetid: e92ee88d-fbc1-49ca-bac6-f081270e7b33
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ729776(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ729776(v=AX.60)
 ms:contentKeyID: 49564945
+author: Khairunj
 ms.date: 08/18/2014
 mtps_version: v=AX.60
 ---

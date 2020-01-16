@@ -2,8 +2,9 @@
 title: (RUS) Set up a depreciation register (nonlinear method) for fixed assets
 TOCTitle: (RUS) Set up a depreciation register (nonlinear method) for fixed assets
 ms:assetid: d77c1b56-46b0-45b4-8e69-fce6a5d3a55b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711667(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711667(v=AX.60)
 ms:contentKeyID: 49387990
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

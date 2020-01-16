@@ -2,8 +2,9 @@
 title: (RUS) Set up calculation parameters for amount differences in tax accounting
 TOCTitle: (RUS) Set up calculation parameters for amount differences in tax accounting
 ms:assetid: 43b7f5ae-703d-4d39-973c-7bbf724ba9bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923412(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923412(v=AX.60)
 ms:contentKeyID: 52075372
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

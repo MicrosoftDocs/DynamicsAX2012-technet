@@ -2,8 +2,9 @@
 title: Roadmap for Cost Accounting
 TOCTitle: Roadmap for Cost Accounting
 ms:assetid: d6be4d60-f2a7-4050-b750-cb7eba75a04d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn781408(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn781408(v=AX.60)
 ms:contentKeyID: 62807373
+author: Khairunj
 ms.date: 08/20/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -215,12 +216,12 @@ Here’s what you need to do to set up, create, and maintain predetermined costs
 <td><p>Set up predetermined costs</p></td>
 <td><p><a href="about-cost-groups.md">About cost groups</a></p>
 <p><a href="about-bom-calculation-groups.md">About BOM calculation groups</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh209491(v=ax.60)">Costing version setup (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh209491(v=ax.60)">Costing version setup (form)</a></p>
 <p><a href="about-costing-versions.md">About costing versions</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Create predetermined costs</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh416713(v=ax.60)">Calculation for a costing version (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/hh416713(v=ax.60)">Calculation for a costing version (form)</a></p>
 <p><a href="prepare-to-maintain-standard-costs-for-purchased-items.md">Prepare to maintain standard costs for purchased items</a></p>
 <p><a href="prepare-to-maintain-standard-costs-for-manufactured-items.md">Prepare to maintain standard costs for manufactured items</a></p>
 <p><a href="calculating-standard-costs-for-manufactured-items.md">Calculating standard costs for manufactured items</a></p>
@@ -292,12 +293,12 @@ Here’s what you need to do to calculate the inventory valuation and cost of go
 <tbody>
 <tr class="odd">
 <td><p>Perform inventory valuation</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa553192(v=ax.60)">Closing and adjustment (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa553861(v=ax.60)">Adjustment of on-hand inventory (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/aa553192(v=ax.60)">Closing and adjustment (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa553861(v=ax.60)">Adjustment of on-hand inventory (form)</a></p>
 <p><a href="adjust-transactions.md">Adjust transactions</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa570210(v=ax.60)">Inventory transaction posting (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa570210(v=ax.60)">Inventory transaction posting (form)</a></p>
 <p><a href="trace-inventory-settlement-transactions.md">Trace inventory settlement transactions</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa600945(v=ax.60)">Cost explorer (form)</a></p></td>
+<p><a href="https://technet.microsoft.com/library/aa600945(v=ax.60)">Cost explorer (form)</a></p></td>
 </tr>
 </tbody>
 </table>

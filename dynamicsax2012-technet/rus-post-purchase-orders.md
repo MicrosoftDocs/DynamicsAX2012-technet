@@ -2,8 +2,9 @@
 title: (RUS) Post purchase orders
 TOCTitle: (RUS) Post purchase orders
 ms:assetid: 256b121c-a814-4728-b7e5-4dcf262f1f0b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711481(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711481(v=AX.60)
 ms:contentKeyID: 49387299
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

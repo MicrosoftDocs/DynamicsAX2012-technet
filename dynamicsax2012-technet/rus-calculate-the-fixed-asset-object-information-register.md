@@ -2,8 +2,9 @@
 title: (RUS) Calculate the fixed asset object information register
 TOCTitle: (RUS) Calculate the fixed asset object information register
 ms:assetid: caad52c9-4831-418f-aa40-5bdbd2fcc868
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711602(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711602(v=AX.60)
 ms:contentKeyID: 49387926
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,15 +62,15 @@ You must set up the **FA - object information** register in the **Tax registers*
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
 [(RUS) Recalculate registers](rus-recalculate-registers.md)
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
   
 

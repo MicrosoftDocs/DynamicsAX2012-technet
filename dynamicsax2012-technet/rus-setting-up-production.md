@@ -2,8 +2,9 @@
 title: (RUS) Setting up production
 TOCTitle: (RUS) Setting up production
 ms:assetid: e0d6b4c0-17aa-4cf2-a82e-30c20cd0a48e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711707(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711707(v=AX.60)
 ms:contentKeyID: 49388030
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

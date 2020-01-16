@@ -2,8 +2,9 @@
 title: (RUS) Cancel an amortization of unrecoverable debt in Accounts payable
 TOCTitle: (RUS) Cancel an amortization of unrecoverable debt in Accounts payable
 ms:assetid: d1cade1d-e533-4a6f-80e5-f9ab0b1fdc7a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711646(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711646(v=AX.60)
 ms:contentKeyID: 49387970
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,7 +40,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Trade liabilities amortization cancellation (form)](https://technet.microsoft.com/en-us/library/jj665218\(v=ax.60\))
+[(RUS) Trade liabilities amortization cancellation (form)](https://technet.microsoft.com/library/jj665218\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequestContextExtensions.SetCheckAccessIsShiftOpenAction Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: SetCheckAccessIsShiftOpenAction Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.RequestContextExtensions.SetCheckAccessIsShiftOpenAction(Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.Action)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.requestcontextextensions.setcheckaccessisshiftopenaction(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.requestcontextextensions.setcheckaccessisshiftopenaction(v=AX.60)
 ms:contentKeyID: 65320895
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,7 +62,7 @@ static void SetCheckAccessIsShiftOpenAction(
 <!-- end list -->
 
   - checkAccessIsShiftOpen  
-    Type: [System.Action](https://technet.microsoft.com/en-us/library/bb534741\(v=ax.60\))  
+    Type: [System.Action](https://technet.microsoft.com/library/bb534741\(v=ax.60\))  
 
 #### Usage Note
 

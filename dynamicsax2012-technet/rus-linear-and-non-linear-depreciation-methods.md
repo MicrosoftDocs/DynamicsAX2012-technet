@@ -2,8 +2,9 @@
 title: (RUS) Linear and non-linear depreciation methods
 TOCTitle: (RUS) Linear and non-linear depreciation methods
 ms:assetid: f51a99f5-bfd9-4948-b6e8-c5773aa06651
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853239(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853239(v=AX.60)
 ms:contentKeyID: 50396519
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ In addition, when the residual value of the object reaches 20 percent of its ori
 
 [(RUS) Set up depreciation methods](rus-set-up-depreciation-methods.md)
 
-[(RUS) Depreciation methods (form)](https://technet.microsoft.com/en-us/library/jj856184\(v=ax.60\))
+[(RUS) Depreciation methods (form)](https://technet.microsoft.com/library/jj856184\(v=ax.60\))
 
   
 

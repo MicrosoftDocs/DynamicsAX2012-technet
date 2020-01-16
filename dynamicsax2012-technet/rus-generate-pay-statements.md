@@ -2,8 +2,9 @@
 title: (RUS) Generate pay statements
 TOCTitle: (RUS) Generate pay statements
 ms:assetid: a4165fe6-422b-4441-9f3d-7116f7503cd7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn435955(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn435955(v=AX.60)
 ms:contentKeyID: 56730928
+author: Khairunj
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -610,7 +611,7 @@ To create and post a salary journal, follow these steps:
 
 1.  Click **Payroll (Russia)** \> **Payroll calculation** \> **Salary journal**.
 
-2.  In the **Salary journal** form, click **Create** \> **Create journal** to create a journal and journal lines. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+2.  In the **Salary journal** form, click **Create** \> **Create journal** to create a journal and journal lines. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -618,7 +619,7 @@ To create and post a salary journal, follow these steps:
 
 
 
-3.  Click **Lines** to open the **Journal voucher** form, where you can view and modify the lines for the salary journal. For more information, see [Journal voucher - General journal (form)](https://technet.microsoft.com/en-us/library/aa591466\(v=ax.60\)). Close the form.
+3.  Click **Lines** to open the **Journal voucher** form, where you can view and modify the lines for the salary journal. For more information, see [Journal voucher - General journal (form)](https://technet.microsoft.com/library/aa591466\(v=ax.60\)). Close the form.
 
 4.  In the **Salary journal** form, click **Post** \> **Preview journal transactions** to open the **Preview journal transactions** form, where you can view the details that are related to sales tax for each journal line, such as sales tax code, sales tax group, and item sales tax group. Close the form
 

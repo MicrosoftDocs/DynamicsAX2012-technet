@@ -2,8 +2,9 @@
 title: (RUS) Generate a Counting act (INV-6) report
 TOCTitle: (RUS) Generate a Counting act (INV-6) report
 ms:assetid: ae11ea9f-f07f-4eab-9f28-cd5b0cf9e397
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853218(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853218(v=AX.60)
 ms:contentKeyID: 50396498
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ You can use the **Print of counting act (INV-6)** form to generate a Counting ac
 
 5.  In the **Name** field, select an inventory journal.
 
-6.  Click **Lines** to open the **Journal lines, inventory** form, and then create journal lines for the items in the transfer. For more information, see [Journal lines, Inventory count (form)](https://technet.microsoft.com/en-us/library/aa599389\(v=ax.60\))
+6.  Click **Lines** to open the **Journal lines, inventory** form, and then create journal lines for the items in the transfer. For more information, see [Journal lines, Inventory count (form)](https://technet.microsoft.com/library/aa599389\(v=ax.60\))
 
 7.  Click **Functions** \> **Create counting list** to create a counting list. The **Counted** field is updated with the values that are specified in the **On-hand** field for each line.
 
@@ -61,9 +62,9 @@ You can use the **Print of counting act (INV-6)** form to generate a Counting ac
 
 ## See also
 
-[(RUS) Inventory journal report table (form)](https://technet.microsoft.com/en-us/library/jj839654\(v=ax.60\))
+[(RUS) Inventory journal report table (form)](https://technet.microsoft.com/library/jj839654\(v=ax.60\))
 
-[(RUS) Print of counting act (INV-6) (form)](https://technet.microsoft.com/en-us/library/jj853156\(v=ax.60\))
+[(RUS) Print of counting act (INV-6) (form)](https://technet.microsoft.com/library/jj853156\(v=ax.60\))
 
   
 

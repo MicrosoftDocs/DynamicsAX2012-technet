@@ -2,8 +2,9 @@
 title: (RUS) Generate a deferrals write-off voucher for one deferral
 TOCTitle: (RUS) Generate a deferrals write-off voucher for one deferral
 ms:assetid: 4a7af4c6-6700-4e52-a13f-23a1ddeb6285
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665351(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665351(v=AX.60)
 ms:contentKeyID: 49387439
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -85,7 +86,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Create new line (form)](https://technet.microsoft.com/en-us/library/jj678398\(v=ax.60\))
+[(RUS) Create new line (form)](https://technet.microsoft.com/library/jj678398\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Create a ledger journal of land tax transactions
 TOCTitle: (RUS) Create a ledger journal of land tax transactions
 ms:assetid: 162ad571-35e6-44e1-85ba-3221f0accfaa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711425(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711425(v=AX.60)
 ms:contentKeyID: 49387243
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,13 +58,13 @@ You can create a ledger journal only if these land tax registers are set up, cal
 
 [(RUS) Set up the name for fixed asset tax transactions journals](rus-set-up-the-name-for-fixed-asset-tax-transactions-journals.md)
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
 [(RUS) Set up fixed asset module parameters](rus-set-up-fixed-asset-module-parameters.md)
 
-[(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/en-us/library/jj721462\(v=ax.60\))
+[(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/library/jj721462\(v=ax.60\))
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
 [(RUS) Reverse a ledger journal of land tax transactions](rus-reverse-a-ledger-journal-of-land-tax-transactions.md)
 

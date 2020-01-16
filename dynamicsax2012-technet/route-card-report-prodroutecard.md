@@ -2,8 +2,9 @@
 title: Route card report (ProdRouteCard)
 TOCTitle: Route card report (ProdRouteCard)
 ms:assetid: 5f168719-c161-4bb7-9b01-2ee7c811fa6f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242676(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242676(v=AX.60)
 ms:contentKeyID: 36058849
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -110,7 +111,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Create and update routes (form)](https://technet.microsoft.com/en-us/library/aa590442\(v=ax.60\))
+[Create and update routes (form)](https://technet.microsoft.com/library/aa590442\(v=ax.60\))
 
   
 

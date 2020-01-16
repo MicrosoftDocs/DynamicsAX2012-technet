@@ -2,8 +2,9 @@
 title: Role centers
 TOCTitle: Role centers
 ms:assetid: 060c1fd8-074b-4ea3-ad77-485a9a41c6d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230670(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230670(v=AX.60)
 ms:contentKeyID: 36055959
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

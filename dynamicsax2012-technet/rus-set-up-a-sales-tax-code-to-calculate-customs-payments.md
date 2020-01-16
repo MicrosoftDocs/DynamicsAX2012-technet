@@ -2,8 +2,9 @@
 title: (RUS) Set up a sales tax code to calculate customs payments
 TOCTitle: (RUS) Set up a sales tax code to calculate customs payments
 ms:assetid: 169134ff-75e8-4d0e-a5ac-65f78b72316b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733183(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733183(v=AX.60)
 ms:contentKeyID: 49685151
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -75,7 +76,7 @@ Use the **Sales tax codes** form to set up a sales tax code that can be used to 
 
 [(RUS) Assign a TN VED code to a customs payment](rus-assign-a-tn-ved-code-to-a-customs-payment.md)
 
-[(RUS) Values of sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj678610\(v=ax.60\))
+[(RUS) Values of sales tax codes (modified form)](https://technet.microsoft.com/library/jj678610\(v=ax.60\))
 
   
 

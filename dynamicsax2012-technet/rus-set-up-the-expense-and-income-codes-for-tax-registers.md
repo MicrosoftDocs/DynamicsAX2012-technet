@@ -2,8 +2,9 @@
 title: (RUS) Set up the expense and income codes for tax registers
 TOCTitle: (RUS) Set up the expense and income codes for tax registers
 ms:assetid: 64d41374-a3e4-46b4-9026-37681006df63
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665455(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665455(v=AX.60)
 ms:contentKeyID: 49387542
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,11 +50,11 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Expense code setup (form)](https://technet.microsoft.com/en-us/library/jj839690\(v=ax.60\))
+[(RUS) Expense code setup (form)](https://technet.microsoft.com/library/jj839690\(v=ax.60\))
 
 [(RUS) Set up the ledger accounts for expense and income codes](rus-set-up-the-ledger-accounts-for-expense-and-income-codes.md)
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Run live preprocessing scripts
 TOCTitle: Run live preprocessing scripts
 ms:assetid: 84af1a02-486c-482e-8ef0-b3797bef292f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731849(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731849(v=AX.60)
 ms:contentKeyID: 35132709
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,7 +64,7 @@ Complete the following steps to resume a paused script.
 
 ## See also
 
-[Upgrade preprocessing scripts (form)](https://technet.microsoft.com/en-us/library/hh202100\(v=ax.60\))
+[Upgrade preprocessing scripts (form)](https://technet.microsoft.com/library/hh202100\(v=ax.60\))
 
   
 

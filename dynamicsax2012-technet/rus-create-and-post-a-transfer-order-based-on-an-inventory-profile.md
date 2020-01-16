@@ -2,8 +2,9 @@
 title: (RUS) Create and post a transfer order based on an inventory profile
 TOCTitle: (RUS) Create and post a transfer order based on an inventory profile
 ms:assetid: 794bb713-5802-402f-a89f-436eada4646a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733244(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733244(v=AX.60)
 ms:contentKeyID: 49685211
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,11 +40,11 @@ You can create and post transfer orders based on the inventory profile. The inve
 
 ## See also
 
-[(RUS) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj733409\(v=ax.60\))
+[(RUS) Transfer orders (modified form)](https://technet.microsoft.com/library/jj733409\(v=ax.60\))
 
-[(RUS) Transfer order shipment (modified form)](https://technet.microsoft.com/en-us/library/jj733191\(v=ax.60\))
+[(RUS) Transfer order shipment (modified form)](https://technet.microsoft.com/library/jj733191\(v=ax.60\))
 
-[On-hand movement (form)](https://technet.microsoft.com/en-us/library/aa574933\(v=ax.60\))
+[On-hand movement (form)](https://technet.microsoft.com/library/aa574933\(v=ax.60\))
 
   
 

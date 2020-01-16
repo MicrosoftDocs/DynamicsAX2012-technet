@@ -2,8 +2,9 @@
 title: (RUS) Set up a revenue, consumption, and transit account to post sales charges
 TOCTitle: (RUS) Set up a revenue, consumption, and transit account to post sales charges
 ms:assetid: e2617eb3-7d67-4e2f-bed8-3689e937a324
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923601(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923601(v=AX.60)
 ms:contentKeyID: 53382725
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -67,7 +68,7 @@ Use the **Misc. charges posting in Accounts receivable** form to set up a revenu
 
 [(RUS) Set up a posting account for shipped items or items shipped offset](rus-set-up-a-posting-account-for-shipped-items-or-items-shipped-offset.md)
 
-[(RUS) Misc. charges posting in Accounts receivable (form)](https://technet.microsoft.com/en-us/library/jj853185\(v=ax.60\))
+[(RUS) Misc. charges posting in Accounts receivable (form)](https://technet.microsoft.com/library/jj853185\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Allocate miscellaneous charges to write off costs
 TOCTitle: (RUS) Allocate miscellaneous charges to write off costs
 ms:assetid: fe874a8b-2233-407d-b90d-ea0b83a5307c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839698(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839698(v=AX.60)
 ms:contentKeyID: 50396844
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

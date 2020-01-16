@@ -2,8 +2,9 @@
 title: Run the Install-AXReportInstanceExtensions command
 TOCTitle: Run the Install-AXReportInstanceExtensions command
 ms:assetid: 8d7114ff-43d6-4661-906c-5434837bfb64
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527682(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527682(v=AX.60)
 ms:contentKeyID: 59626214
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 dev_langs:

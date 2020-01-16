@@ -2,8 +2,9 @@
 title: (RUS) Set up an electronic exchange format for a client bank
 TOCTitle: (RUS) Set up an electronic exchange format for a client bank
 ms:assetid: 895b66cb-e2c7-44f4-88a7-e8a442a51521
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839677(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839677(v=AX.60)
 ms:contentKeyID: 50396823
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -87,7 +88,7 @@ Use the **Exchange formats of client-bank** form to set up an electronic exchang
 
 ## See also
 
-[(RUS) Exchange formats of client-bank (form)](https://technet.microsoft.com/en-us/library/jj733242\(v=ax.60\))
+[(RUS) Exchange formats of client-bank (form)](https://technet.microsoft.com/library/jj733242\(v=ax.60\))
 
   
 

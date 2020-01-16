@@ -2,8 +2,9 @@
 title: (RUS) Set up a posting profile for advances received
 TOCTitle: (RUS) Set up a posting profile for advances received
 ms:assetid: eb6eddd0-206b-4324-b250-d3d24f204075
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711733(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711733(v=AX.60)
 ms:contentKeyID: 49388056
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

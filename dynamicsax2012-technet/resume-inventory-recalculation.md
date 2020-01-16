@@ -2,8 +2,9 @@
 title: Resume inventory recalculation
 TOCTitle: Resume inventory recalculation
 ms:assetid: a8873cc5-6bf9-484e-a11a-18458ef53b95
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243066(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243066(v=AX.60)
 ms:contentKeyID: 36058888
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ If inventory recalculation has been paused, it cannot be completed until you res
 
 ## See also
 
-[Closing and adjustment (form)](https://technet.microsoft.com/en-us/library/aa553192\(v=ax.60\))
+[Closing and adjustment (form)](https://technet.microsoft.com/library/aa553192\(v=ax.60\))
 
 [Pause inventory recalculation](pause-inventory-recalculation.md)
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: PublishingConnectorService Constructor (String, ) (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: PublishingConnectorService Constructor (String, )
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.PublishingConnectorService.#ctor(System.String,Microsoft.SharePoint.Administration.SPFarm)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingconnectorservice.publishingconnectorservice(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingconnectorservice.publishingconnectorservice(v=AX.60)
 ms:contentKeyID: 65316388
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -51,7 +52,7 @@ PublishingConnectorService(
 #### Parameters
 
   - serviceName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 

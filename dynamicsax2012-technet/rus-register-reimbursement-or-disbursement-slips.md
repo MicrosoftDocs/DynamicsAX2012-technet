@@ -2,8 +2,9 @@
 title: (RUS) Register reimbursement or disbursement slips
 TOCTitle: (RUS) Register reimbursement or disbursement slips
 ms:assetid: 58909a5c-4c65-4bb5-80c5-b197d51fdbfc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665402(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665402(v=AX.60)
 ms:contentKeyID: 49387490
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -101,7 +102,7 @@ You can generate a cash reimbursement slip when you confirm a cash receipt in th
 
 ## See also
 
-[(RUS) Cash accounts (form)](https://technet.microsoft.com/en-us/library/jj665230\(v=ax.60\))
+[(RUS) Cash accounts (form)](https://technet.microsoft.com/library/jj665230\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: PublishingParameters.CategoriesAttributes Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing)
 TOCTitle: CategoriesAttributes Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.PublishingParameters.CategoriesAttributes
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.publishingparameters.categoriesattributes(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.publishingparameters.categoriesattributes(v=AX.60)
 ms:contentKeyID: 65316379
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ property Dictionary<long long, IEnumerable<AttributeCategory^>^>^ CategoriesAttr
 
 #### Property Value
 
-Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\)), [IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<AttributeCategory\>\>  
+Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\)), [IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<AttributeCategory\>\>  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: (RUS) Set up groups for posting fixed assets taxes
 TOCTitle: (RUS) Set up groups for posting fixed assets taxes
 ms:assetid: df3f524e-fa75-4f19-b1a8-b23f3c43171c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711698(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711698(v=AX.60)
 ms:contentKeyID: 49388021
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,7 +40,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Ledger posting groups of taxes (form)](https://technet.microsoft.com/en-us/library/jj711593\(v=ax.60\))
+[(RUS) Ledger posting groups of taxes (form)](https://technet.microsoft.com/library/jj711593\(v=ax.60\))
 
   
 

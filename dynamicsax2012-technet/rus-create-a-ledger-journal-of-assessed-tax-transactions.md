@@ -2,8 +2,9 @@
 title: (RUS) Create a ledger journal of assessed tax transactions
 TOCTitle: (RUS) Create a ledger journal of assessed tax transactions
 ms:assetid: a61c3264-92d0-4c95-896f-a1b56a17fda6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678568(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678568(v=AX.60)
 ms:contentKeyID: 49387796
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,11 +44,11 @@ For more information, see [(RUS) Set up the calculation of assessed tax](rus-set
 
 ## See also
 
-[(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/en-us/library/jj721462\(v=ax.60\))
+[(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/library/jj721462\(v=ax.60\))
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
   
 

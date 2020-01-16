@@ -2,8 +2,9 @@
 title: Quotations license code (Quotations)
 TOCTitle: Quotations license code (Quotations)
 ms:assetid: 0c753319-63fb-4771-aa44-e88c9289ae01
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433441(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433441(v=AX.60)
 ms:contentKeyID: 36941191
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -55,7 +56,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

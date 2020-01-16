@@ -2,8 +2,9 @@
 title: (RUS) Cancel the allocation of charges on vendor invoices
 TOCTitle: (RUS) Cancel the allocation of charges on vendor invoices
 ms:assetid: 51150529-42a6-4407-8d89-4c3d6acb1dbe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733221(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733221(v=AX.60)
 ms:contentKeyID: 49685189
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Use the **Charges allocation** form to cancel the allocation of charges on vendo
 
 ## See also
 
-[(RUS) Charges allocation (form)](https://technet.microsoft.com/en-us/library/jj923600\(v=ax.60\))
+[(RUS) Charges allocation (form)](https://technet.microsoft.com/library/jj923600\(v=ax.60\))
 
   
 

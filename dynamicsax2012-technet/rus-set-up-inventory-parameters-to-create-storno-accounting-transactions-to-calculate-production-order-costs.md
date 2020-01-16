@@ -2,8 +2,9 @@
 title: (RUS) Set up inventory parameters to create storno accounting transactions to calculate production order costs
 TOCTitle: (RUS) Set up inventory parameters to create storno accounting transactions to calculate production order costs
 ms:assetid: 0ed1049d-b8a8-4d85-8ea8-7b215103f26c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711393(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711393(v=AX.60)
 ms:contentKeyID: 49387211
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ Use the **Inventory and warehouse management parameters** form to set up storno 
 
 [(RUS) Calculate the cost of WIP and finished goods](rus-calculate-the-cost-of-wip-and-finished-goods.md)
 
-[(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733200\(v=ax.60\))
+[(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj733200\(v=ax.60\))
 
   
 

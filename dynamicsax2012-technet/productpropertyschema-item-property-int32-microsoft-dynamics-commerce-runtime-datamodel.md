@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductPropertySchema.Item Property (Int32) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Item Property (Int32)
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductPropertySchema.Item(System.Int32)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productpropertyschema.item(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productpropertyschema.item(v=AX.60)
 ms:contentKeyID: 65323163
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -54,11 +55,11 @@ property String^ Item[int propertyIdx] {
 #### Parameters
 
   - propertyIdx  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

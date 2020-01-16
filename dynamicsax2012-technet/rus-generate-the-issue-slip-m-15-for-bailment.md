@@ -2,8 +2,9 @@
 title: (RUS) Generate the Issue slip (M-15) for bailment
 TOCTitle: (RUS) Generate the Issue slip (M-15) for bailment
 ms:assetid: 0011a880-a611-4c36-8a65-27942c7deae1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733173(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733173(v=AX.60)
 ms:contentKeyID: 49685141
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,9 +40,9 @@ You can generate the Issue slip (M-15) when you ship a transfer order for bailme
 
 ## See also
 
-[Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\))
+[Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\))
 
-[(RUS) Transfer order shipment (modified form)](https://technet.microsoft.com/en-us/library/jj733191\(v=ax.60\))
+[(RUS) Transfer order shipment (modified form)](https://technet.microsoft.com/library/jj733191\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequestContext Methods (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: RequestContext Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.RequestContext
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.requestcontext_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.requestcontext_methods(v=AX.60)
 ms:contentKeyID: 49844059
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -25,28 +26,28 @@ The [RequestContext](requestcontext-class-microsoft-dynamics-commerce-runtime.md
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/bsc2ak47(v=ax.60)">Equals</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/bsc2ak47(v=ax.60)">Equals</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.protmethod(en-us,AX.60).gif" title="Protected method" alt="Protected method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/4k87zsw7(v=ax.60)">Finalize</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/4k87zsw7(v=ax.60)">Finalize</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/zdee4b3y(v=ax.60)">GetHashCode</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/zdee4b3y(v=ax.60)">GetHashCode</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/dfwy45w9(v=ax.60)">GetType</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/dfwy45w9(v=ax.60)">GetType</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn987397.protmethod(en-us,AX.60).gif" title="Protected method" alt="Protected method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/57ctke0a(v=ax.60)">MemberwiseClone</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/57ctke0a(v=ax.60)">MemberwiseClone</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
@@ -55,8 +56,8 @@ The [RequestContext](requestcontext-class-microsoft-dynamics-commerce-runtime.md
 </tr>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/7bxwbwt2(v=ax.60)">ToString</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/7bxwbwt2(v=ax.60)">ToString</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -78,7 +79,7 @@ Top
 <tr class="odd">
 <td><img src="images/Dn684868.pubextension(en-us,AX.60).gif" title="Public Extension Method" alt="Public Extension Method" /></td>
 <td><a href="requestcontextextensions-convertdatetimetochanneldate-method-microsoft-dynamics-commerce-runtime.md">ConvertDateTimeToChannelDate</a></td>
-<td>Gets a <a href="https://technet.microsoft.com/en-us/library/bb341783(v=ax.60)">DateTimeOffset</a> object that is set to the current date and time on the current computer, with the offset set to the channel time's offset from Coordinated Universal Time (UTC). (Defined by <a href="requestcontextextensions-class-microsoft-dynamics-commerce-runtime.md">RequestContextExtensions</a>.)</td>
+<td>Gets a <a href="https://technet.microsoft.com/library/bb341783(v=ax.60)">DateTimeOffset</a> object that is set to the current date and time on the current computer, with the offset set to the channel time's offset from Coordinated Universal Time (UTC). (Defined by <a href="requestcontextextensions-class-microsoft-dynamics-commerce-runtime.md">RequestContextExtensions</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn684868.pubextension(en-us,AX.60).gif" title="Public Extension Method" alt="Public Extension Method" /></td>
@@ -118,7 +119,7 @@ Top
 <tr class="odd">
 <td><img src="images/Dn684868.pubextension(en-us,AX.60).gif" title="Public Extension Method" alt="Public Extension Method" /></td>
 <td><a href="requestcontextextensions-getnowinchanneltimezone-method-microsoft-dynamics-commerce-runtime.md">GetNowInChannelTimeZone</a></td>
-<td>Gets a <a href="https://technet.microsoft.com/en-us/library/bb341783(v=ax.60)">DateTimeOffset</a> object that is set to the current date and time on the current computer, with the offset set to the channel time's offset from Coordinated Universal Time (UTC). (Defined by <a href="requestcontextextensions-class-microsoft-dynamics-commerce-runtime.md">RequestContextExtensions</a>.)</td>
+<td>Gets a <a href="https://technet.microsoft.com/library/bb341783(v=ax.60)">DateTimeOffset</a> object that is set to the current date and time on the current computer, with the offset set to the channel time's offset from Coordinated Universal Time (UTC). (Defined by <a href="requestcontextextensions-class-microsoft-dynamics-commerce-runtime.md">RequestContextExtensions</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn684868.pubextension(en-us,AX.60).gif" title="Public Extension Method" alt="Public Extension Method" /></td>

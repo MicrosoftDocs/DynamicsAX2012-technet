@@ -2,8 +2,9 @@
 title: Retail headquarters configuration key (RetailHeadquarters)
 TOCTitle: Retail headquarters configuration key (RetailHeadquarters)
 ms:assetid: 10aacfba-5d5b-4b9a-8a1b-3cd331f19f2b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh697599(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh697599(v=AX.60)
 ms:contentKeyID: 42518398
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -45,39 +46,39 @@ This configuration key controls the availability of many forms in the **Retail**
 <tbody>
 <tr class="odd">
 <td><p><strong>Stores</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580646(v=ax.60)">Stores (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580646(v=ax.60)">Stores (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Sections</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597205(v=ax.60)">Sections (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597205(v=ax.60)">Sections (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Shelves</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597311(v=ax.60)">Shelves (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597311(v=ax.60)">Shelves (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Add products</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597286(v=ax.60)">Add products (form) (Retail)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597286(v=ax.60)">Add products (form) (Retail)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Retail product hierarchy</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597208(v=ax.60)">Retail product hierarchy (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597208(v=ax.60)">Retail product hierarchy (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Create bar codes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580609(v=ax.60)">Create bar codes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580609(v=ax.60)">Create bar codes (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Loyalty schemes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580612(v=ax.60)">Loyalty schemes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580612(v=ax.60)">Loyalty schemes (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Retail Parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597194(v=ax.60)">Retail parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597194(v=ax.60)">Retail parameters (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Replenishment rules</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597340(v=ax.60)">Replenishment rules (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597340(v=ax.60)">Replenishment rules (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -153,7 +154,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

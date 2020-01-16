@@ -2,8 +2,9 @@
 title: Registration list report (HcmCourseAttendeeLine)
 TOCTitle: Registration list report (HcmCourseAttendeeLine)
 ms:assetid: da1e701a-7c53-4f5b-8e4f-8278804e6f5a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ870694(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ870694(v=AX.60)
 ms:contentKeyID: 50469200
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

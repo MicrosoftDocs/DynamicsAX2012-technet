@@ -2,8 +2,9 @@
 title: (RUS) Reconcile posted transactions
 TOCTitle: (RUS) Reconcile posted transactions
 ms:assetid: 8e4edbd5-b471-495d-9fd4-2aa3fcc0eb31
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678473(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678473(v=AX.60)
 ms:contentKeyID: 49387702
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -95,7 +96,7 @@ If a bank statement contains a transaction without a corresponding payment journ
 
 ## See also
 
-[(RUS) Bank account reconciliation (modified form)](https://technet.microsoft.com/en-us/library/jj711451\(v=ax.60\))
+[(RUS) Bank account reconciliation (modified form)](https://technet.microsoft.com/library/jj711451\(v=ax.60\))
 
 [(RUS) Transit account function](rus-transit-account-function.md)
 

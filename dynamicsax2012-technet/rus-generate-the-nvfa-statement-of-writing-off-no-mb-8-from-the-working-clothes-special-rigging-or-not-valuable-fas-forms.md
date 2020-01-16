@@ -2,8 +2,9 @@
 title: (RUS) Generate the NVFA statement of writing-off (No. MB-8) from the Working clothes, Special rigging, or Not valuable FAs forms
 TOCTitle: (RUS) Generate the NVFA statement of writing-off (No. MB-8) from the Working clothes, Special rigging, or Not valuable FAs forms
 ms:assetid: 99cafd2b-c522-4a0c-9c80-450c7928b1d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853206(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853206(v=AX.60)
 ms:contentKeyID: 50396487
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequiredProductProperties Properties ()
 TOCTitle: RequiredProductProperties Properties
 ms:assetid: Properties.T:RequiredProductProperties
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/requiredproductproperties_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/requiredproductproperties_properties(v=AX.60)
 ms:contentKeyID: 65318356
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

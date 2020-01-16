@@ -2,8 +2,9 @@
 title: Retail store manager security role (RetailStoreManager)
 TOCTitle: Retail store manager security role (RetailStoreManager)
 ms:assetid: 279c7ea3-f1e2-48f1-a3a3-023d37956459
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh848740(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh848740(v=AX.60)
 ms:contentKeyID: 45430233
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

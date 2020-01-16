@@ -2,8 +2,9 @@
 title: (RUS) Sales and marketing
 TOCTitle: (RUS) Sales and marketing
 ms:assetid: 5f918f86-d36d-4882-bb47-591e8c696dcb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665437(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665437(v=AX.60)
 ms:contentKeyID: 49387526
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

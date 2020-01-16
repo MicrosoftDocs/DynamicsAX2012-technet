@@ -2,8 +2,9 @@
 title: (RUS) Create and post a purchase invoice for a service item
 TOCTitle: (RUS) Create and post a purchase invoice for a service item
 ms:assetid: dca44976-0663-4ada-938a-23e0d8d2ebd9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733290(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733290(v=AX.60)
 ms:contentKeyID: 49685257
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,9 +32,9 @@ You can create and post a purchase invoice for a service item by using the **Pur
 
 ## See also
 
-[Released product details (form)](https://technet.microsoft.com/en-us/library/aa615563\(v=ax.60\))
+[Released product details (form)](https://technet.microsoft.com/library/aa615563\(v=ax.60\))
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
   
 

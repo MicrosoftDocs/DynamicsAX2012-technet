@@ -2,8 +2,9 @@
 title: (RUS) Set up officials for the counting list (INV-5)
 TOCTitle: (RUS) Set up officials for the counting list (INV-5)
 ms:assetid: 0791032a-2d19-4597-9f42-ddbd44ce67bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733178(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733178(v=AX.60)
 ms:contentKeyID: 49685146
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

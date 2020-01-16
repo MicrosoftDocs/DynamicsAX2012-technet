@@ -2,8 +2,9 @@
 title: (RUS) Set up a transit tax group to redraw miscellaneous charges to third parties
 TOCTitle: (RUS) Set up a transit tax group to redraw miscellaneous charges to third parties
 ms:assetid: 4cd4d69d-f81e-4537-b0e7-ed08eb043205
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733217(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733217(v=AX.60)
 ms:contentKeyID: 49685185
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ Use this procedure to set up a transit tax group so that you can redraw charges 
 
 1.  Click **General ledger** \> **Setup** \> **Sales tax** \> **Sales tax groups**.
 
-2.  Press CTRL+N to create a new sales tax group. For more information, see [Sales tax groups (form)](https://technet.microsoft.com/en-us/library/aa498345\(v=ax.60\)).
+2.  Press CTRL+N to create a new sales tax group. For more information, see [Sales tax groups (form)](https://technet.microsoft.com/library/aa498345\(v=ax.60\)).
 
 3.  On the **General** FastTab, in the **Transit tax group** field, select the sales tax group that has an exempt tax code that is used to redraw the charges.
     

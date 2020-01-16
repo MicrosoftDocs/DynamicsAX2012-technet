@@ -2,8 +2,9 @@
 title: (RUS) Post a price or discount agreement journal for a customer or vendor
 TOCTitle: (RUS) Post a price or discount agreement journal for a customer or vendor
 ms:assetid: cf5a1eb8-3961-4583-bd1c-e911425a0eab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856182(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856182(v=AX.60)
 ms:contentKeyID: 50407021
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,11 +49,11 @@ Use this procedure to post a price or discount agreement journal for a customer 
 
 ## See also
 
-[Select trade agreements (class form)](https://technet.microsoft.com/en-us/library/aa583323\(v=ax.60\))
+[Select trade agreements (class form)](https://technet.microsoft.com/library/aa583323\(v=ax.60\))
 
-[(RUS) Journal lines,price/discount agreement (modified form)](https://technet.microsoft.com/en-us/library/jj852146\(v=ax.60\))
+[(RUS) Journal lines,price/discount agreement (modified form)](https://technet.microsoft.com/library/jj852146\(v=ax.60\))
 
-[(RUS) Select trade agreements (modified class form)](https://technet.microsoft.com/en-us/library/jj853176\(v=ax.60\))
+[(RUS) Select trade agreements (modified class form)](https://technet.microsoft.com/library/jj853176\(v=ax.60\))
 
   
 

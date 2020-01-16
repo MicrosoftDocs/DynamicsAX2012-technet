@@ -2,8 +2,9 @@
 title: (RUS) Pay-sheet of receipts and expenditure report (InventIncomeOutlay_RU)
 TOCTitle: (RUS) Pay-sheet of receipts and expenditure report (InventIncomeOutlay_RU)
 ms:assetid: 41ae59f5-9cf4-4e05-adfd-44dcecd69b27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ992743(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ992743(v=AX.60)
 ms:contentKeyID: 51739429
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -133,9 +134,9 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Inventory registration (form)](https://technet.microsoft.com/en-us/library/aa615731\(v=ax.60\))
+[Inventory registration (form)](https://technet.microsoft.com/library/aa615731\(v=ax.60\))
 
-[Inventory transactions (form)](https://technet.microsoft.com/en-us/library/aa584374\(v=ax.60\))
+[Inventory transactions (form)](https://technet.microsoft.com/library/aa584374\(v=ax.60\))
 
   
 

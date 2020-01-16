@@ -2,8 +2,9 @@
 title: (RUS) Set up a deferrals model
 TOCTitle: (RUS) Set up a deferrals model
 ms:assetid: 165057d0-5921-4004-b0d0-7dd41af7157c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711427(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711427(v=AX.60)
 ms:contentKeyID: 49387245
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -19,7 +20,7 @@ ms.search.region: Russia
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the **Deferrals models** form to specify the ledger account that is used to post write-off transactions. For more information, see [(RUS) Deferrals models (form)](https://technet.microsoft.com/en-us/library/jj678655\(v=ax.60\)).
+Use the **Deferrals models** form to specify the ledger account that is used to post write-off transactions. For more information, see [(RUS) Deferrals models (form)](https://technet.microsoft.com/library/jj678655\(v=ax.60\)).
 
 You can specify the write-off amount for each interval for a deferrals model. Each deferrals model is linked to a deferral ID. When you generate a write-off transaction in the deferral journal for a deferral ID, the write-off amounts that are specified for the associated deferrals model are created on the journal lines. You can then post the journal.
 

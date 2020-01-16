@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesLineDeliveryOption Constructor (String, IEnumerable(DeliveryOption)) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: SalesLineDeliveryOption Constructor (String, IEnumerable(DeliveryOption))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesLineDeliveryOption.#ctor(System.String,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.DeliveryOption})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.saleslinedeliveryoption.saleslinedeliveryoption(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.saleslinedeliveryoption.saleslinedeliveryoption(v=AX.60)
 ms:contentKeyID: 49819657
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -53,12 +54,12 @@ SalesLineDeliveryOption(
 #### Parameters
 
   - salesLineId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - deliveryOptions  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[DeliveryOption](deliveryoption-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[DeliveryOption](deliveryoption-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

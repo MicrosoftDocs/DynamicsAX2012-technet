@@ -2,8 +2,9 @@
 title: (RUS) Set up the periods of formats application directory
 TOCTitle: (RUS) Set up the periods of formats application directory
 ms:assetid: 5deb01fd-4c55-4c13-b555-332bb5da037e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677542(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677542(v=AX.60)
 ms:contentKeyID: 49384846
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -83,11 +84,11 @@ Use the **Selection of KND** form to import Spavochnik periodov primeneniya form
 
 ## See also
 
-[(RUS) Periods of formats application (form)](https://technet.microsoft.com/en-us/library/jj710684\(v=ax.60\))
+[(RUS) Periods of formats application (form)](https://technet.microsoft.com/library/jj710684\(v=ax.60\))
 
-[(RUS) Fixed requisites (form)](https://technet.microsoft.com/en-us/library/jj710680\(v=ax.60\))
+[(RUS) Fixed requisites (form)](https://technet.microsoft.com/library/jj710680\(v=ax.60\))
 
-[(RUS) Format of requisites (form)](https://technet.microsoft.com/en-us/library/jj710737\(v=ax.60\))
+[(RUS) Format of requisites (form)](https://technet.microsoft.com/library/jj710737\(v=ax.60\))
 
   
 

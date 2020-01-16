@@ -2,8 +2,9 @@
 title: (RUS) Set up customer posting profiles for dimensions control for settlements
 TOCTitle: (RUS) Set up customer posting profiles for dimensions control for settlements
 ms:assetid: eb446466-ca2b-49ce-abca-b7d2ba4e0385
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711731(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711731(v=AX.60)
 ms:contentKeyID: 49388054
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ Use this procedure to set up customer posting profiles for dimension control for
 
 1.  Click **Accounts receivable** \> **Setup** \> **Customer posting profiles**.
 
-2.  Press CTRL+N to create a new customer posting profile, and then enter the required details. For more information, see [Customer posting profiles (form)](https://technet.microsoft.com/en-us/library/aa600572\(v=ax.60\)).
+2.  Press CTRL+N to create a new customer posting profile, and then enter the required details. For more information, see [Customer posting profiles (form)](https://technet.microsoft.com/library/aa600572\(v=ax.60\)).
 
 3.  Click the **Table restrictions** FastTab.
 
@@ -58,7 +59,7 @@ Use this procedure to set up customer posting profiles for dimension control for
 
 [(RUS) Set up vendor posting profiles for dimensions control for settlements](rus-set-up-vendor-posting-profiles-for-dimensions-control-for-settlements.md)
 
-[(RUS) Customer posting profiles (modified form)](https://technet.microsoft.com/en-us/library/jj678641\(v=ax.60\))
+[(RUS) Customer posting profiles (modified form)](https://technet.microsoft.com/library/jj678641\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Set up the item relation to working clothes and special rigging
 TOCTitle: (RUS) Set up the item relation to working clothes and special rigging
 ms:assetid: cd3a8ace-27ca-4c56-8946-d0629eeb74ed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853225(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853225(v=AX.60)
 ms:contentKeyID: 50396505
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

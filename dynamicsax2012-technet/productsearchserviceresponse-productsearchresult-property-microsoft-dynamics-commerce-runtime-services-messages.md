@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductSearchServiceResponse.ProductSearchResult Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: ProductSearchResult Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ProductSearchServiceResponse.ProductSearchResult
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.productsearchserviceresponse.productsearchresult(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.productsearchserviceresponse.productsearchresult(v=AX.60)
 ms:contentKeyID: 65317296
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

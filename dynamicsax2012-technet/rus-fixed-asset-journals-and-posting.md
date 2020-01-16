@@ -2,8 +2,9 @@
 title: (RUS) Fixed asset journals and posting
 TOCTitle: (RUS) Fixed asset journals and posting
 ms:assetid: 30d64ec9-b9ec-4a05-bc4b-5fff5cec0479
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665255(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665255(v=AX.60)
 ms:contentKeyID: 49387343
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

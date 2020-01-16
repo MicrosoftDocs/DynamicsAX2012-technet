@@ -2,8 +2,9 @@
 title: (RUS) Create fixed assets
 TOCTitle: (RUS) Create fixed assets
 ms:assetid: 5bc9016e-5b56-49e3-ad45-a9383bbeedf4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665417(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665417(v=AX.60)
 ms:contentKeyID: 49387505
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

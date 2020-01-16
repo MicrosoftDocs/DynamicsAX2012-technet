@@ -2,8 +2,9 @@
 title: (RUS) Set up an inventory profile in the Warehouses form
 TOCTitle: (RUS) Set up an inventory profile in the Warehouses form
 ms:assetid: 55c7effb-276c-4ba7-818d-42b8e8edaa71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733227(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733227(v=AX.60)
 ms:contentKeyID: 49685194
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) Set up import of exchange rates
 TOCTitle: (RUS) Set up import of exchange rates
 ms:assetid: d0c546d6-db2e-4e84-9816-b5dc7936f93e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711642(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711642(v=AX.60)
 ms:contentKeyID: 49387966
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ To import currency exchange rates from the Central Bank of the Russian Federatio
 
 ## Configure an exchange rate provider
 
-1.  Click **General ledger** \> **Setup** \> **Currency** \> **Configure exchange rate providers**. For more information, see [Configure exchange rate providers (form)](https://technet.microsoft.com/en-us/library/jj852132\(v=ax.60\))
+1.  Click **General ledger** \> **Setup** \> **Currency** \> **Configure exchange rate providers**. For more information, see [Configure exchange rate providers (form)](https://technet.microsoft.com/library/jj852132\(v=ax.60\))
 
 2.  Click **Add** to open the **Select exchange rate providers** form.
 
@@ -33,7 +34,7 @@ To import currency exchange rates from the Central Bank of the Russian Federatio
 
 ## Set up the currency exchange rate factor
 
-1.  Click **General ledger** \> **Setup** \> **Currency** \> **Currencies**. For more information, see [Currencies (form)](https://technet.microsoft.com/en-us/library/aa582902\(v=ax.60\)).
+1.  Click **General ledger** \> **Setup** \> **Currency** \> **Currencies**. For more information, see [Currencies (form)](https://technet.microsoft.com/library/aa582902\(v=ax.60\)).
 
 2.  In the **Currency** field, select the International Organization for Standardization (ISO) currency code for which you want to set the exchange rate factor, and then click **Factor** to open the **Exchange rate factor** form.
     
@@ -49,7 +50,7 @@ To import currency exchange rates from the Central Bank of the Russian Federatio
 
 [(RUS) Import exchange rates from the CBRF website](rus-import-exchange-rates-from-the-cbrf-website.md)
 
-[Exchange rate types (form)](https://technet.microsoft.com/en-us/library/hh242857\(v=ax.60\))
+[Exchange rate types (form)](https://technet.microsoft.com/library/hh242857\(v=ax.60\))
 
   
 

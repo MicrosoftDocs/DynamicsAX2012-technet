@@ -2,8 +2,9 @@
 title: (RUS) Create delimiters for the Financial reports generator
 TOCTitle: (RUS) Create delimiters for the Financial reports generator
 ms:assetid: 147e1658-63f6-4ab8-9fec-3d1f873bacfd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911235(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911235(v=AX.60)
 ms:contentKeyID: 52075350
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ You can export an electronic report into a text file. In the text file, you can 
 
 ## See also
 
-[(RUS) Delimiters (form)](https://technet.microsoft.com/en-us/library/jj911232\(v=ax.60\))
+[(RUS) Delimiters (form)](https://technet.microsoft.com/library/jj911232\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductListingKey.GetHashCode Method  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: GetHashCode Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.ProductListingKey.GetHashCode
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.productlistingkey.gethashcode(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.productlistingkey.gethashcode(v=AX.60)
 ms:contentKeyID: 65316961
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # GetHashCode Method
 
-This member overrides [Object.GetHashCode()](https://technet.microsoft.com/en-us/library/zdee4b3y\(v=ax.60\)).
+This member overrides [Object.GetHashCode()](https://technet.microsoft.com/library/zdee4b3y\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector](microsoft-dynamics-retail-ecommerce-sp-publishing-connector-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector (in Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.dll)
@@ -44,7 +45,7 @@ virtual int GetHashCode() override
 
 #### Return Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 ## See Also
 

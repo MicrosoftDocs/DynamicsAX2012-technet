@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductListingKey.ProductListingId Property  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: ProductListingId Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.ProductListingKey.ProductListingId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.productlistingkey.productlistingid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.productlistingkey.productlistingid(v=AX.60)
 ms:contentKeyID: 65316086
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ property long long ProductListingId {
 
 #### Property Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 ## See Also
 

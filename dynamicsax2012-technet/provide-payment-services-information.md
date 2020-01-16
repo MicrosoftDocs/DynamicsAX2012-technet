@@ -2,8 +2,9 @@
 title: Provide payment services information
 TOCTitle: Provide payment services information
 ms:assetid: 1bb6cdb7-76f9-484c-8fe8-bafca56fd12d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720351(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720351(v=AX.60)
 ms:contentKeyID: 49721146
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

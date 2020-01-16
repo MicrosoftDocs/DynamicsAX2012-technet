@@ -2,8 +2,9 @@
 title: (RUS) Reconcile bank accounts overview
 TOCTitle: (RUS) Reconcile bank accounts overview
 ms:assetid: f47e16c1-4c37-4525-a19e-8519fb5d37cb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678615(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678615(v=AX.60)
 ms:contentKeyID: 49388097
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

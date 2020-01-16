@@ -2,8 +2,9 @@
 title: Production Floor app for Microsoft Dynamics AX
 TOCTitle: Production Floor app
 ms:assetid: d90c2d60-1353-40d8-bf80-4b0e4c30a7c5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn771606(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn771606(v=AX.60)
 ms:contentKeyID: 62551179
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Run replenishment manually
 TOCTitle: Run replenishment manually
 ms:assetid: 6de78380-33b4-4353-87e3-4d47f0245abf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn715964(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn715964(v=AX.60)
 ms:contentKeyID: 62200087
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

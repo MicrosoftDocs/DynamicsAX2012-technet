@@ -2,8 +2,9 @@
 title: (RUS) Generate and print an Inventory act (INV-11) report
 TOCTitle: (RUS) Generate and print an Inventory act (INV-11) report
 ms:assetid: 88afd3c1-911e-4cc6-9c68-d6acda762042
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678456(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678456(v=AX.60)
 ms:contentKeyID: 49387685
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -113,15 +114,15 @@ Before you generate the deferrals inventory act report, you must create deferral
 
 ## See also
 
-[(RUS) Deferrals counting journal (form)](https://technet.microsoft.com/en-us/library/jj839697\(v=ax.60\))
+[(RUS) Deferrals counting journal (form)](https://technet.microsoft.com/library/jj839697\(v=ax.60\))
 
-[(RUS) Deferrals counting journal line (form)](https://technet.microsoft.com/en-us/library/jj841094\(v=ax.60\))
+[(RUS) Deferrals counting journal line (form)](https://technet.microsoft.com/library/jj841094\(v=ax.60\))
 
-[(RUS) Deferrals (form)](https://technet.microsoft.com/en-us/library/jj923560\(v=ax.60\))
+[(RUS) Deferrals (form)](https://technet.microsoft.com/library/jj923560\(v=ax.60\))
 
-[(RUS) Deferrals models (form)](https://technet.microsoft.com/en-us/library/jj678655\(v=ax.60\))
+[(RUS) Deferrals models (form)](https://technet.microsoft.com/library/jj678655\(v=ax.60\))
 
-[(RUS) Deferrals transactions (form)](https://technet.microsoft.com/en-us/library/jj678472\(v=ax.60\))
+[(RUS) Deferrals transactions (form)](https://technet.microsoft.com/library/jj678472\(v=ax.60\))
 
   
 

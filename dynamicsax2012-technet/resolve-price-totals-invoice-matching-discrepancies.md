@@ -2,8 +2,9 @@
 title: Resolve price totals invoice matching discrepancies
 TOCTitle: Resolve price totals invoice matching discrepancies
 ms:assetid: 53f18e61-f50d-4557-b121-5553e79e78b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh292597(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh292597(v=AX.60)
 ms:contentKeyID: 36655928
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -89,9 +90,9 @@ A price variance exists if the invoice price total differs from the purchase ord
 
 [Record the receipt of vendor invoices and match against received quantities](record-the-receipt-of-vendor-invoices-and-match-against-received-quantities.md)
 
-[Invoice matching details (form)](https://technet.microsoft.com/en-us/library/hh209713\(v=ax.60\))
+[Invoice matching details (form)](https://technet.microsoft.com/library/hh209713\(v=ax.60\))
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
   
 

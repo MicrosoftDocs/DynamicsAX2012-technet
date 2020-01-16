@@ -2,8 +2,9 @@
 title: (RUS) Receive and enter vendor invoices
 TOCTitle: (RUS) Receive and enter vendor invoices
 ms:assetid: d69c0214-1626-4f6b-b5af-2dbfb97da857
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711665(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711665(v=AX.60)
 ms:contentKeyID: 49387989
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

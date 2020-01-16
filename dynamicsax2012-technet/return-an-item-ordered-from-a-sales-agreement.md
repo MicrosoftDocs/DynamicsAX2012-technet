@@ -2,8 +2,9 @@
 title: Return an item ordered from a sales agreement
 TOCTitle: Return an item ordered from a sales agreement
 ms:assetid: 27056300-0566-453e-9a7f-40c0aa439f52
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683225(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ683225(v=AX.60)
 ms:contentKeyID: 49684847
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ If you do not want to deduct the returned item quantity from the sales agreement
 
 ## See also
 
-[Return orders (form)](https://technet.microsoft.com/en-us/library/hh803010\(v=ax.60\))
+[Return orders (form)](https://technet.microsoft.com/library/hh803010\(v=ax.60\))
 
 [About sales agreements](about-sales-agreements.md)
 

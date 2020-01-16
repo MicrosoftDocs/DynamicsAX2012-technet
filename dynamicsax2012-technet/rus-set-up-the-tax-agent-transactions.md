@@ -2,8 +2,9 @@
 title: (RUS) Set up the tax agent transactions
 TOCTitle: (RUS) Set up the tax agent transactions
 ms:assetid: 9eb51a58-bfd5-4f16-8972-e9fe3d3b4c46
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678541(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678541(v=AX.60)
 ms:contentKeyID: 49387770
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,7 +62,7 @@ You must set up the parameters for tax agent transactions in the general ledger 
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa553257(v=ax.60)">Sales tax codes (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa553257(v=ax.60)">Sales tax codes (form)</A>.</P>
 
 
 
@@ -71,7 +72,7 @@ You must set up the parameters for tax agent transactions in the general ledger 
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa498345(v=ax.60)">Sales tax groups (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa498345(v=ax.60)">Sales tax groups (form)</A>.</P>
 
 
 
@@ -91,7 +92,7 @@ You must set up the parameters for tax agent transactions in the general ledger 
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa615960(v=ax.60)">Item sales tax groups (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa615960(v=ax.60)">Item sales tax groups (form)</A>.</P>
 
 
 
@@ -117,9 +118,9 @@ You must set up the parameters for tax agent transactions in the general ledger 
 
 ## See also
 
-[(RUS) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj923552\(v=ax.60\))
+[(RUS) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj923552\(v=ax.60\))
 
-[(RUS) VAT operation codes (form)](https://technet.microsoft.com/en-us/library/jj839695\(v=ax.60\))
+[(RUS) VAT operation codes (form)](https://technet.microsoft.com/library/jj839695\(v=ax.60\))
 
 [(RUS) Create a payment proposal for a tax agent invoice](rus-create-a-payment-proposal-for-a-tax-agent-invoice.md)
 

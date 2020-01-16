@@ -2,8 +2,9 @@
 title: (RUS) Storno transactions in transfer journals
 TOCTitle: (RUS) Storno transactions in transfer journals
 ms:assetid: 551d8387-077d-4127-9b84-cf7d1ad6e8b4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665396(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665396(v=AX.60)
 ms:contentKeyID: 49387484
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

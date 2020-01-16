@@ -2,8 +2,9 @@
 title: (RUS) Set up vendor posting profiles for dimensions control for settlements
 TOCTitle: (RUS) Set up vendor posting profiles for dimensions control for settlements
 ms:assetid: 5700540f-f6cc-4cce-b8ab-ff55de75cb42
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665395(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665395(v=AX.60)
 ms:contentKeyID: 49387483
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ Use this procedure to set up vendor posting profiles for dimension control for s
 
 1.  Click **Accounts payable** \> **Setup** \> **Vendor posting profiles**.
 
-2.  Press CTRL+N to create a new vendor posting profile, and then enter the required details. For more information, see [Vendor posting profiles (form)](https://technet.microsoft.com/en-us/library/aa551972\(v=ax.60\)).
+2.  Press CTRL+N to create a new vendor posting profile, and then enter the required details. For more information, see [Vendor posting profiles (form)](https://technet.microsoft.com/library/aa551972\(v=ax.60\)).
 
 3.  Click the **Table restrictions** FastTab.
 

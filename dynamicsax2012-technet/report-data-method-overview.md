@@ -1,9 +1,10 @@
-﻿---
+---
 title: Report Data Method Overview
 TOCTitle: Report Data Method Overview
 ms:assetid: 39b24dd9-f078-4197-8468-fb7c193eaeec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc587341(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc587341(v=AX.60)
 ms:contentKeyID: 28119344
+author: Khairunj
 ms.date: 05/28/2013
 mtps_version: v=AX.60
 ---
@@ -110,7 +111,7 @@ You can find examples of this scenario in Application Explorer by going to **Vis
 
 There are many areas where you can add expressions to your reports. For example, you can create an expression for a field to perform a calculation or change the data that displays for the field. You can use a data method in an expression. In this case, the expression references the data method in the business logic project. Expression Editor displays a list of data methods that are available to the report. For information about how to use Expression Editor, see [Edit Expression Overview](edit-expression-overview.md). For information about how to create expressions, see [Expression Examples in Reporting Services](http://go.microsoft.com/fwlink/?linkid=106936).
 
-When you write business logic in a data method, you will call the data method from an expression. You can access X++ code that is defined in Microsoft Dynamics AX using the managed programming interface for reports that is defined in the [Reports](https://technet.microsoft.com/en-us/library/cc601396\(v=ax.60\)) namespace. A data method can be used in multiple expressions in a report, so that the business logic that you define is reusable.
+When you write business logic in a data method, you will call the data method from an expression. You can access X++ code that is defined in Microsoft Dynamics AX using the managed programming interface for reports that is defined in the [Reports](https://technet.microsoft.com/library/cc601396\(v=ax.60\)) namespace. A data method can be used in multiple expressions in a report, so that the business logic that you define is reusable.
 
 ## See also
 
@@ -118,5 +119,5 @@ When you write business logic in a data method, you will call the data method fr
 
 [How to: Define a Report Dataset](how-to-define-a-report-dataset.md)
 
-[Reports](https://technet.microsoft.com/en-us/library/cc601396\(v=ax.60\))
+[Reports](https://technet.microsoft.com/library/cc601396\(v=ax.60\))
 

@@ -2,8 +2,9 @@
 title: (RUS) Setting up tax accounting documents for purchases
 TOCTitle: (RUS) Setting up tax accounting documents for purchases
 ms:assetid: 8b4f24e7-9e44-4034-bbe0-ed18226cf3a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678462(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678462(v=AX.60)
 ms:contentKeyID: 49387691
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

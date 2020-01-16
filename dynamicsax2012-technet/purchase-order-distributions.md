@@ -2,8 +2,9 @@
 title: Purchase order distributions
 TOCTitle: Purchase order distributions
 ms:assetid: 567b6471-8d05-4b85-b734-577cfa3df78b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208966(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208966(v=AX.60)
 ms:contentKeyID: 36057323
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

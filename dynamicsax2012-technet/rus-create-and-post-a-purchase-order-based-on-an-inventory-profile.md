@@ -2,8 +2,9 @@
 title: (RUS) Create and post a purchase order based on an inventory profile
 TOCTitle: (RUS) Create and post a purchase order based on an inventory profile
 ms:assetid: 811201ea-f726-4080-bf1e-3c656233808b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733248(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733248(v=AX.60)
 ms:contentKeyID: 49685215
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -21,7 +22,7 @@ You can also post purchase indirect costs for purchase order lines that have an 
 
 1.  Click **Accounts payable** \> **Common** \> **Purchase orders** \> **All purchase orders**.
 
-2.  Create a purchase order, or select an existing purchase order. For more information, see [Create purchase order (form)](https://technet.microsoft.com/en-us/library/aa570189\(v=ax.60\)).
+2.  Create a purchase order, or select an existing purchase order. For more information, see [Create purchase order (form)](https://technet.microsoft.com/library/aa570189\(v=ax.60\)).
 
 3.  Create a new purchase order line, or click **Add lines** to open the **Create lines** form.
 
@@ -59,7 +60,7 @@ You can also post purchase indirect costs for purchase order lines that have an 
 
 ## See also
 
-[(RUS) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj733294\(v=ax.60\))
+[(RUS) Purchase orders (modified form)](https://technet.microsoft.com/library/jj733294\(v=ax.60\))
 
 [(RUS) Update factures and post invoices for open purchase orders](rus-update-factures-and-post-invoices-for-open-purchase-orders.md)
 

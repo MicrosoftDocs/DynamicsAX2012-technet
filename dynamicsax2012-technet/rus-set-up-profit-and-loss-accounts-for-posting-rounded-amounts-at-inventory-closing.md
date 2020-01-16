@@ -2,8 +2,9 @@
 title: (RUS) Set up profit and loss accounts for posting rounded amounts at inventory closing
 TOCTitle: (RUS) Set up profit and loss accounts for posting rounded amounts at inventory closing
 ms:assetid: eaa3f967-104e-41eb-9abc-e8353d9ecab5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126131(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126131(v=AX.60)
 ms:contentKeyID: 52075454
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -79,7 +80,7 @@ You can set up a ledger account to post rounding differences that occur during i
 
 [(RUS) Adjust the cost price from the ledger account](rus-adjust-the-cost-price-from-the-ledger-account.md)
 
-[(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733200\(v=ax.60\))
+[(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj733200\(v=ax.60\))
 
   
 

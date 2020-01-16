@@ -2,8 +2,9 @@
 title: Run Setup in silent mode
 TOCTitle: Run Setup in silent mode
 ms:assetid: 3a6d1a25-d682-4056-8547-7b68b0f47523
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496627(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496627(v=AX.60)
 ms:contentKeyID: 35132607
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Run AXUpdate in silent mode
 TOCTitle: Run AXUpdate in silent mode
 ms:assetid: 285a5e3b-f38d-4ba6-9ac7-e4a6dcac3a13
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538439(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538439(v=AX.60)
 ms:contentKeyID: 39508861
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

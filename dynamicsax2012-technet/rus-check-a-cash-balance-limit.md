@@ -2,8 +2,9 @@
 title: (RUS) Check a cash balance limit
 TOCTitle: (RUS) Check a cash balance limit
 ms:assetid: a205b63f-e759-47ca-9380-8b5bd6b118e8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678551(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678551(v=AX.60)
 ms:contentKeyID: 49387779
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ Use the **Check balance limit** form to determine whether the set cash limit has
 
 ## See also
 
-[(RUS) Cash balance (form)](https://technet.microsoft.com/en-us/library/jj678613\(v=ax.60\))
+[(RUS) Cash balance (form)](https://technet.microsoft.com/library/jj678613\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Create and post a vendor invoice for a service item
 TOCTitle: (RUS) Create and post a vendor invoice for a service item
 ms:assetid: 41de9732-e39e-43e9-8fd3-225225f4ab29
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733206(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733206(v=AX.60)
 ms:contentKeyID: 49685174
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ You can create and post a vendor invoice for a service item by using the **Vendo
 
 1.  Click **Accounts payable** \> **Common** \> **Vendor invoices** \> **Open vendor invoices**. Click **Invoice** \> **Vendor invoice** to open the **Vendor invoice** form.
 
-2.  Create a new vendor invoice. For more information, see [Open vendor invoices (list page)](https://technet.microsoft.com/en-us/library/hh454986\(v=ax.60\)).
+2.  Create a new vendor invoice. For more information, see [Open vendor invoices (list page)](https://technet.microsoft.com/library/hh454986\(v=ax.60\)).
 
 3.  In the **Invoice account** field, select the vendor invoice account.
 
@@ -40,7 +41,7 @@ You can create and post a vendor invoice for a service item by using the **Vendo
 
 [(RUS) Create and post a purchase invoice for a service item](rus-create-and-post-a-purchase-invoice-for-a-service-item.md)
 
-[(RUS) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj733265\(v=ax.60\))
+[(RUS) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj733265\(v=ax.60\))
 
   
 

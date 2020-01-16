@@ -2,8 +2,9 @@
 title: (RUS) Post a sales invoice for payment
 TOCTitle: (RUS) Post a sales invoice for payment
 ms:assetid: 7b908cec-5340-4940-9bde-c81adce2b5ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678389(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678389(v=AX.60)
 ms:contentKeyID: 49387619
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,11 +56,11 @@ Use the **Posting invoice for payment** form to post a sales invoice for payment
 
 ## See also
 
-[(RUS) Journal of invoices for payment (form)](https://technet.microsoft.com/en-us/library/jj733219\(v=ax.60\))
+[(RUS) Journal of invoices for payment (form)](https://technet.microsoft.com/library/jj733219\(v=ax.60\))
 
-[Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\))
+[Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\))
 
-[Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\))
+[Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\))
 
   
 

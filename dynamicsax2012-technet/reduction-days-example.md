@@ -2,8 +2,9 @@
 title: Reduction days example
 TOCTitle: Reduction days example
 ms:assetid: af9ba3d4-f1d1-4763-8d77-68f549474c30
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498637(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498637(v=AX.60)
 ms:contentKeyID: 36058957
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

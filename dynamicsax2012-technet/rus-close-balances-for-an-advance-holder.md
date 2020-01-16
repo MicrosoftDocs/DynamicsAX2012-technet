@@ -2,8 +2,9 @@
 title: (RUS) Close balances for an advance holder
 TOCTitle: (RUS) Close balances for an advance holder
 ms:assetid: c688100a-3e23-47ad-913d-b25f81963b4c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711601(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711601(v=AX.60)
 ms:contentKeyID: 49387925
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

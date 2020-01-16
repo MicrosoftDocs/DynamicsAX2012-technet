@@ -2,8 +2,9 @@
 title: (RUS) Set up a register for goods issued
 TOCTitle: (RUS) Set up a register for goods issued
 ms:assetid: c1ab0765-2471-437e-b30e-26fa9a21802c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839687(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839687(v=AX.60)
 ms:contentKeyID: 50396833
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,7 +68,7 @@ The **Goods issued** register displays the income from the issue of items, servi
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
 [(RUS) Calculate registers](rus-calculate-registers.md)
 

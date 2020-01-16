@@ -2,8 +2,9 @@
 title: (RUS) Set up a number sequence for currency transactions
 TOCTitle: (RUS) Set up a number sequence for currency transactions
 ms:assetid: fb8b91ec-e787-46d2-a252-3b7144f25813
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856190(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856190(v=AX.60)
 ms:contentKeyID: 50407029
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ Use the **Cash and bank management parameters** form to set up a number sequence
 
 ## See also
 
-[(RUS) Cash and bank management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj711566\(v=ax.60\))
+[(RUS) Cash and bank management parameters (modified form)](https://technet.microsoft.com/library/jj711566\(v=ax.60\))
 
 [(RUS) Set up exchange rates for a currency transaction](rus-set-up-exchange-rates-for-a-currency-transaction.md)
 

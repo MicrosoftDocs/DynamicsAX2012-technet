@@ -2,8 +2,9 @@
 title: (RUS) Set up an inventory posting profile
 TOCTitle: (RUS) Set up an inventory posting profile
 ms:assetid: b658f113-cabe-4876-b879-fc47b41d25a4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733274(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733274(v=AX.60)
 ms:contentKeyID: 49685240
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ You use the **Posting** form to set up the inventory posting profile. When you c
 
 1.  Click **Inventory management** \> **Setup** \> **Posting** \> **Posting**.
 
-2.  Create a record for an inventory item posting account. For more information see, [Item posting (form)](https://technet.microsoft.com/en-us/library/aa589971\(v=ax.60\)).
+2.  Create a record for an inventory item posting account. For more information see, [Item posting (form)](https://technet.microsoft.com/library/aa589971\(v=ax.60\)).
 
 3.  In the **Inventory profile relation** field, select **Profile**.
 
@@ -29,7 +30,7 @@ You use the **Posting** form to set up the inventory posting profile. When you c
 
 ## See also
 
-[(RUS) Item posting (modified form)](https://technet.microsoft.com/en-us/library/jj733204\(v=ax.60\))
+[(RUS) Item posting (modified form)](https://technet.microsoft.com/library/jj733204\(v=ax.60\))
 
   
 

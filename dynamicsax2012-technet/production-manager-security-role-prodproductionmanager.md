@@ -2,8 +2,9 @@
 title: Production manager security role (ProdProductionManager)
 TOCTitle: Production manager security role (ProdProductionManager)
 ms:assetid: ce34f062-0018-4bf4-ab9c-5a6c85dc092e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527135(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527135(v=AX.60)
 ms:contentKeyID: 37823186
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

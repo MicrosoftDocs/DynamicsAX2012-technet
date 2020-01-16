@@ -2,8 +2,9 @@
 title: (RUS) Create, post, and print a by-product journal from a report as finished journal
 TOCTitle: (RUS) Create, post, and print a by-product journal from a report as finished journal
 ms:assetid: 27530c69-6d36-4529-9db5-987459fc77af
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665215(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665215(v=AX.60)
 ms:contentKeyID: 49387305
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ Use the **By-product journal lines** form to create, post, and print a by-produc
 
 ## See also
 
-[(RUS) Production journal lines, report as finished (modified form)](https://technet.microsoft.com/en-us/library/jj678496\(v=ax.60\))
+[(RUS) Production journal lines, report as finished (modified form)](https://technet.microsoft.com/library/jj678496\(v=ax.60\))
 
   
 

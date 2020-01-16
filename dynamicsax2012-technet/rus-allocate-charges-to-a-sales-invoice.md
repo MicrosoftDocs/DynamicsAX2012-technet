@@ -2,8 +2,9 @@
 title: (RUS) Allocate charges to a sales invoice
 TOCTitle: (RUS) Allocate charges to a sales invoice
 ms:assetid: 78c99643-4a16-47be-a05a-b432622facef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853194(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853194(v=AX.60)
 ms:contentKeyID: 50396479
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ Use the **Allocate charges** form to allocate charges to a sales invoice that wa
 
 [(RUS) Create and post a sales order for delayed transfer of proprietary rights](rus-create-and-post-a-sales-order-for-delayed-transfer-of-proprietary-rights.md)
 
-[(RUS) Allocate charges (modified form)](https://technet.microsoft.com/en-us/library/jj665432\(v=ax.60\))
+[(RUS) Allocate charges (modified form)](https://technet.microsoft.com/library/jj665432\(v=ax.60\))
 
   
 

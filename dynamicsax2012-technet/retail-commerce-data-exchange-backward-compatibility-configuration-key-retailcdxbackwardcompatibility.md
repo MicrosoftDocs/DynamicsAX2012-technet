@@ -2,8 +2,9 @@
 title: Retail Commerce Data Exchange backward compatibility configuration key (RetailCDXBackwardCompatibility)
 TOCTitle: Retail Commerce Data Exchange backward compatibility configuration key (RetailCDXBackwardCompatibility)
 ms:assetid: 0410de6a-c477-4783-b087-bdc4bc0a2356
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn792360(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn792360(v=AX.60)
 ms:contentKeyID: 62613988
+author: Khairunj
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
@@ -37,19 +38,19 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>AOS profiles</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597290(v=ax.60)">AOS profiles (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597290(v=ax.60)">AOS profiles (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Commerce Data Exchange: Synch Service messages</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh672165(v=ax.60)">Commerce Data Exchange: Synch Service messages (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh672165(v=ax.60)">Commerce Data Exchange: Synch Service messages (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Commerce Data Exchange: Synch Service profiles</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597328(v=ax.60)">Commerce Data Exchange: Synch Service profiles (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597328(v=ax.60)">Commerce Data Exchange: Synch Service profiles (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Commerce Data Exchange: Synch Service upload options</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597138(v=ax.60)">Commerce Data Exchange: Synch Service upload options (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597138(v=ax.60)">Commerce Data Exchange: Synch Service upload options (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -87,7 +88,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

@@ -2,8 +2,9 @@
 title: Release items to warehouse by using the picking workbench
 TOCTitle: Release items to warehouse by using the picking workbench
 ms:assetid: b92ba4c6-b43d-4329-b356-db632de2ffa0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn715978(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn715978(v=AX.60)
 ms:contentKeyID: 62200146
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

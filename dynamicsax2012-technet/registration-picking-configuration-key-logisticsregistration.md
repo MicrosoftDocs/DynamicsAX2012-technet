@@ -2,8 +2,9 @@
 title: Registration/Picking configuration key (LogisticsRegistration)
 TOCTitle: Registration/Picking configuration key (LogisticsRegistration)
 ms:assetid: 67ade66a-0318-4de6-885b-3813a4aaf350
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa585476(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa585476(v=AX.60)
 ms:contentKeyID: 36993546
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Pick</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa633885(v=ax.60)">Inventory picking (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa633885(v=ax.60)">Inventory picking (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Pick</strong></p></td>
@@ -50,7 +51,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Registration</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa615731(v=ax.60)">Inventory registration (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa615731(v=ax.60)">Inventory registration (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Registration</strong></p></td>
@@ -99,7 +100,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

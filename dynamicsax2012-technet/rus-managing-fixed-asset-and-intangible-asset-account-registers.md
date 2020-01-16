@@ -2,8 +2,9 @@
 title: (RUS) Managing fixed asset and intangible asset account registers
 TOCTitle: (RUS) Managing fixed asset and intangible asset account registers
 ms:assetid: cb53c112-0890-483e-81e6-488872b1f23c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711619(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711619(v=AX.60)
 ms:contentKeyID: 49387943
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

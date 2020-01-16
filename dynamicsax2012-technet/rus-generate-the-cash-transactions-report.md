@@ -2,8 +2,9 @@
 title: (RUS) Generate the cash transactions report
 TOCTitle: (RUS) Generate the cash transactions report
 ms:assetid: 93c2ba65-28d5-40e4-b9fd-d6b3f59a1628
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678488(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678488(v=AX.60)
 ms:contentKeyID: 49387717
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ The cash transactions report displays a list of transactions for the specified c
 
 ## See also
 
-[(RUS) Cash accounts (form)](https://technet.microsoft.com/en-us/library/jj665230\(v=ax.60\))
+[(RUS) Cash accounts (form)](https://technet.microsoft.com/library/jj665230\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Set up an inventory profile
 TOCTitle: (RUS) Set up an inventory profile
 ms:assetid: 5e505fcb-0ddb-4364-9445-b7b5283b6cae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733235(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733235(v=AX.60)
 ms:contentKeyID: 49685198
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ A particular item may have various inventory profiles or various kinds of activi
 
 To use inventory profiles, you must set up the following information:
 
-  - An inventory profile. For more information, see [(RUS) Inventory profiles (form)](https://technet.microsoft.com/en-us/library/jj733188\(v=ax.60\)).
+  - An inventory profile. For more information, see [(RUS) Inventory profiles (form)](https://technet.microsoft.com/library/jj733188\(v=ax.60\)).
 
   - Inventory transaction combinations. For more information, see [(RUS) Activate inventory transaction combinations](rus-activate-inventory-transaction-combinations.md).
 
@@ -41,7 +42,7 @@ To use inventory profiles, you must set up the following information:
 
   - A dimension group for inventory dimensions.
 
-  - Inventory profiles, vendors, or customer posting profiles. For more information, see, [(RUS) Inventory profiles (form)](https://technet.microsoft.com/en-us/library/jj733188\(v=ax.60\)) and [(RUS) Customer posting profiles (modified form)](https://technet.microsoft.com/en-us/library/jj678641\(v=ax.60\)).
+  - Inventory profiles, vendors, or customer posting profiles. For more information, see, [(RUS) Inventory profiles (form)](https://technet.microsoft.com/library/jj733188\(v=ax.60\)) and [(RUS) Customer posting profiles (modified form)](https://technet.microsoft.com/library/jj678641\(v=ax.60\)).
 
   - Inventory profiles and kinds of activity, in the **Customers** form, **Vendors** form, **Purchase agreements** form, **Sales agreements** form, and **Warehouses** form. For more information, see [(RUS) Set up an inventory profile in the Customers form](rus-set-up-an-inventory-profile-in-the-customers-form.md), [(RUS) Set up an inventory profile in the Vendors form](rus-set-up-an-inventory-profile-in-the-vendors-form.md), and [(RUS) Set up an inventory profile in the Warehouses form](rus-set-up-an-inventory-profile-in-the-warehouses-form.md).
 
@@ -79,13 +80,13 @@ Use the **Inventory profiles** form to set up a new inventory profile.
 
 ## Setting up a dimension group for inventory
 
-You must set up a dimension group for the inventory profile. For more information, see [Product dimension groups (form)](https://technet.microsoft.com/en-us/library/hh227672\(v=ax.60\)), [Storage dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209317\(v=ax.60\)), and [Tracking dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209465\(v=ax.60\)).
+You must set up a dimension group for the inventory profile. For more information, see [Product dimension groups (form)](https://technet.microsoft.com/library/hh227672\(v=ax.60\)), [Storage dimension groups (form)](https://technet.microsoft.com/library/hh209317\(v=ax.60\)), and [Tracking dimension groups (form)](https://technet.microsoft.com/library/hh209465\(v=ax.60\)).
 
 ## See also
 
-[(RUS) Activate transaction combinations (modified form)](https://technet.microsoft.com/en-us/library/jj733228\(v=ax.60\))
+[(RUS) Activate transaction combinations (modified form)](https://technet.microsoft.com/library/jj733228\(v=ax.60\))
 
-[(RUS) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj853212\(v=ax.60\))
+[(RUS) Customers (modified form)](https://technet.microsoft.com/library/jj853212\(v=ax.60\))
 
 [(RUS) Set up a posting profile](rus-set-up-a-posting-profile.md)
 

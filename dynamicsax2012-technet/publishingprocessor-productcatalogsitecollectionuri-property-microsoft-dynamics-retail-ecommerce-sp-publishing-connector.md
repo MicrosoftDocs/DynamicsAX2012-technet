@@ -1,9 +1,10 @@
-﻿---
+---
 title: PublishingProcessor.ProductCatalogSiteCollectionUri Property  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: ProductCatalogSiteCollectionUri Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.PublishingProcessor.ProductCatalogSiteCollectionUri
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingprocessor.productcatalogsitecollectionuri(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingprocessor.productcatalogsitecollectionuri(v=AX.60)
 ms:contentKeyID: 65318094
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ property Uri^ ProductCatalogSiteCollectionUri {
 
 #### Property Value
 
-Type: [System.Uri](https://technet.microsoft.com/en-us/library/txt7706a\(v=ax.60\))  
+Type: [System.Uri](https://technet.microsoft.com/library/txt7706a\(v=ax.60\))  
 
 ## See Also
 

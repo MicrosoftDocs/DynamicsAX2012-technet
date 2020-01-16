@@ -2,8 +2,9 @@
 title: Reprint a free text invoice
 TOCTitle: Reprint a free text invoice
 ms:assetid: cf4b1408-a15e-481b-943a-ac3aea76e260
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213678(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213678(v=AX.60)
 ms:contentKeyID: 36059477
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ Use this procedure to print a free text invoice or sales invoice that has alread
 
 [About print management originals, copies, and settings](about-print-management-originals-copies-and-settings.md)
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
   
 

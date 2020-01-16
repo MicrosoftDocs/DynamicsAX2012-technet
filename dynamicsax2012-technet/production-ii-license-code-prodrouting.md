@@ -2,8 +2,9 @@
 title: Production II license code (ProdRouting)
 TOCTitle: Production II license code (ProdRouting)
 ms:assetid: 7ca1a684-2f50-42a5-9237-f903029101aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496423(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496423(v=AX.60)
 ms:contentKeyID: 37072000
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -56,7 +57,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

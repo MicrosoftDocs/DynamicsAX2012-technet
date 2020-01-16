@@ -2,8 +2,9 @@
 title: Project validation report (ProjValProject)
 TOCTitle: Project validation report (ProjValProject)
 ms:assetid: 3749bf6d-564c-4a89-9c39-d9af7bc5649f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa553466(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa553466(v=AX.60)
 ms:contentKeyID: 37831995
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

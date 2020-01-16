@@ -2,8 +2,9 @@
 title: (RUS) Setting up and maintaining Accounts payable
 TOCTitle: (RUS) Setting up and maintaining Accounts payable
 ms:assetid: afd90706-298a-4f55-8036-f80900b0fc26
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711525(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711525(v=AX.60)
 ms:contentKeyID: 49387850
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

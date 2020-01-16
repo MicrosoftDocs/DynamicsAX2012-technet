@@ -2,8 +2,9 @@
 title: Project execution overview
 TOCTitle: Project execution overview
 ms:assetid: 10bb4c07-0218-4590-9417-40ba5cb46850
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242138(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242138(v=AX.60)
 ms:contentKeyID: 36056029
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

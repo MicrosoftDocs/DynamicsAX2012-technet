@@ -2,8 +2,9 @@
 title: (RUS) Set up employee posting profiles for dimensions control for settlements
 TOCTitle: (RUS) Set up employee posting profiles for dimensions control for settlements
 ms:assetid: a1416fea-1f0a-4290-b97d-cdd569d9b5db
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678545(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678545(v=AX.60)
 ms:contentKeyID: 49387774
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ Use this procedure to set up employee posting profiles for dimension control for
 
 [(RUS) Set up customer posting profiles for dimensions control for settlements](rus-set-up-customer-posting-profiles-for-dimensions-control-for-settlements.md)
 
-[(RUS) Employee posting profiles (form)](https://technet.microsoft.com/en-us/library/jj733181\(v=ax.60\))
+[(RUS) Employee posting profiles (form)](https://technet.microsoft.com/library/jj733181\(v=ax.60\))
 
   
 

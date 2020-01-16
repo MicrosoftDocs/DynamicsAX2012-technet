@@ -2,8 +2,9 @@
 title: (RUS) Fixed asset acquisitions
 TOCTitle: (RUS) Fixed asset acquisitions
 ms:assetid: fea2d4e0-0342-47c2-b3ec-1278e0783185
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678656(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678656(v=AX.60)
 ms:contentKeyID: 49388138
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

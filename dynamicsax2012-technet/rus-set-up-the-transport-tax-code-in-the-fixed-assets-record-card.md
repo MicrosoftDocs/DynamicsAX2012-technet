@@ -2,8 +2,9 @@
 title: (RUS) Set up the transport tax code in the fixed assets record card
 TOCTitle: (RUS) Set up the transport tax code in the fixed assets record card
 ms:assetid: a8a33d29-7e2c-420c-a25e-4f8d5286ff65
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678580(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678580(v=AX.60)
 ms:contentKeyID: 49387808
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ You can specify the selection criteria for the transport tax in the **Assets** f
 
 ## See also
 
-[(RUS) Asset tax and transport tax filling in fixed asset table (form)](https://technet.microsoft.com/en-us/library/jj711467\(v=ax.60\))
+[(RUS) Asset tax and transport tax filling in fixed asset table (form)](https://technet.microsoft.com/library/jj711467\(v=ax.60\))
 
   
 

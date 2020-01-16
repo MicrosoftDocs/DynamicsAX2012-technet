@@ -2,8 +2,9 @@
 title: (RUS) Depreciate a fixed asset by using a fixed asset journal
 TOCTitle: (RUS) Depreciate a fixed asset by using a fixed asset journal
 ms:assetid: 399a6980-d47f-4525-802b-6fd100b2d4b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665293(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665293(v=AX.60)
 ms:contentKeyID: 49387382
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,9 +46,9 @@ After you put a fixed asset of the **Vehicle** or **Realty** type into operation
 
 [(RUS) Set up the depreciation starting date for vehicles and realty](rus-set-up-the-depreciation-starting-date-for-vehicles-and-realty.md)
 
-[(RUS) Depreciation groups (form)](https://technet.microsoft.com/en-us/library/jj678328\(v=ax.60\))
+[(RUS) Depreciation groups (form)](https://technet.microsoft.com/library/jj678328\(v=ax.60\))
 
-[(RUS) Journal voucher - Fixed assets (modified form)](https://technet.microsoft.com/en-us/library/jj852153\(v=ax.60\))
+[(RUS) Journal voucher - Fixed assets (modified form)](https://technet.microsoft.com/library/jj852153\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Budget control for advance reports
 TOCTitle: (RUS) Budget control for advance reports
 ms:assetid: 25a23f72-d4e3-47a4-a6d6-8d71df5ae172
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733189(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733189(v=AX.60)
 ms:contentKeyID: 49685157
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ Budget checking for advance reports makes sure that budget funds are available f
 
 ## See also
 
-[(RUS) Budget control configuration (modified form)](https://technet.microsoft.com/en-us/library/jj733403\(v=ax.60\))
+[(RUS) Budget control configuration (modified form)](https://technet.microsoft.com/library/jj733403\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailPublishingJobSettings Constructor  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: RetailPublishingJobSettings Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.RetailPublishingJobSettings.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjobsettings.retailpublishingjobsettings(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjobsettings.retailpublishingjobsettings(v=AX.60)
 ms:contentKeyID: 65317592
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

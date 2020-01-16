@@ -2,8 +2,9 @@
 title: (RUS) Register sick lists and calculate compensation
 TOCTitle: (RUS) Register sick lists and calculate compensation
 ms:assetid: 702b94d9-0f22-435b-a1de-f9ab5604c196
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn783346(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn783346(v=AX.60)
 ms:contentKeyID: 62836439
+author: Khairunj
 ms.date: 08/29/2014
 mtps_version: v=AX.60
 f1_keywords:

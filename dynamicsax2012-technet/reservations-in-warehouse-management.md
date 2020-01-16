@@ -2,8 +2,9 @@
 title: Reservations in Warehouse management
 TOCTitle: Reservations in Warehouse management
 ms:assetid: dd6d0bff-cbb3-4308-b555-76e241feac86
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn832047(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn832047(v=AX.60)
 ms:contentKeyID: 63146302
+author: Khairunj
 ms.date: 10/03/2014
 mtps_version: v=AX.60
 ---

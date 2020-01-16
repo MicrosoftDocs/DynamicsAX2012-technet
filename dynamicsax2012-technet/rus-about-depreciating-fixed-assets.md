@@ -2,8 +2,9 @@
 title: (RUS) About depreciating fixed assets
 TOCTitle: (RUS) About depreciating fixed assets
 ms:assetid: 42811470-b9c6-42de-8ab8-c7b8a9c2f7ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923410(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923410(v=AX.60)
 ms:contentKeyID: 52075369
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

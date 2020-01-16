@@ -2,8 +2,9 @@
 title: Review the progress for a functional area in RapidStart Services
 TOCTitle: Review the progress for a functional area in RapidStart Services
 ms:assetid: ad02fa13-b45c-4906-b84c-2c1239b7ee26
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn194006(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn194006(v=AX.60)
 ms:contentKeyID: 52348255
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

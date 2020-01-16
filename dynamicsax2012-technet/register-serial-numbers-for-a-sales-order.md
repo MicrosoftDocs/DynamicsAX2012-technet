@@ -2,8 +2,9 @@
 title: Register serial numbers for a sales order
 TOCTitle: Register serial numbers for a sales order
 ms:assetid: 282f5705-b1d3-43fd-a86a-58f030937448
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497734(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497734(v=AX.60)
 ms:contentKeyID: 62200046
+author: Khairunj
 ms.date: 01/08/2016
 mtps_version: v=AX.60
 f1_keywords:

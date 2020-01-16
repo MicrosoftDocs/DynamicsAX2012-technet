@@ -2,8 +2,9 @@
 title: (RUS) Print a recurring invoice
 TOCTitle: (RUS) Print a recurring invoice
 ms:assetid: 260017fe-14f1-4df0-b51b-7294ca0ee634
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733190(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733190(v=AX.60)
 ms:contentKeyID: 49685158
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -101,19 +102,19 @@ After recurring invoices have been posted, use the **Print customer invoice** fo
 
 ## See also
 
-[Post recurring invoices (form)](https://technet.microsoft.com/en-us/library/hh242255\(v=ax.60\))
+[Post recurring invoices (form)](https://technet.microsoft.com/library/hh242255\(v=ax.60\))
 
-[Customer recurring invoice totals (form)](https://technet.microsoft.com/en-us/library/hh209605\(v=ax.60\))
+[Customer recurring invoice totals (form)](https://technet.microsoft.com/library/hh209605\(v=ax.60\))
 
-[Generate recurring invoices (form)](https://technet.microsoft.com/en-us/library/hh227533\(v=ax.60\))
+[Generate recurring invoices (form)](https://technet.microsoft.com/library/hh227533\(v=ax.60\))
 
-[Recurring invoice lines (form)](https://technet.microsoft.com/en-us/library/hh242234\(v=ax.60\))
+[Recurring invoice lines (form)](https://technet.microsoft.com/library/hh242234\(v=ax.60\))
 
-[Accounting distribution templates (form)](https://technet.microsoft.com/en-us/library/hh209574\(v=ax.60\))
+[Accounting distribution templates (form)](https://technet.microsoft.com/library/hh209574\(v=ax.60\))
 
-[Customer invoice recurrence history (form)](https://technet.microsoft.com/en-us/library/hh209441\(v=ax.60\))
+[Customer invoice recurrence history (form)](https://technet.microsoft.com/library/hh209441\(v=ax.60\))
 
-[Customer recurring invoice (form)](https://technet.microsoft.com/en-us/library/hh209471\(v=ax.60\))
+[Customer recurring invoice (form)](https://technet.microsoft.com/library/hh209471\(v=ax.60\))
 
   
 

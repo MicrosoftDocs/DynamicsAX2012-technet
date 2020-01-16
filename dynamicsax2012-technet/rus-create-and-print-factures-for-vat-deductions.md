@@ -2,8 +2,9 @@
 title: (RUS) Create and print factures for VAT deductions
 TOCTitle: (RUS) Create and print factures for VAT deductions
 ms:assetid: 65b9653a-3607-4636-b369-c37a4d4d2dae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665460(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665460(v=AX.60)
 ms:contentKeyID: 49387547
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -73,9 +74,9 @@ The facture report displays the number and date of the payment order, the base a
 
 [(RUS) Create a payment proposal for a tax agent invoice](rus-create-a-payment-proposal-for-a-tax-agent-invoice.md)
 
-[(RUS) Update facture (form)](https://technet.microsoft.com/en-us/library/jj889412\(v=ax.60\))
+[(RUS) Update facture (form)](https://technet.microsoft.com/library/jj889412\(v=ax.60\))
 
-[(RUS) Facture journal (form)](https://technet.microsoft.com/en-us/library/jj923567\(v=ax.60\))
+[(RUS) Facture journal (form)](https://technet.microsoft.com/library/jj923567\(v=ax.60\))
 
   
 

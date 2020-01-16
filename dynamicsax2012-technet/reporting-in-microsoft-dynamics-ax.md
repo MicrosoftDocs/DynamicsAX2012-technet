@@ -2,8 +2,9 @@
 title: Reporting in Microsoft Dynamics AX
 TOCTitle: Reporting
 ms:assetid: 6728b08f-6618-4719-a333-ec7f5bec25c2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee873263(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee873263(v=AX.60)
 ms:contentKeyID: 28119371
+author: Khairunj
 ms.date: 12/16/2015
 mtps_version: v=AX.60
 ---

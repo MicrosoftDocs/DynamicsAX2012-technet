@@ -2,8 +2,9 @@
 title: Russia
 TOCTitle: Russia
 ms:assetid: ca697f1a-8353-45ad-940f-32864e41e24b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711598(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711598(v=AX.60)
 ms:contentKeyID: 49387922
+author: Khairunj
 ms.date: 03/22/2017
 mtps_version: v=AX.60
 audience: Application User

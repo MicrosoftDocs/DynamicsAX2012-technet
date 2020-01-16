@@ -2,8 +2,9 @@
 title: (RUS) Taxation, contributions, and compensation reports
 TOCTitle: (RUS) Taxation, contributions, and compensation reports
 ms:assetid: ffed75d9-8b43-4832-8f7e-def201e74d43
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn452013(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn452013(v=AX.60)
 ms:contentKeyID: 56713181
+author: Khairunj
 ms.date: 06/09/2014
 mtps_version: v=AX.60
 f1_keywords:

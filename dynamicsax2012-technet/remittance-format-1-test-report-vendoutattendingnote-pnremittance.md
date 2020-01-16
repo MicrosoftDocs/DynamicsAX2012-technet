@@ -2,8 +2,9 @@
 title: Remittance format 1 (test) report (VendOutAttendingNote_PNRemittance)
 TOCTitle: Remittance format 1 (test) report (VendOutAttendingNote_PNRemittance)
 ms:assetid: ef21af79-51af-49d6-bae8-22782c0339fc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527788(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527788(v=AX.60)
 ms:contentKeyID: 37832041
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

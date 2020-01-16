@@ -2,8 +2,9 @@
 title: Register time and attendance
 TOCTitle: Register time and attendance
 ms:assetid: 128bec3a-7712-4763-92f1-8c9ba0eac578
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496585(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496585(v=AX.60)
 ms:contentKeyID: 39519051
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

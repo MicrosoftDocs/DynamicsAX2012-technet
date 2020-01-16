@@ -2,8 +2,9 @@
 title: (RUS) Export an electronic reporting document
 TOCTitle: (RUS) Export an electronic reporting document
 ms:assetid: 907fde6c-61be-4da4-a461-4536c92b3497
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677609(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677609(v=AX.60)
 ms:contentKeyID: 49384918
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ You must export a reporting document to create a text file to submit to the tax 
 
 ## See also
 
-[(RUS) Documents (form)](https://technet.microsoft.com/en-us/library/jj852139\(v=ax.60\))
+[(RUS) Documents (form)](https://technet.microsoft.com/library/jj852139\(v=ax.60\))
 
   
 

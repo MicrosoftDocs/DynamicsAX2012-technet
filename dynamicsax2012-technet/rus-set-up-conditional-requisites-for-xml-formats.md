@@ -2,8 +2,9 @@
 title: (RUS) Set up conditional requisites for XML formats
 TOCTitle: (RUS) Set up conditional requisites for XML formats
 ms:assetid: f03bb80f-4df4-41a3-b85c-74f071aae9c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710645(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710645(v=AX.60)
 ms:contentKeyID: 49385043
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,11 +60,11 @@ Use the following procedure to set up two conditional requisites that have the s
 
 [(RUS) Set up templates for electronic reporting](rus-set-up-templates-for-electronic-reporting.md)
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
-[(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
+[(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\))
 
-[(RUS) Format of requisites (form)](https://technet.microsoft.com/en-us/library/jj710737\(v=ax.60\))
+[(RUS) Format of requisites (form)](https://technet.microsoft.com/library/jj710737\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) About the electronic exchange format for client bank payments
 TOCTitle: (RUS) About the electronic exchange format for client bank payments
 ms:assetid: 53d82898-fe3b-488f-8462-3aa7895b904b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665392(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665392(v=AX.60)
 ms:contentKeyID: 49387480
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,13 +28,13 @@ Use the electronic exchange formats for client bank payments to complete the fol
 
 Before you create a client bank payment transaction, complete the following tasks:
 
-  - Set up a bank account for your company. For more information, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)).
+  - Set up a bank account for your company. For more information, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)).
 
-  - Set up currency and exchange rates. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\)).
+  - Set up currency and exchange rates. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\)).
 
-  - Set up the terms of payment for a payment transaction. For more information, see [Terms of payment (form)](https://technet.microsoft.com/en-us/library/aa588427\(v=ax.60\)).
+  - Set up the terms of payment for a payment transaction. For more information, see [Terms of payment (form)](https://technet.microsoft.com/library/aa588427\(v=ax.60\)).
 
-  - Set up journal names for payment journals and journal names for a general journal. For more information, see [Set up journal names](set-up-journal-names.md) and [Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\)).
+  - Set up journal names for payment journals and journal names for a general journal. For more information, see [Set up journal names](set-up-journal-names.md) and [Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\)).
 
 ## See also
 

@@ -2,8 +2,9 @@
 title: Purchasing agent - Public Sector security role (VendPurchasingAgent_PSN)
 TOCTitle: Purchasing agent - Public Sector security role (VendPurchasingAgent_PSN)
 ms:assetid: 15108371-3071-48fb-8002-92b4c9f1c5e0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ900461(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ900461(v=AX.60)
 ms:contentKeyID: 50557236
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (RUS) Create a tax register journal
 TOCTitle: (RUS) Create a tax register journal
 ms:assetid: 0767b13a-a74d-46b0-b335-84e22d1361d4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711368(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711368(v=AX.60)
 ms:contentKeyID: 49387186
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,9 +70,9 @@ The tax registers that must be presented for a reporting period are consolidated
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
   
 

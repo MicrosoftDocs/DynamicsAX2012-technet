@@ -2,8 +2,9 @@
 title: Reset shelf advice dates for an inventory batch
 TOCTitle: Reset shelf advice dates for an inventory batch
 ms:assetid: 9c173694-930c-498e-87fc-409505d87f10
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352308(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352308(v=AX.60)
 ms:contentKeyID: 36687937
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ Use this procedure to reset the shelf advice date for a single inventory batch o
 
 ## See also
 
-[Shelf advice (form)](https://technet.microsoft.com/en-us/library/hh227613\(v=ax.60\))
+[Shelf advice (form)](https://technet.microsoft.com/library/hh227613\(v=ax.60\))
 
   
 

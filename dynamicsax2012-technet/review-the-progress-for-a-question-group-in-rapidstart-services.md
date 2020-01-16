@@ -2,8 +2,9 @@
 title: Review the progress for a question group in RapidStart Services
 TOCTitle: Review the progress for a question group in RapidStart Services
 ms:assetid: 0b821976-d87b-4d41-b39f-a9e4d7ac97b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn193984(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn193984(v=AX.60)
 ms:contentKeyID: 52348239
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

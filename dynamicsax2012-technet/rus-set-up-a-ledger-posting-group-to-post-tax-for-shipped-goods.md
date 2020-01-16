@@ -2,8 +2,9 @@
 title: (RUS) Set up a ledger posting group to post tax for shipped goods
 TOCTitle: (RUS) Set up a ledger posting group to post tax for shipped goods
 ms:assetid: 9d41ebfb-f50b-469a-a1b4-93bcda178402
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853210(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853210(v=AX.60)
 ms:contentKeyID: 50396491
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,9 +28,9 @@ Use the **Ledger posting groups** form to set up a ledger posting group, so that
 
 ## See also
 
-[(RUS) Account group - Ledger posting groups (modified form)](https://technet.microsoft.com/en-us/library/jj711501\(v=ax.60\))
+[(RUS) Account group - Ledger posting groups (modified form)](https://technet.microsoft.com/library/jj711501\(v=ax.60\))
 
-[Ledger posting groups (form)](https://technet.microsoft.com/en-us/library/aa598801\(v=ax.60\))
+[Ledger posting groups (form)](https://technet.microsoft.com/library/aa598801\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Copy template requisites
 TOCTitle: (RUS) Copy template requisites
 ms:assetid: c20c80b7-a138-4e90-a625-58d93776b42a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677687(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677687(v=AX.60)
 ms:contentKeyID: 49384989
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,7 +39,7 @@ Use the **Copy from template** form to copy document template settings from an e
 
 ## See also
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
 [(RUS) Set up templates for electronic reporting](rus-set-up-templates-for-electronic-reporting.md)
 

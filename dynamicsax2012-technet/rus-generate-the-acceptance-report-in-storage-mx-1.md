@@ -2,8 +2,9 @@
 title: (RUS) Generate the Acceptance report in storage (MX-1)
 TOCTitle: (RUS) Generate the Acceptance report in storage (MX-1)
 ms:assetid: ed72a9bc-d15e-4a89-aea1-f88d1b79b79c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856186(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856186(v=AX.60)
 ms:contentKeyID: 50407025
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,9 +44,9 @@ Use the **Vendor invoice** form to generate the **Acceptance report in storage (
 
 ## See also
 
-[(RUS) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj733294\(v=ax.60\))
+[(RUS) Purchase orders (modified form)](https://technet.microsoft.com/library/jj733294\(v=ax.60\))
 
-[(RUS) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj733265\(v=ax.60\))
+[(RUS) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj733265\(v=ax.60\))
 
   
 

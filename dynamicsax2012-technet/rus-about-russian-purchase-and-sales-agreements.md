@@ -2,8 +2,9 @@
 title: (RUS) About Russian purchase and sales agreements
 TOCTitle: (RUS) About Russian purchase and sales agreements
 ms:assetid: f7ef5022-76df-47e9-b257-d0b7bb6c4738
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853241(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853241(v=AX.60)
 ms:contentKeyID: 50396521
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,7 +43,7 @@ Purchase agreements and sales agreements are modeled as agreement documents that
 
 [(RUS) Set up purchase and sales agreement classifications](rus-set-up-purchase-and-sales-agreement-classifications.md)
 
-[(RUS) Financial dimension values (modified form)](https://technet.microsoft.com/en-us/library/jj853203\(v=ax.60\))
+[(RUS) Financial dimension values (modified form)](https://technet.microsoft.com/library/jj853203\(v=ax.60\))
 
   
 

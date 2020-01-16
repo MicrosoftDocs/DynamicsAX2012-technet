@@ -2,8 +2,9 @@
 title: Receive and enter vendor invoices
 TOCTitle: Receive and enter vendor invoices
 ms:assetid: 6843c86c-a211-487c-b4ed-24241aafcb12
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231569(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231569(v=AX.60)
 ms:contentKeyID: 36057954
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

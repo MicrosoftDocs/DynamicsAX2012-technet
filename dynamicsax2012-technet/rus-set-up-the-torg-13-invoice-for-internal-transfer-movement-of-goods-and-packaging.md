@@ -2,8 +2,9 @@
 title: (RUS) Set up the TORG-13 invoice for internal transfer, movement of goods, and packaging
 TOCTitle: (RUS) Set up the TORG-13 invoice for internal transfer, movement of goods, and packaging
 ms:assetid: 8a764812-a899-4d38-ac43-cc7fe335462a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678454(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678454(v=AX.60)
 ms:contentKeyID: 49387683
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

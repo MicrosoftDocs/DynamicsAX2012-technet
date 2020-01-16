@@ -2,8 +2,9 @@
 title: Report Upgrade
 TOCTitle: Report Upgrade
 ms:assetid: cb41746e-3995-42df-bf51-b78edf71a71b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg724122(v=AX.60)
 ms:contentKeyID: 35133481
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

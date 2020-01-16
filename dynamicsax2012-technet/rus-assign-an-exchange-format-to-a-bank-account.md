@@ -2,8 +2,9 @@
 title: (RUS) Assign an exchange format to a bank account
 TOCTitle: (RUS) Assign an exchange format to a bank account
 ms:assetid: ce417e03-1615-4a42-b00b-3894cb530f29
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711633(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711633(v=AX.60)
 ms:contentKeyID: 49387957
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ Use this procedure to assign an exchange format for a client bank to a bank acco
 
 ## See also
 
-[(RUS) Exchange formats for settlement account (form)](https://technet.microsoft.com/en-us/library/jj733282\(v=ax.60\))
+[(RUS) Exchange formats for settlement account (form)](https://technet.microsoft.com/library/jj733282\(v=ax.60\))
 
 [(RUS) Create a document type code to export or import payments](rus-create-a-document-type-code-to-export-or-import-payments.md)
 

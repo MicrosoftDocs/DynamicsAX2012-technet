@@ -2,8 +2,9 @@
 title: (RUS) Set up parameters to create corrective and revised factures
 TOCTitle: (RUS) Set up parameters to create corrective and revised factures
 ms:assetid: dda1a7d4-a86e-486e-b108-6ac33a588faa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923599(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923599(v=AX.60)
 ms:contentKeyID: 52075446
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -95,13 +96,13 @@ Use the following procedures to set up parameters to create corrective and revis
 
 ## See also
 
-[(RUS) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923609\(v=ax.60\))
+[(RUS) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj923609\(v=ax.60\))
 
-[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733289\(v=ax.60\))
+[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj733289\(v=ax.60\))
 
-[(RUS) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923603\(v=ax.60\))
+[(RUS) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj923603\(v=ax.60\))
 
-[(RUS) Vendors (modified form)](https://technet.microsoft.com/en-us/library/dn126122\(v=ax.60\))
+[(RUS) Vendors (modified form)](https://technet.microsoft.com/library/dn126122\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequestContextExtensions.ConvertDateTimeToChannelDate Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: ConvertDateTimeToChannelDate Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.RequestContextExtensions.ConvertDateTimeToChannelDate(Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.DateTimeOffset)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.requestcontextextensions.convertdatetimetochanneldate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.requestcontextextensions.convertdatetimetochanneldate(v=AX.60)
 ms:contentKeyID: 65316354
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # ConvertDateTimeToChannelDate Method
 
-Gets a [DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\)) object that is set to the current date and time on the current computer, with the offset set to the channel time's offset from Coordinated Universal Time (UTC).
+Gets a [DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\)) object that is set to the current date and time on the current computer, with the offset set to the channel time's offset from Coordinated Universal Time (UTC).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
@@ -62,12 +63,12 @@ static DateTimeOffset ConvertDateTimeToChannelDate(
 <!-- end list -->
 
   - dateTimeOffset  
-    Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
+    Type: [System.DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
-Instance of [DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\)) representing current date and time in channel time zone.  
+Type: [System.DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))  
+Instance of [DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\)) representing current date and time in channel time zone.  
 
 #### Usage Note
 

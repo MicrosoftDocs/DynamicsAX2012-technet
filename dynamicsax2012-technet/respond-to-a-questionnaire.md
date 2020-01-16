@@ -2,8 +2,9 @@
 title: Respond to a questionnaire
 TOCTitle: Respond to a questionnaire
 ms:assetid: 982cd695-84d7-404f-bdb4-27e6a79e8e97
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271605(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271605(v=AX.60)
 ms:contentKeyID: 36384237
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

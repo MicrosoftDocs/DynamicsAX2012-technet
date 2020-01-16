@@ -2,8 +2,9 @@
 title: (RUS) Update a facture for a free text invoice
 TOCTitle: (RUS) Update a facture for a free text invoice
 ms:assetid: 9be24563-54ba-4915-8836-bd35cd5223d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678531(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678531(v=AX.60)
 ms:contentKeyID: 49387761
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -81,7 +82,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Facture journal (form)](https://technet.microsoft.com/en-us/library/jj923567\(v=ax.60\))
+[(RUS) Facture journal (form)](https://technet.microsoft.com/library/jj923567\(v=ax.60\))
 
   
 

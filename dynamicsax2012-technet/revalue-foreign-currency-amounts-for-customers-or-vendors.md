@@ -2,8 +2,9 @@
 title: Revalue foreign currency amounts for customers or vendors
 TOCTitle: Revalue foreign currency amounts for customers or vendors
 ms:assetid: 580d037b-650b-4c5f-84f6-a6193cc907bd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549065(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549065(v=AX.60)
 ms:contentKeyID: 36057338
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,13 +64,13 @@ Before you revalue foreign currency amounts, you must set up profit and loss led
 
 [Finish the currency conversion](finish-the-currency-conversion.md)
 
-[Customer foreign currency revaluation (form)](https://technet.microsoft.com/en-us/library/aa586009\(v=ax.60\))
+[Customer foreign currency revaluation (form)](https://technet.microsoft.com/library/aa586009\(v=ax.60\))
 
-[Customer foreign currency revaluation periodic job (class form)](https://technet.microsoft.com/en-us/library/aa574761\(v=ax.60\))
+[Customer foreign currency revaluation periodic job (class form)](https://technet.microsoft.com/library/aa574761\(v=ax.60\))
 
-[Vendor foreign currency revaluation (form)](https://technet.microsoft.com/en-us/library/aa500833\(v=ax.60\))
+[Vendor foreign currency revaluation (form)](https://technet.microsoft.com/library/aa500833\(v=ax.60\))
 
-[Vendor foreign currency revaluation periodic job (class form)](https://technet.microsoft.com/en-us/library/aa554435\(v=ax.60\))
+[Vendor foreign currency revaluation periodic job (class form)](https://technet.microsoft.com/library/aa554435\(v=ax.60\))
 
   
 

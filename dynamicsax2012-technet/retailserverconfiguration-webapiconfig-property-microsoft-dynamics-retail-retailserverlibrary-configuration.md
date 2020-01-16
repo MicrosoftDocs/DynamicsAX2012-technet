@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailServerConfiguration.WebApiConfig Property  (Microsoft.Dynamics.Retail.RetailServerLibrary.Configuration)
 TOCTitle: WebApiConfig Property
 ms:assetid: P:Microsoft.Dynamics.Retail.RetailServerLibrary.Configuration.RetailServerConfiguration.WebApiConfig
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.configuration.retailserverconfiguration.webapiconfig(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.configuration.retailserverconfiguration.webapiconfig(v=AX.60)
 ms:contentKeyID: 62203064
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

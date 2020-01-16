@@ -2,8 +2,9 @@
 title: (RUS) Settle tax liabilities
 TOCTitle: (RUS) Settle tax liabilities
 ms:assetid: d7c6cf1a-f3df-44e8-93e1-66e03a47e458
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn771649(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn771649(v=AX.60)
 ms:contentKeyID: 62553201
+author: Khairunj
 ms.date: 07/11/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,7 +62,7 @@ The following table shows the prerequisites that must be in place before you sta
 <li><p>Set up a branch to identify groups of departments as individual taxpayers. Make sure that the tax registration number and type for the vendor and the branch of the legal entity is the same. Create departments and assign them to a branch or to the legal entity. For more information, see <a href="rus-configure-organizational-information.md">(RUS) Configure organizational information</a>.</p></li>
 <li><p>Set up payments, journals, and deductions for the payroll process. For more information, see <a href="rus-set-up-payments-journals-and-deductions-for-the-payroll-process.md">(RUS) Set up payments, journals, and deductions for the payroll process</a>.</p></li>
 <li><p>Create payroll journals, calculate average earnings, calculate salaries, calculate funds, and create a salary journal. For more information, see <a href="rus-generate-pay-statements.md">(RUS) Generate pay statements</a>.</p></li>
-<li><p>Verify payroll calculation results, create and pay salary pay sheets, close the current payroll period, and generate a payment for the tax authority in the <strong>Payment journals</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa599011(v=ax.60)">Journal voucher - Vendor payment journal (form)</a>.</p></li>
+<li><p>Verify payroll calculation results, create and pay salary pay sheets, close the current payroll period, and generate a payment for the tax authority in the <strong>Payment journals</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa599011(v=ax.60)">Journal voucher - Vendor payment journal (form)</a>.</p></li>
 <li><p>Verify that the calculation period for which the tax settlement is to be done is a closed payroll period in the <strong>Payroll parameters</strong> form. For more information, see <a href="rus-set-up-parameters-for-the-payroll-process.md">(RUS) Set up parameters for the payroll process</a>.</p></li>
 </ul></td>
 </tr>

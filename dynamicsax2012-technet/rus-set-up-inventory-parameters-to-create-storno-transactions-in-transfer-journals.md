@@ -2,8 +2,9 @@
 title: (RUS) Set up inventory parameters to create storno transactions in transfer journals
 TOCTitle: (RUS) Set up inventory parameters to create storno transactions in transfer journals
 ms:assetid: 7b8fc675-3c13-4608-b439-715603c6237f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678388(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678388(v=AX.60)
 ms:contentKeyID: 49387617
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

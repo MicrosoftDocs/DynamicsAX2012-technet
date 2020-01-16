@@ -2,8 +2,9 @@
 title: (RUS) Return working clothes or special rigging to the warehouse
 TOCTitle: (RUS) Return working clothes or special rigging to the warehouse
 ms:assetid: ce2d7273-c8be-4163-9d46-19726e9bd335
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923593(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923593(v=AX.60)
 ms:contentKeyID: 52075437
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,9 +64,9 @@ Use this procedure to return a working clothes item or special rigging item to a
 
 ## See also
 
-[(RUS) Special rigging (form)](https://technet.microsoft.com/en-us/library/jj923264\(v=ax.60\))
+[(RUS) Special rigging (form)](https://technet.microsoft.com/library/jj923264\(v=ax.60\))
 
-[(RUS) Working clothes (form)](https://technet.microsoft.com/en-us/library/jj923545\(v=ax.60\))
+[(RUS) Working clothes (form)](https://technet.microsoft.com/library/jj923545\(v=ax.60\))
 
   
 

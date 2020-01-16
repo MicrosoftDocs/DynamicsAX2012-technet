@@ -2,8 +2,9 @@
 title: (RUS) Calculate the standard expenses rate for the current period register
 TOCTitle: (RUS) Calculate the standard expenses rate for the current period register
 ms:assetid: a70588e0-896e-4a15-b871-3d0c9148a190
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678571(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678571(v=AX.60)
 ms:contentKeyID: 49387799
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,17 +62,17 @@ You must set up the **Standard expenses rate for current period** register in th
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
-[(RUS) Register lines (form)](https://technet.microsoft.com/en-us/library/jj943751\(v=ax.60\))
+[(RUS) Register lines (form)](https://technet.microsoft.com/library/jj943751\(v=ax.60\))
 
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
 [(RUS) Recalculate registers](rus-recalculate-registers.md)
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
   
 

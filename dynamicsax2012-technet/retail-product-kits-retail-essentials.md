@@ -2,8 +2,9 @@
 title: Retail product kits (Retail essentials)
 TOCTitle: Retail product kits (Retail essentials)
 ms:assetid: b505380a-d8a3-4777-85a3-9f07adb24b88
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859567(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859567(v=AX.60)
 ms:contentKeyID: 63820141
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

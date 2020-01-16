@@ -2,8 +2,9 @@
 title: (RUS) Register working clothes manually
 TOCTitle: (RUS) Register working clothes manually
 ms:assetid: a9e81e3b-d709-40da-9dde-60419de66ef5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923576(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923576(v=AX.60)
 ms:contentKeyID: 52075422
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,7 +47,7 @@ Use this procedure to manually register and manage working clothes.
 
 ## See also
 
-[(RUS) Working clothes (form)](https://technet.microsoft.com/en-us/library/jj923545\(v=ax.60\))
+[(RUS) Working clothes (form)](https://technet.microsoft.com/library/jj923545\(v=ax.60\))
 
   
 

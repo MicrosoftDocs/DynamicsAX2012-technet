@@ -2,8 +2,9 @@
 title: Register and post a replacement postdated check from a customer
 TOCTitle: Register and post a replacement postdated check from a customer
 ms:assetid: 20f182b8-3fb4-47a9-96b3-3b4bc7e3ae5c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208470(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208470(v=AX.60)
 ms:contentKeyID: 36056161
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ You must reverse the check transaction if the status of the original check is **
 
 7.  In the **Payment specification** field, select the payment specification.
 
-8.  Click the **Postdated checks** tab. This tab is available only if you select the **Enable postdated checks** check box in the **General ledger parameters** form. For more information, see [General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\)).
+8.  Click the **Postdated checks** tab. This tab is available only if you select the **Enable postdated checks** check box in the **General ledger parameters** form. For more information, see [General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\)).
 
 9.  In the **Maturity date** field, enter the date when the replacement check is due for payment, in MM/DD/YYYY format.
 
@@ -75,7 +76,7 @@ You can view the posted postdated checks in the **Customer postdated checks** fo
 
 [Settle a postdated check from a customer](settle-a-postdated-check-from-a-customer.md)
 
-[Customer postdated checks (form)](https://technet.microsoft.com/en-us/library/hh227493\(v=ax.60\))
+[Customer postdated checks (form)](https://technet.microsoft.com/library/hh227493\(v=ax.60\))
 
   
 

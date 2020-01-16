@@ -2,8 +2,9 @@
 title: (RUS) Set up exchange rates for a currency transaction
 TOCTitle: (RUS) Set up exchange rates for a currency transaction
 ms:assetid: cabeed29-c429-4d52-91af-1ec69198f5d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856181(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856181(v=AX.60)
 ms:contentKeyID: 50407020
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Russia
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the **Currency revaluation accounts** form to set up the loss or gain calculation for currency exchange. For more information, see [(RUS) Currency revaluation accounts (modified form)](https://technet.microsoft.com/en-us/library/jj852149\(v=ax.60\)).
+Use the **Currency revaluation accounts** form to set up the loss or gain calculation for currency exchange. For more information, see [(RUS) Currency revaluation accounts (modified form)](https://technet.microsoft.com/library/jj852149\(v=ax.60\)).
 
 1.  Click **General ledger** \> **Setup** \> **Currency** \> **Currency parameters**.
 

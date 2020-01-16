@@ -1,9 +1,10 @@
-﻿---
+---
 title: Publisher.StorePublishedIds Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing)
 TOCTitle: StorePublishedIds Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.Publisher.StorePublishedIds(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.ListingIdentity})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.publisher.storepublishedids(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.publisher.storepublishedids(v=AX.60)
 ms:contentKeyID: 65317394
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ void StorePublishedIds(
 #### Parameters
 
   - ids  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[ListingIdentity](listingidentity-class-microsoft-dynamics-retail-ecommerce-sdk-core-publishing.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[ListingIdentity](listingidentity-class-microsoft-dynamics-retail-ecommerce-sdk-core-publishing.md)\>  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: Reconciliation report (BankReconciliationSummary)
 TOCTitle: Reconciliation report (BankReconciliationSummary)
 ms:assetid: d5b2e6f1-1cf2-42b4-b6f3-9565b4186f56
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh556872(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh556872(v=AX.60)
 ms:contentKeyID: 39509607
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

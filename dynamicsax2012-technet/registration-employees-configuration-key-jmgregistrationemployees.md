@@ -2,8 +2,9 @@
 title: Registration employees configuration key (JmgRegistrationEmployees)
 TOCTitle: Registration employees configuration key (JmgRegistrationEmployees)
 ms:assetid: 8a5b072d-5cbd-48a9-bd72-a0b93dd83552
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh456315(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh456315(v=AX.60)
 ms:contentKeyID: 36997760
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,7 +38,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Configure registration forms</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616991(v=ax.60)">Configure registration forms (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616991(v=ax.60)">Configure registration forms (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Jobs in process</strong></p></td>
@@ -63,27 +64,27 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Assistant</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa554833(v=ax.60)">Job registration - resource (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa554833(v=ax.60)">Job registration - resource (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Clock</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa554833(v=ax.60)">Job registration - resource (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa554833(v=ax.60)">Job registration - resource (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Handle messages</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589598(v=ax.60)">Handle messages (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589598(v=ax.60)">Handle messages (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Raw registrations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa588780(v=ax.60)">Raw registrations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa588780(v=ax.60)">Raw registrations (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Statistical balance setup</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa550417(v=ax.60)">Statistical balance setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa550417(v=ax.60)">Statistical balance setup (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Terminals</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585567(v=ax.60)">Terminals (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585567(v=ax.60)">Terminals (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -121,7 +122,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

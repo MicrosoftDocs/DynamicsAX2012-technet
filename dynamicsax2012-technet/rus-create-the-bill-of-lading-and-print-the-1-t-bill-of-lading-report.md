@@ -2,8 +2,9 @@
 title: (RUS) Create the bill of lading and print the 1-T bill of lading report
 TOCTitle: (RUS) Create the bill of lading and print the 1-T bill of lading report
 ms:assetid: ca3c2811-8964-4c09-b33c-03d68ee71bdb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711611(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711611(v=AX.60)
 ms:contentKeyID: 49387935
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,15 +63,15 @@ You can generate the 1-T bill of lading report from a sales order along with a T
 
 17. In the **Type** field, select the type of transport.
 
-18. Click **OK** to generate the 1-T bill of lading (facture) report. For more information, see [Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\)).
+18. Click **OK** to generate the 1-T bill of lading (facture) report. For more information, see [Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\)).
 
 ## See also
 
-[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733289\(v=ax.60\))
+[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj733289\(v=ax.60\))
 
-[(RUS) Bill of lading (modified form)](https://technet.microsoft.com/en-us/library/jj711563\(v=ax.60\))
+[(RUS) Bill of lading (modified form)](https://technet.microsoft.com/library/jj711563\(v=ax.60\))
 
-[(RUS) Customer invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj711658\(v=ax.60\))
+[(RUS) Customer invoice journal (modified form)](https://technet.microsoft.com/library/jj711658\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Sales cube (SalesCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Sales cube (SalesCube)
 ms:assetid: a213238a-108a-4818-ae79-86884d446ccb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710394(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710394(v=AX.60)
 ms:contentKeyID: 49384286
+author: Khairunj
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

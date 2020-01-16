@@ -2,8 +2,9 @@
 title: Row structure where-used report (LedgerRowStructureWhereUsed)
 TOCTitle: Row structure where-used report (LedgerRowStructureWhereUsed)
 ms:assetid: 6ec8becc-dae9-4148-b522-bc588647bbdd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh801190(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh801190(v=AX.60)
 ms:contentKeyID: 43976709
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

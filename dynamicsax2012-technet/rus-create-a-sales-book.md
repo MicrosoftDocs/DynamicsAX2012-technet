@@ -2,8 +2,9 @@
 title: (RUS) Create a sales book
 TOCTitle: (RUS) Create a sales book
 ms:assetid: 2ec1b8bf-2e8d-4002-89d6-71574192bf8b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665245(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665245(v=AX.60)
 ms:contentKeyID: 49387334
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

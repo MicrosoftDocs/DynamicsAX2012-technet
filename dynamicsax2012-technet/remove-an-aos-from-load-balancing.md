@@ -2,8 +2,9 @@
 title: Remove an AOS from load balancing
 TOCTitle: Remove an AOS from load balancing
 ms:assetid: 3adb9485-096a-4a05-bbfc-2602e37f7aeb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309645(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309645(v=AX.60)
 ms:contentKeyID: 36941288
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

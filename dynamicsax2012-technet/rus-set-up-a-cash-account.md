@@ -2,8 +2,9 @@
 title: (RUS) Set up a cash account
 TOCTitle: (RUS) Set up a cash account
 ms:assetid: 77d50c40-fc1c-4cd0-b4c0-2852bffcf13d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678373(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678373(v=AX.60)
 ms:contentKeyID: 49387604
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -75,9 +76,9 @@ As a rule, the cash account corresponds with the company's cash office. General 
 
 ## See also
 
-[(RUS) Balance limit (form)](https://technet.microsoft.com/en-us/library/jj711356\(v=ax.60\))
+[(RUS) Balance limit (form)](https://technet.microsoft.com/library/jj711356\(v=ax.60\))
 
-[(RUS) Cash accounts (form)](https://technet.microsoft.com/en-us/library/jj665230\(v=ax.60\))
+[(RUS) Cash accounts (form)](https://technet.microsoft.com/library/jj665230\(v=ax.60\))
 
   
 

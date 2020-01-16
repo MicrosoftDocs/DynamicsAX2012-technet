@@ -2,8 +2,9 @@
 title: (RUS) Cash flow registers
 TOCTitle: (RUS) Cash flow registers
 ms:assetid: de688b1d-de89-45bc-833d-c3a5248c62d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711692(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711692(v=AX.60)
 ms:contentKeyID: 49388015
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

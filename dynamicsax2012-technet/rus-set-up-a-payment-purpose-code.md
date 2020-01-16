@@ -2,8 +2,9 @@
 title: (RUS) Set up a payment purpose code
 TOCTitle: (RUS) Set up a payment purpose code
 ms:assetid: 91e69c90-f3d6-43d1-b179-52e6ad48df4a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678480(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678480(v=AX.60)
 ms:contentKeyID: 49387709
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

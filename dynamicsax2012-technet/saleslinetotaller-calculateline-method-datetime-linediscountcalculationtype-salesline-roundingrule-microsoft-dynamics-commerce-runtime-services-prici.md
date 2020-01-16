@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesLineTotaller.CalculateLine Method (DateTime, LineDiscountCalculationType, SalesLine, RoundingRule) (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine)
 TOCTitle: CalculateLine Method (DateTime, LineDiscountCalculationType, SalesLine, RoundingRule)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.SalesLineTotaller.CalculateLine(System.DateTime,Microsoft.Dynamics.Commerce.Runtime.DataModel.LineDiscountCalculationType,Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesLine,Microsoft.Dynamics.Commerce.Runtime.DataModel.RoundingRule)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.saleslinetotaller.calculateline(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.saleslinetotaller.calculateline(v=AX.60)
 ms:contentKeyID: 65323002
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -60,7 +61,7 @@ static void CalculateLine(
 #### Parameters
 
   - transactionBeginDateTime  
-    Type: [System.DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\))  
+    Type: [System.DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\))  
 
 <!-- end list -->
 

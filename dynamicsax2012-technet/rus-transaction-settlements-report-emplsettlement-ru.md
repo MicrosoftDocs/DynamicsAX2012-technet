@@ -2,8 +2,9 @@
 title: (RUS) Transaction settlements report (EmplSettlement_RU)
 TOCTitle: (RUS) Transaction settlements report (EmplSettlement_RU)
 ms:assetid: fd9f3ccf-cc48-482a-b2bf-990dd315be26
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ945857(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ945857(v=AX.60)
 ms:contentKeyID: 51543177
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

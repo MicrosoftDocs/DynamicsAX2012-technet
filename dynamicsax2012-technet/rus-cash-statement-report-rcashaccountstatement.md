@@ -2,8 +2,9 @@
 title: (RUS) Cash statement report (RCashAccountStatement)
 TOCTitle: (RUS) Cash statement report (RCashAccountStatement)
 ms:assetid: a936fb76-1035-4c12-9e4f-6e4c8053f430
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Xx187162(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Xx187162(v=AX.60)
 ms:contentKeyID: 52055988
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

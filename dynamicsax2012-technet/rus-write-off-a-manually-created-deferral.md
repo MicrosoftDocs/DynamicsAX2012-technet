@@ -2,8 +2,9 @@
 title: (RUS) Write off a manually created deferral
 TOCTitle: (RUS) Write off a manually created deferral
 ms:assetid: 6181a5e5-49a7-44fe-a6d2-c128a6d4caad
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665441(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665441(v=AX.60)
 ms:contentKeyID: 49387530
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,9 +42,9 @@ Use the **Journal voucher** form to write off a deferral that is created manuall
 
 ## See also
 
-[(RUS) Deferrals models (form)](https://technet.microsoft.com/en-us/library/jj678655\(v=ax.60\))
+[(RUS) Deferrals models (form)](https://technet.microsoft.com/library/jj678655\(v=ax.60\))
 
-[(RUS) Deferrals sum for writing off calculation (form)](https://technet.microsoft.com/en-us/library/jj678537\(v=ax.60\))
+[(RUS) Deferrals sum for writing off calculation (form)](https://technet.microsoft.com/library/jj678537\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Report production orders as finished
 TOCTitle: Report production orders as finished
 ms:assetid: 48b853f5-d719-40be-96fe-0495bf7a470c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497003(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497003(v=AX.60)
 ms:contentKeyID: 36056930
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ You can configure the **Report as finished** form, so that the referenced pickin
 
 ## See also
 
-[Production - Report as finished (class form)](https://technet.microsoft.com/en-us/library/aa600184\(v=ax.60\))
+[Production - Report as finished (class form)](https://technet.microsoft.com/library/aa600184\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Vacation, business trip, and sick list reports
 TOCTitle: (RUS) Vacation, business trip, and sick list reports
 ms:assetid: a233f49f-7744-4efb-95cc-9bf13ae00933
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn452008(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn452008(v=AX.60)
 ms:contentKeyID: 56713172
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

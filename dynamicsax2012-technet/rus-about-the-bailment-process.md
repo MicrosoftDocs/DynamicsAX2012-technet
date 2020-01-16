@@ -2,8 +2,9 @@
 title: (RUS) About the bailment process
 TOCTitle: (RUS) About the bailment process
 ms:assetid: e03737bf-0af4-4c71-9c80-ebce6bc7b99e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733293(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733293(v=AX.60)
 ms:contentKeyID: 49685260
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,9 +32,9 @@ The bailment process involves the transfer of items from a bailor (owner of item
 
 Complete the following tasks to initiate the bailment process:
 
-  - Set up currency and exchange rates. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\)).
+  - Set up currency and exchange rates. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\)).
 
-  - Create a vendor account or a customer account. The customer and the vendor must be the same organization, and they must belong to the same party. For more information, see [Create a vendor account](create-a-vendor-account.md), [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\)), and [Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\)).
+  - Create a vendor account or a customer account. The customer and the vendor must be the same organization, and they must belong to the same party. For more information, see [Create a vendor account](create-a-vendor-account.md), [Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\)), and [Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\)).
 
   - Create a purchase agreement, and then generate an intra-company sales agreement.
     
@@ -43,9 +44,9 @@ Complete the following tasks to initiate the bailment process:
 
   - Create an item, and assign an item dimension group to the item. You must also create a tracking dimension group to enable the batch, inventory profile, and owner dimensions. For more information, see [(RUS) Set up tracking dimensions for an inventory owner](rus-set-up-tracking-dimensions-for-an-inventory-owner.md).
 
-  - Create a warehouse to store the items. For more information, see [Create warehouses](create-warehouses.md), [Set up warehouses for transfer orders](set-up-warehouses-for-transfer-orders.md), and [Warehouses (form)](https://technet.microsoft.com/en-us/library/aa620570\(v=ax.60\)).
+  - Create a warehouse to store the items. For more information, see [Create warehouses](create-warehouses.md), [Set up warehouses for transfer orders](set-up-warehouses-for-transfer-orders.md), and [Warehouses (form)](https://technet.microsoft.com/library/aa620570\(v=ax.60\)).
 
-  - Create a ledger account for bailment. For more information, see [Maintain ledger accounts](maintain-ledger-accounts.md) and [Chart of accounts (form)](https://technet.microsoft.com/en-us/library/aa618234\(v=ax.60\)).
+  - Create a ledger account for bailment. For more information, see [Maintain ledger accounts](maintain-ledger-accounts.md) and [Chart of accounts (form)](https://technet.microsoft.com/library/aa618234\(v=ax.60\)).
 
   - Set up an inventory posting profile for bailment. For more information, see [(RUS) Set up an inventory posting profile](rus-set-up-an-inventory-posting-profile.md).
 

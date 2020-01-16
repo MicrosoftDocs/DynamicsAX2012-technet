@@ -2,8 +2,9 @@
 title: Reserve an inventory batch for a batch order
 TOCTitle: Reserve an inventory batch for a batch order
 ms:assetid: 0a84018f-031e-41cf-a819-7b98fc18d54f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352180(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352180(v=AX.60)
 ms:contentKeyID: 36687811
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,11 +42,11 @@ Use this procedure to reserve an inventory batch from a batch formula line to us
 
 ## See also
 
-[Batch order (form)](https://technet.microsoft.com/en-us/library/hh352323\(v=ax.60\))
+[Batch order (form)](https://technet.microsoft.com/library/hh352323\(v=ax.60\))
 
-[Formula lines-batch (form)](https://technet.microsoft.com/en-us/library/hh328711\(v=ax.60\))
+[Formula lines-batch (form)](https://technet.microsoft.com/library/hh328711\(v=ax.60\))
 
-[Reservation (form)](https://technet.microsoft.com/en-us/library/aa617039\(v=ax.60\))
+[Reservation (form)](https://technet.microsoft.com/library/aa617039\(v=ax.60\))
 
   
 

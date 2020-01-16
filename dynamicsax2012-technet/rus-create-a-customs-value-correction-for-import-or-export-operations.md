@@ -2,8 +2,9 @@
 title: (RUS) Create a customs value correction for import or export operations
 TOCTitle: (RUS) Create a customs value correction for import or export operations
 ms:assetid: 77d0714c-57f6-446f-a694-495c5c8569a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733243(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733243(v=AX.60)
 ms:contentKeyID: 49685210
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ Use the **Create KTS** form to create a customs value correction (KTS) for impor
 
 [(RUS) Post a customs value correction for a customs journal](rus-post-a-customs-value-correction-for-a-customs-journal.md)
 
-[(RUS) Create KTS (form)](https://technet.microsoft.com/en-us/library/jj733285\(v=ax.60\))
+[(RUS) Create KTS (form)](https://technet.microsoft.com/library/jj733285\(v=ax.60\))
 
   
 

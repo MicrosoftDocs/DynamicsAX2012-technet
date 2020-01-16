@@ -2,8 +2,9 @@
 title: Project price groups report (ProjPriceGroupList)
 TOCTitle: Project price groups report (ProjPriceGroupList)
 ms:assetid: 33302668-f6c9-40e1-b423-b0db62b81425
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527781(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527781(v=AX.60)
 ms:contentKeyID: 37831990
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

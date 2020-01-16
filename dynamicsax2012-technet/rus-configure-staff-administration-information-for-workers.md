@@ -2,8 +2,9 @@
 title: (RUS) Configure staff administration information for workers
 TOCTitle: (RUS) Configure staff administration information for workers
 ms:assetid: 57d8f537-6c14-4a65-b737-81f825a1c57f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn452007(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn452007(v=AX.60)
 ms:contentKeyID: 56713173
+author: Khairunj
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

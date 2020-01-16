@@ -2,8 +2,9 @@
 title: (RUS) Calculate the intangible assets depreciation (nonlinear method) register
 TOCTitle: (RUS) Calculate the intangible assets depreciation (nonlinear method) register
 ms:assetid: f8080591-bfeb-4a29-a4ff-1beed0456acb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678626(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678626(v=AX.60)
 ms:contentKeyID: 49388108
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,17 +62,17 @@ You must set up the **IA depreciation (nonlinear method)** register in the **Tax
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
-[(RUS) Register lines (form)](https://technet.microsoft.com/en-us/library/jj943751\(v=ax.60\))
+[(RUS) Register lines (form)](https://technet.microsoft.com/library/jj943751\(v=ax.60\))
 
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
 [(RUS) Recalculate registers](rus-recalculate-registers.md)
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
   
 

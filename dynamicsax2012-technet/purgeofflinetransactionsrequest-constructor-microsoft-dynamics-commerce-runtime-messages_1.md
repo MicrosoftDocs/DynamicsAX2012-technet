@@ -1,9 +1,10 @@
-﻿---
+---
 title: PurgeOfflineTransactionsRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: PurgeOfflineTransactionsRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.PurgeOfflineTransactionsRequest.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.purgeofflinetransactionsrequest.purgeofflinetransactionsrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.purgeofflinetransactionsrequest.purgeofflinetransactionsrequest(v=AX.60)
 ms:contentKeyID: 65322648
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

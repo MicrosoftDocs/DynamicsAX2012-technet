@@ -2,8 +2,9 @@
 title: (RUS) Payroll pay sheets and pay statements
 TOCTitle: (RUS) Payroll pay sheets and pay statements
 ms:assetid: 2c2a460f-9637-4020-a042-6bee86e19b00
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn435949(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn435949(v=AX.60)
 ms:contentKeyID: 56730922
+author: Khairunj
 ms.date: 07/01/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (RUS) Set up simple cell type requisites
 TOCTitle: (RUS) Set up simple cell type requisites
 ms:assetid: baff70cb-27ec-4a75-b1ea-ba4fa59f8c50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677681(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677681(v=AX.60)
 ms:contentKeyID: 49384983
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -77,9 +78,9 @@ Use the **Requisites setup** form to set up **Cell** requisite types that are us
 
 ## See also
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
-[(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
+[(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\))
 
   
 

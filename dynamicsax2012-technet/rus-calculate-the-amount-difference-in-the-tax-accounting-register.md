@@ -2,8 +2,9 @@
 title: (RUS) Calculate the amount difference in the tax accounting register
 TOCTitle: (RUS) Calculate the amount difference in the tax accounting register
 ms:assetid: 9b3321ae-05f1-457f-8dd1-c3cd1aa468fd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678521(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678521(v=AX.60)
 ms:contentKeyID: 49387750
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,17 +46,17 @@ You can use the **Tax register journal** form to set up a register that is used 
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
-[(RUS) Register lines (form)](https://technet.microsoft.com/en-us/library/jj943751\(v=ax.60\))
+[(RUS) Register lines (form)](https://technet.microsoft.com/library/jj943751\(v=ax.60\))
 
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
 [(RUS) Recalculate registers](rus-recalculate-registers.md)
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
 [(RUS) Set up calculation parameters for amount differences in tax accounting](rus-set-up-calculation-parameters-for-amount-differences-in-tax-accounting.md)
 

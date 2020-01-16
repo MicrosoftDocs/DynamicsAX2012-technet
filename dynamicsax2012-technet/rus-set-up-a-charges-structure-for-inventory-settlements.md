@@ -2,8 +2,9 @@
 title: (RUS) Set up a charges structure for inventory settlements
 TOCTitle: (RUS) Set up a charges structure for inventory settlements
 ms:assetid: b6144732-8730-4be8-af6a-f3c8b33fc015
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923584(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923584(v=AX.60)
 ms:contentKeyID: 53382720
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,9 +34,9 @@ Use this procedure to activate the miscellaneous charges structure for inventory
 
 [(RUS) Set up charges codes](rus-set-up-charges-codes.md)
 
-[(RUS) Cost explorer (modified form)](https://technet.microsoft.com/en-us/library/jj733182\(v=ax.60\))
+[(RUS) Cost explorer (modified form)](https://technet.microsoft.com/library/jj733182\(v=ax.60\))
 
-[(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733200\(v=ax.60\))
+[(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj733200\(v=ax.60\))
 
   
 

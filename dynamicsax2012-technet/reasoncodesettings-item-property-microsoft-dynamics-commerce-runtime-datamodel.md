@@ -1,9 +1,10 @@
-﻿---
+---
 title: ReasonCodeSettings.Item Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Item Property
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCodeSettings.Item
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.reasoncodesettings.item(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.reasoncodesettings.item(v=AX.60)
 ms:contentKeyID: 62213225
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,7 +36,7 @@ dev_langs:
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="reasoncodesettings-item-property-reasoncodesourcetype-microsoft-dynamics-commerce-runtime-datamodel.md">Item[ReasonCodeSourceType]</a></td>
-<td>Gets the reason code id <a href="https://technet.microsoft.com/en-us/library/s1wwdcbf(v=ax.60)">String</a> associated with the specified key.</td>
+<td>Gets the reason code id <a href="https://technet.microsoft.com/library/s1wwdcbf(v=ax.60)">String</a> associated with the specified key.</td>
 </tr>
 </tbody>
 </table>

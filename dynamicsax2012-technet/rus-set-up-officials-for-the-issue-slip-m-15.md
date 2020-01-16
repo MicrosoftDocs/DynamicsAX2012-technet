@@ -2,8 +2,9 @@
 title: (RUS) Set up officials for the Issue slip (M-15)
 TOCTitle: (RUS) Set up officials for the Issue slip (M-15)
 ms:assetid: 556b63fa-fafd-40f7-9a03-e28e144729df
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733229(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733229(v=AX.60)
 ms:contentKeyID: 49685195
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ Use the **Shipment** form to set up officials for the Issue slip (M-15) report t
 
 ## See also
 
-[Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\))
+[Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductSearchResultExtensions.GetLookupId Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetLookupId Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ProductSearchResultExtensions.GetLookupId(Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductSearchResult,System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.productsearchresultextensions.getlookupid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.productsearchresultextensions.getlookupid(v=AX.60)
 ms:contentKeyID: 65318988
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,11 +63,11 @@ static long long GetLookupId(
 <!-- end list -->
 
   - productId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 Returns the master product identifier for the productId, or productId otherwise.  
 
 #### Usage Note

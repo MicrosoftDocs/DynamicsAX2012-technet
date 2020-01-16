@@ -2,8 +2,9 @@
 title: Reorder question groups in a RapidStart Services functional area
 TOCTitle: Reorder question groups in a RapidStart Services functional area
 ms:assetid: 67870934-5d40-4fbe-9467-52827aa755ba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413237(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413237(v=AX.60)
 ms:contentKeyID: 36918928
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

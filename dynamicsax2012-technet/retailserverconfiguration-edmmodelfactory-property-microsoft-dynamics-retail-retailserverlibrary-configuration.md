@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailServerConfiguration.EdmModelFactory Property  (Microsoft.Dynamics.Retail.RetailServerLibrary.Configuration)
 TOCTitle: EdmModelFactory Property
 ms:assetid: P:Microsoft.Dynamics.Retail.RetailServerLibrary.Configuration.RetailServerConfiguration.EdmModelFactory
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.configuration.retailserverconfiguration.edmmodelfactory(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.configuration.retailserverconfiguration.edmmodelfactory(v=AX.60)
 ms:contentKeyID: 62202132
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

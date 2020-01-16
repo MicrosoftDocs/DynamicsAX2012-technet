@@ -2,8 +2,9 @@
 title: Rate products and vendors
 TOCTitle: Rate products and vendors
 ms:assetid: 03f69bbe-474e-4123-a582-0e2ec19094c3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271442(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271442(v=AX.60)
 ms:contentKeyID: 36384075
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

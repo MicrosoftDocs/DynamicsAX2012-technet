@@ -2,8 +2,9 @@
 title: (RUS) Set up bill of lading information for the M-15 and 1-T reports
 TOCTitle: (RUS) Set up bill of lading information for the M-15 and 1-T reports
 ms:assetid: 596dc400-73f1-4634-991f-16e22984019c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733230(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733230(v=AX.60)
 ms:contentKeyID: 49685197
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -59,7 +60,7 @@ You can enter bill of lading information for the M-15 and 1-T reports that are g
 
 ## See also
 
-[Transfer orders (form)](https://technet.microsoft.com/en-us/library/aa634530\(v=ax.60\))
+[Transfer orders (form)](https://technet.microsoft.com/library/aa634530\(v=ax.60\))
 
 [About transfer orders](about-transfer-orders.md)
 

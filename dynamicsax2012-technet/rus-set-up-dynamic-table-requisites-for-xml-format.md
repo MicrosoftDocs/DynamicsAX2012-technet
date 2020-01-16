@@ -2,8 +2,9 @@
 title: (RUS) Set up dynamic table requisites for XML format
 TOCTitle: (RUS) Set up dynamic table requisites for XML format
 ms:assetid: 29359e1d-33a0-496e-8d39-cf910556806c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677492(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677492(v=AX.60)
 ms:contentKeyID: 49384795
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ Dynamic table requisites are uniform requisites that can be consolidated into a 
 
 8.  In the left section of the form, click **Select**, and then click **Yes**. The list and table cell area are displayed in the **Area** field.
 
-9.  In the **Data type** and **Extended data type** fields, select the data type of the column and the extended data type to verify the value of the requisite that is imported. For more information, see [(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
+9.  In the **Data type** and **Extended data type** fields, select the data type of the column and the extended data type to verify the value of the requisite that is imported. For more information, see [(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\))
 
 10. In the Excel worksheet in the lower pane of the form, select the first cell of the appropriate data column. In the right section of the form, click **Select**, and then click **Yes**.
 
@@ -53,13 +54,13 @@ Dynamic table requisites are uniform requisites that can be consolidated into a 
 
 ## See also
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
 [(RUS) Set up templates for electronic reporting](rus-set-up-templates-for-electronic-reporting.md)
 
-[(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
+[(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\))
 
-[(RUS) Format of requisites (form)](https://technet.microsoft.com/en-us/library/jj710737\(v=ax.60\))
+[(RUS) Format of requisites (form)](https://technet.microsoft.com/library/jj710737\(v=ax.60\))
 
 [(RUS) Set up dynamic table requisites for text formats](rus-set-up-dynamic-table-requisites-for-text-formats.md)
 

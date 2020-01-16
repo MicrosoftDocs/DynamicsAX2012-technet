@@ -2,8 +2,9 @@
 title: (RUS) Set up currency groups
 TOCTitle: (RUS) Set up currency groups
 ms:assetid: 89a30540-9326-49f6-91c9-5eabfc6a14d1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856115(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856115(v=AX.60)
 ms:contentKeyID: 50406413
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -76,7 +77,7 @@ Set up currency groups to specify rules to convert currency from the source comp
 
 ## See also
 
-[(RUS) Currency groups (form)](https://technet.microsoft.com/en-us/library/jj665220\(v=ax.60\))
+[(RUS) Currency groups (form)](https://technet.microsoft.com/library/jj665220\(v=ax.60\))
 
   
 

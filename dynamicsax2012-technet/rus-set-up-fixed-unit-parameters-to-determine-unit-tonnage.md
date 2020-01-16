@@ -2,8 +2,9 @@
 title: (RUS) Set up fixed unit parameters to determine unit tonnage
 TOCTitle: (RUS) Set up fixed unit parameters to determine unit tonnage
 ms:assetid: 621612bb-169b-4f1b-a16a-92f6b60f75b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665445(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665445(v=AX.60)
 ms:contentKeyID: 49387532
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ In the **Units** form, you can define the ton unit of measure as a fixed unit of
 
 ## See also
 
-[Units (form)](https://technet.microsoft.com/en-us/library/hh209233\(v=ax.60\))
+[Units (form)](https://technet.microsoft.com/library/hh209233\(v=ax.60\))
 
   
 

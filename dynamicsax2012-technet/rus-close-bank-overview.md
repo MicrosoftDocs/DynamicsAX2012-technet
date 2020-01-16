@@ -2,8 +2,9 @@
 title: (RUS) Close bank overview
 TOCTitle: (RUS) Close bank overview
 ms:assetid: 07aa165d-2107-426c-aaf6-b5fdd8591016
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711367(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711367(v=AX.60)
 ms:contentKeyID: 49387185
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

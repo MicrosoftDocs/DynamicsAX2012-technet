@@ -2,8 +2,9 @@
 title: (RUS) Print inventory transfer report (InventJournalTransTransfer)
 TOCTitle: (RUS) Print inventory transfer report (InventJournalTransTransfer)
 ms:assetid: 96e6c898-7228-4fe3-9dd8-5492daa5870e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn144858(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn144858(v=AX.60)
 ms:contentKeyID: 52225282
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -127,7 +128,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(RUS) Journal lines, Inventory transfer (modified form)](https://technet.microsoft.com/en-us/library/jj665257\(v=ax.60\))
+[(RUS) Journal lines, Inventory transfer (modified form)](https://technet.microsoft.com/library/jj665257\(v=ax.60\))
 
   
 

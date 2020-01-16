@@ -2,8 +2,9 @@
 title: (RUS) Accounts payable
 TOCTitle: (RUS) Accounts payable
 ms:assetid: 418fbe84-0c42-4253-8ded-5db0939462fc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665320(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665320(v=AX.60)
 ms:contentKeyID: 49387409
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

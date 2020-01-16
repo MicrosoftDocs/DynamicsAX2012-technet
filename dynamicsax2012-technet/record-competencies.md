@@ -2,8 +2,9 @@
 title: Record competencies
 TOCTitle: Record competencies
 ms:assetid: 4ac9e6aa-214e-488e-8da5-41b23657a334
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497012(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497012(v=AX.60)
 ms:contentKeyID: 50619129
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,25 +53,25 @@ You can track competency information for workers, applicants, and contact person
 
 ## See also
 
-[Competency - Tests (form)](https://technet.microsoft.com/en-us/library/jj729770\(v=ax.60\))
+[Competency - Tests (form)](https://technet.microsoft.com/library/jj729770\(v=ax.60\))
 
-[Competency - Certificates (form)](https://technet.microsoft.com/en-us/library/aa552531\(v=ax.60\))
+[Competency - Certificates (form)](https://technet.microsoft.com/library/aa552531\(v=ax.60\))
 
-[Education (form)](https://technet.microsoft.com/en-us/library/aa616828\(v=ax.60\))
+[Education (form)](https://technet.microsoft.com/library/aa616828\(v=ax.60\))
 
-[Competency - Skills (form)](https://technet.microsoft.com/en-us/library/aa616428\(v=ax.60\))
+[Competency - Skills (form)](https://technet.microsoft.com/library/aa616428\(v=ax.60\))
 
-[Professional experience (form)](https://technet.microsoft.com/en-us/library/aa550286\(v=ax.60\))
+[Professional experience (form)](https://technet.microsoft.com/library/aa550286\(v=ax.60\))
 
-[Project experience (form)](https://technet.microsoft.com/en-us/library/aa575899\(v=ax.60\))
+[Project experience (form)](https://technet.microsoft.com/library/aa575899\(v=ax.60\))
 
-[Competency - Courses (form)](https://technet.microsoft.com/en-us/library/aa586737\(v=ax.60\))
+[Competency - Courses (form)](https://technet.microsoft.com/library/aa586737\(v=ax.60\))
 
-[Position of trust (form)](https://technet.microsoft.com/en-us/library/aa591442\(v=ax.60\))
+[Position of trust (form)](https://technet.microsoft.com/library/aa591442\(v=ax.60\))
 
-[Position of trust (form)](https://technet.microsoft.com/en-us/library/aa591442\(v=ax.60\))
+[Position of trust (form)](https://technet.microsoft.com/library/aa591442\(v=ax.60\))
 
-[Contact interests (form)](https://technet.microsoft.com/en-us/library/aa554489\(v=ax.60\))
+[Contact interests (form)](https://technet.microsoft.com/library/aa554489\(v=ax.60\))
 
   
 

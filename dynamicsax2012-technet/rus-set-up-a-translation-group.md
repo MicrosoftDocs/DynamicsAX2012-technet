@@ -2,8 +2,9 @@
 title: (RUS) Set up a translation group
 TOCTitle: (RUS) Set up a translation group
 ms:assetid: 8c4c5791-29aa-49f3-aa26-2726262f8a9d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923558(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923558(v=AX.60)
 ms:contentKeyID: 52075404
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -91,7 +92,7 @@ Translation difference is an imbalance in the default currency or the secondary 
 
 ## See also
 
-[(RUS) Translation groups (form)](https://technet.microsoft.com/en-us/library/jj923574\(v=ax.60\))
+[(RUS) Translation groups (form)](https://technet.microsoft.com/library/jj923574\(v=ax.60\))
 
 [(RUS) Set up account translation rules](rus-set-up-account-translation-rules.md)
 

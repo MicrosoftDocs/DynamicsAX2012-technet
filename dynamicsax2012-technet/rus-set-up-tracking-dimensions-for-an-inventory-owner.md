@@ -2,8 +2,9 @@
 title: (RUS) Set up tracking dimensions for an inventory owner
 TOCTitle: (RUS) Set up tracking dimensions for an inventory owner
 ms:assetid: e8ad758a-6bee-402e-b0a4-9e1b28b587e5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733400(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733400(v=AX.60)
 ms:contentKeyID: 49685267
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,11 +34,11 @@ Use the **Tracking dimension groups** form to set up tracking dimensions for the
 
 ## See also
 
-[Trace inventory dimensions (form)](https://technet.microsoft.com/en-us/library/aa550267\(v=ax.60\))
+[Trace inventory dimensions (form)](https://technet.microsoft.com/library/aa550267\(v=ax.60\))
 
 [About inventory dimensions and dimension groups](about-inventory-dimensions-and-dimension-groups.md)
 
-[(RUS) Tracking dimension groups (modified form)](https://technet.microsoft.com/en-us/library/jj733232\(v=ax.60\))
+[(RUS) Tracking dimension groups (modified form)](https://technet.microsoft.com/library/jj733232\(v=ax.60\))
 
   
 

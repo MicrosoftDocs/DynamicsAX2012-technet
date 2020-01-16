@@ -2,8 +2,9 @@
 title: Review a document assigned to you for approval
 TOCTitle: Review a document assigned to you for approval
 ms:assetid: aaf6bdee-e5c0-4a64-a39b-43268c2de415
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243087(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243087(v=AX.60)
 ms:contentKeyID: 35949341
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -60,7 +61,7 @@ Follow these steps to review a document that is assigned to you for approval.
     <tr class="odd">
     <td><p><strong>View history</strong></p></td>
     <td><p>View the workflow status and history of the document.</p>
-    <p>The <strong>Workflow history</strong> form is displayed. For more information about this form, see <a href="https://technet.microsoft.com/en-us/library/hh597256(v=ax.60)">Workflow history (form)</a>.</p></td>
+    <p>The <strong>Workflow history</strong> form is displayed. For more information about this form, see <a href="https://technet.microsoft.com/library/hh597256(v=ax.60)">Workflow history (form)</a>.</p></td>
     </tr>
     </tbody>
     </table>

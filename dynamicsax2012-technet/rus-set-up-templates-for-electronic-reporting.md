@@ -2,8 +2,9 @@
 title: (RUS) Set up templates for electronic reporting
 TOCTitle: (RUS) Set up templates for electronic reporting
 ms:assetid: 2dd13388-bc71-4edc-aa6b-c7983a0e6d74
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677494(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677494(v=AX.60)
 ms:contentKeyID: 49384799
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -82,7 +83,7 @@ You can set up document templates for reports that are submitted in text format 
 
 12. You can also import several requisites or create several identical sections.
     
-      - Click **Import** to add several requisites to a section. For more information, see [(RUS) Requisites import (form)](https://technet.microsoft.com/en-us/library/jj710744\(v=ax.60\)).
+      - Click **Import** to add several requisites to a section. For more information, see [(RUS) Requisites import (form)](https://technet.microsoft.com/library/jj710744\(v=ax.60\)).
     
       - To create several identical sections, on the **Structure** FastTab, click **New**. Then, in the tree, select the section to copy. Click **Copy**, and then in the **From template** field, select the section to copy. Click **OK**.
         
@@ -130,13 +131,13 @@ You can set up document templates for reports that are submitted in text format 
 
 ## See also
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
-[(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
+[(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\))
 
 [(RUS) Set up simple cell type requisites](rus-set-up-simple-cell-type-requisites.md)
 
-[(RUS) Add standard sections (form)](https://technet.microsoft.com/en-us/library/jj710685\(v=ax.60\))
+[(RUS) Add standard sections (form)](https://technet.microsoft.com/library/jj710685\(v=ax.60\))
 
   
 

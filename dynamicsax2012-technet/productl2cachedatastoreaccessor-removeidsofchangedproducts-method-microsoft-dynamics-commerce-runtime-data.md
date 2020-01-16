@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductL2CacheDataStoreAccessor.RemoveIdsOfChangedProducts Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: RemoveIdsOfChangedProducts Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ProductL2CacheDataStoreAccessor.RemoveIdsOfChangedProducts(System.Guid)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.productl2cachedatastoreaccessor.removeidsofchangedproducts(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.productl2cachedatastoreaccessor.removeidsofchangedproducts(v=AX.60)
 ms:contentKeyID: 62210887
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ void RemoveIdsOfChangedProducts(
 #### Parameters
 
   - sessionId  
-    Type: [System.Guid](https://technet.microsoft.com/en-us/library/cey1zx63\(v=ax.60\))  
+    Type: [System.Guid](https://technet.microsoft.com/library/cey1zx63\(v=ax.60\))  
 
 ## See Also
 

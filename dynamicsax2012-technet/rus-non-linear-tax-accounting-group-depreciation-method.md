@@ -2,8 +2,9 @@
 title: (RUS) Non-linear tax accounting group depreciation method
 TOCTitle: (RUS) Non-linear tax accounting group depreciation method
 ms:assetid: 58dc5a03-4f8d-4e28-8a32-892071a71d1e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853182(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853182(v=AX.60)
 ms:contentKeyID: 50396463
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -21,7 +22,7 @@ When the non-linear method is used, the accrued monthly depreciation for the ass
 
 ## See also
 
-[(RUS) Depreciation methods (form)](https://technet.microsoft.com/en-us/library/jj856184\(v=ax.60\))
+[(RUS) Depreciation methods (form)](https://technet.microsoft.com/library/jj856184\(v=ax.60\))
 
 [(RUS) Set up depreciation methods](rus-set-up-depreciation-methods.md)
 

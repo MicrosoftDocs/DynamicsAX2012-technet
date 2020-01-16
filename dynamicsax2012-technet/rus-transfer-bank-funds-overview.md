@@ -2,8 +2,9 @@
 title: (RUS) Transfer bank funds overview
 TOCTitle: (RUS) Transfer bank funds overview
 ms:assetid: 3f86c9f2-01ec-43b5-8ec9-5c9d31e871ba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665314(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665314(v=AX.60)
 ms:contentKeyID: 49387403
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

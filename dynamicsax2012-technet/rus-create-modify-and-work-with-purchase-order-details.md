@@ -2,8 +2,9 @@
 title: (RUS) Create, modify, and work with purchase order details
 TOCTitle: (RUS) Create, modify, and work with purchase order details
 ms:assetid: 78764d95-4021-420f-a577-80d7ccadcc52
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678377(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678377(v=AX.60)
 ms:contentKeyID: 49387607
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

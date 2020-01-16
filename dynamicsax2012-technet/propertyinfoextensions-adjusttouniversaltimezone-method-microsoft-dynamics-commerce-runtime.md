@@ -1,9 +1,10 @@
-﻿---
+---
 title: PropertyInfoExtensions.AdjustToUniversalTimeZone Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: AdjustToUniversalTimeZone Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.PropertyInfoExtensions.AdjustToUniversalTimeZone(System.Reflection.PropertyInfo,System.Object,Microsoft.Dynamics.Commerce.Runtime.DataModel.TypeCache)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.propertyinfoextensions.adjusttouniversaltimezone(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.propertyinfoextensions.adjusttouniversaltimezone(v=AX.60)
 ms:contentKeyID: 65321773
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,12 +60,12 @@ static void AdjustToUniversalTimeZone(
 #### Parameters
 
   - property  
-    Type: [System.Reflection.PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\))  
+    Type: [System.Reflection.PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\))  
 
 <!-- end list -->
 
   - value  
-    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+    Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -73,7 +74,7 @@ static void AdjustToUniversalTimeZone(
 
 #### Usage Note
 
-In Visual Basic and C\#, you can call this method as an instance method on any object of type [PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\)). When you use instance method syntax to call this method, omit the first parameter. For more information, see b8020aae-374d-46a9-bcb7-8cc2390b93b6 or 175ce3ff-9bbf-4e64-8421-faeb81a0bb51.
+In Visual Basic and C\#, you can call this method as an instance method on any object of type [PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\)). When you use instance method syntax to call this method, omit the first parameter. For more information, see b8020aae-374d-46a9-bcb7-8cc2390b93b6 or 175ce3ff-9bbf-4e64-8421-faeb81a0bb51.
 
 ## See Also
 

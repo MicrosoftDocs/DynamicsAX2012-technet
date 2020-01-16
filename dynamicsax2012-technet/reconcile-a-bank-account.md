@@ -2,8 +2,9 @@
 title: Reconcile a bank account
 TOCTitle: Reconcile a bank account
 ms:assetid: ce12bcc3-074a-403e-85f7-c09f13fd3d49
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572690(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572690(v=AX.60)
 ms:contentKeyID: 36971933
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ You cannot reconcile a bank statement with a bank account if any of the checks o
 
 2.  On the **Action Pane**, click **Account reconciliation**, and then enter information as appropriate.
     
-    You must enter information in the **Bank statement date** and **Bank statement** fields. In the **Ending balance** field, you can enter the balance of the bank account as it appears on the bank statement. For more information, see [Bank statement (form)](https://technet.microsoft.com/en-us/library/aa600290\(v=ax.60\)).
+    You must enter information in the **Bank statement date** and **Bank statement** fields. In the **Ending balance** field, you can enter the balance of the bank account as it appears on the bank statement. For more information, see [Bank statement (form)](https://technet.microsoft.com/library/aa600290\(v=ax.60\)).
 
 3.  Click **Transactions** to open the **Account reconciliation** form. The upper pane displays the bank account transactions that have not yet been reconciled with a bank statement.
     
@@ -62,7 +63,7 @@ You cannot reconcile a bank statement with a bank account if any of the checks o
 
 ## See also
 
-[Account reconciliation (form)](https://technet.microsoft.com/en-us/library/aa597523\(v=ax.60\))
+[Account reconciliation (form)](https://technet.microsoft.com/library/aa597523\(v=ax.60\))
 
 [Cancel a deposit slip payment](cancel-a-deposit-slip-payment.md)
 

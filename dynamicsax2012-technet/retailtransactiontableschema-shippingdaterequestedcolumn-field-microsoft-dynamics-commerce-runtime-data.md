@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailTransactionTableSchema.ShippingDateRequestedColumn Field (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ShippingDateRequestedColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.Data.RetailTransactionTableSchema.ShippingDateRequestedColumn
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.retailtransactiontableschema.shippingdaterequestedcolumn(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.retailtransactiontableschema.shippingdaterequestedcolumn(v=AX.60)
 ms:contentKeyID: 65316424
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (RUS) Set up a posting profile
 TOCTitle: (RUS) Set up a posting profile
 ms:assetid: 478e2713-9391-4008-989a-189f4080ec32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733215(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733215(v=AX.60)
 ms:contentKeyID: 49685183
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ When you create or update a posting record in the **Inventory profile - posting 
 
 [(RUS) Activate inventory transaction combinations](rus-activate-inventory-transaction-combinations.md)
 
-[(RUS) Activate transaction combinations (modified form)](https://technet.microsoft.com/en-us/library/jj733228\(v=ax.60\))
+[(RUS) Activate transaction combinations (modified form)](https://technet.microsoft.com/library/jj733228\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Set up a register for warehoused items
 TOCTitle: (RUS) Set up a register for warehoused items
 ms:assetid: af4e27ad-254f-40ef-978c-3815f400d392
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839683(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839683(v=AX.60)
 ms:contentKeyID: 50396829
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -79,7 +80,7 @@ The **Warehoused items** register contains the following information:
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
 [(RUS) Calculate registers](rus-calculate-registers.md)
 

@@ -2,8 +2,9 @@
 title: Project management and accounting reports
 TOCTitle: Project management and accounting reports
 ms:assetid: e77df0d2-2523-4081-9682-f2c513361f73
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334504(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334504(v=AX.60)
 ms:contentKeyID: 36676493
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
