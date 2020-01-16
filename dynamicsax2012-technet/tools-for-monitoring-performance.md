@@ -34,13 +34,13 @@ We recommend the following tools for monitoring the performance of Microsoft Dyn
 
   - [Performance Analyzer for Microsoft Dynamics AX (DynamicsPerf)](https://blogs.msdn.com/b/axinthefield/archive/2011/02/28/setting-up-performance-analyzer-for-microsoft-dynamics.aspx) – DynamicsPerf can be used to collect information from Microsoft Dynamics AX and SQL Server. DynamicsPerf consists of a database and a collection of scripts that collect information from SQL Server and Microsoft Dynamics AX. Based on this information, you can find issues such as expensive queries and locking/blocking. When you have gained experience, you can also use this tool to find inefficient code or business processes.
 
-  - [System Center Operations Manager Monitoring Pack for Microsoft Dynamics AX 2012](http://www.microsoft.com/downloads/details.aspx?familyid=6714f97a-17e2-42a0-9029-c224416d95d8%26amp%3bamp%3bdisplaylang=e%26displaylang=en) – The Monitoring Pack can be used to monitor your system. The Monitoring Pack can automatically discover the servers in your environment, monitor server availability, and find violations of setup best practices.
+  - [System Center Operations Manager Monitoring Pack for Microsoft Dynamics AX 2012](https://www.microsoft.com/downloads/details.aspx?familyid=6714f97a-17e2-42a0-9029-c224416d95d8%26amp%3bamp%3bdisplaylang=e%26displaylang=en) – The Monitoring Pack can be used to monitor your system. The Monitoring Pack can automatically discover the servers in your environment, monitor server availability, and find violations of setup best practices.
 
   - [Intelligent Data Management Framework for Microsoft Dynamics AX](microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md) –Intelligent Data Management Framework (IDMF) provides functionality that resembles the functionality of DynamicsPerf, and also includes a user interface. IDMF also provides tools for activities that are related to data management, such as archiving and purging.
 
   - [Microsoft Visual Studio Profiling Tools](https://msdn.microsoft.com/library/bb385770.aspx) – The Visual Studio Profiling Tools help you identify performance issues in source code and compare the performance of possible solutions. For more information, see the following resources:
     
-      - [Find Application Bottlenecks with Visual Studio Profiler](http://msdn.microsoft.com/en-us/magazine/cc337887.aspx)
+      - [Find Application Bottlenecks with Visual Studio Profiler](https://msdn.microsoft.com//magazine/cc337887.aspx)
     
       - [Beginners Guide to Performance Profiling](https://msdn.microsoft.com/library/ms182372.aspx)
 

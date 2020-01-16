@@ -198,7 +198,7 @@ This measure group is based on the ProjTransPostingCube view and includes the fo
   </p> <p>
    
 	 Date (exchange rate date)
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/JJ710391.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/JJ710391.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 The Project groups, Project Activity Completed Cost View, Project Estimates View, Project Planned Costs View, and Project Planned Effort view dimensions are associated with this measure only in Microsoft Dynamics AX 2012 R3.
   </p> </td></tr></table></div></td>
@@ -767,7 +767,7 @@ This measure group is based on the CostControlTransCommittedCostCube view and in
   </p> <p>
    
 	 Date (exchange rate date)
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/JJ710391.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/JJ710391.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 The Project Activity Completed Cost View, Project Estimates View, Project Planned Costs View, and Project Planned Effort view dimensions are associated with this measure only in Microsoft Dynamics AX 2012 R3.
   </p> </td></tr></table></div></td>
@@ -951,7 +951,7 @@ This measure group is based on the ProjBIEmplTrans view and includes the followi
   </p> <p>
    
 	 Date (project transaction date)
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/JJ710391.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/JJ710391.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 The Project Activity Completed Cost View, Project Estimates View, Project Planned Costs View, and Project Planned Effort view dimensions are associated with this measure only in Microsoft Dynamics AX 2012 R3.
   </p> </td></tr></table></div></td>
@@ -1174,7 +1174,7 @@ This measure group is based on the ProjBIForecastEmpl view and includes the foll
   </p> <p>
    
 	 Date (project transaction date)
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/JJ710391.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/JJ710391.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 The Project Activity Completed Cost View, Project Estimates View, Project Planned Costs View, and Project Planned Effort view dimensions are associated with this measure only in Microsoft Dynamics AX 2012 R3.
   </p> </td></tr></table></div></td>
@@ -1427,7 +1427,7 @@ This measure group is based on the ProjTransBudgetCube view and includes the fol
   </p> <p>
    
 	 Date (exchange rate date)
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/JJ710391.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/JJ710391.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 The Project groups, Project Activity Completed Cost View, Project Estimates View, Project Planned Costs View, and Project Planned Effort view dimensions are associated with this measure only in Microsoft Dynamics AX 2012 R3.
   </p> </td></tr></table></div></td>

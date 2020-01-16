@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
-Special security and compliance provisions apply to Retail deployments of Microsoft Dynamics AX 2012 that use credit or debit cards. For guidance in this area, consult the [PCI Implementation Guide for Microsoft Dynamics AX 2012 R2](http://www.microsoft.com/en-us/download/confirmation.aspx?id=36537) (http://www.microsoft.com/en-us/download/confirmation.aspx?id=36537), available for download as a PDF file.
+Special security and compliance provisions apply to Retail deployments of Microsoft Dynamics AX 2012 that use credit or debit cards. For guidance in this area, consult the [PCI Implementation Guide for Microsoft Dynamics AX 2012 R2](https://www.microsoft.com/en-us/download/confirmation.aspx?id=36537) (https://www.microsoft.com/en-us/download/confirmation.aspx?id=36537), available for download as a PDF file.
 
   
 

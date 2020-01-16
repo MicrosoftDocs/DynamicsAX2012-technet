@@ -244,7 +244,7 @@ We have changed and added functionality in the [Project management and accountin
 <p>Soft-booking support has been updated, so that a worker’s soft-booked hours do not count against the worker’s overall availability.</p>
 <p>When a project is closed, all of a worker’s bookings that are made for the project are released automatically.</p>
 <p>Resources that are assigned to a project no longer have to be manually added to a validation group for the project. This validation, which lets a worker enter timesheet lines for the project, is set up automatically when a worker is assigned to a project.</p>
-<p>For more information, see the white paper <a href="http://www.microsoft.com/en-us/download/details.aspx?id=36845">Microsoft Dynamics AX 2012 R2 White Paper: Resource Scheduling for Projects</a>.</p></td>
+<p>For more information, see the white paper <a href="https://www.microsoft.com/en-us/download/details.aspx?id=36845">Microsoft Dynamics AX 2012 R2 White Paper: Resource Scheduling for Projects</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Expanded support for project budget checks when document lines are saved</p></td>

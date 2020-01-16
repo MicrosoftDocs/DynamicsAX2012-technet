@@ -33,7 +33,7 @@ To enhance your experience with Microsoft Dynamics AX, explore the following res
 
 [Search Help for developers on MSDN](https://go.microsoft.com/fwlink/?linkid=188679)—Use optimized search to find the latest updated Help on the web for Microsoft Dynamics AX developers.
 
-[The Microsoft Dynamics AX developer center on MSDN](http://msdn.microsoft.com/en-us/dynamics/ax/default.aspx)—Browse the online developer resources for Microsoft Dynamics AX, including news, downloads, and blogs.
+[The Microsoft Dynamics AX developer center on MSDN](https://msdn.microsoft.com//dynamics/ax/default.aspx)—Browse the online developer resources for Microsoft Dynamics AX, including news, downloads, and blogs.
 
 [The Microsoft Dynamics AX site on Microsoft.com](https://go.microsoft.com/fwlink/?linkid=103682)—As the home portal for Microsoft Dynamics AX users, this site provides access to current product documentation and technical articles, and serves as a catalog of other Microsoft Dynamics AX resources.
 

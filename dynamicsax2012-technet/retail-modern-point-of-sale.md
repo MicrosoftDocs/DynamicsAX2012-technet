@@ -341,9 +341,9 @@ You can customize the look and feel of a Modern POS client to make it an extensi
 <td><p>You can install the Windows 8.1 packaged Retail Modern POS app by using the Microsoft Dynamics AX setup wizard, but you can’t extend it. The Retail SDK includes sample code that you can use to extend the Windows 8.1 Retail Modern POS app to meet your needs.</p>
 <p>To use the Windows 8.1 Retail Modern POS sample code that is included in the Retail SDK, you must install for Visual Studio 2012 and 2013.</p></td>
 <td><p><a href="retail-sdk.md">Retail SDK</a></p>
-<p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=34790">TypeScript for Visual Studio 2012 and 2013</a></p>
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=34790">TypeScript for Visual Studio 2012 and 2013</a></p>
 <p>Walkthrough: Extend Modern Point of Sale for Microsoft Dynamics AX</p>
-<p><a href="http://msdn.microsoft.com/en-us/windows/apps/">Windows Dev Center</a></p></td>
+<p><a href="https://msdn.microsoft.com//windows/apps/">Windows Dev Center</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Extend Modern POS for Windows Phone client</p></td>
@@ -360,7 +360,7 @@ You can customize the look and feel of a Modern POS client to make it an extensi
 <td><p>Package your changes</p></td>
 <td><p>After you have customized one of the mobile apps that are available in the Retail SDK, you can package your solution so that it can be installed on devices.</p>
 <p>To package your app, in Visual Studio, click <strong>Project</strong> &gt; <strong>Store</strong> &gt; <strong>Create App Packages</strong>. On the <strong>Create Your Packages</strong> screen, select <strong>No</strong>, and then complete the wizard.</p></td>
-<td><p><a href="http://msdn.microsoft.com/en-us/windows/apps/hh975357.aspx">Create an app package</a></p></td>
+<td><p><a href="https://msdn.microsoft.com//windows/apps/hh975357.aspx">Create an app package</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Install a customized app</p></td>

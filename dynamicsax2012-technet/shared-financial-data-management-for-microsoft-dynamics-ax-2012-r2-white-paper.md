@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 This white paper provides conceptual information so that you can plan the chart of accounts for your legal entity for Microsoft Dynamics AX 2012 R2. It also provides the steps that are required to set up one or more charts of accounts, including procedures for setting up a ledger, shared financial dimensions, shared fiscal calendars, shared account structures, and advanced rules.
 
-[Download the paper](http://www.microsoft.com/en-us/download/details.aspx?id=35832)
+[Download the paper](https://www.microsoft.com/en-us/download/details.aspx?id=35832)
 
   
 

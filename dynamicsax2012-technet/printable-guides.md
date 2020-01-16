@@ -35,7 +35,7 @@ The following Microsoft Dynamics AX 2012 guides are available in PDF format. The
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://www.microsoft.com/en-us/download/details.aspx?displaylang=en%26id=29210">Help and Resources Datasheet for Microsoft Dynamics AX 2012</a></p></td>
+<td><p><a href="https://www.microsoft.com/en-us/download/details.aspx?displaylang=en%26id=29210">Help and Resources Datasheet for Microsoft Dynamics AX 2012</a></p></td>
 <td><p>Helps you navigate our websites and in-product help, and explains when to use each resource.</p></td>
 </tr>
 <tr class="even">

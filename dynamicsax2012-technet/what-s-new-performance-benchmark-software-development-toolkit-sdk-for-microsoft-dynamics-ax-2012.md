@@ -20,7 +20,7 @@ As of November, 2014, the Benchmark SDK has been moved. It is now available from
 
 [Go to Lifecycle Services](https://lcs.dynamics.com)
 
-Read the documentation: [Microsoft Dynamics AX 2012 Performance Benchmark SDK whitepaper](http://www.microsoft.com/en-us/download/details.aspx?id=39082)
+Read the documentation: [Microsoft Dynamics AX 2012 Performance Benchmark SDK whitepaper](https://www.microsoft.com/en-us/download/details.aspx?id=39082)
 
   
 

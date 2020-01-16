@@ -72,7 +72,7 @@ The following steps describe the authentication process and the service call and
 
 [Service Bus Overview](https://go.microsoft.com/fwlink/?linkid=302333%26clcid=0x409)
 
-[How to Authenticate Web Users with Azure Active Directory Access Control](http://www.windowsazure.com/en-us/develop/net/how-to-guides/access-control/)
+[How to Authenticate Web Users with Azure Active Directory Access Control](https://www.windowsazure.com/en-us/develop/net/how-to-guides/access-control/)
 
   
 

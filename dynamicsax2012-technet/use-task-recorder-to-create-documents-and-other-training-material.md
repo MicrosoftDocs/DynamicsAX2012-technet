@@ -71,7 +71,7 @@ The following table shows the requirements for using Task recorder in basic mode
 <tr class="odd">
 <td><p>Required programs</p></td>
 <td><ul>
-<li><p>Windows Media Player. For more information about Windows Media Player, see <a href="http://windows.microsoft.com/en-us/windows/windows-media-player" class="uri">http://windows.microsoft.com/en-us/windows/windows-media-player</a>.</p></li>
+<li><p>Windows Media Player. For more information about Windows Media Player, see <a href="https://windows.microsoft.com/en-us/windows/windows-media-player" class="uri">https://windows.microsoft.com/en-us/windows/windows-media-player</a>.</p></li>
 <li><p>Microsoft Word. Word must be installed on the computer where you will use Task recorder. If you don’t have Word installed, the Task recorder generates an XML file.</p></li>
 <li><p>Microsoft Dynamics AX and Microsoft Dynamics AX Application Object Server (AOS).</p>
 <p>Microsoft Dynamics AX and AOS can be installed on different computers.</p></li>

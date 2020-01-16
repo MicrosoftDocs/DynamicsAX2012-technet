@@ -225,7 +225,7 @@ We have changed and added functionality in the [General ledger](general-ledger.m
 <td><p>New framework for importing exchange rates</p></td>
 <td><p>Existing exchange rate import features that were available for various countries/regions, which include Russia and Eastern Europe, have been consolidated, and a framework for exchange rate import features is available.</p>
 <p>New providers can be added in C# or X++ and used by the framework. You can define a provider for importing currency exchange rates and periodically import those exchange rates between pairs of currencies.</p>
-<p>For more information, see the white paper <a href="http://www.microsoft.com/en-us/download/details.aspx?id=36047">Creating Exchange Rate Providers for Microsoft Dynamics AX 2012</a> and the topic <a href="rus-set-up-import-of-exchange-rates.md">(RUS) Set up import of exchange rates</a>.</p></td>
+<p>For more information, see the white paper <a href="https://www.microsoft.com/en-us/download/details.aspx?id=36047">Creating Exchange Rate Providers for Microsoft Dynamics AX 2012</a> and the topic <a href="rus-set-up-import-of-exchange-rates.md">(RUS) Set up import of exchange rates</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Shared lists of main accounts</p></td>

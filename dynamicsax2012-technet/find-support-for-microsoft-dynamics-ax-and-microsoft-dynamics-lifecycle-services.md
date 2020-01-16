@@ -95,22 +95,22 @@ To obtain support for Azure, use the resources listed in the following table.
 <tr class="odd">
 <td><img src="images/Dn756358.Azure_Support_Billing(AX.60).png" title="Get assistance with billing-related questions" alt="Get assistance with billing-related questions" /></td>
 <td><p>Get assistance with billing-related questions</p></td>
-<td><p>Go to the <a href="https://azure.microsoft.com/en-us/support/understand-your-bill/">Understand your bill</a> page to get an overview of the Azure billing process, links to sample invoices, and information about how to download daily usage data for the current billing period.</p></td>
+<td><p>Go to the <a href="https://azure.microsoft.com/support/understand-your-bill/">Understand your bill</a> page to get an overview of the Azure billing process, links to sample invoices, and information about how to download daily usage data for the current billing period.</p></td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn756358.Azure_Doc_Community(AX.60).png" title="Ask the community" alt="Ask the community" /></td>
 <td><p>Ask the community</p></td>
-<td><p>Go to the <a href="http://www.windowsazure.com/en-us/support/forums/">Azure forums</a> page to get help with your questions from the Azure community.</p></td>
+<td><p>Go to the <a href="https://www.windowsazure.com/en-us/support/forums/">Azure forums</a> page to get help with your questions from the Azure community.</p></td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn756358.Azure_Support_Dashboard(AX.60).png" title="Use the Azure services dashboard" alt="Use the Azure services dashboard" /></td>
 <td><p>Use the Azure services dashboard</p></td>
-<td><p>Go to the <a href="http://www.windowsazure.com/en-us/support/service-dashboard/">Azure services dashboard</a> page to get the current health status of the Azure platform and services.</p></td>
+<td><p>Go to the <a href="https://www.windowsazure.com/en-us/support/service-dashboard/">Azure services dashboard</a> page to get the current health status of the Azure platform and services.</p></td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn756358.Azure_Support_Ticket(AX.60).png" title="Enter a support ticket" alt="Enter a support ticket" /></td>
 <td><p>Enter a support ticket with the Azure support team</p></td>
-<td><p>Go to the <a href="http://www.windowsazure.com/en-us/support/options/">Azure support options</a> page, and click <strong>Get Support</strong> to open a support ticket. Sign in using your Microsoft account.</p>
+<td><p>Go to the <a href="https://www.windowsazure.com/en-us/support/options/">Azure support options</a> page, and click <strong>Get Support</strong> to open a support ticket. Sign in using your Microsoft account.</p>
 <p>The Azure support team can help you resolve issues related to:</p>
 <ul>
 <li><p>Requests to increase the size of your Azure subscription</p></li>

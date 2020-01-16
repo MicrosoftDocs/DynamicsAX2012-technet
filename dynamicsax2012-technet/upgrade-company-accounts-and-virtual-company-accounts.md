@@ -79,7 +79,7 @@ The following table provides an overview of how domains, companies, and virtual 
 
 
 > [!NOTE]
-> <P>If you want to help secure shared data based on organization, you may have to create a customization that includes changes to the data model and extensible data security policies. For more information about extensible data security policies, see the white paper <A href="http://www.microsoft.com/download/en/details.aspx?id=3110">Developing Extensible Data Security Policies</A>.</P>
+> <P>If you want to help secure shared data based on organization, you may have to create a customization that includes changes to the data model and extensible data security policies. For more information about extensible data security policies, see the white paper <A href="https://www.microsoft.com/download/en/details.aspx?id=3110">Developing Extensible Data Security Policies</A>.</P>
 
 
   

@@ -28,7 +28,7 @@ The following tools are available to help you automate the processing of cubes:
 
   - **SQL Server Integration Services**
     
-    SQL Server Integration Services is a platform that is used to build enterprise-level data integration and data transformation solutions. You can use an Integration Services package to automatically process cubes. The package that you create should include at least two **Analysis Services Processing** tasks. The first task should process the dimensions, and the second task should process the cubes. For more information, see the [Analysis Services Processing Task](https://technet.microsoft.com/library/ms141779.aspx) topic and the [Cube Processing](http://social.technet.microsoft.com/forums/en-us/sqldatawarehousing/thread/208d3553-f92a-4929-8747-9002fda68fb7) discussion.
+    SQL Server Integration Services is a platform that is used to build enterprise-level data integration and data transformation solutions. You can use an Integration Services package to automatically process cubes. The package that you create should include at least two **Analysis Services Processing** tasks. The first task should process the dimensions, and the second task should process the cubes. For more information, see the [Analysis Services Processing Task](https://technet.microsoft.com/library/ms141779.aspx) topic and the [Cube Processing](https://social.technet.microsoft.com/forums/en-us/sqldatawarehousing/thread/208d3553-f92a-4929-8747-9002fda68fb7) discussion.
 
 ## Manual processing
 

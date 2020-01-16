@@ -49,7 +49,7 @@ static implicit operator CommercePropertyValue^ (
 #### Parameters
 
   - value  
-    Type: [System.Byte](https://msdn.microsoft.com/en-us/library/yyb1w04y\(v=ax.60\)) 
+    Type: [System.Byte](https://msdn.microsoft.com/library/yyb1w04y\(v=ax.60\)) 
 
 #### Return Value
 

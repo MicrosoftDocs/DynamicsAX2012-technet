@@ -16,10 +16,10 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Welcome to the Microsoft Dynamics AX 2012 Application User and IT Professional Technical Library. This library contains updated content that explains how to deploy, configure, and use Microsoft Dynamics AX 2012.
 
-For developer content please see the [Microsoft Dynamics AX Developer Library](https://docs.microsoft.com/en-us/dynamicsax-2012/developer/microsoft-dynamics-ax-2012-for-developers).
+For developer content please see the [Microsoft Dynamics AX Developer Library](https://docs.microsoft.com/dynamicsax-2012/developer/microsoft-dynamics-ax-2012-for-developers).
 
 > [!Note]
-> Mainstream support for Dynamics AX 2012 and Dynamics AX 2012 R2 ends on October 9, 2018. After that date, only security hotfixes will continue to be provided for these versions through the extended support period that continues until October 12, 2021. For more information, see [End of mainstream support for Microsoft Dynamics AX 2009, Dynamics AX 2012, and Dynamics AX 2012 R2](https://docs.microsoft.com/en-us/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012).
+> Mainstream support for Dynamics AX 2012 and Dynamics AX 2012 R2 ends on October 9, 2018. After that date, only security hotfixes will continue to be provided for these versions through the extended support period that continues until October 12, 2021. For more information, see [End of mainstream support for Microsoft Dynamics AX 2009, Dynamics AX 2012, and Dynamics AX 2012 R2](https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012).
 
 ## Get started
 
@@ -65,7 +65,7 @@ To start working with Microsoft Dynamics AX 2012, review the following resources
 <li><p><a href="the-microsoft-dynamics-ax-client.md">The Microsoft Dynamics AX client</a></p></li>
 <li><p><a href="application-object-servers.md">Application Object Servers</a></p></li>
 <li><p><a href="reporting-in-microsoft-dynamics-ax.md">Reporting in Microsoft Dynamics AX</a></p></li>
-<li><p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=5916">Management Reporter 2012</a></p></li>
+<li><p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=5916">Management Reporter 2012</a></p></li>
 <li><p><a href="analytics-in-microsoft-dynamics-ax.md">Analytics in Microsoft Dynamics AX</a></p></li>
 <li><p><a href="help-server.md">Help server</a></p></li>
 <li><p><a href="enterprise-portal-and-role-centers.md">Enterprise Portal and Role Centers</a></p></li>
@@ -157,7 +157,7 @@ See the following blogs for more information about Microsoft Dynamics AX.
 <li><p><a href="https://blogs.msdn.com/b/aksheygupta/">Akshey Gupta</a></p></li>
 <li><p><a href="https://blogs.msdn.com/b/chrisgarty/">Chris Garty</a></p></li>
 <li><p><a href="https://blogs.msdn.com/b/bwelcker/">Brian Welcker</a></p></li>
-<li><p><a href="http://blogs.technet.com/b/tompatton/">Tom Patton</a></p></li>
+<li><p><a href="https://blogs.technet.com/b/tompatton/">Tom Patton</a></p></li>
 <li><p><a href="https://blogs.msdn.com/b/lcash/">Lachlan Cash</a></p></li>
 <li><p><a href="https://go.microsoft.com/fwlink/?linkid=221072">Michael Fruergaard Pontoppidan</a></p></li>
 </ul></td>

@@ -62,7 +62,7 @@ Want to try it out? You can download and run the app in demonstration mode, whic
 
 For more information about all the companion applications that are supported for Microsoft Dynamics AX 2012 R3, visit the [Companion Apps for Microsoft Dynamics AX](https://mbs.microsoft.com/cms/templates/document/general.aspx?nrmode=published%26nrnodeguid=%7bdcec1b81-755e-436d-acf2-e78afb7932ee%7d%26nroriginalurl=/customersource/newsevents/news/msdyn_mobileappsax.htm?printpage=false%26sid=uocgj4djd30zj4jxj01mjvsq%26stext=mobile%26nrcachehint=guest%26sid=uocgj4djd30zj) page on Customer Source.
 
-For guidance and samples that can help you learn about the patterns and approaches that are used to develop mobile applications for AX 2012 R2, see the [Developing Mobile Apps for Microsoft Dynamics AX 2012](http://www.microsoft.com/en-us/download/details.aspx?id=38413) white paper.
+For guidance and samples that can help you learn about the patterns and approaches that are used to develop mobile applications for AX 2012 R2, see the [Developing Mobile Apps for Microsoft Dynamics AX 2012](https://www.microsoft.com/en-us/download/details.aspx?id=38413) white paper.
 
   
 

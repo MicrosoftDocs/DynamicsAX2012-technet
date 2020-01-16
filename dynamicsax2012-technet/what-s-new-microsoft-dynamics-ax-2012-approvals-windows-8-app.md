@@ -68,9 +68,9 @@ This app is available in the [Windows App Store](https://apps.microsoft.com/wind
 
 For information about how to install and configure the Microsoft Dynamics AX Connector for Mobile Applications, see the [Configure Microsoft Dynamics AX Connector for Mobile Applications](https://mbs.microsoft.com/downloads/partner/ax/configuremicrosoftdynamicsaxconnectorformobileapplications.docx) white paper.
 
-For information about how to set up AX 2012 R2 workflow so that users can view and approve workflow actions via email on any device, see the [Microsoft Dynamics AX 2012 R2 Workflow Approval via Email](http://www.microsoft.com/en-us/download/details.aspx?id=37002) white paper.
+For information about how to set up AX 2012 R2 workflow so that users can view and approve workflow actions via email on any device, see the [Microsoft Dynamics AX 2012 R2 Workflow Approval via Email](https://www.microsoft.com/en-us/download/details.aspx?id=37002) white paper.
 
-For guidance and samples that can help you learn about the patterns and approaches that are used to develop mobile applications for AX 2012 R2, see the [Developing Mobile Apps for Microsoft Dynamics AX 2012](http://www.microsoft.com/en-us/download/details.aspx?id=38413) white paper.
+For guidance and samples that can help you learn about the patterns and approaches that are used to develop mobile applications for AX 2012 R2, see the [Developing Mobile Apps for Microsoft Dynamics AX 2012](https://www.microsoft.com/en-us/download/details.aspx?id=38413) white paper.
 
   
 

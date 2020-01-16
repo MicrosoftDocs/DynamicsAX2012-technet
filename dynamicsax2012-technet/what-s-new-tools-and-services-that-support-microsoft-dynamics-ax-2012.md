@@ -123,7 +123,7 @@ There are a number of tools and services that support Microsoft Dynamics AX 2012
 <ul>
 <li><p><a href="what-s-new-performance-benchmark-software-development-toolkit-sdk-for-microsoft-dynamics-ax-2012.md">What's new: Performance Benchmark Software Development Toolkit (SDK) for Microsoft Dynamics AX 2012</a></p></li>
 <li><p><a href="performance-benchmark-software-development-toolkit-sdk-for-microsoft-dynamics-ax-2012.md">Performance Benchmark Software Development Toolkit (SDK) for Microsoft Dynamics AX 2012</a></p></li>
-<li><p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=39082">Microsoft Dynamics AX 2012 Performance Benchmark SDK whitepaper</a></p></li>
+<li><p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=39082">Microsoft Dynamics AX 2012 Performance Benchmark SDK whitepaper</a></p></li>
 </ul></td>
 </tr>
 <tr class="odd">

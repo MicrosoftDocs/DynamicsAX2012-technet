@@ -45,7 +45,7 @@ Be sure to review the following information before you install Microsoft Dynamic
 <div class="alert">
 
 > [!NOTE]
-> <P>This is secure content that is available on the <A href="http://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
+> <P>This is secure content that is available on the <A href="https://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
 
 
 </div></td>
@@ -136,7 +136,7 @@ Use the following resources after you install Microsoft Dynamics AX 2012.
 <div class="alert">
 
 > [!NOTE]
-> <P>This is secure content that is available on the <A href="http://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
+> <P>This is secure content that is available on the <A href="https://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
 
 
 </div></td>
@@ -147,7 +147,7 @@ Use the following resources after you install Microsoft Dynamics AX 2012.
 <div class="alert">
 
 > [!NOTE]
-> <P>This is secure content that is available on the <A href="http://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
+> <P>This is secure content that is available on the <A href="https://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
 
 
 </div></td>

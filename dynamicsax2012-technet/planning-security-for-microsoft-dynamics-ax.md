@@ -209,13 +209,13 @@ For information about Microsoft Dynamics AX 2012 database security, see [Data se
 
 ## Microsoft security resources on TechNet
 
-[Security Tech Center](http://technet.microsoft.com/en-us/security/)
+[Security Tech Center](https://technet.microsoft.com//security/)
 
-[Microsoft Security Blog](http://blogs.technet.com/b/security/)
+[Microsoft Security Blog](https://blogs.technet.com/b/security/)
 
 [Security Guidance](https://technet.microsoft.com/library/cc184906.aspx)
 
-[Microsoft Security Bulletins](http://technet.microsoft.com/en-us/security/bulletin)
+[Microsoft Security Bulletins](https://technet.microsoft.com//security/bulletin)
 
 ## Other security resources
 

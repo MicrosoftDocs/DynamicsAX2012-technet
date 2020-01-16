@@ -70,7 +70,7 @@ If you attempt to install Enterprise Portal on an existing IIS site that is alre
 
 ## Setup fails and the IIS application pool crashes when you attempt to install Enterprise Portal
 
-When installing Enterprise Portal and Role Centers, you may encounter the following error: “An error occurred when Setup was creating a new site. The underlying connection was closed: An unexpected error occurred on a receive. An existing connection was forcibly closed by the remote host.” This error occurs if SQL Server Analysis Management Objects (AMO) has not been installed on the Enterprise Portal server. To download AMO, download the **Microsoft SQL Server 2008 R2 Analysis Management Objects** package, which is included in the [Microsoft SQL Server 2008 R2 Feature Pack – June 2010](http://www.microsoft.com/downloads/en/details.aspx). After you install AMO, restart IIS and attempt to install Enterprise Portal again.
+When installing Enterprise Portal and Role Centers, you may encounter the following error: “An error occurred when Setup was creating a new site. The underlying connection was closed: An unexpected error occurred on a receive. An existing connection was forcibly closed by the remote host.” This error occurs if SQL Server Analysis Management Objects (AMO) has not been installed on the Enterprise Portal server. To download AMO, download the **Microsoft SQL Server 2008 R2 Analysis Management Objects** package, which is included in the [Microsoft SQL Server 2008 R2 Feature Pack – June 2010](https://www.microsoft.com/downloads/en/details.aspx). After you install AMO, restart IIS and attempt to install Enterprise Portal again.
 
 ## SharePoint Search stops working after you install Enterprise Portal
 

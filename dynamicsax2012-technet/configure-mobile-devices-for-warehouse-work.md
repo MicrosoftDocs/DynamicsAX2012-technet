@@ -288,7 +288,7 @@ To set up a menu item that will create work, follow these steps:
     <td> <p>
    
 	 Register the receipt of a quantity of an item, and create put away work for another worker.
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Dn553216.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/Dn553216.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 Use this option only if the items were shipped from a warehouse that is not enabled for warehouse management processes.
   </p> </td></tr></table></div></td>
@@ -298,7 +298,7 @@ To set up a menu item that will create work, follow these steps:
     <td> <p>
    
 	 Register the receipt of a quantity of an item, and put the items away. The same worker will perform both actions.
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Dn553216.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/Dn553216.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 Use this option only if the items were shipped from a warehouse that is not enabled for warehouse management processes. 
   </p> </td></tr></table></div></td>
@@ -379,7 +379,7 @@ To set up a menu item that will create work, follow these steps:
     <td> <p>
    
 	 Register that items have been transferred from one warehouse to another. This requires that the worker is allowed to perform work in both warehouses.
-  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/en-us/Dn553216.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
+  </p> <div class="alert"><table><tr><th align="left"><img runat="server" AltText="Note" src="https://technet.microsoft.com/Dn553216.alert_note(AX.60).gif" title="Note" alt="Note" /><strong>Note </strong></th></tr><tr><td> <p>
    
 	 This menu item requires a default inventory transfer journal with the Voucher draw field set to Posting. 
   </p> </td></tr></table></div></td>

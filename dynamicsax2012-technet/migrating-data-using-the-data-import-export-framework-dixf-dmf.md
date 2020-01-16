@@ -40,7 +40,7 @@ Data import is a complex process that usually requires several iterations. The i
 1.  Identify the data in your existing system that must be imported.
 2.  Consider cleaning up the data in your existing system. For example, determine whether old records can be deleted or archived, whether the current database contains duplicate records, and whether you want to change numbering schemes.
 3.  Become familiar with the relevant data structures in Microsoft Dynamics AX that the data from your existing system must be moved to. **Note:** Data from one table in another system might have to be moved into multiple tables in Microsoft Dynamics AX.
-4.  Determine the appropriate tools and techniques to use for the data that you must import. For a list of the tools that can be used, see [Plan data import, export, and migration](http://technet.microsoft.com/library/a05289fb-0f8f-4563-be3c-7c840bfea7e1(AX.60).aspx).
+4.  Determine the appropriate tools and techniques to use for the data that you must import. For a list of the tools that can be used, see [Plan data import, export, and migration](https://technet.microsoft.com/library/a05289fb-0f8f-4563-be3c-7c840bfea7e1(AX.60).aspx).
 5.  Prepare a test Microsoft Dynamics AX environment. Required configuration for master records must be completed before you import data.
 6.  Create a backup of your existing system and your Microsoft Dynamics AX environment before you import any data.
 7.  Perform a trial import of all types of data that are required. **Note:** Expect to encounter errors the first time that you perform an import. Review the errors that you encounter, make any fixes that are required, and perform the import again.

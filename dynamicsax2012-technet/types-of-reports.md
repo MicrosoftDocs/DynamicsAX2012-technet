@@ -91,7 +91,7 @@ The following table describes the types of reports that you can create by using 
   </p> <p>
    
 	 Application user
-  </p> </td><td> <p> <a href="http://www.microsoft.com/download/en/details.aspx?id=5916" runat="server">Microsoft Management Reporter: Installation, Migration, and Configuration Guides</a> </p> </td></tr> <tr><td rowspan="5"> <p> <strong>Analytical reports</strong> </p> <p>
+  </p> </td><td> <p> <a href="https://www.microsoft.com/download/en/details.aspx?id=5916" runat="server">Microsoft Management Reporter: Installation, Migration, and Configuration Guides</a> </p> </td></tr> <tr><td rowspan="5"> <p> <strong>Analytical reports</strong> </p> <p>
    
 	 Analytical reports retrieve data from Microsoft SQL Server Analysis Services cubes.
   </p> <p></p> <p></p> <p></p> <p></p> </td><td> <p>

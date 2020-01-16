@@ -81,7 +81,7 @@ We have changed and added functionality in the [Inventory management](inventory-
 <tr class="odd">
 <td><p>New report that identifies potential conflicts in transactions</p></td>
 <td><p>A new report, <strong>Potential conflicts - Inventory and General ledger</strong>, validates whether transactions from Inventory management and General ledger match the parameter settings in Accounts payable, Accounts receivable, Production information management, and Inventory. The report can be used to view a list of any transactions that violate one or more rules. For each violation, a corrective action is suggested.</p>
-<p>This functionality was developed for AX 2012 but is available for Microsoft Dynamics AX 2009. For more information, see the white paper <a href="http://www.microsoft.com/en-us/download/details.aspx?id=16245">Microsoft Dynamics AX Inventory Reconciliation and Reporting</a>. For additional helpful information, see the following blog post on the Dynamics AX in the field blog on MSDN: <a href="https://blogs.msdn.com/b/axinthefield/archive/2011/04/22/reconciling-inventory-to-gl-in-dynamics-ax.aspx">Reconciling Inventory to GL in Dynamics AX</a>.</p></td>
+<p>This functionality was developed for AX 2012 but is available for Microsoft Dynamics AX 2009. For more information, see the white paper <a href="https://www.microsoft.com/en-us/download/details.aspx?id=16245">Microsoft Dynamics AX Inventory Reconciliation and Reporting</a>. For additional helpful information, see the following blog post on the Dynamics AX in the field blog on MSDN: <a href="https://blogs.msdn.com/b/axinthefield/archive/2011/04/22/reconciling-inventory-to-gl-in-dynamics-ax.aspx">Reconciling Inventory to GL in Dynamics AX</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Report framework for configuring inventory value reports</p></td>
@@ -149,7 +149,7 @@ We have changed and added functionality in the [Inventory management](inventory-
 <li><p>A new parameter has been introduced that lets you specify the maximum number of items that can be processed at the same time by an inventory closing batch helper.</p></li>
 </ul>
 <p>Because of the change, the process flow is more efficient, and performance is enhanced. Additionally, insight and traceability of the current stage of the Inventory close and Recalculation jobs are improved when these jobs are run in a batch.</p>
-<p>For more information, see the white paper <a href="http://www.microsoft.com/en-us/download/details.aspx?id=35514">Inventory Close Performance Enhancements</a>.</p></td>
+<p>For more information, see the white paper <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35514">Inventory Close Performance Enhancements</a>.</p></td>
 </tr>
 </tbody>
 </table>

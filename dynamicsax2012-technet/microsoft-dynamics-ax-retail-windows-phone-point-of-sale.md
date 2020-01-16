@@ -37,7 +37,7 @@ The Windows Phone sample includes code for reports. To enable these reports, you
 <tr class="odd">
 <td><p>Install WCF Data Services RTM Tools Installer</p></td>
 <td><p>In order to generate server references, you need the WCF Data Services RTM Tools Installer. If you don’t have this version, the output will not be compatible with the Windows Phone architecture and the project will not compile.</p></td>
-<td><p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=39373">WCF Data Services RTM Tools Installer</a></p></td>
+<td><p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=39373">WCF Data Services RTM Tools Installer</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Install Silverlight libraries</p></td>

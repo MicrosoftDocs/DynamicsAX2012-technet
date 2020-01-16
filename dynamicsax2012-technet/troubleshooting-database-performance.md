@@ -24,7 +24,7 @@ In Microsoft Dynamics AX 2012, information about the user session can be include
 
 
 > [!IMPORTANT]
-> <P>This topic contains steps that describe how to modify the registry. However, serious problems might occur if you modify the registry incorrectly. Therefore, make sure that you follow these steps carefully. For additional protection, back up the registry before you modify it. You can then restore the registry if a problem occurs. For more information, see <A href="http://windows.microsoft.com/en-us/windows7/back-up-the-registry">Back up the registry</A>.</P>
+> <P>This topic contains steps that describe how to modify the registry. However, serious problems might occur if you modify the registry incorrectly. Therefore, make sure that you follow these steps carefully. For additional protection, back up the registry before you modify it. You can then restore the registry if a problem occurs. For more information, see <A href="https://windows.microsoft.com/en-us/windows7/back-up-the-registry">Back up the registry</A>.</P>
 
 
 

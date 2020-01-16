@@ -18,7 +18,7 @@ Group Policy provides an infrastructure that lets you centrally manage the confi
 
 When you publish the Microsoft Dynamics AX client by using Group Policy, the program becomes available from the **Install a program from the network** option in the **Programs and Features** Control Panel. Users can install the Microsoft Dynamics AX client by using the settings that you specify.
 
-For more information about Group Policy, see the [Group Policy Planning and Deployment Guide](http://technet.microsoft.com/library/cc754948\(v=ws.10\).aspx) on TechNet.
+For more information about Group Policy, see the [Group Policy Planning and Deployment Guide](https://technet.microsoft.com/library/cc754948\(v=ws.10\).aspx) on TechNet.
 
 ## Overview of the deployment process
 

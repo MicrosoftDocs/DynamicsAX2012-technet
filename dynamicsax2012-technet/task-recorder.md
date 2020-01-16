@@ -46,7 +46,7 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 
 [Use Task recorder to create documents and other training material](use-task-recorder-to-create-documents-and-other-training-material.md)
 
-[Task recorder update (white paper)](http://www.microsoft.com/en-us/download/details.aspx?id=39353)
+[Task recorder update (white paper)](https://www.microsoft.com/en-us/download/details.aspx?id=39353)
 
   
 

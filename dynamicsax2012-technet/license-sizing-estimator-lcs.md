@@ -42,7 +42,7 @@ In Microsoft Dynamics Lifecycle Services (LCS), License sizing estimator helps y
 
 You can define roles and their associated duties in several ways. License sizing estimator provides the default roles that are included in Microsoft Dynamics AX. You can use any of these predefined roles if they adequately describe the roles in the customer organization. If a predefined role doesn't meet the organization’s requirements, you can add duties or remove duties to model a custom role. You can also model a new role from the list of available duties. 
 
-**Important:** The roles that you define in License sizing estimator can't be exported to Microsoft Dynamics AX. To implement custom roles in Microsoft Dynamics AX, see [Set up user security in Microsoft Dynamics AX](http://technet.microsoft.com/library/a9eea83b-60bf-4690-8442-a459de3c2001(AX.60).aspx). 
+**Important:** The roles that you define in License sizing estimator can't be exported to Microsoft Dynamics AX. To implement custom roles in Microsoft Dynamics AX, see [Set up user security in Microsoft Dynamics AX](https://technet.microsoft.com/library/a9eea83b-60bf-4690-8442-a459de3c2001(AX.60).aspx). 
 
 After you define the roles in the organization, you can view a report that summarizes the information that you entered. This report automatically estimates the number and types of licenses that the organization requires. The estimate is based on the CAL levels that are required to perform the duties that are included in each role, and the number of people in each role. The estimate is also based on the way that users access Microsoft Dynamics AX. Users can access Microsoft Dynamics AX either as named users or through a licensed device.
 

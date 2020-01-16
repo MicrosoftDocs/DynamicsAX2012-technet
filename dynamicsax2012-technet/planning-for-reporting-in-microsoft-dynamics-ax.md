@@ -282,7 +282,7 @@ If you or anyone in your organization needs to create a new, custom report, seve
    
 	 Application user
   </p> </td>
-    <td> <p> <a href="http://www.microsoft.com/download/en/details.aspx?id=5916" runat="server">Microsoft Management Reporter: Installation, Migration, and Configuration Guides</a> </p> </td>
+    <td> <p> <a href="https://www.microsoft.com/download/en/details.aspx?id=5916" runat="server">Microsoft Management Reporter: Installation, Migration, and Configuration Guides</a> </p> </td>
   </tr>
   <tr>
     <td rowspan="5"> <p> <strong>Analytical reports</strong> </p> <p>

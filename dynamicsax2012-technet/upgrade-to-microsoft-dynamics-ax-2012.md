@@ -49,7 +49,7 @@ Be sure to review the following information before you upgrade to Microsoft Dyna
 <div class="alert">
 
 > [!NOTE]
-> <P>This is secure content that is available on the <A href="http://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
+> <P>This is secure content that is available on the <A href="https://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
 
 
 </div></td>
@@ -140,7 +140,7 @@ Use the following resources after you have upgraded to Microsoft Dynamics AX 201
 <div class="alert">
 
 > [!NOTE]
-> <P>This is secure content that is available on the <A href="http://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
+> <P>This is secure content that is available on the <A href="https://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
 
 
 </div></td>
@@ -151,7 +151,7 @@ Use the following resources after you have upgraded to Microsoft Dynamics AX 201
 <div class="alert">
 
 > [!NOTE]
-> <P>This is secure content that is available on the <A href="http://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
+> <P>This is secure content that is available on the <A href="https://www.microsoft.com/en-us/dynamics/customersource.aspx">CustomerSource</A> website.</P>
 
 
 </div></td>

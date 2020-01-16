@@ -129,7 +129,7 @@ The [Compare Tool](https://technet.microsoft.com/library/aa849010\(v=ax.60\)) ha
 
 Management Reporter is a tool that you should use to create financial reports. Management Reporter can now be installed when you install Microsoft Dynamics AX. For installation instructions, see [Install Management Reporter server components](install-management-reporter-server-components.md).
 
-For more information about how to configure and use Management Reporter, see the Management Reporter [configuration guide](http://www.microsoft.com/en-us/download/details.aspx?id=5916) and [blog](https://blogs.msdn.com/b/dynamicscpm/).
+For more information about how to configure and use Management Reporter, see the Management Reporter [configuration guide](https://www.microsoft.com/en-us/download/details.aspx?id=5916) and [blog](https://blogs.msdn.com/b/dynamicscpm/).
 
 ## New features in Microsoft Dynamics AX 2012 R2
 
