@@ -2,8 +2,9 @@
 title: " address verification service"
 TOCTitle: " address verification service"
 ms:assetid: DynamicsAXGlossary.1368085
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1368085(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1368085(v=AX.60)
 ms:contentKeyID: 36056815
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

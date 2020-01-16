@@ -1,9 +1,10 @@
-﻿---
+---
 title: Address.Equals Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Equals Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.DataModel.Address.Equals
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.address.equals(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.address.equals(v=AX.60)
 ms:contentKeyID: 49836018
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ dev_langs:
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
 <td><a href="address-equals-method-object-microsoft-dynamics-commerce-runtime-datamodel.md">Equals(Object)</a></td>
-<td>Indicates whether the current object is equal to another object of the same type. (Overrides <a href="https://technet.microsoft.com/en-us/library/bsc2ak47(v=ax.60)">Object.Equals(Object)</a>.)</td>
+<td>Indicates whether the current object is equal to another object of the same type. (Overrides <a href="https://technet.microsoft.com/library/bsc2ak47(v=ax.60)">Object.Equals(Object)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
