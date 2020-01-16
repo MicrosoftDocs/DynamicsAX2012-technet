@@ -2,7 +2,7 @@
 title: About BOM calculation of a suggested sales price
 TOCTitle: About BOM calculation of a suggested sales price
 ms:assetid: 67d59744-b8b9-4753-a470-a49bb8e29a69
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231564(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231564(v=AX.60)
 ms:contentKeyID: 36057943
 ms.date: 04/18/2014
 mtps_version: v=AX.60

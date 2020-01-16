@@ -2,7 +2,7 @@
 title: About cost groups
 TOCTitle: About cost groups
 ms:assetid: 0fe1d738-dde7-47fc-8d89-2c1281ecf15c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496553(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496553(v=AX.60)
 ms:contentKeyID: 36056021
 ms.date: 04/18/2014
 mtps_version: v=AX.60

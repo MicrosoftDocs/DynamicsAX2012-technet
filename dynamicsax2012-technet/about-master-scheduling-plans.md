@@ -2,7 +2,7 @@
 title: About master scheduling plans
 TOCTitle: About master scheduling plans
 ms:assetid: 8c30f003-4176-4f56-be45-a9b44621301a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498331(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498331(v=AX.60)
 ms:contentKeyID: 37072061
 ms.date: 04/18/2014
 mtps_version: v=AX.60

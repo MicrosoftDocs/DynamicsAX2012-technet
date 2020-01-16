@@ -2,7 +2,7 @@
 title: About order entry deadlines
 TOCTitle: About order entry deadlines
 ms:assetid: 69192fde-5223-46e6-832f-bbf0fed1e73b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571166(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571166(v=AX.60)
 ms:contentKeyID: 36057961
 ms.date: 04/18/2014
 mtps_version: v=AX.60

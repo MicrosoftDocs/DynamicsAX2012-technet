@@ -2,7 +2,7 @@
 title: About drilling down from an alert email message
 TOCTitle: About drilling down from an alert email message
 ms:assetid: 1a73e735-12e0-4aec-8c65-abae47122f69
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834337(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834337(v=AX.60)
 ms:contentKeyID: 46687534
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -2,7 +2,7 @@
 title: About cost control
 TOCTitle: About cost control
 ms:assetid: b7e41738-0330-4cd1-a008-335a036cba20
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232438(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232438(v=AX.60)
 ms:contentKeyID: 42117773
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -27,7 +27,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 You can use the **Cost control** form to help you monitor the costs that your organization incurs during a project. By comparing the original budgeted costs for the project with the current actual costs and the committed costs, you can determine whether the project is on track, over budget, or under budget.
 
-In the **Project management and accounting parameters** form, you can configure some of the options and default values that appear in the **Cost control** form. For example, you can decide whether your cost control method is based on the total budget or remaining budget of a project. For more information about how to configure cost control parameters, see [Cost control (form)](https://technet.microsoft.com/en-us/library/hh242864\(v=ax.60\)).
+In the **Project management and accounting parameters** form, you can configure some of the options and default values that appear in the **Cost control** form. For example, you can decide whether your cost control method is based on the total budget or remaining budget of a project. For more information about how to configure cost control parameters, see [Cost control (form)](https://technet.microsoft.com/library/hh242864\(v=ax.60\)).
 
 
 > [!NOTE]
@@ -109,15 +109,15 @@ On the **Deviation** tab in the **Cost control** form, you can view the differen
 
 ## See also
 
-[Cost control (form)](https://technet.microsoft.com/en-us/library/hh242864\(v=ax.60\))
+[Cost control (form)](https://technet.microsoft.com/library/hh242864\(v=ax.60\))
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
-[Committed costs (form)](https://technet.microsoft.com/en-us/library/hh209516\(v=ax.60\))
+[Committed costs (form)](https://technet.microsoft.com/library/hh209516\(v=ax.60\))
 
-[Ledger updates (form)](https://technet.microsoft.com/en-us/library/aa590206\(v=ax.60\))
+[Ledger updates (form)](https://technet.microsoft.com/library/aa590206\(v=ax.60\))
 
-[General ledger preview (form)](https://technet.microsoft.com/en-us/library/aa587482\(v=ax.60\))
+[General ledger preview (form)](https://technet.microsoft.com/library/aa587482\(v=ax.60\))
 
   
 

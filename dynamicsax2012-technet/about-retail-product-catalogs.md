@@ -2,7 +2,7 @@
 title: About retail product catalogs
 TOCTitle: About retail product catalogs
 ms:assetid: 8e37d8c7-926a-4460-a2a5-6b7d2a086323
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728697(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728697(v=AX.60)
 ms:contentKeyID: 49556626
 ms.date: 04/18/2014
 mtps_version: v=AX.60

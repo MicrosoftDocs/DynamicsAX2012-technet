@@ -2,7 +2,7 @@
 title: About question types
 TOCTitle: About question types
 ms:assetid: 2a853d6d-8386-440f-9f6a-b8cb41335a8d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580595(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580595(v=AX.60)
 ms:contentKeyID: 39519080
 ms.date: 04/18/2014
 mtps_version: v=AX.60

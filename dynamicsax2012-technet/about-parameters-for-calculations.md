@@ -2,7 +2,7 @@
 title: About parameters for calculations
 TOCTitle: About parameters for calculations
 ms:assetid: 1ff25cb2-5864-42af-a2c9-d7061228bba3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496784(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496784(v=AX.60)
 ms:contentKeyID: 36056156
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -151,9 +151,9 @@ When paid time is calculated, pay is generated from pay agreement lines in the p
 
 [About time and attendance registrations](about-time-and-attendance-registrations.md)
 
-[Time and attendance parameters (form)](https://technet.microsoft.com/en-us/library/aa634266\(v=ax.60\))
+[Time and attendance parameters (form)](https://technet.microsoft.com/library/aa634266\(v=ax.60\))
 
-[Calculation parameters (form)](https://technet.microsoft.com/en-us/library/aa584600\(v=ax.60\))
+[Calculation parameters (form)](https://technet.microsoft.com/library/aa584600\(v=ax.60\))
 
   
 

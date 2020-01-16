@@ -2,7 +2,7 @@
 title: About reimbursements (Public sector)
 TOCTitle: About reimbursements (Public sector)
 ms:assetid: 9819a2ef-105a-48e8-bcd4-b54afb911e83
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334467(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334467(v=AX.60)
 ms:contentKeyID: 36676451
 ms.date: 05/01/2014
 mtps_version: v=AX.60
@@ -599,7 +599,7 @@ In this example, the customer has overpaid, there are two credit notes from diff
 
 ## See also
 
-[Reimbursement (class form)](https://technet.microsoft.com/en-us/library/aa553712\(v=ax.60\))
+[Reimbursement (class form)](https://technet.microsoft.com/library/aa553712\(v=ax.60\))
 
   
 

@@ -2,7 +2,7 @@
 title: About sales price models
 TOCTitle: About sales price models
 ms:assetid: 02d4b589-6f84-4277-87d0-9411d5eec814
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569699(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569699(v=AX.60)
 ms:contentKeyID: 42117746
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -78,9 +78,9 @@ The following table describes the affect that each sales price model has on how 
 
 [Set up cost prices and sales prices for projects](set-up-cost-prices-and-sales-prices-for-projects.md)
 
-[Sales price - hour (form)](https://technet.microsoft.com/en-us/library/aa634053\(v=ax.60\))
+[Sales price - hour (form)](https://technet.microsoft.com/library/aa634053\(v=ax.60\))
 
-[Sales price - expenses (form)](https://technet.microsoft.com/en-us/library/aa599787\(v=ax.60\))
+[Sales price - expenses (form)](https://technet.microsoft.com/library/aa599787\(v=ax.60\))
 
 [About cost prices, sales prices, and transfer prices in projects](about-cost-prices-sales-prices-and-transfer-prices-in-projects.md)
 

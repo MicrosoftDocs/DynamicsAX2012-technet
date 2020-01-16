@@ -2,7 +2,7 @@
 title: About project beginning balances
 TOCTitle: About project beginning balances
 ms:assetid: 2e859c6c-17d0-4d4b-8ea3-2baa69bcf1e0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208530(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208530(v=AX.60)
 ms:contentKeyID: 36056279
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -88,9 +88,9 @@ On June 15, 2011, add another line for AMO. The new price EUR 20.00 is inserted 
 
 [Create a project beginning balance](create-a-project-beginning-balance.md)
 
-[Beginning balance journal (form)](https://technet.microsoft.com/en-us/library/hh209585\(v=ax.60\))
+[Beginning balance journal (form)](https://technet.microsoft.com/library/hh209585\(v=ax.60\))
 
-[Journal lines for beginning balances (form)](https://technet.microsoft.com/en-us/library/hh227479\(v=ax.60\))
+[Journal lines for beginning balances (form)](https://technet.microsoft.com/library/hh227479\(v=ax.60\))
 
   
 

@@ -2,7 +2,7 @@
 title: About project statements
 TOCTitle: About project statements
 ms:assetid: f025c1cf-8922-424a-a0d0-a55bd655c0fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551574(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551574(v=AX.60)
 ms:contentKeyID: 36966744
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -77,9 +77,9 @@ After a calculation has been run, the information is displayed on the following 
 
 [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md)
 
-[Project statements (form)](https://technet.microsoft.com/en-us/library/aa552521\(v=ax.60\))
+[Project statements (form)](https://technet.microsoft.com/library/aa552521\(v=ax.60\))
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
   
 

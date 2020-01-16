@@ -2,7 +2,7 @@
 title: About requirement types for operations resources
 TOCTitle: About requirement types for operations resources
 ms:assetid: 824b39e3-0cd6-4c4d-8e8a-5d3bdb062ca9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545525(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh545525(v=AX.60)
 ms:contentKeyID: 37832514
 ms.date: 09/16/2014
 mtps_version: v=AX.60
@@ -108,9 +108,9 @@ When you are defining requirements for a route, you can select from eight requir
 
 [Create and maintain operations resources](create-and-maintain-operations-resources.md)
 
-[Resources (operations resources)(form)](https://technet.microsoft.com/en-us/library/aa557962\(v=ax.60\))
+[Resources (operations resources)(form)](https://technet.microsoft.com/library/aa557962\(v=ax.60\))
 
-[Resource groups (operations resources)(form)](https://technet.microsoft.com/en-us/library/hh227450\(v=ax.60\))
+[Resource groups (operations resources)(form)](https://technet.microsoft.com/library/hh227450\(v=ax.60\))
 
   
 

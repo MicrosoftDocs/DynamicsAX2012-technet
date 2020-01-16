@@ -2,7 +2,7 @@
 title: About item reservations for orders
 TOCTitle: About item reservations for orders
 ms:assetid: 0f083678-98c4-4ff7-937b-de26d072cb9b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496414(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496414(v=AX.60)
 ms:contentKeyID: 36056014
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -52,7 +52,7 @@ Automatic item reservation is recommended in the following circumstances:
 > <P><STRONG>Expiration date</STRONG> – Items are not reserved if the current date is the expiration date.</P>
 > <LI>
 > <P><STRONG>Best before date</STRONG> – Items are reserved until midnight on the best before date.</P></LI></UL>
-> <P>For more information, see <A href="https://technet.microsoft.com/hh328695">(PM) Item model groups (form)</A> and <A href="https://technet.microsoft.com/en-us/library/hh227546(v=ax.60)">Best before as of date (form)</A>.</P>
+> <P>For more information, see <A href="https://technet.microsoft.com/hh328695">(PM) Item model groups (form)</A> and <A href="https://technet.microsoft.com/library/hh227546(v=ax.60)">Best before as of date (form)</A>.</P>
 
 
 
@@ -74,7 +74,7 @@ Manual item reservation is recommended in the following circumstances:
 
 ## See also
 
-[Item model groups (form)](https://technet.microsoft.com/en-us/library/aa577092\(v=ax.60\))
+[Item model groups (form)](https://technet.microsoft.com/library/aa577092\(v=ax.60\))
 
   
 

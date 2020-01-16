@@ -2,7 +2,7 @@
 title: About footer text for sales quotations and other sales documents
 TOCTitle: About footer text for sales quotations and other sales documents
 ms:assetid: 075fbc09-947a-4cfd-84bf-7a8e54d9ca32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569725(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569725(v=AX.60)
 ms:contentKeyID: 37822136
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -43,7 +43,7 @@ Footer text is printed on all pages of a document. For example, if the original 
 
 ## See also
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
 [About print management document types and modules](about-print-management-document-types-and-modules.md)
 

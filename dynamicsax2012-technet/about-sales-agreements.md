@@ -2,7 +2,7 @@
 title: About sales agreements
 TOCTitle: About sales agreements
 ms:assetid: 987e841f-9a5c-4dc8-8620-0f84caae9619
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498438(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498438(v=AX.60)
 ms:contentKeyID: 36058679
 ms.date: 04/18/2014
 mtps_version: v=AX.60

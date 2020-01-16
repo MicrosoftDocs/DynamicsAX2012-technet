@@ -2,7 +2,7 @@
 title: About batch order sequencing
 TOCTitle: About batch order sequencing
 ms:assetid: df786d57-feb8-4fbb-8830-ff72f9b08fb8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838751(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838751(v=AX.60)
 ms:contentKeyID: 50120634
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -45,25 +45,25 @@ You can perform the following tasks for batch order sequencing:
 
 ## See also
 
-[Sequences (form)](https://technet.microsoft.com/en-us/library/jj838758\(v=ax.60\))
+[Sequences (form)](https://technet.microsoft.com/library/jj838758\(v=ax.60\))
 
-[Sequence group (form)](https://technet.microsoft.com/en-us/library/jj838755\(v=ax.60\))
+[Sequence group (form)](https://technet.microsoft.com/library/jj838755\(v=ax.60\))
 
-[Sequence item (form)](https://technet.microsoft.com/en-us/library/jj838760\(v=ax.60\))
+[Sequence item (form)](https://technet.microsoft.com/library/jj838760\(v=ax.60\))
 
-[(PM) Resources (form)](https://technet.microsoft.com/en-us/library/jj838773\(v=ax.60\))
+[(PM) Resources (form)](https://technet.microsoft.com/library/jj838773\(v=ax.60\))
 
-[(PM) Resource groups (form)](https://technet.microsoft.com/en-us/library/jj838756\(v=ax.60\))
+[(PM) Resource groups (form)](https://technet.microsoft.com/library/jj838756\(v=ax.60\))
 
-[(PM) Master plans (form)](https://technet.microsoft.com/en-us/library/jj838759\(v=ax.60\))
+[(PM) Master plans (form)](https://technet.microsoft.com/library/jj838759\(v=ax.60\))
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
-[Route groups (form)](https://technet.microsoft.com/en-us/library/aa596433\(v=ax.60\))
+[Route groups (form)](https://technet.microsoft.com/library/aa596433\(v=ax.60\))
 
-[Route (form)](https://technet.microsoft.com/en-us/library/aa550121\(v=ax.60\))
+[Route (form)](https://technet.microsoft.com/library/aa550121\(v=ax.60\))
 
-[Operations (form)](https://technet.microsoft.com/en-us/library/aa548958\(v=ax.60\))
+[Operations (form)](https://technet.microsoft.com/library/aa548958\(v=ax.60\))
 
   
 

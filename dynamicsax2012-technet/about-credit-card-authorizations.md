@@ -2,7 +2,7 @@
 title: About credit card authorizations
 TOCTitle: About credit card authorizations
 ms:assetid: 9656981e-9988-40ef-822b-57980706188f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232216(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232216(v=AX.60)
 ms:contentKeyID: 36058629
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -77,13 +77,13 @@ When you enter sales orders, you can enter new credit card records for new or ex
 
 [Set up credit card authorizations](set-up-credit-card-authorizations.md)
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
-[Credit card types (form)](https://technet.microsoft.com/en-us/library/hh209565\(v=ax.60\))
+[Credit card types (form)](https://technet.microsoft.com/library/hh209565\(v=ax.60\))
 
-[Customer credit cards (form)](https://technet.microsoft.com/en-us/library/hh227616\(v=ax.60\))
+[Customer credit cards (form)](https://technet.microsoft.com/library/hh227616\(v=ax.60\))
 
-[Payment services (form)](https://technet.microsoft.com/en-us/library/hh227622\(v=ax.60\))
+[Payment services (form)](https://technet.microsoft.com/library/hh227622\(v=ax.60\))
 
   
 

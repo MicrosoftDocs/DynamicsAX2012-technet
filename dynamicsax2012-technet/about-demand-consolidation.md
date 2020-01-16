@@ -2,7 +2,7 @@
 title: About demand consolidation
 TOCTitle: About demand consolidation
 ms:assetid: 7d243b18-571a-4733-b751-2239a7e2c5ae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209280(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209280(v=AX.60)
 ms:contentKeyID: 36058294
 ms.date: 05/02/2014
 mtps_version: v=AX.60

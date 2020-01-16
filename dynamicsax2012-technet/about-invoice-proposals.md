@@ -2,7 +2,7 @@
 title: About invoice proposals
 TOCTitle: About invoice proposals
 ms:assetid: a0f5cfd4-ff8a-47a9-9b9d-47010ba8178c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571807(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571807(v=AX.60)
 ms:contentKeyID: 36058771
 ms.date: 10/06/2014
 mtps_version: v=AX.60
@@ -45,7 +45,7 @@ Invoice proposals can be created for the following transactions:
 
 If you want to create multiple customer invoices for a project, you must create an invoice proposal for each invoice. For example, you can create invoices based on transaction type. If you want to specify hours on one customer invoice and items on another, you must create an invoice proposal for hour transactions and a separate invoice proposal for fee transactions.
 
-If a project has more than one funding source, you can create an individual invoice proposal for each funding source. In the **Funding rule allocations** form, you can define the percentage of the transaction amount that you want to allocate to each funding source. For more information about how to create funding rules, see [Funding rule allocations (class form)](https://technet.microsoft.com/en-us/library/hh209480\(v=ax.60\)).
+If a project has more than one funding source, you can create an individual invoice proposal for each funding source. In the **Funding rule allocations** form, you can define the percentage of the transaction amount that you want to allocate to each funding source. For more information about how to create funding rules, see [Funding rule allocations (class form)](https://technet.microsoft.com/library/hh209480\(v=ax.60\)).
 
 **Creating customer invoices from invoice proposals**
 
@@ -61,11 +61,11 @@ You can add or delete transactions in an invoice proposal before you post it. Fo
 
 ## See also
 
-[Create invoice proposals (class form)](https://technet.microsoft.com/en-us/library/aa600958\(v=ax.60\))
+[Create invoice proposals (class form)](https://technet.microsoft.com/library/aa600958\(v=ax.60\))
 
-[Invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa615408\(v=ax.60\))
+[Invoice proposals (form)](https://technet.microsoft.com/library/aa615408\(v=ax.60\))
 
-[Funding rule allocations (class form)](https://technet.microsoft.com/en-us/library/hh209480\(v=ax.60\))
+[Funding rule allocations (class form)](https://technet.microsoft.com/library/hh209480\(v=ax.60\))
 
 [Invoicing](invoicing.md)
 

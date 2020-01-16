@@ -2,7 +2,7 @@
 title: About catch weight items
 TOCTitle: About catch weight items
 ms:assetid: d0714a35-3569-4001-89e8-a601246db894
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242918(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242918(v=AX.60)
 ms:contentKeyID: 36059488
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -63,7 +63,7 @@ When you reserve inventory for a catch weight item that uses full visibility and
 
 [Create a catch weight item with partial visibility](create-a-catch-weight-item-with-partial-visibility.md)
 
-[Unit conversions (form)](https://technet.microsoft.com/en-us/library/hh209285\(v=ax.60\))
+[Unit conversions (form)](https://technet.microsoft.com/library/hh209285\(v=ax.60\))
 
   
 

@@ -2,7 +2,7 @@
 title: About centralized customer payments
 TOCTitle: About centralized customer payments
 ms:assetid: 870990b7-23a1-464a-8d11-a86ef544c3dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213183(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213183(v=AX.60)
 ms:contentKeyID: 36058420
 ms.date: 07/01/2015
 mtps_version: v=AX.60

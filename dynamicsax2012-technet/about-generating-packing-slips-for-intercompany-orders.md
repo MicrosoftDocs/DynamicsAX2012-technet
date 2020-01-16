@@ -2,7 +2,7 @@
 title: About generating packing slips for intercompany orders
 TOCTitle: About generating packing slips for intercompany orders
 ms:assetid: af60ec28-23c9-41d4-9a22-25324b1669cf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498635(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498635(v=AX.60)
 ms:contentKeyID: 36058953
 ms.date: 04/18/2014
 mtps_version: v=AX.60

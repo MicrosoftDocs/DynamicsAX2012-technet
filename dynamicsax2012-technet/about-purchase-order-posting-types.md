@@ -2,7 +2,7 @@
 title: About purchase order posting types
 TOCTitle: About purchase order posting types
 ms:assetid: ec431d61-43ba-4a83-899b-dae5b3cea030
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551524(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551524(v=AX.60)
 ms:contentKeyID: 44081060
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -77,15 +77,15 @@ Posting definitions are available only when the **Use posting definitions** chec
 
 ## See also
 
-[Item posting (form)](https://technet.microsoft.com/en-us/library/aa589971\(v=ax.60\))
+[Item posting (form)](https://technet.microsoft.com/library/aa589971\(v=ax.60\))
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
-[Purchase posting (form)](https://technet.microsoft.com/en-us/library/aa587152\(v=ax.60\))
+[Purchase posting (form)](https://technet.microsoft.com/library/aa587152\(v=ax.60\))
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
-[Transaction posting definitions (form)](https://technet.microsoft.com/en-us/library/hh242550\(v=ax.60\))
+[Transaction posting definitions (form)](https://technet.microsoft.com/library/hh242550\(v=ax.60\))
 
 [About posting definitions](about-posting-definitions.md)
 

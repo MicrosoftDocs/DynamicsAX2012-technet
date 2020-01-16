@@ -2,7 +2,7 @@
 title: About changing and deleting an original sales order
 TOCTitle: About changing and deleting an original sales order
 ms:assetid: 1075b24d-db09-44ff-9806-fa305beed853
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496562(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496562(v=AX.60)
 ms:contentKeyID: 36056027
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -2,7 +2,7 @@
 title: About master scheduling - how the BOM version is determined
 TOCTitle: About master scheduling - how the BOM version is determined
 ms:assetid: 62874701-f17e-4129-a2e4-dc33816a7177
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231533(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231533(v=AX.60)
 ms:contentKeyID: 36057673
 ms.date: 04/18/2014
 mtps_version: v=AX.60

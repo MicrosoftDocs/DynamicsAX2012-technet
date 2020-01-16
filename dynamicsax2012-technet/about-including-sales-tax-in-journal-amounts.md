@@ -2,7 +2,7 @@
 title: About including sales tax in journal amounts
 TOCTitle: About including sales tax in journal amounts
 ms:assetid: 220f9c76-2e03-4a52-8d28-0eca0c0c3860
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496794(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496794(v=AX.60)
 ms:contentKeyID: 39519066
 ms.date: 04/18/2014
 mtps_version: v=AX.60

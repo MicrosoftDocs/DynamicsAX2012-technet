@@ -2,7 +2,7 @@
 title: About service orders
 TOCTitle: About service orders
 ms:assetid: ce4c151a-293e-4210-9f2a-abf90b93aeab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572693(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572693(v=AX.60)
 ms:contentKeyID: 37008250
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -66,7 +66,7 @@ One of the other service orders that was generated for the month of January beco
 
 ## Posting from projects
 
-At the end of each week, the dispatcher wants to post all service orders that are attached to a specific project. Therefore, the dispatcher locates the relevant project in the **Projects** form and posts the service orders that have been completed. For more information, see [Post service orders (class form)](https://technet.microsoft.com/en-us/library/aa574685\(v=ax.60\)).
+At the end of each week, the dispatcher wants to post all service orders that are attached to a specific project. Therefore, the dispatcher locates the relevant project in the **Projects** form and posts the service orders that have been completed. For more information, see [Post service orders (class form)](https://technet.microsoft.com/library/aa574685\(v=ax.60\)).
 
 ## Deleting service orders
 
@@ -74,7 +74,7 @@ During the second half of the year, your customer decides that the service visit
 
 ## See also
 
-[Service orders (form)](https://technet.microsoft.com/en-us/library/aa554361\(v=ax.60\))
+[Service orders (form)](https://technet.microsoft.com/library/aa554361\(v=ax.60\))
 
   
 

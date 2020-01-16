@@ -2,7 +2,7 @@
 title: About registering item consumption
 TOCTitle: About registering item consumption
 ms:assetid: 69d6d58e-e0bd-4ff6-9785-d2c64294b30c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571173(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571173(v=AX.60)
 ms:contentKeyID: 36057974
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -107,13 +107,13 @@ The following table lists methods for ordering items and describes how the items
 
 [Consume item requirements in a project](consume-item-requirements-in-a-project.md)
 
-[Released product details (form)](https://technet.microsoft.com/en-us/library/aa615563\(v=ax.60\))
+[Released product details (form)](https://technet.microsoft.com/library/aa615563\(v=ax.60\))
 
-[Item requirements (form)](https://technet.microsoft.com/en-us/library/aa552021\(v=ax.60\))
+[Item requirements (form)](https://technet.microsoft.com/library/aa552021\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
   
 

@@ -2,7 +2,7 @@
 title: About on-account invoicing
 TOCTitle: About on-account invoicing
 ms:assetid: 726a7149-f1f9-42a9-91ca-b03ff7740033
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549984(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549984(v=AX.60)
 ms:contentKeyID: 42517327
 ms.date: 10/06/2014
 mtps_version: v=AX.60

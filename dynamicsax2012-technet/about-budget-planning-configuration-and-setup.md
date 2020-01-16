@@ -2,7 +2,7 @@
 title: About budget planning configuration and setup
 TOCTitle: About budget planning configuration and setup
 ms:assetid: 55f65750-dffd-4217-bba2-ab452aa2ed7f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677339(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677339(v=AX.60)
 ms:contentKeyID: 49384113
 ms.date: 11/14/2014
 mtps_version: v=AX.60
@@ -37,7 +37,7 @@ This topic contains information to help you configure budget planning and set up
 
 Before you configure budget planning, review the budget planning requirements in [Budget planning overview](budget-planning-overview.md). Budget planning requirements that you must complete before you configure budget planning include setting up the budget organization hierarchy, creating budget plan templates, and setting up Budgeting workflows.
 
-After you complete the budget planning requirements, you can configure budgeting planning by using the **Budget planning configuration** form. For more information, see “Configure budget planning” in [Key tasks: Configure budget planning and set up budget planning processes](key-tasks-configure-budget-planning-and-set-up-budget-planning-processes.md). For more information about the **Budget planning configuration** form, see [Budget planning configuration (form)](https://technet.microsoft.com/en-us/library/jj677418\(v=ax.60\)).
+After you complete the budget planning requirements, you can configure budgeting planning by using the **Budget planning configuration** form. For more information, see “Configure budget planning” in [Key tasks: Configure budget planning and set up budget planning processes](key-tasks-configure-budget-planning-and-set-up-budget-planning-processes.md). For more information about the **Budget planning configuration** form, see [Budget planning configuration (form)](https://technet.microsoft.com/library/jj677418\(v=ax.60\)).
 
 The following areas are covered in this section:
 
@@ -257,9 +257,9 @@ Back to top
 
 In budget planning, the amounts or quantities in budget plan lines can be allocated between source scenarios and destination scenarios. Although the source scenario and destination scenario typically differ, they can be the same. You can perform allocations by using the following allocation methods:
 
-  - **Allocate across periods** – The budget plan lines are allocated from the source budget plan scenario across periods in the destination scenario by using a period allocation key. Before you can allocate across periods, you must set up period allocation keys in the **Period allocation categories** form. For more information, see [Period allocation categories (form)](https://technet.microsoft.com/en-us/library/aa582352\(v=ax.60\)).
+  - **Allocate across periods** – The budget plan lines are allocated from the source budget plan scenario across periods in the destination scenario by using a period allocation key. Before you can allocate across periods, you must set up period allocation keys in the **Period allocation categories** form. For more information, see [Period allocation categories (form)](https://technet.microsoft.com/library/aa582352\(v=ax.60\)).
 
-  - **Allocate to dimensions** – The budget plan lines are allocated from the source budget plan scenario across the financial dimensions in the destination scenario. Before you can allocate to dimensions, you must set up budget allocation terms in the **Budget allocation terms** form. For more information, see [Budget allocation terms (form)](https://technet.microsoft.com/en-us/library/hh209569\(v=ax.60\)).
+  - **Allocate to dimensions** – The budget plan lines are allocated from the source budget plan scenario across the financial dimensions in the destination scenario. Before you can allocate to dimensions, you must set up budget allocation terms in the **Budget allocation terms** form. For more information, see [Budget allocation terms (form)](https://technet.microsoft.com/library/hh209569\(v=ax.60\)).
 
   - **Aggregate** – The budget plan lines are aggregated from the source scenario in the associated budget plans to the destination scenario in the parent budget plan.
 
@@ -291,7 +291,7 @@ Back to top
 
 ## Setting up budget planning processes
 
-You set up budgeting planning processes in the **Budget planning process** form. For more information, see “Set up budget planning processes” in [Key tasks: Configure budget planning and set up budget planning processes](key-tasks-configure-budget-planning-and-set-up-budget-planning-processes.md). For more information about the **Budget planning process** form, see [Budget planning process (form)](https://technet.microsoft.com/en-us/library/jj677441\(v=ax.60\)).
+You set up budgeting planning processes in the **Budget planning process** form. For more information, see “Set up budget planning processes” in [Key tasks: Configure budget planning and set up budget planning processes](key-tasks-configure-budget-planning-and-set-up-budget-planning-processes.md). For more information about the **Budget planning process** form, see [Budget planning process (form)](https://technet.microsoft.com/library/jj677441\(v=ax.60\)).
 
 After you configure budget planning, you can set up budget planning processes. For each budget planning process, you select a budget cycle and a ledger. Then you select the budget organization hierarchy, scenarios, stages, and workflows for the budget planning process.
 
@@ -321,9 +321,9 @@ Back to top
 
 [Configure budget planning security](configure-budget-planning-security.md)
 
-[Budget planning configuration (form)](https://technet.microsoft.com/en-us/library/jj677418\(v=ax.60\))
+[Budget planning configuration (form)](https://technet.microsoft.com/library/jj677418\(v=ax.60\))
 
-[Budget planning process (form)](https://technet.microsoft.com/en-us/library/jj677441\(v=ax.60\))
+[Budget planning process (form)](https://technet.microsoft.com/library/jj677441\(v=ax.60\))
 
   
 

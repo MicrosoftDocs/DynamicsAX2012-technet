@@ -2,7 +2,7 @@
 title: About recruitment projects
 TOCTitle: About recruitment projects
 ms:assetid: 4126dba5-6507-4cd9-9241-19fdf27cf14a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496951(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496951(v=AX.60)
 ms:contentKeyID: 37072049
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -21,7 +21,7 @@ After you create a recruitment project, you can write a job advertisement for th
 
 ## See also
 
-[Recruitment projects (form)](https://technet.microsoft.com/en-us/library/aa583986\(v=ax.60\))
+[Recruitment projects (form)](https://technet.microsoft.com/library/aa583986\(v=ax.60\))
 
 [Select a default recruitment project for unsolicited applications](select-a-default-recruitment-project-for-unsolicited-applications.md)
 

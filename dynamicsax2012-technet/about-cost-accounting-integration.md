@@ -2,7 +2,7 @@
 title: About cost accounting integration
 TOCTitle: About cost accounting integration
 ms:assetid: 75d4a648-2c4a-4d4e-8993-1479db5e876b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550032(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550032(v=AX.60)
 ms:contentKeyID: 36058179
 ms.date: 04/18/2014
 mtps_version: v=AX.60

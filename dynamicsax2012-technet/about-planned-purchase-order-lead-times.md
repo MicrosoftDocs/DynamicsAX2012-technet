@@ -2,7 +2,7 @@
 title: About planned purchase order lead times
 TOCTitle: About planned purchase order lead times
 ms:assetid: 4ff7ba91-925c-4f4b-87d7-826046a051b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497131(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497131(v=AX.60)
 ms:contentKeyID: 36931871
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -39,7 +39,7 @@ A purchase lead time that is found by using this method can be overridden if a v
 
 ## See also
 
-[Item coverage (form)](https://technet.microsoft.com/en-us/library/aa619147\(v=ax.60\))
+[Item coverage (form)](https://technet.microsoft.com/library/aa619147\(v=ax.60\))
 
   
 

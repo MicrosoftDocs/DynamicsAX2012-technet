@@ -2,7 +2,7 @@
 title: About co-products and by-products
 TOCTitle: About co-products and by-products
 ms:assetid: 9ddb40e1-afe6-486d-8404-9b3b61f490c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352310(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352310(v=AX.60)
 ms:contentKeyID: 36687939
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -51,9 +51,9 @@ When you set up a by-product in the **Co-products** form in **Inventory and ware
 
 ## See also
 
-[Co-products (form)](https://technet.microsoft.com/en-us/library/hh328754\(v=ax.60\))
+[Co-products (form)](https://technet.microsoft.com/library/hh328754\(v=ax.60\))
 
-[Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
+[Formula (form)](https://technet.microsoft.com/library/hh328668\(v=ax.60\))
 
   
 

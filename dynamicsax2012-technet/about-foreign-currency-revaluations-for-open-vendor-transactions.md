@@ -2,7 +2,7 @@
 title: About foreign currency revaluations for open vendor transactions
 TOCTitle: About foreign currency revaluations for open vendor transactions
 ms:assetid: 0e6d6a7d-d165-4df0-8086-e2350f1befdb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496411(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496411(v=AX.60)
 ms:contentKeyID: 36056010
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -2,7 +2,7 @@
 title: " ABC code for carrying cost classification"
 TOCTitle: " ABC code for carrying cost classification"
 ms:assetid: DynamicsAXGlossary.232486
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.232486(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.232486(v=AX.60)
 ms:contentKeyID: 36057736
 ms.date: 08/25/2014
 mtps_version: v=AX.60

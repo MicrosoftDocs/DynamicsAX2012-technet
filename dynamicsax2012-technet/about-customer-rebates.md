@@ -2,7 +2,7 @@
 title: About customer rebates
 TOCTitle: About customer rebates
 ms:assetid: 560f258a-e4cf-4fe8-8002-9c2adca36582
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208964(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208964(v=AX.60)
 ms:contentKeyID: 36057320
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -135,17 +135,17 @@ The following guidelines pertain when you apply customer rebates:
 
 ## See also
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
-[Cumulate rebates (form)](https://technet.microsoft.com/en-us/library/hh328729\(v=ax.60\))
+[Cumulate rebates (form)](https://technet.microsoft.com/library/hh328729\(v=ax.60\))
 
-[Period types (form)](https://technet.microsoft.com/en-us/library/aa586707\(v=ax.60\))
+[Period types (form)](https://technet.microsoft.com/library/aa586707\(v=ax.60\))
 
-[Product specific (form)](https://technet.microsoft.com/en-us/library/hh227369\(v=ax.60\))
+[Product specific (form)](https://technet.microsoft.com/library/hh227369\(v=ax.60\))
 
-[Rebate agreements (form)](https://technet.microsoft.com/en-us/library/hh328681\(v=ax.60\))
+[Rebate agreements (form)](https://technet.microsoft.com/library/hh328681\(v=ax.60\))
 
-[Rebate program types (form)](https://technet.microsoft.com/en-us/library/hh352270\(v=ax.60\))
+[Rebate program types (form)](https://technet.microsoft.com/library/hh352270\(v=ax.60\))
 
   
 

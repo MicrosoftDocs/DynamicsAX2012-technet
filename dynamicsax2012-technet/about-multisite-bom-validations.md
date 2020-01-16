@@ -2,7 +2,7 @@
 title: About multisite - BOM validations
 TOCTitle: About multisite - BOM validations
 ms:assetid: b7e053e6-d829-4a11-9de5-186b19fa7e17
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232437(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232437(v=AX.60)
 ms:contentKeyID: 36059108
 ms.date: 11/13/2015
 mtps_version: v=AX.60

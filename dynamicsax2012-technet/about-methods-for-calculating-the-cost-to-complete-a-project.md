@@ -2,7 +2,7 @@
 title: About methods for calculating the cost to complete a project
 TOCTitle: About methods for calculating the cost to complete a project
 ms:assetid: e58923cd-4fc6-44c3-8600-4b66361709f2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573175(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573175(v=AX.60)
 ms:contentKeyID: 37822165
 ms.date: 04/18/2014
 mtps_version: v=AX.60

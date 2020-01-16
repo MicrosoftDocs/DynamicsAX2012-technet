@@ -2,7 +2,7 @@
 title: About service agreements
 TOCTitle: About service agreements
 ms:assetid: f95ad656-9bfd-4d40-a986-37e641770046
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499828(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499828(v=AX.60)
 ms:contentKeyID: 36060054
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -83,7 +83,7 @@ Each service-agreement line describes in detail the content of the proposed serv
 
 ## See also
 
-[Service agreements (form)](https://technet.microsoft.com/en-us/library/aa617823\(v=ax.60\))
+[Service agreements (form)](https://technet.microsoft.com/library/aa617823\(v=ax.60\))
 
 [About service orders](about-service-orders.md)
 

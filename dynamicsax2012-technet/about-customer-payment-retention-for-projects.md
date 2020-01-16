@@ -2,7 +2,7 @@
 title: About customer payment retention for projects
 TOCTitle: About customer payment retention for projects
 ms:assetid: 88863106-9cb8-49ff-9031-e99f319b8f5a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209338(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209338(v=AX.60)
 ms:contentKeyID: 36058448
 ms.date: 10/06/2014
 mtps_version: v=AX.60
@@ -76,13 +76,13 @@ After you determine that the project is 50 percent completed, you discuss the st
 
 [Key tasks: Manage customer payment retention for projects](key-tasks-manage-customer-payment-retention-for-projects.md)
 
-[Customer payment retention terms (form)](https://technet.microsoft.com/en-us/library/hh208591\(v=ax.60\))
+[Customer payment retention terms (form)](https://technet.microsoft.com/library/hh208591\(v=ax.60\))
 
-[Inquire customer retained payments (form)](https://technet.microsoft.com/en-us/library/hh209406\(v=ax.60\))
+[Inquire customer retained payments (form)](https://technet.microsoft.com/library/hh209406\(v=ax.60\))
 
-[Request for customer retained amount (form)](https://technet.microsoft.com/en-us/library/hh209691\(v=ax.60\))
+[Request for customer retained amount (form)](https://technet.microsoft.com/library/hh209691\(v=ax.60\))
 
-[Invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa615408\(v=ax.60\))
+[Invoice proposals (form)](https://technet.microsoft.com/library/aa615408\(v=ax.60\))
 
   
 

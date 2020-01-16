@@ -2,7 +2,7 @@
 title: About direct deliveries
 TOCTitle: About direct deliveries
 ms:assetid: 9b9d23eb-8a9c-4beb-bd06-e1427352436b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571692(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571692(v=AX.60)
 ms:contentKeyID: 39519254
 ms.date: 04/18/2014
 mtps_version: v=AX.60

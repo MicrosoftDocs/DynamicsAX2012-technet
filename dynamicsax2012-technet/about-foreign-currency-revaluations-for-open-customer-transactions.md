@@ -2,7 +2,7 @@
 title: About foreign currency revaluations for open customer transactions
 TOCTitle: About foreign currency revaluations for open customer transactions
 ms:assetid: 132c47fd-ea28-473d-ba08-c366a97c1573
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496596(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496596(v=AX.60)
 ms:contentKeyID: 36056045
 ms.date: 04/18/2014
 mtps_version: v=AX.60

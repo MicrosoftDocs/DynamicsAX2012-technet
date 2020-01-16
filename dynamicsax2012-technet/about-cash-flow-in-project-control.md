@@ -2,7 +2,7 @@
 title: About cash flow in Project control
 TOCTitle: About cash flow in Project control
 ms:assetid: 097329d0-1a29-45b9-adb9-bc7f72f73deb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230696(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230696(v=AX.60)
 ms:contentKeyID: 42517316
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -116,11 +116,11 @@ When all sales and vendor invoices are completed, you can view the relationship 
 
 ## See also
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
-[Project statements (form)](https://technet.microsoft.com/en-us/library/aa552521\(v=ax.60\))
+[Project statements (form)](https://technet.microsoft.com/library/aa552521\(v=ax.60\))
 
   
 

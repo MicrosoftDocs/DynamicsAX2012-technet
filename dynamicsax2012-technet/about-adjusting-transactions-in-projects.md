@@ -2,7 +2,7 @@
 title: About adjusting transactions in projects
 TOCTitle: About adjusting transactions in projects
 ms:assetid: f7da01a6-cb5c-406b-baa3-c807a446f2fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227554(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227554(v=AX.60)
 ms:contentKeyID: 36060042
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -33,11 +33,11 @@ You can also view the adjustment history of a transaction to see which user made
 
 [Adjust transactions](adjust-transactions.md)
 
-[Adjust transactions (class form) (Project)](https://technet.microsoft.com/en-us/library/aa583326\(v=ax.60\))
+[Adjust transactions (class form) (Project)](https://technet.microsoft.com/library/aa583326\(v=ax.60\))
 
-[Adjustments (form)](https://technet.microsoft.com/en-us/library/aa553205\(v=ax.60\))
+[Adjustments (form)](https://technet.microsoft.com/library/aa553205\(v=ax.60\))
 
-[Create adjustment transactions (class form)](https://technet.microsoft.com/en-us/library/aa634561\(v=ax.60\))
+[Create adjustment transactions (class form)](https://technet.microsoft.com/library/aa634561\(v=ax.60\))
 
 [View and record transactions](view-and-record-transactions.md)
 

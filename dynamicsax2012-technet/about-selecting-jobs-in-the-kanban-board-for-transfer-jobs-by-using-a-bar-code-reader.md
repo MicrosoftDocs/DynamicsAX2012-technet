@@ -2,7 +2,7 @@
 title: About selecting jobs in the Kanban board for transfer jobs by using a bar code reader
 TOCTitle: About selecting jobs in the Kanban board for transfer jobs by using a bar code reader
 ms:assetid: 683971b9-cff7-402b-a165-5d9612fd06fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ713629(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ713629(v=AX.60)
 ms:contentKeyID: 49643125
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -169,7 +169,7 @@ The status of the selected job, and the status of any pegged jobs for event kanb
 
 ## See also
 
-[Kanban board for transfer jobs (form)](https://technet.microsoft.com/en-us/library/hh781100\(v=ax.60\))
+[Kanban board for transfer jobs (form)](https://technet.microsoft.com/library/hh781100\(v=ax.60\))
 
   
 

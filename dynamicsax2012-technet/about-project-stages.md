@@ -2,7 +2,7 @@
 title: About project stages
 TOCTitle: About project stages
 ms:assetid: 9a3e4a61-cd36-4b46-9047-e5fb54d170b0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498453(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498453(v=AX.60)
 ms:contentKeyID: 36058703
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -112,9 +112,9 @@ You can select the following tasks to assign to a project stage:
 
 [Modify a project stage](modify-a-project-stage.md)
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
   
 

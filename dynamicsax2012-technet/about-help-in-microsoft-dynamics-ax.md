@@ -2,7 +2,7 @@
 title: About Help in Microsoft Dynamics AX
 TOCTitle: About Help in Microsoft Dynamics AX
 ms:assetid: 4c40c45d-0292-42c1-872f-3280415d91c1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208739(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208739(v=AX.60)
 ms:contentKeyID: 36057011
 ms.date: 04/18/2014
 mtps_version: v=AX.60

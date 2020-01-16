@@ -2,7 +2,7 @@
 title: About mandatory inventory dimensions
 TOCTitle: About mandatory inventory dimensions
 ms:assetid: 4fd54dc6-bf0f-4282-bebc-96b1519657f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212767(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212767(v=AX.60)
 ms:contentKeyID: 39519135
 ms.date: 04/18/2014
 mtps_version: v=AX.60

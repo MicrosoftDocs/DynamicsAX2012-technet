@@ -2,7 +2,7 @@
 title: About setting up inventory reservations
 TOCTitle: About setting up inventory reservations
 ms:assetid: 3ae16b12-361b-43d6-bf43-60173544814b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570155(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570155(v=AX.60)
 ms:contentKeyID: 36056646
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -29,7 +29,7 @@ You can specify default inventory settings in three different forms:
 
 ## See also
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
   
 

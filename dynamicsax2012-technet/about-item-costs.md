@@ -2,7 +2,7 @@
 title: About item costs
 TOCTitle: About item costs
 ms:assetid: 99707264-1ba1-4545-a52b-534c6a6f1f96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498448(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498448(v=AX.60)
 ms:contentKeyID: 36058697
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -90,9 +90,9 @@ Profit and loss
 
 [Select accrued revenue for posting](select-accrued-revenue-for-posting.md)
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
-[Estimate (form)](https://technet.microsoft.com/en-us/library/aa590971\(v=ax.60\))
+[Estimate (form)](https://technet.microsoft.com/library/aa590971\(v=ax.60\))
 
   
 

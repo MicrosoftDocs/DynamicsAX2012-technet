@@ -2,7 +2,7 @@
 title: About Environmental sustainability
 TOCTitle: About Environmental sustainability
 ms:assetid: 4ee44720-a987-440c-99fe-3bb5914c316b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208774(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208774(v=AX.60)
 ms:contentKeyID: 36057061
 ms.date: 05/02/2014
 mtps_version: v=AX.60

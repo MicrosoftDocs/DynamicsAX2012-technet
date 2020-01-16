@@ -2,7 +2,7 @@
 title: About pay-when-paid projects
 TOCTitle: About pay-when-paid projects
 ms:assetid: a2e5cbdb-2b98-4fb7-be4f-37061e762c33
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh292606(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh292606(v=AX.60)
 ms:contentKeyID: 36655945
 ms.date: 10/06/2014
 mtps_version: v=AX.60
@@ -48,7 +48,7 @@ After you receive the full payment from the customer, you pay 10,000.00 to the v
 
 ## See also
 
-[Vendor invoices with pay when paid (form)](https://technet.microsoft.com/en-us/library/hh227358\(v=ax.60\))
+[Vendor invoices with pay when paid (form)](https://technet.microsoft.com/library/hh227358\(v=ax.60\))
 
 [Key tasks: Manage pay-when-paid projects](key-tasks-manage-pay-when-paid-projects.md)
 

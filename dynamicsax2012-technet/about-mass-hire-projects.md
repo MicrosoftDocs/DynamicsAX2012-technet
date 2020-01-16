@@ -2,7 +2,7 @@
 title: About mass hire projects
 TOCTitle: About mass hire projects
 ms:assetid: 15d6e996-fdb1-405d-abbd-72bca67e6dc3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569885(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569885(v=AX.60)
 ms:contentKeyID: 36676370
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -86,7 +86,7 @@ In the **Mass hire project** form, click **Open project** or **Close project** t
 
 [Key tasks: Mass hire projects](key-tasks-mass-hire-projects.md)
 
-[Mass hire projects (form)](https://technet.microsoft.com/en-us/library/aa591824\(v=ax.60\))
+[Mass hire projects (form)](https://technet.microsoft.com/library/aa591824\(v=ax.60\))
 
   
 

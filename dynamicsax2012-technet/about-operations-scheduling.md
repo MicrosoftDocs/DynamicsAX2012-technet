@@ -2,7 +2,7 @@
 title: About operations scheduling
 TOCTitle: About operations scheduling
 ms:assetid: 12c8e85f-d0f2-4b26-8137-e0d503e73151
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496589(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496589(v=AX.60)
 ms:contentKeyID: 44080946
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -27,7 +27,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 You can schedule production at the operation level and the job level. Scheduling at the operation level is the less detailed method, and provides a general estimate of the production process over time. Operations scheduling does not explode the operations for the production route into jobs.
 
-If you want to include more detail in the scheduling, such as information about current capacity, you can run job scheduling after operations scheduling. You can also run a job scheduling only. Job scheduling is typically used to schedule individual jobs on the shop floor for an immediate or short-term time frame. For more information see [Production - Job scheduling (class form)](https://technet.microsoft.com/en-us/library/aa584348\(v=ax.60\)).
+If you want to include more detail in the scheduling, such as information about current capacity, you can run job scheduling after operations scheduling. You can also run a job scheduling only. Job scheduling is typically used to schedule individual jobs on the shop floor for an immediate or short-term time frame. For more information see [Production - Job scheduling (class form)](https://technet.microsoft.com/library/aa584348\(v=ax.60\)).
 
 ## Components of operations scheduling
 
@@ -69,13 +69,13 @@ The scheduling direction is fundamental to the scheduling process. Production ca
 
 ## Resource scheduling
 
-When you run an operations schedule, each operation in the production route is scheduled for the resource that is specified for the operation. In addition, the duration of each operation is specified on the production route. If a resource group is specified for an operation, the scheduling reserves capacity on the group. However, unlike job scheduling, operations scheduling does not select the specific resources in the group. For more information, see [Resource groups (form)](https://technet.microsoft.com/en-us/library/hh227450\(v=ax.60\)).
+When you run an operations schedule, each operation in the production route is scheduled for the resource that is specified for the operation. In addition, the duration of each operation is specified on the production route. If a resource group is specified for an operation, the scheduling reserves capacity on the group. However, unlike job scheduling, operations scheduling does not select the specific resources in the group. For more information, see [Resource groups (form)](https://technet.microsoft.com/library/hh227450\(v=ax.60\)).
 
 If you are working with finite capacity, the schedule depends on the availability of the resources that are required to complete production. Operations scheduling follows the sequence of operations that is specified on the production route.
 
 The scheduling reserves capacity on the resource groups based on the operation times that are defined on the production route. The sum of available capacity on the resources involved determines the capacity for the resource group. Capacity reservations that already exist for the resources are considered as unavailable capacity. If available capacity is insufficient for production, the production orders can be delayed or even stopped.
 
-You can also specify the efficiency that you expect from the resources that are involved in the production. You specify the efficiency as a percentage on the resource. The efficiency percentage adjusts the throughput of the resource. This affects the time that is reserved for the resource. The lead times for the operations that use the resource are also adjusted accordingly. For more information, see [Resources (form)](https://technet.microsoft.com/en-us/library/aa557962\(v=ax.60\)).
+You can also specify the efficiency that you expect from the resources that are involved in the production. You specify the efficiency as a percentage on the resource. The efficiency percentage adjusts the throughput of the resource. This affects the time that is reserved for the resource. The lead times for the operations that use the resource are also adjusted accordingly. For more information, see [Resources (form)](https://technet.microsoft.com/library/aa557962\(v=ax.60\)).
 
 ## Operations scheduling and master planning
 
@@ -89,7 +89,7 @@ The operations schedule also drives master planning and determines material requ
 
 ## Cancellations
 
-When you run operations scheduling, you can cancel certain parts of the routing. These include the queue time, setup time, process time, overlap time, and transport times. For more information, see [Production - Job scheduling (class form)](https://technet.microsoft.com/en-us/library/aa584348\(v=ax.60\)).
+When you run operations scheduling, you can cancel certain parts of the routing. These include the queue time, setup time, process time, overlap time, and transport times. For more information, see [Production - Job scheduling (class form)](https://technet.microsoft.com/library/aa584348\(v=ax.60\)).
 
 ## Finite materials
 
@@ -99,9 +99,9 @@ If you are working with finite materials, scheduling also depends on the availab
 
 [Run operations scheduling](run-operations-scheduling.md)
 
-[Production - Operations scheduling (class form)](https://technet.microsoft.com/en-us/library/aa571353\(v=ax.60\))
+[Production - Operations scheduling (class form)](https://technet.microsoft.com/library/aa571353\(v=ax.60\))
 
-[Released product details (form)](https://technet.microsoft.com/en-us/library/aa615563\(v=ax.60\))
+[Released product details (form)](https://technet.microsoft.com/library/aa615563\(v=ax.60\))
 
   
 

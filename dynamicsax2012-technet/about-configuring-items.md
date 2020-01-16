@@ -2,7 +2,7 @@
 title: About configuring items
 TOCTitle: About configuring items
 ms:assetid: 849ae3cc-e72d-4bb1-a850-f01b4d015bd3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571568(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571568(v=AX.60)
 ms:contentKeyID: 36058393
 ms.date: 04/18/2014
 mtps_version: v=AX.60

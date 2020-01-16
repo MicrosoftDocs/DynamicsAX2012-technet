@@ -2,7 +2,7 @@
 title: About campaign target distribution
 TOCTitle: About campaign target distribution
 ms:assetid: 47c40041-1967-47c3-b0aa-cb002ca4a137
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496998(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496998(v=AX.60)
 ms:contentKeyID: 37832500
 ms.date: 04/18/2014
 mtps_version: v=AX.60

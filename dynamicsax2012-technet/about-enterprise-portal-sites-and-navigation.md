@@ -2,7 +2,7 @@
 title: About Enterprise Portal sites and navigation
 TOCTitle: About Enterprise Portal sites and navigation
 ms:assetid: 422c7df7-76fe-4cc5-b491-e93bafa316bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242375(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242375(v=AX.60)
 ms:contentKeyID: 36056869
 ms.date: 05/02/2014
 mtps_version: v=AX.60

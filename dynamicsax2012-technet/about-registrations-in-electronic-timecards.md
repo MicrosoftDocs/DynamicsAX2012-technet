@@ -2,7 +2,7 @@
 title: About registrations in electronic timecards
 TOCTitle: About registrations in electronic timecards
 ms:assetid: e68fa9bc-af5c-4e2b-8c51-6dc13b163e21
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573185(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573185(v=AX.60)
 ms:contentKeyID: 36059805
 ms.date: 04/18/2014
 mtps_version: v=AX.60

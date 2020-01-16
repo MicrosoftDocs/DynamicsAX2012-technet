@@ -2,7 +2,7 @@
 title: About redistributing manually assigned hours for a work breakdown structure in AX 2012 R3
 TOCTitle: About redistributing manually assigned hours for a work breakdown structure in AX 2012 R3
 ms:assetid: 0b7cf6a6-d893-43ef-9481-7805848f3379
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn783114(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn783114(v=AX.60)
 ms:contentKeyID: 62830461
 ms.date: 08/25/2014
 mtps_version: v=AX.60
@@ -149,9 +149,9 @@ Any time you remove workers from a WBS task assignment, it is a good practice to
 
 [Create a work breakdown structure of tasks for a project](create-a-work-breakdown-structure-of-tasks-for-a-project.md)
 
-[Work breakdown structure (form)](https://technet.microsoft.com/en-us/library/hh209089\(v=ax.60\))
+[Work breakdown structure (form)](https://technet.microsoft.com/library/hh209089\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
   
 

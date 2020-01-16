@@ -2,7 +2,7 @@
 title: About service templates
 TOCTitle: About service templates
 ms:assetid: e5427f26-b808-4970-a86c-23ab40d85054
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573166(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573166(v=AX.60)
 ms:contentKeyID: 36059788
 ms.date: 04/18/2014
 mtps_version: v=AX.60

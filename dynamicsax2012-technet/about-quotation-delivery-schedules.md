@@ -2,7 +2,7 @@
 title: About quotation delivery schedules
 TOCTitle: About quotation delivery schedules
 ms:assetid: 703dddf0-79f6-4a30-936c-b98d601b6c15
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242646(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242646(v=AX.60)
 ms:contentKeyID: 36058055
 ms.date: 04/18/2014
 mtps_version: v=AX.60

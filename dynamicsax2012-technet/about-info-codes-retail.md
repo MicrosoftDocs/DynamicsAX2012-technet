@@ -2,7 +2,7 @@
 title: About info codes (Retail)
 TOCTitle: About info codes (Retail)
 ms:assetid: b4a9ce05-7a6c-4b5d-aa0a-bbccad371db7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597212(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597212(v=AX.60)
 ms:contentKeyID: 39519284
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -2,7 +2,7 @@
 title: About cost accounting budget models
 TOCTitle: About cost accounting budget models
 ms:assetid: 3cf2d92b-895f-41d3-a064-106e48e7b807
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570267(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570267(v=AX.60)
 ms:contentKeyID: 36056671
 ms.date: 04/18/2014
 mtps_version: v=AX.60

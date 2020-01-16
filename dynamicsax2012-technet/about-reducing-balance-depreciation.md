@@ -2,7 +2,7 @@
 title: About reducing balance depreciation
 TOCTitle: About reducing balance depreciation
 ms:assetid: dd47c83e-b38a-4acc-8066-5bfd498a49a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551268(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551268(v=AX.60)
 ms:contentKeyID: 36931884
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -59,7 +59,7 @@ For example, for fiscal year July 1 through June 30, the depreciation calculatio
 
 
 > [!NOTE]
-> <P>You can select a fiscal calendar for a value model in the <STRONG>Value models</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa582567(v=ax.60)">Value models setup (form)</A>. You can select a fiscal calendar for a depreciation book in the <STRONG>Depreciation books</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa597721(v=ax.60)">Depreciation books setup (form)</A>.</P>
+> <P>You can select a fiscal calendar for a value model in the <STRONG>Value models</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/aa582567(v=ax.60)">Value models setup (form)</A>. You can select a fiscal calendar for a depreciation book in the <STRONG>Depreciation books</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/aa597721(v=ax.60)">Depreciation books setup (form)</A>.</P>
 
 
 

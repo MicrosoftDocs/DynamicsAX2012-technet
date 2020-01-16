@@ -2,7 +2,7 @@
 title: About print management originals, copies, and settings
 TOCTitle: About print management originals, copies, and settings
 ms:assetid: 80a79cb6-b535-4043-8b19-5155690b39d4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309731(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309731(v=AX.60)
 ms:contentKeyID: 36058352
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -86,7 +86,7 @@ While conditional settings and queries provide flexibility in your print managem
 
 [About print management processing](about-print-management-processing.md)
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
   
 

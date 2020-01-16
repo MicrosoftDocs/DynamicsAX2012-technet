@@ -2,7 +2,7 @@
 title: About journal setup
 TOCTitle: About journal setup
 ms:assetid: 0152eb50-2b7e-4b24-99d6-bdff22c870ef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh696873(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh696873(v=AX.60)
 ms:contentKeyID: 42517315
 ms.date: 04/18/2014
 mtps_version: v=AX.60

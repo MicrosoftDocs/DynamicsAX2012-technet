@@ -2,7 +2,7 @@
 title: About line types
 TOCTitle: About line types
 ms:assetid: e6c68ee5-d121-42e4-8820-f77969a5c938
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573189(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573189(v=AX.60)
 ms:contentKeyID: 37832541
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -44,7 +44,7 @@ Select **Vendor** if the production process uses a subcontractor, and you want t
 
 ## See also
 
-[BOM versions and lines (form)](https://technet.microsoft.com/en-us/library/aa615779\(v=ax.60\))
+[BOM versions and lines (form)](https://technet.microsoft.com/library/aa615779\(v=ax.60\))
 
 [Run an estimation](run-an-estimation.md)
 

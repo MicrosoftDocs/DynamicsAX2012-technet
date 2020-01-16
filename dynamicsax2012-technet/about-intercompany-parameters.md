@@ -2,7 +2,7 @@
 title: About intercompany parameters
 TOCTitle: About intercompany parameters
 ms:assetid: fec3c9a1-0cc0-430b-b3a1-69ba9db3e79f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573449(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573449(v=AX.60)
 ms:contentKeyID: 36060125
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -199,7 +199,7 @@ In the **Intercompany sales order -\> Intercompany purchase order** field group,
 
 ## See also
 
-[Intercompany setup (form)](https://technet.microsoft.com/en-us/library/hh781085\(v=ax.60\))
+[Intercompany setup (form)](https://technet.microsoft.com/library/hh781085\(v=ax.60\))
 
   
 

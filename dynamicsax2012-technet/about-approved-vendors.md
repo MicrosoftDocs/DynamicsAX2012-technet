@@ -2,7 +2,7 @@
 title: About approved vendors
 TOCTitle: About approved vendors
 ms:assetid: f12d22ca-eadc-45a2-920a-623b5d992aef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227508(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227508(v=AX.60)
 ms:contentKeyID: 36059929
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -51,9 +51,9 @@ When you approve a product for a vendor, you specify a check method for an appro
 
 ## See also
 
-[Approved vendor list (form)](https://technet.microsoft.com/en-us/library/hh328745\(v=ax.60\))
+[Approved vendor list (form)](https://technet.microsoft.com/library/hh328745\(v=ax.60\))
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
   
 

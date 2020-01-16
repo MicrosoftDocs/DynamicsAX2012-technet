@@ -2,7 +2,7 @@
 title: About integration for service agreements and projects
 TOCTitle: About integration for service agreements and projects
 ms:assetid: dbd8a31d-5686-4640-b043-850d7ec427b0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551252(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551252(v=AX.60)
 ms:contentKeyID: 36059670
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -33,7 +33,7 @@ Line properties are created in the **Line properties** form in **Project managem
 
 ## Default offset accounts
 
-If you enter an expense transaction, a default expense offset account is selected automatically for the transaction. The default expense account is set up for the project that is attached to the current service agreement. For more information about default expense accounts, see [Default offset account for expenses (form)](https://technet.microsoft.com/en-us/library/aa616251\(v=ax.60\)).
+If you enter an expense transaction, a default expense offset account is selected automatically for the transaction. The default expense account is set up for the project that is attached to the current service agreement. For more information about default expense accounts, see [Default offset account for expenses (form)](https://technet.microsoft.com/library/aa616251\(v=ax.60\)).
 
 ## Project categories
 

@@ -2,7 +2,7 @@
 title: About on-account accrued revenue
 TOCTitle: About on-account accrued revenue
 ms:assetid: a5ee6adf-73dc-4e8a-94cf-492f8cff489e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550272(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550272(v=AX.60)
 ms:contentKeyID: 42517334
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -61,9 +61,9 @@ Before you can accrue on-account revenue, you must select the ledger accounts to
 
 [Create and post invoice proposals](create-and-post-invoice-proposals.md)
 
-[On-account transactions (form)](https://technet.microsoft.com/en-us/library/aa557380\(v=ax.60\))
+[On-account transactions (form)](https://technet.microsoft.com/library/aa557380\(v=ax.60\))
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
   
 

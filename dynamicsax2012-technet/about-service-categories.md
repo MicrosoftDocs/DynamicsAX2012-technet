@@ -2,7 +2,7 @@
 title: About service categories
 TOCTitle: About service categories
 ms:assetid: e8d2e18f-9912-420d-8169-8513a5c07538
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573398(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573398(v=AX.60)
 ms:contentKeyID: 36059841
 ms.date: 04/18/2014
 mtps_version: v=AX.60

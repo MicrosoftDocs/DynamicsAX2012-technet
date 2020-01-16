@@ -2,7 +2,7 @@
 title: About physical and financial updates
 TOCTitle: About physical and financial updates
 ms:assetid: c8b100a0-6f4d-4a77-8eb6-44ab9e0dbfe2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213650(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213650(v=AX.60)
 ms:contentKeyID: 36059321
 ms.date: 04/18/2014
 mtps_version: v=AX.60

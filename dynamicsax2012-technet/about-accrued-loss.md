@@ -2,7 +2,7 @@
 title: About accrued loss
 TOCTitle: About accrued loss
 ms:assetid: 49039c88-b84e-4fe9-9966-2665a6929285
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497004(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497004(v=AX.60)
 ms:contentKeyID: 36056936
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -117,9 +117,9 @@ The following table describes the effects of actions that you perform on the **E
 
 ## See also
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
-[Estimate (form)](https://technet.microsoft.com/en-us/library/aa590971\(v=ax.60\))
+[Estimate (form)](https://technet.microsoft.com/library/aa590971\(v=ax.60\))
 
   
 

@@ -2,7 +2,7 @@
 title: About receiving partial deliveries of returned items
 TOCTitle: About receiving partial deliveries of returned items
 ms:assetid: 547a8652-742a-4216-8f86-645e714744d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212798(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212798(v=AX.60)
 ms:contentKeyID: 36057307
 ms.date: 04/18/2014
 mtps_version: v=AX.60

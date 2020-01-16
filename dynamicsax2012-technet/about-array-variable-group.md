@@ -2,7 +2,7 @@
 title: About array variable group
 TOCTitle: About array variable group
 ms:assetid: c325e7cc-476b-43cf-84fa-9743339bd00e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550711(v=AX.60)
 ms:contentKeyID: 36676411
 ms.date: 04/18/2014
 mtps_version: v=AX.60

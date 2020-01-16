@@ -2,7 +2,7 @@
 title: About creating production orders for projects
 TOCTitle: About creating production orders for projects
 ms:assetid: e62f4247-d532-41c9-80bb-a74da6716437
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243228(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243228(v=AX.60)
 ms:contentKeyID: 36059799
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -79,9 +79,9 @@ If you select the consumed item/link to order method, you can link the project t
 
 [Create production orders manually](create-production-orders-manually.md)
 
-[Production orders (form)](https://technet.microsoft.com/en-us/library/aa617966\(v=ax.60\))
+[Production orders (form)](https://technet.microsoft.com/library/aa617966\(v=ax.60\))
 
-[Create production order (form)](https://technet.microsoft.com/en-us/library/aa497150\(v=ax.60\))
+[Create production order (form)](https://technet.microsoft.com/library/aa497150\(v=ax.60\))
 
   
 

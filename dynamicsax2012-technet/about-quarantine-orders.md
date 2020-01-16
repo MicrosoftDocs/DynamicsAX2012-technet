@@ -2,7 +2,7 @@
 title: About quarantine orders
 TOCTitle: About quarantine orders
 ms:assetid: 0f2731bc-a8e1-4406-84d0-9b387e2b06ce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496417(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496417(v=AX.60)
 ms:contentKeyID: 44080945
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -67,11 +67,11 @@ When a quarantine order that was reported as finished is ended, the item is move
 
 ## See also
 
-[Item model groups (form)](https://technet.microsoft.com/en-us/library/aa577092\(v=ax.60\))
+[Item model groups (form)](https://technet.microsoft.com/library/aa577092\(v=ax.60\))
 
 [Create warehouses](create-warehouses.md)
 
-[Warehouses (form)](https://technet.microsoft.com/en-us/library/aa620570\(v=ax.60\))
+[Warehouses (form)](https://technet.microsoft.com/library/aa620570\(v=ax.60\))
 
 [About inventory blocking](about-inventory-blocking.md)
 

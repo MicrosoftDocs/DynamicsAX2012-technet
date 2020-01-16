@@ -2,7 +2,7 @@
 title: About category hierarchies
 TOCTitle: About category hierarchies
 ms:assetid: 986653ff-6db6-4eaf-9eb6-b907015a4890
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209418(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209418(v=AX.60)
 ms:contentKeyID: 36058678
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -20,7 +20,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 This topic explains what category hierarchies are and the advantages of using a category hierarchy for procurement versus using a product. Category hierarchies are used to classify products or transactions for reporting and analysis. An organization can create more than one category hierarchy. For example, your organization might create one category hierarchy for classifying products that it buys, and another hierarchy for products that it sells. The number of category hierarchies that your organization uses, and the structure and number of subcategories in each category hierarchy, depend on the reporting needs of your organization.
 
-There are several industry-standard classification systems and commodity code systems for reporting to government agencies or industry organizations. Some of the more common examples are Intrastat, UNSPSC, NAICS, eCl@ss, eOTD, and NIGP. Your system administrator can import all or part of an external classification system into Microsoft Dynamics AX. You can also manually create the categories and commodity codes. For more information about how to import categories and commodity codes, see [Import categories (form)](https://technet.microsoft.com/en-us/library/hh242810\(v=ax.60\)).
+There are several industry-standard classification systems and commodity code systems for reporting to government agencies or industry organizations. Some of the more common examples are Intrastat, UNSPSC, NAICS, eCl@ss, eOTD, and NIGP. Your system administrator can import all or part of an external classification system into Microsoft Dynamics AX. You can also manually create the categories and commodity codes. For more information about how to import categories and commodity codes, see [Import categories (form)](https://technet.microsoft.com/library/hh242810\(v=ax.60\)).
 
 After you create a category hierarchy, assign a type to the category hierarchy. The type determines how the category hierarchy appears in Microsoft Dynamics AX. For example, when you assign the **Procurement category hierarchy** type to a hierarchy, the products from this procurement category hierarchy are displayed in procurement forms such as requests for quotations and purchase requisitions.
 
@@ -67,7 +67,7 @@ The following table lists the available category hierarchy types and the general
 
 When you create a category hierarchy, you can assign attributes to categories to define characteristics of the category. An example of a category attribute is **Category manager**. When you assign this attribute to a category, you enter the name of the person to contact about products or other items that are assigned to the category.
 
-When you create a procurement category hierarchy, you can assign vendors, products, product attributes, policies, and other parameters to each procurement category. For more information about procurement category hierarchies, see [Procurement categories (form)](https://technet.microsoft.com/en-us/library/hh227365\(v=ax.60\)).
+When you create a procurement category hierarchy, you can assign vendors, products, product attributes, policies, and other parameters to each procurement category. For more information about procurement category hierarchies, see [Procurement categories (form)](https://technet.microsoft.com/library/hh227365\(v=ax.60\)).
 
 ## Advantages of using category hierarchies for procurement versus using products
 
@@ -126,7 +126,7 @@ Refer to the following table to help you decide whether to use category hierarch
 <td><p>Commodity codes</p></td>
 <td><p>X</p></td>
 <td><p>X</p></td>
-<td><p>For category hierarchies, you can import a commodity code hierarchy. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh242810(v=ax.60)">Import categories (form)</a>.</p>
+<td><p>For category hierarchies, you can import a commodity code hierarchy. For more information, see <a href="https://technet.microsoft.com/library/hh242810(v=ax.60)">Import categories (form)</a>.</p>
 <p>For products, you can assign commodity codes to products. For more information, see <a href="setting-up-and-maintaining-items.md">Setting up and maintaining items</a>.</p></td>
 </tr>
 <tr class="odd">
@@ -158,7 +158,7 @@ Refer to the following table to help you decide whether to use category hierarch
 <td><p>Multiple legal entities</p></td>
 <td><p></p></td>
 <td><p>X</p></td>
-<td><p>For category hierarchies, you can create different hierarchies for each legal entity. You can import hierarchies from one legal entity to another. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh242810(v=ax.60)">Import categories (form)</a>.</p>
+<td><p>For category hierarchies, you can create different hierarchies for each legal entity. You can import hierarchies from one legal entity to another. For more information, see <a href="https://technet.microsoft.com/library/hh242810(v=ax.60)">Import categories (form)</a>.</p>
 <p>For products, you can create products and release them to all the legal entities that use the same products. For more information, see <a href="setting-up-and-maintaining-products.md">Setting up and maintaining products</a>.</p></td>
 </tr>
 </tbody>
@@ -171,13 +171,13 @@ Refer to the following table to help you decide whether to use category hierarch
 
 [Key tasks: Set up and maintain procurement category hierarchies](key-tasks-set-up-and-maintain-procurement-category-hierarchies.md)
 
-[Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\))
+[Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\))
 
-[Category hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh227389\(v=ax.60\))
+[Category hierarchy types (form)](https://technet.microsoft.com/library/hh227389\(v=ax.60\))
 
 [Set up policies for category hierarchies](set-up-policies-for-category-hierarchies.md)
 
-[Procurement categories (form)](https://technet.microsoft.com/en-us/library/hh227365\(v=ax.60\))
+[Procurement categories (form)](https://technet.microsoft.com/library/hh227365\(v=ax.60\))
 
   
 

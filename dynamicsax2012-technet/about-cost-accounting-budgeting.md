@@ -2,7 +2,7 @@
 title: About cost accounting budgeting
 TOCTitle: About budgeting
 ms:assetid: e0c70f9e-854b-47a0-a3b1-aaa782c3c1b4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551328(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551328(v=AX.60)
 ms:contentKeyID: 36059706
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -45,7 +45,7 @@ When you create budgets, you must distinguish between:
 
 [About cost accounting budget models](about-cost-accounting-budget-models.md)
 
-[Budget model (form)](https://technet.microsoft.com/en-us/library/aa586905\(v=ax.60\))
+[Budget model (form)](https://technet.microsoft.com/library/aa586905\(v=ax.60\))
 
 [Cost and service budgeting](cost-and-service-budgeting.md)
 

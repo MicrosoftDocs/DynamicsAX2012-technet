@@ -2,7 +2,7 @@
 title: About service activities
 TOCTitle: About service activities
 ms:assetid: f721f9d6-b94d-47df-b072-165f33ec8705
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243295(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243295(v=AX.60)
 ms:contentKeyID: 62632262
 ms.date: 07/28/2014
 mtps_version: v=AX.60
@@ -23,7 +23,7 @@ You can view the status of service activities in the **Dispatch board** form. Yo
 
 ## See also
 
-[Dispatch board (form)](https://technet.microsoft.com/en-us/library/hh242789\(v=ax.60\))
+[Dispatch board (form)](https://technet.microsoft.com/library/hh242789\(v=ax.60\))
 
 [Dispatching service order activities](dispatching-service-order-activities.md)
 

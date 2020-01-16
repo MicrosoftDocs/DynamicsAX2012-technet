@@ -2,7 +2,7 @@
 title: About analyzing common sources of production variances
 TOCTitle: About analyzing common sources of production variances
 ms:assetid: c9cda8e9-49eb-4224-99bc-35b5e7bb3ff1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213654(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213654(v=AX.60)
 ms:contentKeyID: 36059327
 ms.date: 04/18/2014
 mtps_version: v=AX.60

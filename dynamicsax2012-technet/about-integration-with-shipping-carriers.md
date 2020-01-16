@@ -2,7 +2,7 @@
 title: About integration with shipping carriers
 TOCTitle: About integration with shipping carriers
 ms:assetid: 71c6b9a6-b41a-40c0-9dc6-8199ffc2fd9e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231844(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231844(v=AX.60)
 ms:contentKeyID: 36058071
 ms.date: 04/18/2014
 mtps_version: v=AX.60

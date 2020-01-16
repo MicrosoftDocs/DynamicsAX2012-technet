@@ -2,7 +2,7 @@
 title: About creating production orders
 TOCTitle: About creating production orders
 ms:assetid: 78e4c758-bbac-4421-889e-947d5f165a61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550055(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550055(v=AX.60)
 ms:contentKeyID: 36058231
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -36,9 +36,9 @@ Production orders are generated during master planning or created manually for t
 
 ## See also
 
-[Production orders (form)](https://technet.microsoft.com/en-us/library/aa617966\(v=ax.60\))
+[Production orders (form)](https://technet.microsoft.com/library/aa617966\(v=ax.60\))
 
-[Create production order (form)](https://technet.microsoft.com/en-us/library/aa497150\(v=ax.60\))
+[Create production order (form)](https://technet.microsoft.com/library/aa497150\(v=ax.60\))
 
   
 

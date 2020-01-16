@@ -2,7 +2,7 @@
 title: About cost categories
 TOCTitle: About cost categories
 ms:assetid: bd1c5278-084e-4874-9ff4-5aa2f740328f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498874(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498874(v=AX.60)
 ms:contentKeyID: 36059146
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -62,7 +62,7 @@ After the transactions have been created, the dimension cannot be cleared for th
 
 [Create cost categories (CA)](create-cost-categories-ca.md)
 
-[Chart of accounts (form)](https://technet.microsoft.com/en-us/library/aa618234\(v=ax.60\))
+[Chart of accounts (form)](https://technet.microsoft.com/library/aa618234\(v=ax.60\))
 
   
 

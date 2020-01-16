@@ -2,7 +2,7 @@
 title: About migrating project data from other ERP systems
 TOCTitle: About migrating project data from other ERP systems
 ms:assetid: 253c025d-7c4d-4351-9b02-d207eb068244
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208482(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208482(v=AX.60)
 ms:contentKeyID: 36056190
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -245,13 +245,13 @@ The following topics provide information about migrating project data from other
 
 [Create a project beginning balance](create-a-project-beginning-balance.md)
 
-[Beginning balance journal (form)](https://technet.microsoft.com/en-us/library/hh209585\(v=ax.60\))
+[Beginning balance journal (form)](https://technet.microsoft.com/library/hh209585\(v=ax.60\))
 
-[Journal lines for beginning balances (form)](https://technet.microsoft.com/en-us/library/hh227479\(v=ax.60\))
+[Journal lines for beginning balances (form)](https://technet.microsoft.com/library/hh227479\(v=ax.60\))
 
-[Journal voucher - General journal (form)](https://technet.microsoft.com/en-us/library/aa591466\(v=ax.60\))
+[Journal voucher - General journal (form)](https://technet.microsoft.com/library/aa591466\(v=ax.60\))
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
   
 

@@ -2,7 +2,7 @@
 title: About cross-company payment settlements
 TOCTitle: About cross-company payment settlements
 ms:assetid: f2c362bd-76bf-489e-9a43-df585d51d740
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243279(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243279(v=AX.60)
 ms:contentKeyID: 36059972
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -156,9 +156,9 @@ The vendor account that is associated with the invoice is used to determine whet
 
 [Set up centralized vendor payments](set-up-centralized-vendor-payments.md)
 
-[Settle open transactions - customer (form)](https://technet.microsoft.com/en-us/library/aa558602\(v=ax.60\))
+[Settle open transactions - customer (form)](https://technet.microsoft.com/library/aa558602\(v=ax.60\))
 
-[Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\))
+[Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\))
 
   
 

@@ -2,7 +2,7 @@
 title: About compliance resources
 TOCTitle: About compliance resources
 ms:assetid: 374a2d7a-bc9c-4059-b448-405e7e0f280c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271497(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271497(v=AX.60)
 ms:contentKeyID: 36384129
 ms.date: 04/18/2014
 mtps_version: v=AX.60

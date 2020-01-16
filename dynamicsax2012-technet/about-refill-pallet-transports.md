@@ -2,7 +2,7 @@
 title: About refill pallet transports
 TOCTitle: About refill pallet transports
 ms:assetid: 6fd54cde-5896-417b-b33b-85f706330346
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231821(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231821(v=AX.60)
 ms:contentKeyID: 44080992
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -67,9 +67,9 @@ You specify the minimum quantity that is required for your picking location in t
 
 ## See also
 
-[Store areas (form)](https://technet.microsoft.com/en-us/library/aa550377\(v=ax.60\))
+[Store areas (form)](https://technet.microsoft.com/library/aa550377\(v=ax.60\))
 
-[Warehouse items (form)](https://technet.microsoft.com/en-us/library/aa587742\(v=ax.60\))
+[Warehouse items (form)](https://technet.microsoft.com/library/aa587742\(v=ax.60\))
 
 [About pallet transports](about-pallet-transports.md)
 
@@ -77,7 +77,7 @@ You specify the minimum quantity that is required for your picking location in t
 
 [About pallet transports](about-pallet-transports.md)
 
-[Shipment reservation combinations (form)](https://technet.microsoft.com/en-us/library/hh209514\(v=ax.60\))
+[Shipment reservation combinations (form)](https://technet.microsoft.com/library/hh209514\(v=ax.60\))
 
 [About shipment reservations](about-shipment-reservations.md)
 

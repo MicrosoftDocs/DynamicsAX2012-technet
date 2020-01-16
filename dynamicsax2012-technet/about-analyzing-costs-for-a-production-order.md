@@ -2,7 +2,7 @@
 title: About analyzing costs for a production order
 TOCTitle: About analyzing costs for a production order
 ms:assetid: 312efafd-ccf3-431c-8542-0f1b861f474c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231031(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231031(v=AX.60)
 ms:contentKeyID: 36056332
 ms.date: 04/18/2014
 mtps_version: v=AX.60

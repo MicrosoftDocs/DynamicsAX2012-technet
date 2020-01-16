@@ -2,7 +2,7 @@
 title: About expense-related cost price fields
 TOCTitle: About expense-related cost price fields
 ms:assetid: cf35c85b-0700-4781-af80-0b3c9f480624
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa557411(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa557411(v=AX.60)
 ms:contentKeyID: 36059474
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -95,13 +95,13 @@ The following assumptions apply to the example:
 
 ## See also
 
-[Expense transactions (form)](https://technet.microsoft.com/en-us/library/aa599188\(v=ax.60\))
+[Expense transactions (form)](https://technet.microsoft.com/library/aa599188\(v=ax.60\))
 
 [Set up cost prices and sales prices for projects](set-up-cost-prices-and-sales-prices-for-projects.md)
 
 [Configuring cost prices, sales prices, and transfer prices](configuring-cost-prices-sales-prices-and-transfer-prices.md)
 
-[Cost price - expense (form)](https://technet.microsoft.com/en-us/library/aa571745\(v=ax.60\))
+[Cost price - expense (form)](https://technet.microsoft.com/library/aa571745\(v=ax.60\))
 
   
 

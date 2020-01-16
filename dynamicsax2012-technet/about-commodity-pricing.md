@@ -2,7 +2,7 @@
 title: About commodity pricing
 TOCTitle: About commodity pricing
 ms:assetid: df52bf9a-ff1d-46e3-9897-13fcfb0fd526
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227418(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227418(v=AX.60)
 ms:contentKeyID: 36059697
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -36,9 +36,9 @@ Commodity pricing functionality lets you pass new costs, price break quantities,
 
 ## See also
 
-[Create price and margin data (form)](https://technet.microsoft.com/en-us/library/hh242859\(v=ax.60\))
+[Create price and margin data (form)](https://technet.microsoft.com/library/hh242859\(v=ax.60\))
 
-[Price margin update (form)](https://technet.microsoft.com/en-us/library/hh227659\(v=ax.60\))
+[Price margin update (form)](https://technet.microsoft.com/library/hh227659\(v=ax.60\))
 
   
 

@@ -2,7 +2,7 @@
 title: About invoicing
 TOCTitle: About invoicing
 ms:assetid: 570c0ba9-d379-4b7d-9c8a-9da32f5fd967
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208968(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208968(v=AX.60)
 ms:contentKeyID: 36057327
 ms.date: 04/18/2014
 mtps_version: v=AX.60

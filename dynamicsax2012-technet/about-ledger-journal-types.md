@@ -2,7 +2,7 @@
 title: About ledger journal types
 TOCTitle: About ledger journal types
 ms:assetid: 648ccf23-3a92-49c4-b471-03976fba293d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa585226(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa585226(v=AX.60)
 ms:contentKeyID: 44080988
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -193,7 +193,7 @@ This topic describes the journal types that you can set up for financial journal
 <td><p>(RUS) Generate deferrals write-off vouchers.</p></td>
 <td><p>For more information, see the following topics:</p>
 <ul>
-<li><p><a href="https://technet.microsoft.com/en-us/library/jj839697(v=ax.60)">(RUS) Deferrals counting journal (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/jj839697(v=ax.60)">(RUS) Deferrals counting journal (form)</a></p></li>
 <li><p><a href="rus-dispose-of-deferrals-vouchers.md">(RUS) Dispose of deferrals vouchers</a></p></li>
 <li><p><a href="rus-generate-a-deferrals-write-off-voucher-for-all-deferrals.md">(RUS) Generate a deferrals write-off voucher for all deferrals</a></p></li>
 <li><p><a href="rus-generate-a-deferrals-write-off-voucher-for-one-deferral.md">(RUS) Generate a deferrals write-off voucher for one deferral</a></p></li>

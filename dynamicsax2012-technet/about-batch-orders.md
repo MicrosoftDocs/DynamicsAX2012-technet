@@ -2,7 +2,7 @@
 title: About batch orders
 TOCTitle: About batch orders
 ms:assetid: 54f9f5e5-fe5e-47d4-bb72-e2c2ad6557fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352205(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352205(v=AX.60)
 ms:contentKeyID: 36687839
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -47,9 +47,9 @@ You can use the following processes to split a batch order into two or more batc
 
 ## See also
 
-[Batch order (form)](https://technet.microsoft.com/en-us/library/hh352323\(v=ax.60\))
+[Batch order (form)](https://technet.microsoft.com/library/hh352323\(v=ax.60\))
 
-[Create batch (form)](https://technet.microsoft.com/en-us/library/hh328644\(v=ax.60\))
+[Create batch (form)](https://technet.microsoft.com/library/hh328644\(v=ax.60\))
 
   
 

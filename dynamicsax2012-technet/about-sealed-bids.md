@@ -2,7 +2,7 @@
 title: About sealed bids
 TOCTitle: About sealed bids
 ms:assetid: 79ecccb3-846b-4c45-87db-e884649f916d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn621057(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn621057(v=AX.60)
 ms:contentKeyID: 62200101
 ms.date: 03/25/2015
 mtps_version: v=AX.60

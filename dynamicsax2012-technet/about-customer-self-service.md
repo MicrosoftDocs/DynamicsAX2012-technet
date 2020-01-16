@@ -2,7 +2,7 @@
 title: About Customer Self-Service
 TOCTitle: About Customer Self-Service
 ms:assetid: b122b329-e8b7-400a-b8fc-da38d57a7e83
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498647(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498647(v=AX.60)
 ms:contentKeyID: 36058969
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -2,7 +2,7 @@
 title: About expanding from sales orders
 TOCTitle: About expanding from sales orders
 ms:assetid: 796fb848-a8f8-4feb-af0d-8184f3ebd28b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550058(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550058(v=AX.60)
 ms:contentKeyID: 36058238
 ms.date: 04/18/2014
 mtps_version: v=AX.60

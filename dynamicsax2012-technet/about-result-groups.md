@@ -2,7 +2,7 @@
 title: About result groups
 TOCTitle: About result groups
 ms:assetid: d5097f08-6429-4fcb-b6bb-2db086f37d75
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499370(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499370(v=AX.60)
 ms:contentKeyID: 36059524
 ms.date: 04/18/2014
 mtps_version: v=AX.60

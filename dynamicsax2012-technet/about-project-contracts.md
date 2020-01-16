@@ -2,7 +2,7 @@
 title: About project contracts
 TOCTitle: About project contracts
 ms:assetid: e1d38da3-d2e7-4cf9-8d67-9983c3b489a9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227424(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227424(v=AX.60)
 ms:contentKeyID: 36059714
 ms.date: 10/06/2014
 mtps_version: v=AX.60
@@ -26,7 +26,7 @@ The type of project that you create for a project contract determines the method
 
 [Create and manage projects](create-and-manage-projects.md)
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
 [About project stages](about-project-stages.md)
 

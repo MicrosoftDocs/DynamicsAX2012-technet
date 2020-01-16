@@ -2,7 +2,7 @@
 title: About compliance
 TOCTitle: About compliance
 ms:assetid: 72714ad3-a947-431b-b841-0f4834483161
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271563(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271563(v=AX.60)
 ms:contentKeyID: 36384194
 ms.date: 05/01/2014
 mtps_version: v=AX.60

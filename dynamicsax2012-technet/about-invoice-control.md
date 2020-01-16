@@ -2,7 +2,7 @@
 title: About invoice control
 TOCTitle: About invoice control
 ms:assetid: a9101574-fe0c-4280-b318-3b3b2454e648
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550319(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550319(v=AX.60)
 ms:contentKeyID: 36058892
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -22,11 +22,11 @@ Use invoice control to track both invoiced and non-invoiced transactions, and to
 
 ## See also
 
-[Invoice control (form)](https://technet.microsoft.com/en-us/library/aa618760\(v=ax.60\))
+[Invoice control (form)](https://technet.microsoft.com/library/aa618760\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
 [Invoicing](invoicing.md)
 

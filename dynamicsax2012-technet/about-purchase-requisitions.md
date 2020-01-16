@@ -2,7 +2,7 @@
 title: About purchase requisitions
 TOCTitle: About purchase requisitions
 ms:assetid: 3609683f-4642-428d-ae62-c5a577b1dac6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231099(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231099(v=AX.60)
 ms:contentKeyID: 36056577
 ms.date: 03/25/2015
 mtps_version: v=AX.60
@@ -69,7 +69,7 @@ You can distribute the cost of a product that is included in a purchase requisit
 
 In Microsoft Dynamics AX 2012 R2, the concept of a requisition purpose was introduced. A requisition purpose allows for more flexibility in how requisition demand can be fulfilled. When you create a requisition in AX 2012 R2 or AX 2012 R3, you can assign one of two purposes to it: consumption or replenishment. The default purpose is consumption. This is equivalent to a purchase requisition in earlier versions of Microsoft Dynamics AX, where the replenishment purpose was not available. Depending on the requisition purpose and how your organization is set up, requisition demand can be fulfilled by a purchase order, transfer order, production order, or kanban.
 
-You can control the requisition purposes that are available when a requisition is created for your organization. For more information, see [Requisition purpose rule (form)](https://technet.microsoft.com/en-us/library/jj677434\(v=ax.60\)).
+You can control the requisition purposes that are available when a requisition is created for your organization. For more information, see [Requisition purpose rule (form)](https://technet.microsoft.com/library/jj677434\(v=ax.60\)).
 
 **Requisitions that have a purpose of consumption**
 
@@ -77,7 +77,7 @@ A requisition that has a purpose of consumption represents a demand for items or
 
 **Requisitions that have a purpose of replenishment**
 
-A requisition that has a purpose of replenishment represents a demand to replenish inventory. For example, you might create a requisition to replenish items so that they can be sold at a specific retail location at a specific time. The demand can be fulfilled by a purchase order, transfer order, production order, or kanban. When the requisition purpose is replenishment, demand is expressed as a quantity instead of a monetary amount. Therefore, encumbrance accounting, budgetary control, business rules for fixed asset determination (BRAD), project accounting, and any related rules do not apply. Only products that are stocked and released to the specified legal entity can fulfill replenishment requisition demand. For more information about how to define the products that are available when the requisition purpose is replenishment, see [Replenishment category access policy rule (form)](https://technet.microsoft.com/en-us/library/jj677448\(v=ax.60\)).
+A requisition that has a purpose of replenishment represents a demand to replenish inventory. For example, you might create a requisition to replenish items so that they can be sold at a specific retail location at a specific time. The demand can be fulfilled by a purchase order, transfer order, production order, or kanban. When the requisition purpose is replenishment, demand is expressed as a quantity instead of a monetary amount. Therefore, encumbrance accounting, budgetary control, business rules for fixed asset determination (BRAD), project accounting, and any related rules do not apply. Only products that are stocked and released to the specified legal entity can fulfill replenishment requisition demand. For more information about how to define the products that are available when the requisition purpose is replenishment, see [Replenishment category access policy rule (form)](https://technet.microsoft.com/library/jj677448\(v=ax.60\)).
 
 To use purchase requisitions that have a purpose of replenishment, Microsoft Dynamics AX 2012 R2 must be set up to include requisition demand in master scheduling. After this is set up, the fulfillment method for the demand that is created by a requisition that has a purpose of replenishment is automatically determined. The method is determined by the supply policies that have been set up for the items in your organization and planned by using master scheduling. For more information about how to include requisition demand in master plans, see [Set up master plans to include requisitions](set-up-master-plans-to-include-requisitions.md).
 

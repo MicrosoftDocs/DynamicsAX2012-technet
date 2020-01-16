@@ -2,7 +2,7 @@
 title: About inventory close and the general ledger
 TOCTitle: About inventory close and the general ledger
 ms:assetid: 0a72628b-5a53-4a10-b96a-629c4e8b6a4c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230701(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230701(v=AX.60)
 ms:contentKeyID: 36055985
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -43,7 +43,7 @@ After the update is complete, you can review the resulting ledger voucher that i
 
 [Reverse a completed inventory close](reverse-a-completed-inventory-close.md)
 
-[Voucher transactions (form)](https://technet.microsoft.com/en-us/library/aa583215\(v=ax.60\))
+[Voucher transactions (form)](https://technet.microsoft.com/library/aa583215\(v=ax.60\))
 
   
 

@@ -2,7 +2,7 @@
 title: About manual depreciation
 TOCTitle: About manual depreciation
 ms:assetid: 85b49db4-230f-4499-942e-ee5a9f81ec32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571574(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571574(v=AX.60)
 ms:contentKeyID: 36058407
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -160,9 +160,9 @@ The total of percentages for all intervals does not have to be 100. However, a m
 
 ## See also
 
-[Value models setup (form)](https://technet.microsoft.com/en-us/library/aa582567\(v=ax.60\))
+[Value models setup (form)](https://technet.microsoft.com/library/aa582567\(v=ax.60\))
 
-[Fixed asset depreciation profile schedules (form)](https://technet.microsoft.com/en-us/library/aa575368\(v=ax.60\))
+[Fixed asset depreciation profile schedules (form)](https://technet.microsoft.com/library/aa575368\(v=ax.60\))
 
 [Set up depreciation profiles](set-up-depreciation-profiles.md)
 

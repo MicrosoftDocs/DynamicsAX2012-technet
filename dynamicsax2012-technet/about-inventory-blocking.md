@@ -2,7 +2,7 @@
 title: About inventory blocking
 TOCTitle: About inventory blocking
 ms:assetid: 5be5811c-d90b-475c-a733-61f53b826ab9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209122(v=AX.60)
 ms:contentKeyID: 36057564
 ms.date: 05/02/2014
 mtps_version: v=AX.60

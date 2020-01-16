@@ -2,7 +2,7 @@
 title: About fixed assets integration
 TOCTitle: About fixed assets integration
 ms:assetid: 7b41e403-ced1-4504-af92-f2bdd20cd17b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550078(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550078(v=AX.60)
 ms:contentKeyID: 44080996
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -93,13 +93,13 @@ You can also designate a fixed asset that you are creating or manufacturing as p
 
 [About options for entering fixed asset transactions](about-options-for-entering-fixed-asset-transactions.md)
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
 [Set up Fixed assets and Accounts payable integration](set-up-fixed-assets-and-accounts-payable-integration.md)
 
 [About assets acquired through procurement](about-assets-acquired-through-procurement.md)
 
-[Item posting (form)](https://technet.microsoft.com/en-us/library/aa589971\(v=ax.60\))
+[Item posting (form)](https://technet.microsoft.com/library/aa589971\(v=ax.60\))
 
   
 

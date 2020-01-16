@@ -2,7 +2,7 @@
 title: About cost prices, sales prices, and transfer prices in projects
 TOCTitle: About cost prices, sales prices, and transfer prices in projects
 ms:assetid: 6c213e6c-b925-4211-a050-80770f99f85c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571201(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571201(v=AX.60)
 ms:contentKeyID: 36966727
 ms.date: 10/15/2014
 mtps_version: v=AX.60
@@ -29,7 +29,7 @@ All three types of prices are applied when a transaction is entered into a journ
 
 
 > [!NOTE]
-> <P>Cost prices and sales prices for items are set up in <STRONG>Inventory management</STRONG>. For information about how to create item prices, see <A href="https://technet.microsoft.com/en-us/library/hh803026(v=ax.60)">Item price (form)</A>.</P>
+> <P>Cost prices and sales prices for items are set up in <STRONG>Inventory management</STRONG>. For information about how to create item prices, see <A href="https://technet.microsoft.com/library/hh803026(v=ax.60)">Item price (form)</A>.</P>
 
 
 

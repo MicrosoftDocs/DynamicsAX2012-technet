@@ -2,7 +2,7 @@
 title: About parameters for settlements in Accounts receivable
 TOCTitle: About parameters for settlements in Accounts receivable
 ms:assetid: ac37132d-d044-4529-a294-8f172f9764f4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545528(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh545528(v=AX.60)
 ms:contentKeyID: 37832523
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -39,7 +39,7 @@ The following parameters affect how settlements are processed in Microsoft Dynam
 
   - **Use priority for automatic settlements**
 
-For information about these parameters, see [Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\)).
+For information about these parameters, see [Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\)).
 
 ## Related scenarios
 
@@ -100,7 +100,7 @@ For information about these parameters, see [Accounts receivable parameters (for
 
 [Key tasks: Customer payments and settlements](key-tasks-customer-payments-and-settlements.md)
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
 [Scenario: Settle a customer payment with an invoice](scenario-settle-a-customer-payment-with-an-invoice.md)
 

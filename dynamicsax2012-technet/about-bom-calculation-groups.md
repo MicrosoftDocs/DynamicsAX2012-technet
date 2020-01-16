@@ -2,7 +2,7 @@
 title: About BOM calculation groups
 TOCTitle: About BOM calculation groups
 ms:assetid: 850802da-169a-49ed-a25c-fbfc49309994
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213176(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213176(v=AX.60)
 ms:contentKeyID: 36058401
 ms.date: 04/18/2014
 mtps_version: v=AX.60

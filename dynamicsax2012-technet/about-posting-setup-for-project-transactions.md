@@ -2,7 +2,7 @@
 title: About posting setup for project transactions
 TOCTitle: About posting setup for project transactions
 ms:assetid: 7820b0f9-9d28-4cb5-8ec4-aef7edc0956b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550048(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550048(v=AX.60)
 ms:contentKeyID: 36058219
 ms.date: 10/15/2014
 mtps_version: v=AX.60
@@ -788,9 +788,9 @@ The following table outlines posting setup by project group or by category and i
 
 [Configuring ledger posting for projects](configuring-ledger-posting-for-projects.md)
 
-[Ledger posting setup (form)](https://technet.microsoft.com/en-us/library/aa599270\(v=ax.60\))
+[Ledger posting setup (form)](https://technet.microsoft.com/library/aa599270\(v=ax.60\))
 
-[Posting (form)](https://technet.microsoft.com/en-us/library/aa551718\(v=ax.60\))
+[Posting (form)](https://technet.microsoft.com/library/aa551718\(v=ax.60\))
 
   
 

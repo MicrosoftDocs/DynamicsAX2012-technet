@@ -2,7 +2,7 @@
 title: About automatic adjustment transactions
 TOCTitle: About automatic adjustment transactions
 ms:assetid: 6442910b-8caf-4698-a3fa-2a2bc77f4045
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242422(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242422(v=AX.60)
 ms:contentKeyID: 36057711
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -91,7 +91,7 @@ If the system is not configured to always create new adjustment lines automatica
 
 [Adjust transactions](adjust-transactions.md)
 
-[Adjustments (form)](https://technet.microsoft.com/en-us/library/aa553205\(v=ax.60\))
+[Adjustments (form)](https://technet.microsoft.com/library/aa553205\(v=ax.60\))
 
 [Overview of adjustable and nonadjustable fields](overview-of-adjustable-and-nonadjustable-fields.md)
 

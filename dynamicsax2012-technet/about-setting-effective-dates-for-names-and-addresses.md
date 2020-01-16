@@ -2,7 +2,7 @@
 title: About setting effective dates for names and addresses
 TOCTitle: About setting effective dates for names and addresses
 ms:assetid: 8dd57415-8415-448c-9223-2dd9164d0c28
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433544(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433544(v=AX.60)
 ms:contentKeyID: 36941346
 ms.date: 04/18/2014
 mtps_version: v=AX.60

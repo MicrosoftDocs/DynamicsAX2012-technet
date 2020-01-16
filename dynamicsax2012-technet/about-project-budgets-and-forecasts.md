@@ -2,7 +2,7 @@
 title: About project budgets and forecasts
 TOCTitle: About project budgets and forecasts
 ms:assetid: dae2dcbe-edd8-495f-a710-078cc6d2f115
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227405(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227405(v=AX.60)
 ms:contentKeyID: 36059663
 ms.date: 10/06/2014
 mtps_version: v=AX.60
@@ -115,9 +115,9 @@ Project budgets must be associated with an original budget forecast model and a 
 
 [Create forecast models for project budgets](create-forecast-models-for-project-budgets.md)
 
-[Forecast models (form)](https://technet.microsoft.com/en-us/library/aa620573\(v=ax.60\))
+[Forecast models (form)](https://technet.microsoft.com/library/aa620573\(v=ax.60\))
 
-[Project budget (form)](https://technet.microsoft.com/en-us/library/hh227438\(v=ax.60\))
+[Project budget (form)](https://technet.microsoft.com/library/hh227438\(v=ax.60\))
 
   
 

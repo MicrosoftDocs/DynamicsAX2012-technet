@@ -2,7 +2,7 @@
 title: About nonconformance
 TOCTitle: About nonconformance
 ms:assetid: 94400adb-6f78-445f-a0aa-5434d0a1f9d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232202(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232202(v=AX.60)
 ms:contentKeyID: 36058598
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -83,11 +83,11 @@ You can optionally link one nonconformance to another or create a new nonconform
 
 ## See also
 
-[Nonconformance (form)](https://technet.microsoft.com/en-us/library/hh242787\(v=ax.60\))
+[Nonconformance (form)](https://technet.microsoft.com/library/hh242787\(v=ax.60\))
 
-[Corrections (form)](https://technet.microsoft.com/en-us/library/hh416712\(v=ax.60\))
+[Corrections (form)](https://technet.microsoft.com/library/hh416712\(v=ax.60\))
 
-[Quality orders (form)](https://technet.microsoft.com/en-us/library/hh209521\(v=ax.60\))
+[Quality orders (form)](https://technet.microsoft.com/library/hh209521\(v=ax.60\))
 
   
 

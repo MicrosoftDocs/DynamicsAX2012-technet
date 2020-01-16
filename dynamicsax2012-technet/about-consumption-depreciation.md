@@ -2,7 +2,7 @@
 title: About consumption depreciation
 TOCTitle: About consumption depreciation
 ms:assetid: 4aa76bd0-811b-44b1-a1bb-0e27701553e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497011(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497011(v=AX.60)
 ms:contentKeyID: 36676386
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -21,15 +21,15 @@ You do not have to set up percentages and intervals in the **Depreciation profil
 
 ## To use consumption depreciation
 
-1.  Create the depreciation profile in the **Depreciation profiles** form. For information, see [Depreciation profiles (form)](https://technet.microsoft.com/en-us/library/aa549887\(v=ax.60\)).
+1.  Create the depreciation profile in the **Depreciation profiles** form. For information, see [Depreciation profiles (form)](https://technet.microsoft.com/library/aa549887\(v=ax.60\)).
     
     For consumption calculations, the depreciation profile must have an ID and a name, and **Consumption** must be selected in the **Method** field.
 
-2.  Set up consumption factors in the **Consumption factors** form. For information, see [Consumption factors (form)](https://technet.microsoft.com/en-us/library/aa571869\(v=ax.60\)).
+2.  Set up consumption factors in the **Consumption factors** form. For information, see [Consumption factors (form)](https://technet.microsoft.com/library/aa571869\(v=ax.60\)).
     
     Each consumption factor must have an ID and a name, and a consumption factor that is specified as either a quantity or percentage.
 
-3.  Set up consumption units in the **Consumption units** form. For information, see [Consumption units (form)](https://technet.microsoft.com/en-us/library/aa576472\(v=ax.60\)).
+3.  Set up consumption units in the **Consumption units** form. For information, see [Consumption units (form)](https://technet.microsoft.com/library/aa576472\(v=ax.60\)).
     
     Each consumption unit must have an ID and a name. Depreciation units are used to calculate consumption depreciation in the **Consumption depreciation** form. Examples of units are kilometer (km), kilogram (kg), and hour.
 
@@ -89,15 +89,15 @@ Estimated quantity \* Percentage \* Unit depreciation
 
 [Set up consumption depreciation](set-up-consumption-depreciation.md)
 
-[Depreciation profiles (form)](https://technet.microsoft.com/en-us/library/aa549887\(v=ax.60\))
+[Depreciation profiles (form)](https://technet.microsoft.com/library/aa549887\(v=ax.60\))
 
 [Set up depreciation profiles](set-up-depreciation-profiles.md)
 
-[Consumption factors (form)](https://technet.microsoft.com/en-us/library/aa571869\(v=ax.60\))
+[Consumption factors (form)](https://technet.microsoft.com/library/aa571869\(v=ax.60\))
 
-[Consumption units (form)](https://technet.microsoft.com/en-us/library/aa576472\(v=ax.60\))
+[Consumption units (form)](https://technet.microsoft.com/library/aa576472\(v=ax.60\))
 
-[Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620341\(v=ax.60\))
+[Fixed assets (form)](https://technet.microsoft.com/library/aa620341\(v=ax.60\))
 
   
 

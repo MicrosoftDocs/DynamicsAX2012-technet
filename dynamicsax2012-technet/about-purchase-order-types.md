@@ -2,7 +2,7 @@
 title: About purchase order types
 TOCTitle: About purchase order types
 ms:assetid: 543642da-aef3-40e7-b3d2-78ffa9a1cc84
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548932(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548932(v=AX.60)
 ms:contentKeyID: 36057303
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -34,7 +34,7 @@ When you create a purchase order, you must indicate which type of an order it is
 
 
 > [!TIP]
-> <P>You can set up a default purchase order type in the <A href="https://technet.microsoft.com/en-us/library/hh208706(v=ax.60)">Procurement and sourcing parameters (form)</A> in the <STRONG>Purchase type</STRONG> field.</P>
+> <P>You can set up a default purchase order type in the <A href="https://technet.microsoft.com/library/hh208706(v=ax.60)">Procurement and sourcing parameters (form)</A> in the <STRONG>Purchase type</STRONG> field.</P>
 
 
 

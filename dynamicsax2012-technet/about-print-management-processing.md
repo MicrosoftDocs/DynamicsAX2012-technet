@@ -2,7 +2,7 @@
 title: About print management processing
 TOCTitle: About print management processing
 ms:assetid: 1cffff79-b864-4ba6-a622-5c0128745c1e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309615(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309615(v=AX.60)
 ms:contentKeyID: 36056138
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -142,7 +142,7 @@ You might use a custom report format for specific accounts. For example, you mig
 
 [About print management document types and modules](about-print-management-document-types-and-modules.md)
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
   
 

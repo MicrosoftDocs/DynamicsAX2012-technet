@@ -2,7 +2,7 @@
 title: About gift cards in AX 2012 R3
 TOCTitle: About gift cards in AX 2012 R3
 ms:assetid: d457f119-8160-4253-a9b9-567b27aca8d3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497834(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497834(v=AX.60)
 ms:contentKeyID: 62200164
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -62,7 +62,7 @@ To set up gift cards in AX 2012 R3, complete the following tasks:
 
 3.  Set up intercompany posting rules for the legal entities that are participating in the gift card program. This step is required only if your organization supports selling and redeeming gift cards across legal entities.
     
-    For more information about how to set up intercompany posting rules, see [Intercompany accounting (form)](https://technet.microsoft.com/en-us/library/aa619468\(v=ax.60\)).
+    For more information about how to set up intercompany posting rules, see [Intercompany accounting (form)](https://technet.microsoft.com/library/aa619468\(v=ax.60\)).
 
 4.  In the **Retail parameters** form, on the **Posting** tab, set the parameters to use to sell and redeem gift cards. For more information about how to set up gift cards parameters in AX 2012 R3, see [Set up gift cards](set-up-gift-cards.md).
 

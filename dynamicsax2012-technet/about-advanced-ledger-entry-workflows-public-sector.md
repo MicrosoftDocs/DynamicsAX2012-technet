@@ -2,7 +2,7 @@
 title: About advanced ledger entry workflows (Public sector)
 TOCTitle: About advanced ledger entry workflows (Public sector)
 ms:assetid: 0941a884-764c-4e4c-832a-af33a47622ca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208501(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208501(v=AX.60)
 ms:contentKeyID: 36056239
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -71,7 +71,7 @@ A workflow configuration is based on a workflow type. You can create multiple wo
 
 ## See also
 
-[Advanced ledger entry (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208579\(v=ax.60\))
+[Advanced ledger entry (form) (Public sector)](https://technet.microsoft.com/library/hh208579\(v=ax.60\))
 
 [Set up General ledger workflows](set-up-general-ledger-workflows.md)
 

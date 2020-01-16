@@ -2,7 +2,7 @@
 title: About creating alert rules
 TOCTitle: About creating alert rules
 ms:assetid: 8daa1191-386b-4392-b194-21742698f73b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834415(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834415(v=AX.60)
 ms:contentKeyID: 46687554
 ms.date: 05/02/2014
 mtps_version: v=AX.60

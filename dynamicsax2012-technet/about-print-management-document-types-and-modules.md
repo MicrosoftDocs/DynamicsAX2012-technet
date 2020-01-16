@@ -2,7 +2,7 @@
 title: About print management document types and modules
 TOCTitle: About print management document types and modules
 ms:assetid: 89c961e8-6e82-49d2-8b9e-2b89ccb1e076
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309745(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309745(v=AX.60)
 ms:contentKeyID: 36058461
 ms.date: 04/18/2014
 mtps_version: v=AX.60

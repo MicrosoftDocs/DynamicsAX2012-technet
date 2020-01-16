@@ -2,7 +2,7 @@
 title: About Project management and accounting parameters
 TOCTitle: About Project management and accounting parameters
 ms:assetid: ef05876f-1954-453b-afa5-bb03749000f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500671(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500671(v=AX.60)
 ms:contentKeyID: 37822167
 ms.date: 11/12/2014
 mtps_version: v=AX.60
@@ -126,7 +126,7 @@ Click **Project management and accounting** \> **Setup** \> **Project management
 </table>
 
 
-For detailed information that includes individual field descriptions, see [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\)).
+For detailed information that includes individual field descriptions, see [Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\)).
 
   
 

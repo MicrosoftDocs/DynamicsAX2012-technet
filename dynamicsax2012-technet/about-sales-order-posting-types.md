@@ -2,7 +2,7 @@
 title: About sales order posting types
 TOCTitle: About sales order posting types
 ms:assetid: ad7875e1-45b2-4c48-9850-35490c808485
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498586(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498586(v=AX.60)
 ms:contentKeyID: 44081023
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -65,11 +65,11 @@ The sale of the item, excluding any taxes, such as sales tax, is credited to the
 
 ## See also
 
-[Item posting (form)](https://technet.microsoft.com/en-us/library/aa589971\(v=ax.60\))
+[Item posting (form)](https://technet.microsoft.com/library/aa589971\(v=ax.60\))
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
-[Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\))
+[Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\))
 
   
 

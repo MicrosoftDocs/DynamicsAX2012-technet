@@ -2,7 +2,7 @@
 title: About RFID
 TOCTitle: About RFID
 ms:assetid: a7de3288-1e68-4bc7-8357-1530f2b247fc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550308(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550308(v=AX.60)
 ms:contentKeyID: 36058880
 ms.date: 04/18/2014
 mtps_version: v=AX.60

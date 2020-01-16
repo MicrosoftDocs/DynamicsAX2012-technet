@@ -2,7 +2,7 @@
 title: About job scheduling
 TOCTitle: About job scheduling
 ms:assetid: 5222e57e-0ee5-4c9a-8a3d-b1c03f3e3fbd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548918(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548918(v=AX.60)
 ms:contentKeyID: 44080982
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -29,7 +29,7 @@ Job scheduling is a more detailed form of scheduling than operations scheduling.
 
 Job scheduling also enables you to synchronize all jobs that are referenced by the selected job. You can specify a starting date and time or finishing date and time for the job, and then run scheduling. The time that you specify can be the starting time or the finishing time depending on the scheduling direction. This is useful, for example, when a job can be run only on one machine at a time, or to optimize the job that is run for each resource.
 
-For more information, see [Dispatching (form)](https://technet.microsoft.com/en-us/library/aa552714\(v=ax.60\)).
+For more information, see [Dispatching (form)](https://technet.microsoft.com/library/aa552714\(v=ax.60\)).
 
 ## Tasks in the job scheduling process
 
@@ -65,7 +65,7 @@ Job scheduling that is based on finite materials makes sure that the required ma
 
 ## Finite properties
 
-Job scheduling that is based on special properties requires that properties be specified for the operations on the production route. These properties must be fulfilled to reserve capacity. For more information, see [Properties (form)](https://technet.microsoft.com/en-us/library/aa634336\(v=ax.60\)).
+Job scheduling that is based on special properties requires that properties be specified for the operations on the production route. These properties must be fulfilled to reserve capacity. For more information, see [Properties (form)](https://technet.microsoft.com/library/aa634336\(v=ax.60\)).
 
 ## References
 
@@ -109,9 +109,9 @@ Job scheduling considers the efficiency percentages that are specified for the r
 
 [Run job scheduling](run-job-scheduling.md)
 
-[Set up job scheduling (form)](https://technet.microsoft.com/en-us/library/aa553462\(v=ax.60\))
+[Set up job scheduling (form)](https://technet.microsoft.com/library/aa553462\(v=ax.60\))
 
-[Production - Job scheduling (class form)](https://technet.microsoft.com/en-us/library/aa584348\(v=ax.60\))
+[Production - Job scheduling (class form)](https://technet.microsoft.com/library/aa584348\(v=ax.60\))
 
   
 

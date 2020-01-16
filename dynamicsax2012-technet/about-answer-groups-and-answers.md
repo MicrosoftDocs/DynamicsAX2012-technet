@@ -2,7 +2,7 @@
 title: About answer groups and answers
 TOCTitle: About answer groups and answers
 ms:assetid: c2822c8b-3fa7-4e0a-8e5d-91ee4c9e08b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597234(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597234(v=AX.60)
 ms:contentKeyID: 39519307
 ms.date: 04/18/2014
 mtps_version: v=AX.60

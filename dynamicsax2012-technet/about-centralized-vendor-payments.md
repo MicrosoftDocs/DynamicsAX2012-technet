@@ -2,7 +2,7 @@
 title: About centralized vendor payments
 TOCTitle: About centralized vendor payments
 ms:assetid: 1c171d11-5b5e-45dd-92d1-87d4a7391a2b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230974(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230974(v=AX.60)
 ms:contentKeyID: 36056132
 ms.date: 05/02/2014
 mtps_version: v=AX.60

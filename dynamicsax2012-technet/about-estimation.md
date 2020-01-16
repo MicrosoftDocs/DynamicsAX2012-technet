@@ -2,7 +2,7 @@
 title: About estimation
 TOCTitle: About estimation
 ms:assetid: 345ec0fc-b528-4c68-9e48-1e52580b0221
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570116(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570116(v=AX.60)
 ms:contentKeyID: 36056551
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -53,7 +53,7 @@ A cost estimate also provides:
 
 ## See also
 
-[Production - Price calculation (form)](https://technet.microsoft.com/en-us/library/aa572054\(v=ax.60\))
+[Production - Price calculation (form)](https://technet.microsoft.com/library/aa572054\(v=ax.60\))
 
   
 

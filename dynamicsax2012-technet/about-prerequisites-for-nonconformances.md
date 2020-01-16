@@ -2,7 +2,7 @@
 title: About prerequisites for nonconformances
 TOCTitle: About prerequisites for nonconformances
 ms:assetid: 7bb85741-fc4a-49e0-9892-563cd47cf1dc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213025(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213025(v=AX.60)
 ms:contentKeyID: 36058259
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -59,9 +59,9 @@ To set up and use nonconformances, follow these steps:
 
 [About nonconformance](about-nonconformance.md)
 
-[Nonconformance (form)](https://technet.microsoft.com/en-us/library/hh242787\(v=ax.60\))
+[Nonconformance (form)](https://technet.microsoft.com/library/hh242787\(v=ax.60\))
 
-[Corrections (form)](https://technet.microsoft.com/en-us/library/hh416712\(v=ax.60\))
+[Corrections (form)](https://technet.microsoft.com/library/hh416712\(v=ax.60\))
 
   
 

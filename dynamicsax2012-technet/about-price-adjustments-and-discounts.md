@@ -2,7 +2,7 @@
 title: About price adjustments and discounts
 TOCTitle: About price adjustments and discounts
 ms:assetid: 7dbdf115-b5ed-447b-9ad9-43cf4865bb4b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597143(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597143(v=AX.60)
 ms:contentKeyID: 39519199
 ms.date: 04/18/2014
 mtps_version: v=AX.60

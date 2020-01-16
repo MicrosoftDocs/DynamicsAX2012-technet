@@ -2,7 +2,7 @@
 title: About hour registration
 TOCTitle: About hour registration
 ms:assetid: 3183d12a-88a8-4e85-9da1-ff65e0ae4dbf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570050(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570050(v=AX.60)
 ms:contentKeyID: 36056338
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -52,17 +52,17 @@ The following parameters must be defined in the **Journals** area in the **Proje
 
 [About journal names](about-journal-names.md)
 
-[Journal names (form)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\))
+[Journal names (form)](https://technet.microsoft.com/library/aa617509\(v=ax.60\))
 
-[Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\))
+[Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\))
 
 [Set up project journal names](set-up-project-journal-options.md)
 
 [Set up journal names](set-up-journal-names.md)
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
   
 

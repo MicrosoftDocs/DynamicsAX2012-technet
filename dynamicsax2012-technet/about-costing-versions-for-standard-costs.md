@@ -2,7 +2,7 @@
 title: About costing versions for standard costs
 TOCTitle: About costing versions for standard costs
 ms:assetid: a7eb1e2f-32bc-452e-89c3-2ab2554b4cfc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243057(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243057(v=AX.60)
 ms:contentKeyID: 36058882
 ms.date: 04/18/2014
 mtps_version: v=AX.60

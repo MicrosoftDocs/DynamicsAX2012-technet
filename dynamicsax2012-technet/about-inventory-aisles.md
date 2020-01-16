@@ -2,7 +2,7 @@
 title: About inventory aisles
 TOCTitle: About inventory aisles
 ms:assetid: 6a7fa1ba-7ee5-46ae-90e7-c97f2df57823
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571177(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571177(v=AX.60)
 ms:contentKeyID: 36057979
 ms.date: 04/18/2014
 mtps_version: v=AX.60

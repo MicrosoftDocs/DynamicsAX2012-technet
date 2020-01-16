@@ -2,7 +2,7 @@
 title: About inventory close
 TOCTitle: About inventory close
 ms:assetid: 92c74079-fb6a-4924-8567-dae66015d6af
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232187(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232187(v=AX.60)
 ms:contentKeyID: 36058578
 ms.date: 04/18/2014
 mtps_version: v=AX.60

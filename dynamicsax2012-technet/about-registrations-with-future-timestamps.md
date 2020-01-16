@@ -2,7 +2,7 @@
 title: About registrations with future timestamps
 TOCTitle: About registrations with future timestamps
 ms:assetid: 25e387e5-8ffb-4246-bce0-46cd550c35e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496820(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496820(v=AX.60)
 ms:contentKeyID: 43976707
 ms.date: 04/18/2014
 mtps_version: v=AX.60

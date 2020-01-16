@@ -2,7 +2,7 @@
 title: About reporting and analytics
 TOCTitle: About reporting and analytics
 ms:assetid: 069e7c48-84a5-46bb-84ff-6f616664aa9f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271445(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271445(v=AX.60)
 ms:contentKeyID: 36384077
 ms.date: 04/18/2014
 mtps_version: v=AX.60

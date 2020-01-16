@@ -2,7 +2,7 @@
 title: About applicants and applications
 TOCTitle: About applicants and applications
 ms:assetid: f4f660cd-2f47-40d1-aef2-bf8a2340582a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh351825(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh351825(v=AX.60)
 ms:contentKeyID: 36676420
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -96,21 +96,21 @@ The application status indicates where an application is in the recruitment proc
 
 ## Application routing
 
-If an application must be reviewed by several workers, you can use the **Application routing** form to create a worker circulation list in order to manage the process. For more information, see [Application routing (form)](https://technet.microsoft.com/en-us/library/aa598738\(v=ax.60\)).
+If an application must be reviewed by several workers, you can use the **Application routing** form to create a worker circulation list in order to manage the process. For more information, see [Application routing (form)](https://technet.microsoft.com/library/aa598738\(v=ax.60\)).
 
 ## See also
 
 [Key tasks: Applicants](key-tasks-applicants.md)
 
-[Applicant (form)](https://technet.microsoft.com/en-us/library/aa589409\(v=ax.60\))
+[Applicant (form)](https://technet.microsoft.com/library/aa589409\(v=ax.60\))
 
-[Applicant interviews (form)](https://technet.microsoft.com/en-us/library/aa590448\(v=ax.60\))
+[Applicant interviews (form)](https://technet.microsoft.com/library/aa590448\(v=ax.60\))
 
-[Applicant references (form)](https://technet.microsoft.com/en-us/library/hh242266\(v=ax.60\))
+[Applicant references (form)](https://technet.microsoft.com/library/hh242266\(v=ax.60\))
 
 [About workers](about-workers.md)
 
-[Human resource parameters (form)](https://technet.microsoft.com/en-us/library/aa596451\(v=ax.60\))
+[Human resource parameters (form)](https://technet.microsoft.com/library/aa596451\(v=ax.60\))
 
   
 

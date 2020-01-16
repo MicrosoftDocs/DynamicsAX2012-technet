@@ -2,7 +2,7 @@
 title: About product models
 TOCTitle: About product models
 ms:assetid: a88d03bf-435f-4030-962f-9fcaec530335
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550313(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550313(v=AX.60)
 ms:contentKeyID: 36676402
 ms.date: 04/18/2014
 mtps_version: v=AX.60

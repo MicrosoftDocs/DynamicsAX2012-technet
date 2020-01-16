@@ -2,7 +2,7 @@
 title: About inventory recalculation and the general ledger
 TOCTitle: About inventory recalculation and the general ledger
 ms:assetid: f0e972dc-bd9d-43ae-b646-442d5c57d2bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243272(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243272(v=AX.60)
 ms:contentKeyID: 37008251
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -29,7 +29,7 @@ After the update is completed, you can review the ledger voucher that is posted 
 
 ## See also
 
-[Voucher transactions (form)](https://technet.microsoft.com/en-us/library/aa583215\(v=ax.60\))
+[Voucher transactions (form)](https://technet.microsoft.com/library/aa583215\(v=ax.60\))
 
   
 

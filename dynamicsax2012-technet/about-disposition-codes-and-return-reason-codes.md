@@ -2,7 +2,7 @@
 title: About disposition codes and return reason codes
 TOCTitle: About disposition codes and return reason codes
 ms:assetid: 40f3ed28-3d2f-41bd-b5b3-e189dbe23b90
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231359(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231359(v=AX.60)
 ms:contentKeyID: 53874077
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -44,11 +44,11 @@ Assign a disposition code when an item is received or during the physical inspec
 
 [About quarantine orders](about-quarantine-orders.md)
 
-[Return reason code groups (form)](https://technet.microsoft.com/en-us/library/hh209604\(v=ax.60\))
+[Return reason code groups (form)](https://technet.microsoft.com/library/hh209604\(v=ax.60\))
 
-[Return reason codes (form)](https://technet.microsoft.com/en-us/library/hh227372\(v=ax.60\))
+[Return reason codes (form)](https://technet.microsoft.com/library/hh227372\(v=ax.60\))
 
-[Disposition codes (form)](https://technet.microsoft.com/en-us/library/hh597113\(v=ax.60\))
+[Disposition codes (form)](https://technet.microsoft.com/library/hh597113\(v=ax.60\))
 
 [Authorize customer returns](authorize-customer-returns.md)
 

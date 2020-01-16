@@ -2,7 +2,7 @@
 title: About posting with derived depreciation books
 TOCTitle: About posting with derived depreciation books
 ms:assetid: fbac9d71-cea0-471a-8104-0eb09e233b70
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499878(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499878(v=AX.60)
 ms:contentKeyID: 36060080
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -55,9 +55,9 @@ The fixed asset can then be depreciated in the value model and the depreciation 
 
 [About derived depreciation books](about-derived-depreciation-books.md)
 
-[Fixed asset posting profiles (form)](https://technet.microsoft.com/en-us/library/aa571467\(v=ax.60\))
+[Fixed asset posting profiles (form)](https://technet.microsoft.com/library/aa571467\(v=ax.60\))
 
-[Value models setup (form)](https://technet.microsoft.com/en-us/library/aa582567\(v=ax.60\))
+[Value models setup (form)](https://technet.microsoft.com/library/aa582567\(v=ax.60\))
 
   
 

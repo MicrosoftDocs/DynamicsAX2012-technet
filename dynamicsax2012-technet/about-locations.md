@@ -2,7 +2,7 @@
 title: About locations
 TOCTitle: About locations
 ms:assetid: 19894f01-36a1-46b4-a2d2-b401473eef61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569916(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569916(v=AX.60)
 ms:contentKeyID: 36056113
 ms.date: 05/02/2014
 mtps_version: v=AX.60

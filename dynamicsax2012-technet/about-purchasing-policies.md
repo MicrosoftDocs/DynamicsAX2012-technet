@@ -2,7 +2,7 @@
 title: About purchasing policies
 TOCTitle: About purchasing policies
 ms:assetid: a1a6647e-dabd-4c96-a0e2-2dd5a4e0b54c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209455(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209455(v=AX.60)
 ms:contentKeyID: 36058791
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -85,13 +85,13 @@ Therefore, policy 456 is applied to the purchase requisition that Sam creates. N
 
 In Microsoft Dynamics AX 2012 R2, the following new purchasing policy rule types are available:
 
-  - **Re-approval rule for purchase orders** – An optional rule that defines the criteria for requiring reapproval when changes are made to a purchase order. For more information, see [Re-approval rule for purchase orders (form)](https://technet.microsoft.com/en-us/library/jj680083\(v=ax.60\)).
+  - **Re-approval rule for purchase orders** – An optional rule that defines the criteria for requiring reapproval when changes are made to a purchase order. For more information, see [Re-approval rule for purchase orders (form)](https://technet.microsoft.com/library/jj680083\(v=ax.60\)).
 
-  - **Requisition purpose rule** – An optional rule that determines the type of requisition purpose allowed for a specific legal entity. Unless it is otherwise indicated in this rule, requisitions will automatically have a purpose of consumption when they are created. For more information about how to control the requisition purposes that are available when a requisition is created for your organization, see [Requisition purpose rule (form)](https://technet.microsoft.com/en-us/library/jj677434\(v=ax.60\)).
+  - **Requisition purpose rule** – An optional rule that determines the type of requisition purpose allowed for a specific legal entity. Unless it is otherwise indicated in this rule, requisitions will automatically have a purpose of consumption when they are created. For more information about how to control the requisition purposes that are available when a requisition is created for your organization, see [Requisition purpose rule (form)](https://technet.microsoft.com/library/jj677434\(v=ax.60\)).
 
-  - **Replenishment category access policy rule** – An optional rule that determines the products that are available to fulfill requisition demand for a specific legal entity when the requisition purpose is replenishment. For more information, see [Replenishment category access policy rule (form)](https://technet.microsoft.com/en-us/library/jj677448\(v=ax.60\)).
+  - **Replenishment category access policy rule** – An optional rule that determines the products that are available to fulfill requisition demand for a specific legal entity when the requisition purpose is replenishment. For more information, see [Replenishment category access policy rule (form)](https://technet.microsoft.com/library/jj677448\(v=ax.60\)).
 
-  - **Replenishment control rule** – An optional rule that defines the fields on the requisition line that must be entered for the requisition to be submitted for approval when the requisition purpose is replenishment. For more information, see [Replenishment control rule (form)](https://technet.microsoft.com/en-us/library/jj677424\(v=ax.60\)).
+  - **Replenishment control rule** – An optional rule that defines the fields on the requisition line that must be entered for the requisition to be submitted for approval when the requisition purpose is replenishment. For more information, see [Replenishment control rule (form)](https://technet.microsoft.com/library/jj677424\(v=ax.60\)).
 
 The **Requisition purpose rule**, **Replenishment category access policy rule**, and **Replenishment control rule** apply to the new concept of a requisition purpose in Microsoft Dynamics AX 2012 R2, specifically the replenishment requisition purpose. A requisition purpose allows for more flexibility in how requisition demand can be fulfilled. When you create a requisition, you can assign one of two purposes to it: consumption or replenishment. If your organization does not require requisitions that have a purpose of replenishment, these three new policy rule types are not applicable. The default purpose in Microsoft Dynamics AX 2012 R2 is consumption. This is equivalent to a purchase requisition in earlier versions of Microsoft Dynamics AX, where the replenishment purpose was not available. For more information about requisition purposes and how they affect the requisition process, see [About purchase requisitions](about-purchase-requisitions.md).
 

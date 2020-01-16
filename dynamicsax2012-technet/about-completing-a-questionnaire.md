@@ -2,7 +2,7 @@
 title: About completing a questionnaire
 TOCTitle: About completing a questionnaire
 ms:assetid: ccaa21d5-71b2-4267-b360-a04d4524f734
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572677(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572677(v=AX.60)
 ms:contentKeyID: 41702390
 ms.date: 04/18/2014
 mtps_version: v=AX.60

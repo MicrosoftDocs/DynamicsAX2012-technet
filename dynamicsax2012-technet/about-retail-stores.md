@@ -2,7 +2,7 @@
 title: About retail stores
 TOCTitle: About retail stores
 ms:assetid: 0e9db194-7de8-44aa-aaad-82d6bb03bf50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580567(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580567(v=AX.60)
 ms:contentKeyID: 39519045
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -59,9 +59,9 @@ The following table shows the tasks that you must complete before you can set up
 </tr>
 <tr class="even">
 <td><p>Configure parameters for Retail.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597194(v=ax.60)">Retail parameters (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh580625(v=ax.60)">Retail shared parameters (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh597151(v=ax.60)">Retail scheduler parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597194(v=ax.60)">Retail parameters (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh580625(v=ax.60)">Retail shared parameters (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh597151(v=ax.60)">Retail scheduler parameters (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Set up the methods of payment that the store accepts.</p>

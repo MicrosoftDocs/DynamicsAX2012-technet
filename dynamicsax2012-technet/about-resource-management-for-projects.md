@@ -2,7 +2,7 @@
 title: About resource management for projects
 TOCTitle: About resource management for projects
 ms:assetid: 324a63e4-855e-4a62-bd0c-1300fa223f9b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208573(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208573(v=AX.60)
 ms:contentKeyID: 36056355
 ms.date: 10/06/2014
 mtps_version: v=AX.60
@@ -56,7 +56,7 @@ Microsoft Dynamics AX provides a number of resource scheduling capabilities that
 
 The following prerequisites must be completed before workers can be assigned to a project or activity:
 
-  - Set up the project parameters that determine the minimum thresholds for how closely a worker’s skills and availability must match the requirements for a project or activity for the worker to be included in search results. The scheduling and skills-match parameters are located in the **Project management and accounting parameters** form, in the **Scheduling** area. For more information about how to set up these project parameters, see [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\)).
+  - Set up the project parameters that determine the minimum thresholds for how closely a worker’s skills and availability must match the requirements for a project or activity for the worker to be included in search results. The scheduling and skills-match parameters are located in the **Project management and accounting parameters** form, in the **Scheduling** area. For more information about how to set up these project parameters, see [Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\)).
 
   - Define the scheduling requirements for the project or activity in the **Projects** form.
     
@@ -82,9 +82,9 @@ The following prerequisites must be completed before workers can be assigned to 
     
       - The estimated number of worker hours required to complete the project
     
-    For more information about how to define the scheduling requirements for a project or activity, see [Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\)).
+    For more information about how to define the scheduling requirements for a project or activity, see [Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\)).
 
-  - Define the project activities and any activity requirements in the **Work breakdown structure** form. For more information about how to set up a work breakdown structure, see [About work breakdown structures](about-work-breakdown-structures.md) and [Work breakdown structure (form)](https://technet.microsoft.com/en-us/library/hh209089\(v=ax.60\)).
+  - Define the project activities and any activity requirements in the **Work breakdown structure** form. For more information about how to set up a work breakdown structure, see [About work breakdown structures](about-work-breakdown-structures.md) and [Work breakdown structure (form)](https://technet.microsoft.com/library/hh209089\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -92,11 +92,11 @@ The following prerequisites must be completed before workers can be assigned to 
 
 
 
-  - Set up or verify the calendar to use for the worker. For more information about how to set the calendar for a worker, see [Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\)).
+  - Set up or verify the calendar to use for the worker. For more information about how to set the calendar for a worker, see [Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\)).
 
   - Set up or verify the worker’s education, skills, certifications, project experience, and other attributes.
     
-    For more information about how to set up additional worker attributes, see [Set up worker attributes](set-up-worker-attributes.md) and [Other worker attributes (form)](https://technet.microsoft.com/en-us/library/hh242802\(v=ax.60\)).
+    For more information about how to set up additional worker attributes, see [Set up worker attributes](set-up-worker-attributes.md) and [Other worker attributes (form)](https://technet.microsoft.com/library/hh242802\(v=ax.60\)).
 
 ## See also
 
@@ -108,17 +108,17 @@ The following prerequisites must be completed before workers can be assigned to 
 
 [Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012](key-tasks-create-a-schedule-based-on-a-project-in-microsoft-dynamics-ax-2012.md)
 
-[Assign resources (form)](https://technet.microsoft.com/en-us/library/hh208809\(v=ax.60\))
+[Assign resources (form)](https://technet.microsoft.com/library/hh208809\(v=ax.60\))
 
-[Schedule resources (form)](https://technet.microsoft.com/en-us/library/hh209507\(v=ax.60\))
+[Schedule resources (form)](https://technet.microsoft.com/library/hh209507\(v=ax.60\))
 
-[Resource assignments (form)](https://technet.microsoft.com/en-us/library/hh242655\(v=ax.60\))
+[Resource assignments (form)](https://technet.microsoft.com/library/hh242655\(v=ax.60\))
 
-[Resource assignment analysis - Project (form)](https://technet.microsoft.com/en-us/library/hh209116\(v=ax.60\))
+[Resource assignment analysis - Project (form)](https://technet.microsoft.com/library/hh209116\(v=ax.60\))
 
-[Resource assignment analysis - Project (form) in AX 2012 R3](https://technet.microsoft.com/en-us/library/dn736992\(v=ax.60\))
+[Resource assignment analysis - Project (form) in AX 2012 R3](https://technet.microsoft.com/library/dn736992\(v=ax.60\))
 
-[Resource assignment analysis - worker (form)](https://technet.microsoft.com/en-us/library/hh227569\(v=ax.60\))
+[Resource assignment analysis - worker (form)](https://technet.microsoft.com/library/hh227569\(v=ax.60\))
 
   
 

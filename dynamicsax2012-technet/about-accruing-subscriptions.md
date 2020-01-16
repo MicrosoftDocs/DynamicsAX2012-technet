@@ -2,7 +2,7 @@
 title: About accruing subscriptions
 TOCTitle: About accruing subscriptions
 ms:assetid: ade337ca-171e-4165-b85b-cc512ad43d97
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498590(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498590(v=AX.60)
 ms:contentKeyID: 36058933
 ms.date: 05/02/2014
 mtps_version: v=AX.60
@@ -29,7 +29,7 @@ If you credit invoiced subscription amounts, you can use two methods to reverse 
 
   - You can have the accrued amounts reversed on the date where the credit note is posted or on the original posting date of the accrual.
 
-For more information, see [Subscription parameters (form)](https://technet.microsoft.com/en-us/library/aa619615\(v=ax.60\)).
+For more information, see [Subscription parameters (form)](https://technet.microsoft.com/library/aa619615\(v=ax.60\)).
 
 ## Setup requirements
 

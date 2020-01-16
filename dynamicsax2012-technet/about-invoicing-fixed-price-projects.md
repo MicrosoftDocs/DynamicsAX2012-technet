@@ -2,7 +2,7 @@
 title: About invoicing fixed-price projects
 TOCTitle: About invoicing fixed-price projects
 ms:assetid: 11f3e924-c66e-4f58-8a04-9cb54dd6ac9e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496574(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496574(v=AX.60)
 ms:contentKeyID: 36056037
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -43,7 +43,7 @@ When the milestone payments are ready to be invoiced, you apply the procedure fo
 
 ## See also
 
-[On-account transactions (form)](https://technet.microsoft.com/en-us/library/aa557380\(v=ax.60\))
+[On-account transactions (form)](https://technet.microsoft.com/library/aa557380\(v=ax.60\))
 
 [Create an invoice for on-account transactions](create-an-invoice-for-on-account-transactions.md)
 

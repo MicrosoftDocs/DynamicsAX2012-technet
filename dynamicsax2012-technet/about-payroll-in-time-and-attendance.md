@@ -2,7 +2,7 @@
 title: About payroll in Time and attendance
 TOCTitle: About payroll in Time and attendance
 ms:assetid: fc0eb584-b49c-4cc4-88f0-8709d072d5ce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499883(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499883(v=AX.60)
 ms:contentKeyID: 44081063
 ms.date: 05/02/2014
 mtps_version: v=AX.60

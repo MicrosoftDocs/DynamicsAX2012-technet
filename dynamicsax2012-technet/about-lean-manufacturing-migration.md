@@ -2,7 +2,7 @@
 title: About Lean manufacturing migration
 TOCTitle: About Lean manufacturing migration
 ms:assetid: 14304458-7557-4e3f-97a9-db7365c4ad05
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg188980(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg188980(v=AX.60)
 ms:contentKeyID: 35410559
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -26,27 +26,27 @@ This topic describes the migration scenario for Microsoft Dynamics AX 2012 Lean 
 
 You perform these tasks in the following forms:
 
-  - **Convert kanbans to next version kanban rules** form – Use this form to convert the current version kanban rules to the next version. To open the form, click **Preprocessing upgrade checklist** \> **Prepare application data for preprocessing** \> **Prepare kanbans for migration**. See [Convert kanbans to next version kanban rules (form)](https://technet.microsoft.com/en-us/library/hh202074\(v=ax.60\)) for more information.
+  - **Convert kanbans to next version kanban rules** form – Use this form to convert the current version kanban rules to the next version. To open the form, click **Preprocessing upgrade checklist** \> **Prepare application data for preprocessing** \> **Prepare kanbans for migration**. See [Convert kanbans to next version kanban rules (form)](https://technet.microsoft.com/library/hh202074\(v=ax.60\)) for more information.
 
-  - **Convert LOS-BTO schedules to next version kanban rules** form – Use this form to convert the current version LOS schedules to the next version. To open the form, click **Preprocessing upgrade checklist** \> **Prepare application data for preprocessing** \> **Prepare LOS schedules for migration**. See [Convert LOS-BTO schedules to next version kanban rules (form)](https://technet.microsoft.com/en-us/library/hh202116\(v=ax.60\)) for more information.
+  - **Convert LOS-BTO schedules to next version kanban rules** form – Use this form to convert the current version LOS schedules to the next version. To open the form, click **Preprocessing upgrade checklist** \> **Prepare application data for preprocessing** \> **Prepare LOS schedules for migration**. See [Convert LOS-BTO schedules to next version kanban rules (form)](https://technet.microsoft.com/library/hh202116\(v=ax.60\)) for more information.
 
 ## Create the Lean manufacturing framework
 
 The Microsoft Dynamics AX 2012 Lean manufacturing data structures consist of production flows and production flow activities. To create these and set up the associated data, complete the following tasks. In the **Convert kanbans to next version kanban rules** form, or alternatively, in the **Convert LOS-BTO schedules to next version kanban rules** form, click **Next version base data**, and then select the appropriate form.
 
-  - In the **Production flow model** form, create and configure production flow models. These models define: the capacity settings for work cells and the display settings that are used in the kanban boards. See [Production flow model upgrade (form)](https://technet.microsoft.com/en-us/library/hh202123\(v=ax.60\)) for more information.
+  - In the **Production flow model** form, create and configure production flow models. These models define: the capacity settings for work cells and the display settings that are used in the kanban boards. See [Production flow model upgrade (form)](https://technet.microsoft.com/library/hh202123\(v=ax.60\)) for more information.
 
-  - In the **Lean manufacturing next version value streams** form, define the value streams that are used to classify and aggregate lean financial transactions. Each new production flow references a value stream. During the upgrade process, the value streams are converted to operating units. See [Lean manufacturing next version value streams (form)](https://technet.microsoft.com/en-us/library/hh202037\(v=ax.60\)) for more information.
+  - In the **Lean manufacturing next version value streams** form, define the value streams that are used to classify and aggregate lean financial transactions. Each new production flow references a value stream. During the upgrade process, the value streams are converted to operating units. See [Lean manufacturing next version value streams (form)](https://technet.microsoft.com/library/hh202037\(v=ax.60\)) for more information.
 
-  - In the **Standard workdays for calendar** form, define the length of a standard work day, in hours, for the current calendars. To measure work cell capacity in periods that consist of hours and minutes, you must define this in the calendars. See [Standard work days for calendar (form)](https://technet.microsoft.com/en-us/library/hh202046\(v=ax.60\)) for more information.
+  - In the **Standard workdays for calendar** form, define the length of a standard work day, in hours, for the current calendars. To measure work cell capacity in periods that consist of hours and minutes, you must define this in the calendars. See [Standard work days for calendar (form)](https://technet.microsoft.com/library/hh202046\(v=ax.60\)) for more information.
 
-  - In the **Work cells migration** form, define additional settings for current work cells that are to be upgraded. The additional, mandatory settings to define are as follows: input warehouse and location, output warehouse and location, and production flow model. See [Work cells migration (form)](https://technet.microsoft.com/en-us/library/hh202084\(v=ax.60\)) for more information.
+  - In the **Work cells migration** form, define additional settings for current work cells that are to be upgraded. The additional, mandatory settings to define are as follows: input warehouse and location, output warehouse and location, and production flow model. See [Work cells migration (form)](https://technet.microsoft.com/library/hh202084\(v=ax.60\)) for more information.
 
-  - In the **Production flows** form, create production flows and production flow activities that identify and describe your company’s basic business processes and product families. You can define process activities and you can define transfer activities. Create activity relations to link activities and establish a production flow sequence. See [Production flows upgrade (form)](https://technet.microsoft.com/en-us/library/hh202104\(v=ax.60\)) for more information.
+  - In the **Production flows** form, create production flows and production flow activities that identify and describe your company’s basic business processes and product families. You can define process activities and you can define transfer activities. Create activity relations to link activities and establish a production flow sequence. See [Production flows upgrade (form)](https://technet.microsoft.com/library/hh202104\(v=ax.60\)) for more information.
 
-  - In the **Lean manufacturing next version parameters** form, define the additional production parameters for Lean manufacturing. These parameters are used to create production flows and generate kanban jobs during the upgrade process. See [Lean manufacturing next version parameters (form)](https://technet.microsoft.com/en-us/library/hh202114\(v=ax.60\)) for more information.
+  - In the **Lean manufacturing next version parameters** form, define the additional production parameters for Lean manufacturing. These parameters are used to create production flows and generate kanban jobs during the upgrade process. See [Lean manufacturing next version parameters (form)](https://technet.microsoft.com/library/hh202114\(v=ax.60\)) for more information.
 
-  - In the **Lean schedule groups** form, define the lean schedule groups that are used to aggregate items for production at a particular work cell. See [Lean schedule groups upgrade (form)](https://technet.microsoft.com/en-us/library/hh202110\(v=ax.60\)) for more information.
+  - In the **Lean schedule groups** form, define the lean schedule groups that are used to aggregate items for production at a particular work cell. See [Lean schedule groups upgrade (form)](https://technet.microsoft.com/library/hh202110\(v=ax.60\)) for more information.
 
 ## Prepare the current version data for migration
 
@@ -191,23 +191,23 @@ Review the current rules and map them to the Microsoft Dynamics AX 2012 Lean man
 
 ## See also
 
-[Production flow model upgrade (form)](https://technet.microsoft.com/en-us/library/hh202123\(v=ax.60\))
+[Production flow model upgrade (form)](https://technet.microsoft.com/library/hh202123\(v=ax.60\))
 
-[Lean manufacturing next version value streams (form)](https://technet.microsoft.com/en-us/library/hh202037\(v=ax.60\))
+[Lean manufacturing next version value streams (form)](https://technet.microsoft.com/library/hh202037\(v=ax.60\))
 
-[Standard work days for calendar (form)](https://technet.microsoft.com/en-us/library/hh202046\(v=ax.60\))
+[Standard work days for calendar (form)](https://technet.microsoft.com/library/hh202046\(v=ax.60\))
 
-[Work cells migration (form)](https://technet.microsoft.com/en-us/library/hh202084\(v=ax.60\))
+[Work cells migration (form)](https://technet.microsoft.com/library/hh202084\(v=ax.60\))
 
-[Production flows upgrade (form)](https://technet.microsoft.com/en-us/library/hh202104\(v=ax.60\))
+[Production flows upgrade (form)](https://technet.microsoft.com/library/hh202104\(v=ax.60\))
 
-[Lean manufacturing next version parameters (form)](https://technet.microsoft.com/en-us/library/hh202114\(v=ax.60\))
+[Lean manufacturing next version parameters (form)](https://technet.microsoft.com/library/hh202114\(v=ax.60\))
 
-[Lean schedule groups upgrade (form)](https://technet.microsoft.com/en-us/library/hh202110\(v=ax.60\))
+[Lean schedule groups upgrade (form)](https://technet.microsoft.com/library/hh202110\(v=ax.60\))
 
-[Convert kanbans to next version kanban rules (form)](https://technet.microsoft.com/en-us/library/hh202074\(v=ax.60\))
+[Convert kanbans to next version kanban rules (form)](https://technet.microsoft.com/library/hh202074\(v=ax.60\))
 
-[Convert LOS-BTO schedules to next version kanban rules (form)](https://technet.microsoft.com/en-us/library/hh202116\(v=ax.60\))
+[Convert LOS-BTO schedules to next version kanban rules (form)](https://technet.microsoft.com/library/hh202116\(v=ax.60\))
 
   
 

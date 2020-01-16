@@ -2,7 +2,7 @@
 title: About distributing questionnaires
 TOCTitle: About distributing questionnaires
 ms:assetid: 6b3fb7f0-6275-4b36-a60c-7f61ccd66255
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571181(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571181(v=AX.60)
 ms:contentKeyID: 37822146
 ms.date: 04/18/2014
 mtps_version: v=AX.60

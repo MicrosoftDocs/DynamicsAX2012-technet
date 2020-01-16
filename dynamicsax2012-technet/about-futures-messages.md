@@ -2,7 +2,7 @@
 title: About futures messages
 TOCTitle: About futures messages
 ms:assetid: 87705bfd-ad24-4f7d-acd8-10ddca1c33ee
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571583(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571583(v=AX.60)
 ms:contentKeyID: 36676397
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -26,7 +26,7 @@ A futures message is a system-generated order with a due date that is based on l
 
 There are situations where you may choose not to use a futures date. It may be possible to expedite lead times by other means. For example, an item that is usually sent by truck could be air-freighted instead to reduce the lead time.
 
-You can configure how you want futures messages to be calculated for a coverage group, which you can attach to an item. For more information, see [Coverage groups (form)](https://technet.microsoft.com/en-us/library/aa552922\(v=ax.60\)).
+You can configure how you want futures messages to be calculated for a coverage group, which you can attach to an item. For more information, see [Coverage groups (form)](https://technet.microsoft.com/library/aa552922\(v=ax.60\)).
 
 In the **Master planning parameters** form, you can set the futures time, which is used to calculate all futures dates.
 

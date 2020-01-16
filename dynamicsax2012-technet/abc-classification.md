@@ -2,7 +2,7 @@
 title: " ABC classification"
 TOCTitle: " ABC classification"
 ms:assetid: DynamicsAXGlossary.235256
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.235256(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.235256(v=AX.60)
 ms:contentKeyID: 36057867
 ms.date: 08/25/2014
 mtps_version: v=AX.60

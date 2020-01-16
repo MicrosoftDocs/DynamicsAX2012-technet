@@ -2,7 +2,7 @@
 title: About questionnaire types
 TOCTitle: About questionnaire types
 ms:assetid: 2df4597e-ddf9-4d5e-bb9e-96348e2a160c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580599(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580599(v=AX.60)
 ms:contentKeyID: 39519085
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -2,7 +2,7 @@
 title: About cash discounts
 TOCTitle: About cash discounts
 ms:assetid: 3fdf236c-0d8b-49b9-9e2d-6ec3645cc976
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496945(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496945(v=AX.60)
 ms:contentKeyID: 36056710
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -37,7 +37,7 @@ If an invoice is settled in time to obtain a cash discount, the cash discount is
 
 
 > [!NOTE]
-> <P>If the <STRONG>Public sector</STRONG> configuration key is selected, you can post cash discounts to the account or accounts that are specified on the invoice line. For more information, see the information about the <STRONG>Discount offset accounts</STRONG> field in <A href="https://technet.microsoft.com/en-us/library/aa596348(v=ax.60)">Accounts payable parameters (form)</A> and <A href="https://technet.microsoft.com/en-us/library/aa590275(v=ax.60)">Cash discounts (form)</A>.</P>
+> <P>If the <STRONG>Public sector</STRONG> configuration key is selected, you can post cash discounts to the account or accounts that are specified on the invoice line. For more information, see the information about the <STRONG>Discount offset accounts</STRONG> field in <A href="https://technet.microsoft.com/library/aa596348(v=ax.60)">Accounts payable parameters (form)</A> and <A href="https://technet.microsoft.com/library/aa590275(v=ax.60)">Cash discounts (form)</A>.</P>
 
 
 
@@ -91,11 +91,11 @@ A payment for 980 USD is settled with the invoice on March 1. The cash discount 
 
 [About partial vendor payments](about-partial-vendor-payments.md)
 
-[Cash discounts (form)](https://technet.microsoft.com/en-us/library/aa590275\(v=ax.60\))
+[Cash discounts (form)](https://technet.microsoft.com/library/aa590275\(v=ax.60\))
 
-[Settle open transactions - customer (form)](https://technet.microsoft.com/en-us/library/aa558602\(v=ax.60\))
+[Settle open transactions - customer (form)](https://technet.microsoft.com/library/aa558602\(v=ax.60\))
 
-[Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\))
+[Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\))
 
   
 

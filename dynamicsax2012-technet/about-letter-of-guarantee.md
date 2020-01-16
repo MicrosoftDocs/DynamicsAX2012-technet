@@ -2,7 +2,7 @@
 title: About letter of guarantee
 TOCTitle: About letter of guarantee
 ms:assetid: c06f2330-b539-497b-8f5f-de6c10e8688e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242827(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242827(v=AX.60)
 ms:contentKeyID: 36059263
 ms.date: 04/18/2014
 mtps_version: v=AX.60
@@ -89,7 +89,7 @@ You can take the following actions on a letter of guarantee.
 
 [Activate the letter of guarantee](activate-the-letter-of-guarantee.md)
 
-[Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
+[Letter of guarantee (form)](https://technet.microsoft.com/library/hh227662\(v=ax.60\))
 
   
 

@@ -2,7 +2,7 @@
 title: About 150 percent reducing balance depreciation
 TOCTitle: About 150 percent reducing balance depreciation
 ms:assetid: 2489e6c3-5a3e-4444-88b4-7f80cc640f4d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496813(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496813(v=AX.60)
 ms:contentKeyID: 36676376
 ms.date: 05/02/2014
 mtps_version: v=AX.60

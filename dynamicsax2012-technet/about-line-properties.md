@@ -2,7 +2,7 @@
 title: About line properties
 TOCTitle: About line properties
 ms:assetid: c66e71ff-46f2-4273-ace9-60fe95d96e4b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh696880(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh696880(v=AX.60)
 ms:contentKeyID: 42517338
 ms.date: 10/06/2014
 mtps_version: v=AX.60
