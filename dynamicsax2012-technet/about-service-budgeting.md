@@ -2,8 +2,9 @@
 title: About service budgeting
 TOCTitle: About service budgeting
 ms:assetid: 60b9cd04-bb30-43fc-8d1c-44f3d18e99f4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571122(v=AX.60)
 ms:contentKeyID: 36057636
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

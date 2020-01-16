@@ -2,8 +2,9 @@
 title: About BOM designer functionality
 TOCTitle: About BOM designer functionality
 ms:assetid: d0ec2f9b-052e-472b-b9b4-c2cac8ac4187
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551020(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551020(v=AX.60)
 ms:contentKeyID: 36059492
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -247,7 +248,7 @@ Use the **Setup** tab to customize the information that is shown on the **Design
 
 ## See also
 
-[BOM designer (form)](https://technet.microsoft.com/en-us/library/aa583042\(v=ax.60\))
+[BOM designer (form)](https://technet.microsoft.com/library/aa583042\(v=ax.60\))
 
   
 

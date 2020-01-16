@@ -2,8 +2,9 @@
 title: About posting profiles
 TOCTitle: About posting profiles
 ms:assetid: 24805e1d-06d2-4b6c-82de-73bc7695e0eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208481(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208481(v=AX.60)
 ms:contentKeyID: 36056188
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,13 +28,13 @@ You can use posting profiles with all journals and source documents.
 
 [About posting definitions](about-posting-definitions.md)
 
-[Customer posting profiles (form)](https://technet.microsoft.com/en-us/library/aa600572\(v=ax.60\))
+[Customer posting profiles (form)](https://technet.microsoft.com/library/aa600572\(v=ax.60\))
 
-[Fixed asset posting profiles (form)](https://technet.microsoft.com/en-us/library/aa571467\(v=ax.60\))
+[Fixed asset posting profiles (form)](https://technet.microsoft.com/library/aa571467\(v=ax.60\))
 
-[Item posting (form)](https://technet.microsoft.com/en-us/library/aa589971\(v=ax.60\))
+[Item posting (form)](https://technet.microsoft.com/library/aa589971\(v=ax.60\))
 
-[Vendor posting profiles (form)](https://technet.microsoft.com/en-us/library/aa551972\(v=ax.60\))
+[Vendor posting profiles (form)](https://technet.microsoft.com/library/aa551972\(v=ax.60\))
 
   
 

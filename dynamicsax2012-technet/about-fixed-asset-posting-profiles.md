@@ -2,8 +2,9 @@
 title: About fixed asset posting profiles
 TOCTitle: About fixed asset posting profiles
 ms:assetid: c4d06025-680c-49fd-8e48-6c3b4459f16c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550738(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550738(v=AX.60)
 ms:contentKeyID: 36059296
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ For each transaction type, set up a ledger account and an offset account. If the
 
 ## See also
 
-[Fixed asset posting profiles (form)](https://technet.microsoft.com/en-us/library/aa571467\(v=ax.60\))
+[Fixed asset posting profiles (form)](https://technet.microsoft.com/library/aa571467\(v=ax.60\))
 
 [About posting profiles](about-posting-profiles.md)
 

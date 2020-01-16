@@ -2,8 +2,9 @@
 title: About factor depreciation
 TOCTitle: About factor depreciation
 ms:assetid: b45d4fb3-6638-4ce3-8852-6039599ef125
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572027(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572027(v=AX.60)
 ms:contentKeyID: 36059075
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

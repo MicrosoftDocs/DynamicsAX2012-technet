@@ -2,8 +2,9 @@
 title: About employment affiliations
 TOCTitle: About employment affiliations
 ms:assetid: 255633f2-1930-404c-9bf8-63365224131a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496818(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496818(v=AX.60)
 ms:contentKeyID: 36056193
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ A worker cannot have more than one employment affiliation with the same legal en
 
 [Key tasks: Workers](key-tasks-workers.md)
 
-[Employment history (form)](https://technet.microsoft.com/en-us/library/hh781091\(v=ax.60\))
+[Employment history (form)](https://technet.microsoft.com/library/hh781091\(v=ax.60\))
 
   
 

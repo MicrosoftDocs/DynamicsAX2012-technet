@@ -2,8 +2,9 @@
 title: About audit policy rules
 TOCTitle: About audit policy rules
 ms:assetid: 27b4fb10-283b-4dcb-8a72-5085826fbe1c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208490(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208490(v=AX.60)
 ms:contentKeyID: 36056213
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -101,7 +102,7 @@ The following table shows the query types that are available for audit policy ru
 </table>
 
 
-For more information about queries for audit policy rules, see [Policy rule type (form)](https://technet.microsoft.com/en-us/library/hh208562\(v=ax.60\)).
+For more information about queries for audit policy rules, see [Policy rule type (form)](https://technet.microsoft.com/library/hh208562\(v=ax.60\)).
 
 ## Common parameters
 
@@ -113,15 +114,15 @@ All of the policy rules for a particular audit policy share the same batch param
 
 [About audit policy violations and cases](about-audit-policy-violations-and-cases.md)
 
-[Audit policy rule (form)](https://technet.microsoft.com/en-us/library/hh209490\(v=ax.60\))
+[Audit policy rule (form)](https://technet.microsoft.com/library/hh209490\(v=ax.60\))
 
-[Policy rule type (form)](https://technet.microsoft.com/en-us/library/hh208562\(v=ax.60\))
+[Policy rule type (form)](https://technet.microsoft.com/library/hh208562\(v=ax.60\))
 
-[Audit policy rule test result (form)](https://technet.microsoft.com/en-us/library/hh208603\(v=ax.60\))
+[Audit policy rule test result (form)](https://technet.microsoft.com/library/hh208603\(v=ax.60\))
 
-[Additional options (form)](https://technet.microsoft.com/en-us/library/hh227519\(v=ax.60\))
+[Additional options (form)](https://technet.microsoft.com/library/hh227519\(v=ax.60\))
 
-[Case grouping criteria (form)](https://technet.microsoft.com/en-us/library/hh209729\(v=ax.60\))
+[Case grouping criteria (form)](https://technet.microsoft.com/library/hh209729\(v=ax.60\))
 
   
 

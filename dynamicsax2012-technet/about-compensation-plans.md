@@ -2,8 +2,9 @@
 title: About compensation plans
 TOCTitle: About compensation plans
 ms:assetid: e6327f6b-6b54-4f59-81b8-242bdda5d8d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781107(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781107(v=AX.60)
 ms:contentKeyID: 43894524
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -46,11 +47,11 @@ The following table lists components of the compensation process that can be int
 <li><p>The fixed compensation action is mandatory information if you change the fixed compensation setup for an employee to increase or decrease the employee's base pay. For example, you might have to indicate that the reason or the change is for a promotion or a demotion.</p></li>
 <li><p>The actions are applied to an event process when fixed compensation plans are calculated.</p></li>
 </ul>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh694711(v=ax.60)">Fixed compensation actions (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/hh694711(v=ax.60)">Fixed compensation actions (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Levels</p></td>
-<td><p>Levels are associated with jobs and any positions that are related to a job reference. You can create discrete levels for the three types of compensation plans: <strong>Grade</strong>, <strong>Band</strong>, and <strong>Step</strong>. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh208814(v=ax.60)">Levels (form)</a>.</p></td>
+<td><p>Levels are associated with jobs and any positions that are related to a job reference. You can create discrete levels for the three types of compensation plans: <strong>Grade</strong>, <strong>Band</strong>, and <strong>Step</strong>. For more information, see <a href="https://technet.microsoft.com/library/hh208814(v=ax.60)">Levels (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Range utilization matrix</p></td>
@@ -60,7 +61,7 @@ The following table lists components of the compensation process that can be int
 </tr>
 <tr class="even">
 <td><p>Reference point setups</p></td>
-<td><p>A reference point setup includes a set of reference points that represent ranges in a matrix. Each range can be associated with a pay rate. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh803014(v=ax.60)">Reference point setups (form)</a>.</p></td>
+<td><p>A reference point setup includes a set of reference points that represent ranges in a matrix. Each range can be associated with a pay rate. For more information, see <a href="https://technet.microsoft.com/library/hh803014(v=ax.60)">Reference point setups (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Compensation matrix</p></td>
@@ -81,35 +82,35 @@ The following table lists components of the compensation process that can be int
 </tr>
 <tr class="odd">
 <td><p>Compensation regions</p></td>
-<td><p>Compensation regions are used to specify employee compensation based on the location of the workplace. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209560(v=ax.60)">Compensation regions (form)</a>.</p></td>
+<td><p>Compensation regions are used to specify employee compensation based on the location of the workplace. For more information, see <a href="https://technet.microsoft.com/library/hh209560(v=ax.60)">Compensation regions (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Control point</p></td>
-<td><p>The control point is the ideal pay rate for all employees at a compensation level. For grade plan structures, control points are typically the midpoint of the ranges. Band structures rarely use control points. You can specify the control point for a fixed compensation plan in the <strong>Fixed compensation plans</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh242871(v=ax.60)">Fixed compensation plans (form)</a>.</p></td>
+<td><p>The control point is the ideal pay rate for all employees at a compensation level. For grade plan structures, control points are typically the midpoint of the ranges. Band structures rarely use control points. You can specify the control point for a fixed compensation plan in the <strong>Fixed compensation plans</strong> form. For more information, see <a href="https://technet.microsoft.com/library/hh242871(v=ax.60)">Fixed compensation plans (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Job functions</p></td>
-<td><p>Job functions can be classified and then combined with job types to filter compensation plans to specific jobs. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209705(v=ax.60)">Job functions (form)</a>.</p></td>
+<td><p>Job functions can be classified and then combined with job types to filter compensation plans to specific jobs. For more information, see <a href="https://technet.microsoft.com/library/hh209705(v=ax.60)">Job functions (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Job types</p></td>
-<td><p>Job types can be classified and then combined with job functions to filter compensation plans to specific jobs. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209312(v=ax.60)">Job types and exempt status (form)</a>.</p></td>
+<td><p>Job types can be classified and then combined with job functions to filter compensation plans to specific jobs. For more information, see <a href="https://technet.microsoft.com/library/hh209312(v=ax.60)">Job types and exempt status (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Variable compensation types</p></td>
-<td><p>Variable compensation types, such as stock awards or cash award bonuses, are set up in variable compensation plans. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh803008(v=ax.60)">Variable compensation types (form)</a>.</p></td>
+<td><p>Variable compensation types, such as stock awards or cash award bonuses, are set up in variable compensation plans. For more information, see <a href="https://technet.microsoft.com/library/hh803008(v=ax.60)">Variable compensation types (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Compensation grids</p></td>
-<td><p>Compensation grids can be set up if your company does not use Microsoft Dynamics AX to set up compensation plans. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh694712(v=ax.60)">Compensation grids (form)</a>.</p></td>
+<td><p>Compensation grids can be set up if your company does not use Microsoft Dynamics AX to set up compensation plans. For more information, see <a href="https://technet.microsoft.com/library/hh694712(v=ax.60)">Compensation grids (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Performance plans</p></td>
-<td><p>Performance plans are used to associate performance with an allocation matrix, so that you can use the plan in a pay-for-performance strategy. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh781096(v=ax.60)">Performance plans (form)</a>.</p></td>
+<td><p>Performance plans are used to associate performance with an allocation matrix, so that you can use the plan in a pay-for-performance strategy. For more information, see <a href="https://technet.microsoft.com/library/hh781096(v=ax.60)">Performance plans (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Performance ratings</p></td>
-<td><p>Performance ratings are used in compensation plans to determine the amount of a merit award or performance award. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh781109(v=ax.60)">Performance ratings (form)</a>.</p></td>
+<td><p>Performance ratings are used in compensation plans to determine the amount of a merit award or performance award. For more information, see <a href="https://technet.microsoft.com/library/hh781109(v=ax.60)">Performance ratings (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>

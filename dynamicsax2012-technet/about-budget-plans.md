@@ -2,8 +2,9 @@
 title: About budget plans
 TOCTitle: About budget plans
 ms:assetid: 1582e791-e5ab-4369-b016-4fd723946b36
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677326(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677326(v=AX.60)
 ms:contentKeyID: 49384100
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ On a **Budget plan** list page, such as **All budget plans** or **Budget plans p
 
 On the **Action Pane**, you can select **Budget plan hierarchy** to view information about the budget plan and any associated budget plans. You can move the pointer over a budget plan to view information about the budget plan in the preview pane and the FactBoxes. You can also double-click a budget plan to open it.
 
-For information about how to create budget plans, see [Key tasks: Create and process budget plans](key-tasks-create-and-process-budget-plans.md). For information about the **Budget plan** form, see [Budget plan (form)](https://technet.microsoft.com/en-us/library/jj677376\(v=ax.60\)).
+For information about how to create budget plans, see [Key tasks: Create and process budget plans](key-tasks-create-and-process-budget-plans.md). For information about the **Budget plan** form, see [Budget plan (form)](https://technet.microsoft.com/library/jj677376\(v=ax.60\)).
 
 ## Developing budget plans
 
@@ -103,7 +104,7 @@ In Human resources, you can create forecast positions and enter the budget detai
 
   - Add information about the full-time equivalent (FTE) count for all forecast positions or for one department’s forecast positions to an FTE budget plan scenario. You select all forecast positions or one department’s forecast positions in the **Select forecast positions** form that you open from the **Budget plan lines** FastTab of the **Budget plan** form. The FTE budget plan scenario must have a **Quantity** unit of measure, and you must select an FTE main account when you select the FTE budget plan scenario. The main account that you use to create the budget plan line for the FTE count can be the main account for salary expenses.
 
-For more information, see [Key tasks: Forecast positions](https://technet.microsoft.com/en-us/library/jj729760\(v=ax.60\)) and “Add forecast positions to budget plan lines” in [Key tasks: Create and process budget plans](key-tasks-create-and-process-budget-plans.md).
+For more information, see [Key tasks: Forecast positions](https://technet.microsoft.com/library/jj729760\(v=ax.60\)) and “Add forecast positions to budget plan lines” in [Key tasks: Create and process budget plans](key-tasks-create-and-process-budget-plans.md).
 
 ## Generating budget plans
 
@@ -127,7 +128,7 @@ For more information, see [Generate budget plans from source information](genera
 
 [Key tasks: Create and process budget plans](key-tasks-create-and-process-budget-plans.md)
 
-[Budget plan (form)](https://technet.microsoft.com/en-us/library/jj677376\(v=ax.60\))
+[Budget plan (form)](https://technet.microsoft.com/library/jj677376\(v=ax.60\))
 
   
 

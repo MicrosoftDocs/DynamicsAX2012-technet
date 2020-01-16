@@ -2,8 +2,9 @@
 title: About hour-related cost price fields
 TOCTitle: About hour-related cost price fields
 ms:assetid: c8f69c4c-b905-4ee3-a666-9400298e8d64
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh694719(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh694719(v=AX.60)
 ms:contentKeyID: 42117778
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -71,13 +72,13 @@ The following table explains how the amounts in the hour-related cost price fiel
 
 ## See also
 
-[Hour transactions (form)](https://technet.microsoft.com/en-us/library/aa572825\(v=ax.60\))
+[Hour transactions (form)](https://technet.microsoft.com/library/aa572825\(v=ax.60\))
 
 [Set up cost prices and sales prices for projects](set-up-cost-prices-and-sales-prices-for-projects.md)
 
 [Configuring cost prices, sales prices, and transfer prices](configuring-cost-prices-sales-prices-and-transfer-prices.md)
 
-[Cost price - hour (form)](https://technet.microsoft.com/en-us/library/aa572459\(v=ax.60\))
+[Cost price - hour (form)](https://technet.microsoft.com/library/aa572459\(v=ax.60\))
 
   
 

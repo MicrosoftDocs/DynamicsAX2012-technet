@@ -2,8 +2,9 @@
 title: About questionnaire parameters
 TOCTitle: About questionnaire parameters
 ms:assetid: 1e78a7e5-ae14-4a55-a73d-b8bf8b1a1635
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580581(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580581(v=AX.60)
 ms:contentKeyID: 39519062
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

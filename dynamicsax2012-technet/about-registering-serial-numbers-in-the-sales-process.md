@@ -2,8 +2,9 @@
 title: About registering serial numbers in the sales process
 TOCTitle: About registering serial numbers in the sales process
 ms:assetid: d42d86d5-08cd-41e9-8535-0858ba42303e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497833(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497833(v=AX.60)
 ms:contentKeyID: 62200165
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -91,7 +92,7 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 
 [Register serial numbers for a sales order](register-serial-numbers-for-a-sales-order.md)
 
-[Serial numbers (form)](https://technet.microsoft.com/en-us/library/aa552300\(v=ax.60\))
+[Serial numbers (form)](https://technet.microsoft.com/library/aa552300\(v=ax.60\))
 
   
 

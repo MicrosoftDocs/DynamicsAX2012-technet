@@ -2,8 +2,9 @@
 title: About configuring parameters
 TOCTitle: About configuring parameters
 ms:assetid: 98b20826-9bcb-473c-9d4f-a5cb09c73402
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597182(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597182(v=AX.60)
 ms:contentKeyID: 39519247
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

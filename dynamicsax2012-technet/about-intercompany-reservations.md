@@ -2,8 +2,9 @@
 title: About intercompany reservations
 TOCTitle: About intercompany reservations
 ms:assetid: 6ff626ea-5a97-4e90-94d6-a796cf68fd64
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571299(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571299(v=AX.60)
 ms:contentKeyID: 36058051
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

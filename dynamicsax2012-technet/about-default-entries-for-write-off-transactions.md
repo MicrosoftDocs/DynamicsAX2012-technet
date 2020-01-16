@@ -2,8 +2,9 @@
 title: About default entries for write-off transactions
 TOCTitle: About default entries for write-off transactions
 ms:assetid: a42e5380-1991-4005-bfbb-70fedab0199d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209464(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209464(v=AX.60)
 ms:contentKeyID: 36058816
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -342,7 +343,7 @@ A sales tax write-off journal line is created only if the **Separate sales tax**
 
 [Collections and credit in Accounts receivable](collections-and-credit-in-accounts-receivable.md)
 
-[Collections (form)](https://technet.microsoft.com/en-us/library/hh209726\(v=ax.60\))
+[Collections (form)](https://technet.microsoft.com/library/hh209726\(v=ax.60\))
 
 [Key tasks: Collections](key-tasks-collections.md)
 

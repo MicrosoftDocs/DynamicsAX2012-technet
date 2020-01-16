@@ -2,8 +2,9 @@
 title: About reusing configurations
 TOCTitle: About reusing configurations
 ms:assetid: e0f67cef-f26d-4987-abe3-1dc2e660968c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677368(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677368(v=AX.60)
 ms:contentKeyID: 49384144
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: About sales delivery schedules
 TOCTitle: About sales delivery schedules
 ms:assetid: 0e2ed3f0-46ba-474a-a86b-aa10e559f0b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242131(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242131(v=AX.60)
 ms:contentKeyID: 36056007
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

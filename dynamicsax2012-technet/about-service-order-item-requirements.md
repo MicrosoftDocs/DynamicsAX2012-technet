@@ -2,8 +2,9 @@
 title: About service order item requirements
 TOCTitle: About service order item requirements
 ms:assetid: b7aab3fd-b3df-4bc2-b796-749cddf0a339
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572246(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572246(v=AX.60)
 ms:contentKeyID: 36059106
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ If an item requirement is created on a service order, you cannot delete the serv
 
 ## See also
 
-[Item requirements (form)](https://technet.microsoft.com/en-us/library/aa552021\(v=ax.60\))
+[Item requirements (form)](https://technet.microsoft.com/library/aa552021\(v=ax.60\))
 
 [Consume item requirements in a project](consume-item-requirements-in-a-project.md)
 

@@ -2,8 +2,9 @@
 title: About intercompany timesheets
 TOCTitle: About intercompany timesheets
 ms:assetid: e408e773-827a-410c-8392-0a2368af4f2a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597266(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597266(v=AX.60)
 ms:contentKeyID: 39519346
+author: Khairunj
 ms.date: 10/15/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,21 +44,21 @@ The loaning legal entity must perform the following tasks:
 
   - Enable intercompany timesheet functionality. For information, see [Set up parameters for a timesheet system](set-up-parameters-for-a-timesheet-system.md).
 
-  - Set up a cost price for the worker. This price setup task is performed for all workers, regardless of whether they will be loaned to other legal entities. For information, see [Set up cost prices and sales prices for projects](set-up-cost-prices-and-sales-prices-for-projects.md) and [Cost price - hour (form)](https://technet.microsoft.com/en-us/library/aa572459\(v=ax.60\)).
+  - Set up a cost price for the worker. This price setup task is performed for all workers, regardless of whether they will be loaned to other legal entities. For information, see [Set up cost prices and sales prices for projects](set-up-cost-prices-and-sales-prices-for-projects.md) and [Cost price - hour (form)](https://technet.microsoft.com/library/aa572459\(v=ax.60\)).
 
   - Set up a transfer price for the loaned worker. The transfer price is the amount that the loaning legal entity charges the borrowing legal entity. For information, see [Set up transfer prices for intercompany timesheets](set-up-transfer-prices-for-intercompany-timesheets.md).
 
-  - Set up ledger posting profiles for the **Intercompany cost** and **Intercompany revenue** accounts. For information, see [Set up a ledger posting account for projects](set-up-a-ledger-posting-account-for-projects.md) and [Ledger posting setup (form)](https://technet.microsoft.com/en-us/library/aa599270\(v=ax.60\)).
+  - Set up ledger posting profiles for the **Intercompany cost** and **Intercompany revenue** accounts. For information, see [Set up a ledger posting account for projects](set-up-a-ledger-posting-account-for-projects.md) and [Ledger posting setup (form)](https://technet.microsoft.com/library/aa599270\(v=ax.60\)).
 
-  - Specify the debit and credit accounts for each legal entity that workers will be loaned to. For information, see [Set up centralized customer payments](set-up-centralized-customer-payments.md), [Set up centralized vendor payments](set-up-centralized-vendor-payments.md), and [Intercompany accounting (form)](https://technet.microsoft.com/en-us/library/aa619468\(v=ax.60\)).
+  - Specify the debit and credit accounts for each legal entity that workers will be loaned to. For information, see [Set up centralized customer payments](set-up-centralized-customer-payments.md), [Set up centralized vendor payments](set-up-centralized-vendor-payments.md), and [Intercompany accounting (form)](https://technet.microsoft.com/library/aa619468\(v=ax.60\)).
 
 ## Setup tasks for the borrowing legal entity
 
 Before a borrowing legal entity can add a borrowed worker to one of its projects, a project manager for the borrowing legal entity must perform the following tasks:
 
-  - Set up sales prices for borrowed workers. This price setup task is performed for all workers, regardless of whether they will be loaned to other legal entities. For intercompany timesheet scenarios, this sales price is the amount that the borrowing legal entity charges the customer for the borrowed worker’s hours. For information, see [Set up cost prices and sales prices for projects](set-up-cost-prices-and-sales-prices-for-projects.md) and [Sales price - hour (form)](https://technet.microsoft.com/en-us/library/aa634053\(v=ax.60\)).
+  - Set up sales prices for borrowed workers. This price setup task is performed for all workers, regardless of whether they will be loaned to other legal entities. For intercompany timesheet scenarios, this sales price is the amount that the borrowing legal entity charges the customer for the borrowed worker’s hours. For information, see [Set up cost prices and sales prices for projects](set-up-cost-prices-and-sales-prices-for-projects.md) and [Sales price - hour (form)](https://technet.microsoft.com/library/aa634053\(v=ax.60\)).
 
-  - Specify the debit and credit accounts for each legal entity that workers will be borrowed from. For information, see [Set up centralized customer payments](set-up-centralized-customer-payments.md), [Set up centralized vendor payments](set-up-centralized-vendor-payments.md), and [Intercompany accounting (form)](https://technet.microsoft.com/en-us/library/aa619468\(v=ax.60\)).
+  - Specify the debit and credit accounts for each legal entity that workers will be borrowed from. For information, see [Set up centralized customer payments](set-up-centralized-customer-payments.md), [Set up centralized vendor payments](set-up-centralized-vendor-payments.md), and [Intercompany accounting (form)](https://technet.microsoft.com/library/aa619468\(v=ax.60\)).
 
   - Optional: Add the worker to one or more project validation groups. For information, see [Define validation connections](define-validation-connections.md) and [Set up validation groups](set-up-validation-groups.md).
 
@@ -128,7 +129,7 @@ David, the project manager in Contoso–USA, reviews the timesheet line for Sanj
 
 [Review and approve timesheets](review-and-approve-timesheets.md)
 
-[Unposted timesheets (list page)](https://technet.microsoft.com/en-us/library/hh597166\(v=ax.60\))
+[Unposted timesheets (list page)](https://technet.microsoft.com/library/hh597166\(v=ax.60\))
 
   
 

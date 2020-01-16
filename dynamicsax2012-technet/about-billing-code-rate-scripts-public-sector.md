@@ -2,8 +2,9 @@
 title: About billing code rate scripts (Public sector)
 TOCTitle: About billing code rate scripts (Public sector)
 ms:assetid: f9b1b4e5-e8dd-4fe7-8364-13dcaad266b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208611(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208611(v=AX.60)
 ms:contentKeyID: 36056403
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -121,7 +122,7 @@ A billing code is a set of default values and billing rates that are applied aut
 
 ## See also
 
-[Billing codes (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208543\(v=ax.60\))
+[Billing codes (form) (Public sector)](https://technet.microsoft.com/library/hh208543\(v=ax.60\))
 
 [Set up billing codes (Public sector)](set-up-billing-codes-public-sector.md)
 

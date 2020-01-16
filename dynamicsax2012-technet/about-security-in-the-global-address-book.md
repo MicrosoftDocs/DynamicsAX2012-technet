@@ -2,8 +2,9 @@
 title: About security in the global address book
 TOCTitle: About security in the global address book
 ms:assetid: 8a7ce7ac-e482-48d9-892e-b16c08d50660
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731852(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731852(v=AX.60)
 ms:contentKeyID: 35132714
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

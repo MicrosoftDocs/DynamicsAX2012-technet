@@ -2,8 +2,9 @@
 title: About purchase requisition workflows
 TOCTitle: About purchase requisition workflows
 ms:assetid: df6a9eca-eb77-48c4-8451-727709489837
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271676(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271676(v=AX.60)
 ms:contentKeyID: 36384307
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

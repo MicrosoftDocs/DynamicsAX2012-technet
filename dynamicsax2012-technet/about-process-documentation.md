@@ -2,8 +2,9 @@
 title: About process documentation
 TOCTitle: About process documentation
 ms:assetid: fd3778bc-0112-4920-926c-c2adc428f12b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299235(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh299235(v=AX.60)
 ms:contentKeyID: 36384341
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

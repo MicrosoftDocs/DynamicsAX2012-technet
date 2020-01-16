@@ -2,8 +2,9 @@
 title: About estimate periods
 TOCTitle: About estimate periods
 ms:assetid: 8b45e8fc-85d8-4359-b073-7b5f62b35ded
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498250(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498250(v=AX.60)
 ms:contentKeyID: 37822152
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -32,7 +33,7 @@ For information about how to create an estimate project, see [Create an estimate
 
 [Generate timesheet periods](generate-timesheet-periods.md)
 
-[Period types (form)](https://technet.microsoft.com/en-us/library/aa586707\(v=ax.60\))
+[Period types (form)](https://technet.microsoft.com/library/aa586707\(v=ax.60\))
 
   
 

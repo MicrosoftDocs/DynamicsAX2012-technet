@@ -2,8 +2,9 @@
 title: About Enterprise Portal accessibility
 TOCTitle: About Enterprise Portal accessibility
 ms:assetid: 4863b1a3-6802-47e6-959a-e97a681f355a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242402(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242402(v=AX.60)
 ms:contentKeyID: 36056927
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

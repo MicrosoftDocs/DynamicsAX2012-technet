@@ -2,8 +2,9 @@
 title: About ATP calculations
 TOCTitle: About ATP calculations
 ms:assetid: 55503035-663c-47e2-96d5-4f10037d1c67
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212804(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212804(v=AX.60)
 ms:contentKeyID: 36931872
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,7 +54,7 @@ A customer calls and wants to order 150 pieces of the same product. When you ver
 
 ## See also
 
-[ATP information (form)](https://technet.microsoft.com/en-us/library/hh209482\(v=ax.60\))
+[ATP information (form)](https://technet.microsoft.com/library/hh209482\(v=ax.60\))
 
   
 

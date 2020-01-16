@@ -2,8 +2,9 @@
 title: About customer requests
 TOCTitle: About customer requests
 ms:assetid: fb780691-69e5-486f-a28e-ff239f34e2e6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn237264(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn237264(v=AX.60)
 ms:contentKeyID: 54273731
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,7 +62,7 @@ Before customer requests can be submitted and processed, the following configura
 
 1.  Create and configure a public Enterprise Portal website that can be accessed by external users.
 
-2.  Set up number sequences for customer requests in the **Customer self-service parameters** form. For more information, see [Customer self-service parameters (form)](https://technet.microsoft.com/en-us/library/aa590303\(v=ax.60\)).
+2.  Set up number sequences for customer requests in the **Customer self-service parameters** form. For more information, see [Customer self-service parameters (form)](https://technet.microsoft.com/library/aa590303\(v=ax.60\)).
 
 3.  Configure the user request workflow. For more information, see [Set up System administration workflows](set-up-system-administration-workflows.md).
     
@@ -83,7 +84,7 @@ Before customer requests can be submitted and processed, the following configura
 
 Checklist: Deploy a customer self-service portal
 
-[Registration (form)](https://technet.microsoft.com/en-us/library/dn277353\(v=ax.60\))
+[Registration (form)](https://technet.microsoft.com/library/dn277353\(v=ax.60\))
 
   
 

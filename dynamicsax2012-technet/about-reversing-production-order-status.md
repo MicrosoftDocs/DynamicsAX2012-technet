@@ -2,8 +2,9 @@
 title: About reversing production order status
 TOCTitle: About reversing production order status
 ms:assetid: 23d700b1-27db-458f-8b76-0a41dd425dd1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496806(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496806(v=AX.60)
 ms:contentKeyID: 37832495
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ Any underlying purchase orders or production orders are deleted when the **Deriv
 
 ## From scheduled to estimated
 
-When you reverse the status from **Scheduled** back to **Estimated**, the scheduled start and end dates and times are removed. Capacity reservations that were made during scheduling are removed, and jobs that were created during job scheduling are deleted. All information about operation scheduling and job scheduling that is recorded in the **Production order details** form is reset. For more information, see [Production orders (form)](https://technet.microsoft.com/en-us/library/aa617966\(v=ax.60\)).
+When you reverse the status from **Scheduled** back to **Estimated**, the scheduled start and end dates and times are removed. Capacity reservations that were made during scheduling are removed, and jobs that were created during job scheduling are deleted. All information about operation scheduling and job scheduling that is recorded in the **Production order details** form is reset. For more information, see [Production orders (form)](https://technet.microsoft.com/library/aa617966\(v=ax.60\)).
 
 ## From released to scheduled
 

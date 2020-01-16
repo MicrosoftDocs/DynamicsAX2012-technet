@@ -2,8 +2,9 @@
 title: About posting definitions
 TOCTitle: About posting definitions
 ms:assetid: a4f2e83d-2b87-40ec-b80a-522b953d424e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242680(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242680(v=AX.60)
 ms:contentKeyID: 36058863
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -86,11 +87,11 @@ For examples of posting definitions, see [Examples: Posting definitions](example
 
 ## See also
 
-[Posting definitions (form)](https://technet.microsoft.com/en-us/library/hh227607\(v=ax.60\))
+[Posting definitions (form)](https://technet.microsoft.com/library/hh227607\(v=ax.60\))
 
-[Transaction posting definitions (form)](https://technet.microsoft.com/en-us/library/hh242550\(v=ax.60\))
+[Transaction posting definitions (form)](https://technet.microsoft.com/library/hh242550\(v=ax.60\))
 
-[Test Posting Definition Wizard (form)](https://technet.microsoft.com/en-us/library/hh227669\(v=ax.60\))
+[Test Posting Definition Wizard (form)](https://technet.microsoft.com/library/hh227669\(v=ax.60\))
 
 [About posting profiles](about-posting-profiles.md)
 

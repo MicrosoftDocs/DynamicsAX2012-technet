@@ -2,8 +2,9 @@
 title: About compliance document templates
 TOCTitle: About compliance document templates
 ms:assetid: 1ff68f19-a7d0-41b7-add8-ed3ece726508
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271471(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271471(v=AX.60)
 ms:contentKeyID: 36384103
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

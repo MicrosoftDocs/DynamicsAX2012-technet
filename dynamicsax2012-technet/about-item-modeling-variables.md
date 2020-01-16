@@ -2,8 +2,9 @@
 title: About item modeling variables
 TOCTitle: About item modeling variables
 ms:assetid: cbee9006-6df6-4340-a73f-712be78bcb37
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572673(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572673(v=AX.60)
 ms:contentKeyID: 36059445
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

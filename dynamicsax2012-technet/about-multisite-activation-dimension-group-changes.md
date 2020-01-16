@@ -2,8 +2,9 @@
 title: About multisite activation - dimension group changes
 TOCTitle: About multisite activation - dimension group changes
 ms:assetid: b8f5cda9-4219-4a29-be71-758a3c949333
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309977(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309977(v=AX.60)
 ms:contentKeyID: 45442192
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -105,7 +106,7 @@ The following table summarizes the changes that are made to the settings of the 
 
 [About sites and the multisite functionality](about-sites-and-the-multisite-functionality.md)
 
-[Multisite activation - dimension inconsistency clean up (class form)](https://technet.microsoft.com/en-us/library/dd309967\(v=ax.60\))
+[Multisite activation - dimension inconsistency clean up (class form)](https://technet.microsoft.com/library/dd309967\(v=ax.60\))
 
   
 

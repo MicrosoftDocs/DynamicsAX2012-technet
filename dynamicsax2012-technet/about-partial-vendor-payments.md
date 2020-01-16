@@ -2,8 +2,9 @@
 title: About partial vendor payments
 TOCTitle: About partial vendor payments
 ms:assetid: 8e28b76c-050f-457d-9058-36bbaf72dccb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209359(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209359(v=AX.60)
 ms:contentKeyID: 36058509
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -83,11 +84,11 @@ For example, an invoice is posted for 1,000.00. If you make a payment of 990.00,
 
 ## See also
 
-[Accounts payable parameters (form)](https://technet.microsoft.com/en-us/library/aa596348\(v=ax.60\))
+[Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\))
 
-[Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\))
+[Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\))
 
-[Vendor payment proposal - Edit (form)](https://technet.microsoft.com/en-us/library/aa616323\(v=ax.60\))
+[Vendor payment proposal - Edit (form)](https://technet.microsoft.com/library/aa616323\(v=ax.60\))
 
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 

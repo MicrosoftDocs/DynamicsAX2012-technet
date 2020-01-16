@@ -2,8 +2,9 @@
 title: About alerts
 TOCTitle: About alerts
 ms:assetid: 7116a93b-2d76-48af-835d-5a990e616d9c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571310(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571310(v=AX.60)
 ms:contentKeyID: 46687550
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: About Ax<Table> Classes
 TOCTitle: About Ax<Table> Classes
 ms:assetid: d653f81d-91e5-4542-a0ac-aba7b3d59e0f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa873749(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa873749(v=AX.60)
 ms:contentKeyID: 35252049
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
@@ -29,7 +30,7 @@ You can perform value mappings on document fields at the framework level or by u
 
 If you want to perform custom value mapping that is not enabled by the framework then you must use the Ax \<Table\> classes. When the Axd \<Document\> classes use the Ax \<Table\> classes to read or write to the underlying tables, they use the AxdBaseRead and AxdBaseCreate classes. These classes are responsible for reading data from tables or writing records to tables respectively.
 
-If the Ax \<Table\> classes are not generated, the system uses methods from the [AxCommon](https://technet.microsoft.com/en-us/library/gg765455\(v=ax.60\)) class to read and write to the tables. You can see the code used in the prepareForSave and prepareForSaveExtended methods in the Axd \<Document\> class.
+If the Ax \<Table\> classes are not generated, the system uses methods from the [AxCommon](https://technet.microsoft.com/library/gg765455\(v=ax.60\)) class to read and write to the tables. You can see the code used in the prepareForSave and prepareForSaveExtended methods in the Axd \<Document\> class.
 
 
 > [!NOTE]
@@ -80,7 +81,7 @@ The following are additional characteristics of Ax \<Table\> classes:
 
 ## Default Field Values
 
-If default field values are not set by the initValue method, the Ax \<Table\> classes can set default field values that are not set by the calling code. If you must bypass default fields when you insert a record with the Ax \<Table\> class, the code that is calling an Ax \<Table\> class must explicitly set the defaulting procedures to false. Table fields can be defaulted in the Ax \<Table\> class by overriding the setTableFields method. The following code example is from the [AxSalesTable.setTableFields Method](https://technet.microsoft.com/en-us/library/gg937256\(v=ax.60\)).
+If default field values are not set by the initValue method, the Ax \<Table\> classes can set default field values that are not set by the calling code. If you must bypass default fields when you insert a record with the Ax \<Table\> class, the code that is calling an Ax \<Table\> class must explicitly set the defaulting procedures to false. Table fields can be defaulted in the Ax \<Table\> class by overriding the setTableFields method. The following code example is from the [AxSalesTable.setTableFields Method](https://technet.microsoft.com/library/gg937256\(v=ax.60\)).
 
 ```X++
     protected void setTableFields()

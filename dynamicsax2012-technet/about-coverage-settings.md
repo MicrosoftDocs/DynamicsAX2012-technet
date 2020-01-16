@@ -2,8 +2,9 @@
 title: About coverage settings
 TOCTitle: About coverage settings
 ms:assetid: 9d1b8d56-c888-4dbe-9396-468cc6d0d720
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571706(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571706(v=AX.60)
 ms:contentKeyID: 36931877
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,9 +44,9 @@ You can specify coverage settings in several ways:
 
 [Create a coverage group](create-a-coverage-group.md)
 
-[Coverage groups (form)](https://technet.microsoft.com/en-us/library/aa552922\(v=ax.60\))
+[Coverage groups (form)](https://technet.microsoft.com/library/aa552922\(v=ax.60\))
 
-[Item coverage (form)](https://technet.microsoft.com/en-us/library/aa619147\(v=ax.60\))
+[Item coverage (form)](https://technet.microsoft.com/library/aa619147\(v=ax.60\))
 
   
 

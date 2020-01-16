@@ -2,8 +2,9 @@
 title: About parameters for settlements in Accounts payable
 TOCTitle: About parameters for settlements in Accounts payable
 ms:assetid: 34134883-af4d-4827-92b7-7515be394069
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580604(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580604(v=AX.60)
 ms:contentKeyID: 39519090
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ The following parameters affect how settlements are processed in Microsoft Dynam
 
   - **Edit pre-version 2.5 settlements**
 
-For information about these parameters, see [Accounts payable parameters (form)](https://technet.microsoft.com/en-us/library/aa596348\(v=ax.60\)).
+For information about these parameters, see [Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\)).
 
 ## Related scenarios
 

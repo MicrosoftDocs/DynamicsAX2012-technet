@@ -2,8 +2,9 @@
 title: About Accounts payable invoice matching
 TOCTitle: About Accounts payable invoice matching
 ms:assetid: caaf1767-e6d6-4fbf-9bd7-3e4f0bd3b6d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242852(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242852(v=AX.60)
 ms:contentKeyID: 36059334
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -681,13 +682,13 @@ Vendor invoices are often based on product receipts that represent actual shipme
 
 [Set up Accounts payable invoice matching](set-up-accounts-payable-invoice-matching.md)
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
-[Invoice matching details (form)](https://technet.microsoft.com/en-us/library/hh209713\(v=ax.60\))
+[Invoice matching details (form)](https://technet.microsoft.com/library/hh209713\(v=ax.60\))
 
-[Invoice totals matching details (form)](https://technet.microsoft.com/en-us/library/hh209476\(v=ax.60\))
+[Invoice totals matching details (form)](https://technet.microsoft.com/library/hh209476\(v=ax.60\))
 
-[Charges totals details/Compare charges values (form)](https://technet.microsoft.com/en-us/library/hh242731\(v=ax.60\))
+[Charges totals details/Compare charges values (form)](https://technet.microsoft.com/library/hh242731\(v=ax.60\))
 
   
 

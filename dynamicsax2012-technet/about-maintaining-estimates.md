@@ -2,8 +2,9 @@
 title: About maintaining estimates
 TOCTitle: About maintaining estimates
 ms:assetid: 7a3ffcbc-545a-4e1b-a4e8-2dc977015d50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550068(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550068(v=AX.60)
 ms:contentKeyID: 36058247
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -153,21 +154,21 @@ The **New**, **Calculate**, **Delete**, **Post**, **Reverse**, **Eliminate**, an
 
 [About methods for calculating the cost to complete a project](about-methods-for-calculating-the-cost-to-complete-a-project.md)
 
-[Estimate projects (form)](https://technet.microsoft.com/en-us/library/aa599196\(v=ax.60\))
+[Estimate projects (form)](https://technet.microsoft.com/library/aa599196\(v=ax.60\))
 
-[Estimate (form)](https://technet.microsoft.com/en-us/library/aa590971\(v=ax.60\))
+[Estimate (form)](https://technet.microsoft.com/library/aa590971\(v=ax.60\))
 
-[Calculate estimate (class form)](https://technet.microsoft.com/en-us/library/aa577136\(v=ax.60\))
+[Calculate estimate (class form)](https://technet.microsoft.com/library/aa577136\(v=ax.60\))
 
-[Create estimate (class form)](https://technet.microsoft.com/en-us/library/aa553468\(v=ax.60\))
+[Create estimate (class form)](https://technet.microsoft.com/library/aa553468\(v=ax.60\))
 
-[Delete estimate (class form)](https://technet.microsoft.com/en-us/library/aa556177\(v=ax.60\))
+[Delete estimate (class form)](https://technet.microsoft.com/library/aa556177\(v=ax.60\))
 
-[Eliminate estimate (class form)](https://technet.microsoft.com/en-us/library/aa573041\(v=ax.60\))
+[Eliminate estimate (class form)](https://technet.microsoft.com/library/aa573041\(v=ax.60\))
 
-[Post estimate (class form)](https://technet.microsoft.com/en-us/library/aa619839\(v=ax.60\))
+[Post estimate (class form)](https://technet.microsoft.com/library/aa619839\(v=ax.60\))
 
-[Reverse estimate (class form)](https://technet.microsoft.com/en-us/library/aa597252\(v=ax.60\))
+[Reverse estimate (class form)](https://technet.microsoft.com/library/aa597252\(v=ax.60\))
 
   
 

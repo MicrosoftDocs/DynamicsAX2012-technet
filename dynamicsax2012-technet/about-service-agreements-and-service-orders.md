@@ -2,8 +2,9 @@
 title: About service agreements and service orders
 TOCTitle: About service agreements and service orders
 ms:assetid: 3120ff8e-86c3-40ed-9393-51c5d63ba3b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271492(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271492(v=AX.60)
 ms:contentKeyID: 36384124
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

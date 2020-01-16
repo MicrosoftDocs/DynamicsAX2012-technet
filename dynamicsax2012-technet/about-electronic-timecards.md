@@ -2,8 +2,9 @@
 title: About electronic timecards
 TOCTitle: About electronic timecards
 ms:assetid: fce7d032-8895-441b-a582-89b3e335c06d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299234(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh299234(v=AX.60)
 ms:contentKeyID: 36384340
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
